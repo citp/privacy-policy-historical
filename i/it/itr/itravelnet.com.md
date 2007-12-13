@@ -1,19 +1,19 @@
-> *The following text is extracted and transformed from the itravelnet.com privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618061257id_/http%3A//www.itravelnet.com/info/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itravelnet.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213190410id_/http%3A//www.itravelnet.com/info/privacypolicy.html) for the most accurate reproduction.*
 
 # iTravelnet: Privacy Policy
 
 _**Privacy Policy**_
 
-This is the web site of **iTravelnet.com**. 
+This is the web site of **itravelnet.com**. 
 
 Our postal address is  
-P.O.Box 7196  
-St. Kilda Rd, VIC, 8004  
+G.P.O Box 2876  
+Melbourne, VIC, 3001  
 Australia
 
 We can be reached via e-mail at 
 
-For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address.
+For each visitor to our web page, our web server automatically recognizes no information regarding the domain or e-mail address.
 
 We collect aggregate information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations. 
 
