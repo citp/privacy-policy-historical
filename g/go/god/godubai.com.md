@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the godubai.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625020441id_/http%3A//www.godubai.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the godubai.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213043103id_/http%3A//www.godubai.com/privacy.asp) for the most accurate reproduction.*
 
 # Dubai Online Information Guide , Dubai Hotels, Online Hotel Booking, Desert Safari,Dhow Cruise, Reservation
 
-|  [](https://web.archive.org/web/20070625020441id_/http%3A//www.godubai.com/citylife/citylife.asp)  
+|  [](https://web.archive.org/web/20071213043103id_/http%3A//www.godubai.com/citylife/citylife.asp)  
 ---  
-[](https://web.archive.org/web/20070625020441id_/http%3A//www.godubai.com/explore/explore.asp)  
-[](https://web.archive.org/web/20070625020441id_/http%3A//www.godubai.com/realestate/)  
-[](https://web.archive.org/web/20070625020441id_/http%3A//www.godubai.com/dining/)  
-[](https://web.archive.org/web/20070625020441id_/http%3A//www.godubai.com/lodging/lodging.asp)  
-[](https://web.archive.org/web/20070625020441id_/http%3A//www.godubai.com/golf/golf.asp)  
-[](https://web.archive.org/web/20070625020441id_/http%3A//www.godubai.com/entertainment/)  
-[](https://web.archive.org/web/20070625020441id_/http%3A//www.godubai.com/shopping/shopping.asp)  
-[](https://web.archive.org/web/20070625020441id_/http%3A//www.godubai.com/business/business.asp)  
+[](https://web.archive.org/web/20071213043103id_/http%3A//www.godubai.com/explore/explore.asp)  
+[](https://web.archive.org/web/20071213043103id_/http%3A//www.godubai.com/realestate/)  
+[](https://web.archive.org/web/20071213043103id_/http%3A//www.godubai.com/dining/)  
+[](https://web.archive.org/web/20071213043103id_/http%3A//www.godubai.com/lodging/lodging.asp)  
+[](https://web.archive.org/web/20071213043103id_/http%3A//www.godubai.com/golf/golf.asp)  
+[](https://web.archive.org/web/20071213043103id_/http%3A//www.godubai.com/entertainment/)  
+[](https://web.archive.org/web/20071213043103id_/http%3A//www.godubai.com/shopping/shopping.asp)  
+[](https://web.archive.org/web/20071213043103id_/http%3A//www.godubai.com/business/business.asp)  
 [](http://mobile.godubai.com/)  
 | 
 
