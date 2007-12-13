@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the raveis.com privacy policy that was archived on 2007-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070512005931id_/http%3A//www.raveis.com/webpolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raveis.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213150805id_/http%3A//www.raveis.com/webpolicy.asp) for the most accurate reproduction.*
 
 # web policy connecticut real estate and massachusetts real estate from william raveis real estate, one of the leading real estate agencies in connecticut, realtors in massachusetts
 
