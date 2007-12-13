@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fckeditor.net privacy policy that was archived on 2007-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070611055243id_/http%3A//fckeditor.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fckeditor.net privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213032318id_/http%3A//www.fckeditor.net/privacy) for the most accurate reproduction.*
 
 # FCKeditor - Private Statement
 
