@@ -1,10 +1,7 @@
-> *The following text is extracted and transformed from the rollercoastertycoon.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630144810id_/http%3A//atari.com/us/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rollercoastertycoon.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213025523id_/http%3A//atari.com/us/privacy_policy.php) for the most accurate reproduction.*
 
 # Atari - US - Privacy
 
-|  |   
----  
-[Home](https://web.archive.org/us/) \- [Privacy Policy](https://web.archive.org/us/privacy/)  
 |  |  |   
 ---|---|---  
 | 
@@ -156,7 +153,7 @@ Attn.: Webmaster
 417 Fifth Avenue  
 New York, NY 10016  
 (212) 726-6500  
-[webmaster@atari.com](https://web.archive.org/web/20070630144810id_/http://www.atari.com/us/webmaster@atari.com)
+[webmaster@atari.com](https://web.archive.org/web/20071213025519id_/http://www.atari.com/us/webmaster@atari.com)
 
 Please be assured that any personal information that you provide in communications to the above email and postal mail addresses will not be used to send you promotional materials, unless you request it.
 
