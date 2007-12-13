@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solo-e.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624164959id_/http%3A//www.solo-e.com/mainfiles/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solo-e.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213195757id_/http%3A//www.solo-e.com/mainfiles/privacy.shtml) for the most accurate reproduction.*
 
 # Solo-E.com Privacy Policy
 
@@ -24,8 +24,6 @@ Privacy Policy
 
 If users have questions or concerns regarding this privacy policy, please [contact us](http://www.solo-e.com/mainfiles/feedback.shtml).
 
-  
-  
 Solo-Entrepreneur.com respects each individual's right to personal privacy. We collect and use information through our Web site only in the ways disclosed in this policy statement. 
 
 This statement, which details how we gather and disseminate information, has been drafted in an effort to demonstrate our strong commitment to YOUR privacy.
@@ -33,7 +31,7 @@ This statement, which details how we gather and disseminate information, has bee
 Solo-Entrepreneur.com, Inc. is the sole owner of the information collected on www.solo-e.com. Solo-Entrepreneur.com collects information from our users to pay for their membership, for our newsletter list, to post their information in our directory, to send information to friends about the site, and in our discussion forums. 
 
   
-Our membership software, forums and other site areas may require members to supply contact information, such as name, e-mail address, billing address and phone number. We use this information solely to process payments, perform the services offered via the site and to be able to contact you regarding administration of those services. 
+Service signup and user interaction areas may require members to supply contact information, such as name, e-mail address, billing address and phone number. We use this information solely to process payments, perform the services offered via the site and to be able to contact you regarding administration of those services. 
 
 The contact information you provide is used solely to validate your interest and to provide you with the information you require. None of the information you submit will ever be sold to or shared with a third party. 
 
