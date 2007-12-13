@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cbs8.com privacy policy that was archived on 2007-02-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070226102354id_/http%3A//www.cbs8.com/misc/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cbs8.com privacy policy that was archived on 2007-12-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071213161345id_/http%3A//www.cbs8.com/misc/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <title>News 8 :: KFMB Stations, San Diego, California</title>
@@ -11,36 +11,24 @@
 <meta name="MSSmartTagsPreventParsing" content="true">
 <meta name="Description" content="CBS8.com | Local News, Weather, Sports and Breaking News for San Diego, California">
 <meta name="Keywords" content="KFMB, Local 8 News, Channel 8, CBS, CBS8, San Diego, Midwest Television, Healthcast, Your Family First, Crimefighters, Don't Waste Your Money, Larry Himmel">
-<script src="/includes/js/mootools.v1.00.js" type="text/javascript"></script>
+<link rel="shortcut icon" href="/favicon.ico">
+<script src="/includes/js/mootools.v1.11.js" type="text/javascript"></script>
 <script src="/includes/js/KFMB.class.js" type="text/javascript"></script>
 <script src="/includes/js/KFMBTV.class.js" type="text/javascript"></script>
-<script src="/includes/js/AC_RunActiveContent.js" type="text/javascript"></script>
+<script src="/includes/js/swfobject.js" type="text/javascript"></script>
 <script type="text/javascript">
 	var kfmb = new KFMBTV();
-
-	/*		preload images and nav functions when dom is ready		*/
-	Window.onDomReady(function() {
+	window.addEvent("domready",function() {
 		if($('videoToggleButton')) $('videoToggleButton').addEvent("click", toggleVideo);
-		
-		var menuItems = $('menulinks').getElementsBySelector('li a img');
-		var altImages = new Array();
-		menuItems.each(function(img) {
-			
-			altImages.push(img.src.replace(".jpg","2.jpg"));
-			img.addEvent("mouseover", function() {
-				this.src = this.src.replace(".jpg","2.jpg");
+		$ES("#menulinks li a img, #header li a img").each(function(img) {
+			img.addEvent("mouseover",function() {
+				this.src = this.src.replace(".gif","_over.gif");
 			});
-			img.addEvent("mouseout", function() {
-				this.src = this.src.replace("2.jpg",".jpg");
+			img.addEvent("mouseout",function() {
+				this.src = this.src.replace("_over.gif",".gif");
 			});
 		});
-		
-		kfmb.preloadImages(altImages);
-		
-		delete altImages;
-		
 	});
-	
 //-->
 </script>
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
@@ -52,150 +40,76 @@ urchinTracker();
 </head>
 <body bgcolor="#FFFFFF">
 
-<style type="text/css">
-
-	#menulinks ul, #menulinks a img { margin:0; padding:0; border:0; line-height:1px; }
-
-	#menulinks li { list-style:none; float:left; }
-
-</style>
-
 <table width="910" border="0" cellspacing="0" cellpadding="0">
-
 	<tbody><tr>
-
     	<td width="128" rowspan="2" valign="bottom">
-
 			<a href="/" target="_parent"><img src="/misc/hdtv/images/hd_logo.gif" alt="News 8" width="128" height="96" border="0"></a>
-
 		</td>
-
     <td width="616">
-
 		<img src="/images/global/spacer.gif" width="622" height="33" alt="">
-
         <table width="622" border="0" cellspacing="0" cellpadding="0">
-
         	<tbody><tr> 
-
           		<td width="76">
-
 					<a href="http://www.cbs.com/" target="_blank"><img src="/images/nav/cbs_logo.gif" alt="CBS" width="76" height="25" border="0"></a>
-
 				</td>
-
                 <td width="300">
-
 		        	<div id="DateCity"> 
-
               			<p><span style="color: #DF7409;"><strong>
-
-						<script type="text/javascript">document.write(kfmb.getDate());</script>JANUARY 30, 2020
-</strong></span> 
-
+						<script type="text/javascript">document.write(kfmb.getDate());</script>JANUARY 30, 2020</strong></span> 
                     	| <span style="color: #DF7409; ">SAN DIEGO, CA</span><br>
-                KFMB STATIONS: <a href="http://www.cbs8.com" target="_parent">NEWS 
-                8</a> | <a href="http://www.sandiegojack.com" target="_blank">100.7 
-                JACK FM</a> | <a href="http://www.760kfmb.com/" target="_blank">760 
-                KFMB</a> </p>
-
+                    	KFMB STATIONS: <a href="http://www.cbs8.com" target="_parent">NEWS 8</a> | 
+						<a href="http://www.sandiegojack.com" target="_blank">100.7 JACK FM</a> | 
+				    	<a href="http://www.760kfmb.com/" target="_blank">760 KFMB</a> </p>
                     </div>
-
 				</td>
-
           		<td width="240" align="right" class="Search">
-
 					<form name="searchform" method="post" action="/search/">
-
 					  <input name="searchwords" type="text" id="searchwords" style="border: 1px dashed #666666; ">
-
 					  <font size="1" face="Verdana, Arial, Helvetica, sans-serif">
-
 					  <input type="submit" name="Submit" value="Search">
-
 					  </font> 
-
 					</form>
-
 				</td>
-
            	</tr>
-
       </tbody></table>
-
       <img src="/images/global/spacer.gif" alt="" width="622" height="8"></td>
-
-    <td width="160"><!--A01--><iframe id="a59e212c" name="a59e212c" src="http://banners.kfmb.com/ad.manager/adframe.php?n=a59e212c&amp;zoneid=24&amp;target=_blank&amp;cb=Insert_Random_Number_Here&amp;ct0=Insert_Clicktrack_URL_Here" framespacing="0" frameborder="no" scrolling="no" width="160" height="66" allowtransparency="true"><a href='http://banners.kfmb.com/ad.manager/adclick.php?n=a59e212c&ct0=Insert_Clicktrack_URL_Here' target='_blank'><img src='http://banners.kfmb.com/ad.manager/adview.php?&zoneid=24&cb=Insert_Random_Number_Here&n=a59e212c' border='0' alt=''></a></iframe></td>
-
+    <td width="160"><!--A01--><iframe id="a59e212c" name="a59e212c" src="http://banners.kfmb.com/ad.manager/adframe.php?n=a59e212c&amp;zoneid=24&amp;target=_blank&amp;cb=Insert_Random_Number_Here&amp;ct0=Insert_Clicktrack_URL_Here" framespacing="0" frameborder="no" scrolling="no" width="160" height="66" allowtransparency="true"><a href='http://banners.kfmb.com/ad.manager/adclick.php?n=a59e212c&amp;ct0=Insert_Clicktrack_URL_Here' target='_blank'><img src='http://banners.kfmb.com/ad.manager/adview.php?&amp;zoneid=24&amp;cb=Insert_Random_Number_Here&amp;n=a59e212c' border='0' alt='' /></a></iframe></td>
   </tr>
-
   <tr>
-
     <td colspan="2">
-
-	
-
 		<div id="menulinks">
-
 			<ul>
-
-				<li><a href="/"><img src="/includes/images/nav/home.jpg" alt="Home" width="39" height="30"></a></li>
-
-				<li><img src="/includes/images/nav/bar.jpg" alt="" width="13" height="30"></li>
-
-				<li><a href="/news.php"><img src="/includes/images/nav/news8.jpg" alt="News" width="44" height="30"></a></li>
-
-				<li><img src="/includes/images/nav/bar.jpg" alt="" width="13" height="30"></li>
-
-				<li><a href="/weather/"><img src="/includes/images/nav/weather.jpg" alt="weather" width="54" height="30"></a></li>
-
-				<li><img src="/includes/images/nav/bar.jpg" alt="" width="13" height="30"></li>
-
-				<li><a href="/sports/"><img src="/includes/images/nav/sports.jpg" alt="Sports" width="43" height="30"></a></li>
-
-				<li><img src="/includes/images/nav/bar.jpg" alt="" width="13" height="30"></li>
-
-				<li><a href="/community/"><img src="/includes/images/nav/community.jpg" alt="Community" width="67" height="30"></a></li>
-
-				<li><img src="/includes/images/nav/bar.jpg" alt="" width="13" height="30"></li>
-
-				<li><a href="http://www.m2omedia.com/kfmb-tv/"><img src="/includes/images/nav/rewards.jpg" alt="Rewards" width="117" height="30"></a></li>
-
-				<li><img src="/includes/images/nav/bar.jpg" alt="" width="13" height="30"></li>
-
-				<li><a href="http://www.get1free.com/kfmb.php"><img src="/includes/images/nav/coupons.jpg" alt="Coupons" width="88" height="30"></a></li>
-
-				<li><img src="/includes/images/nav/bar.jpg" alt="" width="13" height="30"></li>
-
-				<li><a href="/program_schedule/"><img src="/includes/images/nav/program.jpg" name="community" height="30"></a></li>
-
-				<li><img src="/includes/images/nav/bar.jpg" alt="" width="13" height="30"></li>
-
-				<li><a href="/news_team/"><img src="/includes/images/nav/team.jpg" alt="News Team" width="66" height="30"></a></li>
-
-				<li><img src="/includes/images/nav/bar.jpg" alt="" width="13" height="30"></li>
-
-				<li><a href="/contact_us/"><img src="/includes/images/nav/contact.jpg" alt="Contact Us" width="74" height="30"></a></li>
-
+				<li><img src="/images/nav/nav_left.gif" alt=""></li>
+				<li><a href="/" class="nav_home"><img src="/images/nav/nav_home.gif" alt="Home"></a></li>
+				<li><img src="/images/nav/nav_bar.gif" alt=""></li>
+				<li><a href="/news.php" class="nav_news"><img src="/images/nav/nav_local_news.gif" alt="Local News"></a></li>
+				<li><img src="/images/nav/nav_bar.gif" alt=""></li>
+				<li><a href="/weather/" class="nav_weather"><img src="/images/nav/nav_weather.gif" alt="Weather"></a></li>
+				<li><img src="/images/nav/nav_bar.gif" alt=""></li>
+				<li><a href="/sports/" class="nav_sports"><img src="/images/nav/nav_sports.gif" alt="Sports"></a></li>
+				<li><img src="/images/nav/nav_bar.gif" alt=""></li>
+				<li><a href="/community/" class="nav_community"><img src="/images/nav/nav_community.gif" alt="Community"></a></li>
+				<li><img src="/images/nav/nav_bar.gif" alt=""></li>
+				<li><a href="http://www.m2omedia.com/kfmb-tv/" class="nav_rewards"><img src="/images/nav/nav_rewards.gif" alt="Rewards"></a></li>
+				<li><img src="/images/nav/nav_bar.gif" alt=""></li>
+				<li><a href="http://www.get1free.com/kfmb.php" class="nav_coupons"><img src="/images/nav/nav_coupons.gif" alt="Coupons"></a></li>
+				<li><img src="/images/nav/nav_bar.gif" alt=""></li>
+				<li><a href="/program_schedule/" class="nav_schedule"><img src="/images/nav/nav_schedule.gif" alt="TV Schedule"></a></li>
+				<li><img src="/images/nav/nav_bar.gif" alt=""></li>
+				<li><a href="/news_team/" class="nav_team"><img src="/images/nav/nav_team.gif" alt="News 8 Team"></a></li>
+				<li><img src="/images/nav/nav_bar.gif" alt=""></li>
+				<li><a href="/contact_us/" class="nav_contact"><img src="/images/nav/nav_contact.gif" alt="Contact Us"></a></li>
+				<li><img src="/images/nav/nav_right.gif" alt=""></li>
 			</ul>
-
 		</div>
-
 	</td>
-
   </tr>
-
 </tbody></table>
-
-
-
 <img src="/images/global/spacer.gif" width="910" height="12" alt=""><table width="910" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
-    <td colspan="2" align="center" valign="top"><!--A08--><iframe id="a2b0b8ab" name="a2b0b8ab" src="http://banners.kfmb.com/ad.manager/adframe.php?n=a2b0b8ab&amp;zoneid=31&amp;target=_blank&amp;cb=Insert_Random_Number_Here&amp;ct0=Insert_Clicktrack_URL_Here" framespacing="0" frameborder="no" scrolling="no" width="728" height="90" allowtransparency="true"><a href='http://banners.kfmb.com/ad.manager/adclick.php?n=a2b0b8ab&ct0=Insert_Clicktrack_URL_Here' target='_blank'><img src='http://banners.kfmb.com/ad.manager/adview.php?&zoneid=31&cb=Insert_Random_Number_Here&n=a2b0b8ab' border='0' alt=''></a></iframe><br>&nbsp;</td>
+    <td colspan="2" align="center" valign="top"><!--A08--><iframe id="a2b0b8ab" name="a2b0b8ab" src="http://banners.kfmb.com/ad.manager/adframe.php?n=a2b0b8ab&amp;zoneid=31&amp;target=_blank&amp;cb=Insert_Random_Number_Here&amp;ct0=Insert_Clicktrack_URL_Here" framespacing="0" frameborder="no" scrolling="no" width="728" height="90" allowtransparency="true"><a href='http://banners.kfmb.com/ad.manager/adclick.php?n=a2b0b8ab&amp;ct0=Insert_Clicktrack_URL_Here' target='_blank'><img src='http://banners.kfmb.com/ad.manager/adview.php?&amp;zoneid=31&amp;cb=Insert_Random_Number_Here&amp;n=a2b0b8ab' border='0' alt='' /></a></iframe><br>&nbsp;</td>
     <td width="160" rowspan="2" align="center" valign="top" bgcolor="#999999">
-        <table width="100%" border="1" cellpadding="5" cellspacing="0" bordercolor="#FF9900" bgcolor="#FFFF99"><tbody><tr>
-          
-    <td> <span class="text_ads"> 
+        <span class="text_ads"> 
       <script language="JavaScript" type="text/javascript">
 <!--
 // Insert click tracking URL here
@@ -214,8 +128,7 @@ urchinTracker();
    document.write ("&ct0=" + escape(document.phpAds_ct0));
    document.write ("'><" + "/script>");
 //-->
-</script><script language="JavaScript" type="text/javascript" src="https://banners.kfmb.com/ad.manager/adjs.php?n=ae517b24&amp;zoneid=47&amp;target=_blank&amp;exclude=,&amp;loc=https%3A//web.archive.org/web/20070226102354id_/http%3A//www.cbs8.com/misc/privacy_policy/&amp;r=65897597216&amp;ct0=Insert_Clicktrack_URL_Here"></script></span></td>
-        </tr></tbody></table><p>
+</script><script language="JavaScript" type="text/javascript" src="https://banners.kfmb.com/ad.manager/adjs.php?n=ae517b24&amp;zoneid=47&amp;target=_blank&amp;exclude=,&amp;loc=https%3A//web.archive.org/web/20071213161345id_/http%3A//www.cbs8.com/misc/privacy_policy/&amp;r=48503174348&amp;ct0=Insert_Clicktrack_URL_Here"></script><p>
 		
 		</p><table width="100%" border="1" cellpadding="5" cellspacing="0" bordercolor="#FF9900" bgcolor="#FFFF99"><tbody><tr><td align="left"><span class="text_ads"> 
      <script language="JavaScript" type="text/javascript">
@@ -236,10 +149,17 @@ urchinTracker();
    document.write ("&ct0=" + escape(document.phpAds_ct0));
    document.write ("'><" + "/script>");
 //-->
-</script><script language="JavaScript" type="text/javascript" src="https://banners.kfmb.com/ad.manager/adjs.php?n=a2abe7e3&amp;zoneid=53&amp;exclude=,&amp;loc=https%3A//web.archive.org/web/20070226102354id_/http%3A//www.cbs8.com/misc/privacy_policy/&amp;r=64382024436&amp;ct0=Insert_Clicktrack_URL_Here"></script></span></td>
-        </tr></tbody></table><p>
-		
-		</p><table width="100%" border="1" cellpadding="5" cellspacing="0" bordercolor="#FF9900" bgcolor="#FFFF99"><tbody><tr><td align="left"><span class="text_ads"> 
+</script><script language="JavaScript" type="text/javascript" src="https://banners.kfmb.com/ad.manager/adjs.php?n=a2abe7e3&amp;zoneid=53&amp;exclude=,&amp;loc=https%3A//web.archive.org/web/20071213161345id_/http%3A//www.cbs8.com/misc/privacy_policy/&amp;r=82281617460&amp;ct0=Insert_Clicktrack_URL_Here"></script></span></td>
+        </tr></tbody></table>
+<p> 
+  <!--A10--><iframe id="abc026f3" name="abc026f3" src="http://banners.kfmb.com/ad.manager/adframe.php?n=abc026f3&amp;zoneid=33&amp;target=_blank&amp;cb=Insert_Random_Number_Here&amp;ct0=Insert_Clicktrack_URL_Here" framespacing="0" frameborder="no" scrolling="no" width="160" height="600" allowtransparency="true"><a href='http://banners.kfmb.com/ad.manager/adclick.php?n=abc026f3&amp;ct0=Insert_Clicktrack_URL_Here' target='_blank'><img src='http://banners.kfmb.com/ad.manager/adview.php?&amp;zoneid=33&amp;cb=Insert_Random_Number_Here&amp;n=abc026f3' border='0' alt='' /></a></iframe>  <!--<table width="100%" border="1" cellpadding="5" cellspacing="0" bordercolor="#FF9900" bgcolor="#FFCC66"><tr><td><p><script type="text/javascript" src="http://www.toplevel.com/js/bae4732a-9aea-437f-b040-5257a685aaab/ad.js"></script></p></td></tr></table>
+<p>
+<table width="100%" border="1" cellpadding="5" cellspacing="0" bordercolor="#FF9900" bgcolor="#FFCC66">
+	<tr>
+		<td><p><script type="text/javascript" src="http://www.toplevel.com/js/71d5f275-0193-4d39-820d-a2d627b749ca/ad.js"></script></p></td>
+	</tr>
+</table>-->
+  </p><table width="100%" border="1" cellpadding="5" cellspacing="0" bordercolor="#FF9900" bgcolor="#FFFF99"><tbody><tr><td align="left"><span class="text_ads"> 
      <script language="JavaScript" type="text/javascript">
 <!--
 // Insert click tracking URL here
@@ -258,7 +178,7 @@ urchinTracker();
    document.write ("&ct0=" + escape(document.phpAds_ct0));
    document.write ("'><" + "/script>");
 //-->
-</script><script language="JavaScript" type="text/javascript" src="https://banners.kfmb.com/ad.manager/adjs.php?n=a4a4994f&amp;zoneid=54&amp;exclude=,&amp;loc=https%3A//web.archive.org/web/20070226102354id_/http%3A//www.cbs8.com/misc/privacy_policy/&amp;r=4406618589&amp;ct0=Insert_Clicktrack_URL_Here"></script></span></td>
+</script><script language="JavaScript" type="text/javascript" src="https://banners.kfmb.com/ad.manager/adjs.php?n=a4a4994f&amp;zoneid=54&amp;exclude=,&amp;loc=https%3A//web.archive.org/web/20071213161345id_/http%3A//www.cbs8.com/misc/privacy_policy/&amp;r=99279479242&amp;ct0=Insert_Clicktrack_URL_Here"></script></span></td>
         </tr></tbody></table><p>
 		
 		</p><table width="100%" border="1" cellpadding="5" cellspacing="0" bordercolor="#FF9900" bgcolor="#FFFF99"><tbody><tr><td align="left"><span class="text_ads"> 
@@ -280,10 +200,12 @@ urchinTracker();
    document.write ("&ct0=" + escape(document.phpAds_ct0));
    document.write ("'><" + "/script>");
 //-->
-</script><script language="JavaScript" type="text/javascript" src="https://banners.kfmb.com/ad.manager/adjs.php?n=a1b19091&amp;zoneid=55&amp;exclude=,&amp;loc=https%3A//web.archive.org/web/20070226102354id_/http%3A//www.cbs8.com/misc/privacy_policy/&amp;r=18272676240&amp;ct0=Insert_Clicktrack_URL_Here"></script></span></td>
+</script><script language="JavaScript" type="text/javascript" src="https://banners.kfmb.com/ad.manager/adjs.php?n=a1b19091&amp;zoneid=55&amp;exclude=,&amp;loc=https%3A//web.archive.org/web/20071213161345id_/http%3A//www.cbs8.com/misc/privacy_policy/&amp;r=52086802175&amp;ct0=Insert_Clicktrack_URL_Here"></script></span></td>
         </tr></tbody></table><p>
 		
-		</p><table width="100%" border="1" cellpadding="5" cellspacing="0" bordercolor="#FF9900" bgcolor="#FFFF99"><tbody><tr><td align="left"><span class="text_ads"> 
+		
+</p><table width="100%" border="1" cellpadding="5" cellspacing="0" bordercolor="#FF9900" bgcolor="#FFFF99">
+  <tbody><tr><td align="left"><span class="text_ads"> 
      <script language="JavaScript" type="text/javascript">
 <!--
 // Insert click tracking URL here
@@ -302,75 +224,130 @@ urchinTracker();
    document.write ("&ct0=" + escape(document.phpAds_ct0));
    document.write ("'><" + "/script>");
 //-->
-</script><script language="JavaScript" type="text/javascript" src="https://banners.kfmb.com/ad.manager/adjs.php?n=a23f3fee&amp;zoneid=56&amp;exclude=,&amp;loc=https%3A//web.archive.org/web/20070226102354id_/http%3A//www.cbs8.com/misc/privacy_policy/&amp;r=90714332672&amp;ct0=Insert_Clicktrack_URL_Here"></script></span></td>
+</script><script language="JavaScript" type="text/javascript" src="https://banners.kfmb.com/ad.manager/adjs.php?n=a23f3fee&amp;zoneid=56&amp;exclude=,&amp;loc=https%3A//web.archive.org/web/20071213161345id_/http%3A//www.cbs8.com/misc/privacy_policy/&amp;r=33111490445&amp;ct0=Insert_Clicktrack_URL_Here"></script></span></td>
         </tr></tbody></table>
 			
 	
-<p><!--A10--><iframe id="abc026f3" name="abc026f3" src="http://banners.kfmb.com/ad.manager/adframe.php?n=abc026f3&amp;zoneid=33&amp;target=_blank&amp;cb=Insert_Random_Number_Here&amp;ct0=Insert_Clicktrack_URL_Here" framespacing="0" frameborder="no" scrolling="no" width="160" height="600" allowtransparency="true"><a href='http://banners.kfmb.com/ad.manager/adclick.php?n=abc026f3&ct0=Insert_Clicktrack_URL_Here' target='_blank'><img src='http://banners.kfmb.com/ad.manager/adview.php?&zoneid=33&cb=Insert_Random_Number_Here&n=abc026f3' border='0' alt=''></a></iframe><!--<table width="100%" border="1" cellpadding="5" cellspacing="0" bordercolor="#FF9900" bgcolor="#FFCC66"><tr><td><p><script type="text/javascript" src="http://www.toplevel.com/js/bae4732a-9aea-437f-b040-5257a685aaab/ad.js"></script></p></td></tr></table>
-<p>
-<table width="100%" border="1" cellpadding="5" cellspacing="0" bordercolor="#FF9900" bgcolor="#FFCC66">
-	<tr>
-		<td><p><script type="text/javascript" src="http://www.toplevel.com/js/71d5f275-0193-4d39-820d-a2d627b749ca/ad.js"></script></p></td>
-	</tr>
-</table>-->
-    </p></td>
+    </span></td>
   </tr>
   <tr>
     <td width="128" align="center" valign="top" background="/images/global/leftcolumn_background.gif">
-      <map name="Map">
-    <area shape="rect" coords="8,127,85,158" href="http://www.760kfmb.com" target="_parent">
-    <area shape="rect" coords="7,72,85,123" href="http://www.sandiegojack.com" target="_parent">
-  </map><table width="107" height="100%" border="0" align="center" cellspacing="0"><tbody><tr><td width="107" align="left" valign="top"><a href="/features/"><img src="/images/nav/special_features.gif" width="107" height="28" border="0"></a><!--<div class="navLeft"><img src="/community/buddies4life/images/tiny_ribbon.gif" width="24" height="34" border="0" align="left"><a href="/blog/?cat=2">Barbara-Lee 
-        Edwards' Breast Cancer 3 Day Blog</a></div>-->
-<div class="navLeft"><a href="/features/healthcast/">Health Alert</a></div>
-<div class="navLeft"><a href="/features/crimefighters/">CrimeFighters</a></div>
-<div class="navLeft"><a href="/features/consumer_alert/">Consumer Alert</a></div>
-<div class="navLeft"><a href="/features/larry_himmel/">Larry Himmel</a></div>
-<div class="navLeft"><a href="/features/special_assignment/">Special Assignment</a></div>
-<div class="navLeft"><a href="/features/local8pets/">News 8 Pets</a></div>
-<div class="navLeft"><a href="/features/local8recipes/">News 8 Recipes</a></div>
-	<!--<p><a href="/blog/">Blogger 8 </a></p>-->
-<img src="/images/nav/quick_links.gif" width="107" height="28">
-<div class="navLeft2"></div>
-      <div class="navLeft2"></div>
-<div class="navLeft2"><a href="/features/consumer_alert/critic.php">Consumer Critic</a></div>
-      <div class="navLeft2"></div>
-      <!-- <div class="navLeft2"><img src="/community/buddies4life/images/tiny_ribbon.gif" width="24" height="34" border="0" align="left"><a href="/community/buddies4life/index.php#2006">Register 
-        Now for Breast Cancer 3 Day</a></div>--><div class="navLeft2"></div><div class="navLeft2"><a href="http://www.sandiegogasprices.com/" target="_blank"><img src="/images/nav/gas_tracker.gif" width="24" height="30" border="0" align="left">Gas Price Tracker</a></div>
-<div class="navLeft2"><a href="/misc/your_stories/">Your Stories</a></div><div class="navLeft2" "=""><a href="/websites.php"><img src="/images/homepage/websites_mentioned.gif" width="23" height="18" border="0">Websites 
-        Mentioned In The Newscast</a></div><div class="navLeft2" "=""><a href="/program_schedule">Program Schedule</a></div>
-<div class="navLeft2"><a href="/contact_us/advisory_board/index.php">Viewer Advisory Board</a></div>
-<div class="navLeft2"><a href="http://www.carsoup.com/default.asp?MarketID=21&amp;CSID=48">Buy/Sell a car in San Diego</a></div>
-<div class="navLeft2"><a href="/contact_us/jobs.php">Jobs at KFMB</a></div>
-<div align="center"><img src="/images/nav/community.gif" width="107" height="28"></div>
-<div class="navLeft2"><a href="/community/adopt8/index.php">Adopt 8</a></div>
-<div class="navLeft2"><a href="/community/buddies4life/index.php">Buddies For Life</a></div>
-<div class="navLeft2"><a href="/community/cool_school/index.php">8's Cool School</a></div>
-<div class="navLeft2"><a href="/community/force8/index.php">Force 8</a></div>
-<div class="navLeft2"><a href="/community/morning_kids/index.php">News 8's Morning Kids</a></div>
-<div class="navLeft2"><a href="/community/volunteer8/index.php">Volunteer 8</a></div>
-<div class="navLeft2"><a href="/community/speakers_bureau/index.php">Speakers Bureau</a></div>
-<div class="navLeft2"><a href="/community/weather/index.php">Weather Wednesdays</a></div>
-<div class="navLeft2"><a href="/community/event_calendar/index.php">Community Calendar</a></div>
-<div class="navLeft2"><a href="/community/psa/index.php">PSA's</a></div>
-<div align="center"><img src="/images/nav/kfmbstations.gif" width="107" height="28"><br>
-        <img src="/images/nav/kfmb_station_logos.gif" width="90" height="160" border="0" usemap="#Map"></div>
-      <div align="center"><img src="/images/nav/site_resources.gif" width="107" height="28" border="0"><br>
-        <br>
-        <a href="/rss/"><img src="/images/rss.gif" width="36" height="14" border="0"></a><br>
-      </div></td>
-  </tr>
-  
-</tbody></table>
-<p class="websites"><img src="/images/global/spacer.gif" width="128" height="2"></p>
-    </td>
+      <style type="text/css">
+<!--
+a.screenx, a.screenx:visited {
+/*color:#336699;*/
+position:relative; 
+z-index:1;
+float:left; /*hack in IE just for nav-left_css*/
+width:97px; /*hack in IE just for nav-left_css*/
+}
+a.screenx b {
+position:absolute;
+visibility:hidden; /* hide the image */
+width:195px; /* give it a width */
+height:0; /* no height to solve an Opera bug that 
+             makes it selectable when hidden */
+border:1px solid #000; /* add a border */
+right:-150px; /* position:the image */
+top:10px;
+}
+a.screenx:hover {
+text-decoration:none; 
+border:0;  /*needed for this to work in IE */ 
+z-index:50000;
+}
+a.screenx:hover b {
+visibility:visible; /* make the image visible */
+height:146px; /* now give it a height */
+cursor:pointer; /* for IE */
+z-index:50000; 
+}
+a.screenx:hover b img {
+border:0; /* remove the link border */
+}
+.orange {
+	font-weight: bolder;
+	color: #000000;
+	font-size: 12px;
+}
+-->
+</style>
+<div id="navLeftContain"> <a href="/hot_button/"><img src="/images/nav/hot_button_but2.jpg" alt="Hot Button" width="107" height="77" border="0"></a>
+  <ul class="navLeft2">
+    <li class="navheader"><img src="/images/nav/videos.gif" alt="Special Features"></li>
+    <li><a href="/video/">Top Videos</a></li>
+    <li><a href="/features/archives/video/">News 8 Archives</a></li>
+    <li><a href="/partners/News_8_To_Go/">News 8 To Go</a></li>
+  </ul>
+  <ul class="navLeft">
+	<li class="navheader"><img src="/images/nav/special_features.gif" alt="Special Features"></li>
+			<li><a href="/features/healthcast/">Health Alert</a></li>
+			<li><a href="/features/crimefighters/">CrimeFighters</a></li>
+	<li><a href="/features/consumer_alert/">Consumer Alert</a></li>
+			<li><a href="/features/larry_himmel/">Larry Himmel</a></li>
+			<li><a href="/features/special_assignment/">Special Assignment</a></li>
+			<li><a href="/features/cars/">Hot Cars</a></li>
+			<li><a href="/features/local8pets/">News 8 Pets</a></li>
+			<li><a href="/features/local8recipes/">News 8 Recipes</a></li>
+			<li><a href="/blog/index2.php">News 8 Blogs</a></li>
+</ul>
+  <ul class="navLeft2">
+    <li class="navheader"><img src="http://kfmb.com/images/nav/quick_links.gif" alt="Quick Links"></li>
+    <li><a href="/misc/hdtv/"><span class="orange">NEWS 8 In HD</span></a></li>
+<li><a href="/misc/fires_oct_07/index.php"><img src="/images/nav/wildfire_icon.gif" border="0" align="left">NEWS 8 Wildfire Resource</a></li>
+    <li><a class="screenx" href="/pigskin/" target="_blank"><img src="/partners/pigskinpicks/images/pigskin_icon_sm.gif" width="24" height="34" border="0" align="left">Play 
+      Ultimate Pigskin Picks<b><img src="/partners/pigskinpicks/images/pigskin_icon_bg.jpg" alt="Ultimate Pigskin Picks" title="Ultimate Pigskin Picks" width="195" height="146" border="0"></b></a></li>
+    <li><a href="http://www.m2omedia.com/kfmb-tv/">Channel 8 Rewards</a></li>
+    <li><a href="/features/consumer_alert/critic.php">Consumer Critic</a></li>
+    <li><a class="screenx" href="http://www.sandiegogasprices.com/" target="_blank"><img src="http://kfmb.com/images/nav/gas_tracker.gif" width="24" height="34" border="0" align="left">Gas 
+      Price Tracker<b><img src="http://www.SanDiegoGasPrices.com/gb/SanDiegogasbuddy.gif" alt="" title="SD Gas Price Tracker" width="195" height="146" border="0"></b></a></li>
+    <li><a href="/misc/your_stories/">Your Stories</a></li>
+    <li><a href="/program_schedule">Program Schedule</a></li>
+    <li><a href="/contact_us/advisory_board/index.php">Viewer Advisory Board</a></li>
+    <li><a href="/contact_us/jobs.php">Jobs at KFMB</a></li>
+    <li class="navheader"><img src="/images/nav/community.gif" alt="Community"></li>
+    <li><a href="http://www.cbs8.com/community/buddies4life/"><img src="/community/buddies4life/3day/images/pink_ribbon.gif" alt="" width="24" height="34" border="0" align="left">The 
+      San Diego Race For The Cure</a></li>
+    <li><a href="http://www.cbs8.com/community/buddies4life/3day/"><img src="/community/buddies4life/3day/images/pink_ribbon.gif" alt="" width="24" height="34" border="0" align="left">The 
+      San Diego Breast Cancer 3 Day</a></li>
+    <li><a href="http://kindervision.org/kfmb_the_greatest_save/indexpage.php"><img src="/community/global_images/hand.gif" border="0" width="24" height="34" align="left">Safety 
+      Tips For Kids and Teens</a></li>
+    <li><a href="/community/adopt8/index.php">Adopt 8</a></li>
+    <li><a href="/community/buddies4life/index.php">Buddies For Life</a></li>
+    <li><a href="/community/cool_school/index.php">8's Cool School</a></li>
+    <li><a href="/community/force8/index.php">Force 8</a></li>
+    <li><a href="/community/morning_kids/index.php">News 8's Morning Kids</a></li>
+    <li><a href="/community/volunteer8/index.php">Volunteer 8</a></li>
+    <li><a href="/community/speakers_bureau/index.php">Speakers Bureau</a></li>
+    <li><a href="/community/weather/index.php">Weather Wednesdays</a></li>
+    <li><a href="/community/event_calendar/index.php">Community Calendar</a></li>
+    <li><a href="/community/psa/index.php">PSA's</a></li>
+    <li class="navheader"><img src="/images/nav/kfmbstations.gif" align="KFMB Stations"></li>
+    <li style="display:block "> 
+      <center>
+        <img width="90" height="160" border="0" usemap="#Map" src="/images/nav/kfmb_station_logos.gif"> 
+      </center>
+    </li>
+    <li class="navheader"><img src="/images/nav/site_resources.gif" alt="Site Resources"></li>
+    <li style="display:block "><br>
+      <a href="/rss/"> 
+      <center>
+        <img src="/images/rss.gif" alt="RSS Feed" border="0"> 
+      </center>
+      </a></li>
+  </ul>
+		  <map name="Map">
+			<area shape="rect" coords="8,127,85,158" href="http://www.760kfmb.com" target="_blank">
+			<area shape="rect" coords="7,72,85,123" href="http://www.sandiegojack.com" target="_blank">
+		  </map>
+</div>    </td>
     <td width="622" valign="top" style="background: url(/images/global/rightsidecol_background.gif) repeat-y right;">
       <table width="622" border="0" cellpadding="0" cellspacing="0">
         <tbody><tr valign="top">
           <td width="372"><img name="promo" src="/misc/privacy_policy/images/privacy_header.jpg" width="372" height="100" alt=""> 
           </td>
           <td width="12"><img src="/images/global/spacer.gif" width="12" height="110"></td>
-          <td width="226" bgcolor="#FFFFFF"><a href="http://www.m2omedia.com/kfmb-tv/"><img src="/rewards/global_images/web/sm_promo_banner.gif" alt="" width="226" height="100" border="0"></a>          </td>
+          <td width="226" bgcolor="#FFFFFF"><a href="http://www.m2omedia.com/kfmb-tv/"><img src="/images/channel_8_rewards_sm.gif" width="226" height="100" border="0"></a>          </td>
           <td width="12" rowspan="2"><img src="/images/global/spacer.gif" width="12" height="8"></td>
         </tr>
         <tr valign="top">
@@ -380,7 +357,7 @@ urchinTracker();
                 POLICY</b></td>
               </tr>
               <tr valign="top"> 
-                <td><p class="FullStory"><a name="top" id="top"></a>KFMB.com takes 
+                <td><p class="FullStory"><a name="top" id="top"></a>CBS8.com takes 
                     your privacy very seriously. We are committed to protecting 
                     your privacy online. We are also committed to providing you 
                     with the very best experience we can on our web site. For 
@@ -392,35 +369,35 @@ urchinTracker();
                     so please check back periodically.</p>
                   <p class="SubHeaderRed"><a name="overview"></a>POLICY OVERVIEW</p>
                   <p class="FullStory"> The security of personal information is 
-                    a high priority at KFMB.com. Our web site and all associated 
+                    a high priority at CBS8.com. Our web site and all associated 
                     data are implemented with safeguards to protect against loss, 
                     unauthorized access, destruction, misuse, modification and 
                     improper disclosure. No computer system or information can 
                     ever be fully protected against every possible hazard. But 
-                    KFMB.com is committed to providing reasonable and appropriate 
+                    CBS8.com is committed to providing reasonable and appropriate 
                     security controls to protect our web site and their information 
                     against foreseeable hazards.<br>
               <br>
-  The information you provide helps us make the KFMB.com site more fun and useful
+  The information you provide helps us make the CBS8.com site more fun and useful
   for you. It also enables us to give you updates about our services. When you
   become a registered member of our site, you may receive updates about our services.
   Users should not receive any email or postal mail from any other parties as
-  a result of signing up to become a member of KFMB.com unless the user has expressly "opted-in" to
+  a result of signing up to become a member of CBS8.com unless the user has expressly "opted-in" to
   receiving such email.<br>
           <br>
   Please keep in mind that whenever you voluntarily disclose personal information
-  in public areas of KFMB.com, such as message boards, online classifieds, or
+  in public areas of CBS8.com, such as message boards, online classifieds, or
   personals, your information can be viewed and possibly used by others. We advise
   users not to disclose information that can be used to contact the user ("Personally
   Identifiable information") that they do not wish for others to obtain, such
   as full name, home address, or phone number.</p>
                   <p class="SubHeaderRed"><a name="collection_use"></a>INFORMATION COLLECTION AND USE</p>
                   <p class="FullStory"> <span class="FullStory">Below are more details about the 
-                    information that KFMB.com gathers from you and how we use 
+                    information that CBS8.com gathers from you and how we use 
                     it.</span></p>
                   <ul>
                     <li> 
-                      <p class="FullStory"> Email Newsletters. KFMB.com offers 
+                      <p class="FullStory"> Email Newsletters. CBS8.com offers 
                         email newsletters. Only registered users will be able 
                         to receive newsletters. We will use your email address 
                         only to send you the newsletter(s)<i> </i>that you signed 
@@ -428,13 +405,13 @@ urchinTracker();
                         share our newsletter subscriber lists to third parties 
                         but we may send notices to the lists on behalf of third 
                         parties and our newsletters may<i> </i>contain advertisements 
-                        from KFMB.com sponsors or advertisers. If you want to 
+                        from CBS8.com sponsors or advertisers. If you want to 
                         stop receiving our newsletter, follow the procedures to 
                         unsubscribe at the bottom of any newsletter we send you. 
                       </p>
                     </li>
                     <li> 
-                      <p class="FullStory">Email Updates to Members. KFMB.com 
+                      <p class="FullStory">Email Updates to Members. CBS8.com 
                         may periodically send service email updates announcing 
                         special offers and new features to registered users. If 
                         you want to stop receiving our email service announcements, 
@@ -454,7 +431,7 @@ urchinTracker();
                         may be shared with others.</p>
                     </li>
                     <li> 
-                      <p class="FullStory">Surveys and User Research. KFMB.com 
+                      <p class="FullStory">Surveys and User Research. CBS8.com 
                         conducts email and web-delivered surveys from time to 
                         time, as well as instant polls, to gather information 
                         about our audience. It is important to remember that taking 
@@ -485,28 +462,28 @@ urchinTracker();
                         to display advertisements that we think will be of particular 
                         interest to you. You may configure your browser to reject 
                         cookies, but this may interfere with some functionality 
-                        of KFMB.com. </p>
+                        of CBS8.com. </p>
                     </li>
                     <li> 
-                      <p class="FullStory">Other Third Parties. KFMB.com may share 
+                      <p class="FullStory">Other Third Parties. CBS8.com may share 
                         non-personal, aggregate, or summary, information regarding 
                         our users with other third parties not mentioned in this 
                         policy. This kind of information does not identify you 
                         individually.</p>
                     </li>
                     <li> 
-                      <p class="FullStory">Legal Authorities. KFMB.com may also 
+                      <p class="FullStory">Legal Authorities. CBS8.com may also 
                         disclose Personally Identifiable Information in cases 
                         when we have reason to believe that it is necessary to 
-                        identify someone who may be causing injury to KFMB.com’s 
-                        rights or property, other users, or anyone else. KFMB.com 
+                        identify someone who may be causing injury to CBS8.com’s 
+                        rights or property, other users, or anyone else. CBS8.com 
                         may disclose Personally Identifiable Information of our 
                         users to government authorities at our discretion. </p>
                     </li>
                   </ul>
                   <p class="SubHeaderRed"><a name="consent"></a>YOUR CONSENT</p>
                   <p class="FullStory">By using our web site, you consent to the 
-                    collection and use of your personal information by KFMB.com.</p>
+                    collection and use of your personal information by CBS8.com.</p>
                   <p class="SubHeaderRed"><a name="websites_mentioned"></a>WEBSITES MENTIONED</p>
                   <p class="FullStory">The products and services contained on 
                     this website are not necessarily endorsed or recommended by 
