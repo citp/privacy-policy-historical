@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the igindex.co.uk privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629064045id_/http%3A//www.igindex.co.uk/content/privacy_notice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igindex.co.uk privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213014254id_/http%3A//www.igindex.co.uk/content/sites/igi/en_GB/privacy-notice.html) for the most accurate reproduction.*
 
 # IG Index - Privacy Notice
 
@@ -89,8 +89,8 @@ Friars House
 London  
 SE1 8EZ 
 
-#### Issue 1, September 2002  
-IG Index plc
+**Issue 1, September 2002  
+IG Index plc**
 
 ## Privacy: Web supplement
 
@@ -113,8 +113,3 @@ We are constantly striving to improve functionality on this site through technol
 ### Links to third party websites
 
 This website may have links to external third party websites that may benefit the user. Please note, however, that third party websites are not covered by our privacy policy and these sites are not subject to our privacy standards and procedures.
-
-### Any Questions?
-
-Freephone **0800 195 3100**  
-Please see [contact](https://web.archive.org/content/contact.html) page for support/trading lines
