@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prisonfellowship.org privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617073532id_/http%3A//www.prisonfellowship.org/generic.asp%3FID%3D2057) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prisonfellowship.org privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213211939id_/http%3A//www.prisonfellowship.org/generic.asp%3FID%3D2057) for the most accurate reproduction.*
 
 # Prison Fellowship Privacy Policy - Prison Fellowship
 
