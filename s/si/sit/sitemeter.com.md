@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sitemeter.com privacy policy that was archived on 2007-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070621153826id_/http%3A//sitemeter.com/%3Fa%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitemeter.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213074907id_/http%3A//www.sitemeter.com/%3Fa%3Dprivacy) for the most accurate reproduction.*
 
 # Site Meter - Counter and Statistics Tracker
 
@@ -6,7 +6,7 @@
 
 Site Meter ("Site Meter", "we" or "us") is committed to your online privacy and protecting any and all personally identifiable information ([1](https://web.archive.org/?a=privacy#1)) ("Personal Information") about you that we may collect and store as a result of our business activities with you. This Privacy Policy (this "Policy") outlines the type of information we may collect, how we might use such information, and the choices you have regarding the Personal Information we may possess about you. 
 
-We encourage you to read this Policy carefully. If you have any questions about this Policy, our use of your Personal Information, or your dealings with this website, please feel free to contact us by sending an email to [webmaster@sitemeter.com](mailto:webmaster@sitemeter.com). 
+We encourage you to read this Policy carefully. If you have any questions about this Policy, our use of your Personal Information, or your dealings with this website, please feel free to contact us by submitting a [support request](http://support.sitemeter.com/index.php?_m=tickets&_a=submit) to us. 
 
 We may update this Policy from time to time in our sole discretion to reflect changes in our use of your Personal Information and/or applicable law. Any changes made to this Policy will be reflected in an updated policy (denoted by an updated date above) posted on our website at [www.sitemeter.com.](https://web.archive.org/)
 
