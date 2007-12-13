@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cartalk.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205192033id_/http%3A//cartalk.com/menus/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartalk.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213081925id_/http%3A//www.cartalk.com/menus/privacy.html) for the most accurate reproduction.*
 
 # Car Talk: Privacy Policy
 
@@ -6,9 +6,9 @@
 
 Thank you for visiting the cartalk.com Web site. 
 
-"Car Talk" is a registered service mark of Tom and Ray Magliozzi. "cartalk.com" is a production of Dewey, Cheetham and Howe. Contents © 2004, Dewey, Cheetham and Howe. 
+"Car Talk" is a registered service mark of Tom and Ray Magliozzi. "cartalk.com" is a production of Dewey, Cheetham and Howe. Contents 2007, Dewey, Cheetham and Howe. 
 
-Our postal address is P.O. Box 3500, Car Talk Plaza, Harvard Square, Cambridge, MA 02238. You may also contact us via email at [feedback@cartalk.com](mailto:feedback@cartalk.com). 
+Our postal address is P.O. Box 3500, Car Talk Plaza, Harvard Square, Cambridge, MA 02238. You may also contact us via [email](https://web.archive.org/web/20071213081925id_/http%3A//www.cartalk.com/menus/email/email.html). 
 
 **cartalk.com's Privacy Policy**  
 Your privacy on the Internet is important to us. As part of the operations of cartalk.com, we gather certain types of information about cartalk.com users. This Privacy Policy explains the types of information we gather and what we do with it. 
@@ -58,7 +58,7 @@ cartalk.com provides shopping services in our Shameless Commerce Division. These
 We strive to make your shopping experience as worry-free as possible. We use secure server software (SSL), the industry standard for ensuring the security of your electronic commerce transactions. SSL encrypts all of your personal information transmitted over the Internet, including your credit card number and name and address. This technology is designed to protect your information by rendering it useless, should it ever be intercepted in transit. We will continue to provide the highest level of security by implementing improved technologies as they become available. 
 
 **Community and Public Areas**  
-Information posted to bulletin boards, car surveys, Mechan-X Files and personal ads is available to the general public. Please use caution when posting any such information. Users of bulletin boards must follow acceptable standards of behavior when posting messages online. cartalk.com reserves the right to, but is not obligated to, refuse or delete any content that in our sole discretion is considered inappropriate. cartalk.com also reserves the right to block a site user entirely if his/her behavior on and use of the site is deemed inappropriate. 
+Information posted to bulletin boards, car surveys, Mechanics Files and personal ads is available to the general public. Please use caution when posting any such information. Users of bulletin boards must follow acceptable standards of behavior when posting messages online. cartalk.com reserves the right to, but is not obligated to, refuse or delete any content that in our sole discretion is considered inappropriate. cartalk.com also reserves the right to block a site user entirely if his/her behavior on and use of the site is deemed inappropriate. 
 
 **Links to and from Other Sites**  
 Our site contains links to sites other than cartalk.com; similarly, other sites link to cartalk.com. These sites may not follow the same privacy policies as cartalk.com. cartalk.com does not control the content that appears on these sites. Such sites may contain information that content providers independent of cartalk.com have created, maintained, published, posted, or otherwise made available. 
@@ -71,11 +71,11 @@ We believe that it is especially important to protect children's privacy online.
 **Additional Information**  
 No transmission of data over the Internet is guaranteed to be completely secured. It may be possible for third parties not under the control of cartalk.com to intercept or access transmissions or private communications unlawfully. While we strive to protect your personal information, cartalk.com cannot ensure or warrant the security of any information you transmit to us. Any such transmission is done at your own risk. 
 
-cartalk.com reserves the right to change this Privacy Policy at any time. Any such changes will be posted online. Questions should be directed to [feedback@cartalk.com](mailto:feedback@cartalk.com). 
+cartalk.com reserves the right to change this Privacy Policy at any time. Any such changes will be posted online. [Email us](https://web.archive.org/email/email.html) with any questions. 
 
-Cartalk.com is a production of Dewey, Cheetham and Howe. Contents © 2006, Dewey, Cheetham and Howe. 
+Cartalk.com is a production of Dewey, Cheetham and Howe. Contents © 2007, Dewey, Cheetham and Howe. 
 
-CAR TALK, DEWEY, CHEETHAM & HOWE, SHAMELESS COMMERCE, and WARPED DISCS are registered trademarks of Tom and Ray Magliozzi and/or Tappet Brothers Associates d/b/a Dewey, Cheetham & Howe.
+CAR TALK, DEWEY, CHEETHAM & HOWE, SHAMELESS COMMERCE, and WARPED DISCS are registered trademarks, and CLICK AND CLACK is a trademark, of Tom and Ray Magliozzi and/or Tappet Brothers Associates d/b/a Dewey, Cheetham & Howe.
 
   
 
