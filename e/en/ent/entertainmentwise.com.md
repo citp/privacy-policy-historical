@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the entertainmentwise.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607180953id_/http%3A//www.entertainmentwise.com/info%3Fid%3D69) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entertainmentwise.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213092143id_/http%3A//www.entertainmentwise.com/info%3Fid%3D69) for the most accurate reproduction.*
 
-# Privacy Policy - Entertainment News, Reviews, Competitions - Entertainmentwise
+# Privacy Policy - Entertainment News, Movie Reviews, Competitions - Entertainmentwise
 
-|  | **This Privacy Policy is applicable to any personal information, which is given by You to Us ("User Information") via the web site located at www.entertainmentwise.com ("Site"). This Policy is devised to help you feel more confident about the privacy and security of your personal details.** "You" shall mean you, the user of the Site. "We/Us" means Entertainmentwise. The "Site" shall have the meaning as defined above. "Users" means the users of the Site collectively and/or individually as the context allows. "User Information" means the personal details, which may be provided by You to Us via the Site as described above.
+[SITE INFO »](https://web.archive.org/site%20info) [ ](https://web.archive.org/site%20info/)
+
+**This Privacy Policy is applicable to any personal information, which is given by You to Us ("User Information") via the web site located at www.gigwise.com ("Site"). This Policy is devised to help you feel more confident about the privacy and security of your personal details.** "You" shall mean you, the user of the Site. "We/Us" means Gigwise. The "Site" shall have the meaning as defined above. "Users" means the users of the Site collectively and/or individually as the context allows. "User Information" means the personal details, which may be provided by You to Us via the Site as described above.
 
 We process personal data only in strict compliance with the Data Protection Act 1998 and associated legislation.  
  **  
@@ -37,8 +39,6 @@ You may notify Us of any updates, amendments and corrections to previously colle
 We reserve the right, at any time, to modify, alter, or update this Privacy Policy.
 
  **Contact**  
-Any queries or comments about this policy should be forwarded to [query@entertainmentwise.com](mailto:query@entertainmentwise.com).
+Any queries or comments about this policy should be forwarded to [query@gigwise.com](mailto:query@gigwise.com).
 
-Any site that you may connect to from here is not covered by this Privacy Policy.  
-  
----|---
+Any site that you may connect to from here is not covered by this Privacy Policy. 
