@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sciencebuddies.org privacy policy that was archived on 2007-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070630060635id_/http%3A//www.sciencebuddies.org/mentoring/privacy_policy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sciencebuddies.org privacy policy that was archived on 2007-12-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071213042646id_/http%3A//www.sciencebuddies.org/mentoring/privacy_policy.shtml) for the most accurate reproduction.-->
 
 <html><head>
 <!-- Edit date = 07/22/2003 TL 
@@ -23,10 +23,14 @@ var page_title = "Privacy Policy";
 // This routine parses the URL search string.  For example, www.xyz.com?from=homepage
 // parses into a var "from" equal to "homepage".
 // KLH 09/01/2004
+// DBS 10/12/2007 added fave argument  11/20/2007 isb friend 
 
 // Need to define a variable for which there is logic in subsequent JavaScripts.  If undefined, "if" statements containing the 
 // variable are not processed.
 var from = "empty";
+var fave = "empty";
+var isb = "empty";
+var friend = "empty";
 
 if (location.search.length > 0) { 
 	launchstring = location.search.substring(1, location.search.length); 
@@ -48,6 +52,8 @@ if (location.search.length > 0) {
 
 <script language="Javascript">
 // DBS 03/01/2007 (Howto redo - General top of page - Banner & breadcrumbs only) 
+// DBS 10/16/2007 (Remove blacklinks)
+// DBS 11/15/2007 (new tabs) 
 
 function SetValue1 (form) {
 	// location.href is the current page URL, split is a javascript function that splits the string on the character in it's argument.
@@ -67,35 +73,34 @@ table#breadcrumbs {background-color:#D0C7BB}
 <table border="0" cellpadding="0" cellspacing="0" bgcolor="#000000" width="100%" height="85">
 	<tbody><tr>
 		<td align="left" valign="top" id="blacklink">
-			<a href="/">Science Fair Project Home</a><br>
-			<a href="/"><img src="bannertabs/science_fair_project_ideas_tag.gif" width="435" height="51" hspace="0" border="0" alt="Free Science Fair Project Ideas, Answers and Tools for Serious Students"></a><br><br>
-<a href="/mentoring/project_ideas.shtml"> Science Fair Project Ideas </a>
+			<a href="/"><img src="bannertabs/science_fair_project_ideas_tag.gif" width="435" height="51" hspace="0" vspace="8" border="0" alt="Free Science Fair Project Ideas, Answers and Tools for Serious Students"></a>
 		</td>
 		<td align="right" valign="top">
-			<a href="/"><img src="bannertabs/science_fair_project_ideas_logo.jpg" width="350" height="80" vspace="4" hspace="8" border="0" alt="Science Buddies"></a></td> 		
+			<a href="/"><img src="bannertabs/science_fair_project_ideas_logo.jpg" width="350" height="80" vspace="4" hspace="8" border="0" alt="Science Buddies"></a>
+		</td> 		
 	</tr>
 </tbody></table>
 <table border="0" cellpadding="0" cellspacing="0" bgcolor="#000000" width="100%" height="26">
-	<tbody><tr bgcolor="#000000" height="26">  
-		<td valign="bottom" align="left" width="1">&nbsp;</td>  
-		<td valign="bottom" align="left" width="104">
-			<a href="/mentoring/project_ideas.shtml">
-			<img src="bannertabs/tabs_h2_01.gif" width="104" height="26" border="0" alt="Science Fair Project Ideas"></a></td>
+	<tbody><tr bgcolor="#000000" height="26"> 
+	<td valign="bottom" align="left" width="1">&nbsp;</td>   
+		<td valign="bottom" align="left" width="63">
+			<a href="/">
+			<img src="/mentoring/bannertabs/tabs_tsw_01.gif" width="63" height="26" border="0" alt="Science Fair Project Ideas"></a></td>
 		<td valign="bottom" align="left" width="105">
-			<a href="/mentoring/project_guide_index.shtml">
-			<img src="bannertabs/tabs_competition_02.gif" width="105" height="26" border="0" alt="Science Fair Project Guide"></a></td>
+			<a href="/mentoring/project_ideas.shtml">
+				<img src="/mentoring/bannertabs/tabs_tsw_02.gif" width="105" height="26" border="0" alt="Science Fair Project Ideas"></a></td>
 		<td valign="bottom" align="left" width="107">
+			<a href="/mentoring/project_guide_index.shtml">
+				<img src="/mentoring/bannertabs/tabs_tsw_03.gif" width="107" height="26" border="0" alt="Science Fair Project Guide"></a></td>
+		<td valign="bottom" align="left" width="103">
 			<a href="/mentoring/ask_an_expert_intro.shtml">
-			<img src="bannertabs/tabs_h2_03.gif" width="107" height="26" border="0" alt="Ask an Expert"></a></td>
-		<td valign="bottom" align="left" width="74">
+				<img src="/mentoring/bannertabs/tabs_tsw_04.gif" width="103" height="26" border="0" alt="Ask an Expert"></a></td>
+		<td valign="bottom" align="left" width="70">
 			<a href="/mentoring/teacher_resources.shtml">
-			<img src="bannertabs/tabs_h2_04.gif" width="74" height="26" border="0" alt="Teacher Resources"></a></td>
-		<td valign="bottom" align="left" width="102">
+				<img src="/mentoring/bannertabs/tabs_tsw_05.gif" width="70" height="26" border="0" alt="Teacher Resources"></a></td>
+		<td valign="bottom" align="left" width="94">
 			<a href="/mentoring/competitions_index.shtml">
-			<img src="bannertabs/tabs_h2_05.gif" width="102" height="26" border="0" alt="Science Fair Competitions"></a></td>
-		<td valign="bottom" align="left" width="73">
-			<a href="/mentoring/aboutus.shtml">
-			<img src="bannertabs/tabs_h2_06.gif" width="73" height="26" border="0" alt="About Us"></a></td>	
+				<img src="/mentoring/bannertabs/tabs_tsw_06.gif" width="94" height="26" border="0" alt="Science Fair Competitions "></a></td>	
 
 		<td valign="bottom" align="right" font="" size="1">
 		<form id="searchbox_006938645102073751460:5g77bgclmby" action="http://www.sciencebuddies.org/mentoring/search.shtml">
@@ -113,7 +118,7 @@ table#breadcrumbs {background-color:#D0C7BB}
 	<td align="left"><a href="/">Home</a>&nbsp;&gt;&nbsp;
 		<script type="text/javascript">
 		document.write("<A HREF=' " + document.URL +"'>" + document.title + "</A>") 
-		</script><a href=" https://web.archive.org/web/20070630060635id_/http%3A//www.sciencebuddies.org/mentoring/privacy_policy.shtml">Science Buddies: Privacy Policy</a>
+		</script><a href=" https://web.archive.org/web/20071213042646id_/http%3A//www.sciencebuddies.org/mentoring/privacy_policy.shtml">Science Buddies: Privacy Policy</a>
 	</td>
 	</tr>
 </tbody></table>
@@ -228,6 +233,12 @@ Fax:  (650) 461-8524</p>
 <p>
 <span class="CRUMBS">Copyright © 2002-2007 Kenneth Lafferty Hess Family Charitable Foundation. All rights reserved.<br>  Reproduction of material from this Web site without written permission is strictly prohibited.<br>Use of this site constitutes acceptance of our 
 <a href="/mentoring/terms_conditions.shtml">Terms and Conditions of Fair Use</a>.</span><br><br>
+
+
+<span class="CRUMBS"><b>Science Buddies gratefully acknowledges its Presenting Sponsor</b> <br>
+<a href="http://www.seagate.com"><img src="/mentoring/sponsor_footer_seagate.jpg" hspace="2" border="0" align="bottom"></a> 
+</span><br><br>
+
 <!-- End copyright -->
 <span class="SANSSMALL">
 <a href="/">Science Fair Project Home</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
