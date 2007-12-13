@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virtualjerusalem.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627025740id_/http%3A//virtualjerusalem.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtualjerusalem.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213023503id_/http%3A//www.virtualjerusalem.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -15,8 +15,9 @@ Virtual Jerusalem gathers personal and general demographic information about use
 We may use your personal identifying information in a number of ways related to your use of our site. We may, from time to time, use your personal identifying information in connection with sending you specific, targeted information that may be of interest to you. We may use your contact information, such as your e-mail address, to send you our newsletter and periodic special promotions.
 
   
-As a registered user, you may opt out of receiving emails and special offers, promotions or mailings at any time. Only those registered users who have not opted out of receiving such communications will receive such emails. Otherwise, we will not sell our member contact list or provide your personal identifying information to any other person or entity in the ordinary course of our business, although we reserve the right to transfer such information in connection with a change in ownership of this company or its assets.  
+As a registered user, you may opt out of receiving emails and special offers, promotions or mailings at any time. Only those registered users who have not opted out of receiving such communications will receive such emails. Otherwise, we will not sell our member contact list or provide your personal identifying information to any other person or entity in the ordinary course of our business, although we reserve the right to transfer such information in connection with a change in ownership of this company or its assets.
 
+We may use any information you provide in order to investigate, or assist any authority in investigating, suspicion of illegal activity or acts on the virtualjerusalem website or on any of the site's services including but not limited to the VJ Chat room, forums and pen pals sections.
 
 Promotions and contests that run on Virtual Jerusalem may be sponsored, in whole or in part, by companies other than Virtual Jerusalem. Data collected during a promotion may be shared with the sponsor.
 
