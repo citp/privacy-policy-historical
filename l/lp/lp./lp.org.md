@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lp.org privacy policy that was archived on 2007-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070614000920id_/http%3A//www.lp.org/organization/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lp.org privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213154651id_/http%3A//www.lp.org/organization/privacy.shtml) for the most accurate reproduction.*
 
 # Official Website of the Libertarian National Committee
 
@@ -39,7 +39,7 @@ The information we collect from self-identified visitors to the site, through th
 
 If you do not want to receive postal mail from us in the future, please let us know by or sending us e-mail at [info@lp.org](mailto:info@lp.org) and including in your message the text "DEACTIVATE." When writing, please be sure to provide us with pertinent information such as your membership number or current contact information. You will not receive any further postal mail from us, and your name will not be shared with outside organizations.
 
-If you would like us to stop sharing your contact information with other organizations, please let us know, again by writing to [info@lp.org](mailto:info@lp.org) and including in your message the text "DO NOTE SHARE." You will continue to receive mailings from us, but your name and contact information will no longer be shared.
+If you would like us to stop sharing your contact information with other organizations, please let us know, again by writing to [info@lp.org](mailto:info@lp.org) and including in your message the text "DO NOT SHARE." You will continue to receive mailings from us, but your name and contact information will no longer be shared.
 
 You may also write to us with the option "REDUCED MAIL" - You will receive limited mail from us, including LP News (if your membership/subscription is current), membership renewal notices, and our annual report. You will not receive the periodic (monthly or bi-monthly) progress reports.
 
