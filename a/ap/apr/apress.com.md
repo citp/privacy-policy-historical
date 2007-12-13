@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the apress.com privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609013314id_/http%3A//www.apress.com/about/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apress.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213022337id_/http%3A//www.apress.com/info/privacypolicy) for the most accurate reproduction.*
 
 # APRESS.COM | Books for Professionals, by Professionals ...
-
-[Home](https://web.archive.org/)  About
 
 ## PRIVACY POLICY
 
@@ -22,7 +20,7 @@ Apress may request Personal Information about you in connection with your use of
 
 ### Use of this information
 
-We may occasionally contact you by telephone or send you information by post, fax or e-mail about goods, services, offers or competitions which we think may interest you ('Apress'). We will not do so, however, if you have indicated either by contacting us (our details are at the end of this Privacy Policy) or by indicating user preferences on the Preferences Screen of one of our Web sites if that page exists, that you do not wish to receive Apress information. Assuming you have not told us that you do not wish to receive information from Apress We may use information you have provided us to:
+We may occasionally contact you by telephone or send you information by post, fax or e-mail about goods, services, offers or competitions which we think may interest you ('Apress'). We will not do so, however, if you have indicated either by contacting us (our details are at the end of this Privacy Policy) or by indicating user preferences on the Preferences Screen of one of our Web sites if that page exists, that you do not wish to receive Apress information. Assuming you have not told us that you do not wish to receive information from Apress We may use information you have provided us to.
 
   * send information to you about Apress or promotional material from either us, our partners or companies that have a significant investment in Apress either directly or indirectly in Apress; 
   * introduce a product or service that we think might be of interest to you; 
@@ -60,7 +58,7 @@ The password protected portions of our Web Site are intended to be for your bene
 
 We may occasionally share your contact details with other companies, external organizations and/or individuals so that they can contact you with details of goods and/or services which they think may interest you. We will not do so, however, if you indicate to us, either by writing us or on a  Registration Screen if appropriate that you would prefer not to receive such information. 
 
-If you would like further details in relation to the above, please contact us at Apress, Inc., 2855 Telegraph Avenue, Suite 600, Berkeley, CA 94705-1128 or email us at [info@apress.com](mailto:info@apress.com). 
+If you would like further details in relation to the above, please contact us at Apress, Inc., 2855 Telegraph Avenue, Suite 600, Berkeley, CA 94705-1128 or email us at [](mailto:%3C?%20echo%20encryptemail\(%27info@apress.com%27\);%20?%3E). 
 
 ### When Might we Transfer your Personal Information Abroad? 
 
