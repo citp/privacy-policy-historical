@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lutron.com privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608011322id_/http%3A//www.lutron.com/lutron/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lutron.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213060405id_/http%3A//www.lutron.com/lutron/privacy.asp) for the most accurate reproduction.*
 
 # Lutron Electronics, Inc.
 
@@ -58,4 +58,4 @@ In addition to retaining aggregate visitor information and personal information 
 
 Who Do I Contact If I Have Any Further Questions Regarding Privacy and/or Security?
 
-[Click here](https://web.archive.org/web/20070608011322id_/http%3A//www.lutron.com/lutron/Contact.asp) to contact Lutron
+[Click here](https://web.archive.org/web/20071213060405id_/http%3A//www.lutron.com/lutron/Contact.asp) to contact Lutron
