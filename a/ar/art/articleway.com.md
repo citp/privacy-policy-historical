@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the articleway.com privacy policy that was archived on 2007-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070328131718id_/http%3A//www.articleway.com/index.php%3Fpagedb%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articleway.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213030113id_/http%3A//www.articleway.com/index.php%3Fpagedb%3Dprivacy) for the most accurate reproduction.*
 
 # privacy ArticleWay.com
+
+  
+
 
 **This can be edited in admin panel.**
 
