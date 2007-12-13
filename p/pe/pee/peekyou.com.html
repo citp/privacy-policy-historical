@@ -1,189 +1,117 @@
-<!--The following is the downloaded HTML source of the peekyou.com privacy policy that was archived on 2007-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070629171042id_/http%3A//www.peekyou.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the peekyou.com privacy policy that was archived on 2007-12-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071213023619id_/http%3A//www.peekyou.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
-<title>PeekYou.com - Beta Edition - The Smartest Way To Find People Online</title>
-<meta name="title" content="PeekYou.com - Beta Edition - The Smartest Way To Find People Online">
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta name="description" content="The open-ended, user-edited internet directory. Find your friends and help others find them online.">
-<link rel="shortcut icon" href="http://dev.peekyou.com/favicon.ico">
-
-<script type="text/javascript" src="/js/toolbar.js"></script>
-<link rel="stylesheet" type="text/css" media="screen" href="/css/source.css">
-<link rel="stylesheet" type="text/css" media="screen" href="/css/generic.css">
-
-<link rel="stylesheet" type="text/css" media="screen" href="/css/toolbar.css">
-<link rel="stylesheet" type="text/css" media="screen" href="/css/autocomplete.css">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title>Privacy Policy | Peek You</title>
+	<meta name="title" content="People Search | Privacy Policy | Peek You">
+	<meta name="description" content="Peekyou Privacy Policy">
+	<meta name="keywords" content="people search peekyou">
+	<link href="/css/generic.css" rel="stylesheet" type="text/css">
+	<link href="/css/sourceName.css" rel="stylesheet" type="text/css">
+	<script type="text/javascript">var GB_ROOT_DIR = "/js/greybox/";</script> 	
+ 	<script type="text/javascript" src="/js/greybox/AJS.js"></script> 
+	<script type="text/javascript" src="/js/greybox/AJS_fx.js"></script> 
+	<script type="text/javascript" src="/js/greybox/gb_scripts.js"></script> 
+	<link rel="icon" href="/favicon.ico" type="image/vnd.microsoft.icon">
+	<style type="text/css" media="all">
+	.dim {
+		opacity: .50;
+		MozOpacity: .50;
+		KhtmlOpacity: .50;
+		filter: alpha(opacity=50);
+	}</style>
+		<script type="text/javascript" src="/js/urlTool.js"></script>
+	<script type="text/javascript" src="/js/prototype.js"></script>
+	<script type="text/javascript" src="/js/scriptaculous.js"></script><script type="text/javascript" src="https://web.archive.org/js/builder.js"></script><script type="text/javascript" src="https://web.archive.org/js/effects.js"></script><script type="text/javascript" src="https://web.archive.org/js/dragdrop.js"></script><script type="text/javascript" src="https://web.archive.org/js/controls.js"></script><script type="text/javascript" src="https://web.archive.org/js/slider.js"></script>
+	
+		<script type="text/javascript">
+		 
+		var tosearch = new Array('first','last','username','tag','country','region','city');
+		function autoComplete() {
+		
+		Form.getInputs('searchform','text').each( function(id){
+			if(search_hash[id.name]) { id.value = search_hash[id.name]; search_hash[id.name.replace('_name','')] = search_hash[id.name]; }
+			if(search_hash[id.name.replace('_name','')]) {id.value = search_hash[id.name.replace('_name','')]; search_hash[id.name+'_name']=search_hash[id.name.replace('_name','')];}
+			Event.observe(id.name ,'keypress', function(e){key=e.which || e.keyCode; 
+			if(key == Event.KEY_RETURN) return doNewSearch();
+			if(key == Event.KEY_DELETE) return doNewSearch();}, true);
+			new Ajax.Autocompleter(id.name, id.name+'_choices', '/autocomplete.php', {callback: eval(id.name=='tag'?"function(field,string){return string+Form.serialize('searchform');}":"")});
+		});
+		ajax = $H();
+	
+		document.getElementsByClassName('refineCell').each( function(id) {
+			 ajax[id.name] = new Ajax.Updater(id,'/scripts/refine.php', {method: 'get', parameters: 'action='+$(id).id+'&'+search_hash.toQueryString(), evalScripts: true });
+		});
+		document.getElementsByClassName('icon').each( function(id) { 
+			id.observe('mouseover', function(e) { id.toggleClassName( 'dim');}, true);
+			id.observe('mouseout', function(e) {id.toggleClassName( 'dim'); }, true);
+		});
+	}
+	
+		
+		
+		</script>
 </head>
-<body onload="init();">
 
-
+<body onload="autoComplete();">
+<script type="text/javascript">
+		var search_hash = $H({});
+		</script>
 <div class="body_container">
-	<div class="outer_container">
-<style>
-a.top:link, a.top:visited { color:#000000; font:10px verdana; text-decoration:none; padding:.2em; border:1px solid #92C3DA; background-color:#ffffff;}
-a.top:hover { color:#ffffff; text-decoration:none; border:1px solid #000000; background-color:#4393E1;}
-</style>
-<div id="top" name="top" align="center" style="width:809px;height:15px;padding-top:.5em;padding-bottom:.5em;background-color:white;">
-    <div align="center" style="width:809px;height:20px;">
-        <div style="width:500px; vertical-align:middle;padding-left:1.6em; float:left">
-            <div style="padding-left:.3em; padding-bottom:.1em; float:left;"><a class="top" href="/index.php">Home</a></div>
-            <div style="padding-left:.3em; padding-bottom:.1em; float:left;"><a class="top" href="/faq">FAQ</a></div>   
-            <div style="padding-left:.3em; padding-bottom:.1em; float:left;"><a class="top" href="/register">Register</a></div>
-            <div style="padding-left:.3em; padding-bottom:.1em; float:left;"><a class="top" href="/profile/create">Add Profile</a></div>
-            <div id="numProfiles" name="numProfiles" style="padding-left: 1.6em; padding-top: 0.1em; float: left; color: rgb(73, 127, 201); font: 11px verdana; text-decoration: none; margin-top: -0.25em;"><b>50,307,299</b> Profile Online</div>
-        </div>
-        <div align="right" style="vertical-align:middle;padding-right:1.6em; float:right;">
-            <div style="padding-left:.1em; float:left; padding-bottom:.1em;"><a class="top" href="/user">Login</a></div>
-        </div>
-    </div>
 
-<script type="text/javascript" src="/js/toolbar.js"></script>
-  <script type="text/javascript" src="/js/autosuggest.js"></script>
-<link rel="stylesheet" href="/css/autosuggest_inquisitor.css" type="text/css" media="screen" charset="utf-8">
-
-<form name="searchform" method="get" action="/results.php">
-<div class="toolbar" id="toolbarDIV" name="toolbarDIV" style="margin-top:-.45em;">	
-	<div class="main_search">
-		<div class="ms_name">Name</div>
-		<div class="row" style="float:left;margin-top:33px;">	
-			<iframe id="first_iframe" name="first_iframe" src="" scrolling="no" frameborder="0" style="position:absolute;width:240px;height:0px;border:none;display:block;z-index:0; display:none"></iframe>				
-			<div name="first_autocomplete" id="first_autocomplete" style="position:absolute;background:#EAF4FD;"></div>
+<div class="upper_container">
+		<div class="upperLinks">
+		<span class="upperLinksHolder"><a href="http://www.peekyou.com/faq/">What is PeekYou?</a></span> | <span class="upperLinksHolder"><a href="http://www.peekyou.com/profile/create/">Add Profile</a></span> | <span class="upperLinksHolder"><b>60,131,811</b> Profiles Online</span> |
+	 
+		<span class="upperLinksHolder"><a href="http://www.peekyou.com/register/index.php">Register</a></span> | <span class="upperLinksHolder"><a href="javascript:void(0);" onclick="GB_showCenter('Login', '/login.php', 300, 500);">Log in</a></span>
+		</div>					<div class="upperNav">
+			<div class="upperLogo"><a href="/"><img alt="PeekYou" src="/images/logo.gif"></a></div>
+			<div style="float: left">
+				<ul>
+					<li id="currentTab"><a href="/USA/">Name</a></li>
+					<li id="offTab"><center><a href="#" onclick="var gq = '';tosearch.each(function(s) {if(search_hash.get(s))gq+=search_hash.get(s)+' ';}); document.location = 'http://google.peekyou.com/index.php?qry='+gq;"><img alt="Google!" src="/images/googleTab.png"></a></center></li>
+				</ul>
+			</div>
+		</div>	
+		<div class="upperSearchBox">
+			<div class="searchCaption">Name</div>
+			 <div class="searchInputArea">
+				<form id="searchform">
+					<div class="inputHolder">
+						<input class="inputField" type="text" name="first_name" id="first_name" onfocus="$F('first_name')=='First'?$('first_name').value='':void(0);" onblur="search_hash.set('first',$F('first_name'));" value="First" autocomplete="off">
+					</div>
+					<div class="inputHolder">
+						<input class="inputField" type="text" name="last_name" id="last_name" onfocus="$('last_name').value=='Last'?$('last_name').value='':void(0);" onblur="search_hash.set('last', $F('last_name'));" value="Last" autocomplete="off">
+					</div>
+					<div class="inputHolder">
+						<input class="inputField" type="text" name="username" id="username" onfocus="$('username').value=='or username'?$('username').value='':void(0);" onblur="search_hash.set('username',$F('username'));" value="or username" autocomplete="off">
+					</div>
+					<div class="inputHolder" id="plusAny" style="width: 60px"> </div> 
+					<div class="inputHolder">
+						<input type="text" name="tag" id="tag" onfocus="$('tag').value=='tags'?$('tag').value='':void(0);" value="tags" onblur="search_hash.set('tag',$F('tag'));">
+					</div>
+					<div class="checkBoxArea">
+						<div class="checkboxContainer"><input class="checkbox" name="tags" id="tags" type="checkbox" checked="1"></div><div class="checkboxContainer">Life</div>
+						<div class="checkboxContainer"><input class="checkbox" name="employers" id="employers" type="checkbox" checked="1"></div><div class="checkboxContainer">Work</div>
+						<div class="checkboxContainer"><input class="checkbox" name="schools" id="schools" type="checkbox" checked="1"></div><div class="checkboxContainer">School</div>
+					</div>
+				</form>
+			</div>
+			<div class="searchSubmit"><a href="javascript:doNewSearch();" onclick="doNewSearch();"><img alt="submit" src="/images/button_peek.jpg"></a></div>
 		</div>
-       	
-		<!--<input taborder="1" type="text" name="first_name" id="first_name"
-                    class="first_name"
-                    value=""
-                    autocomplete="off" size="30"
-                    onkeyup="typeFirst(this.value);firstFocus=1;"
-                    onClick="initFirst();"
-                    onblur="waitFirst();firstFocus=0;"/>		-->
-		<input taborder="1" type="text" name="first_name" id="first_name" class="first_name" value="" autocomplete="off" size="30" onfocus="initFirst();" onclick="initFirst();">
-
-		<div class="row" style="float:left;margin-top:33px;">	
-			<iframe id="last_iframe" name="last_iframe" src="" scrolling="no" frameborder="0" style="position:absolute;width:240px;height:0px;border:none;display:block;z-index:0; display:none"></iframe>				
-			<div name="last_autocomplete" id="last_autocomplete" style="position:absolute;background:#EAF4FD;"></div>
-		</div>
-        	
-		<!--<input taborder="2" type="text" name="last_name" id="last_name"
-                    class="last_name"
-                    value=""
-                    autocomplete="off" size="30"
-                    onkeyup="typeLast(this.value);lastFocus=1;"
-                    onClick="initLast();"
-                    onblur="waitLast();lastFocus=0;" />-->
-		<input taborder="2" type="text" name="last_name" id="last_name" class="last_name" value="" autocomplete="off" size="30" onfocus="initLast();" onclick="initLast();">
-
-		<a href="Javascript:doClickAction();"><img src="/images/peek-button.gif"></a>
 	</div>
-	<div class="lower_search">
-		<div class="location">
-			<div class="row">
-				<div class="textA"></div>
-				<div class="textB">Location</div>
-				<div class="textC"></div>
-			</div>
-			<div class="row">
-				<div class="resultsTotal">
-					<div id="theCount">&nbsp;</div>
-                   			<div>World</div>
-				</div>
-				<div class="resultsCountry">
-                       		<div id="number_country">&nbsp;</div>
-                        			<div id="select_country">
-							<select name="countrySelect" id="countrySelect" onchange="locChange('country');" class="dropdowns">
-								<option selected="selected" value="">Select Country</option>
-							</select>
-						</div>
-					</div>
-					<div class="resultsRegion">
-            <div id="number_region">&nbsp;</div>
-              <div id="select_region">
-                  <select name="regionSelect" id="regionSelect" class="dropdowns" onchange="locChange('region');">
-									<option selected="selected" value="">Select Region</option>
-								</select>
-							</div>
-						</div>
-						<div class="resultsCity">
-							<div id="number_city">&nbsp;</div>
-                        				<div id="select_city">
-                        					<select name="citySelect" id="citySelect" class="dropdowns" onchange="locChange('city')">
-									<option selected="selected" value="">Select City</option>
-								</select>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="row" style="float:left;">
-					<div name="tag_autocomplete" id="tag_autocomplete" style="margin-top:55px;position:absolute;background:#EAF4FD; margin-left:130px"></div>
-				</div>
-                           <div id="keywordDIV" name="keywordDIV" style="padding-left: 1em; float: left; margin-top: 0.5em;"> 
-                                        <table width="100" border="0" cellspacing="0" cellpadding="0">
-                                            <tbody><tr align="right" valign="middle">
-                                                <td style="font:bold 11px verdana; color:#0848A0">Tags</td>
-                                                <td><input type="radio" name="keyword_type" id="keyword_type" value="tags" onclick="setKeywordType(this.value);" checked="checked"></td>
-                                            </tr>
-                                            <tr align="right" valign="middle">
-                                                <td style="font:bold 11px verdana; color:#0848A0">Schools</td>
-                                                <td><input type="radio" name="keyword_type" id="keyword_type" value="schools" onclick="setKeywordType(this.value);"></td>
-                                            </tr>
-                                            <tr align="right" valign="middle">
-                                                <td style="font:bold 11px verdana; color:#0848A0">Employers</td>
-                                                <td><input type="radio" name="keyword_type" id="keyword_type" value="employers" onclick="setKeywordType(this.value);"></td>
-                                            </tr>
-                                            <tr align="right" valign="middle">
-                                                <td style="font:bold 11px verdana; color:#0848A0">Usernames</td>
-                                                <td><input type="radio" name="keyword_type" id="keyword_type" value="usernames" onclick="setKeywordType(this.value);"></td>
-                                            </tr>
-                                        </tbody></table>
-                                    </div>
-					<div class="keywords_search" style="margin-top:-.25em;">
-                    	<div id="tl">
-				   			<div class="ks_title">Keyword</div>						
-							<!--<input name="keyword_text" id="keyword_text" type="text" 
-								value="" autocomplete="off" size="30" 
-								style="float: left;width: 155px;margin-left:10px;margin-top:-4px;font-size:1.1em;font-family:Arial,Helvetica,sans-serif;color:#225D9C;border:1px solid #CACACA;" 
-								onClick="this.value = '';" onkeyup="keywords_do(this.value);" 
-                onblur="waitKeywords();"/> -->
-              <input name="keyword_text" id="keyword_text" type="text" value="" autocomplete="off" size="30" style="float: left;width: 155px;margin-left:10px;margin-top:-4px;font-size:1.1em;font-family:Arial,Helvetica,sans-serif;color:#225D9C;border:1px solid #CACACA;" onfocus="initKeyword();" onclick="initKeyword();"> 
-                    	</div>
-						<div class="aboutUs"><a href="/profile/create">What is PeekYou?</a>
-						</div>
-					</div>
-				</div>
-			</div>
-</form>	
-<script language="JavaScript">
-if (navigator.appName=="Microsoft Internet Explorer") {
-    var theURL = window.location.href;
-    if(theURL.indexOf("results.php") != -1) {
-        document.getElementById("toolbarDIV").style.marginTop='-1.29em';
-    } else {
-        document.getElementById("toolbarDIV").style.marginTop='-1.29em';
-    }
-    document.getElementById("keywordDIV").style.marginTop='-.25em';
-} else {
-    document.getElementById("keywordDIV").style.marginTop='.5em';
-    document.getElementById("numProfiles").style.marginTop='-.25em';
-    if(document.getElementById("welcome"))
-        document.getElementById("welcome").style.marginTop='-.25em';
-}
-    var options = { script: "/getFirst2.php?", varname: "name", json: true, timeout:2500000 };
-    var firstAutoSuggest = new AutoSuggest('first_name', options);
-    var options2 = { script: "/getLast2.php?", varname: "name", json: true, timeout:2500000 };
-    var lastAutoSuggest = new AutoSuggest('last_name', options2);
-    var options3 = { script: getKeywordUrl, varname: "text", json: true, timeout:2500000 };
-    var keywordAutoSuggest = new AutoSuggest('keyword_text', options3);
 
-</script>
-	<div id="ajax_div" name="ajax_div" class="main" style="text-align:left;">
-				<div class="main_header">
-			<div class="mh_left">
-				<div class="header_title">Privacy Policy</div>
+
+<div class="mid_container">
+			<div class="whiteContainer">
+		<div class="whiteContainerTop"></div>
+	    <div class="whiteContainerMid">
+			<div class="genericCell">
+				<center><img alt="PeekYou" src="/images/faq_top.png"></center>
 			</div>
-		</div>
-		<div class="main_left">
-			<div class="generic">
+			<div class="genericCell">
+
 PeekYou acknowledges the concerns that you may have about the use of information about you. Out of respect for those concerns, we maintain strict policies to ensure the privacy and security of your personal information that we may collect through your participation on our Site.
 <br><br>
 Defined terms (capitalized words) used in this policy are defined elsewhere -- in our Site's Terms of Use. Any general terms and conditions for the enforcement and application of this Policy (e.g., Governing Law, etc.) may also be found in our Terms of Use.
@@ -192,6 +120,7 @@ If you wish to raise any questions or concerns about this Privacy Policy, or mak
 <br><br>
 <b>Personal Information in our Profiles</b>
 <br><br>
+
 PeekYou is an on-line, open content collaborative directory that is about and compiled by individuals. Our Contributors develop Profiles that show significant links and items of information that are already available on the Web about friends, family members and associates. Subject to the limitations in our Terms of Use, we allow anyone with an Internet connection and World Wide Web browser to log on, and alter or update any Profile. The resulting Profiles are then displayed to the public at PeekYou.com. Please use discretion when posting personal information -- make sure that it is accurate and not intended to embarrass, or to wrongly harm anyone's reputation. Don't post any information that you wouldn't want posted about yourself.
 <br><br>
 <b>Other Information Collection and Use</b>
@@ -205,6 +134,7 @@ PeekYou collects a limited amount of personally identifiable information upon re
 <br>
 <ul>
     <li> Send messages other members;</li>
+
     <li> Track their additions/edits to PeekYou;</li>
     <li> Create a watch list so you can closely follow changes to your favorite profiles; and</li>
 
@@ -213,28 +143,42 @@ PeekYou collects a limited amount of personally identifiable information upon re
 <br><br>
 You will always be provided with an opportunity to opt-out of receiving such information. Your contact information may also be used to reach you regarding issues concerning your use of our services or our Site including changes to this privacy policy. Your information may also be used to assist in the better targeting of search results and advertising as part of your use of this service.
 <br><br>
+
 <b>Access to Personally Identifiable Information</b>
 <br><br>
-If your personally identifiable information changes, or if you no longer desire our services as a Member, you may update or delete your Member information by logging in with your username and password in and making the change. You may also e-mail your request to update or delete your information using our support form at dev.peekyou.com/XXXX, by contacting PeekYou by telephone or postal mail through the contact information shown at the bottom of this policy.
-<br><br>
-<b>Confidentiality of Personally Identifiable Information</b>
-<br><br>
-PeekYou will not sell, rent, license or otherwise share the personally identifiable contact information (i.e., your registration e-mail address, billing address, etc.) that you submit in the context of registration for our services or that we otherwise collect. If you register for a PeekYou event with a third-party speaker, your personally identifiable contact information will generally be shared with the speaker.
+If your personally identifiable information changes, or if you no longer desire 
+our services as a Member, you may update or delete your Member information by 
+logging in with your username and password in and making the change. You may 
+also e-mail your request to update or delete your information using our support 
+form at www.peekyou.com/XXXX, by contacting PeekYou by telephone or postal mail 
+through the contact information shown at the bottom of this policy. <br><br> 
+<b>Confidentiality of Personally Identifiable Information</b> <br><br> 
+PeekYou will not sell, rent, license or otherwise share the personally 
+identifiable contact information (i.e., your registration e-mail address, 
+billing address, etc.) that you submit in the context of registration for our 
+services or that we otherwise collect. If you register for a PeekYou event with 
+a third-party speaker, your personally identifiable contact information will 
+generally be shared with the speaker.
 
 <br><br>
 Information that you may provide, at your discretion, in creating or updating your Profile, however, is intended for public disclosure and thus can be viewed by third parties.
 <br><br>
 <b>Unsubscribe/Opt-Out Requests</b>
 <br><br>
-PeekYou gives you the opportunity to 'opt-out' of having your personally identifiable information used for certain purposes. If you no longer wish to receive a newsletter or promotional communications, you may opt-out of receiving them by following the instructions included in the communication or by visiting http://dev.peekyou.com/unsubscribe. After we receive your request, we will send you an e-mail message to confirm that you have been unsubscribed.
-<br><br>
-You may also communicate your opt-out request to PeekYou by telephone or postal mail by using the contact information at the bottom of this privacy policy.
-<br><br>
-<b>Third-Party Advertisers</b>
-<br><br>
-PeekYou.com allows other companies that are presenting advertisements on some of our pages to set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to PeekYou.com's cookies.
-<br><br>
-<b>Third Party Service Providers</b>
+PeekYou gives you the opportunity to 'opt-out' of having your personally 
+identifiable information used for certain purposes. If you no longer wish to 
+receive a newsletter or promotional communications, you may opt-out of receiving 
+them by following the instructions included in the communication or by visiting 
+http://wwww.peekyou.com/unsubscribe. After we receive your request, we will send 
+you an e-mail message to confirm that you have been unsubscribed. <br><br> 
+
+You may also communicate your opt-out request to PeekYou by telephone or postal 
+mail by using the contact information at the bottom of this privacy policy. <br><br> <b>Third-Party Advertisers</b> <br><br> PeekYou.com allows other 
+companies that are presenting advertisements on some of our pages to set and 
+access their cookies on your computer. Other companies' use of their cookies is 
+subject to their own privacy policies, not this one. Advertisers or other 
+companies do not have access to PeekYou.com's cookies. <br><br> <b>Third 
+Party Service Providers</b>
 
 <br><br>
 PeekYou may use other parties to provide us with information regarding our customers' activities on our Site. They may set cookies on our behalf and receive information about your browsing activity on our Site. Additionally, using such a service, we may store personally identifiable information that you have provided to us, such as your name and e-mail address. PeekYou pledges that it will obtain the commitment from any such third party not to sell or make available any of your personal information to other third parties, or use it themselves to market products and services not related to our Site.
@@ -242,6 +186,7 @@ PeekYou may use other parties to provide us with information regarding our custo
 <b>Disclosures under Law</b>
 <br><br>
 We make every effort to preserve user privacy. However we intend to cooperate with legal authorities in order to comply with a judicial proceeding, a court order or legal process served on PeekYou.
+
 <br><br>
 <b>Children</b>
 <br><br>
@@ -249,12 +194,13 @@ The services of PeekYou are prohibited for children under the age of 13. You may
 <br><br>
 <b>Sharing of Public Profile Information</b>
 <br><br>
-All information that is contributed by our Users for inclusion in their public Profiles, in addition to that collected by us from public Web sources, will be available to PeekYou and anyone using the PeekYou Site and other PeekYou services. If you would like us to remove your Profile from our service, send an e-mail to <a href="mailto:remove@[REMOVE_THIS]peekyou.com">remove@peekyou.com</a> with your request and the Web address of your Profile, and we will gladly remove your information.
+All information that is contributed by our Users for inclusion in their public Profiles, in addition to that collected by us from public Web sources, will be available to PeekYou and anyone using the PeekYou Site and other PeekYou services. If you would like us to remove your Profile from our service, send an e-mail to <a href="mailto:remove@%5BREMOVE_THIS%5Dpeekyou.com">remove@peekyou.com</a> with your request and the Web address of your Profile, and we will gladly remove your information.
 
 <br><br>
 NOTE: Most of the information that PeekYou displays can already be found on any public search engine. Because the Web is constantly changing, and we search millions of new and old Web pages every day, we may re-acquired your information unintentionally. We recommend that you check our Site from time to time to ensure that your Profile contains only the information you choose to have displayed, and that we have not re-posted previously deleted information. The best way to avoid having your information found by our search engine (or any other search engine) is to contact the operator of the Site that contains the original source(s) of the information and ask for that operator to remove the displayed information from the Web.
 <br><br>
 <b>Contact Us</b>
+
 <br><br>
 If you have questions or concerns regarding this statement, you should first contact:  
  <br><br>
@@ -266,45 +212,34 @@ New York, NY 10011
 <br><br>
 or
 <br><br>
-<a href="mailto:privacy@[REMOVE_THIS]peekyou.com">privacy@peekyou.com</a>
+<a href="mailto:privacy@peekyou.com">privacy@peekyou.com</a>
+
 <br><br>
 <b>Amendments</b>
 <br><br>
 We reserve the right to change this Privacy Policy and any other Site guidelines at any time. Any such modification will become effective immediately upon posting. You will be responsible to check this Agreement from time to time to see if there are any changes to that might affect your use. Continued use of our Site after any such change will constitute acceptance of all changes. If you do not agree with this Privacy Policy as it may be amended, you must immediately terminate your use of this Site.
 <br><br>
 Last update: September 15, 2006 
+			
 			</div>
-	<div class="lower_container" style="text-align: center;">
-		<div class="footer">
-			Copyright © 2006-2007 PeekYou.com, a Patent Pending Collaborative Process. All Rights Reserved.<br>
-			<a href="/privacy">Privacy Policy</a> | <a href="/terms">Terms of Use</a>
+			
 		</div>
+                <div class="whiteContainerBottom"></div>
 	</div>
-		</div>
-	</div>
-    </div>
-</div>
 </div>
 
-
-
-
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
-<script type="text/javascript">
-_uacct = "UA-172196-2";
-urchinTracker();
-</script>
-
-<!-- Start Quantcast tag -->
-<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
-
-<script type="text/javascript">
-_qacct="p-8f3IpECSxZr7g";quantserve();</script>
-<noscript>
-<img src="http://pixel.quantserve.com/pixel/p-8f3IpECSxZr7g.gif" style="display: none" height="1" width="1" alt="Quantcast"/></noscript>
-<!-- End Quantcast tag -->
-
-
+<div class="homeFooter">
+		Copyright  2007 PeekYou.com. A Patent Pending People Search Process. All Rights Reserved.<br>
+	<a href="/press">Press</a> | <a href="/privacy">Privacy Policy</a> | <a href="/terms">Terms of Use</a>
+	<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+	<script type="text/javascript">
+		_uacct = "UA-2999303-1";
+		urchinTracker();
+	</script>
+</div></div>
+<div id="first_name_choices" class="autocomplete" style="display:none;"></div>
+<div id="last_name_choices" class="autocomplete" style="display:none;"></div>
+<div id="username_choices" class="autocomplete" style="display:none;"></div>
+<div id="tag_choices" class="autocomplete" style="display:none;"></div>
 
 </body></html>
