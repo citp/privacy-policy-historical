@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the babynameworld.com privacy policy that was archived on 2007-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070621203612id_/http%3A//www.babynameworld.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babynameworld.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213053623id_/http%3A//www.babynameworld.com/privacy.asp) for the most accurate reproduction.*
 
 # 
 
 |  | 
 
-### Privacy Policy 
+### Privacy Policy
 
-This policy tells you, among other things, what information we gather from you, how we may use or disclose that information, and our efforts to protect it. Please read this policy carefully, and feel free to [contact us](https://web.archive.org/web/20070621203612id_/http%3A//www.babynameworld.com/contact.asp) if you have any questions regarding its contents. 
+This policy tells you, among other things, what information we gather from you, how we may use or disclose that information, and our efforts to protect it. Please read this policy carefully, and feel free to [contact us](https://web.archive.org/web/20071213053623id_/http%3A//www.babynameworld.com/contact.asp) if you have any questions regarding its contents. 
 
 **Types of Information Collected and Security**
 
@@ -33,5 +33,3 @@ The personal information you have provided us will not be shared or given away f
 It is the intention of Moab Group to prosecute credit card fraud to the fullest extent of all state, federal, and international laws. We will provide any and all transactional information, including (but not limited to) all trace information to the purchasing computer, to State, Federal and International Authorities, including the FBI, The Department of Justice, The Federal Trade Commission, and the National White Collar Crime Center.
 
 |  | 
-
-[](http://click.linksynergy.com/fs-bin/click?id=c16k0qW/PJI&offerid=83577.10000430&type=4&subid=0)
