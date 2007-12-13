@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the etonline.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630125903id_/http%3A//www.cbsinteractive.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etonline.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213092630id_/http%3A//www.cbsinteractive.com/info/privacy) for the most accurate reproduction.*
 
 # CBS Interactive - Privacy Policy
 
@@ -8,7 +8,7 @@
 
 This Privacy Policy applies only to the web sites owned or controlled by CBS Interactive Inc. ("Company," "we," "our" or "us") that post a link to this Privacy Policy (the "Web Sites"). This Privacy Policy only covers information collected at the Web Sites, and does not cover any information collected at any other web site or offline by Company (unless specifically stated). The purpose of this Privacy Policy is to disclose to you what information we may collect on the Web Sites, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you may have regarding our collection, use, and disclosure of such information.
 
-Please read this Privacy Policy carefully. In addition, please review our [Terms of Use](https://web.archive.org/web/20070630125903id_/http%3A//www.cbsinteractive.com/info/tos), which govern your use of the Web Sites.
+Please read this Privacy Policy carefully. In addition, please review our [Terms of Use](https://web.archive.org/web/20071213092630id_/http%3A//www.cbsinteractive.com/info/tos), which govern your use of the Web Sites.
 
 ### Table of Contents
 
