@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the tokyopop.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617185137id_/http%3A//www.tokyopop.com/9.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tokyopop.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213043020id_/http%3A//www.tokyopop.com/legal/privacy_policy.html) for the most accurate reproduction.*
 
-# Privacy Statement
-
-[Home](https://web.archive.org/)  »  Privacy Statement
-
-Date: Fri, June 23, 2006
+# TOKYOPOP :: Leading the Manga Revolution for 10 Years and Beyond! ::
 
 1.Purpose of this Privacy Policy 
 
