@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carinsurance.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624053325id_/http%3A//www.carinsurance.com/PrivacySecurity.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carinsurance.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213155831id_/http%3A//www.carinsurance.com/PrivacySecurity.aspx) for the most accurate reproduction.*
 
 # CarInsurance.com Statement of Privacy and Security
 
@@ -59,7 +59,7 @@ If you do not want to receive e-mail or other mail from us, you may indicate thi
 
   * Using our [online opt out form](http://www.carinsurance.com/optout.aspx). 
   * Sending an e-mail to CustomerService@CarInsurance.com; or 
-  * Calling 1-877-327-8728 
+  * Calling 1-800-964-4859 
   * The "help" portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, you will not be able to easily retrieve your quote if you do not allow cookies. 
 
 
