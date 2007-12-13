@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the refog.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630095356id_/http%3A//www.refog.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the refog.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213055132id_/http%3A//www.refog.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy : ReFog Software
+# Privacy
 
 We at ReFog Software are aware of the growing concern of internet users regarding the widespread distribution of their personal information, and are taking measures to protect our customers' and visitors' privacy.
 
@@ -12,4 +12,4 @@ In order to further protect customer information, all order forms are run on a s
 
 These measures, along with our belief that it is up to the individual to determine who receives and what may be done with their personal information, insure that any information submitted on our site will be kept confidential.
 
-If you have any questions or concerns regarding this matter, please [conact us](https://web.archive.org/support.htm).
+If you have any questions or concerns regarding this matter, please [conact us](https://web.archive.org/support.html)
