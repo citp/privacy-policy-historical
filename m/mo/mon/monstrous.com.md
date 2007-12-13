@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the monstrous.com privacy policy that was archived on 2006-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060327111124id_/http%3A//www.monstrous.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monstrous.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213030810id_/http%3A//www.monstrous.com/content/view/21/103) for the most accurate reproduction.*
 
-# Privacy Policy
+# Monstrous.com - The largest site about monsters - Privacy policy
 
 Monstrous.com is concerned about your privacy. Please read the following to learn more about our privacy policy. 
 
