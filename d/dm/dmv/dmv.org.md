@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dmv.org privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624143936id_/http%3A//www.dmv.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dmv.org privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213033520id_/http%3A//www.dmv.org/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - DMV.ORG
 
