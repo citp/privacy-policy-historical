@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookcrossing.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617163218id_/http%3A//bookcrossing.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookcrossing.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213145849id_/http%3A//www.bookcrossing.com/privacy) for the most accurate reproduction.*
 
 # BookCrossing - privacy
 
@@ -23,25 +23,7 @@ BookCrossing does not share your personal membership information with any other 
 By using the BookCrossing site, you consent to the collection and use of your information as we have outlined in this policy. BookCrossing may decide to change this Privacy Policy from time to time. When we do, we will notify all our members by email so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it. 
 
 **Referral Program**  
-When you use the BookCrossing referral program (the “Referral Program”), we may ask you to provide information such as your email address and your friends' e-mail addresses. In return, you and your friends will be given the opportunity to register with BookCrossing, and your friends will also be given the opportunity to make referrals to their friends. This feature helps us spread the word about BookCrossing. During and after participation in the Referral Program you and/or your friends may receive additional communications from us or our vendors in relation to the Referral Program and you and/or your friends’ participation in it. The data collected through the Referral Program is only used for the operation and ongoing maintenance of the Referral Program and will not be distributed to any third parties other than those BookCrossing trusted partners that may be helping us in the operation and maintenance of the Referral Program. You and your friends may opt-out of participation in the Referral Program at any time via opt-out links in all communications made to you and your friends through the Referral Program or by sending an email to members_optout@BookCrossing.com.
+When you use the BookCrossing referral program (the �Referral Program�), we may ask you to provide information such as your email address and your friends' e-mail addresses. In return, you and your friends will be given the opportunity to register with BookCrossing, and your friends will also be given the opportunity to make referrals to their friends. This feature helps us spread the word about BookCrossing. During and after participation in the Referral Program you and/or your friends may receive additional communications from us or our vendors in relation to the Referral Program and you and/or your friends� participation in it. The data collected through the Referral Program is only used for the operation and ongoing maintenance of the Referral Program and will not be distributed to any third parties other than those BookCrossing trusted partners that may be helping us in the operation and maintenance of the Referral Program. You and your friends may opt-out of participation in the Referral Program at any time via opt-out links in all communications made to you and your friends through the Referral Program or by sending an email to members_optout@BookCrossing.com.
 
 **What can I do if I have additional questions?**  
 Feel free to [contact us](https://web.archive.org/contact) any time and we'll answer any additional questions you may have.
-
-**Referral Program**  
-
-
-We may from time to time offer you the opportunity to earn rewards by referring friends to join BookCrossing ("Referral Program"). Participation in a Referral Program may require you to submit personal information about you and your friends, such as name and email address. By participating in a Referral Program, you agree to receive communications from BookCrossing.com, and/or from our trusted partners that operate and maintain the Referral Program, with regards to your participation in the Referral Program. The following guidelines shall apply to your participation in any Referral Program:
-
-  1. You may not submit multiple email addresses in an attempt to earn a reward or an additional reward.
-  2. You may not participate in a Referral Program where doing so would be prohibited by any applicable law or regulations. 
-  3. Your eligibility to earn a reward will be based on your ability to make referrals that result in new BookCrossing members. Referrals to existing BookCrossing members will not count towards your eligibility to earn a reward.
-  4. Credit for referrals can only be given out for those referrals who participate using their unique referral link.
-  5. You may not use Spam to obtain referrals. You may not acquire referrals through unsolicited email to persons unknown to you or through Usenet or message board postings, where the postings are unrelated to the topic of discussion or otherwise violate the terms of the site.
-  6. You may not post information on a website, forum, or auction that has to do with "canceling the offers" including, but not limited to, cancellation links, cancellation time frames, and any encouragement or direction to cancel the offers after signing up with BookCrossing.
-  7. You may not barter, sell or trade for referrals or offer completions.
-  8. BookCrossing does not guarantee delivery time on any rewards earned, nor does it guarantee receipt of any rewards.
-
-
-
-We reserve the right to modify or amend at any time these guidelines and the methods through which rewards are earned. We reserve the right to disqualify you at any time from participation in a Referral Program if you do not comply with any of these guidelines. All information collected from you in a Referral Program shall be subject to the BookCrossing.com privacy policy stated above. 
