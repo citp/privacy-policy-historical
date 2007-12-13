@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefreeiqtest.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629025854id_/http%3A//joetec.net/pri.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefreeiqtest.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213071445id_/http%3A//joetec.net/pri.html) for the most accurate reproduction.*
 
 # 
 
@@ -33,6 +33,6 @@ Third Party Email:
 
 When you fill out one of our forms, you are consenting to receive e-mail that informs you about new merchandise, sales, special discounts and promotions from us and our trusted 3rd party partners. If you wish to discontinue receiving these emails you will need to click the opt-out hyperlink at the bottom of the email. 
 
-JoeTec MAY sell or transfer individual information to third parties for any legaly permissible purpose at its sole discretion. 
+JoeTec MAY sell or transfer individual information to trusted third parties for any legaly permissible purpose at its sole discretion. 
 
 Please contact us if you have any questions or comments. Thank you, [JoeTec Networks Inc.](http://joetec.net/)
