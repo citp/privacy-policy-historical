@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smallnetbuilder.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630061504id_/http%3A//www.smallnetbuilder.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smallnetbuilder.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213103904id_/http%3A//www.smallnetbuilder.com/privacy-policy.html) for the most accurate reproduction.*
 
 # SmallNetBuilder - Privacy Policy
 
@@ -36,7 +36,7 @@ Through the registration process for various services or features, we may reques
 
 In addition, we may, from time to time, send you e-mails announcing new SNB site features and initiatives. If you do not wish to receive messages of this nature from SNB, please use the unsubscribe link provided in the email. Finally, if we run a contest or promotion, we may ask you for your full name and address in order to properly manage the promotion contests and to deliver notification to winners.
 
-##### Necessary Disclosure
+### Necessary Disclosure
 
 The necessary disclosure of any of the above information to third parties will be governed by the following principles:
 
@@ -45,22 +45,22 @@ The necessary disclosure of any of the above information to third parties will b
 3\. Where SNB intends to co-operate with the investigation of any alleged unlawful activities without being required to by virtue of any court order or other legal requirement.  
 4\. Where it is necessary to protect the rights of SNB. 
 
-##### Surveys
+### Surveys
 
 Occasionally, SNB conducts user surveys to better understand the needs of our audience in order to improve our features. We sometimes share the aggregated demographic information in these surveys with our advertisers and partners. We never share any information about specific individuals with any third party without the user's consent.
 
-##### Security
+### Security
 
 We use all reasonable precautions to securely maintain all information given to us by our registered members and we are not responsible for any breach of the reasonable security measures installed to protect the said information. We are not responsible for the private policies of any site linked to, or from, SNB.
 
-##### Opt Out Policy
+### Opt Out Policy
 
 SNB gives users options whenever necessary, and practical. Such choices include: Opting not to receive our electronic messages, opting not to provide certain optional personal information when registering for an account.
 
-##### Transfer of Information
+### Transfer of Information
 
 SNB reserves the right to transfer any information accumulated as described above in the event of the sale of part or all of SNB assets and/or stock. By visiting our Web sites you consent to the collection and use of information in the manner herein described.
 
-##### Privacy Policy Changes
+### Privacy Policy Changes
 
 This Privacy Policy may be modified from time to time. Any modifications to our Privacy Policy will be reflected on this page. If there is a significant change, we will indicate it on our sites and provide a link to the new policy.
