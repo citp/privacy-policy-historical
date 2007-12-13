@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the scalado.com privacy policy that was archived on 2007-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070502060502id_/http%3A//www.scalado.com/m4n%3Foid%3DprivacyPolicy%26_locale%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scalado.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213041519id_/http%3A//scalado.com%3Foid%3DprivacyPolicy%26_locale%3D1) for the most accurate reproduction.*
 
-# Scalado - Privacy policy
+# Scalado - Privacy Policy
 
 Privacy
 
