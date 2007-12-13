@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the travelstart.co.za privacy policy that was archived on 2007-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070626174411id_/http%3A//www.travelstart.co.za/privacyPolicy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the travelstart.co.za privacy policy that was archived on 2007-12-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071213222201id_/http%3A//www.travelstart.co.za/privacyPolicy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "DTD/xhtml1-transitional.dtd"><html><head>
 <title>&gt;&gt;&gt; Travelstart | Privacy Policy &lt;&lt;&lt;</title>
@@ -11,7 +11,7 @@
 <meta content="INDEX,FOLLOW" name="GOOGLEBOT">
 <!--TRACKING-->
 <!--GOOGLE START-->
-<script type="text/javascript" src="common/js/urchin.js"> </script>
+<script type="text/javascript" src="/common/js/urchin.js"> </script>
 <script type="text/javascript">
 				_uacct = "UA-31275-9";
 			
@@ -22,37 +22,31 @@
 			</script>
 <!--GOOGLE END-->
 <!--TRACKING ENDS-->
-<link media="all" type="text/css" rel="stylesheet" href="common/ver3/travelstart/css/main.css?release=20070626">
-<link media="all" type="text/css" rel="stylesheet" href="common/ver3/travelstart/css/common.css?release=20070626">
-<link media="all" type="text/css" rel="stylesheet" href="common/ver3/travelstart/css/static.css?release=20070626">
-<script src="common/ver3/js/settings.jsp?release=20070626" type="text/javascript"> </script>
-<script src="common/ver3/js/common.js?release=20070626" type="text/javascript"> </script>
-<script src="common/ver3/js/layer.js?release=20070626" type="text/javascript"> </script>
-<script src="common/js/cookie.js?release=20070626" type="text/javascript"> </script>
-<script src="common/ver3/js/skypeCheck.js?release=20070626" type="text/javascript"> </script>
+<link media="all" type="text/css" rel="stylesheet" href="/common/ver3/travelstart/css/main.css?release=20071211">
+<link media="all" type="text/css" rel="stylesheet" href="/common/ver3/travelstart/css/common.css?release=20071211">
+<link media="all" type="text/css" rel="stylesheet" href="/common/ver3/travelstart/css/static.css?release=20071211">
+<script type="text/javascript">	
+					var noHintFound = "There is no hint for this account";
+					var noEmailFound = "There is no hint for this account";
+					var noUserFound = "There is no hint for this account";
+					var ajaxLoading = "Loading...";
+					var ajaxError = "Error, try again";
+					var checkMailForPassword = "Your new password has been sent to your e-mail address.";
+					var signedInAs = "Signed in as";
+				</script>
+<script src="/common/ver3/js/settings.jsp?release=20071211" type="text/javascript"> </script>
+<script src="http://z.tscdn.com/common/ver3/js/common.js?release=20071211" type="text/javascript"> </script>
+<script src="http://z.tscdn.com/common/ver3/js/layer.js?release=20071211" type="text/javascript"> </script>
+<script src="http://z.tscdn.com/common/js/cookie.js?release=20071211" type="text/javascript"> </script>
+<script src="http://z.tscdn.com/common/ver3/js/skypeCheck.js?release=20071211" type="text/javascript"> </script>
 <script type="text/javascript">
 				var i18Show = 'Show';
 				var i18Hide = 'Hide';
 				</script>
-<style type="text/css">
-				#steps{
-					width:369px;
-				}
-			</style>
-<link type="image/x-icon" href="common/ver3/travelstart/favicon.ico" rel="shortcut icon">
-</head><body>
-<div style="position:absolute; visibility:hidden; z-index:1000;" id="overDiv"> </div><div id="page">
+<link type="image/x-icon" href="/common/ver3/travelstart/favicon.ico" rel="shortcut icon">
+</head><body><div id="page">
 <div id="upper">
 <div id="upperheader">
-<div id="problems">
-<div class="infoBoxProblem">
-<text id="problem">
-<span class="headline"> We are experiencing <strong>problems</strong> with our <strong>switchboard</strong>. </span>
-<br>You can book <strong>online</strong> - our website works perfectly! If you need <strong>assistance</strong> regarding an existing booking...				<br>- <strong>Online chat </strong>on our site: Open from <strong>10am - 1pm</strong> and <strong>2pm - 5pm</strong> (Click "Online" icon below on the right to talk to a Travel Consultant)				<br>- <strong>Or e-mail</strong>: <a href="mailto:leeanne@travelstart.co.za">leeanne@travelstart.co.za</a>
-</text>
-</div>
-</div>
-<div style="height:2px; font-size: 2px;"> </div>
 <div id="uppermenu">
 <div id="upperlinks">
 <div class="floatleft">
@@ -60,15 +54,55 @@
 								| <a href="/aboutUs.jsp">About us</a>
 </div>
 <div class="floatright">
-<a href="signUp.jsp?pageName=login">Log in</a> | <a href="signUp.jsp?pageName=signup">Sign up</a>	
+<span id="loggedIn">
+<a class="underline cursor" onclick="$('loginDiv').show();clearLogin();">Log in</a>
+</span> | <a href="signUp.jsp">Sign up</a>	
 								| <a href="/help.jsp">Help</a>
 </div>
+</div>
+<div style="display:none;" id="loginDiv">
+<span id="loginNormal">
+<label for="loginEmail">E-mail address</label>
+<input onblur="$('loginEmailHint').value = this.value;$('loginEmailForgot').value = this.value;" id="loginEmail" name="loginEmail" type="text">
+<label for="loginPassword">Password</label>
+<input id="loginPassword" name="loginPassword" type="password">
+<a class="noaback cursor" onclick="loginMe();">
+<img alt="Submit" src="/common/ver3/travelstart/ZA/img/btn/submit_s.gif">
+</a>
+</span>
+<div style="display:none;" id="hintDiv">
+<label for="loginEmailHint">Enter your e-mail address so we can show you your password hint</label>
+<input onblur="$('loginEmail').value = this.value;$('loginEmailForgot').value = this.value;" name="loginEmailHint" id="loginEmailHint" type="text">
+<a class="noaback cursor" onclick="hintMe();">
+<img alt="Submit" src="/common/ver3/travelstart/ZA/img/btn/submit_s.gif">
+</a>
+</div>
+<div style="display:none;" id="forgotDiv">
+<div id="forgotDivLeft">Enter the e-mail address you signed up with and we'll e-mail a new password to that e-mail address. Simple!</div>
+<div id="forgotDivRight">
+<input onblur="$('loginEmail').value = this.value;$('loginEmailHint').value = this.value;" id="loginEmailForgot" type="text">
+<a class="noaback cursor" onclick="getPassword();">
+<img alt="Submit" src="/common/ver3/travelstart/ZA/img/btn/submit_s.gif">
+</a>
+</div>
+<div class="clear"> </div>
+</div>
+<div id="hintDivText">
+<span id="hintProgress"> </span>
+<span style="display:none;" id="hintContent">
+<span id="hintValue"> </span>
+<img alt="" src="/common/ver3/img/arr/arrow_small_l.gif">
+</span>
+<a class="cursor underline" onclick="getHint()">Show my password hint</a>
+<a class="cursor underline" onclick="forgotPassword()">I've forgotten my password</a>
+</div>
+<div id="forgotDivText"> </div>
 </div>
 </div>
 <div id="uppertext">
 <div class="floatleft">
 <a class="noaback" href="/">
-<img alt="Travelstart.co.za" src="common/ver3/travelstart/ZA/img/logotype.gif">
+<img title="Travelstart.co.za" alt="Travelstart.co.za" src="http://z.tscdn.com/common/ver3/travelstart/ZA/img/logotype.gif">
 </a>
 </div>
 <div class="textholder">
@@ -91,9 +125,9 @@
 <div class="clear"> </div>
 </div>
 <!--BEGIN SCRIPTS-->
-<script src="common/ver3/js/cookie.js?release=20070626" type="text/javascript"> </script>
-<script src="common/ver3/js/lib/prototype.js?release=20070626" type="text/javascript"> </script>
-<script src="common/ver3/js/lib/scriptaculous.js?release=20070626" type="text/javascript"> </script>
+<script src="http://z.tscdn.com/common/ver3/js/cookie.js?release=20071211" type="text/javascript"> </script>
+<script src="http://z.tscdn.com/common/ver3/js/lib/prototype.js?release=20071211" type="text/javascript"> </script>
+<script src="http://z.tscdn.com/common/ver3/js/lib/scriptaculous.js?release=20071211" type="text/javascript"> </script>
 <!--END SCRIPTS-->
 <!--BEGIN CONTENT-->
 <div id="middle">
@@ -101,13 +135,13 @@
 <div id="middleleft">
 <h1 class="highlight bb3px">Introduction</h1>
 <text xmlns:ota="http://www.opentravel.org/OTA" xmlns:ts="http://www.travelstart.net" xmlns:lg="http://www.luftgrop.com" id="sectionOne">
-<p>In addition to reviewing this privacy policy, please read our <a href="/termsAndConditions.jsp">Terms and Conditions</a>. Your use of Travelstart.co.za constitutes agreement to our terms and conditions.</p>
+			<p>In addition to reviewing this privacy policy, please read our <a href="/termsAndConditions.jsp">Terms and Conditions</a>. Your use of Travelstart.co.za constitutes agreement to our terms and conditions.</p>
 			<p>Travelstart.co.za takes the privacy of its customers' data very seriously. Please read the following policy to understand how we will treat your personal data after it has been collected by us through our web site.</p>
 			<p>If this policy changes then we will let you know via our homepage but we assure you that we only use your data as specified here and for legitimate business reasons. Continued access of Travelstart.co.za by you will constitute your acceptance of any changes or revisions to the Privacy Policy.</p>
 			<p>One of the goals of Travelstart.co.za is to bring you information that is tailored to your individual needs and, at the same time, protect your privacy. The following is a summary of the various ways we treat the information you provide us while using our site.</p>
 			<h2 class="highlight bb2px">The type of information Travelstart.co.za collects</h2>
 			<p>
-<strong>Travelstart.co.za</strong> generally collects personally identifying information with your specific knowledge and consent. We can collect data on you from a variety of different sources these include:</p>
+				<strong>Travelstart.co.za</strong> generally collects personally identifying information with your specific knowledge and consent. We can collect data on you from a variety of different sources these include:</p>
 			<p>1. When you purchase products or services from the site.</p>
 			<p>2. When you become a subscriber;</p>
 			<p>3. When you activate an account</p>
@@ -120,16 +154,16 @@
 			<p>When you buy anything via our website or give us any personal data as indicated above, we may need to collect information about you to process the transaction, fulfill your order and provide you with the services you expect then, and in the future. This information may include, but is not limited to, details such as your name, your address, your phone number and your credit card details. </p>
 			<p>Unless we have your express consent we will only disclose personal data to third parties if this is required for the purpose of completing your transaction with us. This is of course subject to the proviso that we may disclose your data to certain permitted third parties, such as members of our own group, our own professional advisers who are bound by confidentiality codes, and when we are legally obliged to disclose your data. </p>
 			<p>
-<strong>Travelstart.co.za</strong> retains and uses your personal information to provide you with the best remote commerce experience by providing you with a personalised service and to give you details of offers which we think will be of interest to you. We may also use the information to process any transactions you undertake with us and for internal administration and analysis.</p>
+				<strong>Travelstart.co.za</strong> retains and uses your personal information to provide you with the best remote commerce experience by providing you with a personalised service and to give you details of offers which we think will be of interest to you. We may also use the information to process any transactions you undertake with us and for internal administration and analysis.</p>
 			<p>We do not sell, rent or trade your personal information to third parties for marketing purposes without your express consent.</p>
 			<p>There may also be occasion when we are legally required to provide access to our database in order to cooperate with police investigations or other legal proceedings. In those instances, the information is provided only for that purpose. </p>
 			<h2 class="highlight bb2px">Cookies</h2>
 			<p>
-<strong>Travelstart.co.za</strong> uses cookies. A cookie is a small text file of which there are three types:</p>
+				<strong>Travelstart.co.za</strong> uses cookies. A cookie is a small text file of which there are three types:</p>
 			<p>
-<strong>Session cookies:</strong> These are used to maintain something called session state. If you consider your journey through the site to be a conversation with us and this cookie just reminds the site where we were in that conversation (for instance if at some point in the conversation you asked us to add a hotel to your basket, next time you click on the basket it is still there). These are required for the site to function but are not used in any way to identify you personally.</p>
+				<strong>Session cookies:</strong> These are used to maintain something called session state. If you consider your journey through the site to be a conversation with us and this cookie just reminds the site where we were in that conversation (for instance if at some point in the conversation you asked us to add a hotel to your basket, next time you click on the basket it is still there). These are required for the site to function but are not used in any way to identify you personally.</p>
 			<p>
-<strong>Permanent cookies:</strong> These store a few numbers on your hard drive. You can view them by looking in the cookies directory of your browser installation if you are interested. They last for a long time and each time you come to our site you send us a copy of them. We use them to identify you between visits. For instance if you were looking at hotels in Cape Town last time you were on the site and we have a great hotel deal we may use this cookie to recognise you and show you our great deal. They are not required for the site to work but may enhance your experience. We do not store any personal data in these cookies, just a unique number that identifies you to us. </p>
+				<strong>Permanent cookies:</strong> These store a few numbers on your hard drive. You can view them by looking in the cookies directory of your browser installation if you are interested. They last for a long time and each time you come to our site you send us a copy of them. We use them to identify you between visits. For instance if you were looking at hotels in Cape Town last time you were on the site and we have a great hotel deal we may use this cookie to recognise you and show you our great deal. They are not required for the site to work but may enhance your experience. We do not store any personal data in these cookies, just a unique number that identifies you to us. </p>
 			<p>Although you cannot block "session" cookies as they are required for our site to function correctly you can configure your internet browser so that it can reject "permanent" cookies. How you do this will depend upon the internet browser you use. It is therefore impractical for us to detail here how you can reject those cookies. Please refer to the relevant internet browser manufacturer's website where you should be able to receive all the information you need.</p>
 			<h2 class="highlight bb2px">IP Address</h2>
 			<p>Your Internet Protocol ("IP") address is usually associated with the place from which you enter the Internet, like your Internet Service Provider, your company or your university. We may use your IP address to help diagnose problems with our server, gather broad demographic information, and administer our Web site.</p>
@@ -139,25 +173,29 @@
 			<p>By disclosing your personal information to us using this website or over the telephone, you consent to the collection, storage and processing of your personal information by Travelstart.co.za in the manner set out in this Privacy Policy. Some information and e-mails sent to <strong>Travelstart.co.za</strong> may be used as testimonials but no e-mail address or contact details will be displayed.</p>
 			<h2 class="highlight bb2px">Opt-Out Policy</h2>
 			<p>
-<strong>Travelstart.co.za</strong> Newsletter subscribers have the option to opt-out of receiving further information from us. <a href="/newsletter.jsp">Click here to unsubscribe</a>. If you are registered on any part of <strong>Travelstart.co.za</strong>, you may also change or update your member preferences or information with any section of the site where you have signed up, registered or created any type of account. You may also delete your account at any time.</p>
+				<strong>Travelstart.co.za</strong> Newsletter subscribers have the option to opt-out of receiving further information from us. <a href="/newsletter.jsp">Click here to unsubscribe</a>. If you are registered on any part of <strong>Travelstart.co.za</strong>, you may also change or update your member preferences or information with any section of the site where you have signed up, registered or created any type of account. You may also delete your account at any time.</p>
 			<h2 class="highlight bb2px">Change/ Modify E-mail Details</h2>
-			<p>To change your e-mail address details, send an e-mail with your correct details to: <a href="mailto:info@travelstart.co.za">info@travelstart.co.za</a> </p>
+			<p>To change your e-mail address details, send an e-mail with your correct details to: <a href="mailto:info@travelstart.co.za">info@travelstart.co.za</a>
+			</p>
 			<p>If you need to modify or change your personal details after you have made a purchase on the site please contact us as soon as possible.</p>
 			<h2 class="highlight bb2px">Contact</h2>
-			<p>If you have any questions or concerns about the information we hold about you, don't hesitate to contact us.</p>		
+			<p>If you have any questions or concerns about the information we hold about you, don't hesitate to contact us.</p>
 		</text>
 </div>
 <div id="middleright">
 <div class="filledbox">
 <h2>
-<a href="http://travelstartse.typepad.com/blogza/">Travelstart blog</a>
+<a href="http://blog.travelstart.co.za/">Travelstart blog</a>
 </h2>
 <p>Travel industry insights. News about developments behind the scenes at Travelstart. Philosophical musings on the meaning of life. Next week's lottery numbers. They're all in the Travelstart blog! (OK, you won't really get next week's lottery numbers).</p>
 </div>
 </div>
 </div>
 <div id="portrait">
-<img alt="" src="common/ver3/img/prt/anders2.jpg">
+<div style="float:left;width:380px;">
+<img alt="" src="http://z.tscdn.com/common/ver3/img/prt/anders2.jpg">
+</div>
+<div class="clear"> </div>
 </div>
 <!--END CONTENT-->
 <div class="clear">
@@ -180,10 +218,10 @@
 <td valign="top">
 <ul>
 <li>
-<a href="signUp.jsp?pageName=login">Log in</a>
+<a href="/index.jsp?showLogin=true">Log in</a>
 </li>
 <li>
-<a href="signUp.jsp?pageName=signup">Sign up</a>
+<a href="signUp.jsp">Sign up</a>
 </li>
 <li>
 <a href="newsletter.jsp">Newsletter subscription</a>
@@ -203,7 +241,7 @@
 <td valign="top">
 <ul>
 <li>
-<a href="http://travelstartse.typepad.com/blogza/">Travelstart Blog</a>
+<a href="http://blog.travelstart.co.za/">Travelstart Blog</a>
 </li>
 <li>
 <a href="/aboutUs.jsp">About Travelstart</a>
@@ -212,7 +250,7 @@
 <a href="/contactUs.jsp">Contact us</a>
 </li>
 <li>
-<a href="/static.jsp?pageName=Jobs">We're hiring</a>
+<a href="/static.jsp?pageName=TS_Jobs">We're hiring</a>
 </li>
 <li>
 <a target="_blank" href="https://affiliates.trafficsynergy.com/affiliate_signup.html">Become an affiliate</a>
@@ -237,60 +275,49 @@
 <tbody>
 <tr>
 <td width="143" style="border-right: 2px solid #ebebeb;">Copyright © 1999-2007 Travelstart Online Travel Operations Pty LTD.<br>
-<br>Portions copyright Donvand Ltd. 2006</td>
+			<br>Portions copyright Donvand Ltd. 2006</td>
 <td width="122" style="border-right: 2px solid #ebebeb;text-align:center;">
-<img alt="IATA Certified" src="/common/ver3/img/iata.gif">
+<img title="IATA Certified" alt="IATA Certified" src="http://z.tscdn.com/common/ver3/img/iata.gif">
 </td>
 <td width="150" valign="middle" style="border-right: 2px solid #ebebeb;text-align:left; padding-left:20px;">
-<a class="noaback" href="http://www.travelstart.co.za">
-<img class="flag" alt="ZA" src="/common/ver3/img/flg/flag_ZA.gif">
-</a>
-<a class="noaback" href="http://www.openjet.co.uk">
-<img class="flag" alt="UK" src="/common/ver3/img/flg/flag_UK.gif">
-</a>
-<a class="noaback" href="http://ie.openjet.com">
-<img class="flag" alt="IE" src="/common/ver3/img/flg/flag_IE.gif">
-</a>
-<a class="noaback" href="http://www.openjet.nl">
-<img class="flag" alt="NL" src="/common/ver3/img/flg/flag_NL.gif">
-</a>
-<br>
-<a class="noaback" href="http://www.travelstart.se">
-<img class="flag" alt="SE" src="/common/ver3/img/flg/flag_SE.gif">
-</a>
-<a class="noaback" href="http://www.travelstart.no">
-<img class="flag" alt="NO" src="/common/ver3/img/flg/flag_NO.gif">
-</a>
-<a class="noaback" href="http://www.travelstart.dk">
-<img class="flag" alt="DK" src="/common/ver3/img/flg/flag_DK.gif">
-</a>
-<a class="noaback" href="http://www.travelstart.fi">
-<img class="flag" alt="FI" src="/common/ver3/img/flg/flag_FI.gif">
-</a>
-<br>
-<a class="noaback" href="http://www.travelstart.lt">
-<img class="flag" alt="LT" src="/common/ver3/img/flg/flag_LT.gif">
-</a>
-<a class="noaback" href="http://www.openjet.com">
-<img class="flag" alt="US" src="/common/ver3/img/flg/flag_US.gif">
-</a>
-</td>
-<td width="122" valign="middle" style="border-right: 2px solid #ebebeb;text-align:center;">
-<script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=www.travelstart.co.za&amp;size=S&amp;use_flash=NO&amp;use_transparent=NO&amp;lang=en"> </script>
+<map name="flags">
+<area title="www.travelstart.de" href="http://www.travelstart.de" coords="100,48,127,65" shape="rect">
+<area title="fr.travelstart.net" href="http://fr.travelstart.net" coords="68,48,94,65" shape="rect">
+<area title="www.openjet.com" href="http://www.openjet.com" coords="35,48,62,65" shape="rect">
+<area title="www.travelstart.lt" href="http://www.travelstart.lt" coords="2,48,29,65" shape="rect">
+<area title="www.travelstart.fi" href="http://www.travelstart.fi" coords="100,24,127,42" shape="rect">
+<area title="www.travelstart.dk" href="http://www.travelstart.dk" coords="68,24,94,42" shape="rect">
+<area title="www.travelstart.no" href="http://www.travelstart.no" coords="35,24,62,42" shape="rect">
+<area title="www.travelstart.se" href="http://www.travelstart.se" coords="2,24,29,42" shape="rect">
+<area title="www.openjet.nl" href="http://www.openjet.nl" coords="100,2,127,20" shape="rect">
+<area title="ie.openjet.com" href="http://ie.openjet.com" coords="68,2,94,20" shape="rect">
+<area title="www.openjet.co.uk" href="http://www.openjet.co.uk" coords="35,2,62,20" shape="rect">
+<area title="www.travelstart.co.za" href="http://www.travelstart.co.za" coords="2,2,29,20" shape="rect">
+<area nohref="nohref" coords="0,0,129,67" shape="default">
+</map>
+<img src="http://z.tscdn.com/common/ver3/img/flg/fullFlag.gif" alt="Flags" usemap="#flags">
 </td>
 <td align="right">
-<img alt="" src="common/ver3/travelstart/ZA/img/logos.gif">
+<img alt="" src="http://z.tscdn.com/common/ver3/travelstart/ZA/img/logos.gif">
 </td>
 </tr>
 </tbody>
 </table>
 </div>
 <div id="sisters">
-<div class="floatleft">Sister sites: <a href="http://www.openjet.com">Openjet.com</a> | <a href="http://www.openjet.co.uk">Openjet.co.uk</a> | <a href="http://www.openjet.nl">Openjet.nl</a> | <a href="http://nya.travelstart.se">Travelstart.se</a> | <a href="http://www.travelstart.no">Travelstart.no</a> | <a href="http://www.travelstart.dk">Travelstart.dk</a> | <a href="http://www.travelstart.co.za">Travelstart.co.za</a> | <a href="http://www.travelstart.lt">Travelstart.lt</a> | <a href="http://www.travelstart.fi">Travelstart.fi</a>
-</div>
-<div class="clear"> </div>
 <div class="mt5">
-<img src="/common/ver3/img/delicious.small.gif" alt="Save to del.icio.us">
+<a href="http://www.travelstart.se">Flyg</a>
+<a href="http://www.travelstart.co.za">Flights</a>
+<a href="http://www.travelstart.dk">Fly</a>
+<a href="http://www.travelstart.de">Flüge</a>
+<a href="http://fr.travelstart.net">Vols</a>
+<a href="http://www.travelstart.no">Fly</a>
+<a href="http://www.openjet.nl">Vliegreizen</a>
+<a href="http://www.travelstart.fi">Lennot</a>
+<a href="http://www.travelstart.lt">Skrydžiai</a>
+</div>
+<div class="mt5">
+<img src="http://z.tscdn.com/common/ver3/img/delicious.small.gif" alt="Save to del.icio.us">
 <a class="alternative highlight" href="http://del.icio.us/post" onclick="window.open('http://del.icio.us/post?v=4&amp;noui&amp;jump=close&amp;url='+encodeURIComponent(location.href)+'&amp;title='+encodeURIComponent(document.title), 'delicious','toolbar=no,width=700,height=400'); return false;"> Save to del.icio.us</a>
 </div>
 </div>
