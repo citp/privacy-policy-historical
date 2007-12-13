@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outrageouspower.com privacy policy that was archived on 2007-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070219143638id_/http%3A//www.outrageouspower.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outrageouspower.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213213809id_/http%3A//www.outrageouspower.com/Privacy.htm) for the most accurate reproduction.*
 
 # Privacy - Outrageous Power
 
@@ -18,7 +18,7 @@ We are based in the USA and our website is bound by American law.
 
 Any questions?
 
-If you have any further concerns regarding your privacy please contact us at support@outrageousmastery.com 
+If you have any further concerns regarding your privacy please contact us at [support@outrageousmastery.com](mailto:%20support@outrageousmastery.com)
 
 "We will never Sell, Barter, or Rent your email address to any unauthorized third party."   
 
