@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the behance.com privacy policy that was archived on 2007-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070308044822id_/http%3A//www.behance.com/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the behance.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213192515id_/http%3A//www.behance.com/Privacy_Policy) for the most accurate reproduction.*
 
 # Behance :: Privacy Policy
 
