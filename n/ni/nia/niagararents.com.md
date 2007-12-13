@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the niagararents.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205232222id_/http%3A//niagararents.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D7) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the niagararents.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213175107id_/http%3A//www.niagararents.com/niagara/apartments/privacy-policy) for the most accurate reproduction.*
 
-# NiagaraRents.com - Privacy Policy
+# Privacy Policy
 
 _Our Commitment To Privacy_
 
