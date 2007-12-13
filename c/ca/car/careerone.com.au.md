@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careerone.com.au privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623225442id_/http%3A//www.careerone.com.au/jobs/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerone.com.au privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213020656id_/http%3A//www.careerone.com.au/jobs/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -48,7 +48,7 @@ News may establish relationships with business partners that allow visitors to o
 
 News is not responsible for the content or practices of Web sites operated by third parties that are linked to our sites. These links are meant for the user's convenience only. Links to third party sites do not constitute sponsorship, endorsement or approval by News of the content, policies or practices of those third party sites. Once you have left our site via such a link, you should check the applicable privacy policy of the third party site.
 
-**Other things  you should know about privacy on the Internet**
+**Other things you should know about privacy on the Internet**
 
 Remember to close your browser when you have finished your user session. This is to ensure that others cannot access your personal information and correspondence if you share a computer with someone else or are using a computer in a public place like a library or Internet cafi. You as an individual are responsible for the security of and access to your own computer.
 
@@ -62,7 +62,7 @@ Please contact our Privacy Officer to ask for access to your information or if y
 
 Or write to:  
 The Privacy Officer  
-News Digital Media  
+News Digital Media  
 02 9288 3000  
 Level 3  
 2 Holt Street  
