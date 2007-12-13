@@ -1,19 +1,18 @@
-<!--The following is the downloaded HTML source of the shopzilla.com privacy policy that was archived on 2007-05-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070526030049id_/http%3A//www.shopzilla.com/47_-_content--privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the shopzilla.com privacy policy that was archived on 2007-12-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071213223549id_/http%3A//www.shopzilla.com/47_-_content--privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 	<title>Shopzilla - Product Reviews and Price Comparison</title>
-
 	<link href="http://file.shopzilla.com/shopzilla/css/site/nav.css" rel="stylesheet" type="text/css">
 	<link href="http://file.shopzilla.com/shopzilla/css/site/features.css" rel="stylesheet" type="text/css">
 	<link href="http://file.shopzilla.com/shopzilla/css/l_exp.css" rel="stylesheet" type="text/css">
 	<link href="http://file.shopzilla.com/shopzilla/css/about.css" rel="stylesheet" type="text/css">
-	
+	<link href="http://file.shopzilla.com/sz/us/styles/experience_global.css" rel="stylesheet" type="text/css">
+
 	
 		<link rel="stylesheet" href="http://file.shopzilla.com/shopzilla/css/global.css" type="text/css">
 		<link rel="stylesheet" href="http://file.shopzilla.com/sz/us/css/sitewide_fonts.css" type="text/css">
 	
-	<base target="_top">
 	<meta name="ROBOTS" content="NOODP">
 	<meta name="keywords" content="Comparison Shopping, Buy Online, Best Prices, Online Shopping, Compare Prices, Product Reviews, Store Ratings, Low Prices, Shopzilla">
 	<meta name="description" content="Buy the best products at the lowest prices with Shopzilla, the shopping search engine with smart price comparison, reviews and store ratings.">
@@ -21,33 +20,45 @@
 	<meta http-equiv="content-language" content="en-US">
 	<link rel="shortcut icon" href="http://img.shopzilla.com/shopzilla/shopzilla.ico">
 	
-<script language="JavaScript" src="http://file.shopzilla.com/yui/yahoo/yahoo-min.js" type="text/javascript"></script>
-<script language="JavaScript" src="http://file.shopzilla.com/yui/dom/dom-min.js" type="text/javascript"></script>
-<script language="JavaScript" src="http://file.shopzilla.com/sz/common/scripts/shopzilla.js" type="text/javascript"></script>
-<script language="JavaScript1.1" type="text/javascript">
+    <!-- YUI -->
+	<script language="JavaScript" src="http://file.shopzilla.com/yui/yahoo/yahoo-min.js" type="text/javascript"></script>
+	<script language="JavaScript" src="http://file.shopzilla.com/yui/dom/dom-min.js" type="text/javascript"></script>
+	<script language="JavaScript" src="http://file.shopzilla.com/yui-extensions/yui-cookie.js" type="text/javascript"></script>
+	<script language="JavaScript" src="http://file.shopzilla.com/yui/animation/animation-min.js" type="text/javascript"></script>
 
+	<script type="text/javascript" src="http://yui.yahooapis.com/2.2.1/build/yahoo-dom-event/yahoo-dom-event.js"></script>
+	<script type="text/javascript" src="http://yui.yahooapis.com/2.2.1/build/connection/connection-min.js"></script>
+
+	<script language="JavaScript" src="http://file.shopzilla.com/yui/dragdrop/dragdrop-min.js" type="text/javascript"></script>
+    <!-- Shopzilla autocomplete customizations -->
+	<script type="text/javascript" src="http://file.shopzilla.com/sz/common/scripts/autocomplete_sz.js"></script>	
+	
+    <script language="JavaScript" src="http://file.shopzilla.com/sz/common/scripts/shopzilla.js" type="text/javascript"></script>
+    <script language="JavaScript1.1" type="text/javascript">
+		
 	myTemplate = function() {
 		return {
 			init: function() {
 				myInternationalRedirectorConfigs = {
-					
+					active:false
 				};
 		
 				
 				myPageConfigs = {
 					token:'47',
-					focusElementId:'searchTerm',
+					focusElementId:'searchTerm_new',
 					DLDESC:'Shopzilla - Home',
-					DLURL:'http://www.shopzilla.com/content/content.xpml?content=privacy&protocol=http',
+					DLURL:'http://www.shopzilla.com/content/content.xpml?content=privacy',
 					local_message:'Bookmark this page by pressing %keystroke%',
 					currentKeyword:'',
 					focusActive:false,
+					frameBusterActive:false,
 					actions:{
-						offers:'/offers/savings_center.xpml?protocol=http',
-						stores:'/merchant/results.xpml?protocol=http',
-						marketplace:'/buy/superfind.xpml?protocol=http',
+						offers:'/offers/savings_center.xpml',
+						stores:'/merchant/results.xpml',
+						marketplace:'/buy/superfind.xpml',
 						
-							default_action:'/buy/superfind.xpml?protocol=http'
+							default_action:'/buy/superfind.xpml'
 						
 					},
 					sfsk:false
@@ -57,165 +68,279 @@
 				myRightNav = new SHOPZILLA.widget.RightNav();
 				myPage = new SHOPZILLA.widget.Page(myPageConfigs);
 				myPage.init();
+
+				
+myNetPromoterPopupConfigs = {
+	SurveyURL:'http://survey.ccsurvey.com/shpz0701a/survey1.pl?brand=Shopzilla.com&logo=Shopzilla_US.gif&custid=1&marker=',
+	PrivacyPolicyURL:'/47_-_content--privacy',
+	CookieName:'net_promoter',
+	CookiePath:'/',
+	CookieExpires:new Date ( 2008, 0, 22 ),
+	CookieDomain:'.shopzilla.com',
+	PopUpWidth:800,
+	PopUpHeight:600,
+	activatePopUp:false,
+	SessionCookieName:'net_promoter_pop_once'
+};
+
+				myNetPromoterPopup = new SHOPZILLA.widget.NetPromoterPopup(myNetPromoterPopupConfigs);
+				myNetPromoterPopup.init();
+
+				myBrowseDepartmentsConfigs = {};
+				myBrowseDepartments = new SHOPZILLA.widget.BrowseDepartments(myBrowseDepartmentsConfigs);
+				myBrowseDepartments.init();
+
+				
 			}
 		}
 	}();
 </script>
 
+	
 </head>
 <body class="tkn47" onload="myTemplate.init();">
+
+
+
+
 <div id="overlay"></div>
-	
-	
-<div style="height:89px;margin:0px auto 0px auto;padding:0px 0px 0px 0px;width:1002px;">
-	<div id="tools">
-		
-			<a href="https://www.shopzilla.com/29">Your account</a>
-		
-		<div style="padding:5px 0px 0px 0px;"><a href="#" onclick="return myPage.bookmarkThisPage();">Bookmark this page!</a></div>
-	</div>
-	
-	
-<div id="siteLogo"><a href="/"><img src="http://img.shopzilla.com/sz/us/logos/default.gif" border="0" alt="Shopzilla" title="Shopzilla" vspace="0"></a></div>
 
-	
-	<br clear="all">
-</div>
 
-<table cellspacing="0" cellpadding="0" border="0" align="center">
-	<tbody><tr>
+
+<div id="page_container">
+	<div id="header_container">
+		
+<div class="logo"><a href="/"><img src="http://img.shopzilla.com/sz/us/images/logos/experience/default.gif" border="0" alt="Shopzilla" title="Shopzilla" vspace="0"></a></div>
 		
 
-	
-	
-	<td><a href="/"><img src="http://img.shopzilla.com/sz/common/tabs/curve_left_sel.gif" width="11" height="21" border="0"></a></td>
-	<td class="navButtonCurveSel" nowrap=""><a href="/">Home</a></td>
-	<td style="padding-right:3px;"><a href="/"><img src="http://img.shopzilla.com/sz/common/tabs/curve_right_sel.gif" width="11" height="21" border="0"></a></td>
 
-	
-	
-	<td><a href="/7R--Clothing_Accessories_-_cat_id--10000000"><img src="http://img.shopzilla.com/sz/common/tabs/curve_left.gif" width="11" height="21" border="0"></a></td>
-	<td class="navButtonCurve" nowrap=""><a href="/7R--Clothing_Accessories_-_cat_id--10000000">Clothes</a></td>
-	<td style="padding-right:3px;"><a href="/7R--Clothing_Accessories_-_cat_id--10000000"><img src="http://img.shopzilla.com/sz/common/tabs/curve_right.gif" width="11" height="21" border="0"></a></td>
 
-	
-	
-	<td><a href="/7R--Home_Garden_-_cat_id--13000000"><img src="http://img.shopzilla.com/sz/common/tabs/curve_left.gif" width="11" height="21" border="0"></a></td>
-	<td class="navButtonCurve" nowrap=""><a href="/7R--Home_Garden_-_cat_id--13000000">Home &amp; Garden</a></td>
-	<td style="padding-right:3px;"><a href="/7R--Home_Garden_-_cat_id--13000000"><img src="http://img.shopzilla.com/sz/common/tabs/curve_right.gif" width="11" height="21" border="0"></a></td>
 
-	
-	
-	<td><a href="/7R--Computers_Software_-_cat_id--4"><img src="http://img.shopzilla.com/sz/common/tabs/curve_left.gif" width="11" height="21" border="0"></a></td>
-	<td class="navButtonCurve" nowrap=""><a href="/7R--Computers_Software_-_cat_id--4">Computers</a></td>
-	<td style="padding-right:3px;"><a href="/7R--Computers_Software_-_cat_id--4"><img src="http://img.shopzilla.com/sz/common/tabs/curve_right.gif" width="11" height="21" border="0"></a></td>
-
-	
-	
-	<td><a href="/7R--Jewelry_Watches_-_cat_id--30000000"><img src="http://img.shopzilla.com/sz/common/tabs/curve_left.gif" width="11" height="21" border="0"></a></td>
-	<td class="navButtonCurve" nowrap=""><a href="/7R--Jewelry_Watches_-_cat_id--30000000">Jewelry</a></td>
-	<td style="padding-right:3px;"><a href="/7R--Jewelry_Watches_-_cat_id--30000000"><img src="http://img.shopzilla.com/sz/common/tabs/curve_right.gif" width="11" height="21" border="0"></a></td>
-
-	
-	
-	<td><a href="/7R--Toys_Games_-_cat_id--14000000"><img src="http://img.shopzilla.com/sz/common/tabs/curve_left.gif" width="11" height="21" border="0"></a></td>
-	<td class="navButtonCurve" nowrap=""><a href="/7R--Toys_Games_-_cat_id--14000000">Toys</a></td>
-	<td style="padding-right:3px;"><a href="/7R--Toys_Games_-_cat_id--14000000"><img src="http://img.shopzilla.com/sz/common/tabs/curve_right.gif" width="11" height="21" border="0"></a></td>
-
-	
-	
-	<td><a href="/7R--Electronics_-_cat_id--11000000"><img src="http://img.shopzilla.com/sz/common/tabs/curve_left.gif" width="11" height="21" border="0"></a></td>
-	<td class="navButtonCurve" nowrap=""><a href="/7R--Electronics_-_cat_id--11000000">Electronics</a></td>
-	<td style="padding-right:3px;"><a href="/7R--Electronics_-_cat_id--11000000"><img src="http://img.shopzilla.com/sz/common/tabs/curve_right.gif" width="11" height="21" border="0"></a></td>
-
-	
-	
-	<td><a href="/7R--Sports_Equipment_Outdoor_Gear_-_cat_id--12000000"><img src="http://img.shopzilla.com/sz/common/tabs/curve_left.gif" width="11" height="21" border="0"></a></td>
-	<td class="navButtonCurve" nowrap=""><a href="/7R--Sports_Equipment_Outdoor_Gear_-_cat_id--12000000">Sports</a></td>
-	<td style="padding-right:3px;"><a href="/7R--Sports_Equipment_Outdoor_Gear_-_cat_id--12000000"><img src="http://img.shopzilla.com/sz/common/tabs/curve_right.gif" width="11" height="21" border="0"></a></td>
-
-	
-	
-
-		<td class="navExtras" nowrap=""><a href="http://www.shopzilla.com/9X">All Depts.</a></td>
-	</tr>
-</tbody></table>
-
-<div class="orangepage" style="margin:0px auto 0px auto;text-align:left;width:1002px;">
-	<table cellspacing="0" cellpadding="0" border="0" width="942" align="center">
-		<tbody><tr>
-			
-				<td align="center" style="padding:10px 0px 10px 0px;"><div>
-	<nobr>
-		<form id="searchForm">
+<div id="search_box_shorten">
+	<div class="search_bar_content_shorten">
+		<form id="searchForm_new_shorten" action="/buy/superfind.xpml" method="get">
 			<input type="hidden" name="search_box" value="1">
-			
-<span style="font-weight:bold;">Shop for <input type="hidden" name="sfsk" value="0"><input type="text" name="keyword" value="" maxlength="256" style="font-size: 12px;width:200px;"> in <select name="cat_id" style="font-size: 12px;">
-	<option value="1" selected="">All Departments</option>
-	<option value="18000000">Appliances</option>
-	<option value="22000000">Automotive</option>
-	<option value="17000000">Babies &amp; Kids</option>
-	<option value="80">Books &amp; Magazines</option>
-	<option value="10000000">Clothing &amp; Accessories</option>
-	<option value="4">Computers &amp; Software</option>
-	<option value="51">DVDs &amp; Videos</option>
-	<option value="11000000">Electronics</option>
-	<option value="16000000">Gifts, Flowers &amp; Food</option>
-	<option value="50">Health &amp; Beauty Supplies</option>
-	<option value="13000000">Home &amp; Garden</option>
-	<option value="30000000">Jewelry &amp; Watches</option>
-	<option value="52">Music</option>
-	<option value="21000000">Musical Instruments &amp; Accessories</option>
-	<option value="24">Office Supplies</option>
-	<option value="20000000">Other Products</option>
-	<option value="31000000">Pet Supplies</option>
-	<option value="12000000">Sports Equipment &amp; Outdoor Gear</option>
-	<option value="14000000">Toys &amp; Games</option>
-	<option value="15000000">Video Games</option>
-	<option value="">-------------------</option>
-	<option value="offers">Special Offers</option>
-	<option value="stores">Store Ratings</option>
-</select>
-</span>
-
-			&nbsp;<input type="submit" id="searchTerm" name="SEARCH_GO" value="Find it!">
+			<input type="hidden" name="sfsk" value="0">
+			<input type="hidden" name="cat_id" value="1">
+			<div class="searchTerm_new_shorten"><div><input type="text" name="keyword" value="" maxlength="256" id="searchTerm_new_shorten" class="large"></div></div>
+			<input id="submit_shorten" type="image" src="http://img.shopzilla.com/sz/us/images/buttons/search_go_new_frame.gif" name="SEARCH_GO" value="Go!">
 		</form>
-	</nobr>
+	</div>
 </div>
-</td>
-			
-		</tr>
-	</tbody></table>
-	<table cellspacing="0" cellpadding="0" border="0" width="942" class="white" align="center">
-		<tbody><tr>
-			<td valign="top" align="left"><img src="http://img.shopzilla.com/shopzilla/corner_lt.gif" width="9" height="9" border="0"></td>
-			<td valign="top" align="right"><img src="http://img.shopzilla.com/shopzilla/corner_rt.gif" width="9" height="9" border="0"></td>
-		</tr>
-		<tr>
-			<td colspan="2" class="contentpage">
-				
-					
 
 
-					
-						<table cellspacing="0" cellpadding="0" border="0" width="100%">
+		
+
+<!-- Browse Department Pod  -->
+
+<div id="browseBttnPod">
+<dl id="browsePod">
+	<dt id="browseButton">
+       	<a href="http://www.shopzilla.com/9X"><img src="http://img.shopzilla.com/sz/us/images/browse_departments/bttn_browse.gif" width="107" height="50" border="0" alt="Browse Departments"></a>
+    </dt>
+	<dd id="sbrowsePod1">
+	
+	<div id="browse">
+	<iframe id="coverup" frameborder="0"></iframe>
+	<div class="wrapper">
+		<div class="departmentsContent">
+			<div class="closeBox" id="browsePodCloseBox">
+				<a href="#"><img src="http://img.shopzilla.com/sz/us/images/browse_departments/bttn_closeBox.gif" width="12" height="12" border="0" alt="Close Window"></a>
+			</div>
+			<table width="650">
+				<tbody><tr>
+					<td class="left">
+						<div class="browseL1"><a href="http://www.shopzilla.com/7R--Appliances_-_cat_id--18000000" class="url">Appliances</a></div>
+						<div class="browseL2">
+							<a href="http://www.shopzilla.com/10J--Vacuums_Accessories_-_cat_id--13110106" class="url">Vacuums</a> <span class="black">|</span>
+							<a href="http://www.shopzilla.com/10J--Refrigerators_-_cat_id--13050901" class="url">Refrigerators</a> <span class="black">|</span>
+							<a href="http://www.shopzilla.com/10J--Heaters_-_cat_id--13110108" class="url">Heaters</a> <span class="black">|</span>
+							<a href="http://www.shopzilla.com/7R--Appliances_-_cat_id--18000000" class="url">More</a> 
+						</div>    
+						
+						<div class="browseL1"><a href="http://www.shopzilla.com/7R--Automotive_-_cat_id--22000000" class="url">Automotive</a></div>
+						<div class="browseL2">
+							<a href="http://www.shopzilla.com/7X--Automotive_Accessories_-_cat_id--22000400" class="url">Accessories</a> <span class="black">|</span>
+							<a href="http://www.shopzilla.com/7X--Automotive_Parts_-_cat_id--22000200" class="url">Parts</a> <span class="black">|</span>
+							<a href="http://www.shopzilla.com/7X--Automotive_Tires_-_cat_id--22000700" class="url">Tires</a> <span class="black">|</span>
+							<a href="http://www.shopzilla.com/7R--Automotive_-_cat_id--22000000" class="url">More</a> 
+						</div>
+						
+						<div class="browseL1"><a href="http://www.shopzilla.com/7R--Babies_Kids_-_cat_id--17000000" class="url">Babies &amp; Kids</a></div>
+						<div class="browseL2">
+							<a href="http://www.shopzilla.com/10J--Kids_Clothes_-_cat_id--10020000" class="url">Kid's Clothing</a> <span class="black">|</span>
+							<a href="http://www.shopzilla.com/7X--Baby_Kids_Furniture_-_cat_id--13060100" class="url">Furniture</a> <span class="black">|</span>
+							<a href="http://www.shopzilla.com/7X--Baby_Kids_Bedding_-_cat_id--13060200" class="url">Bedding</a> <span class="black">|</span>
+							<a href="http://www.shopzilla.com/7R--Babies_Kids_-_cat_id--17000000" class="url">More</a>
+						</div>       
+
+						<div class="browseL1"><a href="http://www.shopzilla.com/7R--Clothing_Accessories_-_cat_id--10000000" class="url">Clothing &amp; Accessories</a></div>
+						<div class="browseL2">
+							<a href="http://www.shopzilla.com/7X--Women_s_Clothing_-_cat_id--10090000" class="url">Women's Clothing</a> <span class="black">|</span>
+							<a href="http://www.shopzilla.com/10J--Handbags_Luggage_-_cat_id--10010000" class="url">Handbags</a> <span class="black">|</span>
+							<a href="http://www.shopzilla.com/7X--Men_s_Shoes_-_cat_id--10150000" class="url">Men's Shoes</a> <span class="black">|</span>
+							<a href="http://www.shopzilla.com/7R--Clothing_Accessories_-_cat_id--10000000" class="url">More</a>
+						</div>      
+						
+						<div class="browseL1"><a href="http://www.shopzilla.com/7R--Computers_Software_-_cat_id--4" class="url">Computer Software</a></div>
+						<div class="browseL2">
+							<a href="http://www.shopzilla.com/10J--Digital_Cameras_-_cat_id--402" class="url">Digital Camera</a> <span class="black">|</span>
+							<a href="http://www.shopzilla.com/10J--MP3_Media_Players_-_cat_id--499" class="url">MP3s</a> <span class="black">|</span>
+							<a href="http://www.shopzilla.com/10J--Laptop_Computers_-_cat_id--462" class="url">Laptops</a> <span class="black">|</span>
+							<a href="http://www.shopzilla.com/7R--Computers_Software_-_cat_id--4" class="url">More</a>
+						</div>               
+						
+						<div class="browseL1"><a href="http://www.shopzilla.com/7R--Electronics_-_cat_id--11000000" class="url">Electronics</a></div>
+						<div class="browseL2">
+							<a href="http://www.shopzilla.com/10J--Cell_Phones_-_cat_id--11580100" class="url">Cell Phones</a> <span class="black">|</span>
+							<a href="http://www.shopzilla.com/10J--Television_TV__-_cat_id--11520000" class="url">TVs</a> <span class="black">|</span>
+							<a href="http://www.shopzilla.com/10J--Global_Positioning_Systems_GPS__-_cat_id--11210000" class="url">GPS Systems</a> <span class="black">|</span>
+							<a href="http://www.shopzilla.com/7R--Electronics_-_cat_id--11000000" class="url">More</a>
+						</div>
+						
+						<div class="browseL1"><a href="http://www.shopzilla.com/7R--Gifts_Flowers_Food_-_cat_id--16000000" class="url">Gifts, Flowers &amp; Food</a></div>
+						<div class="browseL2">
+							<a href="http://www.shopzilla.com/7X--Party_Supplies_-_cat_id--16010900" class="url">Party Supplies</a> <span class="black">|</span>
+							<a href="http://www.shopzilla.com/7X--Chocolate_Sweets_-_cat_id--16030100" class="url">Chocolates &amp; Sweets</a> <span class="black">|</span>
+							<a href="http://www.shopzilla.com/7X--Flowers_Plants_-_cat_id--16010400" class="url">Flowers</a> <span class="black">|</span>
+							<a href="http://www.shopzilla.com/7R--Gifts_Flowers_Food_-_cat_id--16000000" class="url">More</a>
+						</div>
+						
+						<div class="browseL1"><a href="http://www.shopzilla.com/7R--Health_Beauty_Supplies_-_cat_id--50" class="url">Health &amp; Beauty</a></div>
+						<div class="browseL2">
+							<a href="http://www.shopzilla.com/7X--Dental_Care_-_cat_id--22008" class="url">Dental Care</a> <span class="black">|</span>
+							<a href="http://www.shopzilla.com/7X--Vision_Care_-_cat_id--145" class="url">Vision Care</a> <span class="black">|</span>
+							<a href="http://www.shopzilla.com/7X--Vitamins_Nutrition_-_cat_id--150" class="url">Vitamins</a> <span class="black">|</span>
+							<a href="http://www.shopzilla.com/7R--Health_Beauty_Supplies_-_cat_id--50" class="url">More</a>
+						</div>
+
+						<div class="browseL1"><a href="http://www.shopzilla.com/7R--Home_Garden_-_cat_id--13000000" class="url">Home &amp; Garden</a></div>
+						<div class="browseL2">
+							<a href="http://www.shopzilla.com/7X--Furniture_-_cat_id--13170100" class="url">Furniture</a> <span class="black">|</span>
+							<a href="http://www.shopzilla.com/7X--Home_Decor_-_cat_id--13020200" class="url">Home Decor</a> <span class="black">|</span>
+							<a href="http://www.shopzilla.com/7X--Bedding_-_cat_id--13030200" class="url">Bedding</a> <span class="black">|</span>
+							<a href="http://www.shopzilla.com/7R--Home_Garden_-_cat_id--13000000" class="url">More</a>
+						</div>
+					</td>                    
+									
+					<td class="right">
+						<div class="browseL1"><a href="http://www.shopzilla.com/7R--Jewelry_Watches_-_cat_id--30000000" class="url">Jewelry &amp; Watches</a></div>
+						<div class="browseL2">
+							<a href="http://www.shopzilla.com/10J--Watches_-_cat_id--30020100" class="url">Watches</a> <span class="black">|</span>
+							<a href="http://www.shopzilla.com/7X--Rings_-_cat_id--30010106" class="url">Rings</a> <span class="black">|</span>
+							<a href="http://www.shopzilla.com/7X--Necklaces_Pendants_-_cat_id--30010104" class="url">Necklaces &amp; Pendants</a> <span class="black">|</span>
+							<a href="http://www.shopzilla.com/7R--Jewelry_Watches_-_cat_id--30000000" class="url">More</a>
+						</div>    
+						
+						<div class="browseL1">Media</div>
+						<div class="browseL2">
+							<a href="http://www.shopzilla.com/7R--DVDs_Videos_-_cat_id--51" class="url">DVDs &amp; Videos</a> <span class="black">|</span>
+							<a href="http://www.shopzilla.com/7R--Books_Magazines_-_cat_id--80" class="url">Books &amp; Magazines</a> <span class="black">|</span>
+							<a href="http://www.shopzilla.com/7R--Music_-_cat_id--52" class="url">Music</a> 
+						</div>     
+						
+						<div class="browseL1"><a href="http://www.shopzilla.com/7R--Musical_Instruments_Accessories_-_cat_id--21000000" class="url">Musical Instruments</a></div>
+						<div class="browseL2">
+							<a href="http://www.shopzilla.com/10J--Guitar_Bass_-_cat_id--521900" class="url">Guitar/Bass</a> <span class="black">|</span>
+							<a href="http://www.shopzilla.com/10J--Drums_Percussion_-_cat_id--521902" class="url">Drums</a> <span class="black">|</span>
+							<a href="http://www.shopzilla.com/10J--Keyboards_Midi_-_cat_id--521903" class="url">Keyboards</a> <span class="black">|</span>
+							<a href="http://www.shopzilla.com/7R--Musical_Instruments_Accessories_-_cat_id--21000000" class="url">More</a>
+						</div>                                    
+						
+						<div class="browseL1"><a href="http://www.shopzilla.com/7R--Office_Supplies_-_cat_id--24" class="url">Office Supplies</a></div>
+						<div class="browseL2">
+							<a href="http://www.shopzilla.com/10J--Office_Basics_-_cat_id--212" class="url">Office Basics</a> <span class="black">|</span>
+							<a href="http://www.shopzilla.com/7X--Calendars_Organizers_Planners_-_cat_id--12" class="url">Calendars</a> <span class="black">|</span>
+							<a href="http://www.shopzilla.com/10J--Calculators_-_cat_id--209" class="url">Calculators</a> <span class="black">|</span>
+							<a href="http://www.shopzilla.com/7R--Office_Supplies_-_cat_id--24" class="url">More</a>
+						</div>
+						
+						<div class="browseL1"><a href="http://www.shopzilla.com/7R--Pet_Supplies_-_cat_id--31000000" class="url">Pet Supplies</a></div>
+						<div class="browseL2">
+							<a href="http://www.shopzilla.com/7X--Dog_Supplies_-_cat_id--31000300" class="url">Dog</a> <span class="black">|</span>
+							<a href="http://www.shopzilla.com/7X--Fish_Supplies_-_cat_id--31000400" class="url">Fish</a> <span class="black">|</span>
+							<a href="http://www.shopzilla.com/7X--Cat_Supplies_-_cat_id--31000200" class="url">Cat</a> <span class="black">|</span>
+							<a href="http://www.shopzilla.com/7R--Pet_Supplies_-_cat_id--31000000" class="url">More</a>
+						</div>                                    
+								 
+						<div class="browseL1"><a href="http://www.shopzilla.com/7R--Sports_Equipment_Outdoor_Gear_-_cat_id--12000000" class="url">Sporting Goods</a></div>
+						<div class="browseL2">
+							<a href="http://www.shopzilla.com/7X--Fitness_Equipment_-_cat_id--12050100" class="url">Fitness Equipment</a> <span class="black">|</span>
+							<a href="http://www.shopzilla.com/7X--Bicycles_Equipment_-_cat_id--12130100" class="url">Bicycles</a> <span class="black">|</span>
+							<a href="http://www.shopzilla.com/7X--Golf_Gifts_Equipment_-_cat_id--12070300" class="url">Golf</a> <span class="black">|</span>
+							<a href="http://www.shopzilla.com/7R--Sports_Equipment_Outdoor_Gear_-_cat_id--12000000" class="url">More</a>
+						</div>                                             
+								 
+						<div class="browseL1"><a href="http://www.shopzilla.com/7R--Toys_Games_-_cat_id--14000000" class="url">Toys &amp; Games</a>
+						</div>
+						<div class="browseL2">
+							<a href="http://www.shopzilla.com/7X--Costumes_Accessories_-_cat_id--14010202" class="url">Costumes</a> <span class="black">|</span>
+							<a href="http://www.shopzilla.com/7X--Action_Figures_-_cat_id--14010100" class="url">Action Figures</a> <span class="black">|</span>
+							<a href="http://www.shopzilla.com/10J--Dolls_-_cat_id--14010600" class="url">Dolls</a> <span class="black">|</span>
+							<a href="http://www.shopzilla.com/7R--Toys_Games_-_cat_id--14000000" class="url">More</a>
+						</div>                                             
+						  
+						<div class="browseL1"><a href="http://www.shopzilla.com/7R--Video_Games_-_cat_id--15000000" class="url">Video Games</a>
+						</div>
+						<div class="browseL2">
+							<a href="http://www.shopzilla.com/10J--Video_Games_-_cat_id--15010100" class="url">Games</a> <span class="black">|</span>
+							<a href="http://www.shopzilla.com/10J--Video_Game_Consoles_-_cat_id--15010300" class="url">Consoles</a> <span class="black">|</span>
+							<a href="http://www.shopzilla.com/7X--Video_Game_Accessories_-_cat_id--15010200" class="url">Accessories</a> <span class="black">|</span>
+							<a href="http://www.shopzilla.com/7R--Video_Games_-_cat_id--15000000" class="url">More</a>
+						</div>
+								  
+						<div class="browseL1"></div>
+						<div class="browseAll">
+							<a href="http://www.shopzilla.com/9X" class="url">See all departments</a>
+						</div>                                
+					</td>
+				</tr>
+			</tbody></table>
+		</div>    
+	</div>
+</div>
+
+		</dd>	
+</dl>
+</div>
+
+
+
+
+
+		<br clear="all">
+	</div>
+	<div class="frame_container">
+		<div class="top_corners">
+			<div class="corner_top_left"></div>
+			<div class="corner_top_right"></div>
+		</div>
+		<div class="frame_center">
+			<div class="frame_center_border">
+				<div class="whitepage">
+					<div class="top_corners_white">
+						<div class="corner_top_left_white"></div>
+						<div class="corner_top_right_white"></div>
+					</div>
+					<div class="main_content">
+						<table cellspacing="0" cellpadding="0" border="0" style="width:100%;margin:0px 0px 14px 0px;padding:0px 18px 0px 18px;background-color:#fff;">
 							<tbody><tr>
-								<td valign="top">
+								<td>
 									
-										<a href="http://www.shopzilla.com/">Home</a> &gt; <a href="/40_-_content--about">About Shopzilla</a> &gt; <span class="breadcrumbCurrent">Privacy Policy
+										
+										
+											<table cellspacing="0" cellpadding="0" border="0" width="100%">
+												<tbody><tr>
+													<td valign="top">
+														
+															<a href="/">Home</a> &gt; <a href="/40_-_content--about">About Shopzilla</a> &gt; <span class="breadcrumbCurrent">Privacy Policy</span>
+														
+													</td>
+													
+												</tr>
+											</tbody></table>
+										
 									
-								</span></td>
-								<td valign="top" align="right">
- 
- <!-- email link //-->
-
- 	<a rel="nofollow" href="/5H_-_page_title--Shopzilla%2C%20Inc.%20Privacy%20Policy__page_token--47"><span class="headerLinksA">Email this page</span></a>
-
-</td>
-							</tr>
-						</tbody></table>
-					
-				
 
 <div id="search_header">
 	<h1>Shopzilla, Inc. Privacy Policy</h1>
@@ -442,7 +567,7 @@ the rights, property, or security of Shopzilla, our users, or others.
 Other than as described above, with your consent at the time you submit information to us, we may also share your
 information with participating merchants where you have shopped from time to time or their agents or other
 specified parties. Once we share information with your consent with a merchant or other party, the use and
-protection of that information by the merchant or other party will be subject to the privacy policies of that
+protection of that information by the merchant or other party will be subject to the privacy policies and terms of use of that
 party. You may opt-out of such sharing of your information by declining to provide it or by sending a subsequent
 opt-out request to us by
 <a href="/4C_-_content--contact_us__subject--privacy_policy">clicking here</a>
@@ -453,7 +578,7 @@ or by mail at the address below; however, opting-out may limit our ability to pr
 Online merchants and others who participate in our Web site and other Services are encouraged to participate in
 industry privacy initiatives and to take a responsible attitude towards consumer privacy. However, since we do
 not have direct control over the policies or practices of participating merchants and other third parties, we
-cannot be responsible for their actions. We recommend that you always review the privacy policies of merchants
+cannot be responsible for their actions. We recommend that you always review the privacy policies and terms of use of merchants
 and other third parties before you provide any personal information or complete any transaction with such parties. 
 <br><br>
 
@@ -534,7 +659,7 @@ you do not wish your information to be subject to the proposed changes to this P
 check for recent changes on our Web site whenever you visit our Web site or use our other Services.
 <br><br>
 
-<strong>Effective Date: Privacy Policy last modified  October 30, 2006.</strong>
+<strong>Effective Date: Privacy Policy last modified  October 11, 2007.</strong>
 <br><br>
 
 <strong>© 2006 Shopzilla, Inc.</strong>
@@ -553,7 +678,7 @@ var _cookie_domain_periods = '2';
 
 
 var _mtrcs_hostname = "shopzilla.com";
-var _my_timestamp = "1180148449000";
+var _my_timestamp = "1197585348000";
 
 
 </script>
@@ -572,21 +697,21 @@ s.pageName = "47 : About, Privacy";
 
 
 s.prop1    = "";
-s.prop2    = "49" + ' ' + s.pageName;
+s.prop2    = "92" + ' ' + s.pageName;
 s.prop3    = "US";  
 s.prop4    = "SZ"; 
 s.prop6    = "shopzilla"; 
 s.prop7    = "1"; 
-s.prop8    = "wlk"; 
-s.prop10   = "11801484491613750016600410000014369"; 
+s.prop8    = "msz"; 
+s.prop10   = "11975845925480530013900340102002263"; 
 
 s.prop11   = ""; 
 
-s.prop12   = "49"; 
-s.prop14   = "104100143692145649" ; 
-s.prop17   = "wlk"; 
+s.prop12   = "92"; 
+s.prop14   = "603412022631088592" ; 
+s.prop17   = "msz"; 
 
-s.prop18   = "1"; 
+s.prop18   = "124"; 
 
 
 
@@ -599,12 +724,10 @@ s.prop18   = "1";
 /* E-commerce Variables */
 
 
-s.campaign = "wlk"; 
-
 
 
 s.eVar8 = "US"; 
-s.eVar12 = "wlk"; 
+s.eVar12 = "msz"; 
 s.eVar16 = "shopzilla"; 
 
 
@@ -613,21 +736,24 @@ var s_code=s.t();if(s_code)document.write(s_code)//--></script>
 <!-- End SiteCatalyst code version: H.2. -->
 
 
-				</td>
-			</tr>
-			<tr>
-				<td valign="bottom" align="left"><img src="http://img.shopzilla.com/shopzilla/corner_lb.gif" width="9" height="9" border="0"></td>
-				<td valign="bottom" align="right"><img src="http://img.shopzilla.com/shopzilla/corner_rb.gif" width="9" height="9" border="0"></td>
-			</tr>
-		</tbody></table>
 
-		<div style="padding:10px 0px 10px 0px;text-align:center;">
-			<div>
-	<nobr>
-		<form id="searchForm">
-			<input type="hidden" name="search_box" value="1">
-			
-<span style="font-weight:bold;">Shop for <input type="hidden" name="sfsk" value="0"><input type="text" name="keyword" value="" maxlength="256" style="font-size: 12px;width:200px;"> in <select name="cat_id" style="font-size: 12px;">
+								</td>
+							</tr>
+						</tbody></table>
+					</div>
+					<div class="bottom_corners_white">
+						<div class="corner_bottom_left_white"></div>
+						<div class="corner_bottom_right_white"></div>
+					</div>
+				</div>
+			</div>
+			<div style="text-align:center;padding:13px 0px 0px 0px;" class="frame_center_border">
+				
+<nobr>
+	<form id="searchForm" action="/buy/superfind.xpml" method="get">
+		<input type="hidden" name="search_box" value="1">
+		
+<span style="font-weight:bold;">Shop for <input type="hidden" name="sfsk" value="0"><input type="text" name="keyword" id="keyword" value="" maxlength="256" style="font-size: 12px;width:200px;"> in <select name="cat_id" style="font-size: 12px;">
 	<option value="1" selected="">All Departments</option>
 	<option value="18000000">Appliances</option>
 	<option value="22000000">Automotive</option>
@@ -655,96 +781,139 @@ var s_code=s.t();if(s_code)document.write(s_code)//--></script>
 </select>
 </span>
 
-			&nbsp;<input type="submit" id="searchTerm" name="SEARCH_GO" value="Find it!">
-		</form>
-	</nobr>
-</div>
+		&nbsp;<input type="submit" id="searchTerm" name="SEARCH_GO" value="Find it!">
+	</form>
+</nobr>
 
-		</div>
-	</div>
-
-	<div style="margin:0px auto 0px auto;text-align:left;width:942px;">
-		
-
-		<div id="f" style="position: relative; padding: 10px 0px 0px 0px; width:100%;border:0px;text-align:center;">
-			<div style="clear:both;margin:10px 0px 0px 0px;">
-				<div>
-					<a href="http://www.shopzilla.com/">Home</a> |
-					<a href="http://www.shopzilla.com/40_-_content--about">About Shopzilla.com</a> |
-					<a href="http://www.shopzilla.com/47_-_content--privacy">Privacy Policy</a> |
-					<a href="http://www.shopzilla.com/41_-_content--legal">User Agreement</a>
-					| <a href="http://www.shopzilla.com/62_-_content--jobs">Jobs At Shopzilla</a>
-				</div>
-
-				<div>
-					<a href="/13K">Shopzilla Sitemap Index</a> &nbsp;|&nbsp;
-					<a href="/13S">Shopzilla Top Searches</a>
-					
-						&nbsp;|&nbsp;<a href="/14F">Get the latest with RSS<img src="http://img.shopzilla.com/sz/us/images/buttons/rss_icon_btn.gif" border="0" align="absmiddle" hspace="5"></a>
-					
-				</div>
-				
-				<div style="margin:20px 0px 0px 0px;">
-					<a href="http://merchant.shopzilla.com">Merchant Login</a> |
-					<a href="http://merchant.shopzilla.com/oa/shopping_search/">Merchant Listings and Advertising</a>
-					
-						| <a href="http://merchant.shopzilla.com/oa/customer_ratings/">Ratings and Research</a>
-					
-					
-						| <a href="http://publisher.shopzilla.com">Affiliates</a>
-					
-				</div>
-
-				<div style="margin-top:3px;">
-					<table border="0" cellspacing="0" cellpadding="0" align="center">
-						<tbody><tr>
-							<td style="font-size:11px;">Shopzilla International - </td>
-							
-							
-								<td style="padding-top:2px;padding-left:4px;padding-right:4px;"><a href="http://www.shopzilla.co.uk"><img src="http://img.shopzilla.com/site/flags/uk_20x12.gif" width="20" height="12" border="0"></a> </td>
-								<td style="font-size:11px;"><a href="http://www.shopzilla.co.uk">Online Shopping</a> | </td>
-							
-							
-								<td style="padding-top:2px;padding-left:4px;padding-right:4px;"><a href="http://www.shopzilla.fr"><img src="http://img.shopzilla.com/site/flags/fr_20x12.gif" width="20" height="12" border="0"></a> </td>
-								<td style="font-size:11px;"><a href="http://www.shopzilla.fr">Acheter moins cher</a> | </td>
-							
-							
-								<td style="padding-top:2px;padding-left:4px;padding-right:4px;"><a href="http://www.shopzilla.de"><img src="http://img.shopzilla.com/site/flags/de_20x12.gif" width="20" height="12" border="0"></a> </td>
-								<td style="font-size:11px;"><a href="http://www.shopzilla.de">Preisvergleich</a></td>
-							
-						</tr>
-					</tbody></table>
-				</div>
-
-				<div style="margin:20px 0px 0px 0px;">
-					<span style="color:#000;">© 2007 Shopzilla, Inc. Shopzilla is a <a href="http://www.scripps.com" target="_blank">Scripps</a> media company.</span>
-					
-				</div>
-
-				
-					<div>
-						<a target="_blank" href="http://www.hgtv.com/">HGTV</a> |
-						<a target="_blank" href="http://www.foodnetwork.com/">Food Network</a> |
-						<a target="_blank" href="http://www.diynetwork.com/">DIY Network</a> |
-						<a target="_blank" href="http://www.fineliving.com/">Fine Living</a> |
-						<a target="_blank" href="http://www.gactv.com/">Great American Country</a> |
-						<a target="_blank" href="http://www.hgtvpro.com/">HGTVPro</a>
-					</div>
-
-					
-				
 
 			</div>
 		</div>
+		<div class="bottom_corners">
+			<div class="corner_bottom_left"></div>
+			<div class="corner_bottom_right"></div>
+		</div>
 	</div>
+</div>
 
+<div id="footer">
+	
 
+	<div class="footer_links">
+		<div>					
+			
+				<a href="/29">Your account</a>
+			
+			
+				| <a href="http://publisher.shopzilla.com/oa/page.xhtml?url=http://www.shopzilla.com/47_-_content--privacy">Link to this page</a><br>
+			
+			
+		</div>
+		
+		<div>
+			<a href="/">Home</a> |
+			<a href="/7R--Clothing_Accessories_-_cat_id--10000000">Clothes</a> |
+			<a href="/7R--Home_Garden_-_cat_id--13000000">Home &amp; Garden</a> |
+			<a href="/7R--Computers_Software_-_cat_id--4">Computers</a> |
+			<a href="/7R--Jewelry_Watches_-_cat_id--30000000">Jewelry</a> |
+			<a href="/7R--Toys_Games_-_cat_id--14000000">Toys</a> |
+			<a href="/7R--Electronics_-_cat_id--11000000">Electronics</a> |
+			<a href="/7R--Sports_Equipment_Outdoor_Gear_-_cat_id--12000000">Sports</a> |
+			<a href="/9X">All Depts</a>
+		</div>
+		
+		<div>
+			<a href="/40_-_content--about">About Shopzilla.com</a> |
+			<a href="/47_-_content--privacy">Privacy Policy</a> |
+			<a href="/41_-_content--legal">User Agreement</a>
+			| <a href="/62_-_content--jobs">Jobs At Shopzilla</a>
+			| <a href="/56_-_content--press_releases">Press</a>
+		</div>
+
+		<div>
+			<a href="/13K">Shopzilla Sitemap Index</a> &nbsp;|&nbsp;
+			<a href="/13S">Shopzilla Top Searches</a>
+			
+				&nbsp;|&nbsp;<a href="/14F">Get the latest with RSS<img src="http://img.shopzilla.com/sz/us/images/buttons/rss_icon_btn.gif" border="0" align="absmiddle" hspace="5"></a>
+			
+		</div>
+		
+        
+        
+        
+        
+		<div style="margin:20px 0px 0px 0px;">
+			<a href="http://merchant.shopzilla.com">Merchant Login</a> |
+			<a href="http://merchant.shopzilla.com/oa/shopping_search/">Merchant Listings and Advertising</a>
+			
+				| <a href="http://merchant.shopzilla.com/oa/customer_ratings/">Ratings and Research</a>
+			
+			
+				| <a href="http://publisher.shopzilla.com">Affiliates</a>
+			
+		</div>
+
+		<div style="margin-top:3px;">
+			<table border="0" cellspacing="0" cellpadding="0" align="center">
+				<tbody><tr>
+					<td>Shopzilla International - </td>
+					
+					
+						<td style="padding-top:2px;padding-left:4px;padding-right:4px;"><a href="http://www.shopzilla.co.uk"><img src="http://img.shopzilla.com/site/flags/uk_20x12.gif" width="20" height="12" border="0"></a> </td>
+						<td><a href="http://www.shopzilla.co.uk">Online Shopping</a> | </td>
+					
+					
+						<td style="padding-top:2px;padding-left:4px;padding-right:4px;"><a href="http://www.shopzilla.fr"><img src="http://img.shopzilla.com/site/flags/fr_20x12.gif" width="20" height="12" border="0"></a> </td>
+						<td><a href="http://www.shopzilla.fr">Acheter moins cher</a> | </td>
+					
+					
+						<td style="padding-top:2px;padding-left:4px;padding-right:4px;"><a href="http://www.shopzilla.de"><img src="http://img.shopzilla.com/site/flags/de_20x12.gif" width="20" height="12" border="0"></a> </td>
+						<td><a href="http://www.shopzilla.de">Preisvergleich</a></td>
+					
+				</tr>
+			</tbody></table>
+		</div>
+        
+        
+        
+				<div id="net_promoter_invite"><a href="http://survey.ccsurvey.com/shpz0701a/survey1.pl?brand=Shopzilla.com&amp;logo=Shopzilla_US.gif&amp;custid=1&amp;marker=" target="_new" onclick="myNetPromoterPopup.createCookie('took_survey');" class="hide_netpromo_link">Take our survey and win an iPod</a></div>
+		
+        
+
+		<div style="margin:20px 0px 0px 0px;">
+			<span style="color:#000;">© 2007 Shopzilla, Inc. Shopzilla is a <a href="http://www.scripps.com" target="_blank">Scripps</a> media company.</span>
+			
+		</div>
+
+		
+			<div>
+				<a target="_blank" href="http://www.hgtv.com/">HGTV</a> |
+				<a target="_blank" href="http://www.foodnetwork.com/">Food Network</a> |
+				<a target="_blank" href="http://www.diynetwork.com/">DIY Network</a> |
+				<a target="_blank" href="http://www.fineliving.com/">Fine Living</a> |
+				<a target="_blank" href="http://www.gactv.com/">Great American Country</a> |
+				<a target="_blank" href="http://www.hgtvpro.com/">HGTVPro</a>
+			</div>
+
+			
+		
+	</div>
+</div>
 <a href="/color_bumper.xpml"><img src="http://img.shopzilla.com/site/trans.gif" width="10" height="10" border="0" alt=""></a>
 
 
 
+<script language="JavaScript" type="text/JavaScript">
+<!--
+ 
+	var r=Math.random();
+	document.writeln("<img alt=\"Yahoo Image\" width=1 height=1 border=0\n"); document.writeln("src=\"https://pclick.yahoo.com/p/s=2022591220/lng=us/rand="+r+"\">");
+//-->
+</script><img alt="Yahoo Image" width="1" height="1" border="0" src="https://pclick.yahoo.com/p/s=2022591220/lng=us/rand=0.9352430881941358">
+
+
+
 <!-- TKN#47 -->
-<!-- APPSERVER: dante041.shopzilla.lax -->
+<!-- APPSERVER: dante017.sl2.shopzilla.hou -->
 
 
 
