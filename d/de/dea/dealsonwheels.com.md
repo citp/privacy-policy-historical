@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealsonwheels.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629054032id_/http%3A//www.dealsonwheels.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealsonwheels.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213013657id_/http%3A//www.dealsonwheels.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,8 +8,8 @@
 [Home](http://www.dealsonwheels.com/)  
 [Sell Your Vehicle](https://secure2.dealsonwheels.com/sellit/sell-step-1.aspx)  
 [Subscriptions](http://www.dealsonwheels.com/subscriptions/)  
-[Search New Listings](https://web.archive.org/web/20070629054032id_/http%3A//www.dealsonwheels.com/new/)  
-[Auctions and Events](https://web.archive.org/web/20070629054032id_/http%3A//www.dealsonwheels.com/events/)  
+[Search New Listings](https://web.archive.org/web/20071213013657id_/http%3A//www.dealsonwheels.com/new/)  
+[Auctions and Events](https://web.archive.org/web/20071213013657id_/http%3A//www.dealsonwheels.com/events/)  
 [Contact Us](http://www.dealsonwheels.com/contactus/)  
 [About Us](http://www.dealsonwheels.com/aboutus/)  
    
@@ -24,6 +24,7 @@ SEARCH BY DEALERS
   
 * * *  
   
+[Performance Parts](http://www.dealsonwheels.com/partsandaccessories/performance.aspx)  
 [Parts and Accessories](http://www.dealsonwheels.com/partsandaccessories/)  
    
 SEARCH BY CATEGORY  
@@ -42,7 +43,6 @@ SEARCH BY CATEGORY
 [SUVs / Jeeps](http://www.dealsonwheels.com/category/Default.aspx?cat=2)  
 [Vans](http://www.dealsonwheels.com/category/Default.aspx?cat=3)  
 [Trucks](http://www.dealsonwheels.com/category/Default.aspx?cat=4)  
-[Heavy Trucks and Equipment](http://www.dealsonwheels.com/category/Default.aspx?cat=5)  
 [Race Cars](http://www.dealsonwheels.com/category/Default.aspx?cat=6)  
 [Limousines](http://www.dealsonwheels.com/category/Default.aspx?cat=7)  
 [Motorcycles](http://www.dealsonwheels.com/category/Default.aspx?cat=8)  
@@ -155,10 +155,10 @@ back to the top
 
 
 |    
-[](http://www.dealsonwheels.com/common/url.aspx?cd=3257)
+[](http://www.dealsonwheels.com/common/url.aspx?cd=4635)
 
-[](http://www.dealsonwheels.com/common/url.aspx?cd=3183)
+[](http://www.dealsonwheels.com/common/url.aspx?cd=4683)
 
-[](http://www.dealsonwheels.com/common/url.aspx?cd=3258)
+[](http://www.dealsonwheels.com/common/url.aspx?cd=4637)
 
-[](https://web.archive.org/web/20070629054032id_/http%3A//www.dealsonwheels.com/partsandaccessories/performance.aspx)
+[](https://web.archive.org/web/20071213013657id_/http%3A//www.dealsonwheels.com/partsandaccessories/performance.aspx)
