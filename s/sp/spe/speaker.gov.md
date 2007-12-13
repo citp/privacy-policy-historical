@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the speaker.gov privacy policy that was archived on 2007-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070218170740id_/http%3A//speaker.gov/footerlinks%3Fid%3D0001) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speaker.gov privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213171500id_/http%3A//www.speaker.gov/footerlinks%3Fid%3D0001) for the most accurate reproduction.*
 
 # Speaker Nancy Pelosi
 
   
 Get the latest news and info from the Speaker 
 
-[](http://democraticleader.ctsg.com/join/)
+[](http://www.kintera.org/autogen/home/default.asp?ievent=239010)
 
-[](http://speaker.gov/issues?id=0007)
+[](http://www.speaker.gov/issues?id=0055)
 
-[](http://speaker.gov/legislation?id=0002)
+[](http://www.speaker.gov/blog)
 
-[](http://speaker.gov/issues?id=0010)
+[](http://www.speaker.gov/legislation?id=0058)
 
   
 We are committed to protecting your privacy.  No personal information about you is collected when you visit our web site unless you choose to provide that information. 
