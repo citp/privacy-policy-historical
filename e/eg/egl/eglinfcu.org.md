@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eglinfcu.org privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629152931id_/http%3A//www.eglinfcu.org/disclosures.asp%3Fdis%3D14%26nav%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eglinfcu.org privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213194311id_/http%3A//www.eglinfcu.org/disclosures.asp%3Fdis%3D14%26nav%3D1) for the most accurate reproduction.*
 
 # Eglin Federal Credit Union
 
@@ -24,6 +24,6 @@ This statement updates and replaces any other notices about our privacy policy.
 
 * * *
 
-[Back](https://web.archive.org/web/20070629152931id_/http%3A//www.eglinfcu.org/disclosures.asp?dis=1.1&nav=2)
+[Back](https://web.archive.org/web/20071213194311id_/http%3A//www.eglinfcu.org/disclosures.asp?dis=1.1&nav=2)
 
 | 
