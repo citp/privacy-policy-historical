@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fye.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630084823id_/http%3A//fye.com/helpcenter.htm%3Ffile%3Dhelp_popup_index_policies%23privatepolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fye.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213150637id_/http%3A//fye.com/helpcenter.htm%3Ffile%3Dhelp_popup_index_policies%23privatepolicy) for the most accurate reproduction.*
 
 # FYE: : Help
 
@@ -26,8 +26,6 @@ Our site provides users the opportunity to opt out of receiving communications f
 
 **Links**  
 Pages at FYE contain links to other sites. FYE is not responsible for the privacy practices or the content of such web sites.
-
-**Change/Modify**
 
 **Security**  
 The security of your data is of utmost importance to FYE. [Click here](https://web.archive.org/helpcenter.htm?file=help_safe_shop) to learn about our security guarantee.
