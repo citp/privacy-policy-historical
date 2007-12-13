@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the alphadictionary.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607102119id_/http%3A//www.alphadictionary.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alphadictionary.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213185832id_/http%3A//www.alphadictionary.com/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - alphaDictionary * Free English Online Dictionary
-
-[](http://www.alphadictionary.com/adrotate/adclick.php?n=a1cf2533)
 
 ### Link: alphaDictionary.com Privacy Policy for Kids
 
