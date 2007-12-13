@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wishafriend.com privacy policy that was archived on 2007-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070530011149id_/http%3A//wishafriend.com/info/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wishafriend.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213154830id_/http%3A//www.wishafriend.com/info/privacypolicy.php) for the most accurate reproduction.*
 
 # WishAFriend.com: Privacy Policy
 
@@ -16,7 +16,7 @@ We try to protect your privacy, but you must please understand that any use of t
 **Affiliates, Advertisers and Others:**   
 Before providing information to any party other than wishafriend.com, you should check their privacy policy, as they are third parties. We may use third party TAF services for the function of sending pages. We are not responsible for the content or the privacy practices utilized by any other sites, linked by us. 
 
-For any queries, [contact us](https://web.archive.org/web/20070530011149id_/http%3A//wishafriend.com/info/contact.php). 
+For any queries, [contact us](https://web.archive.org/web/20071213154830id_/http%3A//www.wishafriend.com/info/contact.php). 
 
   
 
