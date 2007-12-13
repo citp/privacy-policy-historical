@@ -1,19 +1,20 @@
-> *The following text is extracted and transformed from the theweathernetwork.com privacy policy that was archived on 2007-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070514021117id_/http%3A//theweathernetwork.com/inter/help/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theweathernetwork.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213224156id_/http%3A//www.theweathernetwork.com/help/privacy_policy) for the most accurate reproduction.*
 
-# The Weather Network · Help · Privacy Policy
+# The Weather Network - Help - Privacy Policy
 
-  * Privacy Policy
-  * The Ten Privacy Principles
-  * Where and Why We Collect Personal Information Online
-  * Cookies
-  * Employee Confidentiality
-  * Limitation of Liability
-  * Contact Us
-  * Updates
+  * [Privacy Policy](http://www.theweathernetwork.com/index.php?product=help&pagecontent=privacy_policy#privacy)
+  * [The Ten Privacy Principles](http://www.theweathernetwork.com/index.php?product=help&pagecontent=privacy_policy#ten_principals)
+  * [Where and Why We Collect Personal Information Online](http://www.theweathernetwork.com/index.php?product=help&pagecontent=privacy_policy#whereandwhy)
+  * [Cookies](http://www.theweathernetwork.com/index.php?product=help&pagecontent=privacy_policy#cookies)
+  * [Employee Confidentiality ](http://www.theweathernetwork.com/index.php?product=help&pagecontent=privacy_policy#employee_conf)
+  * [Limitation of Liability](http://www.theweathernetwork.com/index.php?product=help&pagecontent=privacy_policy#limitation)
+  * [Contact Us](http://www.theweathernetwork.com/index.php?product=help&pagecontent=privacy_policy#contact)
+  * [Updates](http://www.theweathernetwork.com/index.php?product=help&pagecontent=privacy_policy#updates)
 
 
 
-Privacy Policy   
+Privacy Policy 
+
 Pelmorex Media Inc. ("PMI") is committed to respecting and safeguarding the privacy of our stakeholders and to ensure the protection of personal information of our employees, customers, clients and users of this web site. It has always been fundamental to the way we do business at Pelmorex in all our relationships, either on or off the Internet: we are committed to keeping personal information accurate, confidential, secure and private.
 
 PMI's policy is simple: we collect personal information about you only when you knowingly and willingly provide it, and we will not share or otherwise profit from the distribution of personal data beyond the use it was provided to fulfill.
@@ -30,7 +31,7 @@ Principle 6 - Accuracy
 Principle 7 - Safeguarding Customer Information   
 Principle 8 - Openness   
 Principle 9 - Customer Access   
-Principle 10 - Handling Customer Complaints and Suggestions
+Principle 10 - Handling Customer Complaints and Suggestions 
 
 Principle 1 - Accountability   
 PMI is responsible for all personal information under its control including any personal information disclosed to third parties for processing. Pelmorex has established policies and procedures to comply with its own privacy code, and has designated one or more persons to be accountable for compliance.
@@ -66,9 +67,9 @@ Where and Why We Collect Personal Information Online
 Currently PMI collects personal information from users when they register for WeatherDirect (an email program that delivers weather forecasts for free), sign up to add the 'Weather Button' on their site, or send us an email.
 
 WeatherDirect   
-[When an individual registers](https://web.archive.org/Inter/WeatherCentre) for WeatherDirect, they are required to provide their name, email address, and password. This information allows us to deliver weather forecasts to a subscriber’s email address and enables them to change their preferences associated with this program. We also ask subscribers for additional information, which is not required to participate in the email program. The purpose of gathering this optional information is twofold: 1) with a greater understanding of our users we can develop an email program even better suited to the needs of our subscribers and 2) to generate a statistical profile of all subscribers that is shared with advertisers on The Weather Network. Note that The Weather Network will not sell or share your email address or individual information with any third party.
+When an individual registers for WeatherDirect, they are required to provide their name, email address, and password. This information allows us to deliver weather forecasts to a subscriber's email address and enables them to change their preferences associated with this program. We also ask subscribers for additional information, which is not required to participate in the email program. The purpose of gathering this optional information is twofold: 1) with a greater understanding of our users we can develop an email program even better suited to the needs of our subscribers and 2) to generate a statistical profile of all subscribers that is shared with advertisers on The Weather Network. Note that The Weather Network will not sell or share your email address or individual information with any third party.
 
-When a subscriber cancels his or her subscription, that individual’s personal information (name and email address) will be deleted from our database within 30 days.
+When a subscriber cancels his or her subscription, that individual's personal information (name and email address) will be deleted from our database within 30 days.
 
 Weather Button   
 When users sign up for the 'Weather Button' we request their name, email address, company name (if available) and website URL. The purpose of this is to be able to contact users of the button to communicate changes in the program as well as to track and check the sites they are implemented on to gauge the effectiveness of the program. This information will be retained for the life of the weather button program.
@@ -92,12 +93,9 @@ Limitation of Liability
 Complete confidentiality and security is not yet possible over the Internet. Internet use and communication is subject to interception, loss and alteration. On whichever site you provide personal information, it is possible for a third party to view that information. It is not surprising, for example, that messages to newsgroups have resulted in unsolicited email from spammers. You acknowledge and agree that PMI and its affiliates and related companies shall not be responsible for any damages you may suffer as a result of the transmission of confidential or sensitive information over the Internet, and that all such communications will be at your own risk.
 
 Contact Us   
-We hope you find this statement informative and clear. Please [email us](mailto:privacy@pelmorex.com) regarding any questions or further information you may be interested in. Or, if you prefer, contact us in writing, at:
+We hope you find this statement informative and clear. Please email us regarding any questions or further information you may be interested in. Or, if you prefer, contact us in writing, at:
 
-Privacy Officer   
-2655 Bristol Circle   
-Oakville, Ontario   
-L6H 7W1 
+Privacy Officer 2655 Bristol Circle Oakville, Ontario L6H 7W1 
 
 Individuals can also contact the Privacy Commissioner of Canada in writing at the address provided.
 
