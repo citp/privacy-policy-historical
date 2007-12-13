@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blumentals.net privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624041116id_/http%3A//www.blumentals.net/company/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blumentals.net privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213023315id_/http%3A//www.blumentals.net/company/privacy.php) for the most accurate reproduction.*
 
 # Blumentals Software - Company
 
@@ -16,7 +16,7 @@ We do not collect or store any credit card information.
 
 ## Information usage
 
-Blumentals Software collects and uses your personal information to operate and improve its web site and to provide the customer service or carry out the transactions you have requested. These uses may include replying your inquiry or support query; performing research and analysis aimed at improving our web site, products and services; and providing you with a replacement of a digital software product purchased from Blumentals Software.
+Blumentals Software collects and uses your personal information to operate and improve its web site and to provide the customer service or carry out the transactions you have requested. These uses may include replying your inquiry or support query; performing research and analysis aimed at improving our web site, products and services; notifying you about important software updates and providing you with a replacement of a digital software product purchased from Blumentals Software.
 
 ## Sharing of your personal information
 
