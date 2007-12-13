@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the job-hunt.org privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630130007id_/http%3A//www.job-hunt.org/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the job-hunt.org privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213033537id_/http%3A//www.job-hunt.org/privacypolicy.shtml) for the most accurate reproduction.*
 
 # The Privacy Policy for Job-Hunt.Org
 
@@ -10,7 +10,7 @@ At Job-Hunt, we are committed to being a trustworthy partner in your job search.
 
 **Information Collected Actively**
 
-******      Subscriber E-mail Addresses: ** We offer our visitors the opportunity to subscribe ("opt-in") to the [Online Job-Hunting Guide Newsletter](https://web.archive.org/web/20070630130007id_/http%3A//www.job-hunt.org/whynews.shtml), our free e-mail newsletter. Consequently, a visitor wishing to receive the newsletter may give us their e-mail address. We retain a list of these e-mail addresses. They are used only to fulfill subscription requests. We will never knowlingly cause you to receive unsolicited commercial e-mail (a.k.a. "spam") as a result of your subscription.
+******      Subscriber E-mail Addresses: ** We offer our visitors the opportunity to subscribe ("opt-in") to the [Online Job-Hunting Guide Newsletter](https://web.archive.org/web/20071213033537id_/http%3A//www.job-hunt.org/whynews.shtml), our free e-mail newsletter. Consequently, a visitor wishing to receive the newsletter may give us their e-mail address. We retain a list of these e-mail addresses. They are used only to fulfill subscription requests. We will never knowlingly cause you to receive unsolicited commercial e-mail (a.k.a. "spam") as a result of your subscription.
 
 **Opt-Out:**  
 Participation in the newsletter is completely voluntary and may be terminated by the subscriber at any time by sending us an "unsubscribe" message to [remove@Job-Hunt.Org](mailto:subscriptions@job-hunt.org) or by replying to a newsletter with the word "remove" in the subject line.
@@ -29,10 +29,16 @@ We may also transfer personally identifiable information to a buyer of all or pa
 **Third Parties:   
 **Agents of Job-Hunt.Org provide supportive services, such as e-mail list management services for Job-Hunt's newsletter, hosting for Job-Hunt's Web site, etc. However, these third parties are not allowed to use any information disclosed to them for any purpose other than the support of Job-Hunt.
 
+**Google Analytics  
+****June, 2007** , we added Google Analytics to Job-Hunt so we could better understand what our visitors want. We see this information only in aggregate, but Google does set a cookie to help track visitor actions. You may set your browser to refuse the cookie.
+
+****mediaspike  
+******August, 2007** , we added links to the sponsored educational resources offered by **mediaspike** of Massachusetts. Please note that if you complete a form on MediaSpike with your contact information and other details, the information you provide will be sent to the school(s) you chose to receive information from so that they could send you the information. The schools are accredited, and should treat your information with respect. However, reading each school's privacy policy before you complete the form should ensure that you understand what will be done with your personal informaiton. If you don't like the school's policy, do not complete the form.
+
 **Outside Links:**  
 **This privacy statement applies solely to Job-Hunt.Org.** This web site contains links to other sites. Please be aware that Job-Hunt.Org is not responsible for the privacy practices of such other sites. _We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information._ Job-Hunt.Org is not responsible for the privacy practices or the content of such Web sites. Before adding those sites to Job-Hunt's categorized lists of links, each site is evaluated to see if they protect the privacy of their visitors and, particularly, their job applicants. We do not knowingly add sites that treat applicant information casually. However, a site _may change_ its policies and practices after being added to Job-Hunt. 
 
-Please read [Protecting Your Privacy](https://web.archive.org/web/20070630130007id_/http%3A//www.job-hunt.org/privacy.shtml), [ Choosing a Job Site](https://web.archive.org/web/20070630130007id_/http%3A//www.job-hunt.org/choosing.shtml), and our [Disclaimer](https://web.archive.org/web/20070630130007id_/http%3A//www.job-hunt.org/disclaimer.html) regarding these sites.
+Please read [Protecting Your Privacy](https://web.archive.org/web/20071213033537id_/http%3A//www.job-hunt.org/privacy.shtml), [ Choosing a Job Site](https://web.archive.org/web/20071213033537id_/http%3A//www.job-hunt.org/choosing.shtml), and our [Disclaimer](https://web.archive.org/web/20071213033537id_/http%3A//www.job-hunt.org/disclaimer.html) regarding these sites.
 
 **Cookies:**  
 A "cookie" is a piece of data stored on the visitor's hard drive containing information about the visitor. In some circumstances, we use "cookies" to test visitor reactions to some particular aspect of Job-Hunt or to track the number of visitors for our advertisers. Job-Hunt's use of a cookie is in no way linked to any personally identifiable information. You can usually modify the security setting of your browser to block or to accept cookies. Check your browser's Help function for more information
@@ -55,4 +61,4 @@ If you have any concerns about your privacy at Job-Hunt or a complaint about ina
      P.O. Box 507  
      Marlborough, MA 01752-0507
 
-V 5.0, November 5, 2006 
+V 6.0, August 27, 2007 
