@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anvsoft.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626101434id_/http%3A//www.anvsoft.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anvsoft.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213033617id_/http%3A//www.anvsoft.com/privacy.html) for the most accurate reproduction.*
 
 # Anvsoft - Your total solution for photo, video and DVD.
 
