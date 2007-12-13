@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thermo.com privacy policy that was archived on 2007-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070616142413id_/http%3A//www.thermo.com/com/cda/legal/legal_info/0%2C2185%2CP%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thermo.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213061704id_/http%3A//www.thermo.com/com/cda/legal/legal_info/0%2C2185%2CP%2C00.html) for the most accurate reproduction.*
 
 # Thermo Scientific
 
