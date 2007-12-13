@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vax.co.uk privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625034852id_/http%3A//www.vax.co.uk/vax/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vax.co.uk privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213110040id_/http%3A//www.vax.co.uk/vax/privacy.php) for the most accurate reproduction.*
 
 # Vax - Privacy policy
 
@@ -113,12 +113,12 @@ Vax Limited, Quillgold House, Kingswood Road, Hampton Lovett, Droitwich, Worcest
 
 Featured Vax
 
-[](https://web.archive.org/shop/product_detail.php?productID=266)   
+[](https://web.archive.org/shop/product_detail.php?productID=263)   
 
 
-#### **V-025 Rapide Carpet Washer with 6 FREE AAA Solution**  
-Carpet Washer
+#### **VZL-201 Swift Zero**  
+Bagless upright
 
-Rotating brushbar grooms carpet pile whilst washing
+Non-stop suction
 
-[](https://web.archive.org/shop/product_detail.php?productID=266)
+[](https://web.archive.org/shop/product_detail.php?productID=263)
