@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the added-value.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623050136id_/http%3A//www.added-value.com/AV/tabid/147/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the added-value.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213073553id_/http%3A//www.added-value.com/AV/tabid/147/Default.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -30,6 +30,8 @@ Added Value
 Hampton Wick  
 Surrey  
 KT1 4ER, United Kingdom
+
+Added Value is registered in England and Wales, Registration No: 2285286 and registered at Rivermead, 6 Lower Teddington Road, Hampton Wick, Surrey KT1 4ER
 
 If you wish to view, delete or amend any of the information we hold on you, this can be done by contacting us through the web site, or by writing to us at the address provided above.  We will not charge for amending or deleting personal information, but may charge for viewing information held on you as specified in the Data Protection Act (1998).
 
