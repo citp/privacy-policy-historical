@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheaprooms.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607212405id_/http%3A//res.cheaprooms.com/index.jsp%3FpageName%3Dprivacy%26cid%3D130670%26locale%3Den_US%26currencyCode%3DUSD) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheaprooms.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213233443id_/http%3A//res.cheaprooms.com/index.jsp%3FpageName%3Dprivacy%26cid%3D130670%26locale%3Den_US%26currencyCode%3DUSD) for the most accurate reproduction.*
 
 # CheapRooms.com -- infocenter
 
