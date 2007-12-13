@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dekhona.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627124443id_/http%3A//www.dekhona.com/help/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dekhona.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213013842id_/http%3A//www.dekhona.com/help/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy policy - dekhona.com
 
@@ -103,10 +103,3 @@ If you have questions or suggestions please write to us at
 
 **Date Last Modified:**  
 This Privacy Policy was last modified April 1, 2007
-
-[ ](http://www.dekhona.com/index.php)  
-Lights . Camera . You
-
-[ ](http://www.dekhona.com/register.php)
-
-##### Dekhona.com - sharing videos: Watch, create and share hot and personal videos. Watch movie clips, mms clips, bollywood trailers, bollywood songs, hot bollywood actress, latest bollywood and hollywood movie trailers, aishwarya rai's videos, hindi music videos. Hot videos uploaded by users in India, United States, UK, France, Germany, Europe, UAE, Middle East and more. Watch and share funny videos, cartoons, news, travel videos and share on myspace, facebook or digg.
