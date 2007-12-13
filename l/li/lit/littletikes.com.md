@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the littletikes.com privacy policy that was archived on 2007-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070427215621id_/http%3A//www.littletikes.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the littletikes.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213035539id_/http%3A//www.littletikes.com/privacypolicy.aspx) for the most accurate reproduction.*
 
-# Outdoor toys, Indoor toys
+# Kitchen and Workshop Toddler Toys from Little Tikes
 
 | 
 
