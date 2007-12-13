@@ -1,15 +1,17 @@
-> *The following text is extracted and transformed from the searchcactus.com privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618053233id_/http%3A//searchcactus.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchcactus.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213102934id_/http%3A//www.searchcactus.com/privacy.asp) for the most accurate reproduction.*
 
 # SearchCactus.com - Privacy policy
 
   
 
 
-Last updated March 28, 2006.
+Last Updated September 24, 2007
 
-BY VISITING THIS WEBSITE AND REQUESTING INFORMATION, PRODUCTS OR SERVICES THERON, YOU AGREE TO BE BOUND BY THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY. IF YOU DO NOT AGREE WITH THE TERMS OF THIS PRIVACY POLICY, PLEASE DO NOT PROVIDE ANY INFORMATION OR USE ANY OF THE SERVICES OR PRODUCTS OFFERED OR PROVIDED ON ANY OF THE WEBSITES REFERRED TO IN THIS PRIVACY POLICY. 
+This Privacy Policy governs your use of this web site and any content, products or services made available from or through this website including any sub domains thereof ("Web Site"). The Website is made available by Search Cactus, LLC, hereafter referred to as "Company". 
 
-This policy describes the information collection, use, and dissemination practices of Search Cactus, LLC ("Search Cactus") and applies to Search Cactus's collection, use, storage and disclosure of information by Search Cactus on its (a) websites, including all its divisions, subsidiaries and related companies (collectively, the "Websites"), (b) on various Third Party websites, and (c) to Search Cactus's other information collection, including the purchase of customer lists from Third Parties. Search Cactus is not responsible for the information collection or privacy practices of Third Party websites or applications. 
+By visiting this Web Site and requesting information, products or services offered on or through this Web Site, you agree to the terms of this Privacy Policy, as they may be amended from time to time. As Company updates or expands its Web Site, services or products, this Privacy Policy may change and the changes are effective upon posting. Please check back frequently for updates as it is your sole responsibility to be aware of changes. Company does not provide notice of changes in any manner other than by posting the changes at this Web Site. This Privacy Policy is incorporated into, and part of, the Web Site Terms and Conditions of use ("Terms of Use"), which governs your use of this Web Site in general. 
+
+This Web Site is intended for users who are located in the United States of America. The Privacy Policy shall be interpreted under the laws of the United States. 
 
 **TRUSTE LICENSEE**
 
@@ -29,162 +31,188 @@ If you have questions or concerns regarding this statement, you should first con
 
 * * *
 
-**CALIFORNIA RESIDENTS PRIVACY RIGHTS**
+**Purpose of the Privacy Policy**
 
-Companies that collect personally identifiable information ("PII") from California residents and disclose such information to Third Parties (including affiliated entities) for marketing purposes must, in response to a request by a consumer, either (1) provide a list detailing the categories of information shared and the entities to which such information was provided, or (2) provide a mechanism by which a consumer may opt-out of having their information shared with Third Parties. We have elected the second option and you may request that your PII not be shared with Third Parties by sending your request, including your full name, email address and postal address to: Search Cactus, 3250 W. Big Beaver Rd., Suite 144, Troy, MI 48084. In accordance with California Civil Code Sec. 1789.3, California resident users are entitled to know that they may file grievances and complaints with California Department of Consumer Affairs, 400 R Street, Suite 1080, Sacramento, CA 95814; or by phone at 916-445-1254 or 800-952-5210; or by email to dca@dca.ca.gov.
+The purpose of this Policy is to describe the information collection, use, and dissemination practices of Company, its parent, subsidiaries and registered d/b/a companies (Collectively Referred herein after as "Company") and all related websites owned or registered to Company and applies to Company's collection, use, storage and disclosure of information by Company on its (a) websites, including all its divisions, subsidiaries and related companies (collectively, the "Websites"), (b) on various Third Party websites, and (c) to Company's other information collection, including the acquisition of customer information from third parties. Company is not responsible for the information collection or privacy practices of third party websites or applications. 
 
-**THE INFORMATION COLLECTION, USE AND DISSEMINATION PRACTICES OF SEARCH CACTUS.**
+By reference, this Privacy Policy is incorporated into and is subject to the Terms and Conditions pertaining to the use of the website. Your use of the website and any personal information you provide via the website or through other official Company contact remains subject to this Privacy Policy as well as the applicable Terms and Conditions for use of the site or services and products contained thereon. 
+
+By providing us with your personal information on our website or in the course of using our services, you consent to the transfer of your Personal Data and Sensitive Personal Data, and any other data we acquire about you from third-party service providers. 
+
+**Information Collection, Use, and Dissemination practices:** This policy applies to Company's collection, use, storage and disclosure of information by Company on its, (a) websites, including all its parent companies, divisions, subsidiaries and related companies (collectively, the "Websites"), (b) on various third party websites, and (c) to Company's other information collection, including the transfer of opt-in customer lists from third parties, or the use of customer opt-in lists from third parties. Company is not responsible for the information collection or privacy practices of third party websites or applications. 
 
   1. **Collection of Information.**
 
-**1.1   Survey Information.**
+**1.1   User Direct Information:**
 
-Search Cactus collects information from individuals by various methods, including, but not limited to, when an individual voluntarily completes a survey, order form, or a registration page either online or offline, or by means of online or offline surveys, order forms, or registration pages operated by Third Parties (collectively, a "Survey"). (As used herein, "online" means using the Internet, including the Websites, and related technologies, and "offline" means by methods other than online, including in person, in the postal mail, using telephones and cell phones, and other similar means.) In the Surveys, Search Cactus or a Third Party (a "Third Party") may ask an individual to provide various information to Search Cactus, which may include his or her name, email address, street address, zip code, telephone numbers (including cell phone numbers and carriers), birth date, gender, salary range, education and marital status, occupation, social security number, employment information, personal and online interests, and such other information as may be requested from time to time (together, "Survey Information"). Search Cactus may also collect information concerning an individual from another source and uses that information in combination with information provided from this web site. Completing the Surveys is completely voluntary, and individuals are under no obligation to provide Survey Information to Search Cactus or Third Party, but an individual may receive incentives from Search Cactus or a Third Party in exchange for providing Survey Information to Search Cactus. 
+Each time you provide transmit information via the Website, Company may obtain and collect personally identifiable information provided by you, including, but not limited to, your name, email address, mailing address, social security number, credit card information, and telephone or cell phone number. You may also provide us with information that, when combined with personally identifiable information, provides us with a better idea of who you are, including but not limited to your gender, birthday, marital status, and education level (collectively referred to as "personal information"). If you choose to access our website, use our services or purchase our products, we may require you to provide personal information as indicated on the forms throughout the site. 
 
-**1.2   Site Membership or Registration.**
+**1.2   Survey Information:**
 
-To the extent registration is required to receive email and possibly postal communications from Search Cactus, this Privacy Policy also applies to consumers that have agreed to receive e-mail marketing from Search Cactus, whether at our Website, via email, on Third Party websites or otherwise. We collect information in certain portions of our Website, where guests provide content submissions and suggestions or participate in interactive online activities (i.e., by way of responding to questions and surveys, community listings, ratings, searches and comparison searches, bidding, purchasing, chat, games, or bulletin boards, etc.). The personal profile information you submit to Search Cactus remains your property, but by submitting that information to Search Cactus, you grant Search Cactus, the right to use that information for marketing purposes. Search Cactus, may also use such information for content improvement and feedback purposes. We may sell the personal information that you supply to us and we may join together with other businesses to bring selected retail opportunities to our members. These businesses may include providers of direct marketing services and applications, including lookup and reference, data enhancement, suppression and validation. In addition, Search Cactus reserves the right to release current or past member information in the event Search Cactus believes that the membership is being or has been used in violation of the Rules or to commit unlawful acts, if the information is subpoenaed, if Search Cactus is sold or acquired, or when Search Cactus deems it necessary or appropriate. By agreeing to these terms, you hereby consent to disclosure of any record or communication to any Third Party when Search Cactus in its sole discretion, determines the disclosure to be appropriate. 
-
-"Subscription" occurs when an end-user registers for Search Cactus's services, either via registration at our website, via co-registration at a marketing partner's website, or via a permission pass / opt-out / no-opt mailing Search Cactus collects personally identifiable information about our subscribers, based on: information gathered at the time of registration, subscriber interaction and response to subsequent electronic mailings and website use, information provided by marketing partners, and information appended from data aggregators. Information collected may include, but is not necessarily limited to: name, email address, postal address, gender, birth date, telephone number, activity, interests, user behavior and other demographic information. This information enables us to better tailor our content to subscribers' needs and to help our clients to promote and sell their products and services. 
+Company may collect information from you when you voluntarily complete a Company survey, order form, or a registration page either online by using the internet, offline by providing this information through the mail, in person or using a telephone. This information may be collected by surveys, order forms, or registration pages operated by third parties. This method of collection is collectively known as a "Survey." In such Surveys, Company or a third party may ask you to provide personal identifiable information including your name, email address, street address, zip code, telephone numbers (including cell phone numbers and carriers), birth date, gender, salary range, education and marital status, occupation, social security number, employment information, personal and online interests, and such other information as may be requested from time to time. Company may also collect such information concerning you from another source and uses that information in combination with information provided from the Websites. Completing the Surveys is completely voluntary, and you are under no obligation to provide Survey Information to Company or a third party. 
 
 **1.3   Third Party List Information.**
 
-Search Cactus collects information from individuals when an individual provides information to a Third Party and Search Cactus subsequently purchases, licenses, or otherwise acquires the information from the Third Party (the "Seller"). Such purchased information may include, but is not limited to, an individual's name, email address, street address, zip code, telephone numbers (including cell phone numbers and carriers), birth date, gender, salary range, education and marital status, occupation, industry of employment, personal and online interests, and such other information as the individual may have provided to the Seller (together, "Third Party List Information"). When acquiring Third Party List Information, Search Cactus seeks assurances from the Seller that the Seller has a right to transfer the Third Party List Information to Search Cactus and that the Seller has a right to provide offers from Advertisers to the individuals whose personal information is included on the Seller's list. 
+Company may collect information from you when you provide information to a third party and Company subsequently acquires or uses the information provided by the third party. Such information may include, but is not limited to, your name, email address, street address, zip code, telephone numbers (including cell phone numbers and carriers), birth date, gender, salary range, education and marital status, occupation, industry of employment, personal and online interests, and such other information as the you may have provided to the third party. When acquiring this information, Company seeks assurances from the third party that you agreed to provide and have such information acquired by Company. If you did not give express permission, or you would like to remove your permission, you may suppress all of your information by sending notification to us at [unsubscribe@searchcactus.com](mailto:unsubscribe@searchcactus.com). 
 
-**1.4   Other Information.**
+**1.4   Other Methods of Collecting Personal Information:**
 
-Other occasions when Search Cactus obtains information from individuals include (1) when an individual is making a claim for a prize or seeking to redeem an incentive offered by Search Cactus or by a Third Party, (2) when an individual requests assistance through Search Cactus's customer service department, and (3) when an individual voluntarily subscribes to a service or newsletter (together, "Other Information"). 
+Other occasions when Company obtains information from you include (1) your claiming a prize or seeking to redeem an offer by Company or by a third party, (2) your requests for assistance through Company's customer service department, and (3) when you voluntarily subscribe to a Company service or newsletter. 
 
-**1.5   Cookies, Web Beacons, and Other Info Collected Using Technology.**
+**1.5   Cookies, Web Beacons, and Other Info Collected Using Technology:**
 
-Search Cactus currently uses cookie and web beacon technology to associate certain Internet-related information about an individual with information about the individual in our database. Additionally, Search Cactus may use other new and evolving sources of information in the future (together, "Technology Information").
+Company currently uses cookie and web beacon technology to associate certain Internet-related information about you with information about you in its database. Additionally, Company may use other new and evolving sources of information in the future.
 
-**(a)   Cookies.**  
-A cookie is a small amount of data stored on the hard drive of the individual's computer that allows Search Cactus to identify the individual with his or her corresponding data that resides in Search Cactus's database. You may read more about cookies at http://cookiecentral.com. Individuals who use the Websites need to accept cookies in order to use all of the features and functionality of the Websites. 
+**(a)   Cookies:**  
+"Cookies" are a feature on your browser software. If enabled, we may write cookies that may store small amounts of data on your computer about your visit to any of the pages of this Site. Cookies assist us in tracking which of our features appeal the most to you and what content you may have viewed on past visits. When you visit this site again, cookies can enable us to customize our content according to your preferences. We may use cookies to: keep track of the number of return visits to this site; accumulate and report aggregate, statistical information on website usage; deliver specific content to you based on your interests or past viewing history; save your password for ease of access to our Site. You can disable cookies, although the Site may not function properly for you. Your browser preferences can be modified to accept or reject all cookies, or request a notification when a cookie is set. You may read more about cookies at http://cookiecentral.com. In order to use all of the features and functionality of Company's websites, you need to accept cookies. 
 
-**(b)   Web Beacons.**  
-A web beacon is programming code that can be used to display an image on a web page (by using an <img src="x"> programming function -- see http://truste.org for more information), but can also be used to transfer an individual's unique user identification (often in the form of a cookie) to a database and associate the individual with previously acquired information about an individual in a database. This allows Search Cactus to track certain websites an individual visits online. Web beacons are used to determine products or services an individual may be interested in, and to track online behavioral habits for marketing purposes. For example, Search Cactus might place, with the consent of a Third Party website, a web beacon on the Third Party's website where cosmetics are sold. When Jane, an individual listed in Search Cactus's database, visits the cosmetic website, Search Cactus receives notice by means of the web beacon that Jane visited the cosmetics site, and Search Cactus would then update Jane's profile with the information that Jane is interested in cosmetics. Search Cactus may thereafter present offers of cosmetic related products and services to Jane. In addition to using web beacons on web pages, Search Cactus also uses web beacons in email messages sent to individuals listed in Search Cactus's database. 
+**(b)   Web Beacons:**  
+A web beacon is a programming code that can be used to display an image on a web page, but can also be used to transfer your unique user identification to a database and associate you with previously acquired information about an individual in a database. This allows Company to track certain websites you visit. Web beacons are used to track online behavioral habits for marketing purposes to determine products or services you may be interested in. In addition to using web beacons on web pages, Company also uses web beacons in email messages sent to individuals listed in Company's database. 
 
-**(c)   New Technology.**  
-The use of technology on the Internet, including cookies and web beacons, is rapidly evolving, as is Search Cactus's use of new and evolving technology. As a result, Search Cactus strongly encourages individuals to revisit this policy for any updates regarding its use of technology. 
+**(c)   IP Addresses:**  
+Company automatically tracks certain information based upon your behavior on the site. We may use this information to do internal research on our users' demographics, interests, and behavior to better understand, protect and serve you and our community. This information may include the URL that you just came from (whether this URL is on the site or not), which URL you next go to (whether this URL is on the site or not), your computer browser information, and your IP address. Your Internet Protocol ("IP") is a unique Internet "address" which is assigned to you by your Internet Service Provider ("ISP"). For local area network ("LAN"), DSL, or cable modem users, an IP address may be permanently assigned to a particular computer. IP addresses are automatically logged by Web servers, collecting information about a user's traffic patterns. While the IP address does not identify an individual by name, it may, with the cooperation of the ISP, be used to locate and identify an individual using the Web. Your IP address can, however, reveal what geographic area you are connecting from, or which ISP you are using. Finally, other websites you visit have IP addresses, and we may collect the IP addresses of those websites and their pages. 
 
-**(d)   Usage Tracking.**  
-Search Cactus tracks information related to the electronic mailings and web pages viewed by users and subscribers, as well as the hyperlinks clicked by subscribers, while viewing our emails or visiting our websites. 
+**(d)   Computer Profiles:**  
+Company may also collect and accumulate other anonymous data which will help us understand and analyze the Internet experience of our visitors. For instance, Company may accumulate visitor data relating to referring domain names, the type of browsers used, operating system software, screen resolutions, color capabilities, browser plug-ins, language settings, cookie preferences, search engine keywords and JavaScript enablement. When you provide us with Personal Identification Information, we are able to use such visitor data to identify you. 
 
-**(e)   Log Files.**  
-Log files are used to track and monitor subscriber usage. 
+**(e)   Data Analysis:**  
+Data Analysis technology may be employed from time to time if used by a Client of Company. 
 
-**(f)   Optional Registration.**  
-Search Cactus may offer free voluntary registration to potential subscribers. During such registration, the subscriber is required to supply an email address and other personal information. This information is required if the subscriber wants to participate in Company services. 
+**(f)   New Technology:**  
+The use of technology on the Internet, including cookies and web beacons, is rapidly developing. As a result, Company strongly encourages individuals to revisit this policy for any updates regarding its use of new technology. 
 
-**(g)   Feedback and Inquiries.**  
-You have the ability to contact Search Cactus to provide us with their feedback. Search Cactus uses this information to respond to you and analyze customer service issues. 
+**1.6   No Information Collected from Children:**
 
-**1.6   Outside Information.**
+Company will never knowingly collect any personal information about children under the age of 13. If Company obtains actual knowledge that it has collected personal information about a child under the age of 13, that information will be immediately deleted from its database. Because it does not collect such information, Company has no such information to use or to disclose to third parties. Company has designed this policy in order to comply with the Children's Online Privacy Protection Act ("COPPA"). 
 
-Search Cactus may receive information about individuals from Third Parties or from other sources of information outside of Search Cactus including information located in public databases ("Outside Information"). 
+**1.7   Credit Card Information.**
 
-**1.7   Individual Information.**
-
-As used herein, Individual Information means Survey Information, Third Party List Information, Other Information, Technology Information, and Outside Information, and any other information Search Cactus gathers or receives about individuals. 
-
-**1.8   No Information Collected from Children.**
-
-Search Cactus will never knowingly collect any personal information about children under the age of 13. If Search Cactus obtains actual knowledge that it has collected personal information about a child under the age of 13, that information will be immediately deleted from our database. Because it does not collect such information, Search Cactus has no such information to use or to disclose to Third Parties. Search Cactus has designed this policy in order to comply with the Children's Online Privacy Protection Act ("COPPA"). 
-
-**1.9   Credit Card Information.**
-
-Search Cactus may in certain cases collect credit card numbers and related information, such as the expiration date of the card ("Credit Card Information") when an individual places an order from Search Cactus. When the Credit Card Information is submitted to Search Cactus, such information is encrypted and is protected with SSL encryption software. Search Cactus will use the Credit Card Information for purposes of processing and completing the purchase transaction, and the Credit Card Information will be disclosed to Third Parties only as necessary to complete the purchase transaction. 
-
-**1.10   Links to External Websites.**
-
-Search Cactus's emails and websites contain links to external websites. You will be taken to external websites if you click on these links. Your information may be passed from Search Cactus's database to the external website, and/or external database, for your convenience (e.g. your information may be used to pre-fill a form at a destination website). Search Cactus is not responsible for the privacy practices or content of any external website owner. We encourage you to review the privacy policy of any website they visit. 
+Company may, in certain instances, collect credit card numbers and related information when an individual places an order from Company. When the credit card information is submitted to Company, such information is encrypted and is protected with SSL encryption software. Company will use the credit card information for purposes of processing and completing the purchase transaction, and the credit card information will be disclosed to third parties only as necessary to complete the purchase transaction. 
 
   2. **Use of Individual Information.**
 
-**2.1   Discretion to Use Information.**
+**2.1   General Use.**
 
-THE COMPANY MAY USE INDIVIDUAL INFORMATION FOR ANY LEGALLY PERMISSIBLE PURPOSE IN COMPANY'S SOLE DISCRETION.
-
-The following paragraphs in Section 2 describe how Search Cactus currently uses Individual Information, but Search Cactus may change or broaden its use at any time. As noted below, Search Cactus may update this policy from time to time. Search Cactus may use Individual Information to provide promotional offers to individuals by means of email advertising, telephone marketing, direct mail marketing, online banner advertising, and package stuffers, among other possible uses. 
+The following paragraphs in Section 2 describe how Company currently uses Individual Information, but Company may change or broaden its use at any time. As noted below, Company may update this policy from time to time. Company may use Individual Information to provide promotional offers to individuals by means of email advertising, telephone marketing, direct mail marketing, online banner advertising, and package stuffers, among other possible uses. 
 
 **2.2   Email and Unsubscribe Policy.**
 
-Search Cactus uses Individual Information to provide promotional offers by email to individuals. Search Cactus maintains separate email lists for different sites. If email recipients wish to end their email subscription from a particular list, they need to follow the instructions at the end of each email message to unsubscribe from the particular list.
+Company uses Individual Information to provide promotional offers by email to individuals. Company may maintain separate email lists for different purposes. If email recipients wish to end their email subscription from a particular list, they need to follow the instructions at the end of each email message to unsubscribe from the particular list. To unsubscribe from all Company 's email lists, a person must send an email to [unsubscribe@searchcactus.com](mailto:unsubscribe@searchcactus.com). 
 
-Search Cactus's unsubscribe process impacts only the future delivery of electronic mailings disseminated by Search Cactus on its own behalf. You may still receive electronic mailings sent on behalf of Third Parties and your personal information may still be shared with Third Parties for use in offline marketing and data appends, including email appends.
+Company's unsubscribe process impacts only the future delivery of electronic mailings disseminated by Company on its own behalf. You may still receive electronic mailings sent on behalf of Third Parties and your personal information may still be shared with Third Parties for use in offline marketing and data appends, including email appends. 
 
-You should also note that unsubscribing from Search Cactus's electronic mailings will not automatically unsubscribe the subscriber's information from any Third Party associates and licensees of the data. Since Third Party associates and licensee partners maintain separate databases from Search Cactus, and you will need to unsubscribe from each source individually, if desired. This allows you the freedom to pick and choose which subscriptions to maintain and which to discontinue. 
+You should also note that unsubscribing from Company's electronic mailings will not automatically unsubscribe the subscriber's information from any Third Party business associates and licensees of the data. Since Third Party associates and licensee partners maintain separate databases from Company, and you will need to unsubscribe from each source individually, if desired. This allows you the freedom to pick and choose which subscriptions to maintain and which to discontinue. 
 
 **2.3   Content of Email Messages.**
 
-In certain commercial email messages sent by Search Cactus, an Advertiser's name will appear in the "From:" line but hitting the "Reply" button will cause a reply email to be sent to Search Cactus. The "Subject:" line of Search Cactus email messages will usually contain a line provided from the Advertiser to Search Cactus. 
+In certain commercial email messages sent by Company, an Advertiser's name will appear in the "From:" line but hitting the "Reply" button will cause a reply email to be sent to Company. The "Subject:" line of Company email messages will usually contain a line provided from the Advertiser to Company. 
 
 **2.4   Solicited Email.**
 
-Search cactus only sends email to individuals who, by registration as a member to one of it's websites, have agreed to receive email and email solicitations from Search Cactus, one of Search Cactus's websites or who have agreed on Third Party websites to receive email from Search Cactus, it's agents, affiliates, subsidiaries or from third parties. As such, Search Cactus does not send unsolicited email messages and certain statutes requiring certain formatting for unsolicited email are not applicable to Search Cactus' email messages. 
+Company only sends email to individuals who have agreed on the Websites to receive email from Company or to individuals who have agreed on a Third Party website to receive email from Third Parties. As such, Company does not send unsolicited email messages. As a result, United States statutes requiring certain formatting for unsolicited email are not applicable to Company 's email messages. 
 
 **2.5   Targeted Advertising.**
 
-Search Cactus uses Individual Information to target advertising to an individual. When an individual is using the Internet, Search Cactus uses Technology Information (see also Section 2.7 below) to associate an individual with that person's Individual Information, and Search Cactus attempts to show advertising for products and services in which the person has expressed an interest in the Surveys, indicated an interest by means of Technology Information, and otherwise. Search Cactus may, at its discretion, target advertising by using email, direct mail, telephones, cell phones, and other means of communication to provide promotional offers. 
+Company may use Individual Information to target advertising to an individual. When an individual is using the Internet, Company uses Technology Information to associate an individual with that person's Individual Information, and Company attempts to show advertising for products and services in which the person has expressed an interest in the Surveys, indicated an interest by means of Technology Information, and otherwise. Company may, at its discretion, target advertising by using email, direct mail, telephones, cell phones, and other means of communication to provide promotional offers. 
 
-**2.6   Direct Mail and Telemarketing.**
+**2.6   Telemarketing.**
 
-Search Cactus uses Individual Information to advertise, directly or indirectly, to individuals using direct mail marketing or telemarketing using telephones and cell phones. 
+Company may use Individual Information to advertise, directly or indirectly, to individuals using direct mail marketing or telemarketing using telephones and cell phones. By registering and using this Site, You acknowledge that the processing of your individual information may involve the transfer of such Individual information from within or outside the European Economic Area ("EEA") to countries within or outside the EEA whose data protection regulation may not be as stringent as that within the European Union. We may use individual information to provide the services you've requested, including services that display customized content and advertising. 
 
-**2.7   Use of Technology Information.**
+**2.7   Wireless Addresses.**
 
-Search Cactus uses Technology Information (1) to match a person's Survey Information and Third Party List Information to other categories of Individual Information to make and improve profiles of individuals, (2) to track a person's online browsing habits on the Internet, (3) to determine which areas of Search Cactus's websites are most frequently visited. This information helps Search Cactus to better understand the online habits of individuals so that Search Cactus can target advertising and promotions to them. 
+If the e-mail address you provide to Company is a wireless e-mail address, you agree to receive messages at such address from Company or its business associates (unless and until you have elected not to receive such messages by following the instructions in the unsubscribe portion of this policy). You understand that your wireless carrier's standard rates apply to these messages. You represent that you are the owner or authorized user of the wireless device on which messages will be received, and that you are authorized to approve the applicable charges. 
 
-**2.8   Profiles of Individuals.**
+**2.8   Short Message Service.**
 
-Search Cactus uses Individual Information to make a profile of an individual. A profile can be created by combining Survey Information and Third Party List Information with other sources of Individual Information such as information obtained from public databases. 
+Company may make available a service through which you can receive messages on your wireless device via short message service ("SMS Service"). Data obtained from you in connection with this SMS service may include your name, address, cell phone number, your provider's name, and the date, time, and content of your messages. You represent that you are 18 years of age and the owner or authorized user of the wireless device on which messages will be received, and that you are authorized to approve the applicable charges. In addition to any fee of which you are notified, your provider's standard messaging rates apply to our confirmation and all subsequent SMS correspondence. All charges are billed by and payable to your mobile service provider. Company will not be liable for any delays in the receipt of any SMS messages, as delivery is subject to effective transmission from your network operator. SMS message services are provided on an AS IS basis. Company may also obtain the date, time and content of your messages in the course of your use of the SMS Service. We will use the information we obtain in connection with our SMS Service in accordance with this Privacy Policy. If fees are charged to your wireless account invoice, we may provide your carrier with your applicable information in connection therewith. Your wireless carrier and other service providers may also collect data about your wireless device usage, and their practices are governed by their own policies. 
 
-**2.9   Storage of Individual Information.**
+You acknowledge and agree that the SMS Service is provided via wireless systems which use radios (and other means) to transmit communications over complex networks. We do not guarantee that your use of the SMS Service will be private or secure, and we are not liable to you for any lack of privacy or security you may experience. You are fully responsible for taking precautions and providing security measures best suited for your situation and intended use of the SMS Service. We may also access the content of your account and wireless account with your carrier for the purpose of identifying and resolving technical problems and service-related complaints. 
 
-Search Cactus stores the Individual Information in a database on leased computers. Our computers have security measures (such as a firewall) in place to protect against the loss, misuse, and alteration of the information under Search Cactus's control. Not withstanding such measures, Search Cactus cannot guarantee that its security measures will prevent leased computers from being illegally accessed, and the Individual Information on them stolen or altered. 
+Company may use personal information to provide the services you've requested, including services that display customized content and advertising. Company may also use personal information for auditing, research and analysis to operate and improve our technologies and services. Company may share aggregated and non personal information with third parties business associates. When Company uses business associates to assist Company in processing your personal information, Company requires that they comply with our Privacy Policy and any other appropriate confidentiality and security measures. Company may also share information with third parties, including but not limited to, when complying with legal process, preventing fraud or imminent harm, and ensuring the security of our network and services. 
 
-  3. **Dissemination of Individual Information.**
+You may remove your information from Company's database. If you remove your information from Company's database it will no longer be used by Company for secondary purposes, disclosed to third parties, or used by Company or third parties to send promotional correspondence to you. You may remove your information by sending your request in writing via email to [unsubscribe@searchcactus.com](mailto:unsubscribe@searchcactus.com) or by sending "STOP", "END", "QUIT" to the SMS text message you have received. 
 
-**3.1   Sale or Transfer to Third Parties.**
+**2.9   Use of Technology Information.**
 
-SEARCH CACTUS MAY SELL OR TRANSFER INDIVIDUAL INFORMATION TO THIRD PARTIES FOR ANY PURPOSE IN SEARCH CACTUS'S SOLE DISCRETION. 
+Company uses Technology Information (1) to match a person's Survey Information and Third Party List Information to other categories of Individual Information to make and improve profiles of individuals, (2) to track a person's online browsing habits on the Internet, (3) to determine which areas of Company's websites are most frequently visited. This information helps Company to better understand the online habits of individuals so that Company can target advertising and promotions to them. 
 
-**3.2   Order Fulfillment.**
+**2.10   Profiles of Individuals.**
 
-Search Cactus will transfer Individual Information to Third Parties when necessary to provide a product or service that a person orders from such Third Party while using Search Cactus websites or when responding to offers provided by Search Cactus. 
+Company uses Individual Information to make a profile of an individual. A profile can be created by combining Survey Information and Third Party List Information with other sources of Individual Information such as information obtained from public databases. 
 
-**3.3   Legal Process.**
+**2.11   Storage of Individual Information.**
 
-Search Cactus may disclose Individual Information to respond to subpoenas, court orders, and other legal processes. 
+Company stores the Individual Information in a database on its' computers. Our computers have security measures (such as a firewall) in place to protect against the loss, misuse, and alteration of the information under Company's control. Not withstanding such measures, Company cannot guarantee that its security measures will prevent its computers from being illegally accessed, and the Individual Information on them stolen or altered. 
 
-**3.4   Summary Data.**
+  3. **Use of Personal Information.**
 
-Search Cactus may sell or transfer non-individualized information, such as summary or aggregated anonymous information about all persons or sub-groups of persons. 
+Company may use your personal information in the following ways: 
 
-**3.5   Access.**
+**3.1   Public Forums:**
 
-Individuals have access to their Individual Information collected to provide an opportunity for an individual to correct, amend, or delete such information. Access can be obtained by contacting [info@searchcactus.com](mailto:info@searchcactus.com). Search Cactus may also grant advertising clients and email services providers' access to an individual's email address to verify the origin of the Individual Information collected. 
+When you contribute to a public area or feature of our Web Site, such as a chat room, bulletin board, list serve, blog, wiki or other open forum that we may make available on or through our Web Site, the information that you submit will be made available to the general public and will not be considered "Personal Information" for purposes of this Privacy Policy. For this reason, we recommend that you do not submit any sensitive information, including your full name, home address, phone number, other information that would enable other users to locate you or your financial information on these areas of our Web Site. Instead, make up a username that does not disclose your personal identity. 
+
+**3.2   Third Party Offers:**
+
+Company may make customer lists available to companies or other entities not affiliated with the Company that have goods, services and offers that might be of interest to you. Company may, from time to time, provide your Personal Information to these entities so that they may send you these offers. 
+
+**3.3   Marketing:**
+
+Company will use your personal information for any marketing and survey purpose on behalf of Company and its affiliates and subsidiaries to send information to you about additional goods or services that may be of interest to you. In addition, Company will disclose your personal information to third party agents and independent contractors to help us conduct our marketing and survey efforts and to share with other companies in connection with marketing efforts including but not limited to direct marketing. You may have no relationship with these other companies. 
+
+**3.4   Co-sponsored Contests, Sweepstakes and Offerings:**
+
+Company may provide a contest, sweepstake and other offering may be co-sponsored by another company. In those situations, the information we obtain from you in connection with such contest, sweepstake or offering may be shared with our co-sponsor. In those situations, our co-sponsors will have the right to use your information for their own purposes, in accordance with their own policies. If you do not wish for the information we obtain from you to be shared with our co-sponsor, then do not enter such contest, sweepstake or other offering or otherwise provide to us any Personal Information in connection with such contest, sweepstake or other offering. We are not responsible for how our co-sponsors may use your information. 
+
+**3.5   Service Providers:**
+
+We may use third parties to help operate our Web Site and deliver products and services, and may share your Personal Information with our affiliates, service providers and other third parties that provide products or services for or through this Web Site or for our business (such as Web Site or database hosting companies, address list hosting companies, e-mail service providers, analytics companies, distribution companies, fulfillment companies, and other similar service providers that use such information on our behalf). Unless otherwise stated, these companies do not have any right to use the Personal Information we provide to them beyond what is necessary for them to assist us. When you conduct e-commerce with one of the e-commerce affiliates or service providers to which the Web Site may be linked, certain personal information such as your e-mail and home address may be collected by the service provider's server and made available to us. 
+
+**3.6   Aggregate Statistics:**
+
+We may disclose aggregate statistics regarding user behavior as a measure of interest in, and use of, our Web Site and e-mails to third parties in the form of aggregate data, such as overall patterns or demographic reports that do not describe or identify any individual user. 
+
+**3.7   Complying with Legal Process:**
+
+Company will use or disclose your personal information in response to subpoenas, court orders, warrants, or legal process, or to otherwise establish or exercise our legal rights or defend against legal claims or in the event you violate or breach an agreement with Company. Company will use and disclose your personal information if we believe you will harm the property or rights of Company , its owners, or those of Company 's other customers. Finally, we will use or disclose your personal information if we believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Company's acceptable use policy, or as otherwise required by law when responding to subpoenas, court orders and other legal processes. 
+
+**3.8   Order Fulfillment:**
+
+Company will transfer your personal information to third parties when necessary to provide a product or service that you order from such third party while using Company's websites or when responding to offers provided by Company. 
+
+**3.9   Data Summary:**
+
+Company may sell or transfer non-individualized information, such as summary or aggregated anonymous information about all persons or sub-groups of persons. 
+
+**3.10   Third Parties:**
+
+Company may provide your personal information to third parties with whom they have a business relationship for the purposes of securing the services and products you have requested or provide you with additional marketing materials from which you may choose additional products or services. 
 
   4. **Privacy Practices of Third Parties.**
 
-**4.1   Advertiser cookies and web beacons.**
+**4.1   Advertiser cookies and web beacons:**
 
-Advertising agencies, advertising networks, and other companies (together, "Advertisers") who place advertisements on the Websites and on the Internet generally may use their own cookies, web beacons, and other technology to collect information about individuals. Search Cactus does not control Advertisers' use of such technology and Search Cactus has no responsibility for the use of such technology to gather information about individuals. 
+Advertising agencies, advertising networks, and other companies who place advertisements on the websites and on the internet generally may use their own cookies, web beacons, and other technology to collect information about individuals. Company does not control the use of such technology and Company has no responsibility for the use of such technology to gather information about you. 
 
-**4.2   Links.**
+**4.2   Links:**
 
-The Websites and email messages sometimes contain hypertext links to the websites of Third Parties. Search Cactus is not responsible for the privacy practices or the content of such other websites. Linked websites may contain links to websites maintained by Third Parties. Such links are provided for your convenience and reference only. Search Cactus does not operate or control in any respect any information, software, products or services available on such Third Party websites. The inclusion of a link to a web site does not imply any endorsement of the services or the site, its contents, or its sponsoring organization. 
+The websites and email messages sometimes contain hypertext links to the websites of third parties. Company is not responsible for the privacy practices or the content of such other websites. Linked websites may contain links to websites maintained by third parties. Such links are provided for your convenience and reference only. Company does not operate or control in any respect any information, software, products or services available on such third party websites. The inclusion of a link to a website does not imply any endorsement of the services or the site, its contents, or its sponsoring organization. 
 
-**4.3   Affiliated Companies.**
+**4.3   Affiliations/Merger/Sale:**
 
-Search Cactus may disclose, transfer, and sell Individual Information to entities affiliated with Search Cactus in Search Cactus's discretion. 
+Company further reserves the right to disclose, transfer or sell your personal information to companies who are affiliated with Company in Company's sole discretion. If Company changes ownership through an acquisition, merger, sale or other change of business status, it reserves the right to transfer or assign the right to use your Personal Information collected from the Website. 
 
-  5. **Unsubscribe Procedures.**
+  5. **Foreign use of the Website.**
 
-**For more information about protecting your privacy, you may wish to visit: www.ftc.gov.**
+To the extent that you are accessing the Website while domiciled outside of the United States, you acknowledge that the Personal Information you are providing Company is collected and stored in the United States and therefore consent to the transfer of information to and storage of the information outside of your domiciled country and in the United States. 
 
-**If you have questions about this policy, please contact us at[support@searchcactus.com](mailto:support@searchcactus.com).**
+  6. **California User Consumer Rights.**
 
+In accordance with California Civil Code Sec. 1789.3, California resident users are entitled to know that they may file grievances and complaints with California Department of Consumer Affairs, 400 R Street, STE 1080, Sacramento, CA 95814; or by phone at 916-445-1254 or 800-952-5210; or by email to dca@dca.ca.gov. For more information about protecting your privacy, you may wish to visit: [http://www.ftc.gov](http://www.ftc.gov/)
+
+**If you have questions about this policy, please contact us at[support@searchcactus.com](mailto:support@searchcactus.com)**
+
+ **[](mailto:support@searchcactus.com)**
 
 
