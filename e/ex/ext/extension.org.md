@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the extension.org privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630065155id_/http%3A//www.extension.org/pages/eXtension_Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extension.org privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213042426id_/http%3A//www.extension.org/pages/eXtension_Privacy_Policy) for the most accurate reproduction.*
 
-# eXtension Privacy Policy - eXtension
+# eXtension Privacy Policy - Human Wildlife Relations - eXtension
 
 Your privacy is important to eXtension. We have developed this privacy statement in order to demonstrate our commitment to safeguarding the privacy of those who use the eXtension web site so you'll feel comfortable using this site. This privacy statement will provide you with information regarding what personal information is collected during your visits to the eXtension web site, how it is used, with whom it may be shared and what choices you have regarding collection and distribution of your personal information. 
 
