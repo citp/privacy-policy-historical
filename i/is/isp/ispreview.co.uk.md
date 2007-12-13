@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ispreview.co.uk privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206014511id_/http%3A//www.ispreview.co.uk/policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ispreview.co.uk privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213230552id_/http%3A//www.ispreview.co.uk/policy.shtml) for the most accurate reproduction.*
 
-# ISPreview UK - Internet Service Provider Information Source
+# ISPreview UK - Independent Internet Service Provider Information Source
 
 Privacy Statement for ISPreview 
 
