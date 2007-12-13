@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sex2ube.com privacy policy that was archived on 2007-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070516195759id_/http%3A//www.sex2ube.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sex2ube.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213170640id_/http%3A//www.sex2ube.com/privacy) for the most accurate reproduction.*
 
-# sex2ube - upload adult
+# Free Porn Videos - Movies. Watch Upload Share Videos - Sex2ube Privacy Policy
 
 #### **sex2ube.com.** ("sex2ube") recognizes that its customers, visitors, users, and others who use [www.sex2ube.com](http://www.sex2ube.com/) or other web sites owned or operated by sex2ube (the "sex2ube Sites") (collectively or individually "Users") value their privacy. This Privacy Notice details important information regarding the use and disclosure of User information collected on the sex2ube Sites. sex2ube provides this Privacy Notice to help you make an informed decision about whether to use or continue using the sex2ube Sites.
 
-#### This Privacy Notice is incorporated into and is subject to the [sex2ube Terms of Use](https://web.archive.org/web/20070516195759id_/http%3A//www.sex2ube.com/terms.php). Your use of the sex2ube Sites and any personal information you provide on the sex2ube Sites remains subject to the terms of this Privacy Notice and our [Terms of Use](https://web.archive.org/web/20070516195759id_/http%3A//www.sex2ube.com/terms.php).
+#### This Privacy Notice is incorporated into and is subject to the [sex2ube Terms of Use](https://web.archive.org/web/20071213170640id_/http://www.sex2ube.com/privacy/terms.php). Your use of the sex2ube Sites and any personal information you provide on the sex2ube Sites remains subject to the terms of this Privacy Notice and our [Terms of Use](https://web.archive.org/web/20071213170640id_/http://www.sex2ube.com/privacy/terms.php).
 
 #### Please note that any video, image, or other content posted at the direction of Users onto the sex2ube Sites becomes published content and is not considered personally identifiable information subject to this Privacy Notice.
 
@@ -32,13 +32,13 @@
   * We do not share your personally identifiable information (such as name or email address) with other, third-party companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out.
   * We do share non-personally-identifiable information (such as anonymous User usage data, referring / exit pages and URLs, platform types, number of clicks, etc.) with interested third-parties to assist them in understanding the usage patterns for certain content, services, advertisements, promotions, and/or functionality on the sex2ube Sites.
   * We may release personally identifiable information and/or non-personally-identifiable information if required to do so by law, or in the good-faith belief that such action is necessary to comply with state and federal laws (such as U.S. Copyright Law) or respond to a court order, subpoena, or search warrant.
-  * sex2ube also reserves the right to disclose personally identifiable information and/or non-personally-identifiable information that sex2ube believes, in good faith, is appropriate or necessary to enforce our [Terms of Use](https://web.archive.org/web/20070516195759id_/http%3A//www.sex2ube.com/terms.php), take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of our web site, and to protect the rights, property, or personal safety of sex2ube, our Users or others. 
+  * sex2ube also reserves the right to disclose personally identifiable information and/or non-personally-identifiable information that sex2ube believes, in good faith, is appropriate or necessary to enforce our [Terms of Use](https://web.archive.org/web/20071213170640id_/http://www.sex2ube.com/privacy/terms.php), take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of our web site, and to protect the rights, property, or personal safety of sex2ube, our Users or others. 
 
 
 
 #### **Your Choices:**
 
-#### You may, of course, decline to submit personally identifiable information through the sex2ube Sites, in which case sex2ube may not be able to provide certain services to you. You may update or correct your personal profile information and email preferences at any time by visiting your [account profile page](https://web.archive.org/my_profile.php). Please note that media files uploaded by Users to the sex2ube Sites remain subject to our [Terms of Use](https://web.archive.org/web/20070516195759id_/http%3A//www.sex2ube.com/terms.php).
+#### You may, of course, decline to submit personally identifiable information through the sex2ube Sites, in which case sex2ube may not be able to provide certain services to you. You may update or correct your personal profile information and email preferences at any time by visiting your [account profile page](https://web.archive.org/my_profile.php). Please note that media files uploaded by Users to the sex2ube Sites remain subject to our [Terms of Use](https://web.archive.org/web/20071213170640id_/http://www.sex2ube.com/privacy/terms.php).
 
 #### To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you profile access or making corrections. You are responsible for maintaining the secrecy of your unique password and account information at all times.
 
@@ -64,7 +64,7 @@
 
 #### **Special Note to International Users:**
 
-#### The sex2ube Sites are hosted in the United States and are intended for and directed to Users in the United States. If you are a User accessing the sex2ube Sites from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from United States laws, please be advised that through your continued use of the sex2ube Sites, which are governed by U.S. law, this Privacy Notice, and our [Terms of Use](https://web.archive.org/web/20070516195759id_/http%3A//www.sex2ube.com/terms.php), you are transferring your personal information to the United States and you consent to that transfer.
+#### The sex2ube Sites are hosted in the United States and are intended for and directed to Users in the United States. If you are a User accessing the sex2ube Sites from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from United States laws, please be advised that through your continued use of the sex2ube Sites, which are governed by U.S. law, this Privacy Notice, and our [Terms of Use](https://web.archive.org/web/20071213170640id_/http://www.sex2ube.com/privacy/terms.php), you are transferring your personal information to the United States and you consent to that transfer.
 
 #### **In the Event of Merger, Sale, or Bankruptcy:**
 
