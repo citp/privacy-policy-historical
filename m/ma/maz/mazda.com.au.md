@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mazda.com.au privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613050429id_/http%3A//www.mazda.com.au/articleZone.aspx%3FarticleZoneID%3D105) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mazda.com.au privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213104018id_/http%3A//www.mazda.com.au/articleZone.aspx%3FarticleZoneID%3D105) for the most accurate reproduction.*
 
 # Privacy | Mazda Australia Zoom Zoom
 
