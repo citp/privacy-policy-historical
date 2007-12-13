@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bradfordexchangechecks.com privacy policy that was archived on 2007-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070203003926id_/http%3A//www.bradfordexchangechecks.com/bec/cs/cs_privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bradfordexchangechecks.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213165848id_/http%3A//www.bradfordexchangechecks.com/bec/cs/cs_privacy_policy.jsp) for the most accurate reproduction.*
 
 # Bradford Exchange Checks Privacy Policy
 
 Secure Ordering
 
-Shopping online at bradfordexchangechecks.com is extremely safe. Bradford Exchange Checks™ uses secure Application Servers to protect your ordering information as it comes to us via the Internet. This means that all information you enter in the checkout section of our online store is encrypted. This includes the name, address, checking account information, bank information and credit card number you provide. VeriSign provides authentication that you are in direct communication with bradfordexchangechecks.com.
+Shopping online at bradfordexchangechecks.com is extremely safe. Bradford Exchange Checks® uses secure Application Servers to protect your ordering information as it comes to us via the Internet. This means that all information you enter in the checkout section of our online store is encrypted. This includes the name, address, checking account information, bank information and credit card number you provide. VeriSign provides authentication that you are in direct communication with bradfordexchangechecks.com.
 
 If you have any concerns about ordering electronically, please call (800) 323-8104 to place your order over the phone (Se Habla Español). 2-box minimum and processing fee apply for phone orders.
 
