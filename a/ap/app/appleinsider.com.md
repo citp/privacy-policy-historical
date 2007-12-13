@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the appleinsider.com privacy policy that was archived on 2007-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070621134141id_/http%3A//appleinsider.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appleinsider.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213034112id_/http%3A//appleinsider.com/privacy.php) for the most accurate reproduction.*
 
 # AppleInsider |
 
 This is the web site of **AppleInsider**.  
-We can be reached via e-mail at [general@appleinsider.com](mailto:general@appleinsider.com). 
+We can be reached via e-mail at [news@appleinsider.com](mailto:news@appleinsider.com). 
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
 
