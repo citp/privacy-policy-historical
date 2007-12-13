@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dawsons.co.uk privacy policy that was archived on 2007-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070528095334id_/http%3A//dawsons.co.uk/Content/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dawsons.co.uk privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213134217id_/http%3A//www.dawsons.co.uk/Articles/PrivacyPolicy) for the most accurate reproduction.*
 
 # Dawsons.co.uk - Welcome to Dawsons Online, the UK's largest retailer of Orchestral, Rock and Hi-Tech musical instruments and equipment
 
@@ -6,13 +6,8 @@
 
 Go to Featured Products
 
-**ITS YOUR LUCKY DAY**... We've slashed some of our online prices - **JUST FOR TODAY!**
+  
 
-**You'll need to order online today to take advantage of these prices.**  
- _They will all revert back to normal prices tomorrow, after this Bank Holiday Monday._  
- **These prices are not available in our store tomorrow, they are only available today, on online orders placed today.  
-Please do not ask us to match these prices online, or in-store tomorrow - we won't.**  
-Our usual terms and conditions apply.
 
 #### Dawsons.co.uk Privacy Statement
 
