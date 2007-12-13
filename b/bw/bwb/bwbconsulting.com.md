@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bwbconsulting.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206010922id_/http%3A//bwbconsulting.com/tep.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bwbconsulting.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213105609id_/http%3A//www.bwbconsulting.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@
 
 ###  PRIVACY POLICY
 
-BWB Consulting Limited(registered number: 5265863) whose registered office is at 3-4 Kayes Walk, The Lace Market, Nottingham, Nottinghamshire, England NG1 1PY (“us” “we” “our”) is committed to preserving the privacy of all visitors to www.bwbconsulting.com (“Website”). Please read the following privacy policy to understand how we use and protect the information that you provide to us. 
+BWB Consulting Limited(registered number: 5265863) whose registered office is at Hine House, 25 Regent Street, Nottingham, Nottinghamshire, England NG1 5BS (“us” “we” “our”) is committed to preserving the privacy of all visitors to www.bwbconsulting.com (“Website”). Please read the following privacy policy to understand how we use and protect the information that you provide to us. 
 
 **By registering on this Websiteor emailing us through it** , you consent to the collection, use and transfer of your information under the terms of this policy. 
 
