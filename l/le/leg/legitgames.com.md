@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the legitgames.com privacy policy that was archived on 2007-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070426184028id_/http%3A//www.legitgames.com/index.php%3Fpageid%3D5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legitgames.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213184801id_/http%3A//www.legitgames.com/index.php%3Fpageid%3D5) for the most accurate reproduction.*
 
 # LegitGames.Com - Privacy Policy
 
