@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the 123glitter.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429045201id_/http%3A//www.123glitter.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123glitter.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213183247id_/http%3A//www.123glitter.com/privacy.php) for the most accurate reproduction.*
 
 # 123glitter.com User Agreement - Privacy Policy and Terms of Use
+
+**[Christmas Comments](http://123glitter.com/comments-graphics/Christmas/)      [Birthday Comments](http://www.123glitter.com/comments-graphics/Birthday/)       [Happy Thursday](http://www.123glitter.com/comments-graphics/Happy_Thursday/)**
 
 123glitter.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this web site 123glitter.com.
 
@@ -39,5 +41,15 @@ All content and services provided by 123glitter.COM are for personal use only. Y
 If you feel that this site 123glitter.com is not following its stated information policy, you may contact us: netaxis@gmail.com
 
   
+
+
+WidgetBucks - Trend Watch - WidgetBucks.com
+
+|   
+---|---  
+  
+[](https://web.archive.org/crazytext/) [](https://web.archive.org/dancing-glitter/) [](https://web.archive.org/glitter-doll-maker/)   
+[](https://web.archive.org/gradient-maker/) [](https://web.archive.org/glitter-maker/) [](https://web.archive.org/glittertext/)
+
   
 
