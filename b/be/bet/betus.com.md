@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the betus.com privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608133729id_/http%3A//www.betus.com/about-us/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betus.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213080211id_/http%3A//betus.com/about-us/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
+# BetUS Privacy and Security Policy
 
 BetUS.com firmly believes that trust and honesty are the cornerstones of building long-lasting relationships with our clients. This is why we at BetUS.com are strongly committed to adhering to our company’s firm and strict privacy policy. 
 
