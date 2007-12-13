@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the quityourdayjob.com privacy policy that was archived on 2007-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070509142152id_/http%3A//www.quityourdayjob.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quityourdayjob.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213062001id_/http%3A//www.quityourdayjob.com/privacy.php) for the most accurate reproduction.*
 
 # Quit Your Day Job Privacy Policy
 
-[](http://www.truste.org/ivalidate.php?url=www.quityourdayjob.com&sealid=101)Our Privacy Policy is designed to assist you in understanding how we collect and use the personal information you provide to us and to assist you in making informed decisions when using our site as well as our products and services.
+Our Privacy Policy is designed to assist you in understanding how we collect and use the personal information you provide to us and to assist you in making informed decisions when using our site as well as our products and services.
 
 **What Information Do We Collect?**
 
@@ -86,10 +86,6 @@ Please remember that when you use a link to go from our Web site to another Web 
 
 **Your Consent**  
 By using our Web site you consent to our collection and use of your personal information as described in this Privacy Policy. If we change our privacy policies and procedures, we will post those changes on our Web site to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it.
-
-Quit Your Day Job, LLC is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site www.quityourdayjob.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
-
-If you have questions or concerns regarding this statement, you should first contact Jeremy Palmer at [info@quityourdayjob.com](mailto:info@quityourdayjob.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at []. TRUSTe will then serve as a liaison with you to resolve your concerns. 
 
 **Quit Your Day Job, LLC Contact Information**
 
