@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the foreclosurefreesearch.com privacy policy that was archived on 2007-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070509121549id_/http%3A//www.foreclosurefreesearch.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foreclosurefreesearch.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213023629id_/http%3A//www.foreclosurefreesearch.com/privacy) for the most accurate reproduction.*
 
-# Bank Foreclosures Free Foreclosure Listings Foreclosed Homes Lists Government Forclosures Real Estate Investing Forclosure Investment Federal Home Properties HUD VA Books Courses
+# Foreclosures - Foreclosed Homes
 
 www.foreclosurefreesearch.com is dedicated to safeguarding your privacy online. The following explains how your information will be treated as you make use of our products and services. 
 
