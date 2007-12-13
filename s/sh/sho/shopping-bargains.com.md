@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the shopping-bargains.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629101001id_/http%3A//www.shopping-bargains.com/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopping-bargains.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213144014id_/http%3A//www.shopping-bargains.com/privacy_policy.cfm) for the most accurate reproduction.*
 
 # Shopping-Bargains.com Privacy Policy Statement
 
 Shop By Department
+
+[Our Facebook App](https://web.archive.org/resources/facebook.cfm)
 
 [ALL Departments](https://web.archive.org/departments/)  
 [ALL Stores](https://web.archive.org/stores/)
