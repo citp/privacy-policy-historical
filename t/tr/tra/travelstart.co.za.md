@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelstart.co.za privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626174411id_/http%3A//www.travelstart.co.za/privacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelstart.co.za privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213222201id_/http%3A//www.travelstart.co.za/privacyPolicy.jsp) for the most accurate reproduction.*
 
 # >>> Travelstart | Privacy Policy <<<
 
