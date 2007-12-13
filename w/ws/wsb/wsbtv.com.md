@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wsbtv.com privacy policy that was archived on 2007-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070526113446id_/http%3A//www.wsbtv.com/station/1869260/detail.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wsbtv.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213122316id_/http%3A//www.wsbtv.com/station/1869260/detail.html) for the most accurate reproduction.*
 
 # Privacy Policy - WSB-TV News Story - WSB Atlanta
 
@@ -32,7 +32,7 @@ The ads appearing on this Web site are delivered to you by DoubleClick, our Web 
 
  **Third Party Cookies**
 
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://networkadvertising.org/consumer/opt_out.asp).
 
  **DISCLOSURE OF INFORMATION**
 
