@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the originalsignal.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623231359id_/http%3A//blog.originalsignal.com/%3Fpage_id%3D17) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the originalsignal.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213025156id_/http%3A//blog.originalsignal.com/%3Fpage_id%3D17) for the most accurate reproduction.*
 
 # Original Signal » Privacy Policy
 
@@ -53,6 +53,4 @@ Oosterdokskade 5 – 4N
 1011 AD Amsterdam  
 The Netherlands
 
-or via e-mail:
-
-communicatie [@] stillpoint-media [.] nl 
+or via [e-mail](http://www.stillpoint-media.nl/email.php?w=5&l=1)
