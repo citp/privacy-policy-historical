@@ -1,6 +1,28 @@
-> *The following text is extracted and transformed from the ringsurf.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626083859id_/http%3A//www.ringsurf.com/netring%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ringsurf.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213074224id_/http%3A//www.ringsurf.com/netring%3Faction%3Dprivacy) for the most accurate reproduction.*
 
 # RingSurf: Privacy
+
+Ring Surf | [Home](https://web.archive.org/)| [Forums](https://web.archive.org/forum)| [Rings](https://web.archive.org/netring/)| [Articles](https://web.archive.org/online/)| [Contact](https://web.archive.org/netring?action=contact)| [Forum Login](https://web.archive.org/forum/login)| [Ring Login](https://web.archive.org/netring?action=login)  
+---|---|---|---|---|---|---|---  
+  | 
+
+###  Information Automatically Logged 
+
+We use your IP address to help diagnose problems with our server and to administer our Web site. This information is also used to allow us to determine statistical usage of the website and rings. 
+
+The refering URL (the webpage you left before coming to a RingSurf webpage, if any) is logged whenever you view a page on the RingSurf website. This allows us to see which areas are more popular than others on the website, the paths taken to reach each page, and it also allows us to gauge the effectiveness of any promotional programs we may be running at the time. 
+
+All such information is gathered globally rather than individually, and no information is linked to any identifying information about you. Such aggregated data may be disclosed, for example, to potential and current advertisers providing them with information about the number of people viewing their ads and how many have clicked on them. 
+
+
+
+
+###  Advertisers and Cookies 
+
+RingSurf itself does not use cookies in any part of our Web site. We use an outside ad company to display ads on our site. These ads may contain cookies. Cookies received with banner ads are collected by our ad company, and we do not have access to or control over this information. 
+
+
+###  Personal Information 
 
 No personal information is collected by RingSurf from visitors to the our website, when viewing pages, or when navigating a Net Ring provided by our service. We also do not collect or harvest the EMail addresses of people who EMail us directly. We only use them to respond to your queries. 
 
@@ -9,3 +31,44 @@ When creating a Net Ring, or joining an existing Net Ring, you are asking to bec
 When joining a Net Ring hosted on RingSurf, the personal information provided will be made available to the Ringmaster for the Ring you joined for the sole purpose of managing their ring and emailing ring members with Ring related information only. Ringmasters are members like yourself, and are independent of RingSurf itself, and as such we have no direct control over what a Ringmaster may ultimately do with your information. If you find a Ringmaster abusing such information please [let us know](https://web.archive.org/email.html). 
 
 Except as provided for above, Any personal information collected will not be disclosed to any third party, except in the case of cooperating with law enforcement agencies to aid in identifying those persons using our services for illegal activities. Information may be given even without a subpoena or court order if we believe such illegal activity is being conducted through our services. 
+
+
+
+
+###  External Links 
+
+This site contains links to other sites. **RingSurf** is not responsible for the privacy practices, actions, or the content of such Web sites. 
+
+
+###  Children's Guidelines 
+
+Currently this site has visible links that are unsuitable for children, but we are in the process of moving such sites into a restricted area for verified adult access only. 
+
+We also require personal information, in the form of a Name and EMail address in order to obtain our members services. For these reasons, children age 13 and under are not knowingly allowed to become members of the RingSurf website, and thus create or join a Net Ring provided by our service. 
+
+
+
+
+###  Contacting the Web Site 
+
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please visit our [Contact Center.](https://web.archive.org/email.html) 
+|    
+---|---|---  
+  
+
+
+Enter Ringsurf Rings >>
+
+Join a ring… a community of websites of similar interests and concerns as you! A ring will help more visitors find you quickly and easily. Can’t find a Ring you like? Then, create your own ring and start your own community of interest! New version coming in Fall 2008!
+
+Enter Ringsurf Articles >>
+
+Submit an Article and get Traffic. You can write an article in existing categories or suggest a new one. When your article is accepted we will post it to our site and the author will be given credit for the article with a link. The more articles the more links to your site the more traffic your site gets. It’s that simple! Enter Ringsurf Articles
+
+|    
+
+
+Loading...  
+  
+Ring Surf | [Home](https://web.archive.org/)| [Forums](https://web.archive.org/forum)| [Rings](https://web.archive.org/netring/)| [Articles](https://web.archive.org/online/)| [Contact](https://web.archive.org/netring?action=contact)| [Forum Login](https://web.archive.org/forum/login)| [Ring Login](https://web.archive.org/netring?action=login)  
+---|---|---|---|---|---|---|---
