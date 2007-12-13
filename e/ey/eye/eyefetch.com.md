@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eyefetch.com privacy policy that was archived on 2007-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070404145307id_/http%3A//www.eyefetch.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eyefetch.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213030006id_/http%3A//www.eyefetch.com/privacy.aspx) for the most accurate reproduction.*
 
 # EyeFetch.com Privacy Policy
 
@@ -54,4 +54,4 @@ Eyefetch may update this policy at any time for any reason. If there are any sig
 
 **_Questions?_**
 
-If you have any questions regarding this Privacy Statement, the practices of Eyefetch, or your dealings on our web site, please [contact us](https://web.archive.org/web/20070404145307id_/http%3A//www.eyefetch.com/contact.aspx).
+If you have any questions regarding this Privacy Statement, the practices of Eyefetch, or your dealings on our web site, please [contact us](https://web.archive.org/web/20071213030006id_/http%3A//www.eyefetch.com/contact.aspx).
