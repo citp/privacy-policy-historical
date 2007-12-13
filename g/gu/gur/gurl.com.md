@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gurl.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624005804id_/http%3A//www.gurl.com/about/privacypolicy/pages/0%2C%2C621914%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gurl.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213073452id_/http%3A//gurl.com/about/privacypolicy/pages/0%2C%2C621914%2C00.html) for the most accurate reproduction.*
 
 # gURL.com - an interactive web thing for teen girls.
 
@@ -153,13 +153,8 @@ Questions regarding this Privacy Policy should be directed to us at [feedback@ma
   
   | ADVERTISEMENT  
   
-[](http://mall.gurl.com/)[](http://www.gurl.com/seasonal/summer/0,,639371,00.html/) | [](https://auth.gurl.com/optin/agecheck) | [](https://auth.gurl.com/optin/agecheck)  
----|---  
-     
-   Also... Get your horoscope mailed to you every day!  
-   [ **Sign up for gURL and Astrology.com's daily newsletter.**](http://www.astrology.com/subscriptions/signup.html)  
   
-   
+|    
   
   
 © iVillage Inc. 1995-2007. All rights reserved.
