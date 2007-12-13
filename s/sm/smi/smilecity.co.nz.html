@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the smilecity.co.nz privacy policy that was archived on 2007-02-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070219202230id_/http%3A//www.smilecity.co.nz/page.asp%3Fgo%3Dprivacy%26u%3D%26c%3D) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the smilecity.co.nz privacy policy that was archived on 2007-12-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071213032721id_/http%3A//smilecity.co.nz/page.asp%3Fgo%3Dprivacy%26u%3D%26c%3D) for the most accurate reproduction.-->
 
 <html><head>
 <title>Privacy Statement - SmileCity New Zealand</title>
@@ -88,6 +88,17 @@ TABLE.helprelated {border:1px solid #cccccc; border-collapse:collapse;}
 TABLE.helphint {background-color:#FFFFC0; border:1px solid #cccccc; border-collapse:collapse;}
 TABLE.helpdata {border: 1px solid #cccccc; border-collapse:collapse;}
 TR.helpemph {background-color:#FFFFC0;}
+
+/* Help Expansion Divs */
+div.helpDivText {margin-left:0px;}
+div.helpDivOpen {border:1px solid #cccccc; border-collapse:collapse;padding:5px;}
+div.helpDivClosed {border:1px solid #cccccc; border-collapse:collapse;padding:5px;}
+a.helpToggle {cursor:hand;font-weight:bold;width:100%;}
+div.helpDivOpen a.helpToggle {background: url(/img/collapseArrow.gif) no-repeat;}
+div.helpDivClosed a.helpToggle {background: url(/img/expandArrow.gif) no-repeat;}
+div.helpDivOpen div.helpDivText {display: block!important;}
+div.helpDivClosed div.helpDivText {display: none;}
+
 /* Grey Help Box*/
 SPAN.hbhead {color:#888888; font-size:11pt;}
 .hbdarkspace{background-color:#c3c3c3; padding: 0px;}
@@ -731,6 +742,7 @@ function treeClickClose(containerdiv) {
 		}
 	}
 }
+function toggleHelpDiv(item) {item.parentNode.className=(item.parentNode.className == 'helpDivClosed')?'helpDivOpen':'helpDivClosed';}
 
 </script>
 <!--expMU-->
@@ -751,8 +763,9 @@ function treeClickClose(containerdiv) {
 </tbody></table>
 <table border="0" cellspacing="0" cellpadding="0" width="780" align="center"><tbody><tr>
 
-<td bgcolor="#2657A2" valign="bottom"><img src="/img/trans.gif" width="11" height="60" alt="" border="0"><a href="/default.asp?u=&amp;c="><img src="/img/smileCityLogo5.gif" width="449" height="44" alt="Privacy Statement - SmileCity New Zealand" border="0" vspace="4"></a></td>
-<td width="320" bgcolor="#2657A2">
+<!-- christmas header -->
+<td bgcolor="#2657A2" valign="bottom"><a href="/default.asp?u=&amp;c="><img src="/img/smilecity0612a.gif" width="460" height="59" alt="SmileCity New Zealand" border="0"></a></td>
+<td width="320" bgcolor="#2657A2" style="background-image:url('/img/smilecity0612b.gif');">
 <table border="0" cellspacing="0" cellpadding="0" align="center">
 <tbody><tr>
 	<td style="color:#ffffff;"><b>Email or SmileCity ID&nbsp;&nbsp;</b></td>
@@ -770,6 +783,26 @@ function treeClickClose(containerdiv) {
 </tbody></table>
 </td></tr>
 
+<!--normal header
+<TD bgcolor="#2657A2" valign="bottom"><IMG SRC=/img/trans.gif WIDTH=11 HEIGHT=60 ALT="" BORDER=0><A hRef=/default.asp?u=&c=><IMG SRC=/img/smileCityLogo5.gif WIDTH=449 HEIGHT=44 ALT="SmileCity New Zealand" BORDER=0 vspace="4"></A></TD>
+<TD width=320 bgcolor="#2657A2">
+<TABLE border=0 cellSpacing=0 cellPadding=0 align="center">
+<TR>
+	<TD style="color:#ffffff;" style="padding-left:1px;"><B>Email or SmileCity ID&nbsp;&nbsp;</B></TD>
+	<TD style="color:#ffffff;" style="padding-left:1px;"><B>Password</B></TD>
+	<TD valign="top"></TD>
+</TR>
+<FORM action="/page.asp?go=privacy&u=&c=" method="post">
+<TR>
+	<TD><INPUT type="text" name="userid" size="20" class="lb1">&nbsp;&nbsp;</TD>
+	<TD><INPUT type="password" name="password" size="8" class="lb1">&nbsp;&nbsp;</TD>
+	<TD valign="bottom"><INPUT type="submit" value="Log in" class="lbu1">&nbsp;&nbsp;</TD>
+</TR>
+</FORM>
+<tr><td colspan="3" style="color:#ffffff;font-size:8pt;padding-top:2px;padding-left:1px;">Forget your password? <A hRef="/account.asp?go=sendpass" class="navSmall">Get a password reminder</A></td></tr>
+</TABLE>
+</TD></TR>-->
+
 <tr><td bgcolor="#ffffff" colspan="5"><img src="/img/trans.gif" width="120" height="1" alt="" border="0"></td></tr>
 </tbody></table>
 
@@ -783,7 +816,8 @@ function treeClickClose(containerdiv) {
 	<div class="menuItemSep"><img src="/img/trans.gif" width="120" height="3" alt="" border="0"></div>
 	<a href="/earn.asp?go=earn&amp;u=&amp;c=" class="menuItemH">Earn Points</a>
 	<a href="/earn.asp?go=partners&amp;u=&amp;c=" class="menuItem" onmouseover="menuItemMouseover(event, 'menu1_2');">Online Shopping&nbsp;&nbsp;<img src="/img/menuArrow.gif" width="7" height="7" alt="" border="0"></a>
-	<!--A hRef="/page.asp?go=valentinesday&u=&c=" class=menuItemSpecial>Bonus Points</A-->
+	<!--A hRef="/page.asp?go=mothersday&u=&c=" class=menuItemSpecial>Bonus Points</A-->
+	<a href="/page.asp?go=christmas&amp;u=&amp;c=" class="menuItemSpecial">Double Points</a>
 	<a href="/earn.asp?go=top&amp;u=&amp;c=" class="menuItem">Hot Deals</a>
 	<a href="/earn.asp?go=surveys&amp;u=&amp;c=" class="menuItem">Surveys</a>
 	<a href="/earn.asp?go=mail&amp;u=&amp;c=" class="menuItem" onmouseover="menuItemMouseover(event, 'menu1_5');">Reward Mail&nbsp;&nbsp;<img src="/img/menuArrow.gif" width="7" height="7" alt="" border="0"></a>
@@ -867,7 +901,6 @@ function treeClickClose(containerdiv) {
 </div>
 
 <div id="menu3_1" class="menu" onmouseover="menuMouseover(event)">
-<a class="menuItem" href="/benefits.asp?go=comp&amp;comp=surveycash&amp;u=&amp;c=">Survey Cash Competition</a>
 <a class="menuItem" href="/benefits.asp?go=comp&amp;comp=frenzy&amp;u=&amp;c=">Free Movie Frenzy</a>
 <a class="menuItem" href="/benefits.asp?go=comp&amp;comp=t30&amp;u=&amp;c=">Top 30 Competition</a>
 </div>
@@ -1098,7 +1131,7 @@ W+="&mt_ran="+(randomnumber=Math.floor(Math.random()*100001));
 document.write('<IMG BORDER="0" WIDTH="1" HEIGHT="1" SRC="http://tracker.mediatracker.co.nz/mt/getstats.asp'+W+'">');
 }
 //-->
-</script><img border="0" width="1" height="1" src="http://tracker.mediatracker.co.nz/mt/getstats.asp?mt_url=https%3A//web.archive.org/web/20070219202230id_/http%253A//www.smilecity.co.nz/page.asp%253Fgo%253Dprivacy%2526u%253D%2526c%253D&amp;mt_ref=&amp;mt_cid=20055187&amp;mt_typ=1001&amp;mt_ver=2004&amp;mt_ran=14345">
+</script><img border="0" width="1" height="1" src="http://tracker.mediatracker.co.nz/mt/getstats.asp?mt_url=https%3A//web.archive.org/web/20071213032721id_/http%253A//smilecity.co.nz/page.asp%253Fgo%253Dprivacy%2526u%253D%2526c%253D&amp;mt_ref=&amp;mt_cid=20055187&amp;mt_typ=1001&amp;mt_ver=2004&amp;mt_ran=30981">
 <noscript>
 <IMG BORDER="0" WIDTH="1" HEIGHT="1" SRC="http://tracker.mediatracker.co.nz/mt/getstats.asp?mt_url=No+Script&mt_ref=No+Script&mt_cid=20055187&mt_typ=1002&mt_ver=2004">
 </noscript>
@@ -1111,5 +1144,6 @@ document.write('<IMG BORDER="0" WIDTH="1" HEIGHT="1" SRC="http://tracker.mediatr
 _uacct = "UA-31157-1";
 urchinTracker();
 </script>
+
 
 </body></html>
