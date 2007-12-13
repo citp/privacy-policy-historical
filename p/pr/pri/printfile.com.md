@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the printfile.com privacy policy that was archived on 2007-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070515020800id_/http%3A//www.printfile.com/index.asp%3FPageAction%3DCustom%26ID%3D4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printfile.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213141119id_/http%3A//www.printfile.com/index.asp%3FPageAction%3DCustom%26ID%3D4) for the most accurate reproduction.*
 
 # Privacy Policy
 
