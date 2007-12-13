@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pycomall.com privacy policy that was archived on 2007-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070222015045id_/http%3A//www.pycomall.com/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pycomall.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213115003id_/http%3A//www.pycomall.com/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
 
 # Pycomall :: Help zone - Buy or sell digital goods online with paypal, digital delivery.
 
