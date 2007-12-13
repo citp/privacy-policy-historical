@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the commercebank.com privacy policy that was archived on 2007-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070410094817id_/http%3A//www.commercebank.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commercebank.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213064330id_/http%3A//www.commercebank.com/privacy.asp) for the most accurate reproduction.*
 
-# Commerce Bank | Serving Kansas Missouri and Illinois
+# Commerce Bank | Serving Missouri, Kansas, Illinois and Oklahoma
 
 [](https://web.archive.org/rd.asp?loc=/privacy.asp&id=ad_careers&url=15&pop=n)
 
