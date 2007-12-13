@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the payschools.com privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613193820id_/http%3A//www.payschools.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payschools.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213180433id_/http%3A//www.payschools.com/privacy.asp) for the most accurate reproduction.*
 
 # PaySchools - Online Payment Processing
 
@@ -60,5 +60,5 @@ Our business changes constantly, and our Privacy Notice and the Conditions of Us
 
 Related Practices and Information 
 
-[Conditions of Use](https://web.archive.org/web/20070613193820id_/http%3A//www.payschools.com/terms.asp)  
-[Returns Policy](https://web.archive.org/web/20070613193820id_/http%3A//www.payschools.com/returns.asp)
+[Conditions of Use](https://web.archive.org/web/20071213180433id_/http%3A//www.payschools.com/terms.asp)  
+[Returns Policy](https://web.archive.org/web/20071213180433id_/http%3A//www.payschools.com/returns.asp)
