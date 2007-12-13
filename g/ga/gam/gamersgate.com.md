@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the gamersgate.com privacy policy that was archived on 2007-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070612125134id_/http%3A//www.gamersgate.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D27%26Itemid%3D21) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamersgate.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213143748id_/http%3A//www.gamersgate.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D27%26Itemid%3D21) for the most accurate reproduction.*
 
 # GamersGate - Privacy Policy
 
 **Privacy Policy**
 
-GamersGate respects your privacy and provides you with this privacy policy (“Privacy Policy”) so that you may understand the ways in which it does and does not use the information you transmit when visiting its website www.gamersgate.net (“Website”).  Please note that your use of the Website constitutes your acceptance of this Privacy Policy as well as our Terms of Use. [Terms of Use](https://web.archive.org/web/20070612125134id_/http%3A//www.gamersgate.com/index.php?option=com_content&task=view&id=28&Itemid=22%20)
+GamersGate respects your privacy and provides you with this privacy policy (“Privacy Policy”) so that you may understand the ways in which it does and does not use the information you transmit when visiting its website www.gamersgate.net (“Website”).  Please note that your use of the Website constitutes your acceptance of this Privacy Policy as well as our Terms of Use. [Terms of Use](https://web.archive.org/web/20071213143748id_/http%3A//www.gamersgate.com/index.php?option=com_content&task=view&id=28&Itemid=22%20)
 
  **IF YOU DO NOT AGREE WITH THIS PRIVACY POLICY, PLEASE DO NOT USE THE WEBSITE.   **
 
