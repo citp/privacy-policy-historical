@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the knbr.com privacy policy that was archived on 2007-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070513000506id_/http%3A//www.knbr.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knbr.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213150559id_/http%3A//www.knbr.com/privacy.html) for the most accurate reproduction.*
 
 # KNBR's Privacy Policy
 
