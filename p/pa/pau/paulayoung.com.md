@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paulayoung.com privacy policy that was archived on 2007-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070412043447id_/http%3A//www.paulayoung.com/catalog/privacy.asp%3Fmscssid%3D%26adsrc%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paulayoung.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213032943id_/http%3A//www.paulayoung.com/catalog/privacy.asp%3Fmscssid%3D%26adsrc%3D) for the most accurate reproduction.*
 
 # Paula Young Catalog: About
 
