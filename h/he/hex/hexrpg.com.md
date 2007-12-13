@@ -1,7 +1,9 @@
-> *The following text is extracted and transformed from the hexrpg.com privacy policy that was archived on 2007-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070222021247id_/http%3A//www.hexrpg.com/terms.php%3Fview%3Dpp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hexrpg.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213023030id_/http%3A//www.hexrpg.com/terms.php%3Fview%3Dpp) for the most accurate reproduction.*
 
 # Hogwarts Extreme : An Interactive Harry Potter RPG Website
 
+_Hogwarts Extreme - Privacy Policy_  
+  
 Hogwarts Extreme fully respects the privacy of its users and pledges to continually protect it by using the best means of technology available. This policy is provided as an informational tool for everyone. Please contact us if you have any questions through the "Contact" link located at the bottom of every page. 
 
 **Operators / Contacting**
@@ -37,11 +39,11 @@ Links to other websites exist on Hogwarts Extreme and can mostly be found under 
 
 **Parents**
 
-Please view our [COPPA Policy](https://web.archive.org/web/20070222021247id_/http%3A//www.hexrpg.com/terms.php?view=coppa) for information. 
+Please view our [COPPA Policy](https://web.archive.org/web/20071213023030id_/http%3A//www.hexrpg.com/terms.php?view=coppa) for information. 
 
 **Updating of this Policy**
 
-If this policy is modified, a news post will be made on the main page or an asterisk will be put next to the link to this policy. It is your responsibility to notice these notifications. 
+If this policy is modified, a news post will be made on the main page or an asterisk will be put next to the link to this policy. It is your responsibility to notice these notifications.
 
 * * *
 
