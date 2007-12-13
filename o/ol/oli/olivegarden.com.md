@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the olivegarden.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626135953id_/http%3A//www.olivegarden.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the olivegarden.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213071726id_/http%3A//olivegarden.com/privacy) for the most accurate reproduction.*
 
-# Olive Garden Italian Restaurant: Privacy Policy
+# Olive Garden Italian Restaurant - Privacy Policy
 
 Effective Date: October 1, 2004 
 
