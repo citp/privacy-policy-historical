@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the parveentravels.com privacy policy that was archived on 2007-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070512211217id_/http%3A//www.parveentravels.com/Privacy%2520Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parveentravels.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213101237id_/http%3A//www.parveentravels.com/Privacy.php) for the most accurate reproduction.*
 
-# Welcome To Parveen Travels
+# Privacy Policy
 
 Parveen Travels respects the privacy of visitors to our site. Please read this Privacy Policy carefully so that you understand our privacy practices for our parveentravels.com site. Questions regarding privacy issues should be directed to parveen@parveentravels.com
 
@@ -21,3 +21,5 @@ We may occasionally release information about our visitors when release is appro
 **A FINAL NOTE**
 
 The Web is an evolving medium. If we need to change our privacy policy at some point in the future, we'll post the changes before they take effect. By visiting our site, you agree that your visit, and any dispute over our privacy practices, is governed by this Privacy Policy and our Visitor Agreement. 
+
+| 
