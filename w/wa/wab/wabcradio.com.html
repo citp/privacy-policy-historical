@@ -1,9 +1,10 @@
-<!--The following is the downloaded HTML source of the wabcradio.com privacy policy that was archived on 2007-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070630064918id_/http%3A//www.wabcradio.com/article.asp%3Fid%3D122649) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wabcradio.com privacy policy that was archived on 2007-12-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071213065125id_/http%3A//www.wabcradio.com/article.asp%3Fid%3D122649) for the most accurate reproduction.-->
 
-<html><head><script language="JAVASCRIPT" src="/jsfiles/incDynamicMenus.js"></script><script language="JAVASCRIPT" src="/jsfiles/incDynamicMenusLogic.js"></script>
+<html><head><script language="javascript" type="text/javascript" src="/jsfiles/incDynamicMenus.js"></script><script language="JAVASCRIPT" src="/jsfiles/incDynamicMenusLogic.js"></script>
 
-<script language="JAVASCRIPT" type="text/JavaScript">
+<script language="javascript" type="text/javascript">
+/* <![CDATA[ */
 /************************************
  BUILD THE DATA ARRAYS FOR THE MENUS
 ************************************/
@@ -15,46 +16,55 @@ function objMenuItem(sHTML, sURL, sTarget) {
 	this.sURL = sURL;
 	this.sTarget = sTarget;
 }
-// Create the Menu Arrays
+// Create the Menu Arrays 
+//****NOTE: ***** if you are using incMenuArrayScheduled.asp use subBuildScheduledMenuArrays() instead
 var aryMenu1 = new Array();
-aryMenu1[0] = new objMenuItem('Station Info','','');
-aryMenu1[1] = new objMenuItem('Contests/Events','','');
-aryMenu1[2] = new objMenuItem('Message Boards & Blogs','','');
-aryMenu1[3] = new objMenuItem('Oldies Page','/Article.asp?id=166880','');
-aryMenu1[4] = new objMenuItem('Celebrate Independence Day','/Article.asp?id=430458','');
-aryMenu1[5] = new objMenuItem('Dining Deals','http://dealsfortristate.com/intro.php','');
-aryMenu1[6] = new objMenuItem('Traffic Center','/Article.asp?id=429025','');
-aryMenu1[7] = new objMenuItem('Community Affairs','','');
-aryMenu1[8] = new objMenuItem('Our Jobs','/jobs.asp','');
-aryMenu1[9] = new objMenuItem('Sports','/sectional.asp?id=5825','');
-aryMenu1[10] = new objMenuItem('WABC Advertisers','','');
-aryMenu1[11] = new objMenuItem('Erik Hastings Travel Page','/article.asp?id=166878','');
-var aryMenu1_8 = new Array();
-aryMenu1_8[0] = new objMenuItem('Community Calendar','/community/communitycalendar.asp','');
-aryMenu1_8[1] = new objMenuItem('Public Service Announcements','/article.asp?id=122650','');
-var aryMenu1_1 = new Array();
-aryMenu1_1[0] = new objMenuItem('Contact WABC','/Article.asp?id=122651','');
-aryMenu1_1[1] = new objMenuItem('Call for Action','/sectional.asp?id=5880','');
-var aryMenu1_3 = new Array();
-aryMenu1_3[0] = new objMenuItem('Sean Hannity','/goout.asp?u=http://www.hannity.com/forum/forumdisplay.php?f=10','');
-aryMenu1_3[1] = new objMenuItem('Mark Levin','http://www.hannity.com/forum/forumdisplay.php?f=26','');
-aryMenu1_3[2] = new objMenuItem('Jerry Agar','/blog.asp?id=12680','');
+aryMenu1[0] = new objMenuItem('77WABC STREAMING LISTEN LIVE','http://www.wabcradio.com/article.asp?id=122648','');
+aryMenu1[1] = new objMenuItem('Personalities','','');
+aryMenu1[2] = new objMenuItem('Contests/Events','','');
+aryMenu1[3] = new objMenuItem('Message Boards & Blogs','','');
+aryMenu1[4] = new objMenuItem('Dining Deals','http://dealsfortristate.com/intro.php','');
+aryMenu1[5] = new objMenuItem('Traffic Center','/Article.asp?id=429025','');
+aryMenu1[6] = new objMenuItem('Erik Hastings Travel Page','/article.asp?id=166878','');
+aryMenu1[7] = new objMenuItem('WABC Advertisers','','');
+aryMenu1[8] = new objMenuItem('Oldies Page','/Article.asp?id=166880','');
+aryMenu1[9] = new objMenuItem('Sports on WABC','/sectional.asp?id=5825','');
+aryMenu1[10] = new objMenuItem('Station Info','','');
+aryMenu1[11] = new objMenuItem('Our Jobs','/jobs.asp','');
+aryMenu1[12] = new objMenuItem('Community Affairs','','');
+var aryMenu1_13 = new Array();
+aryMenu1_13[0] = new objMenuItem('Community Calendar','/community/communitycalendar.asp','');
+aryMenu1_13[1] = new objMenuItem('Public Service Announcements','/article.asp?id=122650','');
 var aryMenu1_11 = new Array();
-aryMenu1_11[0] = new objMenuItem('Advertise with WABC','/article.asp?id=122641','');
-aryMenu1_11[1] = new objMenuItem('WABC Advertisers','/coupons.asp','');
+aryMenu1_11[0] = new objMenuItem('Contact WABC','/Article.asp?id=122651','');
+aryMenu1_11[1] = new objMenuItem('Call for Action','/sectional.asp?id=5880','');
+aryMenu1_11[2] = new objMenuItem('Internet Terms of Use','http://www.wabcradio.com//Article.asp?id=462128','');
+var aryMenu1_10 = new Array();
+aryMenu1_10[0] = new objMenuItem('Sports on WABC','/sectional.asp?id=5825','');
+aryMenu1_10[1] = new objMenuItem('Play-by-Play Schedule','http://images.radcity.net/5145/2191105.xls','');
+var aryMenu1_4 = new Array();
+aryMenu1_4[0] = new objMenuItem('Sean Hannity','/goout.asp?u=http://www.hannity.com/forum/forumdisplay.php?f=10','');
+aryMenu1_4[1] = new objMenuItem('Mark Levin','http://www.hannity.com/forum/forumdisplay.php?f=26','');
+var aryMenu1_8 = new Array();
+aryMenu1_8[0] = new objMenuItem('WABC Partners','/coupons.asp','');
+aryMenu1_8[1] = new objMenuItem('Advertise with us','/article.asp?id=122641','');
+var aryMenu1_3 = new Array();
+aryMenu1_3[0] = new objMenuItem('Contests','/sectional.asp?id=5821','');
+aryMenu1_3[1] = new objMenuItem('Local Events','/sectional.asp?id=5823','');
 var aryMenu1_2 = new Array();
-aryMenu1_2[0] = new objMenuItem('Contests','/sectional.asp?id=5821','');
-aryMenu1_2[1] = new objMenuItem('Local Events','/sectional.asp?id=5823','');
+aryMenu1_2[0] = new objMenuItem('Personality Profiles','/personalityprofile.asp','');
+aryMenu1_2[1] = new objMenuItem('Program Schedule','/programming.asp','');
+aryMenu1_2[2] = new objMenuItem('Email our personalities','/emailaddresses.asp','');
+aryMenu1_2[3] = new objMenuItem('Photo Gallery','/photowall.asp','');
 
+/* ]]> */
 </script>
 
-<!--include virtual="gbinc/common/gbincStringBuilder.asp"-->
 
 
-  
 <title>News Talk Radio 77 WABC-AM</title>
 <meta name="description" content="News Talk Radio 77 WABC-AM features New York area news events, contests, concerts, clubs and more!">
-<meta name="keywords" content="News Talk Radio 77 wabc-am, news talk radio, news/talk radio, news-talk radio, 77, 770, wabc, wabc-am, wabc, news, 770 am, news radio, talk radio, radio, radio stations, new york radio, new york stations, contests, new york contests, radio contests, the curtis and kuby show, curtis sliwa, john gambling, paul harvey, rush limbaugh, sean hannity, the buzz, malzberg and bey, steve malzberg, tom martino, richard bey, mike savage, batchelor and alexander, george weber, bruce anderson, babita hariani, mayor mike bloomberg, the matt drudge show, bob brinker, religion on the line, mark simone, coast to coast, glenn beck, mark levin, dr. walt larimore, keith olbermann">
+<meta name="keywords" content="News Talk Radio 77 wabc-am,news talk radio,news/talk radio,news-talk radio,77,770,wabc,wabc-am,wabc,news,770 am,news radio,talk radio,radio,radio stations,new york radio,new york stations,contests,new york contests,radio contests,the curtis and kuby show,curtis sliwa,john gambling,paul harvey,rush limbaugh,sean hannity,the buzz,malzberg and bey,steve malzberg,tom martino,richard bey,mike savage,batchelor and alexander,george weber,bruce anderson,babita hariani,mayor mike bloomberg,the matt drudge show,bob brinker,religion on the line,mark simone,coast to coast,glenn beck,mark levin,dr. walt larimore,keith olbermann,imus,don imus,Imus morning,imus show,imu">
 <meta name="MSSmartTagsPreventParsing" content="true">
 
 
@@ -129,7 +139,7 @@ function imageOn(IMGName) {
 </script>
 
 <link rel="stylesheet" href="../stylesheets/sectional1.css" type="text/css">
-<link rel="stylesheet" href="../stylesheets/allpages.css" type="text/css">
+<link rel="stylesheet" href="../udf/styles.css" type="text/css">
 <link href="/stylesheets/nav.css" rel="stylesheet" type="text/css" id="NavStyles">
 <script language="javascript">
 <!--
@@ -233,34 +243,31 @@ function stopSound(whSound) { if (window.auCon) auCon.control(whSound,false); }
 _uacct = "UA-815910-21";
 urchinTracker();
 </script>
+
+<script language="Javascript">
+document.execCommand("BackgroundImageCache",false,true);
+</script>
+
+
 </head>
 
 
-
-<body onload="funPositionMenus();init();" class="gBody">
+<body onload="funPositionMenus();" class="gBody">
 
 <div id="Layer4" style="position:absolute; left:773px; top:3px; width:177; height:179px; z-index:5"> 
   <table width="160" border="0" cellspacing="0" cellpadding="0">
 
     <tbody><tr> 
-      <td colspan="2"><script language="JavaScript"> 
-var bnum=new Number(Math.floor(99999999 * Math.random())+1); 
-document.write('<SCR'+'IPT LANGUAGE="JavaScript" '); 
-document.write('SRC="http://servedby.advertising.com/site=736326/size=160600/bnum='+bnum+'/optn=1"></SCR'+'IPT>'); 
-</script><script language="JavaScript" src="http://servedby.advertising.com/site=736326/size=160600/bnum=5814347/optn=1"></script> 
-      </td>
-    </tr>
-    
-    <tr><td valign="top" colspan="2">
+      <td colspan="2"><script language="JavaScript" src="http://ad.doubleclick.net/adj/ms.wabc-am/new-york-ny.5145;dma=001;org=radio_station;state=ny;own=abc_disney;1;sz=160x600;dcopt=ist;ord=9563197?" type="text/javascript"></script>
+<noscript><a href="http://ad.doubleclick.net/jump/ms.wabc-am/new-york-ny.5145;dma=001;org=radio_station;state=ny;own=abc_disney;1;sz=160x600;dcopt=ist;ord=9563197?" target="_blank"><img src="http://ad.doubleclick.net/ad/ms.wabc-am/new-york-ny.5145;dma=001;org=radio_station;state=ny;own=abc_disney;1;sz=160x600;dcopt=ist;ord=9563197?" width="160" height="600" border="0" alt=""></a></noscript></td>
+    </tr>    
+	<tr><td valign="top" colspan="2">
 		<table cellspacing="0" cellpadding="0" border="0" bgcolor="#000000">
 		<tbody><tr><td valign="top">
-			 
 
 		</td></tr>
 		</tbody></table>
-		
     </td></tr><tr>
-    
     <td>
 		
 		  <table width="160" border="0" cellspacing="0" cellpadding="0" height="139">
@@ -274,8 +281,10 @@ document.write('SRC="http://servedby.advertising.com/site=736326/size=160600/bnu
                 </td>
               </tr>
             </tbody></table>
-            <table cellspacing="0" cellpadding="5" border="0"><tbody><tr><td valign="top" align="center"><a target="_blank" href="/ad/click.asp?adID=52889&amp;adRunID=64063"><img src="http://images.radcity.net/5145/1959614.gif" border="0" alt=""></a></td></tr></tbody></table>
-<table cellspacing="0" cellpadding="5" border="0"><tbody><tr><td valign="top" align="center"><a target="_blank" href="/ad/click.asp?adID=52083&amp;adRunID=63191"><img src="http://images.radcity.net/5145/1934154.jpg" border="0" alt=""></a></td></tr></tbody></table>
+            <table cellspacing="0" cellpadding="5" border="0"><tbody><tr><td valign="top" align="center"><script language="JavaScript" src="http://ad.doubleclick.net/adj/ms.xrev.wabc-am/new-york-ny.5145;dma=001;org=radio_station;state=ny;own=abc_disney;1;sz=130x100;ord=9617431?" type="text/javascript"></script>
+<noscript><a href="http://ad.doubleclick.net/jump/ms.xrev.wabc-am/new-york-ny.5145;dma=001;org=radio_station;state=ny;own=abc_disney;1;sz=130x100;ord=9617431?" target="_blank"><img src="http://ad.doubleclick.net/ad/ms.xrev.wabc-am/new-york-ny.5145;dma=001;org=radio_station;state=ny;own=abc_disney;1;sz=130x100;ord=9617431?" width="130" height="100" border="0" alt=""></a></noscript></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="5" border="0"><tbody><tr><td valign="top" align="center"><script language="JavaScript" src="http://ad.doubleclick.net/adj/ms.xrev.wabc-am/new-york-ny.5145;dma=001;org=radio_station;state=ny;own=abc_disney;1;sz=130x100;ord=1389540?" type="text/javascript"></script>
+<noscript><a href="http://ad.doubleclick.net/jump/ms.xrev.wabc-am/new-york-ny.5145;dma=001;org=radio_station;state=ny;own=abc_disney;1;sz=130x100;ord=1389540?" target="_blank"><img src="http://ad.doubleclick.net/ad/ms.xrev.wabc-am/new-york-ny.5145;dma=001;org=radio_station;state=ny;own=abc_disney;1;sz=130x100;ord=1389540?" width="130" height="100" border="0" alt=""></a></noscript></td></tr></tbody></table>
 
     </td>
     </tr>
@@ -292,7 +301,14 @@ document.write('SRC="http://servedby.advertising.com/site=736326/size=160600/bnu
               </tr>
               <tr align="left" valign="middle"> 
                 <td align="center"><img src="/images/trans.gif" width="15" height="90"></td>
-                <td width="728" align="center"><a target="_blank" href="/ad/click.asp?adID=49985&amp;adRunID=60994"><img src="http://images.radcity.net/5145/1876025.gif" border="0" alt=""></a>
+                <td width="728" align="center">
+                <script type="text/javascript">
+var ACE_AR = {Site: '736329', Size: '728090'};
+</script>
+<script type="text/javascript" src="http://uac.advertising.com/wrapper/aceUAC.js"></script>
+<noscript>
+<IFRAME SRC="http://ace.advertising.com/site=736329/size=728090/bnum=34577324/tags=1/rich=0/optn=1/ns=1" scrolling="no" width="728" height="90" frameborder="0" marginheight="0" marginwidth="0" title="Advertisement"></IFRAME>
+</noscript> 
                 </td>
                 <td>&nbsp;</td>
               </tr>
@@ -325,15 +341,13 @@ document.write('SRC="http://servedby.advertising.com/site=736326/size=160600/bnu
               <tbody><tr> 
                 <td width="61"><img src="/images/both_abc.gif" width="61" height="60" usemap="#Map2" border="0"></td>
                 <td nowrap="" width="468" background="/images/both_personalities.jpg">
-                <bgsound id="soundfiles">
-                <a href="/showdj.asp?DJID=1726" onmouseover="imageOn('one');" onmouseout="imageOff('one');"><img src="/images/trans.gif" width="82" height="60" onmouseover="playSound(0)" onmouseout="stopSound(0)" border="0" name="one" alt="The Curtis &amp; Kuby Show"></a><a href="/showdj.asp?DJID=23829" onmouseover="imageOn('two');" onmouseout="imageOff('two');"><img src="/images/trans.gif" width="42" height="60" onmouseover="playSound(1)" onmouseout="stopSound(1)" border="0" name="two" alt="Warner Wolf"></a><a href="/showdj.asp?DJID=7641" onmouseover="imageOn('three');" onmouseout="imageOff('three');"><img src="/images/trans.gif" width="38" height="60" onmouseover="playSound(2)" onmouseout="stopSound(2)" border="0" name="three" alt="John Gambling"></a><a href="/showdj.asp?DJID=1724" onmouseover="imageOn('four');" onmouseout="imageOff('four');"><img src="/images/trans.gif" width="43" height="60" onmouseover="playSound(3)" onmouseout="stopSound(3)" border="0" name="four" alt="Rush Limbaugh"></a><a href="/showdj.asp?DJID=1725" onmouseover="imageOn('five');" onmouseout="imageOff('five');"><img src="/images/trans.gif" width="44" height="60" onmouseover="playSound(4)" onmouseout="stopSound(4)" border="0" name="five" alt="Sean Hannity"></a><a href="/showdj.asp?DJID=12009" onmouseover="imageOn('six');" onmouseout="imageOff('six');"><img src="/images/trans.gif" width="41" height="60" onmouseover="playSound(5)" onmouseout="stopSound(5)" border="0" name="six" alt="Mark Levin"></a><a href="/showdj.asp?DJID=18049" onmouseover="imageOn('seven');" onmouseout="imageOff('seven');"><img src="/images/trans.gif" width="50" height="60" onmouseover="playSound(6)" onmouseout="stopSound(6)" border="0" name="seven" alt="Laura Ingraham"></a><a href="/showdj.asp?DJID=33966" onmouseover="imageOn('eight');" onmouseout="imageOff('eight');"><img src="/images/trans.gif" width="44" height="60" onmouseover="playSound(7)" onmouseout="stopSound(7)" border="0" name="eight" alt="Jerry Agar"></a><a href="/goout.asp?u=http://www.coasttocoastam.com" onmouseover="imageOn('nine');" onmouseout="imageOff('nine');"><img src="/images/trans.gif" width="45" height="60" onmouseover="playSound(8)" onmouseout="stopSound(8)" border="0" name="nine" alt="George Noory"></a><a href="/showdj.asp?DJID=10352" onmouseover="imageOn('ten');" onmouseout="imageOff('ten');"><img src="/images/trans.gif" width="39" height="60" onmouseover="playSound(9)" onmouseout="stopSound(9)" border="0" name="ten" alt="Mark Simone"></a></td>
-				  <!--         <a href="/showdj.asp?DJID=1726" onmouseover="imageOn('one');" onmouseout="imageOff('one');"><img src="/images/trans.gif" width="82" height="60" border="0" name="one" alt="The Curtis & Kuby Show"></a><a href="/showdj.asp?DJID=23829" onmouseover="imageOn('two');" onmouseout="imageOff('two');"><img src="/images/trans.gif" width="42" height="60" border="0" name="two" alt="Warner Wolf"></a><a href="/showdj.asp?DJID=7641" onmouseover="imageOn('three');" onmouseout="imageOff('three');"><img src="/images/trans.gif" width="38" height="60" border="0" name="three" alt="John Gambling"></a><a href="/showdj.asp?DJID=1724" onmouseover="imageOn('four');" onmouseout="imageOff('four');"><img src="/images/trans.gif" width="43" height="60" border="0" name="four" alt="Rush Limbaugh"></a><a href="/showdj.asp?DJID=1725" onmouseover="imageOn('five');" onmouseout="imageOff('five');"><img src="/images/trans.gif" width="44" height="60" border="0" name="five" alt="Sean Hannity"></a><a href="/showdj.asp?DJID=12009" onmouseover="imageOn('six');" onmouseout="imageOff('six');"><img src="/images/trans.gif" width="41" height="60" border="0" name="six" alt="Mark Levin"></a><a href="/showdj.asp?DJID=18049" onmouseover="imageOn('seven');" onmouseout="imageOff('seven');"><img src="/images/trans.gif" width="50" height="60" border="0" name="seven" alt="Laura Ingraham"></a><a href="/showdj.asp?DJID=33966" onmouseover="imageOn('eight');" onmouseout="imageOff('eight');"><img src="/images/trans.gif" width="44" height="60" border="0" name="eight" alt="Jerry Agar"></a><a href="/goout.asp?u=http://www.coasttocoastam.com" onmouseover="imageOn('nine');" onmouseout="imageOff('nine');"><img src="/images/trans.gif" width="45" height="60" border="0" name="nine" alt="George Noory"></a></td>-->
-                       
+                <bgsound id="soundfiles"><a href="/showdj.asp?DJID=1727" onmouseover="imageOn('one');" onmouseout="imageOff('one');"><img src="/images/trans.gif" width="82" height="60" onmouseover="playSound(0)" onmouseout="stopSound(0)" border="0" name="one" alt="Curtis Sliwa"></a><a href="/Article.asp?id=504979" onmouseover="imageOn('two');" onmouseout="imageOff('two');"><img src="/images/trans.gif" width="42" height="60" onmouseover="playSound(1)" onmouseout="stopSound(1)" border="0" name="two" alt="Imus in the Morning"></a><a href="/showdj.asp?DJID=7641" onmouseover="imageOn('three');" onmouseout="imageOff('three');"><img src="/images/trans.gif" width="38" height="60" onmouseover="playSound(2)" onmouseout="stopSound(2)" border="0" name="three" alt="John Gambling"></a><a href="/showdj.asp?DJID=1724" onmouseover="imageOn('four');" onmouseout="imageOff('four');"><img src="/images/trans.gif" width="43" height="60" onmouseover="playSound(3)" onmouseout="stopSound(3)" border="0" name="four" alt="Rush Limbaugh"></a><a href="/showdj.asp?DJID=1725" onmouseover="imageOn('five');" onmouseout="imageOff('five');"><img src="/images/trans.gif" width="44" height="60" onmouseover="playSound(4)" onmouseout="stopSound(4)" border="0" name="five" alt="Sean Hannity"></a><a href="/showdj.asp?DJID=12009" onmouseover="imageOn('six');" onmouseout="imageOff('six');"><img src="/images/trans.gif" width="41" height="60" onmouseover="playSound(5)" onmouseout="stopSound(5)" border="0" name="six" alt="Mark Levin"></a><a href="/showdj.asp?DJID=39402" onmouseover="imageOn('seven');" onmouseout="imageOff('seven');"><img src="/images/trans.gif" width="44" height="60" onmouseover="playSound(6)" onmouseout="stopSound(6)" border="0" name="seven" alt="Bob Grant"></a><a href="/showdj.asp?DJID=18049" onmouseover="imageOn('eight');" onmouseout="imageOff('eight');"><img src="/images/trans.gif" width="50" height="60" onmouseover="playSound(7)" onmouseout="stopSound(7)" border="0" name="eight" alt="Laura Ingraham"></a><a href="/goout.asp?u=http://www.coasttocoastam.com" onmouseover="imageOn('nine');" onmouseout="imageOff('nine');"><img src="/images/trans.gif" width="45" height="60" onmouseover="playSound(8)" onmouseout="stopSound(8)" border="0" name="nine" alt="George Noory"></a><a href="/showdj.asp?DJID=10352" onmouseover="imageOn('ten');" onmouseout="imageOff('ten');"><img src="/images/trans.gif" width="39" height="60" onmouseover="playSound(9)" onmouseout="stopSound(9)" border="0" name="ten" alt="Mark Simone"></a></td>				   
               </tr>
             </tbody></table></td>
         </tr>
         <tr> 
           <td width="189" height="112" valign="top">
+          
 <script language="javascript" type="text/javascript">
 /* <![CDATA[ */
 // updated djb 12/19/00, need full url path for link to flash download
@@ -369,11 +383,16 @@ function testPlugins(nRequiredVersion) {
 		}
 		else if (windows) {
 			document.writeln('<sc'+'ript language="vbscript">');
+			
+			//document.writeln('alert ("nRequiredVersion: " & nRequiredVersion)');
+			
 			document.writeln('on error resume next');
 			document.writeln('flashenabled = false');
 			document.writeln('dim i');
-			document.writeln('For i = 8 to nRequiredVersion Step -1');
+			document.writeln('For i = 9 to ' + nRequiredVersion + ' Step -1');
 			document.writeln('	flashenabled = IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash." & i))');
+//document.writeln('alert (i & ": " & flashenabled)');
+			
 			document.writeln('	if flashenabled then');
 			document.writeln('		exit for');
 			document.writeln('	end if');
@@ -389,7 +408,9 @@ function testPlugins(nRequiredVersion) {
 		for(var i=0; i < navigator.plugins.length; i++) {
 			if (navigator.plugins[i].name == "Shockwave Flash") {
 				nPlayerVersion = parseInt(navigator.plugins[i].description.substring(navigator.plugins[i].description.indexOf(".")-1));
-				if (nPlayerVersion >= 7) flashenabled = true;
+				if (nPlayerVersion >= 9) flashenabled = true;
+				else if (nPlayerVersion >= 8 && nRequiredVersion < 9) flashenabled = true;
+				else if (nPlayerVersion >= 7 && nRequiredVersion < 8) flashenabled = true;
 				else if (nPlayerVersion >= 6 && nRequiredVersion < 7) flashenabled = true;
 				else if (nPlayerVersion >= 5 && nRequiredVersion < 6) flashenabled = true;
 				else if (nPlayerVersion >= 4 && nRequiredVersion < 5) flashenabled = true;
@@ -416,7 +437,6 @@ if ( flashenabled ) {
 }
 //-->
 </script><img src="/flash/both_listenlive_020206_des.jpg" usemap="#listenlive" width="189" height="112" border="0"><noembed><IMG src="/flash/both_listenlive_020206_des.jpg" width="189" height="112" BORDER=0 usemap="#listenlive"></noembed><noscript><img src="/flash/both_listenlive_020206_des.jpg" width="189" height="112" BORDER=0 usemap="#listenlive"></noscript><map name="listenlive"><area shape="RECT" coords="21,87,172,107" href="/article.asp?id=122648"></map></td><td width="341">
-										
 <script language="javascript" type="text/javascript">
 /* <![CDATA[ */
 // updated djb 12/19/00, need full url path for link to flash download
@@ -452,11 +472,16 @@ function testPlugins(nRequiredVersion) {
 		}
 		else if (windows) {
 			document.writeln('<sc'+'ript language="vbscript">');
+			
+			//document.writeln('alert ("nRequiredVersion: " & nRequiredVersion)');
+			
 			document.writeln('on error resume next');
 			document.writeln('flashenabled = false');
 			document.writeln('dim i');
-			document.writeln('For i = 8 to nRequiredVersion Step -1');
+			document.writeln('For i = 9 to ' + nRequiredVersion + ' Step -1');
 			document.writeln('	flashenabled = IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash." & i))');
+//document.writeln('alert (i & ": " & flashenabled)');
+			
 			document.writeln('	if flashenabled then');
 			document.writeln('		exit for');
 			document.writeln('	end if');
@@ -472,7 +497,9 @@ function testPlugins(nRequiredVersion) {
 		for(var i=0; i < navigator.plugins.length; i++) {
 			if (navigator.plugins[i].name == "Shockwave Flash") {
 				nPlayerVersion = parseInt(navigator.plugins[i].description.substring(navigator.plugins[i].description.indexOf(".")-1));
-				if (nPlayerVersion >= 7) flashenabled = true;
+				if (nPlayerVersion >= 9) flashenabled = true;
+				else if (nPlayerVersion >= 8 && nRequiredVersion < 9) flashenabled = true;
+				else if (nPlayerVersion >= 7 && nRequiredVersion < 8) flashenabled = true;
 				else if (nPlayerVersion >= 6 && nRequiredVersion < 7) flashenabled = true;
 				else if (nPlayerVersion >= 5 && nRequiredVersion < 6) flashenabled = true;
 				else if (nPlayerVersion >= 4 && nRequiredVersion < 5) flashenabled = true;
@@ -492,7 +519,7 @@ function testPlugins(nRequiredVersion) {
 <script language="JavaScript">
 <!--
 if ( flashenabled ) {
-	document.write('<OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" WIDTH=340 HEIGHT=112><PARAM NAME=movie VALUE="http://sandbox.wabcradio.com/flash/both_onairnow_072202_des.swf?cacheID=11871&TalentName=11871&TalentTime=11871"><PARAM NAME=menu VALUE=false><PARAM NAME=quality VALUE=high><EMBED src="http://sandbox.wabcradio.com/flash/both_onairnow_072202_des.swf?cacheID=11871&TalentName=11871&TalentTime=11871" WIDTH="340" HEIGHT="112" menu=false quality=high swLiveConnect=FALSE TYPE="application/x-shockwave-flash" PLUGINSPAGE="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></EMBED></OBJECT>');
+	document.write('<OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" WIDTH=340 HEIGHT=112><PARAM NAME=movie VALUE="/flash/both_onairnow_072202_des.swf?cacheID=11679&TalentName=11679&TalentTime=11679"><PARAM NAME=menu VALUE=false><PARAM NAME=quality VALUE=high><EMBED src="/flash/both_onairnow_072202_des.swf?cacheID=11679&TalentName=11679&TalentTime=11679" WIDTH="340" HEIGHT="112" menu=false quality=high swLiveConnect=FALSE TYPE="application/x-shockwave-flash" PLUGINSPAGE="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></EMBED></OBJECT>');
 } else if (!(appNm && appNm.indexOf("Netscape")>=0 && appVr.indexOf("2.")>=0)){
 	if (choice()) window.top.location.href = "http://" + location.host + "/goout.asp?u=http://macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash";
 	else document.write('<IMG SRC="/flash/noflash.jpg" USEMAP="#navbar" WIDTH="340" HEIGHT="112" BORDER=0>');
@@ -524,107 +551,137 @@ if ( flashenabled ) {
 								//-->
 								</script><table id="table1" cellpadding="0" cellspacing="0" class="navMainNavTable"><tbody><tr>
 <td class="MainNavBG">
-<div id="div1_1" class="MainNav" onmouseover="funShowSub('1_1');" onmouseout="funDelayHideSub('1_1');" style="cursor:default;">Station Info</div>
+<div id="div1_1" class="MainNav" onmouseover="funShowSub('1_1');" onmouseout="funDelayHideSub('1_1');" onclick="document.location='http://www.wabcradio.com/article.asp?id=122648';" style="cursor:pointer">77WABC STREAMING LISTEN LIVE</div>
 <div class="Separator"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
-<div id="div1_2" class="MainNav" onmouseover="funShowSub('1_2');" onmouseout="funDelayHideSub('1_2');" style="cursor:default;">Contests/Events</div>
+<div id="div1_2" class="MainNav" onmouseover="funShowSub('1_2');" onmouseout="funDelayHideSub('1_2');" style="cursor:default;">Personalities</div>
 <div class="Separator"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
-<div id="div1_3" class="MainNav" onmouseover="funShowSub('1_3');" onmouseout="funDelayHideSub('1_3');" style="cursor:default;">Message Boards &amp; Blogs</div>
+<div id="div1_3" class="MainNav" onmouseover="funShowSub('1_3');" onmouseout="funDelayHideSub('1_3');" style="cursor:default;">Contests/Events</div>
 <div class="Separator"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
-<div id="div1_4" class="MainNav" onmouseover="funShowSub('1_4');" onmouseout="funDelayHideSub('1_4');" onclick="document.location='/Article.asp?id=166880';" style="cursor:pointer">Oldies Page</div>
+<div id="div1_4" class="MainNav" onmouseover="funShowSub('1_4');" onmouseout="funDelayHideSub('1_4');" style="cursor:default;">Message Boards &amp; Blogs</div>
 <div class="Separator"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
-<div id="div1_5" class="MainNav" onmouseover="funShowSub('1_5');" onmouseout="funDelayHideSub('1_5');" onclick="document.location='/Article.asp?id=430458';" style="cursor:pointer">Celebrate Independence Day</div>
+<div id="div1_5" class="MainNav" onmouseover="funShowSub('1_5');" onmouseout="funDelayHideSub('1_5');" onclick="document.location='http://dealsfortristate.com/intro.php';" style="cursor:pointer">Dining Deals</div>
 <div class="Separator"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
-<div id="div1_6" class="MainNav" onmouseover="funShowSub('1_6');" onmouseout="funDelayHideSub('1_6');" onclick="document.location='http://dealsfortristate.com/intro.php';" style="cursor:pointer">Dining Deals</div>
+<div id="div1_6" class="MainNav" onmouseover="funShowSub('1_6');" onmouseout="funDelayHideSub('1_6');" onclick="document.location='/Article.asp?id=429025';" style="cursor:pointer">Traffic Center</div>
 <div class="Separator"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
-<div id="div1_7" class="MainNav" onmouseover="funShowSub('1_7');" onmouseout="funDelayHideSub('1_7');" onclick="document.location='/Article.asp?id=429025';" style="cursor:pointer">Traffic Center</div>
+<div id="div1_7" class="MainNav" onmouseover="funShowSub('1_7');" onmouseout="funDelayHideSub('1_7');" onclick="document.location='/article.asp?id=166878';" style="cursor:pointer">Erik Hastings Travel Page</div>
 <div class="Separator"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
-<div id="div1_8" class="MainNav" onmouseover="funShowSub('1_8');" onmouseout="funDelayHideSub('1_8');" style="cursor:default;">Community Affairs</div>
+<div id="div1_8" class="MainNav" onmouseover="funShowSub('1_8');" onmouseout="funDelayHideSub('1_8');" style="cursor:default;">WABC Advertisers</div>
 <div class="Separator"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
-<div id="div1_9" class="MainNav" onmouseover="funShowSub('1_9');" onmouseout="funDelayHideSub('1_9');" onclick="document.location='/jobs.asp';" style="cursor:pointer">Our Jobs</div>
+<div id="div1_9" class="MainNav" onmouseover="funShowSub('1_9');" onmouseout="funDelayHideSub('1_9');" onclick="document.location='/Article.asp?id=166880';" style="cursor:pointer">Oldies Page</div>
 <div class="Separator"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
-<div id="div1_10" class="MainNav" onmouseover="funShowSub('1_10');" onmouseout="funDelayHideSub('1_10');" onclick="document.location='/sectional.asp?id=5825';" style="cursor:pointer">Sports</div>
+<div id="div1_10" class="MainNav" onmouseover="funShowSub('1_10');" onmouseout="funDelayHideSub('1_10');" onclick="document.location='/sectional.asp?id=5825';" style="cursor:pointer">Sports on WABC</div>
 <div class="Separator"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
-<div id="div1_11" class="MainNav" onmouseover="funShowSub('1_11');" onmouseout="funDelayHideSub('1_11');" style="cursor:default;">WABC Advertisers</div>
+<div id="div1_11" class="MainNav" onmouseover="funShowSub('1_11');" onmouseout="funDelayHideSub('1_11');" style="cursor:default;">Station Info</div>
 <div class="Separator"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
-<div id="div1_12" class="MainNav" onmouseover="funShowSub('1_12');" onmouseout="funDelayHideSub('1_12');" onclick="document.location='/article.asp?id=166878';" style="cursor:pointer">Erik Hastings Travel Page</div>
+<div id="div1_12" class="MainNav" onmouseover="funShowSub('1_12');" onmouseout="funDelayHideSub('1_12');" onclick="document.location='/jobs.asp';" style="cursor:pointer">Our Jobs</div>
+<div class="Separator"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
+<div id="div1_13" class="MainNav" onmouseover="funShowSub('1_13');" onmouseout="funDelayHideSub('1_13');" style="cursor:default;">Community Affairs</div>
 </td></tr></tbody></table>
 <style type="text/css"><!--
-#sub1_1 {position:absolute; width:103.5; z-index:5001; visibility:hidden;}
+#sub1_2 {position:absolute; width:158.70000000000002; z-index:5001; visibility:hidden;}
 //--></style>
-<div id="sub1_1" onmouseover="gbOverMenu=true;" onmouseout="gbOverMenu=false;funDelayHideSub('1_1');" style="top: 321px; left: 166px; visibility: hidden;"><layer name="sub1_1" onmouseover="gbOverMenu=true;" onmouseout="gbOverMenu=false;funDelayHideSub('1_1');">
-<table id="table1_1" class="SubMenuTable" cellpadding="0" cellspacing="0" width="103.5"><tbody><tr><td class="SubMenuBG">
-<div id="div1_1_2" class="SubMenu" width="103.5" onmouseover="funShowSub('1_1_2');" onmouseout="funDelayHideSub('1_1_2');" onclick="document.location='/Article.asp?id=122651';" style="cursor:pointer">Contact WABC</div>
+<div id="sub1_2" onmouseover="gbOverMenu=true;" onmouseout="gbOverMenu=false;funDelayHideSub('1_2');" style="top: 351px; left: 166px; visibility: hidden;"><layer name="sub1_2" onmouseover="gbOverMenu=true;" onmouseout="gbOverMenu=false;funDelayHideSub('1_2');">
+<table id="table1_2" class="SubMenuTable" cellpadding="0" cellspacing="0" width="158.70000000000002"><tbody><tr><td class="SubMenuBG">
+<div id="div1_2_2" class="SubMenu" width="158.70000000000002" onmouseover="funShowSub('1_2_2');" onmouseout="funDelayHideSub('1_2_2');" onclick="document.location='/personalityprofile.asp';" style="cursor:pointer">Personality Profiles</div>
 <div class="SubSeparator"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
-<div id="div1_1_3" class="SubMenu" width="103.5" onmouseover="funShowSub('1_1_3');" onmouseout="funDelayHideSub('1_1_3');" onclick="document.location='/sectional.asp?id=5880';" style="cursor:pointer">Call for Action</div>
-</td></tr></tbody></table></layer></div>
-<style type="text/css"><!--
-#sub1_2 {position:absolute; width:82.80000000000001; z-index:5001; visibility:hidden;}
-//--></style>
-<div id="sub1_2" onmouseover="gbOverMenu=true;" onmouseout="gbOverMenu=false;funDelayHideSub('1_2');" style="top: 337px; left: 166px; visibility: hidden;"><layer name="sub1_2" onmouseover="gbOverMenu=true;" onmouseout="gbOverMenu=false;funDelayHideSub('1_2');">
-<table id="table1_2" class="SubMenuTable" cellpadding="0" cellspacing="0" width="82.80000000000001"><tbody><tr><td class="SubMenuBG">
-<div id="div1_2_2" class="SubMenu" width="82.80000000000001" onmouseover="funShowSub('1_2_2');" onmouseout="funDelayHideSub('1_2_2');" onclick="document.location='/sectional.asp?id=5821';" style="cursor:pointer">Contests</div>
+<div id="div1_2_3" class="SubMenu" width="158.70000000000002" onmouseover="funShowSub('1_2_3');" onmouseout="funDelayHideSub('1_2_3');" onclick="document.location='/programming.asp';" style="cursor:pointer">Program Schedule</div>
 <div class="SubSeparator"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
-<div id="div1_2_3" class="SubMenu" width="82.80000000000001" onmouseover="funShowSub('1_2_3');" onmouseout="funDelayHideSub('1_2_3');" onclick="document.location='/sectional.asp?id=5823';" style="cursor:pointer">Local Events</div>
+<div id="div1_2_4" class="SubMenu" width="158.70000000000002" onmouseover="funShowSub('1_2_4');" onmouseout="funDelayHideSub('1_2_4');" onclick="document.location='/emailaddresses.asp';" style="cursor:pointer">Email our personalities</div>
+<div class="SubSeparator"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
+<div id="div1_2_5" class="SubMenu" width="158.70000000000002" onmouseover="funShowSub('1_2_5');" onmouseout="funDelayHideSub('1_2_5');" onclick="document.location='/photowall.asp';" style="cursor:pointer">Photo Gallery</div>
 </td></tr></tbody></table></layer></div>
 <style type="text/css"><!--
 #sub1_3 {position:absolute; width:82.80000000000001; z-index:5001; visibility:hidden;}
 //--></style>
-<div id="sub1_3" onmouseover="gbOverMenu=true;" onmouseout="gbOverMenu=false;funDelayHideSub('1_3');" style="top: 353px; left: 166px; visibility: hidden;"><layer name="sub1_3" onmouseover="gbOverMenu=true;" onmouseout="gbOverMenu=false;funDelayHideSub('1_3');">
+<div id="sub1_3" onmouseover="gbOverMenu=true;" onmouseout="gbOverMenu=false;funDelayHideSub('1_3');" style="top: 367px; left: 166px; visibility: hidden;"><layer name="sub1_3" onmouseover="gbOverMenu=true;" onmouseout="gbOverMenu=false;funDelayHideSub('1_3');">
 <table id="table1_3" class="SubMenuTable" cellpadding="0" cellspacing="0" width="82.80000000000001"><tbody><tr><td class="SubMenuBG">
-<div id="div1_3_2" class="SubMenu" width="82.80000000000001" onmouseover="funShowSub('1_3_2');" onmouseout="funDelayHideSub('1_3_2');" onclick="document.location='/goout.asp?u=http://www.hannity.com/forum/forumdisplay.php?f=10';" style="cursor:pointer">Sean Hannity</div>
+<div id="div1_3_2" class="SubMenu" width="82.80000000000001" onmouseover="funShowSub('1_3_2');" onmouseout="funDelayHideSub('1_3_2');" onclick="document.location='/sectional.asp?id=5821';" style="cursor:pointer">Contests</div>
 <div class="SubSeparator"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
-<div id="div1_3_3" class="SubMenu" width="82.80000000000001" onmouseover="funShowSub('1_3_3');" onmouseout="funDelayHideSub('1_3_3');" onclick="document.location='http://www.hannity.com/forum/forumdisplay.php?f=26';" style="cursor:pointer">Mark Levin</div>
-<div class="SubSeparator"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
-<div id="div1_3_4" class="SubMenu" width="82.80000000000001" onmouseover="funShowSub('1_3_4');" onmouseout="funDelayHideSub('1_3_4');" onclick="document.location='/blog.asp?id=12680';" style="cursor:pointer">Jerry Agar</div>
+<div id="div1_3_3" class="SubMenu" width="82.80000000000001" onmouseover="funShowSub('1_3_3');" onmouseout="funDelayHideSub('1_3_3');" onclick="document.location='/sectional.asp?id=5823';" style="cursor:pointer">Local Events</div>
 </td></tr></tbody></table></layer></div>
 <style type="text/css"><!--
-#sub1_8 {position:absolute; width:193.20000000000002; z-index:5001; visibility:hidden;}
+#sub1_4 {position:absolute; width:82.80000000000001; z-index:5001; visibility:hidden;}
+//--></style>
+<div id="sub1_4" onmouseover="gbOverMenu=true;" onmouseout="gbOverMenu=false;funDelayHideSub('1_4');" style="top: 383px; left: 166px; visibility: hidden;"><layer name="sub1_4" onmouseover="gbOverMenu=true;" onmouseout="gbOverMenu=false;funDelayHideSub('1_4');">
+<table id="table1_4" class="SubMenuTable" cellpadding="0" cellspacing="0" width="82.80000000000001"><tbody><tr><td class="SubMenuBG">
+<div id="div1_4_2" class="SubMenu" width="82.80000000000001" onmouseover="funShowSub('1_4_2');" onmouseout="funDelayHideSub('1_4_2');" onclick="document.location='/goout.asp?u=http://www.hannity.com/forum/forumdisplay.php?f=10';" style="cursor:pointer">Sean Hannity</div>
+<div class="SubSeparator"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
+<div id="div1_4_3" class="SubMenu" width="82.80000000000001" onmouseover="funShowSub('1_4_3');" onmouseout="funDelayHideSub('1_4_3');" onclick="document.location='http://www.hannity.com/forum/forumdisplay.php?f=26';" style="cursor:pointer">Mark Levin</div>
+</td></tr></tbody></table></layer></div>
+<style type="text/css"><!--
+#sub1_8 {position:absolute; width:117.30000000000001; z-index:5001; visibility:hidden;}
 //--></style>
 <div id="sub1_8" onmouseover="gbOverMenu=true;" onmouseout="gbOverMenu=false;funDelayHideSub('1_8');" style="top: 447px; left: 166px; visibility: hidden;"><layer name="sub1_8" onmouseover="gbOverMenu=true;" onmouseout="gbOverMenu=false;funDelayHideSub('1_8');">
-<table id="table1_8" class="SubMenuTable" cellpadding="0" cellspacing="0" width="193.20000000000002"><tbody><tr><td class="SubMenuBG">
-<div id="div1_8_2" class="SubMenu" width="193.20000000000002" onmouseover="funShowSub('1_8_2');" onmouseout="funDelayHideSub('1_8_2');" onclick="document.location='/community/communitycalendar.asp';" style="cursor:pointer">Community Calendar</div>
+<table id="table1_8" class="SubMenuTable" cellpadding="0" cellspacing="0" width="117.30000000000001"><tbody><tr><td class="SubMenuBG">
+<div id="div1_8_2" class="SubMenu" width="117.30000000000001" onmouseover="funShowSub('1_8_2');" onmouseout="funDelayHideSub('1_8_2');" onclick="document.location='/coupons.asp';" style="cursor:pointer">WABC Partners</div>
 <div class="SubSeparator"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
-<div id="div1_8_3" class="SubMenu" width="193.20000000000002" onmouseover="funShowSub('1_8_3');" onmouseout="funDelayHideSub('1_8_3');" onclick="document.location='/article.asp?id=122650';" style="cursor:pointer">Public Service Announcements</div>
+<div id="div1_8_3" class="SubMenu" width="117.30000000000001" onmouseover="funShowSub('1_8_3');" onmouseout="funDelayHideSub('1_8_3');" onclick="document.location='/article.asp?id=122641';" style="cursor:pointer">Advertise with us</div>
 </td></tr></tbody></table></layer></div>
 <style type="text/css"><!--
-#sub1_11 {position:absolute; width:131.1; z-index:5001; visibility:hidden;}
+#sub1_10 {position:absolute; width:144.9; z-index:5001; visibility:hidden;}
+//--></style>
+<div id="sub1_10" onmouseover="gbOverMenu=true;" onmouseout="gbOverMenu=false;funDelayHideSub('1_10');" style="top: 479px; left: 166px; visibility: hidden;"><layer name="sub1_10" onmouseover="gbOverMenu=true;" onmouseout="gbOverMenu=false;funDelayHideSub('1_10');">
+<table id="table1_10" class="SubMenuTable" cellpadding="0" cellspacing="0" width="144.9"><tbody><tr><td class="SubMenuBG">
+<div id="div1_10_2" class="SubMenu" width="144.9" onmouseover="funShowSub('1_10_2');" onmouseout="funDelayHideSub('1_10_2');" onclick="document.location='/sectional.asp?id=5825';" style="cursor:pointer">Sports on WABC</div>
+<div class="SubSeparator"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
+<div id="div1_10_3" class="SubMenu" width="144.9" onmouseover="funShowSub('1_10_3');" onmouseout="funDelayHideSub('1_10_3');" onclick="document.location='http://images.radcity.net/5145/2191105.xls';" style="cursor:pointer">Play-by-Play Schedule</div>
+</td></tr></tbody></table></layer></div>
+<style type="text/css"><!--
+#sub1_11 {position:absolute; width:144.9; z-index:5001; visibility:hidden;}
 //--></style>
 <div id="sub1_11" onmouseover="gbOverMenu=true;" onmouseout="gbOverMenu=false;funDelayHideSub('1_11');" style="top: 495px; left: 166px; visibility: hidden;"><layer name="sub1_11" onmouseover="gbOverMenu=true;" onmouseout="gbOverMenu=false;funDelayHideSub('1_11');">
-<table id="table1_11" class="SubMenuTable" cellpadding="0" cellspacing="0" width="131.1"><tbody><tr><td class="SubMenuBG">
-<div id="div1_11_2" class="SubMenu" width="131.1" onmouseover="funShowSub('1_11_2');" onmouseout="funDelayHideSub('1_11_2');" onclick="document.location='/article.asp?id=122641';" style="cursor:pointer">Advertise with WABC</div>
+<table id="table1_11" class="SubMenuTable" cellpadding="0" cellspacing="0" width="144.9"><tbody><tr><td class="SubMenuBG">
+<div id="div1_11_2" class="SubMenu" width="144.9" onmouseover="funShowSub('1_11_2');" onmouseout="funDelayHideSub('1_11_2');" onclick="document.location='/Article.asp?id=122651';" style="cursor:pointer">Contact WABC</div>
 <div class="SubSeparator"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
-<div id="div1_11_3" class="SubMenu" width="131.1" onmouseover="funShowSub('1_11_3');" onmouseout="funDelayHideSub('1_11_3');" onclick="document.location='/coupons.asp';" style="cursor:pointer">WABC Advertisers</div>
+<div id="div1_11_3" class="SubMenu" width="144.9" onmouseover="funShowSub('1_11_3');" onmouseout="funDelayHideSub('1_11_3');" onclick="document.location='/sectional.asp?id=5880';" style="cursor:pointer">Call for Action</div>
+<div class="SubSeparator"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
+<div id="div1_11_4" class="SubMenu" width="144.9" onmouseover="funShowSub('1_11_4');" onmouseout="funDelayHideSub('1_11_4');" onclick="document.location='http://www.wabcradio.com//Article.asp?id=462128';" style="cursor:pointer">Internet Terms of Use</div>
 </td></tr></tbody></table></layer></div>
-<noscript><a href="/Article.asp?id=166880">Oldies Page</a><br>
-<a href="/Article.asp?id=430458">Celebrate Independence Day</a><br>
-<a href="http://dealsfortristate.com/intro.php">Dining Deals</a><br>
-<a href="/Article.asp?id=429025">Traffic Center</a><br>
-<a href="/jobs.asp">Our Jobs</a><br>
-<a href="/sectional.asp?id=5825">Sports</a><br>
-<a href="/article.asp?id=166878">Erik Hastings Travel Page</a><br>
-<a href="/community/communitycalendar.asp">Community Calendar</a><br>
-<a href="/article.asp?id=122650">Public Service Announcements</a><br>
-<a href="/Article.asp?id=122651">Contact WABC</a><br>
-<a href="/sectional.asp?id=5880">Call for Action</a><br>
-<a href="/goout.asp?u=http://www.hannity.com/forum/forumdisplay.php?f=10">Sean Hannity</a><br>
-<a href="http://www.hannity.com/forum/forumdisplay.php?f=26">Mark Levin</a><br>
-<a href="/blog.asp?id=12680">Jerry Agar</a><br>
-<a href="/article.asp?id=122641">Advertise with WABC</a><br>
-<a href="/coupons.asp">WABC Advertisers</a><br>
-<a href="/sectional.asp?id=5821">Contests</a><br>
-<a href="/sectional.asp?id=5823">Local Events</a><br>
+<style type="text/css"><!--
+#sub1_13 {position:absolute; width:193.20000000000002; z-index:5001; visibility:hidden;}
+//--></style>
+<div id="sub1_13" onmouseover="gbOverMenu=true;" onmouseout="gbOverMenu=false;funDelayHideSub('1_13');" style="top: 527px; left: 166px; visibility: hidden;"><layer name="sub1_13" onmouseover="gbOverMenu=true;" onmouseout="gbOverMenu=false;funDelayHideSub('1_13');">
+<table id="table1_13" class="SubMenuTable" cellpadding="0" cellspacing="0" width="193.20000000000002"><tbody><tr><td class="SubMenuBG">
+<div id="div1_13_2" class="SubMenu" width="193.20000000000002" onmouseover="funShowSub('1_13_2');" onmouseout="funDelayHideSub('1_13_2');" onclick="document.location='/community/communitycalendar.asp';" style="cursor:pointer">Community Calendar</div>
+<div class="SubSeparator"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
+<div id="div1_13_3" class="SubMenu" width="193.20000000000002" onmouseover="funShowSub('1_13_3');" onmouseout="funDelayHideSub('1_13_3');" onclick="document.location='/article.asp?id=122650';" style="cursor:pointer">Public Service Announcements</div>
+</td></tr></tbody></table></layer></div>
+<noscript><a href="http://www.wabcradio.com/article.asp?id=122648">77WABC STREAMING LISTEN LIVE</a><br />
+<a href="http://dealsfortristate.com/intro.php">Dining Deals</a><br />
+<a href="/Article.asp?id=429025">Traffic Center</a><br />
+<a href="/article.asp?id=166878">Erik Hastings Travel Page</a><br />
+<a href="/Article.asp?id=166880">Oldies Page</a><br />
+<a href="/sectional.asp?id=5825">Sports on WABC</a><br />
+<a href="/jobs.asp">Our Jobs</a><br />
+<a href="/community/communitycalendar.asp">Community Calendar</a><br />
+<a href="/article.asp?id=122650">Public Service Announcements</a><br />
+<a href="/Article.asp?id=122651">Contact WABC</a><br />
+<a href="/sectional.asp?id=5880">Call for Action</a><br />
+<a href="http://www.wabcradio.com//Article.asp?id=462128">Internet Terms of Use</a><br />
+<a href="/sectional.asp?id=5825">Sports on WABC</a><br />
+<a href="http://images.radcity.net/5145/2191105.xls">Play-by-Play Schedule</a><br />
+<a href="/goout.asp?u=http://www.hannity.com/forum/forumdisplay.php?f=10">Sean Hannity</a><br />
+<a href="http://www.hannity.com/forum/forumdisplay.php?f=26">Mark Levin</a><br />
+<a href="/coupons.asp">WABC Partners</a><br />
+<a href="/article.asp?id=122641">Advertise with us</a><br />
+<a href="/sectional.asp?id=5821">Contests</a><br />
+<a href="/sectional.asp?id=5823">Local Events</a><br />
+<a href="/personalityprofile.asp">Personality Profiles</a><br />
+<a href="/programming.asp">Program Schedule</a><br />
+<a href="/emailaddresses.asp">Email our personalities</a><br />
+<a href="/photowall.asp">Photo Gallery</a><br />
 </noscript>
 	</td></tr>
 	<tr><td valign="top" align="center">
-		<a name="Survey"><table class="border=&quot;0&quot;" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top" align="left"><img src="/images/poll_topcap.gif" border="0"><div align="center"><a target="_blank" href="/ad/click.asp?adID=52078&amp;adRunID=63186"><img src="http://images.radcity.net/5145/1933877.gif" border="0" alt=""></a></div></td></tr><tr></tr><tr><td align="left" class="pollTable"><span class="pollText"><form method="POST" action="/survey/AcceptResponse.asp" target="_self" id="form2" name="form2">
-<font class="pollTextQuestion">Are you interested in buying the iPhone?</font>
+		<a name="Survey"><table class="border=&quot;0&quot;" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top" align="left"><img src="/images/poll_topcap.gif" border="0"><div align="center"><a target="_blank" href="/ad/click.asp?adID=61676&amp;adRunID=73184"><img src="http://images.radcity.net/5145/2289008.jpg" border="0" alt=""></a></div></td></tr><tr></tr><tr><td align="left" class="pollTable"><span class="pollText"><form method="POST" action="/survey/AcceptResponse.asp" target="_self" id="form2" name="form2">
+<font class="pollTextQuestion">Are you happy that Imus is back on the air?</font>
 <input type="hidden" name="validate" value="yes">
 <input type="hidden" name="ReturnUrl" value="/default.asp">
 
-<table border="0" cellpadding="0" cellspacing="0">  <input type="HIDDEN" name="ID" value="56390">
-  <tbody><tr>    <td align="LEFT" valign="middle"><input class="gInputFields" type="Radio" name="Response" value="1" onclick="this.form.submit(); return true;"></td><td align="left" valign="middle" style="{padding-top:20px;padding-bottom:0px}"><font size="1"><font class="pollTextAnswers">No, I don’t need it.</font></font></td>  </tr>  <tr>    <td align="LEFT" valign="middle"><input class="gInputFields" type="Radio" name="Response" value="2" onclick="this.form.submit(); return true;"></td><td align="left" valign="middle" style="{padding-top:20px;padding-bottom:0px}"><font size="1"><font class="pollTextAnswers">I am going to buy the second more improved version.</font></font></td><td rowspan="37" valign="MIDDLE">&nbsp;</td>  </tr>  <tr>    <td align="LEFT" valign="middle"><input class="gInputFields" type="Radio" name="Response" value="3" onclick="this.form.submit(); return true;"></td><td align="left" valign="middle" style="{padding-top:20px;padding-bottom:0px}"><font size="1"><font class="pollTextAnswers">Yes, I’m buying it right away.</font></font></td>  </tr></tbody></table>
+<table border="0" cellpadding="0" cellspacing="0">  <input type="HIDDEN" name="ID" value="59632">
+  <tbody><tr>    <td align="LEFT" valign="middle"><input class="gInputFields" type="Radio" name="Response" value="1" onclick="this.form.submit(); return true;"></td><td align="left" valign="middle" style="{padding-top:20px;padding-bottom:0px}"><font size="1"><font class="pollTextAnswers">Of course, are you crazy?</font></font></td>  </tr>  <tr>    <td align="LEFT" valign="middle"><input class="gInputFields" type="Radio" name="Response" value="2" onclick="this.form.submit(); return true;"></td><td align="left" valign="middle" style="{padding-top:20px;padding-bottom:0px}"><font size="1"><font class="pollTextAnswers">I’ve never listened to him before, but I am now!</font></font></td><td rowspan="16572" valign="MIDDLE">&nbsp;</td>  </tr>  <tr>    <td align="LEFT" valign="middle"><input class="gInputFields" type="Radio" name="Response" value="3" onclick="this.form.submit(); return true;"></td><td align="left" valign="middle" style="{padding-top:20px;padding-bottom:0px}"><font size="1"><font class="pollTextAnswers">Wait a minute, you’ve got Imus?</font></font></td>  </tr></tbody></table>
 </form>
-<font class="pollText">Survey based on 37 submissions. 
+<font class="pollText">Survey based on 16572 submissions. 
 <br><br><a class="pollLink" target="_top" href="/survey/default.asp">View Results</a></font></span></td>
 </tr><tr><td colspan="2" class="fText1">
 <font class="pollHeadline"><b></b></font><br>
@@ -644,7 +701,7 @@ if ( flashenabled ) {
         <a href="/weather.asp"><img src="http://www.radcity.net/weather/images/wc-32x/29.gif" border="1" width="26"></a>
         </td>
         <td valign="bottom"><b><a class="cfHeadline2" href="/weather.asp">Partly Cloudy<br>
-          67ºF ,19ºC </a></b></td>
+          35ºF ,2ºC </a></b></td>
       </tr>
       
       <tr>
@@ -663,22 +720,27 @@ if ( flashenabled ) {
       <img src="/images/trans.gif" width="144" height="15"><br><table border="0" width="145" cellpadding="0" cellspacing="0"><tbody><tr><td align="left"></td></tr></tbody></table>
      
     </td>
-
-<td height="18" width="606" valign="top" class="ceSmallText2"><img src="/images/both_printemail.gif" width="600" height="11" usemap="#Map6" border="0"><br>
+<td height="18" width="606" valign="top" class="ceSmallText2"><img src="/images/both_printemail.gif" width="600" height="11" usemap="#both_printemail" border="0"><br>
       <table width="607" border="0" cellspacing="0" cellpadding="0">
         <tbody><tr>
           <td width="14">&nbsp;</td>
-          <td width="606" class="dateText" height="8">Saturday&nbsp;, June&nbsp; 30 </td>
+          <td width="606" class="dateText" height="8">Thursday&nbsp;, December&nbsp; 13 </td>
         </tr>
       </tbody></table>
+      <map name="both_printemail">
+<area shape="RECT" coords="441,0,515,10" href="javascript:print()" alt="Print This Page">
+<area shape="RECT" coords="527,0,605,9" href="/EmailThisPage.asp" alt="Email This Page">
+</map>
       <table width="606" border="0" height="625" cellspacing="0" cellpadding="0">
         <tbody><tr> 
           <td bgcolor="#99CCFF" background="/images/inside_contentback.gif" width="13"><img src="/images/trans.gif" border="0" width="12">
           </td>
           <td bgcolor="#C4E1FF" width="587" valign="top"> 
             <table width="587" border="0" cellspacing="0" cellpadding="0" height="29">
-              <tbody><tr> 
-                <td background="/images/inside_title_blank.gif" class="PageTitles">&nbsp;&nbsp;Privacy Policy</td>
+              <tbody><tr>
+              
+              <td background="/images/inside_title_blank.gif" class="PageTitles" style="text-align:center;font-family:Trebuchet MS,Arial; font-size:23px">Privacy Policy</td>              
+              
               </tr>
             </tbody></table>
             <table width="587" border="0" cellspacing="0" cellpadding="0" background="/images/inside_contentback2.gif">
@@ -687,18 +749,14 @@ if ( flashenabled ) {
 
 		<!--<table border="0" cellpadding="0" cellspacing="0" id="cubeAdInside">
 		  <tr>
-		    <td style="padding-top:10px"><SCRIPT LANGUAGE=JavaScript> 
-var bnum=new Number(Math.floor(99999999 * Math.random())+1); 
-document.write('<SCR'+'IPT LANGUAGE="JavaScript" '); 
-document.write('SRC="http://servedby.advertising.com/site=736331/size=300250/bnum='+bnum+'/optn=1"></SCR'+'IPT>'); 
-</SCRIPT> </td>
+		    <td style="padding-top:10px"><a target="_blank" href="/ad/click.asp?adID=41232&adRunID=51838"><img src="http://images.radcity.net/ads/adc_dhs_action300x250.gif" border=0 alt="Ready.gov"></a></td>
 		  </tr>
 		</table>-->
 		
-		<font class="Text"><p class="MsoNormal" style="MARGIN: 0in 0in 0pt; TEXT-ALIGN: center" align="center"><span class="ftext11"><b style="mso-bidi-font-weight: normal"><span style="FONT-SIZE: 10pt; FONT-FAMILY: Tahoma">WABC PRIVACY POLICY<!--?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /--><o:p></o:p></span></b></span></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span class="ftext11"><span style="FONT-SIZE: 10pt; FONT-FAMILY: Tahoma"><o:p>&nbsp;</o:p></span></span></p><span style="FONT-SIZE: 10pt; FONT-FAMILY: Tahoma"><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-SIZE: 11pt"><font size="2">This site is owned by Citadel Broadcasting Corporation (“Citadel”).<span style="mso-spacerun: yes">&nbsp; </span>Citadel’s privacy policy covers the collection, use and dissemination of personal information that may be collected by Citadel anytime you interact with Citadel on one of its websites, such as when you listen to audio streams, view video streams, visit our websites, when you purchase products, or when you contact Citadel. <span style="mso-spacerun: yes">&nbsp;</span>Please take a moment to read the following to learn more about our information practices, including what type of information is gathered, how the information is used and for what purposes, to whom we disclose the information, and how we safeguard your personal information. <span style="mso-spacerun: yes">&nbsp;&nbsp;</span><o:p></o:p></font></span></p>
-				<div style="float:left;clear:both;padding-top:3px;padding-right:8px;"><a target="_blank" href="/ad/click.asp?adID=53465&amp;adRunID=64666"><img src="http://images.radcity.net/5145/1980510.gif" border="0" alt=""></a></div>
-				<p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-SIZE: 11pt"><o:p><font size="2">&nbsp;</font></o:p></span></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><b><span style="FONT-SIZE: 11pt"><font size="2">Why we collect information. <o:p></o:p></font></span></b></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-SIZE: 11pt"><font size="2">Citadel collects information to assist us in delivering a superior level of product. <span style="mso-spacerun: yes">&nbsp;</span>We collect information to gain a better understanding of our customers and their needs and thus provide more valuable services. <span style="mso-spacerun: yes">&nbsp;</span>This helps us to determine how best to provide useful information to customers and to understand which parts of our websites and Internet services are of most interest to them.<span style="mso-spacerun: yes">&nbsp; </span><o:p></o:p></font></span></p><p><span style="FONT-SIZE: 11pt"><font size="2">It enables us to give you convenient access to our products and services and focus on categories of greatest interest to you. <span style="mso-spacerun: yes">&nbsp;</span>In addition, your personal information helps us keep you posted on the latest product announcements, updates, special offers, promotions, and events that you might like to hear about.<b><o:p></o:p></b></font></span></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><font size="2"><b><span style="FONT-SIZE: 11pt">What information we collect</span></b><span class="small"><span style="FONT-SIZE: 11pt"><o:p></o:p></span></span></font></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span class="small"><span style="FONT-SIZE: 11pt"><font size="2">The information we learn from customers helps us personalize and continually improve your experience with our products and services. <span style="mso-spacerun: yes">&nbsp;</span>Here are the types of information we gather.<o:p></o:p></font></span></span></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span class="small"><span style="FONT-SIZE: 11pt"><o:p><font size="2">&nbsp;</font></o:p></span></span></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt 0.5in"><span class="small"><b><span style="FONT-SIZE: 11pt"><font size="2">Automatic Information:<o:p></o:p></font></span></b></span></p><p class="MsoBodyTextIndent" style="MARGIN: 0in 0in 0pt 0.5in"><span style="FONT-SIZE: 11pt"><font size="2">Our servers automatically collect certain non-personally identifying information, such as your computer’s IP address, the type of browser in use, and pages viewed, streams viewed or listened to and when you visit our Sites. We use this information to understand how visitors navigate through our Sites and use our products, to enhance your experience while using our Sites, and to make the materials we post as valuable to visitors as possible. We do not link this information to personally identifiable information.<o:p></o:p></font></span></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt 0.5in"><span style="FONT-SIZE: 11pt"><o:p><font size="2">&nbsp;</font></o:p></span></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt 0.5in"><span class="small"><b><span style="FONT-SIZE: 11pt"><font size="2">Information You Give Us:<o:p></o:p></font></span></b></span></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt 0.5in"><font size="2"><span class="small"><span style="FONT-SIZE: 11pt">We receive and store any information you enter during account creation or any information you voluntarily provide us in any other way. You can choose not to provide certain </span></span><span style="FONT-SIZE: 11pt">personally identifiable <span class="small">information, but then you might not be able to take advantage of many of our features. <span style="mso-spacerun: yes">&nbsp;</span>We use the </span>personally identifiable <span class="small">information that you provide to us for such purposes as responding to your requests, customizing your experience, improving our product, and communicating with you.</span><o:p></o:p></span></font></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-SIZE: 11pt"><o:p><font size="2">&nbsp;</font></o:p></span></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><b><span style="FONT-SIZE: 11pt"><font size="2">How we use the information collected.<o:p></o:p></font></span></b></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-SIZE: 11pt"><font size="2">There are a number of situations in which your personal information may help us give you better service.<o:p></o:p></font></span></p><p><span style="FONT-SIZE: 11pt"><font size="2">It helps us gain a better understanding of how our products are used, including Web traffic patterns and what types of content are most popular with users of our products and services.<o:p></o:p></font></span></p><p><span style="FONT-SIZE: 11pt"><font size="2">This information is also used to improve our software and services by providing personalized content recommendations, location customization, and/or personalized help and instructions.<o:p></o:p></font></span></p><p><span style="FONT-SIZE: 11pt"><font size="2">We track content accesses and downloads<span style="mso-spacerun: yes">&nbsp; </span>for the purpose of paying royalties and license fees to third party providers, such as record labels, advertisers and other copyright holders and content distributors.<o:p></o:p></font></span></p><p><span style="FONT-SIZE: 11pt"><font size="2">When you create an account — providing your name, email address, zip code and birth date — and choose a password and password hint (such as the month and day of your birth) for security. The system saves your information and assigns you a personal ID — in many cases simply your email address, because it is unique and easy to remember. You have the option for streaming services to “remember” you, and your favorites or other preferences you have set will be available automatically, and on occasion greet you by first name. Some this information may, on occasion, be transferred to 3<sup>rd</sup> parties to automatically fill in relevant form fields and simplify the process. <span style="mso-spacerun: yes">&nbsp;</span>This information is not stored on the 3<sup>rd</sup> party website until you submit the form.<span style="mso-spacerun: yes">&nbsp; </span>However, once the form is submitted, then this personally identifiable information may be stored on the 3<sup>rd</sup> party website.<o:p></o:p></font></span></p><p><span style="FONT-SIZE: 11pt"><font size="2">If you use a message board, chat room or other means of public communication, you should be aware that any information you share is visible to other users. Personally identifiable information you post as a message to one of these forums can be read, collected, or used by other individuals to send you unsolicited messages. Citadel is not responsible for the personally identifiable information you choose to submit in these forums.<b><o:p></o:p></b></font></span></p><h1 style="MARGIN: 0in 0in 0pt"><span style="FONT-SIZE: 11pt"><font size="2">Technologies used to collect information. <o:p></o:p></font></span></h1><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-SIZE: 11pt"><font size="2">As is standard practice on many corporate websites, Citadel’s website uses “cookies” and other technologies to help us understand which parts of our websites are the most popular, where our visitors are going, and how much time they spend there. We also use cookies and other technologies to make sure that our online advertising is bringing customers to our products and services. We use cookies and other technologies to study traffic patterns on our website, to make it even more rewarding as well as to study the effectiveness of our customer communications. And we use cookies to customize your experience and provide greater convenience each time you interact with us. For example, knowing your first name lets us welcome you with a greeting the next time you use our products.<o:p></o:p></font></span></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-SIZE: 11pt"><o:p><font size="2">&nbsp;</font></o:p></span></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-SIZE: 11pt"><font size="2">Our advertisers help us deliver a number of useful services which are free of charge to you. Our advertisers will often employ the use of a “click-through URL” linked to content on their website. When a customer clicks one of these URLs, they pass through a web server before arriving at the destination web page. They track this click-through data to help determine general interest and measure the effectiveness of customer communications. <b><o:p></o:p></b></font></span></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><b><span style="FONT-SIZE: 11pt"><o:p><font size="2">&nbsp;</font></o:p></span></b></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><b><span style="FONT-SIZE: 11pt"><font size="2">Intended Audience<o:p></o:p></font></span></b></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-SIZE: 11pt"><font size="2">Right Now Radio products and services and all Citadel websites are intended for United States Audiences over the age of 13. <span style="mso-spacerun: yes">&nbsp;</span>All of our services are operated in accordance with the laws of the <!--?xml:namespace prefix = st1 ns = "urn:schemas-microsoft-com:office:smarttags" /--><st1:country-region w:st="on"><st1:place w:st="on">United States</st1:place></st1:country-region>. <span style="mso-spacerun: yes">&nbsp;</span>We make no representation that any service offered by Citadel is operated in accordance with the laws or governed by other nations. <span style="mso-spacerun: yes">&nbsp;</span>Please be aware that any personal information you transfer to us will be transferred to the U.S and is subject to <st1:place w:st="on"><st1:country-region w:st="on">U.S.</st1:country-region></st1:place> law. <span style="mso-spacerun: yes">&nbsp;</span>We will reject or delete any personally identifiable information that we believe in good faith to be inconsistent with this Privacy Policy.<o:p></o:p></font></span></p><h1 style="MARGIN: 0in 0in 0pt"><span style="FONT-SIZE: 11pt"><o:p><font size="2">&nbsp;</font></o:p></span></h1><h1 style="MARGIN: 0in 0in 0pt"><span style="FONT-SIZE: 11pt"><font size="2">Children’s Privacy Policy<o:p></o:p></font></span></h1><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-SIZE: 11pt"><font size="2">Although persons of all ages may visit our websites and participate in activities that do not require the collection of personal information, we do not knowingly or intentionally collect personal information from children under the age of 13. <span style="mso-spacerun: yes">&nbsp;</span>Except for the limited circumstances listed below, we will automatically reject and delete the registration or entry of any person we believe in good faith to be underage. <span style="mso-spacerun: yes">&nbsp;</span>Any false or fraudulent registration or entry from a minor will be deemed to be ineligible and will disqualify the minor from the receipt of a prize, benefit, or other participation. <br><br>Except to meet Federal Communications Commission ("FCC") regulations, as required by applicable laws, or other regulatory and legal purposes, we will not use, store, or disclose any child's personal information to a third party without prior parental consent.<o:p></o:p></font></span></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt 0.25in"><b><span style="FONT-SIZE: 11pt"><o:p><font size="2">&nbsp;</font></o:p></span></b></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><b><span style="FONT-SIZE: 11pt"><font size="2">When we disclose information. <o:p></o:p></font></span></b></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-SIZE: 11pt"><font size="2">Citadel does not use your personal information for purposes incompatible with those listed above. Citadel does not sell, rent, or share your personal information to a third party unless you consent to provide such information to a third party partner or content service.<o:p></o:p></font></span></p><p><span style="FONT-SIZE: 11pt"><font size="2">In some cases, access to certain products and services, such as content subscription products or products distributed by third parties, may require the provision of personal information to a third party, such as a content provider or distributor. <span style="mso-spacerun: yes">&nbsp;</span>In such cases, this will be stated during the registration process, in the terms of use, through the distribution process, or in a similar manner. The third party’s use of such information is governed by that party’s privacy policy, and Citadel’s use is governed by this privacy policy. <span style="mso-spacerun: yes">&nbsp;</span>Please visit the privacy policy of the content partner to make sure you understand how they use the personal information you provide to them. <span style="mso-spacerun: yes">&nbsp;</span>If you do not wish for such a transfer to take place, you should not register for the applicable product or service. <span style="mso-spacerun: yes">&nbsp;</span>Additionally, Citadel may be required to provide specific access and usage information to certain content providers and rights holders as a condition of content licensing and royalties. <span style="mso-spacerun: yes">&nbsp;</span>In such cases, Citadel may provide content usage, access, demographic and other information without your personally identifiable information (your name, billing information, email address) to the content provider.<o:p></o:p></font></span></p><p><span style="FONT-SIZE: 11pt"><font size="2">Citadel may disclose relevant information about our customers to our contractors (e.g. a customer service contractor or a credit card clearing service) in order for them to provide specific services for Citadel, and to better serve our customers. Citadel’s contractors are bound by strict contractual requirements to keep all personal information they process strictly confidential and to use such information solely on behalf of Citadel.<o:p></o:p></font></span></p><p><span style="FONT-SIZE: 11pt"><font size="2">Also, Citadel may disclose your personal information if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Citadel; (b) protect and defend the rights or property of Citadel and its products; or (c) act in urgent circumstances to protect the personal safety of users of Citadel products or the public at large.<b> <o:p></o:p></b></font></span></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><b><span style="FONT-SIZE: 11pt"><font size="2">Links to other websites.<o:p></o:p></font></span></b></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-SIZE: 11pt"><font size="2">Citadel websites and products contain links to other websites and products. <span style="mso-spacerun: yes">&nbsp;</span>Citadel is not responsible for the privacy practices or the content of such websites or products. <span style="mso-spacerun: yes">&nbsp;</span>Please visit the privacy policies of these third party sites in order to understand their privacy policies and data collection practices.<span style="mso-spacerun: yes">&nbsp; </span>Citadel has no liability for these third party sites, their policies or actions.<b><o:p></o:p></b></font></span></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><b><span style="FONT-SIZE: 11pt"><o:p><font size="2">&nbsp;</font></o:p></span></b></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><b><span style="FONT-SIZE: 11pt"><font size="2">Security of personal information <o:p></o:p></font></span></b></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-SIZE: 11pt"><font size="2">The security and confidentiality of your information is extremely important to us. We have implemented technical, administrative, and physical security measures to try to protect guest information from unauthorized access and improper use. <span style="mso-spacerun: yes">&nbsp;</span>From time to time, we review our security procedures in order to consider appropriate new technology and methods. <span style="mso-spacerun: yes">&nbsp;</span><o:p></o:p></font></span></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-SIZE: 11pt"><o:p><font size="2">&nbsp;</font></o:p></span></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-SIZE: 11pt"><font size="2">Citadel shall make all reasonable efforts to comply with this privacy policy; however, this policy should not be construed as a contractual undertaking and Citadel cannot warrant the security of any information that you transmit to us.<span style="mso-spacerun: yes">&nbsp; </span>Please be aware that, despite our best efforts, no security measures are perfect or impenetrable and by transmitting personal information over the internet to us, you are accepting any risks associated with doing so.<span style="mso-spacerun: yes">&nbsp; </span>In addition, you are responsible for taking appropriate measures to protect and secure all passwords, log-on or membership identification information and account information.<b><o:p></o:p></b></font></span></p><p><font size="2"><st1:place w:st="on"><st1:state w:st="on"><b style="mso-bidi-font-weight: normal"><span style="FONT-SIZE: 11pt">California</span></b></st1:state></st1:place><b style="mso-bidi-font-weight: normal"><span style="FONT-SIZE: 11pt"> Residents.<o:p></o:p></span></b></font></p><p><span style="FONT-SIZE: 11pt"><font size="2">As of January 1, 2005, <st1:state w:st="on"><b>California</b></st1:state><b> Civil Code Section 1798.83</b> permits our customers who are <st1:state w:st="on"><st1:place w:st="on">California</st1:place></st1:state> residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to <span style="mso-spacerun: yes">&nbsp;</span></font></span><a href="mailto:privacy@citadelinteractive.com">privacy@citadelinteractive.com</a>.<span style="FONT-SIZE: 11pt"><o:p></o:p></span></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><b><span style="FONT-SIZE: 11pt"><font size="2">Changes to this policy. <o:p></o:p></font></span></b></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-SIZE: 11pt"><font size="2">We may revise this Privacy Policy to keep it up to date with Citadel’s current policies, practices, products, services and web pages. <span style="mso-spacerun: yes">&nbsp;</span>Citadel reserves the right to revise, change or modify this policy at any time for any reason.<span style="mso-spacerun: yes">&nbsp; </span>“Updated" may be used to alert users to recent changes and to the date of the last update. We also post FAQ’s from time to time on specific product.<o:p></o:p></font></span></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-SIZE: 11pt"><o:p><font size="2">&nbsp;</font></o:p></span></p><h1 style="MARGIN: 0in 0in 0pt"><span style="FONT-SIZE: 11pt"><font size="2">Privacy questions<o:p></o:p></font></span></h1><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-SIZE: 11pt"><font size="2">If you have questions or concerns about Citadel’s Privacy Policy or data processing or use, please send an email to </font></span><a href="mailto:privacy@citadelinteractive.com">privacy@citadelinteractive.com</a><span style="FONT-SIZE: 11pt"><font size="2"> to contact us. We will respond to your inquiry within 30 days.<o:p></o:p></font></span></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-SIZE: 11pt"><o:p><font size="2">&nbsp;</font></o:p></span></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-SIZE: 11pt"><font size="2">(Last updated 6-7-2007)</font></span></p></span></font>
-<br><font class="SubText"></font>
+		<font class="Text"><span class="ftext11"><span style="FONT-SIZE: 10pt; FONT-FAMILY: Tahoma"><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-SIZE: 11pt"><font face="Times New Roman">This site is owned by Citadel Broadcasting Corporation (“Citadel”) and/or its subsidiaries.<span style="mso-spacerun: yes">&nbsp; </span>Citadel’s privacy policy covers the collection, use and dissemination of personal information that may be collected by Citadel anytime you interact with Citadel on one of its websites, such as when you listen to audio streams, view video streams, visit our websites, when you purchase products, or when you contact Citadel. <span style="mso-spacerun: yes">&nbsp;</span>Please take a moment to read the following to learn more about our information practices, including what type of information is gathered, how the information is used and for what purposes, to whom we disclose the information, and how we safeguard your personal information. <span style="mso-spacerun: yes">&nbsp;&nbsp;</span><!--?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /--><o:p></o:p></font></span></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-SIZE: 11pt"><o:p><font face="Times New Roman">&nbsp;</font></o:p></span></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-SIZE: 11pt"><strong><font face="Times New Roman">Why we collect information. <o:p></o:p></font></strong></span></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-SIZE: 11pt"><font face="Times New Roman">Citadel collects information to assist us in delivering a superior level of product. <span style="mso-spacerun: yes">&nbsp;</span>We collect information to gain a better understanding of our customers and their needs and thus provide more valuable services. <span style="mso-spacerun: yes">&nbsp;</span>This helps us to determine how best to provide useful information to customers and to understand which parts of our websites and Internet services are of most interest to them.<span style="mso-spacerun: yes">&nbsp; </span><o:p></o:p></font></span></p><p><span style="FONT-SIZE: 11pt"><font face="Times New Roman"><span style="mso-spacerun: yes">&nbsp;</span>It enables us to give you convenient access to our products and services and focus on categories of greatest interest to you. <span style="mso-spacerun: yes">&nbsp;</span>In addition, your personal information helps us keep you posted on the latest product announcements, updates, special offers, promotions, and events that you might like to hear about.<o:p></o:p></font></span></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span><strong><font face="Times New Roman">What information we collect<span style="FONT-SIZE: 11pt"><o:p></o:p></span></font></strong></span></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span class="small"><span style="FONT-SIZE: 11pt"><font face="Times New Roman">The information we learn from customers helps us personalize and continually improve your experience with our products and services. <span style="mso-spacerun: yes">&nbsp;</span>Here are the types of information we gather.<o:p></o:p></font></span></span></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span class="small"><span style="FONT-SIZE: 11pt"><o:p><font face="Times New Roman">&nbsp;</font></o:p></span></span></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt 0.5in"><span class="small"><span style="FONT-SIZE: 11pt"><strong><font face="Times New Roman">Automatic Information:<o:p></o:p></font></strong></span></span></p><p class="MsoBodyTextIndent" style="MARGIN: 0in 0in 0pt 0.5in"><span style="FONT-SIZE: 11pt"><font face="Times New Roman">Our servers automatically collect certain non-personally identifying information, such as your computer’s IP address, the type of browser in use, and pages viewed, streams viewed or listened to and when you visit our Sites. We use this information to understand how visitors navigate through our Sites and use our products, to enhance your experience while using our Sites, and to make the materials we post as valuable to visitors as possible. We do not link this information to personally identifiable information.<o:p></o:p></font></span></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt 0.5in"><span style="FONT-SIZE: 11pt"><o:p><font face="Times New Roman">&nbsp;</font></o:p></span></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt 0.5in"><span class="small"><span style="FONT-SIZE: 11pt"><strong><font face="Times New Roman">Information You Give Us:<o:p></o:p></font></strong></span></span></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt 0.5in"><font face="Times New Roman"><span class="small"><span style="FONT-SIZE: 11pt">We receive and store any information you enter during account creation or any information you voluntarily provide us in any other way. You can choose not to provide certain </span></span><span style="FONT-SIZE: 11pt">personally identifiable <span class="small">information, but then you might not be able to take advantage of many of our features. <span style="mso-spacerun: yes">&nbsp;</span>We use the </span>personally identifiable <span class="small">information that you provide to us for such purposes as responding to your requests, customizing your experience, improving our product, and communicating with you.</span><o:p></o:p></span></font></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-SIZE: 11pt"><o:p><font face="Times New Roman">&nbsp;</font></o:p></span></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-SIZE: 11pt"><strong><font face="Times New Roman">How we use the information collected.<o:p></o:p></font></strong></span></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-SIZE: 11pt"><font face="Times New Roman">There are a number of situations in which your personal information may help us give you better service.<o:p></o:p></font></span></p><p><span style="FONT-SIZE: 11pt"><font face="Times New Roman">It helps us gain a better understanding of how our products are used, including Web traffic patterns and what types of content are most popular with users of our products and services.<o:p></o:p></font></span></p><p><span style="FONT-SIZE: 11pt"><font face="Times New Roman">This information is also used to improve our software and services by providing personalized content recommendations, location customization, and/or personalized help and instructions.<o:p></o:p></font></span></p><p><span style="FONT-SIZE: 11pt"><font face="Times New Roman">We track content accesses and downloads<span style="mso-spacerun: yes">&nbsp; </span>for the purpose of paying royalties and license fees to third party providers, such as record labels, advertisers and other copyright holders and content distributors.<o:p></o:p></font></span></p><p><span style="FONT-SIZE: 11pt"><font face="Times New Roman">When you create an account — providing your name, email address, zip code and birth date — and choose a password and password hint (such as the month and day of your birth) for security. The system saves your information and assigns you a personal ID — in many cases simply your email address, because it is unique and easy to remember. You have the option for streaming services to “remember” you, and your favorites or other preferences you have set will be available automatically, and on occasion greet you by first name. Some this information may, on occasion, be transferred to 3<sup>rd</sup> parties to automatically fill in relevant form fields and simplify the process. <span style="mso-spacerun: yes">&nbsp;</span>This information is not stored on the 3<sup>rd</sup> party website until you submit the form.<span style="mso-spacerun: yes">&nbsp; </span>However, once the form is submitted, then this personally identifiable information may be stored on the 3<sup>rd</sup> party website.<o:p></o:p></font></span></p><p><span style="FONT-SIZE: 11pt"><font face="Times New Roman">If you use a message board, chat room or other means of public communication, you should be aware that any information you share is visible to other users. Personally identifiable information you post as a message to one of these forums can be read, collected, or used by other individuals to send you unsolicited messages. Citadel is not responsible for the personally identifiable information you choose to submit in these forums.<o:p></o:p></font></span></p><h1 style="MARGIN: 0in 0in 0pt"><span style="FONT-SIZE: 11pt"><font face="Times New Roman">Technologies used to collect information. <o:p></o:p></font></span></h1><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-SIZE: 11pt"><font face="Times New Roman">As is standard practice on many corporate websites, Citadel’s website uses “cookies” and other technologies to help us understand which parts of our websites are the most popular, where our visitors are going, and how much time they spend there. We also use cookies and other technologies to make sure that our online advertising is bringing customers to our products and services. We use cookies and other technologies to study traffic patterns on our website, to make it even more rewarding as well as to study the effectiveness of our customer communications. And we use cookies to customize your experience and provide greater convenience each time you interact with us. For example, knowing your first name lets us welcome you with a greeting the next time you use our products.<o:p></o:p></font></span></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-SIZE: 11pt"><o:p><font face="Times New Roman">&nbsp;</font></o:p></span></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-SIZE: 11pt"><font face="Times New Roman">Our advertisers help us deliver a number of useful services which are free of charge to you. Our advertisers will often employ the use of a “click-through URL” linked to content on their website. When a customer clicks one of these URLs, they pass through a web server before arriving at the destination web page. They track this click-through data to help determine general interest and measure the effectiveness of customer communications. <o:p></o:p></font></span></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-SIZE: 11pt"><o:p><strong><font face="Times New Roman">&nbsp;</font></strong></o:p></span></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-SIZE: 11pt"><strong><font face="Times New Roman">Intended Audience<o:p></o:p></font></strong></span></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-SIZE: 11pt"><font face="Times New Roman">Right Now Radio products and services and all Citadel websites are intended for United States Audiences over the age of 13. <span style="mso-spacerun: yes">&nbsp;</span>All of our services are operated in accordance with the laws of the <!--?xml:namespace prefix = st1 ns = "urn:schemas-microsoft-com:office:smarttags" /--><st1:country-region w:st="on"><st1:place w:st="on">United States</st1:place></st1:country-region>. <span style="mso-spacerun: yes">&nbsp;</span>We make no representation that any service offered by Citadel is operated in accordance with the laws or governed by other nations. <span style="mso-spacerun: yes">&nbsp;</span>Please be aware that any personal information you transfer to us will be transferred to the U.S and is subject to <st1:place w:st="on"><st1:country-region w:st="on">U.S.</st1:country-region></st1:place> law. <span style="mso-spacerun: yes">&nbsp;</span>We will reject or delete any personally identifiable information that we believe in good faith to be inconsistent with this Privacy Policy.<o:p></o:p></font></span></p><h1 style="MARGIN: 0in 0in 0pt"><span style="FONT-SIZE: 11pt"><o:p><font face="Times New Roman">&nbsp;</font></o:p></span></h1><h1 style="MARGIN: 0in 0in 0pt"><span style="FONT-SIZE: 11pt"><font face="Times New Roman">Children’s Privacy Policy<o:p></o:p></font></span></h1><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-SIZE: 11pt"><font face="Times New Roman">Although persons of all ages may visit our websites and participate in activities that do not require the collection of personal information, we do not knowingly or intentionally collect personal information from children under the age of 13. <span style="mso-spacerun: yes">&nbsp;</span>Except for the limited circumstances listed below, we will automatically reject and delete the registration or entry of any person we believe in good faith to be underage. <span style="mso-spacerun: yes">&nbsp;</span>Any false or fraudulent registration or entry from a minor will be deemed to be ineligible and will disqualify the minor from the receipt of a prize, benefit, or other participation. <br><br>Except to meet Federal Communications Commission ("FCC") regulations, as required by applicable laws, or other regulatory and legal purposes, we will not use, store, or disclose any child's personal information to a third party without prior parental consent.<o:p></o:p></font></span></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt 0.25in"><span style="FONT-SIZE: 11pt"><o:p><strong><font face="Times New Roman">&nbsp;</font></strong></o:p></span></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-SIZE: 11pt"><strong><font face="Times New Roman">When we disclose information. <o:p></o:p></font></strong></span></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-SIZE: 11pt"><font face="Times New Roman">Citadel does not use your personal information for purposes incompatible with those listed above. Citadel does not sell, rent, or share your personal information to a third party unless you consent to provide such information to a third party partner or content service.<o:p></o:p></font></span></p><p><span style="FONT-SIZE: 11pt"><font face="Times New Roman">In some cases, access to certain products and services, such as content subscription products or products distributed by third parties, may require the provision of personal information to a third party, such as a content provider or distributor. <span style="mso-spacerun: yes">&nbsp;</span>In such cases, this will be stated during the registration process, in the terms of use, through the distribution process, or in a similar manner. The third party’s use of such information is governed by that party’s privacy policy, and Citadel’s use is governed by this privacy policy. <span style="mso-spacerun: yes">&nbsp;</span>Please visit the privacy policy of the content partner to make sure you understand how they use the personal information you provide to them. <span style="mso-spacerun: yes">&nbsp;</span>If you do not wish for such a transfer to take place, you should not register for the applicable product or service. <span style="mso-spacerun: yes">&nbsp;</span>Additionally, Citadel may be required to provide specific access and usage information to certain content providers and rights holders as a condition of content licensing and royalties. <span style="mso-spacerun: yes">&nbsp;</span>In such cases, Citadel may provide content usage, access, demographic and other information without your personally identifiable information (your name, billing information, email address) to the content provider.<o:p></o:p></font></span></p><p><span style="FONT-SIZE: 11pt"><font face="Times New Roman">Citadel may disclose relevant information about our customers to our contractors (e.g. a customer service contractor or a credit card clearing service) in order for them to provide specific services for Citadel, and to better serve our customers. Citadel’s contractors are bound by strict contractual requirements to keep all personal information they process strictly confidential and to use such information solely on behalf of Citadel.<o:p></o:p></font></span></p><p><span style="FONT-SIZE: 11pt"><font face="Times New Roman">Also, Citadel may disclose your personal information if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Citadel; (b) protect and defend the rights or property of Citadel and its products; or (c) act in urgent circumstances to protect the personal safety of users of Citadel products or the public at large.<strong> <o:p></o:p></strong></font></span></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-SIZE: 11pt"><strong><font face="Times New Roman">Links to other websites.<o:p></o:p></font></strong></span></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-SIZE: 11pt"><font face="Times New Roman">Citadel websites and products contain links to other websites and products. <span style="mso-spacerun: yes">&nbsp;</span>Citadel is not responsible for the privacy practices or the content of such websites or products. <span style="mso-spacerun: yes">&nbsp;</span>Please visit the privacy policies of these third party sites in order to understand their privacy policies and data collection practices.<span style="mso-spacerun: yes">&nbsp; </span>Citadel has no liability for these third party sites, their policies or actions.<o:p></o:p></font></span></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-SIZE: 11pt"><o:p><strong><font face="Times New Roman">&nbsp;</font></strong></o:p></span></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-SIZE: 11pt"><strong><font face="Times New Roman">Security of personal information <o:p></o:p></font></strong></span></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-SIZE: 11pt"><font face="Times New Roman">The security and confidentiality of your information is extremely important to us. We have implemented technical, administrative, and physical security measures to try to protect guest information from unauthorized access and improper use. <span style="mso-spacerun: yes">&nbsp;</span>From time to time, we review our security procedures in order to consider appropriate new technology and methods. <span style="mso-spacerun: yes">&nbsp;</span><o:p></o:p></font></span></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-SIZE: 11pt"><o:p><font face="Times New Roman">&nbsp;</font></o:p></span></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-SIZE: 11pt"><font face="Times New Roman">Citadel shall make all reasonable efforts to comply with this privacy policy; however, this policy should not be construed as a contractual undertaking and Citadel cannot warrant the security of any information that you transmit to us.<span style="mso-spacerun: yes">&nbsp; </span>Please be aware that, despite our best efforts, no security measures are perfect or impenetrable and by transmitting personal information over the internet to us, you are accepting any risks associated with doing so.<span style="mso-spacerun: yes">&nbsp; </span>In addition, you are responsible for taking appropriate measures to protect and secure all passwords, log-on or membership identification information and account information.<o:p></o:p></font></span></p><p><strong><font face="Times New Roman"><st1:place w:st="on"><st1:state w:st="on"><span style="FONT-SIZE: 11pt">California</span></st1:state></st1:place><span style="FONT-SIZE: 11pt"> Residents.<o:p></o:p></span></font></strong></p><p><span style="FONT-SIZE: 11pt"><font face="Times New Roman">As of January 1, 2005, <strong><st1:state w:st="on">California</st1:state> Civil Code Section 1798.83</strong> permits our customers who are <st1:state w:st="on"><st1:place w:st="on">California</st1:place></st1:state> residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to <span style="mso-spacerun: yes">&nbsp;</span></font></span><a href="mailto:privacy@citadelinteractive.com"><font face="Times New Roman" size="3">privacy@citadelinteractive.com</font></a><font size="3"><font face="Times New Roman">.<span style="FONT-SIZE: 11pt"><o:p></o:p></span></font></font></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-SIZE: 11pt"><strong><font face="Times New Roman">Changes to this policy. <o:p></o:p></font></strong></span></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-SIZE: 11pt"><font face="Times New Roman">We may revise this Privacy Policy to keep it up to date with Citadel’s current policies, practices, products, services and web pages. <span style="mso-spacerun: yes">&nbsp;</span>Citadel reserves the right to revise, change or modify this policy at any time for any reason.<span style="mso-spacerun: yes">&nbsp; </span>“Updated" may be used to alert users to recent changes and to the date of the last update. We also post FAQ’s from time to time on specific product.<o:p></o:p></font></span></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-SIZE: 11pt"><o:p><font face="Times New Roman">&nbsp;</font></o:p></span></p><h1 style="MARGIN: 0in 0in 0pt"><span style="FONT-SIZE: 11pt"><font face="Times New Roman">Privacy questions<o:p></o:p></font></span></h1><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-SIZE: 11pt"><font face="Times New Roman">If you have questions or concerns about Citadel’s Privacy Policy or data processing or use, please send an email to </font></span><a href="mailto:privacy@citadelinteractive.com"><font face="Times New Roman" size="3">privacy@citadelinteractive.com</font></a><span style="FONT-SIZE: 11pt"><font face="Times New Roman"> to contact us. We will respond to your inquiry within 30 days.<o:p></o:p></font></span></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-SIZE: 11pt"><o:p><font face="Times New Roman">&nbsp;</font></o:p></span></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-SIZE: 11pt"><font face="Times New Roman">(Last updated August 2007)<o:p></o:p></font></span></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt; TEXT-ALIGN: center" align="center"></p></span></span></font>
+
+					<div style="text-align:center;clear:both;padding-top:3px;padding-right:8px;"><a target="_blank" href="/ad/click.asp?adID=41232&amp;adRunID=51838"><img src="http://images.radcity.net/ads/adc_dhs_action300x250.gif" border="0" alt="Ready.gov"></a></div>
+				<br><font class="SubText"></font>
 
 </span></td></tr></tbody></table>
 
@@ -714,8 +772,6 @@ document.write('SRC="http://servedby.advertising.com/site=736331/size=300250/bnu
           </td>
           <td bgcolor="#FFFFFF" align="center" width="147" valign="top"> 
           
-            
-
           </td>
         </tr>
       </tbody></table>
@@ -732,13 +788,13 @@ document.write('SRC="http://servedby.advertising.com/site=736331/size=300250/bnu
 	   	<table cellspacing="0" width="568" cellpadding="0" border="0">				
 	  <tbody><tr>
 	   					 <td bgcolor="#99CCFF" width="270" background="/images/trans.gif" valign="top">
-	   					<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="Text"><div class="headlineHeadline"><a href="/Article.asp?id=364196&amp;spid=122649" class="HeadlineBottom" onmouseover="NewsIconOn('HLeftIcon1');" onmouseout="NewsIconOff('HLeftIcon1');"><img src="/images/inside_crown_off.gif" border="0" name="HLeftIcon1"></a><a href="/Article.asp?id=364196&amp;spid=122649" class="HeadlineBottom" onmouseover="NewsIconOn('HLeftIcon1');" onmouseout="NewsIconOff('HLeftIcon1');">Nissan's "What did you miss today on WABC?"</a></div></td></tr>
+	   					<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="Text"><div class="headlineHeadline"><a href="/Article.asp?id=530217 " class="HeadlineBottom" onmouseover="NewsIconOn('HLeftIcon1');" onmouseout="NewsIconOff('HLeftIcon1');"><img src="/images/inside_crown_off.gif" border="0" name="HLeftIcon1"></a><a href="/Article.asp?id=530217 " class="HeadlineBottom" onmouseover="NewsIconOn('HLeftIcon1');" onmouseout="NewsIconOff('HLeftIcon1');">Christmas is Here-Decorate your holiday dinner table today!</a></div></td></tr>
 <tr><td class="sectEntrySeparator"><img src="/images/trans.gif" height="1" width="1" border="0"></td></tr></tbody></table>
 	   					 </td><td bgcolor="#99CCFF" width="15" background="/images/trans.gif"><img src="/images/trans.gif" width="15" height="5"></td>
        
 						
 	   					 <td bgcolor="#99CCFF" width="270" background="/images/trans.gif" valign="top">
-	   					<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="Text"><div class="headlineHeadline"><a href="/photowall.asp" target="_top" class="HeadlineBottom" onmouseover="NewsIconOn('HLeftIcon2');" onmouseout="NewsIconOff('HLeftIcon2');"><img src="/images/inside_crown_off.gif" border="0" name="HLeftIcon2"></a><a href="/photowall.asp" target="_top" class="HeadlineBottom" onmouseover="NewsIconOn('HLeftIcon2');" onmouseout="NewsIconOff('HLeftIcon2');">Rewound Recap</a></div></td></tr>
+	   					<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="Text"><div class="headlineHeadline"><a href="/Article.asp?id=482433 " class="HeadlineBottom" onmouseover="NewsIconOn('HLeftIcon2');" onmouseout="NewsIconOff('HLeftIcon2');"><img src="/images/inside_crown_off.gif" border="0" name="HLeftIcon2"></a><a href="/Article.asp?id=482433 " class="HeadlineBottom" onmouseover="NewsIconOn('HLeftIcon2');" onmouseout="NewsIconOff('HLeftIcon2');">Get Mark Levin's New Book</a></div></td></tr>
 <tr><td class="sectEntrySeparator"><img src="/images/trans.gif" height="1" width="1" border="0"></td></tr></tbody></table>
 	   					 </td><td bgcolor="#99CCFF" width="15" background="/images/trans.gif"><img src="/images/trans.gif" width="15" height="5"></td>
        
@@ -747,13 +803,13 @@ document.write('SRC="http://servedby.advertising.com/site=736331/size=300250/bnu
 	   						
 	   					<tr>
 	   					 <td bgcolor="#99CCFF" width="270" background="/images/trans.gif" valign="top">
-	   					<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="Text"><div class="headlineHeadline"><a href="/Article.asp?id=216933&amp;spid=122649" class="HeadlineBottom" onmouseover="NewsIconOn('HLeftIcon3');" onmouseout="NewsIconOff('HLeftIcon3');"><img src="/images/inside_crown_off.gif" border="0" name="HLeftIcon3"></a><a href="/Article.asp?id=216933&amp;spid=122649" class="HeadlineBottom" onmouseover="NewsIconOn('HLeftIcon3');" onmouseout="NewsIconOff('HLeftIcon3');">Talk to Mayor Bloomberg!</a></div></td></tr>
+	   					<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="Text"><div class="headlineHeadline"><a href="/goout.asp?u=http://abclocal.go.com/wabc/story?section=school_closures&amp;id=144952" target="_top" class="HeadlineBottom" onmouseover="NewsIconOn('HLeftIcon3');" onmouseout="NewsIconOff('HLeftIcon3');"><img src="/images/inside_crown_off.gif" border="0" name="HLeftIcon3"></a><a href="/goout.asp?u=http://abclocal.go.com/wabc/story?section=school_closures&amp;id=144952" target="_top" class="HeadlineBottom" onmouseover="NewsIconOn('HLeftIcon3');" onmouseout="NewsIconOff('HLeftIcon3');">SCHOOL CLOSING INFORMATION CENTER</a></div></td></tr>
 <tr><td class="sectEntrySeparator"><img src="/images/trans.gif" height="1" width="1" border="0"></td></tr></tbody></table>
 	   					 </td><td bgcolor="#99CCFF" width="15" background="/images/trans.gif"><img src="/images/trans.gif" width="15" height="5"></td>
        
 						
 	   					 <td bgcolor="#99CCFF" width="270" background="/images/trans.gif" valign="top">
-	   					<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="Text"><div class="headlineHeadline"><a href="mailto: newstips@wabcradio.com" target="_top" class="HeadlineBottom" onmouseover="NewsIconOn('HLeftIcon4');" onmouseout="NewsIconOff('HLeftIcon4');"><img src="/images/inside_crown_off.gif" border="0" name="HLeftIcon4"></a><a href="mailto: newstips@wabcradio.com" target="_top" class="HeadlineBottom" onmouseover="NewsIconOn('HLeftIcon4');" onmouseout="NewsIconOff('HLeftIcon4');">The 77WABC News Tip Hotline is here!</a></div></td></tr>
+	   					<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="Text"><div class="headlineHeadline"><a href="/Article.asp?id=484930 " class="HeadlineBottom" onmouseover="NewsIconOn('HLeftIcon4');" onmouseout="NewsIconOff('HLeftIcon4');"><img src="/images/inside_crown_off.gif" border="0" name="HLeftIcon4"></a><a href="/Article.asp?id=484930 " class="HeadlineBottom" onmouseover="NewsIconOn('HLeftIcon4');" onmouseout="NewsIconOff('HLeftIcon4');">HANNITY WINS 2007 MARCONI AWARD</a></div></td></tr>
 <tr><td class="sectEntrySeparator"><img src="/images/trans.gif" height="1" width="1" border="0"></td></tr></tbody></table>
 	   					 </td><td bgcolor="#99CCFF" width="15" background="/images/trans.gif"><img src="/images/trans.gif" width="15" height="5"></td>
        
@@ -772,7 +828,6 @@ document.write('SRC="http://servedby.advertising.com/site=736331/size=300250/bnu
       </tbody></table></td>
   </tr>
 </tbody></table>
-
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
     <td bgcolor="#174470"> 
@@ -781,18 +836,7 @@ document.write('SRC="http://servedby.advertising.com/site=736331/size=300250/bnu
         <table cellspacing="0" cellpadding="0" border="0" height="70">
 			<tbody><tr><td valign="middle">
 				<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><form action="/default.asp" method="post" target="_top" id="siteIndexForm" name="siteIndexForm"></form>
-<td><select name="u" class="gDropdown" onchange="submit();"><option>Site Index</option><option value="">Station Info</option><option value="/Article.asp?id=122651">&nbsp;&nbsp;&nbsp;&nbsp;• Contact WABC</option><option value="/sectional.asp?id=5880">&nbsp;&nbsp;&nbsp;&nbsp;• Call for Action</option><option value="">Contests/Events</option><option value="/sectional.asp?id=5821">&nbsp;&nbsp;&nbsp;&nbsp;• Contests</option><option value="/sectional.asp?id=5823">&nbsp;&nbsp;&nbsp;&nbsp;• Local Events</option><option value="">Message Boards &amp; Blogs</option><option value="/goout.asp?u=http://www.hannity.com/forum/forumdisplay.php?f=10">&nbsp;&nbsp;&nbsp;&nbsp;• Sean Hannity</option><option value="http://www.hannity.com/forum/forumdisplay.php?f=26">&nbsp;&nbsp;&nbsp;&nbsp;• Mark Levin</option><option value="/blog.asp?id=12680">&nbsp;&nbsp;&nbsp;&nbsp;• Jerry Agar</option><option value="/Article.asp?id=166880">Oldies Page</option><option value="/Article.asp?id=430458">Celebrate Independence Day</option><option value="http://dealsfortristate.com/intro.php">Dining Deals</option><option value="/Article.asp?id=429025">Traffic Center</option><option value="">Community Affairs</option><option value="/community/communitycalendar.asp">&nbsp;&nbsp;&nbsp;&nbsp;• Community Calendar</option><option value="/article.asp?id=122650">&nbsp;&nbsp;&nbsp;&nbsp;• Public Service Announcements</option><option value="/jobs.asp">Our Jobs</option><option value="/sectional.asp?id=5825">Sports</option><option value="">WABC Advertisers</option><option value="/article.asp?id=122641">&nbsp;&nbsp;&nbsp;&nbsp;• Advertise with WABC</option><option value="/coupons.asp">&nbsp;&nbsp;&nbsp;&nbsp;• WABC Advertisers</option><option value="/article.asp?id=166878">Erik Hastings Travel Page</option><option value="/aboutthissite.asp">About This Site</option><option value="/">Home</option>
-<option value="/showdj.asp?DJID=1726">The Curtis &amp; Kuby Show</option>
-<option value="/showdj.asp?DJID=23829">Warner Wolf</option>
-<option value="/showdj.asp?DJID=7641">John Gambling</option>
-<option value="/showdj.asp?DJID=1724">Rush Limbaugh</option>
-<option value="/showdj.asp?DJID=1725">Sean Hannity</option>
-<option value="/showdj.asp?DJID=12009">Mark Levin</option>
-<option value="/showdj.asp?DJID=18049">Laura Ingraham</option>
-<option value="/showdj.asp?DJID=33966">Jerry Agar</option>
-<option value="/goout.asp?u=http://www.coasttocoastam.com">George Noory</option>
-<option value="/showdj.asp?DJID=10352">Mark Simone</option>
-</select></td></tr></tbody></table>
+<td><select name="u" class="footerSiteIndex" onchange="submit();"><option>Site Index</option><option value="http://www.wabcradio.com/article.asp?id=122648">77WABC STREAMING LISTEN LIVE</option><option value="">Personalities</option><option value="/personalityprofile.asp">&nbsp;&nbsp;&nbsp;&nbsp;• Personality Profiles</option><option value="/programming.asp">&nbsp;&nbsp;&nbsp;&nbsp;• Program Schedule</option><option value="/emailaddresses.asp">&nbsp;&nbsp;&nbsp;&nbsp;• Email our personalities</option><option value="/photowall.asp">&nbsp;&nbsp;&nbsp;&nbsp;• Photo Gallery</option><option value="">Contests/Events</option><option value="/sectional.asp?id=5821">&nbsp;&nbsp;&nbsp;&nbsp;• Contests</option><option value="/sectional.asp?id=5823">&nbsp;&nbsp;&nbsp;&nbsp;• Local Events</option><option value="">Message Boards &amp; Blogs</option><option value="/goout.asp?u=http://www.hannity.com/forum/forumdisplay.php?f=10">&nbsp;&nbsp;&nbsp;&nbsp;• Sean Hannity</option><option value="http://www.hannity.com/forum/forumdisplay.php?f=26">&nbsp;&nbsp;&nbsp;&nbsp;• Mark Levin</option><option value="http://dealsfortristate.com/intro.php">Dining Deals</option><option value="/Article.asp?id=429025">Traffic Center</option><option value="/article.asp?id=166878">Erik Hastings Travel Page</option><option value="">WABC Advertisers</option><option value="/coupons.asp">&nbsp;&nbsp;&nbsp;&nbsp;• WABC Partners</option><option value="/article.asp?id=122641">&nbsp;&nbsp;&nbsp;&nbsp;• Advertise with us</option><option value="/Article.asp?id=166880">Oldies Page</option><option value="/sectional.asp?id=5825">Sports on WABC</option><option value="/sectional.asp?id=5825">&nbsp;&nbsp;&nbsp;&nbsp;• Sports on WABC</option><option value="http://images.radcity.net/5145/2191105.xls">&nbsp;&nbsp;&nbsp;&nbsp;• Play-by-Play Schedule</option><option value="">Station Info</option><option value="/Article.asp?id=122651">&nbsp;&nbsp;&nbsp;&nbsp;• Contact WABC</option><option value="/sectional.asp?id=5880">&nbsp;&nbsp;&nbsp;&nbsp;• Call for Action</option><option value="http://www.wabcradio.com//Article.asp?id=462128">&nbsp;&nbsp;&nbsp;&nbsp;• Internet Terms of Use</option><option value="/jobs.asp">Our Jobs</option><option value="">Community Affairs</option><option value="/community/communitycalendar.asp">&nbsp;&nbsp;&nbsp;&nbsp;• Community Calendar</option><option value="/article.asp?id=122650">&nbsp;&nbsp;&nbsp;&nbsp;• Public Service Announcements</option><option value="/aboutthissite.asp">About This Site</option></select></td></tr></tbody></table>
 			</td></tr>
 		</tbody></table>
            </td>
@@ -800,10 +844,12 @@ document.write('SRC="http://servedby.advertising.com/site=736331/size=300250/bnu
           <td width="609" valign="center" align="right">
 <img src="/images/trans.gif" width="20" height="5"><br><table width="468" border="0" cellspacing="0" cellpadding="0" height="60">
               <tbody><tr>
-                <td bgcolor="#00005B" align="center"><a target="_blank" href="/ad/click.asp?adID=47141&amp;adRunID=57892"><img src="http://images.radcity.net/5145/1797199.jpg" border="0" alt=""></a></td>
+                <td bgcolor="#00005B" align="center">
+                <script language="JavaScript" src="http://ad.doubleclick.net/adj/ms.wabc-am/new-york-ny.5145;dma=001;org=radio_station;state=ny;own=abc_disney;1;sz=468x60;ord=7748354?" type="text/javascript"></script>
+<noscript><a href="http://ad.doubleclick.net/jump/ms.wabc-am/new-york-ny.5145;dma=001;org=radio_station;state=ny;own=abc_disney;1;sz=468x60;ord=7748354?" target="_blank"><img src="http://ad.doubleclick.net/ad/ms.wabc-am/new-york-ny.5145;dma=001;org=radio_station;state=ny;own=abc_disney;1;sz=468x60;ord=7748354?" width="468" height="60" border="0" alt=""></a></noscript>
+                </td>
               </tr>
 </tbody></table>
-
 
 			<table cellspacing="0" cellpadding="0" border="0">
 				<tbody><tr>
@@ -834,9 +880,22 @@ function displayNotice() {
   </tr>
 </tbody></table>
 
+<!-- begin ZEDO for channel:  Citadel , publisher: Citadel , Ad Dimension: Pixel/Popup - 1 x 1 -->
+<script language="JavaScript">
+var zflag_nid="305"; var zflag_cid="610/1"; var zflag_sid="381"; var zflag_width="1"; var zflag_height="1"; var zflag_sz="15"; 
+</script>
+<script language="JavaScript" src="http://c5.zedo.com/jsc/c5/fo.js"></script>
+<!-- end ZEDO for channel:  Citadel , publisher: Citadel , Ad Dimension: Pixel/Popup - 1 x 1 -->
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-2957583-2";
+urchinTracker();
+</script>
+
+
+<!--include file="../include/incMenuLayers.asp"-->
 
 
 
-
-<!--include file="incMenuLayers.asp"-->
 </body></html>
