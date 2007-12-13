@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the beted.com privacy policy that was archived on 2007-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070408083024id_/http%3A//www.beted.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beted.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213023407id_/http%3A//www.beted.com/privacy.aspx) for the most accurate reproduction.*
 
-# betED - Privacy
-
-  |  |   | 
-
-Your Privacy at betED.com
+# betED.com :: Your Privacy
 
 At betED.com, we respect your privacy and are committed to protecting your personal information. We have created this Privacy Policy to let you know what information we collect when you visit the betED.com web site and online service (collectively, the “Service”), why we collect this information and how we use the collected information. This Privacy Policy does not govern other Websites that we maintain. By using the Service, you consent to the data practices prescribed in this Privacy Policy. We may periodically make changes to this Privacy Policy that we will include on this page. It is your responsibility to review this Privacy Policy frequently and remain informed about any changes to it, so we encourage you to visit this page often.
 
@@ -36,6 +32,3 @@ At betED.com, we respect your privacy and are committed to protecting your perso
 
 betED.com  
 Modified September 12, 2004
-
-|    
----|---|---|---|---
