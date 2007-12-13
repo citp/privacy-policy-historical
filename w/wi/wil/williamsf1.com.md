@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the williamsf1.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629072944id_/http%3A//www.williamsf1.com/files/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the williamsf1.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213163108id_/http%3A//www.williamsf1.com/files/privacy/index.html) for the most accurate reproduction.*
 
 # Privacy
 
@@ -23,6 +23,6 @@ AT&T Williams Privacy Policy
   * 8\. Users 16 and under 
     * If you are aged 16 or under, please get your parent/guardian�s permission before you provide personal information to the Website. Users without this consent are not allowed to provide us with personal information.
   * 9\. Related Links: 
-    * 9.1 Information Commissioner [www.informationcommissioner.gov.uk](https://web.archive.org/web/20070629072944id_/http%3A//www.williamsf1.com/files/privacy/www.informationcommissioner.gov.uk)
+    * 9.1 Information Commissioner [www.informationcommissioner.gov.uk](https://web.archive.org/web/20071213163108id_/http%3A//www.williamsf1.com/files/privacy/www.informationcommissioner.gov.uk)
 
 
