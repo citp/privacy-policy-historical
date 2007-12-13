@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the stepforth.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630225614id_/http%3A//www.stepforth.com/privacy.html%3Ffrom%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stepforth.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213141524id_/http%3A//www.stepforth.com/privacy.html%3Ffrom%3Dfooter) for the most accurate reproduction.*
 
 # Privacy Policy :: Search Engine Placement and Optimization Services :: StepForth Placement Inc.
 
 ## Privacy Policy
 
-StepForth Placement Inc. (“StepForth”) is firmly committed to maintaining and protecting the privacy of your personal and company information. The terms of this policy apply to www.StepForth.com and all other StepForth websites. The following privacy policy tells you how information that identifies you personally is used, so that you can make an informed choice about using this website and its services.
+StepForth Web Marketing Inc. (“StepForth”) is firmly committed to maintaining and protecting the privacy of your personal and company information. The terms of this policy apply to www.StepForth.com and all other StepForth websites. The following privacy policy tells you how information that identifies you personally is used, so that you can make an informed choice about using this website and its services.
 
 **StepForth does not sell, rent, lease or disclose customer information to third parties unless required by law or unless you provide consent to such a disclosure.  
 **
@@ -46,7 +46,7 @@ StepForth has designated a Privacy Officer who is accountable for our compliance
 
 > **Mail:**  
 >  Ross Dunn, Privacy Officer  
->  StepForth Placement Inc.  
+>  StepForth Web Marketing Inc.  
 >  #208 - 26 Bastion Square  
 >  Victoria, BC V8W 1H9 
 > 
