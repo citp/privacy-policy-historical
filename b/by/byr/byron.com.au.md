@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the byron.com.au privacy policy that was archived on 2007-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070628041305id_/http%3A//employment.byron.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the byron.com.au privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213084814id_/http%3A//employment.byron.com.au/privacy.html) for the most accurate reproduction.*
 
 # Byron Employment - Australia's most comprehensive job search, career management and recruitment site
 
