@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the goldderby.com privacy policy that was archived on 2007-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070629183457id_/http%3A//theenvelope.latimes.com/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the goldderby.com privacy policy that was archived on 2007-12-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071213065028id_/http%3A//theenvelope.latimes.com/privacypolicy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xml:lang="en" lang="en"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 
 
 
@@ -33,96 +33,128 @@ function checkLaunchVideo() {}
 
 <script language="javascript" type="text/javascript">
 <!--
+if (document.location.host.indexOf("latimes.com") > -1) {
+	document.domain = "latimes.com";
+}
 function searchAwards(list) {
-document.awardssearch.elements[1].name = list.options[list.selectedIndex].value;
-document.awardssearch.submit();
+	document.awardssearch.elements[1].name = list.options[list.selectedIndex].value;
+	document.awardssearch.submit();
+}
+// Radio buttons for top right site search box
+function OnSubmitForm() {
+	if (document.sitesearch.selectsearch[0].checked == true) {
+	document.sitesearch.action = "/search/dispatcher.front";
+	return true;
+	}
+	else if (document.sitesearch.selectsearch[1].checked == true) {
+	document.sitesearch.action = "/factsheets/awardsdb/env-awards-db-search,0,7169155.htmlstory";
+	return true;
+	}
+return true;
 }
 // -->
 </script>
 
-
 </head>
 <body bgcolor="#CCCCCC" text="#000000" link="#333333" alink="#333333" vlink="#999999">
 
-
-
-<div id="leaderbox"><script language="JavaScript" src="http://ad.doubleclick.net/adj/trb.theenvelope/service/site;ptype=s;slug=env-privacy;rg=ur;pos=T;dcopt=ist;sz=728x90;tile=1;ord=44049555?" type="text/javascript"></script>
-        <noscript><a href="http://ad.doubleclick.net/jump/trb.theenvelope/service/site;ptype=s;slug=env-privacy;rg=ur;pos=T;sz=728x90;tile=1;ord=44049555?" target="_blank"><img src="http://ad.doubleclick.net/ad/trb.theenvelope/service/site;ptype=s;slug=env-privacy;rg=ur;pos=T;dcopt=ist;sz=728x90;tile=1;ord=44049555?" width="728" height="90" border="0" alt=""></a></noscript></div>
-
-
-
-
-<div class="headershadow"><div id="header"><!--<div id="backtolat" style="position: relative; top: 45px;"><a href="http://www.latimes.com/">Back to latimes.com</a></div>-->
-<div id="backtolat" style="position: relative; top: 50px; right: 12px;"><a href="http://www.latimes.com/">Back to latimes.com</a></div><a href="/"><img src="/images/standard/empty.gif" title="theenvelope.gif" alt="The Envelope - The Awards Insider from The Los Angeles Times" width="680" height="66" border="0"></a></div>
+<div id="leaderbox"><script language="JavaScript" src="http://ad.doubleclick.net/adj/trb.theenvelope/service/site;ptype=s;slug=env-privacy;rg=ur;pos=T;dcopt=ist;sz=728x90;tile=1;ord=27282063?" type="text/javascript"></script>
+        <noscript><a href="http://ad.doubleclick.net/jump/trb.theenvelope/service/site;ptype=s;slug=env-privacy;rg=ur;pos=T;sz=728x90;tile=1;ord=27282063?" target="_blank"><img src="http://ad.doubleclick.net/ad/trb.theenvelope/service/site;ptype=s;slug=env-privacy;rg=ur;pos=T;dcopt=ist;sz=728x90;tile=1;ord=27282063?" width="728" height="90" border="0" alt=""></a></noscript></div>
 
 
 
 
+<div id="headershadow">
+	<div id="header_bg">
+		<div id="header_logo">
+		
+			<div style="float:left;"><a href="/"><img src="/images/standard/empty.gif" title="The Envelope homepage" alt="The Envelope - The Awards Insider from The Los Angeles Times" width="278" height="66" border="0"></a></div>
+			<div id="latlinks"><a href="http://www.latimes.com" title="Los Angeles Times homepage">LAT Home</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.latimes.com/entertainment/news/" title="Los Angeles Times entertainment news">Entertainment</a></div>
+		</div> 
+		
+	<div id="searchform">
+ <!--[if IE]><div style="position:relative; top:-4px; left:10px;"><![endif]--> 
+<form action="/search/dispatcher.front" method="get" name="sitesearch" id="sitesearch" onsubmit="return OnSubmitForm();">
+<label><input name="selectsearch" type="radio" value="site" checked="checked"> Site</label> 
+<label><input name="selectsearch" type="radio" value="awardsdb"> Awards Database</label>
+
+<table cellpadding="0" cellspacing="0" border="0" style="margin-top:5px;">
+<tbody><tr>
+<td><input name="target" type="hidden" id="target" value="article"><input name="searchtype" type="hidden" id="searchtype" value="all">
+<input name="Query" type="text" maxlength="255" value="" style="width: 84px; background: #fff;"></td>
+<td><input name="search" type="image" id="search" style="width: 68px; height: 18px;" title="search" onmouseover="this.src='/images/standard/search_ovr.gif';" onmouseout="this.src='/images/standard/search.gif';" src="/images/standard/search.gif" alt="search"></td>
+</tr>
+</tbody></table>
+</form>
+<!--[if IE]></div><![endif]--> 
+</div>
+	
 
 
 
 
-<div style="background-color: #F7F7F7; width: 954px; height: auto; padding: 0 8px;"><table border="0" cellpadding="0" cellspacing="0" style="width: auto; height: 22px; margin: 0;">
+
+
+<div id="topnav_box"><table border="0" cellpadding="0" cellspacing="0">
 <tbody><tr valign="bottom">
 
 
-<td><a href="/"><img src="/images/nav/nav_over_03.gif" alt="Home" width="82" height="22"></a></td>
+<td width="82" height="22"><a href="/"><img src="/images/nav/nav_over_03.gif" alt="Home" width="82" height="22"></a></td>
 
 
 
-<td><a href="/news/"><img src="/images/nav/nav_04.gif" alt="News" width="83" height="22" onmouseover="this.src='/images/nav/nav_over_04.gif';" onmouseout="this.src='/images/nav/nav_04.gif';"></a></td>
+<td width="83" height="22"><a href="/news/"><img src="/images/nav/nav_04.gif" alt="News" width="83" height="22" onmouseover="this.src='/images/nav/nav_over_04.gif';" onmouseout="this.src='/images/nav/nav_04.gif';"></a></td>
 
 
 
-<td><a href="/buzz/"><img src="/images/nav/nav_05.gif" alt="Buzz" width="80" height="22" onmouseover="this.src='/images/nav/nav_over_05.gif';" onmouseout="this.src='/images/nav/nav_05.gif';"></a></td>
+<td width="80" height="22"><a href="/buzz/"><img src="/images/nav/nav_05.gif" alt="Buzz" width="80" height="22" onmouseover="this.src='/images/nav/nav_over_05.gif';" onmouseout="this.src='/images/nav/nav_05.gif';"></a></td>
 
 
 
-<td><a href="/awards/"><img src="/images/nav/nav_06.gif" alt="Award Shows" width="152" height="22" onmouseover="this.src='/images/nav/nav_over_06.gif';" onmouseout="this.src='/images/nav/nav_06.gif';"></a></td>
+<td width="152" height="22"><a href="/awards/"><img src="/images/nav/nav_06.gif" alt="Award Shows" width="152" height="22" onmouseover="this.src='/images/nav/nav_over_06.gif';" onmouseout="this.src='/images/nav/nav_06.gif';"></a></td>
 
 
 
-<td><a href="/factsheets/"><img src="/images/nav/nav_07.gif" alt="Facts and Dates" width="157" height="22" onmouseover="this.src='/images/nav/nav_over_07.gif';" onmouseout="this.src='/images/nav/nav_07.gif';"></a></td>
+<td width="157" height="22"><a href="/factsheets/"><img src="/images/nav/nav_07.gif" alt="Facts and Dates" width="157" height="22" onmouseover="this.src='/images/nav/nav_over_07.gif';" onmouseout="this.src='/images/nav/nav_07.gif';"></a></td>
 
 
 
-<td><a href="/galleries/"><img src="/images/nav/nav_08.gif" alt="Galleries" width="125" height="22" onmouseover="this.src='/images/nav/nav_over_08.gif';" onmouseout="this.src='/images/nav/nav_08.gif';"></a></td>
+<td width="125" height="22"><a href="/galleries/"><img src="/images/nav/nav_08.gif" alt="Galleries" width="125" height="22" onmouseover="this.src='/images/nav/nav_over_08.gif';" onmouseout="this.src='/images/nav/nav_08.gif';"></a></td>
 
 
 
-<td><a href="http://goldderbyforums.latimes.com/eve/forums"><img src="/images/nav/nav_09.gif" alt="Forums" width="101" height="22" onmouseover="this.src='/images/nav/nav_over_09.gif';" onmouseout="this.src='/images/nav/nav_09.gif';"></a></td>
+<td width="101" height="22"><a href="http://goldderbyforums.latimes.com/eve/forums"><img src="/images/nav/nav_09.gif" alt="Forums" width="101" height="22" onmouseover="this.src='/images/nav/nav_over_09.gif';" onmouseout="this.src='/images/nav/nav_09.gif';"></a></td>
 
 
-<td style="padding: 4px 0 0 8px;"><form name="sitesearch" method="get" id="searchform" action="/search/dispatcher.front" style="margin: 0; padding: 0;"><table cellpadding="0" cellspacing="0" style="width: 152px; height: 20px; border: 1px solid #A9ABAA;">
-<tbody><tr>
-<td style="height: 18px;"><input type="hidden" name="target" value="article"><input name="Query" type="text" maxlength="255" value="" style="width: 84px; border: 0; background: #fff;"></td>
-<td style="width: 68px; height: 18px;"><input type="image" src="/images/standard/search.gif" alt="search" border="0" style="width: 68px; height: 18px;" onmouseover="this.src='/images/standard/search_ovr.gif';" onmouseout="this.src='/images/standard/search.gif';"></td>
+<td style="padding: 4px 0 0 8px;">&nbsp;</td>
 </tr>
-</tbody></table></form></td>
+
+<tr>
+<td colspan="8">
+
+
+
+
+
+
+
+
+
+</td>
 </tr>
 </tbody></table>
-
-
-
-
-
-
-
-
-
-
-
 </div>
+<div id="nav_gradient"><img src="/images/navigation/nav_12.jpg" alt="theenvelope.com" width="970" height="8" border="0"></div>
+	</div> 
+</div> 
 
-</div>
+<div id="pencilbox" align="center"><script language="JavaScript" src="http://ad.doubleclick.net/adj/trb.theenvelope/service/site;ptype=s;slug=env-privacy;rg=ur;sz=954x60;tile=2;ord=27282063?" type="text/javascript"></script>
+        <noscript><a href="http://ad.doubleclick.net/jump/trb.theenvelope/service/site;ptype=s;slug=env-privacy;rg=ur;sz=954x60;tile=2;ord=27282063?" target="_blank"><img src="http://ad.doubleclick.net/ad/trb.theenvelope/service/site;ptype=s;slug=env-privacy;rg=ur;sz=954x60;tile=2;ord=27282063?" width="954" height="60" border="0" alt=""></a></noscript></div>
 
-
-<div id="content"><table cellpadding="0" cellspacing="0" border="0" width="970">
-<tbody><tr>
-<td colspan="3" style="width: 970px; height: 8px;"><img src="/images/navigation/nav_12.jpg" alt="" width="970" height="8" border="0"></td>
-</tr>
-<tr valign="top">
-<td style="padding: 8px 0 8px 8px; width: 158px;">
+<div id="content">
+<table cellpadding="0" cellspacing="0" border="0" width="970">
+<tbody><tr valign="top">
+<td style="padding:8px 0 8px 8px; width:158px;">
 
 <div class="wrapper">
 <div style="background-color: #850000; padding: 4px 8px 8px 8px;">
@@ -140,14 +172,14 @@ document.awardssearch.submit();
 <td colspan="2" style="border: 1px solid #D4D0C8; background-color: #D4D0C8;">
 <select name="searchtype" style="border: 1px solid #7C7C7E; width: 100%;">
 <option value="all">All</option>
-<option value="person">Name</option>
-<option value="person">Title</option>
-<option value="category">Category</option>
 <option value="awardshow">Award Show</option>
+<option value="category">Category  (e.g., Best Actor)</option>
+<option value="person">Name/Title</option>
+<option value="year">Year</option>
 </select></td>
 </tr>
 <tr>
-<td width="96" style="border-right: 1px solid #D4D0C8; border-left: 1px solid #D4D0C8; border-bottom: 1px solid #D4D0C8; background-color: #D4D0C8;"><input name="query" type="text" maxlength="2000" style="width: 100%; height: 16px; border: 1px solid #7C7C7E; background: #fff; font: normal 14px arial,sans-serif;"></td>
+<td width="96" style="border-right: 1px solid #D4D0C8; border-left: 1px solid #D4D0C8; border-bottom: 1px solid #D4D0C8; background-color: #D4D0C8;"><input name="query" type="text" maxlength="2000" style="width: 100%; height: 16px; border: 1px solid #7C7C7E; background: #fff; font: normal 10px arial,sans-serif;"></td>
 <td width="34" style="border-right: 1px solid #D4D0C8; border-left: 1px solid #D4D0C8; border-bottom: 1px solid #D4D0C8; background-color: #D4D0C8;"><input type="image" src="/images/standard/go.gif" alt="GO" style="width: 32px; height: 20px; border: 0;" onmouseover="this.src='/images/standard/go_ovr.gif';" onmouseout="this.src='/images/standard/go.gif';" onclick="if (document.forms['awardsdbsearch'].query.value == '') return false;"></td>
 </tr>
 </tbody></table>
@@ -160,37 +192,48 @@ document.awardssearch.submit();
 
 
 
-
 <div class="wrapper">
   <div class="leftraillabel">Up Next</div>
-  <div style="padding: 8px; background-color: #fff;">
-    <!-- hi -->
-    <div class="headline11red">July 19</div>
+  <div style="padding:8px; background-color:#FFFFFF;">
 
-    <div style="font: normal 11px arial,verdana,sans-serif; color: #333;">
-      • Primetime Emmy nominations
-    </div>
- <hr size="1" noshade="noshade" class="thin" color="#CCCCCC">
-   <div class="headline11red">August 29</div>
+<div class="headline11red">December 13</div>
 
-    <div style="font: normal 11px arial,verdana,sans-serif; color: #333;">
-      • Venice International Film Festival begins
-    </div>
-
-    <div style="font: normal 11px arial,verdana,sans-serif; color: #333;">
-      • Latin Grammy nominations
-    </div>
- <hr size="1" noshade="noshade" class="thin" color="#CCCCCC">
-    <div align="right" class="headline11r" style="color: #cc0000;">
-      <img src="/images/standard/arrow_bullet_red.gif" width="8" height="11" border="0"> <a href="http://theenvelope.latimes.com/events/shows/env-awards_master_calendar,0,1887292.htmlstory?coll=env-shows">More</a>
-    </div>
+<div style="font: normal 11px arial,verdana,sans-serif; color: #333;">
+      • 5:00 a.m. Golden Globe nominations announced 
   
+    </div>
+
+<hr size="1" noshade="noshade" class="thin" color="#CCCCCC"> 
+<div class="headline11red">December 16</div>
+
+<div style="font: normal 11px arial,verdana,sans-serif; color: #333;">
+      • 2007 AFI honorees announced
+  
+    </div> 
+
+<hr size="1" noshade="noshade" class="thin" color="#CCCCCC">
+
+<div class="headline11red">December 20</div>
+
+<div style="font:normal 11px arial,verdana,sans-serif; color:#333333;">
+      • SAG nominations announced 
+
+  
+    </div>
+
+
+<hr size="1" noshade="noshade" class="thin" color="#CCCCCC">
+
+</div> 
+
+    <div align="right" class="headline11r" style="color: #cc0000;">
+      <img src="/images/standard/arrow_bullet_red.gif" width="8" height="11" border="0" alt="theenvelope.com"> <a href="http://theenvelope.latimes.com/events/shows/env-awards_master_calendar,0,1887292.htmlstory?coll=env-shows">More</a>
+    </div>
   </div>
-</div>
 
 <iframe width="158" height="190" src="http://webapp1.latimes.com/envelope/goldderby_adrail.php" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" style="margin-bottom: 8px;"></iframe>
 
-<iframe width="158" height="190" src="http://webapp1.latimes.com/envelope/stylesscenes_adrail.php" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" style="margin-bottom: 8px;"></iframe>
+<iframe width="158" height="190" src="http://webapp1.latimes.com/envelope/thedishrag_adrail.php" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" style="margin-bottom: 8px;"></iframe>
 
 
 
@@ -207,12 +250,12 @@ document.awardssearch.submit();
 
 
 
-<div align="center"><a href="/galleries/photo/env-et-betawards27jun27,0,4544151.photogallery" target=""><img src="http://www.latimes.com/media/thumbnails/photogallery/2007-06/30795301.jpg" alt="2007 BET Awards show" border="0" width="154" height="110"></a></div>
+<div align="center"><a href="/galleries/photo/env-redcarpetrewind30-hair-pg,0,552286.photogallery" target=""><img src="http://theenvelope.latimes.com/media/thumbnails/photogallery/2007-11/34027982-30170029.jpg" alt="Red Carpet Rewind: Hair apparent" border="0" width="154" height="110"></a></div>
 
 
 <div style="padding: 8px; background-color: #fff;">
 
-<div class="headline11"><img src="/images/icons/camera.gif" align="left" width="12" height="8" border="0" alt="photo">&nbsp;&nbsp;<a href="/galleries/photo/env-et-betawards27jun27,0,4544151.photogallery" target="">2007 BET Awards show</a></div>
+<div class="headline11"><img src="/images/icons/camera.gif" align="left" width="12" height="8" border="0" alt="photo">&nbsp;&nbsp;<a href="/galleries/photo/env-redcarpetrewind30-hair-pg,0,552286.photogallery" target="">Red Carpet Rewind: Hair apparent</a></div>
 
 </div>
 
@@ -242,7 +285,7 @@ document.awardssearch.submit();
 
 
 
-<div class="headline11"><a href="http://www.latimes.com/entertainment/news/movies/la-et-moore29jun29,0,1854888.story" target="">Michael Moore's finances in robust health</a> &gt;&gt;</div>
+<div class="headline11"><a href="http://www.latimes.com/entertainment/news/celebrity/la-me-turner13dec13,0,5113321.story" target="">Rock pioneer was known for abusing wife Tina Turner</a> &gt;&gt;</div>
 
 <hr class="thin" size="1" noshade="noshade">
 
@@ -250,7 +293,7 @@ document.awardssearch.submit();
 
 
 
-<div class="headline11"><a href="http://www.latimes.com/entertainment/news/movies/la-et-spinoffs-transformers28jun28,0,823594.story" target="">SCENIAC: Burgers, babes and boo-boos at the 'Transformers' premiere</a> &gt;&gt;</div>
+<div class="headline11"><a href="http://www.latimes.com/entertainment/news/movies/la-et-bookit13dec13,0,290046.story" target="">DreamWorks wants to play 'Air Guitar'</a> &gt;&gt;</div>
 
 <hr class="thin" size="1" noshade="noshade">
 
@@ -258,7 +301,7 @@ document.awardssearch.submit();
 
 
 
-<div class="headline11"><a href="http://www.latimes.com/entertainment/news/celebrity/la-me-paris28jun28,0,2244691.story" target="">CHANNEL ISLAND: Hilton reveals little in post-jail interview</a> &gt;&gt;</div>
+<div class="headline11"><a href="http://www.latimes.com/entertainment/news/tv/la-et-sopranos12dec12,0,5100686.story" target="">Jury selection begins in 'Sopranos' plot dispute</a> &gt;&gt;</div>
 
 <hr class="thin" size="1" noshade="noshade">
 
@@ -274,20 +317,20 @@ document.awardssearch.submit();
 
 
 </td>
+<td style="padding:8px; width:620px;">
 
-<td style="padding: 8px; width: 620px;">
 
 
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr valign="top"><td bgcolor="#FFFFFF" style="border: 1px solid #BCBCBC; padding: 8px;">
-
+<div class="wrapper"><div style="padding: 8px;">
 
 
 <div align="right" clear="all">
 <div class="toplink">
-<img src="/images/env/arrow_grey.gif" width="3" height="5"> <a href="/services/site/env-privacy,0,6429658,email.story" target="win_20090274" onclick="if (window.windoid) windoid('','win_20090274',760,620,'resizable=0,scrollbars=0')">E-MAIL TO A FRIEND</a>&nbsp;&nbsp;
-<img src="/images/env/arrow_grey.gif" width="3" height="5"> <a href="/services/site/env-privacy,0,6097414,print.story" target="">PRINT</a>
+<img src="/images/env/arrow_grey.gif" width="3" height="5"> <a href="/services/site/env-privacy,0,6429658,email.htmlstory" target="win_20090274" onclick="if (window.windoid) windoid('','win_20090274',760,620,'resizable=0,scrollbars=0')">E-MAIL TO A FRIEND</a>&nbsp;&nbsp;
+<img src="/images/env/arrow_grey.gif" width="3" height="5"> <a href="/services/site/env-privacy,0,6097414,print.htmlstory" target="">PRINT</a>
 </div>
 </div>
+<br clear="all">
 
 
 
@@ -295,12 +338,11 @@ document.awardssearch.submit();
 
 
 
-
-<h1 class="headline20">Privacy Policy</h1>
-
+	<h1 class="headline20">Privacy Policy</h1>
 
 
-<div class="storybyline">
+
+
 
 
 
@@ -308,7 +350,6 @@ document.awardssearch.submit();
 
 
 
-</div>
 
 <div class="storydetailbody">
 
@@ -371,64 +412,7 @@ This policy and the use of this Site are governed by Illinois law. Any claim rel
 In the event case of any conflict between the terms of this policy and the terms of any electronic or machine readable privacy policy (for example, a P3P electronic privacy policy), the terms of this written policy shall control.
 </div>
 <br clear="all">
-
-<br>
-
-
-
-<div align="center" style="padding: 8px 0 20px 0;">
-<table cellpadding="0" cellspacing="0" border="0" width="590">
-<tbody><tr valign="top">
-<td style="padding: 0 8px; border-right: 1px solid #C0C0C0; text-align: left;">
-
-<div class="headline12r">RELATED CONTENT</div>
-<br>
-
-
-
-<div class="headline11b" clear="all"><img src="/images/doc.gif" width="9" height="10" border="0" align="left" style="margin-right: 4px;"><a href="/music/env-betawards-26jun26,0,4544942.story?coll=env-home-headlines" target="">Hot performances, heartfelt tributes</a> &gt;&gt;</div>
-
-
-
-<br>
-
-
-
-
-
-<div class="headline12r">MOST VIEWED CONTENT</div><br>
-
-
-
-<div class="headline11b" clear="all"><img src="/images/doc.gif" width="9" height="10" border="0" align="left" style="margin-right: 4px;"><a href="/env-betawards-26jun26,0,2820039.story?coll=bal-features-specials&amp;track=mostviewed-storylevel" target="">Hot performances, heartfelt tributes</a> &gt;&gt;</div>
-
-
-
-<div class="headline11b" clear="all"><img src="/images/doc.gif" width="9" height="10" border="0" align="left" style="margin-right: 4px;"><a href="/awards/emmys/env-grammydate-8may08,0,3382774.story?coll=bal-features-specials&amp;track=mostviewed-storylevel" target="">Golden Grammys</a> &gt;&gt;</div>
-
-
-
-<div class="headline11b" clear="all"><img src="/images/doc.gif" width="9" height="10" border="0" align="left" style="margin-right: 4px;"><a href="/env-boxofficeactoractress27feb27,0,7335606.column?coll=bal-features-specials&amp;track=mostviewed-storylevel" target="">Career builders?</a> &gt;&gt;</div>
-
-
-
-<div align="right" class="headline12red" style="margin-top: 8px;"><img src="/images/standard/arrow_bullet_red.gif" width="8" height="11" border="0"> <a href="/news/most-viewed.front">More Most Viewed</a></div>
-
-
-
-
-<div align="right" class="headline12red"><img src="http://theenvelope.latimes.com/images/standard/arrow_bullet_red.gif" width="8" height="11" border="0"> <a href="/news/most-emailed.front">Most E-mailed</a></div>
-</td>
-
-<td width="300" style="padding: 0 0 0 8px; text-align: left;"><!--<iframe width="230" height="200" src="http://webapp1.latimes.com/envelope/homepage_mb_footer.php" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"></iframe>-->
-<iframe width="300" height="200" src="http://webapp1.latimes.com/envelope/homepageforum.php" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" style="margin-bottom: 8px;"></iframe></td>
-</tr>
-</tbody></table>
-</div>
-
-
-
-</td></tr></tbody></table>
+</div></div>
 
 
 
@@ -464,10 +448,10 @@ Local Ads</div>
 
 <td style="padding: 8px 8px 8px 0; width: 160px;">
 <div style="clear: both;"><img src="/images/ads/ad_158.gif" width="160" height="10" border="0"></div>
-<div style="margin-bottom: 8px;"><script language="JavaScript" src="http://ad.doubleclick.net/adj/trb.theenvelope/service/site;ptype=s;slug=env-privacy;rg=ur;pos=1;sz=160x600;tile=2;ord=44049555?" type="text/javascript"></script>
-        <noscript><a href="http://ad.doubleclick.net/jump/trb.theenvelope/service/site;ptype=s;slug=env-privacy;rg=ur;pos=1;sz=160x600;tile=2;ord=44049555?" target="_blank"><img src="http://ad.doubleclick.net/ad/trb.theenvelope/service/site;ptype=s;slug=env-privacy;rg=ur;pos=1;sz=160x600;tile=2;ord=44049555?" width="160" height="600" border="0" alt=""></a></noscript></div>
-<div style="margin-bottom: 8px;"><script language="JavaScript" src="http://ad.doubleclick.net/adj/trb.theenvelope/service/site;ptype=s;slug=env-privacy;rg=ur;pos=2;sz=160x600;tile=3;ord=44049555?" type="text/javascript"></script>
-        <noscript><a href="http://ad.doubleclick.net/jump/trb.theenvelope/service/site;ptype=s;slug=env-privacy;rg=ur;pos=2;sz=160x600;tile=3;ord=44049555?" target="_blank"><img src="http://ad.doubleclick.net/ad/trb.theenvelope/service/site;ptype=s;slug=env-privacy;rg=ur;pos=2;sz=160x600;tile=3;ord=44049555?" width="160" height="600" border="0" alt=""></a></noscript></div>
+<div style="margin-bottom: 8px;"><script language="JavaScript" src="http://ad.doubleclick.net/adj/trb.theenvelope/service/site;ptype=s;slug=env-privacy;rg=ur;pos=1;sz=160x600;tile=3;ord=27282063?" type="text/javascript"></script>
+        <noscript><a href="http://ad.doubleclick.net/jump/trb.theenvelope/service/site;ptype=s;slug=env-privacy;rg=ur;pos=1;sz=160x600;tile=3;ord=27282063?" target="_blank"><img src="http://ad.doubleclick.net/ad/trb.theenvelope/service/site;ptype=s;slug=env-privacy;rg=ur;pos=1;sz=160x600;tile=3;ord=27282063?" width="160" height="600" border="0" alt=""></a></noscript></div>
+<div style="margin-bottom: 8px;"><script language="JavaScript" src="http://ad.doubleclick.net/adj/trb.theenvelope/service/site;ptype=s;slug=env-privacy;rg=ur;pos=2;sz=160x600;tile=4;ord=27282063?" type="text/javascript"></script>
+        <noscript><a href="http://ad.doubleclick.net/jump/trb.theenvelope/service/site;ptype=s;slug=env-privacy;rg=ur;pos=2;sz=160x600;tile=4;ord=27282063?" target="_blank"><img src="http://ad.doubleclick.net/ad/trb.theenvelope/service/site;ptype=s;slug=env-privacy;rg=ur;pos=2;sz=160x600;tile=4;ord=27282063?" width="160" height="600" border="0" alt=""></a></noscript></div>
 </td>
 
 </tr>
@@ -477,12 +461,10 @@ Local Ads</div>
 
 
 
+
 <div id="footer">
 <div id="footertext">Copyright © 2007, Los Angeles Times. By visiting this site you are agreeing to our <a href="http://theenvelope.latimes.com/privacypolicy">Privacy Policy</a>  |  <a href="http://theenvelope.latimes.com/termsofservice">Terms of Service</a> | <a href="http://theenvelope.latimes.com/aboutus">About Us</a> | <a href="http://theenvelope.latimes.com/contactus">Contact Us</a> | <a href="mailto:theenvelopeadvertising@latimes.com">Advertise</a> | <a href="http://theenvelope.latimes.com/sitemap">Site Map</a></div>
 </div>
-
-
-
 
 
 
@@ -530,13 +512,13 @@ var tcdacmd="da;dt;rcid=";
 <!-- SiteCatalyst code version: H.1.
 Copyright 1997-2005 Omniture, Inc. More info available at
 http://www.omniture.com -->
-<script type="text/javascript" src="/central/javascript/mtrx/s_code.js"></script><img name="s_i_tribglobal" height="1" width="1" border="0" alt="" src="https://sm.trb.com/b/ss/tribglobal/1/H.2-pdv-2/s44039081870834?[AQB]&amp;ndh=1&amp;t=1/1/2020%200%3A21%3A3%206%200&amp;vmt=4418B580&amp;ns=tribuneinteractive&amp;pageName=Privacy%20Policy%20-%20The%20Envelope%20/%20services%20/%20site%20-%20story.&amp;g=https%3A//web.archive.org/web/20070629183457id_/http%3A//theenvelope.latimes.com/services/site/env-privacy%2C0%2C7841411.story&amp;cc=USD&amp;ch=The%20Envelope%3Aservices&amp;server=theenvelope.latimes.com&amp;events=event5&amp;h1=The%20Envelope%3Aservices%3Asite&amp;h2=TI%3AThe%20Envelope.com%3AThe%20Envelope%3Aservices%3Asite&amp;v20=The%20Envelope&amp;v21=story&amp;c30=N&amp;c38=story&amp;c44=env-privacy&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
+<script type="text/javascript" src="/central/javascript/mtrx/s_code.js"></script><img name="s_i_tribglobal" height="1" width="1" border="0" alt="" src="https://sm.trb.com/b/ss/tribglobal/1/H.2-pdv-2/s47789469682383?[AQB]&amp;ndh=1&amp;t=1/1/2020%200%3A21%3A6%206%200&amp;vmt=4418B580&amp;ns=tribuneinteractive&amp;pageName=Privacy%20Policy%20-%20The%20Envelope%20/%20services%20/%20site%20-%20htmlsto.&amp;g=https%3A//web.archive.org/web/20071213065028id_/http%3A//theenvelope.latimes.com/services/site/env-privacy%2C0%2C7841411.htmlstory&amp;cc=USD&amp;ch=The%20Envelope%3Aservices&amp;server=theenvelope.latimes.com&amp;events=event5&amp;h1=The%20Envelope%3Aservices%3Asite&amp;h2=TI%3AThe%20Envelope.com%3AThe%20Envelope%3Aservices%3Asite&amp;v20=The%20Envelope&amp;v21=htmlstory&amp;c30=N&amp;c38=htmlstory&amp;c44=env-privacy&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
 <script language="JavaScript">
 <!--
 
-        				s.pageName="Privacy Policy - The Envelope / services / site - story." 
-        		s.prop38="story"
-		s.eVar21="story" 
+        				s.pageName="Privacy Policy - The Envelope / services / site - htmlsto." 
+        		s.prop38="htmlstory"
+		s.eVar21="htmlstory" 
 		
 	s.server="theenvelope.latimes.com" 
 	s.channel="The Envelope:services"
@@ -566,7 +548,6 @@ var s_code=s.t();if(s_code)document.write(s_code)//-->  </script>
 if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
 //--></script><!--/DO NOT REMOVE/-->
 <!-- End SiteCatalyst code version: H.1. -->
-
 
 
 
