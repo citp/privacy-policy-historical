@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the springer.com privacy policy that was archived on 2007-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070501184330id_/http%3A//www.springer.com/west/home/generic/privacy%3FSGWID%3D4-40111-0-0-0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the springer.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214011222id_/http%3A//www.springer.com/west/home/generic/privacy%3FSGWID%3D4-40111-0-0-0) for the most accurate reproduction.*
 
 # Privacy Journals, Academic Books & Online Media | Springer
 
