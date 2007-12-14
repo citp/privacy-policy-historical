@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the photoworks.com privacy policy that was archived on 2007-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070625054056id_/http%3A//www.photoworks.com/util/knowledgeBaseTemplate.jsp%3FhelpFile%3Dprivacy.html%26subject%3DPrivacy%2520Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the photoworks.com privacy policy that was archived on 2007-12-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071214211514id_/http%3A//www.photoworks.com/util/knowledgeBaseTemplate.jsp%3FhelpFile%3Dprivacy.html%26subject%3DPrivacy%2520Policy) for the most accurate reproduction.-->
 
-<html><head><script src="/common/Util.js?svr=web8" language="JavaScript1.2"></script>
-<script src="/common/KnowledgeBase.js?svr=web8" language="JavaScript1.2"></script>
+<html><head><script src="/common/Util.js?svr=web39" language="JavaScript1.2"></script>
+<script src="/common/KnowledgeBase.js?svr=web39" language="JavaScript1.2"></script>
 
 <script>
 
@@ -14,20 +14,36 @@
 
 
   <link rel="stylesheet" href="/gstatic/us/html/pw/palette1/style.css">
-  <title>PhotoWorks: Help with your PhotoWorks account</title>
+  <title>PhotoWorks: Help: Privacy Policy</title>
 </head>
 <body onload="window.focus();">
 
 
 
-                 
+
+
+ 
+ 
+ 
+ 
+
+
+ 
+
+
+
+
+
+ 
+ 
+
+
+
 
 <!-- start Header tag -->
 
 
 <center id="header">
-<!-- width="824" / 100% -->
-    
 <table width="1012" cellpadding="0" cellspacing="0" border="0" id="outerTbl">
 <tbody><tr>
       
@@ -41,75 +57,155 @@
 	  <table width="743" cellpadding="0" cellspacing="0" border="0" id="topTbl">
           <tbody><tr>
 	    	<td width="200">
-			<a target="_self" href="/index.jsp" onclick="this.href='http://www.photoworks.com/index.jsp;jsessionid=E1FE1D027282E4265C8EF9FF40BED508?cb=PW&amp;guest=true&amp;svr=web8';"><img src="/gstatic/us/img/pw/palette1/header/pwlogo.gif" alt="PhotoWorks" width="183" height="53" border="0"></a>
+			<a target="_self" href="/index.jsp" onclick="this.href='http://www.photoworks.com/index.jsp;jsessionid=D2374E98147BA8F16834D529DCECDBD3?cb=PW&amp;guest=true&amp;svr=web39';"><img src="/gstatic/us/img/pw/palette1/header/pwlogo.gif" alt="PhotoWorks" width="183" height="53" border="0"></a>
 		</td>
-		<td valign="center" width="346">
-		        
+		<td valign="center" width="345" height="50">
+                  <!--img src="/gstatic/us//img/pw/palette1/marketingGeneral/MASTHEAD.gif" alt="" width="345" height="50" border="0" /-->  
+		   
+ 
+
+ 
+ 
+ 
+ 
 
 
-<script src="/common/Marketing.js?svr=web8" language="JavaScript1.2"></script>
+<script src="/common/Marketing.js?svr=web39" language="JavaScript1.2"></script>
 
 
 
-               
-<!-- start RemoteContent tag (http://localhost/gstatic/us/html/pw/content//index.header.html) -->
+      
 
-<script src="/common/RemoteContent.js?svr=web8" language="JavaScript1.2"></script>
+
+
+ 
+ 
+ 
+
+ 
+ 
+
+<!-- start RemoteContent tag (http://content.photoworks.com/gstatic/us/html/pw/content//index.header.html) -->
+
+<script src="/common/RemoteContent.js?svr=web39" language="JavaScript1.2"></script>
 <script>
 RemoteContent.context = "http://www.photoworks.com";
-RemoteContent.sessionInfo = ";jsessionid=E1FE1D027282E4265C8EF9FF40BED508?cb=PW&guest=true&svr=web8";
+RemoteContent.sessionInfo = ";jsessionid=D2374E98147BA8F16834D529DCECDBD3?cb=PW&guest=true&svr=web39";
 RemoteContent.sslProtocol = "https";
 RemoteContent.isGuest = true;
+RemoteContent.staticServer = "http://content.photoworks.com";
 </script>
+<script src="/gstatic/common/Util.js"></script>
+<script src="/gstatic/common/PWUtil.js"></script>
 <script>
-function showMastDiv()
+var Geom = new Object();
+if(window.innerWidth)
+{
+    // All browsers except IE
+    Geom.getViewportWidth = function () { return window.innerWidth; };
+    Geom.getViewportHeight = function () { return window.innerHeight; };
+    Geom.getHorizontalScroll = function () { return window.pageXOffset; };
+    Geom.getVerticalScroll = function () { return window.pageYOffset; };
+}
+else if(document.documentElement && document.documentElement.clientWidth)
+{
+    Geom.getViewportWidth = function () { return document.documentElement.clientWidth; };
+    Geom.getViewportHeight = function () { return document.documentElement.clientHeight; };
+    Geom.getHorizontalScroll = function () { return document.documentElement.scrollLeft; };
+    Geom.getVerticalScroll = function () { return document.documentElement.scrollTop; };
+}
+else if(document.body.clientWidth)
+{
+    Geom.getViewportWidth = function () { return document.body.clientWidth; };
+    Geom.getViewportHeight = function () { return document.body.clientHeight; };
+    Geom.getHorizontalScroll = function () { return document.body.scrollLeft; };
+    Geom.getVerticalScroll = function () { return document.body.scrollTop; };
+}
+else
+{
+    Geom.getViewportWidth = function () { return 600; };
+    Geom.getViewportHeight = function () { return 400; };
+    Geom.getHorizontalScroll = function () { return 0; };
+    Geom.getVerticalScroll = function () { return 0; };
+}
+
+var Masthead = new Object();
+Masthead.hiddenElements = [];
+Masthead.showMastDiv = function ()
 {
     if (document.getElementById("mastDivExtended") == null)
     {
         var oNewNode = document.createElement("DIV");
         oNewNode.id="mastDivExtended";
-        oNewNode.innerHTML="\
-		<table width='64' border='0' cellspacing='0' cellpadding='0'>\
-		  <tr>\
-		    <td><a href='#' onclick='hideMastDiv();return false'>\
-		    <img src='/gstatic/us/img/pw/palette1/marketingGeneral/div_md-extended.gif' width='447' height='343' border='0'></td>\
-		  </tr>\
-		</table>\
-        ";
+        oNewNode.innerHTML = '\
+            <table border="0" cellpadding="1" cellspacing="0">\
+              <tr>\
+                <td bgcolor="#6b6b6b"><table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">\
+                  <tr>\
+                    <td width="5" bgcolor="#b1b1b1"><img src="/gstatic/img/pop-grid.gif" width="5" height="17" /></td>\
+                    <td width="1"><img src="/gstatic/img/spacer.gif" width="1" height="1" /></td>\
+                    <td bgcolor="#ffffff"><table width="330" height="309" border="0" cellpadding="1" cellspacing="0">\
+                      <tr>\
+                        <td colspan="2" align="right"><a href="#" onclick="Masthead.hideMastDiv();return false;" class="foot">Close</a></td>\
+                      </tr>\
+                      <tr>\
+                        <td style="padding:0px;"><!-- content --><!-- /content --></td>\
+                        <td width="20" style="padding:0px;"><img src="http://content.photoworks.com/gstatic/us/img/pw/palette1/marketingGeneral/div-headline.gif" width="310" align="top" /></td>\
+                      </tr>\
+                      <tr>\
+                        <td width="30" style="padding:0px;">&nbsp;</td>\
+                        <td style="padding:0px;"><p><b>Enter coupon code <font color="8a1f03">2DAYSHIPPING</font> at checkout </b><font size="-1"><br>\
+                            </font><br>\
+                          </p>\
+                          </td>\
+                      </tr>\
+                      <tr>\
+                        <td style="padding:0px;">&nbsp;</td>\
+                        <td style="padding:0px;"><img src="http://content.photoworks.com/gstatic/us/img/pw/palette1/marketingGeneral/div-dates.gif" width="310" /></td>\
+                      </tr>\
+                      <tr>\
+                        <td style="padding:0px;">&nbsp;</td>\
+                        <td style="padding:0px;"><p><font size="-2">Coupon code 2DAYSHIPPING valid for free upgrade from standard shipping to 2nd business day shipping on all online orders over $20. Offer expires midnight 12/15/07. Enter coupon code 2DAYSHIPPING during checkout. Limited to online orders. Coupon does not apply to mail-in film orders. Not applicable to shipping outside of the continental US. Cannot be combined with other coupons in the same order. Coupon does not apply to standard shipping rates, only applicable to the additional cost accrued from selecting 2nd Business Day shipping vs. standard shipping. 2nd Business Day shipping must be selected in order to activate coupon.<br />\
+                            </font></p>\
+                          <p><font size="-2"> <font color="#7B1E21">*</font>Order must be placed by 11:59 pm PST for delivery <br />\
+                            by December 24th.</font></p></td>\
+                      </tr>\
+                    </table></td>\
+                    <td width="1"><img src="/gstatic/img/spacer.gif" width="1" height="1" /></td>\
+                    <td width="10" valign="top" bgcolor="#b1b1b1"><a href="#" onclick="Masthead.hideMastDiv();return false;"><img src="/gstatic/img/pop_x.gif" width="10" height="14" border="0"></a></td>\
+                  </tr>\
+                </table></td>\
+              </tr>\
+            </table>';        
         document.body.appendChild(oNewNode);
     }
+    var divWidth = 337;
+    var topAdjust = 50;//78;
     document.getElementById("mastDivExtended").className = "popupOn";
     document.getElementById("mastDivExtended").style.visibility = "";
-    document.getElementById("mastDivExtended").style.left = 185;
-    document.getElementById("mastDivExtended").style.top = 78;
+    document.getElementById("mastDivExtended").style.left = Math.floor(Geom.getViewportWidth()/2 - divWidth/2 ) + Geom.getHorizontalScroll();
+    document.getElementById("mastDivExtended").style.top = topAdjust + Geom.getVerticalScroll();
     document.getElementById("mastDivExtended").style.position = "absolute";
     document.getElementById("mastDivExtended").style.zIndex = 100;
     document.getElementById("mastDivExtended").style.backgroundColor = "transparent";
     document.getElementById("mastDivExtended").style.border = 0;
     document.getElementById("mastDivExtended").style.width = "auto";
-    document.getElementById("mastDivExtended").style.width = "auto";
-}
-function hideMastDiv()
+    Masthead.hiddenElements = Util.hideElementsByTagName("select");
+};
+Masthead.hideMastDiv = function ()
 {
 	document.getElementById("mastDivExtended").className = "popupOff";
+    Util.showHiddenElements(Masthead.hiddenElements);
 }
+var showMastDiv = Masthead.showMastDiv;
+var hideMastDiv = Masthead.hideMastDiv;
 </script>
 
-<table width="100%" height="50" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+<table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
   <tbody><tr>
-    <td valign="top">
-    
-      <img src="/gstatic/img/spacer.gif" alt="" width="346" height="1" border="0">
-      
-		<table width="100%" border="0" cellspacing="0" cellpadding="0">
-			<tbody><tr>
-				<td><a href="http://www.photoworks.com/community/index.jsp?key=community%2Fdogs"><img src="/gstatic/us/img/pw/palette1/marketingGeneral/masthead-community.gif" alt="" height="53" width="350" border="0"></a></td>
-			</tr>
-		</tbody></table>
-    </td>
+    <td valign="top"><a href="/community/feature.jsp" onclick="Marketing.encodeThisLink(this);"><img src="http://content.photoworks.com/gstatic/us/img/pw/palette1/marketingGeneral/masthead_newcommunities.gif" height="53" width="346" border="0" alt=""></a></td>
   </tr>
 </tbody></table>
-
 
 <!-- end RemoteContent tag -->
 
@@ -133,17 +229,17 @@ Marketing.doSiteLinkOpenerWindow = RemoteContent_doSiteLinkOpenerWindow
 
 			<tbody><tr>
 		  <td width="160" align="center" nowrap="nowrap">
-			<a target="_self" href="https://www.photoworks.com/account/login.jsp;jsessionid=E1FE1D027282E4265C8EF9FF40BED508?headerKey=index&amp;loginType=login&amp;cb=PW&amp;guest=true&amp;svr=web8" class="header">Login / Signup</a>
+			<a target="_self" href="https://www.photoworks.com/account/login.jsp;jsessionid=D2374E98147BA8F16834D529DCECDBD3?headerKey=index&amp;loginType=login&amp;cb=PW&amp;guest=true&amp;svr=web39" class="header">Login / Signup</a>
 		  </td>			
 		  <td width="43"><img src="/gstatic/us/img/pw/palette1/header/icon_slides.gif" width="43" height="38"></td>
-		   <td width="90" nowrap="nowrap">	
-			<a target="_self" href="https://www.photoworks.com/account/login.jsp;jsessionid=E1FE1D027282E4265C8EF9FF40BED508?headerKey=index&amp;returnUrl=%2Ftools%2Fupload%2FchooseMethod.jsp&amp;cb=PW&amp;guest=true&amp;svr=web8" class="header">Upload Photos</a>
+		   <td width="75" nowrap="nowrap">	
+			<a target="_self" href="https://www.photoworks.com/account/login.jsp;jsessionid=D2374E98147BA8F16834D529DCECDBD3?headerKey=index&amp;returnUrl=%2Ftools%2Fupload%2FchooseMethod.jsp&amp;cb=PW&amp;guest=true&amp;svr=web39" class="header">Upload Photos</a>
 		  </td>
 		  <td align="center" nowrap="nowrap">
-			<a target="_self" href="https://www.photoworks.com/account/login.jsp;jsessionid=E1FE1D027282E4265C8EF9FF40BED508?headerKey=index&amp;returnUrl=%2Fcheckout%2F%3FuserAction%3Dindex_view&amp;cb=PW&amp;guest=true&amp;svr=web8" class="header">Your Cart</a>
+			<a target="_self" href="https://www.photoworks.com/account/login.jsp;jsessionid=D2374E98147BA8F16834D529DCECDBD3?headerKey=index&amp;returnUrl=%2Fcheckout%2F%3FuserAction%3Dindex_view&amp;cb=PW&amp;guest=true&amp;svr=web39" class="header">My Shopping Cart</a>
 		  </td>
 		  <td align="center" nowrap="nowrap">
-			<a target="_self" href="http://www.photoworks.com/util/knowledgeBaseIndex.jsp;jsessionid=E1FE1D027282E4265C8EF9FF40BED508?cb=PW&amp;guest=true&amp;svr=web8" class="header">Help</a>
+			<a target="_self" href="http://www.photoworks.com/util/knowledgeBaseIndex.jsp;jsessionid=D2374E98147BA8F16834D529DCECDBD3?cb=PW&amp;guest=true&amp;svr=web39" class="header">Help</a>
 		  </td>
 
                 </tr>
@@ -158,31 +254,53 @@ Marketing.doSiteLinkOpenerWindow = RemoteContent_doSiteLinkOpenerWindow
                   <td width="125" align="center" class="nav">
 		    <script>
 		      //MAC-Safari
-		      var atTab = "tnMain_new";
-		      if ( navigator.appVersion.indexOf("Win") == -1 && navigator.userAgent.toLowerCase().indexOf('safari') != -1 && atTab.search("At_new") > 0){
-		        document.write('<a target="_self" href="https://www.photoworks.com/account/login.jsp;jsessionid=E1FE1D027282E4265C8EF9FF40BED508?headerKey=index&returnUrl=%2FmyPhotoworks.jsp&cb=PW&guest=true&svr=web8" style="');
-			document.write('display: block; width: 100%; height: 22px; background-image:url(/gstatic/us/img/pw/palette1/header/navon.gif);color: #0a1e60;	font-size: 11px; font-weight: normal; text-decoration: none; padding: 5px 0px 0px 0px; margin: 0;border: 0;" >');	
-			document.write('My PhotoWorks</a>');	
+		       var atTab = "tnMain_new";
+		      if ( navigator.appVersion.indexOf("Win") == -1 && navigator.userAgent.toLowerCase().indexOf('safari') != -1 && atTab.search("At_new") < 0 ){ 
+		        document.write('<a target="_self" href="https://www.photoworks.com/account/login.jsp;jsessionid=D2374E98147BA8F16834D529DCECDBD3?headerKey=index&returnUrl=%2FmyPhotoworks.jsp&cb=PW&guest=true&svr=web39" class="tnMainSafari_new" >');	
+			document.write('My PhotoWorks</a>');
+		      }else if ( navigator.appVersion.indexOf("Win") == -1 && navigator.userAgent.toLowerCase().indexOf('safari') != -1 && atTab.search("At_new") > 0 ){
+		        document.write('<a target="_self" href="https://www.photoworks.com/account/login.jsp;jsessionid=D2374E98147BA8F16834D529DCECDBD3?headerKey=index&returnUrl=%2FmyPhotoworks.jsp&cb=PW&guest=true&svr=web39" class="tnMainSafariAt_new" >');	
+			document.write('My PhotoWorks</a>');
 		      }else{
-		        document.write('<a target="_self" href="https://www.photoworks.com/account/login.jsp;jsessionid=E1FE1D027282E4265C8EF9FF40BED508?headerKey=index&returnUrl=%2FmyPhotoworks.jsp&cb=PW&guest=true&svr=web8" class="tnMain_new">My PhotoWorks</a>');      
+		        document.write('<a target="_self" href="https://www.photoworks.com/account/login.jsp;jsessionid=D2374E98147BA8F16834D529DCECDBD3?headerKey=index&returnUrl=%2FmyPhotoworks.jsp&cb=PW&guest=true&svr=web39" class="tnMain_new">My PhotoWorks</a>');      
 		      }
-		    </script><a target="_self" href="https://www.photoworks.com/account/login.jsp;jsessionid=E1FE1D027282E4265C8EF9FF40BED508?headerKey=index&amp;returnUrl=%2FmyPhotoworks.jsp&amp;cb=PW&amp;guest=true&amp;svr=web8" class="tnMain_new">My PhotoWorks</a>
+		    </script><a target="_self" href="https://www.photoworks.com/account/login.jsp;jsessionid=D2374E98147BA8F16834D529DCECDBD3?headerKey=index&amp;returnUrl=%2FmyPhotoworks.jsp&amp;cb=PW&amp;guest=true&amp;svr=web39" class="tnMainSafari_new">My PhotoWorks</a>
 		  </td>
+		  
+		  <td width="1"><img src="/gstatic/us/img/pw/palette1/header/navdots.gif" width="1" height="27"></td>		  
+                  <td width="75" align="center" class="nav">
+		    <script>
+		      //MAC-Safari
+		      atTab = "tnMain_new";
+		      if ( navigator.appVersion.indexOf("Win") == -1 && navigator.userAgent.toLowerCase().indexOf('safari') != -1 && atTab.search("At_new") < 0 ){ 
+		        document.write('<a target="_self" href="/photo-film/" onclick="this.href=\'http://www.photoworks.com/photo-film/;jsessionid=D2374E98147BA8F16834D529DCECDBD3?cb=PW&guest=true&svr=web39\';" ');	
+			document.write('class="tnMainSafari_new" >Film</a>');
+		      }else if ( navigator.appVersion.indexOf("Win") == -1 && navigator.userAgent.toLowerCase().indexOf('safari') != -1 && atTab.search("At_new") > 0 ){
+		        document.write('<a target="_self" href="/photo-film/" onclick="this.href=\'http://www.photoworks.com/photo-film/;jsessionid=D2374E98147BA8F16834D529DCECDBD3?cb=PW&guest=true&svr=web39\';" ');	
+			document.write('class="tnMainSafariAt_new" >Film</a>');			
+		      }else{
+		        document.write('<a target="_self" href="/photo-film/" onclick="this.href=\'http://www.photoworks.com/photo-film/;jsessionid=D2374E98147BA8F16834D529DCECDBD3?cb=PW&guest=true&svr=web39\';" class="tnMain_new">Film</a>');      
+		      }
+		      
+		    </script><a target="_self" href="/photo-film/" onclick="this.href='http://www.photoworks.com/photo-film/;jsessionid=D2374E98147BA8F16834D529DCECDBD3?cb=PW&amp;guest=true&amp;svr=web39';" class="tnMainSafari_new">Film</a>
+		  </td>		  
 	  
 		  <td width="1"><img src="/gstatic/us/img/pw/palette1/header/navdots.gif" width="1" height="27"></td>		  
                   <td width="75" align="center" class="nav">
 		    <script>
 		      //MAC-Safari
 		      atTab = "tnMain_new";
-		      if ( navigator.appVersion.indexOf("Win") == -1 && navigator.userAgent.toLowerCase().indexOf('safari') != -1 && atTab.search("At_new") > 0){
-		        document.write('<a target="_self" href="/photo-prints/" onclick="this.href=\'http://www.photoworks.com/photo-prints/;jsessionid=E1FE1D027282E4265C8EF9FF40BED508?cb=PW&guest=true&svr=web8\';" style="');
-			document.write('display: block; width: 100%; height: 22px; background-image:url(/gstatic/us/img/pw/palette1/header/navon.gif);color: #0a1e60;	font-size: 11px; font-weight: normal; text-decoration: none; padding: 5px 0px 0px 0px; margin: 0;border: 0;" >');	
-			document.write('Prints</a>');	
+		      if ( navigator.appVersion.indexOf("Win") == -1 && navigator.userAgent.toLowerCase().indexOf('safari') != -1 && atTab.search("At_new") < 0 ){ 
+		        document.write('<a target="_self" href="/photo-prints/" onclick="this.href=\'http://www.photoworks.com/photo-prints/;jsessionid=D2374E98147BA8F16834D529DCECDBD3?cb=PW&guest=true&svr=web39\';" ');	
+			document.write('class="tnMainSafari_new" >Prints</a>');
+		      }else if ( navigator.appVersion.indexOf("Win") == -1 && navigator.userAgent.toLowerCase().indexOf('safari') != -1 && atTab.search("At_new") > 0 ){
+		        document.write('<a target="_self" href="/photo-prints/" onclick="this.href=\'http://www.photoworks.com/photo-prints/;jsessionid=D2374E98147BA8F16834D529DCECDBD3?cb=PW&guest=true&svr=web39\';" ');	
+			document.write('class="tnMainSafariAt_new" >Prints</a>');			
 		      }else{
-		        document.write('<a target="_self" href="/photo-prints/" onclick="this.href=\'http://www.photoworks.com/photo-prints/;jsessionid=E1FE1D027282E4265C8EF9FF40BED508?cb=PW&guest=true&svr=web8\';" class="tnMain_new">Prints</a>');      
+		        document.write('<a target="_self" href="/photo-prints/" onclick="this.href=\'http://www.photoworks.com/photo-prints/;jsessionid=D2374E98147BA8F16834D529DCECDBD3?cb=PW&guest=true&svr=web39\';" class="tnMain_new">Prints</a>');      
 		      }
 		      
-		    </script><a target="_self" href="/photo-prints/" onclick="this.href='http://www.photoworks.com/photo-prints/;jsessionid=E1FE1D027282E4265C8EF9FF40BED508?cb=PW&amp;guest=true&amp;svr=web8';" class="tnMain_new">Prints</a>		  
+		    </script><a target="_self" href="/photo-prints/" onclick="this.href='http://www.photoworks.com/photo-prints/;jsessionid=D2374E98147BA8F16834D529DCECDBD3?cb=PW&amp;guest=true&amp;svr=web39';" class="tnMainSafari_new">Prints</a>		  
 		  </td>
 		  
 		  <td width="1"><img src="/gstatic/us/img/pw/palette1/header/navdots.gif" width="1" height="27"></td>
@@ -190,47 +308,35 @@ Marketing.doSiteLinkOpenerWindow = RemoteContent_doSiteLinkOpenerWindow
 		    <script>
 		      //MAC-Safari
 		      atTab = "tnMain_new";
-		      if ( navigator.appVersion.indexOf("Win") == -1 && navigator.userAgent.toLowerCase().indexOf('safari') != -1 && atTab.search("At_new") > 0){
-		        document.write('<a target="_self" href="/photo-cards/" onclick="this.href=\'http://www.photoworks.com/photo-cards/;jsessionid=E1FE1D027282E4265C8EF9FF40BED508?cb=PW&guest=true&svr=web8\';" style="');
-			document.write('display: block; width: 100%; height: 22px; background-image:url(/gstatic/us/img/pw/palette1/header/navon.gif);color: #0a1e60;	font-size: 11px; font-weight: normal; text-decoration: none; padding: 5px 0px 0px 0px; margin: 0;border: 0;" >');	
-			document.write('Cards</a>');	
+		      if ( navigator.appVersion.indexOf("Win") == -1 && navigator.userAgent.toLowerCase().indexOf('safari') != -1 && atTab.search("At_new") < 0 ){ 
+		        document.write('<a target="_self" href="/photo-cards/" onclick="this.href=\'http://www.photoworks.com/photo-cards/;jsessionid=D2374E98147BA8F16834D529DCECDBD3?cb=PW&guest=true&svr=web39\';"');	
+			document.write('class="tnMainSafari_new" >Cards</a>');
+		      }else if ( navigator.appVersion.indexOf("Win") == -1 && navigator.userAgent.toLowerCase().indexOf('safari') != -1 && atTab.search("At_new") > 0 ){
+		        document.write('<a target="_self" href="/photo-cards/" onclick="this.href=\'http://www.photoworks.com/photo-cards/;jsessionid=D2374E98147BA8F16834D529DCECDBD3?cb=PW&guest=true&svr=web39\';" ');	
+			document.write('class="tnMainSafariAt_new" >Cards</a>');			
 		      }else{
-		        document.write('<a target="_self" href="/photo-cards/" onclick="this.href=\'http://www.photoworks.com/photo-cards/;jsessionid=E1FE1D027282E4265C8EF9FF40BED508?cb=PW&guest=true&svr=web8\';" class="tnMain_new">Cards</a>');      
+		        document.write('<a target="_self" href="/photo-cards/" onclick="this.href=\'http://www.photoworks.com/photo-cards/;jsessionid=D2374E98147BA8F16834D529DCECDBD3?cb=PW&guest=true&svr=web39\';" class="tnMain_new">Cards</a>');      
 		      }
 		      
-		    </script><a target="_self" href="/photo-cards/" onclick="this.href='http://www.photoworks.com/photo-cards/;jsessionid=E1FE1D027282E4265C8EF9FF40BED508?cb=PW&amp;guest=true&amp;svr=web8';" class="tnMain_new">Cards</a>		  
+		    </script><a target="_self" href="/photo-cards/" onclick="this.href='http://www.photoworks.com/photo-cards/;jsessionid=D2374E98147BA8F16834D529DCECDBD3?cb=PW&amp;guest=true&amp;svr=web39';" class="tnMainSafari_new">Cards</a>		  
 		  </td>
 		  
 		  <td width="1"><img src="/gstatic/us/img/pw/palette1/header/navdots.gif" width="1" height="27"></td>
-                  <td width="95" align="center" class="nav">
+                  <td width="100" align="center" class="nav">
 		    <script>
 		      //MAC-Safari
 		      atTab = "tnMain_new";
-		      if ( navigator.appVersion.indexOf("Win") == -1 && navigator.userAgent.toLowerCase().indexOf('safari') != -1 && atTab.search("At_new") > 0){
-		        document.write('<a target="_self" href="/photo-books/" onclick="this.href=\'http://www.photoworks.com/photo-books/;jsessionid=E1FE1D027282E4265C8EF9FF40BED508?cb=PW&guest=true&svr=web8\';" style="');
-			document.write('display: block; width: 100%; height: 22px; background-image:url(/gstatic/us/img/pw/palette1/header/navon.gif);color: #0a1e60;	font-size: 11px; font-weight: normal; text-decoration: none; padding: 5px 0px 0px 0px; margin: 0;border: 0;" >');	
-			document.write('Photo Books</a>');	
+		      if ( navigator.appVersion.indexOf("Win") == -1 && navigator.userAgent.toLowerCase().indexOf('safari') != -1 && atTab.search("At_new") < 0 ){ 
+		        document.write('<a target="_self" href="/photo-books/" onclick="this.href=\'http://www.photoworks.com/photo-books/;jsessionid=D2374E98147BA8F16834D529DCECDBD3?cb=PW&guest=true&svr=web39\';"');	
+			document.write('class="tnMainSafari_new" >Photo Books</a>');
+		      }else if ( navigator.appVersion.indexOf("Win") == -1 && navigator.userAgent.toLowerCase().indexOf('safari') != -1 && atTab.search("At_new") > 0 ){
+		        document.write('<a target="_self" href="/photo-books/" onclick="this.href=\'http://www.photoworks.com/photo-books/;jsessionid=D2374E98147BA8F16834D529DCECDBD3?cb=PW&guest=true&svr=web39\';" ');	
+			document.write('class="tnMainSafariAt_new" >Photo Books</a>');			
 		      }else{
-		        document.write('<a target="_self" href="/photo-books/" onclick="this.href=\'http://www.photoworks.com/photo-books/;jsessionid=E1FE1D027282E4265C8EF9FF40BED508?cb=PW&guest=true&svr=web8\';" class="tnMain_new">Photo Books</a>');      
+		        document.write('<a target="_self" href="/photo-books/" onclick="this.href=\'http://www.photoworks.com/photo-books/;jsessionid=D2374E98147BA8F16834D529DCECDBD3?cb=PW&guest=true&svr=web39\';" class="tnMain_new">Photo Books</a>');      
 		      }
 		      
-		    </script><a target="_self" href="/photo-books/" onclick="this.href='http://www.photoworks.com/photo-books/;jsessionid=E1FE1D027282E4265C8EF9FF40BED508?cb=PW&amp;guest=true&amp;svr=web8';" class="tnMain_new">Photo Books</a>		  
-		  </td>
-		  
-		  <td width="1"><img src="/gstatic/us/img/pw/palette1/header/navdots.gif" width="1" height="27"></td>
-                  <td width="85" align="center" class="nav">
-		    <script>
-		      //MAC-Safari
-		      atTab = "tnMain_new";
-		      if ( navigator.appVersion.indexOf("Win") == -1 && navigator.userAgent.toLowerCase().indexOf('safari') != -1 && atTab.search("At_new") > 0){
-		        document.write('<a target="_self" href="/photo-calendars/" onclick="this.href=\'http://www.photoworks.com/photo-calendars/;jsessionid=E1FE1D027282E4265C8EF9FF40BED508?cb=PW&guest=true&svr=web8\';" style="');
-			document.write('display: block; width: 100%; height: 22px; background-image:url(/gstatic/us/img/pw/palette1/header/navon.gif);color: #0a1e60;	font-size: 11px; font-weight: normal; text-decoration: none; padding: 5px 0px 0px 0px; margin: 0;border: 0;" >');	
-			document.write('Calendars</a>');	
-		      }else{
-		        document.write('<a target="_self" href="/photo-calendars/" onclick="this.href=\'http://www.photoworks.com/photo-calendars/;jsessionid=E1FE1D027282E4265C8EF9FF40BED508?cb=PW&guest=true&svr=web8\';" class="tnMain_new">Calendars</a>');      
-		      }
-		      
-		    </script><a target="_self" href="/photo-calendars/" onclick="this.href='http://www.photoworks.com/photo-calendars/;jsessionid=E1FE1D027282E4265C8EF9FF40BED508?cb=PW&amp;guest=true&amp;svr=web8';" class="tnMain_new">Calendars</a>		  
+		    </script><a target="_self" href="/photo-books/" onclick="this.href='http://www.photoworks.com/photo-books/;jsessionid=D2374E98147BA8F16834D529DCECDBD3?cb=PW&amp;guest=true&amp;svr=web39';" class="tnMainSafari_new">Photo Books</a>		  
 		  </td>
 		  
 		  <td width="1"><img src="/gstatic/us/img/pw/palette1/header/navdots.gif" width="1" height="27"></td>
@@ -238,15 +344,35 @@ Marketing.doSiteLinkOpenerWindow = RemoteContent_doSiteLinkOpenerWindow
 		    <script>
 		      //MAC-Safari
 		      atTab = "tnMain_new";
-		      if ( navigator.appVersion.indexOf("Win") == -1 && navigator.userAgent.toLowerCase().indexOf('safari') != -1 && atTab.search("At_new") > 0){
-		        document.write('<a target="_self" href="/photo-gifts/" onclick="this.href=\'http://www.photoworks.com/photo-gifts/;jsessionid=E1FE1D027282E4265C8EF9FF40BED508?cb=PW&guest=true&svr=web8\';" style="');
-			document.write('display: block; width: 100%; height: 22px; background-image:url(/gstatic/us/img/pw/palette1/header/navon.gif);color: #0a1e60;	font-size: 11px; font-weight: normal; text-decoration: none; padding: 5px 0px 0px 0px; margin: 0;border: 0;" >');	
-			document.write('Photo Gifts</a>');	
+		      if ( navigator.appVersion.indexOf("Win") == -1 && navigator.userAgent.toLowerCase().indexOf('safari') != -1 && atTab.search("At_new") < 0 ){ 
+		        document.write('<a target="_self" href="/photo-calendars/" onclick="this.href=\'http://www.photoworks.com/photo-calendars/;jsessionid=D2374E98147BA8F16834D529DCECDBD3?cb=PW&guest=true&svr=web39\';"');	
+			document.write('class="tnMainSafari_new" >Calendars</a>');
+		      }else if ( navigator.appVersion.indexOf("Win") == -1 && navigator.userAgent.toLowerCase().indexOf('safari') != -1 && atTab.search("At_new") > 0 ){
+		        document.write('<a target="_self" href="/photo-calendars/" onclick="this.href=\'http://www.photoworks.com/photo-calendars/;jsessionid=D2374E98147BA8F16834D529DCECDBD3?cb=PW&guest=true&svr=web39\';" ');	
+			document.write('class="tnMainSafariAt_new" >Calendars</a>');			
 		      }else{
-		        document.write('<a target="_self" href="/photo-gifts/" onclick="this.href=\'http://www.photoworks.com/photo-gifts/;jsessionid=E1FE1D027282E4265C8EF9FF40BED508?cb=PW&guest=true&svr=web8\';" class="tnMain_new">Photo Gifts</a>');      
+		        document.write('<a target="_self" href="/photo-calendars/" onclick="this.href=\'http://www.photoworks.com/photo-calendars/;jsessionid=D2374E98147BA8F16834D529DCECDBD3?cb=PW&guest=true&svr=web39\';" class="tnMain_new">Calendars</a>');      
 		      }
 		      
-		    </script><a target="_self" href="/photo-gifts/" onclick="this.href='http://www.photoworks.com/photo-gifts/;jsessionid=E1FE1D027282E4265C8EF9FF40BED508?cb=PW&amp;guest=true&amp;svr=web8';" class="tnMain_new">Photo Gifts</a>		  
+		    </script><a target="_self" href="/photo-calendars/" onclick="this.href='http://www.photoworks.com/photo-calendars/;jsessionid=D2374E98147BA8F16834D529DCECDBD3?cb=PW&amp;guest=true&amp;svr=web39';" class="tnMainSafari_new">Calendars</a>		  
+		  </td>
+		  
+		  <td width="1"><img src="/gstatic/us/img/pw/palette1/header/navdots.gif" width="1" height="27"></td>
+                  <td width="85" align="center" class="nav">
+		    <script>
+		      //MAC-Safari
+		      atTab = "tnMain_new";
+		      if ( navigator.appVersion.indexOf("Win") == -1 && navigator.userAgent.toLowerCase().indexOf('safari') != -1 && atTab.search("At_new") < 0 ){ 
+		        document.write('<a target="_self" href="/photo-gifts/" onclick="this.href=\'http://www.photoworks.com/photo-gifts/;jsessionid=D2374E98147BA8F16834D529DCECDBD3?cb=PW&guest=true&svr=web39\';"');	
+			document.write('class="tnMainSafari_new" >Photo Gifts</a>');
+		      }else if ( navigator.appVersion.indexOf("Win") == -1 && navigator.userAgent.toLowerCase().indexOf('safari') != -1 && atTab.search("At_new") > 0 ){
+		        document.write('<a target="_self" href="/photo-gifts/" onclick="this.href=\'http://www.photoworks.com/photo-gifts/;jsessionid=D2374E98147BA8F16834D529DCECDBD3?cb=PW&guest=true&svr=web39\';" ');	
+			document.write('class="tnMainSafariAt_new" >Photo Gifts</a>');			
+		      }else{
+		        document.write('<a target="_self" href="/photo-gifts/" onclick="this.href=\'http://www.photoworks.com/photo-gifts/;jsessionid=D2374E98147BA8F16834D529DCECDBD3?cb=PW&guest=true&svr=web39\';" class="tnMain_new">Photo Gifts</a>');      
+		      }
+		      
+		    </script><a target="_self" href="/photo-gifts/" onclick="this.href='http://www.photoworks.com/photo-gifts/;jsessionid=D2374E98147BA8F16834D529DCECDBD3?cb=PW&amp;guest=true&amp;svr=web39';" class="tnMainSafari_new">Photo Gifts</a>		  
 		  	
 		  </td>
 		  <td width="1"><img src="/gstatic/us/img/pw/palette1/header/navdots.gif" width="1" height="27"></td>
@@ -254,18 +380,55 @@ Marketing.doSiteLinkOpenerWindow = RemoteContent_doSiteLinkOpenerWindow
 		    <script>
 		      //MAC-Safari
 		      atTab = "tnMain_new";
-		      if ( navigator.appVersion.indexOf("Win") == -1 && navigator.userAgent.toLowerCase().indexOf('safari') != -1 && atTab.search("At_new") > 0){
-		        document.write('<a target="_self" href="/photo-sharing/"  onclick="this.href=\'http://www.photoworks.com/photo-sharing/;jsessionid=E1FE1D027282E4265C8EF9FF40BED508?cb=PW&guest=true&svr=web8\';" style="');
-			document.write('display: block; width: 100%; height: 22px; background-image:url(/gstatic/us/img/pw/palette1/header/navon.gif);color: #0a1e60;	font-size: 11px; font-weight: normal; text-decoration: none; padding: 5px 0px 0px 0px; margin: 0;border: 0;" >');	
-			document.write('Share</a>');	
+		      if ( navigator.appVersion.indexOf("Win") == -1 && navigator.userAgent.toLowerCase().indexOf('safari') != -1 && atTab.search("At_new") < 0 ){ 
+		        document.write('<a target="_self" href="/photo-sharing/"  onclick="this.href=\'http://www.photoworks.com/photo-sharing/;jsessionid=D2374E98147BA8F16834D529DCECDBD3?cb=PW&guest=true&svr=web39\';"');	
+			document.write('class="tnMainSafari_new" >Share</a>');
+		      }else if ( navigator.appVersion.indexOf("Win") == -1 && navigator.userAgent.toLowerCase().indexOf('safari') != -1 && atTab.search("At_new") > 0 ){
+		        document.write('<a target="_self" href="/photo-sharing/"  onclick="this.href=\'http://www.photoworks.com/photo-sharing/;jsessionid=D2374E98147BA8F16834D529DCECDBD3?cb=PW&guest=true&svr=web39\';" ');	
+			document.write('class="tnMainSafariAt_new" >Share</a>');				
 		      }else{
-		        document.write('<a target="_self" href="/photo-sharing/"  onclick="this.href=\'http://www.photoworks.com/photo-sharing/;jsessionid=E1FE1D027282E4265C8EF9FF40BED508?cb=PW&guest=true&svr=web8\';" class="tnMain_new">Share</a>');      
+		        document.write('<a target="_self" href="/photo-sharing/"  onclick="this.href=\'http://www.photoworks.com/photo-sharing/;jsessionid=D2374E98147BA8F16834D529DCECDBD3?cb=PW&guest=true&svr=web39\';" class="tnMain_new">Share</a>');      
 		      }
 		      
-		    </script><a target="_self" href="/photo-sharing/" onclick="this.href='http://www.photoworks.com/photo-sharing/;jsessionid=E1FE1D027282E4265C8EF9FF40BED508?cb=PW&amp;guest=true&amp;svr=web8';" class="tnMain_new">Share</a>		  
+		    </script><a target="_self" href="/photo-sharing/" onclick="this.href='http://www.photoworks.com/photo-sharing/;jsessionid=D2374E98147BA8F16834D529DCECDBD3?cb=PW&amp;guest=true&amp;svr=web39';" class="tnMainSafari_new">Share</a>		  
 		  </td>
+
 		  <td width="1"><img src="/gstatic/us/img/pw/palette1/header/navdots.gif" width="1" height="27"></td>
-		  <td background="/gstatic/us/img/pw/palette1/header/nav.gif">&nbsp;</td>
+                  <td width="100" align="center" class="nav">
+		    <script>
+		      //MAC-Safari
+		      atTab = "tnMain_new";
+		      if ( navigator.appVersion.indexOf("Win") == -1 && navigator.userAgent.toLowerCase().indexOf('safari') != -1 && atTab.search("At_new") < 0 ){ 
+		        document.write('<a target="_self" href="/community/feature.jsp"  onclick="this.href=\'http://www.photoworks.com/community/feature.jsp;jsessionid=D2374E98147BA8F16834D529DCECDBD3?cb=PW&guest=true&svr=web39\';"');	
+			document.write('class="tnMainSafari_new" >Community</a>');
+		      }else if ( navigator.appVersion.indexOf("Win") == -1 && navigator.userAgent.toLowerCase().indexOf('safari') != -1 && atTab.search("At_new") > 0 ){
+		        document.write('<a target="_self" href="/community/feature.jsp"  onclick="this.href=\'http://www.photoworks.com/community/feature.jsp;jsessionid=D2374E98147BA8F16834D529DCECDBD3?cb=PW&guest=true&svr=web39\';" ');	
+			document.write('class="tnMainSafariAt_new" >Community</a>');				
+		      }else{
+		        document.write('<a target="_self" href="/community/feature.jsp"  onclick="this.href=\'http://www.photoworks.com/community/feature.jsp;jsessionid=D2374E98147BA8F16834D529DCECDBD3?cb=PW&guest=true&svr=web39\';" class="tnMain_new">Community</a>');      
+		      }
+		      
+		    </script><a target="_self" href="/community/feature.jsp" onclick="this.href='http://www.photoworks.com/community/feature.jsp;jsessionid=D2374E98147BA8F16834D529DCECDBD3?cb=PW&amp;guest=true&amp;svr=web39';" class="tnMainSafari_new">Community</a>		  
+		  </td>
+
+		  <td width="1"><img src="/gstatic/us/img/pw/palette1/header/navdots.gif" width="1" height="27"></td>
+                  <td width="100" align="center" class="nav">
+		    <script>
+		      //MAC-Safari
+		      atTab = "tnMain_new";
+		      if ( navigator.appVersion.indexOf("Win") == -1 && navigator.userAgent.toLowerCase().indexOf('safari') != -1 && atTab.search("At_new") < 0 ){ 
+		        document.write('<a target="_self" href="/storefront/find.jsp"  onclick="this.href=\'http://www.photoworks.com/storefront/find.jsp;jsessionid=D2374E98147BA8F16834D529DCECDBD3?cb=PW&guest=true&svr=web39\';"');	
+			document.write('class="tnMainSafari_new" >Storefront</a>');
+		      }else if ( navigator.appVersion.indexOf("Win") == -1 && navigator.userAgent.toLowerCase().indexOf('safari') != -1 && atTab.search("At_new") > 0 ){
+		        document.write('<a target="_self" href="/storefront/find.jsp"  onclick="this.href=\'http://www.photoworks.com/storefront/find.jsp;jsessionid=D2374E98147BA8F16834D529DCECDBD3?cb=PW&guest=true&svr=web39\';" ');	
+			document.write('class="tnMainSafariAt_new" >Storefront</a>');				
+		      }else{
+		        document.write('<a target="_self" href="/storefront/find.jsp"  onclick="this.href=\'http://www.photoworks.com/storefront/find.jsp;jsessionid=D2374E98147BA8F16834D529DCECDBD3?cb=PW&guest=true&svr=web39\';" class="tnMain_new">Storefront</a>');
+		      }
+		      
+		    </script><a target="_self" href="/storefront/find.jsp" onclick="this.href='http://www.photoworks.com/storefront/find.jsp;jsessionid=D2374E98147BA8F16834D529DCECDBD3?cb=PW&amp;guest=true&amp;svr=web39';" class="tnMainSafari_new">Storefront</a>		  
+		  </td>
+		  		  
          </tr>
          </tbody></table>
 	 <table width="100%" border="0" cellspacing="0" cellpadding="0">
@@ -290,51 +453,7 @@ Marketing.doSiteLinkOpenerWindow = RemoteContent_doSiteLinkOpenerWindow
 
 
 
-
-<script>
-
-/*jws commented out 5/18 all headers will now have 1012 width
- var resetHeader = null;
- resetHeader = '1012';
- var headerWidth = '1012';
- 
- if(resetHeader != null && resetHeader != "" && !(!resetHeader)){
- 	document.getElementById("mastheadpromo").width = "350";
-	document.getElementById("outerTbl").width = headerWidth;
-	
-*/	
-	
-/* was used for straching the header */
-/*
-document.getElementById("headerTbl").style.width = "100%";
-document.getElementById("topTbl").style.width = "100%";
-document.getElementById("lowerTbl").style.width = "100%";
-		
-	if(document.body.clientWidth <= headerWidth){ 
- 		document.getElementById("outerTbl").width = headerWidth;
-	}else document.getElementById("outerTbl").width = document.body.clientWidth;
-	
- }
-*/	
-
-/*jws commented out 5/18 all headers will now have 1012 width
-
- function resizeHeader(){
-  if(resetHeader != null && resetHeader != "" && !(!resetHeader)){
-  	document.getElementById("mastheadpromo").width = "350";
- 	if(document.body.clientWidth <= headerWidth){ 
- 		document.getElementById("outerTbl").width = headerWidth;
-	}	
-	else document.getElementById("outerTbl").width = document.body.clientWidth;	
-  }
-  
- }
-
-*/  
-  
-  
-</script>
-<!-- start Header tag -->
+<!-- end Header tag -->
 
 
 <div id="body1012">
@@ -357,6 +476,21 @@ document.getElementById("lowerTbl").style.width = "100%";
             <p><a href="/account/login.jsp?headerKey=index&amp;returnUrl=%2Faccount%2Forders%2Findex.jsp&amp;returnUrlAttrs={userAction=%22changeFilter%22,criteria=%223mos%22}" onclick="KnowledgeBase.encodeThisSiteLink(this, 'http');"><img src="/gstatic/us/img/pw/palette1/btn_vieworderstatus.gif" alt="View Order Status" width="124" height="28" border="0"></a></p>
           </div>
           
+		  <div>
+	      <h4>Search Help Topics:</h4>
+		<!-- Google CSE Search Box Begins  -->
+		  <form id="searchbox_003663157282341039303:fvb3qd3uw4s" action="http://www.google.com/cse" target="_blank">
+		    <input type="hidden" name="cx" value="003663157282341039303:fvb3qd3uw4s">
+		    <input type="hidden" name="cof" value="FORID:0">
+		    <input name="q" type="text" size="20">
+		    <input type="submit" name="sa" value="Search">
+		  </form>
+		  <script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=searchbox_003663157282341039303%3Afvb3qd3uw4s"></script>
+		<!-- Google CSE Search Box Ends -->
+
+		  <br>
+	      </div>
+	
           <div class="ternSub">
             <img src="/gstatic/img/spacer.gif" alt="" width="1" height="4" border="0"><br>
             
@@ -384,7 +518,17 @@ document.getElementById("lowerTbl").style.width = "100%";
 
     <!--  CONTENT WELL  -->
     
-               
+      
+
+
+
+ 
+ 
+ 
+
+ 
+ 
+
 <!-- start RemoteContent tag (http://guardian/csprod/knowledgeBase/privacy.html) -->
 <script language="javascript" type="text/javascript">    var omnitureTitle = "Customer Service: Privacy Policy";
 </script>
@@ -409,7 +553,7 @@ document.getElementById("lowerTbl").style.width = "100%";
 
                                 <td style="text-align: center; vertical-align: middle;">
 																<a href="http://www.truste.org/ivalidate.php?url=www.photoworks.com&amp;sealid=101" target="_blank">
-                                <img style="width: 91px; height: 73px;border: 0" alt="" src="http://pwfsd.photoworks.com/cswebimages/clickseal.gif"></a>
+                                <img style="width: 68px; height: 95px;border: 0" alt="" src="http://pwfsd.photoworks.com/cswebimages/NewTrustELogoNew.JPG"></a>
                                 </td>
                             </tr>
 
@@ -419,7 +563,7 @@ document.getElementById("lowerTbl").style.width = "100%";
                                 <td></td>
 
                                 <td style="text-align: center;">
-                                Updated 6/4/07</td>
+                                Updated 10/22/07</td>
                             </tr>
                         </tbody>
                     </table>
@@ -529,7 +673,7 @@ document.getElementById("lowerTbl").style.width = "100%";
                     we encrypt that information using secure socket
                     layer technology (SSL).&nbsp; Financial
                     information is transferred between client and
-                    PhotoWorks Web server using a public/private
+                    PhotoWorks' Web server using a public/private
                     key encryption method using a certificate
                     authority (VeriSign). We have put in place
                     appropriate physical, electronic, and
@@ -581,7 +725,7 @@ document.getElementById("lowerTbl").style.width = "100%";
                     your name and email address. This personal
                     information is used to conduct business with
                     you, to verify your identity as a registered
-                    PhotoWorks customer, for access to the customer
+                    PhotoWorks customer, for access to your customer
                     images and for the delivery of prizes or other
                     materials.<br>
                     <br>
@@ -1045,63 +1189,16 @@ document.getElementById("lowerTbl").style.width = "100%";
 
 <!-- start Footer tag -->
 
-<script>
-//adjusts style settings so that tables within absolute-position div can be centered
-//this is Safari-specific as it handles this differently from IE, FF
-//page layout must be in the format:
-//<div id="body1012">
-//	...
-//		<table name="table1012" class="table1012">
-//			...
-//
-//---------OR----------
-//<div id="body">
-//	...
-//		<table name="table826" class="table826">
-//			...
-//
-function adjustSafariLayout()
-{
-	var bodyElem1012 = document.getElementById("body1012");
-	if (bodyElem1012 != null)
-	{ 
-		bodyElem1012.style.top = "104px";
-		bodyElem1012.style.width = "100%";
-		bodyElem1012.style.padding = "0px";
-	}
-	
-	var bodyTables1012 = document.getElementsByName("table1012");
-   	for (var x = 0; x < bodyTables1012.length; x++) 
-	{
-		bodyTables1012[x].width = "1012px";
-		bodyTables1012[x].style.padding = "0px 35px 0px";
-		bodyTables1012[x].style.background = "transparent";
-	}
-	
-	var bodyElem = document.getElementById("body");
-	if (bodyElem != null)
-	{ 
-		bodyElem.style.top = "104px";
-		bodyElem.style.width = "100%";
-		bodyElem.style.padding = "0px";
-	}
-	
-	var bodyTables826 = document.getElementsByName("table826");
-   	for (var y = 0; y < bodyTables826.length; y++) 
-	{
-		bodyTables826[y].width = "826px";
-		bodyTables826[y].style.padding = "0px 35px 0px";
-		bodyTables826[y].style.background = "transparent";
-	}
-	
-}
-</script>
 
 
 
 
-
-
+<table width="942" class="table1012" name="table1012" align="center" cellpadding="0" cellspacing="0" border="0" id="footerTbl">
+  <tbody><tr>
+    <td class="borderLeft" width="7"><img src="/gstatic/img/spacer.gif" alt="" width="7" height="1" border="0"></td>
+    <td align="center">
+      <img src="/gstatic/img/spacer.gif" alt="" width="1" height="14" border="0"><br>
+      
 
 
 
@@ -1111,23 +1208,27 @@ function adjustSafariLayout()
 <!-- start SiteDown tag -->
 
 
-<table width="942" align="center" cellpadding="0" cellspacing="0" border="0" id="footerTbl">
-<tbody><tr>
-    <td class="borderLeft" width="7"><img src="/gstatic/img/spacer.gif" alt="" width="7" height="1" border="0"></td>
-    <td align="center"><img src="/gstatic/img/spacer.gif" alt="" width="1" height="14" border="0"><br>
+
+
+<!-- end SiteDown tag -->
+
+      <img src="/gstatic/img/spacer.gif" alt="" width="1" height="14" border="0"><br>
       <img src="/gstatic/img/foot-divider.gif" alt="" width="743" height="1" border="0"><br>
         
       <p class="foot">
-        <a target="_self" href="/gstatic/us/img/pw/1800_FILM.pdf" class="foot">Order Forms</a> &nbsp;|&nbsp;
-        <!-- <a target="_self" href="/util/helpTemplate.jsp?helpFile=pricing.jsp" class="foot">Pricing</a> &nbsp;|&nbsp; -->
-        <a target="_self" href="/account/login.jsp?returnUrl=/account/orders/index.jsp&amp;returnUrlAttrs={userAction=%22changeFilter%22,criteria=%223mos%22}" onclick="this.href='https://www.photoworks.com/account/login.jsp;jsessionid=E1FE1D027282E4265C8EF9FF40BED508?returnUrl=/account/orders/index.jsp&amp;returnUrlAttrs={userAction=%22changeFilter%22,criteria=%223mos%22}&amp;cb=PW&amp;guest=true&amp;svr=web8';" class="foot">View Order Status</a> &nbsp;|&nbsp;
-        <a target="_self" href="/util/knowledgeBaseTemplate.jsp?helpFile=privacy.html&amp;subject=Privacy%20Policy" onclick="this.href='http://www.photoworks.com/util/knowledgeBaseTemplate.jsp;jsessionid=E1FE1D027282E4265C8EF9FF40BED508?helpFile=privacy.html&amp;subject=Privacy%20Policy&amp;cb=PW&amp;guest=true&amp;svr=web8';" class="foot">Privacy</a> &nbsp;|&nbsp;
-        <a target="_self" href="/util/knowledgeBaseTemplate.jsp?helpFile=terms.html&amp;subject=Terms%20and%20Conditions" onclick="this.href='http://www.photoworks.com/util/knowledgeBaseTemplate.jsp;jsessionid=E1FE1D027282E4265C8EF9FF40BED508?helpFile=terms.html&amp;subject=Terms%20and%20Conditions&amp;cb=PW&amp;guest=true&amp;svr=web8';" class="foot">Terms</a> &nbsp;|&nbsp;
-        <a target="_self" href="/util/aboutTemplate.jsp?aboutFile=index.jsp" onclick="this.href='http://www.photoworks.com/util/aboutTemplate.jsp;jsessionid=E1FE1D027282E4265C8EF9FF40BED508?aboutFile=index.jsp&amp;cb=PW&amp;guest=true&amp;svr=web8';" class="foot">About Us</a> &nbsp;|&nbsp;
-        <a target="_self" href="/util/aboutTemplate.jsp?aboutFile=aboutAffiliate.jsp" onclick="this.href='http://www.photoworks.com/util/aboutTemplate.jsp;jsessionid=E1FE1D027282E4265C8EF9FF40BED508?aboutFile=aboutAffiliate.jsp&amp;cb=PW&amp;guest=true&amp;svr=web8';" class="foot">Affiliate Program</a> &nbsp;|&nbsp;
-        <a target="_self" href="/util/aboutTemplate.jsp?aboutFile=aboutInternational.jsp" onclick="this.href='http://www.photoworks.com/util/aboutTemplate.jsp;jsessionid=E1FE1D027282E4265C8EF9FF40BED508?aboutFile=aboutInternational.jsp&amp;cb=PW&amp;guest=true&amp;svr=web8';" class="foot">FoBaz</a> &nbsp;|&nbsp;
-        <a target="_self" href="/util/knowledgeBaseIndex.jsp" onclick="this.href='http://www.photoworks.com/util/knowledgeBaseIndex.jsp;jsessionid=E1FE1D027282E4265C8EF9FF40BED508?cb=PW&amp;guest=true&amp;svr=web8';" class="foot">Help</a> &nbsp;|&nbsp;
-        <a target="_self" href="/util/sitemap.jsp" onclick="this.href='http://www.photoworks.com/util/sitemap.jsp;jsessionid=E1FE1D027282E4265C8EF9FF40BED508?cb=PW&amp;guest=true&amp;svr=web8';" class="foot">Site Map</a>
+        <a target="_self" href="/account/login.jsp?returnUrl=/account/orders/index.jsp&amp;returnUrlAttrs={userAction=%22changeFilter%22,criteria=%223mos%22}" onclick="this.href='https://www.photoworks.com/account/login.jsp;jsessionid=D2374E98147BA8F16834D529DCECDBD3?returnUrl=/account/orders/index.jsp&amp;returnUrlAttrs={userAction=%22changeFilter%22,criteria=%223mos%22}&amp;cb=PW&amp;guest=true&amp;svr=web39';" class="foot">Order Status</a> &nbsp;|&nbsp;
+        <a target="_self" href="/util/knowledgeBaseIndex.jsp" onclick="this.href='http://www.photoworks.com/util/knowledgeBaseIndex.jsp;jsessionid=D2374E98147BA8F16834D529DCECDBD3?cb=PW&amp;guest=true&amp;svr=web39';" class="foot">Help</a> &nbsp;|&nbsp;
+        <a target="_self" href="/util/knowledgeBaseTemplate.jsp?helpFile=terms.html&amp;subject=Terms%20and%20Conditions" onclick="this.href='http://www.photoworks.com/util/knowledgeBaseTemplate.jsp;jsessionid=D2374E98147BA8F16834D529DCECDBD3?helpFile=terms.html&amp;subject=Terms%20and%20Conditions&amp;cb=PW&amp;guest=true&amp;svr=web39';" class="foot">Terms</a> &nbsp;|&nbsp;
+        <a target="_self" href="/util/knowledgeBaseTemplate.jsp?helpFile=privacy.html&amp;subject=Privacy%20Policy" onclick="this.href='http://www.photoworks.com/util/knowledgeBaseTemplate.jsp;jsessionid=D2374E98147BA8F16834D529DCECDBD3?helpFile=privacy.html&amp;subject=Privacy%20Policy&amp;cb=PW&amp;guest=true&amp;svr=web39';" class="foot">Privacy</a> &nbsp;|&nbsp;
+        <a target="_self" href="/util/aboutTemplate.jsp?aboutFile=aboutAffiliate.jsp" onclick="this.href='http://www.photoworks.com/util/aboutTemplate.jsp;jsessionid=D2374E98147BA8F16834D529DCECDBD3?aboutFile=aboutAffiliate.jsp&amp;cb=PW&amp;guest=true&amp;svr=web39';" class="foot">Affiliate Program</a> &nbsp;|&nbsp;
+        <a target="_self" href="/util/aboutTemplate.jsp?aboutFile=aboutCareers.jsp" onclick="this.href='http://www.photoworks.com/util/aboutTemplate.jsp;jsessionid=D2374E98147BA8F16834D529DCECDBD3?aboutFile=aboutCareers.jsp&amp;cb=PW&amp;guest=true&amp;svr=web39';" class="foot">Careers</a> &nbsp;|&nbsp;
+        <a target="_self" href="/software/getPhotoStreamer.jsp" onclick="this.href='http://www.photoworks.com/software/getPhotoStreamer.jsp;jsessionid=D2374E98147BA8F16834D529DCECDBD3?cb=PW&amp;guest=true&amp;svr=web39';" class="foot">FREE Software</a> &nbsp;|&nbsp;
+        <a target="_self" href="/util/aboutTemplate.jsp?aboutFile=index.jsp" onclick="this.href='http://www.photoworks.com/util/aboutTemplate.jsp;jsessionid=D2374E98147BA8F16834D529DCECDBD3?aboutFile=index.jsp&amp;cb=PW&amp;guest=true&amp;svr=web39';" class="foot">About Us</a> &nbsp;|&nbsp;
+        <a target="_self" href="/util/investor/index.jsp?page=IRHome" onclick="this.href='http://www.photoworks.com/util/investor/index.jsp;jsessionid=D2374E98147BA8F16834D529DCECDBD3?page=IRHome&amp;cb=PW&amp;guest=true&amp;svr=web39';" class="foot">Investor Relations</a> &nbsp;|&nbsp;
+        <a target="_self" href="/util/investor/index.jsp?page=news&amp;nyo=0" onclick="this.href='http://www.photoworks.com/util/investor/index.jsp;jsessionid=D2374E98147BA8F16834D529DCECDBD3?page=news&amp;nyo=0&amp;cb=PW&amp;guest=true&amp;svr=web39';" class="foot">Press Room</a> &nbsp;|&nbsp;
+        <a target="_self" href="/util/aboutTemplate.jsp?aboutFile=aboutInternational.jsp" onclick="this.href='http://www.photoworks.com/util/aboutTemplate.jsp;jsessionid=D2374E98147BA8F16834D529DCECDBD3?aboutFile=aboutInternational.jsp&amp;cb=PW&amp;guest=true&amp;svr=web39';" class="foot">FoBaz</a> &nbsp;|&nbsp;
+        <a target="_self" href="/util/sitemap.jsp" onclick="this.href='http://www.photoworks.com/util/sitemap.jsp;jsessionid=D2374E98147BA8F16834D529DCECDBD3?cb=PW&amp;guest=true&amp;svr=web39';" class="foot">Site Map</a> &nbsp;|&nbsp;
+        <a target="_self" href="/util/aboutTemplate.jsp?aboutFile=contactUs.jsp" onclick="this.href='http://www.photoworks.com/util/aboutTemplate.jsp;jsessionid=D2374E98147BA8F16834D529DCECDBD3?aboutFile=contactUs.jsp&amp;cb=PW&amp;guest=true&amp;svr=web39';" class="foot">Contact Us</a>
       </p>
 
     </td>
@@ -1136,21 +1237,14 @@ function adjustSafariLayout()
   <tr>
     <td colspan="3" bgcolor="#dfdfdf"><img src="/gstatic/img/foot-bot.gif" alt="" width="753" height="1" border="0"></td>
   </tr>
+  <tr>
+    <td colspan="3" bgcolor="#ffffff"><img src="/gstatic/img/spacer.gif" alt="" width="753" height="250" border="0"></td>
+  </tr>  
 </tbody></table>
 
 
 
-<script>
 
- var resetFooter = null;
- resetFooter = '942';
- var footerWidth = '942';
- 
- if(resetFooter != null && resetFooter != "" && !(!resetFooter) && document.getElementById("footerTbl") != null)
- {
- 	document.getElementById("footerTbl").width = footerWidth;
- }	
-</script>	
 <!-- end Footer tag -->
 
 
@@ -1222,7 +1316,7 @@ var s_campaign=""
 var s_state=""
 var s_zip=""
 var s_events=""
-var s_products=""
+if (!s_products) var s_products=""
 var s_purchaseID=""
 var s_eVar1=""
 //var s_eVar2=""  //commented out because it is defined up above
@@ -1237,13 +1331,13 @@ var s_eVar10=""
 /********* INSERT THE DOMAIN AND PATH TO YOUR CODE BELOW ************/
 /********** DO NOT ALTER ANYTHING ELSE BELOW THIS LINE! *************/ 
 var s_code=' '//--></script> 
-<script language="JavaScript" src="/common/Omniture.js?svr=web8"></script>
+<script language="JavaScript" src="/common/Omniture.js?svr=web39"></script>
 <script language="JavaScript"><!--
 var s_wd=window,s_tm=new Date;if(s_code!=' '){s_code=s_dc(
 'pwbedrock');if(s_code)document.write(s_code)}else
 document.write('<im'+'g src="http://pwbedrock.112.2O7.net/b/ss/pwbedrock/1/G.7--FB/s'+s_tm.getTime()+'?[AQB]'
 +'&j=1.0&[AQE]" height="1" width="1" border="0" alt="" />')
-//--></script><img src="http://pwbedrock.112.2O7.net/b/ss/pwbedrock/1/G.7--FB/s1580414820336?[AQB]&amp;j=1.0&amp;[AQE]" height="1" width="1" border="0" alt=""><script language="JavaScript"><!--
+//--></script><img src="http://pwbedrock.112.2O7.net/b/ss/pwbedrock/1/G.7--FB/s1580414823399?[AQB]&amp;j=1.0&amp;[AQE]" height="1" width="1" border="0" alt=""><script language="JavaScript"><!--
 if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
 //--></script><noscript><img
 src="http://pwbedrock.112.2O7.net/b/ss/pwbedrock/1/G.7--NS/0"
@@ -1261,8 +1355,8 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 
 
    
-    <script src="/common/Util.js?svr=web8" language="JavaScript1.2"></script>
-    <script src="/common/Cookies.js?svr=web8" language="JavaScript1.2"></script>
+    <script src="/common/Util.js?svr=web39" language="JavaScript1.2"></script>
+    <script src="/common/Cookies.js?svr=web39" language="JavaScript1.2"></script>
     <script>
         var epuDate = new Date();
         var epuSec = epuDate.valueOf();
@@ -1270,7 +1364,17 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
         var epuDate2 = new Date(epuSec);
         Cookie.setCookie("fppcn", true, "/", epuDate2)
     </script>
-           
+  
+
+
+
+ 
+ 
+ 
+
+ 
+ 
+
 <!-- start RemoteContent tag (http://localhost/gstatic/us/html/pw/content/common/popupCode.js) -->
     <script>
 //        bb = document.getElementsByTagName("BODY")[0];
