@@ -1,287 +1,190 @@
-<!--The following is the downloaded HTML source of the trustedplaces.com privacy policy that was archived on 2007-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070603085418id_/http%3A//trustedplaces.com/docs/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the trustedplaces.com privacy policy that was archived on 2007-12-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071214194042id_/http%3A//trustedplaces.com/docs/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	
-	<title>TrustedPlaces - documents - privacy</title>
-	
-	<link href="/favicon.ico" rel="shortcut icon">
-	
-	<link href="/css/common_v0020.css" rel="stylesheet" type="text/css">
-	<link href="/css/lightbox.css" rel="stylesheet" type="text/css">
+		<meta name="title" content="TrustedPlaces - Documents - privacy">
 	
 	
-	<script type="text/javascript" src="/js/tooltiplib.js"></script>
-	<script type="text/javascript" src="/js/prototype.js"></script>
-	<script type="text/javascript" src="/js/scriptaculous/scriptaculous.js"></script>
-	<script type="text/javascript" src="/js/lightbox.js"></script>
 	
 	
-	<!--[if IE]>
-	<style type="text/css" media="screen">
-	body {
-		behavior: url(/css/csshover.htc);
-	}
-	</style>
-	<![endif]-->
-</head>
-<body><div id="overlay" style="display: none; position: absolute; top: 0px; left: 0px; z-index: 90; width: 100%;"></div><div id="lightbox" style="display: none; position: absolute; z-index: 100;"><a href="#" title="Click to close"><img id="lightboxImage"></a><div id="lightboxDetails"><div id="lightboxCaption" style="display: none;"></div><div id="keyboardMsg">press <a href="#" onclick="hideLightbox(); return false;"><kbd>x</kbd></a> to close</div></div></div>
-
-<div id="wrapper"><!-- WRAPPER START -->
-
-<script>
-
-function changeCity()
-{
-	Element.show("cityBlock");
-	new Ajax.Request(
-		"/ajax/get_cities", 
-		{
-			method: 'get', 
-			onComplete: changeCityComplete
-		});
-}
-
-function changeCityComplete(req)
-{
-	if(req.responseText.slice(0, 1) == "_")
-	{
-		$("cityContents").innerHTML = req.responseText.slice(1);
-	}
-}
-
-function changeCurCity(city)
-{
-	window.location.href = "http://trustedplaces.com/homepage/setcity?city=" + encodeURIComponent(city) + 
-		"&back=" + encodeURIComponent(window.location.href);
-}
-
-</script>
-
-<div id="cityBlock" style="display: none; position: absolute; top: 40px; right: 150px; width: 400px; 
-background-color: #FFF; z-index: 9999; border: 1px solid #ccc">
-	<div align="right"><a href="javascript:Element.hide('cityBlock')">[Close]</a></div>
-	<div id="cityContents" style="padding: 20px">Loading <img src="/img/indicator.green.gif"></div>
-</div>
-
-<p class="date-time">
-	<strong>London<!--,--> </strong> <!-- 8:54am GMT -->
-	| <a href="/places/uk" onclick="changeCity(); return false">change 
-		<img src="/img/homepage2/change-location.gif" alt="Change"></a>
-</p>
-
-<div id="header"><!-- HEADER START -->
-
-	<div id="tagsholder">
-		<div id="tagsholder1"></div>
-	</div>
+		
+	<title>
+		TrustedPlaces - Documents - privacy
+		</title>
+	
+	
+			<link href="/css/v3/global_v61.css" rel="stylesheet" type="text/css">
+	
+			<link href="/css/v3/lightbox2_v1.css" rel="stylesheet" type="text/css">
+	
+			<link href="/css/v3/modalbox_v1.css" rel="stylesheet" type="text/css">
+	
+	
+	
+			<script type="text/javascript" src="/js/v3/tooltiplib_v2.js"></script>			
+	
+			<script type="text/javascript" src="/js/v3/prototype.js"></script>			
+	
+			<script type="text/javascript" src="/js/v3/scriptaculous/scriptaculous.js"></script><script type="text/javascript" src="https://web.archive.org/js/v3/scriptaculous/builder.js"></script><script type="text/javascript" src="https://web.archive.org/js/v3/scriptaculous/effects.js"></script><script type="text/javascript" src="https://web.archive.org/js/v3/scriptaculous/dragdrop.js"></script><script type="text/javascript" src="https://web.archive.org/js/v3/scriptaculous/controls.js"></script><script type="text/javascript" src="https://web.archive.org/js/v3/scriptaculous/slider.js"></script><script type="text/javascript" src="https://web.archive.org/js/v3/scriptaculous/sound.js"></script>			
+	
+			<script type="text/javascript" src="/js/v3/lightbox2/lightbox.js"></script>			
+	
+			<script type="text/javascript" src="/js/v3/modalbox.js"></script>			
+	
+			<script type="text/javascript" src="/js/v3/scripts_v19.js"></script>			
+	
+	
 	
 	<script>
-
-function rnd(a, b) 
-{
-	return a + Math.floor(Math.random()*(b - a + 1));
-}
-
-var cloud	= [['music', 12], ['pub chain', 12], ['busy', 12], ['sushi', 12], ['mediterranean', 12], ['cozy', 13], ['bar', 13], ['jazz', 13], ['lunch', 14], ['live music', 14], ['expensive', 23], ['crowded', 24]];
-var xMin = 10;
-var xMax = 750;
-var yMin = 5;
-var yMax = 70;
 	
-function initCloud()
-{
-	var coords = Array(cloud.length);
-	var coordN = 0;
+	
+		var js_logged_in = false;
+	
+	</script>
+	
+	
+	
+	
+	
+	
+	
+</head>
+
+<body>
+	
+	<div class="page"> <!-- The white container -->
 		
-	for(i = 0; i < cloud.length; i++)
-	{
-		var tagName = cloud[i][0];
-		var tagSize = cloud[i][1];
-		
-		var color = '';//'color: #ff0000';
-		
-		for(nMax = 150; nMax > 0; nMax--)
-		{
-			var xPos = rnd(xMin + 15, xMax - 150);
-			var yPos = rnd(yMin, yMax);
-			var found = false;
-			for(j = 0; j < coordN; j++)
-			{
-				var xMax1 = Math.max(tagName.length * tagSize, coords[j][2] * coords[j][3]) / 2;
-				var yMax1 = Math.max(tagSize, coords[j][3]) + 1;
-				if(Math.abs(xPos - coords[j][0]) < xMax1 && Math.abs(yPos - coords[j][1]) < yMax1)
-					found = true;
-			}
-//			if(yPos < 25 && xPos > 450)
-//				found = true;
-				
-			if(!found)
-			{
-				color = '';
-				break;
-			}
-		}
-		
-		coords[coordN++] = [xPos, yPos, tagName.length, tagSize];
+		<div class="header clearfix"> <!-- The header -->
 			
-		var obj = document.createElement("div");
-		obj.id = "tcloud_" + i;
-		tagName2 = tagName.replace(/&amp;/g, "%26").replace(/\s/g, "+");
-		obj.innerHTML = '<a href="/search/places?tags=' + tagName2 + 
-			'" style="padding: 1px; font-size: ' + tagSize + 'px; ' + color + '">' + tagName + '</a>';
-//		obj.onclick = function () {hideLightbox(); return false;}
-//		obj.style.backgroundColor = 'white';
-		obj.style.position = 'absolute';
-		obj.style.top = yPos + 'px';
-		obj.style.left = xPos + 'px';
-//		obj.style.zIndex = 20 + i;
-
-		$("tagsholder").insertBefore(obj, $("tagsholder1"));
-	}
-
-	if(document.all)
-		setTimeout("motionCloud()", 500);
-}
-
-function motionCloud()
-{
-	var obj = null;
-	var x = 0;
-	var w = 0;
-	var alpha = 0;
-	for(i = 0; i < cloud.length; i++)
-	{
-		obj = $("tcloud_" + i);
-		x = parseInt(obj.style.left) + 1;
-		w = obj.clientWidth;
-		if(x > xMax)
-			x = xMin;
-
-		obj.style.left = x + 'px';
-		
-		alpha = 0;
-		if(x < xMin + 15)
-			alpha = Math.max(100 * (x - xMin) / 15, 1);  
-		if(x + w > xMax - 15)
-			alpha = Math.max(100 * (xMax - x - w) / 15, 1);  
-		
-		if(alpha != 0)
-		{
-			if(typeof(obj.style.MozOpacity) == 'string')
-				obj.style.MozOpacity = alpha / 100;
-			if(obj.filters)
-				obj.style.filter = 'alpha(opacity=' + alpha +')';
-		}
-		else
-		{
-			if(typeof(obj.style.MozOpacity) == 'string')
-				obj.style.MozOpacity = 100;
-			if(obj.filters)
-				obj.style.filter = '';
-		}
-	}
-	setTimeout("motionCloud()", 200);
-}
-
-Event.observe(window, 'load', initCloud, false); 
-
-</script>
-	
-	<h1><a href="/">TrustedPlaces</a></h1>
-	
-	<ul id="topnav">
-		<li class="tnavpad"><a href="/docs/about">About us</a></li>
-		<li class="tnavpad"><a href="/docs/faq">FAQs</a></li>
-		<li><a href="/login">Log in</a></li>
-	</ul>
-	
-	<!-- banner -->
-		
-</div><!-- HEADER END -->
-	
-	<div id="navigation" class="naventer"><!-- NAVIGATION START -->
-		
-		<p id="breadcrumb"><a href="/">Home</a> &gt; Document</p>
-				
-		<span class="hide"><strong>Main Navigation:</strong></span>
 			
-		<ul id="nav">
-			<li class="line"><a href="/people">People</a></li>
-			<li class="line"><a href="/places">Places</a></li>
-			<li><a href="/login">Sign in</a></li> <li>or</li> <li><a href="/register">Join</a></li>		
-		</ul>
-		
-		<div id="searchformcont">
-		
-			<form action="/search/places?" method="get" id="search-form">
-				<p id="pwhat"><label for="what">What</label> <input type="text" name="tags" id="what" size="12"> <span class="example">(salsa, gastropub, art)</span></p>
-				<p id="pwhere"><label for="where">Where</label> <input type="text" name="where" id="where" size="12"> <span class="example">(e.g. NW5 or London)</span></p>
-				<p><input id="searchbtn" type="image" src="/img/common/search-button.jpg" alt="Search"></p>
-			</form>
-	
-		</div>
-	
-		<style>
-div.new_suggest {
-	z-index: 1000; 
-	background-color: white;
-	border: 1px solid #777;
-	}
-div.new_suggest ul {
-	list-style-type: none;
-	margin: 0;
-	padding: 0;
-	}
-div.new_suggest li {
-	list-style-type: none;
-	display: block;
-	padding-left: 4px;
-	font-size: 12px;
-	line-height: 20px;
-	cursor: pointer;
-	}
-div.new_suggest li:hover, div.new_suggest li.selected {
-	background-color: #ffb;
-	}
-}
-</style>
-	
-<div id="suggest_what" class="new_suggest" style="display: none"></div>
-<div id="suggest_where" class="new_suggest" style="display: none"></div>
+			<div class="search_wrap"> <!-- The search in the header (needs two divs) -->
+				<div class="search">
+	<form action="/search/places" method="GET"> 
+		What:
+		<input type="text" name="tags" id="search_what" value="" onclick="SearchCleanup()" autocomplete="off">
+		Where:
+		<input type="text" name="where" id="search_where" value="" onclick="SearchCleanup()" autocomplete="off">
+		<input type="image" src="/img/v3/search_button.gif">
+	</form>
+</div>
+
+<div id="suggest_what" class="new_suggest" style="display: none;"></div>
+<div id="suggest_where" class="new_suggest" style="display: none;"></div>
 
 <script type="text/javascript">
 
-function initSearchSuggestwhat()
+var textWhat  = "category, tag or name";
+var textWhere = "city, area or postcode";
+
+function InitSearchSuggest()
 {
+	
+	
+	$("search_what").value  = textWhat;
+	$("search_where").value = textWhere;
+	
+	
+
 	new Ajax.Autocompleter(
-		'what', 
+		'search_what', 
 		'suggest_what', 
 		'/ajax/find_what');
 		
 	new Ajax.Autocompleter(
-		'where', 
+		'search_where', 
 		'suggest_where', 
 		'/ajax/find_where');
 }
+
+var onceCleaned = false;
+function SearchCleanup()
+{
+	if(onceCleaned)
+		return;
 		
-Event.observe(window, 'load', initSearchSuggestwhat, false); 
+	onceCleaned = true;
+	$("search_what").value  = "";
+	$("search_where").value = "";
+}
+		
+Event.observe(window, 'load', InitSearchSuggest, false); 
 		
 </script>
-	
-	</div><!-- NAVIGATION END -->
-	<br><br>
 
-	<div id=""><!-- CONTENTCNT START -->
-	
+			</div>
+			
+			
+			<a class="logo" href="/"><img src="/img/v3/logo.gif" alt=""></a> <!-- The logo -->
+			
+			<ul class="tabs tabs_left"> <!-- The tabs on the left -->
+				<li><a href="/">Home</a></li>
+				
+				<li><a href="/places/uk/london/all/restaurant">Restaurants</a></li>
+				
+				<li><a href="/places/uk/london/all/bar-pub">Bars &amp; Pubs</a></li>
+				
+				<li><a href="/places/uk/london/all/cafe">Cafes</a></li>
+				
+				<li><a href="/places/uk/london/all/cultural">Culture</a></li>
+				
+				<li><a href="/places/uk/london/all/shop">Shopping</a></li>
+				
+				<li><a href="/places/uk/london/all/hotel">Hotels</a></li>
+				
+				<li><a href="/places/uk/london/all/other">More</a></li>
+				
+			</ul>
+			
+			<ul class="tabs tabs_right"> <!-- The tabs on the right -->
+				
+				
+				<li class="facebook"><a href="http://www.facebook.com/login.php?api_key=cdd8bd701f90ee72ce17a21b73c83fec&amp;v=1.0&amp;next=login"><img src="/img/v3/facebook.gif" alt=""></a></li>
+				<li><a href="/register">Join</a></li>
+				<li><a href="#" title="Login" onclick="Modalbox.show('/homepage/login', {title: this.title, width: 400});return false;">Login</a></li>
+				
+				<li><a href="/people">People</a></li>
+			</ul>
+			
+		</div>
+		
+		
+		
+		
+	<div class="hellobox">
+<h2>
+	<strong>
+		<a href="/">Home</a> <span class="lightgrey"> &gt;</span>
+					
+			Privacy Policy
+			 			
+		
+		 
+	</strong>
+</h2>
+</div>			
 
 
+		
+		
+		
+			
+		
+		
+		
+		
+		
+			<div class="content clearfix"> <!-- The contents (the part with the diagonal lines) -->
+				
+<div class="box_wrap"> <!-- A box -->
+	<div class="box regular">
+		
 
 <div id="extra">
 
-<p><strong>Trustedplaces Privacy Policy </strong>(<em>last  updated: 13 July 2006</em>) <br>
-  Welcome to trustedplaces, and  congratulations for clicking on our Privacy Policy, you are probably one of the  very few people who have decided to read them, and we thank you for that!</p>
+<p></p><h2>Trustedplaces Privacy Policy </h2>(<em>last  updated: 13 July 2006</em>) <br><br>
+  Welcome to trustedplaces, and  congratulations for clicking on our Privacy Policy, you are probably one of the  very few people who have decided to read them, and we thank you for that!<p></p>
   
 <p>Trustedplaces has developed this Privacy  Policy in order to demonstrate its firm commitment to the privacy of your data.  We’ve read 1984 by George Orwell and don’t like the idea of “big brother” so we  strongly believe that your personal data should stay private. All our  activities with reference to your data are governed by the Data Protection Act  1998. </p>
 
@@ -357,120 +260,102 @@ Event.observe(window, 'load', initSearchSuggestwhat, false);
 </div>
 
 
-		
-	
-	
-	</div><!-- CONTENTCNT END -->
-	
-	<div id="footer"><!-- FOOTER START -->
-	
-		<p id="foot-links">
-			<a href="/docs/about">About</a> | 
-			<a href="/contact">Feedback</a> | 
-			<a href="/blog">Teamblog</a> | 
-			<a href="/docs/faq">FAQs</a> | 
-			<a href="/docs/terms">Terms &amp; Conditions</a> |
-			<a href="/docs/privacy">Privacy Policy</a> |
-			<a href="/business">Businesses / Advertisers</a>
-		</p>
-	
-	</div><!-- FOOTER END -->
 	
 		
-</div><!-- WRAPPER END -->
-
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"> 
-</script>
-<script type="text/javascript">
-_uacct = "UA-451466-2";
-urchinTracker();
-</script>
-
-
-
-<div id="member_access" style="display: none; position: absolute; width: 22em; 
-border: 1px solid #000; padding: 7px; background-color: white; z-index: 3000">
-	<table width="100%"><tbody><tr valign="top">
-	<td>
-		<b>Member access only</b>
-		<br>
-		<br>
-		
-		<form method="post" action="/login" id="loginForm">
-			<input type="hidden" id="member_redirect" name="redirect" value="">
-			Email
-			<br>
-			<input id="emailfield" name="email" type="text" size="25" maxlength="60" value="">
-			<br>
-			Password
-			<br>
-			<input id="passfield" name="password" type="password" size="25" maxlength="30" value="">
-			<br>
-			<input id="signin" name="signin" type="submit" value="Login">
-<!--			<input id="register" name="signin" type="submit" value="Register" /> -->
-			<br>
-			<a href="/member/passwordrestore">Forgot your password?</a>
-		</form>		
-	</td>
-	<td align="right" onmousedown="Element.hide('member_access');">
-		<span style="cursor: pointer; width: 15px; height: 15px; color: red">[x]</span></td>
-	</tr></tbody></table>
-
+	</div>
 </div>
 
-<script>
-
-var mouseX, mouseY;
-
-function getMousePos(e)
-{
-	if(!e)
-		e = window.event||window.Event;
+			</div>
+		
+		
+		<div class="footer clearfix"> <!-- The footer of the page -->
+			
+			<div class="footer_block"> <!-- Each one of the link blocks in the footer -->
+				<h3>Recently Online</h3>
+				<ul class="footer_people">
+					
+					<li><a href="/user/fommil">fommil</a></li>
+					
+					<li><a href="/user/motykosh">motykosh</a></li>
+					
+					<li><a href="/user/LondonistMatt">LondonistMatt</a></li>
+					
+					<li><a href="/user/walid">walid</a></li>
+					
+					<li><a href="/user/Browners">Browners</a></li>
+					
+				</ul>
+			</div>
+			
+			<div class="footer_block">
+				<h3>Popular Places</h3>
+				<ul class="footer_places">
+					<li><a href="/places/uk/london">London, UK</a></li>
+					<li><a href="/places/uk/manchester">Manchester, UK</a></li>
+					<li><a href="/places/france/paris">Paris, France</a></li>
+					<li><a href="/places/us/new-york">New York, US</a></li>
+					<li><a href="/places/germany/duesseldorf">Duesseldorf, Germany</a></li>
+				</ul>
+			</div>
+			
+			
+			
+			<div class="footer_block">
+				<h3>Information</h3>
+				<ul class="footer_info">
+					<li><a href="/docs/about">About</a></li>
+					<li><a href="/docs/faq">FAQs</a></li>
+					<li><a href="/widget/map/get">Map Widget</a></li>
+					<li><a href="/docs/terms">Terms &amp; Conditions</a></li>
+					<li><a href="/docs/privacy">Privacy Policy</a></li>
+				</ul>
+			</div>
+			
+			<div class="footer_block">
+				<h3>&nbsp;</h3>
+				<ul class="footer_info">
+					<li><a href="/blog">Team Blog</a></li>
+					<li><a href="/news">News Blog</a></li>
+					<li><a href="/contact">Feedback</a></li>
+					<li><a href="/business">Businesses</a></li>
+					<li><a href="/business">Advertisers</a></li>
+				</ul>
+			</div>
+			
+			<div class="footer_block">
+				<h3>&nbsp;</h3>
+				<ul class="footer_info">
+					<li><a href="/press">Press Page</a></li>
+				</ul>
+			</div>
+<!-- 				
+			<div class="footer_block">
+				<h3>&nbsp;</h3>
+				<ul class="footer_info">
+					<li><a href="">A Special Link</a></li>
+					<li><a href="">Some Widget</a></li>
+					<li><a href="">Myspace Thing</a></li>
+					<li><a href="">Micro Site</a></li>
+					<li><a href="">More Information</a></li>
+				</ul>
+			</div>
+-->
+		</div>
+		
+	</div>
 	
-	if('undefined'!=typeof e.pageX)
-	{
-		mouseX = e.pageX;
-		mouseY = e.pageY;
-	}
-	else
-	{
-		mouseX = e.clientX + document.documentElement.scrollLeft;
-		mouseY = e.clientY + document.documentElement.scrollTop;
-	}
-}
+	<div class="shadow_bottom">&nbsp;</div> <!-- The shadow at the bottom of the page -->
 
-// You need to tell Mozilla to start listening:
-if(window.Event && document.captureEvents)
- 	document.captureEvents(Event.MOUSEMOVE);
+	
+	<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"> 
+	</script>
+	<script type="text/javascript">
+	_uacct = "UA-451466-2";
+	urchinTracker();
+	</script>
+	
+	
 
-// Then assign the mouse handler
-document.onmousemove = getMousePos;
-
-
-function MemberAccess(url, func_eval)
-{
-	if(url == "")
-		url = window.location.href;
-	if(url.substr(0, 4) != "http")
-		url = "http://trustedplaces.com" + url;
-
-	if(parseInt("0") != 0)
-	{
-		if(func_eval == "" || !func_eval)
-			window.location.href = url;
-		else
-			eval(func_eval);
-	}
-	else		 
-	{
-		$("member_access").style.left = mouseX + "px"; 
-		$("member_access").style.top  = mouseY + "px"; 
-		$("member_redirect").value = url; // encodeURIComponent()
-		Element.show("member_access");
-	}
-}
-
-</script>
-
+	
 
 </body></html>
