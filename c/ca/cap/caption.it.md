@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the caption.it privacy policy that was archived on 2007-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070507141101id_/http%3A//www.caption.it/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caption.it privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214083158id_/http%3A//www.caption.it/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy & Terms of Service - Caption.iT
 
 **_Terms of Service for Caption.iT_**  
-Caption.iT reserves the right to remove or replace any glitterfied files, and assumes no liability for lost website linking codes. Changing Caption.iT's website linking codes is prohibited without prior permission. 
+Caption.iT reserves the right to remove or replace any Caption.iT files, and assumes no liability for lost website linking codes. Changing Caption.iT's website linking codes or removing the Caption.iT logo from images is prohibited. You may not upload any files that can be even remotely construed as pornographic, copyrighted material, harassment, spam, illegal, or in violation of any United States laws. You may not use any images created at Caption.iT for any commercial purpose. 
 
 **_Privacy Statement for Caption.iT_**  
 At Caption.iT we are committed to providing you information tailored to your individual wants and needs. We also recognize the importance of protecting personally identifiable information relating to you, our users and subscribers. Caption.iT does not collect personally identifying information about individuals, except when specifically and knowingly provided by such individuals. When you enter a contest or other promotional feature, we may request your name, street, and e-mail address to aid in our administration of the contest and to assist in contacting the winners. 
@@ -34,9 +34,3 @@ Technology on the Internet is developing at a fever pace. It is critical that Ca
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (NOT including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [Click Here](http://www.networkadvertising.org/optout_nonppii.asp)
 
 Third Party Cookies In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. Caption.iT welcomes your questions and comments about privacy. Please send e-mail to [jbeatty@gmail.com](mailto:jbeatty@gmail.com "jbeatty@gmail.com")
-
-We are in no way affiliated with MySpace.com  
-© 2006-2007 [Binary Inertia](http://www.binaryinertia.net/) & Beatty  
-All Rights Reserved  
-[Privacy Policy](http://www.caption.it/privacypolicy.php)  
-
