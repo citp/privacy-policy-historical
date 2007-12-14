@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scotland.org.uk privacy policy that was archived on 2007-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070430011452id_/http%3A//www.scotland.org.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scotland.org.uk privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215004517id_/http%3A//www.scotland.org.uk/privacy/index.htm) for the most accurate reproduction.*
 
 # Travel Scotland
 
