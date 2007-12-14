@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the planetpdf.com privacy policy that was archived on 2007-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070515050211id_/http%3A//www.planetpdf.com/planetpdf.asp%3FcontentID%3D6477) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetpdf.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214013534id_/http%3A//www.planetpdf.com/planetpdf.asp%3FcontentID%3D6477) for the most accurate reproduction.*
 
 # Planet PDF - Privacy Policy - Planet PDF & PDF Store
 
-This policy covers the following two [BinaryThing](http://www.binarything.com/) Web sites:
+This policy covers the following two [Nitro PDF Software](http://www.nitropdf.com/) Web sites:
 
   * Planet PDF - [http://www.planetpdf.com](http://www.planetpdf.com/)
   * PDF Store - [http://www.pdfstore.com](http://www.pdfstore.com/)
