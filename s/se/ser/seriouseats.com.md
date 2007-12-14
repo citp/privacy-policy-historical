@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seriouseats.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624023400id_/http%3A//www.seriouseats.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seriouseats.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214192812id_/http%3A//www.seriouseats.com/privacy) for the most accurate reproduction.*
 
 # Serious Eats: Privacy Statement
 
@@ -59,7 +59,3 @@ The ads appearing on this Web site are delivered to users by Google, among other
 ## Notification of Changes
 
 Whenever Serious Eats changes its privacy policy, we will post those changes to this privacy statement, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-## Contact Information
-
-If you have any questions or suggestions regarding our privacy policy, please contact the editor, or send an email to questions AT seriouseats.com, or by mail to Serious Eats, 419 Park Avenue South Suite 807,New York, NY 10016.
