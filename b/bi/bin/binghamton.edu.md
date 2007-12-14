@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the binghamton.edu privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630143409id_/http%3A//computing.binghamton.edu/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the binghamton.edu privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214093948id_/http%3A//computing.binghamton.edu/policies/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Information Technology Services
 
@@ -67,7 +67,7 @@ For Web site security purposes and to maintain the availability of binghamton.ed
 
 ### Cookies
 
-[Cookies](https://web.archive.org/web/20070630143409id_/http%3A//computing.binghamton.edu/web/cookies) are small pieces of information that are stored by the _user's_ browser on the hard drive of your computer. To better serve you, we occasionally use "session cookies" to enhance or customize your visit to this website.
+[Cookies](https://web.archive.org/web/20071214093948id_/http%3A//computing.binghamton.edu/web/cookies) are small pieces of information that are stored by the _user's_ browser on the hard drive of your computer. To better serve you, we occasionally use "session cookies" to enhance or customize your visit to this website.
 
 ### Disclaimer
 
