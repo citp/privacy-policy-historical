@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the plowhearth.com privacy policy that was archived on 2007-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070627202146id_/http%3A//www.plowhearth.com/security/index.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the plowhearth.com privacy policy that was archived on 2007-12-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071214231827id_/http%3A//www.plowhearth.com/security/index.asp) for the most accurate reproduction.-->
 
 <html><head>
 	<title>Plow &amp; Hearth </title>
@@ -25,6 +25,16 @@ function CheckVal()
 	}
 }
 
+function CheckValP()
+	{	
+		if(document.form1.search_value.value.length == 0) 
+		{
+			alert('Please input Keyword or Item#');
+			document.form1.search_value.focus();
+			return false;
+		}
+	}
+
 function win1() {
 	var X1, Y1;
 	X1 = (window.screen.width - 800)/2;
@@ -41,19 +51,35 @@ function win1() {
 <!-- BEGIN: header -->
 <div align="center">
 <table width="720" border="0" cellspacing="0" cellpadding="0"><tbody><tr valign="bottom">
-	<td width="400"><a href="../welcome.asp"><img src="/plow_assets/images/head.logo.gif" width="400" height="45" alt="Plow &amp; Hearth" border="0"></a></td>
-	<td width="320"><img src="/plow_assets/images/head.aux-nav.gif" width="320" height="20" alt="" border="0" usemap="#auxnav_map"></td>
+	<td width="400"><a href="../welcome.asp"><img src="/plow_assets/images/PHSiteHeadLogo.jpg" width="468" height="54" alt="Plow &amp; Hearth" border="0"></a></td>
+	<td width="320" align="right"><div><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><div><img src="/plow_assets/images/PHSiteHead_PF.gif" width="91" height="54" alt="" border="0"></div></td><td valign="bottom"><div style="PADDING-BOTTOM: 5px;"><form id="form1" name="form1" action="../productform.asp" method="post" onsubmit="return CheckValP()">
+		<input type="text" name="search_value" size="10" style="width:108px; height:20px"></form></div></td><td><div><input type="image" name="submit" id="submit" src="http://a1516.g.akamai.net/f/1516/7008/2h/www.plowhearth.com/plow_assets/images/PHSiteHead_PF_Go.gif" width="35" height="54" border="0" alt=""></div>
+		<input type="hidden" name="search_type" value="normal">
+		</td></tr></tbody></table></div></td>
 </tr></tbody></table>
+<table width="720" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr><td><img src="/plow_assets/images/toptab_tophoriz.gif" width="720" height="3" border="0"></td></tr>
+</tbody></table>
+<table width="720" border="0" cellspacing="0" cellpadding="0" class="headRow">
+<tbody><tr><td><div><img src="/plow_assets/images/toptab_midleft.gif" width="10" height="16" border="0"></div></td>
+<td width="698"><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>
+
+    </td><td><div><a href="http://www.plowhearth.com/myshop/index.asp"><img src="/plow_assets/images/toptab_signin_reg.gif" width="90" height="16" alt="" border="0"></a></div></td>
+
+<td><div><img src="/plow_assets/images/toptab_midvert.gif" width="14" height="16" alt="" border="0"></div></td>
+<td><div><a href="http://www.plowhearth.com/ordertracking/ordertracking_login.asp"><img src="/plow_assets/images/toptab_orderstatus.gif" width="99" height="16" alt="" border="0"></a></div></td>
+<td><div><img src="/plow_assets/images/toptab_midvert.gif" width="14" height="16" alt="" border="0"></div></td>
+<td><div><a href="http://www.plowhearth.com/basket.asp"><img src="/plow_assets/images/toptab_basket.gif" width="83" height="16" alt="" border="0"></a></div></td>
+<td><div class="basketTxt" id="Test2"><span class="basketTotal">Empty</span></div></td>
+<td><div><img src="/plow_assets/images/toptab_midvert.gif" width="14" height="16" alt="" border="0"></div></td>
+<td><div><a href="http://www.plowhearth.com/about/index.asp"><img src="/plow_assets/images/toptab_about.gif" width="46" height="16" alt="" border="0"></a></div></td>
+</tr></tbody></table></td>
+<td><div><img src="/plow_assets/images/toptab_midrt.gif" width="12" height="16" border="0"></div></td>
+</tr></tbody></table>
+<table width="720" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr><td><img src="/plow_assets/images/toptab_bothoriz.gif" width="720" height="3" border="0"></td></tr>
+</tbody></table>
 <!--</div>-->
-
-
-
-<map name="auxnav_map" id="auxnav_map">
-<area shape="rect" coords="8,3,93,16" href="http://www.plowhearth.com/security/index.asp" alt="privacy">
-<area shape="rect" coords="106,3,152,16" href="http://www.plowhearth.com/about/index.asp" alt="about us">
-<area shape="rect" coords="162,3,250,16" href="http://www.plowhearth.com/service/index.asp" alt="customer services">
-<area shape="rect" coords="260,3,319,16" href="http://www.plowhearth.com/myshop/index.asp" alt="my account">
-</map>
 
 <link rel="stylesheet" type="text/css" href="/include/phmenu/ph_menus.css">
 <script type="text/javascript" src="/include/phmenu/common.js"></script>
@@ -77,6 +103,29 @@ window.onload = function() {
 		<div class="dd_inner">
 			<h3>Shop For:</h3>
             <ul>
+		    <li class="sub-30572004"><a href="/Department.asp?section_id=2004&amp;search_type=department&amp;search_value=3057">Deck and Patio</a></li>          
+		    <li class="sub-30592004"><a href="/Department.asp?section_id=2004&amp;search_type=department&amp;search_value=3059">Outdoor Furniture</a></li>          
+		    <li class="sub-30582004"><a href="/Department.asp?section_id=2004&amp;search_type=department&amp;search_value=3058">Outdoor Problem Solvers</a></li>          
+	
+         </ul>	
+	<!-- ++++++++++++++++++++++++featured collections+++++++++++++++++++++++ -->
+	     <h4>Specialty Collections</h4>
+	     <ul>
+		<li class=""><a href="/category.asp?section_id=2004&amp;search_type=featured&amp;search_value=3001">Outdoor Fireplaces</a></li>
+		
+		<li class=""><a href="/category.asp?section_id=2004&amp;search_type=featured&amp;search_value=3049">Weather Gadgets</a></li>
+		
+
+        </ul>
+	  </div>
+	  <div class="dd_bottom" style="background-image: url(/include/phmenu/menu_bottom.gif)"><br></div>
+	</div>
+
+	<!-- +++++++++++++++++++++++++++ NEW MENU +++++++++++++++++++++++++++++ -->
+	<div id="menu-2" class="dd" style="display:none;visibility:hide;position:absolute;top:0;left:0;background-image: url(/include/phmenu/menu_top.gif)">
+		<div class="dd_inner">
+			<h3>Shop For:</h3>
+            <ul>
 		    <li class="sub-30422002"><a href="/Department.asp?section_id=2002&amp;search_type=department&amp;search_value=3042">Country Kitchen</a></li>          
 		    <li class="sub-30842002"><a href="/Department.asp?section_id=2002&amp;search_type=department&amp;search_value=3084">Curtains</a></li>          
 		    <li class="sub-30752002"><a href="/Department.asp?section_id=2002&amp;search_type=department&amp;search_value=3075">Domestics</a></li>          
@@ -92,36 +141,15 @@ window.onload = function() {
 	<!-- ++++++++++++++++++++++++featured collections+++++++++++++++++++++++ -->
 	     <h4>Specialty Collections</h4>
 	     <ul>
-		<li class=""><a href="/category.asp?section_id=2002&amp;search_type=featured&amp;search_value=4146">Farmhouse Kitchen </a></li>
+		<li class=""><a href="/category.asp?section_id=2002&amp;search_type=featured&amp;search_value=3015">Photo Finish</a></li>
 		
-		<li class=""><a href="/category.asp?section_id=2002&amp;search_type=featured&amp;search_value=3077">Summer Ideas</a></li>
+		<li class=""><a href="/category.asp?section_id=2002&amp;search_type=featured&amp;search_value=3033">Pinecones</a></li>
 		
-		<li class=""><a href="/category.asp?section_id=2002&amp;search_type=featured&amp;search_value=3136">Wall to Wall Decor</a></li>
+		<li class=""><a href="/category.asp?section_id=2002&amp;search_type=featured&amp;search_value=3010">Telling Time</a></li>
 		
-
-        </ul>
-	  </div>
-	  <div class="dd_bottom" style="background-image: url(/include/phmenu/menu_bottom.gif)"><br></div>
-	</div>
-
-	<!-- +++++++++++++++++++++++++++ NEW MENU +++++++++++++++++++++++++++++ -->
-	<div id="menu-2" class="dd" style="display:none;visibility:hide;position:absolute;top:0;left:0;background-image: url(/include/phmenu/menu_top.gif)">
-		<div class="dd_inner">
-			<h3>Shop For:</h3>
-            <ul>
-		    <li class="sub-30572004"><a href="/Department.asp?section_id=2004&amp;search_type=department&amp;search_value=3057">Deck and Patio</a></li>          
-		    <li class="sub-30592004"><a href="/Department.asp?section_id=2004&amp;search_type=department&amp;search_value=3059">Outdoor Furniture</a></li>          
-		    <li class="sub-30582004"><a href="/Department.asp?section_id=2004&amp;search_type=department&amp;search_value=3058">Outdoor Problem Solvers</a></li>          
-	
-         </ul>	
-	<!-- ++++++++++++++++++++++++featured collections+++++++++++++++++++++++ -->
-	     <h4>Specialty Collections</h4>
-	     <ul>
-		<li class=""><a href="/category.asp?section_id=2004&amp;search_type=featured&amp;search_value=3072">Coordinated Outdoor Accessories</a></li>
+		<li class=""><a href="/category.asp?section_id=2002&amp;search_type=featured&amp;search_value=3007">Ventless &amp; Electric Fireplaces</a></li>
 		
-		<li class=""><a href="/category.asp?section_id=2004&amp;search_type=featured&amp;search_value=3031">Outdoor Living</a></li>
-		
-		<li class=""><a href="/category.asp?section_id=2004&amp;search_type=featured&amp;search_value=3147">Patio Lighting</a></li>
+		<li class=""><a href="/category.asp?section_id=2002&amp;search_type=featured&amp;search_value=3035">Expanded Hearth Collection</a></li>
 		
 
         </ul>
@@ -145,11 +173,11 @@ window.onload = function() {
 	<!-- ++++++++++++++++++++++++featured collections+++++++++++++++++++++++ -->
 	     <h4>Specialty Collections</h4>
 	     <ul>
+		<li class=""><a href="/category.asp?section_id=2008&amp;search_type=featured&amp;search_value=3025">Animal &amp; Bird Ornaments</a></li>
+		
+		<li class=""><a href="/category.asp?section_id=2008&amp;search_type=featured&amp;search_value=3181">Fall Clean Up</a></li>
+		
 		<li class=""><a href="/category.asp?section_id=2008&amp;search_type=featured&amp;search_value=4154">GARDENWORKS</a></li>
-		
-		<li class=""><a href="/category.asp?section_id=2008&amp;search_type=featured&amp;search_value=4152">Decorative Garden Accents</a></li>
-		
-		<li class=""><a href="/category.asp?section_id=2008&amp;search_type=featured&amp;search_value=3016">Glowing Garden</a></li>
 		
 
         </ul>
@@ -170,11 +198,11 @@ window.onload = function() {
 	<!-- ++++++++++++++++++++++++featured collections+++++++++++++++++++++++ -->
 	     <h4>Specialty Collections</h4>
 	     <ul>
-		<li class=""><a href="/category.asp?section_id=2006&amp;search_type=featured&amp;search_value=3060">Dansko Footwear</a></li>
-		
-		<li class=""><a href="/category.asp?section_id=2006&amp;search_type=featured&amp;search_value=4153">Summer Footwear</a></li>
+		<li class=""><a href="/category.asp?section_id=2006&amp;search_type=featured&amp;search_value=3036">Slippers &amp; PJs</a></li>
 		
 		<li class=""><a href="/category.asp?section_id=2006&amp;search_type=featured&amp;search_value=3061">UGG Footwear</a></li>
+		
+		<li class=""><a href="/category.asp?section_id=2006&amp;search_type=featured&amp;search_value=4129">Warm Winter Wear</a></li>
 		
 
         </ul>
@@ -206,22 +234,25 @@ window.onload = function() {
 	     <h4>Specialty Collections</h4>
 	     <ul>
 
-            <li class=""><a href="/category.asp?section_id=2010&amp;department=3010&amp;search_type=featured&amp;search_value=3056&amp;cm_val=&amp;cm_pos=&amp;cm_type=">New to the Outlet</a></li>
+            <li class=""><a href="/category.asp?section_id=2010&amp;department=3010&amp;search_type=featured&amp;search_value=3053&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Great Gift Ideas</a></li>
 			
 
-            <li class=""><a href="/category.asp?section_id=2010&amp;department=3010&amp;search_type=featured&amp;search_value=3024&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Rugs on Sale</a></li>
+            <li class=""><a href="/category.asp?section_id=2010&amp;department=3010&amp;search_type=featured&amp;search_value=3044&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Holiday Treats Sale</a></li>
+			
+
+            <li class=""><a href="/category.asp?section_id=2010&amp;department=3010&amp;search_type=featured&amp;search_value=3019&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Overstock Sale</a></li>
 			
 
             <li class=""><a href="/category.asp?section_id=2010&amp;department=3010&amp;search_type=featured&amp;search_value=3064&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Further Reductions</a></li>
 			
 
-            <li class=""><a href="/category.asp?section_id=2010&amp;department=3010&amp;search_type=featured&amp;search_value=3065&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Items Under $20</a></li>
+            <li class=""><a href="/category.asp?section_id=2010&amp;department=3010&amp;search_type=featured&amp;search_value=3017&amp;cm_val=&amp;cm_pos=&amp;cm_type=">For the Hearth</a></li>
 			
 
-            <li class=""><a href="/category.asp?section_id=2010&amp;department=3010&amp;search_type=featured&amp;search_value=3066&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Items Under $40</a></li>
+            <li class=""><a href="/category.asp?section_id=2010&amp;department=3010&amp;search_type=featured&amp;search_value=3034&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Lamps &amp; Candles</a></li>
 			
 
-            <li class=""><a href="/category.asp?section_id=2010&amp;department=3010&amp;search_type=featured&amp;search_value=3067&amp;cm_val=&amp;cm_pos=&amp;cm_type=">50 to 80%  Off Items</a></li>
+            <li class=""><a href="/category.asp?section_id=2010&amp;department=3010&amp;search_type=featured&amp;search_value=4147&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Outdoor Cushion Closeout</a></li>
 			
 	
         </ul>
@@ -237,275 +268,7 @@ window.onload = function() {
 <div id="dd-lvl-2">
 
 			<!-- --------------------------NEW DIV---------------------------- -->
-	      <div id="menu-1|sub-30422002" class="dd" style="display:none;visibility:hide;position:absolute;top:0;left:0;background-image: url(/include/phmenu/menu_top.gif)">
-		  <div class="dd_inner">
-			<!--<h3>Categories</h3>-->
-			<ul>
-
-				<li><a href="/category.asp?section_id=2002&amp;department=3042&amp;search_type=category&amp;search_value=1040&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Cookware &amp; Bakeware</a></li>				
-
-				<li><a href="/category.asp?section_id=2002&amp;department=3042&amp;search_type=category&amp;search_value=1045&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Dishes </a></li>				
-
-				<li><a href="/category.asp?section_id=2002&amp;department=3042&amp;search_type=category&amp;search_value=3075&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Food &amp; Flowers</a></li>				
-
-				<li><a href="/category.asp?section_id=2002&amp;department=3042&amp;search_type=category&amp;search_value=1041&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Kitchen Accessories</a></li>				
-
-				<li><a href="/category.asp?section_id=2002&amp;department=3042&amp;search_type=category&amp;search_value=1063&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Kitchen Furniture</a></li>				
-
-				<li><a href="/category.asp?section_id=2002&amp;department=3042&amp;search_type=category&amp;search_value=1043&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Kitchen Lighting</a></li>				
-
-				<li><a href="/category.asp?section_id=2002&amp;department=3042&amp;search_type=category&amp;search_value=1042&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Rugs</a></li>				
-
-				<li><a href="/category.asp?section_id=2002&amp;department=3042&amp;search_type=category&amp;search_value=1044&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Table Linens</a></li>				
-
-			</ul>
-			</div>
-		  <div class="dd_bottom" style="background-image: url(/include/phmenu/menu_bottom.gif)"><br></div>
-	      </div>
-
-
-			<!-- --------------------------NEW DIV---------------------------- -->
-	      <div id="menu-1|sub-30842002" class="dd" style="display:none;visibility:hide;position:absolute;top:0;left:0;background-image: url(/include/phmenu/menu_top.gif)">
-		  <div class="dd_inner">
-			<!--<h3>Categories</h3>-->
-			<ul>
-
-				<li><a href="/category.asp?section_id=2002&amp;department=3084&amp;search_type=category&amp;search_value=3107&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Insulated Curtains</a></li>				
-
-				<li><a href="/category.asp?section_id=2002&amp;department=3084&amp;search_type=category&amp;search_value=3104&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Panels</a></li>				
-
-				<li><a href="/category.asp?section_id=2002&amp;department=3084&amp;search_type=category&amp;search_value=3109&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Rods &amp; Hardware</a></li>				
-
-				<li><a href="/category.asp?section_id=2002&amp;department=3084&amp;search_type=category&amp;search_value=3108&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Sheers</a></li>				
-
-				<li><a href="/category.asp?section_id=2002&amp;department=3084&amp;search_type=category&amp;search_value=3105&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Valances</a></li>				
-
-				<li><a href="/category.asp?section_id=2002&amp;department=3084&amp;search_type=category&amp;search_value=3110&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Window Shades</a></li>				
-
-			</ul>
-			</div>
-		  <div class="dd_bottom" style="background-image: url(/include/phmenu/menu_bottom.gif)"><br></div>
-	      </div>
-
-
-			<!-- --------------------------NEW DIV---------------------------- -->
-	      <div id="menu-1|sub-30752002" class="dd" style="display:none;visibility:hide;position:absolute;top:0;left:0;background-image: url(/include/phmenu/menu_top.gif)">
-		  <div class="dd_inner">
-			<!--<h3>Categories</h3>-->
-			<ul>
-
-				<li><a href="/category.asp?section_id=2002&amp;department=3075&amp;search_type=category&amp;search_value=1155&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Bath Linens</a></li>				
-
-				<li><a href="/category.asp?section_id=2002&amp;department=3075&amp;search_type=category&amp;search_value=1159&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Chair Pads &amp; Cushions</a></li>				
-
-				<li><a href="/category.asp?section_id=2002&amp;department=3075&amp;search_type=category&amp;search_value=1163&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Decorative Pillows</a></li>				
-
-				<li><a href="/category.asp?section_id=2002&amp;department=3075&amp;search_type=category&amp;search_value=1021&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Quilts &amp; Blankets</a></li>				
-
-				<li><a href="/category.asp?section_id=2002&amp;department=3075&amp;search_type=category&amp;search_value=1022&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Sheets &amp; Bedskirts</a></li>				
-
-				<li><a href="/category.asp?section_id=2002&amp;department=3075&amp;search_type=category&amp;search_value=1044&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Table Linens</a></li>				
-
-			</ul>
-			</div>
-		  <div class="dd_bottom" style="background-image: url(/include/phmenu/menu_bottom.gif)"><br></div>
-	      </div>
-
-
-			<!-- --------------------------NEW DIV---------------------------- -->
-	      <div id="menu-1|sub-30502002" class="dd" style="display:none;visibility:hide;position:absolute;top:0;left:0;background-image: url(/include/phmenu/menu_top.gif)">
-		  <div class="dd_inner">
-			<!--<h3>Categories</h3>-->
-			<ul>
-
-				<li><a href="/category.asp?section_id=2002&amp;department=3050&amp;search_type=category&amp;search_value=1029&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Fire Starters</a></li>				
-
-				<li><a href="/category.asp?section_id=2002&amp;department=3050&amp;search_type=category&amp;search_value=3972&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Fireplace Candelabras</a></li>				
-
-				<li><a href="/category.asp?section_id=2002&amp;department=3050&amp;search_type=category&amp;search_value=1026&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Fireplace Cooking</a></li>				
-
-				<li><a href="/category.asp?section_id=2002&amp;department=3050&amp;search_type=category&amp;search_value=1027&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Fireplace Screens</a></li>				
-
-				<li><a href="/category.asp?section_id=2002&amp;department=3050&amp;search_type=category&amp;search_value=1028&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Fireplace Toolsets</a></li>				
-
-				<li><a href="/category.asp?section_id=2002&amp;department=3050&amp;search_type=category&amp;search_value=1030&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Grates &amp; Firebacks</a></li>				
-
-				<li><a href="/category.asp?section_id=2002&amp;department=3050&amp;search_type=category&amp;search_value=1031&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Hearth Accessories</a></li>				
-
-				<li><a href="/category.asp?section_id=2002&amp;department=3050&amp;search_type=category&amp;search_value=1032&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Hearth Rugs</a></li>				
-
-				<li><a href="/category.asp?section_id=2002&amp;department=3050&amp;search_type=category&amp;search_value=1033&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Log Carriers</a></li>				
-
-				<li><a href="/category.asp?section_id=2002&amp;department=3050&amp;search_type=category&amp;search_value=1039&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Steamers</a></li>				
-
-				<li><a href="/category.asp?section_id=2002&amp;department=3050&amp;search_type=category&amp;search_value=3147&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Ventless &amp; Electric Heating</a></li>				
-
-				<li><a href="/category.asp?section_id=2002&amp;department=3050&amp;search_type=category&amp;search_value=1037&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Wood Handling</a></li>				
-
-				<li><a href="/category.asp?section_id=2002&amp;department=3050&amp;search_type=category&amp;search_value=1035&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Wood Racks &amp; Storage</a></li>				
-
-				<li><a href="/category.asp?section_id=2002&amp;department=3050&amp;search_type=category&amp;search_value=1038&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Woodstove Accessories</a></li>				
-
-			</ul>
-			</div>
-		  <div class="dd_bottom" style="background-image: url(/include/phmenu/menu_bottom.gif)"><br></div>
-	      </div>
-
-
-			<!-- --------------------------NEW DIV---------------------------- -->
-	      <div id="menu-1|sub-30082002" class="dd" style="display:none;visibility:hide;position:absolute;top:0;left:0;background-image: url(/include/phmenu/menu_top.gif)">
-		  <div class="dd_inner">
-			<!--<h3>Categories</h3>-->
-			<ul>
-
-				<li><a href="/category.asp?section_id=2002&amp;department=3008&amp;search_type=category&amp;search_value=1001&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Bathroom Accessories</a></li>				
-
-				<li><a href="/category.asp?section_id=2002&amp;department=3008&amp;search_type=category&amp;search_value=1002&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Candles</a></li>				
-
-				<li><a href="/category.asp?section_id=2002&amp;department=3008&amp;search_type=category&amp;search_value=1003&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Clocks &amp; Thermometers</a></li>				
-
-				<li><a href="/category.asp?section_id=2002&amp;department=3008&amp;search_type=category&amp;search_value=1006&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Decorative Accents</a></li>				
-
-				<li><a href="/category.asp?section_id=2002&amp;department=3008&amp;search_type=category&amp;search_value=1004&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Lamps &amp; Lighting</a></li>				
-
-				<li><a href="/category.asp?section_id=2002&amp;department=3008&amp;search_type=category&amp;search_value=1005&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Wall Decor</a></li>				
-
-				<li><a href="/category.asp?section_id=2002&amp;department=3008&amp;search_type=category&amp;search_value=1090&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Wreaths</a></li>				
-
-			</ul>
-			</div>
-		  <div class="dd_bottom" style="background-image: url(/include/phmenu/menu_bottom.gif)"><br></div>
-	      </div>
-
-
-			<!-- --------------------------NEW DIV---------------------------- -->
-	      <div id="menu-1|sub-30052002" class="dd" style="display:none;visibility:hide;position:absolute;top:0;left:0;background-image: url(/include/phmenu/menu_top.gif)">
-		  <div class="dd_inner">
-			<!--<h3>Categories</h3>-->
-			<ul>
-
-				<li><a href="/category.asp?section_id=2002&amp;department=3005&amp;search_type=category&amp;search_value=1052&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Energy Savers</a></li>				
-
-				<li><a href="/category.asp?section_id=2002&amp;department=3005&amp;search_type=category&amp;search_value=1054&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Hearth Solutions</a></li>				
-
-				<li><a href="/category.asp?section_id=2002&amp;department=3005&amp;search_type=category&amp;search_value=1150&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Office Solutions</a></li>				
-
-				<li><a href="/category.asp?section_id=2002&amp;department=3005&amp;search_type=category&amp;search_value=1047&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Personal Care</a></li>				
-
-				<li><a href="/category.asp?section_id=2002&amp;department=3005&amp;search_type=category&amp;search_value=1049&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Storage Helpers</a></li>				
-
-				<li><a href="/category.asp?section_id=2002&amp;department=3005&amp;search_type=category&amp;search_value=1050&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Tools &amp; Gadgets</a></li>				
-
-			</ul>
-			</div>
-		  <div class="dd_bottom" style="background-image: url(/include/phmenu/menu_bottom.gif)"><br></div>
-	      </div>
-
-
-			<!-- --------------------------NEW DIV---------------------------- -->
-	      <div id="menu-1|sub-30032002" class="dd" style="display:none;visibility:hide;position:absolute;top:0;left:0;background-image: url(/include/phmenu/menu_top.gif)">
-		  <div class="dd_inner">
-			<!--<h3>Categories</h3>-->
-			<ul>
-
-				<li><a href="/category.asp?section_id=2002&amp;department=3003&amp;search_type=category&amp;search_value=1055&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Bedroom Furniture</a></li>				
-
-				<li><a href="/category.asp?section_id=2002&amp;department=3003&amp;search_type=category&amp;search_value=1056&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Chairs</a></li>				
-
-				<li><a href="/category.asp?section_id=2002&amp;department=3003&amp;search_type=category&amp;search_value=1059&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Family Room Furniture</a></li>				
-
-				<li><a href="/category.asp?section_id=2002&amp;department=3003&amp;search_type=category&amp;search_value=1060&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Functional Furnishings</a></li>				
-
-				<li><a href="/category.asp?section_id=2002&amp;department=3003&amp;search_type=category&amp;search_value=1061&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Hallway</a></li>				
-
-				<li><a href="/category.asp?section_id=2002&amp;department=3003&amp;search_type=category&amp;search_value=1062&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Home Office</a></li>				
-
-				<li><a href="/category.asp?section_id=2002&amp;department=3003&amp;search_type=category&amp;search_value=1058&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Kitchen &amp; Dining Furniture</a></li>				
-
-				<li><a href="/category.asp?section_id=2002&amp;department=3003&amp;search_type=category&amp;search_value=1065&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Rockers</a></li>				
-
-				<li><a href="/category.asp?section_id=2002&amp;department=3003&amp;search_type=category&amp;search_value=3111&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Sunroom  &amp; Porch Furniture</a></li>				
-
-				<li><a href="/category.asp?section_id=2002&amp;department=3003&amp;search_type=category&amp;search_value=1165&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Tables</a></li>				
-
-				<li><a href="/category.asp?section_id=2002&amp;department=3003&amp;search_type=category&amp;search_value=1068&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Upholstered Furniture</a></li>				
-
-			</ul>
-			</div>
-		  <div class="dd_bottom" style="background-image: url(/include/phmenu/menu_bottom.gif)"><br></div>
-	      </div>
-
-
-			<!-- --------------------------NEW DIV---------------------------- -->
-	      <div id="menu-1|sub-30532002" class="dd" style="display:none;visibility:hide;position:absolute;top:0;left:0;background-image: url(/include/phmenu/menu_top.gif)">
-		  <div class="dd_inner">
-			<!--<h3>Categories</h3>-->
-			<ul>
-
-				<li><a href="/category.asp?section_id=2002&amp;department=3053&amp;search_type=category&amp;search_value=1019&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Pet Accessories</a></li>				
-
-				<li><a href="/category.asp?section_id=2002&amp;department=3053&amp;search_type=category&amp;search_value=1020&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Pet Beds</a></li>				
-
-			</ul>
-			</div>
-		  <div class="dd_bottom" style="background-image: url(/include/phmenu/menu_bottom.gif)"><br></div>
-	      </div>
-
-
-			<!-- --------------------------NEW DIV---------------------------- -->
-	      <div id="menu-1|sub-30562002" class="dd" style="display:none;visibility:hide;position:absolute;top:0;left:0;background-image: url(/include/phmenu/menu_top.gif)">
-		  <div class="dd_inner">
-			<!--<h3>Categories</h3>-->
-			<ul>
-
-				<li><a href="/category.asp?section_id=2002&amp;department=3056&amp;search_type=category&amp;search_value=1016&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Accent Rugs</a></li>				
-
-				<li><a href="/category.asp?section_id=2002&amp;department=3056&amp;search_type=category&amp;search_value=1015&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Braided Rugs</a></li>				
-
-				<li><a href="/category.asp?section_id=2002&amp;department=3056&amp;search_type=category&amp;search_value=1018&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Doormats</a></li>				
-
-				<li><a href="/category.asp?section_id=2002&amp;department=3056&amp;search_type=category&amp;search_value=1032&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Hearth Rugs</a></li>				
-
-				<li><a href="/category.asp?section_id=2002&amp;department=3056&amp;search_type=category&amp;search_value=4054&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Indoor/Outdoor Rugs</a></li>				
-
-				<li><a href="/category.asp?section_id=2002&amp;department=3056&amp;search_type=category&amp;search_value=1205&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Stair Treads</a></li>				
-
-				<li><a href="/category.asp?section_id=2002&amp;department=3056&amp;search_type=category&amp;search_value=1017&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Wool Rugs</a></li>				
-
-			</ul>
-			</div>
-		  <div class="dd_bottom" style="background-image: url(/include/phmenu/menu_bottom.gif)"><br></div>
-	      </div>
-
-
-			<!-- --------------------------NEW DIV---------------------------- -->
-	      <div id="menu-1|sub-39942002" class="dd" style="display:none;visibility:hide;position:absolute;top:0;left:0;background-image: url(/include/phmenu/menu_top.gif)">
-		  <div class="dd_inner">
-			<!--<h3>Categories</h3>-->
-			<ul>
-
-				<li><a href="/category.asp?section_id=2002&amp;department=3994&amp;search_type=category&amp;search_value=3096&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Bathroom</a></li>				
-
-				<li><a href="/category.asp?section_id=2002&amp;department=3994&amp;search_type=category&amp;search_value=3094&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Bedroom</a></li>				
-
-				<li><a href="/category.asp?section_id=2002&amp;department=3994&amp;search_type=category&amp;search_value=3232&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Entryway</a></li>				
-
-				<li><a href="/category.asp?section_id=2002&amp;department=3994&amp;search_type=category&amp;search_value=3095&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Family Room</a></li>				
-
-				<li><a href="/category.asp?section_id=2002&amp;department=3994&amp;search_type=category&amp;search_value=3098&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Home Office</a></li>				
-
-				<li><a href="/category.asp?section_id=2002&amp;department=3994&amp;search_type=category&amp;search_value=3097&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Kitchen &amp; Dining</a></li>				
-
-				<li><a href="/category.asp?section_id=2002&amp;department=3994&amp;search_type=category&amp;search_value=3201&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Sunroom</a></li>				
-
-			</ul>
-			</div>
-		  <div class="dd_bottom" style="background-image: url(/include/phmenu/menu_bottom.gif)"><br></div>
-	      </div>
-
-
-			<!-- --------------------------NEW DIV---------------------------- -->
-	      <div id="menu-2|sub-30572004" class="dd" style="display:none;visibility:hide;position:absolute;top:0;left:0;background-image: url(/include/phmenu/menu_top.gif)">
+	      <div id="menu-1|sub-30572004" class="dd" style="display:none;visibility:hide;position:absolute;top:0;left:0;background-image: url(/include/phmenu/menu_top.gif)">
 		  <div class="dd_inner">
 			<!--<h3>Categories</h3>-->
 			<ul>
@@ -543,7 +306,7 @@ window.onload = function() {
 
 
 			<!-- --------------------------NEW DIV---------------------------- -->
-	      <div id="menu-2|sub-30592004" class="dd" style="display:none;visibility:hide;position:absolute;top:0;left:0;background-image: url(/include/phmenu/menu_top.gif)">
+	      <div id="menu-1|sub-30592004" class="dd" style="display:none;visibility:hide;position:absolute;top:0;left:0;background-image: url(/include/phmenu/menu_top.gif)">
 		  <div class="dd_inner">
 			<!--<h3>Categories</h3>-->
 			<ul>
@@ -581,7 +344,7 @@ window.onload = function() {
 
 
 			<!-- --------------------------NEW DIV---------------------------- -->
-	      <div id="menu-2|sub-30582004" class="dd" style="display:none;visibility:hide;position:absolute;top:0;left:0;background-image: url(/include/phmenu/menu_top.gif)">
+	      <div id="menu-1|sub-30582004" class="dd" style="display:none;visibility:hide;position:absolute;top:0;left:0;background-image: url(/include/phmenu/menu_top.gif)">
 		  <div class="dd_inner">
 			<!--<h3>Categories</h3>-->
 			<ul>
@@ -597,6 +360,274 @@ window.onload = function() {
 				<li><a href="/category.asp?section_id=2004&amp;department=3058&amp;search_type=category&amp;search_value=1086&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Outdoor Weather Instruments</a></li>				
 
 				<li><a href="/category.asp?section_id=2004&amp;department=3058&amp;search_type=category&amp;search_value=1089&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Solar Solutions</a></li>				
+
+			</ul>
+			</div>
+		  <div class="dd_bottom" style="background-image: url(/include/phmenu/menu_bottom.gif)"><br></div>
+	      </div>
+
+
+			<!-- --------------------------NEW DIV---------------------------- -->
+	      <div id="menu-2|sub-30422002" class="dd" style="display:none;visibility:hide;position:absolute;top:0;left:0;background-image: url(/include/phmenu/menu_top.gif)">
+		  <div class="dd_inner">
+			<!--<h3>Categories</h3>-->
+			<ul>
+
+				<li><a href="/category.asp?section_id=2002&amp;department=3042&amp;search_type=category&amp;search_value=1040&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Cookware &amp; Bakeware</a></li>				
+
+				<li><a href="/category.asp?section_id=2002&amp;department=3042&amp;search_type=category&amp;search_value=1045&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Dishes </a></li>				
+
+				<li><a href="/category.asp?section_id=2002&amp;department=3042&amp;search_type=category&amp;search_value=3075&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Food &amp; Flowers</a></li>				
+
+				<li><a href="/category.asp?section_id=2002&amp;department=3042&amp;search_type=category&amp;search_value=1041&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Kitchen Accessories</a></li>				
+
+				<li><a href="/category.asp?section_id=2002&amp;department=3042&amp;search_type=category&amp;search_value=1063&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Kitchen Furniture</a></li>				
+
+				<li><a href="/category.asp?section_id=2002&amp;department=3042&amp;search_type=category&amp;search_value=1043&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Kitchen Lighting</a></li>				
+
+				<li><a href="/category.asp?section_id=2002&amp;department=3042&amp;search_type=category&amp;search_value=1042&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Rugs</a></li>				
+
+				<li><a href="/category.asp?section_id=2002&amp;department=3042&amp;search_type=category&amp;search_value=1044&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Table Linens</a></li>				
+
+			</ul>
+			</div>
+		  <div class="dd_bottom" style="background-image: url(/include/phmenu/menu_bottom.gif)"><br></div>
+	      </div>
+
+
+			<!-- --------------------------NEW DIV---------------------------- -->
+	      <div id="menu-2|sub-30842002" class="dd" style="display:none;visibility:hide;position:absolute;top:0;left:0;background-image: url(/include/phmenu/menu_top.gif)">
+		  <div class="dd_inner">
+			<!--<h3>Categories</h3>-->
+			<ul>
+
+				<li><a href="/category.asp?section_id=2002&amp;department=3084&amp;search_type=category&amp;search_value=3107&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Insulated Curtains</a></li>				
+
+				<li><a href="/category.asp?section_id=2002&amp;department=3084&amp;search_type=category&amp;search_value=3104&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Panels</a></li>				
+
+				<li><a href="/category.asp?section_id=2002&amp;department=3084&amp;search_type=category&amp;search_value=3109&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Rods &amp; Hardware</a></li>				
+
+				<li><a href="/category.asp?section_id=2002&amp;department=3084&amp;search_type=category&amp;search_value=3108&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Sheers</a></li>				
+
+				<li><a href="/category.asp?section_id=2002&amp;department=3084&amp;search_type=category&amp;search_value=3105&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Valances</a></li>				
+
+				<li><a href="/category.asp?section_id=2002&amp;department=3084&amp;search_type=category&amp;search_value=3110&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Window Shades</a></li>				
+
+			</ul>
+			</div>
+		  <div class="dd_bottom" style="background-image: url(/include/phmenu/menu_bottom.gif)"><br></div>
+	      </div>
+
+
+			<!-- --------------------------NEW DIV---------------------------- -->
+	      <div id="menu-2|sub-30752002" class="dd" style="display:none;visibility:hide;position:absolute;top:0;left:0;background-image: url(/include/phmenu/menu_top.gif)">
+		  <div class="dd_inner">
+			<!--<h3>Categories</h3>-->
+			<ul>
+
+				<li><a href="/category.asp?section_id=2002&amp;department=3075&amp;search_type=category&amp;search_value=1155&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Bath Linens</a></li>				
+
+				<li><a href="/category.asp?section_id=2002&amp;department=3075&amp;search_type=category&amp;search_value=1159&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Chair Pads &amp; Cushions</a></li>				
+
+				<li><a href="/category.asp?section_id=2002&amp;department=3075&amp;search_type=category&amp;search_value=1163&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Decorative Pillows</a></li>				
+
+				<li><a href="/category.asp?section_id=2002&amp;department=3075&amp;search_type=category&amp;search_value=1021&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Quilts &amp; Blankets</a></li>				
+
+				<li><a href="/category.asp?section_id=2002&amp;department=3075&amp;search_type=category&amp;search_value=1022&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Sheets &amp; Bedskirts</a></li>				
+
+				<li><a href="/category.asp?section_id=2002&amp;department=3075&amp;search_type=category&amp;search_value=1044&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Table Linens</a></li>				
+
+			</ul>
+			</div>
+		  <div class="dd_bottom" style="background-image: url(/include/phmenu/menu_bottom.gif)"><br></div>
+	      </div>
+
+
+			<!-- --------------------------NEW DIV---------------------------- -->
+	      <div id="menu-2|sub-30502002" class="dd" style="display:none;visibility:hide;position:absolute;top:0;left:0;background-image: url(/include/phmenu/menu_top.gif)">
+		  <div class="dd_inner">
+			<!--<h3>Categories</h3>-->
+			<ul>
+
+				<li><a href="/category.asp?section_id=2002&amp;department=3050&amp;search_type=category&amp;search_value=1029&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Fire Starters</a></li>				
+
+				<li><a href="/category.asp?section_id=2002&amp;department=3050&amp;search_type=category&amp;search_value=3972&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Fireplace Candelabras</a></li>				
+
+				<li><a href="/category.asp?section_id=2002&amp;department=3050&amp;search_type=category&amp;search_value=1026&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Fireplace Cooking</a></li>				
+
+				<li><a href="/category.asp?section_id=2002&amp;department=3050&amp;search_type=category&amp;search_value=1027&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Fireplace Screens</a></li>				
+
+				<li><a href="/category.asp?section_id=2002&amp;department=3050&amp;search_type=category&amp;search_value=1028&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Fireplace Tool Sets</a></li>				
+
+				<li><a href="/category.asp?section_id=2002&amp;department=3050&amp;search_type=category&amp;search_value=1030&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Grates &amp; Firebacks</a></li>				
+
+				<li><a href="/category.asp?section_id=2002&amp;department=3050&amp;search_type=category&amp;search_value=1031&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Hearth Accessories</a></li>				
+
+				<li><a href="/category.asp?section_id=2002&amp;department=3050&amp;search_type=category&amp;search_value=1032&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Hearth Rugs</a></li>				
+
+				<li><a href="/category.asp?section_id=2002&amp;department=3050&amp;search_type=category&amp;search_value=1033&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Log Carriers</a></li>				
+
+				<li><a href="/category.asp?section_id=2002&amp;department=3050&amp;search_type=category&amp;search_value=1039&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Steamers</a></li>				
+
+				<li><a href="/category.asp?section_id=2002&amp;department=3050&amp;search_type=category&amp;search_value=3147&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Ventless &amp; Electric Heating</a></li>				
+
+				<li><a href="/category.asp?section_id=2002&amp;department=3050&amp;search_type=category&amp;search_value=1037&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Wood Handling</a></li>				
+
+				<li><a href="/category.asp?section_id=2002&amp;department=3050&amp;search_type=category&amp;search_value=1035&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Wood Racks &amp; Storage</a></li>				
+
+				<li><a href="/category.asp?section_id=2002&amp;department=3050&amp;search_type=category&amp;search_value=1038&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Woodstove Accessories</a></li>				
+
+			</ul>
+			</div>
+		  <div class="dd_bottom" style="background-image: url(/include/phmenu/menu_bottom.gif)"><br></div>
+	      </div>
+
+
+			<!-- --------------------------NEW DIV---------------------------- -->
+	      <div id="menu-2|sub-30082002" class="dd" style="display:none;visibility:hide;position:absolute;top:0;left:0;background-image: url(/include/phmenu/menu_top.gif)">
+		  <div class="dd_inner">
+			<!--<h3>Categories</h3>-->
+			<ul>
+
+				<li><a href="/category.asp?section_id=2002&amp;department=3008&amp;search_type=category&amp;search_value=1001&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Bathroom Accessories</a></li>				
+
+				<li><a href="/category.asp?section_id=2002&amp;department=3008&amp;search_type=category&amp;search_value=1002&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Candles</a></li>				
+
+				<li><a href="/category.asp?section_id=2002&amp;department=3008&amp;search_type=category&amp;search_value=1003&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Clocks &amp; Thermometers</a></li>				
+
+				<li><a href="/category.asp?section_id=2002&amp;department=3008&amp;search_type=category&amp;search_value=1006&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Decorative Accents</a></li>				
+
+				<li><a href="/category.asp?section_id=2002&amp;department=3008&amp;search_type=category&amp;search_value=1004&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Lamps &amp; Lighting</a></li>				
+
+				<li><a href="/category.asp?section_id=2002&amp;department=3008&amp;search_type=category&amp;search_value=1005&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Wall Decor</a></li>				
+
+				<li><a href="/category.asp?section_id=2002&amp;department=3008&amp;search_type=category&amp;search_value=1090&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Wreaths</a></li>				
+
+			</ul>
+			</div>
+		  <div class="dd_bottom" style="background-image: url(/include/phmenu/menu_bottom.gif)"><br></div>
+	      </div>
+
+
+			<!-- --------------------------NEW DIV---------------------------- -->
+	      <div id="menu-2|sub-30052002" class="dd" style="display:none;visibility:hide;position:absolute;top:0;left:0;background-image: url(/include/phmenu/menu_top.gif)">
+		  <div class="dd_inner">
+			<!--<h3>Categories</h3>-->
+			<ul>
+
+				<li><a href="/category.asp?section_id=2002&amp;department=3005&amp;search_type=category&amp;search_value=1052&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Energy Savers</a></li>				
+
+				<li><a href="/category.asp?section_id=2002&amp;department=3005&amp;search_type=category&amp;search_value=1054&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Hearth Solutions</a></li>				
+
+				<li><a href="/category.asp?section_id=2002&amp;department=3005&amp;search_type=category&amp;search_value=1150&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Office Solutions</a></li>				
+
+				<li><a href="/category.asp?section_id=2002&amp;department=3005&amp;search_type=category&amp;search_value=1047&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Personal Care</a></li>				
+
+				<li><a href="/category.asp?section_id=2002&amp;department=3005&amp;search_type=category&amp;search_value=1049&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Storage Helpers</a></li>				
+
+				<li><a href="/category.asp?section_id=2002&amp;department=3005&amp;search_type=category&amp;search_value=1050&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Tools &amp; Gadgets</a></li>				
+
+			</ul>
+			</div>
+		  <div class="dd_bottom" style="background-image: url(/include/phmenu/menu_bottom.gif)"><br></div>
+	      </div>
+
+
+			<!-- --------------------------NEW DIV---------------------------- -->
+	      <div id="menu-2|sub-30032002" class="dd" style="display:none;visibility:hide;position:absolute;top:0;left:0;background-image: url(/include/phmenu/menu_top.gif)">
+		  <div class="dd_inner">
+			<!--<h3>Categories</h3>-->
+			<ul>
+
+				<li><a href="/category.asp?section_id=2002&amp;department=3003&amp;search_type=category&amp;search_value=1055&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Bedroom Furniture</a></li>				
+
+				<li><a href="/category.asp?section_id=2002&amp;department=3003&amp;search_type=category&amp;search_value=1056&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Chairs</a></li>				
+
+				<li><a href="/category.asp?section_id=2002&amp;department=3003&amp;search_type=category&amp;search_value=1059&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Family Room Furniture</a></li>				
+
+				<li><a href="/category.asp?section_id=2002&amp;department=3003&amp;search_type=category&amp;search_value=1060&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Functional Furnishings</a></li>				
+
+				<li><a href="/category.asp?section_id=2002&amp;department=3003&amp;search_type=category&amp;search_value=1061&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Hallway</a></li>				
+
+				<li><a href="/category.asp?section_id=2002&amp;department=3003&amp;search_type=category&amp;search_value=1062&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Home Office</a></li>				
+
+				<li><a href="/category.asp?section_id=2002&amp;department=3003&amp;search_type=category&amp;search_value=1058&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Kitchen &amp; Dining Furniture</a></li>				
+
+				<li><a href="/category.asp?section_id=2002&amp;department=3003&amp;search_type=category&amp;search_value=1065&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Rockers</a></li>				
+
+				<li><a href="/category.asp?section_id=2002&amp;department=3003&amp;search_type=category&amp;search_value=3111&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Sunroom  &amp; Porch Furniture</a></li>				
+
+				<li><a href="/category.asp?section_id=2002&amp;department=3003&amp;search_type=category&amp;search_value=1165&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Tables</a></li>				
+
+				<li><a href="/category.asp?section_id=2002&amp;department=3003&amp;search_type=category&amp;search_value=1068&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Upholstered Furniture</a></li>				
+
+			</ul>
+			</div>
+		  <div class="dd_bottom" style="background-image: url(/include/phmenu/menu_bottom.gif)"><br></div>
+	      </div>
+
+
+			<!-- --------------------------NEW DIV---------------------------- -->
+	      <div id="menu-2|sub-30532002" class="dd" style="display:none;visibility:hide;position:absolute;top:0;left:0;background-image: url(/include/phmenu/menu_top.gif)">
+		  <div class="dd_inner">
+			<!--<h3>Categories</h3>-->
+			<ul>
+
+				<li><a href="/category.asp?section_id=2002&amp;department=3053&amp;search_type=category&amp;search_value=1019&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Pet Accessories</a></li>				
+
+				<li><a href="/category.asp?section_id=2002&amp;department=3053&amp;search_type=category&amp;search_value=1020&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Pet Beds</a></li>				
+
+			</ul>
+			</div>
+		  <div class="dd_bottom" style="background-image: url(/include/phmenu/menu_bottom.gif)"><br></div>
+	      </div>
+
+
+			<!-- --------------------------NEW DIV---------------------------- -->
+	      <div id="menu-2|sub-30562002" class="dd" style="display:none;visibility:hide;position:absolute;top:0;left:0;background-image: url(/include/phmenu/menu_top.gif)">
+		  <div class="dd_inner">
+			<!--<h3>Categories</h3>-->
+			<ul>
+
+				<li><a href="/category.asp?section_id=2002&amp;department=3056&amp;search_type=category&amp;search_value=1016&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Accent Rugs</a></li>				
+
+				<li><a href="/category.asp?section_id=2002&amp;department=3056&amp;search_type=category&amp;search_value=1015&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Braided Rugs</a></li>				
+
+				<li><a href="/category.asp?section_id=2002&amp;department=3056&amp;search_type=category&amp;search_value=1018&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Doormats</a></li>				
+
+				<li><a href="/category.asp?section_id=2002&amp;department=3056&amp;search_type=category&amp;search_value=1032&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Hearth Rugs</a></li>				
+
+				<li><a href="/category.asp?section_id=2002&amp;department=3056&amp;search_type=category&amp;search_value=4054&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Indoor/Outdoor Rugs</a></li>				
+
+				<li><a href="/category.asp?section_id=2002&amp;department=3056&amp;search_type=category&amp;search_value=1205&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Stair Treads</a></li>				
+
+				<li><a href="/category.asp?section_id=2002&amp;department=3056&amp;search_type=category&amp;search_value=1017&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Wool Rugs</a></li>				
+
+			</ul>
+			</div>
+		  <div class="dd_bottom" style="background-image: url(/include/phmenu/menu_bottom.gif)"><br></div>
+	      </div>
+
+
+			<!-- --------------------------NEW DIV---------------------------- -->
+	      <div id="menu-2|sub-39942002" class="dd" style="display:none;visibility:hide;position:absolute;top:0;left:0;background-image: url(/include/phmenu/menu_top.gif)">
+		  <div class="dd_inner">
+			<!--<h3>Categories</h3>-->
+			<ul>
+
+				<li><a href="/category.asp?section_id=2002&amp;department=3994&amp;search_type=category&amp;search_value=3096&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Bathroom</a></li>				
+
+				<li><a href="/category.asp?section_id=2002&amp;department=3994&amp;search_type=category&amp;search_value=3094&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Bedroom</a></li>				
+
+				<li><a href="/category.asp?section_id=2002&amp;department=3994&amp;search_type=category&amp;search_value=3232&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Entryway</a></li>				
+
+				<li><a href="/category.asp?section_id=2002&amp;department=3994&amp;search_type=category&amp;search_value=3095&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Family Room</a></li>				
+
+				<li><a href="/category.asp?section_id=2002&amp;department=3994&amp;search_type=category&amp;search_value=3098&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Home Office</a></li>				
+
+				<li><a href="/category.asp?section_id=2002&amp;department=3994&amp;search_type=category&amp;search_value=3097&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Kitchen &amp; Dining</a></li>				
+
+				<li><a href="/category.asp?section_id=2002&amp;department=3994&amp;search_type=category&amp;search_value=3201&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Sunroom</a></li>				
 
 			</ul>
 			</div>
@@ -632,13 +663,13 @@ window.onload = function() {
 			<!--<h3>Categories</h3>-->
 			<ul>
 
+				<li><a href="/category.asp?section_id=2008&amp;department=3063&amp;search_type=category&amp;search_value=2009&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Decorative Accents</a></li>				
+
 				<li><a href="/category.asp?section_id=2008&amp;department=3063&amp;search_type=category&amp;search_value=1122&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Fencing &amp; Edging</a></li>				
 
 				<li><a href="/category.asp?section_id=2008&amp;department=3063&amp;search_type=category&amp;search_value=1124&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Garden Lighting</a></li>				
 
 				<li><a href="/category.asp?section_id=2008&amp;department=3063&amp;search_type=category&amp;search_value=3113&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Garden Planters</a></li>				
-
-				<li><a href="/category.asp?section_id=2008&amp;department=3063&amp;search_type=category&amp;search_value=2009&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Statuary</a></li>				
 
 				<li><a href="/category.asp?section_id=2008&amp;department=3063&amp;search_type=category&amp;search_value=1123&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Water Features</a></li>				
 
@@ -740,7 +771,7 @@ window.onload = function() {
 
 				<li><a href="/category.asp?section_id=2006&amp;department=3071&amp;search_type=category&amp;search_value=3071&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Gloves</a></li>				
 
-				<li><a href="/category.asp?section_id=2006&amp;department=3071&amp;search_type=category&amp;search_value=1138&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Hats</a></li>				
+				<li><a href="/category.asp?section_id=2006&amp;department=3071&amp;search_type=category&amp;search_value=1138&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Headwear</a></li>				
 
 				<li><a href="/category.asp?section_id=2006&amp;department=3071&amp;search_type=category&amp;search_value=1141&amp;cm_val=&amp;cm_pos=&amp;cm_type=">Socks</a></li>				
 
@@ -799,50 +830,18 @@ window.onload = function() {
 
 <table width="720" border="0" cellspacing="0" cellpadding="0"><tbody><tr class="BGdarkGreen">
 
-	<td width="519" valign="bottom">
+	<td valign="bottom">
 		<!-- BEGIN: nav buttons -->	
+	
 		
-			<div id="topNav"><a href="http://www.plowhearth.com/home_hearth.asp"><img src="/plow_assets/images/nav.home-hearth.0.gif" width="110" height="32" alt="home &amp; hearth" border="0"></a><a href="http://www.plowhearth.com/outdoor_living.asp"><img src="/plow_assets/images/nav.outdoor-living.0.gif" width="101" height="32" alt="outdoor living" border="0"></a><a href="http://www.plowhearth.com/yard_garden.asp"><img src="/plow_assets/images/nav.yard-garden.0.gif" width="101" height="32" alt="yard &amp; garden" border="0"></a><a href="http://www.plowhearth.com/footwear_apparel.asp"><img src="/plow_assets/images/nav.footwear-apparel.0.gif" width="120" height="32" alt="footwear &amp; apparel" border="0"></a><a href="http://www.plowhearth.com/outletstore.asp"><img src="/plow_assets/images/nav.outlet.0.gif" width="87" height="32" alt="outlet center" border="0"></a></div>
+			<div><img src="/plow_assets/images/PHTabs_left.gif" width="26" height="27" alt="" border="0"><a href="../welcome.asp"><img src="/plow_assets/images/PHTabs_Home_off.gif" width="76" height="27" alt="home" border="0"></a></div></td><td><div id="topNav"><img src="/plow_assets/images/PHTabs_div.gif" width="12" height="27" alt="" border="0"><a href="http://www.plowhearth.com/outdoor_living.asp"><img src="/plow_assets/images/PHTabs_OL_off.gif" width="112" height="27" alt="outdoor living" border="0"></a><img src="/plow_assets/images/PHTabs_div.gif" width="12" height="27" alt="" border="0"><a href="http://www.plowhearth.com/home_hearth.asp"><img src="/plow_assets/images/PHTabs_HH_off.gif" width="104" height="27" alt="home &amp; hearth" border="0"></a><img src="/plow_assets/images/PHTabs_div.gif" width="12" height="27" alt="" border="0"><a href="http://www.plowhearth.com/yard_garden.asp"><img src="/plow_assets/images/PHTabs_YG_off.gif" width="100" height="27" alt="yard &amp; garden" border="0"></a><img src="/plow_assets/images/PHTabs_div.gif" width="12" height="27" alt="" border="0"><a href="http://www.plowhearth.com/footwear_apparel.asp"><img src="/plow_assets/images/PHTabs_FA_off.gif" width="135" height="27" alt="footwear &amp; apparel" border="0"></a><img src="/plow_assets/images/PHTabs_div.gif" width="12" height="27" alt="" border="0"><a href="http://www.plowhearth.com/outletstore.asp"><img src="/plow_assets/images/PHTabs_Outlet_off.gif" width="81" height="27" alt="outlet center" border="0"></a><img src="/plow_assets/images/PHTabs_rt.gif" width="26" height="27" alt="" border="0"></div>
 		
 		<!-- END: nav buttons -->
-	</td>
-<!-- END: header -->
-
-	<td width="201" height="42">
-		<!-- BEGIN: search area -->
-		<div style="padding-left:10px;">
-		<table border="0" cellspacing="0" cellpadding="0"><tbody><tr>
-			<td><form id="frmSearch" name="frmSearch" action="../productform.asp" method="post" onsubmit="return CheckVal()"></form></td>
-			<td width="40"><div><img src="/plow_assets/images/head.prod-finder.txt.gif" width="32" height="22" alt="product finder" border="0" hspace="4"></div></td>
-			<td><input type="text" size="6" style="width:100px;" name="search_value"></td>
-			<td width="34"><div align="center"><input type="image" name="submit" id="submit" src="/plow_assets/images/but.go.gif" width="21" height="21" border="0"></div></td>
-			<td>
-			<input type="hidden" name="search_type" value="normal">
-			</td>
-		</tr></tbody></table>
-		<div class="headSearchOptTxt"><a href="http://www.plowhearth.com/advanced_search.asp">Advanced Search</a> | <a href="http://www.plowhearth.com/quickshop/quickshop.asp">QuickOrder</a></div>
-		</div>
-		<!-- END: search area -->
 	</td>
 </tr></tbody></table>
 <!--</div>-->
 <!-- END: nav + search table -->
 
-<!-- BEGIN: drop shad -->
-<!--<div align="center">-->
-<table width="720" border="0" cellspacing="0" cellpadding="0"><tbody><tr>
-	<td width="1" class="BGtanDark"><spacer type="block" height="1" width="1"></spacer></td>
-	<td width="718"><table width="718" border="0" cellspacing="0" cellpadding="0">
-		<tbody><tr><td height="1" bgcolor="#A0A099"><spacer type="block" height="1" width="1"></spacer></td></tr>
-		<tr><td height="1" bgcolor="#BBBBA0"><spacer type="block" height="1" width="1"></spacer></td></tr>
-		<tr><td height="1" bgcolor="#CCCCB0"><spacer type="block" height="1" width="1"></spacer></td></tr>
-		<tr><td height="1" bgcolor="#DDDDC0"><spacer type="block" height="1" width="1"></spacer></td></tr>
-		<tr><td height="1" bgcolor="#E6E6CC"><spacer type="block" height="1" width="1"></spacer></td></tr>
-	</tbody></table></td>
-	<td width="1" class="BGtanDark"><spacer type="block" height="1" width="1"></spacer></td>
-</tr></tbody></table>
-<!--</div>-->
-<!-- END: drop shad -->
 
 
 		<!-- BEGIN: breadcrumb + basket -->
@@ -851,7 +850,7 @@ window.onload = function() {
 	<td width="1" class="BGtanDark"><spacer type="block" height="1" width="1"></spacer></td>
 	<td width="117"><div><img src="/plow_assets/images/head.flowers.top.gif" width="117" height="24" alt="" border="0"></div></td>
 
-	<td width="380">
+	<td width="581">
 		<!-- BEGIN: breadcrumb trail -->
 		<div id="breadcrumbTrail">
 		<a href="/welcome.asp">Home</a> &nbsp;:&nbsp;Privacy &amp; Security
@@ -859,14 +858,6 @@ window.onload = function() {
 		<!-- END: breadcrumb trail -->
 	</td>
 
-	<td width="201"><div style="text-align:right">
-		<!-- BEGIN: basket -->
-		<table border="0" cellspacing="0" cellpadding="0"><tbody><tr>
-			<td><div><a href="http://www.plowhearth.com/basket.asp"><img src="/plow_assets/images/head.basket.gif" width="108" height="16" alt="shopping basket" border="0"></a></div></td>
-			<td><div class="basketTxt"><span class="basketTotal">Empty</span> &nbsp; <a href="http://www.plowhearth.com/basket.asp">view</a></div></td>
-		</tr></tbody></table>
-		<!-- END: basket -->
-	</div></td>
 
 	<td width="20" class="BGtan"><spacer type="block" height="1" width="20"></spacer></td>
 	<td width="1" class="BGtanDark"><spacer type="block" height="1" width="1"></spacer></td>
@@ -902,7 +893,7 @@ window.onload = function() {
 
 					<td width="151" class="BGtanLight">
 				<!-- BEGIN: left col (151px) -->
-				<div class="aboutSidebar">
+				<div class="aboutSidebar"> 
 
 				<!-- BEGIN: sidenav -->
 				<div class="aboutSideNav"><br>
@@ -916,7 +907,8 @@ window.onload = function() {
 				<div class="indent"><a href="../service/shipping_deliv.asp">Shipping  Information</a></div>
 				<div class="indent"><a href="../service/orderinfo.asp">Ordering Information</a></div>
 				<div class="indent"><a href="../service/faq.asp">FAQ</a></div>
-				<div class="indent"><a href="../service/contact_us.asp">Contacting Us</a></div>
+				<div class="indent"><a href="../service/contact_us.asp">Contacting Us</a></div> 
+				<div class="indent"><a href="../service/chimenea.asp">Recall Information</a></div> 
 				</div>
 				<!-- END: sidenav -->
 
@@ -930,7 +922,7 @@ window.onload = function() {
 				<!-- need help + guarantee link -->
 				<div class="custGuarantee"><a href="../service/guarantee.asp"><img src="/images/cat.link.guarantee.gif" width="123" height="27" alt="" border="0"></a></div>
 						<div class="needHelp"><img src="/plow_assets/images/prod.txt.need-help.gif" width="81" height="10" alt="need help" border="0"><br><a href="../service/contact_us.asp">E-mail</a> or call us at<br> 1-800-494-7544</div>
-
+ 
 
 				</div>
 
@@ -1098,9 +1090,14 @@ Plow &amp; Hearth® welcomes feedback concerning this Privacy Policy. Please sen
 		<a href="http://www.plowhearth.com/wish_list.asp?wish_flag=true">My WishList</a> | 
 		<a href="http://www.plowhearth.com/basket.asp">My Basket</a>
 		<br>
-		 <a href="http://www.plowhearth.com/about/index.asp">About Us</a> | 
-		 <a href="http://www.plowhearth.com/service/index.asp">Customer Services</a> |
-		<a href="../affiliates/index.asp">Affiliate</a> | 
+		<a href="http://www.plowhearth.com/about/index.asp">About Us</a> | 
+		<a href="http://www.plowhearth.com/service/index.asp">Customer Services</a> |
+		<!-- BOC commented by Chitra for the request - PS Footer Update -->
+		<!--<a href="../affiliates/index.asp">Affiliate</a> | -->
+		<!-- BOC ended by Chitra for the request - PS Footer Update -->
+		<!-- BOC Added by Chitra for the request - PS Footer Update -->
+		<a href="http://reg.cheetahmail.com/regp?aid=324479612">Sign up for Email</a> | 
+		<!-- BOC ended by Chitra for the request - PS Footer Update -->
 		<a href="http://www.plowhearth.com/catalog/catalog.asp">Catalog Request</a> | 
 		<a href="../about/employment.asp">Employment</a> |
 		<a href="http://www.plowhearth.com/about/store_locator.asp">Store Locations</a> | 
