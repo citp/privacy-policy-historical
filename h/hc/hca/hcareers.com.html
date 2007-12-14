@@ -1,274 +1,231 @@
-<!--The following is the downloaded HTML source of the hcareers.com privacy policy that was archived on 2007-04-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070429123205id_/http%3A//www.hospitalityjobs.hcareers.com/seeker/content/Privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hcareers.com privacy policy that was archived on 2007-12-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071214204448id_/http%3A//www.hcareers.com/abouthospitalityjobs/privacy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
- <title>Hcareers - Privacy Commitment</title>
- 
-
-
-    <meta content="private" http-equiv="Cache-Control">
-    
-<!-- end genericHead.jsp -->
-
-
-
-<link rel="stylesheet" href="/public/common/styles.css" type="text/css">
-<link rel="stylesheet" href="/public/common/footer.css" type="text/css">
-<link rel="stylesheet" href="/public/menu/styles.css" type="text/css">
-<link rel="shortcut icon" href="/public/favicon.ico" type="image/ico">
-<!-- end menuHead.jsp -->
-
-</head>
-<body>
-
- <!--
-
-	src/hcareers/bodyTop.html
-
-	Common code immediately following the body tag
-
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head id="ctl00_Head1"><title>
+	Privacy Statement - Hcareers
+</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<!-- 
+I don't think this is necessary because it's already in the Themes folder of the project.
+<link rel="stylesheet" type="text/css" href="../css/style.css" /><link rel="stylesheet" type="text/css" href="../css/navigation.css" />
 -->
+<!-- <script src="js/nav.js" type="text/javascript"></script> -->
+<!--[if IE]>
+<script src="js/menu.js" type="text/javascript"></script>
+<![endif]-->	
 
-<script language="javascript" src="http://www.hcareers.com/public/common/s_code.js"></script>
-<script language="javascript" src="http://www.hcareers.com/public/common/analyticsapp.js"></script>
+<!-- <script src="js/util.js" type="text/javascript"></script> -->
 
+<!-- One rewrite rule makes this necessary, even though it's listed in web.config (the newsletter archives rule). -->
+<link href="/App_Themes/Theme1/style.css" type="text/css" rel="stylesheet"><link rel="shortcut icon" href="http://www.hcareers.com/public/favicon.ico" type="image/ico"><link href="../App_Themes/Theme1/style.css" type="text/css" rel="stylesheet"><script language="JavaScript"> 
+<!--
 
- <!-- include the standard menu -->
- 
+	function login()
+	{
+		//homeLoginForm.email.value = aspnetForm.email.value;
+		//homeLoginForm.encryptedPassword.value = aspnetForm.password.value;
+		//alert("username=" + aspnetForm.email.value + "\npassword=" + aspnetForm.password.value);
+		alert(homeLoginForm.email.value);
+		homeLoginForm.submit();
+	}	
 
+	function getCurrentRegion()
+	{
+		var currentUrl = document.URL.toLowerCase();
+		var regionIdx = currentUrl.search(/\/(us|ca|uk)\//i);
+		var currentRegion = currentUrl.substring(regionIdx+1, regionIdx+3);
+		
+		return currentRegion;
+	}
+	
+	// Redirect to the same URL but with the new region given.  Also indicate the newly 
+	// selected region.
+	function changeRegion(newRegion)
+	{
+		newRegion = newRegion.toLowerCase();
+		
+		var currentUrl = document.URL;
+		var newUrl = currentUrl.replace(/\/(us|ca|uk)\//i, "/" + newRegion + "/");
+		
+		return newUrl;
+		
+		// Redirect only if necessary (avoids endless loop, ya know!)
+		//		if(newRegion != getCurrentRegion)
+		//		{
+		//			window.location = newUrl;
+		//		}
+	}		
 
-
-
-
-<!-- the date/login/options bar -->
-
-<div id="date-bar">
- <div class="content">
-  <table width="610" border="0" cellspacing="0" cellpadding="0" height="14" summary="title bar">
-   <tbody><tr>
-    <td align="left" valign="top" width="50%">Welcome to Hcareers </td>
-    <td align="right" valign="top" width="40%">Sunday, Apr 29, 2007&nbsp;</td>
-    <td align="right" valign="top">
-     <a href="http://www.hospitalityjobs.hcareers.com/seeker/"><img src="/public/menu/datebar/home.gif" alt="to home" height="13" width="75" border="0"></a>
-    </td>
-   </tr>
-  </tbody></table>
- </div>
-</div> 
-
-  
- <!-- background image -->
- <div id="menu-bg"><a href="/" name="&amp;lid=Logo"><img src="/public/menu/logos/background_USHO_3.png" alt="human" width="610" height="100" border="0"></a></div>
-
-
-<div class="button-bar-x">
-
-<!-- render the javascript for rollovers -->
-<script type="text/javascript" language="JavaScript1.2">
- <!-- begin javascript
-
-  // Verify what type of browser is this
-  var testversion = navigator.appVersion;
-  testversion = testversion.substring(0,1);
-  testversion = parseInt(testversion, 10);
-
-  if ( (navigator.appName == "Netscape") && (testversion >= 3) ) 
-  {
-    goodbrowser = true;
-  }
-  else
-  {
-    if(testversion >= 4) 
-    {
-      goodbrowser = true;
-    }
-    else
-    {
-      goodbrowser = false;
-    }
-  }
-
-
-  // function to change images to rollover state
-  function rollon(img, index) 
-  {
-    if (goodbrowser && document.images) 
-    {
-      document.images[img].src = buttons_over[index].src;
-    }
-  }
-
-  // function to change images to non-rollover state
-  function rolloff(img, index) 
-  {
-    if (goodbrowser && document.images) 
-    {
-      document.images[img].src = buttons[index].src;
-    }
-  }
-
-  //check if image object is supported, then preload images
-  if (document.images) 
-  {
-    // ten buttons plus three tabs
-    buttons = new Array(15);
-    buttons_over = new Array(15);
-  
-          buttons[0] = new Image();
-          buttons[0].src = "/public/menu/buttons/empty.png";
-          buttons_over[0] = new Image();
-          buttons_over[0].src = "/public/menu/buttons/empty_over.png";
-          
-          buttons[1] = new Image();
-          buttons[1].src = "/public/menu/buttons/empty.png";
-          buttons_over[1] = new Image();
-          buttons_over[1].src = "/public/menu/buttons/empty_over.png";
-          
-          buttons[2] = new Image();
-          buttons[2].src = "/public/menu/buttons/postResume.png";
-          buttons_over[2] = new Image();
-          buttons_over[2].src = "/public/menu/buttons/postResume_over.png";
-          
-          buttons[3] = new Image();
-          buttons[3].src = "/public/menu/buttons/employerProfiles.png";
-          buttons_over[3] = new Image();
-          buttons_over[3].src = "/public/menu/buttons/employerProfiles_over.png";
-          
-          buttons[4] = new Image();
-          buttons[4].src = "/public/menu/buttons/seekerFAQ.png";
-          buttons_over[4] = new Image();
-          buttons_over[4].src = "/public/menu/buttons/seekerFAQ_over.png";
-          
-          buttons[5] = new Image();
-          buttons[5].src = "/public/menu/buttons/empty.png";
-          buttons_over[5] = new Image();
-          buttons_over[5].src = "/public/menu/buttons/empty_over.png";
-          
-          buttons[6] = new Image();
-          buttons[6].src = "/public/menu/buttons/empty.png";
-          buttons_over[6] = new Image();
-          buttons_over[6].src = "/public/menu/buttons/empty_over.png";
-          
-          buttons[7] = new Image();
-          buttons[7].src = "/public/menu/buttons/jobDetectiveB.png";
-          buttons_over[7] = new Image();
-          buttons_over[7].src = "/public/menu/buttons/jobDetectiveB_over.png";
-          
-          buttons[8] = new Image();
-          buttons[8].src = "/public/menu/buttons/links.png";
-          buttons_over[8] = new Image();
-          buttons_over[8].src = "/public/menu/buttons/links_over.png";
-          
-          buttons[9] = new Image();
-          buttons[9].src = "/public/menu/buttons/login.png";
-          buttons_over[9] = new Image();
-          buttons_over[9].src = "/public/menu/buttons/login_over.png";
-          
-          buttons[10] = new Image();
-          buttons[10].src = "/public/menu/buttons/searchMgmt.png";
-          buttons_over[10] = new Image();
-          buttons_over[10].src = "/public/menu/buttons/searchMgmt_over.png";
-          
-          buttons[11] = new Image();
-          buttons[11].src = "/public/menu/buttons/searchHourly.png";
-          buttons_over[11] = new Image();
-          buttons_over[11].src = "/public/menu/buttons/searchHourly_over.png";
-          
-
-    // three tabs
-    EMPLOYER_TAB = 12;
-    buttons[EMPLOYER_TAB] = new Image();
-    buttons[EMPLOYER_TAB].src = "/public/menu/tabs/employer.png";
-    buttons_over[EMPLOYER_TAB] = new Image();
-    buttons_over[EMPLOYER_TAB].src = "/public/menu/tabs/employer_over.png";
-    SEEKER_TAB = 13;
-    buttons[SEEKER_TAB] = new Image();
-    buttons[SEEKER_TAB].src = "/public/menu/tabs/seeker_over.png";
-    buttons_over[SEEKER_TAB] = new Image();
-    buttons_over[SEEKER_TAB].src = "/public/menu/tabs/seeker_over.png";
-    ABOUT_TAB = 14;
-    buttons[ABOUT_TAB] = new Image();
-    buttons[ABOUT_TAB].src = "/public/menu/tabs/about.png";
-    buttons_over[ABOUT_TAB] = new Image();
-    buttons_over[ABOUT_TAB].src = "/public/menu/tabs/about_over.png";
-
-  }
-
- // javascript -->
-</script>
+	function createRegionLinks()
+	{
+		var region = "us";
+		
+		document.write("<div class='region_links' style='float:right; background-image:url(/imagesnet/regions_bg.gif);'>");
+		
+		if(region == "ca")
+		{
+			document.write("<div class='region_link'><a id='region_link_uk' href='" + changeRegion('uk') + "'>UK & Ireland</a></div>");
+			document.write("<div class='region_link'><span class='region_selected'>Canada</span></div>");
+			document.write("<div class='region_link first'><a id='region_link_uk' href='" + changeRegion('us') + "'>United States</a></div>");
+		}
+		else if(region == "uk")
+		{
+			document.write("<div class='region_link'><span class='region_selected'>UK & Ireland</span></div>");
+			document.write("<div class='region_link'><a id='region_link_ca' href='" + changeRegion('ca') + "'>Canada</a></div>");
+			document.write("<div class='region_link first'><a id='region_link_ca' href='" + changeRegion('us') + "'>United States</a></div>");
+		}
+		else 
+		{
+			document.write("<div class='region_link'><a id='region_link_uk' href='" + changeRegion('uk') + "'>UK & Ireland</a></div>");
+			document.write("<div class='region_link'><a id='region_link_ca' href='" + changeRegion('ca') + "'>Canada</a></div>");
+			document.write("<div class='region_link first'><span class='region_selected'>United States</span></div>");
+		}
+		
+		document.write("</div>");
+	}	
+-->
+</script></head>
 
 
- <div class="menu-bar">
 
-   <!-- tabs -->
-   <p><img src="/public/common/spacer.gif" height="17" width="20" border="0" alt=""><img src="/public/menu/borderTop_17x1.png" height="17" width="25" border="0" alt=""><a href="/abouthospitalityjobs/" name="&amp;lid=About" onmouseover="rollon('aboutTab',ABOUT_TAB); return true;" onmouseout="rolloff('aboutTab',ABOUT_TAB); return true;"><img src="/public/menu/tabs/about.png" height="17" width="85" border="0" alt="about Hcareers" name="aboutTab"></a><a href="/employer/" name="&amp;lid=Employer_Home" onmouseover="rollon('employerTab',EMPLOYER_TAB); return true;" onmouseout="rolloff('employerTab',EMPLOYER_TAB); return true;"><img src="/public/menu/tabs/employer.png" height="17" width="84" border="0" alt="employer home page" name="employerTab"></a><a href="/seeker/" name="&amp;lid=Seeker_Home" onmouseover="rollon('seekerTab',SEEKER_TAB); status='seeker home page'; return true;" onmouseout="rolloff('seekerTab',SEEKER_TAB); status=''; return true;"><img src="/public/menu/tabs/seeker_over.png" height="17" width="86" border="0" alt="seeker home page" name="seekerTab"></a><img src="/public/menu/borderTop_17x1.png" height="17" width="290" border="0" alt=""><img src="/public/common/spacer.gif" height="17" width="20" border="0" alt=""></p>
- 
-   <!-- buttons: row 1 -->
-   <p><img src="/public/menu/buttonStartTop.png" width="24" height="24" border="0" alt=""><a href="/seeker/search/management" name="&amp;lid=Button1" onmouseover="rollon('button10',10); return true;" onmouseout="rolloff('button10',10); return true;"><img src="/public/menu/buttons/searchMgmt.png" height="24" width="224" border="0" alt="search for management positions" name="button10"></a><a href="/seeker/resume/" name="&amp;lid=Button2" onmouseover="rollon('button02',2); return true;" onmouseout="rolloff('button02',2); return true;"><img src="/public/menu/buttons/postResume.png" height="24" width="112" border="0" alt="post resume" name="button02"></a><a href="/seeker/profiles" name="&amp;lid=Button3" onmouseover="rollon('button03',3); return true;" onmouseout="rolloff('button03',3); return true;"><img src="/public/menu/buttons/employerProfiles.png" height="24" width="112" border="0" alt="employer profiles" name="button03"></a><a href="/seeker/faq" name="&amp;lid=Button4" onmouseover="rollon('button04',4); return true;" onmouseout="rolloff('button04',4); return true;"><img src="/public/menu/buttons/seekerFAQ.png" height="24" width="112" border="0" alt="frequently asked questions" name="button04"></a><img src="/public/menu/buttonEndTop.png" height="24" width="26" border="0" alt=""></p>
+<body>
+	<a name="top"></a>
+	<div id="container">
+		<div id="content">  
 
-   <!-- buttons: row 2 -->
-   <p><img src="/public/menu/buttonStartBottom.png" width="24" height="23" border="0" alt=""><a href="/seeker/search/hourly" name="&amp;lid=Button5" onmouseover="rollon('button11',11); return true;" onmouseout="rolloff('button11',11); return true;"><img src="/public/menu/buttons/searchHourly.png" height="23" width="224" border="0" alt="search for hourly positions" name="button11"></a><a href="/seeker/detective/" name="&amp;lid=Button6" onmouseover="rollon('button07',7); return true;" onmouseout="rolloff('button07',7); return true;"><img src="/public/menu/buttons/jobDetectiveB.png" height="23" width="112" border="0" alt="job detective" name="button07"></a><a href="/seeker/links" name="&amp;lid=Button7" onmouseover="rollon('button08',8); return true;" onmouseout="rolloff('button08',8); return true;"><img src="/public/menu/buttons/links.png" height="23" width="112" border="0" alt="links" name="button08"></a><a href="/access" name="&amp;lid=Button8" onmouseover="rollon('button09',9); return true;" onmouseout="rolloff('button09',9); return true;"><img src="/public/menu/buttons/login.png" height="23" width="112" border="0" alt="login" name="button09"></a><img src="/public/menu/buttonEndBottom.png" height="23" width="26" border="0" alt=""></p>
+		<div id="header">
+			<!-- Header -->
+				<div class="version_info"><span id="ctl00_lblVersionInfo"></span></div>
+				<div class="debug_info"></div>
+								
+				<script type="text/javascript">createRegionLinks();</script><div class="region_links" style="float:right; background-image:url(/imagesnet/regions_bg.gif);"><div class="region_link"><a id="region_link_uk" href="https://web.archive.org/web/20071214204448id_/http://www.hcareers.com/uk/abouthospitalityjobs/privacy.aspx">UK &amp; Ireland</a></div><div class="region_link"><a id="region_link_ca" href="https://web.archive.org/web/20071214204448id_/http://www.hcareers.com/ca/abouthospitalityjobs/privacy.aspx">Canada</a></div><div class="region_link first"><span class="region_selected">United States</span></div></div>
+				<div style="clear:both;"></div>
 
-   <!-- button bar border -->
-   <p><img src="/public/menu/buttonStartBottom_borderBottom.png" width="24" height="3" border="0" alt=""><img src="/public/menu/borderBottom_1x3.png" height="3" width="562" border="0" alt=""><img src="/public/menu/buttonEndBottom_borderBottom.png" height="3" width="24" border="0" alt=""></p>
+				<div class="logo">
+					<a href="http://www.hcareers.com/">
+						<img src="/imagesnet/logo-and-text.gif" width="337" height="75">
+					</a>
+				</div>
 
-   <!-- context sensitive region links -->
-      
-            <p class="region-links"><img src="/public/menu/region/endLeft.png" width="19" height="20" alt=""><img src="/public/menu/region/visitOtherSites.png" height="20" width="136" border="0" alt="visit other sites"><a href="http://www.hospitalityjobs.hcareers.ca/go?verticalCode=HO&amp;or_path=%2Fseeker%2Fcontent%2FPrivacy.html&amp;to=oreg"><img src="/public/menu/region/CA.png" height="20" width="40" border="0" alt="hcareers.ca"></a><img src="/public/menu/region/spacer.png" height="20" width="6" border="0" alt=""><a href="http://www.hcareers.co.uk/go?verticalCode=HO&amp;or_path=%2Fseeker%2Fcontent%2FPrivacy.html&amp;to=oreg"><img src="/public/menu/region/UK.png" height="20" width="63" border="0" alt="hcareers.co.uk"></a><img src="/public/menu/region/endRight.png" height="20" width="19" alt=""></p>
+			
 
-             
+				<div class="reg_log">
+				<div class="reg_log_form" id="login_form">
+					<!-- 
+						Login form.  The Java side does the login, so this form is POST'ed to Java-a 
+						separate form from the ASP.NET one.
+					-->
+					<form action="http://www.hcareers.com/access" name="homeLoginForm" method="POST">
+					<table cellpadding="0" cellspacing="0" border="0" summary="Home Login Form">
 
- </div>
+					<tbody><tr>
+					<td class="login_prompt">
+					<div style="margin-top: 2px;">
+					Email:&nbsp;
+					</div>
+					</td>
+					<td class="login_input"><input type="text" name="email" value="" size="14" maxlength="80" class="login_input"> </td>
+					</tr>
+
+					<tr><td style="height:3px;"></td></tr>
+					
+					<tr>
+					<td class="login_prompt">Password:&nbsp;</td>
+					<td class="login_input"><input type="password" name="encryptedPassword" value="" size="14" maxlength="24" class="login_input"> </td>
+					</tr>
+
+					<tr><td style="height:1px;"></td></tr>
+
+					<tr>
+					<td align="right" colspan="3">
+					<a href="/seeker/register">register</a>&nbsp;|&nbsp;<a href="http://www.hcareers.com/sendPassword">password?</a>
+					<!-- Uncomment to use an image button instead. -->
+					
+					<input class="submit" type="submit" name="form.commit" value="Login" onmouseover="this.className='submit btnhov'" onmouseout="this.className='submit'">
+					</td>
+					</tr>
+
+					</tbody></table>
+					</form>
+
+				</div>		
+				</div>
+			
+				
+		</div>   
+		
+		<!-- Form for .NET -->
+		<form name="aspnetForm" method="post" action="/us/abouthospitalityjobs/privacy.aspx" id="aspnetForm"><div>
+
+	<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEyMzc1Njc4MjUPZBYCZg9kFgQCAQ8PFgIeBFRleHRlZGQCAw9kFgQCAQ9kFhgCAQ8PFggfAAULSm9iIFNlZWtlcnMeC05hdmlnYXRlVXJsBR9odHRwOi8vd3d3LmhjYXJlZXJzLmNvbS9zZWVrZXIvHghDc3NDbGFzc2UeBF8hU0ICAmRkAgMPDxYIHwAFCUVtcGxveWVycx8BBSFodHRwOi8vd3d3LmhjYXJlZXJzLmNvbS9lbXBsb3llci8fAmUfAwICZGQCBQ8PFggfAAUPUmVzb3VyY2UgQ2VudGVyHwEFNmh0dHA6Ly93d3cuaGNhcmVlcnMuY29tL3VzL3Jlc291cmNlY2VudGVyL2RlZmF1bHQuYXNweB8CZR8DAgJkZAIHDw8WCB8ABQ5BYm91dCBIY2FyZWVycx8BBTBodHRwOi8vd3d3LmhjYXJlZXJzLmNvbS91cy9hYm91dGhvc3BpdGFsaXR5am9icy8fAgUGYWN0aXZlHwMCAmRkAgkPDxYEHwAFD0NvbXBhbnkgUHJvZmlsZR8BBRkvdXMvYWJvdXRob3NwaXRhbGl0eWpvYnMvZGQCCw8PFgQfAAUORXhlY3V0aXZlIFRlYW0fAQUrL3VzL2Fib3V0aG9zcGl0YWxpdHlqb2JzL0V4ZWN1dGl2ZVRlYW0uYXNweGRkAg0PDxYEHwAFEUNvcnBvcmF0ZSBDdWx0dXJlHwEFLi91cy9hYm91dGhvc3BpdGFsaXR5am9icy9Db3Jwb3JhdGVDdWx0dXJlLmFzcHhkZAIPDw8WBB8ABQpQcmVzcyBSb29tHwEFJy91cy9hYm91dGhvc3BpdGFsaXR5am9icy9QcmVzc1Jvb20uYXNweGRkAhEPDxYEHwAFCkNvbnRhY3QgVXMfAQUnL3VzL2Fib3V0aG9zcGl0YWxpdHlqb2JzL0NvbnRhY3RVcy5hc3B4ZGQCEw8PFggfAAUGTG9nIEluHwEFHmh0dHA6Ly93d3cuaGNhcmVlcnMuY29tL2FjY2Vzcx8CBQYgbGFzdCAfAwICZGQCFQ8PFgQfAgUGIGxhc3QgHwMCAmRkAhcPDxYEHwIFBiBsYXN0IB8DAgJkZAIDD2QWAgIBDw8WCB4ISW1hZ2VVcmwFIS9pbWFnZXNuZXQvaGVhZGVycy9oZF9wcml2YWN5LmdpZh4FV2lkdGgbAAAAAAAAeUABAAAAHgZIZWlnaHQbAAAAAAAAPkABAAAAHwMCgANkZGTRiDCw035rTv9db8UOeeQe9a++Ug==">
+	
+		<!-- start Navigation  -->
+			
+
+<div id="nav">
+	<ul>
+		<li><a id="ctl00_navMenu_hypNavJobSeekers" href="http://www.hcareers.com/seeker/">Job Seekers</a></li>
+		<li><a id="ctl00_navMenu_hypNavEmployers" href="http://www.hcareers.com/employer/">Employers</a></li>
+		<li><a id="ctl00_navMenu_hypNavResources" href="http://www.hcareers.com/us/resourcecenter/default.aspx">Resource Center</a></li>
+		<li><a id="ctl00_navMenu_hypNavAbout" class="active" href="http://www.hcareers.com/us/abouthospitalityjobs/">About Hcareers</a></li>
+	</ul>
+</div>
+<div id="sub_nav">            
+	<ul>
+		<li><a id="ctl00_navMenu_HyperLink1" href="/us/abouthospitalityjobs/">Company Profile</a></li>
+		<li><a id="ctl00_navMenu_HyperLink2" href="/us/abouthospitalityjobs/ExecutiveTeam.aspx">Executive Team</a></li>
+		<li><a id="ctl00_navMenu_HyperLink3" href="/us/abouthospitalityjobs/CorporateCulture.aspx">Corporate Culture</a></li>
+		<li><a id="ctl00_navMenu_HyperLink4" href="/us/abouthospitalityjobs/PressRoom.aspx">Press Room</a></li>
+		<li><a id="ctl00_navMenu_HyperLink5" href="/us/abouthospitalityjobs/ContactUs.aspx">Contact Us</a></li>
+		<li><a id="ctl00_navMenu_HyperLink6" class=" last " href="http://www.hcareers.com/access">Log In</a></li>
+		<li><a id="ctl00_navMenu_HyperLink7" class=" last "></a></li>
+		<li><a id="ctl00_navMenu_HyperLink8" class=" last "></a></li>
+		<!-- 
+		<li><a href="#">Item 1</a></li>
+		<li><a href="#" class="active">Item 2</a></li>
+		<li><a href="#">Item 3</a></li>
+		<li><a href="#" class="last">Item 4</a></li>
+		-->
+	</ul>
 </div>
 
-<img src="/public/common/spacer.gif" width="1" height="180" alt="">
+		<!-- stuff removed from Still Water Interactive -->
+		<!-- end Navigation -->
 
+		<!-- END HERE FOR PHP, ASP HEADER INCLUDES -->
+		
+		<!--  CONTENT GOES HERE -->
+		<div id="content_between_nav_and_footer">
+		
 
-
-<table cellspacing="0" cellpadding="0" border="0" width="100%" summary=""><tbody><tr><td align="center">
-<!-- end menuTop.jsp -->
-
-
- <!-- include the body -->
- 
-
-<img src="/public/privacyCommitment.gif" width="587" height="47" alt="Privacy Commitment">
-
-<table align="center" border="0" width="600" cellpadding="2" cellspacing="0" summary="main">
-
- <tbody><tr>
-  <td>
-   <p align="center"><font face="Arial,Helvetica" size="2">
-   "Hcareers pledges its commitment to protecting the privacy of our
-   users."</font></p>
-
-   <p><img src="/public/common/1x1red.gif" width="600" height="1" border="0" alt="_"></p>
-
+	<div id="page_title">
+	<img id="ctl00_MainPlaceholder_imgHeader" src="/imagesnet/headers/hd_privacy.gif" height="30" width="400" border="0">
+	</div>
+	
       <ul>
-        <li><font face="Arial,Helvetica" size="2"><a href="#disclosure">Information 
-          Disclosure</a></font></li>
-        <li><font face="Arial,Helvetica" size="2"><a href="#visitor">Visitor Information</a></font></li>
-        <li><font face="Arial,Helvetica" size="2"><a href="#resumes">Resumes</a> 
-          </font></li>
-        <li><font face="Arial,Helvetica" size="2"><a href="#account">To Update 
-          Your Account</a></font></li>
-        <li><font face="Arial,Helvetica" size="2"><a href="#cookies">Cookies</a> 
-          </font></li>
-        <li><font face="Arial,Helvetica" size="2"><a href="#feedback">Feedback</a> 
-          </font></li>
-        <li><font face="Arial,Helvetica" size="2"><a href="#cjb">Private Label 
-          Sites</a> </font></li>
-        <li><font face="Arial,Helvetica" size="2"><a href="#children">Children</a> 
-          </font></li>
-        <li><font face="Arial,Helvetica" size="2"><a href="#changes">Changes to 
-          our Privacy Commitment</a></font></li>
-        <li><font face="Arial,Helvetica" size="2"><a href="#general">General</a></font></li>
+        <li><a href="#disclosure">Information 
+          Disclosure</a></li>
+        <li><a href="#visitor">Visitor Information</a></li>
+        <li><a href="#resumes">Resumes</a> 
+          </li>
+        <li><a href="#account">To Update 
+          Your Account</a></li>
+        <li><a href="#cookies">Cookies</a> 
+          </li>
+        <li><a href="#feedback">Feedback</a> 
+          </li>
+        <li><a href="#cjb">Private Label 
+          Sites</a> </li>
+        <li><a href="#children">Children</a> 
+          </li>
+        <li><a href="#changes">Changes to 
+          our Privacy Commitment</a></li>
+        <li><a href="#general">General</a></li>
       </ul>
 
-   <p><font face="Arial,Helvetica" size="2"><a name="disclosure"></a>
-   <strong>Information Disclosure</strong></font></p>
+   <p><a name="disclosure"></a>
+   <strong>Information Disclosure</strong></p>
 
-      <p><font face="Arial,Helvetica" size="2"> Except as described in this privacy 
+      <p> Except as described in this privacy 
         policy, we do not use or disclose, to any outside parties, any personal 
         information that you provide, such as your name, e-mail address, telephone 
         number, and employment information, except when we are permitted or required 
@@ -290,22 +247,22 @@
         also use that information to make you aware of additional news and services 
         that may be of interest to you. You may choose to opt out of receiving 
         these additional news and services by replying to the notice and instructing 
-        us to remove you from further notices.</font></p>
+        us to remove you from further notices.</p>
 
-   <p><font face="Arial,Helvetica" size="2"><a name="visitor"></a>
-   <strong>Visitor Information</strong></font></p>
+   <p><a name="visitor"></a>
+   <strong>Visitor Information</strong></p>
 
-      <p><font face="Arial,Helvetica" size="2"> Hcareers monitors our website visitor 
+      <p> Hcareers monitors our website visitor 
         information, such as which pages you visit most frequently and which site 
         referred you. This data does not include any personally identifying information. 
         We use this information in order to optimize our website and to assess 
         its usage. We may provide such information to our website contractors 
-        for these purposes.</font></p>
+        for these purposes.</p>
 
-   <p><font face="Arial,Helvetica" size="2"><a name="resumes"></a>
-   <strong>Resumes</strong></font></p>
+   <p><a name="resumes"></a>
+   <strong>Resumes</strong></p>
 
-      <p><font face="Arial,Helvetica" size="2"> To help you find or apply to jobs, 
+      <p> To help you find or apply to jobs, 
         Hcareers gives you the option of putting your resume in our database. 
         You can either store your resume in our database, but not allow it to 
         be searchable by employers (which means that you use it only apply to 
@@ -320,59 +277,66 @@
         retained a copy of your resume. Please know that we are not responsible 
         for the retention, use, or privacy of resumes in these instances, or for 
         the use or privacy of resumes by any of such parties while resumes are 
-        in the database.</font></p>
+        in the database.</p>
 
-   <p><font face="Arial,Helvetica" size="2"><a name="account"></a>
-   <strong>To Update Your Account</strong></font></p>
+   <p><a name="account"></a>
+   <strong>To Update Your Account</strong></p>
 
-      <p><font face="Arial,Helvetica" size="2"> To update your personal information 
+      <p> To update your personal information 
         at any time on Hcareers, please log-in to your account and go to the "User 
-        Options" where you may edit your information.</font></p>
+        Options" where you may edit your information.</p>
 
-   <p><font face="Arial,Helvetica" size="2"><a name="cookies"></a>
-   <strong>Cookies</strong></font></p>
+   <p><a name="cookies"></a>
+   <strong>Cookies</strong></p>
 
-      <p><font face="Arial,Helvetica" size="2"> Cookies are small files that your 
+      <p> Cookies are small files that your 
         Web browser places on your computer's hard drive. We use cookies for remembering 
         your user names and passwords etc. Cookies enable us to understand how 
         our site is used and to make improvements. You have the option of setting 
         your browser to reject cookies, but this will negatively impact your experience 
-        on our site.</font></p>
+        on our site.</p>
 
-   <p><font face="Arial,Helvetica" size="2"><a name="feedback"></a>
-   <strong>Feedback</strong></font></p>
+   <p><a name="feedback"></a>
+   <strong>Feedback</strong></p>
 
-      <p><font face="Arial,Helvetica" size="2"> Hcareers allows you to submit feedback 
+      <p> Hcareers allows you to submit feedback 
         to us. This feedback becomes the property of Hcareers and we may use this 
-        feedback for marketing, e.g. success stories.</font></p>
+        feedback for marketing, e.g. success stories.</p>
 
-   <p><font face="Arial,Helvetica" size="2"><a name="cjb"></a>
-   <strong>Private Label Sites</strong></font></p>
+   <p><a name="cjb"></a>
+   <strong>Private Label Sites</strong></p>
 
-   <p><font face="Arial,Helvetica" size="2">
-   Hcareers hosts private label employment sites (Custom Job Banks) on behalf of other companies and permits online applications to job postings.  All online applications to job postings on a private label site are placed directly into the employers' Hcareers Inbox to be viewed by anyone privy to or who otherwise gains access to the employers Hcareers User Id &amp; password.  Please know that we are not responsible for the retention, use, or privacy of information accessed by others through Custom Job Banks or online applications to job postings.
-   </font></p>
+   <p>
+Hcareers hosts private label employment sites (Custom Job Banks) on
+behalf of other companies and permits online applications to job
+postings. All online applications to job postings on a private label
+site are placed directly into the employers' Hcareers Inbox to be
+viewed by anyone privy to or who otherwise gains access to the
+employers Hcareers User Id &amp; password. Please know that we are not
+responsible for the retention, use, or privacy of information accessed
+by others through Custom Job Banks or online applications to job
+postings. </p>
 
-   <p><font face="Arial,Helvetica" size="2"><a name="children"></a>
-   <strong>Children</strong></font></p>
+   <p><a name="children"></a>
+   <strong>Children</strong></p>
 
-      <p><font face="Arial,Helvetica" size="2"> Hcareers does not collect information 
+      <p> Hcareers does not collect information 
         about children and further believes that children should get their parents' 
         consent before giving out personal information. If you are concerned about 
         this, we encourage you to use web filtering technology to supervise your 
-        child's access to the site.</font></p>
+        child's access to the site.</p>
 
-   <p><font face="Arial,Helvetica" size="2"><a name="changes"></a>
-   <strong>Changes to our Privacy Commitment</strong></font></p>
+   <p><a name="changes"></a>
+   <strong>Changes to our Privacy Commitment</strong></p>
 
-      <p><font face="Arial,Helvetica" size="2"> Any changes to our Privacy Commitment 
+      <p> Any changes to our Privacy Commitment 
         will be posted here and will be effective upon posting. If, at any time, 
         you have questions or concerns about Hcareers' privacy commitment, please 
         feel free to e-mail us at <a href="mailto:privacy@hcareers.com">privacy@hcareers.com</a>. 
-        </font></p>
+        </p>
          
-      <p><font face="Arial,Helvetica" size="2"><a name="general"></a> <strong>General</strong></font></p>
-      <p><font face="Arial,Helvetica" size="2">This privacy policy does not apply to the practices of companies or other 
+      <p><a name="general"></a> <strong>General</strong></p>
+      <p>This privacy policy does not apply to the practices of companies or other 
         entities that Hcareers does not manage or control. This privacy policy 
         does not apply to information regarding corporations or other non-individuals. 
         We cannot guarantee the confidentiality or security of any information 
@@ -388,65 +352,92 @@
         If any provision of this privacy policy is held to be illegal or unenforceable, 
         that provision will be limited or eliminated to the minimum extent necessary 
         so that this privacy policy will otherwise remaining full force and effect 
-        and enforceable.</font></p>
-
-   <p><img src="/public/common/1x1red.gif" width="600" height="1" border="0" alt="_"></p>
-
-   <p align="center"><font face="Arial,Helvetica" size="2">
-   Thank you again for using Hcareers - "The most restaurant &amp; hospitality jobs ... anywhere!"</font></p>
-
-  </td>
- </tr>
-</tbody></table>
+        and enforceable.</p>
 
 
+	
+		</div>
 
- <!-- include the closing tags for menu -->
- 
+		<center>
+		<div class="dotted_bot_container" style="margin-top:15px">		   
+			<div class="dotted_clear_bot"></div>
+		</div>
+		</center>
 
+		<!-- START HERE FOR PHP, ASP FOOTER INCLUDES -->
+		
+</div></form>
+		
 
+		<div class="ad_leaderboard">
+		<!-- Leaderboard ad banner -->
+		<script type="text/javascript" language="javascript" src="http://www.hcareers.com/public/common/footer_ads.js"></script>
+		</div>
 
+		<div class="footer">
+			<div class="this_website">
+			<p>This Website</p>
+			<a href="http://www.hcareers.com/">Job Seekers</a> 
+			<a href="http://www.hcareers.com/employer/">Employers</a> 
+			<a href="http://www.hcareers.com/us/resourcecenter/default.aspx">Resource Center</a> 
+			<a href="http://www.hcareers.com/us/abouthospitalityjobs/">About Hcareers</a> 
+			<a href="http://www.hcareers.com/us/abouthospitalityjobs/sitemap.aspx">Site Map</a> 
+			<a href="http://www.hcareers.com/us/abouthospitalityjobs/privacy.aspx">Privacy Policy</a> 
+			<a href="http://www.hcareers.com/us/abouthospitalityjobs/terms.aspx">Terms of Use</a>
+			<a href="http://hcareers.bison.com/otj/hcareers_franchiseopportunities.html">Franchise Opportunities</a>
+			</div>
+			
+			<div class="foot_hr"><img src="/imagesnet/foot_divide.gif" width="540" height="1" alt=""></div>
+			
+			<p>Other Websites in the onTargetjobs, Inc. Network</p>
+			
+			
+			    
+			    <a href="http://www.hcareers.ca/" target="_blank">Hospitality Jobs Canada</a> <a href="http://www.hcareers.co.uk/" target="_blank">Hospitality Jobs UK</a> 
+			
+			
+			
+			<a href="http://www.healthecareers.com" target="_blank">Healthcare Jobs</a> <a href="http://www.medhunters.com" target="_blank">Nursing Jobs</a> <a href="http://www.biospace.com" target="_blank">Biotech Jobs</a><br><a href="http://www.careerbank.com" target="_blank">Finance Jobs</a> <a href="http://www.ontargetjobs.com" target="_blank">Local Jobs</a><br><br>
+			
+			<p class="copy">©1998-2006 Hcareers - All Rights Reserved</p>
+			<p class="copy">Hcareers and Job Detective are Trademarks of Hcareers</p>
+		</div>  
+		
+		<div style="clear:both;"></div>
 
-</td></tr></tbody></table>
+	</div>   
+		
+		<div id="skyscraper">
+			<script type="text/javascript">
+			<!--
+			function popup(mylink, windowname)
+			{
+			if (! window.focus)return true;
+			var href;
+			if (typeof(mylink) == 'string')
+			   href=mylink;
+			else
+			   href=mylink.href;
+			window.open(href, windowname, 'width=700,height=600,scrollbars=yes');
+			return false;
+			}
+			//-->
+			</script>
 
-            <img src="/public/common/spacer.gif" width="1" height="25" alt="">
-            
+			<div class="sky_ad">
+				<script type="text/javascript" language="javascript" src="http://www.hcareers.com/public/common/right_ads.js"></script>
+			</div>
+		</div>
+		
+	<div id="fade_bottom"></div>
+	</div>   
 
-<script language="javascript" src="http://www.hcareers.com/public/common/footer_ads.js"></script>
+	<!-- END HERE FOR PHP, ASP FOOTER INCLUDES -->
 
-
-
-  <p class="footer">
-   <a href="/seeker/content/Privacy.html">Privacy</a>
-   |
-   <a href="/seeker/content/Terms.html">Terms of Use</a>
-   |
-   <a href="/abouthospitalityjobs/">About Us</a>
- </p>
- 
-
-
-
-<input type="hidden" name="h_v" value="CM_224">
-<p class="footer">
-    ©1998-2007 Hcareers - All Rights Reserved<br> 
-    Hcareers and Job Detective are Trademarks of Hcareers<br>
-    Hcareers sites include: <a href="http://www.hospitalityjobs.hcareers.com">hcareers.com</a> | <a href="http://www.restaurantjobs.hcareers.com">restaurantjobs.hcareers.com</a><br>
-    <a href="http://www.hospitalityjobs.hcareers.ca">hcareers.ca</a> | <a href="http://www.restaurantjobs.hcareers.ca">restaurantjobs.hcareers.ca</a> | <a href="http://www.hcareers.co.uk">hcareers.co.uk</a>
- <br></p>
-
-
-        <!-- end menuBottom.jsp -->
-<!-- end menuBottom.jsp -->
-
-
-<!--
-    src/hcareers/bodyBottom.jsp
-
-    Elements appearing immediately before end of body
-    Should be included in all JSPs
-
--->
+	
+	<!-- Omniture tracking code -->
+	<script language="JavaScript" src="http://www.hcareers.com/public/common/s_code.js"></script>
+	<script language="javascript" src="http://www.hcareers.com/public/common/analyticsapp.js"></script>
 
 
 
