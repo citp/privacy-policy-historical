@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greencine.com privacy policy that was archived on 2007-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070426032925id_/http%3A//www.greencine.com/static/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greencine.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214191401id_/http%3A//www.greencine.com/static/privacy.jsp) for the most accurate reproduction.*
 
 # GreenCine | privacy
 
