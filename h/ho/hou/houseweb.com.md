@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the houseweb.com privacy policy that was archived on 2007-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070506205752id_/http%3A//www.houseweb.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the houseweb.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214210933id_/http%3A//www.houseweb.co.uk/privacy.html) for the most accurate reproduction.*
 
 # HouseWeb Terms of Use
 
