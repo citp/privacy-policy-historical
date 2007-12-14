@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the mynewplace.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617211015id_/http%3A//about.mynewplace.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mynewplace.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214060044id_/http%3A//www.mynewplace.com/privacy) for the most accurate reproduction.*
 
-# MyNewPlace: Search Millions of Apartments and Earn A Cash Back Rebate
+# MyNewPlace - Search apartments for rent and Earn Cash Back
 
-[](http://www.truste.org/ivalidate.php?url=www.mynewplace.com&sealid=101)  
+[](http://www.truste.org/ivalidate.php?url=www.mynewplace.com&sealid=101)
+
 Effective April 24, 2006  (Update February 1,2007)
 
 Protecting the privacy of our users is very important to MyNewPlace. When you register at MyNewPlace, the information you provide to us is used to provide the services you have registered for, to deliver email notifications to you, and from time to time, to validate your identity. Our data collection policies allow you to choose how much information you provide to us, and to control how we use that information. To find out more, please read on. 
@@ -29,10 +30,10 @@ In order to be eligible to receive cash back, you must also provide us with addi
 MyNewPlace is the sole owner of the information collected on www.mynewplace.com. MyNewPlace may collect Personally Identifiable Information from our users at several different points on our Web site. 
 
 **Access to Personally Identifiable Information**  
-You can update your Personal Identifiable Information at [www.mynewplace.com/myaccount ](http://www.mynewplace.com/myaccount)or by contacting us at consumercare@mynewplace.com.    
+You can update your Personal Identifiable Information at [www.mynewplace.com/myaccount ](https://web.archive.org/myaccount)or by contacting us at consumercare@mynewplace.com.    
 
 Requesting removal of your information or Unsubscribing from email  
-You may unsubscribe from our emails at [www.mynewplace.com/emailprefs](http://www.mynewplace.com/emailprefs) or by clicking on the unsubscribe links at the bottom of our emails. You may also request the removal of your information by contacting us via e-mail at consumercare@mynewplace.com. 
+You may unsubscribe from our emails at [www.mynewplace.com/emailprefs](https://web.archive.org/emailprefs) or by clicking on the unsubscribe links at the bottom of our emails. You may also request the removal of your information by contacting us via e-mail at consumercare@mynewplace.com. 
 
 **Special Offers and Updates**  
 We may occasionally send you information on services, special deals, products and/or promotions. 
