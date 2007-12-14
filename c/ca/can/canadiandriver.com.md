@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canadiandriver.com privacy policy that was archived on 2007-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070604201339id_/http%3A//www.canadiandriver.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canadiandriver.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214015026id_/http%3A//www.canadiandriver.com/privacy.htm) for the most accurate reproduction.*
 
 # CanadianDriver: Privacy Policy
 
@@ -57,6 +57,10 @@ Children are increasingly using the Internet and discovering its many advantages
 CanadianDriver.com urges you, as a parent, to exercise a reasonable amount of supervision of Internet use by your children. They should be taught to never give out personal information, such as name, address or phone number, on any Internet forum or chat room. They should also be encouraged to share their concerns with you in the event they receive disturbing or provocative messages. 
 
 These recommendations will help your children use the Internet in an informed fashion and allow them to fully benefit from the learning and development possibilities that exist online. 
+
+Advertising served by third parties 
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. The information collected does **NOT** include your name, address, email address or telephone number. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp). 
 
 "Cookies" 
 
