@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the technibble.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429024243id_/http%3A//www.technibble.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technibble.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214115547id_/http%3A//www.technibble.com/privacy-policy) for the most accurate reproduction.*
 
 # » Privacy Policy Statement - Technibble - A Resource for Computer Repair Technicians & to get PC tech support help.
 
