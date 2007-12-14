@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the webyog.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629004320id_/http%3A//www.webyog.com/en/webyog_privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webyog.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214075917id_/http%3A//www.webyog.com/en/webyog_privacy_policy.php) for the most accurate reproduction.*
 
-# MySQL Monitor and Advisor, MySQL Performance Tuning and Optimization, Open Source MySQL GUI Management Tools
+# MySQL GUI Tools, MySQL Monitor, MySQL Manager, MySQL Performance Tuning and Optimization
 
 Privacy Policy
 
