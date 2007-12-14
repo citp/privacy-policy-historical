@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freelayouts.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630133821id_/http%3A//www.freelayouts.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freelayouts.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214042723id_/http%3A//www.freelayouts.com/privacy) for the most accurate reproduction.*
 
-# Free Layouts.com: Privacy Policy
+# Free Layouts.com | Privacy
 
 ### **Privacy Statement for Free Layouts.com**
 
