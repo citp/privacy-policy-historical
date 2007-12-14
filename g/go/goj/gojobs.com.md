@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gojobs.com privacy policy that was archived on 2007-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070527124218id_/http%3A//www.gojobs.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gojobs.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214160352id_/http%3A//www.gojobs.com/Privacy.htm) for the most accurate reproduction.*
 
 # GO Jobs Privacy Statement
 
@@ -95,6 +95,8 @@ If we decide to change our Privacy Statement for GO Jobs, we will post those cha
 
 GO Jobs, Inc., a California corporation, with its principal place of business at 4500 Campus Drive, Suite 420 Newport Beach, CA 92660, is the legal entity, which determines the purposes and means of processing the information gathered at the GO Jobs Web sites. The information we gather on any GO Jobs Web site may be shared within GO Jobs, Inc. and its affiliated companies. 
 
-We welcome your comments concerning this Privacy Statement. If you believe that we have not adhered to this Statement, please contact us by e-mailing us at [GoJobs@gojobs.com](mailto:GoJobs@gojobs.com) or by calling us at 1-949-838-0055. We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+We welcome your comments concerning this Privacy Statement. If you believe that we have not adhered to this Statement, please contact us by e-mailing us at 
 
-Thank you for using GO Jobs.com. 
+GoJobs @ gojobs.com  or by calling us at 1-714-771-1714. We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+
+Thank you for using GOJobs.com. 
