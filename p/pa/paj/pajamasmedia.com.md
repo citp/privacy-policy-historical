@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pajamasmedia.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626122052id_/http%3A//pajamasmedia.com/pages/2005/12/post.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pajamasmedia.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214231652id_/http%3A//pajamasmedia.com/pages/2005/12/post.php) for the most accurate reproduction.*
 
 # Pajamas Media: Privacy Policy
 
@@ -53,10 +53,6 @@ _Privacy Statement last updated, September 2006._
 
 | 
 
-Support Pajamas Media; Visit Our Advertisers   
+Support Pajamas Media; Visit Our Advertisers 
 
-
-## Newsfeeds
-
-Support Pajamas Media; Visit Our Advertisers   
-
+Support Pajamas Media; Visit Our Advertisers 
