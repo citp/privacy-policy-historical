@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the mos.org privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215134936id_/http%3A//www.mos.org/doc/1280) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mos.org privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214201155id_/http%3A//www.mos.org/visitor_info/privacy) for the most accurate reproduction.*
 
-# MoS | Privacy
-
-## Museum of Science Online Privacy Policy
+# Museum of Science, Boston | Privacy
 
 An educational institution that serves 1.7 million adults and children each year and receives 2 million visits to its website — the Museum of Science, Boston, is dedicated to providing the best possible experience for our visitors. To that end, we are committed to protecting the private information of those who interact with us online. The Museum of Science website adheres to the following policy for ensuring the privacy of your — and your children's — personally identifiable information (such as full name, address, email address, telephone number, and/or other identifiable information).
 
@@ -12,7 +10,7 @@ An educational institution that serves 1.7 million adults and children each year
   2. You might be asked to provide some personally identifiable information in order to participate in some online activities. This could be in connection with the following:
     * contest or sweepstakes registration
     * subscription registration for services such as email newsletters
-    * transactions in our Online Ticket Store ([MosTix](http://tickets.mos.org/))
+    * transactions in our Online Ticket Store 
     * content submissions, community postings (i.e., forums or bulletin boards), comments and suggestions, voting, or online surveys
   3. The Museum of Science may use your personally identifiable information to extend promotional offers (such as invitations to Museum events) or to provide information requested by users.
   4. When you are asked to provide personal information, we will explain the extent of its use, for example, to complete an online transaction.
@@ -46,7 +44,7 @@ The Museum of Science website automatically logs information such as IP address 
 
 ## Museum of Science Website Security
 
-To ensure that that your credit card transaction with the Museum of Science has the highest level of security available, the information you submit to the Online Ticket Store ([MosTix](http://tickets.mos.org/)) is protected by a technology called the Secure Sockets Layer Protocol. This security software encrypts your credit card information so that it cannot be read as your ticketing order travels over the Internet. This means that no one outside the Museum has access to your information. To ensure that you are on a secure page, look for the closed key or lock on the bottom of your Web browser during the Museum of Science [MosTix](http://tickets.mos.org/) checkout process.
+To ensure that that your credit card transaction with the Museum of Science has the highest level of security available, the information you submit to the Online Ticket Store is protected by a technology called the Secure Sockets Layer Protocol. This security software encrypts your credit card information so that it cannot be read as your ticketing order travels over the Internet. This means that no one outside the Museum has access to your information. To ensure that you are on a secure page, look for the closed key or lock on the bottom of your Web browser during the Museum of Science ticketing checkout process.
 
 ## Links
 
