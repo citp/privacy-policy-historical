@@ -1,108 +1,61 @@
-> *The following text is extracted and transformed from the stauer.com privacy policy that was archived on 2007-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070513172006id_/http%3A//www.stauer.com/homepagebottomlinks/privacy/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stauer.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214215708id_/http%3A//www.stauer.com/privacy.asp) for the most accurate reproduction.*
 
-# Stauer Watches - Privacy
+# Privacy - Stauer
 
-The Stauer Collection
+Types of personal information we collect  
+We collect and store personal information that you give us when you register on our website, submit an application, request a catalog, place an order, enroll in a promotional or rewards program, call us, or send us a letter or e–mail. This information may include your name, mailing address, e–mail address, telephone number, fax number, credit card number and expiration date, and other optional demographic information. If you respond to a sweepstakes or contest, we will ask you to verify that you are old enough to participate.
 
-New at Stauer
+How we use and share personal information  
+We use the personal information we collect to process your orders, identify you within our systems, contact you if we have questions about your order, and notify you about new services or special promotional programs.
 
-[Stauer Apollo Automatic Watch](http://www.stauer.com/14892.aspx)  
-The true sign of a collector’s watch is the smooth sweep second hand. The sweep sets this limited edition “Apollo” apart the mass produced watches.
+We share your personal information within the NeXtten Stauer, LLC family of businesses and with third parties that perform services for us or on our behalf (for example, credit card companies, financial institutions, shipping companies, printing houses, consultants and advisors, market research firms and rebate processors) and when, in our judgment, we believe it is necessary or appropriate to prevent fraud, injury, or harm to persons or property, to protect our rights or the rights of others, to comply with applicable laws and regulations, or as otherwise required by law. We limit the scope of the information provided to third parties, and we allow its use only for the purposes for which it was disclosed. Personal information may be transferred in connection with a business transition, such as a merger, acquisition, insolvency, or asset sale involving any NeXtten Stauer, LLC business or asset to which the information pertains. If you shop through our catalog or via Stauer.com, we may share your name and mailing address (but not your e–mail address or telephone number) for external direct mail campaigns conducted by companies or organizations which offer products or services we believe may be of interest to our customers.
 
-  
+Special information for Stauer.com shoppers  
+If you shop with us online, we use third–party advertising technology to help us improve our marketing efforts. This technology uses non–personally identifiable information about your visits to Stauer.com and the sites upon which we advertise. We use Omniture, a service provider, to assist us with data collection and reporting. As part of that process, a "cookie" may be placed on your browser. Cookies are small data files that are stored on your computer's hard drive. They allow us to track your movement through our site, which gives us the opportunity to make the site more user-friendly. Omniture does not have the right to use the information we provide to them beyond what is necessary to assist us. For more information, including how to opt–out, go to [www.omniture.com/privacy/policy#optout](http://www.omniture.com/privacy/policy#optout) . In the course of delivering our online advertisements to you, a unique third–party "cookie" may be placed on your browser.
+
+For your convenience, our website may contain links to the sites of affiliates, manufacturers, and other companies. Please keep in mind that these sites are not under our control and we are not responsible for the privacy practices of the companies that run them. If you shop on one of these sites, we encourage you to locate and familiarize yourself with the applicable privacy policy.
+
+How to let us know about your preferences?  
+NeXtten Stauer, LLC provides customers with marketing and promotional materials via e–mail, mail, telemarketing, and fax. If you'd prefer not to receive these materials, let us know using the instructions included in the following Q & A:
+
+**Q. How can I contact NeXtten Stauer, LLC?**  
+A. You may contact us using any of the following options:
+
+  * Send an e–mail to us at [Stauer@amsi-corp.com](mailto:stauer@amsi-corp.com)
+  * Call us toll–free at 1-800-859-1523
+  * Write to us at NeXtten Stauer, LLC, 14101 Southcross Drive West, Burnsville, MN 55337.
 
 
-[](http://www.nextten.com/)
 
-| 
+**Q. I don't want to receive marketing materials. What should I do?**  
+A. To remove your name from our marketing lists, please follow the instructions noted below.
 
-  
+  * E–mail – Click on the "unsubscribe link" located in all of our promotional e–mails
+  * Postal Mail, Fax and Telephone – Call, Write, or send an E–mail to NeXtten Stauer, LLC, using the contact information provided above.
 
 
-|   
----  
-Stauer knows that you care how your personal information is used and shared, and we appreciate your trust that we will do so with sensitivity to your needs and desires. This notice describes our privacy policy. By visiting Stauer, you are accepting the practices described in this Privacy Notice.  
-  
----  
-  
-### What Personal Information About Customers Does Stauer Gather?
 
-|   
-The information we learn from our customers helps us personalize and improve your shopping experience with NextTen. Here are the types of information we gather.   
-  
-  
----  
-  
-  * Information You Give Us: We receive and store any information that you enter on our Web site or give to us in any other way. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. 
-  * E-mail Communications: To help us make e-mails more useful and interesting, we often receive a confirmation when you open e-mail from Stauer if your computer supports such capabilities. We also compare our customer list to lists received from other companies, in an effort to avoid sending unnecessary messages to our customers. If you do not want to receive e-mail or other mail from us, please adjust your Customer Communication Preferences. 
+When submitting a request by telephone or mail, please be sure to include all of the contact information you have ever used or provided to NeXtten Stauer, LLC even if it is no longer current, including:
 
-  
-  
----  
-  
-### What About Cookies?
+  * All e–mail addresses
+  * All telephone numbers
+  * All names and addresses, including city, state, and zip code
 
-|   
-  
-  * Cookies are alphanumeric identifiers that are sent to your computer's hard drive through your Web browser to enable systems to recognize your browser. These cookies help us identify return visitor volume but do not store any personal information about the user. 
-  * The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, cookies allow you to take full advantage of some of Stauer's coolest features, and we recommend that you leave them turned on. 
 
-  
-  
----  
-  
-### Does Stauer Share the Information It Receives?
 
-|   
-Information about our customers is an important part of our business, and we are not in the business of selling it to others. We share customer information only as described below and with subsidiaries Stauer, Inc. We follow practices at least as protective as those described in this Privacy Notice.  
-  
----  
-  
-  * Agents: We employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links), processing credit card payments, and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes. 
-  * Promotional Offers: Sometimes we send offers to selected groups of Stauer customers on behalf of other businesses. When we do this, we do not give that business your name and address. If you do not want to receive such offers, please adjust your Customer Communication Preferences. 
-  * Protection of Stauer and Others: We release account and other personal information when we believe release is appropriate to comply with the law; enforce or apply other agreements; or protect the rights, property, or safety of Stauer, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. Obviously, however, this does not include selling, renting, sharing, or otherwise disclosing personally identifiable information from customers for commercial purposes in violation of the commitments set forth in this Privacy Notice. 
-  * With Your Consent: Other than as set out above, you will receive notice when information about you might go to third parties, and you will have an opportunity to choose not to share the information.
+You may continue to receive direct mail or catalog mailings after you have asked us not to send them. This can occur due to timing delays in updating applicable computer systems or due to incorrect, out of date or duplicate contact information. If that happens to you, call us.
 
-  
-  
----  
-  
-### How Secure Is Information About Me?
+**Q. I'd prefer not to have my name and postal mailing address shared with other companies for marketing purposes. What should I do?**  
+A. If you'd prefer not to have your name and postal mailing address shared with other companies, let us know in writing via e–mail, fax, or letter using the contact information provided above. Please be sure to include your name and postal mailing address as well as specific instructions.
 
-|   
-  
-  * We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. 
-  * It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer. Click here for more information on how to sign off. 
+Accessing and amending personal information  
+It is important that our databases are accurate and current. To review and make any appropriate changes or deletions to information about you, please contact us in one of the ways provided above.
 
-  
-  
----  
-  
-### Which Information Can I Access?
+Our approach to security  
+We maintain reasonable physical, technical, and procedural measures to limit access to personal information to authorized individuals with appropriate purposes. Our web site is a "Secure Site" recognized by VeriSign, a leading computer network security company. If you believe that someone has improperly used personally identifiable information about you or has made purchases that you did not authorize, please contact us immediately. We are a member of BBBOnline, the online area of the Better Business Bureau, and we will strive to resolve any customer service complaints promptly in accordance with BBB procedures.
 
-|   
-Stauer gives you access to a broad range of information about your account and your interactions with Stauer for the limited purpose of viewing and, in certain cases, updating that information.  
-  
----  
-  
-### What Choices Do I Have?
+Policy changes  
+NeXtten Stauer, LLC may change its privacy policy or practices from time to time. We will post the most current version of our privacy policy online at [http://www.stauer.com/privacy.asp](https://web.archive.org/web/20071214215708id_/http%3A//www.stauer.com/privacy.asp). If policy changes materially affect our uses and disclosures of personal information that we have previously collected, we will notify you and, if appropriate, provide an opportunity to prevent us from applying the revised policy to such information.
 
-|   
-  
-  * As discussed above, you can always choose not to provide information, even though it might be needed to make a purchase or to take advantage of Stauer. 
-  * If you do not want to receive e-mail or other mail from us, please contact us at 1-888-333-2012 or email stauer@amsi-corp.com 
-  * The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, you will not be able to use many important features if you do not use cookies. 
-
-  
-  
----  
-  
-### Stauer's Affiliate Program
-
-|   
-We selectively partner with other web sites to boost mutual business development and to enhance the shopping experience. In forming these partnerships, we strive to achieve increased success for our company and for our partners. 
-
-If you feel that your website could enhance our ability to acquire customers, and you would like to be considered for a partnership or affiliate relationship with Stauer, please visit Commission Junction and mention your interest in becoming a Stauer partner.  
-  
-  
-
+Effective Date: May 11, 2007  
+Last Revised Date: May 11, 2007 
