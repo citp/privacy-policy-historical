@@ -1,0 +1,8 @@
+> *The following text is extracted and transformed from the lwsd.org privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214235548id_/http%3A//www.lwsd.org/About/Pages/Privacy-Policy.aspx) for the most accurate reproduction.*
+
+# Privacy Policy - Lake Washington School District
+
+Lake Washington School District is the sole owner of the information collected. We will not sell, share, or rent this information.
+
+**Security**  
+This Web site takes every precaution to protect our users’ information. When users submit sensitive information via the Web site, this information is protected both online and off-line. While LWSD uses SSL encryption to protect sensitive information online, we also do everything in our power to protect user information off-line. All of our users’ information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job are granted access to personally identifiable information. Our employees must use password-protected screensavers when they leave their desk. When they return, they must re-enter their password to regain access to your information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers’ information is protected. Finally, the servers that we store personally identifiable information on are kept in a secure environment, in a locked room protected by a monitored burglar alarm.
