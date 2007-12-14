@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eons.com privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618044206id_/http%3A//www.eons.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eons.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214203028id_/http%3A//www.eons.com/about/privacy) for the most accurate reproduction.*
 
 # Eons: Privacy
 
