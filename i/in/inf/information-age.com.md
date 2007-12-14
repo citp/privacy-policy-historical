@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the information-age.com privacy policy that was archived on 2007-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070426143923id_/http%3A//www.information-age.com/bottom_links/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the information-age.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214070802id_/http%3A//www.information-age.com/bottom_links/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Information Age
 
@@ -52,4 +52,4 @@ If you do not want to receive mailings from us or from third parties, please ref
 
 You may have linked to this site from a third party web site. We cannot be responsible for the privacy policies and practices of the third party web site from which you linked to our web site. We recommend that you check the policy of that third party web site and contact its owner or operator if you have any concerns or questions.
 
-**If you have any further questions please[contact us](http://www.information-age.com/contact_us).**
+**If you have any further questions please[contact us]().**
