@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homeagain.com privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613072207id_/http%3A//www.homeagain.com/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeagain.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214075612id_/http%3A//www.homeagain.com/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # HomeAgain
 
