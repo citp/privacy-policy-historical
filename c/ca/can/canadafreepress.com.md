@@ -1,15 +1,6 @@
-> *The following text is extracted and transformed from the canadafreepress.com privacy policy that was archived on 2007-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070425193529id_/http%3A//www.canadafreepress.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canadafreepress.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214035842id_/http%3A//www.canadafreepress.com/privacy.htm) for the most accurate reproduction.*
 
 # CFP Privacy Statement
-
-[ ](http://www.canadafreepress.com/printpage.php)   [ ](http://www.freerepublic.com/perl/post_article?forum=news) [ ](http://www.digg.com/submit) [ ](http://www.newsvine.com/_tools/seed)
-
-[**Say “No!” to surgery! It could save your life…**](http://www.isecureonline.com/Reports/ACD/W600H377/)  
-Before you let any surgeon cut into you… consider this stunning fact: Up to 90% of certain surgeries performed in the U.S. are completely unnecessary. Yours shouldn't be next.   
-Discover safer and more effective cures that don’t involve slicing and dicing in this free special report.  
-[Click Here.](http://www.isecureonline.com/Reports/ACD/W600H377/)
-
-* * *
 
 Canada Free Press Privacy Policies
 
