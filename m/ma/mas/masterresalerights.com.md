@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the masterresalerights.com privacy policy that was archived on 2007-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070528133225id_/http%3A//masterresalerights.com/index.php%3Fp%3Dpage%26page_id%3DPrivacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the masterresalerights.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214010154id_/http%3A//www.masterresalerights.com/pages/Privacy_Policy.html) for the most accurate reproduction.*
 
-# eBook Master Resale Rights, eBook Wholesale, Master Resale Rights
+# Privacy Policy: eBook Master Resale Rights, Resale Rights Membership, Master Resell Rights
 
 Credit Card Information   
   
