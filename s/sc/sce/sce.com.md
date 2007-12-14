@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sce.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623044015id_/http%3A//www.sce.com/SC3/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sce.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214105845id_/http%3A//www.sce.com/SC3/PrivacyPolicy) for the most accurate reproduction.*
 
 # SCE - Privacy Policy
 
@@ -13,7 +13,7 @@ When you visit our Web site there are two kinds of information that we are likel
 ** SCE will not sell or trade your personal information to any third party, absent authorization by you. In fact, because we are a regulated utility, the California Public Utilities Commission forbids us to do so. The Internet medium will not change this.  We only collect your personal data in order to provide you with better services.
 
   **Receipt of E-mails**  
-E-mail gives SCE another convenient avenue to communicate with its customers. We hope to periodically tell you about new rates, products, and services that would benefityou. SCE will not, however, send you e-mails if you do not wish to receive them. If at anytime you would like to remove yourself from SCE’s e-mail list, you can do so by updating your profile information within [**My Account**.](http://www.sce.com/sma/)
+E-mail gives SCE another convenient avenue to communicate with its customers. We hope to periodically tell you about new rates, products, and services that would benefit you. SCE will not, however, send you e-mails if you do not wish to receive them. If at anytime you would like to remove yourself from SCE’s e-mail list, you can do so by updating your profile information within [**My Account**.](http://www.sce.com/sma/)
 
   **Security**  
 All transfers of personal information on SCE.com are secured by the industry standard Secure Sockets Layer (SSL) protocol. SSL prohibits other Web users from gaining access to your personal information.
