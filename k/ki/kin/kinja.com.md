@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kinja.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615001919id_/http%3A//kinja.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kinja.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214203955id_/http%3A//www.kinja.com/info/privacy) for the most accurate reproduction.*
 
 # Kinja, the weblog guide
 
