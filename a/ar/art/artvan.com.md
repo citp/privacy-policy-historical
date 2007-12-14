@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artvan.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623104632id_/http%3A//www.artvan.com/webapp/wcs/stores/servlet/staticpage_-1_10001_10001_privacyTerms.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artvan.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214112759id_/http%3A//www.artvan.com/webapp/wcs/stores/servlet/staticpage_-1_10001_10001_privacyTerms.html) for the most accurate reproduction.*
 
 # Art Van Furniture
 
