@@ -1,150 +1,65 @@
-> *The following text is extracted and transformed from the hotels.co.uk privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629204401id_/http%3A//www.hotels.co.uk/privacypolicy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotels.co.uk privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214084717id_/http%3A//www.hotels.co.uk/privacypolicy.do) for the most accurate reproduction.*
 
 # Privacy Policy
 
-We understand that making purchases online involves a great deal of trust on your part; we take this trust very seriously. This Privacy Statement describes the ways in which we will use the data you provide through this hotels.com. website (“our website”), which is owned and operated by Hotels.com, L.P. ("we" or "us"). Please note that this Privacy Statement is an integral part of our website and the services offered to you and cannot, in any way, be separated from the Terms and Conditions of Use or from the membership, usage or transaction process. By providing information through this site, you indicate your acceptance of the practices described in this Privacy Statement. 
+**PRIVACY STATEMENT** ****
 
-    1. This Privacy Statement addresses:
-    2. What information we collect online from you.
-    3. How we use the information.
-    4. With whom we may share the information.
-    5. What choices are available regarding collection, use and distribution of the information.
-    6. What types of security procedures are in place to help protect the loss, misuse or alteration of the information under our control.
-    7. How users can correct any inaccuracies in their personally identifiable information.
-    8. How we notify you of material changes to this Privacy Statement.
-    9. When the Privacy Statement became effective.
+  
+We understand that making purchases online involves a great deal of trust on your part; we take this trust very seriously. This Privacy Statement describes the ways in which we will use the data you provide through this [hotels.com](https://web.archive.org/).TM website ("our website"), which is owned and operated by Hotels.com, L.P. ("we" or "us"). Please note that this Privacy Statement is an integral part of our website and the services offered to you and cannot, in any way, be separated from the Terms and Conditions of Use or from the membership, usage or transaction process. By providing information through this site and/or by establishing an account with us, you indicate your acceptance of the practices described in this Privacy Statement.   
+This Privacy Statement addresses: 
 
+  1. What information we collect online from you. 
+  2. How we use the information. 
+  3. With whom we may share the information. 
+  4. What choices are available regarding collection, use and distribution of the information. 
+  5. What types of security procedures are in place to help protect the loss, misuse or alteration of the information under our control. 
+  6. How users can correct any inaccuracies in their personally identifiable information. 
+  7. How we notify you of material changes to this Privacy Statement. 
+  8. When the Privacy Statement became effective.
 
-
-If users have questions or concerns regarding this statement, they should contact hotels.com customer service by email here. 
-
-Information Collection and Use
-
-Reservation Orders
-
-When you book a reservation through our website, we ask you to provide personally identifiable information by filling out and submitting an online customer profile form (if you are not a hotels.com member already). This information includes: your name, home or work telephone number, fax number, email address, and your credit card number, expiration date, and billing address. We use this information to process and book your reservation and to notify you of your reservation status by email or fax. When you return to the site, we will ask for your email address and booking reference and may ask for other key pieces of personally identifiable information to enable you to access your reservation information. 
-
-We also ask you for personally identifiable information about other people for whom you are booking reservations. You should obtain permission from these individuals to provide us with their information. We use this information to reserve the room with the hotel or other accommodation, and, if you so request, to send each person an email notification of the reservation 
-
-Member Registration
-
-Hotels.com may enable you to register with us to become a member. Where we do offer membership registration, we will make this clear. When you choose to become a hotels.com member, we ask you to provide your name, address, telephone number, fax number, email address, a unique login name, password, and password validation. This information is collected on the registration form for several reasons including: (1) personal identification; (2) to complete hotel and car reservations and fulfil requests for other travel products and services; (3) to allow us to contact you for customer service, if necessary; (4) to customize the content of our website to meet your specific needs; and (5) to conduct research and to make product improvements to the services we offer on our website. In addition, your email address is collected to send you an email message confirming your new member registration and each reservation you transact online. If you provide a fax number, you also may receive faxes confirming your new member registration and each reservation that you transact online. To help us understand the effectiveness of our email communications, we may attach a Web beacon that provides confirmation when you open one of our e-mail messages. 
-
-As a member, you also will occasionally receive updates from us about special offers, new hotels.com services, and other noteworthy news items. You may decline to receive these email and fax messages. Please see the section entitled “Choice/Opt Out,” described below. 
-
-Member Profile
-
-In addition to the information noted above, members can choose to provide us with travel preferences, credit card billing information, and other personally identifiable information. This information is primarily used to assist members in making reservations quickly without having to type in the same information repeatedly. 
-
-Surveys & Contests
-
-From time-to-time, we may request information from users through surveys or contests. Participation in these surveys or contests is completely voluntary and you therefore have a choice as to whether or not to provide this information. The requested information typically includes contact information (such as name and mailing address), and demographic information (such as postcode). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of our website. Although we may use a service provider to conduct these surveys or contests, as we note in the section on “Information Sharing,” these service providers may not use your personally identifiable information for any secondary purpose. 
-
-Information From Other Sources
-
-We may receive information about you from third-party sources and add it to your account information. This information may include: updated delivery and address information from third parties, which we use to correct our records and facilitate proper delivery of our services and communications; information about travel purchases made on websites owned by our subsidiaries and sister companies (such as Expedia.com), which we use to better understand your travel needs; and credit history information from credit bureaus, which we use to help prevent and detect fraud. 
-
-Cookies
-
-Cookies are small pieces of information stored on your computer tied to information about you. We use both session ID (or temporary) cookies, which terminate when you close your browser, and persistent cookies, which are stored on your hard drive. 
-
-We use cookies for several reasons. For example, cookies allow you to login without having to type your login name each time, allowing you to simply provide your password to access the system. Cookies also enable us to track and target the interests of our users to enhance the experience on our website. Most Web browsers automatically accept cookies, but if you prefer, you can edit your browser options to block them in the future. If you choose to reject cookies, you may still use our website; however, your access to some areas of our website will be limited. 
-
-A cookie file also may be placed on your hard drive by our third-party advertising companies. These companies may use aggregated statistics about your visits to this and other websites in order to provide advertisements about travel-related goods and services that you may be interested in. Hotels.com does not have access to or control over these cookies that may be placed by third-party advertisers. Those advertising networks that use persistent cookies may offer you a way to opt out of advertisement targeting. If you would like to find out more information, [click here.](http://www.networkadvertising.org/)
-
-The third-party advertising companies may also employ technology that is used to measure the effectiveness of advertisements. This is primarily accomplished through the use of a Web beacon (a single-pixel GIF), which is placed on our website to collect anonymous information. They may use this anonymous information about your visits to this and other sites in order to provide advertisements about goods and services of potential interest to you. The information collected through this process is anonymous and does not link online actions to an identifiable person. If you would like more information and want to explore the option of not having this information collected by third-party advertisers, [click here.](http://www.networkadvertising.org/)
-
-Tags
-
-In conjunction with our own and our affiliates’ marketing campaigns, we may also use technology to capture certain information relating to reservations you make through our website.  We will usually collect this information by placing a Web beacon (a single-pixel GIF) within our reservation pages.  The information we collect is anonymous and will include the total amount of the transaction and the system-generated booking reference.  We will use this information to monitor the effectiveness of our marketing campaigns and may pass this on to our affiliates for similar purposes.   We may employ a third party service provider to collate and report on the information collected. 
-
-Log Files
-
-Like most standard website servers we use log files that collect Internet Protocol (IP) addresses, browser type, Internet Service Provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks. We use this information to analyse trends, administer the site, track user's movement in the aggregate, diagnose problems with our servers, and to gather broad demographic information for aggregate use. This information is not linked to personally identifiable information. We also use a tracking utility called ATG Dynamo that uses log files to analyse user movement. 
+If users have questions or concerns regarding this statement, they should contact hotels.com customer service by email here.   
+Information Collection and Use    
+Reservation Orders When you book a reservation through our website, we ask you to provide personally identifiable information by filling out and submitting an online customer profile form (if you are not a hotels.com member already). This information includes: your name, home or work telephone number, fax number, email address, and your credit card number, expiration date, and billing address. We use this information to process and book your reservation and to notify you of your reservation status by email or fax. When you return to the site, we will ask for your email address and booking reference and may ask for other key pieces of personally identifiable information to enable you to access your reservation information. We also ask you for personally identifiable information about other people for whom you are booking reservations. You should obtain permission from these individuals to provide us with their information. We use this information to reserve the room with the hotel or other accommodation, and, if you so request, to send each person an email notification of the reservation   
+Member Registration Hotels.com enables you to register an account with us to become a member. When you choose to become a hotels.com member, we will require you to provide certain information and request that you provide other information at your discretion. If you do not provide us with the required information, you will not be entitled to have an account with us and be a hotels.com member. The information we may require or request includes at least your name, address, telephone number, fax number, email address, a unique login name, password, and password validation. This information is collected on the registration form for several reasons including: (1) personal identification; (2) to complete hotel and car reservations and fulfil requests for other travel products and services; (3) to allow us to contact you for customer service, if necessary; (4) to customize the content of our website to meet your specific needs; and (5) to conduct research and to make product improvements to the services we offer on our website. In addition, your email address is collected to send you an email message confirming your account registration and each reservation you transact online. To help us understand the effectiveness of our email communications, we may deploy technologies that provide confirmation when you open one of our e-mail messages. As a member, you also will occasionally receive updates from us about special offers, new hotels.com services, and other noteworthy news items. You may decline to receive these email messages. Please see the section entitled "Choice/Opt Out," described below.   
+Member Profile In addition to the information noted above, members can choose to provide us with travel preferences, credit card billing information, and other personally identifiable information. This information is primarily used to assist members in making reservations quickly without having to type in the same information repeatedly.   
+Surveys & Contests From time-to-time, we may request information from users through surveys or contests. Participation in these surveys or contests is completely voluntary and you therefore have a choice as to whether or not to provide this information. The requested information typically includes contact information (such as name and mailing address), and demographic information (such as postcode). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of our website. Although we may use a service provider to conduct these surveys or contests, as we note in the section on "Information Sharing," these service providers may not use your personally identifiable information for any secondary purpose.   
+Information From Other Sources We may receive information about you from third-party sources and add it to your account information. This information may include: updated delivery and address information from third parties, which we use to correct our records and facilitate proper delivery of our services and communications; information about travel purchases made on websites owned by our subsidiaries and sister companies (such as Expedia.com), which we use to better understand your travel needs; and credit history information from credit bureaus, which we use to help prevent and detect fraud.   
+Cookies Cookies are small pieces of information stored on your computer tied to information about you. We use both session ID (or temporary) cookies, which terminate when you close your browser, and persistent cookies, which are stored on your hard drive. We use cookies for several reasons. For example, cookies allow you to login without having to type your login name each time, allowing you to simply provide your password to access the system. Cookies also enable us to track and target the interests of our users to enhance the experience on our website. Most web browsers automatically accept cookies, but if you prefer, you can edit your browser options to block them in the future. If you choose to reject cookies, you may still use our website; however, your access to some areas of our website will be limited. A cookie file also may be placed on your hard drive by our third-party advertising companies. These companies may use aggregated statistics about your visits to this and other websites in order to provide advertisements about travel-related goods and services that you may be interested in. Hotels.com does not have access to or control over these cookies that may be placed by third-party advertisers. Those advertising networks that use persistent cookies may offer you a way to opt out of advertisement targeting. If you would like to find out more information, click here. The third-party advertising companies may also employ technology that is used to measure the effectiveness of advertisements. This can be accomplished by them using a web beacon (a single-pixel GIF), which is placed on our website to collect anonymous information. They may use this anonymous information about your visits to this and other sites in order to provide advertisements about goods and services of potential interest to you. The information collected through this process is anonymous and does not link online actions to an identifiable person. If you would like more information and want to explore the option of not having this information collected by third-party advertisers, click here.   
+Tags In conjunction with our own and our affiliates' marketing campaigns, we may also use technology to capture certain information relating to reservations you make through our website. We will usually collect this information by placing a web beacon (a single-pixel GIF) within our reservation pages. The information we collect is anonymous and will include the total amount of the transaction and the system-generated booking reference. We will use this information to monitor the effectiveness of our marketing campaigns and may pass this on to our affiliates for similar purposes. We may employ a third party service provider to collate and report on the information collected.   
+Log Files Like most standard website servers we use log files that collect Internet Protocol (IP) addresses, browser type, Internet Service Provider (ISP), referring/exit pages, platform type, date/time stamp, and number and location on a page of clicks. We use this information to analyse trends, administer the site, track user's movement in the aggregate, diagnose problems with our servers, and to gather broad demographic information for aggregate use. This information is not linked to personally identifiable information. We also use a tracking utility such as ATG Dynamo that uses log files to analyse user movement. 
 
 Communications from the Site
 
-Special Offers and Updates
+  
+Special Offers and Updates As noted above, established hotels.com members may occasionally receive information on products, services, and special deals about which they may be interested. Out of respect for the privacy of our users, we present members with the option not to receive these types of communications. Please see the "Choice/Opt-out" section below.   
+Trip Information and Customer Feedback If you book a trip through the our website, in addition to notifying you of your reservation status (see "Reservation Orders" above), we will send you an email prior to your date of travel, containing up-to-date information relevant to your trip and travel destination which you may find useful; we will on occasion include information about other products and services which may be of interest to you in connection with your forthcoming trip. We will give you the choice to opt-out of receiving these emails for future reservations. In the interests of maintaining a high standard of service for our customers, we may also send you an email once you have completed your travel, so that you can provide us with valuable feedback on your travel experience, although again, we will offer you the choice of not receiving this.   
+Newsletter If a user wishes to subscribe to our newsletter, we ask them to provide contact information, such as name and email address. Out of respect for our users' privacy we provide a way to opt-out of these communications. Please see the "Choice/Opt-out" section below.   
+Service Announcements On rare occasions it is necessary to send out service-related announcements. For instance, if our service is temporarily suspended for maintenance, we might send users an email. Generally, users may not opt-out of these non-promotional communications, although they can deactivate their membership.   
+Customer Service We communicate with users on a regular basis to provide requested services. This may include responding through email, fax or phone, in accordance with the users' wishes. 
 
-As noted above, established hotels.com members may occasionally receive information on products, services, and special deals about which they may be interested. Out of respect for the privacy of our users, we present members with the option not to receive these types of communications. Please see the “Choice/Opt-out” section below. 
+Choice/Opt-out 
 
-Trip Information and Customer Feedback
-
-If you book a trip through the our website, in addition to notifying you of your reservation status (see “Reservation Orders” above), we will send you an email prior to your date of travel, containing up-to-date information relevant to your trip and travel destination which you may find useful; we will on occasion include information about other products and services which may be of interest to you in connection with your forthcoming trip. We will give you the choice to opt-out of receiving these emails for future reservations. In the interests of maintaining a high standard of service for our customers, we may also send you an email once you have completed your travel, so that you can provide us with valuable feedback on your travel experience, although again, we will offer you the choice of not receiving this. 
-
-Newsletter
-
-If a user wishes to subscribe to our newsletter, we ask them to provide contact information, such as name and email address. Out of respect for our users’ privacy we provide a way to opt-out of these communications. Please see the “Choice/Opt-out” section below. 
-
-Service Announcements
-
-On rare occasions it is necessary to send out service-related announcements. For instance, if our service is temporarily suspended for maintenance, we might send users an email. Generally, users may not opt-out of these non-promotional communications, although they can deactivate their membership. 
-
-Customer Service
-
-We communicate with users on a regular basis to provide requested services. This may include responding through email, fax or phone, in accordance with the users' wishes. 
-
-Choice/Opt-out
-
-Although we make every effort to preserve user privacy, we may be required by law to disclose information you have provided in obtaining our travel products or services.  We may also disclose information against [here.](http://asia.hotels.com/hotel-htdocs/asia/index.htm/)
+We provide users with the opportunity to opt-out of having their information used by hotels.com to send promotional communications. Users who no longer wish to receive our newsletter and promotional communications may opt-out of receiving these communications by replying to "unsubscribe" in the subject line in the email or by clicking here. 
 
 Information Sharing
 
-Legal Disclaimer
-
-Although we make every effort to preserve user privacy, we may be required by law to disclose information you have provided in obtaining our travel products or services. We may also disclose information against someone who poses a threat to our interests (such as customer fraud) or whose activities could bring harm to others. In addition, it may be necessary for us to provide customer information to third parties, such as credit card companies, for the purpose of resolving disputes that arise in the normal course of business. 
-
-Aggregate Information (non-personally identifiable)
-
-We share aggregated demographic information with our business partners and advertisers. This is not linked to any personally identifiable information. 
-
-Authorised Service Providers 
-
-We share your personally identifiable information with authorised service providers that perform certain functions or services on our behalf. For example, we use an outside a credit card processing company and bank cheque processing company to bill users for goods and services. We also rely on service providers to fulfill orders, deliver packages, perform business and sales analysis, and provide marketing assistance. These companies do not have any independent right to share, store, or use the personally identifiable information we provide for any secondary purpose. 
-
-We also may contract with reputable third parties to facilitate the distribution of survey, promotion, or sweepstakes programs. Upon completion of these projects, all information is returned to us. 
-
-This site uses technology, provided by Fireclick ®, that makes use of a small and transparent Java applet to provide you with a faster browsing experience. No personally identifiable information is gathered or used for this process. If for any reason you do not wish to have this technology enabled while browsing this site, please click here and a cookie will be set on your browser that instructs the service not to start. If you have disabled the service and wish to reactivate it, please click here. Additional information on Fireclick's technology may be found at [ www.fireclick.com](http://www.fireclick.com/). 
-
-Finally, we will occasionally share aggregated information with our service providers. This information does not contain any personally identifiable information and is used to develop featured programs and content that will be of interest to our members and our website visitors. 
-
-Suppliers
-
-We provide information about travel either reserved or purchased on [ our](http://www.hotels.com/) website to the suppliers who will fulfill your travel reservation. Although we offer travel products from hotel, car rental and other suppliers that are reputable companies, we have not placed limitations on these suppliers from using or disclosing your information without your permission. Therefore, we encourage you to review the information privacy practices of any travel suppliers whose products you purchase on [ our](http://www.hotels.com/) website. In addition, these travel suppliers may also contact you as necessary to obtain additional information about your confirmed reservation. 
-
-Affiliated/Referring Websites
-
-If you were referred to our website from another website, we may share personally identifiable information about you with the referring website to better understand the use of our website. Although we believe that the website companies from which you were referred to us are reputable companies, we have not placed limitations on the referring websites companies from using or disclosing your information without your permission. Therefore, we encourage you to review the information privacy practices of any website that referred you to our website. 
-
-Subsidiaries and Sister Companies
-
-We may share some of your personally identifiable information with our subsidiaries and sister companies around the world (such as Expedia.com) that are committed to providing you with a comprehensive array of travel packages and services to meet your travel needs. Sharing this information allows us to better understand the ways in which our various product and service offerings can assist travelers. To the extent that our subsidiaries and sister companies have access to your information, they will treat it at least as protectively as they treat information they obtain from their other users. 
-
-Business Transfers
-
-As we continue to look for ways to better serve our customers, we may sell subsidiaries or business units. We also may be acquired by or merged with another company. In such instances, customer information may be one of the transferred business assets. 
-
-International Transfers
-
-We will handle the personally identifiable information of members and users in the United States. In addition, the third parties with whom we may share your information, as described above, may be established in countries outside the European Union, such as in the United States. By using our website you understand and agree that your information will be held and used in the United States and other countries where our partners, service providers, subsidiaries, and sister companies may be established. 
-
-Links
-
-Please be aware that our website contains links that lead to other sites. These sites may collect personally identifiable information from you. This Privacy Statement does not cover the information collection practices or policies of such websites. 
+  
+Legal Disclaimer Although we make every effort to preserve user privacy, we may be required by law to disclose information you have provided in obtaining our travel products or services. We may also disclose information against someone who poses a threat to our interests (such as customer fraud) or whose activities could damage or bring harm to others. In addition, it may be necessary for us to provide customer information to third parties, such as credit card companies, for the purpose of resolving disputes that arise in the normal course of business.   
+Aggregate Information (non-personally identifiable) We share aggregated demographic information with our business partners and advertisers. This is not linked to any personally identifiable information.   
+Authorised Service Providers  We share your personally identifiable information with authorised service providers that perform certain functions or services on our behalf. For example, we use an outside a credit card processing company and bank cheque processing company to bill users for goods and services. We also rely on service providers to fulfill orders, deliver packages, perform business and sales analysis, and provide marketing assistance. These companies do not have any independent right to share, store, or use the personally identifiable information we provide for any secondary purpose. We also may contract with reputable third parties to facilitate the distribution of survey, promotion, or sweepstakes programs. Upon completion of these projects, all information is returned to us. Finally, we will occasionally share aggregated information with our service providers. This information does not contain any personally identifiable information and is used to develop featured programs and content that will be of interest to our members and our website visitors. Suppliers We provide information about travel either reserved or purchased on our website to the suppliers who will fulfill your travel reservation. Although we offer travel products from hotel, car rental and other suppliers that are reputable companies, we have not placed limitations on these suppliers from using or disclosing your information without your permission. Therefore, we encourage you to review the information privacy practices of any travel suppliers whose products you purchase on out website. In addition, these travel suppliers may also contact you as necessary to obtain additional information about your confirmed reservation.   
+Affiliated/Referring Websites If you were referred to our website from another website, we may share personally identifiable information about you with the referring website to better understand the use of our website. Although we believe that the website companies from which you were referred to us are reputable companies, we have not placed limitations on the referring websites companies from using or disclosing your information without your permission. Therefore, we encourage you to review the information privacy practices of any website that referred you to our website.   
+Subsidiaries and Sister Companies We may share some of your personally identifiable information with our subsidiaries and sister companies around the world (such as Expedia.com) that are committed to providing you with a comprehensive array of travel packages and services to meet your travel needs. Sharing this information allows us to better understand the ways in which our various product and service offerings can assist travelers. To the extent that our subsidiaries and sister companies have access to your information, they will treat it at least as protectively as they treat information they obtain from their other users.   
+Business Transfers As we continue to look for ways to better serve our customers, we may sell subsidiaries or business units. We also may be acquired by or merged with another company. In such instances, customer information may be one of the transferred business assets.   
+International Transfers We will handle the personally identifiable information of members and users in the United States. In addition, the third parties with whom we may share your information, as described above, may be established in countries outside the European Union, such as in the United States. By using our website you understand and agree that your information will be held and used in the United States and other countries where our partners, service providers, subsidiaries, and sister companies may be established.   
+Links Please be aware that our website contains links that lead to other sites. These sites may collect personally identifiable information from you. This Privacy Statement does not cover the information collection practices or policies of such websites. 
 
 Information Security
 
-We take steps to help protect the personally identifiable information you provide to us. For example, we use leading encryption technology to encrypt credit card numbers. We also restrict access to personally identifiable information to those employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative). In addition, the servers that store personally identifiable information are contained in a locked facility. 
-
-If you have any questions about the security of your information, please send an email to [Customer Care](http://www.hotels.com/ContactCustomerCare.jsp) . 
+We take steps to help protect the personally identifiable information you provide to us. For example, we use leading encryption technology to encrypt credit card numbers. We also restrict access to personally identifiable information to those employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative). In addition, the servers that store personally identifiable information are contained in a locked facility. If you have any questions about the security of your information, please send an email to Customer Care . 
 
 Accessing Personally identifiable information
 
-Members and users can request access to, and update, the personally identifiable information we have collected about them. In order to exercise this right, members and users can e-mail our Customer Support at [Customer Care](http://www.hotels.com/ContactCustomerCare.jsp) or contact us by post at the contact information listed below. Members also can change their personally identifiable information on the member profile page of our website. 
-
-Correcting/Updating/Deleting/Deactivating Personal Information
-
-Members and users can request access to, and update, the personally identifiable information we have collected about them.In order to exercise this right, members and users can e-mail our Customer Support at [Customer Care](http://www.hotels.com/ContactCustomerCare.jsp) or contact us by post at the contact information listed below. Members also can change their personally identifiable information on the member profile page of our website. 
+Members and users can request access to, and update, the personally identifiable information we have collected about them. In order to exercise this right, members and users can e-mail our Customer Support at Customer Care or contact us by post at the contact information listed below. Members also can change their personally identifiable information on the your account page of our website. 
 
 Privacy Statement Changes
 
@@ -152,15 +67,14 @@ If we change our privacy practices, we will modify this Privacy Statement, and i
 
 Contact Information
 
-If users have any questions or suggestions regarding our Privacy Statement, please contact us at:  
-Email: [Customer Care](http://www.hotels.com/ContactCustomerCare.jsp)
+If users have any questions or suggestions regarding our Privacy Statement, please contact us at: 
 
-Postal Address:
+Email: Customer Care 
 
-Hotels.com, L.P.  
-10440 North Central Expressway   
-Suite 400  
-Dallas, Texas 75231  
-USA 
+**Postal Address:**        Hotels.com, L.P.  
+                                    10440 North Central Expressway   
+                                    Suite 400  
+                                    Dallas, Texas 75231  
+                                    USA 
 
 This Privacy Statement is effective as of 10/10/06
