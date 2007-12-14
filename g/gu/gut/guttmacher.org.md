@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guttmacher.org privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624112212id_/http%3A//www.guttmacher.org/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guttmacher.org privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214054924id_/http%3A//www.guttmacher.org/about/privacy.html) for the most accurate reproduction.*
 
 # Guttmacher Institute: Privacy Policy
 
@@ -48,7 +48,7 @@ AGI is doing its absolute best to protect your privacy while providing you with 
 
 This site has security measures in place to protect the loss, misuse and alteration of the information under our control. All information is backed up daily to prevent loss of data. 
 
-You should be aware that transmissions through the Internet to and from this Web site, including e-mail messages sent to AGI, are not confidential, and your communications may be read or intercepted. In some instances, including any time you are asked to provide credit card information to order products or make donations through this Web site, information is sent in a commercially secure (encrypted) form, which significantly limits the possibility that this information may be read by others. 
+You should be aware that transmissions through the Internet to and from this Web site, including e-mail messages sent to the Guttmacher Insitute, are not confidential, and your communications may be read or intercepted. In some instances, including any time you are asked to provide credit card information to order products or make donations through this Web site, information is sent in a commercially secure (encrypted) form, which significantly limits the possibility that this information may be read by others. 
 
 ## POLICY REVISIONS
 
