@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fangoria.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627012256id_/http%3A//www.fangoria.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fangoria.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214171202id_/http%3A//www.fangoria.com/privacy.php) for the most accurate reproduction.*
 
 # Fangoria - Privacy Policy
 
@@ -70,4 +70,4 @@ At your request, where the law requires us to do so, we will confirm what person
 
 **Links.** This site may contain links or references to other Web sites outside of our control. Please be aware that we have no control over these sites and our privacy statement does not apply to these sites. We encourage you to read the privacy statements and terms and conditions of linked or referenced sites you enter.
 
-© 2006 Starlog Entertainment, 1372 Broadway, 2nd Floor, New York, NY 10018. All rights reserved.
+© 2007 Starlog Entertainment, 33 West 19th Street, 6th Floor, New York, NY 10011. All rights reserved.
