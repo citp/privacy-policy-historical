@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the incfile.com privacy policy that was archived on 2007-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070414133645id_/http%3A//www.incfile.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the incfile.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214221701id_/http%3A//incfile.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # IncFile - Business Incorporation Solutions
 
