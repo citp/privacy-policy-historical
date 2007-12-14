@@ -1,6 +1,18 @@
-> *The following text is extracted and transformed from the alz.org privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630040050id_/http%3A//www.alz.org/about_this_site.asp%23Security_and_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alz.org privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214065402id_/http%3A//www.alz.org/about_this_site.asp%23Security_and_privacy_policy) for the most accurate reproduction.*
 
 # About This Site
+
+## Introduction
+
+The Alzheimer's Association Web site provides information on the latest Alzheimer care strategies, research findings and advocacy initiatives. We also provide updates on Alzheimer's Association programs, partners and events. 
+
+Our audience includes caregivers; people living with dementia and their families; care professionals and researchers; Alzheimer advocates; and the general public. 
+
+Alz.org provides general information about Alzheimer's disease and related dementias, and does not take the place of professional medical advice, diagnosis or treatment. If you have noticed possible symptoms of Alzheimer's disease in yourself or someone else, please see a doctor.
+
+Content on our site is written by Alzheimer's Association staff members. It is reviewed by subject matter experts that include physicians, researchers and clinicians. 
+
+We do not accept or host paid advertising on www.alz.org. The Alzheimer's Association and its Web site is supported by the generosity of our donors. 
 
 ## Permission to use material from this Web site / reprints / copyright
 
@@ -14,11 +26,11 @@ The Alzheimer’s Association retains copyright on the content of this site, unl
 
 > Translations or adaptations of Alzheimer’s Association content must be reviewed and approved by the Alzheimer’s Association. Please send requests send an e-mail describing intended use, duration and contact information to [brandhelp@alz.org](mailto:brandhelp@alz.org)
 
-> ## Using images from Inside the Brain: An Interactive Tour
-
-> These images are available to third parties.  Please send requests send an e-mail describing intended use, duration and contact information to [brandhelp@alz.org](mailto:brandhelp@alz.org)
-
-> ## Using content from Association press releases
+> ## 
+>
+>> [](mailto:brandhelp@alz.org)
+> 
+> Using content from Association press releases
 
 > Reprint of Alzheimer’s Association content or references to Alzheimer’s Association contact information in an organization’s press release must be approved by the public relations director of the Association. Please send queries to [media@alz.org](mailto:media@alz.org)
 
@@ -28,8 +40,9 @@ The Alzheimer’s Association retains copyright on the content of this site, unl
 > 
 > ## Photographs and graphics
 > 
-> The photographs and graphics on our Web site – other than brain tour images – are not available for reproduction by third parties. Similar stock images are available for a fee from stock image sources.  
+> The photographs and graphics on our Web site are not available for reproduction by third parties. Similar stock images are available for a fee from stock image sources.
 > 
+> However, Stacy Janis images from Inside the Brain: An Interactive Tour are available to third parties. Please send requests to [brandhelp@alz.org](mailto:brandhelp@alz.org).
 
 ## Linking policy
 
