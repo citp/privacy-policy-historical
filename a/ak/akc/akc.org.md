@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the akc.org privacy policy that was archived on 2007-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070606045417id_/http%3A//www.akc.org/about/site/privacystatement.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the akc.org privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214221141id_/http%3A//www.akc.org/about/site/privacystatement.cfm) for the most accurate reproduction.*
 
 # American Kennel Club - AKC Web Site Privacy Statement
 
