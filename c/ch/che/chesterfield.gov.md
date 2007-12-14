@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chesterfield.gov privacy policy that was archived on 2007-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070404033332id_/http%3A//www.chesterfield.gov/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chesterfield.gov privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214113337id_/http%3A//www.chesterfield.gov/privacy.asp) for the most accurate reproduction.*
 
 # Chesterfield County, Virginia | Privacy Policy
 
