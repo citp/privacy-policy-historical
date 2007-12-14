@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brookes.ac.uk privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630054306id_/http%3A//www.brookes.ac.uk/about/structure/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brookes.ac.uk privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214145239id_/http%3A//www.brookes.ac.uk/about/structure/policies/privacy) for the most accurate reproduction.*
 
 # Privacy policy — Oxford Brookes University
 
@@ -11,10 +11,10 @@ If you want to know more about cookies, please look at the About Cookies website
 You have a right to know about the personal information Oxford Brookes University holds about you. You also have a right to have your data corrected or deleted. Please address all your requests and/or queries about our data protection policy to: 
 
 **The Webmaster  
-** Oxford Brookes University  
+**Oxford Brookes University  
 Headington  
 Oxford OX3 0BP
 
-[webmaster@brookes.ac.uk](mailto:webmaster@brookes.ac.uk)
+[webdev@brookes.ac.uk](mailto:webdev@brookes.ac.uk)
 
 For your convenience the Oxford Brookes University website maintains links to other websites, when you use such links the Oxford Brookes University Privacy Policy no longer applies. 
