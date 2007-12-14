@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the skynews.com.au privacy policy that was archived on 2007-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070611230506id_/http%3A//www.skynews.com.au/disclaimer/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skynews.com.au privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214113321id_/http%3A//www2.skynews.com.au/disclaimer/privacy.aspx) for the most accurate reproduction.*
 
-# Sky News Australia - [Privacy Policy]
+# Sky News Australia - Privacy Policy
+
+Privacy Policy
 
 Sky News Australia ( **Sky News** ) commenced its 24 hour news service on February 19th 1996, becoming the first and only Australian produced television news channel. Sky News is a joint venture of Australia's Nine Network and Seven Network, and the United Kingdom's Sky News channel, a part of the British Sky Broadcasting (BSkyB) network.
 
