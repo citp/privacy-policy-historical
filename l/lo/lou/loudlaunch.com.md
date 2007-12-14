@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loudlaunch.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625202601id_/http%3A//loudlaunch.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loudlaunch.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215001639id_/http%3A//www.loudlaunch.com/privacy.aspx) for the most accurate reproduction.*
 
 # LoudLaunch.Com - Privacy Policy
 
