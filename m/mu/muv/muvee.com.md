@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the muvee.com privacy policy that was archived on 2007-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070527162906id_/http%3A//muvee.com/website/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muvee.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214020800id_/http%3A//www.muvee.com/en/privacy) for the most accurate reproduction.*
 
-# Automatic video editing software from muvee Technologies
+# muvee - Instant Home Movie-Making & Photo Slideshow Software - Copyright Notice and Privacy Statement
 
 ## COPYRIGHT NOTICE
 
