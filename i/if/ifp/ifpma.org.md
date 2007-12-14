@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ifpma.org privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630035228id_/http%3A//www.ifpma.org/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ifpma.org privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214141454id_/http%3A//www.ifpma.org/privacy_policy.aspx) for the most accurate reproduction.*
 
 # IFPMA - Privacy Policy
 
