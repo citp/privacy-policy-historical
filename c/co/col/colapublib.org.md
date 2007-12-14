@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the colapublib.org privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624025546id_/http%3A//www.colapublib.org/disclaim.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colapublib.org privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214124936id_/http%3A//www.colapublib.org/disclaim.html) for the most accurate reproduction.*
 
 # Privacy Policy and Disclaimer
 
@@ -10,7 +10,7 @@
 
 [Kid's Corner](https://web.archive.org/children/)
 
-[Teens Read](https://web.archive.org/teenread2006/)
+[Teens Read](https://web.archive.org/teens/)
 
 [Local History](https://web.archive.org/history/)
 
