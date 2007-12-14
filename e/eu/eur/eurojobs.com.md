@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eurojobs.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623035144id_/http%3A//www.eurojobs.com/privacyStatementTemplate.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurojobs.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214152722id_/http%3A//www.eurojobs.com/privacyStatementTemplate.jsp) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -8,44 +8,44 @@
 Register  
 ---  
 1\. If you have aready registered please  
-[click here.](https://web.archive.org/web/20070623035144id_/http%3A//www.eurojobs.com/signin.handler?useCase=login)  
-2\. If you have not registered previously please [click here](https://web.archive.org/web/20070623035144id_/http%3A//www.eurojobs.com/canRegisterTemplate.jsp).  
+[click here.](https://web.archive.org/web/20071214152722id_/http%3A//www.eurojobs.com/signin.handler?useCase=login)  
+2\. If you have not registered previously please [click here](https://web.archive.org/web/20071214152722id_/http%3A//www.eurojobs.com/canRegisterTemplate.jsp).  
 Registration will enable you to benefit form the Eurojobs advanced CV submission and application interface.   
   |   
 ---|---  
   
-My CV[](https://web.archive.org/web/20070623035144id_/http%3A//www.eurojobs.com/login.jsp)  
+My CV[](https://web.archive.org/web/20071214152722id_/http%3A//www.eurojobs.com/login.jsp)  
 ---  
-Submit your CV by enterring your details into our online form, you can also attach a covering letter and a current photograph[](https://web.archive.org/web/20070623035144id_/http%3A//login.jsp).  
+Submit your CV by enterring your details into our online form, you can also attach a covering letter and a current photograph[](https://web.archive.org/web/20071214152722id_/http%3A//login.jsp).  
 Please note: Candidates cannot apply for jobs without a CV.  
   |   
 ---|---  
   
-My Jobs[](https://web.archive.org/web/20070623035144id_/http%3A//www.eurojobs.com/login.jsp)  
+My Jobs[](https://web.archive.org/web/20071214152722id_/http%3A//www.eurojobs.com/login.jsp)  
 ---  
 Manage your Job seeking process: exchange comments with the recruiters, check your place in the recruitment process, apply directly for jobs, respond to offers and more.  
   |   
 ---|---  
   
-Edit Details[](https://web.archive.org/web/20070623035144id_/http%3A//www.eurojobs.com/login.jsp)  
+Edit Details[](https://web.archive.org/web/20071214152722id_/http%3A//www.eurojobs.com/login.jsp)  
 ---  
 Change your registration details. e.g. change your password. To maintain your security.  
   |   
 ---|---  
   
-My Searches[](https://web.archive.org/web/20070623035144id_/http%3A//www.eurojobs.com/login.jsp)  
+My Searches[](https://web.archive.org/web/20071214152722id_/http%3A//www.eurojobs.com/login.jsp)  
 ---  
 Holds any saved vacancy searches you may wish to repeat - As your job requirements often do not change but advertised vacancies do. Edit / remove saved searches.  
   |   
 ---|---  
   
-MailBot[](https://web.archive.org/web/20070623035144id_/http%3A//www.eurojobs.com/login.jsp)  
+MailBot[](https://web.archive.org/web/20071214152722id_/http%3A//www.eurojobs.com/login.jsp)  
 ---  
 Auomatically receive notification by email of new jobs that match your desired parameters.  
   |   
 ---|---  
   
-Privacy Settings[](https://web.archive.org/web/20070623035144id_/http%3A//www.eurojobs.com/login.jsp)  
+Privacy Settings[](https://web.archive.org/web/20071214152722id_/http%3A//www.eurojobs.com/login.jsp)  
 ---  
 Automatically hide specific information from recruiters. You control what they see. e.g. your current employer.  
   |   
@@ -57,7 +57,7 @@ Automatically hide specific information from recruiters. You control what they s
 Register  
 ---  
 1\. If you have aready registered please  
-[click here.](https://web.archive.org/web/20070623035144id_/http%3A//www.eurojobs.com/signin.handler?useCase=login)  
+[click here.](https://web.archive.org/web/20071214152722id_/http%3A//www.eurojobs.com/signin.handler?useCase=login)  
 2\. If you have not registered previously please [click here](https://web.archive.org/recRegisterTemplate.jsp).  
 Registration will enable you to post Job Adverts, browse candidates and manage your search and selection processes.   
   |   
