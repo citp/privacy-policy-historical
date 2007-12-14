@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theclassifieds.co.za privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626202036id_/http%3A//www.theclassifieds.co.za/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theclassifieds.co.za privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214113531id_/http%3A//www.theclassifieds.co.za/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -78,7 +78,7 @@ It is possible that TheClassifieds and/or any of our assets may be acquired in a
 
 ## 11\. Contact Information
 
-If the User has any questions about this Privacy Statement or about TheClassifieds's information collection practices, please contact us at [info@theclassifieds.co.za](https://web.archive.org/web/20070626202036id_/http%3A//www.theclassifieds.co.za/info@theclassifieds.co.za?Subject=Privacy%20Policy)
+If the User has any questions about this Privacy Statement or about TheClassifieds's information collection practices, please contact us at [info@theclassifieds.co.za](https://web.archive.org/web/20071214113531id_/http%3A//www.theclassifieds.co.za/info@theclassifieds.co.za?Subject=Privacy%20Policy)
 
 ## 12\. Terms
 
@@ -86,4 +86,4 @@ If the User has any questions about this Privacy Statement or about TheClassifie
 
 12.2 The terms "we" and "TheClassifieds" are used interchangeably and refer to TheClassifieds itself and all individuals and/or entities acting directly on behalf of TheClassifieds.
 
-Copyright ©2006, 2007 TheClassifieds, All rights reserved Last updated: 20 Mar 2007
+Copyright ©2006, 2007 TheClassifieds, All rights reserved Last updated: 30 Sep 2007
