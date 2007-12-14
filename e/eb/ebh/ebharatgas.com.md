@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebharatgas.com privacy policy that was archived on 2007-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070514023405id_/http%3A//www.ebharatgas.com/ebgas/pages/customer/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebharatgas.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214234340id_/http%3A//ebharatgas.com/ebgas/pages/customer/privacy.jsp) for the most accurate reproduction.*
 
 # ebharatgas.com
 
