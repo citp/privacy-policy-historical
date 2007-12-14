@@ -1,15 +1,18 @@
-> *The following text is extracted and transformed from the cyberguys.com privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613131319id_/http%3A//www.cyberguys.com/templates/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyberguys.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214195950id_/http%3A//www.cyberguys.com/templates/Privacy.asp) for the most accurate reproduction.*
 
 # Cyberguys.com - Privacy and Security
 
+|   
+---  
+[](https://www.cyberguys.com/MyAccount/MyCatalog.asp?ureq=Y)  
   
-| 
-
 |   
 ---  
   
 |  Privacy and Security  
 ---  
+  
+[](http://www.cyberguys.com/templates/SearchProducts.asp?categoryID=29)  
   
 ---  
 This is the web site of Cyberguys!®  
@@ -53,14 +56,4 @@ We take privacy and security matters very seriously and it is important to us th
 12. | Upon request, we provide site visitors with access to financial information (e.g., credit card account information) that we maintain about them, unique identifier information (e.g., customer number or password) that we maintain about them, transaction information (e.g., dates on which customers made purchases, amounts and types of purchases) that we maintain about them, contact information (e.g., name, address, phone number) that we maintain about them.  
 13. | Consumers can access the information we maintain from them by writing to us at the above address.  
 14. | Upon request we offer visitors the ability to have inaccuracies corrected in contact information, financial information, and transaction information.  
-15. | Consumers can have this information corrected by calling us at the above telephone number, writing to us at the above address.  
-  
-|   
----  
-|  My Account |  |   
----|---|---  
-|   
----  
-[](http://www.cyberguys.com//templates/subscribe.asp "Buyers Club Sign Up")  
----  
-[](http://www.cyberguys.com/templates/quickorder.asp?entry=Y "Our Quick Order page is a fast and easy way to order items directly.")
+15. | Consumers can have this information corrected by calling us at the above telephone number, writing to us at the above address.
