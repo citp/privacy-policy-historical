@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cameta.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623042114id_/http%3A//secure.cameta.com/index.cfm%3Ffa%3Ddisplay.privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cameta.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214112047id_/http%3A//secure.cameta.com/index.cfm%3Ffa%3Ddisplay.privacy) for the most accurate reproduction.*
 
 # Cameta Camera - Privacy
 
