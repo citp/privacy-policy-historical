@@ -1,19 +1,16 @@
-> *The following text is extracted and transformed from the mathworks.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629114514id_/http%3A//www.mathworks.com/company/aboutus/policies_statements) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mathworks.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214084038id_/http%3A//www.mathworks.com/company/aboutus/policies_statements) for the most accurate reproduction.*
 
 # The MathWorks - Company - About Us - Policies&Statements
 
-|  About The MathWorks   
----  
-[Overview](https://web.archive.org/company/aboutus/index.html)  
-[Founders](https://web.archive.org/company/aboutus/founders/)  
-[Mission & Values](https://web.archive.org/company/aboutus/mission_values/)  
-[Products](https://web.archive.org/company/aboutus/products.html)  
-[Social Mission](https://web.archive.org/company/aboutus/soc_mission/)  
-[Company Photo Album](https://web.archive.org/company/aboutus/album/)  
-[Policies & Statements](https://web.archive.org/company/aboutus/policies_statements/)  
-[Locations & Directions](https://web.archive.org/company/aboutus/directions.html)  
-[Contact Us](https://web.archive.org/company/aboutus/contact_us/)  
-  
+  * Privacy Policy
+  * [Certifications and Representations](https://web.archive.org/company/aboutus/policies_statements/cert_rep.html)
+  * [Tax ID & Addresses](https://web.archive.org/company/aboutus/policies_statements/taxid.html)
+  * [Patents](https://web.archive.org/company/aboutus/policies_statements/patents.html)
+  * [Trademarks](https://web.archive.org/company/aboutus/policies_statements/trademarks.html)
+  * [Preventing Software Piracy](https://web.archive.org/company/aboutus/policies_statements/piracy.html)
+
+
+
 ## Privacy Policy for www.mathworks.com
 
 At The MathWorks, we believe it is your right to know what information we collect, how we use it, and what your options are for its use. Below you can find details about:
@@ -66,3 +63,10 @@ The MathWorks may make improvements or changes in the information, services, pro
 _If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this Web site, you can contact[webmasters@mathworks.com](mailto:webmasters@mathworks.com)._
 
 Updated 07/31/06
+
+| 
+
+|  [](https://web.archive.org/company/aboutus/contact_us/contact_sales.html) | [Contact sales](https://web.archive.org/company/aboutus/contact_us/contact_sales.html)  
+---|---  
+| E-mail this page  
+| Print this page
