@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musicmazaa.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624021706id_/http%3A//musicmazaa.com/docs/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicmazaa.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214082112id_/http%3A//musicmazaa.com/docs/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy - MusicMazaa
 
