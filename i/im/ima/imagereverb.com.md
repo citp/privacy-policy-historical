@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the imagereverb.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629012246id_/http%3A//www.imagereverb.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imagereverb.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214080751id_/http%3A//www.imagereverb.com/privacy.php) for the most accurate reproduction.*
 
-# 18 U.S.C. Section 2257 Compliance Notice
+# ImageREVERB
 
 Privacy Notice  
+---  
   
 **ImageReverb** (�ImageReverb�) recognizes that its customers, visitors, users, and others who use www.ImageReverb.com or other web sites owned or operated by Evil Sheep Entertainment (the �Evil Sheep Entertainment Sites�) (collectively or individually �Users�) value their privacy. This Privacy Notice details important information regarding the use and disclosure of User information collected on the ImageReverb Sites. ImageReverb provides this Privacy Notice to help you make an informed decision about whether to use or continue using the Evil Sheep Entertainment Sites. This Privacy Notice is incorporated into and is subject to the ImageReverb Terms of Use. Your use of the ImageReverb Sites and any personal information you provide on the ImageReverb Sites remains subject to the terms of this Privacy Notice and our Terms of Use. Please note that any video, image, or other content posted at the direction of Users onto the ImageReverb Sites becomes published content and is not considered personally identifiable information subject to this Privacy Notice.   
   
@@ -70,7 +71,16 @@ You should consult the respective privacy policies of these third-party ad serve
   
 Currently, ImageReverb has relationships with the following third-party ad servers or ad networks:  
   
-  *   *   * 
+  * **Adult AdWorld**  
+<http://www.adultadworld.com/privacy.html>
+
+  * **Clicksor, Inc.**  
+<http://www.clicksor.com/privacypolicy.php>
+
+  * **AVNads, Inc.**  
+<http://www.adbrite.com/mb/privacy.php>
+
+
   
 Our Commitment To Data Security:  
   
