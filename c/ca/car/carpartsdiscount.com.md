@@ -1,12 +1,7 @@
-> *The following text is extracted and transformed from the carpartsdiscount.com privacy policy that was archived on 2007-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070203010634id_/http%3A//www.carpartsdiscount.com/privacy.cgis) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carpartsdiscount.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214135457id_/http%3A//www.carpartsdiscount.com/privacy.cgis) for the most accurate reproduction.*
 
-# Privacy Policy
+# Car Parts Discount, Inc. Privacy Policy
 
-|  |  |  | [](http://carpartsdiscount.com/) | [](http://carpartsdiscount.com/category/parts) | [](http://carpartsdiscount.com/category/accessories) | [](http://carpartsdiscount.com/category/specials) | [](http://carpartsdiscount.com/about_us.cgis) | [](http://carpartsdiscount.com/contact_us.cgis)  
----|---|---|---|---|---  
-|  | 
-
-  
 **About this Privacy Policy:**  
     The entire site, or at least specific portions of this site are assisted by Zoovy technology. Zoovy has created this privacy policy as a template for customers who are using Zoovy technology with their websites. Zoovy in no way takes responsibility for the accuracy or enforcement of this policy. For a copy of Zoovy's privacy policy (which does not necessarily apply to the customers of its customers) visit http://www.zoovy.com/legal  
   
@@ -46,8 +41,9 @@ We provide the ability to Correct/Update YOUR information.
 
 Contacting the Web Site
 
-    If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:   
-| By Mail: |  Car Parts Discount, Inc.  
+    If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
+
+By Mail: |  Car Parts Discount, Inc.  
 P.O. Box 940881Simi ValleyCA93094  
   
 ---|---  
