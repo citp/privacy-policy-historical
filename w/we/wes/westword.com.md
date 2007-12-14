@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the westword.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429055843id_/http%3A//www.westword.com/about/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westword.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214170631id_/http%3A//westword.com/about/policy.php) for the most accurate reproduction.*
 
-# Denver - - westword.com
+# Denver -
 
 Parent of _Westword_ and westword.com 
 
@@ -39,5 +39,3 @@ Our Site is published in the United States. U.S. law shall govern in any and all
 In the event of a sale of Westword or a sale of substantially all Westword's assets, the email database and all user information shall accrue to the new owners. Your personally identifiable information will continue to be governed by this Privacy Policy, as it may be amended from time to time. 
 
 If you have any questions about this privacy policy, e-mail them to [privacyadministrator@villagevoicemedia.com](mailto:privacyadministrator@villagevoicemedia.com), and be sure to indicate the specific site you're visiting and the nature of your question or concern. If your personally identifiable information changes, you may correct and/or update it by sending us an email at [web@westword.com](mailto:web@westword.com). 
-
-| 
