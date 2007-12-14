@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mumbaitheatreguide.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607233839id_/http%3A//www.mumbaitheatreguide.com/dramas/legal/privacy_statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mumbaitheatreguide.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214172056id_/http%3A//www.mumbaitheatreguide.com/dramas/legal/privacy_statement.asp) for the most accurate reproduction.*
 
 # Privacy Policy : www.MumbaiTheatreGuide.com
 
@@ -26,6 +26,7 @@ www.mumbaitheatreguide.com contains many links to other sites. www.mumbaitheatre
 
 **Unsubscribe**
 
-If you do not wish to receive future communications from us, you can send an email to: subscribe@mumbaitheatreguide.com
+If you do not wish to receive future communications from us,   
+kindly Click Here
 
 If you have any questions about this privacy policy, the practices of this site, or your dealings with www.mumbaitheatreguide.com, please write to: response@mumbaitheatreguide.com 
