@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pluralsight.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629051657id_/http%3A//www.pluralsight.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pluralsight.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214094757id_/http%3A//www.pluralsight.com/privacy.aspx) for the most accurate reproduction.*
 
 # Pluralsight - Premier Microsoft .NET Training: Privacy
 
