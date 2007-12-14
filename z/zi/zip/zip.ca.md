@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zip.ca privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609034933id_/http%3A//www.zip.ca/ContentViewer.aspx%3Fktid%3D%25009%26kid%3D%25001%25009%25007%26pt%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zip.ca privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214170522id_/http%3A//www.zip.ca/ContentViewer.aspx%3Fktid%3D%25009%26kid%3D%25001%25009%25007%26pt%3D) for the most accurate reproduction.*
 
 # 
 
