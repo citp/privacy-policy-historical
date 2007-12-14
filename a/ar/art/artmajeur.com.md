@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artmajeur.com privacy policy that was archived on 2007-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070410184939id_/http%3A//www.artmajeur.com/%3Fgo%3Dpages/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artmajeur.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214165827id_/http%3A//www.artmajeur.com/%3Fgo%3Dpages/legal/privacy) for the most accurate reproduction.*
 
 # Privacy
 
