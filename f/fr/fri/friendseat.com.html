@@ -1,9 +1,10 @@
-<!--The following is the downloaded HTML source of the friendseat.com privacy policy that was archived on 2007-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070629154353id_/http%3A//friendseat.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the friendseat.com privacy policy that was archived on 2007-12-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071214075941id_/http%3A//friendseat.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>Privacy Policy</title>
+<base href="http://friendseat.com/">
 <link href="stylesheet/screen.css" rel="stylesheet" type="text/css">
 <link rel="stylesheet" type="text/css" href="popup_style.css">
 <link rel="stylesheet" type="text/css" href="subModal.css">
@@ -202,13 +203,14 @@ function close_openwindow()
               <div class="log_in"> 
                 <label>Email ID</label>
                 <div class="field_column"> 
-                  <input type="text" name="uname" class="textfield" id="uname" value="">
-                  <!--<a href="#" onClick="user_signup()">--><a href="user_signup.php">Join for Free »</a> </div>
+                  <input type="text" name="uname" class="textfield" id="uname" value="" tabindex="1">
+                  <a href="user_signup.php">Foodies? Join for Free »</a> </div>
                 <label>Password</label>
                 <div class="field_column"> 
-                  <input type="password" name="upass" class="textfield" id="upass" value="">
-                  <a href="#" onclick="lost_password();">Forgot your password? »</a> </div>
-                <input name="Login" type="image" value="Login" src="images/btn_login.jpg" alt="Login">
+                  <input type="password" name="upass" class="textfield" id="upass" value="" tabindex="2">
+                  <!--<a href="#" onclick="lost_password();">Forgot your password? »</a> -->
+				  <a href="javascript: void(0);">Forgot your password? »</a></div>
+                <input name="Login" type="image" value="Login" src="images/btn_login.jpg" alt="Login" tabindex="3">
               </div>
               </fieldset>
             </form>
@@ -217,16 +219,12 @@ function close_openwindow()
         </div>
         <div id="navigation"> 
           <ul class="nav_bar">
-            <li class="home"><a href="index.php"><em title="Home"></em>Home</a></li>
-			<li class="blog"><a href="blog_home.php"><em title="Blog"></em>Blog</a></li>
-            <li class="recipes"><a href="recipes_home.php"><em title="Recipes"></em>Recipes</a></li>
-		    <li class="shop"><a href="shop.php"><em title="Shop"></em>Shop</a></li>
-           	<li class="talk"><a href="foodietalk.php"><em title="Talk"></em>Talk</a></li>
-           <!-- <li class="tv"><a href="#" onClick="login_msg()"><em title="TV"></em>TV</a></li> -->
-            <li class="events"><a href="event.php"><em title="Events"></em>Events</a></li>
-            <!--<li class="top_food"><a href="topfood.php"><em title="Top Food"></em>Top Food</a></li> -->
-            <li class="foodie_search"><a href="foodiesearch.php"><em title="Foodie Search"></em>Foodie 
-              Search</a></li>
+            <li class="home"><a href="http://friendseat.com/"><em title="Home"></em>Home</a></li>
+			<li class="recipes"><a href="recipes"><em title="Recipes"></em>Recipes</a></li>
+			<li class="video"><a href="videos"><em title="Video"></em>Video</a></li>
+			<li class="blog"><a href="blog"><em title="Blog"></em>Blog</a></li>
+			<li class="talk"><a href="talk"><em title="Talk"></em>Talk</a></li>
+			 <li class="foodie_search"><a href="search"><em title="Foodie Search"></em>Foodie Search</a></li>
           </ul>
         </div>
         <!-- / END NAVIGATION -->
@@ -234,21 +232,21 @@ function close_openwindow()
         <div id="search_box"> 
           <div class="tabs"> 
             <ul>
-              <li><a href="#">Restaurants</a></li>
+              <li><a href="javascript: void(0)">Restaurants</a></li>
               <li><a href="javascript:showdiv('search_box_recipe','search_box')" class="current">Recipes</a></li>
             </ul>
           </div>
           <form name="frmSearch" action="restaurant_search.php" method="get" onsubmit="return search_box_check()">
             <fieldset>
             <div class="field_column search_for"> 
-              <label class="label_search_for replace"><em title="Search For"></em>Search For</label>
-              <input type="text" name="txtName" class="textfield" value="">
+              <label class="label_search_for replace"><em title="Search For"></em>Search For (Restaurants) </label>
+              <input type="text" name="txtName" class="textfield" value="" tabindex="4">
             </div>
             <div class="field_column location"> 
               <label class="label_location1 replace"><em title="Location"></em>Location</label>
-              <input type="text" name="txtLocation" class="textfield" value="">
+              <input type="text" name="txtLocation" class="textfield" value="" tabindex="5">
             </div>
-            <input type="image" value="Go" src="images/btn_search_go.jpg" alt="Go" class="button">
+            <input type="image" value="Go" src="images/btn_search_go.jpg" alt="Go" class="button" tabindex="6">
             <input type="hidden" name="search_upon">
 			</fieldset>
           </form>
@@ -265,7 +263,7 @@ function close_openwindow()
 			  </div>
 			  <div class="tabs_1">
 				<ul>
-				  <li><a href="#">Recipes</a></li>
+				  <li><a href="javascript: void(0);">Recipes</a></li>
 				</ul>
 			  </div>
 			</div>
@@ -280,9 +278,9 @@ function close_openwindow()
             <fieldset>
             <div class="field_column search_for">
               <label class="label_search_for1 replace"><em title="Search For"></em>Search For</label>
-              <input type="text" name="txtRecipe" class="textfield" value="">
+              <input type="text" name="txtRecipe" class="textfield" value="" tabindex="7">
             </div>
-            <input name="" type="image" value="Go" src="images/btn_search_go2.jpg" alt="Go" class="button">
+            <input name="" type="image" value="Go" src="images/btn_search_go2.jpg" alt="Go" class="button" tabindex="8">
             </fieldset>
           </form>
         </div>
@@ -383,21 +381,28 @@ function showdiv(showValue,hideValue)
     <div id="footer1">
     <div class="wrapper"><div class="adbox">
 <literal>
-<script language="JavaScript" type="text/javascript" src="http://69.64.79.17/adserver/adx.js"></script>
-<script language="JavaScript" type="text/javascript">
+<!-- Begin Adify tag for "728x90" Ad Space (728x90) ID #962907 -->
+<script type="text/javascript">
 <!--
-   if (!document.phpAds_used) document.phpAds_used = ',';
-   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
-   
-   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
-   document.write ("http://69.64.79.17/adserver/adjs.php?n=" + phpAds_random);
-   document.write ("&amp;what=zone:1");
-   document.write ("&amp;exclude=" + document.phpAds_used);
-   if (document.referrer)
-      document.write ("&amp;referer=" + escape(document.referrer));
-   document.write ("'><" + "/script>");
-//-->
-</script><script language="JavaScript" type="text/javascript" src="http://69.64.79.17/adserver/adjs.php?n=259212982&amp;what=zone:1&amp;exclude=,"></script><noscript><a href='http://69.64.79.17/adserver/adclick.php?n=a073eeeb' target='_blank'><img src='http://69.64.79.17/adserver/adview.php?what=zone:1&amp;n=a073eeeb' border='0' alt=''></a></noscript>
+	sr_adspace_id = 962907;
+	sr_adspace_width = 728;
+	sr_adspace_height = 90;
+	sr_adspace_type = "graphic";
+	sr_color_back = "#FFFFFF";
+	sr_color_text = "#000000";
+	sr_color_url = "#E15F00";
+	sr_color_title = "#3F66B3";
+	sr_color_border = "#3366CC";
+	sr_color_your_ad = "#2852A3";
+	sr_color_your_adbk = "#FFDD81";
+	sr_ad_new_window = true;
+	
+-->
+</script>
+<script type="text/javascript" src="http://ad.afy11.net/srad.js?azId=962907">
+</script>
+<script type="text/javascript">srExecute();</script>
+<!-- End Adify tag for "728x90" Ad Space (728x90) ID #962907 -->
 </literal>
 </div>
 	 </div>
@@ -406,14 +411,11 @@ function showdiv(showValue,hideValue)
 	<p>Site Links</p>
 	<ul>
 <li>
-	<a href="index.php">Home</a>
+	<a href="http://friendseat.com/">Home</a>
 	</li>
-<li><a href="blog_home.php">Blog</a></li>
-<li><a href="recipes_home.php">Recipes</a></li>
-<li><a href="terms.php">Terms of Use</a>, <a href="privacy.php">Privacy </a></li>
-<li>
-	<a href="#" onclick="login_msg()">Change your location</a>
-	</li>
+<li><a href="http://blog.friendsEAT.com">Blog</a></li>
+<li><a href="terms">Terms of Use</a></li>
+<li><a href="privacy">Privacy Policy </a></li>
 	
 	</ul>
 	
@@ -421,19 +423,24 @@ function showdiv(showValue,hideValue)
 	<div class="before">
 	<p>About FriendsEAT</p>
 	<ul>
-<li><a href="aboutus.php">About US</a> &amp; <a href="contactus.php">Contact</a></li>
-<li><a href="journalist.php">For Journalist</a></li>
-<li><a href="faq.php">FAQs</a></li>
-<li><a href="contactus.php">Report a Website Bug </a></li>
+<li><a href="aboutus">About US</a> &amp; <a href="contactus">Contact</a></li>
+<li><a href="journalist">For Journalist</a></li>
+<li><a href="faq">FAQs</a></li>
+<li><a href="contactus">Report a Website Bug </a></li>
 	</ul>
 	</div>
 	
 	<div class="before">
-	<p>FriendsEat Tools</p>
+	<p>FriendsEAT Tools</p>
 	<ul>
-<li><a href="user_invitefriend.php">Invite Friends</a></li>
+<li><a href="javascript: void(0);">Invite Friends</a></li>
 
+	<li><a href="badge">Link to FriendsEAT</a></li>
+	<li><a href="sitemap.php">Sitemap</a></li>
 	</ul>
+	<li>
+	<a href="javascript: void(0);" onclick="OpenDhtmlPopup('','foodie/','login')">Change your location</a>
+	</li>
 	
 	</div>
 	<div class="before">
@@ -441,24 +448,24 @@ function showdiv(showValue,hideValue)
 	<ul>
 <li><a href="http://en.wikipedia.org/wiki/Food" target="_blank">Wikipedia.org</a></li>
 	
+	<li><a href="http://friendseat.com/recent_search_view_all.php">Recent Searches</a> </li>
 	</ul>
 	</div>
 	
 	<div class="before">
 	
 	<p>Advertise</p>
-	<span>You can advertise on</span> <span>FriendsEAT</span><br>
+	Are you a
 	
 	
-	
-    	<a href="https://adwords.google.com/select/OnsiteSignupLandingPage?client=ca-pub-4580658692353634&amp;referringUrl=http://www.FriendsEAT.com">Restaurants</a>	| <a href="contactus.php">Advertisers</a>
-	
- </div>
+    	<a href="contactus">Restaurant</a>	or <a href="https://app.adify.com/Storefront/Storefront.aspx?p=1&amp;id=625410&amp;theme=Standard">Advertiser</a>?<br>
+        <br>
+        Want to display your <a href="events">events</a>?</div>
 	<div class="last">
 	
-	<p>FriendsEat Store</p>
+	<p>FriendsEAT Store</p>
 	<ul>
-<li><a href="shop.php">Find amazing culinary and
+<li><a href="shop">Find amazing culinary and
 home products to enhance your
 kitchen.</a></li>
 
@@ -467,7 +474,9 @@ kitchen.</a></li>
 	</div>
 	
     </div>
-	<div class="wrapper"><div class="wrappercopyright"><strong>Copyright 2007.</strong> All rights reserved. </div></div>
+	<div class="wrapper">
+	  <div class="wrappercopyright"><strong>Copyright 2007.</strong> <a href="http://binarybits.com">Binary Bits, LLC</a>. </div>
+	</div>
   </div>
   <hr>
    
@@ -493,17 +502,33 @@ var sc_security="50460347";
 <script type="text/javascript" language="javascript" src="http://www.statcounter.com/counter/counter.js"></script><noscript><a href="http://www.statcounter.com/" target="_blank"><img  src="http://c24.statcounter.com/counter.php?sc_project=2448802&java=0&security=50460347&invisible=0" alt="blog counter" border="0"></a> </noscript>
 <!-- End of StatCounter Code -->
 
+<!-- Start Clicktracks tag -->
+<script type="text/javascript">
+	document.write('<'
+		+ 'script type="text/javascript" src="'
+		+ document.location.protocol
+		+ '//stats.clicktracks.com/cgi-bin/ctasp-server.cgi'
+		+ '?i=vnYiJAEPjqfiAS'
+		+ '&c='+escape(document.cookie)
+		+ '&fp=.http://friendsEAT.com'
+		+ '"></'+'script>');
+</script><script type="text/javascript" src="https://stats.clicktracks.com/cgi-bin/ctasp-server.cgi?i=vnYiJAEPjqfiAS&amp;c=&amp;fp=.http://friendsEAT.com"></script><noscript><img src="https://stats.clicktracks.com/cgi-bin/ctasp-server.cgi?i=vnYiJAEPjqfiAS&g=1" alt="Web Analytics" border=0></noscript>
+<!-- End Clicktracks tag -->
+
 <!-- Start Quantcast tag -->
 <script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
-<script type="text/javascript">
-_qacct="p-a6UQfgu6B5e66";quantserve();</script>
+<script type="text/javascript">_qacct="p-a6UQfgu6B5e66";quantserve();</script>
 <noscript>
-<img src="http://pixel.quantserve.com/pixel/p-a6UQfgu6B5e66.gif" style="display: none" height="1" width="1" alt="Quantcast"/></noscript>
+<a href="http://www.quantcast.com/p-a6UQfgu6B5e66" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-a6UQfgu6B5e66.gif" style="display: none" border="0" height="1" width="1" alt="Quantcast"/></a>
+</noscript>
 <!-- End Quantcast tag -->
+
+
 
 
      <hr>
   <!-- / END FOOTER -->
 </div>
 
-<div id="popupMask"></div><div id="popupContainer"><div id="popupInner"><div id="popupTitleBar"><div id="popupTitle"></div><div id="popupControls"><img src="cross.gif" onclick="close_openwindow();"></div></div><iframe src="loading.html" style="width:100%;height:100%;background-color:transparent;" scrolling="auto" frameborder="0" allowtransparency="true" id="popupFrame" name="popupFrame" width="100%" height="100%"></iframe></div></div></body></html>
+
+</body></html>
