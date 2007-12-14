@@ -1,0 +1,40 @@
+> *The following text is extracted and transformed from the bocajava.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214111053id_/http%3A//www.bocajava.com/bocajava/getPage.do%3Fpage%3DPrivacyPolicyNew%26page%3DPrivacyPolicy) for the most accurate reproduction.*
+
+# Gourmet Coffee - Gourmet Tea, Espresso, and Coffee Gifts by BocaJava
+
+Boca Java Privacy Policy 
+
+Overview    
+When you visit Boca Java at bocajava.com, you can rest assured that any information that you provide to us in the delivery of the products and services you purchase from us will be carefully protected and secured. When you purchase, your credit card information is encrypted, and your personally identifiable information remains confidential.   
+Following are additional details regarding our privacy policy. Boca Java reserves the right to change this privacy policy at any time. Please be sure to check back to this page periodically for updates. If you use any services available from Boca Java, you are agreeing to the following terms:   
+When you register with Boca Java, we ask you for personal information. We use this information to process your orders and to communicate with you about the status of your orders. We also use your email address to send you reminders of upcoming order deliveries, updates of new products, newsletters to which you subscribed during registration, as well as messages about Boca Java special offers, promotional announcements and consumer surveys. 
+
+Information Collection and Usage   
+When you first register at Boca Java, we ask for your email address and a password. At that time, we subscribe you email communication. Within every email that you may receive from Boca Java, you have the opportunity to unsubscribe. You may also unsubscribe by going to the ?Contact Us? page, and submitting a request.   
+When you place your first order for Boca Java products or services, we ask you for your full name, physical mailing address, telephone number and credit card number so we can ship your order to you. This information is also stored to maintain your order history to enable us to send you reminder notices regarding upcoming deliveries, if you are a coffee club member, to allow you time to update your order and change the delivery date, and to help make future ordering easier for you. We use your telephone number only if there is an order-related issue, not for marketing purposes. If you want to view, update your address or change credit cards, please go to ?My Account?/My Profile to make changes at any time. You must be signed in to access ?My Account,? which is another safeguard.   
+Boca Java also offers an Affiliate program, where affiliate members direct customers to Boca Java through links on their Web sites. We carefully evaluate affiliates who apply before accepting them. We ask affiliates for their site name (URL), mailing address, primary contacts, payment information, and other site-related information to determine whether a site will be included in our Affiliate Network. The information collected from our affiliates is not used for general marketing purposes.   
+Boca Java encourages users to limit the personal information provided only to the specific information requested. 
+
+Cookies   
+As you browse the Boca Java site, cookies are placed on your computer's hard drive. (Cookies are small pieces of data that are sent to your browser from a Web server and stored on your hard drive.) Cookies allow us to track the items you select, and help us match your address and credit card information with your order so you don't need to retype the information each time you visit our site.   
+We also use cookies to gather usage information, such as the number and frequency of overall visitors to our site and its various pages. Third parties may serve some of these cookies. We analyze this data to determine which parts of our site are helpful to our customers and which sections need improvement. Aggregated information is also used to analyze trends and to administer and maintain the site. 
+
+  
+
+
+Disclosure   
+Except as described in this section, we will not sell, rent or disclose your personally identifiable information to third parties without your express authorization.   
+From time to time, we work with other companies and their agents to perform operational services, such as website design, payment processing, database management and to implement customer surveys to measure satisfaction and to identify new needs. We also provide postal addresses to the U.S. Post Office for delivery purposes. In the course of providing such services, these companies may have contact with your personally identifiable information. By contractual agreement, these companies are required to comply with this Policy. Boca Java is not liable for any damages that may result from misuse of your personal information by these companies.   
+Periodically, we may partner with companies whose products may be of interest to our users. In conjunction with these partners, we occasionally send promotional announcements to all or a portion of our customers. Any email communication that you receive from Boca Java or a partner will include a link at the bottom for you to click and unsubscribe. You may also go to the ?Contact Us? page to request removal from the subscriber list. In the event that we work with a vendor to carry out these mailings, your personally identifiable information will not be seen by this vendor, and it will not be used by this vendor to contact you directly.   
+Any exceptions to this policy of sharing your name, address, email address and/ or credit card information with a partner company would only be done with your permission. Boca Java also reserves the right to disclose information when required by law.   
+We also conduct analysis of our users to better understand member needs, to guide product development and to enhance customer service. This aggregate information, and never individual information, may also be shared with prospective partners, advertisers and other third parties. We may also disclose, on an anonymous basis, verbatim statements made by our customers. At no time, however, will personal information be disclosed when these statements are shared. 
+
+Security and Access   
+When you provide personal information to us, we use a secure server (SSL) to encrypt all of your personal information to protect against unauthorized access.   
+You can access ?My Account? from several locations throughout the site to update your name, email address, password, postal address, credit cards, and mailing list preferences. Please note that you must be signed in to Boca Java to access this information for additional protection.   
+We have implemented technology and security features, as well as strict internal guidelines, to safeguard the privacy of your personal information from unauthorized access or improper use. We will continue to enhance our security procedures as new technology becomes available. While we make every effort to ensure that your information is secure on our system, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, we cannot guarantee the security of any information you transmit to us, and you do so at your own risk. 
+
+Contact   
+If you have questions concerning your account, please contact Boca Java Member Service at 1-888-BOCA JAVA. If you have any questions regarding our privacy practices, you can email us in the space provided on the ?Contact Us? page.   
+You can call us at 1-888-BOCA-JAVA (1-888-262-2528) send us a fax at 1-954-421-1520, or you can write to us at Boca Java Customer Service, 730 South Powerline Rd., Suite D, Deerfield Beach, FL 33442.   
+_Updated: October, 2006_
