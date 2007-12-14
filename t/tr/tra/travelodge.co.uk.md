@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelodge.co.uk privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625211552id_/http%3A//www.travelodge.co.uk/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelodge.co.uk privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214190037id_/http%3A//www.travelodge.co.uk/privacy_policy) for the most accurate reproduction.*
 
 # Travelodge - Privacy policy
 
