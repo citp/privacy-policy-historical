@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the proz.com privacy policy that was archived on 2007-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070502133600id_/http%3A//www.proz.com%3Fsp%3Dinfo/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proz.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214180239id_/http%3A//www.proz.com%3Fsp%3Dinfo/privacy) for the most accurate reproduction.*
 
 # Translation services, translation jobs, and freelance translators
 
-ProZ.com Privacy Statement
+## ProZ.com Privacy Statement
 
 This privacy statement discloses the privacy practices for ProZ.com. ProZ.com will not sell, share, or rent information collected to others in ways different from what is disclosed in the following statement. 
 
@@ -42,7 +42,11 @@ ProZ.com does share aggregated demographic information with our partners and adv
 
 Apart from the desired username, which appears on each profile page and elsewhere throughout the site, the information collected by ProZ.com is not shared with anyone without permission. 
 
-**Security of the information**
+**3rd Party Communication Setting**
+
+ProZ.com offers to members the opportunity to receive special offers from select, approved translation industry partners. If you select to receive this information your email address will not be disclosed. All offers will be submitted through the ProZ.com email server, or an approved distribution center. Offers will be limited to no more than one email per week, and all offers will be sent with clear and conspicuous opt out instructions. If at any time a user wishes to opt out they can simply change their profile settings for 3rd party communication. Or by visiting [www.proz.com/remove](https://web.archive.org/remove)
+
+ **Security of the information**
 
 ProZ.com has attempted to create a database that is secure from theft. In order to collect the personal information listed above, it would be necessary for a thief to bypass password protections, etc., that have been put in place to protect user information. 
 
