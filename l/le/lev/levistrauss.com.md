@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the levistrauss.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624092625id_/http%3A//www.levistrauss.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the levistrauss.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215002351id_/http%3A//www.levistrauss.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Levi Strauss & Co. - Privacy
 
@@ -70,7 +70,7 @@ This website is not directed towards children. Levi Strauss & Co. does not knowi
 
 ## What Steps Are Taken To Keep Personal Information Secure?
 
-Information you provide to us is protected from public access by a password that you provide upon registration on one of our brand-focused websites. In order to help protect your personal information further, you should be careful about providing your password to others. If you wish to cancel your password, or if you become aware of any loss, theft or unauthorized use of your password, please [click here](https://web.archive.org/web/20070624092625id_/http%3A//www.levistrauss.com/Company/ContactUs.aspx) to contact our Customer Service Department. 
+Information you provide to us is protected from public access by a password that you provide upon registration on one of our brand-focused websites. In order to help protect your personal information further, you should be careful about providing your password to others. If you wish to cancel your password, or if you become aware of any loss, theft or unauthorized use of your password, please [click here](https://web.archive.org/web/20071215002351id_/http%3A//www.levistrauss.com/Company/ContactUs.aspx) to contact our Customer Service Department. 
 
 ## How Can I Access, Correct and Update Personal Information?
 
