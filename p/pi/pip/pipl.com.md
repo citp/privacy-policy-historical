@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pipl.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625193437id_/http%3A//pipl.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pipl.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214122843id_/http%3A//pipl.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Pipl
+# Privacy Policy - Pipl - People Search
 
 |   
   
@@ -37,10 +37,7 @@ We reserves the right to disclose information to third parties if we believe we 
 * Protect the rights, property or safety of Pipl, its users and the public. 
 
 **Transfer of information**  
-Information collected by Pipl may be stored and processed in the United States or any other country in which Poogee Software Ltd. or its agents maintain facilities. By using Pipl, you consent to any such transfer of information outside of your country.  
+Information collected by Pipl may be stored and processed in the United States or any other country in which Pipl or its agents maintain facilities. By using Pipl, you consent to any such transfer of information outside of your country.  
 We reserve the right to transfer information in the event of a transfer of ownership of Pipl, such as acquisition by or merger with another company.
 
-|   
-  
-©2007 Pipl. Beta Version. Patent Pending.  
-[Terms](https://web.archive.org/tos/)  [Privacy](https://web.archive.org/privacy/)  [Directory](https://web.archive.org/directory/)  [Contact](https://web.archive.org/contact/)
+| 
