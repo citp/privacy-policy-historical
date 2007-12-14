@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the navy.mil privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630143557id_/http%3A//www.navy.mil/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the navy.mil privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214034936id_/http%3A//www.navy.mil/privacy.asp) for the most accurate reproduction.*
 
 # The US Navy
 
-|  | 
+| 
 
 Privacy Policy 
 
