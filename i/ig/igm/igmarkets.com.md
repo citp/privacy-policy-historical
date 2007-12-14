@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the igmarkets.com privacy policy that was archived on 2007-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070422172435id_/http%3A//www.igmarkets.com/content/sites/igm/en_GB/privacy_notice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igmarkets.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214113213id_/http%3A//www.igmarkets.com/content/sites/igm/en_GB/privacy_notice.html) for the most accurate reproduction.*
 
 # IG Markets - Privacy Notice
 
@@ -115,8 +115,3 @@ We are constantly striving to improve functionality on this site through techno
 ### Links to third party websites
 
 This website may have links to external third party websites that may benefit the user. Please note, however, that third party websites are not covered by our privacy policy and these sites are not subject to our privacy standards and procedures.
-
-### Any Questions?
-
-Freephone **0800 195 6300** or call **+44 (0)20 7633 5555**  
-Please see [contact](https://web.archive.org/content/sites/igm/en_GB/contact.html) page for support/trading lines
