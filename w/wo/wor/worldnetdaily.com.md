@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the worldnetdaily.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623043206id_/http%3A//www.worldnetdaily.com/resources/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldnetdaily.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214044855id_/http%3A//www.worldnetdaily.com/resources/privacy.asp) for the most accurate reproduction.*
 
 # WorldNetDaily: WorldNetDaily Privacy Policy
 
 **  
   
-[](http://www.worldnetdaily.com/admin/ads/banman.asp?Task=Click&ZoneID=304&CampaignID=557&AdvertiserID=263&BannerID=1126&SiteID=1&RandomNumber=26156)[](http://www.worldnetdaily.com/admin/ads/banman.asp?Task=Click&ZoneID=305&CampaignID=460&AdvertiserID=32&BannerID=996&SiteID=1&RandomNumber=14261)  
+[](http://www.worldnetdaily.com/admin/ads/banman.asp?Task=Click&ZoneID=304&CampaignID=495&AdvertiserID=203&BannerID=1063&SiteID=1&RandomNumber=14235)[](http://www.worldnetdaily.com/admin/ads/banman.asp?Task=Click&ZoneID=305&CampaignID=460&AdvertiserID=32&BannerID=993&SiteID=1&RandomNumber=14235)  
   | **   FREE News Flashes**  
 ---  
     
@@ -22,7 +22,8 @@ WND Directory|  
 [WND Forums](http://forums.wnd.com/)  
 [Letters to the Editor](https://web.archive.org/letters.asp)  
 [BizNetDaily](https://web.archive.org/biznetdaily)  
-[SportsNetDaily](http://www.breitbart.com/?ch=sports)  
+[Careers](http://worldnetdaily.4jobs.com/)  
+[SportsNetDaily](http://www.breitbart.com/index.php?category=5)  
 [TV Guide](http://www.tvguide.com/)  
 [Weather](http://www.accuweather.com/adcbin/index?partner=WNDAILY)  
   
@@ -172,37 +173,39 @@ _Privacy statement updated Aug. 5, 2004._
   
      News  
    
-[Full Hillary 'smoking gun' video released](https://web.archive.org/news/article.asp?ARTICLE_ID=56305)  
-[Your doctor could put you on no-gun list](https://web.archive.org/news/article.asp?ARTICLE_ID=56311)  
-[Jailed Border Patrol agent in 'emaciated' condition](https://web.archive.org/news/article.asp?ARTICLE_ID=56308)  
-[Texas governor clears way for NAFTA superhighway](https://web.archive.org/news/article.asp?ARTICLE_ID=56309)  
-[Corsi to dissect North American Union plans](https://web.archive.org/news/article.asp?ARTICLE_ID=56306)  
-[Palestinian official: Women must martyr themselves](https://web.archive.org/news/article.asp?ARTICLE_ID=56295)  
-[Lawmaker convicted of battery facing lawsuit](https://web.archive.org/news/article.asp?ARTICLE_ID=56313)  
-[Teenagers document government harassment](https://web.archive.org/news/article.asp?ARTICLE_ID=56301)  
-[Sean Hannity inspires character in kids' book](https://web.archive.org/news/article.asp?ARTICLE_ID=56302)  
-[Did Osama charter flight out of U.S. after 9/11?](https://web.archive.org/news/article.asp?ARTICLE_ID=56289)  
-[Judge bans word 'rape' at rape trial](https://web.archive.org/news/article.asp?ARTICLE_ID=56296)  
+[Dems: Amen to Ramadan, but forget about Christmas](https://web.archive.org/news/article.asp?ARTICLE_ID=59171)  
+[Hamas-sympathizing juror behind terror mistrial](https://web.archive.org/news/article.asp?ARTICLE_ID=59187)  
+[Warren megaproblem: AIDS _too big_ for church alone](https://web.archive.org/news/article.asp?ARTICLE_ID=59181)  
+[Moonshiner, thieves, drug dealers get help](https://web.archive.org/news/article.asp?ARTICLE_ID=59178)  
+[Governor accused of 'revenge' prosecution](https://web.archive.org/news/article.asp?ARTICLE_ID=59185)  
+['Where's the fence?' activist asks Congress](https://web.archive.org/news/article.asp?ARTICLE_ID=59159)  
+[Children promise to 'wipe out' Zionists](https://web.archive.org/news/article.asp?ARTICLE_ID=59177)  
+[Did attorney general shield Planned Parenthood?](https://web.archive.org/news/article.asp?ARTICLE_ID=59170)  
+[Judge who took neighbor's land 'beleaguered'](https://web.archive.org/news/article.asp?ARTICLE_ID=59179)  
+[Mexican trucks roll on despite opposition](https://web.archive.org/news/article.asp?ARTICLE_ID=59182)  
+['Not appropriate' for prez to mediate strike](https://web.archive.org/news/article.asp?ARTICLE_ID=59186)  
+[Huck, Mitt, Rudy, McCain blame you for global warming](https://web.archive.org/news/article.asp?ARTICLE_ID=59176)  
+[New campaign debate: Is Satan Jesus' brother?](https://web.archive.org/news/article.asp?ARTICLE_ID=59168)  
+[Israeli mayor's resignation 'huge victory for resistance'](https://web.archive.org/news/article.asp?ARTICLE_ID=59165)  
+[Bombing in Lebanon 'to intimidate Christians'?](https://web.archive.org/news/article.asp?ARTICLE_ID=59172)  
+[Stripped bare: 'Gay' school plot unveiled](https://web.archive.org/news/article.asp?ARTICLE_ID=59158)  
+['Coed locker rooms' spark citizen backlash](https://web.archive.org/news/article.asp?ARTICLE_ID=59152)  
   
      Commentary  
    
-[Why it's not news when journalists support Dems  
-   \- By Joseph Farah](https://web.archive.org/news/article.asp?ARTICLE_ID=56314)  
-[The Palestinian appetite for destruction  
-   \- By Ilana Mercer](https://web.archive.org/news/article.asp?ARTICLE_ID=56310)  
-[A media temper tantrum, British style  
-   \- By Melanie Morgan](https://web.archive.org/news/article.asp?ARTICLE_ID=56298)  
-[The martyr of Mosul  
-   \- By Pat Buchanan](https://web.archive.org/news/article.asp?ARTICLE_ID=56316)  
-[America finally got her birthday party  
-   \- By Doug Phillips](https://web.archive.org/news/article.asp?ARTICLE_ID=56307)  
-[Bloomberg pays record bid for Oval Office  
-   \- By Bill Press](https://web.archive.org/news/article.asp?ARTICLE_ID=56303)  
-[The left's stranglehold on the donkey  
-   \- By David Limbaugh](https://web.archive.org/news/article.asp?ARTICLE_ID=56312)  
-[The tragedy of Anglo-Saxon self-hatred  
-   \- By Tristan Emmanuel](https://web.archive.org/news/article.asp?ARTICLE_ID=56300)  
-[NAFTA superhighway ready to roll  
-   \- By Jerome Corsi](https://web.archive.org/news/article.asp?ARTICLE_ID=56304)  
+[Rick Warren's distortions of reality  
+   \- By Joseph Farah](https://web.archive.org/news/article.asp?ARTICLE_ID=59183)  
+[Joe McCarthy invented the Internet  
+   \- By Ann Coulter](https://web.archive.org/news/article.asp?ARTICLE_ID=59175)  
+[Abortion politics take amusing twist  
+   \- By Jack Cashill](https://web.archive.org/news/article.asp?ARTICLE_ID=59167)  
+[Anything-goes sex on campus  
+   \- By Rebecca Hagelin](https://web.archive.org/news/article.asp?ARTICLE_ID=59169)  
+[Subprime 'crisis' – federal intervention needed?  
+   \- By Larry Elder](https://web.archive.org/news/article.asp?ARTICLE_ID=59184)  
+['Post-Christian era'? Don't tell Third World  
+   \- By Tristan Emmanuel](https://web.archive.org/news/article.asp?ARTICLE_ID=59166)  
+[Why Democrats dominate the news  
+   \- By Craige McMillan](https://web.archive.org/news/article.asp?ARTICLE_ID=59173)  
   
 
