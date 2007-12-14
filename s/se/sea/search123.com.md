@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the search123.com privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622205515id_/http%3A//www.search123.com/sc/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the search123.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214235015id_/http%3A//www.search123.com/sc/privacy_policy.shtml) for the most accurate reproduction.*
 
 # Partner Programs | Search Products | Search123
 
