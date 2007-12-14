@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collectiondx.com privacy policy that was archived on 2007-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070408230736id_/http%3A//www.collectiondx.com/node/8) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collectiondx.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214034757id_/http%3A//www.collectiondx.com/node/8) for the most accurate reproduction.*
 
 # Privacy Policy | CollectionDX
 
