@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clubrsx.com privacy policy that was archived on 2007-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070206185716id_/http%3A//www.clubrsx.com/merchant.mvc%3FScreen%3DPRIVACY%26Store_Code%3DCR) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clubrsx.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214012415id_/http%3A//www.clubrsx.com/merchant.mvc%3FScreen%3DPRIVACY%26Store_Code%3DCR) for the most accurate reproduction.*
 
 # Club RSX.com
 
