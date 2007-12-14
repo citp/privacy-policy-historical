@@ -1,14 +1,6 @@
-> *The following text is extracted and transformed from the classifiedflyerads.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626080611id_/http%3A//www.classifiedflyerads.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classifiedflyerads.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214084206id_/http%3A//www.classifiedflyerads.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Classified Flyer Ads
-
-### [Classified Ad Syndication](http://www.classifiedflyerads.com/)
-
-Member Login
-
-Latest Classified Ads
-
-| 
 
 ## Privacy Policy
 
@@ -22,7 +14,7 @@ When you visit our site you may provide us with two types of information: person
 
 **No Use of Our Site by Persons Under 13**
 
-_No person under 13 should disclose information on this site_. You may learn more about protecting children's privacy online by visiting www.ftc.gov/kidzprivacy. 
+_No person under 13 should disclose information on this site_. You may learn more about protecting children's privacy online by visiting [www.ftc.gov/kidzprivacy](http://www.ftc.gov/kidzprivacy). 
 
 **Active Information You Choose to Provide**
 
@@ -36,18 +28,21 @@ If you choose to post information on our site or maintain email, snailmail or te
 
 **Passive Information Collected**
 
-**What is a Cookie?**   
+**What is a Cookie?**
+
 Cookies are a feature of web browser (Internet Explorer, Netscape Navigator, etc.) software that allows web servers to recognize the computer used to access a site. They are small pieces of data that are stored by a user’s web browser on one site to simplify subsequent interactions with that site by the same user or to use the information to streamline the user’s transaction on related web pages. This makes it easier for a user to move from site to site and to complete transactions over the Internet. Cookies should make your online experience easier and more personalized.
 
 Our site utilizes cookies to collect information about how our site is used. Passive Information gathered may include the date and time of visits, the site pages viewed, time spent at our site, the sites visited just before and just after our site. If you do not wish to transmit “cookie” information about yourself, you may turn off the cookie function in your web browser; please consult the “Help” section of your browser to correctly do so. 
 
 Our site’s servers also automatically identify your computer by its Internet Protocol address, which is a unique string of numbers that is assigned to your computer by your Internet Service Provider. Your IP address may be used to address problems with our server or administer our site or to gather broad demographic information about our users.
 
-**How Do We Use the Information Collected?**  
+**How Do We Use the Information Collected?**
+
 Broadly speaking, persons we employ directly, or as contractors or agents at our direction, use Active Information for purposes of administering our business activities, providing customer services such as support, and making available other products or services we think may be of interest to our users. We may use the Active Information or Passive Information you provide to us to contact you about changes to our site, new services, features or products we offer, or other information we think you shall find valuable. If at any time you do not wish to receive such information, you may “opt-out” of doing so by sending an email to us at [service@classifiedflyerads.com](mailto:service@classifiedflyerads.com).
 
-We use Passive Information to gather information about our users and to enhance and design our site to make it easier, faster and friendlier to use. Additionally, cookies help us know information about how many people visit our site, when they visit and how they use our service. Passive Information may result in your viewing of particular advertising based on your user habits for your viewing on our site and a shopping experience customized to you in content, services and goods.  
-Your Information In Relation to Others We Link To
+We use Passive Information to gather information about our users and to enhance and design our site to make it easier, faster and friendlier to use. Additionally, cookies help us know information about how many people visit our site, when they visit and how they use our service. Passive Information may result in your viewing of particular advertising based on your user habits for your viewing on our site and a shopping experience customized to you in content, services and goods.
+
+**Your Information In Relation to Others We Link To**
 
 You may be able to access other websites through our site. When you do so you are doing so subject to their policies regarding privacy and data collection and you should read those sites’ privacy policies to make sure you agree to them before using such sites. When you choose to shop at such sites, you should read their privacy policies to make sure you agree to them before making purchases.
 
@@ -94,6 +89,4 @@ _This site generally does not pre-screen, monitor, or edit the content posted by
 You agree that your use of this site may be suspended or terminated immediately upon receipt of any notice which alleges that you have used this site in violation of these Rules and/or for any purpose that violates any local, state, federal or law of other nations, including but not limited to the posting of information that may violate third party rights, that may defame a third party, that may be obscene or pornographic, that may harass or assault others, that may violate hacking or other criminal regulations, etc. of its agents, officers, directors, contractors or employees. In such event, you agree that the owner of this site may disclose your identity and contact information, if requested by a government or law enforcement body or as a result of a subpoena or other legal action, and the owner of this site shall not be liable for damages or results thereof, and you agree not to bring any action or claim against the owner of this site for such disclosure. 
 
 _This site reserves the right to revise these Site Submission Rules at its discretion, so check back from time to time to be sure you are complying with the current version.  
-_  
-  
----|---
+_
