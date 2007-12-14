@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the androticsdirect.com privacy policy that was archived on 2007-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070517132942id_/http%3A//www.androticsdirect.com/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the androticsdirect.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214073420id_/http%3A//www.androticsdirect.com/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
 
 # Help Zone :: Androtics Direct/SmartMones
 
@@ -20,4 +20,4 @@ For packages sent outside of the US, the minimum possible "from" and contents in
 
 **Phone**
 
-Your phone number may be used to verify billing information, for questions about your order, or to provide to FedEx for shipping (they require it for accurate delivery).  
+Your phone number may be used to verify billing information, for questions about your order, or to provide to the carrier for shipping (they require it for accurate delivery).  
