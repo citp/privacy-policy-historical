@@ -1,14 +1,13 @@
-<!--The following is the downloaded HTML source of the insidesales.com privacy policy that was archived on 2007-06-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070622230536id_/http%3A//www.insidesales.com/terms.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the insidesales.com privacy policy that was archived on 2007-12-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071214182812id_/http%3A//www.insidesales.com/terms.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
-
 <!--meta INFORMATION -->
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <meta http-equiv="imagetoolbar" content="no">
-<title>On-Demand Lead Management, CRM and Contact Center Solutions - InsideSales.com ™</title>
-<meta name="Description" content="InsideSales.com is a leading provider of advanced on demand applications and services that help businesses better communicate with their customers, partners and employees. insidesales.com's solutions provide integrated sales force automation, customer service and support, marketing automation, order management, and analytics to help companies meet the challenges of effective communication with customers, partners and employees.">
-<meta name="keywords" content="Lead Management, Lead Response Management, Auto Call Back, Click to Call, Dialer, Power Dialer, Predictive Dialer, Sales, Software, SFM, CRM, Sales Team, Sales Team Automation, Sales Force, Sales Force Automation, Contact, Contact Management, SalesForce.com, Hosted CRM, Web CRM">
+<title>On-Demand Lead Management, Dialer, and CRM Solutions - InsideSales.com ™</title>
+<meta name="Description" content="InsideSales.com is a leading provider of advanced on demand applications and services that help businesses better respond to leads they generate over the web. InsideSales.com's solutions provide integrated marketing, sales, customer service and support automation to help companies increase productivity and lower costs.">
+<meta name="keywords" content="Lead Management, Lead Response Management, Lead Nurturing, Lead Generation, Auto Call Back, Click to Call, Dialer, Power Dialer, Predictive Dialer, autodialer, auto dialer, phone dialer, dialer software, Sales  Software, SFM, CRM, Sales Force Automation, Contact Management, Hosted CRM, Web CRM">
 
 <!-- STYLES -->
 <link rel="icon" href="http://www.insidesales.com/images/favicon.ico" type="image/x-icon">
@@ -16,6 +15,7 @@
 <link href="css/is_styles.css" rel="stylesheet" type="text/css">
 
 <!-- JAVASCRIPT -->
+<script language="JavaScript" src="http://www.insidesales.com/js/validate.js"></script>
 <script language="JavaScript" type="text/javascript" src="js/cookie.js"></script>
 <script language="JavaScript">
 	<!-- Begin
@@ -115,9 +115,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
                 <td></td>
                <td>
                   <div id="digicertsitesealcode" style="width: 65px; margin: 0px auto 0px 0px;" align="center">
-                    <script language="javascript" type="text/javascript" src="https://www.digicert.com/custsupport/sealtable.php?order_id=00109603&amp;seal_type=a&amp;seal_size=small"></script>
-                    <a href="http://www.digicert.com">SSL</a> 06/2006
-                    <script language="javascript" type="text/javascript">coderz();</script>
+                    <script src="https://siteseal.thawte.com/cgi/server/thawte_seal_generator.exe"></script>
                   </div>
                 </td>
               </tr>
@@ -863,44 +861,64 @@ function onLeadFormSubmit() {
 // -->
 </script>
 <div id="leadFormDiv" style="display: none;" width="300" height="25">
-      <form name="clickToDial" onsubmit="return validate(fieldArray, this);" action="https://sta.insidesales.com/do=noauth/add_lead" method="post">
+      <form name="clickToDial" onsubmit="return validate(fieldArray2, this);" action="https://sta.insidesales.com/do=noauth/add_lead" method="post">
         <table width="100%" border="0" cellpadding="1" style="border: 1px solid #6699CC;" bgcolor="f7f7f7">
 		  <tbody><tr>
 		  <td colspan="4" align="center"><font size="3"><strong>InsideSales.com's 800# That Calls You <br></strong></font></td>
           </tr><tr> 
             <td width="162" height="18"> 
-              <input type="hidden" value="https://www.insidesales.com/ivr_calling_instructions.php" name="r_link">
-              <input type="hidden" value="1920_##" name="oi">
-              <input type="hidden" value="192" name="selected_campaign_id">
-              <input type="hidden" value="" name="lead_source_id">
-              <input type="hidden" value="11" name="lead_status_id">
-			  <!--<input type="hidden" value="2"     name="routing_rule_id">
-			  <input type="hidden" value="157"   name="dup_campaign_id">
-			  <input type="hidden" value="phone,email" name="dup_basis">-->
-              <input type="hidden" value="" name="customFields_94">
-              <input type="hidden" name="customFieldIds[]" value="94">
-              <input type="hidden" value="" name="customFields_25">
-              <input type="hidden" name="customFieldIds[]" value="25">
-              <input type="hidden" value="" name="customFields_26">
-              <input type="hidden" name="customFieldIds[]" value="26">
-              <input type="hidden" value="" name="customFields_27">
-              <input type="hidden" name="customFieldIds[]" value="27">
-		      <input type="hidden" name="ivr_id" value="1">
+
+				<input type="hidden" value="https://www.insidesales.com/ivr_calling_instructions.php" name="r_link">
+				<input type="hidden" value="1920_##" name="oi">
+<!--				<input type="hidden" value="43_$$"		name="email_template">
+-->				<input type="hidden" value="5" name="web_offer_type_id">
+				<input type="hidden" value="241" name="selected_campaign_id">
+				<input type="hidden" value="" name="lead_source_id">
+				<input type="hidden" value="11" name="lead_status_id">
+				<input type="hidden" value="2" name="routing_rule_id">
+				<input type="hidden" value="157" name="dup_campaign_id">
+				<input type="hidden" value="phone,email" name="dup_basis">
+				<input type="hidden" value="1" name="relate_to_dup">
+				<input type="hidden" value="30" name="reroute_if_idle_days">
+				<input type="hidden" value="" name="search_engine_id"> 
+				<input type="hidden" value="" name="ad_campaign_id"> 
+				<input type="hidden" value="" name="ad_group_id"> 
+				<input type="hidden" value="" name="ad_id"> 
+				<input type="hidden" value="" name="keyword_id"> 
+				<input type="hidden" value="" name="customFields_94">
+				<input type="hidden" value="94" name="customFieldIds[]">
+				<input type="hidden" value="" name="customFields_25">
+				<input type="hidden" value="25" name="customFieldIds[]">
+				<input type="hidden" value="" name="customFields_26">
+				<input type="hidden" value="26" name="customFieldIds[]">
+				<input type="hidden" value="" name="customFields_27">
+				<input type="hidden" value="27" name="customFieldIds[]">
+				<input type="hidden" value="1" name="ivr_id">
             </td>
             <td width="162" height="18" align="right"> 
-              <script language="JavaScript" src="https://sta.insidesales.com/js/validate.js"></script>
+				<script language="JavaScript" src="/js/phone_format.js"></script>
               <script language="JavaScript"><!--
 document.clickToDial.customFields_94.value = getCookie("category_cookie");
 document.clickToDial.customFields_25.value = getCookie("a_cookie");
 document.clickToDial.customFields_26.value = getCookie("key_cookie");
 document.clickToDial.customFields_27.value = getCookie("engine_cookie");
 document.clickToDial.lead_source_id.value = getCookie("lead_source_id_cookie");
+
+document.clickToDial.search_engine_id.value		= getCookie("search_engine_id_cookie");
+document.clickToDial.ad_campaign_id.value			= getCookie("ad_campaign_id_cookie");
+document.clickToDial.ad_group_id.value				= getCookie("ad_group_id_cookie");
+document.clickToDial.ad_id.value					= getCookie("ad_id_cookie");
+document.clickToDial.keyword_id.value				= getCookie("keyword_id_cookie");
+
+if(document.clickToDial.lead_source_id.value=="null"){
+	document.clickToDial.lead_source_id.value = "9";
+}
 // SET UP VALIDATION ARRAY
-var fieldArray = new Array();
-fieldArray[0] = "last_name|Last Name|blank"; // field|field name|blank,DDSEelected,phone,email
-fieldArray[1] = "email|Email|email,blank";
-fieldArray[2] = "first_name|First Name|blank";
-fieldArray[3] = "phone|Phone|blank";
+var fieldArray2 = new Array();
+fieldArray2[0] = "phone|Phone|blank"; // field|field name|blank,DDSEelected,phone,email
+fieldArray2[1] = "first_name|First Name|blank";
+fieldArray2[2] = "last_name|Last Name|blank";
+fieldArray2[3] = "email|Email|email,blank";
 // -->
 </script>
               <font size="1">&nbsp;&nbsp;* Required Fields</font> </td>
@@ -908,23 +926,17 @@ fieldArray[3] = "phone|Phone|blank";
           </tr>
           <tr> 
             <td nowrap="" valign="top" width="162">&nbsp;&nbsp;Phone:*</td>
-            <td> 
-              <input type="text" maxlength="20" name="phone" size="25">
-            </td>
+            <td><input type="text" maxlength="20" name="phone" size="25" onblur="formatPhone(this);"></td>
 			<td align="right">Step 1: Fill Out Form to the Left&nbsp;</td>
 		  </tr>
 		  <tr> 
             <td nowrap="" valign="top" width="162">&nbsp;&nbsp;First Name:*</td>
-            <td> 
-              <input type="text" maxlength="40" size="25" name="first_name">
-            </td>
+            <td><input type="text" maxlength="40" size="25" name="first_name"></td>
 			<td align="right">Step 2: Click the Submit Button&nbsp;</td>
           </tr>
           <tr> 
             <td nowrap="" valign="top" width="162">&nbsp;&nbsp;Last Name:*</td>
-            <td> 
-              <input type="text" maxlength="80" name="last_name" size="25">
-            </td>
+            <td><input type="text" maxlength="80" name="last_name" size="25"></td>
 			<td align="right">Step 3: Answer Your Phone&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
           </tr>
           <tr> 
@@ -938,9 +950,9 @@ fieldArray[3] = "phone|Phone|blank";
               <input type="submit" value=" Submit " name="save">&nbsp;&nbsp;<input type="button" value=" Cancel " name="cancel" onclick="hideLeadForm()">
             </td>
           </tr>
-		  <tr>
-		  <td colspan="2" align="center"><img src="/images/powered_by.gif" width="176" height="30"></td>
-		  </tr>
+<!--		  <tr>
+		  <td colspan="2" align="center" ><img src="/images/powered_by.gif" width="176" height="30"></td>
+		  </tr>-->
         </tbody></table>
 	</form>
 </div>
@@ -957,7 +969,7 @@ fieldArray[3] = "phone|Phone|blank";
     <td class="footerText tableBrd_b"><a href="overview.php"> Overview</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="secure/free_trial.php">Free 
       Trial</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="pricing.php">Pricing</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="testimonials.php">Testimonials</a> 
       | <a href="white_paper.php">White Paper</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="about_us.php">About Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="login.php">Customer Login</a><br> 
-      <a href="developers_area.php">Developers Area</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="terms.php">Terms of Service</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="terms.php">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="sitemap.php">Site Map</a></td>
+      <a href="developers_area.php">Developers Area</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="terms.php">Terms of Service</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="terms.php">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="sitemap.php">Site Map</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="news.php">News</a></td>
     <td class="tableBrd_b" align="right"><img src="images/sta_logo.jpg" width="112" alt="Sales Team Automation" height="27"></td>
   </tr>
   <tr> 
@@ -981,16 +993,11 @@ fieldArray[3] = "phone|Phone|blank";
 </p><table>
 <tbody><tr>
 	<td><a onclick="javascript:popUp('http://www.bbbonline.org/cks.asp?id=1060608144235')" style="cursor: pointer;" }=""><img src="images/ReliabilitySeal.gif" alt="BBBOnLine Reliability Seal" title="BBBOnLine Reliability Seal"></a></td>
-	<td><table border="0" cellspacing="0" cellpadding="0" style="margin: 5px 5px" align="center"><script language="JavaScript" type="text/javascript" src="https://www.digicert.com/custsupport/sealtable.php?order_num=00109603&amp;seal_key=5c92979a0bea7c20&amp;seal_type=a"></script></table></td>
+	<td><table border="0" cellspacing="0" cellpadding="0" style="margin: 5px 5px" align="center"><script src="https://siteseal.thawte.com/cgi/server/thawte_seal_generator.exe"></script></table></td>
 </tr>
 </tbody></table>
 </div>
 <script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script>
 <script type="text/javascript">_uacct = "UA-404290-1"; urchinTracker(); </script>
-<script type="text/javascript" language="JavaScript" src="http://dce.nextstat.com/logging_js.php?ac=784"></script>
-<noscript>
-<a href="http://www.nextstat.com">
-<img SRC="http://dce.nextstat.com/logging.php?ac=784&ns=1" border="0" alt="Realtime website analytics"></a>
-</noscript>
 
 </body></html>
