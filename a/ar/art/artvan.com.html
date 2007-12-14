@@ -1,7 +1,26 @@
-<!--The following is the downloaded HTML source of the artvan.com privacy policy that was archived on 2007-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070623104632id_/http%3A//www.artvan.com/webapp/wcs/stores/servlet/staticpage_-1_10001_10001_privacyTerms.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the artvan.com privacy policy that was archived on 2007-12-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071214112759id_/http%3A//www.artvan.com/webapp/wcs/stores/servlet/staticpage_-1_10001_10001_privacyTerms.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
+<html><head><script language="javascript">
+var s_account="avfcomprod";
+
+</script>
+
+<script language="JavaScript" src="/wcsstore/ArtVan/javascript/s_code.js"></script>
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
 
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <meta name="GENERATOR" content="IBM WebSphere Studio">
@@ -60,56 +79,36 @@ function printLinks() {
 
 <script language="javascript">
 function submitForm(form){
-
-// Bob Buscemi 2005-08-03 Start change 
-	if (form.searchTerm.value == "Search value" ) {
-		form.searchTerm.value = "";
+	if (form.Ntt.value == "Search value" ) {
+		form.Ntt.value = "";
+		form.D.value = "";
 	}
-// Bob Buscemi 2005-08-03 End change 
-
-// 2005-11-23 Bob Buscemi Start change
-form.description_searchTerm.value = form.searchTerm.value;
-// 2005-11-23 Bob Buscemi End change
-
+	form.D.value = form.Ntt.value;
 	form.submit();
 }
+
+function entsub(e, form) {
+
+	if (!e) var e = window.event;
+	if (e.keyCode == 13) {	
+		submitForm(form);
+	} else {
+		return true;
+	}
+}
+
 </script>
 
-<form name="CatalogSearchForm" method="post" action="CatalogSearchResultView">
+<form name="CatalogSearchForm" method="post" action="Search">
 <input type="hidden" name="storeId" value="10001"> 
 <input type="hidden" name="catalogId" value="10001"> 
 <input type="hidden" name="langId" value="-1"> 
-<input type="hidden" name="pageSize" value="10"> 
-<input type="hidden" name="beginIndex" value="0">
-<!-- input type="hidden" name="sType" value="SimpleSearch"/ --> 
-<input type="hidden" name="sType" value="AdvancedSearch"> 
 
-<input type="hidden" name="isPackage" value="true">
-<input type="hidden" name="isProduct" value="true">
-<input type="hidden" name="isItem" value="true">
-<input type="hidden" name="isBundle" value="true">
-
-<!-- Bob Buscemi 2005-10-18 Start change -->
-<input type="hidden" name="field5" value="C">
-<input type="hidden" name="field5Operator" value="EQUAL">
-<!-- Bob Buscemi 2005-10-18 End change -->
-
-<!-- Bob Buscemi 2005-08-03 Start change -->
-<input type="hidden" name="searchTermCaseSensitive" value="no">
-<input type="hidden" name="searchTermOperator" value="LIKE">
-<input type="hidden" name="searchType" value="ALL">
-
-<input type="hidden" name="searchTermScope" value="3">
-<input type="hidden" name="resultType" value="3">
+<input type="hidden" name="N" value="0">
+<input type="hidden" name="Nty" value="1">
+<input type="hidden" name="D" value="">
 
 
-<!-- Bob Buscemi 2005-08-03 End change -->
-
-<!-- Bob Buscemi 2005-11-23 Start change -->
-<input type="hidden" name="description_searchTerm" value="">
-<!-- Bob Buscemi 2005-11-23 Start change -->
-
- 
 <table border="0" width="770" height="70" cellpadding="2" cellspacing="0" class="headerMainTable">
 	<tbody><tr>
 				<td class="headerLogoCell" style="cursor:pointer; cursor:hand;" width="365" height="70" rowspan="5" align="left" valign="middle" onclick="goToURL('StoreHomePageView?langId=-1&amp;storeId=10001&amp;catalogId=10001'); return false;">
@@ -120,7 +119,7 @@ form.description_searchTerm.value = form.searchTerm.value;
 			<img src="/wcsstore/ArtVan/images/headerNavigation/spacer.gif" width="140" height="1" border="0" alt=""></td>
 
 		<td class="headerTopRowText" height="10">
-			<input size="25" maxlength="30" name="searchTerm" type="text" style="background-color:#FFFFFF" value="Search value" onblur="if(this.value=='')this.value='Search value';" onfocus="if(this.value=='Search value')this.value='';">
+			<input size="25" maxlength="30" name="Ntt" type="text" style="background-color:#FFFFFF" value="Search value" onblur="if(this.value=='')this.value='Search value';" onfocus="if(this.value=='Search value')this.value='';" onkeypress="return entsub(event,document.CatalogSearchForm);">
 			</td> 
 			<td class="headerTopRow">
 			<a href="javascript:submitForm(document.CatalogSearchForm)"><img src="/wcsstore/ArtVan/images/buttons/button_goSearch.gif" alt="Go" border="0" align="middle"></a></td>				
@@ -128,10 +127,10 @@ form.description_searchTerm.value = form.searchTerm.value;
 	<tr>
 		<td class="headerTopRowText" height="10">
 			<img src="/wcsstore/ArtVan/images/headerNavigation/spacer.gif" width="140" height="1" border="0" alt="">		</td>
-					<td class="headerTopRowAdvSearch" height="10" colspan="2">
-						<span class="headerAdvSearch"><a href="AdvancedSearchView?storeId=10001&amp;catalogId=10001&amp;langId=-1">
+					
+						
 						<!--<img src="/wcsstore/ArtVan/images/buttons/button_advancedSearch.gif" alt="Advanced Search" width="132" height="26" border="0">-->
-			advanced search</a></span></td>
+		
 	</tr>
 	
 	
@@ -208,6 +207,7 @@ form.description_searchTerm.value = form.searchTerm.value;
 
 
 
+
 <table border="0" cellpadding="0" cellspacing="0" width="770">
   <tbody><tr>
   	<td class="topNavigationSpacer"><img src="/wcsstore/ArtVan/images/spacer.gif" width="770" height="1" border="0" alt=""></td>
@@ -218,15 +218,15 @@ form.description_searchTerm.value = form.searchTerm.value;
 
 <table width="770" cellspacing="0" cellpadding="0" class="topNavigationTable">
   <tbody><tr>
-  <td width="100" height="20" class="topNavigationUp" id="navCell_1" onmouseover="navChangeColor('navCell_1', 'topNavigationOver');" onmouseout="navRestoreColor('navCell_1', 'topNavigationUp');" onclick="goToURL('category2_10001_10001_30000_-1_Y'); return false;">living rooms</td>
-  	<td width="81" height="20" class="topNavigationUp" id="navCell_2" onmouseover="navChangeColor('navCell_2', 'topNavigationOver');" onmouseout="navRestoreColor('navCell_2', 'topNavigationUp');" onclick="goToURL('category2_10001_10001_20000_-1_Y'); return false;">bedroom</td>
-  	<td width="61" height="20" class="topNavigationUp" id="navCell_3" onmouseover="navChangeColor('navCell_3', 'topNavigationOver');" onmouseout="navRestoreColor('navCell_3', 'topNavigationUp');" onclick="goToURL('category2_10001_10001_25000_-1_Y'); return false;">dining</td>
-  	<td width="104" height="20" class="topNavigationUp" id="navCell_4" onmouseover="navChangeColor('navCell_4', 'topNavigationOver');" onmouseout="navRestoreColor('navCell_4', 'topNavigationUp');" onclick="goToURL('category2_10001_10001_47000_-1_Y'); return false;">entertainment</td>
-  	<td width="95" height="20" class="topNavigationUp" id="navCell_5" onmouseover="navChangeColor('navCell_5', 'topNavigationOver');" onmouseout="navRestoreColor('navCell_5', 'topNavigationUp');" onclick="goToURL('category2_10001_10001_46000_-1_Y'); return false;">home office</td>
-  	<td width="78" height="20" class="topNavigationUp" id="navCell_6" onmouseover="navChangeColor('navCell_6', 'topNavigationOver');" onmouseout="navRestoreColor('navCell_6', 'topNavigationUp');" onclick="goToURL('category2_10001_10001_37000_-1_Y'); return false;">recliners</td>
+  <td width="90" height="20" class="topNavigationUp" id="navCell_1" onmouseover="navChangeColor('navCell_1', 'topNavigationOver');" onmouseout="navRestoreColor('navCell_1', 'topNavigationUp');" onclick="goToURL('category2_10001_10001_30000_-1_Y'); return false;">living rooms</td>
+  	<td width="76" height="20" class="topNavigationUp" id="navCell_2" onmouseover="navChangeColor('navCell_2', 'topNavigationOver');" onmouseout="navRestoreColor('navCell_2', 'topNavigationUp');" onclick="goToURL('category2_10001_10001_20000_-1_Y'); return false;">bedrooms</td>
+  	<td width="96" height="20" class="topNavigationUp" id="navCell_3" onmouseover="navChangeColor('navCell_3', 'topNavigationOver');" onmouseout="navRestoreColor('navCell_3', 'topNavigationUp');" onclick="goToURL('category2_10001_10001_25000_-1_Y'); return false;">dining rooms</td>
+  	<td width="94" height="20" class="topNavigationUp" id="navCell_4" onmouseover="navChangeColor('navCell_4', 'topNavigationOver');" onmouseout="navRestoreColor('navCell_4', 'topNavigationUp');" onclick="goToURL('category2_10001_10001_47000_-1_Y'); return false;">entertainment</td>
+  	<td width="90" height="20" class="topNavigationUp" id="navCell_5" onmouseover="navChangeColor('navCell_5', 'topNavigationOver');" onmouseout="navRestoreColor('navCell_5', 'topNavigationUp');" onclick="goToURL('category2_10001_10001_46000_-1_Y'); return false;">home office</td>
+  	<td width="73" height="20" class="topNavigationUp" id="navCell_6" onmouseover="navChangeColor('navCell_6', 'topNavigationOver');" onmouseout="navRestoreColor('navCell_6', 'topNavigationUp');" onclick="goToURL('category2_10001_10001_37000_-1_Y'); return false;">recliners</td>
   	<td width="82" height="20" class="topNavigationUp" id="navCell_7" onmouseover="navChangeColor('navCell_7', 'topNavigationOver');" onmouseout="navRestoreColor('navCell_7', 'topNavigationUp');" onclick="goToURL('category2_10001_10001_10000_-1_Y'); return false;">mattresses</td>
-	<td width="63" height="20" class="topNavigationUp" id="navCell_8" onmouseover="navChangeColor('navCell_8', 'topNavigationOver');" onmouseout="navRestoreColor('navCell_8', 'topNavigationUp');" onclick="goToURL('category2_10001_10001_52000_-1_Y'); return false;">accents</td>
-	<td width="104" height="20" class="topNavigationClearanceUp" id="navCell_9" onmouseover="navChangeColor('navCell_9', 'topNavigationClearanceOver');" onmouseout="navRestoreColor('navCell_9', 'topNavigationClearanceUp');" onclick="goToURL('category2_10001_10001_80000_-1_Y'); return false;">clearance</td>
+	<td width="88" height="20" class="topNavigationUp" id="navCell_8" onmouseover="navChangeColor('navCell_8', 'topNavigationOver');" onmouseout="navRestoreColor('navCell_8', 'topNavigationUp');" onclick="goToURL('category2_10001_10001_52000_-1_Y'); return false;">accessories</td>
+	<td width="79" height="20" class="topNavigationClearanceUp" id="navCell_9" onmouseover="navChangeColor('navCell_9', 'topNavigationClearanceOver');" onmouseout="navRestoreColor('navCell_9', 'topNavigationClearanceUp');" onclick="goToURL('category2_10001_10001_80000_-1_Y'); return false;">clearance</td>
 	</tr>
 </tbody></table>
 
@@ -236,6 +236,7 @@ form.description_searchTerm.value = form.searchTerm.value;
 			<!-- End Header Navigation Include-->
 		</td>
 	</tr>
+	
 	
 	<tr>
     	<td width="177" class="leftNavigationMain">
@@ -353,7 +354,16 @@ function submitCatalogSearchForm()
 			</form>
 <!-- Lynn McCollom 2006-02-08 End change -->
 			
-			<div class="leftNavigationText-Zip">Please enter your zip code</div>
+			<div class="leftNavigationText-Zip">Please enter your ZIP code<br> or Postal Code</div>
+			<table width="100%" border="0" cellpadding="0" cellspacing="0">
+				<tbody><tr>
+					<td align="right">
+						<img src="/wcsstore/ArtVan/images/usFlag.jpg" border="0"></td>
+					<td width="5px"><img src="/wcsstore/ArtVan/images/spacer.gif" width="5" height="1"></td>
+					<td align="left">
+						<img src="/wcsstore/ArtVan/images/canadaFlag.gif" border="0"></td>
+				</tr>
+			</tbody></table>
 		</td>
 	</tr>
 	
@@ -364,13 +374,51 @@ function submitCatalogSearchForm()
 	
 	<!-- Lynn McCollom End change -->
 	<!-- Bob Buscemi 05-23-05 Start change -->
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script language="JavaScript">
+
+function newWindow( URL ) {
+   winRef = window.open( URL,'WindowB','scrollbars=yes, toolbar=1,menubar=1,status=1,resizable=1')
+}
+
+</script>
+
+
+
+
+
+
+	
 	<tr>
     	<td width="175" class="leftNavigationSpacer"><img src="/wcsstore/ArtVan/images/spacer.gif" width="1" height="1"></td>
 	</tr>
 	<tr>
 		<td>
-		<a href="StaticPageView?catalogId=10001&amp;pageName=roomPlanner.html">
-		<img src="/wcsstore/ArtVan/images/plannerIcon.gif" border="0">
+		<a href="StaticPageView?catalogId=10001&amp;pageName=credit.html">
+		<img src="/wcsstore/ArtVan/images/financeIcon.gif" border="0">
 			</a>
 		</td>
 	</tr>
@@ -381,7 +429,7 @@ function submitCatalogSearchForm()
 	</tr>
 	<tr>
 		<td>
-		<a href="ProductDisplay?catalogId=10001&amp;storeId=10001&amp;productId=810001000&amp;langId=-1">
+		<a href="product2_10001_10001_810001000_30000_30000_-1">
 		<img src="/wcsstore/ArtVan/images/giftCardIcon.gif" border="0">
 		</a>
 		</td>
@@ -409,7 +457,14 @@ function submitCatalogSearchForm()
 			<!-- Start Main Static Area -->
 			
 				<!-- Start Header Include-->
-				<p><img border="0" src="/wcsstore/ArtVan/include/staticContent/images/privacyTerms.gif" width="590" height="38"></p>
+				
+
+
+  <title>Privacy Terms</title>
+  <meta name="description" content="Atr Van cares about your privacy.  Learn more.">
+
+
+<p><img border="0" src="/wcsstore/ArtVan/include/staticContent/images/privacyTerms.gif" width="590" height="38"></p>
 
 <p class="staticContentText">By
 accepting these Privacy and Terms of use through your use of the
@@ -534,73 +589,6 @@ modified.</p>
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 				<!-- End Header Include-->
 			<!-- End Main Static Area -->
 		</td>
@@ -637,74 +625,206 @@ modified.</p>
 
 
 
+<script language="javascript">
 
-<!-- Footer Area Start -->
+function validateEmailAddress(emailAddress) {
+	if (emailAddress.indexOf("@") > 0 && emailAddress.lastIndexOf(".") > (emailAddress.indexOf("@") + 1) && emailAddress.lastIndexOf(".") + 1 != emailAddress.length)
+		return true;
+	return false;
+}
 
+function submitEmailRegistrationForm(form){
 
+// alert("inside of submitEmailRegistrationForm");
+	var outstring, messflag;
+	outstring = "Please correct the following in order to register your email: " + "\n" + "\n";
+	var messflag = 0;
+	
+	if (trim(form.emailAddress.value) == "Enter your email address") {
+		form.emailAddress.value = "";
+	}
+	
+// alert("form.emailAddress.value = " + form.emailAddress.value);
+// alert("trim(form.emailAddress.value).length = " + trim(form.emailAddress.value).length);
+	if ( trim(form.emailAddress.value).length == 0 ) 
+	{ 
+		messflag = 1;
+		outstring = outstring + " Email cannot be blank." + "\n";
+		form.emailAddress.focus();
+	}
+	else if (!validateEmailAddress(form.emailAddress.value)) {
+			if (!messflag == 1) {
+			form.emailAddress.focus();
+			}
+			messflag = 1;
+			outstring = outstring + " Invalid email format." + "\n";	
+	}
+// alert("messflag = " + messflag);	
+	if (messflag == 1) 
+	{ 
+		alert(outstring); 
+		return false; 
 
-<table width="770" border="0" cellspacing="0" cellpadding="0" class="footer">
+	}else{
+// alert("submitting form");
+		return true;
+	}
+}
+
+function enterSub(e, form) {
+alert("inside of enterSub");
+	if (!e) var e = window.event;
+alert("e.keyCode = " + e.keyCode);	
+	if (e.keyCode == 13) {	
+alert("submitEmailRegistrationForm(form)");	
+		submitEmailRegistrationForm(form);
+	} else {
+alert("return");		
+		return;
+	}
+}
+
+</script>
+
+<table width="770" border="0" cellpadding="0" cellspacing="0">
 	<tbody><tr>
-		<td align="center" class="footerCell">
-			<table border="0" cellspacing="0" cellpadding="0" class="footerTable" align="center">
-				<tbody><tr>
-					<td>
-					<table class="footerLinkTable" border="0" cellspacing="0" cellpadding="0" align="center">
-					<tbody><tr>
-					<td class="footerTextUp" style="border-right: 1px #808284 solid;">
-						<a href="staticpage_-1_10001_10001_guestServices.html">Guest Services</a>
-					</td>
-					<td class="footerTextUp" style="border-right: 1px #808284 solid;">
-						<a href="staticpage_-1_10001_10001_delivery.html">Delivery</a>
-					</td>
-					<td class="footerTextUp" style="border-right: 1px #808284 solid;">
-						<a href="staticpage_-1_10001_10001_annArbor.html">Store Locations</a>
-					</td>
-					<td class="footerTextUp" style="border-right: 1px #808284 solid;">
-						<a href="staticpage_-1_10001_10001_guestServices.html">Total Satisfaction Guarantee</a>
-					</td>
-					<td class="footerTextUp">
-						<a href="staticpage_-1_10001_10001_creditInfo.html">Art Van Convenience Card</a></td>
-			  </tr></tbody></table>
-			  </td>
-			  </tr>
-			  <tr>
-			  		<td>
-			  			<table class="footerLinkTable" border="0" cellspacing="0" cellpadding="0" align="center">
-			  			<tbody><tr>
-			  				<td class="footerTextUp" style="border-right: 1px #808284 solid;">
-			  					<a href="sitemap_-1_10001_10001">Site Map</a>
-			  					</td>
-			  					<td class="footerTextUp" style="border-right: 1px #808284 solid;">
-			  						<a href="staticpage_-1_10001_10001_aboutUs.html">About Us</a>
-			  					</td>
-			  					<td class="footerTextUp" style="border-right: 1px #808284 solid;">
-			  						<a href="staticpage_-1_10001_10001_careerOpportunities.html">Careers</a>
-			  					</td>
-			  					<td class="footerTextUp" style="border-right: 1px #808284 solid;">
-			  						<a href="staticpage_-1_10001_10001_contactUs.html">Contact Us</a>
-			  					</td>
-			  					<td class="footerTextUp">
-			  						<a href="staticpage_-1_10001_10001_privacyTerms.html">Privacy &amp; Terms</a>
-			  					</td>
-			  					</tr>
-			  					</tbody></table>
-			  					</td>
-				</tr>
-			</tbody></table>
-		</td>
+		<td><img src="/wcsstore/ArtVan/images/spacer.gif" width="700" height="5" alt="" border="0"></td>
 	</tr>
 </tbody></table>
-<!-- Footer Area End -->
+		
+<table id="Table_01" width="770" border="0" cellpadding="0" cellspacing="0" style="padding: 0px; margin: 0px;">
+	
+	<!--<tr>
+								<td height="5" width="770" colspan="4"><img src="</wcsstore/ArtVan/images/spacer.gif" alt="" width="770" height="5"></td>
+							</tr>-->
+	<tbody><tr>
+		<td rowspan="2" style="border: 1px solid #d6e7c9;" width="192">
+			<a href="staticpage_-1_10001_10001_roomPlanner.html">
+			<img id="footer_03" src="/wcsstore/ArtVan/images/roomPlanner.gif" width="192" height="148" alt="" border="0"></a></td>
+			<td width="3px" rowspan="3">
+			<img id="footer_03" src="/wcsstore/ArtVan/images/spacer.gif" width="3" height="145" alt=""></td>	
+			<td valign="middle" align="center" style="padding: 0px 10px 0px 10px; border-top: 1px solid #d6e7c9; border-left: 1px solid #d6e7c9;">
+			<table width="100%" cellpadding="0" cellspacing="0" border="0">
+			<tbody><tr>
+		<td align="left" valign="center" style="padding: 5px 0px 10px 0px; border-bottom: 1px solid #d6e7c9; cursor: pointer;" onclick="location.href=&quot;staticpage_-1_10001_10001_clearanceInfo.html&quot;; return false;">
+			<p class="footerPara"><span style="font-size: 14px; font-family:Arial, Helvetica, sans-serif; color:#FF0000; letter-spacing:2px;">clearance center</span><br>
+			<span style="font-family:Arial, Helvetica, sans-serif; color: #666666; font-size:10px; line-height:12px;">for whatever life throws at you</span></p>
+			</td>
+			</tr>
+			<tr>
+				<td valign="middle" align="left" style="padding: 10px 0px 5px 0px; cursor: pointer;" onclick="location.href=&quot;staticpage_-1_10001_10001_events.html&quot;; return false;">
+			<p class="footerPara">
+			<img id="footer_03" src="/wcsstore/ArtVan/images/santa.jpg" alt="Santa is coming to Art Van" align="left">
+			<span style="font-family:Arial, Helvetica, sans-serif; color: #666666; font-size:10px;">Santa Claus is coming to Art Van!<br>
+			Click here for locations and dates.</span><br>
+			</p>
+			</td>
+			
+			
+	</tr>
+	</tbody></table>
+			</td>
+		<td style="padding: 5px; border-top: 1px solid #d6e7c9; border-right: 1px solid #d6e7c9;" valign="middle">
+		<table width="100%" cellpadding="0" cellspacing="0" border="0">
+			<tbody><tr>
+				<td width="92px" valign="top" style="border-left: 1px solid #d6e7c9; padding-left: 5px;">
+		<p class="footerTextStyle"><strong>about us</strong><br>
+		<br>
+		<a href="staticpage_-1_10001_10001_aboutUs.html">about Art Van</a><br>
+		<a href="staticpage_-1_10001_10001_contactUs.html">contact us</a><br>
+		<a href="staticpage_-1_10001_10001_careerOpportunities.html">careers</a><br>
+		<a href="sitemap_-1_10001_10001">site map</a></p>
+			</td>
+		<td rowspan="2" valign="top" style="border-left: 1px solid #d6e7c9; padding-left: 5px;">
+		<p class="footerTextStyle"><strong>guest services</strong><br>
+		<br>
+		<a href="staticpage_-1_10001_10001_guestServices.html">total satisfaction guarantee</a><br>
+		<a href="staticpage_-1_10001_10001_delivery.html">delivery</a><br>
+		<a href="staticpage_-1_10001_10001_creditInfo.html">manage your account</a><br>
+		<a href="ServiceRequestDisplayView?storeId=10001&amp;catalogId=10001">customer service</a></p>
+			</td>
+		<td colspan="2" rowspan="2" valign="top" width="100px" style="border-left: 1px solid #d6e7c9; padding-left: 5px;">
+		<p class="footerTextStyle"><strong>shop</strong><br>
+		<br>
+		<a href="requestcatalog_-1_10001_10001_2007FallCatalog">request a catalog</a><br>
+		<a href="staticpage_-1_10001_10001_annArbor.html">store locations</a><br>
+		<a href="staticpage_-1_10001_10001_events.html">special events</a><br>
+		<a href="product2_10001_10001_810001000_30000_30000_-1">gift cards</a></p>
+			</td>
+	</tr>
+	</tbody></table>
+	</td>
+	</tr>
+	
+	<tr>
+		<td colspan="2" style="background-color: #d6e7c9; padding: 5px; border: 1px solid #d6e7c9;">
+			<table width="100%" border="0" cellpadding="0" cellspacing="0">
+				<tbody><tr>
+					<td align="right" style="text-align: right; padding-right: 5px;"><span class="footerEmailText">sign up for news and sales promotions</span></td>
+					
+					<form name="EmailRegistrationForm" onsubmit="return submitEmailRegistrationForm(this)" method="post" action="EmailRegistrationConfirmationView"></form>
+					<input type="hidden" name="storeId" value="10001"> 
+					<input type="hidden" name="catalogId" value="10001"> 
+					<input type="hidden" name="langId" value="-1"> 
+					<td><input type="text" name="emailAddress" size="30" class="footerTextStyle" value="Enter your email address" onblur="if(this.value=='')this.value='Enter your email address';" onfocus="if(this.value=='Enter your email address')this.value='';">
+					
+					
+					<input type="submit" value="submit" class="footerTextStyle"></td>
+					
+				</tr>
+			</tbody></table>
+			</td>
+	</tr>
+	<tr>
+	<td colspan="3" style="font-family: Arial, Helvetica, sans-serif; font-size: 9px; color: #666666; text-align: left;">
+		©2007 - Art Van Furniture, Inc. - <a href="staticpage_-1_10001_10001_privacyTerms.html">Privacy Policy &amp; Terms of Use</a>
+	</td>
+	</tr>
+	
+</tbody></table>
 <script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript">
 </script>
 <script type="text/javascript">
 _uacct = "UA-1380231-1";
 urchinTracker();
 </script>
+
 			<!-- End Footer Include-->
 	  </td>
   </tr>
 </tbody></table>
+<!-- SiteCatalyst code version: H.14.
+Copyright 1997-2007 Omniture, Inc. More info available at
+http://www.omniture.com -->
+
+
+
+<script language="JavaScript"><!--
+/* You may give each page an identifying name, server, and channel on the next lines. */
+s.pageName="Static:privacyTerms.html"
+s.server=""
+s.channel=""
+s.pageType=""
+s.prop1=""
+s.prop2="Static Content"
+s.prop3=""
+s.prop4=""
+s.prop5=""
+/* E-commerce Variables */
+s.campaign=""
+s.state=""
+s.zip=""
+s.events=""
+s.products=""
+s.purchaseID=""
+s.eVar1=""
+s.eVar2="Landing Page"
+s.eVar3=""
+s.eVar4=""
+s.eVar5=""
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<!-- End SiteCatalyst code version: H.14. -->
 
 
 </body></html>
