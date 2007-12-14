@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dirkscrazyweek.com privacy policy that was archived on 2007-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070127010807id_/http%3A//www.dirkscrazyweek.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dirkscrazyweek.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214201028id_/http%3A//www.dirkscrazyweek.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy for www.TextLinkGoldmine.com
 
