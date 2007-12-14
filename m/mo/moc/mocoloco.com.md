@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the mocoloco.com privacy policy that was archived on 2007-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070218050412id_/http%3A//mocoloco.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mocoloco.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214181338id_/http%3A//mocoloco.com/privacy.php) for the most accurate reproduction.*
 
-# MoCo Loco : Advertising
-
-  | 
-
-Privacy Policy
+# MoCo Loco : Privacy Policy
 
 This document was last updated February 25, 2004.
 
@@ -51,5 +47,3 @@ Personal Information collected or requested by MoCoLoco will never be given out 
 It should be noted, however, that this Privacy Policy only addresses the use and dissemination of information that we collect from you. To the extent that you disclose any information to other parties, whether through, for example, on-line auctions, chat rooms, personal ads, or the like, or through other web sites throughout the Internet, different policies may apply. Since MoCoLoco does not control the privacy policies of third parties, you are subject to the privacy customs and policies, if any, of that third party, and MoCoLoco shall not be responsible for the use or dissemination of your private information by that third party. Therefore, we encourage you to ask questions before you disclose your personal information to others.
 
 MoCoLoco may periodically update this Privacy Policy. If so, MoCoLoco will post the updated Privacy Policy on this site. We encourage you to review this Privacy Policy from time to time for any changes. 
-
-|  
