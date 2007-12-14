@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appointmentquest.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607201249id_/http%3A//appointmentquest.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appointmentquest.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214043327id_/http%3A//www.appointmentquest.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - AppointmentQuest Online Scheduling Software
 
