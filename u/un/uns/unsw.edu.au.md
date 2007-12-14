@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unsw.edu.au privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630164453id_/http%3A//unsw.edu.au/gen/pad/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unsw.edu.au privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214214242id_/http%3A//www.unsw.edu.au/gen/pad/privacy.html) for the most accurate reproduction.*
 
 # UNSW: The University of New South Wales - Sydney Australia
 
