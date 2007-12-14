@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the karenswhimsy.com privacy policy that was archived on 2007-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070525191617id_/http%3A//karenswhimsy.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the karenswhimsy.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214173245id_/http%3A//karenswhimsy.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy :: Karen's Whimsy
 
