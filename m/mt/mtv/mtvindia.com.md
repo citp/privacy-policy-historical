@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mtvindia.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627043741id_/http%3A//www.mtvindia.com/mtv/aboutus/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mtvindia.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214071645id_/http%3A//www.mtvindia.com/mtv/aboutus/privacypolicy.php) for the most accurate reproduction.*
 
 # About MTV
 
@@ -40,6 +40,6 @@ MTVindia.com gives users options wherever necessary and practical. Such choices 
 Users may unsubscribe to any of our electronic newsletters at any time by following the instructions contained at the end of every newsletter.
 
 MTVindia.com  
-MTV Networks India Pvt Ltd.   
+Viacom18 Media Pvt Ltd.   
 36 B, Dr. R. K. Shirodkar Marg,   
 Parel (East) Mumbai - 400012
