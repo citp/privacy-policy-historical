@@ -1,33 +1,25 @@
-> *The following text is extracted and transformed from the adsdaq.com privacy policy that was archived on 2001-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010419232855id_/http%3A//www.amazingmedia.com/website/privacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adsdaq.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214154225id_/http%3A//www.contextweb.com/ppolicy.html) for the most accurate reproduction.*
 
-# 
+# Privacy Policy - ContextWeb
 
-Amazing Media™, Inc. Privacy Policy
+ContextWeb respects the privacy of individuals that use the Company's services either directly (as a publisher or advertiser) or indirectly (as an end-user). 
 
-Amazing Media, Inc. is committed to safeguarding your privacy. This Privacy Statement is a demonstration of that commitment. 
+## User Information
 
-We promise that:  
+ContextWeb does not collect any personally identifiable information about you (such as your name, email address, etc.) except when in your capacity as a publisher or advertiser, you specifically and knowingly provide such information. With each advertising impression served, ContextWeb collects information such as the time of day, URL visited, browser type, browser language, and IP address. That information is used to verify our records and to provide more relevant services to users, such as showing contextually relevant ads based on the URL visited. 
 
+## Cookies
 
-  * We will NEVER release your personal information to third parties without your permission, except for the sole purposes of data verification and supplementation. 
-  * We will occasionally release information based on group statistics without permission, however, confidentiality of members' personal information is always maintained. 
-  * Our programs are all "opt in." You may "opt out" from providing information at any time (see Opt In/Out section below). 
+A cookie is a small piece of data that is transmitted to an end-user's computer and stored in the cookie directory of that user's hard drive. A cookie identifies an end-user as a unique, anonymous user (but does not collect or transmit any personally identifiable information about that end-user). ContextWeb uses cookies to authenticate and keep track of user sessions and to measure the number of unique users viewing particular ads. In addition, ContextWeb uses cookies to reduce the likelihood of end-users seeing the same ad over and over again or more than a certain number of ContextWeb-served ads over a certain time period. As an end-user, you can generally configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set. (Each browser is different, so check the 'Help' menu of your browser to learn how to change your cookie preferences). Please note that if you reject all cookies, then ads will become more repetitive and you will be more likely to see the same ad over and over again. 
 
+## Information Sharing
 
+ContextWeb may share information that is not personally identifiable about you in the aggregate with advertisers, business partners, sponsors, and other third parties. For example, we may disclose how frequently the average ContextWeb end-user requests pages about a certain content area (such as health or finance), or which contextual advertisements are popular with our users. We will not share any personally identifiable information we may collect about you with any third party without your express consent unless we are required to do so in order to comply with any valid legal process such as a search warrant, subpoena, statute, or court order. 
 
-We welcome your questions, comments and concerns about our Privacy Policy. You may contact us by any of the following methods:  
-Phone: 703-246-9640   
-Fax: 703-246-9647   
-email: [info@amazingmedia.com](mailto:info@amazingmedia.com)
+## Web Page Content
 
-How to Change and/or Correct Advertiser Information  
-Amazing Media advertisers will have the ability to update their own personal account information, such as campaign parameters and billing information. 
+ContextWeb analyzes certain web pages of those publisher websites within our network. ContextWeb may use page content, form data and URL parameters in order to improve its service to the users. In addition, the visited URL is sent to ContextWeb's servers from the browser so that ContextWeb may retrieve the applicable page content from the publisher's servers. 
 
-Advertisers are verified by the user name and password entered upon access to the Amazing Media System. Advertisers may also submit changes via email, to [info@amazingmedia.com](mailto:info@amazingmedia.com), or to their account representative's email address and via phone.
+## Advertising Content
 
-Any questions regarding our Information Practices should be directed to [info@amazingmedia.com](mailto:info@amazingmedia.com). You may also send inquiries to: 
-
-Amazing Media, Inc.   
-Information Practices   
-3951 Pender Drive, Suite 105   
-Fairfax, VA 22030 
+ContextWeb's services display links to other sites in the form of "contextual advertising." ContextWeb has no control over the content presented in such advertisements; third party advertisers provide them. The content of these advertisements is intended to show a high degree of relevance to the content you view. ContextWeb parses the content of the URL visited, determines the relevant context and keywords and passes this information to the third party to obtain the advertisement to display. Changes to the Privacy Policy and your Consent ContextWeb may decide to change this Privacy Policy from time to time. When we do, we will post those changes on this page so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it. By using our services directly or indirectly, you consent to the collection and use of your information as outlined in our Privacy Policy. If you have any further questions, please do not hesitate to contact us at the top of this page. 
