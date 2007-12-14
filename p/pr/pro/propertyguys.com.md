@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the propertyguys.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627030724id_/http%3A//www.propertyguys.com/corporate/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propertyguys.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214133708id_/http%3A//www.propertyguys.com/corporate/legal/privacy.asp) for the most accurate reproduction.*
 
 # PropertyGuys.com - Homes For Sale By Owner Canada - Private List Canada - Your Private Sale Solution - FSBO Canada - Nova Scotia NS, New Brunswick NB, Prince Edward Island PEI PE, Newfoundland NF NL, Ontario ONT ON, Quebec QC, Manitoba MB, Saskatchewan SK, Alberta AB, British Columbia BC.
 
