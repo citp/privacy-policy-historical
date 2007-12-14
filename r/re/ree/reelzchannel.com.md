@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reelzchannel.com privacy policy that was archived on 2007-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070430173941id_/http%3A//www.reelzchannel.com/content.aspx%3Fnid%3D10) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reelzchannel.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214010152id_/http%3A//www.reelzchannel.com/content.aspx%3Fnid%3D10) for the most accurate reproduction.*
 
 # ReelzChannel
 
