@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the newsreview.com privacy policy that was archived on 2007-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070506151717id_/http%3A//www.newsreview.com/sacramento/ViewPage%3Foid%3D39096) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsreview.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214101003id_/http%3A//www.newsreview.com/sacramento/ViewPage%3Foid%3D39096) for the most accurate reproduction.*
 
-# Sacramento News & Review
+# Privacy Policy
 
 **Privacy Statement for www.newsreview.com**  
 News & Review has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this site; www.newsreview.com. 
