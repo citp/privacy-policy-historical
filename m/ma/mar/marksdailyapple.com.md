@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marksdailyapple.com privacy policy that was archived on 2007-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070212000412id_/http%3A//www.marksdailyapple.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marksdailyapple.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214030950id_/http%3A//www.marksdailyapple.com/privacy-policy) for the most accurate reproduction.*
 
 # Mark’s Daily Apple » Privacy Policy
 
@@ -34,4 +34,4 @@ From time to time, we may modify our policy. We will always inform you of any ch
 
 If you have any questions, please feel free to ask us by shooting us a line on the forum.
 
-**Disclaimer:** Views expressed on this website are just that - views. Opinions and information presented on this site are not intended to replace the advice of your primary health care provider.  Please enjoy responsibly! 
+**Disclaimer:** Views expressed on this website are just that - views. Opinions and information presented on this site are not intended to replace the advice of your primary health care provider.  Please enjoy responsibly!
