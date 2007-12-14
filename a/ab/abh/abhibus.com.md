@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the abhibus.com privacy policy that was archived on 2007-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070531224849id_/http%3A//www.abhibus.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abhibus.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214153828id_/http%3A//abhibus.com/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - AbhiBus, bus ticket reservation portal
+# ABHI - End User
 
 |   
 ---  
@@ -24,9 +24,4 @@ Abhibus contains links to other web sites. Please note that when you click on on
 **Thank you for Choosing Us.**  
 |   
 |  |   
-   
-|  |  | This site is best viewed in IE and FireFox 2.0.3 with 1024 X 768 resolution  
----  
-Site Developed and Managed by [ValueLabs](http://www.valuelabs.com/)  
-  
-
+ 
