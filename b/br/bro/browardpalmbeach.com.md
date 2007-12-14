@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the browardpalmbeach.com privacy policy that was archived on 2007-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070426182555id_/http%3A//www.browardpalmbeach.com/about/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the browardpalmbeach.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214115351id_/http%3A//www.browardpalmbeach.com/about/policy.php) for the most accurate reproduction.*
 
-# Broward-Palm Beach - - browardpalmbeach.com
+# Broward-Palm Beach -
 
 Parent of _Broward-Palm Beach New Times_ and browardpalmbeach.com 
 
@@ -39,5 +39,3 @@ Our Site is published in the United States. U.S. law shall govern in any and all
 In the event of a sale of Broward-Palm Beach New Times or a sale of substantially all Broward-Palm Beach New Times's assets, the email database and all user information shall accrue to the new owners. Your personally identifiable information will continue to be governed by this Privacy Policy, as it may be amended from time to time. 
 
 If you have any questions about this privacy policy, e-mail them to [privacyadministrator@villagevoicemedia.com](mailto:privacyadministrator@villagevoicemedia.com), and be sure to indicate the specific site you're visiting and the nature of your question or concern. If your personally identifiable information changes, you may correct and/or update it by sending us an email at [web@browardpalmbeach.com](mailto:web@browardpalmbeach.com). 
-
-| 
