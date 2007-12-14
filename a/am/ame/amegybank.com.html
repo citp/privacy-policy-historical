@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the amegybank.com privacy policy that was archived on 2007-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070607194824id_/http%3A//www.amegybank.com/privacypolicy/index.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the amegybank.com privacy policy that was archived on 2007-12-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071214230811id_/http%3A//amegybank.com/privacypolicy/index.aspx) for the most accurate reproduction.-->
 
 <html><head></head><body bgcolor="#ffffff" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0"><form name="_ctl0" method="post" action="index.aspx" id="_ctl0">
 <input type="hidden" name="__EVENTTARGET" value="">
@@ -124,6 +124,7 @@
 	var CompanyId			= 'Company&nbsp;ID';
 	var LoginId				= "Login&nbsp;ID";
 	var WhereIsMyPassword	= "Where is my password?";
+	var UserGuide			= "User Guide";
 	var ResetPassword		= "Reset Password";
 	var SignUpNow			= "Sign Up Now";
 	var Demo				= "Demo";
@@ -135,12 +136,12 @@
 <!--
 	var ShowUnavailable		= "false";
 
-	var TabPersonal			= "<img src=/images/TabPersonal" + LanguagePostFix + ".gif border=0>";
-	var TabPersonalSelected	= "<img src=/images/TabPersonalSelected" + LanguagePostFix + ".gif border=0>";
-	var TabSmallBus			= "<img src=/images/TabSmallBus" + LanguagePostFix + ".gif border=0>";
-	var TabSmallBusSelected	= "<img src=/images/TabSmallBusSelected" + LanguagePostFix + ".gif border=0>";
-	var TabCorporate		= "<img src=/images/TabCorporate" + LanguagePostFix + ".gif border=0>";
-	var TabUnavailable		= "<img src=/images/Unavailable" + LanguagePostFix + ".gif border=0>";
+	var TabPersonal			= "<img src=/images/TabPersonalTop" + LanguagePostFix + ".gif border=0>";
+	var TabPersonalSelected	= "<img src=/images/TabPersonalTopSelected" + LanguagePostFix + ".gif border=0>";
+	var TabSmallBus			= "<img src=/images/TabSmallBusTop" + LanguagePostFix + ".gif border=0>";
+	var TabSmallBusSelected	= "<img src=/images/TabSmallBusTopSelected" + LanguagePostFix + ".gif border=0>";
+	var TabCorporate		= "<img src=/images/TabCorporateTop" + LanguagePostFix + ".gif border=0>";
+	var TabUnavailable		= "<img src=/images/UnavailableTop" + LanguagePostFix + ".gif border=0>";
 	var PersonalGoButton	= "<input id=lnkPersonalGo onclick=javascript:PersonalGo(); type=image alt=Go src=/images/go_dk" + LanguagePostFix + ".gif>";
 	var SmallBusGoButton	= "<input id=lnkSmallBusGo onclick=javascript:SmallBusGo(); type=image alt=Go src=/images/go_dk" + LanguagePostFix + ".gif>";
 // -->
@@ -294,31 +295,46 @@
 <input type="hidden" id="domainId" name="domainId" value="abt">
 <input type="hidden" id="appId" name="appId">
 <input type="hidden" id="publicCred1" name="publicCred1">
+
 <input type="hidden" id="publicCred2" name="publicCred2">
 <div id="PersonalTabDiv">
 	<!-- Personal Tab -->
 	<table valign="top" border="0" cellpadding="0" cellspacing="0" bgcolor="#c5cfd9" id="Table1">
 		<tbody><tr>
-			<td rowspan="9" width="1" height="109"><img src="/images/BlueBorder.gif" width="1" height="100%"></td>
-			<td colspan="2"><img src="http://www.amegybank.com/images/OnlineBankingLogin.gif"></td>
-			<td rowspan="9" width="1" height="109"><img src="/images/BlueBorder.gif" width="1" height="100%"></td>
+			<td width="1" height="100%"><img src="/images/BlueBorder.gif" width="1" height="100%"></td>
+			<td colspan="2"><img src="/images/OnlineBankingLogin.gif"></td>
+			<td width="1" height="100%"><img src="/images/BlueBorder.gif" width="1" height="100%"></td>
 		</tr>
 		<tr>
-			<td colspan="2" width="2"><img height="2" src="/images/spacer.gif"></td>
+			<td bgcolor="#ffffff" colspan="4" width="2"><img height="2" src="/images/spacer.gif"></td>
+		</tr>
+		<tr>
+			<td colspan="4"><table valign="top" border="0" cellpadding="0" cellspacing="0" id="Table3">
+					<tbody><tr>
+						<td><script>document.write(TabPersonalSelected)</script><img src="/images/TabPersonalTopSelected.gif" border="0"></td>
+						<td><a href="javascript:SwitchBus()"><script>document.write(TabSmallBus)</script><img src="/images/TabSmallBusTop.gif" border="0"></a></td>
+						<td><a href="http://www.amegybank.com/commercial_banking/tm/login-netstar.aspx"><script>document.write(TabCorporate)</script><img src="/images/TabCorporateTop.gif" border="0"></a></td>
+
+					</tr>
+			</tbody></table></td>
+		</tr>
+		<tr>
+			<td rowspan="9" width="1" height="85"><img src="/images/BlueBorder.gif" width="1" height="100%"></td>
+			<td colspan="2"><img height="7" src="/images/spacer.gif"></td>
+			<td rowspan="9" width="1" height="85"><img src="/images/BlueBorder.gif" width="1" height="100%"></td>
 		</tr>
 		<tr>
 			<td width="10"><span style="PADDING-LEFT: 7px; FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Arial, Verdana"><script>document.write(LoginId)</script>Login&nbsp;ID:&nbsp; </span></td>
 			<td width="10"><input id="PersonalLoginId" onkeydown="PersonalButtonPress(event);" style="WIDTH: 107px" maxlength="32" size="9" name="PersonalLoginId"></td>
 		</tr>
 		<tr>
-			<td><img height="1" src="/images/spacer.gif"></td>
-		</tr>
-		<tr>
-			<td colspan="2" align="center"><a href="javascript:void window.open('http://www.amegybank.com/SecurEntry_WhereIsMyPassword.aspx','','width=450,height500,scrollbars=yes,top=100,left=100,menubat=no,resizable=yes');"><span style="PADDING-LEFT: 7px; FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: Arial, Verdana"><script>document.write(WhereIsMyPassword)</script>Where is my password?</span></a></td>
+
+			<td><img height="5" src="/images/spacer.gif"></td>
 		</tr>
 		<tr>
 			<td colspan="2">
 				<table cellspacing="0" cellpadding="0" width="100%" border="0" id="Table2">
+
 					<tbody><tr>
 						<td><a href="http://www.amegybank.com/security.aspx"><img src="/images/hp_icon_lock.gif" border="0" name="security"></a></td>
 						<td style="PADDING-BOTTOM: 5px" valign="bottom" nowrap="" align="middle"><span id="lnkReset"><a style="PADDING-LEFT: 7px; FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Arial, Verdana" href="https://banking.amegybank.com/passwordreset/praction/PasswordReset" target="_blank"><script>document.write(ResetPassword)</script>Reset Password</a></span></td>
@@ -334,16 +350,10 @@
 			<td align="middle" colspan="2"><a style="PADDING-LEFT: 7px; FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Arial, Verdana" href="http://www.amegybank.com/bah_enroll.aspx"><script>document.write(SignUpNow)</script>Sign Up Now</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a style="PADDING-LEFT: 7px; FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Arial, Verdana" href="http://www.amegybank.com/bah_demo.aspx"><script>document.write(Demo)</script>Demo</a>&nbsp;&nbsp;&nbsp;</td>
 		</tr>
 		<tr>
-			<td><img height="9" src="/images/spacer.gif"></td>
+			<td><img height="6" src="/images/spacer.gif"></td>
 		</tr>
 		<tr>
-			<td colspan="4"><table valign="top" border="0" cellpadding="0" cellspacing="0" id="Table3">
-					<tbody><tr>
-						<td><script>document.write(TabPersonalSelected)</script><img src="/images/TabPersonalSelected.gif" border="0"></td>
-						<td><a href="javascript:SwitchBus()"><script>document.write(TabSmallBus)</script><img src="/images/TabSmallBus.gif" border="0"></a></td>
-						<td><a href="http://www.amegybank.com/commercial_banking/tm/login-netstar.aspx"><script>document.write(TabCorporate)</script><img src="/images/TabCorporate.gif" border="0"></a></td>
-					</tr>
-			</tbody></table></td>
+			<td colspan="2" height="1" width="100%"><img height="1" width="100%" src="/images/BlueBorder.gif"></td>
 		</tr>
 	</tbody></table>
 </div> <!-- end PersonalTabDiv -->
@@ -352,12 +362,26 @@
 	<!-- Small Business Tab -->
 	<table valign="top" border="0" cellpadding="0" cellspacing="0" bgcolor="#c5cfd9" id="Table4">
 		<tbody><tr>
-			<td rowspan="7" width="1" height="109"><img src="/images/BlueBorder.gif" width="1" height="100%"></td>
+			<td width="1" height="100%"><img src="/images/BlueBorder.gif" width="1" height="100%"></td>
 			<td colspan="2"><img src="/images/OnlineBankingLogin.gif"></td>
-			<td rowspan="7" width="1" height="109"><img src="/images/BlueBorder.gif" width="1" height="100%"></td>
+			<td width="1" height="100%"><img src="/images/BlueBorder.gif" width="1" height="100%"></td>
 		</tr>
 		<tr>
-			<td colspan="2" width="2"><img height="2" src="/images/spacer.gif"></td>
+			<td bgcolor="#ffffff" colspan="4" width="2"><img height="2" src="/images/spacer.gif"></td>
+		</tr>
+		<tr>
+			<td colspan="4"><table valign="top" border="0" cellpadding="0" cellspacing="0" id="Table6">
+					<tbody><tr>
+						<td><a href="javascript:SwitchPer()"><script>document.write(TabPersonal)</script><img src="/images/TabPersonalTop.gif" border="0"></a></td>
+						<td><script>document.write(TabSmallBusSelected)</script><img src="/images/TabSmallBusTopSelected.gif" border="0"></td>
+						<td><a href="http://www.amegybank.com/commercial_banking/tm/login-netstar.aspx"><script>document.write(TabCorporate)</script><img src="/images/TabCorporateTop.gif" border="0"></a></td>
+					</tr>
+			</tbody></table></td>
+		</tr>
+		<tr>
+			<td rowspan="9" width="1" height="85"><img src="/images/BlueBorder.gif" width="1" height="100%"></td>
+			<td colspan="2"><img height="2" src="/images/spacer.gif"></td>
+			<td rowspan="9" width="1" height="85"><img src="/images/BlueBorder.gif" width="1" height="100%"></td>
 		</tr>
 		<tr>
 			<td width="10"><span style="PADDING-LEFT: 7px; FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Arial, Verdana"><script>document.write(CompanyId)</script>Company&nbsp;ID:&nbsp; </span></td>
@@ -368,30 +392,26 @@
 			<td width="10"><input id="SmallBusLoginId" onkeydown="SmallBusButtonPress(event);" style="WIDTH: 85px" maxlength="32" size="9" name="SmallBusLoginId"></td>
 		</tr>
 		<tr>
-			<td colspan="2" align="center"><a href="javascript:void window.open('http://www.amegybank.com/SecurEntry_WhereIsMyPassword.aspx','','width=450,height500,scrollbars=yes,top=100,left=100,menubat=no,resizable=yes');"><span style="PADDING-LEFT: 7px; FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: Arial, Verdana"><script>document.write(WhereIsMyPassword)</script>Where is my password?</span></a></td>
+
+			<td colspan="2" align="center"><a target="_blank" href="http://www.amegybank.com/documents/28368_Copy.pdf"><span style="PADDING-LEFT: 7px; FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: Arial, Verdana"><script>document.write(UserGuide)</script>User Guide</span></a></td>
 		</tr>
 		<tr>
 			<td colspan="2">
 				<table cellspacing="0" cellpadding="0" width="100%" border="0" id="Table5">
 					<tbody><tr>
 						<td><a href="http://www.amegybank.com/security.aspx"><img src="/images/hp_icon_lock.gif" border="0" name="security"></a></td>
-						<td align="middle" colspan="2"><a style="PADDING-LEFT: 7px; FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Arial, Verdana" href="sb_enroll.aspx"><script>document.write(SignUpNow)</script>Sign Up Now</a>&nbsp;<a style="PADDING-LEFT: 7px; FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Arial, Verdana" href="http://www.amegybank.com/bah_demo.aspx"><script>document.write(Demo)</script>Demo</a>&nbsp;</td>
+						<td align="middle" colspan="2"><a style="PADDING-LEFT: 7px; FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Arial, Verdana" href="http://www.amegybank.com/sb_enroll.aspx"><script>document.write(SignUpNow)</script>Sign Up Now</a>&nbsp;<a style="PADDING-LEFT: 7px; FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Arial, Verdana" href="http://www.amegybank.com/sb_demo.aspx"><script>document.write(Demo)</script>Demo</a>&nbsp;</td>
+
 						<td align="right"><img src="/images/spacer.gif" width="5"><script>document.write(SmallBusGoButton)</script><input id="lnkSmallBusGo" onclick="javascript:SmallBusGo();" type="image" alt="Go" src="/images/go_dk.gif"></td>
 					</tr>
 				</tbody></table>
 			</td>
 		</tr>
 		<tr>
-			<td><img height="4" src="/images/spacer.gif"></td>
+			<td colspan="2"><img height="1" src="/images/spacer.gif"></td>
 		</tr>
 		<tr>
-			<td colspan="4"><table valign="top" border="0" cellpadding="0" cellspacing="0" id="Table6">
-					<tbody><tr>
-						<td><a href="javascript:SwitchPer()"><script>document.write(TabPersonal)</script><img src="/images/TabPersonal.gif" border="0"></a></td>
-						<td><script>document.write(TabSmallBusSelected)</script><img src="/images/TabSmallBusSelected.gif" border="0"></td>
-						<td><a href="http://www.amegybank.com/commercial_banking/tm/login-netstar.aspx"><script>document.write(TabCorporate)</script><img src="/images/TabCorporate.gif" border="0"></a></td>
-					</tr>
-			</tbody></table></td>
+			<td colspan="2" height="1" width="100%"><img height="1" width="100%" src="/images/BlueBorder.gif"></td>
 		</tr>
 	</tbody></table>
 </div> <!-- end SmallBusTabDiv -->
@@ -401,11 +421,15 @@
 	<table valign="top" border="0" cellpadding="0" cellspacing="0" bgcolor="#c5cfd9" id="Table7">
 		<tbody><tr>
 			<td rowspan="1" width="1" height="100%"><img src="/images/BlueBorder.gif" width="1" height="100%"></td>
+
 			<td><img src="/images/OnlineBankingLogin.gif"></td>
 			<td rowspan="1" width="1" height="100%"><img src="/images/BlueBorder.gif" width="1" height="100%"></td>
 		</tr>
+		<tr height="1">
+			<td colspan="3" bgcolor="FFFFFF"><img height="1" src="/images/spacer.gif"></td>
+		</tr>
 		<tr>
-			<td colspan="3"><script>document.write(TabUnavailable)</script><img src="/images/Unavailable.gif" border="0"></td>
+			<td colspan="3"><script>document.write(TabUnavailable)</script><img src="/images/UnavailableTop.gif" border="0"></td>
 		</tr>
 	</tbody></table>
 </div> <!-- end UnavailableTabDiv -->
@@ -436,7 +460,7 @@
 										<tbody><tr><td><img src="http://www.amegybank.com/images/spacer.gif" height="3"></td></tr>
 										<tr><td><a href="http://www.amegybank.com/personal_banking/index.aspx"><img src="http://www.amegybank.com/images/MenuPersonal.gif" border="0"></a></td></tr>
 										<tr><td></td></tr>
-										<tr><td><a href="http://www.amegybank.com/small_business/index.aspx"><img src="http://www.amegybank.com/images/MenuSmallBus.gif" border="0"></a></td></tr>
+										<tr><td><a href="http://www.amegybank.com/small_business/index.aspx"><img src="http://www.amegybank.com/images/MenuBus.gif" border="0"></a></td></tr>
 										<tr><td></td></tr>
 										<tr><td><a href="http://www.amegybank.com/commercial_banking/index.aspx"><img src="http://www.amegybank.com/images/MenuCommercial.gif" border="0"></a></td></tr>
 										<tr><td></td></tr>
@@ -454,7 +478,7 @@
 									<td height="3"><img src="http://www.amegybank.com/images/spacer.gif" height="3"></td>
 								</tr>
 								<tr valign="top">
-									<td class="sub_nav_border"><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td colspan="3"><img src="http://www.amegybank.com/images/spacer.gif" height="1" width="162"></td></tr><tr><td><img src="http://www.amegybank.com/images/spacer.gif" height="18" width="1"></td><td class="sub_nav_title_cell"><a href="http://www.amegybank.com/aboutus/index.aspx" class="sub_nav_title_link">About Us</a></td><td><img src="http://www.amegybank.com/images/spacer.gif" height="18" width="1"></td></tr><tr class="CategoriesTableRow"><td class="CategoriesTableCell"><img src="http://www.amegybank.com/images/spacer.gif" height="1" width="1"></td><td colspan="1" bgcolor="#ffffff"><img src="images/spacer.gif" height="1" width="162"></td><td><img src="http://www.amegybank.com/images/spacer.gif" height="1" width="1"></td></tr><tr><td><img src="http://www.amegybank.com/images/spacer.gif" height="18" width="1"></td><td class="subnav_cell"><a href="http://www.amegybank.com/aboutus/companyinfo.aspx" class="sub_nav_text"><span class="raquo">»</span>&nbsp; Company Information</a></td><td><img src="http://www.amegybank.com/images/spacer.gif" height="18" width="1"></td></tr><tr class="CategoriesTableRow"><td class="CategoriesTableCell"><img src="http://www.amegybank.com/images/spacer.gif" height="1" width="1"></td><td colspan="1" bgcolor="#ffffff"><img src="images/spacer.gif" height="1" width="162"></td><td><img src="http://www.amegybank.com/images/spacer.gif" height="1" width="1"></td></tr><tr><td><img src="http://www.amegybank.com/images/spacer.gif" height="18" width="1"></td><td class="subnav_cell"><a href="http://www.amegybank.com/aboutus/newsroom.aspx" class="sub_nav_text"><span class="raquo">»</span>&nbsp; Newsroom</a></td><td><img src="http://www.amegybank.com/images/spacer.gif" height="18" width="1"></td></tr><tr class="CategoriesTableRow"><td class="CategoriesTableCell"><img src="http://www.amegybank.com/images/spacer.gif" height="1" width="1"></td><td colspan="1" bgcolor="#ffffff"><img src="images/spacer.gif" height="1" width="162"></td><td><img src="http://www.amegybank.com/images/spacer.gif" height="1" width="1"></td></tr><tr><td><img src="http://www.amegybank.com/images/spacer.gif" height="18" width="1"></td><td class="subnav_cell"><a href="http://www.amegybank.com/aboutus/companyprofile.aspx" class="sub_nav_text"><span class="raquo">»</span>&nbsp; Careers</a></td><td><img src="http://www.amegybank.com/images/spacer.gif" height="18" width="1"></td></tr><tr class="CategoriesTableRow"><td class="CategoriesTableCell"><img src="http://www.amegybank.com/images/spacer.gif" height="1" width="1"></td><td colspan="1" bgcolor="#ffffff"><img src="images/spacer.gif" height="1" width="162"></td><td><img src="http://www.amegybank.com/images/spacer.gif" height="1" width="1"></td></tr><tr><td><img src="http://www.amegybank.com/images/spacer.gif" height="18" width="1"></td><td class="subnav_cell"><a href="http://www.amegybank.com/aboutus/communitycommit.aspx" class="sub_nav_text"><span class="raquo">»</span>&nbsp; Community Commitment</a></td><td><img src="http://www.amegybank.com/images/spacer.gif" height="18" width="1"></td></tr><tr class="CategoriesTableRow"><td class="CategoriesTableCell"><img src="http://www.amegybank.com/images/spacer.gif" height="1" width="1"></td><td colspan="1" bgcolor="#ffffff"><img src="images/spacer.gif" height="1" width="162"></td><td><img src="http://www.amegybank.com/images/spacer.gif" height="1" width="1"></td></tr><tr><td><img src="http://www.amegybank.com/images/spacer.gif" height="18" width="1"></td><td class="subnav_cell"><a href="http://www.amegybank.com/aboutus/locations.aspx" class="sub_nav_text"><span class="raquo">»</span>&nbsp; Locations</a></td><td><img src="http://www.amegybank.com/images/spacer.gif" height="18" width="1"></td></tr><tr class="CategoriesTableRow"><td class="CategoriesTableCell"><img src="http://www.amegybank.com/images/spacer.gif" height="1" width="1"></td><td colspan="1" bgcolor="#ffffff"><img src="images/spacer.gif" height="1" width="162"></td><td><img src="http://www.amegybank.com/images/spacer.gif" height="1" width="1"></td></tr><tr><td><img src="http://www.amegybank.com/images/spacer.gif" height="18" width="1"></td><td class="subnav_cell"><a href="http://www.amegybank.com/aboutus/contact.aspx" class="sub_nav_text"><span class="raquo">»</span>&nbsp; Contact Us</a></td><td><img src="http://www.amegybank.com/images/spacer.gif" height="18" width="1"></td></tr></tbody></table></td>
+									<td class="sub_nav_border"><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td colspan="3"><img src="http://www.amegybank.com/images/spacer.gif" height="1" width="162"></td></tr><tr><td><img src="http://www.amegybank.com/images/spacer.gif" height="18" width="1"></td><td class="sub_nav_title_cell"><a href="http://www.amegybank.com/aboutus/index.aspx" class="sub_nav_title_link">About Us</a></td><td><img src="http://www.amegybank.com/images/spacer.gif" height="18" width="1"></td></tr><tr class="CategoriesTableRow"><td class="CategoriesTableCell"><img src="http://www.amegybank.com/images/spacer.gif" height="1" width="1"></td><td colspan="1" bgcolor="#ffffff"><img src="images/spacer.gif" height="1" width="162"></td><td><img src="http://www.amegybank.com/images/spacer.gif" height="1" width="1"></td></tr><tr><td><img src="http://www.amegybank.com/images/spacer.gif" height="18" width="1"></td><td class="subnav_cell"><a href="http://www.amegybank.com/aboutus/companyinfo.aspx" class="sub_nav_text"><span class="raquo">»</span>&nbsp; Company Information</a></td><td><img src="http://www.amegybank.com/images/spacer.gif" height="18" width="1"></td></tr><tr class="CategoriesTableRow"><td class="CategoriesTableCell"><img src="http://www.amegybank.com/images/spacer.gif" height="1" width="1"></td><td colspan="1" bgcolor="#ffffff"><img src="images/spacer.gif" height="1" width="162"></td><td><img src="http://www.amegybank.com/images/spacer.gif" height="1" width="1"></td></tr><tr><td><img src="http://www.amegybank.com/images/spacer.gif" height="18" width="1"></td><td class="subnav_cell"><a href="http://www.amegybank.com/aboutus/newsroom.aspx" class="sub_nav_text"><span class="raquo">»</span>&nbsp; Newsroom</a></td><td><img src="http://www.amegybank.com/images/spacer.gif" height="18" width="1"></td></tr><tr class="CategoriesTableRow"><td class="CategoriesTableCell"><img src="http://www.amegybank.com/images/spacer.gif" height="1" width="1"></td><td colspan="1" bgcolor="#ffffff"><img src="images/spacer.gif" height="1" width="162"></td><td><img src="http://www.amegybank.com/images/spacer.gif" height="1" width="1"></td></tr><tr><td><img src="http://www.amegybank.com/images/spacer.gif" height="18" width="1"></td><td class="subnav_cell"><a href="http://www.amegybank.com/aboutus/companyprofile.aspx" class="sub_nav_text"><span class="raquo">»</span>&nbsp; Careers</a></td><td><img src="http://www.amegybank.com/images/spacer.gif" height="18" width="1"></td></tr><tr class="CategoriesTableRow"><td class="CategoriesTableCell"><img src="http://www.amegybank.com/images/spacer.gif" height="1" width="1"></td><td colspan="1" bgcolor="#ffffff"><img src="images/spacer.gif" height="1" width="162"></td><td><img src="http://www.amegybank.com/images/spacer.gif" height="1" width="1"></td></tr><tr><td><img src="http://www.amegybank.com/images/spacer.gif" height="18" width="1"></td><td class="subnav_cell"><a href="http://www.amegybank.com/aboutus/communitycommit.aspx" class="sub_nav_text"><span class="raquo">»</span>&nbsp; Community Commitment</a></td><td><img src="http://www.amegybank.com/images/spacer.gif" height="18" width="1"></td></tr><tr class="CategoriesTableRow"><td class="CategoriesTableCell"><img src="http://www.amegybank.com/images/spacer.gif" height="1" width="1"></td><td colspan="1" bgcolor="#ffffff"><img src="images/spacer.gif" height="1" width="162"></td><td><img src="http://www.amegybank.com/images/spacer.gif" height="1" width="1"></td></tr><tr><td><img src="http://www.amegybank.com/images/spacer.gif" height="18" width="1"></td><td class="subnav_cell"><a href="http://www.amegybank.com/aboutus/locations.aspx" class="sub_nav_text"><span class="raquo">»</span>&nbsp; Locations</a></td><td><img src="http://www.amegybank.com/images/spacer.gif" height="18" width="1"></td></tr><tr class="CategoriesTableRow"><td class="CategoriesTableCell"><img src="http://www.amegybank.com/images/spacer.gif" height="1" width="1"></td><td colspan="1" bgcolor="#ffffff"><img src="images/spacer.gif" height="1" width="162"></td><td><img src="http://www.amegybank.com/images/spacer.gif" height="1" width="1"></td></tr><tr><td><img src="http://www.amegybank.com/images/spacer.gif" height="18" width="1"></td><td class="subnav_cell"><a href="http://www.amegybank.com/aboutus/contact.aspx" class="sub_nav_text"><span class="raquo">»</span>&nbsp; Contact Us</a></td><td><img src="http://www.amegybank.com/images/spacer.gif" height="18" width="1"></td></tr><tr class="CategoriesTableRow"><td class="CategoriesTableCell"><img src="http://www.amegybank.com/images/spacer.gif" height="1" width="1"></td><td colspan="1" bgcolor="#ffffff"><img src="images/spacer.gif" height="1" width="162"></td><td><img src="http://www.amegybank.com/images/spacer.gif" height="1" width="1"></td></tr><tr><td><img src="http://www.amegybank.com/images/spacer.gif" height="18" width="1"></td><td class="subnav_cell"><a href="http://www.amegybank.com/aboutus/womensinitiative.aspx" class="sub_nav_text"><span class="raquo">»</span>&nbsp; Amegy Women's Initiative</a></td><td><img src="http://www.amegybank.com/images/spacer.gif" height="18" width="1"></td></tr></tbody></table></td>
 								</tr>
 								<tr valign="top">
 									<td class="sub_nav_border" color="" height="1"><img src="http://www.amegybank.com/images/spacer.gif" height="1"></td>
