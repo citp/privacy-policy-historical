@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stickam.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623192607id_/http%3A//www.stickam.com/about/privacy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stickam.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214133244id_/http%3A//www.stickam.com/about/privacy.do) for the most accurate reproduction.*
 
 # Privacy Policy
 
