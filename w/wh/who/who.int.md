@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the who.int privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630154718id_/http%3A//www.who.int/about/privacy/en) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the who.int privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214082943id_/http%3A//www.who.int/about/privacy/en) for the most accurate reproduction.*
 
 # WHO | Privacy policy
 
-[](https://web.archive.org/web/20070630154718id_/http://www.who.int/about/privacy/en/print.html)[printable version](https://web.archive.org/web/20070630154718id_/http://www.who.int/about/privacy/en/print.html)
+[](https://web.archive.org/web/20071214082943id_/http://www.who.int/about/privacy/en/print.html)[printable version](https://web.archive.org/web/20071214082943id_/http://www.who.int/about/privacy/en/print.html)
 
 Your privacy on the Internet is of utmost importance to the World Health Organization (WHO). This privacy statement describes WHO’s policy concerning the gathering and sharing of visitors’ information through the WHO web site. It applies to all “WHO sites” – that is, all sites within the “who.int” domain name.
 
