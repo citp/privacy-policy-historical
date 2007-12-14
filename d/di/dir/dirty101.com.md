@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dirty101.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625064719id_/http%3A//www.dirty101.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dirty101.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214162621id_/http%3A//www.dirty101.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
