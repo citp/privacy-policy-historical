@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the funeducation.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625040634id_/http%3A//www.funeducation.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funeducation.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214035724id_/http%3A//www.funeducation.com/company/privacy) for the most accurate reproduction.*
 
 # FunEducation, Inc. Privacy Statement
 
   
-General Privacy Statement  |  [Children's Privacy Policy](https://web.archive.org/web/20070625040634id_/http://www.funeducation.com/company/privacy/children.asp)
+General Privacy Statement  |  [Children's Privacy Policy](https://web.archive.org/web/20071214035724id_/http://www.funeducation.com/company/privacy/children.asp)
 
 * * *
 
