@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phpizabi.net privacy policy that was archived on 2007-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070501070519id_/http%3A//www.phpizabi.net/%3FL%3Dhome.privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phpizabi.net privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214035252id_/http%3A//www.phpizabi.net/%3FL%3Dhome.privacy) for the most accurate reproduction.*
 
 # PHPizabi - Create Worlds
 
