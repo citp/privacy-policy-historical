@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the donkeymails.com privacy policy that was archived on 2007-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070528063356id_/http%3A//www.donkeymails.com/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the donkeymails.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214144254id_/http%3A//www.donkeymails.com/pages/privacy.php) for the most accurate reproduction.*
 
 # DonkeyMails.com: No Minimum Payout
 
