@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the journal-news.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627131205id_/http%3A//www.journal-news.com/c/content/shared/services/policies/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the journal-news.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214090004id_/http%3A//www.journal-news.com/c/content/shared/services/policies/privacypolicy.html) for the most accurate reproduction.*
 
 # Journal-News: Dayton, Ohio, news and information
 
