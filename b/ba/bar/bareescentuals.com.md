@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bareescentuals.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607232535id_/http%3A//www.bareescentuals.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bareescentuals.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214213549id_/http%3A//www.bareescentuals.com/about/privacy.html) for the most accurate reproduction.*
 
 # Bare Escentuals - Natural Cosmetics for the Body and Face
 
@@ -10,7 +10,7 @@ We request your name, email address, mailing address, phone number, credit card 
 
 ## When you register for an account...
 
-We ask for your name, mailing address, telephone number, email address and password. This data is stored securely, and you don't have to re-enter it with each visit to our web site. It's also used to recognize you as a repeat customer so we can personalize your shopping experience.
+We ask for your name, mailing address, telephone number, email address and password. This data is stored securely, and you don't have to re-enter it with each visit to our website. It's also used to recognize you as a repeat customer so we can personalize your shopping experience.
 
 ## When you join our email list...
 
@@ -24,13 +24,13 @@ If you register with us and we discover that you are under 13, we will remove yo
 
 ## What are cookies?
 
-A cookie is a small data file that Web sites often store on your computer's hard drive when you visit their sites. We do not store personally identifiable information in your cookie.
+A cookie is a small data file that websites often store on your computer's hard drive when you visit their sites. We do not store personally identifiable information in your cookie.
 
 We use cookies to improve your shopping experience. When you visit www.bareescentuals.com, your cookie helps us keep track of your order as you shop at our site. If you are a registered user, your cookie allows us to recognize you when you return to our site and provides you with access to your account information. If you register with or order from us, we also use cookies to monitor and maintain information about your use of our site. If you have not registered with or ordered from us, we may monitor and maintain information about your use of our website in a manner that does not identify you. In either case, this information helps us serve you better by improving our site design and services.
 
 ## How do we protect your security?
 
-Our website's security is handled by Datapak Services. Datapak uses third party software encryption packages, i.e. Verisign, to protect the security of your online order information. With Datapak Services, information sent via the Internet is encrypted in a way that only www.bareescentuals.com can decode. Your password is also protected, so only you can access your account information. We recommend that you keep your password private and always sign-out of your account and close your browser when you are finished shopping.
+Our website's security is handled by Datapak Services. Datapak uses third party software encryption packages, i.e. Verisign, to protect the security of your online order information. With Datapak Services, information sent via the Internet is encrypted in a way that only www.bareescentuals.com can decode. Your password is also protected, so only you can access your account information. We recommend that you keep your password private and always signout of your account and close your browser when you are finished shopping.
 
 ## Changes to our Privacy Policy
 
