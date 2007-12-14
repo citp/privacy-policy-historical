@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the online-go.com privacy policy that was archived on 2007-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070205045837id_/http%3A//www.online-go.com/policies/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the online-go.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214183549id_/http%3A//www.online-go.com/policies/privacy.asp) for the most accurate reproduction.*
 
 # Go - Privacy Policy
 
@@ -31,4 +31,4 @@ If you have any questions regarding this Privacy Policy or any other section of 
 
 * * *
 
-[Rules](https://web.archive.org/policies/rules.asp) \- [Privacy](https://web.archive.org/policies/privacy.asp) \- [Terms and Conditions](https://web.archive.org/policies/terms.asp)
+[Rules](https://web.archive.org/policies/rules.asp) \- [Privacy](https://web.archive.org/policies/privacy.asp) \- [Terms and Conditions](https://web.archive.org/policies/terms.asp) \- [Contact Us](https://web.archive.org/feedback.asp)
