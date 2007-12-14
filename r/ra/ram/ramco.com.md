@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the ramco.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627061329id_/http%3A//www.ramco.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ramco.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214055250id_/http%3A//www.ramco.com/privacy.asp) for the most accurate reproduction.*
 
-# Ramco – Privacy Policy
+# Ramco
 
-|   |  |  | [](https://web.archive.org/web/20070627061329id_/http%3A//www.ramco.com/default.asp) |   
----|---  
+|   |  |   
+---  
 |   
 ---  
-|   |   
----|---  
-| [Home](https://web.archive.org/web/20070627061329id_/http%3A//www.ramco.com/default.asp) > **Privacy Policy**  
+|  | [Home](https://web.archive.org/web/20071214055250id_/http%3A//www.ramco.com/default.asp) > **Privacy Policy**  
 ---  
 Privacy Policy  
 |   
@@ -79,7 +77,7 @@ Disclosure of Personal Information
   
 We do not generally sell, trade, rent, or share your Personal Information with third parties. However, we may share your Personal Information with third parties to fulfill your request for products or services or to deliver newsletters or promotional e-mails. These third parties are required not to use your Personal Information other than to provide the services requested by Ramco. You expressly consent to the sharing of your Personal Information with our contractors and third party service providers for the sole purpose of providing services to you. 
 
-If you opt-in to receive communications from us (as described below), we will periodically send you free newsletters and e-mails that directly promote the use of our site or our products or services. If you would like to cease receiving these communications from us, you may unsubscribe by sending an email to [webmaster](mailto:vinuks@rsi.ramco.com)
+If you opt-in to receive communications from us (as described below), we will periodically send you free newsletters and e-mails that directly promote the use of our site or our products or services. If you would like to cease receiving these communications from us, you may unsubscribe by sending an email to [webmaster](mailto:webmaster@rsi.ramco.com)
 
 Although we currently do not have a parent company, any subsidiaries, joint ventures, or other companies under a common control (collectively, “affiliates”), we may in the future. We may share some or all of your Personal Information with these affiliates, in which case we will require our affiliates to honor this Privacy Policy. If our company or our assets are acquired by another company, that company will possess the Personal Information collected by us and it will assume the rights and obligations regarding your Personal Information as described in this Privacy Policy. 
 
@@ -96,11 +94,6 @@ When you send a request for information on our site, we will ask you if you want
 Feedback  
   
 If you provide any feedback on any of our products or services to us, we may use such feedback for any purpose, provided we will not associate such feedback with your Personal Information.   
-  
-   
-Regarding Children   
-  
-We do not intentionally gather Personal Information about visitors who are under the age of 13 or any other age group.   
   
    
 Links to Other Sites   
@@ -128,5 +121,4 @@ Privacy Policy Updates
   
 This Privacy Policy is subject to revision, and if we make any substantial changes in the way we collect, use, or disclose your Personal Information, we will post a notice on this page. If you object to any such changes, you must cease using our website. Continued use of our website following notice of any such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes.   
   
-   
  
