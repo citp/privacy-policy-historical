@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the souq.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629232743id_/http%3A//www.souq.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the souq.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214070716id_/http%3A//www.souq.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Souq.com Auctions and Marketplace internet shopping souk
 
@@ -46,6 +46,6 @@ If Souq.Com decides to change our privacy policy, Souq.Com will post those chang
 
 * * *
 
-We reserve the right to repeat comments about our products made in communications with us for marketing purposes. Souq.Com prohibits the use of personal information and personal contact details anywhere on the Site except in the registration form, and such posting of personal information will lead to your account being suspended as outlined in our  [_user agreement_](https://web.archive.org/web/20070629232743id_/http%3A//www.souq.com/contents.php?show=terms) ,  [_Article 3, section 1.9_](https://web.archive.org/web/20070629232743id_/http%3A//www.souq.com/contents.php?show=terms) . This policy is enforced to protect our users from fraud and identity theft. We strive to ensure the integrity and privacy of your personal information, kindly help us to ensure the same.
+We reserve the right to repeat comments about our products made in communications with us for marketing purposes. Souq.Com prohibits the use of personal information and personal contact details anywhere on the Site except in the registration form, and such posting of personal information will lead to your account being suspended as outlined in our  [_user agreement_](https://web.archive.org/web/20071214070716id_/http%3A//www.souq.com/contents.php?show=terms) ,  [_Article 3, section 1.9_](https://web.archive.org/web/20071214070716id_/http%3A//www.souq.com/contents.php?show=terms) . This policy is enforced to protect our users from fraud and identity theft. We strive to ensure the integrity and privacy of your personal information, kindly help us to ensure the same.
 
 Souq.Com requires your consent during the registration process to occasionally send you promotional emails from Souq.Com. These emails announce new changes and features added to the site to enhance your auction experience as well as any special promotional auctions that maybe hosted by Souq.Com.
