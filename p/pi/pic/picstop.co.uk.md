@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the picstop.co.uk privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623083712id_/http%3A//www.picstop.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picstop.co.uk privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214012306id_/http%3A//www.picstop.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Picstop
 
