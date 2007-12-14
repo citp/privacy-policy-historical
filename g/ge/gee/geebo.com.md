@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geebo.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630112306id_/http%3A//www.geebo.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geebo.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214073657id_/http%3A//www.geebo.com/Privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -68,7 +68,7 @@ NOTICE: [Click here](http://www.ftc.gov/) for important information about safe s
 Customer Care - Privacy Policy Issues  
 1350 Beverly Rd., Ste 115-218  
 McLean, VA 22101  
-(888) 235-3134**
+(888) 439-3133**
 
 >    
   
