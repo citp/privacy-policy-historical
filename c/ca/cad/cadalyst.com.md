@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cadalyst.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607143457id_/http%3A//www.cadalyst.com/cadalyst/static/staticHtml.jsp%3FfileName%3D/sitewide/privacy/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cadalyst.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214203315id_/http%3A//www.cadalyst.com/cadalyst/static/staticHtml.jsp%3FfileName%3D/sitewide/privacy/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy - Cadalyst
 
@@ -32,7 +32,7 @@ Except as otherwise provided in this privacy policy, we will keep your Personal 
 Aggregated information  
 We sometimes provide aggregated usage or tracking information collected from this website to third parties. 
 
-Information on Children   
+Information on Children  
 As a business-to-business company, we do not knowingly collect information from children. On-line registration and web site usage is restricted to adults who are professionally engaged in the businesses we serve. 
 
 Updating Visitor Information  
