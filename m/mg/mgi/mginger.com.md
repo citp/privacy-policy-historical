@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the mginger.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624220404id_/http%3A//mginger.com/privacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mginger.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214043902id_/http%3A//mginger.com/privacyPolicy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy | mGinger
+
+Privacy Policy
 
   1. **mGinger.com** is a website owned by **Gingersoft Media Private Limited**. Wherever the term " **mGinger** " is used it represents the company **Gingersoft Media Private Limited** and the services provided through **mGinger.com**. mGinger takes your privacy seriously.   
 Please read the following to learn more about our privacy policy. 
@@ -85,3 +87,5 @@ Please read the following to learn more about our privacy policy.
 
 
 
+
+Copyright © 2007 Gingersoft Media Pvt. Ltd. All Rights Reserved. 
