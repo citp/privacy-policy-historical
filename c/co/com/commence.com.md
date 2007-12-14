@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the commence.com privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608022121id_/http%3A//www.commence.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commence.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214061159id_/http%3A//www.commence.com/privacy.asp) for the most accurate reproduction.*
 
 # Commence :: Privacy Statement
 
