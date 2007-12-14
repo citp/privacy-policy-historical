@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the graysonline.com.au privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623073354id_/http%3A//www.graysonline.com.au/help/AU/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the graysonline.com.au privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214221843id_/http%3A//www.graysonline.com.au/help/AU/privacy.asp) for the most accurate reproduction.*
 
 # GraysOnline
 
@@ -73,7 +73,7 @@ GraysOnline auctions
 Gray Eisdell Timms Pty Ltd.   
 Unit E1, Lidcombe Business Park   
 3-29 Birnie Avenue Lidcombe NSW 2141   
-e-mail:[kimberleyh@grays.com.au](mailto:kimberleyh@grays.com.au)
+[GraysOnline Help Centre](http://www.graysonline.com.au/help/au/default.asp)
 
 **10\. Online Auction Privacy Statement Updates**  
 GraysOnline strives to comply with the National Privacy Principles in the National Scheme for Fair Information Practices in the Private Sector. GraysOnline also intends to comply with industry privacy codes as and when they are developed. 
@@ -82,4 +82,4 @@ We may amend our Online Auctions Privacy Statement if further privacy legislatio
 
 These amendments will take effect from the time of posting and you should check back from time to time for any such amendments.
 
-[Click here](https://web.archive.org/web/20070623073354id_/http%3A//www.graysonline.com.au/help/AU/bid_agreement.asp) to read the complete Bidders Agreement. 
+[Click here](https://web.archive.org/web/20071214221843id_/http%3A//www.graysonline.com.au/help/AU/bid_agreement.asp) to read the complete Bidders Agreement. 
