@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paybycash.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623224152id_/http%3A//www.paybycash.com/customer/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paybycash.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214114917id_/http%3A//www.paybycash.com/customer/privacy.php) for the most accurate reproduction.*
 
 # PayByCash™
 
@@ -21,7 +21,7 @@ This privacy statement covers the domain **PAYBYCASH.COM**. This statement demon
 
 PayByCash.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users’ trust and confidence in the Internet by promoting the use of fair information practices. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
 
-If users have questions or concerns regarding this statement, they should first contact Debora Higgins, Internet Payment Solutions Account Management Department by emailing [debbie@paybycash.com](mailto:debbie@paybycash.com).
+If users have questions or concerns regarding this statement, they should first use the [Contact Form](https://web.archive.org/service/contact.php) to reach PayByCash Customer Service.
 
 If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at: 
 
@@ -96,11 +96,9 @@ This Web site contains links to other sites. Please be aware that we, Internet P
 **Security**  
 This Web site takes every precaution to protect our users’ information. When users submit sensitive information via the Web site, their information is protected both online and off-line. 
 
-When our registration/order form asks users to enter sensitive information (such as financial (checking account) information, that information is encrypted and is protected with the best encryption software in the industry - SSL. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when users are just ‘surfing’. [To learn more about SSL, follow this link: [How SSL Works](http://developer.netscape.com/tech/security/ssl/howitworks.html). (Use your browser's "back" button to return to this page) 
+When our registration/order form asks users to enter sensitive information (such as financial (checking account) information, that information is encrypted and is protected with the best encryption software in the industry - SSL. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when users are just ‘surfing’. [To learn more about SSL, follow this link: [How SSL Works](http://www.verisign.com/ssl/ssl-information-center/how-ssl-security-works/index.html). (Use your browser's "back" button to return to this page) 
 
 While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users’ information, not just the sensitive information mentioned above, is restricted in our offices. Only employees or contractors who need the information to perform a specific job (for example, our account management service representatives are granted access to personally identifiable information. Our employees or contractors must use password-protected screen-savers when they leave their desk unattended. When they return, they must re-enter their password to re-gain access to user information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. At the time of hire and every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our users’ information is protected. Finally, the servers that store personally identifiable information are in a secure environment, in a locked facility. 
-
-If users have any questions about the security at our Web site, users can send an email to [Operations@PayByCash.com](mailto:operations@paybycash.com). 
 
 **Supplementation of Information**  
 In order for this Web site to properly fulfill its obligation to users it is necessary for us to supplement the information we receive with information from 3rd party sources (see "Bank Account Verification"). 
@@ -129,4 +127,4 @@ AStec Center
 Charlottesville, VA 22902  
 USA 
 
-Via contact information found on our Web site at: [http://www.paybycash.com/company/contact_us.php](https://web.archive.org/web/20070623224152id_/http%3A//www.paybycash.com/company/contact_us.php)
+Via contact information found on our Web site at: [http://www.paybycash.com/company/contact_us.php](https://web.archive.org/web/20071214114917id_/http%3A//www.paybycash.com/company/contact_us.php)
