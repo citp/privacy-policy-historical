@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bayt.com privacy policy that was archived on 2007-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070411223236id_/http%3A//jobs12.bayt.com/app/index%3Fbody%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bayt.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214145746id_/http%3A//www.bayt.com/app/index%3Fbody%3Dprivacy) for the most accurate reproduction.*
 
 # Bayt.com | jobs UAE, jobs Dubai, jobs Abu Dhabi, jobs Saudi, jobs Kuwait, jobs Bahrain, jobs Qatar, jobs Pakistan
 
