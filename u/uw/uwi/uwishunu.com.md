@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the uwishunu.com privacy policy that was archived on 2007-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070329021143id_/http%3A//www.uwishunu.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uwishunu.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214140934id_/http%3A//www.uwishunu.com/privacy) for the most accurate reproduction.*
 
-# UWISHUNU - Philly. From the Inside Out. » Privacy
+# Philadelphia, PA Restaurants, Travel, Nightlife :: uwishunu Philly » Privacy
 
 **Privacy Policy**
 
