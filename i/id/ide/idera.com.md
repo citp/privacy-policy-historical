@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idera.com privacy policy that was archived on 2007-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070217161452id_/http%3A//www.idera.com/Legal/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idera.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214132958id_/http%3A//www.idera.com/Legal/Privacy.aspx) for the most accurate reproduction.*
 
 # Idera: Tools for Data Management - Downloads
 
