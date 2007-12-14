@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 2betdsi.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626160919id_/http%3A//2betdsi.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2betdsi.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214112509id_/http%3A//www.2betdsi.com/privacy-policy.aspx) for the most accurate reproduction.*
 
-# DSI Sportsbook - NFL Season and Preseason Football Betting and Online Sports Betting Odds
+# Sports Betting Odds at DSI Sportsbook. Online Football Betting and Basketball Betting Odds
 
  Diamond Sportsbook Intl respects the privacy of visitors to our site. Please read this Online Privacy Policy carefully so that you understand our privacy practices relating to information we gather through this Web site. 
 
@@ -14,6 +14,17 @@ The information gathered by Diamondsportsbook.com generally falls into two categ
 The information you provide us during a visit to Diamondsportsbook.com helps us to improve the quality and utility of our site. The more information you share with us, the better we can serve your needs. 
 
 When you purchase services, we may request the following types of information: 
+
+  * Name 
+  * Shipping and/or billing address 
+  * Credit card number or account number 
+  * Phone or fax number 
+  * Email address 
+  * Date of birth 
+  * Social Security Number 
+  * Driver's license number 
+
+
 
 We may need this information to process your order. If we have trouble processing your order, the contact information you provide is used to get in touch with you. We also use this contact information to provide you with updates regarding your account and/or our service. 
 
@@ -50,3 +61,6 @@ This privacy policy is subject to change. The Web is an evolving medium. If we n
 
 **Questions or Complaints**  
 If you have any questions about, or complaints that concern, this Online Privacy Policy, please call Customer Care at 1-800-264-4535. Our representatives will respond to your inquiries or help resolve any dispute concerning this Online Privacy Policy. 
+
+**Mobile Phone Numbers**  
+If you provide us your mobile phone number, from time to time we may send you sms messages about new products and services, or offers that we believe will interest you. Though we hope you'll find this information useful, if you do not wish to receive such sms notifications, please indicate, when you give us your mobile phone number, that you'd prefer not to receive such information or offers. 
