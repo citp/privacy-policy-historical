@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the passionup.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627030547id_/http%3A//www.passionup.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the passionup.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214023310id_/http%3A//www.passionup.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy of PassionUp.com
 
