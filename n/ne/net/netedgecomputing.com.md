@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netedgecomputing.com privacy policy that was archived on 2007-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070517220349id_/http%3A//www.netedgecomputing.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netedgecomputing.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214065239id_/http%3A//netedgecomputing.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # IT consulting, business solutions, offshore software development, software development India, e commerce, application development and maintenance, outsourcing
 
@@ -56,7 +56,7 @@ Your personal information will be used only for the purposes of communicating wi
 We use all reasonable endeavors to protect personal information from loss, misuse or alteration, and have appropriate security measures in place to assist us do so. Only authorized employees, who are under appropriate confidentiality obligations, will have access to your personal information. However, you will be responsible for, and must take all due care to protect, any user ID or password that we have provided for your use on our web sites. 
 
 **Q. How can you amend your personal information, or ask us to remove it or cease using it for direct marketing purposes?**   
-This can be done at any time by emailing us at [privacy@netedgecomputing.com](https://web.archive.org/web/20070517220349id_/http%3A//www.netedgecomputing.com/mailto;privacy@netedgecomputing.com) or in writing to the person whom the NetEdge Computing Global Services Pvt. Ltd. has nominated as its representative for the purpose of the Data Protection, Wilson Thomas at the address of NetEdge Computing Solutions Pvt. Ltd. set out above. 
+This can be done at any time by emailing us at [privacy@netedgecomputing.com](https://web.archive.org/web/20071214065239id_/http%3A//netedgecomputing.com/mailto;privacy@netedgecomputing.com) or in writing to the person whom the NetEdge Computing Global Services Pvt. Ltd. has nominated as its representative for the purpose of the Data Protection, Wilson Thomas at the address of NetEdge Computing Solutions Pvt. Ltd. set out above. 
 
 Additionally we have provided you with the means on the website itself to ensure that your personal information is correct and current. You may review and update this information at anytime.  
 
