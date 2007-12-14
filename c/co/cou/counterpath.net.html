@@ -1,372 +1,173 @@
-<!--The following is the downloaded HTML source of the counterpath.net privacy policy that was archived on 2007-02-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070224115824id_/http%3A//www.counterpath.net/index.php%3Fmenu%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the counterpath.net privacy policy that was archived on 2007-12-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071214063447id_/http%3A//www.counterpath.com/privacy.html) for the most accurate reproduction.-->
 
-<html><head>
-<title>CounterPath</title>
-<link rel="stylesheet" type="text/css" href="cpsi.css" media="all">
-<link rel="stylesheet" type="text/css" href="core.css" media="all">
-<link rel="shortcut icon" href="site/favicon.ico">
-<script type="text/javascript">
-var pausecontent=new Array()
-pausecontent[0]="Jan 29 2007<br /><a href='index.php?menu=MediaCenter&smenu=NewsReleases'>Huawei Selects CounterPath’s Softphone to Enrich the Service Features of its IMS Solution</a><br /><br />"
-pausecontent[1]="Jan 31 2007<br /><a href='index.php?menu=MediaCenter&smenu=NewsReleases'>CounterPath Solutions Named Among Canada's 20 Best Small and Medium Employers</a><br /><br />"
-pausecontent[2]="Feb 5 2007<br /><a href='index.php?menu=MediaCenter&smenu=NewsReleases'>Oracle Launches Oracle Service Delivery Platform Partner Initiative</a><br /><br />"
-pausecontent[3]="Feb 5 2007<br /><a href='index.php?menu=MediaCenter&smenu=NewsReleases'>BridgePort Networks, Oberthur Card Systems and CounterPath Solutions Announce Commercial Availability of MobileSTICK Fixed Mobile Convergence Solution</a><br /><br />"
-pausecontent[4]="Feb 14 2007<br /><a href='index.php?menu=MediaCenter&smenu=NewsReleases'>CounterPath's Softphone Goes Live in Launch of A1 over IP by mobilkom austria</a><br /><br />"
-</script><style type="text/css">
-#pscroller1{
-width: 230px;
-height: 78px;
-border: 0px solid black;
-padding-left: 3px;
-padding-top: 0px;
-line-height: 13px;
-margin: 0,0,0,0;
-}
-#pscroller2{
-width: 230px;
-height: 40px;
-border: 0px solid black;
-padding: 3px;
-}
-#pscroller2 a{
-text-decoration: none;
-}
-.someclass{ //class to apply to your scroller(s) if desired
-}
-</style><script type="text/javascript">
-/***********************************************
-* Pausing up-down scroller- © Dynamic Drive (www.dynamicdrive.com)
-* This notice MUST stay intact for legal use
-* Visit http://www.dynamicdrive.com/ for this script and 100s more.
-***********************************************/
-function pausescroller(content, divId, divClass, delay){
-this.content=content //message array content
-this.tickerid=divId //ID of ticker div to display information
-this.delay=delay //Delay between msg change, in miliseconds.
-this.mouseoverBol=0 //Boolean to indicate whether mouse is currently over scroller (and pause it if it is)
-this.hiddendivpointer=1 //index of message array for hidden div
-document.write('<div id="'+divId+'" class="'+divClass+'" style="position: relative; overflow: hidden"><div class="innerDiv" style="position: absolute; width: 100%" id="'+divId+'1">'+content[0]+'</div><div class="innerDiv" style="position: absolute; width: 100%; visibility: hidden" id="'+divId+'2">'+content[1]+'</div></div>')
-var scrollerinstance=this
-if (window.addEventListener) //run onload in DOM2 browsers
-window.addEventListener("load", function(){scrollerinstance.initialize()}, false)
-else if (window.attachEvent) //run onload in IE5.5+
-window.attachEvent("onload", function(){scrollerinstance.initialize()})
-else if (document.getElementById) //if legacy DOM browsers, just start scroller after 0.5 sec
-setTimeout(function(){scrollerinstance.initialize()}, 1500)
-}
-// -------------------------------------------------------------------
-// initialize()- Initialize scroller method.
-// -Get div objects, set initial positions, start up down animation
-// -------------------------------------------------------------------
-pausescroller.prototype.initialize=function(){
-this.tickerdiv=document.getElementById(this.tickerid)
-this.visiblediv=document.getElementById(this.tickerid+"1")
-this.hiddendiv=document.getElementById(this.tickerid+"2")
-this.visibledivtop=parseInt(pausescroller.getCSSpadding(this.tickerdiv))
-//set width of inner DIVs to outer DIV's width minus padding (padding assumed to be top padding x 2)
-this.visiblediv.style.width=this.hiddendiv.style.width=this.tickerdiv.offsetWidth-(this.visibledivtop*2)+"px"
-this.getinline(this.visiblediv, this.hiddendiv)
-this.hiddendiv.style.visibility="visible"
-var scrollerinstance=this
-document.getElementById(this.tickerid).onmouseover=function(){scrollerinstance.mouseoverBol=1}
-document.getElementById(this.tickerid).onmouseout=function(){scrollerinstance.mouseoverBol=0}
-if (window.attachEvent) //Clean up loose references in IE
-window.attachEvent("onunload", function(){scrollerinstance.tickerdiv.onmouseover=scrollerinstance.tickerdiv.onmouseout=null})
-setTimeout(function(){scrollerinstance.animateup()}, this.delay)
-}
-// -------------------------------------------------------------------
-// animateup()- Move the two inner divs of the scroller up and in sync
-// -------------------------------------------------------------------
-pausescroller.prototype.animateup=function(){
-var scrollerinstance=this
-if (parseInt(this.hiddendiv.style.top)>(this.visibledivtop+5)){
-this.visiblediv.style.top=parseInt(this.visiblediv.style.top)-5+"px"
-this.hiddendiv.style.top=parseInt(this.hiddendiv.style.top)-5+"px"
-setTimeout(function(){scrollerinstance.animateup()}, 150)
-}
-else{
-this.getinline(this.hiddendiv, this.visiblediv)
-this.swapdivs()
-setTimeout(function(){scrollerinstance.setmessage()}, this.delay)
-}
-}
-// -------------------------------------------------------------------
-// swapdivs()- Swap between which is the visible and which is the hidden div
-// -------------------------------------------------------------------
-pausescroller.prototype.swapdivs=function(){
-var tempcontainer=this.visiblediv
-this.visiblediv=this.hiddendiv
-this.hiddendiv=tempcontainer
-}
-pausescroller.prototype.getinline=function(div1, div2){
-div1.style.top=this.visibledivtop+"px"
-div2.style.top=Math.max(div1.parentNode.offsetHeight, div1.offsetHeight)+"px"
-}
-// -------------------------------------------------------------------
-// setmessage()- Populate the hidden div with the next message before it's visible
-// -------------------------------------------------------------------
-pausescroller.prototype.setmessage=function(){
-var scrollerinstance=this
-if (this.mouseoverBol==1) //if mouse is currently over scoller, do nothing (pause it)
-setTimeout(function(){scrollerinstance.setmessage()}, 100)
-else{
-var i=this.hiddendivpointer
-var ceiling=this.content.length
-this.hiddendivpointer=(i+1>ceiling-1)? 0 : i+1
-this.hiddendiv.innerHTML=this.content[this.hiddendivpointer]
-this.animateup()
-}
-}
-pausescroller.getCSSpadding=function(tickerobj){ //get CSS padding value, if any
-if (tickerobj.currentStyle)
-return tickerobj.currentStyle["paddingTop"]
-else if (window.getComputedStyle) //if DOM2
-return window.getComputedStyle(tickerobj, "").getPropertyValue("padding-top")
-else
-return 0
-}
-</script><script language="javascript"> 
-<!-- 
-var state = 'none'; 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+	<title>CounterPath Corporation | Privacy</title> 
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="version" content="4.0 (4)">
+	<meta name="keywords" content="CounterPath Software,  IP, Internet, services, web">
+	<meta name="abstract" content="CounterPath Corporation">
+	<meta name="author" content="Jason Falk">
+	<meta name="copyright" content="Copyright (c) 2000-2007 by NewHeights Software. All rights reserved.">
+	<meta http-equiv="last-modified" content="Tue, 16 Oct 2007 11:34:55 -0700">
 
-function showhide(layer_ref) { 
-
-if (state == 'block') { 
-state = 'none'; 
-} 
-else { 
-state = 'block'; 
-} 
-if (document.all) { //IS IE 4 or 5 (or 6 beta) 
-eval( "document.all." + layer_ref + ".style.display = state"); 
-} 
-if (document.layers) { //IS NETSCAPE 4 or below 
-document.layers[layer_ref].display = state; 
-} 
-if (document.getElementById &&!document.all) { 
-hza = document.getElementById(layer_ref); 
-hza.style.display = state; 
-} 
-} 
-//--> 
-</script></head>
-
-
-
-
+	<meta name="ID" content="157">
+	<base href="http://www.counterpath.com/">
+	<link rel="shortcut icon" href="/favicon.ico">
+	<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="/feed.rss.html">	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+	<link rel="stylesheet" href="/assets/templates/master/main.css" type="text/css" media="screen">
+	<link rel="stylesheet" href="/assets/js/ibox/ibox.css" type="text/css" media="screen">
+<!--[if IE 5]>
+	<link rel="stylesheet" href="/assets/templates/master/ie5.css" type="text/css" media="screen" />
+	<![endif]-->
+<!--[if IE 6]>
+	<link rel="stylesheet" href="/assets/templates/master/ie6.css" type="text/css" media="screen" />
+	<![endif]-->
+<!--[if IE 7]>
+	<link rel="stylesheet" href="/assets/templates/master/ie7.css" type="text/css" media="screen" />
+	<![endif]-->
+<!--[if IE]>
+	<script type="text/javascript" src="/assets/js/iehovermain.js"></script>
+<![endif]-->
+	<script type="text/javascript" src="/assets/js/ibox/ibox.js"></script>
+        <script type="text/javascript" src="/assets/js/tablecloth.js"></script>
+<script type="text/javascript">var MODX_MEDIA_PATH = "media";</script>
+</head>
 
 <body>
-<table width="766" border="0" cellspacing="0" cellpadding="0" align="center"><tbody><tr>
-<td class="bn_top_bg" valign="middle" align="left" height="80">
-<a href="index.php"><img height="75" alt="" src="site/CounterPathLogo_wt.gif" width="300" border="0"></a>
-</td>
-<td class="bn_top_bg" valign="middle" align="right" height="80">
-<a href="index.php?menu=buy"><img height="94" alt="" src="site/cpsi-top-banner.gif" width="300" border="0"></a>
-</td>
-</tr></tbody></table>
+<div id="page">
+	<div id="logo"><div id="logotext"><h1>CounterPath Corporation</h1> </div><div id="logolink"><a href="home.html"><img width="100%" height="100%" src="/assets/templates/master/images/1t.gif" alt="" hspace="0" vspace="0" border="0"> </a> </div></div>
 
-<table border="0" cellspacing="0" cellpadding="0" align="center"><tbody><tr>
-<td><img src="site/main_top_lt_wt.gif"></td>
-<td background="site/main_top_bg.gif">
-<div id="container"><div id="topNav" xmlns=""><ul>
-  <li class="first1b"><a href="index.php?menu=Solutions">Solutions</a>
-  </li><li class="first2b"><a href="index.php?menu=Products&amp;smenu=eyeBeam">Products</a>
-  </li><li class="first2b"><a href="index.php?menu=Support&amp;smenu=faq">Support</a>
-  </li><li class="first2b"><a href="index.php?menu=MediaCenter&amp;smenu=NewsReleases">Media Center</a>
-  </li><li class="first2b"><a href="index.php?menu=Company&amp;smenu=AboutUs">Company</a>
-  </li><li class="first2b"><a href="index.php?menu=Snapshot">Investors</a>
-  </li><li class="first2b"><a href="index.php?menu=ContactUs">Contact Us</a>
-</li></ul></div></div>
-</td>
-<td><img src="site/main_top_rt_wt.gif"></td>
-</tr></tbody></table>
+	<div id="header">
+		<div id="ha">
+			<div id="supnav">
+				<ul><li><a href="contact-us.html" title="Contact Us"><img src="/assets/templates/master/images/icon_contact_us.gif" alt=""> Contact Us</a></li>
+<li><a href="site-map.html" title="Site Map"><img src="/assets/templates/master/images/icon_site_map.gif" alt=""> Site Map</a></li>
+<li class="last"><a href="home.html" title="Home"><img src="/assets/templates/master/images/icon_site_map.gif" alt=""> Home</a></li>
+</ul> 
+				<div id="search">
+					<form class="FSF_form" action="search.html" method="post"><input class="FSF_input" type="text" name="search" value="Search" onfocus="this.value=(this.value=='Search')? '' : this.value ;"><input class="FSF_submit" type="image" src="/assets/templates/master/images/button_search.gif" alt="Submit button" name="sub" value="Go"></form>
+ 
+				</div>
+			</div>
+			<div id="keynav">
+				<ul><li><a href="/products.html" title="Products">Products</a></li>
+<li><a href="/partners.html" title="Partners">Partners</a></li>
+<li><a href="/support.html" title="Support">Support</a></li>
+<li><a href="/media.html" title="Media">Media</a></li>
+<li><a href="/company.html" title="Company">Company</a></li>
+<li><a href="/investors.html" title="Investors">Investors</a></li>
+<li class="last"><a href="storefront.html" title="Store">Store</a></li>
+</ul> 
+			</div>
+		</div>
+	</div>
 
+	<div class="content" id="content_2_6_2">
+		<div id="contentb">
+			<div id="conb">
+				<div id="cb">
+					<div class="span_100"><div class="bucket_shell style_imageoutline"><div class="bucket_base span_2"><div class="bucket_top"></div><div class="bucket_body">
+<ul class="leftnavid"><li><a href="/terms.html" title="Terms Of Service"><span>Terms Of Service</span></a></li>
+<li class="last active nav_here"><a href="/privacy.html" title="Privacy"><span class="last active nav_here">Privacy</span></a></li>
+</ul>
 
+</div><div class="bucket_bottom_a"><div class="bucket_bottom_b"></div></div></div></div></div>
 
-<table class="bg" border="0" cellspacing="0" cellpadding="0" align="center">
-<tbody><tr>
-<td width="1" height="100%" rowspan="2" background="site/main_side_bg.gif"></td>
-<td width="786" rowspan="2" align="center" background="site/spacer_white.gif">
-<div id="main"><p class="title">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Privacy Policy</p></div>
-
-<table border="0" cellspacing="0" cellpadding="6" width="90%"><tbody><tr><td>
-<p class="text">CounterPath Solutions, Inc. is sensitive to the private nature of information you 
-              provide to us over the Internet. Our privacy practices are designed 
-              to maximize your ability to control the use of your personal, private 
-              information while at the same time giving you the opportunity to 
-              obtain interesting and useful information, products and services. 
-              This privacy policy describes how we treat information received 
-              about you when you visit our Web site and register on-line for CounterPath Solutions, Inc. 
-              products or services. This privacy policy only applies to data collected 
-              on-line by CounterPath Solutions, Inc.. Please read our privacy policy carefully. 
-              By using this Web site and submitting any personal information, 
-              you consent to the collection and use of this information by CounterPath Solutions, Inc., 
-              Inc., its subsidiaries and affiliates consistent with this privacy 
-              policy. Also, please be aware that CounterPath Solutions, Inc. may change this Privacy 
-              Policy from time to time. If we do, we will prominently post any 
-              notification of changes. If we are going to use users' personally 
-              identifiable information in a manner different from that stated 
-              at the time of collection we will notify users by posting a notice 
-              on our Web site for 30 days, so be sure to check back here periodically 
-              for any changes. </p>
-            <p class="text">This Statement only pertains to our on-line collection of data 
-              from our web properties and does not apply to other means of collecting 
-              data. </p>
-            <p class="text"><b>Information - How We Get It</b><br>
-
-              When you register for our products or services, you will be providing 
-              personal information to CounterPath Solutions, Inc. such as your name, phone number, 
-              address, email and other information by which you can be personally 
-              identified. You will also be asked to provide demographic information 
-              such as zip code and age. If you purchase products or services on 
-              our site, you will be asked for financial information such as account 
-              or credit card numbers. We do not knowingly collect personal information 
-              from children under 13 years of age.</p>
-            <p class="text">We also collect usage information from you when you visit us or use our softphones. Web 
-              site usage information is not typically personally identifiable 
-              information. It describes how our Web site is used and navigated, 
-              including the number and frequency of visitors to each Web page 
-              and the length of their stay. Web site usage information and some information sent from the softphone includes 
-              the IP addresses that visit our Web 
-              site and use our softphones, time of day the Web site was visited or the softphone was first used and other non-personally 
-              identifiable information.</p>
-            <!--            <p class=text>CounterPath Solutions, Inc. makes use of browser cookies. We use cookies to enhance 
-              your Web viewing experience. A cookie is a small identifier, similar 
-              to a license plate and consists of data sent by a Web server to 
-              a Web browser that can later be read by that server. Cookies are 
-              used to personalize your viewing experience. They are also used 
-              to target advertising and marketing offers to your individual interests 
-              and to avoid showing you duplicate ads. Cookies cannot be used to 
-              get data from your hard drive, your email or any other personal 
-              data about you. You have the ability to set your Internet Preferences 
-              to notify you whenever you receive a cookie. You may then accept 
-              or decline any of our cookies. Should you decide to decline a cookie, 
-              this may impact the performance of our Web site.</p>-->
-              <p class="text"><b>Information - How We Use It</b><br>
-              CounterPath Solutions, Inc. believes that knowing more about you will enable us to 
-              serve you better. It permits us to personalize the content and services 
-              we offer to you. It also permits us to target advertising for products 
-              and services to your interests and tastes. CounterPath Solutions, Inc. uses demographic 
-              and Web site usage information to improve the products and services 
-              we offer to you. One of the many services CounterPath Solutions, Inc. can offer to 
-              you when you register for our products or services is notification 
-              concerning new products and services available from third party 
-              marketing partners. These notices and offers will be targeted to 
-              your individual preferences and tastes based on the information 
-              collected. Unless you have opted-out of receiving third party offers 
-              during registration, we reserve the right to share your personal 
-              information with third parties and you may receive emails concerning 
-              third party offers. As a publicly traded company, we are required 
-              to file numerous reports with different administrative bodies. As 
-              such, CounterPath Solutions, Inc. may provide aggregate statistics about customers, 
-              sales and traffic patterns. None of these reports or statistics 
-              will include personally identifiable information. However, CounterPath Solutions, Inc. 
-              reserves the right to use personally identifiable information to 
-              investigate and help prevent potentially unlawful activity that 
-              threatens either CounterPath Solutions, Inc. or any company affiliated with CounterPath Solutions, Inc.. 
-              Moreover, upon the appropriate request of a government agency, law 
-              enforcement, court or as otherwise required by law, CounterPath Solutions, Inc. may 
-              disclose personally identifiable information.</p>
-            <!--<p class=text><b>Additional Data Collection</b><br>
-              Our Web site uses reputable third parties to serve the advertisements 
-              that you see on the CounterPath Solutions, Inc. Web site. Please be sure to review 
-              our third party ad servers' privacy policies as they may follow 
-              different procedures than our Web site. Additionally, in order to 
-              provide you with certain features of our service, we provide some 
-              of your personal information to others. This information is provided 
-              under the terms of strict confidentiality agreements and your information 
-              will not be shared, sold or rented by these other parties without 
-              your permission.</p>-->
-            <p class="text"><b>News Release Distribution List</b><br>
-
-              When you sign up to be on our News Release Distribution List, 
-              you will be asked only to provide your email address. You will receive 
-              updates of our news releases. We will not share your email address with any third parties.</p>
-            <!--<p class=text><b>Refer A Friend</b><br>
-              When you refer a friend to CounterPath Solutions, Inc., we will send an email to 
-              your friend's email address inviting them to try CounterPath Solutions, Inc.. </p>-->
-            <!--<p class=text><b>Surveys &amp; Sweepstakes</b><br>
-              From time to time our site requests information from users via surveys 
-              or sweepstakes. Participation in these surveys or sweepstakes is 
-              completely voluntary and you therefore have a choice whether or 
-              not to disclose this information. Information requested may include 
-              contact information (like name and shipping address) and demographic 
-              information (such as zip code and age). Contact information will 
-              be used to notify sweepstakes winners and award prizes and may be 
-              shared with third party sponsors of the sweepstakes. Survey information 
-              will be used for purposes of monitoring or improving your use and 
-              satisfaction of this site.</p>-->
-            <p class="text"><b>Affiliate Programs</b><br>
-              When a user or company signs up to be a CounterPath Solutions, Inc. affiliate, they 
-              do so through RegNow. RegNow shares personally identifiable 
-              information about affiliates with CounterPath Solutions, Inc.. This information is 
-              not sold, shared or rented to any third party, and is used internally 
-              only to manage relationships with affiliates.</p>
-            <p class="text"><b>Ability to Opt-Out of Emails from CounterPath Solutions, Inc.</b><br>
-              Upon registration for CounterPath Solutions, Inc. products and services, you may 
-              receive a welcome email from CounterPath Solutions, Inc. introducing you to CounterPath Solutions, Inc. 
-              product and service offerings. If you do not wish to receive future 
-              emails from CounterPath Solutions, Inc., please follow the instructions contained 
-              in the email to unsubscribe from receiving future emails from 
-              CounterPath Solutions, Inc.. </p>
-
-            <p class="text"><b>Corrections/Complaints</b><br>
-              CounterPath Solutions, Inc. shall honor any email requests sent to <a href="mailto:support@counterpath.com">support@counterpath.com</a> 
-              from customers to change their account information (i.e., name, 
-              address or billing information) or otherwise correct inaccurate 
-              information. CounterPath Solutions, Inc. will gladly correct such information and 
-              customers are welcome to verify that the appropriate corrections 
-              have been made. In addition, if you believe that your personally 
-              identifiable information is being mishandled in light of this Privacy 
-              Policy, please immediately notify CounterPath Solutions, Inc. by email at <a href="mailto:support@counterpath.com">support@counterpath.com</a> 
-              so that we can address your concern. </p>
-            <p class="text"><b>Security</b><br>
-              We take great care and use the latest technologies to ensure the 
-              security and safety of all your transactions with CounterPath Solutions, Inc.. To 
-              prevent unauthorized access or disclosure, maintain data accuracy, 
-              and ensure the appropriate use of information, we have put in place 
-              safeguards to secure the information we collect online. Our servers 
-              use encryption technology to protect the transfer of your credit 
-              card data to unauthorized parties. When these types of measures 
-              are taken, shopping online is safe and secure. We use industry-recognized 
-              standards in transaction security to protect the information you 
-              provide when you make a purchase at CounterPath Solutions, Inc..</p>
-
-            <p class="text"><b>Links to Other Sites</b><br>
-              This Web site contains links to other Web sites. CounterPath Solutions, Inc. is not 
-              responsible for the privacy practices or the content of such Web 
-              sites. You are encouraged to review the privacy policies of these 
-              other Web sites before registering for any products or services 
-              from that Web site.</p>
-            <p class="text"><b>Questions/Concerns</b><br>
-              If, after reading our Privacy Policy, you have questions or concerns 
-              about any of the statements herein, we welcome your feedback. You 
-              may contact our Customer Service Department at <a href="mailto:support@counterpath.com">support@counterpath.com</a>.<br>
-            </p>
-</td></tr></tbody></table>
-</td><td width="1" height="100%" rowspan="2" background="site/main_side_bg.gif"></td>
-</tr>
-</tbody></table>
-
-<table border="0" cellspacing="0" cellpadding="0" align="center"><tbody><tr>
-<td><img src="site/main_bot_lt_wt.gif"></td>
-<td width="774" align="center" background="site/main_bot_bg.gif">
-<div id="footer">
-<p class="footer">
-<a href="index.php?menu=privacy">Privacy Policy</a>
-&nbsp;&nbsp;&nbsp;
-<a href="index.php?menu=terms">Terms of Use</a>
-&nbsp;&nbsp;&nbsp;
-<a href="index.php?menu=sitemap">Site Map</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="index.php">© 2007 CounterPath Solutions, Inc. All rights reserved.</a>
+					 
+				</div>
+			</div>
+		</div>
+		<div id="contenta">
+			<div id="cona">
+				<div id="ca">
+					<div class="span_100"><div class="bucket_shell style_default"><div class="bucket_base span_6"><div class="bucket_top"></div><div class="bucket_body">
+<h1>Privacy Policy</h1>
+<p>
+CounterPath Corporation is sensitive to the private nature of information you provide to us over the Internet. Our privacy practices are designed to maximize your ability to control the use of your personal, private information while at the same time giving you the opportunity to obtain interesting and useful information, products and services. This privacy policy describes how we treat information received about you when you visit our Web site and register on-line for CounterPath Corporation products or services. This privacy policy only applies to data collected on-line by CounterPath Corporation. Please read our privacy policy carefully. By using this Web site and submitting any personal information, you consent to the collection and use of this information by CounterPath Corporation, Inc., its subsidiaries and affiliates consistent with this privacy policy. Also, please be aware that CounterPath Corporation may change this Privacy Policy from time to time. If we do, we will prominently post any notification of changes. If we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify users by posting a notice on our Web site for 30 days, so be sure to check back here periodically for any changes.
 </p>
-</div>
-</td>
-<td><img src="site/main_bot_rt_wt.gif"></td>
-</tr></tbody></table>
+<p>
+This Statement only pertains to our on-line collection of data from our web properties and does not apply to other means of collecting data.
+</p>
+<h2>Information - How We Get It</h2>
+<p>
+When you register for our products or services, you will be providing personal information to CounterPath Corporation such as your name, phone number, address, email and other information by which you can be personally identified. You will also be asked to provide demographic information such as zip code and age. If you purchase products or services on our site, you will be asked for financial information such as account or credit card numbers. We do not knowingly collect personal information from children under 13 years of age.
+</p>
+<p>
+We also collect usage information from you when you visit us or use our softphones. Web site usage information is not typically personally identifiable information. It describes how our Web site is used and navigated, including the number and frequency of visitors to each Web page and the length of their stay. Web site usage information and some information sent from the softphone includes the IP addresses that visit our Web site and use our softphones, time of day the Web site was visited or the softphone was first used and other non-personally identifiable information.
+</p>
+<h2>Information - How We Use It</h2>
+<p>
+CounterPath Corporation believes that knowing more about you will enable us to serve you better. It permits us to personalize the content and services we offer to you. It also permits us to target advertising for products and services to your interests and tastes. CounterPath Corporation uses demographic and Web site usage information to improve the products and services we offer to you. One of the many services CounterPath Corporation can offer to you when you register for our products or services is notification concerning new products and services available from third party marketing partners. These notices and offers will be targeted to your individual preferences and tastes based on the information collected. Unless you have opted-out of receiving third party offers during registration, we reserve the right to share your personal information with third parties and you may receive emails concerning third party offers. As a publicly traded company, we are required to file numerous reports with different administrative bodies. As such, CounterPath Corporation may provide aggregate statistics about customers, sales and traffic patterns. None of these reports or statistics will include personally identifiable information. However, CounterPath Corporation reserves the right to use personally identifiable information to investigate and help prevent potentially unlawful activity that threatens either CounterPath Corporation or any company affiliated with CounterPath Corporation. Moreover, upon the appropriate request of a government agency, law enforcement, court or as otherwise required by law, CounterPath Corporation may disclose personally identifiable information.
+</p>
+<h2>News Release Distribution List</h2>
+<p>
+When you sign up to be on our News Release Distribution List, you will be asked only to provide your email address. You will receive updates of our news releases. We will not share your email address with any third parties.
+</p>
+<h2>Affiliate Programs</h2>
+<p>
+When a user or company signs up to be a CounterPath Corporation affiliate, they do so through RegNow. RegNow shares personally identifiable information about affiliates with CounterPath Corporation.  This information is not sold, shared or rented to any third party, and is used internally only to manage relationships with affiliates.
+</p>
+<h2>Ability to Opt-Out of Emails from CounterPath Corporation</h2>
+<p>
+Upon registration for CounterPath Corporation products and services, you may receive a welcome email from CounterPath Corporation introducing you to CounterPath Corporation product and service offerings. If you do not wish to receive future emails from CounterPath Corporation, please follow the instructions contained in the email to unsubscribe from receiving future emails from CounterPath Corporation.
+</p>
+<h2>Corrections/Complaints</h2>
+<p>
+CounterPath Corporation shall honor any email requests sent to <a href="mailto:support@counterpath.com">support@counterpath.com</a> from customers to change their account information (i.e., name, address or billing information) or otherwise correct inaccurate information. CounterPath Corporation will gladly correct such information and customers are welcome to verify that the appropriate corrections have been made. In addition, if you believe that your personally identifiable information is being mishandled in light of this Privacy Policy, please immediately notify CounterPath Corporation by email at <a href="mailto:support@counterpath.com">support@counterpath.com</a> so that we can address your concern.
+</p>
+<h2>Security</h2>
+<p>
+We take great care and use the latest technologies to ensure the security and safety of all your transactions with CounterPath Corporation. To prevent unauthorized access or disclosure, maintain data accuracy, and ensure the appropriate use of information, we have put in place safeguards to secure the information we collect online. Our servers use encryption technology to protect the transfer of your credit card data to unauthorized parties. When these types of measures are taken, shopping online is safe and secure. We use industry-recognized standards in transaction security to protect the information you provide when you make a purchase at CounterPath Corporation.
+</p>
+<h2>Links to Other Sites</h2>
+<p>
+This Web site contains links to other Web sites. CounterPath Corporation is not responsible for the privacy practices or the content of such Web sites. You are encouraged to review the privacy policies of these other Web sites before registering for any products or services from that Web site.
+</p>
+<h2>Questions/Concerns</h2>
+<p>
+If, after reading our Privacy Policy, you have questions or concerns about any of the statements herein, we welcome your feedback. You may contact our Customer Service Department at <a href="mailto:support@counterpath.com">support@counterpath.com</a>.
+</p>
 <br>
+</div><div class="bucket_bottom_a"><div class="bucket_bottom_b"></div></div></div></div></div>
+ 
+				</div>
+			</div>
+		</div>
+		<div id="contentc">
+			<div id="conc">
+				<div id="cc">
+					 
+				</div>
+			</div>
+		</div>
+	</div>
+<div id="footer">
+	<div id="fa">
+		<div id="subnav">
+			<ul><li><a href="contact-us.html" title="Contact Us">Contact Us</a></li>
+<li><a href="terms.html" title="Terms Of Service">Terms Of Service</a></li>
+<li><a href="privacy.html" title="Privacy">Privacy</a></li>
+<li class="last"><a href="site-map.html" title="Site Map">Site Map</a></li>
+</ul> 
+		</div>
+		<div id="footnote">
+			Copyright © 2003 - 2007 CounterPath Corporation. All rights reserved. 
+		</div>
+	</div>
+	<div id="footer_shadow">
+	</div>
+</div>
+
+</div>
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1550700-2";
+urchinTracker();
+</script>
+
 
 
 </body></html>
