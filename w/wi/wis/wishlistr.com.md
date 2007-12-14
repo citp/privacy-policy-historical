@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the wishlistr.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626185622id_/http%3A//www.wishlistr.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wishlistr.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214032115id_/http%3A//www.wishlistr.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Wishlistr: Privacy Policy
 
 ## Wishlistr Privacy Policy Statement
 
-This document was last updated on 2006-06-16.
+This document was last updated on 2007-07-24.
 
 ### 1\. Acknowledgement and Acceptance of Terms
 
@@ -75,8 +75,8 @@ If you have questions regarding our Privacy Statement, its implementation, failu
 
 Digital Venues Sweden HB  
 Att: Niklas Nordlund  
-Nilssonsberg 25  
-SE-411 43 Göteborg  
+Ekedalsgatan 53A  
+SE-414 68 Göteborg  
 Sweden
 
 Digital Venues will use commercially reasonable efforts to promptly respond and resolve any problem or question.
