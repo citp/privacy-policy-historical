@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thepaperexperts.com privacy policy that was archived on 2007-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070419130231id_/http%3A//www.thepaperexperts.com/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thepaperexperts.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214100736id_/http%3A//www.thepaperexperts.com/privacypolicy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy - Term Paper Outline
 
@@ -89,6 +89,8 @@ Your business is appreciated! Please feel free to contact us regarding any quest
 [](https://www.thepaperexperts.com/secure/customized_orderform.cgi?PREMIUM=Y)
 
 _ |    
+  
+  
   
   
   
