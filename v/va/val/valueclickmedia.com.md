@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the valueclickmedia.com privacy policy that was archived on 2007-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070603104141id_/http%3A//www.valueclickmedia.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valueclickmedia.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214040838id_/http%3A//www.valueclickmedia.com/privacy.shtml) for the most accurate reproduction.*
 
 # ValueClick Media - Privacy Statement
 
-| [Member Privacy Statement](https://web.archive.org/web/20070603104141id_/http%3A//www.valueclickmedia.com/member_privacy.shtml) | [Opt-Out Cookie](http://admin.valueclickmedia.com/optout/index.html) |
+| [Member Privacy Statement](https://web.archive.org/web/20071214040838id_/http%3A//www.valueclickmedia.com/member_privacy.shtml) | [Opt-Out Cookie](http://admin.valueclickmedia.com/optout/index.html) |
 
 ValueClick Media is committed to earning your trust and confidence. To better protect privacy, we provide this notice explaining our online technology and information collection practices. Our policy for members of our network may be found here.
 
@@ -31,8 +31,8 @@ ValueClick Media may share PII (including information that has been enhanced wit
 
 ValueClick Media may release account and any other personal information when we believe release is appropriate to respond to a subpoena or otherwise comply with the law; enforce or apply our Terms and Conditions and other agreements; or protect the rights, property, or safety of ValueClick Media or others. This includes exchanging information with other companies and organizations for fraud protection and investigation.
 
-**Network Advertising Initiative  
-**ValueClick, Inc. is a member of the Network Advertising Initiative ("NAI"). The NAI is a group of third party network advertisers committed to increasing consumer confidence and contributing to the growth of electronic commerce. We, along with other members of the NAI, are committed to providing consumers with a clear explanation of what data we collect, how we use them, and why the use of data can benefit consumers' experience online. For more information about the Network Advertising Alliance please go to [www.networkadvertising.org](http://www.networkadvertising.org/).
+**Digital Policy Forum  
+**ValueClick, Inc. is a member of the Digital Policy Forum ("DPF"). The DPF is made up of online marketing, analytics, advertising, publishing, and email companies that are committed to examining and developing responses to important privacy and consumer protection issues in emerging media.
 
 **Data Processing/Safe Harbor**  
 The European Union ("EU") maintains strict privacy laws. These rules differ significantly from US laws. To reconcile these differences, the US and the EU have created a Safe Harbor that defines mutually acceptable privacy operations. ValueClick, Inc. adheres to the Safe Harbor principals. For more information see [  
