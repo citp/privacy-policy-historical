@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psxextreme.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625111205id_/http%3A//www.psxextreme.com/home/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psxextreme.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214184921id_/http%3A//www.psxextreme.com/home/privacy_policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -19,8 +19,6 @@ Privacy Policy
 |   
 ---|---|---  
   
-');//--> [](http://oascentral.ggl.com/RealMedia/ads/click_nx.ads/www.psxextreme.com//1430967909@x62!x62?)
-
 PSX Extreme has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this web site.
 
  **Advertisers**  
@@ -83,5 +81,7 @@ webmaster [at] psxextreme.com
  
 
 |  |    
+  
+  
   
 
