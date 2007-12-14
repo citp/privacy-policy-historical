@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the igmarkets.com.au privacy policy that was archived on 2007-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070520053040id_/http%3A//www.igmarkets.com.au/content/privacy_notice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igmarkets.com.au privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214113111id_/http%3A//www.igmarkets.com.au/content/privacy_notice.html) for the most accurate reproduction.*
 
 # IG Markets - Privacy Notice
 
@@ -34,13 +34,15 @@ Unless you are informed otherwise, the personal information we hold is used for 
 
 Depending on the product or service concerned and particular restrictions on sensitive information, this means that personal information may be disclosed to:
 
-  * other companies within the IG group (including associated companies in the United Kingdom) who provide financial and other services service providers and specialist advisers to IG Markets who have been contracted to provide IG Markets with administrative, financial, insurance, research or other services 
+  * other companies within the IG group (including associated companies in Australia and the United Kingdom) who provide financial and other services 
+  * service providers and specialist advisers who have been contracted to provide us with administrative, financial, insurance, research or other services 
+  * credit reporting or reference agencies 
+  * introducing brokers with whom we have a mutual relationship (any of whom may be within or outside Australia or the European Economic Area) 
   * credit providers, courts, tribunals and regulatory authorities as agreed or authorised by law 
   * credit reporting or reference agencies 
+  * anyone authorised by an individual, as specified by that individual or the contract
 
 
-
-anyone authorised by an individual, as specified by that individual or the contract 
 
 Generally, we require that organisations outside the IG group of companies who handle or obtain personal information as service providers to IG Markets acknowledge the confidentiality of this information, undertake to respect any individual's right to privacy and comply with the National Privacy Principles and this policy.
 
@@ -116,7 +118,3 @@ IG Markets is constantly striving to improve functionality on this site through 
 ### Links to third party websites
 
 The IG website may have links to external third party websites that may benefit the user. Please note, however, that third party websites are not covered by IG Markets' privacy policy and these sites are not subject to IG Markets' privacy standards and procedures. 
-
-### Any Questions?
-
-Freecall **1800 601 799** or see our [contact](https://web.archive.org/content/contact.html) page for support and trading lines 
