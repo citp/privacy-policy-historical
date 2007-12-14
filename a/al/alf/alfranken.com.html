@@ -1,182 +1,127 @@
-<!--The following is the downloaded HTML source of the alfranken.com privacy policy that was archived on 2007-02-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070218082714id_/http%3A//www.alfranken.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the alfranken.com privacy policy that was archived on 2007-12-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071214202805id_/http%3A//www.alfranken.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 
-<title>Al Franken for U.S. Senate  |  privacypolicy</title>
-
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
 <meta http-equiv="content-language" content="en">
-<meta name="description" content="">
-<meta name="keywords" content="">
+<meta name="keywords" content="al franken">
 <meta name="robots" content="all">
 
-<style type="text/css" media="screen">
-/*
------------------------------------------------
-Franken
-Author:   Cameron Corda
+<link rel="stylesheet" type="text/css" media="screen" href="/styles/index/"> 
+<!-- <link rel="shortcut icon" href="http://www.alfranken.com/favicon.ico" type="image/x-icon" />
+<link rel="icon" href="http://www.alfranken.com/favicon.ico" type="image/x-icon" /> -->
 
-Dark Blue: #364E66
-Red: #9B3A3A
-Orange: #EF9232
------------------------------------------------ */
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.alfranken.com/blog/rss/">
 
-html, body {margin: 0; padding: 0; text-align: center;}
-html {height: 100%; margin-bottom: 1px;} /* force scrollbars on short pages*/
-/*body {background: #010427 url(/page/-/wrapper/bg.jpg) 50% 300px repeat-y}*/
-body {background: #010427 url(/page/-/wrapper/top.jpg) top center no-repeat}
+<script type="text/javascript" src="http://www.alfranken.com/page/-/wrapper2/js/swfobject.js"></script>
+<script type="text/javascript" src="http://www.alfranken.com/page/-/wrapper2/js/jquery.js"></script>
+<script type="text/javascript" src="http://www.alfranken.com/page/-/wrapper2/js/jquery.innerfade.js"></script>
 
-/* TYPOGRAPHY
------------------------------------------------ */
-html { font-size: 100%; } /* Somehow Fixes IE */
-body { font-size: 62.5%; font-family: verdana, arial, helvetica, sans-serif;  color: #000;} /* sets font to 10px */
+<script type="text/javascript"> 
+$(document).ready(
+  function(){
+    $('#homeTestimonials').innerfade({
+      // animationtype: 'slide',
+      speed: 1500,
+      timeout: 15000,
+      type: 'sequence',
+      containerheight: '115px'
+    });
+  }
+);
 
-#container { font-size: 1.2em; } /* 1.1em = 11px */
+$(document).ready(
+  function(){
+    $('.banner').innerfade({
+      // animationtype: 'slide',
+      speed: 1500,
+      timeout: 15000,
+      type: 'sequence',
+      containerheight: '240px'
+    });
+  }
+);
 
-h1 {font-family: "century gothic"; font-size: 2em; font-weight: bold; margin-top: .5em; margin-bottom: .5em; color: #364E66; text-transform: uppercase;}
-h2 {font-family: Georgia, "Times New Roman", Times, serif; font-size: 1.6em; margin-top: 1.2em; margin-bottom: .7em; font-weight: bold; color: #364E66;}
-h3 {font-size: 1.4em; margin-bottom: 1.2em; color: #0F3584; font-weight: bold;}
-h4 {font-size: 1.1em; margin-bottom: 1.2em; font-weight: bold;}
-h5 {font-size: 1.0em; margin-bottom: 1.2em; font-weight: bold;}
-h6 {font-size: 0.8em; margin-bottom: 1.2em; font-weight: bold;}
+</script>
 
-ol, li {font-size: 1em; line-height: 1.4em; margin-top: 0.8em; margin-bottom: 0.4em;}
-p {font-size: 1em; line-height: 1.4em; margin-bottom: 1.2em;}
-blockquote {font-size: 1em; line-height: 1.4em; margin: 1.2em 3em 1.2em 3em; text-align: justify;}
-pre {font-family: monospace; font-size: 1.0em;}
-strong, b {font-weight: bold;}
-td {vertical-align: top;}
-pre {clear: both; background-color: #EFF6FE; border: 1px solid #005BB5; text-align: center; margin: 0 10px; padding: 0 5px 5px 5px; font-size: 11px;}
+<!--[if lt IE 7]>
+<script language="JavaScript">
+function correctPNG() // correctly handle PNG transparency in Win IE 5.5 & 6.
+{
+   var arVersion = navigator.appVersion.split("MSIE")
+   var version = parseFloat(arVersion[1])
+   if ((version >= 5.5) && (document.body.filters)) 
+   {
+      for(var i=0; i<document.images.length; i++)
+      {
+         var img = document.images[i]
+         var imgName = img.src.toUpperCase()
+         if (imgName.substring(imgName.length-3, imgName.length) == "PNG")
+         {
+            var imgID = (img.id) ? "id='" + img.id + "' " : ""
+            var imgClass = (img.className) ? "class='" + img.className + "' " : ""
+            var imgTitle = (img.title) ? "title='" + img.title + "' " : "title='" + img.alt + "' "
+            var imgStyle = "display:inline-block;" + img.style.cssText 
+            if (img.align == "left") imgStyle = "float:left;" + imgStyle
+            if (img.align == "right") imgStyle = "float:right;" + imgStyle
+            if (img.parentElement.href) imgStyle = "cursor:hand;" + imgStyle
+            var strNewHTML = "<span " + imgID + imgClass + imgTitle
+            + " style=\"" + "width:" + img.width + "px; height:" + img.height + "px;" + imgStyle + ";"
+            + "filter:progid:DXImageTransform.Microsoft.AlphaImageLoader"
+            + "(src=\'" + img.src + "\', sizingMethod='scale');\"></span>" 
+            img.outerHTML = strNewHTML
+            i = i-1
+         }
+      }
+   }    
+}
+window.attachEvent("onload", correctPNG);
+</script>
+<![endif]-->
 
+<!-- Google Analytics -->
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"> </script>
+<script type="text/javascript"> _uacct = "UA-2192058-1"; urchinTracker(); </script>
+<!-- End Google Analytics -->
 
-/* LINKS
------------------------------------------------ */
-
-a {text-decoration: none; font-weight: bold; color: #9B3A3A;}
-a:link {}
-a:visited {}
-a:active {}
-a:hover {text-decoration: underline;}
-
-
-/* LAYOUT
------------------------------------------------ */
-body {}
-#container {text-align: left; margin: 0px auto; padding: 0; width: 760px;}
-
-#contentFooter {clear: both;}
-
-#content {width: 684px; margin: 0px 43px 0 33px; background: url(/page/-/wrapper/content-bg.jpg) top center repeat-y;}
-#contentInner {padding: 0px 30px 40px 30px; background: url(/page/-/wrapper/bottom.jpg) bottom center no-repeat;}
-
-/* HEADER
------------------------------------------------ */
-#header {text-align: left; position: relative; margin: 0px auto; padding: 0; height: 370px;}
-
-#logo img, #volunteer img, #tellafriend img, #contribute img, #meet img {width: 100%; height: 100%;}
-
-#logo {position: absolute; top: 70px; left: 45px; width: 560px; height: 45px;}
-#watchVideo {position: absolute; top: 25px; right: 43px; width: 303px; height: 29px;}
-#volunteer {position: absolute; top: 138px; left: 45px; width: 185px; height: 50px;}
-#tellafriend {position: absolute; top: 205px; left: 45px; width: 185px; height: 50px;}
-#contribute {position: absolute; top: 275px; left: 45px; width: 185px; height: 55px;}
-#meet {position: absolute; top: 215px; left: 640px; width: 115px; height: 60px;}
-
-#quickSignup {position: absolute; top: 304px; left: 465px; font-size: 10px; width: 230px;}
-#quickSignup p {margin-bottom: 4px; text-align: right;}
-#quickSignup form {margin: 0; padding: 0;}
-#quickSignup form p {margin-bottom: 2px;}
-#quickSignup input {font-size: 1.1em; margin-bottom: 4px;}
-
-#nav {position: absolute; top: 335px; left: 290px; width: 400px; text-align: right; color: #728599; text-transform: uppercase; margin: 0; padding: 0;}
-#nav p {margin: 0; padding: 0;}
-#nav a {color: #728599; margin-left: 5px; margin-right: 5px;}
-
-/* SPLASH 
------------------------------------------------ */
-body#splash {background-image: url(/page/-/wrapper/splash.jpg);}
-
-body#splash #header {text-align: left; position: relative; margin: 0px auto; padding: 0; height: 500px;}
-
-body#splash #logo {display: none;}
-body#splash #watchVideo {position: absolute; top: 25px; right: 43px; width: 303px; height: 29px;}
-body#splash #volunteer {position: absolute; top: 100px; left: 45px; width: 240px; height: 70px;}
-body#splash #tellafriend {position: absolute; top: 190px; left: 45px; width: 240px; height: 70px;}
-body#splash #contribute {position: absolute; top: 275px; left: 45px; width: 240px; height: 90px;}
-body#splash #meet {position: absolute; top: 237px; left: 650px; height: 65px; width: 120px;}
-
-body#splash #quickSignup {position: absolute; top: 428px; left: 463px; font-size: 10px; width: 230px;}
-
-body#splash #nav {position: absolute; top: 480px; left: 290px; width: 400px; text-align: right; color: #728599; text-transform: uppercase; margin: 0; padding: 0;}
-#nav p {margin: 0; padding: 0;}
-#nav a {color: #728599; margin-left: 5px; margin-right: 5px;}
-
-
-
-/* CONTENT
------------------------------------------------ */
-#content h1 {padding: 0px; margin: 0 0 10px 0;}
-#content ul {margin-left: 60px; margin-right: 30px; list-style-type: none;}
-#content li {background: url(/page/-/wrapper/bullet.png) no-repeat 0 6px; padding-left: 14px;}
-
-/* FOOTER
------------------------------------------------ */
-#footer {padding: 50px 0 10px 0; margin: 0;}
-#copyright {width: 400px; color: #fff; margin: 0 auto; border: 1px solid #fff; padding: 10px 0; text-align: center; text-transform: uppercase;}
-
-
-/* UTILS
------------------------------------------------ */
-
-img {border: 0;}
-.left {text-align: left;}
-.center {text-align: center;}
-.right {text-align: right;}
-.floatl {float: left; margin: 0; padding: 0 10px 10px 0;}
-.floatr {float: right; margin: 0; padding: 0 0 10px 10px;}
-.whitespace {margin: 0; padding: 0; width: 740px; background: #fff; height: 10px; clear: both;}
-.clear {clear:both; height:0; margin:0; font-size: 1px; line-height: 0;}
-
-
-/* FORM ATTRIBUTES
------------------------------------------------ */
-form {margin: 0;}
-form p, form label {font-size: 10px; margin: 0; padding: 1px; line-height: 1.2em;}
-select {font-size: 10px;}
-input, textarea {text-align: left; font-family: "lucida grande", verdana, lucida, arial, helvetica, sans-serif; vertical-align: middle;}
-input.txt, input.text {background: #fff; padding: 1px; border: 1px solid #7684A4;}
-input.button {cursor: pointer; background: #cc0000; border: solid 1px #89B5D8; color: #fff;}
-input.buttonImg {cursor: pointer; border: none; vertical-align: middle; height: 18px; padding: 0;}
-label {padding: 0px; font: 11px "lucida grande", verdana, lucida, arial, helvetica, sans-serif; line-height: 1.1em;}
-</style>
+<title>Al Franken for Senate  |  privacypolicy</title>
 
 </head>
 
-<body id="">
+<body id="bodyBSD" class="onecol contribute">
 
-<div id="container">
+<div id="container" class="clearfix">
 
 <div id="header">
 
-  <div id="logo"><a href="/"><img src="/page/-/wrapper/spacer.gif" height="45" width="560" alt="Go to the Homepage"></a></div>
-<!-- added 2.12.07 -->
-  <div id="watchVideo"><a href="/page/content/videoMessage"><img src="/page/-/watchVideo.jpg" height="29" width="303" alt="A Video Message from Al"></a></div>
-  <div id="volunteer"><a href="/join"><img src="/page/-/wrapper/spacer.gif" height="50" width="185" alt="Volunteer"></a></div>
-  <div id="tellafriend"><a href="/page/content/events/"><img src="/page/-/wrapper/spacer.gif" height="50" width="185" alt="Tell your Friends"></a></div>
-  <div id="contribute"><a href="/contribute"><img src="/page/-/wrapper/spacer.gif" height="55" width="185" alt="Contribute"></a></div>
-  <div id="meet"><a href="/Al"><img src="/page/-/wrapper/spacer.gif" height="60" width="115" alt="Meet Al"></a></div>
+    <div id="logo"><a href="http://www.alfranken.com"><img src="/page/-/wrapper2/spacer.gif" height="78" width="360" alt="Go to the Homepage"></a></div>
   
   <div id="quickSignup">
-  <form name="signup" action="/page/s/quicksignup" method="post" id="signup">
-  <input type="text" style="width: 125px;" tabindex="1" name="email" alt="EMAIL" class="text" border="0" value="EMAIL" onfocus="if(this.value=='EMAIL')this.value='';" onblur="if(this.value=='')this.value='EMAIL';">
-  <input type="text" style="width: 65px;" tabindex="2" name="zip" alt="ZIP" class="text" border="0" value="ZIP" onfocus="if(this.value=='ZIP')this.value='';" onblur="if(this.value=='')this.value='ZIP';">
-  <input type="image" src="/page/-/wrapper/button-go.png" name="submit" value="submit" class="buttonImg"> 
+  <form name="signup" action="http://www.alfranken.com/page/s/quicksignup" method="post" id="signup">
+  <input type="text" style="width: 112px;" tabindex="1" name="email" alt="EMAIL" class="text" border="0" value="EMAIL" onfocus="if(this.value=='EMAIL')this.value='';" onblur="if(this.value=='')this.value='EMAIL';">
+  <input type="text" style="width: 55px;" tabindex="2" name="zip" alt="ZIP" class="text" border="0" value="ZIP" onfocus="if(this.value=='ZIP')this.value='';" onblur="if(this.value=='')this.value='ZIP';">
+  <input type="image" src="/page/-/wrapper2/button-go.png" name="submit" value="submit" class="buttonImg"> 
   </form>
   </div>
-  <div id="nav">
-  <p><!-- <a href="http://www.publicradio.org/tools/media/player/news/midday/2007/02/15_midday2">AL on MPR</a> | --><a href="/contact">Contact Us</a> | <a href="/media">Media</a> | <a href="/page/content/privacy/">Privacy</a></p>
-  </div>
+
+<div id="caucusForAl_link"><a href="http://www.alfranken.com/feb5"><img src="/page/-/wrapper2/caucusForAl_text.png" width="300" height="30" alt="Caucus for Al!"></a></div>  
+
+<div id="bannerContribute" class="banner">
+<img src="http://www.alfranken.com/page/-/wrapper2/head-contribute-3.jpg" alt="">
+</div>
+  
+    <div id="nav">
+    <ul>
+      <li id="navA"><a href="http://www.alfranken.com"><span>Home</span></a></li>
+      <li id="navB"><a href="http://www.alfranken.com/contribute"><span>Contribute</span></a></li>
+      <li id="navC"><a href="http://www.alfranken.com/pages/meet_al/"><span>Meet Al</span></a></li>
+     <li id="navD"><a href="http://www.alfranken.com/content/issues"><span>Issues</span></a></li>
+      <li id="navE"><a href="http://www.alfranken.com/content/events"><span>Events</span></a></li>
+      <li id="navF"><a href="http://blog.alfranken.com"><span>Blog</span></a></li>
+      <li id="navG"><a href="http://www.alfranken.com/content/videos/"><span>Video</span></a></li>
+    </ul>
+  </div><!-- END div#nav -->
  
 </div><!-- END div#header -->
 
@@ -184,11 +129,27 @@ label {padding: 0px; font: 11px "lucida grande", verdana, lucida, arial, helveti
 <div id="contentInner">  <p class="MsoNormal"><strong><span style="font-size: 16pt">Privacy Policy</span></strong></p>    <p class="MsoNormal">At Al Franken for Senate, we are putting forth every effort to ensure the privacy and security of information that you share with us online. In addition, we urge you to take steps to protect the privacy of your personal information, such as safeguarding your passwords and logging off of the website after submitting personal information. If you have broadband access to the Internet, it is strongly advised that you use a firewall.</p>      <p class="MsoNormal">Our privacy policy explains the information practices we use at AlFranken.com related to:&nbsp;</p>  <p class="MsoNormal"><span>&nbsp;&nbsp;&nbsp; </span>* How we protect your information</p>  <p class="MsoNormal"><span>&nbsp;&nbsp;&nbsp; </span>* How we use your information</p>  <p class="MsoNormal"><span>&nbsp;&nbsp;&nbsp; </span>* How to contact us about privacy</p>      <p class="MsoNormal">Our site links to a limited number of other websites.<span>&nbsp; </span>Al Franken for Senate is not responsible for the content or the privacy policies of these websites. We encourage you to read the privacy statements for each website you visit.<span>&nbsp; </span>Al Franken for Senate will occasionally update this privacy policy as changes to the site necessitate it.<span>&nbsp; </span>We encourage you to periodically review this policy to be informed of how we are protecting your information.&nbsp;</p>  <p class="MsoNormal"><strong>How do we protect your information?</strong></p>      <p class="MsoNormal">Our website has a number of security measures in place to protect against the loss, misuse or alteration of the information under our control. Computer systems have restricted access limited only to those persons and organizations necessary to its proper functioning. This access applies to all electronic and physical security measures. Highly sensitive data including credit card information is additionally secured through the use of encryption, such as the Secure Socket Layer (SSL) protocol. Our servers are located in a locked, secure environment.&nbsp;</p>  <p class="MsoNormal"><strong>How do we use the information you provide?</strong></p>      <p class="MsoNormal">On registration, sign-up and contribution forms on AlFranken.com, we may ask for your name, address, telephone number, and e-mail address, as well as who, if anyone, referred you to the site in order to credit those who are organizing volunteer support or fundraising for Al Franken for Senate.&nbsp;</p>  <p class="MsoNormal">We will use your e-mail address to provide you news and information about Al Franken for Senate.<span>&nbsp; </span>We may also use your zip code and state to send you e-mail messages about upcoming campaign events or activities in your area.</p>      <p class="MsoNormal">We may also use the information that you provide online to contact you for other purposes or to solicit you for contributions.<span>&nbsp; </span>When you register or sign-up online, we may share your contact information with successor organizations and other like-minded Democratic candidates and organizations, and they may contact you.<span>&nbsp; </span>When you make a contribution to us, we may also exchange your contributor information with successor organizations and other like-minded Democratic candidates and organizations, and they may solicit you (see below for additional information regarding your contributor information).<span>&nbsp; </span>However, we will not sell or exchange your credit card information to any other third party under any circumstances.&nbsp;</p>  <p class="MsoNormal"><em>When you contribute money online:</em></p>      <p class="MsoNormal">We are required by federal law to collect and report to the Federal Election Commission the name, mailing address, occupation and employer of individuals whose contributions exceed $200 in an election cycle. These records are available to the public. However, they cannot be used by other organizations for fundraising. For additional information, visit the FEC website at http://www.fec.gov. We also make a note of your telephone number and email address, which helps us to contact you quickly if follow-up on your contribution is necessary under Federal election law.<span style="color: red">&nbsp;</span></p>  <p class="MsoNormal"><em>When you sign one of our petitions:</em></p>      <p class="MsoNormal">We treat your name, city, state, and any comments as public information. We may, for example, provide compilations of petitions, with your comments, to national leaders, without disclosing email addresses. We may also make comments along with your city and state available to the press and public online.&nbsp;</p>  <p class="MsoNormal"><em>When you schedule online events:</em></p>      <p class="MsoNormal">When you schedule an event and choose to post it on AlFranken.com you have the choice of making your event public or semi-public. Public events will display your name and the address of the event to any visitor browsing the system and allow those users to RSVP. Semi-public events will display your name and the general area that you define (e.g."1st &amp; Main", or "downtown"), but will not display the specific address. Visitors can requests invitations, and only after those requests are approved by you can they see the address.&nbsp;</p>  <p class="MsoNormal"><em>Cookies:</em></p><p class="MsoNormal">A cookie is a tiny text file that is stored on your computer by AlFranken.com. We use cookies to tailor your experience on our site according to the preferences you have specified. When you visit AlFranken.com, we only access the cookie file that we have stored on your computer. We cannot and do not access any information stored in a cookie by other websites. Our cookies do not contain any personal identifiable information.</p>      <p class="MsoNormal"><em>IP Addresses and Log File Data:</em>&nbsp;</p>  <p class="MsoNormal">We log IP address, which is the location of your computer or network on the Internet, for systems administration and troubleshooting purposes. We also use page hits in the aggregate to track the popularity of pages that people visit in order to improve the quality of the site. There is no personal identifiable information collected in our log files.</p>      <p class="MsoNormal"><em>Information on Children:</em>&nbsp;</p>  <p class="MsoNormal">Because we care about the safety and privacy of children online, we comply with the Children's Online Privacy Protection Act of 1998 (COPPA). COPPA and its accompanying FTC regulations establish United States federal law that protects the privacy of children using the Internet. We do not knowingly contact or collect personal information from children under 13. Our site is not intended to solicit information of any kind from children under 13, and we have designed our sites to block our knowing acceptance of information from children under 13 whenever age-related information is requested.</p>      <p class="MsoNormal">Parents with questions may e-mail us <a href="/contact"><strong>here</strong>.</a>&nbsp;</p>  <p class="MsoNormal"><strong>Unsubscribing from Email Communications:</strong></p>    <p class="MsoNormal">If you wish to unsubscribe from our communications, please email us <a href="/contact"><strong>here</strong></a>. We will regularly process these requests. To comply with federal election law, however, our contributor records will be continuously maintained in a separate secure database.</p>    <p class="MsoNormal"><strong>Contacting us about privacy:</strong></p>      <p class="MsoNormal">Al Franken for Senate<br>P.O. Box <span class="st"><span>583144</span></span><br> Minneapolis, MN  55458-3144<strong></strong>&nbsp;</p>  <p class="MsoNormal">If you have any questions about our privacy policy, corrections to the information we have collected from you online, the practices of this site or your interaction with this website, <strong>please contact us </strong><a href="/contact"><strong>here</strong></a><strong>.</strong></p>  <p class="MsoNormal"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></p>  </div><!-- END div#contentInner -->
 </div><!-- END div#content -->
 
+
+<!-- -->
+<script type="text/javascript" src="/includes/clear_input_values"></script>
+
+<div id="contentFooter"><!-- --></div>
+
 </div><!-- END div#container -->
 
+<div id="footerOuter">
 <div id="footer">
-  <div id="copyright">Paid for by Al Franken for Senate</div>
+<div id="footerLinks"><a href="/contact">Contact Us</a> | <a href="/media">Media</a> | <a href="/privacy">Privacy</a></div>
+<div id="socialnet">
+<a href="http://myspace.com/teamfranken" target="new"><img src="/page/-/wrapper2/social-myspace.png" width="162" height="41"></a>
+<img src="/page/-/wrapper2/social-divider.png" width="7" height="41">
+<a href="http://www.facebook.com/p/Al_Franken/719955132" target="new"><img src="/page/-/wrapper2/social-facebook.png" width="93" height="41"></a>
 </div>
+<div id="copyright">Paid for by Al Franken for Senate</div>
+</div><!-- END div#footer -->
+</div><!-- END div#footerOuter -->
+
+
 
 
 </body></html>
