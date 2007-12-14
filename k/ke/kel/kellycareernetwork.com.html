@@ -1,11 +1,15 @@
-<!--The following is the downloaded HTML source of the kellycareernetwork.com privacy policy that was archived on 2006-12-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061205193556id_/http%3A//www.kellyservices.us/web/us/services/en/pages/privacy_statement.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kellycareernetwork.com privacy policy that was archived on 2007-12-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071214045003id_/http%3A//www.kellyservices.us/web/us/services/en/pages/privacy_statement.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-  <title>Kelly Services : Privacy Statement</title>
+  <title>Kelly Services : Privacy Statement - </title>
   <meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
-  <meta name="copyright" content="© 2006 Kelly Services, Inc.">
+  <meta name="copyright" content="© 2007 Kelly Services, Inc.">
   <meta name="description" content="Privacy Statement for Kelly Services">
+  <meta name="searchtagSiteID" content="us_services_en">
+  <meta name="searchtagCountry" content="us">
+  <meta name="searchtagDivision" content="services">
+  <meta name="searchtagLanguage" content="en">
   <meta name="keywords" content="Job Search, Job Listings, Employment Agency, Part Time Jobs, Job Site, Job Online, Job Search Engine, Job Employment, Temporary Employment">
   <script type="text/javascript"></script>
 
@@ -20,13 +24,17 @@
   <script type="text/javascript" src="/res/display/default/js/ufo.js"></script>
   <script type="text/javascript" src="/res/display/default/js/button.js"></script>
   <script type="text/javascript" src="/res/display/default/js/site_tracer.js"></script>
-	<script type="text/javascript" src="/res/display/default/js/random.js"></script><script type="text/javascript" src="/res/display/default/js/drop.js"></script>
+	<script type="text/javascript" src="/res/display/default/js/random.js"></script>
+                     <script type="text/javascript" src="/res/display/default/js/ufo.js"></script>
+                     <script type="text/javascript" src="/res/display/default/js/searchencode.js"></script> <script type="text/javascript" src="/res/display/default/js/drop.js"></script>
 <script type="text/javascript" src="/res/content/us/services/en/js/jobsearchus.js"></script>
+<!-- Disable the call to the foresee survey re:Brent - Vivek 01/23/2007
 <script type="text/javascript" src="/res/content/us/services/en/foresee/triggerParams.js"></script>
 <script type="text/javascript" src="/res/content/us/services/en/foresee/stdLauncher.js"></script>
-<script type="text/javascript"><!--
-  Poll();
-//--></script>
+<script type="text/javascript">
+  //Poll();
+//</script>
+End Disable -->
 
 </head>
 <body>
@@ -42,21 +50,54 @@
     </div>
 
     <div id="header">
-      <div id="hlogo"><a href="/web/us/services/en/pages/index.html" title="Kelly Services Home"><img src="/res/content/logo_services_60.gif" alt="Kelly Services Home"></a></div>
+      <div id="hlogo"><a href="/web/us/services/en/pages/index.html" title="Kelly Services Home"><img src="/res/content/logo_services.gif" alt="Kelly Services Home"></a></div>
 <div class="clear">&nbsp;</div>
     </div>
 
     <div id="nav">
-      <div id="navsearch" class="colright">
-        <form action="/web/us/services/en/pages/search.html" method="post" id="search">
-          <p>
+         
+            <div id="navsearch" class="colright">             
+          
+       <form action="/web/us/services/en/pages/search.html" method="get" name="searchform" onsubmit="return(encodeqt());">
+       <input type="hidden" name="style" id="style" value="KellyINTER">
+<input type="hidden" id="qrd" name="qrd" value="www.kellyservices.us">
+<input type="hidden" name="la" id="la" value="en">  
+<p>  
           <label for="search_qry">Search</label>
-          <input type="text" name="search_qry" id="search_qry" value="">
-          <input type="submit" name="submit" value="Go" title="Go" class="btn">
-          </p>
+          <input type="text" name="textqt" id="textqt" value="">
+          <input type="hidden" name="textqp" id="textqp" value="site:www.kellyservices.us||searchtagCountry:us||searchtagDivision:services"> 
+
+                    <input type="button" name="buttonsubmit" title="Go" class="btn" onclick="encodeqt()">
+         
+</p>
         </form>
-      </div>
-      <div id="topnav">
+<script type="text/javascript">
+  function encodeqt() {
+    //convenience var to access the form
+    var sform = document.searchform;
+    
+    //get the values of the form encoded
+    var qt = searchencode.encode(sform.textqt.value);
+    var qp = searchencode.encode(sform.textqp.value);
+    //sform.textqp.value = qp;
+    
+    //the search URL to send the form contents
+    var url = "/web/us/services/en/pages/search.html";
+    
+    //redirect the page as a GET
+    (document.location.href = url + 
+                            '?style=KellyINTER' +
+                            '&qrd=' + sform.qrd.value + 
+                            '&la=' + sform.la.value +
+                            '&qt=' + qt +
+                            '&qp=' + sform.textqp.value);
+
+    return false;
+  }
+    
+</script> 
+
+      </div>      <div id="topnav">
         <h3>Site Sections:</h3>
         <ul>
           <li class="off" id="topnav01"><a href="/web/us/services/en/pages/careers_main.html" title="Careers"> Careers</a></li>
@@ -211,7 +252,7 @@ There are no fees associated with accessing or updating the personal data previo
         <li><a href="/web/us/services/en/pages/privacy_statement.html" title="Privacy Statement">Privacy Statement</a></li>
         <li><a href="/web/us/services/en/pages/accessibility_statement.html" title="Accessibility Statement">Accessibility Statement</a></li>
         <li><a href="/web/us/services/en/pages/sitemap.html" title="Site Map">Site Map</a></li>
-        <li class="copyright">Copyright 2006 Kelly Services, Inc.</li>
+        <li class="copyright">Copyright 2007 Kelly Services, Inc.</li>
       </ul>
     </div>
 
@@ -220,14 +261,14 @@ There are no fees associated with accessing or updating the personal data previo
   </div>
 
 </div></div></div>
-		   <div id="bluestreaktracer">
+		   <div id="adtracker">
 		   </div>
            <script type="text/javascript"> <!--
               var cid_string = "";
               if ((cid_string!=null) & (cid_string.length!=0)) {
                  COOKIE.setCookie("cid", cid_string ); 
                  }
-              write_tracer("/eprise/main/cms/content/us/services/en/pages/privacy_statement.html");
+              //write_tracer("/eprise/main/cms/content/us/services/en/pages/privacy_statement.html");
             --></script>
 		   
 <!-- SiteCatalyst code version: G.7. -->
