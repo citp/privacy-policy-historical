@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the designersimports.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624043402id_/http%3A//www.designersimports.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designersimports.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214014222id_/http%3A//www.designersimports.com/privacy.asp) for the most accurate reproduction.*
 
-# Designers-Imports - the Designer Handbag Source Burberry Fendi, Prada, Chloe Handbags, and shoes at discounted prices - designersimports.com
+# Designer Handbags, Wallets and Designer Scarves Source - Shop Burberry Fendi, Prada, Chloe Handbags, and shoes at discounted prices - www.designersimports.com
 
 Our privacy policies are strict and are adhered to at all times. You can be confident that any and all information submitted to our site remains confidential forever. By informing you of our policy we are promoting trust and confidence, for all those who submit information, whether purchasing or requesting specific information and for membership sign up.
 
