@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalsurveygroup.com privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618053357id_/http%3A//www.globalsurveygroup.com/gsg.php%3FpageID%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalsurveygroup.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214020420id_/http%3A//www.globalsurveygroup.com/gsg.php%3FpageID%3Dprivacy) for the most accurate reproduction.*
 
 # GLOBAL SURVEY GROUP: Get invitations to the best paid online surveys
 
