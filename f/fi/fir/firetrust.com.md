@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firetrust.com privacy policy that was archived on 2007-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070615053546id_/http%3A//www.firetrust.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firetrust.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214120304id_/http%3A//www.firetrust.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Firetrust Ltd
 
