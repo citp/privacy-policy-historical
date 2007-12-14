@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zannel.com privacy policy that was archived on 2007-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070504050122id_/http%3A//www.zannel.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zannel.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214024723id_/http%3A//www.zannel.com/privacy.jsp) for the most accurate reproduction.*
 
-# Zannel
+# Zannel - Privacy Policy
 
 **Zannel, Inc. Privacy Policy**
 
