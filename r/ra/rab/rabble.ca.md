@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rabble.ca privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626180134id_/http%3A//www.rabble.ca/about_us/about_us.shtml%3Fx%3D743) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rabble.ca privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214080136id_/http%3A//www.rabble.ca/about_us/about_us.shtml%3Fx%3D743) for the most accurate reproduction.*
 
 # about us
 
