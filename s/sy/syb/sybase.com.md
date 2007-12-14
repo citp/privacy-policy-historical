@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sybase.com privacy policy that was archived on 2007-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070205150937id_/http%3A//www.sybase.com/detail%3Fid%3D1003649) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sybase.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214232748id_/http%3A//www.sybase.com/detail%3Fid%3D1003649) for the most accurate reproduction.*
 
-# Sybase Inc. Privacy Policy - Sybase Inc
+# Sybase Inc. Privacy Policy Policy Statement: - Sybase Inc
 
 **Effective August 28, 2006**
 
@@ -10,7 +10,7 @@ This statement discloses the privacy practices that apply to the online collecti
 
 Sybase is a member of the TRUSTe program and is strongly committed to protecting your privacy online. TRUSTe is an independent, non-profit initiative whose mission is to build users' trust and confidence in the Internet by promoting the principles of disclosure and informed consent.
 
-[ ](https://www.truste.org/ivalidate.php?url=www.sybase.com&sealid=102)
+[ ](http://www.truste.org/ivalidate.php?url=www.sybase.com&sealid=102)
 
 If you have questions or concerns regarding this statement, you should first contact the Sybase Web Marketing team by email at [privacy@sybase.com](mailto:privacy@sybase.com) . If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with Sybase to resolve any concerns you may have with the Sybase.com/MySybase Web site (English version).
 
@@ -76,7 +76,7 @@ From time to time, we may also use third-party cookies to track non-personally i
 ** Service Providers**   
 We sometimes hire companies (Service providers) to provide services on our behalf. Service providers may provide mailing and event registration information or technical support information to you. We will only provide such service providers the information they need to deliver the services and they are prohibited from using that information for any other purpose. 
 
-On occasion, Sybase uses Web site framing techniques, linking you to another service provider's Web site that retains the look and feel and navigation of www.sybase.com. This practice is used simply to aid you to easily navigate back to www.sybase.com. When framing occurs, the URL in your browser's toolbar will no longer display the www.sybase.com address, but the Web site address of the service provider in question.
+On occasion, Sybase uses Web site framing techniques, linking you to another service provider's Web site that retains the look and feel and navigation of www.sybase.com. This practice is used simply to aid you to easily navigate back to www.sybase.com. When framing occurs, the URL in your browser's toolbar will no longer display the www.sybase.com address, but the Web site address of the service provider in question. 
 
 ** Companies Offering Promotions **   
 From time to time, a Sybase business partner may wish to offer promotions. Sybase and its partners may engage in events or provide bundled products. In those instances, we will share your information with that partner. Such promotions such as joint seminars and sales promotions, jointly developed products, and joint announcements will always reference the partners involved. Both Sybase and its partner(s) will have access to information submitted by users who have expressed interest in marketing promotions. While we carefully choose our partners, we do advise you to review the privacy policies of these partners as well. If you receive a communication from a Sybase partner and wish to opt out of any subsequent partner communications, please contact that partner directly. 
