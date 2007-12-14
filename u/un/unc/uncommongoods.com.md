@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uncommongoods.com privacy policy that was archived on 2007-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070219235549id_/http%3A//www.uncommongoods.com/help/help.jsp%3Ftopic%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uncommongoods.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214182758id_/http%3A//www.uncommongoods.com/help/help.jsp%3Ftopic%3Dprivacy) for the most accurate reproduction.*
 
 # UncommonGoods | Help
 
@@ -19,6 +19,7 @@
 [**What is Better to Give?**](https://web.archive.org/about/better.jsp)  
 [**Is my personal information stored? How do I modify that information?**](https://web.archive.org/help/help.jsp?topic=modify)  
 [**What navigational information is collected and how is it used?**](https://web.archive.org/help/help.jsp?topic=collect)  
+[**Do you have any retail locations?**](https://web.archive.org/help/help.jsp?topic=store)  
   |  **Privacy protection**  
 UncommonGoods respects and is committed to protecting your privacy. This privacy protection section communicates how, when, and why we gather information about our customers and what we do with it. 
 
@@ -28,12 +29,11 @@ We have taken many precautions to insure that shopping at UncommonGoods is safe 
 **Order information**  
 If you place an order through UncommonGoods, we will ask you for your e-mail address, shipping address, telephone number and credit card information. We use this information to process and fulfill your order and to notify you of your order status. All archived credit card information is maintained in a secure and safe environment. Telephone numbers and e-mail addresses are only used to contact you regarding your order, unless you request to receive our e-mail newsletter updates. 
 
-**Sign up**  
-We invite interested visitors to sign up for our mailing list to receive occasional e-mail alerts about special offers and promotions. When you sign up, we ask for your first name and e-mail address only. Also during sign up, visitors can opt to inform us about their product category preferences and how they heard about UncommonGoods. Again, we are committed to not selling, renting, or sharing your e-mail address with anyone. 
+**Email List**
 
-If you decide you no longer wish to receive e-mail from us, every e-mail we send to you includes simple instructions on how to opt out of future communications. You can also review opt-out instructions below. 
+We invite interested visitors to sign up to receive occasional e-mails about new products, featured artists, and special offers. When you sign up, we ask for your first name and e-mail address. You can also choose to let us about your product interests and how you heard about UncommonGoods. We do not allow any other companies to use our email list to market to our customers. We do not rent, sell or share our email list, except with the company that sends our emails and this company is contractually obligated not to share this information with anyone. If you decide you no longer wish to receive e-mail from us, every e-mail we send to you includes simple instructions on how to opt out of future communications. You can also review opt-out instructions below. Catalog Mailings 
 
-If you sign up to receive our catalog or make a purchase with UncommonGoods, you may receive information in the mail from other carefully screened companies whose products or services might interest you. If you would prefer not to receive a catalog from UncommonGoods, please see the opt-out instructions below. If you would prefer not to receive any information in the mail from other carefully screened companies, please send e-mail to [donotshare@uncommongoods.com](mailto:donotshare@uncommongoods.com), including your name and address or you may do the same by phone or mail, as detailed in the opt-out instructions below. 
+We may make portions of our mailing list available to carefully screened companies. Consequently, if you sign up to receive our catalog or make a purchase with us, you may receive other catalogs whose products or services might interest you. If you would prefer not to receive a catalog from UncommonGoods, please see the opt-out instructions below. If you would prefer not to receive any information in the mail from other carefully screened companies, please send e-mail to [donotshare@uncommongoods.com](mailto:donotshare@uncommongoods.com), including your name and address. Alternately, you may do the same by phone or mail, as detailed in the opt-out instructions below. 
 
 **Use of cookies**  
 UncommonGoods uses "cookies" for the sole purpose of enhancing your shopping experience. 
@@ -53,7 +53,7 @@ If you decide you no longer wish to receive communications from us, you can opt 
 At the bottom of every e-mail we send out is a line that reads: If you prefer not to receive e-mails from us, please e-mail us at [remove@uncommongoods.com.](mailto:remove@uncommongoods.com) Clicking on the link displays a mail form that has 'please remove' in the subject line. If you hit the send button, your name will be automatically removed from our e-mail list. 
   * **Calling customer service**
   
-If you prefer to speak to us live, please call us at 888-365-0056. UncommonGoods is open 8am to 2am EST Monday through Friday and 9am to midnight EST Saturday and Sunday. If you don't reach us, please leave us a message with your name and telephone number. We will respond to e-mail and voice mail promptly. 
+If you prefer to speak to us live, please call us at 888-365-0056. UncommonGoods is open 24 hours a day, 7 days a week until Christmas. If you don't reach us, please leave us a message with your name and telephone number. We will respond to e-mail and voice mail promptly. 
   * **Sending a note to:**  
 UncommonGoods  
 Customer Service  
