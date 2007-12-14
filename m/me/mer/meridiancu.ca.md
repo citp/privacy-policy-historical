@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meridiancu.ca privacy policy that was archived on 2007-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070619012008id_/http%3A//www.meridiancu.ca/misc/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meridiancu.ca privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214014931id_/http%3A//www.meridiancu.ca/misc/privacy.htm) for the most accurate reproduction.*
 
 # Meridian Credit Union - Privacy
 
@@ -62,3 +62,20 @@ Meridian's Privacy Officer is your point of contact if you wish to raise any mat
 The Privacy Officer is responsible for monitoring information collection and data security and ensures that other Meridian Credit Union staff receive appropriate training on privacy issues and their responsibilities under the Code. The Privacy Officer also handles all privacy inquiries and personal information access requests under the Code.
 
 Ultimate responsibility for our compliance with the Code, rests, however, with Meridian Credit Union's Board of Directors.
+
+We welcome any questions or concerns about our MemberDirect® Privacy Statement, or the practices of this site. Please contact us by email, or in writing at the following address:
+
+Name: **Dave Hammers**  
+Title: Privacy Officer  
+Email: [**dave.hammers@meridiancu.ca**](mailto:dave.hammers@eridiancu.ca)
+
+Name: **Sue Bennison**  
+Title: Deputy Privacy Officer  
+Email: [**sue.bennison@meridiancu.ca**](mailto:sue.bennison@meridiancu.ca)
+
+Phone: 416-597-4400 (default office number for both privacy officer and deputy privacy officer)  
+
+
+**Protecting Your Privacy—We're in it together**  
+As we continue to expand our online banking service to serve you better, and as new Internet technologies become available, we may need to amend this Privacy Statement at anytime, with our without notice to reflect changes in functionality and practice. Please check this Privacy Statement regularly for changes.  
+
