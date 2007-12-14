@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the minglecity.com privacy policy that was archived on 2007-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070205152817id_/http%3A//www.minglecity.com/privacy.php%3FPHPSESSID%3Dcde1244116a60b48ad3e2cec46457038) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minglecity.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214223729id_/http%3A//minglecity.com/minglecityNew/privacy.php) for the most accurate reproduction.*
 
-# Michael Baisden's MingleCity.com - Your Drama-Free Community!
+# Mingle City
 
 MingleCity™ has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: [www.minglecity.com](http://www.minglecity.com/)
 
@@ -8,7 +8,7 @@ We use your IP address to help diagnose problems with our server, and to adminis
 
 Our site's registration form requires users to give us contact information (like their name and email address) and demographic information (like their zip code, age, or income level). The customer's contact information is used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Demographic and profile data is also collected at our site. We use this data to tailor the visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences.
 
-This site contains links to other sites. www.MingleCity™ is not responsible for the privacy practices or the content of such Web sites but uses discretion in sites that established link exchange. Site must remain suitable for mature adult viewing. If you find a link that is not within this policy please e-mail us with the link immediately at [contact us ](https://web.archive.org/web/20070206061924id_/http://www.minglecity.com/contact_customer.php?PHPSESSID=1193f439d427eb81889f32412c313776)
+This site contains links to other sites. www.MingleCity™ is not responsible for the privacy practices or the content of such Web sites but uses discretion in sites that established link exchange. Site must remain suitable for mature adult viewing. If you find a link that is not within this policy please e-mail us with the link immediately at contact us 
 
 Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (like their email address). Contact information from the order form is used to send orders to our customers. The customer's contact information is used to get in touch with the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
 
@@ -22,11 +22,11 @@ We run contests on our site in which we ask visitors for contact information (li
 
 **3\. Children's Guidelines:** L This web site is not for Children. It is only set up for adults 21 and over.
 
-**4\. Choice/Opt-Out:** Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.You can [contact us ](https://web.archive.org/web/20070206061924id_/http://www.minglecity.com/contact_customer.php?PHPSESSID=1193f439d427eb81889f32412c313776)
+**4\. Choice/Opt-Out:** Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.You can contact us 
 
 **5\. Correct/Update:** This site gives users the following options for changing and modifying information previously provided. You can use your password to update your profile information 
 
-**6\. Contacting the Web Site:** If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us at: [contact us](https://web.archive.org/web/20070206061924id_/http://www.minglecity.com/contact_customer.php?PHPSESSID=1193f439d427eb81889f32412c313776), MingleCity™ does not prescreen individuals who become members, respond to or place profiles, personal advertisements or any other materials "online" through the MingleCity™ website, and does assume any responsibility of any kind for information, data and other contents thereof, for any contacts received in response thereto, for any meetings that may subsequently result (whether online, by telephone, in person or by any other means), or for any other consequences of any and all kinds whatsoever (whether direct or indirect). Please take proper precautions when meeting someone for the first time. Make sure your first meeting with someone new happens at a public place such as a restaurant. 
+**6\. Contacting the Web Site:** If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us at: contact us, MingleCity™ does not prescreen individuals who become members, respond to or place profiles, personal advertisements or any other materials "online" through the MingleCity™ website, and does assume any responsibility of any kind for information, data and other contents thereof, for any contacts received in response thereto, for any meetings that may subsequently result (whether online, by telephone, in person or by any other means), or for any other consequences of any and all kinds whatsoever (whether direct or indirect). Please take proper precautions when meeting someone for the first time. Make sure your first meeting with someone new happens at a public place such as a restaurant. 
 
 MingleCity™ uses its best efforts to maintain its sites, but is not responsible for the results of any defects that may be found to exist on its sites, or any other lost profits or other consequential damages that may result from such defects. MingleCity™ has numerous affiliate & partner sites, over which we do not have any control and we make no guarantees as to such sites and information located therein.
 
@@ -45,6 +45,6 @@ You have personal rights under the Data Protection Acts 1984 and 1988. You have 
   * **Changes to the Privacy Policy**  
 Any changes to our policy on privacy will be mailed to you.
   * **Your Comments**  
-Please send any comments about our privacy policy to [contact us ](https://web.archive.org/web/20070206061924id_/http://www.minglecity.com/contact_customer.php?PHPSESSID=1193f439d427eb81889f32412c313776)
+Please send any comments about our privacy policy to contact us 
 
 
