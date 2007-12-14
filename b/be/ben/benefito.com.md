@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the benefito.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623071421id_/http%3A//www.benefito.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the benefito.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214133109id_/http%3A//www.benefito.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Advertise businesses; post information; benefito privacy policy
 
-[Sign up](https://web.archive.org/web/20070623071421id_/http%3A//www.benefito.com/register.php)   
-[Offer Services](https://web.archive.org/web/20070623071421id_/http%3A//www.benefito.com/post.php)   
-[Post Jobs](https://web.archive.org/web/20070623071421id_/http%3A//www.benefito.com/post_project.php)   
-[Find Jobs](https://web.archive.org/web/20070623071421id_/http%3A//www.benefito.com/search_project.php)   
-[Categories](https://web.archive.org/web/20070623071421id_/http%3A//www.benefito.com/categories.php)
+[Sign up](https://web.archive.org/web/20071214133109id_/http%3A//www.benefito.com/register.php)   
+[Offer Services](https://web.archive.org/web/20071214133109id_/http%3A//www.benefito.com/post.php)   
+[Post Jobs](https://web.archive.org/web/20071214133109id_/http%3A//www.benefito.com/post_project.php)   
+[Find Jobs](https://web.archive.org/web/20071214133109id_/http%3A//www.benefito.com/search_project.php)   
+[Categories](https://web.archive.org/web/20071214133109id_/http%3A//www.benefito.com/categories.php)
 
 |  | 
 
