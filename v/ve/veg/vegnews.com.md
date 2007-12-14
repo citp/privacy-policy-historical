@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the vegnews.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625120818id_/http%3A//vegnews.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vegnews.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214104715id_/http%3A//www.vegnews.com/privacy_policy.html) for the most accurate reproduction.*
 
 # VegNews Magazine | About Us
 
-[click here to read our refund and cancellation policy.](https://web.archive.org/web/20070625120818id_/http%3A//vegnews.com/refund_cancel_policy.html)
+[click here to read our refund and cancellation policy.](https://web.archive.org/web/20071214104715id_/http%3A//www.vegnews.com/refund_cancel_policy.html)
 
 Thank you for visiting the VegNews Magazine website. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our information practices and the choices you can make about the way your information is collected and used.
 
