@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the engineseeker.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627033820id_/http%3A//www.engineseeker.com/engine_seeker_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the engineseeker.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214051638id_/http%3A//engineseeker.com/privacy_policy) for the most accurate reproduction.*
 
-# EngineSeeker.com - Online Search Engine Promotion and Submission
+# Search Engine Submission & Optimization Service | EngineSeeker.com
+
+## Privacy
+
+* * *
 
 Evisions Marketing Inc - EngineSeeker.com Site Privacy ( **SP** ) And Client User Policy's ( **CUP** ).
 
