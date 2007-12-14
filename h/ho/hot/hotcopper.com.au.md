@@ -1,24 +1,52 @@
-> *The following text is extracted and transformed from the hotcopper.com.au privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623222943id_/http%3A//www.hotcopper.com.au/forum_privacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotcopper.com.au privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214212013id_/http%3A//www.hotcopper.com.au/forum_privacyPolicy.asp) for the most accurate reproduction.*
 
-# 
+# Privacy Policy - HotCopper - Australian Stock Market (ASX) Forum
 
-|  Member Login  
+| Account Login  
 ---  
 Username: |   
 Password: |   
-New User?  
----  
-Join now for FREE!  
-Retrieve Password  
-Enter your username and email address and your password will be emailed to you.   
-Username: |   
-Email: |   
-724 Logins Today  
   
-[All](https://web.archive.org/web/20070623222943id_/http%3A//www.hotcopper.com.au/posts_latestAll.asp)   
-|  |  |   
+Daily Notices  
 ---  
   
+Significant changes to moderation have been made, click [here](http://www.hotcopper.com.au/post_single.asp?fid=6&tid=580249&msgno=9037#9037) for details.   
+  
+  
+Today's Statistics  
+---  
+**Logins:**  1313 [[users online](https://web.archive.org/web/20071214212013id_/http%3A//www.hotcopper.com.au/sessions.asp)]   
+**Posts:**  234   
+**Most Active Stocks:**  
+[XJO](https://web.archive.org/web/20071214212013id_/http%3A//www.hotcopper.com.au/search_do.asp?fid=0&srchType=1&page=1&pageSize=50&keyword=XJO "S & P ASX 200 Index - Click here for XJO posts."), [GOLD](https://web.archive.org/web/20071214212013id_/http%3A//www.hotcopper.com.au/search_do.asp?fid=0&srchType=1&page=1&pageSize=50&keyword=GOLD "Gold Metal Au 79 - Click here for GOLD posts."), [CVN](https://web.archive.org/web/20071214212013id_/http%3A//www.hotcopper.com.au/search_do.asp?fid=0&srchType=1&page=1&pageSize=50&keyword=CVN "CARNARVON PETROLEUM LIMITED - Click here for CVN posts."), [ALZ](https://web.archive.org/web/20071214212013id_/http%3A//www.hotcopper.com.au/search_do.asp?fid=0&srchType=1&page=1&pageSize=50&keyword=ALZ "AUSTRALAND PROPERTY GROUP - Click here for ALZ posts."), [BMN](https://web.archive.org/web/20071214212013id_/http%3A//www.hotcopper.com.au/search_do.asp?fid=0&srchType=1&page=1&pageSize=50&keyword=BMN "BANNERMAN RESOURCES LIMITED - Click here for BMN posts."), [ASX](https://web.archive.org/web/20071214212013id_/http%3A//www.hotcopper.com.au/search_do.asp?fid=0&srchType=1&page=1&pageSize=50&keyword=ASX "ASX LIMITED - Click here for ASX posts."), [CVI](https://web.archive.org/web/20071214212013id_/http%3A//www.hotcopper.com.au/search_do.asp?fid=0&srchType=1&page=1&pageSize=50&keyword=CVI "CITYVIEW CORPORATION LIMITED - Click here for CVI posts."), [DJIA](https://web.archive.org/web/20071214212013id_/http%3A//www.hotcopper.com.au/search_do.asp?fid=0&srchType=1&page=1&pageSize=50&keyword=DJIA "DOW JONES - Click here for DJIA posts."), [GSF](https://web.archive.org/web/20071214212013id_/http%3A//www.hotcopper.com.au/search_do.asp?fid=0&srchType=1&page=1&pageSize=50&keyword=GSF "GSF CORPORATION LIMITED - Click here for GSF posts."), [GXY](https://web.archive.org/web/20071214212013id_/http%3A//www.hotcopper.com.au/search_do.asp?fid=0&srchType=1&page=1&pageSize=50&keyword=GXY "GALAXY RESOURCES LIMITED - Click here for GXY posts."), [INT](https://web.archive.org/web/20071214212013id_/http%3A//www.hotcopper.com.au/search_do.asp?fid=0&srchType=1&page=1&pageSize=50&keyword=INT "INTERMOCO LIMITED - Click here for INT posts."), [RSL](https://web.archive.org/web/20071214212013id_/http%3A//www.hotcopper.com.au/search_do.asp?fid=0&srchType=1&page=1&pageSize=50&keyword=RSL "RETAIL STAR LIMITED - Click here for RSL posts."), [URA](https://web.archive.org/web/20071214212013id_/http%3A//www.hotcopper.com.au/search_do.asp?fid=0&srchType=1&page=1&pageSize=50&keyword=URA "URAN LIMITED - Click here for URA posts."), [CDU](https://web.archive.org/web/20071214212013id_/http%3A//www.hotcopper.com.au/search_do.asp?fid=0&srchType=1&page=1&pageSize=50&keyword=CDU "CUDECO LIMITED - Click here for CDU posts."), [CUL](https://web.archive.org/web/20071214212013id_/http%3A//www.hotcopper.com.au/search_do.asp?fid=0&srchType=1&page=1&pageSize=50&keyword=CUL "CULLEN RESOURCES LIMITED - Click here for CUL posts."), [FDL](https://web.archive.org/web/20071214212013id_/http%3A//www.hotcopper.com.au/search_do.asp?fid=0&srchType=1&page=1&pageSize=50&keyword=FDL "FLINDERS DIAMONDS LIMITED - Click here for FDL posts.").   
+  
+Your Responsibilities   
+---  
+  
+Do not post copyright information on the forum. 
+
+Do not base your investment decision on information from this website.
+
+Do not post in your capacity as a representative of an AFSL.
+
+Do not defame a company or a person on the forum. You could be liable for damages from them.
+
+Make sure you understand [ASIC Regulatory Guide 162](http://www.asic.gov.au/asic/pdflib.nsf/lookupbyfilename/ps162.pdf/$file/ps162.pdf) on Internet Discussion Sites.
+
+Do not hassle or "flame" another members or you may find yourself suspended.
+
+Please keep your email address valid or your account will be suspended.
+
+Make sure you read the warnings on each post.
+
+Read our [Terms of Use](https://web.archive.org/web/20071214212013id_/http%3A//www.hotcopper.com.au/forum_termsOfUse.asp) and [Code of Conduct](https://web.archive.org/web/20071214212013id_/http%3A//www.hotcopper.com.au/forum_codeOfConduct.asp).  
+  
+  
+|  |  | 
+
+## Privacy Policy  
+  
+---  
   
 Hotcopper takes your privacy seriously. Please read the following to learn more about our privacy policy. 
 
@@ -80,5 +108,5 @@ Hotcopper takes your privacy seriously. Please read the following to learn more 
 **Changes to this Privacy Policy**   
 Hotcopper may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Hotcopper account or by placing a prominent notice on our site.   
   
-[](https://web.archive.org/web/20070623222943id_/http%3A//www.hotcopper.com.au/forum_termsOfUse.asp) | [](https://web.archive.org/web/20070623222943id_/http%3A//www.hotcopper.com.au/forum_privacyPolicy.asp) | [](https://web.archive.org/web/20070623222943id_/http%3A//www.hotcopper.com.au/forum_codeOfConduct.asp) | [](http://www.fido.gov.au/) | [](mailto:info@hotcopper.com.au) | [](https://web.archive.org/web/20070623222943id_/http%3A//www.hotcopper.com.au/site_advertise.asp)  
-Copyright © 2000 - 2007 HotCopper ALL RIGHTS RESERVED.
+  
+
