@@ -1,34 +1,45 @@
-> *The following text is extracted and transformed from the halloweencostumes.com privacy policy that was archived on 2007-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070427173106id_/http%3A//www.halloweenmart.com/wecs.php%3Fstore%3Dhalloweenmar%26content%3Dsecurity.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the halloweencostumes.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214225735id_/http%3A//www.spirithalloween.com/index.cfm/fuseaction/content.page/nodeID/638347c3-8b32-4640-bee8-0776629b6ae4) for the most accurate reproduction.*
 
-# Costumes at Halloween Mart: Halloween, Halloween Costumes, Costume, Halloween Props
+# Privacy Policy at Spirit Halloween
 
-_******  
-**** HalloweenMart.com Security Policies**_
+## What This Privacy Policy Covers
 
- **
+  * This policy covers how Spirit Halloween Superstores LLC (“Spirit”) treats personal information that Spirit collects and receives, including information related to your past use of Spirit products and services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available. 
+  * This policy does not apply to the practices of companies that Spirit does not own or control, or to people that Spirit does not employ or manage. 
 
-Buy with confidence knowing that our web site is safe and secure for online purchases. Our business information has been thoroughly reviewed and our identity verified by Thawte, one the Internet's leading Security companies. We take great pride that we have earned a 100% Secure Shopping rating in the online purchase community.
 
-**
 
-**For your protection and ours we use _Thawte 256 bit SSL Encryption_ to secure all of the information given to us during checkout. All credit or debit card information collected on our web site is captured securely using SSL encryption technology. This practice ensures you that you are getting the best online protection against fraudulent transactions and fraudulent businesses.**
+## Information Collection and Use
 
-**We go through great lengths to make certain that all information collected during any purchase is validated and correct. Many online business do not care about this and will make any sale at any time. We do not operate in that fashion. All credit card orders are validated using our thorough, but simple, check out process.**
+_General_
 
-**No one from our company will ever contact you to ask for credit card information. If someone contacts you representing themselves as a HalloweenMart.com employee and asks for credit card information please[ Contact Us](http://www.halloweenmart.com/wecs.php?store=halloweenmar&content=contact.html) immediately.**
+  * Spirit collects personal information when you register with Spirit and when you enter promotions and sweepstakes. Spirit may combine information about you that we have with information we obtain from business partners or other companies. 
+  * When you register for Spirit, we ask for information such as your name, email address, birth date, gender, ZIP code, occupation, industry, and personal interests. When you register with Spirit and sign in to our services, you are not anonymous to us. 
+  * Spirit collects information about your transactions with us and with some of our business partners, including information about your use of financial products and services that we offer. 
+  * Spirit uses information for the following general purposes: to customize the advertising and content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients. 
 
-**_HalloweenMart.com Privacy Policies_
 
-We take great strides to protect ourselves and our visitors. This web site was designed to monitor visitor activity and to alert us to any suspicious or criminal activity. Each visitor is 'tracked' while on our web site using 'Urchin Analysis' which gives us information to better serve our clients as well as knowledge of any suspicious activity. This is a legitimate concern of anyone who purchases products online and it is a concern of ours as an online business. You can enjoy this web site and make your purchases with confidence that you are in a safe online environment.
 
-**
+_Children_
 
-**We also promise that any information collected from you during the purchase process will not be sold to, leased or given to any other person or business. Many business make a good side business selling the contact information from their visitors, we at HalloweenMart.com do not participate in that practice.**
+On the sites specifically designed for children, Spirit requires children to consult with their parents before furnishing data. However, Spirit believes that parents should supervise their children's online activities and consider using parental control tools available from online services and software manufacturers that may help provide a child-friendly online environment. These tools may also prevent children from disclosing online their name, address, and other personal information without parental permission. Personal information about or obtained from a child will not be used for commercial or trade purposes without the prior written consent of a parent or legal guardian of the child. Information Sharing and Disclosure 
 
-**Thank you for taking the time to read these policies, many sites do not have these policies in place and are not structured to protect themselves, much less their visitors. We pride ourselves on being prepared and are happy to share that with you. If you ever have any questions or concerns please[Contact Us](http://www.halloweenmart.com/wecs.php?store=halloweenmar&content=contact.html).**
+  * Spirit does not rent, sell, or share personal information about you with other people or non-affiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances: 
+    * We provide the information to trusted partners who work on behalf of or with Spirit under confidentiality agreements. These companies may use your personal information to help Spirit communicate with you about offers from Spirit and our marketing partners. However, these companies do not have any independent right to share this information. 
+    * We have a parent's permission to share the information if the user is a child under age 13. Parents have the option of allowing Spirit to collect and use their child's information without consenting to Spirit sharing of this information with people and companies who may use this information for their own purposes. 
+    * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims. 
+    * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Spirit terms of use, or as otherwise required by law. 
+    * We transfer information about you if Spirit is acquired by or merged with another company. In this event, Spirit will notify you before information about you is transferred and becomes subject to a different privacy policy. 
 
-**Thank you and enjoy our web site!**
 
-**HalloweenMart.com  
-a Division of I.C.E. Group  
-Las Vegas, Nevada USA**
+
+## Confidentiality and Security 
+
+  * We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. 
+  * We have physical, electronic, and procedural safeguards that comply with federal regulations to protect personal information about you. 
+
+
+
+## Changes to this Privacy Policy
+
+Spirit may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to your email address. 
