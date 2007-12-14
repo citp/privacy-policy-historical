@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lazydays.com privacy policy that was archived on 2006-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061030202937id_/http%3A//www.lazydays.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lazydays.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214183133id_/http%3A//www.lazydays.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Lazydays RV SuperCenter - Number One In RVs (Gas & Diesel Motor homes, Fifth Wheels, and Travel Trailers)
 
