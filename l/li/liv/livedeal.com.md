@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livedeal.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630194538id_/http%3A//www.livedeal.com/about/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livedeal.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214232806id_/http%3A//www.livedeal.com/about/privacy.jsp) for the most accurate reproduction.*
 
 # livedeal.com >> About >> Privacy Policy
 
