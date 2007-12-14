@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foxybingo.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629081701id_/http%3A//www.foxybingo.com/site/general/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxybingo.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214202514id_/http%3A//www.foxybingo.com/site/general/privacy.php) for the most accurate reproduction.*
 
 # Foxy Bingo - Play Online Bingo Chat and Win
 
@@ -7,7 +7,7 @@
 IMPORTANT: BY USING THIS WEBSITE YOU GIVE YOUR CONSENT THAT ALL PERSONAL DATA SUBMITTED BY YOU MAY BE PROCESSED BY US FOR THE PURPOSES SET OUT BELOW 
 
 **1\. Introduction**  
-1.1 "foxybingo.com" and "foxybingo" are brands of and owned by Cashcade Limited. This website and the services offered on it are operated by Globalcom Limited and Cytech Limited. As such, all personal data and customer funds are transferred to Globalcom Limited and Cytech Limited to provide such services. Cytech Limited and Globalcom Limited hold an interactive gaming licence issued by the Kahnawake Gaming Commission.  
+1.1 "foxybingo.com" and "foxybingo" are brands of and owned by Cashcade Limited. This website and the services offered on is powered by software belonging to Brigend Limited which is a wholly-owned subsidiary of Cassava Enterprises (Gibraltar) Limited ("Cassava"). As such, all personal data and customer funds are transferred to Brigend Limited to provide such services. Cassava is happy to provide you with online bingo services under its remote gambling license issued by the Government of Gibraltar to Cassava.   
 1.2 Cashcade Limited is committed to preserving the privacy of all visitors to foxybingo.com. Please read the following privacy policy to understand how we collect, use and protect the information that you provide to us. By registering and using this website, you consent to the collection, use and transfer of your information under the terms of this policy.
 
 **2\. Information that we collect from you**  
@@ -17,12 +17,12 @@ IMPORTANT: BY USING THIS WEBSITE YOU GIVE YOUR CONSENT THAT ALL PERSONAL DATA SU
 3.1 Personal data submitted by you to us will only be used to the extent that it is strictly necessary for one of the following purposes:   
 (a) assisting us in setting up and managing your account;   
 (b) building an accurate customer profile;   
-(c) making information from Cytech Limited and Globalcom Limiteds’ licensees and our marketing partners available; and   
+(c) making information from Brigend Limited’s licensees and our marketing partners available; and   
 (d) publishing on this website and in other promotional materials, for the purpose of promoting the site, information relating to wins of £10 or more comprising the amount of the win and the abbreviated name, home town, state or province and country of the winner.  
 3.2 We reserve the right to conduct a security review at any time to validate your identity, age, the registration data provided by you and to verify your use of this website and your financial transactions for potential breach of our terms and conditions and of applicable law. By accepting this Privacy Policy, you authorise us, our staff, affiliates, subsidiaries, agents and suppliers to use your personal data and to disclose your personal data to third parties for the purposes of validating the information you provide to us in the course of using this website, including where necessary the transfer of information outside of your country. Security reviews may include but are not limited to ordering a credit report and/or otherwise verifying the information you provide against third party databases. In addition, to facilitate these security reviews, you agree to provide such information or documentation as we may request.  
 **4\. Disclosure of your information**  
 4.1 Please note that information that you provide will be disclosed to the following parties:-  
-(a) Cashcade Limited, Cytech Limited, Globalcom Limited and the Kahnawake Gaming Commission ("KGC") have access to your account information for use in accordance with the rules and guidelines that govern this website.   
+(a) Cashcade Limited, Brigend Limited and the Government of Gibralter have access to your account information for use in accordance with the rules and guidelines that govern this website.   
 (b) reputable marketing partners selected by us. If you do not wish to receive promotional or other information then please check the appropriate box during the registration process;   
 (c) any company or other entity to whom we may sell all or part of our business;   
 (d) any competent legal, regulatory or law enforcement authority including the KGC;  
