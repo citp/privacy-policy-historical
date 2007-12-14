@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tias.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617060417id_/http%3A//www.tias.com/other/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tias.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214132617id_/http%3A//www.tias.com/other/privacy_statement.html) for the most accurate reproduction.*
 
 # TIAS Privacy Statement
 
@@ -57,8 +57,8 @@ If you have comments or questions about our privacy policy,  you can contact us
 
 | 
 
-1000 S Main #200  
-Grapevine, Texas 75051  
+16 Heath Place  
+Garden City, NY 11530  
   
 **Telephone:**
 
