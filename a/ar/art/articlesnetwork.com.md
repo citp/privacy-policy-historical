@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlesnetwork.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623112250id_/http%3A//www.articlesnetwork.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlesnetwork.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214075724id_/http%3A//www.articlesnetwork.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy for ArticlesNetwork.com
 
