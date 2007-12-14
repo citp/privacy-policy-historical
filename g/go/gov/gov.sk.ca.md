@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gov.sk.ca privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626010234id_/http%3A//www.gov.sk.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gov.sk.ca privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214192216id_/http%3A//www.gov.sk.ca/privacy) for the most accurate reproduction.*
 
 # Internet Privacy Policy - Government of Saskatchewan
 
