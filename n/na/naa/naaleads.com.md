@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naaleads.com privacy policy that was archived on 2007-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070601215427id_/http%3A//www.naaleads.com/naaPrivacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naaleads.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214185701id_/http%3A//www.naaleads.com/naaPrivacy.php) for the most accurate reproduction.*
 
 # National Agents Alliance Corporate : Our Privacy Policy
 
