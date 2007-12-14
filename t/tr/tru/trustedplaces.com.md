@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the trustedplaces.com privacy policy that was archived on 2007-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070603085418id_/http%3A//trustedplaces.com/docs/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trustedplaces.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214194042id_/http%3A//trustedplaces.com/docs/privacy) for the most accurate reproduction.*
 
-# TrustedPlaces - documents - privacy
+# TrustedPlaces - Documents - privacy
 
-**Trustedplaces Privacy Policy** ( _last updated: 13 July 2006_ )   
+## Trustedplaces Privacy Policy 
+
+( _last updated: 13 July 2006_ ) 
+
 Welcome to trustedplaces, and congratulations for clicking on our Privacy Policy, you are probably one of the very few people who have decided to read them, and we thank you for that!
 
 Trustedplaces has developed this Privacy Policy in order to demonstrate its firm commitment to the privacy of your data. We’ve read 1984 by George Orwell and don’t like the idea of “big brother” so we strongly believe that your personal data should stay private. All our activities with reference to your data are governed by the Data Protection Act 1998. 
