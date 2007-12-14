@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the burnworld.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607133621id_/http%3A//www.burnworld.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the burnworld.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214231240id_/http%3A//www.burnworld.com/privacy.htm) for the most accurate reproduction.*
 
 # Burnworld - Privacy Policy
 
@@ -16,7 +16,7 @@ This site makes chat rooms, forums, message boards, and/or news groups available
 This site has security measures in place to protect the loss, misuse and alteration of the information under our control. (*Please elaborate on the security measures that you have in place.) 
 
 **Choice/Opt-Out**  
-Our site provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor. This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. [Click Here.](https://web.archive.org/web/20070607133621id_/http%3A//www.burnworld.com/register.htm)
+Our site provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor. This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. [Click Here.](https://web.archive.org/web/20071214231240id_/http%3A//www.burnworld.com/register.htm)
 
 **Correct/Update**  
 This site gives users the following options for changing and modifying information previously provided. Just Email [rob @burnworld.com](mailto:rob%20@burnworld.com)
