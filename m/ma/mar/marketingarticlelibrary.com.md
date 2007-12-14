@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketingarticlelibrary.com privacy policy that was archived on 2007-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070616101021id_/http%3A//www.marketingarticlelibrary.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingarticlelibrary.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214200336id_/http%3A//www.marketingarticlelibrary.com/privacy.php) for the most accurate reproduction.*
 
 # Marketing Article Library™ Free sales and marketing content, Free article submission
 
@@ -40,7 +40,7 @@ MarketingArticleLibrary.com does not knowingly collect or solicit Personally Ide
 
 **Contacting Us**
 
-We can be reached by [emailing us.](https://web.archive.org/web/20070616101021id_/http%3A//www.marketingarticlelibrary.com/contacts.php)
+We can be reached by [emailing us.](https://web.archive.org/web/20071214200336id_/http%3A//www.marketingarticlelibrary.com/contacts.php)
 
 **Changes to this Policy**
 
