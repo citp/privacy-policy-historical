@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the nj.gov privacy policy that was archived on 2007-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070615184654id_/http%3A//www.nj.gov/nj/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nj.gov privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214221214id_/http%3A//www.nj.gov/nj/privacy.html) for the most accurate reproduction.*
 
 # The Official Web Site for The State of New Jersey | Privacy Notice
 
   
-October 11, 2000 
+August 31, 2007 
 
 **State of New Jersey  
 Privacy Notice**
@@ -65,8 +65,7 @@ We collect no personal information about you unless you voluntarily provide it t
 **Privacy Warning**  
 Email is not a secure medium. Personal information sent via the Internet can be intercepted. You may, therefore, wish to reconsider the advisability of sending messages that contain sensitive, personal information to this Intranet address.
 
-NJOIT does not plan on divulging information collected or information disclosed voluntarily, but may be required to do so pursuant to a request under  
-state right to know laws such as the New Jersey Open Public Records Act, any common law right to know laws, other State or Federal laws or pursuant to court order..
+NJOIT does not plan on divulging information collected or information disclosed voluntarily, but may be required to do so pursuant to a request under state right to know laws such as the New Jersey Open Public Records Act, any common law right to know laws, other State or Federal laws or pursuant to court order..
 
 If you believe that your personal information is being used for a purpose other than what was intended when submitted, you may contact the [position] as shown in the Contact Information Section of this statement.
 
@@ -84,7 +83,7 @@ All the information collected at this site becomes public records that may be su
 Section D. Cookies
 
   
-The State of New Jersey uses cookies to customize and enhance your browsing experience. Cookies are simple text files stored on you computer by Internet web sites to help identify users and enhance customer service. Cookies created by using the State web site may contain personally identifying information such as user contact information consisting of name, address, phone number or e-mail address. The cookie feature is used only to store a randomly generated identifying tag on your computer and does not compromise your privacy or security. 
+The State of New Jersey uses cookies to customize and enhance your browsing experience. Cookies are simple text files stored on your computer by Internet web sites to help identify users and enhance customer service. Cookies created by using the State web site may contain personally identifying information such as user contact information consisting of name, address, phone number or e-mail address. The cookie feature is used only to store a randomly generated identifying tag on your computer and does not compromise your privacy or security. 
 
 Section E. Security
 
@@ -105,7 +104,7 @@ You may contact the State of New Jersey as follows:
 
 To review your personal information, or request correction of your personal information:
 
-Communications Director  
+Public Information Officer  
 New Jersey Office of Information Technology  
 PO Box 212  
 Trenton, New Jersey 08625-0212  
@@ -113,7 +112,7 @@ FAX: 609-633-8888
 
 To offer comments about the State of New Jersey web site, or about the information presented in this Privacy Notice:
 
-Web Digital Services  
+Creative Services  
 New Jersey Office of Information Technology  
 PO Box 212  
 Trenton, New Jersey 08625-0212  
