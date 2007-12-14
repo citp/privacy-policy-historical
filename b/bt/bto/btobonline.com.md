@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the btobonline.com privacy policy that was archived on 2007-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070616041130id_/http%3A//www.btobonline.com/apps/pbcs.dll/section%3Fcategory%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the btobonline.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214100730id_/http%3A//btobonline.com/apps/pbcs.dll/section%3Fcategory%3Dprivacy) for the most accurate reproduction.*
 
 # BtoB Magazine: Marketing News and Strategies for BtoB, Direct & Internet Marketing
 
@@ -11,6 +11,11 @@ CURRENT ISSUE
 ](https://web.archive.org/apps/pbcs.dll/section?category=btobissue)
 
 SPECIAL LINKS
+
+**Outside of search marketing, where are you spending the most online?**
+
+  
+
 
 |  |  |  | 
 
