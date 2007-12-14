@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the letsget.net privacy policy that was archived on 2007-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070519015242id_/http%3A//www.letsget.net/Public/Content.aspx%3FKey%3DPrivacyPolicy%26Title%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the letsget.net privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214105809id_/http%3A//letsget.net/Public/Content.aspx%3FKey%3DPrivacyPolicy%26Title%3D) for the most accurate reproduction.*
 
-# 
+# LetsGet.Net
 
-PRIVACY POLICY OF LETSGET.NET 
+PRIVACY POLICY
 
 At Kimberg, LLC and LetsGet.Net (hereinafter collectively referred to as “LetsGet”), protecting the privacy of customers and clients is of great importance. This Privacy Policy explains the type of personal information LetsGet collects, how LetsGet uses and discloses that information, and how LetsGet protects that personal information. 
 
@@ -14,9 +14,9 @@ LetsGet collects certain personal information about Merchants and customers.
 
 “Customers” are individuals that place orders from LetsGet Merchants through the LetsGet system. 
 
-“Personal information” is any information that identifies or may identify a user as a specific individual, including but not limited to, name, address, zip code, phone number and email address, as well as financial information, including order history, and payment information. 
+“Personal information” is any information that identifies or may identify a user as a specific individual, including but not limited to, name, address, zip code, phone number and email address, as well as financial information, including order history, payment, and credit card information. 
 
-2\. Use and Disclosure of Personal Information.  LetsGet will not disclose any personal information about any Customer or Merchant to any person or entity except (i) LetsGet will share personal information about a Customer with the Merchant from whom the customer places an order, (ii) LetsGet may provide personal information to its vendors and suppliers when necessary , and (iii) LetsGet may release personal information to comply with law, enforce or apply the terms of any of user agreement, or to protect the rights, property or safety of LetsGet, Customers and Merchants, or others. Please note that LetsGet is not responsible for how its Merchants use any Customer’s personal information. Please refer to the Merchant’s privacy policy for information as to how our Merchants use Customer personal information. 
+2\. Use and Disclosure of Personal Information.  LetsGet will not disclose any personal information about any Customer or Merchant to any person or entity except (i) LetsGet will share personal information about a Customer with the Merchant from whom the customer places an order, (ii) LetsGet may provide personal information to its vendors and suppliers when necessary , and (iii) LetsGet may release personal information to comply with law, enforce or apply the terms of any of user agreement, or to protect the rights, property or safety of LetsGet, Customers and Merchants, or others. Please note that LetsGet is not responsible for how its Merchants use any Customer’s personal information. Please refer to the Merchant’s privacy policy for information as to how our Merchants use Customer personal information. LetsGet does not grant access to Merchants of any Customer's full credit card information. 
 
 3\. Safeguards.  The security of personal information is very important to LetsGet. LetsGet combines industry-standard technical safeguards with an employee code of conduct and training to help ensure the integrity and privacy of personal information. Only authorized LetsGet employees, agents or independent contractors are permitted to access personal information, and all such employees, agents or independent contractors must agree in writing to abide by the Privacy Policy. 
 
