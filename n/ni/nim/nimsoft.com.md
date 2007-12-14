@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nimsoft.com privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613151942id_/http%3A//www.nimsoft.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nimsoft.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214123817id_/http%3A//www.nimsoft.com/privacy.php) for the most accurate reproduction.*
 
 # Nimsoft - Privacy & Security Policy
 
@@ -38,6 +38,8 @@ By using our web site, you consent to the collection and use of the information 
 
 If you have any questions or concerns about our collection, use or disclosure of your personal information, please email [privacy@nimsoft.com](mailto:privacy@nimsoft.com). For more information about this site or your visit, please email us at [webmaster@nimsoft.com](mailto:webmaster@nimsoft.com).
 
-"We were excited to see how quickly NimBUS deployed compared to OpenView. In a typical 10 server environment, I'd say we cut our deployment time by 80 percent. Where we used to take days to bring up new customer SLAs, we now do it in hours. NimBUS also requires less highly paid personnel, and less staff time overall, for ongoing support. By reducing our personnel requirements we've saved quite a bit of money."
+"As the market leader in the UK betting industry and the best-known brand in the global eGaming market, Ladbrokes works hard to continuously deliver innovative value and services to our customers."
 
-Vince Conroy, CTO, FusionStorm
+"During our extensive research and onsite trials, we quickly realised that NimBUS adhered to all of our strict functionality requirements, including scalability, ease-of-use, and cross platform reach. All in all, we found that NimBUS is a fantastic solution also because of its built-in intelligence for service level management which is a key IT contribution to the continued success of our business."
+
+Paul Thompson, Office Systems Manager, Ladbrokes
