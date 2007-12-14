@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the extendedstayhotels.com privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608140035id_/http%3A//www.extendedstayhotels.com/Privacy/Main.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extendedstayhotels.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214061733id_/http%3A//www.extendedstayhotels.com/Privacy/Main.asp) for the most accurate reproduction.*
 
 # Privacy, Security statements to protect our guests' privacy at Extended Stay Hotels.
 
 This privacy statement was created because we are committed to protecting Extended Stay HotelsSM and its five hotel brands, Extended Stay DeluxeSM, Extended Stay America Efficiency Studios®, Homestead Studio Suites®, StudioPLUS Deluxe Studios®, and Crossland Economy Studios® guests' privacy. The following discloses our security, information gathering and dissemination practices for the ExtendedStayHotels.com website. 
 
-[Click Here](https://web.archive.org/web/20070608140035id_/http%3A//www.extendedstayhotels.com/Privacy/terms.asp) for our Terms of Use for the ExtendedStayHotels.com website. 
+[Click Here](https://web.archive.org/web/20071214061733id_/http%3A//www.extendedstayhotels.com/Privacy/terms.asp) for our Terms of Use for the ExtendedStayHotels.com website. 
 
   **Information Collection and Use**   
 HVM L.L.C. is the sole owner of the information collected on this website. HVM L.L.C. will not sell, share, or otherwise distribute your personal data to third parties. We collect information from our users at several different points on our website. 
