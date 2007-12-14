@@ -1,0 +1,530 @@
+<!--The following is the downloaded HTML source of the bocajava.com privacy policy that was archived on 2007-12-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071214111053id_/http%3A//www.bocajava.com/bocajava/getPage.do%3Fpage%3DPrivacyPolicyNew%26page%3DPrivacyPolicy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<title>Gourmet Coffee - Gourmet Tea, Espresso, and Coffee Gifts by BocaJava </title>
+<link rel="SHORTCUT ICON" href="/bocajava/favicon.ico">
+<link rel="STYLESHEET" type="text/css" href="/bocajava/bocajava.css">
+<link rel="STYLESHEET" type="text/css" href="/bocajava/bocajava_core.css">
+<!--[if IE]>
+<link rel="stylesheet" type="text/css" href="/bocajava/bocajava_core_ie.css" />
+<![endif]-->
+
+<meta name="description" content="Boca Java Gourmet Coffee is a leading retailer and roaster of gourmet coffee. We roast our gourmet coffee to order to ensure you get the freshest coffee possible. Visit Boca Java to learn more about our unique gourmet coffee blends.">
+<meta name="keywords" content="coffee, espresso, gourmet tea, specialty coffee, gourmet coffee, flavored coffee, coffee blends, coffee beans, coffee gifts">
+<meta name="robots" content="all">
+<meta name="classification" content="gifts">
+<meta name="distribution" content="global">
+<meta name="resource-type" content="document">
+<meta name="revisit-after" content="20 days"> 
+<meta http-equiv="expires" content="Mon, 1 Jan 1970 16:00:00 GMT">
+<meta name="classification" content="Food and Beverage">
+<meta name="copyright" content="Boca Java 2007">
+
+
+<script type="text/javascript" language="JavaScript" src="/bocajava/functions.js"></script>
+<script type="text/javascript" language="JavaScript" src="/bocajava/popcal.js"></script>
+
+
+
+
+
+<script>
+    sfHover = function() {
+    var sfEls = document.getElementById("menu").getElementsByTagName("LI");
+    for (var i=0; i<sfEls.length; i++) {
+     if(sfEls[i].lastChild.tagName=="UL"){ 
+        sfEls[i].onmouseover=function() {
+            this.lastChild.style.display="block";
+        }
+        sfEls[i].onmouseout=function() {
+            this.lastChild.style.display="none";
+        }
+    }
+   }
+}
+if (window.attachEvent) window.attachEvent("onload", sfHover);
+</script>
+
+
+    <!-- YUI Dependencies --> 
+    <script type="text/javascript" src="/bocajava/js/yui/yahoo-min.js"></script>
+    <script type="text/javascript" src="/bocajava/js/yui/dom-min.js"></script>
+    <script type="text/javascript" src="/bocajava/js/yui/event-min.js"></script>
+    <script type="text/javascript" src="/bocajava/js/yui/animation-min.js"></script>
+    <script type="text/javascript" src="/bocajava/js/yui/dragdrop-min.js"></script>
+    <script type="text/javascript" src="/bocajava/js/yui/connection-min.js"></script>
+    <script type="text/javascript" src="/bocajava/js/yui/container-min.js"></script>
+    <link rel="stylesheet" type="text/css" href="/bocajava/js/yui/assets/container.css">
+
+
+<script language="javascript">
+    
+    function Set_Cookie( name, value, expires, path, domain, secure )
+    {
+        // set time, it's in milliseconds
+        var today = new Date();
+        today.setTime( today.getTime() );
+        
+        /*
+        if the expires variable is set, make the correct
+        expires time, the current script below will set
+        it for x number of days, to make it for hours,
+        delete * 24, for minutes, delete * 60 * 24
+        */
+        if ( expires )
+        {
+        expires = expires * 1000 * 60 * 60 * 24;
+        }
+        var expires_date = new Date( today.getTime() + (expires) );
+        
+        document.cookie = name + "=" +escape( value ) +
+        ( ( expires ) ? ";expires=" + expires_date.toGMTString() : "" ) +
+        ( ( path ) ? ";path=" + path : "" ) +
+        ( ( domain ) ? ";domain=" + domain : "" ) +
+        ( ( secure ) ? ";secure" : "" );
+    }
+    
+    // this fixes an issue with the old method, ambiguous values // with this test document.cookie.indexOf( name + "=" );
+
+var urlcookie = '';
+
+function Get_Cookie( check_name ) {
+    // first we'll split this cookie up into name/value pairs
+    // note: document.cookie only returns name=value, not the other components
+    var a_all_cookies = document.cookie.split( ';' );
+    var a_temp_cookie = '';
+    var cookie_name = '';
+    var cookie_value = '';
+    var b_cookie_found = false; // set boolean t/f default f
+    
+    for ( i = 0; i < a_all_cookies.length; i++ )
+    {
+        // now we'll split apart each name=value pair
+        a_temp_cookie = a_all_cookies[i].split( '=' );
+        
+        
+        // and trim left/right whitespace while we're at it
+        cookie_name = a_temp_cookie[0].replace(/^\s+|\s+$/g, '');
+    
+        // if the extracted name matches passed check_name
+        if ( cookie_name == check_name )
+        {
+            b_cookie_found = true;
+            // we need to handle case where cookie has no value but exists (no = sign, that is):
+            if ( a_temp_cookie.length > 1 )
+            {
+                cookie_value = unescape( a_temp_cookie[1].replace(/^\s+|\s+$/g, '') );
+            }
+            // note that in cases where cookie is initialized but no value, null is returned
+            return cookie_value;
+            break;
+        }
+        a_temp_cookie = null;
+        cookie_name = '';
+    }
+    if ( !b_cookie_found )
+    {
+        return 0;
+    }
+}                
+    
+
+    var link=0
+	var url = location.href;
+	
+    window.onload = function(){
+    
+    
+    urlcookie = Get_Cookie('javaurl');
+    //set a cookie tracking the url
+    
+    Set_Cookie('javaurl',url,1);
+    
+    
+    var anchors = document.getElementsByTagName('a');
+        for (var i = 0; i < anchors.length; i++) {
+             anchors[i].onclick = function() {link=1;};
+    
+        }
+    };
+    
+    var inputs = document.getElementsByTagName('input');
+    for (var i = 0; i < inputs.length; i++) {
+            var attr = inputs[1].getAttribute('type');
+            if(attr == 'submit' || attr == 'image') inputs[i].onclick =
+function() {link=1;};
+    };
+    
+    window.onunload = function(){
+        
+        //var urlcookie = Get_Cookie('javaurl');
+        //if(urlcookie) var urlmatch = urlcookie.match(/bocajava/gi);
+        if(link==0 && (urlcookie==0 || url==urlcookie))
+        {
+            var cookie = Get_Cookie('javalink'); //see if the cookie is set
+            if(cookie==0) //if not set it
+            {
+                Set_Cookie('javalink',1,1);
+                window.open('VIACpop-up.jsp','pop','width=300,height=250,resizable=yes');
+            }      
+        }
+    }
+    
+    
+    
+    </script>
+<style>
+    .cellSeparator img{
+        position: relative; 
+        top: 1px
+    }
+</style></head>
+
+
+
+<body bgcolor="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+
+<span style="position:absolute"><script language="JavaScript" src="/bocajava/s_code.js"></script></span>
+
+<div id="page_wrapper">
+    <div id="page">
+        <!-- start header -->
+        <div id="header">
+            <div id="page_header">
+                <div id="logo">
+                
+                <a href="/bocajava/" style="width: 122px;height: 125px;display: block"><span style="display:none">Boca Java</span></a>
+                
+                </div>
+                
+                <div id="header_links">
+                    
+                    <table style="float: right">
+                        <tbody><tr valign="bottom">
+                            
+                            
+                            <td><a href="/bocajava/logon.do" class="topnav">my account</a></td>
+                            
+                                <td class="cellSeparator"><img src="/bocajava/images/topnavdivider.gif"></td>
+                                <td><a href="/bocajava/register.do" class="topnav">register</a></td>
+                            
+                            <td class="cellSeparator"><img src="/bocajava/images/topnavdivider.gif"></td>
+                            <td><a href="/bocajava/viewCart.do" class="topnav">view cart (0&nbsp;items)</a></td>
+                            
+                            
+                                <td class="cellSeparator"><img src="/bocajava/images/topnavdivider.gif"></td>
+                                <td valign="bottom"><a href="https://server.iad.liveperson.net/hc/45429015/?cmd=file&amp;file=visitorWantsToChat&amp;site=45429015&amp;byhref=1&amp;imageUrl=https://www.bocajava.com/images/liveperson" target="chat45429015" onclick="javascript:window.open('https://server.iad.liveperson.net/hc/45429015/?cmd=file&amp;file=visitorWantsToChat&amp;site=45429015&amp;imageUrl=https://www.bocajava.com/images/liveperson&amp;referrer='+escape(document.location),'chat45429015','width=472,height=320');return false;">
+					<img src="https://server.iad.liveperson.net/hc/45429015/?cmd=repstate&amp;site=45429015&amp;channel=web&amp;&amp;ver=1&amp;imageUrl=https://www.bocajava.com/images/liveperson" name="hcIcon" border="0"></a>
+                                </td>
+                            
+                            <td>
+                                
+                                <form class="searchform" action="http://bocajava.resultspage.com/search" method="get"> 
+                                     <input onclick="this.value='';" type="text" name="w" size="10" value="search" style="font-size: 10px">
+                                     <input type="image" style="position: relative; top: 5px" height="20" src="/bocajava/images/greenarrow.gif">
+                                </form>
+                                
+                            </td>
+                        </tr>                            
+                    </tbody></table>
+                    
+                </div>
+                
+                <div id="logo_tagline"><span>The best cup of coffee you'll ever taste!</span></div>
+            </div>
+            <!-- START NAVIGATION -->
+            
+
+
+
+
+
+
+
+<script>
+    sfHover = function() {
+    var sfEls = document.getElementById("menu").getElementsByTagName("LI");
+    for (var i=0; i<sfEls.length; i++) {
+        sfEls[i].onmouseover=function() {
+            this.className+=" sfhover";
+        }
+        sfEls[i].onmouseout=function() {
+            this.className=this.className.replace(new RegExp(" sfhover\\b"), "");
+        }
+    }
+}
+if (window.attachEvent) window.attachEvent("onload", sfHover);
+</script>
+<div id="navigation_wrapper">
+				<div id="navigation">
+    				<div id="menu">
+    				<ul id="nav"><li><a href="/bocajava/shop" title="shop bova java"><div class="shop_link"></div></a><ul>
+                                
+                                    
+                                
+    					    	<li class="topelement"><a href="/bocajava/shop/" title="view all products">view all</a></li>
+    					    	<li><a href="/bocajava/shop/coffee.jsp" title="coffee">coffee</a></li>
+    					    	<li><a href="/bocajava/shop/tea.jsp" title="tea">tea</a></li>
+    					    	<li><a href="/bocajava/shop/cocoa.jsp" title="cocoa">cocoa</a></li>
+    					    	<li><a href="/bocajava/shop/gifts.jsp" title="gifts">gifts</a></li>
+                                <li><a href="/bocajava/shop/gourmet_food.jsp " title="gourmet food">gourmet food</a></li>
+    					    	<li><a href="/bocajava/shop/accessories.jsp" title="accessories">accessories</a></li>
+    					    	<li><a href="/bocajava/shop/mugs.jsp" title="mugs">mugs</a></li>
+    					    	<li><a href="/bocajava/shop/sale.jsp" title="sale">sale</a></li>
+    					    	<li><a href="/bocajava/showCatalogTypeDetail.do?catalogTypeId=21" title="boca gear">boca gear</a></li>
+    					    </ul>
+    					  </li>
+    					</ul>
+    					
+    					<ul><li><a href="/bocajava/shop/coffee.jsp" title="view our gourmet coffee"><div class="coffee_link"></div></a><ul>
+                                <li><a href="/bocajava/shop/coffee.jsp?catalogId=17" title="house blends">house blends</a></li>
+                                <li><a href="/bocajava/shop/coffee.jsp?catalogId=19" title="flavored">flavored</a></li>
+                                <li><a href="/bocajava/shop/coffee.jsp?catalogId=18" title="estate &amp; country of origin">estate &amp; country of origin</a></li>
+                                <li><a href="/bocajava/shop/coffee.jsp?catalogId=276" title="decaf">decaf</a></li>
+                                <li><a href="/bocajava/shop/coffee.jsp?catalogId=345" title="coffee for a cause">coffee for a cause</a></li>
+                                <li><a href="/bocajava/shop/coffee.jsp?catalogId=305" title="baby boca">baby boca samplers</a></li>
+                                <li><a href="/bocajava/shop/coffee.jsp?catalogId=38" title="dark roasts &amp; espresso">dark roasts &amp; espresso </a></li>
+                                <li><a href="/bocajava/shop/coffee.jsp?catalogId=39" title="view all coffee">view all coffee</a></li>
+                                <li><a href="/bocajava/worldtours_landing.jsp" title="monthly coffee tours">monthly coffee tours</a></li>
+                                <li><a href="/bocajava/roast_indicator.jsp" title="roast indicator">roast indicator</a></li>
+                                <li><a href="/bocajava/support_the_troops.jsp" title="support the troops">support the troops</a></li>
+    					    </ul>
+    					  </li>
+    					</ul>
+    					
+    					<ul><li><a href="/bocajava/shop/tea.jsp" title="view our gourmet tea's"><div class="tea_link"></div></a><ul>
+    					      <li><a class="topelement" href="/bocajava/shop/tea.jsp?catalogId=45" title="View All">view all</a></li>
+                              <li><a href="/bocajava/shop/tea.jsp?catalogId=166" title="White and Green Blend">white and green blend</a></li>
+                              <li><a href="/bocajava/shop/tea.jsp?catalogId=167" title="Black">black</a></li>
+                              <li><a href="/bocajava/shop/tea.jsp?catalogId=169" title="Green">green</a></li>
+                              <li><a href="/bocajava/shop/tea.jsp?catalogId=168" title="Tisane">tisane</a></li>                              
+                              <li><a href="/bocajava/shop/tea.jsp?catalogId=275" title="Rooibos">rooibos</a></li>                              
+                              <li><a href="/bocajava/shop/tea.jsp?catalogId=273" title="tea bags">tea bags</a></li>
+                              <li><a href="/bocajava/shop/tea.jsp?catalogId=350" title="1 lb loose tea jar">1 lb loose tea jars</a></li>
+                              <li><a href="/bocajava/shop/tea.jsp?catalogId=323" title="Iced Tea &amp; More">iced tea &amp; more</a></li>                              
+                              <li><a href="/bocajava/worldtours_teatours.jsp" title="monthly tea tours">monthly tea tours</a></li>
+    					    </ul>
+    					  </li>
+    					</ul>
+                        <ul><li><a href="/bocajava/shop/cocoa.jsp" title="view our gourmet cocoas"><div class="cocoa_link"></div></a><ul>
+                                <li><a href="/bocajava/shop/cocoa.jsp?catalogId=148" title="hot cocoas">gourmet hot cocoas</a></li>
+                                <li><a href="/bocajava/shop/cocoa.jsp?catalogId=302" title="chai latte">chai latte</a></li>
+                                <li><a href="/bocajava/worldtours_cocoachaitours.jsp" title="monthly cocoa tours">monthly cocoa tours</a></li>
+                            </ul>
+                          </li>
+                        </ul>                                                        
+                        <ul><li><a href="/bocajava/shop/gifts.jsp" title="view our gifts"><div class="gifts_link"></div></a><ul>
+                                <li><a class="navSubmenu" href="/bocajava/shop/gifts.jsp?catalogId=338" title="seasonal">seasonal</a>
+                                  <ul>
+                                    <li><a class="topelement" href="/bocajava/shop/gifts.jsp?catalogId=338" title="Fall Gifts">Fall Gifts</a></li>
+                                    <li><a href="/bocajava/shop/gifts.jsp?catalogId=386" title="Holiday Gifts">Holiday Gifts</a></li>
+                                  </ul>
+                                </li>
+                                <li><a class="navSubmenu" href="/bocajava/shop/gifts.jsp?catalogId=330" title="special occasion">special occasion</a>
+	                                <ul>
+	                              	  <li><a class="topelement" href="/bocajava/shop/gifts.jsp?catalogId=368" title="Birthday">Birthday</a></li>
+	                              	  <li><a href="/bocajava/shop/gifts.jsp?catalogId=369" title="Thank You">Thank You</a></li>
+	                              	  <li><a href="/bocajava/shop/gifts.jsp?catalogId=370" title="Anniversary">Anniversary</a></li>
+	                              	  <li><a href="/bocajava/shop/gifts.jsp?catalogId=371" title="Congratulations">Congratulations</a></li>
+	                              	  <li><a href="/bocajava/shop/gifts.jsp?catalogId=372" title="Seasonal">Seasonal</a></li>
+	                              	  <li><a href="/bocajava/shop/gifts.jsp?catalogId=373" title="Just Because">Just Because</a></li>
+	                              	  <li><a href="/bocajava/shop/gifts.jsp?catalogId=374" title="New Home/New Baby">New Home/New Baby</a></li>
+	                              	  <li><a href="/bocajava/shop/gifts.jsp?catalogId=375" title="Business">Business</a></li>
+	                              	  <li><a href="/bocajava/shop/gifts.jsp?catalogId=376" title="Get Well">Get Well</a></li>
+	                              	</ul>
+                                </li>
+                                <li><a href="/bocajava/shop/gifts.jsp?catalogId=86" title="coffee">coffee</a></li>
+                                <li><a href="/bocajava/shop/gifts.jsp?catalogId=87" title="tea">tea</a></li>
+                                <li><a href="/bocajava/shop/gifts.jsp?catalogId=331" title="cocoa &amp; chai latte">cocoa &amp; chai latte</a></li>
+                                <li><a href="/bocajava/shop/gifts.jsp?catalogId=300" title="samplers">samplers</a></li>
+                                <li><a href="/bocajava/shop/gifts.jsp?catalogId=96" title="music collection">music collection</a></li>
+                                <li><a href="/bocajava/shop/gifts.jsp?catalogId=155" title="gift cards">gift cards</a></li>
+                                <li><a href="/bocajava/corporategifts_main.jsp" title="corporate">corporate</a></li>
+                                <li><a href="/bocajava/buyCertificate.do" title="e-Certificates">e-Certificates</a></li>
+                            </ul>
+                          </li>
+                        </ul>
+    					<ul><li><a href="/bocajava/referral.do?promo=DefaultClubOffer" title="join our club"><div class="join_link"></div></a><ul>
+    					      <li><a class="topelement" href="/bocajava/referral.do?promo=DefaultClubOffer" title="sign up now">sign up now</a></li>
+    					      <li><a href="/bocajava/club_rewards.jsp" title="club benefits">club benefits</a></li>
+    					      <li><a href="/bocajava/shop/clubonly.jsp" title="member exclusives">member exclusives</a></li>
+    					      <li><a href="/bocajava/referAFriend.do" title="refer a friend">refer a friend</a></li>
+    					    </ul>
+    					  </li>
+    					</ul>		
+    					<ul><li><a href="/bocajava/aboutus.jsp" title="learn about our gourmet products"><div class="learn_link"></div></a><ul>
+    					      <li><a class="topelement" href="/bocajava/aboutus.jsp" title="about us">about us</a></li>
+    					      <li><a href="/bocajava/roast_indicator.jsp" title="roast indicator">roast indicator</a></li>
+                              <li><a href="/bocajava/support_the_troops.jsp" title="operation 5 million cup">operation 5 million cup</a></li>
+    					      <li><a href="/bocajava/club_rewards.jsp" title="club benefits">club benefits</a></li>
+    					      <li><a href="/bocajava/faq_main.jsp" title="FAQ's">FAQ's</a></li>
+    					      <li><a href="/bocajava/referAFriend.do" title="refer a friend">refer a friend</a></li>
+    					    </ul></li></ul>
+    			     </div>
+                </div>
+</div>
+            <!-- END NAVIGATION -->
+        </div>
+        <!-- end header -->
+        <!-- start body -->
+        <div id="page_body_wrapper">
+        <div id="page_body">
+            <div id="body">
+            
+
+<!--- Start Table 11, Main Content Formatting Table, 6 columns --->
+<table border="0" cellpadding="0" cellspacing="0" width="100%" height="100%">
+	<tbody><tr><td><img src="images/spacer.gif" width="10" border="0"></td></tr>
+	<tr>
+		<td><img src="images/spacer.gif" width="10" border="0"></td>
+		<td valign="top">
+			<!--- Start Table 12, Center Content Formatting Table --->
+			<table border="0" cellpadding="5" cellspacing="0" width="100%">
+			
+				<tbody><tr>										
+					<td class="pagetitle">
+						<br><img src="https://cms.bocajava.com/images/10/WebPages_10365.jpg"><br>
+					</td>
+				</tr>
+				
+				<tr>
+					<td class="mainpagetext">
+						<style type="text/css">
+<!--
+.style2 {font-size: 12px}
+.style3 {font-family: Arial, Helvetica, sans-serif; font-size: 12px; }
+
+.style5 {
+	font-size: 14px;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.style6 {
+	font-size: 14px;
+	font-weight: bold;
+}
+.style7 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	font-weight: bold;
+	color: #bae4bc;
+}
+-->
+</style>
+
+<table width="93%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td>
+      <p class="style7">Boca Java Privacy Policy </p>
+      <p class="style2"><span class="style5">Overview </span> <br>
+        When you visit Boca Java at bocajava.com, you can rest assured that any information that you provide to us in the delivery of the products and services you purchase from us will be carefully protected and secured. When you purchase, your credit card information is encrypted, and your personally identifiable information remains confidential. <br>
+        Following are additional details regarding our privacy policy. Boca Java reserves the right to change this privacy policy at any time. Please be sure to check back to this page periodically for updates. If you use any services available from Boca Java, you are agreeing to the following terms: <br>
+        When you register with Boca Java, we ask you for personal information. We use this information to process your orders and to communicate with you about the status of your orders. We also use your email address to send you reminders of upcoming order deliveries, updates of new products, newsletters to which you subscribed during registration, as well as messages about Boca Java special offers, promotional announcements and consumer surveys. </p>
+      <p class="style3"><span class="style6">Information Collection and Usage </span><br>
+        When you first register at Boca Java, we ask for your email address and a password. At that time, we subscribe you email communication. Within every email that you may receive from Boca Java, you have the opportunity to unsubscribe. You may also unsubscribe by going to the ?Contact Us? page, and submitting a request. <br>
+        When you place your first order for Boca Java products or services, we ask you for your full name, physical mailing address, telephone number and credit card number so we can ship your order to you. This information is also stored to maintain your order history to enable us to send you reminder notices regarding upcoming deliveries, if you are a coffee club member, to allow you time to update your order and change the delivery date, and to help make future ordering easier for you. We use your telephone number only if there is an order-related issue, not for marketing purposes. If you want to view, update your address or change credit cards, please go to ?My Account?/My Profile to make changes at any time. You must be signed in to access ?My Account,? which is another safeguard. <br>
+        Boca Java also offers an Affiliate program, where affiliate members direct customers to Boca Java through links on their Web sites. We carefully evaluate affiliates who apply before accepting them. We ask affiliates for their site name (URL), mailing address, primary contacts, payment information, and other site-related information to determine whether a site will be included in our Affiliate Network. The information collected from our affiliates is not used for general marketing purposes. <br>
+        Boca Java encourages users to limit the personal information provided only to the specific information requested. </p>
+      <p class="style3"><span class="style6">Cookies </span><br>
+        As you browse the Boca Java site, cookies are placed on your computer's hard drive. (Cookies are small pieces of data that are sent to your browser from a Web server and stored on your hard drive.) Cookies allow us to track the items you select, and help us match your address and credit card information with your order so you don't need to retype the information each time you visit our site. <br>
+        We also use cookies to gather usage information, such as the number and frequency of overall visitors to our site and its various pages. Third parties may serve some of these cookies. We analyze this data to determine which parts of our site are helpful to our customers and which sections need improvement. Aggregated information is also used to analyze trends and to administer and maintain the site. </p>
+      <span class="style3"><br clear="ALL">
+      </span>
+      <p class="style3"><span class="style6">Disclosure </span><br>
+        Except as described in this section, we will not sell, rent or disclose your personally identifiable information to third parties without your express authorization. <br>
+        From time to time, we work with other companies and their agents to perform operational services, such as website design, payment processing, database management and to implement customer surveys to measure satisfaction and to identify new needs. We also provide postal addresses to the U.S. Post Office for delivery purposes. In the course of providing such services, these companies may have contact with your personally identifiable information. By contractual agreement, these companies are required to comply with this Policy. Boca Java is not liable for any damages that may result from misuse of your personal information by these companies. <br>
+        Periodically, we may partner with companies whose products may be of interest to our users. In conjunction with these partners, we occasionally send promotional announcements to all or a portion of our customers. Any email communication that you receive from Boca Java or a partner will include a link at the bottom for you to click and unsubscribe. You may also go to the ?Contact Us? page to request removal from the subscriber list. In the event that we work with a vendor to carry out these mailings, your personally identifiable information will not be seen by this vendor, and it will not be used by this vendor to contact you directly. <br>
+        Any exceptions to this policy of sharing your name, address, email address and/ or credit card information with a partner company would only be done with your permission. Boca Java also reserves the right to disclose information when required by law. <br>
+        We also conduct analysis of our users to better understand member needs, to guide product development and to enhance customer service. This aggregate information, and never individual information, may also be shared with prospective partners, advertisers and other third parties. We may also disclose, on an anonymous basis, verbatim statements made by our customers. At no time, however, will personal information be disclosed when these statements are shared. </p>
+      <p class="style3"><span class="style6">Security and Access </span><br>
+        When you provide personal information to us, we use a secure server (SSL) to encrypt all of your personal information to protect against unauthorized access. <br>
+        You can access ?My Account? from several locations throughout the site to update your name, email address, password, postal address, credit cards, and mailing list preferences. Please note that you must be signed in to Boca Java to access this information for additional protection. <br>
+        We have implemented technology and security features, as well as strict internal guidelines, to safeguard the privacy of your personal information from unauthorized access or improper use. We will continue to enhance our security procedures as new technology becomes available. While we make every effort to ensure that your information is secure on our system, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, we cannot guarantee the security of any information you transmit to us, and you do so at your own risk. </p>
+      <p class="style3"><span class="style6">Contact </span><br>
+        If you have questions concerning your account, please contact Boca Java Member Service at 1-888-BOCA JAVA. If you have any questions regarding our privacy practices, you can email us in the space provided on the ?Contact Us? page. <br>
+        You can call us at 1-888-BOCA-JAVA (1-888-262-2528) send us a fax at 1-954-421-1520, or you can write to us at Boca Java Customer Service, 730 South Powerline Rd., Suite D, Deerfield Beach, FL 33442. <br>
+  <em>Updated: October, 2006 </em> </p>
+    </td>
+  </tr>
+</tbody></table>
+					</td>
+				</tr>
+			
+			</tbody></table><!--- End Table 12 --->
+		</td>
+	</tr>
+</tbody></table><!--- End Table 11 --->
+
+
+</div>
+	</div>
+		</div>
+		<!-- end body -->
+		<!-- start footer -->
+		<div id="page_footer">
+			<div id="footer_links">
+				
+	 			<ul>
+	 				<li><a href="/bocajava/aboutus.jsp" class="bottomnav">about us</a></li>
+	 				<li><a href="/bocajava/contactUs.do" class="bottomnav">contact us</a></li>
+                    		<li><a href="/bocajava/site_map.jsp" class="bottomnav">site map</a></li>
+	 				<li><a href="/bocajava/getPage.do?page=BocaNews" class="bottomnav">boca news</a></li>
+	 				<li><a href="/bocajava/corporategifts_main.jsp" class="bottomnav">corporate gifting</a></li>
+	 				<li><a href="/bocajava/affiliateProgram.do" class="bottomnav">affiliate program</a></li>
+	 				<li><a href="/bocajava/getPage.do?page=PrivacyPolicyNew&amp;page=PrivacyPolicy" class="bottomnav">privacy policy</a></li>
+	 				<li><a href="/bocajava/getPage.do?page=CorporateTerms" target="blank" class="bottomnav">terms &amp; conditions</a></li>
+	 			</ul>
+	 			
+ 			</div>
+ 			<div id="copyright">
+ 				
+ 				<span class="phone">1-888-BOCA JAVA <img src="/bocajava/images/spacer.gif" width="20" height="1"> 1-888-262-2528</span><br>
+				
+				<span class="copyright"> 2002-2007 © Copyright Boca Java Corp. All Rights Reserved </span>
+ 			</div>
+		</div>
+		<!-- end footer -->
+	</div>
+</div>
+
+
+<!-- Start of Dotomi Tag -->
+<script type="text/javascript">
+<!--
+var baseUrl = window.location.protocol + "//login.dotomi.com/ucm/UCMController?";
+var baseFields = "dtm_com=28&dtm_cid=2109&dtm_cmagic=05546b&dtm_fid=101&dtm_format=5";
+var customFields = [];
+
+// custom fields start [CHANGE ONLY IN THIS BLOCK]
+customFields['cli_promo_id'] = "407";
+// custom fields end
+
+var iframeSrc = baseUrl + baseFields;
+for (var item in customFields){
+if(typeof customFields[item] != "function")
+iframeSrc += "&" + item + "=" + escape(customFields[item]);
+}
+setTimeout('timeOutDotomi()',4000);
+document.write('<div id="dtmdiv" style="display:none; "><iframe name="response_frame" src="' + iframeSrc + '"></iframe></div>');
+
+function timeOutDotomi(){document.getElementById("dtmdiv").innerHTML = "";}
+//-->
+</script><div id="dtmdiv" style="display:none; "><iframe name="response_frame" src="https://login.dotomi.com/ucm/UCMController?dtm_com=28&amp;dtm_cid=2109&amp;dtm_cmagic=05546b&amp;dtm_fid=101&amp;dtm_format=5&amp;cli_promo_id=407"></iframe></div>
+<!-- End of Dotomi Tag -->
+<!--AdRevolver code begin-->
+<img width="0" height="0" border="0" src="https://media.adrevolver.com/adrevolver/trace?adpath=5308">
+<!--AdRevolver code end-->
+
+<!-- Start of Retargeting Code -->
+<script language="JavaScript"> 
+  // Boca Java Retargeting 
+  rsi_account = '99FEC8575849161B2872F195D5579164'; 
+  rsi_site = '8BE34FC4D6C3D72568327740BAB6294F'; 
+  rsi_event = 'C81CC00BC4910D9D70989B55528339A4'; 
+</script> 
+<script language="JavaScript" src="https://ads.revsci.net/adserver/rsi_event.js"></script>
+<!-- End of Retargeting Code -->
+
+
+</body></html>
