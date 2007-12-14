@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ultimatemyspace.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625182817id_/http%3A//www.ultimatemyspace.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultimatemyspace.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214194402id_/http%3A//www.ultimatemyspace.com/privacy.php) for the most accurate reproduction.*
 
 # How to on MySpace
 
-[How To Contact Us](https://web.archive.org/web/20070625182817id_/http%3A//www.ultimatemyspace.com/privacy.php#7)
+[How To Contact Us](https://web.archive.org/web/20071214194402id_/http%3A//www.ultimatemyspace.com/privacy.php#7)
 
 **Our Commitment To Privacy**
 
