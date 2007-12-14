@@ -1,157 +1,230 @@
-> *The following text is extracted and transformed from the sovereignbank.com privacy policy that was archived on 2004-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040403213536id_/http%3A//sovereignbank.com/companyinfo/privacy/default.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sovereignbank.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214232136id_/http%3A//www.sovereignbank.com/companyinfo/privacy_policy.asp) for the most accurate reproduction.*
 
-# Sovereign Bank | Privacy &Security
+# Sovereign Bank | Sovereign Bancorp, Inc. Privacy Policy
 
-|  | 
+|  |  [Privacy Policy](https://web.archive.org/companyinfo/privacy_policy.asp "Privacy Policy") |   
+---|---|---  
+| 
 
-Sovereign Bancorp  
-Privacy Statement Effective September 30, 2003 
+|  |  |   
+---|---|---  
+  
+Privacy Information  
+Effective September 30, 2007 
 
-A Message from Sovereign’s Chairman
+**About Sovereign Bancorp, Inc.**  
+This Privacy Statement is effective September 30, 2007, and takes the place of any previous privacy policies issued by Sovereign Bancorp, Inc., or any of its affiliates/subsidiaries or divisions.
 
-Dear Valued Customer: 
+Sovereign Bancorp, Inc.’s affiliates/subsidiaries include, but are not limited to:
 
-Sovereign's relationship with its customers is uniquely personal. We help you with important financial matters and you trust us with detailed personal information. The steps we've taken to keep that information secure and confidential, along with the choices you have about information sharing, are outlined in this Privacy Statement. Please read it carefully so that you fully understand your privacy as a customer at Sovereign, and our commitment to honor it. 
+  * Sovereign Bank®—divisions of Sovereign Bank include, but are not limited to: Nantucket Bank, Bank of Martha’s Vineyard, and SI Bank & Trust
+  * Sovereign Agency, LLC
+  * Sovereign Agency Massachusetts, LLC
+  * Sovereign Securities Corporation, LLC
+  * Sovereign Precious Metals, LLC
+  * 1130 Abstract, Inc.
 
-At Sovereign Bancorp security is a priority. Our obligation to safeguard your information is taken seriously. We continually strive to maintain appropriate security standards - technological, physical and procedural - such as placing access limitations on Sovereign employees (or team members as we call them) to your information yet still allowing them to perform their job function. Sovereign team members are trained to meet these standards and to treat customer information with care.
 
-In simplest terms, Sovereign will not share your personal information with outside companies for the purpose of independently marketing non-financial products and services. We do however share information with companies that we partner with to service your account or to offer financial products and services that we do not offer on our own. When we share information with outside companies we require them to comply with our privacy and security standards. As a customer, you have the opportunity to tell us how you want, or do not want, to be solicited.
 
-If you have any questions concerning our Privacy Statement, please feel free to contact us at 1-877-SOV-BANK (1-877-768-2265), or for the hearing impaired TDD/TTY 1-800-428-9121, or visit one of our local Community Banking Offices.
+The terms “we,” “our” and “us” in this Privacy Statement refer to Sovereign and/or its banking and other affiliates/subsidiaries.  
+  
+|  |   
+---|---|---  
+  
+**What does Sovereign do with your personal information?**
 
-Sincerely,  
-Jay S. Sidhu  
-Chairman, President & CEO  
-Sovereign Bancorp and Sovereign Bank 
+ **Why?**  
+Financial companies choose how they share your personal information. Federal law gives consumers the right to restrict some but not all sharing. Federal law also requires us to tell you how we collect, share and protect your personal information. Please read this notice carefully to understand what we do.
 
-Your Sensitive Information: what kind is it, and where does it come from?
+**What?**  
+The types of personal information we collect and share depend on the product or service you have with us. This information can include:
 
-Collecting and keeping customer information makes it possible for us to service your accounts and offer products or services that might interest you. The information takes various forms and is gathered from several sources including: 
+  * Social security number and income
+  * Account balances and payment history
+  * Credit history and credit scores
 
-  * Applications or forms you fill out (such as loan applications)
-  * Information from a consumer credit report (such as credit history)
-  * Your transactions and account experience with us and others (such as account balance, payment history)
-  * Information you may enter on our Web site
-  * Verification by outside sources (such as employment history, credit relationships, loan balances, etc.)
 
-The more accurate your information, the better we can serve you. We will always respond to your request to correct any errors. 
 
-Guidelines for Sharing Information
+When you close your account, we continue to share information about you according to our policies.
 
-We only share your information with outside companies in order to service your account(s) or to offer you financial products or services that we do not offer on our own. (See the "With Companies We Partner With" section for details.) Otherwise, we do not share your information with outside companies for the purpose of independently marketing non-financial products and services. When we do share information, it is to provide you with greater convenience and choice. Here are some examples: 
+NOTE: We may disclose all the kinds of information described in this section to companies we hire to perform marketing services on our behalf, or to other financial institutions with which we have joint marketing agreements, such as insurance companies and brokerage firms. We refer to these companies as “marketing partners.” Please note that, should you decide to take advantage of such an offer from one of our marketing partners, you will become a customer of our marketing partner for that product offering, and will be covered by our marketing partner’s privacy policy.
 
-Within the Sovereign Family
+**How?**  
+All financial companies need to share customers’ personal information to run their everyday business—to process transactions, maintain customer accounts, and report to credit bureaus. In the section below, we list reasons financial companies can share their customers’ personal information; the information Sovereign chooses to share; and whether you can limit this sharing.
 
-Sovereign Bancorp, Inc. ("Sovereign"), through its banking divisions and subsidiaries and affiliates, provides you with the financial products and services you want and need. We may share customer information as described in the "Your Sensitive Information" section within the Sovereign family in order to make your banking experience more successful. This information concerns our transaction experience with you and could include your account balance, your history with us and your account duration. Sharing information of this type allows us to: 
-
-  * Respond to your requests more quickly and efficiently
-  * Spare you duplication of paperwork
-  * Offer you products and services that match your individual situation
-  * Tailor new products and services to fit your financial needs
-
-You do have choices about sharing other types of information, and about how you would prefer to learn about new products and services. (See the "Honoring Your Preferences" section for details.) 
-
-It is important to note that if you select Sovereign to act as a trustee or a fiduciary, as our Trust and Wealth Management customers do, information about your trust account(s) is safeguarded — even within our own family of companies. This information is kept completely confidential and we will not share it for marketing or solicitation purposes without your specific consent.
-
-With Companies With Whom We Partner With to Serve You Better
-
-Companies who perform vital business operations for Sovereign, such as administrative or account processing, or do other work for us on your behalf, must have access to your information in order to be effective. We share with these companies the kind of information described in the "Your Sensitive Information" section. These companies may include check-printing firms, payment processing companies, data processing companies, trust accounting system providers and others. 
-
-In addition, we may disclose the same kind of information that we collect about you, as described in the "Your Sensitive Information" section, to companies that we hire to perform marketing services on our behalf, or to other financial institutions with whom we have joint marketing agreements. The latter may include insurance companies, brokerage firms and the like. This enables us to offer financial products or services to you that we do not offer on our own. We select companies carefully and require them to comply with our privacy and security standards. This means they may not disclose or reuse the information we give them for any other purpose but to carry out our agreement. Your preferences about how you choose to be contacted regarding these offers are important to us. Refer to "Honoring Your Preferences," for details.
-
-If you are participating in an online "affinity" program (that is, a banking program hosted by a company outside the Sovereign family), please note that your participation in the program requires us to share some of your information (such as your name and email address) with the affinity partner. Without said information, the partner cannot provide you with discounted services, incentives or bonuses as agreed.
-
-As described above, information about former customers may be shared within the Sovereign family, or with companies with whom we partner, for as long as the customers' information remains on Sovereign's computer systems; generally five years after a checking account is closed.
-
-Honoring Your Preferences
-
-Marketing Preferences
-
-When it comes to keeping you informed about new products, promotions or services offered by Sovereign, we may contact you through direct mail, telemarketing and email. If you prefer not to be solicited by one or all of these methods, please notify us that: 
-
-  * You do not wish to be solicited by direct mail
-  * You do not wish to be solicited by telemarketing
-  * You do not wish to be solicited by email
-
-
-
-Fair Credit Reporting Act (FCRA) Preferences
-
-We may, from time to time, share the kind of information covered by the federal Fair Credit Reporting Act about you within the Sovereign family. This would be the information we receive in consumer credit reports, such as loan delinquencies with other lenders. If you prefer that we not share this kind of information we will honor your preference. Just notify us that: 
-
-  * You do not wish Sovereign to share your FCRA information with Sovereign affiliates
-
-To tell us your Marketing or Fair Credit Reporting Act Preference: 
-  * Visit one of our Sovereign Bank Community Banking Offices
-  * Visit us online at [www.sovereignbank.com/privacy](https://web.archive.org/utils/forms/privacy_prefs.asp) to send us your preferences on our secure online form
-  * Call our toll-free number: 1-877-SOV-BANK (1-877-768-2265) or for the hearing impaired TDD/TTY 1-800-428-9121
-  * Write to us at Sovereign Bank c/o Marketing Preferences Department, 10-421-BC4, PO Box 12646, Reading PA 19612
-
-If you have already contacted Sovereign with your Marketing or FCRA Preferences, it is not necessary to do so again, unless you wish to change your Preferences. Changes to already stated Preferences must be sent in writing, to Sovereign, at the above address. 
-
-To ensure that we respond to your request accurately, you must provide us with your name, address, account number(s) and social security number. Your request will take effect within a reasonable period of time, usually within 6-8 weeks of our receiving it. Your preference will remain in force until you change it in writing. It will apply to any party in a jointly held account with regard to that joint account only and will be honored even if you close your account, for as long as your information remains in our computer system. Your email preference will apply only to the email address(es) we have on record for you.
-
-Remember, saying "no" to information sharing means you may no longer be able to receive valuable offerings or enhancements for certain products or services.
-
-As you might expect, even if you prefer that we not solicit you about product information, we will continue to contact you as necessary to service your account(s). We may also include marketing information with regular account mailings to you (such as in your account statements) and on our Web site.
-
-Sharing Information with Outside Parties in Special Situations
-
-We may also share certain customer information with government agencies, consumer reporting agencies, etc. as permitted or required by such laws as the Federal Right To Financial Privacy Act. These disclosures are usually made for the benefit of our customers and in specific circumstances, such as: 
-
-  * Verifying identities to reduce fraud and identity theft
-  * Meeting customer service expectations
-  * Verifying information for prompt credit approvals
-  * Making appropriate information a matter of public record
-
-Or in certain other cases, for example: 
-  * When you have authorized us to share the information
-  * To process your transactions with us or to protect the security of your account(s)
-  * To verify the status of your account for a third party, such as a credit bureau or a merchant involved in a transaction with you
-  * As we continue to develop our business, we may sell or buy branches or assets and in such transactions, customer information is usually one of the transferred business assets
-  * When we believe disclosure is required by law, such as in response to a subpoena, court order, to respond to an inquiry or to handle a consumer dispute
-  * We may make our records available to authorities in a case of national emergency
-
-
-
-Your Privacy Online - For Internet Users
-
-The digital age has made online banking an everyday reality. Our commitment to safeguard your privacy extends to the Internet. Here is some information regarding our online process: 
-
-**Information we may collect:**
-
-  * If you complete an online application, you'll need to supply identification so we can process your request and correspond with you.
-  * If you bank online and want to access your account, you'll need to supply information as requested so we can verify your identity.
-  * If you allow us to send you email messages, we will retain the information you provide us to deliver emails of specific interest to you. If you choose to send an email to Sovereign, we may retain the contents of your email message, your email address and our subsequent reply.
-  * We may use cookies, which are pieces of data that help Web sites recognize return visitors, to personalize and enrich your online visits with us and to collect site-visitation statistics. If you are uncomfortable with our use of cookie technology, you can set your browser to refuse cookies. Some of our services depend on cookies and you may not be able to use those services by refusing cookies. For example, we may store the geographic region where you are located in a cookie to more quickly take you to the section of our Web site with information about what Sovereign is offering or sponsoring in your region.
-  * Sovereign or its service providers may also use "tracer" technology. For example, we may use tracers to determine if certain banner advertisements have been viewed or opened or if email from Sovereign has been received or opened.
-
-
-
-Information Storage
-
-Sovereign may store the information collected during your visit on an electronic database. Sovereign uses security measures to protect against loss, misuse and alteration of data stored in our systems. 
-
-Third Party Web sites
-
-Sovereign's Web site contains links to third party Web sites that you may find useful. Those sites may have their own privacy policies. Once you leave the Sovereign site, our privacy policy will no longer be in effect. You should review the privacy policy of any Web site before you provide personal or confidential information. 
-
-Children’s Privacy Policy
-
-Our www.KidsBank.com privacy policy strictly complies with the Children’s Online Privacy Protection Act. 
-
-Privacy at Sovereign
-
-As you can see from this Privacy Statement, Sovereign is committed to protecting your customer information, to using it or sharing it in ways that enhance the services you receive from us, and to explaining the choices you have about how your information may be shared. 
-
-This Privacy Statement is effective September 30, 2003 and takes the place of any previous privacy policies issued by Sovereign Bancorp, Inc. or any of its affiliates. Our Privacy Statement may be revised from time to time as necessary to reflect changes in the law or our policies. As changes are made, you will receive a revised Privacy Statement. This privacy statement does not constitute a contract between you and us and only applies to retail customer relationships established in the United States. Retail customer relationships consist of individuals who have products or services with Sovereign Bancorp, Inc., or its affiliates, which are primarily for an individual personal purpose. We thank you for your trust and will work hard to maintain it.
-
-Sovereign Bancorp, Inc., headquartered in Philadelphia, Pennsylvania, is a thrift holding company engaged, through its various banking divisions and subsidiaries and affiliates, in the business of providing financial services to customers through a network of community banking offices located in the Mid-Atlantic and New England regions. Sovereign's subsidiaries include, but are not limited to, Sovereign Bank, which is a federally chartered thrift headquartered in Wyomissing, Pennsylvania; Sovereign Agency, LLC; Sovereign Agency, Massachusetts, LLC.; Sovereign Securities Corporation, LLC; Sovereign Precious Metals LLC; and 1130 Abstract, Inc.
-
-When using the terms "we," "our" and "us" in this Privacy Statement, we refer to Sovereign and/or its banking and other subsidiaries or affiliates. The term "our affiliates" refers to Sovereign and/or its banking and other subsidiaries even those with whom you do not have an account or other relationship.
-
-Member FDIC  
-Equal Housing Lender  
-September 2003 
+NOTE: If you select Sovereign’s Wealth Management Division to act as a trustee or a fiduciary, information about your trust account(s) is safeguarded, even within our own family of companies. This information is kept completely confidential, and we will not share it for marketing or solicitation purposes without your specific consent.
 
 | 
+
+**Reasons we can share your personal information**
+
+| 
+
+**Does Sovereign share?**
+
+| 
+
+**Can you limit this sharing?**  
+  
+---|---|---  
+  
+For our everyday business purposes—to process your transactions, maintain your account, and report to credit bureaus
+
+| 
+
+Yes
+
+| 
+
+No  
+  
+For our marketing purposes—to offer our products and services to you
+
+| 
+
+Yes
+
+| 
+
+No*  
+  
+For joint marketing with other financial companies
+
+| 
+
+Yes
+
+| 
+
+No*  
+  
+For our affiliates’ everyday business purposes—information about your transactions and experiences
+
+| 
+
+Yes
+
+| 
+
+No  
+  
+For our affiliates’ everyday business purposes—information about your creditworthiness
+
+| 
+
+Yes
+
+| 
+
+Yes  
+  
+For nonaffiliates to market non-financial institutions’ products or services to you
+
+| 
+
+No
+
+| 
+
+n/a  
+  
+* Although the sharing of this information cannot be limited, you may let us know whether or not you wish to be contacted for marketing purposes (see _Your Preferences_).
+
+SPECIAL NOTICE FOR CALIFORNIA AND VERMONT RESIDENTS: If your account has a California mailing address, we will not market any products or services to you, nor will we share your information with our marketing partners for them to market to you. If your account has a Vermont mailing address, we will share with our marketing partners only that information that is permitted by law. Residents of California and Vermont do not have to take any further action to limit the sharing of information; such limits are already in place.
+
+back to top  
+  
+|  |   
+---|---|---  
+  
+**Sharing Practices**
+
+ **How often does Sovereign notify me about their practices?**  
+We must notify you about our sharing practices when you open an account, and each year while you are a customer.
+
+**How does Sovereign protect my personal information?**  
+To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards, secured files and buildings, and limited access to your information by employees with a need to know to perform their job function.
+
+**How does Sovereign collect my personal information?**  
+We collect your personal information, for example, when you:
+
+  * Open an account or deposit money
+  * Pay your bills or apply for a loan
+  * Use your credit or debit card
+
+
+
+We also collect your personal information from others, such as credit bureaus, affiliates, or other companies. For online banking customers, we may use cookies, which are pieces of data that help web sites recognize return visitors, to personalize and enrich your online visits with us and to collect site visitation statistics. Sovereign or its service providers may also use tracer technology, which are third-party cookies. If you are uncomfortable with our use of cookie technology, you can set your browser to refuse cookies. However, some of our services depend on cookies and you may not be able to use those services by refusing cookies.
+
+**Why can’t I limit all sharing?**  
+Federal law gives you the right to limit sharing only for:
+
+  * Affiliates to market to you
+  * Nonaffiliates to market to you
+
+
+
+State laws and individual companies may give you additional rights to limit sharing. 
+
+NOTE: We may share certain customer information with government and consumer reporting agencies as permitted or required by such laws as the Federal Right to Financial Privacy Act. These disclosures are usually made for your benefit and for specific circumstances, for example, verifying identities to reduce fraud and identity theft or for prompt credit approval or as required by law, such as in response to a subpoena or court order.
+
+back to top  
+  
+|  |   
+---|---|---  
+  
+**Definitions**
+
+ **Everyday business purposes**  
+The actions necessary by financial companies to run their business and manage customer accounts, such as:
+
+  * Processing transactions, mailing, and auditing services
+  * Providing information to credit bureaus
+  * Responding to court orders and legal investigations
+
+
+
+**Affiliates/Subsidiaries**  
+Companies related by common ownership or control. They can be financial and non-financial companies.
+
+**Nonaffiliates**  
+Companies not related by common ownership or control. They can be financial and non-financial companies. We do not share customer information with nonaffiliated companies except in the very limited circumstances specifically permitted by law.
+
+**Joint marketing**  
+A formal agreement between nonaffiliated financial companies that jointly offer or endorse financial products or services to you. Our joint marketing partners include credit card and insurance companies. The formal agreement includes assurances by the marketing partner that they will maintain the appropriate safeguards to ensure the security and confidentiality of the information we provide to them, and that the information may only be used within the confines of the stated agreement.
+
+**Your Preferences**
+
+NOTE: If you have already contacted Sovereign with your marketing preferences, or your preference with regard to sharing information about your creditworthiness, it is not necessary to do so again, unless you wish to change your preferences. Your preference will remain in force until you change it in writing at a Community Banking Office, or by e-mailing our online preference management system. It will be honored even if you close your account, according to our policies. Your e-mail preference will apply only to the e-mail address(es) we have on record for you. Your telephone preference will apply only to the telephone number we have on record for you. This notice constitutes the Sovereign Bancorp Do Not Call Policy under the Telephone Consumer Protection Act.
+
+**How to contact us:**
+
+|  | Toll Free:  
+---|---  
+| Sovereign Bank  
+Bank of Martha's Vineyard  
+SI Bank & Trust | 1-877-768-2265  
+| Nantucket Bank only | 1-800-533-9313  
+| Visit one of our [_Community Banking Offices_](https://web.archive.org/atm_locator/default.aspx?s=companyinfo)  
+  
+back to top  
+  
+|  |  |   
+---|---|---  
+|  Access Your Accounts |   
+|  |  |  |   
+|  |   
+---|---|---  
+| Next Steps |   
+|  [ ](https://web.archive.org/personal/forms/privacy_prefs.asp) |  |  [ Submit your marketing preferences by completing our Privacy Preferences Form ](https://web.archive.org/personal/forms/privacy_prefs.asp) |   
+|  |  |  Call **877.SOV.BANK** to speak with a Personal Banking Representative  |   
+|  |   
+---|---|---  
+|  How May We Help You? |   
+|  |  |  |   
+|  |  |  |   
+|  |   
+---|---|---  
+| [Set Your Privacy Preferences](https://web.archive.org/utils/linkto.asp?cmu_id=468&refer=/companyinfo/privacy_policy.asp&url=%2Fpersonal%2Fforms%2Fprivacy%5Fprefs%2Easp) |   
+| [Let us know your marketing preferences by completing our Privacy Preferences form. ](https://web.archive.org/utils/linkto.asp?cmu_id=468&refer=/companyinfo/privacy_policy.asp&url=%2Fpersonal%2Fforms%2Fprivacy%5Fprefs%2Easp) |   
+| [Set Preferences](https://web.archive.org/utils/linkto.asp?cmu_id=468&refer=/companyinfo/privacy_policy.asp&url=%2Fpersonal%2Fforms%2Fprivacy%5Fprefs%2Easp) | 
