@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the luckyvitamin.com privacy policy that was archived on 2007-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070223033908id_/http%3A//www.luckyvitamin.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luckyvitamin.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214153659id_/http%3A//www.luckyvitamin.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
