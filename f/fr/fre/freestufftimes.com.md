@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freestufftimes.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630015553id_/http%3A//www.freestufftimes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freestufftimes.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214222520id_/http%3A//www.freestufftimes.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : Free Stuff Times
+# Privacy Policy
 
 Your privacy is very important to Freestufftimes. Accordingly, Freestufftimes has implemented this Privacy Policy to inform you, the user, of the information that Freestufftimes collects from you, how Freestufftimes collects this information, and what Freestufftimes’ does with it after it is collected. By using the Freestufftimes.com Web Site you are accepting the practices described in this policy. If you have any questions or comments regarding this Privacy Policy, please contact Freestufftimes at: webmaster@Freestufftimes.com
 
@@ -42,4 +42,4 @@ Freestufftimes follows generally accepted industry standards to protect the Pers
 
 What About Children’s Privacy?
 
-Under Thirteen. The Freestufftimes Services are only for users ages 13 and older. Accordingly, Freestufftimes will delete any information that Freestufftimes knows originates from a child under the age of 13. 
+Under Thirteen. The Freestufftimes Services are only for users ages 13 and older. Accordingly, Freestufftimes will delete any information that Freestufftimes knows originates from a child under the age of 13.
