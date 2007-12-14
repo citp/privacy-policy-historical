@@ -1,7 +1,8 @@
-<!--The following is the downloaded HTML source of the dvdtimes.co.uk privacy policy that was archived on 2006-04-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060415004326id_/http%3A//dvdtimes.co.uk/index.php%3Fpage%3DPrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dvdtimes.co.uk privacy policy that was archived on 2007-12-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071214200213id_/http%3A//www.dvdtimes.co.uk/index.php%3Fpage%3DPrivacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 3.2 Final//EN"><html><head>
+
 <title>DVD Times - DVD News, Reviews and Features
 </title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -17,33 +18,217 @@
 <script language="JavaScript" src="javascript/default.js"></script>
 <script language="JavaScript" src="ts_picker.js"></script>
 
-<style>
-<!--
-.verticaltext {
-writing-mode: tb-rl;
-filter: flipv fliph;
-}
--->
-</style>
-
 <script>
+
+function deleteComment(content, comment) {
+if (confirm("Are you sure you want to delete this comment?")) {
+window.location = 'editcomment.php?contentid='+content+'&commentid='+comment+'&action=delete';
+}
+}
+
+function hideColumn(columnname) {
+
+if (confirm('This will hide this column from view. You can re-enable all columns by clicking the Show All link that will appear in the menu.')) {
+setCookie('hide'+columnname,'true', 365);
+window.location='index.php';
+
+}
+}
+
+
 function imageDisplay(imagename){
 document.getElementById('imageDiv').style.display='block';
 document.getElementById('popupimage').src=imagename;
 }
 
+
 function quote(id) {
 
-document.getElementById("comment").value = document.getElementById("comment").value + "[quote]";
-document.getElementById("comment").value = document.getElementById("comment").value + "[b]Originally Posted by " + document.getElementById("comment_"+id+"_name").value + ":[/b]\n";
-document.getElementById("comment").value = document.getElementById("comment").value + document.getElementById("comment_"+id).value;
-document.getElementById("comment").value = document.getElementById("comment").value + "[/quote]";
+var quotetext = "[quote][b]Originally Posted by " + document.getElementById("comment_"+id+"_name").value + ":[/b][br]" + document.getElementById("comment_"+id).value + "[/quote]";
+
+if (!document.commentform.richtext) {
+document.commentform.comment.value=quotetext;
+} else {
+quotetext = quotetext.replace(/\n/g,"[br]");
+tinyMCE.execInstanceCommand('comment', 'mceInsertContent', '', quotetext);
+}
 
 }
+
+
+function setCookie(cookieName,cookieValue,nDays) {
+var today = new Date();
+var expire = new Date();
+if (nDays==null || nDays==0) nDays=1;
+expire.setTime(today.getTime() + 3600000*24*nDays);
+document.cookie = cookieName+"="+escape(cookieValue)
++ ";expires="+expire.toGMTString();
+}
+
+function readCookie(name) {
+var nameEQ = name + "=";
+var ca = document.cookie.split(';');
+for(var i=0;i < ca.length;i++) {
+var c = ca[i];
+while (c.charAt(0)==' ') c = c.substring(1,c.length);
+if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+}
+return null;
+}
+
+function affiliatePopup() {
+document.getElementById("popupFrame").src="affiliatehelper.php";
+document.getElementById("popupDiv").style.display="block";
+document.getElementById("affiliatePopupButton").style.display="none";
+}
+
+
+function kelkooCheckQuery(){
+if (document.searchform.td_siteSearchQuery.value==''){
+alert('Please, type in a Keyword !');
+return false;
+}else{
+document.searchform.action="http://clkuk.tradedoubler.com/click?p=3431&a=295974&g=1092093&url=http://www.kelkoo.co.uk/ctl/do/search";
+document.searchform.target="kelkoo";
+document.searchform.submit();
+}
+}
+
+function doSearch() {
+if (document.searchform.searchsite.value == "Kelkoo") {
+document.searchform.td_siteSearchQuery.value = document.searchform.searchterm.value;
+kelkooCheckQuery();
+} else if (document.searchform.searchsite.value == "Film Journal") {
+document.searchform.action="http://filmjournal.net/wp-search.php";
+document.searchform.term.value = document.searchform.searchterm.value
+document.searchform.submit();
+} else if (document.searchform.searchsite.value == "DVD-Basen") {
+document.searchform.action="http://www.dvd-basen.dk/uk/home.php3";
+document.searchform.search.value = document.searchform.searchterm.value
+document.searchform.submit();
+} else {
+document.searchform.action="search.php";
+document.searchform.submit();
+}
+
+
+}
+function deleteSubscriptions(type) {
+if (type=="Comment") {
+var frmSub = document.commentsubsform;
+} else {
+var frmSub = document.contentsubsform;
+}
+if (confirm("Are you sure you wish to delete the selected "+type+" Subscriptions?")) {
+frmSub.submit();
+}
+
+}
+
+
 </script>
+
 </head>
 
-<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<body onclick="hideMenu(); " leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<script>
+function findPosX(obj) {
+var curleft = 0;
+
+if (obj.offsetParent) {
+while (obj.offsetParent) {
+curleft += obj.offsetLeft
+obj = obj.offsetParent;
+}
+} else if (obj.x) {
+curleft += obj.x;
+}
+return curleft;
+}
+
+function findPosY(obj) {
+var curtop = 0;
+if (obj.offsetParent) {
+while (obj.offsetParent) {
+curtop += obj.offsetTop
+obj = obj.offsetParent;
+}
+}	else if (obj.y) {
+curtop += obj.y;
+}
+return curtop;
+}
+</script>
+
+
+<div id="menuDiv" style="padding-left:3px; padding-right:20px; position:absolute; display:none; border-width:1px; border-style:solid; border-color:#000000; background-image:url(testarea/images/interface/silverbluetitlegradient.gif);"></div>
+
+<script>
+var releaseDatesMenu = new Array();
+releaseDatesMenu[0] = new Array('All ', 'releasedates.php');
+releaseDatesMenu[1] = new Array('DVD ', 'releasedates.php?type=DVD');
+releaseDatesMenu[2] = new Array('HD DVD ', 'releasedates.php?type=HD-DVD');
+releaseDatesMenu[3] = new Array('Blu-Ray ', 'releasedates.php?type=Blu-Ray');
+//releaseDatesMenu[4] = new Array('Cinema ', 'content.php?contentid=10711');
+
+var reviewsMenu = new Array();
+reviewsMenu[0] = new Array('DVD ', 'index.php?page=ReviewsIndex');
+reviewsMenu[1] = new Array('HD DVD / Blu-Ray', 'index.php?page=ReviewsIndex:HD');
+reviewsMenu[2] = new Array('Cinema ', 'index.php?page=CinemaReviewIndex&elements=1000000');
+reviewsMenu[3] = new Array('Hardware ', 'index.php?page=HardwareIndex&elements=1000000');
+
+var affiliateMenu = new Array();
+
+affiliateMenu[0] = new Array('<b>Shopping Mall<b>', 'index.php?page=ShoppingMall');
+
+
+affiliateMenu[1] = new Array('<b>DVD Times Store<b>', 'affiliatelink.php?localaffiliateid=50');
+affiliateMenu[2] = new Array('101CD', 'affiliatelink.php?localaffiliateid=3');affiliateMenu[3] = new Array('AllPosters', 'affiliatelink.php?localaffiliateid=52');affiliateMenu[4] = new Array('Amazon.co.uk', 'affiliatelink.php?localaffiliateid=11');affiliateMenu[5] = new Array('Amazon.com', 'affiliatelink.php?localaffiliateid=12');affiliateMenu[6] = new Array('Argos', 'affiliatelink.php?localaffiliateid=71');affiliateMenu[7] = new Array('Asda', 'affiliatelink.php?localaffiliateid=36');affiliateMenu[8] = new Array('BangCD', 'affiliatelink.php?localaffiliateid=75');affiliateMenu[9] = new Array('BBC Shop', 'affiliatelink.php?localaffiliateid=6');affiliateMenu[10] = new Array('Bensons World', 'affiliatelink.php?localaffiliateid=7');affiliateMenu[11] = new Array('CD-WOW', 'affiliatelink.php?localaffiliateid=1');affiliateMenu[12] = new Array('ChoicesUK', 'affiliatelink.php?localaffiliateid=4');affiliateMenu[13] = new Array('Cinema Paradiso', 'affiliatelink.php?localaffiliateid=18');affiliateMenu[14] = new Array('Currys', 'affiliatelink.php?localaffiliateid=38');affiliateMenu[15] = new Array('Dabs.com', 'affiliatelink.php?localaffiliateid=56');affiliateMenu[16] = new Array('DD Home Entertainment', 'affiliatelink.php?localaffiliateid=39');affiliateMenu[17] = new Array('DeepDiscount.com', 'affiliatelink.php?localaffiliateid=68');affiliateMenu[18] = new Array('Digital Direct', 'affiliatelink.php?localaffiliateid=29');affiliateMenu[19] = new Array('DVD Box Office', 'affiliatelink.php?localaffiliateid=67');affiliateMenu[20] = new Array('DVD Pacific', 'affiliatelink.php?localaffiliateid=27');affiliateMenu[21] = new Array('DVD Planet', 'affiliatelink.php?localaffiliateid=54');affiliateMenu[22] = new Array('DVD Stars', 'affiliatelink.php?localaffiliateid=19');affiliateMenu[23] = new Array('DVD Times Store', 'affiliatelink.php?localaffiliateid=50');affiliateMenu[24] = new Array('DVD.co.uk', 'affiliatelink.php?localaffiliateid=8');affiliateMenu[25] = new Array('eBay.co.uk', 'affiliatelink.php?localaffiliateid=37');affiliateMenu[26] = new Array('eBuyer', 'affiliatelink.php?localaffiliateid=35');affiliateMenu[27] = new Array('Empire Direct', 'affiliatelink.php?localaffiliateid=13');affiliateMenu[28] = new Array('Empire Film Store', 'affiliatelink.php?localaffiliateid=33');affiliateMenu[29] = new Array('FilmNight', 'affiliatelink.php?localaffiliateid=32');affiliateMenu[30] = new Array('Forbidden Planet', 'affiliatelink.php?localaffiliateid=55');affiliateMenu[31] = new Array('Foxy.co.uk', 'affiliatelink.php?localaffiliateid=20');affiliateMenu[32] = new Array('Foyles', 'affiliatelink.php?localaffiliateid=66');affiliateMenu[33] = new Array('Hamleys', 'affiliatelink.php?localaffiliateid=62');affiliateMenu[34] = new Array('HMV', 'affiliatelink.php?localaffiliateid=15');affiliateMenu[35] = new Array('John Lewis', 'affiliatelink.php?localaffiliateid=63');affiliateMenu[36] = new Array('LOVEFiLM Rental', 'affiliatelink.php?localaffiliateid=78');affiliateMenu[37] = new Array('LOVEFiLM Retail', 'affiliatelink.php?localaffiliateid=77');affiliateMenu[38] = new Array('Masters of Cinema', 'affiliatelink.php?localaffiliateid=25');affiliateMenu[39] = new Array('Mediadis', 'affiliatelink.php?localaffiliateid=74');affiliateMenu[40] = new Array('MobileShop.com', 'affiliatelink.php?localaffiliateid=44');affiliateMenu[41] = new Array('MovieMail', 'affiliatelink.php?localaffiliateid=5');affiliateMenu[42] = new Array('MyMovieStream', 'affiliatelink.php?localaffiliateid=21');affiliateMenu[43] = new Array('Play.com', 'affiliatelink.php?localaffiliateid=2');affiliateMenu[44] = new Array('PlayAsia', 'affiliatelink.php?localaffiliateid=40');affiliateMenu[45] = new Array('PowerPlay Direct', 'affiliatelink.php?localaffiliateid=10');affiliateMenu[46] = new Array('PriceStorm.com', 'affiliatelink.php?localaffiliateid=9');affiliateMenu[47] = new Array('Select Cheaper', 'affiliatelink.php?localaffiliateid=58');affiliateMenu[48] = new Array('Sendit.com', 'affiliatelink.php?localaffiliateid=30');affiliateMenu[49] = new Array('Setanta', 'affiliatelink.php?localaffiliateid=79');affiliateMenu[50] = new Array('Store4', 'affiliatelink.php?localaffiliateid=22');affiliateMenu[51] = new Array('Tesco', 'affiliatelink.php?localaffiliateid=31');affiliateMenu[52] = new Array('The Hut', 'affiliatelink.php?localaffiliateid=23');affiliateMenu[53] = new Array('TVCables.co.uk', 'affiliatelink.php?localaffiliateid=57');affiliateMenu[54] = new Array('uWish.co.uk', 'affiliatelink.php?localaffiliateid=72');affiliateMenu[55] = new Array('Virgin Megastores', 'affiliatelink.php?localaffiliateid=70');affiliateMenu[56] = new Array('Waterstones', 'affiliatelink.php?localaffiliateid=65');affiliateMenu[57] = new Array('WHSmith', 'affiliatelink.php?localaffiliateid=64');affiliateMenu[58] = new Array('Woolworths', 'affiliatelink.php?localaffiliateid=34');affiliateMenu[59] = new Array('YesAsia', 'affiliatelink.php?localaffiliateid=28');
+var accountMenuLoggedIn = new Array();
+accountMenuLoggedIn [0] = new Array('Settings', 'useraccount.php');
+accountMenuLoggedIn [1] = new Array('Groups', 'index.php?page=Groups:GroupList');
+accountMenuLoggedIn [2] = new Array('Log Out', 'login.php?logout=y');
+
+var accountMenuLoggedOut = new Array();
+accountMenuLoggedOut [0] = new Array('Login / Register', 'register.php');
+
+var inFlag = 0;
+var menuClicked = 0;
+
+function displayMenu(menu, obj) {
+var strHTML = "<table border=0 cellpadding=2 cellspacing=0>";
+for (var x=0; x < menu.length; x++) {
+strHTML=strHTML + "<tr><td nowrap><a class='nav' href='"+menu[x][1]+"'>"+menu[x][0]+"</a></td></tr>";
+}
+strHTML=strHTML + "</table>";
+document.getElementById("menuDiv").innerHTML=strHTML;
+
+document.getElementById("menuDiv").style.display='block';
+document.getElementById("menuDiv").style.left=findPosX(obj) + 5;
+document.getElementById("menuDiv").style.top=findPosY(obj) + obj.offsetHeight+4;
+
+
+
+var pos = parseInt(document.getElementById("menuDiv").style.left.replace("px","")) + parseInt(document.getElementById("menuDiv").style.width.replace("px",""));
+
+//alert (pos);
+//alert(document.body.offsetWidth);
+if (pos+21 > document.body.offsetWidth) {
+document.getElementById("menuDiv").style.left = parseInt(document.getElementById("menuDiv").style.left.replace("px","")) - (pos-document.body.offsetWidth)-34 ;
+}
+menuClicked = 1;
+
+}
+
+function hideMenu() {
+if (menuClicked < 1) {
+document.getElementById("menuDiv").style.display='none';
+} else {
+menuClicked = 0;
+}
+}
+
+</script>
 
 <div id="imageDiv" style="position:absolute; left:175px; top:130px; border-style:solid; border-width:1px; border-color:#aaaaaa; background-color:#ffffff; display:none"><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td bgcolor="#eeeeee" align="right" onclick="document.getElementById('imageDiv').style.display='none';" style="cursor:hand;"><a>Close [x]</a></td></tr><tr><td><img src="" id="popupimage"></td></tr></tbody></table></div>
 
@@ -57,14 +242,12 @@ document.getElementById("comment").value = document.getElementById("comment").va
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tbody><tr>
 <td background="testarea/images/interface/silverbluetitlegradient.gif" class="title" width="190"><a href="http://www.dvdtimes.co.uk/index.php"><img src="/images/dvdtimes_gradient2.gif" alt="DVD Times" height="68" border="0"></a></td>
+
 <td align="right" background="images/interface/silverbluetitlegradient.gif" class="title">
 
 <!-- (bannerad) -->
 
-<iframe src="http://www.svponline.co.uk/ticker/clients/tickerwhite.php" width="468" height="55" scrolling="no" frameborder="0">
-Sorry, your browser doesn't support IFRAMEs<br>
-<a href="http://www.svp.co.uk">SVP Homepage</a>
-</iframe>
+<iframe src="http://www.dvdtimes.co.uk/banner.html" frameborder="0" border="0" width="468" height="60" scrolling="no" noscrolling=""></iframe>
 <!-- (template|AdvivaBanner) -->
 
 <!-- (template|BannerAdvert) //-->
@@ -86,7 +269,79 @@ Sorry, your browser doesn't support IFRAMEs<br>
 
 
 <tbody><tr>
-<td align="right" class="navigation" nowrap="" colspan="2"><a href="index.php" class="nav">Home</a> | <a href="releasedates.php" class="nav">Release Dates</a> | <a href="index.php?page=ReviewsIndex" class="nav">DVD Reviews</a> | <a href="index.php?page=CinemaReviewIndex&amp;elements=1000000" class="nav">Cinema Reviews</a> | <a href="index.php?page=HardwareIndex&amp;elements=100000" class="nav">Hardware Reviews</a> | <a href="index.php?page=FeatureIndex&amp;elements=1000000" class="nav">Features</a> | <a href="index.php?page=ShoppingMall" class="nav">Shopping Mall</a> | <a href="http://www.thedvdforums.com" class="nav">Forums</a><img src="images/interface/spacer.gif" width="9" height="1"></td>
+<td class="navigation" nowrap="" style="padding-left:5px;">
+<table border="0" cellpadding="0">
+<tbody><tr>
+
+
+<td style="padding-left:5px; padding-right:5px;">
+<a href="clickedlink.php?url=http://www.stumbleupon.com/submit?url=http://www.dvdtimes.co.uk&amp;title=DVD+Times"> <img border="0" src="http://www.dvdtimes.co.uk/protectedimage.php?image=ColinPolonowski/stumbleuponimage.gif" alt="StumbleUpon Toolbar"></a>
+</td>
+<td style="padding-left:5px; padding-right:5px;">
+
+
+<a class="nav" href="index.php?page=DVD">DVD</a>
+</td>
+<td style="padding-left:5px; padding-right:5px;">
+<a href="index.php?page=HDDVD" class="nav">HD DVD/Blu-Ray</a>
+</td>
+<td style="padding-left:5px; padding-right:5px;">
+<a href="index.php?page=Cinema" class="nav">Cinema</a>
+</td>
+<td style="padding-left:5px; padding-right:5px;">
+<a href="clickedlink.php?url=http://www.cdtimes.co.uk" class="nav">Music</a>
+</td>
+</tr>
+</tbody></table>
+</td>
+<td align="right" class="navigation" nowrap="" colspan="2">
+<table border="0" cellpadding="0">
+<tbody><tr>
+<td style="padding-left:5px; padding-right:5px;">
+<a href="index.php?page=Default" class="nav">Home</a>
+</td>
+<td onclick="displayMenu(releaseDatesMenu, this);" style="padding-left:5px; padding-right:5px;">
+<a href="#" class="nav">Release Dates</a>
+</td>
+<td onclick="displayMenu(reviewsMenu, this);" style="padding-left:5px; padding-right:5px;">
+<a href="#" class="nav">Reviews</a>
+</td>
+<td style="padding-left:5px; padding-right:5px;">
+<a href="index.php?page=FeatureIndex&amp;elements=1000000" class="nav">Features</a>
+</td>
+<td onclick="displayMenu(affiliateMenu, this);" style="padding-left:5px; padding-right:5px;">
+<a href="#" class="nav">Shopping</a>
+</td>
+
+<td onclick="displayMenu(accountMenuLoggedOut , this);" style="padding-left:5px; padding-right:5px;">
+<a href="#" class="nav">Your Account</a>
+</td>
+
+
+<td style="padding-left:5px; padding-right:5px;">
+<a href="http://www.thedvdforums.com" class="nav">Forums</a>
+</td>
+
+
+<td style="padding-left:5px; padding-right:5px;">
+<a href="http://filmjournal.net/" class="nav">Film Journal</a>
+</td>
+
+
+<td style="padding-left:5px; padding-right:5px;">
+<a href="http://www.facebook.com/group.php?gid=4937698324" class="nav">Facebook</a>
+</td>
+
+
+<td style="padding-left:5px; padding-right:5px;">
+<a href="sendmail.php" class="nav">Contact Us</a>
+</td>
+
+
+
+</tr>
+</tbody></table>
+</td>
 </tr>
 
 
@@ -114,15 +369,13 @@ Sorry, your browser doesn't support IFRAMEs<br>
 <td class="darkHeader">Competitions</td>
 </tr>
 <tr>
-<td><a href="content.php?contentid=61160"><img src="protectedimage.php?image=DaveFoster/ff7ac_comp.jpg" border="0"></a></td>
+<td><a href="content.php?contentid=66408"><img src="http://www.dvdtimes.co.uk/protectedimage.php?image=DaveFoster/tf-comp.jpg_27112007&amp;cachedimage=true&amp;width=155" border="0"></a></td>
 </tr>
 
 <tr>
 <td class="sideContent">
 <table border="0">
-<tbody><tr><td valign="top"><img src="images/interface/arrow.gif" width="4" height="10"></td><td><a class="nav" href="content.php?contentid=61160">Win Final Fantasy VII: Advent Children on DVD!</a><!-- --> <!-- -->
-<font color="red" size="-2">(new)</font></td></tr><tr><td valign="top"><img src="images/interface/arrow.gif" width="4" height="10"></td><td><a class="nav" href="content.php?contentid=61189">Win Karas: The Prophecy on DVD!</a><!-- --> <!-- -->
-<font color="red" size="-2">(new)</font></td></tr>
+<tbody><tr><td valign="top"><img src="images/interface/arrow.gif" width="4" height="10"></td><td><a class="nav" href="content.php?contentid=66367">Win Close Encounters of the Third Kind UE on DVD or Blu-ray Disc!</a><!-- --> <!-- --></td></tr><tr><td valign="top"><img src="images/interface/arrow.gif" width="4" height="10"></td><td><a class="nav" href="content.php?contentid=66395">Win Harry Potter and the Order of the Phoenix™ on HD DVD or Blu-ray Disc</a><!-- --> <!-- --></td></tr><tr><td valign="top"><img src="images/interface/arrow.gif" width="4" height="10"></td><td><a class="nav" href="content.php?contentid=66373">Win Surf's Up on DVD &amp; Blu-ray Disc!</a><!-- --> <!-- --></td></tr><tr><td valign="top"><img src="images/interface/arrow.gif" width="4" height="10"></td><td><a class="nav" href="content.php?contentid=66439">Win The Simpsons Movie on DVD!</a><!-- --> <!-- --></td></tr><tr><td valign="top"><img src="images/interface/arrow.gif" width="4" height="10"></td><td><a class="nav" href="content.php?contentid=66408">Win Transformers on DVD!</a><!-- --> <!-- --></td></tr>
 </tbody></table>
 </td></tr>
 
@@ -150,7 +403,7 @@ Sorry, your browser doesn't support IFRAMEs<br>
 <table border="0" width="100%"><tbody><tr><td>
 
 <center>
-<input type="text" name="searchterm" value="Search" size="10" maxlength="255" class="searchInput">
+<input onclick="this.select();" type="text" name="searchterm" value="Search" size="10" maxlength="255" class="searchInput">
 <input type="submit" name="Submit" value="Go" class="smallButton"><br>
 <a class="nav" href="advancedsearch.php">[ Advanced Search ]</a>
 </center>
@@ -166,7 +419,7 @@ Sorry, your browser doesn't support IFRAMEs<br>
 <img src="images/interface/spacer.gif" width="157" height="9">
 
 
-<table width="157" cellpadding="0" cellspacing="0"><tbody><tr><td class="outline"><table width="157" border="0" cellspacing="1" cellpadding="0"><tbody><tr><td class="darkHeader">One To Watch</td></tr><tr><td class="sideContent"><table border="0" cellspacing="4" cellpadding="0"><tbody><tr><td class="caption" width="45"><img src="http://www.dvdtimes.co.uk/protectedimage.php?image=MikeSutton//martin-thumb.jpg" width="45" align="left"></td><td class="caption" width="100%"><a href="content.php?contentid=60844" class="nav"><b>Martin 2-Disc Special Edition</b></a></td></tr><tr><td colspan="2" class="caption">Mike Sutton updates his review of "Martin" to take a look at the new Arrow 2-Disc Special Edition.<a href="content.php?contentid=60844" class="more"> [more]</a></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table>
+<table width="157" cellpadding="0" cellspacing="0"><tbody><tr><td class="outline"><table width="157" border="0" cellspacing="1" cellpadding="0"><tbody><tr><td class="darkHeader">One To Watch</td></tr><tr><td class="sideContent"><table border="0" cellspacing="4" cellpadding="0"><tbody><tr><td class="caption" width="45"><img src="http://www.dvdtimes.co.uk/protectedimage.php?image=GaryCouzens/louismallecollection2.jpg_13092007&amp;cachedimage=true&amp;width=45" width="45" align="left"></td><td class="caption" width="100%"><a href="content.php?contentid=66008" class="nav"><b>The Louis Malle Collection: Volume 2</b></a></td></tr><tr><td colspan="2" class="caption">Gary Couzens reviews the UK Region 2 release of the Louis Malle Collection, Volume 2, a further five of the director's films in a box set from Optimum.<a href="content.php?contentid=66008" class="more"> [more]</a></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table>
 
 
 <img src="images/interface/spacer.gif" width="157" height="9">
@@ -182,8 +435,7 @@ Sorry, your browser doesn't support IFRAMEs<br>
 </tr>
 <tr>
 <td class="sideContent">
-<table width="100%" border="0" cellspacing="4" cellpadding="0"><tbody><tr>
-<td width="10" align="center"><div class="new">New</div></td><td width="100%"><a href="content.php?contentid=61134">So I bought a projector...</a> </td></tr><tr><td colspan="2"> <span class="date">09-04-2006 15:30</span><br> <span class="caption">Late last year, DVD Times cinema reviewer Kevin O'Reilly bought an LCD projector for his living room. It was the best money he ever spent. In this article, intended as a very basic and informal introduction to home cinema projectors, Kevin describes how he chose one, how he set up his living room and what he thinks after four months of using it.</span> <a href="content.php?contentid=61134" class="more">[more]</a></td></tr></tbody></table>
+<table width="100%" border="0" cellspacing="4" cellpadding="0"><tbody><tr><td width="100%"><a href="content.php?contentid=65802">Sony/Blu-ray Disc VIP Event Report</a> </td></tr><tr><td colspan="2"> <span class="date">03-09-2007 21:20</span><br> <span class="caption"></span> <a href="content.php?contentid=65802" class="more">[more]</a></td></tr></tbody></table>
 </td>
 </tr>
 
@@ -237,7 +489,7 @@ Sorry, your browser doesn't support IFRAMEs<br>
 </tr>
 <tr>
 <td class="sideContent">
-<table border="0" width="100%"><tbody><tr><td class="caption"> bradavon </td></tr><tr><td class="caption"> CrazyHorse </td></tr><tr><td class="caption"> Evilbones </td></tr><tr><td class="caption"> LionelHutz </td></tr><tr><td class="caption"> Phil Q </td></tr><tr><td class="caption"> Richie </td></tr><tr><td class="caption"> spionkop </td></tr><tr><td class="caption"> staffyman1 </td></tr></tbody></table></td>
+<table border="0" width="100%"><tbody><tr><td class="caption"> Abbeyalto </td></tr><tr><td class="caption"> AL89 </td></tr><tr><td class="caption"> Ben Walker </td></tr><tr><td class="caption"> BillWatkins </td></tr><tr><td class="caption"><b> DaveF </b></td></tr><tr><td class="caption"> dtms </td></tr><tr><td class="caption"> dvdtroll </td></tr><tr><td class="caption"> ellroy </td></tr><tr><td class="caption"> Faltskogian </td></tr><tr><td class="caption"> filmcritik </td></tr><tr><td class="caption"> Fritz </td></tr><tr><td class="caption"><i> Gary Couzens </i></td></tr><tr><td class="caption"> Indie </td></tr><tr><td class="caption"> JimDriver2 </td></tr><tr><td class="caption"> JM </td></tr><tr><td class="caption"> jroadley </td></tr><tr><td class="caption"> Kryten </td></tr><tr><td class="caption"> MarkBeer </td></tr><tr><td class="caption"> mentasm </td></tr><tr><td class="caption"><i> Michael Mackenzie </i></td></tr><tr><td class="caption"> Mr Jones </td></tr><tr><td class="caption"> R-T-C Films </td></tr><tr><td class="caption"> Randypan </td></tr><tr><td class="caption"> Robin Davies </td></tr><tr><td class="caption"> Romerojpgxxx </td></tr><tr><td class="caption"> soresu </td></tr><tr><td class="caption"> The Voivod </td></tr><tr><td class="caption"> Vargol </td></tr><tr><td class="caption"> vili </td></tr><tr><td class="caption"> wcheung </td></tr><tr><td class="caption"> Wezzo </td></tr></tbody></table></td>
 </tr>
 </tbody></table>
 </td>
@@ -328,7 +580,7 @@ If you have any questions about this privacy statement, the practices of DVD Tim
 </tr>
 <tr>
 <td class="sideContent">
-<table width="100%" border="0" cellspacing="4" cellpadding="0"><tbody><tr><td width="100%"><a href="content.php?contentid=61072">Munich (R1) in May</a> </td></tr><tr><td colspan="2"> <span class="date">14-04-2006 12:02</span><br> <span class="caption">Universal Studios Home Video have announced the Region 1 DVD release of Munich for 9th May 2006. Inspired by real events, Munich reveals the intense story of the secret Israeli squad assigned to track...</span> <a href="content.php?contentid=61072" class="more">[more]</a></td></tr></tbody></table>
+<table width="100%" border="0" cellspacing="4" cellpadding="0"><tbody><tr><td width="100%"><a href="content.php?contentid=66532">12 Angry Men R1 AE in March</a> </td></tr><tr><td colspan="2"> <span class="date">14-12-2007 20:01</span><br> <span class="caption">Sidney Lumet’s feature film directorial debut returns to DVD in March as a severely lacking-in-features Anniversary Edition...</span> <a href="content.php?contentid=66532" class="more">[more]</a></td></tr></tbody></table>
 </td>
 </tr>
 
@@ -355,7 +607,7 @@ If you have any questions about this privacy statement, the practices of DVD Tim
 </tr>
 <tr>
 <td class="sideContent">
-<table width="155" border="0" cellpadding="0" cellspacing="4"><tbody><tr><td width="1%" class="chartNumber">1</td><td><img src="http://www.dvdtimes.co.uk/protectedimage.php?image=KevinGilvear/sentinelS1cover.jpg" width="40" align="left" border="1"></td><td><a href="content.php?contentid=61209" class="nav">The Sentinel: Season 1</a></td></tr><tr><td width="1%" class="chartNumber">2</td><td colspan="2"><a href="content.php?contentid=61212" class="nav">Event Horizon (Special Collector's Edition)</a></td></tr><tr><td width="1%" class="chartNumber">3</td><td colspan="2"><a href="content.php?contentid=61206" class="nav">Clockers</a></td></tr><tr><td width="1%" class="chartNumber">4</td><td colspan="2"><a href="content.php?contentid=61138" class="nav">Mission Impossible SCE</a></td></tr><tr><td width="1%" class="chartNumber">5</td><td colspan="2"><a href="content.php?contentid=61200" class="nav">Jungle Fever</a></td></tr><tr><td width="1%" class="chartNumber">6</td><td colspan="2"><a href="content.php?contentid=61179" class="nav">The Busby Berkeley Collection</a></td></tr><tr><td width="1%" class="chartNumber">7</td><td colspan="2"><a href="content.php?contentid=61204" class="nav">Crooklyn</a></td></tr><tr><td width="1%" class="chartNumber">8</td><td colspan="2"><a href="content.php?contentid=61151" class="nav">Do The Right Thing</a></td></tr><tr><td width="1%" class="chartNumber">9</td><td colspan="2"><a href="content.php?contentid=61193" class="nav">Gangsters : The Complete Series</a></td></tr><tr><td width="1%" class="chartNumber">10</td><td colspan="2"><a href="content.php?contentid=61201" class="nav">Toni</a></td></tr>
+<table width="155" border="0" cellpadding="0" cellspacing="4"><tbody><tr><td width="1%" class="chartNumber">1</td><td><img src="http://www.dvdtimes.co.uk/protectedimage.php?image=NoelMegahey/seventhseal.jpg_12122007&amp;cachedimage=true&amp;width=40" width="40" align="left" border="1"></td><td><a href="content.php?contentid=66522" class="nav">The Seventh Seal (50th Anniversary Special Edition)</a></td></tr><tr><td width="1%" class="chartNumber">2</td><td colspan="2"><a href="content.php?contentid=66521" class="nav">Stardust</a></td></tr><tr><td width="1%" class="chartNumber">3</td><td colspan="2"><a href="content.php?contentid=66525" class="nav">Heroes, Season 1 Part 2</a></td></tr><tr><td width="1%" class="chartNumber">4</td><td colspan="2"><a href="content.php?contentid=66527" class="nav">2001: A Space Odyssey: Special Edition</a></td></tr><tr><td width="1%" class="chartNumber">5</td><td colspan="2"><a href="content.php?contentid=66485" class="nav">Blade Runner: The Final Cut: Five-Disc Ultimate Collector’s Edition</a></td></tr><tr><td width="1%" class="chartNumber">6</td><td colspan="2"><a href="content.php?contentid=57458" class="nav">Girls Bravo: Volume 1</a></td></tr><tr><td width="1%" class="chartNumber">7</td><td colspan="2"><a href="content.php?contentid=4256" class="nav">The Simpsons: The Complete Second Season</a></td></tr><tr><td width="1%" class="chartNumber">8</td><td colspan="2"><a href="content.php?contentid=62923" class="nav">The Little Mermaid: Platinum Edition</a></td></tr><tr><td width="1%" class="chartNumber">9</td><td colspan="2"><a href="content.php?contentid=66518" class="nav">The New York Ripper</a></td></tr><tr><td width="1%" class="chartNumber">10</td><td colspan="2"><a href="content.php?contentid=55789" class="nav">God, The Devil And Bob - The Complete Series</a></td></tr>
 </tbody></table>
 
 </td>
@@ -366,12 +618,7 @@ If you have any questions about this privacy statement, the practices of DVD Tim
 </tbody></table>
 
 <img src="images/interface/spacer.gif" width="157" height="9">
-<center><script language="JavaScript">
-<!--
-var ans_timestamp = (new Date()).getTime();
-document.write("<scr" + "ipt language=\"JavaScript\" src=\"http://ads.adviva.net/serve/v=300;m=2;l=2938;ts=" + ans_timestamp + "\"></scr" + "ipt>");
-// -->
-</script><script language="JavaScript" src="http://ads.adviva.net/serve/v=300;m=2;l=2938;ts=1582134816834"></script></center>
+<center><script charset="utf-8" type="text/javascript" src="http://ws.amazon.co.uk/widgets/q?ServiceVersion=20070822&amp;MarketPlace=GB&amp;ID=V20070822/GB/dvdtimes01/8002/b2a45770-1583-43cd-b488-a2e3c55bd90b"> </script> <noscript><A HREF="http://ws.amazon.co.uk/widgets/q?ServiceVersion=20070822&MarketPlace=GB&ID=V20070822%2FGB%2Fdvdtimes01%2F8002%2Fb2a45770-1583-43cd-b488-a2e3c55bd90b&Operation=NoScript">Amazon.co.uk Widgets</A></noscript></center>
 
 
 
@@ -385,15 +632,22 @@ document.write("<scr" + "ipt language=\"JavaScript\" src=\"http://ads.adviva.net
 <td colspan="4" valign="top" class="outline"><table width="100%" border="0" cellspacing="1" cellpadding="0">
 <tbody><tr>
 <td align="center" class="navigation"><span class="caption">
-Last updated: <!-- -->15-04-2006 00:00. All articles ©1999-2006 <a href="http://www.poisonousmonkey.com">PoisonousMonkey</a></span></td>
+Last updated: <!-- -->14-12-2007 20:01. All articles ©1999-2007 DVD Times. Powered by <a href="http://www.monkeycms.com" target="_blank">MonkeyCMS <!-- //-->1.1.9</a>. </span></td>
 </tr>
 </tbody></table>
 </td>
 </tr>
 </tbody></table>
 
+<p align="right">
+<a href="index.php?page=PrivacyPolicy" style="font-style:normal; font-size:10px; color:#000000;">Privacy Policy</a> | <a href="content.php?contentid=65361" style="font-style:normal; font-size:10px; color:#000000;">Content Terms of Use</a>
+</p>
 
-<!--<p align=right><a href="http://www.poisonousmonkey.com"><font face=verdana size=-2 color=#aaaaaa>Powered by monkeyCMS v0.9.5<br>©2003-2006 PoisonousMonkey</font></a></p> // -->
+<!-- Begin: AdBrite -->
+<script type="text/javascript" src="http://ads.adbrite.com/mb/text_group.php?sid=502614&amp;br=1"></script>
+<!-- End: AdBrite -->
+
+
 
 
 
