@@ -1,59 +1,55 @@
-> *The following text is extracted and transformed from the hetzner.co.za privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608033202id_/http%3A//www.hetzner.co.za/index.php%3Fid%3D242) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hetzner.co.za privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214211710id_/http%3A//www.hetzner.co.za/index.php/hosting/legal/privacy-policy) for the most accurate reproduction.*
 
-# Hetzner South Africa – trusted in web hosting: Privacy Policy
+# Hetzner: Privacy policy
 
-**Hetzner Respects Your Privacy**
+_(Last updated: 1 August 2007)_
 
-Your privacy is important to Hetzner and we are committed to protecting it. 
+_(Previous versions: none)_
 
-  * Personally Identifiable Information
-  * How We Use Information
-  * How We Collect Information
-  * Security
-  * Your Access To Information
+**1\. Introduction**
 
+Unless the context clearly indicates to the contrary, any capitalised term in this Privacy Policy shall bear the same meaning as defined in the Hetzner General Terms located at [http://www.hetzner.co.za](http://www.hetzner.co.za/) which definitions shall be deemed to have been incorporated herein by reference.
 
+**2\. Compliance with Applicable Law**
 
-**Personally Identifiable Information**
+Protecting Customer privacy is of utmost importance to Hetzner. Accordingly, Hetzner has developed this Privacy Policy in order to safeguard the Customer's personal information and to protect the confidentiality thereof. In so doing, Hetzner has taken cognisance of the provisions of the Constitution of the Republic of South Africa Act, 108 of 1996, the Electronic Communications Act, 25 of 2002 and the Protection of Personal Information Bill of 2006 (currently before the South African Law Commission) and the common law so as to ensure compliance with all relevant statutory requirements and best practice under South African law.
 
-Hetzner does not share, disclose or sell any personally identifiable information (such as your name, address, telephone number or email address) collected online on Hetzner sites with third parties for non-Hetzner marketing purposes. 
+**3\. No Liability for Unauthorised Disclosure**
 
-In the unlikely event that Hetzner should decide to share such data with third parties for marketing in future, it will provide notification and the opportunity for its users to indicate whether they would prefer that the Company not provide such information about them to third parties. 
+While Hetzner will do all things reasonably necessary to protect the Customer's rights of privacy whilst on the Hetzner website, Hetzner cannot accept any liability whatsoever for unauthorised or unlawful disclosure of the Customer's personal and confidential information made by third parties who are not subject to Hetzner's control.
 
-Because this information is a critical part of our business, it would be treated like our other assets in the context of a merger, sale or other corporate reorganization or legal proceeding. 
+**4\. Personal Information**
 
-Hetzner also does not market to, or knowingly collect personal information from children under the age of 16 on Company sites. 
+For purposes of this Privacy Policy, "personal information means the Customer's name, surname, address, e-mail address, telephone number, cellphone number, ID number, physical address, company name, contact ID number, credit card or banking details."
 
-**How We Use Information**
+**5\. Consent to Collection**
 
-Hetzner uses the personally-identifiable information we collect online principally to provide you with the service(s) you have ordered and to make service announcements from time to time. 
+By accepting the Hetzner Hosting Terms, the Customer consents to Hetzner's collection of personal information on an ongoing basis for the continued duration of the Customer's relationship with Hetzner, subject to the limitations set out in this Privacy Policy.
 
-Postal and e-mail address information, for example, enables communication about services offered and ordered, as well as the proper provisioning and billing of those services. 
+**6\. Types of Personal Information Collected**
 
-Like most businesses, Hetzner uses professional and reputable vendors to carry out certain functions (such as processing recurring debit order collections) and so shares online data to the extent necessary for them to perform their work. Of course, such vendors must use that personally-identifiable information only for the purpose(s) for which it was shared and protect it from any further use. Hetzner may also share such information with other industry and credit-related organizations to improve operations and to protect against fraud, security and credit risks. 
+Hetzner collects personal information when a Customer submits an application form to make use of Hetzner's Services, to become a Reseller of Hetzner or to respond to a Hetzner survey. If you choose to pay for the Services you order from Hetzner by way of debit order, Hetzner will request your banking details to include in the periodic debit order transactions. Hetzner also collects personal information for purposes of improving its Service offering and for purposes of increasing service efficiency.
 
-We also provide personally-identifiable online information in response to subpoenas and other legal demands, and where we believe that disclosing this information is necessary to identify, contact or bring legal action against individuals who may be endangering public safety or interfering with Hetzner property or services, or with our customers' or others' use of them. 
+**7\. Cookies**
 
-**How We Collect Information**
+We use cookie technology which comprises tiny pieces of data or a small text file that is stored on your computer's hard drive and which contains information about you, so that the next time you visit the Hetzner website, the cookie reminds us of who you are, enabling us to achieve our goal of providing a valuable online experience to you. You are able to however, disable this cookie technology in your Internet browser.
 
-Hetzner collects information online by asking you for it, for example, when you order a service or respond to a survey. A customer's name, address (postal and e-mail) and telephone number are the most important pieces of information, but we might request other information, based on, for example, the service(s) being ordered or promoted. 
+**8\. Customer Data**
 
-If you choose to pay for your service(s) by debit order, we will request your banking details to include in periodic debit order transactions. 
+The Customer Data collected by Hetzner is used solely in connection with granting you access to the website, to konsoleH and for purposes of monitoring the Reseller/Customer's use of the website so as to limit or prevent breaches of security.
 
-Hetzner may also use "cookies" and similar technology to obtain information about your visits to our sites or your responses to e-mail from us - both individually and in aggregated data that does not identify you. These reporting tools tell us the parts of our web sites or e-mails in which you showed an interest or took some action, and help us improve the quality and usefulness of our sites. At Hetzner , we primarily use cookies to determine what services or promotions you are interested in. While cookies help us improve your experience while visiting our sites and customize our communications to the services you may desire, you have the option to block them through your Internet browser or other commercially available software. However, doing so may make some of our sites' features unavailable to you. 
+**9\. Disclosure of Personal Information**
 
-**Security**
+Subject to your right to withdraw your consent in certain instances, you agree that we may obtain your personal information and use it, for certain specified purposes, including for, internal Hetzner marketing and contract administration as well as to enable us to collect your debit order payment. We will also provide personal information to law enforcement authorities in response to subpoenas and other lawful requirements where we believe that the disclosure of such personal information is necessary to identify, contact or institute legal proceedings against third parties who jeopardise the provision and rendering of the Services by Hetzner.
 
-We use encryption, firewalls and other technology and security procedures to help protect the accuracy and security of your personal information and prevent unauthorized access or improper use. For example, you will note that while using some features of the Hetzner web sites and online services, you will need to submit a password or some other type of authenticating information. 
+**10\. Retension of Personal Information**
 
-**Your Access To Information**
+All personal information will only be retained for as long as it is necessary to fulfil the purposes mentioned in clause 9 above.
 
-You may review or update the available personally identifiable information that we received from you online by accessing your account online, by contacting our Help Desk or e-mail address on your invoice, or through the Company contact information below. Please note that in order to better protect you and safeguard your information, we take steps to verify your identity before granting access or making corrections to your information. 
+**11\. Accurate and Up To Date**
 
-Hetzner may use e-mail addresses you provide us online on Hetzner sites to send you e-mail related to Hetzner products and services or if you have affirmatively indicated a desire to receive additional information. To be excluded from further email communications, activate the opt-out facility in "My Account" and we will respect your wishes. 
+Hetzner will use its best endeavours to keep the personal information it collects as accurate, complete and up to date as is necessary for the purposes mentioned in clause 9 above, and Hetzner shall, from time to time, request the Customer to update its personal information on the website or via konsoleH. You are able to review or update any personally identifiable information that we hold on you by accessing your account via konsoleH or by e-mailing us or phoning us. Please note that in order to better protect you and safeguard your personal information, we do take steps to verify your identity before granting you access to your account or making any corrections to your personal information.
 
-**Contact Hetzner**
+**12\. Security**
 
-Contact Centre: 0861-0861-08 / +27 21 970 2000  
-Facsimile: 0861-0861-09 / +27 21 970 2001  
-Postal: P.O. Box 3450, Durbanville, 7551
+Hetzner uses encryption, firewalls and other security technology and procedures to help protect the confidentiality of your personal information and prevent unauthorised access or improper use thereof. All personal information is securely stored in Hetzner's Customer Database. 
