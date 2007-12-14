@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the woodalls.com privacy policy that was archived on 2007-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070202171230id_/http%3A//www.woodalls.com/help/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woodalls.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214140819id_/http%3A//www.woodalls.com/help/privacy.cfm) for the most accurate reproduction.*
 
-# Woodall's...Camping & RVing in the Great Outdoors!
+# Privacy Policy - Woodall's
 
   
 **Types of information we collect and how we collect it.**
