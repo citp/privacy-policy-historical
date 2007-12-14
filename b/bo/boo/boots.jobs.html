@@ -1,0 +1,3509 @@
+<!--The following is the downloaded HTML source of the boots.jobs privacy policy that was archived on 2007-12-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071214211722id_/http%3A//www.boots.com/microsites/microsite_info_template.jsp%3FcontentId%3D4113%26wblinktype%3DBL) for the most accurate reproduction.-->
+
+<html><head><script language="Javascript1.1" type="text/javascript">
+
+var BV = navigator.appVersion;
+ var BN = "";
+ var window_width = 800;
+ var window_height = 600;
+ var window_features = "toolbar, scrollbars=yes, resizable=yes";
+ 
+ if (navigator.appName.indexOf("Microsoft") >= 0)
+ {
+ 	BN = "Explorer";
+	if (navigator.appVersion.indexOf("3.0") >= 0)
+	{
+		window_width = "775";
+	 	window_height = "385";
+  		window_features = "toolbar, scrollbars=yes, resizable=yes";
+	}
+        else if ((navigator.appVersion.indexOf("3.02") >= 0) ||
+	(BV.indexOf("3.01") >= 0) ||
+	(BV.indexOf("3.03") >= 0))
+	{
+		window_width = "775";
+	 	window_height = "375";
+  		window_features = "toolbar, scrollbars=yes, resizable=yes";
+	}
+	else
+	{	
+  	 	window_width = "775";
+	 	window_height = "470";
+  		window_features = "toolbar, scrollbars=yes, resizable=yes";
+	}	
+ }	
+else
+{
+     if (navigator.appName.indexOf("Netscape") >= 0)
+	 {
+	 	BN = "Netscape";
+	 	window_width = "775";
+	 	window_height = "472";
+  		window_features = "toolbar, scrollbars=yes, resizable=yes";
+	 }
+     else
+	 {
+  		BN = "Other"
+     }
+ }
+ 
+ // Position of the top left corner of the new window to open
+ var xPos = 50;
+ var yPos = 120;
+ 
+ var resized_window_width = screen.width - xPos - 10;
+ var resized_window_height = screen.height - yPos - 110;
+ 
+ if (resized_window_width > window_width) {
+ 	resized_window_width = window_width;
+ }
+ if (resized_window_height > window_height) {
+ 	resized_window_height = window_height;
+ }
+		
+ window_features="height="+resized_window_height+",width="+resized_window_width+","+window_features;
+ window_features="top="+yPos+",left="+xPos+","+window_features;
+function openwin(url,winName){
+	window.open(url,"_blank",window_features);
+	//window.location="test.html";
+}
+</script>
+
+<!-- jsp/global/visitor_cookie.inc -->
+
+
+
+
+<script language="JavaScript" type="text/javascript" src="/include/siTracker.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ <!-- This page is used to check the status of the user, whether one is
+     logged in and whether the page requires login.
+     This page should be included at the top of every page -->
+<!-- $Source: /data/cvsroot/bivdev/source/jsp/util/authenticate.inc,v $ -->
+<!-- $Author: tnitzan $ -->
+<!-- $Revision: 1.9 $, $Date: 2002/05/23 15:49:10 $ -->
+
+
+
+
+
+
+
+
+
+
+    <title>Boots.com - </title>
+    <script language="JavaScript" type="text/javascript" src="/include/menu.js"></script>
+
+  <script language="JavaScript" type="text/javascript" src="/include/adrotation.js"></script>
+
+  <script language="JavaScript">
+    <!-- // hide from non-JS browsers
+    function WM_netscapeCssFix() {
+      if (document.WM.WM_netscapeCssFix.initWindowWidth != window.innerWidth || document.WM.WM_netscapeCssFix.initWindowHeight != window.innerHeight) {
+        document.location = document.location;
+      }
+    }
+
+    function WM_netscapeCssFixCheckIn() {
+      if ((navigator.appName == 'Netscape') && (parseInt(navigator.appVersion) == 4)) {
+        if (typeof document.WM == 'undefined'){
+          document.WM = new Object;
+        }
+        if (typeof document.WM.WM_scaleFont == 'undefined') {
+          document.WM.WM_netscapeCssFix = new Object;
+          document.WM.WM_netscapeCssFix.initWindowWidth = window.innerWidth;
+          document.WM.WM_netscapeCssFix.initWindowHeight = window.innerHeight;
+        }
+        window.onresize = WM_netscapeCssFix;
+      }
+    }
+    // -->
+  </script>
+
+    <link rel="StyleSheet" href="/include/style_pc.css" type="text/css">
+	<!-- Added by Mayank, XANSA for bug# 1385 : START Change 1 -->
+    <link rel="StyleSheet" href="/include/style_pc_new.css" type="text/css">
+	<!-- END Change 1 -->
+    <meta http-equiv="Expires" content="Wed, 03 Jun 1998 16:00:00 GMT">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Content-type" content="text/html">
+    <base target="_top">
+	
+			<meta name="Keywords" content="boots.com, shopping online, privacy, terms and conditions, security, secure site, Verisign, information, cookies, VeriSign, credi &amp; debit cards, pharmacy medicines, internet shopping, safe,">
+		  
+
+		<meta name="description" content="Boots.com the UK's leading health and beauty retailer">
+          
+				
+
+<!-- Sanjeev Bhat, HELP project, for logging the URL_REQUESTED and LAST_PAGE_VIEWED -->
+
+<!-- End -->
+<!-- Sanjeev Bhat : Brand treatment Project -->
+
+<!-- End -->
+<script language="Javascript">
+<!--
+  WM_netscapeCssFixCheckIn();
+// -->
+</script>
+
+
+
+<script language="JavaScript1.2">
+<!--
+  function popwin(url,wid,hig,lef) {
+    win = window.open(url, "_blank","Top=200,left=" + lef + ",toolbar=0,scrollbars=0,location=0,statusbar=0,status=0,directories=0,menubar=0,resizable=0,height=" + hig + ",width=" + wid);
+    win.focus();
+  }
+
+  function showPopWin()  {
+    if ( 0 == 1 ) {
+    popwin('/global/new_visitor_popup.jsp',200,200,100)    }
+
+    }
+
+    showPopWin()
+
+  // -->
+</script>
+
+</head>
+
+
+
+
+
+         
+        
+
+<!-- Code used for getting is there any Flash Image  in the Page-->
+
+
+
+
+
+
+
+ 
+
+
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+
+
+
+
+
+ 
+<body onload="NSinit()" onmouseover="checkwidth(); return false;" onfocus="killMenus(); return false;" bgcolor="CBE6F7" alink="#93AED0" marginwidth="0" marginheight="0" leftmargin="0" topmargin="0"><a name="top"></a>
+<!--globalnav.inc-->
+
+<!--   
+	   Accessibility hidden skip navigation link
+	   code modified on 17-09-04 by Rajnish Sinha
+--> 
+
+
+
+
+
+
+
+
+
+
+<span id="mySpan" class="notVisible"></span>
+<span id="mySpan2" class="notVisibleForMenuLinks"></span>
+<script type="text/javascript">
+function deptNameStringLengthInPixels(str) {
+    var myString = str;
+    var stringWidthPixels;
+
+    if (document.getElementById) {
+        var theSpan = document.getElementById('mySpan');
+        var textNode = document.createTextNode(myString);
+        theSpan.appendChild(textNode);
+    }
+
+    stringWidthPixels=theSpan.offsetWidth;
+    theSpan.removeChild(textNode);
+    return stringWidthPixels;
+}
+
+function menuLinksStringLengthInPixels(str) {
+    var myString = str;
+    var stringWidthPixels;
+
+    if (document.getElementById) {
+        var theSpan = document.getElementById('mySpan2');
+        var textNode = document.createTextNode(myString);
+        theSpan.appendChild(textNode);
+    }
+
+    stringWidthPixels=theSpan.offsetWidth;
+    theSpan.removeChild(textNode);
+    return stringWidthPixels;
+}
+
+//this method pass the value of tab1 and tab2.
+function showTabLink(tab)
+{
+	if(tab == "tab1")
+	{	
+		document.tabLink.tab.value ='shop';
+		document.tabLink.tabParam.value=0;
+	}
+	else
+	{
+		document.tabLink.tab.value  = 'others';
+		document.tabLink.tabParam.value = 1;
+	}
+	document.tabLink.submit();
+}
+</script>
+
+ 
+<!--Main table-->
+<div align="left">
+ 
+  <table border="0" width="760" bordercolor="red" background="/assets/global/global_nav_gradient.gif" height="118" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td onmouseover="killMenus();" rowspan="3" valign="bottom" height="24">
+			<table border="0" height="100%" cellpadding="0" cellspacing="0"><tbody><tr><td valign="top">
+			<a href="http://www.boots.com"><img border="0" vspace="0" hspace="0" src="/assets/global/qw_boots_homepage.jpg" alt="Boots logo"></a>
+			</td></tr>
+			<tr><td><img src="/assets/global/px_trans.gif" alt="" height="10"></td></tr>
+			<tr><td valign="bottom" height="24">
+			
+		<table border="0" cellspacing="0" cellpadding="0">
+			<tbody><tr class="qwNavTopLastLink">
+			     
+				<td height="24" bgcolor="#CBE6F7"><img src="/assets/global/px_trans.gif" alt="" width="8"></td>
+				<td height="24"><img src="/assets/global/left_white_tab.gif" alt="" height="24" width="5"></td>
+				<td nowrap="" bgcolor="#FFFFFF" height="24"><a target="_self" href="#" onclick="showTabLink('tab1');" class="qwNavLinkSelected">Shop</a></td>
+				<td height="24"><img src="/assets/global/right_white_tab.gif" alt="" height="24" width="5"></td>
+			   
+			   
+			  
+				<td height="24"><img src="/assets/global/left_blue_tab.gif" alt="" height="24" width="5"></td>
+				<td nowrap="" height="24" background="/assets/global/section_tab.gif"><a target="_self" href="#" onclick="showTabLink('tab2');" class="globalNav">Services<br>&amp; Info</a></td>
+				<td height="24"><img src="/assets/global/right_blue_tab.gif" alt="" height="24" width="5"></td>
+			    
+	  
+			</tr>
+		</tbody></table>
+	
+
+			</td></tr></tbody></table>
+		</td>
+		<td width="630" align="right" height="23">
+			<table width="630" height="23" border="0" bordercolor="green" cellpadding="0" cellspacing="0" onmouseover="killMenus();">
+				<tbody><tr onmouseover="killMenus();">
+					<td width="630" align="right">
+
+
+<table height="24" border="0" cellpadding="0" cellspacing="0">
+ <tbody><tr height="24">
+ <td><img src="/assets/global/home_top_left.gif" width="6" height="24"></td>
+<td background="/assets/global/lightblue_tab.gif"><a href="http://www.boots.com/?wblinktype=TN" class="globalnavTopLink"><span>home&nbsp;</span></a></td><td class="qwNavTopLastLink">&nbsp;&nbsp;&nbsp;&nbsp;</td><td class="qwNavTopLastLink"><a href="http://www.boots.com/my_acct/index.jsp?wblinktype=TN&amp;wblinktype=TN" class="globalnavTopLink"><span>my account</span></a></td><td class="qwNavTopLastLink">&nbsp;&nbsp;&nbsp;&nbsp;</td><td class="qwNavTopLastLink"><a href="https://www.boots.com/my_acct/my_orders.jsp?wblinktype=TN&amp;wblinktype=TN" class="globalnavTopLink"><span>my orders</span></a></td><td class="qwNavTopLastLink">&nbsp;&nbsp;&nbsp;&nbsp;</td><td class="qwNavTopLastLink"><a href="http://www.boots.com/help/index.jsp?wblinktype=TN&amp;wblinktype=TN" class="globalnavTopLink"><span>help</span></a></td><td class="qwNavTopLastLink">&nbsp;&nbsp;&nbsp;&nbsp;</td><td class="qwNavTopLastLink"><a href="http://www.boots.com/microsites/microsite_homepage.jsp?contentId=2915&amp;wblinktype=TN&amp;wblinktype=TN" class="globalnavTopLink"><span>advantage card</span></a></td><td class="qwNavTopLastLink">&nbsp;&nbsp;&nbsp;&nbsp;</td><td class="qwNavTopLastLink"><a href="http://www.boots.com/guidedsearch/quickshop.jsp?wblinktype=TN" class="globalnavTopLink"><span>quick shop</span></a></td><td class="qwNavTopLastLink">&nbsp;&nbsp;&nbsp;&nbsp;</td><td class="qwNavTopLastLink"><a href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5142&amp;wblinktype=TN" class="globalnavTopLink"><span>departments a-z</span></a></td>
+<td><img src="/assets/global/home_top_right.gif" width="6" height="24" border="0"></td>
+</tr>
+</tbody></table>
+</td>
+				</tr>	
+			</tbody></table>
+		</td>
+		<td width="5">&nbsp;</td>
+	</tr>
+<tr onmouseover="killMenus();">
+		<td onmouseover="killMenus();" width="630">
+			<!--
+filename : qw_global_nav_features.inc
+author : Sumit Gupta
+purpose : Holder for new features to be intoduced in quick win global navigation
+Created Date : 10/03/2006
+Project : Quick Wins
+-->
+<table width="630" border="0" cellpadding="0" cellspacing="0" height="60">
+	<tbody><tr cellpadding="0" cellspacing="0">
+		<td><img src="../assets/global/pix_trans.gif" width="5" border="0" alt=""></td>
+		<td width="150" valign="bottom"><!-- START Added by R Suresh Kumar HCL for Global Navigation Enhancements -->
+<script>
+function clearShopSearchString(textBoxName){
+
+  var searchQueryString=document.forms[0].elements[textBoxName].value;
+  if(searchQueryString == "shop search") 
+	document.forms[0].elements[textBoxName].value="";
+  return false;
+}
+</script>
+<!-- END Added by R Suresh Kumar HCL for Global Navigation Enhancements -->
+
+
+
+
+
+<form method="get" target="_top" name="searchForm" action="/guidedsearch/newsearch.jsp">
+<input type="hidden" name="searchArea" value="1">
+<table width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr valign="bottom">
+     <td width="13" height="17" align="left">
+          <!--Text box-->
+<!-- START Added by R Suresh Kumar HCL for Global Navigation Enhancements -->
+	  
+
+
+	<input class="f01" type="text" name="searchTerm" value="shop search" style="height: 19px" size="17" onclick="javascript:clearShopSearchString('searchTerm') ;">
+
+
+              </td>
+<!-- END Added by R Suresh Kumar HCL for Global Navigation Enhancements -->
+              <!--
+              <td width="2" height="20">
+              </td>
+              -->
+              <td width="30" height="20" align="left">
+              <!--GO Image-->
+    <input type="image" src="/assets/global/qw_search.gif" name="Go" width="69" height="21" align="left" border="0" alt="search">
+              </td>
+	</tr>
+	</tbody></table>
+<input type="hidden" name="uri" value="/microsites/microsite_info_template.jsp">
+<input type="hidden" name="classificationId" value="">
+<input type="hidden" name="contentId" value="4113">
+<input type="hidden" name="articleId" value="">
+
+
+
+
+<input type="hidden" name="N" value="0">
+<input type="hidden" name="Ntk" value="all">
+<input type="hidden" name="Nty" value="1">
+              
+</form>
+</td>
+		<td width="310" valign="bottom" height="60"><!--
+filename : qw_global_nav_features_login.inc
+author : Sumit Gupta
+purpose : Displays login functionality with in global navigation.
+Created Date : 10/03/2006
+Project : Quick Wins
+-->
+
+
+<!--added Raman 20-11-06-->
+
+
+
+<script>
+function clearInputBox(textBoxName,strDefault){
+
+  var inputVal=document.frmLogin.elements[textBoxName].value;
+  if(inputVal == strDefault) 
+	document.frmLogin.elements[textBoxName].value="";
+  return false;
+}
+</script>
+
+
+
+
+
+<link rel="StyleSheet" href="/include/style_pc_new.css" type="text/css">
+<table width="100%" cellspacing="0" cellpadding="0" border="0" bordercolor="red">
+<form method="post" name="frmLogin" action="https://www.boots.com/login/index.jsp?wblinktype=TN"></form>
+
+
+
+	<input type="hidden" name="redirectURL" value="/microsites/microsite_info_template.jsp?contentId=4113&amp;wblinktype=BL">
+	<input type="hidden" name="qw_login" value="">
+	<input type="hidden" name="qw_email" value="">
+	
+
+	<tbody><tr>
+	<td><img src="../assets/global/px_trans.gif" width="1" height="15" border="0" alt=""></td></tr>
+	<tr>
+		<!-- <td align="right" colspan="3" rowspan="2" >	
+		
+			<table cellspacing="" cellpadding="0" border="0">
+			 <tr>
+			<td><img src="../assets/global/px_trans.gif" width="55" height="1" border="0" alt="" /></td>
+			  <td vAlign="top" align="Left">
+				
+				<a class="quickWinsFeaturesLogin" href="http://www.boots.com/login/registration.jsp?wblinktype=TN" > Click to register</a>
+			
+			  </td>
+			  <td vAlign="top">|<img src="../assets/global/px_trans.gif" width="3" height="1" border="0" alt="" /></td>
+			  <td vAlign="top" nowrap>
+				<a target="_self" class="quickWinsFeaturesLogin" href="#" onclick="doForgotPass();" >Forgotten your <br> password?</a>
+			  </td>
+			   <td><img src="../assets/global/px_trans.gif" width="50" height="1" border="0" alt="" /> </td>
+			 </tr>
+
+			 <tr>
+			<td><img src="../assets/global/px_trans.gif" width="1" height="1" border="0" alt="" /></td>
+		<td width="50%" align="left" vAlign="bottom">	   
+			<input type="text" name="user" class="f01" value="your email" size="14" maxlength="50" onclick="javascript:clearInputBox('user','your email');"/>
+			
+		</td>
+		<td></td>
+		<td width="30%" align="left" vAlign="bottom">
+			
+			<input type="password" class="f01" name="pwd" size="14" maxlength="40" value="" onclick="javascript:clearInputBox('pwd','password');"
+			onfocus="javascript:clearInputBox('pwd','password');"/>
+		</td> -->
+		
+		<td align="right">
+			<!-- <input type="image" align="right" name="login" src="/assets/global/login.gif" width="44" height="21" border="0" onclick="doLogin();" alt="Login" /> -->
+			<a class="quickWinsFeaturesLogin" href="http://www.boots.com/login/registration.jsp?wblinktype=TN"><img src="/assets/global/Register_button.gif" width="78" height="22" border="0" alt="Register"></a>
+			<a href="http://www.boots.com/login/index.jsp?wblinktype=TN"><img src="/assets/global/Login_button.gif" width="77" height="22" border="0" alt="Login"></a>
+			<img src="../assets/global/px_trans.gif" width="15" height="1" border="0" alt="">
+		</td>
+	</tr>
+
+			<!-- </table>
+		</td>
+
+</tr> -->
+
+
+</tbody></table>
+
+<script>
+
+function doForgotPass()
+{
+	document.frmLogin.qw_email.value="true";
+	document.frmLogin.submit();
+}
+
+function doLogin()
+{
+	url = document.frmLogin.redirectURL.value;
+	
+	if((url.indexOf("logout.jsp") != -1) || (url.indexOf("login/index.jsp") != -1))
+	{
+		document.frmLogin.redirectURL.value="http://www.boots.com"//changed Raman 20-11-06
+	}
+	document.frmLogin.qw_login.value="true";
+	document.frmLogin.submit();
+}
+</script>
+
+</td>
+		<td width="25" valign="bottom">
+			<img src="../assets/global/pix_trans.gif" width="2" height="1" border="0" alt="">
+			<img src="../assets/global/global_nav_dash.gif" border="0" alt="">
+			<img src="../assets/global/pix_trans.gif" width="3" height="1" border="0" alt="">
+		</td>
+		<td width="135" valign="bottom">
+
+
+
+
+
+  
+
+
+
+<link rel="StyleSheet" href="/include/style_pc.css" type="text/css">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+
+<tbody><tr>
+	<td width="1"><img src="../assets/global/px_trans.gif" width="2" border="0" alt=""></td>
+	<td width="116" align="center"><span><img src="/assets/global/basket.gif" width="17" height="12" border="0" align="absmiddle" alt="Shopping Basket"><img src="../assets/global/px_trans.gif" width="1" border="0" alt="">Shopping Basket </span></td>
+	
+</tr>
+<tr>
+	<td width="1"><img src="../assets/global/px_trans.gif" width="2" border="0" alt=""></td>
+	<td width="116" align="center"><span>0 item, £0.00</span></td>
+	
+</tr>
+ <tr>
+	<td colspan="2" width="1"><img src="../assets/global/px_trans.gif" width="1" height="4" border="0" alt=""></td>	
+</tr>
+
+<tr>
+	<td width="1"><img src="../assets/global/px_trans.gif" width="2" border="0" alt=""> </td>
+	<!--Changed By Priyanka Saklani on 3/27/2006 width and height removed for view.gif -->
+	<td width="116" align="right" valign="bottom"><a href="/basket/index.jsp?from=%2Fmicrosites%2Fmicrosite_info_template.jsp%3FcontentId%3D4113%26wblinktype%3DBL"><img src="/assets/global/view.gif" border="0" align="absmiddle" alt="View Basket"></a>&nbsp;<a href="/basket/index.jsp?from=%2Fmicrosites%2Fmicrosite_info_template.jsp%3FcontentId%3D4113%26wblinktype%3DBL"><img src="/assets/global/checkout.gif" width="65" height="21" border="0" align="absmiddle" alt="Checkout"></a></td>
+	
+ </tr>
+
+ 
+</tbody></table>
+
+</td>
+	</tr>
+</tbody></table>
+
+
+
+
+
+
+		</td>
+		<td width="5">&nbsp;</td>
+	</tr>
+<tr>
+                <td colspan="2" valign="bottom">
+                        
+
+
+
+<script language="JavaScript1.1" type="text/javascript">
+	var menuGlobalNavXPos1= 132;
+	var size=0;
+	var widthSize=155;
+	var widthSizeNew=widthSize+13;
+	var widthInPixelsForPipe = 11;
+</script>
+        <link rel="StyleSheet" href="/include/style_pc.css" type="text/css">
+
+
+
+<table border="0" width="630" bordercolor="RED" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<script language="JavaScript1.1" type="text/javascript">
+
+
+setWidth(widthSizeNew);
+var menuGlobalNav2 = new Menu("theMenuGlobalNav2",true);	
+
+if(menuGlobalNavXPos1+widthSize < 761)
+	menuGlobalNav2.setPos(menuGlobalNavXPos1, 117);
+else
+	menuGlobalNav2.setPos(748-widthSize , 117);
+menuGlobalNav2.borderColor	= "#999999";
+menuGlobalNav2.backgroundColor	= "#FFFFFF";
+menuGlobalNav2.menuStyleName	= "popupmenutext";
+
+size++;
+widthInPixelsForDept = deptNameStringLengthInPixels("toiletries");
+tempLength = widthInPixelsForDept + widthInPixelsForPipe ;
+
+tempLength -= tempLength*0.04;
+
+if(size%2 == 0)
+	menuGlobalNavXPos1 = menuGlobalNavXPos1 + tempLength-1;
+else
+	menuGlobalNavXPos1 = menuGlobalNavXPos1 + tempLength-0.5;
+
+
+
+setWidth(widthSizeNew);
+var menuGlobalNav4 = new Menu("theMenuGlobalNav4",true);	
+
+if(menuGlobalNavXPos1+widthSize < 761)
+	menuGlobalNav4.setPos(menuGlobalNavXPos1, 117);
+else
+	menuGlobalNav4.setPos(748-widthSize , 117);
+menuGlobalNav4.borderColor	= "#999999";
+menuGlobalNav4.backgroundColor	= "#FFFFFF";
+menuGlobalNav4.menuStyleName	= "popupmenutext";
+
+size++;
+widthInPixelsForDept = deptNameStringLengthInPixels("premium");
+tempLength = widthInPixelsForDept + widthInPixelsForPipe ;
+
+tempLength -= tempLength*0.04;
+
+if(size%2 == 0)
+	menuGlobalNavXPos1 = menuGlobalNavXPos1 + tempLength-1;
+else
+	menuGlobalNavXPos1 = menuGlobalNavXPos1 + tempLength-0.5;
+
+
+
+setWidth(widthSizeNew);
+var menuGlobalNav5 = new Menu("theMenuGlobalNav5",true);	
+
+if(menuGlobalNavXPos1+widthSize < 761)
+	menuGlobalNav5.setPos(menuGlobalNavXPos1, 117);
+else
+	menuGlobalNav5.setPos(748-widthSize , 117);
+menuGlobalNav5.borderColor	= "#999999";
+menuGlobalNav5.backgroundColor	= "#FFFFFF";
+menuGlobalNav5.menuStyleName	= "popupmenutext";
+
+size++;
+widthInPixelsForDept = deptNameStringLengthInPixels("fragrance");
+tempLength = widthInPixelsForDept + widthInPixelsForPipe ;
+
+tempLength -= tempLength*0.04;
+
+if(size%2 == 0)
+	menuGlobalNavXPos1 = menuGlobalNavXPos1 + tempLength-1;
+else
+	menuGlobalNavXPos1 = menuGlobalNavXPos1 + tempLength-0.5;
+
+
+
+setWidth(widthSizeNew);
+var menuGlobalNav6 = new Menu("theMenuGlobalNav6",true);	
+
+if(menuGlobalNavXPos1+widthSize < 761)
+	menuGlobalNav6.setPos(menuGlobalNavXPos1, 117);
+else
+	menuGlobalNav6.setPos(748-widthSize , 117);
+menuGlobalNav6.borderColor	= "#999999";
+menuGlobalNav6.backgroundColor	= "#FFFFFF";
+menuGlobalNav6.menuStyleName	= "popupmenutext";
+
+size++;
+widthInPixelsForDept = deptNameStringLengthInPixels("& health");
+tempLength = widthInPixelsForDept + widthInPixelsForPipe ;
+
+tempLength -= tempLength*0.04;
+
+if(size%2 == 0)
+	menuGlobalNavXPos1 = menuGlobalNavXPos1 + tempLength-1;
+else
+	menuGlobalNavXPos1 = menuGlobalNavXPos1 + tempLength-0.5;
+
+
+
+setWidth(widthSizeNew);
+var menuGlobalNav7 = new Menu("theMenuGlobalNav7",true);	
+
+if(menuGlobalNavXPos1+widthSize < 761)
+	menuGlobalNav7.setPos(menuGlobalNavXPos1, 117);
+else
+	menuGlobalNav7.setPos(748-widthSize , 117);
+menuGlobalNav7.borderColor	= "#999999";
+menuGlobalNav7.backgroundColor	= "#FFFFFF";
+menuGlobalNav7.menuStyleName	= "popupmenutext";
+
+size++;
+widthInPixelsForDept = deptNameStringLengthInPixels("opticians");
+tempLength = widthInPixelsForDept + widthInPixelsForPipe ;
+
+tempLength -= tempLength*0.04;
+
+if(size%2 == 0)
+	menuGlobalNavXPos1 = menuGlobalNavXPos1 + tempLength-1;
+else
+	menuGlobalNavXPos1 = menuGlobalNavXPos1 + tempLength-0.5;
+
+
+
+setWidth(widthSizeNew);
+var menuGlobalNav8 = new Menu("theMenuGlobalNav8",true);	
+
+if(menuGlobalNavXPos1+widthSize < 761)
+	menuGlobalNav8.setPos(menuGlobalNavXPos1, 117);
+else
+	menuGlobalNav8.setPos(748-widthSize , 117);
+menuGlobalNav8.borderColor	= "#999999";
+menuGlobalNav8.backgroundColor	= "#FFFFFF";
+menuGlobalNav8.menuStyleName	= "popupmenutext";
+
+size++;
+widthInPixelsForDept = deptNameStringLengthInPixels("baby");
+tempLength = widthInPixelsForDept + widthInPixelsForPipe ;
+
+tempLength -= tempLength*0.04;
+
+if(size%2 == 0)
+	menuGlobalNavXPos1 = menuGlobalNavXPos1 + tempLength-1;
+else
+	menuGlobalNavXPos1 = menuGlobalNavXPos1 + tempLength-0.5;
+
+
+
+setWidth(widthSizeNew);
+var menuGlobalNav9 = new Menu("theMenuGlobalNav9",true);	
+
+if(menuGlobalNavXPos1+widthSize < 761)
+	menuGlobalNav9.setPos(menuGlobalNavXPos1, 117);
+else
+	menuGlobalNav9.setPos(748-widthSize , 117);
+menuGlobalNav9.borderColor	= "#999999";
+menuGlobalNav9.backgroundColor	= "#FFFFFF";
+menuGlobalNav9.menuStyleName	= "popupmenutext";
+
+size++;
+widthInPixelsForDept = deptNameStringLengthInPixels("toys");
+tempLength = widthInPixelsForDept + widthInPixelsForPipe ;
+
+tempLength -= tempLength*0.04;
+
+if(size%2 == 0)
+	menuGlobalNavXPos1 = menuGlobalNavXPos1 + tempLength-1;
+else
+	menuGlobalNavXPos1 = menuGlobalNavXPos1 + tempLength-0.5;
+
+
+
+setWidth(widthSizeNew);
+var menuGlobalNav10 = new Menu("theMenuGlobalNav10",true);	
+
+if(menuGlobalNavXPos1+widthSize < 761)
+	menuGlobalNav10.setPos(menuGlobalNavXPos1, 117);
+else
+	menuGlobalNav10.setPos(748-widthSize , 117);
+menuGlobalNav10.borderColor	= "#999999";
+menuGlobalNav10.backgroundColor	= "#FFFFFF";
+menuGlobalNav10.menuStyleName	= "popupmenutext";
+
+size++;
+widthInPixelsForDept = deptNameStringLengthInPixels("men");
+tempLength = widthInPixelsForDept + widthInPixelsForPipe ;
+
+tempLength -= tempLength*0.04;
+
+if(size%2 == 0)
+	menuGlobalNavXPos1 = menuGlobalNavXPos1 + tempLength-1;
+else
+	menuGlobalNavXPos1 = menuGlobalNavXPos1 + tempLength-0.5;
+
+
+
+setWidth(widthSizeNew);
+var menuGlobalNav11 = new Menu("theMenuGlobalNav11",true);	
+
+if(menuGlobalNavXPos1+widthSize < 761)
+	menuGlobalNav11.setPos(menuGlobalNavXPos1, 117);
+else
+	menuGlobalNav11.setPos(748-widthSize , 117);
+menuGlobalNav11.borderColor	= "#999999";
+menuGlobalNav11.backgroundColor	= "#FFFFFF";
+menuGlobalNav11.menuStyleName	= "popupmenutext";
+
+size++;
+widthInPixelsForDept = deptNameStringLengthInPixels("photo");
+tempLength = widthInPixelsForDept + widthInPixelsForPipe ;
+
+tempLength -= tempLength*0.04;
+
+if(size%2 == 0)
+	menuGlobalNavXPos1 = menuGlobalNavXPos1 + tempLength-1;
+else
+	menuGlobalNavXPos1 = menuGlobalNavXPos1 + tempLength-0.5;
+
+
+
+setWidth(widthSizeNew);
+var menuGlobalNav12 = new Menu("theMenuGlobalNav12",true);	
+
+if(menuGlobalNavXPos1+widthSize < 761)
+	menuGlobalNav12.setPos(menuGlobalNavXPos1, 117);
+else
+	menuGlobalNav12.setPos(748-widthSize , 117);
+menuGlobalNav12.borderColor	= "#999999";
+menuGlobalNav12.backgroundColor	= "#FFFFFF";
+menuGlobalNav12.menuStyleName	= "popupmenutext";
+
+size++;
+widthInPixelsForDept = deptNameStringLengthInPixels("electrical");
+tempLength = widthInPixelsForDept + widthInPixelsForPipe ;
+
+tempLength -= tempLength*0.04;
+
+if(size%2 == 0)
+	menuGlobalNavXPos1 = menuGlobalNavXPos1 + tempLength-1;
+else
+	menuGlobalNavXPos1 = menuGlobalNavXPos1 + tempLength-0.5;
+
+
+
+setWidth(widthSizeNew);
+var menuGlobalNav13 = new Menu("theMenuGlobalNav13",true);	
+
+if(menuGlobalNavXPos1+widthSize < 761)
+	menuGlobalNav13.setPos(menuGlobalNavXPos1, 117);
+else
+	menuGlobalNav13.setPos(748-widthSize , 117);
+menuGlobalNav13.borderColor	= "#999999";
+menuGlobalNav13.backgroundColor	= "#FFFFFF";
+menuGlobalNav13.menuStyleName	= "popupmenutext";
+
+size++;
+widthInPixelsForDept = deptNameStringLengthInPixels("christmas");
+tempLength = widthInPixelsForDept + widthInPixelsForPipe ;
+
+tempLength -= tempLength*0.04;
+
+if(size%2 == 0)
+	menuGlobalNavXPos1 = menuGlobalNavXPos1 + tempLength-1;
+else
+	menuGlobalNavXPos1 = menuGlobalNavXPos1 + tempLength-0.5;
+
+
+
+setWidth(widthSizeNew);
+var menuGlobalNav14 = new Menu("theMenuGlobalNav14",true);	
+
+if(menuGlobalNavXPos1+widthSize < 761)
+	menuGlobalNav14.setPos(menuGlobalNavXPos1, 117);
+else
+	menuGlobalNav14.setPos(748-widthSize , 117);
+menuGlobalNav14.borderColor	= "#999999";
+menuGlobalNav14.backgroundColor	= "#FFFFFF";
+menuGlobalNav14.menuStyleName	= "popupmenutext";
+
+size++;
+widthInPixelsForDept = deptNameStringLengthInPixels("offers");
+tempLength = widthInPixelsForDept + widthInPixelsForPipe ;
+
+tempLength -= tempLength*0.04;
+
+if(size%2 == 0)
+	menuGlobalNavXPos1 = menuGlobalNavXPos1 + tempLength-1;
+else
+	menuGlobalNavXPos1 = menuGlobalNavXPos1 + tempLength-0.5;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</script>
+</tr></tbody></table><table height="24" border="0" cellspacing="0" cellpadding="0" width="100%">
+	<tbody><tr height="24">
+            <td>
+		<table height="24" border="0" cellspacing="0" cellpadding="0">
+			<tbody><tr height="24">
+			<td>&nbsp;&nbsp;</td><td border="0"><img height="24" id="qw_gn_left_img_beauty a_sb_rtoiletries" src="/assets/global/left_blue_tab.gif"></td><td nowrap="" background="/assets/global/section_tab.gif" id="qw_gn_td_beauty a_sb_rtoiletries" border="0"><center><a id="qw_gn_a_beauty a_sb_rtoiletries" class="globalnav" href="http://www.boots.com/onlineexperience/flexible_template_2006.jsp?classificationid=2&amp;wblinktype=DD&amp;dept_Name=beauty a_sb_rtoiletries" onblur="return false;">beauty &amp;<br>toiletries</a></center></td><td border="0"><img height="24" id="qw_gn_right_img_beauty a_sb_rtoiletries" src="/assets/global/right_blue_tab.gif"></td><td border="0"><img height="24" id="qw_gn_left_img_premiumb_rbeauty" src="/assets/global/left_blue_tab.gif"></td><td nowrap="" background="/assets/global/section_tab.gif" id="qw_gn_td_premiumb_rbeauty" border="0"><center><a id="qw_gn_a_premiumb_rbeauty" class="globalnav" href="http://www.boots.com/onlineexperience/flexible_template_2006.jsp?classificationid=1004242&amp;wblinktype=DD&amp;dept_Name=premiumb_rbeauty" onblur="return false;">premium<br>beauty</a></center></td><td border="0"><img height="24" id="qw_gn_right_img_premiumb_rbeauty" src="/assets/global/right_blue_tab.gif"></td><td border="0"><img height="24" id="qw_gn_left_img_fragrance" src="/assets/global/left_blue_tab.gif"></td><td nowrap="" background="/assets/global/section_tab.gif" id="qw_gn_td_fragrance" border="0"><center><a id="qw_gn_a_fragrance" class="globalnav" href="http://www.boots.com/onlineexperience/flexible_template_2006.jsp?classificationid=1003842&amp;wblinktype=DD&amp;dept_Name=fragrance" onblur="return false;">fragrance</a></center></td><td border="0"><img height="24" id="qw_gn_right_img_fragrance" src="/assets/global/right_blue_tab.gif"></td><td border="0"><img height="24" id="qw_gn_left_img_pharmacyb_ra_s health" src="/assets/global/left_blue_tab.gif"></td><td nowrap="" background="/assets/global/section_tab.gif" id="qw_gn_td_pharmacyb_ra_s health" border="0"><center><a id="qw_gn_a_pharmacyb_ra_s health" class="globalnav" href="http://www.boots.com/onlineexperience/flexible_template_2006.jsp?classificationid=373&amp;wblinktype=DD&amp;dept_Name=pharmacyb_ra_s health" onblur="return false;">pharmacy<br>&amp; health</a></center></td><td border="0"><img height="24" id="qw_gn_right_img_pharmacyb_ra_s health" src="/assets/global/right_blue_tab.gif"></td><td border="0"><img height="24" id="qw_gn_left_img_opticians" src="/assets/global/left_blue_tab.gif"></td><td nowrap="" background="/assets/global/section_tab.gif" id="qw_gn_td_opticians" border="0"><center><a id="qw_gn_a_opticians" class="globalnav" href="http://www.bootsopticians.co.uk/?wblinktype=HPD&amp;wblinkdetail=D3P8&amp;tabParamValue=notShop&amp;openDirectory=3&amp;wblinktype=DD&amp;dept_Name=opticians" onblur="return false;">opticians</a></center></td><td border="0"><img height="24" id="qw_gn_right_img_opticians" src="/assets/global/right_blue_tab.gif"></td><td border="0"><img height="24" id="qw_gn_left_img_baby" src="/assets/global/left_blue_tab.gif"></td><td nowrap="" background="/assets/global/section_tab.gif" id="qw_gn_td_baby" border="0"><center><a id="qw_gn_a_baby" class="globalnav" href="http://www.boots.com/onlineexperience/flexible_template_2006.jsp?classificationid=1013392&amp;wblinktype=DD&amp;dept_Name=baby" onblur="return false;">baby</a></center></td><td border="0"><img height="24" id="qw_gn_right_img_baby" src="/assets/global/right_blue_tab.gif"></td><td border="0"><img height="24" id="qw_gn_left_img_toys" src="/assets/global/left_blue_tab.gif"></td><td nowrap="" background="/assets/global/section_tab.gif" id="qw_gn_td_toys" border="0"><center><a id="qw_gn_a_toys" class="globalnav" href="http://www.boots.com/onlineexperience/flexible_template_2006.jsp?classificationid=1031605&amp;wblinktype=DD&amp;dept_Name=toys" onblur="return false;">toys</a></center></td><td border="0"><img height="24" id="qw_gn_right_img_toys" src="/assets/global/right_blue_tab.gif"></td><td border="0"><img height="24" id="qw_gn_left_img_men" src="/assets/global/left_blue_tab.gif"></td><td nowrap="" background="/assets/global/section_tab.gif" id="qw_gn_td_men" border="0"><center><a id="qw_gn_a_men" class="globalnav" href="/shop/department.jsp?classificationid=566&amp;wblinktype=DD&amp;dept_Name=men" onblur="return false;">men</a></center></td><td border="0"><img height="24" id="qw_gn_right_img_men" src="/assets/global/right_blue_tab.gif"></td><td border="0"><img height="24" id="qw_gn_left_img_photo" src="/assets/global/left_blue_tab.gif"></td><td nowrap="" background="/assets/global/section_tab.gif" id="qw_gn_td_photo" border="0"><center><a id="qw_gn_a_photo" class="globalnav" href="/shop/department.jsp?classificationid=1021494&amp;wblinktype=DD&amp;dept_Name=photo" onblur="return false;">photo</a></center></td><td border="0"><img height="24" id="qw_gn_right_img_photo" src="/assets/global/right_blue_tab.gif"></td><td border="0"><img height="24" id="qw_gn_left_img_electrical" src="/assets/global/left_blue_tab.gif"></td><td nowrap="" background="/assets/global/section_tab.gif" id="qw_gn_td_electrical" border="0"><center><a id="qw_gn_a_electrical" class="globalnav" href="/shop/department.jsp?classificationid=1021495&amp;wblinktype=DD&amp;dept_Name=electrical" onblur="return false;">electrical</a></center></td><td border="0"><img height="24" id="qw_gn_right_img_electrical" src="/assets/global/right_blue_tab.gif"></td><td border="0"><img height="24" id="qw_gn_left_img_christmas" src="/assets/global/left_blue_tab.gif"></td><td nowrap="" background="/assets/global/section_tab.gif" id="qw_gn_td_christmas" border="0"><center><a id="qw_gn_a_christmas" class="globalnav" href="/shop/department.jsp?classificationid=1043628&amp;wblinktype=DD&amp;dept_Name=christmas" onblur="return false;">christmas</a></center></td><td border="0"><img height="24" id="qw_gn_right_img_christmas" src="/assets/global/right_blue_tab.gif"></td><td border="0"><img height="24" id="qw_gn_left_img_offers" src="/assets/global/Redcorner_left.gif"></td><td nowrap="" background="/assets/global/REDsection_tab.gif" id="qw_gn_td_offers" border="0"><center><a id="qw_gn_a_offers" class="globalnav" href="http://www.boots.com/onlineexperience/flexible_template_2006.jsp?classificationid=1001130&amp;wblinktype=DD&amp;dept_Name=offers" onblur="return false;">offers</a></center></td><td border="0"><img height="24" id="qw_gn_right_img_offers" src="/assets/global/Redcorner_right.gif"></td>
+			</tr>
+		</tbody></table>
+	     </td>
+	</tr>
+</tbody></table>
+
+
+
+
+
+
+
+     
+
+
+
+
+		</td>
+	</tr>
+</tbody></table>
+</div>
+<layer z-index="0" visibility="hidden" pagex="155" pagey="126" id="menuContainer">
+        <link rel="StyleSheet" href="/include/style_pc.css" type="text/css">
+		<!-- Added by Mayank, XANSA for bug# 1385 : START Change 1 -->
+        <link rel="StyleSheet" href="/include/style_pc_new.css" type="text/css">
+		<!-- END Change 1 -->
+</layer>
+
+<script language="JavaScript1.2" type="text/javascript">
+    writeMenus(true);	
+</script>	
+
+<!--   
+	   Accessibility hidden skip navigation link
+	   code modified on 17-09-04 by Rajnish Sinha
+--> 
+<a name="endglobalnav">
+
+<table border="0" width="760" cellpadding="0" cellspacing="0" bgcolor="CBE6F7">
+	<tbody><tr><td>
+	<form name="tabLink" action="#" method="post">
+	<input type="hidden" name="tab" value="">
+	<input type="hidden" name="tabParam" value="">
+	</form>
+	</td></tr></tbody></table>
+
+	   
+
+ 
+ 
+
+
+  
+
+ 	        
+<table width="760" border="0" cellpadding="0" cellspacing="0">
+  <tbody><tr> 
+    <td width="760" align="left" valign="top"></td>
+  </tr>
+</tbody></table>
+ 
+ <!-- Breadcrumb End Here --->
+ 	  	 
+
+	  
+
+		  
+			<!--This Table Is used for upper pixel-->
+
+<!-- this Table Is Used For 11Pixel space After the  Brad Room -->
+	
+  
+	<!-- This Table is Used for Displaying The Content Of  Left Hand And Breading Images --> 
+	
+	
+
+
+<!--  This Table Is Used For Displaying The Content Of Left Hand Navigation Left 
+	  Hand Images Body Text Lead  Image and Right Hand Images-->
+	
+<table width="760" height="301" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td width="121" align="left" valign="top" rowspan="2">
+     <!-- This Table Is Used For Displaying Left Hand Part of Page -->
+      <table width="121" border="0" cellspacing="0" cellpadding="0">
+          <!-- Branding End Here -->
+         <tbody><tr>
+          <!--  This Used For Displaying The Left Navigation Table -->
+          <td width="121" align="left" valign="top">
+           
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script language="JavaScript" type="text/javascript" src="/include/navigation_left.js"></script>
+<link rel="StyleSheet" href="/include/navigation_left.css" type="text/css">
+
+
+
+
+
+
+<table width="121" border="0" bordercolor="red" cellpadding="0" cellspacing="0" valign="top">
+<tbody><tr bgcolor="white" valign="top">
+	<td width="110"><img src="/assets/global/px_trans.gif" width="5" height="2" border="0" alt=""></td>
+	<td width="2"><img src="/assets/global/tr_corner.gif" width="5" height="2" border="0" alt=""></td>
+	<td width="9" bgcolor="CBE6F7"><img src="/assets/global/px_trans.gif" width="3" height="2" border="0" alt=""></td>
+</tr>
+ <tr>
+	 <td colspan="2">
+
+				<table width="100%" border="0" cellpadding="0" cellspacing="0" bordercolor="#70C5BA" bgcolor="white">
+					<tbody><tr height="16">
+						<td height="16" style="padding-left:2px" width="10%" valign="top">
+						
+				<a href="javascript:showLeftNav('t100')" style="text-decoration:none">
+				<img id="i100" src="/images/arrow_grey_closed.gif" width="7" height="7" border="0" alt="">	
+								</a>
+								</td>
+								<td style="padding-left:3px">
+								<a class="directory" style="text-decoration:none" href="http://www.boots.com/">Our Shop		
+								</a>							
+						</td>						
+					</tr> <!--Displayed dir name -->
+
+					<tr> <!--Start Displaying the contents -->
+						<td colspan="2">
+							<div id="t100" style="display:none">
+							<table width="100%" cellpadding="0" cellspacing="0" border="0" bordercolor="blue"><!--Table Displaying the contents -->
+								
+									
+
+
+
+							<form name="deptLevelShow_0" id="deptLevelShow_0" method="post" action="/microsites/microsite_info_template.jsp?contentId=4113&amp;wblinktype=BL"></form>
+					
+					<tbody><tr height="16"><!--Row 1 Displaying the departments -->
+					<td style="padding-left:3px" width="10%" valign="top">	
+					<input type="hidden" id="newUrlId_0" name="newUrlId_0">				
+						
+							<input type="hidden" id="statusDeptLevel1" name="statusDeptLevel1" value="off">
+
+							<input type="hidden" id="divIdLevel1" name="divIdLevel1">
+							<input type="hidden" id="classIdLevel1" name="classIdLevel1">
+
+							<a class="level1nav" target="_self" href="#" onclick="showDeptLevel( 'lm0100' ,'1013392',null,null,'deptLevelShow_0'); " style="text-decoration:none">	
+								<img id="im0100" src="/images/arrow_grey_closed.gif" width="7" height="7" border="0" alt="">
+							</a>
+					
+					</td>
+
+					
+					<td style="padding-left:3px" valign="top">
+					<a class="level1" style="text-decoration:none" href="http://www.boots.com/shop/department.jsp?classificationid=1013392&amp;wblinktype=HPD&amp;wblinkdetail=D1P1">
+					Baby
+					</a>								
+					</td></tr>
+					<tr><td style="padding-left:3px" colspan="2">
+										
+					</td>			
+					</tr><!--End row 1 Displaying the contents -->
+				
+							<form name="deptLevelShow_1" id="deptLevelShow_1" method="post" action="/microsites/microsite_info_template.jsp?contentId=4113&amp;wblinktype=BL"></form>
+					
+					<tr height="16"><!--Row 1 Displaying the departments -->
+					<td style="padding-left:3px" width="10%" valign="top">	
+					<input type="hidden" id="newUrlId_1" name="newUrlId_1">				
+						
+							<input type="hidden" id="statusDeptLevel1" name="statusDeptLevel1" value="off">
+
+							<input type="hidden" id="divIdLevel1" name="divIdLevel1">
+							<input type="hidden" id="classIdLevel1" name="classIdLevel1">
+
+							<a class="level1nav" target="_self" href="#" onclick="showDeptLevel( 'lm1100' ,'2',null,null,'deptLevelShow_1'); " style="text-decoration:none">	
+								<img id="im1100" src="/images/arrow_grey_closed.gif" width="7" height="7" border="0" alt="">
+							</a>
+					
+					</td>
+
+					
+					<td style="padding-left:3px" valign="top">
+					<a class="level1" style="text-decoration:none" href="http://www.boots.com/shop/department.jsp?classificationid=2&amp;wblinktype=HPD&amp;wblinkdetail=D1P2">
+					Beauty &amp; Toiletries
+					</a>								
+					</td></tr>
+					<tr><td style="padding-left:3px" colspan="2">
+										
+					</td>			
+					</tr><!--End row 1 Displaying the contents -->
+				
+							<form name="deptLevelShow_2" id="deptLevelShow_2" method="post" action="/microsites/microsite_info_template.jsp?contentId=4113&amp;wblinktype=BL"></form>
+					
+					<tr height="16"><!--Row 1 Displaying the departments -->
+					<td style="padding-left:3px" width="10%" valign="top">	
+					<input type="hidden" id="newUrlId_2" name="newUrlId_2">				
+						
+							<input type="hidden" id="statusDeptLevel1" name="statusDeptLevel1" value="off">
+
+							<input type="hidden" id="divIdLevel1" name="divIdLevel1">
+							<input type="hidden" id="classIdLevel1" name="classIdLevel1">
+
+							<a class="level1nav" target="_self" href="#" onclick="showDeptLevel( 'lm2100' ,'1043628',null,null,'deptLevelShow_2'); " style="text-decoration:none">	
+								<img id="im2100" src="/images/arrow_grey_closed.gif" width="7" height="7" border="0" alt="">
+							</a>
+					
+					</td>
+
+					
+					<td style="padding-left:3px" valign="top">
+					<a class="level1" style="text-decoration:none" href="http://www.boots.com/shop/department.jsp?classificationid=1043628&amp;wblinktype=HPD&amp;wblinkdetail=D1P3">
+					Christmas
+					</a>								
+					</td></tr>
+					<tr><td style="padding-left:3px" colspan="2">
+										
+					</td>			
+					</tr><!--End row 1 Displaying the contents -->
+				
+							<form name="deptLevelShow_3" id="deptLevelShow_3" method="post" action="/microsites/microsite_info_template.jsp?contentId=4113&amp;wblinktype=BL"></form>
+					
+					<tr height="16"><!--Row 1 Displaying the departments -->
+					<td style="padding-left:3px" width="10%" valign="top">	
+					<input type="hidden" id="newUrlId_3" name="newUrlId_3">				
+						
+							<input type="hidden" id="statusDeptLevel1" name="statusDeptLevel1" value="off">
+
+							<input type="hidden" id="divIdLevel1" name="divIdLevel1">
+							<input type="hidden" id="classIdLevel1" name="classIdLevel1">
+
+							<a class="level1nav" target="_self" href="#" onclick="showDeptLevel( 'lm3100' ,'1021495',null,null,'deptLevelShow_3'); " style="text-decoration:none">	
+								<img id="im3100" src="/images/arrow_grey_closed.gif" width="7" height="7" border="0" alt="">
+							</a>
+					
+					</td>
+
+					
+					<td style="padding-left:3px" valign="top">
+					<a class="level1" style="text-decoration:none" href="http://www.boots.com/shop/department.jsp?classificationid=1021495&amp;wblinktype=HPD&amp;wblinkdetail=D1P4">
+					Electrical
+					</a>								
+					</td></tr>
+					<tr><td style="padding-left:3px" colspan="2">
+										
+					</td>			
+					</tr><!--End row 1 Displaying the contents -->
+				
+							<form name="deptLevelShow_4" id="deptLevelShow_4" method="post" action="/microsites/microsite_info_template.jsp?contentId=4113&amp;wblinktype=BL"></form>
+					
+					<tr height="16"><!--Row 1 Displaying the departments -->
+					<td style="padding-left:3px" width="10%" valign="top">	
+					<input type="hidden" id="newUrlId_4" name="newUrlId_4">				
+						
+							<input type="hidden" id="statusDeptLevel1" name="statusDeptLevel1" value="off">
+
+							<input type="hidden" id="divIdLevel1" name="divIdLevel1">
+							<input type="hidden" id="classIdLevel1" name="classIdLevel1">
+
+							<a class="level1nav" target="_self" href="#" onclick="showDeptLevel( 'lm4100' ,'1041626',null,null,'deptLevelShow_4'); " style="text-decoration:none">	
+								<img id="im4100" src="/images/arrow_grey_closed.gif" width="7" height="7" border="0" alt="">
+							</a>
+					
+					</td>
+
+					
+					<td style="padding-left:3px" valign="top">
+					<a class="level1" style="text-decoration:none" href="http://www.boots.com/onlineexperience/flexible_template_2006.jsp?classificationid=1003842">
+					Fragrance
+					</a>								
+					</td></tr>
+					<tr><td style="padding-left:3px" colspan="2">
+										
+					</td>			
+					</tr><!--End row 1 Displaying the contents -->
+				
+							<form name="deptLevelShow_5" id="deptLevelShow_5" method="post" action="/microsites/microsite_info_template.jsp?contentId=4113&amp;wblinktype=BL"></form>
+					
+					<tr height="16"><!--Row 1 Displaying the departments -->
+					<td style="padding-left:3px" width="10%" valign="top">	
+					<input type="hidden" id="newUrlId_5" name="newUrlId_5">				
+						
+							<input type="hidden" id="statusDeptLevel1" name="statusDeptLevel1" value="off">
+
+							<input type="hidden" id="divIdLevel1" name="divIdLevel1">
+							<input type="hidden" id="classIdLevel1" name="classIdLevel1">
+
+							<a class="level1nav" target="_self" href="#" onclick="showDeptLevel( 'lm5100' ,'566',null,null,'deptLevelShow_5'); " style="text-decoration:none">	
+								<img id="im5100" src="/images/arrow_grey_closed.gif" width="7" height="7" border="0" alt="">
+							</a>
+					
+					</td>
+
+					
+					<td style="padding-left:3px" valign="top">
+					<a class="level1" style="text-decoration:none" href="http://www.boots.com/shop/department.jsp?classificationid=566&amp;wblinktype=HPD&amp;wblinkdetail=D1P6">
+					Men
+					</a>								
+					</td></tr>
+					<tr><td style="padding-left:3px" colspan="2">
+										
+					</td>			
+					</tr><!--End row 1 Displaying the contents -->
+				
+							<form name="deptLevelShow_6" id="deptLevelShow_6" method="post" action="/microsites/microsite_info_template.jsp?contentId=4113&amp;wblinktype=BL"></form>
+					
+					<tr height="16"><!--Row 1 Displaying the departments -->
+					<td style="padding-left:3px" width="10%" valign="top">	
+					<input type="hidden" id="newUrlId_6" name="newUrlId_6">				
+						
+							<input type="hidden" id="statusDeptLevel1" name="statusDeptLevel1" value="off">
+
+							<input type="hidden" id="divIdLevel1" name="divIdLevel1">
+							<input type="hidden" id="classIdLevel1" name="classIdLevel1">
+
+							<a class="level1nav" target="_self" href="#" onclick="showDeptLevel( 'lm6100' ,'1001130',null,null,'deptLevelShow_6'); " style="text-decoration:none">	
+								<img id="im6100" src="/images/arrow_grey_closed.gif" width="7" height="7" border="0" alt="">
+							</a>
+					
+					</td>
+
+					
+					<td style="padding-left:3px" valign="top">
+					<a class="level1" style="text-decoration:none" href="http://www.boots.com/shop/department.jsp?classificationid=1001130&amp;wblinktype=HPD&amp;wblinkdetail=D1P7">
+					Offers
+					</a>								
+					</td></tr>
+					<tr><td style="padding-left:3px" colspan="2">
+										
+					</td>			
+					</tr><!--End row 1 Displaying the contents -->
+				
+							<form name="deptLevelShow_7" id="deptLevelShow_7" method="post" action="/microsites/microsite_info_template.jsp?contentId=4113&amp;wblinktype=BL"></form>
+					
+					<tr height="16"><!--Row 1 Displaying the departments -->
+					<td style="padding-left:3px" width="10%" valign="top">	
+					<input type="hidden" id="newUrlId_7" name="newUrlId_7">				
+						
+							<input type="hidden" id="statusDeptLevel1" name="statusDeptLevel1" value="off">
+
+							<input type="hidden" id="divIdLevel1" name="divIdLevel1">
+							<input type="hidden" id="classIdLevel1" name="classIdLevel1">
+
+							<a class="level1nav" target="_self" href="#" onclick="showDeptLevel( 'lm7100' ,'373',null,null,'deptLevelShow_7'); " style="text-decoration:none">	
+								<img id="im7100" src="/images/arrow_grey_closed.gif" width="7" height="7" border="0" alt="">
+							</a>
+					
+					</td>
+
+					
+					<td style="padding-left:3px" valign="top">
+					<a class="level1" style="text-decoration:none" href="http://www.boots.com/shop/department.jsp?classificationid=373&amp;wblinktype=HPD&amp;wblinkdetail=D1P8">
+					Pharmacy &amp; Health
+					</a>								
+					</td></tr>
+					<tr><td style="padding-left:3px" colspan="2">
+										
+					</td>			
+					</tr><!--End row 1 Displaying the contents -->
+				
+							<form name="deptLevelShow_8" id="deptLevelShow_8" method="post" action="/microsites/microsite_info_template.jsp?contentId=4113&amp;wblinktype=BL"></form>
+					
+					<tr height="16"><!--Row 1 Displaying the departments -->
+					<td style="padding-left:3px" width="10%" valign="top">	
+					<input type="hidden" id="newUrlId_8" name="newUrlId_8">				
+						
+							<input type="hidden" id="statusDeptLevel1" name="statusDeptLevel1" value="off">
+
+							<input type="hidden" id="divIdLevel1" name="divIdLevel1">
+							<input type="hidden" id="classIdLevel1" name="classIdLevel1">
+
+							<a class="level1nav" target="_self" href="#" onclick="showDeptLevel( 'lm8100' ,'1021494',null,null,'deptLevelShow_8'); " style="text-decoration:none">	
+								<img id="im8100" src="/images/arrow_grey_closed.gif" width="7" height="7" border="0" alt="">
+							</a>
+					
+					</td>
+
+					
+					<td style="padding-left:3px" valign="top">
+					<a class="level1" style="text-decoration:none" href="http://www.boots.com/shop/department.jsp?classificationid=1021494&amp;wblinktype=HPD&amp;wblinkdetail=D1P9">
+					Photo
+					</a>								
+					</td></tr>
+					<tr><td style="padding-left:3px" colspan="2">
+										
+					</td>			
+					</tr><!--End row 1 Displaying the contents -->
+				
+							<form name="deptLevelShow_9" id="deptLevelShow_9" method="post" action="/microsites/microsite_info_template.jsp?contentId=4113&amp;wblinktype=BL"></form>
+					
+					<tr height="16"><!--Row 1 Displaying the departments -->
+					<td style="padding-left:3px" width="10%" valign="top">	
+					<input type="hidden" id="newUrlId_9" name="newUrlId_9">				
+						
+							<input type="hidden" id="statusDeptLevel1" name="statusDeptLevel1" value="off">
+
+							<input type="hidden" id="divIdLevel1" name="divIdLevel1">
+							<input type="hidden" id="classIdLevel1" name="classIdLevel1">
+
+							<a class="level1nav" target="_self" href="#" onclick="showDeptLevel( 'lm9100' ,'1041625',null,null,'deptLevelShow_9'); " style="text-decoration:none">	
+								<img id="im9100" src="/images/arrow_grey_closed.gif" width="7" height="7" border="0" alt="">
+							</a>
+					
+					</td>
+
+					
+					<td style="padding-left:3px" valign="top">
+					<a class="level1" style="text-decoration:none" href="http://www.boots.com/onlineexperience/flexible_template_2006.jsp?classificationid=1004242">
+					Premium beauty
+					</a>								
+					</td></tr>
+					<tr><td style="padding-left:3px" colspan="2">
+										
+					</td>			
+					</tr><!--End row 1 Displaying the contents -->
+				
+							<form name="deptLevelShow_10" id="deptLevelShow_10" method="post" action="/microsites/microsite_info_template.jsp?contentId=4113&amp;wblinktype=BL"></form>
+					
+					<tr height="16"><!--Row 1 Displaying the departments -->
+					<td style="padding-left:3px" width="10%" valign="top">	
+					<input type="hidden" id="newUrlId_10" name="newUrlId_10">				
+						
+							<input type="hidden" id="statusDeptLevel1" name="statusDeptLevel1" value="off">
+
+							<input type="hidden" id="divIdLevel1" name="divIdLevel1">
+							<input type="hidden" id="classIdLevel1" name="classIdLevel1">
+
+							<a class="level1nav" target="_self" href="#" onclick="showDeptLevel( 'lm10100' ,'1031605',null,null,'deptLevelShow_10'); " style="text-decoration:none">	
+								<img id="im10100" src="/images/arrow_grey_closed.gif" width="7" height="7" border="0" alt="">
+							</a>
+					
+					</td>
+
+					
+					<td style="padding-left:3px" valign="top">
+					<a class="level1" style="text-decoration:none" href="http://www.boots.com/shop/department.jsp?classificationid=1031605&amp;wblinktype=HPD&amp;wblinkdetail=D1P11">
+					Toys
+					</a>								
+					</td></tr>
+					<tr><td style="padding-left:3px" colspan="2">
+										
+					</td>			
+					</tr><!--End row 1 Displaying the contents -->
+				
+
+
+									
+					</tbody></table>
+					</div>
+					</td>					
+					</tr>
+
+					<tr height="16">
+						<td nowrap="" colspan="2">---------------------</td>						
+					</tr>
+				</tbody></table>
+
+				<table width="100%" border="0" cellpadding="0" cellspacing="0" bordercolor="#70C5BA" bgcolor="white">
+					<tbody><tr height="16">
+						<td height="16" style="padding-left:2px" width="10%" valign="top">
+						
+				<a href="javascript:showLeftNav('t101')" style="text-decoration:none">
+				<img id="i101" src="/images/arrow_grey_closed.gif" width="7" height="7" border="0" alt="">	
+								</a>
+								</td>
+								<td style="padding-left:3px">
+								<a class="directory" style="text-decoration:none" href="http://www.boots.com/homePage/BootsHome.html">More from Boots		
+								</a>							
+						</td>						
+					</tr> <!--Displayed dir name -->
+
+					<tr> <!--Start Displaying the contents -->
+						<td colspan="2">
+							<div id="t101" style="display:none">
+							<table width="100%" cellpadding="0" cellspacing="0" border="0" bordercolor="blue"><!--Table Displaying the contents -->
+								
+									
+<tbody><tr height="16">
+<td style="padding-left:5px" valign="top" width="10%"> 		
+
+<a class="level1" href="javascript:showLeftNav( 'lm0101' ); " style="text-decoration:none">
+<img id="im0101" src="/images/arrow_grey_closed.gif" width="7" height="7" border="0" alt="">
+</a>
+
+</td>
+<td style="padding-left:5px" valign="top">
+															<a id="anchor0101" name="anchor0101" class="level1" style="text-decoration:none" href="http://www.boots.com/microsites/microsite_homepage.jsp?contentId=2915&amp;wblinktype=adcrdpoints&amp;&amp;openDirectory=2">
+Advantage Card
+</a>
+</td>
+</tr>
+
+<tr><td></td><td>
+
+<div class="level2" style="text-decoration:none" id="lm0101">
+																						<table width="100%" cellpadding="0" cellspacing="0" border="0" bordercolor="red">
+
+<tbody><tr><td style="padding-left:5px" valign="top" width="10%">
+
+<a href="javascript:showLeftNav('0n0101')" style="text-decoration:none">
+<img id="i0n0101" src="/images/arrow_grey_closed.gif" width="7" height="7" border="0" alt="">
+</a>
+		
+</td>
+<td style="padding-left:5px" valign="top">
+<a style="text-decoration:none" class="level2" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5290&amp;openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K1"> 
+</a><a href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5290&amp;openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K1">Apply for a card</a>
+
+</td>
+</tr>
+
+<tr><td></td><td style="padding-left:10px">
+<div class="level3" id="0n0101" style="display: none">
+																													<table width="100%" cellpadding="0" cellspacing="0" border="0" bordercolor="green">
+
+<tbody><tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5290&amp;tabParamValue=openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K1L1">
+Apply for a card
+</a>																																									
+</td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5355&amp;tabParamValue=openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K1L2">
+Why you'll love your card
+</a>																																									
+</td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5278&amp;tabParamValue=openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K1L3">
+Collecting points
+</a>																																									
+</td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5280&amp;tabParamValue=openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K1L4">
+Check my points balance
+</a>																																									
+</td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5278&amp;tabParamValue=openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K1L5">
+Spending points
+</a>																																									
+</td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5286&amp;tabParamValue=openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K1L6">
+Update my details
+</a>																																									
+</td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5288&amp;tabParamValue=openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K1L7">
+Lost, stolen or damaged cards
+</a>																																									
+</td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5288&amp;tabParamValue=openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K1L8">
+Find my nearest Advantage Point machine
+</a>																																									
+</td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5357&amp;tabParamValue=openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K1L9">
+Your questions answered
+</a>																																									
+</td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=2892&amp;tabParamValue=openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K1L10">
+Terms &amp; Conditions
+</a>																																									
+</td></tr>
+																													
+																														</tbody></table>
+</div></td>
+																												</tr>	 
+
+<tr><td style="padding-left:5px" valign="top" width="10%">
+
+<a href="javascript:showLeftNav('0n1101')" style="text-decoration:none">
+<img id="i0n1101" src="/images/arrow_grey_closed.gif" width="7" height="7" border="0" alt="">
+</a>
+		
+</td>
+<td style="padding-left:5px" valign="top">
+<a style="text-decoration:none" class="level2" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5280&amp;openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K2"> 
+</a><a href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5280&amp;openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K2">Why you'll love your Advantage Card</a>
+
+</td>
+</tr>
+
+<tr><td></td><td style="padding-left:10px">
+<div class="level3" id="0n1101" style="display: none">
+																													<table width="100%" cellpadding="0" cellspacing="0" border="0" bordercolor="green">
+
+<tbody><tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5290&amp;tabParamValue=openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K2L1">
+Apply for a card
+</a>																																									
+</td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5355&amp;tabParamValue=openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K2L2">
+Why you'll love your card
+</a>																																									
+</td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5282&amp;tabParamValue=openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K2L3">
+Collecting points
+</a>																																									
+</td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5280&amp;tabParamValue=openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K2L4">
+Check my points balance
+</a>																																									
+</td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5278&amp;tabParamValue=openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K2L5">
+Spending points
+</a>																																									
+</td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5286&amp;tabParamValue=openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K2L6">
+Update my details
+</a>																																									
+</td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5288&amp;tabParamValue=openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K2L7">
+Lost, stolen or damaged cards
+</a>																																									
+</td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5284&amp;tabParamValue=openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K2L8">
+Find nearest Advantage Card machine
+</a>																																									
+</td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5357&amp;tabParamValue=openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K2L9">
+Your questions answered
+</a>																																									
+</td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=2892&amp;tabParamValue=openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K2L10">
+Terms &amp; conditions
+</a>																																									
+</td></tr>
+																													
+																														</tbody></table>
+</div></td>
+																												</tr>	 
+
+<tr><td style="padding-left:5px" valign="top" width="10%">
+
+<a href="javascript:showLeftNav('0n2101')" style="text-decoration:none">
+<img id="i0n2101" src="/images/arrow_grey_closed.gif" width="7" height="7" border="0" alt="">
+</a>
+		
+</td>
+<td style="padding-left:5px" valign="top">
+<a style="text-decoration:none" class="level2" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5282&amp;openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K3"> 
+</a><a href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5282&amp;openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K3">Collecting points</a>
+
+</td>
+</tr>
+
+<tr><td></td><td style="padding-left:10px">
+<div class="level3" id="0n2101" style="display: none">
+																													<table width="100%" cellpadding="0" cellspacing="0" border="0" bordercolor="green">
+
+<tbody><tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5290&amp;tabParamValue=openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K3L1">
+Apply for a card
+</a>																																									
+</td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5355&amp;tabParamValue=openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K3L2">
+Why you'll love your card
+</a>																																									
+</td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5282&amp;tabParamValue=openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K3L3">
+Collecting points
+</a>																																									
+</td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5280&amp;tabParamValue=openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K3L4">
+Check my points balance
+</a>																																									
+</td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5278&amp;tabParamValue=openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K3L5">
+Spending points
+</a>																																									
+</td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5286&amp;tabParamValue=openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K3L6">
+Update my details
+</a>																																									
+</td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5288&amp;tabParamValue=openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K3L7">
+Lost, stolen or damaged card?
+</a>																																									
+</td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5284&amp;tabParamValue=openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K3L8">
+Find my nearest Advantage Point machine
+</a>																																									
+</td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5357&amp;tabParamValue=openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K3L9">
+Your questions answered
+</a>																																									
+</td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=2892&amp;tabParamValue=openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K3L10">
+Terms &amp; Conditions
+</a>																																									
+</td></tr>
+																													
+																														</tbody></table>
+</div></td>
+																												</tr>	 
+
+<tr><td style="padding-left:5px" valign="top" width="10%">
+
+<a href="javascript:showLeftNav('0n3101')" style="text-decoration:none">
+<img id="i0n3101" src="/images/arrow_grey_closed.gif" width="7" height="7" border="0" alt="">
+</a>
+		
+</td>
+<td style="padding-left:5px" valign="top">
+<a style="text-decoration:none" class="level2" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5280&amp;openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K4"> 
+</a><a href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5280&amp;openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K4">Check my points balance</a>
+
+</td>
+</tr>
+
+<tr><td></td><td style="padding-left:10px">
+<div class="level3" id="0n3101" style="display: none">
+																													<table width="100%" cellpadding="0" cellspacing="0" border="0" bordercolor="green">
+
+<tbody><tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5290&amp;tabParamValue=openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K4L1">
+Apply for a card
+</a>																																									
+</td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5355&amp;tabParamValue=openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K4L2">
+Why you'll love your card
+</a>																																									
+</td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5282&amp;tabParamValue=openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K4L3">
+Collecting points
+</a>																																									
+</td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5280&amp;tabParamValue=openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K4L4">
+Check my points balance
+</a>																																									
+</td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5278&amp;tabParamValue=openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K4L5">
+Spending points
+</a>																																									
+</td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5286&amp;tabParamValue=openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K4L6">
+Update my details
+</a>																																									
+</td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5288&amp;tabParamValue=openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K4L7">
+Lost, stolen or damaged cards
+</a>																																									
+</td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5284&amp;tabParamValue=openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K4L8">
+Find nearest Advantage Card machine
+</a>																																									
+</td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5357&amp;tabParamValue=openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K4L9">
+Your questions answered
+</a>																																									
+</td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=2892&amp;tabParamValue=openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K4L10">
+Terms &amp; conditions
+</a>																																									
+</td></tr>
+																													
+																														</tbody></table>
+</div></td>
+																												</tr>	 
+
+<tr><td style="padding-left:5px" valign="top" width="10%">
+
+<a href="javascript:showLeftNav('0n4101')" style="text-decoration:none">
+<img id="i0n4101" src="/images/arrow_grey_closed.gif" width="7" height="7" border="0" alt="">
+</a>
+		
+</td>
+<td style="padding-left:5px" valign="top">
+<a style="text-decoration:none" class="level2" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5278&amp;tabParamValue=notShop&amp;openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K5"> 
+</a><a href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5278&amp;tabParamValue=notShop&amp;openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K5">Spending points</a>
+
+</td>
+</tr>
+
+<tr><td></td><td style="padding-left:10px">
+<div class="level3" id="0n4101" style="display: none">
+																													<table width="100%" cellpadding="0" cellspacing="0" border="0" bordercolor="green">
+
+<tbody><tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5290&amp;tabParamValue=openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K5L1">
+Apply for a card
+</a>																																									
+</td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5355&amp;tabParamValue=openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K5L2">
+Why you'll love your card
+</a>																																									
+</td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5282&amp;tabParamValue=openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K5L3">
+Collecting points
+</a>																																									
+</td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5280&amp;tabParamValue=openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K5L4">
+Check my points balance
+</a>																																									
+</td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5278&amp;tabParamValue=openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K5L5">
+Spending points
+</a>																																									
+</td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5286&amp;tabParamValue=openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K5L6">
+Update my details
+</a>																																									
+</td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5288&amp;tabParamValue=openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K5L7">
+Lost, stolen or damaged card?
+</a>																																									
+</td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5284&amp;tabParamValue=openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K5L8">
+My nearest Advantage Point machine
+</a>																																									
+</td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5357&amp;tabParamValue=openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K5L9">
+Your questions answered
+</a>																																									
+</td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=2892&amp;tabParamValue=openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K5L10">
+Terms &amp; Conditions
+</a>																																									
+</td></tr>
+																													
+																														</tbody></table>
+</div></td>
+																												</tr>	 
+
+<tr><td style="padding-left:5px" valign="top" width="10%">
+
+<a href="javascript:showLeftNav('0n5101')" style="text-decoration:none">
+<img id="i0n5101" src="/images/arrow_grey_closed.gif" width="7" height="7" border="0" alt="">
+</a>
+		
+</td>
+<td style="padding-left:5px" valign="top">
+<a style="text-decoration:none" class="level2" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5286&amp;openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K6"> 
+</a><a href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5286&amp;openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K6">Update my details</a>
+
+</td>
+</tr>
+
+<tr><td></td><td style="padding-left:10px">
+<div class="level3" id="0n5101" style="display: none">
+																													<table width="100%" cellpadding="0" cellspacing="0" border="0" bordercolor="green">
+
+<tbody><tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5290&amp;tabParamValue=openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K6L1">
+Apply for a card
+</a>																																									
+</td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5355&amp;tabParamValue=openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K6L2">
+Why you'll love your card
+</a>																																									
+</td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5282&amp;tabParamValue=openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K6L3">
+Collecting points
+</a>																																									
+</td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5280&amp;tabParamValue=openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K6L4">
+Check my points balance
+</a>																																									
+</td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5278&amp;tabParamValue=openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K6L5">
+Spending points
+</a>																																									
+</td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5286&amp;tabParamValue=openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K6L6">
+Update my details
+</a>																																									
+</td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5288&amp;tabParamValue=openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K6L7">
+Lost, stolen or damaged card
+</a>																																									
+</td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5284&amp;tabParamValue=openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K6L8">
+My nearest Advantage Point machine
+</a>																																									
+</td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5357&amp;tabParamValue=openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K6L9">
+Your questions answered
+</a>																																									
+</td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=2892&amp;tabParamValue=openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K6L10">
+Terms &amp; Conditions
+</a>																																									
+</td></tr>
+																													
+																														</tbody></table>
+</div></td>
+																												</tr>	 
+
+<tr><td style="padding-left:5px" valign="top" width="10%">
+
+<a href="javascript:showLeftNav('0n6101')" style="text-decoration:none">
+<img id="i0n6101" src="/images/arrow_grey_closed.gif" width="7" height="7" border="0" alt="">
+</a>
+		
+</td>
+<td style="padding-left:5px" valign="top">
+<a style="text-decoration:none" class="level2" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5288&amp;openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K7"> 
+</a><a href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5288&amp;openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K7">Lost, stolen or damaged cards</a>
+
+</td>
+</tr>
+
+<tr><td></td><td style="padding-left:10px">
+<div class="level3" id="0n6101" style="display: none">
+																													<table width="100%" cellpadding="0" cellspacing="0" border="0" bordercolor="green">
+
+<tbody><tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5290&amp;tabParamValue=openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K7L1">
+Apply for a card
+</a>																																									
+</td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5355&amp;tabParamValue=openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K7L2">
+Why you'll love your card
+</a>																																									
+</td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5282&amp;tabParamValue=openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K7L3">
+Collecting points
+</a>																																									
+</td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5280&amp;tabParamValue=openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K7L4">
+Check my points balance
+</a>																																									
+</td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5278&amp;tabParamValue=openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K7L5">
+Spending points
+</a>																																									
+</td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5286&amp;tabParamValue=openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K7L6">
+Update my details
+</a>																																									
+</td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5288&amp;tabParamValue=openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K7L7">
+Lost, stolen or damaged card?
+</a>																																									
+</td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5284&amp;tabParamValue=openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K7L8">
+My nearest Advantage Point machine
+</a>																																									
+</td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5357&amp;tabParamValue=openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K7L9">
+Your questions answered
+</a>																																									
+</td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=2892&amp;tabParamValue=openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K7L10">
+Terms &amp; Conditions
+</a>																																									
+</td></tr>
+																													
+																														</tbody></table>
+</div></td>
+																												</tr>	 
+
+<tr><td style="padding-left:5px" valign="top" width="10%">
+
+<a href="javascript:showLeftNav('0n7101')" style="text-decoration:none">
+<img id="i0n7101" src="/images/arrow_grey_closed.gif" width="7" height="7" border="0" alt="">
+</a>
+		
+</td>
+<td style="padding-left:5px" valign="top">
+<a style="text-decoration:none" class="level2" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5284&amp;openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K8"> 
+</a><a href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5284&amp;openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K8">Find my nearest AdCard machine</a>
+
+</td>
+</tr>
+
+<tr><td></td><td style="padding-left:10px">
+<div class="level3" id="0n7101" style="display: none">
+																													<table width="100%" cellpadding="0" cellspacing="0" border="0" bordercolor="green">
+
+<tbody><tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5290&amp;tabParamValue=openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K8L1">
+Apply for a card
+</a>																																									
+</td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5355&amp;tabParamValue=openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K8L2">
+Why you'll love your card
+</a>																																									
+</td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5282&amp;tabParamValue=openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K8L3">
+Collecting points
+</a>																																									
+</td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5280&amp;tabParamValue=openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K8L4">
+Check my points balance
+</a>																																									
+</td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5278&amp;tabParamValue=openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K8L5">
+Spending points
+</a>																																									
+</td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5286&amp;tabParamValue=openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K8L6">
+Update my details
+</a>																																									
+</td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5288&amp;tabParamValue=openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K8L7">
+Lost, stolen or damaged card?
+</a>																																									
+</td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5284&amp;tabParamValue=openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K8L8">
+My nearest Advantage Point machine
+</a>																																									
+</td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5357&amp;tabParamValue=openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K8L9">
+Your questions answered
+</a>																																									
+</td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=2892&amp;tabParamValue=openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K8L10">
+Terms &amp; Conditions
+</a>																																									
+</td></tr>
+																													
+																														</tbody></table>
+</div></td>
+																												</tr>	 
+
+<tr><td style="padding-left:5px" valign="top" width="10%">
+
+<a href="javascript:showLeftNav('0n8101')" style="text-decoration:none">
+<img id="i0n8101" src="/images/arrow_grey_closed.gif" width="7" height="7" border="0" alt="">
+</a>
+		
+</td>
+<td style="padding-left:5px" valign="top">
+<a style="text-decoration:none" class="level2" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5357&amp;tabParamValue=notShop&amp;openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K9"> 
+</a><a href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5357&amp;tabParamValue=notShop&amp;openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K9">Your questions answered</a>
+
+</td>
+</tr>
+
+<tr><td></td><td style="padding-left:10px">
+<div class="level3" id="0n8101" style="display: none">
+																													<table width="100%" cellpadding="0" cellspacing="0" border="0" bordercolor="green">
+
+<tbody><tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5290&amp;tabParamValue=openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K9L1">
+Apply for a card
+</a>																																									
+</td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5355&amp;tabParamValue=openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K9L2">
+Why you'll love your card
+</a>																																									
+</td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5282&amp;tabParamValue=openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K9L3">
+Collecting points
+</a>																																									
+</td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5280&amp;tabParamValue=openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K9L4">
+Check my points balance
+</a>																																									
+</td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5278&amp;tabParamValue=openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K9L5">
+Spending points
+</a>																																									
+</td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5286&amp;tabParamValue=openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K9L6">
+Update my details
+</a>																																									
+</td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5288&amp;tabParamValue=openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K9L7">
+Lost, stolen or damaged cards
+</a>																																									
+</td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5284&amp;tabParamValue=openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K9L8">
+My nearest Advantage point machine
+</a>																																									
+</td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5357&amp;tabParamValue=openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K9L9">
+Your questions answered
+</a>																																									
+</td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=2892&amp;tabParamValue=openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P1K9L10">
+Terms &amp; Conditions
+</a>																																									
+</td></tr>
+																													
+																														</tbody></table>
+</div></td>
+																												</tr>	 
+
+
+																			</tbody></table> 
+																		</div>
+
+</td>		
+</tr>
+
+<tr height="16">
+<td style="padding-left:5px" valign="top" width="10%"> 		
+<img id="im1101" src="/assets/global/px_trans.gif" border="0" alt="" width="3" height="5">
+
+</td>
+<td style="padding-left:5px" valign="top">
+															<a id="anchor1101" name="anchor1101" class="level1" style="text-decoration:none" href="http://www.bootshealthclub.com/index.html?wblinktype=HPD&amp;wblinkdetail=D2P2&amp;openDirectory=2">
+Health Club
+</a>
+</td>
+</tr>
+
+
+<tr height="16">
+<td style="padding-left:5px" valign="top" width="10%"> 		
+<img id="im2101" src="/assets/global/px_trans.gif" border="0" alt="" width="3" height="5">
+
+</td>
+<td style="padding-left:5px" valign="top">
+															<a id="anchor2101" name="anchor2101" class="level1" style="text-decoration:none" href="http://www.bootsparentingclub.com/index.html?wblinktype=HPD&amp;wblinkdetail=D2P3&amp;openDirectory=2">
+Parenting Club
+</a>
+</td>
+</tr>
+
+
+<tr height="16">
+<td style="padding-left:5px" valign="top" width="10%"> 		
+
+<a class="level1" href="javascript:showLeftNav( 'lm3101' ); " style="text-decoration:none">
+<img id="im3101" src="/images/arrow_grey_closed.gif" width="7" height="7" border="0" alt="">
+</a>
+
+</td>
+<td style="padding-left:5px" valign="top">
+															<a id="anchor3101" name="anchor3101" class="level1" style="text-decoration:none" href="http://www.boots.com/microsites/microsite_homepage.jsp?contentId=2775&amp;wblinktype=HPD&amp;wblinkdetail=D3P7&amp;tabParamValue=notShop&amp;openDirectory=3">
+Insurance Services
+</a>
+</td>
+</tr>
+
+<tr><td></td><td>
+
+<div class="level2" style="text-decoration:none" id="lm3101">
+																						<table width="100%" cellpadding="0" cellspacing="0" border="0" bordercolor="red">
+
+<tbody><tr><td style="padding-left:5px" valign="top" width="10%">
+
+<a href="javascript:showLeftNav('3n0101')" style="text-decoration:none">
+<img id="i3n0101" src="/images/arrow_grey_closed.gif" width="7" height="7" border="0" alt="">
+</a>
+		
+</td>
+<td style="padding-left:5px" valign="top">
+<a style="text-decoration:none" class="level2" href="http://www.boots.com/microsites/microsite_homepage.jsp?contentId=2575&amp;openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P4K1"> 
+</a><a href="http://www.boots.com/microsites/microsite_homepage.jsp?contentId=2575&amp;openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P4K1">Travel Insurance</a>
+
+</td>
+</tr>
+
+<tr><td></td><td style="padding-left:10px">
+<div class="level3" id="3n0101" style="display: none">
+																													<table width="100%" cellpadding="0" cellspacing="0" border="0" bordercolor="green">
+
+<tbody><tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=2624&amp;openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P4K1L1">
+</a><a class="link1under" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=2624&amp;openDirectory=2"><b><font color="#B88A72">City Break</font></b></a>
+																																									
+</td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=2627&amp;openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P4K1L2">
+</a><a class="link1under" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=2627&amp;openDirectory=2"><b><font color="#007FCS">Single Trip</font></b></a><font color="#007FCS">
+																																									
+</font></td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=2653&amp;openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P4K1L3">
+</a><a class="link1under" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=2653&amp;openDirectory=2"><b><font color="#8177B7">Multi-Trip</font></b></a><font color="#8177B7">
+																																									
+</font></td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=2656&amp;openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P4K1L4">
+</a><a class="link1under" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=2656&amp;openDirectory=2"><b><font color="#429538">Gap Year</font></b></a><font color="#429538">
+																																									
+</font></td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=2662&amp;openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P4K1L5">
+</a><a class="link1under" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=2662&amp;openDirectory=2"><b>Travel Money</b></a>
+																																									
+</td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=2666&amp;openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P4K1L6">
+</a><a class="link1under" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=2666&amp;openDirectory=2"><b>Travel<br>Services</b></a>
+																																									
+</td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=4036&amp;openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P4K1L7">
+</a><a class="link1under" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=4036&amp;openDirectory=2"><b><font color="red">Key Information</font></b></a>
+																																									
+</td></tr>
+																													
+																														</tbody></table>
+</div></td>
+																												</tr>	 
+
+<tr><td style="padding-left:5px" valign="top" width="10%">
+
+<a href="javascript:showLeftNav('3n1101')" style="text-decoration:none">
+<img id="i3n1101" src="/images/arrow_grey_closed.gif" width="7" height="7" border="0" alt="">
+</a>
+		
+</td>
+<td style="padding-left:5px" valign="top">
+<a style="text-decoration:none" class="level2" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=2662&amp;openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P4K2"> 
+</a><a href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=2662&amp;openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P4K2">Travel Money and Services</a>
+
+</td>
+</tr>
+
+<tr><td></td><td style="padding-left:10px">
+<div class="level3" id="3n1101" style="display: none">
+																													<table width="100%" cellpadding="0" cellspacing="0" border="0" bordercolor="green">
+
+<tbody><tr><td>
+<a style="text-decoration:none" class="level3" href="javascript:openwin('/util/external_link_opener.jsp?URL=https://www.mytravelmoney.com/GPweb.ASP?agentid=0000000025')">
+Buy On-Line
+</a>																																									
+</td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=2663&amp;openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P4K2L2">
+Terms&nbsp;&amp;&nbsp;Conditions
+</a>																																									
+</td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=2665&amp;openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P4K2L3">
+Transaction&nbsp;Security
+</a>																																									
+</td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=2668&amp;openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P4K2L4">
+Airport Parking / Hotels
+</a>																																									
+</td></tr>
+																													
+																														</tbody></table>
+</div></td>
+																												</tr>	 
+
+<tr><td style="padding-left:5px" valign="top" width="10%">
+<img id="i3n2101" src="/assets/global/px_trans.gif" border="0" alt="" width="3" height="5">
+		
+</td>
+<td style="padding-left:5px" valign="top">
+<a style="text-decoration:none" class="level2" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=2714&amp;openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P4K3"> 
+</a><a href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=2714&amp;openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P4K3">Child Trust Fund</a>
+
+</td>
+</tr>
+
+
+<tr><td style="padding-left:5px" valign="top" width="10%">
+
+<a href="javascript:showLeftNav('3n3101')" style="text-decoration:none">
+<img id="i3n3101" src="/images/arrow_grey_closed.gif" width="7" height="7" border="0" alt="">
+</a>
+		
+</td>
+<td style="padding-left:5px" valign="top">
+<a style="text-decoration:none" class="level2" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=2604&amp;openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P4K4"> 
+</a><a href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=2604&amp;openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P4K4">Dental Plan</a>
+
+</td>
+</tr>
+
+<tr><td></td><td style="padding-left:10px">
+<div class="level3" id="3n3101" style="display: none">
+																													<table width="100%" cellpadding="0" cellspacing="0" border="0" bordercolor="green">
+
+<tbody><tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=2604&amp;openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P4K4L1">
+<b>Introduction</b>
+</a>																																									
+</td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=2605&amp;openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P4K4L2">
+How much?
+</a>																																									
+</td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=2606&amp;openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P4K4L3">
+Want to know more?
+</a>																																									
+</td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=2608&amp;openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P4K4L4">
+Find an NHS Dentist
+</a>																																									
+</td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=2608#private&amp;openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P4K4L5">
+Need to go Private?
+</a>																																									
+</td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_homepage.jsp?contentId=2775&amp;openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P4K4L6">
+Boots Insurance Home
+</a>																																									
+</td></tr>
+																													
+																														</tbody></table>
+</div></td>
+																												</tr>	 
+
+<tr><td style="padding-left:5px" valign="top" width="10%">
+<img id="i3n4101" src="/assets/global/px_trans.gif" border="0" alt="" width="3" height="5">
+		
+</td>
+<td style="padding-left:5px" valign="top">
+<a style="text-decoration:none" class="level2" href="http://www.bootshealthinsurance.com?openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P4K5"> 
+</a><a href="http://www.bootshealthinsurance.com?openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P4K5">Boots Health Insurance</a>
+
+</td>
+</tr>
+
+
+<tr><td style="padding-left:5px" valign="top" width="10%">
+<img id="i3n5101" src="/assets/global/px_trans.gif" border="0" alt="" width="3" height="5">
+		
+</td>
+<td style="padding-left:5px" valign="top">
+<a style="text-decoration:none" class="level2" href="http://www.bootshealthinsurance.com?openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P4K6"> 
+</a><a href="http://www.bootshealthinsurance.com?openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P4K6">Boots Health Insurance</a>
+
+</td>
+</tr>
+
+
+
+																			</tbody></table> 
+																		</div>
+
+</td>		
+</tr>
+
+<tr height="16">
+<td style="padding-left:5px" valign="top" width="10%"> 		
+<img id="im4101" src="/assets/global/px_trans.gif" border="0" alt="" width="3" height="5">
+
+</td>
+<td style="padding-left:5px" valign="top">
+															<a id="anchor4101" name="anchor4101" class="level1" style="text-decoration:none" href="http://www.bootsopticians.co.uk/?wblinktype=HPD&amp;wblinkdetail=D3P8&amp;tabParamValue=notShop&amp;openDirectory=3">
+Opticians
+</a>
+</td>
+</tr>
+
+
+<tr height="16">
+<td style="padding-left:5px" valign="top" width="10%"> 		
+
+<a class="level1" href="javascript:showLeftNav( 'lm5101' ); " style="text-decoration:none">
+<img id="im5101" src="/images/arrow_grey_closed.gif" width="7" height="7" border="0" alt="">
+</a>
+
+</td>
+<td style="padding-left:5px" valign="top">
+															<a id="anchor5101" name="anchor5101" class="level1" style="text-decoration:none" href="http://www.boots.com/microsites/microsite_homepage.jsp?contentId=3676&amp;wblinktype=HPD&amp;wblinkdetail=D2P6&amp;openDirectory=2">
+More online shops
+</a>
+</td>
+</tr>
+
+<tr><td></td><td>
+
+<div class="level2" style="text-decoration:none" id="lm5101">
+																						<table width="100%" cellpadding="0" cellspacing="0" border="0" bordercolor="red">
+
+<tbody><tr><td style="padding-left:5px" valign="top" width="10%">
+
+<a href="javascript:showLeftNav('5n0101')" style="text-decoration:none">
+<img id="i5n0101" src="/images/arrow_grey_closed.gif" width="7" height="7" border="0" alt="">
+</a>
+		
+</td>
+<td style="padding-left:5px" valign="top">
+<a style="text-decoration:none" class="level2" href="http://www.boots.com/microsites/microsite_homepage.jsp?contentId=3606&amp;openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P6K1"> 
+</a><a class="link1under" href="http://www.boots.com/microsites/microsite_homepage.jsp?contentId=3606&amp;openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P6K1">BUPA health checks</a>
+
+
+
+
+</td>
+</tr>
+
+<tr><td></td><td style="padding-left:10px">
+<div class="level3" id="5n0101" style="display: none">
+																													<table width="100%" cellpadding="0" cellspacing="0" border="0" bordercolor="green">
+
+<tbody><tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_magazine.jsp?contentId=3584&amp;openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P6K1L1">
+</a><a class="link1under" href="http://www.boots.com/microsites/microsite_magazine.jsp?contentId=3584"><b><font color="red">Health Checks - the benefits</font></b></a>
+																																									
+</td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/features/feature.jsp?articleId=1003342&amp;openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P6K1L2">
+</a><a class="link1under" href="http://www.boots.com/features/feature.jsp?articleId=1003342"><font color="333399"><b>Comparing health checks</b></font></a>
+
+																																									
+</td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=4279&amp;openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P6K1L3">
+</a><a class="link1under" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=4279"><b><font color="333399">Customer comments</font></b></a><font color="333399">
+																																									
+</font></td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_magazine.jsp?contentId=3683&amp;openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P6K1L4">
+</a><a class="link1under" href="http://www.boots.com/microsites/microsite_magazine.jsp?contentId=3683"><b><font color="333399">BUPA Wellness Centre health check locations</font></b></a><font color="333399">
+																																									
+</font></td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_magazine.jsp?contentId=3583&amp;openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P6K1L5">
+</a><a class="link1under" href="http://www.boots.com/microsites/microsite_magazine.jsp?contentId=3583"><font color="333399"><b>Want to find out more?</b></font></a><font color="333399">
+																																									
+</font></td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=3582&amp;openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P6K1L6">
+</a><a class="link1under" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=3582"><b><font color="333399">Terms and Conditions</font></b></a><font color="333399">
+																																									
+</font></td></tr>
+																													
+																														</tbody></table>
+</div></td>
+																												</tr>	 
+
+<tr><td style="padding-left:5px" valign="top" width="10%">
+<img id="i5n1101" src="/assets/global/px_trans.gif" border="0" alt="" width="3" height="5">
+		
+</td>
+<td style="padding-left:5px" valign="top">
+<a style="text-decoration:none" class="level2" href="http://minimode.co.uk/shop/home/referer/rc_boots_homepage.html?openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P6K2"> 
+</a><a class="link1under" href="http://minimode.co.uk/shop/home/referer/rc_boots_homepage.html?openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P6K2">mini mode clothing</a>
+
+</td>
+</tr>
+
+
+<tr><td style="padding-left:5px" valign="top" width="10%">
+<img id="i5n2101" src="/assets/global/px_trans.gif" border="0" alt="" width="3" height="5">
+		
+</td>
+<td style="padding-left:5px" valign="top">
+<a style="text-decoration:none" class="level2" href="http://www.bootskitchenappliances.com/?openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P6K3"> 
+</a><a class="link1under" href="http://www.bootskitchenappliances.com/?openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P6K3">Kitchen appliances</a>
+
+
+</td>
+</tr>
+
+
+<tr><td style="padding-left:5px" valign="top" width="10%">
+<img id="i5n3101" src="/assets/global/px_trans.gif" border="0" alt="" width="3" height="5">
+		
+</td>
+<td style="padding-left:5px" valign="top">
+<a style="text-decoration:none" class="level2" href="http://www.bootsflowers.co.uk?openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P6K4"> 
+</a><a class="link1under" href="http://www.bootsflowers.co.uk?openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P6K4">Flowers</a>
+
+
+</td>
+</tr>
+
+
+<tr><td style="padding-left:5px" valign="top" width="10%">
+
+<a href="javascript:showLeftNav('5n4101')" style="text-decoration:none">
+<img id="i5n4101" src="/images/arrow_grey_closed.gif" width="7" height="7" border="0" alt="">
+</a>
+		
+</td>
+<td style="padding-left:5px" valign="top">
+<a style="text-decoration:none" class="level2" href="http://www.boots.com/microsites/microsite_homepage.jsp?contentId=2775&amp;openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P6K5"> 
+</a><a class="link1under" href="http://www.boots.com/microsites/microsite_homepage.jsp?contentId=2775&amp;openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P6K5">Boots Insurance Services</a>
+
+</td>
+</tr>
+
+<tr><td></td><td style="padding-left:10px">
+<div class="level3" id="5n4101" style="display: none">
+																													<table width="100%" cellpadding="0" cellspacing="0" border="0" bordercolor="green">
+
+<tbody><tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_homepage.jsp?contentId=2575&amp;openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P6K5L1">
+</a><a href="http://www.boots.com/microsites/microsite_homepage.jsp?contentId=2575">Travel Insurance</a>
+																																									
+</td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=2662&amp;openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P6K5L2">
+</a><a href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=2662">Travel Money and Services</a>
+																																									
+</td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=2714&amp;openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P6K5L3">
+</a><a href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=2714">Child Trust Fund</a>
+																																									
+</td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=2604&amp;openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P6K5L4">
+</a><a href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=2604">Dental Plan</a>
+																																									
+</td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.bootshealthinsurance.com?openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P6K5L5">
+</a><a href="http://www.bootshealthinsurance.com">Boots Health Insurance</a>
+																																									
+</td></tr>
+
+<tr><td>
+<a style="text-decoration:none" class="level3" href="http://www.bootshealthinsurance.com?openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P6K5L6">
+</a><a href="http://www.bootshealthinsurance.com">Boots Health Insurance</a>
+																																									
+</td></tr>
+																													
+																														</tbody></table>
+</div></td>
+																												</tr>	 
+
+<tr><td style="padding-left:5px" valign="top" width="10%">
+<img id="i5n5101" src="/assets/global/px_trans.gif" border="0" alt="" width="3" height="5">
+		
+</td>
+<td style="padding-left:5px" valign="top">
+<a style="text-decoration:none" class="level2" href="http://www.bootsdigitalphotocentre.com/wpp/boots/welcome.jsp?openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P6K6"> 
+</a><a class="link1under" href="http://www.bootsdigitalphotocentre.com/wpp/boots/welcome.jsp?openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P6K6">Boots Digital Photo Processing</a>
+
+</td>
+</tr>
+
+
+<tr><td style="padding-left:5px" valign="top" width="10%">
+<img id="i5n6101" src="/assets/global/px_trans.gif" border="0" alt="" width="3" height="5">
+		
+</td>
+<td style="padding-left:5px" valign="top">
+<a style="text-decoration:none" class="level2" href="http://www.bootsmaternityrentalproducts.co.uk/?openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P6K7"> 
+</a><a class="link1under" href="http://www.bootsmaternityrentalproducts.co.uk/?openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P6K7">Boots Maternity TENS rental</a>
+
+</td>
+</tr>
+
+
+<tr><td style="padding-left:5px" valign="top" width="10%">
+<img id="i5n7101" src="/assets/global/px_trans.gif" border="0" alt="" width="3" height="5">
+		
+</td>
+<td style="padding-left:5px" valign="top">
+<a style="text-decoration:none" class="level2" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=4200&amp;openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P6K8"> 
+</a><a class="link1under" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=4200&amp;openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P6K8">Advantage Card</a>
+
+</td>
+</tr>
+
+
+<tr><td style="padding-left:5px" valign="top" width="10%">
+<img id="i5n8101" src="/assets/global/px_trans.gif" border="0" alt="" width="3" height="5">
+		
+</td>
+<td style="padding-left:5px" valign="top">
+<a style="text-decoration:none" class="level2" href="http://www.bootscontactlensesonline.com/default.aspx?openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P6K9"> 
+</a><a class="link1under" href="http://www.bootscontactlensesonline.com/default.aspx?openDirectory=2&amp;wblinktype=HPD&amp;wblinkdetail=D2P6K9">Contact Lenses online</a>
+
+</td>
+</tr>
+
+
+
+																			</tbody></table> 
+																		</div>
+
+</td>		
+</tr>
+
+					
+									
+					</tbody></table>
+					</div>
+					</td>					
+					</tr>
+
+					<tr height="16">
+						<td nowrap="" colspan="2">---------------------</td>						
+					</tr>
+				</tbody></table>
+
+	</td>		
+		<td bgcolor="CBE6F7"></td>
+	</tr>
+	<tr bgcolor="white" valign="top">
+					<td width="90%"><img src="/assets/global/px_trans.gif" width="5" height="2" border="0" alt=""></td>
+					<td width="2%"><img src="/assets/global/br_corner.gif" width="5" height="2" border="0" alt=""></td>
+					<td width="8%" bgcolor="CBE6F7"><img src="/assets/global/px_trans.gif" width="5" height="2" border="0" alt=""></td>
+</tr>
+	<tr>					
+					<td colspan="3" bgcolor="CBE6F7"><img src="/assets/global/px_trans.gif" width="100%" height="8" border="0" alt=""></td>
+	</tr>
+	</tbody></table>
+
+</td>         
+          <td width="7" align="left" valign="top"><img src="/assets/global/px_trans.gif" width="7" border="0" alt=""></td>       
+        </tr>
+        <tr> 
+          <td align="left" valign="top"><img src="/assets/global/px_trans.gif" width="121" height="14" border="0" alt="">	</td>
+        </tr>
+        <tr> 
+          <!-- Used For Displaying The Left Hand Image Links On The Page --> 
+          <td align="left" valign="top">
+		  
+		     
+		</td>
+        
+                    </tr>
+      </tbody></table>
+
+</td>
+
+ 
+<!-- If Branding Is Present Then Include this Table -->
+<td colspan="5" width="618" bgcolor="white">
+<table width="618" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <!-- Used For Displaying  The  Branding Images --->
+    <td width="618" height="53">
+
+
+
+			<!-- <table border=0 cellspacing=0 cellpadding=0 width=618 height=53> -->
+			<table border="0" cellspacing="0" cellpadding="0">
+			<tbody><tr>			
+				  
+				<td>									
+
+					
+
+
+		
+		<img src="/images/nav/5032/19388/35853.jpg" width="103" height="53" border="0" alt="">
+		
+						
+	     			</td>	     
+
+				  
+				<td>									
+
+					
+
+
+		
+		<img src="/images/nav/5032/19388/35854.jpg" width="103" height="53" border="0" alt="">
+		
+						
+	     			</td>	     
+
+				  
+				<td>									
+
+					
+
+
+		
+		<img src="/images/nav/5032/19388/35855.jpg" width="103" height="53" border="0" alt="">
+		
+						
+	     			</td>	     
+
+				  
+				<td>									
+
+					
+
+
+		
+		<img src="/images/nav/5032/19388/35856.jpg" width="103" height="53" border="0" alt="">
+		
+						
+	     			</td>	     
+
+				  
+				<td>									
+
+					
+
+
+		
+		<img src="/images/nav/5032/19388/35857.jpg" width="103" height="53" border="0" alt="">
+		
+						
+	     			</td>	     
+
+				  
+				<td>									
+
+					
+
+
+		
+		<img src="/images/nav/5032/19388/35858.jpg" width="103" height="53" border="0" alt="">
+		
+						
+	     			</td>	     
+
+
+			 </tr>			
+			</tbody></table>
+	
+			</td>
+  </tr>
+</tbody></table>
+</td>
+
+
+
+</tr>
+
+  <tr> 
+    <td width="23" height="299" bgcolor="white">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td width="361" height="299" align="left" valign="top" bgcolor="white"> 
+     <table width="361" border="0" cellpadding="0" cellspacing="0" bgcolor="white">
+         
+        <tbody><tr> 
+          <td align="left" valign="top"><img src="/assets/global/px_trans.gif" width="361" height="15" border="0" alt=""></td>
+        </tr>
+        
+        <tr> 
+          <td width="361" align="left" valign="top">
+            <span class="f17">
+             </span><br>
+            <span class="f14"> 
+            </span>
+<span class="f17"><b><font color="#0099ff">Privacy &amp; security</font></b>
+<style>
+h1 {font size: 1.7em; font-weight: bold; color: #0099FF;}
+h2 {font-size: 1.6em; font-weight: bold; color: #0099ff;}
+h3 {font-size: 1.3em; font-weight: bold; color:#0099ff; }
+p  {font-size: 1em; color: #666666;}
+b  {font-size: 1em; font-weight: bold; color: #666666;}
+b.special  {font-size: 1.1em; font-weight: bold; color: #0099ff;}
+a.head:link {font-size: 1.4em; color: #0099FF; 
+             font-weight:bold;}
+a.head:visited {font-size: 1.4em;color: #0099ff; font-weight:bold;}
+a.head:hover {font-size: 1.4em;color: #00ccff; background: font-weight: bold;}
+a.help:link {font-size: 1em; font-weight: bold; text-decoration: underline; 
+             color: #0099ff;}
+a.help:visited {font-size: 1em; font-weight: bold; text-decoration: underline; 
+                color: #0099ff;}
+a.help:hover {font-size: 1em; color: #00ccff;}
+a.sub:link {font-size: .8em;font-weight: bold; color: #666666;}
+a.sub:visited {font-size: .8em; font-weight:bold;
+               color: #666666;}
+a.sub:hover {font-size: .8em; font-weight: bold; color: #999999;}
+ul {list-style-type:circle; color: #666666;}
+ul ul{list-style-type:disc; color: #666666;}
+li {list-style-type: circle; color:#666666; margin-top: 1em;}
+</style> </span><br>
+            <p></p><p>We have made every effort to ensure we protect your personal information.  Select from 
+
+the options below and click on it to view a particular area or, alternatively, scroll down 
+
+the page to view all this section.</p>
+
+<p>See also <a class="help" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=5092">General Terms and conditions</a>.</p>
+
+<b>Privacy</b>
+<ul>
+<li><a class="help" href="#1">About your privacy</a>
+</li><li><a class="help" href="#2">How long is information kept for?</a>
+</li><li><a class="help" href="#3">About "cookies"</a><p></p>
+</li></ul>
+<p><b>Security</b></p>
+<ul>
+<li><a class="help" href="#4">Ordering online</a>
+</li><li><a class="help" href="#5">VeriSign authentication</a>
+</li><li><a class="help" href="#6">Credit &amp; debit card security assurance</a>
+</li><li><a class="help" href="#7">Purchasing Pharmacy and Prescription medicines</a>
+</li><li><a class="help" href="#8">Government advice on internet shopping</a>
+</li><li><a class="help" href="#9">Internet Shopping is safe - external link</a>
+</li></ul>
+
+          </td>
+        </tr>
+		 
+
+	<!-- 		This will Used For displaying The Content of ParaHeading 
+		 		ParaBodyText ParabodyImage from CMS						-->
+         
+					<tr>
+					  <td bgcolor="white"><img src="/assets/global/px_trans.gif" width="361" height="25" border="0" alt=""></td>
+					</tr>	  		
+             	
+		     <tr>    
+		       <td width="361" valign="top" align="left">
+                 <table width="100" cellspacing="0" cellpadding="0" border="0" bgcolor="white"> 
+	             	<tbody><tr>
+	             	 <td>
+	                   </td>
+	                </tr>
+	            <tr bgcolor="white">
+	            	    <td align="left" valign="top">
+	            	       <table width="361" cellspacing="0" cellpadding="0" border="0">
+	            	         <tbody><tr>
+	 	                        <td>
+
+                        		<span class="f02">
+     	        				<h3><a name="#1">About your privacy</a></h3>
+
+<p>This privacy information was last updated on March 8th 2001. Boots.com Direct Limited 
+
+is registered under the Data Protection Act. We are committed to protecting the 
+
+information we collect from you, which we use to enhance your experience of using boots.
+
+com and to provide you with the services you request from us.</p> 
+<p>We also outline the security measures we take to protect your details once you have 
+
+given them to us. You can then make informed choices about the personal information you 
+
+provide on this site.</p>
+
+<p><a href="#top"><img src="http://www.boots.com/images/nav/5024/18618/34151.jpg" border="0"></a></p>
+
+<h3><a name="#2">How long is information kept for?</a></h3>
+
+<p>We will keep and use your information for as long as you are registered on the current 
+
+Web site. You can choose to cancel your registration in the 'My account' section of the 
+
+site. Doing this does not erase your information from our database. Your information is 
+
+then stored for two reasons:</p> 
+<ol><li>to ensure that any orders you have placed can be processed to completion   and 
+</li><li>so that we can contact you in emergencies, such as if there is an urgent product 
+
+recall.</li></ol>
+<p>Otherwise, your information will not be accessed again and it will remain secure.</p> 
+<p>If you cancel your registration you will no longer be able to shop online or receive e
+
+-mails from us. Any orders you have placed will be processed as normal. You cannot open a 
+
+new account using the same e-mail address as a previously closed account.</p>
+
+<p>Although the Ask the Pharmacist service is no longer provided, information you may have 
+
+supplied through Ask the pharmacist is stored in a secure database for at least two years 
+
+to ensure we meet the ethical requirements of the Royal Pharmaceutical Society of Great 
+
+Britain and so that we can follow up any subsequent queries.</p>
+
+<p><a href="#top"><img src="http://www.boots.com/images/nav/5024/18618/34151.jpg" border="0"></a></p></span><br></td>	    	
+                           </tr>
+                        </tbody></table></td>	 
+		        
+                            </tr>
+		         </tbody></table>			          
+			</td>  	  
+         </tr>
+         
+					<tr>
+					  <td bgcolor="white"><img src="/assets/global/px_trans.gif" width="361" height="25" border="0" alt=""></td>
+					</tr>	  		
+             	
+		     <tr>    
+		       <td width="361" valign="top" align="left">
+                 <table width="100" cellspacing="0" cellpadding="0" border="0" bgcolor="white"> 
+	             	<tbody><tr>
+	             	 <td>
+	                   </td>
+	                </tr>
+	            <tr bgcolor="white">
+	            	    <td align="left" valign="top">
+	            	       <table width="361" cellspacing="0" cellpadding="0" border="0">
+	            	         <tbody><tr>
+	 	                        <td>
+
+                        		<span class="f02">
+     	        				<h3><a name="#3">About "cookies"</a></h3>
+
+<p>A 'cookie' is a file in your web browser that enables us to recognise your computer 
+
+when you visit the site.</p> 
+<p>The tool is used by many Web sites to help collect information, such as how many people 
+
+visit and return to the site, what products are being bought, and to make certain parts of 
+
+the site function properly.</p> 
+
+<p>Like other retailers we use 'cookies' to allow us to fill in our login fields with your 
+
+e mail address, once you have registered. This is to enable customers to login to our site 
+
+more quickly and easily when you make future visits to boots.com. 
+
+</p><p>If you are using another person's computer to login to our site (eg in an internet cafe 
+
+or a colleagues computer at work) then it's possible your e mail address will display in 
+
+the login field to a subsequent user of our site. We therefore advise customers to clear 
+
+'cookies' stored by the web browser when using another person's machine in order to 
+
+prevent this from happening. The option to do this is normally found within the Tools 
+
+dropdown menu at the top of the browser window.
+</p><p>If you have "disabled" the cookies file in your browser, you may experience technical 
+
+problems with some parts of the site. (For example products you have placed in your basket 
+
+may be lost.)</p> 
+<p>In the future, we may use cookies to personalise our Web site, but we will let you know 
+
+when that happens.</p>
+<p>For independent information about cookies visit <a class="help" href="www.aboutcookies.&#10;&#10;org">www.aboutcookies.org</a></p> 
+<p>boots.com is not responsible for the content of external internet sites.</p>
+
+<p><a href="#top"><img src="http://www.boots.com/images/nav/5024/18618/34151.jpg" border="0"></a></p>
+
+<h3><a name="#4">Ordering online</a></h3>
+
+<p>Ordering online using your credit card details is just as safe as ordering goods over 
+
+the telephone, if not more so. boots.com has been issued with a Secure Server Digital 
+
+Certificate by the online Certification Authority, VeriSign, and has been authorised to 
+
+display the VeriSign Authentic Site Seal.</p>
+
+<p><a href="#top"><img src="http://www.boots.com/images/nav/5024/18618/34151.jpg" border="0"></a></p></span><br></td>	    	
+                           </tr>
+                        </tbody></table></td>	 
+		        
+                            </tr>
+		         </tbody></table>			          
+			</td>  	  
+         </tr>
+         
+					<tr>
+					  <td bgcolor="white"><img src="/assets/global/px_trans.gif" width="361" height="25" border="0" alt=""></td>
+					</tr>	  		
+             	
+		     <tr>    
+		       <td width="361" valign="top" align="left">
+                 <table width="100" cellspacing="0" cellpadding="0" border="0" bgcolor="white"> 
+	             	<tbody><tr>
+	             	 <td>
+	                   </td>
+	                </tr>
+	            <tr bgcolor="white">
+	            	    <td align="left" valign="top">
+	            	       <table width="361" cellspacing="0" cellpadding="0" border="0">
+	            	         <tbody><tr>
+	 	                        <td>
+
+                        		<span class="f02">
+     	        				<h3><a name="#5">VeriSign authentication</a></h3>
+
+<p>The VeriSign Digital ID is an electronic licence credential for online business. It 
+
+confirms that boots.com is a legitimate web site which establishes an encrypted 
+
+communication channel protecting the information you send when submitting details for 
+
+payment in the Shop. For more information about VeriSign Digital Authentication services 
+
+and online security guarantees, visit the VeriSign web site at <a class="help" href="javascript:openwin('/util/external_link_opener.jsp?URL=http://www.verisign.com')">www.
+
+verisign.com</a>.</p>
+
+<p><a href="#top"><img src="http://www.boots.com/images/nav/5024/18618/34151.jpg" border="0"></a></p>
+
+
+<h3><a name="#6">Credit &amp; debit card security assurance</a></h3>
+
+<p>At boots.com you don't have to worry about your credit or debit card safety.</p> 
+<p>None of our customers have had an instance of fraudulent use of their credit or debit 
+
+card as a result of purchases made with us.</p> 
+<p>We are so confident of the security on our site that we back every purchase with our 
+
+assurance of security. We encrypt all our personal information (including card details, 
+
+name and address). This means that your information is protected by a unique key or code 
+
+as it travels over the internet.</p> 
+<p>In the event of unauthorised use of your credit or debit card, most card issuers either 
+
+cover all of the charges, or may limit your liability to £50. If your issuer does pass on 
+
+any of the £50 then boots.com will cover your liability up to £50 provided that the 
+
+unauthorised use of your credit or debit card resulted through no fault of your own from 
+
+purchases made at boots.com.</p> 
+<p>In the event of unauthorised use of your credit or debit card, you must notify your 
+
+card provider in accordance with its reporting rules and procedures.</p>
+
+<p><a href="#top"><img src="http://www.boots.com/images/nav/5024/18618/34151.jpg" border="0"></a></p></span><br></td>	    	
+                           </tr>
+                        </tbody></table></td>	 
+		        
+                            </tr>
+		         </tbody></table>			          
+			</td>  	  
+         </tr>
+         
+					<tr>
+					  <td bgcolor="white"><img src="/assets/global/px_trans.gif" width="361" height="25" border="0" alt=""></td>
+					</tr>	  		
+             	
+		     <tr>    
+		       <td width="361" valign="top" align="left">
+                 <table width="100" cellspacing="0" cellpadding="0" border="0" bgcolor="white"> 
+	             	<tbody><tr>
+	             	 <td>
+	                   </td>
+	                </tr>
+	            <tr bgcolor="white">
+	            	    <td align="left" valign="top">
+	            	       <table width="361" cellspacing="0" cellpadding="0" border="0">
+	            	         <tbody><tr>
+	 	                        <td>
+
+                        		<span class="f02">
+     	        				<h3><a name="#7">Purchasing Pharmacy &amp; Prescription medicines</a></h3>
+
+<p><b>Purchasing pharmacy medicines</b>
+<br>When purchasing pharmacy medicines from this site you will be asked to provide some additional information about your health, so that Boots pharmacy staff can check that the medicine is suitable for you. This information is encrypted before it is sent to us. When received we hold it securely on our systems, where it can be viewed only by Boots UK Limited's pharmacy staff. It is therefore not available to Boots.com's contact centre staff. Any further correspondence between the pharmacy and yourself will be treated as 
+confidential and held securely.</p> 
+<p><b>Purchasing prescription medicines</b>
+<br>If you make use of our <a class="help" href="http://www.boots.com/microsites/microsite_info_template.jsp?contentId=4743">Prescription Dispensing and Delivery Service</a> you will be asked to supply the following to a secure online connection:
+</p><p>your prescription requirements, your customer details, including payment details where appropriate, your prescription, and (optionally) some patient health information. </p>
+<p>In order to complete your order, you will then need to post your prescription directly 
+to Boots' Walsall pharmacy.  This information will be stored securely at our pharmacy. 
+
+Your prescription details, together with any other health information you provide, will be 
+
+added to Boots' secure internal pharmacy system. This system allows pharmacy staff in 
+
+other Boots stores to check your prescription history and medical conditions before 
+
+dispensing further medication, ensuring that you receive the best possible pharmacy 
+
+service from us, whichever store you use.</p> 
+<p>We may use e-mail to contact you where, for example, you have requested a private 
+
+prescription quote, or when we are unable to contact you directly by 'phone. Therefore 
+
+please ensure that you maintain adequate password control over access to your e-mail 
+
+account. Also note that if you send a e-mail directly to our pharmacy from your own e-mail 
+
+account its contents will not be encrypted and therefore not secure.</p> 
+<p>For more details about how we use your personal information, take a look at other 
+
+sections of this page.</p>
+
+<p><a href="#top"><img src="http://www.boots.com/images/nav/5024/18618/34151.jpg" border="0"></a></p>
+
+
+<h3><a name="#8">Government advice on internet shopping</a></h3>
+
+<p>If you still have concerns about shopping over the internet you may like to visit the 
+
+government's e-shopping website. To link to the website <a class="help" href="javascript:openwin('/util/external_link_opener.jsp?URL=http://www.consumerdirect.gov.uk/general/internet/index.shtml')">click here.</a></p>
+
+<p><a href="#top"><img src="http://www.boots.com/images/nav/5024/18618/34151.jpg" border="0"></a></p>
+
+
+<h3><a name="#9">Internet shopping is safe - external link</a></h3>
+
+<p>For the information on shopping on the internet, 
+<br><a class="help" href="javascript:openwin('/util/external_link_opener.jsp?URL=http://isis.imrg.org/screens/VerifyMerchantFrame.asp?guid=AD892EFF-1ACA-43AF-9007-B73131B1C9D8')">click here</a> or on the logo below<br><br><a class="help" href="javascript:openwin('/util/external_link_opener.jsp?URL=http://isis.imrg.org/screens/VerifyMerchantFrame.asp?guid=AD892EFF-1ACA-43AF-9007-B73131B1C9D8')"><img src="http://isis.imrg.org/images/isis-medium.gif" border="0"></a>.
+
+</p><p><a href="#top"><img src="http://www.boots.com/images/nav/5024/18618/34151.jpg" border="0"></a></p>
+
+
+</span><br></td>	    	
+                           </tr>
+                        </tbody></table></td>	 
+		        
+                            </tr>
+		         </tbody></table>			          
+			</td>  	  
+         </tr>
+        	
+		     <tr>    
+		       <td width="361" valign="top" align="left">
+                 <table width="100" cellspacing="0" cellpadding="0" border="0" bgcolor="white"> 
+	             	<tbody><tr>
+	             	 <td>
+	                   </td>
+	                </tr>
+	            <tr bgcolor="white">
+	            	    <td align="left" valign="top">
+	            	       <table width="361" cellspacing="0" cellpadding="0" border="0">
+	            	         <tbody><tr>
+	 	                        <td>
+
+                        		</td>	    	
+                           </tr>
+                        </tbody></table></td>	 
+		        
+                            </tr>
+		         </tbody></table>			          
+			</td>  	  
+         </tr>
+        	
+		     <tr>    
+		       <td width="361" valign="top" align="left">
+                 <table width="100" cellspacing="0" cellpadding="0" border="0" bgcolor="white"> 
+	             	<tbody><tr>
+	             	 <td>
+	                   </td>
+	                </tr>
+	            <tr bgcolor="white">
+	            	    <td align="left" valign="top">
+	            	       <table width="361" cellspacing="0" cellpadding="0" border="0">
+	            	         <tbody><tr>
+	 	                        <td>
+
+                        		</td>	    	
+                           </tr>
+                        </tbody></table></td>	 
+		        
+                            </tr>
+		         </tbody></table>			          
+			</td>  	  
+         </tr>
+        	
+		     <tr>    
+		       <td width="361" valign="top" align="left">
+                 <table width="100" cellspacing="0" cellpadding="0" border="0" bgcolor="white"> 
+	             	<tbody><tr>
+	             	 <td>
+	                   </td>
+	                </tr>
+	            <tr bgcolor="white">
+	            	    <td align="left" valign="top">
+	            	       <table width="361" cellspacing="0" cellpadding="0" border="0">
+	            	         <tbody><tr>
+	 	                        <td>
+
+                        		</td>	    	
+                           </tr>
+                        </tbody></table></td>	 
+		        
+                            </tr>
+		         </tbody></table>			          
+			</td>  	  
+         </tr>
+        	
+		     <tr>    
+		       <td width="361" valign="top" align="left">
+                 <table width="100" cellspacing="0" cellpadding="0" border="0" bgcolor="white"> 
+	             	<tbody><tr>
+	             	 <td>
+	                   </td>
+	                </tr>
+	            <tr bgcolor="white">
+	            	    <td align="left" valign="top">
+	            	       <table width="361" cellspacing="0" cellpadding="0" border="0">
+	            	         <tbody><tr>
+	 	                        <td>
+
+                        		</td>	    	
+                           </tr>
+                        </tbody></table></td>	 
+		        
+                            </tr>
+		         </tbody></table>			          
+			</td>  	  
+         </tr>
+        	
+		     <tr>    
+		       <td width="361" valign="top" align="left">
+                 <table width="100" cellspacing="0" cellpadding="0" border="0" bgcolor="white"> 
+	             	<tbody><tr>
+	             	 <td>
+	                   </td>
+	                </tr>
+	            <tr bgcolor="white">
+	            	    <td align="left" valign="top">
+	            	       <table width="361" cellspacing="0" cellpadding="0" border="0">
+	            	         <tbody><tr>
+	 	                        <td>
+
+                        		</td>	    	
+                           </tr>
+                        </tbody></table></td>	 
+		        
+                            </tr>
+		         </tbody></table>			          
+			</td>  	  
+         </tr>
+        	
+		     <tr>    
+		       <td width="361" valign="top" align="left">
+                 <table width="100" cellspacing="0" cellpadding="0" border="0" bgcolor="white"> 
+	             	<tbody><tr>
+	             	 <td>
+	                   </td>
+	                </tr>
+	            <tr bgcolor="white">
+	            	    <td align="left" valign="top">
+	            	       <table width="361" cellspacing="0" cellpadding="0" border="0">
+	            	         <tbody><tr>
+	 	                        <td>
+
+                        		</td>	    	
+                           </tr>
+                        </tbody></table></td>	 
+		        
+                            </tr>
+		         </tbody></table>			          
+			</td>  	  
+         </tr>
+         <!--  For Loop End Here -->
+        		 
+      </tbody></table></td>
+      	  
+      	  
+      	  <!-- para graph over here -->
+      	  
+    <td width="21" height="299" bgcolor="white"><img src="/assets/global/px_trans.gif" width="21" height="299" border="0" alt=""></td>
+    <td width="206" height="299" align="left" valign="top" bgcolor="white"> 
+      <table width="206" border="0" cellpadding="0" cellspacing="0" valign="top" align="left" bgcolor="white">
+         
+        <tbody><tr>
+          <td align="left" valign="top"><img src="/assets/global/px_trans.gif" width="206" height="15" border="0" alt="" vspace="0" hspace="0"></td>
+        </tr>
+        	
+        <tr>
+          <td align="left" valign="top">
+		  
+             </td> 
+              	  
+        </tr>
+        <tr> 
+          <td width="206" align="left" valign="top"><img src="/assets/global/px_trans.gif" width="206" height="14" border="0" alt=""></td>
+        </tr>
+        <tr> 
+          <td width="206" height="14" align="right" valign="top"> 
+            
+<table width="130" cellspacing="0" cellpadding="0">
+    
+</table>
+
+     	 </td>
+        </tr>
+      </tbody></table></td>
+    <td width="6" bgcolor="white"><img src="/assets/global/px_trans.gif" width="6" border="0" alt=""></td>
+  </tr>
+</tbody></table>
+				 
+				 
+<table width="760" height="14" border="0" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td><img src="/assets/global/px_trans.gif" width="760" height="14" border="0" alt=""></td>
+  </tr>
+</tbody></table>
+	 
+<!-- Java Script used to open windows in a seperate browser 
+ Currently used for Dr Foster site on Home page and
+Links to Boots plc and Granada Media in Privacy Policy and Legal terms -->
+
+
+<script language="Javascript1.1" type="text/javascript">
+
+var BV = navigator.appVersion;
+ var BN = "";
+ var window_width = 800;
+ var window_height = 600;
+ var window_features = "toolbar, scrollbars=yes, resizable=yes";
+ 
+ if (navigator.appName.indexOf("Microsoft") >= 0)
+ {
+ 	BN = "Explorer";
+	if (navigator.appVersion.indexOf("3.0") >= 0)
+	{
+		window_width = "775";
+	 	window_height = "385";
+  		window_features = "toolbar, scrollbars=yes, resizable=yes";
+	}
+        else if ((navigator.appVersion.indexOf("3.02") >= 0) ||
+	(BV.indexOf("3.01") >= 0) ||
+	(BV.indexOf("3.03") >= 0))
+	{
+		window_width = "775";
+	 	window_height = "375";
+  		window_features = "toolbar, scrollbars=yes, resizable=yes";
+	}
+	else
+	{	
+  	 	window_width = "775";
+	 	window_height = "470";
+  		window_features = "toolbar, scrollbars=yes, resizable=yes";
+	}	
+ }	
+else
+{
+     if (navigator.appName.indexOf("Netscape") >= 0)
+	 {
+	 	BN = "Netscape";
+	 	window_width = "775";
+	 	window_height = "472";
+  		window_features = "toolbar, scrollbars=yes, resizable=yes";
+	 }
+     else
+	 {
+  		BN = "Other"
+     }
+ }
+ 
+ // Position of the top left corner of the new window to open
+ var xPos = 50;
+ var yPos = 120;
+ 
+ var resized_window_width = screen.width - xPos - 10;
+ var resized_window_height = screen.height - yPos - 110;
+ 
+ if (resized_window_width > window_width) {
+ 	resized_window_width = window_width;
+ }
+ if (resized_window_height > window_height) {
+ 	resized_window_height = window_height;
+ }
+		
+ window_features="height="+resized_window_height+",width="+resized_window_width+","+window_features;
+ window_features="top="+yPos+",left="+xPos+","+window_features;
+function openwin(url,winName){
+	window.open(url,"_blank",window_features);
+	//window.location="test.html";
+}
+</script>
+
+
+
+
+
+<!--write the code here for retrieval of text -->
+  
+	 
+    		
+    	  		&nbsp;
+    	  	
+	
+	<table align="left" cellspacing="0" cellpadding="0" height="23" width="760" bgcolor="#00ccff" border="0">
+		<tbody><tr>
+	  		<td width="13" border="0"> &nbsp; 
+			</td>
+	    
+			<!--it returns to Top at after branding -->
+			<!-- <a href= "#top" style="text-decoration:none"> -->
+			<td width="124" border="0">
+	  			<a href="#top" class="boldText">
+					Return to top
+				</a>	
+			</td>			
+	
+	</tr>			
+	</tbody></table>
+
+	
+
+
+
+
+            
+
+</a></body></html>
