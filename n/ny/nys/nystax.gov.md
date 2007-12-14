@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the nystax.gov privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623055526id_/http%3A//www.nystax.gov/nyshome/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nystax.gov privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214105549id_/http%3A//www.nystax.gov/nyshome/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Notice
 
 ### Introduction
 
-Thank you for visiting the New York State Department of Taxation and Finance (hereinafter “DTF”) Web site. This Web site is designed to make it easier and more efficient for individuals and businesses to interact with DTF. DTF recognizes that it is important for individuals and businesses to be confident that their privacy is protected when they visit DTF’s Web site. 
+Thank you for visiting the New York State Department of Taxation and Finance (hereinafter “DTF”) Web site. This Web site is designed to make it easier and more efficient for individuals, businesses and tax professionals to interact with DTF. DTF recognizes that it is important for individuals, businesses and tax professionals to be confident that their privacy is protected when they visit DTF’s Web site. 
 
 Consistent with the provisions of the Internet Security and Privacy Act, the Freedom of Information Law, the Personal Privacy Protection Law, and the Tax Law, this policy describes DTF's privacy practices regarding information collected from users of this Web site. This policy describes what information is collected and how that information is used. Because this privacy policy only applies to this Web site, you should examine the privacy policy of any Web site, including other state agency Web sites, that you access using this Web site. 
 
-For purposes of this policy, “personal information” means any information concerning a natural person which, because of name, number, symbol, mark, or other identifier, can be used to identify that natural person. _DTF does not collect any personal information about you during your visit to this Web site unless you provide that information voluntarily by sending an e-mail or by conducting an online transaction. This includes, for example, filling out an online survey or order form or utilizing any of DTF’s online services._
+For purposes of this policy, “personal information” means any information concerning a natural person which, because of name, number, symbol, mark, or other identifier, can be used to identify that natural person. _DTF does not collect any personal information about you during your visit to this Web site unless you provide that information voluntarily;  for example, by sending such information in an e-mail or by providing it in connection with an online transaction._
 
 ### Information Collected Automatically When You Visit this Web site
 
@@ -36,7 +36,7 @@ The software and hardware you use to access the Web site allows you to refuse ne
 
 During your visit to this Web site you may send an e-mail to DTF. Your e-mail address and the contents of your message will be collected. Your e-mail address and the information included in your message will be used to respond to you, to address issues you identify, to improve this Web site, or to forward your message to another State agency for appropriate action. Your e-mail address is not collected for commercial purposes and DTF is not authorized to sell or otherwise disclose your e-mail address for commercial purposes. 
 
-During your visit to this Web site you may conduct an online transaction. This includes, for example, filling out an online survey or order form or utilizing any of DTF’s online services. The information, including personal information, volunteered by you in conducting the transaction is used by DTF to operate DTF programs, which include the provision of services and information. The information collected by DTF may, to the extent permitted by law, be disclosed by DTF for those purposes that may be reasonably ascertained from the nature and terms of the transaction in connection with which the information was submitted. 
+During your visit to this Web site you may conduct an online transaction. This includes, for example, filling out an online survey or order form or utilizing any of DTF’s online services. The information, including personal information, provided by you in conducting the transaction is used by DTF to operate DTF programs, which include the provision of services and information. The information collected by DTF may, to the extent permitted by law, be disclosed by DTF for those purposes that may be reasonably ascertained from the nature and terms of the transaction in connection with which the information was submitted. 
 
 DTF does not knowingly collect personal information from children or create profiles of children through this Web site. Users are cautioned, however, that the collection of personal information submitted in an e-mail will be treated as though it was submitted by an adult, and may, unless exempted from access by federal or State law, be subject to public access. DTF strongly encourages parents and teachers to be involved in children’s Internet activities and to provide guidance whenever children are asked to provide personal information online. 
 
@@ -56,7 +56,7 @@ DTF may disclose personal information to federal or state law enforcement author
 
 ### Retention of Information Collected Through this Web site
 
-The information collected through this Web site is retained by DTF in accordance with the records retention and disposition requirements of the New York State Arts & Cultural Affairs Law. Information on the requirements of the Arts & Cultural Affairs Law may be found at [ http://www.archives.nysed.gov/a/nysaservices/ns_mgr_laws.shtml](http://www.archives.nysed.gov/a/nysaservices/ns_mgr_laws.shtml). In general, the Internet services logs of DTF, comprising electronic files or automated logs created to monitor access and use of DTF services provided through this Web site, are retained for at least three months. Information, including personal information, that you submit in an e-mail or when you conduct an online transaction is retained in accordance with the records retention and disposition schedule established for the records of the program unit to which you submitted the information. 
+The information collected through this Web site is retained by DTF in accordance with the records retention and disposition requirements of the New York State Arts & Cultural Affairs Law. Information on the requirements of the Arts & Cultural Affairs Law may be found at [ http://www.archives.nysed.gov/a/records/mr_retention.shtml](http://www.archives.nysed.gov/a/records/mr_retention.shtml). In general, the Internet services logs of DTF, comprising electronic files or automated logs created to monitor access and use of DTF services provided through this Web site, are retained for at least three months. Information, including personal information, that you submit in an e-mail or when you conduct an online transaction is retained in accordance with the records retention and disposition schedule established for the records of the program unit to which you submitted the information. 
 
 ### Access to and Correction of Personal Information Collected Through this Web site
 
@@ -78,7 +78,7 @@ DTF is committed to protecting personal information collected through this Web s
 
 In addition, DTF has implemented procedures to safeguard the integrity of its information technology assets including, but not limited to, authentication, monitoring, auditing, and encryption. These security procedures have been integrated into the design, implementation, and day-to-day operations of this Web site as part of our continuing commitment to the security of electronic content as well as the electronic transmission of information. 
 
-For Web site security purposes and to maintain the availability of the Web site for all users, DTF employs software to monitor traffic to identify unauthorized attempts to upload or change information or otherwise damage this Web site. For additional information concerning Security at DTF’s Web site, see DTF’s [Security page](https://web.archive.org/web/20070623055526id_/http%3A//www.nystax.gov/nyshome/securesite.htm). 
+For Web site security purposes and to maintain the availability of the Web site for all users, DTF employs software to monitor traffic to identify unauthorized attempts to upload or change information or otherwise damage this Web site. For additional information concerning Security at DTF’s Web site, see DTF’s [Security page](https://web.archive.org/web/20071214105549id_/http%3A//www.nystax.gov/nyshome/securesite.htm). 
 
 ### Disclaimer
 
@@ -86,9 +86,9 @@ The information provided in this privacy policy should not be construed as givin
 
 * * *
 
-[Site Index](https://web.archive.org/nyshome/index.htm) | [Electronic Services](https://web.archive.org/nyshome/online.htm) | [Publications and Bulletins](https://web.archive.org/pubs_and_bulls/) | [Web Survey](http://nytax-metrics.custhelp.com/cgi-bin/nytax_metrics.cfg/websurveys/ws?_133=28 "this will open a new window")  
+[Site Index](https://web.archive.org/nyshome/index.htm) | [Electronic Services](https://web.archive.org/nyshome/online.htm) | [Publications and Bulletins](https://web.archive.org/pubs_and_bulls/) | [Web Survey](http://nytax-metrics.custhelp.com/cgi-bin/nytax_metrics.cfg/websurveys/ws?_133=100 "this will open a new window")  
 [Accessibility](https://web.archive.org/nyshome/accessibility.htm) | [Disclaimer](https://web.archive.org/nyshome/disclaimer.htm) | [Privacy](https://web.archive.org/nyshome/privacy_policy.htm) | [Security](http://www7.nystax.gov/securesite.htm)
 
 * * *
 
-Last Modified:  January 29, 2007
+Last Modified:  September 26, 2007
