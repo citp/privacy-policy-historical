@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ibdeditorials.com privacy policy that was archived on 2007-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070428050338id_/http%3A//ibdeditorials.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibdeditorials.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214072652id_/http%3A//www.ibdeditorials.com/Privacy.aspx) for the most accurate reproduction.*
 
 # IBDeditorials.com: Editorials, Political Cartoons, and Polls from Investor's Business Daily
 
@@ -16,7 +16,7 @@ Investor's Business Daily, IBD and corresponding logos are registered trademarks
 
 #### Registration
 
-In order to use certain features of our Web site or e-mail newsletter, a user may first be required to complete a registration form. During registration a user is required to give their contact information (such as name and e-mail address). By registering on IBDeditorials.com, you acknowledge that you have reviewed and agree to the terms of our [Terms of Use](https://web.archive.org/web/20070428050338id_/http%3A//ibdeditorials.com/termsofuse.aspx). 
+In order to use certain features of our Web site or e-mail newsletter, a user may first be required to complete a registration form. During registration a user is required to give their contact information (such as name and e-mail address). By registering on IBDeditorials.com, you acknowledge that you have reviewed and agree to the terms of our [Terms of Use](https://web.archive.org/web/20071214072652id_/http%3A//www.ibdeditorials.com/termsofuse.aspx). 
 
 ### How We Gather Information From You
 
@@ -90,6 +90,6 @@ IBDeditorials.com and its affiliates do not knowingly collect or solicit Persona
 
 These guidelines are subject to change. All changes will be posted on this page. If the changes are significant we will notify registered users by email. We encourage you to review our privacy policy periodically to remain informed of changes that may have occurred. 
 
-Print | [Home](https://web.archive.org/web/20070428050338id_/http%3A//ibdeditorials.com/Default.aspx)
+Print | [Home](https://web.archive.org/web/20071214072652id_/http%3A//www.ibdeditorials.com/Default.aspx)
 
 Back To Top
