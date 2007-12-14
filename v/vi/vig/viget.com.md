@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viget.com privacy policy that was archived on 2007-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070621081832id_/http%3A//www.viget.com/legal-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viget.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214170638id_/http%3A//www.viget.com/legal-privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy : Legal - Viget Labs
 
@@ -6,7 +6,7 @@
 
 **Who We Are**
 
-We are Viget Labs ("Viget") and are pleased to share our Internet Privacy Policy for the website [www.viget.com](http://www.viget.com/). You can write to us at 7600 Leesburg Pike, Suite 110 East, Falls Church, Virginia 22043. We can also be reached by email at [privacypolicy@viget.com](mailto:privacypolicy@viget.com), or you can call us at 703-891-0670. 
+We are Viget Labs ("Viget") and are pleased to share our Internet Privacy Policy for the website [www.viget.com](http://www.viget.com/). You can write to us at 400 S. Maple Avenue, Suite 200, Falls Church, Virginia 22046. We can also be reached by email at [privacypolicy@viget.com](mailto:privacypolicy@viget.com), or you can call us at 703-891-0670. 
 
 Viget values individual privacy and we want to give our website visitors the opportunity to know what information we collect about them and how they can limit the use of personally-identifiable information beyond the purposes for which they first provided it. _At all times, however, Viget reserves the right to disclose information where required by law or to comply with valid legal process (such as a search warrant, subpoena or court order), to protect the company’s rights or property (including without limitation in the event of a transfer of control of Viget or substantially all of its assets), or during emergencies when safety is at risk._ Also, this policy only applies to the collection of information at [www.viget.com](http://www.viget.com/). Different policies may apply to other websites or information that we receive offline. We may revise this policy from time to time. 
 
