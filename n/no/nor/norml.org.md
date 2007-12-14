@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the norml.org privacy policy that was archived on 2007-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070220083149id_/http%3A//www.norml.org/index.cfm%3FGroup_ID%3D4487) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the norml.org privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214224847id_/http%3A//norml.org/index.cfm%3FGroup_ID%3D4487) for the most accurate reproduction.*
 
 # Privacy Statement - NORML
 
-**[ Home](https://web.archive.org/web/20070220083149id_/http%3A//www.norml.org/index.cfm?Group_ID=3374) > Privacy Statement**
+**[ Home](https://web.archive.org/web/20071214224847id_/http%3A//norml.org/index.cfm?Group_ID=3374) > Privacy Statement**
 
 **Privacy Statement**
 
@@ -47,4 +47,4 @@ Washington, DC  20006-2832_
 
 **Contacting the Web Site**
 
-If you have any questions regarding this privacy statement, NORML's practices, or your dealings with this web site, please [contact us](https://web.archive.org/web/20070220083149id_/http%3A//www.norml.org/index.cfm?Group_ID=3441).
+If you have any questions regarding this privacy statement, NORML's practices, or your dealings with this web site, please [contact us](https://web.archive.org/web/20071214224847id_/http%3A//norml.org/index.cfm?Group_ID=3441).
