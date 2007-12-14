@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the saic.com privacy policy that was archived on 2007-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070630190651id_/http%3A//www.saic.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the saic.com privacy policy that was archived on 2007-12-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071214134732id_/http%3A//www.saic.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en-us"><head>
 <title>SAIC: Web Privacy Statement</title>
@@ -27,7 +27,7 @@
 <div id="wrapper3">
 <div id="container">
 <div id="header"><a href="#navigation" title="Skip to side navigation" class="hide">Skip top navigation to side navigation</a>
-<p>From Science to Solutions <sup>TM</sup></p>
+<p>&nbsp;</p>
 <div id="main_logo"><img src="/images/logo_saic_print.jpg" width="116" height="58" alt="SAIC" class="logo">
 <a href="/"><img src="/images/logo_saic.gif" width="116" height="52" alt="SAIC" class="logo"></a></div>
 
@@ -60,11 +60,11 @@
 </div>
 
 <ul id="nav">
-	<li class="solutionsnav"><a href="/business/">Services &amp; Products</a></li>
-	<li class="aboutnav"><a href="/about/">About SAIC</a></li>
-	<li class="investornav"><a href="http://investors.saic.com/">Investor Relations</a></li>
-	<li class="careersnav"><a href="/career/">Careers</a></li>
-	<li class="newsnav"><a href="/news/">News &amp; Publications</a></li>
+	<li class="solutionsnav"><a href="/business/" name="&amp;lid=Services+&amp;+Products&amp;lpos=Top+Menu">Services &amp; Products</a></li>
+	<li class="aboutnav"><a href="/about/" name="&amp;lid=About+SAIC&amp;lpos=Top+Menu">About SAIC</a></li>
+	<li class="investornav"><a href="http://investors.saic.com/" name="&amp;lid=Investor+Relations&amp;lpos=Top+Menu">Investor Relations</a></li>
+	<li class="careersnav"><a href="/career/" name="&amp;lid=Careers&amp;lpos=Top+Menu">Careers</a></li>
+	<li class="newsnav"><a href="/news/" name="&amp;lid=News+&amp;+Publications&amp;lpos=Top+Menu">News &amp; Publications</a></li>
 </ul> 
 </div><!-- END: header -->
 
@@ -85,10 +85,11 @@
  
  
 <ul id="mainnav">
-	<li><a href="http://search.saic.com/ext3/query.html" id="asubnav">Search</a></li> 
+	<li><a href="/search/index.html" id="asubnav">Search</a></li> 
 	<li><a href="/tools/sitemap.asp" id="asubnav1">Site Map</a> </li>
- <li><a href="/tools/contact.html" id="asubnav2">Contact Us</a></li> 
+    <li><a href="/tools/contact.html" id="asubnav2">Contact Us</a></li>
 </ul>
+
  </li>
  </ul>
 </div>
@@ -258,6 +259,7 @@ var hbx=_hbEvent("pv");hbx.vpc="HBX0100u";hbx.gn="ehg-saic.hitbox.com";
 //BEGIN EDITABLE SECTION
 
 function hbxStrip(str){     
+
 str = str.split("|").join("");     
 str = str.split("&").join("");     
 str = str.split("'").join("");     
@@ -271,9 +273,16 @@ str = str.split("<").join("");
 str = str.split(">").join("");     
 str = str.split("~").join("");     
 str = str.split(";").join("");
-str = str.split(":").join("");      
+str = str.split(":").join("");
+str = str.split("&reg;").join("");      
+str = str.split("®").join("");      
+str = str.split("&trade;").join("");
+str = str.split("™").join("");
+str = str.split("&copy;").join("");
+str = str.split("©").join("");
 str = str.split(" ").join("+");     
 return str;}
+
 
 
 //CONFIGURATION VARIABLES
