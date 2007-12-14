@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elasticpath.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623155304id_/http%3A//www.elasticpath.com/privacy/index.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elasticpath.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214141653id_/http%3A//www.elasticpath.com/privacy/index.jsp) for the most accurate reproduction.*
 
 # Elastic Path
 
@@ -76,4 +76,4 @@ If there are material changes to this Privacy Policy, Elastic Path Software will
 
 ## Contact Us 
 
-Should further information be needed regarding our Privacy Policy, please [contact us](https://web.archive.org/web/20070623155304id_/http%3A//www.elasticpath.com/company/contact/index.jsp). 
+Should further information be needed regarding our Privacy Policy, please [contact us](https://web.archive.org/web/20071214141653id_/http%3A//www.elasticpath.com/company/contact/index.jsp). 
