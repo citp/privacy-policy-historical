@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the photoworks.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625054056id_/http%3A//www.photoworks.com/util/knowledgeBaseTemplate.jsp%3FhelpFile%3Dprivacy.html%26subject%3DPrivacy%2520Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photoworks.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214211514id_/http%3A//www.photoworks.com/util/knowledgeBaseTemplate.jsp%3FhelpFile%3Dprivacy.html%26subject%3DPrivacy%2520Policy) for the most accurate reproduction.*
 
-# PhotoWorks: Help with your PhotoWorks account
+# PhotoWorks: Help: Privacy Policy
 
-  
+|  |    
 
 
 PhotoWorks is firmly committed to maintaining your privacy. This includes the privacy of both your photos and your personal information. By using our service, you agree to the terms of this Privacy Policy. The Policy explains what information we collect from you and how it is used in order to continue providing you with outstanding service.
@@ -48,7 +48,7 @@ If you have questions or concerns regarding this statement, you should first con
 
 ### Protecting the Information You Explicitly Provide
 
-Keeping your personal and financial information secure is vitally important to us.  We urge you not to disclose your personal information or password to anyone. The PhotoWorks site has security measures in place to protect against the loss, misuse and alteration of the information under our control. When you enter sensitive information (such as credit card number or password) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL).  Financial information is transferred between client and PhotoWorks Web server using a public/private key encryption method using a certificate authority (VeriSign). We have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. Access to data is limited to authorized PhotoWorks staff members on a need-to-know basis. Web security and security procedures are reviewed and updated to ensure data protection.
+Keeping your personal and financial information secure is vitally important to us.  We urge you not to disclose your personal information or password to anyone. The PhotoWorks site has security measures in place to protect against the loss, misuse and alteration of the information under our control. When you enter sensitive information (such as credit card number or password) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL).  Financial information is transferred between client and PhotoWorks' Web server using a public/private key encryption method using a certificate authority (VeriSign). We have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. Access to data is limited to authorized PhotoWorks staff members on a need-to-know basis. Web security and security procedures are reviewed and updated to ensure data protection.
 
 Sometimes we use personal and/or demographic data to tailor your experience at our site, by showing you content and offers that we think you might be interested in based on the information you provided to us, and by displaying content and offers according to your preferences. Although we do not share personally identifiable information with our partners unless you have given us permission to do so, we may make aggregate statistical and demographic information available to carefully selected third-party partners of PhotoWorks. Such statistical and demographic information does not personally identify you.
 
@@ -58,7 +58,7 @@ PhotoWorks reserves the right to disclose your personally identifiable informati
 
 #### Starting Your Account
 
-When you sign up with PhotoWorks, you establish a password-protected personal account for using our services.  In order to establish the account, we will need your name and email address. This personal information is used to conduct business with you, to verify your identity as a registered PhotoWorks customer, for access to the customer images and for the delivery of prizes or other materials.
+When you sign up with PhotoWorks, you establish a password-protected personal account for using our services.  In order to establish the account, we will need your name and email address. This personal information is used to conduct business with you, to verify your identity as a registered PhotoWorks customer, for access to your customer images and for the delivery of prizes or other materials.
 
 The password you create will allow you to access your account and therefore, should be as secure as possible.  A good password includes seemingly random letters and numbers.  It should not be obvious, such as the name of your child, pet or birthplace. You can update your account information and change your password at any time. You can do this on the ‘Account Info’ page from your personal ‘My PhotoWorks’ page.  If you have forgotten your password, please request a new password by sending an e-mail message to [customercare@photoworks.com](mailto:customercare@photoworks.com).  Your PhotoWorks account can be deactivated, but doing so will result in not being able to access any password-protected area of the PhotoWorks site. Please contact [customercare@photoworks.com](mailto:customercare@photoworks.com) for further instructions about deactivating your PhotoWorks account.
 
@@ -144,3 +144,6 @@ ATTN: Privacy Policy
 Seattle, WA 98104
 
 PhotoWorks reserves the right to modify this Privacy Statement at any time so please visit this page often. If our Privacy Policy changes, the revised policy will be posted on this site and we will change the ‘updated’ date at the top of the page to reflect the date of the modification.
+
+|   
+---|---|---
