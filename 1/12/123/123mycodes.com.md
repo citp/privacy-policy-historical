@@ -1,9 +1,12 @@
-> *The following text is extracted and transformed from the 123mycodes.com privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618084828id_/http%3A//www.123mycodes.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123mycodes.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214154243id_/http%3A//www.123mycodes.com/privacy.php) for the most accurate reproduction.*
 
 # 123mycodes.com User Agreement - Privacy Policy and Terms of Use
 
-  
-123mycodes.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this web site 123mycodes.com. **INFORMATION COLLECTED**
+123mycodes.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this web site 123mycodes.com.
+
+Untitled Document
+
+**INFORMATION COLLECTED**
 
 123mycodes.com is the sole owner of information collected on this website. We will not sell, share, or rent any information.
 
@@ -36,6 +39,8 @@ All content and services provided by 123mycodes.COM are for personal use only. Y
 123mycodes © 2005 and NETAXIS IT SOLUTIONS (P) LTD. All rights are reserved. All content, unless otherwise stated, is owned by MySpace-C123mycodes.com.
 
 If you feel that this site 123mycodes.com is not following its stated information policy, you may contact us: netaxis@gmail.com
+
+WidgetBucks - Trend Watch - WidgetBucks.com
 
   
 
