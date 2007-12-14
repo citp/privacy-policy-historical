@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asic.gov.au privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630064446id_/http%3A//www.asic.gov.au/asic/asic.nsf/byheadline/Privacy%3FopenDocument) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asic.gov.au privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214221600id_/http%3A//www.asic.gov.au/asic/asic.nsf/byheadline/Privacy%3FopenDocument) for the most accurate reproduction.*
 
 # Australian Securities and Investments Commission - Privacy
 
@@ -62,4 +62,4 @@ Read our privacy statements for the [Australian Financial Services Licence Appli
 
 We welcome your [feedback](mailto:feedback@asic.gov.au) about this Privacy Statement and about our site's design and practices.
 
-ASIC Website: Printed 06/30/2007 
+ASIC Website: Printed 12/15/2007 
