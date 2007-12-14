@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fairmont.com privacy policy that was archived on 2007-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070307002905id_/http%3A//www.fairmont.com/EN_FA/FooterNavigation/SecondLevel/PrivacyPolicy.htm%3FDisplayType%3DPopup) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fairmont.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214072726id_/http%3A//www.fairmont.com/EN_FA/FooterNavigation/SecondLevel/PrivacyPolicy.htm%3FDisplayType%3DPopup) for the most accurate reproduction.*
 
-# Terms & Conditions
+# Privacy Policy
 
 [**Francais**](http://www.fairmont.com/FR_FA/Help/Terms.htm?DisplayType=Popup)
 
