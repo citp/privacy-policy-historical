@@ -1,119 +1,108 @@
-> *The following text is extracted and transformed from the livedaily.com privacy policy that was archived on 2005-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050525110119id_/http%3A//www.livedaily.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livedaily.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214182604id_/http%3A//www.livedaily.com/privacy.html) for the most accurate reproduction.*
 
-# liveDaily
+# America's Concert Source >> LiveDaily
 
-|  |  |  |   
----|---|---  
-Search |   
-|  |   
----  
-liveDaily Ticket Report |   
-  
+**LiveDaily Privacy Policy**
+
+LiveDaily is part of the IAC family of businesses, which has grown in recent years to include over 60 brands including Ask.com, Citysearch, Evite, Gifts.com, HSN, Lending Tree, Match.com, ServiceMagic, Ticketmaster and many others. For a list of all of IAC�s businesses, please visit www.iac.com. In order to help customers clearly understand our data collection and use practices, IAC has decided to have its businesses follow a standard set of privacy practices and use a standard format to describe their privacy practices. The following Consumer Privacy statement applies to all IAC businesses. LiveDaily has revised its privacy policy, effective December 1, 2007, consistent with the IAC privacy commitment and standard privacy policy format. Refer to our FAQs for details about the changes. Please review both the Consumer Privacy statement and this site�s complete privacy policy.
+
+**Consumer Privacy at LiveDaily, an IAC Company**
+
+At IAC, we respect the privacy of our users and the importance of the information they entrust to us. We summarize below the basic information policies and practices in place on all IAC websites. To read the entire Privacy Policy of LiveDaily, please click here.
+
+**Information we may collect**
+
+We may collect information that can identify you (�personal information�), such as your name and email address, (i) when you (or other users) provide it to us when using our website or in some other manner, or (ii) from other IAC businesses, from our business partners, and from other third parties. We may combine the personal information that we receive from different sources.
+
+We also may collect other types of information in the following ways when you visit our website:  
+» Our server logs automatically collect information, such as your IP address, your browser type and language, and the date and time of your visit, which helps us track users� movements around our site and understand trends.   
+» We may assign your computer one or more cookies which may collect information to facilitate access to our website and to personalize your online experience.   
+» We may use standard Internet tools, such web beacons, which collect information that tracks your use of our website and enables us to customize our services and advertisements.  
 
 
-Our daily preview of what's going onsale at Ticketmaster.
+We do not knowingly collect personal information from children under the age of 13. Should we ever do so, we will comply with the Children�s Online Privacy Protection Act.
 
-[more>](http://www.livedaily.com/onsale/)  
+**Information others may collect**
 
+We may allow third-party advertising companies or ad networks to display advertisements on our websites.   
+» We do not provide any personal information to these companies.   
+» These companies may use tracking tools, such as cookies, to collect information about computers used to view or interact with their advertisements.   
+» Some of these companies may be members of the Network Advertising Initiative [link to www.networkadvertising.org], which offers consumers the ability to opt out of ad targeting by all member companies. 
 
-|   
-[](https://web.archive.org/onsale/) |   
-|   
-| [The Rolling Stones](https://web.archive.org/onsale/archive/1081-1.html)  
-|   
-| [Tom Jones](https://web.archive.org/onsale/archive/1081-2.html)  
-|   
-| [Lynyrd Skynyrd](https://web.archive.org/onsale/archive/1081-3.html)  
-|   
-| [Moody Blues](https://web.archive.org/onsale/archive/1081-4.html)  
-|   
-| [Rascal Flatts](https://web.archive.org/onsale/archive/1081-5.html)  
-|   
-| [Blues Brothers](https://web.archive.org/onsale/archive/1081-6.html)  
-|   
-| [Duran Duran](https://web.archive.org/onsale/archive/1081-7.html)  
-|   
-| [Gipsy Kings](https://web.archive.org/onsale/archive/1081-8.html)  
-|   
-| [Engelbert Humperdinck](https://web.archive.org/onsale/archive/1081-9.html)  
-|   
-| [Oasis](https://web.archive.org/onsale/archive/1081-10.html)  
-|   
-| [Hootie and the Blowfish](https://web.archive.org/onsale/archive/1081-11.html)  
-|   
-| [Coldplay](https://web.archive.org/onsale/archive/1081-12.html)  
-|   
-| [Kelly Clarkson](https://web.archive.org/onsale/archive/1081-13.html)  
-|   
-| [Anne Murray](https://web.archive.org/onsale/archive/1081-14.html)  
-|   
-| [Jewel](https://web.archive.org/onsale/archive/1081-15.html)  
-|   
-| [see more](http://www.livedaily.com/onsale/)  
-|   
-|   
-|  |  |   
-  
-  
-|   
----|---  
-|  |  |   
----  
-Privacy Policy  
-| **liveDaily Privacy Policy**  
-liveDaily has created this privacy policy to demonstrate our firm commitment to protecting your personal information and informing you about how we handle it. This privacy policy only applies to transactions made, and data gathered, on the ticketmaster.com web site (the "Site") and does not apply to any other web site or offline point of contact between liveDaily and consumers. Please review this privacy policy periodically as we may update it from time to time. This privacy policy was last revised on June 6, 2003. Each time you visit the Site or provide us with information, by doing so you are accepting the practices described in this privacy policy at that time.  
-| **Your IP Address**  
-Like most e-commerce websites, each time you visit the Site, we automatically collect your IP address and the web page from which you came. In order to administer and optimize the Site for you and to diagnose problems with our Site, we use your IP address to help identify you and to gather broad demographic information about you.  
-| **Cookies**  
-Like most websites, the Site uses cookies to keep track of your purchases and other activity on the Site and enhance your experience on the Site. We also use cookies to deliver content specific to your interests, to save your password, and if you choose, to save other personal and financial information so you do not have to re-enter it each time you visit the Site. Third party advertisers on the Site may also place or read cookies on your browser. If you wish to disable these cookies, the "help" portion of the toolbar on most browsers will tell you how. However, if you set your browser to disable cookies, you may not be able to access certain areas on the Site.  
-| **Information We Collect From You**  
-In order to operate the Site and provide you with information on products and services that may be of interest to you, we may collect personal information (i.e. information that could be used to contact you such as full name, postal address, phone number and email address), financial information (e.g. passwords, credit and debit card numbers and bank and other financial institution account numbers) and demographic information (zip code, hometown, gender, purchase history information and age) from you. Please note that nowhere on the Site do we knowingly collect personal information from children under the age of 13.  
-| **Information Other Web Sites Collect From You**  
-On the Site, we place links to other web sites operated by other parties. Some of these other web sites contain our brand names and trademarks and other intellectual property that we own; others do not. When you click on these links and visit these other web sites, regardless of whether or not they contain our brand names, trademarks and other intellectual property, you need to be aware that we do not control these other web sites or these other web sites' business practices, and that this privacy policy does not apply to these other web sites. Consequently, the operators of these other web sites may collect different kinds of information about you, and may use and disclose that information in different ways than we would if it were collected on the Site. We encourage you to review their privacy policies and remind you that we will not be responsible for their actions.  
-| **How We Use Personal Information**  
-We use your personal information to help us efficiently perform transactions on the Site, to deliver the services you have requested, to contact you when necessary in connection with events for which you purchased tickets on the Site (including event confirmations, changes and cancellations), and to send you information, offers and other promotional materials from liveDaily and selected third parties. We carefully select the information we send to you and attempt to send you offers that are of value to you, such as discounts, exclusive offers or special event information. The Site provides you with the option of declining to receive offers from liveDaily by "opting-out" of receiving this type of communication. To process transactions on the Site, we may share your personal information with our agents, representatives, contractors and service providers so they can provide us with support services such as authorization of credit card transactions, order fulfillment and sweepstakes and promotional fulfillment, as well as to your credit card issuer for their purposes. We require these entities not to use your information for any other purpose. 
+If you post information about yourself or others, or communicate with others using our website, please note that we cannot control who reads your postings or what they do with the information you provide. We encourage you to use caution in posting personal information.
 
-By purchasing a ticket, or completing a registration form so that you are able to access a purchase page for a ticket, to a concert, game or other event on the Site, you consent (i.e., you opt-in) to us sharing your personal information with the venues, promoters, artists, teams, leagues and other third parties associated with that concert, game or other event ("Event Partners"). We cannot offer you a separate opportunity to opt-out, or not to consent, to our sharing of your personal information with them. Event Partners may use your personal information in accordance with their own privacy policies, and may consequently use your personal information to contact you and may share your personal information with others. You will need to contact those Event Partners who contact you to instruct them directly regarding your preferences for the use of your personal information by them. 
+**How we may use information we collect**
 
-By purchasing, or making reservations for, products or services (such as magazine subscriptions, hotel bookings or cruises), electing to receive communications (such as emails) or electing to participate in, or register for, contests, sweepstakes, or other programs (such as discount or rewards programs), offered or sponsored by third parties on the Site, you consent to our providing your personal information to those third parties. Those third parties may use your personal information in accordance with their own privacy policies, and may consequently use your personal information to contact you and may share your personal information with others. You will need to contact those third parties to instruct them directly regarding your preferences for the use of your personal information by them. Additionally, you agree that we will have the right to use and disclose all such information submitted by you for such third party offers in the same manner in which we use and disclose all other information submitted by you for offers we sponsor. 
+We may use information to:   
+» Fulfill your requests for products and services;   
+» Offer products and services that may be of interest to you;   
+» Customize the advertising and content that you see on our website;   
+» Facilitate use of our website;   
+» Manage your My Reservations account and your preferences;   
+» Analyze use of and improve our website, products and services;   
+» Identify and protect against fraudulent transactions and other misuses of our website; and   
+» Enforce our Terms of Use.
 
-We may select third parties with whom we will share your personal information so that they can communicate directly with you about their products and services. In order to decline having your personal information that we collected on the Site shared with these selected third parties, you must, in the My Account section of the Site, uncheck both the box for receiving Special Ticket Offers and the box for receiving Ticket Related Merchandise and Services. We attempt to carefully select these third parties and the specific offers they intend to communicate to you so that you will receive valuable offers. 
+**With whom we may share information we collect**
 
-Your personal information may be passed on to a third party in the event of a transfer of ownership or assets, or a bankruptcy, of liveDaily. We may also disclose specific information when we determine that such disclosure is necessary to comply with law, to cooperate with law enforcement or to protect the interests or safety of liveDaily or other visitors to the Site or users of services or products provided by liveDaily. We may also disclose your personal information to our subsidiary and parent companies and businesses, and other affiliated legal entities and businesses with whom we are under common corporate control. However, all of these parent, subsidiary and affiliated legal entities and businesses that receive your personal information from us will comply with the terms of this privacy policy with respect to their use and disclosure of such personal information. 
+We will not share your personal information with others except as indicated below, or except when we inform you in advance and give you the opportunity to opt out. We may share personal information with:  
+» Event providers, such as the venues, promoters, artists� representatives and fan clubs, teams, leagues and others who are involved in, produce, or bring you events;  
+» Service providers, such as credit-card payment processors, performing services on our behalf;  
+» Other IAC businesses;   
+» Other businesses with which we partner or which we carefully select to offer you products, services, and promotions through our website or offline; and  
+» Other third parties in limited circumstances, such as complying with legal requirements, preventing fraud, and protecting the safety of our users. 
 
-Except as may otherwise be described in this policy, we have no control over the personal information practices of Event Partners and other third parties. As described above, by purchasing tickets on the Site, purchasing other products or services from third parties, electing to receive communications from or to participate in contests, sweepstakes or other programs associated with, or sponsored by, third parties, filling out a registration form on the Site or otherwise opting to allow us to share your information with third parties as permitted in this policy, you authorize us to share your personal information with Event Partners and these other third parties, and you agree that we are not responsible or liable for any of their actions or omissions. These Event Partners and these other third parties may use your personal information in accordance with our contractual arrangements with them and in accordance with their own privacy policies, over which we have no control. You will need to contact them directly in order to instruct them regarding your preferences for how they use your personal information.  
-  
-| **How We Use Financial Information**  
-We use your financial information to check your qualifications, to bill you for products and services and to enable you to participate in discount, rebate and similar programs in which you may elect to participate. By making a purchase, or engaging in any other kind of activity that uses financial information, on the Site, you consent to our providing your financial information to our service providers and to such third parties as we determine is necessary to process your transactions, as well as to your credit card issuer for their purposes. These third parties may include the credit card companies and banking institutions used to process the transaction. Also, depending on the circumstances of our arrangements, we may share your financial information with applicable Event Partners, primarily for facilitating "will call" ticket pick up and dispute resolution and customer service at the event venue on the date of the event. By purchasing, or making reservations for, products or services of third parties (such as magazine subscriptions, hotel bookings or cruises) offered on the Site, or by participating in programs offered on the Site that are administered by third parties and that require you to submit financial information in order to use them, you also consent to our providing your financial information to those third parties. Any of these various third parties are authorized to use your financial information in accordance with our contractual arrangements with such third parties and in accordance with their own privacy policies, over which we have no control. When we provide financial information pertaining to a transaction, we may also provide payment information pertaining to that transaction, such as amount of money paid or types of payment methods used. Your financial information may be passed on to a third party in the event of a transfer of ownership or assets, or a bankruptcy, of liveDaily. We may also disclose specific information when we determine that such disclosure is necessary to comply with law, to cooperate with law enforcement or to protect the interests or safety of liveDaily or other visitors to the Site or users of services or products provided by liveDaily. We may also disclose your financial information to our subsidiary and parent companies and businesses, and other affiliated legal entities and businesses with whom we are under common corporate control. However, all of these parent, subsidiary and affiliated legal entities and businesses that receive your financial information from us will comply with the terms of this privacy policy with respect to their use and disclosure of such financial information.  
-| **How We Use Demographic Information**  
-We use demographic information to tailor the Site and communications to the interests of our users. We may share your personal and demographic information with our Event Partners. We may share anonymous, aggregated (grouped) demographic information with advertisers and other third parties so that they can tailor their advertisements and communications to the appropriate audience. If you consent to have us share, or we are otherwise allowed to share, your personal information, as described above, then the demographic information that we provide to third parties may be linked to your personal information so that they will be able to know about your demographic information on a non-anonymous basis.  
-| **Our Security Precautions; Geographic Location of Information**  
-The Site has security measures in place to protect against the loss, misuse and alteration of the information under our control. We use secure socket layer (SSL) technology to protect the security of commerce transactions. We encrypt your personal and financial information as it travels over the Internet and we store your financial information on our servers in encrypted form. Your information may be transferred to and maintained on computer networks which may be located outside of the state, province, country or other governmental jurisdiction in which you reside, and the country or jurisdiction in which these computer networks are located may not have privacy laws as protective as the laws in your country or jurisdiction.  
-| **How You Can Access and Update Your Email Preferences, Personal Information and other My Account Information**  
-When you register to create an account with the Site or complete a purchase transaction on the Site, we will either give you the opportunity to set certain email preferences at the place where you register or make the purchase, or we will automatically set certain email preferences for you. When you receive a confirmation email from us confirming your registration or purchase, you will be provided with a link to change these preferences. The link will take you to a place where you can change registration information, including your email preferences. After we collect personal information that you submit in connection with purchasing or reserving products or services, electing to receive communications or electing to participate in contests, sweepstakes, or other programs (such as discount or rewards programs), offered or sponsored by third parties on the Site, or registering with the Site, we may use such information to send you marketing emails. However, if we do so, we will provide a link that you can click on to opt-out of receiving subsequent marketing emails sent by us generated from the same such information. We also give you the opportunity to opt-out and modify information you have provided to us at anytime by clicking on the My Account link, navigating to your "My Account" account and selecting those portions of your account you would like to update. Please note that changing or deleting your information through your My Account Profile, or otherwise opting-out of receipt of email communications from liveDaily and third parties (other than Event Partners) will only change or delete the data in our My Account database for purposes of transacting future business on the Site and for managing future communications from liveDaily and third parties. These changes and deletions will not change or delete: 
+We may share aggregated, non-personal information in any of the above situations and also with advertisers and others. 
 
-A) Information already collected as part of a particular ticket purchase in our transactions database which may be shared with our Event Partners regardless of your email preferences; or 
+**Your choices**
 
-B) Information that we may have already forwarded to Event Partners, credit card companies or any other third parties, all as provided above in this privacy policy. 
+You may choose:  
+» Not to provide personal information, although that may result in your inability to obtain certain services or use certain features of our website;  
+» To stop receiving promotional emails or newsletters from us by sending an email to the contact address at the bottom of this policy;  
+» To delete or decline cookies by changing your browser settings, although if you do so, some of the features or services of our website may not function properly;  
+» To review and update your personal information by contacting us at the email address below.
 
-If you have any questions or concerns about this privacy policy, the practices of the Site, or your dealings with the Site, you can contact us at legal@ticketmaster.com. 
+**Security**
 
-You can also send us mail to: 
+We take appropriate physical, electronic, and other security measures to help safeguard personal information from unauthorized access, alteration, or disclosure.
 
-Privacy Officer  
-liveDaily.com, c/o Legal Department  
-8800 West Sunset Boulevard  
+**Changes to our Privacy Policy**
+
+We may occasionally update our Privacy Policy to reflect changes in our practices and services. If we make material changes in the way we collect, use, or share your personal information, we will notify you by sending you an email to the email address you most recently provided to us and/or by prominently posting notice of the changes on our website.
+
+**Your California Privacy Rights**
+
+If you are a resident of California, in addition to the rights set forth above, you have the right to request information from us regarding the manner in which we share certain categories of personal information with third parties and the IAC companies for their direct marketing purposes. California law gives you the right to send us a request at a designated address to receive the following information:  
+1\. the categories of information we disclosed to third parties for their direct marketing purposes during the preceding calendar year  
+2\. the names and addresses of the third parties that received that information; and  
+3\. if the nature of the third party�s business cannot be determined from their name, examples of the products or services marketed.  
+We may provide this information in a standardized format that is not specific to you. The designated email address for these requests is legal@ticketamaster.com.
+
+**How to contact us**
+
+If you have any questions about this summary, our Privacy Policy [link to Privacy Policy], or our information practices, please contact us by email or postal mail below:  
+**Privacy Officer  
+c/o Legal Department  
+8800 W. Sunset Blvd.  
 West Hollywood, CA 90069  
-  
-|  |   
-  
-[FAQ](https://web.archive.org/faq.html) | [liveDaily newsletter](http://www.livedaily.com/newsletter/) | [ticketAlert](https://web.archive.org/faq.html) | [Contact Us](http://www.livedaily.com/mail/staff/0.html) | [Advertise With Us](http://www.livedaily.com/mail/staff/0.html)  
-[Privacy Policy](https://web.archive.org/privacy.html) | [Content Syndication](http://www.livedaily.com/rss/)
+legal@ticketmaster.com**
 
-© 1998 - 2004 Ticketmaster. All rights reserved.   
-  
-partner sites:  [Citysearch](http://www.citysearch.com/)  [ClassicVacations.com](http://www.classicvacations.com/)  [CondoSaver.com](http://www.condosaver.com/)    
-[Entertainment.com](http://www.entertainment.com/)  [Evite](http://www.evite.com/)  [Expedia](http://www.expedia.com/)  [Gifts.com](http://www.gifts.com/)  [Hotels.com](http://www.hotels.com/)  [Hotwire](http://www.hotwire.com/)  [HSN ](http://www.hsn.com/)  [  
-ImprovementsCatalog.com](http://www.improvementscatalog.com/)  [LendingTree](http://www.lendingtree.com/)  [Match.com](http://www.match.com/)  [RealEstate.com](http://www.realestate.com/)    
-[ReserveAmerica](http://www.reserveamerica.com/)  [Ticketmaster](http://www.ticketmaster.com/)  [TicketWeb](http://www.ticketweb.com/)   [TripAdvisor](http://www.tripadvisor.com/)  [liveDaily Weblog](http://talk.livedaily.com/blog/)  
+© IAC/InterActiveCorp. All rights reserved. 
+
+  * [LiveDaily News Break, December 13: Miley Cyrus, Dierks Bentley, Josh Groban and more (iTunes)](http://blogs.livedaily.com/index.php/podnewsbreakmp3/comments/1370/livedaily_news_break_december_13_miley_cyrus_dierks_bentley_josh_groban_and.html)  
+Today's edition features news and tour information about Miley Cyrus, Dierks Bentley, Paul Potts and Ike Turner. We'll also check out which albums made the Top 5 on this week's album chart. 
+
+[mp3 version](http://media.livedaily.com/podcast/newsbreak/ldnewsbreak-mp3-20071213.mp3 "LiveDaily newsbreak mp3") | [iTunes version](http://media.livedaily.com/podcast/newsbreak/ldnewsbreak-itunes-20071213.m4a "LiveDaily newsbreak M4A") | [Subscribe at iTunes](http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=260996210 "Subscribe at iTunes")
+
+  * [LiveDaily News Break, December 12: Lenny Kravitz, Marilyn Manson, Wu-Tang Clan and more](http://blogs.livedaily.com/index.php/podnewsbreakmp3/comments/1364/livedaily_news_break_december_12_lenny_kravitz_marilyn_manson_wu_tang_clan.html)  
+Today's edition features news and tour information about Lenny Kravitz, Jill Scott, Wu-Tang Clan, Henry Rollins and Marilyn Manson. 
+
+[mp3 version](http://media.livedaily.com/podcast/newsbreak/ldnewsbreak-mp3-20071212.mp3 "LiveDaily newsbreak mp3") | [iTunes version](http://media.livedaily.com/podcast/newsbreak/ldnewsbreak-itunes-20071212.m4a "LiveDaily newsbreak M4A") | [Subscribe at iTunes](http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=260996210 "Subscribe at iTunes")
+
+  * [LiveDaily News Break, December 11: Van Halen, B.B. King, The Mars Volta and more](http://blogs.livedaily.com/index.php/podnewsbreakmp3/comments/1356/livedaily_news_break_december_11_van_halen_bb_king_the_mars_volta_and_more.html)  
+Today's edition features news and tour information about Van Halen, B.B. King, The Mars Volta, Dolly Parton, Pink Floyd and more. 
+
+[mp3 version](http://media.livedaily.com/podcast/newsbreak/ldnewsbreak-mp3-20071211.mp3 "LiveDaily newsbreak mp3") | [iTunes version](http://media.livedaily.com/podcast/newsbreak/ldnewsbreak-itunes-20071211.m4a "LiveDaily newsbreak M4A") | [Subscribe at iTunes](http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=260996210 "Subscribe at iTunes")
+
+
 
