@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bagsandbowsonline.com privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608023351id_/http%3A//www.bagsandbowsonline.com/miscell/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bagsandbowsonline.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216003437id_/http%3A//www.bagsandbowsonline.com/miscell/Privacy.asp) for the most accurate reproduction.*
 
 # Privacy
 
@@ -93,8 +93,8 @@ On the registration form, you may choose to receive various communications from 
 
 **Correct/Update/Access/Opt Out**  
 Bags & Bows  
-33 Union Avenue  
-Sudbury MA 01776   
+500 Main Street  
+Groton MA 01471   
 (Attention: Customer Service)  
 Phone 1-800-822-7026 (Customer Service)   
 Fax 1-800-225-8455   
@@ -103,8 +103,8 @@ E-mail: [customerservice@bagsandbowsonline.com](mailto:customerservice@bagsandbo
 **General Inquiries**   
 If you have questions regarding your order, please contact us at:   
 Bags & Bows  
-33 Union Avenue  
-Sudbury MA 01776   
+500 Main Street  
+Groton MA 01471   
 (Attention: Customer Service)  
 Phone 1-800-822-7026 (Customer Service)   
 Fax 1-800-225-8455   
