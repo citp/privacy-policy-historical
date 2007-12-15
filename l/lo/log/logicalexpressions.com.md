@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the logicalexpressions.com privacy policy that was archived on 2007-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070615000146id_/http%3A//www.logicalexpressions.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logicalexpressions.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216001700id_/http%3A//www.logicalexpressions.com/privacy.htm) for the most accurate reproduction.*
 
 # Logical Expressions, Inc. - Print and Online Publishing Products and Services - Books, Web Sites, Newsletters and Information Products
 
@@ -26,7 +26,7 @@ To send you an e-zine or sell you a product, we need your e-mail address. Howeve
 
 Similarly, if you send us an e-mail, we use your return email addresses to answer the e-mail. However, we don't use your address for any other purpose and we absolutely do not share it with any outside parties.
 
-If you decide you want to stop receiving our e-zine, you can always "opt-out." The unsubscribe instructions appear in every issue of the e-zine and on the Web site.
+If you decide you want to stop receiving an e-zine, you can always "opt-out." The unsubscribe instructions appear in every issue of the e-zine and on the Web site.
 
 Note that LEI is the sole owner of the information collected on our sites. We only have access to/collect information that you voluntarily give us via e-mail or other direct contact from you. We will not ever sell or rent this information to anyone. 
 
@@ -38,8 +38,8 @@ You may opt out of any future contacts from us at any time. You can do the follo
 
 Here's a list of the information we collect and how we use it.
 
-  * Like most sites on the Internet, all Logical Expressions, Inc. Web sites automatically tracks certain general information about your visit so we know how many people visit the site, which browsers they are using, what Web page they came from, and which pages they visited on our site. This information helps us monitor customer traffic and site usage to help us improve the content, design, and layout of the site. When you visit Logical Expressions, Inc., our Web server gathers this information by tracing your domain name (such as aol.com, for example) but not your e-mail address. Note that none of this information is used (or can be used) to identify you personally. 
-  * We use Authorize.net to process payments. So when you want to buy an book, software or otherwise pay us for something by credit card, our shopping cart will need your name, e-mail address, address, telephone number, and credit card information which we then use to fulfill your order and to deliver information to you regarding your order. 
+  * Like most sites on the Internet, all Logical Expressions, Inc. Web sites automatically track certain general information about your visit so we know how many people visit the site, which browsers they are using, what Web page they came from, and which pages they visited on our site. This information helps us monitor customer traffic and site usage to help us improve the content, design, and layout of the site. When you visit Logical Expressions, Inc., our Web server gathers this information by tracing your domain name (such as aol.com, for example) but not your e-mail address. Note that none of this information is used (or can be used) to identify you personally. 
+  * We use Authorize.net to process payments. So when you want to buy a book, software or otherwise pay us for something by credit card, our shopping cart will need your name, e-mail address, address, telephone number, and credit card information which we then use to fulfill your order and to deliver information to you regarding your order. 
   * Although the cart collects your credit card information for payment, the information is kept strictly private and confidential. We do not store credit card numbers in our ecommerce sites. 
   * Some of our advertisers may use cookies to track the fact that you clicked their link on our site. However, we have no access to or control over these cookies. 
 
@@ -51,7 +51,7 @@ We take precautions to protect your information. To prevent unauthorized access,
 
 ## Links
 
-Our Web sites contains links to other sites. Please be aware that we are not responsible for the content or privacy practices of such other sites. Most of the links open a new browser window, so it's clear you are no longer on our site. However, we do encourage our users to be aware when they leave our site and to read the privacy statements of any other site that collects personally identifiable information. 
+Our Web sites contain links to other sites. Please be aware that we are not responsible for the content or privacy practices of such other sites. Most of the links open a new browser window, so it's clear you are no longer on our site. However, we do encourage our users to be aware when they leave our site and to read the privacy statements of any other site that collects personally identifiable information. 
 
 ## Feedback
 
@@ -61,4 +61,4 @@ Logical Expressions, Inc.
 311 Fox Glen Road  
 Sandpoint, Idaho 83864  
 Phone: 208-265-3636  
-[E-mail](https://web.archive.org/web/20070615000146id_/http%3A//www.logicalexpressions.com/contact.asp) | 
+[E-mail](https://web.archive.org/web/20071216001700id_/http%3A//www.logicalexpressions.com/contact.asp) | 
