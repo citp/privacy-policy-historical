@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dollmore.net privacy policy that was archived on 2007-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070208001708id_/http%3A//www.dollmore.net/infodesk/protection_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dollmore.net privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215130233id_/http%3A//www.dollmore.net/infodesk/protection_policy.php) for the most accurate reproduction.*
 
 # ¢Æ Everything of Doll - DOLLMORE ¢Æ
 
