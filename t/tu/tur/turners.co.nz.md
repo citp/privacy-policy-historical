@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the turners.co.nz privacy policy that was archived on 2007-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070514010108id_/http%3A//www.turners.co.nz/Branches/TurnersAuctions/tabid/285/AboutUs/PrivacyStatement/tabid/241/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turners.co.nz privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215181632id_/http%3A//www.turners.co.nz/Branches/TurnersAuctions/tabid/285/AboutUs/PrivacyStatement/tabid/241/Default.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
