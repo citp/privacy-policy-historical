@@ -1,16 +1,18 @@
-> *The following text is extracted and transformed from the fast-autos.net privacy policy that was archived on 2007-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070605215733id_/http%3A//fast-autos.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fast-autos.net privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215102012id_/http%3A//fast-autos.net/privacy) for the most accurate reproduction.*
 
-# Fast-Autos.net - An online car magazine and information database of fast cars with pictures and specifications of over 1000 of the world's fastest automobiles plus automotive news, feature stories, road tests, motorsports, and photo gallery
+# Fast-Autos.net - Fast Cars, Cool Cars, Hot Cars at FastAutos.net!
 
-Log In
+(10/05/06)
 
-Search Fast-Autos.net
+(09/11/06)
 
-Latest Vehicles
+(08/15/06)
 
-Popular Vehicles
+(08/04/06)
 
-Latest Forum Threads
+(06/13/06)
+
+[](http://www.fast-autos.net/potd/1215.jpg)
 
 Privacy Policy
 
