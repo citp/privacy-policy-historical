@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vonage.co.uk privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609122055id_/http%3A//www.vonage.co.uk/help_knowledgeBase_article.php%3Farticle%3D399%26category%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vonage.co.uk privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215201905id_/http%3A//www.vonage.co.uk/help.php%3Flid%3Dfooter_privacy%26article%3D399) for the most accurate reproduction.*
 
-# Vonage UK - Cheap local, national and International Calls using VOIP
+# Cheap Calls using VoIP with Vonage UK - Broadband Phone Provider
 
 ## Vonage Privacy Policy
 
