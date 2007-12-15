@@ -1,10 +1,17 @@
-> *The following text is extracted and transformed from the freelancewebmarket.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625031458id_/http%3A//freelancewebmarket.com/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freelancewebmarket.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215203357id_/http%3A//freelancewebmarket.com/privacy-policy.shtml) for the most accurate reproduction.*
 
 # Privacy-policy - FreelanceWebmarket
 
+[](http://www.freelancewebmarket.com/)
+
+FreelanceWebmarket.com gives web designers • website developers and other professionals opportunity to trade their services. There are registration forms for service buyers [project holders] and service providers [freelance programmers, website designers, developers and other professionals].
+
+|  | **[Homepage](http://www.freelancewebmarket.com/)** |  |  | **[Marketplace](http://www.freelancewebmarket.com/marketplace.shtml)** |  |  | **[Post Project](http://www.freelancewebmarket.com/post-project.shtml)** |  |  | **[Sign In](http://www.freelancewebmarket.com/sign-in.shtml)** |  |  | **[Register](http://www.freelancewebmarket.com/register.shtml)** |   
+---|---|---|---|---|---|---|---|---|---|---|---|---|---|---  
+  
 Please read the following to learn more about our privacy policy.
 
-This policy covers how FreelanceWebmarket.com treats personal information that FreelanceWebmarket.com collects and receives. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and other information related you that is not otherwise publicly available except to provide products or services you`ve requested, when we have your permission.   
+This policy covers how FreelanceWebmarket.com treats personal information that FreelanceWebmarket.com collects and receives. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and other information related you that is not otherwise publicly available except to provide products or services you have requested.  
 This policy does not apply to the practices of companies that FreelanceWebmarket.com does not own or control or to people that FreelanceWebmarket.com does not employ or manage.
 
 FreelanceWebmarket.com collects personal information when you use FreelanceWebmarket.com products or services, when you register with FreelanceWebmarket.com, when you visit FreelanceWebmarket.com pages.  
@@ -37,9 +44,8 @@ Tallinn, 13413, Estonia
 Fax: (+372) 65 22 645  
 
 
-or by email: copyright-fwm at freelancewebmarket.com
+or by email: [Contact Us](http://www.freelancewebmarket.com/contact.shtml?mod=Freelance_Projects)
 
-Effective Date: January 07, 2007  
-  
-  
+Effective Date: January 07, 2007 (last update 26 07 2007)
+
 FreelanceWebmarket offers an exciting professional environment where a diverse group of talented, experienced individuals work together as a team to build a new and exciting marketplace with a broad range of projects and services available to you at any time necessary. Our members are freelancers, companies and individuals from the United States, United Kingdom, Canada, India, Romania and many other countries. We provide you with an access to hundreds of qualified freelance, experienced and professionals for FREE. Service buyers will save time when searching for affordable and professional services from our network of professional programmers, developers, web designers etc., and service providers will save time when searching for gainful employment on the Internet. Our team has outstanding reputable professional and academic records and credentials, plus a passion for professional excellence and service to our members and partners. As a marketplace, FreelanceWebmarket is dedicated to ensuring that our workplace, culture, and benefits encourage all members to thrive both professionally and personally! We are constantly accepting résumé’s from dynamic, talented and highly motivated professional individuals as well as teams who strive to join our highly professional and progressive group, we offer a comprehensive equal-opportunity atmosphere that will surely be an asset to all who join. Custom web design projects, freelance work and outsourcing jobs on FreelanceWebmarket.
