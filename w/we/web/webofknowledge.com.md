@@ -1,58 +1,66 @@
-> *The following text is extracted and transformed from the webofknowledge.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403094406id_/http%3A//www.isinet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webofknowledge.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215045737id_/http%3A//scientific.thomson.com/privacy) for the most accurate reproduction.*
 
-# Thomson ISI - Privacy Policy
+# Privacy Policy - Thomson Scientific
 
-Last updated August 11, 2003
-
-Thomson Scientific knows that you care how information about you is used and shared and we appreciate your trust in us to do that carefully and sensibly. This notice describes our privacy policy. 
-
-The following details apply to any personal information provided or gathered by Thomson Scientific and its associated businesses (Thomson ISI; Thomson ISI ResearchSoft; Thomson Derwent Information Ltd; Thomson Current Drugs; Thomson Wila-Derwent; and Thomson Delphion). 
-
-Your use of this Web Site indicates to us that you have read and accept our privacy practices, as outlined in this Privacy Statement. If you have any questions or concerns regarding this Privacy Statement, please [contact the webmaster](mailto:webmaster@isinet.com).
-
-**WHAT INFORMATION ABOUT YOU DO WE COLLECT?**
-
-When you visit our Web Site, you may provide us with two types of information: (1) personally identifiable information that you knowingly choose to disclose, which is collected on an individual basis, and (2) general user information that does not contain personally identifiable information, which is collected on an aggregate basis as you browse the Web Site. In some cases, if you choose not to provide us with requested information, you may not be able to access all of our Web Site's content or services.
-
-In addition to providing us with information through the Web site you may also provide us with personally identifiable information that you knowing choose to disclose when registering interest in Thomson Scientific products and/or services.
-
-**Personally Identifiable Information You Choose to Provide.**
-
-We may ask for certain personal information from you for the purpose of providing to you content and/or services that you request. For example, if you indicate an interest in one of out Thomson Scientific newsletters, you are asked to submit your name and e-mail address, which we retain on file, so that we may send you the information that you requested. We may retain a record of users who have contacted us in order to respond properly to questions or concerns and for purposes of future communications and marketing programs.
-
-  
-**Non-Personally Identifiable Information We Collect.**
-
-Cookies/ Web server logs: Similar to other commercial Web sites, our Web Site utilizes standard technology called "cookies" and Web server logs to collect information about how our Web Site is used. Cookies are a feature of Web browser software that allows Web servers to recognize the computer used to access a Web site. Cookies are small pieces of data that are stored by a user's Web browser on the user's hard drive. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web Site, and the Web sites visited just before and just after our Web Site. 
-
-You can, of course, disable cookies on your computer by indicating this in the preferences or options menus in your browser. However, it is possible that some parts of our Web Site will not operate correctly if you disable cookies. You should consult with your browser's provider/manufacturer if you have any questions regarding disabling cookies.
-
-**HOW DO WE USE THE INFORMATION WE COLLECT?**
-
-We use your personally identifiable information to provide you with the information or content that you have requested, and, in some cases, to contact you about our programs, products, features or services. If you no longer wish to receive such information from us, please [contact the webmaster](mailto:webmaster@isinet.com).
-
-We use non-identifying information collected on our Web Site in the aggregate to better understand your use of the Web Site and to enhance your enjoyment and experience. For example, we may use the information to improve the design and content of our Web Site or to analyze the programs and services that we offer.
-
-We may employ other companies and individuals to perform functions on our behalf. Our employees, agents and contractors who have access to personally identifiable information are required to protect the information in a manner that is consistent with this Privacy Statement.
-
-We may provide access to your personally identifiable information when legally required to do so, to cooperate with police investigations or other legal proceedings, to protect against misuse or unauthorized use of our Web Site, to limit our legal liability and protect our rights, or to protect the rights and safety of visitors to this Web Site or the public. In those instances, the information is provided only for that limited purpose.
-
-We will not share your personally identifiable information in ways unrelated to those described above without providing you with an opportunity to opt out of such use or otherwise prohibit such unrelated uses.
-
-**DATA SECURITY**
-
-We take reasonable steps to maintain the security of the personally identifiable information that we collect, including limiting the number of people who have physical access to our database servers, as well as installing electronic security systems that guard against unauthorized access. However, no data transmission over the Internet can be guaranteed to be completely secure. Accordingly, we cannot ensure or warrant the security of any information that you transmit to us, so you do so at your own risk.
-
-**CONSENT TO TRANSFER**
-
-Thomson Scientific Web Sites are operated in the United States, United Kingdom and Japan. Please be aware that Thomson Scientific is a global organisation with offices located all over the world and thus information you provide to us may be transferred to these locations. By using our Web Site, participating in any of our services and/or providing us with your information, you consent to this transfer.
-
-**LINKS**
-
-This Web Site may contain links to third party sites as well as to other sites owned and/or operated by Thomson Scientific and The Thomson Corporation. Please be aware that Thomson Scientific is not responsible for the privacy practices of any third party sites. Please also be aware that the privacy policies of other Thomson sites may differ significantly from the privacy policy of this Web Site. Therefore, we encourage our users to read the privacy statement of each and every Web site that collects personally identifiable information. This Privacy Statement applies solely to information collected by this Web Site.
-
-
-
+| 
 
   
 
+
+[Thomson Scientific](https://web.archive.org/ts/) : Privacy Policy   
+  
+---  
+  | 
+
+PRIVACY POLICY  
+  
+**Scope and Purpose**
+
+This privacy statement is designed to help you understand how Thomson Scientific (“we”) may collect and use personal information about you as a client, or potential client, of our products and services. 
+
+This privacy statement applies to any personal information you may provide to us via Thomson Scientific’s websites (“Web Sites”). These Web Sites provide direct links to other web sites. This privacy statement does not apply to those web sites. Before disclosing personal information on any other company’s web site, you should read the privacy statement associated with that web site. 
+
+Any information you may provide to our customer support services, whether directly or through one of our Web Sites, will be covered by this privacy statement. That information may include any personal contact information and business-sensitive information such as system information, search strategies and problem descriptions we may need to provide assistance and information to you. 
+
+Some of Thomson Scientific’s products and services also contain personal information. This information may be embedded in the records comprised in those products or services, extracted from those records or obtained directly from the individuals. This privacy statement does not apply to that information, but if you want to find out more about how Thomson Scientific uses personal information in its products and services or ask questions or comment on any of your personal information in our products and services, please contact us using the details provided in the ‘How to contact us’ section below. 
+
+**How we use and share your information**
+
+We may use your business contact details to provide you with information you have requested and additional information about our products and services by mail, email or telephone. We would also like to share your details with other affiliated Thomson Scientific companies throughout the world who may similarly use it to provide you with information about their products and services. Occasionally we may pass on your details to our agents or contractors who will use it to send out information on our behalf. We will not otherwise pass on your details to any third parties. 
+
+Where you provide us with contact, product and systems information for customer support, this data will be used only in order to provide technical support and troubleshooting. 
+
+**Non-personal data we collect**
+
+In general, you may browse our Web Sites without providing any personal information. Similar to other commercial web sites, our Web Sites use standard technology called "cookies" and web server logs to collect information about how the Web Site is used. Cookies are a feature of web browser software that allows web servers to recognize the computer used to access a web site. Cookies are small pieces of data that are stored by a user's web browser on the user's hard drive. Information gathered through cookies and web server logs may include the date and time of visits, the pages viewed, time spent at our Web Site, and the web sites visited just before and just after our Web Site. This information is collected on an aggregate basis, as you and others browse our Web Sites, is not used to identify you in any way. If you want to interact with us via the Web Site, we may ask you to provide us with some personal information. 
+
+You can, of course, disable cookies on your computer by indicating this in the preferences or options menus in your browser. However, it is possible that some parts of our Web Sites will not operate correctly if you disable cookies. You should consult with your browser's provider/manufacturer if you have any questions regarding disabling cookies. 
+
+**Security policy**
+
+We take reasonable steps to maintain the security of the personally identifiable information that we collect, including limiting the number of people who have physical access to our database servers, as well as installing electronic security systems that guard against unauthorized access. However, no data transmission over the Internet can be guaranteed to be completely secure. Accordingly, we cannot ensure or warrant the security of any information that you transmit to us, so you do so at your own risk. 
+
+**Changes to our privacy policy**
+
+From time to time, we may change our privacy policies. If we make a change, it will not affect the choices you have made about any information you gave us before that change. Any changes will be reflected in an updated privacy statement that will be posted on our Web Sites. 
+
+**Complaints**
+
+We are committed to working with you to resolve, quickly and fairly, any complaints you may have about privacy. If you have any questions to comments, or you want a copy of our Data Privacy Complaints Policy, please contact our [Data Privacy Team](mailto:ts.dataprivacy@thomson.com)
+
+**Identification**
+
+This statement has been provided by Thomson Scientific Limited and Thomson Scientific Inc., on behalf of Thomson Scientific, part of The Thomson Corporation. To find out more about the businesses and brands that comprise Thomson Scientific go to <http://scientific.thomson.com/brands>. 
+
+**How to contact us**
+
+At any time you may ask us to: 
+
+  * Send you a copy of your information. 
+  * Remove your information from our records. 
+  * Correct or update any of your information. 
+  * Opt you out of receiving promotional information from us by post and/or email. 
+
+
+
+For access to, or correction of, your contact and preference information, please contact our [Data Privacy Team](mailto:ts.dataprivacy@thomson.com)
