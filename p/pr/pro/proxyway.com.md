@@ -1,21 +1,32 @@
-> *The following text is extracted and transformed from the proxyway.com privacy policy that was archived on 2007-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070516212846id_/http%3A//www.proxyway.com/www/info/proxyway-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proxyway.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215180804id_/http%3A//www.proxyway.com/www/info/proxyway-privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 |  [](http://www.proxyway.com/www/free-proxy-software/proxy-server-software-new.html)  
 ---  
-|  |  **Wednesday, May 16, 2007**   
-Latest Release [ProxyWay Extra 4.3](http://www.proxyway.com/www/downloads/download_proxyway_extra.html) \- February 24, 2007  
-[ProxyWay Pro 4.3](http://www.proxyway.com/www/downloads/download_proxyway_pro.html) \- February 24, 2007  
-[ProxyWay 4.3](http://www.proxyway.com/www/downloads/download_proxyway.html) \- February 24, 2007 **New Features**
-* Supports Vista. Now ProxyWay fully works with Windows Vista. 
+|  |  **Saturday, December 15, 2007**   
+Latest Release [ProxyWay Extra 4.7](http://www.proxyway.com/www/downloads/download_proxyway_extra.html) \- October 20, 2007  
+[ProxyWay Pro 4.7](http://www.proxyway.com/www/downloads/download_proxyway_pro.html) \- October 20, 2007  
+[ProxyWay 4.7](http://www.proxyway.com/www/downloads/download_proxyway.html) \- October 20, 2007 **New Features**
+* NEW! To simlify the process of ProxyWay configuration added 'ProxyWay Auto Configuration' option. Using this option you don't need to download proxy lists, check proxies, create services and configure browser settings manually. Proxy Way will do it for you. The only one thing you should do is start surfing.  
+
+* Now there are no limitations in ProxyWay Pro/Extra trial version for number of threads for proxy checking.  
+
+* Fixed problem with proxy checking under Windows Vista on some PCs.  
+
+* Improved 'Clear history' module (ProxyWay Pro/Extra only).  
+
+* For 'Change PC info' option added new referer field - 'http://www.proxyway.com/'.  
+
+* Now you can use ProxyWay Pro/Extra on one PC under different users' accounts.  
+
+* Updated SiteList.txt  
+
 * Improved "Update proxy list" scheduler.  
 
 * Added powerful "Check proxy list" scheduler. (Proxy Way Extra only)  
 
 * Added ability to use custom "Referrer field". (Proxy Way Extra only)  
-
-* Updated list of OS and browsers for User-agent field.   
 
 * Now you can use ProxyWay for working with CGI proxies (web proxies)  
 
@@ -37,7 +48,7 @@ Latest Release [ProxyWay Extra 4.3](http://www.proxyway.com/www/downloads/downlo
 [Proxy Finder module main features:](http://www.proxyway.com/www/free-proxy-tool/proxy-search-proxies.html)
 
 • Scan proxy web sites and extract HTTP proxy lists, HTTPS proxy list and SOCKS proxies list  
-• Recognize different proxy list formats  
+• Recognize different [proxy](http://www.proxyway.com/www/purchase/) list formats  
 • Import/export proxy lists capabilities  
 • Search proxies from certain country(ies)  
 • Extract proxies from different proxy lists simultaneously  
@@ -75,6 +86,12 @@ If you don't protect your information, your surfing habits and private informati
 
 [ClearAllHistory](http://www.proxyway.com/cgi-bin/out.pl?to=188) \- deletes Internet surfing and other computer activity tracks from your PC
 
+[EncryptionAndDecryption](http://www.proxyway.com/cgi-bin/out.pl?to=189) \- text and file encryption software for personal and professional security. Safely send emails and store sensitive information on your PC
+
+[My Password Generator](http://www.proxyway.com/cgi-bin/out.pl?to=190) \- advanced password generator software
+
+[FreewareDownload.org](http://www.freewaredownload.org/) \- your source of free tools
+
 |   
 ---|---|---  
   
@@ -109,7 +126,7 @@ ProxyWay.com Privacy Policy may be changed from time to time. Please review the 
 |   
 ---  
 |  |   
-|  [Recommended](http://www.proxyway.com/cgi-bin/out.pl?to=1001) |   
+|  [Recommended](http://www.proxyway.com/www/recommended.html) |   
 |  |   
 |  |   
 ---  
@@ -170,21 +187,9 @@ or ProxyWay   [On-line Help](http://www.proxyway.com/www/anonymous-web-browsin
 |  |   
 |  |   
 ---  
-|  • How can I turn on/turn off proxy settings in Firefox 1.x?
+|  • Why do I need this anonymous web surfing software?
 
-To turn on proxy settings:  
-1\. Select Tools => Options.  
-2\. Select General.  
-3\. In the "Connections" area click the "Connection Settings" button.  
-4\. Select the Manual Proxy Configuration radio button.  
-5\. In fields "Address" and "port" type proxy IP and proxy port.  
-6\. Click OK.
-
-To turn off proxy settings:  
-1\. Select Tools => Options.  
-2\. Select General.  
-3\. In the "Connections" area click the "Connection Settings" button.  
-4\. Select the Direct Connection to the Internet.  
-Click OK   
+Internet is full of potential risk to your privacy and security. Every time you surf the web you leave traces of your Internet activity that can reveal your real-life identity. Any web resource you access can gather and record usage information about you such as your IP address, location, time of day, browser type, browser language, software configuration, operating system you are using, web pages last visited and other information that you might want to keep confidential. Using this information hackers, identity thieves, spammers and other people who want to get access to your personal information can monitor your browsing habits and activities, spy upon you, steal personal information and exploit security holes in your system to cause damage to your computer. It is possible to restrict accessing any information or provide customized content to specific IP.  
+ProxyWay Pro is multifunctional anonymous proxy surfing software which you can use together with a wide variety of web applications (web browsers, Instant Messengers, Internet Relay Chat (IRC), etc.). ProxyWay Pro provides an extended proxy management system: proxy finder, proxy checker, proxy manager. Using ProxyWay Pro you can: hide IP address, change computer information, block potentially harm code, remove traces of computer and Internet activity, block popups and ads.   
   
 |  | 
