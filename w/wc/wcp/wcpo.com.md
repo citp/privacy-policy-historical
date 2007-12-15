@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wcpo.com privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618055524id_/http%3A//www.wcpo.com/legal/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wcpo.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215082425id_/http%3A//www.wcpo.com/legal/default.aspx) for the most accurate reproduction.*
 
-# Terms & Conditions - WCPO.com | Cincinnati breaking news, weather radar, traffic from 9News
+# Terms & Conditions - Cincinnati breaking news, weather radar, traffic from 9News | Channel 9 WCPO.com
 
 **PRIVACY POLICY** All materials on this site © 2000 E.W. Scripps Co. or used with permission. All rights reserved. WCPO.com ® is a registered trademark of the Company. 
 
