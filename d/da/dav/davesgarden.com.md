@@ -1,32 +1,13 @@
-> *The following text is extracted and transformed from the davesgarden.com privacy policy that was archived on 2007-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070410172439id_/http%3A//davesgarden.com/about/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the davesgarden.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215063006id_/http%3A//davesgarden.com/aboutus/privacy) for the most accurate reproduction.*
 
-# Dave's Garden: About: Privacy Policy
+# Privacy Policy
 
-|  [
+**You've found the famous Dave's Garden website! Join this friendly global community that shares tips and ideas for home and gardens, along with seeds and plants!**
 
-### About Dave's Garden
+Check out [the DG homepage](https://web.archive.org/) for a brief overview of what you'll find in this gardening mega-site.
 
-](https://web.archive.org/about/index.php?page=aboutus) [
-
-### Mission Statement
-
-](https://web.archive.org/about/index.php?page=mission) [
-
-### Acceptable Use Policy
-
-](https://web.archive.org/about/index.php?page=tos)
-
-### Privacy Policy
-
-[
-
-### Tour of Dave's Garden
-
-](https://web.archive.org/about/index.php?page=tour) [
-
-### Media Kit
-
-](https://web.archive.org/media.php) |  The Dave's Garden Team respects the privacy of the users of this website. Because we share your privacy concerns, we have published this privacy policy to help you understand what information we collect as a result of your use of this site, and what we do with that information. 
+  
+| The Dave's Garden Team respects the privacy of the users of this website. Because we share your privacy concerns, we have published this privacy policy to help you understand what information we collect as a result of your use of this site, and what we do with that information. 
 
 The type of information we gather falls into the categories below.
 
@@ -64,8 +45,4 @@ But only for login, and not for any other use.
 
 After obtaining your permission, these are published along with your user information.
 
-| Dave's Garden is a community type website, and members enjoy knowing the general whereabouts of the other people who join. For this reason, we give members the opportunity to publish their city, state, zip and country. Anytime, outside of the subscription system, that the system asks for your zipcode or other location information, that may be published next to your name.  
-  
-If you don't have an account yet, visit the [registration page](https://web.archive.org/signup.php) to sign up. 
-
-If you already have an account, you may login here: 
+| Dave's Garden is a community type website, and members enjoy knowing the general whereabouts of the other people who join. For this reason, we give members the opportunity to publish their city, state, zip and country. Anytime, outside of the subscription system, that the system asks for your zipcode or other location information, that may be published next to your name.
