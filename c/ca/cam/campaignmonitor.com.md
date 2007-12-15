@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the campaignmonitor.com privacy policy that was archived on 2007-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070612055107id_/http%3A//campaignmonitor.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the campaignmonitor.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215015647id_/http%3A//www.campaignmonitor.com/privacy) for the most accurate reproduction.*
 
 # The Campaign Monitor Privacy Policy
 
@@ -14,7 +14,7 @@ Your email address is used to only send you information that you have requested.
 
 ### Subscriber Lists, Campaign Content and Campaign Reports
 
-Campaign Monitor ensures that all subscriber lists, email content and reports remain private and confidential. Campaign Monitor may scan the content of your campaigns to ensure it complies with our [Terms of Use](https://web.archive.org/web/20070612055107id_/http://www.campaignmonitor.com/terms/) — to protect against defamatory, inaccurate, abusive, obscene, profane, or threatening material that is racially or ethnically offensive. Campaign Monitor will not sell, rent, loan or invite external access to a customer's contact lists. Nor will Campaign Monitor themselves use customer's contact lists for any purpose.
+Campaign Monitor ensures that all subscriber lists, email content and reports remain private and confidential. Campaign Monitor may scan the content of your campaigns to ensure it complies with our [Terms of Use](https://web.archive.org/web/20071215015647id_/http://www.campaignmonitor.com/terms/) — to protect against defamatory, inaccurate, abusive, obscene, profane, or threatening material that is racially or ethnically offensive. Campaign Monitor will not sell, rent, loan or invite external access to a customer's contact lists. Nor will Campaign Monitor themselves use customer's contact lists for any purpose.
 
 ### Communications from the Site
 
