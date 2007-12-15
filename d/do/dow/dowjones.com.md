@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dowjones.com privacy policy that was archived on 2007-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070116074947id_/http%3A//www.dowjones.com/Site/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dowjones.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215021942id_/http%3A//www.dowjones.com/Site/Privacy.htm) for the most accurate reproduction.*
 
 # dowjones.com Privacy Policy
 
@@ -41,7 +41,7 @@ We may disclose and use personally identifiable information in special circumsta
 
 Your Ability to Choose
 
-You may elect to subscribe or unsubscribe to e-Mail News Alerts by [clicking here](https://web.archive.org/web/20070116074947id_/http%3A//www.dowjones.com/Site/Pressroom/EmailNewsAlerts.htm).
+You may elect to subscribe or unsubscribe to e-Mail News Alerts by [clicking here](https://web.archive.org/web/20071215021942id_/http%3A//www.dowjones.com/Site/Pressroom/EmailNewsAlerts.htm).
 
 Cookies
 
