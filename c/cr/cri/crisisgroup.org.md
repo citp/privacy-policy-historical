@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crisisgroup.org privacy policy that was archived on 2007-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070612201709id_/http%3A//www.crisisgroup.org/home/index.cfm%3Fl%3D1%26id%3D1194) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crisisgroup.org privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215233440id_/http%3A//www.crisisgroup.org/home/index.cfm%3Fl%3D1%26id%3D1194) for the most accurate reproduction.*
 
 # International Crisis Group - privacy
 
@@ -52,6 +52,6 @@ It is optional to complete the address and phone fields in the donation box, but
 
 ## Contact this Office
 
-To unsubscribe or to change your personal details or subscription choices, please click [here](http://www.crisisweb.org/home/index.cfm?action=subscribe&l=1), or email us using [**this form**](https://web.archive.org/web/20070612201709id_/http%3A//www.crisisgroup.org/home/index.cfm?action=form&fid=14&l=1). 
+To unsubscribe or to change your personal details or subscription choices, please click [here](http://www.crisisweb.org/home/index.cfm?action=subscribe&l=1), or email us using [**this form**](https://web.archive.org/web/20071215233440id_/http%3A//www.crisisgroup.org/home/index.cfm?action=form&fid=14&l=1). 
 
-Please use [**this form**](https://web.archive.org/web/20070612201709id_/http%3A//www.crisisgroup.org/home/index.cfm?action=form&fid=14&l=1) to contact Crisis Group if you require further information.
+Please use [**this form**](https://web.archive.org/web/20071215233440id_/http%3A//www.crisisgroup.org/home/index.cfm?action=form&fid=14&l=1) to contact Crisis Group if you require further information.
