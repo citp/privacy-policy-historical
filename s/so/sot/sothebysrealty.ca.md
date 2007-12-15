@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sothebysrealty.ca privacy policy that was archived on 2007-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070516215747id_/http%3A//www.sothebysrealty.ca/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sothebysrealty.ca privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216001612id_/http%3A//www.sothebysrealty.ca/privacy_policy.html) for the most accurate reproduction.*
 
 # Sotheby's International Realty | Canada Luxury Real Estate, Residential, Recreational, Commercial, Land, Development Services
 
@@ -80,11 +80,12 @@ Sotheby’s International Realty Canada shall not use or disclose personal infor
   1. a person who in the reasonable judgment of Sotheby’s International Realty Canada is seeking the information as an agent of the individual; 
   2. a company or individual employed by Sotheby’s International Realty Canada to perform functions on its behalf, such as but not limited to research or data processing; 
   3. another company or individual for the development, enhancement, marketing or provision of any of Sotheby’s International Realty Canada's products and services; 
-  4. an agent used by Sotheby’s International Realty Canada to evaluate the individual's creditworthiness or to collect the individual's account; 
-  5. a credit reporting agency; 
-  6. a public authority or agent of a public authority, if in the reasonable judgment of Sotheby’s International Realty Canada, it appears that there is imminent danger to life or property which could be avoided or minimized by disclosure of the information; 
-  7. another entity as part of a merger, a sale of assets or all or part of a business, or any other corporate change or re-organization;
-  8. a third party or parties, where the individual consents to such disclosure or disclosure is required or permitted by law. 
+  4. as an agent of the principal(s), Sotheby's International Realty Canada reserves the right to disclose all personal information to the principal(s) associated with directed interest of the customer;
+  5. an agent used by Sotheby’s International Realty Canada to evaluate the individual's creditworthiness or to collect the individual's account; 
+  6. a credit reporting agency; 
+  7. a public authority or agent of a public authority, if in the reasonable judgment of Sotheby’s International Realty Canada, it appears that there is imminent danger to life or property which could be avoided or minimized by disclosure of the information; 
+  8. another entity as part of a merger, a sale of assets or all or part of a business, or any other corporate change or re-organization;
+  9. a third party or parties, where the individual consents to such disclosure or disclosure is required or permitted by law. 
 
 
 
