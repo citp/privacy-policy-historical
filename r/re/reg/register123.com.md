@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the register123.com privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017104545id_/http%3A//www.certain.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the register123.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215103257id_/http%3A//www.certain.com/Privacy) for the most accurate reproduction.*
 
-# Certain Software®, Register123™ Online Event Registration & Meeting Management Solutions : Privacy Policy
-
-**Error:**  
+# Certain Software® | Certain Registration™ | Innovative Online Registration Technology | Privacy Policy
 
 ## Privacy Policy
 
-Last Update June, 2005
+_Last Update June, 2005_
 
 We at **Certain Software®** are committed to respecting your online privacy and recognize your need for appropriate protection and management of any Personal Information you share with us.
 
@@ -18,7 +16,7 @@ Personal Information means any information that may be used to identify an indiv
 
 Third parties provide certain services on Certain Software's behalf. For example, Certain Software contracts with third parties to process payment information. Certain Software may provide information, including Personal Information that Certain Software collects, to such third party service providers to help us deliver programs, products, information and services. These third party service providers are obligated to protect your Personal Information on Certain Software's behalf, and to comply with this Privacy Policy.
 
-If you decide to use Certain Software's Register123™ services, we will collect registration information for events. After completing registration, your information is transferred to the event organizer and becomes the responsibility of the meeting planner and event organizer. The registration data that we collect is the property of the contracted organization at all times. Certain Software is not responsible for the privacy practices of meeting planners and event organizers who are our clients. 
+If you decide to use Certain Software's Certain Registration™ services, we will collect registration information for events. After completing registration, your information is transferred to the event organizer and becomes the responsibility of the meeting planner and event organizer. The registration data that we collect is the property of the contracted organization at all times. Certain Software is not responsible for the privacy practices of meeting planners and event organizers who are our clients. 
 
 For events which require a registration fee, we collect credit card information, including the credit card number, expiration date, and the billing address of the cardholder. This information is transmitted using encryption technologies that insure the privacy of your financial data.
 
@@ -28,11 +26,11 @@ Certain Software will only transfer your Personal Information without your conse
 
 #### Choice
 
-You may choose whether or not to provide Personal Information to Certain Software. If you choose not to provide the Personal Information we request, you can still visit most of Certain Software's web sites, but you may be unable to access certain options, offers and services (such as Register123) that involve our interaction with you.
+You may choose whether or not to provide Personal Information to Certain Software. If you choose not to provide the Personal Information we request, you can still visit most of Certain Software's web sites, but you may be unable to access certain options, offers and services (such as Certain Registration) that involve our interaction with you.
 
-When we collect your Personal Information, we will provide a means for you to opt-out of Certain Software's sharing your Personal Information with our business partners. Even if you opt-out of such uses, you understand and consent to Certain Software's sharing of your personal information with third party payment processors, solely for the purposes of processing your payment for the Register123 services.
+When we collect your Personal Information, we will provide a means for you to opt-out of Certain Software's sharing your Personal Information with our business partners. Even if you opt-out of such uses, you understand and consent to Certain Software's sharing of your personal information with third party payment processors, solely for the purposes of processing your payment for the Certain Registration services.
 
-If you decide to use Certain Software's Register123 services we will only send you e-mail messages directly relating to your registration, including:
+If you decide to use Certain Software's Certain Registration services we will only send you e-mail messages directly relating to your registration, including:
 
   * Confirmation of completed registration
   * Notice of incomplete registration
@@ -58,7 +56,7 @@ Tracking technologies may record information such as Internet domain and host na
 
 Certain Software is likewise committed to maintaining the accuracy of your Personal Information. You may review your Personal Information by sending us an email request at info@certain.com. Should you discover inaccuracies in your Personal Information, or if you merely wish to update your Personal Information, you may do so by sending corrections and updates to info@certain.com or you may call 888-CERTAIN. You may also contact us to request that we delete your Personal Information.
 
-If you decide to use Certain Software's Register123 services and you provide registration information for an event through Register123, you receive a confirmation code. This code can be used to access or change your information at a later date by sending an e-mail with your full name and confirmation code to the event's customer service representative. This person is listed on the event's online registration form.
+If you decide to use Certain Software's Certain Registration services and you provide registration information for an event through Certain Registration, you receive a confirmation code. This code can be used to access or change your information at a later date by sending an e-mail with your full name and confirmation code to the event's customer service representative. This person is listed on the event's online registration form.
 
 #### Your Consent
 
@@ -66,33 +64,22 @@ By using this web site, you consent to the terms of our Privacy Policy and to Ce
 
 #### Changes
 
-Certain Software may from time to time update this Privacy Policy, and the date of any revisions will be stated at the top of this web page. If you have any comments or questions about this Privacy Policy, the practices of this site, or your dealings with this web site, please email us at [info@certain.com](mailto:info@certain.com)
-
-Our site contains links to other sites. We do not share or exchange any of your personal information with these sites. In addition, Certain Software is not responsible for the content or policies of these Web sites.
-
-Back to top
+Certain Software may from time to time update this Privacy Policy, and the date of any revisions will be stated at the top of this web page. If you have any comments or questions about this Privacy Policy, the practices of this site, or your dealings with this web site, please email us at [info@certain.com](mailto:info@certain.com). 
 
 ### Testimonials...
 
-"I would recommend Register123 to other associations, if Register123 can impress me the way it has, I’m sure my colleagues will be huge fans too." 
+"We chose Certain Registration for its enhanced security features…you know you are using a secure server and doing due diligence to protect your customer." 
 
-Jill Manion, Sr Exec Asst -Intl Pizza Hut Franchise Holders Association 
+Beth Miller-Tipton, Dir, Conferences and Institutes -University of Florida / IFAS 
 
-### In the news...
-
-Meeting Management Goes High Tech  
-[MPI Meetings Newsletter](http://www.mpine.org/newsletter/summer06.pdf)  
-June 1, 2006  
-James Pappas, President and CEO, Certain Software 
-
-[](http://www.certain.com/PressNews/?news#3)
+[](http://www.certain.com/Company/?testimonials#11)
 
 ### Upcoming events...
 
-DMA 06  
-Direct Marketing Association  
-Oct 14 - 19, 2006  
-San Francisco, CA  [](http://www.certain.com/PressNews/?events#3)
+Association Technology Conference  
+ASAE & The Center for Association Leadership  
+Jan 31 - 1, 2008  
+Washington, DC  [](http://www.certain.com/PressNews/?events#51)
 
   
 
