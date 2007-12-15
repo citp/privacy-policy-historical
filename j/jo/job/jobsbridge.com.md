@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobsbridge.com privacy policy that was archived on 2007-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070316214144id_/http%3A//jobsbridge.com/AllUsers/Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsbridge.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215153258id_/http%3A//jobsbridge.com/AllUsers/Policy.aspx) for the most accurate reproduction.*
 
 # JobsBridge - Privacy Policy
 
