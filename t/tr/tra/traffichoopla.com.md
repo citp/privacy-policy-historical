@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the traffichoopla.com privacy policy that was archived on 2007-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070522033507id_/http%3A//traffichoopla.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traffichoopla.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215181505id_/http%3A//traffichoopla.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy for TrafficHoopla.com
 
@@ -6,8 +6,8 @@
 
 |  |   
 ---  
-[**How It Works**](https://web.archive.org/web/20070522033507id_/http%3A//traffichoopla.com/hiw.html)  
-[**Join Today - Free!**](https://web.archive.org/web/20070522033507id_/http%3A//traffichoopla.com/join.html)  
+[**How It Works**](https://web.archive.org/web/20071215181505id_/http%3A//traffichoopla.com/hiw.html)  
+[**Join Today - Free!**](https://web.archive.org/web/20071215181505id_/http%3A//traffichoopla.com/join.html)  
 [**Buy HitsHoopla Traffic**](http://hitshoopla.com/)  
 [**Top Ranked Resources**](https://web.archive.org/cgi-bin/sp.cgi)  
 [**Information Center**](http://traffichoopla.com/ic/?w=th)  
@@ -35,5 +35,5 @@ While actual use of any information collected may be used quite conservatively, 
 We may send the user site and service announcement updates. We communicate with the users to provide requested services and in regards to issues relating to their accounts via email.  
 **Notification of Changes**  
 If we decide to change our Privacy Policy we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner.   
-[Support Center](https://web.archive.org/web/20070522033507id_/http%3A//traffichoopla.com/sc.html)  
-© 2005 | [Privacy](https://web.archive.org/web/20070522033507id_/http%3A//traffichoopla.com/privacy.html) | [Anti-Spam](https://web.archive.org/web/20070522033507id_/http%3A//traffichoopla.com/antispam.html) | [Corporate](https://web.archive.org/web/20070522033507id_/http%3A//traffichoopla.com/corp.html)
+[Support Center](https://web.archive.org/web/20071215181505id_/http%3A//traffichoopla.com/sc.html)  
+© 2005 | [Privacy](https://web.archive.org/web/20071215181505id_/http%3A//traffichoopla.com/privacy.html) | [Anti-Spam](https://web.archive.org/web/20071215181505id_/http%3A//traffichoopla.com/antispam.html) | [Corporate](https://web.archive.org/web/20071215181505id_/http%3A//traffichoopla.com/corp.html)
