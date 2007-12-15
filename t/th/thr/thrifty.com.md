@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thrifty.com privacy policy that was archived on 2006-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061112063116id_/http%3A//www.thrifty.com/about/privacystatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thrifty.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215030145id_/http%3A//www.thrifty.com/about/privacystatement.aspx) for the most accurate reproduction.*
 
 # 
 
@@ -80,7 +80,7 @@ You also have the option to withhold certain personal information from us except
 
  **What access do you have to review and correct your personal data?**
 
-You have the right to verify and correct your personal information.  You can update and change your personal information by sending us an email at:  privacy @Thrifty.com.   
+You have the right to verify and correct your personal information.  You can update and change your personal information by sending us an email at: [privacy@Thrifty.com](mailto:privacy@Thrifty.com).   
 
  **How policy changes will be announced and implemented:**
 
@@ -88,8 +88,8 @@ We will post material changes to our privacy policy here, along with the date of
 
  **How you can contact Thrifty for complaints, questions and enforcement of the policy.**
 
-You can contact us at  [privacy@Thrifty](mailto:privacy@____________) .com, if you have complaints or questions about this Privacy Policy.
+You can contact us at  [privacy@Thrifty.com](mailto:privacy@Thrifty.com), if you have complaints or questions about this Privacy Policy.
 
  **How to Opt Out:**
 
-You can stop us from using your personal information for marketing purposes by sending us your name, address, telephone number and email address in writing, via US Mail, to: Opt Out, Thrifty Online Privacy, Mail Stop 5W10, P.O. Box 35250, Tulsa, OK 74153-0250, or Via Email to:  [privacy@Thrifty.com](mailto:privacy@Thrifty.com) .
+You can stop us from using your personal information for marketing purposes by sending us your name, address, telephone number and email address in writing, via US Mail, to: Opt Out, Thrifty Online Privacy, Mail Stop 2R2, P.O. Box 35250, Tulsa, OK 74153-0250, or Via Email to: [unsubscribe@Thrifty.com](mailto:unsubscribe@Thrifty.com).
