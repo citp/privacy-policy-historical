@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itbinternet.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617034611id_/http%3A//www.itbinternet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itbinternet.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215055835id_/http%3A//www.itbinternet.com/privacy) for the most accurate reproduction.*
 
 # IT Backbones - Commerce, Featuring News, Press Releases, IT Directory & Links
 
@@ -19,6 +19,10 @@ If you have any questions regarding privacy or security on IT Backbones, please 
 ## Changes to this Privacy Policy
 
 IT Backbones reserves the right to update this policy as required. If this policy is updated, registered users will be notified by email and the updates will be listed on the website.
+
+##### More Video News
+
+[](http://macromedia.com/software/flashplayer/)
 
   
 
