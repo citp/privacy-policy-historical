@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcrm.org privacy policy that was archived on 2007-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070616110327id_/http%3A//www.pcrm.org/disclaimer/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcrm.org privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215214327id_/http%3A//www.pcrm.org/disclaimer/privacy.html) for the most accurate reproduction.*
 
 # Physicians Committee for Responsible Medicine (PCRM)
 
@@ -18,4 +18,4 @@ This information may be reviewed, updated, or deleted by contacting [membership@
 [Media Center](https://web.archive.org/news/) | [Health](https://web.archive.org/health/) | [Research](https://web.archive.org/resch/) | [About PCRM](https://web.archive.org/about/) | [Catalog](http://pcrm.safeshopper.com/) | [Join Us](https://web.archive.org/about/membership.html) | [Search](https://web.archive.org/search/) | [Site Index](https://web.archive.org/about/site_index.html) | [Home](https://web.archive.org/)
 
 The site does not provide medical or legal advice. This Web site is for information purposes only. [  
-Full Disclaimer](https://web.archive.org/disclaimer/index.html) | [Privacy Policy](https://web.archive.org/web/20070616110327id_/http%3A//www.pcrm.org/disclaimer/privacy.html)
+Full Disclaimer](https://web.archive.org/disclaimer/index.html) | [Privacy Policy](https://web.archive.org/web/20071215214327id_/http%3A//www.pcrm.org/disclaimer/privacy.html)
