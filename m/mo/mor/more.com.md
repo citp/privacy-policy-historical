@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the more.com privacy policy that was archived on 2007-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070611235858id_/http%3A//www.more.com/more/file.jsp%3Fitem%3D/legal/privacy%26temp%3Dyes) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the more.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215232944id_/http%3A//www.more.com/more/file.jsp%3Fitem%3D/legal/privacy%26temp%3Dyes) for the most accurate reproduction.*
 
 # More.com
 
