@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the menshealth.co.uk privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622235808id_/http%3A//www.menshealth.co.uk/index.php/v2/9860) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the menshealth.co.uk privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215124323id_/http%3A//www.menshealth.co.uk/index.php/v2/9860) for the most accurate reproduction.*
 
-# Mens Health :: Privacy
+# Privacy :: Privacy :: Mens Health
 
 The information that you provide about yourself to Natmag-Rodale will only be used by Natmag-Rodale in accordance with its Privacy Policy. The Privacy Policy does not apply to third party sites 
 
