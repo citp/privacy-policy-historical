@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dmconfidential.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624224629id_/http%3A//www.dmconfidential.com/Privacy-Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dmconfidential.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216005007id_/http%3A//www.dmconfidential.com/Privacy-Policy.htm) for the most accurate reproduction.*
 
 # DM Confidential - Home of the Affiliate Newsletter - Privacy Policy
 
