@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the article-buzz.com privacy policy that was archived on 2007-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070409053453id_/http%3A//www.article-buzz.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the article-buzz.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215021342id_/http%3A//www.article-buzz.com/privacy.php) for the most accurate reproduction.*
 
-# Article-Buzz Directory | Free Author Submission | Find Free Content for Publication | RSS Feeds
+# Article-Buzz Directory | Content Articles for Reprint | Free Article Submission | RSS Feeds
 
 ## Article-Buzz.com Privacy Policy
 
@@ -64,20 +64,12 @@ This statement and the policies outlined herein are not intended to and do not c
 
 | 
 
-Authors / Writers
-
-Publishers
-
-Information
+Navigation
 
 Tools and Resources
 
-[](http://www.articlemarketer.com/?a_aid=af6363ce&a_bid=c3dbc1d1)
+Information
 
 Featured Articles
 
 Article-Buzz News
-
-[](http://www.otogoldmine.com/10961/go)
-
-[](http://m0dernclick.com/redirect.php?a=CD2888&b=6902&optinfo=&d=0&l=0&p=0)
