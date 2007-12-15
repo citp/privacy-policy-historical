@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xmission.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630150425id_/http%3A//www.xmission.com/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xmission.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215180825id_/http%3A//www.xmission.com/info/privacy.html) for the most accurate reproduction.*
 
 # XMission Internet : Privacy Statement
 
