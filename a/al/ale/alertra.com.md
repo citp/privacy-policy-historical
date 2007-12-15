@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alertra.com privacy policy that was archived on 2007-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070628103649id_/http%3A//www.alertra.com/help.php%3Fcontext%3DPRIVACY%26nopop%3DY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alertra.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215063229id_/http%3A//www.alertra.com/help.php%3Fcontext%3DPRIVACY%26nopop%3DY) for the most accurate reproduction.*
 
 # Alertra Website Monitoring Service
 
