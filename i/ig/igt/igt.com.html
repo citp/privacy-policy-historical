@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the igt.com privacy policy that was archived on 2007-04-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070428173812id_/http%3A//www.igt.com/Reference/Legal.asp%3Fpid%3D11) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the igt.com privacy policy that was archived on 2007-12-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071215234142id_/http%3A//www.igt.com/Reference/Legal.asp%3Fpid%3D11) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 
@@ -458,6 +458,78 @@ function jsCloseChildRedirectParent(argURL){
 
 <script type="text/javascript" src="/JavaScript/swfobject.js"></script>
 
+<!-- * FLV VIDEO STUFF -->
+<script src="/JavaScript/AC_RunActiveContent.js" type="text/javascript"></script> 
+<script type="text/javascript" language="JavaScript">
+
+// Browser Detection Javascript
+// copyright 1 February 2003, by Stephen Chapman, Felgall Pty Ltd
+// You have permission to copy and use this javascript provided that
+// the content of the script is not changed in any way.
+function whichBrs() {
+var agt=navigator.userAgent.toLowerCase();
+if (agt.indexOf("opera") != -1) return 'Opera';
+if (agt.indexOf("staroffice") != -1) return 'Star Office';
+if (agt.indexOf("webtv") != -1) return 'WebTV';
+if (agt.indexOf("beonex") != -1) return 'Beonex';
+if (agt.indexOf("chimera") != -1) return 'Chimera';
+if (agt.indexOf("netpositive") != -1) return 'NetPositive';
+if (agt.indexOf("phoenix") != -1) return 'Phoenix';
+if (agt.indexOf("firefox") != -1) return 'Firefox';
+if (agt.indexOf("safari") != -1) return 'Safari';
+if (agt.indexOf("skipstone") != -1) return 'SkipStone';
+if (agt.indexOf("msie") != -1) return 'Internet Explorer';
+if (agt.indexOf("netscape") != -1) return 'Netscape';
+if (agt.indexOf("mozilla/5.0") != -1) return 'Mozilla';
+if (agt.indexOf('\/') != -1) {
+if (agt.substr(0,agt.indexOf('\/')) != 'mozilla') {
+return navigator.userAgent.substr(0,agt.indexOf('\/'));}
+else return 'Netscape';} else if (agt.indexOf(' ') != -1)
+return navigator.userAgent.substr(0,agt.indexOf(' '));
+else return navigator.userAgent;
+}
+
+function getFlashMovieObject(movieName)
+{
+  if (window.document[movieName]) 
+  {
+   var br=whichBrs();
+   if (br=="Firefox")
+   return window.parent.document.embeds[0];
+  else
+   {
+    return window.document[movieName];
+    }
+  }
+  if (navigator.appName.indexOf("Microsoft Internet")==-1)
+  {
+    if (document.embeds && document.embeds[movieName])
+      return document.embeds[movieName]; 
+  }
+  else // if (navigator.appName.indexOf("Microsoft Internet")!=-1)
+  {
+    return document.getElementById(movieName);
+  }
+}
+
+function SendDataToFlashMovie(param)
+{
+	var flashMovie=getFlashMovieObject("myFlashMovie");
+	flashMovie.SetVariable("vpath.text", param);
+	//The vpath.text variable can be *.xml, *.flv, or the name of a streaming video file without the .flv extension.
+}
+
+function ReceiveDataFromFlashMovie()
+{
+	var flashMovie=getFlashMovieObject("myFlashMovie");
+	var message=flashMovie.GetVariable("pathVar");
+	//The pathvar variable equals the name of the current video
+	document.controller.Data.value=message;
+}
+
+
+</script>
+
 <script type="text/javascript" src="/JavaScript/form_validation.js"></script>
 <!-- *** FIX for Flash activation on Internet Explorer -->
 <script language="javascript">AC_FL_RunContent = 0;</script>
@@ -714,447 +786,46 @@ if( document.getElementById("divBingoAdmin").style.display == "none" ) {
   <tbody><tr>
     <td align="center" valign="top">
 
+<style>
+/*Main Navigation
+--------------------------------------------------------------------*/
+#mainNav					{ margin:0 0 0px 0; padding:0; width:100%; height:0px; background:url("http://media.igt.com/images/Tab_background.gif") top left repeat-x; }
+#mainNav ul					{ margin:0 0 0px 0px; padding:0; list-style-type:none; }
+/*#mainNav li					{ float:left; margin:0; padding:3px 5px 3px 4px; bottom:0px; background:url("http://media.igt.com/images/Tab_divider.gif") bottom right no-repeat; }*/
+#mainNav li					{ float:left; margin:0; padding:3px 5px 3px 4px; bottom:0px; background:url("http://media.igt.com/images/Tab_background2.gif") top right repeat-y; }
+#mainNav li a				{ font:normal 10px Arial, Helvetica, sans-serif;; color:#333333; text-align:center; text-decoration:none; }
+#mainNav li a:hover			{ text-decoration:underline; }
+#mainNav li.current a		{ color:ccf; text-decoration:none; }
+#mainNav li.current a:hover	{ text-decoration:none; }
+#mainNav li.current			{ background:url("http://media.igt.com/images/Tab_background-select.gif") top left repeat-x; }
+#mainNav li.last			{ background:none; }
+</style>
+
 <table border="0" cellpadding="0" cellspacing="0">
 	<tbody><tr>
 
 		<td>
-			<table border="0" cellpadding="0" cellspacing="0">
-
-				<tbody><tr>
-<td><img border="0" src="http://www.igt.com/images/spacer.gif" width="2" height="1"></td>
-					<td colspan="4"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td colspan="2" class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadow"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-<td><img border="0" src="http://www.igt.com/images/spacer.gif" width="2" height="1"></td>
-					<td colspan="4"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td colspan="2" class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadow"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-<td><img border="0" src="http://www.igt.com/images/spacer.gif" width="2" height="1"></td>
-					<td colspan="4"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td colspan="2" class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadow"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-<td><img border="0" src="http://www.igt.com/images/spacer.gif" width="2" height="1"></td>
-					<td colspan="4"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td colspan="2" class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadow"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-<td><img border="0" src="http://www.igt.com/images/spacer.gif" width="2" height="1"></td>
-					<td colspan="4"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td colspan="2" class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadow"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-<td><img border="0" src="http://www.igt.com/images/spacer.gif" width="2" height="1"></td>
-					<td colspan="4"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td colspan="2" class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadow"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-<td><img border="0" src="http://www.igt.com/images/spacer.gif" width="2" height="1"></td>
-					<td colspan="4"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td colspan="2" class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadow"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-<td><img border="0" src="http://www.igt.com/images/spacer.gif" width="2" height="1"></td>
-					<td colspan="4"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td colspan="2" class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadow"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-<td><img border="0" src="http://www.igt.com/images/spacer.gif" width="2" height="1"></td>
-					<td colspan="4"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td colspan="2" class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadow"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-<td><img border="0" src="http://www.igt.com/images/spacer.gif" width="2" height="1"></td>
-					<td colspan="4"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td colspan="2" class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadow"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-<td><img border="0" src="http://www.igt.com/images/spacer.gif" width="2" height="1"></td>
-					<td colspan="4"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td colspan="2" class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadow"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-
-				</tr>
-
-				<tr>
-<td><img border="0" src="http://www.igt.com/images/spacer.gif" width="2" height="1"></td>
-					<td colspan="2"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td colspan="2" class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorHighlight"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadow"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadowMax"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-<td><img border="0" src="http://www.igt.com/images/spacer.gif" width="2" height="1"></td>
-					<td colspan="2"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td colspan="2" class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorHighlight"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadow"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadowMax"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-<td><img border="0" src="http://www.igt.com/images/spacer.gif" width="2" height="1"></td>
-					<td colspan="2"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td colspan="2" class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorHighlight"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadow"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadowMax"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-<td><img border="0" src="http://www.igt.com/images/spacer.gif" width="2" height="1"></td>
-					<td colspan="2"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td colspan="2" class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorHighlight"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadow"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadowMax"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-<td><img border="0" src="http://www.igt.com/images/spacer.gif" width="2" height="1"></td>
-					<td colspan="2"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td colspan="2" class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorHighlight"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadow"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadowMax"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-<td><img border="0" src="http://www.igt.com/images/spacer.gif" width="2" height="1"></td>
-					<td colspan="2"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td colspan="2" class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorHighlight"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadow"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadowMax"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-<td><img border="0" src="http://www.igt.com/images/spacer.gif" width="2" height="1"></td>
-					<td colspan="2"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td colspan="2" class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorHighlight"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadow"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadowMax"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-<td><img border="0" src="http://www.igt.com/images/spacer.gif" width="2" height="1"></td>
-					<td colspan="2"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td colspan="2" class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorHighlight"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadow"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadowMax"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-<td><img border="0" src="http://www.igt.com/images/spacer.gif" width="2" height="1"></td>
-					<td colspan="2"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td colspan="2" class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorHighlight"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadow"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadowMax"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-<td><img border="0" src="http://www.igt.com/images/spacer.gif" width="2" height="1"></td>
-					<td colspan="2"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td colspan="2" class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorHighlight"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadow"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadowMax"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-<td><img border="0" src="http://www.igt.com/images/spacer.gif" width="2" height="1"></td>
-					<td colspan="2"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td colspan="2" class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorHighlight"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadow"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadowMax"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-
-				</tr>
-
-				<tr>
-<td><img border="0" src="http://www.igt.com/images/spacer.gif" width="2" height="1"></td>
-					<td><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td colspan="2" class="NeutralColorHighlight"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadow"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadowMax"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-<td><img border="0" src="http://www.igt.com/images/spacer.gif" width="2" height="1"></td>
-					<td><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td colspan="2" class="NeutralColorHighlight"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadow"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadowMax"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-<td><img border="0" src="http://www.igt.com/images/spacer.gif" width="2" height="1"></td>
-					<td><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td colspan="2" class="NeutralColorHighlight"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadow"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadowMax"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-<td><img border="0" src="http://www.igt.com/images/spacer.gif" width="2" height="1"></td>
-					<td><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td colspan="2" class="NeutralColorHighlight"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadow"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadowMax"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-<td><img border="0" src="http://www.igt.com/images/spacer.gif" width="2" height="1"></td>
-					<td><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td colspan="2" class="NeutralColorHighlight"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadow"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadowMax"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-<td><img border="0" src="http://www.igt.com/images/spacer.gif" width="2" height="1"></td>
-					<td><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td colspan="2" class="NeutralColorHighlight"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadow"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadowMax"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-<td><img border="0" src="http://www.igt.com/images/spacer.gif" width="2" height="1"></td>
-					<td><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td colspan="2" class="NeutralColorHighlight"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadow"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadowMax"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-<td><img border="0" src="http://www.igt.com/images/spacer.gif" width="2" height="1"></td>
-					<td><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td colspan="2" class="NeutralColorHighlight"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadow"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadowMax"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-<td><img border="0" src="http://www.igt.com/images/spacer.gif" width="2" height="1"></td>
-					<td><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td colspan="2" class="NeutralColorHighlight"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadow"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadowMax"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-<td><img border="0" src="http://www.igt.com/images/spacer.gif" width="2" height="1"></td>
-					<td><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td colspan="2" class="NeutralColorHighlight"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadow"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadowMax"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-<td><img border="0" src="http://www.igt.com/images/spacer.gif" width="2" height="1"></td>
-					<td><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td colspan="2" class="NeutralColorHighlight"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadow"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadowMax"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-
-				</tr>
-
-				<tr>
-<td><img border="0" src="http://www.igt.com/images/spacer.gif" width="2" height="1"></td>
-					<td><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorHighlight"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td colspan="2" class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadow"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadowMax"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-<td><img border="0" src="http://www.igt.com/images/spacer.gif" width="2" height="1"></td>
-					<td><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorHighlight"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td colspan="2" class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadow"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadowMax"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-<td><img border="0" src="http://www.igt.com/images/spacer.gif" width="2" height="1"></td>
-					<td><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorHighlight"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td colspan="2" class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadow"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadowMax"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-<td><img border="0" src="http://www.igt.com/images/spacer.gif" width="2" height="1"></td>
-					<td><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorHighlight"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td colspan="2" class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadow"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadowMax"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-<td><img border="0" src="http://www.igt.com/images/spacer.gif" width="2" height="1"></td>
-					<td><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorHighlight"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td colspan="2" class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadow"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadowMax"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-<td><img border="0" src="http://www.igt.com/images/spacer.gif" width="2" height="1"></td>
-					<td><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorHighlight"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td colspan="2" class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadow"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadowMax"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-<td><img border="0" src="http://www.igt.com/images/spacer.gif" width="2" height="1"></td>
-					<td><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorHighlight"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td colspan="2" class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadow"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadowMax"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-<td><img border="0" src="http://www.igt.com/images/spacer.gif" width="2" height="1"></td>
-					<td><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorHighlight"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td colspan="2" class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadow"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadowMax"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-<td><img border="0" src="http://www.igt.com/images/spacer.gif" width="2" height="1"></td>
-					<td><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorHighlight"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td colspan="2" class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadow"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadowMax"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-<td><img border="0" src="http://www.igt.com/images/spacer.gif" width="2" height="1"></td>
-					<td><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorHighlight"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td colspan="2" class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadow"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadowMax"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-<td><img border="0" src="http://www.igt.com/images/spacer.gif" width="2" height="1"></td>
-					<td><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorHighlight"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td colspan="2" class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadow"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadowMax"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-
-				</tr>
-
-				<tr>
-<td><img border="0" src="http://www.igt.com/images/spacer.gif" width="2" height="1"></td>
-					<td class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="25"></td>
-					<td class="NeutralColorHighlight"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td colspan="2" class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="TabNeutral" align="center" valign="middle"><a href="http://www.igt.com/Content/base.asp?pid=25" class="TabNeutralA" target="_top">BUSINESS<br>DIVISIONS</a></td>
-					<td class="NeutralColorShadow"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadowMax"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-<td><img border="0" src="http://www.igt.com/images/spacer.gif" width="2" height="1"></td>
-					<td class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="25"></td>
-					<td class="NeutralColorHighlight"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td colspan="2" class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="TabNeutral" align="center" valign="middle"><a href="http://www.igt.com/GamingGroup/Games/base.asp?pid=5" class="TabNeutralA" target="_top">GAMES</a></td>
-					<td class="NeutralColorShadow"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadowMax"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-<td><img border="0" src="http://www.igt.com/images/spacer.gif" width="2" height="1"></td>
-					<td class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="25"></td>
-					<td class="NeutralColorHighlight"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td colspan="2" class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="TabNeutral" align="center" valign="middle"><a href="http://www.igt.com/Content/base.asp?pid=50" class="TabNeutralA" target="_top">IGT ADVANTAGE™<br>SYSTEMS</a></td>
-					<td class="NeutralColorShadow"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadowMax"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-<td><img border="0" src="http://www.igt.com/images/spacer.gif" width="2" height="1"></td>
-					<td class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="25"></td>
-					<td class="NeutralColorHighlight"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td colspan="2" class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="TabNeutral" align="center" valign="middle"><a href="http://www.igt.com/GamingGroup/Games/base.asp?pid=4" class="TabNeutralA" target="_top">MEGAJACKPOTS</a></td>
-					<td class="NeutralColorShadow"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadowMax"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-<td><img border="0" src="http://www.igt.com/images/spacer.gif" width="2" height="1"></td>
-					<td class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="25"></td>
-					<td class="NeutralColorHighlight"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td colspan="2" class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="TabNeutral" align="center" valign="middle"><a href="http://www.igt.com/Content/base.asp?pid=58" class="TabNeutralA" target="_top">ONLINE<br>GAMING</a></td>
-					<td class="NeutralColorShadow"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadowMax"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-<td><img border="0" src="http://www.igt.com/images/spacer.gif" width="2" height="1"></td>
-					<td class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="25"></td>
-					<td class="NeutralColorHighlight"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td colspan="2" class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="TabNeutral" align="center" valign="middle"><a href="http://www.igt.com/Content/base.asp?pid=26" class="TabNeutralA" target="_top">CUSTOMER<br>SUPPORT</a></td>
-					<td class="NeutralColorShadow"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadowMax"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-<td><img border="0" src="http://www.igt.com/images/spacer.gif" width="2" height="1"></td>
-					<td class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="25"></td>
-					<td class="NeutralColorHighlight"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td colspan="2" class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="TabNeutral" align="center" valign="middle"><a href="http://www.igt.com/Content/base.asp?pid=7" class="TabNeutralA" target="_top">RESPONSIBLE<br>GAMING</a></td>
-					<td class="NeutralColorShadow"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadowMax"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-<td><img border="0" src="http://www.igt.com/images/spacer.gif" width="2" height="1"></td>
-					<td class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="25"></td>
-					<td class="NeutralColorHighlight"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td colspan="2" class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="TabNeutral" align="center" valign="middle"><a href="http://www.igt.com/SupplierDiversity/base.asp?pid=29" class="TabNeutralA" target="_top">SUPPLIER<br>DIVERSITY</a></td>
-					<td class="NeutralColorShadow"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadowMax"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-<td><img border="0" src="http://www.igt.com/images/spacer.gif" width="2" height="1"></td>
-					<td class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="25"></td>
-					<td class="NeutralColorHighlight"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td colspan="2" class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="TabNeutral" align="center" valign="middle"><a href="http://www.igt.com/NewsRoom/base.asp?pid=8" class="TabNeutralA" target="_top">NEWS<br>ROOM</a></td>
-					<td class="NeutralColorShadow"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadowMax"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-<td><img border="0" src="http://www.igt.com/images/spacer.gif" width="2" height="1"></td>
-					<td class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="25"></td>
-					<td class="NeutralColorHighlight"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td colspan="2" class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="TabNeutral" align="center" valign="middle"><a href="http://ir.igt.com" class="TabNeutralA" target="_top">INVESTOR<br>RELATIONS</a></td>
-					<td class="NeutralColorShadow"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadowMax"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-<td><img border="0" src="http://www.igt.com/images/spacer.gif" width="2" height="1"></td>
-					<td class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="25"></td>
-					<td class="NeutralColorHighlight"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td colspan="2" class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="TabNeutral" align="center" valign="middle"><a href="http://www.igt.com/Jobs/default.asp?pid=10" class="TabNeutralA" target="_top">JOBS</a></td>
-					<td class="NeutralColorShadow"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadowMax"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-
-				</tr>
-
-				<tr>
-<td><img border="0" src="http://www.igt.com/images/spacer.gif" width="2" height="1"></td>
-					<td class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorHighlight"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td colspan="3" class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadow"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadowMax"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-<td><img border="0" src="http://www.igt.com/images/spacer.gif" width="2" height="1"></td>
-					<td class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorHighlight"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td colspan="3" class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadow"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadowMax"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-<td><img border="0" src="http://www.igt.com/images/spacer.gif" width="2" height="1"></td>
-					<td class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorHighlight"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td colspan="3" class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadow"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadowMax"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-<td><img border="0" src="http://www.igt.com/images/spacer.gif" width="2" height="1"></td>
-					<td class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorHighlight"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td colspan="3" class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadow"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadowMax"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-<td><img border="0" src="http://www.igt.com/images/spacer.gif" width="2" height="1"></td>
-					<td class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorHighlight"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td colspan="3" class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadow"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadowMax"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-<td><img border="0" src="http://www.igt.com/images/spacer.gif" width="2" height="1"></td>
-					<td class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorHighlight"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td colspan="3" class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadow"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadowMax"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-<td><img border="0" src="http://www.igt.com/images/spacer.gif" width="2" height="1"></td>
-					<td class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorHighlight"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td colspan="3" class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadow"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadowMax"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-<td><img border="0" src="http://www.igt.com/images/spacer.gif" width="2" height="1"></td>
-					<td class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorHighlight"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td colspan="3" class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadow"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadowMax"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-<td><img border="0" src="http://www.igt.com/images/spacer.gif" width="2" height="1"></td>
-					<td class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorHighlight"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td colspan="3" class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadow"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadowMax"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-<td><img border="0" src="http://www.igt.com/images/spacer.gif" width="2" height="1"></td>
-					<td class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorHighlight"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td colspan="3" class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadow"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadowMax"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-<td><img border="0" src="http://www.igt.com/images/spacer.gif" width="2" height="1"></td>
-					<td class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorHighlight"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td colspan="3" class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadow"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="NeutralColorShadowMax"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-
-				</tr>
-			</tbody></table>
+			<!--Main Navigation-->
+			 <div id="mainNav">
+    			<ul bgcolor="#ff0000">
+        			<li><div align="center"><a href="/Content/base.asp?pid=25" title="Business Divisions">BUSINESS<br>DIVISIONS</a></div></li>
+        			<li><div align="center"><a href="/GamingGroup/Games/base.asp?pid=5" title="Games">GAMES</a><br>&nbsp;</div></li>
+        			<li><div align="center"><a href="/Content/base.asp?pid=59" title="Network Systems">NETWORK<br>SYSTEMS</a></div></li>
+        			<li><div align="center"><a href="/GamingGroup/Games/base.asp?pid=4" title="MegaJackpots">MEGAJACKPOTS</a><br>&nbsp;</div></li>
+					<li><div align="center"><a href="/Content/base.asp?pid=58" title="Online Gaming">ONLINE<br>GAMING</a></div></li>
+					<li><div align="center"><a href="/Content/base.asp?pid=26" title="Customer Support">CUSTOMER<br>SUPPORT</a></div></li>
+					<li><div align="center"><a href="/Content/base.asp?pid=7" title="Responsible Gaming">RESPONSIBLE<br>GAMING</a></div></li>
+					<li><div align="center"><a href="/SupplierDiversity/base.asp?pid=29" title="Supplier Diversity">SUPPLIER<br>DIVERSITY</a></div></li>
+					<li><div align="center"><a href="/NewsRoom/base.asp?pid=8" title="News Room">NEWS<br>ROOM</a></div></li>
+					<li><div align="center"><a href="http://ir.igt.com/" title="Investor Relations">INVESTOR<br>RELATIONS</a></div></li>
+         			<li><div align="center"><a href="/Jobs/default.asp?pid=10" title="Careers">CAREERS</a><br>&nbsp;</div></li>
+				</ul>
+			 </div>
 		</td>
-	</tr>
-</tbody></table>
 
+	</tr>
+<!---->
+</tbody></table>
     </td>
   </tr>
 </tbody></table>
@@ -1237,8 +908,8 @@ if( document.getElementById("divBingoAdmin").style.display == "none" ) {
        <a href="http://www.igt.com/Reference/Legal.asp?pid=11" class="CopyrightA" target="_top">Privacy Policy</a><br>
        <a href="http://www.igt.com/Reference/Legal.asp?pid=12" class="CopyrightA" target="_top">Terms of Use</a><br>
        <a href="http://www.igt.com/Reference/Legal.asp?pid=14" class="CopyrightA" target="_top">Trademark List</a><br>
-	   <a href="http://www.igt.com/help/sitemap.asp?pid=31" class="CopyrightA" target="_top">Site Map</a></td>
-    </tr>
+<!--	   <a href="http://www.igt.com/help/sitemap.asp?pid=31" class="CopyrightA" target="_top">Site Map</a></td>-->
+    </td></tr>
 </tbody></table>
           </td>
         </tr>
@@ -1321,5 +992,15 @@ Reno, NV 89521-8986<br>United States
 </tbody></table>
 
 </layer>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-2109530-1";
+urchinTracker();
+</script>
 
+
+<div class="noprint">
+
+</div>
 </body></html>
