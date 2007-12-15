@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sideshowtoy.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616195700id_/http%3A//www.sideshowtoy.com/cgi-bin/category.cgi%3Fcategory%3Dprivacy%26source%3Dleftnav%26kw%3DPRIVACY_POLICY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sideshowtoy.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215034542id_/http%3A//www.sideshowtoy.com/cgi-bin/category.cgi%3Fcategory%3Dprivacy%26source%3Dleftnav%26kw%3DPRIVACY_POLICY) for the most accurate reproduction.*
 
 # Sideshow Collectibles.com - - Manufacturer of movie, film, television and proprietary collectibles, figures and toys.
 
@@ -19,5 +19,9 @@ This website takes every precaution to protect our users' information. When our 
 Links
 
 This web site contains links to other sites. Please be aware that we (Sideshow, Inc.) are not responsible for the privacy practices of other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
+
+Cookies
+
+This web site uses a cookie to collect anonymous traffic data. This information is collected for the sole use of Sideshow, Inc. and will not be sold rented to any third party.
 
 Sideshow, Inc. - Copyright (c) 2005-2012
