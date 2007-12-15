@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thebaynet.com privacy policy that was archived on 2007-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070402053914id_/http%3A//www.thebaynet.com/index.cfm/fa/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebaynet.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215010011id_/http%3A//www.thebaynet.com/index.cfm/fa/privacy) for the most accurate reproduction.*
 
-# Southern Maryland News | The Bay Net
+# Southern Maryland News
 
 Last updated: October 11, 2005
 
