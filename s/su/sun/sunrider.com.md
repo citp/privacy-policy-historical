@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sunrider.com privacy policy that was archived on 2007-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070610150615id_/http%3A//www.sunrider.com/Eng/WebForm/Information/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunrider.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215223358id_/http%3A//www.sunrider.com/Eng/WebForm/Information/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# privacy policy
+# Sunrider - privacy policy
 
 Sunrider ("Sunrider" or "we") is serious about protecting your privacy -- whether you are a Distributor, Club Member, Customer, or just a visitor to our Web sites, including but not limited to, sunrider.com, shop.sunrider.com, and business.sunrider.com (collectively referred to herein as the "site"). We realize that when you choose to provide us with information about yourself, you trust us to act in a responsible manner. That is why we have put a policy in place to protect your personal information.
 
