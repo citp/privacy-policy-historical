@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mercycorps.org privacy policy that was archived on 2007-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070612223038id_/http%3A//www.mercycorps.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercycorps.org privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215223044id_/http%3A//www.mercycorps.org/privacy) for the most accurate reproduction.*
 
 # Mercy Corps > About Us > Overview > Privacy Policy
 
@@ -6,7 +6,7 @@ Our goal at Mercy Corps is to extend trust and respect to you. We are committed 
 
 **Email Updates**
 
-Email updates provide a worldwide perspective on the Mercy Corps mission to alleviate suffering, poverty, and oppression around the globe. In order to receive these updates you must provide Mercy Corps with your name and email address. This information will be held in complete confidence, and we will NOT sell, rent or trade this information to a third party. You will be given the option to remove your name from our email list at the bottom of each email update. Or, you can [click here](http://newsletter.mercycorps.org/) to update your information. You will need to enter a username and password to access this information.
+Email updates provide a worldwide perspective on the Mercy Corps mission to alleviate suffering, poverty, and oppression around the globe. In order to receive these updates you must provide Mercy Corps with your name and email address. This information will be held in complete confidence, and we will NOT sell, rent or trade this information to a third party. You will be given the option to remove your name from our email list at the bottom of each email update.
 
 We may use third-party advertising companies to serve ads on our behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, [click here](http://www.networkadvertising.org/optout_nonppii.asp).
 
@@ -23,6 +23,10 @@ Mercy Corps uses the services of outside vendors to send our email newsletters a
 **Donations by Mail**
 
 In order to increase our base of support and keep our costs low, Mercy Corps sometimes exchanges a segment of our mailing list with other carefully selected organizations. Donors who make their first gift to Mercy Corps in response to an appeal letter may be included on this exchange list; all other donors are automatically excluded from the exchange. All donors who made their first gift to Mercy Corps before January 31, 2004 are also excluded from the exchange. At least once a year, we will inform all donors who are eligible to be included on the exchange list, and give them an opportunity to opt out of future exchanges. Donors who wish to have their names removed from the exchange list can call 1-800-292-3355 ext. 250 or email donorservices@mercycorps.org.
+
+**Use of Third-Party Software**
+
+Mercy Corps occasionally uses evaluative software to measure and analyze website statistics. We use this information to improve our content and structure, leading to a better user experience.
 
 **Contact Mercy Corps**
 
