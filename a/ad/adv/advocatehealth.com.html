@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the advocatehealth.com privacy policy that was archived on 2007-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070624065831id_/http%3A//www.advocatehealth.com/system/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the advocatehealth.com privacy policy that was archived on 2007-12-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071215012843id_/http%3A//www.advocatehealth.com/system/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <!-- ======== CLOSE etc/ssi/common/tpl-doctype.ssi ======== -->
@@ -58,6 +58,8 @@
 
 <link rel="stylesheet" type="text/css" href="/etc/css/stylesheet.css">
 <link rel="stylesheet" type="text/css" href="/etc/css/template.css">
+<script type="text/javascript" src="/common/js/library/print.js"></script>
+<link rel="stylesheet" type="text/css" media="print" id="print-styles" href="/etc/css/print.css">
 
 <script type="text/javascript" language="JavaScript"><!--
   var advoSite = 'system',
@@ -71,6 +73,7 @@
 <script type="text/javascript" language="JavaScript1.2" src="/system/iMenuArrays.js"></script>
 
 
+<script type="text/javascript" src="/etc/js/config.js"></script>
 <!-- ======== CLOSE etc/ssi/common/tpl-dhtml.ssi ======== -->
 <!-- ======== BEGIN etc/ssi/common/tpl-body-tag.ssi ======== -->
 
@@ -85,7 +88,7 @@
 </script>
 
 <!-- BEGIN TOP NAVIGATION -->
- <table width="100%" bgcolor="#6699cc" cellpadding="0" cellspacing="0" border="0" style="margin:0 auto">
+ <table width="100%" bgcolor="#6699cc" cellpadding="0" cellspacing="0" border="0" id="topnavtable" style="margin:0 auto">
   <tbody><tr valign="top" align="center" class="topnav">
     <td colspan="2">
       <table id="topnavigation" cellpadding="0" cellspacing="0" border="0">
@@ -111,17 +114,18 @@
     </td>
   </tr>
 </tbody></table>
-<table width="100%" cellpadding="0" cellspacing="0" border="0">
+
+<table width="100%" cellpadding="0" cellspacing="0" border="0" id="headtable" style="margin:0">
   <tbody><tr valign="top" align="left">
-    <td width="86" rowspan="3"><img src="/images/mainheader/pca-corner-system.gif" width="86" height="65" alt=""></td>
+    <td width="86" rowspan="3" id="#hdcorner"><img src="/images/mainheader/pca-corner-system.gif" width="86" height="65" alt=""></td>
     <td width="99%" colspan="2" bgcolor="#336699"><img src="/images/spacer.gif" width="1" height="2" alt=""></td>
   </tr>
-  <tr valign="top" align="right">
+  <tr valign="top" align="right" id="buttonnav">
     <td colspan="2">
-      <a href="/cgi-bin/print/print.pl" onmouseover="window.flash('tab-printbut','tab-print',1)" onmouseout="window.flash('tab-printbut','tab-print',0)"><img src="/images/tabs/tab-print-off.gif" name="tab-printbut" width="70" height="17" alt="print this page" border="0"></a><a href="/cgi-bin/emailafriend/form.pl" onmouseover="window.flash('tab-emailfriendbut', 'tab-emailfriend', 1)" onmouseout="window.flash('tab-emailfriendbut', 'tab-emailfriend', 0)"><img src="/images/tabs/tab-email-off.gif" name="tab-emailfriendbut" width="91" height="17" alt="email this page" border="0"></a><a href="/cgi-bin/rate/rate.pl" target="rate" onclick="window.open('', 'rate', 'toolbar=no,scrollbars=no,height=370,width=300,screenx=30,left=30,screeny=30,top=30,alwaysRaised,dependent');" onmouseover="window.flash('tab-ratepagebut', 'tab-ratepage', 1)" onmouseout="window.flash('tab-ratepagebut', 'tab-ratepage', 0)"><img src="/images/tabs/tab-rate-off.gif" name="tab-ratepagebut" width="86" height="17" alt="rate this page" border="0"></a></td>
+      <a href="#print" id="printlink" onmouseover="window.flash('tab-printbut','tab-print',1)" onmouseout="window.flash('tab-printbut','tab-print',0)"><img src="/images/tabs/tab-print-off.gif" name="tab-printbut" width="70" height="17" alt="print this page" border="0"></a><a href="/cgi-bin/rate/rate.pl" target="rate" onclick="window.open('', 'rate', 'toolbar=no,scrollbars=no,height=370,width=300,screenx=30,left=30,screeny=30,top=30,alwaysRaised,dependent');" onmouseover="window.flash('tab-ratepagebut', 'tab-ratepage', 1)" onmouseout="window.flash('tab-ratepagebut', 'tab-ratepage', 0)"><img src="/images/tabs/tab-rate-off.gif" name="tab-ratepagebut" width="86" height="17" alt="rate this page" border="0"></a></td>
   </tr>
   <tr valign="top" align="left">
-    <td colspan="2" class="siteaddress"><a href="/"><img src="/images/mainheader/pca-system.gif" alt="Advocate Health Care" border="0"></a><br clear="all">
+    <td colspan="2" id="tpl-header" class="siteaddress"><a href="/"><img src="/images/mainheader/pca-system.gif" alt="Advocate Health Care" border="0"></a><br clear="all">
   
   </td>
   </tr>
@@ -129,10 +133,10 @@
 
 <!-- ======== CLOSE etc/ssi/common/tpl-doc-head.ssi ======== -->
 <!-- ======== BEGIN etc/ssi/common/tpl-crumb-begin.ssi ======== -->
-<table width="720" cellpadding="0" cellspacing="0" border="0">
+<table width="720" cellpadding="0" cellspacing="0" border="0" id="crumbnav">
   <tbody><tr valign="top" align="right">
     <td class="breadcrumb">
-      <ul class="horizontal">
+      <ul class="horizontal" style="margin:0">
       <li><a href="/">Advocate</a>&nbsp;</li>
 <!-- ======== CLOSE etc/ssi/common/tpl-crumb-begin.ssi ======== -->
 
@@ -145,9 +149,9 @@
 
 <!-- ======== CLOSE etc/ssi/common/tpl-crumb-close.ssi ======== -->
 <!-- ======== BEGIN etc/ssi/common/tpl-content-begin.ssi ======== -->
-<table border="0" cellpadding="5" cellspacing="0" width="720">
+<table border="0" cellpadding="5" cellspacing="0" width="720" id="contenttable">
   <tbody><tr valign="top" align="left">
-    <td width="720" align="left"><img src="/images/spacer.gif" width="720" height="1" alt=""><br clear="all">
+    <td width="720" align="left" id="content"><img src="/images/spacer.gif" width="720" height="1" alt=""><br clear="all">
 
 <!-- ======== CLOSE etc/ssi/common/tpl-content-begin.ssi ======== -->
 <!--/UdmComment-->
@@ -326,12 +330,9 @@ Please send your comments via e-mail comments to our Web Manager at
 <table width="100%" cellpadding="0" cellspacing="0" border="0" class="footerbar">
   <tbody><tr valign="top" align="center">
     <td>
-      <table width="720" cellpadding="0" cellspacing="10" border="0">
+      <table align="center" cellpadding="0" cellspacing="10" border="0">
         <tbody><tr valign="top" align="left">
-          <td width="288" class="footerbar">
-            
-          </td>
-          <td width="432" align="right" class="footerbar">
+          <td width="720" align="right" id="ftraddress" class="footerbar">
             1.800.3.ADVOCATE / TDD 630.990.4700<br>
             También tenemos representantes que hablan español.
           </td>
@@ -342,8 +343,8 @@ Please send your comments via e-mail comments to our Web Manager at
 </tbody></table>
 
 <!-- Footer Links Text -->
-<table width="720" cellpadding="0" cellspacing="10" border="0">
-  <tbody><tr valign="top" align="left">
+<table width="720" cellpadding="0" cellspacing="10" border="0" class="footercopy">
+  <tbody><tr valign="top" align="left" id="footernav">
     <td>
       <ul class="horizontal footer">
         <li><a href="/system/about/">About Us</a></li>
