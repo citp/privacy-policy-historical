@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superbru.com privacy policy that was archived on 2007-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070517135626id_/http%3A//www.superbru.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superbru.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215095639id_/http%3A//www.superbru.com/privacy.asp) for the most accurate reproduction.*
 
 # SuperBru - Free sports prediction game - FIFA World Cup, Super 14, NPC, Currie Cup, NRL - tipping, pools
 
