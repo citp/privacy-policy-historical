@@ -1,17 +1,26 @@
-> *The following text is extracted and transformed from the hboasia.com privacy policy that was archived on 2007-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070430192415id_/http%3A//hboasia.com/hbo/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hboasia.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215144153id_/http%3A//www.hboasia.com/hbo/privacy_policy) for the most accurate reproduction.*
 
-# HBO Asia: About HBO Asia
+# HBO Asia | Privacy Policy
 
-## Privacy Practices and Policies
+Thank you for visiting the HBO Asia site. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used at hboasia.com/cinemaxasia.com
 
-HBO Asia automatically collects website activity data that is used by us for internal review in aggregate form. E-mail addresses and other personally identifying data about visitors to this site are known to HBO Asia when voluntarily submitted or posted to us.
+At hboasia.com/cinemaxasia.com, you can enter contests, vote in polls or otherwise express an opinion, or subscribe to one of our services such as our online newsletters. The types of personally identifiable information that may be collected at these pages include: name, address, e-mail address, telephone number, fax number, and information about your interests in and use of various programs, and services.
 
-HBO Asia uses this personally identifying data provided by visitors to contact visitors who communicate with us. Personally identifying data is collected primarily to enable HBO Asia to mail additional information about HBO Asia/Cinemax to website visitors. For example, we direct e-mail to visitors who provide us with their e-mail addresses for specific purposes such as responding to comments or being notified if they have participated in one of our contests. If you at any point no longer wish to receive communications from HBO, please forward such requests to us at [feedback@hboasia.com.sg](mailto:%66%65%65%64%62%61%63%6b@%68%62%6f%61%73%69%61.%63%6f%6d.%73%67).
+We may use the information you provide about yourself to fulfill your requests for our programs, and services, to respond to your inquiries about our offerings, and to offer you other programs or services that we believe may be of interest to you.
 
-## Kids-About Your Privacy
+We sometimes use this information to communicate with you, such as to notify you when you have won one of our contests or when we make changes to our subscriber agreements, to fulfill a request by you for an online newsletter, or to contact you about your account with us. Finally, we will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses.
 
-Kids should be sure to ask their parents for permission before sending any personal information over the internet.
+### Related Links:
 
-## A Special Notice For Parents
+  * [Who We Are](https://web.archive.org/hbo/who_we_are)
+  * [About HBO](https://web.archive.org/hbo/about_channel)
+  * [Studio Partners](https://web.archive.org/hbo/studio_partners)
+  * [Milestones](https://web.archive.org/hbo/milestones)
+  * [Territories](https://web.archive.org/hbo/territories)
+  * [Jobs at HBO](https://web.archive.org/hbo/jobs_at_hbo)
+  * [Contact Us](https://web.archive.org/hbo/contact_us)
+  * **Privacy Policy**
+  * [FAQs](https://web.archive.org/hbo/faqs)
+  * [Mailing Lists](https://web.archive.org/hbo/mailing_lists)
 
-While HBO Asia encourages children to consult with their parents before furnishing data, parents should supervise their children's online activities and consider using parental control tools available from online services and software manufacturers that help provide a child-friendly online environment. These tools can also prevent children from disclosing online their name, address and other personal information without parental permission.
+
