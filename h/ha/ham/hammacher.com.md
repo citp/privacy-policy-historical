@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hammacher.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629025446id_/http%3A//www.hammacher.com/order/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hammacher.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215080754id_/http%3A//www.hammacher.com/order/privacy.asp) for the most accurate reproduction.*
 
 # Hammacher Schlemmer
 
@@ -50,6 +50,6 @@ When you email a message to a friend from hammacher.com, you and your friend's e
 **Catalog Requests & Email Updates**  
 When you request a Hammacher Schlemmer catalog at hammacher.com, or ask to receive email updates, we request your name, address and email address in order to complete your request. We will respect your privacy and use your information in the same way described above under "Placing an Order Online".
 
-_Last updated April 12, 2004_
+_Last updated September 1, 2007_
 
 |  |  
