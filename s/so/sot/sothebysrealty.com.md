@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the sothebysrealty.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625114338id_/http%3A//www.sothebysrealty.com/ServicesPrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sothebysrealty.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215084615id_/http%3A//www.sothebysrealty.com/ServicesPrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Sotheby's International Realty® | Privacy Policy
 
-  | 
-
 What You Should Know
 
-We at Sotheby's International Realty Affiliates, Inc. and the family of companies at Cendant Corporation, our owner, (referred to as "we," "us," or "our") recognize the importance of protecting the privacy of certain information ("Information") collected about our customers and prospective customers (referred to as "Customers," "you" or "your"). This privacy statement discloses what information we gather, how we use it, and how to correct or change it. It is our intention to give you an understanding about how we collect your Information and the use we make of it in the course of our business. 
+We at Sotheby's International Realty Affiliates LLC. and the family of companies at Cendant Corporation, our owner, (referred to as "we," "us," or "our") recognize the importance of protecting the privacy of certain information ("Information") collected about our customers and prospective customers (referred to as "Customers," "you" or "your"). This privacy statement discloses what information we gather, how we use it, and how to correct or change it. It is our intention to give you an understanding about how we collect your Information and the use we make of it in the course of our business. 
 
 We do not own, operate or control the Web sites of our franchisees or sales associates (collectively, “Franchisee(s)”). This Policy does not apply to a Franchisee’s Web site or to a Franchisee’s collection, use, storage and disclosure of personal information about you (“Personal Identifiable Information”). Franchisees may also use e-mail campaigns and other methods of telephone, electronic, and direct mail solicitation without our consent or knowledge, and are solely responsible for their content and methods of identifying and contacting addressees. When Personal Identifiable Information is sent by a Franchisee to us as described in this policy, it will be treated in accordance with this policy as described below. 
 
@@ -73,5 +71,3 @@ The security of all Information associated with our Customers is an important co
 YOUR ACCEPTANCE OF THESE TERMS 
 
 By using this site, you signify your agreement to our Privacy Policy. **IF YOU DO NOT AGREE WITH THIS POLICY, PLEASE DO NOT USE THIS SITE**. We reserve the right, in our sole discretion, to modify, alter or otherwise update this Privacy Policy (“Revised Policy”) at any time without prior notice. Such Revised Policy shall be effective immediately upon posting, and shall govern your rights and our obligations with respect to the use, disclosure and protection of your Information as of such posting. You should check this Policy periodically for, and read carefully, any such Revised Policy if you are concerned about how your Information will be used and before continuing on with your use of this Web Site. Your continued use of this Web Site following the posting of such Revised Policy signifies your agreement with such Revised Policy. 
-
-|  
