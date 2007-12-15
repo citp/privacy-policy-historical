@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naturalizer.com privacy policy that was archived on 2007-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070517151932id_/http%3A//www.naturalizer.com/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naturalizer.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215133122id_/http%3A//www.naturalizer.com/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # Naturalizer Shoes
 
@@ -19,12 +19,11 @@ If you feel that we are not abiding by our posted privacy policy, you should fir
 **Naturalizer Consumer Care**   
 8300 Maryland Ave.   
 St. Louis, MO 63105   
-phone from the US: **1-866-746-3748**  
-phone from Canada: **1-800-727-3036**  
+From the US or Canada, call 1-866-746-3748  
 by Email, **[Click Here](http://www.naturalizeronline.com/suggestionbox.asp)**. 
 
 **Information Collection and Use:**  
-The naturalizer.com Web site is operated by Brown Shoe Company. Brown Shoe Company is the sole owner of the information collected on this site. This information is collected from users at several different points on the naturalizer.com Web site. This information will not be shared with, sold or rented to others i ways different from what is disclosed in this statement.
+The naturalizer.com Web site is operated by Brown Shoe Company. Brown Shoe Company is the sole owner of the information collected on this site. This information is collected from users at several different points on the naturalizer.com Web site. This information will not be shared with, sold or rented to others in ways different from what is disclosed in this statement.
 
 **My account:**  
 In order to streamline your shopping experience, you must first complete the registration form. During registration you are required to give personal contact information (such as name and email address). This information is used to reward loyal customers for their business. By registering your account information, you are able to take advantage of special offers and we send via e-mails about new promotions, fashion trends, etc. It is also more convenient for a registered customer to make purchases online.
