@@ -1,16 +1,15 @@
-> *The following text is extracted and transformed from the blogcarnival.com privacy policy that was archived on 2006-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061223230003id_/http%3A//blogcarnival.com/bc/p_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogcarnival.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215100004id_/http%3A//blogcarnival.com/bc/p_privacy.html) for the most accurate reproduction.*
 
 # Blog Carnival - Privacy Policy
 
-This is the privacy policy for Blog Carnival LLC, which are a part of our [Terms of Service](https://web.archive.org/web/20061223230003id_/http%3A//blogcarnival.com/bc/p_tos.html). Our homepage on the Web is located at [ http://blogcarnival.com](http://blogcarnival.com/). The full text of our privacy policy is available on the Web at [ http://blogcarnival.com/bc/p_policy.html](http://blogcarnival.com/bc/p_policy.html). 
+This is the privacy policy for Blog Carnival LLC, which are a part of our [Terms of Service](https://web.archive.org/web/20071215100004id_/http%3A//blogcarnival.com/bc/p_tos.html). Our homepage on the Web is located at [ http://blogcarnival.com](http://blogcarnival.com/). The full text of our privacy policy is available on the Web at [ http://blogcarnival.com/bc/p_policy.html](http://blogcarnival.com/bc/p_policy.html). 
 
 We invite you to contact us if you have questions about this policy. You may contact us by mail at the following address:
     
     
     Blog Carnival, LLC
-    5255 S Decatur Blvd #109
-    PMB 46
-    Las Vegas, NV 89118
+    101 S. Rainbow #28-24
+    Las Vegas, NV  89145
     US
     
 
@@ -24,7 +23,7 @@ We have the following privacy seals and/or dispute resolution mechanisms. If you
 
 ## Additional Information
 
-This policy is valid until 1 Jan, 2007 at 12:00:00 EST. 
+This policy is valid until 1 Jan, 2008 at 12:00:00 EST. 
 
 ## Data Collection
 
@@ -136,4 +135,4 @@ Microsoft Internet Explorer 6 will evaluate this policy's compact policy wheneve
 
 * * *
 
-Last updated: 10/18/2005
+Last updated: 5/24/2007
