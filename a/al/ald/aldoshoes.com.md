@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aldoshoes.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624010457id_/http%3A//www.aldoshoes.com/eng/customerService/redirect.cfm%3FsectionID%3DprivacyPolicyUS.cfm%26path%3DcustomerService%26var%3Dd%26ckey%3DUS) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aldoshoes.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215165938id_/http%3A//www.aldoshoes.com/eng/customerService/redirect.cfm%3FsectionID%3DprivacyPolicyUS.cfm%26path%3DcustomerService%26var%3Dd%26ckey%3DUS) for the most accurate reproduction.*
 
-# ALDO Shoes Online Store - women's shoes & men's shoes, boots, sandals, handbags and more
+# ALDO shoes - ALDO women's footwear for all occasions: dress shoes, casual shoes and city shoes.
 
 The ALDO U.S., Inc. (“ **ALDO** ”) values its customers and respects their privacy.
 
