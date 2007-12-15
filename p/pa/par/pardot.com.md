@@ -1,15 +1,6 @@
-> *The following text is extracted and transformed from the pardot.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626060200id_/http%3A//www.pardot.com/about/legal/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pardot.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215025106id_/http%3A//www.pardot.com/company/legal/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy » Legal » About - Pardot IT Research
-
-  * [Home](https://web.archive.org/web/20070626060200id_/http%3A//www.pardot.com/index.html)
-  * » 
-  * [About](https://web.archive.org/web/20070626060200id_/http%3A//www.pardot.com/about/index.html)
-  * » 
-  * [Legal](https://web.archive.org/web/20070626060200id_/http%3A//www.pardot.com/about/legal/index.html)
-  * » 
-
-
+# Privacy Policy - Web Marketing Automation and Demand Generation by Pardot
 
 We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information.
 
@@ -47,7 +38,11 @@ In addition to the uses identified elsewhere in this privacy policy, we may use 
 
 (d) provide other companies with statistical information about our users - but this information will not be used to identify any individual user.
 
-### (4) Other disclosures
+### (4) Products and Clients 
+
+Pardot is the maker of Prospect Insight, a web marketing automation suite. Pardot sells and distributes Prospect Insight to third party clients who may use it to gather information about their own visitors and clients, including IP address, operating system, web browser, and pages visited. While Pardot sells only to ethical clients, it cannot be held responsible if its clients engage in unethical use of the information gathered through Prospect Insight.
+
+### (5) Other disclosures
 
 In addition to the disclosures reasonably necessary for the purposes identified elsewhere in this privacy policy, we may disclose information about you:
 
@@ -57,23 +52,25 @@ In addition to the disclosures reasonably necessary for the purposes identified 
 
 (c) in order to establish, exercise or defend our legal rights (including providing information to others for the purposes of fraud prevention and reducing credit risk).
 
-### (5) Security of your personal data
+### (6) Security of your personal data
 
-We will take reasonable precautions to prevent the loss, misuse or alteration of your personal information. Of course, data transmission over the internet is inherently insecure, and we cannot guarantee the security of data sent over the internet.
+We will take reasonable precautions to prevent the loss, misuse or alteration of your personal information. Of course, data transmission over the Internet is inherently insecure, and we cannot guarantee the security of data sent over the Internet.
 
-We will store all the personal information you provide on our secure servers.  
+We will store all the personal information you provide on our secure servers. Pardot may also store Your login or password information for any third party applications You denote as a connector. These may include, but are not limited to, salesforce.com, SugarCRM and Google AdWords. This information is encrypted for security and is used solely to provide a connection between Prospect Insight and the third party application and will not be shared with any entity other than the third party in question.
 
+You are responsible for keeping your passwords confidential. We will not ask you for your passwords. 
 
-You are responsible for keeping your password confidential. We will not ask you for your password.
-
-### (6) Policy amendments
+### (7) Policy amendments
 
 We may update this privacy policy from time-to-time by posting a new version on our website. You should check this page occasionally to ensure you are happy with any changes.
 
-### (7) Third party websites
+### (8) Third party websites
 
 The website contains links to other websites. We are not responsible for the privacy policies of third party websites.
 
-### (8) Contact
+### (9) Contact
 
 If you have any questions about this privacy policy or our treatment of your personal data, please write to us by email to info (at) pardot.com or by post to Pardot LLC, 950 East Paces Ferry Rd, Suite 2440, Atlanta, GA 30326.
+
+  
+Top of Page | [ < Previous Page](https://web.archive.org/web/20071215025106id_/http%3A//www.pardot.com/company/legal/index.html) | [Next Page > ](https://web.archive.org/web/20071215025106id_/http%3A//www.pardot.com/company/legal/accessibility.html)
