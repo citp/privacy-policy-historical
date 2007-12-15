@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the st-patricks-day.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629163348id_/http%3A//www.st-patricks-day.com/about.asp%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the st-patricks-day.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215171145id_/http%3A//www.st-patricks-day.com/about.asp%23privacy) for the most accurate reproduction.*
 
 # www.St-Patricks-Day.com
 
@@ -10,7 +10,7 @@ Now in its 9th year, St-Patricks-Day.com, the number one ranking information web
 
 The objective of St-Patricks-Day.com is to become the world's largest online resource for Irish nationals and Irish diaspora with the bulk of the audience being Irish Americans, Irish Diaspora and people interested in Ireland.
 
-[Email Us](https://web.archive.org/web/20070629163348id_/http%3A//www.st-patricks-day.com/contact_us.asp) re. Advertising, Marketing, PR & Sales promotion opportunities.
+[Email Us](https://web.archive.org/web/20071215171145id_/http%3A//www.st-patricks-day.com/contact_us.asp) re. Advertising, Marketing, PR & Sales promotion opportunities.
 
   
   
