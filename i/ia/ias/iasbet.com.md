@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iasbet.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623104821id_/http%3A//www.iasbet.com/help/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iasbet.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215180804id_/http%3A//www.iasbet.com/help/privacy.aspx) for the most accurate reproduction.*
 
 # IASbet.com - Privacy Policy
 
