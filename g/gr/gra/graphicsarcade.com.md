@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the graphicsarcade.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629002521id_/http%3A//www.graphicsarcade.com/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the graphicsarcade.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215175825id_/http%3A//www.graphicsarcade.com/privacy_policy.shtml) for the most accurate reproduction.*
 
 # Myspace layouts, myspace layouts codes, myspace graphics codes, myspace glitter graphics, myspace backgrounds, myspace pictures codes, myspace icons, free myspace graphics, myspace HTML Codes
 
