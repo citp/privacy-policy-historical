@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the basenotes.net privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618224443id_/http%3A//www.basenotes.net/Info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the basenotes.net privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215080958id_/http%3A//www.basenotes.net/Info/privacy.html) for the most accurate reproduction.*
 
-# Privacy policy ... Basenotes: Info.
+# Privacy policy ... : Info.
 
 **Basenotes** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [ Basenotes ](http://www.basenotes.com/)
 
