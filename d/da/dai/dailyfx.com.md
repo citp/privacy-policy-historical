@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailyfx.com privacy policy that was archived on 2007-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070610013916id_/http%3A//www.dailyfx.com/page/privacy_policy_and_disclosure.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyfx.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215093356id_/http%3A//www.dailyfx.com/page/privacy_policy_and_disclosure.html) for the most accurate reproduction.*
 
 # Privacy Policy and Disclosure
 
