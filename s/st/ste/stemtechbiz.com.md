@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stemtechbiz.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629190809id_/http%3A//www.stemtechbiz.com/privacy_pol_sub.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stemtechbiz.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215150957id_/http%3A//www.stemtechbiz.com/privacy_pol_sub.aspx) for the most accurate reproduction.*
 
 # 
 
