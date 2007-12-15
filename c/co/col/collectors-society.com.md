@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the collectors-society.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617004641id_/http%3A//www.collectors-society.com/Privacy_Statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collectors-society.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215164109id_/http%3A//www.collectors-society.com/Privacy_Statement.aspx) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy and Security statement for Collectors Society
 
 Certified Collectibles Group has created this privacy statement in order to demonstrate our firm commitment to privacy and security. This site has security measures in place to protect the loss, misuse and alteration of the information under our control. 
 
@@ -18,6 +18,6 @@ This site contains links to other sites. CCG is not responsible for the privacy 
 
 **Opt-Out.** We provide members the opportunity to opt-out of receiving communications from third parties at any time. You may opt-out at the time you join or at any later time. 
 
-If you have any questions about this privacy and security statement, the practices of this site, or your dealings with this web site, [contact us. ](https://web.archive.org/web/20070617004641id_/http%3A//www.collectors-society.com/ContactUs.aspx)
+If you have any questions about this privacy and security statement, the practices of this site, or your dealings with this web site, [contact us. ](https://web.archive.org/web/20071215164109id_/http%3A//www.collectors-society.com/ContactUs.aspx)
 
  
