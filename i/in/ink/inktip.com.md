@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inktip.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629175347id_/http%3A//www.inktip.com/confidential.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inktip.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215012322id_/http%3A//www.inktip.com/confidential.php) for the most accurate reproduction.*
 
 # Scripts, Writers, Producers - InkTip.com - Confidential
 
@@ -53,7 +53,7 @@ Members may opt-out of receiving future mailings; see the choice/opt-out section
 
 InkTip periodically sends our members electronic information we believe to be of value, including a free weekly e-newsletter. If a member wishes to opt-out of receiving such information, instructions will be provided on every newsletter for simple removal from our list. 
 
-To discontinue receiving future communications or to no longer receive our service, please [unsubscribe here](https://web.archive.org/web/20070629175347id_/http%3A//www.inktip.com/newsletter.php), or [send an email](mailto:jerrol@inktip.com) with the subject 'Opt Out.'
+To discontinue receiving future communications or to no longer receive our service, please [unsubscribe here](https://web.archive.org/web/20071215012322id_/http%3A//www.inktip.com/newsletter.php), or [send an email](mailto:jerrol@inktip.com) with the subject 'Opt Out.'
 
 InkTip does not give out, sell, broker or otherwise distribute mailing lists, contact information or personal demographics information to third party companies or non-members. 
 
