@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the longandfoster.com privacy policy that was archived on 2007-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070425020357id_/http%3A//www.longandfoster.com/Privacy_Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the longandfoster.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216003038id_/http%3A//www.longandfoster.com/Privacy_Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -19,7 +19,7 @@ Use our various search options to find your next home, vacation getaway, or comm
 
 [Search for Homes](http://homes.longandfoster.com/Real-Estate/Power-Search.aspx?mode=cityCounty "Homes for Sale")
 
-[Power Search](http://homes.longandfoster.com/Real-Estate/Power-Search.aspx?mode=cityCounty "Real Estate Search")|[ Map Search](http://homes.longandfoster.com/Real-Estate/Power-Search.aspx?ps=map "Home Search")|[ Quick Search](http://homes.longandfoster.com/Real-Estate/Quick-Search-for-Homes.aspx "Houses for Sale") [Lake Search](http://homes.longandfoster.com/Real-Estate/Vacation-Power-Search.aspx?Vacation=DeepCreek "Vacation Home Search")| [Open House Search](http://homes.longandfoster.com/Real-Estate/Open-House.aspx "Real Estate for Sale")| [ Classic Search](http://homes.longandfoster.com/Real-Estate/Classic-Search.aspx "Houses for Sale") [Beta Map Search](http://homes.longandfoster.com/Real-Estate/Beta-Map-Search.aspx "Beta Map Search")New!
+[Power-Search®](http://homes.longandfoster.com/Real-Estate/Power-Search.aspx?mode=cityCounty "Real Estate Search")|[Map Search](http://homes.longandfoster.com/Real-Estate/Map-Search.aspx "Beta Map Search")New!|[ Quick Search](http://homes.longandfoster.com/Real-Estate/Quick-Search-for-Homes.aspx "Houses for Sale") [Lake Search](http://homes.longandfoster.com/Real-Estate/Vacation-Power-Search.aspx?Vacation=DeepCreek "Vacation Home Search")| [Open House Search](http://homes.longandfoster.com/Real-Estate/Open-House.aspx?sec=Buying "Real Estate for Sale")| [ Classic Search](http://homes.longandfoster.com/Real-Estate/Classic-Search.aspx "Houses for Sale") [ Property Search²](http://homes.longandfoster.com/BetaSearches/Power-Search.aspx?mode=cityCounty "Beta Property Search")Beta|[ Quick Search²](http://homes.longandfoster.com/BetaSearches/Quick-Search-for-Homes.aspx "Beta Quick Search")Beta
 
 [ Buyer's Guide](http://homes.longandfoster.com/Buyers-Guide/Buyers-Guide.aspx "Home Buyers Guide")
 
@@ -31,7 +31,7 @@ Use our various search options to find your next home, vacation getaway, or comm
 
 [ Commercial Properties](http://homes.longandfoster.com/Commercial/Commercial-Buying.aspx "Commercial Real Estate")
 
-[Insurance](http://real-estate-services.longandfoster.com/Insurance/Insurance.aspx?sec=Buying "Homeowners Insurance")
+[Homeowners Insurance](http://real-estate-services.longandfoster.com/Insurance/Homeowners-Insurance.aspx?sec=Buying "Homeowners Insurance")
 
 [Settlement Services](http://real-estate-services.longandfoster.com/Settlement-title.aspx?sec=Buying "Home Title and Settlement Services")
 
@@ -53,7 +53,7 @@ Learn everything you need to know about selling your property, from listing your
 
 [ Commercial Properties](http://homes.longandfoster.com/Commercial/Commercial_Selling.aspx "Commercial Properties")
 
-[Insurance](http://real-estate-services.longandfoster.com/Insurance/Insurance.aspx?sec=Selling "Long and Foster Insurance")
+[Sellers Insurance](http://real-estate-services.longandfoster.com/Insurance/Sellers-Insurance.aspx?sec=Selling "Long and Foster Insurance")
 
 [ Home Service Connections](http://real-estate-services.longandfoster.com/Home-Services/Home-Services.aspx?sec=Selling "Home Service Connections")
 
@@ -65,7 +65,7 @@ Learn everything you need to know about selling your property, from listing your
 
 Whether you’re renting a primary residence or looking for a vacation getaway, we offer great selection and outstanding value. 
 
-[Power Search](http://homes.longandfoster.com/Real-Estate/Power-Search.aspx?SearchCategory=Rental&sec=Renting "Rental Home Search")
+[Power-Search](http://homes.longandfoster.com/Real-Estate/Power-Search.aspx?SearchCategory=Rental&sec=Renting "Rental Home Search")®
 
 [ Renter's Guide](http://homes.longandfoster.com/Rent/Rental-Guide.aspx "Home Renters Guide")
 
@@ -79,7 +79,7 @@ Whether you’re renting a primary residence or looking for a vacation getaway, 
 
 [ Commercial Properties](http://homes.longandfoster.com/Commercial/Commercial-Renting.aspx "Rental Commercial Properties")
 
-[ Insurance](http://real-estate-services.longandfoster.com/Insurance/Insurance.aspx?sec=Renting "Long and Foster Insurance")
+[Renters Insurance](http://real-estate-services.longandfoster.com/Insurance/Renters-Insurance.aspx?sec=Renting "Long and Foster Insurance")
 
 [Home Warranty](http://real-estate-services.longandfoster.com/Home-Warranty/Warranty.aspx?sec=Renting "Home Warranty Services")
 
@@ -100,6 +100,8 @@ Long & Foster has financing for your home purchase covered with our mortgage com
 [Mortgage Calculators](http://mortgages.longandfoster.com/Calculators.aspx "Calculators")
 
 [Credit Reports](http://mortgages.longandfoster.com/Credit-Report.aspx "Credit Reports")
+
+[Mortgage News](http://mortgages.longandfoster.com/Mortgage-News.aspx "Mortgage News")
 
 Buying a home is just the beginning of the homeownership experience. Find out how to maintain, upgrade, and protect your home. 
 
@@ -152,19 +154,15 @@ Long & Foster has a presence in seven states and the District of Columbia. Check
 
 Jump start your career with Long & Foster, the largest privately-owned real estate company in America. 
 
-[ Register Now!](http://real-estate-careers.longandfoster.com/Licensing-Courses.aspx "Licensing Courses")
-
-[ Why Us?](http://real-estate-careers.longandfoster.com/Why-Us.aspx "Why Us?")
+[ Becoming an Agent](http://real-estate-careers.longandfoster.com/Licensing-Courses.aspx "Licensing Courses")
 
 [ Career Counselors](http://real-estate-careers.longandfoster.com/Career_Counselors.aspx "Real Estate Career Advice")
 
 [ Career Seminars](http://real-estate-careers.longandfoster.com/Career-Seminars.aspx "Long and Foster Class")
 
-[ Getting Started](http://real-estate-careers.longandfoster.com/Getting-Started.aspx "Getting Started")
+[ The L & F Advantage](http://real-estate-careers.longandfoster.com/Why-Us.aspx "Why Us?")
 
 [Employment Opportunities](http://real-estate-careers.longandfoster.com/Employment-Opportunities.aspx "Employment Opportunities")
-
-[ Training](http://real-estate-careers.longandfoster.com/Training.aspx "Training")
 
 ##  Privacy Policy
 
