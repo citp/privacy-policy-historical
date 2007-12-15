@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the konami.com privacy policy that was archived on 2007-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070220080844id_/http%3A//www.konami.com/edealinv/servlet/ExecMacro%3Fnurl%3Dcontrol/Privacy.vm%26ctl_nbr%3D3810) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the konami.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215020150id_/http%3A//www.konami.com/edealinv/servlet/ExecMacro%3Fnurl%3Dcontrol/Privacy.vm%26ctl_nbr%3D3810) for the most accurate reproduction.*
 
 # Konami America - Privacy Policy
 
 [](http://www.esrb.org/confirm/konami-confirmation.jsp)
 
-Last Updated:  11/07/06
+Last Updated:  11/22/07
 
 [Click here for PDF Version](https://web.archive.org/ctlimg/konami/konami_privacy_policy.pdf)
 
@@ -101,17 +101,27 @@ In addition, information about our customers 13 years old or older, including pe
 You should be aware that while you are on a website operated by Konami, you may be directed to other sites (usually retailers such as Amazon) that are beyond our control and for which we are not responsible. Because we cannot guarantee that the privacy policies of these websites meet our high standards and the requirements of the ESRB Privacy Online Program, we recommend that you read the privacy policy of the website to which you link before you submit any personal information.
 
 **Can I choose how my personal information is used?**  
-If you do not want Konami or any third party to send you product updates and other company information, and/or if you prefer not to have Konami share your personal information with third parties, please opt-out from these services at the time of registration or information collection. If you have opted-in and, at a later time, you wish to opt-out, please contact us, at any time, via e-mail at [webinfo@konamiusa.com](mailto:webinfo@konamiusa.com), or by regular mail at Konami Digital Entertainment, Attention: Website Administrator, 1400 Bridge Parkway, Redwood City, CA 94065. We will be happy to honor your request.
+If you do not want Konami or any third party to send you product updates and other company information, and/or if you prefer not to have Konami share your personal information with third parties, please opt-out from these services at the time of registration or information collection. If you have opted-in and, at a later time, you wish to opt-out, please contact us, at any time, via e-mail at [webinfo@konami.com](mailto:webinfo@konami.com), and we will be happy to honor your request by regular mail at: 
+
+**Konami Digital Entertainment, Inc.**  
+Attention: Website Administrator  
+2381 Rosecrans Ave. Suite #200  
+El Segundo, CA 90245
 
 **How can I access my personal information?** If you have registered to use the message board on our site and wish to update your profile, you may do so online by visiting the "profile" section found at each game forum on our website(s). You may be required to submit your login name and password before you can access your profile information.
 
-If you wish to review, update, or delete any other personal information that we may have collected about you, please contact us via e-mail at [webinfo@konamiusa.com](mailto:webinfo@konamiusa.com), or by regular mail at Konami Digital Entertainment, Attention: Website Administrator, 1400 Bridge Parkway, Redwood City, CA 94065.
+If you wish to review, update, or delete any other personal information that we may have collected about you, please contact us via e-mail at [webinfo@konami.com](mailto:webinfo@konami.com), or by regular mail at:
+
+**Konami Digital Entertainment, Inc.**  
+Attention: Website Administrator  
+2381 Rosecrans Ave. Suite #200  
+El Segundo, CA 90245
 
 **What is Konami's online privacy policy regarding children under 13?**
 
 _Collection and Use of Personal Information_
 
-Konami may collect and store personal information about children under 13 ("children" or "child") if it submitted by way of our registration form and is submitted after we've obtained verifiable parental consent. To determine who is younger than 13 years old and whether parental consent is required, we ask all users who wish to register to submit their date of birth. Those users that indicate they are under 13 years of age are directed to our [Parental Permission Form](https://web.archive.org/ctlimg/konami/KDE_ParentConsent.pdf). If given verifiable permission from a parent, Konami may collect and store the following types of personal information about a child under 13: email address, parent's or guardian's full name, parent's or guardian's email address, parent's or guardian's telephone number. Konami may also collect demographic information about a child such as the child's date of birth, location, homepage, and other preferences; and, combine such information with the child's personal information. Konami will only collect this information if it is voluntarily submitted to us by the child and provided with the parent's permission. We do not gather personal information about a child through the use of passive collection mechanisms such as cookies. For more information on how we use cookies and other information collection tools, please click here.
+Konami may collect and store personal information about children under 13 ("children" or "child") if it submitted by way of our registration form and is submitted after we've obtained verifiable parental consent. To determine who is younger than 13 years old and whether parental consent is required, we ask all users who wish to register to submit their date of birth. Those users that indicate they are under 13 years of age are directed to our [Parental Permission Form](https://web.archive.org/ctlimg/konami/KDE_ParentConsent.pdf). If given verifiable permission from a parent, Konami may collect and store the following types of personal information about a child under 13: email address, parent's or guardian's full name, parent's or guardian's email address, parent's or guardian's telephone number. Konami may also collect demographic information about a child such as the child's date of birth, location, homepage, and other preferences; and, combine such information with the child's personal information. Konami will only collect this information if it is voluntarily submitted to us by the child and provided with the parent's permission. We do not gather personal information about a child through the use of passive collection mechanisms such as cookies. For more information on how we use cookies and other information collection tools, please [click here](http://www.konami.com/edealinv/servlet/ExecMacro?nurl=control/Privacy.vm&ctl_nbr=3810#cookies).
 
 The information that a child provides on his/her registration form may be used to: (a) make up the child's profile; (b) allow the child to use our message board, and participate in other activities on our site (e.g., contests, or game-specific events); and, (3) allow us to send the child, via email, news about products, features and enhancements, special offers, upgrade opportunities, and contents and events of interest.
 
@@ -123,12 +133,12 @@ _Contact Information_
 
 Any personal information that a child discloses while visiting our website(s) is collected by Konami Digital Entertainment. Konami's contact information is as follows:
 
-**Konami Digital Entertainment - America**  
+**Konami Digital Entertainment, Inc.**  
 Attention: Website Administrator  
-1400 Bridge Parkway  
-Redwood City, CA 94065  
+2381 Rosecrans Ave. Suite #200  
+El Segundo, CA 90245  
 (888) 212-0573  
-[webinfo@konamiusa.com](mailto:webinfo@konamiusa.com)
+[webinfo@konami.com](mailto:webinfo@konami.com)
 
 _Third Parties_
 
@@ -146,12 +156,11 @@ In addition, we take reasonable steps to ensure that third parties to whom we tr
 
 **How do I ask a question or file a complaint?**
 
-If you have any questions, complaints or comments regarding our Privacy Policy Statement or practices, please contact us via email at [webinfo@konamiusa.com](mailto:webinfo@konamiusa.com) or by regular mail at:
+If you have any questions, complaints or comments regarding our Privacy Policy Statement or practices, please contact us via email at [webinfo@konami.com](mailto:webinfo@konami.com) or by regular mail at:
 
-**Konami Digital Entertainment - America**
-
+**Konami Digital Entertainment, Inc.**  
 Attention: Website Administrator  
-1400 Bridge Parkway  
-Redwood City, CA 94065
+2381 Rosecrans Ave. Suite #200  
+El Segundo, CA 90245
 
 _By using this site, you signify your assent to the Konami Online Privacy Policy. If you do not agree to this Privacy Policy, please do not use this site. We reserve the right to make changes to this Policy. If we make a material change to this Privacy Policy, we will notify you by posting the change on this site or in this Privacy Policy and, if necessary, give you additional choices regarding such change. Please check back from time to time to ensure you aware of these changes. Your continued use of this site will signify your acceptance of these changes._
