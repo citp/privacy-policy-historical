@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the goldcoastbulletin.com.au privacy policy that was archived on 2006-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060923100815id_/http%3A//www.gcbulletin.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldcoastbulletin.com.au privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215110452id_/http%3A//www.goldcoast.com.au/gold-coast-bulletin/privacy-policy.html) for the most accurate reproduction.*
 
-# The Gold Coast Bulletin | News from the Gold Coast and around Australia
+# The Gold Coast Bulletin :: Privacy Policy :: goldcoast.com.au :: Queensland, Australia
 
 Gold Coast Publications Pty Ltd (News) recognises the importance of protecting the privacy of personally identifiable information collected about our customers. For the purposes of this Privacy Statement, the word customers includes visitors to our web sites, subscribers to and users of our services, purchasers of our products and advertising customers. 
 
