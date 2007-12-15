@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atlanticcitynj.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626170355id_/http%3A//www.atlanticcitynj.com/terms.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atlanticcitynj.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215204006id_/http%3A//www.atlanticcitynj.com/terms.asp) for the most accurate reproduction.*
 
 # Privacy - Terms of Use
 
