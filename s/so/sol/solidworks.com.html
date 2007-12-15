@@ -1,391 +1,15 @@
-<!--The following is the downloaded HTML source of the solidworks.com privacy policy that was archived on 2007-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070625113322id_/http%3A//solidworks.com/pages/company/footer_pages/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the solidworks.com privacy policy that was archived on 2007-12-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071215134849id_/http%3A//www.solidworks.com/pages/company/footer_pages/privacy_policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
-
-	<title>SolidWorks Privacy Policy</title>
-	<meta name="keywords" content="">
-	<meta name="description" content="">
+<title>SolidWorks Privacy Policy</title>
+<meta name="keywords" content="">
+<meta name="description" content="">
 
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <meta name="robots" content="FOLLOW,INDEX">
 <meta name="revisit-after" content="21 days">
 <meta name="distribution" content="Global">
-
-
-<meta name="WT.cg_n" content="No Section">
-<meta name="WT.cg_s" content="">
-
-
-
-	<script language="Javascript">
-<!--
-var gService = false;
-var gTimeZone = -5;
-// Code section for Enable First-Party Cookie Tracking
-function dcsCookie(){
-	if (typeof(dcsOther)=="function"){
-		dcsOther();
-	}
-	else if (typeof(dcsPlugin)=="function"){
-		dcsPlugin();
-	}
-	else if (typeof(dcsFPC)=="function"){
-		dcsFPC(gTimeZone);
-	}
-}
-function dcsGetCookie(name){
-	var pos=document.cookie.indexOf(name+"=");
-	if (pos!=-1){
-		var start=pos+name.length+1;
-		var end=document.cookie.indexOf(";",start);
-		if (end==-1){
-			end=document.cookie.length;
-		}
-		return unescape(document.cookie.substring(start,end));
-	}
-	return null;
-}
-function dcsGetCrumb(name,crumb){
-	var aCookie=dcsGetCookie(name).split(":");
-	for (var i=0;i<aCookie.length;i++){
-		var aCrumb=aCookie[i].split("=");
-		if (crumb==aCrumb[0]){
-			return aCrumb[1];
-		}
-	}
-	return null;
-}
-function dcsGetIdCrumb(name,crumb){
-	var cookie=dcsGetCookie(name);
-	var id=cookie.substring(0,cookie.indexOf(":lv="));
-	var aCrumb=id.split("=");
-	for (var i=0;i<aCrumb.length;i++){
-		if (crumb==aCrumb[0]){
-			return aCrumb[1];
-		}
-	}
-	return null;
-}
-function dcsFPC(offset){
-	if (typeof(offset)=="undefined"){
-		return;
-	}
-	var name=gFpc;
-	var dCur=new Date();
-	dCur.setTime(dCur.getTime()+(dCur.getTimezoneOffset()*60000)+(offset*3600000));
-	var dExp=new Date(dCur.getTime()+315360000000);
-	var dSes=new Date(dCur.getTime());
-	if (document.cookie.indexOf(name+"=")!=-1){
-		var id=dcsGetIdCrumb(name,"id");
-		var lv=parseInt(dcsGetCrumb(name,"lv"));
-		var ss=parseInt(dcsGetCrumb(name,"ss"));
-		if ((id==null)||(id=="null")||isNaN(lv)||isNaN(ss)){
-			return;
-		}
-		WT.co_f=id;
-		var dLst=new Date(lv);
-		dSes.setTime(ss);
-		if ((dCur.getTime()>(dLst.getTime()+1800000))||(dCur.getTime()>(dSes.getTime()+28800000))){
-			dSes.setTime(dCur.getTime());
-			WT.vt_f_s="1";
-		}
-		if ((dCur.getDay()!=dLst.getDay())||(dCur.getMonth()!=dLst.getMonth())||(dCur.getYear()!=dLst.getYear())){
-			WT.vt_f_d="1";
-		}
-	}
-	else{
-		var tmpname=name+"_TMP=";
-		document.cookie=tmpname+"1";
-		if (document.cookie.indexOf(tmpname)!=-1){
-			document.cookie=tmpname+"; expires=Thu, 01-Jan-1970 00:00:01 GMT";
-			if ((typeof(gWtId)!="undefined")&&(gWtId!="")){
-				WT.co_f=gWtId;
-			}
-			else if ((typeof(gTempWtId)!="undefined")&&(gTempWtId!="")){
-				WT.co_f=gTempWtId;
-				WT.vt_f="1";
-			}
-			else{
-				WT.co_f="2";
-				var cur=dCur.getTime().toString();
-				for (var i=2;i<=(32-cur.length);i++){
-					WT.co_f+=Math.floor(Math.random()*16.0).toString(16);
-				}
-				WT.co_f+=cur;
-				WT.vt_f="1";
-			}
-			if (typeof(gWtAccountRollup)=="undefined"){
-				WT.vt_f_a="1";
-			}
-			WT.vt_f_s="1";
-			WT.vt_f_d="1";
-		}
-		else{
-			WT.vt_f="2";
-			WT.vt_f_a="2";
-			return;
-		}
-	}
-	WT.co_f=escape(WT.co_f);
-	WT.vt_sid=WT.co_f+"."+dSes.getTime();
-	var expiry="; expires="+dExp.toGMTString();
-	document.cookie=name+"="+"id="+WT.co_f+":lv="+dCur.getTime().toString()+":ss="+dSes.getTime().toString()+expiry+"; path=/"+(((typeof(gFpcDom)!="undefined")&&(gFpcDom!=""))?("; domain="+gFpcDom):(""));
-}
-
-// Code section for Use the new first-party cookie generated with this tag.
-var gFpc="WT_FPC";
-var gWtId="";
-var gTempWtId="";
-var gConvert=true;
-
-function dcsAdv(){
-	dcsFunc("dcsET");
-	dcsFunc("dcsCookie");
-	dcsFunc("dcsAdSearch");
-	dcsFunc("dcsTP");
-}
-
-//-->
-</script>
-<!-- END OF SDC Advanced Tracking Code -->
-
-<!-- START OF SmartSource Data Collector TAG -->
-<script language="Javascript"><!--
-gVersion="1.0";
-//-->
-</script>
-<script language="Javascript1.1"><!--
-gVersion="1.1";
-//-->
-</script>
-<script language="Javascript1.2"><!--
-gVersion="1.2";
-var RE={"%09":/\t/g,"%20":/ /g,"%23":/\#/g,"%26":/\&/g,"%2B":/\+/g,"%3F":/\?/g,"%5C":/\\/g};
-//-->
-</script>
-<script language="Javascript1.3"><!--
-gVersion="1.3";
-if (window.ActiveXObject){
-	var gFV="";
-	for (var gVer=2;gVer<=10;gVer++){
-		try{
-			var gFlash = eval("new ActiveXObject('ShockwaveFlash.ShockwaveFlash."+gVer+"');");
-			if (gFlash){
-				gFV=gVer+".0";
-				break;
-			}
-		}
-		catch(e){
-		}
-	}
-}
-//-->
-</script>
-<script language="Javascript1.4"><!--
-gVersion="1.4";
-//-->
-</script>
-<script language="Javascript1.5"><!--
-gVersion="1.5";
-//-->
-</script>
-<script language="JavaScript"><!--
-var gImages=new Array;
-var gIndex=0;
-var DCS=new Object();
-var WT=new Object();
-var DCSext=new Object();
-var gQP=new Array();
-
-var gDomain="trdpdc.solidworks.com";
-var gDcsId="dcsc6mshiisd8olrz5jz4zel9_8p5x";
-
-if ((typeof(gConvert)!="undefined")&&gConvert&&(document.cookie.indexOf(gFpc+"=")==-1)){
-	document.write("<SCR"+"IPT Language='JavaScript' SRC='"+"http"+(window.location.protocol.indexOf('https:')==0?'s':'')+"://"+gDomain+"/"+gDcsId+"/wtid.js"+"'></SCR"+"IPT>");
-}
-//-->
-</script>
-<script language="Javascript"><!--
-function dcsVar(){
-	var dCurrent=new Date();
-	WT.tz=dCurrent.getTimezoneOffset()/60*-1;
-	if (WT.tz==0){
-		WT.tz="0";
-	}
-	WT.bh=dCurrent.getHours();
-	WT.ul=navigator.appName=="Netscape"?navigator.language:navigator.userLanguage;
-	if (typeof(screen)=="object"){
-		WT.cd=navigator.appName=="Netscape"?screen.pixelDepth:screen.colorDepth;
-		WT.sr=screen.width+"x"+screen.height;
-	}
-	if (typeof(navigator.javaEnabled())=="boolean"){
-		WT.jo=navigator.javaEnabled()?"Yes":"No";
-	}
-	if (document.title){
-		WT.ti=document.title;
-	}
-	WT.js="Yes";
-	if (typeof(gVersion)!="undefined"){
-		WT.jv=gVersion;
-	}
-	if (document.body&&document.body.addBehavior){
-		document.body.addBehavior("#default#clientCaps");
-		if (document.body.connectionType){
-			WT.ct=document.body.connectionType;
-		}
-		document.body.addBehavior("#default#homePage");
-		WT.hp=document.body.isHomePage(location.href)?"1":"0";
-	}
-	if (parseInt(navigator.appVersion)>3){
-		if ((navigator.appName=="Microsoft Internet Explorer")&&document.body){
-			WT.bs=document.body.offsetWidth+"x"+document.body.offsetHeight;
-		}
-		else if (navigator.appName=="Netscape"){
-			WT.bs=window.innerWidth+"x"+window.innerHeight;
-		}
-	}
-	WT.fi="No";
-	if (window.ActiveXObject){
-		if ((typeof(gFV)!="undefined")&&(gFV.length>0)){
-			WT.fi="Yes";
-			WT.fv=gFV;
-		}
-	}
-	else if (navigator.plugins&&navigator.plugins.length){
-		for (var i=0;i<navigator.plugins.length;i++){
-			if (navigator.plugins[i].name.indexOf('Shockwave Flash')!=-1){
-				WT.fi="Yes";
-				WT.fv=navigator.plugins[i].description.split(" ")[2];
-				break;
-			}
-		}
-	}
-	WT.sp="@@SPLITVALUE@@";
-	DCS.dcsdat=dCurrent.getTime();
-	DCS.dcssip=window.location.hostname;
-	DCS.dcsuri=window.location.pathname;
-	if (window.location.search){
-		DCS.dcsqry=window.location.search;
-		if (gQP.length>0){
-			for (var i=0;i<gQP.length;i++){
-				var pos=DCS.dcsqry.indexOf(gQP[i]);
-				if (pos!=-1){
-					var front=DCS.dcsqry.substring(0,pos);
-					var end=DCS.dcsqry.substring(pos+gQP[i].length,DCS.dcsqry.length);
-					DCS.dcsqry=front+end;
-				}
-			}
-		}
-	}
-	if ((window.document.referrer!="")&&(window.document.referrer!="-")){
-		if (!(navigator.appName=="Microsoft Internet Explorer"&&parseInt(navigator.appVersion)<4)){
-			DCS.dcsref=window.document.referrer;
-		}
-	}
-}
-
-function A(N,V){
-	return "&"+N+"="+dcsEscape(V);
-}
-
-function dcsEscape(S){
-	if (typeof(RE)!="undefined"){
-		var retStr = new String(S);
-		for (R in RE){
-			retStr = retStr.replace(RE[R],R);
-		}
-		return retStr;
-	}
-	else{
-		return escape(S);
-	}
-}
-
-function dcsCreateImage(dcsSrc){
-	if (document.images){
-		gImages[gIndex]=new Image;
-		if ((typeof(gHref)!="undefined")&&(gHref.length>0)){
-			gImages[gIndex].onload=gImages[gIndex].onerror=dcsLoadHref;
-		}
-		gImages[gIndex].src=dcsSrc;
-		gIndex++;
-	}
-	else{
-		document.write('<IMG BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="'+dcsSrc+'">');
-	}
-}
-
-function dcsMeta(){
-	var elems;
-	if (document.all){
-		elems=document.all.tags("meta");
-	}
-	else if (document.documentElement){
-		elems=document.getElementsByTagName("meta");
-	}
-	if (typeof(elems)!="undefined"){
-		for (var i=1;i<=elems.length;i++){
-			var meta=elems.item(i-1);
-			if (meta.name){
-				if (meta.name.indexOf('WT.')==0){
-					WT[meta.name.substring(3)]=meta.content;
-				}
-				else if (meta.name.indexOf('DCSext.')==0){
-					DCSext[meta.name.substring(7)]=meta.content;
-				}
-				else if (meta.name.indexOf('DCS.')==0){
-					DCS[meta.name.substring(4)]=meta.content;
-				}
-			}
-		}
-	}
-}
-
-function dcsTag(){
-	var P="http"+(window.location.protocol.indexOf('https:')==0?'s':'')+"://"+gDomain+(gDcsId==""?'':'/'+gDcsId)+"/dcs.gif?";
-	for (N in DCS){
-		if (DCS[N]) {
-			P+=A(N,DCS[N]);
-		}
-	}
-	for (N in WT){
-		if (WT[N]) {
-			P+=A("WT."+N,WT[N]);
-		}
-	}
-	for (N in DCSext){
-		if (DCSext[N]) {
-			P+=A(N,DCSext[N]);
-		}
-	}
-	if (P.length>2048&&navigator.userAgent.indexOf('MSIE')>=0){
-		P=P.substring(0,2040)+"&WT.tu=1";
-	}
-	dcsCreateImage(P);
-}
-
-function dcsFunc(func){
-	if (typeof(window[func])=="function"){
-		window[func]();
-	}
-}
-
-dcsVar();
-dcsMeta();
-dcsFunc("dcsAdv");
-dcsTag();
-//-->
-</script>
-
-
-	<noscript>
-	<IMG ALT="" BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="http://trdpdc.solidworks.com/dcsc6mshiisd8olrz5jz4zel9_8p5x/njs.gif?dcsuri=/nojavascript&amp;WT.js=No">
-	</noscript>
-
-<!-- END OF SmartSource Data Collector  TAG -->
-
-
 <link rel="stylesheet" href="/css/global_body.css" type="text/css">
 <link rel="stylesheet" href="/css/global_nav.css" type="text/css">
 <link rel="stylesheet" href="/css/global_menus.css" type="text/css">
@@ -499,7 +123,7 @@ function testAlert() {
 </head>
 
 
-<body marginheight="0" marginwidth="0" topmargin="0" leftmargin="0" background="/images/home/bg.jpg" bgcolor="#e7e7e7" onload="imageInit(); defMen(defMenu,defSubMenu);">
+<body marginheight="0" marginwidth="0" topmargin="0" leftmargin="0" background="/images/home/bg_new.gif" bgcolor="#e7e7e7" onload="imageInit(); defMen(defMenu,defSubMenu);">
 
 
 
@@ -574,7 +198,7 @@ function testAlert() {
 	a4[4] = new elem('"/pages/news/speaking.html"','Speaking Engagements');
 
 				
-	a4[5] = new elem('"/pages/news/seminars.html"','Seminars');
+	a4[5] = new elem('"/pages/news/seminarsearch/seminars.html"','Seminars');
 
 				
 	a4[6] = new elem('"/pages/news/tsmap/tradeshows.html"','Trade Shows');
@@ -619,39 +243,37 @@ function testAlert() {
 </script>
 
 
-<table width="850" height="540" border="0" cellpadding="0" cellspacing="0" style="background-color:#FFFFFF; background-image: url(/images/home/bg3.gif); background-repeat:no-repeat;">
+<table width="850" height="540" border="0" cellpadding="0" cellspacing="0" style="background-color:#FFFFFF; background-repeat:no-repeat;">
 	<tbody><tr>
 		<td valign="top">
 		
 		<table width="100%" border="0" cellpadding="3" cellspacing="0" style="margin:0px;">
 			<tbody><tr>
 				<td align="right"><a href="/pages/company/global.html" class="vtopnav">Global Websites</a>&nbsp;<img src="/images/home/topnav_vertline.gif" alt="3D Mechanical Software, 3D CAD Software for AutoCAD users " width="1" height="25" border="0" align="middle">&nbsp;<a href="/pages/company/contactus.html" class="vtopnav">Contact Us</a>&nbsp;<img src="/images/home/topnav_vertline.gif" alt="3D Mechanical Software, 3D CAD Software for AutoCAD users " width="1" height="25" border="0" align="middle">&nbsp;<a href="/pages/company/logins.html" class="vtopnav">Login</a>&nbsp;</td>
-				<td align="left" bgcolor="#F1740E"><form action="/search/search_results.html" name="frmsearch" method="post" style="margin:0px; padding:0px;">&nbsp;<input type="text" name="search" size="25" maxlength="125">&nbsp;<input type="submit" class="button" onclick="javascript:valSubmit();" value="Search">&nbsp;&nbsp;&nbsp;&nbsp;<img src="/images/thirdlv_arrowright.gif" alt="" border="0"><a href="/search/search.html" class="topnavsearch">Advanced Search</a></form></td>
+				<td align="left" bgcolor="#d0d0d0"><form action="/search/search_results.html" name="frmsearch" method="post" style="margin:0px; padding:0px;">&nbsp;<input type="text" name="search" size="25" maxlength="125">&nbsp;<input type="submit" class="button" onclick="javascript:valSubmit();" value="Search">&nbsp;&nbsp;&nbsp;&nbsp;<img src="/images/thirdlv_arrowright.gif" alt="" border="0"><a href="/search/search.html" class="topnavsearch">Advanced Search</a></form></td>
 			</tr>
 			<tr>
 				<td align="left"><a href="/index.html"><img src="/images/home/logo4.gif" width="92" height="57" hspace="28" border="0" style="position:relative; top:-5px;"></a></td>
 				<td valign="middle" width="360" nowrap="">
-					<div align="right" style="height:37px; left:397px; top:35px; widows:150px; position:absolute; width: 300;">1-800-693-9000 (US and Canada)<br>
-						+1-978-371-5011 (Outside the US and Canada)<br>
-						<a href="/pages/programs/phoneme/phoneme.html"><u>Have a Salesperson Call Me (US/Canada)</u></a>
-						</div>
-					<div align="right" style="position:absolute; left:722px; top:35px;"><a href="javascript:self.location='http://www.solidworks.com/salesperson';"><img src="/images/home/SaleCallButton.jpg" border="0"></a></div>
+					<div align="right" style="height:37px; left:535px; top:35px; widows:150px; position:absolute; width: 300;">1-800-693-9000 (US and Canada)<br>
+						+1-978-371-5011 (Outside the US and Canada)<br><a href="/pages/programs/phoneme/phoneme.html">Have a Salesperson Call Me (US/Canada)</a></div>
+					
 				</td>
 		    </tr>
 		</tbody></table>
 		
-			<table width="816" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF" style="border:2px; border-style:solid; border-color:#F1740E; border-width:thin;">
+			<table width="816" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF" style="border:2px; border-style:solid; border-color:#d0d0d0; border-width:thin;">
 			<tbody><tr height="75"><td valign="top">
 					
 					
 					
 					
-						<table cellpadding="0" cellspacing="0" border="0" width="100%" bgcolor="#F1740E">
+						<table cellpadding="0" cellspacing="0" border="0" width="100%" bgcolor="#d0d0d0">
 <tbody><tr>
 <script language="javascript">
 			maincell1='Products';
 			subnavalign1='0';
-		</script><td></td><td id="cell1" height="23" class="NavText" align="center" valign="middle" nowrap="nowrap" onmouseout="MouseOutMenu(this, 'cell', 1,'#365A7E');" onmouseover="MouseOverMenu(this,'cell','#808080',1,'#F1740E',0);">
+		</script><td></td><td id="cell1" height="23" class="NavText" align="center" valign="middle" nowrap="nowrap" onmouseout="MouseOutMenu(this, 'cell', 1,'#365A7E');" onmouseover="MouseOverMenu(this,'cell','#ffffff',1,'#ffffff',0);">
 <ilayer id="ila1">
 <layer id="la1" onmouseout="MouseOutMenu(this, 'layer', 1,'#F1740E');" onmouseover="MouseOverMenu(this,'layer','#808080',1,'#F1740E',0);">
 <a href="/pages/products/products.html" id="menuOp1" class="menu">Products</a><img src="/images/ghost.gif" width="1" height="1" border="0"></layer>
@@ -659,7 +281,7 @@ function testAlert() {
 </td><script language="javascript">
 			maincell2='Services';
 			subnavalign2='0';
-		</script><td name="Services" height="23" class="tdmen" width="1"><img name="menu2Left" src="/images/white.gif" alt="" width="1" height="23" border="0"></td><td id="cell2" height="23" class="NavText" align="center" valign="middle" nowrap="nowrap" onmouseout="MouseOutMenu(this, 'cell', 2,'#365A7E');" onmouseover="MouseOverMenu(this,'cell','#808080',2,'#F1740E',0);">
+		</script><td name="Services" height="23" class="tdmen" width="1"><img name="menu2Left" src="/images/white.gif" alt="" width="1" height="23" border="0"></td><td id="cell2" height="23" class="NavText" align="center" valign="middle" nowrap="nowrap" onmouseout="MouseOutMenu(this, 'cell', 2,'#365A7E');" onmouseover="MouseOverMenu(this,'cell','#ffffff',2,'#ffffff',0);">
 <ilayer id="ila2">
 <layer id="la2" onmouseout="MouseOutMenu(this, 'layer', 2,'#F1740E');" onmouseover="MouseOverMenu(this,'layer','#808080',2,'#F1740E',0);">
 <a href="/pages/services/services.html" id="menuOp2" class="menu">Services</a><img src="/images/ghost.gif" width="1" height="1" border="0"></layer>
@@ -667,7 +289,7 @@ function testAlert() {
 </td><script language="javascript">
 			maincell3='Customer Successes';
 			subnavalign3='1';
-		</script><td name="Customer Successes" height="23" class="tdmen" width="1"><img name="menu3Left" src="/images/white.gif" alt="" width="1" height="23" border="0"></td><td id="cell3" height="23" class="NavText" align="center" valign="middle" nowrap="nowrap" onmouseout="MouseOutMenu(this, 'cell', 3,'#365A7E');" onmouseover="MouseOverMenu(this,'cell','#808080',3,'#F1740E',1);">
+		</script><td name="Customer Successes" height="23" class="tdmen" width="1"><img name="menu3Left" src="/images/white.gif" alt="" width="1" height="23" border="0"></td><td id="cell3" height="23" class="NavText" align="center" valign="middle" nowrap="nowrap" onmouseout="MouseOutMenu(this, 'cell', 3,'#365A7E');" onmouseover="MouseOverMenu(this,'cell','#ffffff',3,'#ffffff',1);">
 <ilayer id="ila3">
 <layer id="la3" onmouseout="MouseOutMenu(this, 'layer', 3,'#F1740E');" onmouseover="MouseOverMenu(this,'layer','#808080',3,'#F1740E',1);">
 <a href="/pages/successes/success_stories.html" id="menuOp3" class="menu">Customer Successes</a><img src="/images/ghost.gif" width="1" height="1" border="0"></layer>
@@ -675,7 +297,7 @@ function testAlert() {
 </td><script language="javascript">
 			maincell4='News and Events';
 			subnavalign4='1';
-		</script><td name="News and Events" height="23" class="tdmen" width="1"><img name="menu4Left" src="/images/white.gif" alt="" width="1" height="23" border="0"></td><td id="cell4" height="23" class="NavText" align="center" valign="middle" nowrap="nowrap" onmouseout="MouseOutMenu(this, 'cell', 4,'#365A7E');" onmouseover="MouseOverMenu(this,'cell','#808080',4,'#F1740E',1);">
+		</script><td name="News and Events" height="23" class="tdmen" width="1"><img name="menu4Left" src="/images/white.gif" alt="" width="1" height="23" border="0"></td><td id="cell4" height="23" class="NavText" align="center" valign="middle" nowrap="nowrap" onmouseout="MouseOutMenu(this, 'cell', 4,'#365A7E');" onmouseover="MouseOverMenu(this,'cell','#ffffff',4,'#ffffff',1);">
 <ilayer id="ila4">
 <layer id="la4" onmouseout="MouseOutMenu(this, 'layer', 4,'#F1740E');" onmouseover="MouseOverMenu(this,'layer','#808080',4,'#F1740E',1);">
 <a href="/pages/news/newsandevents.html" id="menuOp4" class="menu">News and Events</a><img src="/images/ghost.gif" width="1" height="1" border="0"></layer>
@@ -683,7 +305,7 @@ function testAlert() {
 </td><script language="javascript">
 			maincell5='Partners';
 			subnavalign5='2';
-		</script><td name="Partners" height="23" class="tdmen" width="1"><img name="menu5Left" src="/images/white.gif" alt="" width="1" height="23" border="0"></td><td id="cell5" height="23" class="NavText" align="center" valign="middle" nowrap="nowrap" onmouseout="MouseOutMenu(this, 'cell', 5,'#365A7E');" onmouseover="MouseOverMenu(this,'cell','#808080',5,'#F1740E',2);">
+		</script><td name="Partners" height="23" class="tdmen" width="1"><img name="menu5Left" src="/images/white.gif" alt="" width="1" height="23" border="0"></td><td id="cell5" height="23" class="NavText" align="center" valign="middle" nowrap="nowrap" onmouseout="MouseOutMenu(this, 'cell', 5,'#365A7E');" onmouseover="MouseOverMenu(this,'cell','#ffffff',5,'#ffffff',2);">
 <ilayer id="ila5">
 <layer id="la5" onmouseout="MouseOutMenu(this, 'layer', 5,'#F1740E');" onmouseover="MouseOverMenu(this,'layer','#808080',5,'#F1740E',2);">
 <a href="/pages/partners/partners.html" id="menuOp5" class="menu">Partners</a><img src="/images/ghost.gif" width="1" height="1" border="0"></layer>
@@ -691,7 +313,7 @@ function testAlert() {
 </td><script language="javascript">
 			maincell6='Company';
 			subnavalign6='2';
-		</script><td name="Company" height="23" class="tdmen" width="1"><img name="menu6Left" src="/images/white.gif" alt="" width="1" height="23" border="0"></td><td id="cell6" height="23" class="NavText" align="center" valign="middle" nowrap="nowrap" onmouseout="MouseOutMenu(this, 'cell', 6,'#365A7E');" onmouseover="MouseOverMenu(this,'cell','#808080',6,'#F1740E',2);">
+		</script><td name="Company" height="23" class="tdmen" width="1"><img name="menu6Left" src="/images/white.gif" alt="" width="1" height="23" border="0"></td><td id="cell6" height="23" class="NavText" align="center" valign="middle" nowrap="nowrap" onmouseout="MouseOutMenu(this, 'cell', 6,'#365A7E');" onmouseover="MouseOverMenu(this,'cell','#ffffff',6,'#ffffff',2);">
 <ilayer id="ila6">
 <layer id="la6" onmouseout="MouseOutMenu(this, 'layer', 6,'#F1740E');" onmouseover="MouseOverMenu(this,'layer','#808080',6,'#F1740E',2);">
 <a href="/pages/company/company.html" id="menuOp6" class="menu">Company</a><img src="/images/ghost.gif" width="1" height="1" border="0"></layer>
@@ -705,7 +327,7 @@ function testAlert() {
 					
 					
 					<div id="buttonMenuRow">
-						<table border="0" cellpadding="0" cellspacing="0" bgcolor="#808080">
+						<table border="0" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
 							<tbody><tr><td height="15" align="right" valign="top"><img src="/images/ghost.gif" height="15" border="0"><font face="verdana,arial,helvetica" color="#ffffff" size="2">&nbsp;</font></td></tr>
 						</tbody></table>
 					</div>
@@ -716,7 +338,7 @@ function testAlert() {
 					<div id="menu5"></div>
 					<div id="menu6"></div>
 					<div id="menu7"></div>
-			<table border="0" width="100%" cellspacing="0" height="22" cellpadding="0" bgcolor="#808080">
+			<table border="0" width="100%" cellspacing="0" height="22" cellpadding="0" bgcolor="#ffffff">
 				<tbody><tr>
 					<td align="left" width="816" height="6" colspan="2" valign="top"><img name="enav" src="/images/ghost.gif" width="816" height="1" border="0"></td>
 				</tr>
@@ -1216,6 +838,374 @@ function testAlert() {
 </tbody></table>
 </p>
 </td></tr></tbody></table>
+
+
+	<script language="Javascript">
+<!--
+var gService = false;
+var gTimeZone = -5;
+// Code section for Enable First-Party Cookie Tracking
+function dcsCookie(){
+	if (typeof(dcsOther)=="function"){
+		dcsOther();
+	}
+	else if (typeof(dcsPlugin)=="function"){
+		dcsPlugin();
+	}
+	else if (typeof(dcsFPC)=="function"){
+		dcsFPC(gTimeZone);
+	}
+}
+function dcsGetCookie(name){
+	var pos=document.cookie.indexOf(name+"=");
+	if (pos!=-1){
+		var start=pos+name.length+1;
+		var end=document.cookie.indexOf(";",start);
+		if (end==-1){
+			end=document.cookie.length;
+		}
+		return unescape(document.cookie.substring(start,end));
+	}
+	return null;
+}
+function dcsGetCrumb(name,crumb){
+	var aCookie=dcsGetCookie(name).split(":");
+	for (var i=0;i<aCookie.length;i++){
+		var aCrumb=aCookie[i].split("=");
+		if (crumb==aCrumb[0]){
+			return aCrumb[1];
+		}
+	}
+	return null;
+}
+function dcsGetIdCrumb(name,crumb){
+	var cookie=dcsGetCookie(name);
+	var id=cookie.substring(0,cookie.indexOf(":lv="));
+	var aCrumb=id.split("=");
+	for (var i=0;i<aCrumb.length;i++){
+		if (crumb==aCrumb[0]){
+			return aCrumb[1];
+		}
+	}
+	return null;
+}
+function dcsFPC(offset){
+	if (typeof(offset)=="undefined"){
+		return;
+	}
+	var name=gFpc;
+	var dCur=new Date();
+	dCur.setTime(dCur.getTime()+(dCur.getTimezoneOffset()*60000)+(offset*3600000));
+	var dExp=new Date(dCur.getTime()+315360000000);
+	var dSes=new Date(dCur.getTime());
+	if (document.cookie.indexOf(name+"=")!=-1){
+		var id=dcsGetIdCrumb(name,"id");
+		var lv=parseInt(dcsGetCrumb(name,"lv"));
+		var ss=parseInt(dcsGetCrumb(name,"ss"));
+		if ((id==null)||(id=="null")||isNaN(lv)||isNaN(ss)){
+			return;
+		}
+		WT.co_f=id;
+		var dLst=new Date(lv);
+		dSes.setTime(ss);
+		if ((dCur.getTime()>(dLst.getTime()+1800000))||(dCur.getTime()>(dSes.getTime()+28800000))){
+			dSes.setTime(dCur.getTime());
+			WT.vt_f_s="1";
+		}
+		if ((dCur.getDay()!=dLst.getDay())||(dCur.getMonth()!=dLst.getMonth())||(dCur.getYear()!=dLst.getYear())){
+			WT.vt_f_d="1";
+		}
+	}
+	else{
+		var tmpname=name+"_TMP=";
+		document.cookie=tmpname+"1";
+		if (document.cookie.indexOf(tmpname)!=-1){
+			document.cookie=tmpname+"; expires=Thu, 01-Jan-1970 00:00:01 GMT";
+			if ((typeof(gWtId)!="undefined")&&(gWtId!="")){
+				WT.co_f=gWtId;
+			}
+			else if ((typeof(gTempWtId)!="undefined")&&(gTempWtId!="")){
+				WT.co_f=gTempWtId;
+				WT.vt_f="1";
+			}
+			else{
+				WT.co_f="2";
+				var cur=dCur.getTime().toString();
+				for (var i=2;i<=(32-cur.length);i++){
+					WT.co_f+=Math.floor(Math.random()*16.0).toString(16);
+				}
+				WT.co_f+=cur;
+				WT.vt_f="1";
+			}
+			if (typeof(gWtAccountRollup)=="undefined"){
+				WT.vt_f_a="1";
+			}
+			WT.vt_f_s="1";
+			WT.vt_f_d="1";
+		}
+		else{
+			WT.vt_f="2";
+			WT.vt_f_a="2";
+			return;
+		}
+	}
+	WT.co_f=escape(WT.co_f);
+	WT.vt_sid=WT.co_f+"."+dSes.getTime();
+	var expiry="; expires="+dExp.toGMTString();
+	document.cookie=name+"="+"id="+WT.co_f+":lv="+dCur.getTime().toString()+":ss="+dSes.getTime().toString()+expiry+"; path=/"+(((typeof(gFpcDom)!="undefined")&&(gFpcDom!=""))?("; domain="+gFpcDom):(""));
+}
+
+// Code section for Use the new first-party cookie generated with this tag.
+var gFpc="WT_FPC";
+var gWtId="";
+var gTempWtId="";
+var gConvert=true;
+
+function dcsAdv(){
+	dcsFunc("dcsET");
+	dcsFunc("dcsCookie");
+	dcsFunc("dcsAdSearch");
+	dcsFunc("dcsTP");
+}
+
+//-->
+</script>
+<!-- END OF SDC Advanced Tracking Code -->
+
+<!-- START OF SmartSource Data Collector TAG -->
+<script language="Javascript"><!--
+gVersion="1.0";
+//-->
+</script>
+<script language="Javascript1.1"><!--
+gVersion="1.1";
+//-->
+</script>
+<script language="Javascript1.2"><!--
+gVersion="1.2";
+var RE={"%09":/\t/g,"%20":/ /g,"%23":/\#/g,"%26":/\&/g,"%2B":/\+/g,"%3F":/\?/g,"%5C":/\\/g};
+//-->
+</script>
+<script language="Javascript1.3"><!--
+gVersion="1.3";
+if (window.ActiveXObject){
+	var gFV="";
+	for (var gVer=2;gVer<=10;gVer++){
+		try{
+			var gFlash = eval("new ActiveXObject('ShockwaveFlash.ShockwaveFlash."+gVer+"');");
+			if (gFlash){
+				gFV=gVer+".0";
+				break;
+			}
+		}
+		catch(e){
+		}
+	}
+}
+//-->
+</script>
+<script language="Javascript1.4"><!--
+gVersion="1.4";
+//-->
+</script>
+<script language="Javascript1.5"><!--
+gVersion="1.5";
+//-->
+</script>
+<script language="JavaScript"><!--
+var gImages=new Array;
+var gIndex=0;
+var DCS=new Object();
+var WT=new Object();
+var DCSext=new Object();
+var gQP=new Array();
+
+var gDomain="trdpdc.solidworks.com";
+var gDcsId="dcsc6mshiisd8olrz5jz4zel9_8p5x";
+
+if ((typeof(gConvert)!="undefined")&&gConvert&&(document.cookie.indexOf(gFpc+"=")==-1)){
+	document.write("<SCR"+"IPT Language='JavaScript' SRC='"+"http"+(window.location.protocol.indexOf('https:')==0?'s':'')+"://"+gDomain+"/"+gDcsId+"/wtid.js"+"'></SCR"+"IPT>");
+}
+//-->
+</script>
+<script language="Javascript"><!--
+function dcsVar(){
+	var dCurrent=new Date();
+	WT.tz=dCurrent.getTimezoneOffset()/60*-1;
+	if (WT.tz==0){
+		WT.tz="0";
+	}
+	WT.bh=dCurrent.getHours();
+	WT.ul=navigator.appName=="Netscape"?navigator.language:navigator.userLanguage;
+	if (typeof(screen)=="object"){
+		WT.cd=navigator.appName=="Netscape"?screen.pixelDepth:screen.colorDepth;
+		WT.sr=screen.width+"x"+screen.height;
+	}
+	if (typeof(navigator.javaEnabled())=="boolean"){
+		WT.jo=navigator.javaEnabled()?"Yes":"No";
+	}
+	if (document.title){
+		WT.ti=document.title;
+	}
+	WT.js="Yes";
+	if (typeof(gVersion)!="undefined"){
+		WT.jv=gVersion;
+	}
+	if (document.body&&document.body.addBehavior){
+		document.body.addBehavior("#default#clientCaps");
+		if (document.body.connectionType){
+			WT.ct=document.body.connectionType;
+		}
+		document.body.addBehavior("#default#homePage");
+		WT.hp=document.body.isHomePage(location.href)?"1":"0";
+	}
+	if (parseInt(navigator.appVersion)>3){
+		if ((navigator.appName=="Microsoft Internet Explorer")&&document.body){
+			WT.bs=document.body.offsetWidth+"x"+document.body.offsetHeight;
+		}
+		else if (navigator.appName=="Netscape"){
+			WT.bs=window.innerWidth+"x"+window.innerHeight;
+		}
+	}
+	WT.fi="No";
+	if (window.ActiveXObject){
+		if ((typeof(gFV)!="undefined")&&(gFV.length>0)){
+			WT.fi="Yes";
+			WT.fv=gFV;
+		}
+	}
+	else if (navigator.plugins&&navigator.plugins.length){
+		for (var i=0;i<navigator.plugins.length;i++){
+			if (navigator.plugins[i].name.indexOf('Shockwave Flash')!=-1){
+				WT.fi="Yes";
+				WT.fv=navigator.plugins[i].description.split(" ")[2];
+				break;
+			}
+		}
+	}
+	WT.sp="@@SPLITVALUE@@";
+	DCS.dcsdat=dCurrent.getTime();
+	DCS.dcssip=window.location.hostname;
+	DCS.dcsuri=window.location.pathname;
+	if (window.location.search){
+		DCS.dcsqry=window.location.search;
+		if (gQP.length>0){
+			for (var i=0;i<gQP.length;i++){
+				var pos=DCS.dcsqry.indexOf(gQP[i]);
+				if (pos!=-1){
+					var front=DCS.dcsqry.substring(0,pos);
+					var end=DCS.dcsqry.substring(pos+gQP[i].length,DCS.dcsqry.length);
+					DCS.dcsqry=front+end;
+				}
+			}
+		}
+	}
+	if ((window.document.referrer!="")&&(window.document.referrer!="-")){
+		if (!(navigator.appName=="Microsoft Internet Explorer"&&parseInt(navigator.appVersion)<4)){
+			DCS.dcsref=window.document.referrer;
+		}
+	}
+}
+
+function A(N,V){
+	return "&"+N+"="+dcsEscape(V);
+}
+
+function dcsEscape(S){
+	if (typeof(RE)!="undefined"){
+		var retStr = new String(S);
+		for (R in RE){
+			retStr = retStr.replace(RE[R],R);
+		}
+		return retStr;
+	}
+	else{
+		return escape(S);
+	}
+}
+
+function dcsCreateImage(dcsSrc){
+	if (document.images){
+		gImages[gIndex]=new Image;
+		if ((typeof(gHref)!="undefined")&&(gHref.length>0)){
+			gImages[gIndex].onload=gImages[gIndex].onerror=dcsLoadHref;
+		}
+		gImages[gIndex].src=dcsSrc;
+		gIndex++;
+	}
+	else{
+		document.write('<IMG BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="'+dcsSrc+'">');
+	}
+}
+
+function dcsMeta(){
+	var elems;
+	if (document.all){
+		elems=document.all.tags("meta");
+	}
+	else if (document.documentElement){
+		elems=document.getElementsByTagName("meta");
+	}
+	if (typeof(elems)!="undefined"){
+		for (var i=1;i<=elems.length;i++){
+			var meta=elems.item(i-1);
+			if (meta.name){
+				if (meta.name.indexOf('WT.')==0){
+					WT[meta.name.substring(3)]=meta.content;
+				}
+				else if (meta.name.indexOf('DCSext.')==0){
+					DCSext[meta.name.substring(7)]=meta.content;
+				}
+				else if (meta.name.indexOf('DCS.')==0){
+					DCS[meta.name.substring(4)]=meta.content;
+				}
+			}
+		}
+	}
+}
+
+function dcsTag(){
+	var P="http"+(window.location.protocol.indexOf('https:')==0?'s':'')+"://"+gDomain+(gDcsId==""?'':'/'+gDcsId)+"/dcs.gif?";
+	for (N in DCS){
+		if (DCS[N]) {
+			P+=A(N,DCS[N]);
+		}
+	}
+	for (N in WT){
+		if (WT[N]) {
+			P+=A("WT."+N,WT[N]);
+		}
+	}
+	for (N in DCSext){
+		if (DCSext[N]) {
+			P+=A(N,DCSext[N]);
+		}
+	}
+	if (P.length>2048&&navigator.userAgent.indexOf('MSIE')>=0){
+		P=P.substring(0,2040)+"&WT.tu=1";
+	}
+	dcsCreateImage(P);
+}
+
+function dcsFunc(func){
+	if (typeof(window[func])=="function"){
+		window[func]();
+	}
+}
+
+dcsVar();
+dcsMeta();
+dcsFunc("dcsAdv");
+dcsTag();
+//-->
+</script>
+
+
+	<noscript>
+	<IMG ALT="" BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="http://trdpdc.solidworks.com/dcsc6mshiisd8olrz5jz4zel9_8p5x/njs.gif?dcsuri=/nojavascript&amp;WT.js=No">
+	</noscript>
+
+<!-- END OF SmartSource Data Collector  TAG -->
 
 
 
