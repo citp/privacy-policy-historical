@@ -1,25 +1,13 @@
-> *The following text is extracted and transformed from the pmq.com privacy policy that was archived on 2006-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061010223622id_/http%3A//www.pmq.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pmq.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215063846id_/http%3A//www.pmq.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy Statement
-
-**
-
-Privacy Policy Statement
-
-**
-
-This is the web site of **Pizza Marketing Quarterly**
-
- ****
+# PMQ's Pizza Magazine
 
 Our postal address is   
-**605 Edison Street  
-Oxford, MS 38655**
+904 North Lamar Blvd. Suite 2  
+Oxford, MS 38655
 
- ****
-
-We can be reached via e-mail at [mail@pmq.com](mailto:mail@pmq.com)  
-or you can reach us by telephone at (662) 234-5481
+We can be reached via e-mail at [webmaster@pmq.com](mailto:mail@pmq.com)  
+or you can reach us by telephone at (662) 234-5481.
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
 
