@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livetvcenter.com privacy policy that was archived on 2006-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061219120556id_/http%3A//www.livetvcenter.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livetvcenter.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216002014id_/http%3A//www.livetvcenter.com/privacy.asp) for the most accurate reproduction.*
 
 # LIVE TV CENTER - PRIVACY POLICY
 
