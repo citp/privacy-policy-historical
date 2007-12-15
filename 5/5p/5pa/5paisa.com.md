@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 5paisa.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207011022id_/http%3A//www.5paisa.com/priv.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 5paisa.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215125331id_/http%3A//www.5paisa.com/priv.html) for the most accurate reproduction.*
 
 # 5paisa.com - Net Trading portal for NSE & BSE
 
