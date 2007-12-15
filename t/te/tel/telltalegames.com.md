@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the telltalegames.com privacy policy that was archived on 2007-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070527181319id_/http%3A//www.telltalegames.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telltalegames.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215090944id_/http%3A//www.telltalegames.com/privacypolicy) for the most accurate reproduction.*
 
 # Telltale Games - Privacy Policy
 
@@ -20,7 +20,7 @@ In the course of using our site, we automatically track certain information such
 
 If you send us personal correspondence, such as emails or letters, or if other users or third parties send us correspondence about your activities or postings on the site, we may collect such information into a file which is only accessed by authorized personnel. We may also collect other users' comments about you in our complaints department. 
 
-If you choose to use our referral service to tell a friend about our site, we will ask you for your friend�??s name and email address. We may automatically send your friend a one-time email inviting him or her to visit the site. Telltale stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. Your friend may contact us at optout@telltalegames.com to request that we remove this information from our database. 
+If you choose to use our referral service to tell a friend about our site, we will ask you for your friend's name and email address. We may automatically send your friend a one-time email inviting him or her to visit the site. Telltale stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. Your friend may contact us at optout@telltalegames.com to request that we remove this information from our database. 
 
 A cookie is a piece of data stored on the user's computer tied to information about the user. We use cookies. Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies, once we have given permission for them to set cookies for advertising. 
 
@@ -32,7 +32,7 @@ We may also use personally identifiable information about you to deliver informa
 
 We send periodic informational updates to our members via email. We send e-mail advertisements to those who opted in to receive such advertisements or otherwise in compliance with the Can-Spam Statute. 
 
-Users who no longer wish to receive our updates and communications may opt-out of receiving these communications by clicking on the "unsubscribe" link in the email or email us at optout@telltalegames.com. We also offer an opt-out mechanism on our customer serivice page at www.telltalegames.com or you may contact us at Telltale, Inc., Att: Customer Service, PO Box 9737, San Rafael, CA 94912-9737, (415) 258-1648 ext. 900 to opt-out. 
+Users who no longer wish to receive our updates and communications may opt-out of receiving these communications by clicking on the "unsubscribe" link in the email or email us at optout@telltalegames.com. We also offer an opt-out mechanism on our customer serivice page at www.telltalegames.com or you may contact us at Telltale, Inc., Att: Customer Service, PO Box 9737, San Rafael, CA 94912-9737, (415) 258-1648 ext. 200 to opt-out. 
 
 If we are going to use your personally identifiable information in a manner different from that stated at the time of collection, we will post a notice prominently on our site. You will have a choice as to whether or not we use your information in this different manner. In some cases where we post the notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices. 
 
@@ -44,7 +44,7 @@ We reserve the right to disclose your personally identifiable information as req
 
 **5\. Your use of Other Users' Information**
 
-You may not use other user�??s information for commercial purposes, to spam, to harass, or to make unlawful threats. Telltale reserves the right to terminate those who misuse other user�??s information or who otherwise violate the Telltale Terms of Use. 
+You may not use other users' information for commercial purposes, to spam, to harass, or to make unlawful threats. Telltale reserves the right to terminate those who misuse other users' information or who otherwise violate the Telltale Terms of Use. 
 
 **6\. Control of Your Password**
 
@@ -74,13 +74,13 @@ Telltale has security measures in place to protect and prevent the loss, misuse,
 
 Telltale Members have the following choices to modify or delete their information from our database: 
 
-Send an email to optout@telltalegames.com; 
+• Visit <http://www.telltalegames.com/mytelltale/unsubscribe>
 
-Log in with your password and modify/delete your profile; 
+• Log in with your password and modify/delete your profile; 
 
-Send a snail mail to Telltale, PO Box 9737, San Rafael, CA 94912-9737 
+• Send a letter to Telltale, PO Box 9737, San Rafael, CA 94912-9737 
 
-Call us at (415) 258-1638 extension 900 
+• Call us at (415) 258-1638 extension 200 
 
 This privacy policy covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site. 
 
