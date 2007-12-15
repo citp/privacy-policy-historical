@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the earlmiller.com privacy policy that was archived on 2007-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070602083223id_/http%3A//earlmiller.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earlmiller.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215011050id_/http%3A//earlmiller.com/privacy.php) for the most accurate reproduction.*
 
 # 
 
@@ -13,8 +13,8 @@ If you feel that this company is not abiding by its posted privacy policy, you s
 
 Privacy Administrator  
 Earl Miller Photography, Inc.  
-31500 Grape Street, Suite 3-300  
-Lake Elsinore, CA 92532   
+9800D Topanga Canyon Blvd. #115  
+Chatsworth, CA 913112   
 [webmaster@earlmiller.com](mailto:webmaster@earlmiller.com)
 
 **Information Collection and Use **  
