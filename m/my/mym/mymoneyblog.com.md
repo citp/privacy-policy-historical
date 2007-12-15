@@ -1,19 +1,17 @@
-> *The following text is extracted and transformed from the mymoneyblog.com privacy policy that was archived on 2007-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070207115040id_/http%3A//www.mymoneyblog.com/disclaimer.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mymoneyblog.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215134118id_/http%3A//www.mymoneyblog.com/privacy-policy) for the most accurate reproduction.*
 
-# Untitled
+# Privacy Policy » My Money Blog - Personal Finance and Investing Blog
 
-|  **MyMoneyBlog.com Disclaimer:**
+I don’t sell your information or spam you. You can sign up for site updates or even updates to specific posts, but you must opt-in to that and you can cancel at any time. I do have a “web counter” that measures how many people visit my site, but it does not record any personally-identifiable information.
 
-The information provided on this site is not financial advice and I am not a financial professional. This is not a recommendation to buy, sell, or trade securities, or to invest in any specific product. I can buy, sell, or hold any positions mentioned on this website at anytime. 
-
-|  **MyMoneyBlog.com Privacy Policy:**
+**MyMoneyBlog.com Privacy Policy:**
 
 This site respects privacy of Internet Users and does not collect personally identifying information without the Internet User’s permission.
 
 **Collection of Data**  
-This site does not collect identity or contact information from Internet Users to this website. This site may however, collect non-personally identifiable information, for example, browser type, operating system, domain name, time spent on the web site, or referring link. This information may be used for system, website, and process improvements.
+This site does not collect identity or contact information from Internet Users to this website. This site may however, collect non-personally identifiable information, for example, browser type, operating system, domain name, time spent on the web site, or referring link. This is done via a “counter” by sites like Google Analytics or Statcounter.com
 
-This site does not sell or rent personally identifying information. This site does not disclose personally identifying information to anyone that is not authorized to do so. This site uses anonymous user data to create and report the browsing, purchasing and/or lead form completion activities of anonymous users.
+_This site does not sell or rent personally identifying information._ This site does not disclose personally identifying information to anyone that is not authorized to do so. This site uses anonymous user data to create and report the browsing, purchasing and/or lead form completion activities of anonymous users.
 
 This site reserves the right to release information on Internet Users if compelled to do so by proper judicial or governmental authorities. Disclosure shall be limited to only to those we are compelled to disclose to. At present, all information processing occurs in the United States.
 
@@ -22,7 +20,8 @@ This site contains links to other Internet websites and has no control or author
 
 **Use and Disclosure of Data**
 
-**Spam**  
+**Spam**
+
 This site does not intentionally send unsolicited e-mail messages that could legitimately be construed as spam.
 
 **COPPA**  
@@ -30,6 +29,3 @@ This site complies with the Children’s Online Privacy Protection Act of 1998. 
 
 **Policy Changes**  
 With or without prior notification, we may find it necessary or be legally obligated to update this Privacy Policy from time to time. All changes will be posted at this site. Except as otherwise required by law, modifications to this Privacy Policy will not affect the privacy of data collected by us prior to the effective date of the policy change. 
-
-  
-
