@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wfsb.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627150730id_/http%3A//www.wfsb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wfsb.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215051330id_/http%3A//www.wfsb.com/privacy) for the most accurate reproduction.*
 
 # WFSB.com - Privacy
 
@@ -17,7 +17,7 @@ We collect information from website visitors who must register for certain servi
 The ads appearing on this Web site are delivered to you by DoubleClick, our Web advertising partner. Information about your visits to this site, such as number of times you have viewed an ad (but not your name, address, or other personal in-formation), is used to serve ads to you. For more information about DoubleClick, cookies, and how to "opt-out", please [click here.](http://www.doubleclick.com/us/about_doubleclick/privacy/)
 
 **Third Party Cookies**  
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://networkadvertising.org/consumer/opt_out.asp). 
 
 **Linking and Framing**  
 This site contains links to other sites. This site is not responsible for the privacy practices or the content of such websites. Occasionally when linking to another site, you may still see our site's logo or frame. This is to provide you with a seamless experience when visiting our website. In these cases you are no longer on wfsb.com and are now on a different website whose information collection practices may differ from ours. The privacy policy of the site you are on will govern how information collected from you is used.
