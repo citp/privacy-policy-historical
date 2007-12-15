@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the squarebrothers.com privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613155707id_/http%3A//www.squarebrothers.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the squarebrothers.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215190354id_/http%3A//www.squarebrothers.com/privacy.asp) for the most accurate reproduction.*
 
 # Your Privacy is Assured : We wont sell your email address to anyone
 
@@ -7,7 +7,7 @@
 |  |   
 ---  
 Live Sales Chat  
-[](http://www.squarebrothers.com/) |  | [](https://web.archive.org/web/20070613155707id_/http%3A//www.squarebrothers.com/exam-results/) | [](https://web.archive.org/web/20070613155707id_/http%3A//www.squarebrothers.com/exam-results/)  
+[](http://www.squarebrothers.com/) |  | [](https://web.archive.org/web/20071215190354id_/http%3A//www.squarebrothers.com/exam-results/) | [](https://web.archive.org/web/20071215190354id_/http%3A//www.squarebrothers.com/exam-results/)  
 ---|---  
 | 
 
