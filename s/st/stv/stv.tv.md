@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stv.tv privacy policy that was archived on 2007-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070422101252id_/http%3A//www.stv.tv/system/modules/com.smg.copland/elements/news/popups/privacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stv.tv privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215080907id_/http%3A//www.stv.tv/content/popups/news/privacyPolicy.jsp) for the most accurate reproduction.*
 
 # STV-Privacy policy
 
@@ -31,6 +31,8 @@ We may use information that you provide to better design the Website and to impr
 We may pass your personal information to one of our Group Companies who may send you details of services that may be of interest to you and offer you the opportunity to subscribe to them. If you would prefer not to receive this information, please send an email to [ecommerce@stv.tv](mailto:ecommerce@stv.tv). Your personal information will not be supplied to any other persons without first obtaining your consent unless we are obliged by law to disclose it.
 
 By using the Website, you consent to the collection and use of this information by us and the Group Companies in the manner described above.
+
+Only where request by you we may pass your personal information to one third parties who may send you details if goods and services that may be of interest to you. If you would prefer not to receive this information, please send an email to [ecommerce@stv.tv](mailto:ecommerce@stv.tv). 
 
 **Third Party Websites**
 
