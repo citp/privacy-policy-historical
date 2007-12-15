@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the serviceontario.ca privacy policy that was archived on 2007-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070209045912id_/http%3A//www.serviceontario.ca/ont/navigation/NavigationController.jsp%3FPageName%3DGeneral%26docid%3D004228%26lang%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the serviceontario.ca privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215120532id_/http%3A//www.serviceontario.ca/ont/navigation/NavigationController.jsp%3FPageName%3DGeneral%26docid%3D004228%26lang%3Den) for the most accurate reproduction.*
 
 # Privacy Statement - (Government of Ontario, Canada)
 
