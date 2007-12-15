@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ifp3.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624184525id_/http%3A//www.ifp3.com/company/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ifp3.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215143344id_/http%3A//ifp3.com/company/privacy.cfm) for the most accurate reproduction.*
 
 # ifp3 - Photography Web Sites - Privacy Policy
 
