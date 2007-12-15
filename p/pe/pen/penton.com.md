@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the penton.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626163752id_/http%3A//penton.com/Pages/PrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the penton.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215180756id_/http%3A//www.penton.com/Pages/PrivacyStatement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -34,9 +34,10 @@ Like many websites, Penton Media, Inc. may use pixel tags, also known as web bea
 If you wish, you may disable pixel tags by setting your browser to omit images and disable Javascript. 
 
 **Online Ad Serving**  
-Penton Media, Inc. uses industry-standard, third party advertising service companies to serve advertisements when you visit our sites or open our emails. These companies may use cookies and pixel tags to collect non-personally identifiable information about your visits to our and other web sites to provide you with relevant advertisements about products, services, and events during your visit to our website. They can also provide us with aggregate pictures of traffic patterns, help us improve site experience, help advertisers better understand our services, and monitor advertising efforts.
+We use industry-standard, third party advertising service companies to serve advertisements when you visit our sites or open our emails. These companies may use cookies, pixel tags, and other methods to collect information (typically not including your name, address, email address or telephone number)about your visits to our and other web sites to provide you with relevant advertisements about products, services, and events during your visit to our website. They can also provide us with aggregate pictures of traffic patterns, help us improve site experience, help advertisers better understand our services, and monitor advertising  
+efforts.
 
-For information about the how to opt out of third-party advertisers' tracking methods in conjunction with links, online ads, etc., please visit the advertisers' sites.
+If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://networkadvertising.org/consumer/opt_out.asp) to visit the Network Advertising Initiative's website, of which one of our partners, TACODA, is a member. You can also learn how to opt out of third-party advertisers' tracking methods in conjunction with links, online ads, etc. by visiting the advertisers' sites.
 
  **How We Use Your Contact Information**  
 We may use your contact information for any of the following reasons:
@@ -90,4 +91,4 @@ If you wish to opt out of receiving email, faxes, or phone calls from any Penton
 
 If you wish to contact Penton Media, Inc.'s Corporate Privacy Manager, please send your specific questions to: [privacy@penton.com](mailto:privacy@penton.com) .
 
- **March 15, 2007**
+ **December 11, 2007**
