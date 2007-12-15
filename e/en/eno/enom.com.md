@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the enom.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625084633id_/http%3A//enom.com/terms/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enom.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215011453id_/http%3A//www.enom.com/terms/privacy.asp) for the most accurate reproduction.*
 
 # eNom - domain name, web site hosting, email, registration - PRIVACY POLICY
 
