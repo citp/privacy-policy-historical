@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotterxxx.com privacy policy that was archived on 2007-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070417105748id_/http%3A//www.hotterxxx.com/%3Fpage%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotterxxx.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215233348id_/http%3A//hotterxxx.com/%3Fpage%3Dprivacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,8 +12,8 @@ This Privacy Policy covers our treatment of all personally identifiable informat
 
 **Information Collection and Use**
 
-  * We collect personally identifiable information when you subscribe for our site. We may also receive personally identifiable information from our business partners. 
-  * When you subscribe, we ask for your email address and you are automatically added to a list of email recipients who receive information about related specials, updates, promotions, new products and services. 
+  * We collect personally identifiable information when you subscribe for our site and when you communicate with us about your subscription. We may also receive personally identifiable information from our business partners. 
+  * When you subscribe or communicate with us, we ask for your email address and you are automatically added to a list of email recipients who receive information about related specials, updates, promotions, new products and services. 
   * We also automatically receive and record information on our server logs from your browser including your IP address, "cookie" information and the web page(s) you requested. 
   * We use information for three general purposes: (i) to customize the advertising and content you see, (ii) to fulfill your requests for services, and (iii) to contact you regularly about related specials, updates, promotions, new products and services. 
 
