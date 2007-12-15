@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the verio.com privacy policy that was archived on 2007-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070611211337id_/http%3A//verio.com/about/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verio.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215040033id_/http%3A//www.verio.com/about/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -22,7 +22,7 @@ In the case of a business transaction, including but not limited to, a merger or
 
 **Opt Out & Modifications**
 
-Customers may opt out of receiving notices of new or upgraded products from Verio and Verio partners by filling out this on-line [No Solicitation Request](https://web.archive.org/web/20070611211337id_/http://www.verio.com/about/legal/privacy/optout.cfm) form. However, customers may not opt out of receiving information from Verio which is essential for maintaining or updating customers' accounts or system information.
+Customers may opt out of receiving notices of new or upgraded products from Verio and Verio partners by filling out this on-line [No Solicitation Request](https://web.archive.org/web/20071215040033id_/http://www.verio.com/about/legal/privacy/optout.cfm) form. However, customers may not opt out of receiving information from Verio which is essential for maintaining or updating customers' accounts or system information.
 
 Also, DoubleClick provides an opportunity to opt out of DoubleClick's targeting program at [www.privacychoices.org/optout.htm](http://www.privacychoices.org/optout.htm).
 
