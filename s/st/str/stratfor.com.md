@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stratfor.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626115308id_/http%3A//www.stratfor.com/about-stratfor/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stratfor.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215204308id_/http%3A//stratfor.com/about-stratfor/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Strategic Forecasting
 
