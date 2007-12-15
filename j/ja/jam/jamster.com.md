@@ -1,61 +1,87 @@
-> *The following text is extracted and transformed from the jamster.com privacy policy that was archived on 2007-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070427015316id_/http%3A//www.jamster.com/jcw/all/disclaimer.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamster.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215103653id_/http%3A//www.jamster.com/jcw/all/disclaimer.do) for the most accurate reproduction.*
 
-# Jamster - Cellphone Ringtones, Real Tones, Mobile Games and more
+# Jamster - Ringtones, Real Tones, Cellphone Ringtones
 
-Thank you for visiting our site at www.jamster.com ("Web Site"). Your privacy is important to us and we provide this notice explaining our online information practices and the choices you can make about the collection and use of the personal information you submit at this site. This policy applies only to Jamster's treatment of personally identifiable information collected through our Web Site.
+Effective Date: June 29, 2007
 
-If you are visiting our site from outside the United States, please be advised that because we operate internationally, and certain of our computer systems are currently based in the United States, your personal data will be processed by us in the U.S. where data protection and privacy regulations may not offer the same level of protection as in other parts of the world, such as the European Union. By using the Web Site, you consent to any such transfer of information outside of your country, and you also consent to Jamster using your personal information to contact you electronically, in writing, or otherwise to provide notices relating to your use of the Web Site and to give you information about the products and services offered by Jamster and its affiliates. Jamster may store your information beyond this date if that is required by law or contract.
+Jamster ("Jamster") is a joint venture between News Corporation and VeriSign, Inc. and is operated as part of the News America Group, which has adopted a set of [Privacy Policy](http://www.newscorp.com/privacy.html) applicable to all its U.S.-based companies. Jamster has implemented those Principles in this Privacy Policy, which describes how we collect, use and share personally identifiable information ("PII") we obtain from and about individuals located in the U.S. both online and off-line. This Privacy Policy describes the privacy practices of Jamster.
 
-## Information Collection & Use of Collected Information
+Jamster.com, the website operated by Jamster, is a general audience website and Jamster does not knowingly collect PII from children under 13 years of age. 
 
-## Web Site Visitors
+From time to time Jamster may revise this Privacy Policy to reflect industry initiatives or changes in the law, our information collection and use practices, the features of our websites, or technology. If we make revisions that change the way we collect or use your PII, those changes will be posted in this Privacy Policy and the effective date will be noted at the beginning of the Policy. Therefore, you should review it periodically so that you are up to date on our most current policies and practices. If Jamster materially changes its practices regarding collection or use of your PII, your PII will continue to be governed by the Policy under which it was collected unless you have been provided notice of and have not objected to the change. This Privacy Policy is incorporated into and subject to Jamster's website [Terms and Conditions](https://web.archive.org/jcw/all/terms.do).
 
-We may collect certain non-personally identifiable information when you visit many of our Web pages, such as the type of browser you are using (e.g., Netscape, Internet Explorer), the type of operating system you are using, (e.g., Windows 2000 or Mac OS), and the domain name of your Internet service provider (e.g., America Online, Earthlink).
+**COLLECTION** : COLLECTION OF PII BY JAMSTER
 
-## Web Site Customers
+General. Jamster collects PII in order to create or enhance our relationship with you. The types of PII that may be collected include your full name, email address, billing information or mobile telephone number) and such other information as may be requested from time to time.
 
-In order to purchase products or services from Jamster, we require that you provide us with certain personally identifiable information (please see Section 3 of our Terms of Service for additional details). The types of personally identifiable information that may be collected at this site include: name, address, e-mail address, cell phone number and MSISDN (mobile station integrated services digital network number), credit card and billing information, download history, customer generated content and/or information about your interests in and use of various products, programs, and services.
+When we collect PII from you it is because you are voluntarily submitting the information to us when you (1) register on our website(s) to obtain downloadable mobile entertainment content, such as ringtones, games, graphics news and other information data (“Downloads”)and (2) sign up from Jamster Downloads without registering on Jamster.com, such as for one-time Individual Downloads or Subscriptions via SMS using your mobile phone, or (3) participate in activities like sweepstakes, contests, games, surveys, forums, in connection with content or suggestions you submit to us, or chats or bulletin boards. We may also obtain PII from reputable third parties and sources including public databases. 
 
-We may use such personally identifiable information to provide the information or content you have requested (e.g., fulfill your orders for our ringtones, games, data and news), to contact you about programs, products, features or services in which we believe you may be interested (such as future promotional materials), or for other purposes disclosed from time to time. We also may use your personally identifiable information to contact you regarding your use of our Web Site or changes to our privacy notice, Terms of Service, or other policies or terms that affect you and your use of our Web Site. In addition, we may use information collected about our users to improve the content and navigation of our Web Site, or for other internal purposes.
+Cookies. Cookies are small bits of information that the Jamster website(s) places on the hard drive of your computer. Cookies remember information about your activities on the Jamster website(s) and enable Jamster to make your visits to the Jamster website(s) more enjoyable. For example, cookies can store your password for easy logon to a site you have previously visited, or can save your preferences and subscription options for a personalized home page. Jamster uses cookies to identify your Internet browser, to determine whether you have installed the enabling software needed to access certain material on our website(s), to determine the total number of visitors to our website(s), and to recognize you when you return to the Jamster site. Information about your activities on the Jamster website and other non-personally identifiable information about you may also be used to limit the online ads you encounter to those we believe are consistent with your interests.
 
-We may, from time to time, supplement the information we collect from you with outside records (e.g., information we obtain from other companies, including wireless providers) to enhance our ability to serve you, to tailor our content to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+Third party advertisements displayed on Jamster site(s) may also contain cookies set by Internet advertising companies or advertisers. Jamster does not control these cookies and visitors to our website(s) should check the privacy policy of the advertiser to see whether and how it uses cookies. See the "Notice" section below for more information on third party advertisements. 
 
-To fulfill your requests for products and services (e.g., provide you with content via your cell phone), we may share the personally identifiable information you provide with your cell phone service provider or their partner and subcontractor companies. Our privacy policy does not cover such entities use of information. To learn more about your provider’s privacy practices, you should consult its privacy policy. From time to time, we may share personally identifiable information with unrelated third parties to enable them to provide you with opportunities to learn of products or services in which you may be interested.
+Jamster may use cookies and similar tools to relate your use of our website(s) to PII obtained from you or a reputable third party. For example, if you've asked us to send you information about our upcoming products or promotions, cookie and/or click stream data about your activities on Jamster website(s) may allow us to limit the materials we provide you to items we think you will find interesting, based on your prior online activities and preferences. However, if Jamster wishes to combine your personal and cookie or click stream information in this manner, we will obtain your express affirmative consent. 
 
-We may also disclose anonymous, aggregated user statistics to third parties for a variety of purposes. For example, we may disclose how many individuals visited certain areas of our Web Site or purchased a particular type of product.
+You can program your computer to warn you each time a cookie is being sent or to refuse cookies completely. However, without cookies you may not have access to certain features on Jamster's website(s) such as your subscription option page. 
 
-In addition, we may disclose personally identifiable information collected about you at this site in the following instances:
+Additionally, Jamster's services (or third-party servers) may collect certain information about Jamster website visitors automatically for site maintenance, optimization, security, and other legal permissible purposes. Such information may include such visitors’ IP address, browser type, date, time, and duration of visit, and particular pages viewed. 
 
-Legal Action: We may disclose information about our users, including personally identifiable information, when requested by governmental or quasi-governmental authorities conducting an investigation, hearing or the like, to verify or enforce compliance with the policies governing our Web Site and applicable laws, or to protect against misuse or unauthorized use of our Web Site. We also may disclose user information whenever we believe disclosure is necessary to limit our legal liability; to protect or defend our rights or property; or protect the safety, rights, or property of our users.
+**NOTICE** : JAMSTER WILL PROVIDE YOU WITH NOTICE ABOUT ITS PII COLLECTION PRACTICES
 
-Corporate Change: We may sell, transfer, or otherwise disclose user information, including personally identifiable information, to a successor entity in connection with a corporate merger, consolidation, the sale of substantially all assets, or other corporate change respecting the Web Site.
+When you voluntarily provide PII to Jamster, we will make sure you are informed about who is collecting the information, how and why the information is being collected and the types of uses Jamster will make of the information. 
 
-## Your Choices
+At the time you provide your PII , Jamster will notify you of your options regarding our use of your PII, including whether we will share it with outside companies (See "Choice" below). 
 
-As noted above, we may use the personally identifiable information we collect from you online to provide you with opportunities to offer you products and services that may be of interest to you. If you would like to opt out of future promotional materials from us, you may indicate this preference by following the unsubscribe instructions at the end of such e-mail communications.
+This Policy describes the types of other companies that may want to send you information about their products and services and therefore want to share your PII, provided you have given Jamster permission to do so (See "Use" below). 
 
-## Collection of Information by Third-Party Sites and Sponsors
+Sometimes we collect PII from consumers in manual format or off-line, such as a post card or subscription form. Providing detailed notice in those situations often proves impractical, so consumers will instead be provided with a short notice that describes how to obtain the full text of this Policy and other relevant information from us.
 
-Some of our Web pages contain links to other sites whose information practices may be different than ours. Visitors and Customers should consult the other sites’ privacy notices as we have no control over information that is submitted to, or collected by, these third parties.
+Jamster's website(s) may be linked to Internet sites operated by other companies. Some of these third party sites may be co-branded with a Jamster logo, even though they are not operated or maintained by Jamster. 
 
-## Cookies
+Jamster's website(s) may also carry advertisements from other companies. Jamster is not responsible for the practices of websites operated by third parties that are linked to our site(s) or for the privacy practices of third party or national Internet advertising companies. Once you have left the Jamster site via such a link or by clicking on an advertisement, you should check the applicable privacy policy of the third party or advertiser site to determine how they will handle any PII they collect from you.
 
-To enhance your experience with our site, we may use “cookies” on our Web Site. Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and to provide features. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, registering at our Web Site. However, once you become a Customer and furnish the site with personally identifiable information, this information may be linked to the data stored in the cookie.
+Jamster's website(s) may also be linked to sites operated by companies affiliated with Jamster (e.g., companies that are part of the News America Group). Although News America Group entities adhere to the Group's [Privacy Principles](http://www.newscorp.com/privacy.html) visitors to those affiliated sites should still refer to their separate privacy policies and practices, which may differ in some respects from this Policy.
 
-We use cookies to understand site usage and to improve the content and offerings on our site. For example, we may use cookies to personalize your experience at our Web pages (e.g., to recognize you when you return to our site). You may adjust your browser to reject cookies from us or from any other Web Site. Please consult the “Help” section of your browser for more information. However, certain areas of our site can be accessed only in conjunction with cookies or similar devices and you should be aware that disabling cookies or similar devices might prevent you from accessing some of our content.
+**CHOICE** : JAMSTER WILL PROVIDE YOU WITH CHOICES ABOUT THE USE OF YOUR PII
 
-## Data Security
+Jamster will not use the PII you provide to us for purposes different from the purpose for which it was submitted, or share your PII with third parties that are not affiliated with Jamster (i.e., not part of the News America Group), unless we obtain your permission. 
 
-We have put in place certain physical, electronic, and managerial procedures to help prevent unauthorized access and maintain data security. Due to the open nature of Internet communications, we cannot guarantee that communications between you and Jamster will be free from unauthorized access by third parties. Visitors of the Website and Customers use the site at their own risk.
+**USE** : JAMSTER'S USE OF PII
 
-## Changes to Privacy Policy
+Jamster will use the PII you provide in a manner that is consistent with this Policy. If Jamster obtains PII from a third party, such as a business partner, our use of that information is governed by this Policy. 
 
-We may, from time to time, update this privacy notice and such changes shall be effectively immediately and without further notice to you.
+For example, Jamster may use your PII and Registration Data to send you important information and notices regarding your account and Jamster services. In addition, when Jamster collects PII from you itself in connection with your Download request, we will process your subscription or service request, including order fulfillment and payment processing if appropriate. In those instances, Jamster will not share your credit card information with third parties except those Jamster uses to perform tasks (such as order fulfillment and payment processing) required to complete purchases you make and subscriptions you place through Jamster.com.
 
-## Questions/Concerns?
+Or, an affiliate of Jamster may provide you with Downloads by collecting PII on Jamster’s behalf when you register on Jamster.com or sign up for individual Downloads using your mobile phone. Jamster’s affiliate provides Jamster with the PII it needs to provide you with the Downloads and other services you requested. Jamster’s affiliate also provides your mobile communications provider with the information it needs to bill you for the Downloads and other services you purchased. 
 
-If you have any questions, comments, or concerns regarding our privacy policy, please contact us at: info@jamster.com
+Jamster may also use PII in aggregate, anonymous form for research purposes.
 
-## Effective Date
+Jamster may share your PII with companies that are affiliated with us that are part of the News America Group ). Provided you have given us permission, Jamster may share your PII with advertisers and business partners that are not affiliated with Jamster, but would like to send you information about their products and services. However, you will always have the opportunity to instruct us not to share your information with unaffiliated third parties when PII is collected. 
 
-This notice was updated on or about September 2005. 
+Jamster employees, agents and contractors must have a legitimate business reason to obtain access to your PII. Jamster may share your PII with outside contractors or agents who help us manage our information activities (i.e., sweepstakes administration, order fulfillment, statistical analyses), but they may only use your PII to provide Jamster with a specific service and not for any other purpose.
+
+Jamster may also enter into agreements with outside companies that possess the technology that allows Jamster to customize the advertising and marketing messages you receive on Jamster's website(s) . Your non-PII and click stream data about your activities on Jamster's website(s).may be shared with these companies so this customization can be accomplished. These companies will not share your information with any third party or use it for any other purpose. Anonymous click stream and demographic information may also be shared with Jamster’s advertisers and business partners.
+
+There may be instances when Jamster may disclose PII without providing you with a choice in order to protect the legal rights of Jamster, other companies within the News America Group or their employees, agents and contractors; to protect the safety and security of visitors to our website(s); to protect against fraud or for risk management purposes; or to comply with the law or legal process. In addition, if Jamster sells all or part of its business or makes a sale or transfer of assets or is otherwise involved in a merger or business transfer, Jamster may transfer your PII to a third party as part of that transaction.
+
+**SECURITY** : JAMSTER PROTECTS THE SECURITY OF PII
+
+Jamster uses reasonable administrative, technical, personnel and physical measures to safeguard PII in its possession against loss, theft and unauthorized use, disclosure or modification. In addition, Jamster uses reasonable methods to make sure that PII is accurate, up-to-date and appropriately complete. 
+
+**ACCESS, REMEDIES AND CONTACT** : HOW TO ACCESS, CORRECT OR DELETE YOUR PII 
+
+Whenever possible, visitors to Jamster may review the PII they have provided to us in our records. We will take reasonable steps to correct any PII a visitor informs us is incorrect. 
+
+If you ask Jamster to stop using your PII, Jamster will honor that request while retaining any record of your PII that is necessary to comply with applicable federal, state or local law.
+
+REMEDIES AND COMPLIANCE: HOW TO CONTACT JAMSTER ABOUT PRIVACY CONCERNS.
+
+If you would like to communicate with Jamster about this Privacy Policy or Jamster's collection and use of your PII, or to review, correct or delete your PII, or to stop all future communication from us, please contact us by email at: [info@Jamster.com](mailto:info@Jamster.com) or contact customer service at 866-856-JAMS and a member of our customer service staff will be happy to assist you. We can also be contacted by mail at the following address:
+
+Jamster, LLC
+
+345 North Maple Drive
+
+Beverly Hills, CA 90210
+
+Attention: Website Administrator
