@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the dialectpayments.com privacy policy that was archived on 2007-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070217194831id_/http%3A//www.dialectpayments.com/www/149/1001127/displayarticle/1001697.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dialectpayments.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215082922id_/http%3A//www.dialectpayments.com/www/149/1001127/displayarticle/1001697.html) for the most accurate reproduction.*
 
 # Dialect Payments - Privacy Policy
 
 Privacy Policy
 
-Dialect Payment Technologies Pty Ltd (Australian Company Number 052 950 375) ( ** _Dialect_** ) recognises its obligations - including those under the Australian Federal Privacy Act 1988 and its "National Privacy Principles" ( ** _NPP_** ) \- to keep personal information private. For futher information about the NPPs see [www.privacy.gov.au](http://www.dialectpayments.com/scripts/redir.asp?link=http%3A//www.privacy.gov.au).
+Dialect Payment Technologies Pty Ltd (Australian Company Number 052 950 375) ( ** _Dialect_** ) recognises its obligations - including those under the Australian Federal Privacy Act 1988 and its "National Privacy Principles" ( ** _NPP_** ) \- to keep personal information private. For further information about the NPPs see [www.privacy.gov.au](http://www.dialectpayments.com/scripts/redir.asp?link=http%3A//www.privacy.gov.au).
 
 This privacy policy provides information about Dialect's policies relating to personal information including information on how we collect, use and disclose information via our public website.
 
@@ -59,17 +59,16 @@ How do we store your personal information?
 Your information is held either in paper-based records or in electronic form in our databases or IT systems. Dialect takes reasonable steps to ensure the security of personal information is held from such risks as loss or unauthorised access, destruction, use modification or disclosure of data.
 
 To whom will we disclose your information?  
-In the course of performing its obligations, Dialect may disclose personal information to other companies in the Dialect Solutions Group of companies or contractors providing goods or services to or on behalf of Dialect or other companies in the Dialect Solutions Group of companies.
+In the course of performing its obligations, Dialect may disclose personal information to contractors providing goods or services to or on behalf of Dialect.
 
 Contacting Dialect about Privacy and your personal information  
 Dialect will take all reasonable steps to ensure that the information we hold is accurate.
 
 To access your personal information, or if you wish to find out any further information about Dialect's Privacy Policy, please contact our Privacy Officer:
 
-By email: [privacyofficer@dialectpayments.com  
-](mailto:privacyofficer@dialectpayments.com)By fax: +61 7 3210 2566  
-By telephone: +61 7 3210 2522  
-By mail: PO Box 10719, Adelaide Street, Brisbane QLD 4000.
+Email: [privacyofficer@dialectpayments.com  
+](mailto:privacyofficer@dialectpayments.com)Fax: +61 7 3210 2566  
+Telephone: +61 7 3210 2522 Mail: PO Box 10719, Adelaide Street, Brisbane QLD 4000.
 
 Changes to this Privacy Policy  
 Dialect may from time to time, amend this Privacy Policy by posting the amended versions at our website at [www.dialectpayments.com](http://www.dialectpayments.com/). We suggest that you visit regularly to keep up to date with any changes.
