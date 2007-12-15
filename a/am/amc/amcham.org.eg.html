@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the amcham.org.eg privacy policy that was archived on 2006-12-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061213061622id_/http%3A//www.amcham.org.eg/Privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the amcham.org.eg privacy policy that was archived on 2007-12-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071215024107id_/http%3A//www.amcham.org.eg/Privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <title>AmCham Egypt - Site Privacy Statement</title>
@@ -21,11 +21,12 @@ span.bodytext
     <td valign="top" colspan="3" height="20">
 <a name="up"></a>    
 
+
 <table width="780" border="0" cellspacing="0" cellpadding="0" height="72">
   <tbody><tr> 
     
   <td width="208" rowspan="3" valign="top"><a href="http://www.amcham.org.eg/Default.asp">
-  <img src="/images/logo_sh.gif" width="216" height="81" border="0"></a></td>
+  <img src="/images/logo_sh.gif" width="216" name="tas" height="81" border="0"></a></td>
     
   <td width="468" height="6" valign="top">
   <img src="/images/top_center_top_sh.gif" width="468" height="9"></td>
@@ -37,11 +38,15 @@ span.bodytext
 
 <script language="JavaScript"> 
 function GetBannerAd(){ 
-randNum=0.08675965336881086;
-randNum = Math.random(); 
-document.theImageSource.src='http://www.amcham.org.eg/webads/banman.asp?ZoneID=52&Task=Get&Mode=HTML&PageID=84633&RandomNumber='+randNum; 
-document.links[1].href='http://www.amcham.org.eg/webads/banman.asp?ZoneID=52&Task=Click&Mode=HTML&PageID=84633&RandomNumber='+randNum; 
-if (x<=50)
+var browDateTime = (new Date()).getTime();
+
+
+var oldframe = document.getElementById("adsframe");
+var newframe = oldframe.cloneNode(true)
+newframe.src = 'http://www.amcham.org.eg/webads/banman.asp?ZoneID=52&Task=Get&X='+browDateTime;
+oldframe.parentNode.replaceChild( newframe ,oldframe )
+
+if ((x<=5)&&(5!=1))
 {x++;
 setTimeout("GetBannerAd()",12000); 
 }
@@ -49,7 +54,8 @@ setTimeout("GetBannerAd()",12000);
 return true; 
 } 
     </script>
-<td valign="top"><a href="http://www.amcham.org.eg/webads/banman.asp?ZoneID=52&amp;Task=Click&amp;Mode=HTML&amp;PageID=84633&amp;RandomNumber=0.6343869119671866" name="theTargetURL" target="_blank"><img width="468" height="60" border="0" src="http://www.amcham.org.eg/webads/banman.asp?ZoneID=52&amp;Task=Get&amp;Mode=HTML&amp;PageID=84633&amp;RandomNumber=0.6343869119671866" name="theImageSource"></a></td>
+<td valign="top"><iframe id="adsframe" name="adsframe" src="http://www.amcham.org.eg/webads/banman.asp?ZoneID=52&amp;Task=Get&amp;X=1580349032690" width="468" height="60" marginwidth="0" marginheight="0" frameborder="0" scrolling="No"></iframe>
+</td>
 </tr>
   <tr>
     <td width="468" height="6" bgcolor="#145391" valign="top">
@@ -58,15 +64,10 @@ return true;
 </tbody></table>
 <script language="JavaScript"> 
 var x=1;
-x++;
+x++
 GetBannerAd(); 
     </script>
 	
-	
-
- 
-
-
 
 <table width="780" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>    <td background="/images/left_tback.gif" width="143" class="navbartitle" height="20">Search</td>
@@ -75,7 +76,7 @@ GetBannerAd();
           
     <td width="398" height="20" valign="middle" bgcolor="#ADC2D6">
 	
-<div align="center"> <a class="barlinks" href="/Operation/General/About%20us.asp">About us</a> | <a class="barlinks" href="http://www.amcham-egypt.org">US Site</a> <a class="barlinks" href="/BIC/FreeServices/FreeServices.asp"> </a> | <a class="barlinks" href="/BIC/AmChamLinks/Default.asp">Links</a> | <span class="bluebold"><a href="/BIC/Ads/Ads.asp" class="barlinks1" id="flashlink" flashcolor="#7b0000" flashtype="0">Advertise</a></span> | <span class="bluebold"><a class="barlinks" href="/BIC/GuestBook/GuestBook.asp">Guest Book</a></span> | <a class="barlinks" href="/BIC/FreeServices/FreeServices.asp">Free Services</a></div>
+<div align="center"> <a class="barlinks" href="http://www.amcham.org.eg/Operation/General/About%20us.asp">About us</a> | <a class="barlinks" href="http://www.amcham-egypt.org">US Site</a> <a class="barlinks" href="/BIC/FreeServices/FreeServices.asp"> </a> | <a class="barlinks" href="/BIC/AmChamLinks/Default.asp">Links</a> | <span class="bluebold"><a href="/BIC/Ads/Ads.asp" class="barlinks1" id="flashlink" flashcolor="#7b0000" flashtype="0">Advertise</a></span> | <span class="bluebold"><a class="barlinks" href="/BIC/GuestBook/GuestBook.asp">Guest Book</a></span> | <a class="barlinks" href="/BIC/FreeServices/FreeServices.asp">Free Services</a></div>
 </td>
           
     <td width="28" valign="top" bgcolor="#ADC2D6" align="right" height="20"><img src="/images/bar_r.gif" width="28" height="20"></td>
@@ -96,7 +97,7 @@ GetBannerAd();
 
 
 function window_open(MyLink) {
-void(window.open(MyLink,'NewWindow','toolbar=yes,location=yes,directories=yes,status=yes,menubar=yes,scrollbars=yes,resizable=yes,copyhistory=no,width=700,height=650, top=40,left=200'))
+void(window.open(MyLink,'NewWindow','toolbar=yes,location=yes,directories=yes,status=yes,menubar=yes,scrollbars=yes,resizable=yes,copyhistory=no,width=800,height=650, top=40,left=200'))
 }
 
 function myprint_onclick() {
@@ -112,20 +113,20 @@ document.formprintme.submit();
      <td valign="top" width="144" background="/images/left_back.gif">
 <link rel="stylesheet" href="/includes/xpMenu.css" type="text/css">
 
-<form name="search" action="http://search.amcham.org.eg/siteserver/knowledge/search/search1.asp">
-
-</form>
+<form action="http://search.amcham.org.eg/siteserver/knowledge/search/search1.asp" name="search" id="search">
 
 <table width="144" border="0" cellspacing="0" cellpadding="0" height="100%">
   <tbody><tr align="left" valign="top"> 
       <td colspan="2" class="navbartitle" height="31">&nbsp; 
-        <div style="POSITION: absolute">&nbsp;<input style="WIDTH: 120px" name="q1" size="20"><input style="LEFT: 100px; POSITION: absolute; TOP: -2px" type="image" alt="Begin your search" hspace="0" src="/images/loop.gif" border="0" width="38" height="42">
+        <div style="POSITION: absolute">&nbsp;
+          <input style="WIDTH: 120px" name="q1" size="20">
+          <input style="LEFT: 100px; POSITION: absolute; TOP: -2px" type="image" alt="Begin your search" hspace="0" src="/images/loop.gif" border="0" width="38" height="42">
         </div>
      <br>
 <br>
 
     </td>
-        </tr>
+    </tr>
         <tr valign="top"> 
       <td colspan="2" class="navbartitle"> 
 
@@ -136,11 +137,11 @@ document.formprintme.submit();
 <div class="topItem">Events/Activities</div>
 <div class="dropMenu">
   <div class="subMenu" style="display:none;">
-  &nbsp;<span class="subItem"><a class="navbarsub" href="/Operation/Events/LatestEvents.asp">Events</a></span><br>
+  &nbsp;<span class="subItem"><a class="navbarsub" href="http://www.amcham.org.eg/Operation/Events/LatestEvents.asp">Events</a></span><br>
 	
-	&nbsp;<span class="subItem"><a class="navbarsub" href="/operation/events/Conferences06/DrivingGrowthConference/fr.asp">Conferences</a></span><br>
+	&nbsp;<span class="subItem"><a class="navbarsub" href="/operation/events/Conferences06/MENA%20Conf/fr.asp">Conferences</a></span><br>
 		
-    &nbsp;<span class="subItem"><a class="navbarsub" href="/Operation/Committees/Committees0506/Committees0506.asp">Committees</a></span><br>
+    &nbsp;<span class="subItem"><a class="navbarsub" href="/Operation/Committees/Committees0708/Committees0708.asp">Committees</a></span><br>
 		
     &nbsp;<span class="subItem"><a class="navbarsub" href="/Operation/Doorknock/Doorknock.asp">DoorKnocks</a></span><br>
 		
@@ -162,7 +163,7 @@ document.formprintme.submit();
 		
     &nbsp;<span class="subItem"><a class="navbarsub" href="/cyberlink/">Cyberlink <font size="1">(Members Only)</font></a></span><br>
 		
-	&nbsp;<span class="subItem"><a class="navbarsub" href="/Membership/MemberNews/searchnews.asp">Member News</a></span><br>
+	&nbsp;<span class="subItem"><a class="navbarsub" href="/Membership/MemberNews/newshome.asp">Member News</a></span><br>
 		
 	&nbsp;<span class="subItem"><a class="navbarsub" href="/membership/categories/applicationform.asp">Application Forms</a></span><br>		
   </div>
@@ -181,7 +182,7 @@ document.formprintme.submit();
 		
     &nbsp;<span class="subItem"><a class="navbarsub" href="/hr/recruitment/recruitment.asp">Recruitment Center</a></span><br>
 		
-	&nbsp;<span class="subItem"><a class="navbarsub" href="/BIC/olt/main.asp">Online Training</a></span><br>
+	
   	 
 	 &nbsp;<span class="subItem"><a class="navbarsub" href="/ofs">Online Faxing</a></span><br>
 	 
@@ -200,7 +201,7 @@ document.formprintme.submit();
    &nbsp;<span class="subItem"><a class="navbarsub" href="http://www.amcham.org.eg/Promotional_Opportunities.asp">Promotional Opportunities</a></span><br>
 		
 		
-    &nbsp;<span class="subItem"><a class="navbarsub" href="/HR/CareerDevCenter/Career.asp">Training/Career Dev</a></span><br>
+   
 		
     &nbsp;<span class="subItem"><a class="navbarsub" href="/BIC/WebDevelopment/WebDevelopment.asp">Web Development</a></span><br>
 		
@@ -211,9 +212,29 @@ document.formprintme.submit();
 
 
 <div class="mainDiv">
-<div class="topItem">Trade Services</div>
+<div class="topItem">Education &amp; Training </div>
 <div class="dropMenu" style="height:0px;filter:alpha(opacity=0);opacity:0">
   <div class="subMenu" style="display:none;">
+   &nbsp;<span class="subItem"><a class="navbarsub" href="/HR/CareerDevCenter/Career.asp">Training/Career Dev</a></span><br>
+		
+		
+		
+		&nbsp;<span class="subItem"><a class="navbarsub" href="/BIC/olt/main.asp">Online Training</a></span><br>
+		
+	
+  </div>
+</div>
+</div>
+
+
+
+
+
+
+<div class="mainDiv">
+<div class="topItem">Trade Services</div>
+<div class="dropMenu" style="height:0px;filter:alpha(opacity=0);opacity:0">
+  <div class="subMenu" style="display:inline;">
     &nbsp;<span class="subItem"><a class="navbarsub" href="/trac_intro.asp?">Trade-Related Assistance Center</a></span><br>
   </div>
 </div>
@@ -240,7 +261,7 @@ document.formprintme.submit();
 	
 	&nbsp;<span class="subItem"><a class="navbarsub" href="/BSAC/EconomicIndicators/EcIndicators.asp">Economic Indicators</a></span><br>
 	
-	&nbsp;<span class="subItem"><a class="navbarsub" href="/publications/emergingegypt/emerging.asp">Emerging Egypt 2005</a></span><br>
+	&nbsp;<span class="subItem"><a class="navbarsub" href="/publications/emergingegypt/emerging.asp">Emerging Egypt 2007</a></span><br>
 	
 	&nbsp;<span class="subItem"><a class="navbarsub" href="/hr/careerdevcenter/cdcnews/Career.asp">CDC Newsletter</a></span><br>
 
@@ -276,11 +297,10 @@ document.formprintme.submit();
 
 	  </div></td>
         </tr>
-        <tr> 
-    
-      </tr></tbody></table>
+        <tr>      </tr>
+</tbody></table>
  
-</td><td valign="top" width="6" background="/images/shade.gif">&nbsp;</td>   <td width="685" valign="top">
+</form></td><td valign="top" width="6" background="/images/shade.gif">&nbsp;</td>   <td width="685" valign="top">
 	<table width="100%">
 	<tbody><tr>
 	<td></td>
@@ -394,7 +414,7 @@ document.formprintme.submit();
 <input type="hidden" id="text1" name="text1">
 </form><span align="center" class="plaintxtSize1">
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Site Developed and Maintained by the <a href="/bic/Default.asp" class="plaintxtSize1">Business Information Center</a> of AmCham Egypt</span></td>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Site Developed and Maintained by the <a href="/bic/Default.asp" class="plaintxtSize1">Business Information Center</a> of AmCham Egypt<br>Copyright©2007 American Chamber of Commerce in Egypt</span></td>
   </tr>
 </tbody></table>
 <table border="0" cellspacing="0" cellpadding="0">
