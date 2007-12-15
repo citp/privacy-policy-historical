@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the instamed.com privacy policy that was archived on 2007-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070202220703id_/http%3A//www.instamed.com/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instamed.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215135012id_/http%3A//www.instamed.com/privacy_statement.html) for the most accurate reproduction.*
 
 # InstaMed®
 
-### Privacy Statement
+### PRIVACY STATEMENT
 
 **General Information**  
 InstaMed respects the privacy of its customers, business partners and employees and recognizes the requirement to protect all Personal Information that is in the possession of the company. Personal Information also applies to Protected Health Information, as defined by HIPAA*. InstaMed has therefore established this Privacy Statement so that individuals and organizations may understand what information is collected and how that information is used. This Privacy Statement applies to InstaMed and all of its affiliated companies. 
@@ -34,9 +34,9 @@ If there are any questions regarding the Privacy Statement or someone believes t
 
 **Privacy Officer  
 InstaMed   
-1528 Walnut Street  
-19th Floor  
-Philadelphia, PA 19102** Once the complaint has been received by the Privacy Officer, an immediate investigation will be launched and appropriate actions will be taken to rectify the situation. InstaMed will not at any time retaliate against the individual or organization that filed the complaint. 
+1880 JFK Boulevard  
+12th Floor  
+Philadelphia, PA 19103** Once the complaint has been received by the Privacy Officer, an immediate investigation will be launched and appropriate actions will be taken to rectify the situation. InstaMed will not at any time retaliate against the individual or organization that filed the complaint. 
 
 Individuals and organizations also have the right to file complaints directly with the Secretary of the Department of Health & Human Services if they believe their privacy rights have been violated. 
 
@@ -45,4 +45,4 @@ InstaMed will review and update this Statement periodically.
 
 _*HIPAA - Health Insurance Portability and Accountability Act of 1996_
 
-_**Last Updated: September 28, 2006**_
+_**Last Updated: June 26, 2007**_
