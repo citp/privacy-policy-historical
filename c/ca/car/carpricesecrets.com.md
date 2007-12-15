@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carpricesecrets.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607174135id_/http%3A//www.carpricesecrets.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carpricesecrets.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215201236id_/http%3A//www.carpricesecrets.com/privacy.php) for the most accurate reproduction.*
 
 # CarPriceSecrets.com - Privacy Policy
 
@@ -9,6 +9,10 @@ Collection of Information
 The Site currently collects personally identifiable information in one of two ways: (1) through your voluntary submission of a quote request form or (2) through your voluntary submission of a “contact us”, “get more information“, or other similar form available on the Site. When you request a quote, the types of information that we collect in conjunction with a quote request may include your name, address, phone number, e-mail address and information regarding the particular vehicle(s) that you are interested in. You must provide all required fields of information for your request to be processed. The types of information we collect on the “contact us”, “get more information”, or other similar form may include your name, dealership name and address, phone number, and email address.
 
 The Site also passively collects information about you through the use of cookies and other technical means. Cookies are small text files that reside on your computer’s hard drive. If you do not wish to accept cookies, you may configure your browser to reject them, but certain features of the Site may not function properly or at all as a result. In addition, our Web servers automatically collect information about your computer and the Web browser that you are using, including your computer's Internet Protocol (“IP”) address.
+
+Third Party Information Collection
+
+Third parties may collect information about you and your use of the Site through the use of cookies, web beacons, and other similar technologies. For example, we may work with third party advertising networks that use cookies and web beacons to collect non-personally identifiable information about your visits to this Site and other Web sites in order to provide targeted advertisements to you across their networks of Web sites (which may include this Site). These third parties may also use this information for determining or predicting the characteristics and preferences of their respective network audiences, for measuring the effectiveness of their advertising, and for other purposes. If you would like more information about the information collection and use practices of some of these third party advertising companies and learn which of these companies allow you to opt-out of this type of information collection, please click here: <http://networkadvertising.org/consumer/opt_out.asp>
 
 How Our Quote Request Process Works
 
