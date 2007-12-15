@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allwebcodesign.com privacy policy that was archived on 2007-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070619083939id_/http%3A//www.allwebco.com/W3C/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allwebcodesign.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215035532id_/http%3A//www.allwebco.com/W3C/privacy.htm) for the most accurate reproduction.*
 
 # The AllWebCo Privacy Policy
 
