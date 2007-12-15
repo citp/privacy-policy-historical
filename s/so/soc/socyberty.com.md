@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the socyberty.com privacy policy that was archived on 2007-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070218040736id_/http%3A//www.socyberty.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socyberty.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215233328id_/http%3A//www.socyberty.com/privacy) for the most accurate reproduction.*
 
-# Socyberty :: Privacy Policy
+# Socyberty :: Privacy
 
 1.  **General**. 
 
@@ -16,7 +16,7 @@ e.  This Privacy Policy applies to the practices of Socyberty and its affiliate
 
 2.  **Information Collected**. 
 
-a.  Socyberty collects personal information when you register with Socyberty for the purpose of receiving Socyberty's newsletters.. Socyberty may also collect personal information when you use other products or services provided by Socyberty, when you visit pages of certain partners of Socyberty, and when you enter certain links or other promotional features on the Site. 
+a.  Socyberty collects personal information when you register with Socyberty for the purpose of receiving Socyberty's newsletters.. Socyberty may also collect personal information and/or install a "cookie" on your personal computer when you use, access or logon other products or services provided by Socyberty, when you visit pages of certain partners of Socyberty, and when you enter certain links or other promotional features on the Site. 
 
 b.  Personal information which we will collect shall include information such as (but not limited to) your full name, email/IP address, and any such other general information Socyberty may request. 
 
