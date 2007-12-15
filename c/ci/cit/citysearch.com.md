@@ -1,68 +1,98 @@
-> *The following text is extracted and transformed from the citysearch.com privacy policy that was archived on 2007-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070628212225id_/http%3A//www.citysearch.com/templates/profile/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citysearch.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215090548id_/http%3A//www.citysearch.com/templates/profile/policy.html) for the most accurate reproduction.*
 
-# Bar and Night Club Recommendations and Reviews on Citysearch
+# 
 
-|    
-**Citysearch.com Privacy Policy**
+**_Consumer Privacy at Citysearch.com, an IAC Company_**
 
-**_YOUR PRIVACY RIGHTS:_**
+Citysearch.com ("Citysearch") is part of the IAC family of businesses, which has grown in recent years to include over 60 brands including, in addition to Citysearch, HSN, Ticketmaster, Lending Tree, Ask.com, Match.com, Citysearch, Evite, Interval International, ServiceMagic, Entertainment Publications, Gifts.com, Pronto and many others. For a list of all of IAC's businesses, please visit [www.iac.com](http://www.iac.com/ "http://www.iac.com/"). In order to help customers clearly understand our data collection and use practices, IAC has decided to have its businesses follow a standard set of privacy practices and use a standard format to describe their privacy practices. The following Consumer Privacy statement applies to all IAC businesses. In addition, Citysearch has revised its [Privacy Policy](https://web.archive.org/templates/profile/policy_full.html "Full Privacy Policy"), effective July 18, 2007, consistent with the IAC privacy commitment and standard privacy policy format. Refer to our [FAQs](https://web.archive.org/templates/profile/policy_faq.html "Privacy Policy FAQs") for details about the changes. Please review both the Consumer Privacy statement and this site's complete privacy policy.
 
-The Citysearch.com business ("Citysearch.com") has created this privacy policy to demonstrate our firm commitment to protecting your profile information and informing you about how we handle it. This privacy policy only applies to transactions and activities in which you engage ("Transactions"), and data gathered, on the Citysearch.com web site (the "Site") and does not apply to any other web site or offline point of contact between Citysearch.com, or any other company, and consumers. Please review this privacy policy periodically as we may modify it from time to time. This privacy policy was last revised on October 9, 2002. Each time you visit the Site or provide us with information, by doing so you are accepting the practices described in this privacy policy at that time. 
+At IAC, we respect the privacy of our users and the importance of the information they entrust to us. We summarize below the basic information policies and practices in place on all IAC websites. To read the entire Privacy Policy of Citysearch,please click [here](https://web.archive.org/templates/profile/policy_full.html "Full Privacy Policy").
 
-**Your IP Address**
+We may collect information that can identify you ("personal information"), such as your name and email address, (i) when you (or other users) provide it to us when using our website or in some other manner, or (ii) from other IAC businesses, from our business partners, and from other third parties. We may combine the personal information that we receive from different sources.
 
-Like most e-commerce websites, each time you visit the Site, we automatically collect your IP address and the web page from which you came. In order to administer and optimize the Site for you and to diagnose problems with our Site, we use your IP address to help identify you and to gather broad demographic information about you. 
+We also may collect other types of information in the following ways when you visit our website:
 
-**Cookies**
+  * Our server logs automatically collect information, such as your IP address, your browser type and language, and the date and time of your visit, which helps us track users' movements around our site and understand trends.
+  * We may assign your computer one or more [cookies](https://web.archive.org/templates/profile/policy_full.html#cookies) which may collect information to facilitate access to our website and to personalize your online experience.
+  * We may use standard Internet tools, such as [web beacons](https://web.archive.org/templates/profile/policy_full.html#web_beacons), which collect information that tracks your use of our website and enables us to customize our services and advertisements.
 
-Like most websites, the Site uses cookies to keep track of your purchases and other activity on the Site and enhance your experience on the Site. We also use cookies to deliver content specific to your interests, to save your password, and if you choose, to save other personal and financial information so you do not have to re-enter it each time you visit the Site. Third parties that advertise on the Site may also place cookies on your browser. If you wish to disable these cookies, the "help" portion of the toolbar on most browsers will tell you how. However, if you set your browser to disable cookies, you may not be able to access certain areas or features of the Site. 
 
-**Information We Collect From You**
 
-In order to operate the Site and provide you with information on products and services that may be of interest to you, we may collect profile information (i.e. information that could be used to contact you such as full name, postal address, phone number and email address), financial information (e.g. passwords and credit card numbers), demographic information (e.g. zip code, hometown, gender, purchase history information and age), public information such as user ratings and reviews and a user name from you. Please note that nowhere on the Site do we knowingly collect profile information from children under the age of 13. The Site also provides you with the opportunity to save, in a personal account, restaurant listings, event listings and other information you view on the Site. A collection of such listings and other information that is so saved in a personal account is referred to elsewhere in this privacy policy as "Saved Listings." 
+We do not knowingly collect personal information from children under the age of 13. Should we ever do so, we will comply with the Children's Online Privacy Protection Act.
 
-**Information Other Web Sites Collect From You**
+We may allow third-party advertising companies or ad networks to display advertisements on our websites. 
 
-On the Site, we place links to other web sites operated by other parties. Some of these other web sites contain our brand names and trademarks and other intellectual property that we own; others do not. When you click on these links and visit these other web sites, regardless of whether or not they contain our brand names, trademarks and other intellectual property, you need to be aware that we do not control these other web sites or these other web sites' business practices, and that this privacy policy does not apply to these other web sites. Consequently, the operators of these other web sites may collect different kinds of information about you, and may use and disclose that information in different ways than we would if it were collected on the Site. We encourage you to review their privacy policies and remind you that we will not be responsible for their actions. 
+  * We do not provide any personal information to these companies.
+  * These companies may use tracking tools, such as cookies, to collect information about computers used to view or interact with their advertisements.
+  * Some of these companies may be members of the [Network Advertising Initiative](http://www.networkadvertising.org/), which offers consumers the ability to opt out of ad targeting by all member companies.
 
-**How We Use Personal Information**
 
-We use your profile information to help us efficiently perform Transactions on the Site, to contact you when necessary in connection with Transactions, and to send you information, offers and other promotional materials for Citysearch.com's or third parties' goods or services. We carefully select the information we send to you and attempt to send you offers that are of value to you, such as discounts, exclusive offers or special event information. The Site provides you with the option of declining to receive offers from Citysearch.com by "opting-out" of receiving this type of communication. 
 
-To process Transactions on the Site, we may share your profile information with our agents, representatives, contractors and service providers so they can provide us with support services such as authorization of credit card transactions, order fulfillment and sweepstakes and promotional fulfillment. We require these entities not to use your information for any other purpose. 
+If you post information about yourself or others, or communicate with others using our website, please note that we cannot control who reads your postings or what they do with the information you provide. We encourage you to use caution in posting personal information.
 
-By purchasing or making reservations for products or services, electing to receive communications (such as emails or magazine subscriptions), or electing to participate in contests, sweepstakes, or other programs (such as discount or rewards programs), offered by third parties on the Site, you consent to our providing your profile information to those third parties. Those third parties may use your personal information in accordance with their own privacy policies. You will need to contact those third parties to instruct them directly regarding your preferences for the use of your personal information by them. Additionally, you agree that we will have the right to use and disclose all such information you submit in the same manner in which we use and disclose all other information you submit. 
+**How we may use information we collect** **[[Read more]](https://web.archive.org/templates/profile/policy_full.html#info_use)**
 
-Your profile information may be passed on to a third party in the event of a transfer of ownership or assets, or a bankruptcy, of Citysearch.com. We may also disclose specific information when we determine that such disclosure is necessary to comply with applicable law, to cooperate with law enforcement or to protect the interests or safety of Citysearch.com or other visitors to the Site. We also may disclose your profile information to our subsidiary and parent companies and businesses, and other affiliated legal entities and businesses with whom we are under common corporate control. However, all of these parent, subsidiary and affiliated legal entities and businesses that receive your profile information from us will comply with the terms of this privacy policy with respect to their use and disclosure of such profile information. 
+We may use information to:
 
-Any third party with whom we are allowed to share your profile information is authorized to use your profile information in accordance with our contractual arrangements with such third parties and in accordance with their own privacy policies, over which we have no control, and you agree that we are not responsible or liable for any of their actions or omissions. Those who contact you will need to be instructed directly by you regarding your preferences for the use of your profile information by them. 
+  * Fulfill your requests for products and services;
+  * Offer products and services that may be of interest to you;
+  * Customize the advertising and content that you see on our website;
+  * Facilitate use of our website;
+  * Manage your account and your preferences;
+  * Analyze use of and improve our website, products and services;
+  * Identify and protect against fraudulent transactions and other misuses of our website; and
+  * Enforce our Terms of Use.
 
-Please read the information below under the heading "How We Use Public Information, Reviews, Ratings and User Names" to learn how we may make some of your profile information accessible to the public via the Site or via other means. 
 
-**How We Use Financial Information**
 
-We use your financial information to check your qualifications, to bill you for products and services and to enable you to participate in discount, rebate and similar programs in which you may elect to participate. By making a purchase, or engaging in any other kind of Transaction that uses financial information, on the Site, you consent to our providing your financial information to our service providers and to such third parties as we determine is necessary to process your Transactions, as well as to your credit card issuer for their purposes. These third parties may include the credit card companies and banking institutions used to process the Transaction. By purchasing, or making reservations for, products or services of third parties offered on the Site, or by participating in programs offered on the Site that are administered by third parties and that require you to submit financial information in order to use them, you also consent to our providing your financial information to those third parties. Any of these various third parties are authorized to use your financial information in accordance with our contractual arrangements with such third parties and in accordance with their own privacy policies, over which we have no control, and you that we are not responsible or liable for any of their actions or omissions. 
+**With whom we may share information we collect** **[[Read more]](https://web.archive.org/templates/profile/policy_full.html#sharing_info)**
 
-**How We Use Demographic Information and Saved Listings**
+We will not share your personal information with others except as indicated below, or except when we inform you in advance and give you the opportunity to opt out. We may share personal information with:
 
-We use demographic information and Saved Listings to tailor the Site and communications to the interests of our users. We may share demographic information and Saved Listings with advertisers and other third parties ("Sponsors") so that they can tailor their advertisements and communications to the appropriate audience. If you consent to have us share your profile information as described above, then the demographic information and Saved Listings that we provide to Sponsors may be linked to your profile information so that Sponsors will be able to know about your demographic information and will also know what your Saved Listings are. If you do not consent to have us share your profile information as described above, then we will only provide your demographic information and Saved Listings to Sponsors on an anonymous and aggregated basis. 
+  * Service providers, such as credit-card payment processors, performing services on our behalf;
+  * Other IAC businesses;
+  * Other businesses with which we partner or which we carefully select to offer you products, services, and promotions through our website or offline; and
+  * Other third parties in limited circumstances, such as complying with legal requirements, preventing fraud, and protecting the safety of our users.
 
-**How We Use Public Information, Reviews, Ratings and User Names**
 
-When you register on the Site, you must enter a user name. You will also be given the chance to designate certain of your profile information and other information as "public" or "private." You may change these public/private designations in the Edit My Profile section of the Site. The Site provides you with the opportunity to give user reviews and ratings for restaurants, hotels, bars, events and other items. Your user name and public information may appear next to your user reviews and ratings as they are posted on the Site. Your user name and public information may also appear on a User Profile section of the Site. Please note that if you designate your email address as "public" information, then other Site visitors may see your email address and send you emails. We may also use and disclose your user name, public information and reviews and ratings in any other manner. To read further details about how we may use your user name, public information and reviews, see our ["Reviews are owned by Citysearch"](https://web.archive.org/saved/html/my_citysearch/terms_of_use.html). 
 
-**Our Security Precautions, Location of Information**
+We may share aggregated, non-personal information in any of the above situations and also with advertisers and others.
 
-The Site has security measures in place to protect against the loss, misuse and alteration of the information under our control. Your information may be transferred to and maintained on computer networks which may be located outside of the state, province, country or other governmental jurisdiction in which you reside, and the countries in which these computer networks are located may not have privacy laws as protective as the laws in your country. 
+You may choose:
 
-**How You Can Access and Update Your Email Preferences, Personal Information and Public/Private Designations**
+  * Not to provide personal information, although that may result in your inability to obtain certain services or use certain features of our website;
+  * To stop receiving promotional emails or newsletters from us by sending an email to the contact address at the bottom of this policy;
+  * To delete or decline [cookies](https://web.archive.org/templates/profile/policy_full.html#cookies) changing your browser settings, although if you do so, some of the features or services of our website may not function properly;
+  * To review and update your personal information by contacting us at the email address below or, if you have an online account on our website, by logging into that account.
 
-When you provide profile information to the Site, you must enter a user name. You may also be given the chance to designate certain of your profile information and other information as "public" or "private" and to opt-out of receiving certain communications from us and third parties, as described above. We also give you the opportunity to opt-out of certain communications and/or modify profile information you have provided to us, or to change public/private designations, at anytime by clicking on the My Profile link, then clicking on the Edit My Profile link and selecting those portions of your profile you would like to update. Please be aware that it may take several hours for the changes you make to your public information or your public/private information designations to take affect on the public areas of the Site. We thank you for your patience. 
 
-After you submit personal information in connection with purchasing or reserving products or services, electing to receive communications or electing to participate in contests, sweepstakes, or other programs (such as discount or rewards programs), offered or sponsored by third parties on the Site, we may use such information to send you marketing emails. However, if we do so, we will provide a link that you can click on to opt-out of receiving subsequent marketing emails generated from the same such information. In many cases we will also provide opt-in boxes so that you can indicate your preferences before receiving marketing emails. 
 
-Please note that changing or deleting your information through Edit My Profile, or otherwise opting-out of receipt of email communications from Citysearch.com will only change or delete the data in our My Profile database for purposes of future Transactions on the Site and for managing future communications from Citysearch.com. These changes and deletions will not change or delete information that we may have already forwarded to credit card companies or any other third parties, all as provided above in this privacy policy. 
+We take appropriate physical, electronic, and other security measures to help safeguard personal information from unauthorized access, alteration, or disclosure.
 
-If you have any questions or concerns about this privacy policy, the practices of the Site, or your dealings with the Site, you can contact us at [legal@citysearch.com](mailto:legal@citysearch.com). You can also send us mail to: Privacy Officer, Legal Department, Citysearch.com, 8833 W. Sunset Blvd., West Hollywood, CA 90069. 
+**Changes to our Privacy Policy**
 
-| 
+We may occasionally update our Privacy Policy to reflect changes in our practices and services. If we make material changes in the way we collect, use, or share your personal information, we will notify you by sending you an email to the email address you most recently provided to us and/or by prominently posting notice of the changes on our website.
+
+**How to contact us**
+
+If you have any questions about this summary, our [Privacy Policy ](https://web.archive.org/templates/profile/policy_full.html), or our information practices, please contact us by email or postal mail below:
+
+Privacy Officer  
+Citysearch.com  
+8833 Sunset Blvd.  
+West Hollywood, California, 90069  
+legal@citysearch.com
+
+**Your California Privacy Rights**
+
+If you are a resident of California, in addition to the rights set forth above, you have the right to request information from us regarding the manner in which we share certain categories of personal information with third parties and the IAC companies for their direct marketing purposes. California law gives you the right to send us a request at a designated address to receive the following information:
+
+  1. the categories of information we disclosed to third parties for their direct marketing purposes during the preceding calendar year
+  2. the names and addresses of the third parties that received that information; and
+  3. if the nature of the third party's business cannot be determined from their name, examples of the products or services marketed.
+
+
+
+We may provide this information in a standardized format that is not specific to you. The designated email address for these requests is [](mailto:)[legal@citysearch.com](mailto:legal@citysearch.com).
+
+© 2007 IAC/InterActiveCorp. All rights reserved.
