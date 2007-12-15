@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopodo.co.uk privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622143237id_/http%3A//www.shopodo.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopodo.co.uk privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215055051id_/http%3A//shopodo.co.uk/privacy.html) for the most accurate reproduction.*
 
 # Save money with special offers, coupons, discounts & bargains on shopodo.co.uk - Privacy
 
