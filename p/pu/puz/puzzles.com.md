@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the puzzles.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624144711id_/http%3A//www.puzzles.com/Office/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the puzzles.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215183029id_/http%3A//www.puzzles.com/Office/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # Puzzles.COM - Our Privacy Policy
 
 |  |   
 ---|---|---  
-|  [ Home](https://web.archive.org/web/20070624144711id_/http%3A//www.puzzles.com/index.htm) / |   
+|  [ Home](https://web.archive.org/web/20071215183029id_/http%3A//www.puzzles.com/index.htm) / |   
 |  |   
 | 9 Quetions About Our Privacy Policy |   
 |  |   
@@ -84,7 +84,7 @@ Attn: A. Barthello
 
 You can also reach us by phone at 1-703-549-4999.
 
-Also a list of people who may access your information in addition to A. Barthello is [here](https://web.archive.org/web/20070624144711id_/http%3A//www.puzzles.com/Office/PPList.htm).
+Also a list of people who may access your information in addition to A. Barthello is [here](https://web.archive.org/web/20071215183029id_/http%3A//www.puzzles.com/Office/PPList.htm).
 
 |   
 |  |   
