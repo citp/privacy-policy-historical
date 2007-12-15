@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the packardbell.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630101442id_/http%3A//www.packardbell.com/terms.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the packardbell.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215030222id_/http%3A//www.packardbell.com/terms.html) for the most accurate reproduction.*
 
 # Packard Bell - terms and conditions, personal privacy, data protection
 
@@ -23,7 +23,12 @@ This Charter will tell you about:
   
 If you have any comments or questions please contact: 
 
-Packard Bell BV Nieuweweg 279 66 00 AH Wijchen The Netherlands 
+Packard Bell BV   
+Jonkerbosplein 52  
+6534 AB Nijmegen  
+Po Box 6925  
+6503 GK Nijmegen  
+The Netherlands
 
 **THE CHARTER'S FIELD OF APPLICATION**
 
