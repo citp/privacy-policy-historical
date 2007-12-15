@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wsj.net privacy policy that was archived on 2006-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061031130411id_/http%3A//online.wsj.com/public/page/0%2C%2Cprivacy_policy%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wsj.net privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215110129id_/http%3A//online.wsj.com/public/page/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - WSJ.com
 
@@ -77,7 +77,7 @@ If you subscribe to the Services, you may occasionally receive email messages ab
 
 **YOUR ABILITY TO CHOOSE**
 
-We offer you the opportunity to choose whether to receive certain communications from us at the time you give us your personally identifiable information. If you subscribe to The Wall Street Journal Online, you may update your communication preferences by visiting our [E-Mail Center](http://wsj.com/email/). You are always able to update your communication preferences by contacting Customer Service at [onlinejournal@wsj.com](mailto:onlinejournal@wsj.com), or [onlinesupport@barrons.com](https://web.archive.org/web/20061107223938id_/http://online.wsj.com/public/page/onlinesupport@barrons.com), or by calling us at 1-800-369-2834. 
+We offer you the opportunity to choose whether to receive certain communications from us at the time you give us your personally identifiable information. If you subscribe to The Wall Street Journal Online, you may update your communication preferences by visiting our [E-Mail Center](http://wsj.com/email/). You are always able to update your communication preferences by contacting Customer Service at [onlinejournal@wsj.com](mailto:onlinejournal@wsj.com), or [onlinesupport@barrons.com](https://web.archive.org/web/20071215110129id_/http%3A//online.wsj.com/public/page/onlinesupport@barrons.com), or by calling us at 1-800-369-2834. 
 
 You may decline to receive "Advantage" messages as set out above. 
 
@@ -129,7 +129,7 @@ Your information may be stored and processed in the United States or any other c
 
 If you have any questions, comments or concerns about our Privacy Policy, you may contact us at **[onlinejournal@wsj.com](mailto:onlinejournal@wsj.com)** or **[onlinesupport@barrons.com](mailto:onlinesupport@barrons.com)**. 
 
-This policy was last updated on Aug 15th, 2005.   
+This policy was last updated on Jan 30, 2007.   
 
 
 | 
