@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the nakido.com privacy policy that was archived on 2007-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070627093300id_/http%3A//www.nakido.com/pv) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nakido.com privacy policy that was archived on 2007-12-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071215101951id_/http%3A//www.nakido.com/pv) for the most accurate reproduction.-->
 
 <html><head>
 <title>Privacy Policy</title>
@@ -9,6 +9,7 @@
 
 
 <link href="/main.css" rel="stylesheet" type="text/css">
+<script src="/js/yahoo-dom-event.js" type="text/javascript"></script>
 <script src="/js/prototype.js" type="text/javascript"></script>
 <script src="/js/scriptaculous.js" type="text/javascript"></script>
 <script src="/js/AC_RunActiveContent.js" type="text/javascript"></script>
@@ -20,10 +21,10 @@
 <script src="/js/dom-drag.js" type="text/javascript"></script>
 <script src="/js/notifytext.js" type="text/javascript"></script>
 <script src="/js/copy-code.js" type="text/javascript"></script>
+<script src="/js/autoTooltips.js" type="text/javascript"></script>
 
 
 <script type="text/javascript">
-ismember=false;
 function MM_swapImgRestore() { //v3.0
   var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
 }
@@ -47,7 +48,50 @@ function MM_swapImage() { //v3.0
    if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
 }
 
-var PLATFORM_OTHER    = 0;
+function set_cookie(n,v,t) {
+ var now=new Date();
+ var expire=new Date();
+ expire.setTime(now.getTime()+t);
+ document.cookie = n+'='+escape(v)+';expires='+expire.toGMTString();
+}
+
+function get_cookie(n) {
+var search = n+'='
+var returnvalue='';
+if (document.cookie.length > 0) {
+offset = document.cookie.indexOf(search)
+if (offset != -1) { // if cookie exists
+offset += search.length
+// set index of beginning of value
+end = document.cookie.indexOf(";", offset);
+// set index of end of cookie value
+if (end == -1)
+end = document.cookie.length;
+returnvalue=unescape(document.cookie.substring(offset, end))
+}
+}
+return returnvalue;
+}
+
+
+    if(!window.Nakido)window.Nakido={};
+    Nakido.version=0;
+    Nakido.uptime=0;
+    Nakido.connected=false;
+    Nakido.detected=false;
+    Nakido.downloads=new Array();
+    Nakido.download_count=0;
+
+    var c=get_cookie('version');
+    if(c)Nakido.version=parseInt(c);
+    c=get_cookie('connected');
+    if(c)Nakido.connected=true;
+    c=get_cookie('uptime');
+    if(c)Nakido.uptime=parseInt(c);
+    c=get_cookie('detected');
+    if(c)Nakido.detected=true;
+
+    var PLATFORM_OTHER    = 0;
     var PLATFORM_WINDOWS  = 1;
     var PLATFORM_LINUX    = 2;
     var PLATFORM_MACOSX   = 3;
@@ -69,31 +113,115 @@ var PLATFORM_OTHER    = 0;
     else
       gPlatform = PLATFORM_OTHER;
 
-    var detected = false;
     var displaydlg = false;
     var displaydlgad = false;
     var nakidoflagad = false;
-    var uptime = 0;
     var expired = new Date();
-    var checked = false;
     var dlurl;
+
+    function nakido_setstatus(v,c,u)
+    {
+        Nakido.version=v;
+        Nakido.connected=c;
+        Nakido.uptime=u;
+        Nakido.detected=true;
+        var now = new Date();
+        expired = new Date(now.getTime() + 10001);
+        set_cookie('version',v,10000);
+        set_cookie('connected',c,10000);
+        set_cookie('uptime',u,10000);
+        set_cookie('detected','true',10000);
+    }
+
+    function nakido_setdownloadprogress(f,r,s,p)
+    {
+        Nakido.downloads[f]=r+'#'+s+'#'+p+'#';
+        var now=new Date();
+        Nakido.downloads[f+'l']=new Date(now.getTime()+30000);
+    }
+
+    function TimedNakidoStatus()
+    {
+        GetNakidoStatus();
+        setTimeout('TimedNakidoStatus()', 5000);
+    }
+
     function GetNakidoStatus()
     {
         var now = new Date();
-        var js = document.getElementById('nakidojs');
-        if (js)
+        var htmls=document.getElementsByTagName('head');
+        var js = document.getElementById('ndetect');
+        if (js) htmls[0].removeChild(js);
+        js=createjscript('ndetect','http://127.0.0.1:6666/ctrl/www' + '?' + now.getFullYear() + now.getMonth() + now.getDay() + now.getHours() + now.getMinutes() + now.getSeconds());
+        htmls[0].appendChild(js);
+        UpdateNakidoStatus();
+        if(self.GetDLStatus&&Nakido.detected)GetDLStatus();
+        if(self.UpdateDLStatus)UpdateDLStatus();
+    }
+
+    function UpdateNakidoStatus()
+    {
+        var now = new Date();
+        if (Nakido.version >= 168 && expired > now)
         {
-            document.getElementsByTagName('head')[0].removeChild(js);
-            js=null;
+            Nakido.detected=true;
+            displaydlg = true;
         }
-        js = document.createElement("script");
-        js.id = 'nakidojs';
-        js.src = 'http://127.0.0.1:6666/ctrl/STATUS?' + now.getFullYear() + now.getMonth() + now.getDay() + now.getHours() + now.getMinutes() + now.getSeconds();
-        js.type = 'text/javascript';
-        document.getElementsByTagName('head')[0].appendChild(js);
-        
-        setTimeout('GetNakidoStatus()', 6000);
-        checked = true;
+        else
+        {
+            Nakido.connected=false;
+            Nakido.version=0;
+            Nakido.uptime=0;
+            Nakido.detected=false;
+        }
+
+        var x = document.getElementById("detect");
+        if (x)
+        {
+            if (Nakido.detected)
+                x.src = '/images/top_bar/nakido_flag_detected.gif';
+            else
+                x.src = '/images/top_bar/no_nakido_flag_detected.gif';
+            x=null;
+        }
+
+        if (Nakido.detected){Close("popdivnakidoflag");}
+        else {if (!displaydlg){showPopDiv("popdivnakidoflag");displaydlg = true;}}
+
+        x=document.getElementById('nakido_version');if(x){if(Nakido.version>0){x.innerHTML=(Nakido.version/100).toFixed(2);}else{x.innerHTML='-';}}
+        x=document.getElementById('nakido_connected');if(x){if(Nakido.connected){x.innerHTML="Yes";}else{x.innerHTML="No";}}
+        x=document.getElementById('nakido_uptime');if(x){if(Nakido.uptime>0){x.innerHTML=gettime(Nakido.uptime);}else{x.innerHTML='-';}}
+    }
+
+    function gettime(seconds)
+    {
+        if (seconds < 60)
+            return seconds.toFixed(0) + 's';
+        else if (seconds < (60 * 60))
+            return (seconds/60).toFixed(0) + 'm ' + gettime(seconds%60);
+        return (seconds/60/60).toFixed(0) + 'h ' + gettime(seconds%3600);
+    }
+
+    function getsize(bytes)
+    {
+        if (bytes < 1024)
+            return bytes + ' Bytes';
+        else if (bytes < (1024 * 1024))
+            return (bytes/1024*100/100).toFixed(0) + ' KB';
+        else if (bytes < (1024 * 1024 * 1024))
+            return (bytes/1024/1024).toFixed(2) + ' MB';
+        else if (bytes < (1024 * 1024 * 1024 * 1024))
+            return (bytes/1024/1024/1024).toFixed(2) + ' GB';
+        return '';
+    }
+
+    function createjscript(id, src)
+    {
+        var js=document.createElement("script");
+        js.id=id;
+        js.src=src;
+        js.type='text/javascript';
+        return js;
     }
 
     function imgzoom(o) 
@@ -113,107 +241,11 @@ var PLATFORM_OTHER    = 0;
 
     function PopAds()
     {
-        if (!displaydlgad && (!nakidoflagad || !detected))
+        if (!displaydlgad && (!nakidoflagad || !Nakido.detected))
         {
             showPopDiv("popdivad");
             displaydlgad = true;
         }
-    }
-
-    function NakidoDownloadLink(id)
-    {
-        x = document.getElementById(id);
-        if (x && dlurl)
-        {
-            if (detected)
-                x.href = 'http://127.0.0.1:6666' + dlurl;
-            else
-                x.href = 'http://www.nakido.com' + dlurl;
-        }
-    }
-
-    function UpdateNakidoStatus()
-    {
-        var now = new Date();
-        try
-        {
-            if (self.N_UPTIME && uptime != N_UPTIME)
-            {
-                uptime = N_UPTIME;
-                expired = new Date(now.getTime() + 10000);
-            }
-            
-            if (self.N_VERSION && N_VERSION >= 98 && expired > now)
-            {
-                detected = true;
-                displaydlg = true;
-            }
-            else
-                detected = false;
-        }
-        catch (e)
-        {
-        }
-
-        var x = document.getElementById("detect");
-        if (x)
-        {
-            if (detected)
-                x.src = '/images/top_bar/nakido_flag_detected.gif';
-            else
-                x.src = '/images/top_bar/no_nakido_flag_detected.gif';
-        }
-        NakidoDownloadLink("nakidourl");
-
-        if (!detected)
-        {
-            if (!displaydlg){showPopDiv("popdivnakidoflag");displaydlg = true;}
-
-            if (self.N_DOWNLOAD)
-            {
-                for (var filekey in N_DOWNLOAD) 
-                {
-                    if (filekey.length != 40)
-                        continue;
-
-                    var js = document.getElementById(filekey);
-                    if (js)
-                        js.innerHTML = '<a href="/nakidosetups.exe" onclick="return CheckNakidoDownloadLink();" ><b>No Nakido Flag Detected</b></a>';
-                    js = document.getElementById(filekey + 'download_img');
-                    if (js)
-                        js.width = 0;
-                }
-            }
-        }
-        else if (detected)
-        {
-            Close("popdivnakidoflag");
-            if (self.UpdateDLStatus)UpdateDLStatus();
-        }
-
-        setTimeout('UpdateNakidoStatus()',3000);
-    }
-
-    function getsize(bytes)
-    {
-        var size_unit;
-        if (bytes < 1024)
-        {
-            size_unit = bytes + " Bytes";
-        }
-        else if (bytes < (1024 * 1024))
-        {
-            size_unit = (bytes/1024*100/100).toFixed(0) + " KB";
-        }
-        else if (bytes < (1024 * 1024 * 1024))
-        {
-            size_unit = (bytes/1024/1024).toFixed(2) + " MB";
-        }
-        else
-        {
-            size_unit = (bytes/1024/1024/1024).toFixed(2) + " GB";
-        }
-        return size_unit;
     }
 
   function SetClipboard(s)
@@ -223,89 +255,78 @@ var PLATFORM_OTHER    = 0;
      window.status="The linking code was copied into clipboard.";
   }
 
-  var N_DOWNLOAD_LENGTH=0;var N_DOWNLOAD = new Array();
-    function UpdateDLStatus()
+  
+    function GetDLStatus()
     {
-        if (self.N_DOWNLOAD)
+        for (var filekey in Nakido.downloads)
         {
-            var n = 0;
-            for (var filekey in N_DOWNLOAD) 
-            {
-                if (filekey.length != 40)
-                    continue;
+            var now = new Date();
+            var t=30000;
+            if (filekey.length!=40||(Nakido.uptime>10&&Nakido.downloads[filekey+'l']&&Nakido.downloads[filekey+'l']>now))continue;
+            Nakido.downloads[filekey+'l']=new Date(now.getTime()+t);
 
-                var g=N_DOWNLOAD[filekey];
-                var p = 0;
-                var b;
-                if(g.length>2)
-                {
-                    b=g.split("#");
-                    p=b[2];
-                }
+            var p;
+            var b=Nakido.downloads[filekey].split('#');
+            if(b)p=b[2];
 
-                var now = new Date();
-                var js = document.getElementById('nakidojs' + n);
-                if (js)
-                {
-                    document.getElementsByTagName('head')[0].removeChild(js);
-                    js=null;
-                }
-                if (p==100&&document.getElementById(filekey)&&document.getElementById(filekey).innerHTML.indexOf('100%')!=-1)continue;
-
-                js = document.createElement("script");
-                js.id = 'nakidodjs' + n;
-                js.src = 'http://127.0.0.1:6666/ctrl/GET/' + filekey + '?' + now.getFullYear() + now.getMonth() + now.getDay() + now.getHours() + now.getMinutes() + now.getSeconds();
-                js.type = 'text/javascript';
-                document.getElementsByTagName('head')[0].appendChild(js);
-                
-                if(g=='0#0#0#')
-                {
-                    var js = document.getElementById(filekey);
-                    if (js)
-                        js.innerHTML = 'Searching...';
-                    js = document.getElementById(filekey + 'download_img');
-                    if (js)
-                        js.width = 0;
-                }
-                else if(g.length>2)
-                {
-                    var js = document.getElementById(filekey);
-                    if (js)
-                    {
-                        if (p == '100')
-                        {
-                            js.innerHTML = '<b>' + p + '%</b>';
-                            if (dlurl)
-                                js.innerHTML += ' [<a href="' + 'http://127.0.0.1:6666' + dlurl + '"><b>Save File</b></a>]';
-                        }
-                        else if (b[0] != '0' && b[1] != '0')
-                            js.innerHTML = '<b>' + p + '%</b> (' + getsize(b[0]) + '/' + getsize(b[1]) + ')';
-                    }
-                    js = document.getElementById(filekey + 'download_img');
-                    if (js)
-                        js.width = (p.replace(/%/,"")/100*200);
-                }
-                
-                n++;
-            }
+            var htmls=document.getElementsByTagName('head');
+            var js = document.getElementById('ndl'+filekey);
+            if (js) htmls[0].removeChild(js);
+            js=createjscript('ndl'+filekey,'http://127.0.0.1:6666/ctrl/GET/' + filekey + '?' + now.getFullYear() + now.getMonth() + now.getDay() + now.getHours() + now.getMinutes() + now.getSeconds());
+            htmls[0].appendChild(js);
         }
     }
-    function GetNakidoDownloadStatus()
+
+    function UpdateDLStatus()
     {
-        if (!detected)
+        for (var filekey in Nakido.downloads)
         {
-            setTimeout('GetNakidoDownloadStatus()',3000);
-            return;
+            if (filekey.length!=40)continue;
+            var g=Nakido.downloads[filekey];
+            var p='0';
+            var b0='0';
+            var b1='0';
+            if(g&&g.length>=3)
+            {
+                var b=g.split('#');
+                if(b){ b0=b[0]; b1=b[1]; p=b[2]; }
+            }
+
+            var js=document.getElementById(filekey);
+            if(!js){}
+            else if(!Nakido.detected)
+            {
+                if (js) js.innerHTML = '<a href="/nakido.exe" onclick="return CheckNakidoExists(true);" ><b><font color=CC0000>No Nakido Flag Detected</font></b></a>';
+                js = document.getElementById(filekey + 'download_img');
+                if (js) js.width = 0;
+            }
+            else if(p=='0'&&b0=='0'&&b1=='0')
+            {
+                if (js) js.innerHTML = 'Searching...';
+                js=document.getElementById(filekey + 'download_img');
+                if (js) js.width = 0;
+            }
+            else if(p!='0'||b0!='0'||b1!='0')
+            {
+                js.innerHTML = '<b>' + p + '%</b>';
+                if (b1!='0')
+                {
+                    js.innerHTML += ' (' + getsize(b0) + '/' + getsize(b1) + ')';
+                    if (dlurl) js.innerHTML += ' [<a href="' + 'http://127.0.0.1:6666' + dlurl + '"><b>Save</b></a>]';
+                }
+
+                if (p=='100') if (document.getElementById('preview'))js.innerHTML += ' [<a href="javascript:void(0)" onclick="showpreview();"><b>Preview</b></a>]';
+
+                js=document.getElementById(filekey + 'download_img');
+                if (js) js.width = (p/100*200);
+            }
         }
-        
-        UpdateDLStatus();        
-        setTimeout('GetNakidoDownloadStatus()',3000);
     }
 
     function doload()
     {
         setTimeout('PopAds()', 3000);
-        GetNakidoDownloadStatus();
+        GetNakidoStatus();
     }
 
     function Down(id,action,e) 
@@ -315,7 +336,7 @@ var PLATFORM_OTHER    = 0;
 	        Close(id);
 		    return;
 	    }
-	    var nakidoflagurl = '/nakidosetups.exe';
+	    var nakidoflagurl = '/nakido.exe';
 	    if (gPlatform == PLATFORM_MACOSX)
 	        nakidoflagurl = '/nakido.dmg';
 	    else if (gPlatform == PLATFORM_LINUX)
@@ -340,66 +361,65 @@ var PLATFORM_OTHER    = 0;
     {
      var p=document.getElementById(pop);
      if(p){
-     p.style.visibility = "visible";
-     p.focus();}
+        var dsocleft=ie? document.body.scrollLeft : pageXOffset;
+        var dsoctop=ie? document.body.scrollTop : pageYOffset;
+        var window_width=ieNOTopera? document.body.clientWidth : window.innerWidth-20;
+        var window_height=ieNOTopera? document.body.clientHeight : window.innerHeight;
+        p.style.left = (parseInt(dsocleft)+window_width-p.offsetWidth)/2;
+        p.style.top = (parseInt(dsoctop)+window_height-p.offsetHeight)/2;
+         p.style.visibility = "visible";
+         p.focus();
+        }
     }
 
-    function CheckNakidoDownloadLink()
+    function CheckNakidoExists(pop)
     {
-        CheckNakido();
-        if (!detected)
+        if (!Nakido.detected)
         {
-            showPopDiv("popdivdl");
+            if(pop)showPopDiv("popdivdl");
             return false;
         }
         return true;
     }
 
-    function CheckNakido()
-    {
-        if (!checked)
-            GetNakidoStatus();
-        UpdateNakidoStatus();
-    }
+    TimedNakidoStatus();
 
-    CheckNakido();
-
-var r=false;
+var rpf=false
 function punchorflush(a)
 {
-   r=false;
+   rpf=false;
    if(window.XMLHttpRequest)
    {
-      r=new XMLHttpRequest();
-      if(r.overrideMimeType)
+      rpf=new XMLHttpRequest();
+      if(rpf.overrideMimeType)
       {
-         r.overrideMimeType('text/xml');
+         rpf.overrideMimeType('text/xml');
       }
    } else if(window.ActiveXObject)
    {
       try 
       {
-         r=new ActiveXObject("Msxml2.XMLHTTP");
+         rpf=new ActiveXObject("Msxml2.XMLHTTP");
       }
       catch(e)
       {
          try
          {
-            r=new ActiveXObject("Microsoft.XMLHTTP");
+            rpf=new ActiveXObject("Microsoft.XMLHTTP");
          }
          catch(e)
          {
          }
        }
     }
-    if(!r)
+    if(!rpf)
     {
        return false;
     }
     
-    r.onreadystatechange=o;
-    r.open('GET',a,true);
-    r.send(null);
+    rpf.onreadystatechange=opf;
+    rpf.open('GET',a,true);
+    rpf.send(null);
     return false;
 }
 
@@ -413,30 +433,113 @@ function flush(k)
     return punchorflush('/flush/' + k);
 }
 
-function o()
+function opf()
 {
-   if(r.readyState==4)
+   if(rpf.readyState==4)
    {
-      if(r.status==200)
+      if(rpf.status==200)
       {
-        var g=r.responseText;
-        var b=g.split("#");
-        if (document.getElementById('punch'+b[0]))
-            document.getElementById('punch'+b[0]).innerHTML=b[1];
-      }
-      else
-      {
+        if(rpf.responseText)
+        {
+            var b=rpf.responseText.split('#');
+            var p=document.getElementById('punch'+b[0]);
+            if (b[1]!='-1'&&p)p.innerHTML=b[1];
+        }
       }
    }
 }
 
-</script><script id="nakidojs" src="http://127.0.0.1:6666/ctrl/STATUS?202005164827" type="text/javascript"></script>
+var coins = 10000;
 
+function adclicked()
+{
+    if (setmessage)setmessage('msg_pop0', '#00FF00', 10000);
+    if (document.getElementById('coin')&&coins){
+        coins+=10;
+        new Effect.Shake(document.getElementById('coin'));
+    }
+}
 
+function DoEffect()
+{
+    var i;
+    for (i = 0; i <= 0; i++) {
+        var j = document.getElementById('pulsate' + i);
+        if (j)
+            new Effect.Pulsate(j);
+    }
 
-</head>
+    for (i = 0; i <= 0; i++) {
+        var j = document.getElementById('puff' + i);
+        if (j)
+            new Effect.Puff(j);
+    }
+
+    for (i = 0; i <= 0; i++) {
+        var j = document.getElementById('shake' + i);
+        if (j)
+            new Effect.Shake(j);
+    }
+setTimeout('DoEffect()',12000);
+}
+DoEffect();
+
+</script><script id="ndetect" src="http://127.0.0.1:6666/ctrl/www?202005164842" type="text/javascript"></script></head>
 
 <body topmargin="0" marginheight="0" marginwidth="0" onload="doload()">
+<script type="text/javascript">
+var msg_pop_obj = new Array(1);
+var msg_pop = new Array(1);
+msg_pop['msg_pop0']='<table border="0"><tr><td valign="middle"><b><nobr>+10</nobr></b></td><td height="16"><img src="/images/coin.gif" border="0" height="16" width="16"></td><td><nobr>: <font color="#444444"><b>Thank you for visiting our sponsor!</b></font></nobr></td></tr></table>';
+                            document.write('<div id="msg_pop0" style="position:absolute;visibility:hidden;">' + msg_pop['msg_pop0'] + '</div>');
+                            msg_pop_obj['msg_pop0']=ie? document.all.topmsg : document.getElementById? document.getElementById("msg_pop0") : document.topmsg;
+var ie=document.all;
+var ieNOTopera=document.all&&navigator.userAgent.indexOf("Opera")==-1;
+var mid;
+
+function positionit(){
+if(!msg_pop_obj[mid])return;
+var dsocleft=ie? document.body.scrollLeft : pageXOffset;
+var dsoctop=ie? document.body.scrollTop : pageYOffset;
+var window_width=ieNOTopera? document.body.clientWidth : window.innerWidth-20;
+var window_height=ieNOTopera? document.body.clientHeight : window.innerHeight;
+
+msg_pop_obj[mid].style.left=(parseInt(dsocleft)+window_width-msg_pop_obj[mid].offsetWidth)/2;
+msg_pop_obj[mid].style.top=(parseInt(dsoctop)+window_height-msg_pop_obj[mid].offsetHeight)/2;
+msg_pop_obj[mid].style.visibility = "visible";
+msg_pop_obj[mid].focus();
+}
+
+function setmessage(msgid, bkclr, duration){
+if (mid!=''&&msg_pop_obj[mid])msg_pop_obj[mid].style.visibility='hidden';
+mid=msgid;
+if(!msg_pop_obj[mid])return;
+if (document.layers){
+msg_pop_obj[mid]=new Layer(window.innerWidth);
+msg_pop_obj[mid].bgColor=bkclr;
+if (document.layers)
+setTimeout("window.onresize=regenerate",400);
+msg_pop_obj[mid].document.write(msg_pop[mid]);
+msg_pop_obj[mid].document.close();
+positionit();
+msg_pop_obj[mid].visibility="show";
+if (duration!=0)
+setTimeout("msg_pop_obj[mid].visibility='hide';mid='';",duration);
+}
+else{
+positionit();
+msg_pop_obj[mid].style.backgroundColor=bkclr;
+msg_pop_obj[mid].style.visibility="visible";
+if (duration!=0)
+setTimeout("msg_pop_obj[mid].style.visibility='hidden';mid='';",duration);
+}
+setInterval('positionit()' ,100);
+}
+
+  
+
+</script><div id="msg_pop0" style="position:absolute;visibility:hidden;"><table border="0"><tbody><tr><td valign="middle"><b><nobr>+10</nobr></b></td><td height="16"><img src="/images/coin.gif" border="0" height="16" width="16"></td><td><nobr>: <font color="#444444"><b>Thank you for visiting our sponsor!</b></font></nobr></td></tr></tbody></table></div>
+
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
     <td align="center" valign="top">
@@ -448,39 +551,46 @@ function o()
             <td width="20" height="90"></td>
             <td width="240" valign="top"><table width="240" border="0" cellspacing="0" cellpadding="0">
                 <tbody><tr>
-                  <td width="240"><a href="/"><img src="http://img.nakido.com/images/nakido_logo.gif" width="240" height="90" border="0"></a></td>
+                  <td width="240"><a href="/"><img src="/images/nakido_logo.gif" width="240" height="90" border="0"></a></td>
                 </tr>
               </tbody></table>
 			  </td>
-              <td width="600" valign="top" align="right">
+            <td width="210" valign="top"><table width="200" border="0" cellspacing="0" cellpadding="0">
+                <tbody><tr><td><img src="/images/spacer.gif" height="13"></td></tr>
+                <tr><td class="small_text">Version: <b><a href="javascript:void(0)" title="Your version of Nakido Flag."><span id="nakido_version">-</span></a><a>/</a><a href="javascript:void(0)" title="Current version of Nakido Flag.">1.77</a></b></td></tr>
+                <tr><td class="small_text">Connected: <b><a href="javascript:void(0)" title="Check your internet connection or firewall if not connected."><span id="nakido_connected">No</span></a></b></td></tr>
+                <tr><td class="small_text">Uptime: <b><a href="javascript:void(0)" title="Current uptime of Nakido Flag."><span id="nakido_uptime">-</span></a></b></td></tr>
+              </tbody></table>
+			  </td>
+              <td width="330" valign="top" align="right">
 			  <table width="330" height="90" border="0" cellpadding="0" cellspacing="0">
                 <tbody><tr>
                   <td height="50" align="right" valign="top">
 						<form name="searchForm" method="get" action="/search">
 						<table width="100%" height="100%" cellpadding="0" cellspacing="0">
-						  <tbody><tr><td height="12"><img src="http://img.nakido.com/images/spacer.gif" height="12"></td>
+						  <tbody><tr><td height="12"><img src="/images/spacer.gif" height="12"></td>
 						</tr><tr><td valign="top">
 						<table width="170" cellpadding="0" cellspacing="0">
 						  <tbody><tr><td>
 							<input name="q" type="text" class="search_field" tabindex="10000" value="" maxlength="128"></td><td>
-							    <input type="image" src="http://img.nakido.com/images/search_button.gif" align="middle">
+							    <input type="image" src="/images/search_button.gif" align="middle">
 							</td>
 						  </tr></tbody></table></td></tr></tbody></table>
 						</form>
 				  </td>
 				  <td height="50" align="right" valign="middle">
-					<a href="/intl/"><img src="http://img.nakido.com/images/top_menu/language.gif" width="140" height="50" border="0"></a></td>
+					<a href="/intl/"><img src="/images/top_menu/language.gif" width="140" height="50" border="0"></a></td>
                 </tr>
                 <tr>
                   <td width="400" height="30" colspan="2" align="right" valign="bottom" class="small_text">
                     <a href="/signup/membership/"><b>Sign up</b></a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/login/">Login</a>&nbsp;&nbsp;
                 </td></tr>
-				<tr><td height="10" colspan="2"><img src="http://img.nakido.com/images/spacer.gif" height="10"></td>
+				<tr><td height="10" colspan="2"><img src="/images/spacer.gif" height="10"></td>
 				</tr>
               </tbody></table>
 
 			  </td>
-            <td width="5"><img src="http://img.nakido.com/images/spacer.gif" width="5" height="1"></td>
+            <td width="5"><img src="/images/spacer.gif" width="5" height="1"></td>
           </tr>
         </tbody></table>
         </td>
@@ -489,74 +599,53 @@ function o()
 	  <table cellpadding="0" cellspacing="0">
 	    <tbody><tr><td><table width="100%" border="0" cellspacing="0" cellpadding="0">
           <tbody><tr>
-            <td width="10"><img src="http://img.nakido.com/images/spacer.gif" width="10" height="1"></td>
-            <td width="40"><img src="http://img.nakido.com/images/top_bar/top_bar_01.gif" width="40" height="60"></td>
+            <td width="10"><img src="/images/spacer.gif" width="10" height="1"></td>
+            <td width="40"><img src="/images/top_bar/top_bar_01.gif" width="40" height="60"></td>
             <td width="247"><table width="247" border="0" cellspacing="0" cellpadding="0">
                 <tbody><tr>
-                  <td width="200"><img src="http://img.nakido.com/images/top_bar/top_bar_02.gif" width="247" height="24"></td>
+                  <td width="200"><img src="/images/top_bar/top_bar_02.gif" width="247" height="24"></td>
                 </tr>
                 <tr>
-                  <td><a href="/status"><img id="detect" src="http://img.nakido.com/images/top_bar/nakido_flag_detected_bg.gif" width="247" height="26" border="0"></a></td>
+                  <td><img id="detect" src="/images/top_bar/no_nakido_flag_detected.gif" width="247" height="26" border="0"></td>
                 </tr>
                 <tr>
-                  <td><img src="http://img.nakido.com/images/top_bar/top_bar_08.gif" width="247" height="10"></td>
+                  <td><img src="/images/top_bar/top_bar_08.gif" width="247" height="10"></td>
                 </tr>
             </tbody></table></td>
-            <td width="113"><img src="http://img.nakido.com/images/top_bar/top_bar_05.gif" width="113" height="60"></td>
+            <td width="113"><img src="/images/top_bar/top_bar_05.gif" width="113" height="60"></td>
             <td width="380"><table width="380" border="0" cellspacing="0" cellpadding="0">
                 <tbody><tr>
-                  <td><img src="http://img.nakido.com/images/top_bar/top_bar_06.gif" width="380" height="24"></td>
+                  <td><img src="/images/top_bar/top_bar_06.gif" width="380" height="24"></td>
                 </tr>
                 <tr>
                   <td><table width="380" border="0" cellspacing="0" cellpadding="0">
                       <tbody><tr>
-                        <td><a href="/download/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image117','','/images/top_bar/get_nakido_button-over.gif',1)"><img src="http://img.nakido.com/images/top_bar/get_nakido_button.gif" alt="" name="Image117" width="170" height="26" border="0"></a></td>
-                        <td><a href="/download#windows" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image118','','/images/top_bar/get_nakido_window-over.gif',1)"><img src="http://img.nakido.com/images/top_bar/get_nakido_window.gif" name="Image118" width="70" height="26" border="0"></a></td>
-                        <td><a href="/download#mac" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image119','','/images/top_bar/get_nakido_mac-over.gif',1)"><img src="http://img.nakido.com/images/top_bar/get_nakido_mac.gif" name="Image119" width="70" height="26" border="0"></a></td>
-                        <td><a href="/download#linux" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image120','','/images/top_bar/get_nakido_linux-over.gif',1)"><img src="http://img.nakido.com/images/top_bar/get_nakido_linux.gif" name="Image120" width="70" height="26" border="0"></a></td>
+                        <td><a href="/download/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image117','','/images/top_bar/get_nakido_button-over.gif',1)"><img src="/images/top_bar/get_nakido_button.gif" alt="" name="Image117" width="170" height="26" border="0"></a></td>
+                        <td><a href="/nakido.exe" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image118','','/images/top_bar/get_nakido_window-over.gif',1)"><img src="/images/top_bar/get_nakido_window.gif" name="Image118" width="70" height="26" border="0"></a></td>
+                        <td><a href="/nakido.dmg" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image119','','/images/top_bar/get_nakido_mac-over.gif',1)"><img src="/images/top_bar/get_nakido_mac.gif" name="Image119" width="70" height="26" border="0"></a></td>
+                        <td><a href="/download#linux" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image120','','/images/top_bar/get_nakido_linux-over.gif',1)"><img src="/images/top_bar/get_nakido_linux.gif" name="Image120" width="70" height="26" border="0"></a></td>
                       </tr>
                   </tbody></table></td>
                 </tr>
                 <tr>
-                  <td><img src="http://img.nakido.com/images/top_bar/top_bar_10.gif" width="380" height="10"></td>
+                  <td><img src="/images/top_bar/top_bar_10.gif" width="380" height="10"></td>
                 </tr>
             </tbody></table></td>
-            <td width="20"><img src="http://img.nakido.com/images/top_bar/top_bar_07.gif" width="20" height="60"></td>
-            <td width="10"><img src="http://img.nakido.com/images/spacer.gif" width="10" height="1"></td>
+            <td width="20"><img src="/images/top_bar/top_bar_07.gif" width="20" height="60"></td>
+            <td width="10"><img src="/images/spacer.gif" width="10" height="1"></td>
           </tr>
-        </tbody></table></td></tr><tr><td><table width="100%" cellspacing="0" cellpadding="0">
-              <tbody><tr>
-                <td width="10" height="30"><img src="http://img.nakido.com/images/spacer.gif" width="10" height="1"></td>
-                <td width="800" height="30" align="center" valign="middle" background="http://img.nakido.com/images/big_banner_bg.gif" bgcolor="#666666">
-			    <table width="100%" cellpadding="0" cellspacing="0">
-			      <tbody><tr><td height="5"></td>
-			      </tr><tr><td align="center">
-			    <table height="100" cellpadding="5" cellspacing="0" class="ad_border_big">
-                  <tbody><tr valign="middle">
-                    <td width="330" align="center"><iframe src="/ads.aspx?adHeadlineClr=FFFF66&amp;adTextClr=FFFFFF&amp;adYourAdClr=CCCCCC&amp;adBgClr=666666&amp;adYourAdHere=1&amp;l=en&amp;c=US&amp;col=1&amp;row=1&amp;horz=0&amp;width=728&amp;height=90&amp;fontsizeHeadline=16&amp;fontsizeText=12&amp;b728x90=1&amp;ts=6_27_2007_5_33_11_PM" width="728" height="90" frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no"></iframe>
-                    </td>
-                  </tr>
-                </tbody></table>
-			    </td>
-			      </tr>
-			    <tr><td height="5"></td>
-			    </tr></tbody></table>
-			    </td>
-                <td width="10" height="30"><img src="http://img.nakido.com/images/spacer.gif" width="10" height="1"></td>
-              </tr>
-            </tbody></table></td>
-		    </tr><tr><td height="1"><table border="0" cellpadding="0" cellspacing="0" width="820"><tbody><tr><td width="10"></td>
+        </tbody></table></td></tr><tr><td width="10"></td>
           <td width="800" align="center" bgcolor="#666666">          </td>
           <td width="10"></td>
           </tr>
 				</tbody></table>			</td>
 		</tr>
 		<tr><td><table cellpadding="0" cellspacing="0">
-		  <tbody><tr><td><img src="http://img.nakido.com/images/spacer.gif" width="10" height="1"></td><td background="http://img.nakido.com/images/tab/tab_bg.gif"><img src="http://img.nakido.com/images/spacer.gif" width="10" height="1"></td>
-		<td width="800" height="30" align="center" background="http://img.nakido.com/images/tab/tab_bg.gif">
+		  <tbody><tr><td><img src="/images/spacer.gif" width="10" height="1"></td><td bgcolor="#D5D5D5"><img src="/images/spacer.gif" width="10" height="1"></td>
+		<td width="800" height="30" align="center" bgcolor="#D5D5D5">
         <div id="gNavDiv"><div class="tab">
 			    <div class="tabContent">
-			    <a href="/">My Files</a>
+			    <a href="/">Files</a>
 			    </div>
 			    </div><div class="tab">
 			    <div class="tabContent">
@@ -568,18 +657,27 @@ function o()
 			    </div>
 			    </div><div class="tab">
 			    <div class="tabContent">
-			    <a href="/dl">Download Manager</a>
-			    </div>
-			    </div><div class="tab">
-			    <div class="tabContent">
 			    <a href="/download">Nakido Flag</a>
 			    </div>
 			    </div></div>
-		</td><td background="http://img.nakido.com/images/tab/tab_bg.gif"><img src="http://img.nakido.com/images/spacer.gif" width="10" height="1"></td>
-		<td><img src="http://img.nakido.com/images/spacer.gif" width="10" height="1"></td>
+		</td><td bgcolor="#D5D5D5"><img src="/images/spacer.gif" width="10" height="1"></td>
+		<td><img src="/images/spacer.gif" width="10" height="1"></td>
 		</tr></tbody></table>
-		</td></tr>
-        <!-- msg -->
+		</td></tr><!-- ads -->
+		<tr>
+			<td>
+				<table border="0" cellpadding="0" cellspacing="0" width="820"><tbody><tr><td width="10"></td><td bgcolor="#000000">
+				<iframe src="/ads?adHeadlineClr=FF9900&amp;adTextClr=000000&amp;adYourAdClr=000000&amp;adBgClr=000000&amp;adYourAdHere=0&amp;l=en&amp;c=US&amp;col=1&amp;row=1&amp;horz=0&amp;center=0&amp;width=800&amp;height=25&amp;leftmargin=0&amp;topmargin=0&amp;fontsizeHeadline=14&amp;ts=12_15_2007_6_19_50_PM_282395528" width="800" height="25" frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no"></iframe>
+                </td></tr>
+            <tr>
+		    <td width="10"></td>
+          <td align="center" bgcolor="#d7d7d7">
+          </td>
+          <td width="10"></td>
+          </tr>
+				</tbody></table>
+			</td>
+		</tr><!-- msg -->
 		<tr>
 			<td>
 				<table border="0" cellpadding="0" cellspacing="0" width="820">
@@ -596,10 +694,10 @@ function o()
         <tr><td width="820" align="center" valign="top">        
 </td></tr><tr><td>
 	    <table width="820" border="0" cellspacing="0" cellpadding="0">
-          <tbody><tr><td width="10"><img src="http://img.nakido.com/images/spacer.gif" width="10" height="1"></td>
+          <tbody><tr><td width="10"><img src="/images/spacer.gif" width="10" height="1"></td>
             <td valign="top"><table width="800" border="0" cellpadding="0" cellspacing="0" bgcolor="#ffcccc">
               <tbody><tr>
-                <td><img src="http://img.nakido.com/images/privacy/pirvacy_main_image.jpg" width="800" height="130"></td>
+                <td><img src="/images/privacy/pirvacy_main_image.jpg" width="800" height="130"></td>
 
               </tr>
               <tr>
@@ -727,83 +825,135 @@ function o()
               </tr>
             </tbody></table></td>
 
-            <td width="10"><img src="http://img.nakido.com/images/spacer.gif" width="10" height="1"></td>
+            <td width="10"><img src="/images/spacer.gif" width="10" height="1"></td>
           </tr>
         </tbody></table></td></tr><tr><td align="center"><table width="820" border="0" cellspacing="0" cellpadding="0">
           <tbody><tr>
-            <td width="10"><img src="http://img.nakido.com/images/spacer.gif" width="10" height="1"></td>
-            <td width="800" height="110" align="center" valign="top" bgcolor="#efefef"><script type="text/javascript">var AdBrite_Title_Color = '663300';var AdBrite_Text_Color = 'FFFFFF';var AdBrite_Background_Color = 'CCCCCC';var AdBrite_Border_Color = '888888';</script><script src="http://ads.adbrite.com/mb/text_group.php?sid=341738&amp;zs=3436385f3630" type="text/javascript"></script></td>
-            <td width="10"><img src="http://img.nakido.com/images/spacer.gif" width="10" height="1"></td>
+            <td width="10"><img src="/images/spacer.gif" width="10" height="1"></td>
+            <td width="800" height="110" align="center" valign="top" bgcolor="#efefef"><iframe src="/ads?type=adbritebanner&amp;id=341738" width="728" height="90" frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no"></iframe></td>
+            <td width="10"><img src="/images/spacer.gif" width="10" height="1"></td>
           </tr>
         </tbody></table>
-        </td></tr>
-        <tr><td><table width="820" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td width="10">&nbsp;</td>
-    <td width="800" align="center" background="http://img.nakido.com/images/footer/footer_bg.gif" bgcolor="#CCCCCC">
-	<table width="750" cellpadding="0" cellspacing="0">
-	  <tbody><tr><td>
-	<div id="footer">
-	<div class="footer-contentsa"><div class="footer-contentsb">
-<dl>
-<dt>VIP Member</dt>
-<dd>Join our <a href="http://www.nakido.com/signup/membership/">VIP Member</a> today. <a href="http://www.nakido.com/signup/vip/ads">Join Now</a></dd>
-</dl>
-
-<dl>
-<dt>VIP Publisher</dt>
-<dd>Sign-up for our <a href="http://www.nakido.com/contact">VIP Publisher</a> membership and get your products list on Nakido.</dd>
-</dl>
-
-<dl>
-<dt>What is Nakido Flag</dt>
-<dd>Nakido Flag is a small plugin for you to download files from the Nakido community.</dd>
-</dl>
-
-<dl>
-<dt>Download Nakido Flag</dt>
-<dd>Get the latest version of Nakido Flag for Free!</dd>
-<dd>- <a href="/download">Windows</a></dd>
-<dd>- <a href="/download#mac">Mac</a></dd>
-<dd>- <a href="/download#linux">Linux</a></dd>
-</dl>
-
-<dl>
-<dt>Advertise with Us</dt>
-<dd>You can buy advertising on Nakido. Our promotional programs are flexible enough to meet your objectives, yet affordable enough to stay within your budget. <a href="http://www.nakido.com/contact">Learn More</a></dd>
-</dl>
-
-<dl class="last">
-<dt>Tell Us What You Think</dt>
-<dd>We love to hear about your experience with Nakido. <a href="http://www.nakido.com/contact">Send us a note</a> and tell us what you think about our community.</dd>
-</dl>
-
-
-</div></div>
-	</div>
-</td></tr></tbody></table>
-
-	</td>
-    <td width="10">&nbsp;</td>
-  </tr>
-</tbody></table></td></tr>
-		<tr><td align="center"><table width="820" border="0" cellspacing="0" cellpadding="0">
+        </td></tr><tr><td><table width="100%" cellspacing="0" cellpadding="0">
+              <tbody><tr>
+                <td width="10" height="30"><img src="/images/spacer.gif" width="10" height="1"></td>
+                <td width="800" height="30" align="center" valign="middle" background="/images/big_banner_bg.gif" bgcolor="#666666">
+			    <table width="100%" cellpadding="0" cellspacing="0">
+			      <tbody><tr><td height="5"></td>
+			      </tr><tr><td align="center">
+			    <table height="100" cellpadding="5" cellspacing="0" class="ad_border_big">
+                  <tbody><tr valign="middle">
+                    <td width="330" align="center"><iframe src="/ads?adHeadlineClr=FFFF66&amp;adTextClr=FFFFFF&amp;adYourAdClr=CCCCCC&amp;adBgClr=666666&amp;adYourAdHere=1&amp;l=en&amp;c=US&amp;col=1&amp;row=1&amp;horz=0&amp;width=728&amp;height=10&amp;fontsizeHeadline=16&amp;fontsizeText=12&amp;b728x90=1&amp;ts=12_15_2007_6_19_50_PM_2045469236" width="728" height="90" frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no"></iframe>
+                    </td>
+                  </tr>
+                </tbody></table>
+			    </td>
+			      </tr>
+			    <tr><td height="5"></td>
+			    </tr></tbody></table>
+			    </td>
+                <td width="10" height="30"><img src="/images/spacer.gif" width="10" height="1"></td>
+              </tr>
+            </tbody></table></td>
+		    </tr><tr><td height="1"><table border="0" cellpadding="0" cellspacing="0" width="820"><tbody><tr>
+		</tr><tr><td align="center"><table width="820" border="0" cellspacing="0" cellpadding="0">
           <tbody><tr>
-            <td width="10"><img src="http://img.nakido.com/images/spacer.gif" width="10" height="1"></td>
-            <td width="800" height="50" valign="top" background="http://img.nakido.com/images/bottom_bar/bottom_bar.gif"><table width="800" border="0" cellpadding="0" cellspacing="0" class="">
-                <tbody><tr><td><img src="http://img.nakido.com/images/spacer.gif" width="1" height="10"></td></tr>
+            <td width="10"><img src="/images/spacer.gif" width="10" height="1"></td>
+            <td width="800" height="50" valign="top" background="/images/bottom_bar/bottom_bar.gif"><table width="800" border="0" cellpadding="0" cellspacing="0" class="">
+                <tbody><tr><td><img src="/images/spacer.gif" width="1" height="10"></td></tr>
                 <tr><td align="center" valign="middle" class="small_text"><a href="http://www.nakido.com/download/">Download</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.nakido.com/about">About us</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.nakido.com/contact">Contact Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.nakido.com/ts">Terms of Service</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.nakido.com/pv">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.nakido.com/why">FAQs</a>&nbsp;&nbsp;&nbsp;&nbsp;Copyright ©2007&nbsp;&nbsp;<a href="http://www.nakido.com">Nakido</a></td></tr>
             </tbody></table></td>
-            <td width="10"><img src="http://img.nakido.com/images/spacer.gif" width="10" height="1"></td>
+            <td width="10"><img src="/images/spacer.gif" width="10" height="1"></td>
           </tr>
         </tbody></table></td></tr>
 		</tbody></table>
 		</td></tr>
     </tbody></table></td>
   </tr>
-</tbody></table><script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</tbody></table><div name="popdivdl" id="popdivdl" onkeypress="Down('popdivdl','nakidoflag',event);" style="visibility:hidden;z-index:1;position:absolute;top:0px;left:0px;">
+	<table cellpadding="0" cellspacing="0" width="362" height="126">
+		<tbody><tr>
+			<td>
+				<table cellpadding="0" cellspacing="0" width="362" height="29" style=" BACKGROUND-IMAGE:URL('/images/popdlg/xptop.gif'); height:29px; width:362;"> <!--win top table-->
+					<tbody><tr>
+						<td style="color:#cc0000; font-family:verdana; font-size:12px;font-weight:bold; padding-left:4px;padding-top:1px">&nbsp;&nbsp;&nbsp;No Nakido Flag Detected</td>
+						<td width="21" style="padding-right:6px;"><img src="/images/popdlg/xpclose.gif" width="21" height="21" onclick="Close('popdivdl');"></td>
+					</tr>
+				</tbody></table>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<table cellpadding="0" cellspacing="0" height="97">
+					<tbody><tr>
+
+						<td>
+							<table cellpadding="0" cellspacing="0">
+								<tbody><tr>
+									<td>
+										<img src="/images/popdlg/xpleftclm.gif">
+									</td>
+								</tr>
+							</tbody></table>
+						</td>
+						<td valign="top">
+							<table width="356" cellpadding="0" cellspacing="0" background="/images/popdlg/db_bg_flag.gif" bgcolor="#cccccc">
+								<tbody><tr>
+									<td>
+										<table cellpadding="0" cellspacing="0" height="59">
+											<tbody><tr>
+												<td align="center" style="font-size:12px;  font-family:Arial; padding-left:30px; padding-right:15px;"><strong>Click OK to download a free Nakido Flag plugin for fast and unlimited download</strong></td>
+											</tr>
+
+										</tbody></table>
+									</td>
+								</tr><tr>
+									<td>
+										<table align="center" cellpadding="0" cellspacing="6" height="22">
+											<tbody><tr height="22">
+												<td></td>
+												<td>
+												</td><td><input type="button" value="OK" onclick="Down('popdivdl','nakidoflag');" style="font-size:11px;  font-family:Arial; height:23px; width:72px;" tabindex="1" id="Button1" name="Button1"></td>
+												<td>
+												</td><td></td>
+											</tr>
+										</tbody></table>
+									</td>
+								</tr>
+								<tr>
+									<td>
+										<table cellpadding="0" cellspacing="0" width="100%">
+											<tbody><tr bgcolor="#cccccc" style="height:1px;">
+												<td></td>
+											</tr>
+											<tr bgcolor="#ffffff" style="height:1px;">
+												<td></td>
+											</tr>
+											<tr bgcolor="#999999" style="height:1px;">
+												<td></td>
+											</tr>
+										</tbody></table>
+									</td>
+								</tr>
+						  </tbody></table>
+						</td>
+						<td>
+							<table cellpadding="0" cellspacing="0">
+								<tbody><tr>
+									<td>
+										<img src="/images/popdlg/xprightclm.gif">
+									</td>
+								</tr>
+							</tbody></table>
+						</td>
+					</tr>
+				</tbody></table>
+			</td>
+		</tr>
+	</tbody></table>
+</div><script>Drag.init(document.getElementById("popdivdl"));</script><script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
 </script>
 <script type="text/javascript">
 _uacct = "UA-1603265-1";
 urchinTracker();
-</script></body></html>
+</script><script type="text/javascript" src="http://ads.adbrite.com/mb/text_group.php?sid=360705&amp;br=1&amp;dk=7469636b6574735f305f325f776562"></script></body></html>
