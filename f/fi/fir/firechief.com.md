@@ -1,42 +1,94 @@
-> *The following text is extracted and transformed from the firechief.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205194659id_/http%3A//www.prismb2b.com/company/privacy.asp%3Fpage%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firechief.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215180756id_/http%3A//www.penton.com/Pages/PrivacyStatement.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Statement
 
-**Policy Updated: Effective July 16, 2004**
+**Scope**  
+Penton Media, Inc. considers your privacy important. We are committed to protecting the privacy of all those who provide us with their contact information while using our information, products, events, or services. This policy describes the ways that personally identifiable and anonymous information about our publication subscribers, online media product users, and event registrants is collected, how that information might be shared, and how someone can request changes to the way their personal information is used or shared.
 
-Since your privacy is a priority to us, we have provided this detailed policy statement about privacy and information dissemination practices related to Prism Business Media products. Of course, our site visitors may enjoy many of our features and activities without providing any personal information. 
+This privacy statement applies to websites operated by or on behalf of Penton Media, Inc., its divisions, and subsidiaries.
 
-**Information Collection & Use:**
+ **Information You Volunteer**  
+Personally identifiable information is information that can identify you, such as your full name, email address, postal address, telephone number, and fax number.
 
-(1) When you register for one of our products (subscription forms, site memberships, trade show attendance, newsletter subscriptions, etc.), our forms may ask for contact and demographic information. This information is used to send news about our products or promotional material from other carefully screened businesses. You will be able to opt-out of receiving any mailings. In addition, demographic information may be used to customize the display of our sites to you by showing content that we think might be of interest or related to your past visits. You will be able to opt-out of any mailings.
+We collect personally identifiable information that you choose to provide to us when you subscribe to our magazines (either directly or through another company such as a subscription agency); sign up for email newsletters; enter a contest; participate in surveys; register for a web site, webcast, or tradeshow; or otherwise communicate with us. When you provide this information to us, you are no longer anonymous. We also may receive information about you from other sources and add it to the information you have provided to us.
 
-(2) Your browser offers so-called "cookies" which -- if you allow their use -- store small amounts of data on your computer about your visit to any of our sites. Cookies assist us in tracking which of our features you like best. And when you re-visit our sites, cookies can enable us to customize our content according to your preferences. Cookies tell us nothing about you personally unless you specifically give us additional information. Our sites are viewable even if you a user disable the cookie function within your Web browser. However, some advanced features use cookies to assist in keeping track of your location within the site in order to provide navigational trails and similar navigational features. These cookies are not used to personally identify your surfing patterns, and are merely used to provide navigation links. Disabling your cookies simply means that some of these features will not have custom navigation available to you.
+If you purchase products or services on our website or through one of our printed forms, you may choose to provide us with your credit card information.
 
-(3) Some of the banner ads displayed in our sites are provided by outside companies. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies associated with banner ads are collected by our advertisers and we do not have access to this information. Cookies in and of themselves do not contain any personally identifiable information about you.
+Penton Media, Inc. is not responsible for the information you volunteer about yourself in discussions in our forums or in publicly accessible interactions, or the information that you choose to make public in your member profile. To view or change your member profile, please return to the Penton business site where you registered.
 
-**Information Sharing & Disclosure:**
+ **Anonymous Information We Collect**  
+We use cookies and other Internet technologies to enrich your online experience by managing our website and email programs. Our cookies do not contain any information, in itself, that is personally identifiable. 
 
-Certain information—such as your password and credit card number—is not disclosed in any form whatsoever to any outside party. Other information: While we will primarily use your email address to contact you when your subscription is up for renewal or to provide you additional information regarding your trade show registration, there are a few other types of messages we may want to send you, either by email or other means. These might include (but aren’t limited to) announcements regarding other Prism Business Media products or services, and special offers from carefully selected, relevant third party businesses and organizations. You will be able to opt-out of any such mailings. In addition, we do share non-personal, aggregate statistics about our customers, sales, demographics, traffic patterns, and related site information with advertisers and reputable third party vendors for marketing and promotional purposes; however, none of the information we disclose in this aggregate form can be used to personally identify you.
+**Cookies**  
+If your browser is set to allow cookies, we may store small amounts of information on your computer about what parts of our websites you have visited and what features you like best. We may then tailor the content you see to match your interests. We also may use cookies to identify members so that they don't have to re-enter their usernames and passwords. Cookies may also be used to limit the number of advertisements you see while on our site. By allowing us to understand how you use our site over time, cookies can help us provide you with a better, more relevant online experience.
 
-**Terms of Use:** By using our Web sites, you consent to the collection and use of your information by Prism Business Media within the policies stated above. If we decide to change our privacy policy, we will post changes on this page so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it. As with all areas of our sites, Prism Business Media welcomes your questions and comments. If you have any questions or concerns about our stated privacy policies, or if you wish to review or request changes to your information, please contact us at [privacypolicy@prismb2b.com](mailto:privacypolicy@prismb2b.com). 
+The cookies we store on your computer are not accessible on any other companies' websites.
 
-Copyright 2005 Prism Business Media. All rights reserved.
+Some ads on our site are provided by outside companies. If ads these contain cookies, they can be accessed only by those advertisers; we do not have access to them.
 
-_Privacy Policy for subscribers of print magazines_
+Most browsers allow you to modify your security to accept or reject cookies. You need not have cookies turned on to visit our site, but without them, your access to some areas may be limited and custom navigation may not be available to you.
 
-Because we are concerned about honoring your privacy, we want to let you know how we may use the e-mail address that you provide on your subscription/renewal forms. While we will primarily use your email address to contact you when your subscription is up for renewal and to send you online newsletters related to your subscription, there are a few other types of e-mail messages we may want to send you: 
+ **Pixel Tags**  
+Like many websites, Penton Media, Inc. may use pixel tags, also known as web beacons, clear gifs, or web bugs. Pixel tags help us improve our understanding of our web traffic and visitor behavior, as well as gauge the response to our promotional efforts. This information is non-personally identifiable and is used for an aggregate picture of how visitors use our site.
 
-  * Research surveys/polls 
-  * Announcements regarding other Prism Business Media-related products or services. 
-  * Email messages with special offers from other carefully selected, relevant businesses and organizations. 
+If you wish, you may disable pixel tags by setting your browser to omit images and disable Javascript. 
+
+**Online Ad Serving**  
+We use industry-standard, third party advertising service companies to serve advertisements when you visit our sites or open our emails. These companies may use cookies, pixel tags, and other methods to collect information (typically not including your name, address, email address or telephone number)about your visits to our and other web sites to provide you with relevant advertisements about products, services, and events during your visit to our website. They can also provide us with aggregate pictures of traffic patterns, help us improve site experience, help advertisers better understand our services, and monitor advertising  
+efforts.
+
+If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://networkadvertising.org/consumer/opt_out.asp) to visit the Network Advertising Initiative's website, of which one of our partners, TACODA, is a member. You can also learn how to opt out of third-party advertisers' tracking methods in conjunction with links, online ads, etc. by visiting the advertisers' sites.
+
+ **How We Use Your Contact Information**  
+We may use your contact information for any of the following reasons:
+
+  * to send you notices for subscription renewal
+  * to provide you with information about products or services you've ordered, including web events and tradeshows
 
 
 
-All commercial/promotional email messages you receive directly from us will include an option for you to unsubscribe from future promotions of that type from that publication.
+We may also use your contact information to ask for your input to help in our research about our services, events, or products or to provide you with additional information about this site and about other Penton Media products, services, or events that we think might be of interest to you.
 
-**Privacy Policy concerning links within email newsletters:**   
-From time to time our sponsors wish to contact our subscribers who have indicated an interest in the products, services or events publicized in a particular newsletter. If you do NOT wish to have your email address shared with that newsletter's sponsors,  you will be given an opportunity within the newsletter to opt-out or you may contact our customer service department at the number/email listed below.
+All promotional and research email messages you receive from us will include an option to opt out of future email communications from that particular Penton Media, Inc. business. 
 
-**If you have any other questions about our subscription privacy policy, please contact our subscription department at[subs@prismb2b.com](mailto:subs@prismb2b.com) or by calling 1-866-505-7173.**
+We may also to send you e-newsletters with targeted, relevant content. Each e-newsletter will provide you with an opportunity to opt out of that particular e-newsletter.
 
- ** **
+In some cases, we may send you relevant, carefully-screened offers from reputable third party businesses or organizations. Many of our customers appreciate receiving these offers because they relate to their business or occupation. However, you will always be able to opt out receiving future third party offers.
+
+ **Information We Share with Third Parties**  
+We provide contact lists to third party companies that we have employed to provide us with specialized services, including customer service, subscription fulfillment, research, statistical analysis, list cleansing, postal mailings, email and fax deployment, telemarketing, and other information services. In compliance with privacy laws, we also provide our opt out lists to those third party companies so that they can be suppressed from the communications those companies send on Penton Media's behalf. We only deal with third party companies whom we believe share our commitment to privacy and who will keep your information secure. From time to time our sponsors wish to contact our subscribers who have indicated an interest in the products, services or events publicized in a particular e-newsletter by clicking on their link in the e-newsletter. If you do NOT wish to have your email address shared with that e-newsletter's sponsors, you will be given an opportunity within the e-newsletter to opt-out or you may contact our customer service department at the number/email listed below.
+
+If you provide information on a co-branded site or while using a co-branded service, you grant us permission to share the information you have provided with that service or site partner. Their use of your information is subject to their privacy policies.
+
+Certain information, such as your password and credit card information, is never disclosed in any form whatsoever to any outside party.
+
+ **Information Transfer**  
+Penton Media Inc. is based in the United States of America. Any information you provide may be stored and maintained in a secure database in the United States or transferred to a secure database outside the United States. 
+
+In the case of a change of ownership or a merger involving Penton Media, Inc. or any business that is part of Penton Media, Inc., your contact information associated with that business would be one of those transferred assets.
+
+ **How We Keep Your Information Secure**  
+We use reasonable precautions, including appropriate technical, administrative, and physical procedures, to protect personal information from loss, misuse, or alteration.
+
+When we contract with other companies to provide us with services, we only share personal information with those that we believe share our commitment to privacy and information security. However, we are not responsible for any breach of security or for the actions of these parties.
+
+Due to the design of the Internet and other factors outside our control, we cannot guarantee that communications between you and our servers will be free from unauthorized access by third parties.
+
+ **Children's Privacy**  
+Penton Media, Inc.'s web sites are not intended for use by children, especially those under the age of 13. No one under the age of 13 should provide any personal information or participate in any forums, chats, or online discussions. Minors under the age of 18 are prohibited from making purchases, including subscriptions, on our sites. Please discourage your children from providing any personal information about themselves to anyone in any public discussion areas.
+
+ **Terms of Use**  
+By using any of our websites, you consent to our use of your contact information as it is outlined in this privacy statement.
+
+Penton Media reserves the right to access and disclose personally identifiable information to comply with applicable laws, lawful government requests and any orders of the court.
+
+If we decide to change our privacy statement, we will post the changes on this page. Users are encouraged to review this page for any changes. Your continued use of this site constitutes your acceptance of this entire privacy statement.
+
+ **How to Reach Us**  
+If you wish to update your print magazine subscription contact information, please go to [http://subscribe.penton.com](http://subscribe.penton.com/) or to the magazine's home page.
+
+If you wish to opt out of receiving email, faxes, or phone calls from any Penton Media, Inc. business, please go to[ http://privacy.penton.com](http://privacy.penton.com/) or send an email to privacy@penton.com.
+
+If you wish to contact Penton Media, Inc.'s Corporate Privacy Manager, please send your specific questions to: [privacy@penton.com](mailto:privacy@penton.com) .
+
+ **December 11, 2007**
