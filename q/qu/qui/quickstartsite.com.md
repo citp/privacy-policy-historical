@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quickstartsite.com privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613160050id_/http%3A//www.quickstartsite.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickstartsite.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215050344id_/http%3A//www.quickstartsite.com/privacypolicy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
