@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the a1vbcode.com privacy policy that was archived on 2007-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070405195546id_/http%3A//www.a1vbcode.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the a1vbcode.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215022802id_/http%3A//www.a1vbcode.com/privacy.asp) for the most accurate reproduction.*
 
 # Visual Basic Code , VB.NET Code
 
