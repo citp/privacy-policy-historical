@@ -1,29 +1,15 @@
-> *The following text is extracted and transformed from the webafrica.co.za privacy policy that was archived on 2007-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070221213918id_/http%3A//www.webafrica.co.za/docs/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webafrica.co.za privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215021449id_/http%3A//www.webafrica.co.za/docs/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-  
-| [](https://web.archive.org/about/)| [About Web Africa](https://web.archive.org/about/)  
----|---  
-[](https://web.archive.org/docs/aup.html)| [Acceptable Usage Policy](https://web.archive.org/docs/aup.html)  
-[](https://web.archive.org/docs/terms.html)| [Website Terms & Conditions](https://web.archive.org/docs/terms.html)  
-[](https://web.archive.org/docs/disclaimer.html)| [Disclaimer](https://web.archive.org/docs/disclaimer.html)  
-[](https://web.archive.org/docs/refund.html)| [Refund Policy](https://web.archive.org/docs/refund.html)  
-[](https://web.archive.org/docs/privacy.html)| [Privacy Statement](https://web.archive.org/docs/privacy.html)  
-  
-  
----  
-  
-[](http://www.ispa.org.za/)
+[Home](https://web.archive.org/)  /   [About](https://web.archive.org/about/)   /  Privacy Statement
 
-[](https://web.archive.org/docs/refund.html)
+* * *
 
   
-Chat with a live consultant in real-time!
 
-  
-  
-Privacy Policy Thank you for visiting our web site and reviewing our privacy policy. The purpose of this policy is to explain how we handle information we collect from you during your visit to our web site. It is important to keep in mind that we do not collect personally-identifiable information (name, address, e-mail address or other unique identifiers). 
+
+Thank you for visiting our web site and reviewing our privacy policy. The purpose of this policy is to explain how we handle information we collect from you during your visit to our web site. It is important to keep in mind that we do not collect personally-identifiable information (name, address, e-mail address or other unique identifiers). 
 
 **Privacy Policy for All Visitors**  
 Information Collected and Stored Automatically:  
