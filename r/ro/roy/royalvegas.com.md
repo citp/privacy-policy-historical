@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the royalvegas.com privacy policy that was archived on 2007-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070515130107id_/http%3A//royalvegas.com/security-and-privacy.asp%3FBTag%3DRVNUS_Direct) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the royalvegas.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215053651id_/http%3A//www.royalvegas.com/security-and-privacy.asp%3FBTag%3DRVNUS_Direct) for the most accurate reproduction.*
 
 # Royal Vegas Casino Security & Privacy Policy
 
