@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the nokia.com.au privacy policy that was archived on 2007-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070202234850id_/http%3A//www.nokia.com.au/nokia/0%2C8764%2C36870%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nokia.com.au privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215094912id_/http%3A//www.nokia.com.au/A4522005) for the most accurate reproduction.*
 
-# Nokia - Privacy Policy
+# Nokia - Privacy policy - Default footer and common elements
 
 **PRIVACY POLICY**
 
-**(Version 2005-1; posted and effective as of 30 th November 2005) **
+**(Version 2005-1; posted and effective as of 30th November 2005)**
 
 At Nokia your privacy is important and we are committed to protecting your personal data. As used in this Privacy Policy (this " **Policy** "), the term " **personal data** " means data such as: your name; mailing address; e-mail address; internet service provider; telephone number; or, other personal information that may be supplied by you or collected about you according to applicable local legislation. We hope that this Policy helps you understand what kinds of personal data we collect from this site and how we handle and use any personal data after collection.
 
@@ -16,15 +16,24 @@ This Policy is applicable to this and certain other Nokia general public informa
 
 **Anonymous Use**
 
-In general, most of the pages of this site are provided for your informational purposes and you will be able to use this site without telling Nokia who you are or providing Nokia any personal data about yourself. There are times, however, when in connection with your use of this site we may need information from you.
+In general, most of the pages of this site are provided for your informational purposes and you will be able to use this site without telling Nokia who you are or providing Nokia any personal data about yourself. There are times, however, when in connection with your use of this site we may need information from you. 
 
 **Personal Data Provided by You**
 
 To respond to your questions, fulfill your requests or manage interactive customer programs, it may be necessary to ask for or obtain personal data. If you provide us requested information, we may use it as applicable to respond to your requests, customise your user experience with us, determine your satisfaction with Nokia products and/or services or contact you via mail, e-mail, mobile message or phone or, in accordance with local law, use such means to inform you of new products, services or promotions we may offer. **By providing Nokia information through this site, you acknowledge and consent to the collection, use and disclosure of personally identifying information of the type and for the limited purposes described in this Policy.**
 
-You expressly accept and give your consent that your personal data obtained in connection with your use of this site may be transferred, if permitted by applicable local legislation, across international borders to server locations supporting this site (including but not limited to transfers from those locations back to the country of your location) for operating and developing this site and Nokia services, including transfers to Nokia subcontractors or agents, as mentioned below, who perform tasks related to this site or Nokia services, or for the purposes of storing the data in relevant databases, which may be located in Finland or in some other country where Nokia has operations.
+  
 
-If you place an order for a product, request a service or submit content to this site, we may need to contact you for additional information required to process or fulfill your order and/or request. Unless compelled by applicable law or administrative or judicial order, we will not provide this information to a third party without your permission, except as necessary to process your order, fulfill your requests or manage interactive customer programs. If allowed by applicable local legislation, Nokia may also exchange information between Nokia's affiliated (related) companies for the purposes mentioned in this Policy.
+
+You expressly accept and give your consent that your personal data obtained in connection with your use of this site may be transferred, if permitted by applicable local legislation, across international borders to server locations supporting this site (including but not limited to transfers from those locations back to the country of your location) for operating and developing this site and Nokia services, including transfers to Nokia subcontractors or agents, as mentioned below, who perform tasks related to this site or Nokia services, or for the purposes of storing the data in relevant databases, which may be located in Finland or in some other country where Nokia has operations. 
+
+  
+
+
+If you place an order for a product, request a service or submit content to this site, we may need to contact you for additional information required to process or fulfill your order and/or request. Unless compelled by applicable law or administrative or judicial order, we will not provide this information to a third party without your permission, except as necessary to process your order, fulfill your requests or manage interactive customer programs. If allowed by applicable local legislation, Nokia may also exchange information between Nokia's affiliated (related) companies for the purposes mentioned in this Policy. 
+
+  
+
 
 _Because Nokia is committed to protecting your privacy, Nokia does not engage in the practice of selling or trading personal data to other companies for promotional purposes._
 
@@ -32,7 +41,7 @@ _Because Nokia is committed to protecting your privacy, Nokia does not engage in
 
 We may use subcontractors to provide some products or services to you. We also may need to share your personal data with these subcontractors so that they can provide services to us. Our subcontractors are not allowed to use such personal data for any other purposes and we impose confidentiality requirements on their services.
 
-**Visitor Identification - Usage of "Cookies"**
+ **Visitor Identification - Usage of "Cookies"**
 
 From time to time, information may be placed on your computer to improve this site and Nokia's services for you. This information is commonly known as "cookies" and many web sites use them. Cookies are pieces of data stored on your computer's hard drive or browser, and not on this site. They typically enable collection of certain information about your computer, including your internet protocol address, your computer's operating system, your browser type and the address of any referring sites.
 
@@ -44,13 +53,13 @@ Nokia has endeavored to take commercially reasonable measures to prevent unautho
 
 While there are always risks associated with providing personal data, whether in person, by phone or via the internet or other technologies, and no system of technology is completely safe or "tamper"/"hacker" proof, Nokia has endeavored to take reasonable precautions which are appropriate to the nature of the information to prevent and minimise such risks in connection with your use of this site.
 
-**Accuracy of Collected Data**
+ **Accuracy of Collected Data**
 
 Nokia will on its own initiative, or at your request, free of charge, replenish, rectify or erase any incomplete, inaccurate or outdated personal data retained by Nokia in connection with the operation of this site. Please consult the contact information posted below on this page, if any, or elsewhere on this site to determine how best to contact Nokia to update and/or review your personal data and/or opt-out of receiving marketing communications from Nokia.
 
-**Minors**
+ **Minors**
 
-Nokia's policy is to request that " **Minors** " (the age of Minors is determined by local law where you reside) not make purchases or engage in other legal acts on this site without the consent of a parent or legal guardian, unless permitted by applicable local law.
+Nokia's policy is to request that " **Minors** " (the age of Minors is determined by local law where you reside) not make purchases or engage in other legal acts on this site without the consent of a parent or legal guardian, unless permitted by applicable local law. 
 
 **External Links**
 
@@ -62,7 +71,6 @@ Nokia may from time to time change this Policy or change, modify or withdraw acc
 
 **How to Contact Nokia:**
 
-To update your personal data or elect to opt-out of marketing communications from Nokia, please email [apac.onlineteam@nokia.com](mailto:apac.onlineteam@nokia.com).
+To update your personal data or elect to opt-out of marketing communications from Nokia, please email [ apac.onlineteam@nokia.com](https://web.archive.org/web/20071215094912id_/http%3A//www.nokia.com.au/apac.onlineteam@nokia.com).
 
-© Copyright Nokia 2005. All Rights Reserved. Read our [legal notice](https://web.archive.org/nokia/0,,33009,00.html).  
-
+© Copyright Nokia 2005. All Rights Reserved. Read our [ legal notice](https://web.archive.org/A4522004).
