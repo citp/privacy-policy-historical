@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the abfs.com privacy policy that was archived on 2007-06-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070618232517id_/http%3A//www.abfs.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the abfs.com privacy policy that was archived on 2007-12-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071215021109id_/http%3A//www.abfs.com/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <title>ABF Freight System, Inc. - Privacy Policy</title>
@@ -39,7 +39,7 @@ var blnUserActionTracked = false ; //used so multiple actions are not tracked fo
 function TrackUserAction(mOption)
 {  var strPage     = '/ABFGlobal/RemoteUsageTracking.asp' ;
    var strQString  = '?Option='+ mOption
-       strQString += '&Parm=   PFX@SDR7P64.208.172.178                                                               '
+       strQString += '&Parm=   PXP4P3RZY64.208.172.178                                                               '
        strQString += '&VERSION=' + Math.random();
 
    if (!blnUserActionTracked)
@@ -51,7 +51,7 @@ function TrackUserAction(mOption)
 // -->
 </script><script language="Javascript" src="/ABFGlobal/Include/ajax-STC.js?V=1.3"></script>
 
-<script language="Javascript" src="/Include/PrintEmail-STC.js?V=1.16"></script>
+<script language="Javascript" src="/Include/PrintEmail-STC.js?V=1.19"></script>
 <script language="Javascript" src="/Include/Menu-STC.js?V=1.22"></script><script language="JavaScript">
 <!--
 //Note: Any changes to the functions in this script block must also be made in the
@@ -177,7 +177,7 @@ function objHotKey(key, loc) {
 }
 var hotkeys = new Array()
 
-var strQS = '?NCHK=HKEY&WT.svl=HKY' ;
+var strQS = '?NCHK=HKEY' ;
 
 if (ie4)
 {  hotkeys[0] = new objHotKey('B', '/tools/bolfmt/' + strQS);
@@ -227,383 +227,12 @@ function keyPress(e) {
 // -->
 </script>
 
-
-<!-- START OF SDC Advanced Tracking Code -->
-<!-- Copyright (c) 1996-2005 WebTrends Inc.  All rights reserved. -->
-<!-- V7.5 -->
-<!-- $DateTime: 2005/09/22 12:07:59 $ -->
-<script language="Javascript"><!--
-var gService = false;
-var gTimeZone = -6;
-// Code section for Enable First-Party Cookie Tracking
-function dcsCookie(){
-	if (typeof(dcsOther)=="function"){
-		dcsOther();
-	}
-	else if (typeof(dcsPlugin)=="function"){
-		dcsPlugin();
-	}
-	else if (typeof(dcsFPC)=="function"){
-		dcsFPC(gTimeZone);
-	}
-}
-function dcsGetCookie(name){
-	var pos=document.cookie.indexOf(name+"=");
-	if (pos!=-1){
-		var start=pos+name.length+1;
-		var end=document.cookie.indexOf(";",start);
-		if (end==-1){
-			end=document.cookie.length;
-		}
-		return unescape(document.cookie.substring(start,end));
-	}
-	return null;
-}
-function dcsGetCrumb(name,crumb){
-	var aCookie=dcsGetCookie(name).split(":");
-	for (var i=0;i<aCookie.length;i++){
-		var aCrumb=aCookie[i].split("=");
-		if (crumb==aCrumb[0]){
-			return aCrumb[1];
-		}
-	}
-	return null;
-}
-function dcsGetIdCrumb(name,crumb){
-	var cookie=dcsGetCookie(name);
-	var id=cookie.substring(0,cookie.indexOf(":lv="));
-	var aCrumb=id.split("=");
-	for (var i=0;i<aCrumb.length;i++){
-		if (crumb==aCrumb[0]){
-			return aCrumb[1];
-		}
-	}
-	return null;
-}
-function dcsFPC(offset){
-	if (typeof(offset)=="undefined"){
-		return;
-	}
-	var name=gFpc;
-	var dCur=new Date();
-	dCur.setTime(dCur.getTime()+(dCur.getTimezoneOffset()*60000)+(offset*3600000));
-	var dExp=new Date(dCur.getTime()+315360000000);
-	var dSes=new Date(dCur.getTime());
-	if (document.cookie.indexOf(name+"=")!=-1){
-		var id=dcsGetIdCrumb(name,"id");
-		var lv=parseInt(dcsGetCrumb(name,"lv"));
-		var ss=parseInt(dcsGetCrumb(name,"ss"));
-		if ((id==null)||(id=="null")||isNaN(lv)||isNaN(ss)){
-			return;
-		}
-		WT.co_f=id;
-		var dLst=new Date(lv);
-		dSes.setTime(ss);
-		if ((dCur.getTime()>(dLst.getTime()+1800000))||(dCur.getTime()>(dSes.getTime()+28800000))){
-			dSes.setTime(dCur.getTime());
-			WT.vt_f_s="1";
-		}
-		if ((dCur.getDay()!=dLst.getDay())||(dCur.getMonth()!=dLst.getMonth())||(dCur.getYear()!=dLst.getYear())){
-			WT.vt_f_d="1";
-		}
-	}
-	else{
-		var tmpname=name+"_TMP=";
-		document.cookie=tmpname+"1";
-		if (document.cookie.indexOf(tmpname)!=-1){
-			document.cookie=tmpname+"; expires=Thu, 01-Jan-1970 00:00:01 GMT";
-			if ((typeof(gWtId)!="undefined")&&(gWtId!="")){
-				WT.co_f=gWtId;
-			}
-			else if ((typeof(gTempWtId)!="undefined")&&(gTempWtId!="")){
-				WT.co_f=gTempWtId;
-				WT.vt_f="1";
-			}
-			else{
-				WT.co_f="2";
-				var cur=dCur.getTime().toString();
-				for (var i=2;i<=(32-cur.length);i++){
-					WT.co_f+=Math.floor(Math.random()*16.0).toString(16);
-				}
-				WT.co_f+=cur;
-				WT.vt_f="1";
-			}
-			if (typeof(gWtAccountRollup)=="undefined"){
-				WT.vt_f_a="1";
-			}
-			WT.vt_f_s="1";
-			WT.vt_f_d="1";
-		}
-		else{
-			WT.vt_f="2";
-			WT.vt_f_a="2";
-			return;
-		}
-	}
-	WT.co_f=escape(WT.co_f);
-	WT.vt_sid=WT.co_f+"."+dSes.getTime();
-	var expiry="; expires="+dExp.toGMTString();
-	document.cookie=name+"="+"id="+WT.co_f+":lv="+dCur.getTime().toString()+":ss="+dSes.getTime().toString()+expiry+"; path=/"+(((typeof(gFpcDom)!="undefined")&&(gFpcDom!=""))?("; domain="+gFpcDom):(""));
-}
-
-// Code section for Use the new first-party cookie generated with this tag.
-var gFpc="WT_FPC";
-var gWtId="";
-var gTempWtId="";
-var gConvert=true;
-
-function dcsAdv(){
-	dcsFunc("dcsET");
-	dcsFunc("dcsCookie");
-	dcsFunc("dcsAdSearch");
-	dcsFunc("dcsTP");
-}
-
-//-->
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
 </script>
-<!-- END OF SDC Advanced Tracking Code -->
-
-<!-- START OF SmartSource Data Collector TAG -->
-<!-- Copyright (c) 1996-2005 WebTrends Inc.  All rights reserved. -->
-<!-- V7.5 -->
-<!-- $DateTime: 2005/10/21 15:53:12 $ -->
-<script language="Javascript"><!--
-gVersion="1.0";
-//-->
+<script type="text/javascript">
+_uacct = "UA-2086962-1";
+urchinTracker();
 </script>
-<script language="Javascript1.1"><!--
-gVersion="1.1";
-//-->
-</script>
-<script language="Javascript1.2"><!--
-gVersion="1.2";
-var RE={"%09":/\t/g,"%20":/ /g,"%23":/\#/g,"%26":/\&/g,"%2B":/\+/g,"%3F":/\?/g,"%5C":/\\/g};
-//-->
-</script>
-<script language="Javascript1.3"><!--
-gVersion="1.3";
-if (window.ActiveXObject){
-	var gFV="";
-	for (var gVer=2;gVer<=10;gVer++){
-		try{
-			var gFlash = eval("new ActiveXObject('ShockwaveFlash.ShockwaveFlash."+gVer+"');");
-			if (gFlash){
-				gFV=gVer+".0";
-				break;
-			}
-		}
-		catch(e){
-		}
-	}
-}
-//-->
-</script>
-<script language="Javascript1.4"><!--
-gVersion="1.4";
-//-->
-</script>
-<script language="Javascript1.5"><!--
-gVersion="1.5";
-//-->
-</script>
-<script language="JavaScript"><!--
-var gImages=new Array;
-var gIndex=0;
-var DCS=new Object();
-var WT=new Object();
-var DCSext=new Object();
-var gQP=new Array();
-
-var gDomain="sdc.data-tronics.com";
-
-
-   var gDcsId="dcs349it54uls0jmt27ytjmi4_1x8r";
-
-
-if ((typeof(gConvert)!="undefined")&&gConvert&&(document.cookie.indexOf(gFpc+"=")==-1)){
-	document.write("<SCR"+"IPT Language='JavaScript' SRC='"+"http"+(window.location.protocol.indexOf('https:')==0?'s':'')+"://"+gDomain+"/"+gDcsId+"/wtid.js"+"'></SCR"+"IPT>");
-}
-//-->
-</script>
-<script language="Javascript"><!--
-function dcsVar(){
-	var dCurrent=new Date();
-	WT.tz=dCurrent.getTimezoneOffset()/60*-1;
-	if (WT.tz==0){
-		WT.tz="0";
-	}
-	WT.bh=dCurrent.getHours();
-	WT.ul=navigator.appName=="Netscape"?navigator.language:navigator.userLanguage;
-	if (typeof(screen)=="object"){
-		WT.cd=navigator.appName=="Netscape"?screen.pixelDepth:screen.colorDepth;
-		WT.sr=screen.width+"x"+screen.height;
-	}
-	if (typeof(navigator.javaEnabled())=="boolean"){
-		WT.jo=navigator.javaEnabled()?"Yes":"No";
-	}
-	if (document.title){
-		WT.ti=document.title;
-	}
-	WT.js="Yes";
-	if (typeof(gVersion)!="undefined"){
-		WT.jv=gVersion;
-	}
-	if (document.body&&document.body.addBehavior){
-		document.body.addBehavior("#default#clientCaps");
-		if (document.body.connectionType){
-			WT.ct=document.body.connectionType;
-		}
-		document.body.addBehavior("#default#homePage");
-		WT.hp=document.body.isHomePage(location.href)?"1":"0";
-	}
-	if (parseInt(navigator.appVersion)>3){
-		if ((navigator.appName=="Microsoft Internet Explorer")&&document.body){
-			WT.bs=document.body.offsetWidth+"x"+document.body.offsetHeight;
-		}
-		else if (navigator.appName=="Netscape"){
-			WT.bs=window.innerWidth+"x"+window.innerHeight;
-		}
-	}
-	WT.fi="No";
-	if (window.ActiveXObject){
-		if ((typeof(gFV)!="undefined")&&(gFV.length>0)){
-			WT.fi="Yes";
-			WT.fv=gFV;
-		}
-	}
-	else if (navigator.plugins&&navigator.plugins.length){
-		for (var i=0;i<navigator.plugins.length;i++){
-			if (navigator.plugins[i].name.indexOf('Shockwave Flash')!=-1){
-				WT.fi="Yes";
-				WT.fv=navigator.plugins[i].description.split(" ")[2];
-				break;
-			}
-		}
-	}
-	WT.sp="@@SPLITVALUE@@";
-	DCS.dcsdat=dCurrent.getTime();
-	DCS.dcssip=window.location.hostname;
-	DCS.dcsuri=window.location.pathname;
-	if (window.location.search){
-		DCS.dcsqry=window.location.search;
-		if (gQP.length>0){
-			for (var i=0;i<gQP.length;i++){
-				var pos=DCS.dcsqry.indexOf(gQP[i]);
-				if (pos!=-1){
-					var front=DCS.dcsqry.substring(0,pos);
-					var end=DCS.dcsqry.substring(pos+gQP[i].length,DCS.dcsqry.length);
-					DCS.dcsqry=front+end;
-				}
-			}
-		}
-	}
-	if ((window.document.referrer!="")&&(window.document.referrer!="-")){
-		if (!(navigator.appName=="Microsoft Internet Explorer"&&parseInt(navigator.appVersion)<4)){
-			DCS.dcsref=window.document.referrer;
-		}
-	}
-}
-
-function A(N,V){
-	return "&"+N+"="+dcsEscape(V);
-}
-
-function dcsEscape(S){
-	if (typeof(RE)!="undefined"){
-		var retStr = new String(S);
-		for (R in RE){
-			retStr = retStr.replace(RE[R],R);
-		}
-		return retStr;
-	}
-	else{
-		return escape(S);
-	}
-}
-
-function dcsCreateImage(dcsSrc){
-	if (document.images){
-		gImages[gIndex]=new Image;
-		if ((typeof(gHref)!="undefined")&&(gHref.length>0)){
-			gImages[gIndex].onload=gImages[gIndex].onerror=dcsLoadHref;
-		}
-		gImages[gIndex].src=dcsSrc;
-		gIndex++;
-	}
-	else{
-		document.write('<IMG BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="'+dcsSrc+'">');
-	}
-}
-
-function dcsMeta(){
-	var elems;
-	if (document.all){
-		elems=document.all.tags("meta");
-	}
-	else if (document.documentElement){
-		elems=document.getElementsByTagName("meta");
-	}
-	if (typeof(elems)!="undefined"){
-		for (var i=1;i<=elems.length;i++){
-			var meta=elems.item(i-1);
-			if (meta.name){
-				if (meta.name.indexOf('WT.')==0){
-					WT[meta.name.substring(3)]=meta.content;
-				}
-				else if (meta.name.indexOf('DCSext.')==0){
-					DCSext[meta.name.substring(7)]=meta.content;
-				}
-				else if (meta.name.indexOf('DCS.')==0){
-					DCS[meta.name.substring(4)]=meta.content;
-				}
-			}
-		}
-	}
-}
-
-function dcsTag(){
-	var P="http"+(window.location.protocol.indexOf('https:')==0?'s':'')+"://"+gDomain+(gDcsId==""?'':'/'+gDcsId)+"/dcs.gif?";
-	for (N in DCS){
-		if (DCS[N]) {
-			P+=A(N,DCS[N]);
-		}
-	}
-	for (N in WT){
-		if (WT[N]) {
-			P+=A("WT."+N,WT[N]);
-		}
-	}
-	for (N in DCSext){
-		if (DCSext[N]) {
-			P+=A(N,DCSext[N]);
-		}
-	}
-	if (P.length>2048&&navigator.userAgent.indexOf('MSIE')>=0){
-		P=P.substring(0,2040)+"&WT.tu=1";
-	}
-	dcsCreateImage(P);
-}
-
-function dcsFunc(func){
-	if (typeof(window[func])=="function"){
-		window[func]();
-	}
-}
-
-dcsVar();
-dcsMeta();
-dcsFunc("dcsAdv");
-dcsTag();
-//-->
-</script>
-
-<noscript>
-
-<IMG ALT="" BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="http://sdc.data-tronics.com/dcs349it54uls0jmt27ytjmi4_1x8r/njs.gif?dcsuri=/nojavascript&amp;WT.js=No">
-
-</noscript>
-<!-- END OF SmartSource Data Collector  TAG -->	
-
 
 <script language="Javascript" src="/Include/DynamicDivTool-STC.js?v=1.1"></script>
 
@@ -646,54 +275,54 @@ txt = txt + "<TABLE BORDER=\"0\" CELLPADDING=\"1\" CELLSPACING=\"1\" BGCOLOR=\"#
 txt = txt + "<TR><TD CLASS=\"sectionHeader\" VALIGN=\"TOP\" ALIGN=\"LEFT\" WIDTH=\"145\">Before You Ship</TD></TR>"
 txt = txt + "<TR><TD CLASS=\"sectionCell\" VALIGN=\"TOP\" ALIGN=\"LEFT\" WIDTH=\"145\">"
 txt = txt + "<TABLE BORDER=\"0\" CELLPADDING=\"2\" CELLSPACING=\"0\">"
-txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/ltlquotes/?NCHK=ATP&WT.svl=FLY\">Rate Quotations</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
-txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/timekeeper/?NCHK=ATP&WT.svl=FLY\">TimeKeeper Quotations</A></SPAN><SPAN CLASS=\"small2\"><BR>(expedited, guaranteed)</SPAN></TD></TR>"
-txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/rsearch/?NCHK=ATP&WT.svl=FLY\">Routing & Service Center Search</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
-txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/transit/?NCHK=ATP&WT.svl=FLY\">Transit Times</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
-txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/bolfmt/?NCHK=ATP&WT.svl=FLY\">Bill of Lading Creation</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
-txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/pickup/?NCHK=ATP&WT.svl=FLY\">Pickup Request</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
-txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/slip/?NCHK=ATP&WT.svl=FLY\">Packing Slip Creation</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
-txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/labels/?NCHK=ATP&WT.svl=FLY\">Shipping Labels</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
-txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/nmfc/?NCHK=ATP&WT.svl=FLY\">NMFC Request</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
+txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/ltlquotes/?NCHK=ATP\">Rate Quotation</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
+txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/timekeeper/?NCHK=ATP\">TimeKeeper Quotation</A></SPAN><SPAN CLASS=\"small2\"><BR>(expedited, guaranteed)</SPAN></TD></TR>"
+txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/rsearch/?NCHK=ATP\">Routing & Service Center Search</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
+txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/transit/?NCHK=ATP\">Transit Times</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
+txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/bolfmt/?NCHK=ATP\">Bill of Lading Creation</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
+txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/pickup/?NCHK=ATP\">Pickup Request</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
+txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/slip/?NCHK=ATP\">Packing Slip Creation</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
+txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/labels/?NCHK=ATP\">Shipping Labels</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
+txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/nmfc/?NCHK=ATP\">NMFC Request</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
 txt = txt + "</TABLE></TD></TR></TABLE></TD><TD WIDTH=\"3\"></TD>"
 txt = txt + "<TD VALIGN=\"TOP\" ALIGN=\"LEFT\">"
 txt = txt + "<TABLE BORDER=\"0\" CELLPADDING=\"1\" CELLSPACING=\"1\" BGCOLOR=\"#006044\" CLASS=\"allToolsTable\">"
 txt = txt + "<TR><TD CLASS=\"sectionHeader\" VALIGN=\"TOP\" ALIGN=\"LEFT\" WIDTH=\"145\">After You Ship</TD></TR>"
 txt = txt + "<TR><TD CLASS=\"sectionCell\" VALIGN=\"TOP\" ALIGN=\"LEFT\" WIDTH=\"145\">"
 txt = txt + "<TABLE BORDER=\"0\" CELLPADDING=\"2\" CELLSPACING=\"0\">"
-txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/trace/?NCHK=ATP&WT.svl=FLY\">Tracking &amp; E-mail Notification</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
+txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/trace/?NCHK=ATP\">Tracking &amp; E-mail Notification</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
 txt = txt + "</TABLE></TD></TR></TABLE></TD><TD WIDTH=\"3\"></TD>"
 txt = txt + "<TD VALIGN=\"TOP\" ALIGN=\"LEFT\">"
 txt = txt + "<TABLE BORDER=\"0\" CELLPADDING=\"1\" CELLSPACING=\"1\" BGCOLOR=\"#006044\" CLASS=\"allToolsTable\">"
 txt = txt + "<TR><TD CLASS=\"sectionHeader\" VALIGN=\"TOP\" ALIGN=\"LEFT\" WIDTH=\"145\">Other Tools</TD></TR>"
 txt = txt + "<TR><TD CLASS=\"sectionCell\" VALIGN=\"TOP\" ALIGN=\"LEFT\" WIDTH=\"145\">"
 txt = txt + "<TABLE BORDER=\"0\" CELLPADDING=\"2\" CELLSPACING=\"0\">"
-txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/abfforms/?NCHK=ATP&WT.svl=FLY\">Forms &amp; ABF Documents</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
-txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/exchange/?NCHK=ATP&WT.svl=FLY\">Exchange Rates</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
-txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/claimfile/?NCHK=ATP&WT.svl=FLY\">Loss &amp; Damage Claims, Filing</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
-txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/claims/?NCHK=ATP&WT.svl=FLY\">Loss &amp; Damage Claims, Status</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
-txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/reports/center.asp?NCHK=ATP&WT.svl=FLY\">Reports Center</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
-txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/timekeeper/resourcecenter/?NCHK=ATP&WT.svl=FLY\">TimeKeeper Resource Center</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
-txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/supplychain/?NCHK=ATP&WT.svl=FLY\">Supply Chain Services</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
+txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/abfforms/?NCHK=ATP\">Forms &amp; ABF Documents</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
+txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/exchange/?NCHK=ATP\">Exchange Rates</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
+txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/claimfile/?NCHK=ATP\">Loss &amp; Damage Claims, Filing</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
+txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/claims/?NCHK=ATP\">Loss &amp; Damage Claims, Status</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
+txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/reports/center.asp?NCHK=ATP\">Reports Center</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
+txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/timekeeper/resourcecenter/?NCHK=ATP\">TimeKeeper Resource Center</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
+txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/supplychain/?NCHK=ATP\">Supply Chain Services</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
 txt = txt + "</TABLE></TD></TR></TABLE></TD><TD WIDTH=\"3\"></TD>"
 txt = txt + "<TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><TABLE BORDER=\"0\" CELLPADDING=\"1\" CELLSPACING=\"1\" BGCOLOR=\"#006044\" CLASS=\"allToolsTable\">"
 txt = txt + "<TR><TD CLASS=\"sectionHeader\" VALIGN=\"TOP\" ALIGN=\"LEFT\" WIDTH=\"145\"><A STYLE=COLOR:white; HREF=\"/tools/accountinfo/acctpswd.asp\">Logon</A> to access...</TD></TR>"
 txt = txt + "<TR><TD CLASS=\"sectionCell\" VALIGN=\"TOP\" ALIGN=\"LEFT\" WIDTH=\"145\"><TABLE BORDER=\"0\" CELLPADDING=\"2\" CELLSPACING=\"0\">"
-txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/AutoTrack/?NCHK=ATP&WT.svl=FLY\">AutoTrack</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
-txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/docret/?NCHK=ATP&WT.svl=FLY\">Document Retrieval</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
-txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/billreview/?NCHK=ATP&WT.svl=FLY\">Invoice Review</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
-txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/reports/history?NCHK=ATP&WT.svl=FLY\">Historical Reports</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
-txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/reports/charting?NCHK=ATP&WT.svl=FLY\">Charts &amp; Graphs</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
-txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/optipool/?NCHK=ATP&WT.svl=FLY\">OptiPool</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
-txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/overchargeclaims/?NCHK=ATP&WT.svl=FLY\">Overcharge Claims</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
-txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/merge/?NCHK=ATP&WT.svl=FLY\">Merge-in-Transit</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
-txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/planner/?NCHK=ATP&WT.svl=FLY\">Shipment Planner</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
-txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/reroute/?NCHK=ATP&WT.svl=FLY\">Dynamic Rerouting</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
-txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/ziploadguide/?NCHK=ATP&WT.svl=FLY\">Zip Loading Guide</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
-txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/director/?NCHK=ATP&WT.svl=FLY\">Shipment Director</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
-txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/contacts/view/?NCHK=ATP&WT.svl=FLY\">My Contacts</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
-txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/multiship/?NCHK=ATP&WT.svl=FLY\">MultiShipment Tender</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
-txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/chargecalc/?NCHK=ATP&WT.svl=FLY\">Shipping Charges Calculator</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
+txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/AutoTrack/?NCHK=ATP\">AutoTrack</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
+txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/docret/?NCHK=ATP\">Document Retrieval</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
+txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/billreview/?NCHK=ATP\">Invoice Review</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
+txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/reports/history?NCHK=ATP\">Historical Reports</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
+txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/reports/charting?NCHK=ATP\">Charts &amp; Graphs</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
+txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/optipool/?NCHK=ATP\">OptiPool</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
+txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/overchargeclaims/?NCHK=ATP\">Overcharge Claims</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
+txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/merge/?NCHK=ATP\">Merge-in-Transit</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
+txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/planner/?NCHK=ATP\">Shipment Planner</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
+txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/reroute/?NCHK=ATP\">Dynamic Rerouting</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
+txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/ziploadguide/?NCHK=ATP\">Zip Loading Guide</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
+txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/director/?NCHK=ATP\">Shipment Director</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
+txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/contacts/view/?NCHK=ATP\">My Contacts</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
+txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/multiship/?NCHK=ATP\">MultiShipment Tender</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
+txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/chargecalc/?NCHK=ATP\">Shipping Charges Calculator</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
 txt = txt + "</TABLE></TD></TR></TABLE></TD></TR></TABLE></TD></TR></TABLE>"
 
    return(txt)
@@ -729,11 +358,11 @@ txt = txt + "</TABLE></TD></TR></TABLE></TD></TR></TABLE></TD></TR></TABLE>"
 <td class="tab" nowrap=""><a href="/resource/?NCHK=STAB" class="tablink" title="Shipping Guide, Rules &amp; Special Services, Fuel Surcharge, Software Downloads...">Resource Center</a></td>
 <td width="7"><img src="/images/tabs/tab_right.gif" width="8" height="17" hspace="0" vspace="0" border="0"></td>
 <td><img src="/images/d1x1t.gif" border="0" width="1"></td>
-<td nowrap="" class="small" align="top">&nbsp;<a class="servicelink" title="Get help..." onclick="upWinXY('helpWin','/help/helphow.asp?page=/help/helpmain.asp&amp;WT.svl=HLP',725,500,true); return false;" href="/help/helphow.asp?page=/help/helpmain.asp&amp;WT.svl=HLP"><img src="/images/icons/help.gif" width="14" height="13" align="top" vspace="2" border="0">help</a>
-<a class="servicelink" href="/about/contact/" title="Contact ABF..."><img src="/images/icons/contact.gif" width="14" height="13" border="0" align="top" vspace="2">contacts</a>&nbsp;<a class="servicelink" title="Send us a suggestion..." onclick="upWinXY('helpWin','/help/helphow.asp?page=/help/helpform.asp&amp;WT.svl=SUG',725,500,true); return false;" href="/help/helphow.asp?page=/help/helpform.asp&amp;WT.svl=SUG"><img src="/images/icons/suggestion.gif" width="14" height="13" align="top" vspace="0" border="0">suggestion</a>
-<a class="servicelink" title="Print this page..." onclick="PrintPage(); return false;" href="/print.asp"><img src="/images/icons/print.gif" width="14" height="13" align="top" vspace="2" border="0">print</a>
-<a class="servicelink" title="E-mail this page..." onclick="EmailPage(); return false;" href="/email.asp"><img src="/images/icons/email.gif" width="14" height="13" align="top" vspace="2" border="0">e-mail</a>
-<a class="servicelink" title="Save this page..." onclick="SavePage(); return false;" href="/Include/SavePage.asp"><img src="/images/icons/save.gif" align="top" vspace="3" border="0">&nbsp;save</a>
+<td nowrap="" class="small" align="top">&nbsp;<a class="servicelink" title="Get help..." href="javascript:upWinXY('helpWin','/help/helphow.asp?page=/help/helpmain.asp',725,500,true);"><img src="/images/icons/help.gif" width="14" height="13" align="top" vspace="2" border="0">help</a>
+<a class="servicelink" href="/about/contact/" title="Contact ABF..."><img src="/images/icons/contact.gif" width="14" height="13" border="0" align="top" vspace="2">contacts</a>&nbsp;<a class="servicelink" title="Send us a suggestion..." href="javascript:upWinXY('helpWin','/help/helphow.asp?page=/help/helpform.asp',725,500,true);"><img src="/images/icons/suggestion.gif" width="14" height="13" align="top" vspace="0" border="0">suggestion</a>
+<a class="servicelink" title="Print this page..." href="javascript:PrintPage();"><img src="/images/icons/print.gif" width="14" height="13" align="top" vspace="2" border="0">print</a>
+<a class="servicelink" title="E-mail this page..." href="javascript:EmailPage();"><img src="/images/icons/email.gif" width="14" height="13" align="top" vspace="2" border="0">e-mail</a>
+<a class="servicelink" title="Save this page..." href="javascript:SavePage();"><img src="/images/icons/save.gif" align="top" vspace="3" border="0">&nbsp;save</a>
 </td>
 </tr>
 </tbody></table>
@@ -777,13 +406,13 @@ txt = txt + "</TABLE></TD></TR></TABLE></TD></TR></TABLE></TD></TR></TABLE>"
          <td class="sectionCell">
             <table cellpadding="4" cellspacing="0" border="0">
 <tbody><tr>
-<td class="sectionCell"><span class="sideNavigation"><strong><a href="/privacy.asp?NCHK=SPLM&amp;WT.svl=LSM" class="sideNavigation">Privacy Policy</a></strong></span></td>
+<td class="sectionCell"><span class="sideNavigation"><strong>Privacy Policy</strong></span></td>
 </tr>
 <tr>
-<td class="sectionCell"><span class="sideNavigation"><a class="nav" href="/termsofuse.asp?NCHK=SPLM&amp;WT.svl=LSM">Terms of Use</a></span></td>
+<td class="sectionCell"><span class="sideNavigation"><a class="nav" href="/termsofuse.asp?NCHK=SPLM">Terms of Use</a></span></td>
 </tr>
 <tr>
-<td class="sectionCell"><span class="sideNavigation"><a class="nav" href="/copyright.asp?NCHK=SPLM&amp;WT.svl=LSM">Copyright</a></span></td>
+<td class="sectionCell"><span class="sideNavigation"><a class="nav" href="/copyright.asp?NCHK=SPLM">Copyright</a></span></td>
 </tr>
 
             </tbody></table>
@@ -848,12 +477,12 @@ txt = txt + "</TABLE></TD></TR></TABLE></TD></TR></TABLE></TD></TR></TABLE>"
                <td class="sectionCell" valign="TOP">
                   <table border="0" cellpadding="0" cellspacing="0" width="100%">
                      <tbody><tr>
-                        <td valign="top"><font class="small">&nbsp;<a class="nav" onclick="upWinXY('mapWin','/help/sitemap.asp',540,420,true); return false;" href="/help/sitemap.asp">Site Map</a>&nbsp;|&nbsp;<a class="nav" onclick="searchWinUp(0); return false;" href="/help/search.asp">Search</a>:&nbsp;</font><input type="text" maxlength="100" size="30" name="UserRestriction" onkeypress="searchWinUp(event)">&nbsp;<input type="button" value="Search" name="btnSearch" onclick="searchWinUp(0);"></td>
+                        <td valign="top"><font class="small">&nbsp;<a class="nav" href="javascript:upWinXY('mapWin','/help/sitemap.asp',540,420,true);">Site Map</a>&nbsp;|&nbsp;<a class="nav" href="javascript:searchWinUp(0);">Search</a>:&nbsp;</font><input type="text" maxlength="100" size="30" name="UserRestriction" onkeypress="searchWinUp(event)">&nbsp;<input type="button" value="Search" name="btnSearch" onclick="searchWinUp(0);"></td>
 <td valign="top" width="300">
 <table border="0" cellpadding="0" cellspacing="0">
 <tbody><tr>
-<td valign="top"><font class="pgTxt"><b> June 18, 2007</b>&nbsp;</font></td>
-<td valign="top"><a class="nav" onclick="upWinXY('calWin','/ABFGlobal/calwin.asp?nol=Y',340,290,false); return false;" href="/ABFGlobal/calwin.asp?nol=Y"><img src="/images/cal1.gif" width="16" height="14" border="0"></a></td></tr>
+<td valign="top"><font class="pgTxt"><b> December 14, 2007</b>&nbsp;</font></td>
+<td valign="top"><a class="nav" href="javascript:upWinXY('calWin','/ABFGlobal/calwin.asp?nol=Y',340,290,false);"><img src="/images/cal1.gif" width="16" height="14" border="0"></a></td></tr>
 </tbody></table>
 </td>
 
