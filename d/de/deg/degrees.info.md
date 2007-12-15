@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the degrees.info privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613063724id_/http%3A//www.degrees.info/emc/privacy_01354.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the degrees.info privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215111347id_/http%3A//www.degrees.info/emc/privacy_01354.html) for the most accurate reproduction.*
 
 # Degrees.info - Privacy Policy
 
@@ -13,7 +13,7 @@ Adchemy knows that you care about how your personal information is used and shar
 **What Does This Privacy Policy Cover?  
 **This Privacy Policy covers Adchemy’s treatment of personally identifiable information ("Personal Information") that Adchemy gathers when you are accessing Adchemy Sites and when you use Adchemy services. Also, this Privacy Policy covers Adchemy’s treatment of any Personal Information that Adchemy’s business partners share with Adchemy. This Privacy Policy does not apply to the use of your Personal Information by third parties to which such information is provided by Adchemy that Adchemy does not own or control, or to individuals that Adchemy does not employ or manage.
 
-**What Personal Information Does Adchemy Collect AND MAINTAIN?  
+**What Personal Information Does Adchemy Collect And Maintain?  
 **We collect the following types of information from our customers:
 
 **Personal Information You Provide to Us:  
