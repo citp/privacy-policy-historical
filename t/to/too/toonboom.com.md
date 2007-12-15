@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toonboom.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626095830id_/http%3A//www.toonboom.com/help/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toonboom.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215034042id_/http%3A//www.toonboom.com/help/privacy.php) for the most accurate reproduction.*
 
 # 2D Animation | Computer Animation Software | Toon Boom
 
