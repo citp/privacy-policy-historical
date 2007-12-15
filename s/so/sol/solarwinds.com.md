@@ -1,28 +1,9 @@
-> *The following text is extracted and transformed from the solarwinds.com privacy policy that was archived on 2007-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070506172531id_/http%3A//solarwinds.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solarwinds.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215085622id_/http%3A//www.solarwinds.com/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
+# Solarwinds - Privacy Policy
 
-  * [Products](https://web.archive.org/products/index.aspx)
-  * [Downloads](https://web.archive.org/downloads/index.aspx)
-  * [Resources](https://web.archive.org/resources/index.aspx)
-  * [Partners](https://web.archive.org/partners/index.aspx)
-  * [Support](https://web.archive.org/support/index.aspx)
-  * [Company](https://web.archive.org/company/index.aspx)
+Please Read Carefully Prior To Using This Website
 
-| 
-
-### Customer Login  
-  
----  
-Customer ID:|   
-Password: |   
-  
-
-
-
-#### Please Read Carefully Prior To Using This Website
-
-  
 The use of this SolarWinds Website is conditioned upon the User's acceptance of the terms and conditions contained in this Privacy Policy, which is part of and incorporated by reference into the Terms of Use of the SolarWinds Website (the "Website"). This Privacy Policy constitutes a legally binding agreement between User and SolarWinds. This Privacy Policy lists our current policies, but, as noted below, this Privacy Policy may be adjusted from time to time at our discretion. Those who do not agree to be subject to this Privacy Policy may not, under any circumstances, use this Website. 
 
   1. Data Collection  
@@ -49,5 +30,3 @@ This Privacy Policy and the Terms of Use of the Website constitute the complete 
 
 Copyright 2006 SolarWinds.net, Inc. All Rights Reserved.  
 Last Updated 10/31/2006 
-
-Back to Top
