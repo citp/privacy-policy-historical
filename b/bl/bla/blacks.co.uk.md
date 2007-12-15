@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blacks.co.uk privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622194629id_/http%3A//www.blacks.co.uk/blacks.storefront/PrivacyandSecurity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blacks.co.uk privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215210250id_/http%3A//www.blacks.co.uk/PrivacyandSecurity) for the most accurate reproduction.*
 
 # Blacks - The Outdoor Experts
 
@@ -77,7 +77,7 @@ Cookies are alphanumeric identifiers that we transfer to your computer's hard dr
 At Blacks, we realise how important it is to securely store any information that you provide us. Our site (blacks.co.uk) currently uses high-level Secure Socket Layer (SSL) encryption technology, the most advanced security software currently available for online transactions. You can therefore rest assured that we take the security of your payment and personal details very seriously. We may vary this in the future if we feel you will benefit from greater security whilst using our Website.
 
 You can tell whether a webpage is secure as 'https' will replace the 'http' at the front of the www.blacks.co.uk in your browser address window, also a small locked padlock will appear in the bottom bar of your browser window.  
-[Insert verisign logo] click here to verify our site security
+[](https://seal.verisign.com/splash?form_file=fdf/splash.fdf&dn=WWW.BLACKS.CO.UK&lang=en) [ click here to verify our site security](https://seal.verisign.com/splash?form_file=fdf/splash.fdf&dn=WWW.BLACKS.CO.UK&lang=en)
 
 While we currently use SSL encryption to protect sensitive information online, we also protect your information off-line. All of your information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, a customer services representative) are granted access to your personal information. The servers on which we store your personal information are kept in a secure environment.  
 
@@ -103,10 +103,10 @@ Blacks will never ask you to send any personal details via email. If we require 
 
 ## Complaints
 
-If you feel that Blacks is not abiding by its posted privacy policy, you should first contact the Customer Service Department at customerservice@blacks.co.uk or by telephone us on 0800 66 54 10. You can also write to us at:- 
+If you feel that Blacks is not abiding by its posted privacy policy, you should first contact the Customer Service Department at customerservice@blacks.co.uk or by telephone us on 0800 66 54 10. You can also write to us at:-
 
-Blacks Customer Service Department   
-The Outdoor Group Limited   
+Blacks Customer Service Department  
+The Outdoor Group Limited  
 Mansard Close  
 Westgate, Northampton  
 NN5 5DL  
