@@ -1,53 +1,47 @@
-> *The following text is extracted and transformed from the snowcovered.com privacy policy that was archived on 2003-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030609160533id_/http%3A//www.snowcovered.com/Snowcovered/DesktopDefault.aspx%3Ftabindex%3D0%26tabid%3D107) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snowcovered.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215085752id_/http%3A//www.snowcovered.com/snowcovered2/Default.aspx%3Ftabid%3D1%26def%3DPrivacy) for the most accurate reproduction.*
 
-# Snowcovered, Inc.
+# Snowcovered.com: Online market for DotNetNuke modules, skins & more!
 
-Snowcovered, Inc. knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. **By visiting Snowcovered.com, you are accepting the practices described in this Privacy Notice.**
+Snowcovered.com is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Snowcovered.com Web site and governs data collection and usage. By using the Snowcovered.com website, you consent to the data practices described in this statement.
 
-**What Personal Information About Customers Does Snowcovered Gather?**
+Collection of your Personal Information
 
-The information we learn from customers helps us personalize and continually improve your shopping and sales experience at Snowcovered.com. Here are the types of information we gather. 
+Snowcovered.com collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. Snowcovered.com also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.
 
-  * **Information You Give Us:** We receive and store any information you enter on our Web site or give us in any other way. We use the information that you provide for such purposes as responding to your requests, customizing future shopping for you, improving our stores, and communicating with you. We do NOT store credit card information of any type. 
-  * **Automatic Information:** We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use "cookies," and to store your site password when you choose that option. 
-  * **E-mail Communications:**  If you do not want to receive e-mail or other mail from us, please adjust your send mail to [sales@snowcovered.com](mailto:sales@snowcovered.com). 
+There is also information about your computer hardware and software that is automatically collected by Snowcovered.com. This information can include: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used by Snowcovered.com for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Snowcovered.com Web site.
 
+Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through Snowcovered.com public message boards, this information may be collected and used by others. Note: Snowcovered.com does not read any of your private online communications.
 
+Snowcovered.com encourages you to review the privacy statements of Web sites you choose to link to from Snowcovered.com so that you can understand how those Web sites collect, use and share your information. Snowcovered.com is not responsible for the privacy statements or other content on Web sites outside of the Snowcovered.com and Snowcovered.com family of Web sites.
 
-**Does Snowcovered Share the Information It Receives?**
+Use of your Personal Information
 
-Information about our customers is an important part of our business, and we are not in the business of selling it to others. We share customer information only as described below and with subsidiaries Snowcovered, Inc. controls that either are subject to this Privacy Notice or follow practices at least as protective as those described in this Privacy Notice. 
+Snowcovered.com collects and uses your personal information to operate the Snowcovered.com Web site and deliver the services you have requested. Snowcovered.com also uses your personally identifiable information to inform you of other products or services available from Snowcovered.com and its affiliates. Snowcovered.com may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
 
-  * **Affiliated Businesses We Do Not Control:** We work closely with our affiliated businesses. We operate stores, provide services, or sell product lines jointly with these businesses. You can tell when a third party is involved in your transactions, and we share customer information related to those transactions with that third party. 
-  * **Agents:** We employ other companies and individuals to perform functions on our behalf. They have access to personal information needed to perform their functions, but may not use it for other purposes. 
-  * **Promotional Offers:** Sometimes we send offers to selected groups of Snowcovered customers on behalf of other businesses. When we do this, we do not give that business your name and address. If you do not want to receive such offers, please contact [sales@snowcovered.com](mailto:sales@snowcovered.com). 
-  * **Business Transfers:** As we continue to develop our business, we might sell or buy stores, subsidiaries, or business units. In such transactions, customer information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Notice (unless, of course, the customer consents otherwise). Also, in the unlikely event that Snowcovered, Inc., or substantially all of its assets are acquired, customer information will of course be one of the transferred assets. 
-  * **Protection of Snowcovered, Inc. and Others:** We release account and other personal information when we believe release is appropriate to comply with the law; or protect the rights, property, or safety of Snowcovered, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. Obviously, however, this does not include selling, renting, sharing, or otherwise disclosing personally identifiable information from customers for commercial purposes in violation of the commitments set forth in this Privacy Notice. 
-  * **With Your Consent:** Other than as set out above, you will receive notice when information about you might go to third parties, and you will have an opportunity to choose not to share the information. 
+Snowcovered.com does not sell, rent or lease its customer lists to third parties. Snowcovered.com may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, Snowcovered.com may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to Snowcovered.com, and they are required to maintain the confidentiality of your information.
 
+Snowcovered.com does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.
 
+Snowcovered.com keeps track of the Web sites and pages our customers visit within Snowcovered.com, in order to determine what Snowcovered.com services are the most popular. This data is used to deliver customized content and advertising within Snowcovered.com to customers whose behavior indicates that they are interested in a particular subject area.
 
-**How Secure Is Information About Me?**
+Snowcovered.com Web sites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Snowcovered.com or the site; (b) protect and defend the rights or property of Snowcovered.com; and, (c) act under exigent circumstances to protect the personal safety of users of Snowcovered.com, or the public.
 
-  * We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. 
-  * It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer. 
+Use of Cookies
 
+The Snowcovered.com Web site use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
 
+One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize Snowcovered.com pages, or register with Snowcovered.com site or services, a cookie helps Snowcovered.com to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same Snowcovered.com Web site, the information you previously provided can be retrieved, so you can easily use the Snowcovered.com features that you customized.
 
-**Which Information Can I Access?**
+You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Snowcovered.com services or Web sites you visit.
 
-Snowcovered gives you access to a broad range of information about your account and your interactions with Snowcovered for the limited purpose of viewing and, in certain cases, updating that information.
+Security of your Personal Information
 
-**Children**
+Snowcovered.com secures your personal information from unauthorized access, use or disclosure. Snowcovered.com secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other Web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
 
-Snowcovered does not sell products for purchase by children. If you are under 18, you may use Snowcovered.com only with the involvement of a parent or guardian. 
+Changes to this Statement
 
-**Conditions of Use, Notices, and Revisions**
+Snowcovered.com will occasionally update this Statement of Privacy to reflect company and customer feedback. Snowcovered.com encourages you to periodically review this Statement to be informed of how Snowcovered.com is protecting your information.
 
-If you choose to visit Snowcovered.com, your visit and any dispute over privacy is subject to this Notice, including limitations on damages, arbitration of disputes, and application of the law of the state of Tennessee. If you have any concern about privacy at Snowcovered, please send us a thorough description to [sales@snowcovered.com](mailto:sales@snowcovered.com) , and we will try to resolve it. 
+Contact Information
 
-Our business changes constantly, and our Privacy Notice will change also. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Web site frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers. 
-
-Did this help? [_Continue shopping_](http://www.snowcovered.com/Snowcovered/DesktopDefault.aspx?tabindex=1&tabid=91).
-
-Still have questions? Contact us at [sales@snowcovered.com](mailto:sales@snowcovered.com)
+Snowcovered.com welcomes your comments regarding this Statement of Privacy. If you believe that Snowcovered.com has not adhered to this Statement, please contact Snowcovered.com at [admin@snowcovered.com](mailto:admin@snowcovered.com). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
