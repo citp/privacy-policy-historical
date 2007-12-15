@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flashloaded.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629052524id_/http%3A//www.flashloaded.com/disclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flashloaded.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215133233id_/http%3A//www.flashloaded.com/disclaimer) for the most accurate reproduction.*
 
 # Flashloaded - Disclaimer and Privacy Policy
 
@@ -15,6 +15,7 @@ Attention EU Customers: Our products are for business usage. If you require thes
 Templates: Flashloaded is a reseller of the Templates available on our website. Please note that this disclaimer is not applicable for the purchase of templates which are handled by a third party. For more information, please contact support@template-help.com.  
 
 
+  
 Your privacy is an important part of our relationship with you. Protecting your privacy is just one part of our mission to provide you with highly personalized and valuable service.
 
 To register on our website, (to be part of our newsletter subscriber mailing list), you must submit only your e-mail address. In addition, to purchase a product, you must submit additional information, including your address, phone number and credit card information. This required personally identifiable information is necessary for us and our billing processors to process transactions for you, protect you against credit card fraud and contact you. If you register in one of our forums, this information is available to us, and you can set whether this becomes of publicly viewable by setting your permissions in the forum preferences.
