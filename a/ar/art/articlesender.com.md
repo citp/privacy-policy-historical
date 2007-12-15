@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlesender.com privacy policy that was archived on 2007-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070411031449id_/http%3A//www.articlesender.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlesender.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215203149id_/http%3A//www.articlesender.com/privacy.html) for the most accurate reproduction.*
 
 # Article Submission
 
@@ -21,17 +21,17 @@ OTHER SERVICES
 
 TESTIMONIAL
 
-I have been using so many different SEO tools to increase my sites' ranking but at last I have found the best solution for this.Articlesender.com is over all the SEO strategies and gives full satisfaction to the user.. 
+WOW! What a great service! I have used many submission sites, but this exceeds my expectation by miles. What a great service and submission speed is awesome. Keep It Up! 
 
-Murat Aydogdu   
-[Istanbul Hotels Online](http://www.hotelsistanbul.net/)
+Peter Nisbet   
+[Article Writing Services](http://www.article-services.com/)
 
 TESTIMONIAL
 
-We have found that article sender is very efficient when it comes to syndicating articles. This is currently the only syndication service we use because we are confident in it's ROI. 
+Again, I have to thank you on how easy it is to get my articles out onto the web. I'm done in 10 minutes rather than 10 hours. I have more time for myself and to spend with family. 
 
-Chad Ledford   
-[3tailer - The Internet Retailer](https://web.archive.org/web/20070411031449id_/http%3A//www.articlesender.com/www.3tailer.com)
+Dr. Melanie Beingessner   
+[The Calm Baby Cookbook](http://www.drmelaniebee.org/)
 
 TESTIMONIAL
 
@@ -102,6 +102,9 @@ This Privacy Policy was last revised on November 22, 2005.
 * * *
 
 Orlando, Fl: My brother, Chris Dupre has been a professional guitarist for 18 years and has been teaching guitar lessons for the past 5 years. He is taking new students for one to one lessons in your home. If you are interested, please see his [Orlando Guitar Lessons](http://www.guitar-lesson-world.com/) website.
+
+Our Microsoft certified partner is Evision Systems for [great plains accounting](http://www.evisionsys.com/)  
+
 
 | 
 
