@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the isthisyour.name privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629231914id_/http%3A//www.isthisyour.name/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isthisyour.name privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215222334id_/http%3A//www.isthisyour.name/privacy) for the most accurate reproduction.*
 
 # Your Privacy: Is This Your Name?
 
