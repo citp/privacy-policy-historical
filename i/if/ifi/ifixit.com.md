@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the ifixit.com privacy policy that was archived on 2007-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070415010222id_/http%3A//www.ifixit.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ifixit.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215071214id_/http%3A//www.ifixit.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - iFixit: iPod, iBook, & PowerBook Parts and Accessories
+
+## Privacy Statement
 
 We respect your privacy! We are firm believers in our customers' right to privacy, and adhere to the industry standard concept of Fair Information Practices. These Practices specify what information we collect from you, when we collect it, and what we're going to do with it. While writing these Practices, protecting your privacy was our primary priority- even at potential economic loss for us.
 
