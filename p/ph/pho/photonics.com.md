@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photonics.com privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214153430id_/http%3A//www.photonics.com/content/misc/2006/March/22/57264.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photonics.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215015634id_/http%3A//www.photonics.com/content/misc/2006/March/22/57264.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -41,7 +41,7 @@ Laurin Publishing offers a free voluntary, optional resume posting service at th
 
 Laurin Publishing uses any information voluntarily provided by our users to enhance their experience in our network of sites, whether to provide interactive or personalized elements on the sites or to better prepare future content based on the interests of our users.
 
-As stated above, Laurin Publishing uses information that users voluntarily provide in order to send out free subscriptions to our print publications and periodic electronic newsletters. Laurin Publishing never shares subscription or mailing lists with any third parties, including advertisers or partners. However, from time to time we may forward on to our readers carefully selected and screened mailings from certain advertisers or other companies which we feel may be of interest. If you do not wish to receive such mailings, please e-mail us at [photonics@laurin.com](mailto:photonics@laurin.com).
+As stated above, Laurin Publishing uses information that users voluntarily provide in order to send out free subscriptions to our print publications and periodic electronic newsletters. Laurin Publishing never shares subscription or mailing lists with any third parties, including advertisers or partners. However, from time to time we may forward on to our readers carefully selected and screened mailings from certain advertisers or other companies which we feel may be of interest. If you do not wish to receive such mailings, please e-mail us at [info@photonics.com](mailto:info@photonics.com).
 
 We use tracking information to determine which areas of our sites users like and don't like, based on traffic to those areas. Laurin Publishing does not track what each user read, but rather how well each page performs overall. This helps us to continue to build a better service for you.
 
@@ -67,7 +67,7 @@ Laurin Publishing gives users options wherever necessary and practical. Such cho
 
 **5\. How can visitors correct and update personally identifiable information?**
 
-To correct or change the information collected during subscription to one of our publications, please visit our Web site's subscription areas for Photonics Spectra, Biophotonics International, or EuroPhotonics. You may also e-mail any changes to [photonics@laurin.com](mailto:photonics@laurin.com), call us at 413-499-0514, fax us at 413-442-3180, or send ground mail to:
+To correct or change the information collected during subscription to one of our publications, please visit our Web site's subscription areas for Photonics Spectra, Biophotonics International, or EuroPhotonics. You may also e-mail any changes to [info@photonics.com](mailto:info@photonics.com), call us at 413-499-0514, fax us at 413-442-3180, or send ground mail to:
 
 Mailing List  
 Laurin Publishing Co., Inc.  
@@ -76,7 +76,7 @@ Pittsfield, MA 01202-4949
 
 **6\. What is Laurin Publishing's policy on deleting or deactivating names from its database?**
 
-Users may unsubscribe to our print publications or ask to be deleted from all Laurin Publishing mailing lists by sending an e-mail to [photonics@laurin.com](mailto:photonics@laurin.com), by calling us at 413-499-0514, by faxing us at 413-442-3180, or by sending ground mail to:
+Users may unsubscribe to our print publications or ask to be deleted from all Laurin Publishing mailing lists by sending an e-mail to [info@photonics.com](mailto:info@photonics.com), by calling us at 413-499-0514, by faxing us at 413-442-3180, or by sending ground mail to:
 
 Mailing List  
 Laurin Publishing Co., Inc.  
