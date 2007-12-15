@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetechlounge.com privacy policy that was archived on 2007-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070507115611id_/http%3A//www.thetechlounge.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetechlounge.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215233444id_/http%3A//www.thetechlounge.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - About | TheTechLounge
 
@@ -8,13 +8,13 @@ TheTechLounge, Inc. is committed to protecting your online privacy while providi
 
 How we collect and use personal information
 
-Registering for membership on TheTechLounge gives you access to all the site’s information and features. The only information required is your e-mail address, which is primarily used for user authentication. With your approval, we occasionally will send e-mail to notify you about important changes to the site, new services, and special offers from us. If you would rather not receive these e-mail notifications, you can simply indicate that preference either when you register or at any time you modify your account. In addition to receiving e-mail announcements, you can also sign up for a bi-weekly e-mail newsletter.
+Registering for membership on TheTechLounge gives you access to all the site's information and features. The only information required is your e-mail address, which is primarily used for user authentication. With your approval, we occasionally will send e-mail to notify you about important changes to the site, new services, and special offers from us. If you would rather not receive these e-mail notifications, you can simply indicate that preference either when you register or at any time you modify your account. In addition to receiving e-mail announcements, you can also sign up for a bi-weekly e-mail newsletter.
 
 If you enter a contest or respond to a promotion, we may ask for your postal address, e-mail address and phone number so we can notify contest winners and deliver promotional goodies.
 
 How we use "cookies"
 
-As you probably know, "cookies" are small pieces of information that some Web sites store on your computer's hard drive when you visit them. Like many other Web sites, TheTechLounge uses cookies to identify members so they don’t have to enter a user ID and password upon each visit. Most Web browsers automatically accept cookies but allow you to modify security settings so you can approve or reject cookies on a case-by-case basis. Even if you do not use cookies, you can still access all of the features on our site by logging in manually with each visit.
+As you probably know, "cookies" are small pieces of information that some Web sites store on your computer's hard drive when you visit them. Like many other Web sites, TheTechLounge uses cookies to identify members so they don't have to enter a user ID and password upon each visit. Most Web browsers automatically accept cookies but allow you to modify security settings so you can approve or reject cookies on a case-by-case basis. Even if you do not use cookies, you can still access all of the features on our site by logging in manually with each visit.
 
 What we provide to third parties
 
