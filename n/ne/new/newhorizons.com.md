@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newhorizons.com privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622095335id_/http%3A//www.newhorizons.com/content/terms.aspx%3Fid%3D307) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newhorizons.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215195353id_/http%3A//www.newhorizons.com/content/terms.aspx%3Fid%3D307) for the most accurate reproduction.*
 
 # Privacy Policy
 
