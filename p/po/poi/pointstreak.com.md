@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pointstreak.com privacy policy that was archived on 2007-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070507093807id_/http%3A//www.pointstreak.com/aboutus/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pointstreak.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215211344id_/http%3A//www.pointstreak.com/aboutus/privacypolicy.html) for the most accurate reproduction.*
 
 # Pointstreak.com - privacy policy - Real-time Scoring and League Management System
 
