@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superior.k12.wi.us privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630215125id_/http%3A//www.superior.k12.wi.us/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superior.k12.wi.us privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215034805id_/http%3A//www.superior.k12.wi.us/privacy.php) for the most accurate reproduction.*
 
 # School District of Superior - Privacy Policy
 
@@ -26,7 +26,7 @@ This site contains links to other sites. The School District of Superior is not 
 
 ## Contact Us
 
-Please [contact us](https://web.archive.org/web/20070630215125id_/http%3A//www.superior.k12.wi.us/contactus.php) if you have any questions or concerns about our privacy policy. 
+Please [contact us](https://web.archive.org/web/20071215034805id_/http%3A//www.superior.k12.wi.us/contactus.php) if you have any questions or concerns about our privacy policy. 
 
 Administrative Offices  
 3025 Tower Avenue  
