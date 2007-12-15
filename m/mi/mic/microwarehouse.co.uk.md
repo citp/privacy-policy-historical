@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the microwarehouse.co.uk privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623123257id_/http%3A//www.microwarehouse.co.uk/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the microwarehouse.co.uk privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215053918id_/http%3A//www.microwarehouse.co.uk/help/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -32,7 +32,7 @@ We would also like to inform you of various promotions, goods and services that 
 
 ## Your rights
 
-  1. You can ask us to update your personal information by emailing precise details of your request to database@macwarehouse.co.uk
+  1. You can ask us to update your personal information by emailing precise details of your request to database@dsgibusiness.com
   2. You can ask us not to send you future marketing communications. To do this, simply email database@macwarehouse.co.uk with your request.
   3. You also have the right to request a copy of any personal information we hold about you. Email your request to database@macwarehouse.co.uk. There will be a charge of £10 for this service.
 
@@ -44,7 +44,7 @@ This privacy policy only covers this website. Any other websites which may be li
 
 ## Cookies
 
-We can enhance the service if we learn about what you like and don't like. Macwarehouse assigns a number to each user to help us personalise the service for you. This number is saved on your computer and is called a 'cookie'. It is not possible to identify a particular user by means of a Cookie alone. You can be assured of anonymity. We will not know who you are, even if we issue a Cookie.
+We can enhance the service if we learn about what you like and don't like. Microwarehouse assigns a number to each user to help us personalise the service for you. This number is saved on your computer and is called a 'cookie'. It is not possible to identify a particular user by means of a Cookie alone. You can be assured of anonymity. We will not know who you are, even if we issue a Cookie.
 
 Of course if you want, you may choose not to accept or to delete the cookie that is held on your computer. The cookie is also used for anonymously recording what parts of the service you use. Overall, aggregated usage information from all our customers helps us improve Macwarehouse by showing us how different areas of the site are being used. 
 
