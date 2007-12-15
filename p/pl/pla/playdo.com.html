@@ -1,0 +1,344 @@
+<!--The following is the downloaded HTML source of the playdo.com privacy policy that was archived on 2007-12-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071215214709id_/http%3A//beta.playdo.com/index.cfm%3Fobjectid%3D9DCEDF3A-E8DE-3811-F4FF2865D77E8AE1) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<title>Privacy Policy</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta http-equiv="refresh" content="14400;url=/?logout=1">
+
+<link rel="stylesheet" type="text/css" href="/css/xmas/style.css" media="screen">
+
+<link rel="stylesheet" type="text/css" href="/css/form.css" media="screen">
+<link rel="stylesheet" type="text/css" href="/css/xmas/layout.css" media="screen">
+<link rel="stylesheet" type="text/css" href="/css/list.css" media="screen">
+<link rel="stylesheet" type="text/css" href="/css/xmas/playdo_components.css" media="screen">
+<link rel="stylesheet" type="text/css" href="/css/xmas/anylinkvertical.css" media="screen">
+<!--[if IE 6]> <style type="text/css">#dvTop {background-image:url(/img/xmas/top.gif);}</style> <![endif]-->
+
+<style>
+html { height: 100%; margin-bottom: 1px; }
+</style>
+<!-- include flash menu -->
+<script type="text/javascript" src="/js/initflashmenu.js"></script>
+<script type="text/javascript" src="/js/ufo.js"></script>
+<script type="text/javascript" src="/js/anylinkvertical.js"></script>
+<script type="text/javascript">_ajaxConfig = { '_cfscriptLocation':'/components/communityTabs.cfc', '_jsscriptFolder':'/js/ajax', 'debug':false};
+function openWin(theUrl, windowName) { window.open(theUrl,windowName,'width=450,height=500,directories=no,location=no,menubar=no,scrollbars=yes,status=no,toolbar=no,resizable=no'); }</script>
+<!-- Javascript som fixar till transparent png -->
+<script language="JavaScript">
+function correctPNG()
+{
+   var arVersion = navigator.appVersion.split("MSIE")
+   var version = parseFloat(arVersion[1])
+
+   if ((version >= 5.5) && (version < 7.0) && (document.body.filters))
+
+   {
+      for(var i=0; i<document.images.length; i++)
+      {
+         var img = document.images[i]
+         var imgName = img.src.toUpperCase()
+         if (imgName.substring(imgName.length-3, imgName.length) == "PNG")
+         {
+            var imgID = (img.id) ? "id='" + img.id + "' " : ""
+            var imgClass = (img.className) ? "class='" + img.className + "' " : ""
+            var imgTitle = (img.title) ? "title='" + img.title + "' " : "title='" + img.alt + "' "
+            var imgStyle = "display:inline-block;" + img.style.cssText
+            if (img.align == "left") imgStyle = "float:left;" + imgStyle
+            if (img.align == "right") imgStyle = "float:right;" + imgStyle
+            if (img.parentElement.href) imgStyle = "cursor:hand;" + imgStyle
+            var strNewHTML = "<span " + imgID + imgClass + imgTitle
+            + " style=\"" + "width:" + img.width + "px; height:" + img.height + "px;" + imgStyle + ";"
+            + "filter:progid:DXImageTransform.Microsoft.AlphaImageLoader"
+            + "(src=\'" + img.src + "\', sizingMethod='scale');\"></span>"
+            img.outerHTML = strNewHTML
+            i = i-1
+         }
+      }
+   }
+}
+try{ window.attachEvent("onload", correctPNG); } // IE
+catch(err) { } // Others nothing
+
+function makeMouseoverButton(id, img) {
+	if (document.images) {
+	var img_d = new Image();
+	var img_h = new Image();
+	var img_a = new Image();
+	img_d.src="/img/xmas/en/buttons/" + img + ".gif";
+	img_h.src="/img/xmas/en/buttons/" + img + "_h.gif";
+	img_a.src="/img/xmas/en/buttons/" + img + "_a.gif";
+	var b = document.getElementById(id);
+	b.onmouseover = function(){this.src=img_h.src;};
+	b.onmousedown = function(){this.src=img_a.src;};
+	b.onmouseout = function(){this.src=img_d.src;};
+	b.onmouseup = function(){this.src=img_d.src;};
+	}
+}
+
+function doSelectAll() {
+	if (document.messageForm.select_all.checked) {
+		for (i = 0; i < document.messageForm.messageIds.length; i++) { 
+			document.messageForm.messageIds[i].checked = true;
+		}  
+	} else {
+		for (i = 0; i < document.messageForm.messageIds.length; i++) { 
+			document.messageForm.messageIds[i].checked = false;
+		}  
+	}
+}
+function unCheckSelectAll() {
+	try { document.messageForm.select_all.checked = false; }
+	catch(err) { }
+}
+</script>
+<script type="text/javascript" src="/js/ajax/ajax.js"></script><script language="javascript" type="text/javascript" src="/js/ajax/engine.js"></script><script language="javascript" type="text/javascript" src="/js/ajax/util.js"></script><script language="javascript" type="text/javascript" src="/js/ajax/wddx.js"></script>
+<script type="text/javascript" src="/js/ajax/dDumper.js"></script>
+<script type="text/javascript">
+	var oFMContent = new Object();
+	atab = '';
+	activatetabnum = 0;
+	function goTab(tab)	{	
+		atab = tab;
+		useAjax = true;
+
+		if (useAjax) {
+
+		// send data to CF
+		DWREngine._execute(_ajaxConfig._cfscriptLocation, null, 'getTabHtml', _o, doFMResult);
+		}
+	}
+	// call back function
+	function doFMResult (r) {
+		activate(activatetabnum);
+		document.getElementById('dvTopBox2').innerHTML = r;
+		if (atab == 'profile') {
+			correctPNG();
+			test();
+			UFO.create(FO7, "UFOdiv7");
+			UFO.create(FO6, "UFOdiv6");
+			UFO.create(FO5, "UFOdiv5");
+		}
+		//DWRUtil.addOptions("categories", r.acategories);
+		//DWRUtil.addOptions("files", r.afiles);
+		// dump complex object to the screen
+		//sDumper(r);
+	}
+</script>
+<script language="javascript">
+function deleteCheck() {
+	var answer = confirm("Are you sure that you want to delete all selected messages?")
+	if (answer){
+		document.messageForm.submit();
+	}
+}
+function deleteMessage(id) {
+	var answer = confirm("Are you sure that you want to delete the selected messages?")
+	if (answer){
+		document.messageForm.deleteSingle.value = id;
+		document.messageForm.submit();
+	}
+}
+</script>
+
+</head>
+<body>
+
+<div id="dvContainer">
+  <div id="dvTop">
+    <div id="dvLogo">
+      <div id="dvLogoBigLeft">
+        <img src="/img/xmas/playdo_logo.gif" alt="">
+      </div>
+      <div id="dvLogosRight">
+
+
+      <a href="/index.cfm?objectid=31AF5118-BE2C-01C6-EA08BC3B7D9D1781"><img src="/img/xmas/en/icon_community.gif" alt="Community" title="Community"></a>
+      
+	      <a href="/chatworld"><img src="/img/xmas/en/icon_chat.gif" alt="Chat" title="Chat"></a>
+	      <a href="/games"><img src="/img/xmas/en/icon_games.gif" alt="Games" title="Games"></a>
+      
+      <a href="#"><img src="/img/xmas/en/icon_mobile_faded.gif" alt="Mobile" title="Mobile"></a>
+      <a href="/index.cfm?objectid=AD5E24B3-C72B-EFC4-3C14E9954B0F8FC9"><img src="/img/xmas/en/icon_playdoloves.gif" alt="Playdo Loves" title="Playdo Loves"></a>
+      <!-- <a href="#"><img src="/img/xmas/en/icon_shop_faded.gif" alt="Shop" title="Shop" /></a> -->
+      </div>
+    </div>
+  
+</div> <!-- /#dvTop -->
+	
+
+<div id="dvMainContainer">
+
+  <div id="dvTopBox2">
+
+    <div id="roundedboxContainerBox2" class="defaulttext">
+
+      <div id="infoContainerBox">
+       <div class="messageBox">
+          <h1>Navigation</h1><style type="text/css">#roundedboxContainerBox2 #infoContainerBox .messageBox .messageBoxContent { padding-left:9px; }</style>
+          <div class="messageBoxContent">
+		   <span class="topmenu"><a href="/index.cfm?objectid=9DC247D6-F881-E024-F1F6B9B309816117"><p>About Playdo</p></a></span>
+            </div>
+          <div class="messageBoxContent">
+		   <span class="topmenu"><a href="/index.cfm?objectid=5AA7887B-E840-247A-4EA16A35621DECDD"><p>About Cookies</p></a></span>
+            </div>
+          <div class="messageBoxContent">
+		   <span class="topmenu"><a href="/index.cfm?objectid=9DCEDF3A-E8DE-3811-F4FF2865D77E8AE1"><p>Privacy Policy</p></a></span>
+            </div>
+          <div class="messageBoxContent">
+		   <span class="topmenu"><a href="/index.cfm?objectid=9DCFAF9A-B57D-3C80-4072395DDD0E283C"><p>Terms &amp; Conditions</p></a></span>
+            </div>
+          <div class="messageBoxContent">
+		   <span class="topmenu"><a href="/index.cfm?objectid=9DD05A29-F666-1A6F-E5045A9E9BC38D6A"><p>Support</p></a></span>
+            </div>
+			<div class="messageBoxContent">
+		   <span class="topmenu"><a href="/index.cfm?objectid=5AAA9305-0E59-04D5-AA1E6F33DE0201A7"><p>Chat Codes of Conduct</p></a></span>
+            </div>
+       </div> 
+	</div>
+
+      <div id="contentContainerBox">
+
+        <div class="messageBox" style="padding: 0px 0 1px 0px;">
+          <h1>Privacy Policy</h1>
+          <div class="messageBoxContent" style="padding: 1px;">
+
+		  
+
+<p class="MsoBodyText"><strong><u><span style="font-size: 10pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;; color: black">Privacy Policy</span></u></strong><strong><span style="font-size: 10pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;; color: black"> </span></strong></p>
+
+
+<p style="text-align: justify" class="MsoBodyText"><span style="font-size: 10pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;; color: black">You can trust us at Playdo. We swear solely that we
+will protect and keep your personal information private and never share it with
+other companies or other people without your permission. As long as you don't
+break any of the rules (described in the terms and conditions) and laws (local,
+national or international), your privacy is safe with Playdo; If you do however,
+we might have to share your information with Legal Authorities.</span></p>
+
+
+<p style="text-align: justify" class="MsoBodyText"><span style="font-size: 10pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;; color: black">The information we collect about you helps us to
+serve you better and allows us to get in touch with you. </span></p>
+
+
+<p style="text-align: justify" class="MsoBodyText"><span style="font-size: 10pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;; color: black">You will be notified about how all information you
+give us will be used and if, or how, it'll be displayed in Playdo. Some
+information is public so people can communicate with you and the rest is
+private or set in different levels of privacy. </span></p>
+
+
+<p style="text-align: justify" class="MsoBodyText"><span style="font-size: 10pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;; color: black">NEVER share any personal information - in chat
+rooms, blogs, guest books or your profile - if you are not TOTALLY sure and
+aware of that you want to show it to the world. This is your very own
+responsibility, don’t take lightly on this. Playdo reserves the right to, but
+do not promise to, temporarily hide personal information posted by you while
+checking with you (or your parents if you are under 18) that it is really OK.</span></p>
+
+
+<p style="text-align: justify" class="MsoBodyText"><strong><span style="font-size: 10pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;; color: black">E-mail:</span></strong><span style="font-size: 10pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;; color: black"></span></p>
+
+
+<p style="text-align: justify" class="MsoBodyText"><span style="font-size: 10pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;; color: black">We may from time to time e-mail you with informative
+messages about services or third party products and services we believe you
+might be interested in. </span></p>
+
+
+<p style="text-align: justify" class="MsoBodyText"><span style="font-size: 10pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;; color: black">The newsletters may contain code that enables our
+database to track your usage of the newsletters, including if the email was
+opened and/or what links (if any) were clicked. We can combine that information
+with other information we have about you to improve your site experience and/or
+provide customized e-mail communications to you. </span></p>
+
+
+<p class="MsoBodyText"><strong><span style="font-size: 10pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;; color: black">Password:</span></strong></p>
+
+
+<p style="text-align: justify" class="MsoBodyText"><span style="font-size: 10pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;; color: black">Your password is the master key to your profile. So
+try to use a password that is hard to guess. And even though it might sound a
+bit obvious, we must remind you not to give it to anyone. We will NEVER ask you
+for your password so don't be fooled by e-mails that do so. </span></p>
+
+
+<p class="MsoBodyText"><strong><span style="font-size: 10pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;; color: black">IP Address:</span></strong></p>
+
+
+<p style="text-align: justify" class="MsoBodyText"><span style="font-size: 10pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;; color: black">An Internet Protocol (IP) address is a unique
+string of numbers, like a bar code or an ID, that your server and Internet
+Provider gives to your computer. Web servers automatically identify your
+computer by its IP address. IP addresses are used only to help us find and fix
+problems with our server and to administer the site and to contact you. Your IP
+address may also be used to gather broad demographic <span> </span>information. But again, we will never share your IP address with
+anyone else. It's our little secret! </span></p>
+
+
+<p class="MsoBodyText"><strong><span style="font-size: 10pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;; color: black">Cookies</span></strong></p>
+
+
+<p style="text-align: justify" class="MsoBodyText"><span style="font-size: 10pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;; color: black">Cookies, donuts, cakes and other delicious
+desserts! YUMMY! Cookies in Playdo are sugar free. We may place this text file
+called “cookie” in the browser files of your computer. They are small lines of
+text that are stored in your browser to save information about you while you
+access Playdo. That helps us know how to serve you better improving your
+experience and providing customized communication. We may use this information
+to enhance your experience and we may share some information, but never your
+personal information, with our members, vendors, sponsors or others. </span></p>
+
+
+<p style="text-align: justify" class="MsoBodyText"><span style="font-size: 10pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;; color: black">As in a celebrity diet, you can avoid cookies. You
+only have to delete them from your browser directory and to stop allowing them
+completely change your browser preferences (go to Tools &gt; Internet
+Preferences &gt; Privacy). </span></p>
+
+
+<p class="MsoBodyText"><span style="font-size: 10pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;; color: black">&nbsp;</span></p>
+
+
+<p class="MsoBodyText"><strong><span style="font-size: 10pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;; color: black">If you have any
+further questions about Playdo's Privacy Policy, please don't hesitate to
+contact us at </span></strong><span style="font-size: 10pt"><a href="mailto:support@playdo.com"><span style="font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;">support@playdo.com</span></a></span><strong><span style="font-size: 10pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;; color: black">. </span></strong></p>
+
+
+
+          </div> <!-- messageBoxContent -->
+          
+          <div class="clear_fix"></div>
+        </div>
+         
+      </div> <!-- /#contentContainerBox -->
+
+      
+      <div id="dvCopyright" class="clear_fix">
+        <p>Copyright © 1999-2007 Playdo AB. All rights reserved.</p>
+        <p class="infoNav">
+		  
+		    <a href="/index.cfm?objectid=9DC247D6-F881-E024-F1F6B9B309816117" target="_blank">About Playdo</a>
+		    |
+		    <a href="/index.cfm?objectid=5AA7887B-E840-247A-4EA16A35621DECDD" target="_blank">About Cookies</a>
+		    |
+		    <a href="/index.cfm?objectid=9DCEDF3A-E8DE-3811-F4FF2865D77E8AE1" target="_blank">Privacy Policy</a>
+		    |
+		    <a href="/index.cfm?objectid=9DCFAF9A-B57D-3C80-4072395DDD0E283C" target="_blank">Terms and Conditions</a>
+		    |
+		    <a href="/index.cfm?objectid=9DD05A29-F666-1A6F-E5045A9E9BC38D6A" target="_blank">Support</a>
+		  
+		</p>
+      </div>
+
+
+    </div> <!-- /#roundedboxContainerBox2 -->
+
+	 
+  </div> <!-- /#dvTopBox2 -->
+
+  
+</div> <!-- /#dvMainContainer -->
+
+
+</div> <!-- /#dvMainContainer -->
+
+
+ <!-- /#dvContainer -->
+
+
+
+
+</body></html>
