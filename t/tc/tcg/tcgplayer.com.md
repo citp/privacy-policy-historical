@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tcgplayer.com privacy policy that was archived on 2007-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070117200017id_/http%3A//tcgplayer.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tcgplayer.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215104431id_/http%3A//www.tcgplayer.com/privacy.asp) for the most accurate reproduction.*
 
 # TCGplayer.com: Tradable and Collectible Game Player
 
@@ -8,11 +8,11 @@ SUBSCRIBERS
 
 **CHANNELS**
 
-[](http://forum.tcgplayer.com/) [](https://web.archive.org/db/article_search_result.asp?report_type=News) [](http://magic.tcgplayer.com/) [](http://vs.tcgplayer.com/) [](http://yugioh.tcgplayer.com/) [](http://wow.tcgplayer.com/) [](http://spoils.tcgplayer.com/) [](http://dreamblade.tcgplayer.com/) [](http://pokemon.tcgplayer.com/) [](http://heroclix.tcgplayer.com/) [](http://naruto.tcgplayer.com/) [](http://dm.tcgplayer.com/)
+[](http://forum.tcgplayer.com/) [](https://web.archive.org/db/article_search_result.asp?report_type=News) [](http://magic.tcgplayer.com/) [](http://vs.tcgplayer.com/) [](http://yugioh.tcgplayer.com/) [](http://wow.tcgplayer.com/) [](http://spoils.tcgplayer.com/) [](http://bleach.tcgplayer.com/) [](http://dreamblade.tcgplayer.com/) [](http://pokemon.tcgplayer.com/) [](http://heroclix.tcgplayer.com/) [](http://naruto.tcgplayer.com/) [](http://dm.tcgplayer.com/)
 
 **CONTEST**
 
-[](http://www.tcgplayer.com/contests/articles.asp) [](http://www.tcgplayer.com/contests/submission_tips.asp)
+[](http://www.tcgplayer.com/contests/articles.asp)
 
 **SITE INFO**
 
@@ -107,25 +107,12 @@ All rights reserved.
 [Privacy Policy](https://web.archive.org/privacy.asp)  
 
 
-|  | 
-
-  
-
-
-| LATEST Magic ARTICLE  
----  
-  
-|  **[Drafting RG Archetypes](http://magic.tcgplayer.com/db/article.asp?ID=7283)**  
----  
-  
-My favorite color combination in Time Spiral draft is RG. The thing is, you can draft RG three different ways. The purpose of this article is to analyze the three different types of RG that you can draft and try to set up the top picks for those decks.   
-  
-LATEST DREAMBLADE ARTICLE  
+|  |  | LATEST DREAMBLADE ARTICLE  
 ---  
 LATEST SPOILS ARTICLE  
 ---  
   
-|  **[Pimpin THE Spoils](http://spoils.tcgplayer.com/db/article.asp?ID=1389)**  
+|  **[GG.dec](http://spoils.tcgplayer.com/db/article.asp?ID=2007)**  
 ---  
   
-Being the owner of a new FLGS in a relatively untapped environment brings a good number of new players who look around at all the different games and can't chose for themselves based upon what little they can see with their eyes. 
+In this week's instalment of Canadien Bacon, we are going to continue talking about “Rogue Decks” of 1st Edition. We're switching gears and playing the aggro game. 
