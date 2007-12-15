@@ -1,15 +1,8 @@
-> *The following text is extracted and transformed from the synotrip.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623053627id_/http%3A//www.synotrip.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the synotrip.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215153909id_/http%3A//www.synotrip.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # About_Us - privacy policy | Synotrip.com
 
-Guide
-
-﻿  \- [The Synotrip Team](http://www.synotrip.com/about-us/the-synotrip-team/)  
-  \- [Join Synotrip](http://www.synotrip.com/about-us/join-synotrip/)  
-  \- [Our Partners](http://www.synotrip.com/about-us/partners/)  
-  \- [Advertise on Synotrip](http://www.synotrip.com/about-us/advertise/)  
-  \- [Link to Us](http://www.synotrip.com/about-us/link-to-us/)  
-  \- [Contact Us](http://www.synotrip.com/about-us/contact-us/) | 
+| 
 
 | 
 
@@ -37,4 +30,9 @@ Synotrip.com assumes that you consent to the collection and use of your informat
 
 For questions or complaints about the Synotrip.com Privacy Policy please feel free to contact us.  
   
+#### [Submit your listing](http://www.synotrip.com/freelisting?URI=/en/about-us/privacy-policy)   
+
+
+ 
+
 | 
