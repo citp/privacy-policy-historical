@@ -1,18 +1,6 @@
-> *The following text is extracted and transformed from the delhilive.com privacy policy that was archived on 2007-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070218165749id_/http%3A//www.delhilive.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the delhilive.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215232025id_/http%3A//www.delhilive.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | DelhiLive.com
-
-## Random image
-
-[](https://web.archive.org/swaminarayan_akshardham_temple)
-
-## Syndicate
-
-[](https://web.archive.org/rss.xml)
-
-| 
-
-We are looking for volunteers to contribute information on various aspects of Delhi. If interested, please send an e-mail to admin@delhilive.com
 
 Submitted by admin on Sun, 30/04/2006 - 14:13.
 
@@ -133,14 +121,4 @@ A cookie is a small amount of data, which often includes an anonymous unique ide
 
 DelhiLive may update this policy at any time for any reason. If there are any significant changes to how we handle personal information we will send a notice to the primary email address specified in your DelhiLive account or by placing a prominent notice on our site.
 
-If you have questions or suggestions please contact us at admin@DelhiLive.com.
-
-  
-  
-
-
-| 
-
-## Upcoming events
-
-[](http://www.delhilive.com/event/ical "Add this calendar to your iCalendar")
+If you have questions or suggestions please contact us at [admin@DelhiLive.com](mailto:admin@DelhiLive.com).
