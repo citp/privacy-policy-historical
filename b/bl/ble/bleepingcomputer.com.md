@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bleepingcomputer.com privacy policy that was archived on 2007-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070515153551id_/http%3A//www.bleepingcomputer.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bleepingcomputer.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215031828id_/http%3A//www.bleepingcomputer.com/privacy.php) for the most accurate reproduction.*
 
 # BleepingComputer.com - Privacy Policy
 
-**Updated January 25, 2006**
+**Updated July 13, 2007**
 
 **Overview**
 
@@ -40,7 +40,7 @@ BleepingComputer will make all means necessary to protect your sensitive informa
 
 **How can I update my personal information?**
 
-You can update almost all information about your account by logging in and clicking on My Control Panel. From the control panel you can Edit your profile. If there is information that you can not change with this method, please send an email to us using this [feedback form](http://www.bleepingcomputer.com/contactus.php) with all relevant information. 
+You can update almost all information about your account by logging in and clicking on My Control Panel. From the control panel you can Edit your profile. If there is information that you can not change with this method, please send an e-mail to us using this [feedback form](http://www.bleepingcomputer.com/contactus.php) with all relevant information. 
 
 **Policies for individuals under 13 (COPPA)**
 
@@ -68,6 +68,8 @@ Certain web pages may contain images, sometimes called web beacons, that allow a
 
 **How to Unsubscribe from BleepingComputer.com**
 
+If you are a member of this site, and would like to unsubscribe, you can [contact us](http://www.bleepingcomputer.com/contactus.php) and provide your login name and E-mail address. We will then verify via e-mail that you are indeed the owner of the account and remove or deactivate it as per your wish. 
+
 By using this website, you signify your assent to the BleepingComputer Privacy Policy. If you do not agree to this policy, please do not use this site. We reserve the right, at our discretion, to change, modify, add, or remove portions of this policy at any time . Please check this page periodically for changes that may have occurred. You continued use of this website following the posting of these changes signifies that you accept those changes. 
 
-If at any time you would like to communicate with us about your privacy concerns, please email us using this [feedback form](http://www.bleepingcomputer.com/contactus.php). 
+If at any time you would like to communicate with us about your privacy concerns, please e-mail us using this [feedback form](http://www.bleepingcomputer.com/contactus.php). 
