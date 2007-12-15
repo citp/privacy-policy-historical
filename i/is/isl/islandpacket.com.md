@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the islandpacket.com privacy policy that was archived on 2006-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060314174556id_/http%3A//www.islandpacket.com/services/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the islandpacket.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216005832id_/http%3A//www.islandpacket.com/services/privacy) for the most accurate reproduction.*
 
 # islandpacket.com | Privacy Policy
 
