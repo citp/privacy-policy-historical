@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sideshowtoy.com privacy policy that was archived on 2006-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060616195700id_/http%3A//www.sideshowtoy.com/cgi-bin/category.cgi%3Fcategory%3Dprivacy%26source%3Dleftnav%26kw%3DPRIVACY_POLICY) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sideshowtoy.com privacy policy that was archived on 2007-12-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071215034542id_/http%3A//www.sideshowtoy.com/cgi-bin/category.cgi%3Fcategory%3Dprivacy%26source%3Dleftnav%26kw%3DPRIVACY_POLICY) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/1999/REC-html401-19991224/loose.dtd"><html lang="en"><head>
 	<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
@@ -18,13 +18,13 @@
 // --></script>
 
 
-<!-- 
-<SCRIPT LANGUAGE="JavaScript">
-<!~~ 
-window.location="/cgi-bin/category.cgi?category=site2&source=streamline";
-// ~~>
-</script>
+
+<script language="JavaScript">
+<!--
+//window.location="/cgi-bin/category.cgi?category=site2";
  -->
+</script>
+
 
 <script type="text/javascript">
 function showContent(id) {
@@ -35,9 +35,37 @@ function hideContent(id) {
 	document.getElementById(id).style.display = "none";
 	}
 </script>
+<script type="text/javascript">
+function showContent2(id) {
+	document.getElementById(id).style.display = "block";
+	}
 		
+function hideContent2(id) {
+	document.getElementById(id).style.display = "none";
+	}
+</script>
+<script type="text/javascript">
+function showContent3(id) {
+	document.getElementById(id).style.display = "block";
+	}
+		
+function hideContent3(id) {
+	document.getElementById(id).style.display = "none";
+	}
+</script>
 
-<script type="text/javascript" src="/utm/__utm.js"></script><script language="JavaScript1.5">_ujv='1.5';</script>
+<!-- SCRITING FOR DISCOUNT FIELDS -->
+<script type="text/javascript">
+function showDiscount(id) {
+	document.getElementById(id).style.display = "block";
+	}
+		
+function hideDiscount(id) {
+	document.getElementById(id).style.display = "none";
+	}
+</script>
+<!-- END SCRIPTING FOR DISCOUNT FIELDS -->
+
 
             <title>Sideshow Collectibles.com -  - Manufacturer of movie, film, television and proprietary collectibles, figures and toys.</title>
             <meta name="description" content="Manufacturer of movie, film, television and proprietary collectible figures. Featuring properties such as   and others such as Star Wars, The Marvel Universe, The Lord of the Rings, Terminator, Medicom Distribution, Buffy the Vampire Slayer, Angel, Predator, Aliens, Monty Python, Universal Monsters and more.">
@@ -50,6 +78,7 @@ function hideContent(id) {
 <link rel="alternate" type="text/xml" title="RSS .92" href="http://www.sideshowtoy.com/behindtheshow/?feed=rss">
 <link rel="alternate" type="application/atom+xml" title="Atom 0.3" href="http://www.sideshowtoy.com/behindtheshow/?feed=atom">
 <link rel="SHORTCUT ICON" href="/favicon.ico">
+
 	<script type="text/javascript" language="Javascript 1.2">
 		function getMediaBrowser(sku,type,size) {
 			if(type=="VR") {
@@ -199,7 +228,10 @@ window.location=("/cgi-bin/category.cgi?category=search&query=^waitlistonly.sql&
 				window.location=("/cgi-bin/fe.pl?page=search_content&query="+searchQuery);
 				return false;
 			} else if(searchCategory=="news") {
-				window.location=("/behindtheshow/index.php?s="+searchQuery);
+				window.location=("/behindtheshow/index.php?s="+searchQuery+"&searchType=publish");
+				return false;
+			} else if(searchCategory=="ministry") {
+				window.location=("/behindtheshow/index.php?s="+searchQuery+"&searchType=static");
 				return false;
 			} else if(searchCategory=="helpdesk") {
 				searchURL = ("/cgi-bin/category.cgi?category=search&template=HDSEARCH&limitcategory=ORD|OUA|DAM|LOC|SHIP|ORD0300|ORD0400|SHIPI|SHIPI0100|SHIPI0200|SHIPD|SHIPQ|DEL|MEA|LTD|SHIPI|SHIPD|SHIPI0100|SHIPI0200|RET|PRE|ORD0600|HPT&searchfields=brand|model|description&query="+searchQuery);
@@ -213,14 +245,40 @@ window.location=("/cgi-bin/category.cgi?category=search&query=^waitlistonly.sql&
 		}	
 </script>
 
+<script type="text/javascript" language="JavaScript">
+	function getPodiumVideo(num) {
+		podiumURL = "/php/cc07-podiums.php?id="+num;
+		myRef= window.open(podiumURL,'podium','width=630,height=600,scrollbars,resizable');
+		myRef.focus();
+	}
+</script>
+
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script>
+<script type="text/javascript">
+	_uacct="UA-710469-1";
+	_userv=2;
+	urchinTracker();
+</script>
+
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/master-scripts.js"></script>
+<script type="text/javascript" language="JavaScript">
+	$(document).ready(function(){
+		init();
+	});
+</script>
+
+
 </head>
 <body marginheight="0" marginwidth="0" topmargin="0" leftmargin="0" text="#000000" link="#333333" vlink="#666666" alink="#000000" bgcolor="#FFFFFF">
+
 <div style="position:absolute;top:14px;left:450px;"><a href="/php/rssfeeds.php" title="subscribe to rss feed"><img src="/placed/rss_header_icon.gif" width="80" height="15" alt="subscribe to rss feed" style="border-style:none;"></a>
 <!-- start PST clock -->
 <style type="text/css">
 	.timeLink	{color: #fff; text-decoration: none;}
 </style>
-<div id="tP" style="padding-top: 10px; font-size: 7pt; font-family: arial,helvetica,sans-serif; color: #fff;"><a href="http://www.timeanddate.com/worldclock/city.html?n=137" target="_blank" class="timeLink">2 Feb 20  6:19am PT</a></div>
+<div id="tP" style="padding-top: 10px; font-size: 7pt; font-family: arial,helvetica,sans-serif; color: #fff;">Sun 2 Feb 20 6:19:43am</div>
+<!--
 <script type="text/javascript">
 function tS(){ x=new Date(tN().getUTCFullYear(),tN().getUTCMonth(),tN().getUTCDate(),tN().getUTCHours(),tN().getUTCMinutes(),tN().getUTCSeconds()); x.setTime(x.getTime()+dS()-28800000); return x; } 
 function tN(){ return new Date(); } 
@@ -233,18 +291,48 @@ function dT(){ document.getElementById('tP').innerHTML=eval(oT); setTimeout('dT(
 function aP(x){ return (x>11)?'pm':'am'; } 
 var dN=new Array('Sun','Mon','Tue','Wed','Thu','Fri','Sat');
 var mN=new Array('Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec');
-var oT="'<a href=http://www.timeanddate.com/worldclock/city.html?n=137 target=_blank class=timeLink>'+tS().getDate()+' '+mN[tS().getMonth()]+' '+y2(tS().getYear())+' '+' '+tH(tS().getHours())+':'+lZ(tS().getMinutes())+aP(tS().getHours())+' PT</a>'";
+var oT="'<a href=http://www.timeanddate.com/worldclock/city.html?n=137 target=_blank class=timeLink>'+tS().getDate()+' '+mN[tS().getMonth()]+' '+y2(tS().getYear())+' '+' '+tH((tS().getHours()))+':'+lZ(tS().getMinutes())+aP(tS().getHours())+' PT</a>'";
+if(!document.all){ window.onload=dT; }else{ dT(); }
+
+</script>
+-->
+<script type="text/javascript">
+// Clock Script Generated By Maxx Blade's Clock v2.0d
+// http://www.maxxblade.co.uk/clock
+function tS(){ x=new Date(tN().getUTCFullYear(),tN().getUTCMonth(),tN().getUTCDate(),tN().getUTCHours(),tN().getUTCMinutes(),tN().getUTCSeconds()); x.setTime(x.getTime()-25200000); return x; } 
+function tN(){ return new Date(); } 
+function lZ(x){ return (x>9)?x:'0'+x; } 
+function tH(x){ if(x==0){ x=12; } return (x>12)?x-=12:x; } 
+function y2(x){ x=(x<500)?x+1900:x; return String(x).substring(2,4) } 
+function dT(){ document.getElementById('tP').innerHTML=eval(oT); setTimeout('dT()',1000); } 
+function aP(x){ return (x>11)?'pm':'am'; } 
+var dN=new Array('Sun','Mon','Tue','Wed','Thu','Fri','Sat');
+var mN=new Array('Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec');
+var oT="dN[tS().getDay()]+' '+tS().getDate()+' '+mN[tS().getMonth()]+' '+y2(tS().getYear())+' '+tH(tS().getHours()-1)+':'+lZ(tS().getMinutes())+':'+lZ(tS().getSeconds())+aP(tS().getHours())";
 if(!document.all){ window.onload=dT; }else{ dT(); }
 </script>
+
+
+<script type="text/javascript">
+function launchCC06feature(section) {
+			var popupURL = '/events/comiccon06/map/'+section;
+			var popup = window.open(popupURL,'SDCC','toolbar=0,location=0,directories=0,titlebar=0,status=0,menubar=0,scrollbars=0,resizable=0,width=1030,height=770,screenX=0,screenY=0,left=0,top=0');
+   			if(navigator.appName.substring(0,8) == "Netscape" ) {
+	            popup.location = popupURL;
+    	        popup.opener = self;
+    	    }
+		}
+</script>
+
 <!-- end PST clock  -->
 </div>
 
-	<map name="header">
-	<area shape="rect" coords="9,5,343,36" href="/cgi-bin/category.cgi?category=0&amp;source=mainlogonav" alt="SideshowCollectibles.com Homepage - Click Here">
-	<area shape="rect" coords="17,37,144,53" href="/cgi-bin/category.cgi?category=0&amp;source=mainlogonav" alt="SideshowCollectibles.com Homepage - Click Here">
-	<area shape="rect" coords="152,37,339,53" href="/cgi-bin/category.cgi?category=collectforlife&amp;source=mainlogonav" alt="Let Us Help you to Collect for LIfe (TM)">
-	</map>
 
+	<map name="header">
+	<area shape="rect" coords="28,7,281,56" href="/cgi-bin/category.cgi?category=0&amp;source=mainlogonav" alt="Click for SideshowCollectibles.com Homepage">
+	<area shape="rect" coords="293,0,432,56" href="/cgi-bin/category.cgi?category=holiday07&amp;source=mainlogonav" alt="Click for SideshowCollectibles.com Homepage">
+
+	</map>
 	<map name="cart">
 	<area shape="rect" coords="0,8,83,28" href="/cgi-bin/myhistory.cgi" alt="SideshowCollectibles.com">
 	<area shape="rect" coords="84,8,215,28" href="/cgi-bin/Make-a-Store.cgi" alt="SideshowCollectibles.com">
@@ -252,13 +340,13 @@ if(!document.all){ window.onload=dT; }else{ dT(); }
 
 <table border="0" cellpadding="0" cellspacing="0" width="720" style="background: #FFF;">
 <tbody><tr>
-	<td style="background:url(/placed/0306_header.jpg) #000 no-repeat;">
+	<td style="background:url(/placed/121407_header.jpg) #000 no-repeat;">
 	
 	<table border="0" cellpadding="0" cellspacing="0" width="100%">
 	<tbody><tr>
 		<td align="left" width="100%"><img src="/placed/trans.gif" alt="Sideshow Collectibles" width="500" height="55" border="0" usemap="#header"></td>
 		<td width="100%" nowrap="" align="center" style="padding:2px 5px 0px 0px;"><img src="/placed/0604_shopcart.jpg" alt="Shopping Cart - My Account" width="223" height="29" hspace="0" vspace="0" border="0" usemap="#cart"><br>
-		<div id="SSC"><a class="site_c" href="/cgi-bin/myhistory.cgi">Login</a> |
+		<div id="SSC"><a class="site_c" href="https://www.sideshowtoy.com/cgi-bin/myhistory.cgi">Login</a> |
 		<a class="site_c" href="/cgi-bin/Make-a-Store.cgi?logout">Logout</a> |
 		<a class="site_c" style="color: #9CF17F;" href="javascript:showNewsPanel('newsLoginPanel');" title="Existing Member Login">Newsletter Sign-In</a>
 		</div>
@@ -315,7 +403,8 @@ if(!document.all){ window.onload=dT; }else{ dT(); }
 		<select name="searchCategory" size="1" class="lotr_drop">
 	<option value="products" selected="selected">Products</option>
 	<!-- <option value="content" >Articles/Content</option> -->
-	<option value="news">News/Blog/Content</option>
+	<option value="news">News/Blog</option>
+	<option value="ministry">Ministry of Info</option>
 	<option value="helpdesk">Help Desk</option>
 	<option value="onsale">Sale Items</option>
 	<option value="waitlistonly">Wait List</option>
@@ -323,31 +412,19 @@ if(!document.all){ window.onload=dT; }else{ dT(); }
 <a href="javascript:performSearch();"><img src="/placed/0305_gobutton.gif" border="0" width="24" height="17" name="gobutton" align="absmiddle"></a></td>
 		<!-- END PRODUCT SEARCH FORM-->
 
+		<!-- FLEXPAY --><td style="border-right:1px #999 solid;padding: 0px 5px;" nowrap=""><a href="/cgi-bin/category.cgi?category=search&amp;query=^onsale.sql"><img src="/placed/onsalenow.gif" alt="On Sale Now - Click Here!" width="77" height="22" border="0"></a></td>
+		<!-- END FLEXPAY -->
+		
 		<!-- US STOCK --><td style="border-right:1px #999 solid;padding-top:1px;" nowrap=""><a href="/cgi-bin/category.cgi?category=search&amp;query=%5Eus_ship.sql" class="us_shipping"><img src="/placed/top_us_flag.jpg" alt="US IN STOCK ITEMS" width="17" height="10" hspace="0" vspace="0" border="0" align="left" style="margin:1px 0px 0px 5px;"> IN STOCK</a></td>
 		<!-- END US STOCK -->
 		
-		<!-- EU STOCK --><td style="border-right:1px #999 solid;padding-top:1px;" nowrap=""><a href="/cgi-bin/category.cgi?category=search&amp;query=%5Eeu_ship.sql" class="eu_shipping"><img src="/placed/top_eu_flag.jpg" alt="EU IN STOCK ITEMS" width="17" height="10" hspace="0" vspace="0" border="0" align="left" style="margin:1px 0px 0px 5px;"> IN STOCK</a></td>
+		<!-- EU STOCK --><!-- <td style="border-right:1px #999 solid;padding-top:1px;" nowrap><a href="/cgi-bin/category.cgi?category=search&amp;query=%5Eeu_ship.sql" class="eu_shipping"><img src="/placed/top_eu_flag.jpg" alt="EU IN STOCK ITEMS" width="17" height="10" hspace="0" vspace="0" border="0" align="left" style="margin:1px 0px 0px 5px;"> IN STOCK</a></td> -->
 		<!-- END EU STOCK -->
+
+		<!-- GIFT GUIDE 2006 --><td style="border-right:1px #999 solid;padding-top:1px;" nowrap="" align="center"><a href="javascript:showNewsPanel('giftPanel');"><img src="/placed/giftsearch06.gif" alt="Click to Search for a Great Gift Idea" width="77" height="22" border="0"></a></td>
+		<!-- END GIFT GUIDE 2006 STOCK -->
 		
-		<!-- FLEXPAY --><td style="border-right:1px #999 solid;padding: 0px 5px;" nowrap=""><script language="JavaScript" type="text/javascript" src="/ads//adx.js"></script>
-<script language="JavaScript" type="text/javascript">
-<!--
-   if (!document.phpAds_used) document.phpAds_used = ',';
-   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
-   
-   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
-   document.write ("/ads//adjs.php?n=" + phpAds_random);
-   document.write ("&amp;what=zone:33");
-   document.write ("&amp;exclude=" + document.phpAds_used);
-   if (document.referrer)
-      document.write ("&amp;referer=" + escape(document.referrer));
-   document.write ("'><" + "/script>");
-//-->
-</script><script language="JavaScript" type="text/javascript" src="/ads//adjs.php?n=224685371&amp;what=zone:33&amp;exclude=,"></script><noscript><a href='/ads//adclick.php?n=aa58323e' target='_blank'><img src='/ads//adview.php?what=zone:33&amp;n=aa58323e' border='0' alt=''></a></noscript>
 
-
-</td>
-		<!-- END FLEXPAY -->
 				<td style="padding: 0px 5px 0px 10px;" class="subtotal" nowrap="">ITEMS: <b>0</b> | SUBTOTAL: <b>$  0.00</b></td>
 		<!-- CART ITEMS -->
 <!-- CART ITEMS -->
@@ -361,16 +438,73 @@ if(!document.all){ window.onload=dT; }else{ dT(); }
 	<td colspan="3" valign="top" align="center" style="background: url(/placed/secondchance_790x40_bkgd.jpg) repeat-x #FFF;text-align:center;">
 		<table border="0" cellpadding="0" cellspacing="0" width="720">
 		<tbody><tr>
-			<!-- toy fair code here -->
-			<!-- <td align="right" style="padding-left: 10px;"><a href="/cgi-bin/category.cgi?category=toyfair06&source=home_flashAd" title="Toy Fair 2006"><img src="/placed/flashAd_toyfair.gif" width="400" height="40" alt="Check out Toy Fair 2006!" border="0"/></a></td> -->
+			<!-- javascript news scroller  -->
+			<td align="right" style="width: 410px; height: 40px;">
+				<div id="js-news">
+				
+				
+
+<div class="js-news-item" id="news-item-1" style="overflow: hidden; height: 39.7854px; display: block;">
+	<div class="js-news-image"><a href="http://gt.sideshowtoy.com/newsletter" title="Newsletter Posted"><img src="/wp_uploads/cart_emailfriend_icon.thumbnail.jpg" alt=""></a></div>
+	<h4><a href="http://gt.sideshowtoy.com/newsletter">December 6th Newsletter Posted</a></h4>
+	<p>Log in to your newsletter account now to see the latest news from Sideshow!</p>
+</div>
+
+<div class="js-news-item" id="news-item-2">
+	<div class="js-news-image"><a href="/cgi-bin/category.cgi?category=sideshowradio&amp;source=home_flashAd" title="Check it out"><img src="/placed/js-news-podcast.gif" alt=""></a></div>
+	<h4><a href="/cgi-bin/category.cgi?category=sideshowradio&amp;source=home_flashAd">Dec 12th Edition of Sideshow Radio</a></h4>
+	<p>Sideshow is celebrating the Holidays in style - don't miss the latest podcast!</p>
+</div>
+
+<div class="js-news-item" id="news-item-3">
+	<div class="js-news-image"><a href="/behindtheshow/?page_id=4099" title="Creature from the Black Lagoon"><img src="/placed/1213_creature.gif" alt=""></a></div>
+	<h4><a href="/behindtheshow/?page_id=4099">The Creature is coming in Premium Format!</a></h4>
+	<p>Monster fans rejoice! The Creature from the Black Lagoon is now in Premium Format!</p>
+</div>
+
+<div class="js-news-item" id="news-item-4">
+	<div class="js-news-image"><a href="/behindtheshow/?page_id=4102" title="Battlestar Galatica Cylon"><img src="/placed/1213_cylon.gif" alt=""></a></div>
+	<h4><a href="/behindtheshow/?page_id=4102">Beware of the Life-Size Cylon!</a></h4>
+	<p>Fred Barton has created another life-sized masterpiece - The Battlestar Galatica Cylon</p>
+</div>
+
+<div class="js-news-item" id="news-item-5">
+	<div class="js-news-image"><a href="/behindtheshow/?page_id=4101" title="Battle-damaged Predator"><img src="/placed/1213_bdpred2.gif" alt=""></a></div>
+	<h4><a href="/behindtheshow/?page_id=4101">Hot Toys Battle-Damaged Predator</a></h4>
+	<p>Straight from Predator 2 - Don't miss Hot Toys Poseable Model Kit of the Battle-damaged Predator.</p>
+</div>
+				
+<div class="js-news-item" id="news-item-6">
+	<div class="js-news-image"><a href="/cgi-bin/category.cgi?category=search&amp;query=^basic_search.sql&amp;q1=9714" title="Treachery of Saruman Diorama"><img src="/mas_assets/preorder/9714_pre.jpg" alt="Treachery of Saruman Diorama"></a></div>
+	<h4><a href="/cgi-bin/category.cgi?category=search&amp;query=^basic_search.sql&amp;q1=9714">Treachery of Saruman Diorama</a></h4>
+	<p>Our latest The Lord of the Rings collectible - available now!</p>
+</div>
+
+<div class="js-news-item" id="news-item-7">
+	<div class="js-news-image"><a href="/cgi-bin/category.cgi?category=holiday07" title="Find the Perfect Gift"><img src="/mas_assets/preorder/holiday07_pre.jpg" alt=""></a></div>
+	<h4><a href="/cgi-bin/category.cgi?category=holiday07">Find the Perfect Gift!</a></h4>
+	<p>Join in the Holiday Spirit and find the perfect gift for any collector!</p>
+</div>
+
+<div class="js-news-item" id="news-item-8">
+	<div class="js-news-image"><a href="/cgi-bin/category.cgi?category=search&amp;query=^lucky.sql&amp;q1=&amp;source=home_flashAd" title="Check it out"><img src="/placed/magiceightball.jpg" alt=""></a></div>
+	<h4><a href="/cgi-bin/category.cgi?category=search&amp;query=^lucky.sql&amp;q1=&amp;source=home_flashAd">Feeling Lucky?</a></h4>
+	<p>Click here to be sent to a random product!</p>
+</div>
+
+
+				</div>
+			</td>
 			
-			<!-- flash ad code here -->
-			<td align="right" style="padding-left: 10px;"><object style="margin: 0; padding: 0;" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="https://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,0,0" width="400" height="40" id="flashAd_v2" align="middle"><param name="allowScriptAccess" value="sameDomain"><param name="movie" value="/placed/flashAd_v2.swf"><param name="quality" value="high"><param name="bgcolor" value="#ffffff"><embed src="/placed/flashAd_v2.swf" quality="high" bgcolor="#ffffff" width="400" height="40" name="flashAd_v2" align="middle" allowscriptaccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer"></object></td>
-			
-			<!-- streamline code here -->
-			<!-- <td align="right" style="padding-left: 10px;"><img src="/placed/flashAd_streamline.gif" width="400" height="40" alt="News Temporarily Suspended"/></td> -->
-			
-			<td><a href="/cgi-bin/category.cgi?category=newsletter&amp;source=topad_012006" title="subscribe today!"><img src="/placed/topad_newsletter-330x40.jpg" width="330" height="40" alt="subscribe to our newsletter today!" border="0"></a></td>
+			<td>
+				<img src="/placed/topad_vol10-330x40.jpg" width="330" height="40" border="0" alt="" usemap="#id072706_330x40_Map">
+				<map name="id072706_330x40_Map">
+					<area shape="rect" alt="Spooktacular 2007" coords="265,2,326,36" href="/behindtheshow/?page_id=3942">
+					<area shape="rect" alt="Redeem your Gift Card" coords="41,0,225,40" href="/giftcard">
+				</map>
+				
+				<!-- newsletter code here --><!-- <a href="/cgi-bin/category.cgi?category=newsletter&source=topad_012006" title="subscribe today!"><img src="/placed/topad_newsletter-330x40.jpg" width="330" height="40" alt="subscribe to our newsletter today!" border="0"/></a> -->
+			</td>
 		</tr>
 		</tbody></table>
 	</td>
@@ -383,130 +517,122 @@ if(!document.all){ window.onload=dT; }else{ dT(); }
 
 	<table border="0" cellpadding="0" cellspacing="0" width="720">
 	<tbody><tr>
-		<td valign="top" width="150" bgcolor="#CCCC99">
+		<td valign="top" width="150" style="width:150px;">
 		
 		<table border="0" cellpadding="0" cellspacing="0" width="150">
 		<tbody><tr>
-			<td align="center">
-<script language="JavaScript" type="text/javascript" src="/ads/adx.js"></script>
-<script language="JavaScript" type="text/javascript">
-<!--
-   if (!document.phpAds_used) document.phpAds_used = ',';
-   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
-   
-   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
-   document.write ("/ads/adjs.php?n=" + phpAds_random);
-   document.write ("&amp;what=zone:32");
-   document.write ("&amp;exclude=" + document.phpAds_used);
-   if (document.referrer)
-      document.write ("&amp;referer=" + escape(document.referrer));
-   document.write ("'><" + "/script>");
-//-->
-</script><script language="JavaScript" type="text/javascript" src="/ads/adjs.php?n=573893438&amp;what=zone:32&amp;exclude=,"></script><noscript><a href='/ads/adclick.php?n=a9f8fa7e' target='_blank'><img src='/ads/adview.php?what=zone:32&amp;n=a9f8fa7e' border='0' alt=''></a></noscript>
+			<td class="left_nav_graphic">
+			<a href="/cgi-bin/category.cgi?category=helpdesk" target="_blank"><img src="/placed/800linegraphic.jpg" width="150" height="120" border="0" alt="Click here for our Help Desk or Call!"></a>
+		
+		</td>
+		</tr>
+		<tr>
+			<td class="left_nav_head" style="border-top:3px solid #FFF;">
+			FEATURED AREAS</td>
+		</tr>
+		<tr>
+			<td class="left_nav_alt">
+			
+<!-- FEATURE AREA INCLUDE -->
+<a href="/cgi-bin/category.cgi?category=0&amp;source=leftnav&amp;kw=HOMEPAGE">Homepage</a><br>
+<a href="/cgi-bin/category.cgi?category=eu&amp;source=leftnav&amp;kw=EU_HOMEPAGE">EU Homepage</a><img src="/placed/top_eu_flag.jpg" alt="EU IN STOCK ITEMS" width="17" height="10" hspace="0" vspace="0" border="0" style="margin-left:5px;" align="absmiddle"><br>
+<a href="/cgi-bin/category.cgi?category=holiday07&amp;source=leftnav&amp;kw=HOLIDAY2007" style="color:#600;">Holiday Guide</a><img src="/placed/new.gif" alt="New" width="29" height="10" border="0" align="absmiddle" style="margin-left:5px;"><br>
+<a href="/php/ministry.php">Ministry of Info</a><br>
+<a href="/cgi-bin/category.cgi?category=sideshowradio&amp;source=leftnav&amp;kw=PODCASTS">Podcasts</a><br>
+<a href="/behindtheshow/?cat=26">Production Blog</a><br>
+<a href="/cgi-bin/category.cgi?category=search&amp;query=^second_chance.sql&amp;source=leftnav&amp;kw=SECOND_CHANCE">Second Chance</a><br>
+<a href="/cgi-bin/category.cgi?category=dianekamahele&amp;source=leftnav&amp;kw=diane">Diane Memorial</a><br>
+
 			</td>
 		</tr>
 		<tr>
-			<td bgcolor="#336633" align="center">
-			<img src="/mas_assets/trans.gif" width="150" height="3" alt="SideshowToy.com" border="0"><br>
-			<font size="1" color="#FFFFFF" face="verdana, arial, helvetica"><b>FEATURED AREAS</b></font>
-			<img src="/mas_assets/trans.gif" width="150" height="3" alt="SideshowToy.com" border="0"></td>
+			<td class="left_nav_head" style="border-top:3px solid #FFF;">
+			FEATURED LICENSES</td>
 		</tr>
 		<tr>
-			<td bgcolor="#CCCC99">
-			<img src="/mas_assets/trans.gif" width="150" height="3" alt="SideshowToy.com" border="0"><br>
-			<font style="font-size:8pt;font-family:verdana,helvetica">
-
+			<td class="left_nav">
+			
 <!-- FEATURE AREA INCLUDE -->
-&nbsp;• <a href="/cgi-bin/category.cgi?category=0&amp;source=leftnav&amp;kw=HOMEPAGE"><b>HOMEPAGE</b></a><br>
-&nbsp;• <a href="/cgi-bin/category.cgi?category=eu&amp;source=leftnav&amp;kw=EU_HOMEPAGE"><b>EU HOMEPAGE</b></a><img src="/placed/top_eu_flag.jpg" alt="EU IN STOCK ITEMS" width="17" height="10" hspace="0" vspace="0" border="0" style="margin-left:5px;" align="absmiddle"><br>
-&nbsp;• <a href="/cgi-bin/category.cgi?category=aliens&amp;source=leftnav&amp;kw=ALIENS"><b>ALIENS</b></a><br>
+<a href="/cgi-bin/category.cgi?category=aliens&amp;source=leftnav&amp;kw=ALIENS&amp;orderby=waitlist,misc13+desc">Aliens</a><br>
+<a href="/cgi-bin/category.cgi?category=anime&amp;source=leftnav&amp;kw=anime&amp;orderby=waitlist,misc13+desc">Anime/Manga</a><br>
+<a href="/cgi-bin/category.cgi?category=apparel&amp;source=leftnav&amp;kw=apparel&amp;orderby=waitlist,misc13+desc">Apparel</a><br>
+<a href="/cgi-bin/category.cgi?category=buffyhome&amp;source=leftnav&amp;kw=BUFFY">Buffy</a><br>
+<a href="/cgi-bin/category.cgi?category=custom_vinyl&amp;source=leftnav&amp;kw=Custom_Vinyl">Custom Vinyl</a><br>
+<a href="/cgi-bin/category.cgi?category=famous_pers&amp;source=leftnav&amp;kw=FAMOUS&amp;orderby=waitlist,misc13+desc">Famous Persons</a><br>
+<a href="/cgi-bin/category.cgi?category=hellboy&amp;source=leftnav&amp;kw=HELLBOY">Hellboy</a><br>
+<a href="/cgi-bin/category.cgi?category=bondhome&amp;source=leftnav&amp;kw=JAMES_BOND">James Bond</a><br>
+<a href="/cgi-bin/category.cgi?category=legend_music&amp;source=leftnav&amp;kw=LEGENDARY_MUSICIANS">Musicians</a><br>
+<a href="/cgi-bin/category.cgi?category=lotrhome&amp;source=leftnav&amp;kw=LORD_OF_THE_RINGS">Lord of the Rings</a><br>
+<a href="/cgi-bin/category.cgi?category=marvelhome&amp;source=leftnav&amp;kw=MARVEL">Marvel</a><br>
+<a href="/cgi-bin/category.cgi?category=militaryhome&amp;source=leftnav&amp;kw=MILITARY">Military</a><br>
+<a href="/cgi-bin/category.cgi?category=morpheus&amp;source=leftnav&amp;kw=MORPHEUS">Morpheus</a><br>
+<a href="/cgi-bin/category.cgi?category=houseofhorror&amp;source=leftnav&amp;kw=NEW_LINE_HORROR">New Line Horror</a><br>
+<a href="/cgi-bin/category.cgi?category=potahome&amp;source=leftnav&amp;kw=PLANET_OF_THE_APES">Planet of the Apes</a><br>
+<a href="/cgi-bin/category.cgi?category=predator_scifi&amp;orderby=INVENTORY.waitlist,misc13+desc&amp;source=leftnav&amp;kw=PREDATOR">Predator</a><br>
+<a href="/cgi-bin/category.cgi?category=search&amp;query=^basic_search.sql&amp;q1=scarface&amp;source=leftnav&amp;kw=SCARFACE">Scarface</a><br>
+<a href="/cgi-bin/category.cgi?category=starwars&amp;source=leftnav&amp;kw=STAR_WARS">Star Wars</a><br>
+<a href="/cgi-bin/category.cgi?category=termhome&amp;source=leftnav&amp;kw=TERMINATOR">Terminator</a><br>
+<a href="/cgi-bin/category.cgi?category=thedead&amp;source=leftnav&amp;kw=THEDEAD">The Dead</a><br>
+<a href="/cgi-bin/category.cgi?category=videogames&amp;source=leftnav&amp;kw=VIDEOGAMES&amp;orderby=waitlist,misc13+desc">Video Games</a><br>
+<a href="/cgi-bin/category.cgi?category=vintagemonsters&amp;source=leftnav&amp;kw=VINTAGE_MONSTERS">Vintage Monsters</a><br>
+<a href="/cgi-bin/category.cgi?category=xfileshome&amp;source=leftnav&amp;kw=X-FILES">X-Files</a><br>
 
-&nbsp;• <a href="/behindtheshow/?&amp;source=leftnav&amp;kw=bhs"><b>BEHIND THE SHOW</b></a><br>
-&nbsp;• <a href="/cgi-bin/category.cgi?category=buffyhome&amp;source=leftnav&amp;kw=BUFFY"><b>BUFFY</b></a><br>
-&nbsp;• <a href="/cgi-bin/category.cgi?category=famous_pers&amp;source=leftnav&amp;kw=FAMOUS"><b>FAMOUS PERSONS</b></a><br>
-&nbsp;• <a href="/cgi-bin/category.cgi?category=hellboy&amp;source=leftnav&amp;kw=HELLBOY"><b>HELLBOY</b></a><br>
-&nbsp;• <a href="/cgi-bin/category.cgi?category=highlander_12&amp;source=leftnav&amp;kw=HIGHLANDER"><b>HIGHLANDER</b></a><br>
-&nbsp;• <a href="/cgi-bin/category.cgi?category=bondhome&amp;source=leftnav&amp;kw=JAMES_BOND"><b>JAMES BOND</b></a><br>
-&nbsp;• <a href="/cgi-bin/category.cgi?category=legend_music&amp;source=leftnav&amp;kw=LEGENDARY_MUSICIANS"><b>LEGENDARY MUSICIANS</b></a><br>
-&nbsp;• <a href="/cgi-bin/category.cgi?category=lotrhome&amp;source=leftnav&amp;kw=LORD_OF_THE_RINGS"><b>LORD OF THE RINGS</b></a><br>
-&nbsp;• <a href="/cgi-bin/category.cgi?category=marvelhome&amp;source=leftnav&amp;kw=MARVEL"><b>MARVEL</b></a><br>
-&nbsp;• <a href="/cgi-bin/category.cgi?category=militaryhome&amp;source=leftnav&amp;kw=MILITARY"><b>MILITARY</b></a><br>
-<!-- &nbsp;&#149; <a href="/cgi-bin/category.cgi?category=ministry&source=leftnav&kw=MINISTRY_OF_INFO"><b>MINISTRY OF INFO</b></a><br> -->
-&nbsp;• <a href="/php/ministry.php"><b>MINISTRY OF INFO</b></a><br>
-&nbsp;• <a href="/cgi-bin/category.cgi?category=morpheus&amp;source=leftnav&amp;kw=MORPHEUS"><b>MORPHEUS</b></a><br>
-&nbsp;• <a href="/cgi-bin/category.cgi?category=houseofhorror&amp;source=leftnav&amp;kw=NEW_LINE_HORROR"><b>NEW LINE HORROR</b></a><br>
-&nbsp;• <a href="/cgi-bin/category.cgi?category=potahome&amp;source=leftnav&amp;kw=PLANET_OF_THE_APES"><b>PLANET OF THE APES</b></a><br>
-&nbsp;• <a href="/cgi-bin/category.cgi?category=sideshowradio&amp;source=leftnav&amp;kw=PODCASTS"><b>PODCASTS</b></a><br>
-&nbsp;• <a href="/cgi-bin/category.cgi?category=search&amp;query=^basic_search.sql&amp;q1=predator&amp;source=leftnav&amp;kw=PREDATOR"><b>PREDATOR</b></a><br>
-&nbsp;• <a href="/behindtheshow/?cat=26"><b>PRODUCTION BLOG</b></a><br>
-&nbsp;• <a href="/cgi-bin/category.cgi?category=search&amp;query=^second_chance.sql&amp;source=leftnav&amp;kw=SECOND_CHANCE"><b>SECOND CHANCE</b></a><br>
-&nbsp;• <a href="/cgi-bin/category.cgi?category=search&amp;query=^basic_search.sql&amp;q1=scarface&amp;source=leftnav&amp;kw=SCARFACE"><b>SCARFACE</b></a><br>
-&nbsp;• <a href="/cgi-bin/category.cgi?category=starwars&amp;source=leftnav&amp;kw=STAR_WARS"><b>STAR WARS</b></a><br>
-&nbsp;• <a href="/cgi-bin/category.cgi?category=termhome&amp;source=leftnav&amp;kw=TERMINATOR"><b>TERMINATOR</b></a><br>
-&nbsp;• <a href="/cgi-bin/category.cgi?category=vintagemonsters&amp;source=leftnav&amp;kw=VINTAGE_MONSTERS"><b>VINTAGE MONSTERS</b></a><br>
-&nbsp;• <a href="/cgi-bin/category.cgi?category=xfileshome&amp;source=leftnav&amp;kw=X-FILES"><b>X-FILES</b></a><br>
-
-			<img src="/mas_assets/trans.gif" width="150" height="5" alt="SideshowToy.com" border="0"><br>
-			</font></td>
+			</td>
 		</tr>
 		<tr>
-			<td><a href="/cgi-bin/category.cgi?category=wholesale"><img src="/affiliates/banners/wholesale_150x34.gif" alt="Wholesale Orders" width="150" height="34" border="0" style="border-top:3px solid #FFF;border-bottom:3px solid #FFF;"></a></td>
+			<td class="left_nav_graphics"><a href="/cgi-bin/category.cgi?category=wholesale"><img src="/affiliates/banners/wholesale_150x34.gif" alt="Wholesale Orders" width="150" height="34" border="0"></a></td>
 		</tr>
 		<tr>
-			<td bgcolor="#336633" align="center">
-			<img src="/mas_assets/trans.gif" width="150" height="3" alt="SideshowToy.com" border="0"><br>
-			<font size="1" color="#FFFFFF" face="verdana, arial, helvetica"><a href="/cgi-bin/category.cgi?category=sideshowpresents&amp;source=leftnav&amp;kw=SIDESHOW_PRESENTS" class="tabLink"><b>SIDESHOW PRESENTS</b></a></font>
-			<img src="/mas_assets/trans.gif" width="150" height="3" alt="SideshowToy.com" border="0"></td>
+			<td class="left_nav_head">
+			<a href="/cgi-bin/category.cgi?category=sideshowpresents&amp;source=leftnav&amp;kw=SIDESHOW_PRESENTS">SIDESHOW PRESENTS</a></td>
 		</tr>
 		<tr>
-			<td bgcolor="#CCCC99">
-			<img src="/mas_assets/trans.gif" width="150" height="3" alt="SideshowToy.com" border="0"><br>
-			<font size="1" face="verdana, arial, helvetica">
+			<td class="left_nav_alt">
+			
+<a href="/cgi-bin/category.cgi?category=acme&amp;source=leftnav&amp;kw=acme&amp;orderby=waitlist,misc13+desc">ACME Archives</a><br>
+<a href="/cgi-bin/category.cgi?category=bowen&amp;source=leftnav&amp;kw=bowen&amp;orderby=waitlist,misc13+desc">Bowen Designs</a><img src="/placed/new.gif" alt="New" width="29" height="10" border="0" align="absmiddle" style="margin-left:5px;"><br>
+<a href="/cgi-bin/category.cgi?category=clampettstudio&amp;source=leftnav&amp;kw=clampett&amp;orderby=waitlist,misc13+desc">Clampett Studio</a><br>
+<a href="/cgi-bin/category.cgi?category=electrictiki&amp;source=leftnav&amp;kw=electrictiki&amp;orderby=waitlist,misc13+desc">Electric Tiki</a><br>
+<a href="/cgi-bin/category.cgi?category=hottoys&amp;source=leftnav&amp;kw=hottoys&amp;orderby=waitlist,misc13+desc">Hot Toys</a><br>
+<a href="/cgi-bin/category.cgi?category=insighteditions&amp;orderby=waitlist,misc13+desc">Insight Editions</a><br>
+<a href="/cgi-bin/category.cgi?category=medicom&amp;source=leftnav&amp;kw=medicom&amp;orderby=waitlist,misc13+desc">Medicom Toy</a><br>
+<a href="/cgi-bin/category.cgi?category=mezco&amp;source=leftnav&amp;kw=mezco&amp;orderby=waitlist,misc13+desc">Mezco Toyz</a><br>
+<a href="/cgi-bin/category.cgi?category=museum_replicas&amp;source=leftnav&amp;kw=museum_replicas&amp;orderby=waitlist,misc13+desc">Museum Replicas</a>
+<a href="/cgi-bin/category.cgi?category=osteo&amp;source=leftnav&amp;kw=boneclones&amp;orderby=waitlist,misc13+desc">Bone Clones</a><br>
 
-<!-- FEATURE AREA INCLUDE -->
-&nbsp;• <a href="/cgi-bin/category.cgi?category=osteo&amp;source=leftnav&amp;kw=boneclones&amp;orderby=waitlist"><b>BONE CLONES</b></a><br>
-&nbsp;• <a href="/cgi-bin/category.cgi?category=electrictiki&amp;source=leftnav&amp;kw=electrictiki&amp;orderby=waitlist"><b>ELECTRIC TIKI</b></a><br>
-&nbsp;• <a href="/cgi-bin/category.cgi?category=hottoys&amp;source=leftnav&amp;kw=hottoys&amp;orderby=waitlist"><b>HOT TOYS</b></a><br>
-&nbsp;• <a href="/cgi-bin/category.cgi?category=medicom&amp;source=leftnav&amp;kw=medicom&amp;orderby=waitlist"><b>MEDICOM TOY</b></a><br>
-
-			<img src="/mas_assets/trans.gif" width="150" height="5" alt="SideshowToy.com" border="0"><br>
-			</font></td>
+			</td>
 		</tr>
 		<tr>
-			<td bgcolor="#336633" align="center">
-			<img src="/mas_assets/trans.gif" width="150" height="3" alt="SideshowToy.com" border="0"><br>
-			<font size="1" color="#FFFFFF" face="verdana, arial, helvetica"><b>PRODUCT CATEGORIES</b></font>
-			<img src="/mas_assets/trans.gif" width="150" height="3" alt="SideshowToy.com" border="0"></td>
+			<td class="left_nav_head" style="border-top:3px solid #FFF;">
+			PRODUCT CATEGORIES</td>
 		</tr>
 		<tr>
-			<td bgcolor="#CCCC99">
-			<img src="/mas_assets/trans.gif" width="150" height="3" alt="SideshowToy.com" border="0"><br>
-			<font size="1" face="verdana, arial, helvetica">
+			<td class="left_nav_alt">
+			
+<a href="/cgi-bin/category.cgi?category=archive&amp;source=leftnav&amp;kw=ARCHIVE">Archive</a><br>
+<a href="/cgi-bin/category.cgi?category=art&amp;source=leftnav&amp;kw=ART PIECES &amp; PRINTS">Art Pieces and Prints</a><br>
+<a href="/cgi-bin/category.cgi?category=bobble_heads&amp;kw=BOBBLE&amp;orderby=INVENTORY.misc13+desc">Bobble-heads</a><br>
+<a href="/cgi-bin/category.cgi?category=books&amp;kw=BOOKS">Books</a><br>
+<a href="/cgi-bin/category.cgi?category=comedy&amp;source=leftnav&amp;kw=COMEDY">Comedy</a><br>
+<a href="/cgi-bin/category.cgi?category=fantasy&amp;source=leftnav&amp;kw=FANTASY">Fantasy</a><br>
+<a href="/cgi-bin/category.cgi?category=search&amp;query=^life_sized.sql&amp;source=leftnav&amp;kw=LIFE_SIZED">Life-size</a><br>
+<a href="/cgi-bin/category.cgi?category=monsters&amp;source=leftnav&amp;kw=MONSTERS_HORROR">Monsters/Horror</a><br>
+<a href="/cgi-bin/category.cgi?category=scifi&amp;source=leftnav&amp;kw=SCI-FI">Sci-Fi</a><br>
+<a href="/cgi-bin/category.cgi?category=figures&amp;source=leftnav&amp;kw=12_INCH_FIGURES">12-inch Figures</a><br>
+<a href="/cgi-bin/category.cgi?category=18_figures&amp;source=leftnav&amp;kw=PREMIUM_FORMAT">Premium Format</a><br>
+<a href="/cgi-bin/category.cgi?category=accessories&amp;source=leftnav&amp;kw=ACCESSORIES">Accessories</a><br>
+<a href="/cgi-bin/category.cgi?category=action_figures&amp;source=leftnav&amp;kw=ACTION_FIGURES">Action Figures</a><br>
+<a href="/cgi-bin/category.cgi?category=bases&amp;source=leftnav&amp;kw=BASES">Bases</a><br>
+<a href="/cgi-bin/category.cgi?category=books&amp;source=leftnav&amp;kw=BOOKS">Books</a><br>
+<a href="/cgi-bin/category.cgi?category=bronze&amp;source=leftnav&amp;kw=BRONZES">Bronzes</a><br>
+<a href="/cgi-bin/category.cgi?category=dolls&amp;source=leftnav&amp;kw=DOLLS">Dolls</a><br>
+<a href="/cgi-bin/category.cgi?category=search&amp;query=^basic_search.sql&amp;q1=maquette&amp;source=leftnav&amp;kw=MAQUETTES">Maquettes</a><br>
+<a href="/cgi-bin/category.cgi?category=plaques&amp;source=leftnav&amp;kw=PLAQUES_MEDALLIONS">Plaques/Medallions</a><br>
+<a href="/cgi-bin/category.cgi?category=props&amp;source=leftnav&amp;kw=PROP_REPLICAS">Prop Replicas</a><br>
+<a href="/cgi-bin/category.cgi?category=retired&amp;source=leftnav&amp;kw=RETIRED">Retired</a><br>
+<a href="/cgi-bin/category.cgi?category=statues&amp;source=leftnav&amp;kw=STATUES_BUSTS">Statues/Busts</a><br>
 
-<!-- CATEGORIES AREA INCLUDE -->
-&nbsp;• <a href="/cgi-bin/category.cgi?category=archive&amp;source=leftnav&amp;kw=ARCHIVE"><b>ARCHIVE</b></a><br>
-&nbsp;• <a href="/cgi-bin/category.cgi?category=art&amp;source=leftnav&amp;kw=ART PIECES &amp; PRINTS"><b>ART PIECES &amp; PRINTS</b></a><br>
-&nbsp;• <a href="/cgi-bin/category.cgi?category=search&amp;query=^basic_search.sql&amp;q1=book&amp;source=leftnav&amp;kw=BOOKS"><b>BOOKS</b></a><br>
-&nbsp;• <a href="/cgi-bin/category.cgi?category=comedy&amp;source=leftnav&amp;kw=COMEDY"><b>COMEDY</b></a><br>
-&nbsp;• <a href="/cgi-bin/category.cgi?category=fantasy&amp;source=leftnav&amp;kw=FANTASY"><b>FANTASY</b></a><br>
-&nbsp;• <a href="/cgi-bin/category.cgi?category=monsters&amp;source=leftnav&amp;kw=MONSTERS_HORROR"><b>MONSTERS/HORROR</b></a><br>
-&nbsp;• <a href="/cgi-bin/category.cgi?category=scifi&amp;source=leftnav&amp;kw=SCI-FI"><b>SCI-FI</b></a><br>
-&nbsp;• <a href="/cgi-bin/category.cgi?category=figures&amp;source=leftnav&amp;kw=12_INCH_FIGURES"><b>12 INCH FIGURES</b></a><br>
-&nbsp;• <a href="/cgi-bin/category.cgi?category=18_figures&amp;source=leftnav&amp;kw=PREMIUM_FORMAT"><b>PREMIUM FORMAT</b></a><b><br>&nbsp;&nbsp;&nbsp;&nbsp;<a href="/cgi-bin/category.cgi?category=18_figures&amp;source=leftnav&amp;kw=PREMIUM_FORMAT">¼ FIGURES</a></b><br>
-&nbsp;• <a href="/cgi-bin/category.cgi?category=accessories&amp;source=leftnav&amp;kw=ACCESSORIES"><b>ACCESSORIES</b></a><br>
-&nbsp;• <a href="/cgi-bin/category.cgi?category=action_figures&amp;source=leftnav&amp;kw=ACTION_FIGURES"><b>ACTION FIGURES</b></a><br>
-&nbsp;• <a href="/cgi-bin/category.cgi?category=bases&amp;source=leftnav&amp;kw=BASES"><b>BASES</b></a><br>
-&nbsp;• <a href="/cgi-bin/category.cgi?category=books&amp;source=leftnav&amp;kw=BOOKS"><b>BOOKS</b></a><br>
-&nbsp;• <a href="/cgi-bin/category.cgi?category=bronze&amp;source=leftnav&amp;kw=BRONZES"><b>BRONZES</b></a><br>
-&nbsp;• <a href="/cgi-bin/category.cgi?category=dolls&amp;source=leftnav&amp;kw=DOLLS"><b>DOLLS</b></a><br>
-&nbsp;• <a href="/cgi-bin/category.cgi?category=search&amp;query=^basic_search.sql&amp;q1=maquette&amp;source=leftnav&amp;kw=MAQUETTES"><b>MAQUETTES</b></a><br>
-&nbsp;• <a href="/cgi-bin/category.cgi?category=plaques&amp;source=leftnav&amp;kw=PLAQUES_MEDALLIONS"><b>PLAQUES/MEDALLIONS</b></a><br>
-&nbsp;• <a href="/cgi-bin/category.cgi?category=props&amp;source=leftnav&amp;kw=PROP_REPLICAS"><b>PROP REPLICAS</b></a><br>
-&nbsp;• <a href="/cgi-bin/category.cgi?category=retired&amp;source=leftnav&amp;kw=RETIRED"><b>RETIRED</b></a><br>
-&nbsp;• <a href="/cgi-bin/category.cgi?category=statues&amp;source=leftnav&amp;kw=STATUES_BUSTS"><b>STATUES/BUSTS</b></a><br>
-
-			<img src="/mas_assets/trans.gif" width="150" height="5" alt="SideshowToy.com" border="0"><br>
-			</font></td>
+			</td>
 		</tr>
 		<tr>
 			<td bgcolor="#FFFFFF">
@@ -514,98 +640,74 @@ if(!document.all){ window.onload=dT; }else{ dT(); }
 		</tr>
 		<tr>
 			<td bgcolor="#FFFFFF" align="center">
-<!-- START ADCYCLE DIRECT BANNER CODE -->
-<!-- Group:Left Side Small  Campaign:Affiliate  Link:Stake your Claim-->
-<a href="http://sideshow.directtrack.com/" target="_top"><img src="/placed/affprog_150x34.gif" width="150" height="34" border="0" alt="Click to Visit"></a>
-<!-- END ADCYCLE DIRECT BANNER CODE -->
 
 
 
 			</td>
 		</tr>
 		<tr>
-			<td bgcolor="#336633" align="center">
-			<img src="/mas_assets/trans.gif" width="150" height="3" alt="SideshowToy.com" border="0"><br>
-			<font size="1" color="#FFFFFF" face="verdana, arial, helvetica"><b>CUSTOMER ASSISTANCE</b></font>
-			<img src="/mas_assets/trans.gif" width="150" height="3" alt="SideshowToy.com" border="0"></td>
+			<td class="left_nav_head" style="border-top:3px solid #FFF;">
+			CUSTOMER ASSISTANCE</td>
 		</tr>
 		<tr>
-			<td bgcolor="#CCCC99">
-			<img src="/mas_assets/trans.gif" width="150" height="3" alt="SideshowToy.com" border="0"><br>
-			<font size="1" face="verdana, arial, helvetica">
+			<td class="left_nav_alt">
 
 <!-- SIDE INFO AREA INCLUDE -->
-&nbsp;• <a href="javascript: myRef= window.open('/cgi-bin/category.cgi?category=helpdesk&amp;source=leftnav&amp;kw=GET ANSWERS','windowname','height=400,width=550,scrollbars,resizable'); myRef.focus();"><b>GET ANSWERS</b></a><br>
-&nbsp;• <a href="javascript: myRef= window.open('/cgi-bin/category.cgi?category=ORD&amp;item=ORD0200&amp;source=leftnav&amp;kw=HOW TO ORDER','windowname','height=400,width=550,scrollbars,resizable'); myRef.focus();"><b>HOW TO ORDER</b></a><br>
-&nbsp;• <a href="/cgi-bin/category.cgi?category=shipping&amp;source=leftnav&amp;kw=US_SHIPPING"><b>US SHIPPING</b></a><br>
-&nbsp;• <a href="/cgi-bin/category.cgi?category=ca_ship&amp;source=leftnav&amp;kw=CANADIAN_SHIPPING"><b>CANADIAN SHIPPING</b></a><br>
-&nbsp;• <a href="/cgi-bin/category.cgi?category=intshipping&amp;source=leftnav&amp;kw=INT_SHIPPING"><b>INT'L SHIPPING</b></a><br>
-&nbsp;• <a href="/cgi-bin/category.cgi?category=returns&amp;source=leftnav&amp;kw=RETURNS"><b>RETURNS</b></a><br>
-&nbsp;• <a href="/cgi-bin/category.cgi?category=ministry&amp;source=leftnav&amp;kw=FAQs#topten"><b>FAQs</b></a><br>
-&nbsp;• <a href="/cgi-bin/category.cgi?category=coupon&amp;source=leftnav&amp;kw=USING_COUPONS"><b>USING COUPONS</b></a><br>
-&nbsp;• <a href="/cgi-bin/category.cgi?category=mail&amp;source=leftnav&amp;kw=CONTACT_US"><b>CONTACT US</b></a><br>
-&nbsp;• <a href="/cgi-bin/category.cgi?category=privacy&amp;source=leftnav&amp;kw=PRIVACY_POLICY"><b>PRIVACY POLICY</b></a><br>
-&nbsp;• <a href="/cgi-bin/category.cgi?category=newsletter&amp;source=leftnav&amp;kw=NEWSLETTER"><b>NEWSLETTER</b></a>
-			<img src="/mas_assets/trans.gif" width="150" height="5" alt="SideshowToy.com" border="0"><br>
-			</font></td>
-		</tr>
-		<tr>
-			<td bgcolor="#FFFFFF">
-			<img src="/mas_assets/trans.gif" width="150" height="3" alt="SideshowToy.com" border="0"></td>
-		</tr>
-		<tr>
-			<td bgcolor="#FFFFFF">
-
-
-
-
-
-<!-- START ADCYCLE DIRECT BANNER CODE -->
-<!-- Group:Left Side Small  Campaign:Super Sale  Link:Super Sale - Left Side-->
-<a href="/cgi-bin/category.cgi?category=super_sale" target="_top"><img src="/placed/supersale_150x34.gif" width="150" height="34" border="0" alt="SUPER SALE"></a>
-<!-- END ADCYCLE DIRECT BANNER CODE -->			
+<a href="javascript: myRef= window.open('/cgi-bin/category.cgi?category=helpdesk&amp;source=leftnav&amp;kw=GET ANSWERS','windowname','height=400,width=550,scrollbars,resizable'); myRef.focus();">Get Answers</a><br>
+<a href="javascript: myRef= window.open('/cgi-bin/category.cgi?category=ORD&amp;item=ORD0200&amp;source=leftnav&amp;kw=HOW TO ORDER','windowname','height=400,width=550,scrollbars,resizable'); myRef.focus();">How to Order</a><br>
+<a href="/cgi-bin/category.cgi?category=shipping&amp;source=leftnav&amp;kw=US_SHIPPING">US Shipping</a><br>
+<a href="/cgi-bin/category.cgi?category=ca_ship&amp;source=leftnav&amp;kw=CANADIAN_SHIPPING">Canadian Shipping</a><br>
+<a href="/cgi-bin/category.cgi?category=intshipping&amp;source=leftnav&amp;kw=INT_SHIPPING">Int'l Shipping</a><br>
+<a href="/cgi-bin/category.cgi?category=returns&amp;source=leftnav&amp;kw=RETURNS">Returns</a><br>
+<a href="/php/ministry.php?section=878">FAQs</a><br>
+<a href="/cgi-bin/category.cgi?category=giftcard_lookup">Gift Cards</a><br>
+<a href="/behindtheshow/?page_id=2232">Sideshow Rewards</a><br>
+<a href="/cgi-bin/category.cgi?category=coupon&amp;source=leftnav&amp;kw=USING_COUPONS">Using Coupons</a><br>
+<a href="/cgi-bin/category.cgi?category=mail&amp;source=leftnav&amp;kw=CONTACT_US">Contact Us</a><br>
+<a href="/cgi-bin/category.cgi?category=privacy&amp;source=leftnav&amp;kw=PRIVACY_POLICY">Privacy Policy</a><br>
+<a href="/cgi-bin/category.cgi?category=newsletter&amp;source=leftnav&amp;kw=NEWSLETTER">Newsletter</a>
+			
 			</td>
 		</tr>
 		<tr>
-			<td bgcolor="#FFFFFF">
-			<img src="/mas_assets/trans.gif" width="150" height="3" alt="SideshowToy.com" border="0"></td>
+			<td class="left_nav_graphics">
+
+			<a href="http://affiliates.sideshowtoy.com/Affiliates/Home.aspx"><img src="/placed/affiliate_program.jpg" alt="Affiliate Program" width="150" height="87" border="0"></a>
+			
+			</td>
 		</tr>
 		<tr>
-			<td bgcolor="#336633" align="center">
-			<img src="/mas_assets/trans.gif" width="150" height="3" alt="SideshowToy.com" border="0"><br>
-			<font size="1" color="#FFFFFF" face="verdana, arial, helvetica"><b>SUPPORT/INFO</b></font>
-			<img src="/mas_assets/trans.gif" width="150" height="3" alt="SideshowToy.com" border="0"></td>
+			<td class="left_nav_head">
+			SUPPORT/INFO</td>
 		</tr>
 		<tr>
-			<td bgcolor="#CCCC99">
-			<img src="/mas_assets/trans.gif" width="150" height="3" alt="SideshowToy.com" border="0"><br>
-			<font size="1" face="verdana, arial, helvetica">
+			<td class="left_nav_alt">
+
 
 <!-- SIDE INFO AREA INCLUDE -->
-&nbsp;• <a href="/behindtheshow/?cat=23&amp;source=leftnav&amp;kw=CONTESTS"><b>CONTESTS</b></a><br>
+<a href="/behindtheshow/?cat=23&amp;source=leftnav&amp;kw=CONTESTS">Contests</a><br>
+<a href="/press/">Press Room</a><br>
+<a href="/behindtheshow/?cat=43">In the Media</a><br>
+<a href="/vendors/">Retail/Wholesale Room</a><br>
+<a href="/cgi-bin/category.cgi?category=wholesale&amp;source=leftnav&amp;kw=WHOLESALE">Wholesale Info</a><br>
+<a href="/cgi-bin/category.cgi?category=dis&amp;source=leftnav&amp;kw=DISTRIBUTOR_LIST">Distributor List</a><br>
+<a href="/cgi-bin/category.cgi?category=about&amp;source=leftnav&amp;kw=ABOUT_SIDESHOW">About Sideshow</a><br>
+<a href="/cgi-bin/category.cgi?category=legal&amp;source=leftnav&amp;kw=LEGAL">Legal</a><br>
+
+			</td>
+		</tr>
 <!-- 
-&nbsp;&#149; <a href="/cgi-bin/category.cgi?category=promo&source=leftnav&kw=PROMOTIONS"><b>PROMOTIONS</b></a><br>
- -->
-&nbsp;• <a href="/press/"><b>PRESS ROOM</b></a><br>
-&nbsp;• <a href="/vendors/"><b>RETAILER ROOM</b></a><br>
-&nbsp;• <a href="/cgi-bin/category.cgi?category=wholesale&amp;source=leftnav&amp;kw=WHOLESALE"><b>WHOLESALE</b></a><br>
-&nbsp;• <a href="/cgi-bin/category.cgi?category=dis&amp;source=leftnav&amp;kw=DISTRIBUTOR_LIST"><b>DISTRIBUTOR LIST</b></a><br>
-&nbsp;• <a href="http://sideshow.directtrack.com/"><b>AFFILIATES</b></a><br>
-&nbsp;• <a href="/cgi-bin/category.cgi?category=about&amp;source=leftnav&amp;kw=ABOUT_SIDESHOW"><b>ABOUT SIDESHOW</b></a><br>
-&nbsp;• <a href="/cgi-bin/category.cgi?category=legal&amp;source=leftnav&amp;kw=LEGAL"><b>LEGAL</b></a><br>
-
-			<img src="/mas_assets/trans.gif" width="150" height="5" alt="SideshowToy.com" border="0"><br>
-			</font></td>
-		</tr>
 		<tr>
-			<td bgcolor="#FFFFFF">
-			<img src="/mas_assets/trans.gif" width="150" height="3" alt="SideshowToy.com" border="0"></td>
+			<td class="left_nav_graphics">
+
+			<a href="/cgi-bin/category.cgi?category=super_sale" target="_top"><img src="/placed/supersale_150x34.gif" width=150 height=34 border=0 ALT="SUPER SALE"></a>
+			
+			</td>
 		</tr>
+ -->
 		</tbody></table>
 
-		<center>
-		<a href="http://sideshow.directtrack.com/"><img src="/placed/000099_affiliatelogo.gif" alt="Affiliate Program" width="100" height="87" hspace="5" vspace="5" border="0"></a>
-		</center>
+		
 	
 		</td>
 	
@@ -671,6 +773,14 @@ off
 
 </div>
 
+
+<div class="grey_bkgd">
+
+<p class="title">Cookies</p>
+
+<p class="subtext">This web site uses a cookie to collect anonymous traffic data. This information is collected for the sole use of Sideshow, Inc. and will not be sold rented to any third party.</p>
+
+</div>
 <p class="subtext2">Sideshow, Inc. - Copyright (c) 2005-2012</p>
 
 <img src="/placed/trans.gif" width="630" height="1" alt="Sideshow Collectibles Distributor Lists" border="0">
@@ -808,9 +918,7 @@ TEMPLATE: /footers/master.html
 <a href="/cgi-bin/category.cgi?category=legal" title="Legal">Legal</a><br> 
 <a href="/cgi-bin/category.cgi?category=faq" title="FAQ">FAQ</a> | 
 <a href="/cgi-bin/category.cgi?category=returns" title="Returns">Returns</a> | 
-<a href="http://sideshow.directtrack.com/" title="Affiliate Program">Affiliate Program</a> | 
-<a href="/cgi-bin/category.cgi?category=advsearch" title="Advanced Search">Advanced Search</a> | 
-<a href="/cgi-bin/category.cgi?category=search&amp;query=^newarrival.sql" title="New Arrivals">New Arrivals</a><br>
+<a href="/cgi-bin/category.cgi?category=search&amp;query=^newarrival.sql" title="New Arrivals">New Arrivals</a> | <a href="https://affiliates.sideshowtoy.com" title="The Sideshow Affiliate Program">Affiliate Program</a>
 
 </p>
 
@@ -837,6 +945,165 @@ document.write(d.getFullYear())
 </tr>
 </tbody></table>
 
+<style type="text/css">
+h1.h06 {font-size:14px;font-weight:bold;padding:0px;font-family:verdana;color:#FFC600;margin-left: 20px;margin-bottom:0px;margin-top:0px;}
+p.h06-2 {font-size:9px;font-family:verdana;color:#fff;margin:0px;padding:0px;margin-left: 20px;font-weight:bold;}
+p.h06 {font-size:10px;padding:0px;font-family:verdana;color:#000;}
+p.holiday06 {font-size:8pt;font-weight:bold;padding:0px;font-family:verdana;margin:0px;color:#FFF;}
+select.holiday06 {font-size:8pt;font-family:verdana;margin:5px;color:#E40000;}
+#giftPanel	{position:absolute; top: 78px; left: 445px; z-index: 3000; width: 320px; height: 350px; padding: 0; display: none; background:url(/placed/h06_pop_bkgd.gif) #E40000; border:2px solid #E40000; }
+#giftPanel p.close	{font-size: 10px; margin: 0; padding-right: 5px; text-align: right; background: #E40000;}
+#giftPanel p.close a	{color: #FFF; text-decoration: none;}
+</style>
+
+<div id="giftPanel">
+<p class="close"><a href="javascript:hideNewsPanel('giftPanel');" title="close">x</a></p>
+<form class="masform" method="POST" name="searchform" action="/cgi-bin/category.cgi" style="margin: 0; padding: 0;">
+<input type="hidden" name="category" value="search">
+<input type="hidden" name="query" value="^holiday06.sql">
+<input type="hidden" name="template" value="holidaysearch">
+<table border="0" cellpadding="5" cellspacing="0" width="100%">
+<tbody><tr>
+	<td style="background:#E40000;padding:0px 10px 20px 10px;">
+		<h1 class="h06">Find the Perfect Gift!</h1>
+		<p class="h06-2">Choose your search parameters below</p>
+	</td>
+</tr>
+</tbody></table>
+<table border="0" cellpadding="5" cellspacing="0" style="margin-left: 20px;margin-top:10px;">
+<tbody><tr>
+	<td nowrap="">
+	<p class="holiday06">Price Range:</p>
+		<select class="holiday06" name="q-1">
+		<option value="5" select="selected">$5</option>
+		<option value="10">$10</option>
+		<option value="20">$20</option>
+		<option value="30">$30</option>
+		<option value="40">$40</option>
+		<option value="50">$50</option>
+		<option value="75">$75</option>
+		<option value="100">$100</option>
+		<option value="200">$200</option>
+		<option value="300">$300</option>
+		</select>
+
+		<select class="holiday06" name="q-2">
+		<option value="100000" select="selected">No Limit</option>
+		<option value="10">$10</option>
+		<option value="20">$20</option>
+		<option value="30">$30</option>
+		<option value="40">$40</option>
+		<option value="50">$50</option>
+		<option value="75">$75</option>
+		<option value="100">$100</option>
+		<option value="200">$200</option>
+		<option value="500">$500</option>
+		<option value="1000">$1000</option>
+		<option value="5000">$5000</option>
+		</select>
+	</td>
+</tr>
+<tr>
+	<td>
+	<p class="holiday06">Category:</p>
+		<select class="holiday06" name="q-3">
+		<option value="">All Categories</option>
+		<option value="Acme Archives">Acme Archives</option>
+		<option value="Alien">Alien</option>
+		<option value="Bayonets and Barbed Wire">Bayonets and Barbed Wire</option>
+		<option value="Brotherhood of Arms">Brotherhood of Arms</option>
+		<option value="Buffy the Vampire Slayer">Buffy the Vampire Slayer</option>
+		<option value="Classic Monsters">Classic Monsters</option>
+		<option value="Electric Tiki">Electric Tiki</option>
+		<option value="Fife and Drum">Fife and Drum</option>
+		<option value="Hellboy">Hellboy</option>
+		<option value="Highlander">Highlander</option>
+		<option value="Horror">Horror</option>
+		<option value="Hot Toys">Hot Toys</option>
+		<option value="IDW Publishing">IDW Publishing</option>
+		<option value="Insanely Twisted Rabbits">Insanely Twisted Rabbits</option>
+		<option value="Insight Editions">Insight Editions</option>
+		<option value="James Bond">James Bond</option>
+		<option value="John Wayne">John Wayne</option>
+		<option value="John Wayne Collectibles">John Wayne Collectibles</option>
+		<option value="Kiss">Kiss</option>
+		<option value="Lord of the Rings">Lord of the Rings</option>
+		<option value="Marvel">Marvel</option>
+		<option value="Medicom Toy">Medicom Toy</option>
+		<option value="Military - General">Military - General</option>
+		<option value="Monsters - General">Monsters - General</option>
+		<option value="Monty Python">Monty Python</option>
+		<option value="Muppets">Muppets</option>
+		<option value="New Line House of Horrors">New Line House of Horrors</option>
+		<option value="New Line/House of Horrors">New Line/House of Horrors</option>
+		<option value="Outer Limits">Outer Limits</option>
+		<option value="Planet of the Apes">Planet of the Apes</option>
+		<option value="Platoon">Platoon</option>
+		<option value="Pop Culture">Pop Culture</option>
+		<option value="Predator">Predator</option>
+		<option value="Rambo">Rambo</option>
+		<option value="Scarface">Scarface</option>
+		<option value="Sideshow Presents">Sideshow Presents</option>
+		<option value="Simpsons">Simpsons</option>
+		<option value="Six Gun Legends">Six Gun Legends</option>
+		<option value="Star Trek">Star Trek</option>
+		<option value="Star Wars">Star Wars</option>
+		<option value="Terminator">Terminator</option>
+		<option value="The Dead">The Dead</option>
+		<option value="Twilight Zone">Twilight Zone</option>
+		<option value="Universal Monsters">Universal Monsters</option>
+		<option value="Van Helsing">Van Helsing</option>
+		<option value="Warhammer 40k">Warhammer 40k</option>
+		<option value="World of Froud">World of Froud</option>
+		<option value="X-Files">X-Files</option>
+		</select>
+	</td>
+</tr>
+<tr>
+	<td>
+	<p class="holiday06">Product Type:</p>
+		<select class="holiday06" name="q-4">
+		<option value="">All Product Types</option>
+		<option value="12 inch Figures">12 inch Figures</option>
+		<option value="Accessories">Accessories</option>
+		<option value="Art Pieces and Prints">Art Pieces and Prints</option>
+		<option value="Books">Books</option>
+		<option value="Clothing">Clothing</option>
+		<option value="Environment">Environment</option>
+		<option value="Environments">Environments</option>
+		<option value="Figure Collectibles - Other">Figure Collectibles - Other</option>
+		<option value="Film Collectibles">Film Collectibles</option>
+		<option value="Legendary Bust">Legendary Bust</option>
+		<option value="Life Size Collectibles">Life Size Collectibles</option>
+		<option value="Life-Size Collectibles">Life-Size Collectibles</option>
+		<option value="Miscellaneous Collectibles">Miscellaneous Collectibles</option>
+		<option value="Polystone Bust">Polystone Bust</option>
+		<option value="Polystone Statue">Polystone Statue</option>
+		<option value="Polystone Statues">Polystone Statues</option>
+		<option value="Premium Format Figure">Premium Format Figure</option>
+		<option value="Prop Replicas and Maquettes">Prop Replicas and Maquettes</option>
+		</select>
+	</td>
+</tr>
+<tr>
+	<td>
+	<p class="holiday06">Sort by:</p>
+		<select class="holiday06" name="q-5">
+		<option value="store_price asc">Price (Lowest)</option>
+		<option value="store_price desc">Price (Highest)</option>
+		<option value="misc48 asc">License</option>
+		<option value="misc46 asc">Product Type</option>
+		<option value="misc3 desc">Edition Size</option>
+		<option value="model asc">Alphabetically</option>
+		</select>
+	</td>
+</tr>
+<tr>
+	<td align="right"><input style="font-size:7pt;font-family:verdana;font-weight:bold;color:#FFF;background:#E40000;border:2px #FFF solid;padding:5px; margin-right: 10px;" type="submit" value="Find a Gift!"><p>&nbsp;</p></td>
+</tr>
+</tbody></table>
+</form>
+</div>
 www5.sideshowtoy.com
 
 
