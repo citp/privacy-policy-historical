@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the clumsycrooks.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623212133id_/http%3A//www.clumsycrooks.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clumsycrooks.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216005742id_/http%3A//www.clumsycrooks.com/privacy.php) for the most accurate reproduction.*
 
-# Title of Page
+# Privacy Policy - Clumsy Crooks
 
-### Privacy Policy
+**Privacy Policy**
 
-We respect your privacy, and we want you to feel comfortable using the ClumsyCrooks web site. Therefore, we are providing you with this privacy policy so you can better understand how we collect information about you, what we do with your information, and who, other than ClumsyCrooks.com may also receive your information.
+We respect your privacy, and we want you to feel comfortable using the ClumsyCrooks web site. Therefore, we are providing you with this privacy policy so you can better understand how we collect information about you, what we do with your information, and who, other than ClumsyCrooks.com may also receive your information. 
 
 CyberClicks, Inc. d/b/a ClumsyCrooks.com does collect certain personally identifiable information that may be used to provide you with customized services, content, networking opportunities, industry information and/or advertisements. Personally identifiable information is collected when you register to receive certain ClumsyCrooks.com services, products or offers. ClumsyCrooks.com may also request personally identifiable information when the user elects to participate in other ClumsyCrooks.com affiliated or sponsored programs, including, but not limited to, sweepstakes, contests, and/or other such promotions.
 
@@ -14,5 +14,4 @@ ClumsyCrooks.com may use your personally identifiable information to provide you
 
 Personally identifiable information also may be disclosed to the proper authorities in special situations where ClumsyCrooks.com has reason to believe that doing so is necessary to identify, contact or bring legal action against anyone damaging, injuring, or interfering (intentionally or unintentionally) with ClumsyCrooks.com's rights, property, users, or anyone else who may be harmed by such activities. ClumsyCrooks.com may reveal personally identifiable information when we have been informed by law enforcement authorities or have established a good faith belief that the law requires ClumsyCrooks.com to do so.
 
-We reserve the right to change our privacy policy at any time by posting revisions on the ClumsyCrooks.com web site. This privacy policy is not intended to, and does not create any contractual or other legal rights in or on behalf of any party.  
-
+We reserve the right to change our privacy policy at any time by posting revisions on the ClumsyCrooks.com web site. This privacy policy is not intended to, and does not create any contractual or other legal rights in or on behalf of any party.
