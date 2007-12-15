@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spawnpoint.com privacy policy that was archived on 2007-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070208190020id_/http%3A//www.spawnpoint.com/policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spawnpoint.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215091906id_/http%3A//www.spawnpoint.com/policy.php) for the most accurate reproduction.*
 
-# SpawnPoint: Download PC Games, Free Video Games, Computer Games, Game Server Admin
+# SpawnPoint: Download PC Games, Free Video Games, Computer Games, Game Trailers, Game Demos
 
 **SPAWNPOINT.COM** is a media portal developed specifically for the casual and hardcore gaming audiences. Developed and Managed by [PHXX](http://www.phxxllc.com/) in partnership with [PEER 1](http://www.peer1.com/), delivering new and ever changing content and functional resources is key to the services we want to provide to our audience. Our email address is a  for any inquiries regarding our Privacy Policy.
 
