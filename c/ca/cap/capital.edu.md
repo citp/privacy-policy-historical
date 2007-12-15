@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the capital.edu privacy policy that was archived on 2007-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070221144001id_/http%3A//www.capital.edu/Internet/Default.aspx%3Fpid%3D82) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capital.edu privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215173517id_/http%3A//www.capital.edu/82) for the most accurate reproduction.*
 
-# Privacy - Capital University
+# Privacy
 
 Capital University respects your privacy as a visitor to the university's main Web site, and does not collect or disclose to others personally identifiable information about visitors.
 
