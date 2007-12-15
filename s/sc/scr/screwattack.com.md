@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the screwattack.com privacy policy that was archived on 2007-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070520230218id_/http%3A//screwattack.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screwattack.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215043821id_/http%3A//www.screwattack.com/privacy.html) for the most accurate reproduction.*
 
 # ScrewAttack.com- Something Original... Every Freakin' Day. Now with merchandise! *ding*
 
