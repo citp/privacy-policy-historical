@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the icrossing.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629214727id_/http%3A//www.icrossing.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icrossing.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215074226id_/http%3A//www.icrossing.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - User Agreement - iCrossing: we’re for finding
 
-iCrossing, Inc. ("IC" or "we") takes your privacy seriously and we want you to understand the ways in which we do and do not use the information that you transmit when you visit our websites. This statement discloses the privacy practices for our [www.iCrossing.com](http://www.icrossing.com/), [http://i2a.icrossing.com](http://i2a.icrossing.com/Interest2Action), and [www.IC-Live.com](http://www.ic-live.com/) sites. 
+iCrossing, Inc. ("IC" or "we") takes your privacy seriously and we want you to understand the ways in which we do and do not use the information that you transmit when you visit our websites. This statement discloses the privacy practices for our [www.iCrossing.com](http://www.icrossing.com/) and [http://i2a.icrossing.com](http://i2a.icrossing.com/). 
 
 If you feel that iCrossing is not abiding by this privacy policy, please e-mail our Webmaster at policy@iCrossing.com. 
 
@@ -24,7 +24,7 @@ Legal Disclaimer. We may disclose personal information when required by law or i
 
 Minors. No portion of our services is directed towards minors (individuals below the age of 18) and we do not knowingly solicit any information about minors or market to minors. 
 
-Security. Privacy is very important to iCrossing. We take every precaution to protect our users’ information. All information gathered on our [www.iCrossing.com](http://www.icrossing.com/) and [www.IC-Live.com](http://www.ic-live.com/) websites are protected for storage within a controlled database. However, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information will not be intercepted while being transmitted to us over the Internet. 
+Security. Privacy is very important to iCrossing. We take every precaution to protect our users’ information. All information gathered on our [www.iCrossing.com](http://www.icrossing.com/) website is protected for storage within a controlled database. However, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information will not be intercepted while being transmitted to us over the Internet. 
 
 If you have any questions about the security of this website, please e-mail policy@iCrossing.com.
 
