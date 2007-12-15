@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the profollow.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624081425id_/http%3A//www.profollow.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the profollow.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215140738id_/http%3A//www.profollow.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - LowRisk Market Analytics
 
-[Home](https://web.archive.org/web/20070624081425id_/http%3A//www.profollow.com/index.htm) > [About Us](https://web.archive.org/web/20070624081425id_/http%3A//www.profollow.com/company-overview.htm) > [Privacy Policy](https://web.archive.org/web/20070624081425id_/http%3A//www.profollow.com/privacy-policy.htm)
+[Home](https://web.archive.org/web/20071215140738id_/http%3A//www.profollow.com/index.htm) > [About Us](https://web.archive.org/web/20071215140738id_/http%3A//www.profollow.com/company-overview.htm) > [Privacy Policy](https://web.archive.org/web/20071215140738id_/http%3A//www.profollow.com/privacy-policy.htm)
 
 **This statement discloses the privacy practices of LowRisk Market Analytics/AWeber Systems, Inc.**
 
-Please direct questions regarding this statement to ProFollow/AWeber's excellent Customer Support staff - help@profollow.com/. 
+Please direct questions regarding this statement to ProFollow/AWeber's excellent [Customer Support team](https://web.archive.org/support.htm). 
 
 **Customer Information:** All LowRisk Market Analytics/AWeber Systems, Inc. customer account information is held in strict confidence. We do not sell or share our customer list with any other entities. Customer information such as name, e-mail address, mailing address, phone number, and billing information is collected for the sole purpose of providing services described on this web site. 
 
