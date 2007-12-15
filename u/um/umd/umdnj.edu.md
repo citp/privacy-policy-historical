@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the umdnj.edu privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627062852id_/http%3A//www.umdnj.edu/privacy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the umdnj.edu privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215020117id_/http%3A//www.umdnj.edu/privacy/index.htm) for the most accurate reproduction.*
 
 # University of Medicine and Dentistry of NJ: About UMDNJ
 
@@ -22,4 +22,4 @@ For your convenience, links to useful Web sites outside the UMDNJ Web site are p
 
 All Web site content is Copyright University of Medicine and Dentistry of New Jersey (UMDNJ). UMDNJ has made this information available as a service to the public. Reproduction, duplication, distribution, photocopying, publication, modification, copying or transmission of material, except for printing one copy for personal use, requires written consent. 
 
-**[Contact Information](https://web.archive.org/web/20070627062852id_/http%3A//www.umdnj.edu/contact/index.htm)**
+**[Contact Information](https://web.archive.org/web/20071215020117id_/http%3A//www.umdnj.edu/contact/index.htm)**
