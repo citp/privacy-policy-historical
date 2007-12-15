@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the chessclub.com privacy policy that was archived on 2007-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070629114606id_/http%3A//www.chessclub.com/help/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the chessclub.com privacy policy that was archived on 2007-12-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071215011325id_/http%3A//www.chessclub.com/help/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 <meta name="description" content="The Internet Chess Club, where beginners to grandmasters play online. Serious chess. Serious fun!">
@@ -20,13 +20,14 @@ function dolanguage() {
 	if (i >= 0) {
 		if (document.headerform.LANGUAGE.options[i].text == "English") {
 			setNormalCookie("ICCLANG", ".en");
-location.reload();		} else if (document.headerform.LANGUAGE.options[i].text == "Español") {
+location.reload();		// only check part of string due to problems with foreign characters
+		} else if (document.headerform.LANGUAGE.options[i].text.substring(0,4) == "Espa") { // Español
 			setNormalCookie("ICCLANG", ".es");
 			window.location.href = "/";		} else if (document.headerform.LANGUAGE.options[i].text == "Deutsch") {
 			setNormalCookie("ICCLANG", ".de");
-			window.location.href = "/";		} else if (document.headerform.LANGUAGE.options[i].text == "Français") {
+			window.location.href = "/";		} else if (document.headerform.LANGUAGE.options[i].text.substring(0,4) == "Fran") { // Français
 			setNormalCookie("ICCLANG", ".fr");
-			window.location.href = "/";		} else if (document.headerform.LANGUAGE.options[i].text == "Português") {
+			window.location.href = "/";		} else if (document.headerform.LANGUAGE.options[i].text.substring(0,7) == "Portugu") { // Português
 			setNormalCookie("ICCLANG", ".pt");
 			window.location.href = "/";/*
 		} else if (document.headerform.LANGUAGE.options[i].text == "Italiano") {
@@ -43,12 +44,14 @@ function doquicklinks() {
 	if (i >= 0) {
 		if (document.headerform.QUICKLINKS.options[i].text == "Buy or extend a Membership")
 			window.location.href = "/tryicc/purchase.html";
-		else if (document.headerform.QUICKLINKS.options[i].text == "ChessFM Schedule")
+		else if (document.headerform.QUICKLINKS.options[i].text == "ICC European Party 2007")
+			window.location.href = "/activities/europarty07";
+		else if (document.headerform.QUICKLINKS.options[i].text == "World Chess Cup 2007")
+			window.location.href = "/finger/WorldCup07";
+		else if (document.headerform.QUICKLINKS.options[i].text == "US Chess league 2007")
+			window.location.href = "/finger/uscl";
+		else if (document.headerform.QUICKLINKS.options[i].text == "ChessFM Videos")
 			window.location.href = "/chessfm/";			
-		else if (document.headerform.QUICKLINKS.options[i].text == "LIVE: Aerosvit 2007")
-			window.location.href = "/finger/Foros07";
-		else if (document.headerform.QUICKLINKS.options[i].text == "LIVE: Dortmund 2007")
-			window.location.href = "/finger/Dortmund07";
 		else if (document.headerform.QUICKLINKS.options[i].text == "ICC News Items")
 			window.location.href = "/activities/news/";
 		else if (document.headerform.QUICKLINKS.options[i].text == "ICC Weekly Newsletters")
@@ -74,7 +77,6 @@ function MM_reloadPage(init) {  //reloads the window if Nav4 resized
 }
 if (window != top) LoadTop();
 MM_reloadPage(true);
-
 // -->
 </script>
 
@@ -167,7 +169,7 @@ font-family: Arial, Helvetica, Verdana, sans-serif;}
 </tr>
 
 <tr bgcolor="#DDE2F6">
-   <td height="61" width="520" valign="top" bgcolor="#DDE2F6" align="left"><a href="/" style="cursor: default"><img src="/images/HeaderMidLeft.jpg" width="520" height="61" border="0" alt=""></a></td>
+   <td height="61" width="520" valign="top" bgcolor="#DDE2F6" align="left"><a href="/" style="cursor: default"><img src="/images//HeaderMidLeft.jpg" width="520" height="61" border="0" alt=""></a></td>
 
    <td width="100%" align="left" valign="top" bgcolor="#DDE2F6">
       <form name="headerform" class="topbar" action="#">
@@ -179,9 +181,9 @@ font-family: Arial, Helvetica, Verdana, sans-serif;}
                   <option>CHOOSE A LANGUAGE</option>
                   <option>Deutsch</option>
                   <option selected="">English</option>
-                  <option>Español</option>
-                  <option>Français</option>
-                  <option>Português</option>
+                  <option>Español</option> <!-- Espa&ntilde;ol -->
+                  <option>Français</option> <!-- Fran&ccedil;ais -->
+                  <option>Português</option> <!-- Portugu&ecirc;s -->
                   <!-- <option  >Italiano</option> -->
                   <option>Svenska</option>
               </select>
@@ -193,9 +195,10 @@ font-family: Arial, Helvetica, Verdana, sans-serif;}
             <select name="QUICKLINKS" onchange="doquicklinks();" class="input" size="1">
                <option>QUICK LINKS</option>
                <option>Buy or extend a Membership</option>
-               <option>ChessFM Schedule</option>			   
-               <option>LIVE: Aerosvit 2007</option>
-               <option>LIVE: Dortmund 2007</option>
+               <option>ICC European Party 2007</option>			   
+               <option>World Chess Cup 2007</option>			   
+               <option>US Chess league 2007</option>			   
+               <option>ChessFM Videos</option>			   
                <option>ICC News Items</option>
                <option>ICC Weekly Newsletters</option>
                <option>Relay Schedule</option>
@@ -218,7 +221,7 @@ font-family: Arial, Helvetica, Verdana, sans-serif;}
             <span style="font-family : Verdana, Geneva, Arial, Helvetica, sans-serif ;
                 color : blue ;
                 font-size: 10px ; ">
-               Currently online: <b>1258</b> players, including <b>19 Grandmasters</b> and <b>35 International Masters</b>.            </span>
+                           </span>
          </td>
       </tr>
       <tr>
@@ -245,7 +248,7 @@ font-family: Arial, Helvetica, Verdana, sans-serif;}
 <table width="95%" border="0">
   <tbody><tr> 
     <td> 
-<table class="navbg" width="100%" border="0" cellpadding="3"><tbody><tr class="navheadinglink" onmouseover="this.className='navheadinglinkover'" onmouseout="this.className='navheadinglink'" onclick="location.href='/helpcenter/lookup/'"><td><br><center><b class="navheading">HELP FILES</b></center></td></tr><tr><td>&nbsp;<a href="/help/help-list" class="nav">ICC Commands</a></td></tr><tr><td>&nbsp;<a href="/help/info-list" class="nav">ICC Information</a></td></tr></tbody></table><table width="100%" border="0"><tbody><tr><td valign="middle"><a href="/helpcenter/"><img src="/images/arrowtop.gif" alt="up" border="0"> HELP Top</a></td></tr></tbody></table><font size="2"><br><i>Chat, kibitz, find people you know, leave messages for friends, and explore hundreds of specialized chat channels.
+<table class="navbg" width="100%" border="0" cellpadding="3"><tbody><tr class="navheadinglink" onmouseover="this.className='navheadinglinkover'" onmouseout="this.className='navheadinglink'" onclick="location.href='/helpcenter/lookup/'"><td><br><center><b class="navheading">HELP FILES</b></center></td></tr><tr><td>&nbsp;<a href="/help/help-list" class="nav">ICC Commands</a></td></tr><tr><td>&nbsp;<a href="/help/info-list" class="nav">ICC Information</a></td></tr></tbody></table><table width="100%" border="0"><tbody><tr><td valign="middle"><a href="/helpcenter/"><img src="/images/arrowtop.gif" alt="up" border="0"> HELP Top</a></td></tr></tbody></table><font size="2"><br><i>"I like to go to chessclub.com. You can get a game within seconds, playing someone in Kuala Lumpur at 3 a.m. You never know if your opponent is a 7-year-old or a grandmaster."<br>—&nbsp;Sting
 </i></font><br><br><a href="/tryicc/register/">Get a seven day FREE trial of ICC!</a>    </td>
   </tr>
 </tbody></table>
