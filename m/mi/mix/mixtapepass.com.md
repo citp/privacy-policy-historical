@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mixtapepass.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624141339id_/http%3A//www.mixtapepass.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mixtapepass.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215170311id_/http%3A//www.mixtapepass.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -28,6 +28,6 @@ MixtapePass.Com employs appropriate measures to assure the quality of informatio
 MixtapePass.Com may disclose consumer information to third parties as described earlier in this notice. Many of these disclosures are beneficial to consumers because they permit goods and services of interest to consumers to be offered to consumers at attractive rates. We strive to give consumers choices about how their data will be used. You have the right to opt-out of (direct us not to make) these disclosures when the consumer information is about you. If you would like to opt out simply select the "Opt Out" option at the bottom of any email received by us. 
 
 **Questions Or Comments**  
-If you have any questions or comments about our Privacy Policy, or for some reason believe we have not adhered to our statement, please contact: [downloads@mixtapepass.com](mailto:downloads@mixtapepass.com "Contact Us")
+If you have any questions or comments about our Privacy Policy, or for some reason believe we have not adhered to our statement, please contact: [customerservice@mixtapepass.com](mailto:customerservice@mixtapepass.com "Contact Us")
 
 We may alter this statement as needed for certain products and services and to abide by local laws or regulations around the world. MixtapePass.Com reserves the right to amend or modify this statement from time to time. We urge you to review this statement whenever you visit in order to obtain the most current statement. You may change your choices at any time. 
