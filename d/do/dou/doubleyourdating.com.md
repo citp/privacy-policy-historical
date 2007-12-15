@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doubleyourdating.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630211847id_/http%3A//doubleyourdating.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doubleyourdating.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215222119id_/http%3A//www.doubleyourdating.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
