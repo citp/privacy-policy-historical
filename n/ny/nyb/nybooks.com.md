@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nybooks.com privacy policy that was archived on 2007-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070220104430id_/http%3A//www.nybooks.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nybooks.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215140307id_/http%3A//www.nybooks.com/about/privacy) for the most accurate reproduction.*
 
-# The New York Review of Books: Privacy statement
+# Privacy statement - The New York Review of Books
 
 ## Privacy statement
 
