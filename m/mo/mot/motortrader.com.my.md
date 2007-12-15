@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motortrader.com.my privacy policy that was archived on 2007-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070422123700id_/http%3A//www.motortrader.com.my/Privacy_Statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motortrader.com.my privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215042856id_/http%3A//www.motortrader.com.my/Privacy_Statement.asp) for the most accurate reproduction.*
 
 # Motor Trader - Privacy Statement for Motor Trader Interactive
 
@@ -25,11 +25,11 @@ This site contains links to other sites. Motor Trader Interactive is not respons
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this site, you may contact: 
 
 _Internet Web Media Dept.  
-MTM Publications (Malaysia) Sdn Bhd  
-12.08, 12th Floor Amcorp Tower,   
-Jalan Persiaran Barat,   
-Off Jalan Timur,   
-46200 Petaling Jaya  
+Suite 12.02, Level 12,  
+Centrepoint South, The Boulevard  
+Mid Valley City  
+Lingkaran Syed Putra  
+59200, Kuala Lumpur  
 MALAYSIA
 
 Email Us at [info@motortrader.com.my](mailto:info@motortrader.com.my)
