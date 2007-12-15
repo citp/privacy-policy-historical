@@ -1,124 +1,24 @@
-<!--The following is the downloaded HTML source of the yellowpages.co.in privacy policy that was archived on 2007-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070628212759id_/http%3A//www.yellowpages.co.in/menu_content.php%3Fcontent_id%3D12) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the yellowpages.co.in privacy policy that was archived on 2007-12-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071215124311id_/http%3A//www.yellowpages.co.in/menu_content.php%3Fcontent_id%3D12) for the most accurate reproduction.-->
 
 <html><head>
-		<title> INFOMEDIA Yellow Pages Online 		</title>
+		<title> INFOMEDIA Yellow Pages 		</title>
 		<link rel="shortcut icon" href="/images/favicon.ico" type="image/jpg">
 		<link rel="stylesheet" type="text/css" href="/css/yponline.css">
 		<link rel="stylesheet" type="text/css" href="/css/interface.css">
 		<link rel="stylesheet" type="text/css" href="/css/menu.css">
-		<meta name="description" content="India.s leading yellow pages, published form Mumbai, Delhi, Chennai, Kolkata, Ahmedabad, Pune, Bangalore, Hyderabad, Jaipur, Vadodara, Indore, Coimbatore, Ludhiana. Exhaustive and updated information on all kinds of products and services required at home, office or factory. Cover b2b and b2c.">
-		<meta name="keywords" content="Infomedia Yellow Pages, Directory, Directories, Infomedia,  Yellow Pages , Tata, Press, Tata Press">
+		<meta name="description" content="India's leading yellow pages, published form Mumbai,Delhi, Chennai, Kolkata, Ahmedabad, Pune, Bangalore, Hyderabad, Jaipur, Vadodara, Indore, Coimbatore, Ludhiana, Local search engine, TATA Yellow pages, yellowpages">
+				<meta name="keywords" content="">
+		<meta content="index, follow" name="robots">
+		<meta content="INDEX, FOLLOW" name="GOOGLEBOT">
+
 
 	<meta name="verify-v1" content="xe7LYEoQagRmbNzcKhuHJB/2gUG/ny/H6MreZe+zEuc="> 
-	<meta name="verify-v1" content="Xoc70kB7dtDPEugQ+uJ+fGK81r+jnREVqQjBkq4I6ZA=">
-<script>
-	var i=1;
+        <meta name="verify-v1" content="Xoc70kB7dtDPEugQ+uJ+fGK81r+jnREVqQjBkq4I6ZA=">
 
-	/**
-	* Creates HTTP object for AJAX
-	* @return object HTTP Object
-	*/
- 	function CreateXMLHTTP()
- 	{
- 		var oHTTP_;
- 		try {oHTTP_ = new XMLHttpRequest();}
-		catch (e)
-		{try {oHTTP_ = new ActiveXObject("Msxml2.XMLHTTP");}
-			catch (e)
-			{try {oHTTP_ = new ActiveXObject("Microsoft.XMLHTTP");}
-				catch (e)
-				{oHTTP_ = null;}
-			}
-		}
-		return oHTTP_;
-	}
 
-	/**
-	* Fetch and display AAJX Output
-	* @return string AJAX Output
-	*/
-	function FetchNDisplay()
-	{
-		var oHTTP;
-		var FetchURL;
-		var Data2Post;
-
-		var DTS= new Date().getTime();
-
-		search_query = document.getElementById("Text1").value;
-		//search_query = document.search_form.search_query.value;
-		//RLM.20060823 added for "See also" selected city
-		city_id = document.getElementById("city1").value;
-		catg_id = document.getElementById("catg_id").value;
-		city_selected = document.getElementById("city2").value;
-		radio_select = document.getElementById("name1");
-		//FetchURL = "rel_catg.php?search_query=" + search_query + "&randomno=" + DTS;
-		FetchURL = "rel_catg.php?search_query=" + search_query + "&city_id=" + city_id + "&city=" + city_selected + "&randomno=" + DTS;
-		if(radio_select.checked) // Check if Product is selected, display See Also
-			oHTTP = CreateXMLHTTP();
-
-		if (oHTTP)
-		{
-			oHTTP.open("GET", FetchURL, true);
-
-			oHTTP.onreadystatechange = function()
-			{
-				if (oHTTP.readyState != 4)
-					return;
-
-				var FetchedData = oHTTP.responseText;
-				var FetchedDataArray = FetchedData.split(";");
-			
-				var arr_cnt = FetchedDataArray.length;	
+	<script src="/js/head-js.js"> </script><script src="/js/java_scripts.js"> </script><script src="/js/print.js"> </script></head>
 	
-				cat_cnt = 0;
-				cat_str = "<center><b> See Also</b><br/></center>";
-				for (i=0; i<arr_cnt - 1; i++) 
-				{
-					var cat_arr = FetchedDataArray[i].split("#");
-			
-					//RLM.20060904 For omitting selected category ID
-					//if(!cat_arr[0].equals(catg_id))
-					//if(cat_arr[0] != catg_id)
-					if(trim(cat_arr[0]) != trim(catg_id))
-					{	
-						cat_str = cat_str + "<span class='topsearchwordspan'><a href='/search_result2.php?category_id=" + cat_arr[0] + "&category=" + cat_arr[1] + "&search_query=" + search_query + "&city_id=" + city_id + "&city=" + city_selected +"'>" + cat_arr[2] + "</a></span>";
-						cat_cnt++;
-						//alert(cat_arr[0] + " == " + catg_id);
-					}
-				}
-				//alert(cat_str);
-				
-				//if(arr_cnt > 1)	
-				if(cat_cnt > 0)	
-					document.getElementById("RelCatg").style.visibility = "visible";	
-
-				document.getElementById("RelCatg").innerHTML = cat_str;
-				
-			}
-			oHTTP.send(Data2Post);
-			delete oHTTP;
-		}
-	}
-	
-	/**
-	* Initialize AJAX.
-	*/
-	function JSMain()
-	{
-		FetchNDisplay();
-	}
-
-	function trim( value ) 
-	{
-		return value.replace(/^\s+|\s+$/, '');
-	}	
-</script>
-
-
-
-	<script src="/js/java_scripts.js"> </script><script src="/js/print.js"> </script></head>
 	
 	
 	
@@ -130,7 +30,7 @@
 			<table id="headerbox" border="0" cellpadding="0" cellspacing="5" width="1000">
 			<tbody><tr>
 				<td align="left">
-					<a class="nostyle" href="/index.php" alt="Home"><img class="logoimg" src="/images/iyplogo.jpg" alt="Home"></a>
+					<a class="nostyle" href="/index.php" alt="Home"><img class="logoimg" src="/images/iyplogo.jpg" alt="INFOMEDIA Yellow Pages"></a>
 				</td>
 				<td align="center">
 					&nbsp; &nbsp; &nbsp; &nbsp;
@@ -139,10 +39,11 @@
 				<td align="right">
 						<script type="text/javascript"><!--
 		google_ad_client = "pub-2197275406266510";
+		google_hints = "";
 		google_ad_width = 468;
 		google_ad_height = 60;
 		google_ad_format = "468x60_as";
-		google_ad_type = "image";
+		google_ad_type = "text_image";
 		google_ad_channel = "";
 		//-->
 		</script>
@@ -160,6 +61,7 @@
 		</tr>
 		<tr>
 		<td colspan="2" align="top" valign="top" width="1000">
+
 	<table id="menutabbox" border="0" cellpadding="0" cellspacing="0" width="100%">
 	<tbody><tr><td width="100%"><img src="/images/spacer.gif" width="0" height="1"></td></tr>
 	<tr valign="bottom">
@@ -196,6 +98,7 @@
 			<a href="/signin.php"><b>Sign In</b></a>&nbsp;&nbsp;
 		<a href="/index.php">Home</a>&nbsp;&nbsp;
 		<a href="/display_content.php?content_id=6">Registration Benefits</a>&nbsp;&nbsp;
+		<a href="javascript:addToFavorites()">Bookmark Site</a>
 
 	
 </p>
