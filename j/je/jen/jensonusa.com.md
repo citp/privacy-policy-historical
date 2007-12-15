@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the jensonusa.com privacy policy that was archived on 2007-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070416134902id_/http%3A//www.jensonusa.com/help_desk/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jensonusa.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215131213id_/http%3A//www.jensonusa.com/help_desk/privacy.aspx) for the most accurate reproduction.*
 
 # JensonUSA.com - Your Mountain & Road Bike online parts supplier!
+
+Select UPS 2-Day Air service for fast, cost-effective delivery of in-stock items by Christmas.
 
 By visiting JensonUSA.com you agree to accept the practices described in this Privacy Policy.
 
