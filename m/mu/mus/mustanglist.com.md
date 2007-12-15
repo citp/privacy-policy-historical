@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mustanglist.com privacy policy that was archived on 2007-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070220201507id_/http%3A//www.mustanglist.com/k/idx.php/15/035/article/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mustanglist.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215071352id_/http%3A//mustanglist.com/k/idx.php/15/035/article/Privacy-Policy.html) for the most accurate reproduction.*
 
-# Privacy Policy .: Mustang List Knowledge Base
+# Privacy Policy .: MustangList.com Knowledge Base
 
 At Mustang List, we respect and protect the privacy of our customers and those who use our websites. The following Privacy Statement provides details about how your personal information is collected and used. This privacy statement applies to the network of Mustang List websites, products and services that are located in, but not limited to the Mustang List domain.
 
