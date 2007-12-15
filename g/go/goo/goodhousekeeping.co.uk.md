@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodhousekeeping.co.uk privacy policy that was archived on 2007-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070424193902id_/http%3A//www.goodhousekeeping.co.uk/index.php%3Fmodule%3Droles%26func%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodhousekeeping.co.uk privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215180322id_/http%3A//www.goodhousekeeping.co.uk/index.php%3Fmodule%3Droles%26func%3Dprivacy) for the most accurate reproduction.*
 
 # Good Housekeeping :: Privacy Statement
 
