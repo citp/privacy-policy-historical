@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the higherone.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630205339id_/http%3A//www.higherone.com/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the higherone.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215214550id_/http%3A//www.higherone.com/privacypolicy.shtml) for the most accurate reproduction.*
 
 # Higher One Privacy Policy
 
