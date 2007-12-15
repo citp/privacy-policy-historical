@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalsecurity.org privacy policy that was archived on 2007-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070614144920id_/http%3A//www.globalsecurity.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalsecurity.org privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215045551id_/http%3A//www.globalsecurity.org/privacy.htm) for the most accurate reproduction.*
 
 # GlobalSecurity.org - Reliable News and Security Information
 
@@ -31,10 +31,8 @@ We send to your web browser many of the advertisements you see when you use our 
 
 Opting Out of Third-Party Ad Servers
 
-If you want to prevent a third-party ad server from sending and reading cookies on your computer, currently you must visit each ad network's Web site individually and opt out (if they offer this capability). 
+If you want to prevent a third-party ad server from sending and reading cookies on your computer, you must visit each ad network's Web site individually and opt out (if they offer this capability). 
 
-Currently, we have relationships with the following third-party ad networks (click to visit their Web site): 
+The [Network Advertising Initiative Opt-out Tool](http://networkadvertising.org/managing/opt_out.asp) was developed in conjunction with member advertising networks with the express purpose of allowing consumers to "opt out" of the targeted advertising delivered by these networks. Using this tool, you can examine your computer to see which ad networks have placed a cookie file on your PC. You may also review each NAI member's privacy policy. To opt out of an NAI member advertising program, simply check the box that corresponds to the company from which you wish to opt out and then press the "Submit" button at the bottom of the page. The tool will automatically replace the specified cookie(s) and verify your opt out status. 
 
-24/7 Real Media, Inc. 
-
-http://www.247realmedia.com/privacy.html 
+Opting out of a network does not mean you will no longer receive online advertising. It does mean that the network from which you opted out will no longer deliver ads tailored to your Web preferences and usage patterns. The NAI Opt-out Tool is cookie-based. In order for the tool to work on your computer, your browser must be set to accept 3rd party cookies. If you buy a new computer, change Web browsers or delete this cookie, you will need to perform the opt-out task again. Apple presets the Safari browser to block cookies from sites other than those you visit directly. As a result, the NAI opt out tool, which uses third party cookies, will not work for browsers left in this default setting. 
