@@ -1,30 +1,85 @@
-> *The following text is extracted and transformed from the christianguitar.org privacy policy that was archived on 2007-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070620123921id_/http%3A//www.christianguitar.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christianguitar.org privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216012338id_/http%3A//www.christianguitar.org/privacy.php) for the most accurate reproduction.*
 
-# Christian Guitar Resources - Privacy Statement
+# Christian Guitar
 
- :: [Home](http://www.christianguitar.org/) > Privacy Statement   
-  
+[home](https://web.archive.org/) > Privacy Policy
+
 **Privacy Statement for Christian Guitar Resources**
 
-[Christian Guitar Resources](http://www.christianguitar.org/) has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [Christian Guitar Resources](http://www.christianguitar.org/)
+Christian Guitar Resources has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: Christian Guitar Resources
 
-**Information Automatically Logged**  
+**Information Automatically Logged**
+
 We use your IP address to help diagnose problems with our server and to administer our Web site.
 
-**Third Party Advertising**  
-We use Google, Burst! Media, FastClick and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.
+**Third Party Advertising**
 
-**Third Party Cookies**  
+We use Google, Tribal Fusion, ValueClick, Azoogle, Kontera and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.
+
+**Third Party Cookies**
+
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
 
-**Personal Information**  
+**Personal Information**
+
 This Web site does not request any personal information or collect any information that personally identifies you or allows you to be personally contacted. Since we do not collect any personal information on this Web site, we do not share any personal information with any third parties nor do we use any personal information for any purposes.
 
-**External Links**  
-This site contains links to other sites. [Christian Guitar Resources](http://www.christianguitar.org/) is not responsible for the privacy practices or the content of such Web sites.
+**External Links**
 
-**Public Forums**  
+This site contains links to other sites. Christian Guitar Resources is not responsible for the privacy practices or the content of such Web sites.
+
+**Public Forums**
+
 This site makes message boards available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
 
-**Contacting the Web Site**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us by [clicking here](https://web.archive.org/web/20070620123921id_/http%3A//www.christianguitar.org/contactus.php).
+**Contacting the Web Site**
+
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us by clicking [here](https://web.archive.org/web/20071216012338id_/http%3A//www.christianguitar.org/contactus.php).
+
+**[Sweetwater Sound](http://www.sweetwater.com/)**  
+CGR has partnered with Sweetwater Sound to help the CGR community in all our guitar needs. They have everything from strings, guitars, pedals, and more. Sweetwater, where you can get the best guitar gear for the best price.
+
+**[Tab Country](http://www.tabcountry.com/)**  
+Did you know CGR has a sister site w/ country guitar tabs? Well we do! Its called Tab Country. It has a great archive with a lot of country tabs.
+
+**[Rockin Tabs](http://www.rockintabs.com/)**  
+Are you looking for a site that has rock guitar tabs? Then Rockintabs.com is the place for you. It is a budding site with many rock guitar tabs. Submit your tab today.
+
+**[Yourmusic.com](http://x.azjmp.com/10H93)**  
+BMG and yourmusic.com are now working w/ us to provide an exclusive online offer to access over 14,000 titles on a completely risk-free subscription basis. All cd's are $6.99 with free shipping!
+
+| 
+
+Subscribe and stay up to date
+
+[](http://feeds.feedburner.com/CGR)
+
+There are currently **121** users ( **25** members and **96** guests) on the site. 
+
+As of December 14th, 2007 we have **14,233** tabs, which have been viewed **68,335,598** times.
+
+sponsor
+
+[](https://web.archive.org/forums/forumdisplay.php?forumid=296)
+
+December 6th, 2007  
+[sorry about the downtime](https://web.archive.org/web/20071216012338id_/http%3A//www.christianguitar.org/forums/showthread.php?threadid=159781&goto=newpost "sorry about the downtime")
+
+we had some issues at the datacenter...but everything should be good now. again, i apologize for the downtime....
+
+November 14th, 2007  
+[New Artists](https://web.archive.org/web/20071216012338id_/http%3A//www.christianguitar.org/forums/showthread.php?threadid=158800&goto=newpost "New Artists")
+
+we are now able to add new artists. submit any artists on this thread that you do not see...
+
+November 13th, 2007  
+[Skeeter Added as Super Moderator](https://web.archive.org/web/20071216012338id_/http%3A//www.christianguitar.org/forums/showthread.php?threadid=158768&goto=newpost "Skeeter Added as Super Moderator")
+
+Since Nix stepped down from her Super Moderator position a couple months ago, the Admin staff labored over whom to...
+
+October 31st, 2007  
+[Welcome to CGR 2.0](https://web.archive.org/web/20071216012338id_/http%3A//www.christianguitar.org/forums/showthread.php?threadid=158200&goto=newpost "Welcome to CGR 2.0")
+
+i hope you like the new site. there are still some bugs that are in the process of being...
+
+[Complete News Archive](https://web.archive.org/forums/forumdisplay.php?forumid=296)
