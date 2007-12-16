@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the ancestry.co.uk privacy policy that was archived on 2007-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070610023747id_/http%3A//www.ancestry.co.uk/legal/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ancestry.co.uk privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216064309id_/http%3A//www.ancestry.co.uk/legal/Privacy.aspx) for the most accurate reproduction.*
 
-# 
+# - Ancestry.co.uk
 
-**This Privacy Statement was last updated on May 25, 2007.  
+**This Privacy Statement was last updated on November 25, 2007.  
 If you have not reviewed it since that date, please do so.  
 You will not receive any other notice of changes to this statement.**
 
 Privacy Information for Ancestry.co.uk  
-The Generations Network, Inc., (we, us or our) operator of this site, recognizes the confidentiality of information that may be disclosed by members in registering or making purchases from our Website and we are firmly committed to protecting your privacy. The following discloses our information gathering and dissemination practices for this site. 
+The Generations Network, Inc., (we, us or our) operator of this site, recognizes the confidentiality of information that may be disclosed by members in registering or making purchases from our Website and we are firmly committed to protecting your privacy. The following discloses our information gathering and dissemination practices for this site. Ancestry.co.uk is owned and operated by The Generations Network Inc, incorporated in Delaware, USA and the sites are operated in the United States of America. Registration as a user of or subscriber to the ancestry.co.uk Internet service results in your customer information being stored and processed in the United States, and you, in registering or subscribing, specifically consent to that storage and processing. 
 
 **Overview:**  
 The personal, private information that is provided to Ancestry by individual members is not provided to unrelated third parties except in rare cases involving possible violations of our use policies or legal statutes. We do collect some data, always with your knowledge and consent, that is used to fulfill orders and otherwise enhance content to better meet the needs of our users. 
@@ -54,6 +54,8 @@ IP Addresses: We do use your IP address to help diagnose problems with our serve
 **Ancestry Cookies:**  
 Contrary to popular myth, cookies do not extract private or personal information from your computer’s memory, but rather, record only information you volunteer to us upon registering or visiting the site. Cookies are tiny files placed onto the hard drive of your computer when you register at our Web site that enable our server to recognize or "remember" who you are each time you return. Ancestry may make limited use of cookies to deliver content specific to your interests. For instance they may be used to retain your personal preferences, hold session information for a "shopping basket," or save your password so it doesn’t have to be re-entered each time you login.
 
+You can erase or block cookies from your computer if you want to (your help screen or manual should tell you how to do this), but certain Ancestry services may not work correctly or at all if you set your browser not to accept cookies.
+
 **Advertiser Cookies:**  
 We may use third-party advertising companies to serve ads on our behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, [click here](http://www.networkadvertising.org/optout_nonppii.asp).
 
@@ -65,6 +67,8 @@ Demographic data is collected at our site at the users’ option. This informati
 
 **Contests& Promotions**  
 Ancestry may occasionally run contests or other special promotions on our site in which we ask members or visitors for contact information (like an e-mail address) or demographic information (like a zip code, age, or income level). We use this data to send users promotional material about our company or our partners. The customer's contact information is also used to contact the visitor when necessary and may be shared with other companies for promotional purposes, but only with your prior permission and under the terms and conditions specified when you take part in the promotion. At any time, users may opt-out of receiving future mailings of this kind, or simply decline to take part in the promotions.
+
+By using our website and the services you consent to the collection and use of your information by the Generations Network, Inc. If we decide to change our privacy policy, we will post these changes on this page (or send them to you via e-mail or postal mail) so that you will be aware of what information we collect, how we use it and under what circumstances we disclose it in accordance with the Data Protection Act 1998. If you do not consent to any changes to our privacy policy and as a result you would like us not to use or hold your information in accordance with the revised terms, you may instruct us to delete your information by sending an e-mail to [support@ancestry.co.uk](mailto:support@ancestry.co.uk).
 
 **Contacting the Website**  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Website, you can contact:
