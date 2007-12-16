@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the a2hosting.com privacy policy that was archived on 2007-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070611195621id_/http%3A//www.a2hosting.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the a2hosting.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216181359id_/http%3A//www.a2hosting.com/privacy_policy.php) for the most accurate reproduction.*
 
-# A2 Web Hosting : Privacy Policy : PHP 5.2.1 Hosting, MySQL 5.0.x/4.1.x Hosting, Postgres/PostgreSQL 8.2.x Hosting, Ruby on Rails, Linux cPanel Hosting
+# A2 Web Hosting : Privacy Policy : PHP 5 Hosting, MySQL 5/4 Hosting, Postgres/PostgreSQL 8 Hosting, Ruby on Rails 2.0, Linux cPanel Hosting
 
 **Our Commitment To Privacy**
 
