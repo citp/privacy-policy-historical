@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the buyspares.co.uk privacy policy that was archived on 2007-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070430172453id_/http%3A//www.buyspares.co.uk/cgi-bin/static.pl%3Fcontent%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buyspares.co.uk privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216214703id_/http%3A//www.buyspares.co.uk/cgi-bin/static.pl%3Fcontent%3Dprivacy) for the most accurate reproduction.*
 
-# buyspares.co.uk - spares and accessories
+# buyspares.co.uk - spares, spare parts and accessories
 
 Privacy statement   
 ---  
