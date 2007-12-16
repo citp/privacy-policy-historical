@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the nymcu.org privacy policy that was archived on 2003-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030412162213id_/http%3A//www.nymcu.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nymcu.org privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216023548id_/http%3A//www.nymcu.org/resources/security_PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
+# MCU: Resource Center - Security - Privacy Policy
 
-****
+  
 
-At Municipal Credit Union (MCU) your privacy is important to us. This Internet Privacy Policy is intended to explain how we treat information received from our MCU web site.
+
+At Municipal Credit Union (MCU) your privacy is important to us. This Internet Privacy Policy is intended to explain how we treat information received from our MCU web site. 
 
 **General Information**
 
@@ -12,15 +13,15 @@ No personal information, such as your name or address, is collected automaticall
 
 **Information Collected and Stored Automatically**
 
-For site security purposes and to ensure that this service remains available to all users, Municipal Credit Union utilizes software programs to monitor network traffic in order to identify unauthorized attempts to upload or change information, or otherwise cause damage.
+For site security purposes and to ensure that this service remains available to all users, Municipal Credit Union utilizes software programs to monitor network traffic in order to identify unauthorized attempts to upload or change information, or otherwise cause damage. 
 
-Web site management information is collected for statistical purposes. Computer software programs are used to create summary statistics, which are used for such purposes as assessing what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas.
+Web site management information is collected for statistical purposes. Computer software programs are used to create summary statistics, which are used for such purposes as assessing what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas. 
 
-Only the following information is automatically collected and stored when you visit our web site:
+Only the following information is automatically collected and stored when you visit our web site: 
 
-  * The Internet domain (e.g., AOL, or MSN) from which you access our Web site
-  * The make and model of Internet browser software that you have used when accessing our Web site
-  * The number of times that you have visited our Web site during the current month (MCU utilizes "cookies". A "cookie" is a file placed on your hard drive by a Web site that allows it to monitor your visit. You can set your browser to warn you when placement of a cookie is requested and decide whether or not to accept it.)
+  * The Internet domain (e.g., AOL, or MSN) from which you access our Web site 
+  * The make and model of Internet browser software that you have used when accessing our Web site 
+  * The number of times that you have visited our Web site during the current month (MCU utilizes "cookies". A "cookie" is a file placed on your hard drive by a Web site that allows it to monitor your visit. You can set your browser to warn you when placement of a cookie is requested and decide whether or not to accept it.) 
 
 
 
