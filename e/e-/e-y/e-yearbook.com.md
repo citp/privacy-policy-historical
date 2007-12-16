@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the e-yearbook.com privacy policy that was archived on 2007-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070105082354id_/http%3A//www.e-yearbook.com/sp/terms%3Fprivacy%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e-yearbook.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216061813id_/http%3A//www.e-yearbook.com/sp/terms%3Fprivacy%3D1) for the most accurate reproduction.*
 
-# e-YearBook Privacy Policy
+# E-Yearbook Privacy Policy
 
-Digital Data Online, Inc. e-YearBook Website Privacy Policy
+Digital Data Online, Inc. E-Yearbook Website Privacy Policy
 
 This Privacy Policy is effective as of October 15, 2006 and may be updated from time to time.  If you have not reviewed it since that date, please do so as the prior version is no longer in effect. You will not receive any other notice of changes to this statement.
 
 Overview Legal Disclosure
 
-We may disclose your personally identifiable information if required to do so by law or in the good faith belief that such action is necessary to conform to applicable law, comply with a judicial proceeding, court order or legal process served, protect and defend the rights or property of DDO or e-YearBook, or investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, or violations of our Terms of Service. 
+We may disclose your personally identifiable information if required to do so by law or in the good faith belief that such action is necessary to conform to applicable law, comply with a judicial proceeding, court order or legal process served, protect and defend the rights or property of DDO or E-Yearbook, or investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, or violations of our Terms of Service. 
 
 The personal, private information that is provided to us by individual members is not provided to unrelated third parties except in rare cases described below or involving possible violations of our Terms and Conditions or as may be required by law.  We do collect some data, always with your knowledge, that is used to fulfill orders and otherwise enhance content to better meet the needs of our users. We collect your information at various points when you use the Website. This is described in more detail below. 
 
@@ -34,7 +34,7 @@ If you elect to use our referral service to tell a friend about our Website, you
 
 Legal Disclosure
 
-We may disclose your personally identifiable information if required to do so by law or in the good faith belief that such action is necessary to conform to applicable law, comply with a judicial proceeding, court order or legal process served, protect and defend the rights or property of DDO or e-YearBook, or investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, or violations of our Terms of Service.
+We may disclose your personally identifiable information if required to do so by law or in the good faith belief that such action is necessary to conform to applicable law, comply with a judicial proceeding, court order or legal process served, protect and defend the rights or property of DDO or E-Yearbook, or investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, or violations of our Terms of Service.
 
 No Underage Users
 
@@ -46,6 +46,4 @@ If you have registered as a subscriber, you will receive our standard communicat
 
 The Security Of Your Information
 
-  We have instituted physical, electronic and procedural safeguards to store and maintain your information in a secure environment. For example, when highly confidential information, such as a credit card number, is transmitted through our Website, it is encrypted by using Secure Socket Layer (SSL) software. You may also be required to use a password to access certain pages on the Website where certain types of your information can be changed or deleted. It is therefore important for you to protect against unauthorized access to your password, emails which we may send you and to your computer. You take full responsibility for maintaining the confidentiality of your password. Furthermore, while we have implemented safeguards we are not in a position to guarantee that your information will be secure under all circumstances.   
-  
-
+  We have instituted physical, electronic and procedural safeguards to store and maintain your information in a secure environment. For example, when highly confidential information, such as a credit card number, is transmitted through our Website, it is encrypted by using Secure Socket Layer (SSL) software. You may also be required to use a password to access certain pages on the Website where certain types of your information can be changed or deleted. It is therefore important for you to protect against unauthorized access to your password, emails which we may send you and to your computer. You take full responsibility for maintaining the confidentiality of your password. Furthermore, while we have implemented safeguards we are not in a position to guarantee that your information will be secure under all circumstances. 
