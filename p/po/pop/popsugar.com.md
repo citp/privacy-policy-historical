@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the popsugar.com privacy policy that was archived on 2006-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061118224921id_/http%3A//www.popsugar.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popsugar.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216141046id_/http%3A//popsugar.com/privacy) for the most accurate reproduction.*
 
-# Privacy | POPSUGAR
+# Privacy | POPSUGAR - Celebrity Gossip & News.
 
-  
-
-
-#### Sugar Publishing Privacy Policy
+## Sugar Publishing Privacy Policy
 
 This privacy statement ("Privacy Policy") covers all the websites owned, affiliated or operated by Sugar Publishing, Inc. ("Sugar Publishing", "we", "us", "our"). Sugar Publishing knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our privacy policy. By visiting the Sugar Publishing websites, submitting information or using any of our products or services, you are accepting the practices outlined in this Privacy Policy.
 
@@ -42,6 +39,7 @@ For purposes such as improving personalization of our service, we may receive in
   * Cookies are alphanumeric identifiers that we may transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our website are visited and by how many people. Sugar Publishing cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your screen name or email address is.
   * The "help" portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. We strongly recommend that you leave the cookies activated, however, because cookies enable you to take advantage of some of Sugar Publishing's most attractive features.
   * Some of our business partners may use cookies on our websites (for example, advertisers). However, we have no access to or control over these cookies.
+  * Third Party cookies: We use third-party advertising companies such as TACODA to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://networkadvertising.org/consumer/opt_out.asp).
 
 
 
@@ -108,7 +106,4 @@ Sugar Publishing may amend this Privacy Policy from time to time, at its sole di
 If you have any questions or concerns regarding privacy at the Sugar Publishing websites, please send a detailed message to [support@sugarpublishing.com](mailto:support@sugarpublishing.com?subject=Question%20for%20Sugar%20Publishing). Your privacy is important to us and we will make every effort to resolve your concerns. 
 
 **Effective Date of This Privacy Policy**  
-This Privacy Policy is effective as of November 15, 2006.
-
-  
-
+This Privacy Policy is effective as of November 15, 2007.
