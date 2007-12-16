@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the macgamefiles.com privacy policy that was archived on 2007-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070505175929id_/http%3A//www.macgamefiles.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macgamefiles.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216152211id_/http%3A//www.macgamefiles.com/policy.php) for the most accurate reproduction.*
 
 # Macgamefiles.com: Privacy Policy
 
-  |    
-**Privacy Policy**
+   
+Privacy Policy
 
 Macgamefiles.com respects each individual user's right to privacy. Macgamefiles.com does not collect personal identifying information unless such information is specifically and knowingly provided from users during contests, surveys, sweepstakes, site registration, or use of public areas, such as a forum. Macgamefiles.com may use aggregate forms of this information -- not individual data -- for marketing and promotional purposes. Macgamefiles.com does not supply identifying information to other companies, or uses such information for its own purposes including but not limited to email newsletters, unless the user "opts-in" for such purposes by specifically allowing usage. (Identifying information must necessarily be used when notifying a user of requested information, such as notification of a winning entry in a contest or sweepstakes.) Macgamefiles.com is not responsible for any actions or policies of such companies.
 
