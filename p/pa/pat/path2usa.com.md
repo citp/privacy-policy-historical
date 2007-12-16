@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the path2usa.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625035646id_/http%3A//www.path2usa.com/aboutp2u/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the path2usa.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216023249id_/http%3A//www.path2usa.com/aboutp2u/privacy.htm) for the most accurate reproduction.*
 
 # Privacy statement - Path2usa
 
@@ -38,4 +38,4 @@ Finally:
 
 The Web is an evolving medium. If required, we may change our privacy policy at any time in the future, without any notice to the users. However, the changes will be posted here. Use of any information will always comply to our privacy policy, even if we later change this policy.
 
-You also must read our **[Terms and conditons](https://web.archive.org/web/20070625035646id_/http%3A//www.path2usa.com/aboutp2u/terms_n_conditions.html)** prior to use this website.
+You also must read our **[Terms and conditons](https://web.archive.org/web/20071216023249id_/http%3A//www.path2usa.com/aboutp2u/terms_n_conditions.html)** prior to use this website.
