@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hincity.com privacy policy that was archived on 2006-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061228173532id_/http%3A//hincity.com/info/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hincity.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216161235id_/http%3A//hincity.com/info/privacypolicy.asp) for the most accurate reproduction.*
 
-# HINcity - members, community, cars, models, music, games, HINTV, forums, auto aftermarket, and automotive news.
+# HINcity.com
 
 This privacy statement covers the site HINcity.com and hotimportnights.com furthermore collectively referred to as HIN.
 
