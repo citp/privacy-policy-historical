@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the ha.com privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622113353id_/http%3A//www.ha.com/common/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ha.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216040438id_/http%3A//www.ha.com/common/privacy.php) for the most accurate reproduction.*
 
 # Heritage Privacy Policy
-
-|   
----  
-| 
 
 **Heritage Privacy Policy**
 
@@ -13,7 +9,7 @@ Any information that you provide to us is personal, private, and valuable. When 
 
 As our relationship with you and our other customers grows, this privacy policy will change to better serve everyone. Check back periodically for updates and feel free to contact us at any time with questions or suggestions regarding this policy. This privacy policy was last updated on July 23, 2004.
 
-If you have questions or concerns regarding this statement, you should first contact Heritage by either e-mail ([webmaster@HA.com](mailto:webmaster@HA.com)) or writing us at the following address:
+If you have questions or concerns regarding this statement, you should first contact Heritage by either e-mail ([Webmaster@HA.com](mailto:Webmaster@HA.com)) or writing us at the following address:
 
 Heritage Auction Galleries  
 3500 Maple Avenue, 17th Floor  
@@ -37,14 +33,12 @@ We collect any and/or all of the following, depending on what particular form yo
 
 We automatically record your IP address, session duration, transaction data, the order and addresses of the pages you visit, and in most cases the data that you enter on those pages. We use all of this information to improve the navigation, functionality, and general service that our Web site provides.
 
-If you provide us with your e-mail address, you will automatically begin receiving e-mails from us on a variety of subjects. If you wish to block your e-mail address from receiving any e-mails from Heritage, you may do so quickly and easily by sending an e-mail to [webmaster@HA.com](mailto:webmaster@HA.com) with "REMOVE" in the subject line.
+If you provide us with your e-mail address, you will automatically begin receiving e-mails from us on a variety of subjects. If you wish to block your e-mail address from receiving any e-mails from Heritage, you may do so quickly and easily by sending an e-mail to [Webmaster@HA.com](mailto:Webmaster@HA.com?subject=REMOVE) with "REMOVE" in the subject line.
 
 **How does Heritage use your information?**  
 Heritage researches our customers' usage patterns and demographics based on the information provided to us during their experiences on our Web site. We do this to better understand our customers' needs and enhance our service. This information is compiled and analyzed on an aggregate basis for internal use only and is not shared with any parties outside of Heritage.
 
-Registration qualifies user as a Heritage customer and regardless of any regulation to the contrary agrees, until this consent is revoked in writing, that Heritage may from time to time contact user concerning sale and purchase opportunities available through Heritage.
-
- **With whom does Heritage share your information?**  
+Registration qualifies user as a Heritage customer and regardless of any regulation to the contrary agrees, until this consent is revoked in writing, that Heritage may from time to time contact user concerning sale and purchase opportunities available through Heritage. **With whom does Heritage share your information?**  
 No one - for any reason. All information is held in confidence by Heritage. Any information disseminated to parties external to Heritage is anonymous in nature -- for example: the prices realized for a particular auction may include the price paid for a lot, but it will not include information concerning the person who purchased that lot.
 
 **What are cookies and how are they used?**  
@@ -56,45 +50,4 @@ Security measures are in place that protect against the loss, misuse or alterati
 In the areas of our Web site where you must provide a User Name and password, only you have access to your information. In the interest of privacy and security, we automatically expire your session when a specific period goes by without activity so that if someone else were to gain access to your computer they still would not be able to view your information on our site.
 
 **Reviewing and changing your information**  
-You can edit and change the information that Heritage has concerning you, including your User Name and password, by [editing your profile](https://web.archive.org/common/myprofile.php). If you have forgotten your password, we will [send it to you immediately via e-mail](https://web.archive.org/common/ForgotPwd.php) at your request.   
-  
----  
-  
-  | 
-
-|   
----  
-**Heritage delivers Value - $617,017,441** sold at auction and in private treaty sales over the past 12 months. 
-
-Our 
-
-**303,430** bidder-members from 132 countries enjoy all these free benefits: 
-
-  1. Bid on-line
-  2. Free Collector newsletter
-  3. Want List with instant e-mail notifications
-  4. Auction Archives (prices, photos, full descriptions, etc.)
-
-  
-  
-**Quality Consignments Wanted**  
----  
-Consign to the 2007 November Signature Vintage Movie Poster Auction  E-mail [Grey Smith](https://web.archive.org/common/acquisitions.php?target=consign&txtConsignmentDirector=Grey%20Smith) or call   
-1-800-872-6467 x367   
-  
-  
-[](http://americana.ha.com/misc/663Preview?ic=rightcolumn-preview663-b032707)
-
-**Dallas Children's Theatre Charity Auction**  
-Dallas, TX - June 23
-
-**BeatlesFest Convention**  
-Las Vegas, NV - July 1-3
-
-**Heritage Appraisal Day**  
-Austin, TX - July 21
-
-  
-  
-  
- 
+You can edit and change the information that Heritage has concerning you, including your User Name and password, by [editing your profile](https://web.archive.org/common/myprofile.php). If you have forgotten your password, we will [send it to you immediately via e-mail](https://web.archive.org/common/ForgotPwd.php) at your request. 
