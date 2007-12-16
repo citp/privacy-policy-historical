@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vegcooking.com privacy policy that was archived on 2007-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070525012410id_/http%3A//www.peta.org/priv.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vegcooking.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216222853id_/http%3A//www.peta.org/priv.asp) for the most accurate reproduction.*
 
 # People for the Ethical Treatment of Animals (PETA): Your Privacy
 
@@ -42,7 +42,7 @@ PETA also uses cookies to administer the Web site, track visitor movement, and g
 
 **How is information used in PETA e-news?**
 
-You will only receive e-mail newsletters (e-news) from us if you have expressly signed up for e-news on a PETA Web site. The information that we gather from subscribers to our e-news lists (including e-mail addresses) is not shared with other non-PETA affiliated organizations or companies. From time to time, we may send out e-mail messages that might include information about these like-minded organizations and companies, but we do not provide them with access to any personal information that you have provided. If you live outside the United States and provide us with your contact details, we may share these with PETA's international affiliates in order to keep you apprised of developments in your part of the world. If you don't want your information to be given to PETA’s international affiliates, please e-mail [NewsManager@peta.org](mailto:NewsManager@peta.org). 
+You will only receive e-mail newsletters (e-news) from us if you have expressly signed up for e-news on a PETA Web site. The information that we gather from subscribers to our e-news lists (including e-mail addresses) is not shared with other non-PETA affiliated organizations or companies. From time to time, we may send out e-mail messages that might include information about these like-minded organizations and companies, but we do not provide them with access to any personal information that you have provided. If you live outside the United States and provide us with your contact details, we may share these with PETA's international affiliates in order to keep you apprised of developments in animal protection activities in your part of the world. If you don't want your information to be given to PETA’s international affiliates, please e-mail [NewsManager@peta.org](mailto:NewsManager@peta.org). 
 
 In order to provide you with better and more relevant information, we compile information about e-mail response and Web site usage. This information helps us to better understand site usage patterns and also what types of content and information may help improve your user experience on PETA’s Web site.
 
@@ -64,7 +64,7 @@ If you are a PETA member and you don’t wish to have your information exchanged
 
 The easiest method to correct and/or change other information regarding your membership is by visiting the member’s portion of our Web site by [going here](https://ebiz.isiservices.com/peta-e/peta/members.asp). You can also contact our membership services at [Donations@peta.org](mailto:Donations@peta.org) or by calling 757-622-7382.
 
-If you are not a PETA member and you have provided personal contact information on our Web site through the methods listed above, your information will not be exchanged with organizations that are not affiliated with PETA. If you live outside the United States, we may share your contact details with PETA’s international affiliates as described above. Please e-mail [NewsManager@peta.org](mailto:NewsManager@peta.org) if you don’t want your information to be shared in this manner.
+If you are not a PETA member and you have provided personal contact information on our Web site through the methods listed above, your information will not be exchanged with organizations that are not affiliated with PETA. If you live outside the United States, we may share your contact details with PETA’s international affiliates in order to keep you apprised of developments in animal protection activities in your part of the world. Please e-mail [NewsManager@peta.org](mailto:NewsManager@peta.org) if you don’t want your information to be shared in this manner.
 
 **Additional questions?**
 
