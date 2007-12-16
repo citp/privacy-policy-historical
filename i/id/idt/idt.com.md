@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the idt.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206014526id_/http%3A//idt.com%3Fid%3D101%26source%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idt.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216034910id_/http%3A//www.idt.com%3Fid%3D101%26source%3Dfooter) for the most accurate reproduction.*
 
-# Privacy and Security Policy | IDT
+# Integrated Device Technology
 
 **Privacy Policy**  
 Your privacy is very important to us. Integrated Device Technology ("IDT") adheres to the following privacy policy regarding its collection, use and dissemination of personal and non-personal information collected through its website (idt.com). IDT reserves the right to modify its privacy policy at any time. 
@@ -34,4 +34,4 @@ Access to your personal information is limited to IDT employees and its services
 **Please note:** Some corporate firewalls do not support secure SSL transmissions. If you experience problems when trying to connect using SSL, please contact your Internet administrator and confirm if your corporate firewall supports SSL. 
 
 **Comments**  
-Any questions or concerns regarding this policy should be sent by electronic mail to [webmaster@idt.com](mailto:webmaster@idt.com?subject=Feedback%20from%20Privacy%20Policy), or by first class mail, postage prepaid, to Integrated Device Technology, Inc, 6024 Silver Creek Valley Road, San Jose, CA 95138, Attention: Webmaster.
+Any questions or concerns regarding this policy should be submitted using the [Ask IDT form](https://web.archive.org/askidt.cfm), or sent by first class mail, postage prepaid, to Integrated Device Technology, Inc, 6024 Silver Creek Valley Road, San Jose, CA 95138, Attention: Webmaster.
