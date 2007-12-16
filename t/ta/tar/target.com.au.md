@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the target.com.au privacy policy that was archived on 2007-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070528063224id_/http%3A//www.target.com.au/html/privacy/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the target.com.au privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216061850id_/http%3A//www.target.com.au/html/privacy/privacy.htm) for the most accurate reproduction.*
 
 # Target Australia Pty Ltd -
 
