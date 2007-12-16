@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rwjf.org privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618043044id_/http%3A//www.rwjf.org/policies/privacy.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rwjf.org privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216100400id_/http%3A//www.rwjf.org/policies/privacy.jhtml) for the most accurate reproduction.*
 
 # RWJF - Web Policies - Privacy Statement
 
@@ -9,7 +9,7 @@ The Robert Wood Johnson Foundation is a licensee of the TRUSTe Privacy Program. 
 | [](http://www.truste.org/ivalidate.php?url=www.rwjf.org&sealid=101)  
 ---|---  
   
-If users have questions or concerns regarding this statement, you should first contact the Privacy Liaison at [Privacy@rwjf.org](mailto:Privacy@rwjf.org). If you do not receive acknowledgment of your inquiry or it is not satisfactorily addressed, you should then contact TRUSTe through the [TRUSTe Watchdog Dispute Resolution Process (http://www.truste.org/consumers/watchdog_complaint.php)](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will serve as a liaison with the Web site to resolve users concerns. However, please understand the TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site.  
+If users have questions or concerns regarding this statement, you should first contact our Privacy Liaison using [the Contact Us form](https://web.archive.org/global/contactus.jsp). If you do not receive acknowledgment of your inquiry or it is not satisfactorily addressed, you should then contact TRUSTe through the [TRUSTe Watchdog Dispute Resolution Process (http://www.truste.org/watchdog.html)](http://www.truste.org/watchdog.html). TRUSTe will serve as a liaison with the Web site to resolve users concerns. However, please understand the TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site.  
 
 
   
@@ -122,7 +122,7 @@ In order for this Web site to properly fulfill its obligation to users it is nec
 ## Correcting/Updating/Deleting/Deactivating Personal Information   
 
 
-If a user's personally identifiable information changes (such as zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users' personally identifiable information. This can usually be done at the Registration page or by emailing our Support team at privacy@rwjf.org.
+If a user's personally identifiable information changes (such as zip code, phone, e-mail or postal address), or if a user no longer desires our service, you can [update your profile](https://web.archive.org/services/myprofile.jsp). 
 
 ## Notification of Changes   
 
@@ -136,9 +136,9 @@ If, however, we are going to use users' personally identifiable information in a
 
 If users have any questions or suggestions regarding our privacy policy, please contact us at:
 
-Phone 1-888-631-9989  
+Phone (877) 843-RWJF  
 Fax: 609-627-6401, Attention RWJF Web Privacy   
-Email: [privacy@rwjf.org](mailto:privacy@rwjf.org)  
+Email: [Contact Us](https://web.archive.org/global/contactus.jsp)  
 Postal Address
 
 Robert Wood Johnson Foundation  
