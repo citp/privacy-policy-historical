@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gov.im privacy policy that was archived on 2007-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070208141309id_/http%3A//www.gov.im/terms.gov%3Fkeyname%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gov.im privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216181926id_/http%3A//www.gov.im/terms.gov%3Fkeyname%3DPrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy, Data Protection and sharing of information - Isle of Man Government -
 
