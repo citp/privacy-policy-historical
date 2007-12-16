@@ -1,0 +1,452 @@
+<!--The following is the downloaded HTML source of the proshareng.com privacy policy that was archived on 2007-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071216092627id_/http%3A//proshareng.com/about_us/privacy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/templates/proshare_standardpage_noadverts_01.dwt" codeOutsideHTMLIsLocked="false" --><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Personal Finance Features and Tools - Proshare - About Us - Privacy</title>
+<!-- InstanceEndEditable -->
+<!-- InstanceBeginEditable name="content_type_zone" -->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="description" content="Providing Personal Finance Tools that enable users sharpen financial intelligence">
+<meta name="keywords" content="proshare, personal finance, business magazine, personal finance nigeria, training nigeria, olufemi awoyemi, nigeria, blog">
+<!-- InstanceEndEditable -->
+<link href="/assets/user/stylesheets/proshare_main.css" rel="stylesheet" type="text/css">
+<link href="/assets/user/stylesheets/proshare_menu.css" rel="stylesheet" type="text/css">
+<link href="/assets/user/stylesheets/proshare_bullets.css" rel="stylesheet" type="text/css">
+<link href="/assets/user/stylesheets/proshare_buttons.css" rel="stylesheet" type="text/css">
+<link href="/assets/user/stylesheets/proshare_portlets.css" rel="stylesheet" type="text/css">
+<link href="/assets/user/stylesheets/proshare_scroller.css" rel="stylesheet" type="text/css">
+<script type="text/javascript">
+/*Example message arrays for the two demo scrollers*/
+
+var pausecontent=new Array()
+pausecontent[0]='<a href="http://www.javascriptkit.com">JavaScript Kit</a><br />Comprehensive JavaScript tutorials and over 400+ free scripts!'
+pausecontent[1]='<a href="http://www.codingforums.com">Coding Forums</a><br />Web coding and development forums.'
+pausecontent[2]='<a href="http://www.cssdrive.com" target="_new">CSS Drive</a><br />Categorized CSS gallery and examples.'
+
+var pausecontent2=new Array()
+pausecontent2[0]='<div class="header_scroller"><a href="/myproshare/portal_news.php?id=3363">The Stock Market - 141207</a></div>'
+	pausecontent2[1]='<div class="header_scroller"><a href="/myproshare/portal_news.php?id=3356">Dealers Perspective 131207</a></div>'
+	
+/***********************************************
+* Pausing up-down scroller- © Dynamic Drive (www.dynamicdrive.com)
+* This notice MUST stay intact for legal use
+* Visit http://www.dynamicdrive.com/ for this script and 100s more.
+***********************************************/
+
+function pausescroller(content, divId, divClass, delay){
+this.content=content //message array content
+this.tickerid=divId //ID of ticker div to display information
+this.delay=delay //Delay between msg change, in miliseconds.
+this.mouseoverBol=0 //Boolean to indicate whether mouse is currently over scroller (and pause it if it is)
+this.hiddendivpointer=1 //index of message array for hidden div
+document.write('<div id="'+divId+'" class="'+divClass+'" style="position: relative; overflow: hidden"><div class="innerDiv" style="position: absolute; width: 100%" id="'+divId+'1">'+content[0]+'</div><div class="innerDiv" style="position: absolute; width: 100%; visibility: hidden" id="'+divId+'2">'+content[1]+'</div></div>')
+var scrollerinstance=this
+if (window.addEventListener) //run onload in DOM2 browsers
+window.addEventListener("load", function(){scrollerinstance.initialize()}, false)
+else if (window.attachEvent) //run onload in IE5.5+
+window.attachEvent("onload", function(){scrollerinstance.initialize()})
+else if (document.getElementById) //if legacy DOM browsers, just start scroller after 0.5 sec
+setTimeout(function(){scrollerinstance.initialize()}, 500)
+}
+
+// -------------------------------------------------------------------
+// initialize()- Initialize scroller method.
+// -Get div objects, set initial positions, start up down animation
+// -------------------------------------------------------------------
+
+pausescroller.prototype.initialize=function(){
+this.tickerdiv=document.getElementById(this.tickerid)
+this.visiblediv=document.getElementById(this.tickerid+"1")
+this.hiddendiv=document.getElementById(this.tickerid+"2")
+this.visibledivtop=parseInt(pausescroller.getCSSpadding(this.tickerdiv))
+//set width of inner DIVs to outer DIV's width minus padding (padding assumed to be top padding x 2)
+this.visiblediv.style.width=this.hiddendiv.style.width=this.tickerdiv.offsetWidth-(this.visibledivtop*2)+"px"
+this.getinline(this.visiblediv, this.hiddendiv)
+this.hiddendiv.style.visibility="visible"
+var scrollerinstance=this
+document.getElementById(this.tickerid).onmouseover=function(){scrollerinstance.mouseoverBol=1}
+document.getElementById(this.tickerid).onmouseout=function(){scrollerinstance.mouseoverBol=0}
+if (window.attachEvent) //Clean up loose references in IE
+window.attachEvent("onunload", function(){scrollerinstance.tickerdiv.onmouseover=scrollerinstance.tickerdiv.onmouseout=null})
+setTimeout(function(){scrollerinstance.animateup()}, this.delay)
+}
+
+
+// -------------------------------------------------------------------
+// animateup()- Move the two inner divs of the scroller up and in sync
+// -------------------------------------------------------------------
+
+pausescroller.prototype.animateup=function(){
+var scrollerinstance=this
+if (parseInt(this.hiddendiv.style.top)>(this.visibledivtop+5)){
+this.visiblediv.style.top=parseInt(this.visiblediv.style.top)-5+"px"
+this.hiddendiv.style.top=parseInt(this.hiddendiv.style.top)-5+"px"
+setTimeout(function(){scrollerinstance.animateup()}, 50)
+}
+else{
+this.getinline(this.hiddendiv, this.visiblediv)
+this.swapdivs()
+setTimeout(function(){scrollerinstance.setmessage()}, this.delay)
+}
+}
+
+// -------------------------------------------------------------------
+// swapdivs()- Swap between which is the visible and which is the hidden div
+// -------------------------------------------------------------------
+
+pausescroller.prototype.swapdivs=function(){
+var tempcontainer=this.visiblediv
+this.visiblediv=this.hiddendiv
+this.hiddendiv=tempcontainer
+}
+
+pausescroller.prototype.getinline=function(div1, div2){
+div1.style.top=this.visibledivtop+"px"
+div2.style.top=Math.max(div1.parentNode.offsetHeight, div1.offsetHeight)+"px"
+}
+
+// -------------------------------------------------------------------
+// setmessage()- Populate the hidden div with the next message before it's visible
+// -------------------------------------------------------------------
+
+pausescroller.prototype.setmessage=function(){
+var scrollerinstance=this
+if (this.mouseoverBol==1) //if mouse is currently over scoller, do nothing (pause it)
+setTimeout(function(){scrollerinstance.setmessage()}, 100)
+else{
+var i=this.hiddendivpointer
+var ceiling=this.content.length
+this.hiddendivpointer=(i+1>ceiling-1)? 0 : i+1
+this.hiddendiv.innerHTML=this.content[this.hiddendivpointer]
+this.animateup()
+}
+}
+
+pausescroller.getCSSpadding=function(tickerobj){ //get CSS padding value, if any
+if (tickerobj.currentStyle)
+return tickerobj.currentStyle["paddingTop"]
+else if (window.getComputedStyle) //if DOM2
+return window.getComputedStyle(tickerobj, "").getPropertyValue("padding-top")
+else
+return 0
+}</script></head>
+
+<body>
+
+	<div id="global-wrapper">
+		
+		<div id="header-section">
+		
+			<!-- header section starts -->
+			<div>
+				<div id="header-logo-section">
+					<div id="header-logo-section-wrapper">
+						<div id="header-logo-section-maincolumn">
+							<div style="text-align:left; padding-top: 30px;">
+							<form action="/search.php" method="get" style="margin: 0px; padding: 0px;">
+							<div style="margin-left: 340px;">
+								<div style="float:left; padding-right: 10px;">
+								<input type="hidden" name="search" value="1"> 
+								<input type="text" name="query" maxlength="30" size="20" class="homepage_searchbox">
+								</div>
+								<div>
+								  <input name="submit" type="submit" class="button_form_big" value="Search">
+								</div>
+								<div class="clear-both"></div>
+							</div>
+							</form>
+							
+							</div>						
+						</div>
+					</div>
+					<div id="header-logo-section-leftcolumn"><a href="http://www.proshareng.com/index.php"><img src="/assets/user/images/logo_proshareng_homepage_001.gif" border="0"></a></div>
+				</div>
+				
+				<div class="clear-both"></div>
+				
+				<!-- InstanceBeginEditable name="main_menu_zone" -->
+				<!-- menu starts -->
+								<div class="menu_container">
+					<ul id="pmenu">
+						<li><a href="/index.php" class="current">HOME</a></li>
+						<li><a href="">ABOUT US<!--[if IE 7]><!--></a><!--<![endif]-->
+						<!--[if lte IE 6]><table><tr><td><![endif]-->
+							<ul>
+								<li><a href="/about_us/index.php">Overview</a></li>
+								<li><a href="/about_us/services.php">Services</a></li>
+								<li><a href="/about_us/solutions.php">Solutions</a></li>
+								<li><a href="/about_us/privacy.php">Privacy Policy</a></li>
+								<li><a href="/about_us/termsandconditions.php">Terms and Conditions</a></li>
+								<li><a href="/about_us/contactus.php">Contact Us</a></li>
+							</ul>
+						<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+						</li>
+						<li class="drop"><a href="">NEWS<!--[if IE 7]><!--></a><!--<![endif]-->
+						<!--[if lte IE 6]><table><tr><td><![endif]-->
+							<ul>
+														<li><a href="/myproshare/portal_news_category.php?id=21" style="text-decoration: none"><strong>Frauds &amp; Scandals</strong></a></li>
+														<li><a href="/myproshare/portal_news_category.php?id=19" style="text-decoration: none"><strong>People</strong></a></li>
+														<li><a href="/myproshare/portal_news_category.php?id=17" style="text-decoration: none"><strong>Products &amp; Services</strong></a></li>
+														<li><a href="/myproshare/portal_news_category.php?id=16" style="text-decoration: none"><strong>Results &amp; Dividends</strong></a></li>
+														<li><a href="/myproshare/portal_news_category.php?id=15" style="text-decoration: none"><strong>Public Offers/Private Placements</strong></a></li>
+														<li><a href="/myproshare/portal_news_category.php?id=14" style="text-decoration: none"><strong>Industry &amp; Real Sector</strong></a></li>
+														<li><a href="/myproshare/portal_news_category.php?id=13" style="text-decoration: none"><strong>Nigerian Economy</strong></a></li>
+														<li><a href="/myproshare/portal_news_category.php?id=12" style="text-decoration: none"><strong>Taxation</strong></a></li>
+														<li><a href="/myproshare/portal_news_category.php?id=11" style="text-decoration: none"><strong>World of Business</strong></a></li>
+														<li><a href="/myproshare/portal_news_category.php?id=10" style="text-decoration: none"><strong>Enterpreneurship</strong></a></li>
+														<li><a href="/myproshare/portal_news_category.php?id=8" style="text-decoration: none"><strong>Pensions</strong></a></li>
+														<li><a href="/myproshare/portal_news_category.php?id=7" style="text-decoration: none"><strong>Property</strong></a></li>
+														<li><a href="/myproshare/portal_news_category.php?id=6" style="text-decoration: none"><strong>Insurance</strong></a></li>
+														<li><a href="/myproshare/portal_news_category.php?id=5" style="text-decoration: none"><strong>Money Market</strong></a></li>
+														<li><a href="/myproshare/portal_news_category.php?id=4" style="text-decoration: none"><strong>Investors NewsBeat</strong></a></li>
+														<li><a href="/myproshare/portal_news_category.php?id=3" style="text-decoration: none"><strong>The Capital Market</strong></a></li>
+														<li><a href="/myproshare/portal_news_category.php?id=2" style="text-decoration: none"><strong>Daily Stock Market Updates</strong></a></li>
+														<li><a href="/myproshare/portal_news_category.php?id=1" style="text-decoration: none"><strong>General</strong></a></li>
+														
+							</ul>
+						<!--[if lte IE 6]></td></tr></table></a><![endif]-->	
+						</li>
+						<li class="drop"><a href="">ARTICLES<!--[if IE 7]><!--></a><!--<![endif]-->
+						<!--[if lte IE 6]><table><tr><td><![endif]-->
+							<ul>
+														<li><a href="/myproshare/portal_articles_category.php?id=22" style="text-decoration: none"><strong>Frauds &amp; Scandals</strong></a></li>
+														<li><a href="/myproshare/portal_articles_category.php?id=21" style="text-decoration: none"><strong>Market Reports &amp; Updates</strong></a></li>
+														<li><a href="/myproshare/portal_articles_category.php?id=19" style="text-decoration: none"><strong>Pensions</strong></a></li>
+														<li><a href="/myproshare/portal_articles_category.php?id=17" style="text-decoration: none"><strong>Personal Stories</strong></a></li>
+														<li><a href="/myproshare/portal_articles_category.php?id=16" style="text-decoration: none"><strong>Stocks &amp; Shares Tips</strong></a></li>
+														<li><a href="/myproshare/portal_articles_category.php?id=15" style="text-decoration: none"><strong>InvestmentClubs</strong></a></li>
+														<li><a href="/myproshare/portal_articles_category.php?id=12" style="text-decoration: none"><strong>Money Diary with AA</strong></a></li>
+														<li><a href="/myproshare/portal_articles_category.php?id=11" style="text-decoration: none"><strong>BlogNotes</strong></a></li>
+														<li><a href="/myproshare/portal_articles_category.php?id=10" style="text-decoration: none"><strong>Financial Planning</strong></a></li>
+														<li><a href="/myproshare/portal_articles_category.php?id=8" style="text-decoration: none"><strong>PropertyClub</strong></a></li>
+														<li><a href="/myproshare/portal_articles_category.php?id=7" style="text-decoration: none"><strong>Family Finances</strong></a></li>
+														<li><a href="/myproshare/portal_articles_category.php?id=6" style="text-decoration: none"><strong>Proshare Law</strong></a></li>
+														<li><a href="/myproshare/portal_articles_category.php?id=5" style="text-decoration: none"><strong>NSE &amp; Capital Market Ops</strong></a></li>
+														<li><a href="/myproshare/portal_articles_category.php?id=4" style="text-decoration: none"><strong>Opinion &amp; Analysis</strong></a></li>
+														<li><a href="/myproshare/portal_articles_category.php?id=3" style="text-decoration: none"><strong>Personalities</strong></a></li>
+														<li><a href="/myproshare/portal_articles_category.php?id=2" style="text-decoration: none"><strong>The Economy</strong></a></li>
+														<li><a href="/myproshare/portal_articles_category.php?id=1" style="text-decoration: none"><strong>MoneyIssues</strong></a></li>
+														
+							</ul>
+						<!--[if lte IE 6]></td></tr></table></a><![endif]-->	
+						</li>
+						<li><a href="/store/index.php">STORE</a></li>
+						<li class="drop"><a href="/reportcentral/index.php" class="long">REPORT CENTRAL<!--[if IE 7]><!--></a><!--<![endif]-->
+						<!--[if lte IE 6]><table><tr><td><![endif]-->
+							<ul>
+								<li><a href="/reportcentral/analyst_reports.php">Analyst Reports</a></li>
+								<li><a href="/reportcentral/fund_managers_reports.php">Fund Managers Reports</a></li>
+								<li><a href="/reportcentral/economic_reviews.php">Economic Reviews</a></li>
+								<li><a href="/reportcentral/annual_reports.php">Annual Reports</a></li>
+								<li><a href="/reportcentral/upcoming_agms.php">Upcoming AGMs</a></li>
+							</ul>
+						<!--[if lte IE 6]></td></tr></table></a><![endif]-->	
+					  	</li>
+						<li class="drop"><a href="/learntoearn/index.php" class="long">LEARN TO EARN<!--[if IE 7]><!--></a><!--<![endif]-->
+						<!--[if lte IE 6]><table><tr><td><![endif]-->
+							<ul>
+								<li><a href="/learntoearn/index.php">Overview</a></li>
+								<!--<li><a href="/learntoearn/trainingprogrammes.php">Training Programmes</a></li>-->
+								<li><a href="/learntoearn/events.php">Events</a></li>
+								<li><a href="/learntoearn/onlinetrainingslides.php">Online Training Slides</a></li>
+							</ul>
+						<!--[if lte IE 6]></td></tr></table></a><![endif]-->	
+					  	</li>
+						<li class="drop"><a href="/resources/index.php">RESOURCES<!--[if IE 7]><!--></a><!--<![endif]-->
+						<!--[if lte IE 6]><table><tr><td><![endif]-->
+							<ul>
+								<li><a href="/resources/complaints.php">Complaints</a></li>
+								<!--<li><a href="/resources/jargonbusters.php">Jargon Busters</a></li>-->
+								<li><a href="/resources/investmentclubmanual.php">Investment Club Manual</a></li>
+								<li><a href="/resources/investmentknowledgebank.php">Investment Knowledge Bank</a></li>
+								<li><a href="/resources/tradealert.php">Trade Alert</a></li>
+								<li><a href="/resources/pensions.php">Pensions</a></li>
+							</ul>
+						<!--[if lte IE 6]></td></tr></table></a><![endif]-->	
+					  	</li>
+						<li class="drop"><a href="/directory/index.php">DIRECTORY<!--[if IE 7]><!--></a><!--<![endif]-->
+						<!--[if lte IE 6]><table><tr><td><![endif]-->
+							<ul>
+														<li><a href="/directory/index.php?id=14&amp;name=Asset+Managers" style="text-decoration: none"><strong>Asset Managers</strong></a></li>
+														<li><a href="/directory/index.php?id=7&amp;name=Banks" style="text-decoration: none"><strong>Banks</strong></a></li>
+														<li><a href="/directory/index.php?id=1&amp;name=Fund+Managers" style="text-decoration: none"><strong>Fund Managers</strong></a></li>
+														<li><a href="/directory/index.php?id=12&amp;name=Government" style="text-decoration: none"><strong>Government</strong></a></li>
+														<li><a href="/directory/index.php?id=8&amp;name=Insurance+Firms" style="text-decoration: none"><strong>Insurance Firms</strong></a></li>
+														<li><a href="/directory/index.php?id=3&amp;name=Issuing+Houses" style="text-decoration: none"><strong>Issuing Houses</strong></a></li>
+														<li><a href="/directory/index.php?id=10&amp;name=Legal+Support" style="text-decoration: none"><strong>Legal Support</strong></a></li>
+														<li><a href="/directory/index.php?id=9&amp;name=News+%26+Media" style="text-decoration: none"><strong>News &amp; Media</strong></a></li>
+														<li><a href="/directory/index.php?id=16&amp;name=Non-profit" style="text-decoration: none"><strong>Non-profit</strong></a></li>
+														<li><a href="/directory/index.php?id=13&amp;name=Online" style="text-decoration: none"><strong>Online</strong></a></li>
+														<li><a href="/directory/index.php?id=15&amp;name=Payment+Services" style="text-decoration: none"><strong>Payment Services</strong></a></li>
+														<li><a href="/directory/index.php?id=17&amp;name=Professional+Services%2FConsulting" style="text-decoration: none"><strong>Professional Services/Consulting</strong></a></li>
+														<li><a href="/directory/index.php?id=4&amp;name=Quoted+Firms" style="text-decoration: none"><strong>Quoted Firms</strong></a></li>
+														<li><a href="/directory/index.php?id=2&amp;name=Registrars" style="text-decoration: none"><strong>Registrars</strong></a></li>
+														<li><a href="/directory/index.php?id=5&amp;name=Regulators" style="text-decoration: none"><strong>Regulators</strong></a></li>
+														<li><a href="/directory/index.php?id=6&amp;name=Research+Firms" style="text-decoration: none"><strong>Research Firms</strong></a></li>
+														<li><a href="/directory/index.php?id=11&amp;name=Training" style="text-decoration: none"><strong>Training</strong></a></li>
+														</ul>
+						<!--[if lte IE 6]></td></tr></table></a><![endif]-->	
+					  	</li>
+						
+					</ul>
+				</div>				<!-- menu ends -->
+				<!-- InstanceEndEditable -->
+				
+				<div class="clear-both"></div>
+				
+			</div>
+		
+		</div>
+		<!-- header section ends -->
+		
+		<!-- content section starts -->
+		<div id="content-section">
+		
+			<div id="content-section-utility">
+				
+				<!-- utility scripts -->
+				<!-- InstanceBeginEditable name="content_section_utility" -->
+				<!-- InstanceEndEditable -->
+				<!-- utility scripts -->
+				
+				<!-- notice box -->
+								<!-- notice box -->
+				
+				<!-- sign in box -->
+				<div id="content-section-utility-signinbox">
+				
+								
+					<form action="/myproshare/signin.php" method="post" style="margin:0px; padding:0px;">
+					<div>
+						<div class="h3" style="float:left; margin-right:10px;"><strong>Sign In:</strong>&nbsp;&nbsp;
+							<span class="body_text_11px"><strong>Email</strong></span>
+							<input type="text" name="email" maxlength="150" value="" class="homepage_loginbox" style="width: 150px; margin-right:10px;">
+							<span class="body_text_11px"><strong>Password</strong></span>
+							<input type="password" name="password" maxlength="16" value="" style="width: 120px;" class="homepage_loginbox">
+						</div>
+					  <div>
+							<input name="submit" type="submit" class="button_form_medium" value="Sign In">
+					    &nbsp;&nbsp;&nbsp;&nbsp;
+						| &nbsp;&nbsp;&nbsp;<span class="body_text_11px"><strong>New to Proshare?</strong></span> <span class="body_text_11px"><a href="/myproshare/portal_account_register.php"><strong>Register Here</strong></a></span>	</div>
+						<div class="clear-both"></div>
+					</div>
+					</form>
+					
+								</div>
+				<!-- sign in box -->
+								
+				<!-- content intro -->
+				<div class="line_divider_cement"></div>
+				
+				<div style="width: 945px;">
+					<!-- date and time marker -->
+					<div class="header_text_date" style="margin: 5px 30px 10px 0px; float:left;">Sunday, 16 December, 2007 </div>
+					<!-- date and time marker -->
+									
+					<!-- content scroller -->
+					<div style="padding-top: 3px;">
+						<div style="float:left; padding-top: 3px; padding-right: 10px;" class="h3">|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Highlights:</strong></div>
+						<div style="padding-top: 3px;">
+							<script type="text/javascript">	
+							//new pausescroller(name_of_message_array, CSS_ID, CSS_classname, pause_in_miliseconds)
+							new pausescroller(pausecontent2, "pscroller2", "someclass", 6000)
+							</script><div id="pscroller2" class="someclass" style="position: relative; overflow: hidden"><div class="innerDiv" style="position: absolute; width: 550px; top: 3px;" id="pscroller21"><div class="header_scroller"><a href="/myproshare/portal_news.php?id=3363">The Stock Market - 141207</a></div></div><div class="innerDiv" style="position: absolute; width: 550px; visibility: visible; top: 26px;" id="pscroller22"><div class="header_scroller"><a href="/myproshare/portal_news.php?id=3356">Dealers Perspective 131207</a></div></div></div>
+						</div>
+						<div class="clear-both"></div>
+					</div>
+					<!-- content scroller -->
+					<div class="clear-both"></div>
+					
+				</div>
+				
+				<div class="line_divider_cement"></div>
+				<!-- content intro -->
+				
+			</div>
+			
+			<div class="clear-both"></div>
+				
+			<div id="content-section-page-noadvert">
+				<div id="content-section-page-noadvert-wrapper">
+					<div id="content-section-page-noadvert-maincolumn">
+						<!-- InstanceBeginEditable name="content_section_main" -->
+						<div>&nbsp;</div>
+						<!-- InstanceEndEditable -->						
+					</div>
+				</div>
+				
+				<div id="content-section-page-noadvert-leftcolumn">
+					<!-- InstanceBeginEditable name="content_section_left" -->
+					<div>
+						<div class="h1" style="margin-bottom:20px;">Privacy</div>
+						<div>							
+							<div style="margin-bottom: 20px;">
+								<div class="h2-orange" style="margin-bottom: 10px;">What Information Do We Collect?</div>
+								<div class="body_text_12px">
+								When you register with our site, we will collect your name, country, company name, company type and job description, e-mail address and phone numbers. We also monitor customer traffic patterns and site use which enables us to improve the service we provide.
+								</div>								
+							</div>
+							
+							<div style="margin-bottom: 20px;">
+								<div class="h2-orange" style="margin-bottom: 10px;">What Do We Do With the Information?</div>
+								<div class="body_text_12px">
+								<p>
+								We will use the information provided by you to promote a more personal service. We are required by best practice to follow strict procedures to protect customer information. 
+								</p>
+								<p>
+As some of our computer systems are based outside the country, it may be necessary to pass on some of your personal data outside Nigeria for compliance purposes. By agreeing to the terms and conditions you accept that such transfers will take place. 
+								</p>
+								<p>
+We may use this information to tell you about changes to our site and let you know about our service and those products and services of other companies we work with. If you do not wish to receive this information you may email us at <a href="mailto:unsubscribe@proshareng.com">unsubscribe@proshareng.com</a> and we will remove your account. 
+								</p>
+								<p>
+We would not pass the information we collect about you to any partner or strategic company even when their products and services are thought could be of interest to you. We may however send their information to you if you ticked the send me product offers box. if you change your mind, you can simply send us an e-mail at <a href="mailto:club@proshareng.com">club@proshareng.com</a> specifying your request to be removed from the mailing list to receive product offers.
+								</p>
+								</div>								
+							</div>
+							
+							<div style="margin-bottom: 20px;">
+								<div class="h2-orange" style="margin-bottom: 10px;">What About Cookies?</div>
+								<div class="body_text_12px">
+								<p>
+								"Cookies" are small pieces of information that are stored on your computer's hard drive by your browser. These allow service providers store your details and provide features to make your use of the Service easier. Most browsers allow the cookie function to turn off. 
+								</p>
+								<p>
+We currently do not use cookies on our service but request that you kindly bookmark the page and save your password on your system for ease and convenience of retrieval and logging in to MyProshare. 
+								</p>
+								<p>
+Further, we advice that you set your browser to allow mails from Proshare; otherwise important mails and updates may drop into your bulk folder or be deleted completely. 
+								</p>
+								<p>
+For those using company addresses, we advice that you contact you IT department to obtain necessary permissions to receive this updates in compliance with best practice e-mail download/access requirements.
+								</p>
+								</div>								
+							</div>
+							
+						</div>
+					</div>
+					<!-- InstanceEndEditable -->
+				</div>
+				
+				<div class="clear-both"></div>
+				
+			</div>
+					
+		</div>
+		<!-- content section ends -->
+		
+		<!-- footer section starts -->
+		<div id="footer-section">
+			<div style="padding-top: 10px; background-color:#d12925;"></div>
+			<div style="padding-top: 6px; background-color:#e6982d;"></div>
+			<div id="footer-section-copyright">Copyright © 2004 - <script language="JavaScript" type="text/javascript" src="/assets/user/javascripts/date.js"></script>2020 ProShare Limited. All rights reserved</div>
+		</div>
+		<!-- footer section ends -->
+	</div>
+	
+
+
+<!-- InstanceEnd -->
+</body></html>
