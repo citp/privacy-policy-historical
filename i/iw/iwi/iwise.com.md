@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iwise.com privacy policy that was archived on 2007-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070628195521id_/http%3A//www.namesecure.com/en_US/index.jhtml%3Fcat%3Dnull%26subCat%3DpoliciesPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iwise.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216020231id_/http%3A//www.namesecure.com/en_US/index.jhtml%3Fcat%3Dnull%26subCat%3DpoliciesPrivacy) for the most accurate reproduction.*
 
 # Domain name privacy policy for NameSecure | NameSecure
 
