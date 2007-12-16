@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the britainexpress.com privacy policy that was archived on 2007-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070409100947id_/http%3A//www.britainexpress.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the britainexpress.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216020157id_/http%3A//www.britainexpress.com/Privacy.htm) for the most accurate reproduction.*
 
 # Britain Express Privacy Policy
 
@@ -57,7 +57,7 @@ GL54 2ND
 |    | 
 
   
-Untitled Document   
+  
 
 
 | 
@@ -68,26 +68,10 @@ Untitled Document
 [](https://web.archive.org/Ordnance-Survey-maps.htm)[**Every OS map**](https://web.archive.org/Ordnance-Survey-maps.htm) including  
 Landranger, Explorer, and new Right to Roam. Free UK post and **Up to 36% Discount on OS Maps!**  
   
-  
-
-
  Car Rental  
   
 ---  
-[**Hertz UK**](http://www.hertz.co.uk/part/site/splash_pages/britainexpress.html) voted the most trused brand in UK car rental  
-  
-  
-
-
-London Pass  
-  
----  
-  
-[](https://web.archive.org/articles/Notebook/London-Pass.htm) [**Free entry to top London attractions**](https://web.archive.org/articles/Notebook/London-Pass.htm)
-
-**Including** **** Tower of London, St. Paul's Cathedral, London Aquarium, Windsor Castle, London Zoo, Saatchi Gallery, London Dungeons, London theatre, open-top buses... **and a lot more!**
-
-All with one pass. [The London Pass](https://web.archive.org/articles/Notebook/London-Pass.htm)  
+[**The Car Rental Centre**](https://web.archive.org/Travel/cars/car-rental-uk.htm) Wholesale rates, instant quotes, from all the major car rental companies  
   
   
 
