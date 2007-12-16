@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the redwoodcu.org privacy policy that was archived on 2006-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061107213550id_/http%3A//www.redwoodcu.org/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redwoodcu.org privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216165436id_/http%3A//www.redwoodcu.org/site/privacy.html) for the most accurate reproduction.*
 
 # Redwood Credit Union | Privacy
 
 ## Redwood Credit Union & RCU Services Group Privacy Disclosure 
 
-**Redwood Credit Union** (RCU)  and RCU Services Group (RCUSG) understand the importance of protecting the privacy of our Members and former Members. We are committed to maintaining the confidentiality of each Member’s and customer’s information, consistent with state and federal law. This document is provided to outline RCU and RCUSG’s privacy disclosure and your rights as a Member and customer.  RCU Services Group (doing business as RCU Auto Services and RCU Insurance Services) is a wholly owned affiliate of RCU and currently operates an auto dealership and provides various insurance products and services.
+**Redwood Credit Union** (RCU)  and RCU Services Group (RCUSG) understand the importance of protecting the privacy of our Members, former Members and customers. We are committed to maintaining the confidentiality of each Member’s and customer’s information, consistent with state and federal law. This document is provided to outline RCU and RCUSG’s privacy disclosure and your rights as a Member and customer.  RCU Services Group (doing business as _RCU Auto Services_ and _RCU Insurance Services_ ) is a wholly owned affiliate of RCU and currently operates an auto dealership and provides various insurance products and services.
 
 ### Part I: What This Disclosure Covers
 
@@ -81,14 +81,14 @@ If you prefer not to receive pre-approved credit solicitations, you can write to
 
 ### How to Reduce "Junk" Mail
 
-The Direct Marketing Association (DMA) sponsors Mail Preference Service (MPS), to help consumers limit the national advertising mail they receive. If you would like to reduce the amount of advertising you receive from companies, you may write a postcard or letter, including your name, home address and signature to: 
+For a $1 fee, the Direct Marketing Association (DMA) sponsors Mail Preference Service (MPS), to help consumers limit the national advertising mail they receive. If you would like to reduce the amount of advertising you receive from companies, you may register via the DMA consumer website at www.dmaconsumers.org, or send a letter, including your name, home address and signature, plus a $1 check or money order (payable to DMA), to:
 
 Mail Preference Service   
 Direct Marketing Association   
 PO Box 643   
 Carmel, NY 10512-0643 
 
-If you write to this agency, your name will be removed for five years from lists used by direct mail companies that subscribe to MPS. Removing your name will not end all solicitations from businesses that do not subscribe to the service. To eliminate mail from those businesses, as well as mail addressed to "occupant" or "resident," write directly to each source. For more information, visit the DMA Consumer website at www.dmaconsumers.org.
+By registering for this service, your name will be removed for five years from lists used by direct mail companies that subscribe to MPS. Removing your name will not end all solicitations from businesses that do not subscribe to the service. To eliminate mail from those businesses, as well as mail addressed to "occupant" or "resident," write directly to each source. For more information, visit the DMA Consumer website at www.dmaconsumers.org.
 
 ### Working Together to Protect Your Identity 
 
@@ -100,21 +100,23 @@ Your Credit Union and its affiliates are committed to ensuring the protection of
 Atlanta, GA 30374   
 www.equifax.com   
 To obtain your credit report: (800) 685-1111   
-To report fraudulent activity: (800) 525-6285 **
+To report fraudulent activity: (888) 766-0008 **
   * #### Experian 
 
-**901 W. Bond Street  
-Lincoln, NE 68521   
+**PO Box 2002  
+Allen, TX 75013   
 www.experian.com   
 To obtain your credit report, or report fraudulent activity: (888) 397-3742 **
   * #### TransUnion 
 
-**PO Box 97328  
-Jackson, MI 39288-7328   
+**PO Box 6790  
+Fulleron, CA 92834   
 www.transunion.com   
 To obtain your credit report, or report fraudulent activity: (800) 680-7289 **
 
 
+
+Under the Fair and Accurate Credit Transactions Act (FACT Act), consumers can request and obtain one free credit report once every 12 months from each of the above credit reporting companies. To request your free report, visit [www.annualcreditreport.com](https://web.archive.org/web/20071216165436id_/http%3A//www.redwoodcu.org/site/www.annualcreditreport.com), or call toll-free **(877) 322-8228**.
 
 ### For Additional Information
 
