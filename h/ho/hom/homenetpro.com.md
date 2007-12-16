@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homenetpro.com privacy policy that was archived on 2007-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070107174926id_/http%3A//www.homenetpro.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homenetpro.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216211820id_/http%3A//www.homenetpro.com/privacy.html) for the most accurate reproduction.*
 
 # HomeNetPro.coms Privacy Policy Statement
 
@@ -38,7 +38,7 @@ _**Contacting Us**_
 
 We can be reached by contacting :
 
-Email: [support@homenetpro.com](mailto:support@homenetpro.com)
+Email: support@homenetpro.com
 
 Mail: Chris Simpson 703 Hickory Carlsbad, NM 88220.
 
@@ -61,6 +61,8 @@ HomeNetPro.Com is controlled, operated and administered entirely within HomeNetP
      Our postal address is:  703 Hickory
 
                                        Carlsbad, NM 88220
+
+     We can be reached via e-mail at: Support@HomeNetPro.com 
 
 For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address except for the IP address of the originating visitor..
 
@@ -120,6 +122,6 @@ We secure your personal information submitted by you by using reasonable efforts
 
 **How Can You Choose Not to Receive Information About Products or Services By Us or to Correct, Delete or Access Your Information**
 
-If you desire not to receive information about products or services we think may be of interest to you or if you wish to access, delete or correct you information, please send us an email to [support@homenetpro.com](mailto:Support@HomeNetPro.com)
+If you desire not to receive information about products or services we think may be of interest to you or if you wish to access, delete or correct you information, please send us an email to support@homenetpro.com 
 
 We reserve the right to revise this policy at our discretion. Please check back on this site as this policy may be revised from time to time without notice to you.
