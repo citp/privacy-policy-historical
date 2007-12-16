@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kangun.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617144711id_/http%3A//www.kangun.com/members_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kangun.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216164205id_/http%3A//www.kangun.com/members_privacy.php) for the most accurate reproduction.*
 
-# Kangun - Chat | Forum | Blog | Pictures | Music | Videos | Live TV & Radio | Games | Classified
+# Kangun Social networking - Share photos, Music & Videos
 
 The owners of this Service have created this Privacy Statement (Policy) in   
 order to demonstrate our firm commitment to helping our users better understand   
