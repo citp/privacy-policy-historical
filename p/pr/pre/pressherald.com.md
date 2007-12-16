@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pressherald.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618083104id_/http%3A//pressherald.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pressherald.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216071651id_/http%3A//www.mainetoday.com/membercenter/privacy.html) for the most accurate reproduction.*
 
-# Wheels in MaineToday.com | Privacy Policy
+# MaineToday.com Privacy Policy
 
-**Privacy Policy**
+Privacy Policy
 
 The following statement explains how the Web sites operated by Blethen Maine Newspapers collect and use your personal information. These Web sites include: pressherald.com, kjonline.com, onlinesentinel.com, mainejobs.com, mainetoday.com
 
@@ -68,3 +68,23 @@ If you have any questions about this privacy statement, the practices of our Web
 >  390 Congress St.  
 >  Portland, ME 04101  
 > 
+
+|  |  Tools The following tools are available to everyone, regardless of registration status:
+
+  * Manage your subscriptions: 
+    * [Portland Press Herald / Maine Sunday Telegram](https://secure.mainetoday.com/subscribe/pph)
+    * [Kennebec Journal](https://secure.mainetoday.com/subscribe/cmn)
+    * [Morning Sentinel](https://secure.mainetoday.com/subscribe/cmn)
+  * [Search the archives]()
+  * [See what's available on the web (and what's not)]()
+  * [Place a classified ad in the newspaper]()
+  * [Send a letter to the editor]()
+  * [Submit a news release]()
+  * [Submit a wedding or engagement announcement]()
+  * [Online privacy policy]()
+  * [Copyright]()
+  * [Frequently Asked Questions](https://web.archive.org/membercenter/faq.html)
+  * [Anti-spam pledge]()
+  * [Contact us]()
+
+
