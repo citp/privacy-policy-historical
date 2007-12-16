@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bath.ac.uk privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630075104id_/http%3A//www.bath.ac.uk/web/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bath.ac.uk privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216153348id_/http%3A//www.bath.ac.uk/web/privacy.html) for the most accurate reproduction.*
 
 # University of Bath Privacy statement
 
@@ -11,7 +11,7 @@ This is a privacy statement disclosing our information gathering, use and dissem
 >  Marketing & Communications  
 >  University of Bath  
 >  Bath BA2 7AY  
->  E-mail: [web-ed@bath.ac.uk](mailto:web-ed@bath.ac.uk?subject=web%20privacy%20statement). 
+>  E-mail: [web-support@bath.ac.uk](mailto:web-support@bath.ac.uk?subject=web%20privacy%20statement). 
 
 #### Data Collection 
 
@@ -80,4 +80,4 @@ The data is collected so that we can send you news and other information which i
 
 If you have any concerns regarding the data held about you by the University of Bath, please contact us at the address given above.
 
-[Copyright](https://web.archive.org/web/20070630075104id_/http%3A//www.bath.ac.uk/web/copyright/) \- [Disclaimer](https://web.archive.org/web/20070630075104id_/http%3A//www.bath.ac.uk/web/disclaimer/) \- [Data Protection](https://web.archive.org/web/20070630075104id_/http%3A//www.bath.ac.uk/web/data-protection.html)
+[Copyright](https://web.archive.org/web/20071216153348id_/http%3A//www.bath.ac.uk/web/copyright/) \- [Disclaimer](https://web.archive.org/web/20071216153348id_/http%3A//www.bath.ac.uk/web/disclaimer/) \- [Data Protection](https://web.archive.org/web/20071216153348id_/http%3A//www.bath.ac.uk/web/data-protection.html)
