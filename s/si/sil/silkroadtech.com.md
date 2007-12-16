@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the silkroadtech.com privacy policy that was archived on 2007-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070206222429id_/http%3A//www.silkroadtech.com/company/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silkroadtech.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216140337id_/http%3A//www.silkroadtech.com/company/privacy.htm) for the most accurate reproduction.*
 
 # 
 
-[](http://www2.humancapitalinstitute.net/hci/events_innovation_tour.guid?_trainingID=1009&_affiliateID=HOBAK3) | 
+| 
 
 SilkRoad technology, inc. considers your privacy important. This policy explains our policies and practices regarding how we use and disclose personal information that you provide to us. By using our Web site, you consent to the collection and use of your personal information by us.
 
@@ -51,7 +51,7 @@ In reviewing the information above, please keep in mind that SilkRoad cannot and
 
 ##### Featured Case Study
 
-We’re looking forward to the implementation of OpenHire so that we can bolster our efforts to strengthen our recruitment systems and staff development, allowing us to carry out the Save the Children mission in the most efficient and effective manner possible.
+Our entire candidate selection process is 5 times as efficient with OpenHire than our previous system. The ability to manage incoming applicants within a searchable database is phenomenal. I have heard nothing but praise from our hiring managers.
 
-~ Melanie Meyers, Director of Recruiting and Staffing for Save the Children  
+~ Tom Bagarella Employment and Training Manager  
 [[see more customers]](https://web.archive.org/customers/index.htm)
