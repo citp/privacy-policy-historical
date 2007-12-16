@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sxsw.com privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618004439id_/http%3A//2007.sxsw.com/about/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sxsw.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216075106id_/http%3A//sxsw.com/privacy_policy) for the most accurate reproduction.*
 
 # south by southwest festivals + conferences
 
@@ -12,7 +12,7 @@ SXSW, Inc. has created this privacy statement in order to demonstrate our commit
 
 
 
-Our site forms require users to give us contact information (like their name and email address), unique identifiers (like their user name and password), and/or financial information (like their credit card numbers). We use customer contact information from the registration form to send the user information about our company. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the [opt-out](http://2007.sxsw.com/about/privacy_policy/#optout) section below. Financial information that is collected is used to bill the user for products and services. Unique identifiers (like user name and password) are collected to verify the user's identity.  
+Our site forms require users to give us contact information (like their name and email address), unique identifiers (like their user name and password), and/or financial information (like their credit card numbers). We use customer contact information from the registration form to send the user information about our company. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the [opt-out](http://2008.sxsw.com/about/privacy_policy/#optout) section below. Financial information that is collected is used to bill the user for products and services. Unique identifiers (like user name and password) are collected to verify the user's identity.  
 
 
 SXSW Inc may use your contact information to communicate with you about SXSW events. We will not share your personal information, including your email address, with outside parties for commercial purposes not related to SXSW. (With the exception of our printed conference program books, where we do publish selected contact information for our conference registrants. See the [Opt Out](http://2007.sxsw.com/about/privacy_policy/#optout) section below)
