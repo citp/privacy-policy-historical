@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articleson.com privacy policy that was archived on 2007-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070407000052id_/http%3A//articleson.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articleson.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216041858id_/http%3A//articleson.com/privacy.php) for the most accurate reproduction.*
 
 # ArticlesOn.com, Free Content, Free Articles, Free Article Database & Free Article Submission.
 
