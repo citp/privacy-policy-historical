@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hrsmart.com privacy policy that was archived on 2007-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070616095413id_/http%3A//www.hrsmart.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hrsmart.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216032217id_/http%3A//www.hrsmart.com/privacy.htm) for the most accurate reproduction.*
 
 # HRsmart :: Employee Perfomance Management Systems
 
