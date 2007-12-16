@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gamervision.com privacy policy that was archived on 2007-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070322054057id_/http%3A//gamervision.com/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamervision.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216044457id_/http%3A//www.gamervision.com/privacy_statement) for the most accurate reproduction.*
 
-# Gamervision - By Gamers, For Gamers
+# Gamervision - By Gamers, For Gamers - Privacy Policy
 
 This Privacy Statement sets forth the information gathering, use, and dissemination practices of GamerVision, LLC, its affiliate and subsidiary companies ("Gamervision") in connection with its Web site located at www.GamerVision.com (the "Site"). This Privacy Statement addresses Gamervision's practices regarding information collected only directly through or from the Site - it does not address or govern any information gathering, use, or dissemination practices related to information collected from the visitor (sometimes referred to as "you" or "your") other than directly through or from the Site, including, without limitation, from or via telephone, facsimile, postal mail, personal delivery, or other or additional offline means or media. This Privacy Statement is incorporated into [Gamervision's Statement of Use](http://www.gamervision.com/statement_of_use) by reference, as if set forth fully therein, which must be reviewed and accepted by you. 
 
