@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bidclerk.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630004509id_/http%3A//www.bidclerk.com/content/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bidclerk.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216185212id_/http%3A//www.bidclerk.com/content/privacy.jsp) for the most accurate reproduction.*
 
-# Construction Leads for 1000's of U.S. Projects - Updated Daily
+# BidClerk - Privacy Policy
 
 Privacy Policy
 
