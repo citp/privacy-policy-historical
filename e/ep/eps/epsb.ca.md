@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the epsb.ca privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607180223id_/http%3A//www.epsb.ca/privacy/index.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epsb.ca privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216130651id_/http%3A//www.epsb.ca/privacy/index.shtml) for the most accurate reproduction.*
 
 # District-wide Privacy Statement
 
   
-
-
 :: District-wide Privacy Statement
 
 Edmonton Public Schools maintains websites to help you find information about the district, its programs, and services. The Communications Department, which publishes and maintains the districts' websites, is committed to ensuring your privacy while you visit us online.
@@ -50,8 +48,4 @@ For more information about the statement described above, please contact:
 ---|---  
 District Web Coordinator | FOIP Head  
 Edmonton Public Schools | Edmonton Public Schools  
-(780) 429-8461 | (780) 429-8020  
-  
-
-
-* * *
+(780) 429-8461 | (780) 429-8020
