@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the writeboard.com privacy policy that was archived on 2006-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061111041837id_/http%3A//writeboard.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the writeboard.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216112400id_/http%3A//www.writeboard.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
@@ -29,8 +29,8 @@ COOKIES
 
 
 
-CLIENT DATA STORAGE  
-Although 37signals owns the data storage, databases and all rights to the Writeboard application, you retain all rights to your data. 
+DATA STORAGE  
+37signals uses third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run Writeboard. Although 37signals owns the code, databases, and all rights to the Basecamp application, you retain all rights to your data. 
 
 DISCLOSURE  
 
