@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the southernsun.com privacy policy that was archived on 2007-06-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070621171638id_/http%3A//www.southernsun.com/SSH/VID/823b73de45238010VgnVCM100000f08111acRCRD) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the southernsun.com privacy policy that was archived on 2007-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071216124200id_/http%3A//www.southernsun.com/SSH/VID/823b73de45238010VgnVCM100000f08111acRCRD) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <title> 
@@ -49,6 +49,26 @@
 
 
 <script>
+function submitenter(myfield,e)
+{
+var keycode;
+if (window.event) keycode = window.event.keyCode;
+else if (e) keycode = e.which;
+else return true;
+
+if (keycode == 13)
+   {
+   SearchSubmit();
+   return false;
+   }
+else
+   return true;
+}
+
+
+	
+</script>
+<script>
 	function SearchSubmit()
 	{
 		document.KeyWordSearch.action ="/SSH/jsp/appFeaturesProcessiong.do" ;
@@ -62,7 +82,7 @@
 	<table cellspacing="2" cellpadding="0" border="0">
 	<tbody><tr>
 		<td width="320" align="right">Keyword Search&nbsp;&nbsp;
-			<input name="keyword" type="text" size="15">
+			<input name="keyword" type="text" size="15" onkeypress="return submitenter(this,event)">
 		</td>
 		<td align="right">
 			<img src="/SSH/images/button_search.gif" onclick="SearchSubmit()" width="51" height="17">
@@ -102,7 +122,7 @@
 				Hotel QuickFind&nbsp;&nbsp;
 				<select name="HotelQuickFind" id="select" onchange="goQuickFind();">
 					<option value="0">..Please select a Hotel..</option>
-					<option value="87">Al Manzil Hotel</option><option value="55">Beacon Island</option><option value="76">Beverly Hills Hotel</option><option value="56">Cabana Beach</option><option value="57">Drakensberg Sun</option><option value="65">Emnotweni Sun Hotel</option><option value="24">Garden Court de Waal</option><option value="36">Garden Court East London</option><option value="21">Garden Court Eastern Boulevard</option><option value="23">Garden Court Eastgate</option><option value="41">Garden Court Hatfield</option><option value="29">Garden Court Kimberley</option><option value="28">Garden Court King's Beach</option><option value="26">Garden Court Marine Parade</option><option value="31">Garden Court Milpark</option><option value="30">Garden Court Morningside</option><option value="39">Garden Court Mthatha</option><option value="37">Garden Court O.R. Tambo International Airport</option><option value="35">Garden Court Polokwane</option><option value="33">Garden Court Sandton</option><option value="34">Garden Court Sandton City</option><option value="25">Garden Court South Beach</option><option value="38">Garden Court Ulundi</option><option value="67">Hemingways Hotel</option><option value="50">Holiday Inn Dar Es Salaam</option><option value="62">Holiday Inn Joburg Sandton - Katherine Street</option><option value="64">Holiday Inn Lusaka</option><option value="66">Holiday Inn Maputo</option><option value="69">Holiday Inn Nairobi</option><option value="71">Holiday Inn Pretoria</option><option value="80">InterContinental Airport Sun - Joburg</option><option value="74">InterContinental Palazzo - Joburg Montecasino</option><option value="75">InterContinental Sandton Sun &amp; Towers - Joburg</option><option value="73">Malelane Sun</option><option value="77">Paradise Sun</option><option value="88">Qamardeen Hotel</option><option value="61">Ridge Hotel</option><option value="78">Riverside Hotel and Conference Centre</option><option value="58">Sabi River Sun</option><option value="40">Southern Sun Bloemfontein</option><option value="70">Southern Sun Cape Sun</option><option value="49">Southern Sun Elangeni</option><option value="42">Southern Sun Grayston</option><option value="44">Southern Sun Newlands</option><option value="48">Southern Sun North Beach</option><option value="14">Southern Sun O.R. Tambo Intl. Airport</option><option value="43">Southern Sun The Cullinan</option><option value="68">Southern Sun Waterfront Cape Town</option><option value="51">StayEasy Century City</option><option value="52">StayEasy Eastgate</option><option value="53">StayEasy Emnotweni</option><option value="54">StayEasy Pretoria</option><option value="91">SunCoast Hotel &amp; Towers</option><option value="84">SunSquare Montecasino</option><option value="60">Umhlanga Sands</option>
+					<option value="87">Al Manzil Hotel</option><option value="55">Beacon Island</option><option value="76">Beverly Hills Hotel</option><option value="56">Cabana Beach</option><option value="57">Drakensberg Sun</option><option value="65">Emnotweni Sun Hotel</option><option value="24">Garden Court de Waal</option><option value="36">Garden Court East London</option><option value="21">Garden Court Eastern Boulevard</option><option value="23">Garden Court Eastgate</option><option value="41">Garden Court Hatfield</option><option value="29">Garden Court Kimberley</option><option value="28">Garden Court King's Beach</option><option value="26">Garden Court Marine Parade</option><option value="31">Garden Court Milpark</option><option value="30">Garden Court Morningside</option><option value="39">Garden Court Mthatha</option><option value="37">Garden Court O.R. Tambo International Airport</option><option value="35">Garden Court Polokwane</option><option value="33">Garden Court Sandton</option><option value="34">Garden Court Sandton City</option><option value="25">Garden Court South Beach</option><option value="38">Garden Court Ulundi</option><option value="67">Hemingways Hotel</option><option value="50">Holiday Inn Dar Es Salaam</option><option value="64">Holiday Inn Lusaka</option><option value="66">Holiday Inn Maputo</option><option value="69">Holiday Inn Nairobi</option><option value="80">InterContinental Airport Sun - Joburg</option><option value="99">InterContinental Johannesburg Sandton Towers</option><option value="73">Malelane Sun</option><option value="77">Paradise Sun</option><option value="88">Qamardeen Hotel</option><option value="61">Ridge Hotel</option><option value="78">Riverside Hotel and Conference Centre</option><option value="58">Sabi River Sun</option><option value="75">Sandton Sun</option><option value="40">Southern Sun Bloemfontein</option><option value="70">Southern Sun Cape Sun</option><option value="49">Southern Sun Elangeni</option><option value="42">Southern Sun Grayston</option><option value="62">Southern Sun Katherine Street Sandton</option><option value="44">Southern Sun Newlands</option><option value="48">Southern Sun North Beach</option><option value="14">Southern Sun O.R. Tambo Intl. Airport</option><option value="71">Southern Sun Pretoria</option><option value="43">Southern Sun The Cullinan</option><option value="68">Southern Sun Waterfront Cape Town</option><option value="51">StayEasy Century City</option><option value="52">StayEasy Eastgate</option><option value="53">StayEasy Emnotweni</option><option value="54">StayEasy Pretoria</option><option value="91">SunCoast Hotel &amp; Towers</option><option value="84">SunSquare Montecasino</option><option value="74">The Palazzo Montecasino</option><option value="60">Umhlanga Sands</option>
 				</select>
 			</td>
 		</tr>
@@ -123,7 +143,7 @@
 <link rel="shortcut icon" href="http://www.southernsun.com/SSH" type="image/x-icon"> 
 
 
-<link href="/SSH/css/styles.css" rel="stylesheet" type="text/css"><table width="740" border="0" cellpadding="0" cellspacing="0" bgcolor="#FBD046"><tbody><tr align="center"><td width="4" class="menuLine">&nbsp;</td><td align="center" height="20" class="menu"><a href="/SSH/VID/121a73de45238010VgnVCM100000f08111acRCRD" class="menu">Our Hotels</a></td><td width="4" class="menuLine">|</td><td align="center" height="20" class="menu"><a href="/SSH/VID/c91a73de45238010VgnVCM100000f08111acRCRD" class="menu">Reservations</a></td><td width="4" class="menuLine">|</td><td align="center" height="20" class="menu"><a href="/SSH/VID/009a1df1214c8010VgnVCM100000f08111acRCRD" class="menu">Special Offers</a></td><td width="4" class="menuLine">|</td><td align="center" height="20" class="menu"><a href="/SSH/VID/1a2a73de45238010VgnVCM100000f08111acRCRD" class="menu">Frequent Guest</a></td><td width="4" class="menuLine">|</td><td align="center" height="20" class="menu"><a href="/SSH/VID/4638a72dd43c8010VgnVCM100000f08111acRCRD" class="menu">SunBreaks</a></td><td width="4" class="menuLine">|</td><td align="center" height="20" class="menu"><a href="/SSH/VID/ab3a73de45238010VgnVCM100000f08111acRCRD" class="menu">Conferences and Events</a></td><td width="4" class="menuLine">|</td><td align="center" height="20" class="menu"><a href="/SSH/VID/e44a73de45238010VgnVCM100000f08111acRCRD" class="menu">Food and Beverage</a></td><td width="4" class="menuLine">|</td><td align="center" height="20" class="menu"><a href="/SSH/VID/7e4a73de45238010VgnVCM100000f08111acRCRD" class="menu">Traveller Tools</a></td><td width="4" class="menuLine">|</td><td align="center" height="20" class="menu"><a href="/SSH/VID/ea9978ae92838010VgnVCM100000f08111acRCRD" class="menu">About Us</a></td><td width="4" class="menuLine">|</td><td align="center" height="20" class="menu"><a href="/SSH/VID/826a73de45238010VgnVCM100000f08111acRCRD" class="menu">Customer Services</a></td></tr></tbody></table>
+<link href="/SSH/css/styles.css" rel="stylesheet" type="text/css"><table width="740" border="0" cellpadding="0" cellspacing="0" bgcolor="#FBD046"><tbody><tr align="center"><td width="4" class="menuLine">&nbsp;</td><td align="center" height="20" class="menu"><a href="/SSH/VID/121a73de45238010VgnVCM100000f08111acRCRD" class="menu">Our Hotels</a></td><td width="4" class="menuLine">|</td><td align="center" height="20" class="menu"><a href="/SSH/VID/c91a73de45238010VgnVCM100000f08111acRCRD" class="menu">Reservations</a></td><td width="4" class="menuLine">|</td><td align="center" height="20" class="menu"><a href="/SSH/VID/009a1df1214c8010VgnVCM100000f08111acRCRD" class="menu">Special Offers</a></td><td width="4" class="menuLine">|</td><td align="center" height="20" class="menu"><a href="/SSH/VID/1a2a73de45238010VgnVCM100000f08111acRCRD" class="menu">Frequent Guest</a></td><td width="4" class="menuLine">|</td><td align="center" height="20" class="menu"><a href="/SSH/VID/4638a72dd43c8010VgnVCM100000f08111acRCRD" class="menu">SunBreaks</a></td><td width="4" class="menuLine">|</td><td align="center" height="20" class="menu"><a href="/SSH/VID/ab3a73de45238010VgnVCM100000f08111acRCRD" class="menu">Conferences</a></td><td width="4" class="menuLine">|</td><td align="center" height="20" class="menu"><a href="/SSH/VID/e44a73de45238010VgnVCM100000f08111acRCRD" class="menu">Food and Beverage</a></td><td width="4" class="menuLine">|</td><td align="center" height="20" class="menu"><a href="/SSH/VID/7e4a73de45238010VgnVCM100000f08111acRCRD" class="menu">Traveller Tools</a></td><td width="4" class="menuLine">|</td><td align="center" height="20" class="menu"><a href="/SSH/VID/ea9978ae92838010VgnVCM100000f08111acRCRD" class="menu">About Us</a></td><td width="4" class="menuLine">|</td><td align="center" height="20" class="menu"><a href="/SSH/VID/826a73de45238010VgnVCM100000f08111acRCRD" class="menu">Customer Services</a></td></tr></tbody></table>
 <img src="/SSH/images/orange.gif" width="740" height="1"><br>
 
 
@@ -305,7 +325,7 @@
 		<td>&gt;&gt;</td>	
 	</tr>
 	</tbody></table>							
-<!-- <link href='../Images/styles.css' rel='stylesheet' type='text/css'><table cellpadding='5' cellspacing='0' id='Table14' border='0'><tr><td>&gt;&gt;</td><td><a href='/SSH/VID/e7f21dcddd2a7010VgnVCM100000f08111acRCRD' class='footer' />Home</a></td><td >|</td><td><a href='/SSH/v/index.jsp?vgnextoid=961b73de45238010VgnVCM100000f08111acRCRD' class='footer' />Travel Trade and Corporate</a></td><td >|</td><td><a href='/SSH/v/index.jsp?vgnextoid=9f1b73de45238010VgnVCM100000f08111acRCRD' class='footer' />Contact Us</a></td><td >|</td><td><a href='/SSH/v/index.jsp?vgnextoid=e82b73de45238010VgnVCM100000f08111acRCRD' class='footer' />Terms And Conditions</a></td><td >|</td><td><a href='/SSH/v/index.jsp?vgnextoid=823b73de45238010VgnVCM100000f08111acRCRD' class='footer' />Privacy Policy</a></td><td >|</td><td><a href='#' onCLick='window.open("https://seal.verisign.com/splash?form_file=fdf/splash.fdf&dn=www.southernsun.com&lan=en","displayWindow","width=515,height=450,200,200")' class='footer' />About Security</a>&nbsp;|</td><td><a href='/SSH/v/index.jsp?vgnextoid=152d96f9673b8010VgnVCM100000f08111acRCRD' class='footer' />Site Map</a></td><td>&nbsp;</td><td>&gt;&gt;</td></tr></table> -->
+<!-- <link href='/SSH/images/styles.css' rel='stylesheet' type='text/css'><table cellpadding='5' cellspacing='0' id='Table14' border='0'><tr><td>&gt;&gt;</td><td><a href='/SSH/VID/e7f21dcddd2a7010VgnVCM100000f08111acRCRD' class='footer' />Home</a></td><td >|</td><td><a href='/SSH/VID/961b73de45238010VgnVCM100000f08111acRCRD' class='footer' />Travel Trade and Corporate</a></td><td >|</td><td><a href='/SSH/VID/9f1b73de45238010VgnVCM100000f08111acRCRD' class='footer' />Contact Us</a></td><td >|</td><td><a href='/SSH/VID/e82b73de45238010VgnVCM100000f08111acRCRD' class='footer' />Terms And Conditions</a></td><td >|</td><td><a href='/SSH/VID/823b73de45238010VgnVCM100000f08111acRCRD' class='footer' />Privacy Policy</a></td><td >|</td><td><a href='#' onCLick='window.open("https://seal.verisign.com/splash?form_file=fdf/splash.fdf&dn=www.southernsun.com&lan=en","displayWindow","width=515,height=450,200,200")' class='footer' />About Security</a>&nbsp;|</td><td><a href='/SSH/VID/152d96f9673b8010VgnVCM100000f08111acRCRD' class='footer' />Site Map</a></td><td>&nbsp;</td><td>&gt;&gt;</td></tr></table> -->
 <!-- <SCRIPT language="JavaScript" src="./js/tagscript.js"> -->
 
 <!-- START OF SmartSource Data Collector TAG -->
