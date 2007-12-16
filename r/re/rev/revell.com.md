@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the revell.com privacy policy that was archived on 2007-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070503005403id_/http%3A//www.revell.com/Privacy-Policy.privacy_policy.0.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revell.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216021539id_/http%3A//www.revell.com/Privacy-Policy.privacy_policy.0.html) for the most accurate reproduction.*
 
 # Revell:Privacy Policy
 
