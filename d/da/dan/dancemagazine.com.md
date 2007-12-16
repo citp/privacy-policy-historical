@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the dancemagazine.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624032520id_/http%3A//www.dancemagazine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dancemagazine.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216022812id_/http%3A//www.dancemagazine.com/privacy) for the most accurate reproduction.*
 
 # Dance Magazine
-
-[](http://www.stagestep.com/)
-
-[](https://www.kable.com/pub/danc/multigifts.asp?src=R701WX)
 
 At _Dance Magazine,_ we respect your right to privacy and we understand that users of the __Dance Magazine__ Web site need to be in control of their personal information. "Personal information" includes, but is not limited to, name, address, telephone number, email address and credit card information _Dance Magazine_ does not sell, rent, swap or otherwise disclose any of this information. _  
 Dance Magazine_ adopted this Privacy Policy to inform users of the _Dance Magazine_ Internet site how the site does collect, store and use personal information submitted via the site. 
@@ -28,3 +24,5 @@ Our site includes links to other Web sites whose privacy policies we don't contr
 We do not solicit personal information from children. Sites specifically geared toward children will not request any personal or contact information. 
 
   _Dance Magazine_ would like to receive your comments and any questions about this policy. Please address comments or questions regarding _Dance Magazine's_ privacy practices to us at one of the addresses listed on our [Contacts](https://web.archive.org/contact) page. _Dance Magazine_ may occasionally update this policy. Notice of revisions will be posted here.
+
+[](https://web.archive.org/banner/redirect/?id=4&url=http://www.dancedistributors.com/)
