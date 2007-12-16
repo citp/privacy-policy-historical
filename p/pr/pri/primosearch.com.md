@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the primosearch.com privacy policy that was archived on 2007-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070605172432id_/http%3A//primosearch.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the primosearch.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216074551id_/http%3A//www.primosearch.com/privacy.html) for the most accurate reproduction.*
 
 # Primosearch
 
