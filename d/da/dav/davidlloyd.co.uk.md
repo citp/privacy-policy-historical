@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the davidlloyd.co.uk privacy policy that was archived on 2007-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070615092934id_/http%3A//www.davidlloyd.co.uk/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the davidlloyd.co.uk privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216015809id_/http%3A//www.davidlloyd.co.uk/privacy_policy) for the most accurate reproduction.*
 
-# David Lloyd Leisure - Privacy Policy
+# Privacy Policy
 
 This privacy policy explains how David Lloyd Leisure Limited collect and use data collected from individuals and how we protect your privacy. By using this site you agree to the terms of this Privacy Policy.
 
@@ -54,5 +54,5 @@ You may reconfigure your computer to accept cookies again by following these ins
 To download a current version of Netscape Navigator, go to:  
 <http://home.netscape.com/computing/download/index.html>
 
-A subsidiary of Whitbread Group PLC, David Lloyd Leisure Ltd Registered in England No 1516226.   
-Registered Office: Whitbread Court, Houghton Hall Business Park, Porz Avenue, Dunstable, Bedfordshire LU5 5XE 
+David Lloyd Leisure Ltd, registered office: 4th Floor, St Alphage House, 2 Fore Street, London EC2Y 5DH, registered in England No 1516226.   
+[David Lloyd conditions of purchase](https://web.archive.org/content/david_lloyd_leisure/media/The_David_Lloyd_Leisure_Limited_Conditions_of_Purchase.pdf)
