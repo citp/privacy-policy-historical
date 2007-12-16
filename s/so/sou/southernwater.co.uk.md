@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the southernwater.co.uk privacy policy that was archived on 2007-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070522234641id_/http%3A//www.southernwater.co.uk/resources/privacyStatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southernwater.co.uk privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216204926id_/http%3A//www.southernwater.co.uk/resources/privacyStatement/default.asp) for the most accurate reproduction.*
 
 # Privacy statement
 
@@ -13,6 +13,9 @@ There is an element of risk involved with sending information via the Internet. 
 
 **Your consent  
 ** By using our website, you consent to the collection and use of your personal information in accordance with this Privacy Statement. 
+
+**Data Sharing**  
+Where your water provider is not Southern Water we may exchange relevant information with your water supply company, in order that our and their records are as up to date as possible.
 
 **Contacts  
 ** If you have any queries about your privacy when using this website, or concerning Southern Water’s use of personal information, please contact our Data Protection Officer at [dataprotection@southernwater.co.uk](mailto:dataprotection@southernwater.co.uk)
