@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the kiehls.com privacy policy that was archived on 2007-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070529231739id_/http%3A//www.kiehls.com/_us/_en/customerservice/privacypolicy.aspx%3FTopicCode%3DCustService%26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kiehls.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216011707id_/http%3A//www.kiehls.com/_us/_en/customerservice/privacypolicy.aspx%3FTopicCode%3DCustService%26) for the most accurate reproduction.*
 
 # Kiehl's | Privacy Policy
 
 **Purpose**
 
-Kiehl's has adopted this Privacy Statement in order to inform you of its policies with respect to information collected from this website. Your use of this website constitutes your acceptance of this Privacy Statement and your consent to the practices it describes. 
+Kiehls-usa.com, a division of L'Oreal USA S/D, Inc., has adopted this Privacy Statement in order to inform you of its policies with respect to information collected from this website. Your use of this website constitutes your acceptance of this Privacy Statement and your consent to the practices it describes. 
 
 **Automatic Collection of Anonymous Information**
 
