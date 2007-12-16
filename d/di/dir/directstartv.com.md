@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directstartv.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630092249id_/http%3A//www.directstartv.com/directv/directv_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directstartv.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216054351id_/http%3A//www.directstartv.com/directv/directv_privacy.html) for the most accurate reproduction.*
 
 # DirectStarTV Privacy Policy
 
@@ -16,11 +16,11 @@ VeriSign SSL Certificates protect e-commerce transactions and other private info
 
 First, we will never sell your personal information or share it unnecessarily. 
 
-Personal information is collected only when users voluntarily register at DirectStarTV.com to purchase items, receive newsletters, or for other special offers or promotional opportunities. It is DirectStarTV’s policy to maintain all personal information as confidential. 
+Personal information is collected only when users voluntarily register at DirectStarTV.com to purchase items, receive newsletters, or for other special offers or promotional opportunities. It is DirectStarTV's policy to maintain all personal information as confidential. 
 
-If you sign-up for DIRECTV service, it is necessary for us to share your information with DIRECTV in order to fulfill your service request. DIRECTV’s Privacy Policy can be found on DIRECTV.com. 
+If you sign-up for DIRECTV service, it is necessary for us to share your information with DIRECTV in order to fulfill your service request. DIRECTV's Privacy Policy can be found on DIRECTV.com. 
 
-Your information will not be released, rented or sold to Third Parties. Occasionally, DirectStarTV or a sister company such as DIRECTV may make special offers available to DirectStarTV customers. 
+Your information will not be released, rented or sold to Third Parties for marketing purposes. Occasionally, DirectStarTV or a sister company such as DIRECTV may make special offers available to DirectStarTV customers. 
 
 If you are already registered with DirectStarTV but no longer wish to receive messages from us, or you wish to correct/update information provided to us, please let us know using the contact information at the bottom of this page. 
 
