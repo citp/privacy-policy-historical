@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the girlscouts.org privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623134751id_/http%3A//www.girlscouts.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlscouts.org privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216110455id_/http%3A//www.girlscouts.org/privacy.asp) for the most accurate reproduction.*
 
 # Girl Scouts of the USA: Privacy Policy
 
@@ -10,7 +10,7 @@ Girl Scouts of the USA is committed to protecting the privacy of our visitors. T
 
 If our policy practices change in the future, we will let you know by posting the policy changes on our Web site. However, we will treat all personal information we collect in accordance with the privacy notice in effect at the time the information is collected.
 
-Girl Scouts' online properties comprise of, but are not limited to, all pages found under www.girlscouts.org, including our online shop and our destination sites for girls and teens, called Girls Only and STUDIO 2B respectively.
+Girl Scouts' online properties comprise of, but are not limited to, all pages found under www.girlscouts.org, including our online shop and our destination sites for girls and teens, called Go Girls Only and STUDIO 2B respectively.
 
 DATA COLLECTION
 
