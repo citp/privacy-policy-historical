@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freelang.net privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608190250id_/http%3A//www.freelang.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freelang.net privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216042156id_/http%3A//www.freelang.net/privacy.html) for the most accurate reproduction.*
 
 # FREELANG - Privacy Policy
 
