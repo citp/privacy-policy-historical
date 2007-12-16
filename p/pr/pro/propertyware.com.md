@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the propertyware.com privacy policy that was archived on 2007-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070502203507id_/http%3A//propertyware.com/terms/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propertyware.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216042633id_/http%3A//www.propertyware.com/terms/index.htm) for the most accurate reproduction.*
 
 # Propertyware: Complete Online Property Management
 
