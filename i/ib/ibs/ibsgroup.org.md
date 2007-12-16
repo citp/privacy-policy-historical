@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ibsgroup.org privacy policy that was archived on 2007-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070501071334id_/http%3A//www.ibsgroup.org/main/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibsgroup.org privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217004701id_/http%3A//www.ibsgroup.org/main/privacy.shtml) for the most accurate reproduction.*
 
 # Irritable Bowel Syndrome Privacy Policy
 
 ## The Irritable Bowel Syndrome Self Help and Support Group Respects Your Privacy
 
-**Publication Date (revised): November 25, 2005**
+**Publication Date (revised): May 1, 2007**
 
 IBS Self Help and Support Group ("IBS Group") respects your privacy. That's why we have created this Privacy Statement to explain how and why we collect certain information online, and how we use that information. This statement also explains how you can prevent collection of certain information about yourself, if you choose. Please take a few moments to read our Privacy Statement. This statement applies to both information we collect from visitors to the IBSGroup.org Web site, as well as information we collect or have access to when on our message boards. 
 
@@ -34,7 +34,7 @@ When you register, you have the option of providing some additional information 
 
 **IF YOU ARE UNDER 13 YEARS OF AGE you are not allowed to participate in the IBS Group support forums or to provide any personal information on our site.**
 
- **Bulletin Board Newsletter Subscription**  
+ **Forums Newsletter Subscription**  
 IBS Group offers an option to subscribe to a periodic newsletter regarding our organization's activities, promotions, product announcements and news items. The only piece of information required is the user's e-mail address, which is only used to distribute the requested newsletter. You can "unsubscribe" to the newsletter at any time by e-mailing [ibsbb@ibsgroup.org](mailto:ibsbb@ibsgroup.org?subject=Newsletter%20Unsubscribe) with the subject line "Newsletter Unsubscribe." 
 
 **Cookies**  
@@ -63,11 +63,11 @@ We do not and will not disclose your private, personally identifiable informatio
 All reasonable care is taken by our staff in handling your personal information to ensure its security both offline and online. It is our policy to destroy server access and any personal information provided during the technical support process upon completion of the technical support incident. 
 
 **Changing or Updating Personal Information**  
-If you would like to update or change your user profile on our message boards, [click here](http://www.ibsgroup.org/groupee/forums). 
+If you would like to update or change your user profile on our message boards, [click here](http://www.ibsgroup.org/forums/index.php?act=UserCP&CODE=00). 
 
-To unsubscribe to our IBS Group Bulletin Board newsletter, please e-mail [ibsbb@ibsgroup.org](mailto:ibsbb@ibsgroup.org?subject=Newsletter%20Unsubscribe) with the subject line "Newsletter Unsubscribe". 
+To unsubscribe to our IBS Group Forums newsletter, please e-mail [ibsbb@ibsgroup.org](mailto:ibsbb@ibsgroup.org?subject=Newsletter%20Unsubscribe) with the subject line "Newsletter Unsubscribe". 
 
 If you have questions regarding your information, you can contact us at [ibs@ibsgroup.org](mailto:ibs@ibsgroup.org). 
 
-**Postings on Bulletin Boards**  
+**Postings on Forums**  
 It is important for you to remain aware that when you provide personal information (e.g., last name, address, phone number) in a posting on any message board, that information is available to any other person or user having access and use of that message board, and may be used by someone in a manner unintended by you. For that reason, we discourage you from offering any personally identifying information within a posting to any message board. 
