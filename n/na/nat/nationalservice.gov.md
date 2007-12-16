@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalservice.gov privacy policy that was archived on 2007-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070308105208id_/http%3A//www.nationalservice.gov/home/privacy_policy/index.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalservice.gov privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216084042id_/http%3A//www.nationalservice.gov/home/security_and_privacy_policy/index.asp) for the most accurate reproduction.*
 
 # Corporation for National and Community Service
 
@@ -20,7 +20,7 @@ Sometimes we use "session cookies," which are small amounts of information store
 
 ### Privacy Impact Assessments
 
-Privacy Impact Assessments (PIAs) have been completed for the CNCS general support system and all major applications. 
+Privacy Impact Assessments (PIAs) have been completed for the CNCS general support system and all major applications. 
 
 The Corporation collects and maintains a limited amount of personally identifiable information from applications for Corporation national and community service programs. This information is used to process the application and subsequently manage and support service participants. The process for collecting and maintaining personally identifiable information within the Corporation’s Network, Momentum, ACRPS, ESPAN, and LASSIE information systems meets the requirements set by OMB Memorandum 03-22.* 
 
@@ -46,33 +46,39 @@ Washington DC 20525
 202-606-5000  
 [mailto:webmaster@cns.gov ](mailto:webmaster@cns.gov)
 
+### Information Security, Privacy and Contractor Security Requirements
+
+The Federal Information Security Act (FISMA), Homeland Security Presidential Directive 12 (HSPD-12), and recent OMB Memorandums instituted a number of security and privacy requirements that must be reflected in all federal contracts. Recent changes to the FAR provided guidance as to how to include information security and privacy requirements in contracts for information technology components and services, information and data management services, and related support. 
+
+Our recent FISMA system security assessments confirmed that all current Corporation information technology contracts as well as contracts where contractors are provided access to CNCS IT systems or facilities require modification to include consideration for FISMA, HSPD-12, and OMB security requirements. To assist current and potential contractors and vendors, CNCS is making its information, privacy, and contractor security requirements available at <http://www.nationalservice.gov/pdf/infosec_contract_clauses.pdf>.
+
 * * *
 
-### A Record of Service
+### Record of Service
 
 Your e-mail address is only used because it is the best way for you to sign in with a unique identity that's easy to remember. No e-mail will be sent to you unless you ask for it. We do not share e-mail addresses with third-parties, other than to manage our database.
 
 Privacy Act Statement: In compliance with the Privacy Act of 1974, the following information is provided. The collection of this information is authorized by the National and Community Service Act, as amended by the National and Community Service Trust Act of 1993. The primary purpose of the user account is to provide a means that allows individuals to record, track, and provide comment on their volunteer services. Users may also elect to be provided with additional information about other service opportunities. Providing this information is voluntary. All information contained in each user account is available only to the Corporation, on behalf of USA Freedom Corps, and will not be provided to any organization outside the Corporation. 
 
-Public Burden Statement: Public reporting burden for this collection of information is estimated at 3 minutes, which includes the initial log-on, providing initial profile user, recording of volunteer service information, and log-off from the diary. Comments on the burden or content of the instrument may be sent to the Corporation for National and Community Service, Attn: Director, Public Affairs and Liaison Office, 1201 New York Avenue, N.W., Washington, D.C., 20525. (5 C.F.R. 1320.5(b)(2)(b)) The Corporation informs the potential persons who wish to respond to the collection of information that such persons are not required to respond to the collection of information unless it displays a currently valid OMB control number which is located on this website. 
+Public Burden Statement: Public reporting burden for this collection of information is estimated at 3 minutes, which includes the initial log-on, providing initial profile user, recording of volunteer service information, and log-off from the diary. Comments on the burden or content of the instrument may be sent to the Corporation for National and Community Service, Attn: Director, Public Affairs, 1201 New York Avenue, N.W., Washington, D.C., 20525. (5 C.F.R. 1320.5(b)(2)(b)) The Corporation informs the potential persons who wish to respond to the collection of information that such persons are not required to respond to the collection of information unless it displays a currently valid OMB control number which is located on this website. 
 
 **OMB Control Number:** 3045-0077  
- **Expiration Date:** October 31, 2005
+ **Expiration Date:** February 28, 2009
 
 * * *
 
-### Applying to AmeriCorps
+### AmeriCorps Member Application
 
-Public Burden Statement: Public reporting burden for this collection of information is estimated to average 45 minutes per submission, including reviewing instructions, gathering and maintaining the data needed, and completing the form. Comments on the burden or content of this instrument may be sent to the Corporation for National Service, AmeriCorps Recruitment, Attn: Tim McManus, 1201 New York Avenue, NW, Washington, D.C. 20525. The Corporation informs people who may respond to this collection of information that they are not required to respond to the collection of information unless the OMB control number and expiration date displayed on page 1 are current and valid. (See 5 C.F.R. 1320.5(b)(2)(i).)
+Public Burden Statement: Public reporting burden for this collection of information is estimated to average 45 minutes per submission, including reviewing instructions, gathering and maintaining the data needed, and completing the form. Comments on the burden or content of this instrument may be sent to the Corporation for National Service, AmeriCorps Recruitment, Attn: Denise Yeager, 1201 New York Avenue, NW, Washington, D.C. 20525. The Corporation informs people who may respond to this collection of information that they are not required to respond to the collection of information unless the OMB control number and expiration date displayed on page 1 are current and valid. (See 5 C.F.R. 1320.5(b)(2)(i).) 
 
 PRIVACY ACT NOTICE: The Privacy Act of 1974 (5 U.S.C § 552a) requires that the following notice be provided to you: The authority for collecting information from you in this application is contained in 42 U.S.C 12592 and 12615 of the National and Community Service Act of 1990 as amended, and 42 U.S.C. 4953 of the Domestic Volunteer Service Act of 1973 as amended. You are advised that submission of the information is entirely voluntary, but the requested information is required in order for you to participate in AmeriCorps programs. The principal purpose for requesting this personal information is to process your application for acceptance into an AmeriCorps program, and for other general routine purposes associated with your participation in an AmeriCorps program. These routine purposes may include disclosure of the information to federal, state, or local agencies pursuant to lawfully authorized requests, to present and former employers, references provided by you in your application, and educational institutions, for the purpose of verifying the information provided by you in your application. In some programs, the information may also be provided to federal, state, and local law enforcement agencies to determine the existence of any prior criminal convictions. The information will not otherwise be disclosed to entities outside of AmeriCorps and the Corporation for National Service without your prior written permission.
 
 **OMB Control Number:** 3045-0054  
- **Expiration Date:** October 31, 2005
+ **Expiration Date:** January 31, 2009
 
 * * *
 
-### AmeriCorps eCommunity
+### AmeriCorps Alumni Profile Card (AmeriCorps eCommunity)
 
 Public Burden Statement: The Agency informs the potential person who is to respond to the collection of information that such person is not required to respond to the collection of information unless it displays a currently valid OMB Control Number. Any Comments regarding this collection of information send to: (See 5 C.F.R. 1320.5(b)(2)(i).) 
 
@@ -85,10 +91,4 @@ PRIVACY ACT NOTICE: The Privacy Act of 1974 (5 U.S.C § 552a) requires that the 
 
 ### Presidential Freedom Scholarships
 
-The student's name may be used for news or publicity purposes connected with the Presidential Freedom Scholarships program. However, other student information will not be shared with anyone outside of the Corporation for National and Community Service or its designees but for the sole purpose of disbursing the scholarship. Addresses, phone numbers, student's social security number, and other personal information will not be provided to any third party.
-
-We do not collect information for commercial marketing.
-
-The school information and matching funds source information will not be shared with anyone outside of the Corporation for National and Community Service or its designees.
-
-We will use information on the certification form only to process it and to respond to you directly for clarification if needed. We may also use the information for follow-up mailings related to the Presidential Freedom Scholarships program to schools, colleges, matching scholarships providers, and service sites.
+The Presidential Freedom Scholarships program has been discontinued.
