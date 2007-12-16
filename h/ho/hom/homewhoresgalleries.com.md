@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homewhoresgalleries.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629194547id_/http%3A//www.homehiddencams.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homewhoresgalleries.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216060353id_/http%3A//www.homehiddencams.com/privacy.html) for the most accurate reproduction.*
 
 # OUR COMMITMENT TO PRIVACY
 
