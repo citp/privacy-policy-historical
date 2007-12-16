@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the accuwebhosting.com privacy policy that was archived on 2007-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070607171027id_/http%3A//www.accuwebhosting.com/privacypolicy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the accuwebhosting.com privacy policy that was archived on 2007-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071216110503id_/http%3A//www.accuwebhosting.com/privacypolicy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -283,7 +283,10 @@ clearTimeout(delayhide)
 if (hidemenu_onclick=="yes")
 document.onclick=hidemenu
 
-</script></head><body onload="MM_preloadImages('images/homer.jpg','images/webhostingr.jpg','images/resellerwebhostingr.jpg','images/dedicatedserverr.jpg','images/resourcesservicesr.jpg')"><div id="dropmenudiv" style="visibility:hidden;width:200px;background-color:skyblue" onmouseover="clearhidemenu()" onmouseout="dynamichide(event)"></div>
+</script></head><body onload="MM_preloadImages('images/homer.jpg','images/webhostingr.jpg','images/resellerwebhostingr.jpg','images/dedicatedserverr.jpg','images/resourcesservicesr.jpg', 'images-new/img/more_btn1.jpg','images-new/img/view_btn1.jpg','images-new/img/close_btn1.jpg')"><div id="dropmenudiv" style="visibility:hidden;width:200px;background-color:skyblue" onmouseover="clearhidemenu()" onmouseout="dynamichide(event)"></div>
+
+
+
 
 
 
@@ -316,15 +319,18 @@ document.onclick=hidemenu
         <div class="moreinfoleft"><a href="http://domains.accuwebhosting.com/"><img src="images/more_infp.gif" border="0"></a></div>
       </div>
       <div id="leftboxbg" style="margin-top:10px;">
-        <div class="leftboxblack">Free
-          <div class="leftboxorange">Web Hosting</div>
+        <div class="leftboxblack">Host Multiple
+          <div class="leftboxorange">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Domains</div>
         </div>
-        <div class="leftboxtext"><b>1 GB Space, 3 GB Transfer</b><br>
-          + FTP, File Manager Support <br>
-          + No Banner, No Popups <br>
-          + PHP, mySQL Supported</div>
-        <div class="moreinfoleft"><a href="http://free.accuwebhosting.com/"><img src="images/more_infp.gif" border="0"></a></div>
-      </div>
+        <div class="leftboxtext"><b>+ Host up to 5 domains in one plan</b><br>
+          + Both <a href="http://www.accuwebhosting.com/cpanel_multiple_domain_hosting.html">Linux</a> / <a href="http://www.accuwebhosting.com/windows_multiple_domain_hosting.html">Windows</a> plans<br>
+	+ Manage all your domains in one control panel <br>
+          </div>
+        <div class="moreinfoleft"><a href="http://www.accuwebhosting.com/windows_multiple_domain_hosting.html" style="text-decoration: none;"><img src="images-new/img/more_btn.jpg" alt="Windows Plans" name="Image6" height="22" border="0"></a>&nbsp;<a href="http://www.accuwebhosting.com/cpanel_multiple_domain_hosting.html" style="text-decoration: none;"><img src="images-new/img/view_btn.jpg" alt="Linux Plans" name="Image6" width="72" height="22" border="0"></a></div>
+      </div> 
+
+
+
       <div id="leftboxbg" style="margin-top:10px;">
         <div class="leftboxblack">Website
           <div class="leftboxorange">Builder</div>
@@ -443,6 +449,256 @@ AccuWebHosting.com retains the right to change any or all of this entire Privacy
   
 <!-- Dynamic Content -->
 
+<style type="text/css">
+<!--
+
+.stylepopup1 {
+	color: #FAFF00;
+	font-weight: bold;
+}
+.stylepopup2 {
+	color: #FFFC00;
+	font-weight: bold;
+}
+
+.stylepopup3 {
+	font-family: Tahoma;
+	font-size: 11px;
+	color: #FFFFFF;
+}
+
+-->
+</style>
+
+
+<style type="text/css">
+
+#fadeinbox{
+position:absolute;
+width: 1px;
+left: 0;
+top: 0;
+border: 0px solid black;
+padding: 2px;
+z-index: 1;
+visibility:hidden;
+}
+
+</style>
+
+
+<script type="text/javascript">
+
+/***********************************************
+* Sticky Note script- © Dynamic Drive DHTML code library (www.dynamicdrive.com)
+* Visit DynamicDrive.com for hundreds of DHTML scripts
+* This notice must stay intact for legal use
+* Go to http://www.dynamicdrive.com/ for full source code
+***********************************************/
+
+//Specify display mode. 3 possible values are:
+//1) "always"- This makes the fade-in box load each time the page is displayed
+//2) "oncepersession"- This uses cookies to display the fade-in box only once per browser session
+//3) integer (ie: 5)- Finally, you can specify an integer to display the box randomly via a frequency of 1/integer...
+// For example, 2 would display the box about (1/2) 50% of the time the page loads.
+
+var displaymode="oncepersession"
+
+var enablefade="yes" //("yes" to enable fade in effect, "no" to disable)
+var autohidebox=["yes", 30] //Automatically hide box after x seconds? [yes/no, if_yes_hide_after_seconds]
+var showonscroll="yes" //Should box remain visible even when user scrolls page? ("yes"/"no)
+var IEfadelength=1 //fade in duration for IE, in seconds
+var Mozfadedegree=0.05 //fade in degree for NS6+ (number between 0 and 1. Recommended max: 0.2)
+
+////////No need to edit beyond here///////////
+
+if (parseInt(displaymode)!=NaN)
+var random_num=Math.floor(Math.random()*displaymode)
+
+function displayfadeinbox(){
+var ie=document.all && !window.opera
+var dom=document.getElementById
+iebody=(document.compatMode=="CSS1Compat")? document.documentElement : document.body
+objref=(dom)? document.getElementById("fadeinbox") : document.all.fadeinbox
+var scroll_top=(ie)? iebody.scrollTop : window.pageYOffset
+var docwidth=(ie)? iebody.clientWidth : window.innerWidth
+docheight=(ie)? iebody.clientHeight: window.innerHeight
+var objwidth=objref.offsetWidth
+objheight=objref.offsetHeight
+objref.style.left=docwidth/2-objwidth/2+"px"
+objref.style.top=scroll_top+docheight/2-objheight/2+"px"
+
+if (showonscroll=="yes")
+showonscrollvar=setInterval("staticfadebox()", 50)
+
+if (enablefade=="yes" && objref.filters){
+objref.filters[0].duration=IEfadelength
+objref.filters[0].Apply()
+objref.filters[0].Play()
+}
+objref.style.visibility="visible"
+if (objref.style.MozOpacity){
+if (enablefade=="yes")
+mozfadevar=setInterval("mozfadefx()", 90)
+else{
+objref.style.MozOpacity=1
+controlledhidebox()
+}
+}
+else
+controlledhidebox()
+}
+
+function mozfadefx(){
+if (parseFloat(objref.style.MozOpacity)<1)
+objref.style.MozOpacity=parseFloat(objref.style.MozOpacity)+Mozfadedegree
+else{
+clearInterval(mozfadevar)
+controlledhidebox()
+}
+}
+
+function staticfadebox(){
+var ie=document.all && !window.opera
+var scroll_top=(ie)? iebody.scrollTop : window.pageYOffset
+objref.style.top=scroll_top+docheight/2-objheight/2+"px"
+}
+
+function hidefadebox(){
+objref.style.visibility="hidden"
+if (typeof showonscrollvar!="undefined")
+clearInterval(showonscrollvar)
+
+}
+
+function controlledhidebox(){
+if (autohidebox[0]=="yes"){
+var delayvar=(enablefade=="yes" && objref.filters)? (autohidebox[1]+objref.filters[0].duration)*1000 : autohidebox[1]*1000
+setTimeout("hidefadebox()", delayvar)
+}
+}
+
+function initfunction(){
+setTimeout("displayfadeinbox()", 100);
+
+}
+
+function get_cookie(Name) {
+var search = Name + "="
+var returnvalue = ""
+if (document.cookie.length > 0) {
+offset = document.cookie.indexOf(search)
+if (offset != -1) {
+offset += search.length
+end = document.cookie.indexOf(";", offset)
+if (end == -1)
+end = document.cookie.length;
+returnvalue=unescape(document.cookie.substring(offset, end))
+}
+}
+return returnvalue;
+}
+
+
+if (displaymode=="oncepersession" && get_cookie("fadedin")=="" || displaymode=="always" || parseInt(displaymode)!=NaN && random_num==0){
+if (window.addEventListener)
+window.addEventListener("load", initfunction, false)
+else if (window.attachEvent)
+window.attachEvent("onload", initfunction)
+else if (document.getElementById)
+window.onload=initfunction
+document.cookie="fadedin=yes"
+}
+
+
+</script>
+
+<div id="fadeinbox" style="left: 680.5px; top: 216px; visibility: visible;">
+
+<table align="center" width="99%" style="border: 0px; border-style: dotted;" cellpadding="0" cellspacing="0" class="stylepopup3"><tbody><tr><td>
+
+
+
+<table width="517" height="332" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td height="59" align="right" valign="bottom"><img src="images-new/img/top.gif" width="111" height="59"></td>
+  </tr>
+  <tr>
+    <td align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tbody><tr>
+        <td width="61" height="273" align="left" valign="top"><table width="61" height="173" border="0" cellpadding="0" cellspacing="0">
+          <tbody><tr>
+            <td height="93" align="left" valign="top">&nbsp;</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top"><img src="images-new/img/lef_side_part.gif" width="61" height="148"></td>
+          </tr>
+        </tbody></table></td>
+        <td width="422" height="273" align="left" valign="top" background="images-new/img/bg.gif"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tbody><tr>
+            <td width="132" align="left" valign="top">&nbsp;</td>
+            <td height="34" align="left" valign="top">&nbsp;</td>
+            </tr>
+          <tr>
+            <td align="left" valign="top">&nbsp;</td>
+            <td height="55" align="left" valign="top"><img src="images-new/img/title.jpg" width="203" height="48"></td>
+            </tr>
+          <tr>
+            <td align="left" valign="top">&nbsp;</td>
+            <td align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tbody><tr>
+                <td height="17" align="left" valign="top">» <strong>Host multiple domains in one plan</strong></td>
+              </tr>
+              <tr>
+                <td height="17" align="left" valign="top">» Manage all your domains in one control panel</td>
+              </tr>
+              <tr>
+                <td height="17" align="left" valign="top">» Both <strong><u>Windows</u></strong> and <strong><u>Linux</u></strong> Options</td>
+              </tr>
+              <tr>
+                <td height="17" align="left" valign="top">» <strong><u>Windows Plans</u></strong> starting at <span class="stylepopup1">$9.95</span> per month</td>
+              </tr>
+              <tr>
+                <td height="17" align="left" valign="top">» <strong><u>Linux Plans</u></strong> starting at <span class="stylepopup2">$6.95</span> per month</td>
+              </tr>
+              <tr>
+                <td height="25" align="left" valign="top">» <strong>Windows Plan:<span class="stylepopup3"><u> MS SQL 2005 Database Included</u></span></strong></td>
+              </tr>
+            </tbody></table></td>
+          </tr>
+          <tr>
+            <td align="left" valign="top">&nbsp;</td>
+            <td align="left" valign="top"><table width="100" border="0" cellspacing="0" cellpadding="0">
+              <tbody><tr>
+                <td width="72" align="left" valign="top"><a href="http://www.accuwebhosting.com/windows_multiple_domain_hosting.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image5','','images-new/img/more_btn1.jpg',1)"><img src="images-new/img/more_btn.jpg" alt="Window Plans" name="Image5" width="83" height="22" border="0"></a></td>
+                <td align="left" valign="top">&nbsp;</td>
+                <td align="left" valign="top"><a href="http://www.accuwebhosting.com/cpanel_multiple_domain_hosting.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image6','','images-new/img/view_btn1.jpg',1)"><img src="images-new/img/view_btn.jpg" alt="Linux Plans" name="Image6" width="72" height="22" border="0"></a></td>
+              </tr>
+            </tbody></table></td>
+          </tr>
+          <tr>
+            <td align="left" valign="top">&nbsp;</td>
+            <td height="32" align="right" valign="bottom"><table width="35" border="0" cellspacing="0" cellpadding="0">
+              <tbody><tr>
+                <td width="21" align="right" valign="top"><a href="#" onclick="hidefadebox();return false" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image7','','images-new/img/close_btn1.jpg',1)"><img src="images-new/img/close_btn.jpg" alt="Close" name="Image7" width="21" height="21" border="0"></a></td>
+                <td align="left" valign="top">&nbsp;</td>
+              </tr>
+            </tbody></table></td>
+          </tr>
+        </tbody></table></td>
+        <td align="left" valign="top"><img src="images-new/img/right_side_part.gif" width="34" height="99"></td>
+      </tr>
+    </tbody></table></td>
+  </tr>
+</tbody></table>
+
+</td></tr>
+</tbody></table>
+
+
+
+
+</div>
 
 
 <br>
@@ -490,7 +746,18 @@ document.write("<center><a href=http://www.freecounterandstats.com><img border=0
 
 
 //-->
-</script><center><a href="http://www.freecounterandstats.com"><img border="0" src="http://www.freecounterandstats.com/counter2.aspx?img=digits.gif&amp;digits=5&amp;webid=12&amp;mid=13&amp;action=1&amp;amount=0&amp;referrer=&amp;myurl=https%3A//web.archive.org/web/20070607171027id_/http%253A//www.accuwebhosting.com/privacypolicy.htm"></a></center>
+</script><center><a href="http://www.freecounterandstats.com"><img border="0" src="http://www.freecounterandstats.com/counter2.aspx?img=digits.gif&amp;digits=5&amp;webid=12&amp;mid=13&amp;action=1&amp;amount=0&amp;referrer=&amp;myurl=https%3A//web.archive.org/web/20071216110503id_/http%253A//www.accuwebhosting.com/privacypolicy.htm"></a></center>
+
+<!-- Start of StatCounter Code -->
+<script type="text/javascript" language="javascript">
+var sc_project=2725368; 
+var sc_invisible=0; 
+var sc_partition=27; 
+var sc_security="8f1bfe57"; 
+</script>
+
+<script type="text/javascript" language="javascript" src="http://www.statcounter.com/counter/counter.js"></script><noscript><a href="http://www.statcounter.com/" target="_blank"><img  src="http://c28.statcounter.com/counter.php?sc_project=2725368&java=0&security=8f1bfe57&invisible=0" alt="free hit counter" border="0"></a> </noscript>
+<!-- End of StatCounter Code -->
 
 </div></div></center>
 
