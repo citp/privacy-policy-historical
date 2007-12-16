@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hoseasons.co.uk privacy policy that was archived on 2007-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070515122418id_/http%3A//www.hoseasons.co.uk/Information.aspx%3FID%3D32) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoseasons.co.uk privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217003318id_/http%3A//www.hoseasons.co.uk/Information.aspx%3FID%3D32) for the most accurate reproduction.*
 
-# Information
+# Hoseasons
 
   | **Why are your card details safe?**  
 Our Secure server software (SSL) is the industry standard and is among the best software available today for secure commerce transactions. It encrypts ALL OF YOUR PERSONAL INFORMATION, including your credit or debit card number, name and address, which means that your details cannot be read as the information travels over the internet. Only Hoseasons can read your personal information. 
