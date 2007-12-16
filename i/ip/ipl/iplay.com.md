@@ -1,46 +1,20 @@
-> *The following text is extracted and transformed from the iplay.com privacy policy that was archived on 2006-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060429034255id_/http%3A//iplay.com/terms.do%3Bjsessionid%3D681A0AA1BDFCD2244625E16ABAF2C264.tomcat1_iplay1%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iplay.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216171307id_/http%3A//www.iplay.biz/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# I-play
+# I-play Mobile
 
-### What information do We collect and why?
+This service is provided by Playphone on behalf of I-play (the "Service Providers")
 
-iplay.com uses cookies to gather and store certain non-personal information. The information gathered is:
+**1\. What information do we collect?**  
+We, the Service Providers, collect information that is voluntarily provided by you when accessing our services and/or is stored in cookies. Cookies are small text-files stored on your computer that contain information about your previous visits to our Website and help you use the Website more efficiently. 
 
-  * The country in which You live
-  * Your chosen language
-  * Your mobile network provider
-  * Your handset model
-  * Any Games You may have previously ordered from iplay.com
+**General Information**  
+We, the Service Providers, may automatically collect general information from our users relating to their use of the site which will be used in aggregate, that is, anonymously. This information may be used to tailor the site towards our users needs, or identify marketing and business opportunities and may be shared with our trading partners, affiliated companies or advertisers. 
 
+**Personal Information**  
+We, the Service Providers, collect and store personal information voluntarily provided by you, such as your mobile phone number, name, address and email address. We will store this information only as long as necessary to provide services to you or as otherwise required by law. We shall not store this information without your permission, and will only use it for the purposes for which it was submitted, unless you indicate otherwise. However, by providing your mobile phone number for the delivery of content, you will be deemed to have given permission for us to store your mobile phone number for the purposes only of delivering such content. Additionally, we may process your information if we have legally permitted reasons for doing so. We, the Service Providers, will use every endeavor to ensure that your information remains secure and confidential and cannot be accessed for unauthorized purposes. However, we cannot be held liable for any unauthorized access or breach of security. 
 
+**2\. How do we process data?**  
+The Service Providers will process all personal information in accordance with the Data Protection Principles set out in the United States of America Data Protection Act. You may contact us at any time on [help@playp.biz](mailto:help@playp.biz) if you have any query about the information being held by us, our processing or if you wish to withdraw your approval for any previously agreed processing. We, the Service Providers, will use your information for the purposes for which you have specifically provided it. We may also use your information to offer you other services, such as newsletters, or services of 3rd parties that may be of interest to you, where you have indicated that you wish to receive such information. We will not provide your details to such 3rd parties, but will distribute information on their behalf, again, only where you have consented to receiving such information. We, the Service Providers, will not 'sell' your information to any 3rd party without your express consent. 
 
-We use this information to tailor the site navigation, features and products available to You. You may change the settings in the cookies by simply selecting new options on the applicable pull-down menus.
-
-It is not possible to use iplay.com if You have refused these cookies.
-
-If You need more information about cookies, what they do, how they work and how You enable/disable them, please look at [www.aboutcookies.org](http://www.aboutcookies.org/).
-
-### Personal Information
-
-We collect and store personal information voluntarily provided by You when accessing Our services or that is necessary to deliver Games and services that You have requested. Personal information may include Your mobile phone number, name, address, age, gender and email address. Information voluntarily provided by You includes Your mobile phone number where You access Our Games or services through Your mobile phone.
-
-If You are under the age of 18 You may consider whether to provide Your information to us; while certain countries allow children to provide such information, You will not be able to buy Games from iplay.com nor participate in any of Our promotions, competitions or prize-draws.
-
-We specifically collect and store the following personal information:
-
-  * **E-mail address:** To purchase Games from iplay.com You MUST provide an e-mail address. All contract communication with You will be made to this e-mail address. By ordering any Game from iplay.com, You agree to Us collecting and storing Your e-mail address for the purposes of providing the requested Games to You. Unless otherwise requested, We will use this information only to provide to You the Games that You have specifically requested
-
-**If You opt-in to receive Game alerts by e-mail, We will Use Your e-mail address to notify You of similar products and services offered by I-play and vetted third parties, where You have consented to receive such information and for any other purposes for which You have expressly consented.**
-
-  * **Mobile phone number:** We need Your mobile phone number to deliver to You Games that You have purchased. We will also use Your phone number to set up an account for You for future purchases. By ordering any Game from iplay.com, You agree to Us collecting and storing Your mobile phone number for the purposes of delivering the requested Games to You.
-
-**If You opt-in to receive text Game alerts, We will Use Your mobile phone number to notify You of similar products and services offered by I-play and vetted third parties, where You have consented to receive such information and for any other purposes for which You have expressly consented.**
-
-  * **Personal contact information:** If You contact Our helpline for support, We may need to collect information such as a contact phone number, Your name, country and, possibly, a physical address. We will only store this information for the purposes of providing support to You. We may also use the general information provided about Your problem (without personal details) to improve Our Games and provide support to others.
-
-
-
-
-We will always notify You of the name of any 3rd party with whom We may share Your personal information prior to collecting such information. By consenting to Us collecting and processing Your information, You also consent to Us passing such information to the named 3rd party. Such 3rd party will process Your information in accordance with their applicable privacy policies.
-
-We _do not_ collect any credit card or other information that is entered by You on the WorldPay payment screens. This information is held by WorldPay in accordance with the terms of their privacy policy.
+**3\. What if you want to change your mind?**  
+If you want to withdraw consent to , the Service Providers’ use or storage of your personal information, please send an e-mail to [help@playp.biz](mailto:help@playp.biz). If you need more information about cookies, what they do, how they work and how you enable/disable them, please look at [www.cookiecentral.com](http://www.cookiecentral.com/). Please note that we, the Service Providers, may modify our Terms from time to time. It is your responsibility to ensure that you regularly review our Terms, as continued usage of the Website indicates acceptance of such modifications. 
