@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the raymourflanigan.com privacy policy that was archived on 2007-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070514054127id_/http%3A//www.raymourflanigan.com/catalog/pop_up-privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raymourflanigan.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216051510id_/http%3A//www.raymourflanigan.com/catalog/pop_up-privacy.asp) for the most accurate reproduction.*
 
 # Furniture for Every Room at Raymour & Flanigan - Privacy
 
