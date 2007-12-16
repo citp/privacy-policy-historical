@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the ip.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625031431id_/http%3A//www.ip.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ip.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216100120id_/http%3A//www.ip.com/about/privacy.jsp) for the most accurate reproduction.*
 
 # IP.com Privacy Statement
-
-## IP.com Privacy Statement
 
 Your privacy is important to IP.COM. This statement discloses the information practices for IP.COM on the web, including what type of information is gathered and tracked, how the information is used, and with whom the information is shared. 
 
@@ -36,4 +34,4 @@ If you wish to obtain a copy of particular information you provided to IP.COM, o
 
 Before IP.COM is able to provide you with any information or correct any inaccuracies, however, we may ask you to verify your identity and to provide other details to help us to respond to your request. We will respond to your requests as quickly as possible. If you have a question about this statement, you can send an email to IP.COM at [legal@ip.com](mailto:legal@ip.com). 
 
-This website is maintained by the IP.com. 
+This website is maintained by the IP.com.
