@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the synovus.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623224125id_/http%3A//www.synovus.com/index.cfm%3Fcatid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the synovus.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216025110id_/http%3A//www.synovus.com/index.cfm%3Fcatid%3Dprivacy) for the most accurate reproduction.*
 
 # Synovus
 
@@ -158,13 +158,11 @@ First Commercial Bank (Birmingham, AL)
 First Commercial Bank Huntsville  
 First Community Bank of Tifton  
 First Florida Bank (Naples, FL)  
-First Nation Bank (Covington, GA)  
 First National Bank of Jasper  
 First State Bank and Trust Company (Valdosta, GA)  
 Georgia Bank & Trust (Calhoun, GA)  
 The National Bank of South Carolina  
 The National Bank of Walton County (Monroe, GA)  
-Peachtree National Bank (Peachtree City, GA)  
 Sea Island Bank (Statesboro, GA)  
 Security Bank and Trust Company (Albany, GA)  
 Sterling Bank (Montgomery, AL)  
