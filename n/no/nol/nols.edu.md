@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nols.edu privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608044402id_/http%3A//www.nols.edu/general/privacy/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nols.edu privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216014056id_/http%3A//www.nols.edu/general/privacy/privacy.shtml) for the most accurate reproduction.*
 
 # NOLS - Privacy Statement
 
