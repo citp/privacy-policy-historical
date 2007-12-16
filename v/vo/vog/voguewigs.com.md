@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the voguewigs.com privacy policy that was archived on 2007-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070525041510id_/http%3A//www.voguewigs.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voguewigs.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216104501id_/http%3A//www.voguewigs.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
