@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findnews.org privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626133509id_/http%3A//www.findnews.org/Home/tabid/154/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findnews.org privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216174310id_/http%3A//www.findnews.org/Home/tabid/154/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
 # Findnews.org: News Feeds, XML and Rss News Feeds
 
