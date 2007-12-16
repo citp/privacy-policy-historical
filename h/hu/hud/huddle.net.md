@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the huddle.net privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618190231id_/http%3A//www.huddle.net/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the huddle.net privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216040400id_/http%3A//www.huddle.net/privacy.asp) for the most accurate reproduction.*
 
 # huddle - work better together | privacy policy
 
 ## huddle privacy policy 
 
-Ninian Solutions Limited trading as Huddle is committed to preserving the privacy of all visitors to huddle.net. Please read the following privacy policy to understand how We use and protect the information that You provide to Us. Please also ensure that You have read and understood Our Terms of Use which You can find [here](https://web.archive.org/web/20070618190231id_/http%3A//www.huddle.net/termsofuse.asp). Capitalised terms used in this Privacy Policy are defined in the Terms of Use. 
+Ninian Solutions Limited trading as Huddle is committed to preserving the privacy of all visitors to huddle.net. Please read the following privacy policy to understand how We use and protect the information that You provide to Us. Please also ensure that You have read and understood Our Terms of Use which You can find [here](https://web.archive.org/web/20071216040400id_/http%3A//www.huddle.net/termsofuse.asp). Capitalised terms used in this Privacy Policy are defined in the Terms of Use. 
 
 ### 1\. INFORMATION THAT WE COLLECT FROM YOU
 
@@ -40,7 +40,7 @@ We will only use Your information for the following purposes:
 
 3.2 Certain personal information that You provide to Us is defined as Sensitive Personal Data by the Data Protection Act 1988. We do not seek any sensitive personal data other than that which is reasonable and necessary for the purposes sought. 
 
-3.3 By providing Us with the information requested You are giving Your explicit consent to collect, process, disclose, transfer or store Your Sensitive Personal Data for the purposes of processing orders for goods/services.
+3.3 By providing Us with the information requested You are giving Your explicit consent to collect, process, disclose, transfer or store Your Sensitive Personal Data for the purposes of processing orders for goods and services.
 
 3.4 We do not disclosure Your personal data to any third party except to the extent that we may disclose Your personal data to third parties (whether in the UK or elsewhere) for the purposes of processing orders made by You for goods or services from Us . 
 
