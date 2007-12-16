@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the spyder.com privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609111605id_/http%3A//www.spyder.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spyder.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216035521id_/http%3A//www.spyder.com/privacy.asp) for the most accurate reproduction.*
 
-# Spyder 2006/07 :: About Us
+# Spyder 2007 | About Spyder | Privacy Policy
 
-**Your Consent**
-
+**Your Consent**  
 By using our Web site you consent to our collection and use of your personal information as described in this Privacy Policy. If we change our privacy policies and procedures, we will post those changes on our Web site to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it.
 
 **Our Commitment to Privacy**  
@@ -25,7 +24,7 @@ Broadly speaking, we use personal information for purposes of administering our 
 
 **2\. Web Site Information**
 
-Similar to other commercial Web sites, our Web site utilizes a standard technology called ÒcookiesÓ and Web server logs to collect information about how our Web site is used. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web site, and the Web sites visited just before and just after our Web site.
+Similar to other commercial Web sites, our Web site utilizes a standard technology called "cookies" and Web server logs to collect information about how our Web site is used. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web site, and the Web sites visited just before and just after our Web site.
 
 **What Are Cookies?**  
 Cookies are a feature of Web browser software that allows Web servers to recognize the computer used to access a Web site. Cookies are small pieces of data that are stored by your Web browser on your hard drive. Cookies can remember what information you access on one Web page to simplify your subsequent interactions with that Web site or to use the information to streamline your transactions on related Web pages. This makes it easier for you to move from Web page to Web page and to complete commercial transactions over the Internet. When you use the same computer to return to our site at a later time we will recognize you as a previous guest. We use cookies to make your online experience easier and more personalized. Cookies may permit us to send focused online content to you.
