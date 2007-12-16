@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the activewin.com privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608130243id_/http%3A//www.activewin.com/terms/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activewin.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216035522id_/http%3A//www.activewin.com/terms/privacy.shtml) for the most accurate reproduction.*
 
 # ActiveWin: Privacy Policy
 
@@ -158,19 +158,19 @@ Drivers
   
 **Xbox/Games**  
   
-Viva Pinata   
+Halo 3   
   
-Marvel Ultimate Alliance  
+Call of Juarez  
   
 **Applications**  
   
-Windows Vista  
+Adobe Illustrator CS3  
   
 **Hardware**  
   
-ATI X1900 Graphics  
+Athlon 64 X2 6000+  
   
-Xbox 360  
+Acer Ferrari 5000  
   
 ** Latest Interviews**  
   
