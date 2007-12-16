@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sonos.com privacy policy that was archived on 2007-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070517194121id_/http%3A//www.sonos.com/legal/privacy_policy.htm%3Ftref%3Dfhome) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sonos.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216131734id_/http%3A//www.sonos.com/legal/privacy_policy.htm%3Ftref%3Dfhome) for the most accurate reproduction.*
 
 # Sonos, Inc. | Legal | Privacy Policy
 
@@ -6,7 +6,7 @@ Our policy, your privacy 
 
 Sonos, Inc. Privacy Policy Statement
 
-Sonos respects your privacy and is committed to protecting the personal information that you decide to share with us when you visit our web site. The purpose of this policy statement is to explain the type of information Sonos collects from visitors to our website, how we collect it, what we use it for and how visitors can restrict the use or disclosure of personally identifiable information.
+Sonos respects your privacy and is committed to protecting the personal information that you decide to share with us. The purpose of this policy statement is to explain the type of information Sonos collects, how we collect it, what we use it for and how consumers can restrict the use or disclosure of personally identifiable information.
 
 Information We Collect
 
@@ -23,6 +23,8 @@ Children's Privacy
 Third Party Sites
 
 Updating your Information
+
+Sonos Software
 
 Changes to Policy
 
@@ -83,6 +85,15 @@ Updating your information
 
 If you have previously provided us with personal information, you may access, correct, and update information by visiting our site and utilizing our support application. The Support area of the site contains links (My Stuff) by which users can send in informational updates and corrections.
 
+Sonos Software
+
+Sonos collects information from the Sonos system software because it helps us provide you with content, services and a more personalized experience based on information, such as your language preference and country location. It also helps us better understand how our products are used. 
+
+_What information we collect:_  
+Sonos may collect the following: information gathered during the registration or account creation process; demographic information, such as zip code, postal code and country; information regarding content usage; computer configuration, such as operating system, software versioning and connection speed.
+
+We will never rent or sell any of the information we may collect from you to third parties. 
+
 Notice of changes to this policy
 
 Sonos will update this privacy policy statement from time to time. When we do, we will revise the "last updated" date at the bottom of this page. For changes to the privacy statement that we deem to be material, we will notify you by placing a prominent notice on home page of the Sonos.com site.
@@ -91,4 +102,4 @@ Contacting us
 
 For inquiries regarding our privacy policy, [contact us](mailto:privacy@sonos.com).
 
-Last updated: June 5, 2004
+Last updated: October 23, 2007
