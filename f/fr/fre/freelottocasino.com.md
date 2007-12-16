@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the freelottocasino.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624070257id_/http%3A//www.freelottocasino.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freelottocasino.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216061314id_/http%3A//freelottocasino.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # FreeLottoCasino :: Privacy Policy
 
 |  This privacy statement covers the site [www.freelottocasino.com](http://www.freelottocasino.com/) (FLC). Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices. This policy does not apply to the practices of companies that FLC does not own or control, or to people that FLC does not employ or manage. 
 
 **_Surveys and Contests_**  
-From time-to-time we may provide you the opportunity to participate in contests or surveys on our site ([contest terms](https://web.archive.org/web/20070624070257id_/http%3A//www.freelottocasino.com/terms.asp)). If you participate, we will request certain personally identifiable information from you. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose this information. The requested information typically includes contact information (such as email, name, and shipping address), and demographic information (such as zip code).
+From time-to-time we may provide you the opportunity to participate in contests or surveys on our site ([contest terms](https://web.archive.org/web/20071216061314id_/http%3A//freelottocasino.com/terms.asp)). If you participate, we will request certain personally identifiable information from you. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose this information. The requested information typically includes contact information (such as email, name, and shipping address), and demographic information (such as zip code).
 
 We use collected information to notify contest winners and award prizes, to monitor site traffic and/or personalize the site, and to send participants an email newsletter. 
 
