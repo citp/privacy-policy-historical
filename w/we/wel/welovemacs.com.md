@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the welovemacs.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629215708id_/http%3A//www.welovemacs.com/privstat.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the welovemacs.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217005025id_/http%3A//welovemacs.com/privstat.html) for the most accurate reproduction.*
 
 # Privacy Statement, Apple Mac and iPod Accessories
 
-[](http://us.st11.yimg.com/us.st.yimg.com/I/lovemacs_1953_114521317)
+[](http://us.st11.yimg.com/us.st.yimg.com/I/lovemacs_1977_49807877)
 
 ## Privacy Statement
 
