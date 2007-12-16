@@ -1,6 +1,14 @@
-> *The following text is extracted and transformed from the investorwords.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603194705id_/http%3A//www.investorwords.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investorwords.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217005930id_/http%3A//www.investorwords.com/privacypolicy.html) for the most accurate reproduction.*
 
-# InvestorWords.com - Disclaimer and Copyright©
+# InvestorWords.com - Privacy Policy, Disclaimer and Copyright©
+
+**Privacy Policy**
+
+We collect no information about our users that is not supplied voluntarily through web forms or e-mail. Any information collected in this manner is never shared with anyone unless expressly requested by the user. We do not sell or reveal user information to anyone. We may at times collect anonymous tracking information to gauge usage patterns and the popularity of specific areas of the site. As with all other information, these data do not leave InvestorGuide.com. Some of this data is gathered through the use of cookies. Cookies may be deactivated by the user at any time. They are not required for any InvestorGuide.com site to function properly. Transparent gifs or pixels may occasionally be used for the same purpose, but these items gather no personal data and have no effect on site use or navigation. 
+
+All of our newsletters are strictly opt-in, meaning that they are sent only to those who have specifically requested to receive them. Unsubscribe instructions are included at the bottom of each issue. Some newsletter issues include advertising, clearly identified as such. By signing up to receive our email newsletters, you also agree to receive occasional email announcements and special offers from our partners. However, no information gathered from newsletter subscribers, including e-mail addresses, is ever shared with or sold to any third-party. We are not responsible for the claims or representations made by advertisers and sponsors.
+
+To subscribe to the Investing Term of the Day newsletter, please type in your email address below and click on 'Subscribe'. 
 
 **Disclaimer**
 
@@ -12,14 +20,8 @@ We are not responsible for the claims or representations made by advertisers and
 
 Nothing on this site should be construed as an offer or solicitation to buy or sell any products or securities. All investments involve risk. Past performance does not guarantee future results. Investigate before you invest. 
 
-We collect no information about our users that is not supplied voluntarily through web forms or e-mail. Any information collected in this manner is never shared with anyone unless expressly requested by the user. We do not sell or reveal user information to anyone. We may at times collect anonymous tracking information to gauge usage patterns and the popularity of specific areas of the site. As with all other information, these data do not leave InvestorGuide.com. Some of this data is gathered through the use of cookies. Cookies may be deactivated by the user at any time. They are not required for any InvestorGuide.com site to function properly. Transparent gifs or pixels may occasionally be used for the same purpose, but these items gather no personal data and have no effect on site use or navigation. 
-
-All of our newsletters are strictly opt-in, meaning that they are sent only to those who have specifically requested to receive them. Unsubscribe instructions are included at the bottom of each issue. Some newsletter issues include advertising, clearly identified as such. By signing up to receive our email newsletters, you also agree to receive occasional email announcements and special offers from our partners. However, no information gathered from newsletter subscribers, including e-mail addresses, is ever shared with or sold to any third-party. We are not responsible for the claims or representations made by advertisers and sponsors. 
-
-To subscribe to the Investing Term of the Day newsletter, please type in your email address below and click on 'Subscribe'. 
-
 **Copyright©**
 
 InvestorWords is located at http://www.investorwords.com  
-Copyrigth©1997-2002 by InvestorGuide.com, Inc. ALL RIGHTS RESERVED.  
+Copyrigth©1997-2007 by InvestorGuide.com, Inc. ALL RIGHTS RESERVED.  
 Reproduction of all or part of this glossary, in any format, without the written consent of WebFinance, Inc. is prohibited. 
