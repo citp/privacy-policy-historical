@@ -1,11 +1,9 @@
-<!--The following is the downloaded HTML source of the uscollegesearch.org privacy policy that was archived on 2007-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070630192345id_/http%3A//www.uscollegesearch.org/us_college_search_privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the uscollegesearch.org privacy policy that was archived on 2007-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071216043013id_/http%3A//www.uscollegesearch.org/us_college_search_privacy_policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 <title>Colleges and Universities at U.S. College Search</title>
 <meta http-equiv="content-type" content="text/html;charset=iso-8859-1">
-<meta content="Colleges and Universities at U.S. College Search" name="keywords">
-<meta content="Colleges and Universities at U.S. College Search" name="description">
 <link rel="stylesheet" type="text/css" href="ucsstylesheet1.css">
 </head>
 <body bgcolor="#ffffff">
@@ -20,14 +18,10 @@
 <a href="/"><img src="../ucslogo.gif" width="168" height="94" border="0"></a></div>
 
 <div id="topzip">
-<table width="475" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td><p></p><h2 class="zipsearch">Colleges by Zip Code</h2><br>
+
+<p></p><h2 class="zipsearch">Colleges by Zip Code</h2><br>
   		Select a program, enter your Zip code, and find the college nearest to you.<p></p>
-	</td>
-  </tr>
-  <tr>
-    <td>
+
 <script type="text/javascript" language="JavaScript">
 function isZipEmpty()
 {
@@ -41,17 +35,23 @@ function isZipEmpty()
  }
 }
 </script>
-
-<div id="zipboxes">																					
-<form action="http://www.uscollegesearch.org/zip.php" name="topzipform" target="_self" method="get" onsubmit="return isZipEmpty(this);">
+													
+<form action="http://www.uscollegesearch.org/zip.php" name="topzip-frm" id="topzip-frm" target="_self" method="get" onsubmit="return isZipEmpty(this);">
 <input type="hidden" name="aid" value="1637">
-<input type="hidden" name="type" value="2">
+<input type="hidden" name="type" value="4">
 
 <input type="hidden" name="multiplecampaign" value="yes">
 <input type="hidden" name="stylesheet" value="http://www.uscollegesearch.org/uscresults.css">
 
-<select name="programtype" height="20px">	
+<select name="programtype">	
 <option value="0" selected="selected">select a program</option>
+<optgroup label="Most Requested">
+<option value="9">Business</option>
+<option value="10">Computer</option>
+<option value="29">Medical &amp; Healthcare</option>
+<option value="23">Legal &amp; Paralegal</option>
+</optgroup>
+<optgroup label="All Programs">
 <option value="1">Accounting &amp; Finance</option>					
 <option value="5">Advertising &amp; Marketing</option>		
 <option value="7">Airline &amp; Aviation</option>		
@@ -115,15 +115,10 @@ function isZipEmpty()
 <option value="33">Trucking</option>		
 <option value="2">Veterinary</option>		
 <option value="24">Welding &amp; Machine Trades</option>
+</optgroup>
 </select>
 <input type="text" name="zip" value="  enter your ZIP code" onclick="this.value=''"><br>
-<span>
-<input type="image" onclick="document.getElementById('schoolsearch').style.display = 'block';" src="zip_button.gif" onmouseover="src='zip_button_over.gif'" onmouseout="src='zip_button.gif'">
-<h3 class="zipsearch">Or call a Career Advisor at 1-866-496-5042</h3></span></form>							
-</div>
-	</td>
-  </tr>
-</tbody></table>
+<input type="image" onclick="document.getElementById('schoolsearch').style.display = 'block';" src="zip_button.gif" onmouseover="src='zip_button_over.gif'" onmouseout="src='zip_button.gif'">&nbsp;<h3 class="zipsearch">Or call a Career Advisor at 1-866-496-5042</h3></form> 
 </div>
 
 
@@ -190,6 +185,12 @@ function isZipEmpty()
   			<tr>
     			<td><img height="4" src="../bar.jpg" width="200" border="0"></td>
 			</tr>
+  			<tr>
+    			<td><a class="leftnav" href="call_advisor_info.html">Colleges by Phone</a></td>
+			</tr>
+  			<tr>
+    			<td><img height="4" src="../bar.jpg" width="200" border="0"></td>
+			</tr>
   			<tr>  
     			<td><a class="leftnav" href="online_colleges.html">Online Colleges</a></td>
 			</tr>
@@ -209,13 +210,13 @@ function isZipEmpty()
     			<td><img height="4" src="../bar.jpg" width="200" border="0"></td>
 			</tr>
   			<tr>
-    			<td><a class="leftnav" href="us_college_search_about_us.html">About Us</a></td>
+    			<td><a class="leftnav" href="us_college_search_about_us.php">About Us</a></td>
 			</tr>
   			<tr>
     			<td><img height="4" src="../bar.jpg" width="200" border="0"></td>
 			</tr>
   			<tr>
-    			<td><a class="leftnav" href="linking.html">Link to Us</a></td>
+    			<td><a class="leftnav" href="linking.php">Link to Us</a></td>
 			</tr>
   			<tr>
     			<td><img height="4" src="../bar.jpg" width="200" border="0"></td>
@@ -238,7 +239,7 @@ function isZipEmpty()
 			<tbody><tr>					
       			<td valign="top">
 				<div id="subleftnav"><a class="subnav" href="us_college_search_privacy_policy.html"><b>Privacy Policy &amp; Terms of Use</b></a>
-		  		<p><b>Copyright 2007</b></p>		
+		  		<p><b>Copyright © 2007</b></p>		
 				</div>
 				<div class="callcenter"><!-- RT#12326 bhorton removed 061907
 				<h1>Need help finding<br>a school?</h1>
@@ -337,12 +338,12 @@ function isZipEmpty()
 										<tr>
 											<td>
 												<p></p>
-												<h3>State:</h3>
-												<p><a href="arizona_colleges.html">Arizona Colleges</a><br>
-												<a href="california_colleges.html">California Colleges</a><br>
-												<a href="georgia_colleges.html">Georgia Colleges</a><br>
-												<a href="illinois_colleges.html">Illinois Colleges</a><br>
-												<a href="new_york_colleges.html">New York Colleges</a><br>
+												<h3>Colleges by State:</h3>
+												<p><a href="arizona_colleges.html">Arizona</a><br>
+												<a href="california_colleges.html">California</a><br>
+												<a href="georgia_colleges.html">Georgia</a><br>
+												<a href="illinois_colleges.html">Illinois</a><br>
+												<a href="new_york_colleges.html">New York</a><br>
 												</p>
 												<h3>Degree Programs:</h3>
 												<p><a href="art_colleges.html">Art Colleges</a><br>
@@ -388,12 +389,14 @@ function isZipEmpty()
 	<link href="ucsstylesheet1.css" rel="stylesheet" type="text/css">
 
 <div id="footer">
-<table cellspacing="0" cellpadding="0" width="100%" height="20px" bgcolor="#D31144" border="0">
+<table cellspacing="0" cellpadding="0" width="100%" height="20px" bgcolor="#BC0000" border="0">
 	<tbody><tr>
 		<td></td>
 	</tr>
 </tbody></table>
 </div>
+
+
 
 
 <!-- End Footer -->
