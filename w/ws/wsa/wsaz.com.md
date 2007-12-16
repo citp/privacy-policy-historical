@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the wsaz.com privacy policy that was archived on 2007-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070628190140id_/http%3A//www.wsaz.com/unclassified/647.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wsaz.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216011806id_/http%3A//www.wsaz.com/unclassified/647.html) for the most accurate reproduction.*
 
-# WSAZ - HomePage The Online leader for Severe Weather and Breaking News
-
-GRAY TELEVISION GROUP, INC. PRIVACY POLICY AND YOUR PRIVACY RIGHTS
+# WSAZ - HomePage Local News, Severe Weather and Breaking News Coverage for West Virginia, Ohio and Kentucky
 
 This Privacy Policy does not cover the “Ask the Experts” advertising feature that may be included on this website.  Please see the separate privacy policy on the [Ask the Experts homepage](http://www.asktheexperts.org/).
 
