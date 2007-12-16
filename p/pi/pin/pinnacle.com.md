@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pinnacle.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624222558id_/http%3A//www.pinnacle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinnacle.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216052755id_/http%3A//www.pinnacle.com/privacy) for the most accurate reproduction.*
 
 # PDSi | Privacy Policy
 
@@ -49,25 +49,3 @@ By using this Web site, you consent to the terms of our Online Privacy Policy an
 The PDSi Web site contains links to other Web sites. PDSi is not responsible for the content or privacy practices of those sites.
 
 {H0168986.2}
-
-### Which service is right for me?
-
-We can help you determine what your needs are based on your specific situation. Contact us and we’ll discuss all of our options and how they can help your company.
-
- [Get started today!](https://web.archive.org/web/20070624222558id_/http://www.pinnacle.com/requestinfo/ "Find a service.")
-
-### PDSi is committed to compliance with the RoHS Directive (DIRECTIVE 2002/95/EC) from the European Union (EU). 
-
-PDSi is committed to placing only RoHS compliant products on the market in the EU after June 30, 2006. We are also committed to complying with requirements of other applicable current or future environmental laws, where PDSi does business. Specific details about our products are available upon request.
-
-Labeling is not required by the RoHS Directive and no industry or regulatory standard for RoHS labeling exists. Currently, PDSi does not intend to label products as RoHS-compliant.
-
-PDSi's RoHS compliance planning is based on conformance to the RoHS Directive issued by the EU, and not on any specific Member State legislation or legislation from any other countries. As other environmental regulations are passed by the U.S. or other countries in which PDSi does business, PDSi's compliance planning will respond accordingly.
-
-### 
-
-Specializing in high-density embedded-computing platforms, PDSi has a proven track record and flexibility to provide solutions at each stage of the product’s lifecycle—from development to deployment to end-of-life.
-
-The goal of PDSi’s product lifecycle services is to integrate the design, manufacturing, production and support functions into a seamless and cohesive process.
-
- [Learn more](https://web.archive.org/web/20070624222558id_/http://www.pinnacle.com/services/lifecycle/ "Find a service.")
