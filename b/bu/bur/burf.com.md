@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the burf.com privacy policy that was archived on 2007-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070220022736id_/http%3A//www.burf.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the burf.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216052949id_/http%3A//www.burf.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Burf.com Alternative Search Engine and Entertainment Portal : Privacy Policy
 
@@ -30,6 +30,6 @@ Burf.com may create links to third party websites. Burf.com is not responsible f
 
 If you have any questions or indeed comments about our Online Privacy Statement,or for some reason believe we have not adhered to our statement, please contact:
 
-E-mail the Burf.com Data Protection Officer: [DataProtection@Burf.com](https://web.archive.org/web/20070220022736id_/http%3A//www.burf.com/mailto@DataProtection@Burf.com)
+E-mail the Burf.com Data Protection Officer: [DataProtection@Burf.com](https://web.archive.org/web/20071216052949id_/http%3A//www.burf.com/mailto@DataProtection@Burf.com)
 
 We may alter this statement as needed for certain products and services and to abide by local laws or regulations around the world. Burf.com reserves the right to amend or modify this statement from time to time. We urge you to review this statement whenever you visit in order to obtain the most current statement. You may change your choices at any time.
