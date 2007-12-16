@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the warcry.com privacy policy that was archived on 2007-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070202202502id_/http%3A//corp.warcry.com/index.phtml/content/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the warcry.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216122714id_/http%3A//corp.warcry.com/content/privacy_policy) for the most accurate reproduction.*
 
-# WarCry Network - The Front Line of Entertainment!
+# WarCry Corp. : Privacy Policy
 
 This document describes the privacy practices for WarCry Network (“WarCry”) and its affiliated companies. It makes it clear how WarCry treats personal information that WarCry collects and receives, including information related to your past use of WarCry products and services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available.
 
