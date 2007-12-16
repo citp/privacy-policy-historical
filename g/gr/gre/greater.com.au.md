@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greater.com.au privacy policy that was archived on 2007-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070220024327id_/http%3A//www.greater.com.au/PrivacyStatement/PrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greater.com.au privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216040328id_/http%3A//www.greater.com.au/PrivacyStatement/PrivacyStatement.aspx) for the most accurate reproduction.*
 
 # Greater Building Society Ltd
 
