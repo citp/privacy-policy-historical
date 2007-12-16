@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doyourownsite.co.uk privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607180119id_/http%3A//www.doyourownsite.co.uk/privacy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doyourownsite.co.uk privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216125259id_/http%3A//www.doyourownsite.co.uk/privacy.phtml) for the most accurate reproduction.*
 
 # DoYourOwnSite! - Privacy Policy
 
