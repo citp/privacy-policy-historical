@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cellularsouth.com privacy policy that was archived on 2007-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070407014142id_/http%3A//www.cellularsouth.com/privacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cellularsouth.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216143422id_/http%3A//www.cellularsouth.com/privacyPolicy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy | Cellular South
 
