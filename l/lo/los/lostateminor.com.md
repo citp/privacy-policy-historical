@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lostateminor.com privacy policy that was archived on 2007-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070519030917id_/http%3A//www.lostateminor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lostateminor.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216183125id_/http%3A//www.lostateminor.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - lostateminor.com
 
@@ -37,3 +37,5 @@ LEGAL DISCLAIMER
 Lost At E Minor may disclose personal information if required to do so by law or in the good-faith belief that such action is necessary to (a) conform to the edicts of the law or comply with legal process served on us, our partners, sponsors, investors, or affiliates; (b) protect and defend our rights or property or those of our users; and (c) act as immediately necessary in order to protect the personal safety of our users or the public.
 
 If you have any questions, please contact us [using the form on this page](https://web.archive.org/about/ "Contact us").
+
+  |   [Email this page](http://www.lostateminor.com/privacy-policy/emailpage/ "Email this page")
