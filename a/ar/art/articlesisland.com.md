@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the articlesisland.com privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622152556id_/http%3A//www.articlesisland.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlesisland.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216135850id_/http%3A//www.articlesisland.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Articles island
 
-This privacy statement created by [ArticlesIsland.com](https://web.archive.org/web/20070622152556id_/http%3A//) in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for [ArticlesIsland.com](http://www.articlesisland.com/).
+This privacy statement created by [ArticlesIsland.com](https://web.archive.org/web/20071216135850id_/http%3A//) in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for [ArticlesIsland.com](http://www.articlesisland.com/).
 
 **IP**  
 We use your IP address, browser type, domain names, and access times, operating system, country of origin, page views, and users sessions to help diagnose problems with our servers, and to administer our Web site. Your IP, etc. address is used to gather broad demographic information.
