@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the softsurroundingsoutlet.com privacy policy that was archived on 2007-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070528161500id_/http%3A//www.softsurroundingsoutlet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softsurroundingsoutlet.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216020506id_/http%3A//www.softsurroundingsoutlet.com/privacy) for the most accurate reproduction.*
 
 # SoftSurroundingsOutlet.com
 
