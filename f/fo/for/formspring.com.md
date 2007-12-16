@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the formspring.com privacy policy that was archived on 2007-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070615064054id_/http%3A//www.formspring.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the formspring.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216025959id_/http%3A//www.formspring.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - FormSpring
 
@@ -8,7 +8,7 @@ FormSpring respects each individual's right to personal privacy. We will collect
 
 ## Disclaimer
 
-However, any information collected by FormSpring may be shared if it is necessary to investigate, prevent or prosecute illegal activities, suspected fraud, violations to the [Terms of Service](https://web.archive.org/web/20070615064054id_/http%3A//www.formspring.com/terms.html) , or as otherwise required by law or a valid government request (including but not limited to search warrants, subpoenas, or court orders). 
+However, any information collected by FormSpring may be shared if it is necessary to investigate, prevent or prosecute illegal activities, suspected fraud, violations to the [Terms of Service](https://web.archive.org/web/20071216025959id_/http%3A//www.formspring.com/terms.html) , or as otherwise required by law or a valid government request (including but not limited to search warrants, subpoenas, or court orders). 
 
 ## Account Information
 
