@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adultwhoswho.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205192513id_/http%3A//www.adultwhoswho.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adultwhoswho.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216042233id_/http%3A//www.adultwhoswho.com/privacy.html) for the most accurate reproduction.*
 
-# Adult Who's Who
+# Adult Who's Who - Privacy
 
 At adultwhoswho.com (AWW), we are committed to respecting people's privacy online. We are also committed to providing you with the very best experience we can on our website. In order to do so, we may gather certain personal information about you. Please read the following policy to understand how your personal information will be treated as you make full use of our website. This policy may change from time to time so please check back periodically. 
 
