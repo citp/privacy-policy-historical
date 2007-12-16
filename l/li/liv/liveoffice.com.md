@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the liveoffice.com privacy policy that was archived on 2007-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070504054330id_/http%3A//www.liveoffice.com/policy/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liveoffice.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216131027id_/http%3A//www.liveoffice.com/policy/privacy.asp) for the most accurate reproduction.*
 
 # LiveOffice Managed Messaging Services Privacy Policy
 
-The LiveOffice Corporation (LiveOffice) is committed to protecting any personal information that you may provide to us. In particular, we believe it is important for you to know how we treat information about you.
+LiveOffice LLC (LiveOffice) is committed to protecting any personal information that you may provide to us. In particular, we believe it is important for you to know how we treat information about you.
 
 ### Information Collected
 
