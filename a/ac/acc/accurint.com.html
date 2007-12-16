@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the accurint.com privacy policy that was archived on 2007-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070623052826id_/http%3A//www.lexisnexis.com/terms/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the accurint.com privacy policy that was archived on 2007-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071216053626id_/http%3A//www.lexisnexis.com/terms/privacy) for the most accurate reproduction.-->
 
 <html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -45,7 +45,50 @@
 <br><br>
       &nbsp;&nbsp;<img src="/commonimages/header/HdrSubscribers_yes.gif" alt="Current Subscribers" width="105" height="8" border="0"> 
       <form style="margin:0px;">
-      &nbsp;&nbsp;<select name="login" onchange="location.href = options[selectedIndex].value; return false;" style="FONT-SIZE: 8pt; FONT-FAMILY: Arial, Helvetica">
+      &nbsp;&nbsp;<script language="JavaScript">
+function dcsMultiTrack2(targetlink){
+	for (var i=0;i<arguments.length;i++){
+		if (arguments[i].indexOf('WT.')==0){
+				WT[arguments[i].substring(3)]=arguments[i+1];
+				i++;
+		}
+		if (arguments[i].indexOf('DCS.')==0){
+				DCS[arguments[i].substring(4)]=arguments[i+1];
+				i++;
+		}
+		if (arguments[i].indexOf('DCSext.')==0){
+				DCSext[arguments[i].substring(7)]=arguments[i+1];
+				i++;
+		}
+	}
+	
+	WT.ti=window.location +'999'+targetlink;
+	DCS.dcsuri='/productsignon'+window.location.pathname
+	DCS.dcsqry=window.location +'999'+targetlink;
+	WT.cg_n=window.location;
+	WT.cg_s=targetlink;
+	var dCurrent=new Date();
+	DCS.dcsdat=dCurrent.getTime();
+	dcsTag();
+}
+
+function signonredirect(targetlink) {
+	//dcsMultiTrack2('DCS.dcsuri','/productsignon'+window.location.pathname,'WT.ti',window.location +'999'+targetlink, 'WT.cg_n', window.location, 'WT.cg_s', targetlink, 'DCS.dcsqry', window.location +'999'+targetlink);
+	dcsMultiTrack2(targetlink);
+	
+	var rfr;
+	rfr="";
+	if ((window.document.referrer!="")&&(window.document.referrer!="-"))
+	{
+		rfr=window.document.referrer;
+	}
+	return "/search/redirect.asp?rfr=" + rfr + "&location=" + window.location + "&target=" + targetlink;
+
+	//<select NAME="login" onChange="location.href = 'http://qa-global.lexisnexis.com/go.aspx?' + options[selectedIndex].value + '&referrer='+window.document.referrer; return false;" style="FONT-SIZE: 8pt; FONT-FAMILY: Arial, Helvetica" >
+}
+
+</script>
+<select name="login" onchange="location.href = signonredirect(options[selectedIndex].value); return false;" style="FONT-SIZE: 8pt; FONT-FAMILY: Arial, Helvetica">
                 <option value="null">Sign on to your service</option>
 				<option>---------------------------------</option>
 				<option value="http://www.lexis.com/research">LexisNexis at lexis.com</option>
@@ -55,7 +98,6 @@
               <option>---------------------------------</option>
               <option value="http://web.lexis-nexis.com/universe/">Academic</option>
 			  <option value="http://www.accurint.com">Accurint</option>
-			   <option value="/alacarteLNmain">AlaCarte</option>
               <option value="http://www3.lexis.com/analyzer">Analyzer</option>
               <option value="http://www.nexis.com/aml">Anti-Money Laundering Solutions</option>
 			  <option value="https://atvantage.lexisnexis.com/">atVantage</option>
@@ -63,7 +105,6 @@
               <option value="http://www.nexis.com/collectionsolutions">Collection Solutions</option>
               <!--<option value="http://www.lexis.com/research/dossier/">Company Dossier</option>-->
               <option value="http://web.lexis-nexis.com/congcomp/">Congressional</option>
-			   <option value="http://copyguard.lexisnexis.com/">CopyGuard</option>
               <option value="/corpcounsel/">Corporate Legal</option>
               <option value="http://courtlink.lexisnexis.com">CourtLink</option>
 			  <option value="https://courtlink.lexisnexis.com/Billing/Login.asp?OriginalPage=%2FCLIP%2FClipMenu%2Easp">CourtLink Strategic Profiles</option>
