@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the immihelp.com privacy policy that was archived on 2007-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070616093513id_/http%3A//www.immihelp.com/misc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the immihelp.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216220048id_/http%3A//www.immihelp.com/misc/privacy.html) for the most accurate reproduction.*
 
 # Immihelp Privacy Policy
 
@@ -48,7 +48,7 @@
 ---  
  [Tips, Newcomer to USA](https://web.archive.org/newcomer/)  
  [Travel to USA](https://web.archive.org/travel/)  
-     [More...](https://web.archive.org/guide/)  
+     [More...](https://web.archive.org/newcomer/)  
 |  Printer Friendly    [Send to Friend](https://web.archive.org/script/referfriend.jsp) Privacy Policy
 
   1. Immihelp®.com values the privacy of information pertaining to its visitors. We do not use or disclose information about your individual visits to our web site or information that you may give us, such as your name, email address, to any outside sources.
