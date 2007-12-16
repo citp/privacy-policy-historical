@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the vibe.com privacy policy that was archived on 2007-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070606010050id_/http%3A//www.vibe.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vibe.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216060155id_/http%3A//www.vibe.com/about/privacy) for the most accurate reproduction.*
 
-# VIBE.com: Privacy Policy
-
-Privacy Policy  
-POSTED: 19:47 EST, January 11, 2005
+# Privacy Policy : VIBE.com
 
 ## PRIVACY POLICY
 
@@ -46,5 +43,3 @@ Most browsers are initially set to accept cookies. If you'd prefer, you can set 
 We reserve the right, at our discretion, to change, modify, add, or remove portions of this policy at any time. Please check this page periodically for changes. Your continued use of the our sites following the posting of changes to these terms will mean you accept those changes. You can send e-mail to us with any further questions at [info@vibe.com](mailto:info@vibe.com).
 
 **Mobile Vibe & Text Message Alerts** A cell phone number is only required if you want Mobile Vibe messages such as news alerts sent to your mobile phone. You may register for these alerts here. As with your other Personal Information, we use your cell phone number only for the purposes of delivering those Mobile Vibe services to which you have opted-in. At opt-in, we also may ask for optional General Information, including your age and gender. You are not required to give us this information to receive text message alerts. If you would like to stop receiving text message alerts, simply reply to any alert with the word QUIT, or send an email with your mobile number and a request to be unsubscribed from the service to [mobile@vibe.com](mailto:mobile@vibe.com).
-
-[](https://web.archive.org/newsletter/subscribe.html "Daily VIBE")
