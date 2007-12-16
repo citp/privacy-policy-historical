@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alc.ca privacy policy that was archived on 2007-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070616103309id_/http%3A//www.alc.ca/English/Legal/%23Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alc.ca privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216181812id_/http%3A//www.alc.ca/English/Legal/%23Privacy) for the most accurate reproduction.*
 
 # ALC: Legal Information
 
