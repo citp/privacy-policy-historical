@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tdameritrade.com privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613214919id_/http%3A//tdameritrade.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tdameritrade.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216023107id_/http%3A//www.tdameritrade.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement - TD AMERITRADE - Use and Protection of Client Information
 
@@ -7,7 +7,7 @@ TD AMERITRADE Privacy Statement
   
 **Our Pledge To You**
 
-The trust of our clients is our most precious asset. Protecting your privacy and safeguarding your personal and financial information is one of our highest priorities. The following Privacy Statement explains how TD AMERITRADE, Inc. collects and protects your information. References to "TD AMERITRADE" in this Privacy Statement include all TD AMERITRADE, Inc. companies and divisions.
+The trust of our clients is our most precious asset. Protecting your privacy and safeguarding your personal and financial information is one of our highest priorities. The following Privacy Statement explains how TD AMERITRADE, Inc. collects and protects your information. References to "TD AMERITRADE" in this Privacy Statement include all TD AMERITRADE, Inc. companies and divisions, Amerivest Investment Management, LLC and Ameritrade Advisory Services, LLC.
 
 If you have any questions that this statement does not address, please contact a Client Services representative. By opening a TD AMERITRADE account or by using TD AMERITRADE Web sites, you give your consent to the collection and use of personal information by TD AMERITRADE as explained in this statement. Any dispute over our Privacy Statement is subject to this notice and the TD AMERITRADE, Inc. Terms and Conditions, including arbitration of disputes and limitation of damages.
 
@@ -68,7 +68,7 @@ TD AMERITRADE may share information with affiliates if the information is requi
 
 Examples of partners and alliances may be financial or non-financial companies, such as airlines, credit card companies, telecommunications companies, and other services providers. Types of information shared are name, e-mail address, mailing address, date of birth, employment status, and general account and demographic information.
 
-An affiliate is a company that we own or control or with which there is common ownership with us and our parent company. An example of an affiliate is our sister company Amerivest Investment Management, LLC, a subsidiary of TD AMERITRADE Holding Corporation. We may share with our affiliates information about our transactions and experiences with you such as name, e-mail address, mailing address, date of birth, employment status, and general account and demographic information. This information may be used for internal reporting, anticipating margin calls, and development strategies. We do not share information other than the types of transaction and experience information described above with our affiliates.
+An affiliate is a company that we own or control or with which there is common ownership with us and our parent company. An example of an affiliate is TD AMERITRADE's sister company Amerivest Investment Management, LLC, a subsidiary of TD AMERITRADE Holding Corporation. We may share with our affiliates information about our transactions and experiences with you such as name, e-mail address, mailing address, date of birth, employment status, and general account and demographic information. This information may be used for internal reporting, anticipating margin calls, and development strategies. We do not share information other than the types of transaction and experience information described above with our affiliates.
 
 **Do we share the information collected with any other third parties?**   
 The cornerstone of our Privacy Statement is the commitment to keep our clients' personal information confidential. TD AMERITRADE does not sell, license, lease or otherwise disclose your personal information to any third party for any reason, except as noted earlier and as described below: 
@@ -119,4 +119,4 @@ Yes. Personal identifying information may be reviewed, changed or corrected at a
 **How will I know if there are any changes to this Privacy Statement?**  
 In the event TD AMERITRADE materially changes this Privacy Statement, the revised Privacy Statement will promptly be posted to the Web site and we will post a notice on the Web site informing you of such changes. Additionally, this Privacy Statement has an effective date displayed in the lower, left corner indicating when it first came into effect. You should review this Privacy Statement periodically to remain informed of any changes. You agree to accept posting of a revised Privacy Statement electronically on the Web site as actual notice to you. 
 
-AMTD 800 F 02/07 
+AMTD 800 F Effective 10/01/2007 
