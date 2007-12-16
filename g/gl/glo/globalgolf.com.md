@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the globalgolf.com privacy policy that was archived on 2007-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070531202107id_/http%3A//www.globalgolf.com/AboutUs/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalgolf.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216080020id_/http%3A//www.globalgolf.com/aboutus/privacy/default.aspx) for the most accurate reproduction.*
 
 # GlobalGolf.com Privacy Policy
 
   
-| E-Mail Exclusives  
+| Exclusive Offers  
 ---  
-Receive exclusive offers, golf tips and more!  
+Golf deals delivered to you.  
   
 Your privacy is very important to GlobalGolf.com, Inc. (sometimes referred to as "we", "us", or "GlobalValueCommerce"), and we are committed to respecting your privacy on this site. In order to provide our Services, we will require information (including address and credit card information) regarding our Users. We will maintain the confidentiality of information provided in accordance with our Privacy Policy. 
 
