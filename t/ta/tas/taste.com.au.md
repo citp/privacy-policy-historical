@@ -1,92 +1,78 @@
-> *The following text is extracted and transformed from the taste.com.au privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623211845id_/http%3A//www.taste.com.au/page/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taste.com.au privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216232306id_/http%3A//www.taste.com.au/page/privacypolicy) for the most accurate reproduction.*
 
 # Privacy policy - Taste.com.au
 
-This Privacy Policy statement was last updated: November 13, 2006. 
+[Taste.com.au](http://www.taste.com.au/) Privacy Policy statement - last updated: July 27, 2007
 
-This statement has been produced with reference to the guidelines set out by the Office of the Federal Privacy Commissioner, Australia. For more information visit: [www.privacy.gov.au](http://www.privacy.gov.au/)
+News Digital Media (NDM) recognises the importance of protecting the privacy of personally identifiable information collected about our customers. For the purposes of this Privacy Statement, the word customers includes visitors to our web sites, subscribers to and users of our services, purchasers of our products and advertising customers.
 
-The Federal Publishing Company is committed to providing its customers and clients with the highest possible standards of product and service. As part of that commitment we have produced the following Privacy Policy statement to help you better understand the privacy issues that arise as a result of the use of our website products and services. 
+We are bound by the National Privacy Principles in the Privacy Act 1988 (Cth) in relation to the handling of personal information. Where appropriate we will handle personal information relying on the media exemption (but complying with the Australian Press Council Privacy Standards), related bodies corporate exemption and the employee exemption in the Privacy Act.
 
-This policy statement will address the following:
+## Personal Information
 
-  * The types of information we collect
-  * How we use or disclose the information we collect
-  * The quality and security of the information we hold
-  * Your access to the information we hold
-  * Transborder (interstate and international) data movement
-  * Your participation on our websites
-  * Links to other websites
-  * Our policy on children's privacy protection
-  * How to contact us for more information 
+We collect personal information when we provide our services to you. Generally we will tell you why we are collecting information when we collect it and how we plan to use it or these things will be obvious when we collect the information.
 
+We usually collect personal information directly from you although sometimes we may use agents or service providers to do this for us. We may also acquire lists from other sources, both from other companies and from other public documents.
 
+## Use of Information
 
-## The types of information we collect
+We usually collect personal information such as your name, address, telephone number, and in some instances, your financial details. When you are online, we collect information regarding the pages within our network which you visit and what you click on. As a general rule we do not collect sensitive information. However, if we do, it will usually be for the purposes of providing our goods or services and if the law requires us to, we will seek your consent to collect it.
 
-In general, when you visit our websites you do not have to tell us who you are, or reveal any personally identifiable information to us. Unless you specifically agree to tell us, we will never know who you are, and you are able to interact with our websites in a relatively anonymous way. 
+We use your information to provide our services to you, to fulfil administrative functions associated with these services, for example billing, to enter into contracts with you or third parties and for marketing and client relationship purposes. Where your personal information is contained within an advertisement which we publish for you, we may also use your information for publication of that same advertisement in other media, in accordance with the terms and conditions of the initial publication.
 
-Personally identifiable information is defined as any specific data that could disclose you as an individual, such as your name, address, telephone number, billing and shipping information, credit card information or e-mail address. 
+We may share your information with other companies which are related to News Limited, within Australia. We or they may also use your personally identifiable information to assist us in improving our products and services and any of us might be in touch to let you know about goods, services, or promotions which may interest you.
 
-When you visit our websites our servers automatically record basic information about your usage, such as the type of internet browser and operating system you are using, the date, time and duration of your visit and the pages you viewed. This information is anonymous and does not identify you as an individual, nor will we combine it with information that does identify you as an individual. This information is collected and analysed to provide us with a greater understanding of how you use our websites. 
+## Use by Third Parties
 
-Where necessary we collect personally identifiable information on certain areas of our websites, for example, if you register on a forum, enter a competition or subscribe to an e-mail newsletter. 
+NDM may disclose your information to its service providers and contractors from time to time to help us to provide and market our goods and services to you. We may also share your information with third parties who provide prizes for competitions or reader offers. If we do this we generally require these parties to protect your information in the same way we do.
 
-The personally identifiable information collected may consist of a username or unique user ID and contact information, such as your name, email address, mailing address, telephone and fax numbers. You may have the opportunity to make purchases on our websites, in which case we would need to collect your order information, credit card details and delivery instructions in order to facilitate payment and shipment. 
+## Use of Aggregate Data
 
-From time to time we may invite you to answer survey questions and provide certain demographic information, such as your age, sex, income bracket, country of access, and location of connection, (e.g., home or work). Your response to these types of surveys is entirely voluntary and you should feel no obligation to participate. 
+We may collect certain non-personal information to optimise our goods and services including our Web pages for your computer (e.g., the identity of your Internet browser, the type of operating system you use, your IP address and the domain name of your Internet service provider). We may use such non-personal information for internal purposes, including but not limited to improving the content of our sites.
 
-At times we may use a feature of your browser (called a "cookie") to automatically assign you a unique user ID or a session ID. A cookie, by itself, cannot be used to find out your identity, it merely identifies your computer to our servers when you visit our websites. We will not combine your user ID or session ID with information that does identify you as an individual. You may, at anytime, set your browser to allow, notify you or refuse altogether the use of cookies. 
+NDM may use personally identifiable information in aggregate form to improve our goods and services including our Web sites and make them more responsive to the needs of our customers. This statistical compilation and analysis of information may also be used by News or provided to others as a summary report for marketing, advertising or research purposes.
 
-## How we use or disclose the information we collect
+## Security
 
-In general, the information we collect is used for our own analysis aimed at improving our products and services. We use personally identifiable information to fulfil your requests or orders for specific services or products. We may also use personally identifiable information to perform other functions including, demographic analysis of site usage (who is visiting our websites and what they are interested in), customising advertising and content seen by our users, and improving our marketing and promotional efforts. 
+NDM strives to ensure the security, integrity and privacy of personally identifiable information of our customers. We use a variety of physical and electronic security measures including restricting physical access to our offices and firewalls and secure databases to keep personal information secure from misuse, loss or unauthorised use or disclosure.
 
-We will not intentionally disclose any personally identifiable information and we do not sell, trade or rent such information to third parties (such as advertisers or telemarketers). 
+Unfortunately, no data transmission over the Internet can be guaranteed to be totally secure.
 
-Any personally identifiable information you provide will only be provided to third parties if:
+## Access to Personal Information
 
-  * You consent to such a disclosure
-  * We are compelled or authorised to do so by law
-  * We reasonably believe there is a threat to someone's life or health
-  * Our website or business is sold to, or merged with another entity 
+You have a right to access most personal information we hold about you and if we deny access in some circumstances we will tell you why.
 
+To request access, please contact our privacy officer as set out at the end of this document.
 
+## Public Information
 
-## The quality and security of the information we hold
+Any information posted on bulletin boards and/or communicated in chat areas becomes public information. While NDM strives to protect and respect your privacy, we cannot guarantee the security of any information you disclose in a chat room or bulletin board.
 
-Any information you provide to us is stored and held under generally accepted standards of technology and operational security in order to protect your personally identifiable information from loss, misuse, alteration, or destruction. Only authorised personnel are provided access to personally identifiable information and these personnel are required to treat this information as confidential. Despite these precautions, we cannot guarantee absolutely that any and all unauthorised access to your personally identifiable information will be prevented. 
+## Cookies
 
-## Your access to the information we hold
+Cookies are data that a Web site transfers to an individual's hard drive for record-keeping purposes. Cookies can facilitate a user's ongoing access to and use of a site. They allow us to track usage patterns and to compile data that can help us improve our content and target advertising. If you do not want information collected through the use of Cookies, there is a simple procedure in most browsers that allows you to deny or accept the Cookie feature. But you should note that Cookies may be necessary to provide you with features such as merchandise transactions or registered services.
 
-If you would like to access, correct, update or de-activate any information you have submitted, please send a request to privacy@fpc.com.au. We will modify or de-activate any information that could be used to identify you as soon as practicable after your request, unless we are required or authorised by law not to do so. Once de-activated your data will not be accessible, however, due to system backups to various types of data storage media, your data may in some circumstances remain on these types of data storage media. 
+## Online Links to Third Party and Co-Branded Sites 
 
-## Transborder (interstate and international) data movement
+NDM may establish relationships with business partners that allow visitors to our Internet sites to link directly to sites operated by these partners. Some of these sites may be "co-branded" with our logo; however, these sites may not be operated or maintained by or on our behalf. These sites may collect personal information from you that may be shared with us. This Privacy Statement will apply to any personal information we obtain in this manner.
 
-At times, personally identifiable information collected from our websites may be transferred between our offices or data storage facilities located in Australia or internationally. Our websites may be viewed and hosted anywhere in the world, including countries that may not have specific laws regulating the collection, use and transfer of personally identifiable data. By using our websites and submitting such information on it, you voluntarily consent to such transborder transfers and hosting of such information. 
+NDM is not responsible for the content or practices of Web sites operated by third parties that are linked to our sites. These links are meant for the user's convenience only. Links to third party sites do not constitute sponsorship, endorsement or approval by NDM of the content, policies or practices of those third party sites. Once you have left our site via such a link, you should check the applicable privacy policy of the third party site.
 
-## Your participation on our websites
+## What else you should know about privacy on the Internet
 
-By using our websites, you consent to the collection, use, and storage of your information by us in the manner described in this Privacy Policy and elsewhere on our websites. We reserve the right to make changes to our Privacy Policy from time to time. We will alert you to any such changes by updating the privacy section of our websites, and encourage you to check this page from time to time. 
+Remember to close your browser when you have finished your user session. This is to ensure that others cannot access your personal information and correspondence if you share a computer with someone else or are using a computer in a public place like a library or Internet cafe. You as an individual are responsible for the security of and access to your own computer.
 
-## Links to other websites
+Whenever you voluntarily disclose personal information over the Internet that this information can be collected and used by others. In short, if you post personal information in publicly accessible online forums, you may receive unsolicited messages from other parties in return. Ultimately, you are solely responsible for maintaining the secrecy of your username and passwords and any account information. Please be careful and responsible whenever you are using the Internet.
 
-Our websites provide links to other third party websites outside our network and immediate control. We do not accept any responsibility for their activities, and we advise you to examine the terms and conditions of using their websites before disclosing any information to them. 
+## For further information
 
-## Our policy on children's privacy protection
+Please contact our Privacy Officer to ask for access to your information or if you have a complaint concerning your information privacy or if you would like more information about our approach to privacy.
 
-We understand the importance of protecting the privacy of children, especially in an online environment. Our websites are not intentionally designed for or directed at children, and we do not intentionally collect or maintain information about children. 
+Privacy Officer  
+News Digital Media  
+02 9288 3000  
+Level 3  
+2 Holt Street  
+Surry Hills 2010
 
-## How to contact us for more information
-
-If you have any questions or comments regarding this policy, please email us at: 
-
-[privacy@fpc.com.au](mailto:privacy@fpc.com.au)
-
-or you can write to us at: 
-
-Online Privacy Manager  
-The Federal Publishing Company  
-Locked Bag 5030  
-Alexandria NSW 2015  
-Australia
+[Contact us](http://www.taste.com.au/page/contactus/) through this online form.
