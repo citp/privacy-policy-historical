@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the liveperson.net privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609172941id_/http%3A//www.liveperson.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liveperson.net privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216134518id_/http%3A//www.liveperson.com/about/privacy.asp) for the most accurate reproduction.*
 
-# Live chat software, Live support, Chat software, Live chat by LivePerson
+# Live chat, email management, click to talk software by LivePerson
 
 | 
 
