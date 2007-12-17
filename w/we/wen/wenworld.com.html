@@ -1,229 +1,485 @@
-<!--The following is the downloaded HTML source of the wenworld.com privacy policy that was archived on 2001-04-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010404233450id_/http%3A//www.wenworld.com/Contactus/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wenworld.com privacy policy that was archived on 2007-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071217223937id_/http%3A//wenatcheeworld.com/article/20070314/SANDR/70314001/1001) for the most accurate reproduction.-->
 
-<html><head></head><body link="#336699" vlink="#663399" alink="#006699" background="/GIFS/bg.GIF"><macro header("copyright="" notice")="">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<title>The Wenatchee World Online</title>
+<link href="/includes/front.css" rel="stylesheet" type="text/css" media="screen">
+<!--[if lte IE 7]>
+<link href="/includes/front_msie.css" rel="stylesheet" type="text/css" media="screen" />
+<![endif]-->
+<link href="/includes/section2.css" rel="stylesheet" type="text/css" media="screen">
+<link href="/includes/secstyles.css" rel="stylesheet" type="text/css" media="screen">
+<link rel="alternate stylesheet" type="text/css" href="/includes/large.css" title="A++">
+<link rel="alternate stylesheet" type="text/css" href="/includes/medium.css" title="A+">
+<link rel="alternate stylesheet" type="text/css" href="/includes/small.css" title="A">
+<link rel="alternate stylesheet" type="text/css" href="/includes/x-small.css" title="A-">
+<script language="JavaScript1.2" src="/includes/styleswitcher.js" type="text/javascript">
+</script>
+<script src="/js/wwmenu.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+	 document.write( 
+      '<script src="http://maps.google.com/maps?file=api&amp;v=2&amp;key=' + 
+      ({ 
+         'www.wenatcheeworld.com': 'ABQIAAAApeIJ9UamMrIfqHDyjn-BHRTIK95kGX6QJdkU68BQiigGlhvYbRSzpvwr3xROn9leAcS8Y5vjjpUtyA', 
+         'wwstage.sv.publicus.com': 'ABQIAAAApeIJ9UamMrIfqHDyjn-BHRT9xex2iZqx8cWdMnF-h0_LVJVCkxToxdeXY-cM7sUK_r2Sq747-tWKMQ', 
+         'wwedit.sv.publicus.com': 'ABQIAAAApeIJ9UamMrIfqHDyjn-BHRTvQcGirrNp_v1PGz4njn4inuAU4hT6iD1Lw5nQNhEBeONQVhWswJoo1g', 
+         'www.wenworld.com': 'ABQIAAAApeIJ9UamMrIfqHDyjn-BHRQviVzb-9ItbE0jCsdh-qCgOw-hERR-5sFyhcPW-Z2YBZaY9zS9RtWYjQ', 
+		 'wenworld.com': 'ABQIAAAApeIJ9UamMrIfqHDyjn-BHRSKZIxkXqsI9ci-AGZ-1Ak-0H64IBQ-Lg8mkdQVKNhH3hKo5Xlb99f7iw',
+         'kirisute.wenworld.com': 'ABQIAAAApeIJ9UamMrIfqHDyjn-BHRS5ycs-Qk4J7Ve8BEjpLPsDEZYstRTRfAQc7qga5UjjQ__MdZFzda_mqg', 
+         'wenatcheeworld.com': 'ABQIAAAApeIJ9UamMrIfqHDyjn-BHRRrBFgdB_RDLv5Er2-cfxacqQx6fBTP8o8YabJeqZFjwQmFKdmjthEidw' 
+      }[location.host] || 'ABQIAAAApeIJ9UamMrIfqHDyjn-BHRT9xex2iZqx8cWdMnF-h0_LVJVCkxToxdeXY-cM7sUK_r2Sq747-tWKMQ') + 
+      '" type="text/javascript"><\/script>' ); 
+</script><script src="http://maps.google.com/maps?file=api&amp;v=2&amp;key=ABQIAAAApeIJ9UamMrIfqHDyjn-BHRT9xex2iZqx8cWdMnF-h0_LVJVCkxToxdeXY-cM7sUK_r2Sq747-tWKMQ" type="text/javascript"></script> 
+<script language="JavaScript1.2"> 
+	function NewWindow(height,width,url) 
+	{window.open(url,"ShowProdWindow","menubars=0,scrollbars=1,resizable=1,height="+height+",width="+width); 
+	} 
+</script> 
+<script language="javascript">
+	function mapURL() {
+		var loc = document.getElementById("location");
+		var locadd = loc.innerHTML;
+		locadd = locadd.replace(/&amp;/,"&");
+		locadd = escape(locadd);
+		var locURL = "/misc/mappop.html?" + locadd;
+		window.open(locURL,'newWind','toolbar=no,location=no,status=no,menubar=no,resizable=yes,width=560,height=510');
+	}
+</script>
+<script type="text/javascript">
+    //<![CDATA[
+
+    var map = null;
+    var geocoder = null;
+
+	function gup( name ) {
+	  name = name.replace(/[\[]/,"\\\[").replace(/[\]]/,"\\\]");
+	  var regexS = "[\\?&]"+name+"=([^&#]*)";
+	  var regex = new RegExp( regexS );
+	  var unx = "?" + document.getElementById("location").innerHTML;
+	  unx = unx.replace(/&amp;/,"&");
+	  var results = regex.exec( unx );
+	  if( results == null )
+		return "";
+	  else
+		return results[1];
+	}
+
+    function showAddress() {
+	  var address = "";
+	  var loc = document.getElementById("location").innerHTML;
+	  mb = document.getElementById("mapbox");
+	  if (loc.length > 0) {
+		mb.style.visibility = "visible";
+		mb.style.display = "block";
+	  } else {
+	    mb.style.visibility = "hidden";
+		mb.style.display = "none";
+		return;
+	  }
+	  if (gup('g')) {
+		address = unescape(gup('g'));
+	  }
+      if (GBrowserIsCompatible()) {
+        map = new GMap2(document.getElementById("map"));
+        // map.addControl(new GSmallMapControl());
+		// map.addControl(new GScaleControl());
+      	geocoder = new GClientGeocoder();
+		
+		// if lat and lng are passed, use them
+		// NOTE: must pass second parameter as positive number
+		var l1 = gup('l1');
+		var l2 = gup('l2');
+		if (l1 ) {
+		   var mpt = new GLatLng(l1,l2);
+	       map.setCenter(mpt, 16);
+		   var marker = new GMarker(mpt);
+		   map.addOverlay(marker);
+		// otherwise, set the title to the address and use that
+		
+		} else {
+		 if (geocoder) {
+			geocoder.getLatLng(
+			  address,
+			  function(point) {
+				if (!point) {
+				  alert(address + " not found");
+				} else {
+				  map.setCenter(point, 16);
+				  var marker = new GMarker(point);
+				  map.addOverlay(marker);
+				}
+			  }
+			);
+		  }
+		  }
+   		}
+	}
+    //]]>
+    </script>
+	<style>
+	.hs_text
+	{
+	background-color: #FFFFFF;
+	font-family: verdana,sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+	color: #343434;
+	text-align: left;
+	}
+	.text11_am {
+		font-family:Arial, Helvetica, sans-serif;
+		font-size: 11px;
+		color: #666666;
+	}
+	input
+	{
+	font-family: verdana,sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+	color: #333333;
+	}
+	.searchBoxHeadCont {padding-bottom:10px;}
+	.searchBoxHead
+	{
+	font-family: verdana, arial, sans-serif;
+	color: #CCCCCC;
+	font-size: 14px;
+	font-weight: bold;
+	background: #FFFFFF;
+	padding: 2px;
+	margin-top: 10px;
+	}
+	#smr-01 {width:180px; height:400px; float:right; clear:right;}
+	</style>
+</head>
+<body onload="MM_preloadImages('/menu_images/news_off.gif');MM_swapImage('imgNews','','/menu_images/news_on.gif',1); draw_sm(0,11);showAddress();" onunload="GUnload()">
+<div id="wrap_outer">
+  <div id="wrap_inner">
+    <div id="masthead">
+      <!--header to leaderboard ad -->
+      <!--use of  here for various header.jpg's for sections -->
+      <div id="logodiv"><img src="/images/section_header3.jpg" alt="The Wenatchee World Online"></div>
+      <div id="searchbox">
+        <table cellpadding="0" cellspacing="0" border="0" width="188px">
+      	<!-- includes/registration_header2.inc -->
+
+	<tbody><tr>
+		<td class="text12_g" align="right"><a class="text12_g" href="/apps/pbcs.dll/frontpage?forceuserreg=1">Register</a> | <a href="/apps/pbcs.dll/frontpage?categor=FRONTPAGE&amp;forcelogin=1">Log in</a></td>
+	</tr>
 
 
-
-<title>Wenatchee World Online</title>
-
-<meta name="description" content="The World Online is North Central Washington's primary source for local news, sports, weather and a daily updated classified ad section. We also feature Web Cams, a Web Directory for North Central Washington and an extensive Visitor's Guide.">
-
-<meta name="keywords" content="Cashmere, Chelan County, Coulee City, East Wenatchee, George, Grand Coulee Dam, Leavenworth, Wenatchee, North Central Washington, Douglas, Grant, Columbia River, Moses Lake, Web cams, WebCam, Photos, Local news, Sports, Obituaries, Entertainment, Headbone Zone, Kid's stuff, Home finder Homefinder, Homeseller, Homes for sale, Real Estate, Classifieds, Classified ads, Employment, Jobs, Recreation, Movie schedules, Gorge, Hikes, Lodging, State Parks, Camping, Golf, Churches, Social services, Government, Weather, Almira, Brewster, Bridgeport, Entiat, Ephrata, Hartline, Mansfield, Manson, Nespelem, Omak, Oroville, Pateros, Quincy, Soap Lake, Tonasket, Twisp, Waterville, Okanogan, Wilbur, Winthrop">
-
-<script language="JavaScript">
-	<!-- Hide script from older browsers
-	//******************************************************
-	//Copyright (C) 1999 Andy Largent
-	//This script is made by and copyrighted to Andy Largent
-	//This may be used freely as long as this msg is intact!
-	//******************************************************
-	//This script uses radio buttons to select which area the 
-	//user wants to search.
-	//form.action specifies where the  or search engine is located.
-	//form.method specifies the GET or POST method.
-	//form.elements[3].name specifies the name of the input field needed
-	//by the cgi or search engine.  
-	//[3] because the input field is the 4th form element on the page 
-	//(start counting from 0)
-	
-        function submitIt(form) {
-                if (form.test[0].checked) { //search www.wenworld.com
-						form.action="/search/index.search"
-                        form.method="POST"  
-                        form.elements[4].name="query" 
-                }
-                if (form.test[1].checked) { //search hotbot.com
-                        form.action="http://www.hotbot.com/"
-                        form.method="GET"
-                        form.elements[4].name="MT"
-                }
-                if (form.test[2].checked) { //search wenworld classifieds
-                        form.action="/webdatabase.fm"
-                        form.method="POST"
-                        form.elements[4].name="TheAd"
-                }
-                 if (form.test[3].checked) { //search community pages
-                        form.action="http://206.29.196.122/wenworld/usbin/GlobalSearch.usm?"
-                        form.method="POST"
-                        form.elements[4].name="gskeywords"
-                }
-        }
-        // End hiding script -->
+<script>
+function EatCookie() {
+document.cookie="usernamepassword=;Path=/"
+document.cookie="UserRegID=;Path=/"
+document.cookie="fnavn=;Path=/";
+document.cookie="enavn=;Path=/";
+document.cookie="sex=;Path=/";
+document.cookie="extra_zipcode=;Path=/";
+document.cookie="extra_birthyear=;Path=/";
+document.cookie="extra_email_general=;Path=/";
+document.cookie="extra_email_news=;Path=/";
+document.cookie="extra_email_opinion=;Path=/";
+document.cookie="extra-email-general=;Path=/";
+document.cookie="extra-email-news=;Path=/";
+document.cookie="extra-email-opinion=;Path=/";
+document.location="/apps/pbcs.dll/section?template=regLogoff"
+}
 </script>
 
+        <tr>
+		<td class="text12_g" align="right"><form id="searchForm" method="post" action="/apps/pbcs.dll/search?Category=SEARCH&amp;Profile=1001">
+			<a href="/apps/pbcs.dll/section?category=ADVSEARCH">Search</a>&nbsp;
+			<input type="text" size="15" maxlength="30" name="crit" id="searchCrit">
+		  </form></td>
+	  </tr>
+          <tr>
+            <td align="right"><div id="microad"><script language="JavaScript">
+<!--
+var rnd = Math.random() + "";
+var idn = rnd * 10000000000000000;
+document.write('<S'+'CR'+'IP'+'T LANGU'+'AGE="JavaScript1.1" SRC="http://wwads.sv.publicus.com/apps/OAMS.dll/src/WW001/MICROBAR/SANDR/20035285528333094/1001/-/;idn=' + idn + ';Type=1?"><\/SCRIPT>');
+//-->
+</script><script language="JavaScript1.1" src="http://wwads.sv.publicus.com/apps/OAMS.dll/src/WW001/MICROBAR/SANDR/20035285528333094/1001/-/;idn=254323324399967.62;Type=1?"></script>
+<script>
+<!--
+	if ((!document.images && navigator.userAgent.indexOf("Mozilla/2.") >= 0) || navigator.userAgent.indexOf("WebTV")>= 0) {
+		document.write('<A HR'+'EF="http://wwads.sv.publicus.com/apps/OAMS.dll/hr'+'ef/WW001/MICROBAR/SANDR/20035285528333094/1001/-/;idn=' + idn + ';Type=2" TARGET="_blank">');
+		document.write('<IMG SRC="http://wwads.sv.publicus.com/apps/OAMS.dll/img/WW001/MICROBAR/SANDR/20035285528333094/1001/-/;idn=' + idn + ';Type=2" BORDER="0" ALT=""></A>');
+	}
+//-->
+</script>
+<noscript>
+<A HREF="http://wwads.sv.publicus.com/apps/OAMS.dll/link/WW001/MICROBAR/SANDR/20035285528333094/1001/-/;IDN=5487549;Type=3" TARGET="_blank">
+<IMG SRC="http://wwads.sv.publicus.com/apps/OAMS.dll/img/WW001/MICROBAR/SANDR/20035285528333094/1001/-/;IDN=5487549;Type=3" BORDER="0" ALT=""></A>
+</noscript>
+</div></td>
+          </tr>
+        </tbody></table>
+      </div>
+    </div>
+    <div id="menubar">
+      <!-- primary & secondary menus, plus submenus -->
+      <table border="0" cellpadding="0" cellspacing="0" width="972">
+		  <tbody><tr>
+			   <td><img src="/menu_images/spacer.gif" width="53" height="1" border="0" alt=""></td>
+			   <td><img src="/menu_images/spacer.gif" width="52" height="1" border="0" alt=""></td>
+			   <td><img src="/menu_images/spacer.gif" width="126" height="1" border="0" alt=""></td>
+			   <td><img src="/menu_images/spacer.gif" width="72" height="1" border="0" alt=""></td>
+			   <td><img src="/menu_images/spacer.gif" width="76" height="1" border="0" alt=""></td>
+			   <td><img src="/menu_images/spacer.gif" width="101" height="1" border="0" alt=""></td>
+			   <td><img src="/menu_images/spacer.gif" width="61" height="1" border="0" alt=""></td>
+			   <td><img src="/menu_images/spacer.gif" width="58" height="1" border="0" alt=""></td>
+			   <td><img src="/menu_images/spacer.gif" width="78" height="1" border="0" alt=""></td>
+			   <td><img src="/menu_images/spacer.gif" width="60" height="1" border="0" alt=""></td>
+			   <td><img src="/menu_images/spacer.gif" width="83" height="1" border="0" alt=""></td>
+			   <td><img src="/menu_images/spacer.gif" width="56" height="1" border="0" alt=""></td>
+			   <td><img src="/menu_images/spacer.gif" width="52" height="1" border="0" alt=""></td>
+			   <td><img src="/menu_images/spacer.gif" width="44" height="1" border="0" alt=""></td>
+			   <td><img src="/menu_images/spacer.gif" width="1" height="1" border="0" alt=""></td>
+		  </tr>
+		  <tr>
+				<td><a href="/apps/pbcs.dll/frontpage" onclick="MM_swapImgRestore(); MM_swapImage('imgHome','','/menu_images/home_on.gif',1);"><img src="/menu_images/home_off.gif" alt="Home page" name="imgHome" width="53" height="25" border="0" id="imgHome"></a></td>
+				<td><a href="#" onclick="MM_swapImgRestore(); MM_swapImage('imgNews','','/menu_images/news_on.gif',1); draw_sm(0,11);"><img name="imgNews" src="/menu_images/news_off.gif" width="52" height="25" border="0" id="imgNews" alt=""></a></td>
+				<td><a href="#" onclick="MM_swapImgRestore(); MM_swapImage('imgImages','','/menu_images/images_on.gif',1); draw_sm(11,16);"><img name="imgImages" src="/menu_images/images_off.gif" width="126" height="25" border="0" id="imgImages" alt=""></a></td>
+				<td><a href="#" onclick="MM_swapImgRestore(); MM_swapImage('imgServices','','/menu_images/services_on.gif',1); draw_sm(24,32);"><img name="imgServices" src="/menu_images/services_off.gif" width="72" height="25" border="0" id="imgServices" alt=""></a></td>
+				<td><a href="/section/EEDITION" onclick="MM_swapImgRestore(); MM_swapImage('imgeEdition','','/menu_images/eedition_on.gif',1)"><img name="imgeEdition" src="/menu_images/eedition_off.gif" width="76" height="25" border="0" id="imgeEdition" alt=""></a></td>
+				<td><a href="#" onclick="MM_swapImgRestore(); MM_swapImage('imgArts','','/menu_images/arts_on.gif',1); draw_sm(33,41);"><img name="imgArts" src="/menu_images/arts_off.gif" width="101" height="25" border="0" id="imgArts" alt=""></a></td>
+				<td><a href="/section/SPORTS" onclick="MM_swapImgRestore(); MM_swapImage('imgSports','','/menu_images/sports_on.gif',1); draw_sm(41,48);"><img name="imgSports" src="/menu_images/sports_off.gif" width="61" height="25" border="0" id="imgSports" alt=""></a></td>
+				<td><a href="/section/BLOG" onclick="MM_swapImgRestore(); MM_swapImage('imgBlogs','','/menu_images/blogs_on.gif',1)"><img name="imgBlogs" src="/menu_images/blogs_off.gif" width="58" height="25" border="0" id="imgBlogs" alt=""></a></td>
+				<td><a href="/section/ADVSEARCH" onclick="MM_swapImgRestore(); MM_swapImage('imgArchives','','/menu_images/archives_on.gif',1)" ;=""><img name="imgArchives" src="/menu_images/archives_off.gif" width="78" height="25" border="0" id="imgArchives" alt="Archives"></a></td>
+				<td><img name="menu3_r1_c11" src="/menu_images/menu3_r1_c11.gif" width="60" height="25" border="0" id="menu3_r1_c11" alt=""></td>
+				<td><a href="/section/CLASSIFIEDS" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('imgClassifieds','','/menu_images/classifieds3_on.gif',1)" onclick="MM_swapImgRestore(); MM_swapImage('imgClassifieds','','/menu_images/classifieds3_on.gif',1);  draw_sm(16,24);"><img src="/menu_images/classifieds3_off.gif" alt="Classifieds" name="imgClassifieds" width="83" height="25" border="0" id="imgClassifieds"></a></td>
+				<td><a href="http://homes.wenatcheeworld.com" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('imgHomes','','/menu_images/homes3_on.gif',1)"><img src="/menu_images/homes3_off.gif" alt="Homes" name="imgHomes" width="56" height="25" border="0" id="imgHomes"></a></td>
+				<td><a href="http://autos.wenatcheeworld.com" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('imgAutos','','/menu_images/autos3_on.gif',1)"><img src="/menu_images/autos3_off.gif" alt="Autos" name="imgAutos" width="52" height="25" border="0" id="imgAutos"></a></td>
+				<td><a href="http://jobs.wenatcheeworld.com" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('imgJobs','','/menu_images/jobs3_on.gif',1)"><img src="/menu_images/jobs3_off.gif" alt="Jobs" name="imgJobs" width="44" height="25" border="0" id="imgJobs"></a></td>
+				<td><img src="/menu_images/spacer.gif" width="1" height="25" border="0" alt=""></td>
+		  </tr>
+		  <tr bgcolor="#cccccc">
+				<td colspan="10" height="22" style="background-image:url(/menu_images/menu_r2_c9.gif); background-repeat:repeat-x">&nbsp;</td>
+				<td colspan="4"><img name="imgMarketplace" src="/menu_images/imgMarketplace2.gif" width="235" height="22" border="0" id="imgMarketplace" alt=""></td>
+				<td><img src="/menu_images/spacer.gif" width="1" height="22" border="0" alt=""></td>
+		  </tr>
+		</tbody></table>
+      	<div id="submenus"></div>
+    </div>
+    <div id="breadcrumb"><a href="/apps/pbcs.dll/frontpage">Home</a>&nbsp;::&nbsp;<a href="/apps/pbcs.dll/section?Category=SANDR">Services and Registration</a></div>
+    <div id="leaderboard"><img src="/images/ad_v.gif" border="0"><script language="JavaScript">
+<!--
+var rnd = Math.random() + "";
+var idn = rnd * 10000000000000000;
+document.write('<S'+'CR'+'IP'+'T LANGU'+'AGE="JavaScript1.1" SRC="http://wwads.sv.publicus.com/apps/OAMS.dll/src/WW001/TLEADERBOARD/SANDR/20035285528333094/1001/-/;idn=' + idn + ';Type=1?"><\/SCRIPT>');
+//-->
+</script><script language="JavaScript1.1" src="http://wwads.sv.publicus.com/apps/OAMS.dll/src/WW001/TLEADERBOARD/SANDR/20035285528333094/1001/-/;idn=9065600328752840;Type=1?"></script>
+<script>
+<!--
+	if ((!document.images && navigator.userAgent.indexOf("Mozilla/2.") >= 0) || navigator.userAgent.indexOf("WebTV")>= 0) {
+		document.write('<A HR'+'EF="http://wwads.sv.publicus.com/apps/OAMS.dll/hr'+'ef/WW001/TLEADERBOARD/SANDR/20035285528333094/1001/-/;idn=' + idn + ';Type=2" TARGET="_blank">');
+		document.write('<IMG SRC="http://wwads.sv.publicus.com/apps/OAMS.dll/img/WW001/TLEADERBOARD/SANDR/20035285528333094/1001/-/;idn=' + idn + ';Type=2" BORDER="0" ALT=""></A>');
+	}
+//-->
+</script>
+<noscript>
+<A HREF="http://wwads.sv.publicus.com/apps/OAMS.dll/link/WW001/TLEADERBOARD/SANDR/20035285528333094/1001/-/;IDN=-1557826401;Type=3" TARGET="_blank">
+<IMG SRC="http://wwads.sv.publicus.com/apps/OAMS.dll/img/WW001/TLEADERBOARD/SANDR/20035285528333094/1001/-/;IDN=-1557826401;Type=3" BORDER="0" ALT=""></A>
+</noscript>
+</div>
+    <!-- body block -->
+		    <!-- body block -->
+    <div id="bodydiv">
+      <div id="sleftcols">
+	  	<!--top of story-->
+        <div id="story_head">
+          <table cellpadding="0" cellspacing="0" border="0">
+		              <tbody><tr>
+              <td class="text18_gb" width="410">wenatcheeworld.com Privacy Policy</td>
+            </tr>
+            <tr>
+              <td class="text13_g" width="410">Updated March 2007</td>
+            </tr>
 
-<p>
-<table width="640" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              
+            </tr>
+			<tr>
+			  <td></td>
+			</tr>
+          </tbody></table>
+        </div>
+		<!-- end top of story, incl. photo -->
+		
+		<!-- text of story -->
+        <div class="stories">
+		<p class="text13_g">Wenatcheeworld.com is committed to the privacy of individuals on the Internet. The policy of wenatcheeworld.com and World Publishing Company in regards to information gathered through our Web sites is is as follows:</p><br>
+<p class="text13_g">Wenatcheeworld.com collects identifying information about individuals only when those individuals provide that information on a voluntary basis, by registering for comments, contests, e-mail notifications and other like services.</p><br>
+<p class="text13_g">It is the policy of wenatcheeworld.com that such information will not be made available to unrelated third parties. We will never relate specific identifying information about any of our online readers. We may let advertisers know how our online readers use our site and provide them with information about our online readers in the aggregate.</p><br>
+<p class="text13_g">We will review our statistics occasionally, and go over server logs and IP addresses to learn more about our audience, but, again, we will not relate that information to third parties except in aggregate.</p><br>
+<p class="text13_g">Some activity on wenatcheeworld.com, such as the individual posting identifying information in comments, may be used by third parties without our permission or endorsement. That is beyond our control. We also have no control over Web sites not operated by World Publishing Company that may contain hyperlinks to wenatcheeworld.com or that wenatcheeworld.com links to, via our banner advertisers and news links for additional information.</p><br>
+<p class="text13_g">Wenatcheeworld.com uses 'cookies' in circumstances that require session data or require user verification. Cookies were designed to help a Web site recognize a user's browser as a previous visitor and thus save and remember any preferences that may have been set while the user was browsing the site. A cookie cannot retrieve any other data from your hard drive, pass on a computer virus, or capture your e-mail address. We use cookies to enhance your experience with wenatcheeworld.com.</p><br>
+<p class="text13_g">If you want to remove your personal information from our site/sites, please use the unsubscribe or delete registration alternatives on our site or send an e-mail detailing your request to <a href="mailto:webmaster@wenatcheeworld.com">webmaster@wenatcheeworld.com</a>.</p><br>
+<p class="text13_g">We reserve the right to change this policy at any time. The date of any revision will be noted by the date at the top of the page.</p><br>
+
+        </div>
+		<!-- end text of story -->
+		<!-- reader comments -->
+		<!-- reader comments were here -->
+
+    <!-- end text column -->
+    <!-- start ad column -->
+	  </div>
+      <div id="srightcols">
+	<div id="scals">
+		<!-- top local stories -->
+			<div id="local_news">
+			<table bgcolor="white" style="padding:5px" width="354px">
+				<tbody><tr>
+					<td class="sechead">LOCAL NEWS HEADLINES</td>
+				</tr>
+		  		<tr><td><span class="text12_g16"><a href="/apps/pbcs.dll/article?AID=/20071216/NEWS04/536967429/1001/SANDR" target="_top">Sheriff's office: death may be result of homicide</a></span></td></tr><tr><td><span class="text12_g16"><a href="/apps/pbcs.dll/article?AID=/20071215/NEWS04/712150013/1001/SANDR" target="_top">Raising  hope </a></span></td></tr><tr><td><span class="text12_g16"><a href="/apps/pbcs.dll/article?AID=/20071215/NEWS04/712150021/1001/SANDR" target="_top">All aboard as students act out 'Polar Express' on Link trolley</a></span></td></tr><tr><td><span class="text12_g16"><a href="/apps/pbcs.dll/article?AID=/20071215/NEWS04/712150019/1001/SANDR" target="_top">Salvation Army in need of donations</a></span></td></tr>
+            
+				<tr><td>&nbsp;</td></tr>
+			</tbody></table>
+			</div>
+	</div>
+    <div id="sad1"><img src="/images/adhead300.gif" border="0"><script language="JavaScript">
+<!--
+var rnd = Math.random() + "";
+var idn = rnd * 10000000000000000;
+document.write('<S'+'CR'+'IP'+'T LANGU'+'AGE="JavaScript1.1" SRC="http://wwads.sv.publicus.com/apps/OAMS.dll/src/WW001/RIGHTADTOP/SANDR/20035285528333094/1001/-/;idn=' + idn + ';Type=1?"><\/SCRIPT>');
+//-->
+</script><script language="JavaScript1.1" src="http://wwads.sv.publicus.com/apps/OAMS.dll/src/WW001/RIGHTADTOP/SANDR/20035285528333094/1001/-/;idn=2888790261822256;Type=1?"></script>
+<script>
+<!--
+	if ((!document.images && navigator.userAgent.indexOf("Mozilla/2.") >= 0) || navigator.userAgent.indexOf("WebTV")>= 0) {
+		document.write('<A HR'+'EF="http://wwads.sv.publicus.com/apps/OAMS.dll/hr'+'ef/WW001/RIGHTADTOP/SANDR/20035285528333094/1001/-/;idn=' + idn + ';Type=2" TARGET="_blank">');
+		document.write('<IMG SRC="http://wwads.sv.publicus.com/apps/OAMS.dll/img/WW001/RIGHTADTOP/SANDR/20035285528333094/1001/-/;idn=' + idn + ';Type=2" BORDER="0" ALT=""></A>');
+	}
+//-->
+</script>
+<noscript>
+<A HREF="http://wwads.sv.publicus.com/apps/OAMS.dll/link/WW001/RIGHTADTOP/SANDR/20035285528333094/1001/-/;IDN=<pbs:random id=RIGHTADTOP min=1000 max=10000000000>;Type=3" TARGET="_blank">
+<IMG SRC="http://wwads.sv.publicus.com/apps/OAMS.dll/img/WW001/RIGHTADTOP/SANDR/20035285528333094/1001/-/;IDN=<pbs:random id=RIGHTADTOP min=1000 max=10000000000>;Type=3" BORDER="0" ALT=""></A>
+</noscript>
+</div>
+    <div id="topjobs">
+		<p class="sechead"><span style="color:#333333">CLASSIFIED</span> TOP JOBS</p>
 
 
-<tbody><tr><td valign="TOP" align="left" width="100"><p>
-<a href="http://www.wenworld.com/home.html"><img src="/GIFS/tblogo.gif" align="MIDDLE" border="0"></a><br>
-<font size="-1" face="arial,helvetica">    
-
-</font></p><form onsubmit="return submitIt(this)"><font size="-1" face="arial,helvetica">
-
-<font size="3"><b>Search</b><br clear="all"></font><font size="1">
-<input type="radio" name="test" checked="">Wenworld.com<br>
-<input type="radio" name="test">The Web<br>
-<input type="radio" value="" name="test">Our classifieds<br>
-<input type="radio" name="test">CommunityLink<p>
-<input type="text" size="10" value=""></p><p>
-<input type="submit" name="dummy" value="Search">
-</p></font><br><br>
-
-<font size="3" face="arial, helvetica" color="#000000"><b>Local news</b></font><br>
-<font size="2" face="arial, helvetica">
-<a href="/news/newsindex.html">Top Stories</a></font><br>
-<font size="2" face="arial, helvetica">
-<a href="/news/sportsindex.html">Sports</a></font><br>
-<font size="2" face="arial, helvetica">
-<a href="/news/features/index.html">Features</a></font><br>
-<font size="2" face="arial, helvetica">
-<a href="/news/business/index.html">Business</a></font><br>
-<font size="2" face="arial, helvetica">
-<a href="/news/opinion/index.html">Opinion</a></font><br>
-<font size="2" face="arial, helvetica">
-<a href="/obits/index.html">Obituaries</a></font><br>
-<font size="2" face="arial, helvetica">
-<a href="http://www.rainorshine.com/wenatchee/index.ssf?$$ZIPCITY=98801">Weather</a></font><br>
-<font size="2" face="arial, helvetica">
-<a href="/news/norindex.html">News of record</a></font><br>
-<font size="2" face="arial, helvetica">
-<a href="/library/index.html">News archives</a></font><p>
-
-<font size="3" face="arial, helvetica" color="#000000"><b>Recreation</b></font><br>
-<font size="2" face="arial, helvetica"><a href="/recreation/golf/index.html">Golf</a></font><br>
-<font size="2" face="arial, helvetica"><a href="/recreation/hiking/index.html">Hiking, Etc.</a></font><br>
-<font size="2" face="arial, helvetica"><a href="/recreation/camping/natparks.html">National parks</a></font><br>
-<font size="2" face="arial, helvetica"><a href="/recreation/camping/stparks.html">State parks</a></font><br>
-<font size="2" face="arial, helvetica"><a href="/recreation/skiing/index.html">Skiing</a></font><br>
-<font size="2" face="arial, helvetica"><a href="/recreation/calendar.html">Rec calendar</a>
-</font></p><p><font size="2" face="arial, helvetica">
-
-<font size="3" face="arial, helvetica" color="#000000"><b>
-A &amp; E</b></font><br>
-<font size="2" face="arial, helvetica"><a href="/arts/movies/index.html">Movies</a></font><br>
-<font size="2" face="arial, helvetica"><a href="/arts/restaurants/index.html">Restaurants</a></font><br>
-<font size="2" face="arial, helvetica"><a href="/arts/artsetc.html">Local events</a></font><br>
-<font size="2" face="arial, helvetica"><a href="http://www.clicktv.com/index.ASP?cid=F4J">TV listings</a></font><br>
-<font size="2" face="arial, helvetica"><a href="/arts/calendar.html">A &amp; E calendar</a></font></font></p><p><font size="2" face="arial, helvetica">
-
-<font size="3" face="arial, helvetica" color="#000000"><b>Community</b></font><br>
-<!-- &laqno;FONT SIZE="2" face="arial, helvetica"&raquo;&laqno;A HREF="http://www.wenworld.com/Community/tour/index.html"&raquo;Virtual tour&laqno;/A&raquo;&laqno;/FONT&raquo;&laqno;BR&raquo; -->
-<font size="2" face="arial, helvetica"><a href="http://206.29.196.122/wenworld/usbin/userpriv.usm?userlogin=t">Build a web page</a></font><br>
-<font size="2" face="arial, helvetica"><a href="http://206.29.196.122/wenworld/usbin/userpriv.usm?userlogin=t">Browse local pages</a></font><br>
-
-<font size="2" face="arial, helvetica"><a href="http://206.29.196.122/wenworld/usbin/Forums.usm?ReqObject=topic&amp;ReqAction=browse">Forums</a></font><br>
-<font size="2" face="arial, helvetica"><a href="/community/transportation/index.html">Transportation</a></font><br>
-<font size="2" face="arial, helvetica"><a href="/community/lodging.html">Lodging</a></font><br>
-<font size="2" face="arial, helvetica">
-<a href="/press/index.html">KBA Press</a></font><br>
-<font size="2" face="arial, helvetica"><a href="/community/directories/index.html">Special directories</a></font><br>
-<font size="2" face="arial, helvetica"><a href="/community/services/index.html">Services in NCW</a></font></font></p><p><font size="2" face="arial, helvetica">
-
-<font size="3" face="arial, helvetica" color="#000000"><b>Classifieds</b></font><br>
-<font size="2" face="arial, helvetica"><a href="/classindex/classifieds.html">Classified ads</a></font><br>
-<font size="2" face="arial, helvetica"><a href="/homefinder/hf.html">HomeFinder</a></font><br>
-<!-- &laqno;FONT SIZE="2" face="arial, helvetica"&raquo;&laqno;<A HREF="../index.html"&raquo;Vehicle Link&laqno;/A&raquo;&laqno;/FONT&raquo;&laqno;BR&raquo; -->
-<!-- &laqno;FONT SIZE="2" face="arial, helvetica"&raquo;&laqno;<A HREF="../index.html"&raquo;Rental Finder&laqno;/A&raquo;&laqno;/FONT&raquo;&laqno;BR&raquo; -->
-<font size="2" face="arial, helvetica">
-<a href="http://www.date-finder.com/wenatchee">Personals</a></font></font></p><p><font size="2" face="arial, helvetica">
-
-<!-- &laqno;FONT SIZE="2" face="arial, helvetica"&raquo;
-&laqno;A HREF="/coupons/index.html"&raquo;Coupons&laqno;/A&raquo;&laqno;/FONT&raquo;&laqno;p&raquo; -->
-
-<font size="3" face="arial, helvetica" color="#000000"><b>
-WebCams</b></font><br>
-<font size="2" face="arial, helvetica"><a href="/webcam/webcam.html">Local webcams</a></font></font></p><p><font size="2" face="arial, helvetica">	
-
-<font size="3" face="arial, helvetica" color="#000000"><b>
-Hobbies &amp; Fun</b></font><br>
-<font size="2" face="arial, helvetica"><a href="/fun/genealogy/index.html">Genealogy</a></font><br>
-<font size="2" face="arial, helvetica"><a href="http://hbz.wenworld.com/">Headbone Zone</a></font><br>
-<font size="2" face="arial, helvetica"><a href="/Pet/pet.html">Pet of the week</a></font><br>
-<!-- &laqno;FONT SIZE="2" face="arial, helvetica"&raquo;&laqno;<A HREF="../fun/index.html"&raquo;Puzzles&laqno;/A&raquo;&laqno;/FONT&raquo;&laqno;BR&raquo; -->
-<!-- &laqno;FONT SIZE="2" face="arial, helvetica"&raquo;&laqno;<A HREF="../fun/index.html"&raquo;Mail a postcard&laqno;/A&raquo;&laqno;/FONT&raquo;&laqno;BR&raquo; -->
-<!-- &laqno;FONT SIZE="2" face="arial, helvetica"&raquo;&laqno;<A HREF="../fun/projects/index.html"&raquo;Special projects&laqno;/A&raquo;&laqno;/FONT&raquo; --></font></p><p><font size="2" face="arial, helvetica">
-
-<font size="3" face="arial, helvetica" color="#000000"><b>Contact Us</b></font><br>
-<font size="2" face="arial, helvetica"><a href="/contactus/online.html">World Online</a></font><br>
-<font size="2" face="arial, helvetica"><a href="/contactus/staff.html">Wenatchee World</a></font><br>
-<font size="2" face="arial, helvetica"><a href="/contactus/nie/index.html">Resources for teachers</a></font></font></p><p><font size="2" face="arial, helvetica">
-
-<font size="3" face="arial, helvetica" color="#000000"><b>Our Partners</b></font><br>
-<font size="2" face="arial, helvetica"><a href="/partners/index.html">Our Partners</a></font></font></p><p><font size="2" face="arial, helvetica">
-
-</font></p></font></form></td><td width="30"></td>
-<td valign="TOP" width="510" bgcolor="#ffffff"><p>
+<p class="text12_a2">
+  Extension Coordinator (two positions) WSU Colville Reservation- Ferry County Extension, Nespelem, WA. Administrative Professional, 0.6 FTE, Temporary, 12 month. Required: Bachelor’s degree in a relevant extension program discipline and two years of related program experience. Any combination of relevant education and experience may be substituted for the educational requirement on a year-for-year basis. Preferred: Demonstrated professional training in nutrition, child development, social work, or other related fields. Demonstrated ability to use effective communication skills both orally and in writing to maintain professionalism, diplomacy, tact, and sensitivity under all circumstances. Demonstrated ability to work independently as well as in a team setting. Demonstrated ability to recognize, understand, and respect Native American custom, culture, and values. Demonstrated ability to relate to and collaborate with a wide range of people from varied social and economic levels, ages, races, ethnic backgrounds, as well as in rural, suburban, and urban settings. Screening of application materials begins January 4, 2008. For position description listing all qualifications and application process, visit: http://www.hrs.wsu.edu/ employment/fapvacancies. aspx (Search #4928) Contact Lisa Clyde, EEO Coordinator, (509)335-2822 <a href="mailto:eeocoord@wsu.edu?subject=Extension Coordinator (two positions">eeocoord@wsu.edu</a> EEO/AA/ADA
+</p>
 
 
 
-</p><center>
+<p class="text12_a2">
+  Dental Customer Care Assistant Columbia Valley Community Health's ( www.cvch.org ) Dental Clinic in Wenatchee is seeking a Bilingual Dental Customer Care Assistant to be responsible for the initiation of client visits, provide customer service, and be responsible for the performance of various office duties: including patient appointments, collection, and billing. REQUIRED: Bilingual English/Spanish, High School Diploma or GED, 2 years experience in medical/business field or equivalent training, basic computer skills, adequate typing, filing, and 10-key calculator skills. Full-time, excellent benefits. Submit applications/resumes to: CVCH Sylvia Martinez RE: Dental CC 600 Orondo Ave., Suite #1 Wenatchee, WA 98801 <a href="mailto:smartinez@cvch.org?subject=Dental Customer Care Assistant">smartinez@cvch.org</a> CVCH is an EOE
+</p>
 
-<a href="http://www.wenworld.com/webcam/webcam.html"><img src="/Ads/banner6.GIF" border="0"></a>
 
-</center><p><br>
 
-<table width="510" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr><td valign="TOP" width="360">
-<img src="gifs/privacy.GIF" align="middle" border="0" hspace="0" vspace="0">
-<p><br>
-<!-- begin body copy -->
+<p class="text12_a2">
+  A large Fruit Grower Processor is currently recruiting for a Grower Accountant at our Wenatchee, WA location. The Grower Accountant is responsible for accurate and timely capture of pool accounting information as it relates to pool advances and closings. This includes pool and grade reporting, monthly and year-end journal entries, reconciliations and accruals. Qualifications include I year experience, BA/BS in Accounting. Compensation DOE. To apply, please send resume to: Human Resources Box 15121 c/o The Wenatchee World P.O. Box 1511 Wenatchee, WA 98807 Application deadline is December 21, 2007. EOE AA
+</p>
 
-The Wenatchee World, publisher of The World Online, has a firm commitment to privacy. We take your privacy concerns seriously and want to make every effort to address those concerns. That is why we have adopted the following policy on information gathering and disclosure.</p><p><br></p><hr>
-<b>Your Personal Information</b>
-<blockquote>From time to time, we will ask for information that personally identifies you, as in our user surveys or registration for The Wenatchee World services such as e-mail, forums, or promotions. We use this information to operate The Wenatchee World's services, provide you with the highest quality services and offer you opportunities we think will be of interest.<p>               We will not disclose any personal information without your advance permission except when we believe the law requires us to do so or the disclosure is necessary to protect the rights or property of The Wenatchee World, or as explained below or in our User Agreement.</p><p>               In order to describe our services to prospective partners, advertisers and others, we may disclose user information but only in a form that does not identify individual users. For example, we might disclose that a certain percentage of our users are male or within a certain age range.</p><p>               Occasionally, we may disclose personal information in other circumstances, but we will only do this if we have explained at the time we collect the information the purpose for which it will be disclosed.</p></blockquote><br><hr><b>Children's Privacy</b>
-<blockquote>The Wenatchee World is particularly concerned with providing a safe online environment for children. The Wenatchee World strongly recommends parental supervision when a child uses the Internet, and particularly when a child enters a forum or uses e-mail.<p>               We also encourage parents to instruct their children not to give out personal information in these areas. A number of commercial products are available to help limit your child's access to material on the Internet that you may consider harmful or inappropriate.</p><p>               Other services and information providers accessible through The World Online have their own policies about children's privacy and you should contact them directly for their policies.</p></blockquote><p><br></p><hr>
-<b>Electronic Commerce</b>
-<blockquote>The Wenatchee World may host online stores that sell a variety of goods and services. These stores may collect information from you such as your name, credit card number and other contact information. The Wenatchee World does not collect, use or disclose this information nor does it own or control the stores or have responsibility for transactions made by those merchants. If you would like to know more about the information collected when you participate in electronic commerce on or through this site, please contact the store merchants directly.</blockquote><p><br></p><hr>
-<b>Cookies</b>
-<blockquote>A "cookie" is a small data text file that is placed in your browser and allows The World Online to recognize you each time you visit the site. Cookies themselves do not contain any personal information. Instead, they allow us to see which parts of our site you have used so that we can better serve you when you return to our site. Cookies may be used to provide you with information and special opportunities tailored to your interests.</blockquote><p><br></p><hr>
-<b>Direct Mailings and "Opting Out"</b>
-<blockquote>We may send you information about various products and services. If you don't want to receive this information, you can "opt out" by sending us an e-mail to <a href="mailto:webmaster@wenworld.com">webmaster@wenworld.com</a> and requesting that you not receive any of these offers.</blockquote><p><br></p><hr><b>You Can Change Your Private Information at any Time</b>
-<blockquote>We may store information you provide to The Wenatchee World for an indefinite time. However, please feel free to change, update or delete this information at any time by sending an e-mail <a href="mailto:webmaster@wenworld.com">webmaster@wenworld.com</a>.</blockquote><p><br></p><hr>
-<b>Remember the risks whenever you use the Internet</b>
-<blockquote>You should know that when you voluntarily disclose personal information on The World Online (for example, in forums), that information can be collected and used by others and may result in unsolicited messages from other people. While we do our best to protect your personal information, we cannot guarantee the security of any information that you transmit to The World Online and you are solely responsible for maintaining the secrecy of any passwords or other account information. In addition, our partners and other Internet sites or services that may be accessible through The World Online have separate data and privacy practices independent of us, and therefore we disclaim any responsibility or liability for their policies or actions. Please contact those vendors and others directly if you have any questions about their privacy policies.</blockquote><p><br></p><hr><b>Tell Us How We're Doing</b>
-<blockquote>If you have any questions or comments about our policies, please contact us by sending an e-mail to <a href="mailto:webmaster@wenworld.com">webmaster@wenworld.com</a>.</blockquote><p><br>
 
-<!-- end body copy -->
-</p></td>
-<td width="12">&nbsp;</td>
-<td body="" bgcolor="#cccccc" width="1">&nbsp;</td>
-<td width="12">&nbsp;</td>
-<td align="left" valign="TOP" width="125">
-<img src="/contactus/gifs/contacttb.GIF" align="MIDDLE" border="0"><p>
-<font size="2" face="arial, helvetica"><b>Wenatchee World online forms</b><br> 
-<a href="/Contactus/subscribe2.html"><font size="2" face="arial,helvetica">Subscribe to The World</font></a><font size="2" face="arial,helvetica"><br>
-<a href="/Contactus/classform.html">Place a classified</a><br>
-<a href="/Contactus/safetyvalve.html">Letter to the editor</a><br>
-<a href="/Contactus/engagement.html">Engagement</a><br>
-<a href="/Contactus/wedding.html">Wedding</a><br>
-<a href="/Contactus/anniversary.html">Anniversary</a><br>
-<a href="/Contactus/biznews.html">Business news</a><br>
-<a href="/Contactus/baseball.html">Baseball</a><br>
-<a href="/Contactus/bowling.html">Bowling</a><br>
-</font></font></p><hr><font size="2" face="arial, helvetica"><font size="2" face="arial,helvetica"><a href="/Contactus/comment.html"><font size="2" face="arial, helvetica"><b>Feedback form</b></font></a><font size="2" face="arial, helvetica"><br>
-<hr>
-<font size="2" face="arial, helvetica"><b><a href="/Contactus/findus.html">How to find us</a></b></font><br>
-<hr>
-<font size="2" face="arial, helvetica"><b><a href="/Contactus/adrates.html">Online banner <br>ad rates</a></b></font></font><p><font size="2" face="arial, helvetica"> 
-<a href="http://206.29.196.122/wenworld/usbin/userpriv.usm?userlogin=t"><img src="http://www.wenworld.com/ads/freemail.jpg" align="MIDDLE" border="0"></a></font></p><p>
-<!-- extra toolbar stuff goes here -->
-</p></font></font></td></tr></tbody></table><br>
-</p><hr><center><font size="-1" face="arial,helvetica">
-<a href="/Home.html">Home</a>
-| <a href="/classindex/classifieds.html">Classifieds</a>
-| <a href="/obits/index.html">Obituaries</a>
-| <a href="http://www.rainorshine.com/wenatchee/index.ssf?$$ZIPCITY=98801">Weather</a>
-| <a href="/news/newsindex.html">Local news</a> | <a href="/news/sportsindex.html">Local sports</a> | <a href="http://206.29.196.122/wenworld/usbin/userpriv.usm?userlogin=t">Build your own website</a> | 
-<a href="/arts/movies/index.html">Movies</a> | <a href="/WebCam/WebCam.html">WebCams</a> | <a href="http://hbz.wenworld.com">Kid's Stuff</a> | <a href="/contactus/staff.html">Contact Us</a> | <a href="/homefinder/hf.html">Homefinder</a> <!-- | &laqno;A HREF="#"&raquo;Vehicle Link&laqno;/A&raquo; --></font></center><p>
+<p>&nbsp;</p>
+<p class="text11_a33"><a href="/apps/pbcs.dll/cce?Module=10&amp;Category=Classifieds&amp;class=10020&amp;type=18474"><strong>MORE CLASSIFIED TOP JOBS</strong><img src="http://wenatcheeworld.com/images/rtarrow.gif" border="0"></a></p> 	
 
-</p><center><font size="2" face="arial,helvetica">© <a href="/Contactus/copyright.html">Copyright</a> 2001 The Wenatchee World<br>
-P.O. Box 1511, Wenatchee, WA 98807-1511<br>
-<a href="/Contactus/user.html">User agreement</a> | <a href="/Contactus/privacy.html">Privacy policy</a> | <a href="/Contactus/advertising.html">Advertising</a><br>
-Send <a href="/contactus/Comment.html">comments</a> or questions about wenworld.com to the <a href="mailto:webmaster@wenworld.com">webmaster</a></font></center>
+    </div>
+    <div id="sad2"> <img src="/images/adhead300.gif" border="0"><script language="JavaScript">
+<!--
+var rnd = Math.random() + "";
+var idn = rnd * 10000000000000000;
+document.write('<S'+'CR'+'IP'+'T LANGU'+'AGE="JavaScript1.1" SRC="http://wwads.sv.publicus.com/apps/OAMS.dll/src/WW001/RIGHTADBOTTOM/SANDR/20035285528333094/1001/-/;idn=' + idn + ';Type=1?"><\/SCRIPT>');
+//-->
+</script><script language="JavaScript1.1" src="http://wwads.sv.publicus.com/apps/OAMS.dll/src/WW001/RIGHTADBOTTOM/SANDR/20035285528333094/1001/-/;idn=5356572176287351;Type=1?"></script>
+<script>
+<!--
+	if ((!document.images && navigator.userAgent.indexOf("Mozilla/2.") >= 0) || navigator.userAgent.indexOf("WebTV")>= 0) {
+		document.write('<A HR'+'EF="http://wwads.sv.publicus.com/apps/OAMS.dll/hr'+'ef/WW001/RIGHTADBOTTOM/SANDR/20035285528333094/1001/-/;idn=' + idn + ';Type=2" TARGET="_blank">');
+		document.write('<IMG SRC="http://wwads.sv.publicus.com/apps/OAMS.dll/img/WW001/RIGHTADBOTTOM/SANDR/20035285528333094/1001/-/;idn=' + idn + ';Type=2" BORDER="0" ALT=""></A>');
+	}
+//-->
+</script>
+<noscript>
+<A HREF="http://wwads.sv.publicus.com/apps/OAMS.dll/link/WW001/RIGHTADBOTTOM/SANDR/20035285528333094/1001/-/;IDN=<pbs:random id=RIGHTADBOTTOM min=1000 max=10000000000>;Type=3" TARGET="_blank">
+<IMG SRC="http://wwads.sv.publicus.com/apps/OAMS.dll/img/WW001/RIGHTADBOTTOM/SANDR/20035285528333094/1001/-/;IDN=<pbs:random id=RIGHTADBOTTOM min=1000 max=10000000000>;Type=3" BORDER="0" ALT=""></A>
+</noscript>
+</div>
+</div>
+	</div>
+    <div id="viewed">
+      		<div id="second_look"> <span class="sechead_sm">SECOND LOOK</span><br>
+        		<span class="text11_ab">Headlines you may have missed from the last week</span>
+        		<p class="text12_g16"><a href="/apps/pbcs.dll/article?AID=/20071213/NEWS04/712130011/1005/SANDR">Blind residents ask for audible signals</a></p><p class="text12_g16"><a href="/apps/pbcs.dll/article?AID=/20071213/NEWS04/712130007/1005/SANDR">Chelan-area drug kingpin pleads guilty</a></p><p class="text12_g16"><a href="/apps/pbcs.dll/article?AID=/20071213/NEWS04/712130010/1005/SANDR">Port surpluses skills center; schools group seeks purchase</a></p><p class="text12_g16"><a href="/apps/pbcs.dll/article?AID=/20071212/NEWS04/712120005/1005/SANDR">Claims of Virgin of Guadalupe image at Yakima home draw faithful crowd</a></p><p class="text12_g16"><a href="/apps/pbcs.dll/article?AID=/20071212/NEWS04/712120001/1005/SANDR">Seventh state cougar cub off to zoo</a></p><p class="text12_g16"><a href="/apps/pbcs.dll/article?AID=/20071212/NEWS04/712120009/1005/SANDR">Seattle developer plans 70-unit condo in Chelan</a></p>
+        		<p class="text11_a33"><strong><span style="float:left" ;="">MORE RECENT NEWS</span></strong><a href="/apps/pbcs.dll/section?category=NEWS"><img src="/images/rtarrow.gif" border="0"></a></p>
+        		<p>
+        		</p><div id="second_rss"><a href="/apps/pbcs.dll/section?category=RSS"><img src="/images/rss.gif" border="0" align="left"><span class="text11_g2">&nbsp;Add SECOND LOOK RSS feed</span></a></div>
+        		<p></p>
+      		</div>
+      		<div id="smost_viewed"> <span class="sechead_sm">MOST VIEWED HEADLINES</span>
+        		<p class="text12_g16"><a href="/apps/pbcs.dll/article?AID=/20071216/NEWS04/536967429/0/SANDR">1. Sheriff's office: death may be result of homicide</a></p><p class="text12_g16"><a href="/apps/pbcs.dll/article?AID=/20071215/NEWS04/712150026/0/SANDR">2. Chelan pursuit: Second suspect arrested, another still at large</a></p><p class="text12_g16"><a href="/apps/pbcs.dll/article?AID=/20071215/NEWS04/712150018/0/SANDR">3. Local schools get more than $815,000 in state grants</a></p><p class="text12_g16"><a href="/apps/pbcs.dll/article?AID=/20071215/SPORTS03/71215001/0/SANDR">4. Wenatchee dusts Eastmont in battle of local unbeaten teams</a></p><p class="text12_g16"><a href="/apps/pbcs.dll/article?AID=/20071215/NEWS04/712150013/0/SANDR">5. Raising  hope</a></p><p class="text12_g16"><a href="/apps/pbcs.dll/article?AID=/20071215/NEWS04/712150019/0/SANDR">6. Salvation Army in need of donations</a></p><p class="text12_g16"><a href="/apps/pbcs.dll/article?AID=/20071215/NEWS04/712150021/0/SANDR">7. All aboard as students act out 'Polar Express' on Link trolley</a></p><p class="text12_g16"><a href="/apps/pbcs.dll/article?AID=/20071212/NEWS04/712120005/0/SANDR">8. Claims of Virgin of Guadalupe image at Yakima home draw faithful crowd</a></p><p class="text12_g16"><a href="/apps/pbcs.dll/article?AID=/20071210/NEWS04/71210001/0/SANDR">9. Fire beats Troutdale</a></p><p class="text12_g16"><a href="/apps/pbcs.dll/article?AID=/20071213/NEWS04/712130007/0/SANDR">10. Chelan-area drug kingpin pleads guilty</a></p>
+        		<p>
+				</p><div id="viewed_rss"><a href="/apps/pbcs.dll/section?category=RSS"><img src="/images/rss.gif" border="0" align="left"><span class="text11_g2">&nbsp;Add MOST VIEWED RSS feed</span></a></div><p></p>
+       		</div>
+      		<div id="smost_emailed"> <span class="sechead_sm">MOST E-MAILED HEADLINES</span>
+        		
+				<p>
+        		</p><div id="emailed_rss"><a href="/apps/pbcs.dll/section?category=RSS"><img src="/images/rss.gif" border="0" align="left"><span class="text11_g2">&nbsp;Add MOST E-MAILED RSS feed</span></a></div><p></p>
+      		</div>
+    </div>
+    <div id="bottomboard"><img src="/images/promo_v.gif" border="0"><script language="JavaScript">
+<!--
+var rnd = Math.random() + "";
+var idn = rnd * 10000000000000000;
+document.write('<S'+'CR'+'IP'+'T LANGU'+'AGE="JavaScript1.1" SRC="http://wwads.sv.publicus.com/apps/OAMS.dll/src/WW001/BLEADERFULL/SANDR/20035285528333094/1001/-/;idn=' + idn + ';Type=1?"><\/SCRIPT>');
+//-->
+</script><script language="JavaScript1.1" src="http://wwads.sv.publicus.com/apps/OAMS.dll/src/WW001/BLEADERFULL/SANDR/20035285528333094/1001/-/;idn=3954198224104532.5;Type=1?"></script>
+<script>
+<!--
+	if ((!document.images && navigator.userAgent.indexOf("Mozilla/2.") >= 0) || navigator.userAgent.indexOf("WebTV")>= 0) {
+		document.write('<A HR'+'EF="http://wwads.sv.publicus.com/apps/OAMS.dll/hr'+'ef/WW001/BLEADERFULL/SANDR/20035285528333094/1001/-/;idn=' + idn + ';Type=2" TARGET="_blank">');
+		document.write('<IMG SRC="http://wwads.sv.publicus.com/apps/OAMS.dll/img/WW001/BLEADERFULL/SANDR/20035285528333094/1001/-/;idn=' + idn + ';Type=2" BORDER="0" ALT=""></A>');
+	}
+//-->
+</script>
+<noscript>
+<A HREF="http://wwads.sv.publicus.com/apps/OAMS.dll/link/WW001/BLEADERFULL/SANDR/20035285528333094/1001/-/;IDN=-1195241188;Type=3" TARGET="_blank">
+<IMG SRC="http://wwads.sv.publicus.com/apps/OAMS.dll/img/WW001/BLEADERFULL/SANDR/20035285528333094/1001/-/;IDN=-1195241188;Type=3" BORDER="0" ALT=""></A>
+</noscript>
+</div>
+        <div id="menumap">
+          <p class="text8_ab">PUBLISHED IN THE APPLE CAPITAL OF THE WORLD AND THE BUCKLE OF THE POWER BELT OF THE GREAT NORTHWEST</p>
+          <p class="text8_ab"><a href="/apps/pbcs.dll/frontpage">HOME</a> | <a href="/section/NEWS04">LOCAL NEWS</a> | <a href="/section/WEATHER">WEATHER</a> | <a href="/apps/pbcs.dll/cce?Module=10&amp;Category=Classifieds&amp;class=10020">JOB LISTINGS</a> | <a href="http://autos.wenatcheeworld.com">AUTOS</a> | <a href="http://homes.wenatcheeworld.com">HOMES</a> | <a href="http://legacy.wenatcheeworld.com">OBITUARIES</a> | <a href="/section/SPORTS">SPORTS</a> | <a href="/section/PHOTO">GALLERIES</a> | <a href="http://wenatcheeworld.com/sscontact.htm">CONTACT US</a> | <a href="http://wenatcheeworld.com/apps/pbcs.dll/misc?url=/misc/termsofuse.pbs">TERMS OF USE</a><br>
+            <a href="/section/OP">OPINIONS</a> | <a href="/apps/pbcs.dll/events?Category=EVENTS">CALENDAR</a> | <a href="/section/RSS">RSS</a> | <a href="/section/ADVSEARCH">SEARCH</a> | <a href="/section/PODCAST">PODCASTS</a> | <a href="/section/EEDITION">E-EDITION</a> | <a href="/section/ARTS">ARTS &amp; ENTERTAINMENT</a> | <a href="http://ret.wenworld.com/so/services/subscribe.php">SUBSCRIBE</a> | <a href="http://wenatcheeworld.com/article/20070314/SANDR/70314001/1001">PRIVACY POLICY</a> | HELP/FAQ<br>
+            14 N. MISSION ST, WENATCHEE, WA 98801. 509.663.5161. COPYRIGHT 2007 WORLD PUBLISHING COMPANY. ALL RIGHTS RESERVED.</p>
+        </div>
+  </div>
+  <br class="clearit">
+</div>
 
-</td></tr></tbody></table>
+<script language="JavaScript" type="text/javascript" src="/js/s_code.js"></script><img name="s_i_saxotechwenworld" height="1" width="1" border="0" alt="" src="https://saxowenworld.122.2O7.net/b/ss/saxotechwenworld/1/H.5-pdv-2/s1431721297559?[AQB]&amp;ndh=1&amp;t=30/0/2020%2011%3A47%3A13%204%200&amp;ns=saxowenworld&amp;cdp=2&amp;pageName=Services%20and%20Registration%2Cwenatcheeworld.com%20Privacy%20Policy%3A20070314%3A70314001&amp;g=https%3A//web.archive.org/web/20071217223937id_/http%253A//wenatcheeworld.com/article/20070314/SANDR/70314001/1001&amp;cc=USD&amp;ch=Sandr&amp;server=S260608DC2EW25&amp;c1=Story&amp;h1=Services%20and%20Registration%2Cwenatcheeworld.com%20Privacy%20Policy%3A20070314%3A70314001&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]"><script language="JavaScript" type="text/javascript">
+s.Account="saxotechwenworld"
+s.cookieDomainPeriods="2"
+s.pageName="Services and Registration,wenatcheeworld.com Privacy Policy:20070314:70314001"
+s.server="S260608DC2EW25"
+s.channel="Sandr"
+/* Traffic Variables */
+s.prop1="Story"
+/* E-commerce Variables */
+/* Hierarchy Variables */
+s.hier1="Services and Registration,wenatcheeworld.com Privacy Policy:20070314:70314001"
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();
+if(s_code)document.write(s_code)
+</script>
+<noscript>
+<img src="http://grndsinchant.112.2O7.net/b/ss/grndsinchant/1/H.2--NS/0"
+height="1" width="1" border="0" alt="" /></noscript>
 
-</p></macro></body></html>
+
+</body></html>
