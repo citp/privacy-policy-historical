@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 4shared.com privacy policy that was archived on 2007-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070501063857id_/http%3A//www.4shared.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4shared.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217081459id_/http%3A//www.4shared.com/privacy.jsp) for the most accurate reproduction.*
 
-# 4shared.com - free file sharing and storage - Privacy
+# 4shared.com - free file sharing and storage - Privacy Policy
 
 4shared is the official trademark of pmStation. Your use of www.4shared.com site is governed by 4shared Terms of Use and this Privacy Policy. The purpose of this Privacy Policy is to disclose what services we provide, how the information you store at the 4shared may be used, and how such information is both protected and made available on our Web site. 
 
