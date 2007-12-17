@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the afp.gov.au privacy policy that was archived on 2007-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070610090831id_/http%3A//www.afp.gov.au/utilities/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afp.gov.au privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217213149id_/http%3A//www.afp.gov.au/utilities/privacy_statement) for the most accurate reproduction.*
 
 # Privacy statement - AFP
 
@@ -27,9 +27,9 @@ If you do not wish to use an online form, you may download a hard copy from the 
 
 The Australian Federal Police will only record your email address if you send us a message. The address you supply will be used only for the purpose for which you have provided it, and will not be disclosed or added to a mailing list without your consent.
 
-You are reminded that, with the exception of encrypted forms as described above, messages sent from this site over the Internet are not secure. For further information on the Internet and security, you should read the [Disclaimer](https://web.archive.org/web/20070610090831id_/http%3A//www.afp.gov.au/utilities/disclaimer.html).
+You are reminded that, with the exception of encrypted forms as described above, messages sent from this site over the Internet are not secure. For further information on the Internet and security, you should read the [Disclaimer](https://web.archive.org/web/20071217213149id_/http%3A//www.afp.gov.au/utilities/disclaimer.html).
 
-To help reduce spam, we do not publish our email addresses on this site. Email addresses which were published on earlier versions of the site are now inactive.  Please use an [online form](https://web.archive.org/web/20070610090831id_/http%3A//www.afp.gov.au/utilities/privacy_statement8916.html?a=7747) if you wish to send us a message.
+To help reduce spam, we do not publish our email addresses on this site. Email addresses which were published on earlier versions of the site are now inactive.  Please use an [online form](https://web.archive.org/web/20071217213149id_/http%3A//www.afp.gov.au/utilities/privacy_statement8916.html?a=7747) if you wish to send us a message.
 
 #### Clickstream data
 
