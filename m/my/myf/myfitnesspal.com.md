@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the myfitnesspal.com privacy policy that was archived on 2007-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070411065331id_/http%3A//www.myfitnesspal.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfitnesspal.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217190212id_/http%3A//www.myfitnesspal.com/welcome/privacy_policy) for the most accurate reproduction.*
 
-# MyFitnessPal.com - Privacy Policy
-
-**MyFitnessPal.com Privacy Policy**
+# Privacy Policy - MyFitnessPal.com
 
 **What's our policy?**  
 MyFitnessPal.com takes your privacy seriously. We are committed to ensuring that the personal information we gather from you is secure and confidential. We do not sell, rent or trade our customers' personal data. 
@@ -56,4 +54,4 @@ Our web sites may contain links to other, third party web sites. Please be aware
 When you use the MyFitnessPal.com sites to provide personally identifiable information, you consent to the collection and use of that information in accordance with this privacy policy. If we alter our privacy policy in any way we will post those changes here. If we make any substantial changes in the way we use your personal data, we will post those changes on our MyFitnessPal.com web site. 
 
 **Any more questions?**   
-If you have any concerns, questions, or just want to tell us what you think, feel free to [ contact us.](mailto:support@myfitnesspal.com)
+If you have any concerns, questions, or just want to tell us what you think, feel free to [contact us.](https://web.archive.org/welcome/contact_us)
