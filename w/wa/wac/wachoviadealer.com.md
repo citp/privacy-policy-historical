@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wachoviadealer.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623204544id_/http%3A//www.wachoviadealer.com/AboutWDS/Privacy_Statement/default.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wachoviadealer.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217022821id_/http%3A//www.wachoviadealer.com/AboutWDS/Privacy_Statement/default.asp) for the most accurate reproduction.*
 
 # Wachovia Dealer Services > Privacy Statement
 
@@ -139,7 +139,7 @@ We recommend that you follow these security measures to protect and help prevent
 We strive to maintain complete and accurate information about you and your accounts. If you ever believe that our records contain inaccurate or incomplete information about you, please let us know immediately by contacting Wachovia Dealer Services at 800-289-8004.We are committed to resolving any inaccuracies as quickly as possible. 
 
 _Credit Reporting Agencies_  
-If you believe we have reported inaccurate information about your account to any credit reporting agency, please let us know in writing. Be sure to include your complete name, current address, Social Security Number, telephone number, account number, type of account, specific item of dispute and the reason you believe the information is wrong. Send your notice to: Wachovia Dealer Services, P.O.Box 168048, Irving, TX 75016-8048. We will investigate your concern and correct any inaccuracies we find. We will inform you of any actions we take. 
+If you believe we have reported inaccurate information about your account to any credit reporting agency, please let us know in writing. Be sure to include your complete name, current address, Social Security Number, telephone number, account number, type of account, specific item of dispute and the reason you believe the information is wrong. Send your notice to: Wachovia Dealer Services - CBDRU, P.O.Box 1697, Winterville, NC 28590. We will investigate your concern and correct any inaccuracies we find. We will inform you of any actions we take. 
 
 **If You Have Questions, Contact Us**  
 We welcome the opportunity to answer any questions you may have about this statement or the safeguarding and confidentiality of information about our customers. Please visit our web site at [wachoviadealer.com/privacy](https://web.archive.org/AboutWDS/Internet_Privacy/default.asp), or call us at 800-289-8004, Monday - Friday from 5 a.m. to 7 p.m. PT to speak to a representative. 
