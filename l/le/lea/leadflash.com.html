@@ -1,27 +1,58 @@
-<!--The following is the downloaded HTML source of the leadflash.com privacy policy that was archived on 2007-06-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070618182311id_/http%3A//leadflash.com/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the leadflash.com privacy policy that was archived on 2007-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071217034417id_/http%3A//www.leadflash.com/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Master_MasterHead"><title>
 	Privacy
 </title><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><link href="/Design/css/Master.css" rel="stylesheet" type="text/css"><link href="/Design/css/Styles.css" rel="stylesheet" type="text/css">
+    <script language="javascript" type="text/javascript" src="/ScriptLibrary/jQuery/1.2.1/jquery-packed.js"></script>
+    <script type="text/javascript" src="/ScriptLibrary/jQuery/1.2.1/plugins/greybox/greybox.js"></script>
+    <link href="/ScriptLibrary/jQuery/1.2.1/plugins/greybox/greybox.css" rel="stylesheet" type="text/css" media="all">
     <script language="javascript" type="text/javascript" src="/common/code.js"></script>
     <script language="javascript" type="text/javascript">
     var _PageIsFullyLoaded = false;
+    var _PFL = false;
+    var _ShowingModal = false;
+
     function _InitPageLoad() {
         _PageIsFullyLoaded = true;
+        _PFL = true;
     }
     addLoadEvent(_InitPageLoad);
-    </script>
-<script type="text/javascript" src="/ScriptLibrary/ToolTip/ToolTip_packed.js"></script></head>
 
-<body id="ctl00_Master_LFBody1">
+    var GB_ANIMATION = true;
+    $(document).ready(function() {
+        $("a.greybox").click(function() {
+            var thisID = '#' + this.id;
+            var t = this.title || $(this).text() || this.href;
+            var h = 450;
+            var w = 500;
+            var overlayclose = ($(thisID).attr("overlayclose")) ? true : false;
+            var hideclose = ($(thisID).attr("hideclose")) ? true : false;
+            if ($(thisID).attr("size")) {
+                var hit = '' + $(thisID).attr("size");
+                hit = hit.match(/^(\d+)x(\d+)$/);
+                if (hit && hit.length == 3) {
+                    w = Number(hit[1]);
+                    h = Number(hit[2]);
+                }
+            }
+            _ShowingModal = true;
+            GB_show(t,this.href,h,w,overlayclose,hideclose);
+            return false;
+        });
+    });
+
+    </script>
+    <script type="text/javascript" src="/ScriptLibrary/ToolTip/ToolTip_packed.js"></script></head><body id="ctl00_Master_LFBody1"><div id="dhtmltooltip"></div><img id="dhtmlpointer" src="/ScriptLibrary/ToolTip/arrow2.gif" alt="">
+
+
 
     <form name="aspnetForm" method="post" action="privacy.aspx" id="aspnetForm" style="display: inline;">
 <div>
 <input type="hidden" name="ContextUser" id="ContextUser" value="">
 <input type="hidden" name="ErrorPane" id="ErrorPane" value="ctl00_Master_ErrorPane">
 <input type="hidden" name="ThisUser" id="ThisUser" value="">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="yJQ54EKERn1GhjvYCSAIqZDw+B6nfyFm3RSi4GuZEXspj00yFKgaqv5+qEGjhcYcsgj34rYm8lRI2Q+oFa1veiqXluWHSiMtlTmehN3XKXyE1U9WFOnoelYkAz9e4re85D1gkkVlkfjc6NjOx+KqQUBYDMeb3r+hP1SzSB+go4iw2g+ShunhR2NcKeUKEUyAe3Qlpe1KlyllmZ63EPLjp42VGqn954l+C3zFEhlOijrnd+pSNe3QaH/UwNCeARiB4zM6odlCxQ9jG/F5vFbfHtjxigakB5KXc9LFeJgKdB0=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="yJQ54EKERn1GhjvYCSAIqZDw+B6nfyFm3RSi4GuZEXspj00yFKgaqv5+qEGjhcYcsgj34rYm8lRI2Q+oFa1veiqXluWHSiMtlTmehN3XKXyE1U9WFOnoelYkAz9e4re85D1gkkVlkfjc6NjOx+KqQUBYDMeb3r+hP1SzSB+go4g2EyW3ZS99CmhyuuJXGS/tkkcj1WYcm+gGP5AYip2fshT3t9SEWfth5L39ekvem5foaaqgdCTrglbZGZu6Mt/EEQuxPvGKtS1BmspkD0MAtcDN1IPb0M6UdrbYnwLNV3Wbsct/srYoy5CNIc/+NI5IZeC/a5IxQK6FlWLwY5eheaO4j3Fh3ZLIi3NPnBJemxk=">
 </div>
 
 
@@ -70,13 +101,15 @@
 <table id="ctl00_Master_MainContent_LoginForm1_Login1" cellspacing="0" cellpadding="0" border="0" style="border-collapse:collapse;">
 		<tbody><tr>
 			<td>
-        <div class="login">User Name:</div>
+        <div class="login">User Name: (could be email)</div>
         <input name="ctl00$Master$MainContent$LoginForm1$Login1$UserName" type="text" id="ctl00_Master_MainContent_LoginForm1_Login1_UserName" style="width:150px"><br>
         <div class="login">Password:</div>
         <input name="ctl00$Master$MainContent$LoginForm1$Login1$Password" type="password" id="ctl00_Master_MainContent_LoginForm1_Login1_Password" style="width:150px"><br>
-        <input type="HIDDEN" name="next" value="/">
-        <div><input type="image" name="ctl00$Master$MainContent$LoginForm1$Login1$btnLogin" id="ctl00_Master_MainContent_LoginForm1_Login1_btnLogin" value="Login" src="/images/login.gif" style="border-width:0px;border:none"></div>
+        <div class="login">Remember Login Info:</div>
+        <div><span class="SpacedImage"><input id="ctl00_Master_MainContent_LoginForm1_Login1_chkKeep" type="checkbox" name="ctl00$Master$MainContent$LoginForm1$Login1$chkKeep"><label for="ctl00_Master_MainContent_LoginForm1_Login1_chkKeep">&nbsp;Keep for 3 days</label></span></div>
+        <div style="padding-top: 4px;"><input type="image" name="ctl00$Master$MainContent$LoginForm1$Login1$btnLogin" id="ctl00_Master_MainContent_LoginForm1_Login1_btnLogin" value="Login" src="/images/login.gif" style="border-width:0px;border:none"></div>
         <div><a href="Login.aspx?Mode=Forgot" style="color: blue; text-decoration: none;">Forgot your password?</a></div>
+        <input type="hidden" name="next" value="/">
     </td>
 		</tr>
 	</tbody></table>
@@ -104,7 +137,7 @@
     
 <div>
 
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="XoI+/xwRWW2I53/gPxDDwUXdwTavRb9QB3FnAinUf/4Z+480Qv0DF9l40o7B5EU2TCw4feS2eXaesl51VdGW4Q==">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="6OoxQspxaHN3lFnTcR0WBKm9kzKwc5gYKqDlfRteUh1FTMaLGRYK+wUjXdcz9BKKTDnj6hpG9Hw6EVT3R2jugw==">
 </div>
 
 
@@ -118,7 +151,7 @@
 
 
 <!-- Relocated Javascript -->
-<script src="/ScriptResource.axd?d=sx7lPLnLZaa20QldEgJ3dp2YgQWlECaLCSb5B8fa2lFdAv_msnarIcRG3pI_X4Hy5qHR5GcKfPaYZK65y45fV7prisMPfqUmnTRogdYYxwQ1&amp;t=633125113545468750" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=sx7lPLnLZaa20QldEgJ3dp2YgQWlECaLCSb5B8fa2lFdAv_msnarIcRG3pI_X4Hy5qHR5GcKfPaYZK65y45fV7prisMPfqUmnTRogdYYxwQ1&amp;t=633180331740000000" type="text/javascript"></script>
 <script type="text/javascript">
 <!--
 Sys.Application.initialize();
