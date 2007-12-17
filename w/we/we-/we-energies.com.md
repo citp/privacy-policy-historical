@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the we-energies.com privacy policy that was archived on 2007-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070101023901id_/http%3A//www.we-energies.com/home/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the we-energies.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217043512id_/http%3A//www.we-energies.com/home/privacy_policy.htm) for the most accurate reproduction.*
 
 # We Energies Business | Water Service
 
@@ -17,10 +17,10 @@ c) Your bank account information is used to provide a complete online billing an
 d) Your Social Security or tax ID information is necessary to establish utility service using the online application.
   3. Only authorized We Energies employees, and other organizations hired to provide support services, will have access to your personal and account information you provide. Those employees and organizations have signed a policy statement or confidentiality agreement regarding the use of your personal and account information.
   4. Whenever we hire outside firms to provide support services, we will require that they conform to our customer information confidentiality standards and requirements.
-  5. Your personal and account information will not be shared with any organization or individual that does not provide support services unless we have written authorization from you, or we are required to provide the information by law.
+  5. Your personal and account information will not be shared with any organization or individual that does not provide support services unless we have written authorization from you, or we are required to provide the information by law. We do not sell customer information.
   6. When you visit our site, we may record some details about your visit for statistical and administrative purposes. Information we may gather could include your server address, top level domain name (for example .com, .gov, etc.), the date and time of your visit to the site, the pages accessed and documents downloaded, and the type of browser used.
-  7. If you need to correct the information we have on file for you or your account, you may contact us via [e-mail](mailto:contactwe@mail.we-energies.com), or by phone at **1-800-242-9137**.
-  8. We take your privacy seriously. If you have any comments or concerns with our privacy policy, please contact us via [e-mail](mailto:contactwe@mail.we-energies.com), or by phone at **1-800-242-9137** to discuss your concerns.
+  7. If you need to correct the information we have on file for you or your account, you may contact us via [e-mail](mailto:contactwe@mail.we-energies.com), or by phone at **(800) 242-9137**.
+  8. We take your privacy seriously. If you have any comments or concerns with our privacy policy, please contact us via [e-mail](mailto:contactwe@mail.we-energies.com), or by phone at **(800) 242-9137** to discuss your concerns.
 
 
 
