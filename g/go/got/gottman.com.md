@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gottman.com privacy policy that was archived on 2007-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070416082909id_/http%3A//www.gottman.com/contact/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gottman.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217052355id_/http%3A//www.gottman.com/contact/privacy) for the most accurate reproduction.*
 
 # The Gottman Institute - Contact Us- Privacy Policy
 
