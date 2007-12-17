@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the babycentre.co.uk privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627062156id_/http%3A//www.babycentre.co.uk/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babycentre.co.uk privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217142449id_/http%3A//www.babycentre.co.uk/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-### Poll
-
-[](https://web.archive.org/preconception/tryingforanother/howmanytestspoll/)
-
-How many positive pregnancy tests did you have before you believed the result? [Vote now!](https://web.archive.org/preconception/tryingforanother/howmanytestspoll/)
 
 |  | 
 
