@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hollywoodbowl.co.uk privacy policy that was archived on 2007-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070511235624id_/http%3A//www.hollywoodbowl.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hollywoodbowl.co.uk privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217080950id_/http%3A//www.hollywoodbowl.co.uk/privacy.php) for the most accurate reproduction.*
 
 # hollywood bowl - Privacy Policy
 
@@ -29,7 +29,7 @@ If you choose to benefit from this service we promise:
 
 
 
-When you provide any information online, you should look for the 'Opt In' box which you can click to say you consent to your information being used for marketing purposes. If you have not previously objected to us using your information for marketing purposes, you may change your mind at any time by [unsubscribing](https://web.archive.org/web/20070511235624id_/http%3A//www.hollywoodbowl.co.uk/email.php), writing to or emailing us at:-
+When you provide any information online, you should look for the 'Opt In' box which you can click to say you consent to your information being used for marketing purposes. If you have not previously objected to us using your information for marketing purposes, you may change your mind at any time by [unsubscribing](https://web.archive.org/web/20071217080950id_/http%3A//www.hollywoodbowl.co.uk/email.php), writing to or emailing us at:-
 
 Data Protection Officer   
 Mitchells & Butlers Retail  
@@ -71,4 +71,4 @@ How we use cookies **
 Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. This practice is strictly in force. We know that people have concerns about cookies, but we believe that the benefit we both gain from their proper use is worthwhile. You may set your web browser (Microsoft Internet explorer or Netscape navigator) to notify you of cookie placement requests or decline cookies completely. You can delete the files that contain cookies those files are stored as part of your Internet browser.
 
 **Contact us**  
-If you have any questions/comments about privacy, you should contact us using the [feedback form](https://web.archive.org/web/20070511235624id_/http%3A//www.hollywoodbowl.co.uk/feedback.php) provided on this site. 
+If you have any questions/comments about privacy, you should contact us using the [feedback form](https://web.archive.org/web/20071217080950id_/http%3A//www.hollywoodbowl.co.uk/feedback.php) provided on this site. 
