@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the dialidol.com privacy policy that was archived on 2007-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070203142128id_/http%3A//www.dialidol.com/asp/privacy/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dialidol.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217201955id_/http%3A//www.dialidol.com/asp/privacy/privacy.asp) for the most accurate reproduction.*
 
-# DialIdol.com - Speed dial your favorite American Idol ®s to the next round. This free program uses your modem and the power of the Internet to give new meaning to making every vote count.
+# DialIdol.com - Measuring the busy signal.
 
 Your privacy is important to you, I know this because my privacy is important to me. As a result your privacy is important to DialIdol. DialIdol respects that you are trusting the application to run on your computer and doesn't collect any personal information. Here is what DialIdol collects and submits back to DialIdol.com
 
   * DialIdol tracks _who_ you attempted to vote for and whether that call resulted in a busy signal, error or timeout (vote). This information is submitted to DialIdol.com.
   * DialIdol notes the time difference between your computers clock and DialIdol.com's web server.
   * The version of DialIdol you are running.
+  * Your network cards MAC address. The MAC address is used as a means to uniquely identify the results you are submitting. It is not associated with any other information.
+  * Your area code is collected so that your results can be charted on the GeoPredictions map. Your area code is not associated with any other information.
   * If you choose to use DialIdol.com 's forums the information that your provide relating to your logon ID, name, email address, etc. will be collected. This information will be input by you and stored for your convenience on DialIdol.com's forum server. Your email address will be made public if you elect to allow people to send you email. Your first name and surname will be made public if you choose to provide that information. None of this information will be shared with anyone outside of DialIdol.com.
 
 
