@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the contractwebdevelopment.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630025854id_/http%3A//www.contractwebdevelopment.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contractwebdevelopment.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217100542id_/http%3A//www.contractwebdevelopment.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CWD
+
+  
+
 
 ## Privacy Policy
 
@@ -57,3 +60,17 @@ Contract Web Development Inc. is the sole owner of the information collected on 
 ## Who can we contact if we have further questions about the privacy policy of this Site?
 
 If you have any questions about this policy or about how Personal Information collected on our Web site is used, you can contact Contract Web Development Inc. via mail or feedback form, both of which can be found on the [Contact Information](https://web.archive.org/contact-information) page.
+
+Visit our Store
+
+Contract Web Development has launched a storefront, in association with Amazon.com, that offers hand-picked selections by our senior developers covering search marketing, web design and development, content management systems, and more.  [Visit our store](http://community.contractwebdevelopment.com/store) now!
+
+Get a Quote Now
+
+**Need a Website Now?**
+
+Do you need a website ASAP? Contract Web Development is known for its fast turnarounds. To get started as quickly as possible, proceed to our [Quote For Services](https://web.archive.org/quote-for-services) form. We will respond within two business days. For more details on our work, read our [services](https://web.archive.org/services) page.
+
+Website Templates
+
+We invite you to browse our [library of website templates](https://web.archive.org/website-templates) \- you may search by keyword and category to find what you're looking for.  If you find one you like, simply [contact us](https://web.archive.org/template-request) with the template item # (available under "template info" on the right hand side of the template's detail page) and we'll respond within two business days with an estimate.
