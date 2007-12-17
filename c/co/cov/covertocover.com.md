@@ -1,69 +1,53 @@
-> *The following text is extracted and transformed from the covertocover.com privacy policy that was archived on 2001-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010413223555id_/http%3A//www.oxygen.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the covertocover.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217142623id_/http%3A//www.covertocover.com./privacy_policy.php) for the most accurate reproduction.*
 
-# Privacy Policy on Oxygen
+# COVER TO COVER
 
-**Oxygen's Online Privacy Policy**
+PRIVACY POLICY 
 
-We are committed to protecting the privacy and security of the users of our sites.
+* * *
 
-This privacy policy will advise you about how we protect your personal information, and about what choices you have concerning our use of such information. Please read this policy carefully. We may need to change this policy from time to time in order to address new issues and reflect changes on our sites. We will post those changes here so that you will always know what information we gather, how we might use that information, and whether we will disclose that information to anyone. Please refer back to this policy regularly.
+We are committed to protecting your personal security and privacy, and we appreciate your trust that we will do so. By collecting such information at our website we strongly believe that we can significantly improve our level of customer service and make your future visits to our website more worthwhile.
 
-If you have any questions or concerns about our privacy policy, please send us an e-mail to: [info@oxygen.com](mailto:info@oxygen.com).
+This Privacy Policy is incorporated into and is subject to our Terms of Use. Your use of our websites and any personal information you provide on our websites remains subject to the terms of this Privacy Notice and our Terms of Use. By visiting this site you are accepting the practices described in this policy.
 
- **Scope Of Privacy Policy**
+Information we collect
 
-This policy applies to your use of all of the sites and services owned or operated by Oxygen Media, Inc., and affiliated companies (collectively "Oxygen" or "we," "us," or "our"), including oxygen.com, Moms Online, Thriveonline, Electra, ka-Ching, The Lab, Oprah.com, Breakup Girl, Girls On, O2 Simplify and any other site that we may own or operate currently or in the future (collectively, the "Oxygen Sites"). Unless we say otherwise, all references to the Oxygen Sites in this policy include all such sites. This policy does not apply to your use of unaffiliated sites to which any of the Oxygen Sites only links.
+We collect information (such as your name, email address, phone number and credit card number) that you provide when you register to receive updates, place an order at CovertoCover.com, save your information with us or participate in a promotion or survey. We also maintain a record of your purchases from our website.
 
- **Personal Identification Information**
+How we use your information
 
-We will never intentionally disclose any personal identification information about you as an individual user (such as, for example, your full name, street address, telephone number, credit card number or e-mail address) to any third party without having received your permission. We may request personal identification information from you in connection with your use of, or participation in, our contests, sweepstakes, games, surveys, forums, subscription registrations, content submissions, chats, bulletin boards, discussion groups, requests for suggestions, visitors' requests for free products or services or additional information, and in connection with other activities, services or resources we make available on any of our sites. In all of these cases, we will collect personal identification information from you only if you voluntarily submit such information to us.
+When you make an online purchase from us, we use your information to process your order. We will also send you emails to confirm your order, and we may need to contact you via phone, postal mail or email if we have other questions regarding your order. In addition, you will be automatically signed up to receive email updates about our products, services, promotions and additions to our websites.
 
-If you do provide us with personal information, we may use it to conduct the activities described above. If you identify yourself to us by sending us an e-mail with questions or comments, we may use your personal information to respond to your questions or comments. We may file your comments for future reference, or we may discard the information after we have reviewed it.
+You can be removed from our email list by following the directions on any email that we send to you or by clicking on the "MY ACCOUNT" link in the top right corner of any page on our website. Please note that it may up to six to eight weeks to remove your from our list.
 
-We may also contact you to confirm your registration and about your account status (for example, when a child enters a new age group to which different policies apply), and regarding changes to the Oxygen Sites' Terms and Conditions and this Privacy Policy. 
+Sharing your information
 
-If you give us your permission, we may also use personal identification information for internal or external marketing and promotional purposes. On occasion, for example, we may send you e-mails to introduce a product or service that we think might be of interest to the users of our sites. For us to obtain your permission to send you this information, we will give you an opportunity to "opt-in" at the time our request for your personal information is made. If you do "opt-in," you may choose to "opt-out" at any time, even after you have provided personal information, by following the procedures set forth below at the end of this Privacy Policy. Please note, however, that under certain circumstances, if you initially do not choose to "opt-in," or if you later "opt-out," you may not be eligible for certain benefits for which a name, e-mail address, telephone number or other personal identification information is needed.
+We do not rent or sell any information about our customers to any other marketers. We do however provide limited customer information to other companies who we employ to perform some functions on our behalf. Examples include processing credit card payments, delivering packages, sending postal mail and e-mail, and analyzing data. These companies have access to personal information needed to perform their functions, but have agreed not to use it for other purposes.
 
-We have the following exceptions to these policies: We will release specific information about you or your account to comply with any valid legal process such as a search warrant, subpoena, statute or court order. We will also release specific information in special cases, such as if there is an attempted breach of the security of the Oxygen Sites, or a physical threat to you or others.
+How we use Cookies
 
-Please note that if you give out personal information online -- for example, through a message board or chat room -- that information can be collected and used by third parties. Although we strive to protect our users' privacy, we cannot guarantee the security of information you post in these forums. You disclose such information at your own risk.
+When you use our site we will store cookies on your computer in order to facilitate and customize your use of our site. A cookie is a small data text file, which a website stores on your computer's hard drive (if your Web browser permits) that can later be retrieved to identify you. Our cookies store randomly assigned user identification numbers and other various information. The cookies make your use of the site easier and make the site run more smoothly. We may also use cookies for displaying advertising to users of our websites. You will be unable to use our websites' personalized features, or shop at our websites, without your browser set to accept cookies.
 
- **Privacy of Children**
+Email Opt-out
 
-Oxygen understands that young people need special safeguards and privacy protection. We realize that they may not understand all the provisions of our policy or be able to make thoughtful decisions about the choices that are made available to our adult users. We urge all parents to participate in their children's exploration of the Internet and any online services, and to teach their children about protecting their personal information while online.
+If you have elected to receive newsletters or promotional or marketing correspondence and later decide that you no longer wish to receive such correspondence from us in the future, you may opt-out from further receipt by following the opt-out instructions provided in such correspondence.
 
-The Oxygen Sites are not directed to children under the age of 13. Oxygen prohibits registration by children under the age of 13 for all interactive portions of the Sites including chats and message boards. Oxygen knowingly will not collect personally identifiable information from children under 13.
+Security / Safe Shopping Guarantee
 
-Note to Parents. If you have any concerns about the Oxygen Sites or their related services, please e-mail: [info@oxygen.com](mailto:info@oxygen.com).
+Protecting the safety of your credit card information is important to us. Ordering from our site is as secure as ordering via a catalog or using your credit card at your favorite restaurant. When you shop from trusted online merchants like us your online experience should be worry free.
 
-**Non-Personal Identification Information And The Use Of Cookie Technology**
+We use SSL (Secure Socket Layering) 128 bit encryption, the gold standard in Internet encryption technology, to protect your information as it travels over the Internet.
 
-We collect non-personal identification information through the use of "cookie" technology and/or IP address tracking. Non-personal identification information might include the browser you use, the type of computer, the operating systems, the Internet service providers and other similar information. Our system also automatically gathers information about the areas you visit on our sites and about the links you may select from within our site to other areas of the World Wide Web or elsewhere online.
+Under the Fair Credit Billing Act, your bank cannot hold you liable for more than $50 of fraudulent charges.
 
-We use such information in the aggregate to understand how our users as a group use the services and resources provided on our sites. This way we know which areas of our sites are favorites of our users, which areas need improvement, and what technologies are being used so that we may continually improve our sites.
+If you suspect any illegal use of your card, call your issuing bank immediately to make sure your rights are protected.
 
-We may share this aggregate statistical information with our partners, suppliers and other third parties, but we will not share any individual names, personal navigational or other personal information. Some of our advertisers may display ads on our sites which solicit or contain technology to collect information about our users for the advertisers, but we will not permit such advertisers to collect any personal information from our users within our sites.
+Questions?
 
-Most browsers are set to accept cookies. You can set your browser to refuse cookies, or to alert you when cookies are being sent. If you do so, please note that some parts of the Oxygen Sites, such as message boards, chats, shopping, contests and game areas, may not function properly.
+Questions regarding this Policy should be directed to privacy@covertocover.com. We may also be contacted directly at the following address:
 
- **Links To Other Sites**
+Attn: Privacy Officer  
+Bondi Digital Publishing  
+88 Tenth Avenue, 6th Floor  
+New York, NY 10011  
 
-Users will find advertising or other contents on our sites that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. In many cases, the links represent cooperative projects or are mutual links established with persons or entities connected with our sites. Although we initially visit the sites or services that are so linked, we do not control the contents or links that appear on these sites. In addition, these sites or services, including their contents and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies, or no policy (policies) at all. We encourage you to review the privacy policies of any third party sites or services before providing any of them with your personal information.
-
- **Security Policy**
-
-Protecting your privacy and your information is a top priority. We have taken careful measures to secure both your information and our physical premises. We exercise great care in providing secure transmission of your information from your PC to our servers. Our secure server software encrypts information, ensuring that all Internet transactions remain private (unless sent by an unsecured means, such as e-mail).
-
- **Access To/Correction of Information**
-
-If you would like to review any personal information we have retained about you in our database, please send us an e-mail request for this information at [myinfo@oxygen.com](mailto:myinfo@oxygen.com). Once you have reviewed this information, at your request we will correct personal information about you that you state is erroneous. To request such a correction, please send an e-mail to [newinfo@oxygen.com](mailto:newinfo@oxygen.com?subject=Privacy%20Policy).
-
- **Choice/Opt-Out**
-
-If you "opt-in" to receive information from Oxygen or others, you can change your mind later. If at any time you would like to stop receiving such information, you can let us know by sending an e-mail stating your preference to [optout@oxygen.com](mailto:optout@oxygen.com).
-
- **Your Acceptance of These Terms**
-
-By using any of the Oxygen Sites, you signify your acceptance of our Privacy Policy. If you do not agree to this policy, please do not use our sites. Your continued use of the Oxygen Sites following the posting of changes to these terms will mean that you accept those changes.
-
-(Last modified on January 5, 2001.)
