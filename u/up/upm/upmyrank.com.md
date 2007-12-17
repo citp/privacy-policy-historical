@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upmyrank.com privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609204307id_/http%3A//www.upmyrank.com/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upmyrank.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217093153id_/http%3A//www.upmyrank.com/privacypolicy.shtml) for the most accurate reproduction.*
 
 # Give Your Alexa Rank A Boost
 
