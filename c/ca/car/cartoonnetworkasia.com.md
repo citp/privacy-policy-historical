@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cartoonnetworkasia.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629031606id_/http%3A//www.cartoonnetworkasia.com/jsp/help/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartoonnetworkasia.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217121654id_/http%3A//www.cartoonnetworkasia.com/jsp/help/privacy/index.jsp) for the most accurate reproduction.*
 
-# Cartoon Network - Privacy Policy
+# Cartoon Network - Help
 
 PRIVACY POLICY
 
