@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the commonsensemedia.org privacy policy that was archived on 2007-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070621160534id_/http%3A//www.commonsensemedia.org/about_us/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commonsensemedia.org privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218005051id_/http%3A//www.commonsensemedia.org/about_us/privacy.php) for the most accurate reproduction.*
 
 # Common Sense Media - Family Friendly Reviews
 
 #### Welcome to Common Sense Media
 
-We do not share, sell or rent any personal information (i.e. name or contact information) voluntarily or involuntarily disclosed by visitors of this site with anyone for any reason, except in accordance with this Privacy Policy. If you feel that this Website is not abiding by its posted privacy policy, you should first contact us by email at privacy[at]commonsensemedia[dot]org. Should this policy change, we will post a notice on our site. 
+We do not share, sell or rent any personal information (i.e. name or contact information) voluntarily or involuntarily disclosed by visitors of this site with anyone for any reason, except in accordance with this Privacy Policy. If you feel that this Website is not abiding by its posted privacy policy, you should first contact us by email at privacy[at]commonsensemedia[dot]org. Should this policy change, we will post a notice on our site.
 
 #### Information We Collect and How We Use It 
 
-Because we respect your privacy, we want to disclose to you how we use the information that you provide to us online. Following is a list of the kinds of information we collect on our site, and how we use that information. 
+Because we respect your privacy, we want to disclose to you how we use the information that you provide to us online. Following is a list of the kinds of information we collect on our site, and how we use that information.
 
 #### Cookies
 
@@ -43,7 +43,7 @@ On the registration page we ask for the following pieces of information:
 
 **First Name** \-- We collect your name (optional) so we can have a complete list of the users of our website and so we can personalize the email newsletters that we send to you. 
 
-**Number of Kids** \-- We use this information to better understand the users of our site. 
+**Number of Kids** \-- We use this information to better understand the users of our site.
 
 #### Weekly Newsletter
 
@@ -53,7 +53,7 @@ If you sign up to receive our weekly newsletter and later want to be removed fro
 
 #### Limited Disclosure
 
-Notwithstanding the foregoing, we reserve the right to release information contained within our records concerning any visitor in order to comply with a subpoena, warrant or other court order, and to release such information in response to court and governmental orders, civil subpoenas, discovery requests and as otherwise required by law. We cooperate with law enforcement agencies in identifying those who may be using our servers or services for illegal activities. We also reserve the right to report any suspected illegal activity to law enforcement individuals or entities, and to release information relating to such suspected illegal activity. We further reserve the right to release any information to protect the rights, safety, security, or property of CSM, our visitors, or the public or to respond to an emergency. 
+Notwithstanding the foregoing, we reserve the right to release information contained within our records concerning any visitor in order to comply with a subpoena, warrant or other court order, and to release such information in response to court and governmental orders, civil subpoenas, discovery requests and as otherwise required by law. We cooperate with law enforcement agencies in identifying those who may be using our servers or services for illegal activities. We also reserve the right to report any suspected illegal activity to law enforcement individuals or entities, and to release information relating to such suspected illegal activity. We further reserve the right to release any information to protect the rights, safety, security, or property of CSM, our visitors, or the public or to respond to an emergency.
 
 #### Content and Ratings
 
