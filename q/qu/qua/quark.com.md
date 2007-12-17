@@ -1,57 +1,53 @@
-> *The following text is extracted and transformed from the quark.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623063957id_/http%3A//www.quark.com/about/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quark.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217045110id_/http%3A//www.quark.com/about/legal/privacy.html) for the most accurate reproduction.*
 
 # Quark: Privacy Policy
 
-## Privacy policy
+## Quark Web Privacy Policy
 
-Please read our Privacy Policy, as it is part of these Terms and Conditions. You can browse the Quark Web site without disclosing any “personal information.” By personal information, we mean that information that is specific to you and by which you are easily identified, such as your name, mailing address and e-mail address. Quark does not automatically log the personal information of the visitors to its Web site or link information that may be automatically logged by other means with the personal information of specific individuals. We only collect the personal information that you provide to us voluntarily. Our Privacy Policy explains how the Quark affiliated companies use the information you provide to us when you join our mailing list, open an account on the QuarkStore, submit an online request for product information, register a product online, or download demo software or certain updates. You acknowledge and agree that we may use and store information about you and your orders in accordance with our Privacy Policy. 
+Privacy is important to Quark, Inc. ("Quark" or "we"). This privacy policy explains Quark's web site and services (collectively, the "Service"). Effective Date: July 3, 2007.   
+If you feel that Quark is not abiding by this privacy policy, you should contact Quark at [legal@quark.com](mailto:legal@quark.com).
 
-We respect the privacy of our customers and therefore have adopted the following set of information management guidelines. We will only use the information you provide to us in order to fulfill your product orders, including verifying your eligibility for updates and upgrades, inform you of special promotional offers, and deliver information to you that meets your needs, such as product news, updates, and new release information or that allows you special access privileges. 
+#### **Information Collection and Use**
 
-####  We collect your: 
+We collect the following personally identifiable information about our users: name, e-mail address, telephone number, business address, shipping address, social security number, preferred means of communication, credit card information and other information voluntarily provided. This personally identifiable information is typically provided when users register for online services, purchase products online, or participate in contests, surveys or sweepstakes. We also collect information about users regarding web pages accessed, traffic patterns and site usage. 
 
-  * Name
-  * Mailing or billing address
-  * E-mail address
-  * User information, such as product interests and preferences
-  * Phone number
-  * Credit card number and expiration date (if you open an account on the QuarkStore)
+We, our service providers and our vendors may use any information collected by users: to operate the Service; to effect users' transactions; to provide better services, products and opportunities to users; to notify users about services, products and opportunities that may be of interest to such users; to create and share reports about users' transactions; and for other marketing purposes. We may also trade, sell, rent or otherwise share your personally identifiable information with other third parties, including our business partners. 
 
+#### **Cookies**
 
+Cookies are pieces of information stored on your hard drive containing information about you. These pieces of information allow the Service to remember important information that will make your use of the Service more useful. Quark uses cookies for a variety of purposes. For instance, we use cookies to allow your automated login and to track your preferences and usage. You can choose to reject or turn off the cookies through your browser settings. If you reject or turn off the cookies, you may still use the Service. The only drawback to this is that you will be limited in some areas of the Service. For example, you will not be able to participate in any of our sweepstakes, contests or monthly drawings that we may offer. 
 
-####  We use this information to: 
+#### **Log Files**
 
-  * Measure interests in various products
-  * Send e-mail messages or conventional mail to you about our products and services, or third-party products or services, which may be of interest to you
-  * Process and fulfill product orders you place with the QuarkStore. In the event we need to contact you regarding your order, we will do so by phone or e-mail.
+We use IP addresses to analyze trends, administer the Service, track users' movements, and gather demographic information.
 
+#### **Security**
 
+We use security measures, such as firewalls and Security Socket Layers ("SSL"), to safeguard the confidentiality of our users' personally identifiable information. Information we collect about our users is stored on secured servers. However, "perfect security" does not exist. If you have any questions about the security of the Service, please send an e-mail to [legal@quark.com](mailto:legal@quark.com). 
 
-####  We do not: 
+#### **Minors**
 
-  * Provide personal information, such as your name or address, without your expressed consent.
+Minors (individuals below the age of 18) are not eligible to use the Service and no portion of the Service is directed towards minors. We do not knowingly solicit any information about minors or market to minors.
 
+#### **Disclosure Required by Law**
 
+We cooperate with law enforcement agencies in identifying those who use the Service for illegal activities. Therefore, we respond to subpoenas, warrants or other court orders regarding information concerning any users. We will, at our discretion, disclose information if we believe that we are required to do so by law, that such disclosure is necessary to protect us from legal liability or that we should do so to protect the integrity of the Service.
 
-In order to protect the personal information you provide to us, we use Verisign’s 128-bit SSL encryption to securely and automatically accept, process and manage online payments as well as to collect and store the Personal Information you provide to us. When you place an order or access account information you will be transferred to a secure server where this information is stored and managed. All of the personal information you provide is actually encrypted before it is sent to us. While we use SSL encryption technology to protect your personal information online, access to such personal information is highly restricted in Quark’s offices as well. Only those Quark employees who fulfill your orders or requests for information are granted access to your personal information and those employees are obligated to respect the confidentiality of that information.
+#### To Unsubscribe from Quark’s Mailing List
 
-#### Children
-
-We will never knowingly collect personal information from anyone under the age of 13 without first obtaining verifiable parental consent. If it comes to our attention that a customer under the age of 13 has provided personal information to us, we will remove all such information from our files. However, we may still maintain a record of that person’s name and address in a “do not register” file in order to avoid a subsequent registration. 
-
-#### To unsubscribe from Quark’s mailing list
-
-Upon request, Quark will remove your name from our mailing list records. Any such request should be sent by e-mail to [cservice@quark.com](mailto:cservice@quark.com). Please note that such requests may take three to four weeks to process. 
+Upon request, Quark will remove your name from our mailing list records. Any such request should be sent by e-mail to [cservice@quark.com](mailto:cservice@quark.com).
 
 #### To inspect, change or modify your personal information
 
-Upon request, Quark will provide you with a readable copy of your personal information, although we may require proof of your identity before doing so. Quark will also modify the information that you have provided to us. Any such request should be sent by e-mail to [cservice@quark.com](mailto:cservice@quark.com). 
+Upon request, Quark will provide you with a readable copy of your personal information, although we may require proof of your identity before doing so. Quark will also modify the information that you have provided to us. Any such request should be sent by e-mail to [cservice@quark.com](mailto:cservice@quark.com).
 
-#### Quark maintains its Web site at its Denver headquarters:
+#### **Your Consent; Notification of Changes**
 
-  * Quark Inc.  
-1800 Grant St., #800  
-Denver, Colorado 80203  
+By using the Service, you consent to Quark's collection and use of the information described in this privacy policy. If we decide to change this privacy policy, we will post those changes via our homepage so our users are aware of what information we collect, how we use it, and under what circumstances we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify you by way of an e-mail. Please check this policy from time to time to make sure that you are aware of our latest privacy policy.
 
+#### **Legal Department**
 
-
+Quark Inc.   
+1800 Grant Street   
+Denver, Colorado 80203   
+Email: [legal@quark.com](mailto:legal@quark.com)
