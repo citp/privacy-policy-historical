@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobsite.co.uk privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630025322id_/http%3A//www.jobsite.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsite.co.uk privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217213123id_/http%3A//www.jobsite.co.uk/privacy) for the most accurate reproduction.*
 
 # Jobsite UK Privacy statement
 
@@ -20,6 +20,11 @@ You may remove your CV from our searchable database at any time. However, recrui
 Jobs by E Mail Service
 
 The Jobs by Email service matches a job seekers requirements for employment with the profile of vacancies advertised on any one of our Sites. For job seekers who subscribe to this service you receive an email listing those jobs that we believe you should be interested in. Your requirements are defined by you using "strings" which can be used to specify geographic region, specific job titles, skills or other definition of the job you want. You can change the strings at any time or unsubscribe at any time.  
+
+
+Email-a-Friend
+
+Our Email-a-Friend service makes it easy for our users to recommend jobs to friends or relatives. Simply complete the Email -a-Friend form and we will send an email to your specified recipient(s) containing a link to the selected job. We will not use your recipient's details for any other purpose that the fulfilment of this service.  
 
 
 Application Forms  
@@ -50,7 +55,7 @@ We use your IP address to help diagnose problems with our server, and to adminis
 Our site uses persistent cookies to keep track of your navigation, searches and actions every time you visit the site. These cookies expire after two years, and do not allow anyone to access your confidential information. If you are using a shared computer, please ensure that you log out of MyJobsite or close down the browser before leaving the computer for the next user.  
 Demographic and profile data is also collected at our site. We use this data to tailor the visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. This information is shared with advertisers on an aggregate basis only.  
 This site contains links to other sites. We are not responsible for the privacy practices or the content of such Web sites.  
-We may use your personal data to contact you from time to time and provide you with marketing information about us or our partners which we think may be of interest to you. Such information will either be sent by us or by our agents on our behalf and therefore, we may disclose your personal data to our agents for this purpose. If at any time you wish to stop the delivery of such information please e-mail us at [noinfo@jobsite.co.uk](mailto:noinfo@jobsite.co.uk)  
+We may use your personal data to contact you from time to time and provide you with marketing information about us or our partners which we think may be of interest to you. Such information will either be sent by us or by our agents on our behalf and therefore, we may disclose your personal data to our agents for this purpose. If at any time you wish to stop the delivery of such information please contact our [Customer Support Team using our online form](https://web.archive.org/home/help_candidate.html)   
 
 
 Security
@@ -67,7 +72,7 @@ Opting out of Jobsite UK (Worldwide) Ltd's services
 
 We allow users to opt-out of having Jobs-by-Email Alerts sent to them at any time, and allows users to hide their CVs both at the time that the CV is placed on the site, and at any time afterwards.  
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.  
-You can send email to [cancel@jobsite.co.uk](mailto:cancel@jobsite.co.uk)  
+You can contact our [Customer Support Team using our online form](https://web.archive.org/home/help_candidate.html)  
 You can visit the following URL: [http://www.jobsite.co.uk/cgi-bin/myjobsite.cgi](https://web.archive.org/cgi-bin/myjobsite.cgi)  
 In extreme circumstances, you can call the following telephone number: +44 (0)870 7748500  
 
@@ -87,5 +92,5 @@ Langstone Road
 Havant  
 PO9 1SA
 
-[help@jobsite.co.uk](mailto:help@jobsite.co.uk)  
+[Customer Support Contact Form](https://web.archive.org/home/help_candidate.html)  
  
