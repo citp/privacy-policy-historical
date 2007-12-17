@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the connexions-direct.com privacy policy that was archived on 2007-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070616122016id_/http%3A//www.connexions-direct.com/index.cfm%3Fgo%3DprivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connexions-direct.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217172338id_/http%3A//www.connexions-direct.com/index.cfm%3Fgo%3DprivacyPolicy) for the most accurate reproduction.*
 
 # Privacy policy - Homepage - Connexions Direct
 
-The Connexions Direct website is provided by the Department for Education and Skills and therefore the [Department's Privacy Statement applies](https://web.archive.org/web/20070616122016id_/http%3A//www.connexions-direct.com/link.cfm?lid=210).
+The Connexions Direct website is provided by the Department for Children, Schools and Families and therefore the [Department's Privacy Statement applies](https://web.archive.org/web/20071217172338id_/http%3A//www.connexions-direct.com/link.cfm?lid=210).
 
-The rest of this privacy statement only covers the Connexions Direct website at [www.connexions-direct.com](https://web.archive.org/web/20070616122016id_/http%3A//www.connexions-direct.com/link.cfm?lid=180) and subsequent sub-sites of that domain, such as CXD-i - [www.connexions-direct.com/cxd-i/](https://web.archive.org/web/20070616122016id_/http%3A//www.connexions-direct.com/link.cfm?lid=341). Other websites linked to from Connexions Direct are not covered by this privacy statement. 
+The rest of this privacy statement only covers the Connexions Direct website at [www.connexions-direct.com](https://web.archive.org/web/20071217172338id_/http%3A//www.connexions-direct.com/link.cfm?lid=180) and subsequent sub-sites of that domain, such as CXD-i - [www.connexions-direct.com/cxd-i/](https://web.archive.org/web/20071217172338id_/http%3A//www.connexions-direct.com/link.cfm?lid=341). Other websites linked to from Connexions Direct are not covered by this privacy statement. 
 
 With the exception of the [Communication channels](http://http//www.connexions-direct.com/index.cfm?go=communicationChannels) \- callback form, Adviser online, and email - the website does not store or capture personal information, but merely log user's IP addresses (Internet Protocol: standard allowing data to be transmitted between two devices) which is automatically recognised by the web server. 
 
@@ -34,7 +34,7 @@ These files help DoubleClick to recognize a unique cookie on your web browser, w
 
 Again, the information we collect and use is anonymous and not personally identifiable. 
 
-For more information about DoubleClick, including information about how to opt out of these technologies, go to [www.doubleclick.net/us/corporate/privacy](https://web.archive.org/web/20070616122016id_/http%3A//www.connexions-direct.com/link.cfm?lid=357).
+For more information about DoubleClick, including information about how to opt out of these technologies, go to [www.doubleclick.net/us/corporate/privacy](https://web.archive.org/web/20071217172338id_/http%3A//www.connexions-direct.com/link.cfm?lid=357).
 
 Occasionally, additional research is carried out after you have used the Adviser Online communication channel. 
 
@@ -42,4 +42,4 @@ A pop-up window will appear offering you the chance to take part in an online su
 
 ##### Want to know more about cookies
 
-If you would like to know more about cookies, or would like to disable cookies in your browser settings (i.e. refuse cookies) please visit [www.allaboutcookies.org](https://web.archive.org/web/20070616122016id_/http%3A//www.connexions-direct.com/link.cfm?lid=419).
+If you would like to know more about cookies, or would like to disable cookies in your browser settings (i.e. refuse cookies) please visit [www.allaboutcookies.org](https://web.archive.org/web/20071217172338id_/http%3A//www.connexions-direct.com/link.cfm?lid=419).
