@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sbcounty.gov privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626102130id_/http%3A//sbcounty.gov/policy/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sbcounty.gov privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217155639id_/http%3A//www.sbcounty.gov/policy/privacy.htm) for the most accurate reproduction.*
 
 # County of San Bernardino Privacy Policy
 
@@ -38,7 +38,7 @@ Personal information is not collected through this website unless you send an em
 The County does not knowingly collect personal information from children or create profiles of children through this website. People are cautioned that the collection of personal information provided by any individual in an email or web based form will be treated the same as information given by an adult, and may, if not protected by federal or State law, be subject to public access. The County encourages parents and teachers to be involved in children's Internet activities and guide the children whenever children are asked to provide personal information online. 
 
 **Disclosure of Information Collected Through This Website**  
-Information collected through this website, personal or otherwise, may, if not protected by local, federal or state law, be subject to disclosure pursuant to law, such as the [Freedom of Information Act (FOIA)](http://www.nara.gov/fedreg/legal/apa/552.html), or court order. 
+Information collected through this website, personal or otherwise, may, if not protected by local, federal or state law, be subject to disclosure pursuant to law, such as the [Freedom of Information Act (FOIA)](http://www.archives.gov/foia/), or court order. 
 
 Additionally, the County may disclose personal information to local, federal or state law enforcement authorities to enforce its rights against unauthorized access or attempted unauthorized access to the County's information. 
 
