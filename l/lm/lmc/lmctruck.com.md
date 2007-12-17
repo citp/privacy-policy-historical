@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the lmctruck.com privacy policy that was archived on 2007-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070601172317id_/http%3A//www.lmctruck.com/sol_lmc_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lmctruck.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217203821id_/http%3A//www.lmctruck.com/sol_lmc_privacy.htm) for the most accurate reproduction.*
 
 # LMC Truck Parts: Chevy Chevrolet Blazer S10 GMC Jimmy S15 Ford Bronco Ranger Pickup Pick Up Accessories/Catalogs
 
 LMC Truck Privacy Statement
 
 Your Privacy  
-Long Motor Corporation, dba LMC Truck, is committed to maintaining every customer’s privacy. We collect and store information you provide to us (name, address and telephone numbers, e-mail addresses) along with information about items you request.
+Long Motor Corporation, dba LMC Truck, is committed to maintaining every customer's privacy. We collect and store information you provide to us (name, address and telephone numbers, e-mail addresses) along with information about items you request.
 
 All information is kept secure. We do not share, sell, trade names, addresses or any specific details about you or your purchases. We do not participate in or contribute to cooperative or shared databases that give other companies access to information. 
 
 Safe Technology   
-Long Motor Corporation uses the latest 128 bit encryption technology to keep your information safe using the industry standard Secure Sockets Layer “SSL”. The SSL technology encrypts your credit card information to prevent it from being intercepted as it travels over the Internet.
+Long Motor Corporation uses the latest 128 bit encryption technology to keep your information safe using the industry standard Secure Sockets Layer "SSL". The SSL technology encrypts your credit card information to prevent it from being intercepted as it travels over the Internet.
