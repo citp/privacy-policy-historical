@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookshare.org privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630232212id_/http%3A//www.bookshare.org/web/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookshare.org privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217150203id_/http%3A//www.bookshare.org/web/Privacy.html) for the most accurate reproduction.*
 
 # Bookshare.org - Privacy Policy
 
@@ -97,10 +97,11 @@ If we change our Privacy Policy, we will post those changes on our website so ou
 |   |  |   |   |   |   |    
 ---|---|---|---|---  
 |  | Books  
-| [Simple Search](http://www.bookshare.org/web/BooksBySimpleSearch.html)  
 | [Advanced Search](http://www.bookshare.org/web/BooksByAdvancedSearch.html)  
 | [International Searching](http://www.bookshare.org/web/AboutInternationalMembership.html)  
-| [Browse Books](http://www.bookshare.org/web/BrowseBooks.html)  
+| [Browse Authors](http://www.bookshare.org/web/BooksByAuthor.html)  
+| [Browse Categories](http://www.bookshare.org/web/BooksByCategory.html)  
+| [Browse New Books](http://www.bookshare.org/web/BooksNew.html)  
 | [Embossed Braille](http://www.bookshare.org/web/AboutBrailleBooks.html)  
 | [Submit a Book](http://www.bookshare.org/web/MembersSubmit.html?display=1)  
 | [Newspapers and Magazines](http://www.bookshare.org/web/MembersPeriodicals.html)  
@@ -126,6 +127,7 @@ If we change our Privacy Policy, we will post those changes on our website so ou
 | [Download Tools](http://www.bookshare.org/web/MembersDownloads.html)  
 | [For Authors and Publishers](http://www.bookshare.org/web/SupportAuthorsPublishers.html)  
 | [Resources](http://www.bookshare.org/web/Resources.html)  
+| [Friends of Bookshare](http://www.friendsofbookshare.org/)  
    
 |  | About Bookshare.org  
 | [About Us](http://www.bookshare.org/web/SupportAboutUs.html)  
