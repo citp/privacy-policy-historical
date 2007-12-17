@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeeducationguide.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627173644id_/http%3A//www.freeeducationguide.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeeducationguide.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217221531id_/http%3A//www.freeeducationguide.com/privacy.cfm) for the most accurate reproduction.*
 
 # login_template.jpg
 
@@ -21,7 +21,7 @@
 >  **By submitting personal contact and/or financial information to FreeEducationGuide through this website or any of its affiliated online properties, you hereby grant written permission to FreeEducationGuide, its affiliated websites, and its business partners to contact you by telephone, mail, and/or e-mail. Further, by registering with FreeEducationGuide through this website or any of its affiliated online properties you are consenting to receive phone calls from FreeEducationGuide, its affiliated websites, and its business partners for contact via telephone, including but not limited to lenders that may contact you regarding credit counseling and thereby registrants waive their right to file a claim with the FTC or any other agency in reference to these calls or contacts. 
 > 
 > **Opt-Out Opportunity:  
->  **FreeEducationGuide registrants may opt-out of receiving further communications from FreeEducationGuide at any time by following the "unsubscribe" instructions in any FreeEducationGuide e-mail received by registrant or by sending an email to [unsubscribe@FreeEducationGuide.com ](mailto:unsubscribe@streetline.com). Please note that unsubscribing from one email list does not automatically unsubscribe you from any other email list that you may be on. Please read the email carefully to find out which list you are unsubscribing from. 
+>  **FreeEducationGuide registrants may opt-out of receiving further communications from FreeEducationGuide at any time by following the "unsubscribe" instructions in any FreeEducationGuide e-mail received by registrant or by sending an email to [unsubscribe@FreeEducationGuide.com ](mailto:unsubscribe@FreeEducationGuide.com). Please note that unsubscribing from one email list does not automatically unsubscribe you from any other email list that you may be on. Please read the email carefully to find out which list you are unsubscribing from. 
 > 
 > **Children's Privacy:  
 >  **Protecting the privacy of the very young is especially important to us. For that reason, we never collect or maintain information from those we actually know are under 18, and no part of our website is structured to attract or intended for anyone under 18 years of age. 
