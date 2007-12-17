@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mta.info privacy policy that was archived on 2007-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070614060851id_/http%3A//www.mta.info/mta/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mta.info privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217061729id_/http%3A//mta.info/mta/privacy.htm) for the most accurate reproduction.*
 
 # MTA - Internet Privacy Policy
 
@@ -77,7 +77,7 @@ The information provided in this Policy should not be construed as giving busine
 
 ## Contact Information
 
-For questions regarding this Policy, please [contact the MTA Website Privacy Compliance Officer via email](https://web.archive.org/web/20070614060851id_/http%3A//www.mta.info/mta/privacy2.htm)
+For questions regarding this Policy, please [contact the MTA Website Privacy Compliance Officer via email](https://web.archive.org/web/20071217061729id_/http%3A//mta.info/mta/privacy2.htm)
 
 or by mail to:
 
@@ -87,4 +87,4 @@ Metropolitan Transportation Authority
 New York, New York 10017
 
 Machine translations are imperfect. This service is intended to provide basic understanding of MTA website  
-content, but the translation is literal and may misrepresent names and idiomatic expressions.
+content, but the translation is literal and may misrepresent names and idiomatic expressions. [More Info](https://web.archive.org/mta/transpilot.htm)
