@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pkware.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630073122id_/http%3A//www.pkware.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D89%26Itemid%3D58) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pkware.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217035748id_/http%3A//www.pkware.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D89%26Itemid%3D58) for the most accurate reproduction.*
 
-# PKWARE, Inc. - Data Security and File Compression Solutions for Home and Enterprise Users - Privacy
+# PKWARE, Inc. - Privacy
 
 Everyday, companies spend time and money investing in new IT infrastructure including data security solutions. At PKWARE, we think about data security much differently.
 
