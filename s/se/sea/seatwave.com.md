@@ -1,26 +1,26 @@
-> *The following text is extracted and transformed from the seatwave.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617182508id_/http%3A//www.seatwave.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seatwave.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217175713id_/http%3A//www.seatwave.com/privacy-policy) for the most accurate reproduction.*
 
 # Seatwave.com - Concert tickets - West End Theatre tickets - Sports tickets - Football tickets
 
-[](http://www.truste.org/ivalidate.php?url=www.seatwave.com&sealid=101)
+[ ](http://www.truste.org/ivalidate.php?url=www.seatwave.com&sealid=101)
 
-## Privacy Policy
+##  Privacy Policy 
 
 This privacy policy was last updated on 16/03/2007 and is effective as of that date.
 
-Seatwave Limited ("Seatwave", "we", "us" or "our") respects the privacy of every individual who visits this www.seatwave.com web site (the "Site"). This Privacy Policy governs the way in which we use and disclose any personal information (the "Personal Information") that you provide to us whilst visiting the Site. Personal Information includes any information that identifies you or another individual personally, such as your name, address or email address.
+Seatwave Limited ("Seatwave", "we", "us" or "our") respects the privacy of every individual who visits this www.seatwave.com web site (the "Site"). This Privacy Policy governs the way in which we use and disclose any personal information (the "Personal Information" that you provide to us whilst visiting the Site. Personal Information includes any information that identifies you or another individual personally, such as your name, address or email address. 
 
 Seatwave is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site www.seatwave.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
-If you have questions or concerns regarding this statement, you should first contact Jason Hall at [privacy@seatwave.com](mailto:%20privacy@seatwave.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php> TRUSTe will then serve as a liaison with us to resolve your concerns.
+If you have questions or concerns regarding this statement, you should first contact Jason Hall at [privacy@seatwave.com](mailto:privacy@seatwave.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php> TRUSTe will then serve as a liaison with us to resolve your concerns. 
 
 ### Our use of your Personal Information
 
-If you purchase tickets from us, we request certain personally identifiable information from you on our order form. You must provide contact information (such as name, email, and shipping address) and financial information (such as credit card number, expiration date).
+If you purchase tickets from us, we request certain personally identifiable information from you on our order form. You must provide contact information (such as name, email, and shipping address) and financial information (such as credit card number, expiration date). 
 
-We use this information for billing purposes and to fill your orders. If we have trouble processing an order, we will use this information to contact you.
+We use this information for billing purposes and to fill your orders. If we have trouble processing an order, we will use this information to contact you. 
 
-In addition, we use the Personal Information we collect from you and other visitors to the Site in the following ways:
+In addition, we use the Personal Information we collect from you and other visitors to the Site in the following ways: 
 
   * to develop and improve the services we offer to you;
   * to enable you to use any services that we may from time to time provide through this Site;
@@ -31,11 +31,11 @@ In addition, we use the Personal Information we collect from you and other visit
 
 
 
-If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, we provide you a way to unsubscribe.
+If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, we provide you a way to unsubscribe. 
 
-If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [privacy@seatwave.com](mailto:%20privacy@seatwave.com). We won't send you any newsletters unless you sign up for our newsletter, in which case we will only send you our newsletter. We offer an opportunity to opt-out of our newsletter in the newsletter itself, or you may contact us by phoning us on 0845 299 0330, emailing us at [privacy@seatwave.com](mailto:%20privacy@seatwave.com) or writing to us at Seatwave, 48 Charlotte Street, London W1T 2NS.
+If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [privacy@seatwave.com](mailto:privacy@seatwave.com). We won't send you any newsletters unless you sign up for our newsletter, in which case we will only send you our newsletter. We offer an opportunity to opt-out of our newsletter in the newsletter itself, or you may contact us by phoning us on 020 7101 5115, emailing us at [privacy@seatwave.com](mailto:privacy@seatwave.com) or writing to us at Seatwave Limited, 29-35 Rathbone Street, London W1T 1AG.
 
-If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by emailing our Customer Support at [privacy@setawave.com](mailto:%20privacy@seatwave.com) or by contacting us by telephone or postal mail at the contact information listed above.
+If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by emailing our Customer Support at [privacy@seatwave.com](mailto:privacy@seatwave.com) or by contacting us by telephone or postal mail at the contact information listed above.
 
 We may also use and disclose information in aggregate (so that no individuals are identified) for marketing and strategic development purposes.
 
@@ -43,7 +43,7 @@ We may also use and disclose information in aggregate (so that no individuals ar
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
-If you have any questions about security on our Web site, you can send email us at [privacy@seatwave.com](mailto:%20privacy@seatwave.com).
+If you have any questions about security on our Web site, you can send email us at [privacy@seatwave.com](mailto:privacy@seatwave.com).
 
 The security of your personal information is important to us. When you enter sensitive information (such as credit card number and/or social security number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL).
 
@@ -81,12 +81,12 @@ An IP address is a number designated for your computer by your Internet service 
 
 Your Personal Information is stored and processed on our servers outside the European Economic Area and may be accessed globally. However, wherever we process your information we will strive to ensure the same level of protection promised in this Privacy Policy, which means that your Personal Information will be protected at all times in accordance with strict data protection standards.
 
-### Your right to see your Personal Information
+###  Your right to see your Personal Information 
 
-You have the right to request a copy of the Personal Information that Seatwave holds on you and to have any errors in that information corrected. We charge £10.00 for such requests. Please address your request to our customer service team at [support@seatwave.com](mailto:%20support@seatwave.com). We will use reasonable efforts to supply, correct or delete Personal Information about you on our files.
+You have the right to request a copy of the Personal Information that Seatwave holds on you and to have any errors in that information corrected. We charge £10.00 for such requests. Please address your request to our customer service team at [support@seatwave.com](mailto:support@seatwave.com). We will use reasonable efforts to supply, correct or delete Personal Information about you on our files.
 
 ### Changes to this Privacy Policy
 
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
-We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page. If you have any queries about this Privacy Policy please email [support@seatwave.com](mailto:%20support@seatwave.com).
+We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page. If you have any queries about this Privacy Policy please email [privacy@seatwave.com](mailto:privacy@seatwave.com).
