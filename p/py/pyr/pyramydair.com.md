@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pyramydair.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629060425id_/http%3A//www.pyramydair.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pyramydair.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217235504id_/http%3A//www.pyramydair.com/site/privacy) for the most accurate reproduction.*
 
 # Pyramyd Air Privacy Statement
 
@@ -18,7 +18,9 @@ We will NOT sell your email address to anybody!
   
 
 
-So, are you looking for a fresh take on airguns? Some new information, perhaps? [**Check out our daily report!**](https://web.archive.org/blog/) Monday thru Friday find new topics about air guns and airsoft. Ask your questions by clicking on the comments link at the bottom of each post. 
+So, are you looking for a fresh take on airguns? Some new information, perhaps? [**Check out our daily report!**](https://web.archive.org/blog/) Monday thru Friday find new topics about air guns and airsoft. Ask your questions by clicking on the comments link at the bottom of each post.
+
+[**Pyramyd Air Waves**](https://web.archive.org/podcast/) is on the air! [**Tune in now!**](https://web.archive.org/podcast/)
 
   
   
