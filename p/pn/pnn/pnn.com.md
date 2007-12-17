@@ -1,12 +1,15 @@
-> *The following text is extracted and transformed from the pnn.com privacy policy that was archived on 2007-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070616045250id_/http%3A//www.pnn.com/directory/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pnn.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217031132id_/http%3A//privacy.pnn.com) for the most accurate reproduction.*
 
-# Welcome to PNN - The Personal News Network
+# PNN.com Privacy on PNN
 
-### PNN Privacy Statement
+## Privacy Statement
+
+**Privacy Statement**
 
 Privacy is important. It's important to us and you, if we use your information inappropriately you won't like us, and that's not good. This document talks about what information we collect and why, if you have any questions or concerns just email us.
 
-### What we collect
+ **What we collect**  
+
 
 1\. PNN collects information when you register.
 
@@ -16,7 +19,8 @@ Privacy is important. It's important to us and you, if we use your information i
 
 4\. PNN's servers record information when you visit other sites on our network.
 
-### Uses
+ **Uses**  
+
 
 We use this information to make the interface work the way you think it should. We also use the information for research to make things work better.
 
@@ -24,6 +28,7 @@ We sometimes need to share information with third parties (such as when you purc
 
 PNN adheres to the US Safe Harbor privacy principles. For more info about this, visit the web site of the Department of Commerce.
 
-### Contact Us
+ **Contact Us**  
 
-By email: [privacy@pnn.com](mailto:agreement@pnn.com)
+
+By email: [privacy@pnn.com](mailto:privacy@pnn.com)
