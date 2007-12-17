@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sellfire.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630172412id_/http%3A//sellfire.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sellfire.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217205601id_/http%3A//sellfire.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
