@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the clip-share.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626110920id_/http%3A//clip-share.com/video-sharing-script-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clip-share.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217151953id_/http%3A//clip-share.com/video-sharing-script-privacy.html) for the most accurate reproduction.*
 
 # ClipShare PHP Script / Software - Start Your Own Video Sharing Community Website (YouTube Clone)
 
 Quick Links  
   
-[Overview](https://web.archive.org/web/20070626110920id_/http%3A//clip-share.com/video-sharing-script-overview.html)  
-[List of Features](https://web.archive.org/web/20070626110920id_/http%3A//clip-share.com/video-sharing-script-features.html)  
-[Server Requirements](https://web.archive.org/web/20070626110920id_/http%3A//clip-share.com/video-sharing-script-requirements.html)  
-[Live Demo](https://web.archive.org/web/20070626110920id_/http%3A//clip-share.com/video-sharing-script-demo.html)  
-[Pricing & Ordering](https://web.archive.org/web/20070626110920id_/http%3A//clip-share.com/video-sharing-script-order.html)
+[Overview](https://web.archive.org/web/20071217151953id_/http%3A//clip-share.com/video-sharing-script-overview.html)  
+[List of Features](https://web.archive.org/web/20071217151953id_/http%3A//clip-share.com/video-sharing-script-features.html)  
+[Server Requirements](https://web.archive.org/web/20071217151953id_/http%3A//clip-share.com/video-sharing-script-requirements.html)  
+[Live Demo](https://web.archive.org/web/20071217151953id_/http%3A//clip-share.com/video-sharing-script-demo.html)  
+[Pricing & Ordering](https://web.archive.org/web/20071217151953id_/http%3A//clip-share.com/video-sharing-script-order.html)
 
-[Affiliates](https://web.archive.org/web/20070626110920id_/http%3A//clip-share.com/video-sharing-script-affiliates.html)
+[Affiliates](https://web.archive.org/web/20071217151953id_/http%3A//clip-share.com/video-sharing-script-affiliates.html)
 
   
 [Client Area ](http://client.scriptxperts.com/)  
@@ -18,7 +18,7 @@ Quick Links
 [Knowledgebase](http://helpdesk.scriptxperts.com/index.php?_m=knowledgebase&_a=view)  
 [Forums](http://forums.scriptxperts.com/forumdisplay.php?f=3)
 
-   [](https://web.archive.org/web/20070626110920id_/http%3A//clip-share.com/video-sharing-script-hosting.html)
+   [](https://web.archive.org/web/20071217151953id_/http%3A//clip-share.com/video-sharing-script-hosting.html)
 
 |  | Privacy Policy
 
