@@ -1,8 +1,18 @@
-> *The following text is extracted and transformed from the shermanstravel.com privacy policy that was archived on 2007-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070620182611id_/http%3A//www.shermanstravel.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shermanstravel.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217090716id_/http%3A//www.shermanstravel.com/privacy) for the most accurate reproduction.*
 
 # ShermansTravel.com -- Screened Listings, Deal Reviews, Objective Editorial
 
-Shermanstravel.com (the "Site") is owned by Shermans Travel, Inc. ("Shermans Travel"). Shermans Travel values your privacy and is dedicated to protecting your personal information and providing you with:
+  
+| 
+
+Privacy Policy
+
+[Home](https://web.archive.org/) > Privacy Policy
+
+  
+
+
+Shermanstravel.com (the "Site") is owned by ShermansTravel Media, LLC. ("Shermans Travel"). Shermans Travel values your privacy and is dedicated to protecting your personal information and providing you with:
 
 **Notice**
 
@@ -55,7 +65,7 @@ Newsletters: If you wish to subscribe to our newsletter, we will use your name a
 
 Service-related Announcements: We will send you strictly service-related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, or the delivery of a service or product is delayed we might send you an email, or if there is some service issue with something you might have ordered. Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to cancel your subscription or order by contacting [customerservice@shermanstravel.com](mailto:customerservice@shermanstravel.com). 
 
-Third Party Offers: We Share Personally Identifiable Information with Third Parties in order to have them send you special offers and promotions that we think you might find of interest to you. We will also occasionally send you information on products, services, special deals,or promotions which we have found that are of interest to our readers. You can also sign up for these promotional emails from us from our profile page located at <http://www.shermanstravel.com/profile/>. If you do not want Shermans Travel to use the information you provide in order to inform you of products and services that might be of interest to you, or to provide your information to third party companies you can make your preference known. Please see the "Choice and Opt-out". 
+Third Party Offers: We Share Personally Identifiable Information with Third Parties in order to have them send you special offers and promotions that we think you might find of interest to you. We will also occasionally send you information on products, services, special deals,or promotions which we have found that are of interest to our readers. You can also sign up for these promotional emails from us from our profile page located at [http://www.shermanstravel.com/profile/](https://web.archive.org/profile). If you do not want Shermans Travel to use the information you provide in order to inform you of products and services that might be of interest to you, or to provide your information to third party companies you can make your preference known. Please see the "Choice and Opt-out". 
 
 Exceptional Circumstances: If Shermans Travel, or any of its lines of businesses or affiliated companies, is sold or disposed of as a going concern, whether by merger, sale of assets or otherwise, the relevant customer database of Sherman Travel could, in whole or in part, be sold as part of that transaction. In such transactions, personal information will be subject to the promises made in any pre-existing Privacy Policy in effect when the information was obtained. In the event Shermans Travel goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred. You will be notified via email of any such change in ownership or control of your personal information. 
 
@@ -63,11 +73,11 @@ We also may have to release personally identifying information when it is necess
 
 #### CHOICE AND OPT OUT
 
-You may opt-out of use of your information as set forth above by emailing us at [privacy@shermanstravel.com](mailto:privacy@shermanstravel.com). We provide you the opportunity to 'opt-out' of having your personally identifiable information used for certain purposes, when we ask for this information. For instance, if you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by visiting <http://www.shermanstravel.com/profile/>. You may also email us at [privacy@shermanstravel.com](mailto:privacy@shermanstravel.com). 
+You may opt-out of use of your information as set forth above by emailing us at [privacy@shermanstravel.com](mailto:privacy@shermanstravel.com). We provide you the opportunity to 'opt-out' of having your personally identifiable information used for certain purposes, when we ask for this information. For instance, if you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by visiting [http://www.shermanstravel.com/profile/](https://web.archive.org/profile). You may also email us at [privacy@shermanstravel.com](mailto:privacy@shermanstravel.com). 
 
 #### ACCESS TO YOUR INFORMATION
 
-If for any reason you are concerned that the personal information maintained by Shermans Travel is not correct, or should you wish to have your email address removed from our mailing list or sharing list, please email the [Privacy Administrator](mailto:privacy@shermanstravel.com). We will be happy to review, update or remove information as appropriate. We may still retain your information in our files however, to resolve disputes, enforce our user agreement, and due to technical and legal requirements and constraints related to the security, integrity and operation of our Sites. 
+If for any reason you are concerned that the personal information maintained by Shermans Travel is not correct, or should you wish to have your email address removed from our mailing list or sharing list, please email the . We will be happy to review, update or remove information as appropriate. We may still retain your information in our files however, to resolve disputes, enforce our user agreement, and due to technical and legal requirements and constraints related to the security, integrity and operation of our Sites. 
 
 #### HOW SHERMANS TRAVEL PROTECTS YOUR INFORMATION
 
@@ -85,16 +95,18 @@ If you choose to visit the Site your visit and any dispute over privacy is subje
 
 #### TRUSTe Certified
 
-Shermans Travel is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site [http://www.shermanstravel.com](http://www.shermanstravel.com/). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. If you have questions or concerns regarding this statement, you should first contact our Privacy Administrator at [privacy@shermanstravel.com](mailto:privacy@shermanstravel.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns. 
+Shermans Travel is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site [http://www.shermanstravel.com](https://web.archive.org/). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. If you have questions or concerns regarding this statement, you should first contact our Privacy Administrator at [privacy@shermanstravel.com](mailto:privacy@shermanstravel.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns. 
 
 #### HOW TO CONTACT US
 
 If you have any questions about our privacy policy contact us at [privacy@shermanstravel.com](mailto:privacy@shermanstravel.com). 
 
-©2006 Shermans Travel, Inc.  
+©2007 Shermans Travel, Inc.  
 255 W. 36th Street  
 15th Floor  
 New York, NY  
 10018 
 
 Last updated April 6, 2006 
+
+| 
