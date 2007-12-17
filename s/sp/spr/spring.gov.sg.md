@@ -1,23 +1,7 @@
-> *The following text is extracted and transformed from the spring.gov.sg privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627180704id_/http%3A//www.spring.gov.sg/Content/ModulePage.aspx%3Fgroup%3Dhome%26id%3D8674e381-78c9-464f-bf39-a99891d6a5e1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spring.gov.sg privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217201327id_/http%3A//www.spring.gov.sg/Content/ModulePage.aspx%3Fgroup%3Dhome%26id%3D8674e381-78c9-464f-bf39-a99891d6a5e1) for the most accurate reproduction.*
 
-# SPRING Singapore
+# SPRING
 
-|   
----  
-  
-  
-  
-  
-|   
----  
-|    
----  
-|  [](https://web.archive.org/web/20070627180704id_/http%3A//www.spring.gov.sg/Content/PrintPage.aspx?group=home&id=8674e381-78c9-464f-bf39-a99891d6a5e1)  
-.................................................................................................................................................   
-   
-| Privacy Statement  
----  
-  
 **GOVERNMENT OF SINGAPORE PRIVACY STATEMENT  
 **
 
@@ -28,6 +12,4 @@
   5. To safeguard your personal data, all electronic storage and transmission of personal data are secured with appropriate security technologies.
   6. This site may contain links to non-Government sites whose data protection and privacy practices may differ from ours. We are not responsible for the content and privacy practices of these other websites and encourage you to consult the privacy notices of those sites. 
 
-  
-  
 
