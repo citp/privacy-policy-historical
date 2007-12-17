@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the johnlscott.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629065624id_/http%3A//www.johnlscott.com/SiteContent.aspx%3FLanding%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the johnlscott.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217205202id_/http%3A//www.johnlscott.com/SiteContent.aspx%3FLanding%3DPrivacy) for the most accurate reproduction.*
 
 # John L Scott Privacy Policy
 
