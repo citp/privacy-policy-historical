@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phanfare.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626133545id_/http%3A//www.phanfare.com/page/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phanfare.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217045632id_/http%3A//www.phanfare.com/page/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Phanfare - The fastest, easiest way to protect and share all your photos and videos. For life.
 
@@ -49,7 +49,7 @@ We do not send out marketing email to sell you third party products and we do no
 
 **Business Partners:** Phanfare may disclose your personal information to business partners, but only after you consent. For example, to provide prints of pictures, we will need to send the digital images to a printing service along with your account information (we don't make prints ourselves). We try to choose companies with privacy policies similar to ours. Nevertheless, our business partners have separate privacy and data collection practices. Phanfare has no responsibility or liability for these independent policies. For more information regarding the partner or service and their privacy policies, return to that partner's home page and click on their Privacy Policy link. 
 
-**If Phanfare is Acquired:** Additionally, Phanfare may disclose your personal information to a third party who is a successor in interest, in the event of a merger, reorganization, change of control, acquisition or sale of all or substantially all of Phanfare's assets. But we will tell you if that is going to happen and give you the opportunity to quit before it does.
+**If Phanfare is Acquired:** Additionally, Phanfare may disclose your personal information to a third party who is a successor in interest, in the event of a merger, reorganization, change of control, acquisition or sale of all or substantially all of Phanfare's assets. 
 
 **Legally Compelled Disclosure:** Phanfare may disclose your account information when we believe that the law requires it or for the protection of our legal rights. If we believe that you are violating our terms of service, we may disclose your personal information to investigate. We can disclose any personal information about you to law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate, in connection with a violation of the Phanfare Member Agreement, an investigation of fraud, intellectual property infringements, or other activity that is illegal or may expose us to legal liability. 
 
@@ -103,7 +103,7 @@ We use browser cookies. Cookies are a technology which can be used to provide yo
 
 The compact policy is sent by the Web server along with the cookies it describes. For more information, see the P3P deployment guide at [ http://www.w3.org/TR/p3pdeployment](http://www.w3.org/TR/p3pdeployment).
 
-This is a privacy policy for Phanfare, Inc. Our homepage on the Web is located at [http://www.phanfare.com](http://www.phanfare.com/). The full text of our privacy policy is available on the Web at [ http://www.phanfare.com/page/privacy.html](http://www.phanfare.com/page/privacy.html)
+This is a privacy policy for Phanfare, Inc. Our homepage on the Web is located at [http://www.phanfare.com](http://www.phanfare.com/). The full text of our privacy policy is available on the Web at [ http://www.phanfare.com/page/privacy.html](http://www.phanfare.com/page/privacy.html). We reserve the right to change our posted privacy policy. 
 
 We invite you to contact us if you have questions about this policy. You may contact us by mail at the following address: 
 
