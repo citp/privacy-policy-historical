@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the credit.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607172032id_/http%3A//www.credit.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the credit.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217132804id_/http%3A//www.credit.com/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy - Credit.com
 
-This statement was most recently updated as of February 16, 2007
+This statement was most recently updated as of July 9, 2007. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our homepage.
 
 We take the privacy and security of your non-public sensitive information seriously, and think it is important that you understand:
 
