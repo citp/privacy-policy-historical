@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the campingandcaravanningclub.co.uk privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629205309id_/http%3A//www.campingandcaravanningclub.co.uk/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the campingandcaravanningclub.co.uk privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217093909id_/http%3A//www.campingandcaravanningclub.co.uk/privacypolicy) for the most accurate reproduction.*
 
 # The Camping and Caravanning Club - Privacy Policy
 
-The Camping and Caravanning Club respects your right to privacy. In the statement below you will find full details of how the Club protects and secures your personal information. 
+## The Camping and Caravanning Club respects your right to privacy. In the statement below you will find full details of how the Club protects and secures your personal information. 
 
 ## What information do we collect? 
 
@@ -39,6 +39,14 @@ No, the Club has a policy to not provide your personal data to any third parties
 ## Links to third party sites 
 
 Our site contains links to external websites. Links to other services not operated by The Camping and Caravanning Club are solely for your convenience. The Club is not responsible for the accuracy, content or the privacy practices of third party websites. Reference to any products, services processes, trade names, trademarks or other information of third parties does not imply or constitute an endorsement, sponsorship or recommendation by the Club.
+
+## Marketing email communications
+
+The Club sends out email newsletters from time to time. We are able to track when these messages are opened and which links contained in the emails you choose to use. This allows us to see what information is of interest to members and to tailor future messages accordingly. If you wish to Unsubscribe from receiving future messages you can click the Unsubscribe link at the bottom of the email message. 
+
+## Use of cookies
+
+The Camping and Caravanning Club uses pixels, or transparent GIF files, to help manage online advertising. These GIF files are provided by our ad management partner, DoubleClick. These files enable DoubleClick to recognize a unique cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our website. The cookie was placed by us, or by another advertiser who works with DoubleClick. With both cookies and Spotlight technology, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address. More information about DoubleClick, including information about how to opt out of these technologies, go to their [website](http://www.doubleclick.net/us/corporate/privacy). 
 
 ## Other important information 
 
