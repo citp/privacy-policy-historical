@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the activeforever.com privacy policy that was archived on 2007-06-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070604174633id_/http%3A//www.activeforever.com/t-privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the activeforever.com privacy policy that was archived on 2007-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071217233940id_/http%3A//www.activeforever.com/t-privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 	<meta http-equiv="Content-Language" content="en-us">
@@ -8,27 +8,93 @@
 	
     <meta name="description" content="ActiveForever.com Privacy Policy">
     <meta name="keywords" content="ActiveForever Privacy Policy">
+    
     <!--[if lt IE 7]>
 	<script type="text/javascript" src="jscripts/minmax.js"></script>
 	<![endif]-->
+	
     <link rel="stylesheet" href="skins/Skin_1/style.css" type="text/css">
     <link rel="shortcut icon" href="http://www.activeforever.com/favicon.ico">
+    
     <script type="text/javascript" src="jscripts/formValidate.js"></script>
+    <script type="text/javascript" src="jscripts/productAdjust.js"></script>
+    <script type="text/javascript" src="jscripts/rounded_corners.js"></script>
+
+    <script type="text/JavaScript">
+
+      window.onload = function()
+      {
+          /*
+          The new 'validTags' setting is optional and allows
+          you to specify other HTML elements that curvyCorners
+          can attempt to round.
+
+          The value is comma separated list of html elements
+          in lowercase.
+
+          validTags: ["div", "form"]
+
+          The above example would enable curvyCorners on FORM elements.
+          */
+          settings = {
+              tl: { radius: 4 },
+              tr: { radius: 4 },
+              bl: { radius: 0 },
+              br: { radius: 0 },
+              antiAlias: true,
+              autoPad: true,
+              validTags: ["div"]
+          }
+          
+          settings2 = {
+              tl: { radius: 8 },
+              tr: { radius: 8 },
+              bl: { radius: 8 },
+              br: { radius: 8 },
+              antiAlias: true,
+              autoPad: true,
+              validTags: ["div"]
+          }
+         
+          
+          
+          /*
+          Usage:
+
+          newCornersObj = new curvyCorners(settingsObj, classNameStr);
+          newCornersObj = new curvyCorners(settingsObj, divObj1[, divObj2[, divObj3[, . . . [, divObjN]]]]);
+          */
+          var myBoxObject = new curvyCorners(settings, "moreInfo");
+          myBoxObject.applyCornersToAll();
+          
+          var myBoxObject2 = new curvyCorners(settings2, "subHeader");
+          myBoxObject2.applyCornersToAll();
+
+      }
+      
+    </script>
+
+    
 	<!-- Google Analytics -->
-		<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+		<meta name="verify-v1" content="KuOExe3japr3a/NM0Re1xIuxeUDonkZy/HOjIAO/3Fk=">
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
 </script>
 <script type="text/javascript">
     _uacct="UA-380598-1";
     urchinTracker();
 </script>
+
+
 	<!-- End Google Analytics -->
 		
 	
   </head>
   	<body>
+  	 	
 	<div id="wrapper">
           <div id="header">
-              <a href="/" class="logo"><img src="skins/Skin_1/images/logo.gif" alt="Active Forever"></a>
+              <a href="/" class="logo"><img src="skins/Skin_1/images/logo_winter.jpg" alt="Active Forever"></a>
                 <ul class="mainMenu">
                   <li class="home"><a href="/">Home</a></li>
                   <li><a href="t-pressroom.aspx">Press Room</a></li>    
@@ -40,8 +106,11 @@
                 <div class="clearLeft"></div>
 
                 <div class="headerButtons">
+                
                     <a href="shoppingcart.aspx"><img src="skins/Skin_1/images/view-cart.gif" alt="View Cart"></a>
-                    <a href="account.aspx"><img src="skins/Skin_1/images/your-account.gif" alt="Your Account"></a>
+                    <a href="account.aspx"><img src="skins/Skin_1/images/your-account.gif" alt="Your Account"></a><br>
+                    <span class="username"><a class="username" href="signin.aspx">Login</a>
+                    </span>
                 </div>
           </div>
           
@@ -59,6 +128,7 @@
   <li><a href="s-10-kitchen-aids.aspx">Kitchen Aids</a></li>
   <li><a href="s-11-medical-alert.aspx">Medical Alert</a></li>
   <li><a href="s-12-mobility-aids.aspx">Mobility Aids</a></li>
+  <li><a href="s-61-nutrition.aspx">Nutrition</a></li>
   <li><a href="s-13-specials-and-new-arrivals.aspx">Specials and New Arrivals</a></li>
   <li><a href="s-14-watches-and-jewelry.aspx">Watches and Jewelry</a></li>
   <li><a href="s-15-writing-tools.aspx">Writing Tools</a></li>
@@ -73,7 +143,7 @@
   <li><a href="c-5-exercise-therapy.aspx">Exercise Therapy</a></li>
   <li><a href="c-6-foot-care.aspx">Foot Care</a></li>
   <li><a href="c-7-hand-conditions.aspx">Hand Conditions</a></li>
-  <li><a href="c-8-low-vision.aspx">Low Vision</a></li>
+  <li><a href="c-8-low-vision-aids.aspx">Low Vision Aids</a></li>
   <li><a href="c-9-parkinsons-disease.aspx">Parkinsons Disease</a></li>
   <li><a href="c-11-stroke-and-neuro-rehab.aspx">Stroke and Neuro Rehab</a></li>
 </ul>
@@ -82,23 +152,27 @@
           <div id="mainCol">
 	         <div id="searchBar">
                   <div class="searchBox">
-					<form style="cursor: hand; margin-top: 0px; margin-bottom: 0px;" id="topsearchform" name="topsearchform" method="GET" action="/search.aspx">
-                      <input type="text" name="SearchTerm" id="">
+					<form autocomplete="off" style="cursor: hand; margin-top: 0px; margin-bottom: 0px;" id="topsearchform" name="topsearchform" method="GET" action="/search.aspx">
+                      <input type="text" style="border: ridge 1px;" name="SearchTerm" id="SearchTerm">
                       <input type="image" src="skins/skin_1/images/go.gif" class="button" name="" id="Image1">
                     </form>
                   </div>
                   <p>Can't find it? Call us: <span>1-800-377-8033</span></p>
            </div>
+           
+           <div id="dynamicSearch">
+           <p>Suggestions: <span id="txtHint"></span></p>
+           </div>
               
               <div id="rightCol">
-                  <a href="/t-responselink.aspx"><img src="/images/response.jpg" alt=""></a>
-						<div class="horRule"></div>
-                  <a href="/addtocart.aspx?productid=467&amp;variantid=3525"><img src="/images/catalog-request.gif" alt=""></a>
-						<div class="horRule"></div>
-                  <a href="/t-discovery-digest-enewsletter.aspx"><img src="/images/discovery-digest.gif" alt=""></a>
-						<div class="horRule"></div>
-                  <a href="http://www.bbbonline.org/cks.asp?id=1050601124339"><img src="/images/bbb-reliability-seal.gif" alt=""></a>
-						<div class="horRule"></div>
+                  <a href="/t-Medical_Alert.aspx"><img src="/images/lifeline_150.jpg" alt="Philips Lifeline Medical Alert Service"></a>
+						<div class="horRule">&nbsp;</div>
+                  <a href="/requestcatalog.aspx"><img src="/images/catalog-request.gif" alt="=" activeforever.com="" catalog""=""></a>
+						<div class="horRule">&nbsp;</div>
+                  <a href="/t-discovery-digest-enewsletter.aspx"><img src="/images/discovery-digest.gif" alt="Discovery Digest"></a>
+						<div class="horRule">&nbsp;</div>
+                  <a href="http://www.bbbonline.org/cks.asp?id=1050601124339"><img src="/images/bbb-reliability-seal.gif" alt="BBB COMPLIANT!"></a>
+						<div class="horRule">&nbsp;</div>
                   <!-- START CONTROLSCAN CODE -->
                   <a href="http://www.controlscan.com/seal/verify2.php?subid=636&amp;id=39" target="verify"><img border="0" src="https://www.controlscan.com/seal/sealx2.php?subid=636&amp;id=39" oncontextmenu="alert('Copying Prohibited by Law - Trademark of ControlScan.com'); return false;" alt=""></a>
                   <!-- STOP CONTROLSCAN CODE -->
