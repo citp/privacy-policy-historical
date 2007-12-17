@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the financialsense.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627033308id_/http%3A//www.puplava.com/privacystatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the financialsense.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217123336id_/http%3A//www.puplava.com/privacystatement.html) for the most accurate reproduction.*
 
 # PFS Group - Privacy Statement
 
@@ -44,7 +44,7 @@ PFS Group internally safeguards your non-public personal information by restrict
 ## OUR INTERNET POLICY  
 
 
-PFS Group maintains strong e-business privacy standards relating to financial services. Our internet websites are [financialsense](http://www.financialsense.com/), [financialsense newshour](http://www.netcastdaily.com/fsnewshour.htm), and [puplava.com](https://web.archive.org/web/20070627033308id_/http%3A//www.puplava.com/home.html). Contact information obtained from these sites is used only within our Company and is not for public knowledge. 
+PFS Group maintains strong e-business privacy standards relating to financial services. Our internet websites are [financialsense](http://www.financialsense.com/), [financialsense newshour](http://www.netcastdaily.com/fsnewshour.htm), and [puplava.com](https://web.archive.org/web/20071217123336id_/http%3A//www.puplava.com/home.html). Contact information obtained from these sites is used only within our Company and is not for public knowledge. 
 
   * **Email Addresses:** Our sites keep user email addresses private. They are never disclosed or sold to outside sources. If requested in a contact form, we will direct comments and/or questions according to the sender's direction. 
   * **Security:** Our sites have security measures in place to protect the loss, misuse and alteration of the information under our control. 
@@ -56,7 +56,7 @@ PFS Group maintains strong e-business privacy standards relating to financial se
 
 ## INTERNET SPECIFIC PRACTICES
 
-PFS Group makes extensive use of firewall barriers, encryption techniques and authentication procedures for Client-Only site access at puplava.com. Only active customers may have access to our proprietary material. Further, those potential customers who may wish to view our site must be domiciled in one of our [registered states](https://web.archive.org/web/20070627033308id_/http%3A//www.puplava.com/investmentservices/stateregistrations.html). We may also place cookies or similar files on your hard drive for security purposes to confirm your right to access and to facilitate site navigation.
+PFS Group makes extensive use of firewall barriers, encryption techniques and authentication procedures for Client-Only site access at puplava.com. Only active customers may have access to our proprietary material. Further, those potential customers who may wish to view our site must be domiciled in one of our [registered states](https://web.archive.org/web/20071217123336id_/http%3A//www.puplava.com/investmentservices/stateregistrations.html). We may also place cookies or similar files on your hard drive for security purposes to confirm your right to access and to facilitate site navigation.
 
 If you have any further questions regarding our privacy practices, please direct them to:
 
