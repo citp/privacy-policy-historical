@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportingnews.com privacy policy that was archived on 2007-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070527175645id_/http%3A//www.sportingnews.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportingnews.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217104949id_/http%3A//www.sportingnews.com/privacy.html) for the most accurate reproduction.*
 
 # American City Business Journals, Inc.
 
@@ -18,8 +18,9 @@ By registering on a site provided by _ACBJ_ and its affiliates (hereafter "SN" ,
 If you have questions or concerns regarding this statement, you should first contact the SN Customer Service Department at [privacyreport@sportingnews.com](mailto:privacyreport@sportingnews.com) or via postal mail at: 
 
 **Sporting News  
-475 Park Avenue South  
-New York, NY 10016**
+120 West Morehead Street, Suite 200  
+Charlotte, NC 28202  
+**
 
 If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe online at   
 <http://www.truste.org/consumers/watchdog_complaint.php>.   
