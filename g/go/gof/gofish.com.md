@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gofish.com privacy policy that was archived on 2007-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070521113610id_/http%3A//www.gofish.com/corp/privacy.gfp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gofish.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217085752id_/http%3A//www.gofish.com/corp/privacy.gfp) for the most accurate reproduction.*
 
 # GoFish Corporation - Privacy Policy
 
