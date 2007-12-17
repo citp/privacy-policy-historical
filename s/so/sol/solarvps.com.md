@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solarvps.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629142511id_/http%3A//www.solarvps.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solarvps.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217035908id_/http%3A//www.solarvps.com/privacy.php) for the most accurate reproduction.*
 
 # Solar VPS :: Privacy Policy
 
@@ -8,7 +8,6 @@ Our Privacy Policy is designed to assist you in understanding how we collect and
 
 When you visit our Web site you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis and Web site use information collected on an aggregate basis as you and others browse our Web site. 
 
-  
 **_Personal Information You Choose to Provide_**
 
 **Registration Information.**
