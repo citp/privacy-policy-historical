@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eyejot.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627131518id_/http%3A//eyejot.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eyejot.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217104437id_/http%3A//www.eyejot.com/privacy.html) for the most accurate reproduction.*
 
 # Eyejot :: Privacy Policy
 
@@ -109,7 +109,7 @@ You can delete your applicable account by contact Eyejot's support team through 
 If you have a privacy concern regarding any Eyejot Site, Product or Service, or this policy, and if you cannot satisfactorily resolve it through the use of those sites, products or services, you should complete a feedback form or you can write to us by email at privacy@eyejot.com. Alternatively, we can be reached at our postal mail address: 
 
 > Eyejot, Inc.  
->  316 Occidental Avenue South, Suite 400  
+>  307 3rd Avenue South, Suite 520  
 >  Seattle, WA 98104  
 >  Attention: Privacy Officer 
 
