@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the superdeluxe.com privacy policy that was archived on 2007-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070621111829id_/http%3A//www.superdeluxe.com/static/site/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superdeluxe.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217011117id_/http%3A//www.superdeluxe.com/static/site/privacy.shtml) for the most accurate reproduction.*
 
-# Super Deluxe Privacy Policy
+# User Videos is What Makes Super Deluxe The Comedy Zone, & The Place For Free Funny Video Clips.
+
+## Super Deluxe Privacy Policy
 
 Thank you for visiting Super Deluxe (www.superdeluxe.com), a general audience site brought to you by Turner Broadcasting System, Inc. Your privacy is important to us. To better protect your privacy, we provide this statement explaining our online information practices and the choices you can make about the way your information is collected and used at this Turner site.
 
@@ -52,7 +54,7 @@ Some of our sites contain links to other sites whose information practices may b
 
 The Turner sites covered by this Privacy Statement sometimes may offer content (e.g., contests, sweepstakes, or promotions) that is sponsored by or cobranded with identified third parties. By virtue of these relationships, the third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the site activity. We have no control over these third parties' use of this information. The site will notify you at the time of requesting personally identifiable information if these third parties will obtain such information.
 
-Some of the sites covered by this Privacy Statement may use a third party to present or serve the advertisements that you may see at its web pages. These third party ad servers may use cookies, web beacons, clear .gifs or similar technologies to help present such advertisements, and to help measure and research the advertisements' effectiveness. The use of these technologies by these third party ad servers is subject to their own privacy policies and is not covered by our privacy statement. For more information on this site's use of such third-party ad servers, please [click here](https://web.archive.org/web/20070621111829id_/http%3A//www.superdeluxe.com/static/site/privacyPolicyThirdParty.shtml).
+Some of the sites covered by this Privacy Statement may use a third party to present or serve the advertisements that you may see at its web pages. These third party ad servers may use cookies, web beacons, clear .gifs or similar technologies to help present such advertisements, and to help measure and research the advertisements' effectiveness. The use of these technologies by these third party ad servers is subject to their own privacy policies and is not covered by our privacy statement. For more information on this site's use of such third-party ad servers, please [click here](https://web.archive.org/web/20071217011117id_/http%3A//www.superdeluxe.com/static/site/privacyPolicyThirdParty.shtml).
 
 ### Our Commitment to Security
 
