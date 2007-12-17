@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the texanscu.org privacy policy that was archived on 2007-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070209125758id_/http%3A//www.texanscu.org/Security_Privacy.aspx%3FServicesNavId%3D75%26id%3D515) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the texanscu.org privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217091838id_/http%3A//www.texanscu.org/Security_Privacy.aspx%3FServicesNavId%3D75%26id%3D515) for the most accurate reproduction.*
 
-# Texans Credit Union
+# 
 
 Website Privacy Policy
 
