@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dc.gov privacy policy that was archived on 2007-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070407194557id_/http%3A//dc.gov/privacy.asp%3Fportal_link%3Dfc) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dc.gov privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217151918id_/http%3A//dc.gov/privacy.asp%3Fportal_link%3Dfc) for the most accurate reproduction.*
 
 # District of Columbia: Privacy and Security
 
@@ -8,9 +8,7 @@ The District of Columbia is committed to protecting the privacy of all visitors 
 
 Collection and Use of Online Information
 
-Our web server automatically collects your Internet Protocol (IP) address when you visit our site. Your IP address is your computer's unique address that lets other computers attached to the Internet know where to send data, but rarely can be used to identify you individually. We use your IP address to help diagnose problems with our server and to compile statistics on site usage. We will not make your IP address available to anyone outside the District's technology staff, unless required by law to do so. 
-
-To help us provide better service and a more effective website, sections of this site may use cookies as part of its interaction with your browser. A cookie is a small text file (typically only a few bytes) that we place on your hard drive to allow our server to identify your computer. Our cookies will not attempt to read any additional information on your hard drive, and we do not combine information collected through cookies with other personal information to determine your identity or your email address. 
+When you visit our website, certain data, such as your computer's unique Internet protocol (IP) address, will be automatically collected and sent to the servers that support our website system to help us provide better service and a more effective website. In addition, as part of these efforts, sections of this site may place a small text file (typically only a few bytes) on your hard drive to allow us to identify your computer. We will not attempt to read any additional information on your hard drive, and we do not combine collected information with other personal information to determine your identity or your email address.
 
 In order to visit certain areas of this site, or to use certain services, you may be asked to provide personal information, such as your name, address, or gender. If you are making a payment, we may ask for your credit card number and billing address. If you decline to provide requested information, our ability to serve you may be limited. But you will still be able to visit the site and take advantage of the wealth of information it offers. 
 
@@ -26,4 +24,4 @@ Other Sites
 
 The District of Columbia's privacy policy extends to District government websites only. If you access another organization's website through the www.dc.gov website, you should read that organization's privacy policy to determine its website practices. 
 
-[<< Back to Home](https://web.archive.org/web/20070407194557id_/http%3A//dc.gov/index.asp "back to home")
+[<< Back to Home](https://web.archive.org/web/20071217151918id_/http%3A//dc.gov/index.asp "back to home")
