@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 365black.com privacy policy that was archived on 2007-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070615231000id_/http%3A//www.mcdonalds.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 365black.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217230706id_/http%3A//www.mcdonalds.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -30,7 +30,7 @@ You are in control of any personal information you provide to us on-line. If at 
 
 In order to review any personal information we have **about you** or to ask us to delete that information or to stop further use of the information, please submit this [information request form](https://web.archive.org/privacy/opt.html). 
 
-In order to review any personal information we have **about your child** or to ask us to delete that information or to stop further use of the information, please submit this [information request form](https://web.archive.org/privacy/opt_child.html). 
+In order to review any personal information we have **about your child** or to ask us to delete that information or to stop further use of the information, please submit this information request form. 
 
 **Cookies**  
 "Cookies" are pieces of information that a web site transfers to an individual's hard drive for record-keeping purposes. Cookies allow the web site to remember important information that will make your use of the site more convenient. Like most web sites, McDonald's uses cookies for a variety of purposes in order to improve your on-line experience. For example, we track the total number of visitors to our site on an anonymous aggregate basis. We may also employ cookies so that we remember you when you return to the site, to keep track of the items in your shopping cart if you purchase merchandise online, to administer certain contests and sweepstakes and to help customize your McDonald's web experience. We may associate personal information with a cookie file in those instances. 
