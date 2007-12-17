@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fox61.com privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208000313id_/http%3A//fox61.trb.com/go/services/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fox61.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217202441id_/http%3A//fox61.trb.com/go/services/privacy) for the most accurate reproduction.*
 
-# Fox 61 WTIC-TV Connecticut | Privacy Policy
+# Privacy Policy | Site Services | Fox 61 WTIC-TV Connecticut
 
 Privacy Policy
 
@@ -65,5 +65,8 @@ This policy and the use of this Site are governed by Illinois law. Any claim rel
 
 In the event case of any conflict between the terms of this policy and the terms of any electronic or machine readable privacy policy (for example, a P3P electronic privacy policy), the terms of this written policy shall control. 
 
+Copyright © 2007, WTIC
+
+  
   
 
