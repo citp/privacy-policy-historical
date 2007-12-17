@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the westciv.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630160647id_/http%3A//www.westciv.com/westciv/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westciv.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217162228id_/http%3A//www.westciv.com/westciv/privacy.html) for the most accurate reproduction.*
 
 # westciv :: privacy policy
 
@@ -80,5 +80,3 @@ We keep copies of all email correspondence. From time to time we invite people t
 ### How is this information used?
 
 All email correspondence is treated with strict confidence. Email addresses obtained via requests for information on upcoming releases are only used to inform you of beta testing opportunities and then the actual release of the product. We do not send other unsolicited emails to people who have written to us with general sales enquiries and other questions.
-
-[](http://www.freecookingrecipes.net/)
