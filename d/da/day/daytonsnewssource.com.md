@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the daytonsnewssource.com privacy policy that was archived on 2007-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070526213122id_/http%3A//www.daytonsnewssource.com/sections/station/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daytonsnewssource.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217043911id_/http%3A//daytonsnewssource.com/sections/station/privacy_policy.shtml) for the most accurate reproduction.*
 
 # FOX45/ABC22
 
