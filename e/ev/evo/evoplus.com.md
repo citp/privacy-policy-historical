@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the evoplus.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629074116id_/http%3A//evoplus.com/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evoplus.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217121628id_/http%3A//www.evoplus.com/privacy_statement.html) for the most accurate reproduction.*
 
 # Privacy Statement
+
+Privacy Policy 
 
 **Privacy Statement**
 
