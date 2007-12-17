@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the synacor.com privacy policy that was archived on 2006-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061118184415id_/http%3A//www.synacor.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the synacor.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217014759id_/http%3A//www.synacor.com/pages/privacy) for the most accurate reproduction.*
 
-# Synacor | Privacy Policy
+# Synacor — Privacy
 
 Synacor ensures that the personal information of its partners' end users will be kept safe and confidential. The following is **Synacor's Privacy Policy** :
-
-  
-
 
 ## Handling of Personal Information
 
@@ -19,17 +16,11 @@ Synacor may use the information collected to occasionally notify users about imp
 
 Synacor reserves the right to disclose its users' personal information when required by law, or to protect the rights or property of Synacor.
 
-  
-
-
 ## Security Procedures
 
 Synacor ensures that end user personal information is handled securely and in accordance with the Synacor Terms of Service and this Privacy Policy. Synacor has implemented a variety of security measures, including containing all personal information behind its secured server network and limiting its accessibility to a limited number of authorized persons who have special access rights to such systems.
 
 Synacor's site uses cookies to deliver content specific to end user interests and, with user permission, to save passwords to prevent the need for users to re-enter their password each time they visit the site. Synacor uses end users' IP addresses to help diagnose problems with its server, and to administer its Web site. IP addresses are also used to help identify end users and gather broad demographic information. If a user misplaces or forgets a password, Synacor will only send reminders after appropriate security questions have been correctly answered.
-
-  
-
 
 ## Protection for Children
 
@@ -37,32 +28,34 @@ Children under the age of 13 may sign up for Synacor services only after Synacor
 
 A parent will always have the opportunity to review and/or delete his or her child's personal information, and to refuse to permit the further collection, use or disclosure of such child's information. To do so, a parent must contact Synacor to request that the information be deleted and/or to prohibit the further collection, use and/or disclosure of a child's personal information. Synacor can be contacted via any of the following mediums:
 
-| Mail: |  Synacor, Inc.  
+Mail:
+    Synacor, Inc.  
 Attn: Privacy Policy Administrator  
 40 La Riviere Drive  
 Suite 300  
-Buffalo, NY 14202   
----|---  
-Phone: | (716) 853-1362  
-Fax: | (716) 332-0081  
-E-mail: | [privacypolicy@Synacor.com](mailto:privacypolicy@Synacor.com)  
-  
+Buffalo, NY 14202
+
+Phone:
+    (716) 853-1362
+
+Fax:
+    (716) 332-0081
+
+E-mail:
+    [privacypolicy@Synacor.com](mailto:privacypolicy@Synacor.com)
+
 A number of emerging standards in the area of children's online privacy will affect how Synacor collects or uses a child's personally identifiable information in the future. Synacor is committed to monitoring these changes and will continue to redesign its systems and corporate site (www.synacor.com) to comply with these new requirements.
-
-  
-
 
 ## Self-Protection
 
 Users should take steps to ensure the privacy of their information. Users should:
 
-  1. be aware of the risks of voluntarily disclosing personal information online and educate themselves and their children.
-  2. use complex passwords, change passwords regularly, and never disclose their password, or allow their children to disclose their password, to anyone.
-  3. keep in mind that whenever personal information is voluntarily disclosed, for example on message boards, through e-mail, in chat areas or on Web sites that do not respect users' privacy, that information can be collected and used by others. If users post personal information online that is accessible to the public, they may receive unsolicited e-mail messages known as "spam" from other parties in return. Synacor has strict rules prohibiting spam and blocks certain known persons from sending spam to Synacor users.
-  4. remember that they are solely responsible for maintaining the secrecy of their password and/or any account information.
-  5. look for a privacy policy on every Web site they visit on the Internet and search for information on how to protect themselves or their children's privacy. Users should start with TRUSTe ([www.truste.org](http://www.truste.org/)) which is an independent, not-for-profit organization dedicated to building users' trust and confidence on the Internet.
+  * be aware of the risks of voluntarily disclosing personal information online and educate themselves and their children.
+  * use complex passwords, change passwords regularly, and never disclose their password, or allow their children to disclose their password, to anyone.
+  * keep in mind that whenever personal information is voluntarily disclosed, for example on message boards, through e-mail, in chat areas or on Web sites that do not respect users' privacy, that information can be collected and used by others. If users post personal information online that is accessible to the public, they may receive unsolicited e-mail messages known as "spam" from other parties in return. Synacor has strict rules prohibiting spam and blocks certain known persons from sending spam to Synacor users.
+  * remember that they are solely responsible for maintaining the secrecy of their password and/or any account information.
+  * look for a privacy policy on every Web site they visit on the Internet and search for information on how to protect themselves or their children's privacy. Users should start with TRUSTe ([www.truste.org](http://www.truste.org/)) which is an independent, not-for-profit organization dedicated to building users' trust and confidence on the Internet.
 
-  
 
 
 ## Additional Information
@@ -76,6 +69,6 @@ Questions about this privacy statement, the practices of this site, or dealings 
 ## Synacor, Inc.
 
 Privacy Policy Administrator  
-465 Main Street, Suite 710  
-Buffalo, NY 14203  
+40 La Riviere Drive, Suite 300  
+Buffalo, NY 14202  
 [privacypolicy@synacor.com](mailto:privacypolicy@synacor.com)
