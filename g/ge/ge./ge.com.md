@@ -1,49 +1,105 @@
-> *The following text is extracted and transformed from the ge.com privacy policy that was archived on 2007-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070527215853id_/http%3A//www.ge.com/en/ge/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ge.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217120237id_/http%3A//www.ge.com/privacy.html) for the most accurate reproduction.*
 
-# General Electric : Privacy Policy
+# Privacy : GE
 
-#### Information Collected
+### Information we collect and how we use it
 
-In general, you can visit this Web site without telling us who you are or revealing any information about yourself. Our web servers collect the domain names, not the e-mail addresses, of visitors. Our web servers also seek (as many Web sites do) to place a "cookie" (a small data file) on your computer's hard drive which allows the server to determine the computer when it visits again, in order to track statistical information about navigation to and throughout certain areas of our site, and to GE promotions on other sites. This cookie is not used to obtain your name or any personal data, and the information that is tracked is used only for internal purposes, such as to improve site navigation and to measure the effectiveness of our promotional placements, and is not shared with anyone other than GE affiliates and contractors who assist GE in these efforts and are bound to confidentiality. However, if you prefer not to accept cookies, you can set your browser to reject them or to alert you before one is placed.
+  * #### Personal Information
 
-In addition, there are portions of this Web site where we may need to collect personal information from you for a specific purpose, such as to provide you with certain information you request. The information collected from you may include your name, address, telephone, fax number, or e-mail address. For electronic access to annual reports and proxy statements, we collect your tax identification number to verify your shareholder status. For our supplier diversity site, we necessarily collect information about gender and ethnicity, such as whether your business is female-owned.
+You may choose to provide personal information (such as your name, address, telephone number and email address) on this Web site. Here are some of the ways you may provide the information and the types of information you may submit. We also tell you how we may use the information.
 
-We use a third-party technology to place our advertisements on other Web sites. This technology will install a small "cookie" file on your computer when you view our ad. These cookies will not contain any information that personally identifies you (such as your name or e-mail address) but they will contain a randomly generated number that is unique to your browser and can be recognized by a "Web beacon" (transparent GIF file) on our site if you click through to our site from one of our ads. This allows us to keep track of how many unique visitors we have to our site and from what ads they entered, so that we can measure the effectiveness of our ads and ad placements. The privacy policies of the Web sites on which we advertise, and through which the cookies are installed should inform you about the cookie, and you may of course set your browser to reject cookies. To learn more about the third-party ad-serving technology that we use, cookies, and how to "opt-out," please [click here to learn more about the third-party ad-serving technology... External site. (Opens new window) ](https://web.archive.org/r/r?http://www.doubleclick.com/us/corporate/privacy "External site \(Opens new window\)"). 
+    * ##### Contact Us
 
-This Web site is not intended for persons under 13 years of age. We do not knowingly solicit or collect personal information from or about children, and we do not knowingly market our products or services to children.
+If you email us through the “Contact Us” link on this site, we ask you for information such as your name and email address so we can respond to your questions and comments. You may choose to provide additional information as well.
 
-Return to top
+    * ##### Investor Communications E-mail Alerts
 
-#### Use of Collected Information
+If you would like to receive company news alerts from the GE Investor Communications Staff, we ask for your name and email address so we can send you the news alerts.
 
-Domain name information that we collect is not used to personally identify you and instead is aggregated to measure the number of visits, average time spent on the site, pages viewed, etc. We use this information to measure the use of our site and to improve the content of our site.
+    * ##### Questionnaires and Surveys
 
-When other information is collected from you, such as your name and e-mail address, we generally let you know at the time of collection how we will use the personal information. Usually, we use the personal information you provide only to respond to your inquiry or to process your request (such as to receive electronic annual reports or to be added to our supplier diversity database). This information may be shared with other GE businesses, but only if necessary to fulfill your request or for related purposes.
+We occasionally may ask visitors to our Web site to complete online surveys and opinion polls about their activities, attitudes and interests. These surveys help us serve you better and improve the usefulness of our site. In conducting these surveys we may ask you for your name and email address. We do not keep any personal information about you in connection with your participation in a ge.com survey unless you specifically agree to provide that information.
 
-We may share the personal information you provide with other companies we have hired to provide services for us. These companies - our vendors - are contractually bound to use personal information we share with them only to perform the services we have hired them to provide. We do not share, sell, or lease personal information about you to any third-parties for their marketing use. We will release information about you if you direct us to do so, if we are required by law to do so, or in other legally limited circumstances (for example, to protect your account from fraud).
+    * ##### Send TV Ads to a Friend
 
-If you register with one of GE's business units online, they may use this information to provide you with custom information about GE's offerings in support of your business needs. They may also seek to place a "cookie" (small data file) as discussed above in order to provide you with tailored information. You should review the privacy policy associated with that GE business' Web site for further information about that GE business' privacy practices.
+You can send certain GE TV ads to your friends. To do so, we ask you to provide your name and your friend’s email address. We use this information to send the ads to your friend.
 
-Return to top
+    * ##### Order Reports
 
-#### Links to Other Sites
+If you would like to receive the printed General Electric Citizenship Report or Ecomagination Report by postal mail, you may ask for a copy on our Web site. We ask for your contact information so we can send you the report.
 
-GE's Web site may contain links to other sites such as GE distributors and sales affiliates. While we try to link only to sites that share our high standards and respect for privacy, we are not responsible for the content, security, or privacy practices employed by other sites.
+    * ##### Request Electronic Delivery of Annual Reports
 
-#### Security of Collected Information
+If you are a GE shareholder and would like to request electronic delivery of annual reports, you may do so on our Web site. We ask for your last name and the last four digits of your account number for verification purposes.
 
-We maintain strict physical, electronic, and administrative safeguards to protect your personal information from unauthorized or inappropriate access. We restrict access to information about you to those GE workers who need to know the information to respond to your inquiry or request. Workers who misuse personal information are subject to disciplinary action.
+    * ##### Contact GE’s Board of Directors
 
-#### Access to Collected Information
+On ge.com, we provide a phone number, a postal address and an email address so visitors can report complaints about GE accounting, internal accounting controls or auditing matters or other concerns to the board of directors or Audit Committee. If you email us, please be aware that you will be providing us with your email address and any other information you include in your email.
 
-You may review and update the information that you provide to us through this Web site by contacting us as described below.
+  * #### Non-Personal Information
 
-#### Contacting Us
+We collect certain aggregate and non-personal information when you visit this Web site. Aggregate and non-personal information does not relate to a single identifiable visitor. It tells us such things as how many users visited our site and the pages accessed. By collecting this information, we learn how to best tailor our Web site to our visitors. We collect this information either through “cookie” technology or with “web beacons,” as explained below.
 
-If you have any questions about this privacy policy, please use the [Contact Us](https://web.archive.org/en/ge/contact.htm) page. We welcome your questions and suggestions about our privacy policy.
+    * ##### Cookies
 
-#### Changes to this Policy
+Like many companies, we use browser cookies on this Web site. Browser cookies are bits of text that are placed on your computer’s hard drive when you visit certain Web sites. We use browser cookies to tell us, for example, whether you’ve visited us before or if you’re a new visitor and to help us identify site features in which you may have the greatest interest. Browser cookies may enhance your online experience by saving your preferences while you are visiting a particular site.
 
-Please check this privacy policy periodically to inform yourself of any changes. Although we reserve the right to modify or supplement this privacy policy, we will provide notice to you on this Web site of any major changes for at least 30 days following the change.
+The “help” portion of the toolbar on most browsers will tell you how to stop accepting new browser cookies, how to be notified when you receive a new browser cookie, and how to disable existing browser cookies. Remember though, without browser cookies, you may not be able to take full advantage of all our Web site features.
 
-Return to top
+We also use flash cookies on our Web site to enhance your online experience. Flash cookies are similar to browser cookies, except that they can store data more complex than simple text. Flash cookies, by themselves, cannot do anything to or with the data on your computer. In addition, flash cookies cannot access or remember your email address or other personal information unless you provide the information on this site. We use flash cookies to provide you with a better user experience. You can manage and disable flash cookies by [clicking here for Manage and Disable Flash Cookies](http://www.adobe.com/cfusion/knowledgebase/index.cfm?id=52697ee8 "Manage and Disable Flash Cookies").
+
+    * ##### Web Beacons
+
+Certain pages on our site contain “web beacons” (also known as Internet tags, pixel tags and clear GIFs). These web beacons allow third parties to obtain information such as the IP address of the computer that downloaded the page on which the beacon appears, the URL of the page on which the beacon appears, the time the page containing the beacon was viewed, the type of browser used to view the page, and the information in cookies set by the third party. We use log files to store the data that is collected through web beacons.
+
+GE also uses third party web beacons to help manage online advertising. These web beacons are provided by our ad management partner, DoubleClick. These files enable DoubleClick to recognize a unique cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our web site. The cookie on your Web browser was placed by GE, or by another advertiser who works with DoubleClick. With both cookies and web beacon technology, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address. For more information about DoubleClick, including information about how to opt out of these technologies, go to [www.doubleclick.net](http://www.doubleclick.net/us/corporate/privacy).
+
+
+
+
+### Information We Share
+
+We do not sell or otherwise disclose personal information about our Web site visitors, except as described here. We may share information provided by our visitors to ge.com with service providers we have retained to perform services on our behalf. These service providers are contractually restricted from using or disclosing the information except as necessary to perform services on our behalf or to comply with legal requirements. In addition, we may disclose information about you (i) if we are required to do so by law or legal process, (ii) to law enforcement authorities or other government officials, or (iii) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss or in connection with an investigation of suspected or actual illegal activity.
+
+We reserve the right to transfer any information we have about you in the event we sell or transfer all or a portion of our business or assets. Should such a sale or transfer occur, we will use reasonable efforts to direct the transferee to use personal information you have provided through this Web site in a manner that is consistent with this Privacy Statement.
+
+### Information We Transfer
+
+We may transfer the personal information we collect on this site to other countries where we do business, but we will do so only for the purposes described above. When we transfer your information to other countries, we will protect that information as described here unless otherwise required by applicable laws.
+
+### Links to Other Sites
+
+We provide links to other Web sites for your convenience and information. These sites may have their own privacy statements in place, which we recommend you review if you visit any linked Web sites. We are not responsible for the content of linked sites or any use of the sites.
+
+### Children’s Privacy
+
+This Web site is not directed to children under the age of thirteen and we do not knowingly collect personal information from children under the age of thirteen on the site. If we become aware that we have inadvertently received personal information from a visitor under the age of thirteen on the site, we will delete the information from our records.
+
+Some links on ge.com take Web site visitors to sites that are directed to kids (such as http://kids.ecomagination.com). These Web sites have their own privacy notices that address children’s privacy. We encourage you to read these privacy notices if you visit any linked sites directed to children.
+
+### How We Protect Personal Information
+
+We maintain administrative, technical and physical safeguards to protect against unauthorized disclosure, use, alteration or destruction of the personal information you provide on this Web site. We use secure socket layer (SSL) technology to help keep the personal information you provide on this site secure.
+
+### Your Choices
+
+If you are a shareholder and have requested electronic delivery of annual reports, you may update the information you have provided to us through this Web site by [clicking here for Annual Report Signup](https://web.archive.org/web/20071217120237id_/http%3A//www.ge.com/investors/stock_info/annual_report_signup.html "Annual Report Signup").
+
+### Updates to Our Privacy Statement
+
+This Privacy Statement may be updated periodically and without prior notice to you to reflect changes in our online information practices. We will post a prominent notice on this Web site to notify you of any significant changes to our Privacy Statement and indicate at the top of the statement when it was most recently updated.
+
+### How to Contact Us
+
+If you have any questions or comments about this Privacy Statement, or if you would like us to update information we have about you or your preferences, please contact us by:
+
+  * Visiting our [Feedback & Inquiries Form](https://web.archive.org/web/20071217120237id_/http%3A//www.ge.com/contact/contact_form.html)
+  * Calling us at +1 203 373 2211 or
+  * Writing us at:  
+The General Electric Company  
+3135 Easton Turnpike   
+Fairfield, CT 06828 
+
+
+
+Last Updated June 1, 2007
