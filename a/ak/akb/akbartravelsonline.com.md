@@ -1,13 +1,11 @@
-> *The following text is extracted and transformed from the akbartravelsonline.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626090640id_/http%3A//www.akbartravelsonline.com/Service/pages/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the akbartravelsonline.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217062933id_/http%3A//www.akbartravelsonline.com/Service/pages/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Akbar Travels Online.com
 
 We have developed this Privacy Policy to demonstrate our firm commitment to your privacy and the protection of your information. As part of the operation of services, we collect and, in some instances, disclose information about you. This privacy policy has been developed to keep you informed of what personally identifiable information we may collect from you, what this information will be used for, with whom such information will be shared, and the security procedures we have implemented to protect your privacy. 
 
-Information collected by us  
+Information collected by us
 
-
-  
 General Browsing  
 In general, this website may be visited and browsed by you without identifying yourself or revealing any personal information. However, as you browse through this website, the site collects the log file, IP address of your computer, and other standard tracking data which we use to evaluate site traffic and usage patterns. Such information is aggregated with tracking data from all site visitors. We will use the information to personalize the site according to your preferences based on the aggregated information. We also use the aggregated information to evaluate products and services we may offer to you.
 
@@ -60,6 +58,3 @@ By using this website, you consent to the collection, use, and storage of your i
 
 Amendment  
 This Privacy Policy was last updated on [•]. We reserve the right to change, modify or amend this policy at any time. Please check our Privacy Policy periodically for changes. Use of this website after modification implies that you consent to this Privacy Policy as modified. 
-
-  
-
