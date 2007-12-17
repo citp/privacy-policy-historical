@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comcastoffers.com privacy policy that was archived on 2007-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070616082304id_/http%3A//www.comcastoffers.com/7/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comcastoffers.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217035750id_/http%3A//www.comcastoffers.com/7/privacy.php) for the most accurate reproduction.*
 
 # Comcast High-Speed Internet: Privacy Policy
 
