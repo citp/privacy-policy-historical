@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mbna.co.uk privacy policy that was archived on 2006-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060926105058id_/http%3A//www.mbna.co.uk/direct/home_nav_foot_privacy_r.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mbna.co.uk privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217020654id_/http%3A//mbna.co.uk/direct/home_nav_foot_privacy_r.html) for the most accurate reproduction.*
 
 # MBNA Europe - Privacy
 
@@ -27,13 +27,13 @@ MBNA is committed to ensuring your personal and Account information is protected
 
   * MBNA will not disclose or request sensitive information in any unencrypted e-mail communications (e.g., full account number and security passwords). If you should receive an e-mail containing or asking for this type of sensitive information, please call us immediately at **0800 062062** (UK) or **1800 446 262** (Ireland) prior to responding.
   * If you call MBNA or receive a call from MBNA, please remember we will never ask you to provide us with your online account password.
-  * Any e-mails sent from MBNA, including Customer Satisfaction e-mails and new product offers, would require you to successfully log on to Net Access before entering any Account or personal information. We do not request that personal information be sent via e-mail.
-  * E-mail hoaxes are becoming commonplace on the Internet. If you suspect that you have received a hoax e-mail that appears to be from MBNA, do not click on any links that may be embedded in the message. Instead, please call us immediately at **0800 062062** (UK) or **1800 446 262** (Ireland), and after speaking with us delete the e-mail.
+  * Any e-mails sent from MBNA, including Customer Satisfaction e-mails and new product offers, would require you to successfully log on to Online Banking before entering any Account or personal information. We do not request that personal information be sent via e-mail.
+  * E-mail hoaxes are becoming commonplace on the Internet. If you suspect that you have received a hoax e-mail that appears to be from MBNA, do not click on any links that may be embedded in the message. Instead, please forward your e-mail to [emailfraud@mbna.com](mailto:emailfraud@mbna.com) and call us immediately at **0800 062062** (UK) or **1800 446 262** (Ireland), and after speaking with us delete the e-mail.
 
 
 
 **Advertising Services**  
-MBNA uses third party companies to serve ads on our Web site and other Web sites. These companies help MBNA execute, optimise, and measure the effectiveness of our online banner advertising programs. These companies use cookies and non-personally identifiable information (for example, information that does not include name, address, e-mail address or telephone number) about your visit to this and other Web sites to measure advertising effectiveness and to provide ads about goods and services that may interest you. If you would like to learn more about these practices, view the privacy notices of these third party companies, or opt out of their use of non-personally identifiable information, [click here.](https://web.archive.org/web/20060926105103id_/http://www.mbna.co.uk/advertising_services.html "Link opens in a new window")
+MBNA uses third party companies to serve ads on our Web site and other Web sites. These companies help MBNA execute, optimise, and measure the effectiveness of our online banner advertising programmes. These companies use cookies and non-personally identifiable information (for example, information that does not include name, address, e-mail address or telephone number) about your visit to this and other Web sites to measure advertising effectiveness and to provide ads about goods and services that may interest you. If you would like to learn more about these practices, view the privacy notices of these third party companies, or opt out of their use of non-personally identifiable information, [click here.](https://web.archive.org/web/20071217020710id_/http://www.mbna.co.uk/advertising_services.html "Link opens in a new window")
 
 MBNA's banner advertisements and online applications may contain small graphics with tags in them. These tags are not personally identifiable and work in conjunction with these cookies. These tags allow us to measure the effectiveness and response rates of our advertising.
 
