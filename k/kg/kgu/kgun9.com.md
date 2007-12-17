@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kgun9.com privacy policy that was archived on 2007-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070218220045id_/http%3A//www.kgun9.com/PrivacyPolicy/tabid/1985/xmid/7672/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kgun9.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217011223id_/http%3A//www.kgun9.com/PrivacyPolicy/tabid/1985/xmid/7672/Default.aspx) for the most accurate reproduction.*
 
-# KGUN 9 News - KGUN-TV, the ABC affiliate in Tucson, Arizona. News, Weather. > Privacy Policy
+# KGUN 9 News - ABC KGUN-TV Tucson, Arizona, News & Weather. > Privacy Policy
 
 Privacy Policy for KGUN
 
@@ -108,5 +108,3 @@ Attention: Privacy Contact
 7280 E. Rosewood Street  
 Tucson, AZ 85710  
 [privacy@journalbroadcastgroup.com](mailto:privacy@journalbroadcastgroup.com?subject=KGUN%20-%20Privacy%20Policy)
-
-Return
