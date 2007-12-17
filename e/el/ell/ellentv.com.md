@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ellentv.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623052408id_/http%3A//www2.warnerbros.com/main/privacy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ellentv.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217121701id_/http%3A//extratv.warnerbros.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Warner Bros. Online: Privacy Policy
 
@@ -18,7 +18,9 @@ We use the information you provide about yourself to fulfill your requests for o
 
 COLLECTION OF INFORMATION BY THIRD PARTY SITES AND SPONSORS 
 
-Some of our sites contain links to other sites whose information practices may be different than ours. Visitors should consult the other sites' privacy policies, as we have no control over information that is submitted to, or collected by, these third parties. We sometimes may offer content (e.g., contests, sweepstakes, or promotions) that is sponsored by or co-branded with identified third parties. By virtue of these relationships, the third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the site activity. We have no control over these third parties' use of this information. The site will notify you at the time of requesting personally identifiable information if these third parties will obtain such information. At some Warner Bros. Entertainment Group Web sites, reputable third parties may present or serve the advertisements. Our Privacy Policy does not cover any use of information that a third party ad server may collect from you. For more information on third party ad servers, please [click here](http://www.networkadvertising.org/). 
+Some of our sites contain links to other sites whose information practices may be different than ours. Visitors should consult the other sites' privacy policies, as we have no control over information that is submitted to, or collected by, these third parties. We sometimes may offer content (e.g., contests, sweepstakes, or promotions) that is sponsored by or co-branded with identified third parties. By virtue of these relationships, the third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the site activity. We have no control over these third parties' use of this information. The site will notify you at the time of requesting personally identifiable information if these third parties will obtain such information. 
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://networkadvertising.org/consumer/opt_out.asp).
 
 COOKIES AND OTHER TECHNICAL INFORMATION
 
