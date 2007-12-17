@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinemlmsecrets.com privacy policy that was archived on 2007-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070430085250id_/http%3A//www.onlinemlmsecrets.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinemlmsecrets.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217041834id_/http%3A//www.onlinemlmsecrets.com/privacy.htm) for the most accurate reproduction.*
 
 # privacy policy
 
