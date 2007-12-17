@@ -1,21 +1,25 @@
-> *The following text is extracted and transformed from the seoedge.com privacy policy that was archived on 2007-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070514001408id_/http%3A//www.seoedge.com/legal/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seoedge.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217193616id_/http%3A//www.seoedge.com/legal/privacy-policy.htm) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy-Policy
 
-### Privacy Policy
+At Logoangel.com we respect your privacy and are committed towards protecting it by taking all measures possible. Kindly go through the following to find out how we treat personal information collected from our visitors and customers.
 
-At seoedge.com we respect your privacy and are committed towards protecting it by taking all measures possible. Kindly go through the following to find out how we treat personal information collected from our visitors and customers.
+Collection of personal information
 
-**Collection of personal information**  
-seoedge.com will not collect personal information without your consent.
+Logoangel.com will not collect personal information without your consent. You can browse our website without revealing any personal information. However we do need some level of personal identifiable information to provide you our services. This includes icon purchasing and support.
 
-As a site visitor you can browse our website without revealing any personal information.However, we may request information from you such as your name and e-mail address for services such as newletters purely based on your consent. If at any time you do not want such information to be used as a basis for further contact you can let us know and we will respect your wishes. 
+Using Personal Information
 
-**Using Personal Information**  
-Your information will be treated with utmost confidentiality and will be used solely to offer you the services that you have requested from us. 
+All personal information collected will be stored securely using network firewalls and access control procedures removing chances of any unauthorized access. Your information will be treated with utmost confidentiality and will be used solely by Icongalore.com for the purpose of business communication like providing support and service delivery only.
 
-**Information Sharing and Disclosure**  
-Your personal information is safe with us. We will not sell, share, or rent your personal information to third parties under any circumstances. 
+Information Sharing and Disclosure
 
-**Changes to this Privacy Policy**  
-We reserve the right to make changes to this policy at our sole discretion. Any changes made in this manner will be posted on this page. Kindly visit this page periodically to check for changes
+Your personal information is safe with us. Icongalore.com will not sell, share, or rent your personal information to third parties under any circumstances.
+
+Security
+
+Icongalore.com makes use of the best practices to ensure that your online transactions are safe and your personal credit information is stored securely. However Icongalore.com will not be held responsible for any breach of security.
+
+Changes to this Privacy Policy
+
+Logoangel.com reserves the right to make changes to this policy at its sole discretion. Any changes made in this manner will be posted on this page. Kindly visit this page periodically to check for changes.
