@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the radarsync.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623064458id_/http%3A//www.radarsync.com/Privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radarsync.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217132943id_/http%3A//www.radarsync.com/Privacy.php) for the most accurate reproduction.*
 
-# Drivers Update Services, Software Driver Updates - RadarSync
+# Driver Updater Privacy Policy by Radar-Sync
 
 **RadarSync**
 
@@ -16,5 +16,5 @@ At RadarSync we respect your privacy and we protect your personal information.
 
 * RadarSync's websites ([http://www.radarsync.com](http://www.radarsync.com/) and [http://go.radarsync.com](http://go.radarsync.com/)) collect  information about visitors to our website by using cookies and pixel tracking tags. The information collected includes IP addresses, countries of origin, browsers, operating systems, the number, duration, and path of site visits, referring URLs and many other key details. These collected visitor demographics are compiled and analyzed automatically. This visitor information is available only to RadarSync and only as collectively analyzed data, not data on individual users. Further, RadarSync does not sell, rent, lease or otherwise release visitor information to third parties. Nor do we use this data to directly market products or services to visitors. 
 
-[](https://web.archive.org/web/20070623064458id_/http%3A//www.radarsync.com/comparison.php "Join RadarSync now!")  
+[](http://www.radarsync.com/comparison.php "Join RadarSync now!")  
 
