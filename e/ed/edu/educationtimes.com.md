@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the educationtimes.com privacy policy that was archived on 2007-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070514033625id_/http%3A//education.indiatimes.com/educationTimes/privacypolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the educationtimes.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217204326id_/http%3A//education.indiatimes.com/educationTimes/privacypolicy.jsp) for the most accurate reproduction.*
 
-# Times Education Portal
+# Education Times - Privacy Policy
 
 |  |   
 ---  
