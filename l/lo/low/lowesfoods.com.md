@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lowesfoods.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617012934id_/http%3A//www.lowesfoods.com/PrivacyPolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lowesfoods.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217051613id_/http%3A//www.lowesfoods.com/PrivacyPolicy.cfm) for the most accurate reproduction.*
 
 # Lowes Foods...Great People, Great Prices, Fabulous Fresh Foods plus S&H Greenpoints Rewards!
 
