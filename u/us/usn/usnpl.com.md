@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usnpl.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625100604id_/http%3A//www.usnpl.com/privacy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usnpl.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217083023id_/http%3A//www.usnpl.com/privacy/privacy.html) for the most accurate reproduction.*
 
 # US Newspaper Links Privacy Policy
 
