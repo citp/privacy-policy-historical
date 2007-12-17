@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aplia.com privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618103854id_/http%3A//aplia.com/support/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aplia.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217012528id_/http%3A//aplia.com/support/privacy.jsp) for the most accurate reproduction.*
 
-# Aplia: Technology Supporting the Econ and Finance Classroom: Aplia Privacy Notice
+# Aplia: Engage. Prepare. Educate. :: Aplia Privacy Notice
 
 Aplia Privacy Notice
 
@@ -31,7 +31,8 @@ Your personal information is used **only** for the following purposes:
   * All of your personal information will be provided to your Educator for his/her administrative purposes. Generally he/she will use the information for grading and may use your email address to notify you of course issues. Please contact your Educator directly for any further questions relating to his/her use of your personal information. 
   * We may also use or disclose information to resolve disputes, investigate problems, or enforce our Terms and Conditions of Use. At times, we may review status and activity of multiple users to do so. We may disclose or access information whenever we believe in good faith that the law so requires or if we otherwise consider it necessary to do so to maintain service and improve our products and services.
 
-  
+
+
 Anonymous Information  
 We use non-identifying and aggregate information to better design our service and to share with third parties for the purposes of product development, research or statistical analysis. This is information which does not personally and specifically identify you but is derived from your use of our site. For example, we may tell a researcher that X number of individuals completed an experiment, but we would not disclose any personal information that could be used to identify those individuals. 
 
@@ -65,11 +66,10 @@ Aplia reserves the right at any time to modify any of the foregoing policies. Ap
 Compliance with Laws  
 Aplia is committed to complying with all applicable legal requirements in the operation of this website. Should you ever have reason to believe that Aplia's privacy policy does not comply with any applicable law, please notify us immediately. We will use reasonable efforts to investigate your concerns to ensure legal compliance. 
 
-Business Transitions  
-In the event Aplia goes through a reorganization, such as a merger, being acquired by another company, or selling substantially all of its assets, your personal information will, in most instances, be part of the assets transferred. If as a result of the business transition your personally identifiable information will be used in a way that is different from what we said when we collected your information, you will have a choice as to whether or not your information is used in this different way. 
-
 Your Consent  
 By using our website, you consent to the collection and use of this information in the manner we describe. 
 
 How to Contact Us  
-Should you have other questions or concerns about these privacy policies, please send us an email at [privacy@aplia.com](mailto:privacy@aplia.com). 
+Should you have other questions or concerns about these privacy policies, please send us an email at [privacy@aplia.com](mailto:privacy@aplia.com).
+
+Updated: September, 2007
