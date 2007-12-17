@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avalara.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607172527id_/http%3A//www.avalara.com/index.cfm/page/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avalara.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217155301id_/http%3A//www.avalara.com/index.cfm/page/privacypolicy) for the most accurate reproduction.*
 
 # State sales tax software calculator for rates -- Avalara.
 
@@ -92,7 +92,7 @@ Avalara will not sell or rent any of your personally identifiable information or
 
 9. We will share your information with a parent, subsidiaries and joint ventures to help coordinate the services we provide to you, enforce our terms and conditions, and promote trust and safety. 
 
-10.  In accordance with SST Regulations, as outlined in [Section 321 of the Streamlined Sales and Use Tax Agreement](http://avalara.com/media/SSTContractSection321.pdf).
+10.  In accordance with SST Regulations, as outlined in [Section 321 of the Streamlined Sales and Use Tax Agreement](http://www.avalara.com/media/SSTContractSection321.pdf).
 
 Our Contacts with Avalara Customers  
 We communicate with users on a regular basis via e-mail to provide requested services, and we also communicate by phone to resolve customer complaints or investigate suspicious activities. We use your e-mail address to confirm your opening of an Avalara account, to send information about important changes to our products and services, and to send notices and other disclosures required by law. Generally, users cannot opt out of these communications, but they will be primarily informational in nature rather than promotional. 
@@ -117,9 +117,9 @@ E. Accessing and Changing Your Information
 You can review the personal information you provided us and make any desired changes to such information, or to the settings for your Avalara account, at any time by logging in to your account on the Avalara Web site and changing your preferences in the Profile page of the "UserCenter" tab. You can also close your account through the Avalara Web site. If you close your Avalara account, we will mark your account in our database as "Closed," but will keep your account information in our database. This is necessary in order to deter fraud, by ensuring that persons who try to commit fraud will not be able to avoid detection simply by closing their account and opening a new account. However, if you close your account, your personally or company identifiable information will not be used by us for any further purposes, nor sold or shared with third parties, except as necessary to prevent fraud and assist law enforcement, or as required by law. 
 
 F. Contacting Us  
-If you have any questions about this privacy statement, Avalara's information practices, or your dealings with Avalara, you can contact us, call 877-780-4848 Monday through Friday between the hours of 8am and 5pm PST, or write us at Avalara, 900 Winslow Way E. #130, Bainbridge Island, WA 98110. 
+If you have any questions about this privacy statement, Avalara's information practices, or your dealings with Avalara, you can contact us, call 877-780-4848 Monday through Friday between the hours of 8am and 5pm PST, or write us at Avalara, 435 Ericksen Ave. #250, Bainbridge Island, WA 98110. 
 
-[Back to top](http://avalara.com/index.cfm/page/privacypolicy#top)
+[Back to top](http://www.avalara.com/index.cfm/page/privacypolicy#top)
 
-  | Copyright © 2005 Advantage Solutions, Inc.  All Rights Reserved    
+  | Copyright © 2007 Avalara, Inc.  All Rights Reserved    
 ---|---
