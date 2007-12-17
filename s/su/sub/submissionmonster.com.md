@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the submissionmonster.com privacy policy that was archived on 2007-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070425000826id_/http%3A//www.submissionmonster.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the submissionmonster.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217100317id_/http%3A//www.submissionmonster.com/privacy.html) for the most accurate reproduction.*
 
-# Submission Monster: Free Search Engine Submission and Website Promotion
+# Submission Monster: Professional Search Engine Submission Service
 
 #### Privacy Policy Overview
 
