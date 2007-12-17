@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodyear.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624090532id_/http%3A//www.goodyear.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodyear.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217143555id_/http%3A//www.goodyear.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Goodyear Tire U.S. || Privacy Policy
 
