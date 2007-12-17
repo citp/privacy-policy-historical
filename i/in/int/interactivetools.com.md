@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interactivetools.com privacy policy that was archived on 2007-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070615181859id_/http%3A//www.interactivetools.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interactivetools.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217042726id_/http%3A//www.interactivetools.com/about/privacy.html) for the most accurate reproduction.*
 
 # interactivetools.com - Privacy Policy
 
@@ -28,3 +28,42 @@ We take your privacy very seriously. In order for you to better understand our d
 > Our site uses "cookies" which are small pieces of information that your browser stores on your computer's hard drive. These cookies allow you to store items in your shopping cart while browsing our web site and store the name and address that you enter on our page. The cookies are also used to identify our customers who are referred to us by one of our partners in order to compensate our partner for the referral. Most browsers automatically accept cookies, but you can usually set your browser to refuse cookies. If you refuse or disable our cookie, you will still be able to order from our web site. We do not make any information collected by our cookies available to third parties. 
 
 |     | 
+
+  
+**"Quite simply, you guys rock!"**
+
+Jan Dunlop  
+internetfiji.com  
+
+
+  
+
+
+* * *
+
+  
+**"After intensive CMS research (and a lot of disappointment), we finally found one of the best pieces of software ever!!! Congratulations to the team at interactivetools.com."**
+
+Rulf Neigenfind  
+fahrenheit.fr  
+
+
+  
+
+
+* * *
+
+  
+**"Simply the finest Perl product I've ever had the pleasure of working with."**
+
+Chris Schear  
+pawsonline.org  
+
+
+  
+
+
+* * *
+
+  
+
