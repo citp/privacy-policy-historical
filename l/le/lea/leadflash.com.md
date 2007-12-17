@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leadflash.com privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618182311id_/http%3A//leadflash.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leadflash.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217034417id_/http%3A//www.leadflash.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
