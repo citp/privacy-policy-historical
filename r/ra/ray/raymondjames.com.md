@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the raymondjames.com privacy policy that was archived on 2007-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070605055727id_/http%3A//www.raymondjames.com/privacy_cl.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raymondjames.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217230001id_/http%3A//www.raymondjames.com/privacy_cl.htm) for the most accurate reproduction.*
 
 # Raymond James Financial | Privacy notice for Raymond James Clients, including Heritage Family of Funds Customers
 
@@ -12,7 +12,7 @@ We are providing you this information as required by Regulation S-P adopted by t
 
 ### Information about you that we collect
 
-We collect nonpublic personal information about you, including but not limited to, name, address, social security number and financial information from the following sources: information we receive from you on applications or other forms or through our Web site; information we receive about your transactions with us, our affiliates or others; and information we may receive from a consumer reporting agency.
+We collect nonpublic personal information about you, including but not limited to, name, address, social security number and financial information from the following sources: information we receive from you on applications or other forms or through our website; information we receive about your transactions with us, our affiliates or others; and information we may receive from a consumer reporting agency.
 
 ### Our use of information about you
 
@@ -20,6 +20,6 @@ As permitted by law, we may share information about you with other companies in 
 
 ### How we protect your confidential information
 
-Raymond James has policies that restrict access to nonpublic personal information about you to those employees, associates, and others who have need for that information to help us run our business, manage your accounts, market or provide investment alternatives or services to you, or to employees, associates, and others who assist those who help us run our business, manage your accounts, or market or provide investment alternatives or services to you. Additionally, Wwe maintain physical, electronic, contractual, and procedural safeguards to protect your nonpublic personal information.
+Raymond James has policies that restrict access to nonpublic personal information about you to those employees, associates, and others who have need for that information to help us run our business, manage your accounts, market or provide investment alternatives or services to you, or to employees, associates, and others who assist those who help us run our business, manage your accounts, or market or provide investment alternatives or services to you. Additionally, we maintain physical, electronic, contractual, and procedural safeguards to protect your nonpublic personal information.
 
 | 
