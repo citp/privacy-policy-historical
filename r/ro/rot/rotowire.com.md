@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rotowire.com privacy policy that was archived on 2007-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070206132721id_/http%3A//www.rotowire.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rotowire.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217125800id_/http%3A//www.rotowire.com/privacy.htm) for the most accurate reproduction.*
 
 # RotoWire Privacy Policy
 
@@ -19,6 +19,10 @@ You may visit and use many features on the Roto Sports, Inc. Network without com
 _Credit Card Information_
 
 If you purchase a subscription to RotoWire.com or any products on the site, you will additionally need to provide us with your credit card and shipping information, or you have the right to send us a check. 
+
+_Internet Cookies_
+
+We use cookies to collect anonymous traffic data. 
 
 **HOW DOES ROTO SPORTS, INC. USE THE INFORMATION IT COLLECTS?**
 
@@ -50,9 +54,8 @@ Send a letter to:
 
 Roto Sports, Inc.  
 Attn: Customer Service  
-9343 Culver Blvd.  
-Culver City, CA  
-90232 
+210 N. Bassett St. Suite #230  
+Madison, WI 53703
 
 **HOW DO YOU COLLECT AND USE INFORMATION FROM CHILDREN UNDER 13 YEARS OF AGE??**
 
