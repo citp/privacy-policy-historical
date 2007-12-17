@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netmechanic.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630192537id_/http%3A//www.netmechanic.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netmechanic.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217054514id_/http%3A//www.netmechanic.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Statement for www.netmechanic.com
 
@@ -57,7 +57,7 @@ Our security and privacy policies are periodically reviewed and enhanced as nece
 NetMechanic provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor. 
 
   1. Additionally, this site gives users the following options for removing their information from our database or to not receive future communications or to no longer receive our services. You can send email to [ privacy@netmechanic.com](mailto:privacy@netmechanic.com)
-  2. You can visit the following URL: [http://www.netmechanic.com/remove_mail.htm](https://web.archive.org/web/20070630192537id_/http%3A//www.netmechanic.com/remove_mail.shtml)
+  2. You can visit the following URL: [http://www.netmechanic.com/remove_mail.htm](https://web.archive.org/web/20071217054514id_/http%3A//www.netmechanic.com/remove_mail.shtml)
   3. If you participate in the Free Monthly Tune Up, you may opt-out by visiting this URL: [ http://r.netmechanic.com/fm/deleteURL.cgi](http://r.netmechanic.com/fm/deleteURL.cgi)
   4. You can send mail to the following postal address:   
 NetMechanic, Inc., a wholly owned subsidiary of Keynote Systems, Inc.   
@@ -72,7 +72,7 @@ Plano, TX 75074
 NetMechanic gives users the following options for modifying information previously provided. 
 
   1. You can send email [ privacy@netmechanic.com](mailto:privacy@netmechanic.com)
-  2. You can visit the following URL:  [http://www.netmechanic.com/login.htm](https://web.archive.org/web/20070630192537id_/http%3A//www.netmechanic.com/login.shtml)
+  2. You can visit the following URL:  [http://www.netmechanic.com/login.htm](https://web.archive.org/web/20071217054514id_/http%3A//www.netmechanic.com/login.shtml)
   3. Subscription services can make changes to their accounts on-line by logging in and selecting the "Change Account Information" link. 
   4. You can send mail to the following postal address:   
 NetMechanic, Inc, a wholly owned subsidiary of Keynote Systems, Inc.   
