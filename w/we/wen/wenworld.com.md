@@ -1,117 +1,36 @@
-> *The following text is extracted and transformed from the wenworld.com privacy policy that was archived on 2001-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010404233450id_/http%3A//www.wenworld.com/Contactus/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wenworld.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217223937id_/http%3A//wenatcheeworld.com/article/20070314/SANDR/70314001/1001) for the most accurate reproduction.*
 
-# Wenatchee World Online
+# The Wenatchee World Online
 
-[](http://www.wenworld.com/home.html)  
-
-
-|  |  [](http://www.wenworld.com/webcam/webcam.html)
-
+wenatcheeworld.com Privacy Policy  
+---  
+Updated March 2007  
   
-| 
+Wenatcheeworld.com is committed to the privacy of individuals on the Internet. The policy of wenatcheeworld.com and World Publishing Company in regards to information gathered through our Web sites is is as follows:
 
-  
-The Wenatchee World, publisher of The World Online, has a firm commitment to privacy. We take your privacy concerns seriously and want to make every effort to address those concerns. That is why we have adopted the following policy on information gathering and disclosure.
+Wenatcheeworld.com collects identifying information about individuals only when those individuals provide that information on a voluntary basis, by registering for comments, contests, e-mail notifications and other like services.
 
-* * *
+It is the policy of wenatcheeworld.com that such information will not be made available to unrelated third parties. We will never relate specific identifying information about any of our online readers. We may let advertisers know how our online readers use our site and provide them with information about our online readers in the aggregate.
 
-**Your Personal Information**
+We will review our statistics occasionally, and go over server logs and IP addresses to learn more about our audience, but, again, we will not relate that information to third parties except in aggregate.
 
-> From time to time, we will ask for information that personally identifies you, as in our user surveys or registration for The Wenatchee World services such as e-mail, forums, or promotions. We use this information to operate The Wenatchee World's services, provide you with the highest quality services and offer you opportunities we think will be of interest.
-> 
-> We will not disclose any personal information without your advance permission except when we believe the law requires us to do so or the disclosure is necessary to protect the rights or property of The Wenatchee World, or as explained below or in our User Agreement.
-> 
-> In order to describe our services to prospective partners, advertisers and others, we may disclose user information but only in a form that does not identify individual users. For example, we might disclose that a certain percentage of our users are male or within a certain age range.
-> 
-> Occasionally, we may disclose personal information in other circumstances, but we will only do this if we have explained at the time we collect the information the purpose for which it will be disclosed.
+Some activity on wenatcheeworld.com, such as the individual posting identifying information in comments, may be used by third parties without our permission or endorsement. That is beyond our control. We also have no control over Web sites not operated by World Publishing Company that may contain hyperlinks to wenatcheeworld.com or that wenatcheeworld.com links to, via our banner advertisers and news links for additional information.
+
+Wenatcheeworld.com uses 'cookies' in circumstances that require session data or require user verification. Cookies were designed to help a Web site recognize a user's browser as a previous visitor and thus save and remember any preferences that may have been set while the user was browsing the site. A cookie cannot retrieve any other data from your hard drive, pass on a computer virus, or capture your e-mail address. We use cookies to enhance your experience with wenatcheeworld.com.
+
+If you want to remove your personal information from our site/sites, please use the unsubscribe or delete registration alternatives on our site or send an e-mail detailing your request to [webmaster@wenatcheeworld.com](mailto:webmaster@wenatcheeworld.com).
+
+We reserve the right to change this policy at any time. The date of any revision will be noted by the date at the top of the page.
 
   
 
 
-* * *
+CLASSIFIED TOP JOBS
 
- **Children's Privacy**
+Extension Coordinator (two positions) WSU Colville Reservation- Ferry County Extension, Nespelem, WA. Administrative Professional, 0.6 FTE, Temporary, 12 month. Required: Bachelor’s degree in a relevant extension program discipline and two years of related program experience. Any combination of relevant education and experience may be substituted for the educational requirement on a year-for-year basis. Preferred: Demonstrated professional training in nutrition, child development, social work, or other related fields. Demonstrated ability to use effective communication skills both orally and in writing to maintain professionalism, diplomacy, tact, and sensitivity under all circumstances. Demonstrated ability to work independently as well as in a team setting. Demonstrated ability to recognize, understand, and respect Native American custom, culture, and values. Demonstrated ability to relate to and collaborate with a wide range of people from varied social and economic levels, ages, races, ethnic backgrounds, as well as in rural, suburban, and urban settings. Screening of application materials begins January 4, 2008. For position description listing all qualifications and application process, visit: http://www.hrs.wsu.edu/ employment/fapvacancies. aspx (Search #4928) Contact Lisa Clyde, EEO Coordinator, (509)335-2822 [eeocoord@wsu.edu](mailto:eeocoord@wsu.edu?subject=Extension%20Coordinator%20\(two%20positions) EEO/AA/ADA 
 
-> The Wenatchee World is particularly concerned with providing a safe online environment for children. The Wenatchee World strongly recommends parental supervision when a child uses the Internet, and particularly when a child enters a forum or uses e-mail.
-> 
-> We also encourage parents to instruct their children not to give out personal information in these areas. A number of commercial products are available to help limit your child's access to material on the Internet that you may consider harmful or inappropriate.
-> 
-> Other services and information providers accessible through The World Online have their own policies about children's privacy and you should contact them directly for their policies.
+Dental Customer Care Assistant Columbia Valley Community Health's ( www.cvch.org ) Dental Clinic in Wenatchee is seeking a Bilingual Dental Customer Care Assistant to be responsible for the initiation of client visits, provide customer service, and be responsible for the performance of various office duties: including patient appointments, collection, and billing. REQUIRED: Bilingual English/Spanish, High School Diploma or GED, 2 years experience in medical/business field or equivalent training, basic computer skills, adequate typing, filing, and 10-key calculator skills. Full-time, excellent benefits. Submit applications/resumes to: CVCH Sylvia Martinez RE: Dental CC 600 Orondo Ave., Suite #1 Wenatchee, WA 98801 [smartinez@cvch.org](mailto:smartinez@cvch.org?subject=Dental%20Customer%20Care%20Assistant) CVCH is an EOE 
 
-* * *
+A large Fruit Grower Processor is currently recruiting for a Grower Accountant at our Wenatchee, WA location. The Grower Accountant is responsible for accurate and timely capture of pool accounting information as it relates to pool advances and closings. This includes pool and grade reporting, monthly and year-end journal entries, reconciliations and accruals. Qualifications include I year experience, BA/BS in Accounting. Compensation DOE. To apply, please send resume to: Human Resources Box 15121 c/o The Wenatchee World P.O. Box 1511 Wenatchee, WA 98807 Application deadline is December 21, 2007. EOE AA 
 
-**Electronic Commerce**
-
-> The Wenatchee World may host online stores that sell a variety of goods and services. These stores may collect information from you such as your name, credit card number and other contact information. The Wenatchee World does not collect, use or disclose this information nor does it own or control the stores or have responsibility for transactions made by those merchants. If you would like to know more about the information collected when you participate in electronic commerce on or through this site, please contact the store merchants directly.
-
-* * *
-
-**Cookies**
-
-> A "cookie" is a small data text file that is placed in your browser and allows The World Online to recognize you each time you visit the site. Cookies themselves do not contain any personal information. Instead, they allow us to see which parts of our site you have used so that we can better serve you when you return to our site. Cookies may be used to provide you with information and special opportunities tailored to your interests.
-
-* * *
-
-**Direct Mailings and "Opting Out"**
-
-> We may send you information about various products and services. If you don't want to receive this information, you can "opt out" by sending us an e-mail to [webmaster@wenworld.com](mailto:webmaster@wenworld.com) and requesting that you not receive any of these offers.
-
-* * *
-
- **You Can Change Your Private Information at any Time**
-
-> We may store information you provide to The Wenatchee World for an indefinite time. However, please feel free to change, update or delete this information at any time by sending an e-mail [webmaster@wenworld.com](mailto:webmaster@wenworld.com).
-
-* * *
-
-**Remember the risks whenever you use the Internet**
-
-> You should know that when you voluntarily disclose personal information on The World Online (for example, in forums), that information can be collected and used by others and may result in unsolicited messages from other people. While we do our best to protect your personal information, we cannot guarantee the security of any information that you transmit to The World Online and you are solely responsible for maintaining the secrecy of any passwords or other account information. In addition, our partners and other Internet sites or services that may be accessible through The World Online have separate data and privacy practices independent of us, and therefore we disclaim any responsibility or liability for their policies or actions. Please contact those vendors and others directly if you have any questions about their privacy policies.
-
-* * *
-
- **Tell Us How We're Doing**
-
-> If you have any questions or comments about our policies, please contact us by sending an e-mail to [webmaster@wenworld.com](mailto:webmaster@wenworld.com).
-
-|   |   |   | 
-
-**Wenatchee World online forms**  
-[Subscribe to The World](https://web.archive.org/Contactus/subscribe2.html)  
-[Place a classified](https://web.archive.org/Contactus/classform.html)  
-[Letter to the editor](https://web.archive.org/Contactus/safetyvalve.html)  
-[Engagement](https://web.archive.org/Contactus/engagement.html)  
-[Wedding](https://web.archive.org/Contactus/wedding.html)  
-[Anniversary](https://web.archive.org/Contactus/anniversary.html)  
-[Business news](https://web.archive.org/Contactus/biznews.html)  
-[Baseball](https://web.archive.org/Contactus/baseball.html)  
-[Bowling](https://web.archive.org/Contactus/bowling.html)  
-
-
-* * *
-
-[**Feedback form**](https://web.archive.org/Contactus/comment.html)  
-
-
-* * *
-
-**[How to find us](https://web.archive.org/Contactus/findus.html)**  
-
-
-* * *
-
-**[Online banner  
-ad rates](https://web.archive.org/Contactus/adrates.html)**
-
-[](http://206.29.196.122/wenworld/usbin/userpriv.usm?userlogin=t)  
-  
----|---|---|---|---  
-  
-
-
-* * *
-
-[Home](https://web.archive.org/Home.html) | [Classifieds](https://web.archive.org/classindex/classifieds.html) | [Obituaries](https://web.archive.org/obits/index.html) | [Weather](http://www.rainorshine.com/wenatchee/index.ssf?$$ZIPCITY=98801) | [Local news](https://web.archive.org/news/newsindex.html) | [Local sports](https://web.archive.org/news/sportsindex.html) | [Build your own website](http://206.29.196.122/wenworld/usbin/userpriv.usm?userlogin=t) | [Movies](https://web.archive.org/arts/movies/index.html) | [WebCams](https://web.archive.org/WebCam/WebCam.html) | [Kid's Stuff](http://hbz.wenworld.com/) | [Contact Us](https://web.archive.org/contactus/staff.html) | [Homefinder](https://web.archive.org/homefinder/hf.html) © [Copyright](https://web.archive.org/Contactus/copyright.html) 2001 The Wenatchee World  
-P.O. Box 1511, Wenatchee, WA 98807-1511  
-[User agreement](https://web.archive.org/Contactus/user.html) | [Privacy policy](https://web.archive.org/Contactus/privacy.html) | [Advertising](https://web.archive.org/Contactus/advertising.html)  
-Send [comments](https://web.archive.org/contactus/Comment.html) or questions about wenworld.com to the [webmaster](mailto:webmaster@wenworld.com)
+[**MORE CLASSIFIED TOP JOBS**](https://web.archive.org/apps/pbcs.dll/cce?Module=10&Category=Classifieds&class=10020&type=18474)
