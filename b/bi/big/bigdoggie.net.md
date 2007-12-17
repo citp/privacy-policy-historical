@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigdoggie.net privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205225458id_/http%3A//www.bigdoggie.net/support/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigdoggie.net privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217041926id_/http%3A//www.bigdoggie.net/support/privacy.html) for the most accurate reproduction.*
 
 # BigDoggie.net - Escort Reviews and Listings
 
