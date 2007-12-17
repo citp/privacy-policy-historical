@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rvnetwork.com privacy policy that was archived on 2003-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031216181359id_/http%3A//escapees.infopop.cc/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rvnetwork.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217094706id_/http%3A//escapees.infopop.cc/privacy.htm) for the most accurate reproduction.*
 
 # Generally, personal information is not collected from visitors to the Escapees Discussion Forum website
 
