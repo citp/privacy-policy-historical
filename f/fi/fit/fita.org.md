@@ -1,31 +1,27 @@
-> *The following text is extracted and transformed from the fita.org privacy policy that was archived on 2007-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070405053032id_/http%3A//fita.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fita.org privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217204715id_/http%3A//fita.org/privacy.html) for the most accurate reproduction.*
 
 # Export Import, International Business and Trade Leads – FITA World Trade Leads
 
 Privacy Policy Statement  
 
 
-This is the web site of **The Federation of International Trade Associations, Inc.**
+This web site is owned by **Export Entreprises SA**
 
 Our postal address is  
-**1900 Campus Commons Drive, Suite 340**  
-**Reston, VA 20191**
+**154 Bd Haussmann  
+75008 Paris, France**
 
-We can be reached via e-mail at [info@fita.org](mailto:info@fita.org) or you can reach us by telephone at 703-620-1588
+We can be reached via e-mail at [info@fita.org](mailto:info@fita.org) or you can reach us by telephone at 718-871-0369. 
 
-For each visitor to our Web page, our Web server automatically recognizes the e-mail address of the visitor as it was registered.
+We collect the e-mail addresses of those who register for subscriptions to "Really Useful Sites for International Trade Professionals." newsletter. We use those email addresses to also send occasional promotional messages from advertisers who support the FITA website. 
 
-We collect the e-mail addresses of those who communicate with us via e-mail as well as aggregate information on what pages consumers access or visit and information volunteered by the consumer, such as survey information and/or site registrations.
+All subscribers have the option to opt out of receiving these promotional messages at any time. They may also opt out of receiving the newsletter at any time 
 
-The information we collect is used to improve the content of our Web page, used to notify consumers about updates to our Web site, not shared with other organizations for commercial purposes.
-
-With respect to cookies: We set cookies so that only those who subscribe to [Really Useful Sites for International Trade Professionals](https://web.archive.org/web/20070405053032id_/http%3A//fita.org/useful/index.html) can access the site.
+The email addresses are not shared with other organizations.
 
 If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.
 
-If you supply us with your postal address on-line you will only receive the information for which you provided us your address.
-
-Upon request we provide site visitors with access to all information [including proprietary information] that we maintain about them, unique identifier information (e.g., customer number or password) that we maintain about them, communications that the consumer/visitor has directed to our site (e.g., e-mails, customer inquiries), contact information (e.g., name, address, phone number) that we maintain about them.
+Upon request we provide site visitors with access to all information that we maintain about them, unique identifier information (e.g., customer number or password) that we maintain about them, communications that the consumer/visitor has directed to our site (e.g., e-mails, customer inquiries), contact information (e.g., name, address, phone number) that we maintain about them.
 
 Consumers can access this information by e-mail us at the above address.
 
