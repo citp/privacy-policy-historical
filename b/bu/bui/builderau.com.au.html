@@ -1,12 +1,11 @@
-<!--The following is the downloaded HTML source of the builderau.com.au privacy policy that was archived on 2007-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070623045151id_/http%3A//www.builderau.com.au/services/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the builderau.com.au privacy policy that was archived on 2007-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071217215719id_/http%3A//www.builderau.com.au/services/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Privacy Policy - Builder AU</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 
 <meta name="Description" content="Stay tuned with our IT news, articles, and how-to guides by developers for developers.">
-<meta http-equiv="refresh" content="1800">
 <link rel="stylesheet" href="/css/x/m.htm" type="text/css">
 <link rel="stylesheet" href="/css/x/mel.htm" type="text/css">
 <link rel="stylesheet" href="/css/x/community.htm" type="text/css">
@@ -21,14 +20,43 @@ var globalRefresh = '';
 </script>
 <script type="text/javascript" src="/js/bajlogin.js"></script>
 <link rel="shortcut icon" href="http://cgi2.builderau.com.au/builder_favicon.ico">
-<link rel="alternate" type="application/rss+xml" title="Builder AU latest articles" href="http://www.builderau.com.au/feeds/news.htm">
+<link rel="alternate" type="application/rss+xml" title="Builder AU latest articles" href="http://www.builderau.com.au/feeds/latest.htm">
 <!-- <script type="text/javascript" src="/js/bajlogin.js"></script> //-->
 <script type="text/javascript" src="/js/functions.htm"></script>
 <script type="text/javascript" src="/js/talkback_post.js"></script>
 <script type="text/javascript" src="/js/omn.htm"></script>
 </head>
 <body id="body">
-<!-- for lightbox effect -->
+
+
+<script type="text/javascript">
+function createCookie(name,value,days) {
+	if (days) {
+		var date = new Date();
+		date.setTime(date.getTime()+(days*24*60*60*1000));
+		var expires = "; expires="+date.toGMTString();
+	}
+	else var expires = "";
+	document.cookie = name+"="+value+expires+"; path=/";
+}
+function readCookie(name) {
+	var nameEQ = name + "=";
+	var ca = document.cookie.split(';');
+	for(var i=0;i < ca.length;i++) {
+		var c = ca[i];
+		while (c.charAt(0)==' ') c = c.substring(1,c.length);
+		if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+	}
+	return null;
+}
+function closead() {
+	document.getElementById("hoverad").style.display = "none";
+	createCookie('builder_interstitial_101022','2',14);
+}
+function closeinter() {
+	createCookie('builder_interstitial_101022','2',14);
+}
+</script><!-- for lightbox effect -->
 <div id="TB_overlay" onclick="javascript:TB_toggle();"></div>
 <div id="TB_window"></div>
 <!-- //for lightbox effect -->
@@ -39,11 +67,18 @@ var globalRefresh = '';
 
 <!-- leaderboard -->
 <div id="leaderboard">
-<iframe class="ad" height="90" style="width:728px;" id="lbiframe" src="/ads/lbframe.htm?ad=YTo5OntzOjc6IkFEX05BTUUiO3M6MjU6InNlcnZpY2VzL3ByaXZhY3kvaG9tZXBhZ2UiO3M6ODoiYWxpZ25fYWQiO047czo4OiJLRVlXT1JEUyI7TjtzOjk6IlBBR0VfVFlQRSI7czo1OiJpbmRleCI7czo1OiJxdWVyeSI7TjtzOjEyOiJDSEFOTkVMX1RZUEUiO047czoxMToiU09GVFdBUkVfSUQiO047czoxMDoiRUxFTUVOVF9JRCI7TjtzOjc6IkFSVF9PSUQiO047fQ==" frameborder="0" marginwidth="0" marginheight="0" scrolling="no">
-</iframe>
-</div>  </div>
+<!-- --><div align="center">
+<script language="JavaScript1.1" type="text/javascript" src="http://ad.au.doubleclick.net/adj/builderau.com.au/services/privacy/homepage;sect=services;ssect=privacy;sect3=homepage;sect4=;sid=;kw=;sz=728x90;dcopt=ist;tile=2;ord=89985752?">
+</script>
+<noscript>
+<a href="http://ad.au.doubleclick.net/jump/builderau.com.au/services/privacy/homepage;sect=services;ssect=privacy;sect3=homepage;sect4=;sid=;kw=;sz=728x90;dcopt=ist;tile=2;ord=89985752?">
+<img src="http://ad.au.doubleclick.net/ad/builderau.com.au/services/privacy/homepage;sect=services;ssect=privacy;sect3=homepage;sect4=;sid=;kw=;sz=728x90;dcopt=ist;tile=2;ord=89985752?" width="728" height="90" alt="Advertisement" border="0" /></a>
+</noscript>
+</div>
+<!-- //leaderboard --></div>  </div>
   <ul id="tabs" class="clearfix">
     <li><a href="/news/" title="">News</a></li>
+    <li><a href="/video/" title="">Videos</a></li>
     <li id="program" onmouseover="javascript:switchSub(this)" onmouseout="javascript:switchSub(this)"><a href="/program/" title="">Program</a>
       <ul>
         <li id="app-development" onmouseover="javascript:switchSub(this)" onmouseout="javascript:switchSub(this)"><a href="/program/appdev/" title="">App Development</a>
@@ -104,6 +139,7 @@ var globalRefresh = '';
     <li id="blogs" onmouseover="javascript:switchSub(this)" onmouseout="javascript:switchSub(this)"><a href="/blogs/" title="">Blogs</a>
       <ul>
         <li><a href="/blogs/betaliving/" title="">Beta Living</a></li>
+        <li><a href="/blogs/byteclub/" title="">Byte Club</a></li>
         <li><a href="/blogs/codemonkeybusiness/" title="">Code Monkey Business</a></li>
         <li><a href="/blogs/nouveauricheinternet/" title="">Nouveau Riche Internet</a></li>
         <li><a href="/blogs/syslog/" title="">Syslog</a></li>
@@ -115,7 +151,7 @@ var globalRefresh = '';
     <li class="l"><a href="/membership/" title="">Membership</a></li>
   </ul>
 	<div class="clearfix" style="text-align:center">
-		<div id="links"><span class="rss"><a href="/feeds/">RSS</a></span>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/usergroup/">User Groups</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/services/sitemap/">Site Map</a></div>
+		<div id="links"><span class="rss"><a href="/feeds/">RSS</a></span>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/labs/">Labs</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/usergroup/">User Groups</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/services/sitemap/">Site Map</a></div>
 		<form id="search" action="/services/search/" method="get">
 			<fieldset>
 			<legend>Search Builder AU</legend>
@@ -190,27 +226,27 @@ var globalRefresh = '';
                       </ul>        </div>
       </div>
        <div id="col2-bottom">
-                <div class="box">	<div id="members-snapshot">
-		<div id="members-avatar"><a href=""><img src="/i/x/c/avatar-default.jpg" alt="" title="" width="48" height="48" class="avatar"></a></div>
-		<div id="members-details" style="padding-right:0">
-			<form action="" method="post" id="rhc-member-login" onsubmit="subRMFLogin(this.form); return false;">
-				<h2>Log in</h2>
-				<fieldset>
-				<label for="rhc-email" class="label-style"><span>E-mail</span></label>
-				<input type="text" id="rhc-email" name="EMAIL" value="">
-				<br>
-				<label for="rhc-password" class="label-style"><span>Password</span></label>
-				<input type="password" id="rhc-password" name="PASSWORD">
-				<div id="rhc-remember">
-					<button id="login_button" type="submit" name="submit" onclick="subRMFLogin(this.form); return false;">Login</button>
-					<input type="checkbox" id="rhc-remember-login" name="REMEMBER_LOGIN" value="on">
-					<label for="rhc-remember-login">Remember me</label>
-				</div>
-				</fieldset>
-			</form>
-			<p style="color:#999"><a href="/membership/register.htm">Sign up</a> | <a href="/membership/forgot.htm">Forgot your password?</a></p>
-		</div>
-	</div>
+                <div class="box">    <div id="members-snapshot">
+        <div id="members-avatar"><a href=""><img src="/i/x/c/avatar-default.jpg" alt="" title="" width="48" height="48" class="avatar"></a></div>
+        <div id="members-details" style="padding-right:0">
+            <form action="" method="post" id="rhc-member-login" onsubmit="subRMFLogin(this.form); return false;">
+                <h2>Log in</h2>
+                <fieldset>
+                <label for="rhc-email" class="label-style"><span>E-mail</span></label>
+                <input type="text" id="rhc-email" name="EMAIL" value="">
+                <br>
+                <label for="rhc-password" class="label-style"><span>Password</span></label>
+                <input type="password" id="rhc-password" name="PASSWORD">
+                <div id="rhc-remember">
+                    <button id="login_button" type="submit" name="submit" onclick="subRMFLogin(this.form); return false;">Login</button>
+                    <input type="checkbox" id="rhc-remember-login" name="REMEMBER_LOGIN" value="on">
+                    <label for="rhc-remember-login" title="Remember my login details">Remember me</label>
+                </div>
+                </fieldset>
+            </form>
+            <p style="color:#999"><a href="/membership/register.htm" title="Sign up for your Builder AU account today!">Sign up</a> | <a href="/membership/forgot.htm" title="Forgot your password?">Forgot your password?</a></p>
+        </div>
+    </div>
 </div><!-- //membership log in -->        <div class="box">
           <div class="box-border">
             <ul id="news_box" class="box-tabs clearfix">
@@ -219,36 +255,36 @@ var globalRefresh = '';
               <li id="news_tab2" onclick="switchTabs(2, this.parentNode);"><span class="last-tab">Features</span></li>
             </ul>	
                         <ul id="news_box_content0" class="box-content">
-              <li><a href="/news/soa/PHP_exploit_code_plants_itself_in_GIF/0,339028227,339278850,00.htm">PHP exploit code plants itself in GIF</a> <span class="timestamp">(1 day ago)</span></li>
-              <li><a href="/news/soa/Mystery_surrounds_Microsoft_s_virtualisation_flip_flop/0,339028227,339278896,00.htm">Mystery surrounds Microsoft's virtualisation flip-flop</a> <span class="timestamp">(1 day ago)</span></li>
-              <li><a href="/news/soa/Linux_faster_more_reliable_than_Microsoft_IIS_/0,339028227,339278877,00.htm">Linux faster, more reliable than Microsoft IIS </a> <span class="timestamp">(1 day ago)</span></li>
-              <li><a href="/news/soa/Google_not_taking_aim_at_Microsoft/0,339028227,339278874,00.htm">Google not taking aim at Microsoft</a></li>
-              <li><a href="/news/soa/802_11n_is_now_real_Wi_fi_Alliance/0,339028227,339278879,00.htm">802.11n is now real: Wi-fi Alliance</a></li>
-              <li><a href="/news/soa/US_Homeland_Security_still_infected_with_Trojans_/0,339028227,339278884,00.htm">US Homeland Security still infected with Trojans?</a></li>
-              <li><a href="/news/soa/BEA_joins_Web_2_0_revolution/0,339028227,339278872,00.htm">BEA joins Web 2.0 revolution</a></li>
-              <li><a href="/news/soa/Microsoft_answers_Google_s_call_on_desktop_search/0,339028227,339278843,00.htm">Microsoft answers Google's call on desktop search</a></li>
+              <li><a href="/news/soa/Microsoft_hits_back_at_Opera_antitrust_claims/0,339028227,339284578,00.htm">Microsoft hits back at Opera antitrust claims</a> <span class="timestamp">(22 hours, 27 minutes ago)</span></li>
+              <li><a href="/news/soa/IT_patent_issues_simplified_for_businesses_/0,339028227,339284582,00.htm">IT patent issues simplified for businesses </a> <span class="timestamp">(22 hours, 37 minutes ago)</span></li>
+              <li><a href="/news/soa/Google_working_on_Wikipedia_rival_/0,339028227,339284579,00.htm">Google working on Wikipedia rival </a> <span class="timestamp">(23 hours, 25 minutes ago)</span></li>
+              <li><a href="/news/soa/Microsoft_browser_lock_in_sparks_Opera_rage/0,339028227,339284563,00.htm">Microsoft browser lock in sparks Opera rage</a></li>
+              <li><a href="/news/soa/Brisbane_game_developer_shuts_shop/0,339028227,339284557,00.htm">Brisbane game developer shuts shop</a></li>
+              <li><a href="/news/soa/Light_based_quantum_circuit_does_basic_maths/0,339028227,339284517,00.htm">Light-based quantum circuit does basic maths</a></li>
+              <li><a href="/news/soa/Survey_Developer_metrics_are_too_complicated_/0,339028227,339284556,00.htm">Survey: Developer metrics are too complicated </a></li>
+              <li><a href="/news/soa/IT_managers_blamed_for_making_staff_sick/0,339028227,339284550,00.htm">IT managers blamed for making staff sick</a></li>
 <li class="more"><a href="/archive/0,339028742,100c-1r-0s,00.htm">More »</a></li>
             </ul>
 				            <ul id="news_box_content1" class="box-content" style="display:none">
-	<li><a href="/news/soa/FaceBook_platform_attracts_1_000_developers_a_day/0,339028227,339278661,00.htm">FaceBook platform attracts 1,000 developers a day</a></li>
-		<li><a href="/news/soa/Apple_s_Windows_Safari_3_patches_1_million_users/0,339028227,339278642,00.htm">Apple's Windows Safari: 3 patches, 1 million users</a></li>
-		<li><a href="/news/soa/VMWare_brings_Windows_apps_to_the_Mac/0,339028227,339278611,00.htm">VMWare brings Windows apps to the Mac</a></li>
-		<li><a href="/news/soa/Open_source_Solaris_makes_GPL_3_more_attractive_Linus_Torvalds/0,339028227,339278528,00.htm">Open-source Solaris makes GPL 3 more attractive: Linus Torvalds</a></li>
-		<li><a href="/news/soa/iPhone_success_depends_on_Windows_/0,339028227,339278479,00.htm">iPhone success depends on Windows?</a></li>
-		<li><a href="/news/soa/Intel_learns_from_insects_to_make_80_cores_practical_/0,339028227,339278614,00.htm">Intel learns from insects to make 80-cores practical </a></li>
-		<li><a href="/news/soa/Sun_CEO_wants_to_join_hands_with_Torvalds_/0,339028227,339278578,00.htm">Sun CEO wants to "join hands" with Torvalds </a></li>
-		<li><a href="/news/soa/Dell_pressured_to_extend_Ubuntu_PCs_outside_US/0,339028227,339278742,00.htm">Dell pressured to extend Ubuntu PCs outside US</a></li>
-		<li><a href="/strategy/projectmanagement/soa/Five_common_errors_in_requirements_analysis_and_how_to_avoid_them_/0,339028292,339278148,00.htm">Five common errors in requirements analysis (and how to avoid them)</a></li>
-		<li><a href="/program/css/soa/Build_a_better_Web_site_by_understanding_floated_elements_in_CSS/0,339028392,339278136,00.htm">Build a better Web site by understanding floated elements in CSS</a></li>
+	<li><a href="/news/soa/Brisbane_game_developer_shuts_shop/0,339028227,339284557,00.htm">Brisbane game developer shuts shop</a></li>
+		<li><a href="/program/sqlserver/soa/Understand_when_to_use_user_defined_functions_in_SQL_Server/0,339028455,339283430,00.htm">Understand when to use user-defined functions in SQL Server</a></li>
+		<li><a href="/news/soa/IT_managers_blamed_for_making_staff_sick/0,339028227,339284550,00.htm">IT managers blamed for making staff sick</a></li>
+		<li><a href="/program/java/soa/Scalability_vs_performance/0,339024620,339284272,00.htm">Scalability vs. performance</a></li>
+		<li><a href="/news/soa/Windows_Server_2008_RC1_available_for_download/0,339028227,339284371,00.htm">Windows Server 2008 RC1 available for download</a></li>
+		<li><a href="/strategy/career/soa/Top_10_reasons_why_the_office_loathes_the_IT_department/0,2000063986,339284466,00.htm">Top 10 reasons why the office loathes the IT department</a></li>
+		<li><a href="/program/linux/soa/Power_Linux_with_pipes_and_redirection/0,339028299,339284445,00.htm">Power Linux with pipes and redirection</a></li>
+		<li><a href="/news/soa/Microsoft_Windows_XP_coming_soon_to_OLPC/0,339028227,339284361,00.htm">Microsoft: Windows XP coming soon to OLPC</a></li>
+		<li><a href="/news/soa/Microsoft_browser_lock_in_sparks_Opera_rage/0,339028227,339284563,00.htm">Microsoft browser lock in sparks Opera rage</a></li>
+		<li><a href="/news/soa/Should_large_firms_skip_Windows_Vista_/0,339028227,339284437,00.htm">Should large firms skip Windows Vista?</a></li>
 	</ul>                        <ul id="news_box_content2" style="display:none" class="box-content">
-              <li><a href="/program/ajax/soa/Starting_with_Spry/0,339028327,339278552,00.htm">Starting with Spry</a></li>
-              <li><a href="/strategy/businessmanagement/soa/Successful_negotiating_requires_perspective_and_flexible_thinking/0,339028271,339278656,00.htm">Successful negotiating requires perspective and flexible thinking</a></li>
-              <li><a href="/program/css/soa/Adapt_to_your_audience_with_CSS_media_types/0,339028392,339278653,00.htm">Adapt to your audience with CSS media types</a></li>
-              <li><a href="/program/dotnet/soa/Post_data_to_other_Web_pages_with_ASP_NET_2_0/0,339028399,339278603,00.htm">Post data to other Web pages with ASP.NET 2.0</a></li>
-              <li><a href="/program/linux/soa/Monitor_remote_systems_with_Nagios/0,339028299,339278601,00.htm">Monitor remote systems with Nagios</a></li>
-              <li><a href="/program/java/soa/Achieve_seamless_socket_programming_in_Java/0,339024620,339278470,00.htm">Achieve seamless socket programming in Java</a></li>
-              <li><a href="/strategy/designprinciples/soa/Prevent_identity_theft_by_avoiding_these_seven_common_mistakes/0,339028846,339278469,00.htm">Prevent identity theft by avoiding these seven common mistakes</a></li>
-              <li><a href="/strategy/projectmanagement/soa/10_tips_for_leading_your_team_to_peak_performance/0,339028292,339278390,00.htm">10 tips for leading your team to peak performance</a></li>
+              <li><a href="/program/linux/soa/Synchronise_computers_with_Unison/0,339028299,339284583,00.htm">Synchronise computers with Unison</a></li>
+              <li><a href="/program/dotnet/soa/Extend_ASP_NET_with_HTTP_modules/0,339028399,339284537,00.htm">Extend ASP.NET with HTTP modules</a></li>
+              <li><a href="/program/oracle/soa/Sending_blob_attachments_in_e_mail_with_utl_smtp/0,339028441,339284536,00.htm">Sending blob attachments in e-mail with utl_smtp</a></li>
+              <li><a href="/program/coldfusion/soa/Why_developers_should_check_out_ColdFusion_8/0,339028378,339284508,00.htm">Why developers should check out ColdFusion 8</a></li>
+              <li><a href="/strategy/projectmanagement/soa/Four_things_you_should_know_about_your_technical_staff/0,339028292,339284507,00.htm">Four things you should know about your technical staff</a></li>
+              <li><a href="/strategy/businessmanagement/soa/Establish_a_patch_management_policy/0,339028271,339284488,00.htm">Establish a patch management policy</a></li>
+              <li><a href="/program/java/soa/Time_to_improve_application_deployment/0,339024620,339284487,00.htm">Time to improve application deployment</a></li>
+              <li><a href="/strategy/career/soa/Top_10_reasons_why_the_office_loathes_the_IT_department/0,2000063986,339284466,00.htm">Top 10 reasons why the office loathes the IT department</a></li>
 <li class="more"><a href="/archive/0,339028742,100c-1r-3s,00.htm">More »</a></li>
             </ul>
           </div>
@@ -260,140 +296,148 @@ var globalRefresh = '';
               <li id="blogs_tab0"><span class="last-tab">Blogs</span></li>
             </ul>
             <div id="blogs_box_content" class="box-content"> 
-              <p class="clearfix"><img src="/i/x/blogs/syslog_52x52.jpg" alt="Staff" width="52" height="52"><a href="/blogs/syslog/viewblogpost.htm?p=339270804"><strong>Builder AU's June Book Giveaway</strong></a><br>
-               Help out in the Builder AU forums and win a book! <a href="/blogs/syslog/viewblogpost.htm?p=339270804">Read&nbsp;more&nbsp;»</a></p>
+              <p class="clearfix"><img src="/i/x/blogs/syslog_52x52.jpg" alt="Staff" width="52" height="52"><a href="/blogs/syslog/viewblogpost.htm?p=339270898"><strong>Google: Don't give up on OpenSocial</strong></a><br>
+               When Google unveiled its OpenSocial developer initiative at the end of October, observers hailed it as the future of the social Web.
+
+But is the search king already too late to the party? <a href="/blogs/syslog/viewblogpost.htm?p=339270898">Read&nbsp;more&nbsp;»</a></p>
               <p class="author">-- posted by Staff</p>
 
-              <p class="clearfix"><img src="/i/x/blogs/chris_duckett_52x52.gif" alt="Chris Duckett" width="52" height="52"><a href="/blogs/betaliving/viewblogpost.htm?p=339270803"><strong>The return to the king</strong></a><br>
-               Does the arrival of Web applications on the desktop warrant the death pronouncement of the desktop or is it just hot air? <a href="/blogs/betaliving/viewblogpost.htm?p=339270803">Read&nbsp;more&nbsp;»</a></p>
-              <p class="author last">-- posted by Chris Duckett</p>
+              <p class="clearfix"><img src="/i/x/blogs/weeklyroundup_52x52.jpg" alt="Staff" width="52" height="52"><a href="/blogs/syslog/viewblogpost.htm?p=339270897"><strong>Discover what you already knew</strong></a><br>
+               Have you ever thought the metrics measured against you as a code monkey to
+be unfair or a waste? Well you could be right. <a href="/blogs/syslog/viewblogpost.htm?p=339270897">Read&nbsp;more&nbsp;»</a></p>
+              <p class="author">-- posted by Staff</p>
+
+              <p class="clearfix"><img src="/i/x/blogs/syslog_52x52.jpg" alt="Staff" width="52" height="52"><a href="/blogs/syslog/viewblogpost.htm?p=339270896"><strong>Windows 7 to get more touchy-feely</strong></a><br>
+               For those wondering when touch features such as those found on the Surface PC or iPhone would make it into mainstream PCs, the answer appears to be "whenever Microsoft gets around to releasing Windows 7." <a href="/blogs/syslog/viewblogpost.htm?p=339270896">Read&nbsp;more&nbsp;»</a></p>
+              <p class="author last">-- posted by Staff</p>
 
 
             </div>
           </div>
         </div>
         <!-- //blogs --> 
-        <style>
-#videoPlayer{
-width:300px;
-height:305px;
-margin:10px 0 0 0;
-}
 
-</style>
-<script type="text/javascript" src="http://www.cnet.com.au/video/js/swfobject.js"></script>
-	<div id="videoPlayer_container">
-		<div id="videoPlayer">You'll need Macromedia Flash Player 8 or above in order to view some of our content. <a href="http://www.adobe.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" target="_blank">Download now!</a></div>
-
-	</div>
-<script type="text/javascript">
-<!--
-var playerId = "videoPlayer";
-var fo = new FlashObject("http://www.cnet.com.au/video/flash/video.swf", "f_videoPlayer", "100%", "100%", "8", "#000000", true);
-fo.addParam("allowScriptAccess", "always");
-fo.addParam("quality", "high");
-//fo.addParam("wmode", "transparent"); 
-fo.addVariable("color", "F89816");
-fo.addVariable("autoPlay", "false");
-fo.addVariable("allowPlaylist", "false");
-fo.addVariable("allowInfo", "false");
-fo.addVariable("directProductName", "IT Fund for kids");
-fo.addVariable("directDek", "");
-fo.addVariable("directLink", "builder/zdnet_it_fund_for_kids_1");
-fo.addVariable("directUrl", "");
-fo.addVariable("directStillFrame", "http://i.cnet.com.au/video/zdnet_it_fund_for_kids_1-320-0.jpg");
-fo.addVariable("directThumbnail", "");
-fo.addVariable("directSubtitles", "");
-fo.addVariable("directAdFile", "");
-fo.addVariable("directAdUrl", "");
-fo.addVariable("directAdButton", "");
-fo.addVariable("playlistXml", "");
-fo.addVariable("tracking", "0");
-fo.write("videoPlayer");
-//-->
-</script>                               <!--AD-->
-<div id="mpu">
-                            <iframe id="mpuiframe" src="/ads/mpuframe.htm?ad=YToxMTp7czo3OiJBRF9OQU1FIjtzOjI1OiJzZXJ2aWNlcy9wcml2YWN5L2hvbWVwYWdlIjtzOjg6ImFsaWduX2FkIjtOO3M6ODoiS0VZV09SRFMiO047czo5OiJQQUdFX1RZUEUiO3M6NToiaW5kZXgiO3M6NToicXVlcnkiO047czoxMjoiQ0hBTk5FTF9UWVBFIjtOO3M6MTA6IkNIQU5ORUxfSUQiO047czoxMToiU09GVFdBUkVfSUQiO047czo5OiJTV19DQVRfSUQiO047czoxMDoiRUxFTUVOVF9JRCI7TjtzOjc6IkFSVF9PSUQiO047fQ==" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" height="250" width="300" onload="document.getElementById('mpuiframe').height = document.getElementById('mpuiframe').contentWindow.document.body.scrollHeight;">
-                            </iframe>
+        <div class="box">
+          <div class="box-border">
+            <ul id="videos_box" class="box-tabs clearfix">
+              <li id="videos_tab0"><span class="last-tab">Videos</span></li>
+            </ul>
+            <div id="videos_box_content" class="box-content"> 
+<div id="video-thumbnails" class="clearfix">
+			<div class="video-thumb clearfix">
+		<div class="video-thumb-image"><a href="/video/soa/Club-Builder-Ep-1-Goodbye-Coonan/0,2000066230,22436112p,00.htm"><img src="http://i.cnet.com.au/vid_img/?image=builder_cb_goodbye_coonan" title="Play the video - Club Builder Ep #1 -- Goodbye Coonan" alt="Club Builder Ep #1 -- Goodbye Coonan" width="88" height="66"></a></div>
+		<h4><a href="/video/soa/Club-Builder-Ep-1-Goodbye-Coonan/0,2000066230,22436112p,00.htm">Club Builder Ep #1 -- Goodbye Coonan</a></h4>
+		<p>2007/12/12 17:16:10</p>
+		<p><a href="/video/soa/Club-Builder-Ep-1-Goodbye-Coonan/0,2000066230,22436112p,00.htm">Play the video</a></p>
+		</div>	
+			<div class="video-thumb clearfix">
+		<div class="video-thumb-image"><a href="/video/soa/Commodore-64-s-silver-anniversary/0,2000066230,22436140p,00.htm"><img src="http://i.cnet.com.au/vid_img/?image=7n121107_Commodore64" title="Play the video - Commodore 64's silver anniversary" alt="Commodore 64's silver anniversary" width="88" height="66"></a></div>
+		<h4><a href="/video/soa/Commodore-64-s-silver-anniversary/0,2000066230,22436140p,00.htm">Commodore 64's silver anniversary</a></h4>
+		<p>2007/12/13 11:07:23</p>
+		<p><a href="/video/soa/Commodore-64-s-silver-anniversary/0,2000066230,22436140p,00.htm">Play the video</a></p>
+		</div>	
+			<div class="video-thumb clearfix">
+		<div class="video-thumb-image"><a href="/video/soa/Club-Builder-Xmas-Hamper/0,2000066230,22435968p,00.htm"><img src="http://i.cnet.com.au/vid_img/?image=builder_cb_xmas_hamper" title="Play the video - Club Builder Xmas Hamper" alt="Club Builder Xmas Hamper" width="88" height="66"></a></div>
+		<h4><a href="/video/soa/Club-Builder-Xmas-Hamper/0,2000066230,22435968p,00.htm">Club Builder Xmas Hamper</a></h4>
+		<p>2007/12/10 18:34:39</p>
+		<p><a href="/video/soa/Club-Builder-Xmas-Hamper/0,2000066230,22435968p,00.htm">Play the video</a></p>
+		</div>	
+		
+		<p class="more"><a href="/video/" title="Browse the latest videos">More videos &gt;&gt;</a></p>
 </div>
-                            <!--/AD-->        <!-- //mpu -->
+            </div>
+          </div>
+        </div>
+        <!-- //videos --> 
+                               <!--AD-->
+<div id="mpu">
+<!-- --><!--AD-->
+<div>
+<!-- Messaging Plus Begin -->
+<script language="JavaScript1.1" type="text/javascript" src="http://ad.au.doubleclick.net/adj/builderau.com.au/services/privacy/homepage;sect=services;ssect=privacy;sect3=homepage;sect4=;sid=c-r-s;kw=;sz=300x250,300x600;tile=3;ord=89985752?">
+</script>
+<noscript>
+<a href="http://ad.au.doubleclick.net/jump/builderau.com.au/services/privacy/homepage;sect=services;ssect=privacy;sect3=homepage;sect4=;sid=c-r-s;kw=;sz=300x250,300x600;tile=3;ord=89985752?">
+<img src="http://ad.au.doubleclick.net/ad/builderau.com.au/services/privacy/homepage;sect=services;ssect=privacy;sect3=homepage;sect4=;sid=c-r-s;kw=;sz=300x250,300x600;tile=3;ord=89985752?" width="300" height="600" alt="Advertisement" border="0" /></a>
+</noscript>
+<!-- Messaging Plus End -->
+</div>
+<!--/AD--></div>
+                          <!--/AD-->        <!-- //mpu -->
                         <div class="box">
           <div class="box-border">
             <ul id="wordsoup_box" class="box-tabs clearfix">
               <li id="wordsoup_tab0"><span class="last-tab">Most Popular Tags</span></li>
             </ul>
             <div id="wordsoup_box_content" class="box-content"> 
-<a style="font-size:14px;margin-right:10px;color:#f8a11b;white-space:nowrap;" href="/tags/0,339028020,4000101435o,00.htm">.net</a> 
-<a style="font-size:14px;margin-right:10px;color:#f8a11b;white-space:nowrap;" href="/tags/0,339028020,220021492o,00.htm">adobe</a> 
-<a style="font-size:13px;margin-right:10px;color:#f7c77e;white-space:nowrap;" href="/tags/0,339028020,1230063760o,00.htm">ajax</a> 
-<a style="font-size:15px;margin-right:10px;color:#f8a11b;white-space:nowrap;" href="/tags/0,339028020,220021551o,00.htm">apple</a> 
-<a style="font-size:14px;margin-right:10px;color:#f8a11b;white-space:nowrap;" href="/tags/0,339028020,220021673o,00.htm">browser</a> 
-<a style="font-size:13px;margin-right:10px;color:#f7c77e;white-space:nowrap;" href="/tags/0,339028020,4000090309o,00.htm">collaboration</a> 
-<a style="font-size:13px;margin-right:10px;color:#f7c77e;white-space:nowrap;" href="/tags/0,339028020,220076815o,00.htm">dell</a> 
-<a style="font-size:13px;margin-right:10px;color:#f7c77e;white-space:nowrap;" href="/tags/0,339028020,220022609o,00.htm">developer</a> 
-<a style="font-size:13px;margin-right:10px;color:#f7c77e;white-space:nowrap;" href="/tags/0,339028020,220021978o,00.htm">e-mail</a> 
-<a style="font-size:13px;margin-right:10px;color:#f7c77e;white-space:nowrap;" href="/tags/0,339028020,240002191o,00.htm">firefox</a> 
-<a style="font-size:14px;margin-right:10px;color:#f8a11b;white-space:nowrap;" href="/tags/0,339028020,220073436o,00.htm">flash</a> 
-<a style="font-size:16px;margin-right:10px;color:#f8a11b;white-space:nowrap;" href="/tags/0,339028020,220072902o,00.htm">google</a> 
-<a style="font-size:14px;margin-right:10px;color:#f8a11b;white-space:nowrap;" href="/tags/0,339028020,4000095792o,00.htm">gpl</a> 
-<a style="font-size:14px;margin-right:10px;color:#f8a11b;white-space:nowrap;" href="/tags/0,339028020,220078357o,00.htm">ibm</a> 
-<a style="font-size:14px;margin-right:10px;color:#f8a11b;white-space:nowrap;" href="/tags/0,339028020,220022999o,00.htm">intel</a> 
-<a style="font-size:13px;margin-right:10px;color:#f7c77e;white-space:nowrap;" href="/tags/0,339028020,220023007o,00.htm">internet</a> 
-<a style="font-size:13px;margin-right:10px;color:#f7c77e;white-space:nowrap;" href="/tags/0,339028020,4000109093o,00.htm">iphone</a> 
-<a style="font-size:14px;margin-right:10px;color:#f8a11b;white-space:nowrap;" href="/tags/0,339028020,220023066o,00.htm">java</a> 
-<a style="font-size:13px;margin-right:10px;color:#f7c77e;white-space:nowrap;" href="/tags/0,339028020,220081710o,00.htm">javascript</a> 
-<a style="font-size:18px;margin-right:10px;color:#f8a11b;white-space:nowrap;" href="/tags/0,339028020,220023132o,00.htm">linux</a> 
-<a style="font-size:13px;margin-right:10px;color:#f7c77e;white-space:nowrap;" href="/tags/0,339028020,4000119937o,00.htm">malware</a> 
-<a style="font-size:13px;margin-right:10px;color:#f7c77e;white-space:nowrap;" href="/tags/0,339028020,4000111576o,00.htm">management</a> 
-<a style="font-size:20px;margin-right:10px;color:#f59500;white-space:nowrap;" href="/tags/0,339028020,1230032084o,00.htm">microsoft</a> 
-<a style="font-size:13px;margin-right:10px;color:#f7c77e;white-space:nowrap;" href="/tags/0,339028020,320050095o,00.htm">microsoft&nbsp;windows</a> 
-<a style="font-size:13px;margin-right:10px;color:#f7c77e;white-space:nowrap;" href="/tags/0,339028020,220023231o,00.htm">mobile</a> 
-<a style="font-size:13px;margin-right:10px;color:#f7c77e;white-space:nowrap;" href="/tags/0,339028020,220082802o,00.htm">mozilla</a> 
-<a style="font-size:15px;margin-right:10px;color:#f8a11b;white-space:nowrap;" href="/tags/0,339028020,4000119099o,00.htm">novell</a> 
-<a style="font-size:18px;margin-right:10px;color:#f8a11b;white-space:nowrap;" href="/tags/0,339028020,4000095196o,00.htm">open&nbsp;source</a> 
-<a style="font-size:13px;margin-right:10px;color:#f7c77e;white-space:nowrap;" href="/tags/0,339028020,1230060622o,00.htm">openoffice</a> 
-<a style="font-size:15px;margin-right:10px;color:#f8a11b;white-space:nowrap;" href="/tags/0,339028020,4000108180o,00.htm">operating&nbsp;system</a> 
-<a style="font-size:13px;margin-right:10px;color:#f7c77e;white-space:nowrap;" href="/tags/0,339028020,4000097261o,00.htm">oracle</a> 
-<a style="font-size:10px;margin-right:10px;color:#f7c77e;white-space:nowrap;" href="/tags/0,339028020,220080114o,00.htm">patch</a> 
-<a style="font-size:13px;margin-right:10px;color:#f7c77e;white-space:nowrap;" href="/tags/0,339028020,220082809o,00.htm">patent</a> 
-<a style="font-size:13px;margin-right:10px;color:#f7c77e;white-space:nowrap;" href="/tags/0,339028020,220025097o,00.htm">pc</a> 
-<a style="font-size:14px;margin-right:10px;color:#f8a11b;white-space:nowrap;" href="/tags/0,339028020,4000085422o,00.htm">red&nbsp;hat</a> 
-<a style="font-size:13px;margin-right:10px;color:#f7c77e;white-space:nowrap;" href="/tags/0,339028020,220097391o,00.htm">safari</a> 
-<a style="font-size:17px;margin-right:10px;color:#f8a11b;white-space:nowrap;" href="/tags/0,339028020,220023667o,00.htm">security</a> 
-<a style="font-size:13px;margin-right:10px;color:#f7c77e;white-space:nowrap;" href="/tags/0,339028020,4000245371o,00.htm">silverlight</a> 
-<a style="font-size:14px;margin-right:10px;color:#f8a11b;white-space:nowrap;" href="/tags/0,339028020,220024142o,00.htm">software</a> 
-<a style="font-size:15px;margin-right:10px;color:#f8a11b;white-space:nowrap;" href="/tags/0,339028020,220023803o,00.htm">sun</a> 
-<a style="font-size:14px;margin-right:10px;color:#f8a11b;white-space:nowrap;" href="/tags/0,339028020,1230078921o,00.htm">suse&nbsp;linux</a> 
-<a style="font-size:14px;margin-right:10px;color:#f8a11b;white-space:nowrap;" href="/tags/0,339028020,1230052106o,00.htm">ubuntu</a> 
-<a style="font-size:14px;margin-right:10px;color:#f8a11b;white-space:nowrap;" href="/tags/0,339028020,1230009360o,00.htm">virtualisation</a> 
-<a style="font-size:13px;margin-right:10px;color:#f7c77e;white-space:nowrap;" href="/tags/0,339028020,4000108181o,00.htm">vmware</a> 
-<a style="font-size:14px;margin-right:10px;color:#f8a11b;white-space:nowrap;" href="/tags/0,339028020,4000177591o,00.htm">web&nbsp;2.0</a> 
-<a style="font-size:13px;margin-right:10px;color:#f7c77e;white-space:nowrap;" href="/tags/0,339028020,320050278o,00.htm">web&nbsp;applications</a> 
-<a style="font-size:13px;margin-right:10px;color:#f7c77e;white-space:nowrap;" href="/tags/0,339028020,4000114339o,00.htm">web&nbsp;site</a> 
-<a style="font-size:14px;margin-right:10px;color:#f8a11b;white-space:nowrap;" href="/tags/0,339028020,220024652o,00.htm">windows</a> 
-<a style="font-size:13px;margin-right:10px;color:#f7c77e;white-space:nowrap;" href="/tags/0,339028020,1230080681o,00.htm">windows&nbsp;vista</a> 
-<a style="font-size:13px;margin-right:10px;color:#f7c77e;white-space:nowrap;" href="/tags/0,339028020,4000101987o,00.htm">windows&nbsp;xp</a> 
+<a style="font-size:13px;margin-right:10px;color:#f7c77e;white-space:nowrap;" href="/tags/0,339028020,4000101435o,00.htm" title="623 articles">.net</a> 
+<a style="font-size:13px;margin-right:10px;color:#f7c77e;white-space:nowrap;" href="/tags/0,339028020,220021492o,00.htm" title="298 articles">adobe</a> 
+<a style="font-size:14px;margin-right:10px;color:#f8a11b;white-space:nowrap;" href="/tags/0,339028020,220021551o,00.htm" title="1442 articles">apple</a> 
+<a style="font-size:14px;margin-right:10px;color:#f8a11b;white-space:nowrap;" href="/tags/0,339028020,4000103356o,00.htm" title="331 articles">application</a> 
+<a style="font-size:14px;margin-right:10px;color:#f8a11b;white-space:nowrap;" href="/tags/0,339028020,220021594o,00.htm" title="792 articles">australia</a> 
+<a style="font-size:13px;margin-right:10px;color:#f7c77e;white-space:nowrap;" href="/tags/0,339028020,220021671o,00.htm" title="1099 articles">broadband</a> 
+<a style="font-size:14px;margin-right:10px;color:#f8a11b;white-space:nowrap;" href="/tags/0,339028020,220021673o,00.htm" title="517 articles">browser</a> 
+<a style="font-size:14px;margin-right:10px;color:#f8a11b;white-space:nowrap;" href="/tags/0,339028020,220024462o,00.htm" title="468 articles">data</a> 
+<a style="font-size:13px;margin-right:10px;color:#f7c77e;white-space:nowrap;" href="/tags/0,339028020,220106172o,00.htm" title="124 articles">exploit</a> 
+<a style="font-size:14px;margin-right:10px;color:#f8a11b;white-space:nowrap;" href="/tags/0,339028020,240002191o,00.htm" title="370 articles">firefox</a> 
+<a style="font-size:13px;margin-right:10px;color:#f7c77e;white-space:nowrap;" href="/tags/0,339028020,220073076o,00.htm" title="547 articles">flaw</a> 
+<a style="font-size:14px;margin-right:10px;color:#f8a11b;white-space:nowrap;" href="/tags/0,339028020,220078194o,00.htm" title="270 articles">gartner</a> 
+<a style="font-size:15px;margin-right:10px;color:#f8a11b;white-space:nowrap;" href="/tags/0,339028020,4000252233o,00.htm" title="16 articles">gartner07</a> 
+<a style="font-size:17px;margin-right:10px;color:#f8a11b;white-space:nowrap;" href="/tags/0,339028020,220072902o,00.htm" title="924 articles">google</a> 
+<a style="font-size:13px;margin-right:10px;color:#f7c77e;white-space:nowrap;" href="/tags/0,339028020,4000089062o,00.htm" title="636 articles">government</a> 
+<a style="font-size:13px;margin-right:10px;color:#f7c77e;white-space:nowrap;" href="/tags/0,339028020,220078357o,00.htm" title="1299 articles">ibm</a> 
+<a style="font-size:15px;margin-right:10px;color:#f8a11b;white-space:nowrap;" href="/tags/0,339028020,220023007o,00.htm" title="1468 articles">internet</a> 
+<a style="font-size:13px;margin-right:10px;color:#f7c77e;white-space:nowrap;" href="/tags/0,339028020,4000091946o,00.htm" title="224 articles">internet&nbsp;explorer</a> 
+<a style="font-size:13px;margin-right:10px;color:#f7c77e;white-space:nowrap;" href="/tags/0,339028020,220023066o,00.htm" title="833 articles">java</a> 
+<a style="font-size:13px;margin-right:10px;color:#f7c77e;white-space:nowrap;" href="/tags/0,339028020,220023074o,00.htm" title="714 articles">jobs</a> 
+<a style="font-size:16px;margin-right:10px;color:#f8a11b;white-space:nowrap;" href="/tags/0,339028020,220023132o,00.htm" title="2431 articles">linux</a> 
+<a style="font-size:13px;margin-right:10px;color:#f7c77e;white-space:nowrap;" href="/tags/0,339028020,220078569o,00.htm" title="578 articles">mac</a> 
+<a style="font-size:14px;margin-right:10px;color:#f8a11b;white-space:nowrap;" href="/tags/0,339028020,4000111576o,00.htm" title="802 articles">management</a> 
+<a style="font-size:20px;margin-right:10px;color:#f59500;white-space:nowrap;" href="/tags/0,339028020,1230032084o,00.htm" title="949 articles">microsoft</a> 
+<a style="font-size:14px;margin-right:10px;color:#f8a11b;white-space:nowrap;" href="/tags/0,339028020,220023231o,00.htm" title="1314 articles">mobile</a> 
+<a style="font-size:14px;margin-right:10px;color:#f8a11b;white-space:nowrap;" href="/tags/0,339028020,220082802o,00.htm" title="354 articles">mozilla</a> 
+<a style="font-size:13px;margin-right:10px;color:#f7c77e;white-space:nowrap;" href="/tags/0,339028020,220023320o,00.htm" title="612 articles">network</a> 
+<a style="font-size:14px;margin-right:10px;color:#f8a11b;white-space:nowrap;" href="/tags/0,339028020,4000088451o,00.htm" title="468 articles">office</a> 
+<a style="font-size:15px;margin-right:10px;color:#f8a11b;white-space:nowrap;" href="/tags/0,339028020,4000095196o,00.htm" title="930 articles">open&nbsp;source</a> 
+<a style="font-size:14px;margin-right:10px;color:#f8a11b;white-space:nowrap;" href="/tags/0,339028020,4000108180o,00.htm" title="339 articles">operating&nbsp;system</a> 
+<a style="font-size:14px;margin-right:10px;color:#f8a11b;white-space:nowrap;" href="/tags/0,339028020,4000097261o,00.htm" title="805 articles">oracle</a> 
+<a style="font-size:14px;margin-right:10px;color:#f8a11b;white-space:nowrap;" href="/tags/0,339028020,220080114o,00.htm" title="440 articles">patch</a> 
+<a style="font-size:13px;margin-right:10px;color:#f7c77e;white-space:nowrap;" href="/tags/0,339028020,220025097o,00.htm" title="724 articles">pc</a> 
+<a style="font-size:13px;margin-right:10px;color:#f7c77e;white-space:nowrap;" href="/tags/0,339028020,220079540o,00.htm" title="85 articles">productivity</a> 
+<a style="font-size:17px;margin-right:10px;color:#f8a11b;white-space:nowrap;" href="/tags/0,339028020,220023667o,00.htm" title="2727 articles">security</a> 
+<a style="font-size:15px;margin-right:10px;color:#f8a11b;white-space:nowrap;" href="/tags/0,339028020,220050276o,00.htm" title="787 articles">server</a> 
+<a style="font-size:13px;margin-right:10px;color:#f7c77e;white-space:nowrap;" href="/tags/0,339028020,220095076o,00.htm" title="26 articles">service&nbsp;pack</a> 
+<a style="font-size:15px;margin-right:10px;color:#f8a11b;white-space:nowrap;" href="/tags/0,339028020,220024142o,00.htm" title="1683 articles">software</a> 
+<a style="font-size:16px;margin-right:10px;color:#f8a11b;white-space:nowrap;" href="/tags/0,339028020,4000117255o,00.htm" title="528 articles">vista</a> 
+<a style="font-size:13px;margin-right:10px;color:#f7c77e;white-space:nowrap;" href="/tags/0,339028020,4000177591o,00.htm" title="148 articles">web&nbsp;2.0</a> 
+<a style="font-size:16px;margin-right:10px;color:#f8a11b;white-space:nowrap;" href="/tags/0,339028020,220024652o,00.htm" title="1814 articles">windows</a> 
+<a style="font-size:14px;margin-right:10px;color:#f8a11b;white-space:nowrap;" href="/tags/0,339028020,220080792o,00.htm" title="351 articles">xp</a> 
           </div>
         </div>
         </div>
         <!-- //wordsoup -->
 
-        	<div class="box">
+	<p style="margin:15px 0"><a href="http://ad.doubleclick.net/clk;154042092;21147925;x?http://www.zdnet.com.au/special/grandslam/" target="_blank"><img src="http://www.zdnet.com.au/i/sp/ibmgaming/promo-builder.gif" alt=""></a></p>        	<div class="box">
 		<div class="box-border">
 			<ul class="box-tabs clearfix">
 				<li style="background-image:none"><span class="last-tab">What's On?</span></li>
 			</ul>
 			<div id="whats-on" class="box-content">
 							<p class="clearfix first">
-				<a href="/forum/?mode=viewthread&amp;t=10000222&amp;tindex=5&amp;sortOrder=desc&amp;sortType=last_post_date" onclick="javascript:trackClickLinkOmniture('WhatsOnImageLink_Forums: Can you help?')">
-				<img src="/i/special/forum-97x72.gif" alt="Forums: Can you help?"></a> 
-				<a href="/forum/?mode=viewthread&amp;t=10000222&amp;tindex=5&amp;sortOrder=desc&amp;sortType=last_post_date" onclick="javascript:trackClickLinkOmniture('WhatsOnTextLink_Forums: Can you help?')"><strong>Forums: Can you help?</strong></a><br>
-					"I am trying to use a dll created in dotnet using c# in my ASP pages. It is giving error - Server object, ASP 0177 (0x800401F3) Invalid class string"</p>
+				<a href="http://www.zdnet.com.au/special/grandslam" onclick="javascript:trackClickLinkOmniture('WhatsOnImageLink_GRAND SLAM mobile gaming tournament.')">
+				<img src="/i/special/grandslam-97x72.jpg" alt="GRAND SLAM mobile gaming tournament."></a> 
+				<a href="http://www.zdnet.com.au/special/grandslam" onclick="javascript:trackClickLinkOmniture('WhatsOnTextLink_GRAND SLAM mobile gaming tournament.')"><strong>GRAND SLAM mobile gaming tournament.</strong></a><br>
+					Win a trip for two to the Australian Open tennis finals in January 2008!</p>
 							<p class="clearfix">
-				<a href="/comps/birthday/" onclick="javascript:trackClickLinkOmniture('WhatsOnImageLink_Birthday Competition')">
-				<img src="/i/special/builder5-92x72.gif" alt="Birthday Competition"></a> 
-				<a href="/comps/birthday/" onclick="javascript:trackClickLinkOmniture('WhatsOnTextLink_Birthday Competition')"><strong>Birthday Competition</strong></a><br>
-					To celebrate Builder AU's fifth birthday, we are offering readers the opportunity to win one of six big ticket prizes. AU$12,000 worth of prizes to be won!</p>
+				<a href="http://www.activetechpros.com/index.htm?src=builderau_ad_box" onclick="javascript:trackClickLinkOmniture('WhatsOnImageLink_How much are you worth?')">
+				<img src="/i/special/active_tech_pros/builder97x72.gif" alt="How much are you worth?"></a> 
+				<a href="http://www.activetechpros.com/index.htm?src=builderau_ad_box" onclick="javascript:trackClickLinkOmniture('WhatsOnTextLink_How much are you worth?')"><strong>How much are you worth?</strong></a><br>
+					Compare your salary on activeTechPros.com.</p>
+							<p class="clearfix">
+				<a href="http://prvcms.builderau.com.au/comps/research" onclick="javascript:trackClickLinkOmniture('WhatsOnImageLink_Complete the Builder AU Reader Survey')">
+				<img src="/i/special/builderresearch97x72.jpg" alt="Complete the Builder AU Reader Survey"></a> 
+				<a href="http://prvcms.builderau.com.au/comps/research" onclick="javascript:trackClickLinkOmniture('WhatsOnTextLink_Complete the Builder AU Reader Survey')"><strong>Complete the Builder AU Reader Survey</strong></a><br>
+					WIN an 8GB Apple iPod Touch, valued at AU$419.00!</p>
 						</div>
 		</div>
 	</div>
@@ -404,15 +448,25 @@ fo.write("videoPlayer");
               <li id="featuredlinks_tab0" class="sponsored"><span class="last-tab">Featured Links</span></li>
             </ul>
             <ul id="featuredlinks_content0" class="box-content">
-<li><strong><a href="http://ad.doubleclick.net/clk;101134298;5553856;j?http://clk.atdmt.com/AUM/go/cntcmait0030000016aum/direct/01/" target="_blank">Visual Studio 2005 </a></strong><br><a href="http://ad.doubleclick.net/clk;101134298;5553856;j?http://clk.atdmt.com/AUM/go/cntcmait0030000016aum/direct/01/" target="_blank">Click here to download a collection of tools you can use today. </a> </li><li><strong><a href="http://ad.doubleclick.net/clk;112593458;5553856;s?http://www.builderau.com.au/comps/birthday/" target="_blank">Builders Fifth! </a></strong><br><a href="http://ad.doubleclick.net/clk;112593458;5553856;s?http://www.builderau.com.au/comps/birthday/" target="_blank">Over AU$12,000 worth of prizes to be won! </a> </li><li><strong><a href="http://ad.doubleclick.net/clk;103593400;5553856;f?http://www.codegear.com/Products/Delphi/DelphiforPHP/tabid/237/Default.aspx" target="_blank">Delphi for PHP </a></strong><br><a href="http://ad.doubleclick.net/clk;103593400;5553856;f?http://www.codegear.com/Products/Delphi/DelphiforPHP/tabid/237/Default.aspx" target="_blank">PHP development goes RAD! Click now for FREE trial version </a> </li><li><strong><a href="http://ad.doubleclick.net/clk;101283881;5553856;m?http://clk.atdmt.com/AUM/go/cntcmait0020000014aum/direct/01/" target="_blank">Database development </a></strong><br><a href="http://ad.doubleclick.net/clk;101283881;5553856;m?http://clk.atdmt.com/AUM/go/cntcmait0020000014aum/direct/01/" target="_blank">You no longer have to take so many risks. Check out the secret weapon now. </a> </li>            </ul>
+<li><strong><a href="http://ad.doubleclick.net/clk;161439449;20214114;v?http://www.codegear.com/products/3rdrail/get-excited/" target="_blank">CodeGear 3rdRail </a></strong><br><a href="http://ad.doubleclick.net/clk;161439449;20214114;v?http://www.codegear.com/products/3rdrail/get-excited/" target="_blank">More info on the new Ruby on Rails resource site &gt;&gt; </a> </li><li><strong><a href="http://ad.doubleclick.net/clk;163375523;20214114;p?http://www.zdnet.com.au/insight/software/soa/Linux-Making-the-change/0,139023769,339284131,00.htm" target="_blank">Linux: Making the change </a></strong><br><a href="http://ad.doubleclick.net/clk;163375523;20214114;p?http://www.zdnet.com.au/insight/software/soa/Linux-Making-the-change/0,139023769,339284131,00.htm" target="_blank">Click here for Australian Linux Migration case studies </a> </li>            </ul>
           </div>
         </div>
-        <!-- //featured links -->                <div id="footer">
-          <p><a href="http://www.cnetnetworks.com.au/builderau/">About Us</a> | <a href="/mediapack/contact/">Contact Us</a> | <a href="/membership/">Membership</a> | <span class="rss"><a href="/feeds/">RSS Feeds</a></span><br>
+        <!-- //featured links -->	        <div class="box">
+          <div class="box-border">
+            <ul class="box-tabs clearfix">
+              <li style="background-image:none" class="sponsored"><span class="last-tab">Sponsored Content by Intel</span></li>
+            </ul>
+            <div class="box-content"> 
+<p class="clearfix"><a href="http://ad.doubleclick.net/clk;137307981;5553856;t?http://www.builderau.com.au/whiteboards/intel/video-2.htm"><img src="/i/x/wb/intel/video-2.jpg" style="margin:0 5px 5px 0; float:left;" alt=""></a>
+<a href="http://ad.doubleclick.net/clk;137307981;5553856;t?http://www.builderau.com.au/whiteboards/intel/video-2.htm"><strong>Understanding task and data parallelism</strong></a><br>The difference between task and data parallelism, and how there is a way around the limits imposed by Amdahl's Law.</p>
+<p style="text-align:right; margin-top:12px;"><a href="http://ad.doubleclick.net/clk;137307969;5553856;z?http://www.intel.com/" target="_blank"><img src="/i/x/wb/intel/logo-intel-sml.gif" border="0"></a></p>
+            </div>
+          </div>
+        </div>                <div id="footer">
+          <p><a href="http://www.cnetnetworks.com.au/builderau/">About Us</a> | <a href="http://www.cnetnetworks.com.au/builderau/contact.htm">Contact Us</a> | <a href="/membership/">Membership</a> | <span class="rss"><a href="/feeds/">RSS Feeds</a></span><br>
             <a href="/services/privacy/">Privacy Policy</a> | <a href="/services/terms/">Terms of Use</a></p>
           <p>Copyright © 2007 CNET Networks, Inc. All rights reserved.</p>
-          <p>Other CNET Networks sites: <a href="http://www.zdnet.com.au">ZDNet Australia</a> | <a href="http://www.cnet.com.au">CNET.com.au</a> | <a href="http://www.applesource.com.au">AppleSource</a><br>
-            <a href="http://www.builder.com">Builder.com</a> | <a href="http://uk.builder.com">Builder UK</a> | <a href="http://www.techrepublic.com">TechRepublic</a></p>
+          <p>Other CNET Networks sites: <a href="http://www.zdnet.com.au">ZDNet Australia</a> | <a href="http://www.cnet.com.au">CNET.com.au</a> | <a href="http://www.applesource.com.au">AppleSource</a> | <a href="http://www.cnettv.com.au">CNETTV Australia</a> | <a href="http://www.builder.com">Builder.com</a> | <a href="http://uk.builder.com">Builder UK</a> | <a href="http://www.techrepublic.com">TechRepublic</a></p>
         </div>
 	<!-- //footer -->
       </div>
@@ -428,7 +482,7 @@ urchinTracker();
 <!-- GOOG END -->
 
 <!-- DW BEGIN -->
-<img src="http://dw-eu.com.com/clear/c.gif?ts=1182574310&amp;sId=75" height="1" width="1" border="0">
+<img src="http://dw-eu.com.com/clear/c.gif?ts=1197928638&amp;sId=75" height="1" width="1" border="0">
 <!-- DW END --> 
 
 
@@ -438,7 +492,7 @@ urchinTracker();
 <!-- SiteCatalyst code version: H.1.
 Copyright 1997-2005 Omniture, Inc. More info available at
 http://www.omniture.com -->
-	<script language="JavaScript" src="/common/lib/s_code.js"></script><img name="s_i_zdau-builder" height="1" width="1" border="0" alt="" src="https://cnetaustralia.122.2O7.net/b/ss/zdau-builder/1/H.1-pdv-2/s73939063088932?[AQB]&amp;ndh=1&amp;t=31/0/2020%204%3A49%3A3%205%200&amp;ns=cnetaustralia&amp;cdp=3&amp;pageName=services/privacy/index/Privacy%20Policy&amp;g=https%3A//web.archive.org/web/20070623045151id_/http%3A//www.builderau.com.au/services/privacy/&amp;cc=AUD&amp;ch=services&amp;server=www.builderau.com.au&amp;events=event2&amp;v1=services&amp;h1=services%2Cprivacy&amp;c4=index&amp;c7=%3C%3D%205&amp;v9=unknown&amp;c11=privacy&amp;v13=privacy&amp;c16=leaderboard%2Cmpu&amp;v27=index&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
+	<script language="JavaScript" src="/common/lib/s_code.js"></script><img name="s_i_zdau-builder" height="1" width="1" border="0" alt="" src="https://cnetaustralia.122.2O7.net/b/ss/zdau-builder/1/H.1-pdv-2/s76570040393996?[AQB]&amp;ndh=1&amp;t=31/0/2020%204%3A49%3A2%205%200&amp;ns=cnetaustralia&amp;cdp=3&amp;pageName=services/privacy/index/Privacy%20Policy&amp;g=https%3A//web.archive.org/web/20071217215719id_/http%3A//www.builderau.com.au/services/privacy/&amp;cc=AUD&amp;ch=services&amp;server=www.builderau.com.au&amp;events=event2&amp;v1=services&amp;h1=services%2Cprivacy&amp;c4=index&amp;c7=%3C%3D%205&amp;v9=unknown&amp;c11=privacy&amp;v13=privacy&amp;c16=leaderboard%2Cmpu&amp;c19=ia_archiver&amp;v27=index&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
 	
 <script language="JavaScript"><!--
 	
@@ -454,6 +508,7 @@ s.eVar27 = "index"
 s.prop7 = "<= 5"
 s.eVar1 = "services"
 s.eVar9 = "unknown"
+s.prop19 = "ia_archiver"
 s.events = "event2"
 s.prop16 = "leaderboard,mpu"
 s.hier1 = "services,privacy"
