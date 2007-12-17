@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creditexpert.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630035604id_/http%3A//www.creditexpert.com/Message.aspx%3FPageTypeID%3DPrivacy%26SiteVersionID%3D2%26SiteID%3D100003%26sc%3D699999%26bcd%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditexpert.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217082950id_/http%3A//www.creditexpert.com/Message.aspx%3FPageTypeID%3DPrivacy%26SiteVersionID%3D2%26SiteID%3D100003%26sc%3D699999%26bcd%3D) for the most accurate reproduction.*
 
 # Credit Expert
 
