@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the newsgab.com privacy policy that was archived on 2007-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070501170120id_/http%3A//www.newsgab.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsgab.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217163147id_/http%3A//www.newsgab.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Newsgab
+# Newsgab » Privacy Policy
 
 **Newsgab respects your privacy**
 
@@ -29,3 +29,5 @@ Sometimes we conduct user surveys to improve our site for you. We may share aggr
 Reviewing and changing your personal profile
 
 Once you register, you will be able to review and change your personal profile at any time.
+
+Popularity: 1% [[?](http://www.newsgab.com/popular-articles-what-are-they/ "What does this mean?")]
