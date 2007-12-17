@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pagequest.co.uk privacy policy that was archived on 2007-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070628045444id_/http%3A//www.pagequest.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pagequest.co.uk privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217032313id_/http%3A//www.pagequest.co.uk/privacy.php) for the most accurate reproduction.*
 
-# pagequest.co.uk - Free Article, Free article Directory, UK Article Directory, Article Marketing, Internet Marketing Article, Article Submission
+# pagequest.co.uk - Internet Marketing articles, Article internet Marketing,Free Article, Free article Directory, UK Article Directory, Article Marketing,search engine optimization seo, SEO tactics, Search Engine Optimization, Internet Marketing Article, Article Submission
 
 **Pagequest Privacy Policy**
 
@@ -66,8 +66,16 @@ This statement and the policies outlined herein are not intended to and do not c
 
 | 
 
+[](http://www.avonmere.com/index.asp?aid=63)
+
+**[ ](http://www.mylinkguard.com/protect/?site=1978)**
+
 [Article Directory Software](http://www.articledashboard.com/download.htm)  
 Click here to download the exact software that powers this directory for FREE. Start your own article directory today!  
 
 
 [](http://primequk.directtrack.com/z/4583/CD712/)
+
+[ ](http://www.linkbrander.com/cozmo15)
+
+[](http://www.avonmere.com/index.asp?aid=63)
