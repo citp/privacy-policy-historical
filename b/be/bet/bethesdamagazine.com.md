@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bethesdamagazine.com privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608103347id_/http%3A//www.bethesdamagazine.com/privacypolicy/index.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bethesdamagazine.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217051453id_/http%3A//www.bethesdamagazine.com/privacypolicy/index.php) for the most accurate reproduction.*
 
 # Bethesda Magazine
 
