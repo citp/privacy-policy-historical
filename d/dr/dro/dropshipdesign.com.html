@@ -1,19 +1,19 @@
-<!--The following is the downloaded HTML source of the dropshipdesign.com privacy policy that was archived on 2007-06-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070614185404id_/http%3A//www.dropshipdesign.com/Store/DSD_privacy_policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dropshipdesign.com privacy policy that was archived on 2007-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071217073154id_/http%3A//www.dropshipdesign.com/Store/DSD_privacy_policy.asp) for the most accurate reproduction.-->
 
 <html><head>
 		
-	<title>DropShipDesign - Online Shopping Mall</title>
+	<title>Wholesale Online Drop Shipping Mall - DropShipDesign</title>
 	
 	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-	<meta name="keywords" content="Gifts, jewelry, electronics, leather goods, lingerie, garment, automotive parts, pets, household, knives, handbag, telephone, dvd player, car alarm, wholesale, flea market, radar detector, dropship, Toys, sports">
+	<meta name="keywords" content="Wholesale Drop Shipping,  Dropship Supplier,  Dropship Company,  Wholesale Dropship,  Wholesale Drop Ship,  Dropship,  Wholesale,  drop ship,  wholesale cell phone,  wholesale electronics,  wholesale automotive parts,  supplier,  manufacturer,  wholesale handbag,  flea market,  wholesale toys,  wholesale apparel,  Gifts,  jewelry,  electronics,  leather goods,  lingerie,  garment,  automotive parts,  pets,  household,  knives,  handbag,  telephone,  dvd player,  car alarm,  wholesale,  flea market,  radar detector,  dropship,  Toys,  sports">
 	<meta name="description" content="Our website offers a range of wonderful gifts for various occasions such as holidays, weddings, birthdays, wedding anniversary, graduations, kids and other special occasions.">
-	<meta http-equiv="Classification" content="Gifts">
+	<meta http-equiv="Classification" content="Wholesale Drop Shipping">
 	<meta name="URL" content="www.dropshipdesign.com">
 
-	<meta name="VW96.objecttype" content="Gifts, jewelry, electronics, leather goods, lingerie, garment, automotive parts, pets, household, knives, handbag, telephone, dvd player, car alarm, wholesale, flea market, radar detector, dropship, Toys, sports">
-	<meta name="DC.Title" content="DropShipDesign - Online Shopping Mall">
-	<meta name="DC.Subject" content="Gifts, jewelry, electronics, leather goods, lingerie, garment, automotive parts, pets, household, knives, handbag, telephone, dvd player, car alarm, wholesale, flea market, radar detector, dropship, Toys, sports">
+	<meta name="VW96.objecttype" content="Wholesale Drop Shipping,  Dropship Supplier,  Dropship Company,  Wholesale Dropship,  Wholesale Drop Ship,  Dropship,  Wholesale,  drop ship,  wholesale cell phone,  wholesale electronics,  wholesale automotive parts,  supplier,  manufacturer,  wholesale handbag,  flea market,  wholesale toys,  wholesale apparel,  Gifts,  jewelry,  electronics,  leather goods,  lingerie,  garment,  automotive parts,  pets,  household,  knives,  handbag,  telephone,  dvd player,  car alarm,  wholesale,  flea market,  radar detector,  dropship,  Toys,  sports">
+	<meta name="DC.Title" content="Wholesale Online Drop Shipping Mall - DropShipDesign">
+	<meta name="DC.Subject" content="Wholesale Drop Shipping,  Dropship Supplier,  Dropship Company,  Wholesale Dropship,  Wholesale Drop Ship,  Dropship,  Wholesale,  drop ship,  wholesale cell phone,  wholesale electronics,  wholesale automotive parts,  supplier,  manufacturer,  wholesale handbag,  flea market,  wholesale toys,  wholesale apparel,  Gifts,  jewelry,  electronics,  leather goods,  lingerie,  garment,  automotive parts,  pets,  household,  knives,  handbag,  telephone,  dvd player,  car alarm,  wholesale,  flea market,  radar detector,  dropship,  Toys,  sports">
 	<meta name="DC.Description" content="Our website offers a range of wonderful gifts for various occasions such as holidays, weddings, birthdays, wedding anniversary, graduations, kids and other special occasions.">
 
 	<meta name="MSSmartTagsPreventParsing" content="TRUE">
@@ -24,14 +24,14 @@
 	<meta name="revisit-after" content="31 days">
 	<meta name="DC.Coverage.PlaceName" content="Global">
 
-	<!-- Gifts, jewelry, electronics, leather goods, lingerie, garment, automotive parts, pets, household, knives, handbag, telephone, dvd player, car alarm, wholesale, flea market, radar detector, dropship, Toys, sports -->
+	<!-- Wholesale Drop Shipping,  Dropship Supplier,  Dropship Company,  Wholesale Dropship,  Wholesale Drop Ship,  Dropship,  Wholesale,  drop ship,  wholesale cell phone,  wholesale electronics,  wholesale automotive parts,  supplier,  manufacturer,  wholesale handbag,  flea market,  wholesale toys,  wholesale apparel,  Gifts,  jewelry,  electronics,  leather goods,  lingerie,  garment,  automotive parts,  pets,  household,  knives,  handbag,  telephone,  dvd player,  car alarm,  wholesale,  flea market,  radar detector,  dropship,  Toys,  sports -->
 
 		<script language="JavaScript" src="/include/library.js"></script>
 		<link rel="stylesheet" type="text/css" href="/Store/style.css">
 	<style type="text/css">
 	
-	#MainCIE	{position: relative; visibility: hidden; zIndex : 200};
-	#CIENAME	{position: absolute; width:400; top: 14; left: 300; visibility: hidden};
+	#MainCIE	{position: relative; visibility: hide};
+/*	#CIENAME	{position: absolute; width:507; top: 10; left: 255; visibility: hide}; */
 </style><script>
 <!--
 	var HDCurAddr = new String(window.location);
@@ -43,13 +43,27 @@
 
 	function ShowCIE()
 	{
-		if (window.CIENAME)
+		if(document.all)
 		{
-			CIENAME.style.posLeft = CIENAME.offsetLeft + MainCIE.offsetLeft;
-			CIENAME.style.posTop = CIENAME.offsetTop + MainCIE.offsetTop;
-			CIENAME.style.visibility = "visible";
+			if (window.CIENAME)
+			{
+				CIENAME.style.posLeft = MainCIE.offsetLeft + 255;
+				CIENAME.style.posTop = MainCIE.offsetTop + 10;
+				CIENAME.style.visibility = "visible";
+			}
 		}
-		if (window.LaunchOnload != "" && window.LaunchOnload != "undefined")
+		else
+		if(!document.all && document.getElementById)
+		{
+			if (document.getElementById("CIENAME"))
+			{
+				document.getElementById("CIENAME").style.left = document.getElementById("MainCIE").offsetLeft + 255;;
+				document.getElementById("CIENAME").style.top = document.getElementById("MainCIE").offsetTop + 10;;
+				document.getElementById("CIENAME").style.visibility = "visible";
+				document.getElementById("MainCIE").style.visibility = "visible";
+			}
+		}
+		if (window.LaunchOnload != "" && window.LaunchOnload != "undefined" && ShowCIE.arguments.length == 0)
 		{
 			eval(window.LaunchOnload);
 		}
@@ -119,6 +133,7 @@ ul {
 	<input type="hidden" name="dsd_lastname" value="">
 	<input type="hidden" name="dsd_ebay" value="">
 	<input type="hidden" name="dsd_idcart" value="">
+	<input type="hidden" name="dsd_menu" value="">
 	<input type="hidden" name="dsd_special_id" value="">
 	<input type="hidden" name="dsd_special_email" value="">
 	<input type="hidden" name="dsd_special_origin" value="">
