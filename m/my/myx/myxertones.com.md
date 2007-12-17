@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the myxertones.com privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622052404id_/http%3A//www.myxertones.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myxertones.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217080238id_/http%3A//www.myxertones.com/privacy) for the most accurate reproduction.*
 
 # MyxerTones :: Privacy Policy
-
-[](http://www.myxertones.com/default/)
 
 Myxer™ understands the importance of privacy and is committed to protecting the privacy of your personal information. This Privacy Policy explains how Myxer™ collects and uses your personal information. 
 
