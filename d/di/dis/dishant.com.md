@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dishant.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617095542id_/http%3A//dishant.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dishant.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217103707id_/http%3A//dishant.com/privacy.php) for the most accurate reproduction.*
 
 # Dishant.com - Home of Indian Music - Privacy Policy
 
@@ -30,4 +30,4 @@ This site has security measures in place to protect the loss, misuse, and altera
 
 **Contacting the Web Site**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us using [this link](https://web.archive.org/web/20070617095542id_/http%3A//dishant.com/contactus.php)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us using [this link](https://web.archive.org/web/20071217103707id_/http%3A//dishant.com/contactus.php)
