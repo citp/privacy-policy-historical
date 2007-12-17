@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the joinred.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429184636id_/http%3A//www.joinred.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joinred.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217060901id_/http%3A//www.joinred.com/legal/privacy.asp) for the most accurate reproduction.*
 
-# (RED)
+# (RED) : Privacy Policy
 
-[](https://web.archive.org/web/20070429184636id_/http%3A//www.joinred.com/red.asp)
-
-**The information you submit when you register on the (PRODUCT) RED website or when you send us e-mail not directed to an associated third party -**
+## The information you submit when you register on the (PRODUCT) RED website or when you send us e-mail not directed to an associated third party -
 
 The Persuaders, LLC ("us" or "The Persuaders") has legal obligations towards you in the way we deal with (PRODUCT) RED website user data that is being collected from the (PRODUCT) RED website. That data is being managed securely by The Persuaders and we must collect the information fairly and let you know how we will use it. 
 
@@ -18,9 +16,9 @@ The security and confidentiality of your information is extremely important to u
 
 The Persuaders, LLC is a State of Delaware, United States, Limited Liability Company, whose address is 12400 Wilshire Blvd., Suite 1275, Los Angeles, California 90025, United States. 
 
-If you have any questions regarding our privacy policy, please contact [info@joinred.com](mailto:info@joinred.com)
+If you have any questions regarding our privacy policy, please contact info@joinred.com 
 
-**The information you submit when you send us e-mail directed to an associated third party -**
+## The information you submit when you send us e-mail directed to an associated third party - 
 
 If you wish to send us e-mail directed to a (PRODUCT) RED associated third party, please note that your e-mail will be passed directly to the applicable associated third party. The applicable associated third party will identify themselves when they respond to your e-mail and will be responsible for keeping the data you provide secure and for complying with all applicable data protection laws. The Persuaders is not and shall not be responsible for your data after you send e-mail directed to a (PRODUCT) RED associated third party. Each (PRODUCT) RED associated third party receiving e-mail from this website has committed not to put your personal information onto their organization's mailing lists without your permission. 
 
