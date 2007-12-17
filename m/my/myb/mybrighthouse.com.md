@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mybrighthouse.com privacy policy that was archived on 2007-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070616034823id_/http%3A//www.mybrighthouse.com/privacy_policy/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mybrighthouse.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217052013id_/http%3A//www.mybrighthouse.com/privacy_policy/default.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Bright House Networks Corporate
 
