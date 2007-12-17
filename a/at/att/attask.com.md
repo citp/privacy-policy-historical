@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the attask.com privacy policy that was archived on 2007-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070407202016id_/http%3A//www.attask.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the attask.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217011727id_/http%3A//www.attask.com/privacy) for the most accurate reproduction.*
 
-# AtTask Project Management Software - AtTask Privacy Policy
+# @task Project Management Software
 
 ### General Privacy Policy
 
@@ -11,6 +11,8 @@ This site contains information about our company, products and services. It will
 In some circumstances, AtTask may request personal information from you, such your name, e-mail address and company name or telephone number. Examples include on access to product demos and featured docuements, registration for select services and training courses, participating in a beta program or joining a user group. Your response to these inquiries is strictly voluntary, although it may be necessary to complete the activity with which the information is associated. AtTask may use this information to customize your experience on our Web site. In addition, AtTask may use this information for other business purposes, such as to alerting you to products and services that can assist you in your business or assisting in order processing. Once you choose to provide us personally identifiable information (any information by which you can be identified), you can be assured that it will only be used to support your relationship with AtTask. 
 
 If you do provide personal information, we will not disclose (share, sell or divulge) it to external organizations unless we have informed you or are required to do so by law. We will maintain this information, as well as your business activities and transactions, according to AtTask's normal confidentiality standards. 
+
+| 
 
 AtTask also collects domain information as part of its analysis of the use of this site. This data enables us to become more familiar with customer usage of our site. AtTask uses this information to improve its web-based offerings. This information is collected automatically and requires no action on your part. 
 
