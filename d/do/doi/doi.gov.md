@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the doi.gov privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630182607id_/http%3A//www.doi.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doi.gov privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217130104id_/http%3A//www.doi.gov/privacy.html) for the most accurate reproduction.*
 
 # U.S. Department of the Interior - Privacy Statement
 
 [](http://www.doi.gov/)
 
-[Children's Privacy Policy](https://web.archive.org/web/20070630182607id_/http%3A//www.doi.gov/chprivacy.html)
+[Children's Privacy Policy](https://web.archive.org/web/20071217130104id_/http%3A//www.doi.gov/chprivacy.html)
 
 This is how we will handle information we learn about you from your visit to our website. The information we receive depends upon what you do when visiting our site. 
 
@@ -16,7 +16,7 @@ For site management, information is collected for statistical purposes. This gov
 
 If you identify yourself by sending an E-mail or filling out a questionnaire or guestbook: 
 
-You also may decide to send us personally-identifying information, for example, in an electronic mail message containing a complaint. We use personally-identifying information from consumers in various ways to further our **customer's protection and to provide better service. This may be to correct broken links that you have identified or provide additional information that you have requested.** Visit [Talk to Us](https://web.archive.org/web/20070630182607id_/http%3A//www.doi.gov/talk.html) to learn what can happen to the information you provide us when you send us e-mail or fill out a questionnaire or guestbook. **Any information that we collect via a questionnaire or a guestbook may be subject to disclosure, but will be handled in accordance with the requirements of the[Privacy Act](http://www.usdoj.gov/04foia/04_7_1.html) and the [Freedom of Information Act](http://www.usdoj.gov/04foia/04_7_1.html) to ensure the greatest protection of personal privacy in the face of any required disclosure. **
+You also may decide to send us personally-identifying information, for example, in an electronic mail message containing a complaint. We use personally-identifying information from consumers in various ways to further our **customer's protection and to provide better service. This may be to correct broken links that you have identified or provide additional information that you have requested.** Visit [Talk to Us](https://web.archive.org/web/20071217130104id_/http%3A//www.doi.gov/talk.html) to learn what can happen to the information you provide us when you send us e-mail or fill out a questionnaire or guestbook. **Any information that we collect via a questionnaire or a guestbook may be subject to disclosure, but will be handled in accordance with the requirements of the[Privacy Act](http://www.usdoj.gov/04foia/04_7_1.html) and the [Freedom of Information Act](http://www.usdoj.gov/04foia/04_7_1.html) to ensure the greatest protection of personal privacy in the face of any required disclosure. **
 
 _We want to be very clear: We will not obtain personally-identifying information about you when you visit our site, unless you choose to provide such information to us. Except as might be required by law, we do not share any information we receive with outside parties. If you have any questions or comments about the information presented here, please forward them to us:_
 
