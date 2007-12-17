@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mycapture.com privacy policy that was archived on 2006-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061124181026id_/http%3A//www.mycapture.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycapture.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217011455id_/http%3A//www.mycapture.com/privacy.asp) for the most accurate reproduction.*
 
 # myCapture -- Event Publishing - myCapture Terms of Use
 
@@ -30,4 +30,4 @@ When placing orders or accessing your account information, we offer the use of a
 
 If you have questions about myCapture Privacy Policy or concerns about personal information you have supplied to Merlin-Net, please send an email to contact@myCapture.com 
 
-Copyright © 2006 myCapture. All Rights Reserved. Users of this Site agree to be bound by the terms of the myCapture Terms of Use. View Terms of Use and trademarks and Privacy Statement of myCapture. 
+Copyright © 2007 myCapture. All Rights Reserved. Users of this Site agree to be bound by the terms of the myCapture Terms of Use. View Terms of Use and trademarks and Privacy Statement of myCapture. 
