@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the babytv.com privacy policy that was archived on 2007-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070501111100id_/http%3A//www.babytv.com/aboutus/privacypolicy-btv.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babytv.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217210358id_/http%3A//www.babytv.com/aboutus/privacypolicy-btv.aspx) for the most accurate reproduction.*
 
-# Live Internet Television, Baby, Parenting and Pregnancy Videos : BabyTv
+# Parenting Videos, Pregnancy Videos and Baby Videos for new and expectant parents : BabyTv
 
 Privacy Policy
 
