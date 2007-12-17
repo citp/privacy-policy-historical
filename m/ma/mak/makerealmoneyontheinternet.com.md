@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the makerealmoneyontheinternet.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629001933id_/http%3A//www.makerealmoneyontheinternet.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makerealmoneyontheinternet.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217162853id_/http%3A//www.makerealmoneyontheinternet.com/privacy.htm) for the most accurate reproduction.*
 
 # Make Real Money on The Internet
 
