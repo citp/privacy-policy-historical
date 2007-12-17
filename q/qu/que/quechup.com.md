@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the quechup.com privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609042635id_/http%3A//quechup.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quechup.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217091811id_/http%3A//www.quechup.com/privacy.php) for the most accurate reproduction.*
 
 # Quechup.com Privacy Policy
 
-Quechup.com online dating community, requires a [web standards browser](http://www.webstandards.org/upgrade/ "Web Standards BROWSER UPGRADE initiative.") to use features on our dating site. 
+Quechup social networking site requires a [web standards browser](http://www.webstandards.org/upgrade/ "Web Standards BROWSER UPGRADE initiative.") to use many of the features of our online friends network including: blogs, videos, photo albums, chat messenger. 
 
 #### Quechup.com Privacy Policy
 
@@ -11,7 +11,7 @@ This site is owned and operated by iDate Ltd. Your privacy on the Internet is of
 Because we gather certain types of information about our users, we feel you should fully understand the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it.   
 **Please note that by visiting Quechup.com.com you are accepting the practices described in this privacy policy and[conditions of use](http://quechup.com/conditions.php).**
 
-If users have questions or concerns regarding this statement, they should first contact Quechup.com by sending an e-mail to [privacy@quechup.com](mailto:privacy@quechup.com). 
+If users have questions or concerns regarding this statement, they should first contact Quechup.com by sending an e-mail to [privacy@quechup.com](mailto:privacy@quechup.com?subject=Quechup%0A%20Privacy) or to: iDate Ltd, 24-32 London Rd, Newbury, RG14 1JX, United Kindom.
 
 ####  A Special Note About Children
 
@@ -92,15 +92,15 @@ We do not share any aggregated demographic information with any 3rd parties.
 
 #### Your Use of other Members Information 
 
-Our services also include access to instant messaging and SMS messaging. As a member you have access to the Member's ID No., and you might gain access to other contact information of the Member(s) through the regular use of the instant messaging and SMS messaging. By accepting this Privacy Policy, you agree that, with respect to other Members' personally identifiable information that you obtain through instant messaging communication, SMS and email, Quechup.com hereby grants to you a license to use such information only for: (a) Quechup.com related communications that are not unsolicited commercial messages, and (b) any other purpose that such member expressly agrees to after adequate disclosure of the purpose(s). In all cases, you must give Members an opportunity to remove themselves from your database and a chance to review what information you have collected about them. In addition, under no circumstances, except as defined in this Section, can you disclose personally identifiable information about another member to any third party without our consent and the consent of such other member after adequate disclosure. Quechup.com and our members do not tolerate Spam. Therefore, without limiting the foregoing, you are not licensed to add a Quechup.com member to your mail list (email or physical mail) without their express written consent after adequate disclosure. To report Spam from other Quechup.com members, please contact us at [spam@quechup.com](mailto:spam@quechup.com). 
+Our services also include access to instant messaging and SMS messaging. As a member you have access to the Member's ID No., and you might gain access to other contact information of the Member(s) through the regular use of the instant messaging and SMS messaging. By accepting this Privacy Policy, you agree that, with respect to other Members' personally identifiable information that you obtain through instant messaging communication, SMS and email, Quechup.com hereby grants to you a license to use such information only for: (a) Quechup.com related communications that are not unsolicited commercial messages, and (b) any other purpose that such member expressly agrees to after adequate disclosure of the purpose(s). In all cases, you must give Members an opportunity to remove themselves from your database and a chance to review what information you have collected about them. In addition, under no circumstances, except as defined in this Section, can you disclose personally identifiable information about another member to any third party without our consent and the consent of such other member after adequate disclosure. Quechup.com and our members do not tolerate Spam. Therefore, without limiting the foregoing, you are not licensed to add a Quechup.com member to your mail list (email or physical mail) without their express written consent after adequate disclosure. To report Spam from other Quechup.com members, please contact us at [spam@quechup.com](mailto:spam@quechup.com?subject=Quechup%20Spam). 
 
 ####  Accessing, Reviewing and Changing Your Profile
 
 Following registration, you can review and change the information you submitted during registration through the My Account Menu including: Your password and e-mail address. You can also change your registration information such as: username, city, state, zip/post code, country, phone number, profile, likes and dislikes, desired date profile and saved search criteria. 
 
-Upon your written request, we will suspend your membership, contact information, and financial information from our active databases. Such information will be suspended as soon as reasonably possible in accordance with our suspension policy and applicable law. To remove your profile so that others cannot view it, visit the Account Summary section of My Account. 
+Upon your written request, we will suspend your membership, contact information, and financial information from our active databases. Such information will be suspended as soon as reasonably possible in accordance with our policy and applicable law. To de-activate your profile so that others cannot view it, visit the Account Summary section of My Account. 
 
-We will retain in our files information you have requested to remove for certain circumstances, such as to resolve disputes, troubleshoot problems and enforce our terms and conditions. Further, such prior information is never completely removed from our databases due to technical and legal constraints, including stored 'back up' systems. Therefore, you should not expect that all of your personally identifiable information will be completely removed from our databases in response to your requests. 
+We will retain in our files and databases information you have requested to suspend or remove for certain circumstances, such as to resolve disputes, troubleshoot problems and enforce our terms and conditions. Further, such prior information is never completely removed from our databases due to technical and legal constraints, including stored 'back up' systems. Therefore, you should not expect that all of your personally identifiable information will be completely removed from our databases in response to your requests. 
 
 ####  Control of Your Password
 
