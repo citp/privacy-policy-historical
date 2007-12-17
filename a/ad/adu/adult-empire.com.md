@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adult-empire.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625100803id_/http%3A//www.adult-empire.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adult-empire.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217200457id_/http%3A//www.adult-empire.com/privacy.htm) for the most accurate reproduction.*
 
-# Adult-Empire.com NEWS
+# Adult-Empire.com Privacy
 
 | 
 
@@ -22,7 +22,7 @@ The following are representative of the types of information automatically colle
 
 We will never sell or distribute any your personal information to any third-party for any reason. 
 
-Please see our [payment processor's Privacy Policy](http://www.ibill.com/about/privacy.cfm) concerning collected information. 
+Please see our [payment processor's Privacy Policy](http://www.standardpay.com/services-client/privacy) concerning collected information. 
 
 Copyright notice. 
 
