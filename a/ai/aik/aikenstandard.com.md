@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aikenstandard.com privacy policy that was archived on 2007-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070513171838id_/http%3A//www.aikenstandard.com/service/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aikenstandard.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217232200id_/http%3A//www.aikenstandard.com/2007redesign/service/privacy.php) for the most accurate reproduction.*
 
-# Aiken Today || Find it Fast!
+# aikenstandard.com - Your trusted source for local news
 
 **[AikenToday.com](http://www.aikentoday.com/)** is committed to protecting consumer privacy online. We believe that greater protection of personal privacy on the web will not only protect consumers, but also increase consumer confidence and ultimately their participation in online activities. At **[AikenToday.com](http://www.aikentoday.com/)** we intend to give you as much control as possible over your personal information.
 
@@ -50,5 +50,3 @@ At any time while assessing our site(s), any user while online may "opt-out" of 
  **VII. Use of Materials**
 
 The right to download and store or output the materials in our site(s) is granted for the user's personal use only, and materials may not be reproduced in any edited form. Any other reproduction, transmission, performance, display or editing of these materials by any means mechanical or electronic without the express written permission of us is strictly prohibited. Users wishing to obtain permission to reprint or reproduce any materials appearing on these sites may contact us at [tobriant@aikenstandard.com](mailto:tobriant@aikenstandard.com).
-
-| 
