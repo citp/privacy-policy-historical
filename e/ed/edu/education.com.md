@@ -1,155 +1,135 @@
-> *The following text is extracted and transformed from the education.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217185449id_/http%3A//www.education.com/home/click.jsp%3Fcat%3D013%26code%3D0005) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the education.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217112900id_/http%3A//www.education.com/privacy) for the most accurate reproduction.*
 
-# education.com
+# Privacy Policy
 
-   
+### Overview
 
+This is our policy regarding the privacy of information we collect on our web sites: education.com (collectively, the “Websites”). This Privacy Policy includes examples of the types of personal information we collect and the kinds of companies with whom we share such information. These examples are illustrative and should not be considered a complete inventory of our information collection, use and sharing practices.
 
-**EDUCATION.COM'S ONLINE PRIVACY POLICY**
+#### About Children
 
-Education.com is committed to providing the best online family entertainment and learning within a trusted and secure environment. Privacy and safety issues are important to us, and to that end we want to ensure that you and your family members have a safe and rewarding experience on our site. 
+This site is not intended for children under the age of 13. We will not knowingly collect personally identifiable information via this site from visitors in this age group. We encourage parents to talk to their children about their use of the Internet and the information they disclose to Web sites.
 
-This Privacy Statement and the certification seal located above confirm that education.com is a valid licensee and participating member in the Entertainment Software Rating Board's Privacy Online Program: ESRB Privacy Online. To protect your privacy, we have voluntarily undertaken this initiative and had all of our Web sites reviewed and certified by ESRB Privacy Online to meet established online information collection and use practices. As part of this privacy program, we are subject to frequent audits of our sites and other enforcement and accountability mechanisms administered independently by ESRB Privacy Online.
+### Information We Collect and How We Use It
 
-ESRB Privacy Online is a third-party seal provider whose mission is to protect consumers' online privacy and make the Internet a secure, reliable, and private place to share information and conduct business. ESRB Privacy Online promotes and enforces established principles and guidelines for fair information practices that include requirements of full disclosure, notice, and informed consent. 
+#### Summary of Information We Gather and Track
 
-Whenever you visit a Web site that displays the ESRB Privacy Online certification seal, you can expect to be notified of: 
+We gather two types of data about users:
 
-  * Exactly what personal and demographic information may be collected and by what means; 
-  * Whether information is collected from children under 13;
-  * Who, if anyone, is collecting your personal information;
-  * How this information may be used, including with whom, if anyone, it might be shared; 
-  * The consequences, if any, resulting from your refusal to provide personal information; 
-  * How you can access and, if necessary, change the personal information a company collect and maintains; 
-  * How a company ensures data security, quality, and integrity; and
-  * Where and how to ask questions or file complaints. 
+  1. personal information, which individual users provide (i) when registering as a member of our Websites, (ii) when registering as a subscriber to one of our premium subscription services, (iii) when using Blogs, Discussion Boards, Chat Rooms, Public Forums, and Ask An Expert, (iv) when participating in surveys and polls, and (v) when participating in surveys or sweepstakes; and
+  2. tracking information, which is automatically collected about all visitors to the Websites.
 
 
 
-If you have any questions, complaints, or comments regarding our privacy statement or policies, please contact Jane Kern, Member Services, by email at [jkern@education.com](mailto:jkern@education.com), by phone toll free at (877) 508-1124, or by postal mail at: education.com, ATTN: Jane Kern, 6060 Center Dr., Los Angeles, CA 90045. You can also contact ESRB Privacy Online directly at (212) 759-0700 or by regular mail at 845 Third Avenue, New York, NY 10022. 
+#### Personal Information
 
-**
+We collect personal information in several places on our Websites, which are set forth generally below. We will always provide a secure area of our Websites for you to enter your information.
 
-What Information Is Collected?
+  * ##### Membership
 
-**
+Currently, we do not require users to become members in order to have access to the free editorial and reference articles available on our flagship site, education.com. However, if you’d like to receive one or more of our free email newsletters, gain access to the community features on our site, or comment/rate editorial content on education.com, we require you to [register here](https://web.archive.org/register/) to become a member. In order to register, you’ll have to supply us with your name, email and postal addresses, a unique User Name and password, and some additional information about you (e.g., the reason for your visit to education.com, what kind of educational materials you are interested in, etc.). Additionally, you will be required to verify your email address by clicking on the activation link in the Welcome Letter that will be sent to you upon your submission of a completed registration form.
 
-Education.com may request and collect information from you on a voluntary basis so that you can: (1) register for an education.com account; (2) fill out a survey; (3) participate in contests, chat rooms and other community features; (4) shop or purchase online; and (5) receive services that require registration or subscription, such as e-mail newsletters. The requested information may include personal identifying information such as your name, mailing address, phone number, e-mail address, date of birth and valid credit card number with expiration date. **** In addition, education.com may collect demographic information such as age, gender and hobbies. Of course, you never have to answer any of the questions we ask you, but refusal to do so may limit the services we can offer you.
+  * ##### Premium Services
 
-_
+If you’d like access to one or more of our premium subscription-based services, you first must [register](https://web.archive.org/register/) as a member as described above, and then create a unique User Name and password. We also require billing and other specified information to that we need to activate your free trial or paid subscription.
 
-Tell-a-Friend
+  * ##### Blogs, Discussion Boards, Chat Rooms, Public Forums, and Ask An Expert
 
-_
+As a service to our users, we feature Blogs, Discussion Boards, Chat Rooms, and Public Forums where users with similar interests can share information and support one another or where users can post questions for experts to answer. In addition, we offer online discussions on a variety of topics moderated by educational experts. Information shared in Blogs, Discussion Boards, Chat Rooms, Public Forums and Ask the Expert postings is accessible to the general public and may be viewed, disclosed to or collected by third parties that do not adhere to our Privacy Policy or that may use the information to send you unsolicited communications. In addition, we may retain this information as necessary to resolve disputes, provide customer support and troubleshoot problems as permitted by law. You should think carefully before disclosing any personal information in any public forum.
 
-If a user elects to use our referral service for informing a friend about our site, we ask the user for the friend's name and e-mail address. Education.com will automatically send the friend a one-time e-mail inviting them to visit the site. Education.com stores this information for the sole purpose of sending this one-time e-mail. The friend may contact education.com at [jkern@education.com](mailto:jkern@education.com) to request the removal of this information from our database.
+  * ##### Surveys/Polls
 
-**
+At certain times, you may be asked to participate in surveys, which are generally aimed at obtaining general information, such as your reactions to a particular article or feature set on our site. Because information obtained in these surveys is connected with individual subscribers and is used internally to better market our services, participation is voluntary. In addition, some columnists will on occasion take polls of their readers. Such polls are for the editorial use of the individual columnists, and participation is voluntary. We do not assure privacy of information voluntarily provided in response to a survey or poll.
 
-How Do We Use Your Personal Information?
+  * ##### Contests and Sweepstakes
 
-**
+We sometimes offer contests or sweepstakes in which certain personal information is required for registration, for purposes of verifying the entrants’ identities and notifying the winners. If the contest or sweepstakes is being administered by a third party, this information will be disclosed to that third party. However, entrants may select contest names distinct from their User Names, and the information is not connected with their User Names.
 
-The personal information you provide education.com will allow us to: (1) process orders; (2) notify contest winners and fulfill prizes; (3) solicit editorials and feedback; (4) monitor and verify education.com's compliance with stated privacy policies as well as with federal, state and local laws; (5) monitor and improve the use and satisfaction of our site; and (6) use the information for marketing and promotional purposes. We will only collect information to the extent deemed reasonably necessary to fulfill these business objectives. 
 
-**
 
-Third Parties
 
-**
+#### Tracking Information
 
-The personal identifying information you provide us is collected by and shared among education.com sites and is not disclosed to third parties without your permission. If education.com wishes to disclose your personal information, we will ask for your consent at the time you register.
+Tracking data consists of both individual and aggregated tracking information and is automatically gathered using “cookies.” A cookie is a small data file containing information, such as a user’s login name, that is written to the user’s hard drive by a web server and used to track the pages visited.
 
-However, if you place an order at the education.com On-line Store, which is operated by Digital River Inc., the personal information you provide (name, e-mail address, mailing address, credit card number and expiration date) is collected by Digital River Inc. Although Digital River Inc., not education.com, collects the personal information you provide when you order from the education.com On-line Store, education.com still requires that Digital River Inc. adhere to education.com's Privacy Policy. This means that Digital River Inc. will never share your personal information with or sell your personal information to any third parties. 
+  * ##### Our Tracking
 
-Education.com may disclose your personal information without consent, however, if we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) education.com's rights or property, other education.com users, or anyone else that could be harmed by such activities. Education.com may also disclose user information when we believe in good faith that the law requires it.
+We use cookies in several ways to track users’ navigation through our Websites. First, the information we gather on an individual basis is used for internal purposes only, such as accessing a Member Profile. We also use tracking information on an aggregate basis, to track the readership of stories and usage of our products, to analyze traffic patterns on the Websites, and to provide anonymous reporting of usage for internal and external clients. In all cases, our cookies are encoded and contain a unique digital signature to prevent tampering. They do not contain user passwords. We also employ technology that is commonly referred to as “action tags” (also known as “web beacons” or “one pixel .gif files”) to measure the effectiveness of our advertisements.
 
-In addition, education.com shares aggregate information about our users with advertisers, business partners, sponsors and other third parties. For example, we may say education.com's audience is x percent females and y percent males. This data is used to customize education.com content and advertising to deliver a better experience for our users.
+You can control your browser’s settings regarding cookies by selecting “Internet Options” or “Preferences” in the menu bar of your browser. This will allow you to prevent your browser from accepting new cookies, have your browser notify you when you receive a new cookie, or disable cookies altogether. However, because cookies allow you to easily navigate our Websites without having to constantly log in using your User Name and password, we recommend that you leave them turned on.
 
-**
+  * ##### Tracking by our contractors and agents
 
-Links
+We use third-party online business optimization software (including Omniture), to assist us in the capture and analysis of customer usage and tracking information. These service providers act as limited agents to us, for the purpose of providing their services. Any information obtained by such third parties from our users or us is and will remain our property, and will be subject to this privacy policy. We do not permit these service providers to review, share, distribute, print, or reference any session data of visitors to our Websites except as specified in our agreements with them or as may be required by law. To view the privacy policy of Omniture, [click here](http://www.omniture.com/privacy/policy). If you wish to opt out of Omniture’s information collection and analysis, follow the opt out instructions described in their privacy policy.
 
-**
+  * ##### Tracking by our Advertisers
 
-Users should also be aware that when you are on education.com, you could be directed to other sites that are beyond our control. There are links to other sites from education.com pages that take you outside our service. For example, if you click on an advertisement or an education.com search result, the click may take you off the education.com site. This includes links from advertisers, sponsors and partners that may use education.com's logo as part of a co-branding agreement. These other sites may send you their own cookies, and collect data or solicit personal information from you.
+Our advertisers include a wide variety of companies, such as financial services companies (e.g., brokerage firms, banks, and mortgage companies), computer manufacturers, software companies, automobile makers, toy manufacturers, and retail stores. Our advertisers and advertising vendors display targeted advertisements. Although we do not provide any personal information to the advertiser or advertising vendor, by interacting with or clicking on an ad you consent to the possibility that the advertiser will assume you meet the criteria used to target the add.
 
-**
+In addition to cookies placed by us or our agents, as described above, advertisers and advertising vendors that serve ads onto our web sites may use their own cookies or other tracking technologies. We are not responsible for the privacy policies or practices of any such advertisers and vendors.
 
-What About Cookies and IP Addresses?
+We use an independent network advertising server (24/7 Real Media) that delivers advertising content to the pages that you view on our Websites. If you would like to know more about the privacy practices of one such third-party ad server, please click here to view 24/7 Real Media’s privacy policy. If you wish to opt out of 24/7 Real Media’s information collection and analysis, follow the opt out instructions described in their privacy policy.
 
-**
 
-Education.com uses cookies on its Web site. Cookies are pieces of information that a Web site transfers to an individual's hard drive for record-keeping purposes. Cookies make Web-surfing easier for you by saving your preferences and browsing patterns while you're at our site. Cookies do not track individual names, e-mail addresses or other information that is personally identifiable. Cookies are necessary for some parts of the education.com service to function properly. For example, without cookies, you will not be able to set personalized preferences or you may have difficulty completing shopping transactions, entering contests, or playing games. 
 
-****
 
-Education.com also keeps track of Internet Protocol ("IP") addresses. An IP address is a number that is automatically assigned to your computer by Web servers whenever you're surfing the Web. Education.com collects IP addresses for the purposes of system administration, to report aggregate information to our advertisers, and to audit the use of our site. 
+#### Use of the Information
 
-**
+We use personal information to enhance users’ experiences on our sites.
 
-Opt-Out
+  * ##### Free Newsletters
 
-**
+If you’re a registered member, we use your email address to send you free email newsletters containing selected editorial, educational content, advertisements and links to our sites. You can select which free newsletters you would like to receive or remove yourself from our free newsletter delivery list at any time by visiting your [Member Profile page](https://web.archive.org/profile/my/).
 
-To keep you in control of your personal information and the communications directed to you, you may opt-out from: (1) having your personal information shared with our partners; (2) receiving communications from education.com about new features or services; (3) receiving communications from third-party companies offering a product or service that we think would be of value to you; and/or (4) any marketing or promotional use of your personal information. To stop any of the uses above, simply send an e-mail to [jkern@education.com](mailto:jkern@education.com) or modify your member information online by visiting the [Member profile/preferences](http://www.education.com/ourfamilyspace/profilepreferences/index.jsp) section at education.com.
+  * ##### Premium Services
 
-**
+If you’re a subscriber, we use your email address, postal address or fax number, as applicable, to deliver our premium products and services. You can view your account information at any time by visiting your [Member Profile page](https://web.archive.org/profile/my/).
 
-What Do I Do if I Want to Correct or Review My Personal Information?
+  * ##### Special Offers and Advertisements
 
-**
+We may from time to time send you special offers and advertisements for products or services offered by third parties. We will not disclose any of your personal information to such third parties when we do this. If you do not wish to receive third party offers and advertisements, please change your settings on your [Member Profile page](https://web.archive.org/profile/my/).
 
-To access, review, correct or delete the personal information already collected about you, or to remove or modify the services provided to you by education.com, please visit the [Member profile/preferences](http://www.education.com/ourfamilyspace/profilepreferences/index.jsp) section of our site or contact our Customer Support organization at [jkern@education.com](mailto:jkern@education.com), and we will be happy to review, update or remove information as appropriate. 
 
-**
 
-Safeguarding Your Personal Information
 
-**
+#### Disclosures of Information
 
-To protect your personal information, we maintain appropriate safeguards to ensure the security, integrity and privacy of the information you provide us. We exercise great care in providing secure transmission of your personal information from your PC to our servers. When credit card information is transmitted, for example, we use industry- standard SSL (secure socket layer) encryption. Once your personal information has reached and is stored on our server, the information is fully secure. 
+We do not sell or disclose the personal information about you described above to nonaffiliated companies except to provide you with products or services, when we have your permission, or under the following circumstances:
 
-**
+  * We provide personal information to nonaffiliated companies that we engage as contractors or agents to perform services for us, such as administering our Websites, systems and software; sending direct mail communications; or administering a sweepstakes or contest. Information will be shared with such contractors only to the extent reasonably necessary for them to perform services on our behalf, consistent with this privacy policy;
+  * In response to subpoenas, court orders, or legal process, from law enforcement agencies or state and federal regulators, or as otherwise required by law;
+  * To assert or defend our legal rights, including fraud prevention;
+  * To protect the rights, property, or safety of other persons;
+  * In connection with an actual or proposed corporate merger, acquisition, asset purchase, or other transaction or proceeding involving all or part of the business or assets to which the information pertains.
+  * Disclosures for Joint Marketing and Servicing: We may disclose all the information we collect as described above to other companies such as direct marketers to perform marketing services on our behalf, or other institutions with whom we have joint marketing agreements.
 
-Children Under 13 Years Old
 
-** _
 
-Information Collection and Parental Consent
+We do not disclose personal information directly or indirectly to third parties for these third parties’ own marketing purposes.
 
-_
+### Choice and Opt-out
 
-Children under 13 may not activate a KidSpace/education.com member account without the verifiable offline consent of a parent or legal guardian ("Parent"). In order to become a KidSpace member at education.com, a child must fill out a registration form that asks for a Smart ID (nickname), password, first name, state and country of residence, birth date, gender, Parent's name and e-mail address or postal address when e-mail address is unknown. We use this information to inform a Parent, via an automatically generated e-mail or postal mailing, of the child's interest and desire to become a KidSpace member. If the Parent does not respond within a reasonable amount of time from the time the information is collected, the child's information is deleted. If the Parent does respond, however, any additional information submitted by a Parent during the registration process may be retained by KidSpace/education.com. A Parent may also agree to allow education.com to collect information about his or her child without agreeing to allow the information be distributed to third parties. 
+Members may opt out of receiving updates and/or notifications by selecting “I don’t want to receive email notification” in the user profile “Account Settings”. Users who do not wish to receive newsletters may choose not to by de-selecting [confirm] “Yes, send me notifications of messages to my email address” in the user profile “Account Settings”. Newsletters and email notifications will include instructions for opting-out of those communications. If you request restrictions on our uses or disclosures of your personal information, we may comply with your request by terminating your membership and deleting your account information. Opt out requests do not affect information that we have previously disclosed.
 
-By providing offline consent and registering your child as a KidSpace member, you are consenting to allow your child to: (1) enter our contests; (2) submit artwork, creative writing, jokes, etc., to our online forums and galleries; and (3) participate in our community features such as e-mail, chat rooms (public and personal), and bulletin boards (public and personal). Please note that education.com does not condition your child's participation in any of these activities on the child's disclosing more personal information than is reasonably necessary to participate in that activity. 
+### Correcting and Updating Information
 
-_Access and Control of Child's Information_  
+We offer members the ability to correct or update online certain information we collected during registration by visiting the [Member Profile page](https://web.archive.org/profile/my/).
 
+### Security
 
-If for any reason you wish to access, review, correct or delete the personal information already collected about your child, please visit the OurFamilySpace section of our site, and click on Parental Controls. This area of our site allows you to approve, disapprove or change the list of friends your child has chosen for his or her KidSpace membership profile. In addition, along with each e-mail newsletter, we include instructions on how you may remove your child from these mailing lists. We also notify a parent whenever his or her child (KidSpace member) wins a contest, and we send an e-mail to the Parent associated with the child's account in order to get confirmation of eligibility and a mailing address. 
+We limit access to personal information about you to those employees whom we determine need access to that information to provide products or services to you. We maintain physical, electronic and procedural safeguards that comply with industry standards to guard your personal information. However, no security system is impenetrable. We cannot guarantee the security of our servers, nor can we guarantee that information that users supply will not be intercepted while being transmitted to us over the Internet.
 
-  
-**Policies for Teens (Individuals 13-17 Years of Age)**
+### Changes in this Privacy Policy
 
-Teens are asked to provide the e-mail address of a parent or guardian. If the parent or guardian e-mail address is provided, a notification message is then sent to the parent or guardian informing them of the teen's membership in education.com.
+If we decide to change our privacy policy, we will post changes to this privacy policy.
 
-  
-**Internet Safety Tips:**
+We reserve the right to modify this privacy policy at any time, so please review it before disclosing personal information on one of our Websites. If we make changes that materially affect our uses or disclosures of personally identifiable information that we have previously collected from you, we will provide a mechanism for you to opt out of the new use or disclosure.
 
-  * Keep your passwords private, even from your best friend! Your online service will never ask for them, so neither should anyone else. 
-  * Use only your member name and/or e-mail address when chatting or sending e-mail. Never give out personal information like your name, address, or phone number. 
-  * Always delete unknown e-mail attachments before opening them. They can contain destructive viruses. 
-  * Remember that nothing you write on the Web is completely private - including e-mail. So be careful and think about what you type in and whom you talk to. Not everyone is as nice, cute and funny as they may sound online. Never make plans to meet an online "friend" in person. 
+### Your Independent Relationship With Other Companies
 
-**
+Please note that this Privacy Policy will not apply to your independent relationships with other companies that from time to time may offer you products and services on the Websites. Those companies’ privacy policies will govern how they collect, use and disclose personal information that you provide to them.
 
-What if I Have a Question or Complaint?
+\--------------------
 
-**
-
-Any questions or complaints about education.com or this privacy policy can be resolved by contacting us by phone at (877) 508-1124, via e-mail at [jkern@education.com](mailto:jkern@education.com), or by writing to Jane Kern, Member Services at: education.com, ATTN: Jane Kern, 6060 Center Dr., Los Angeles, CA 90045. 
-
-_Last Updated 7/5/2001_
-
-Back
+Questions or comments regarding this policy should be directed to [privacy@education.com,](mailto:privacy@education.com,) or by writing to 2317 Broadway Street, St 240, Redwood City, CA 94063.  
+Effective: **April 06, 2007**.
