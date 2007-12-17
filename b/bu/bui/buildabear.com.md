@@ -1,15 +1,7 @@
-> *The following text is extracted and transformed from the buildabear.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213210654id_/http%3A//www.buildabear.com/AboutUs/OurCompany/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buildabear.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217020338id_/http%3A//www.buildabear.com/aboutus/ourcompany/privacy.aspx) for the most accurate reproduction.*
 
 # Build-A-Bear Workshop-United States: Privacy Policy
 
-## Build-A-Bear Workshop Privacy Policy
-
-|          | 
-
-**Scope:** This Privacy Statement applies to websites and retail stores operated by or on behalf of Build-A-Bear Workshop and its Affiliates worldwide.   
-  
----|---|---  
-  
 Personal Information:
 
   * We collect the information you provide to us, such as your name, your postal address or email address, gender or date of birth. 
