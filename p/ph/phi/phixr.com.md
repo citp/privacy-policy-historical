@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phixr.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627160945id_/http%3A//www.phixr.com/about/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phixr.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217104637id_/http%3A//www.phixr.com/about/terms) for the most accurate reproduction.*
 
 # Phixr - Online Photo Editor
 
@@ -114,12 +114,13 @@ Phixr and the Phixr logo are trademarks of Flock55 and Dr. Thomas Winischhofer, 
 Buzznet and the Buzznet logo are (registered) trademarks of Buzznet Inc. Used by express permission.  
 Costco and the Costco logo are (registered) trademarks of Costco Wholesale Corporation. Permission request pending. [[Request removal]](mailto:frontdesk@phixr.com?subject=Removal%20of%20Costco%20trademark)  
 Dropshots and the dropshots logo are (registered) trademarks of DropShots, Inc. Used by express permission.  
+Facebook and the Facebook logo are (registered) trademarks of Facebook. Used by permission (in accordance to the general permission stated [here](http://developers.facebook.com/documentation.php?doc=login_web) and to Section 6 of Facebook's "Developmer Terms of Service" dated July 25, 2007).  
 Flickr and the flickr logo are (registered) trademarks of Yahoo! Inc. Used by express permission.  
 Fotolog and the Fotolog logo are (registered) trademarks of Fotolog, Inc. Permission request pending. [[Request removal]](mailto:frontdesk@phixr.com?subject=Removal%20of%20Fotolog%20trademark)  
 Fotopic.net and the fotopic.net logo are (registered) trademarks of Fotopic.net Ltd. Used by express permission.  
 ImageShack and the ImageShack logo are (registered) trademarks of ImageShack Corp. Permission request pending. [[Request removal]](mailto:frontdesk@phixr.com?subject=Removal%20of%20ImageShack%20trademark)  
 LiveJournal and the Livejournal logo are (registered) trademarks of LiveJournal, Inc. Used by express permission.  
-Picasa and the Picasa logo are (registered) trademarks of Google Inc. Permission request pending. [[Request removal]](mailto:frontdesk@phixr.com?subject=Removal%20of%20Picasa%20trademark)  
+Picasa and the Picasa logo are (registered) trademarks of Google Inc. Used by permission.  
 Photobucket and the photobucket logo are (registered) trademarks of Photobucket, Inc. Used by express permission.  
 SmugMug and the SmugMug logo are (registered) trademarks of SmugMug, Inc. Used by express permission.  
 Webshots and the Webshots logo are (registered) trademarks of CNET Networks, Inc. Used by express permission.  
