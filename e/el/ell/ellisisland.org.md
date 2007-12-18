@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ellisisland.org privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625075109id_/http%3A//www.ellisisland.org/EIinfo/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ellisisland.org privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218162037id_/http%3A//www.ellisisland.org/EIinfo/privacy.asp) for the most accurate reproduction.*
 
 # Ellis Island - FREE Port of New York Passenger Records Search
 
@@ -47,9 +47,9 @@ SOLEIF does not collect any information from children that would allow a child t
   
 Your use of the AFIHC Experience at Ellis Island and online at www.ellisisland.org signifies that you agree to the terms of this Privacy Policy.   
   
-You can contact the Foundation at: The Statue of Liberty-Ellis Island Foundation, Inc., 292 Madison Avenue, New York, NY 10017; or by calling 212-561-4500.   
+You can contact the Foundation at: The Statue of Liberty-Ellis Island Foundation, Inc., 17 Battery Place, New York, NY 10004; or by calling 212-561-4500.   
   
-Last Updated - April 6, 2005   
+Last Updated - July 24, 2007   
   
   
 ---|---
