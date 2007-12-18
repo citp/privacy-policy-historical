@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the catchannel.com privacy policy that was archived on 2007-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070621073729id_/http%3A//www.catchannel.com/corporate/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catchannel.com privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218142134id_/http%3A//www.catchannel.com/corporate/privacy.aspx) for the most accurate reproduction.*
 
 # CatChannel.com
 
@@ -71,9 +71,10 @@ You can also edit and update your subscription account information at any time b
 ** Questions and suggestions regarding our privacy policy should be sent by e-mail to [privacy@bowtieinc.com](mailto:privacy@bowtieinc.com).  You can also reach us by mail at P.O. Box 6040, Mission Viejo, 92690. Please address your correspondence to Privacy Policy.
 
  Give us your opinion on  
-Animal Network Privacy Policy 
+Animal Network Privacy Policy
 
-    
+       
+
 
   
 
