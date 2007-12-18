@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babynology.com privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622105845id_/http%3A//www.babynology.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babynology.com privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218065006id_/http%3A//www.babynology.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement - Babynology.com
 
@@ -23,4 +23,5 @@ Contact - If you have questions about this Privacy Policy or anything else about
 
 |   
   
-Database of baby names has been compiled from various references and suggestions provided by our web site visitors and resources partners. This is just for your help as source for idea. Please do not send any request for meaning and further more suggestions. Copyright © Babynology.com
+  
+Database of baby names has been compiled from various references and suggestions provided by our web site visitors and resources partners. This is just for your help as source for idea. Please do not send any request for meaning and further more suggestions. Copyright � Babynology.com
