@@ -1,38 +1,26 @@
-> *The following text is extracted and transformed from the hustlercontent.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231050038id_/http%3A//www.hustler.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hustlercontent.com privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218014950id_/http%3A//www.hustler.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Statement for LFP, Inc.
+# Privacy Statement for LFP, Inc
 
-**Privacy Statement for LFP, Inc.**
+**Privacy Statement for LFP Internet Group, LLC**
 
-LFP, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website.      
+  
+LFP Internet Group, LLC. (“LFP”) has created this privacy statement in order to demonstrate our commitment to privacy. The following discloses our information gathering and dissemination practices for the websites operated by us.      
 
-We use your IP address to help diagnose problems with our server, and to administer our website. Your IP address is used to help identify you and to gather broad demographic information. 
+Because of the way that World Wide Web communication standards work, when you arrive at or leave our website, we automatically receive the IP address of the site that you came from or are going to. We use IP addresses primarily to optimize website presentation, control website access, and improve server performance. IP addresses may also be used to help identify visitors and to gather broad demographic information. We also collect information on which pages of our website you visit while you are on our website, the type of browser you use and the times you access our website. We use this information only to try to understand our member/ subscriber's preferences better and to manage the load on our servers, so as to improve our service and your experience with our website. 
 
-Our site's subscription form requires users to give us contact information (to include names and E-mail addresses), financial information (to include account or credit card numbers). We use customer contact information from the subscription form to send the user information about our company and promotional material from some of our partners. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
+"Cookies" are small files of data that reside on your computer and allow us to recognize you as a member, subscriber or prior visitor if you return to our website using the same computer and browser. We send a "session cookie" to your computer if and when you log in to your membership account by entering your e-mail address and password. These cookies allow us to recognize you if you visit multiple pages in our site during the same session, so that you don't need to re-enter your password multiple times. Once you log out or close your browser, these session cookies expire and no longer have any effect. 
 
-This site contains links to other sites. LFP, Inc. is not responsible for the privacy practices or the content of other such websites. Selection of an ad banner or link redirects User to a third party. Transactions that occur between the User and the third party are strictly between the User and the third party and are not the responsibility of LFP, Inc. Because LFP, Inc. is not responsible for the availability of these outside resources or their privacy policy or content, User should direct any concerns regarding any external link to its site administrator or Webmaster. 
+We also may use longer-lasting cookies to display your e-mail address on our sign-in form, so that you don't have to retype the e-mail address each time when you log in to your membership account. In addition, we use cookies to process our referral program, described in Section C below. Our cookie files are encoded so that your e-mail address and other information can only be interpreted by LFP. We may, however, share cookie information regarding whether or not a certain user is already registered with LFP with certain merchants, partners and third-parties with whom we have an official relationship.
 
-Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (to include E-mail addresses), and financial information (to include account or credit card numbers). Contact information from the order form is used to send orders, information about our company, and promotional material from some of our partners to our customers. The customer's contact information is also used to get in touch with the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
+Subscription/purchase forms on our websites collect contact and financial information. Contact information is primarily used to communicate with members/ subscribers when necessary about membership, product or billing-related concerns.  Contact information may also be used to convey promotional opportunities from us or our LFP Internet-approved partners.  Financial information that is collected is used to check the users' qualifications and to bill the user for products and services ordered. We may disclose information that we in good faith believe is appropriate to cooperate in investigations of fraud or other illegal activity, or to conduct investigations of violations of our User Agreement. For example, this means that if we conduct a fraud investigation and conclude that one side has engaged in deceptive practices, we can give that person or entity's contact information (but not credit card information) to victims who request it. Furthermore, we do disclose information in response to a subpoena, warrant, court order, levy, attachment, order of a court-appointed receiver or other comparable legal process, including subpoenas from private parties in a civil action. 
 
-Financial information that is collected is used to check the users' qualifications and to bill the user for products and services ordered. 
+Our websites often contain links to other websites (“third-party websites”). LFP is not responsible for the privacy practices or the content of other such websites.  Transactions that occur between the User and third parties are strictly between the User and the third party and are not the responsibility of LFP. Furthermore, we are not responsible for the availability, privacy practices, policies or content of third party websites. Any concerns regarding third-party websites should be directed to the respective administrator(s) of such third-party website(s). 
 
-This site makes chat rooms, forums, message boards, and/or news groups. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
+Websites operated by LFP may contain chat rooms, forums, message boards, and/or news groups. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
 
-**To Opt Out of receiving future mailings and/or promotions:**
+By accepting the Terms and Conditions in registration, a member /subscriber (“you”) expressly consents to our use and disclosure of your personal information in the manner described in this Privacy Policy. This Privacy Policy is incorporated into and subject to the terms of our User Agreement. This Privacy Policy  was last updated on January 1, 2007.
 
-  1. You can send email to support@hustler.com 
-  2. You can send mail to the following postal address: 
+Please note that your personal information will be stored and processed on our computers in the United States. The laws on holding personal data in the United States may be less stringent than the laws of your country but LFP will hold and transmit your personal information in a safe, confidential and secure environment. If you object to your personal information being transferred or used as described in this Privacy Policy, please do not subscribe, join or seek membership at our website. If you send us correspondence, including e-mails and faxes, we retain such information in the records of your account. We will also retain customer service correspondence and other correspondence from LFP to you. We retain these records in order to measure and improve our customer service, and to investigate potential fraud and violations of our User Agreement. We may, over time, delete these records if permitted by law. 
 
-
-
-Consumer Protection Dept.  
-5701 Lindero Canyon Road #2-200  
-Westlake Village, CA 91362 
-
-**To Deactivate your membership:**
-
-  1. Call the following telephone number: 1-888-205-0489 
-  2. Visit http://www.internetventures.com 
-  3. Send an e-mail to: help@cs.billingservices.com 
-
-
+For questions regarding this privacy statement, please contact [support@hustler.com](mailto:support@hustler.com).
