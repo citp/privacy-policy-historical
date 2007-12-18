@@ -1,20 +1,28 @@
-> *The following text is extracted and transformed from the verizonwireless.com privacy policy that was archived on 2005-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050507105748id_/http%3A//www.verizonwireless.com/b2c/footer/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verizonwireless.com privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218153101id_/http%3A//www.verizonwireless.com/b2c/globalText%3FcontentType%3DglobalContent) for the most accurate reproduction.*
 
-# Verizon Wireless Privacy Statement
+# Privacy
 
-[ ](http://www.truste.org/ivalidate.php?url=www.verizonwireless.com)
+### Customer Proprietary Network Information Consent Form (for Arizona Business Customers Only):
 
-Effective Date: This policy was last updated on 02/14/2005.
+[ English](https://web.archive.org/pdfs/AZ_CPNI_Consent.pdf)
+
+[ Spanish](https://web.archive.org/pdfs/AZ_CPNI_Consent_Spanish.pdf)
+
+### Internet Privacy
+
+Effective Date: This policy was last updated on 01/31/2007.
 
 Verizon Wireless strives to maintain high standards for the protection of privacy over the Internet. The purpose of this statement is to explain to our visitors the type of information Verizon Wireless obtains about visitors to our websites, how we gather it, how we use it, how long we retain it, and how visitors can restrict the use or disclosure of personally identifiable information.
 
+[ ](http://www.truste.org/ivalidate.php?url=www.verizonwireless.com)
+
 ### Verizon Wireless as a licensee of the TRUSTe privacy program
 
-The TRUSTe seal confirms that Verizon Wireless is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. If you have questions or concerns regarding this statement, you should first [contact us](http://www.verizonwireless.com/b2c/vzwfly?go=/ContactUsControllerServlet&item=_FAQ_TOPIC&navigationLinkOptions=GLOBAL_HEADER). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with the website to resolve your concerns.
+The TRUSTe seal confirms that Verizon Wireless is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. If you have questions or concerns regarding this statement, you should first [contact us](https://web.archive.org/b2c/vzwfly?go=/ContactUsControllerServlet&navigationLinkOptions=GLOBAL_HEADER). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with the website to resolve your concerns.
 
 ### Information we collect
 
-The personal information Verizon Wireless obtains about individual visitors to our websites is information the visitor supplies voluntarily. This means that you can visit our websites without telling us who you are or revealing any information about yourself. To gauge the effectiveness of our websites, we do collect some generic information about our visitors. Our web servers automatically recognize a visitor's domain name (such as .com, .edu, etc.), the point of entry from which a visitor enters our site including web pages, User Guide CDs or banner ads, which pages a visitor visits on our site, and how much time a visitor spends on each page. This information is not linked to any personally identifiable information about the visitor. We or our contractors use web beacons (i.e., "cookies") to track use of our sites and to track what sites users came from, but do not collect personally identifiable information via these web beacons. We aggregate this information and use it to evaluate and improve our websites. We do not track user activity on sites outside of Verizon Wireless. 
+The personal information Verizon Wireless obtains about individual visitors to our websites is information the visitor supplies voluntarily. This means that you can visit our websites without telling us who you are or revealing any information about yourself. To gauge the effectiveness of our websites, we do collect some generic information about our visitors. Our web servers automatically recognize a visitor's domain name (such as .com, .edu, etc.), the point of entry from which a visitor enters our site including web pages, User Guide CDs or banner ads, which pages a visitor visits on our site, and how much time a visitor spends on each page. This information is not linked to any personally identifiable information about the visitor. We or our contractors use web beacons (i.e., "cookies") to track use of our sites and to track what sites users came from, but do not collect personally identifiable information via these web beacons. We aggregate this information and use it to evaluate and improve our websites. We do not track user activity on sites outside of Verizon Wireless.
 
 Verizon Wireless may collect personally identifiable information (such as name, email address, postal address) and/or third party personally identifiable information through this website. In some situations, such as when you order a product or service online or register for online billing, Verizon Wireless will collect billing information, such as your credit card number and billing address, and we may share this information with our third parties contractors (such as your credit card company solely for the purpose of processing the transaction you have requested). You may choose to provide individual information to Verizon Wireless in a number of ways through our websites such as by:
 
@@ -58,7 +66,7 @@ The Verizon Wireless websites contain links to other sites. We are not responsib
 
 ### Updating your information
 
-Users may access, correct, and update information they have provided to Verizon Wireless by visiting our websites and utilize our Customer Care application. The Contact Us area of the site contains email links by which users can send in information updates.
+Users may access, correct, and update information they have provided to Verizon Wireless by visiting our websites and utilize our Customer Service application. The Contact Us area of the site contains email links by which users can send in information updates.
 
 ### Notice of changes
 
@@ -66,9 +74,4 @@ Verizon Wireless will provide 30 days notice on our web site of any material cha
 
 ### Contacting us
 
-For inquiries regarding our privacy statement, [contact us](http://www.verizonwireless.com/b2c/vzwfly?go=/ContactUsControllerServlet&item=_FAQ_TOPIC&navigationLinkOptions=GLOBAL_HEADER). Or send your comments to:
-
-Legal Counsel, S3054  
-Verizon Wireless  
-30 Independence Boulevard  
-Warren, NJ 07059
+For inquiries regarding our privacy statement, [contact us](https://web.archive.org/b2c/vzwfly?go=/ContactUsControllerServlet&navigationLinkOptions=GLOBAL_HEADER).
