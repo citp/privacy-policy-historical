@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zoompanel.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629235756id_/http%3A//www.zoompanel.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoompanel.com privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218105629id_/http%3A//www.zoompanel.com/privacy.asp) for the most accurate reproduction.*
 
 # ZoomPanel : Privacy Policy
 
@@ -161,6 +161,6 @@ We adhere to the principles set forth in the Safe Harbor framework as establishe
 
 ^ back to top
 
-[Join Now](https://web.archive.org/join.asp) | [Privacy Policy](https://web.archive.org/privacy.asp) | [Terms of Service](https://web.archive.org/termsZP.asp) | [Cancel Account](http://deploy.ztelligence.com/start/survey/survey_taking.jsp?PIN=137NME7VMEQNG) | [Contact Us](https://web.archive.org/contact.asp)
+[Join Now](http://join.zoompanel.com/zoompanel?source=ZPOR&master_id=1&source_creative_id=9999&promo_id=9999) | [Privacy Policy](https://web.archive.org/privacy.asp) | [Terms of Service](https://web.archive.org/termsZP.asp) | [Cancel Account](http://deploy.ztelligence.com/start/survey/survey_taking.jsp?PIN=137NME7VMEQNG) | [Contact Us](https://web.archive.org/contact.asp)
 
 Copyright ©2002-2007 MarketTools, Inc. All rights reserved. MarketTools is a registered trademark of MarketTools, Inc. ZoomPanel and the corporate logo are trademarks of MarketTools, Inc. Other marks referenced herein are the property of their respective owners.
