@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the digitalbattle.com privacy policy that was archived on 2007-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070105202255id_/http%3A//digitalbattle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalbattle.com privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218140159id_/http%3A//digitalbattle.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy » DigitalBattle
+# Privacy Policy : DigitalBattle
+
+Browse >
+
+[Home](http://www.digitalbattle.com/ "Browse to: Home") / Privacy Policy 
 
 The types of personal information collected when posting a comment/contacting DigitalBattle:
 
@@ -33,4 +37,4 @@ The web server, on which this site is hosted, automatically records information 
 
 **How To Contact Us**
 
-Should you have other questions or concerns about these privacy policies, please contact us using our [Contact page](http://digitalbattle.com/contact/) or write an email to contact (at) digitalbattle (dot) com 
+Should you have other questions or concerns about these privacy policies, please contact us using our [Contact page](http://digitalbattle.com/contact/) or write an email to contact (at) digitalbattle (dot) com
