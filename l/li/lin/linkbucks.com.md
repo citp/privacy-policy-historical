@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linkbucks.com privacy policy that was archived on 2007-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070602150640id_/http%3A//www.linkbucks.com/Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkbucks.com privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218185038id_/http%3A//www.linkbucks.com/Policy) for the most accurate reproduction.*
 
 # Linkbucks.com - Make money when people leave your website!
 
