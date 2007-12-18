@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the egg2.com privacy policy that was archived on 2007-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070614031446id_/http%3A//egg2.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the egg2.com privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218084005id_/http%3A//www.egg2.com/privacy.htm) for the most accurate reproduction.*
 
 # Egg2 Free Online Games - Privacy Policy
 
