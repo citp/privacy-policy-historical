@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the quizfarm.com privacy policy that was archived on 2007-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070503172211id_/http%3A//www.quizfarm.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quizfarm.com privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218062800id_/http%3A//www.quizfarm.com/privacy_policy.php) for the most accurate reproduction.*
 
-# QuizFarm.com
+# 
+
+Privacy Policy
 
 We are committed to protecting the privacy and security of the users of our sites.
 
@@ -63,6 +65,8 @@ Currently, we have relationships with the following third-party ad networks:
 24/7 Real Media, Inc.  
 <http://www.247realmedia.com/privacy.html> (click to visit their Web site) 
 
+<http://www.everyone.net/p_policy.html> (click to visit their Web site)
+
 Privacy of Children
 
 We understand that young people need special safeguards and privacy protection. We realize that they may not understand all the provisions of our policy or be able to make thoughtful decisions about the choices that are made available to our adult users. We strongly urge all parents to participate in their children's exploration of the Internet and any online services, and to teach their children about protecting their personal information while online.
@@ -113,4 +117,4 @@ Your Acceptance of These Terms
 
 By using any of the Sites, you signify your acceptance of our Privacy Policy, our Site Terms & Conditions and any other policies made available to you. If you do not agree to these policies, please do not use our Sites. Your continued use of the Sites following the posting of changes to these policies will mean that you accept those changes.
 
-(Effective Date: This policy was last modified on January 12, 2007.)
+(Effective Date: This policy was last modified on May 18, 2007.)
