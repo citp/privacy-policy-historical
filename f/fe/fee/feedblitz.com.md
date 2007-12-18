@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the feedblitz.com privacy policy that was archived on 2007-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070621131445id_/http%3A//www.feedblitz.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the feedblitz.com privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218225207id_/http%3A//www.feedblitz.com/privacy.asp) for the most accurate reproduction.*
 
 # FeedBlitz Privacy Policy
 
@@ -24,5 +24,5 @@ FeedBlitz will not permit third-party cookies to track your activity on the Feed
 
 The FeedBlitz web server and parts of the FeedBlitz application log activity to file. We use logs to provide site-wide reporting, to ensure smooth operation of the services FeedBlitz delivers, and for general web site and application maintenance. Like almost all Internet servers, logged information may include timestamps, your client IP address (as it appears to the server), and the page(s) you visit. Our detailed server logs will not be shared with any third party. We may however elect to publish aggregate statistics on visitor activity from time to time based on log information (e.g. "we had 1,234 visitors yesterday"). We will never publish any personally identifiable information in these analyses. 
 
-If you have any questions about FeedBlitz privacy policies please read the [FAQs](https://web.archive.org/web/20070621131445id_/http%3A//www.feedblitz.com/faq.asp) or [contact us](https://web.archive.org/web/20070621131445id_/http%3A//www.feedblitz.com/contact.asp).   
+If you have any questions about FeedBlitz privacy policies please read the [FAQs](https://web.archive.org/web/20071218225207id_/http%3A//www.feedblitz.com/faq.asp) or [contact us](https://web.archive.org/web/20071218225207id_/http%3A//www.feedblitz.com/contact.asp).   
  
