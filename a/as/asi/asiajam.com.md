@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asiajam.com privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608110733id_/http%3A//www.asiajam.com/catalog/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asiajam.com privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218072041id_/http%3A//www.asiajam.com/catalog/privacy.php) for the most accurate reproduction.*
 
 # AsiaJam.com Fashion Boutique
 
@@ -8,11 +8,11 @@
 |   
 ---  
   
-[](http://www.asiajam.com/catalog/product_info.php/products_id/20?osCsid=002a2f30e67b261e8e685a2c4574f8af)
+[](http://www.asiajam.com/catalog/product_info.php/products_id/1132)
 
-Mid-Calf Lace Leggings
+Circus Stripe Wide PVC Headband
 
-$9.90  
+$4.50  
   
 Privacy Policy
 
