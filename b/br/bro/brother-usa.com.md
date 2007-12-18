@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the brother-usa.com privacy policy that was archived on 2007-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070426175928id_/http%3A//www.brother-usa.com/disclaimer.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brother-usa.com privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218181821id_/http%3A//www.brother-usa.com/disclaimer.aspx) for the most accurate reproduction.*
 
 # Brother International - Privacy Statement
-
-| 
 
 **BROTHER INTERNATIONAL CORPORATION  
 PRIVACY STATEMENT**
@@ -122,5 +120,3 @@ Fax 1-800-947-1445
 Postal Address: Brother International Corporation, 100 Somerset Corporate Blvd, Bridgewater, New Jersey 08807, Attn: Legal Department
 
 Website URL ([http://www.brother-usa.com](http://www.brother-usa.com/)) 
-
-| 
