@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icslearn.co.uk privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623033034id_/http%3A//www.icslearn.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icslearn.co.uk privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218073916id_/http%3A//www.icslearn.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # 
 
@@ -20,7 +20,7 @@ You may be asked to disclose personal information to us so that we can provide a
 Non-personally identifiable information we collect: Cookies/Web server logs: similar to other commercial websites, our website uses standard technology called “cookies” and web server logs to collect information about how our webs site is used.  Cookies are a feature of web browser software that allows web servers to recognize the computer used to access a web site.  Cookies are small pieces of data that are stored by a user’s web browser on the user’s hard drive.  Information gathered through cookies and web server logs may include the date and time of visits, the pages viewed, time spent at our web site and the web sites visited just before and just after our web site.  This information is collected on an aggregate basis.  None of this information is associated with you as an individual.  You can, of course, disable cookies on your computer by indicating this in the preference or options menus in your browser.  However, it is possible that some parts of our website will not operate correctly if you disable cookies.  You should consult with your browser’s provider/manufacturer if you have any questions regarding disabling cookies.
 
 **How we use your information**  
-We would like to use this personal data to provide you with information about our products and services and those of other Thomson companies.  You will be asked to confirm your agreement to us when you enter your details.
+We would like to use this personal data to provide you with information about our products and services and those of other Cengage companies.  You will be asked to confirm your agreement to us when you enter your details.
 
  **We will not pass on your details to any third party.**
 
@@ -28,7 +28,7 @@ We would like to use this personal data to provide you with information about ou
 If you visit our Web site and volunteer personally identifiable information, you may modify, update or delete such information at any time by visiting [www.icslearn.co.uk]() where you will have the opportunity to access and revise certain of your personally identifiable information and to update your preferences regarding what information you want to receive from us. You can do this by editing your profile through logging on and visiting <http://www.icslearn.co.uk/Profile>, or by visiting the Contact Us page and sending us an email.
 
  **Links to Third Party sites**   
-This Web Site contains links to third party sites as well as to other sites owned and/or operated by other Thomson companies.  Please be aware that we are not responsible for the privacy practices of any third party sites.  Please also be aware that the privacy policies of other Thomson sites may differ significantly from the privacy policy of this Web Site.  Therefore we encourage you to read the privacy statement of each and every web site that collects personally identifiable information.
+This Web Site contains links to third party sites as well as to other sites owned and/or operated by other Cengage companies.  Please be aware that we are not responsible for the privacy practices of any third party sites.  Please also be aware that the privacy policies of other Cengage sites may differ significantly from the privacy policy of this Web Site.  Therefore we encourage you to read the privacy statement of each and every web site that collects personally identifiable information.
 
  **Changes to our policies**  
 From time to time, we may change our privacy policies. If we make a change, it will not affect the choices you have made about any information you gave us before that change. Any changes will be reflected in our Privacy Statements.
@@ -56,4 +56,4 @@ ICS Limited
 Glasgow  
 G3 8JU
 
- _Updated 12/04/06_
+ _Updated 31/10/07_
