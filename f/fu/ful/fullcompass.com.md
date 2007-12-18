@@ -1,12 +1,9 @@
-> *The following text is extracted and transformed from the fullcompass.com privacy policy that was archived on 2007-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070614190451id_/http%3A//www.fullcompass.com/news/88.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fullcompass.com privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218080838id_/http%3A//www.fullcompass.com/news/88.html) for the most accurate reproduction.*
 
 # Privacy Statement | Full Compass
 
-**800-476-9886** | 608-227-3000 | Fax: 608-831-1890   
-**Monday - Friday 9:00 - 5:30, Saturday 10:00 - 4:00 CST**
-
 **800-356-5844** | 608-831-7330 | Fax: 608-831-6330   
-**Monday -Friday 9:00 - 5:30 CST**   
+**Monday - Friday 9:00 - 5:30 CST**   
 ¡Expertos que hablan Español disponibles en x1178 Y x1164!
 
 #### What Information Do We Collect?
@@ -20,7 +17,7 @@
 
 #### How We Use Collected Information
 
-We use collected information for the purpose of administering our business activities such as completing and tracking orders, customer service, communicating with customers, administering giveaways and other promotions, customizing the shopping experience, troubleshooting, improving the website design and functionality, and other business uses. From time to time, we may send you promotional messages by mail or email. You will always have the option to opt out of such communications ([see below](http://www.fullcompass.com/news/88.html#optout)).
+We use collected information for the purpose of administering our business activities such as completing and tracking orders, customer service, communicating with customers, administering giveaways and other promotions, customizing the shopping experience, troubleshooting, improving the website design and functionality, and other business uses. From time to time, we may send you promotional messages by mail or email. You will always have the option to opt out of such communications ([see below](https://web.archive.org/news/88.html#optout)).
 
 We do not intentionally share your information with third parties except as required by law or to facilitate business operations (such as shipping partners and payment processors).
 
@@ -44,7 +41,7 @@ Please feel free to call us if you need any special accommodations regarding you
 
 #### How You Can Review or Correct Your Information
 
-To review or correct your personal information, or to change your communication preferences, please call us at 800-356-5844. Your Sales Pro will be glad to help. You may choose to stop receiving promotional communications at any time. If you have subscribed to any of our email newsletters, you may unsubscribe [here](http://www.fullcompass.com/emaillist_subscribe.php).
+To review or correct your personal information, or to change your communication preferences, please call us at 800-356-5844. Your Sales Pro will be glad to help. You may choose to stop receiving promotional communications at any time. If you have subscribed to any of our email newsletters, you may unsubscribe [here](https://web.archive.org/emaillist_subscribe.php).
 
 #### Links to Other Websites
 
