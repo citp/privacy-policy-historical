@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fws.gov privacy policy that was archived on 2006-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061227231031id_/http%3A//www.fws.gov/help/policies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fws.gov privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218144821id_/http%3A//www.fws.gov/help/policies.html) for the most accurate reproduction.*
 
-# Privacy and Other Web Policies--U.S. Fish and Wildlife Service
+# Fish and Wildlife Service
 
 **PRIVACY STATEMENT**
 
@@ -77,8 +77,4 @@ There are procedures for obtaining approval for the use of the official Service 
 
 The restrictions described above apply also to the use of the images of the [Federal Duck Stamps](http://www.fws.gov/duckstamps) and the [Federal Aid in Wildlife Restoration and Federal Aid in Sport Fish Restoration symbols](http://www.fws.gov/federalaid/info/falogos.html), and the "[blue goose](http://policy.fws.gov/library/99fr33904a.html)" image used to identify wildlife refuges. 
 
-Comments? Questions? Please check our answers to [Frequently Asked Questions](http://www.fws.gov/faq) (FAQ's) before you [contact us](http://www.pueblo.gsa.gov/fws/contactus.htm) . 
-
-Last updated: August 30, 2006
-
-* * *
+Comments? Questions? Please check our answers to [Frequently Asked Questions](http://www.fws.gov/faq) (FAQ's) before you [contact us](http://www.fws.gov/duspit/contactus.htm) . 
