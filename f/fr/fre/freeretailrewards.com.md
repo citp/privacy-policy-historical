@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeretailrewards.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629200543id_/http%3A//members.freeretailrewards.com/Info/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeretailrewards.com privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218054913id_/http%3A//members.freeretailrewards.com/Info/pp) for the most accurate reproduction.*
 
 # Info
 
@@ -6,7 +6,7 @@
 
 * * *
 
-EFFECTIVE DATE: FEBRUARY 08, 2007
+EFFECTIVE DATE: FEBRUARY 08, 2007 
 
 BY VISITING THIS WEBSITE AND REQUESTING INFORMATION, PRODUCTS OR SERVICES THERON, YOU AGREE TO BE BOUND BY THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY. IF YOU DO NOT AGREE WITH THE TERMS OF THIS PRIVACY POLICY, PLEASE DO NOT PROVIDE ANY INFORMATION OR USE ANY OF THE SERVICES OR PRODUCTS OFFERED OR PROVIDED ON ANY OF THE WEBSITES REFERRED TO IN THIS PRIVACY POLICY.
 
