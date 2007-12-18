@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the starwars.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623093942id_/http%3A//www.starwars.com/welcome/about/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starwars.com privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218065143id_/http%3A//starwars.com/welcome/about/privacy_policy.html) for the most accurate reproduction.*
 
 # Star Wars: Welcome | Privacy Policy
 
@@ -29,7 +29,7 @@ Please discuss this Privacy Policy with your children so that they will better u
 
 Generally, we limit the collection of information to what is known as non-personally identifiable information (e.g., first name, age, state or country). We also collect certain types of personal information such as an email address. This information is collected so that visitors can participate in activities (such as, receiving our e-mail newsletter[s], saving game designs and scores, participating in our question polls). 
 
-We have many Web sites that contain different activities for you and your family. Some sites are informational only and some collect your personally identifiable information so that you may participate in different activities. The following sites allow children to register following the receipt of parental consent: www.starwars.com; lucasarts.com and indianajones.com. 
+We have many Web sites that contain different activities for you and your family. Some sites are informational only and some collect your personally identifiable information so that you may participate in different activities. The following sites allow children to register following the receipt of parental consent: www.starwars.com and lucasarts.com. 
 
 In addition, our www.starwars.com site includes a paid membership section, Hyperspace membership, which collects additional personally identifiable information which is not collected for free memberships. Free membership registration requires only the collection of your full name, e-mail address and the creation of a screen name. Hyperspace membership in addition requires the collection of your mailing address and credit/debit card information required for purchasing the membership. Hyperspace members have the ability to participate in activities which free members cannot access, such as special forum participation. 
 
@@ -185,7 +185,7 @@ The TRUSTe Children's Online Privacy Seal Program covers only personally identif
 
 **To What Web sites does this Privacy Policy Apply?**
 
-The terms of this Privacy Policy apply to all information submitted on the following Web sites: www.starwars.com, www.indianajones.com, www.ilm.com, www.lucasfilm.com, www.lucaslearning.com, and www.skysound.com and not to information that may be submitted to us offline. In addition, the terms shall only apply to Web sites owned and operated by Lucasfilm Ltd. or any of its affiliated, subsidiary or related corporate entities (such as Lucasfilm Ltd., Lucas Licensing Ltd., Lucas Online, Lucas Digital Ltd. LLC, LucasArts, Lucas Learning Ltd., ILM, Skywalker Sound), as well as to some of our selected corporate partners and licensees who have agreed to abide by our Privacy Policy. It does not otherwise apply to any independently operated Web sites, for which separate privacy policies and terms of use shall apply. Finally, since this Privacy Policy is intended to protect individuals. 
+The terms of this Privacy Policy apply to all information submitted on the following Web sites: www.starwars.com, www.ilm.com, www.lucasfilm.com, www.lucaslearning.com, and www.skysound.com and not to information that may be submitted to us offline. In addition, the terms shall only apply to Web sites owned and operated by Lucasfilm Ltd. or any of its affiliated, subsidiary or related corporate entities (such as Lucasfilm Ltd., Lucas Licensing Ltd., Lucas Online, Lucas Digital Ltd. LLC, LucasArts, Lucas Learning Ltd., ILM, Skywalker Sound), as well as to some of our selected corporate partners and licensees who have agreed to abide by our Privacy Policy. It does not otherwise apply to any independently operated Web sites, for which separate privacy policies and terms of use shall apply. Finally, since this Privacy Policy is intended to protect individuals. 
 
 **CONTACT INFORMATION:**
 
