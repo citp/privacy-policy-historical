@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the limelife.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630011157id_/http%3A//www.limelife.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the limelife.com privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218213814id_/http%3A//limelife.com/privacy_policy.php) for the most accurate reproduction.*
 
 # LimeLife
 
@@ -10,9 +10,9 @@ LimeLife is committed to protecting the personal information collected about you
 
 LimeLife provides this general audience site for users of all ages. Section 3 of this Privacy Policy contains specific details regarding personal information collected from children.
 
-This Privacy Policy applies only to information submitted and collected online through the Site, and does not apply to information that may be collected by LimeLife offline and is incorporated into our LimeLife [ Terms of Use](https://web.archive.org/web/20070630011157id_/http%3A//www.limelife.com/terms_of_use.php).
+This Privacy Policy applies only to information submitted and collected online through the Site, and does not apply to information that may be collected by LimeLife offline and is incorporated into our LimeLife [ Terms of Use](https://web.archive.org/web/20071218213814id_/http%3A//limelife.com/terms_of_use.php).
 
-Your use of the LimeLife, Inc. ( **“LimeLife”** ) web site (the **“Site”** ), and any dispute over privacy, is subject to this Privacy Policy and our Terms of Use, including limitations on damages and application of the law of the State of California. LimeLife reserves the right, at our discretion, to change, update or modify this Privacy Policy and/or our [ Terms of Use](https://web.archive.org/web/20070630011157id_/http%3A//www.limelife.com/terms_of_use.php), at any time by posting such change, update or modification on the Site. Any such change, update or modification will be effective immediately upon posting on the Site. Please check this policy periodically for changes. Your continued use of the Site following the posting of changes will mean you accept those changes. Use of information that we gather now is subject to the Privacy Policy in effect at the time of use.
+Your use of the LimeLife, Inc. ( **“LimeLife”** ) web site (the **“Site”** ), and any dispute over privacy, is subject to this Privacy Policy and our Terms of Use, including limitations on damages and application of the law of the State of California. LimeLife reserves the right, at our discretion, to change, update or modify this Privacy Policy and/or our [ Terms of Use](https://web.archive.org/web/20071218213814id_/http%3A//limelife.com/terms_of_use.php), at any time by posting such change, update or modification on the Site. Any such change, update or modification will be effective immediately upon posting on the Site. Please check this policy periodically for changes. Your continued use of the Site following the posting of changes will mean you accept those changes. Use of information that we gather now is subject to the Privacy Policy in effect at the time of use.
 
 ##  Information Collected and Use 
 
@@ -24,7 +24,7 @@ In general, you can visit the Site without revealing any information about yours
 
   * Registration — When you register with us through the Site we may ask you for some Personal Information. LimeLife may use your Personal Information to send you information about LimeLife or our products, or to send you our newsletter or other information that may be of interest to you. During the registration process you are given the opportunity to opt-in to the receipt of such information from us in the future. If you decide at any time that you no longer wish to receive such information from us, you may follow the unsubscribe instructions provided in the communication or you may also update or delete your registration profile. (See “Access/Removal of Your Personal Information”, below.) 
   * Promotions — If you choose to participate in one of our sweepstakes, contests and promotions we may also collect your Personal Information to administer your entry. We may also use Personal Information from you to contact you regarding the selection of prizewinners and to award prizes. 
-  * “Daily Dose” Subscription Service — When you subscribe to Daily Dose we will collect Personal Information from you to administer the Service, confirm your subscription and deliver you the content you have requested. We may also ask for your cellular phone carrier. This Service is governed by the [ Daily Dose Terms of Service](https://web.archive.org/web/20070630011157id_/http%3A//www.limelife.com/daily_dose_terms.php). 
+  * “Daily Dose” Subscription Service — When you subscribe to Daily Dose we will collect Personal Information from you to administer the Service, confirm your subscription and deliver you the content you have requested. We may also ask for your cellular phone carrier. This Service is governed by the [ Daily Dose Terms of Service](https://web.archive.org/web/20071218213814id_/http%3A//limelife.com/daily_dose_terms.php). 
 We also collect information that cannot be used to identify you personally that you provide as part of registration and your entry into all sweepstakes, contests or promotions (e.g., without limitation, gender and zip code) ( **“Aggregate Demographic Information”** ). We combine your Personal Information with the Aggregate Demographic Information to provide you with a better experience and improve the quality and value of the Services. 
 
 
@@ -64,4 +64,4 @@ If you want us to remove your Personal Information from our database, or would l
 
 ##  Contact Us 
 
-If you have any questions or comments regarding this Privacy Policy or our information collection practices, please contact us using the information [ here](https://web.archive.org/web/20070630011157id_/http%3A//www.limelife.com/contact_us.php). 
+If you have any questions or comments regarding this Privacy Policy or our information collection practices, please contact us using the information [ here](https://web.archive.org/web/20071218213814id_/http%3A//limelife.com/contact_us.php). 
