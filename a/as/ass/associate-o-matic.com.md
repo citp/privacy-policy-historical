@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the associate-o-matic.com privacy policy that was archived on 2007-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070428134125id_/http%3A//www.associate-o-matic.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the associate-o-matic.com privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218150515id_/http%3A//www.associate-o-matic.com/privacy.html) for the most accurate reproduction.*
 
 # Associate-O-Matic :: Privacy Policy
 
