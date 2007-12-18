@@ -1,0 +1,656 @@
+<!--The following is the downloaded HTML source of the athlinks.com privacy policy that was archived on 2007-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071218185351id_/http%3A//www.athlinks.com/helpPrivacy.aspx) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
+    <title>Athlinks Help - Privacy Policy</title>
+    <meta name="GENERATOR" content="Microsoft Visual Studio .NET 7.1">
+    <meta name="CODE_LANGUAGE" content="C#">
+    <meta name="vs_defaultClientScript" content="JavaScript">
+    <meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
+	<script language="javascript" src="/scripts/dom.js"></script>
+	<script language="javascript" src="/scripts/common.js"></script>
+	<script language="javascript" src="/scripts/ButtonHandler.js"></script>
+	<script language="javascript" src="/scripts/jquery.js"></script>
+	<script language="javascript" src="/scripts/thickbox.js"></script>
+	<link rel="stylesheet" type="text/css" href="/styles/default.css">
+	<link rel="stylesheet" type="text/css" href="/styles/thickbox.css">
+  </head>
+  <body onsubmit="return TestSubmit();">
+	
+    <form name="Form1" method="post" action="helpPrivacy.aspx" id="Form1">
+<input type="hidden" name="__VIEWSTATE" value="dDwxOTE5NDg5NTUzO3Q8O2w8aTwwPjs+O2w8dDw7bDxpPDA+Oz47bDx0PDtsPGk8MT47PjtsPHQ8cDxsPFZpc2libGU7PjtsPG88Zj47Pj47Oz47Pj47Pj47Pj47Pqx3s368+2BaYM7vXhRIko2W6q85">
+
+
+	
+<script language="javascript">
+	var searchOn = '';
+	var term = '';
+	var url;
+
+	function OnLoad()
+	{
+		if( searchOn == '' )
+		{
+			SetSearch( 'Athlete' );
+		}
+		else
+		{
+			SetSearch( searchOn );
+		}
+	}
+
+	function SetSearch( searchType )
+	{
+		ResetSearch( searchOn );
+		
+		var id = 'search'+searchType;
+		var objBtnOn = dom( id, 0 );
+		var objPnlOn = dom( 'pnlSearch'+searchType, 0 );
+		var objLblSearchBy = dom( 'lblSearchBy', 0 );
+		objBtnOn.src='/images/btnSearch_'+searchType+'_on.png';
+		objPnlOn.className='clsVisible';
+
+		objLblSearchBy.innerText= searchType + ': ';
+		searchOn = searchType;
+
+		var objSearchBox;			
+		// Set field values.
+		switch( '' )
+		{
+			case 'Athlete':
+				objSearchBox = dom( 'txtSearchAthlete', 0 );
+				objSearchBox.value = '';
+				break;
+			case 'Event':
+				objSearchBox = dom( 'txtSearchEvent', 0 );
+				objSearchBox.value = '';
+				break;
+		}
+	}
+		
+	function ResetSearch( onID )
+	{
+		if( onID != '' )
+		{
+			var id = 'search'+onID;
+			var objImg = dom( id,0 );
+			var objPnl = dom('pnlSearch'+onID,0);
+			objImg.src='/images/btnSearch_' + onID + '_off.png';
+			objPnl.className='clsHidden';
+		}
+	}
+	function Search( id )
+	{
+		var objSearchBox;
+		var QS;
+		var term;
+		QS = 'search='+searchOn;
+
+		switch( searchOn )
+		{
+			case 'Athlete':
+				objSearchBox = dom( 'txtSearchAthlete'+id, 0 );
+				term = objSearchBox.value;
+				if( term.indexOf( '<<' ) > -1 )
+				{
+					alert( 'Please type a name to search for in the search box.' );
+					return false;
+				}
+				// Strip off any leading "<" chars.
+				var ltsExp = /<+/;
+				term = term.replace( ltsExp, "" );
+				QS = QS + '&term=' + encode( term );
+				break;
+			case 'Event':
+				objSearchBox = dom( 'txtSearchEvent'+id, 0 );
+				term = objSearchBox.value;
+				if( term.indexOf( '<<' ) > -1 )
+				{
+					alert( 'Please type an Event Name to search for in the search box.' );
+					return false;
+				}
+				QS = QS + '&term=' + encode( term );
+				break;
+		}
+		url = "/search.aspx?" + QS;
+		window.location.href = url;
+	}
+	function clearBox( ctrl, defaultText )
+	{
+		if( ctrl.value == defaultText )
+		{
+			ctrl.value = '';
+		}
+	}
+	function encode( value ) 
+	{
+     value = escape(value);
+     value = value.replace(/\//g,"%2F");
+     value = value.replace(/\?/g,"%3F");
+     value = value.replace(/=/g,"%3D");
+     value = value.replace(/&/g,"%26");
+     value = value.replace(/@/g,"%40");
+     return value;
+   }
+</script>
+
+
+<div id="PageHead">
+	<table width="950" cellpadding="0" cellspacing="0" border="0">
+		<tbody><tr>
+			<td><div id="SiteCount" style="background-color:#000000; padding:3px;"><div class="clsTag" style="float:left; font-size:10pt; letter-spacing:-.4pt; margin-right: 50px; text-align:center; text-size:16pt; width:151px;">Compete. Connect.</div><div style="text-align:center"><span class="clsCntL">Members: </span><span class="clsCntR">25,317</span><span class="clsCntL"> &nbsp;|&nbsp; </span><span class="clsCntL">Athletes: </span><span class="clsCntR">13,417,786</span><span class="clsCntL"> &nbsp;|&nbsp; Results: </span><span class="clsCntR">23,764,364</span><span class="clsCntL"> &nbsp;|&nbsp; Races: </span><span class="clsCntR">58,687</span></div></div></td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" style="background:#F13307 url(/images/bgHead.gif) repeat-x;">
+				<table width="950" cellpadding="0" cellspacing="0" border="0">
+					<tbody><tr>
+						<td width="150" align="center" rowspan="2"><a href="/default.aspx"><img src="/images/logo.gif" width="108" height="103" hspace="0" vspace="0" border="0" alt="Athlinks.com - Compete. Connect."></a></td>
+						<td width="800" align="center" valign="top">
+							<div style="height:85px;">
+								<div style="padding-top:13px; text-align:right;">
+									<table width="600" cellpadding="0" cellspacing="0" border="0" align="right">
+										<tbody><tr>
+											<td align="right" style="height:24px; width:100px"><div class="clsSearchPrompt"><b>Search</b> By:&nbsp;</div></td>
+											<td style="width:200px;" align="left">
+												<table cellpadding="1" cellspacing="0" border="0">
+													<tbody><tr>
+														<td><a onclick="SetSearch('Athlete')"><img src="/images/btnSearch_Athlete_Off.png" id="searchAthlete" name="searchAthlete" width="74" height="24" hspace="0" vspace="0" border="0" alt="Click to Search by Athlete"></a></td>
+														<td><a onclick="SetSearch('Event')"><img src="/images/btnSearch_Event_Off.png" id="searchEvent" name="searchEvent" width="74" height="24" hspace="6" vspace="0" border="0" alt="Click to Search by Event"></a></td>
+														<td><a href="/RaceSearch.aspx"><img src="/images/btnSearch_Advanced_Off.png" name="searchAdvanced" width="74" height="24" hspace="0" vspace="0" border="0" alt="Click to Searc by Date, Place, and Category"></a></td>
+													</tr>
+												</tbody></table>
+											</td>
+											<td style="height:24px; width:200px" align="center" valign="middle" rowspan="2"><a href="AddRace.aspx"><img src="/images/btnAddRace.png" border="0" style="height:40px; padding:10px 0px 20px 0px; width:158px;" alt="Click to Add A New Race."></a></td>
+										</tr>
+										<tr>
+											<td style="height:34px; width:100px" align="right" valign="top"><span id="lblSearchBy" name="lblSearchBy" class="clsSearchPromptTitle"></span>&nbsp;</td>
+											<td valign="top">
+												<table width="100%" cellpadding="0" cellspacing="0" border="0">
+													<tbody><tr>
+														<td width="100%" class="clsSearchPrompt">
+															<div id="pnlSearchAthlete" name="pnlSearchAthlete" class="clsHidden"><input type="text" id="txtSearchAthlete" name="txtSearchAthlete" style="width:98%" maxlength="256" value="<< Enter Athlete Name >>" onclick="clearBox( this, '<< Enter Athlete Name >>' );"></div>
+															<div id="pnlSearchEvent" name="pnlSearchEvent" class="clsHidden"><input type="text" id="txtSearchEvent" name="txtSearchEvent" style="width:98%" maxlength="256" value="<< Enter Event Name >>" onclick="clearBox( this, '<< Enter Event Name >>' );"></div>
+														</td>
+														<td width="32" align="left"><img src="/images/btnGo.png" width="31" height="20" id="btnHeadSearch" name="btnHeadSearch" onclick="Search('');"></td>
+													</tr>
+												</tbody></table>
+											</td>
+										</tr>
+									</tbody></table>
+								</div>
+							</div>
+						</td>
+					</tr>
+					<tr>
+						<td>
+							<table cellpadding="0" cellspacing="0" border="0">
+								<tbody><tr>
+									<td width="1" align="left" valign="top"><img src="/images/opt_sep.png" width="1" height="23" hspace="0" vspace="0" border="0" align="left" alt=""></td>
+									<td><table cellpadding="0" cellspacing="0" border="0" style="cursor:pointer;" onclick="window.location='/racer.aspx';"><tbody><tr><td><img src="/images/opt_l_off.png" width="4" height="23" hspace="0" vspace="0" border="0" align="left" alt=""></td><td nowrap="" style="background:#A31401 url(/images/opt_bg_off.png); color: #ffffff; margin: 0px; padding: 0px; font-size: 11px; font-weight: bold;">My Home</td><td><img src="/images/opt_r_off.png" width="4" height="23" hspace="0" vspace="0" border="0" align="left" alt=""></td></tr></tbody></table></td>
+									<td width="1" align="left" valign="top"><img src="/images/opt_sep.png" width="1" height="21" hspace="0" vspace="0" border="0" align="left" alt=""></td>
+									<td><table cellpadding="0" cellspacing="0" border="0" style="cursor:pointer;" onclick="window.location='/athletes.aspx';"><tbody><tr><td><img src="/images/opt_l_off.png" width="4" height="23" hspace="0" vspace="0" border="0" align="left" alt=""></td><td nowrap="" style="background:#A31401 url(/images/opt_bg_off.png); color: #ffffff; margin: 0px; padding: 0px; font-size: 11px; font-weight: bold;">Athletes</td><td><img src="/images/opt_r_off.png" width="4" height="23" hspace="0" vspace="0" border="0" align="left" alt=""></td></tr></tbody></table></td>
+									<td width="1" align="left" valign="top"><img src="/images/opt_sep.png" width="1" height="21" hspace="0" vspace="0" border="0" align="left" alt=""></td>
+									<td><table cellpadding="0" cellspacing="0" border="0" style="cursor:pointer;" onclick="window.location='/browse.aspx?g=&amp;aF=0&amp;aC=199&amp;rC=&amp;ct=&amp;sp=&amp;ph=0&amp;dj=1&amp;p=1&amp;pS=48';"><tbody><tr><td><img src="/images/opt_l_off.png" width="4" height="23" hspace="0" vspace="0" border="0" align="left" alt=""></td><td nowrap="" style="background:#A31401 url(/images/opt_bg_off.png); color: #ffffff; margin: 0px; padding: 0px; font-size: 11px; font-weight: bold;">Browse Members</td><td><img src="/images/opt_r_off.png" width="4" height="23" hspace="0" vspace="0" border="0" align="left" alt=""></td></tr></tbody></table></td>
+									<td width="1" align="left" valign="top"><img src="/images/opt_sep.png" width="1" height="21" hspace="0" vspace="0" border="0" align="left" alt=""></td>
+									<td><table cellpadding="0" cellspacing="0" border="0" style="cursor:pointer;" onclick="window.location='/GearSearch.aspx?catId=&amp;scatId=&amp;mfrId=&amp;key=&amp;p=&amp;pS=';"><tbody><tr><td><img src="/images/opt_l_off.png" width="4" height="23" hspace="0" vspace="0" border="0" align="left" alt=""></td><td nowrap="" style="background:#A31401 url(/images/opt_bg_off.png); color: #ffffff; margin: 0px; padding: 0px; font-size: 11px; font-weight: bold;">Browse Gear</td><td><img src="/images/opt_r_off.png" width="4" height="23" hspace="0" vspace="0" border="0" align="left" alt=""></td></tr></tbody></table></td>
+									<td width="1" align="left" valign="top"><img src="/images/opt_sep.png" width="1" height="21" hspace="0" vspace="0" border="0" align="left" alt=""></td>
+									
+									<td width="480" align="left" valign="top"><img src="/images/util/dot_alpha.gif" width="25" height="21" hspace="0" vspace="0" border="0"></td>
+									<td width="1" align="left" valign="top"><img src="/images/opt_sep.png" width="1" height="21" hspace="0" vspace="0" border="0" align="left" alt=""></td>
+									<td><table cellpadding="0" cellspacing="0" border="0" style="cursor:pointer;" onclick="window.location='/storeShirts.aspx';"><tbody><tr><td><img src="/images/opt_l_off.png" width="4" height="23" hspace="0" vspace="0" border="0" align="left" alt=""></td><td nowrap="" style="background:#A31401 url(/images/opt_bg_off.png); color: #ffffff; margin: 0px; padding: 0px; font-size: 11px; font-weight: bold;">Store</td><td><img src="/images/opt_r_off.png" width="4" height="23" hspace="0" vspace="0" border="0" align="left" alt=""></td></tr></tbody></table></td>
+									<td width="1" align="left" valign="top"><img src="/images/opt_sep.png" width="1" height="21" hspace="0" vspace="0" border="0" align="left" alt=""></td>
+									<td><table cellpadding="0" cellspacing="0" border="0" style="cursor:pointer;" onclick="window.location='/downloads.aspx';"><tbody><tr><td><img src="/images/opt_l_off.png" width="4" height="23" hspace="0" vspace="0" border="0" align="left" alt=""></td><td nowrap="" style="background:#A31401 url(/images/opt_bg_off.png); color: #ffffff; margin: 0px; padding: 0px; font-size: 11px; font-weight: bold;">Downloads</td><td><img src="/images/opt_r_off.png" width="4" height="23" hspace="0" vspace="0" border="0" align="left" alt=""></td></tr></tbody></table></td>
+									<td width="1" align="left" valign="top"><img src="/images/opt_sep.png" width="1" height="21" hspace="0" vspace="0" border="0" align="left" alt=""></td>
+									<td><table cellpadding="0" cellspacing="0" border="0" style="cursor:pointer;" onclick="window.location='/contact.aspx';"><tbody><tr><td><img src="/images/opt_l_off.png" width="4" height="23" hspace="0" vspace="0" border="0" align="left" alt=""></td><td nowrap="" style="background:#A31401 url(/images/opt_bg_off.png); color: #ffffff; margin: 0px; padding: 0px; font-size: 11px; font-weight: bold;">Contact Us</td><td><img src="/images/opt_r_off.png" width="4" height="23" hspace="0" vspace="0" border="0" align="left" alt=""></td></tr></tbody></table></td>
+									<td width="1" align="left" valign="top"><img src="/images/opt_sep.png" width="1" height="21" hspace="0" vspace="0" border="0" align="left" alt=""></td>
+									<td><table cellpadding="0" cellspacing="0" border="0" style="cursor:pointer;" onclick="window.location='/faq.aspx';"><tbody><tr><td><img src="/images/opt_l_off.png" width="4" height="23" hspace="0" vspace="0" border="0" align="left" alt=""></td><td nowrap="" style="background:#A31401 url(/images/opt_bg_off.png); color: #ffffff; margin: 0px; padding: 0px; font-size: 11px; font-weight: bold;">F.A.Q.</td><td><img src="/images/opt_r_off.png" width="4" height="23" hspace="0" vspace="0" border="0" align="left" alt=""></td></tr></tbody></table></td>
+									<td width="1" align="left" valign="top"><img src="/images/opt_sep.png" width="1" height="21" hspace="0" vspace="0" border="0" align="left" alt=""></td>
+									<td width="20" align="left" valign="top"><img src="/images/util/dot_alpha.gif" width="20" height="21" hspace="0" vspace="0" border="0" align="left" alt=""></td>
+									<td width="1" align="left" valign="top"><img src="/images/opt_sep.png" width="1" height="23" hspace="0" vspace="0" border="0" align="left" alt=""></td>
+									<td><table cellpadding="0" cellspacing="0" border="0" style="cursor:pointer;" onclick="window.location='/LogIn.aspx';"><tbody><tr><td><img src="/images/opt_l_off.png" width="4" height="23" hspace="0" vspace="0" border="0" align="left" alt=""></td><td nowrap="" style="background:#A31401 url(/images/opt_bg_off.png); color: #ffffff; margin: 0px; padding: 0px; font-size: 11px; font-weight: bold;">Sign In</td><td><img src="/images/opt_r_off.png" width="4" height="23" hspace="0" vspace="0" border="0" align="left" alt=""></td></tr></tbody></table></td>
+								</tr>
+							</tbody></table>
+						</td>
+					</tr>
+				</tbody></table>			
+			</td>
+		</tr>
+	</tbody></table>
+	<div>
+		<div style="background-color:#650B01; clear:both; height:27px;width:950px;">
+			
+				<table width="100%" cellpadding="0" cellspacing="0" border="0">
+					<tbody><tr>
+						<td width="1" align="left" valign="top"><img src="/images/util/dot_alpha.gif" width="1" height="25" hspace="0" vspace="0" border="0" alt=""></td>
+						<td align="left" nowrap="">
+							<div class="clsMedWhite" style="padding-left:10px;">
+								<strong>Already Registered? <a href="/login.aspx?ReturnUrl=%2fhelpPrivacy.aspx"><img src="/images/bltNavW.gif" width="3" height="5" hspace="4" vspace="0" border="0" align="absmiddle">Sign In</a>&nbsp;&nbsp;</strong>
+								<em><a href="/login.aspx?mode=passwordlookup"><img src="/images/bltNavW.gif" width="3" height="5" hspace="4" vspace="0" border="0" align="absmiddle">Forgot Password</a></em>
+								<strong><img src="/images/util/dot_alpha.gif" width="20" height="23" hspace="4" vspace="0" border="0" align="absmiddle" alt="">
+								Need to Register? <a href="/signup.aspx"><img src="/images/bltNavW.gif" width="3" height="5" hspace="4" vspace="0" border="0" align="absmiddle">Sign Up</a></strong>
+							</div>
+						</td>
+					</tr>
+				</tbody></table>
+			
+		</div>
+	</div><!--#7a7a7a//-->
+	<div style="background-color:#477EDD; padding:0px;margin:0px;">
+		<table cellpadding="0" cellspacing="0" border="0">
+			<tbody><tr>
+				<td width="220" valign="bottom"><div class="clsPageTitle" style="margin: 50 0 0 4;">Privacy Policy</div></td>
+				<td width="730" align="right"><iframe src="http://www.activeathletevector.com/OAS/AA_728x90.cfm?pub=tas.athlinks" name="728x90" width="728" height="90" frameborder="0" scrolling="no" marginwidth="0" marginheight="0"></iframe></td>
+			</tr>
+		</tbody></table>
+	</div>
+
+	
+	<div id="Notice" style="background-color:#E7F0F8; display:none; width:950px;">
+		<div style="cursor:pointer;padding:4px;" onclick="window.location='http://www.athlinks.com/myContentDisplay.aspx?itemid=37586';">
+			<span class="clsBody"><strong>Changes to your Athlinks Profile</strong> A new version of your profile is up <span style="color:#0000aa; font-style:none">click for details &gt;&gt;</span></span>
+		</div>
+	</div>
+
+	
+	<div style="background:#ffffff url(/images/util/dot_alpha.gif) repeat-x; margin-top:0px; padding-top:1px"></div>
+	
+	<script language="javascript">
+		$(document).ready(function() {
+			//if($("#Alert").is("div"))
+			//{
+			//	//$("#Alert").BlindDown(500);
+			//	$("#Alert").show();
+			//}
+			if($("#Notice").is("div"))
+			{
+				if( ShowNotice( '2' ) )
+				{
+					//$("#Notice").show();
+				}
+			}
+		});
+		function ShowNotice( noticeID )
+		{
+			if( readCookie( "notice"+noticeID ) == "closed" )
+			{
+				return true;//false;
+			}
+			return true;
+		}
+		function MarkNoticeAsRead( noticeID )
+		{
+			createCookie( "notice"+noticeID, "closed", 45 );
+			$("#Notice").hide('fast');
+		}
+	</script>
+
+	
+
+ </div>
+
+	<div id="PageBody">
+
+		<table width="100%" cellpadding="0" cellspacing="0" border="0">
+			<tbody><tr>
+				<td width="15" align="left" valign="left"><img src="/images/util/dot_alpha.gif" width="15" height="1" hspace="0" vspace="0" border="0"></td>
+				<td width="610" align="left" valign="top">
+
+					<h5>This policy is effective as of November 1, 2006.</h5>
+
+					<h2>Athlinks Principles</h2>
+
+					<p class="clsBody">We built Athlinks to make it easy to share information with your friends and
+					fellow athletes. We understand you may not want everyone in the world to have
+					the information you share on Athlinks; that is why we give you control of your
+					information. Our default privacy settings limit the information displayed in
+					your profile to your networks and other reasonable community limitations that
+					we tell you about. </p>
+
+					<p class="clsBody">Athlinks follows two core principles:</p>
+
+					<p class="clsBody"><strong>1. You should have control over your personal information.</strong> <br>
+					Athlinks helps you share information with your friends and fellow endurance
+					athletes. You choose what information you put in your profile, including
+					contact and personal information, pictures, interests and groups you join. And
+					you control with whom you share that information through the privacy settings
+					on the each bit of content uploaded to the site. </p>
+
+					<p class="clsBody"><strong>2. You should have access to the information others want to share.</strong>
+					<br>
+					There is an increasing amount of information available on the Internet, and you
+					may want to know what relates to you, your friends, and people around you. We
+					want to help you easily get that information. </p>
+
+					<p class="clsBody">Sharing information should be easy. And we want to provide you with the
+					privacy tools necessary to control how and with whom you share that
+					information. If you have questions or ideas, please send them to <a href="mailto:privacy@Athlinks.com">privacy@Athlinks.com</a>.</p>
+
+					<h2>Safe Use of Athlinks</h2>
+
+					<h2>Athlinks's Privacy Policy</h2>
+
+					<p class="clsBody">Athlinks's Privacy Policy is designed to help you understand how we collect
+					and use the personal information you decide to share, and help you make
+					informed decisions when using Athlinks located at www.athlinks.com ("Athlinks"
+					or "Web Site"). </p>
+
+					<p class="clsBody">By using or accessing Athlinks, you are accepting the practices described in
+					this Privacy Policy. </p>
+
+					<h2>The Information We Collect</h2>
+
+					<p class="clsBody">When you visit Athlinks you provide us with two types of information:
+					personal information you knowingly choose to disclose that is collected by us
+					and Web Site use information collected by us as you interact with our Web Site.
+					</p>
+
+					<p class="clsBody">When you register with Athlinks, you provide us with certain personal
+					information, such as your name, your email address, your gender, date of birth,
+					and city/state/province/country of residence. We use this information to gather
+					your results data and automatically merge it with your member profile based these
+					criteria.</p>
+
+					<p class="clsBody">When you enter Athlinks, we collect your browser type and IP address. This
+					information is gathered for all Athlinks visitors. In addition, we store
+					certain information from your browser using "cookies." A cookie is a
+					piece of data stored on the user's computer tied to information about the user.
+					We use session ID cookies to confirm that users are logged in. These cookies
+					terminate once the user closes the browser. By default, we use a persistent
+					cookie that stores your login ID (but not your password) to make it easier for
+					you to login when you come back to Athlinks. You can remove or block this
+					cookie using the settings in your browser if you want to disable this
+					convenience feature. </p>
+
+					<p class="clsBody">When you use Athlinks, you may form relationships, send messages, perform
+					searches and queries, form groups, set up events, and transmit information
+					through various channels. We collect this information so that we can provide
+					you the service and offer personalized features. In most cases, we retain it so
+					that, for instance, you can return to view prior messages you have sent or
+					easily see your friend list. </p>
+
+					<p class="clsBody">You post User Content (as defined in the Athlinks <a href="http://www.athlinks.com/helpTermsOfUse.aspx">Terms of Use</a>) on the Site at
+					your own risk. Although we allow you to set privacy options that limit access
+					to your pages, please be aware that no security measures are perfect or
+					impenetrable. We cannot control the actions of other Users with whom you may
+					choose to share your pages and information. Therefore, we cannot and do not
+					guarantee that User Content you post on the Site will not be viewed by
+					unauthorized persons. We are not responsible for circumvention of any privacy
+					settings or security measures contained on the Site. You understand and
+					acknowledge that, even after removal, copies of User Content may remain
+					viewable in cached and archived pages or if other Users have copied or stored
+					your User Content. </p>
+
+					<p class="clsBody">Any improper collection or misuse of information provided on Athlinks is a
+					violation of the Athlinks Terms of Service and should be reported to <a href="mailto:privacy@Athlinks.com">privacy@Athlinks.com</a>.</p>
+
+					<p class="clsBody">If you choose to use our invitation service to tell a friend about our site,
+					we will ask you for your friend's email address. We will automatically send
+					your friend a one-time email inviting him or her to visit the site. Athlinks
+					stores this information to send this one-time email, to register a friend
+					connection if your invitation is accepted, and to track the success of our
+					referral program. Your friend may contact us at <a href="mailto:info@Athlinks.com">info@Athlinks.com</a> to request
+					that we remove this information from our database.</p>
+
+					<p class="clsBody">Athlinks also collects race results from outside sources in order to provide
+					you with a complete user experience as an endurance athlete and a more
+					personalized experience. </p>
+
+					<p class="clsBody">By using Athlinks, you are consenting to have your personal data transferred
+					to and processed in the United States. </p>
+
+					<h2>Children Under Age 13</h2>
+
+					<p class="clsBody">Athlinks does not knowingly collect or solicit personal information from
+					anyone under the age of 13 or knowingly allow such persons to register. If you
+					are under 13, please do not send any information about yourself to us,
+					including your name, address, telephone number, or email address. No one under
+					age 13 is allowed to provide any personal information to or on Athlinks. In the
+					event that we learn that we have collected personal information from a child
+					under age 13 without verification of parental consent, we will delete that
+					information as quickly as possible. If you believe that we might have any
+					information from or about a child under 13, please contact us at <a href="mailto:info@Athlinks.com">info@Athlinks.com</a>.</p>
+
+					<h2>Children Between the Ages of 13 and 18</h2>
+
+					<p class="clsBody">We recommend that minors over the age of 13 ask their parents for permission
+					before sending any information about themselves to anyone over the Internet. </p>
+
+					<h2>Use of Information Obtained by Athlinks</h2>
+
+					<p class="clsBody">When you register with Athlinks, you create your own profile and privacy
+					settings. Your profile information, as well as your name, age, gender, and
+					photo, are displayed to people in the networks specified in your privacy
+					settings to enable you to connect with people on Athlinks. We may occasionally
+					use your name and email address to send you notifications regarding new
+					services offered by Athlinks that we think you may find valuable. We do not
+					ever give out this contact information either on the site or in private or
+					public communications. All messages sent through the site use Athlinks’
+					proprietary messaging system in order to hide at all times your email address.</p>
+
+					<p class="clsBody">Profile information is used by Athlinks primarily to be presented back to
+					and edited by you when you access the service and to be presented to others
+					permitted to view that information by your privacy settings. In some cases
+					where your privacy settings permit it (e.g., posting to your wall), other Athlinks
+					users may be able to supplement your profile. </p>
+
+					<p class="clsBody">Profile information you submit to Athlinks will be available to users of Athlinks
+					who belong to at least one of the networks you allow to access the information
+					through your privacy settings (e.g., school, geography, friends of friends).
+					Your name, alias, and profile picture thumbnail will be available in search
+					results across the Athlinks network and those limited pieces of information may
+					be made available to third party search engines. This is primarily so your
+					friends can find you and send a friend request. People who see your name in
+					searches, however, will not be able to access your profile information you
+					choose to make that information public which allows such access based on your
+					privacy settings. </p>
+
+					<p class="clsBody">Athlinks will send you only service-related announcements from time to time
+					through the general operation of the service. For instance, if a friend sends
+					you a new message, requests you as a confirmed friend, or someone posts on your
+					wall, you will receive an email alerting you to that fact. </p>
+
+					<p class="clsBody">Athlinks may use information in your profile without identifying you as an
+					individual to third parties. We do this for purposes such as aggregating how
+					many people in a race event or group use particular gear or for personalizing advertisements
+					and promotions so that we can provide them to you on Athlinks where appropriate.
+					We do this to cut down on the amount of unrelated advertisements and increase
+					the relevancy of advertisements that are shown to you. </p>
+
+					<h2>Sharing Your Information with Third Parties</h2>
+
+					<p class="clsBody">Athlinks is about sharing information with others — friends and people in your
+					networks — while providing you with controls that restrict other third parties
+					from accessing your information. We allow you to choose the information you
+					provide to friends and networks through Athlinks. Our network architecture and
+					your privacy settings allow you to make informed choices about who has access
+					to your information. We do not provide contact information to third party
+					marketers. We share your information with third parties only in limited
+					circumstances where we believe such sharing is 1) reasonably necessary to offer
+					the service, 2) legally required or, 3) permitted by you. </p>
+
+					<p class="clsBody">Unlike most sites on the Web, Athlinks limits access to site information by
+					third party search engine "crawlers" (e.g. Google, Yahoo, MSN, Ask). Athlinks
+					blocks access by these engines to personal information beyond your name,
+					profile picture, and limited aggregated data about your profile (e.g. number of
+					wall postings). </p>
+
+					<p class="clsBody">We may provide information to service providers to help us bring you the
+					services we offer. Specifically, we may use third parties to facilitate our
+					business, such as to host the service at a co-location facility for servers, to
+					send out email updates about Athlinks, to remove repetitive information from
+					our user lists, to process payments for products or services, or to provide
+					search results or links (including sponsored links). In connection with these
+					offerings and business operations, our service providers may have access to
+					your personal information for use for a limited time in connection with these
+					business activities. Where we utilize third parties for the processing of any
+					personal information, we implement reasonable contractual and technical
+					protections limiting the use of that information to the Athlinks-specified
+					purposes. </p>
+
+					<ul type="disc">
+					<li class="clsBody" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+						mso-list:l0 level1 lfo1;tab-stops:list .5in">We may be required to
+						disclose user information pursuant to lawful requests, such as subpoenas
+						or court orders, or in compliance with applicable laws. We do not reveal
+						information until we have a good faith belief that an information request
+						by law enforcement or private litigants meets applicable legal standards.
+						Additionally, we may share account or other information when we believe it
+						is necessary to comply with law, to protect our interests or property, to
+						prevent fraud or other illegal activity perpetrated through the Athlinks
+						service or using the Athlinks name, or to prevent imminent bodily harm.
+						This may include sharing information with other companies, lawyers, agents
+						or government agencies.</li>
+					<li class="clsBody" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+						mso-list:l0 level1 lfo1;tab-stops:list .5in">We let you choose to share
+						information with marketers or electronic commerce providers through
+						sponsored groups or other on-site offers.</li>
+					<li class="clsBody" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+						mso-list:l0 level1 lfo1;tab-stops:list .5in">We may offer stores or
+						provide services jointly with other companies on Athlinks. You can tell
+						when another company is involved in any store or service provided on Athlinks,
+						and we may share customer information with that company in connection with
+						your use of that store or service.</li>
+					<li class="clsBody" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+						mso-list:l0 level1 lfo1;tab-stops:list .5in">If the ownership of all or
+						substantially all of the Athlinks business, or individual business units
+						owned by Athlinks, Inc., were to change, your user information may be
+						transferred to the new owner so the service can continue operations. In
+						any such transfer of information, your user information would remain
+						subject to the promises made in any pre-existing Privacy Policy.</li>
+					</ul>
+
+					<h2>Links</h2>
+
+					<p class="clsBody">Athlinks may contain links to other websites. We are of course not
+					responsible for the privacy practices of other web sites. We encourage our
+					users to be aware when they leave our site to read the privacy statements of
+					each and every web site that collects personally identifiable information. This
+					Privacy Policy applies solely to information collected by Athlinks. </p>
+
+					<h2>Third Party Advertising</h2>
+
+					<p class="clsBody">Advertisements that appear on Athlinks are sometimes delivered (or
+					"served") directly to users by third party advertisers. They automatically
+					receive your IP address when this happens. These third party advertisers may
+					also download cookies to your computer, or use other technologies such as
+					JavaScript and "web beacons" (also known as "1x1 gifs") to
+					measure the effectiveness of their ads and to personalize advertising content.
+					Doing this allows the advertising network to recognize your computer each time
+					they send you an advertisement in order to measure the effectiveness of their
+					ads and to personalize advertising content. In this way, they may compile
+					information about where individuals using your computer or browser saw their
+					advertisements and determine which advertisements are clicked. Athlinks does
+					not have access to or control of the cookies that may be placed by the third
+					party advertisers. Third party advertisers have no access to your contact
+					information stored on Athlinks unless you choose to share it with them. </p>
+
+					<p class="clsBody">This privacy policy covers the use of cookies by Athlinks and does not cover
+					the use of cookies or other tracking technologies by any of its advertisers. </p>
+
+					<p class="clsBody">For help on cookies, <a href="http://www.athlinks.com/helpCookies.aspx">click
+					here</a>.</p>
+
+					<h2>Changing or Removing Information</h2>
+
+					<p class="clsBody">Access and control over most personal information on Athlinks is readily
+					available through the profile editing tools. Athlinks users may modify or
+					remove any of their profile information at any time by logging into their
+					account. Information will be updated immediately. Individuals who wish to
+					deactivate their Athlinks account may do so on the <a href="http://www.athlinks.com/settings.aspx">Settings</a> page. Removed
+					information may persist in backup copies for a reasonable period of time but
+					will not be generally available to members of Athlinks. </p>
+
+					<p class="clsBody">Where you make use of the communication features of the service to share
+					information with other individuals on Athlinks, however, (e.g., posting on
+					someone else's Wall) you generally cannot remove such communications. </p>
+
+					<h2>Security</h2>
+
+					<p class="clsBody">Athlinks takes appropriate precautions to protect our users' information.
+					Your account information is located on a secured server behind a firewall.
+					Because email and instant messaging are not recognized as secure
+					communications, we request that you not send private information to us by email
+					or instant messaging services. If you have any questions about the security of Athlinks
+					Web Site, please contact us at <a href="mailto:privacy@Athlinks.com">privacy@Athlinks.com</a>.</p>
+
+					<h2>Terms of Use, Notices and Revisions</h2>
+
+					<p class="clsBody">If you choose to visit Athlinks, your visit and any dispute over privacy is
+					subject to this Privacy Policy and our Terms of Use, including limitations on
+					damages, arbitration of, and application of law of the state of <st1:place w:st="on"><st1:state w:st="on">Arizona</st1:state></st1:place>. We reserve
+					the right to change our Privacy Policy and our Terms of Use at any time.
+					Non-material changes and clarifications will take effect immediately, and
+					material changes will take effect within 30 days of their posting on this site.
+					If we make changes, we will post them and will indicate at the top of this page
+					the policy's effective date. We therefore encourage you to refer to this policy
+					on an ongoing basis so that you understand our current privacy policy. Unless
+					stated otherwise, our current privacy policy applies to all information that we
+					have about you and your account. </p>
+
+					<h2>Contacting the Web Site</h2>
+
+					<p class="clsBody">If you have any questions about this privacy policy, please contact us at <a href="mailto:privacy@Athlinks.com">privacy@Athlinks.com</a>. You
+					may also contact us by mail at <st1:address w:st="on"><st1:street w:st="on">2040
+					S. Alma School Rd. Ste 1 #148</st1:street> <st1:city w:st="on">Chandler</st1:city>,
+					<st1:state w:st="on">AZ</st1:state><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp; </span><st1:postalcode w:st="on">85248</st1:postalcode></st1:address>.</p>
+
+					<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+				</td>
+				<td width="15" align="left" valign="left"><img src="/images/util/dot_alpha.gif" width="15" height="1" hspace="0" vspace="0" border="0"></td>
+				<td width="310" valign="top">
+					<p>&nbsp;</p>
+					<a href="helpTermsOfUse.aspx"><img src="images/bltNav.gif" hspace="3" border="0">Athlinks Terms of Use</a>
+				</td>
+			</tr>
+		</tbody></table>
+	</div>
+
+	
+<div id="Foot">
+	<div style="padding:20px;>
+		<a href=" http:="" www.busot.com"="" target="_blank"><img src="http://www.busot.com/busot/images/busot_button.gif" width="88" height="31" hspace="0" vspace="0" border="0" align="right">
+		<div class="clsSmall" style="padding-left:20px; padding-right:20px;">
+			<a href="/helpPrivacy.aspx">PRIVACY POLICY</a><br>
+			Please do not reply to this email. If you need to contact Athlinks with questions or concerns, please, <a href="http://www.athlinks.com/contact.aspx">click here</a>.<br>
+			<br>
+			<a href="/default.aspx"><img src="/images/bltArrowRight.gif" height="9" width="11" hspace="5" vspace="2" border="0" align="absmiddle">Home</a> | 
+			<a href="/athletes.aspx"><img src="/images/bltArrowRight.gif" height="9" width="11" hspace="5" vspace="2" border="0" align="absmiddle">Athlete Directory</a> |
+			<a href="/SupportContent.aspx?content=faq"><img src="/images/bltArrowRight.gif" height="9" width="11" hspace="5" vspace="2" border="0" align="absmiddle">F.A.Q.</a> |
+			<a href="/contact.aspx"><img src="/images/bltArrowRight.gif" height="9" width="11" hspace="5" vspace="2" border="0" align="absmiddle">Contact</a>
+			<div class="clsSmall">
+				© Copyright 2001-2007, Athlinks.com. All rights reserved.<br>
+				Technology provided by <a href="http://www.busot.com" target="_blank">Busot Interactive</a> - 602.430.0237
+			</div>
+		</div>
+</div>
+<!-- Start of StatCounter Code -->
+
+<script type="text/javascript" language="javascript">
+var sc_project=278739; 
+var sc_invisible=1; 
+var sc_partition=0; 
+var sc_security=""; 
+</script>
+
+<script type="text/javascript" language="javascript" src="http://www.statcounter.com/counter/counter.js"></script><noscript><a href="http://www.statcounter.com/" target="_blank"><img  src="http://c1.statcounter.com/counter.php?sc_project=278739&amp;java=0&amp;security=&amp;invisible=1" alt="website statistics" border="0"></a> </noscript>
+
+<!-- End of StatCounter Code -->
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-2421114-1";
+urchinTracker();
+</script>
+
+					<!-- Foot End //-->
+<script language="javascript">
+	OnLoad();
+</script>
+</div>
+
+     </form>
+	
+  
+
+</body></html>
