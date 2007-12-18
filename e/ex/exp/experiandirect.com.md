@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the experiandirect.com privacy policy that was archived on 2007-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070628231129id_/http%3A//www.experiandirect.com/triplealert/Message.aspx%3FPageTypeID%3DPrivacy%26WT.svl%3Dprivacy%26SiteVersionID%3D473%26SiteID%3D100173%26sc%3D657900%26bcd%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the experiandirect.com privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218172644id_/https%3A//www.experiandirect.com/triplealert/Message.aspx%3FPageTypeID%3DPrivacy%26WT.svl%3Dprivacy%26SiteVersionID%3D473%26SiteID%3D100173%26sc%3D657900%26bcd%3D) for the most accurate reproduction.*
 
 # TripleAlert.com
 
