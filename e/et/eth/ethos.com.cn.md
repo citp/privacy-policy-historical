@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ethos.com.cn privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626152435id_/http%3A//www.ethos.com.cn/content/view/19/24/lang%2Cen) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ethos.com.cn privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218110933id_/http%3A//www.ethos.com.cn/content/view/19/24/lang%2Cen) for the most accurate reproduction.*
 
 # Ethos Technologies - PRIVACY POLICY
 
