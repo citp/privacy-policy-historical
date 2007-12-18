@@ -1,88 +1,18 @@
-> *The following text is extracted and transformed from the cloggs.co.uk privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629173421id_/http%3A//www.cloggs.co.uk/page/security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloggs.co.uk privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218142445id_/http%3A//www.cloggs.co.uk/page/security) for the most accurate reproduction.*
 
 # Security and Privacy
 
-| 
+[Home](http://www.cloggs.co.uk/page/home)
 
-|   
----  
-|  |   
-|  |   
-| 
+## Security
 
-[Main Help Desk](http://www.cloggs.co.uk/page/helpdeskwelcome)  
-[Your Account](http://www.cloggs.co.uk/page/myaccount)  
-[Order Status Explained](http://www.cloggs.co.uk/page/orderstatusexplained)  
-[Size Help](http://www.cloggs.co.uk/page/sizehelp2)  
-[Site Guide](http://www.cloggs.co.uk/page/siteguide2)  
-[Delivery](http://www.cloggs.co.uk/page/delivery)  
-[Returns](http://www.cloggs.co.uk/page/returns)  
-[ **Recent Testimonials**](http://www.cloggs.co.uk/page/testimonials)  
+### Totally Secure Payment
 
+Cloggs.co.uk uses the industry standard secure server software (Secure Socket Layer - 128 bit SSL Global Server Certificate) in association with DataCash and Verisign. Your financial and personal information, including credit card number, name and address, and phone number, are encrypted so that they cannot be viewed while travelling over the internet. All personal information will then be stored on our isolated network, protecting it from any misuse or compromise. Please feel free to click on the Verisign Logo for verification.
 
-|   
----  
-| 
+**Cloggs never takes payment for ordered goods until those goods are actually shipped or without the express prior consent of the customer.**
 
-[  
-****](http://www.cloggs.co.uk/icat/brndftwrnewrockcats)
-
-|   
-|  |   
-| [](https://server.iad.liveperson.net/hc/54687191/?cmd=file&file=visitorWantsToChat&site=54687191&byhref=1&imageUrl=https://www.cloggs.co.uk/content/ebiz/cloggs/stry/chatbanners5)  
----|---  
-| [](http://www.liveperson.com/)  
----  
-| [](http://www.cloggs.co.uk/page/delivery) |   
-|  |   
-| 
-
-Know what you want? use our 'FREE DELIVERY' option
-
-Want to try for size? use our 'FREE RETURNS' option
-
-[Click here for more info](http://www.cloggs.co.uk/page/types)
-
-|   
-  
----  
-| [](http://www.cloggs.co.uk/page/availability) |   
-|  |   
-| 
-
-[95% of items listed are in stock at the point of purchase. Click Here for more info](http://www.cloggs.co.uk/page/availability2)
-
-|   
-  
-[](http://www.cloggs.co.uk/page/sizehelp)  
-  
----  
-| 
-
-**Welcome to Cloggs.co.uk** , the UK's number one online supplier of niche fashion footwear and clothing including boots, shoes, trainers, jeans, jackets, bags and sunglasses.
-
-We are officially appointed online retailers of [Levi's® Jeans](http://www.cloggs.co.uk/icat/brdjnslevis), [Crocs Shoes](http://www.cloggs.co.uk/page/crocs_shoes), [Doc Martens](http://www.cloggs.co.uk/page/doc_martens), [Merrell Shoes](http://www.cloggs.co.uk/icat/brdftwrmerrell), [New Rock Boots](http://www.cloggs.co.uk/icat/brndftwrnewrockcats), [Converse](http://www.cloggs.co.uk/icat/brdftwrconverse), [Skechers](http://www.cloggs.co.uk/icat/brdftwrskecherscats), [Ugg Boots](http://www.cloggs.co.uk/page/uggboots), [Oakley Sunglasses](http://www.cloggs.co.uk/icat/brdsunoakley), [Timberland Boots](http://www.cloggs.co.uk/page/timberland_boots), [Kicker Shoes](http://www.cloggs.co.uk/page/kicker_shoes), [Wrangler Jeans](http://www.cloggs.co.uk/icat/brdjnswrangler), [Lee Jeans](http://www.cloggs.co.uk/icat/brdjnslee) and [many more...](http://www.cloggs.co.uk/icat/brd)!
-
-Please check out the best in high-end fashion at our sister-site [RivetOnline.co.uk](http://www.rivetonline.co.uk/), also with Free UK Delivery on orders over £50 and Free Returns.
-
-|   
-|  |   
-  
----  
-|  |   
-|  |   
-| 
-
-  
-
-
-|   
-  
-**_Security and Privacy_**
-
-**Security**
-
-**Guarantee**
+### Guarantee
 
 Our shopping guarantee protects you while you shop on our site - you need not worry about your credit card security. If you have any concerns please contact us through our order helpline - 07000 256 447 or +44 121 237 5510 (for International orders) - to discuss the security.
 
@@ -98,40 +28,34 @@ The Data Protection Act 1998
 The Consumer Protection ( Distance Selling ) Regulations 2000.   
 
 
-**Totally Secure Payment**
-
-Cloggs.co.uk uses the industry standard secure server software (Secure Socket Layer - 128 bit SSL Global Server Certificate) in association with DataCash and Verisign. Your financial and personal information, including credit card number, name and address, and phone number, are encrypted so that they cannot be viewed while travelling over the internet. All personal information will then be stored on our isolated network, protecting it from any misuse or compromise. Please feel free to click on the Verisign Logo for verification.
-
-**Cloggs never takes payment for ordered goods until those goods are actually shipped or without the express prior consent of the customer.**
-
-**Designated Customer Service**
+### Designated Customer Service
 
 Cloggs are focussed on minimising fraudulent transactions over the net. As a further precaution, we have a designated customer service team that will contact you for voice recognition and authorisation if our security matches are not met or if we suspect any improper use.
 
-**Privacy**
+## Privacy
 
-**Customer Protection**
+### Customer Protection
 
 We are committed to protecting your privacy. We will only use information given at the time of ordering or when making an enquiry by whatever means is collected lawfully and in accordance with the Data Protection Act 1998. It is collected by Senior Cloggs personnel and all transactions that you initiate with Cloggs.co.uk on this web site are confidential. Your name will not be added to any mailing list and we never transfer this information to a third party, without the customer's consent.
 
-**Your Personal Information**
+### Your Personal Information
 
 We collect information about you for two main reasons:
 
-  1. To process your order and 
-  2. To provide you with the most efficient possible service. 
+  * To process your order and 
+  * To provide you with the most efficient possible service. 
 
 
 
 The type of information we will collect about you includes:- Your name, your address, your phone number, your size, your e-mail address, your age, your phone number and your sex. Please note that some of these fields are optional and the information is only used as so that we may provide our customers with the products they like as effectively as possible. We will never collect sensitive information about you without your explicit consent.
 
-The information collected will be used to personally keep in touch and let you know of any offers, sales or promotions that Cloggs.co.uk are carrying out. We never aim to send emails to a customer unless first receiving their consent. Customers can be removed from our mailing list automatically by sending an email - please [click here](mailto:remove@cloggs.co.uk?subject=UNSUBSCRIBE) to remove your email address from future mailouts. NB - the automated process removes the primary 'sending' email address. If you still receive emails from us, please contact customer services to manually remove any aliases that may be receiving emails from us.
+The information collected will be used to personally keep in touch and let you know of any offers, sales or promotions that Cloggs.co.uk are carrying out. We never aim to send emails to a customer unless first receiving their consent. Customers can be removed from our mailing list automatically by sending an email - please [click here](mailto:remove@cloggs.co.uk?subject=UNSUBSCRIBE) to remove your email address from future mailouts. NB - the automated process removes the email address as we receive it. This is usually the primary email address or return email address. If you still receive emails from us, please [click here](https://web.archive.org/page/newsletterunsubscribe) for more information on how to unsubscribe.
 
-**Controlling Your Personal Information**
+### Controlling Your Personal Information
 
 We aim for the information we hold about you to be accurate and up to date. You can check the information that we hold about you by logging in to your account. If you find any inaccuracies you should delete or correct it promptly. The personal information will be held securely in accordance with our internal security policy and the law.
 
-**Customer Tracking**
+### Customer Tracking
 
 We use technology to track the patterns of behaviour of our visitors to our site so that we can speed up the payment procedure for you, deliver the appropriate products and special offers to you, in the most easy to use way.
 
@@ -141,9 +65,8 @@ If you have any questions/comments about privacy, please feel free to contac us.
 
 [Back to Helpdesk Main Menu](http://www.cloggs.co.uk/page/helpdeskwelcome)
 
-| 
-
-|   
+[](https://web.archive.org/page/christmasreturns07)  
+  
 ---  
-| [](http://www.cloggs.co.uk/icat/toptensellers&source=cloggs_leftpromobox) |   
-|  | 
+  
+## NEWSLETTER
