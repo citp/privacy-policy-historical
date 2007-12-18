@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harrispollonline.com privacy policy that was archived on 2007-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070612020739id_/http%3A//www.harrispollonline.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harrispollonline.com privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218081459id_/http%3A//www.harrispollonline.com/privacy.asp) for the most accurate reproduction.*
 
 # Harris Poll Online - Privacy Policy
 
@@ -25,7 +25,7 @@ Harris Interactive routinely reviews its security features and privacy practices
 
 **1) Company Background and Websites**
 
-Harris Interactive is a worldwide market research and consulting firm most widely known for _The Harris Poll_ ® and for its pioneering leadership in the online market research industry. This privacy statement covers the following of our sites: [www.harrisinteractive.com](http://www.harrisinteractive.com/), [www.novatris.com](http://www.novatris.com/), [www.hisbonline.com](http://www.hisbonline.com/), and [www.harrispollonline.com](http://www.harrispollonline.com/). Harris Interactive is not responsible for the privacy practices or the content of other websites. We recommend that you carefully read the privacy policies of each site you visit.
+Harris Interactive is a worldwide market research and consulting firm most widely known for _The Harris Poll_ and for its pioneering leadership in the online market research industry. This privacy statement covers the following of our sites: [www.harrisinteractive.com](http://www.harrisinteractive.com/), [www.novatris.com](http://www.novatris.com/), [www.hisbonline.com](http://www.hisbonline.com/), and [www.harrispollonline.com](http://www.harrispollonline.com/). Harris Interactive is not responsible for the privacy practices or the content of other websites. We recommend that you carefully read the privacy policies of each site you visit.
 
 Harrisinteractive.com is Harris Interactive’s corporate website including our European operations. Novatris.com is managed by our French subsidiary. Hisbonline.com is the website for HISB (Harris Interactive Service Bureau) a division of Harris Interactive that provides research services to other market research companies.
 
@@ -105,7 +105,7 @@ Though we make every effort to preserve user privacy, we may need to disclose pe
 
 **Passively Collected and Stored Information - Cookies and Log Files**
 
-We passively collect information to make your browsing experience more pleasant, and to understand what areas of our sites are more popular, what areas may require improvement, and what technologies are being used by members of our sites. This information helps us to update and improve our sites. We also use this information for security purposes, to detect and to block security breaches, to detect violations of our quality standards, for example, detecting multiple memberships from the same user which is not permitted by the [ Harris Poll Online Terms Of Use](https://web.archive.org/AdultReg.asp?lang=1), and to provide you with a safe online environment.
+We passively collect information to make your browsing experience more pleasant, and to understand what areas of our sites are more popular, what areas may require improvement, and what technologies are being used by members of our sites. This information helps us to update and improve our sites. We also use this information for security purposes, to detect and to block security breaches, to detect violations of our quality standards, for example, detecting multiple memberships from the same user which is not permitted by the [ Harris Poll Online Terms Of Use](https://web.archive.org/terms.asp), and to provide you with a safe online environment.
 
 Cookies are small text files stored on your computer by a website that assigns a numerical user ID and stores certain information about your online browsing. When we use cookies, we do so to help us recognize you as a prior user of this site. The cookie file does not store your personal information. If you prefer not to receive cookies from our website you can disable their use in your browser settings. By doing so you may reduce the functionality of the web pages you view.
 
