@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the desertusa.com privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622200131id_/http%3A//desertusa.com/who/du_who.html%23anchor1141274) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desertusa.com privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218230034id_/http%3A//www.desertusa.com/who/du_who.html%23anchor1141274) for the most accurate reproduction.*
 
 # DesertUSA General Information
 
 **Who We Are**
 
-DesertUSA.com is a monthly Internet-based magazine published by Digital West Media, Inc., a San Diego-based multimedia company which has been in the communications business for more than two decades. Among other services, Digital West Media, Inc. designs and produces information-based products such as software products and commercial Web sites.
+DesertUSA.com provides information on desert parks, desert animals, desert communities and desert activities in the North American deserts.  DesertUSA.com is managed by Digital West Media, Inc., a San Diego-based multimedia company.
 
 ### Our Purpose
 
-DesertUSA's purpose is to provide a tool for discovery -- a publication which entertains educates and explores with our readers, the beauty, life and culture of the North American deserts.
+DesertUSA's purpose is to provide a tool for discovery -- a web site which entertains educates and explores with our readers, the beauty, life and culture of the North American deserts.
 
 To this end, DesertUSA.com contains images, stories, movie and audio clips, virtual reality tours and hard data about, virtually any desert-related topic: plants, animals, geology, cultural and natural history, recreation, parks, cities, travel and people.  
 
@@ -25,7 +25,7 @@ DesertUSA offers advertising opportunities to businesses that would like to prom
 
 
 
-[**Advertising rates and general site information**](https://web.archive.org/web/20070622200131id_/http%3A//desertusa.com/ads/du_adrates.html)
+[**Advertising rates and general site information**](https://web.archive.org/web/20071218230034id_/http%3A//www.desertusa.com/ads/du_adrates.html)
 
 ### 
 
@@ -54,11 +54,11 @@ If you would like information about licensing materials from DesertUSA, please c
   
 Submitting Content To DesertUSA.com
 
-If you would like to [submit an article, story or personal adventure ](https://web.archive.org/web/20070622200131id_/http%3A//desertusa.com/who/du_submissions.html)to DesertUSA for possible publication, you can do so by following the guidelines listed on the [Content Submission page.](https://web.archive.org/web/20070622200131id_/http%3A//desertusa.com/who/du_submissions.html) DesertUSA reserves the right to refuse any content submitted. Manuscripts and content are not acknowledged or returned unless accompanied by self-addressed return envelope with proper postage attached. No responsibility is assumed for unsolicited contributions.
+If you would like to [submit an article, story or personal adventure ](https://web.archive.org/web/20071218230034id_/http%3A//www.desertusa.com/who/du_submissions.html)to DesertUSA for possible publication, you can do so by following the guidelines listed on the [Content Submission page.](https://web.archive.org/web/20071218230034id_/http%3A//www.desertusa.com/who/du_submissions.html) DesertUSA reserves the right to refuse any content submitted. Manuscripts and content are not acknowledged or returned unless accompanied by self-addressed return envelope with proper postage attached. No responsibility is assumed for unsolicited contributions.
 
-If you would like to submit a news item for the news blog, [DesertUSAblog.com](http://www.desertusablog.com/), please [click here](https://web.archive.org/web/20070622200131id_/http%3A//desertusa.com/who/du_talk.html#news) for more information.
+If you would like to submit a news item for the news blog, [DesertUSAblog.com](http://www.desertusablog.com/), please [click here](https://web.archive.org/web/20071218230034id_/http%3A//www.desertusa.com/who/du_talk.html#news) for more information.
 
-If you would like to submit and essay or photos for our [Desert Talk](https://web.archive.org/web/20070622200131id_/http%3A//desertusa.com/who/du_talk.html) area, please [click here](https://web.archive.org/web/20070622200131id_/http%3A//desertusa.com/who/du_talk.html#essay) for more information.
+If you would like to submit and essay or photos for our [Desert Talk](https://web.archive.org/web/20071218230034id_/http%3A//www.desertusa.com/who/du_talk.html) area, please [click here](https://web.archive.org/web/20071218230034id_/http%3A//www.desertusa.com/who/du_talk.html#essay) for more information.
 
 ### 
 
