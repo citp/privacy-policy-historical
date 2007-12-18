@@ -1,30 +1,13 @@
-> *The following text is extracted and transformed from the deltadentalins.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623015018id_/http%3A//www.deltadentalins.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deltadentalins.com privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218052233id_/http%3A//www.deltadentalins.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Statement
+# Web Privacy Notice
 
-PRIVACY STATEMENT
+WEB PRIVACY NOTICE 
 
-This policy was last updated on March 27, 2004
+This policy was last updated on July 1, 2006. For information regarding how we protect the privacy of enrollee information, please review our [Notice of Privacy Practices](https://web.archive.org/web/20071218052233id_/http%3A//www.deltadentalins.com/HIPAA.html). Information relating to the security of enrollee eligibility and benefits information is discussed in the Security section below.
 
-For information regarding how we protect the privacy of enrollee information, please review the enrollee privacy statement, accessible from   
-the home page of this web site. Information relating to the security   
-of enrollee eligibility and benefits information is discussed in the   
-Security section below.
+Policy   
+Delta Dental of California, Delta Dental of Pennsylvania and Delta Dental Insurance Company maintain the confidentiality of client, dentist and other information as required by law. Personal information that may be obtained through the use of our web services is not disclosed to other companies for marketing purposes, and personal information is released only as necessary for administration of the dental and vision benefit programs. If we receive personal information via the web site or e-mail, unrelated to administration of a benefit program, it is retained only for the purposes of responding to an inquiry and is routinely purged from our system.
 
-Policy 
-
-Delta Dental of California, Delta Dental of Pennsylvania, Delta Dental Insurance Company and Private Medical-Care, Inc. maintain the confidentiality of client, dentist and other information as required by law. Personal information that may be obtained through the use of our web services is not disclosed to other companies for marketing purposes, and personal information is released only as necessary for administration of the dental and vision benefit programs. 
-
-If we receive personal information via the web site or email, unrelated to administration of a benefit program, it is retained only for the purposes of responding to an inquiry and is routinely purged from our system.
-
-Security
-
-We employ security measures to control access to the eligibility and dental benefit information under our control. We use industry standard technical mechanisms, such as firewalls and encryption, to safeguard the confidentiality of personal enrollee information. E-mail of sensitive information may not be secure. When submitting inquiries regarding benefits or eligibility, please use one of our secure online forms. 
-
-A personal login ID and password are required to access any of our online services that display personal enrollee information. The pages displaying the user's dental benefits and/or claims information are secured (encrypted) pages. The user identification and password required for site access is internally validated to ensure this information cannot be viewed without proper authority and security authentication.
-
-We understand there may be sensitivity about using Social Security Numbers as a means of identification. Social Security Numbers are routinely used for patient identification in health care, and we only use this number to administer dental and vision programs and do not release it to unauthorized individuals. We will comply with applicable laws relating to use and display of Social Security Numbers. 
-
-Links to Other Web Sites
-
-While certain web pages may contain links to other related web sites, we are not responsible for the privacy practices or the content of such sites. The link to other web sites is for information purposes only and is not a guarantee or endorsement of the material, services or products on those web sites. 
+Security   
+We employ security measures to control access to the eligibility and dental benefit information under our control. We use industry-standard technical mechanisms, such as firewalls and encryption, to safeguard the confidentiality of personal enrollee information. E-mail of sensitive information may not be secure. When submitting inquiries regarding benefits or eligibility, please use one of our secure online forms. A personal login ID and password are required to access any of our online services that display personal enrollee information. The pages displaying the user's dental benefits and/or claims information are secured (encrypted) pages. The user identification and password required for site access are internally validated to ensure this information cannot be viewed without proper authority and security authentication. We understand there may be sensitivity about using Social Security numbers as a means of identification. Social Security numbers are routinely used for patient identification in health care. We only use this number to administer dental and vision programs and do not release it to unauthorized individuals. We comply with applicable laws relating to use and display of Social Security numbers. 
