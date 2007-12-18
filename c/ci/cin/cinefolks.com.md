@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cinefolks.com privacy policy that was archived on 2007-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070521010618id_/http%3A//cinefolks.com/Docs/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cinefolks.com privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219002944id_/http%3A//cinefolks.com/Docs/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy of CineFolks.Com
 
@@ -25,4 +25,4 @@ Children's Guidelines ( Children under 13 ) **
 This site collects and uses personally identifiable information without prior verifiable parental consent. This site allows children to post or distribute any personally identifiable information without first obtaining verifiable parental consent. 
 
 **Contacting the Web Site**   
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [Contact Us](https://web.archive.org/web/20070521010618id_/http://cinefolks.com/Docs/Privacy/CineFolks@gmail.com?subject=Privacy%20Statement). 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [Contact Us](https://web.archive.org/web/20071219002944id_/http://cinefolks.com/Docs/Privacy/CineFolks@gmail.com?subject=Privacy%20Statement). 
