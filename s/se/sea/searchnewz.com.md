@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchnewz.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625213244id_/http%3A//www.searchnewz.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchnewz.com privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218074057id_/http%3A//www.searchnewz.com/privacy.html) for the most accurate reproduction.*
 
 # Search Newz :: Privacy Policy
 
