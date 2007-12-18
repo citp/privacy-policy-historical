@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unitedinfoxchange.com privacy policy that was archived on 2007-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070615232626id_/http%3A//www.unitedinfoxchange.com/about/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unitedinfoxchange.com privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218203434id_/http%3A//www.unitedinfoxchange.com/about/Privacy.aspx) for the most accurate reproduction.*
 
 # Ideal Health Overview
 
