@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the wilx.com privacy policy that was archived on 2007-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070501202037id_/http%3A//www.wilx.com/unclassified/647.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wilx.com privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218064503id_/http%3A//www.wilx.com/unclassified/647.html) for the most accurate reproduction.*
 
-# WILX - HomePage
-
-GRAY TELEVISION GROUP, INC. PRIVACY POLICY AND YOUR PRIVACY RIGHTS
+# WILX - HomePage WILX TV 10, Mid-Michigan's Breaking News, Weather and Sports authority serving the Lansing and Jackson area
 
 This Privacy Policy does not cover the “Ask the Experts” advertising feature that may be included on this website.  Please see the separate privacy policy on the [Ask the Experts homepage](http://www.asktheexperts.org/).
 
@@ -141,6 +139,6 @@ We will use reasonable efforts to promptly investigate any complaint you may hav
 
 
 
-This Privacy Policy was last updated on Jan. 1, 2006 and is effective immediately.
+This Privacy Policy was last updated on Jan. 1, 2007 and is effective immediately.
 
-Copyright © 2006 Gray Television Group, Inc. All rights reserved.
+Copyright © 2007 Gray Television Group, Inc. All rights reserved.
