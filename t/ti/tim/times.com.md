@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the times.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627001204id_/http%3A//www.nytimes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the times.com privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218215410id_/http%3A//www.nytimes.com/privacy) for the most accurate reproduction.*
 
 # The New York Times > Member Center > Site Help > The New York Times Privacy Policy Highlights
 
@@ -12,7 +12,7 @@
 
 
   
-_Last Updated on October 16, 2006_
+_Last Updated on October 18, 2007_
 
 The New York Times wants to make our privacy practices clear and easy to understand. This page provides highlights of The New York Times Privacy Policy. For more information, please review our complete [Privacy Policy](http://www.nytimes.com/ref/membercenter/help/privacy.html). 
 
@@ -76,8 +76,7 @@ Except for [The Learning Network](http://www.nytimes.com/learning/index.html), T
 
 ### **How To Contact Us**
 
-For any questions or comments regarding our information or security practices, you may contact us by e-mail at feedback@nytimes.com or by mail at Privacy at Customer Care, 229 West 43rd Street, NY, NY 10036. The New York Times is a TRUSTe licensee and you may [contact TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php) if you feel a privacy question is not properly addressed.    
-
+For any questions or comments regarding our information or security practices, you may contact us by e-mail at feedback@nytimes.com or by mail at Privacy at Customer Care, 229 West 43rd Street, NY, NY 10036. The New York Times is a TRUSTe licensee and you may [contact TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php) if you feel a privacy question is not properly addressed. 
 
   
   
