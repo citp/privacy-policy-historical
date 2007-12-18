@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the ofree.net privacy policy that was archived on 2007-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070423044849id_/http%3A//www.ofree.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ofree.net privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218065803id_/http%3A//www.ofree.net/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy at ¤ Only Free
+
+[ ](https://web.archive.org/magazines.html "Get a free magazines subscription!")
 
 **TOP  
 Freebies Sites**
@@ -28,26 +30,28 @@ For questions regarding this privacy statement or the practises of this site, pl
   
    
   
-[](http://www.ofree.net/go/go.asp?lf3q3mntfh)
+[](https://web.archive.org/go/go.asp?l80ptk4auj)
 
-**Free $500 Dining Gift Card !**
+[](https://web.archive.org/holiday.html)
 
-Carrabba's, Macaroni Grill, P.F. Chang’s…hungry yet?
+**Free BRITA Riviera Water Pitcher !**
+
+More economical and more eco-friendly than bottled water.
 
 **or**  
-Subscribe to Our  
-[](http://www.addthis.com/feed.php?h1=http%3A%2F%2Fwww.ofree.net%2Frss2.xml&pub=Faraon "Subscribe to feed using any feed reader!")
+[](http://www.addthis.com/feed.php?pub=Faraon&h1=http%3A%2F%2Fwww.ofree.net%2Frss2.xml&t1= "Subscribe using any feed reader!")  
+to Our  
+[RSS FEED](https://web.archive.org/rss2.xml "Newest Freebies & Free Stuff")  
+and Get Your Newest Free Stuff & Freebies Faster and More Reliably! 
 
-and Get Your Freebies Faster and More Reliably! 
+**Free Sample of L'Oreal Colour Juice Sheer Lip Gloss!**
 
-**Free College Information !**
+Get a Lip Gloss sample now!
 
-Make more money, earn your degree online !
+**Get Harry Potter and the Deathly Hallows - FREE!**
 
-**Free Apple iPhone**
+HARRY POTTER Hardcover Box Set 1-6, PLUS Final Book 7, FREE!
 
-Surf the Web, download TV shows or call up your friends
+**100% Free Wrigley 5 GUM.**
 
-**Free Swiffer Sweeper**
-
-you’ll never want to clean your floors any other way
+The Future of Gum is 5.
