@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebags.com privacy policy that was archived on 2007-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070516203457id_/http%3A//www.ebags.com/help/index.cfm%3Ffuseaction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebags.com privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218174232id_/http%3A//www.ebags.com/help/index.cfm%3Ffuseaction%3Dprivacy) for the most accurate reproduction.*
 
 # Luggage, Handbags, Backpacks, Suitcases, Purses, Briefcases, Wallets & More - eBags
 
@@ -6,7 +6,7 @@
 
 #### Our Privacy Pledge
 
-Last Updated: 1/20/03; We understand and share your concern about privacy. We want to assure you that eBags respects your privacy and treats your personal information with the highest standards of safety, security and confidentiality. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. If you have questions regarding this Policy, you may direct them to [privacy@ebags.com](mailto:privacy@ebags.com). 
+We understand and share your concern about privacy. We want to assure you that eBags respects your privacy and treats your personal information with the highest standards of safety, security and confidentiality. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. If you have questions regarding this Policy, you may direct them to [privacy@ebags.com](mailto:privacy@ebags.com). Last Updated: 11/14/06 
 
   * What information does eBags collect?  
 
