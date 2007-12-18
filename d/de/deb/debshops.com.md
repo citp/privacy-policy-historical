@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the debshops.com privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208093218id_/http%3A//www.debshops.com/home/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the debshops.com privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218133013id_/http%3A//debshops.com/home/Privacy.asp) for the most accurate reproduction.*
 
 # Young Women and Teen Fashions, Prom Dresses and More - DEBShops.com
 
