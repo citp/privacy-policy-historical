@@ -1,30 +1,32 @@
-> *The following text is extracted and transformed from the evernote.com privacy policy that was archived on 2007-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070407180936id_/http%3A//www.evernote.com/en/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evernote.com privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218211911id_/http%3A//www.evernote.com/privacy) for the most accurate reproduction.*
 
-# EverNote - Privacy Policy
+# Privacy Policy | EverNote Corporation
 
-Dated September 7th, 2004
+[Home](https://web.archive.org/) > Privacy Policy
 
-EverNote Corporation (EverNote) has created this Privacy Policy to explain what information we collect, what we do with that information, and how we protect your privacy on the Internet. EverNote reserves the right to modify this policy from time to time without notice. Changes will be posted on the EverNote Web site.
+**Dated January 25, 2007**  
+_Replaces the copy published on September 7th, 2004_
+
+EverNote Corporation (EverNote, “we”) has created this Privacy Policy to explain what information we collect, what we do with that information, and how we protect your privacy on the Internet. EverNote reserves the right to modify this policy from time to time without notice. Changes will be posted on the EverNote Web site.
 
 ## Information Collection and Use
 
 EverNote is the sole owner of the information collected on this site. We do not share, sell, rent or otherwise distribute this information to others, except as disclosed in this privacy policy. EverNote collects your personal information only in the following cases:
 
-  * When you register with the riteMail service or update your record in this service. With such registration, we require your name, email address, and ask for other information, some of which may be required to use riteMail
-  * When you send a riteMail message using the Java client, EverNote receives your User Name and Password from the cookie it stored on your device during the registration (see "Use of Cookies" below) and uses this information for automatic authentication of your account
-  * When you send a riteMail message, EverNote identifies your email address and uses it for automatic authentication of your account
+  * When you register for any EverNote product, service or any portion of website, including but not limited to User Forum, or update your record after such registration. EverNote reserves the right to require registration information when it is necessary, at EverNote's sole discretion, to protect its intellectual property and privacy of other users and/or provide users with quality products and services.
+  * When you send a riteMail message from the site www.riteMail.com (owned by EverNote) using the Java client, EverNote receives your User Name and Password from the cookie it stored on your device during the registration (see “Use of Cookies” below) and uses this information for automatic authentication of your account. When you send a riteMail message using other devices or a PC, EverNote identifies your email address and uses it for automatic authentication of your account.
 
 
 
 ## Use of cookies
 
-EverNote's riteMail service uses "cookies" - small data files that a Web site script writes to your hard drive. A cookie file contains your User Name and Password and is used for automatic authentication of your account to facilitate your access to the service. The only personal information a cookie can contain is information you supply yourself. A cookie cannot read data off your hard disk or read cookie files created by other sites. If cookies in your browser are disabled, this will also disable automatic riteMail authentication, in which case you will be required to enter User Name and Password for each riteMail message you send.
+EverNote website may use “cookies” for user authentication, promotional campaigns that require user identification, and in other cases. Cookies are small data files that a Web site script writes to your hard drive. A cookie file may contain your User Name and Password and is used for automatic authentication of your account to facilitate your access to the service or to identify the Web location you have arrived from. The only personal information a cookie can contain is information you supply yourself. A cookie cannot read data off your hard disk or read cookie files created by other sites. If cookies in your browser are disabled or if you delete cookies, this will also disable automatic authentication, in which case you will be required to enter User Name and Password for each session on the EverNote Website and may be denied using certain functions of EverNote website, products and services.
 
 ## Usage Log
 
-EverNote's Web server also automatically receives and records information on our server logs from your browser, including your IP address and possibly domain name, and the page you requested. IP addresses are not linked to "personally identifiable information" - data or facts that would reveal your identity. We may use IP addresses to analyze trends, administer the site, track your navigation of the site, and gather broad demographic information for aggregate use. This information does not indicate the identity of particular Users.
+EverNote's Web server and software also automatically receives and records information on our server logs from your browser and the installed copy of the EverNote software, including your IP address and possibly domain name, and the page you requested. IP addresses are not linked to “personally identifiable information” — data or facts that would reveal your identity. We may use IP addresses to analyze trends, administer the site, track your navigation of the site, and gather broad demographic information for aggregate use. This information does not indicate the identity of particular Users.
 
-EverNote may use your information to fulfill your requests for its products and services, and to contact you with information about such products and services. You have an "opt-out" option during the registration and may expressly decline receiving such information.
+EverNote may use your information to fulfill your requests for its products and services, and to contact you with information about such products and services. You have an “opt-out” option during the registration and in software options and may expressly decline receiving such information and/or transferring any data to EverNote servers.
 
 ## Information Sharing and Disclosure
 
