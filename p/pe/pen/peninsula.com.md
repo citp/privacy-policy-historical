@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peninsula.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617050014id_/http%3A//www.peninsula.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peninsula.com privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218074521id_/http%3A//www.peninsula.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement: The Peninsula Hotels, Luxury Hotels in Asia and USA
 
@@ -8,7 +8,7 @@
 [To Plan A Meeting or Event](https://web.archive.org/meetings/index.html)|   
 Portraits of Peninsula|   
 Concierge Choice|   
-[Gift Certificates](https://web.archive.org/web/20070617050014id_/http%3A//www.peninsula.com/gift_certificates.html) |   
+[Gift Certificates](https://web.archive.org/web/20071218074521id_/http%3A//www.peninsula.com/gift_certificates.html) |   
 [News Centre](http://newscenter.peninsula.com/)|   
 [E-Brochures](https://web.archive.org/ebrochures.html)|   
 [Your Feedback](https://web.archive.org/email.html)|   
@@ -26,11 +26,19 @@ We limit the collection and use of the Data to the specific information we need 
 
 This privacy statement complies with the Personal Data (Privacy) Ordinance of the Hong Kong SAR.
 
+This privacy statement contains numerous general and technical details about the steps we take to respect your privacy concerns. We have organized the privacy statement by major processes and areas so that you can quickly link to the information of most interest to you. If, after reviewing this privacy statement you have any privacy question or concerns or would like to request access to or correction of Data, please send an email to info@peninsula.com or send a letter to:
+
+Marketing Department  
+The Peninsula Hotels  
+8/F, St George's Building  
+2 Ice House Street  
+Central, Hong Kong 
+
 **What Data Do We Collect?**
 
-We may request information in several areas of our website, including but not limited to, when you: - 
+We may request information in several areas of our website, and through our Global Customer Services Centre, including but not limited to, when you: - 
 
-  1. use our Online Reservations, newsletter subscription and brochure request; 
+  1. use our Online Reservations, make telephone enquiries, purchase a gift certificate, subscribe for our newsletter and brochure; 
   2. submit enquiries and feedback forms; 
   3. participate in our special marketing programmes and surveys.
 
@@ -87,9 +95,19 @@ A cookie is a piece of information about the user that a website can send to you
 
 We may collect information regarding your IP address, browser type, domain name and access time. This information is used for our own research and analysis purposes and is separate from the Data. We do not link IP addresses to any personal information. In rare instances, IP addresses may be used to assist in deterring and/or preventing abusive or criminal activity on the website.
 
+**Data Transfers Across International Borders**
+
+As a global company, we endeavor to provide you with the same outstanding service in Hong Kong, as you would find in New York or Beijing. To achieve this goal, we have established a global network comprised of properties, offices, data centers, trusted marketing partners, service providers, customer contact centers, and trained associates around the globe. The nature of our business and our operations required us to transfer your information, including personally identifiable information (PII), to other group companies, properties, centers of operations, data centers, or service providers that may be located in countries outside of your own. Although the data protection and other laws of these various countries may not be as comprehensive as those in your own country, The Peninsula Hotels will take appropriate steps to ensure that your PII is protected and handled as described in this privacy statement.
+
 **What Can you Do If You Have Questions?**
 
-You always have ultimate choice on the information you would like to receive from us. We will occasionally send you E-mail updates about our latest products and services, as well as special offers to those who subscribe to such services. Should you decide not to receive any E-mail updates from us, feel free to unsubscribe to these services or please e-mail us to remove you from the subscription list. If you have any queries or comments concerning our privacy and security matters, please e-mail us.
+You always have ultimate choice on the information you would like to receive from us. We will occasionally send you E-mail updates about our latest products and services, as well as special offers to those who subscribe to such services. Should you decide not to receive any E-mail updates from us, feel free to unsubscribe to these services or please e-mail us to remove you from the subscription list. If you have any queries or comments concerning our privacy and security matters, please e-mail us at info@peninsula.com or send a letter to:
+
+Marketing Department  
+The Peninsula Hotels  
+8/F, St George's Building  
+2 Ice House Street  
+Central, Hong Kong 
 
 **The Peninsula Hotels Legal Notices**
 
