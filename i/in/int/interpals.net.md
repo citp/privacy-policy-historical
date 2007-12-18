@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interpals.net privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623122227id_/http%3A//www.interpals.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interpals.net privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218100213id_/http%3A//www.interpals.net/privacy.php) for the most accurate reproduction.*
 
 # InterPals Penpals : Privacy Policy
 
