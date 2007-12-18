@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the voipreview.org privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629024951id_/http%3A//voipreview.org/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voipreview.org privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218075051id_/http%3A//voipreview.org/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Voip Review Privacy Policy
 
 **PRIVACY STATEMENT**
 
- **Information Collection and Use** Voip Review is the sole owner of the information collected on this site. We will not sell, share or rent this information to others in ways different from what is disclosed in this statement. 
+ **Information Collection and Use** Voip Review is the owner of the information collected on this site. We will not sell, share, or rent this information to others except when necessary or requested by users such as is the case with our 'Get Quote' form. 
 
 **Log Files** We use IP addresses to administer the site, track user movement and gather demographic information for aggregate use. IP addresses are not linked to identifiable information.
 
