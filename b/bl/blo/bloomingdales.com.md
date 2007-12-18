@@ -1,19 +1,19 @@
-> *The following text is extracted and transformed from the bloomingdales.com privacy policy that was archived on 2006-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061027180911id_/http%3A//www1.bloomingdales.com/service/policies/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloomingdales.com privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218230807id_/http%3A//www1.bloomingdales.com/service/policies/privacy.jsp) for the most accurate reproduction.*
 
 # Bloomingdale's - Privacy Policy
 
-|  | | | |   
----|---|---|---  
-[](http://www1.bloomingdales.com/customerservice/index.jsp)  
-| | [](http://www1.bloomingdales.com/customerservice/new.jsp)|   
-| | [](http://www1.bloomingdales.com/myinfo/index.ognc)|   
-| | [](https://www.bloomingdales.com/myinfo/status/index.ognc)|   
-| | [](http://www1.bloomingdales.com/customerservice/shipandreturns.jsp)|   
-| | [](http://www1.bloomingdales.com/redirect.jsp?http://help.bloomingdales.com/contact/)|   
-| | [](http://www1.bloomingdales.com/service/credit/index.ognc)|   
-| | [](http://www1.bloomingdales.com/media/about/index.jsp)|   
-| | [](http://www1.bloomingdales.com/about/shopping/index.jsp)|   
-| | [](http://www1.bloomingdales.com/customerservice/policies.jsp)|   
+|  | | | | | |   
+---|---|---|---|---|---  
+| [](http://www1.bloomingdales.com/customerservice/index.jsp)  
+| | [New to Bloomingdale's](http://www1.bloomingdales.com/customerservice/new.jsp)|   
+| | [My Account](http://www1.bloomingdales.com/myinfo/index.ognc)|   
+| | [My Order](https://www.bloomingdales.com/myinfo/status/orders.jsp)|   
+| | [Shipping & Returns](http://www1.bloomingdales.com/customerservice/shipandreturns.jsp)|   
+| | [Contact Us](http://www1.bloomingdales.com/redirect.jsp?http://help.bloomingdales.com/contact/)|   
+| | [Credit Services](http://www1.bloomingdales.com/service/credit/index.ognc)|   
+| | [About Bloomingdale's](http://www1.bloomingdales.com/media/about/index.jsp)|   
+| | [Shopping Services](http://www1.bloomingdales.com/about/shopping/index.jsp)|   
+| | [Our Policies](http://www1.bloomingdales.com/customerservice/policies.jsp)|   
 | | [Legal Notice](http://www1.bloomingdales.com/service/policies/legal.jsp)|   
 | | [Pricing Policy](http://www1.bloomingdales.com/customerservice/pricing.jsp)|   
 | | [Security Policy](http://www1.bloomingdales.com/service/policies/security.jsp)|   
@@ -21,12 +21,11 @@
 | | [California Privacy Rights](http://www1.bloomingdales.com/service/policies/california.jsp)|   
 | | [Fraud Alert](http://www1.bloomingdales.com/service/policies/fraud.jsp)|   
 | | [E-Gift Card Terms](http://www1.bloomingdales.com/service/policies/vgcterms.jsp)|   
+| | [Furniture/Mattress Warranties](http://www1.bloomingdales.com/service/policies/warranties.jsp)|   
+| | [FAQ](http://www1.bloomingdales.com/service/faq/index.jsp)|   
 | 
 
 |   
----  
-[Customer Service](https://web.archive.org/customerservice/index.jsp) > [Our Policies](https://web.archive.org/customerservice/policies.jsp) > **Privacy Policy**  
-  
   
   
 ---  
@@ -61,7 +60,7 @@ We collect various types of information depending upon how you use our site.
 
   * When you order from us, we collect your name, address, e-mail address, phone number and credit card number (with expiration date) or gift card number. We also gather information on the person who will receive any gift you send (e.g., that person's name and address) and retain a record of your purchases. If you are a registered user and have signed in when you enter this information, it is automatically saved in your Address Book for your ease of reference.
   * At Checkout, we collect the above information, as well as a credit card number and a billing and shipping address. If you are a registered user and have signed in before entering that information, it will be automatically saved in your Wallet.
-  * When you request to be on our mailing list (for e-mail or regular mail) or ask to receive the Bloomingdale's by Mail catalog, we collect your name, address, e-mail address and phone number. The information gathered will be shared with the Federated Department Stores' family of companies. We also may share this information with other third parties, including companies with which we have a relationship. At any time, you have the option to remove yourself from our mailing list, or to continue to receive promotional materials from us without having your information shared with third parties for marketing purposes. Please click here to see the choices you have regarding the use of your information.
+  * When you request to be on our mailing list (for e-mail or regular mail) or ask to receive the Bloomingdale's by Mail catalog, we collect your name, address, e-mail address and phone number. The information gathered will be shared with the Macy's, Inc. family of companies. We also may share this information with other third parties, including companies with which we have a relationship. At any time, you have the option to remove yourself from our mailing list, or to continue to receive promotional materials from us without having your information shared with third parties for marketing purposes. Please click here to see the choices you have regarding the use of your information.
   * We also gather information on the person who will receive any gift you send (e.g., that person's name and address) and we will retain a record of your purchases. If you are a registered user and have signed in when you enter this information, it is automatically saved in your Address Book for your ease of reference.
   * At Checkout, we collect the above information, as well as a credit card number and a billing and shipping address. If you are a registered user and have signed in before entering that information, it will be automatically saved in your Wallet.
   * When you register with us we also may ask for additional information (e.g., about your favorite brands and interests) in the section called My Profile, but you have the option not to provide it. We gather this information in order to offer services and promotions that may be of interest to you.
@@ -83,7 +82,7 @@ As a visitor to bloomingdales.com, you may choose to opt-out of Coremetrics' ana
 Please note that Coremetrics collects data on our site using first-party data collection. As a result, blocking cookies served from third-party domains will **not** block these first-party bloomingdales.com cookies. You need to follow the opt-out process specified (see paragraph above) in order to opt-out of Coremetrics data collection. 
 
 
-back to top  
+Back To Top  
   
 
 
@@ -97,7 +96,7 @@ Cookies can be used by a web site to recognize you. But, that does not necessari
 
 Bloomingdales.com uses pixels, or transparent GIF files, to help manage online advertising. These GIF files are provided by our ad management and email service partners. These files enable them to recognize a unique cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our website. The cookie was placed by us, or by another advertiser who works with these partners. The information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address.
 
-back to top  
+Back To Top  
   
 
 
@@ -108,11 +107,11 @@ We may use your information in a number of ways, including the following:
   * To enhance your online shopping experience. For example, we may use it to recognize you and welcome you to the site.
   * For marketing and promotional purposes. We send out e-mails and direct mail or catalogs to our customers about products or events that we think may be of interest to them. We also may send you offers for discounts or promotions, new arrivals or new site features. If you do not wish to receive e-mail from us, please click here to unsubscribe.
 
-back to top  
+Back To Top  
   
 
 
-The information gathered will be shared with the Federated Department Stores' family of companies. We also may share this information with other third parties, including companies with which we have a relationship. For example:
+The information gathered will be shared with the Macy's, Inc. family of companies. We also may share this information with other third parties, including companies with which we have a relationship. For example:
 
   * WeddingChannel (www.weddingchannel.com) operates the web site where you can access the Bloomingdale's bridal registry or register for your own wedding. When you use that website, both Bloomingdale's and WeddingChannel receive your information.[Click here](http://bloomingdales.weddingchannel.com/cgi-bin/gx.cgi/AppLogic+com.wc.Utility.NavBarForStaticHTML?frmSection=bloomingdales&location=%2Ftemplates%2FBloomingdales%2FHelpPages%2FPrivacyPolicyWC.html&storeGroup=BL) to see the Bloomingdale's WeddingChannel privacy policy.
   * bloomingdales.com may enter into a "co-branding" relationship with another website that offers you products or services (e.g., flowers). In those cases, you may link from bloomingdales.com to another site to purchase the item. In that case, both bloomingdales.com and the other web site may receive your information.
