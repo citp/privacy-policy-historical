@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the deepbox.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623135017id_/http%3A//www.deepbox.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deepbox.com privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218234611id_/http%3A//www.deepbox.com/privacy.php) for the most accurate reproduction.*
 
-# MySpace Comments, MySpace Images, MySpace Picture Codes, Funny MySpace Comments, MySpace Icons
+# MySpace Comments, MySpace Layouts, MySpace Images, Funny MySpace Comments, MySpace Christmas Images
 
 Deepbox.com. ("Deepbox"), comprised of the Internet sites Deepbox.com, is committed to protecting the privacy of users of the site. At Deepbox, we intend to give you as much control as possible over your personal information, including registration data. As part of the normal operation of the site, we collect information from you. This Privacy Statement describes the information we collect about you and how that information may be used. 
 
