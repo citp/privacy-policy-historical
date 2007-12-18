@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the protrade.com privacy policy that was archived on 2007-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070603003810id_/http%3A//www.protrade.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the protrade.com privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218141319id_/http%3A//www.protrade.com/Privacy.html) for the most accurate reproduction.*
 
-# PROTRADE: Privacy Policy
-
-| 
+# Privacy Policy : PROTRADE
 
 This Privacy Policy describes the information we collect about you and what may happen to that information.
 
@@ -43,8 +41,7 @@ If you have any questions about this privacy policy or the privacy practices of 
 
 **PROTRADE**  
 Customer Support, Attn: Privacy Policy  
-155 Bovet Road, Suite 500  
-San Mateo, CA 94402  
-
+525 Brannan Street, Ste. 100,  
+San Francisco, CA 94107-1632 
 
 EFFECTIVE DATE OF THIS PRIVACY POLICY: August, 2005
