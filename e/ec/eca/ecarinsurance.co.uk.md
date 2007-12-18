@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecarinsurance.co.uk privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630125452id_/http%3A//www.ecarinsurance.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecarinsurance.co.uk privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218153836id_/http%3A//www.ecarinsurance.co.uk/privacy.php) for the most accurate reproduction.*
 
 # eCar Insurance - Privacy and Security
 
@@ -33,7 +33,7 @@ You will only be able to access your policy by inputting your unique policy numb
 
 ## 5\. How Your Information Will Be Used
 
-Your information will be used for a number of purposes which include automatically processing your quotation, managing and administering your policy, claims handling and responding to complaints or policy enquiries. ecar may use your information to keep you informed by post, telephone or email of products or services which maybe of interest to you. We will also contact you to remind you your insurance is due for renewal. 
+Your information will be used for a number of purposes which include automatically processing your quotation, managing and administering your policy, claims handling and responding to complaints or policy enquiries. eCar and carefully selected third parties may use your information to keep you informed by post, telephone or email of products or services which maybe of interest to you. We will also contact you to remind you your insurance is due for renewal. 
 
 ## 6\. Access To Your Information
 
