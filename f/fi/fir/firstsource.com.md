@@ -1,20 +1,22 @@
-> *The following text is extracted and transformed from the firstsource.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627091155id_/http%3A//www.firstsource.com/company/privacyStatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstsource.com privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218024034id_/http%3A//www.firstsource.com/footer/Privacy-Policy.aspx) for the most accurate reproduction.*
 
-# Firstsource - Privacy Statement
+# Firstsource - Privacy Policy
 
-Firstsource Solutions Limited ("Firstsource") respects your privacy and is committed to protecting the information you provide to us through this Web site. We do not sell or distribute user information to third parties. We gather user information and will distribute this information within Firstsource in order to serve your needs and respond to your information requests. These are the guidelines we use in protecting your privacy.
+We collect no personal information about you when you visit our website unless you choose to provide this information to us. However when you browse through the website, read pages, or download content, certain information is automatically transmitted by your browser. This information may consist of : 
 
-Collecting User Information: We collect information about our Web visitors indirectly through our Internet access logs. When you access Firstsource, the browser's domain name and Internet address is automatically collected and placed in our Internet access logs. We use this information to learn about which sections, pages and information Web site visitors access. 
+  * The URL (Uniform Resource Locator or address) of the web page you previously visited 
+  * The domain names and/or IP addresses which are numbers that are automatically assigned to your computer whenever you are connected to the Internet or World Wide Web 
+  * The browser version you are using to access the site 
+  * Language and date/time of request
 
-Use of Cookies:
 
-Firstsource web site may use cookies. Cookies are small files of information, which save specific information about your visit. The cookies are used to assist in producing overall site visitor statistics. Cookies, by themselves, cannot be used to find out the identity of any user. Unless you specifically tell us who you are by  
-completing a contact form, we will never know who you are even though we may assign you a cookie. If you wish, you can disable cookies on your computer by changing the settings in preferences or options menu in your browser.
 
-Disclosure of User Information:
+This information does not identify individual users, but does provide information to help improve our website. We use the information to help us make our site more useful to visitors. 
 
-Firstsource does not and will not sell or distribute user information to third-parties. If you have submitted user information to us through an e-mail or contact form, Firstsource maintains your security by ensuring the information is only distributed within ICICI Group to officials who would be responsible for responding to your requests either directly or indirectly. 
+The company website registration form requires certain contact information like a user email address, physical address, zip code and demographic information. You may choose to provide us with personal information for us to send you  information on Firstsource. The personal information you choose to provide us is voluntary. We do not use cookies, and we do not require you to provide any information about yourself that you do not wish to share.
 
-External Links:
+We do not share any personal information with any third parties.
 
-Firstsource web site provides links to other third party Web sites. Firstsource is not responsible for the content or policies of these web sites. These links are provided to you for convenience purposes only, and Firstsource is not liable for inaccuracy of any information on such sites.
+Users may opt-out of receiving future mailings by emailing us at [webmaster@firstsource.com](mailto:webmaster@firstsource.com). 
+
+Security: This site has security measures in place to protect the loss, misuse, and/or alteration of information under our control. We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems.
