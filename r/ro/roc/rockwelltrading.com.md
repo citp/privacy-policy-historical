@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rockwelltrading.com privacy policy that was archived on 2007-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070614093101id_/http%3A//www.rockwelltrading.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rockwelltrading.com privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219122836id_/http%3A//www.rockwelltrading.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Daytrading Courses For Beginners | Rockwell Trading : Privacy Policy
 
