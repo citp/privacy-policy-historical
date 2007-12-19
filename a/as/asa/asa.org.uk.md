@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asa.org.uk privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624051258id_/http%3A//www.asa.org.uk/asa/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asa.org.uk privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219212702id_/http%3A//www.asa.org.uk/asa/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -30,7 +30,7 @@ The ASA takes its responsibilities regarding the confidentiality of your perso
 
 8\. If the ASA decides to change its Privacy Policy, it will post such changes on this page so that you are always aware of how the ASA uses your personal information and in what circumstances it discloses it. 
 
-9\. Cookie Policy 
+9\. Cookie Policy
 
 The ASA website cookie policy has been developed in conjunction with the Interactive Advertising Bureau Cookie initiative ([www.allaboutcookies.org](http://www.allaboutcookies.org/)) to tell users what cookies are used on this site and how to manage them. 
 
@@ -55,8 +55,6 @@ Because of the dynamic and interactive nature of our website, services or conten
 9.3. Details of the purposes for which web beacons are used on our site and categories of data that may be used in conjunction with those web beacons. 
 
 A web beacon is a line of code that is installed on some web pages in order to request a 1x1 pixel tag (also known as a clear GIF). These requests are used to log information. For more information about how this interactive technology works, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/). 
-
-Web beacons are not used on this website. 
 
 9.4. How to manage the use of cookies at our website 
 
