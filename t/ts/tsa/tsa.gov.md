@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tsa.gov privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629102441id_/http%3A//www.tsa.gov/research/reading/regs/editorial_1773.shtm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tsa.gov privacy policy that was archived on 2007-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071220000844id_/http%3A//www.tsa.gov/research/reading/regs/editorial_1773.shtm) for the most accurate reproduction.*
 
 # TSA: Web Site Policies
 
@@ -52,6 +52,8 @@ Back To Top
 ## Links to Other Sites
 
 Our Web site has many links to our partners, especially other federal agencies. In a few cases we link to private organizations. When you link to another site, you are no longer on our site and are subject to the privacy policy of the new site.
+
+TSA does not endorse, support or otherwise promote any private or commercial entity that may be reached through links on our Web site.
 
 Back To Top
 
