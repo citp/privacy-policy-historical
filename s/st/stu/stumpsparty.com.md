@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the stumpsparty.com privacy policy that was archived on 2007-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070208171229id_/http%3A//www.stumpsparty.com/service.cfm%3Fpage%3Dsite_security%26SecID%3D10%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stumpsparty.com privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219163630id_/http%3A//www.stumpsprom.com/service.cfm%3Fpage%3Dsite_security%26SecID%3D10%23privacy) for the most accurate reproduction.*
 
-# 
+# Prom Decorations, Prom Favors, Prom 2008 – Stumps Prom and Party
 
 ### Site Security
 
-> At Stumps Party, your security is our number one concern. We are pleased to tell you about the measures we have taken to ensure your security. 
+> At Stumps Prom, your security is our number one concern. We are pleased to tell you about the measures we have taken to ensure your security. 
 > 
 > We have followed and surpassed all industry standards necessary for a secure site. We are a GeoTrust™ secure site. This means that all information sent to our site is encrypted and protected against disclosure to third parties. 
 
@@ -16,9 +16,9 @@
 > 
 > #### Cookies
 >
->> A "cookie" is a small text file that your browser keeps on your hard disk, and is very common on the Internet. They are a way for Stumps Party to remember who you are. They also allow us to "remember" what you put in your shopping bag as you browse through our product selection. However, you can still browse our products and use many of our site features without cookies. 
+>> A "cookie" is a small text file that your browser keeps on your hard disk, and is very common on the Internet. They are a way for Stumps Prom to remember who you are. They also allow us to "remember" what you put in your shopping bag as you browse through our product selection. However, you can still browse our products and use many of our site features without cookies. 
 >> 
->> To place an order on Stumps Party, your browser does need to accept cookies. If you do not feel comfortable modifying your browser preference files, please feel free to e-mail us for assistance. 
+>> To place an order on Stumps Prom, your browser does need to accept cookies. If you do not feel comfortable modifying your browser preference files, please feel free to e-mail us for assistance. 
 >> 
 >> To enable cookies in your browser.
 >> 
@@ -31,11 +31,11 @@
 >
 >> Under the Fair Credit Billing Act, your bank or credit card company cannot hold you responsible for more than $50 of any unauthorized or fraudulent charges on your credit card. In the event of any unauthorized use of your credit card, you are required to notify your credit card provider in accordance with the agreement you have with them. 
 >> 
->> Please rest assured that shopping on Stumps Party is safe and secure! You'll find the experience fun, easy and quick. 
+>> Please rest assured that shopping on Stumps Prom is safe and secure! You'll find the experience fun, easy and quick. 
 
 ### Privacy Policy
 
-> > Revised March 2004
+> > Revised April 2005
 >> 
 >> We want you to know that we respect your privacy and value you as a customer. To this end, we have initiated policies to ensure that your personal information is handled safely and responsibly.
 >> 
@@ -71,18 +71,20 @@
 >> 
 >> Mail your request to:
 >>
->>> Stumps Party  
+>>> Stumps Prom  
 >  Attn: Customer Service  
 >  P.O. Box 305  
 >  South Whitley, IN 46787-0305
 >>> 
 >>> _E-mail your request to:_  
->  [Customer Service](mailto:csr@stumpsparty.com)
+>  [Customer Service](mailto:csr@stumpsprom.com)
 >>> 
 >>> _Or call us at:_  
->  1-800-348-5084
+>  1-800-227-2789
 >> 
->> We will occasionally share our customers’ mailing information with select companies that we feel might be of interest to you. If you prefer that we do not share your name, simply mail or e-mail us your name and mailing address. Again, be sure to provide your exact name and address so that we may identify you correctly.
+>> We will occasionally share our customers’ mailing and other information with select companies that we feel might be of interest to you, but we will never share any personally identifiable information we collect from you without your consent. If you prefer that we do not share your name, simply mail or e-mail us your name and mailing address. Again, be sure to provide your exact name and address so that we may identify you correctly.
+>> 
+>> We may employ other companies to provide similar marketing services on our behalf. With our approval, these third parties may also place “cookies” for analysis purposes. These third-party companies will have access to the information needed to perform their functions but cannot use that information for any other purpose. These third-party companies will only have access to non-personal information about your visit or transaction, such as the URLS which lead you to and around our site, pages visited, the product(s) purchased, and the amount spent; these companies will not have access to information that will allow them to personally identify you.
 >> 
 >> To remove your name from mailing lists of other printed catalogs that belong to the Direct Marketing Association, write to:
 >>
@@ -97,9 +99,9 @@
 > 
 > ### Questions or Concerns
 >
->> If you at any time have questions, concerns, or need assistance with our Privacy Policy, please feel free to e-mail us at [Customer Service](mailto:csr@stumpsparty.com), call us toll free at 1-800-348-5084 or write to us at:
+>> If you at any time have questions, concerns, or need assistance with our Privacy Policy, please feel free to e-mail us at [Customer Service](mailto:csr@stumpsprom.com), call us toll free at 1-800-227-2789 or write to us at:
 >>
->>> Stumps Party  
+>>> Stumps Prom  
 >  Attn: Customer Service  
 >  P.O. Box 305  
 >  South Whitley, IN 46787-0305
