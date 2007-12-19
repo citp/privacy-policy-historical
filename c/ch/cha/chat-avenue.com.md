@@ -1,14 +1,18 @@
-> *The following text is extracted and transformed from the chat-avenue.com privacy policy that was archived on 2007-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070615184036id_/http%3A//www.chat-avenue.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chat-avenue.com privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219103227id_/http%3A//www.chat-avenue.com/privacy.html) for the most accurate reproduction.*
 
 # #1 Chat Avenue - Privacy Statement
+
+_**Important Note to Children under 13:**_ Children under 13 are not allowed to use any of our chat rooms or allowed to participate in any way, shape, or form on this website. 
+
+#1 Chat Avenue is a general audience community chat site that allows users to interact with other users via chat rooms and [message forums](https://web.archive.org/web/20071219103227id_/http%3A//www.chat-avenue.com/forums.html). It has twelve different chat "categories" to choose from and a message forum with various topics. All users **MUST** be 13 or over to participate. 
 
 We use an outside ad company to display ads on our site. These ads may contain cookies. Cookies received with banner ads are collected by our ad company, and we do not have access to this information. This information is used for tracking purposes only and are not and cannot be used to obtain personal information about you. 
 
 #### 
 
-This Web site does not request any personal information or collect any information that personally identifies you or allows you to be personally contacted, in order to participate. The only information collected is the domain name (but not the e-mail address) of visitors, the e-mail addresses of those who communicate with us via e-mail and signs up for our chat forums. This information will never be shared or sold. 
+This Web site does NOT request any personal information or collect any information that personally identifies you or allows you to be personally contacted, in order to participate. Your Internet Service Provider (but not your e-mail address) of visitors, the e-mail addresses of those who communicate with us via e-mail and signs up for our message forums. This information will never be shared or sold. All communication from emails to us by users known or identified as being under the age of 13 are deleted immediately. 
 
-The web site server logs will store the IP address of individual accessing this web site. The IP address, through your ISP, can identify YOU and/or the OWNERS. This information is not accessible by our web site but we may report unlawful activity to your ISP in order to identify you for possible legal action. 
+The web site server logs will store the IP address of individual accessing this web site. The IP address, through your ISP, can identify the household where the user accessed this website. This information is not accessible by our website or our staff, but we may report unlawful activity to your ISP in order to identify you for possible legal action. 
 
 This IP address will never be shared or revealed unless under the following circumstances: 
 
@@ -18,17 +22,21 @@ This IP address will never be shared or revealed unless under the following circ
 
 Since we do not collect any personal information on this Web site, we do not share any personal information with any third parties nor do we use any personal information for any purposes. 
 
-This site utilizes chat rooms and forums which can potentially result in the disclosure of personal information publicly. If/When we become aware of this, we will delete any personal information including, but not limited to, email addresses, phone numbers, names, and home addresses. 
+This site utilizes chat rooms and forums which can potentially result in the disclosure of personal information publicly. If we become aware of this (regardless of the users age), we will delete any personal information including, but not limited to, email addresses, phone numbers, names, and home addresses immediately. Please note that we DO NOT store logs of chat conversations. 
 
-**_Children's Privacy_**
+**_For Parents: Children's Privacy_**
 
-Our website is not directed at, or intended for use by, children under the age of 13. We do not knowingly allow anyone to provide any personal identifying information on our website. Children should always get permission from a parent or guardian before sending personal information over the Internet. If you believe your child may have provided us with personal information, you can contact us admin@chat-avenue.com and we will delete the information immediately. IMPORTANT NOTE: The "Kids Chat" is for users 13-16 years old. We apologize for any inconvenience.
+Our website is not directed at, or intended for use by, children under the age of 13. This website is a general audience website but we have blocked out users under 13 on the kids chat area of our site that may be misunderstood by some as being directed for users under 13. We do not knowingly allow anyone to provide any personal identifying information on our website. Everyone must take caution before sending personal information over the Internet and through chatrooms. 
+
+If you have discovered that your child (who is under 13) has registered for a message forum account, please email the [Administrator](mailto:admin@chat-avenue.com) with your childs message forum username and we will have that account and any message postings he/she has made, removed immediately. 
+
+IMPORTANT NOTE: The "Kids Chat" is for older kids. Specifically, users aged 13-16 years old. An age verification process has been implemented to prevent users, under the age of 13 and over the age of 16, to participate in the Kids chat. 
 
 This site contains links to other sites. **#1 Chat Avenue** is not responsible for the privacy practices or the content of such Web sites. 
 
-This site makes chat rooms, forums and/or message boards available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information to others. This site does not collect any personal information from the chat rooms that can personally identify you in any way. Email addresses are required in order to register for the forums, but those are never shared with any third parties and are only used for registration purposes. In addition, users must be 13 years or older in order to register to the forums. 
+This site makes chat rooms and message forums available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information to others. This site does not collect any personal information from the chat rooms or message forums that can personally identify you in any way. Email addresses are required in order to register for the message forums, but those are never shared with any third parties and are only used for registration purposes. In addition, users must be 13 years or older in order to register to the forums. As mentioned previously, if your child is under 13 and has registered for a forums account, please contact us immediately with their username and we will have it removed immediately. 
 
-#1 Chat Avenue will never require a user to submit any more personal information other than what is required for activity participation. (such as entering a chat nickname) 
+#1 Chat Avenue will never require a user to submit any more personal information other than what is required for activity participation. (Age verification and/or chat nickname) 
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can write us an email at:   
 
