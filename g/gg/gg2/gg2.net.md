@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gg2.net privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625041634id_/http%3A//www.gg2.net/privpol.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gg2.net privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219223545id_/http%3A//www.gg2.net/privpol.asp) for the most accurate reproduction.*
 
 # 
 
