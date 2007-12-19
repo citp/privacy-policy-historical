@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the i-am-bored.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629155236id_/http%3A//i-am-bored.com/im_bored_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the i-am-bored.com privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219114005id_/http%3A//www.i-am-bored.com/im_bored_privacy.asp) for the most accurate reproduction.*
 
 # I Am Bored - Sites for when you're bored.
 
@@ -88,12 +88,8 @@ With the permission of a guest who is 13 years of age or over, information submi
 
 Third Party Advertising 
 
-We use MaxOnline and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here: 
-
-<http://www.maxonline.com/privacy_policy/index.php>
-
-Third Party Cookies 
+We use MaxOnline and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. Third Party Cookies 
 
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. 
 
-< [**Back to I Am Bored Home**](https://web.archive.org/web/20070629155236id_/http%3A//i-am-bored.com/im_bored_latest_1.htm)
+< [**Back to I Am Bored Home**](https://web.archive.org/web/20071219114005id_/http%3A//www.i-am-bored.com/im_bored_latest_1.htm)
