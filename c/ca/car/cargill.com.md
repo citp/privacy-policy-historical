@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cargill.com privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609190538id_/http%3A//www.cargill.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cargill.com privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219141326id_/http%3A//www.cargill.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Home
 
@@ -10,4 +10,4 @@ It is Cargill's policy to use personally identifiable information for Cargill's 
 
 Cargill's privacy policy may be changed without notice, but will be updated on this page. Changes will not be applied retroactively. You can continue to find Cargill's privacy policy at this site or you may 
 
-[_contact us with any questions_](https://web.archive.org/web/20070609190538id_/http%3A//www.cargill.com/contacts/index.htm).
+[_contact us with any questions_](https://web.archive.org/web/20071219141326id_/http%3A//www.cargill.com/contacts/index.htm).
