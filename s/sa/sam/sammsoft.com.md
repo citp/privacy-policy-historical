@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sammsoft.com privacy policy that was archived on 2007-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070614124456id_/http%3A//www.sammsoft.com/privacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sammsoft.com privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219203721id_/http%3A//www.sammsoft.com/privacyPolicy.aspx) for the most accurate reproduction.*
 
 # Sammsoft Privacy Policy
 
