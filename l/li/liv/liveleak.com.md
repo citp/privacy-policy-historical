@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liveleak.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607040355id_/http%3A//www.liveleak.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liveleak.com privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219175140id_/http%3A//www.liveleak.com/privacy) for the most accurate reproduction.*
 
 # LiveLeak.com - Redefining the Media
 
