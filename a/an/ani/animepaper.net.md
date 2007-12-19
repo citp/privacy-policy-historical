@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the animepaper.net privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607195805id_/http%3A//www.animepaper.net/faq/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animepaper.net privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219023614id_/http%3A//www.animepaper.net/faq/privacy) for the most accurate reproduction.*
 
-# FAQ - AnimePaper - Anime and Manga wallpapers and scans! (アニメ)
+# FAQ - Anime Paper - Anime and Manga wallpapers and scans! (アニメ)
+
+## AnimePaper Community Guide
 
 **Our Commitment To Privacy**
 
