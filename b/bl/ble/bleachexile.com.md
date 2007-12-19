@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the bleachexile.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623051311id_/http%3A//www.bleachexile.com/privacy%2520policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bleachexile.com privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219014616id_/http%3A//www.bleachexile.com/information/privacy-policy) for the most accurate reproduction.*
 
-# Bleach Exile - Privacy Policy
+# Bleach Exile > Information > Privacy Policy
+
+[Make a donation today!](https://web.archive.org/information/donations/) Browse AD free, unlimited downloads, customize yourself, and much more!
 
 Privacy Policy
 
@@ -25,9 +27,8 @@ At Bleachexile.com we make reasonable efforts to protect personal information su
 Third Party websites may collect information from users of Bleachexile.com, this information will include your IP address, hostname, and information about your system to help us serve you better. These are purely used for statistical reasons, and will not be used in any way other then that.
 
 **Website Policy Changes**  
-Bleachexile.com reserves the right to change this, and any other policy located on our website at anytime without notifying our users. If you have any comments, questions, or concerns regarding this policy, please feel free to contact [bleachxl@gmail.com](mailto:bleachxl@gmail.com) with the topic as privacy policy
+Bleachexile.com reserves the right to change this, and any other policy located on our website at anytime without notifying our users. If you have any comments, questions, or concerns regarding this policy, please feel free to contact [bleachexile@gmail.com](mailto:bleachexile@gmail.com) with the topic as privacy policy
 
-By continuing to access Bleachexile.com and any of it's affiliated websites and files, you are expressly and impliedly agreeing to all of the terms as stated above on this document. You also hereby affirm that you are in compliance with all Federal, State and Local laws in your place of residence concerning the contents of Bleachexile.com, and are also in agreement with our [Disclaimer](https://web.archive.org/web/20070623051311id_/http%3A//www.bleachexile.com/Disclaimer.html) and [Terms of Use](https://web.archive.org/web/20070623051311id_/http%3A//www.bleachexile.com/Terms%20of%20Use.html). 
+By continuing to access Bleachexile.com and any of it's affiliated websites and files, you are expressly and impliedly agreeing to all of the terms as stated above on this document. You also hereby affirm that you are in compliance with all Federal, State and Local laws in your place of residence concerning the contents of Bleachexile.com, and are also in agreement with our [Legal Disclaimer](https://web.archive.org/information/legal-disclaimer/) and [Terms of Use](https://web.archive.org/information/terms-of-use/). 
 
-  
-
+animenfo anime suki dattebayo naruto fan naruto central naruto kun bleach portal one manga manga volume aco starkana dyne bleach exile
