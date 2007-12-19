@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arkansas.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629205705id_/http%3A//www.arkansas.com/privacy/default.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arkansas.com privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219080619id_/http%3A//www.arkansas.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
