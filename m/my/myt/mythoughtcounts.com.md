@@ -1,149 +1,108 @@
-> *The following text is extracted and transformed from the mythoughtcounts.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630182742id_/http%3A//customersupport.networksolutions.com/article.php%3Fid%3D306) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mythoughtcounts.com privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219213734id_/http%3A//mythoughtcounts.com/privacy.htm) for the most accurate reproduction.*
 
-# Privacy Policy
+# MyThoughtCounts: Share your opinion to win great prizes!
 
-#### Find Answers To Your Questions:
+### Commitment
 
-Search by keyword or browse by category for immediate answers to frequently asked questions: 
+Ampario is an online data collection, marketing, and advertising company dedicated to providing high performance data and solutions to the Market Research community. We design, build, and distribute digital panels, products, and campaigns. In doing so we hold your privacy in the highest importance and provide this statement disclosing the privacy practices for Ampario , Ampario Media, Ampsurveys.com, and all properties in the Ampario network referred to throughout as simply Ampario. This notice will be available at all Ampario properties in which personally identifiable information is requested. By visiting Ampario, you are accepting the practices described herein. Because Ampario wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and notify you of the following:
 
-### Privacy Policy
+### The information we collect.
 
-**Why A Privacy Policy?**  
+The information we collect helps us ensure that our services are best designed to meet your needs. We receive and store any information that you enter on any registration page, typically for contests, sweepstakes, surveys, and or other promotions. If you are giving us information in order to participate in a survey, sweepstakes, contest or other promotion, your participation is completely voluntary and you therefore have a choice whether or not to disclose this information of which some is required which we will identify and some is optional. We collect both contact and other unidentifiable information including but not limited to the following.
 
-  
-Network Solutions respects your individual privacy. This Privacy Policy ('Policy') embodies our commitment to its protection through adherence to fair electronic information practices. This Policy puts you, the individual, in control of how your personal information is processed. You have our promise that we will not electronically process your personal information in any way that is incompatible with this Policy.
+• First Name  
+• Last name  
+• Email address  
+• Member Name  
+• Password  
+• Birthdate  
+• Gender  
+• Ethnicity  
+• Zip code  
+• Highest level of education completed  
+• Total yearly family household income before taxes
 
- **This Privacy Policy protects your privacy by:**
+**A. Contact Information**
 
- **Informing you about:**
+Contact information consists of the information that we can use to contact you if, for example, you win one of the contests or promotions sponsored by Ampario and/or its affiliates and partners. This generally consists of your e-mail address, IP address and possibly your name, mailing address and telephone number. Visitors who supply Ampario with their postal address may receive periodic postal mailings with useful information from other reputable companies.
 
-  * The types of personal information Network Solutions collects about you through its Web sites; 
-  * How it collects that information; 
-  * The general purposes for which it collects such information; 
-  * The types of organizations to which it discloses the information; 
-  * The choices and means by which individuals may limit its use and disclosure. 
+**B. Other Information**
 
+Profile data also is collected at our site. Depending on the specific Ampario products for which a user ("User") registers, various information will be requested. We use this data to tailor the visitor's experience in the current environment and through e-mails. By obtaining this information, we can provide our Users with specific content that we think they might be interested in, according to their preferences and interests. The User may include only the information he or she feels comfortable including. However, the more information we have about a User, the more valuable the Ampario experience will be for that User.
 
+### How is User information used?
 
-**Empowering you to choose:**
+**A. Information that you provide**
 
-  * Whether and how certain personal information you provide is used (where such use is unrelated to the uses for which you originally disclosed it); and 
-  * Whether and the manner in which a third party uses certain personal information you provide (where such use is unrelated to the uses for which you originally disclosed it). 
+Ampario does not send unsolicited or "spam" e-mail. We use User information in a number of ways, including:
 
+1) to invite users to surveys that match their profile;  
+2) to send targeted advertising that allows us to provide our service at no cost to the Users;  
+3) to send promotions and coupons based on their interests;  
+4) to send targeted information to the User in the form of e-mail messages and/or direct mail;  
+5) to monitor and improve its internal operations,  
+6) to send Users other information about Ampario and/or its products.
 
+When you register with Ampario, you may receive offers from us or our marketing partners. Our marketing partners may use this information to make offers to you in your areas of interest or other offers. Our marketing partners wishing to contact you either give their e-mail message to us and we deliver it to you, or with your prior permission, we provide your contact information to them so they can deliver messages directly to you. It is solely at your discretion if you choose to provide additional personally identifiable information to a marketer by making a purchase, requesting additional information, or communicating directly with the company or organization after using its website. We may also use outside companies to execute the marketing campaigns on our behalf or on behalf of some of our marketing partners. We will share your e-mail name & other information that you give us that is necessary for these third parties to provide these services. These third parties are not allowed to use personally identifiable information except for the purposes of providing these services.
 
-**Assuring you that Network Solutions:**
+**B. Automatic Information ("Cookies") and similar objects.**
 
-  * Takes reasonable precautions to protect personal information from loss, misuse, unauthorized access, disclosure, alteration or destruction; 
-  * Implements reasonable policies and procedures to ensure that personal information is kept only for the purposes for which it has been gathered; 
-  * Uses reasonable measures to ensure that we have accurately and completely recorded the personal information you have provided; and 
-  * Provides you reasonable access to your personal information as well as procedures for correcting or modifying that information where appropriate. 
+We use a cookie, and or other similar objects refered to as ‘cookies’ throughout for convenience, as a piece of data stored on the User's hard drive containing information about the User. Usage of a cookie is in no way linked to any personally identifiable information while on the Ampario Site. For instance, by setting a cookie on our site, the User would not have to log in a password more than once, thereby saving time while on our site. If a User rejects the cookie, he or she may still use our site. The only drawback to this is that the User will be limited in some areas of the Ampario Sites. For example, the User may not be able to participate in selected Sweepstakes, promotions, surveys, contests or monthly Drawings that take place. Cookies also can enable us to track and target the interests of our Users to enhance their experience on the Ampario Site.
 
+You can set your browser to not accept cookies. Please be aware that by doing so certain features of the Ampario Site may not work. See your browser's documentation for more information on accepting cookies.
 
+Ampario uses cookies to collect and store certain types of information when you interact with us in order to (i) access your account information (stored on our computers) and keep track of your points or credits; and (ii) learn what you like and, hence, to provide a more personalized experience for you. In the future, Ampario may use cookies to enable us or a merchant to track visits to and business. Ampario strongly encourages all of its partners to post their privacy policies on their sites and to adhere to the same high standards as stated herein.
 
-**Ensuring accountability** to individuals who believe that Network Solutions has not complied with these privacy principles. 
+**C. Log Files**
 
-  
-**Third Party Advertising and Cookies**
+We use IP addresses to analyze trends, administer the site, track User's movement, and gather broad demographic information for aggregate use. While we collect standard Apache log files, we do not use them for any purpose other than determining page views. We also collect pages visited within our database through cookies (as discussed above). This data is connected with registration information so we can determine site usage and for marketing research.
 
-We use third-party advertising companies to serve ads on our Web site and other Web sites. In the course of serving advertisements, these companies may place or recognize a unique 'cookie' on your hard drive, and may use information (not including your name, address, e-mail address, or telephone number) about your visits to this and other web sites in order to measure advertising effectiveness and to provide advertisements about goods and services of interest to you. For more information about this practice and to know your choices about not having your information used by these companies, please visit 
+### Information Sharing.
 
-[http://www.doubleclick.net/us/corporate/privacy](http://www.doubleclick.net/us/corporate/privacy) and <http://www.accipiter.com/company/privacy.php>. 
+**A. Registration Information**
 
-Network Solutions shares Web site usage information about visitors to our Web site with a reputable third-party advertising company for the purpose of targeting our Internet banner advertisements on this site and other sites. For this purpose, we and our third-party advertising company note some of the pages you visit on our Web site through the use of pixel tags (also called clear gifs). The information collected by our third-party advertising company through the use of these pixel tags is not personally identifiable. For more information about our third-party advertiser, please click here. To opt out of the targeting program, please click 
+As part of the registration process, we often offer you the option to take advantage of offers from our partners. Those offers are optional and you do not have to sign-up for any offers in order to participate in the main promotional offer (although you may need to check or uncheck certain boxes to do so). If you do choose to sign-up for an offer, we will share information about you with those selected partners from whom you have chosen to receive information.
 
-[here](http://www.privacychoices.org/).   
-**Information Corrections or Changes**  
-You have the ability to correct or change certain information in our records, such as your address and contact information. The process for changing your information begins at <https://www.networksolutions.com/en_US/manage-it/index.jhtml>. You may change this information at any time and as often as necessary. If you need assistance or have questions about correcting information, you can contact us via e-mail at [customerservice@networksolutions.com](mailto:customerservice@networksolutions.com). 
+When you register with Ampario, you can elect to sign up with some of our marketing partners so they may to contact you via email with their special offers. It is solely at your discretion if you choose to provide additional personally identifiable information to a marketer by making a purchase, requesting additional information, or communicating directly with the company or organization after using its website. We may share this information with a third-party advertising company in order to market more effectively to you.
 
-**How We Put Information to Good Use**  
-We use information about you for purposes of monitoring and improving our internal operations, as well as to ensure we: (i) bill you properly, (ii) administer your account in accordance with your agreements with us, and (iii) properly perform the services you have requested.
+We may employ other companies and individuals to perform functions on our behalf (e.g., outsourced e-mail delivery companies). They have access to the User information to perform their functions, but may not use it for other purposes.
 
-We also use the information we collect to monitor and improve our internal operations, as well as to improve the experience of users in our network of sites. For example, we may correlate Web site traffic information with data about individual users. This data helps us to determine how much our customers use parts of the site, allowing us to enhance it to fit the needs of as many of our customers as possible. We may also break down overall usage statistics according to customers' domain names, browser types, and MIME types by reading this information from the browser string (information contained in every user's browser).
+**B. Links to Other Sites**
 
-Another example of our use of information to enhance the experience of users in our network of sites is our reliance on cookie files. We use cookie files to make it easier for users to access our site or services. A cookie file is a small data file that certain Web sites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you have visited. However, the only personal information a cookie can contain is information you supply yourself. A cookie cannot read data off your hard disk or read cookie files created by other sites. We use cookies to track user traffic patterns (as described above) when you register for Network Solutions services. When you register, we may use a cookie to store a unique, random user ID. We use this ID to identify you anonymously in our database and to track the pages you visit on our site.
+This privacy statement applies solely to information collected by this Web site. As part of our business, we also provide links to third party sites. We encourage all of our merchants to post their privacy policies on their sites and to adhere to the same high standard as is stated here. We, however, disclaim any responsibility for the actions of these third parties. AS A RESULT, WE ENCOURAGE OUR USERS TO READ THE PRIVACY POLICIES OF THESE LINKED SITES, BECAUSE THEIR PRIVACY POLICIES MAY DIFFER FROM OURS.
 
-If you have set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You may refuse cookies by turning them off in your browser; however, some of our sites may require a cookie for access.
+**C. Protection of Ampario and Others**
 
-Finally, we use the information we collect to direct important notices and information affecting your account or services, as well as to provide general information that may be of interest to you, including newsletters, surveys, contest and sweepstake announcements, and information about our service or product offerings or the offerings of our business affiliates. You may opt-out of receiving information from us simply by notifying us of your desire in accordance with the opt-out instructions contained in any information message you receive from us. Note, however, that in order to fulfill our service obligations to you, we must continue sending you notices and other important information affecting your account or services.
+We may release User or account information as is necessary to comply with the law; enforce or apply our Terms and Conditions and other agreements; or to protect the rights, property, or safety of Ampario, its subsidiaries, affiliates or partners, our Users, or others. This includes exchanging information with other companies and organizations for fraud protection.
 
- **Getting to Know Our Customers**
+### What Choices do I have?
 
-Network Solutions is in the business of putting people in touch with other people. That requires more than simply offering innovative technical services. It also requires that we understand you, our customer, and your needs. Indeed, we are the Internet's leading domain name registrar because we have taken the time to get acquainted with each one of our many customers.
+**A. Choices In Disclosing Information**
 
-We get to know you primarily through the information you provide to us when signing up for, or using, one or more of our services. The information you provide ranges from basic contact information, to payment information, to the technical coordinates of your host servers. The application for domain name registration services found at 
+Because we want our Users to feel completely comfortable using the Ampario services, we provide you with various opportunities to control how the information you provide to us will be used by us. We request information from our customer’s registration, as well as via surveys or contests or other promotions. Your participation in these activities is completely voluntary and you therefore have a choice whether or not to disclose this information. Nevertheless, certain basic information is required in order to register as a User. Information requested may include contact information, and demographic information. You also may choose whether or not to get e-mails from Ampario and whether or not to accept special offers from our partners. If you choose not to receive e-mail from Ampario we will not send you e-mail, although it may take a short time to remove your name from our database.
 
-[www.networksolutions.com](http://www.networksolutions.com/en_US/legal/www.networksolutions.com) is a representative illustration of the information we request of you. All of the information we request from you when purchasing our services is obligatory unless otherwise noted on the relevant form. When you purchase our services, you agree to provide and maintain accurate, complete and updated information.
+**B. Opting Out**
 
-After you have signed up for our services, we may be in communication with you about your account, technical questions you may have about services provided by us, or any other matter relating to those services. Those communications are essential to our relationship with you and to our ability to provide you with quality services that are responsive to your needs. At the same time, those communications give us helpful insights about you, your preferences and the ways in which we might improve our services. We therefore may maintain this information for future use.
+To remove your User information from our mailing list(s) so as not to receive future communications from us or to no longer receive our service, please go to: http://www.ampario.com/ and enter your email address. If you have submitted personal information under more than one e-mail account, you must make this request from each account that you have used. If you choose not to receive e-mail from Ampario we will not send you e-mail, although it may take a short time to remove your name from our database. Ampario will use commercially reasonable efforts to delete records from our mailing list when we receive requests to do so. This Privacy Policy is subject to change from time to time, so please check back periodically. Use of the services offered at this site constitutes acceptance of the terms of this Policy.
 
-For operational and quality assurance purposes, we take note of whether and how you use the information and services that we provide, such as by recording site traffic patterns and by maintaining log files of users' access to site files.
+### How secure is my information?
 
-The information we receive from or about you is stored on systems designed to prevent the loss, misuse, unauthorized access, disclosure, alteration or destruction of that information. We also encrypt your transmission of sensitive information to us (e.g., credit card numbers, account passwords) in the interest of heightened privacy protection and information integrity. Transactions within our account manager and purchase flows use Secure Sockets Layer (SSL) encryption when transmitting data from your connection to our systems. You may click the lock icon within your web browser to verify the authenticity of any or our SSL certificates. 
+The information we receive from or about you is stored on systems designed to prevent the loss, misuse, unauthorized access, disclosure, alteration or destruction of that information. In addition, certain of the Ampario Sites encrypt your transmission of sensitive information to it in the interest of heightened privacy protection and information integrity.
 
-**With Whom We May Share Information**  
-Pursuant to arrangements with Internet Corporation for Assigned Names and Numbers ('ICANN'), we compile and maintain a publicly accessible registration database that includes basic information about each domain name registered with us, including the names, telephone numbers and e-mail addresses of individuals designated as points of contact for a given domain name. Whether or not applicable domain name registration fees have been paid is also publicly accessible. With the gradual continued privatization of the Domain Name System, and consistent with the rules or policies applicable to that system, or to comply with any changes in law or regulation, we may, if appropriate, take steps to restrict the accessibility and amount of personally identifying information available in the registration database
+While we strive to protect your personal information, Ampario cannot ensure or warrant the security of any information you transmit to us, and you do so at your own risk. In addition, Ampario and third party Internet sites and services accessible through Ampario or parties whom we inform you are collecting data in connection with contests, games, promotions, etc., have separate privacy and data collection practices, independent of us. Ampario has no responsibility or liability for these independent policies or actions. You are solely responsible for maintaining the secrecy of your passwords and/or any account information. Please be careful and responsible whenever you are online.
 
-When you register a domain name through us, we must disclose your domain name and its associated Internet Protocol ("IP") numbers to the appropriate registry in order to make your chosen domain name a functional address on the Internet. Certain registries also require that we disclose to them the names, postal addresses, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name. Each registry discloses certain portions (and in some cases all) of the information we are required to provide to them about your domain name registration. For example, each registry discloses at least each registered domain name and its associated IP numbers ("TLD zone files") to TLD server administrators so that the domain name is capable of functioning as an address on the Internet. Consistent with the current rules and policies for the Domain Name System, such registries also disclose the TLD zone files to other interested persons, provided those persons agree, among other things, not to use the TLD zone files for improper purposes, including the transmission of unsolicited commercial e-mail. Similarly, each registry may compile and maintain a publicly accessible database that includes basic information about each domain name registered with that registry, including the names, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name. 
+### Other Conditions of Use, Revisions
 
-We may share certain information about you with our vendors who are responsible for handling your account or performing other services that you require (including vendors who may update your credit card expiration date and credit card account number if you choose our auto-renew feature). Although we may share financial information (i.e., credit card numbers, banking information), security information (e.g., account passwords) and personal communications (e.g., personal e-mail messages or message board postings) with such vendors when necessary and appropriate, we will not share such information with any other third parties unless directed by you or except in response to formal requests in the form of a subpoena or court order issued in connection with civil or criminal proceedings related to a domain name registration or other services we provide, or in response to requests by law enforcement agencies when we suspect that you or your agent is using our services to cause harm or damage to us or others or adversely affect our ability to provide services to our customers
+If you choose to visit one of the Ampario Sites, you consent to the information practices described herein and your visit and any dispute over privacy is subject to the terms and conditions of this Privacy Policy and the Terms and Conditions for the individual site (including limitations on damages, and arbitration of disputes). You agree that Ampario's liability for any breach of this privacy policy shall be limited to the value of the transactions or services provided to you by Ampario to the extent such claim is not otherwise barred by our Terms and Conditions. You also agree that you have provided notice to, and obtained consent from, any third party individuals whose personal data you supply to Ampario with regard to: (a) the purposes for such third party's personal data have been collected; (b) the intended recipients or categories of recipients of the third party's personal data; (c) which of the third party's data are obligatory and which data, if any, are voluntary; and (d) how the third party can access and, if necessary, rectify the data held about them.
 
-Additionally, we may share the information stored on the publicly accessible registration database, as well as other information that is not of a sensitive nature, with carefully selected business partners, including those who offer services that complement those provided by us or which may otherwise be of interest to you. If you do not want us to share information about you with our business partners, you may opt-out of receiving this information through our Account Manager by following the instructions below:
+You further acknowledge that Ampario operates in the United States. You agree (i) to permit Ampario to transmit and use your User information anywhere necessary, including across international boundaries, to affect the services and transactions provided by this Site; and (ii) that such use by Ampario shall be subject to the terms and conditions stated in this Privacy Statement and our Terms and Conditions.
 
-a. Log into Account Manager at [www.networksolutions.com](http://www.networksolutions.com/en_US/manage-it/);
+Ampario may transfer, sell or assign information concerning your use of this Site, including without limitation, personally identifiable information that you provide and other information concerning your use of the Site, to third parties, as a result of a sale, merger, consolidation, changing control, transfer of substantial assets, reorganization or liquidation of Ampario.com.
 
-b. Click “Edit User Info” in the left menu;
+Ampario or its successors and assigns may amend the terms and conditions of the Privacy Policy at any time, or substitute a different Agreement by posting a revised version, on the Ampario Sites. Please refer to our site periodically for updates. Amendments shall become effective upon posting. As we continue to develop our business, we might sell or buy certain assets. In such transactions, customer information generally is one of the transferred business assets. If Ampario or its assets are acquired, customer information will of course be one of the transferred assets.
 
-c. Scroll to the bottom of the page;
+### Contact Information:
 
-d. Select “NO” for the third statement, which reads, “I would like to receive selected and relevant information from Network Solutions partners;” and
+If you are not in agreement with the terms of this Policy, please unsubscribe from Ampario; email [info@ampario.com](mailto:info@ampario.com) or write to us at Ampario, 10567 Jefferson Blvd. Culver City, CA 90232 and request to be removed.
 
-e. Click “SAVE.”
-
-  
-Please note, however, that consistent with the current rules and policies for the Domain Name System, information about you must remain available in the publicly accessible registration database.
-
- **How Do I Get My Name Removed from Bulk Access**  
-As noted above, we currently make certain information about you available to the general public via our domain name registration database look-up services. These services give users access to such data on a query-by-query basis. Pursuant to our arrangements with ICANN, qualified persons may also access such data on a bulk basis provided they agree, among other things, not to use the data to allow, enable or otherwise support the transmission by e-mail, telephone, or facsimile of mass, unsolicited, commercial advertising or solicitations to entities other than to such qualified persons’ own existing customers; or (ii) sell or redistribute the data to third parties, except insofar as the data is incorporated into a value-added product or service that does not permit the extraction of a substantial portion of the data. If you do not want your personal information disclosed on a bulk basis, you may opt-out of such disclosure through our Account Manager by following the instructions below:
-
-a. Log into Account Manager at [www.networksolutions.com](http://www.networksolutions.com/en_US/legal/www.networksolutions.com);
-
-b. Click “Edit User Info” in the left menu;
-
-c. Scroll to the bottom of the page;
-
-d. Select “NO” for the first statement, which reads, “I choose to have my name included in the Bulk WHOIS data licensed to third parties for domains for which I am the Account Holder or Primary Contact;” and
-
-e. Click “SAVE.” 
-
-**Our Accountability to You**  
-By purchasing our services, you obtain the protections of, and consent to the data processing practices described in, this Privacy Policy. When you purchase our services, you also represent to us that you have provided notice to, and obtained consent from, any third party individuals whose personal data you supply to us with regard to: (i) the purposes for which such third party's personal data have been collected, (ii) the intended recipients or categories of recipients of the third party's personal data, (iii) which of the third party's data are obligatory and which data, if any, are voluntary, and (iv) how the third party can access and, if necessary, rectify the data held about them.
-
-In addition to the privacy protections that we provide, our employees, agents and business partners are independently responsible for ensuring compliance with this Privacy Policy, as described below. 
-
-**Employee Accountability**  
-Only those Network Solutions employees that have a legitimate business purpose for accessing and handling personal information obtained by us are given authorization to do so. The unauthorized access or use of such information by a Network Solutions employee is prohibited and constitutes grounds for disciplinary action.
-
-Additionally, our information management systems are configured in such a way as to block or inhibit employees from accessing information that they have no authority to access. 
-
-**The Accountability of Network Solutions' Agents and Business Partners**  
-Our trusted vendors and business partners are responsible for processing or handling some of the information that we receive. These vendors and business partners are not authorized to use such information for purposes beyond those specified by us and are required to preserve the confidentiality with which we treat such information.
-
-If you feel that Network Solutions, or any of our agents, representatives or employees, is violating this Privacy Policy, please contact us via e-mail at 
-
-[privacy@networksolutions.com](mailto:privacy@networksolutions.com), by telephone at (703) 668-4600, or by postal mail at:
-
-Network Solutions, LLC  
-Attention: General Counsel  
-13861 Sunrise Valley Dr   
-Suite 300   
-Herndon VA 20171   
-United States  
-(703) 668-4600 
-
-**Notification of Changes**  
-We will post any changes to this Privacy Policy 30 days before their effective date so you will always know what information we collect, how we use it, and under what circumstances, if any, we disclose it. You are responsible for periodically checking our web site for changes to this Privacy Policy. You may opt-out of any posted change to our collection, use or disclosure of your personal information by sending an e-mail to 
-
-[privacy@networksolutions.com](mailto:privacy@networksolutions.com).
-
- **If you have any questions regarding this Privacy Policy, please contact[ privacy@networksolutions.com](mailto:privacy@networksolutions.com).**
+If you feel that Ampario is not abiding by its posted privacy policy, please email [info@ampario.com](mailto:info@ampario.com) or write us at Ampario, 10567 Jefferson Blvd. Culver City, CA 90232.
