@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thirdage.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624090458id_/http%3A//www.thirdage.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thirdage.com privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219161155id_/http%3A//www.thirdage.com/about/privacy.html) for the most accurate reproduction.*
 
 # ThirdAge - About Us - Privacy Statement
 
@@ -33,7 +33,7 @@ This Web Site is not directed at individuals under 18 years of age, and ThirdAge
 ThirdAge may also collect information about you that is not personally-identifiable. Examples of this type of information may include your age, gender, interests and preferences, the type of Internet browser you are using, the type of computer operating system you are using, and the domain name of the web site from which you linked to the Web Site. ThirdAge may share this information with advertisers, business partners, sponsors and other third parties. For example, ThirdAge may inform a sponsor that the membership of the Web Site is x percent females and y percent males. This data is used to customize the Web Site's content and advertising, and to deliver a better experience for our members and users. 
 
 **6\. Information We May Place Automatically on Your Computer's Hard Drive**  
-When you view the Web Site, we may store some information on your computer. This information will be in the form of a "Cookie" or similar file and will help us in many ways. A Cookie is an element of data that a web site can send to your browser, which may then store the Cookie on your hard drive. Consequently, the next time you visit the Web Site, ThirdAge can recognize you. For example, Cookies are used to allow us to tailor the Web Site to better match your interests and preferences. With most Internet browsers, you can erase Cookies from your computer's hard drive, block all Cookies, or receive a warning before a Cookie is stored. Please refer to your browser instructions or help screen to learn more about these functions. 
+When you view the Web Site, we may store some information on your computer. This information will be in the form of a "Cookie" or similar file and will help us in many ways. A Cookie is an element of data that a web site can send to your browser, which may then store the Cookie on your hard drive. Consequently, the next time you visit the Web Site, ThirdAge can recognize you. For example, Cookies are used to allow us to track clickstream data and tailor the Web Site to better match your interests and preferences. With most Internet browsers, you can erase Cookies from your computer's hard drive, block all Cookies, or receive a warning before a Cookie is stored. Please refer to your browser instructions or help screen to learn more about these functions. 
 
 **7\. Links to Other Web Sites**  
 The Web Site allows links to various other web sites as stated in ThirdAge's [Terms of Service](http://www.thirdage.com/about/terms.html). ThirdAge assumes no responsibility for the information practices of sites you are able to access through the Web Site. These links to other sites do not imply affiliation or endorsement of a linked site in any way. 
@@ -56,3 +56,5 @@ If you have questions or concerns regarding this Privacy Policy, the practice of
 
 **12\. Ad Serving**  
 The ads appearing on ThirdAge.com are delivered to you by DoubleClick, our Web advertising partner. In the course of serving advertisements onto ThirdAge.com, DoubleClick may also place or recognize unique Cookies on your browser. Information about your visit to ThirdAge.com, such as number of times you have viewed an ad (but not your name, address or other personal information), is used to serve ads to you. For more information about DoubleClick, cookies and how to "opt-out," please click [here](http://www.doubleclick.net/us/corporate/privacy). 
+
+(Effective June 20, 2007) 
