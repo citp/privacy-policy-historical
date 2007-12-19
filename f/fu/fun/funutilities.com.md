@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the funutilities.com privacy policy that was archived on 2007-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070606032153id_/http%3A//www.funutilities.com/legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funutilities.com privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219174515id_/http%3A//www.funutilities.com/legal/privacy.aspx) for the most accurate reproduction.*
 
-# FunUtilities.com
+# 
 
 PLEASE READ THIS PRIVACY POLICY CAREFULLY. BY USING ANY OF THE SERVICES, YOU REPRESENT THAT YOU HAVE READ AND UNDERSTAND THE AGREEMENT, WHICH INCLUDES THIS PRIVACY POLICY, AND YOU AGREE TO BE BOUND BY ALL ITS TERMS. TERMS NOT DEFINED IN THIS PRIVACY POLICY HAVE THE MEANING DESCRIBED IN THE TERMS OF USE.
 
@@ -42,7 +42,7 @@ Crawler may change this Privacy Policy at any time at its sole discretion. Notic
 
 ## Contact Information
 
-CRAWLER, LLC, 999 YAMATO RD STE 100, Boca Raton, Florida 33431 Telephone: 1-561-989-7400,  
+CRAWLER, LLC, 999 WEST YAMATO RD STE 100, Boca Raton, Florida 33431 Telephone: 1-561-989-7400,  
 Fax: 1-561-989-7401,  
 E-mail: [contact@crawler.com](mailto:contact@crawler.com)
 
