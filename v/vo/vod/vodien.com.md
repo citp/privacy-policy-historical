@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vodien.com privacy policy that was archived on 2007-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070502011047id_/http%3A//www.vodien.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vodien.com privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219102150id_/http%3A//www.vodien.com/privacy.php) for the most accurate reproduction.*
 
-# Singapore Web Hosting | Vodien Internet Solutions - Hosting You Best Since 2002
+# Singapore Web Hosting | Web Host | Vodien
 
 Vodien Internet Solutions respects the privacy of each individual that visits our website. This privacy statement provides our visitors and customers with information on how Vodien Internet Solutions protects the information supplied by each. 
 
@@ -52,7 +52,7 @@ Though we make every effort to preserve user privacy, we may need to disclose pe
 
   
 **Choice/Opt-out**  
-Users who no longer wish to receive our newsletter and promotional communications may opt-out of receiving these communications by sending us an email at [contact@vodien.com](mailto:contact@vodien.com) . We also offer an opt-out mechanism on the newsletter subscription confirmation email. Alternatively, the user may contact us at (+65)90088522 or fax us at (+65)2885052 to opt-out. 
+Users who no longer wish to receive our newsletter and promotional communications may opt-out of receiving these communications by sending us an email at [contact@vodien.com](mailto:contact@vodien.com) . We also offer an opt-out mechanism on the newsletter subscription confirmation email. Alternatively, the user may contact us at (+65)9 008 8522 or fax us at (+65)2885052 to opt-out. 
 
 Users of our site are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether or not they should proceed with services that require an outside party. 
 
