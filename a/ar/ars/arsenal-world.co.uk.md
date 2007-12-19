@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the arsenal-world.co.uk privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617111102id_/http%3A//www.arsenal-world.co.uk/feedback/loadpriv.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arsenal-world.co.uk privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219223554id_/http%3A//www.arsenal-world.co.uk/feedback/loadpriv.asp) for the most accurate reproduction.*
 
-# Arsenal World - the definitive Arsenal website. Independent news and stats from footymad.net
+# Arsenal FC News from Arsenal World - The Definitive Arsenal FC website
 
 **_Entertainment & Sports Agency Privacy Policy_**
 
@@ -68,4 +68,4 @@ Some information and e-mails sent to us may be used as testimonials but no e-mai
 
 **_Contacting Us_** If you have any questions or concerns about the information we hold about you, you can get in touch by filling in a short contact form, which can be reached by 
 
-[_clicking here_.](http://www.footymad.net/feedback/loadcont.asp?CID=EMFM&type=gen)
+[_clicking here_.](http://www.footymad.net/contact.asp)
