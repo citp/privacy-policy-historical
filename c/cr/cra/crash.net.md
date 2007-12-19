@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the crash.net privacy policy that was archived on 2007-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070615220023id_/http%3A//www.crash.net/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crash.net privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219110331id_/http%3A//www.crash.net/privacy.htm) for the most accurate reproduction.*
 
-# Formula 1, formula one, motorsport news, results, features, teams, drivers, updates
+# F1, formula one, motorsport news, results, features, teams, drivers, updates
 
 Crash.Net has a firm commitment to the privacy of our members' personal information. The following discloses our information gathering and dissemination practices for this website. 
 
@@ -16,7 +16,8 @@ The ads appearing on this website are delivered to you, on our behalf, by our we
 
 **Third Party Cookies**
 
-In the course of serving advertisements to this site, our third-party advertisers may place or recognise a unique cookie on your browser, but it will not collect any personally identifiable information about you. For more information about cookies and how to "opt-out", please visit   
+In the course of serving advertisements to this site, our third-party advertisers may place or recognise a unique cookie on your browser, but it will not collect any personally identifiable information about you. For more information about cookies and how to "opt-out", please visit 
+
 <http://www.adtech.info/en/cookie_opt-out.html>   
 <http://www.atdmt.com/privacy/optout/>   
 <http://www.doubleclick.net/us/corporate/privacy/opt-out.asp>
