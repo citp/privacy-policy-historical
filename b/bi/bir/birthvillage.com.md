@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the birthvillage.com privacy policy that was archived on 2007-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070406232320id_/http%3A//www.birthvillage.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the birthvillage.com privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219114913id_/http%3A//www.birthvillage.com/privacy.php) for the most accurate reproduction.*
 
 # My Baby Blog
 
@@ -21,7 +21,7 @@ As well, if you did choose to hear from advertisers you can always remove your s
 **How do you use cookies?  
 **We use cookies for login purposes. If you use the same computer and never reset your cookies, you should never have to relogin to our website. However, if you reset your cookies or wish to login on a different computer you will need to use the login link to verify that you are the owner of the account.
 
-We also use cookies to customize your visit to the site. For instance, on our [**baby names search**](https://web.archive.org/web/20070406232320id_/http%3A//www.birthvillage.com/baby-names.php) you can add [**baby names**](https://web.archive.org/web/20070406232320id_/http%3A//www.birthvillage.com/baby-names.php) that you really enjoy to a favorite list. This is accomplished through the use of cookies. 
+We also use cookies to customize your visit to the site. For instance, on our [**baby names search**](https://web.archive.org/web/20071219114913id_/http%3A//www.birthvillage.com/baby-names.php) you can add [**baby names**](https://web.archive.org/web/20071219114913id_/http%3A//www.birthvillage.com/baby-names.php) that you really enjoy to a favorite list. This is accomplished through the use of cookies. 
 
 **How can I contact BirthVillage.com?  
-**We don't like SPAM either. And since we don't want to get tons of automated spam, we do not disclose an EMAIL ADDRESS on our site. Instead, please contact us through our [**contact form page**](https://web.archive.org/web/20070406232320id_/http%3A//www.birthvillage.com/contact.php). It will still send an email and a real person will get back to you.
+**We don't like SPAM either. And since we don't want to get tons of automated spam, we do not disclose an EMAIL ADDRESS on our site. Instead, please contact us through our [**contact form page**](https://web.archive.org/web/20071219114913id_/http%3A//www.birthvillage.com/contact.php). It will still send an email and a real person will get back to you.
