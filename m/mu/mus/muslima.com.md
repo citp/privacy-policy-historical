@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the muslima.com privacy policy that was archived on 2007-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070529112153id_/http%3A//muslima.com/Privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muslima.com privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219235752id_/http%3A//muslima.com/Privacy.cfm) for the most accurate reproduction.*
 
-# Muslima.com - Muslim singles, dating and personals
+# Muslima.com | Privacy Policy
 
 **CUPID MEDIA PTY LTD PRIVACY POLICY**
 
@@ -372,8 +372,8 @@ Name
 
 **: Cupid Media Pty Ltd (ACN 104 844 564), which shall include any related body corporate or associate (as those terms are defined in the Corporations Act 2001 (Cth)) of Cupid Media Pty Ltd.  
 **Address** : PO Box 9304, Gold Coast MC Qld 9726  
-Phone: 61 7 5510 3066  
-**Fax Number** : 61 7 5574 2113  
+**Phone** : 61 7 5571 1181  
+**Fax Number** : 61 7 3103 4000  
 **Email Address** : team@cupidmedia.com  
 **Contact** : Customer Service
   2. **Purposes  
