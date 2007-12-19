@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the trustedreviews.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617063345id_/http%3A//www.trustedreviews.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trustedreviews.com privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219224309id_/http%3A//www.trustedreviews.com/privacy.aspx) for the most accurate reproduction.*
 
-# TrustedReviews - Privacy information
-
-[](https://web.archive.org/rc.aspx?b=676&u=aHR0cDovL3d3dy5zY2FuLmNvLnVrL3Nob3BzL1NpdGVQYWdlLmFzcD9TU1BJRD00MjUmVFI9VFIwMDg%3D)
+# Privacy information - TrustedReviews
 
 ## Privacy Information
 
@@ -39,5 +37,3 @@
 > ## › Notification of Changes
 > 
 > If we decide to change our privacy policy, we will post those changes on our site so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. 
-
-[](https://web.archive.org/rc.aspx?b=127&u=aHR0cDovL3d3dy5lYnV5ZXIuY29tL2N1c3RvbWVyL2hvbWUvP19MT0M9VUsmY2FtcGFpZ249dHJ1c3RlZF90b3A%3D)
