@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ort.org privacy policy that was archived on 2007-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070620221837id_/http%3A//www.ort.org/asp/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ort.org privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219210714id_/http%3A//www.ort.org/asp/privacy.asp) for the most accurate reproduction.*
 
 # World ORT education charity supporting Jewish and International causes. Online donations.Privacy Policy
 
