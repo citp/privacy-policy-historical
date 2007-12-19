@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virtools.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624081328id_/http%3A//www.virtools.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtools.com privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219225059id_/http%3A//www.virtools.com/privacy.asp) for the most accurate reproduction.*
 
 # Virtools Privacy Statement
 
@@ -19,5 +19,7 @@ or send a letter to:
 **Virtools SA**  
 36 rue du Chemin Vert   
 75011 Paris  
-France ****Tel: +33/ 1 42 71 46 86  
+France
+
+Tel: +33/ 1 42 71 46 86  
 Fax: +33/ 1 42 71 86 53
