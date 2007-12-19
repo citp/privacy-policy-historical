@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the culturalcare.com privacy policy that was archived on 2007-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070506091448id_/http%3A//www.culturalcare.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the culturalcare.com privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219102147id_/http%3A//www.culturalcare.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy § Cultural Care Au Pair
 
@@ -32,7 +32,7 @@ We use the information you provide about yourself when requesting information, o
 
 ####  Reviewing or Changing Your Information
 
-You can access personal information online by providing your host family number and password when prompted at the login. We use this procedure to better safeguard your information. You can request changes of factual errors in your personal account via email to your Regional Manager, by calling our toll-free number at (800) 333-6056, or by sending mail to: 
+You can access personal information online by providing your host family number and password when prompted at the login. We use this procedure to better safeguard your information. You can request changes of factual errors in your personal account via email to your Program Director, by calling our toll-free number at (800) 333-6056, or by sending mail to: 
 
 Cultural Care Au Pair  
 One Education Street  
