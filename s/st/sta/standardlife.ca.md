@@ -1,6 +1,30 @@
-> *The following text is extracted and transformed from the standardlife.ca privacy policy that was archived on 2007-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070202182730id_/http%3A//www.standardlife.ca/en/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the standardlife.ca privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219225423id_/http%3A//www.standardlife.ca/en/corporate/customer/privacy.html) for the most accurate reproduction.*
 
-# Standard Life Canada - About Standard Life
+# Standard Life Canada
+
+|   
+---  
+|   
+| 
+
+Customer Information & Protection
+
+[Customer Complaint Filing Process](https://web.archive.org/en/corporate/customer/filing.html)
+
+[Ombudsman](https://web.archive.org/cgi-bin/ombudsman.pl?en)
+
+[CLHIA Consumer Information](https://web.archive.org/en/corporate/customer/consumer_info.html)
+
+[Participating Policyholders](https://web.archive.org/en/corporate/customer/policyholders.html)
+
+[Unclaimed Property](http://www.standardlife.ca/PublicUnclaimedProperty/searchfrominternet.do?language=en)
+
+[Privacy Policy](https://web.archive.org/en/corporate/customer/privacy.html)
+
+|   
+|   
+|  |  |  |   
+| 
 
 Your privacy
 
@@ -16,7 +40,7 @@ Your privacy
 Introduction
 
 At Standard Life, we are committed to maintaining the highest standards of integrity in our business. In the course of our business, it is necessary to collect, record, store, process, transmit, and otherwise handle Personal Information about individuals. We take these activities seriously and seek to provide fair, secure and appropriate methods for the handling of Personal Information. All such activities are intended to be consistent with both generally accepted privacy ethics and standard business practices.  
-If you have any questions or comments about Standard Life's Privacy Policy, you can contact our [Customer Services](https://web.archive.org/en/contact/customer/index.html) personnel.
+If you have any questions or comments about Standard Life's Privacy Policy, you can contact our [Customer Services](https://web.archive.org/en/contact/index.html) personnel.
 
 We will obtain your consent
 
@@ -67,24 +91,18 @@ You also have the right to request the correction of inaccurate, incomplete or o
 Any request to access or correct information held in our records should be made in writing to:   
 
 
-> The Manager, Customer Relations and Ombudsman  
->  1245 Sherbrooke W  
->  Suite 1000  
->  Montreal, Qc  
->  H3G 1G3  
-> 
+> Manager, Customer Relations and Ombudsman   
+>  1245 Sherbrooke Street West   
+>  Montréal, Québec H3G 1G3
 
 If you are not satisfied as to how we have handled your personal information…
 
 You may register a Privacy related complaint by contacting  
 
 
-> The Manager, Customer Relations and Ombudsman  
->  1245 Sherbrooke W  
->  Suite 1000  
->  Montreal, Qc  
->  H3G 1G3  
-> 
+> Manager, Customer Relations and Ombudsman   
+>  1245 Sherbrooke Street West   
+>  Montréal, Québec H3G 1G3
 
 We will explain our complaints handling procedure and inform you of other complaint procedures that may be available to you. 
 
