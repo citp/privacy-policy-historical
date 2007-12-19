@@ -1,0 +1,28 @@
+> *The following text is extracted and transformed from the kiwiblog.co.nz privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219214340id_/http%3A//www.kiwiblog.co.nz/privacy_policy) for the most accurate reproduction.*
+
+# Kiwiblog » Privacy Policy
+
+I should follow best practice, and post an explicit privacy policy, so here goes.
+
+When you browse this site, the following information is recorded and made available to me:
+
+The pages you browse on my site  
+The referring page or link you came from  
+The search engine query you used to find the blog  
+Your IP adddress  
+Your machine name  
+Your web browser version  
+Your operating system  
+The e-mail address you used to register  
+Your IQ (okay not that one)
+
+I reserve the right to use or publicise any of the above information. However, unless there is good reason, I intend to only publish information in summarised form (44% of browsers used are Firefox) or with no personal details (such as machine name or IP address) attached. The most common information published will be amusing search engine queries.
+
+If you post a comment on my blog, your IP address plus the date and time you made the comment are recorded.
+
+I retain this information for at least a year and will in all circumstances release it to NZ authorities if presented with a warrant. I may hand it over without a warrant also, if I think the comment broke the law or was defamatory. I reserve all rights to do what I see fit with this information, as it is my site.
+
+I have given information to the Police on one occasion in relation to threats made by a user against an MP.
+
+However those who know me will testify that I only try to screw someone over, if they have done something particularly nasty aimed at me. I’ve only twice needed to retalitate in the last ten years, so it is very hard to get onto my revenge list. The bad news is that there is no known method to get off the list, once on it   
+So the bottom line in terms of privacy in browsing or commenting on this site, is that in 99.99% of all cases I will keep your personal information strictly confidential to me. However if you break the law, defame someone, or really piss me off, then you have been warned!
