@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ministryofsound.com privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609160950id_/http%3A//www.ministryofsound.com/misc/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ministryofsound.com privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219204457id_/http%3A//www.ministryofsound.com/misc/privacypolicy) for the most accurate reproduction.*
 
-# Ministry of Sound
+# Ministry of Sound - Ministry of Sound Privacy Policy
 
 At ministryofsound.com we are committed to protecting your privacy. This Privacy Policy covers your use of this website and explains our data processing practices and your options regarding the ways in which your personal data is used. If you have any requests concerning your personal information or any queries with regard to our processing please contact us at [info@ministryofsound.com](mailto:info@ministryofsound.com)
 
