@@ -1,21 +1,20 @@
-> *The following text is extracted and transformed from the brandsynario.com privacy policy that was archived on 2007-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070302080755id_/http%3A//www.brandsynario.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brandsynario.com privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219174316id_/http%3A//www.brandsynario.com/Privacy.asp) for the most accurate reproduction.*
 
 # brandsynario.com - Privacy Policy
 
-| **Good Morning!  Guest  
-March 2, 2007**  
+|   
 ---  
-[Home ](https://web.archive.org/web/20070302080755id_/http%3A//www.brandsynario.com/Home.asp)  
   
- You are here: [Home](https://web.archive.org/web/20070302080755id_/http%3A//www.brandsynario.com/Home.asp) » Privacy Policy
+ You are here: [Home](https://web.archive.org/web/20071219174316id_/http%3A//www.brandsynario.com/Home.asp) » Privacy Policy
 
 | **Privacy Policy**  
 ---  
   
-In order to make your visits to brandsynario.com, we do collect certain information from your computer each time you visit us and sometimes we ask you for personal information. Please take a couple of minutes to read our privacy policies so that you understand how we treat your personal information. If you have any questions about this privacy policy or your dealings with brandsynario.com, you can contact us through [Feedback](http://www.karachihut.com/Feedback.asp) form.   
+In order to make your visits to brandsynario.com, we do collect certain information from your computer each time you visit us and sometimes we ask you for personal information. Please take a couple of minutes to read our privacy policies so that you understand how we treat your personal information. If you have any questions about this privacy policy or your dealings with brandsynario.com, you can contact us through [Feedback](https://web.archive.org/web/20071219174316id_/http%3A//www.brandsynario.com/Feedback.asp) form. 
+
 If you register on brandsynario.com, sign up for a promotion, make a purchase from brandsynario.com, enter any contests or submit materials to brandsynario.com, You agree to the terms of brandsynario.com.
 
-brandsynario.com is not directed to children under the age of 13. brandsynario.com prohibits registration by children under the age of 13. brandsynario.com will not knowingly collect personally identifiable information from children under 13. If you as a parent, have any concerns about the brandsynario.com site or its related services, wish to find out if your child is a member of one of our services, or wish to cancel your child's membership, please [contact us](http://www.karachihut.com/Feedback.asp).
+brandsynario.com is not directed to children under the age of 13. brandsynario.com prohibits registration by children under the age of 13. brandsynario.com will not knowingly collect personally identifiable information from children under 13. If you as a parent, have any concerns about the brandsynario.com site or its related services, wish to find out if your child is a member of one of our services, or wish to cancel your child's membership, please [contact us](https://web.archive.org/web/20071219174316id_/http%3A//www.brandsynario.com/Feedback.asp).
 
 **Information Collection & Use**   
 "Personally identifying information", or just personal information, includes your name, address, e-mail address, telephone number, or any other info that tells another person who you are. Our site may use order forms and registration forms for users to request SoBe information, products and services. We may collect contact info (such as email address, name, address and phone numbers). Contact info from the forms is used to send orders to our record keeping. Users may opt-out of receiving future mailings and are given the opportunity to do so each time you register or order online. We may send you e-mail notices about products, companies and events that we think might interest you. At any time you can change your user information. If you do not want to receive these messages, you will have to un-register at brandsynario.com. We will make an effort to include a link to this Privacy Policy wherever we ask you for personal information. Below are more details about the information brandsynario.com gathers from you and how we use it:
