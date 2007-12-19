@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accuradio.com privacy policy that was archived on 2006-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061225150735id_/http%3A//www.accuradio.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accuradio.com privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219205526id_/http%3A//www.accuradio.com/privacypolicy) for the most accurate reproduction.*
 
 # AccuRadio - The Next Generation of Radio
 
