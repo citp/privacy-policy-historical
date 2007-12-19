@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infiniti.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630225608id_/http%3A//www.infiniti.com/global/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infiniti.com privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219205239id_/http%3A//www.infiniti.com/global/privacy.html) for the most accurate reproduction.*
 
 # Infiniti USA - Privacy Policy
 
@@ -88,3 +88,5 @@ Except as permitted by law, we do not disclose to third parties information we o
 
 
 Except as stated above, we do not share any Private Information with third parties. We restrict access to your Private Information to those employees who need to know that information to provide products or services to you. We maintain physical, electronic, and procedural safeguards that comply with federal regulations to guard all Private Information.
+
+To view the Microsoft Privacy Statement and Terms of Use [click here.](http://privacy.microsoft.com/en-us/fullnotice.aspx)
