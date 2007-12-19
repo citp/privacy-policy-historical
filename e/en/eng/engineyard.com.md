@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the engineyard.com privacy policy that was archived on 2007-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070621161328id_/http%3A//engineyard.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the engineyard.com privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219055640id_/http%3A//www.engineyard.com/privacy) for the most accurate reproduction.*
 
 # Engine Yard — privacy — Privacy
 
