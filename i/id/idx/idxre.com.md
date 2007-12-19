@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idxre.com privacy policy that was archived on 2007-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070304100043id_/http%3A//www.idxre.com/PrivacyPolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idxre.com privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219215524id_/http%3A//www.idxre.com/PrivacyPolicy.cfm) for the most accurate reproduction.*
 
 # iHomefinder Privacy Policy
 
