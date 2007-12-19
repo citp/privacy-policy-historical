@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the discoverychannel.co.uk privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629053303id_/http%3A//www.discoverychannel.co.uk/_includes/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discoverychannel.co.uk privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219040025id_/http%3A//www.discoverychannel.co.uk/_includes/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Discovery Channel
 
 The following sets out the privacy policy of Discovery Communications Europe Limited ("us/we") part of the Discovery Communications, LLC group of companies. This policy explains how we use any personal information that you might provide to us on any of our websites, including:  
-www.animalplanet.co.uk; www.discoverycivilisation.co.uk; www.discoveryhd.co.uk; www.discoveryscience.co.uk; www.discoveryturbo.co.uk; www.homeandhealthtv.co.uk; www.realtimetv.co.uk; and www.travelandliving.co.uk (together with www.discoverychannel.co.uk, the "Discovery Sites"). 
+www.animalplanet.co.uk; www.discoveryhd.co.uk; www.homeandhealthtv.co.uk; www.discoveryknowledge.co.uk; www.realtimetv.co.uk; www.discoveryscience.co.uk; www.travelandliving.co.uk; and www.discoveryturbo.co.uk;  (together with www.discoverychannel.co.uk, the "Discovery Sites"). 
 
 This policy does not however apply to Discovery's US sites and we recommend that you review the privacy policies and terms and conditions on any such US sites that you visit.
 
