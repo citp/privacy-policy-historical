@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the thechennaisilks.com privacy policy that was archived on 2007-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070320175521id_/http%3A//www.thechennaisilks.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thechennaisilks.com privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219214758id_/http%3A//www.thechennaisilks.com/privacy.php) for the most accurate reproduction.*
 
-# The Chennai Silks
-
-  
-Privacy Policy
+# The Chennai Silks - Collections
 
 This privacy policy covers what information we collect from you when you visit www.thechennaisilks.com, how we use it, and under what circumstances we disclose it. By using The Chennai Silks website, you agree with the terms and conditions of this privacy policy and terms of use.
 
