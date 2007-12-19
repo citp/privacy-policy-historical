@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kidzworld.com privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609124640id_/http%3A//www.kidzworld.com/corporate/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidzworld.com privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219111605id_/http%3A//www.kidzworld.com/corporate/privacy.htm) for the most accurate reproduction.*
 
 # Kidzworld | Kids Community | Online Entertainment | Safe Chat | Message Forums
 
@@ -56,14 +56,13 @@ In the course of serving advertisements to this site, our third-party advertiser
 
 Kidzworld has security measures in place to protect the loss, misuse and alteration of the information under our control. Passwords and personal information is collected and stored on our secure servers. Paper records of data and financial transactions are stored in a locked facility. Information will only be divulged to law enforcement agencies upon subpoena. 
 
-**Contacting Us**
+**Contacting Us and account cancellation**
 
-If you have any questions or comments about this privacy statement, the practices of this site or your dealings with Kidzworld , you can contact us at privacy@kidzworld.com , or by snailmail at:
+If you wish to cancel your account or have any questions or comments about this privacy statement, the practices of this site or your dealings with Kidzworld, you can contact us at [privacy@kidzworld.com](mailto:privacy@kidzworld.com), or by snailmail at: 
 
 **Kidzworld.com, Inc.  
-Suite 612 , 475 Howe Street ,   
+Suite 301 , 470 Granville St   
 Vancouver , British Columbia   
-Canada , V6C 2B3**
+Canada , V6C 1V5**
 
-  
 Toll-free: 1-800-668-0071; General: 1-604-688-2010; Fax: 1-604-688-2015 
