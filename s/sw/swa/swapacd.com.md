@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the swapacd.com privacy policy that was archived on 2007-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070506124755id_/http%3A//www.swapacd.com/help/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swapacd.com privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219081656id_/http%3A//www.swapacd.com/help/privacy_policy.php) for the most accurate reproduction.*
 
-# SwapaCD.com :: Privacy Policy
+# SwapaCD :: Privacy Policy
 
 This page describes how the **SwapaCD** handles information that we learn about consumers when consumers visit the www.SwapaCD.com, or contact us by mail, phone, or email. Any personally identifying information you provide is voluntary. We use it to fulfill a request you make or to assist us in carrying out our mission: facilitating the trading of books, music, videogames, or other media between our club members. 
 
