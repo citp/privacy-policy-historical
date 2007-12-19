@@ -1,6 +1,15 @@
-> *The following text is extracted and transformed from the fulldls.com privacy policy that was archived on 2007-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070616100238id_/http%3A//www.fulldls.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fulldls.com privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219173709id_/http%3A//www.fulldls.com/privacy.php) for the most accurate reproduction.*
 
 # Fulldls.com - Privacy Policy
+
+  
+
+
+## Privacy policy 
+
+  
+  
+
 
 To protect the privacy of our visitors, we do not log IP adrresses or hostnames of our visitors. However, we may log some IP addresses of uploaders for administrational purposes (e.g., banning people who upload spam torrents several times). Remember that all torrent submissions are anonymous, no login is required for uploading. We will not distribute IP addresses or other information of visitors of this site to third parties.
 
