@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iblog365.com privacy policy that was archived on 2007-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070522045933id_/http%3A//iblog365.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iblog365.com privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219160817id_/http%3A//iblog365.com/privacy) for the most accurate reproduction.*
 
 # iBlog365.com: free wordpress blog hosting » Privacy
 
