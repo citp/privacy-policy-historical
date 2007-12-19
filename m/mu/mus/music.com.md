@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the music.com privacy policy that was archived on 2007-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070614065442id_/http%3A//www.music.com/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the music.com privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219100718id_/http%3A//www.music.com/about/privacypolicy) for the most accurate reproduction.*
 
-# Music.com ||| Help
+# Music.com ||| Privacy Policy
 
 Music.com cares deeply about online privacy. If you have any questions concerning this privacy policy, please email us at [privacy@mdc.music.com](mailto:privacy@mdc.music.com).
 
