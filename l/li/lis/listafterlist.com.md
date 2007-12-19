@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the listafterlist.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617024736id_/http%3A//www.listafterlist.com/PrivacyPolicy/tabid/61/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listafterlist.com privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219090130id_/http%3A//www.listafterlist.com/PrivacyPolicy/tabid/61/Default.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -38,6 +38,8 @@ We may use your information:
 **Information Sharing**
 
   We will not share your information with third parties unless:
+
+  * you agree to receive special promotional offers via email from ListAfterList.com and their trusted partners by opting-in during registration;  
 
   * it is necessary to fulfill a transaction you have requested; 
   * in circumstances in which you have consented to the sharing of your information; 
