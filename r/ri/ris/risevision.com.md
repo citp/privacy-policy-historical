@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the risevision.com privacy policy that was archived on 2006-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061018162507id_/http%3A//www.risevision.com/Default.aspx%3Ftabid%3D128%26ctl%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the risevision.com privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219192136id_/http%3A//www.risevision.com/privacy_statement.htm) for the most accurate reproduction.*
 
-# Rise Vision - LED, LCD & Ticker digital displays
+# Rise Vision – Privacy Statement LED, LCD & Ticker digital displays
+
+Privacy Statement 
 
 Rise Display Network is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Rise Display Network Web site and governs data collection and usage. By using the Rise Display Network website, you consent to the data practices described in this statement.
 
@@ -44,4 +46,4 @@ Rise Display Network will occasionally update this Statement of Privacy to refle
 
 Contact Information
 
-Rise Display Network welcomes your comments regarding this Statement of Privacy. If you believe that Rise Display Network has not adhered to this Statement, please contact Rise Display Network at [itservices@risesoftools.com](mailto:itservices@risesoftools.com). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+Rise Display Network welcomes your comments regarding this Statement of Privacy. If you believe that Rise Display Network has not adhered to this Statement, please contact Rise Display Network at support@risevision.com. We will use commercially reasonable efforts to promptly determine and remedy the problem. 
