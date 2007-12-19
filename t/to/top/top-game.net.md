@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the top-game.net privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622010351id_/http%3A//www.top-game.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top-game.net privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219202004id_/http%3A//www.top-game.net/privacy.html) for the most accurate reproduction.*
 
 # Only the Best flash games!
 
