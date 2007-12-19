@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theleadingarticles.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629151445id_/http%3A//www.theleadingarticles.com/static_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theleadingarticles.com privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219224409id_/http%3A//www.theleadingarticles.com/static_privacy.html) for the most accurate reproduction.*
 
 # privacy @ TheLeadingArticles.com
 
@@ -18,7 +18,7 @@ Name
 E-mail Address   
 Phone Number 
 
-When you visit The Leading Articles web site, like when you visit most other web sites, certain anonymous information about your visit is automatically logged, which may include information about the type of browser you use, the server name and IP address through which you access the Internet (such as “google.com” or “yahoo.com”), the date and time you access the site, the pages you access while at The Leading Articles web site, and the Internet address of the web site, if any, from which you linked directly to The Leading Articles web site. This information is not personally identifiable. 
+When you visit The Leading Articles web site, like when you visit most other web sites, certain anonymous information about your visit is automatically logged, which may include information about the type of browser you use, the server name and IP address through which you access the Internet (such as "google.com" or "yahoo.com"), the date and time you access the site, the pages you access while at The Leading Articles web site, and the Internet address of the web site, if any, from which you linked directly to The Leading Articles web site. This information is not personally identifiable. 
 
 **How We Use Information**
 
