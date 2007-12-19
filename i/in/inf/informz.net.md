@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the informz.net privacy policy that was archived on 2006-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061202233830id_/http%3A//informz.net/company/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the informz.net privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219095928id_/http%3A//www.informz.net/company/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -20,7 +20,7 @@ Informz uses cookies to deliver content specific to your interests and to improv
 
 **A Note to Recipients of Email Messages from Informz Users**
 
-Informz does not retain email address information after our users delete from our servers. Informz does not monitor or limit our users from creating email messages. We do, however, quickly respond to notification of violations or abuses of Informz Terms of Service, including failure to honor opt-outs.
+Informz does not retain email address information after our users cancel their service. Informz does not monitor or limit our users from creating email messages. We do, however, quickly respond to notification of violations or abuses of Informz Terms of Service, including failure to honor opt-outs.
 
 **Other Information**
 
