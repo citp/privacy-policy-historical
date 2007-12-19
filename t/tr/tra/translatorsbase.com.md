@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the translatorsbase.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624133201id_/http%3A//translatorsbase.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the translatorsbase.com privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219200905id_/http%3A//www.translatorsbase.com/privacy.asp) for the most accurate reproduction.*
 
-# Translators, Translation Services, Translation Jobs - Translatorsbase.com
+# 翻译人员：文件翻译服务、自由翻译人员的翻译工作。
 
 Verbumsoft wants to demonstrate its commitment to your privacy and has displayed its privacy statement for your review: 
 
