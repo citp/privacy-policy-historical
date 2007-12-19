@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liberal.ca privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629035041id_/http%3A//www.liberal.ca/privacy_e.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liberal.ca privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219041640id_/http%3A//www.liberal.ca/privacy_e.aspx) for the most accurate reproduction.*
 
 # Liberal.ca :: Privacy Policy
 
