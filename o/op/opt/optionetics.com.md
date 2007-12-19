@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the optionetics.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623124928id_/http%3A//www.optionetics.com/about/legal.asp%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optionetics.com privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219044920id_/http%3A//www.optionetics.com/about/legal.asp%23privacy) for the most accurate reproduction.*
 
 # Optionetics - Legal
 
@@ -31,7 +31,7 @@ If an error is made and a product is listed at an incorrect price, Optionetics s
 
 Revised and posted as of: October 23, 2000 
 
-Optionetics.com is committed to safeguarding your privacy online. Please read the following statement to understand how your personal information will be treated as you make full use of the Optionetics.com Web site. The Optionetics.com Web site is owned and operated by Optionetics Investment Research Corp. 
+Optionetics.com is committed to safeguarding your privacy online. Please read the following statement to understand how your personal information will be treated as you make full use of the Optionetics.com Web site. The Optionetics.com Web site is owned and operated by Optionetics, Inc. 
 
 If you have any questions regarding our privacy statement, please feel free to contact us by e-mail at [privacy@optionetics.com](mailto:privacy@optionetics.com).
 
