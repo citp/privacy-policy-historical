@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kffl.com privacy policy that was archived on 2007-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070520080542id_/http%3A//www.kffl.com/static/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kffl.com privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219184924id_/http%3A//www.kffl.com/static/privacy.php) for the most accurate reproduction.*
 
 # KFFL - The Hottest NFL, MLB and Fantasy News!
 
