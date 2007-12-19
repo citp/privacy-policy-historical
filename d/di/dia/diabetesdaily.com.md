@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diabetesdaily.com privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608081744id_/http%3A//www.diabetesdaily.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diabetesdaily.com privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219120854id_/http%3A//www.diabetesdaily.com/privacy.php) for the most accurate reproduction.*
 
 # Diabetes Daily - Privacy Policy
 
@@ -12,4 +12,4 @@ We despise people that send spam or trade/sell/rent personal information:
 
 
 
-If you have any questions or suggestions on how to improve, please email us at [team@diabetesdaily.com](mailto:team@diabetesdaily.com). We're very friendly people.
+If you have any questions or suggestions on how to improve, please contact us.
