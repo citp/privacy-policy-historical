@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the cityevents.tv privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607181505id_/http%3A//www.cityevents.tv/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cityevents.tv privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219165005id_/http%3A//www.cityevents.tv/privacy.php) for the most accurate reproduction.*
 
 # www.CityEvents.tv : A Global Night Life Network
+
+## Privacy Statement 
 
 In CITYEVENTS.TV INC. we take your Privacy seriously. We created this Privacy statement to demonstrate our firm commitment to Privacy. The following outlines our information gathering and dissemination practices for this website. 
 
