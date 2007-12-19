@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cataloguecentral.com.au privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629210819id_/http%3A//cataloguecentral.com.au/privacy_inc.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cataloguecentral.com.au privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219092955id_/http%3A//www.cataloguecentral.com.au/privacy_inc.asp) for the most accurate reproduction.*
 
-# Catalogue Central - All your favourite Big Brand catalogues online
+# Christmas Catalogues for all your Hampers, Gift Ideas, Toys | Catalogue Central
 
 Our Policy
 
@@ -8,17 +8,15 @@ The privacy of your personal information is important to us at Catalogue Central
 
 Your security
 
-We maintain physical, electronic and procedural safeguards that protects your personal information. Only authorized Catalogue Central staff has access to your personal information. Information is only accessible when required in the normal course of business and customer contact from Catalogue Central only. No contact will be made by another source at any time. 
+We maintain physical, electronic and procedural safeguards that protects your personal information. Only authorized Catalogue Central staff has access to your personal information. Information is only accessible when required in the normal course of business from Catalogue Central.
 
 Collection of Member/Visitor Information
 
 If you do nothing during your visit but browse through the website and read the information contained on the web pages, we may gather certain information about your visit automatically. This information does not identify you personally. We may automatically gather the Internet domain, IP address from which you access Catalogue Central and the date and time you access our website and the pages you visit. 
 
-We may collect nonpublic personal information from you when you voluntarily provide personally identifiable information to us though our website, such as when subscribing to the cataloguecentral.com.au website. We limit use of such information to the purposes for which the information was provided. However, we reserve the right to use such information to contact you regarding additional services or products that you may find useful. This would typically be in the form of an electronic mail (e-mail) message that includes advertisements for a product or service from our sponsors. Again, this would only ever relate to your designated preferences.
+We may collect nonpublic personal information from you when you voluntarily provide personally identifiable information to us through our website, such as when subscribing to the cataloguecentral.com.au website. We limit use of such information to the purposes for which the information was provided. However, we reserve the right to use such information to contact you regarding additional services or products that you may find useful.
 
-If you send an e-mail message that includes personally identifiable information, for example, in an e-mail message containing an inquiry, we will use that information to respond to your inquiry. Remember that e-mail is not necessarily secure against interception. 
-
-It is our policy to not sell, rent, or give away any nonpublic personal information unless required by law. 
+If you send an e-mail message that includes personally identifiable information, for example, in an e-mail message containing an inquiry, we will use that information to respond to your inquiry. Remember that e-mail is not necessarily secure against interception.
 
 We may use "cookies" to improve our service to you. Cookies may help us recall a previous visit. The cookies we use do not collect personally identifiable information, and we do not use them to determine your identity. 
 
