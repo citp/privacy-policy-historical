@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stumpsprom.com privacy policy that was archived on 2007-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070101053702id_/http%3A//www.stumpsprom.com/service.cfm%3Fpage%3Dsite_security%26SecID%3D10%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stumpsprom.com privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219163630id_/http%3A//www.stumpsprom.com/service.cfm%3Fpage%3Dsite_security%26SecID%3D10%23privacy) for the most accurate reproduction.*
 
-# Prom Decorations, Prom Themes, Prom Supply, Prom Favors – Stumps Prom and Party
+# Prom Decorations, Prom Favors, Prom 2008 – Stumps Prom and Party
 
 ### Site Security
 
