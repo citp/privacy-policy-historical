@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the spiceworks.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627173738id_/http%3A//www.spiceworks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spiceworks.com privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219021950id_/http%3A//www.spiceworks.com/privacy) for the most accurate reproduction.*
 
-# Spiceworks: Privacy
+# Spiceworks Privacy Policy
 
   
-Last Updated: June 15, 2007 
+Last Updated: September 26, 2007 
 
 The Spiceworks Privacy Policy describes how we treat personal and company information when you use Spiceworks products and services, including information provided when you use the Spiceworks Desktop and its associated website. Please take a moment to read the following to learn more about our information practices, including what type of information is gathered, how the information is used and for what purposes, to whom we disclose the information, and how we safeguard your information. 
 
@@ -19,17 +19,28 @@ From time to time, the Spiceworks Desktop does collect a limited amount of anony
 
 Your copy of the Spiceworks Desktop includes a unique application number. When you install the Spiceworks Desktop, this number and a message indicating whether the installation succeeded or failed, is sent back to Spiceworks. Also, when the Spiceworks Desktop automatically checks to see if a new version is available, the current version number and the unique application number are sent to Spiceworks. The unique application number is required for Spiceworks Desktop to function properly and cannot be disabled. 
 
-Spiceworks uses cookies and other common web technologies to enhance your online experience and to learn about how you use Spiceworks services in order to improve the quality of our services. As is true of most Web sites, we gather certain information automatically and store it in log files. This information includes display size, browser type, referring/exit pages, operating system, date/time stamp, and various clickstream data. 
+Spiceworks uses cookies and other common web technologies, which does not identify individual users, to enhance your online experience and to learn about how you use Spiceworks services in order to improve the quality of our services. As is true of most Web sites, we gather certain information automatically and store it in log files. This information includes display size, browser type, referring/exit pages, operating system, date/time stamp, and various clickstream data. 
 
 **How we use the information**
 
+  * We use your email address to contact you from time-to-time about product updates, special offers and general news about Spiceworks. These updates are delivered to you in the form of a monthly newsletter and notifications of special events.
+  * If you chose to complete the personal information section of your Spiceworks profile, you should be aware that this information is visible to other users of the Service. Personally identifiable information you submit to one of these forums can be read, collected, or used by other individuals to send you unsolicited messages.
   * We may use personal information and environment information to provide the services you've requested, including services that display customized content and advertising. 
-  * We may share anonymous aggregated information with third parties outside of Spiceworks. 
-  * When we use third parties to assist us in processing your personal information, we require that they comply with our Privacy Policy and any other appropriate confidentiality and security measures. 
+  * From time-to-time we may ask individual users to participate in customer testimonials posted on our web site. We never post these testimonials without their express permission. Any information provided as part of these testimonials is used solely for the purpose of these testimonials and is not used in any other way. 
+  * We may share anonymous aggregated information with third parties outside of Spiceworks. When we use third parties to assist us in processing your personal information, we require that they comply with our Privacy Policy and any other appropriate confidentiality and security measures. For example, we use a third party service to manage our email marketing campaigns. This system stores your name, email address and the date on which you registered. The service provider is required to adhere to all terms and conditions of this privacy policy. 
   * We may also share information with third parties in limited circumstances, including when complying with legal process, preventing fraud or imminent harm, and ensuring the security of our network and services. 
   * We may use log file information, which does not identify individual users, to analyze trends, to administer the site, to track users' movements around the site, to gather demographic information about our user base as a whole, and to operate and improve the Spiceworks technologies and services. 
   * Spiceworks processes personal information on our servers in the United States of America and in other countries. In some cases, we may process personal information on a server outside your own country. 
   * If our company should ever file for bankruptcy or be a party to a merger or acquisition, we may share the information you provide to us to a third party in connection with such activity. 
+
+**Your choices**   
+You can uninstall the Spiceworks Desktop software through the "Add or Remove Programs" Control Panel at any time. When you uninstall the software, the Spiceworks Desktop and all its associated data files (i.e. configuration information about discovered hardware and software applications) will be deleted. Once deleted it cannot be recovered. We offer you choices when we ask for personal information, whenever reasonably possible. You may decline to provide personal information to us and/or refuse cookies in your browser, although some if not all of our features or services may not function properly as a result. 
+
+You may "opt-in" to receive site notifications, newsletters, third-party offers or other information via email. Users may remove themselves from such services at their discretion. Any email sent to an "opt-in" list will include directions for how a user may remove himself or herself from the list, or a URL where the user may find such directions. 
+
+If you no longer wish to receive product updates and general news about Spiceworks via our monthly newsletter or periodic updates, you may opt-out of receiving them by following the instructions included in each newsletter or by emailing us at [info@spiceworks.com](mailto:info@spiceworks.com). 
+
+We make good faith efforts to provide you access to your personal information upon request and to let you correct such data if it is inaccurate and delete it, when reasonably possible. If your personally identifiable information changes, you may update it using the "Update Profile" link at the bottom of the email newsletter. 
 
 **Information Confidentiality and Security**   
 We use SSL to protect the personal information transmitted between the Spiceworks Desktop and Spiceworks. We limit access to this information to employees or contracted third parties who need to come into contact with that information to provide you with the service. When we use third parties to assist us, we require that they comply with our Privacy Policy and all other appropriate confidentiality and security measures. 
@@ -40,19 +51,23 @@ Please be aware that other websites that may be accessed through our Service may
 **Children's Privacy**   
 This Service is not intended for or directed to persons under the age of 15. Any person who provides their information to the Company through the account login page for new customers or any other part of the Service represents to the Company that they are 15 years of age or older. 
 
-**Your choices**   
-You can uninstall the Spiceworks Desktop software through the "Add or Remove Programs" Control Panel at any time. When you uninstall the software, the Spiceworks Desktop and all its associated data files (i.e. configuration information about discovered hardware and software applications) will be deleted. Once deleted it cannot be recovered. We offer you choices when we ask for personal information, whenever reasonably possible. You may decline to provide personal information to us and/or refuse cookies in your browser, although some if not all of our features or services may not function properly as a result. 
+**Legal Disclaimer**   
+We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site. 
 
-You may "opt-in" to receive site notifications, newsletters, third-party offers or other information via email. Users may remove themselves from such services at their discretion. Any email sent to an "opt-in" list will include directions for how a user may remove himself or herself from the list, or a URL where the user may find such directions. 
+**Changes to Privacy Statement**   
+Spiceworks may update its privacy policy from time to time. When we change the policy in a material way a prominent notice will be posted on our website along with the updated privacy policy. Please check this URL frequently to see the latest version of this policy. 
 
-We make good faith efforts to provide you access to your personal information upon request and to let you correct such data if it is inaccurate and delete it, when reasonably possible. 
+**TRUSTe Licensee**   
+Spiceworks is a licensee of the TRUSTe Web Privacy Seal Program. TRUSTe is an independent, non-profit organization whose mission is to build user.s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Spiceworks Desktop and the Web site located at [www.spiceworks.com](http://www.spiceworks.com/). 
+
+Should you have questions or comments regarding this statement, please send email to [feedback@spiceworks.com](mailto:feedback@spiceworks.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns. 
 
 **More information**   
 Spiceworks adheres to the US Safe Harbor privacy principles. For more information about the Safe Harbor framework or our registration, see the Department of Commerce's web site. 
 
 **Feedback**   
-If you have comments on the Spiceworks Service or ideas on how to improve it, please send email to [feedback@spiceworks.com ](mailto:feedback@spiceworks.com).  Please note that by doing so, you also grant Spiceworks and third parties permission to use and incorporate your ideas or comments into the Service (or third party software or content) without further compensation or approval. 
+If you have comments on the Spiceworks Service or ideas on how to improve it, please send email to [feedback@spiceworks.com](mailto:feedback@spiceworks.com). Please note that by doing so, you also grant Spiceworks and third parties permission to use and incorporate your ideas or comments into the Service (or third party software or content) without further compensation or approval. 
 
 The information contained in this web site is subject to change without notice.   
-Copyright © 2006 Spiceworks, Inc. All rights reserved.   
+Copyright © 2006-2007 Spiceworks, Inc. All rights reserved.   
 Spiceworks, Inc. 9005 Mountain Ridge Drive, Suite 100, Austin, TX 78759, USA 
