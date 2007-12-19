@@ -1,43 +1,20 @@
-<!--The following is the downloaded HTML source of the catchoftheday.com.au privacy policy that was archived on 2007-04-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070427165738id_/http%3A//www.catchoftheday.com.au/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the catchoftheday.com.au privacy policy that was archived on 2007-12-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071219183728id_/http%3A//www.catchoftheday.com.au/privacy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html dir="LTR" lang="en"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<title>Catch Of The Day - One catch to hook em all</title>
-<base href="http://www.catchoftheday.com.au/">
-<link rel="stylesheet" type="text/css" href="stylesheet.css">
-<link rel="stylesheet" type="text/css" href="css.css">
-<style type="text/css">
-<!--
-.style1 {font-family: "Times New Roman", Times, serif}
--->
-</style>
+<title>Catch Of The Day - More Than You Bargained For</title>
+<link href="cotd.css" rel="stylesheet" type="text/css">
+<script src="js/cotd.js"></script>
 </head>
-<body marginwidth="0" marginheight="0" topmargin="0" bottommargin="0" leftmargin="0" rightmargin="0">
-<!-- header //-->
 
-<table width="100%" height="142" align="center" cellpadding="0" cellspacing="0">
-<tbody><tr>
-  <td align="center">
-  </td>
-</tr>
-<tr>
-<td align="center">
-
-<div id="h_container">
-
-
-  <div id="h_center"></div>
-  <div id="but_container">
-<div id="b_1"> <a href="http://www.catchoftheday.com.au/contact_us.php?osCsid=91bbc1fa7e028e5c278d3224a9ca5fb1"><img src="images/b7.gif" border="0"></a></div><div id="b_1"> <a href="https://www.catchoftheday.com.au/account.php?osCsid=91bbc1fa7e028e5c278d3224a9ca5fb1"><img src="images/b6.gif" border="0"></a></div><div id="b_1"> <a href="http://www.catchoftheday.com.au/faq.php?osCsid=91bbc1fa7e028e5c278d3224a9ca5fb1"><img src="images/b5.gif" border="0"></a></div><div id="b_1"> <a href="http://www.catchoftheday.com.au/trans_phpbb.php?osCsid=91bbc1fa7e028e5c278d3224a9ca5fb1"><img src="images/b4.gif" border="0"></a></div><div id="b_1"> <a href="http://www.catchoftheday.com.au/blog.php?osCsid=91bbc1fa7e028e5c278d3224a9ca5fb1"><img src="images/b3.gif" border="0"></a></div><div id="b_1"> <a href="http://www.catchoftheday.com.au/about_us.php?osCsid=91bbc1fa7e028e5c278d3224a9ca5fb1"><img src="images/b2.gif" border="0"></a></div><div id="b_1"> <a href="http://www.catchoftheday.com.au/index.php?osCsid=91bbc1fa7e028e5c278d3224a9ca5fb1"><img src="images/b1.gif" border="0"></a></div><div id="countdown"><span class="smallText">Time Left &nbsp;&nbsp;09:02:21</span> </div>
-<!--
-<form action="http://www.catchoftheday.com.au/forum/index.php" method=post name="myForum" style="margin : 0 0 0 0;">
-
-</form>-->
+<body>
+<div id="maincontainer">
+  <div id="container">
+<div id="leftcol">
+  <div id="logolink"><a href="index.php"><span>CatchoftheDay</span></a></div>
+  <div id="timeleft"><div id="countdown">06:22:36 </div>
 <script type="text/javascript">
-function goForum(){
-  document.myForum.submit();
-}
 /***********************************************
 * Universal Countdown script- © Dynamic Drive (http://www.dynamicdrive.com)
 * This notice MUST stay intact for legal use
@@ -47,7 +24,7 @@ function goForum(){
 function cdLocalTime(container, servermode, offsetMinutes, targetdate, debugmode){
 if (!document.getElementById || !document.getElementById(container)) return
 this.container=document.getElementById(container)
-var servertimestring=(servermode=="server-php")? 'April 28, 2007 02:57:38' : (servermode=="server-ssi")? '<!--#config timefmt="%B %d, %Y %H:%M:%S"--><!--#echo var="DATE_LOCAL" -->' : '<%= Now() %>'
+var servertimestring=(servermode=="server-php")? 'December 20, 2007 05:37:23' : (servermode=="server-ssi")? '<!--#config timefmt="%B %d, %Y %H:%M:%S"--><!--#echo var="DATE_LOCAL" -->' : '<%= Now() %>'
 this.localtime=this.serverdate=new Date(servertimestring)
 this.targetdate=new Date(targetdate)
 this.debugmode=(typeof debugmode!="undefined")? 1 : 0
@@ -125,7 +102,7 @@ setTimeout(function(){thisobj.showresults()}, 1000) //update results every secon
 //1) Display countdown using plain text
 function formatresults(){
 if (this.timesup==false){//if target date/time not yet met
-var displaystring="<span class='smallText'>Time Left &nbsp;&nbsp;</span>"+arguments[1]+" hours "+arguments[2]+" minutes "+arguments[3]+" seconds"
+var displaystring=arguments[1]+" hours "+arguments[2]+" minutes "+arguments[3]+" seconds"
 }
 else{ //else if target date/time met
 var displaystring="Time out!"
@@ -136,11 +113,11 @@ return displaystring
 //2) Display countdown with a stylish LCD look, and display an alert on target date/time
 function formatresults2(){
 if (this.timesup==false){ //if target date/time not yet met
-var displaystring="<span class='smallText'>Time Left &nbsp;&nbsp;"+arguments[1]+":"+arguments[2]+":"+arguments[3]+"</span> "
+var displaystring=arguments[1]+":"+arguments[2]+":"+arguments[3]+"</span> "
 }
 else{ //else if target date/time met
 var displaystring="" //Don't display any text
-alert("Launch time is now midday !") //Instead, perform a custom alert
+//alert("Launch time is now midday !") //Instead, perform a custom alert
 }
 return displaystring
 }
@@ -153,417 +130,188 @@ return displaystring
 
 //Note: "launchdate" should be an arbitrary but unique variable for each instance of a countdown on your page:
 
-var launchdate=new cdLocalTime("countdown", "server-php", 0, "April 29, 2007 12:00:00")
+var launchdate=new cdLocalTime("countdown", "server-php", 0, "December 21, 2007 12:00:00")
 launchdate.displaycountdown("days", formatresults2)
-</script>
-</div>
+</script></div>
 
-</div>
-<img src="images/pixel_trans.gif" border="0" alt="" width="1" height="3"></td> 
-</tr>
-</tbody></table>
 <script language="javascript"><!--
 function popupWindow(url) {
   window.open(url,'popupWindow','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=yes,copyhistory=no,width=450,height=350,screenX=150,screenY=150,top=150,left=150')
 }
 //--></script>
+<div id="loginsec"><script language="JavaScript">
+            function onEnter( evt, frm ) {
+              var keyCode = null;
 
-<!-- header_eof //-->
-
-<!-- body //-->
-<table width="732" border="0" align="center" cellpadding="1" cellspacing="0">
-  <tbody><tr>
-    <td width="220" valign="top"><table border="0" width="125" cellspacing="0" cellpadding="0">
-<!-- left_navigation //-->
-
-<!-- tell_a_friend //-->
-          <tbody><tr>
-            <td>
-      
-      <table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td><img src="images/left_line.gif"></td>
-  </tr>
-</tbody></table>
-
-<table border="0" width="100%" height="100%" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td class="infoBoxHeading">&nbsp;&nbsp;&nbsp; Ö. &nbsp;Login Area</td>
-  </tr>
-</tbody></table>
-<table border="0" width="100%" height="100%" cellspacing="0" cellpadding="4" class="infoBox" background="images/infobox/login_bg.gif">
-  <tbody><tr>
-    <td><table border="0" width="100%" height="100%" cellspacing="0" cellpadding="4" class="infoBoxContents">
-<form name="login" action="https://www.catchoftheday.com.au/login.php?action=process&amp;osCsid=91bbc1fa7e028e5c278d3224a9ca5fb1" method="post"></form>
-  <tbody><tr>
-    <td align="center">
-      <table border="0" width="100%" cellspacing="0" cellpadding="0">
-          
-         <tbody><tr>
-          <td colspan="2" class="login">e-mail or nickname:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><input type="text" name="email_address" class="login_field" size="25" style="border:solid 1px; border-color:#D88330"></td>
-     </tr> 
-         <tr>
-         <td colspan="2" class="login">password:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><input type="password" name="password" class="login_field" size="25" style="border:solid 1px; border-color:#D88330"></td>
-       </tr>
-     <tr>
-        <td width="63%" class="login_new"><img src="images/pixel_trans.gif" border="0" alt="" width="1" height="10"></td>
-        <td width="37%" rowspan="2" class="login_new"><input type="image" src="includes/languages/english/images/buttons/login.gif" border="0" alt=""></td>
-     </tr>
-     <tr>
-       <td>
-       <span class="log">
-       &nbsp;&nbsp;  »<a class="login_link" href="https://www.catchoftheday.com.au/create_account.php?osCsid=91bbc1fa7e028e5c278d3224a9ca5fb1 "> New Members</a><br>
-
-     &nbsp;&nbsp;  »<a class="login_link" href="https://www.catchoftheday.com.au/password_forgotten.php?osCsid=91bbc1fa7e028e5c278d3224a9ca5fb1 "> Forgot Password</a><br>
-
-      </span>
-      </td>
-     </tr>
-         
-        </tbody></table>
-    </td>
-  </tr>
-
-</tbody></table>
-</td>
-  </tr>
-</tbody></table>
-            </td>
-          </tr>
-<!-- tell_a_friend_eof //--><tr>
-  <td>
-<table border="0" width="100%" height="100%" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td class="infoBoxHeading">&nbsp;&nbsp;&nbsp; Ö. &nbsp;Catch Countdown</td>
-  </tr>
-</tbody></table>
-<table border="0" width="100%" height="100%" cellspacing="0" cellpadding="4" class="infoBox" background="images/infobox/time_bg.gif">
-  <tbody><tr>
-    <td><table border="0" width="100%" height="100%" cellspacing="0" cellpadding="4" class="infoBoxContents">
-  <tbody><tr class="smallText" valign="top">
-    <td align="left" class="smallText" valign="top"><table align="right" valign="middle" colspan="2" width="160" height="30" cellpadding="0" cellspacing="0"><tbody><tr><td width="65"><font size="2" color="#FFFFFF">Time left </font></td><td><font size="2" color="#453B1B"> 9h 3m</font></td></tr><tr><td><font size="2" color="#FFFFFF">Last catch </font></td><td><font size="2" color="#453B1B"> mcsean111</font></td></tr></tbody></table><br><br><br></td>
-  </tr>
-</tbody></table>
-</td>
-  </tr>
-</tbody></table>
-  
-  </td>
-</tr>
-<!-- tell_a_friend //-->
-          <tr>
-            <td>
-<table border="0" width="100%" height="100%" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td class="infoBoxHeading">&nbsp;&nbsp;&nbsp; Ö. &nbsp;Tell A Friend</td>
-  </tr>
-</tbody></table>
-<table border="0" width="100%" height="100%" cellspacing="0" cellpadding="4" class="infoBox" background="images/infobox/friend_bg.gif">
-  <tbody><tr>
-    <td><table border="0" width="100%" height="100%" cellspacing="0" cellpadding="4" class="infoBoxContents">
-<form name="tell_a_friend" action="http://www.catchoftheday.com.au/tell_a_friend.php" method="get"></form>
-  <tbody><tr>
-    <td align="center"><div align="right"><input type="text" name="to_email_address" size="20" style="border:solid 1px; border-color:#D88330">&nbsp;<br><input type="image" src="includes/languages/english/images/buttons/submit.gif" border="0" alt="Tell A Friend" title=" Tell A Friend " align="absmiddle" hspace="5" vspace="5"><input type="hidden" name="products_id"><input type="hidden" name="osCsid" value="91bbc1fa7e028e5c278d3224a9ca5fb1"></div></td>
-  </tr>
-
-</tbody></table>
-</td>
-  </tr>
-</tbody></table>
-            </td>
-          </tr>
-<!-- tell_a_friend_eof //-->
-<!-- subscribers //-->
-          <tr>
-            <td>
-
-<table border="0" width="100%" height="100%" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td class="infoBoxHeading">&nbsp;&nbsp;&nbsp; Ö. &nbsp;Newsletter Signup</td>
-  </tr>
-</tbody></table>
-
+              if( evt.which ) {
+              keyCode = evt.which;
+              } else if( evt.keyCode ) {
+              keyCode = evt.keyCode;
+              }
+              if( 13 == keyCode ) {
+              frm.submit();
+              return false;
+              }
+              return true;
+            }
+          </script>  <h3>Are you new? <a href="http://www.catchoftheday.com.au/login.php" class="bluelink">Start here</a></h3><form name="login" action="https://www.catchoftheday.com.au/login.php?action=login" method="post">
+            <table width="236" border="0" cellspacing="0" cellpadding="0">
+              <tbody><tr>
+                <td width="86" class="tdpadd"><input type="text" name="email_add" class="inputbox" id="email_add" size="30" value="email or nick" onfocus="clr(this.id)" onblur="rstr(this.id,'email or nick')"></td>
+                <td width="86" class="tdpadd"><input type="password" name="pass" class="inputbox" id="pass" size="30" value="password" onfocus="clr(this.id)" onblur="rstr(this.id,'password')" onkeypress="return onEnter(event,this.form);"></td>
+                <td width="64"><input type="image" src="images/img/go_button.gif" alt="Login" border="0"></td>
+              </tr>
+            </tbody></table>
+            </form>
+            <a href="http://www.catchoftheday.com.au/password_forgotten.php" class="bluelink">I forgot my password</a>
+          </div><div><img src="images/img/loginsec_footer.gif"></div><div class="box_pink">
+  <div class="boxheader"><img src="images/img/t_catchcountdown.gif" alt="Catch countdown"></div>
+  <div class="boxcontent">
+    <div class="spn1"><strong>TIME LEFT</strong></div>
+    <div class="spn2">6h 23m</div>
+    <div class="separator"></div>
+    <div class="spn1"><strong>LAST CATCH</strong></div>
+    <div class="spn2">Fenrir</div>
+    <div class="separator"></div>
+    <div><img src="images/awards/cotd_brw100.jpg" border="0"></div>
+  </div>
+</div>
+<div class="boxfooter"><img src="images/img/box_btm_pink.gif" alt="b"></div><div class="box_blue">
+  <div class="boxheader"><img src="images/img/t_smallfish.gif" alt="Small fish"></div>
+  <div class="boxcontent">
+<div class="thumb"><a href="http://www.catchoftheday.com.au/smallfish_info.php?products_id=712"><img src="images/tn/80x80/usbplasmaball/usbplasmaball1.gif" width="80" height="65" border="0" alt=" USB Plasma Ballz " title=" USB Plasma Ballz "></a></div><div class="desc"><h3>USB Plasma Ballz</h3><div class="smallfishprice">$14.95</div></div><div class="separator"></div><div class="readmore"><a href="http://www.catchoftheday.com.au/smallfish_info.php?products_id=712" class="bluelink">read more</a><br><img src="images/img/sep2.gif"></div><div class="thumb"><a href="http://www.catchoftheday.com.au/smallfish_info.php?products_id=762"><img src="images/tn/80x80/payphone/payphone1.gif" width="80" height="65" border="0" alt=" Ye Old Style Phone " title=" Ye Old Style Phone "></a></div><div class="desc"><h3>Ye Old Style Phone</h3><div class="smallfishprice">$29.95</div></div><div class="separator"></div><div class="readmore"><a href="http://www.catchoftheday.com.au/smallfish_info.php?products_id=762" class="bluelink">read more</a><br><img src="images/img/sep2.gif"></div><div class="thumb"><a href="http://www.catchoftheday.com.au/smallfish_info.php?products_id=768"><img src="images/tn/80x80/tiedeals/tiedeals1.jpg" width="80" height="65" border="0" alt=" The Deluxe Gentlemen’s Accessory Box " title=" The Deluxe Gentlemen’s Accessory Box "></a></div><div class="desc"><h3>The Deluxe Gentlemen’s Accessory Box</h3><div class="smallfishprice">$19.95</div></div><div class="separator"></div><div class="readmore"><a href="http://www.catchoftheday.com.au/smallfish_info.php?products_id=768" class="bluelink">read more</a><br><img src="images/img/sep2.gif"></div><div class="thumb"><a href="http://www.catchoftheday.com.au/smallfish_info.php?products_id=802"><img src="images/tn/80x80/seacret_nail_kit/seacret_nail_kit_1.jpg" width="80" height="65" border="0" alt=" Seacret Nail and Body Care Kit " title=" Seacret Nail and Body Care Kit "></a></div><div class="desc"><h3>Seacret Nail and Body Care Kit</h3><div class="smallfishprice">$14.95</div></div><div class="separator"></div><div class="readmore"><a href="http://www.catchoftheday.com.au/smallfish_info.php?products_id=802" class="bluelink">read more</a></div>  </div>
+</div>
+<div class="boxfooter"><img src="images/img/box_btm_blue.gif"></div>
 <script language="JavaScript1.2" type="text/javascript">
-        function verify(form)
-        {
-           var passed = false;
-        var blnRetval, intAtSign, intDot, intComma, intSpace, intLastDot, intDomain, intStrLen;
-        if (form.Email){
-                       intAtSign=form.Email.value.indexOf("@");
-                        intDot=form.Email.value.indexOf(".",intAtSign);
-                        intComma=form.Email.value.indexOf(",");
-                        intSpace=form.Email.value.indexOf(" ");
-                        intLastDot=form.Email.value.lastIndexOf(".");
-                        intDomain=intDot-intAtSign;
-                        intStrLen=form.Email.value.length;
-                // *** CHECK FOR BLANK EMAIL VALUE
-                   if (form.Email.value == "" )
-                   {
-                alert("You have not entered an email address.");
-                form.Email.focus();
-                passed = false;
-                }
-                // **** CHECK FOR THE  @ SIGN?
-                else if (intAtSign == -1)
-                {
-
-                alert("Your email address is missing the \"@\".");
-                        form.Email.focus();
-                passed = false;
-
-                }
-                // **** Check for commas ****
-
-                else if (intComma != -1)
-                {
-                alert("Email address cannot contain a comma.");
-                form.Email.focus();
-                passed = false;
-                }
-
-                // **** Check for a space ****
-
-                else if (intSpace != -1)
-                {
-                alert("Email address cannot contain spaces.");
-                form.Email.focus();
-                passed = false;
-                }
-
-                // **** Check for char between the @ and dot, chars between dots, and at least 1 char after the last dot ****
-
-                else if ((intDot <= 2) || (intDomain <= 1)  || (intStrLen-(intLastDot+1) < 2))
-                {
-                alert("Please enter a valid Email address.\n" + form.Email.value + " is invalid.");
-                form.Email.focus();
-                passed = false;
-                }
-                else {
-                        passed = true;
-                }
-        }
-        else    {
-                passed = true;
-        }
-        return passed;
+  function verify(form)
+  {
+    var passed = false;
+    var blnRetval, intAtSign, intDot, intComma, intSpace, intLastDot, intDomain, intStrLen;
+    if (form.Email) {
+      intAtSign=form.Email.value.indexOf("@");
+      intDot=form.Email.value.indexOf(".",intAtSign);
+      intComma=form.Email.value.indexOf(",");
+      intSpace=form.Email.value.indexOf(" ");
+      intLastDot=form.Email.value.lastIndexOf(".");
+      intDomain=intDot-intAtSign;
+      intStrLen=form.Email.value.length;
+          
+      // *** CHECK FOR BLANK EMAIL VALUE
+      if (form.Email.value == "" )
+      {
+        alert("You have not entered an email address.");
+        form.Email.focus();
+        passed = false;
+      }
+      // **** CHECK FOR THE  @ SIGN?
+      else if (intAtSign == -1)
+      {
+        alert("Your email address is missing the \"@\".");
+        form.Email.focus();
+        passed = false;
+      }
+      // **** Check for commas ****
+      else if (intComma != -1)
+      {
+        alert("Email address cannot contain a comma.");
+        form.Email.focus();
+        passed = false;
+      }
+      // **** Check for a space ****
+      else if (intSpace != -1)
+      {
+        alert("Email address cannot contain spaces.");
+        form.Email.focus();
+        passed = false;
+      }
+      // **** Check for char between the @ and dot, chars between dots, and at least 1 char after the last dot ****
+      else if ((intDot <= 2) || (intDomain <= 1)  || (intStrLen-(intLastDot+1) < 2))
+      {
+        alert("Please enter a valid Email address.\n" + form.Email.value + " is invalid.");
+        form.Email.focus();
+        passed = false;
+      }
+      else
+      {
+        passed = true;
+      }
+    }
+    else
+    {
+      passed = true;
+    }
+    
+    return passed;
   }
-        //-->
 </script>
-<table border="0" width="100%" height="100%" cellspacing="0" cellpadding="4" class="infoBox" background="images/infobox/newsletter_bg.gif">
-  <tbody><tr>
-    <td><table border="0" width="100%" height="100%" cellspacing="0" cellpadding="4" class="infoBoxContents">
-  <tbody><tr>
-    <td align="left"><div align="right"><span class="infoBoxText">Enter your E-Mail Address:&nbsp;&nbsp; </span><form name="newsletter" action="http://www.catchoftheday.com.au/newsletters_subscribe.php?osCsid=91bbc1fa7e028e5c278d3224a9ca5fb1" method="post" onsubmit="return verify(this);"><br><input type="text" name="Email" value="" checked="" size="20" maxlength="35" style="border:solid 1px; border-color:#D88330">&nbsp;<br><input type="image" src="includes/languages/english/images/buttons/submit.gif" border="0" alt="" align="absmiddle hspace=" 5"="" vspace="5" "="">&nbsp;<a href="http://www.catchoftheday.com.au/newsletters.php?osCsid=91bbc1fa7e028e5c278d3224a9ca5fb1"></a></form></div></td>
-  </tr>
-</tbody></table>
-</td>
-  </tr>
-</tbody></table>
-            </td>
-          </tr>
-<!-- subscribers_eof //--><!-- specials //-->
-          <tr>
-            <td>
-<!--    <div id="sf_container"> 
-    <div id="small_fish"> <img src="images/sierra/swat_3.gif"  />   </div>
-    <div id="sf_price">
-    <br />
-    <br />
-    $124    <br />
-    <span class="sf_shipping">+ 10 shipping </span>
-    </div>
-    </div> -->
-<table border="0" width="100%" height="100%" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td class="infoBoxHeading">&nbsp;&nbsp;&nbsp; Ö. &nbsp;Small Fish</td>
-  </tr>
-</tbody></table>
-<table border="0" width="100%" height="100%" cellspacing="0" cellpadding="0" class="infoBox" background="images/infobox/sm_1_bg.gif">
-  <tbody><tr>
-    <td><table border="0" width="100%" height="100%" cellspacing="0" cellpadding="0" class="infoBoxContents">
-  <tbody><tr>
-    <td align="center" class="boxText"><div id="sm_1">
-  <div id="sm_title"> 800W Power Inverter</div>
-
-  <div id="sm_img"> <img src="images//products/ari800-2.jpg" border="0" alt="800W Power Inverter" title=" 800W Power Inverter " width="80" height="80" style="border:solid 1px; border-color:#7F7F7F"></div>
-  <div id="sm_price"> $139.00</div>
-  <div id="read_more"> <a href="http://www.catchoftheday.com.au/product_info.php?products_id=350&amp;osCsid=91bbc1fa7e028e5c278d3224a9ca5fb1"><img border="0" src="images/read_more.gif" width="95" height="12"></a></div>
-  </div></td>
-  </tr>
-</tbody></table>
-</td>
-  </tr>
-</tbody></table>
-<table border="0" width="100%" height="100%" cellspacing="0" cellpadding="0" class="infoBox" background="images/infobox/sm_1_bg.gif">
-  <tbody><tr>
-    <td><table border="0" width="100%" height="100%" cellspacing="0" cellpadding="0" class="infoBoxContents">
-  <tbody><tr>
-    <td align="center" class="boxText"><div id="sm_1">
-  <div id="sm_title"> 600W Power Inverter</div>
-
-  <div id="sm_img"> <img src="images//products/ari600-3.jpg" border="0" alt="600W Power Inverter" title=" 600W Power Inverter " width="80" height="80" style="border:solid 1px; border-color:#7F7F7F"></div>
-  <div id="sm_price"> $89.00</div>
-  <div id="read_more"> <a href="http://www.catchoftheday.com.au/product_info.php?products_id=349&amp;osCsid=91bbc1fa7e028e5c278d3224a9ca5fb1"><img border="0" src="images/read_more.gif" width="95" height="12"></a></div>
-  </div></td>
-  </tr>
-</tbody></table>
-</td>
-  </tr>
-</tbody></table>
-<table border="0" width="100%" height="100%" cellspacing="0" cellpadding="0" class="infoBox" background="images/infobox/sm_1_bg.gif">
-  <tbody><tr>
-    <td><table border="0" width="100%" height="100%" cellspacing="0" cellpadding="0" class="infoBoxContents">
-  <tbody><tr>
-    <td align="center" class="boxText"><div id="sm_1">
-  <div id="sm_title"> 1000W Power Inverter</div>
-
-  <div id="sm_img"> <img src="images//products/ari1000-2.jpg" border="0" alt="1000W Power Inverter" title=" 1000W Power Inverter " width="80" height="80" style="border:solid 1px; border-color:#7F7F7F"></div>
-  <div id="sm_price"> $159.00</div>
-  <div id="read_more"> <a href="http://www.catchoftheday.com.au/product_info.php?products_id=351&amp;osCsid=91bbc1fa7e028e5c278d3224a9ca5fb1"><img border="0" src="images/read_more.gif" width="95" height="12"></a></div>
-  </div></td>
-  </tr>
-</tbody></table>
-</td>
-  </tr>
-</tbody></table>
-<table border="0" width="100%" height="100%" cellspacing="0" cellpadding="0" class="infoBox" background="images/infobox/sm_1_bg.gif">
-  <tbody><tr>
-    <td><table border="0" width="100%" height="100%" cellspacing="0" cellpadding="0" class="infoBoxContents">
-  <tbody><tr>
-    <td align="center" class="boxText"><div id="sm_1">
-  <div id="sm_title"> Pyrod 19" W/S LCD TV</div>
-
-  <div id="sm_img"> <img src="images//products/pyrod_1.jpg" border="0" alt="Pyrod 19&quot; W/S LCD TV" title=" Pyrod 19&quot; W/S LCD TV " width="80" height="80" style="border:solid 1px; border-color:#7F7F7F"></div>
-  <div id="sm_price"> $299.00</div>
-  <div id="read_more"> <a href="http://www.catchoftheday.com.au/product_info.php?products_id=154&amp;osCsid=91bbc1fa7e028e5c278d3224a9ca5fb1"><img border="0" src="images/read_more.gif" width="95" height="12"></a></div>
-  </div></td>
-  </tr>
-</tbody></table>
-</td>
-  </tr>
-</tbody></table>
-            </td>
-          </tr>
-<!-- specials_eof //-->
-<!-- topics //-->
-          <tr>
-            <td>
-<table border="0" width="100%" height="100%" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td class="infoBoxHeading">&nbsp;&nbsp;&nbsp; Ö. &nbsp;What's Happening?</td>
-  </tr>
-</tbody></table>
-<table border="0" width="100%" height="100%" cellspacing="0" cellpadding="4" class="infoBox" background="images/infobox/past_bg2.gif">
-  <tbody><tr>
-    <td><table border="0" width="100%" height="100%" cellspacing="0" cellpadding="4" class="infoBoxContents">
-  <tbody><tr class="smallText" valign="top">
-    <td align="left" class="smallText" valign="top"><table width="210" align="right"><tbody><tr><td><span class="whatshappeningdate"><b><font color="#106718">Monday&nbsp;&nbsp;19,02,2007</font></b></span></td></tr><tr><td><span class="customWhatsHappeningHead">Combined Shipping</span></td></tr><tr><td><span class="customWhatsHappeningDesc">You can now save ...</span></td></tr><tr><td align="right"><a class="custom_link_whats_happening" href="http://www.catchoftheday.com.au/articles.php?articles_id=4&amp;osCsid=91bbc1fa7e028e5c278d3224a9ca5fb1">&gt;&gt; read more</a></td></tr></tbody></table></td>
-  </tr>
-</tbody></table>
-</td>
-  </tr>
-</tbody></table>
-  </td>
-</tr>
-<!-- topics_eof //--><!-- newsdesk //-->
-  <tr>
-            <td>
-<table border="0" width="100%" height="100%" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td class="infoBoxHeading">&nbsp;&nbsp;&nbsp; Ö. &nbsp;The Ones that got away!</td>
-  </tr>
-</tbody></table>
-<table border="0" width="100%" height="100%" cellspacing="0" cellpadding="4" class="infoBox" background="images/infobox/past_bg.gif">
-  <tbody><tr>
-    <td><table border="0" width="100%" height="100%" cellspacing="0" cellpadding="4" class="infoBoxContents">
-  <tbody><tr class="smallText" valign="top">
-    <td align="left" class="smallText" valign="top"><table width="210" align="right"><tbody><tr><td><span class="infoBoxDate"><b><font color="#37330C">Thursday&nbsp;&nbsp;26,04,2007</font></b></span></td></tr><tr><td><span class="custominfoBoxText">Wi-less iPod/MP3 FM Transmitter</span></td></tr><tr><td><a class="custom_link_infobox" href="http://www.catchoftheday.com.au/newsdesk_info.php?newsdesk_id=266&amp;osCsid=91bbc1fa7e028e5c278d3224a9ca5fb1">read more</a></td></tr></tbody></table></td></tr><tr><td><center><img src="images/line1.gif" border="0" alt="" width="215" height="1"></center><table width="210" align="right"><tbody><tr><td><span class="infoBoxDate"><b><font color="#37330C">Wednesday&nbsp;&nbsp;25,04,2007</font></b></span></td></tr><tr><td><span class="custominfoBoxText">BBQ Light &amp; Food Timer</span></td></tr><tr><td><a class="custom_link_infobox" href="http://www.catchoftheday.com.au/newsdesk_info.php?newsdesk_id=265&amp;osCsid=91bbc1fa7e028e5c278d3224a9ca5fb1">read more</a></td></tr></tbody></table></td></tr><tr><td><center><img src="images/line1.gif" border="0" alt="" width="215" height="1"></center><table width="210" align="right"><tbody><tr><td><span class="infoBoxDate"><b><font color="#37330C">Tuesday&nbsp;&nbsp;24,04,2007</font></b></span></td></tr><tr><td><span class="custominfoBoxText">24 Pairs x Mens Business Socks</span></td></tr><tr><td><a class="custom_link_infobox" href="http://www.catchoftheday.com.au/newsdesk_info.php?newsdesk_id=264&amp;osCsid=91bbc1fa7e028e5c278d3224a9ca5fb1">read more</a></td></tr></tbody></table></td>
-  </tr>
-</tbody></table>
-</td>
-  </tr>
-</tbody></table>
-    </td></tr><tr>
-      <td class="infoboxBottom"></td>
-    </tr>
-  
-
-<!-- newsdesk_eof //-->
-  
-
-<!-- left_navigation_eof //-->
-    </tbody></table></td>
-<!-- body_text //-->
-    <td width="550" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="2">
+<div class="box_green">
+  <div class="boxheader"><img src="images/img/t_newsletter.gif" alt="Newsletter"></div>
+  <div class="boxcontent">Enter your e-mail address:<br>
+    <form name="newsletter" action="http://www.catchoftheday.com.au/newsletters_subscribe.php" method="post" onsubmit="return verify(this);">    <table width="229" border="0" cellspacing="0" cellpadding="0">
       <tbody><tr>
-        <td height="92" valign="top" background="images/cs_header.gif"><div id="mainHeading">Privacy Statement </div></td>
+        <td width="164" class="tdpadd"><input type="text" name="Email" class="inputboxlarge" id="newsletter_join" value="email address" onfocus="clr(this.id)" onblur="rstr(this.id,'email address')"></td>
+        <td width="65"><input type="image" src="images/img/go_button.gif" alt="Newsletter join" border="0"></td>
       </tr>
     </tbody></table>
-      <table width="100%" border="0" cellpadding="0" cellspacing="0" background="images/contact_bg.gif">
-        <tbody><tr>
-          <td width="10%">&nbsp;</td>
-          <td width="80%"><table width="100%" border="0" cellpadding="11" cellspacing="0">
-            
-            <tbody><tr>
-              <td><table border="0" width="100%" cellspacing="0" cellpadding="2">
-                  <tbody><tr>
-                    <td valign="top" class="main"><h1 class="style1">Privacy Policy </h1><div align="justify">
-                      At CatchOf TheDay.com.au we appreciate that you  value your privacy and wish to have your personal information kept secure. Our  privacy policy describes generally how we manage your personal information and  protect your privacy. We shall also ensure that we comply with our obligations  under the Privacy Act 1988 (Cth). 
-                      <p>At  CatchOfTheDay.com.au we only collect personal information that is necessary for  us to conduct our business as an online provider of goods.<br>
-                        The personal  information we collect will include information you give us when you place an  order for the purchase of a good we supply. We may also collect personal  information about individuals who are not customers of our business, but whose  personal information is given to us by those individuals or other people in the  course of a transaction. This personal information will include your name,  address and contact details, and may include other personal information about  individuals we collect in the course of a transaction.<br><br>
-                        We may also  collect some information from you when you use our website <a href="http://www.dealsdirect.com.au/"><u>www.catchoftheday.com.au</u></a> . Your use of the information and  services available through our website will determine the type of information  that we collect about you.<br><br>
-                        The only personal information that  we collect about you when you use our website is what you tell us about  yourself, for example, when you complete an online form when placing an order,  or information you provide to us when you send us an email. Please note, we  will record your email address if you send us an email.<a name="disclosingpersonalinformation"> </a></p>
-                      <h3>Using and Disclosing Your  Personal Information</h3>
-                      <p>We respect  your privacy. Any personal information that we collect about you will be used  and disclosed by us so that we can provide you with the services that you have  requested, or otherwise to enable us to carry out our business as suppliers of  goods.<br><br>
-                        Please be  assured we will not disclose information about you unless the disclosure is  required or authorised by law, you have consented to our disclosing the  information about you, or for another purpose (related to the primary purpose  of collecting that information) that you would reasonably expect.<br><br>
-                        We may also  use your personal information to provide you with information about other  services offered by us. However, the only information that you must provide is  your name and payment details (where applicable). If you would prefer not to  receive promotional or other material from us, please let us know and we will  respect your request.</p>
-                      Under the Privacy Act 1988 (Cth) you have a right to request access to your  personal information held by us. You may do this by sending us an email to <a href="mailto:info@catchoftheday.com.au">info@catchoftheday.com.au</a>&nbsp; or by writing to us at: 
-                      <p>Privacy Officer <br>
-                        Catch of the day <br>
-                        1/26 Roberna St <br>
-                      Moorabbin,&nbsp;   Victoria 3189 </p></div></td>
-                  </tr>
-              </tbody></table></td>
-            </tr>
-            <tr>
-              <td><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="10"></td>
-            </tr>
-            
-          </tbody></table></td>
-          <td width="10%">&nbsp;</td>
-        </tr>
-      </tbody></table>
-      <table width="100%" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr>
-          <td><img src="images/contact_bottom.gif" width="495" height="79"></td>
-        </tr>
-      </tbody></table></td>
-<!-- body_text_eof //-->
-  </tr>
-</tbody></table>
-<!-- body_eof //-->
-
-<!-- footer //-->
-<table width="100%" height="58" align="center" cellpadding="0" cellspacing="0">
-<tbody><tr>
-<td align="center">  
-<div id="footer">
-<div id="footer_bt">
-<div id="pay_links"> <img src="images/pay_links.gif" border="0" usemap="#Map">
-<map name="Map" id="Map">
-<area shape="rect" coords="3,1,58,39" href="http://www.visa.com" target="_blank">
-<area shape="rect" coords="61,1,116,39" href="http://www.mastercard.com" target="_blank">
-<area shape="rect" coords="119,1,174,39" href="http://www.verisign.com" target="_blank">
-<area shape="rect" coords="177,1,232,39" href="http://www.paypal.com" target="_blank">
-</map> </div>
-<div id="b_1"> <a href="http://www.catchoftheday.com.au/contact_us.php?osCsid=91bbc1fa7e028e5c278d3224a9ca5fb1"><img src="images/fb_7.gif" border="0"></a></div><div id="b_1"> <a href="https://www.catchoftheday.com.au/account.php?osCsid=91bbc1fa7e028e5c278d3224a9ca5fb1"><img src="images/fb_6.gif" border="0"></a></div><div id="b_1"> <a href="http://www.catchoftheday.com.au/faq.php?osCsid=91bbc1fa7e028e5c278d3224a9ca5fb1"><img src="images/fb_5.gif" border="0"></a></div><div id="b_1"> <a href="http://www.catchoftheday.com.au/trans_phpbb.php?osCsid=91bbc1fa7e028e5c278d3224a9ca5fb1"><img src="images/fb_4.gif" border="0"></a></div><div id="b_1"> <a href="http://www.catchoftheday.com.au/blog.php?osCsid=91bbc1fa7e028e5c278d3224a9ca5fb1"><img src="images/fb_3.gif" border="0"></a></div><div id="b_1"> <a href="http://www.catchoftheday.com.au/about_us.php?osCsid=91bbc1fa7e028e5c278d3224a9ca5fb1"><img src="images/fb_2.gif" border="0"></a></div><div id="b_1"> <a href="http://www.catchoftheday.com.au/index.php?osCsid=91bbc1fa7e028e5c278d3224a9ca5fb1"><img src="images/fb_1.gif" border="0"></a></div> <div id="copyright" align="center">
-© 2006 Catch of The Day. All rights are reserved.
-<a class="copyright" href="terms.php"> Terms of Us</a> | <a class="copyright" href="privacy.php">Privacy Statement</a></div></div> 
+    </form>
+  </div>
 </div>
-  
-</td> 
-</tr>
-</tbody></table><!-- footer_eof //-->
+<div class="boxfooter"><img src="images/img/box_btm_green.gif" alt="b"></div><div class="box_blue">
+  <div class="boxheader"><a href="http://www.catchoftheday.com.au/past_product_archive.php"><img src="images/img/t_theones.gif" alt="The ones that got away" border="0"></a></div>
+  <div class="boxcontent">
+Tuesday 18,12,2007<br><h3>HIFI Wireless Headphones</h3><div class="readmore"><a href="http://www.catchoftheday.com.au/past_product.php?past_product_id=523" class="bluelink">read more</a><br><img src="images/img/sep2.gif"></div>Monday 17,12,2007<br><h3>DermaNew Oil Clarifying System!</h3><div class="readmore"><a href="http://www.catchoftheday.com.au/past_product.php?past_product_id=522" class="bluelink">read more</a><br><img src="images/img/sep2.gif"></div>Sunday 16,12,2007<br><h3>Sensomatic Digital Body Composition Scales</h3><div class="readmore"><a href="http://www.catchoftheday.com.au/past_product.php?past_product_id=521" class="bluelink">read more</a></div>  </div>
+</div>
+<div class="boxfooter"><img src="images/img/box_btm_blue.gif" alt="b"></div>      <img src="images/img/payment_processors.gif" border="0" alt="Affiliates" usemap="#Map">
+      <map name="Map" id="Map">
+        <area shape="rect" coords="29,7,81,43" href="http://www.visa.com" target="_blank">
+        <area shape="rect" coords="83,7,135,43" href="http://www.mastercard.com" target="_blank">
+        <area shape="rect" coords="137,7,188,43" href="http://www.verisign.com" target="_blank">
+        <area shape="rect" coords="190,7,242,43" href="http://www.paypal.com" target="_blank">
+      </map>
+    </div>    <div id="rightcol">
+      <div id="menu">
+  <ul>
+    <li><img src="images/img/menu_left.gif"></li><li><a href="http://www.catchoftheday.com.au/index.php"><img src="images/img/b1.gif" alt="Catch of the Day" border="0"></a></li><li><a href="http://www.catchoftheday.com.au/about_us.php"><img src="images/img/b2.gif" alt="About us" border="0"></a></li><li><a href="http://www.catchoftheday.com.au/news.php"><img src="images/img/b3.gif" alt="Blog" border="0"></a></li><li><a href="http://www.catchoftheday.com.au/past_product_archive.php"><img src="images/img/b4.gif" alt="Caught" border="0"></a></li><li><a href="http://www.catchoftheday.com.au/faq.php"><img src="images/img/b5.gif" alt="FAQ's" border="0"></a></li><li><a href="http://www.catchoftheday.com.au/account.php"><img src="images/img/b6.gif" alt="My Account" border="0"></a></li><li><a href="http://www.catchoftheday.com.au/contact_us.php"><img src="images/img/b7.gif" alt="Contact us" border="0"></a></li><li><img src="images/img/menu_right.gif"></li>
+  </ul>
+</div>
+      <div id="seczone">
+        <div id="secheader"><img src="images/img/t_privacy.jpg"></div>
+        <div class="seccontent_narrow">
+          <h2>Privacy Policy</h2>
+          <br>
+          At CatchOf TheDay.com.au we appreciate that you value your privacy and wish to have your personal information kept secure. Our privacy policy describes generally how we manage your personal information and protect your privacy. We shall also ensure that we comply with our obligations under the Privacy Act 1988 (Cth).<br>
+          <br>
+          At CatchOfTheDay.com.au we only collect personal information that is necessary for us to conduct our business as an online provider of goods. The personal information we collect will include information you give us when you place an order for the purchase of a good we supply. We may also collect personal information about individuals who are not customers of our business, but whose personal information is given to us by those individuals or other people in the course of a transaction. This personal information will include your name, address and contact details, and may include other personal information about individuals we collect in the course of a transaction.<br>
+          <br>
+          We may also collect some information from you when you use our website <a class="bluelink" href="http://www.catchoftheday.com.au/"><u>www.catchoftheday.com.au</u></a>. Your use of the information and services available through our website will determine the type of information that we collect about you.<br>
+          <br>
+          The only personal information that we collect about you when you use our website is what you tell us about yourself, for example, when you complete an online form when placing an order, or information you provide to us when you send us an email. Please note, we will record your email address if you send us an email.<br>
+          <br>
+          <h3>Using and Disclosing Your Personal Information</h3><br>
+          We respect your privacy. Any personal information that we collect about you will be used and disclosed by us so that we can provide you with the services that you have requested, or otherwise to enable us to carry out our business as suppliers of goods.<br>
+          <br>
+          Please be assured we will not disclose information about you unless the disclosure is required or authorised by law, you have consented to our disclosing the information about you, or for another purpose (related to the primary purpose of collecting that information) that you would reasonably expect.<br>
+          <br>
+          We may also use your personal information to provide you with information about other services offered by us. However, the only information that you must provide is your name and payment details (where applicable). If you would prefer not to receive promotional or other material from us, please let us know and we will respect your request.<br>
+          <br>
+          Under the Privacy Act 1988 (Cth) you have a right to request access to your personal information held by us. You may do this by sending us an email to <a class="bluelink" href="mailto:admin@catchoftheday.com.au">admin@catchoftheday.com.au</a> or by writing to us at:<br>
+          <br>
+          Catch Of The Day<br>
+          1/26 Roberna St<br>
+          Moorabbin, Victoria 3189<br>
+        </div>
+        <div><img src="images/img/seccontentfooter.gif"></div>
+      </div>
+    </div>
+    <div class="separator"></div>
+  </div>
+  <div id="footer">
+  <div id="bottom_menu">
+    <a href="http://www.catchoftheday.com.au/index.php" class="whitelink">today’s catch</a>  |  <a href="http://www.catchoftheday.com.au/about_us.php" class="whitelink">about us</a>  |  <a href="http://www.catchoftheday.com.au/news.php" class="whitelink">blog</a>  |  <a href="http://www.catchoftheday.com.au/past_product_archive.php" class="whitelink">caught</a>  |  <a href="http://www.catchoftheday.com.au/faq.php" class="whitelink">faq’s</a> |  <a href="http://www.catchoftheday.com.au/account.php" class="whitelink">account</a>  |  <a href="http://www.catchoftheday.com.au/contact_us.php" class="whitelink">contact</a>
+  </div>
+  <div id="copyright">© 2006 Catch of The Day. All rights are reserved.  <a href="terms.php" class="bluelink">Terms of Use</a> | <a href="privacy.php" class="bluelink">Privacy Statement</a></div>
+</div>
+</div>
 
 
 </body></html>
