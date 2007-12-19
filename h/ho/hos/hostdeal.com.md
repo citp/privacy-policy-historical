@@ -1,47 +1,44 @@
-> *The following text is extracted and transformed from the hostdeal.com privacy policy that was archived on 2006-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060314095752id_/http%3A//www.affordablehost.com/content.php%3Fpage%3Dprivacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostdeal.com privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219155419id_/http%3A//www.hostdeal.com%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
-# Privacy Statement - Grand Rapids,hosting,managed server,server colocation,*affordablehost
+# Hostdeal.com
 
-Affordablehost Privacy Policy
+**Privacy Statement**  
+At Hostdeal.com, we are committed to protecting your privacy. The limited information we do collect is used to provide you with a personalized experience, better service, and at times, bring you value-added offers from our partners.
 
-Effective 5/5/2005
+**The Information Collected and How It Is Used**
 
-**Our Commitment To Privacy:**  
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. We are committed to protecting your privacy. We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998). 
+**Cookies** Our site uses cookies to deliver content specific to your interests and to save your encrypted password so you don't have to re-enter it each time you visit our site. Also, we use cookies to make sure you don't see the same ad repeatedly.
 
-**The Information We Collect:**  
-This notice applies to all information collected or submitted on the Affordablehost website. We collect information about you for 2 reasons: firstly, to process your order and second, to provide you with the best possible service. On some pages, you can order products, make requests, and register to receive software. Some of the types of personal information collected at these pages are: 
+**E-mail & Demographic Data** Our site's registration form requires users to give us contact information (i.e. name and e-mail address) and demographic information (i.e. interests and business information). We may use contact information from the registration form to send you a weekly Hostdeal.com newsletter, and to send you information that may help your business grow. The customer's contact information is also used to contact the visitor when necessary (i.e. customer support issues). Users may later opt-out of receiving future mailings if they have opted-in initially; see the choice/opt-out section below. Demographic and profile data is also collected at our site. We use this data to tailor the customer's experience at our site, showing content that we think might be of interest, and displaying the content according to customer preferences.
 
-• Name  
-• Address  
-• Email address  
-• Phone number  
-• Credit Card information
+**Online Surveys** At times we conduct completely voluntary online surveys where we ask for contact information and solicit feedback on various topics from visitors. We use the collected data from such surveys to fine tune our product and service offerings. And we use contact data to follow-up with you to highlight the changes we have made to our business based on your feedback.
 
-**The Way We Use Information:**  
-The personal information which we hold will be held securely in accordance with our internal security policy and the law. We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order or to the extent that membership organizations whose members use our services may be provided with this information to allow them to monitor satisfaction with the services we provide. Affordablehost reserves the right to reveal this information pursuant to a valid subpoena or court order.
+**Contests** We run contests on our site from time to time where we may ask for your name, address, and e-mail address so we can administer the contest and notify winners.
 
-We use return email addresses to answer the email we receive for tech support, customer service, email updates and to send registered users their unlock codes. Such addresses are not used for any other purpose and are not shared with outside parties. 
+**Public Forums** This site may make chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
 
-We may use technology to track the patterns of behavior of visitors to our site. This can include using a "cookie" which would be stored on your browser. You can usually modify your browser to prevent this happening. The information collected in this way can be used to identify you unless you modify your browser settings
+**Security**  
+All data collected at Hostdeal.com is done so with the use of secure servers. The secure server software (SSL) encrypts all payment information you input before it is sent to us. Furthermore, all of the data we collect is protected against unauthorized access. 
 
-Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses. The information we hold will be accurate and up to date. You can check the information that we hold about you through our billing interface. If you find any inaccuracies you can delete or correct it promptly. 
+**Choice/Opt-Out**  
+During the registration process, you are provided with the opportunity to opt out of receiving marketing and promotional communications from Hostdeal.com and our partners that are not directly related to the services we provide. Hostdeal.com, its affiliates or partners may use the information associated with your account to contact you with these special offers.
 
-**Our Commitment To Data Security:**  
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
+To unsubscribe from Hostdeal.com newsletters and promotional mailings, please update your preferences with our subscription settings tool or e-mail us at [Hosting Support](mailto:admin@hostdeal.com).
 
-All online credit card transactions are performed only on secure servers through a secure SSL connection. 
+If you would like to cancel your Hostdeal.com plan completely, please contact Customer Service through our online support form.
 
-**Our Commitment To Children's Privacy:**  
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13. 
+Please note: Hostdeal.com reserves the right to send e-mail communications relating directly to their accounts to all active members.
 
-**Third-Party Websites:**  
-This website may provide links to third-party websites. Any such links are provided solely as a convenience to you. Affordablehost has no control over these websites or their content and does not assume any responsibility or liability for these websites. Affordablehost does not endorse or make any representations about these websites, or any information, materials, or products found thereon. If you access any of the third-party websites linked on this Web site, you do so at your own risk. 
+**Corrections & Update**  
+To ensure you receive the information you need to manage your account and protect your privacy, please be sure to keep your contact and billing information up to date. You can update all account-related information directly through your Members Area. Alternatively, you can contact the Hosting Support through our online support form.
 
-**How You Can Access Or Correct Your Information:**   
-At any time, you may later review or update the personal information we have collected online from you by accessing your billing profile. If you have problems accessing this tool send us a support request to [support@affordablehost.com](mailto:support@affordablehost.com)
+**Contacting Hostdeal.com**  
+If you have any questions about this privacy statement, the practices of this site, or your dealings with Hostdeal.com, you can contact:
 
-To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
+Hostdeal.com  
+A division of Web Hosting Premium  
+11 Mary Street, Suite 200  
+Sudbury, Ontario  
+Canada, P3C1B6
 
-**How To Contact Us:**  
-Should you have other questions or concerns about these privacy policies, please send us an email at [support@affordablehost.com](mailto:support@affordablehost.com). 
+Updated August 1, 2007 
