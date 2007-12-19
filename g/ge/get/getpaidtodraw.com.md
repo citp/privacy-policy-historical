@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getpaidtodraw.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627021831id_/http%3A//www.getpaidtodraw.com/iprivacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getpaidtodraw.com privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219164041id_/http%3A//getpaidtodraw.com/iprivacy.html) for the most accurate reproduction.*
 
 # GetPaidToDraw.com Make money from home submitting artwork and photos through email!
 
