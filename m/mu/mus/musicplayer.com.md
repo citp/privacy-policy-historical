@@ -1,28 +1,28 @@
-> *The following text is extracted and transformed from the musicplayer.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624053216id_/http%3A//www.musicplayer.com/hybrid.asp%3Ftypecode%3D4%26pubcode%3D8%26navcode%3D389) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicplayer.com privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219110139id_/http%3A//www.musicplayer.com/privacy-policy-revised) for the most accurate reproduction.*
 
-# Music Player - Acoustic and electric guitars keyboards audio and recording equipment
+# Music Player : Privacy Policy
 
-Last Updated: March 6, 2007 
+Last Updated: March 6, 2007
 
-**NewBay Media LLC** (“NewBay”) has implemented this Privacy Policy governing the personally identifiable information (“Personal Consumer Information”) collected by this site. This Privacy Policy does not govern Personal Consumer Information collected from any other source or in any other manner. 
+**NewBay Media LLC** (“NewBay”) has implemented this Privacy Policy governing the personally identifiable information (“Personal Consumer Information”) collected by this site. This Privacy Policy does not govern Personal Consumer Information collected from any other source or in any other manner.
 
 ### Overview
 
-This Privacy Policy is intended to provide you with information as to: (i) the type of information that is collected, (ii) how collected information is used and with whom it is shared; (ii) how we intend to protect the information; and (iii) how you can access, modify and/or delete such information. 
+This Privacy Policy is intended to provide you with information as to: (i) the type of information that is collected, (ii) how collected information is used and with whom it is shared; (ii) how we intend to protect the information; and (iii) how you can access, modify and/or delete such information.
 
 ### California Privacy Rights
 
-Under California law, California residents who have provided personal information to a company may have the right to request a list of all third parties to whom that company had disclosed such information for the third parties’ direct marketing purposes during the preceding calendar year, along with a list of the categories of personal information that had been so disclosed. However if a company adopts and discloses a privacy policy that provides the ability to opt-out of such disclosures to third parties for the third parties’ direct marketing purposes, then the company is not required to maintain and provide such lists, and instead may provide you with information on how to exercise your right to prevent disclosure of your personal information. Because the NewBay policy as disclosed on this site provides you with an opportunity to opt-out of disclosures by NewBay of your Personal Consumer Information to third parties for their direct marketing purposes, NewBay does not have to provide you with such lists. If you are a California resident who would like information on how to exercise your rights concerning third party disclosures, you may send an email to [CaliforniaPrivacyInfo@NBmedia.com](mailto:CaliforniaPrivacyInfo@NBmedia.com) or contact us via postal mail at: 
+Under California law, California residents who have provided personal information to a company may have the right to request a list of all third parties to whom that company had disclosed such information for the third parties’ direct marketing purposes during the preceding calendar year, along with a list of the categories of personal information that had been so disclosed. However if a company adopts and discloses a privacy policy that provides the ability to opt-out of such disclosures to third parties for the third parties’ direct marketing purposes, then the company is not required to maintain and provide such lists, and instead may provide you with information on how to exercise your right to prevent disclosure of your personal information. Because the NewBay policy as disclosed on this site provides you with an opportunity to opt-out of disclosures by NewBay of your Personal Consumer Information to third parties for their direct marketing purposes, NewBay does not have to provide you with such lists. If you are a California resident who would like information on how to exercise your rights concerning third party disclosures, you may send an email to [CaliforniaPrivacyInfo@NBmedia.com](mailto:CaliforniaPrivacyInfo@NBmedia.com) or contact us via postal mail at:
 
 California Privacy Rights Information  
 NewBay Media LLC  
 810 7th Avenue  
 New York, New York 10019  
-Attn: California Privacy Rights Administrator 
+Attn: California Privacy Rights Administrator
 
 ### Collection of Information
 
-**Information You Provide to Us:** NewBay collects information about you when you visit and/or purchase products from this website. Some of this information is automatically collected, and some is collected when you interact with the site. The type of information that is automatically collected can include date and time of access of the site, the Internet protocol address of the computer that you are using, the domain and host from which you access the Internet, your browser software and operating system, and the specific activities you are engaged in while visiting the Site.. Information from which you can be personally identified may also be collected by NewBay at the site, including your name, postal address, e-mail address (referred to as “Personal Consumer Information”). Of course, you may choose not to provide certain information to NewBay, but if so, you may not be able to participate in certain NewBay activities and transactions. 
+**Information You Provide to Us:** NewBay collects information about you when you visit and/or purchase products from this website. Some of this information is automatically collected, and some is collected when you interact with the site. The type of information that is automatically collected can include date and time of access of the site, the Internet protocol address of the computer that you are using, the domain and host from which you access the Internet, your browser software and operating system, and the specific activities you are engaged in while visiting the Site.. Information from which you can be personally identified may also be collected by NewBay at the site, including your name, postal address, e-mail address (referred to as “Personal Consumer Information”). Of course, you may choose not to provide certain information to NewBay, but if so, you may not be able to participate in certain NewBay activities and transactions.
 
 **Use of “Cookies” and Other Technologies:** NewBay may use “cookies” and/or other technologies or files (collectively, “cookies”) to identify how its visitors make use of this site. This aggregate tracking information is used to help NewBay improve and enhance the website experience for all of its visitors. If you would prefer not to have such cookies stored on your computer, you may modify your browser settings to reject most cookies, or manually remove cookies that have been placed on your computer. However, by so rejecting the cookies, you may be unable to fully access the offerings on this site.
 
@@ -36,7 +36,7 @@ NewBay maintains reasonable standards of confidentiality and security for this s
 
 **Use of Personal Consumer Information by NewBay**
 
-The Personal Consumer Information collected by NewBay may be used by NewBay for any lawful purpose, including to communicate with you, respond to your requests, and analyze and improve NewBay’s websites, its business and/or its service to you. NewBay may use this information to send you e-mail newsletters, promotional offers with respect to goods or services of a particular brand or other types of communications on behalf of NewBay and/or its affiliates. All e-mail newsletters and promotional offers will provide you with an opportunity to opt out of receiving future issues of such newsletters or to opt out of receiving future promotional offers with respect to such brand. NewBay may also use your Personal Consumer Information to send you e-mails or other communications on behalf of third parties. All such communications will provide you with the opportunity to opt out of receiving future third party offers from NewBay. You may also, at any time, opt-out of receiving any third-party offers from this site by sending an e-mail to [Privacycoordinator@NBmedia.com](mailto:Privacycoordinator@NBmedia.com). 
+The Personal Consumer Information collected by NewBay may be used by NewBay for any lawful purpose, including to communicate with you, respond to your requests, and analyze and improve NewBay’s websites, its business and/or its service to you. NewBay may use this information to send you e-mail newsletters, promotional offers with respect to goods or services of a particular brand or other types of communications on behalf of NewBay and/or its affiliates. All e-mail newsletters and promotional offers will provide you with an opportunity to opt out of receiving future issues of such newsletters or to opt out of receiving future promotional offers with respect to such brand. NewBay may also use your Personal Consumer Information to send you e-mails or other communications on behalf of third parties. All such communications will provide you with the opportunity to opt out of receiving future third party offers from NewBay. You may also, at any time, opt-out of receiving any third-party offers from this site by sending an e-mail to [Privacycoordinator@NBmedia.com](mailto:Privacycoordinator@NBmedia.com).
 
 ### Disclosure by NewBay of Personal Consumer Information to Other Entities
 
@@ -72,10 +72,10 @@ NewBay Media LLC
 810 7th Avenue  
 New York, New York 10019  
 Attn: Privacy Coordinator  
-[Privacycoordinator@NBMedia.com](mailto:Privacycoordinator@NBMedia.com)
+[Privacycoordinator@NBMedia.com](mailto:Privacycoordinator@NBMedia.com) 
 
 ### Governing Law
 
 This Privacy Policy shall be governed by the laws of the State of New York, without regard to its conflict of law provisions. Any dispute concerning this Privacy Policy or your use of this site shall be submitted to binding arbitration in New York within one (1) year from the date that the cause of action arose (or, if multiple cause of actions are involved, from the date that the first cause of action arose), with such arbitration conducted pursuant to the then prevailing rules of the American Arbitration Association. To the fullest extent permitted by law, no arbitration brought pursuant hereto shall be joined to any other action or any other arbitration initiated pursuant hereto. If any portion of this Privacy Policy is deemed unenforceable, unlawful or void by a Court of competent jurisdiction, then that portion of the Privacy Policy will be deemed severable and will not affect the enforceability or validity of the remaining portions of this Privacy Policy.
 
-TM and Copyright 2006 NewBay Media LLC. All rights reserved. 
+TM and Copyright 2006 NewBay Media LLC. All rights reserved.  
