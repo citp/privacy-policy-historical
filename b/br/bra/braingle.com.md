@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the braingle.com privacy policy that was archived on 2007-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070405173653id_/http%3A//www.braingle.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the braingle.com privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219175234id_/http%3A//www.braingle.com/privacy.php) for the most accurate reproduction.*
 
 # Braingle: Privacy Policy
 
@@ -37,6 +37,8 @@ We use IP addresses and browser type to analyze trends and administer the site. 
 ### Sharing
 
 We may share aggregated information with our partners and advertisers. This is not linked to any personally identifiable information.
+
+We will share personally identifiable information only when requested by a legal authority.
 
   
 
