@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ripway.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629001509id_/http%3A//ripway.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ripway.com privacy policy that was archived on 2007-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071220022956id_/http%3A//ripway.com/privacy.asp) for the most accurate reproduction.*
 
 # Ripway Web Hosting and Online File Storage - upload pictures, videos, MP3 and music files and share your files with the world
 
