@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ewebcounter.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623050704id_/http%3A//www.ewebcounter.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ewebcounter.com privacy policy that was archived on 2007-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071220203045id_/http%3A//www.ewebcounter.com/privacy) for the most accurate reproduction.*
 
 # eWebCounter - Privacy Policy
 
@@ -8,12 +8,10 @@ Our Privacy Policy was established as a commitment to combine the highest-qualit
 
 What Information Do We Collect? When you visit our Web site you may provide us with two types of information:
 
-1\. Web Site Use Information
-
+1\. Web Site Use Information  
 Similar to other commercial Web sites, our Web site utilizes a standard technology called "cookies" (see explanation below, "What Are Cookies?") and Web server logs to collect information about how our Web site is used. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web site, and the Web sites visited just before and just after our Web site. This information is collected on an aggregate basis. None of this information is associated with you as an individual.
 
-2\. Personal Information And Your Email Address
-
+2\. Personal Information And Your Email Address  
 How Do We Use the Information That You Provide to Us? Broadly speaking, we use personal information for purposes of administering our business activities, providing customer service and making available other products and services to our clients and prospective clients. Occasionally, we may also use the information we collect to notify you about important changes to our Web site, new services and special offers we think you will find valuable. The lists used to send you product and service offers are developed and managed under our traditional corporate standards designed to safeguard the security and privacy of our customers' personal information.
 
 What Are Cookies? Cookies are a feature of Web browser software that allows Web servers to recognize the computer used to access a Web site. Cookies are regular pieces of data that are stored by a user's Web browser on the user's hard drive. Cookies can remember what information a user accesses on one Web page to simplify subsequent interactions with that Web site by the same user or to use the information to streamline the user's transactions on related Web pages. This makes it easier for a user to move from Web page to Web page and to complete commercial transactions over the Internet. Cookies should make your online experience easier and more personalized.
