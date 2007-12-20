@@ -1,48 +1,60 @@
-> *The following text is extracted and transformed from the paydaymax.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629180028id_/http%3A//paydaymax.com/Short-Term-Payday-Loans-privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paydaymax.com privacy policy that was archived on 2007-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071220162327id_/http%3A//www.paydaymax.com/Short-Term-Payday-Loans-privacy-policy.php) for the most accurate reproduction.*
 
-# Short Term Payday Loans, Fast Cash Online Payday Loan -PayDayMax.com - -PayDayMax privacy policy
+# Online Payday Loans, Payday Advance Loans, Personal Loans with Bad Credit - PayDayMax.com - Cash Advances
 
-Delivering quality short-term loans and services to meet the financial demands of your busy lifestyle is our main goal at PayDayMax. Our commitment to guarding your identity is beyond compare, and we employ all available security measures. For the purposes of this policy, we will describe all sensitive data pertaining to your identity as “your personal information.”
+At PayDayMax your privacy is important to us. This Privacy Policy describes the information we collect and how we use that information.  It applies if you have applied for service through the  PayDayMax.com website, or if you are a current customer.
 
-This statement of policy applies to PayDayMax and its affiliates and describes new, existing, and previous customers.
+  1. **PROTECTING THE PRIVACY OF CUSTOMER INFORMATION**
 
-_**Your Data**_
+PayDayMax is committed to protecting your privacy and providing a secure online experience. PayDayMax maintains physical, electronic, and procedural safeguards that comply with U.S. standards to transmit and store information about you.
 
-**The following are avenues we use to acquire your Personal Information:**
+  2. **INFORMATION WE COLLECT ABOUT YOU**
 
-  * The questionnaires, applications, and any other forms you submit to us which contain your name, address, and other sensitive information;
+We collect "nonpublic personal information" about you from several sources:
 
-  * Contractual agreements you make with our company containing details of your account transactions, fees, and balances;
+    1. Information you provide on your application 
+    2. Your transaction and experience history 
+    3. Information from consumer reporting and similar agencies 
+    4. Non-personally identifiable information such as URL and TCP/IP information 
+  3. **HOW WE USE INFORMATION WE COLLECT**
 
-  * Agencies such as Teletrack (which show details of your credit and payment history);
+The information we collect about you is primarily used to provide services to you or to facilitate loans, loan applications, or other services that you request.  We may also use your information to resolve disputes, troubleshoot problems, and enforce our agreements with you.  Although we may disclose information we collect and retain, its use will be limited to what we reasonably believe is appropriate and necessary to carry on our business and to facilitate your application for the services and/or products you expect and deserve.  In addition, unless you opt-out as specified herein, we may share the information with affiliates or other companies who we believe in our sole discretion may offer goods or services that you might find of interest.
 
-  * Web-based devices, such as “cookies,” which gather information when you visit our site.
+  4. **PARTIES TO WHOM WE DISCLOSE**
+
+**Information we share with Affiliates and Network Lenders:**   
+Some of our products or services may be provided by our affiliates, network lenders and/or assignees.  We reserve the right to share your non-public personal information collect with them as necessary to fulfill your request.  You may not opt-out of this sharing of information if you apply for through our website. 
+
+**Information we share with Third Parties:**   
+Some of our services may be provided by third-party service providers and we reserve the right to share your non-public information with them. We may also share the non-public information we collect from you with consumer reporting and related agencies.  You may not opt-out of this sharing of information if you apply through our web site.  Finally, we may share the non-public information we collect from you with companies or organizations with whom we have a marketing or other agency relationship, generally to offer you goods or services in which we believe you may have an interest.  You have the right to opt-out of this sharing of information as set forth with in the section that explains your opt-out rights. 
+
+  5. **INFORMATION OR EMAIL FROM US**
+
+We may send you email regarding our services or those of our affiliates from time to time.  We may also send out periodic emails informing you of technical service issues related to a service you requested. You will not be able to choose to opt-out of these electronic mailings, if you apply for service with us, because they are considered an essential part of the service(s) you have chosen.
+
+  6. **OPT-OUT RIGHTS**
+
+You may opt-out of receiving any communications from us, or our affiliates, by choosing not to submit your information to us.  If you do submit your information to us or you do apply for services, you will be given the option to opt-out of having your personal information transferred to any non-essential third party by accessing your account options and clicking on the appropriate box (after which your opt-out election will take effect.)
+
+  7. **ACCURACY OF YOUR ACCOUNT INFORMATION**
+
+We have established procedures to ensure that your financial information is accurate, current and complete, in keeping with reasonable industry standards. We continually strive to maintain complete and accurate information about you and your accounts. Should you ever believe that our records contain inaccurate or incomplete information about you, please notify us. We will investigate your concerns and correct any information we determine to be inaccurate. 
+
+  8. **CHANGES TO THIS PRIVACY POLICY**
+
+Since circumstances and technologies change, we reserve the right to change or remove portions of our Privacy Policy at any time without prior notification. If the changes are substantial, such as adding a category of information that we will disclose to a third party, we will notify existing customers by email and give them an appropriate time period to opt out of the disclosure.
+
+  9. **ADDITIONAL SECURITY PRECAUTIONS**
+
+You also have a significant role in protecting your information. Do not share your login information with others. If you use this site you are responsible for maintaining the confidentiality of your account, password, and restricting access to your computer. You agree to accept responsibility for all activities that occur under your account and password.
+
+  10. **"COOKIE" POLICY**
+
+To ensure we are publishing content customers need and want, PayDayMax.com collects aggregated site-visitation statistics using cookies. We do not track individuals' use of the site. When someone visits the site, a cookie is placed on the customer's machine (if the customer accepts cookies). If you choose to not have your browser accept cookies from the PayDayMax.com Web site, you will not be able to subscribe to the service offerings on the site.
+
+  11. **WHAT IF I DISAGREE WITH THE TERMS OF YOUR PRIVACY POLICY?**
+
+If you disagree with the terms of our privacy policy, please do not use our website or provide us with any of your personal information.
 
 
 
-
-**The only companies with whom we will share your Personal Information are the following:**
-
-  * Those that we are allowed to share with as permitted by law;
-
-  * Those third-party companies contracted by our company to assist in creating, servicing or maintaining your account;
-
-  * Those with which you have specifically given us permission to share information.
-
-
-
-
-_**Protecting You**_
-
-We employ a three-tiered system of physical, procedural, and electronic security measures encompassing secured locations, encryption and password protection, as well as ID authentication procedures. Additional security provisions are as follow:
-
-  * Limited and controlled access to your information restricted only to those in our employ who have a need to know;
-
-  * Carefully selected vendors and assignees whom we monitor closely to ensure their compliance with our safety and security measures. They are not allowed to share your information in any way other than as specified in their contractual agreements with us or in the course of the lawful completion of their contracted obligations or for the purposes of collection.
-
-  * We train all our employees in our security provisions and safeguards.
-
-
-
-
-If you disagree with the provisions of our privacy policy or the measures we implement to protect your Personal Information, we ask that you discontinue your use of our site and that you do not agree to the stipulations of the loan agreement contained herein.
