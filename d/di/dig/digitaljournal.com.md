@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the digitaljournal.com privacy policy that was archived on 2007-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070611231628id_/http%3A//www.digitaljournal.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitaljournal.com privacy policy that was archived on 2007-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071220191725id_/http%3A//www.digitaljournal.com/privacy.php) for the most accurate reproduction.*
 
 # Digital Journal - Privacy Policy
+
+## DigitalJournal.com Privacy Policy
 
 DigitalJournal.com is owned and operated by Digital Journal, Inc. The following privacy policy explains more about how we protect your personal information. We do not rent, sell or share your information. By using or visiting DigitalJournal.com, you accept the terms outlined below. 
 
@@ -19,6 +21,8 @@ Is information secure?
 For your privacy and security, your account information is protected by a password. Your password is encrypted using one-way encryption, meaning it cannot be decoded using a passkey or any other means. We recommend you log-off after each session to ensure your account is not accessed by an unauthorized party in places like libraries, Internet cafes or any other place where computers are shared. 
 
 DigitalJournal.comm will only access your email address in the event we need to contact you personally. Your email address is not shared with anyone outside of Digital Journal, Inc. staff, and our staff is regularly briefed on proper privacy and security practices. 
+
+Although we implement security measures on the Site and limit access to the Site by third party search engine "crawlers," please be aware that no security measures are perfect or impenetrable. Therefore, we cannot and do not guarantee that personal information content you post on the site will not be viewed by unauthorized persons. We are not responsible for circumvention of any privacy settings or security measures contained on the Site. You understand and acknowledge that, even after removal, copies of content may remain viewable in cached and archived pages or if other Users have copied or stored your content. 
 
 Are there any cases in which DigitalJournal.com will share personal information with third parties? 
 
