@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the cashnetsweeps.com privacy policy that was archived on 2007-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070513204409id_/http%3A//www.cashnetsweeps.com/page.php%3Fp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashnetsweeps.com privacy policy that was archived on 2007-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071220230603id_/http%3A//www.cashnetsweeps.com/index.php%3Fp%3Dprivacy) for the most accurate reproduction.*
 
-# CashNet Sweepstakes Privacy Statement
-
-**CashNet Sweepstakes Privacy Statement**
+# CashNet Sweepstakes
 
 CashNet Sweepstakes has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: CashNet Sweepstakes.
 
@@ -26,5 +24,4 @@ Our site provides users the opportunity to opt-out of receiving communications f
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: 
 
 Amanda Adams  
-[CashNet Sweepstakes](http://www.cashnetsweeps.com/)  
-webmaster@cashnetsweeps.com
+[CashNet Sweepstakes](http://www.cashnetsweeps.com/)
