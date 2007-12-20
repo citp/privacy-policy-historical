@@ -1,8 +1,33 @@
-> *The following text is extracted and transformed from the emaar.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623014910id_/http%3A//www.emaar.com/Privacy/Index.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emaar.com privacy policy that was archived on 2007-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071220171819id_/http%3A//www.emaar.com/Privacy/Index.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
-|  |  [Home](https://web.archive.org/) / [**Privacy Policy**](https://web.archive.org/Privacy/)   
+| [](https://web.archive.org/Index.asp) |  |   
+---|---|---  
+|  |  | Project  |  | Community | | 
+
+Type 
+
+|  |    
+---|---|---|---|---|---|---  
+  
+Bedrooms
+
+|  | 
+
+Area Sq. Ft. 
+
+|  | 
+
+Budget AED
+
+|  |   
+  |   |   | 
+
+(1 USD = 3.675 AED Approximately) 
+
+|    
+|  [Home](https://web.archive.org/) / [**Privacy Policy**](https://web.archive.org/Privacy/)   
   
 ---  
   
