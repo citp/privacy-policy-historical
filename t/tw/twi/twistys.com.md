@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twistys.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629095439id_/http%3A//www.twistys.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twistys.com privacy policy that was archived on 2007-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071220172048id_/http%3A//www.twistys.com/privacy.html) for the most accurate reproduction.*
 
 # Twistys LLC Privacy Policy
 
