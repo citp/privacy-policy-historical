@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citifinancial.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630140403id_/http%3A//www.citifinancial.com/common/citigroup_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citifinancial.com privacy policy that was archived on 2007-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071220080822id_/http%3A//www.citifinancial.com/common/citigroup_privacy.php) for the most accurate reproduction.*
 
 # Citigroup Privacy Promise for Consumers
 
