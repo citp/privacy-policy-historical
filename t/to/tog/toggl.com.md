@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toggl.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627063404id_/http%3A//www.toggl.com/toggl_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toggl.com privacy policy that was archived on 2007-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071220013019id_/http%3A//www.toggl.com/toggl_privacy.html) for the most accurate reproduction.*
 
 # Toggl - online timetracker
 
