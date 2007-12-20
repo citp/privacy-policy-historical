@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intellicast.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624110342id_/http%3A//intellicast.com/About/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intellicast.com privacy policy that was archived on 2007-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071220214710id_/http%3A//www.intellicast.com/About/Privacy.aspx) for the most accurate reproduction.*
 
 # Intellicast.com - Privacy Policy
 
@@ -8,7 +8,7 @@
 
 EFFECTIVE AS OF March 5, 2007 
 
-WSI Corporation (“WSI”) is strongly committed to protecting your privacy. This Privacy Policy discloses how we collect, use and share information we gather about you on WSI's Web sites and the choices you have regarding our use of and your ability to correct the information. This Privacy Policy applies only to WSI's Web sites and WSI's Internet-enabled services. We hope that this disclosure will enhance your experience on the Internet and reinforce the trust that you place in WSI's products and services. 
+WSI Corporation ("WSI") is strongly committed to protecting your privacy. This Privacy Policy discloses how we collect, use and share information we gather about you on WSI's Web sites and the choices you have regarding our use of and your ability to correct the information. This Privacy Policy applies only to WSI's Web sites and WSI's Internet-enabled services. We hope that this disclosure will enhance your experience on the Internet and reinforce the trust that you place in WSI's products and services. 
 
 **Information Collected Online**  
 Most of the information provided by WSI is offered without our collecting any personally identifiable information from you. For instance, you can view weather conditions in your hometown or anywhere in the world without giving out any personally identifiable information. In order to maximize your experience and to provide you with enhanced products and services, however, WSI collects personally identifiable information (e.g., name, e-mail address, etc.) and demographic data (e.g., zip code, gender, birth date, interests, etc.) that you voluntarily supply to us. When you make a purchase or sign up for one of our premium services, we will also collect your billing address, phone number, and credit card information. Some examples of instances when we collect personally identifiable information include when you: 
@@ -84,6 +84,8 @@ WSI Interactive, Inc.
 Andover, MA 01810 
 
 |    
+  
+  
   
   
 Intellicast.com: The Authority in Expert Weather  
