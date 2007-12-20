@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the costumesupercenter.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623060707id_/http%3A//www.costumesupercenter.com/category/id/202.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the costumesupercenter.com privacy policy that was archived on 2007-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071220202626id_/http%3A//www.costumesupercenter.com/category/id/202.do) for the most accurate reproduction.*
 
 # Privacy and Security Customer Service at Costume SuperCenter.com
 
