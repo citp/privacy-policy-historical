@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drugs.com privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618082121id_/http%3A//www.drugs.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drugs.com privacy policy that was archived on 2007-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071220185122id_/http%3A//www.drugs.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy for Drugs.com
 
@@ -11,10 +11,10 @@ For the purposes of this privacy policy, the terms "we", "us", "our" and "Drugs.
 If you have questions or concerns regarding this statement, you should first contact:
 
 > Drugsite Trust  
-> 312 Upper Harbour Drive  
+> 25 Apollo Drive, suite A  
 > Auckland 0632  
 > New Zealand  
-> Telephone: +94 9 479 9074  
+> Telephone: +64 9 476 8500  
 > By e-mail: 
 
 If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns. 
@@ -69,7 +69,7 @@ If your personally identifiable information changes, or if you no longer desire 
 
 ### Third Party Advertising
 
-Some ads appearing on this Web site are delivered to You by The Healthcentral Network, our web advertising partner. Information about Your visit to this site, such as number of times You have viewed an ad (but not Your name, address, or other personal information), is used to serve ads to You on this site. For more information about The Healthcentral Network, please [click here](http://www.thcn.com/). Some of our business partners (e.g., advertisers) use cookies on our site. We have no access to or control over these cookies. This privacy statement covers the use of cookies by Drugs.com only and does not cover the use of cookies by any advertisers. 
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here.](http://www.networkadvertising.org/managing/opt_out.asp) Some of these companies use cookies on our site. We have no access to or control over these cookies. This privacy statement covers the use of cookies by Drugs.com only and does not cover the use of cookies by any third-party advertising companies. 
 
 ### "Opting out"
 
@@ -83,4 +83,4 @@ Drugs.com reserves the right to disclose your personally identifiable informatio
 
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our homepage.
 
-Updated: February 05, 2007
+Updated: November 1, 2007
