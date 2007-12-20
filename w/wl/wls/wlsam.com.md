@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wlsam.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624083619id_/http%3A//www.wlsam.com/article.asp%3Fid%3D152353) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wlsam.com privacy policy that was archived on 2007-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071220232758id_/http%3A//www.wlsam.com/article.asp%3Fid%3D152353) for the most accurate reproduction.*
 
 # WLS, 890 AM - Chicago's Talk Station
 
-This site is owned by Citadel Broadcasting Corporation (“Citadel”).  Citadel’s privacy policy covers the collection, use and dissemination of personal information that may be collected by Citadel anytime you interact with Citadel on one of its websites, such as when you listen to audio streams, view video streams, visit our websites, when you purchase products, or when you contact Citadel.  Please take a moment to read the following to learn more about our information practices, including what type of information is gathered, how the information is used and for what purposes, to whom we disclose the information, and how we safeguard your personal information.   
+This site is owned by Citadel Broadcasting Corporation (“Citadel”) and/or its subsidiaries.  Citadel’s privacy policy covers the collection, use and dissemination of personal information that may be collected by Citadel anytime you interact with Citadel on one of its websites, such as when you listen to audio streams, view video streams, visit our websites, when you purchase products, or when you contact Citadel.  Please take a moment to read the following to learn more about our information practices, including what type of information is gathered, how the information is used and for what purposes, to whom we disclose the information, and how we safeguard your personal information.   
 
  **Why we collect information.**
 
@@ -32,7 +32,7 @@ This information is also used to improve our software and services by providing 
 
 We track content accesses and downloads  for the purpose of paying royalties and license fees to third party providers, such as record labels, advertisers and other copyright holders and content distributors.
 
-When you create an account — providing your name, email address, zip code and birth date — and choose a password and password hint (such as the month and day of your birth) for security. The system saves your information and assigns you a personal ID — in many cases simply your email address, because it is unique and easy to remember. You have the option for streaming services to “remember” you, and your favorites or other preferences you have set will be available automatically, and on occasion greet you by first name. Some this information may, on occasion, be transferred to 3rd parties to automatically fill in relevant form fields and simplify the process.  This information is not stored on the 3rd party website until you submit the form.  However, once the form is submitted, then this personally identifiable information may be stored on the 3rd party website.
+When you create an account — providing your name, email address, zip code and birth date — and choose a password and password hint (such as the month and day of your birth) for security. The system saves your information and assigns you a personal ID — in many cases simply your email address, because it is unique and easy to remember. You have the option for streaming services to “remember” you, and your favorites or other preferences you have set will be available automatically, and on occasion greet you by first name. Some this information may, on occasion, be transferred to 3rd parties to automatically fill in relevant form fields and simplify the process.  This information is not stored on the 3rd party website until you submit the form.  However, once the form is submitted, then this personally identifiable information may be stored on the 3rd party website.
 
 If you use a message board, chat room or other means of public communication, you should be aware that any information you share is visible to other users. Personally identifiable information you post as a message to one of these forums can be read, collected, or used by other individuals to send you unsolicited messages. Citadel is not responsible for the personally identifiable information you choose to submit in these forums. ****
 
@@ -78,4 +78,4 @@ We may revise this Privacy Policy to keep it up to date with Citadel’s current
 
 If you have questions or concerns about Citadel’s Privacy Policy or data processing or use, please send an email to [privacy@citadelinteractive.com](mailto:privacy@citadelinteractive.com) to contact us. We will respond to your inquiry within 30 days.
 
-(Last updated 6-7-2007)
+(Last updated August 2007)
