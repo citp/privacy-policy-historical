@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickdensity.com privacy policy that was archived on 2006-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061121125857id_/http%3A//clickdensity.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickdensity.com privacy policy that was archived on 2007-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071220025705id_/http%3A//www.clickdensity.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # clickdensity Privacy Policy
 
