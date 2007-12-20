@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ilovejackdaniels.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630115910id_/http%3A//www.ilovejackdaniels.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ilovejackdaniels.com privacy policy that was archived on 2007-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071220191930id_/http%3A//www.ilovejackdaniels.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ILoveJackDaniels.com
 
