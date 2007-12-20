@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the url.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630201221id_/http%3A//url.com/message/private_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the url.com privacy policy that was archived on 2007-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071220022705id_/http%3A//www.url.com/message/private_policy) for the most accurate reproduction.*
 
 # url.com: Search with Many
 
