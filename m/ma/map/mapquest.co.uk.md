@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mapquest.co.uk privacy policy that was archived on 2007-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070512221537id_/http%3A//www.mapquest.co.uk/mq/static/privacy_main__GB.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mapquest.co.uk privacy policy that was archived on 2007-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071220120132id_/http%3A//www.mapquest.co.uk/mq/static/privacy_main__GB.do) for the most accurate reproduction.*
 
 # MapQuest: Features: Features
 
