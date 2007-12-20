@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the taxact.com privacy policy that was archived on 2007-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070614140027id_/http%3A//www.taxact.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taxact.com privacy policy that was archived on 2007-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071220123425id_/http%3A//www.taxact.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # TaxACT Privacy Policy Statement
-
-| 
 
 **www.taxact.com** is the web site of **2nd Story Software, Inc.**
 
@@ -14,7 +12,9 @@ We can be reached via e-mail at [customerservice@taxact.com](mailto:customerserv
 Or you can reach us by telephone at 319-373-3600  
 Or you can reach us by fax at 319-447-4674
 
-[](http://www.truste.org/ivalidate.php?url=www.taxact.com&sealid=101)We, at 2nd Story Software, respect your privacy and the confidentiality of your personal information (including email address). Our company's resources and entire staff are fully committed to safeguarding your personal data (including email address) by ensuring that the highest security and other precautionary measures are in place to protect your non-public information. That is why we do not share your information (including email address) with third parties, affiliates, or partners in ways other than disclosed in this privacy statement. We only collect, store and use your personal information (including email address) for defined purposes. The purposes include fulfilling orders, supplying service and support, and notifying you of new/enhanced products and services.
+[](http://www.truste.org/ivalidate.php?url=www.taxact.com&sealid=101)
+
+We, at 2nd Story Software, respect your privacy and the confidentiality of your personal information (including email address). Our company's resources and entire staff are fully committed to safeguarding your personal data (including email address) by ensuring that the highest security and other precautionary measures are in place to protect your non-public information. That is why we do not share your information (including email address) with third parties, affiliates, or partners in ways other than disclosed in this privacy statement. We only collect, store and use your personal information (including email address) for defined purposes. The purposes include fulfilling orders, supplying service and support, and notifying you of new/enhanced products and services.
 
 2nd Story Software is committed to protecting your privacy and data. At any time, you may contact 2nd Story Software to request what information you have given us and request correction or deletion. Our goal is to ensure the highest levels of security and confidentiality.
 
@@ -78,9 +78,9 @@ Our primary concern is that your personal information is private and secure. At 
 
 All information you enter while using TaxACT is used strictly by 2nd Story Software, Inc. to provide the services requested by our customers. We maintain physical, electronic, and procedural safeguards to protect your personal information. All data is stored on 2nd Story Software servers and is backed up to prevent the loss of data. Electronically filed returns, which are further encrypted, are sent directly from 2nd Story Software to the IRS via a secure connection. Access to (and the use thereof) personally identifiable customer information (including email address) is restricted to authorized personnel and is permitted only when prompted by you, or as dictated by service, support, and/or fulfillment requirements. **2nd Story Software, Inc. will not sell or rent your name or other personal information (including email address) to any third party in ways other than disclosed in this privacy statement. Personally identifiable information (including email address) is only shared with third party intermediaries providing they have been contracted to act on 2nd Story Software's behalf or to carry out a specific function. Under these circumstances, third party intermediaries may not sell or transfer this information (including email address) nor may they use information for any secondary purpose.**
 
-#### Service Alerts and Critical Notices
+#### Notices and Service Alerts
 
-Although we respect and honor your privacy preferences, 2nd Story Software shall maintain the right to contact you when it is required to make you aware of changes (that are of a non-marketing nature), which may impact your ability to use TaxACT products and services, or to provide you with a bug alert.
+Although we respect and honor your privacy preferences, 2nd Story Software shall maintain and reserve the right to contact you (via email, phone, fax, mail, or otherwise) when it deems appropriate, such as for nonmarketing purposes (such as bug alerts, security breaches, and/or changes that may impact your ability to use TaxACT products and services). In certain circumstances, we may use our website, newspapers, or other public means to post a notice.
 
 #### Service, Support and Suggestions
 
@@ -113,14 +113,3 @@ If we merge with, or are acquired by another company, the resulting combined com
 #### Disclaimer
 
 Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site.
-
-_Last Updated: April 23, 2007_
-
-| 
-
-| 
-
-**Your information is Private & Secure**
-
-|   
----|---
