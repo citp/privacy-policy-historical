@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gs.com privacy policy that was archived on 2007-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070402202309id_/http%3A//www2.goldmansachs.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gs.com privacy policy that was archived on 2007-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071220023157id_/http%3A//www2.goldmansachs.com/privacy_policy) for the most accurate reproduction.*
 
 # Global Privacy Policy
 
@@ -14,7 +14,7 @@
 
 In the course of serving you as an individual client or as someone associated with a corporate or institutional client, Goldman Sachs may obtain personal information about you. Obtaining this information is important to our ability to deliver the highest level of service to you, but we also recognize that you expect us to treat this information appropriately.
 
-This Policy describes the types of personal information we may collect about you, the purposes for which we use the information, the circumstances in which we may share the information, and the steps that we take to safeguard the information to protect your privacy. As used throughout this Policy, the term Goldman Sachs refers to The Goldman Sachs Group, Inc. and its affiliates worldwide . 
+This Policy describes the types of personal information we may collect about you, the purposes for which we use the information, the circumstances in which we may share the information, and the steps that we take to safeguard the information to protect your privacy. As used throughout this Policy, the term Goldman Sachs refers to The Goldman Sachs Group, Inc. and its affiliates worldwide. 
 
 **The Sources of Information**
 
@@ -28,7 +28,7 @@ If you deal with Goldman Sachs in your individual capacity (e.g., as a private c
 
   * Your name, address and other contact details;
   * Your age, occupation and marital status;
-  * Extensive financial information, including source of wealth, investment experience and objectives, risk tolerance and, in certain jurisdictions, representations required under applicable law or regulation concerning your financial resources ; 
+  * Extensive financial information, including source of wealth, investment experience and objectives, risk tolerance and, in certain jurisdictions, representations required under applicable law or regulation concerning your financial resources; 
   * A head and shoulders photograph from, as applicable, your passport, national identity card or driver's license, as required by laws and regulations addressing due diligence and related matters; and
   * A personal identifier such as, depending on your country of residence, your Social Security Number, National Insurance Number, Tax File Number, etc. 
 
@@ -42,7 +42,7 @@ If you are an employee/officer/director/principal, etc. of one of our corporate 
 
 
 
-Of course, you are not required to supply any of the personal information that we may request. However, failure to do so may result in our being unable to open or maintain your account or to provide services to you. While we make every effort to ensure that all information we hold about you is accurate, complete and up to date, you can help us considerably in this regard by promptly notifying us if there are any changes to your personal information. 
+Of course, you are not required to supply any of the personal information that we may request. However, failure to do so may result in our being unable to open or maintain your account or to provide services to you. While we make every effort to ensure that all information we hold about you is accurate, complete, and up to date, you can help us considerably in this regard by promptly notifying us if there are any changes to your personal information. 
 
 **Our Use of Your Personal Information**
 
@@ -50,7 +50,7 @@ We may use your personal information to:
 
   * Administer, operate, facilitate and manage your relationship and/or account with Goldman Sachs. This may include sharing such information internally as well as disclosing it to third parties, as described in the following two sections, respectively;
   * Contact you or, if applicable, your designated representative(s) by post, telephone, electronic mail, facsimile, etc., in connection with your relationship and/or account;
-  * Provide you with information (such as investment research), recommendations or advice concerning products and services offered by Goldman Sachs; and 
+  * Provide you with information (such as investment research), recommendations, or advice concerning products and services offered by Goldman Sachs; and 
   * Facilitate our internal business operations, including assessing and managing risk and fulfilling our legal and regulatory requirements.   
 
 
@@ -60,7 +60,7 @@ If your relationship with Goldman Sachs ends, Goldman Sachs will continue to tre
 
 **Disclosures of Your Personal Information Within Goldman Sachs**
 
-In order to provide efficient and reliable services, and to improve product and service options available to you, more than one entity within Goldman Sachs may be given, or given access to, your personal information. For example, one Goldman Sachs entity might share your information with another in order to facilitate settlement of your transactions or the maintenance of your accounts or as part of its arranging for the performance of specialised services such as U.S. and international brokerage, asset management, and advisory and trust services. When so sharing your personal information we adhere to applicable legal and industry standards regarding the protection of personal information. Additional information on how your personal information is protected while within Goldman Sachs is provided below under _Information Security: How We Protect Your Privacy_.
+In order to provide efficient and reliable services, and to improve product and service options available to you, more than one entity within Goldman Sachs may be given, or given access to, your personal information. For example, one Goldman Sachs entity might share your information with another in order to facilitate settlement of your transactions or the maintenance of your accounts or as part of its arranging for the performance of specialised services such as U.S. and international brokerage, asset management, and advisory and trust services. When so sharing your personal information, we adhere to applicable legal and industry standards regarding the protection of personal information. Additional information on how your personal information is protected while within Goldman Sachs is provided below under _Information Security: How We Protect Your Privacy_.
 
 **Disclosures of Your Personal Information to Third Parties**
 
@@ -76,7 +76,7 @@ The treatment and transfer of your personal information in case you are a client
 
 **Information Security: How We Protect Your Privacy**
 
-Goldman Sachs is committed to implementing the highest standards of information security to protect the privacy and confidentiality of your personal information. We limit access to your personal information to authorized Goldman Sachs employees or agents and, as described above in _Disclosures of Your Personal Information to Third Parties_ , our service providers are held to stringent standards of privacy. We also maintain physical, electronic, and procedural safeguards to protect the information against loss, misuse, damage or modification and unauthorized access or disclosure. Some of the other central features of our information security program are: 
+Goldman Sachs is committed to protecting the privacy and confidentiality of your personal information. We limit access to your personal information to authorized Goldman Sachs employees or agents and, as described above in _Disclosures of Your Personal Information to Third Parties_ , our service providers are held to stringent standards of privacy. We also maintain physical, electronic, and procedural safeguards to protect the information against loss, misuse, damage or modification and unauthorized access or disclosure. Some of the other central features of our information security program are: 
 
   * A dedicated group - the Information Security Department \- that designs, implements, and provides oversight to our information security program;
   * The use of specialized technology such as firewalls;
@@ -84,7 +84,7 @@ Goldman Sachs is committed to implementing the highest standards of information 
   * Internal and external reviews of our Internet sites and services;
   * Monitoring of our systems infrastructure to detect weaknesses and potential intrusions;
   * Implementing controls to identify, authenticate and authorize access to various systems or sites;
-  * Protecting non-public communications through encryption or other means; and 
+  * Protecting information during transmission through various means including, where appropriate, encryption; and
   * Providing Goldman Sachs personnel with relevant training and continually updating our security practices in light of new risks and developments in technology.   
 
 
@@ -97,19 +97,19 @@ The following additional information will be of interest to you if you access Go
   * Users of private Goldman Sachs Web sites are required to identify and authenticate themselves prior to accessing our services. Generally, identification and authentication take place through the use of your user name and a password, or with an RSA SecurID* Card and a Personal Identification Number ("PIN"). 
   * The private Goldman Sachs Web sites are built upon a secure infrastructure with multiple layers of protection, including measures ranging from proper physical security of our machines to system intrusion detection capabilities. Within such private sites, Goldman Sachs uses industry standard encryption technologies to protect your information from external compromise. 
   * Security is a cooperative effort between Goldman Sachs and the users of the Goldman Sachs Web sites. Please remember that your password, RSA SecurID Card and PIN are personal to you and should not be made available to any other person. Also, you should discontinue their use and notify us if you have any reason to suspect that someone else may be using them.
-  * Cookies are small text files consisting of information stored by your Web browser. This information is used for administrative purposes and to improve your experience with our Web sites. For example, this information helps authenticate you (i.e., verify that you are who you say you are), an essential component of site security. Cookies also make it easier for you to navigate a Goldman Sachs Web site by, among other things, “rememberingEyour identity so that you do not have to input your password multiple times as you move between pages or services. You can set your Web browser to inform you when cookies are set, or to prevent cookies from being set. However, if you decline to use cookies, you may experience reduced functionality, and declining to use authentication related cookies will prevent you from using the Web site altogether. 
-  * Clickstream or similar data (e.g., information regarding which of our Web pages you access, the frequency of such access, and your product and service preferences) may be collected and shared internally within Goldman Sachs in order to assess the usage, value and performance of our online products and services and, if you are a Goldman Sachs client, to suggest products or service offerings that may be of interest to you.  
+  * "Cookies" are small text files consisting of information stored by your Web browser. This information is used for administrative purposes and to improve your experience with our Web sites. For example, this information helps authenticate you (i.e., verify that you are who you say you are), an essential component of site security. Cookies also make it easier for you to navigate a Goldman Sachs Web site by, among other things, "remembering" your identity so that you do not have to input your password multiple times as you move between pages or services. You can set your Web browser to inform you when cookies are set, or to prevent cookies from being set. However, if you decline to use cookies, you may experience reduced functionality, and declining to use authentication related cookies will prevent you from using the Web site altogether. 
+  * "Clickstream" or similar data (e.g., information regarding which of our Web pages you access, the frequency of such access, and your product and service preferences) may be collected and shared internally within Goldman Sachs in order to assess the usage, value and performance of our online products and services and, if you are a Goldman Sachs client, to suggest products or service offerings that may be of interest to you.  
 
 
 
 
 **Other Privacy Policies or Statements; Changes to Policy**
 
-This Policy provides a general statement of the ways in which Goldman Sachs protects your personal information. You may, however, in connection with specific products or services offered by Goldman Sachs, be provided with privacy policies or statements that supplement this Policy. This Policy may be changed from time to time to reflect changes in our practices concerning the collection and use of personal information. The revised Policy will be effective immediately upon posting to our Web site. This version of the Policy is effective January 5, 2007.
+This Policy provides a general statement of the ways in which Goldman Sachs protects your personal information. You may, however, in connection with specific products or services offered by Goldman Sachs, be provided with privacy policies or statements that supplement this Policy. This Policy may be changed from time to time to reflect changes in our practices concerning the collection and use of personal information. The revised Policy will be effective immediately upon posting to our Web site. This version of the Policy is effective August 17, 2007.
 
 ****Additional Information: The European Economic Area; Switzerland, Hong Kong, Japan, Australia and New Zealan** d**
 
-_( _This section applies only if your information is processed by Goldman Sachs in a Member State of the European Economic Area (EEA), Switzerland, Hong Kong, Japan, Australia or New Zealand_ )._
+_(This section applies only if your information is processed by Goldman Sachs in a Member State of the European Economic Area (EEA), Switzerland, Hong Kong, Japan, Australia or New Zealand)._
 
 You are entitled to access any personal data about you held by Goldman Sachs by sending a written request to the applicable individual identified below. You may be required to supply a valid means of identification as a security precaution to assist us in preventing the unauthorized disclosure of your personal information. We will process your request within the time provided by applicable law. You are also entitled to have Goldman Sachs modify or delete any information that you believe is incorrect or out of date.
 
@@ -126,14 +126,14 @@ privacy@gsjbw.com
 ---|---  
 For Hong Kong:  | 
 
-Farzana Aslam, Data Protection Officer  
+Vicky Wickremeratne, Vice President  
 Goldman Sachs (Asia) L.L.C.  
-68/F, Cheung Kong Center  
+60/F, Cheung Kong Center  
 2 Queens Road, Central Hong Kong   
   
 For the EEA:  | 
 
-Nola Brown  
+Yvette Forrester  
 Goldman Sachs International  
 Peterborough Court, 133 Fleet Street  
 London EC4A 2BB   
