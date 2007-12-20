@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the isqft.com privacy policy that was archived on 2007-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070503170627id_/http%3A//www.isqft.com/home/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isqft.com privacy policy that was archived on 2007-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071220204440id_/http%3A//www.isqft.com/home/privacy_policy.htm) for the most accurate reproduction.*
 
 # 
 
