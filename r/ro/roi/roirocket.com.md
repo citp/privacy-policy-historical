@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roirocket.com privacy policy that was archived on 2007-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070519010530id_/http%3A//roirocket.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roirocket.com privacy policy that was archived on 2007-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071220222941id_/http%3A//roirocket.com/privacy.asp) for the most accurate reproduction.*
 
 # ROI Rocket - Affiliate Network - Affiliate Programs
 
@@ -48,7 +48,7 @@ OPT OUT/MODIFY
 
 ROI Rocket provides every user with the opportunity to opt-out of receiving future communications from us, change and modify information previously provided, or remove their information from our databases altogether. You may do so in any of the following ways:
 
-  1. Email: publishers@roirocket.com 
+  1. Email: [Click Here](mailto:publishers@roirocketcorp.com)
   2. Website: http://www.roirocket.com 
   3. Postal Mail: #425 3210 E Chinden Blvd #115 Eagle ID 83616 
   4. Facsimile: (734) 661-0173 
