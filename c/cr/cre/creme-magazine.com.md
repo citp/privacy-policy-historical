@@ -1,28 +1,21 @@
-> *The following text is extracted and transformed from the creme-magazine.com privacy policy that was archived on 2007-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070524034234id_/http%3A//www.creme-magazine.com/companylinks/privacypolicy/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creme-magazine.com privacy policy that was archived on 2007-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071220053514id_/http%3A//www.creme-magazine.com/companylinks/privacypolicy/privacypolicy.html) for the most accurate reproduction.*
 
-# Crème Magazine - Private Policy
+# Creme Magazine
 
 **PLEASE READ THIS PRIVACY POLICY CAREFULLY BEFORE USING THIS SITE.  
 Crème Magazine**
 
-**You could reach us at:**  
-[feedback@creme-magazine.com](mailto:feedback@creme-magazine.com)  
-[www.creme-magazine.com](http://www.creme-magazine.com/)
+As used herein, the phrase “this site” refers to creme-magazine.com and other sites on the World Wide Web originating in the United States, which are owned and/or operated by Crï¿½me, LLC. By using this site, you indicate your acceptance of this Privacy Policy. If you do not agree to this Policy, you are not permitted to access this site and you should not do so.
 
-**Have problems w/ site?:**  
-[webmaster@creme-magazine.com](mailto:webmaster@creme-magazine.com)
+Crï¿½me Magazine reserves the right to change or otherwise update this Policy at any time. Such changes or updates are effective immediately after Crï¿½me Magazine gives notice of the change or update, which Crï¿½me Magazine may do by posting on this site, or by electronic or conventional mail, and/or by any other means, which provides reasonable notice. Your use of this site after such notice is posted means that you accept these changes or updates.
 
-As used herein, the phrase “this site” refers to creme-magazine.com and other sites on the World Wide Web originating in the United States, which are owned and/or operated by Crème, LLC. By using this site, you indicate your acceptance of this Privacy Policy. If you do not agree to this Policy, you are not permitted to access this site and you should not do so.
-
-Crème Magazine reserves the right to change or otherwise update this Policy at any time. Such changes or updates are effective immediately after Crème Magazine gives notice of the change or update, which Crème Magazine may do by posting on this site, or by electronic or conventional mail, and/or by any other means, which provides reasonable notice. Your use of this site after such notice is posted means that you accept these changes or updates.
-
-Crème Magazine understands and respects your desire for privacy. To that end, we would like you to know how we use the personal information you provide to us.
+Crï¿½me Magazine understands and respects your desire for privacy. To that end, we would like you to know how we use the personal information you provide to us.
 
 We collect personally identifying information (such as your name and address) when you register for the online newsletter, enter contests, or participate in other interactive online activities (e.g., surveys, chat rooms, games, or bulletin boards) throughout this site. As described below, we may use such information to award prizes or, with your permission, for promotional and marketing purposes. We also collect non-personally-identifiable information (such as your IP address or domain, or about your site usage) for purposes of site administration and to compile aggregate information about usage of the site.
 
-You will be asked for your credit card information if you subscribe to Crème Magazine or buy any other product from the site. Your credit card information is not collected or retained by Crème Magazine. It, along with the personal identifying information you submit, is transferred to and used by third party financial institutions to verify the credit card numbers and to authorize the processing of the transaction. Be sure to review all privacy policies published by our third-party service providers and contact them directly if you have questions as they may have privacy terms that differ from Crème Magazine’s Privacy Policy.
+You will be asked for your credit card information if you subscribe to Crï¿½me Magazine or buy any other product from the site. Your credit card information is not collected or retained by Crï¿½me Magazine. It, along with the personal identifying information you submit, is transferred to and used by third party financial institutions to verify the credit card numbers and to authorize the processing of the transaction. Be sure to review all privacy policies published by our third-party service providers and contact them directly if you have questions as they may have privacy terms that differ from Crï¿½me Magazine’s Privacy Policy.
 
-Crème Magazine has implemented appropriate safeguards to help prevent unauthorized access, maintain data security, and to make proper use of the information that we collect. However, no transmission of data over the Internet is guaranteed to be completely secure. Thus, while we strive to protect your personal information, Crème Magazine cannot absolutely guarantee the security of any information you provide to us.
+Crï¿½me Magazine has implemented appropriate safeguards to help prevent unauthorized access, maintain data security, and to make proper use of the information that we collect. However, no transmission of data over the Internet is guaranteed to be completely secure. Thus, while we strive to protect your personal information, Crï¿½me Magazine cannot absolutely guarantee the security of any information you provide to us.
 
 With respect to cookies: We do not set any cookies. If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address or calling us at the above telephone number. From time to time, we make the e-mail addresses of those who access our site available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know. From time to time, we make our customer e-mail list available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know.
 
