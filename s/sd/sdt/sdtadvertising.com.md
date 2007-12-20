@@ -1,12 +1,16 @@
-> *The following text is extracted and transformed from the sdtadvertising.com privacy policy that was archived on 2003-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031002034252id_/http%3A//www.sdtadvertising.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sdtadvertising.com privacy policy that was archived on 2007-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071220144358id_/http%3A//sdtadvertising.com/new/privacy.php) for the most accurate reproduction.*
 
-# SDTadvertising.com - Leaders in Internet Advertising And Design!
+# 
 
 **Privacy Policy**
 
-Last Updated: May 28, 2002
+**Last Updated: December 19, 2003**
 
-SDTadvertising.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period."
+_The following information has been added to this page as of 12/19/03 as an addition to our formal privacy policy:_   _We_ _will never sell or give away our visitors' or customers' personal information to third parties for purposes of building contact lists_ _, or anything of that nature._
+
+**Last Updated: May 28, 2002**
+
+SDTadvertising.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period."  Also, We will never sell or give away our visitors' or customers' personal information to third parties for purposes of building contact lists, or anything of that nature. 
 
 **How we gather information from users**
 
