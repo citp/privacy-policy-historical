@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the soe.com privacy policy that was archived on 2007-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070619055604id_/http%3A//www.station.sony.com/sonyonline/privacy.vm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soe.com privacy policy that was archived on 2007-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071220040618id_/http%3A//www.station.sony.com/sonyonline/privacy.vm) for the most accurate reproduction.*
 
-# Sony Online Entertainment LLC Privacy Policy
+# Station.com
+
+| 
 
 [](https://www.esrb.org/confirm/soe-confirmation.jsp)
 
@@ -176,3 +178,5 @@ SOE reserves the right to change this Policy at any time by notifying registered
 Last Updated: 19th April 2007
 
 [Legal & Copyright Notice](https://web.archive.org/sonyonline/legal.vm)
+
+| 
