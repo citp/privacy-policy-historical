@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bharatpatal.org privacy policy that was archived on 2007-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070409125455id_/http%3A//www.bharatpatal.org/bp/static/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bharatpatal.org privacy policy that was archived on 2007-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071220172928id_/http%3A//www.bharatpatal.org/bp/static/privacy.html) for the most accurate reproduction.*
 
 # BharatPatal : The truely Indian Classifieds Portal,Post your classified for free!!.
 
