@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the gradschools.com privacy policy that was archived on 2002-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020408104536id_/http%3A//www.gradschools.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gradschools.com privacy policy that was archived on 2007-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071220083731id_/http%3A//www.gradschools.com/privacy.html) for the most accurate reproduction.*
 
-# Gradschools.com Privacy Policy
+# GradSchools.com - Privacy Statement
 
-**EDUCATIONAL DIRECTORIES UNLIMITED, INC. WEBSITE PRIVACY POLICY**
+**EDUCATIONAL DIRECTORIES UNLIMITED WEBSITE PRIVACY POLICY**
 
-Protecting your privacy online is a main concern at Educational Directories Unlimited, Inc. The following Educational Directories Unlimited privacy policy informs how we respect your privacy and protect any information you may provide us while visiting our site or utilizing any of our services. 
+Protecting your privacy online is a main concern at Educational Directories Unlimited The following Educational Directories Unlimited privacy policy informs how we respect your privacy and protect any information you may provide us while visiting our site or utilizing any of our services. 
 
-Educational Directories Unlimited, Inc. (EDU) allows full access to our online information free of charge and without requiring registration. Users may opt to register with Educational Directories Unlimited, Inc. through our StudentProspector.com service. This service allows prospective students to store profiles on our servers. Profiles can then be submitted to educational institutions as the user chooses. Profiles may also be accessed by educational institutions and related businesses, according to the preferences selected by the user and stored with the profile. 
+Educational Directories Unlimited (EDU) allows full access to our online information free of charge and without requiring registration. Users may opt to register with Educational Directories Unlimited through our StudentProspector.com service. This service allows prospective students to store profiles on our servers. Profiles can then be submitted to educational institutions as the user chooses. Profiles may also be accessed by educational institutions and related businesses, according to the preferences selected by the user and stored with the profile. 
 
 **What information is collected**
 
@@ -25,6 +25,7 @@ All personal information is gathered directly from users through online registra
   * Improving our services; 
   * Developing and/or having you informed of additional products or services we think will be of interest to you; 
   * Answering questions you may have. 
+  * To notify winners of sweepstakes which we run on occasion.
 
 
 
@@ -38,7 +39,7 @@ We have created several options on how your data is handled from which you may c
 
 3) STORE DATA ON OUR SERVER, AND MAKE IT AVAILABLE ONLY TO ACADEMIC INSTITUTIONS: Your profile may be utilized by EDU to service your account and inform you of EDU services. When you choose this option for your profile, your messages and profile information will be sent by email to educational institutions which you choose. Your data will be stored on our server so that you will be able to re-send it to other schools which you choose in the future. You are also able to edit and update your data. Your data may also be reviewed and accessed by other academic institutions which may contact you in an effort to recruit you to attend their institution. 
 
-4) STORE DATA ON OUR SERVER, AND MAKE IT AVAILABLE TO ACADEMIC INSTITUTIONS AND RELATED SERVICE PROVIDERS: Your profile may be utilized by EDU to service your account and inform you of EDU services. When you choose this option for your profile, your messages and profile information will be sent by email to educational institutions which you choose. Your data will be stored on our server so that you will be able to re-send it to other schools which you choose in the future. You are also able to edit and update your data. Your data may also be reviewed and accessed by other academic institutions which may contact you in an effort to recruit you to attend their institution. This option also allows related businesses (i.e. test prep services, loan providers, and other businesses deemed appropriate by Educational Directories Unlimited, Inc.) to contact you and let you know about their products and services. 
+4) STORE DATA ON OUR SERVER, AND MAKE IT AVAILABLE TO ACADEMIC INSTITUTIONS AND RELATED SERVICE PROVIDERS: Your profile may be utilized by EDU to service your account and inform you of EDU services. When you choose this option for your profile, your messages and profile information will be sent by email to educational institutions which you choose. Your data will be stored on our server so that you will be able to re-send it to other schools which you choose in the future. You are also able to edit and update your data. Your data may also be reviewed and accessed by other academic institutions which may contact you in an effort to recruit you to attend their institution. This option also allows related businesses (i.e. test prep services, loan providers, and other businesses deemed appropriate by Educational Directories Unlimited) to access your profile and to contact you and let you know about their products and services. 
 
 **Accessibility of Profiles**
 
@@ -46,11 +47,11 @@ Users who choose option (3) or (4) above are allowing their profiles to be searc
 
  **Correction of information/Accessibility of information**
 
-We provide users with 24 hour access to their personal information after it has been collected. You may also wish to amend or correct inaccuracies on information provided; Information can be accessed through our password protected access facility at [http://profile.studentprospector.com](http://profile.studentprospector.com/). If you wish to have your profile deleted from our server, you should contact support@studentprospector.com. Removal from the EDU server does not guarantee that your profile will be removed from third party records. Any information gathered is to the best of our knowledge collected lawfully and fairly through our website, all information is assumed accurate and up to date and only information which is adequate and not excessive to our purpose for collection is obtained.
+We provide users with 24 hour access to their personal information after it has been collected. You may also wish to amend or correct inaccuracies on information provided; Information can be accessed through our password protected access facility at [http://profile.studentprospector.com ](http://profile.studentprospector.com/) . If you wish to have your profile deleted from our server, you should contact support@studentprospector.com. Removal from the EDU server does not guarantee that your profile will be removed from third party records. Any information gathered is to the best of our knowledge collected lawfully and fairly through our website, all information is assumed accurate and up to date and only information which is adequate and not excessive to our purpose for collection is obtained.
 
- **Children under 18 years of age**
+ **Children under 16 years of age**
 
-Educational Directories Unlimited, Inc. does not intend to collect information from children. All profiles stored are for those stating their age to be 18 years or older. 
+Educational Directories Unlimited does not intend to collect information from children. All profiles stored are for those stating their age to be 16 years or older. 
 
 **Aggregate Information about our users**
 
@@ -64,7 +65,7 @@ We use cookie technology within our StudentProspector.com site. We use cookies f
 
 When you submit your information to Educational Directories Unlimited, whether it be your name, address, email or phone number, we do our utmost to ensure that information is protected against loss, misuse, alteration, destruction or unauthorized access. Educational Directories Unlimited uses standard encryption tools such as SSL (Secure Socket Layer) to help protect your personal information and to keep information collected secure.
 
->  _Encryption can be used after your data has left your internal system. Encryption renders your data unreadable using a mathematical formulae known as the key. Your data is turned back into readable form, i.e. deciphered, by applying the correct key_
+>  _Encryption can be used after your data has left your internal system. Encryption renders your data unreadable using a mathematical formulae known as the key. Your data is turned back into readable form, i.e. deciphered, by applying the correct key._
 
 Due to the nature of this technology, there is always a remote danger of information interception no matter what barriers are in place.
 
@@ -80,11 +81,11 @@ Our web sites also contain links to other sites. The privacy policies of linked 
 
 If you would like to contact us for information on any of our services, information on our privacy policy, or for any reason relating to our site, we can be reached at the following:
 
-Contact Name: Educational Directories Unlimited, Inc.  
-Address: 1450 Edgemont Avenue, Suite 140, Chester, PA 19013 USA  
+Contact Name: Educational Directories Unlimited  
+Address: 1350 Edgmont Avenue, Suite 1100, Chester, PA 19013 USA  
 PH: 1-610-499-9200  
 FAX: 1-610-499-9205  
-E-mail: [support@studentprospector.com](mailto:support@studentprospector.com)  
-URL: [www.edudirectories.com](http://www.edudirectories.com/)
+E-mail: [privacy@StudentProspector.com ](mailto:privacy@studentprospector.com)   
+URL: [www.EDUdirectories.com ](http://www.edudirectories.com/)
 
-Educational Directories Unlimited, Inc. reserves the right to modify or supplement this Privacy Policy statement at any time. 
+Educational Directories Unlimited reserves the right to modify or supplement this Privacy Policy statement at any time. 
