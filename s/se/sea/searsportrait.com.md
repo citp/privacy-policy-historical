@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searsportrait.com privacy policy that was archived on 2007-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070523112502id_/http%3A//www.searsportrait.com/cpi/en-US/global/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searsportrait.com privacy policy that was archived on 2007-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071220164021id_/http%3A//www.searsportrait.com/cpi/en-US/global/MinorFooterNav/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - searsportrait.com
 
@@ -32,7 +32,7 @@ Most web browsers allow you to exercise control over cookie files on your comput
 
 ## How does searsportrait.com handle personally identifiable information collected on children?
 
-The online privacy and safety of children is important to Sears Portrait Studio. This website is not intended for children aged 13 and under.   Please [click here](http://www.searsportrait.com/cpi/en-US/global/childrensprivacypolicy/Children+Privacy+Policy.htm) to read our Children's Privacy Policy for information on Sears Portrait Studio's general policy regarding the collection of personally identifiable information on children under 13 years of age. 
+The online privacy and safety of children is important to Sears Portrait Studio. This website is not intended for children aged 13 and under.   Please [click here](http://www.searsportrait.com/cpi/en-US/global/MinorFooterNav/childrensprivacypolicy/Children+Privacy+Policy.htm) to read our Children's Privacy Policy for information on Sears Portrait Studio's general policy regarding the collection of personally identifiable information on children under 13 years of age. 
 
 ## Can I "opt out" of receiving promotional emails from searsportrait.com?
 
