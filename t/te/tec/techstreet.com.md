@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techstreet.com privacy policy that was archived on 2007-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070614220307id_/http%3A//www.techstreet.com/sec_priv.tmpl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techstreet.com privacy policy that was archived on 2007-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071220190235id_/http%3A//www.techstreet.com/sec_priv.tmpl) for the most accurate reproduction.*
 
 # Techstreet Security and Privacy Policies
 
@@ -24,4 +24,4 @@ We get plenty of it ourselves, so you can be sure we don't send it.  Spam is co
 Your Permission   
 By using our Web site, you consent to the collection and use of the information by Techstreet.  If we change our privacy or security policies in the future, those changes will be posted here so you always know what information we collect, how we use it, and how we protect it.
 
-We would be happy to explain any of our privacy and security policies to you in person.  If you have any questions or concerns, please call 800-699-9277 or 734-913-3930.
+We would be happy to explain any of our privacy and security policies to you in person.  If you have any questions or concerns, please call 800-699-9277 or 734-780-8000.
