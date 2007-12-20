@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kleinfeldbridal.com privacy policy that was archived on 2007-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070426145832id_/http%3A//www.kleinfeldbridal.com/index.cfm%3Fpid%3D27) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kleinfeldbridal.com privacy policy that was archived on 2007-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071220205228id_/http%3A//www.kleinfeldbridal.com/index.cfm%3Fpid%3D27) for the most accurate reproduction.*
 
-# Kleinfeld Bridal - The Largest Selection of Wedding Dresses in the World!
+# Privacy Policy
 
 **Please note that Kleinfeld will not share or distribute your information. Registration is exclusively for KleinfeldBridal.com.**
 
@@ -12,4 +12,4 @@ We protect the nonpublic personal information supplied by you by restricting acc
 
 We may use a “cookie” feature of your internet browser. A “cookie” is a small file placed on a user’s hard drive. We may use a cookie to remember your personal settings, assist you in filling in forms and to improve our services to you on the site. 
 
-If you have any question about this policy, you may address them to [Ronald Rothstein](mailto:rrrothstein@kleinfeldbridal.com), Owner/CEO, Kleinfeld.
+If you have any questions about this policy, you may address them to [Ronald Rothstein](mailto:rrrothstein@kleinfeldbridal.com), Owner/CEO, Kleinfeld.
