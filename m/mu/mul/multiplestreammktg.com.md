@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the multiplestreammktg.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627034033id_/http%3A//www.multiplestreammktg.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the multiplestreammktg.com privacy policy that was archived on 2007-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071220025341id_/http%3A//www.multiplestreammktg.com/privacy.html) for the most accurate reproduction.*
 
-# Multiple Stream Media - Pay-Per-Lead advertising, pay per lead advertising, Internet advertising, online advertising
+# Multiple Stream Media - Our Advertisers
 
 > **COPYRIGHT**
 > 
@@ -38,12 +38,12 @@
 > This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.
 > 
 >   1. You can login to your Advertiser Area and click on "Delete Account"
->   2. You can send email to [support@MultipleStreamMktg.com.com](mailto:support@rent-a-list.com)
+>   2. You can [email us](http://www.multiplestreammktg.com/helpdesk/index.html).
 >   3. You can send mail to the following postal address:  
->  Multiple Stream Media  
->  1 Albany Ave, Suite G6  
->  Kingston NY 12401
->   4. You can call the following telephone number: 845.336.0196
+>  Multiple Stream Media LLC  
+>  603 Old Stage Road, Main Bldg.  
+>  Saugerties, NY 12477
+>   4. You can call the following telephone number: 845.247.2565
 > 
 
 > 
@@ -51,17 +51,18 @@
 >  This site gives users the following options for changing and modifying information previously provided.
 > 
 >   1. You can login to your Advertiser Area and click on "Edit Account"
->   2. You can send email to [support@MultipleStreamMktg.com.com](mailto:support@multiplestreammktg.com)
+>   2. You can send email to admin@MultipleStreamMktg.com
 >   3. You can send mail to the following postal address:  
 > 
 > 
-> Multiple Stream Media  
->  1 Albany Ave, Suite G6  
->  Kingston NY 12401
+> Multiple Stream Media LLC  
+>  603 Old Stage Road, Main Bldg.  
+>  Saugerties, NY 12477
 > 
 >   4. You can call the following telephone number:   
->  845.336.0196  
->  845.336.0197  
+>  (845) 247 2565   
+>  (845) 247 2567  
+>  Fax: (845) 247 2569  
 > 
 > 
 
@@ -72,19 +73,15 @@
 > **Contacting the Web Site**  
 >  If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
 > 
-> Multiple Stream Media  
->  1 Albany Ave, Suite G6  
->  Kingston NY 12401
+> Multiple Stream Media LLC  
+>  603 Old Stage Road, Main Bldg.  
+>  Saugerties, NY 12477
 > 
 > Telephone:  
->  845.336.0196  
->  845.336.0197  
->  Fax:  
->  845.336.0199  
-> 
+>  (845) 247 2565   
+>  (845) 247 2567  
+>  Fax: (845) 247 2569
 > 
 > **DISCLAIMER OF WARRANTIES, LIMITATION OF LIABILITIES, INDEMNIFICATION**
 > 
 > Multiple Stream DOES NOT WARRANT THAT THE WEBSITE AND SERVICE WILL BE ERROR FREE OR UNINTERRUPTED. THE WEBSITE AND SERVICE IS DISTRIBUTED ON "AS IS" BASIS WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESSED OR IMPLIED. ON TARGET MARKETING, INC. WILL NOT BE RESPONSIBLE FOR ANY LOSSES, DAMAGES OR COSTS THAT YOU AND/OR YOUR BUSINESS MAY SUFFER WHEN USING THE WEBSITE OR SERVICE. YOU AGREE TO INDEMNIFY AND HOLD HARMLESS "ON TARGET MARKETING, INC." FROM ANY CLAIMS RESULTING FROM YOUR USE OF THE WEBSITE OR SERVICE. YOU EXPRESSLY AGREE THAT USE OF THE WEBSITE OR SERVICE IS AT YOUR SOLE RISK. NEITHER ON TARGET MARKETING, INC. NOR ITS SERVICE PROVIDERS, AGENTS, LICENSORS, EMPLOYEES SHALL HAVE ANY LIABILITY FOR ANY DAMAGES SUFFERED BY YOU OR ANY OTHER PARTY AS A RESULT OF THE USE OR MISUSE OF THE SERVICE.
-
-| 
