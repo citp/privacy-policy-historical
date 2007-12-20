@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homeexchange.com privacy policy that was archived on 2007-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070529214018id_/http%3A//www.homeexchange.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeexchange.com privacy policy that was archived on 2007-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071220213853id_/http%3A//homeexchange.com/privacy.php) for the most accurate reproduction.*
 
 # HomeExchange.com
 
