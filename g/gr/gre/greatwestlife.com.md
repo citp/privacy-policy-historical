@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greatwestlife.com privacy policy that was archived on 2007-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070206020743id_/http%3A//www.greatwestlife.com/001/Home/ssLINK/S7_002503) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatwestlife.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221005758id_/http%3A//www.greatwestlife.com/001/Home/ssLINK/S7_002503) for the most accurate reproduction.*
 
 # Great-West Life | Legal
 
@@ -6,16 +6,16 @@ Privacy Policy
 
 This Privacy Policy covers the treatment of personally identifiable information collected by Great-West servers during your visits to Great-West websites. This Privacy Policy is subject to change without notice to you, so we recommend that you review it regularly. By accessing this site you acknowledge that you have read and understand this Privacy Policy as amended from time to time.
 
-_[Privacy and confidentiality](https://web.archive.org/web/20070205171708id_/http://www.greatwestlife.com/001/Home/Legal/S7_002503#P3_528)[  
-Personal information we collect at registration](https://web.archive.org/web/20070205171708id_/http://www.greatwestlife.com/001/Home/Legal/S7_002503#P2_528)[  
-E-mail security](https://web.archive.org/web/20070205171708id_/http://www.greatwestlife.com/001/Home/Legal/S7_002503#P15_3951)[  
-E-mail fraud](https://web.archive.org/web/20070205171708id_/http://www.greatwestlife.com/001/Home/Legal/S7_002503#P17_4198)[  
-Cookies](https://web.archive.org/web/20070205171708id_/http://www.greatwestlife.com/001/Home/Legal/S7_002503#P15_3951)[  
-Traffic analysis](https://web.archive.org/web/20070205171708id_/http://www.greatwestlife.com/001/Home/Legal/S7_002503#P22_5749)_
+_[Privacy and confidentiality](https://web.archive.org/web/20071220195504id_/http://www.greatwestlife.com/001/Home/Legal/S7_002503#P3_528)[  
+Personal information we collect at registration](https://web.archive.org/web/20071220195504id_/http://www.greatwestlife.com/001/Home/Legal/S7_002503#P2_528)[  
+E-mail security](https://web.archive.org/web/20071220195504id_/http://www.greatwestlife.com/001/Home/Legal/S7_002503#P15_3951)[  
+E-mail fraud](https://web.archive.org/web/20071220195504id_/http://www.greatwestlife.com/001/Home/Legal/S7_002503#P17_4198)[  
+Cookies](https://web.archive.org/web/20071220195504id_/http://www.greatwestlife.com/001/Home/Legal/S7_002503#P15_3951)[  
+Traffic analysis](https://web.archive.org/web/20071220195504id_/http://www.greatwestlife.com/001/Home/Legal/S7_002503#P22_5749)_
 
  **Privacy and confidentiality**
 
-Great-West is committed to respecting the privacy and confidentiality of information it receives, in accordance with Great-West’s [_Privacy Guidelines_](https://web.archive.org/web/20070205171708id_/http://www.greatwestlife.com/001/Home/Legal/ssLINK/5/81/s7_000650?blank), and applicable law. Great-West has established and will continue to maintain reasonable safeguards to protect the security and confidentiality of personal information. However, you acknowledge and confirm that the Internet is not a secure medium where privacy and confidentiality can be guaranteed and that complete security and confidentiality of transmissions to and from this site over the Internet is not possible at this time. Your confidential use of this site cannot be guaranteed and you acknowledge that your use of this site (including information you transmit to the site) may be subject to access or manipulation by, or disclosure to, third parties. Without limiting any other disclaimer herein, Great-West and its affiliates shall not be responsible or liable for any damages that you or any other person may suffer in connection with any such breach of privacy, confidentiality or security. 
+Great-West is committed to respecting the privacy and confidentiality of information it receives, in accordance with Great-West’s [_Privacy Guidelines_](https://web.archive.org/web/20071220195504id_/http://www.greatwestlife.com/001/Home/Legal/ssLINK/5/81/s7_000650?blank), and applicable law. Great-West has established and will continue to maintain reasonable safeguards to protect the security and confidentiality of personal information. However, you acknowledge and confirm that the Internet is not a secure medium where privacy and confidentiality can be guaranteed and that complete security and confidentiality of transmissions to and from this site over the Internet is not possible at this time. Your confidential use of this site cannot be guaranteed and you acknowledge that your use of this site (including information you transmit to the site) may be subject to access or manipulation by, or disclosure to, third parties. Without limiting any other disclaimer herein, Great-West and its affiliates shall not be responsible or liable for any damages that you or any other person may suffer in connection with any such breach of privacy, confidentiality or security. 
 
 **Personal information we collect at registration**
 
