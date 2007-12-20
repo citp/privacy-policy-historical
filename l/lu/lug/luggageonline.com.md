@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the luggageonline.com privacy policy that was archived on 2007-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070601035330id_/http%3A//www.luggageonline.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luggageonline.com privacy policy that was archived on 2007-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071220010717id_/http%3A//www.luggageonline.com/privacy.cfm) for the most accurate reproduction.*
 
 # Luggage Online - Privacy Policy
 
