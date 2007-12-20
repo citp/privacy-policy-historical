@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the carbonmade.com privacy policy that was archived on 2007-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070628211950id_/http%3A//www.carbonmade.com/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carbonmade.com privacy policy that was archived on 2007-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071220214432id_/http%3A//www.carbonmade.com/about/privacypolicy) for the most accurate reproduction.*
 
-# Carbonmade: Privacy Policy
+# Carbonmade : Privacy Policy
 
 Last Updated: March 29th, 2006
 
 Privacy is important. This policy applies to all nterface websites, products, services, and content offered by nterface LLC ("nterface") including by not limited to Carbonmade (www.carbonmade.com).
 
-nterface reserves the right to update and change this Privacy Policy from time to time without notice. Any new features that augment or enhance the current Service, including the release of new tools and resources, shall be subject to this Privacy Policy. Continued use of the Service after any such changes shall constitute your consent to such changes. You can review the most current version of the Privacy Policy at any time at: <http://www.carbonmade.com/legal/privacypolicy>
+nterface reserves the right to update and change this Privacy Policy from time to time without notice. Any new features that augment or enhance the current Service, including the release of new tools and resources, shall be subject to this Privacy Policy. Continued use of the Service after any such changes shall constitute your consent to such changes. You can review the most current version of the Privacy Policy at any time at: <http://www.carbonmade.com/about/privacypolicy>
 
 ## Information we collect and how we use it
 
@@ -49,7 +49,7 @@ In compliance with the Children's Online Privacy Protection Act of 1998, nterfac
 If you have any questions or concerns, please contact us:
 
 nterface, LLC   
-582 Market Street #1115   
-San Francisco, CA 94104
+3000 N Sheridan Rd #10E   
+Chicago, IL 60657
 
 Or by email at: [privacy@nterface.com](mailto:privacy@nterface.com)
