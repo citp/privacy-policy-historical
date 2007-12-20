@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldwidelearn.com privacy policy that was archived on 2007-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070602122549id_/http%3A//www.worldwidelearn.com/about-worldwidelearn/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldwidelearn.com privacy policy that was archived on 2007-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071220223051id_/http%3A//www.worldwidelearn.com/about-worldwidelearn/privacy-policy.htm) for the most accurate reproduction.*
 
 # World Wide Learn | Privacy Policy
 
@@ -95,12 +95,10 @@ To opt out of the World Wide Learn newsletter, you can send an e-mail to **[unsu
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact: 
 
-World Wide Learn  
-Box 172, Suite 100  
-1039 - 17th Avenue SW  
-Calgary, Alberta, Canada  
-T2T 0B2  
-Phone: (403) 802-6116  
+World Wide Learn Partnership  
+700, 550 - 11 Avenue SW  
+Calgary, Alberta, Canada T2R 1M7  
+Phone: 800-538-9402  
 Email: **[privacy@worldwidelearn.com](mailto:privacy@worldwidelearn.com)**
 
   
