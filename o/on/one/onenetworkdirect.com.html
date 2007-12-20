@@ -1,185 +1,1012 @@
-<!--The following is the downloaded HTML source of the onenetworkdirect.com privacy policy that was archived on 2007-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070616190318id_/http%3A//www.digitalriver.com/corporate/privacy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the onenetworkdirect.com privacy policy that was archived on 2007-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071220024138id_/http%3A//corporate.digitalriver.com/store/driv/Corp/sectionName.company/subSectionName.corpPolicies/page.corpPolicies%23privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
-<title>Digital River</title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
+<!--!esi:include src="/servlet/ControllerServlet?Action=DisplayESIPage&SiteID=driv&StyleID=776800&StyleVersion=41&styleIncludeFile=meta.html"-->
+<!-- BULLSEYE -->
+<script language="javascript" src="http://dr.bluehornet.com/phase2/bhecho_files/smartlists/check_entry.js"></script>
+<!-- Check for Customer Service on Form -->
+<script type="text/javascript">
+function alertField(Field, Message) {
+   alert(Message);
+   Field.focus();
+   return false;
+}
 
-<!----------------------------STYLE SHEET LINK--------------------------------->
-<link href="http://a248.e.akamai.net/f/248/5462/2h/www.digitalriver.com/corporate/css/stylesheet.css" rel="styleSheet" type="text/css">
+function validateCsForm(Form) {
+   if (Form.orderNumber.value != '') {
+      if (!/^\d+$/.test(Form.orderNumber.value)) return alertField(Form.orderNumber, 'Please enter a numeric value for the order number.');
+   }
+   else if (Form.emailAddress.value != '') {
+      if (/^[\w-]+(\.[\w-]+)*@[a-z0-9-]+(\.[a-z0-9-]+)*\.[a-z]{2,4}$/i.test(Form.emailAddress.value)) {
+         if (Form.emailAddress.value.toLowerCase() != Form.emailAddress2.value.toLowerCase()) return alertField(Form.emailAddress2, 'The email addresses do not match; please verify your input.');
+      }
+      else return alertField(Form.emailAddress, 'Please enter a valid email address.');
+   }
+   else {
+      alert('Please enter either an order number or your email address.');
+      return false;
+   }
+   return (Form.selectedTier1Reason.selectedIndex > 0) ? true : alertField(Form.selectedTier1Reason, 'Please select a subject for your request.');
+}
 
-<!----------------------------LEFT NAV LINK------------------------------------>
-<script language="javascript" src="http://a248.e.akamai.net/f/248/5462/2h/www.digitalriver.com/corporate/js/nav.js" type="text/javascript"></script>
+function validateSalesForm(Form) {
+   if (Form.phone_wk.value == '') return alertField(Form.phone_wk, 'Please enter your phone number.');
+   else if (Form.business_need.options[Form.business_need.selectedIndex].value == '') return alertField(Form.business_need, 'Please select an interest area.');
+   else {
+     	Form.send_to.value = String.fromCharCode(115,97,108,101,115,64,100,105,103,105,116,97,108,114,105,118,101,114,46,99,111,109);
+      if (/^[\w-]+(\.[\w-]+)*@[a-z0-9-]+(\.[a-z0-9-]+)*\.[a-z]{2,4}$/i.test(Form.email.value)) Form.from.value = Form.email.value;
+      else Form.from.value = Form.send_to.value;
+   	window.open(Form.thankyou_url.value, 'signup', 'resizable=1,scrollbars=0,width=300,height=150');
+      self.open('', 'signup', 'resizable=1,scrollbars=0,width=300,height=150');
+      return true;
+   }
+}
+</script>
 
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<!-- Show and Hide Elements -->
+<script type="text/javascript">
+currentLayerId = ''; // ID of initial element that is showing (empty string if nothing is showing)
+
+// Hides previous element and shows the new element (pass in the ID of the element to show)
+function swapLayer(LayerId) {
+   if (currentLayerId != '') document.getElementById(currentLayerId).style.display = 'none';
+   currentLayerId = LayerId;
+   document.getElementById(currentLayerId).style.display = 'block';
+}
+</script>
+
+<!-- SOLUTIONS DROPDOWN JS -->
+<script type="text/javascript" src="//drh.img.digitalriver.com/DRHM/Storefront/Site/driv/cm/multimedia/js/p7exp.js"></script>
+
+<!-- CSS -->
+<link rel="stylesheet" href="//drh.img.digitalriver.com/DRHM/Storefront/Site/driv/cm/multimedia/css/base_ff.css" type="text/css">
+<!-- IE Specific Stylesheet Items -->
+<!--[if IE 6]>
+<link REL="stylesheet" HREF="//drh.img.digitalriver.com/DRHM/Storefront/Site/driv/cm/multimedia/css/ie6.css" TYPE="text/css">
+<![endif]-->
+<!--[if IE 7]>
+<link REL="stylesheet" HREF="//drh.img.digitalriver.com/DRHM/Storefront/Site/driv/cm/multimedia/css/ie7.css" TYPE="text/css">
+<![endif]-->
+<!-- PRINT CSS -->
+<link rel="stylesheet" href="//drh.img.digitalriver.com/DRHM/Storefront/Site/driv/cm/multimedia/css/print.css" type="text/css" media="print">
+
+<style type="text/css">
+<!--
+div#pullquote_banner p.cust_serv_para {
+	padding: 10px 0px 10px 0px;
+	margin: 0px 10px 0px 10px;
+	font-weight: bold;
+	border-bottom: 1px solid #a3a3a3;
+}
+-->
+</style>
+<!--!/esi:include --><link rel="stylesheet" href="//drh.img.digitalriver.com/servlet/ControllerServlet?Action=DisplayContentManagerStyleSheet&amp;SiteID=driv&amp;StyleID=776800&amp;StyleVersion=41&amp;styleIncludeFile=style.css" type="text/css" media="all">
+
+
+
+
+
+
+<!-- REQUEST ID: TIME=1198118498059:NODE=c1a2501:THREAD=24 -->
+<title>
+      
+      
+        Digital River is the global leader in e-commerce solutions for software and consumer technology.
+      
+</title>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- begin site specific javascript -->
+
+
+
+<!-- end site specific javascript -->
+
+
+
+
+
+
+
+
+
+
+
+<!-- BEGIN TOPHEADER -->
+
+
+
+
+
+
+
+
+
+<!-- START SUB MENU -->
+<script language="JavaScript" type="text/javascript">
+<!--- 
+// Show and hide layers.
+var activeSub=0;
+var SubNum=0;
+
+//function reDo(){ window.location.reload() }
+//window.onresize = reDo;
+
+//Define global variables
+
+var timerID = null;
+var timerOn = false;
+var timecount = 1000;
+var what = null;
+var newbrowser = true;
+var check = false;
+
+function init(){
+//  alert ("Running Init");
+	if (document.all){
+    	//  alert ("Running IE");
+		layerRef="document.all";
+		styleSwitch=".style";
+		visibleVar="visible";
+		screenSize = document.body.clientWidth + 18;
+		what ="ie";
+	} else if (document.getElementById){
+		//  alert ("Running Netscape 6");
+		layerRef="document.getElementByID";
+		styleSwitch=".style";
+		visibleVar="visible";
+		what="moz";
+	} else {
+		//alert("Older than 4.0 browser.");
+		what="none";
+		newbrowser = false;
+	}
+	//window.status='Digital River';
+	check = true;
+}
+
+// Turns the layers on and off
+function showLayer(layerName){
+	if(check){
+		if (what =="none"){
+		return;
+		} else if (what == "moz"){
+			document.getElementById(layerName).style.display="block";
+		} else{
+			eval(layerRef+'["'+layerName+'"]'+styleSwitch+'.display="block"');
+		}
+	} else {// alert ("Please wait for the page to finish loading.");
+	return;
+	}
+}
+
+function hideLayer(layerName){
+	if(check){
+		if (what =="none"){
+		return;
+		} else if (what == "moz"){
+			document.getElementById(layerName).style.display="none";
+		} else {
+			eval(layerRef+'["'+layerName+'"]'+styleSwitch+'.display="none"');
+		}
+	} else {// alert ("Please wait for the page to finish loading.");
+		return;
+	}
+}
+
+function hideAll(){
+	hideLayer('subNav_home');
+	hideLayer('subNav_marketing');
+	hideLayer('subNav_commerce');
+	hideLayer('subNav_company');
+	hideLayer('subNav_contact');
+	hideLayer('subNav_cs');
+}
+
+function showLocation(){
+	
+    
+		
+	
+		
+	
+		
+	
+		
+			showLayer('subNav_company');
+		
+	
+	
+	
+	
+	
+	
+}
+
+function startTime() {
+	if (timerOn == false) {
+		timerID=setTimeout( "hideAll(), showLocation()" , timecount);
+		timerOn = true;
+	}
+}
+
+function stopTime() {
+	if (timerOn) {
+		clearTimeout(timerID);
+		timerID = null;
+		timerOn = false;
+	}
+}
+
+function onLoad(){
+	init();
+}
+// --->
+</script>
+<!-- END SUB MENU -->
+
 </head>
+	
+    
+		
+	
+		
+	
+		
+	
+		
+			<body class="company" onload="init(); P7_ExpMenu();">
+		
+	
+	
+	
+	
+	
+	
 
-<body onload="init();" bgcolor="#088CD6" text="#666666" link="#0099CC" vlink="#0099CC" alink="#FF6600" leftmargin="1" topmargin="1" marginwidth="1" marginheight="1">
-<table width="100%" height="108" border="0" cellpadding="0" cellspacing="0">
-		<tbody><tr>
-				<td valign="top" background="http://a248.e.akamai.net/f/248/5462/2h/www.digitalriver.com/corporate/images/top_back_small.gif"><table width="785" height="108" border="0" cellpadding="0" cellspacing="0">
-						<tbody><tr>
-								<td height="22" bgcolor="#088CD6">&nbsp;</td>
-						</tr>
-						<tr>
-								<td height="66" align="right" valign="top" background="http://a248.e.akamai.net/f/248/5462/2h/www.digitalriver.com/corporate/images/top_back_big.jpg">&nbsp;</td>
-						</tr>
-						<tr>
-								<td height="20"><table width="785" height="20" border="0" cellpadding="0" cellspacing="0">
-                		<tbody><tr>
-                				<td width="130" align="center" valign="middle" class="topmenu"><a href="index.shtml" class="topmenulink">Home</a></td>
-                				<td width="2" valign="middle"><img src="http://a248.e.akamai.net/f/248/5462/2h/www.digitalriver.com/corporate/images/top_nav_green_divider.gif" width="2" height="11"></td>
-                				<td width="129" align="center" valign="middle" class="topmenu"><a href="company01.shtml" onmouseover="hideAll(); showLayer('company'); stopTime();" onmouseout="startTime();" class="topmenulink">Company</a></td>
-                				<td width="2" valign="middle"><img src="http://a248.e.akamai.net/f/248/5462/2h/www.digitalriver.com/corporate/images/top_nav_green_divider.gif" width="2" height="11"></td>
-                				<td width="129" align="center" valign="middle" class="topmenu"><a href="solutions00.shtml" onmouseover="hideAll(); showLayer('solutions'); stopTime();" onmouseout="startTime();" class="topmenulink">Solutions</a></td>
-                				<td width="2" valign="middle"><img src="http://a248.e.akamai.net/f/248/5462/2h/www.digitalriver.com/corporate/images/top_nav_green_divider.gif" width="2" height="11"></td>
-                				<td width="129" align="center" valign="middle" class="topmenu"><a href="clients01.shtml" onmouseover="hideAll(); showLayer('clients'); stopTime();" onmouseout="startTime();" class="topmenulink">Clients</a></td>
-                				<td width="2" valign="middle"><img src="http://a248.e.akamai.net/f/248/5462/2h/www.digitalriver.com/corporate/images/top_nav_green_divider.gif" width="2" height="11"></td>
-                				<td width="129" align="center" valign="middle" class="topmenu"><a href="news01.shtml" onmouseover="hideAll(); showLayer('news'); stopTime();" onmouseout="startTime();" class="topmenulink">News + Events</a></td>
-                				<td width="2" valign="middle"><img src="http://a248.e.akamai.net/f/248/5462/2h/www.digitalriver.com/corporate/images/top_nav_green_divider.gif" width="2" height="11"></td>
-                				<td width="129" align="center" valign="middle" class="topmenu"><a href="contact01.shtml" onmouseover="hideAll(); showLayer('contact'); stopTime();" onmouseout="startTime();" class="topmenulink">Contact</a></td>
-           				</tr>
-                		</tbody></table></td>
-						</tr>
-				</tbody></table></td>
-		</tr>
-</tbody></table>
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-		<tbody><tr>
-				<td valign="top" bgcolor="#FFFFFF"><table width="785" border="0" cellspacing="0" cellpadding="0">
-        		<tbody><tr>
-        				<td width="785" valign="top"><table width="785" border="0" cellspacing="0" cellpadding="0">
-        								<tbody><tr>
-        										<td width="182" valign="top" background="http://a248.e.akamai.net/f/248/5462/2h/www.digitalriver.com/corporate/images/left_nav_background2.gif"><img src="http://a248.e.akamai.net/f/248/5462/2h/www.digitalriver.com/corporate/images/main_logo2.jpg" width="182" height="88"><table width="182" border="0" cellspacing="0" cellpadding="0">
-        														<tbody><tr>
-        																<td height="125" align="right" valign="top" background="http://a248.e.akamai.net/f/248/5462/2h/www.digitalriver.com/corporate/images/left_nav_background2.gif" class="para" style="padding-top: 20px; padding-right: 10px;"><a href="resource_center_1.shtml" class="leftlink">Resource Center</a><br>
-            																		<br>
-            																		<a href="contact02.shtml" class="leftlink">Request Information</a><br>
-            																		<br>
-            																		<a href="http://www.digitalriver.com/dr/v2/ec_MAIN.Entry17c?cid=0&amp;sid=8279&amp;pid=0&amp;SP=10107&amp;PN=1" class="leftlink">Help</a><br>
-            																		<br>
-            																		<a href="site_map.shtml" class="leftlink">Site Map</a><br>
-																								<br>
-            																		<a href="privacy.shtml" class="leftactivelink">Privacy Statement</a></td>
-															</tr>
-        														                                </tbody></table>
-       										</td>
-        										<td width="1" valign="top" bgcolor="#669900"><img src="http://a248.e.akamai.net/f/248/5462/2h/www.digitalriver.com/corporate/images/white_pixel.gif" width="1" height="104"></td>
-        										<td width="602" rowspan="2" valign="top"><table width="602" border="0" cellspacing="0" cellpadding="0">
-                            		<tbody><tr>
-                            				<td><table width="602" border="0" cellspacing="0" cellpadding="0">
-                            								<tbody><tr>
-                            										<td valign="top"><img src="http://a248.e.akamai.net/f/248/5462/2h/www.digitalriver.com/corporate/images/privacy_header01.gif" width="602" height="88"></td>
-                   										</tr>
-                            								</tbody></table>
-                       						</td>
-                       				</tr>
-                            		<tr>
-                       				  <td class="para" style="padding-top: 16px; padding-bottom: 16px; padding-left: 10px; padding-right: 30px;"><p>Digital River, Inc. -- one of the most trusted names in E-commerce and Web-based technology-- and our subsidiaries and affiliated companies worldwide (“Digital River”) respect the privacy of our partners and suppliers of products or services, clients, and their customers. The purpose of this Privacy Statement is to provide you with information concerning our services, the types of information we are provided by third parties or obtain ourselves through your visits to our Website, how we use that information, whether we disclose the information provided to us to others, and the options you have with regard to the use and correction of that information. Our goal in handling personal information provided to us is to comply with applicable privacy laws worldwide and to offer users of our Website notice, choice, consent, security, data integrity, access, and enforcement with regard to personal information.   Although legal requirements vary worldwide, Digital River’s goal is to provide protection for your personal information no matter where that information is collected, transferred, or retained.</p>
+<!-- END TOPHEADER -->
 
-<p>Digital River provides its partners and suppliers with a variety of fulfillment, support and E-commerce related services. Some of these services may be provided through sites bearing our partners’ and suppliers’ names and trademarks and are not in the sole control of Digital River. Additionally, Digital River may provide links from our Website to the websites of third parties who may provide services to you directly or on our behalf. THE PRIVACY POLICIES OF THESE THIRD PARTY SITES MAY BE DIFFERENT FROM OUR PRIVACY POLICIES AND WILL GOVERN ANY TRANSACTIONS UNDERTAKEN ON THOSE SITES. We urge you to review the privacy policy of any site to which you are linked.</p>
-<p><b>Collection of Personal Information</b></p>
-<p>Personal information means any information that may be used to identify an individual, and may include but is not limited to your name, physical or email address, phone number, type of hardware or software you own, credit card details, and other information required to provide you with the product, service, or support requested. Depending on the nature of the services provided by Digital River to our partners or suppliers or the services provided to Digital River from its partners or suppliers, Digital River may receive personal information either from you directly or from our partner or supplier. Some of the ways Digital River may receive personal information include but are not limited to: </p>
-<ul>
-  <li>requesting information about products and services; </li>
-  <li>entering a contest or promotion; </li>
-  <li>ordering newsletter or other informational tools; </li>
-  <li>purchasing, downloading and/or registering products; and/or </li>
-  <li>signing up for additional services. </li>
+<!--!esi:include src="/servlet/ControllerServlet?Action=DisplayESIPage&SiteID=driv&StyleID=776800&StyleVersion=41&styleIncludeFile=body-section0.html"-->
+<!-- Start Global Nav -->
+
+<!--!/esi:include -->
+
+
+
+
+
+
+<div id="gNav">
+  <div id="innerGNav">
+    <div id="logoBar">
+      <div id="logo"><a href="/store/driv/ContentTheme/pbPage.Homepage/sectionName.home" name="top"><img src="//drh.img.digitalriver.com/DRHM/Storefront/Site/driv/cm/images/images/logo_dr.gif" alt="Digital River" width="134" height="52" border="0" class="dr_logo"></a></div>
+	  	<div id="login">
+	  	  <table width="238" border="0" cellpadding="0" cellspacing="0">
+		  	<tbody><tr>
+              <td height="20" colspan="3" align="right" valign="middle"><div id="client_login_wrapper">
+          		<ul id="container">
+            		<li style="z-index: 10;"><a href="#" class="trigger">Client Login</a>
+              			<ul>
+                			<li><a href="https://gc.digitalriver.com">DR | globalCommerce</a></li>
+                			<li><a href="https://www.digitalriver.com/dr/v2/ec_MAIN.Entry23?SP=10145">Atlantic</a></li>
+								<li><a href="https://cm.commerce5.com">Commerce Manager</a></li>
+								<li><a href="https://cp.element5.com">element 5</a></li>
+                		</ul>
+            		</li>
+          		</ul>
+        	</div></td>
+            </tr>
+            <tr>
+			  <form name="ProductSearchForm" method="get" action="/DRHM/servlet/ControllerServlet"></form>
+			  <input type="HIDDEN" name="Action" value="DisplayProductSearchResultsPage">
+			  <input type="HIDDEN" name="SiteID" value="driv">
+			  <input type="HIDDEN" name="Locale" value="en_US">
+			  <input type="HIDDEN" name="ThemeID" value="492200">
+			  <input type="HIDDEN" name="CallingPageID" value="CorpPage">
+              <td width="120" height="20" align="right" valign="middle"><label class="dr_label" for="keywords">Search:</label>&nbsp;&nbsp;</td>
+              <td width="77" align="right" valign="middle"><input type="text" name="keywords" value="" class="form_input"></td>
+              <td width="41" align="right" valign="middle"><input type="image" value="submit" src="//drh.img.digitalriver.com/DRHM/Storefront/Site/driv/cm/images/images/button_go.gif" alt="Go"></td>
+			  
+            </tr>
+            <!--tr>
+              <td height="20" align="right" valign="middle">Select Your Language:&nbsp;&nbsp;</td>
+              <td colspan="2" align="right" valign="middle"><form action="" method="post" name="language" id="language">
+                  <select name="select2" class="form_select">
+                    <option selected="selected">English</option>
+                    <option>Chinese</option>
+                    <option>Japanese</option>
+                    <option>Korean</option>
+                    <option>German</option>
+                  </select>
+              </form></td>
+            </tr-->
+          </tbody></table></div>
+	  	<div class="clearit"><!-- --></div>
+    </div>
+    <div id="navbar">
+      <div class="tabs">
+        <ul>
+          <li class="home"><a href="/store/driv/ContentTheme/pbPage.Homepage/sectionName.home" onmouseover="hideAll(); showLayer('subNav_home'); stopTime();" onmouseout="startTime();">Home</a></li>
+          <li class="commerce"><a href="/store/driv/Corp/sectionName.commerce/subSectionName.commerceOverview/page.commerceOverview" onmouseover="hideAll(); showLayer('subNav_commerce'); stopTime();" onmouseout="startTime();">Commerce Solutions</a></li>
+					<li class="marketing"><a href="/store/driv/Corp/sectionName.marketing/subSectionName.marketStudio/page.marketStudio" onmouseover="hideAll(); showLayer('subNav_marketing'); stopTime();" onmouseout="startTime();">Marketing Solutions</a></li>
+          <li class="company"><a href="/store/driv/Corp/sectionName.company/subSectionName.aboutUs/page.aboutUs" onmouseover="hideAll(); showLayer('subNav_company'); stopTime();" onmouseout="startTime();">Company</a></li>
+          <li class="contact"><a href="/store/driv/Corp/sectionName.contact/subSectionName.contactUs/page.contactUs" onmouseover="hideAll(); showLayer('subNav_contact'); stopTime();" onmouseout="startTime();">Contact</a></li>
+          <li class="custServ"><a href="/store/driv/Content/pbPage.FrameSetCustServ/DisplayFrameSetPage/ThemeID.492200" onmouseover="hideAll(); showLayer('subNav_cs'); stopTime();" onmouseout="startTime();">Customer Service</a></li>
+        </ul>
+      </div>
+      <div class="clearit"><!-- --></div>
+    </div>
+  </div>
+</div>
+<div id="gNavUnderline"><img src="//drh.img.digitalriver.com/DRHM/Storefront/Site/driv/cm/images/images/bar_blue.gif" width="1" height="6"></div><!--!esi:include src="/servlet/ControllerServlet?Action=DisplayESIPage&SiteID=driv&StyleID=776800&StyleVersion=41&styleIncludeFile=body-section1.html"-->
+
+<!-- End Global Nav -->
+<!-- Start Sub Nav -->
+
+<!--!/esi:include -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+	
+
+	
+		<div id="subNav_home"><ul><li>&nbsp;</li></ul></div>
+		<div id="subNav_marketing"><ul><li><a href="/store/driv/Corp/sectionName.marketing/subSectionName.marketStudio/page.marketStudio" onmouseover="stopTime()" onmouseout="startTime()">marketStudio</a></li><li><a href="/store/driv/Corp/sectionName.marketing/subSectionName.emailMarketing/page.emailMarketing" onmouseover="stopTime()" onmouseout="startTime()">Email Marketing</a></li><li><a href="/store/driv/Corp/sectionName.marketing/subSectionName.bidManagement/page.bidManagement" onmouseover="stopTime()" onmouseout="startTime()">Bid Management</a></li><li><a href="/store/driv/Corp/sectionName.marketing/subSectionName.salesChannels/page.salesChannels" onmouseover="stopTime()" onmouseout="startTime()">Sales Channels</a></li><li><a href="/store/driv/Corp/sectionName.marketing/subSectionName.affiliateMarketing/page.affiliateMarketing" onmouseover="stopTime()" onmouseout="startTime()">Affiliate Marketing</a></li><li><a href="/store/driv/Corp/sectionName.marketing/subSectionName.webAnalytics/page.webAnalytics" onmouseover="stopTime()" onmouseout="startTime()">Web Analytics</a></li><li><a href="/store/driv/Corp/sectionName.marketing/subSectionName.marketForce/page.marketForce" onmouseover="stopTime()" onmouseout="startTime()">marketForce</a></li></ul></div>
+		<div id="subNav_commerce"><ul><li><a href="/store/driv/Corp/sectionName.commerce/subSectionName.commerceOverview/page.commerceOverview" onmouseover="stopTime()" onmouseout="startTime()">Commerce Solutions Overview</a></li><li><a href="/store/driv/Corp/sectionName.commerce/subSectionName.enterprise/page.enterprise" onmouseover="stopTime()" onmouseout="startTime()">Enterprise</a></li><li><a href="/store/driv/Corp/sectionName.commerce/subSectionName.smb/page.smb" onmouseover="stopTime()" onmouseout="startTime()">SMB</a></li><li><a href="/store/driv/Corp/sectionName.commerce/subSectionName.shareware/page.shareware" onmouseover="stopTime()" onmouseout="startTime()">Shareware</a></li></ul></div>
+		<div id="subNav_company" style="display: block;"><ul>
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+					<li><a href="/store/driv/Corp/sectionName.company/subSectionName.aboutUs/page.aboutUs" onmouseover="stopTime()" onmouseout="startTime()">About Us</a></li><li><a href="/store/driv/PressReleasesList/sectionName.company/subSectionName.newsEvents/categoryID.6271800" onmouseover="stopTime()" onmouseout="startTime()">News &amp; Events</a></li><li><a href="/store/driv/Corp/sectionName.company/subSectionName.testimonials/page.testimonials" onmouseover="stopTime()" onmouseout="startTime()">Clients</a></li><li><a href="/store/driv/Corp/sectionName.company/subSectionName.companies/page.companies" onmouseover="stopTime()" onmouseout="startTime()">DR Companies</a></li><li><a href="/store/driv/Corp/sectionName.company/subSectionName.management/page.management" onmouseover="stopTime()" onmouseout="startTime()">Management</a></li><li><a href="http://phx.corporate-ir.net/phoenix.zhtml?c=94762&amp;p=irol-irhome" onmouseover="stopTime()" onmouseout="startTime()">Investor Relations</a></li><li><a href="/store/driv/Corp/sectionName.company/subSectionName.careers/page.careers" onmouseover="stopTime()" onmouseout="startTime()">Careers</a></li><li><a href="/store/driv/Corp/sectionName.company/subSectionName.corpValues/page.corpValues" onmouseover="stopTime()" onmouseout="startTime()">Corporate Values and Culture</a></li><span class="subnav_active"><li><a href="/store/driv/Corp/sectionName.company/subSectionName.corpPolicies/page.corpPolicies" onmouseover="stopTime()" onmouseout="startTime()">Corporate Policies</a></li></span>
+				
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			</ul></div>
+		<div id="subNav_contact"><ul><li><a href="/store/driv/Corp/sectionName.contact/subSectionName.contactUs/page.contactUs" onmouseover="stopTime()" onmouseout="startTime()">Contact Us</a></li><li><a href="/store/driv/Corp/sectionName.contact/subSectionName.requestInfo/page.requestInfo" onmouseover="stopTime()" onmouseout="startTime()">Request Information</a></li><li><a href="/store/driv/Corp/sectionName.contact/subSectionName.directions/page.directions" onmouseover="stopTime()" onmouseout="startTime()">Directions</a></li></ul></div>
+		<div id="subNav_cs"><ul><li>&nbsp;</li></ul></div>
+	
+
+
+
+
+
+
+
+<!--!esi:include src="/servlet/ControllerServlet?Action=DisplayESIPage&SiteID=driv&StyleID=776800&StyleVersion=41&styleIncludeFile=body-section2.html"-->
+
+<!-- End Sub Nav -->
+<!-- Start Content -->
+<div id="pageAreaSub">
+  <table width="945" border="0" cellspacing="0" cellpadding="0" id="sub_content_area">
+    <tbody><tr>
+      <td class="left_content">
+<!--!/esi:include -->
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+ 	
+  	
+	<!-- Look at "extendedLongDescription" for policies -->
+	<style type="text/css">
+ul.sub_info {margin: 0 0 10px 0; padding: 10px; background: none; border: 1px solid #a3a3a3; border-top: none; width: 272px;}
+ul.sub_info li {margin-left: 10px;}
+</style>
+<div id="no_print_breadcrumbs_div">
+   <table width="659" border="0" cellspacing="0" cellpadding="0">
+      <tbody><tr>
+         <td class="left_breadcrumbs"><span class="bc_main"><a href="/store/driv/Corp/sectionName.company/subSectionName.aboutUs/page.aboutUs">Company</a></span><img src="//drh.img.digitalriver.com/DRHM/Storefront/Site/driv/cm/images/images/breadcrumb_separator.gif" width="4" height="9" class="arrow"><a href="/store/driv/Corp/sectionName.company/subSectionName.corpPolicies/page.corpPolicies">Corporate Policies</a></td>
+      </tr>
+   </tbody></table>
+</div>
+<table width="659" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+   <td class="content_main"><div id="bc_nav"><a href="#privacy" class="first_link">Privacy Policy</a> | <a href="#dmca">DMCA</a> | <a href="#piracy">Anti-Piracy Policy</a> | <a href="#vendor">Vendor Code of Conduct</a><br>
+         <a href="#illicit" class="first_link">Illicit and Inappropriate Content Policy</a> | <a href="#adult">Adult Content Policy</a> | <a href="#gambling">Gambling Policy</a></div>
+      <h3><a name="highlights" id="highlights"></a>Digital River Online Privacy Notice Highlights</h3>
+		<div id="print_content_div">
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <tbody><tr>
+            <td width="49%" align="left" valign="top">
+               <div class="overview_wrapper">
+                  <ul id="container">
+                     <li><a href="#what_personal" class="trigger">Personal Information</a></li>
+						</ul>
+						<ul class="sub_info">
+                     <li>When you request information about a product or service we will ask you to provide personal information</li>
+                     <li>We use this information to verify your identity or to prevent fraud</li>
+                     <li>We use cookies to improve the functionality of our website, and many times to provide you with a more personalized shopping experience.</li>
+						</ul>
+						<ul id="container">
+                     <li><a href="#use_of_info" class="trigger">Use of Information</a></li>
+						</ul>
+						<ul class="sub_info">
+						   <li>Digital River uses the information we collect to provide you with:
+						      <ul>
+						         <li>a personalized shopping experience</li>
+						         <li>product updates or special offers that you request. </li>
+					         </ul>
+						   </li>
+						   <li>If you complete an order we use your information to process or deliver your order</li>
+						   <li>We will not share your personal information with our affiliates or unrelated 3rd parties without your consent.</li>
+						</ul>
+						<ul id="container">
+                     <li><a href="/store/driv/Corp/sectionName.contact/subSectionName.contactUs/page.contactUs" class="trigger">How to Contact Us</a></li>
+                  </ul>
+						<ul class="sub_info">
+						   If you would like to review, correct or challenge your personal information, please <a href="/store/driv/Corp/sectionName.contact/subSectionName.contactUs/page.contactUs">contact us</a>.
+						</ul>
+               </div></td>
+            <td width="2%" align="left" valign="top"><!-- --></td>
+            <td width="49%" align="left" valign="top">
+               <div class="overview_wrapper">
+                  <ul id="container">
+                     <li><a href="#your_choices" class="trigger">Your Choices</a></li>
+						</ul>
+						<ul class="sub_info">
+						   <li>We generally ask you to indicate your choices as to whether you would like to receive further communications from us at the time and on the page where you provide your personal information.</li>
+						   <li>We may also ask if you would like to be added to our Partner’s mailing lists.</li>
+						   <li>You have the right to withdraw your consent at any time. If you decide you no longer want to receive promotional messages from us by following any unsubscribe link in our emails or contacting us.</li>
+						</ul>
+						<ul id="container">
+                     <li><a href="#privacy" class="trigger">Important Information</a></li>
+                  </ul>
+						<ul class="sub_info">
+						   This policy provides highlights of the full <a href="#privacy">Digital River Privacy Policy</a>. This notice and the full privacy statement apply to Digital River websites and services that display or link to this notice.
+						</ul>
+               </div></td>
+         </tr>
+      </tbody></table>
+		<h3><a name="privacy" id="privacy"></a>Privacy Policy</h3>
+      <h4><strong>DIGITALRIVER.COM PRIVACY POLICY</strong></h4>
+      <p><strong>IMPORTANT:&nbsp; PLEASE REVIEW THIS DIGITALRIVER.COM PRIVACY POLICY BEFORE SUBMITTING ANY PERSONAL INFORMATION TO DIGITAL RIVER THROUGH THIS WEB SITE.&nbsp; </strong></p>
+      <p><strong>BY SUBMITTING PERSONAL INFORMATION TO DIGITAL RIVER THROUGH THIS WEB SITE, YOU ARE CONSENTING TO THE COLLECTION, USE, TRANSFER, AND DISCLOSURE OF YOUR PERSONAL INFORMATION AS DESCRIBED IN THIS PRIVACY POLICY.</strong></p>
+      <p><strong>This Privacy Policy is effective as of April 4, 2007.&nbsp; </strong></p>
+      <p><strong>Digital River Operates This Web Site </strong></p>
+      <p>This Web site is hosted and operated by Digital River, Inc. (“we,” “us,” and “our”), an independent e-commerce reseller.&nbsp; </p>
+      <p><strong>Scope of This Privacy Policy </strong></p>
+      <p>This digitalriver.com Privacy Policy (this “Privacy Policy”) describes how Digital River protects your privacy when you use this Web site.</p>
+      <p>This Privacy Policy applies only to personal information collected through Digital River Web sites.&nbsp; “Personal information” means information that identifies you personally, either alone or in combination with other information available to us.</p>
+      <p><strong>Privacy Notices</strong></p>
+      <p>This Privacy Policy may be supplemented or amended from time-to-time by “Privacy Notices” posted on this Web site.&nbsp; These Privacy Notices provide a level of detail that we cannot provide in this more general description of our privacy practices.&nbsp; For example, certain pages of this Web site contain Privacy Notices providing details about the personal information we collect on those pages, why we need that information, and choices you may have about the ways we use that information. &nbsp;</p>
+      <p><strong>Country-Specific Notices</strong></p>
+      <p>Privacy requirements vary from country-to-country.&nbsp; To meet these requirements, we have included certain “Country-Specific Notices” as part of this Privacy Policy.&nbsp; You may locate the Country-Specific Notice for your country, if there is one, by scrolling to the end of this Privacy Policy.<strong></strong></p>
+      <p><strong>This Privacy Policy May Change</strong></p>
+      <p>We reserve the right to update or modify this Privacy Policy, at any time and without prior notice, by posting the revised version of this Privacy Policy on this Web site.&nbsp; These changes will only apply to personal information we collect after we have posted the revised Privacy Policy.&nbsp; Your use of this Web site following any such change constitutes your agreement that all personal information collected from or about you through this Web site after the revised Privacy Policy is posted will be subject to the terms of the revised Privacy Policy.&nbsp; </p>
+      <p>To alert you to these changes, we will update the effective date of this Privacy Policy.&nbsp; We will also provide a notice at the top of this Privacy Policy for at least 30 days after the new effective date and highlight the changes so that you can locate them easily.&nbsp; Unless the change is a minor change (such as a change in our contact information) or a non-substantive change (such as the reformatting of our Privacy Policy), we will post notices on the page where you submit your order and/or on other relevant pages of this Web site for 30 days after the new effective date to alert you to the change. </p>
+      <p><a name="what_personal"></a><strong>What Personal Information Do We Collect Through this Web site?</strong></p>
+      <p><em>Information You Volunteer.</em>&nbsp; We collect the personal information you knowingly and voluntarily provide when you use this Web site, for example, the information you provide when you request information about products or services.&nbsp; This information may include your name, street and e-mail address, phone number, credit card information, and information used to verify your identity or to prevent fraud.&nbsp; </p>
+      <p><em>Information Sent to Us by Your Web Browser.&nbsp; </em>We collect information that is sent to us automatically by your web browser.&nbsp; This information typically includes your IP address, the address of the web page you were visiting when you accessed this Web site, the name of your operating system (such as Windows® or Macintosh®), the name and version of your browser (such as Netscape® or Internet Explorer®), and the date and time of your visit.&nbsp; The information we receive depends on the settings on your web browser.&nbsp; Please check your browser if you want to learn what information your browser sends or how to change your settings.&nbsp; </p>
+      <p>The information provided by your browser does not identify you personally.&nbsp; We use this non-personal information primarily to create statistics that help us improve the Digital River Web sites and make them more compatible with the technology used by our visitors.&nbsp;&nbsp; However, if you have created a user identity on one of your visits to this Web site, we may link the information provided by your browser to information that identifies you personally and use it for the purposes described below.&nbsp; In addition, we may review our server logs for security purposes, such as detecting intrusions into our network.&nbsp; If we suspect criminal activity, we might share our server logs -- which contain visitors’ IP addresses -- with the appropriate investigative authorities who could use that information to trace and identify individuals. </p>
+      <p><em>Information Collected Using “Cookies” and Other Web Technologies.</em>&nbsp; We use “cookies,” and similar technologies, such as Web Beacons (also referred to as “tracking pixels,” or “action tags”), to collect personal information and support the functionality of this Web site.&nbsp; For more information about our use of cookies and Web Beacons, see below.</p>
+      <p><strong>Cookies and Web Beacons</strong></p>
+      <p><em>Cookies and Web Beacons</em>.&nbsp; A “cookie” is a small text file that is transferred to your computer by our Web server.&nbsp; We may use two types of cookies -- “session cookies” and “persistent cookies.” </p>
+      <p><em>Session Cookies</em>.&nbsp; A “session cookie” is a temporary cookie that expires when you close your browser.&nbsp; A session cookie assigns a randomly-generated, unique identification number to your computer when you access one of our Sites.&nbsp; Assigning your computer a number facilitates the proper functioning of the features of our Web sites, by permitting us to maintain a persistent “state” for your session, such as, maintaining the contents of your shopping basket during checkout.&nbsp; We also use session cookies to collect information about the ways visitors use this Web site – which pages they visit, which links they use, and how long they stay on each page.&nbsp; We analyze this information (known as “click-stream information”) to better understand our visitors’ interests and needs and to improve the content and functionality of this Web site.&nbsp; </p>
+      <p>Sessions cookies do not contain your personal information.&nbsp; If, however, you have created a user identity on one of your visits to this Web site, we may link the session cookie identification number to information that identifies you personally.</p>
+      <p><em>Persistent Cookies.</em>&nbsp; When you visit this Web site, we may place one or more “persistent cookies” on your computer.&nbsp; Unlike a “session cookie,” a persistent cookie does not expire when you close your browser.&nbsp; It stays on your computer until it expires (for example, at the end of the calendar year) or until you delete it.&nbsp; </p>
+      <p>Some persistent cookies simply “tag” your computer so that the next time you visit (or someone using your computer visits), our server will recognize you, not by name, but by the “tag” on your computer.&nbsp; This will enable us to provide you with a personalized experience even if we do not know who you are.&nbsp; It will also allow us to collect more accurate information about the ways people use this Web site, for example, how people use this Web site on their first visit and how often they return.&nbsp; If, at some point, you create a user identity, we may link the information collected by these persistent cookies to information in our database that identifies you personally.&nbsp; We may also transfer this information to a cookie and place it on your computer’s hard drive so that our web server can read this information each time you visit this Web site.&nbsp; In either case, using persistent cookies permits us to provide you with a more personalized shopping experience and, in some cases, may save you the trouble of re-entering information already in our database.&nbsp;&nbsp; </p>
+      <p>If you do not wish to receive cookies, you may set your browser to reject cookies or to alert you when a cookie is placed on your computer.&nbsp; You may also delete our cookies as soon as you leave our Web site.&nbsp; Although you are not required to accept our cookies, if you set your browser to reject cookies, you will not be able to use all of the features and functionality of this Web site.&nbsp; For example, you will not be able to purchase products and services on this Web site.</p>
+      <p><em>Web Beacons</em>.&nbsp;&nbsp; Web beacons (also referred to as “tracking pixels” or “action tags”) are graphic images, usually no larger than 1 pixel x 1 pixel, placed at various locations on our Site.&nbsp; Web beacons help us recognize the cookies on your browser.&nbsp; Like cookies, Web beacons help us collect information about the ways visitors use our Sites.&nbsp; They also help us identify browser types, IP addresses, search terms that bring visitors to our Sites, and the domain names of the Web sites that refer traffic to us.&nbsp; The information collected by Web beacons does not identify you personally.&nbsp; However, if you have created a user identity on one of your visits to this Web site, for example, by making a purchase, we may link the information we collect using Web beacons to the information that identifies you personally and use it in the same ways as we use the information we collect using cookies.&nbsp; Lastly, we utilize web beacons to provide us with more information on any emails we send out, in particular, the web beacons will send us information to let us know that you have received and opened any e-mail you have chosen to receive from us.</p>
+      <p><a name="use_of_info"></a><strong>How Do We Use Your Personal Information?</strong></p>
+      <p>Digital River uses the personal information we collect on this Web site: </p>
+      <ul>
+         <li>for lead generation;</li>
+         <li>if you’ve made a purchase from one of our other sites and came to this site;</li>
+         <li>to take, process or deliver your order, process or obtain payment, or notify you of the status of your order;</li>
+         <li>in connection with keys, access codes or other information as may be required to permit you to access Partner Web sites to receive products, updates or services;</li>
+         <li>for security, credit or fraud prevention purposes;</li>
+         <li>to register your purchase with the manufacturer or service provider for warranty, technical support or similar purposes;</li>
+         <li>to facilitate the renewal of subscriptions for products or services; </li>
+         <li>to provide you with effective customer service and/or technical support; </li>
+         <li>to provide you with a personalized shopping experience;</li>
+         <li>to provide you, with your consent, with product updates and upgrades, special offers, pricing information, newsletters, and any other information you request;</li>
+         <li>to undertake, with your consent, any other promotional activities; and</li>
+         <li>to improve this Web site, the customer experience, and related products or services.</li>
+      </ul>
+      <p>In addition, we may use specific personal information for the purposes identified in a specific Privacy Notice posted on the page or area of this Web site where you provided that information.&nbsp; </p>
+      <p>We may remove all of the information that identifies you specifically and use the rest for historical, statistical or scientific purposes.&nbsp; </p>
+      <p><strong>With Whom Do We Share Your Personal Information?</strong></p>
+      <p><em>Our Partners</em>.&nbsp; Digital River is an independent e-commerce reseller.&nbsp; If you are coming to this Site to contact us regarding a product or service you purchased from another Site, we provide your personal information to the Partner whose name and logo appear on that Web site.&nbsp; We may share your personal information in order to register your purchase with the Partner whose name and logo appear at the top of each page of this Web site (or that Partner’s service provider) for warranty, technical support, after sales service, or similar purposes.&nbsp; We also pass on to our Partner the privacy preferences you have expressed on our Web site. For example, if you have asked to be added to our Partner’s mailing lists, we will pass on that information.&nbsp; If you have declined an opportunity to be added to our Partner’s mailing lists, we will also pass on that information.&nbsp; We do not provide your credit card information to our Partner unless you have purchased a subscription that qualifies for automatic renewal (see below).&nbsp; Our Partner’s privacy policy will govern how our Partner uses and protects your personal information.&nbsp; </p>
+      <p><em>Our Service Providers</em>.&nbsp; Digital River employs other companies, including our affiliates, to provide services to us or on our behalf.&nbsp; For example, we may use other companies to maintain this Web site, to process credit card payments, detect and prevent fraud, deliver packages, send mail or e-mail, or provide customer service.&nbsp; These companies are required by contract to use the personal information we share with them only to perform services to us or on our behalf and to protect the confidentiality of your personal information.&nbsp; </p>
+      <p><em>As Disclosed in a Privacy Notice</em>.&nbsp; We may share specific personal information as disclosed in a specific Privacy Notice posted on the page or area of this Web site where you provided that information. </p>
+      <p><em>For Marketing Purposes</em>.&nbsp; We will not share your personal information with our affiliates or unrelated third parties to use for their own marketing purposes without your consent.&nbsp; </p>
+      <p><em>To Comply With Legal Requirements, Cooperate With Law Enforcement, Prevent Fraud and Other Crimes, and Protect Legal Rights, Property, You and Others.&nbsp; </em>There are other limited circumstances in which we may share the personal information in our databases with unrelated third parties.&nbsp; For example, we may disclose the personal information we collect on this Site without notifying you when we, in good faith, believe disclosure is appropriate to comply with the law or a regulatory requirement; to comply with a subpoena or court order; to cooperate with law enforcement or other governmental investigations (without necessarily requiring the law enforcement or government agency requesting the information to formally serve us with a subpoena); to prevent or investigate a possible crime, such as fraud or identity theft; to enforce a contract; to protect the legal rights, property or safety of Digital River, our affiliates, our employees, agents, other users or the public in general or to protect your vital interests.&nbsp; We also reserve the right to report to appropriate law enforcement or government agencies any activities that we, in good faith, believe to be unlawful without providing notice to you.&nbsp; <br>
+         &nbsp; <br>
+         <em>In Connection With Corporate Events</em>.&nbsp; We may transfer your personal information to another company (either an affiliate of Digital River or an unrelated third party) that has acquired the stock or assets of Digital River, one of our affiliates, or one of our operating divisions, for example, as the result of a sale, merger, reorganization, insolvency, dissolution or liquidation.&nbsp; If such a transfer occurs, the acquiring company’s use of your personal information will still be subject to this Privacy Policy, any applicable Privacy Notices, and the privacy preferences you have expressed to us.&nbsp; </p>
+      <p><a name="your_choices"></a><strong>Your Choices</strong></p>
+      <p>Digital River respects your right to make choices about the ways we collect, use and disclose your personal information.&nbsp; We generally ask you to indicate your choices at the time and on the page where you provide your personal information. </p>
+      <p>When you provide personal information, we may offer you a choice as to whether you would like to receive further communications from us about certain updates, upgrades, special offers and pricing.&nbsp; We may also ask if you would like to be added to our Partner’s mailing lists.&nbsp; You have the right to withdraw your consent at any time.&nbsp; If you decide you no longer want to receive promotional messages from us, you may let us know by e-mailing us at <a href="mailto:remove@digitalriver.com">remove@digitalriver.com</a> or by following any unsubscribe link in our emails. Please note, however, if you give us permission to add your contact information to our Partner’s mailing list and later withdraw your permission, you will have to contact our Partner (or use the “opt-out” provided in the e-mails our Partner sends you) to have your name removed from our Partner’s mailing lists.</p>
+      <p><strong>How Can You Access and Correct Your Personal Information?</strong> </p>
+      <p>We strive to maintain the accuracy and integrity of the personal information in our databases and to keep that information up-to-date.&nbsp; We provide ways for you to access your personal information as required by applicable law, so that you can correct inaccuracies or update your personal information.&nbsp; We generally do not charge for this service, however, we reserve the right to charge a fee as permitted by applicable law. </p>
+      <p>If you would like to review, correct or challenge your personal information, please contact us by postal mail addressed to Digital River’s Privacy Department, 9625 W. 76th Street, Suite 150, Eden Prairie, MN 55344 or by e-mail at <a href="mailto:privacy@digitalriver.com">privacy@digitalriver.com</a>.&nbsp; You may write to us in your own language.&nbsp; </p>
+      <p>We will respond to reasonable requests within the time limits established by applicable law or within a reasonable time if no time limit is established by applicable law.&nbsp; For your protection, we may ask you for additional information to verify your identity.&nbsp; In most cases, we will provide the access you request and correct or delete any inaccurate personal information you discover.&nbsp; We reserve the right, however, to limit or deny your request to the extent permitted by applicable law if: 1) the disclosure may harm the life, the body, the property and the rights of third parties, 2) the disclosure may lead to a breach of applicable law and regulation, or 3) where you have failed to provide sufficient evidence to verify your identity.</p>
+      <p><strong>How Do We Protect Your Personal Information?</strong><br>
+         We have industry standard measures in place to protect the security of the personal information we collect through this Web site.&nbsp; </p>
+      <p>It is important that you understand, however, that no Web site or database is completely secure or “hacker proof.”&nbsp; You are also responsible for taking reasonable steps to protect your personal information against unauthorized disclosure or misuse, for example, by protecting your password.&nbsp; </p>
+      <p><strong>Where Will Your Personal Information be Processed?&nbsp; </strong></p>
+      <p>Digital River is a global corporation comprised of Digital River, Inc. and its subsidiaries.&nbsp; Digital River, Inc. is a U.S. Corporation with offices at 9625 West 76th Street, Eden Prairie, Minnesota, 55344, U.S.A. Most Digital River Sites or Stores are currently hosted on servers located within the United States, but the locations of our servers may change from time-to-time.&nbsp; Your personal information may be stored on servers located within the United States, Ireland, or in another country.&nbsp; </p>
+      <p>In addition, Digital River may transfer your personal information to its Partners, service providers, product manufacturers, licensers, suppliers, and others located in the United States or another country for the purposes as described in this Privacy Policy.&nbsp; </p>
+      <p>Different countries have different privacy laws and requirements.&nbsp; Please know, however, that no matter where your personal information is collected, used, transferred or stored, if it was collected through this Web site, it will be protected by the terms of this Privacy Policy and any Privacy Notices that apply to you.</p>
+      <p>BY SUBMITTING YOUR PERSONAL INFORMATION TO US THROUGH THIS WEB SITE, YOU ARE CONSENTING TO THE PROCESSING OF YOUR PERSONAL INFORMATION IN THE UNITED STATES OR IN ANY OTHER COUNTRY IN THE WORLD.&nbsp; </p>
+      <p><strong>How Long Do We Retain Your Personal Information?</strong></p>
+      <p>We keep your personal information only as long as we need it for the purposes for which it was originally collected (or to which you have subsequently consented) or for other legitimate purposes (such as regulatory compliance), or as permitted by applicable law.&nbsp; </p>
+      <p><strong>Links to Other Web Sites</strong></p>
+      <p>This Web site contains links to other Web sites operated by Digital River and its affiliates.&nbsp; This Web site may also contain links to Web sites that are owned and operated by unrelated third parties.&nbsp; </p>
+      <p>This Privacy Policy applies only to personal information collected through the Digital River Web sites, that is, the Digital River Web sites on which this Privacy Policy is posted.&nbsp; It does not apply to personal information collected on any other Web site operated by Digital River, nor to personal information collected on our Partners’, service providers’ or any other Web sites.&nbsp; When you access other Web sites through a link on this Web site, please take a few minutes to review the terms of use and privacy statement posted on each Web site you visit. </p>
+      <p><strong>Children’s Privacy</strong></p>
+      <p>Our Web site is not directed at nor targeted to children.&nbsp; No one who has not reached the age of majority in his or her country may use this Web site unless supervised by an adult.&nbsp; </p>
+      <p> We do not use our Web site to knowingly solicit personal information from or market to anyone under the age of majority in his or her country.&nbsp; Our goal is to comply with applicable laws and regulations relating to collection and use of information from children, including the Children’s On-line Privacy Protection Act of the United States and other applicable laws or regulations.&nbsp; If you believe that we have received information from a child or other person protected under such laws, please notify us immediately by postal mail addressed to Digital River’s Privacy Department, 9625 W. 76th Street, Suite 150, Eden Prairie, MN 55344 or by email at <a href="mailto:privacy@digitalriver.com">privacy@digitalriver.com</a>, and we will take reasonable steps to remove that information from our databases.&nbsp; </p>
+      <p><strong>Governing Law</strong></p>
+      <p>This Privacy Policy and our Privacy Notices are governed by the laws of the State of Minnesota, United States of America, without regard to its conflict of law principles.&nbsp; </p>
+      <p><strong>Questions Concerning Our Privacy Practices</strong></p>
+      <p>If you have any questions, comments, or concerns regarding this Privacy Policy or our privacy practices, please contact us by postal mail addressed to Digital River’s Privacy Department, 9625 W. 76th Street, Suite 150, Eden Prairie, Minnesota 55344, U.S.A. or by email at <a href="mailto:privacy@digitalriver.com">privacy@digitalriver.com</a>.&nbsp; You may write to us in your own language.&nbsp; </p>
+      <h4>Country-Specific Privacy Notices </h4>
+      <p><strong>(All EEA Countries)</strong></p>
+      <p><em>Where Will Your Personal Information Be Processed?&nbsp; </em><br>
+         Digital River is a global corporation comprised of Digital River, Inc. and its subsidiaries.&nbsp; Digital River, Inc. is a U.S. Corporation with offices at 9625 W. 76th Street, Suite 150, Eden Prairie, Minnesota 55344 U.S.A. Most Digital River Web Stores are currently hosted on servers located within the United States, but the locations of our servers may change from time-to-time.&nbsp; </p>
+      <p> Your personal information may be stored on servers located within the United States or in another country.&nbsp; In addition, Digital River may transfer your personal information to its Partners, service providers, product manufacturers, licensers, suppliers, and others located in the United States or another country located outside the European Economic Area (“EEA”) as described in this Privacy Policy.&nbsp; </p>
+      <p> You should note that, at present, the laws of the United States and other countries outside the EEA (except for Argentina, Canada, Isle of Man, Guernsey, and Switzerland) have not been approved by the European Commission as providing “adequate protection” for personal information within the meaning of the EU Data Protection Directive (95/46/EC). </p>
+      <p> Please know, however, that no matter where your personal information is collected, used, transferred or stored, if it was collected through one of our Web Stores, it will be protected by the terms of this Privacy Policy and any Privacy Notices that apply to you.<br>
+         BY ACCESSING OUR WEB STORE FROM A COUNTRY IN THE EEA AND SUBMITTING YOUR PERSONAL INFORMATION TO US, WE DEEM THAT YOU ARE CONSENTING TO THE PROCESSING OF YOUR PERSONAL INFORMATION IN THE UNITED STATES OR IN ANY OTHER COUNTRY OUTSIDE THE EEA.&nbsp; </p>
+      <p><strong>Japan</strong></p>
+      <p><em>About Digital River</em> <em>KK</em>.&nbsp; Digital River KK is a subsidiary of Digital River, Inc., a U.S. corporation with offices at 9625 W. 76th Street, Suite 150, Eden Prairie, Minnesota 55344 U.S.A.&nbsp; Digital River Japan is a KK corporation, with offices located at 10F, Shinjuku Mitzui, Building #2, 3-2-11, Nishi Shinjuku, Shinjuku-ku Tokyo, Japan.&nbsp;</p>
+      <p> <em>How We Collect, Use, Share and Protect Your Personal Information</em>.&nbsp; When you access and use this Site, Digital River Japan will collect, use, share, and protect your personal information in accordance with the terms of this Privacy Policy and the Privacy Notices posted on this Site.&nbsp; Our Privacy Policy provides general information about our privacy practices; the Privacy Notices on this Site provide specific information about the ways we use and share (and your choices about the ways we use and share) the personal information we collect on this Site.</p>
+      <p> <em>Joint Use</em>.&nbsp; Digital River is an independent e-commerce reseller.&nbsp; Each of our Web sites is co-branded with the name and trademarks of one of our Partners.&nbsp; We provide the personal information we collect on a particular Web site with the Partner for that Web site.&nbsp; We also pass on to our Partner the privacy preferences you have expressed on our Web site. For example, if you have asked to be added to our Partner’s mailing lists, we will pass on that information.&nbsp; If you have declined an opportunity to be added to our Partner’s mailing lists, we will also pass on that information.&nbsp; We do not provide your credit card information to our Partner unless you have purchased a subscription that qualifies for automatic renewal (<u>see below</u>).&nbsp; Digital River [Japan] and the Partner jointly use your personal information.&nbsp; Our Partner’s privacy policy governs our Partner’s use of the personal information we share with them.&nbsp; You may review our Partner’s privacy policy at any time by clicking on the link at the bottom of each page of the Web site.&nbsp; You may contact our Partner using the contact information provided in our Partner’s privacy policy. </p>
+      <div id="back_to_top"><a href="#top" class="green_button2">Back to Top</a></div>
+	<h3><a name="dmca" id="dmca"></a>DMCA Notice</h3>
+        <p>Digital River, Inc. and its affiliated companies respect the intellectual property of others and expect the users of our services to do the same.</p>
+        <p><b>Procedure for Making Copyright Infringement Claims:</b><br>
+          If you believe that your copyrighted work has been copied in a way that constitutes copyright infringement and is accessible on this site or through this service, you may notify our copyright agent, as set forth in the Digital Millennium Copyright Act of 1998 (DMCA). For your complaint to be valid under the DMCA, you must provide the following information when providing notice of the claimed copyright infringement:</p>
+        <ul>
+           <li>A physical or electronic signature of the copyright owner(s) or a person authorized to act on his/her behalf.</li>
+           <li>Identification of the copyrighted work claimed to have been infringed.</li>
+           <li>Identification of the material that is alleged to be infringing.</li>
+           <li>The contact information of the person filing the Notice.</li>
+           <li>A statement from the person filing the Notice that they have a good faith belief that the material is infringing.</li>
+           <li>A statement explaining that a) the provided information in the Notice is accurate, b) under penalty of perjury, the person filing the Notice is the copyright owner or that he/she is authorized to act on behalf of the copyright owner. </li>
 </ul>
-<p><b>Use of Personal Information</b></p>
-<p>Personal information provided to us may be transferred worldwide within Digital River or to third-parties providing services to Digital River including but not limited to across borders, from your country or collective area to other countries or collective areas around the world.</p>
-<p>Some of the ways in which we will use the personal information provided us include: </p>
-<p>a) to take, process or deliver
-      your order, process or obtain payment or notify you of the status of your
-    order;</p>
-<p>b)
-  in connection with keys, access codes or other information as may be required
-   to permit you to access our partners’ sites to receive products, updates
-  or services;</p>
-<p>c) to provide it to industry and credit related organizations
-    for security, credit or fraud prevention purposes;</p>
-<p>d) to register your purchase
-    with the manufacturer or service provider for warranty, technical support
-  or similar purposes;</p>
-<p>e)	to facilitate the renewal of subscriptions for products
-    or services; </p>
-<p>f)	to provide you with effective customer service and/or technical support; </p>
-<p>g)	to monitor service or purchasing
-    patterns;</p>
-<p>h)	to provide you with service updates, announcements, and other
-    product offerings;</p>
-<p>i) to send you, with your consent, newsletters or promotional
-    emails or undertake other promotional activities; </p>
-<p>j) to permit you to
-    participate in online surveys and polls, assuming you voluntarily agree to
-    provide such information in connection
-                   with these surveys
-                  and polls; and</p>
-<p>k) to improve Digital River’s websites, the customer experience and any related products or services.</p>
-<p>We will take reasonable steps to ensure any person or entity receiving personal information for the purposes described above, are obligated to protect the personal information on your behalf. By submitting your order either to our partner or to us you consent to the use of your personal information as set forth above, and to the transfer of that data to our partners or those individuals or entities we engage to provide services in connection with your transaction.</p>
-<p><b>Management of Personal Information</b></p>
-<p>Digital River tries hard to keep personal information accurate and up-to-date.  If you find that your personal information is not accurate, please let us know.  Digital River will use best efforts to investigate your concerns after we receive your inquiry and make the necessary corrections, additions and/or deletions.</p>
-<p><b>Disclosure of Personal information</b></p>
-<p>Digital River discloses your personal information directly to you upon your request; provided, however, that we may reject all or part of your request when: 1) the disclosure may harm the life, the body, the property and the other rights of yourself or the third parties, 2) the disclosure may lead the remarkable difficulties to the appropriate operation of our business or 3) the disclosure may lead a breach of the other laws and regulations.</p>
-<p><b>Cookies and WebBeacons </b></p>
-<p>We may use “Cookies” and other tracking technologies such as web beacons. “Cookies” are small text files that are transferred to your computer’s hard disk by the website.      Digital River’s cookies are used to identify a computer or browser, not to identify specific customer traits. If you do not want cookies in your browser, you may set your browser to reject cookies or to notify you when a website attempts to place a cookie in your browser. </p>
-<p>WebBeacons (also referred to as GIF files, pixels or action tags) help Digital River recognize a unique cookie on your browser.  We use this tool to compile aggregate information about you, and it is not personally identifiable.  This information includes IP addresses, search terms, domain names, and browser types. We use this information to track usage and other patterns on our Websites. We may share this aggregate information with our partners or service providers.</p>
-<p><b>Sharing Personal Information</b></p>
-<p>Digital River may receive personally identifiable information either from you directly or from our partner or supplier who provides us with the personal information to fulfill a service to you on their behalf. In some circumstances, personal information that Digital River receives from you directly may be provided to our partners or suppliers in order for them to fulfill a service to us for your benefit or directly to you. We may also provide your information in order to register your purchase with the manufacturer or service provider for warranty, technical support or similar purposes.</p>
-<p>Digital River also employs other companies to provide services to us in connection with your transaction. We do use companies to process credit card payments, deliver packages, send mail, analyze data, provide marketing aid and assistance, provide customer service, and otherwise provide services to us to enable us to serve you and enhance our services. These organizations may have access to personal information as required to permit them to perform their obligations to us.   Personal information may be stored and processed in the United States or any other country in which Digital River or its affiliates, subsidiaries, agents or partners maintain offices, and you consent to any transfer of this information outside of the country in which you reside by your use of this site.  </p>
-<p>Digital River may be required to respond to subpoenas, court orders or be asked to respond to other legitimate requests for your personal information from appropriate law enforcement or governmental authorities. We will not provide you with notice of such requests. In such situations, we will release personally identifiable information to third parties when we believe it is appropriate for us to do so in order to comply with the law or to protect against fraud. We will also release such information:  </p>
-<p>(a) to cooperate with law enforcement or other governmental investigations (without necessarily requiring the law enforcement or government agency requesting the information to formally serve us with a subpoena);  </p>
-<p>(b) to comply with all valid court orders or subpoenas;  </p>
-<p>(c) to protect the legal rights of Digital River, its employees and our users;  </p>
-<p>(d) when we believe it is needed for fraud protection and/or credit risk reduction; and/or,  </p>
-<p>(e) to protect the personal safety of our employees, agents, other users or the public in general.  </p>
-<p>Digital River also reserves the right to report to such entities any activities that we believe to be unlawful. Any such report of the activities outline in (a) thorugh (e) will be made without prior notice to you, and you consent to such disclosure by us.  </p>
-<p>In the event Digital River merges with another entity, is acquired by another entity, or enters into a business combination with another entity, Digital River may be required to disclose  some or all of your personally identifiable information to that entity to continue serving you.  </p>
-<p>Digital River is not in the business of selling, trading or renting personal information.  We will not use or share your personally identifiable information with others except those individuals or entities which have a business relationship with Digital River. </p>
-<p><b>Children’s Privacy </b></p>
-<p>This site is not aimed to attract children and its objective is not to collect personal information from children. Anyone under the age of 18 should not use this site unless supervised by an adult.  Digital River’s goal is to comply with applicable laws and regulations relating to collection and use of information from children, including the Children’s On-line Privacy Protection Act of the United States.</p>
-<p><b>Security of Personal Information </b></p>
-<p>Customers who buy through the Digital River system are shopping on a secure server which encrypts customer’s credit card information and passwords.  This makes it difficult, if not impossible, for a third party to access or use your personal information in an unauthorized manner. </p>
-<p>Digital River has developed its service with security as a top priority. We use firewalls to help prevent access to information in our system and Secure Socket Layers (“SSL”) to encrypt your personal information and protect it from disclosure, destruction, modification, or use.</p>
-<p><b>Your Choices</b></p>
-<p>You can decide whether or not to provide personal information to Digital River.  However, if you do not provide personal information you may not be able to make purchases, enlist services or access certain offers or options that may be of benefit to you.  At the time you provide your information, we will offer you a choice as to whether or not you wish to receive further communications about special offers, product information, or other marketing messages. We may provide this information to our business partners and suppliers. If you choose not to receive these communications, we will not use your personally identifiable information for this purpose.</p>
-<p>You may choose to unsubscribe from notices of special offers described in the preceeding paragraph. Digital River provides you with the ability to unsubscribe at any time by emailing us at <a href="mailto:remove@digitalriver.com">remove@digitalriver.com</a>, or by following any “unsubscribe” link.</p>
-<p><b>Changes to this Privacy Statement</b></p>
-<p>Digital River may amend this Privacy Statement from time-to-time. We will notify you of such amendments or changes by updating the “Effective Date” at the top of this Privacy Statement.</p>
-<p><b>Digital River Contact Information</b></p>
-<p>If you would like to contact us with questions or comments concerning our Privacy Statement or if you feel your inquiry or request has not been addressed to your satisfaction, please contact Digital River’s Privacy Department via e-mail <a href="mailto:privacypolicy@reply.digitalriver.com">privacypolicy@reply.digitalriver.com</a> or via mail:  Digital River’s Privacy Department, 9625 W. 76th Street, Suite 150, Eden Prairie, MN 55344.</p>
-<p>&nbsp;</p>
+        <p>The above information must be submitted as a written notification to the following Designated Agent:<br>
+          <b>Service Provider(s): </b>Digital River, Inc., www.regnow.com, www.regsoft.com, www.digibuy.com, www.ccnow.com, www.freemerchant.com, www.safeshopper.com, www.mainstreet-stores.com, www.simtel.com, www.digitalriver.com, www.regsoft.net, www.topdownloads.com </p>
+        <p><b>Name of Agent Designated to Receive Notification of Claimed Infringement: Carla Condiff Schaumann</b> <br>
+           <b>Address of Designated Agent:</b> 9625 West 76th Street, Eden Prairie, MN 55344<br>
+           <b>Attn:</b> DMCA Office <br>
+           <b>Telephone Number of Designated Agent:</b> (952) 253-1234 <br>
+           <b>Facsimile Number of Designated Agent:</b> (952) 674-4444     - Attention: DMCA Office <br>
+           <b>Email Address of Designated Agent:</b> <a href="mailto:dmca@digitalriver.com"><b>dmca@digitalriver.com</b></a></p>
+        <p>WE CAUTION YOU THAT UNDER FEDERAL LAW, IF YOU KNOWINGLY MISREPRESENT     THAT ONLINE MATERIAL IS INFRINGING, YOU MAY BE SUBJECT TO HEAVY CIVIL PENALTIES. THESE INCLUDE MONETARY DAMAGES, COURT COSTS, AND ATTORNEYS’ FEES INCURRED BY US, BY ANY COPYRIGHT OWNER, OR BY ANY COPYRIGHT OWNER’S     LICENSEE THAT IS INJURED AS A RESULT OF OUR RELYING UPON YOUR     MISREPRESENTATION. YOU MAY ALSO BE SUBJECT TO CRIMINAL PROSECUTION FOR     PERJURY.</p>
+                <p>This information should not be construed as legal advice, for further     details on the information required for valid DMCA notifications, see 17     U.S.C. 512(c)(3).</p>
+                <p>NOTE: This information is provided exclusively for notifying the     service providers referenced above that your copyrighted material(s) might have been infringed. All other inquiries, including technical requests, reports of e-mail abuse and third-party reports of piracy, will not receive     a response through this process.</p>
+        <div id="back_to_top"><a href="#top" class="green_button2">Back to Top</a></div>
+        <h3><a name="piracy" id="piracy"></a>Anti-Piracy Policy:</h3>
+        <p>All Digital River, Inc. services may be used for lawful purposes only. Transmission, storage, or presentation of any information, data or material in violation of any United States Federal, State or City law is prohibited. This includes, but is not limited to: copyrighted material, material we judge to be inappropriate, threatening, obscene, or of adult content. Or, material protected by trade secret and other statute. For the purposes of this document, it is focused on anti-piracy.</p>
+        <p>Piracy of any software or products is prohibited on all DR sites. This includes sites that sell the product directly or link to piracy sites/products elsewhere. </p>
+        <p><strong>What is Piracy?</strong></p>
+        <ol start="1" type="1">
+           <li>The illegal copying and distribution of copyrighted or patented material.</li>
+           <li>The use of a product beyond the terms of its license.</li>
+           <li>Any attempt to reproduce the product illegally and make the packaging look like the original, but is counterfeit.</li>
+           <li>Any site whose revenue is gained all or in part from its piracy products.</li>
+           <li>Revenue-generating hyperlinks to sites that violate any part of descriptions 1-4.</li>
+        </ol>
+        <p>Digital River, Inc. reserves the right to decide what it considers “piracy.”<br>
+           Digital River, Inc. reserves the right to review or revise this policy at any time without notice.</p>
+        <div id="back_to_top"><a href="#top" class="green_button2">Back to Top</a></div>
+        <h3><a name="vendor" id="vendor"></a>Vendor Code of Conduct:</h3>
+        <p>Digital River, Inc., as well as all of its  subsidiaries and divisions, (hereinafter "Digital River") require that all of our vendors abide by a code of ethics and performance even if the code is not part of a written contract. Digital River's continuing use of  a vendor will be contingent on the vendor's satisfactory compliance with this Code. This Code applies equally if the customer is Digital River or a third party. The term Vendor includes suppliers of any product or service, including software contractors and sub-contractors.</p>
+        <p><b>Results</b> - Vendor will strive to finish tasks efficiently in the allotted time and within the allotted budget.</p>
+        <p><b>Attitude</b> - Vendor will strive to work smoothly with other team members, and help integrate their efforts into the project as a whole. Vendor will maintain a good attitude while waiting for the customer to pay for invoices, for example, and will be easy to do business.</p>
+        <p><b>Value</b> - Vendor will strive to deliver work product that is free of defects, adheres to standards, is of a professional quality, and works as expected and agreed upon. </p>
+        <p><b>Planning</b> - Vendor will plan ahead and solve the business problem first, design before developing, and test before deploying. Vendor will document the work product so others can take over the effort should circumstances require.</p>
+        <p><b>Communication</b> - Vendor will communicate their status in a timely and regular way on the work product even if it might negatively affect its position. Vendor will notify the relevant parties when a project is outside of its area of expertise or skill level, or if a reasonable person who is fully aware of the situation would understand that Vendor needs help to get back on track.</p>
+        <p><b>Integrity</b> - Vendor will not knowingly misrepresent facts. Vendor will not knowingly use unlicensed software. Vendor will fully divulge all conflicts of interest prior to contract, or as soon as is reasonably possible after discovery. Vendor will abide by the terms of its contracts and the law. Vendor will not divulge (unless required by law) or make use of confidential or proprietary information belonging to others. Vendor will take care to invoice only for hours actually worked or milestones fully attained.</p>
+        <p><b>Commitment</b> - Vendor will demonstrate loyalty to Digital River and not interfere in the relationship of Digital River and any Digital River customer. Vendor will not do anything to disparage the reputation of either himself /herself, Digital River, nor any Digital River customer.</p>
+        <div id="back_to_top"><a href="#top" class="green_button2">Back to Top</a></div>
+        <h3><a name="illicit" id="illicit"></a>Illicit and Inappropriate Content Policy:</h3>
+<p>All Digital River, Inc. services may be used for lawful purposes only. Transmission, storage, or presentation of any information, data or material in violation of any United States Federal, State or City law is prohibited. This includes, but is not limited to: copyrighted material, material we judge to be inappropriate, threatening, obscene, or unlawful. Or, material protected by trade secret and other statute. For the purposes of this document, it is focused on illicit and inappropriate content.</p>
+        <p>The sale of illicit and inappropriate products is prohibited on all DR sites. This includes sites that may sell illicit and inappropriate products directly or link to illicit and inappropriate products elsewhere. This also includes money laundering as it is unlawful and prohibited by Digital River, Inc. Any site that directly or indirectly uses any product or links to any product for the purpose of laundering money is strictly prohibited.<br>
+           Because the Internet is a global communication tool, it is difficult to dictate what is considered "inappropriate content." It is not our function to discriminate against those who choose to utilize inappropriate content or products. However, Digital River, Inc. has chosen to enforce its “no illicit and inappropriate sites/products” policy. </p>
+        <p><strong>What is Illicit or Inappropriate Content/products?</strong></p>
+        <ol start="1" type="1">
+           <li>Any product that is illegal or unlawful (including but not limited to: money laundering.) &nbsp;</li>
+           <li>Any product that may be considered inappropriate (including but not limited to: drugs, alcohol, tobacco, firearms and explosives.)</li>
+           <li>Any site whose revenue is gained all or in part from its illicit and inappropriate products.</li>
+           <li>Revenue-generating hyperlinks to sites that violate any part of descriptions 1-3.</li>
+        </ol>
+        <p>Digital River, Inc. reserves the right to decide what it considers "inappropriate content" or "inappropriate products". <br>
+           Digital River, Inc. reserves the right to review or revise this policy at any time without notice.</p>
+        <div id="back_to_top"><a href="#top" class="green_button2">Back to Top</a></div>
+        <h3><a name="adult" id="adult"></a>Adult Content Policy:</h3>
+        <p>All Digital River, Inc. services may be used for lawful purposes only. Transmission, storage, or presentation of any information, data or material in violation of any United States Federal, State or City law is prohibited. This includes, but is not limited to: copyrighted material, material we judge to be inappropriate, threatening, obscene, or of adult content. Or, material protected by trade secret and other statute. For the purposes of this document, it is focused on adult content.<br>
+           <br>
+Adult content<strong>, </strong>pornography and sex-related merchandising are prohibited on all DR sites. This includes sites that may infer sexual content or link to adult content elsewhere. <br>
+Because the Internet is a global communication tool, it is difficult to dictate what is considered "adult content." It is not our function to discriminate against those who choose to utilize adult content or adult related material. However, Digital River, Inc. has chosen to enforce its “no adult sites/products” policy. </p>
+        <p><strong>What is Adult Content?</strong></p>
+        <ol start="1" type="1">
+           <li>Sexually explicit pictures, writing, or other material/products whose primary purpose is to cause sexual arousal. </li>
+           <li>Sexually explicit pictures, writing or any material/products that involves children (anyone under the age of 18) is strictly prohibited.</li>
+           <li>Photos, videos or animated depiction showing nudity in women or men for non-scientific or non-artistic purposes. </li>
+           <li>Any site whose revenue is gained all or in part from its adult content or products.</li>
+           <li>Revenue-generating hyperlinks to sites that violate any part of descriptions 1-4.</li>
+        </ol>
+        <p>Digital River, Inc. reserves the right to decide what it considers "adult content", "adult material", "sexually explicit", or "sexually related".<br>
+        Digital River, Inc. reserves the right to review or revise this policy at any time without notice.</p>
+        <div id="back_to_top"><a href="#top" class="green_button2">Back to Top</a></div>
+		  <h3><a name="gambling" id="gambling"></a>Gambling Policy:</h3>
+<p>All Digital River, Inc. services may be used for lawful purposes only. Transmission, storage, or presentation of any information, data or material in violation of any United States Federal, State or City law is prohibited. This includes, but is not limited to: copyrighted material, material we judge to be inappropriate, threatening, obscene, or unlawful. Or, material protected by trade secret and other statute. For the purposes of this document, it is focused on gambling.</p>
+        <p>Gambling and gambling sites, where money is exchanged, are prohibited. Online video games that involve gambling, i.e.: blackjack, poker, etc are allowed provided there is no money or exchange of money involved and provided they do not violate any of Digital River’s other policies (including, but not limited to, adult content, illicit content or piracy.)</p>
+        <p>Because the Internet is a global communication tool, it is difficult to dictate what is considered "gambling." It is not our function to discriminate against those who choose to utilize gambling or its products. However, Digital River, Inc. has chosen to enforce its “no gambling” policy. </p>
+        <p><strong>What is Gambling?</strong></p>
+        <ol start="1" type="1">
+           <li>Any product/site where money is exchanged or utilized for gambling.</li>
+           <li>Any product/site that promotes online casinos/betting. </li>
+           <li>Any product/site that promotes sports bets. </li>
+           <li>Any product/site that promotes the lottery.</li>
+           <li>Any site whose revenue is gained all or in part from its gambling or gambling products.</li>
+           <li>Revenue-generating hyperlinks to sites that violate any part of descriptions 1-4.</li>
+        </ol>
+        <p>Digital River, Inc. reserves the right to decide what it considers "gambling". <br>
+           Digital River, Inc. reserves the right to review or revise this policy at any time without notice.</p>
+        <div id="back_to_top"><a href="#top" class="green_button2">Back to Top</a></div></div></td>
+    </tr>
+  </tbody></table>
 
-                       				 	 <br>
-<br>
-<br>
-<br>
-<a href="print_privacy.shtml" onclick="window.open('print_privacy.shtml', 'print_window', 'toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=no,width=625,height=600'); return false"><img src="http://a248.e.akamai.net/f/248/5462/2h/www.digitalriver.com/corporate/images/printer.gif" width="25" height="13" border="0">Printable Version</a></td>
-                            		</tr>
-                            		</tbody></table></td>
-									</tr>
-        								<tr>
-        										<td align="left" valign="bottom" background="http://a248.e.akamai.net/f/248/5462/2h/www.digitalriver.com/corporate/images/left_nav_background2.gif"><img src="http://a248.e.akamai.net/f/248/5462/2h/www.digitalriver.com/corporate/images/pixel.gif" width="1" height="20"><br>
-														<img src="http://a248.e.akamai.net/f/248/5462/2h/www.digitalriver.com/corporate/images/lower_main_logo.gif" width="182" height="128"></td>
-        										<td valign="bottom" bgcolor="#669900"><img src="http://a248.e.akamai.net/f/248/5462/2h/www.digitalriver.com/corporate/images/white_pixel.gif" width="1" height="148"></td>
-									</tr>
-        								</tbody></table>
-   						</td>
-   				</tr>
-        		</tbody></table>
-	    </td>
-		</tr>
-</tbody></table>
-<table width="100%" height="36" border="0" cellpadding="0" cellspacing="0">
-		<tbody><tr>
-				<td valign="top"><table width="785" height="36" border="0" cellpadding="0" cellspacing="0">
-						<tbody><tr>
-								<td align="center" class="footer">© 2005 Digital River, Inc. Digital River® is a registered trademark of Digital River, Inc. | www.digitalriver.com <br>
-<a href="privacy.shtml"><font color="#FFFFFF">Privacy Statement</font></a> | <a href="dmca.shtml"><font color="#FFFFFF">DMCA
-statement</font></a> | <a href="conduct.shtml"><font color="#FFFFFF">Vendor Code
-of Conduct</font></a>| <a href="policies.shtml"><font color="#FFFFFF">Policies</font></a>| <a href="http://www.digitalriver.com/dr/v2/ec_MAIN.Entry17c?cid=0&amp;sid=8279&amp;pid=0&amp;SP=10107&amp;PN=1"><font color="#FFFFFF">Customer Service</font></a>
+	
 
-<!-- Fireclick Netflame Web Analytics - COPYRIGHT 1999-2004 - Please do not modify this code-->
+
+
+<!--!esi:include src="/servlet/ControllerServlet?Action=DisplayESIPage&SiteID=driv&StyleID=776800&StyleVersion=41&styleIncludeFile=body-section3.html"-->
+<div id="no_print_content_footer_div">
+		<table width="659" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr>
+          <td class="content_footer">
+<!--!/esi:include -->
+
+
+
+
+
+
+
+ <script type="text/javascript">
+    function openEmailThisPageForm() {
+      var url = "/DRHM/servlet/ControllerServlet?Action=DisplayEmailThisLinkPage&SiteID=driv&Locale=en_US";
+      window.open(url, "emailForm", "resizable=no,height=450,width=450,top=25,left=25,scrollbars=yes,toolbar=no");
+    }
+  </script>
+<p><img src="//drh.img.digitalriver.com/DRHM/Storefront/Site/driv/cm/images/images/icon_printer.gif" width="18" height="13"><a href="#" onclick="window.print();">Printable Version</a><img src="//drh.img.digitalriver.com/DRHM/Storefront/Site/driv/cm/images/images/icon_email.gif" width="18" height="13" style="margin-left: 20px;"><a href="javascript:openEmailThisPageForm();">Email to a Friend</a></p>
+<!--!esi:include src="/servlet/ControllerServlet?Action=DisplayESIPage&SiteID=driv&StyleID=776800&StyleVersion=41&styleIncludeFile=body-section4.html"-->
+</td>
+        </tr>
+      </tbody></table></div></td>
+      <td class="right_content"><div id="no_print_right_content_div">
+<!--!/esi:include -->
+
+
+
+
+
+
+
+   <div id="pullquote_banner">
+      <p class="request_info">Request Information</p>
+		<form action="http://nct.digitalriver.com/ecm/mailsend/formSubmit.php" method="post" name="bullseye" id="bullseye" onsubmit="return validateSalesForm(this)" target="signup">
+            <input type="hidden" name="send_to" value="">
+            <input type="hidden" name="from" value="">
+            <input type="hidden" name="subject" value="Sales Lead from Corporate Website">
+            <input type="hidden" name="thankyou_url" value="http://corporate.digitalriver.com/store/driv/Content/pbPage.ThankYouPage">
+            <table width="241" border="0" align="center" cellpadding="0" cellspacing="0" class="request_form">
+               <tbody><tr>
+                  <td align="left" valign="top">First Name:<br>
+                     <input type="text" name="firstname" size="12" class="form_input"></td>
+                  <td align="left" valign="top" style="padding-left: 7px;">Last Name:<br>
+                     <input type="text" name="lastname" size="12" class="form_input"></td>
+               </tr>
+               <tr>
+                  <td align="left" valign="top">Company Name:<br>
+                     <input type="text" name="company" size="12" class="form_input"></td>
+                  <td align="left" valign="top" style="padding-left: 7px;">
+                     Email Address:<br>
+                     <input type="text" name="email" size="12" class="form_input"></td>
+               </tr>
+               <tr>
+                  <td align="left" valign="top">Phone Number:<br>
+                     <input type="text" name="phone_wk" size="12" class="form_input"></td>
+                  <td align="left" valign="top" style="padding-left: 7px;">Interest Area:<br>
+                     <select name="business_need" class="form_select">
+								<option value="" selected="">Please Select</option>
+                        <option value="e-commerce">E-Commerce Solutions</option>
+                        <option value="shareware">Shareware</option>
+                        <option value="marketing tools">Marketing Tools</option>
+                        <option value="affiliates">Affiliates</option>
+                     </select></td>
+               </tr>
+               <tr>
+                  <td colspan="2" align="left" valign="top">
+                     Comments:<br>
+                     <textarea name="comments" class="form_textarea"></textarea></td>
+               </tr>
+               <tr>
+                  <td colspan="2" align="right" valign="top"><input type="image" src="//drh.img.digitalriver.com/DRHM/Storefront/Site/driv/cm/images/images/button_request_info_submit.gif" alt="Submit"></td>
+               </tr>
+            </tbody></table>
+         </form>
+      </div>
+   </div>
+<!--!esi:include src="/servlet/ControllerServlet?Action=DisplayESIPage&SiteID=driv&StyleID=776800&StyleVersion=41&styleIncludeFile=body-section5.html"-->
+
+<!--!/esi:include -->
+
+
+
+
+
+
+
+
+  
+  	
+    
+    	
+   			
+    	
+    
+   
+<!--!esi:include src="/servlet/ControllerServlet?Action=DisplayESIPage&SiteID=driv&StyleID=776800&StyleVersion=41&styleIncludeFile=body-section6.html"-->
+</td>
+    </tr>
+  </tbody></table>
+</div>
+<!-- End Content -->
+<!-- Start Footer -->
+
+<!--!/esi:include -->
+
+
+
+
+
+
+<div id="footer"><a href="/store/driv/Content/pbPage.FrameSetCustServ/DisplayFrameSetPage/ThemeID.492200">Customer Service</a>   |   <a href="/store/driv/Corp/sectionName.contact/subSectionName.requestInfo/page.requestInfo">Request Information</a>   |   <a href="/store/driv/Corp/sectionName.company/subSectionName.corpPolicies/page.corpPolicies">Privacy Policy</a></div>
+<div id="subfooter">
+© <script language="javascript" type="text/javascript">document.write((new Date()).getFullYear());</script>2020 Digital River, Inc. | Digital River® is a registered trademark of Digital River, Inc. | <a class="copyright" href="http://www.digitalriver.com" target="_blank">www.digitalriver.com</a>
+</div><!--!esi:include src="/servlet/ControllerServlet?Action=DisplayESIPage&SiteID=driv&StyleID=776800&StyleVersion=41&styleIncludeFile=body-section7.html"-->
+
+<!-- End Footer -->
+<!-- Start Cust Serv Link -->
+
+<!--!/esi:include -->
+
+
+
+
+
+
+
+<script type="text/javascript">
+var BgOverlayDivId = 'modal_overlay_background';
+var ModalOverlayDivId = 'modal_wrapper';
+var ModalOverlayVisible = false;
+
+// When the window is resized, recalculate the overlay background dimensions
+function resizeBgOverlay() {
+   if (ModalOverlayVisible) {
+      // Get the document size
+      if (window.innerHeight && window.scrollMaxY) {
+      	var xScroll = (window.scrollbars.visible) ? document.body.scrollWidth : window.innerWidth;
+      	xScroll += window.scrollMaxX;
+      	var yScroll = document.body.scrollHeight;
+      }
+      else if (document.body.scrollHeight > document.body.offsetHeight) { // all but IE Mac
+      	var xScroll = document.body.scrollWidth;
+      	var yScroll = document.body.scrollHeight;
+      }
+      else { // Explorer Mac...would also work in Explorer 6 Strict, Mozilla and Safari
+      	var xScroll = document.body.offsetWidth;
+      	var yScroll = document.body.offsetHeight;
+      }
+      // Get the window size
+      if (self.innerHeight) {	// all except IE
+      	var windowWidth = self.innerWidth;
+      	var windowHeight = self.innerHeight;
+      }
+      else if (document.documentElement && document.documentElement.clientHeight) { // Explorer 6 Strict Mode
+      	var windowWidth = document.documentElement.clientWidth;
+      	var windowHeight = document.documentElement.clientHeight;
+      }
+      else if (document.body) { // other Explorers
+      	var windowWidth = document.body.clientWidth;
+      	var windowHeight = document.body.clientHeight;
+      }
+      // Fix size when the document size is less than the window size
+      var pageHeight = (yScroll < windowHeight) ? windowHeight : yScroll;
+      var pageWidth = (xScroll < windowWidth) ? windowWidth : xScroll;
+      // Set the overlay size
+      with (document.getElementById(BgOverlayDivId).style) {
+         height = pageHeight + 'px';
+         width = pageWidth + 'px';
+      }
+   }
+}
+
+// Only show the overlay if the browser can support it
+function showOverlay(Box, PauseSeconds, NextPageUrl) {
+   if (document.getElementById) {
+      ModalOverlayVisible = true;
+      resizeBgOverlay();
+      // IE bug: hide all select lists when the overlay background is showing
+      if (navigator.appName == 'Microsoft Internet Explorer') {
+         var SelectList = document.getElementsByTagName('select');
+         for (var j=0;j<SelectList.length;j++) SelectList[j].style.visibility = 'hidden';
+      }
+      // Show the background overlay
+      with (document.getElementById(BgOverlayDivId).style) {
+         display = 'block';
+         visibility = 'visible';
+      }
+      // Show the modal div
+      with (document.getElementById(ModalOverlayDivId)) {
+			style.marginTop = Math.floor(offsetHeight/-2) + 'px';
+         style.visibility = 'visible';
+      }
+   }
+	Box.checked = false;
+   setTimeout('location=\'' + NextPageUrl + '\'', PauseSeconds*1000);
+}
+
+// Add onresize event-handler to the window, without overwriting any existing event-handlers
+if (document.getElementById) {
+   if (window.addEventListener) window.addEventListener('resize', resizeBgOverlay, false);
+   else if (document.addEventListener) document.addEventListener('resize', resizeBgOverlay, false);
+   else if (window.attachEvent) window.attachEvent('onresize', resizeBgOverlay);
+   else {
+      var ExistingBgOverlayOnresizeFunction = window.onresize;
+      window.onresize = (ExistingBgOverlayOnresizeFunction == null) ? resizeBgOverlay : new Function('ExistingBgOverlayOnresizeFunction();resizeBgOverlay();');
+   }
+}
+</script>
+<div id="modal_wrapper">
+   <table border="0" cellspacing="0" cellpadding="0" class="modal_table">
+   <tbody><tr>
+      <td class="modal_table_top_left" height="8">&nbsp;</td>
+      <td class="modal_table_top_middle" height="8">&nbsp;</td>
+      <td class="modal_table_top_right" height="8">&nbsp;</td>
+   </tr>
+
+   <tr>
+      <td class="modal_table_left">&nbsp;</td>
+      <td class="modal_table_middle"><h4>Connecting You to Customer Service</h4>
+         <p><img src="//drh.img.digitalriver.com/DRHM/Storefront/Site/driv/cm/images/images/progress_bar.gif" width="114" height="14" style="border: 1px solid #a3a3a3;"></p></td>
+      <td class="modal_table_right">&nbsp;</td>
+   </tr>
+   <tr>
+      <td class="modal_table_bottom_left" height="8">&nbsp;</td>
+      <td class="modal_table_bottom_middle" height="8">&nbsp;</td>
+      <td class="modal_table_bottom_right" height="8">&nbsp;</td>
+   </tr>
+   </tbody></table>
+</div>
+<div id="modal_overlay_background"></div>
+<!--!esi:include src="/servlet/ControllerServlet?Action=DisplayESIPage&SiteID=driv&StyleID=776800&StyleVersion=41&styleIncludeFile=body-section8.html"-->
+
+<!-- End Cust Serv Link -->
 <script language="javascript">
 function handle(){return true;}
 window.onerror=handle;
@@ -192,204 +1019,27 @@ var fcfn=window.onload;
 function fcco(){window.setTimeout("fcce();", 100);fcfn();}
 window.onload= null==fcfn ? fcce:fcco;
 </script><script src="https://a248.e.akamai.net/f/248/67/3h/ssl-hints.netflame.cc/service/script/www.drcorporate.com"></script>
-<!-- Fireclick Netflame Web Analytics - COPYRIGHT 1999-2004 - Please do not modify this code-->
-</td>
-						</tr>
-				</tbody></table></td>
-		</tr>
-</tbody></table>
-<div id="company">
-		<table width="129" border="0" cellpadding="0" cellspacing="0">
-				<tbody><tr>
-						<td height="21" class="topmenu2" onmouseover="this.style.backgroundColor='#FF9A30'" onmouseout="this.style.backgroundColor=''"><a href="company01.shtml" onmouseover="hideCompany2(); stopTime()" onmouseout="startTime()" class="topmenulink2">About Us&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td>
-				</tr>
-				<tr>
-						<td height="1" bgcolor="#088CD6"><img src="http://a248.e.akamai.net/f/248/5462/2h/www.digitalriver.com/corporate/images/pixel.gif" width="1" height="1"></td>
-				</tr>
-				<tr>
-						<td height="21" class="topmenu2" onmouseover="this.style.backgroundColor='#FF9A30'" onmouseout="this.style.backgroundColor=''"><a href="company02.shtml" onmouseover="hideCompany2(); stopTime()" onmouseout="startTime()" class="topmenulink2">Management&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td>
-				</tr>
-				<tr>
-						<td height="1" bgcolor="#088CD6"><img src="http://a248.e.akamai.net/f/248/5462/2h/www.digitalriver.com/corporate/images/pixel.gif" width="1" height="1"></td>
-				</tr>
-				<tr>
-						<td height="21" class="topmenu2" onmouseover="this.style.backgroundColor='#FF9A30'" onmouseout="this.style.backgroundColor=''"><a href="http://phx.corporate-ir.net/phoenix.zhtml?c=94762&amp;p=irol-irhome" onmouseover="stopTime();" onmouseout="startTime()" class="topmenulink2">Investor Relations</a></td>
-				</tr>
-				<tr>
-						<td height="1" bgcolor="#088CD6"><img src="http://a248.e.akamai.net/f/248/5462/2h/www.digitalriver.com/corporate/images/pixel.gif" width="1" height="1"></td>
-				</tr>
-				<tr>
-						<td height="21" class="topmenu2" onmouseover="this.style.backgroundColor='#FF9A30'" onmouseout="this.style.backgroundColor=''"><a href="company04.shtml" onmouseover="hideCompany2(); stopTime()" onmouseout="startTime()" class="topmenulink2">Careers&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td>
-				</tr>
-		</tbody></table>
-</div>
-<div id="company2">
-		<table width="129" border="0" cellpadding="0" cellspacing="0">
-				<tbody><tr>
-						<td height="21" class="topmenu2" onmouseover="this.style.backgroundColor='#FF9A30'" onmouseout="this.style.backgroundColor=''"><a href="company03_01.shtml" onmouseover="stopTime()" onmouseout="startTime()" class="topmenulink2">Financials&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td>
-				</tr>
-				<tr>
-						<td height="1" bgcolor="#088CD6"><img src="http://a248.e.akamai.net/f/248/5462/2h/www.digitalriver.com/corporate/images/pixel.gif" width="1" height="1"></td>
-				</tr>
-				<tr>
-						<td height="21" class="topmenu2" onmouseover="this.style.backgroundColor='#FF9A30'" onmouseout="this.style.backgroundColor=''"><a href="company03_02.shtml" onmouseover="stopTime()" onmouseout="startTime()" class="topmenulink2">Shareholder Info.</a></td>
-				</tr>
-				<tr>
-						<td height="1" bgcolor="#088CD6"><img src="http://a248.e.akamai.net/f/248/5462/2h/www.digitalriver.com/corporate/images/pixel.gif" width="1" height="1"></td>
-				</tr>
-				<tr>
-						<td height="21" class="topmenu2" onmouseover="this.style.backgroundColor='#FF9A30'" onmouseout="this.style.backgroundColor=''"><a href="company03_03.shtml" onmouseover="stopTime()" onmouseout="startTime()" class="topmenulink2">FAQ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td>
-				</tr>
-		</tbody></table>
-</div>
-<div id="solutions">
-		<table width="129" border="0" cellpadding="0" cellspacing="0">
-				<tbody><tr>
-						<td height="21" class="topmenu2" onmouseover="this.style.backgroundColor='#FF9A30'" onmouseout="this.style.backgroundColor=''"><a href="solutions00.shtml" onmouseover="hideSolutions3(); stopTime(); showLayer('solutions2');" onmouseout="startTime()" class="topmenulink2">Digital Products&nbsp;&nbsp;&nbsp;&nbsp;</a></td>
-				</tr>
-				<tr>
-						<td height="1" bgcolor="#088CD6"><img src="http://a248.e.akamai.net/f/248/5462/2h/www.digitalriver.com/corporate/images/pixel.gif" width="1" height="1"></td>
-				</tr>
-				<tr>
-						<td height="21" class="topmenu2" onmouseover="this.style.backgroundColor='#FF9A30'" onmouseout="this.style.backgroundColor=''"><a href="solutions00.shtml" onmouseover="hideSolutions2(); stopTime(); showLayer('solutions3');" onmouseout="startTime()" class="topmenulink2">Physical Products&nbsp;&nbsp;&nbsp;</a></td>
-				</tr>
-		</tbody></table>
-</div>
-<div id="solutions2">
-		<table width="129" border="0" cellpadding="0" cellspacing="0">
-				<tbody><tr>
-						<td height="21" class="topmenu2" onmouseover="this.style.backgroundColor='#FF9A30'" onmouseout="this.style.backgroundColor=''"><a href="solutions01.shtml" onmouseover="stopTime(); showLayer('solutions2b');" onmouseout="startTime()" class="topmenulink2">Software Publishers</a></td>
-				</tr>
-				<tr>
-						<td height="1" bgcolor="#088CD6"><img src="http://a248.e.akamai.net/f/248/5462/2h/www.digitalriver.com/corporate/images/pixel.gif" width="1" height="1"></td>
-				</tr>
-				<tr>
-						<td height="21" class="topmenu2" onmouseover="this.style.backgroundColor='#FF9A30'" onmouseout="this.style.backgroundColor=''"><a href="solutions03.shtml" onmouseover="hideSolutions2b(); stopTime()" onmouseout="startTime()" class="topmenulink2">Shareware Authors</a></td>
-				</tr>
-				<tr>
-						<td height="1" bgcolor="#088CD6"><img src="http://a248.e.akamai.net/f/248/5462/2h/www.digitalriver.com/corporate/images/pixel.gif" width="1" height="1"></td>
-				</tr>
-				<tr>
-						<td height="21" class="topmenu2" onmouseover="this.style.backgroundColor='#FF9A30'" onmouseout="this.style.backgroundColor=''"><a href="solutions06.shtml" onmouseover="hideSolutions2b(); stopTime()" onmouseout="startTime()" class="topmenulink2">Digital
-						    Rights Management</a></td>
-				</tr><tr>
-						<td height="1" bgcolor="#088CD6"><img src="http://a248.e.akamai.net/f/248/5462/2h/www.digitalriver.com/corporate/images/pixel.gif" width="1" height="1"></td>
-				</tr>
-		</tbody></table>
-</div>
-<div id="solutions2b">
-		<table width="129" border="0" cellpadding="0" cellspacing="0">
-				<tbody><tr>
-						<td height="21" class="topmenu2" onmouseover="this.style.backgroundColor='#FF9A30'" onmouseout="this.style.backgroundColor=''"><a href="solutions01.shtml" onmouseover="stopTime()" onmouseout="startTime()" class="topmenulink2">Consumer&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td>
-				</tr>
-				<tr>
-						<td height="1" bgcolor="#088CD6"><img src="http://a248.e.akamai.net/f/248/5462/2h/www.digitalriver.com/corporate/images/pixel.gif" width="1" height="1"></td>
-				</tr><tr>
-						<td height="21" class="topmenu2" onmouseover="this.style.backgroundColor='#FF9A30'" onmouseout="this.style.backgroundColor=''"><a href="solutions01_01.shtml" onmouseover="stopTime()" onmouseout="startTime()" class="topmenulink2">Channel&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td>
-				</tr>
-				<tr>
-						<td height="1" bgcolor="#088CD6"><img src="http://a248.e.akamai.net/f/248/5462/2h/www.digitalriver.com/corporate/images/pixel.gif" width="1" height="1"></td>
-				</tr>
-				<tr>
-						<td height="21" class="topmenu2" onmouseover="this.style.backgroundColor='#FF9A30'" onmouseout="this.style.backgroundColor=''"><a href="solutions01_02.shtml" onmouseover="stopTime()" onmouseout="startTime()" class="topmenulink2">Enterprise&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td>
-				</tr>
-		</tbody></table>
-</div>
-<div id="solutions3">
-		<table width="129" border="0" cellpadding="0" cellspacing="0">
-				<tbody><tr>
-						<td height="21" class="topmenu2" onmouseover="this.style.backgroundColor='#FF9A30'" onmouseout="this.style.backgroundColor=''"><a href="solutions05.shtml" onmouseover="stopTime()" onmouseout="startTime()" class="topmenulink2">Retail/Manufacturers</a></td>
-				</tr>
-				<tr>
-						<td height="1" bgcolor="#088CD6"><img src="http://a248.e.akamai.net/f/248/5462/2h/www.digitalriver.com/corporate/images/pixel.gif" width="1" height="1"></td>
-				</tr>
-				<tr>
-						<td height="21" class="topmenu2" onmouseover="this.style.backgroundColor='#FF9A30'" onmouseout="this.style.backgroundColor=''"><a href="solutions04.shtml" onmouseover="stopTime()" onmouseout="startTime()" class="topmenulink2">SMB&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td>
-				</tr>
-		</tbody></table>
-</div>
-<div id="clients">
-		<table width="129" border="0" cellpadding="0" cellspacing="0">
-				<tbody><tr>
-						<td height="21" class="topmenu2" onmouseover="this.style.backgroundColor='#FF9A30'" onmouseout="this.style.backgroundColor=''"><a href="clients01.shtml" onmouseover="stopTime()" onmouseout="startTime()" class="topmenulink2">Testimonials&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td>
-				</tr>
-				<tr>
-						<td height="1" bgcolor="#088CD6"><img src="http://a248.e.akamai.net/f/248/5462/2h/www.digitalriver.com/corporate/images/pixel.gif" width="1" height="1"></td>
-				</tr>
-				<tr>
-						<td height="21" class="topmenu2" onmouseover="this.style.backgroundColor='#FF9A30'" onmouseout="this.style.backgroundColor=''"><a href="clients02.shtml" onmouseover="stopTime()" onmouseout="startTime()" class="topmenulink2">Case Studies&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td>
-				</tr>
-		</tbody></table>
-</div>
-<div id="news">
-		<table width="129" border="0" cellpadding="0" cellspacing="0">
-				<tbody><tr>
-						<td height="21" class="topmenu2" onmouseover="this.style.backgroundColor='#FF9A30'" onmouseout="this.style.backgroundColor=''"><a href="news01.shtml" onmouseover="hideNews2(); stopTime()" onmouseout="startTime()" class="topmenulink2">Press Releases&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td>
-				</tr>
-				<tr>
-						<td height="1" bgcolor="#088CD6"><img src="http://a248.e.akamai.net/f/248/5462/2h/www.digitalriver.com/corporate/images/pixel.gif" width="1" height="1"></td>
-				</tr>
-				<tr>
-						<td height="21" class="topmenu2" onmouseover="this.style.backgroundColor='#FF9A30'" onmouseout="this.style.backgroundColor=''"><a href="news02.shtml" onmouseover="hideNews2(); stopTime();" onmouseout="startTime()" class="topmenulink2">Media Coverage&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td>
-				</tr>
-				<tr>
-						<td height="1" bgcolor="#088CD6"><img src="http://a248.e.akamai.net/f/248/5462/2h/www.digitalriver.com/corporate/images/pixel.gif" width="1" height="1"></td>
-				</tr>
-				<tr>
-						<td height="21" class="topmenu2" onmouseover="this.style.backgroundColor='#FF9A30'" onmouseout="this.style.backgroundColor=''"><a href="news03_01.shtml" onmouseover="stopTime(); showLayer('news2');" onmouseout="startTime()" class="topmenulink2">Press Kit&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td>
-				</tr>
-				<tr>
-						<td height="1" bgcolor="#088CD6"><img src="http://a248.e.akamai.net/f/248/5462/2h/www.digitalriver.com/corporate/images/pixel.gif" width="1" height="1"></td>
-				</tr>
-				<tr>
-						<td height="21" class="topmenu2" onmouseover="this.style.backgroundColor='#FF9A30'" onmouseout="this.style.backgroundColor=''"><a href="news04.shtml" onmouseover="hideNews2(); stopTime()" onmouseout="startTime()" class="topmenulink2">Events Calendar</a></td>
-				</tr>
-		</tbody></table>
-</div>
-<div id="news2">
-		<table width="129" border="0" cellpadding="0" cellspacing="0">
-				<tbody><tr>
-						<td height="21" class="topmenu2" onmouseover="this.style.backgroundColor='#FF9A30'" onmouseout="this.style.backgroundColor=''"><a href="news03_01.shtml" onmouseover="stopTime()" onmouseout="startTime()" class="topmenulink2">Company Info.</a></td>
-				</tr>
-				<tr>
-						<td height="1" bgcolor="#088CD6"><img src="http://a248.e.akamai.net/f/248/5462/2h/www.digitalriver.com/corporate/images/pixel.gif" width="1" height="1"></td>
-				</tr>
-				<tr>
-						<td height="21" class="topmenu2" onmouseover="this.style.backgroundColor='#FF9A30'" onmouseout="this.style.backgroundColor=''"><a href="news03_02.shtml" onmouseover="stopTime()" onmouseout="startTime()" class="topmenulink2">Awards&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td>
-				</tr>
-				<tr>
-						<td height="1" bgcolor="#088CD6"><img src="http://a248.e.akamai.net/f/248/5462/2h/www.digitalriver.com/corporate/images/pixel.gif" width="1" height="1"></td>
-				</tr>
-				<tr>
-						<td height="21" class="topmenu2" onmouseover="this.style.backgroundColor='#FF9A30'" onmouseout="this.style.backgroundColor=''"><a href="news03_03.shtml" onmouseover="stopTime()" onmouseout="startTime()" class="topmenulink2">Management&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td>
-				</tr>
-				<tr>
-						<td height="1" bgcolor="#088CD6"><img src="http://a248.e.akamai.net/f/248/5462/2h/www.digitalriver.com/corporate/images/pixel.gif" width="1" height="1"></td>
-				</tr>
-				<tr>
-						<td height="21" class="topmenu2" onmouseover="this.style.backgroundColor='#FF9A30'" onmouseout="this.style.backgroundColor=''"><a href="news03_04.shtml" onmouseover="stopTime()" onmouseout="startTime()" class="topmenulink2">PR Contacts&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td>
-				</tr>
-		</tbody></table>
-</div>
-<div id="contact">
-		<table width="129" border="0" cellpadding="0" cellspacing="0">
-				<tbody><tr>
-						<td height="21" class="topmenu2" onmouseover="this.style.backgroundColor='#FF9A30'" onmouseout="this.style.backgroundColor=''"><a href="contact01.shtml" onmouseover="stopTime()" onmouseout="startTime()" class="topmenulink2">Request Info&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td>
-				</tr>
-				<tr>
-						<td height="1" bgcolor="#088CD6"><img src="http://a248.e.akamai.net/f/248/5462/2h/www.digitalriver.com/corporate/images/pixel.gif" width="1" height="1"></td>
-				</tr>
-				<tr>
-						<td height="21" class="topmenu2" onmouseover="this.style.backgroundColor='#FF9A30'" onmouseout="this.style.backgroundColor=''"><a href="contact02a.shtml" onmouseover="stopTime()" onmouseout="startTime()" class="topmenulink2">Contact Us&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td>
-				</tr>
-				<tr>
-						<td height="1" bgcolor="#088CD6"><img src="http://a248.e.akamai.net/f/248/5462/2h/www.digitalriver.com/corporate/images/pixel.gif" width="1" height="1"></td>
-				</tr>
-				<tr>
-						<td height="21" class="topmenu2" onmouseover="this.style.backgroundColor='#FF9A30'" onmouseout="this.style.backgroundColor=''"><a href="contact03.shtml" onmouseover="stopTime()" onmouseout="startTime()" class="topmenulink2">Directions&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td>
-				</tr>
-		</tbody></table>
-</div>
+<!--!/esi:include -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 </body></html>
