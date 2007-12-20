@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nitro-pak.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630153506id_/http%3A//www.nitro-pak.com/privacy.php%3FosCsid%3D718b4cc73428c4d10a6d77adf31f4372) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nitro-pak.com privacy policy that was archived on 2007-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071220235345id_/http%3A//www.nitro-pak.com/privacy.php%3FosCsid%3D3f6a5e658ffb5d8d6589df6f8e303f84) for the most accurate reproduction.*
 
 # Nitro-Pak.com The World Leader in Innovative & Affordable Preparedness Gear
 
