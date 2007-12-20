@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalpriorities.org privacy policy that was archived on 2007-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070209051944id_/http%3A//nationalpriorities.org/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D50%26Itemid%3D126) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalpriorities.org privacy policy that was archived on 2007-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071220173548id_/http%3A//www.nationalpriorities.org/Privacy.html) for the most accurate reproduction.*
 
 # National Priorities Project - Privacy
 
@@ -27,4 +27,6 @@ In the future, National Priorities Project may exchange contact information of o
 4\. Security of Data Transmittal   
 Donations made to NPP via Network for Good are secure to the fullest extent possible.You can recognize secure web pages by checking for the secure symbol at the bottom of your browser screen. For most browsers, this symbol is either a lock or a key. When the lock symbol appears to be locked, the page is secure; when it appears to be unlocked, the page is insecure. 
 
-If you have any further questions regarding our online privacy policies, please feel free to contact us.
+If you have any further questions regarding our online privacy policies, please feel free to contact us.  
+  
+Last Updated ( Wednesday, 27 July 2005 ) 
