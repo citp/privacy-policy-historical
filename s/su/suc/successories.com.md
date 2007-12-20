@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the successories.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626140805id_/http%3A//www.successories.com/index.cfm/fuseaction/dir_cust_serv.privacy/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the successories.com privacy policy that was archived on 2007-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071220185107id_/http%3A//www.successories.com/index.cfm/fuseaction/dir_cust_serv.privacy/privacy.cfm) for the most accurate reproduction.*
 
 # Successories: Privacy Information - Successories Motivational Products
 
