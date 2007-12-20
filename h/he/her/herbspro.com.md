@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the herbspro.com privacy policy that was archived on 2007-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070614131249id_/http%3A//www.herbspro.com/xq/asp/qx/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herbspro.com privacy policy that was archived on 2007-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071220020427id_/http%3A//www.herbspro.com/xq/asp/qx/privacy.htm) for the most accurate reproduction.*
 
 # Herbal Medicine for natural health from your HerbsPro
 
