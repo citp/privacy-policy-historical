@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the itnews.com.au privacy policy that was archived on 2007-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070513103957id_/http%3A//www.itnews.com.au/ciainfo.aspx%3FCIaInfoID%3D8) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itnews.com.au privacy policy that was archived on 2007-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071220215430id_/http%3A//www.itnews.com.au/AboutUs/SiteInfo.aspx%3FInfoID%3D8) for the most accurate reproduction.*
 
-# ITNews Latest News
-
-PRIVACY POLICY STATEMENT
+# PRIVACY POLICY STATEMENT - www.itnews.com.au
 
 PRIVACY POLICY STATEMENT
 
