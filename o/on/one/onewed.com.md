@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onewed.com privacy policy that was archived on 2007-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070514235616id_/http%3A//members.onewed.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onewed.com privacy policy that was archived on 2007-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071220055421id_/http%3A//members.onewed.com/privacy.php) for the most accurate reproduction.*
 
 # Onewed Networks - Privacy policy
 
