@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webmd.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623175525id_/http%3A//www.webmd.com/www/policies/about-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webmd.com privacy policy that was archived on 2007-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071220042229id_/http%3A//www.webmd.com/policies/about-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -13,6 +13,7 @@ Part 3: |  Non-Personal Information We Collect About You
 
   1. Cookies
   2. Web Beacons
+  3. Third Parties Collecting Non-Personal Information on WebMD's Behalf
 
   
 Part 4: |  Personally Identifiable Information We Collect About You
@@ -63,7 +64,9 @@ To provide you confidence that we adhere to accepted healthcare industry privacy
 
 URAC - WebMD Health has been awarded e-Health accreditation from URAC, formerly the American HealthCare Accreditation Association. URAC is an independent accrediting body that has reviewed and approved WebMD Health's WebMD.com Web sites for compliance with its more than 45 quality and ethics standards that are based on the Hi-Ethics Principles. WebMD Health helped create the Hi-Ethics Principles as a founding member of the Hi-Ethics alliance. Hi-Ethics was an organization of health Web sites committed to a set of ethical principles designed to ensure that consumers can confidently realize the full benefit of the Internet to improve their health and the health of their families. To verify our compliance, click on the URAC logo. Please note that the URAC certification applies only to sites under the WebMD.com domain.
 
-[ ](http://www.truste.org/ivalidate.php?url=www.webmd.com&sealid=101) TRUSTe - WebMD Health is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, nonprofit organization whose goal is to build users' trust and confidence in the Internet by promoting the use of fair information practices. As required of TRUSTe licensees, we will inform you of the following in this Privacy Policy:
+[ ](http://www.truste.org/ivalidate.php?url=www.webmd.com&sealid=101)
+
+TRUSTe - WebMD Health is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, nonprofit organization whose goal is to build users' trust and confidence in the Internet by promoting the use of fair information practices. As required of TRUSTe licensees, we will inform you of the following in this Privacy Policy:
 
   * What personally identifiable information of yours is collected;
   * What organization is collecting the information; 
@@ -97,6 +100,10 @@ Most browser software can be set to reject all Cookies. Most browsers offer inst
 ## B. Web Beacons 
 
 We also may use Web Beacons to collect Non-Personal Information about your use of our Web site and the Web sites of selected sponsors and advertisers, and your use of special promotions or newsletters. The information collected by Web Beacons (i) allows us to statistically monitor how many people are using our website and selected sponsors' and advertisers' sites, (ii) how many people open our emails, and (iii) for what purposes these actions are being taken. Our Web Beacons are not used to track your activity outside of our Web sites or those of our sponsors'. We do not link Non-Personal Information from Web Beacons to Personally Identifiable Information without your permission and do not use Web Beacons to collect or store Personal Health Information about you. 
+
+## C. Third Parties Collecting Non-Personal Information on WebMD's Behalf
+
+Third parties under contract with WebMD may use Cookies or Web Beacons to collect Non-Personal Information about your usage of WebMD's sites, and this information may used by WebMD to tailor the advertising you may see on sites within the networks of these third parties. This Non-Personal Information is anonymous and does not contain any personal information about you. These third parties may collect this information, on our behalf, to help WebMD target our advertising on these third party sites. These third parties have agreed not to use this non-personal cookie or web beacon information except to help us target our advertising on these sites and have agreed to not link any non-personal cookie or web beacon information collected by them on our sites to Personally Identifiable Information they or others collect from other sites. If you browser is set to reject cookies, this Non-Personal Information will not be sent to these third parties. Please read Part 3.A for more information on rejecting cookies.
 
 We collect Personally Identifiable Information that you provide to us when you register as a member of WebMD Health and/or when you update your member profile. We use the Personally Identifiable Information that you provide to respond to your questions, provide you the specific services you select, send you emails about Web site maintenance and updates, and inform you of significant changes to this Privacy Policy. 
 
@@ -162,7 +169,9 @@ Upon authorization by your health plan, healthcare provider or employer, WebMD H
 
 Sponsors or advertisers on WebMD Health may use their own Cookies, Web Beacons or other online tracking technologies in the banner advertisements served on WebMD Health and in emails, special promotions or newsletters we send you. Some advertisers use companies other than WebMD Health to serve their ads and to monitor users' responses to ads, and these companies ("Ad Servers") may also collect Non-Personal Information through the use of Cookies or Web Beacons on our Web site. In certain situations, information collection may be facilitated by momentarily directing your browser to the Web site of an Ad Server or other third party acting on behalf of the sponsor, partner, or advertiser before re-directing your browser to its selected destination (e.g., back to WebMD Health to show the ad, or to the advertiser's website); this re-direction process will not be apparent to you. 
 
-We do not control these third parties' use of cookies or Web Beacons, or how they manage the non-personal information they gather through them. However, we do require sponsors, advertisers and Ad Servers who collect cookie or web beacon information through our Web site to agree that they will not collect any Personally Identifiable Information from our site without your consent. They have promised us they will not link any non-personal cookie or web beacon information collected by them on our site to Personally Identifiable Information they or others collect in other ways or from other sites except as may be described in connection with a particular program. For example, in connection with "Sponsored Links" furnished by Google, non-personal information sent by your browser to Google when you click on a sponsored link or submit a query may be used by Google as described in its privacy policy. In addition, WebMD Health's Advertising Policy is posted on our Web site and will provide additional detail about our relationship with advertisers and the companies that serve ads. You should review the privacy policy of other sites you visit or link to from our site to understand how these other sites use cookies and how they use the information they collect through the use of cookies or web beacons on their own sites. Certain Ad Servers allow you to prevent them from collecting data through the use of cookies. In order to do so, you must Opt-out of such data collection with each individual site. Currently, you can Opt-out of Cookies for several Ad Servers by visiting the Network Advertising Initiative gateway Opt-out site. This website will also allow you to review the Ad Server's privacy policies. 
+We do not control these third parties' use of cookies or Web Beacons, or how they manage the non-personal information they gather through them. However, we do require sponsors, advertisers and Ad Servers who collect cookie or web beacon information through our Web site to agree that they will not collect any Personally Identifiable Information from our site without your consent. They have promised us they will not link any non-personal cookie or web beacon information collected by them on our site to Personally Identifiable Information they or others collect in other ways or from other sites except as may be described in connection with a particular program. For example, in connection with "Ad links" furnished by Yahoo, non-personal information sent by your browser to Yahoo when you click on a sponsored link or submit a query may be used by Yahoo as described in its privacy policy. In addition, WebMD Health's Advertising Policy is posted on our Web site and will provide additional detail about our relationship with advertisers and the companies that serve ads. You should review the privacy policy of other sites you visit or link to from our site to understand how these other sites use cookies and how they use the information they collect through the use of cookies or web beacons on their own sites. Certain Ad Servers allow you to prevent them from collecting data through the use of cookies. In order to do so, you must Opt-out of such data collection with each individual site. Currently, you can Opt-out of Cookies for several Ad Servers by visiting the [Network Advertising Initiative](http://www.networkadvertising.org/managing/opt_out.asp) gateway Opt-out site. This website will also allow you to review the Ad Server's privacy policies.
+
+You can also find additional information and resources about how to opt out of advertising and related cookies by visiting the [World Privacy Forum’s Site.](http://www.worldprivacyforum.org/cookieoptout.html)
 
 Except as set forth in this Privacy Policy or as specifically agreed to by you, WebMD Health will not disclose any Personally Identifiable or Personal Health Information it gathers from you on our website. We may only release Personally Identifiable or Personal Health Information to third parties: (1) to comply with valid legal requirements such as a law, regulation, search warrant, subpoena or court order; or (2) in special cases, such as in response to a physical threat to you or others, to protect property or defend or assert legal rights. In the event that we are legally compelled to disclose your Personally Identifiable or Personal Health Information to a third party, we will attempt to notify you unless doing so would violate the law or court order. In addition, we may disclose Personal Information as described below. 
 
@@ -174,7 +183,7 @@ WebMD Health operations and maintenance contractors sometimes have limited acces
 
 Certain content and services offered to you through our website are served on Web sites hosted and operated by a company other than WebMD Health ("Third Party Contractor Web sites"). WebMD Health does not disclose your Personally Identifiable Information to these Third Party Contractor Web sites without your consent, but you should be aware that any information you disclose once you access these other Web sites is not subject to this Privacy Policy. WebMD Health does not endorse and is not responsible for the privacy practices of these Third Party Contractor Web sites. You should review the privacy policy posted on the other Web site to understand how that Third Party Contractor Website collects and uses your Personally Identifiable Information. WebMD Health makes an effort to make it obvious to you when you leave our website and enter a Third Party Contractor Web site, either by requiring you to click on a link or by notifying you on the site before you visit the third party site. In addition, if you see a phrase such as "Powered by" or "in association with" followed by the name of a company other than WebMD Health, then you are on a Web site hosted by a company other than WebMD Health. 
 
-WebMD Health also provides links to sites provided by Third Party Contractor Websites that have business arrangements with WebMD Health to pay commissions based on sales of products or services generated through WebMD Health. An example of this would be “Sponsored Links” from Google on our Search pages. 
+WebMD Health also provides links to sites provided by Third Party Contractor Websites that have business arrangements with WebMD Health to pay commissions based on sales of products or services generated through WebMD Health. An example of this would be "Ad links" from Yahoo on our Search pages. 
 
 ## Disclosure to or by Co-branded Channel Partners
 
@@ -308,6 +317,6 @@ Usernames are also required to post a reply on message boards, use certain WebMD
 
 * * *
 
-Effective: February 01, 2007 
+Effective: October 31, 2007 
 
-©2005 WebMD, Inc. All rights reserved. 
+©2007 WebMD, Inc. All rights reserved. 
