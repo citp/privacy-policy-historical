@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netgear.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429105203id_/http%3A//www.netgear.com/About/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netgear.com privacy policy that was archived on 2007-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071220022609id_/http%3A//www.netgear.com/About/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # NETGEAR Privacy Policy
 
