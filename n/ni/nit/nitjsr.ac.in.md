@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nitjsr.ac.in privacy policy that was archived on 2007-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070501024355id_/http%3A//www.nitjsr.ac.in/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nitjsr.ac.in privacy policy that was archived on 2007-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071220090939id_/http%3A//www.nitjsr.ac.in/privacypolicy.php) for the most accurate reproduction.*
 
 # NIT Jamshedpur Web Site Privacy Policy
 
@@ -24,4 +24,4 @@ NIT Jamshedpur does not disclose or sell any personally identifiable information
 
 Under exceptional circumstances, where the law requires us to do so, we may disclose such information to the police and government/legal authorities.
 
-Should you feel that this Privacy Policy has been violated please [write to us](https://web.archive.org/web/20070501024355id_/http%3A//www.nitjsr.ac.in/contactus.php?subject=Reporting%20violation%20of%20Website%20Privacy%20Policy).
+Should you feel that this Privacy Policy has been violated please [write to us](https://web.archive.org/web/20071220090939id_/http%3A//www.nitjsr.ac.in/contactus.php?subject=Reporting%20violation%20of%20Website%20Privacy%20Policy).
