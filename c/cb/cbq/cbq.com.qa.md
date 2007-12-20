@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbq.com.qa privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624073437id_/http%3A//www.cbq.com.qa/profile.aspx%3Fid%3D139) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbq.com.qa privacy policy that was archived on 2007-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071220012535id_/http%3A//www.cbq.com.qa/profile.aspx%3Fid%3D139) for the most accurate reproduction.*
 
 # Commercial Bank of Qatar
 
