@@ -1,45 +1,29 @@
-> *The following text is extracted and transformed from the mehndi.com privacy policy that was archived on 2007-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070528112204id_/http%3A//mehndi.com/docs/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mehndi.com privacy policy that was archived on 2007-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071220023053id_/http%3A//www.mehndi.com/docs/privacypolicy.asp) for the most accurate reproduction.*
 
 # Mehndi.com Matrimonial - Privacy Policy
 
-This statement discloses the information gathering process and the privacy and dissemination practices for the Mehndi.com Web site. Mehndi.com has created this privacy statement in order to demonstrate our firm commitment to protect your personal privacy. 
+**Privacy Policy / Disclosure Agreement**
 
-Mehndi.com is an internet marriage portal designed to provide an easy way for to meet potential spouses on the internet. Members create a profile and are then paired with a number of other members based on their pre-selected preferrence criteria. None of the information requested can be used by the public to identify a specific individual. This includes visitors, other members, anyone not employed by Mehndi.com, its corporate affiliates, or the financial institutions we use to process membership fees. 
+Mehndi.com is strongly committed to protect your privacy. This statement discloses the information gathering process and the privacy and dissemination practices for this website. Mehndi.com has created this privacy statement in order to demonstrate our firm commitment to protect your personal privacy.
 
-Mehndi.com is a membership-based service that collects credit card numbers, addresses, and bank information only from those who choose to sign up as paid members. Any visitors to Mehndi.com may choose to browse the site, search the profiles and/or view any articles by signing up for a free trial membership. 
+Mehndi.com may contain links to other websites and we are not responsible for the privacy practices or the content of such sites. 
 
-Mehndi.com's registration form requires users to provide contact information such as an email address and demographic information (such as zip code, age, or income level). Mehndi.com also occasionally runs contests and conducts online surveys that ask visitors for contact information such as name and email address and demographic information such as zip code, age, or income level. 
+We have adopted the following practices in order to safeguard the confidentiality of your personal information to the best of our ability. 
 
-Mehndi.com contains links to other web sites and Mehndi.com is not responsible for the privacy practices or the content of such sites. 
+**1\. Automatic information gathering from members**  
+Automatic Information is data that we collect that does not disclose any personal information about you. This includes your IP address, ISP details, browser type, and browser settings. We use your IP address (the numeric code that identifies your individual internet connected PC) to avoid fraudulent registrations and to help us maintain our site and identify problems with our server. Your IP address does not disclose any personally revealing information about you. We collect the ISP details via your IP address to help you find the suitable match in your area, Information that we may obtain regarding your browser and browser settings is to ensure that our site's technical features are available to you. The specific information we collect is not rented, sold, or shared with any third party without your explicit consent and is only ever disclosed in situations where required by law. We use cookies to identify traffic that comes through advertising and to improve user experience. Cookies are small pieces of information that a website places on your PC's hard drive to enable the website to recognize you and to save you the trouble of re-entering some basic information when you revisit. The use of cookies is a very common practice on the Internet. If you are uncomfortable with this, you can disable all cookies through your browser settings. Your ability to use our site will not be affected if you have set your browser to reject cookies. 
 
-Private, Public and Aggregate Information obtained by Mehndi.com 
+**2\. Information requested from members**  
+When you register to use Mehndi.com Services, you will be asked for some general identifying information which will enable us to provide you with this customized service. We gather contact information (like your email address) and demographic information (like your city of residence, gender or age). We do not share, rent or sell this information to any third party. If you choose to become a Premium Member, we collect financial information (like your credit card number, billing address, phone number and expiry date). We will only use this information in the course of providing our Services to you, and will not under any circumstances share such information with outside parties. We do not use any third party credit card processor so all the information is stored within one premises in 128 bit encryption.
 
-PRIVATE INFORMATION is any information that allows others to contact a user other than through Mehndi.com or allows the collection of information about the user other than what is displayed on the site. Private information is gathered from free trial members and regular members. This information includes, but is not limited to: email address, IP address, first name, last name, credit card number, and address. 
+**3\. Public and Private information**  
+Private information is information that can personally identify you such as your real name, email address or credit card number. When you register to use Mehndi.com service, you will be asked for some general identifying information to enable us to provide you with this customized service. We gather contact information (such as your email address) and, if you choose to sign up for a Full Membership or to purchase credits, financial information (such as your credit card number and expiry date). Financial information is gathered and processed through our own secure server not from any third party billing site, and encrypted via a secure server to ensure that others cannot read it. The secure site has a bold Icon about confirming the security of the site. You can click on the Icon to confirm the site security. We will only use your financial information in the course of providing our Services to you. The specific financial information we collect is not rented, sold, or shared with any third party, except to the financial institution that processes your transaction or where required by law. Public information will be available for registered members to view. This includes your demographic information such as gender, age, appearance, religion, occupation, and geographical location.
 
-PUBLIC INFORMATION is personal information that may be displayed on the site, such as gender, age and height, but cannot be linked to a particular user. Public information is personal information such as gender, age, ethnic background, appearance, and more. This information is meant to be seen by members and visitors to the site but cannot be used to identify a specific member by name, address, or other profile information. Members can post images of themselves but no identifying information is allowed to be posted with that image. 
+**4\. Use of and access to member information**  
+By signing up for this service, you specifically agree to receive communications from us, or through us, to the email address that you provide, including but not limited to: notifications of emails and instant messages you receive from other members on the site, relevant photos and profiles, updates regarding our service, special promotions and offers, and notices of changes to the site. Our site provides you with the opportunity to opt-out of receiving some types of communications from us by changing the settings on the page entitled "Profile options." If you do not opt-out of receiving such notices, they will be sent to you automatically, at our discretion. Your general demographic information is used to personalize your experience on the site; to compose your personal profile, which is associated with an identity you have created; to allow other members to find you through a search; we do not send any advertisement from third party via email to any member. 
 
-AGGREGATE: This is information we collect that is not personally identifiable, such as browser type and IP address. This information is gathered from all visitors to the site. 
+**5\. Managing or removing your personal information**  
+We keep the information you have given us for as long as you are a member on the site. You can always verify or request the removal of the personally identifiable information we have collected and change your registration information by visiting the appropriate subsection of "Edit Profile" To make changes to your profile, suspend your account, or remove your account completely, you may do so at any time by hiding the profile from ?Profile options? page. Once the profile is hidden, you will no longer receive any electronic communication from the site (email or SMS), and no members can view your profile information.
 
-Use of Information Obtained by Mehndi.com 
-
-PRIVATE INFORMATION: We use email addresses submitted by members when forwarding anonymous emails. Respondees' email addresses are not disclosed to the responder nor is any other personally identifiable information. We may use a user's email address to send news regarding our site or offers we feel appropriate to our members but with the exception of specific direct marketing emails following the free trial period, the user may choose not to receive email of this type by indicating upon joining up to not receive such mail or later at any time through our unsubscribe methods or by modifying their account information. 
-
-Email addresses may also be used in private correspondence with the user for customer service issues. Financial information that is collected is used to bill the user for services. All other private information submitted by the user is confidential and will not be disclosed except as required by law or to protect members of Mehndi.com. All private information can be updated or deleted by the user at any time. 
-
-PUBLIC INFORMATION: Public information supplied by the user is intended to be viewed by registrants and subscribers to the site. This information is used by registrants and subscribers for searching and matching purposes. 
-
-AGGREGATE: We use your server, IP address, and browser-type related information in the general administration of our website. It is not personally identifiable information and is not released to third parties. 
-
-Chat Rooms, Bulletin Boards, and Forums 
-
-Mehndi.com makes chat rooms available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information online. 
-
-Use of Cookies 
-
-We currently use cookies in our Chat areas and for our own advertising purposes. Please note that advertisers on the Mehndi.com site may send cookies to users of the site and Mehndi.com does not control or have access to this information. 
-
-Change/Delete 
-
-Mehndi.com gives trial members and paid members an option for modifying or removing their information from our database. Your privacy is one of our highest priorities. 
-
-If you have any questions about the Privacy Policy of Mehndi.com, please email them to info@mehndi.com. 
+**6\. Monitoring online activity**  
+Our members communicate with each other through instant messages, voice mail and onsite mail. While we do not generally censor or monitor members' private exchanges, we reserve the right to do so if we suspect users of being under 18 or of using our Services in violation of our terms of use, Privacy Statement or disclosure agreement. Member submissions that appear on the public area of the site are moderated and, if necessary, we reserve the right to edit, delete, remove or not use any communication on a public area of the site.
