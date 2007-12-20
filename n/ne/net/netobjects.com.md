@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netobjects.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630060925id_/http%3A//www.netobjects.com/html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netobjects.com privacy policy that was archived on 2007-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071220212100id_/http%3A//www.netobjects.com/html/privacy.html) for the most accurate reproduction.*
 
 # NetObjects - Privacy Policy
 
