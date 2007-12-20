@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the lijit.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429140451id_/http%3A//www.lijit.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lijit.com privacy policy that was archived on 2007-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071220035908id_/http%3A//www.lijit.com/privacy_policy) for the most accurate reproduction.*
 
 # Lijit | Privacy Policy
 
-Privacy Policy of Lijit Networks, Inc.
+## Privacy Policy of Lijit Networks, Inc.
 
-Lijit Networks, Inc. (“ **Lijit** ”, “ **us** ”, or “ **we** ”) takes the privacy and protection of your personal information very seriously. By visiting the Lijit website, located at http://www.lijit.com (the “ **Website** ”), and/or using any of our other services (the Website and other services Lijit offers are collectively referred to as “ **Lijit Services** ” in this privacy policy), you acknowledge that you accept the practices and policies outlined in this privacy policy (“ **Privacy Policy** ”). 
+Lijit Networks, Inc. (" **Lijit** ", " **us** ", or " **we** ") takes the privacy and protection of your personal information very seriously. By visiting the Lijit website, located at http://www.lijit.com (the " **Website** "), using the Lijit search widget (the " **Wijit** "), and/or using any of our other services (the Website, Wijit, and other services Lijit offers are collectively referred to as “ **Lijit Services** ” in this privacy policy), you acknowledge that you accept the practices and policies outlined in this privacy policy (“ **Privacy Policy** ”). 
 
 **What This Privacy Policy Covers**
 
@@ -24,7 +24,7 @@ We collect and use Personal Information and Anonymous Information as described i
 
 The Personal Information we gather from you helps us learn more about the visitors and Users of our Lijit Services. We collect the following Personal Information that you submit to us voluntarily:
 
-Our registration process requires you to provide Lijit with a valid email address as well as a username and password of your choice. We may also request optional information, such as your first and last name, year of birth, zip code, and country of residence.  
+Our registration process requires you to provide Lijit with a valid email address and a username and password of your choice. We may also request optional information, such as your first and last name, year of birth, zip code, and country of residence.  
 When you sign up to receive the Lijit newsletter, we will collect your email address.  
 When you contact us by sending us an email, we will collect any information that is contained in your email.
 
@@ -44,10 +44,9 @@ We may receive Personal Information about you from other sources like telephone 
 
 **Use Of Information We Collect**
 
-In general, Personal Information you submit to us is used by us either to register you for our Lijit Services, respond to requests that you make, to improve our Lijit Services and to better tailor the features, performance and support of the Lijit Services, and to offer you additional information, opportunities, and functionality.  
-We may also use your Personal Information to provide you with electronic newsletters or promotional e-mails, should you request to receive such communications from us.
+In general, Personal Information you submit to us is used by us either to register you for our Lijit Services, respond to requests that you make, to improve our Lijit Services and to better tailor the features, performance and support of the Lijit Services, and to offer you additional information, opportunities, and functionality. We may also use your Personal Information to provide you with electronic newsletters or promotional e-mails, should you request to receive such communications from us.
 
-One of the ideas behind our Lijit Services is that the Users share information about websites. Therefore, you should assume that any information that you enter into or post on the Lijit Services (excluding your registration information) will be openly shared with other Users of the Lijit Services and may also be available to people outside the Lijit Services. Please be aware that if you enter any Personal Information into publicly available sections of the Lijit Services, this information will be displayed to anyone who has access to these sections.
+One of the ideas behind our Lijit Services is that the Users aggregate existing information about themselves, such that it may be searched by others. Therefore, you should assume that any information that you enter into or post on the Lijit Services (excluding your registration information) will be openly shared with other Users of the Lijit Services and may also be available to people outside the Lijit Services. Please be aware that if you enter any Personal Information into publicly available sections of the Lijit Services, this information will be displayed to anyone who has access to these sections.
 
 We may create Anonymous Information records from Personal Information by excluding information (such as your name) that makes the information personally identifiable to you. We may use this Anonymous Information to analyze usage patterns so that we may enhance our Lijit Services. We reserve the right to use and disclose Anonymous Information to third parties in our discretion.
 
@@ -72,11 +71,11 @@ We may disclose your Personal Information if we believe in good faith that such 
 
 Unsubscribe instructions will accompany each newsletter or promotional communication you receive from us. You may also indicate in your account preferences that you do not wish to receive newsletters or other promotional communications from Lijit.
 
-We will send you strictly service-related announcements (such as, but not limited to, notices of any updates to our Terms of Use, End User License Agreement, or Privacy Policy) when it is necessary to do so. You may not opt-out of these communications, which are not promotional in nature, but if you do not wish to receive these announcements, you have the option to deactivate your account, which involves termination of the [Terms of Use](http://www.lijit.com/terms_of_use) and the EULA[hyperlink].
+We will send you strictly service-related announcements (such as, but not limited to, notices of any updates to our Terms of Use or Privacy Policy) when it is necessary to do so. You may not opt-out of these communications, which are not promotional in nature, but if you do not wish to receive these announcements, you have the option to deactivate your account, which involves termination of the [Terms of Use](http://www.lijit.com/terms_of_use).
 
 The Lijit Services display some of the information you enter when you create your account by registering as a User of the Services, such as your username and bio, as well as your network of connections and reporting activity. Of this information, you may access and remove or modify only your bio. To prevent any other information from the account being displayed by the Lijit Services, you may contact us to delete your account. When we delete information about you, it will be deleted from our active databases but may remain in our archives.
 
-Lijit is a [member of AttentionTrust](http://attentiontrust.org/member/939) and upholds the principles described at: <http://www.attentiontrust.org/about#principles>. Lijit Users may request a copy of or may request to have their personal attention history deleted, which Lijit defines as the click-stream data we collect and have stored at the time of the request. Lijit will take commercially reasonable efforts to provide this data to the requesting user within ninety (90) days of submission of the request. Requests related to personal attention history should be sent to 
+Lijit is a [member of AttentionTrust](http://attentiontrust.org/member/939) and upholds the principles described at: <http://www.attentiontrust.org/about#principles>. Lijit Users may request a copy of or may request to have their personal attention history deleted, which Lijit defines as the click-stream data we collect and have stored at the time of the request. Lijit will take commercially reasonable efforts to provide this data to the requesting user within ninety (90) days of submission of the request. Requests related to personal attention history should be sent to: 
 
 [info@lijit.com](mailto:info@lijit.com)
 
@@ -100,10 +99,6 @@ This Privacy Statement is a living document. We reserve the right to modify this
 
 **Contact Us**
 
-If you have any questions or suggestions regarding our Privacy Policy please contact us.
+If you have any questions or suggestions regarding our Privacy Policy please [contact us](http://www.lijit.com/feedback).
 
-This Privacy Policy was last updated in September 2006.
-
-Lijit Privacy Policy
-
-604652 v5/HN 
+_This Privacy Policy was last updated in August 2007._
