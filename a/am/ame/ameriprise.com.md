@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ameriprise.com privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622014429id_/http%3A//www.ameriprise.com/amp/global/legal/privacy-statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ameriprise.com privacy policy that was archived on 2007-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071220120025id_/http%3A//www.ameriprise.com/amp/global/legal/privacy-statement.asp) for the most accurate reproduction.*
 
 # Ameriprise Financial — Privacy Statement
 
@@ -35,7 +35,7 @@ We want you to get the most out of your visits to our website. From offering spe
 
 We will maintain information about your account, online account activity, online services and products requested and your usage of our website to help us administer your online account needs and to continually improve your online experience by providing you with customized, relevant information and offers.
 
-**TO PARENTS OF CHILDREN UNDER 13:** We do not knowingly solicit data online from or market online to children under the age of 13\. If you are a parent or guardian of a child under the age of 13 and believe that personal information may have been collected about such child, please see How We Use The Information We Collect and Your Opt-Out Choices.
+**TO PARENTS OF CHILDREN UNDER 13:** We do not knowingly solicit data online from or market online to children under the age of 13. If you are a parent or guardian of a child under the age of 13 and believe that personal information may have been collected about such child, please see How We Use The Information We Collect and Your Opt-Out Choices.
 
 ### How We Use The Information We Collect
 
@@ -66,9 +66,10 @@ We recognize that email can be the preferred mode of communication for some of o
 
 **We may use your email address to send you the following types of email messages:**
 
-  * Service notifications related to your accounts(s) 
+  * Service notifications related to your accounts(s)
   * Regularly scheduled email newsletters related to Ameriprise Financial
   * Products or services you are enrolled in
+  * Requests for names and contact information of individuals you think could benefit from our products or services
   * Optional email communications which you have signed up for (e.g., newsletters on a selected financial topic)
   * Occasional updates about our products and services as well as Ameriprise Financial marketing offers
   * Valuable offers from non-affiliated companies that we send you on their behalf
@@ -79,9 +80,11 @@ Also, once you have requested information from us, we may communicate with you v
 
 To make our email offers more relevant to you, we may use information you provided in your initial transaction with us, in surveys, from information we have about you as an Ameriprise Financial client and information available from external sources such as census bureau data.
 
+Email communications sent to you by Ameriprise Financial or its service providers may contain web beacons. The web beacons allow Ameriprise Financial to know which emails are opened and acted upon so we can provide more relevant content or offers in the future.
+
 We do not share your email address with non-affiliated companies for them to market their products or services directly to you. However, we may partner with selected non-affiliated companies to offer certain products or services we believe may be of interest to you.
 
-You may receive email offers from other companies for Ameriprise Financial products and services if you registered to receive third-party offers on their website, or if you receive ongoing email newsletters from the other companies that include third-party ads. If you have recently opted out of receiving email offers from Ameriprise Financial, we will process and honor your request as soon as administratively possible. In certain circumstances, you may receive email offers for Ameriprise Financial products and services from other companies during the time period when we are processing your opt-out request.
+You may receive email offers from other companies for Ameriprise Financial products and services if you registered to receive offers on their website, or if you receive ongoing email newsletters from the other companies that include third-party ads. If you have recently opted out of receiving email offers from Ameriprise Financial, we will process and honor your request as soon as administratively possible. In certain circumstances, you may receive email offers for Ameriprise Financial products and services from other companies during the time period when we are processing your opt-out request.
 
 To opt-out of receiving offers or email newsletters from other companies, follow the instructions provided by those companies.
 
@@ -131,7 +134,7 @@ Identity theft occurs when someone uses your name or personal information, such 
 ### Preventing Identity Theft
 
   1. **Secure your personal information at home and at work.** Consider keeping your sensitive personal information such as bank, mortgage, and credit card statements, Social Security cards, and other documents and passwords, in a safe location accessible only to you.
-  2. **Protect yourself online:** Avoid accessing your financial accounts online from public computers at libraries, hotel business centers or at airports. These are prime target areas for thieves using keystroke monitoring tools to steal your usernames and passwords. Use firewalls, anti-spyware and anti-virus software to protect your home computer and regularly update these programs. For more information and helpful tips visit the [SEC website](http://www.sec.gov/investor/pubs/onlinebrokerage.htm) or the [NASD site](http://www.nasd.com/InvestorInformation/InvestorAlerts/TradingSecurities/ProtectYourOnlineBrokerageAccountSafetyShouldComeFirstWhenLoggingInandOut/index.htm).
+  2. **Protect yourself online:** Avoid accessing your financial accounts online from public computers at libraries, hotel business centers or at airports. These are prime target areas for thieves using keystroke monitoring tools to steal your usernames and passwords. Use firewalls, anti-spyware and anti-virus software to protect your home computer and regularly update these programs. For more information and helpful tips visit the [SEC website](http://www.sec.gov/investor/pubs/onlinebrokerage.htm) or the [FINRA site](http://www.nasd.com/InvestorInformation/InvestorAlerts/TradingSecurities/ProtectYourOnlineBrokerageAccountSafetyShouldComeFirstWhenLoggingInandOut/index.htm).
   3. **Shred documents containing your personal information before discarding them.** Identity thieves have been known to “dumpster dive” to obtain discarded documents with personal information.
   4. **Obtain your credit report from each of the three major credit bureaus once every six to 12 months.** Review these reports for any inaccurate information, or any transactions that you were not aware of or did not authorize. You may wish to consider occasionally reviewing Credit Bureau Reports on your children. Identity thieves have been known to steal children's Social Security numbers in order to create fraudulent accounts, as their information is not likely to be reviewed regularly.
   5. **Avoid giving out personal information over the phone** especially when the telephone call is initiated by another party. Identity thieves may pose as a representative of a legitimate organization with whom you do business and may contact you to "verify" your information.
@@ -139,7 +142,7 @@ Identity theft occurs when someone uses your name or personal information, such 
   7. **Do not give out your Social Security number** to people or companies that you do not know.
   8. **Carry only the information you need.** Only take with you the credit cards you need, and avoid carrying your Social Security card, your birth certificate or passport, except when necessary.
   9. **Have the Postal Service hold your mail if you are going to be gone for a few days or more.** Since identity thieves have been known to obtain personal information by collecting an individual's mail, promptly remove your incoming mail from your mailbox and place outgoing mail in post office collection boxes. Have the Postal Service hold your mail at the post office if you are planning on being away for any period of time. Install a locking mailbox if mail theft is a problem in your neighborhood.
-  10. **Create unique passwords and personal identification numbers (PINs)** and avoid using easily available information such as mother's maiden name, date of birth, or the last four digits of your Social Security number. Use passwords on your banking and brokerage accounts, and update all of your passwords regularly. 
+  10. **Create unique passwords and personal identification numbers (PINs)** and avoid using easily available information such as mother's maiden name, date of birth, or the last four digits of your Social Security number. Use passwords on your banking and brokerage accounts, and update all of your passwords regularly.
 
 
 
@@ -155,16 +158,16 @@ First contact each of the three national bureaus and request copies of your cred
 
 EQUIFAX  
 Order Credit Report: (800) 685-1111  
-[www.equifax.com](http://www.equifax.com/)
+[equifax.com](http://www.equifax.com/)
 
 EXPERIAN  
 Order Credit Report: (888) 397-3742  
-[www.experian.com](http://www.experian.com/)
+[experian.com](http://www.experian.com/)
 
 TRANS UNION  
 Order Credit Report: (800) 888-4213  
 Fax: (714) 447-6034  
-[www.transunion.com](http://www.transunion.com/)
+[transunion.com](http://www.transunion.com/)
 
   2. **Review Your Credit Reports**
 
@@ -206,23 +209,23 @@ Request copies of your credit report from each bureau to review. If information 
 **EQUIFAX  
 **Order Credit Report: (800) 685-1111  
 Report Fraud: (800) 525-6285  
-[www.equifax.com](http://www.equifax.com/)
+[equifax.com](http://www.equifax.com/)
 
 **EXPERIAN  
 **Order Credit Report: (888) 397-3742  
 Report Fraud: (888) 397-3742  
-[www.experian.com](http://www.experian.com/)
+[experian.com](http://www.experian.com/)
 
 **TRANS UNION  
 **Order Credit Report: (800) 888-4213  
 Report Fraud: (800) 680-7289  
 Fax: (814) 447-6034  
-[www.transunion.com](http://www.transunion.com/)
+[transunion.com](http://www.transunion.com/)
 
 You may also want to file a "Victim Statement" with the bureaus asking them to notify you before any new accounts are opened or any existing accounts are changed in your name. This may reveal illicit attempts to open additional accounts in your name.
 
 **3\. Close Suspect Accounts**  
-Close the accounts you know or suspect involve identity fraud. 
+Close the accounts you know or suspect involve identity fraud.
 
 **Checks:** If your checks have been stolen or you suspect they have been misused, contact your financial institution to stop payments. Familiarize yourself with your state's laws concerning stolen and forged checks. You can contact your State Attorney General's office or local consumer protection agency to find out about any laws in your state related to identity fraud. Most states hold the financial institution responsible for losses related to a forged check. However, it may be your responsibility to notify the financial institution of the possible forgery in a timely manner.
 
@@ -231,7 +234,7 @@ Close the accounts you know or suspect involve identity fraud.
 
 
 Telecheck: (800) 710-9898  
-Certegy, Inc: (800) 437-5120 
+Certegy, Inc: (800) 437-5120
 
   * You can also find out if the thief has been passing bad checks on your account by calling SCAN at (800) 262-7771.
 
@@ -240,8 +243,8 @@ Certegy, Inc: (800) 437-5120
 **Credit Accounts and ATM Cards:  
 **Report the incident to all institutions with which you hold credit card and ATM cards. Ask the financial institution or agency to send you a fraud dispute form to complete. When reopening new accounts, be sure to use new PINs to reduce the risk of future identity theft.
 
-  * If your financial institution is not assisting you with the issues related to your identity theft, you may contact the agency with jurisdiction over your financial institution. If you are not sure what agency has jurisdiction over your particular financial institution, you can find out by visiting [www.ffiec.gov/enforcement.htm](http://www.ffiec.gov/enforcement.htm).
-  * If you suspect your investment or brokerage accounts have been altered without your permission, report it to the Securities and Exchange Commission. You can file a report using their online Complaint Center at [www.sec.gov/complaint.shtml](http://www.sec.gov/complaint.shtml).
+  * If your financial institution is not assisting you with the issues related to your identity theft, you may contact the agency with jurisdiction over your financial institution. If you are not sure what agency has jurisdiction over your particular financial institution, you can find out by visiting [ffiec.gov/enforcement.htm](http://www.ffiec.gov/enforcement.htm).
+  * If you suspect your investment or brokerage accounts have been altered without your permission, report it to the Securities and Exchange Commission. You can file a report using their online Complaint Center at [sec.gov/complaint.shtml](http://www.sec.gov/complaint.shtml).
   * Keep in mind that each creditor may have its own process for handling a case of identity theft. Therefore, be sure to specifically ask each creditor what its process is, what is expected of you, and what you can expect from them.
 
 
@@ -249,138 +252,4 @@ Certegy, Inc: (800) 437-5120
 **4\. Contact the authorities**
 
 **Federal Trade Commission**  
-FTC counselors can take your report and provide additional advice on how to proceed if you believe you may have been a victim of identity theft. Their website is full of tips and also provides information on how to learn about laws in your state pertaining to identity theft. Also review, ["Take Charge: Fighting Back Against Identity Theft"](http://www.ftc.gov/bcp/conline/pubs/credit/idtheft.pdf).
-
-**Federal Trade Commission**  
-Identity Theft Clearinghouse  
-Federal Trade Commission  
-600 Pennsylvania Avenue NW  
-Washington, D.C. 20580  
-(877) IDTHEFT (438-4338)  
-[www.consumer.gov/idtheft](http://www.consumer.gov/idtheft)
-
-**Social Security Administration**  
-The SSA Office of the Inspector General investigates allegations of identity theft. If you know or suspect your SSN may be involved in the identity theft against you, you may want to contact the SSA to notify them, and to request a copy of your Social Security statement.
-
-**Social Security Administration**  
-SSA Fraud Hotline  
-P.O. Box 17768  
-Baltimore, MD 21235  
-(800) 269-0271  
-Email: [oig.hotline@ssa.gov](mailto:oig.hotline@ssa.gov)
-
-**U.S. Postal Inspection Service**  
-The USPIS is the law enforcement entity of the U.S. Postal Service and is the entity that investigates identity theft - specifically when the identity theft involves stolen mail or other violations of the integrity of the mail service.
-
-**U.S. Postal Inspection Service**  
-475 L'Enfant Plaza, S.W.  
-Washington, D.C. 20260  
-(800) 372-8347  
-[www.usps.gov/websites/depart/inspect](http://www.usps.gov/websites/depart/inspect)
-
-**Federal Bureau of Investigation  
-**FBI Internet Fraud Complaint Center  
-[www.fbi.gov](http://www.fbi.gov/)
-
-**5\. Keep a Record of Your Actions**
-
-  * Keep a file of documents related to the identity theft. You will want to include documents such as disputed bills, credit reports, police reports, and any correspondence.
-  * Maintain a record of your telephone conversations with the persons and agencies you contact for assistance. Be sure to record the date and time of the call, the name and title of the person you spoke with, and the things you discussed.
-  * Follow up all telephone conversations in writing and send these letters certified with return receipts requested; maintain copies of these written correspondences for your file.
-  * Maintain copies of any written correspondence you exchange related to the identity theft.
-  * Keep original documents for your file; only mail copies.
-
-
-
-**6\. Additional Fraud Resources**
-
-NON-PROFIT ORGANIZATIONS:
-
-**Identity Theft Resource Center  
-**P.O. Box 26833  
-San Diego, CA 92196  
-(858) 693-7935  
-Email: [voices123@att.net](mailto:voices123@att.net)  
-[www.idtheftcenter.org](http://www.idtheftcenter.org/)
-
-**Privacy Rights Clearinghouse  
-**3100 5th Avenue  
-Suite B  
-San Diego, CA 92103  
-(619) 298-3396  
-Email: [prc@privacyrights.org](mailto:prc@privacyrights.org)  
-[www.privacyrights.org](http://www.privacyrights.org/)
-
-STATE AND LOCAL GOVERNMENT AGENCIES:
-
-Contact your State Attorney General's office or local consumer protection agency to find out whether your state has laws related to identity theft.
-
-  * What is phishing?
-  * What does phishing look like?
-  * How does phishing work?
-  * How do I protect myself?
-  * Where do I find more information on how to protect my personal and financial data?
-  * How do I report suspected phishing attempts?
-
-
-
-### What is phishing?
-
-Phishing (pronounced "fishing") refers to fraudulent communications designed to deceive consumers into divulging personal, financial, or account information. Phishing emails often appear to come from legitimate financial institutions or retailers. Such requests may ask for information including account numbers, passwords, user names or Social Security numbers.
-
-These fraudulent emails often create a false sense of urgency intended to provoke the recipient to take immediate action; for example, phishing emails frequently instruct recipients to "validate" or "update" account information or face cancellation. In addition, marketing offers may also be used for attempted phishing. Phishers use a variety of techniques, which may include false "From" addresses, authentic-looking logos, or Web links and graphics. These techniques mislead consumers into believing that they are dealing with a legitimate request for sensitive information.
-
-Attachments within an email can also facilitate phishing. Do not open attachments in unfamiliar emails, as they may place programs known as "key stroke loggers" on your PC, which capture keystrokes you make (including when you logon to a site and enter your password). The data obtained can then be used to commit fraud.
-
-### What does phishing look like?
-
-The nature of phishing schemes has evolved and is likely to continue to do so in the future. Currently, online/email phishing is best described by the following characteristics:
-
-  * Emails using company logos and familiar language reporting a problem and asking you to update your account information by prompt return email or by filling out a website form.
-  * Emails with attachments asking you to install software so that fraudsters can use it to record your key strokes (called Keystroke Logging) and online activity.
-  * Emails that contain typographical or grammatical errors. Spelling errors allow fraudsters to bypass spam filters used by Internet Service Providers (ISPs).
-  * Windows that pop up over a legitimate company's website asking you to enter personal information.
-
-
-
-### How does phishing work?
-
-Phishing works by making an email or website appear to be legitimate, thereby providing potential victims with a false sense of security. The email or website requests the recipient to provide sensitive information, which may later be used to commit fraud.
-
-### How do I protect myself?
-
-Consider whether the company would be likely to ask you for the kind of information being requested. If you are at all in doubt about the authenticity of the communication, contact the company through familiar communication channels (e.g., the phone number provided on account statement).
-
-  * Do not click on a link in an email when you are not sure of its legitimacy, even if it looks genuine. If you are at all in doubt, contact the company directly.
-  * Avoid emailing personal and financial information.
-  * Never open email attachments from unknown sources.
-  * If you receive an email that you believe could be fraudulent, immediately forward it to [anti.fraud@ampf.com](mailto:anti.fraud@ampf.com).
-  * Regularly review your account statements.
-  * Do not share IDs/user names and passwords.
-  * Change your passwords regularly.
-  * Be aware that other Internet companies that you do business with may be phished. If you pay an online service and/or have your credit card on file with an Internet based company, be cautious of emails from such companies that request you validate your credit card or checking account numbers.
-  * Install the latest anti-virus and firewall applications to your computer.
-  * Follow your computer manufacturer's recommendations to ensure that your computer is current on its patches. Refer to your computer's documentation or user's manual for further information.
-  * If you feel your Ameriprise Financial account information has been compromised, please contact Ameriprise Financial immediately.
-
-
-
-### Where do I find more information on how to protect my personal and financial data?
-
-  * Ameriprise Financial provides useful additional resources to help you protect yourself against identity theft. To learn more, visit How You Can Protect Your Personal Information.
-  * The Federal Trade Commission provides useful resources: 
-    * "How Not to Get Hooked by the 'Phishing' Scam", available on the Federal Trade Commission website at [www.ftc.gov](http://www.ftc.gov/)
-    * "Take Charge: Fighting Back Against Identity Theft", available on the Federal Trade Commission website at [www.ftc.gov](http://www.ftc.gov/)
-
-
-
-### How do I report suspected phishing attempts?
-
-**If you receive an email that you believe could be fraudulent, immediately forward it to[anti.fraud@ampf.com](mailto:anti.fraud@ampf.com). Do not remove the original subject line, or change the email in any way when you forward it to us. If we find it to be fraudulent, we will immediately take appropriate action.**
-
-  * For clients requiring additional assistance, please [contact us](https://web.archive.org/amp/global/customer-service/contact-us.asp).
-  * If you have already responded to an email with your account information and you believe it to be fraudulent, please contact Ameriprise Financial immediately. For a list of phone numbers, please [click here](https://web.archive.org/amp/global/customer-service/contact-us.asp).
-
-
-
-It is strongly recommended that you file a report at [www.fbi.gov](http://www.fbi.gov/), [www.ftc.gov](http://www.ftc.gov/) or [www.antiphishing.org](http://www.antiphishing.org/). 
+FTC Federal Trade Commission, 600 Pennsylvania Avenue, N.W., Washington, D.C. 20580
