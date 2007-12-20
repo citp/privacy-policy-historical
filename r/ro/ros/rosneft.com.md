@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rosneft.com privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618111319id_/http%3A//www.rosneft.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rosneft.com privacy policy that was archived on 2007-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071220201650id_/http%3A//www.rosneft.com/privacy) for the most accurate reproduction.*
 
 # Rosneft - privacy
 
