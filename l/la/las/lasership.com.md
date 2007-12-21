@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lasership.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629204546id_/http%3A//www.lasership.com/LaserShip/privacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lasership.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221152339id_/http%3A//www.lasership.com/LaserShip/privacyPolicy.php) for the most accurate reproduction.*
 
 # :: LaserShip > Privacy Policy :: :: Delivery Solutions: Same day Delivery / Overnight Shipping / Global Next Flight / Strategic Distribution/ On-Demand / Local :: Main, New York, New Jersey, Philadelphia, Maryland, Virginia, Georgia, Florida , East Coast
 
