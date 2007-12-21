@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the softcomplex.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630202742id_/http%3A//www.softcomplex.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softcomplex.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221021345id_/http%3A//www.softcomplex.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Softcomplex - Privacy Policy
+
+affordable web development services
 
 ## Table of Contents
 
@@ -10,7 +12,6 @@
   * Product Ordering
   * Technical Support
   * Online Services
-  * Newsletter subscription
   * Illegal Software Usage Tracking
   * Employee Access to Customer Information
   * Specific content and Kid's privacy
@@ -27,15 +28,15 @@
 
 Here at Softcomplex we take your privacy seriously and we want you to be aware of any information we collect and the ways we use it. These are our basic guidelines to customers' privacy:
 
-  * We collect only minimum information required to deliver high quality products and/or services customer is interested in 
-  * We avoid any annoying practices related to customers' privacy even if they promise high profits 
-  * We respect freedom of choice so we ask for permission before doing something that customer may not like 
+  * We collect only minimum information required to deliver high quality products and/or services customer is interested in
+  * We avoid any annoying practices related to customers' privacy even if they promise high profits
+  * We respect freedom of choice so we ask for permission before doing something that customer may not like
 
 
 
 We do our best to make your business with us smooth and comfortable. Don't hesitate to [contact us](https://web.archive.org/support.html) should you have any suggestions or complaints.
 
-## Web Server's Log File
+## Web Server's Log File and Traffic Analytics
 
 As any other web site softcomplex.com keeps the record of all requests made and processed. This helps us maintain server and web site, analyze visitors activity, find broken links, optimize interfaces and code of our web applications and investigate security related issues. For you this means high speed, 24/7 reliable access to online resources and nice looking, easy to navigate pages.
 
@@ -54,28 +55,21 @@ Each record in server's log contains the following data:
 
 Note that log records contain no personal data.
 
+We may collect, process and analyze web site traffic information in aggregated non-personal form. Third party applications may be used for this purpose. Currently we utilize Google Analytics system [[read privacy policy](http://www.google.com/intl/en/privacy.html "Google")]
+
 ## Support Forum
 
 [Support forum](http://www.softcomplex.com/forum/ "Click to visit Softcomplex support forum \(opens in new window\)") is interactive constantly growing knowledge base that customers use to find answers to products related questions and discuss their challenges. No registration is required to read postings in the forum. Customers should create account in order to post messages in the forum. We neither share this information with anyone nor use it for any purposes not related to the forum. Registration form contains the following fields: 
 
   * **Username** \- required, must be unique 
-  * **E-Mail** \- required, your password will be send to this address upon successful registration 
-  * Site - optional 
-  * Aim - optional 
-  * ICQ - optional 
-  * Yahoo - optional 
-  * MSN - optional 
+  * **E-Mail** \- required, your password will be send to this address upon successful registration, not displayed to other visitors 
   * Location - optional 
-  * Birthday - optional (also see Kid's privacy section) 
-  * Bio - optional 
 
 
 
-When you post the message in the forum your registration information can be accessed by other visitors. If you don't want to disclose this information you can leave optional fields blank. E-mail address can be removed after the registration using profile editor of the forum. Removing your email address from the profile will also disable any e-mail notifications that forum supports (i.e. notification about new posting in some particular topic).
+The information you post in the forum will be viewed by other visitors. Make sure you don't provide any sensitive personal data such as passwords, secret URLs, license information etc.
 
-As long as information you post can be accessed by other visitors make sure you don't provide in your messages any personal information such as passwords, secret URLs, license information etc.
-
-Other members can contact you using 'user to user messaging' feature of the forum. These messages will be shown to you only when you login to the forum (no e-mails are sent). Make use of 'ignore list' if you don't want to receive message from particular member.
+Other members can contact you using 'user to user (U2U) messaging' feature of the forum. These messages will be shown to you only when you login to the forum (no e-mails are sent). Make use of 'ignore list' if you don't want to receive message from particular member.
 
 Forum uses Cookies for personalization features such as: 'New posts in this forum since last active' and for session tracking when you are logged in.
 
@@ -111,12 +105,6 @@ Technical information obtained while we provide support may be used to train per
 
 Softcomplex offers online services such as [Tigra Menu Online Builder](http://www.javascriptmenubuilder.com/ "Tigra Menu Online Builder"). Some online services require registration so data you enter while operating application is password protected from unauthorized access. Any information collected by online applications we offer is not disclosed to third parties and it is not used for any purposes not directly related to the functions of the application.
 
-## Newsletter subscription
-
-You may be interested in receiving notifications about new products released and about updates available for existing products. When subscription form is submitted we'll send verification message to insure that correct contact information provided and request is send by the owner of the address. We don't send more than one newsletter per month. Reason for mailing and unsubscribe instructions are provided at the top of each message. Removal requests are processed and confirmed immediately upon reception.
-
-Softcomplex newsletter does not advertise third party products or services. Information about subscribers is not shared with any third parties.
-
 ## Illegal Software Usage Tracking
 
 Free products and legally purchased commercial products do not disclose customer's privacy in any way. There is no 'spy ware' functions embedded into the code. Commercial products being illegally used may display warning messages and send reports to our server. We'll investigate all cases of pirated software usage.
@@ -129,7 +117,7 @@ Our corporate values, ethical standards, policies and practices are committed to
 
 All materials Softcomplex creates are safe for persons of any age including kids. Also no political, cultural, religious or any other preferences are ever expressed in the content offered.
 
-Visitors are never required to specify age information. Parents should advice kids to leave age and/or birth date fields blank.
+Visitors are never required to specify age information.
 
 ## Compliance with Legal Process
 
@@ -162,11 +150,10 @@ Don't hesitate to [contact us](http://www.softcomplex.com/support.html "contact 
 
 Internal Links:
 
-  * [**Softcomplex Homepage**](http://www.softcomplex.com/ "visit our homepage and learn more about our company") \- visit our homepage and learn more about Softcomplex
-  * [**Web Site User Agreement**](http://www.softcomplex.com/site_agreement.html "Softcomplex.com web site user agreement") \- information related to use of softcomplex.com and responsibilities
-  * [**Newsletter**](http://www.softcomplex.com/newsletter/ "be notified about new product releases, updates and discounts we offer") \- be notified about new product releases, updates and discounts we offer
-  * [**Support Forum**](http://www.softcomplex.com/forum/ "find answers to your technical questions, share your code and discuss your challenges with other customers") \- find answers to your technical questions, share your code and discuss your challenges with other customers
-  * [**Contact US**](http://www.softcomplex.com/support.html "contact Softcomplex in the way that is most convenient for you") \- contact Softcomplex in the way that is most convenient for you
+  * [**Softcomplex Homepage**](https://web.archive.org/ "visit our homepage and learn more about our company") \- visit our homepage and learn more about Softcomplex
+  * [**Web Site User Agreement**](https://web.archive.org/site_agreement.html "Softcomplex.com web site user agreement") \- information related to use of softcomplex.com and responsibilities
+  * [**Support Forum**](https://web.archive.org/forum/ "find answers to your technical questions, share your code and discuss your challenges with other customers") \- find answers to your technical questions, share your code and discuss your challenges with other customers
+  * [**Contact US**](https://web.archive.org/support.html "contact Softcomplex in the way that is most convenient for you") \- contact Softcomplex in the way that is most convenient for you
 
 
 
