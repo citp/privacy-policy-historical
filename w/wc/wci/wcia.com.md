@@ -1,112 +1,57 @@
-> *The following text is extracted and transformed from the wcia.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602032812id_/http%3A//wcia.com/now/story/0%2C1597%2C53940-392%2C00.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wcia.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221233319id_/http%3A//www.illinoishomepage.net/content/about/privacypolicy) for the most accurate reproduction.*
 
-# CBS.com--CBS.com Privacy Statement
+# Illinoishomepage.net - Privacy Policy
 
-**(CBS)**  We take your electronic privacy seriously. Questions regarding this statement or our practices should be directed to the cbs.com Privacy Coordinator by email at [privacy@cbs.com](mailto:privacy@cbs.com). You may also send inquiries by mail to: 
+**1\. Policy**  
+This Privacy Policy is a part of the Site’s Terms and Conditions which is binding on all Site users including users of websites operated by a television station in the Nexstar family. The policy of Nexstar Broadcasting Group, Inc. (“Nexstar”)is to respect and protect the privacy of our users. Nexstar includes as part of its mission, the constant effort to build users’ trust and confidence in the Internet by promoting fair information practices. To fulfill this mission, Nexstar agrees to exercise reasonable precautions to maintain the confidentiality of information provided by you in connection with accessing and using the Sites. Because we gather certain types of personally identifiable information (“Personal Information”) from users of our websites, we feel you should know how we collect, use, disclose, manage, and store the Personal Information that you may voluntarily provide us and the Personal Information that is collected passively through the use of cookies or image tags on our websites. Nexstar agrees to post prominently and in plain language its specific privacy policies. This Privacy Policy sets forth Nexstar’s current policies and practices with respect to nonpublic personal information of the users of the Sites. Your continued participation on these Sites indicates your acceptance of this Privacy Policy and of the collection, use, disclosure, management and storage of your Personal Information as described below. 
 
-**Privacy Coordinator  
-CBS.com (555/13)   
-524 West 57th Street   
-New York, New York 10019**
+**2\. Collection and Use of Information**  
+Generally, you may browse a Site without providing any Personal Information. We do not collect personal information about individuals except when specifically and knowingly provided by such individuals. The Sites provide certain activities where we gather Personal Information from users of the Sites, such as an activity that requires that a user complete a registration process and receive/select a “user name” and password. Registration to participate in these Site activities may require the submission of your email address, zip code, date of birth and other Personal Information. Other Personal Information that may be submitted include your full name, postal address, gender, industry you work in, occupation/role, household income, and preferred news source, to name a few. You will also have the ability to opt-in to additional subscription services, such as email news alerts, and promotional and marketing information to be received directly from our Advertisers. 
 
-We reserve the right to change our policy from time to time as we deem appropriate in our sole discretion. 
+Unless otherwise provided in a separate registration page, we do not request contact information for a mobile phone, text messaging or any wireless device that includes a domain name address (such as “wireless.bellsouth.com”) as part of the contact information. Federal law prohibits the sending of commercial email messages directly to a wireless device that uses a domain name, unless you have first given your affirmative consent. We may inadvertently collect a wireless device number that includes a domain name when you send us an inquiry or register for a contest or membership club. However, we will not knowingly use that contact information for sending commercial email. We reserve the right to respond to user inquiries or requests sent via a wireless device that uses a domain name as such messages are not deemed to be commercial email and therefore, are not regulated by Federal law. 
 
-**KINDS OF INFORMATION**   
-There are two kinds of information Web sites can obtain about you: AGGREGATE INFORMATION: Aggregate Information is anonymous data that Web sites use to diagnose problems on the sites' servers, administer the sites, and to help improve the quality of the Web pages. It may be your domain name (i.e. "XYZ.com") or your IP address. PERSONALLY IDENTIFIABLE INFORMATION: Personally Identifiable Information is any information that personally identifies you. It can be your first and last name, your email address, your home address, or your telephone number. Sometimes this personal information is needed when you order products online or subscribe to an email newsletter. Other times, web sites collect this information to help target advertising and marketing. 
+We use your Personal Information to provide you with the features, services, or goods you request and to respond to billing and/or other such questions related to Nexstar or Sites. We will also use your Personal Information to notify you about updates, new features, programming and activities on behalf of Nexstar, the Sites, or our Advertisers that may be of interest to you. 
 
-We collect Aggregate Information - such as your IP address (a number that's automatically assigned to your computer whenever you're surfing the Internet), browser type (e.g., Netscape or Internet Explorer), and domain (e.g., "XYZ.com"). We do this in the background so it does not interrupt your cruising speed. We use this information to help diagnose problems with our servers, to administer our site, and to gather broad demographic information. We share Aggregate Information with third parties for advertising and promotional purposes. None of this information is connected with Personally Identifiable Information. So, when you enter our site, you are anonymous and will remain that way unless you choose otherwise. 
+We may also use your information for hiring, operational and business purposes, or to find out how we can improve our company and Sites via surveys or online tracking mechanisms. We use aggregate Personal Information collected directly during the registration process and via cookies to help us evaluate and modify existing services and features, as well as provide demographic and geographic information to Advertisers. (For more information on “cookies” and our policy on the use of cookies see below). We also use your Personal Information to develop new services and features that may be of interest to you. **3\. Disclosure of Information**  
+We will not sell, exchange, rent, lease or otherwise disclose your Personal Information or sensitive personal information to any third party without your consent. However, Nexstar may disclose personal information in special cases: (1) when we have reason to believe that disclosing this information is necessary to identify, contact, or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) the rights of Nexstar or to anyone that could be harmed by such activities; (2) when we believe in good faith that the law requires it; (3) to any affiliate or to any third party who may acquire Nexstar; and (4) in situations involving threats to the physical safety of any person. 
 
-**COOKIES**
+**4\. How You Can Review or Correct Your Personal Information**  
+You may contact Nexstar at PrivacyAdministrator@nexstar.tv to ask if we are keeping personal information about you. If we do have personal information about you, we will provide you with a readable copy of such personal information at no charge. Factual errors in your personal information, including out-of-date information, can be corrected by sending us a request that credibly shows our error. 
 
-We use [cookies](https://web.archive.org/now/story/0,1597,31142-392,00.shtml) to remember your zip code so that you can maintain a customized view of CBS.com showing your city's CBS-TV affiliate Web site. We may also use cookies when we conduct polls, surveys, chat rooms and contests to limit multiple responses and registrations. 
+**5\. Information-Sharing Disclosure Request**  
+You may request a Notice of Information-Sharing Disclosure which will identify the third parties with whom Nexstar has shared the information we have collected from you. You may request the Notice of Information-Sharing Disclosure by writing us at Privacy Administrator, Nexstar Broadcasting Group, 909 Lake Carolyn Parkway, Suite 1450, Irving, TX 75039. You may also send us your Notice of Information-Sharing Disclosure request via e-mail at PrivacyAdministrator@nexstar.tv or by telephone at (972) 373-8800. We will respond to your request for a Notice of Information-Sharing Disclosure within thirty (30) days of receipt. 
 
-We will never use cookies to retrieve information from your computer that was not originally sent by us to you in a cookie. We do not use information transferred through cookies for any promotional or marketing purposes. 
+**6\. Opt-Out Procedures**  
+You may always opt-out of receiving communications from us. To remove any personal information from our database or to not receive future e-mail communications from Nexstar, send an e-mail to PrivacyAdministrator@nexstar.tv with the word “remove” in the subject line. Further, if you do not want your personal information shared with third parties in the manner discussed in Section 3, “Disclosure of Information,” please notify Nexstar by telephone at (972) 373-8800, by e-mail to [PrivacyAdministrator@nexstar.tv](mailto:PrivacyAdministrator@nexstar.tv) or at the following address:  
+Privacy Administrator  
+Nexstar Broadcasting Group.  
+909 Lake Carolyn Parkway, Suite 1450  
+Irving, TX 75039 
 
-You may occasionally get cookies from our advertisers and our vendors. We do not control these cookies, and these cookies are not subject to our privacy policy. The use of advertising cookies sent by third-party servers is standard in the Internet industry. 
+**7\. Security of Information**  
+You can be assured that personal information collected through the Sites is secure and is maintained in a manner consistent with current industry standards. The importance of security for all personal information associated with our subscribers is of utmost concern to us. Your personal information is protected in several ways. Your personal information resides on a secure server that only selected Nexstar employees and contractors have access to via password. We encrypt your personal information and thereby prevent unauthorized parties from viewing such information when it is transmitted to us. 
 
-Most browsers are initially set to accept cookies. If you'd prefer, you can set yours to refuse cookies or to alert you when cookies are being sent. However, it is possible that some parts of the site, such as the polls, surveys, contest, and game areas, will not function properly if you do so. 
+In order to most efficiently serve you, credit card transactions and order fulfillment are handled by established third-party banking, processing agents and distribution institutions. They receive the information needed to verify and authorize your credit card or other payment information and to process and ship your order. Financial transactions related to your purchases from Nexstar are handled by VeriSign Inc. (http://www.verisign.com/) and LaSalle Bank (<http://www.lasallebank.com/prospect.html>). Information relating to your financial transactions will not be maintained on Nexstar servers. Please visit the websites of VeriSign Inc. (http://www.verisign.com/) and LaSalle Bank (http://www.lasallebank.com/prospect.html) to familiarize yourself with its terms and conditions and with its privacy policies. 
 
-**SURVEYS AND REGISTRATION FORMS**
+Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, you acknowledge that: (a) there are security and privacy limitations of the Internet which are beyond our control; (b) the security, integrity, and privacy of any and all information and data exchanged between you and us through a Site cannot be guaranteed; and (c) any such information and data may be viewed or tampered with in transit by a third party. 
 
-Sometimes CBS.com posts surveys and registration forms in which we ask for Personally Identifiable Information. Here are some ways we might use that information: 
+**8\. Cookies**  
+You should be aware that non-personal information and data may be automatically collected on the Sites through the use of “cookies.” “Cookies” are small text files (no larger than 4k) stored as text on a computer hard drive. Websites can use “cookies” to recognize repeat visitors, facilitate the visitor’s ongoing access to and use of the site, and allow a site to track usage behavior and compile aggregate data that will allow content improvements. “Cookies” are not programs that come onto a visitor’s system and damage files. The use of “cookies” is common in the Internet industry, and many major websites use them to provide useful features to their customers. Generally “cookies” work by assigning a unique number to the visitor that has no meaning outside the assigning site. If a visitor does not want information collected through the use of “cookies”, there is a simple procedure in most browsers that allows the visitor to deny or accept the cookie feature. Nexstar uses “cookie” technology but only to obtain non-personal information from online visitors in order to improve their online experience and facilitate their visit within the Sites. 
 
-To send you information about CBS and this Web site   
-To give to our content partners, who may send you promotional material   
-To give to our advertisers, who may send you information about their products and services 
+**9\. Links to Third Party Websites**  
+The Sites may contain links to the websites of third parties not affiliated with Nexstar, including without limitation, VeriSign Inc. and LaSalle Bank, an affiliate of ABN AMRO Bank, N.V. You understand, acknowledge and agree that these links are provided solely as a convenience to you and not as an endorsement by the Sites or Nexstar of the content, advertising or business practices. Nexstar is 
 
-The choice is yours - you do not have to answer surveys or register for newsletters or service. If you choose to answer the survey or complete the registration, we will tell you on the survey or registration form how we will use the Personally Identifiable Information. If we are asking for optional information, we will mark it with an asterisk (*) so you know you can skip it if you want. And on that same page we will give you a way to "opt out" of being contacted by CBS.com and any third parties. We may share Personally Identifiable Information with CBS-TV affiliates and other sites operated by CBS and its affiliates. 
+_NOT_
 
-**CONTESTS AND SWEEPSTAKES**
+responsible for the privacy practices or the content on any of these other websites, including any sites that may indicate a special relationship or “partnership” with Nexstar. Nexstar does not disclose unique identifiers to those responsible for the linked sites. The linked sites, however, may collect personal information from you when you link to their site. This collecting of information is not subject to the control of Nexstar. To ensure protection of your privacy, always review the privacy policies of the sites you visit by linking from the Sites. 
 
-From time to time CBS.com runs contests and sweepstakes in which we ask for Personally   
-Identifiable Information such as your name, email address or telephone number. That's so we can let you know if you win. Sometimes we request additional Personally Identifiable Information such as your age, gender, and income level. And once in a while - though not often - we require this additional information in exchange for allowing you to enter the contest. Here are some of the ways we might use the information that we collect: 
+**10\. Our Commitment to Children’s Privacy**  
+Protecting the privacy of the very young is especially important. We never collect or maintain information at the Sites from persons we know to be under age 13, and no part of our Sites is designed to attract anyone under age 13. Please do not communicate with or contact us if you are under age 13. By your participation in our Site activities, you certify that you are at least 13 years of age and meet any other eligibility requirements of the Sites. 
+
+**11\. Changes to this Privacy Policy**  
+Nexstar may revise this Privacy Policy over time as new features are added to the Sites or as Internet law and standards evolve. We will post those changes prominently but we do recommend that you read this Privacy Policy each time you visit the Sites. Changes will not apply retroactively to personal information that was collected before the changes to the Privacy Policy, except as may be required by law. 
+
+Effective Date: October 10, 2006 
 
   
 
-  * To notify you if you are a winner
-  
-
-  * To send you information about CBS and our site
-  
-
-  * To give to content partners, who may send you promotional email
-  
-
-  * To give to advertisers, who may send you emails about their products and services
-
-  
-We may share Aggregate Information with our partners and advertisers. We will not share your Personally Identifiable Information with third parties unless we tell you otherwise when asking for it. We will give you a way to "opt out" of being contacted by CBS.com and any third parties. We may share Personally Identifiable Information with CBS-TV affiliates and other sites operated by CBS and its affiliates. 
-
-If you win one of our contests or sweepstakes, we will not publish your name, hometown, or other Personally Identifiable Information on the Site unless you give us your permission. 
-
-**OPT OUT**
-
-If we ask you for Personally Identifiable Information, we will tell you if we intend to share it with others. We will provide you with a way to tell us that you don't want us to share the information or if you don't want to receive promotional and/or marketing information about products, services, and offerings from CBS.com and/or any third parties. Let us know and we will use your name and address only to tell you if you win a contest. 
-
-**SUBPOENAS AND LAW ENFORCEMENT AGENCIES**
-
-We reserve the right to cooperate with government and law enforcement agencies engaged in investigations of activities that are, or are believed to be, illegal. Further, we may share your Personally Identifiable Information with such agencies if we believe that a crime or any act that endangers the health and safety of others may have been or may be committed. We may also share your Personally Identifiable Information in response to an appropriate subpoena. 
-
-**COMMUNITY AND PUBLIC AREAS**
-
-Information posted to message boards or chat areas is available to the general public. Please use caution when posting any such information. Users under the age of 18 should be particularly careful not to provide any personally identifying information while using chat rooms or message boards. We reserve the right to, but are not obligated to, refuse or delete any content that in our sole discretion is considered inappropriate. Please see our Terms of Service for additional information. 
-
-**FEEDBACK AND EMAIL**
-
-On every page at CBS.com there is a link to a "feedback" email form so you can comment, complaint, make suggestions, and ask questions. Your email address is required on this form so we can answer your questions, and we want your name, too, so we can address our answer in a mannerly way. We may also track your browser type and referring URL to better diagnose technical issues you may be having. We do not share this information with third parties and we will use it only to answer your correspondence. 
-
-**CBS-TV AFFILIATES**   
-CBS.com has a unique relationship with some of our CBS Television affiliates. If you are interested in local information, we will give you the option to choose a local affiliate or enter a zip code. We asked for this information so that your view of the site could be "branded" to your local CBS Television affiliate, or to any other CBS-Television affiliate you choose. You'll see their logo at the top of your screen. 
-
-Some of our affiliates provide their own content, such as local news stories. This content may be mixed with the content we produce. And some affiliates sell ads or run contests that will appear on their branded sites only. 
-
-We are not responsible for content or contests posted by our affiliates or for the use of any information that an affiliate may collect. 
-
-We use reasonable efforts to require that all content on our site conforms to our privacy policy. But we do not control, and we are not responsible for, the content or privacy policies of our affiliates. 
-
-**LINKS TO OTHER SITES**
-
-When you visit our site, you may be directed to other sites outside our service. For example, if you click on a banner advertisement, you will leave our site. This includes links to sites operated by advertisers, sponsors and partners that may use our logo as part of an agreement with us. These other sites may send their own cookies to users, collect data, or solicit personal information. These other sites are not subject to our privacy policy and we are not responsible for the privacy policies for these other sites, nor for the use of any information that these sites may collect. 
-
-**CBS STORE**
-
-The CBS Store uses a third-party fulfillment house to accept orders for CBS products purchased online. Names, street addresses, and financial information are required to complete these orders, and may also be used to contact customers about their orders or for billing questions when necessary. However, neither CBS nor the fulfillment house shares this information with third parties. 
-
-**DELETING OR MODIFYING YOUR INFORMATION**
-
-If you've given us Personally Identifiable Information in the past and then have second thoughts or want to update it, here are your choices: 
-
-Email to [privacy@cbs.com](mailto:privacy@cbs.com). 
-
-Regular mail to: 
-
-**Privacy Coordinator  
-CBS.com (555/13)   
-524 West 57th Street   
-New York, New York 10019**
-
-Although it is not always possible to remove or modify information in the databases, we will make reasonable efforts to do so. If you've given us information for one of those third parties we mentioned above and we've already passed it on, we cannot delete or change the information. 
-
-**SECURITY OF PRIVATE INFORMATION**
-
-Any personal information you give us is kept in secure files. Access is limited to the few employees who have a need to know. We would like to tell you that your information is as safe with us as it is in your head, but, as hackers have proved worldwide, no computer security system is entirely foolproof. The most any Web site can do is make reasonable efforts, which is what we do at [CBS.com](https://web.archive.org/now/section/0,1636,100-392,00.shtml), to protect your information from theft, misuse and alteration. 
