@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bl.uk privacy policy that was archived on 2007-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070621111258id_/http%3A//www.bl.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bl.uk privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221072955id_/http%3A//www.bl.uk/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy for the British Library Website
 
@@ -26,7 +26,7 @@ In using and submitting forms on this website you agree that the British Library
 
 ## **Payment**
 
-Payments by credit or debit card for some goods and services supplied by the British Library are processed using Netbanx. When the payment is processed by Netbanx, the details of the credit or debit card are collected over a secure link. The British Library does not collect any details and they are not made available to us. [Netbanx Ltd ](http://www.netinvest.co.uk/ncr/netbanx/information.html) will use the personal information you provide to process your online payment and to refund any monies due to you. When you make a payment online, Netbanx will use industry standard software, which encrypts your information. For further details about the security of this information, please refer to [ Netbanx Ltd](http://www.netinvest.co.uk/ncr/netbanx/information.html).
+Payments by credit or debit card for some goods and services supplied by the British Library are processed using Netbanx. When the payment is processed by Netbanx, the details of the credit or debit card are collected over a secure link. The British Library does not collect any details and they are not made available to us. [Netbanx Ltd ](http://www1.netbanx.com/) will use the personal information you provide to process your online payment and to refund any monies due to you. When you make a payment online, Netbanx will use industry standard software, which encrypts your information. For further details about the security of this information, please refer to [ Netbanx Ltd](http://www1.netbanx.com/).
 
 Netbanx may be contacted in writing at the following address: 
 
