@@ -1,108 +1,98 @@
-> *The following text is extracted and transformed from the saccounty.net privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205093935id_/http%3A//www.saccounty.net/disclaimer.html%23Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saccounty.net privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221205817id_/http%3A//www.saccounty.net/Disclaimer/SAC_Portal_DF_Privacy) for the most accurate reproduction.*
 
-# Welcome to the County of Sacramento - Conditions of Use
+# 
 
-| Quick Links  
+|   
 ---  
-[Board of Supervisors](http://boardofsupervisors.saccounty.net/)  
-[About the County](http://www.saccounty.net/portal/about/about.htm)  
-[FAQ](http://www.saccounty.net/portal/faq/faq.htm)  
-[Cities in the County](http://www.saccounty.net/portal/community/citiesinthecounty.htm)  
-[News & Reports](http://www.saccounty.net/portal/newsreports/newsreports.htm)  
-[County Directory](http://www.saccounty.net/portal/servicedir/servicedir.htm)  
-[Department Index](http://www.saccounty.net/portal/deptindex/deptindex.htm)  
+ [Board of Supervisors](http://www.bos.saccounty.net/)  
+ [About the County](https://web.archive.org/aboutthecounty/index.htm)  
+ [County Services A - Z](https://web.archive.org/county-services/index.htm)  
+ [Department Index](https://web.archive.org/Department-Index/index.htm)  
+ [Emergency Information](https://web.archive.org/emergency-information/index.htm)  
+ [Employment](http://hra.co.sacramento.ca.us/employ/opp/content.htm)  
+ [News](http://www.pio.saccounty.net/)  
+ [SacCounty TV](http://www.saccountytv.saccounty.net/)  
+ [Contact Us](https://web.archive.org/contact-us/index.htm)  
+ [Help](https://web.archive.org/help/index.htm)  
    
-Maps  
-   
-View Maps of the County, including school districts, supervisor districts, cities and more!  
-  
-[View Maps](http://www.saccounty.net/portal/maps/maps.htm)  
-  
-   
-Current Events  
-   
-  
-**California State  
-Railroad Museum  
-Walt Disney’s Backyard Railroad **  
-  
-[Through March 31, 2002](http://www.californiastaterailroadmuseum.org/doc.asp?id=401)  
-  
-  
-  
-   
-   
-|  | 
-
-Conditions of Use   
-  
----  
-|  | 
-
-By visiting the Sacramento County Portal, users agree that they will not use the site for any unlawful activity, or use it in any way that would violate the terms and conditions of use. This web site is governed and construed by the laws of the State of California. Any use of the web site shall comply with all Sacramento County and California laws and regulations as well as with all federal laws and regulations
-
-Unauthorized attempts to upload information or change information on this portal are strictly prohibited and may be punishable under the state Computer Trespass law and federal statutes including the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act.
-
-Third Party Links
-
-The County Portal may contain links to local, State and federal government agencies and to other websites. The inclusion of such links does not constitute an endorsement of the destination website nor the content, viewpoint, accuracy, opinions, policies, products or site accessibility. Nor does any linkage between the County and a third-party website imply sponsorship of that website.  
-  
----|---  
+Your Resources  
+ [e-Link](https://web.archive.org/online-services/index.htm)  
+ [Communities & Cities](http://www.communities.saccounty.net/)  
+ [Boards and](https://web.archive.org/boards-commissions/index.htm)  
+ [Commissions](https://web.archive.org/boards-commissions/index.htm)  
 | 
 
-Use of Information Collected
+######  [Home](https://web.archive.org/index.htm)  >  [Disclaimer](https://web.archive.org/Disclaimer/index.htm)
 
-Information use when only browsing the site Individuals only browsing the site, reading pages, or downloading information (not volunteering information) will have only the following non-invasive components collected: * The Internet Protocol (IP) Address and domain name used. IP address are an identifier assigned either to your Internet service provider or your computer. This address can be translated to determine the domain name of your service provider (e.g. company.com or xschool.edu). Generally, the County will only determine a visitor domain name if a security issue is suspected. * The type of browser and operating system you use * The date and time you visited this site * The web pages or services you accessed at this site * The web site you visited prior to coming to this web site 
+## Privacy Policy
 
-The information listed above is for information and statistical purposes only. The County may use this information to create summary statistics used to assess highly accessed information and pages to assist in determining technical design specifications, and/or assess system performance or problem areas.
+**Inquire about the availability of documents in[alternate formats.](https://web.archive.org/accessibility/index.htm)**  
+  
+Thank you for visiting the County of Sacramento website. This Privacy Policy outlines the types of information we gather when you visit our website, how that information is used as well as some of the steps we take to safeguard it.
+
+### Information Collection
+
+  * We do not collect personal information about you when you visit our website unless you choose to provide that information to us.
+  * We collect limited non-personally identifying information your browser makes available automatically whenever you visit a website. This information includes the Internet Address of your computer or network, the date, time, and page you visited on our site, your browser and operating system, and the referring page (the last webpage you visited before clicking on a link to our site).
+  * We use the aggregated information from all of our visitors to measure server performance, analyze user traffic patterns and improve the content of our site.
+  * We sometimes track the keywords that are entered into our search engine to measure interest in specific topics, but we do not track which terms a particular user enters.
+  * Some of our online services require you to register for an account. We ask you for some personal information in order to create an account (typically your name, email address and a password for your account) and we will use that information to provide the service. For certain services, such as our online payment services, we may request credit card or other payment information which may be stored temporarily in encrypted form on secure servers.
+
+
 
 Additionally, the County portal uses software programs for the purpose of monitoring network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. Except for authorized law enforcement investigations and the security purposes mentioned elsewhere in this notice, no other attempts are made to identify individual users or their usage habits. Raw data logs are used for no other purposes and are scheduled for regular destruction.
 
-Information use when you volunteer information
+### Collection of Personally Identifiable Information
 
-If choose to participate in a survey, send an email, or perform other transactions using this portal, the following additional information may be collected: * Your email address, and contents of emails sent through the portal - for purposes of providing you with a response. * Information volunteered in response to a survey or through online forms - for purposes identified by the survey or online form. * Information volunteered by participating in an online transaction with the County - for purposes of completing the transaction only. The County strives to collect the minimum information necessary to comply with applicable law or provide the requested service. The County does not sell, rent or otherwise distribute visitor's information, including electronic mail addresses, to any outside company or organization, unless legally required to do so. This applies to information that may be collected on the County's site and on that of any third party with whom the County contracts to provide Internet related services. 
+"Personal information" is information about an individual that is readily identifiable to that specific individual. Personal information includes personal identifiers such as an individual's name, address, and phone number. A domain name or IP address is not considered personal information. The County strives to collect the minimum information necessary to comply with applicable law or provide the requested service. The County does not sell, rent or otherwise distribute visitor's information, including electronic mail addresses, to any outside company or organization, unless legally required to do so. This applies to information that may be collected on the County's site and on that of any third party with whom the County contracts to provide Internet related services. If you choose to participate in a survey, send an email, or perform other transactions using this portal, the following additional information may be collected:
 
-Information Security
+  * Your email address, and contents of emails sent through the portal - for purposes of providing you with a response.
+  * Information volunteered in response to a survey or through online forms - for purposes identified by the survey or online form.
+  * Information volunteered by participating in an online transaction with the County - for purposes of completing the transaction only.
 
-The County has implemented security measures and systems into the design, implementation and day-to-day operation of its portal, underlying servers and networks. The County progressively implements new security measures as they become available on the market. Security measures are primarily to identify and/or block unauthorized intrusions, upload or change information or otherwise cause damage to the County portal. 
 
-Electronic Commerce
 
-Users choosing to engage in electronic commerce with the County are ensured reasonable security measures. E-commerce transactions are performed only under tightly controlled circumstances, where there are appropriate technological and other safeguards in place to protect financial and other sensitive data. County e-commerce systems supported on the County's web site ensure financial data remains secure and with individuals and institutions involved in the transaction. Wherever possible, financial information is not collected by the County. Rather, designated banks route the data, transfer the funds and confirm payment to both you and the County. The information above does ensure fail-proof security of information provided via the County 's web site. 
+The information collected may not be limited to text characters and may include audio, video, and graphic information formats you send us. The information is retained in accordance with the County’s policies. We may use your email to respond appropriately. This may be to respond to you, to address issues you identify, to further improve our web site, or to forward the email to another agency for appropriate action. Survey information would be used for the purpose designated.
 
-Use of Cookies
+### Notice To County
 
-Cookies are text files created by your browser and stored on your system for to aid in customizing your browsing experience. This portal may use "cookies". Cookies allow information to change as you navigate through this portal. Two types of cookies may be used, "session-only" and "persistent". Sacramento County uses cookies in the following ways: * If you wish to access information the County may use a session-only cookie to reserve storage on your computer in order to pass your inquiry information to a follow-on page for the purposes of retrieving requested information. The session-only cookies are erased either during web browser operation or after your web browser is shut down. * If you wish to conduct on-line transactions the County may use a session-only cookie when processing your request. The type of information voluntarily submitted to fulfill your request varies by transaction and may include your name, address, phone number, e-mail address, social security or federal identification number, credit card number and expiration date, and/or driver license number. The County cannot control the use of cookies by sites outside this portal. If you choose to link to a site through the portal, the County cannot control their use of cookies and this privacy policy will not apply. 
+Communications made through the County of Sacramento’s Web site shall in no way be deemed to constitute legal or official notice to the County of Sacramento, its agencies, officers, employees, representatives, or agents with respect to any existing, pending, or future claim or cause of action against the County of Sacramento or any of its agencies, officers, employees, representatives, or agents where notice is required by federal, state, or local law. No communication to the County of Sacramento made through this Web site shall be deemed to constitute legal or official notice for any purpose.
 
-Minors Privacy Policy
+This site is operated and maintained by the County of Sacramento through the Office of Communications & Information Technology (referred to as “OCIT”). Materials and information on the County of Sacramento's Web site are provided as a public service and intended to afford general guidelines on matters of public interest. Accordingly, the information in this site is not intended to serve as legal, accounting or tax advice. Except for the third party materials described below, the materials and information on this site were generated, compiled, or assembled at public expense and are freely available for non-commercial, non-profit making use, provided the user keeps intact all associated copyright, trademark, and other proprietary notices. The materials and information on this site may not be "mirrored" on another server without the written permission of the County of Sacramento.
 
-This site may have purpose to collect information from minors, on a voluntary basis, in relation to youthful based activities or County sites. Any information collected by the Sacramento County portal from children 13 and under is subject to the same guidelines of the County's general privacy policy as well as the following guidelines: * Parental consent will be obtained before collecting, using or disclosing personal information about a child. * In the event that the County changes its practices of collecting, using or disclosing any information in a substantive way, new parental consent will be obtained. An example of a change may include, what material is collected, how the information may be used, or third party access to that information. * Upon verification of a child's parent's identity, the requesting parent will be able to review the personal information collected from their child. * A parent will be allowed to revoke their consent and the County will delete information collected from or for their children on request. When consent is revoked, the website will stop collecting, using or disclosing information from or for that child. Revocation may end a child's participation in an activity if the information collected was necessary for participation on the website. Additional information can be obtained at the FTC's Consumer Response Center and the Kidz Privacy websites.
+Attempts to upload information or change information on the County of Sacramento’s Web site are strictly prohibited unless specifically authorized in writing by the County.
 
-Health Information
+### Information Security
 
-Agencies requesting or providing personally identifiable health care information this portal are required to certify that its health care data handling and security procedures are compliant with the Health Insurance Portability and Accountability Act of 1996 ("HIPAA"). If such data and security services are provided to such agency by a third-party provider, the agency shall be responsible for such third party's compliance with HIPAA.
+The County has implemented security measures and systems into the design, implementation and day-to-day operation of its portal, underlying servers and networks. The County progressively implements new security measures as they become available on the market. Security measures are primarily to identify and/or block unauthorized intrusions, upload or change information or otherwise cause damage to the County portal.
 
-Contact Information
+### Electronic Commerce
 
-The County is made up of a number of departments. Each department is responsible for the applications it develops including applications that may gather volunteered personally identifying information. In these cases, contact information is provided at the point of information entry allowing the user to contact that department either through e-mail or the phone. Additionally, contact information for the portal is provided and can be used as an initial point of contact in lieu of individual department contacts.   
-  
-| 
+Users choosing to engage in electronic commerce with the County are ensured reasonable security measures. E-commerce transactions are performed only under tightly controlled circumstances, where there are appropriate technological and other safeguards in place to protect financial and other sensitive data. County e-commerce systems supported on the County's web site ensure financial data remains secure and with individuals and institutions involved in the transaction. Wherever possible, financial information is not collected by the County. Rather, designated banks and financial partners route the data, transfer the funds and confirm payment to both you and the County.
 
-The Sacramento County e-Government Portal is striving to achieve the following accessibility standards and guidelines.
+### Use of Cookies
 
-Design Standards
+Cookies are text files created by your browser and stored on your system to aid in customizing your browsing experience. This portal may use "cookies". Cookies allow information to change as you navigate through this portal. Two types of cookies may be used, "session-only" and "persistent". Sacramento County uses cookies in the following ways:
 
-To insure maximum access to all web users the portal design utilizes the principles of Universal Design.  As summarized by the Center for Universal Design North Carolina State University, web applicable standard principles include the following: 
+  * If you wish to access information, the County may use a session-only cookie to reserve storage on your computer in order to pass your inquiry information to a follow-on page for the purposes of retrieving requested information. The session-only cookies are erased either during web browser operation or after your web browser is shut down.
+  * If you wish to conduct on-line transactions the County may use a session-only cookie when processing your request. The type of information voluntarily submitted to fulfill your request varies by transaction and may include your name, address, phone number, e-mail address, social security or federal identification number, credit card number and expiration date, and/or driver license number. The County cannot control the use of cookies by sites outside this portal. If you choose to link to a site through the portal, the County cannot control their use of cookies and this privacy policy will not apply.
 
-  * The design is useful and marketable to people with diverse abilities.
-  * The design accommodates a wide range of individual preferences and abilities
-  * Use of the design is easy to understand, regardless of the user's experience, knowledge, language skills, or current concentration level. 
-  * The design communicates necessary information effectively to the user, regardless of ambient conditions or the user's sensory abilities.
-  * The design minimizes hazards and the adverse consequences of accidental or unintended actions.
-  * The design can be used efficiently and comfortably and with a minimum of fatigue.
 
-These polices directed the creation of the portal templates and should serve as central reference points for Portal development.  
-  
-Back to Top of Page  
-© 2002 County of Sacramento.  
-[Privacy Policy](https://web.archive.org/web/20021205093935id_/http%3A//www.saccounty.net/disclaimer.html#Privacy) [Conditions of Use](https://web.archive.org/web/20021205093935id_/http%3A//www.saccounty.net/disclaimer.html#use) [Accessibility Policy](https://web.archive.org/web/20021205093935id_/http%3A//www.saccounty.net/disclaimer.html#Accessibility) [Contact Us](https://web.archive.org/web/20021205093935id_/http%3A//www.saccounty.net/portal/contact.htm)
+
+### Health Information
+
+Agencies requesting or providing personally identifiable health care information of this portal are required to certify that its health care data handling and security procedures are compliant with the Health Insurance Portability and Accountability Act of 1996 ("HIPAA"). If such data and security services are provided to such agency by a third-party provider, the agency shall be responsible for such third party's compliance with HIPAA.
+
+### Contact Information
+
+The County is made up of a number of departments. Each department is responsible for the applications it develops including applications that may gather volunteered personally identifying information. In these cases, contact information is provided at the point of information entry allowing the user to contact that department either through e-mail or the phone. Additionally, contact information for the portal is provided and can be used as an initial point of contact in lieu of individual department contacts.
+
+The County's Web sites and the selection of sites to which any of them may be linked are not intended to serve as a forum for free discussion. Instead, these Web pages are posted to serve the County's need to make useful and practical information available to Sacramento County residents, businesses, and visitors that facilitates provision of a County service.
+
+Links to other sites from the Sacramento County Web site are provided at the discretion of the County of Sacramento and are provided as a convenience for users of this site. Sites that are linked from the County of Sacramento are reviewed periodically to confirm that the link still furthers County purposes. The County reserves the right to refuse to post any Web site link or to delete links already posted at any time without notice. In the event you discover problems with or have concerns regarding the format, accuracy, timeliness or completeness of a linked external website, please contact the organization responsible for the linked external website. The County does not control nor is it responsible for any linked external websites, pages or content.
+
+### Intellectual Property
+
+The content of saccounty.net web pages is copyrighted, and contains some third party images/graphics that are used with permission. Users are notified, therefore, that one should presume the need to obtain permission from the copyright holder before reproducing or otherwise using images/graphics from this website. Sacramento County does not give permission for images to be downloaded or saved for any reason.
+
+(Updated March 24, 2006)
