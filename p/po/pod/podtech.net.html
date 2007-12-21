@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the podtech.net privacy policy that was archived on 2007-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070627172939id_/http%3A//www.podtech.net/home/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the podtech.net privacy policy that was archived on 2007-12-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071221114708id_/http%3A//www.podtech.net/home/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <title>   Privacy Policy | PodTech.net: Technology and Entertainment Video Network</title>
@@ -21,11 +21,11 @@
 <script type="text/javascript" src="http://yui.yahooapis.com/2.2.2/build/element/element-beta-min.js"></script> 
 <script type="text/javascript" src="http://yui.yahooapis.com/2.2.2/build/button/button-beta-min.js"></script> 
 <!-- ----------------- -->
-<link rel="stylesheet" href="http://www.podtech.net/home/wp-content/themes/PodTechOne/yuimenu_override.css" type="text/css">
+<link rel="stylesheet" href="http://www.podtech.net/home/wp-content/themes/PodTechTransition/yuimenu_override.css" type="text/css">
 
-<link rel="stylesheet" href="http://www.podtech.net/home/wp-content/themes/PodTechOne/style.css" type="text/css">
-<link rel="stylesheet" type="text/css" href="http://www.podtech.net/home/wp-content/themes/PodTechOne/css/print.css" media="print">
-<!--[if IE 7]><link rel="stylesheet" type="text/css" href="http://www.podtech.net/home/wp-content/themes/PodTechOne/IE7styles.css" /><![endif]-->
+<link rel="stylesheet" href="http://www.podtech.net/home/wp-content/themes/PodTechTransition/style.css" type="text/css">
+<link rel="stylesheet" type="text/css" href="http://www.podtech.net/home/wp-content/themes/PodTechTransition/css/print.css" media="print">
+<!--[if IE 7]><link rel="stylesheet" type="text/css" href="http://www.podtech.net/home/wp-content/themes/PodTechTransition/IE7styles.css" /><![endif]-->
 <link rel="alternate" type="application/rss+xml" title="PodTech.net: Technology and Entertainment Video Network RSS Feed" href="http://www.podtech.net/home/feed/">
 <link rel="pingback" href="http://www.podtech.net/home/xmlrpc.php">
 <script language="JavaScript" type="text/javascript">
@@ -47,19 +47,65 @@ function listenNowCorporate(podcastName, podcastURL) {
 	fo.addParam("menu", "false");
 	fo.write(podcastName);
 }
+
+function setTollhouse(name, value, days) {
+	if (days) {
+		var date = new Date();
+		date.setTime(date.getTime()+(days*24*60*60*1000));
+		var expires = "; expires="+date.toGMTString();
+	}
+	else var expires = "";
+	document.cookie = name+"="+value+expires+"; path=/";
+}
+
+function readTollhouse(name) {
+	var nameEQ = name + "=";
+	var ca = document.cookie.split(';');
+	for(var i=0;i < ca.length;i++) {
+		var c = ca[i];
+		while (c.charAt(0)==' ') c = c.substring(1,c.length);
+		if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+	}
+	return null;
+}
+
+function generateGuid()
+{
+	var result, i, j;
+	result = '';
+	for(j=0; j<32; j++) {
+		if( j == 8 || j == 12|| j == 16|| j == 20)
+		result = result + '-';
+		i = Math.floor(Math.random()*16).toString(16).toUpperCase();
+		result = result + i;
+	}
+	return result;
+}
+
+function checkTollhouse()
+{
+	var userid = readTollhouse('podtech-tollhouse')
+
+	if (userid==null || userid=="") {
+    		userid = generateGuid();
+    		setTollhouse('podtech-tollhouse',userid,365)
+	} 
+	return userid;
+}
+
 /*]]>*/
 </script>
-<script type="text/javascript" src="http://www.podtech.net/home/wp-content/themes/PodTechOne/swfobject.js"></script>
+<script type="text/javascript" src="http://www.podtech.net/home/wp-content/themes/PodTechTransition/swfobject.js"></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.podtech.net/home/xmlrpc.php?rsd">
 <script src="http://www.podtech.net/home/wp-content/plugins/UltimateTagWarrior/ultimate-tag-warrior-ajax-js.php?ajaxurl=http://www.podtech.net/home/wp-content/plugins/UltimateTagWarrior/ultimate-tag-warrior-ajax.php" type="text/javascript"></script><script src="http://www.podtech.net/home/wp-content/plugins/UltimateTagWarrior/ultimate-tag-warrior-js.php" type="text/javascript"></script><script language="JavaScript" type="text/javascript" src="http://www.podtech.net/home/wp-content/plugins/sociable/description_selection.js"></script><link rel="stylesheet" type="text/css" media="screen" href="http://www.podtech.net/home/wp-content/plugins/sociable/sociable.css"><!-- SLW, does not exist <script src="/mint/?js" type="text/javascript"></script> -->
 <!-- Pop-up window for transcripts -->
-<script type="text/javascript" src="http://www.podtech.net/home/wp-content/themes/PodTechOne/javascript/header-1.js"></script>
+<script type="text/javascript" src="http://www.podtech.net/home/wp-content/themes/PodTechTransition/javascript/header-1.js"></script>
 <!-- New homepage files -->
 
 <script type="text/javascript" src="http://www.podtech.net/player/popup.js"></script></head>
 
 <body>
-<div id="header" style="background: #333 url(http://www.podtech.net/home/wp-content/themes/PodTechOne/headers/header_178.jpg) top right no-repeat;">
+<div id="header" style="background: #333 url(http://www.podtech.net/home/wp-content/themes/PodTechTransition/headers/header_178.jpg) top right no-repeat;">
 	
 <script type="text/javascript">
 function jumpToPage() {
@@ -71,95 +117,21 @@ function jumpToPage() {
 	<div class="top">
 		<form id="searchform" class="search" method="get" action="http://www.podtech.net/home/index.php">
 			<input type="text" value="" name="s" id="s">
-			<input type="image" src="http://www.podtech.net/home/wp-content/themes/PodTechOne/images/button-search.jpg" id="i">
+			<input type="image" src="http://www.podtech.net/home/wp-content/themes/PodTechTransition/images/button-search.jpg" id="i">
 		</form>
-	<script type="text/javascript">
-
-	YAHOO.namespace("YAHOO.podtech");
-function jumpCatsOnDOMReady() {
-     var aItems = [ 
-    { text: "Enterprise 2.0 Shows", submenu: { id: "anchor_172", itemdata: [
-        { text: "Apple Voices", url: "http://www.podtech.net/home/category/apple-voices" },
-        { text: "Inside Silicon Valley", url: "http://www.podtech.net/home/category/inside-silicon-valley" },
-        { text: "John Furrier Show", url: "http://www.podtech.net/home/category/entrepreneurship" },
-        { text: "LunchMeet", url: "http://www.podtech.net/home/category/lunchmeet" },
-        { text: "RedMonk", url: "http://www.podtech.net/home/category/redmonk" },
-        { text: "RockyMountainVoices", url: "http://www.podtech.net/home/category/rockymountainvoices" },
-        { text: "Scobleizer", url: "http://www.podtech.net/home/category/scobleshow" },
-        { text: "ScobleShow", url: "http://www.podtech.net/home/category/scobleshow" },
-        { text: "Technology is Broken", url: "http://www.podtech.net/home/category/technology-is-broken" },
-        { text: "The Big Picture on Security ", url: "http://www.podtech.net/home/category/big-picture-on-security" },
-        { text: "The Kamla Bhatt Show", url: "http://www.podtech.net/home/category/kamla-bhatt-show" },
-        { text: "The Kiruba Show", url: "http://www.podtech.net/home/category/kirubashow" },
-        { text: "The Security Show", url: "http://www.podtech.net/home/category/the-security-show" }
-    ] } },
-    { text: "Social Media Shows", submenu: { id: "anchor_174", itemdata: [
-        { text: "1938 Media", url: "http://www.podtech.net/home/category/1938-media" },
-        { text: "CalacanisCast", url: "http://www.podtech.net/home/category/calacaniscast" },
-        { text: "Marketing Voices", url: "http://www.podtech.net/home/category/marketing-voices" },
-        { text: "Web Strategy by Jeremiah", url: "http://www.podtech.net/home/category/web-strategies" }
-    ] } },
-    { text: "Clean Tech Shows", submenu: { id: "anchor_171", itemdata: [
-        { text: "Freshtopia", url: "http://www.podtech.net/home/category/freshtopia" },
-        { text: "Next Gear Show", url: "http://www.podtech.net/home/category/nextgear" },
-        { text: "Ryan Is Hungry", url: "http://www.podtech.net/home/category/ryan-is-hungry" },
-        { text: "SmartEnergy", url: "http://www.podtech.net/home/category/smartenergy" }
-    ] } },
-    { text: "Digital Entertainment Shows", submenu: { id: "anchor_151", itemdata: [
-        { text: "Ill Doctrine", url: "http://www.podtech.net/home/category/ill-doctrine" },
-        { text: "Lo-Fi Saint Louis", url: "http://www.podtech.net/home/category/lo-fi-saint-louis" },
-        { text: "Lucy Talks Movies", url: "http://www.podtech.net/home/category/lucy-talks-movies" },
-        { text: "National Banana", url: "http://www.podtech.net/home/category/national-banana" },
-        { text: "Vloggies Show", url: "http://www.podtech.net/home/category/vloggies-show" }
-    ] } },
-    { text: "Corporate Shows", submenu: { id: "corporate", itemdata: [
-        { text: "Adobe", url: "http://www.podtech.net/home/category/adobe-systems-incorporated" },
-        { text: "Alcatel-Lucent", url: "http://www.podtech.net/home/category/alcatel-lucent" },
-        { text: "BearingPoint", url: "http://www.podtech.net/home/category/bearingpoint" },
-        { text: "Cadence", url: "http://www.podtech.net/home/category/cadence" },
-        { text: "Cisco", url: "http://www.podtech.net/home/category/cisco" },
-        { text: "Control4", url: "http://www.podtech.net/home/category/control4" },
-        { text: "EMC", url: "http://www.podtech.net/home/category/emc-corporation" },
-        { text: "F5", url: "http://www.podtech.net/home/category/f5-networks-incorporated" },
-        { text: "Hitachi", url: "http://www.podtech.net/home/category/hitachi-global-storage-technologies-hard-disk-drives" },
-        { text: "HP", url: "http://www.podtech.net/home/category/hp-technology-for-better-business-outcomes" },
-        { text: "Intel", url: "http://www.podtech.net/home/category/intel" },
-        { text: "Juniper Networks", url: "http://www.podtech.net/home/category/juniper-networks" },
-        { text: "LSI Logic", url: "http://www.podtech.net/home/category/lsi-logic-reconstructs-the-digital-home" },
-        { text: "NETGEAR", url: "http://www.podtech.net/home/category/netgear" },
-        { text: "Network General", url: "http://www.podtech.net/home/category/network-general-sniffer-cast" },
-        { text: "SAP", url: "http://www.podtech.net/home/category/sap" },
-        { text: "SAVVIS", url: "http://www.podtech.net/home/category/savvis" },
-        { text: "Seagate", url: "http://www.podtech.net/home/category/seagate" },
-        { text: "Sun Microsystems", url: "http://www.podtech.net/home/category/sun-microsystems" },
-        { text: "Symantec", url: "http://www.podtech.net/home/category/symantec-safetytown" },
-        { text: "The Deal", url: "http://www.podtech.net/home/category/the-deal" },
-        { text: "Verizon", url: "http://www.podtech.net/home/category/verizon-business" },
-        { text: "WebEx", url: "http://www.podtech.net/home/category/webex-conversations-with-it-business-leaders" },
-        { text: "Yahoo", url: "http://www.podtech.net/home/category/yahoo" }
-    ] } }
-];
-	    var oMenu = new YAHOO.widget.Menu("jumpCats", { itemdata: aItems, lazyload: true, container: "jumpCatsDiv" });
-	    var oButton = new YAHOO.widget.Button({ id: "jumpCatsButton", type: "splitbutton", label: "Show Archives", menu: oMenu, container: "jumpCatsDiv" } );
-	}
-	/* YAHOO.util.Event.onDOMReady(jumpCatsOnDOMReady); */
-	YAHOO.util.Event.on(window, "load", jumpCatsOnDOMReady);
-
-	</script>
 
 		<div id="jumpCatsDiv"></div>
 
 	</div>
-	<a id="podtech_logo" href="http://www.podtech.net/home"><img src="http://www.podtech.net/home/wp-content/themes/PodTechOne/headers/logo_178.gif" width="84" height="83" alt="PodTech.net"></a> 
+	<a id="podtech_logo" href="http://www.podtech.net/home"><img src="http://www.podtech.net/home/wp-content/themes/PodTechTransition/headers/logo_178.gif" width="84" height="83" alt="PodTech.net"></a> 
 	<div id="mainmenu">
 		<ul>
 <li class="first"><a href="http://www.podtech.net/home/index.php?anchor" class="current">All</a></li><li class="first"><a href="http://www.podtech.net/home/index.php?cat=172&amp;anchor">Enterprise 2.0</a></li><li class="first"><a href="http://www.podtech.net/home/index.php?cat=174&amp;anchor">Social Media</a></li><li class="first"><a href="http://www.podtech.net/home/index.php?cat=171&amp;anchor">Clean Tech</a></li><li class="first"><a href="http://www.podtech.net/home/index.php?cat=151&amp;anchor">Digital Entertainment</a></li>
 		</ul>
 		<div id="aboutmenu">
 			<ul>
-			 	<a href="http://www.podtech.net/home/feed">Subscribe</a>
-				<a href="/blog">Blog</a>
-				<a href="http://www.podtech.net/home/about">About PodTech</a>
+			 	<li class="first"><a href="http://www.podtech.net/home/feed">Subscribe</a></li>
+				<li class="first"><a href="http://www.podtech.net/home/about">About PodTech</a></li>
 			</ul>
 		</div>
 	</div>
@@ -213,20 +185,26 @@ Tel: 650-543-5200<br>
 
 <a href="http://www.podtech.net/home/index.php?anchor">All</a><a href="http://www.podtech.net/home/index.php?cat=172&amp;anchor">Enterprise 2.0</a><a href="http://www.podtech.net/home/index.php?cat=174&amp;anchor">Social Media</a><a href="http://www.podtech.net/home/index.php?cat=171&amp;anchor">Clean Tech</a><a href="http://www.podtech.net/home/index.php?cat=151&amp;anchor">Digital Entertainment</a>
       |
-      <a href="http://www.podtech.net/home/subscribe">Subscribe</a>
       <a href="http://www.podtech.net/home/river">The River</a> 
-      <a href="http://www.podtech.net/home/blog">Blog</a>
+      <a href="http://www.podtech.net/home/subscribe">Subscribe</a>
       <a href="http://www.podtech.net/home/about">About</a>
 <p>
 <a href="http://www.podtech.net/home/copyright">Copyright</a> ©2007 PodTech.net.  All rights reserved.  <a href="http://www.podtech.net/home/privacy">Privacy policy</a> <a href="http://www.podtech.net/home/terms-of-use">Terms of Use</a> </p></div> 
 <script type="text/javascript">
-document.write("<img src=\"http://media.podtech.net/graphics/podtech_beacon.gif?p=/home/privacy\" width=\"1\" height=\"1\" alt=\"\">");
-</script><img src="http://media.podtech.net/graphics/podtech_beacon.gif?p=/home/privacy" width="1" height="1" alt="">
+
+var userid = checkTollhouse();
+var img_src = "<img src=\"http://media.podtech.net/graphics/podtech_beacon.gif?&p=/home/privacy&id=" + userid + "\" width=\"1\" height=\"1\" alt=\"\">";
+document.write(img_src);
+</script><img src="http://media.podtech.net/graphics/podtech_beacon.gif?&amp;p=/home/privacy&amp;id=A13D432F-546C-9AA1-B49E-2E353D8CB85F" width="1" height="1" alt="">
 <noscript><img src="http://media.podtech.net/graphics/podtech_beacon.gif?p=/home/privacy" width="1" height="1" alt=""></noscript>
-
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+	_uacct = "UA-635792-1";
+	urchinTracker();
+</script>
 <!-- END FOOTER -->
-
-<!-- MAIN DIV END -->
+ <!-- MAIN DIV END -->
 
 
 </body></html>
