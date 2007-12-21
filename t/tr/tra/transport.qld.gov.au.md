@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the transport.qld.gov.au privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623035700id_/http%3A//www.transport.qld.gov.au/Footer/web_footer_20-Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transport.qld.gov.au privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221022330id_/http%3A//www.transport.qld.gov.au/Footer/web_footer_20-Privacy) for the most accurate reproduction.*
 
 # Privacy
 
 #### Privacy and security
 
-Queensland Transport is committed to protecting user privacy. The Queensland Government has established a privacy regime for the Queensland public sector based on 11 Information Privacy Principles. These are contained in [Information Standard 42 - Information Privacy](http://www.governmentict.qld.gov.au/02_infostand/standards.htm) to which agencies are required to adhere.  In compliance with Information Standard 42, we have developed a privacy plan based on the 11 Information Privacy Principles specified in the information standard. View the [Queensland Transport privacy plan](http://www.transport.qld.gov.au/Home/About_us/Working_with_us/Privacy/). 
+Queensland Transport is committed to protecting user privacy. The Queensland Government has established a privacy regime for the Queensland public sector based on 11 Information Privacy Principles. These are contained in [Information Standard 42 - Information Privacy](http://www.qgcio.qld.gov.au/02_infostand/standards.htm) to which agencies are required to adhere.  In compliance with Information Standard 42, we have developed a privacy plan based on the 11 Information Privacy Principles specified in the information standard. View the [Queensland Transport privacy plan](http://www.transport.qld.gov.au/Home/About_us/Working_with_us/Privacy/). 
 
 When you visit this website, our server makes a record of your visit and logs the following information for statistical purposes only:
 
@@ -46,11 +46,11 @@ This website contains links to non-Queensland government websites. Queensland Tr
 
 ##### Smart card
 
-For more detailed information view the [smart card privacy statement](http://www.translink.com.au/qt/TransLin.nsf/index/smartcard_pilot_privacy).
+For more detailed information view the [smart card privacy statement](http://www.translink.com.au/qt/translin.nsf/index/go_privacy).
 
 ##### Contact 
 
 If you have any queries about our privacy and security practices, please contact [privacy@transport.qld.gov.au](mailto:privacy@transport.qld.gov.au).  
 
 
-Last updated 14 June 2007
+Last updated 14 December 2007
