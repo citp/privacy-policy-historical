@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the haacked.com privacy policy that was archived on 2007-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070322060208id_/http%3A//www.haacked.com/articles/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the haacked.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221090926id_/http%3A//haacked.com/articles/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -22,3 +22,8 @@ Absolutely nobody.
 
 **Even If I Offered You 10 Million Dollars?**  
 Let's talk off-line in private.... er... I mean NO! Absolutely Not. Haacked.com doesn't gather any information worth selling. 
+
+[ad] [Free Bug Tracking & Project Management Software](http://www.axosoft.com/?gad=CNrd-I4DEgh-LBK3JraEchjw16__AyD6s9Er "Sponsored Message") Axosoft’s OnTime 2007 allows software development teams to collaborate on software projects by tracking everything from defects to enhancements to helpdesk incidents in one easy-to-use database driven by an intuitive Windows, Web or VS.NET Integrated UI. **[Get a Free Single-User License](http://www.axosoft.com/?gad=CNrd-I4DEgh-LBK3JraEchjw16__AyD6s9Er "License")** ($200 Value!) 
+
+  
+
