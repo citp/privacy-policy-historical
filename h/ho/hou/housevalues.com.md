@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the housevalues.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625160030id_/http%3A//www.housevalues.com/AboutUs/AboutHV-Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the housevalues.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221104458id_/http%3A//www.housevalues.com/AboutUs/AboutHV-Privacy.aspx) for the most accurate reproduction.*
 
 # About HouseValues.com | Privacy Policy
 
