@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the fico.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626174455id_/http%3A//www.myfico.com/Policy/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fico.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221060404id_/http%3A//www.myfico.com/Policy/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# myFICO - Privacy Policy
+# Privacy Policy
 
-Effective Date: June, 2007
+Posted: August, 2007
 
 [](http://www.truste.org/ivalidate.php?url=www.myfico.com&sealid=101)
 
 ### Applicability
 
-This Privacy Policy (the “Policy”) applies to the following web sites: [myFICO.com](http://www.myfico.com/), [fico.org](http://www.fico.org/), and [InsuranceScore.com](http://www.insurancescore.com/) (collectively, the “Web Sites”). Where a portion of this Policy does not apply to all of the Web Sites, that will be indicated in the Policy. Information posted on FICO Forums is public information and is not covered by this Privacy Policy. 
+This Privacy Policy (the “Policy”) applies to the following web sites: [myFICO.com](http://www.myfico.com/), [fico.org](http://www.fico.org/), and [InsuranceScore.com](http://www.insurancescore.com/) (collectively, the “Web Sites”). Where a portion of this Policy does not apply to all of the Web Sites, that will be indicated in the Policy. Information posted on FICO® Forums is public information and is not covered by this Privacy Policy.
 
 ### General
 
@@ -16,11 +16,11 @@ We understand and respect your concerns about privacy and the security of person
 
 ### Types of Information we Collect
 
-Information collected online is usually categorized as either _anonymous_ or _personally identifiable_.
+Information collected online is usually categorized as either _general_ or _personally identifiable_.
 
-### Anonymous Information
+### General Information
 
-The Web Sites (other than InsuranceScore.com) may collect _anonymous information_ , which refers to data that cannot be tied back to a specific individual. The information we collect (either directly or through the use of a third-party tracking system) includes:
+The Web Sites (other than InsuranceScore.com) may collect _general information_ , which refers to data that is generally not tied back to a specific individual. The information we collect (either directly or through the use of a third-party tracking system) includes:
 
   * The IP address of the computer making the request (Usually this is not your personal computer, but a computer used by your internet service provider or company network).
   * The URL that is being requested.
@@ -32,11 +32,11 @@ The Web Sites (other than InsuranceScore.com) may collect _anonymous information
 
 We also may collect aggregate search terms from search engine referrals to determine what information visitors are searching for when they find our Web Sites.
 
-All of this anonymous information is used to administer and improve our Web Sites and diagnose any technical problems which may occur with our servers. We do not link this anonymous information to your personal information.
+All of this general information is used to administer and improve our Web Sites and diagnose any technical problems which may occur with our servers.
 
 ### Personally Identifiable Information
 
-_Personally identifiable information_ refers to data that tells us specifically who you are, such as your name and email address, which may be collected in addition to the anonymous data described above.
+_Personally identifiable information_ refers to data that tells us specifically who you are, such as your name and email address, which may be collected in addition to the general data described above.
 
 The Web Sites may collect personal information through correspondence, by email or via our contact forms. (This is the only way personally identifiable information is collected by InsuranceScore.com.)
 
@@ -91,17 +91,23 @@ Consistent with the federal financial privacy laws, we may also disclose some of
 
 We do not share any of your personally identifiable information with unrelated third parties for their own marketing purposes without your consent. However, we may disclose any of the information we collect to companies that perform marketing services on our behalf and companies that are related to us by common ownership or affiliated with us by common control. We will not disclose to third parties the credit report or credit score obtained in providing any Product without your prior specific consent.
 
-If Fair Isaac is acquired by or merges with another company, or if the business of the myFICO division of Fair Isaac is acquired by another company, information will be transferred to the acquiring company. We would notify you of such an event as provided in the Changes section of this Policy section below. Fair Isaac may also share information to the extent we believe it is necessary to comply with the law (e.g., in response to subpoenas or government investigations), to assert or defend legal claims, and in order to investigate or respond to actual or suspected illegal activities, fraud, and threats of physical harm.
+If Fair Isaac is acquired by or merges with another company, or if the business of the myFICO® division of Fair Isaac is acquired by another company, information will be transferred to the acquiring company. We would notify you of such an event as provided in the Changes section of this Policy section below. Fair Isaac may also share information to the extent we believe it is necessary to comply with the law (e.g., in response to subpoenas or government investigations), to assert or defend legal claims, and in order to investigate or respond to actual or suspected illegal activities, fraud, and threats of physical harm.
 
 ### Your Right to Choose
 
-You have the ability to opt out of certain types of information sharing and communications. You may opt out if you prefer that we not send you newsletters or offers regarding products and services. If you exercise this opt-out right, we will not send you any newsletters or product or service offers. You may opt out if you prefer that we not share your personal information with third parties for their marketing purposes. If you exercise this opt-out right, we will not share your personal information with third parties for their marketing purposes. You may exercise your right to opt out when you create your myFICO account by following the instruction for the myFICO privileges program. You may also exercise your right to opt out any time by logging into your account at [www.myFICO.com](http://www.myfico.com/), clicking on “Contact Preferences”, and editing your preferences.
+You have the ability to opt out of certain types of information sharing and communications.
+
+You may opt out of certain communications if you prefer that we not send you newsletters or offers regarding products and services. If you exercise this opt-out right, we will not send you any newsletters or product or service offers.
+
+You may opt out of information sharing if you prefer that we not share your personal information with third parties for their marketing purposes. If you exercise this opt-out right, we will not share your personal information with third parties for their marketing purposes.
+
+You may exercise your right to opt out of communications and information sharing when you create your myFICO® account by following the instruction for opting out of the myFICO® privileges program. You may also exercise your right to opt out any time by logging into your account at [www.myFICO.com](http://www.myfico.com/), clicking on “Contact Preferences”, and editing your preferences to opt out of the myFICO® Privileges Program. If you receive an email from us you may exercise your right to opt out of further email communications by following the opt-out link contained in the email.
 
 Please note that your decision to opt out will not apply to certain disclosures that are required for us to deliver the Products you have ordered or that are specifically permitted or required by law. For example, the Products cannot operate unless we transmit data to companies that help us provide the Products, such as by providing us with credit reports or processing credit card charges. Your general opt-out instructions also will not apply to specific disclosures or communications to which you consent.
 
 ### Reviewing Your Information
 
-You will be able to change the personal information you have provided to us by logging into the myFICO Member Center with your login ID and password. However, for security reasons, you will not be able to change the following information online: First Name, Social Security Number, Date of Birth, and Gender. You can change this information by calling our customer care center. You will also not be able to change personal information that we have obtained from third parties, such as the information in your credit reports.
+You will be able to change the personal information you have provided to us by logging into the myFICO® Member Center with your login ID and password. However, for security reasons, you will not be able to change the following information online: First Name, Social Security Number, Date of Birth, and Gender. You can change this information by calling our customer care center. You will also not be able to change personal information that we have obtained from third parties, such as the information in your credit reports.
 
 ### Keeping Your Information Secure
 
@@ -109,9 +115,9 @@ Except for the disclosures and uses described above, we restrict access to nonpu
 
 ### InfoVault and EZ Error Correct
 
-Information in the InfoVault feature of the Suze Orman FICO Kit and information you include in a dispute letter in EZ Error Correct is treated differently from other information we may collect from you.
+Information in the InfoVault feature of the Suze Orman FICO® Kit and information you include in a dispute letter in EZ Error Correct is treated differently from other information we may collect from you.
 
-The InfoVault is intended for you to store private information, including personally identifiable data regarding your accounts, contact information, social security number, medical records, and other sensitive information that you decide to store there. That information will be available to you on our site as long as your Suze Orman FICO Kit is active.
+The InfoVault is intended for you to store private information, including personally identifiable data regarding your accounts, contact information, social security number, medical records, and other sensitive information that you decide to store there. That information will be available to you on our site as long as your Suze Orman FICO® Kit is active.
 
 The information you put into an EZ Error Correct dispute letter will be stored for 90 days on our servers to allow you to come back and make changes to and reprint the letter. All of that information is kept separate from any other information covered by this Privacy Policy.
 
@@ -123,11 +129,11 @@ However, we recommend that you be extremely careful about the information you de
 
 If our Web Sites contain links to other sites, we are not responsible for the privacy practices or content of those other sites.
 
-We sometimes may offer content (e.g., promotions) that is sponsored by or co-branded with identified third parties. By virtue of these relationships, the third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the site activity. We have no control over these third parties' use of this information. The site will notify you at the time of requesting personally identifiable information if these third parties will obtain such information.
+The Loan Center includes advertising from Secure Rights, and all mortgage and home financing loan-related services are offered and provided by Secure Rights. Click here for more information about Secure Rights, including its privacy policies. We sometimes may offer content (e.g., promotions) that is sponsored by or co-branded with identified third parties. By virtue of these relationships, the third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the site activity. We have no control over these third parties' use of this information. We will notify you at the time of requesting personally identifiable information if we will be providing this information to third parties.
 
 ### What About Cookies?
 
-A "cookie" is a small piece of information sent by a Web server and stored by the user's Web browser so the information can later be read back from that browser. Cookies enable the browser to identify itself to the server, and allow the server to maintain an active "session" with an individual user. Cookies help the browser remember some specific information. We make limited use of cookies to make your visit to the Web Sites easier. We also use a third-party tracking service that uses cookies to gather statistical information about how our site is used. This information is not connected to any of your personal information. See the section above titled _Anonymous Information_.
+A "cookie" is a small piece of information sent by a Web server and stored by the user's Web browser so the information can later be read back from that browser. Cookies enable the browser to identify itself to the server, and allow the server to maintain an active "session" with an individual user. Cookies help the browser remember some specific information. We make limited use of cookies to make your visit to the Web Sites easier, to improve the user experience, and to identify individual users who have registered for certain products. We also use a third-party tracking service that uses cookies to gather statistical information about how our site is used. This statistical information is not connected to any of your personal information. See the section above titled _General Information_.
 
 ### Email This (tell-a-friend)
 
@@ -140,6 +146,10 @@ The Web Sites and the Products are intended for use only by adults. We do not kn
 ### Changes to our Privacy Policy
 
 We want you to be fully informed about how we will use your information and protect your privacy. We may change this Privacy Policy in the future. You agree that we may notify you of changes in our Privacy Policy by posting a new or updated policy on the Web sites. We will notify you of any material changes by providing a notice to that effect on the home page. You should periodically check this Privacy Policy for changes. Changes will take effect 30 days after we post a new or updated Privacy Policy. Your continued use of our site following the posting of changes to this Policy will mean you accept those changes.
+
+### Notices
+
+We may send certain legally required notices or disclosures, including notices regarding our privacy policies, to you electronically, and you consent to receiving any such consents or disclosures electronically. It will be your responsibility to ensure that you have the necessary systems to allow you to receive electronic notices and disclosures from us.
 
 ### Contacting Us
 
