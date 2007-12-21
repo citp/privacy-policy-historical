@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamextazy.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624171559id_/http%3A//www.gamextazy.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamextazy.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221104708id_/http%3A//www.gamextazy.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy « Free Games Downloads on GameXtazy.com
 
