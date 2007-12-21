@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meteogroup.com privacy policy that was archived on 2007-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070423163603id_/http%3A//www.meteogroup.com/int/home/about_meteogroup/global_content/footer/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meteogroup.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221214807id_/http%3A//www.meteogroup.com/int/home/about_meteogroup/global_content/footer/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
