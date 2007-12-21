@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the westgroup.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615194418id_/http%3A//west.thomson.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westgroup.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221123557id_/http%3A//west.thomson.com/privacy) for the most accurate reproduction.*
 
 # West - Privacy Policy
 
@@ -36,7 +36,7 @@ Finally, you may be asked to disclose personal information to us so that we can 
 _If you don't want to receive promotional materials from West or our marketing partners, you can opt out at any time._ You simply need to update your preferences with each West service to which you are registered. Here's how: 
 
   * FindLaw & West Legal Directory: send an e-mail message to [wld.update@thomson.com](mailto:wld.update@thomson.com) Include your name and contact information, and a message saying you'd like to stop receiving promotional materials. 
-  * West and Westlaw: [update your preferences on the site](https://west.thomson.com/store/login/login.asp?nextpage=https%3A%2F%2Fqa%2Ewest%2Ethomson%2Ecom%2Fstore%2Fprofile%2Easp). 
+  * West and Westlaw: [update your preferences on the site](http://west.thomson.com/store/SubSignUp.aspx?). 
   * West LegalEdcenter: [update your preferences on the site](http://westlegaledcenter.com/home/homepage.jsf).
 
 
@@ -66,12 +66,12 @@ If you view our CLE content, West LegalEdcenter is obligated to pass along your 
 West LegalEdcenter also may provide summary statistics about our customers' interests and preferences, products sold, traffic patterns and related site information to reputable third parties. These statistics do not include personal identification information; they are used only to enhance the design of our Web site and customize new product offerings to our customers. For more information, including the Click-Wrap license agreement, please see the [West LegalEdcenter Terms and Conditions](http://westlegaledcenter.com/misc/terms.jsf) statement.
 
 Public Records, Including Social Security Numbers and Credit Histories  
-Please review the [West Privacy and Public Records Policy Statement](https://web.archive.org/web/20060615194418id_/http://west.thomson.com/privacy/records.aspx) to learn about the kinds of public records West gathers and makes available on Westlaw.com. If you have further questions, please send an e-mail message to [west.privacypolicy@thomson.com](mailto:west.privacypolicy@thomson.com).
+Please review the [West Privacy and Public Records Policy Statement](https://web.archive.org/web/20071221123557id_/http://west.thomson.com/privacy/records.aspx) to learn about the kinds of public records West gathers and makes available on Westlaw.com. If you have further questions, please send an e-mail message to [west.privacypolicy@thomson.com](mailto:west.privacypolicy@thomson.com).
 
 How We Protect Your Information  
 West uses technical security measures to prevent the loss, misuse and alteration of information under our control.
 
-For example, when we ask customers to provide financial information (such as a credit card number) that data is protected using Secure Sockets Layer (SSL) technology. Learn more about [SSL](https://web.archive.org/web/20060615194418id_/http://west.thomson.com/privacy/ssl.aspx).
+For example, when we ask customers to provide financial information (such as a credit card number) that data is protected using Secure Sockets Layer (SSL) technology. Learn more about [SSL](https://web.archive.org/web/20071221123557id_/http://west.thomson.com/privacy/ssl.aspx).
 
 Who Has Access to the Information?  
 West will share your personal data in four ways: 
@@ -91,7 +91,7 @@ If you've registered with our Web sites, you can access and update your informat
 
   * [FindLaw & West Legal Directory](http://www.profileupdate.findlaw.com/)
   * [lawschool.westlaw.com and The West Education Network (TWEN)](https://lawschool.westlaw.com/registration/registration02.asp?task=update)
-  * [West and Westlaw](https://west.thomson.com/store/login/login.asp?nextpage=https%3A%2F%2Fqa%2Ewest%2Ethomson%2Ecom%2Fstore%2Fprofile%2Easp)
+  * [West and Westlaw](http://west.thomson.com/store/SubSignUp.aspx?)
   * [West LegalEdcenter](http://westlegaledcenter.com/home/homepage.jsf)
 
 
