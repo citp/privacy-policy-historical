@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edurite.com privacy policy that was archived on 2007-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070505202206id_/http%3A//www.edurite.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edurite.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221145050id_/http%3A//www.edurite.com/privacy.asp) for the most accurate reproduction.*
 
 # Edurite Technologies
 
