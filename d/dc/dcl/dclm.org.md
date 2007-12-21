@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dclm.org privacy policy that was archived on 2007-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070224104256id_/http%3A//dclm.org/Default.aspx%3Ftabid%3D24%26def%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dclm.org privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221063845id_/http%3A//dclm.org/Home/tabid/36/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
-# Deeper Life Bible Church Home Page
+# Deeper Christian Life Ministry > Home
 
 Deeper Christian Life Ministry is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Deeper Christian Life Ministry Web site and governs data collection and usage. By using the Deeper Christian Life Ministry website, you consent to the data practices described in this statement.
 
@@ -44,4 +44,4 @@ Deeper Christian Life Ministry will occasionally update this Statement of Privac
 
 Contact Information
 
-Deeper Christian Life Ministry welcomes your comments regarding this Statement of Privacy. If you believe that Deeper Christian Life Ministry has not adhered to this Statement, please contact Deeper Christian Life Ministry at [ContactUs@dclm.org](mailto:ContactUs@dclm.org). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+Deeper Christian Life Ministry welcomes your comments regarding this Statement of Privacy. If you believe that Deeper Christian Life Ministry has not adhered to this Statement, please contact Deeper Christian Life Ministry at [afalokun@gmail.com](mailto:afalokun@gmail.com). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
