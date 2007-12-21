@@ -1,8 +1,14 @@
-> *The following text is extracted and transformed from the studica.com privacy policy that was archived on 2007-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070513161540id_/http%3A//www.studica.com/support/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studica.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221133028id_/http%3A//www.studica.com/support/privacypolicy.cfm) for the most accurate reproduction.*
 
 # Studica.com | Your Student Software Store
 
-|  |   
+| Tel | (888) 561-7521  
+---|---  
+Fax | (877) 754-2807  
+  
+
+
+  
 **Studica Privacy Policy**
 
 Studica has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: 
