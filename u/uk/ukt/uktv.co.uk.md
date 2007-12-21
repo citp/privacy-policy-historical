@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the uktv.co.uk privacy policy that was archived on 2007-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070529122002id_/http%3A//uktv.co.uk/index.cfm/uktv/UKTV.item/aid/578629) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uktv.co.uk privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221053326id_/http%3A//uktv.co.uk/index.cfm/uktv/UKTV.item/aid/578629) for the most accurate reproduction.*
 
-# UKTV: Home: Privacy Policy
+# UKTV: About UKTV: Privacy Policy
 
 In this Privacy Policy, "we", "us" and "our" means UKTV INTERACTIVE LTD. 
 
