@@ -1,21 +1,21 @@
-> *The following text is extracted and transformed from the noattacks.org privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630051652id_/http%3A//www.noattacks.org/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noattacks.org privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222005242id_/http%3A//www.noattacks.org/privacy_policy.html) for the most accurate reproduction.*
 
 # www.noattacks.org : privacy policy
 
   
-[](https://web.archive.org/web/20070630051652id_/http%3A//www.noattacks.org/index.html)  
+[](https://web.archive.org/web/20071222005242id_/http%3A//www.noattacks.org/index.html)  
   
-[](https://web.archive.org/web/20070630051652id_/http%3A//www.noattacks.org/about.html)  
+[](https://web.archive.org/web/20071222005242id_/http%3A//www.noattacks.org/about.html)  
   
-[](https://web.archive.org/web/20070630051652id_/http%3A//www.noattacks.org/preventing.html)  
+[](https://web.archive.org/web/20071222005242id_/http%3A//www.noattacks.org/preventing.html)  
   
-[](https://web.archive.org/web/20070630051652id_/http%3A//www.noattacks.org/asthmaaction.html)  
+[](https://web.archive.org/web/20071222005242id_/http%3A//www.noattacks.org/asthmaaction.html)  
   
-[](https://web.archive.org/web/20070630051652id_/http%3A//www.noattacks.org/asthmahotline.html)  
+[](https://web.archive.org/web/20071222005242id_/http%3A//www.noattacks.org/asthmahotline.html)  
   
-[](https://web.archive.org/web/20070630051652id_/http%3A//www.noattacks.org/psa.html)  
+[](https://web.archive.org/web/20071222005242id_/http%3A//www.noattacks.org/psa.html)  
   
-[](https://web.archive.org/web/20070630051652id_/http%3A//www.noattacks.org/forkids.html)  
+[](https://web.archive.org/web/20071222005242id_/http%3A//www.noattacks.org/forkids.html)  
 | 
 
 Last Updated: May 2004 
