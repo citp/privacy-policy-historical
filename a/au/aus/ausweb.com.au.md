@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ausweb.com.au privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207065435id_/http%3A//ausweb.com.au/html/Privacy_Statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ausweb.com.au privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221092153id_/http%3A//ausweb.com.au/html/Privacy_Statement.htm) for the most accurate reproduction.*
 
 # Australian Web hosting - AUSWEB
 
