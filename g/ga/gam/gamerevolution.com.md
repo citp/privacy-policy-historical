@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gamerevolution.com privacy policy that was archived on 2006-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061018214133id_/http%3A//www.gamerevolution.com/static/index.php%3Fsection%3Dlegal%26page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamerevolution.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221172647id_/http%3A//www.gamerevolution.com/static/index.php%3Fsection%3Dlegal%26page%3Dprivacy) for the most accurate reproduction.*
 
-# Game Revolution
+# Game Revolution Privacy Policy
 
 **Advertisers**  
 We use third-party advertising companies to serve our ads on the Internet. These third-party advertising companies employ cookie and 1x1 pixel .gif technology to measure and improve the effectiveness of ads for their clients. To do so, these companies may use anonymous information about your visits to our Web site and other Web sites. This information can include: date/time of banner ad shown, the banner ad that was shown, their cookie, the IP address. This information can also be used for online preference marketing purposes.
@@ -46,4 +46,4 @@ The GR message boards place cookies on your computer to make them function bette
 
 **Third Party Cookies**
 
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique �cookie� on your browser.
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
