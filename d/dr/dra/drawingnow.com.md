@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drawingnow.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627040115id_/http%3A//www.drawingnow.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drawingnow.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221012227id_/http%3A//www.drawingnow.com/privacy-policy.html) for the most accurate reproduction.*
 
 # DrawingNow - How to draw tutorials
 
@@ -32,7 +32,7 @@ We use outside ad companies to display ads on our site. Ads may contain cookies,
 
   * Google
   * Commision Junction
-  * Allposters
-  * Amazon
+  * Casale Media 
+  * Fastclick
 
 
