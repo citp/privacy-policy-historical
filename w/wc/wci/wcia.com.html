@@ -1,828 +1,604 @@
-<!--The following is the downloaded HTML source of the wcia.com privacy policy that was archived on 2001-06-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010602032812id_/http%3A//wcia.com/now/story/0%2C1597%2C53940-392%2C00.shtml) for the most accurate reproduction.-->
-
-<html><head>
- 
-<title>CBS.com--CBS.com Privacy Statement</title>
-
-<script language="JavaScript">
-<!--
-if (document.layers)
-{
-	document.write('<link rel=stylesheet type="text/css" href="/common/css/main_nn.css">')
-}
-// -->
-</script>
-
-<script language="JavaScript">
-<!--
-if (document.all)
-{
-	document.write('<link rel=stylesheet type="text/css" href="/common/css/main_ie.css">')
-}
-
-function gothereNow(selectElement)
-{
-var theLocation = selectElement.options[selectElement.selectedIndex].value;
-if(theLocation)
-{
-parent.location.replace(theLocation);
-}
-else
-{
-return false;
-}
-}
-
-function no_externals()
-{
-	if( confirm("The function you have requested is notnsupported by your browser.nnTo see a further explanation of the problem,nas well as instructions on how to downloadna more up-to-date browser, simply click [OK]."))
-		self.location.href =  "story_112201.html";
-}
-
-function PopUp(url,w,h) {
-var dim = eval('"width=' + w + ',height=' + h + '"');
-Npop = window.open(url,"pop",dim);
-}
-
-// -->
-</script>
-
-<script language="JavaScript" src="/common/js/vlaunch_flat.js">
-<!--
-vlaunch = no_externals;
-// -->
-</script>
-<script language="JavaScript">
-
-
-function generateOrd() {
-// returns time in milliseconds
-var now = new Date();
-	return now.getTime();
-}
-
-function getAdCode (p_Type) {
-var affiliateCode =  'wcia';
-if (affiliateCode == 'cbs') {
-	affiliateCode = 'network';
-}
-
-switch (p_Type) {
-    
-	case 'network':
-		return 'network.now.com/' + affiliateCode + ';';
-
-	case 'affiliate':
-		return affiliateCode + '.now.com/' + affiliateCode + ';';
-
-	case 'cbs':
-		return 'network.now.com/network;';
-
-	case 'CBS':
-		return 'network.now.com/network;';
-
-	case 'split':
-		if (generateOrd() % 2 == 1) {
-			return getAdCode ('network');
-		} else {
-			return getAdCode ('affiliate');
-		}
-	default:
-		return getAdCode ('affiliate');
-	}
-}
-
-function getAdTag (p_Width, p_Height, p_Tile, p_AdType) {
-
-var adText;
-var adCode = getAdCode(p_AdType);
-var size = 'sz=' + p_Width + 'x' + p_Height + ';';
-var tile = 'tile=' + p_Tile + ';';
-var htmlSize = 'width=' + p_Width + ' height=' + p_Height;
-
-// a href tag
-adText =			"<A HREF=\"http://ad.doubleclick.net/jump/"
-adText = adText	+	adCode + tile + section + size + ordNumber + "\">"
-
-// image tag
-adText = adText	+	"<IMG src=\"http://ad.doubleclick.net/ad/" 
-adText = adText	+	adCode + tile + section + size + ordNumber + "\" "
-adText = adText	+	"align=\"top\" " + htmlSize + " border=0></A>"
-
-return adText;
-}
-
-function getEnhancedAd (p_Width, p_Height, p_Tile, p_AdType) {
-
-var adText;
-var adCode = getAdCode(p_AdType);
-var size = 'sz=' + p_Width + 'x' + p_Height + ';';
-var tile = 'tile=' + p_Tile + ';';
-var htmlSize = 'width=' + p_Width + ' height=' + p_Height;
-
-// iframe tag
-adText =			"<NOLAYER><IFRAME src=\"http://ad.doubleclick.net/adi/" 
-adText = adText	+	adCode + tile + section + size + ordNumber + "\" "
-adText = adText	+	htmlSize + " marginwidth=0 marginheight=0 "
-adText = adText	+	"hspace=0 vspace=0 frameborder=0 scrolling=no ALIGN=\"top\">"
-
-// a href tag
-adText = adText +	"<A HREF=\"http://ad.doubleclick.net/jump/"
-adText = adText	+	adCode + tile + section + size + ordNumber + "\">"
-
-// image tag
-adText = adText	+	"<IMG src=\"http://ad.doubleclick.net/ad/" 
-adText = adText	+	adCode + tile + section + size + ordNumber + "\" "
-adText = adText	+	"align=\"top\" " + htmlSize + " border=0>"
-adText = adText	+	"</A><BR></IFRAME></NOLAYER>"
-
-// ilayer tag
-adText = adText	+	"<ILAYER id=topbanner visibility=hidden width=" + htmlSize + "></ILAYER>"
-
-return adText;
-}
-
-function getEnhancedLayer (p_Width, p_Height, p_Tile, p_AdType) {
-
-var adText;
-var adCode = getAdCode(p_AdType);
-var size = 'sz=' + p_Width + 'x' + p_Height + ';';
-var tile = 'tile=' + p_Tile + ';';
-var htmlSize = 'width=' + p_Width + ' height=' + p_Height;
-
-// layer tag
-adText =			"<LAYER src=\"http://ad.doubleclick.net/adi/" 
-adText = adText	+	adCode + tile + section + size + ordNumber + "\" "
-adText = adText	+	htmlSize + " visibility=hidden "
-adText = adText	+	"onload=\"moveToAbsolute((topbanner.pageX), (topbanner.pageY)); "
-adText = adText	+	"clip.width=" + p_Width + "; clip.height=" + p_Height
-adText = adText	+	"; visibility='show';\"></LAYER>"
-
-return adText;
-}
-
-// ** end of AD TAG procedures **********
-
-
-
-//-->
-
-</script></head>
-
-
-<body bgcolor="#FFFFFF" text="#000000" link="#000099" alink="#CC0000" vlink="#660000" leftmargin="4" topmargin="4">
-
-<!-- Vignette StoryServer 4 Thu May 10 02:06:28 2001 -->
-<!-- BEGIN TOP BAR -->
-
-
-<script language="JavaScript">
-<!--
-if (navigator.appName=='Microsoft Internet Explorer' && !document.all)
-	{
-        document.write('<link rel=stylesheet type="text/css" href="/common/css/sec_35.css">')
-	}
-// -->
-</script>
-<script language="JavaScript">
-
-
-function generateOrd() {
-// returns time in milliseconds
-var now = new Date();
-	return now.getTime();
-}
-
-function getAdCode (p_Type) {
-var affiliateCode =  'wcia';
-if (affiliateCode == 'cbs') {
-	affiliateCode = 'network';
-}
-
-switch (p_Type) {
-    
-	case 'network':
-		return 'network.now.com/' + affiliateCode + ';';
-
-	case 'affiliate':
-		return affiliateCode + '.now.com/' + affiliateCode + ';';
-
-	case 'cbs':
-		return 'network.now.com/network;';
-
-	case 'CBS':
-		return 'network.now.com/network;';
-
-	case 'split':
-		if (generateOrd() % 2 == 1) {
-			return getAdCode ('network');
-		} else {
-			return getAdCode ('affiliate');
-		}
-	default:
-		return getAdCode ('affiliate');
-	}
-}
-
-function getAdTag (p_Width, p_Height, p_Tile, p_AdType) {
-
-var adText;
-var adCode = getAdCode(p_AdType);
-var size = 'sz=' + p_Width + 'x' + p_Height + ';';
-var tile = 'tile=' + p_Tile + ';';
-var htmlSize = 'width=' + p_Width + ' height=' + p_Height;
-
-// a href tag
-adText =			"<A HREF=\"http://ad.doubleclick.net/jump/"
-adText = adText	+	adCode + tile + section + size + ordNumber + "\">"
-
-// image tag
-adText = adText	+	"<IMG src=\"http://ad.doubleclick.net/ad/" 
-adText = adText	+	adCode + tile + section + size + ordNumber + "\" "
-adText = adText	+	"align=\"top\" " + htmlSize + " border=0></A>"
-
-return adText;
-}
-
-function getEnhancedAd (p_Width, p_Height, p_Tile, p_AdType) {
-
-var adText;
-var adCode = getAdCode(p_AdType);
-var size = 'sz=' + p_Width + 'x' + p_Height + ';';
-var tile = 'tile=' + p_Tile + ';';
-var htmlSize = 'width=' + p_Width + ' height=' + p_Height;
-
-// iframe tag
-adText =			"<NOLAYER><IFRAME src=\"http://ad.doubleclick.net/adi/" 
-adText = adText	+	adCode + tile + section + size + ordNumber + "\" "
-adText = adText	+	htmlSize + " marginwidth=0 marginheight=0 "
-adText = adText	+	"hspace=0 vspace=0 frameborder=0 scrolling=no ALIGN=\"top\">"
-
-// a href tag
-adText = adText +	"<A HREF=\"http://ad.doubleclick.net/jump/"
-adText = adText	+	adCode + tile + section + size + ordNumber + "\">"
-
-// image tag
-adText = adText	+	"<IMG src=\"http://ad.doubleclick.net/ad/" 
-adText = adText	+	adCode + tile + section + size + ordNumber + "\" "
-adText = adText	+	"align=\"top\" " + htmlSize + " border=0>"
-adText = adText	+	"</A><BR></IFRAME></NOLAYER>"
-
-// ilayer tag
-adText = adText	+	"<ILAYER id=topbanner visibility=hidden width=" + htmlSize + "></ILAYER>"
-
-return adText;
-}
-
-function getEnhancedLayer (p_Width, p_Height, p_Tile, p_AdType) {
-
-var adText;
-var adCode = getAdCode(p_AdType);
-var size = 'sz=' + p_Width + 'x' + p_Height + ';';
-var tile = 'tile=' + p_Tile + ';';
-var htmlSize = 'width=' + p_Width + ' height=' + p_Height;
-
-// layer tag
-adText =			"<LAYER src=\"http://ad.doubleclick.net/adi/" 
-adText = adText	+	adCode + tile + section + size + ordNumber + "\" "
-adText = adText	+	htmlSize + " visibility=hidden "
-adText = adText	+	"onload=\"moveToAbsolute((topbanner.pageX), (topbanner.pageY)); "
-adText = adText	+	"clip.width=" + p_Width + "; clip.height=" + p_Height
-adText = adText	+	"; visibility='show';\"></LAYER>"
-
-return adText;
-}
-
-// ** end of AD TAG procedures **********
-
-
-
-//-->
-
-</script><table cellspacing="0" cellpadding="0" border="0" bgcolor="#6699CC" width="610">
+<!--The following is the downloaded HTML source of the wcia.com privacy policy that was archived on 2007-12-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071221233319id_/http%3A//www.illinoishomepage.net/content/about/privacypolicy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+   <title>Illinoishomepage.net - Privacy Policy</title>
+   
+<!-- Start Quantcast tag -->
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<script type="text/javascript">
+_qacct="p-5a8t7imBZKTv6";quantserve();</script>
+<noscript>
+<a href="http://www.quantcast.com/p-5a8t7imBZKTv6" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-5a8t7imBZKTv6.gif" style="display: none" border="0" height="1" width="1" alt="Quantcast"/></a></noscript>
+<!-- End Quantcast tag -->
+
+   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+   <meta http-equiv="Expires" content="Mon, 26 Jul 1997 05:00:00 GMT">
+   <meta http-equiv="Cache-Control" content="no-store, no-cache, must-revalidate">
+   <meta http-equiv="Cache-Control" content="post-check=0, pre-check=0">
+   <meta http-equiv="Pragma" content="no-cache">
+   <meta name="description" content="">
+
+   <link rel="stylesheet" href="/css/template_v1.5.css" type="text/css" media="screen,print">  
+   <link rel="shortcut icon" href="/favicon.ico">
+   <script src="/javascript/default.js" type="text/javascript"></script>
+   <script src="/javascript/scriptaculous-js-1.6.5/lib/prototype.js" type="text/javascript"></script>
+   <script src="/javascript/scriptaculous-js-1.6.5/src/scriptaculous.js" type="text/javascript"></script>
+   <script src="/js_biz_search/toggle_form.js" type="text/javascript"></script>
+   <script src="/javascript/illinoishomepage.js" type="text/javascript"></script>
+   <script src="/common/js/ajax_requests.js" type="text/javascript"></script>
+   <script language="JavaScript" src="/javascript/date_picker/date_picker.js"></script>
+    <link rel="stylesheet" href="/javascript/date_picker/date_picker.css" type="text/css">
+</head>
+
+<body lang="en" onload="toggleFormOnLoad()">
+
+<!--VISUAL SCIENCES CODE HBX2.0 (Universal)-->
+<!--COPYRIGHT 1997-2005 VISUAL SCIENCES,INC. ALL RIGHTS RESERVED. U.S.PATENT No. 6,393,479B1. MORE INFO:http://visualsciences.com-->
+<script language="javascript">
+var _hbEC=0,_hbE=new Array;function _hbEvent(a,b){b=_hbE[_hbEC++]=new Object();b._N=a;b._C=0;return b;}
+var hbx=_hbEvent("pv");hbx.vpc="HBX0200u";hbx.gn="a.nexstardigital.com";
+
+//BEGIN EDITABLE SECTION
+//CONFIGURATION VARIABLES
+hbx.acct="DM570902B8VD86EN3;DM5708297MZR86EN3;DM57082997MM86EN3";//ACCOUNT NUMBER(S)
+hbx.pn="PUT+PAGE+NAME+HERE";//PAGE NAME(S)
+hbx.mlc="CONTENT+CATEGORY";//MULTI-LEVEL CONTENT CATEGORY
+//hbx.mlc=get_content_ctgs(location.pathname);//MULTI-LEVEL CONTENT CATEGORY
+hbx.pndef="index.php";//DEFAULT PAGE NAME
+hbx.ctdef="full";//DEFAULT CONTENT CATEGORY
+
+//OPTIONAL PAGE VARIABLES
+//ACTION SETTINGS
+hbx.fv="";//FORM VALIDATION MINIMUM ELEMENTS OR SUBMIT FUNCTION NAME
+hbx.lt="auto";//LINK TRACKING
+hbx.dlf="n";//DOWNLOAD FILTER
+hbx.dft="n";//DOWNLOAD FILE NAMING
+hbx.elf="n";//EXIT LINK FILTER
+
+//SEGMENTS AND FUNNELS
+hbx.seg="";//VISITOR SEGMENTATION
+hbx.fnl="";//FUNNELS
+
+//CAMPAIGNS
+hbx.cmp="";//CAMPAIGN ID
+hbx.cmpn="";//CAMPAIGN ID IN QUERY
+hbx.dcmp="";//DYNAMIC CAMPAIGN ID
+hbx.dcmpn="";//DYNAMIC CAMPAIGN ID IN QUERY
+hbx.dcmpe="";//DYNAMIC CAMPAIGN EXPIRATION
+hbx.dcmpre="";//DYNAMIC CAMPAIGN RESPONSE EXPIRATION
+hbx.hra="";//RESPONSE ATTRIBUTE
+hbx.hqsr="";//RESPONSE ATTRIBUTE IN REFERRAL QUERY
+hbx.hqsp="";//RESPONSE ATTRIBUTE IN QUERY
+hbx.hlt="";//LEAD TRACKING
+hbx.hla="";//LEAD ATTRIBUTE
+hbx.gp="";//CAMPAIGN GOAL
+hbx.gpn="";//CAMPAIGN GOAL IN QUERY
+hbx.hcn="";//CONVERSION ATTRIBUTE
+hbx.hcv="";//CONVERSION VALUE
+hbx.cp="null";//LEGACY CAMPAIGN
+hbx.cpd="";//CAMPAIGN DOMAIN
+
+//CUSTOM VARIABLES
+hbx.ci="";//CUSTOMER ID
+hbx.hc1="";//CUSTOM 1
+hbx.hc2="";//CUSTOM 2
+hbx.hc3="";//CUSTOM 3
+hbx.hc4="";//CUSTOM 4
+hbx.hrf="";//CUSTOM REFERRER
+hbx.pec="";//ERROR CODES
+
+//INSERT CUSTOM EVENTS
+
+//END EDITABLE SECTION
+
+//REQUIRED SECTION. CHANGE "YOURSERVER" TO VALID LOCATION ON YOUR WEB SERVER (HTTPS IF FROM SECURE SERVER)
+</script><script language="javascript1.1" src="http://illinoishomepage.net/javascript/hbx/hbx.js"></script>
+<!--END VISUAL SCIENCES CODE-->
+
+
+<div id="page">
+  <div id="leftSide">
+    <div id="siteLogo"><a href="/"><img src="/images/logo.php" alt="logo"></a></div>
+    <div id="leftTopModules">
+      <ul id="LEFTTOP_modules" class="modulePositions">
+<li id="web_weather_upload_0" class="siteModule web_weather_upload firstModule">
+<div class="moduleTitle"><span class="titleText" title="Drag Me">Current Conditions&nbsp;</span></div>
+<div class="moduleContent">
+
+<table border="0" width="240" cellspacing="0" cellpadding="0" bgcolor="#000000">
 <tbody><tr>
-  <td rowspan="3" width="120" valign="top" bgcolor="#6699CC" nowrap=""><a href="/now/section/0,1636,100-392,00.shtml" target="_top"><img src="http://a1800.g.akamai.net/7/1800/121/948921061/newsimages.cbsig.net/common/images/logos/logo_WCIA_boom.gif" width="120" height="64" hspace="0" vspace="0" border="0" alt="HOME"></a><br>
-  </td>
-  <td width="340" bgcolor="#000000" colspan="2" height="14">
-    <table width="340" cellspacing="0" cellpadding="0" border="0" height="14">
+  <td class="weatherTable">
+    <span style="color:white">
+    <table border="0" width="100%" cellspacing="0" cellpadding="0">
     <tbody><tr>
-      <td width="160"><img src="http://a1800.g.akamai.net/f/1800/121/1h/newsimages.cbsig.net/common/images/elements/date_CDT.gif" width="153" height="11" hspace="0" vspace="1" border="0"><br></td>
-      <td width="180"><img src="http://a1800.g.akamai.net/7/1800/121/917997707/newsimages.cbsig.net/common/images/cities/city_WCIA.gif" width="180" height="11" hspace="0" vspace="1" border="0"><br></td>
+      <td colspan="3" align="left" class="weatherText">Current Conditions in Champaign:</td>
     </tr>
-	</tbody></table>
-  </td>
-  <td rowspan="3" width="150" valign="top">
-   <script language="javascript">
- var section = 'sec=' + 10340 +';';
- var ordNumber = 'ord=' + generateOrd() + '?';
-
-var affiliate1 = 'WCIA';
-document.write(getAdTag(150,64,1,'split'));
-</script><a href="http://ad.doubleclick.net/jump/network.now.com/wcia;tile=1;sec=10340;sz=150x64;ord=1580354062039?"><img src="http://ad.doubleclick.net/ad/network.now.com/wcia;tile=1;sec=10340;sz=150x64;ord=1580354062039?" align="top" width="150" height="64" border="0"></a>
+    <tr>
+      <td rowspan="3" align="center" class="weatherTempText">37°</td>
+      <td align="center" colspan="2" class="weatherText">
+        WIND CHILL: 32°
+      </td>
+    </tr>
+    <tr>
+      <td align="center" class="weatherText">WIND</td>
+      <td align="center" class="weatherText">HUMIDITY</td>
+    </tr>
+    <tr>
+      <td align="center" class="weatherText">6 E</td>
+      <td align="center" class="weatherText">96%</td>
+    </tr>
+    </tbody></table>
+    </span>
   </td>
 </tr>
 <tr>
-  <form name="formy" method="post" action="/topnav/go/1,1715,,00.html"></form>
-  <input type="hidden" name="affiliateID" value="392">
-  <td valign="top" align="center" nowrap="" height="49">
-    <table cellspacing="0" cellpadding="0" border="0">
+  <td class="radarimage">
+    <a href="/content/weather"></a>
+  </td>
+</tr>
+<tr>
+  <td>
+    <table border="0" width="100%" cellspacing="0" cellpadding="0">
     <tbody><tr>
-	  <td nowrap="" height="4" colspan="3"></td>
-    </tr>
-	    <tr>
-      <td rowspan="3" valign="top" width="11"><img src="http://a1800.g.akamai.net/7/1800/121/918654803/newsimages.cbsig.net/common/images/elements/curv_forms_l.gif" width="11" height="26" hspace="0" vspace="0" border="0"><br></td>
-      <td height="1" bgcolor="#666666"><table width="1" height="1" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td></td></tr></tbody></table></td>
-      <td rowspan="3" valign="top" width="26"><input type="Image" src="http://a1800.g.akamai.net/7/1800/121/918654802/newsimages.cbsig.net/common/images/elements/curv_forms_go.gif" border="0" width="26" height="26" vspace="0" hspace="0" alt="go" class="form"><br></td>
-    </tr>
-    <tr>
-      <td bgcolor="#ffffff" align="center" height="16" nowrap=""><font face="arial, helvetica" size="2" color="#000000" class="toptext"><b>navigate</b></font></td>
-    </tr>
-    <tr>
-      <td valign="top" height="24">
-<select name="goWhere" onchange="gothereNow(this)">
 
-<option value="/now/section/0,1636,10340-392,00.shtml">HELP</option>
-<option></option>
-
-
-	
-		
-			<option value="/now/eframeset/1,1616,392,00.html?URL=%2Fsitemap%2F0%2C1585%2C392%2C00%2Ehtml">SITE MAP</option>
-		 
-	
-		
-			<option value="/now/eframeset/1,1616,392,00.html?URL=%2Fnow%2Ffeedback%2F0%2C1611%2C392%2C00%2Ehtml">FEEDBACK</option>
-		 
-	
-		
-			<option value="/now/eframeset/1,1616,392,00.html?URL=%2Fnow%2Fchange%5Fcity">CHANGE CITY</option>
-		 
-	
-<option value="/now/section/0,1636,100-392,00.shtml">HOME</option>
-	<option></option>
-
-
-	
-<option value="/now/section/0,1636,200-392,00.shtml">CBS NEWS</option>
-	
-	
-		
-<option vaule="http://www.cbs.com">CBS SHOWS</option>
-		 
-	
-<option value="/now/section/0,1636,300-392,00.shtml">WEATHER</option>
-	
-	
-<option value="/now/section/0,1636,400-392,00.shtml">SPORTS</option>
-	
-	
-<option value="/now/section/0,1636,600-392,00.shtml">LOCAL GUIDE</option>
-	
-	
-		
-<option vaule="http://cbs.marketwatch.com">MONEY</option>
-		 
-	
-<option value="/now/section/0,1636,10300-392,00.shtml">EMPLOYMENT</option>
-	
-	
-<option value="/now/section/0,1636,204-392,00.shtml">HEALTH</option>
-	
-	
-		
-<option vaule="http://cbs.nikolai.com/default.htm">CBS KIDSHOW</option>
-		 
-	
-<option value="/now/section/0,1636,9001-392,00.shtml">WCIA KIDS</option>
-	
-	
-<option value="/now/section/0,1636,500-392,00.shtml">LIFE</option>
-	
-	
-		
-<option vaule="http://store.cbs.com/">SHOPPING</option>
-		 
-	
-<option value="/now/section/0,1636,700-392,00.shtml">ON AIR</option>
-	
-	
-<option value="/now/section/0,1636,10260-392,00.shtml">ABOUT US</option>
-	</select>
-	  </td>
+      <td class="weatherTable" align="center">
+        <span class="weatherText">FRI</span><br>
+        <img src="/media/gif/MstlyCldy0030.gif"><br>
+        <span class="weatherTemp2Text">45°</span>
+      </td>
+      <td class="weatherTable" align="center">
+        <span class="weatherText">SAT</span><br>
+        <img src="/media/gif/MstlyCldyShower0030.gif"><br>
+        <span class="weatherTemp2Text">50°</span>
+      </td>
+      <td class="weatherTable" align="center">
+        <span class="weatherText">SUN</span><br>
+        <img src="/media/gif/CldDrk0030.gif"><br>
+        <span class="weatherTemp2Text">37°</span>
+      </td>
     </tr>
     </tbody></table>
   </td>
-  
-
-<form name="keyword" method="get" action="/now/shortcuts/1,1608,392,00.shtml" target="_top"></form>
-    <td valign="top" align="center">
-<table cellspacing="0" cellpadding="0" border="0">
-<tbody><tr>
-	<td nowrap="" height="4" colspan="3"></td>
-</tr>
-<tr>
-    <td rowspan="3" valign="top" width="11"><img src="http://a1800.g.akamai.net/7/1800/121/918654803/newsimages.cbsig.net/common/images/elements/curv_forms_l.gif" width="11" height="26" hspace="0" vspace="0" border="0"><br></td>
-        <td height="1" bgcolor="#666666"><table width="1" height="1" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td></td></tr></tbody></table></td>
-    <td rowspan="3" valign="top" width="26"><input type="Image" src="/common/images/elements/curv_forms_go.gif" border="0" width="26" height="26" vspace="0" hspace="0" alt="go" class="form"><br><a href="/now/shortcuts/help/0,1607,392,00.shtml" target="_top"><img src="http://a1800.g.akamai.net/7/1800/121/918654843/newsimages.cbsig.net/common/images/elements/question.gif" width="13" height="13" hspace="4" vspace="2" border="0" alt="View Our Shortcut List"></a><br></td>
-</tr>
-<tr>
-        <td bgcolor="#ffffff" align="center" height="16" nowrap=""><font face="arial, helvetica" size="2" color="#000000" class="toptext"><b>shortcut</b></font></td>
-</tr>
-<tr>
-    <td valign="top" height="24">
-<input type="text" size="11" maxlength="64" name="p_key" class="form"><br>
-	</td>
 </tr>
 </tbody></table>
-	</td>
+</div>
+<div class="moduleFooter"><span class="footerText"><!-- --></span></div>
+</li>
+<li id="web_openad_banner_1" class="siteModule web_openad_banner firstModule">
+<div class="moduleTitle"><span class="titleText" title="Drag Me">Small Banner&nbsp;</span></div>
+<div class="moduleContent"><!-- Openads script Zone ID: 139 //--><script type="text/javascript" src="http://ads.nexstardigital.com/www/delivery/ajs.php?zoneid=139&amp;cb=799304760"></script></div><div class="moduleFooter"><span class="footerText"><!-- --></span></div>
+</li>
+<li id="web_poll_display_2" class="siteModule web_poll_display">
+<div class="moduleTitle"><span class="titleText" title="Drag Me">Your Opinion&nbsp;</span></div>
+<div class="moduleContent" id="poll_content_24" name="poll_content_24">
 
-</tr>
+<form style="display:inline;" method="post" action="/content/about/privacypolicy" id="poll_121">
+<input type="hidden" name="poll_id" value="121">
+Biggest Story of 2007<br><img src="/images/clearpixel.gif" width="5" height="5"><br>
+<div style="margin:3px 1px 7px 1px;font-size:.94em"><b>Which story do you think tops the list?</b></div>
+<input type="radio" name="poll[129]" value="405">&nbsp;Three police officers shot in Champaign<br>
+<input type="radio" name="poll[129]" value="406">&nbsp;The Chief's last dance<br>
+<input type="radio" name="poll[129]" value="407">&nbsp;Urbana teacher Jon White accused of sexual abuse<br>
+<input type="radio" name="poll[129]" value="408">&nbsp;Mattoon lands FutureGen<br>
+<input type="radio" name="poll[129]" value="409">&nbsp;Arcola bank standoff<br>
+<img src="/images/clearpixel.gif" width="5" height="5"><br><button class="submit_button" onclick="poll_validate_121(this.form);return false;">Vote</button>&nbsp;<input type="reset"><br><img src="images/clearpixel.gif" width="5" height="5"><br>
+<a href="javascript:void(1);" onclick="ajax_requests.pollSwapFormAndResult(24, 'results');">View Results</a><br>
+<a href="/content/poll/">View Other Polls</a><br>
+<br><span class="simple_poll_banner" style="text-align:center"><script type="text/javascript" src="http://ads.nexstardigital.com/SUPPORT/get_random_ad.php?znid=524&amp;mode=js"></script></span>
+</form>
 
-<tr>
-	<td colspan="2" height="1" bgcolor="#000000">
-		<table width="1" height="1" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td></td></tr></tbody></table>
-	</td>
-</tr>
-</tbody></table><table width="610" cellspacing="0" cellpadding="0" border="0">
+<script type="text/javascript">
+
+function poll_validate_121(thePoll) {
+
+  var question_ids = new Array('129');
+  var pars = '';
+
+  //verify there are questions answered
+  var verify = 0;
+  for (var i=0; i<question_ids.length; i++) {
+    var radio = document.getElementsByName('poll['+question_ids[i]+']');
+    for (j=0; j<radio.length; j++) {
+      if (radio[j].checked) {
+        verify++;
+        pars += question_ids[i] + ':' + radio[j].value + ',';
+      }
+    }
+  }
+  if (verify == question_ids.length) {
+    pars = pars.replace(/,$/, '');
+    ajax_requests.pollVote(24, pars);
+  }
+}
+</script>
+
+</div>
+<div class="moduleFooter"><span class="footerText"><!-- --></span></div>
+</li>
+<li id="web_eventscalendar_display_3" class="siteModule web_eventscalendar_display">
+<div class="moduleTitle"><span class="titleText" title="Drag Me">Hometown Calendar&nbsp;</span></div>
+
+<style type="text/css">
+.calendarbg { background-color : #EEE; border: 1px solid #2A4989; }
+.calendarhdr { font-family: Arial; color: white; font-size: 8pt; font-weight: normal; background-color : #2A4989; text-align : center; }
+.titlehdr { font-family: Verdana; color: white; font-weight: bold; text-align : center; }
+.calendarday       { font-family: Arial; color: #AAAAAA; font-size: 8pt; font-weight: normal; background-color : white; text-align : center; }
+.calendaractiveday { font-family: Arial; color: white; font-size: 8pt; font-weight: normal; background-color : #2A4989; text-align : center; }
+A.calendarlink, A.calendarlink:link, A.calendarlink:VISITED, A.calendarlink:HOVER { color: #CC0000; text-decoration: none; font-weight: normal; }
+A.calendarlink_a, A.calendarlink_a:link, A.calendarlink_a:VISITED, A.calendarlink_a:HOVER { color: #AAAAAA; text-decoration: none; font-weight: normal; }
+</style>
+
+<div class="moduleContent" id="event_calendar_23" name="event_calendar_23">
+
+<div style="text-align:center;">
+<table align="center" width="160" border="0" cellpadding="0" cellspacing="0">
 <tbody><tr>
-    <td width="108" valign="top" nowrap="">
-<!-- Vignette StoryServer 4 Thu May 10 02:06:29 2001 -->
- <table width="108" cellspacing="0" cellpadding="0" border="0" bgcolor="#6699CC">
-				<tbody><tr>
-					<td colspan="3">
-					<table width="108" cellspacing="0" cellpadding="0" border="0">
-        			<tbody><tr>
-               			<td colspan="3" width="108"><a href="/now/section/0,1636,100-392,00.shtml"><img src="http://a1800.g.akamai.net/7/1800/121/918654840/newsimages.cbsig.net/common/images/elements/home_curve.gif" width="108" height="23" hspace="0" vspace="0" border="0" alt="HOME"></a><br>
-						</td>
-					</tr>
-				
-				</tbody></table>
-
-
-	 
-		 <!-- nav_level = 1 curr_level = -1 -->
-					<!-- begin open_level 1 -->
-        			</td></tr><tr>
-					<td colspan="3" width="108" bgcolor="#000000" height="14" align="center" nowrap=""><font face="arial, helvetica" size="1" color="#ffffff" class="navhead">&nbsp; U T I L I T I E S &nbsp;</font><br></td>
-					</tr>
-					<tr>
-				<td colspan="3" class="bgon" bgcolor="#999999">
-				<!-- close open_level 1 -->
-			 <div class="dl1on"><a href="/now/section/0,1636,10340-392,00.shtml"><font size="1" color="000000" face="arial, helvetica"> &nbsp;<b>HELP</b></font></a></div>
-	 
-	 <!-- nav_level = 2 curr_level = 1 -->
-			<!-- begin open_level 2 -->
-   			</td></tr>
-			<tr>
-        		<td rowspan="3" width="6" nowrap="" bgcolor="#999999"><div class="nbsp">&nbsp;</div></td>
-	   			<td colspan="2" bgcolor="#000000" width="101" height="1">
-					<table width="1" height="1" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td></td></tr></tbody></table>
-				</td>
-			</tr>
-			<tr>
-	    		<td width="1" bgcolor="#000000"><div class="nbsp"><br></div></td>
-        		<td width="101">
-    		<table width="101" cellspacing="0" cellpadding="0" border="0">
-			<tbody><tr>
-			<td colspan="3" width="101" bgcolor="#CCCCCC">
-			<!-- close open_level 2 -->
-			 <div class="dl2off"><a href="/now/story/0,1597,31133-392,00.shtml"><font size="1" color="000000" face="arial, helvetica"> &nbsp;Browsers</font></a></div>
-	 
-	 <!-- nav_level = 2 curr_level = 2 --> <div class="dl2off"><a href="/now/story/0,1597,31142-392,00.shtml"><font size="1" color="000000" face="arial, helvetica"> &nbsp;Cookies</font></a></div>
-	 
-	 <!-- nav_level = 2 curr_level = 2 --> <div class="dl2off"><a href="/now/story/0,1597,31147-392,00.shtml"><font size="1" color="000000" face="arial, helvetica"> &nbsp;Plug-ins</font></a></div>
-	 
-	 <!-- nav_level = 2 curr_level = 2 --> <div class="dl2off"><a href="/now/story/0,1597,31163-392,00.shtml"><font size="1" color="000000" face="arial, helvetica"> &nbsp;Start Page</font></a></div>
-	 
-	 <!-- nav_level = 2 curr_level = 2 --> <div class="dl2off"><a href="/now/story/0,1597,31165-392,00.shtml"><font size="1" color="000000" face="arial, helvetica"> &nbsp;Multimedia</font></a></div>
-	 
-	 <!-- nav_level = 2 curr_level = 2 --> <div class="dl2off"><a href="/now/story/0,1597,41194-392,00.shtml"><font size="1" color="000000" face="arial, helvetica"> &nbsp;Shortcuts</font></a></div>
-	 
-	 <!-- nav_level = 2 curr_level = 2 --> <div class="dl2off"><a href="/now/section/0,1636,10345-392,00.shtml"><font size="1" color="000000" face="arial, helvetica"> &nbsp;Copyright</font></a></div>
-	 
-	 <!-- nav_level = 2 curr_level = 2 --> <div class="dl2off"><a href="/now/story/0,1597,53940-392,00.shtml"><font size="1" color="000000" face="arial, helvetica"> &nbsp;Privacy Statement</font></a></div>
-	 
-	 <!-- nav_level = 1 curr_level = 2 -->
-				</td>
-			    </tr>
-				</tbody></table>
-				</td>
-				</tr>
-				<tr>
-			    <td colspan="2" bgcolor="#000000" height="1">
-				<table width="1" height="1" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td></td></tr></tbody></table>
-				</td>
-			    </tr>
-				<tr>
-	        <td colspan="3" width="101" bgcolor="#999999">
-			 <div class="dl1off"><a href="/now/eframeset/1,1616,392,00.html?URL=%2Fsitemap%2F0%2C1585%2C392%2C00%2Ehtml"><font size="1" color="000000" face="arial, helvetica"> &nbsp;SITE MAP</font></a></div>
-	 
-	 <!-- nav_level = 1 curr_level = 1 --> <div class="dl1off"><a href="/now/eframeset/1,1616,392,00.html?URL=%2Fnow%2Ffeedback%2F0%2C1611%2C392%2C00%2Ehtml"><font size="1" color="000000" face="arial, helvetica"> &nbsp;FEEDBACK</font></a></div>
-	 
-	 <!-- nav_level = 1 curr_level = 1 --> <div class="dl1off"><a href="/now/eframeset/1,1616,392,00.html?URL=%2Fnow%2Fchange%5Fcity"><font size="1" color="000000" face="arial, helvetica"> &nbsp;CHANGE CITY</font></a></div>
-	 
-	 
-		 <!-- nav_level = 1 curr_level = -1 -->
-				</td>
-			    </tr>
-			
-					<!-- begin open_level 1 -->
-        			<tr>
-					<td colspan="3" width="108" bgcolor="#000000" height="14" align="center" nowrap=""><font face="arial, helvetica" size="1" color="#ffffff" class="navhead">&nbsp; N A V I G A T E &nbsp;</font><br></td>
-					</tr>
-					<tr>
-				<td colspan="3" class="bgon" bgcolor="#003366">
-				<!-- close open_level 1 -->
-			 <div class="dl1off"><a href="/now/section/0,1636,200-392,00.shtml"><font size="1" color="FFFFFF" face="arial, helvetica"> &nbsp;CBS NEWS</font></a></div>
-	 
-	 <!-- nav_level = 1 curr_level = 1 --> <div class="dl1off"><a href="http://www.cbs.com"><font size="1" color="FFFFFF" face="arial, helvetica"> &nbsp;CBS SHOWS</font></a></div>
-	 
-	 <!-- nav_level = 1 curr_level = 1 --> <div class="dl1off"><a href="/now/section/0,1636,300-392,00.shtml"><font size="1" color="FFFFFF" face="arial, helvetica"> &nbsp;WEATHER</font></a></div>
-	 
-	 <!-- nav_level = 1 curr_level = 1 --> <div class="dl1off"><a href="/now/section/0,1636,400-392,00.shtml"><font size="1" color="FFFFFF" face="arial, helvetica"> &nbsp;SPORTS</font></a></div>
-	 
-	 <!-- nav_level = 1 curr_level = 1 --> <div class="dl1off"><a href="/now/section/0,1636,600-392,00.shtml"><font size="1" color="FFFFFF" face="arial, helvetica"> &nbsp;LOCAL GUIDE</font></a></div>
-	 
-	 <!-- nav_level = 1 curr_level = 1 --> <div class="dl1off"><a href="http://cbs.marketwatch.com"><font size="1" color="FFFFFF" face="arial, helvetica"> &nbsp;MONEY</font></a></div>
-	 
-	 <!-- nav_level = 1 curr_level = 1 --> <div class="dl1off"><a href="/now/section/0,1636,10300-392,00.shtml"><font size="1" color="FFFFFF" face="arial, helvetica"> &nbsp;EMPLOYMENT</font></a></div>
-	 
-	 <!-- nav_level = 1 curr_level = 1 --> <div class="dl1off"><a href="/now/section/0,1636,204-392,00.shtml"><font size="1" color="FFFFFF" face="arial, helvetica"> &nbsp;HEALTH</font></a></div>
-	 
-	 <!-- nav_level = 1 curr_level = 1 --> <div class="dl1off"><a href="http://cbs.nikolai.com/default.htm"><font size="1" color="FFFFFF" face="arial, helvetica"> &nbsp;CBS KIDSHOW</font></a></div>
-	 
-	 <!-- nav_level = 1 curr_level = 1 --> <div class="dl1off"><a href="/now/section/0,1636,9001-392,00.shtml"><font size="1" color="FFFFFF" face="arial, helvetica"> &nbsp;WCIA KIDS</font></a></div>
-	 
-	 <!-- nav_level = 1 curr_level = 1 --> <div class="dl1off"><a href="/now/section/0,1636,500-392,00.shtml"><font size="1" color="FFFFFF" face="arial, helvetica"> &nbsp;LIFE</font></a></div>
-	 
-	 <!-- nav_level = 1 curr_level = 1 --> <div class="dl1off"><a href="http://store.cbs.com/"><font size="1" color="FFFFFF" face="arial, helvetica"> &nbsp;SHOPPING</font></a></div>
-	 
-	 <!-- nav_level = 1 curr_level = 1 --> <div class="dl1off"><a href="/now/section/0,1636,700-392,00.shtml"><font size="1" color="FFFFFF" face="arial, helvetica"> &nbsp;ON AIR</font></a></div>
-	 
-	 <!-- nav_level = 1 curr_level = 1 --> <div class="dl1off"><a href="/now/section/0,1636,10260-392,00.shtml"><font size="1" color="FFFFFF" face="arial, helvetica"> &nbsp;ABOUT US</font></a></div>
-	 </td></tr><tr><td colspan="3" height="11">
-<img src="http://a1800.g.akamai.net/7/1800/121/918654841/newsimages.cbsig.net/common/images/elements/nav_cap.gif" width="108" height="11" hspace="0" vspace="0" border="0"><br>
-</td></tr>
-</tbody></table>
-
-<br><br><center>
-
-			<a href="http://ad.doubleclick.net/jump/network.now.com/wcia;tile=1;sec=10340;sz=100x54;ord=247368698?" target="_blank">
-			<img src="http://ad.doubleclick.net/ad/network.now.com/wcia;tile=1;sec=10340;sz=100x54;ord=247368698?" align="top" width="100" height="54" border="0"></a>
-		</center> </td>
-	<td width="502" valign="top" nowrap="">
-
-	<table width="502" cellspacing="0" cellpadding="0" border="0">
-	<tbody><tr>
-    	<td rowspan="3" width="6" nowrap=""></td>
-    	<td nowrap="" height="6"></td>
-	</tr>
-	<tr>
-    	<td width="468" height="60">
-		 <script language="javascript">
-var affiliate1 = 'WCIA';
-var section = 'sec=' + 10340 +';';
- var ordNumber = 'ord=' + generateOrd() + '?';
-document.write(getEnhancedAd(468,60,2,'split'));
- 
-</script><nolayer><iframe src="http://ad.doubleclick.net/adi/network.now.com/wcia;tile=2;sec=10340;sz=468x60;ord=1580354062096?" width="468" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" align="top"><A HREF="http://ad.doubleclick.net/jump/network.now.com/wcia;tile=2;sec=10340;sz=468x60;ord=1580354062096?"><IMG src="http://ad.doubleclick.net/ad/network.now.com/wcia;tile=2;sec=10340;sz=468x60;ord=1580354062096?" align="top" width=468 height=60 border=0></A><BR></iframe></nolayer><ilayer id="topbanner" visibility="hidden" width="width=468" height="60"></ilayer>
-		</td>
-	</tr>
-	<tr>
-    	<td nowrap="" height="6"></td>
-	</tr>
-	</tbody></table>
-<!-- Vignette StoryServer 4 Thu May 10 02:06:32 2001 -->
- <table width="502" cellspacing="0" cellpadding="0" border="0">
-<tbody><tr>
-        <td rowspan="2" width="6" nowrap=""> </td>
-    <td bgcolor="#6699CC" width="441" height="19" nowrap="">
-	       <nobr>&nbsp;&nbsp;
-
-
-	<a href="/now/section/0,1636,10340-392,00.shtml"><b><font face="Arial" size="3" color="#003366" class="link">HELP</font></b></a> </nobr>
-        </td>
-        <td width="55" bgcolor="#6699CC" valign="top" align="right">
-        <img src="http://a1800.g.akamai.net/7/1800/121/918654797/newsimages.cbsig.net/common/images/elements/cbs_6699CC.gif" width="55" height="19" hspace="0" vspace="0" border="0" alt="CBS"><br>
-        </td>
+  <td>
+    <table width="100%" border="0" cellpadding="0" cellspacing="0">
+    <tbody><tr>
+      <td align="left" width="1%" style="padding-left:2px;"><a href="javascript:void(1);" onclick="ajax_requests.eventCalendar(23, 2007, 11, 21);" class="calendarlink"><b><nobr>«-</nobr></b></a></td>
+      <td align="center" width="98%">December 2007</td>
+      <td align="right" width="1%" style="padding-right:2px;"><a href="javascript:void(1);" onclick="ajax_requests.eventCalendar(23, 2008, 1, 21);" class="calendarlink"><b><nobr>-»</nobr></b></a></td>
+    </tr>
+    </tbody></table>
+  </td>
 </tr>
 <tr>
-    <td colspan="2" height="1" bgcolor="#000000"><table width="1" height="1" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td></td></tr></tbody></table></td>
-</tr>
-</tbody></table><table width="502" cellspacing="0" cellpadding="0" border="0" align="left">
-<tbody><tr>
-    <td width="6" nowrap="">&nbsp;</td>
-    <td width="370" valign="top">
-
-<table cellpadding="0" cellspacing="0" border="0" width="370">
-<tbody><tr>
-<td nowrap="" height="10"> </td>
+  <td>
+    <table width="100%" border="0" cellpadding="1" cellspacing="1" class="calendarbg">
+    <tbody><tr>
+      <td class="calendarhdr" width="14%">S</td>
+      <td class="calendarhdr" width="14%">M</td>
+      <td class="calendarhdr" width="14%">T</td>
+      <td class="calendarhdr" width="14%">W</td>
+      <td class="calendarhdr" width="14%">T</td>
+      <td class="calendarhdr" width="14%">F</td>
+      <td class="calendarhdr" width="14%">S</td>
+    </tr>
+<tr>
+<td class="calendarday">&nbsp;</td><td class="calendarday">&nbsp;</td><td class="calendarday">&nbsp;</td><td class="calendarday">&nbsp;</td><td class="calendarday">&nbsp;</td><td class="calendarday">&nbsp;</td><td class="calendarday"><a href="/content/community/calendar/?year=2007&amp;month=12&amp;date=1" class="calendarlink">1</a></td>
 </tr>
 <tr>
-<td align="left" valign="top"><font size="5" face="arial, helvetica" color="#333333"><b>CBS.com Privacy Statement</b></font></td>
+<td class="calendarday"><a href="/content/community/calendar/?year=2007&amp;month=12&amp;date=2" class="calendarlink">2</a></td>
+<td class="calendarday"><a href="/content/community/calendar/?year=2007&amp;month=12&amp;date=3" class="calendarlink">3</a></td>
+<td class="calendarday"><a href="/content/community/calendar/?year=2007&amp;month=12&amp;date=4" class="calendarlink">4</a></td>
+<td class="calendarday"><a href="/content/community/calendar/?year=2007&amp;month=12&amp;date=5" class="calendarlink">5</a></td>
+<td class="calendarday"><a href="/content/community/calendar/?year=2007&amp;month=12&amp;date=6" class="calendarlink">6</a></td>
+<td class="calendarday"><a href="/content/community/calendar/?year=2007&amp;month=12&amp;date=7" class="calendarlink">7</a></td>
+<td class="calendarday"><a href="/content/community/calendar/?year=2007&amp;month=12&amp;date=8" class="calendarlink">8</a></td>
 </tr>
 <tr>
-<td nowrap="" height="5"> </td>
-</tr>
-
-<tr>
-<td><ul><font color="#333333" face="Times New Roman" size="3">
-	<i>
-		 </i>
-	</font>
-</ul></td>
- 
-</tr>
-
-<tr>
-<td nowrap="" height="10"> </td>
+<td class="calendarday"><a href="/content/community/calendar/?year=2007&amp;month=12&amp;date=9" class="calendarlink">9</a></td>
+<td class="calendarday"><a href="/content/community/calendar/?year=2007&amp;month=12&amp;date=10" class="calendarlink">10</a></td>
+<td class="calendarday"><a href="/content/community/calendar/?year=2007&amp;month=12&amp;date=11" class="calendarlink">11</a></td>
+<td class="calendarday"><a href="/content/community/calendar/?year=2007&amp;month=12&amp;date=12" class="calendarlink">12</a></td>
+<td class="calendarday"><a href="/content/community/calendar/?year=2007&amp;month=12&amp;date=13" class="calendarlink">13</a></td>
+<td class="calendarday"><a href="/content/community/calendar/?year=2007&amp;month=12&amp;date=14" class="calendarlink">14</a></td>
+<td class="calendarday"><a href="/content/community/calendar/?year=2007&amp;month=12&amp;date=15" class="calendarlink">15</a></td>
 </tr>
 <tr>
- 
-<td align="left"><font size="1" font="" face="arial,helvetica"><b></b>
-<br>Tuesday, April 17, 2001 - 04:48 PM ET</font></td>
+<td class="calendarday"><a href="/content/community/calendar/?year=2007&amp;month=12&amp;date=16" class="calendarlink">16</a></td>
+<td class="calendarday"><a href="/content/community/calendar/?year=2007&amp;month=12&amp;date=17" class="calendarlink">17</a></td>
+<td class="calendarday"><a href="/content/community/calendar/?year=2007&amp;month=12&amp;date=18" class="calendarlink">18</a></td>
+<td class="calendarday"><a href="/content/community/calendar/?year=2007&amp;month=12&amp;date=19" class="calendarlink">19</a></td>
+<td class="calendarday"><a href="/content/community/calendar/?year=2007&amp;month=12&amp;date=20" class="calendarlink">20</a></td>
+<td class="calendaractiveday"><a href="/content/community/calendar/?year=2007&amp;month=12&amp;date=21" class="calendarlink_a">21</a></td>
+<td class="calendarday"><a href="/content/community/calendar/?year=2007&amp;month=12&amp;date=22" class="calendarlink">22</a></td>
 </tr>
 <tr>
-<td nowrap="" height="5"> </td>
+<td class="calendarday"><a href="/content/community/calendar/?year=2007&amp;month=12&amp;date=23" class="calendarlink">23</a></td>
+<td class="calendarday"><a href="/content/community/calendar/?year=2007&amp;month=12&amp;date=24" class="calendarlink">24</a></td>
+<td class="calendarday"><a href="/content/community/calendar/?year=2007&amp;month=12&amp;date=25" class="calendarlink">25</a></td>
+<td class="calendarday"><a href="/content/community/calendar/?year=2007&amp;month=12&amp;date=26" class="calendarlink">26</a></td>
+<td class="calendarday"><a href="/content/community/calendar/?year=2007&amp;month=12&amp;date=27" class="calendarlink">27</a></td>
+<td class="calendarday"><a href="/content/community/calendar/?year=2007&amp;month=12&amp;date=28" class="calendarlink">28</a></td>
+<td class="calendarday"><a href="/content/community/calendar/?year=2007&amp;month=12&amp;date=29" class="calendarlink">29</a></td>
 </tr>
 <tr>
-<td valign="top">
-<font size="2" face="verdana, arial, helvetica"><b>(CBS)</b>&nbsp;We take your electronic privacy seriously. Questions regarding this statement or our practices should be directed to the cbs.com Privacy Coordinator by email at  <a href="mailto:privacy@cbs.com">privacy@cbs.com</a>. You may also send inquiries by mail to: 
-<br>
-<br><b>Privacy Coordinator
-<br>CBS.com (555/13)
-<br>524 West 57th Street
-<br>New York, New York 10019</b>
-<br>
-<br>We reserve the right to change our policy from time to time as we deem appropriate in our sole discretion.
-<br> 
-<br><font face="arial,helvetica,sans-serif" size="3" color="#336699"><b>KINDS OF INFORMATION</b></font>
-<br>There are two kinds of information Web sites can obtain about you: 
-<br>
-<br><font face="arial,helvetica,sans-serif" size="2" color="#336699">AGGREGATE INFORMATION</font>: Aggregate Information is anonymous data that Web sites use to diagnose problems on the sites' servers, administer the sites, and to help improve the quality of the Web pages. It may be your domain name (i.e. "XYZ.com") or your IP address. 
-<br>
-<br><font face="arial,helvetica,sans-serif" size="2" color="#336699">PERSONALLY IDENTIFIABLE INFORMATION</font>: Personally Identifiable Information is any information that personally identifies you. It can be your first and last name, your email address, your home address, or your telephone number. Sometimes this personal information is needed when you order products online or subscribe to an email newsletter. Other times, web sites collect this information to help target advertising and marketing. 
-<br>
-<br>We collect Aggregate Information - such as your IP address (a number that's automatically assigned to your computer whenever you're surfing the Internet), browser type (e.g., Netscape or Internet Explorer), and domain (e.g., "XYZ.com"). We do this in the background so it does not interrupt your cruising speed. We use this information to help diagnose problems with our servers, to administer our site, and to gather broad demographic information. We share Aggregate Information with third parties for advertising and promotional purposes.  None of this information is connected with Personally Identifiable Information. So, when you enter our site, you are anonymous and will remain that way unless you choose otherwise. 
-<br>
-<br><font face="arial,helvetica,sans-serif" size="3" color="#336699"><b>COOKIES</b></font>
-<br>
-<br>We use <a href="/now/story/0,1597,31142-392,00.shtml">cookies</a> to remember your zip code so that you can maintain a customized view of CBS.com showing your city's CBS-TV affiliate Web site. We may also use cookies when we conduct polls, surveys, chat rooms and contests to limit multiple responses and registrations. 
-<br>
-<br>We will never use cookies to retrieve information from your computer that was not originally sent by us to you in a cookie. We do not use information transferred through cookies for any promotional or marketing purposes.
-<br>
-<br>You may occasionally get cookies from our advertisers and our vendors. We do not control these cookies, and these cookies are not subject to our privacy policy. The use of advertising cookies sent by third-party servers is standard in the Internet industry.
-<br>
-<br>Most browsers are initially set to accept cookies. If you'd prefer, you can set yours to refuse cookies or to alert you when cookies are being sent. However, it is possible that some parts of the site, such as the polls, surveys, contest, and game areas, will not function properly if you do so. 
-<br>
-<br><font face="arial,helvetica,sans-serif" size="3" color="#336699"><b>SURVEYS AND REGISTRATION FORMS</b></font> 
-<br>
-<br>Sometimes CBS.com posts surveys and registration forms in which we ask for Personally Identifiable Information. Here are some ways we might use that information: 
-<br>
-<br>To send you information about CBS and this Web site
-<br>To give to our content partners, who may send you promotional material
-<br>To give to our advertisers, who may send you information about their products and services
-<br>
-<br>The choice is yours - you do not have to answer surveys or register for newsletters or service. If you choose to answer the survey or complete the registration, we will tell you on the survey or registration form how we will use the Personally Identifiable Information. If we are asking for optional information, we will mark it with an asterisk (*) so you know you can skip it if you want. And on that same page we will give you a way to "opt out" of being contacted by CBS.com and any third parties. We may share Personally Identifiable Information with CBS-TV affiliates and other sites operated by CBS and its affiliates.
-<br>
-<br><font face="arial,helvetica,sans-serif" size="3" color="#336699"><b>CONTESTS AND SWEEPSTAKES</b></font>
-<br>
-<br>From time to time CBS.com runs contests and sweepstakes in which we ask for Personally 
-<br>Identifiable Information such as your name, email address or telephone number. That's so we can let you know if you win. Sometimes we request additional Personally Identifiable Information such as your age, gender, and income level. And once in a while - though not often - we require this additional information in exchange for allowing you to enter the contest. Here are some of the ways we might use the information that we collect: 
-<br><ul>
-<br><li type="1">To notify you if you are a winner</li>
-<br><li type="1">To send you information about CBS and our site</li>
-<br><li type="1">To give to content partners, who may send you promotional email</li>
-<br><li type="1">To give to advertisers, who may send you emails about their products and services</li></ul>
-<br>We may share Aggregate Information with our partners and advertisers. We will not share your Personally Identifiable Information with third parties unless we tell you otherwise when asking for it. We will give you a way to "opt out" of being contacted by CBS.com and any third parties. We may share Personally Identifiable Information with CBS-TV affiliates and other sites operated by CBS and its affiliates.
-<br>
-<br>If you win one of our contests or sweepstakes, we will not publish your name, hometown, or other Personally Identifiable Information on the Site unless you give us your permission. 
-<br>
-<br><font face="arial,helvetica,sans-serif" size="3" color="#336699"><b>OPT OUT</b></font>
-<br>
-<br>If we ask you for Personally Identifiable Information, we will tell you if we intend to share it with others. We will provide you with a way to tell us that you don't want us to share the information or if you don't want to receive promotional and/or marketing information about products, services, and offerings from CBS.com and/or any third parties. Let us know and we will use your name and address only to tell you if you win a contest. 
-<br>
-<br><font face="arial,helvetica,sans-serif" size="3" color="#336699"><b>SUBPOENAS AND LAW ENFORCEMENT AGENCIES</b></font>
-<br>
-<br>We reserve the right to cooperate with government and law enforcement agencies engaged in investigations of activities that are, or are believed to be, illegal.  Further, we may share your Personally Identifiable Information with such agencies if we believe that a crime or any act that endangers the health and safety of others may have been or may be committed.  We may also share your Personally Identifiable Information in response to an appropriate subpoena. 
-<br>
-<br><font face="arial,helvetica,sans-serif" size="3" color="#336699"><b>COMMUNITY AND PUBLIC AREAS</b></font>
-<br>
-<br>Information posted to message boards or chat areas is available to the general public.  Please use caution when posting any such information.  Users under the age of 18 should be particularly careful not to provide any personally identifying information while using chat rooms or message boards. We reserve the right to, but are not obligated to, refuse or delete any content that in our sole discretion is considered inappropriate. Please see our Terms of Service for additional information.
-<br>
-<br><font face="arial,helvetica,sans-serif" size="3" color="#336699"><b>FEEDBACK AND EMAIL</b></font>
-<br>
-<br>On every page at CBS.com there is a link to a <a href="javascript:openWin();">"feedback"</a> email form so you can comment, complaint, make suggestions, and ask questions.  Your email address is required on this form so we can answer your questions, and we want your name, too, so we can address our answer in a mannerly way.  We may also track your browser type and referring URL to better diagnose technical issues you may be having.  We do not share this information with third parties and we will use it only to answer your correspondence.
-<br>
-<br><font face="arial,helvetica,sans-serif" size="3" color="#336699"><b>CBS-TV AFFILIATES</b></font> 
-<br>CBS.com has a unique relationship with some of our CBS Television affiliates. If you are interested in local information, we will give you the option to choose a local affiliate or enter a zip code. We asked for this information so that your view of the site could be "branded" to your local CBS Television affiliate, or to any other CBS-Television affiliate you choose. You'll see their logo at the top of your screen. 
-<br>
-<br>Some of our affiliates provide their own content, such as local news stories. This content may be mixed with the content we produce. And some affiliates sell ads or run contests that will appear on their branded sites only.
-<br>
-<br>We are not responsible for content or contests posted by our affiliates or for the use of any information that an affiliate may collect.
-<br>
-<br>We use reasonable efforts to require that all content on our site conforms to our privacy policy. But we do not control, and we are not responsible for, the content or privacy policies of our affiliates. 
-<br>
-<br><font face="arial,helvetica,sans-serif" size="3" color="#336699"><b>LINKS TO OTHER SITES</b></font>
-<br>
-<br>When you visit our site, you may be directed to other sites outside our service. For example, if you click on a banner advertisement, you will leave our site. This includes links to sites operated by advertisers, sponsors and partners that may use our logo as part of an agreement with us. These other sites may send their own cookies to users, collect data, or solicit personal information. These other sites are not subject to our privacy policy and we are not responsible for the privacy policies for these other sites, nor for the use of any information that these sites may collect. 
-<br> 
-<br><font face="arial,helvetica,sans-serif" size="3" color="#336699"><b>CBS STORE</b></font>
-<br>
-<br>The CBS Store uses a third-party fulfillment house to accept orders for CBS products purchased online. Names, street addresses, and financial information are required to complete these orders, and may also be used to contact customers about their orders or for billing questions when necessary. However, neither CBS nor the fulfillment house shares this information with third parties. 
-<br>
-<br><font face="arial,helvetica,sans-serif" size="3" color="#336699"><b>DELETING OR MODIFYING YOUR INFORMATION</b></font>
-<br>
-<br>If you've given us Personally Identifiable Information in the past and then have second thoughts or want to update it, here are your choices:
-<br>
-<br>Email to <a href="mailto:privacy@cbs.com">privacy@cbs.com</a>.
-<br>
-<br>Regular mail to:
-<br>
-<br><b>Privacy Coordinator
-<br>CBS.com (555/13)
-<br>524 West 57th Street
-<br>New York, New York 10019</b>
-<br>
-<br>Although it is not always possible to remove or modify information in the databases, we will make reasonable efforts to do so. If you've given us information for one of those third parties we mentioned above and we've already passed it on, we cannot delete or change the information. 
-<br>
-<br><font face="arial,helvetica,sans-serif" size="3" color="#336699"><b>SECURITY OF PRIVATE INFORMATION</b></font>
-<br>
-<br>Any personal information you give us is kept in secure files. Access is limited to the few employees who have a need to know. We would like to tell you that your information is as safe with us as it is in your head, but, as hackers have proved worldwide, no computer security system is entirely foolproof. The most any Web site can do is make reasonable efforts, which is what we do at <a href="/now/section/0,1636,100-392,00.shtml">CBS.com</a>, to protect your information from theft, misuse and alteration.
-<br>
- </font></td></tr><tr><td nowrap="" height="10"> </td></tr><tr><td><font face="arial,helvetica" size="-2"></font></td></tr><tr><td height="10"></td></tr>
+<td class="calendarday"><a href="/content/community/calendar/?year=2007&amp;month=12&amp;date=30" class="calendarlink">30</a></td>
+<td class="calendarday"><a href="/content/community/calendar/?year=2007&amp;month=12&amp;date=31" class="calendarlink">31</a></td>
+<td class="calendarday">&nbsp;</td><td class="calendarday">&nbsp;</td><td class="calendarday">&nbsp;</td><td class="calendarday">&nbsp;</td><td class="calendarday">&nbsp;</td></tr>
 
-
-</tbody></table>
-
- <!-- BEGIN FOOTER OBJECT -->
-
-<br>
-	<table width="370" cellspacing="0" cellpadding="0" border="0">
-		<tbody><tr>
-			<td nowrap="" width="15" bgcolor="#999999" rowspan="2" height="15"><a href="#top"><img width="9" src="http://a1800.g.akamai.net/7/1800/121/918654794/newsimages.cbsig.net/common/images/elements/arrow_top.gif" height="7" hspace="3" border="0"></a></td>
-			<td valign="top" width="355" height="14" nowrap="">
-			<a href="#top" style="TEXT-DECORATION: none"><font color="#000000" face="arial, verdana, helvetica" size="2">&nbsp;back to top</font></a>
-			<br>
-			</td>
-		</tr>
-		<tr>
-			<td bgcolor="#cccccc" height="1">
-				<table width="355" cellspacing="0" cellpadding="0" border="0" height="2">
-					<tbody><tr>
-						<td>
-						</td>
-					</tr>
-				</tbody></table>
-			</td>
-		</tr>
-		<tr>
-			<td colspan="2" bgcolor="#000000" height="1">
-				<table width="370" cellspacing="0" cellpadding="0" border="0" height="1">
-					<tbody><tr>
-						<td>
-						</td>
-					</tr>
-				</tbody></table>
-			</td>
-		</tr>
-		<tr>
-			<td colspan="2" align="middle">
-				<br>
-				<a href="/now/section/0,1636,100-392,00.shtml" target="_top"><img width="83" src="http://a1800.g.akamai.net/7/1800/121/925508327/newsimages.cbsig.net/common/images/elements/footer_logo.gif" alt="CBS.com" height="70" hspace="0" border="0"></a><br>
-				<font face="arial,helvetica" size="1">
-				
-					© 2001, CBS Worldwide Inc. &amp; WCIA-TV, All Rights Reserved.<br><a href="http://www.wcia.com/now/story/0,1597,53936-392,00.shtml">WCIA Privacy Information</a>  </font><br>
-				<font face="arial,helvetica" size="1">
-				<a href="/now/story/0,1597,284172-392,00.shtml" target="_top">Advertise With Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-				<a href="/now/section/0,1636,10345-392,00.shtml" target="_top">Copyright Information</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-					<a href="/now/story/0,1597,53940-392,00.shtml" target="_top">Privacy Statement</a> </font>
-				<br>
-				<br>
-			</td>
-		</tr>
-		 </tbody></table>
-<!-- END FOOTER OBJECT --> </td>
-    <td width="6" nowrap="">&nbsp;</td>
-    <td width="120" valign="top" align="center" bgcolor="#dddddd">
-
- </td>
+    </tbody></table>
+  </td>
 </tr>
 </tbody></table>
+</div>
+</div>
+<div class="moduleFooter"><span class="footerText"><!-- --></span></div>
+</li>
+<li id="web_openad_banner_4" class="siteModule web_openad_banner">
+<div class="moduleTitle"><span class="titleText" title="Drag Me">Large Banner&nbsp;</span></div>
+<div class="moduleContent"><!-- Openads script Zone ID: 140 //--><script type="text/javascript" src="http://ads.nexstardigital.com/www/delivery/ajs.php?zoneid=140&amp;cb=252927018"></script></div><div class="moduleFooter"><span class="footerText"><!-- --></span></div>
+</li>
+<li class="siteModule emptyModule"><!-- --></li>
+	</ul>
 
-</td>
+    </div>
+    <div id="leftBotModules">
+      <ul id="LEFTBOT_modules" class="modulePositions">
+<li class="siteModule emptyModule"><!-- --></li>
+	</ul>
+
+    </div>
+  </div>
+
+  <div id="rightSide">
+
+    <div id="rightMessage">
+      <img src="/images/icon-personalize.gif" border="0" width="15" height="15"> <a href="/content/register/">Personalize IllinoisHomepage.net</a>
+      <img src="/images/icon-home.gif" border="0" width="15" height="15"> <a href="#" onclick="setHomePage(this);return false;">Make this your home page</a> 
+      <a href="/" style="margin-left:290px">Home</a> |
+      <a href="/content/about/help">Help</a> |
+      <a href="/content/login/">Log In</a>
+
+    </div>
+      
+    <div id="rightNavigation">
+      <div id="menuLeft">
+        <ul id="NAV1_modules" class="modulePositions">
+<li id="web_menu_list_9" class="siteModule web_menu_list firstModule">
+<div class="moduleTitle"><span class="titleText" title="">Today&nbsp;</span></div>
+<div class="moduleContent">
+
+<ul id="menuDisplayModule_16"><li><a href="/content/news/">News</a></li><li><a href="/content/mynews">myNews at Nine</a></li><li><a href="/content/weather/">Weather</a></li><li><a href="/content/sports/">Sports</a></li><li><a href="http://illinoishomepage.net/content/schoolclosings/">School Closings and Delays</a></li><li><a href="/content/asseenon3">As Seen On WCIA 3</a></li><li><a href="/content/morningshow">The Morning Show</a></li></ul>
+</div><div class="moduleFooter"><span class="footerText"><!-- --></span></div>
+</li>
+<li class="siteModule emptyModule"><!-- --></li>
+	</ul>
+
+      </div>
+      <div id="menuCenter">
+        <ul id="NAV2_modules" class="modulePositions">
+<li id="web_menu_list_11" class="siteModule web_menu_list firstModule">
+<div class="moduleTitle"><span class="titleText" title="">Community&nbsp;</span></div>
+<div class="moduleContent">
+
+<ul id="menuDisplayModule_17"><li><a href="http://www.illinoishomepage.net/phpBB2/index.php">Community Forum</a></li><li><a href="http://www.illinoishomepage.net/content/intheknow">In The Know</a></li><li><a href="http://illinoishomepage.net/content/holidayshopper">**Holiday Shopper**</a></li><li><a href="http://www.illinoishomepage.net/content/viewersclub">Viewers Club</a></li><li><a href="http://www.illinoishomepage.net/content/myClub">myClub</a></li><li><a href="http://www.illinoishomepage.net/content/mrfood"><b>Mr Food</b></a></li><li><a href="http://illinoishomepage.net/content/whatsontv">Whats on TV?</a></li></ul>
+</div><div class="moduleFooter"><span class="footerText"><!-- --></span></div>
+</li>
+<li class="siteModule emptyModule"><!-- --></li>
+	</ul>
+
+      </div>
+      <div id="menuCenterRight">
+        <ul id="NAV3_modules" class="modulePositions">
+<li id="web_menu_list_13" class="siteModule web_menu_list firstModule">
+<div class="moduleTitle"><span class="titleText" title="">Community (extended)&nbsp;</span></div>
+<div class="moduleContent">
+
+<ul id="menuDisplayModule_18"><li><a href="http://www.illinoishomepage.net/content/community/event_calendar">Hometown Calendar</a></li><li><a href="http://illinoishomepage.net/content/green">Go GREEN</a></li><li><a href="http://illinoishomepage.net/content/rosebowl">Rise to the Rose Bowl</a></li><li><a href="http://www.illinoishomepage.net/content/contests">Contests</a></li><li><a href="http://illinoishomepage.net/content/photos">Photos</a></li><li><a href="http://www.illinoishomepage.net/content/illinoislaw/">Illinois Law</a></li><li><a href="http://www.illinoishomepage.net/content/caringcompanies">Caring Companies</a></li></ul>
+</div><div class="moduleFooter"><span class="footerText"><!-- --></span></div>
+</li>
+<li class="siteModule emptyModule"><!-- --></li>
+	</ul>
+
+      </div>
+      <div id="menuRight">
+        <ul id="NAV4_modules" class="modulePositions">
+<li id="web_menu_list_15" class="siteModule web_menu_list firstModule">
+<div class="moduleTitle"><span class="titleText" title="">Marketplace&nbsp;</span></div>
+<div class="moduleContent">
+
+<ul id="menuDisplayModule_19"><li><a href="http://illinoishomepage.net/content/automobiles">**Automotive Marketplace**</a></li><li><a href="http://wcia.frugal-fridays.com/" onclick="window.open(this.href);return false">Frugal Fridays</a></li><li><a href="http://www.tempting-tuesdays.com/" onclick="window.open(this.href);return false">Tempting Tuesdays</a></li><li><a href="http://www.illinoishomepage.net/content/marketplace/classifieds">Classifieds</a></li><li><a href="http://illinoishomepage.net/content/ihpjobs">Jobs</a></li><li><a href="http://www.illinoishomepage.net/content/marketplace/realestate">Real Estate</a></li><li><a href="http://www.illinoishomepage.net/content/businessshowcase">Business Showcase</a></li></ul>
+</div><div class="moduleFooter"><span class="footerText"><!-- --></span></div>
+</li>
+<li class="siteModule emptyModule"><!-- --></li>
+	</ul>
+
+      </div>
+    </div>
+
+
+
+      <div id="searchBar">
+          
+          <div id="site_search"> 
+         <form method="get" id="search_form" action="/content/search/" name="site_search_form">
+                 <input type="hidden" name="mod" value="search_results">
+            <fieldset>
+               <strong>Search: This Site | <a href="#" onclick="toggleFormOnCLick('business'); return(false);">Local Businesses</a></strong>
+			   <br><img src="/images/clearpixel.gif" width="1" height="6"><br>
+               <input class="deco1" type="text" size="45" name="q" id="q">
+                 &nbsp; <input type="image" name="cmd" id="cmd" src="/business_directory2/map_images/search-go.gif">     &nbsp;        <a href="#" onclick="toggleFormOnCLick('advanced'); return(false);"><strong>Advanced</strong></a>
+            </fieldset>
+                        
+     
+    
+        
+                        
+        </form>
+          </div>
+          <div id="biz_search" style="display: none;">
+          
+          <form method="get" id="biz_search_form" action="/content/search/" name="biz_search_form">
+        
+<strong>Search: <a href="#" onclick="toggleFormOnCLick('site'); return(false);">This Site</a> | Local Businesses</strong> 
+<br><img src="/images/clearpixel.gif" width="1" height="6"><br>    
+<input type="hidden" name="search" value="y">
+<input type="hidden" name="mod" value="biz_search_results2">
+<table cellpadding="0" cellspacing="0" border="0">
+<tbody><tr>    
+  <td>Keyword(s): </td>
+  <td><input class="deco1" type="text" name="keywords" size="15" maxlength="40" value="" id="q"></td>
+  <td> &nbsp; </td>
+  <td>Business Name: </td>
+  <td><input class="deco1" type="text" name="company" size="15" maxlength="40" value="" id="q"></td>
+  <td> &nbsp; </td>
+  <td>Zip: </td>
+  <td><input class="deco1" type="text" name="zip" size="5" maxlength="5" value="62704" id="q"></td>
+  <td> &nbsp; </td>
+  <td> within: </td>
+  <td><select name="search_radius" id="q"><option value="5">5 miles</option><option value="10">10 miles</option><option value="25">25 miles</option><option value="50">50 miles</option><option value="100" selected="">100 miles</option></select></td>
+  <td> &nbsp; <input type="image" name="cmd" id="cmd" src="/business_directory2/map_images/search-go.gif"> &nbsp;
+  </td>
 </tr>
+
+
+
+         
 </tbody></table>
-	
+</form>
+          
+      </div>
+          <div id="advanced_search" style="display: none;">
+          
+         <form method="get" id="advanced_search_form" action="/content/search/" name="advanced_search_form">
+                 <input type="hidden" name="mod" value="search_results">
+                 <input type="hidden" name="form" value="extended">
+            <fieldset>                                                                                                                                                                            
+			<strong>Search: <a href="#" onclick="toggleFormOnCLick('simple'); return(false);">Simple</a> | <a href="#" onclick="toggleFormOnCLick('adv_to_biz'); return(false);">Local Businesses</a></strong>
+			<br><img src="/images/clearpixel.gif" width="1" height="6"><br>
+
+<table cellpadding="0" cellspacing="0" border="0">
+<tbody><tr>
+    <td nowrap="">Search for:</td>
+        <td><input type="text" size="20" name="q" id="q"></td>
+    <td nowrap="">  Match:</td>
+    <td>
+    <select name="m">
+    <option value="all">All
+    </option><option value="any">Any
+    </option><option value="bool">Boolean
+        </option></select>
+    </td>
+    <td nowrap="">  Output:</td>
+    <td>
+      <select name="fmt">
+        <option value="long">Long
+        </option><option value="short">Short
+        </option><option value="url">URL
+      </option></select>
+    </td>
+                          
+    <td nowrap="">  Search for:</td>
+    <td>
+      <select name="wm">
+        <option value="wrd">Whole word
+        </option><option value="beg">Beginning
+        </option><option value="end">Ending
+        </option><option value="sub">Substring
+      </option></select>
+    </td>                         
+    <td> &nbsp; <input type="image" name="cmd" id="cmd" src="/business_directory2/map_images/search-go.gif"> &nbsp; </td>
+</tr></tbody></table>     
+ </fieldset>
+        
+        </form>
+</div>
+      </div>
 
 
+    <div id="rightTopBanner">
+      <ul id="TOPBANNER_modules" class="modulePositions">
+<li id="web_openad_banner_15" class="siteModule web_openad_banner firstModule">
+<div class="moduleTitle"><span class="titleText" title="Drag Me">Standard Banner&nbsp;</span></div>
+<div class="moduleContent"><!-- Openads script Zone ID: 138 //--><script type="text/javascript" src="http://ads.nexstardigital.com/www/delivery/ajs.php?zoneid=138&amp;cb=368195431"></script></div><div class="moduleFooter"><span class="footerText"><!-- --></span></div>
+</li>
+<li class="siteModule emptyModule"><!-- --></li>
+	</ul>
+
+    </div>
+
+    <div id="rightContentModules">
+      <div id="rightCenterContentModules">
+        <ul id="PAGECENTERCONTENT_modules" class="modulePositions">
+<li id="web_content_display_17" class="siteModule web_content_display firstModule">
+<div class="moduleTitle"><span class="titleText" title="Drag Me">Privacy Policy&nbsp;</span></div>
+<div class="moduleContent"><strong>1. Policy</strong><br>This Privacy Policy is a part of the Site’s Terms and Conditions which is binding on all Site users including users of websites operated by a television station in the Nexstar family. The policy of Nexstar Broadcasting Group, Inc. (“Nexstar”)is to respect and protect the privacy of our users. Nexstar includes as part of its mission, the constant effort to build users’ trust and confidence in the Internet by promoting fair information practices. To fulfill this mission, Nexstar agrees to exercise reasonable precautions to maintain the confidentiality of information provided by you in connection with accessing and using the Sites. Because we gather certain types of personally identifiable information (“Personal Information”) from users of our websites, we feel you should know how we collect, use, disclose, manage, and store the Personal Information that you may voluntarily provide us and the Personal Information that is collected passively through the use of cookies or image tags on our websites. Nexstar agrees to post prominently and in plain language its specific privacy policies. This Privacy Policy sets forth Nexstar’s current policies and practices with respect to nonpublic personal information of the users of the Sites. Your continued participation on these Sites indicates your acceptance of this Privacy Policy and of the collection, use, disclosure, management and storage of your Personal Information as described below. <br><br><strong>2. Collection and Use of Information</strong><br>Generally, you may browse a Site without providing any Personal Information. We do not collect personal information about individuals except when specifically and knowingly provided by such individuals. The Sites provide certain activities where we gather Personal Information from users of the Sites, such as an activity that requires that a user complete a registration process and receive/select a “user name” and password. Registration to participate in these Site activities may require the submission of your email address, zip code, date of birth and other Personal Information. Other Personal Information that may be submitted include your full name, postal address, gender, industry you work in, occupation/role, household income, and preferred news source, to name a few. You will also have the ability to opt-in to additional subscription services, such as email news alerts, and promotional and marketing information to be received directly from our Advertisers. <br><br>Unless otherwise provided in a separate registration page, we do not request contact information for a mobile phone, text messaging or any wireless device that includes a domain name address (such as “wireless.bellsouth.com”) as part of the contact information. Federal law prohibits the sending of commercial email messages directly to a wireless device that uses a domain name, unless you have first given your affirmative consent. We may inadvertently collect a wireless device number that includes a domain name when you send us an inquiry or register for a contest or membership club. However, we will not knowingly use that contact information for sending commercial email. We reserve the right to respond to user inquiries or requests sent via a wireless device that uses a domain name as such messages are not deemed to be commercial email and therefore, are not regulated by Federal law. <br><br>We use your Personal Information to provide you with the features, services, or goods you request and to respond to billing and/or other such questions related to Nexstar or Sites. We will also use your Personal Information to notify you about updates, new features, programming and activities on behalf of Nexstar, the Sites, or our Advertisers that may be of interest to you. <br><br>We may also use your information for hiring, operational and business purposes, or to find out how we can improve our company and Sites via surveys or online tracking mechanisms. We use aggregate Personal Information collected directly during the registration process and via cookies to help us evaluate and modify existing services and features, as well as provide demographic and geographic information to Advertisers. (For more information on “cookies” and our policy on the use of cookies see below). We also use your Personal Information to develop new services and features that may be of interest to you. <strong>3. Disclosure of Information</strong><br>We will not sell, exchange, rent, lease or otherwise disclose your Personal Information or sensitive personal information to any third party without your consent. However, Nexstar may disclose personal information in special cases: (1) when we have reason to believe that disclosing this information is necessary to identify, contact, or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) the rights of Nexstar or to anyone that could be harmed by such activities; (2) when we believe in good faith that the law requires it; (3) to any affiliate or to any third party who may acquire Nexstar; and (4) in situations involving threats to the physical safety of any person. <br><br><strong>4. How You Can Review or Correct Your Personal Information</strong><br>You may contact Nexstar at PrivacyAdministrator@nexstar.tv to ask if we are keeping personal information about you. If we do have personal information about you, we will provide you with a readable copy of such personal information at no charge. Factual errors in your personal information, including out-of-date information, can be corrected by sending us a request that credibly shows our error. <br><br><strong>5. Information-Sharing Disclosure Request</strong><br>You may request a Notice of Information-Sharing Disclosure which will identify the third parties with whom Nexstar has shared the information we have collected from you. You may request the Notice of Information-Sharing Disclosure by writing us at Privacy Administrator, Nexstar Broadcasting Group, 909 Lake Carolyn Parkway, Suite 1450, Irving, TX 75039. You may also send us your Notice of Information-Sharing Disclosure request via e-mail at PrivacyAdministrator@nexstar.tv or by telephone at (972) 373-8800. We will respond to your request for a Notice of Information-Sharing Disclosure within thirty (30) days of receipt. <br><br><strong>6. Opt-Out Procedures</strong><br>You may always opt-out of receiving communications from us. To remove any personal information from our database or to not receive future e-mail communications from Nexstar, send an e-mail to PrivacyAdministrator@nexstar.tv with the word “remove” in the subject line. Further, if you do not want your personal information shared with third parties in the manner discussed in Section 3, “Disclosure of Information,” please notify Nexstar by telephone at (972) 373-8800, by e-mail to <a href="mailto:PrivacyAdministrator@nexstar.tv">PrivacyAdministrator@nexstar.tv</a> or at the following address:<br>Privacy Administrator<br>Nexstar Broadcasting Group.<br>909 Lake Carolyn Parkway, Suite 1450<br>Irving, TX 75039 <br><br><strong>7. Security of Information</strong><br>You can be assured that personal information collected through the Sites is secure and is maintained in a manner consistent with current industry standards. The importance of security for all personal information associated with our subscribers is of utmost concern to us. Your personal information is protected in several ways. Your personal information resides on a secure server that only selected Nexstar employees and contractors have access to via password. We encrypt your personal information and thereby prevent unauthorized parties from viewing such information when it is transmitted to us. <br><br>In order to most efficiently serve you, credit card transactions and order fulfillment are handled by established third-party banking, processing agents and distribution institutions. They receive the information needed to verify and authorize your credit card or other payment information and to process and ship your order. Financial transactions related to your purchases from Nexstar are handled by VeriSign Inc. (http://www.verisign.com/) and LaSalle Bank (<a href="http://www.lasallebank.com/prospect.html">http://www.lasallebank.com/prospect.html</a>). Information relating to your financial transactions will not be maintained on Nexstar servers. Please visit the websites of VeriSign Inc. (http://www.verisign.com/) and LaSalle Bank (http://www.lasallebank.com/prospect.html) to familiarize yourself with its terms and conditions and with its privacy policies. <br><br>Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, you acknowledge that: (a) there are security and privacy limitations of the Internet which are beyond our control; (b) the security, integrity, and privacy of any and all information and data exchanged between you and us through a Site cannot be guaranteed; and (c) any such information and data may be viewed or tampered with in transit by a third party. <br><br><strong>8. Cookies</strong><br>You should be aware that non-personal information and data may be automatically collected on the Sites through the use of “cookies.” “Cookies” are small text files (no larger than 4k) stored as text on a computer hard drive. Websites can use “cookies” to recognize repeat visitors, facilitate the visitor’s ongoing access to and use of the site, and allow a site to track usage behavior and compile aggregate data that will allow content improvements. “Cookies” are not programs that come onto a visitor’s system and damage files. The use of “cookies” is common in the Internet industry, and many major websites use them to provide useful features to their customers. Generally “cookies” work by assigning a unique number to the visitor that has no meaning outside the assigning site. If a visitor does not want information collected through the use of “cookies”, there is a simple procedure in most browsers that allows the visitor to deny or accept the cookie feature. Nexstar uses “cookie” technology but only to obtain non-personal information from online visitors in order to improve their online experience and facilitate their visit within the Sites. <br><br><strong>9. Links to Third Party Websites</strong><br>The Sites may contain links to the websites of third parties not affiliated with Nexstar, including without limitation, VeriSign Inc. and LaSalle Bank, an affiliate of ABN&nbsp;AMRO Bank, N.V. You understand, acknowledge and agree that these links are provided solely as a convenience to you and not as an endorsement by the Sites or Nexstar of the content, advertising or business practices. Nexstar is <u>NOT</u> responsible for the privacy practices or the content on any of these other websites, including any sites that may indicate a special relationship or “partnership” with Nexstar. Nexstar does not disclose unique identifiers to those responsible for the linked sites. The linked sites, however, may collect personal information from you when you link to their site. This collecting of information is not subject to the control of Nexstar. To ensure protection of your privacy, always review the privacy policies of the sites you visit by linking from the Sites. <br><br><strong>10. Our Commitment to Children’s Privacy</strong><br>Protecting the privacy of the very young is especially important. We never collect or maintain information at the Sites from persons we know to be under age 13, and no part of our Sites is designed to attract anyone under age 13. Please do not communicate with or contact us if you are under age 13. By your participation in our Site activities, you certify that you are at least 13 years of age and meet any other eligibility requirements of the Sites. <br><br><strong>11. Changes to this Privacy Policy</strong><br>Nexstar may revise this Privacy Policy over time as new features are added to the Sites or as Internet law and standards evolve. We will post those changes prominently but we do recommend that you read this Privacy Policy each time you visit the Sites. Changes will not apply retroactively to personal information that was collected before the changes to the Privacy Policy, except as may be required by law. <br><br>Effective Date: October 10, 2006 <div style="font-size:8px;clear:both;"><!-- --></div><br>
+</div>
+<div class="moduleFooter"><span class="footerText"><!-- --></span></div>
+</li>
+<li class="siteModule emptyModule"><!-- --></li>
+	</ul>
+
+      </div>
+      <div id="rightLeftContentModules">
+        <ul id="PAGELEFTCONTENT_modules" class="modulePositions">
+<li class="siteModule emptyModule"><!-- --></li>
+	</ul>
+
+      </div>
+      <div id="rightRightContentModules">
+        <ul id="PAGERIGHTCONTENT_modules" class="modulePositions">
+<li class="siteModule emptyModule"><!-- --></li>
+	</ul>
+
+      </div>
+      <img src="/images/clearpixel.gif" width="530" height="1">
+      <div id="bottomBannerModules">
+        <ul id="BOTTOMBANNER300X250_modules" class="modulePositions">
+<li class="siteModule emptyModule"><!-- --></li>
+	</ul>
+
+      </div>
+      <div id="bottomContentModules">
+        <ul id="PAGEBOTTOMCONTENT_modules" class="modulePositions">
+<li class="siteModule emptyModule"><!-- --></li>
+	</ul>
+
+      </div>
+    </div>
+    <div id="rightBannerModules">
+      <div id="rightFirstBannerModules">
+        <ul id="RIGHTBANNER180X150_modules" class="modulePositions">
+<li class="siteModule emptyModule"><!-- --></li>
+	</ul>
+
+      </div>
+      <div id="rightSecondBannerModules">
+        <ul id="RIGHTBANNER160X600_modules" class="modulePositions">
+<li class="siteModule emptyModule"><!-- --></li>
+	</ul>
+
+      </div>
+    </div>
+  </div>
+
+  <div id="pageFooter">
+    <ul id="BOTTOMNAVIGATION_modules" class="modulePositions">
+<li id="web_menu_list_28" class="siteModule web_menu_list firstModule">
+<div class="moduleTitle"><span class="titleText" title="">Footer&nbsp;</span></div>
+<div class="moduleContent">
+
+<ul id="menuDisplayModule_25"><li><a href="http://www.illinoishomepage.net/content/about/contactus/">Contact Us</a></li><li><a href="http://www.illinoishomepage.net/content/about/eeo/">EEO Report</a></li><li><a href="http://www.illinoishomepage.net/content/about/termsofuse/">Terms of Use</a></li><li><a href="http://www.illinoishomepage.net/content/about/privacypolicy/">Privacy Policy</a></li><li><a href="http://illinoishomepage.net/content/about/contactus/">About Us</a></li></ul>
+</div><div class="moduleFooter"><span class="footerText"><!-- --></span></div>
+</li>
+<li class="siteModule emptyModule"><!-- --></li>
+	</ul>
+
+  </div>
+</div>
+<br>
+
+<div style="width:100%;text-align:center;font:bold 11px Arial">Copyright (c) 1998- 2007 Nexstar Broadcasting, Inc. All rights reserved.</div>           
+<script src="/js_biz_search/gen_google_map.js" type="text/javascript"></script>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+_uacct = "UA-1353293-1";
+urchinTracker();
+</script>
+
+<script type="text/javascript">
+// <![CDATA[
+window.onerror=function(){return true;}
+
+if (window.Sortable) {
+  var sections=['LEFTTOP_modules','LEFTBOT_modules','PAGECENTERCONTENT_modules','PAGELEFTCONTENT_modules','PAGERIGHTCONTENT_modules', 'PAGEBOTTOMCONTENT_modules'];
+  var smallcontainers=['LEFTTOP_modules','LEFTBOT_modules','PAGECENTERCONTENT_modules','PAGELEFTCONTENT_modules','PAGERIGHTCONTENT_modules', 'PAGEBOTTOMCONTENT_modules'];
+
+  Sortable.create("LEFTTOP_modules", {dropOnEmpty:true,handle:'moduleTitle',ghosting:false,containment:smallcontainers,constraint:false});
+  Sortable.create("LEFTBOT_modules", {dropOnEmpty:true,handle:'moduleTitle',ghosting:false,containment:smallcontainers,constraint:false});
+  Sortable.create("PAGECENTERCONTENT_modules", {dropOnEmpty:true,handle:'moduleTitle',ghosting:false,containment:smallcontainers,constraint:false});
+  Sortable.create("PAGELEFTCONTENT_modules", {dropOnEmpty:true,handle:'moduleTitle',ghosting:false,containment:smallcontainers,constraint:false});
+  Sortable.create("PAGERIGHTCONTENT_modules", {dropOnEmpty:true,handle:'moduleTitle',ghosting:false,containment:smallcontainers,constraint:false});
+  Sortable.create("PAGEBOTTOMCONTENT_modules", {dropOnEmpty:true,handle:'moduleTitle',ghosting:false,containment:smallcontainers,constraint:false});
+}
+// ]]>
+</script>
 
 
-<script language="javascript">
-var affiliate1 = 'WCIA';
-document.write(getEnhancedLayer(468,60,2,'split'));
- 
-</script><layer src="http://ad.doubleclick.net/adi/network.now.com/wcia;tile=2;sec=10340;sz=468x60;ord=1580354062096?" width="468" height="60" visibility="hidden" onload="moveToAbsolute((topbanner.pageX), (topbanner.pageY)); clip.width=468; clip.height=60; visibility='show';"></layer>
 
 </body></html>
