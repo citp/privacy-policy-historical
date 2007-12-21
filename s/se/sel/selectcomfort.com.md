@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the selectcomfort.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627064542id_/http%3A//www.selectcomfort.com/customercenter/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the selectcomfort.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221040737id_/http%3A//www.selectcomfort.com/customercenter/privacy.cfm) for the most accurate reproduction.*
 
 # Select Comfort -->Privacy & Security
 
@@ -120,7 +120,7 @@ To opt-out or discontinue receiving marketing communications by mail, e-mail or 
   4. Send a request to:   
 Select Comfort Corporation  
 Attn: DM Sales Support  
-6105 Trenton Lane North  
+9800 59th Avenue North  
 Minneapolis, MN 55442
 
 Be sure to include your current contact information, including your full name, address, phone number and e-mail address. Indicate specifically what type of marketing communication(s) you wish to stop receiving. This will ensure we identify you correctly in our systems and accurately process your request. 
@@ -172,12 +172,12 @@ Select Comfort partners with one or more companies that facilitate relationships
 You may choose to set your Web browser to not accept cookies. If your cookies are disabled, you can still view our site, but you will not be able to create an account or make purchases. 
 
 **CONTACT SELECT COMFORT**  
-If you feel more comfortable ordering over the phone or would like to modify your order or request a change to your contact information, you may call us anytime at 1-800-548-7231. 
+If you feel more comfortable ordering over the phone or would like to modify your order or request a change to your contact information, you may call us anytime at 1-888-411-2188. 
 
 If you have questions regarding the Select Comfort Privacy Policy please [e-mail](https://web.archive.org/customerCenter/contactus/contactusForm.cfm?department=webSiteComments) or contact us at: 
 
 Select Comfort Corporation  
-6105 Trenton Lane N  
+9800 59th Avenue North  
 Minneapolis, MN 55442 
 
 Our site does contain links to other sites. Select Comfort is not responsible for the privacy practices or the content of such Web sites. 
