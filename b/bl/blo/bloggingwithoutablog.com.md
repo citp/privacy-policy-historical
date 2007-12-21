@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bloggingwithoutablog.com privacy policy that was archived on 2007-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070510165051id_/http%3A//bloggingwithoutablog.com/%3Fpage_id%3D4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloggingwithoutablog.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221175631id_/http%3A//bloggingwithoutablog.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy : Blogging Without A Blog
 
 **BLOGGINGWITHOUTABLOG.COM
 
@@ -66,7 +66,7 @@ We will let our Visitors and Authorized Customers know about changes to our priv
 This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours.
 
   
-© 2007 **Bloggingwithoutablog.com** , All rights reserved.  
+Â© 2007 **Bloggingwithoutablog.com** , All rights reserved.  
 Unauthorized duplication or publication of any materials  
 from this Site is expressly prohibited.
 
