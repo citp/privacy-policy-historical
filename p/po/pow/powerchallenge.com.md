@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the powerchallenge.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626142630id_/http%3A//www.powerchallenge.com/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerchallenge.com privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222004710id_/http%3A//www.powerchallenge.com/PrivacyPolicy.html) for the most accurate reproduction.*
 
-# Untitled Document
+# Privacy Policy
 
 Power Challenge Sweden AB
 
@@ -13,7 +13,7 @@ Power Challenge Sweden AB. ("PCS") respects your privacy and is committed to pro
 
 The web sites and services covered by this Policy 
 
-All content on the powerchallenge.com domain, Powerfootball.se domain and related domains (The game Power Football and Football  League).
+All content on the powerchallenge.com domain, Powerfootball.se domain and related domains (The game Power Soccer and Football  League).
 
 Our policies concerning children 
 
