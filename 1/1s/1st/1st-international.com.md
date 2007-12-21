@@ -1,59 +1,65 @@
-> *The following text is extracted and transformed from the 1st-international.com privacy policy that was archived on 2007-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070507075643id_/http%3A//www.1st-international.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1st-international.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221015341id_/http%3A//www.1st-international.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy statement
 
-**1st International Marriage Network has created this privacy statement in order to demonstrate our firm commitment to privacy. The following is a disclosure of our information gathering and dissemination practices.**
+**The following privacy statement demonstrates the commitment to privacy  of 1st International Marriage Network. Below we explain the process of our gathering and disclosure of information. **
 
-## Information Collection and Use 
+## The way we get and use information 
 
-When you browse our site we do not reqire any personal information from you except we use your IP address to help diagnose problems with our server, to administer our web site and collect regional demographic information. Our site also utilizes cookies to keep track of your order and to personalize your experience on 1st International Marriage Network website. We use cookies to deliver content specific to your interests and to track your order history. 
+When you visit our site, we need only your IP address. No other personal information is required. We need to know your IP address to help diagnose problems with our server, to administer our web site and collect regional demographic information. Cookies are also utulized, they help keep track of your order and personalize your experience on 1st International Marriage Network website. With the help of cookies we track all the history of our orders and deliver content according to your interests. 
 
-When you submit your profile on our site, participage in a forum, or process an order you consent to the collection, transfer and storage of the following information to our servers located in the United States and Germany:
+When we take in your profile, process your order and when you take part in forum discussions, we require the following information about you (the information is collected, transferred and stored in our servers located in the USA and Germany):
 
-  * email address, physical contact information, and (depending on the service used) sometimes financial information, such as credit card or bank account numbers;
-  * your personal information that you choose to disclose on your profile;
-  * transactional information based on your activities on the Site (such as list of members you contact);
-  * billing and other information you provide to receive information and messages from us;
-  * community discussions, chats, correspondence through the Site, and correspondence sent to us;
-  * computer sign-on data, statistics on page views, traffic to and from the Site, and ad data: other information, including IP address and standard web log information;
+  * email address, physical contact information, at times financial information (credit card or bank account number. Whether we need this information or not depends on the service you are going to use); 
+  * your personal information that you wish to display on your profile; 
+  * transactional information (depends on your activities on the Site (for example, members of our service you choose to contact)); 
+  * the information you disclose (billing, etc.) to be able to receive information and messages from us; 
+  * your communication through our service (correspondence sent to other members and to us, forum discussions, chats); 
+  * computer sign-on data, statistics on page views, traffic to and from the Site, and ad data: other information, including IP address and standard web log information; 
 
 
 
 ## Order
 
-We DO NOT sell or rent any personally identifiable information about you to any third party without your permission. We request information from the user on our order form. Here a user should provide contact information (like name and e-mail) and financial information (like credit card number, expiration date etc.). This information is collected by our bank, which provides highly secure payment processing for 1st International Marriage Network. Credit card information is encrypted using the SSL (Secure Sockets Layer) protocol implemented by Netscape and Internet Explorer. 
+We can send personally identifiable information about you to a third party ONLY WITH YOUR PERMISSION. On our order form you need to provide certain information about yourself, such as your contacts (name, email and/or phone number), financial information (credit card number, expiration date etc.). Our bank then collects your information and provides highly secure payment processing for 1st International Marriage Network. We encrypt your credit card information using the SSL (Secure Sockets Layer) protocol implemented by Netscape and Internet Explorer. 
 
 ## Security 
 
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. We have a secure ordering process provided by Eplastic. 
+We provide security to the information against its being lost, misused and altered. We have a secure ordering process provided by Eplastic. 
 
-When our registration/order form asks users to enter sensitive information (such as credit card number), that information is encrypted and is protected with the best encryption software available in the industry - SSL. While on a secure page, such as our order and order confirmation forms, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just 'surfing' (in non-secure mode). 
+The best encryption software - SSL - protects and encrypt the sensitive information you may be asked to type in, for example, the credit card number. The Netscape Navigator and Microsoft Internet Explorer have a special icon (the lock icon) on the bottom of pages containing orders and order confirmation forms. When you are on these secure pages pages, the lock is locked. When you are browsing the Site on non-secure mode, it is unlocked. 
 
 ## Newsletter 
 
-If you wish to subscribe to our newsletter, we ask for contact information such as email address. We will send you our newsletters on a regular basis to the email adddress you provide. You can unsubscribe at any time. We will never give out your e-mail address to any other parties under any circumstances. E-mail address will be kept strictly confidential and not given or sold to anyone. 
+If you would like to receive our regular newsletter, you should provide your email address to us. The newsletter will be sent to this email. If you would not like to receive the newsletter any longer, you are free to unsubscribe at any time you wish. Your email address will not be given or sold to any third party. We guarantee that. 
 
 ## Third Parties
 
-Except as otherwise expressly included in this Privacy Policy, this document addresses only the use and disclosure of information we collect from you. If you disclose your information to others, whether they are our members or forum participants or other sites throughout the Internet, different rules may apply to their use or disclosure of the information you disclose to them.
+Remember, we guarantee the security of the information we ask you to provide. However, if you yourself disclose your information to members of the Site, to forum participants or to other sites, we do not guarantee the security of their using your information. Third parties may have their own rules concerning the process of gathering, storing and disclosing of your information. 
 
 ## Correspondence
 
-Our Site enables you to exchange messages and share personal information in order to communicate with other members. We cannot guarantee the privacy or security of your information which you voluntarily disclose to other members. To help protect your privacy, we do not allow other users to access your personal contact information. To prevent unsolicited messages, illegal schemes such as soliciting money we reserver the right to monitor the correspondence that is going through our servers, and prevent certain messages from reaching their recipients. We also reserve the right to monitor and review your personal profile and suspend or remove profiles which violate our policies.  Profiles submitted in a language other than English may be translated into English by us.
+Through our Site you can share your information and messages with any other member. If you share some information voluntarily, we cannot guarantee its security and privacy. However, we do not allow third parties see your personal contact information. This is done to help protect your privacy. We keep the right to monitor your correspondence in order to protect you from getting unsolicited messages. We can monitor profiles as well and remove those ones which fail to follow our rules. It is desirable to submit profiles in English. If a profile is filled out in a different language, we can translate it in English. 
 
 ## General
 
-We may amend this Privacy Policy at any time by posting the amended terms on the Site. All amended terms automatically take effect 30 days after they are initially posted on the Site.
+The statements of the present privacy document may be changed at any time. All the changes are displayed in the amended terms that we post on the Site 30 days prior to their taking effect. 
 
 ## Contact
 
-If you have any questions about this privacy statement and the practices of its usage, please contact:
+Please contact us if you have any questions regarding the present privacy statement. 
 
 **1st International Marriage Network  
 PO Box 8101  
 Romeoville, IL 60446  
 USA **
 
-**Toll free phone: 1-866-Y-SINGLE (1-866-974-6453)  
-Outside US call: (407) 792-4615  
-Outside US fax: (360) 525-0025**
+**
+
+**Toll free phone: 1-866-Y-SINGLE (1-866-974-6453)**
+
+**Outside US phone: +1 (312) 252-0005 or +44 0207 071 5699**
+
+**Outside US fax: (360) 525-0025** ****
+
+**
