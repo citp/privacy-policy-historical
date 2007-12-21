@@ -1,44 +1,70 @@
-> *The following text is extracted and transformed from the heritagewebdesign.com privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613040333id_/http%3A//www.heritagewebdesign.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heritagewebdesign.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221224653id_/http%3A//www.heritagewebdesign.com/privacy.html) for the most accurate reproduction.*
 
 # Website Design - Heritage Web Solutions Privacy
 
 [ Terms Of Service](http://www.heritagewebdesign.com/tos.html)
 
-** Our Commitment To Privacy**
+** Our Commitment To Privacy:**  
+Your privacy is important to Heritage Web Solutions (HWS). To better protect our your privacy we provide this notice explaining how HWS treats personal information that HWS collects and receives. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
+** The Information We Collect:**  
+This notice applies to personal information collected or submitted on Heritage Web Solutions websites that is not otherwise publicly available. In general you can view or visit Heritage Web Solutions pages without telling us who you are or revealing any personal information about yourself.
 
-**The Information We Collect:**
+On some of our web pages Clients can order products and make requests. The types of personal information collected from these pages include, but is not be limited to:
 
-This notice applies to all information collected or submitted on the Heritage Web Solutions website. On some pages, you can order products and make requests. The types of personal information collected at these pages are: 
+Name  
+Address  
+Email Address   
+Phone Number  
+IP Address
 
-Name   
-Address   
-Email address   
-Phone number   
-(etc.) 
+Upon purchasing HWS products or services we may collect additional personal information including, but not limited to:
 
+Credit Card number  
+Account Number  
+Bank Account Information  
+Any combination of personal information that could be used to determine identity
 
+** The Way We Use Information:**  
+We use the information the Client provides when placing an order to complete that order and to provide the services requested. 
 
+We use return email addresses to answer the email we receive. We use email addresses provided as personally identifiable information to communicate with you regarding your account. 
 
-**The Way We Use Information:**
+** Tracking and Cookies**  
+Our web pages may utilize “cookies” and other tracking technology to enhance your online experiences and to learn about the way you use HWS services in order to improve the quality of HWS services. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them.
 
-We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order. 
+HWS Servers automatically record information when you visit our websites or use HWS products or services, accept our TOS, or submit content, including the URL, IP address, browser software, operating system types, clickstream patterns and the date and time.
 
-We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties. 
+**Third Parties**  
+We reserve the right to send you certain communications regarding HWS Services, and some third party services, related to your HWS Account, without offering you the opportunity to opt out.
 
-We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we do not disclose anything that could be used to identify those individuals. 
+When we use third parties to assist us with your account services we require that they comply with our privacy policy and confidentiality and security measures.
 
-Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses. 
+Information Sharing  
+We may share information with third parties in limited circumstances including if required to do so by law or in a good faith belief that such disclosure is reasonably necessary to comply with legal processes or governmental requests, enforce the TOS, provide customer service, protect the rights, property or safety of HWS and the public, or to prevent, detect or otherwise address fraud, illegal activities, security or technical issues.
 
-**Our Commitment To Data Security**
+We do not share the personally identifiable information provided to us in ways unrelated to our services or as otherwise described above without also providing you with an opportunity for opt-in consent.
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
+We may use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we do not disclose anything that could be used to identify those individuals.
 
-**Our Commitment To Children's Privacy:**
+  
+** Our Commitment to Data Security:**  
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure your personal information. We restrict access to personal information to those with the need to know that information in order to provide services.
 
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 18, and no part of our website is structured to attract anyone under 18. 
+  
+** Our Commitment to Children’s Privacy:**  
+Protecting the privacy of the very young is especially important. For that reason, HWS does not collect or maintain information form those we actually know are under 13, and no part of HWS websites, products or services are structured to attract anyone under 13.
 
-**How To Contact Us**
+  
+** Accessing and Updating Personal Information:**  
+When contacting HWS we make a good faith effort to provide Clients with access to Clients personal information and either to update it or delete it, if it is not otherwise required to be retained by law or for legitimate business purpose. We ask individual users to identify themselves and the information to be accessed, updated or removed before processing such requests, and we may decline to process requests that are unreasonable, or require disproportionate technical effort.
 
-Should you have other questions or concerns about these privacy policies, please call us at **1.866.211.0743** or send us an email at [ Sales@heritagewebdesign.com](mailto:Sales@heritagewebdesign.com)
+  
+**Changes:**  
+This Privacy Policy may change from time to time. Changes may be posted on this page or if the changes are significant we may provide email notification of Policy changes. Each version of this Policy will include an effective date and we will also keep prior versions of this Privacy Policy available.
+
+  
+** How to Contact Us**  
+Should you have any other questions, concerns or complaints about our Privacy Policy please email us at [ Privacy@hwsinet.com](mailto:Privacy@hwsinet.com). You may also submit updates and corrections about your personal information to [ Privacy@hwsinet.com](mailto:Privacy@hwsinet.com)   
+  
+ 
