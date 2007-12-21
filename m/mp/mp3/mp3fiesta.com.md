@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mp3fiesta.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629222249id_/http%3A//mp3fiesta.com/publication/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mp3fiesta.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221072723id_/http%3A//mp3fiesta.com/publication/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacypolicy – MP3fiesta.com
 
@@ -16,4 +16,4 @@ According to the common practice accepted in the Internet, MP3fiesta.com Adminis
 Anytime you interact with MP3fiesta.com the site Administration get access to your personal data such as downloads, e-mail address, correspondence, statistics etc. Your personal information enables us to keep you posted about new releases and events that you might like to hear about. Your privacy is a priority at MP3fiesta.com and we do our best to protect it. The MP3fiesta.com Administration undertakes not to disclose any data without Client’s permission.
 
 **Your financial information**  
-Paying for the Site services, the Client has to notify the Administration of preferable payment method. [ChronoPay](http://www.chronopay.com/) provides all payments on MP3fiesta.com. To protect your personal information, the ChronoPay makes use of the SSL connection 3.0 (cryptographic protocol) on all the pages where input of personal information is required. The Site Administration is not informed about payment details. The Site Administration agrees to treat all other the financial data confidentially.
+Paying for the Site services, the Client has to notify the Administration of preferable payment method. provides all payments on MP3fiesta.com. To protect your personal information, the makes use of the SSL connection 3.0 (cryptographic protocol) on all the pages where input of personal information is required. The Site Administration is not informed about payment details. The Site Administration agrees to treat all other the financial data confidentially.
