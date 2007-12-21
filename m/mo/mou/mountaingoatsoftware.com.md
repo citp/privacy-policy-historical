@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the mountaingoatsoftware.com privacy policy that was archived on 2007-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070428080540id_/http%3A//www.mountaingoatsoftware.com/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mountaingoatsoftware.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221012053id_/http%3A//www.mountaingoatsoftware.com/privacy_statement) for the most accurate reproduction.*
 
-# Mountain Goat Software - Web Site Privacy Policy - Agile Development Training and Consulting
-
-[](http://railsstudio.com/)
+# Mountain Goat Software - Scrum Training, Training in Scrum, ScrumMaster Training, Agile, Agile Training, Agile Coaching, Scrum Coaching, Scrum Consulting, Agile Consulting
 
 Welcome to the Mountain Goat Software www.mountaingoatsoftware.com web site (the "Site") provided to you by Mountain Goat Software, Inc. ("MGS", "us" or "we").  Your privacy is important to us, and our policy is simple: we will collect no personally identifiable information about you when you visit the Web Site unless you choose to provide that information.
 
-  1. **Opt-Out Policy** **.   You have the opportunity to join a Mountain Goat Software mailing list by clicking on a sign-up link on the Site.  In the future, we may support other forms of social networking such as web logs (**"Blogs").  You will only be included in any social networking if you explicitly agree to join (i.e., opt-in).  If at any time after opting-in to a Site feature you change your mind about receiving information from us or decide you no longer wish to participate in a social networking feature, you may opt-out by send us a request specifying your new choice. Simply send your request to [Support](mailto:%73%75%70%70%6f%72%74@%6d%6f%75%6e%74%61%69%6e%67%6f%61%74%73%6f%66%74%77%61%72%65.%63%6f%6d).
+  1. **Opt-Out Policy** **.   You have the opportunity to join a Mountain Goat Software mailing list by clicking on a sign-up link on the Site.  In the future, we may support other forms of social networking such as web logs (**"Blogs").  You will only be included in any social networking if you explicitly agree to join (i.e., opt-in).  If at any time after opting-in to a Site feature you change your mind about receiving information from us or decide you no longer wish to participate in a social networking feature, you may opt-out by send us a request specifying your new choice. Simply send your request to <%= mail_to 'support@mountaingoatsoftware.com','Support', :encode => 'hex' %>.
   2. **General Information.** The server on which the Site is located collects and saves only the default information customarily logged by web server software. Such information may include the date and time of your visit, the originating IP address, and the pages and images requested. This general information is used to improve the content of Site and the quality of our service, and is not shared with or sold to other organizations for commercial purposes, except if it becomes necessary to share information to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of the Mountain Goat Software Terms of Service, or as otherwise required by law.
   3. **Use of Metadata.**   Although we will not use your personal information for our own business purposes, you hereby grant us the right to aggregate and use non-identifying metadata (e.g., frequency of access, pages visited, etc.) surrounding your use of the Site for reporting in presentations, marketing materials, web sites, and any other documents of our choosing.
   4. **Cookies**.  The Site uses cookies, which are small amounts of data that contain a unique identifier that many web sites frequently send to your web browser to be stored on your computer"s hard drive.  We use cookies to record current session information.
@@ -17,9 +15,5 @@ Welcome to the Mountain Goat Software www.mountaingoatsoftware.com web site (the
 
 
 
-By E-mail [ i n f o @ m o u n t a i n g o a t s o f t w a r e , c o m ](mailto:%69%6e%66%6f@%6d%6f%75%6e%74%61%69%6e%67%6f%61%74%73%6f%66%74%77%61%72%65.%63%6f%6d)  
+By E-mail: [info@mountaingoatsoftware.com](mailto:info@mountaingoatsoftware.com)  
 By Postal Mail: PO Box 165, Lafayette, Colorado 80026
-
-[](http://www.mountaingoatsoftware.com/book/2)
-
-[](http://www.mountaingoatsoftware.com/book/1)
