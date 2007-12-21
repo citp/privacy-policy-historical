@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the multidmedia.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630232929id_/http%3A//www.multidmedia.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the multidmedia.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221180236id_/http%3A//www.multidmedia.com/company/privacy) for the most accurate reproduction.*
 
 # {mdm} © PRIVACY POLICY
 
