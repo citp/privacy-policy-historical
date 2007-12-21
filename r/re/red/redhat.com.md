@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redhat.com privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618223035id_/http%3A//www.redhat.com/legal/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redhat.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221052111id_/http%3A//www.redhat.com/legal/privacy_statement.html) for the most accurate reproduction.*
 
 # redhat.com | Privacy Statement
 
@@ -105,7 +105,7 @@ You may let us know whether or not you would like to receive information, specia
 
 Red Hat will provide you with the opportunity to opt-out of any of our direct marketing communications at any time. All promotional e-mail sent from Red Hat will contain a provision allowing you the option to decline receiving future promotional e-mail. You may unsubscribe to an e-mail communication by contacting Red Hat at either of the addresses provided below and requesting that you be unsubscribed from that specific communication:
 
-  * Web: [Feedback form](http://www.redhat.com/apps/response/feedback.html)
+  * Web: [Feedback form](https://web.archive.org/apps/response/feedback.html)
   * Regular mail: Newsletters @ Red Hat, 1801 Varsity Drive, Raleigh, NC 27606
 
 
@@ -140,11 +140,11 @@ This site contains links to other sites. Red Hat does not control the informatio
 
 ### How to Access, Modify or Update Your Information
 
-Red Hat gives you the ability to access, modify or update your information at any time. You may [log in](https://web.archive.org/apps/user/login.html) and make changes to your login information (change your password), your contact information, your general preferences and your personalization settings. If necessary, you may also [contact us](http://www.redhat.com/apps/response/feedback.html) and describe the changes you want made to the information you have previously provided.
+Red Hat gives you the ability to access, modify or update your information at any time. You may [log in](https://web.archive.org/apps/user/login.html) and make changes to your login information (change your password), your contact information, your general preferences and your personalization settings. If necessary, you may also [contact us](https://web.archive.org/apps/response/feedback.html) and describe the changes you want made to the information you have previously provided.
 
 ### How to Contact Us
 
-If you have any questions about any of these practices or Red Hat's use of your personal information, please feel free to contact us [by web](http://www.redhat.com/apps/response/feedback.html), or by mail at:
+If you have any questions about any of these practices or Red Hat's use of your personal information, please feel free to contact us [by web](https://web.archive.org/apps/response/feedback.html), or by mail at:
 
 Red Hat, Inc.  
 Legal Affairs  
