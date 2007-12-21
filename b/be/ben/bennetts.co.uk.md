@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bennetts.co.uk privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626053908id_/http%3A//www.bennetts.co.uk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bennetts.co.uk privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221195859id_/http%3A//www.bennetts.co.uk/privacy.htm) for the most accurate reproduction.*
 
 # Cheap Motorcycle Insurance & Motorbike Insurance with UK Bike Insurers
 
@@ -30,7 +30,7 @@
 
 ### 1\. Who is the Data Controller?
 
-Bennetts is a trading name of BISL Limited, part of the Budget Group of Companies. The data controller is BISL Limited registered in England and Wales registered number 3231094 at Pegasus House, Bakewell Road, Orton Southgate, Peterborough. In this Privacy Policy, "we", "us" and "our" means BISL Limited and "you" and "your" means the person who wishes to use the website.
+Bennetts is a trading name of the BISL Limited, part of the BGL group of companies. The data controller is BISL Limited registered in England and Wales registered number 3231094 at Pegasus House, Bakewell Road, Orton Southgate, Peterborough. In this Privacy Policy, "we", "us" and "our" means BISL Limited and "you" and "your" means the person who wishes to use the website.
 
 ### 2\. Your Rights
 
@@ -66,18 +66,18 @@ Information you supply may be used for the purpose of insurance administration, 
 
 ### 7\. Marketing and Market Research
 
-BISL Limited, part of the Budget Group of Companies, which also trades as Dial Direct and Budget and other carefully selected companies may use your information to keep you informed by post, telephone, e-mail or other means of products and services which may be of interest to you. They may also contact you to conduct market research.
+BISL Limited, part of the BGL group of companies, which also trades as Dial Direct and Budget and other carefully selected companies may use your information to keep you informed by post, telephone, e-mail or other means of products and services which may be of interest to you. They may also contact you to conduct market research.
 
 ### 8\. Send to a Friend Option
 
 If you provide details of a friend to whom an e-mail is to be sent about Bennetts you confirm the following:- 
 
-  * That you have obtained the consent of your friend to pass your friend’s details to us and for your friend to receive the e-mail from us.
+  * That you have obtained the consent of your friend to pass your friends details to us and for your friend to receive the e-mail from us.
   * That you are happy for us to disclose your details as the person who asked that we send the e-mail to your friend.
 
 
 
-We will not use that person’s details for any marketing purposes. 
+We will not use that persons details for any marketing purposes. 
 
 ### 9\. Credit Searches
 
