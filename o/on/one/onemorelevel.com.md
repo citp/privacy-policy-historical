@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onemorelevel.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624083738id_/http%3A//www.onemorelevel.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onemorelevel.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221040255id_/http%3A//www.onemorelevel.com/privacy.php) for the most accurate reproduction.*
 
 # OneMoreLevel.com - Privacy Policy
 
@@ -26,8 +26,6 @@ A cookie lets us store your profile information on your computer and let's our w
 Cookies help us create a speedy web experience by remembering your address and email information, so you don't have to re-type it when making multiple purchases. They also enable you to recall previous purchases.
 
 Cookies do not store credit card information and we do not use them to track your movements through our site.
-
-More cookie information>
 
 Links to Other Sites  
 Our website has links to partners and other sites. When you link to another site, you are no longer on our site and are subject to the privacy policy of the new site.
