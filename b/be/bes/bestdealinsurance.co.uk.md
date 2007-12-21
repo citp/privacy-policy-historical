@@ -1,17 +1,14 @@
-> *The following text is extracted and transformed from the bestdealinsurance.co.uk privacy policy that was archived on 2007-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070518172445id_/http%3A//www.bestdealinsurance.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestdealinsurance.co.uk privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221160825id_/http%3A//www.bestdealinsurance.co.uk/privacy) for the most accurate reproduction.*
 
 # Best Deal Insurance - Privacy Policy
 
-[](http://www.trustuk.org.uk/) [](http://www.safebuy.org.uk/directory/finance-and-property.html)|  [](http://www.trustuk.org.uk/)  
----|---  
-  
-Best Deal Insurance Services Ltd is registered to TrustUK and data submitted on this site is secured using Verisign.
+All data submitted to Best Deal Insurance Services Ltd on this site is secured using Verisign.
 
 ##  Best Deal Insurance Services Ltd Takes Your Privacy Seriously
 
-Last update to policy: 15th February 2007
+Last update to policy: 29th August 2007
 
-We are Best Deal Insurance Services Limited, trading as Best Deal Insurance and our registered address is 3rd Floor, Avon House, Tithe Barn Road, Wellingborough, Northants, NN8 1DH, United Kingdom. Best Deal Insurance Services Ltd is a member of TrustUK. TrustUK is a non-profit organisation endorsed by the UK Government to enable consumers to buy online with confidence. Members are bound by an online code of practice. Best Deal Insurance Services Ltd takes the privacy of its customers data very seriously.The statement below covers the site www.BestDealInsurance.co.uk. 
+We are Best Deal Insurance Services Limited, trading as Best Deal Insurance and our registered address is 3rd Floor, Avon House, Tithe Barn Road, Wellingborough, Northants, NN8 1DH, United Kingdom. Best Deal Insurance Services Ltd takes the privacy of its customers data very seriously.The statement below covers the site www.BestDealInsurance.co.uk. 
 
 Please read the following policy to understand how we will treat your personal data when you use our site. If this policy changes then we will let you know via our homepage but we assure you that we only use your data as specified here and for our legitimate business reasons. 
 
