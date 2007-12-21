@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ebizautos.com privacy policy that was archived on 2007-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070513170801id_/http%3A//www.ebizautos.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebizautos.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221115423id_/http%3A//www.ebizautos.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # eBizAutos - Privacy Policy
 
 **EBIZAUTOS AND LOOKSLIKE, INC. ARE COMMITTED TO YOUR PRIVACY!**
 
-Your privacy is important, so we have created the following Privacy Policy to let you know what information we collect when you visit our web site, why we collect it, and how it is used. This Privacy Policy applies to all information that you provide to Lookslike, Inc. and that Lookslike, Inc. maintains electronically, whether you provide the information through www.ebizautos.com (the "Site"), or through other means. Additionally, this Privacy Policy applies to any personal information obtained from your (and, if applicable, your family's) use of the Site. This Privacy Policy does not apply to any information that you may provide to third parties; for example, other sites linked to this Site. You should contact such third parties directly to determine their respective privacy policies. This Privacy Policy is governed by our [Terms of Use](https://web.archive.org/web/20070513170801id_/http%3A//www.ebizautos.com/termsofuse.aspx).
+Your privacy is important, so we have created the following Privacy Policy to let you know what information we collect when you visit our web site, why we collect it, and how it is used. This Privacy Policy applies to all information that you provide to Lookslike, Inc. and that Lookslike, Inc. maintains electronically, whether you provide the information through www.ebizautos.com (the "Site"), or through other means. Additionally, this Privacy Policy applies to any personal information obtained from your (and, if applicable, your family's) use of the Site. This Privacy Policy does not apply to any information that you may provide to third parties; for example, other sites linked to this Site. You should contact such third parties directly to determine their respective privacy policies. This Privacy Policy is governed by our [Terms of Use](https://web.archive.org/web/20071221115423id_/http%3A//www.ebizautos.com/termsofuse.aspx).
 
 **CHANGES**
 
@@ -25,7 +25,7 @@ Users of this Site may optinally create an eBizAutos.com Account Profile in orde
 
 Lookslike, Inc. is NOT in the business of selling, renting, or sharing your personally identifiable information to others and we disclose "personally identifiable" information only in the following ways.
 
-We will only export data and information you provide us on this Site in accord with our [Terms of Use](https://web.archive.org/web/20070513170801id_/http%3A//www.ebizautos.com/termsofuse.aspx). We also use your information for other things that may include, but are not limited to, the following:
+We will only export data and information you provide us on this Site in accord with our [Terms of Use](https://web.archive.org/web/20071221115423id_/http%3A//www.ebizautos.com/termsofuse.aspx). We also use your information for other things that may include, but are not limited to, the following:
 
 **CONTACTING YOU**
 
@@ -45,7 +45,7 @@ We may disclose your information if necessary to protect our legal rights, if th
 
 **HOW DO WE PROTECT INFORMATION WE COLLECT?**
 
-We offer secure web pages to collect certain kinds of user information and we store certain kinds of data in encrypted form. We follow reasonable technical and management practices to help protect the confidentiality, security and integrity of data stored on our system. While no computer system is completely secure, we believe the measures implemented by our web site reduce the likelihood of security problems to a level appropriate to the type of data involved. Your information is protected in accordance with our [Security Policy](https://web.archive.org/web/20070513170801id_/http%3A//www.ebizautos.com/security.aspx).
+We offer secure web pages to collect certain kinds of user information and we store certain kinds of data in encrypted form. We follow reasonable technical and management practices to help protect the confidentiality, security and integrity of data stored on our system. While no computer system is completely secure, we believe the measures implemented by our web site reduce the likelihood of security problems to a level appropriate to the type of data involved. Your information is protected in accordance with our [Security Policy](https://web.archive.org/web/20071221115423id_/http%3A//www.ebizautos.com/security.aspx).
 
 **HOW LONG DO WE KEEP USER INFORMATION?**
 
@@ -53,7 +53,7 @@ We generally keep user data on our server or in our archives for as long as we r
 
 **YOUR CONSENT TO THIS POLICY**
 
-By using this Site, you agree to this Privacy Policy. This is our entire and exclusive Privacy Policy and it supersedes any earlier version. Our [Terms of Use](https://web.archive.org/web/20070513170801id_/http%3A//www.ebizautos.com/termsofuse.aspx) take precedence over any conflicting Policy provision. We may change our Privacy Policy by posting a new version of the policy on this page, which it is your responsibility to review frequently.
+By using this Site, you agree to this Privacy Policy. This is our entire and exclusive Privacy Policy and it supersedes any earlier version. Our [Terms of Use](https://web.archive.org/web/20071221115423id_/http%3A//www.ebizautos.com/termsofuse.aspx) take precedence over any conflicting Policy provision. We may change our Privacy Policy by posting a new version of the policy on this page, which it is your responsibility to review frequently.
 
 **IF YOU HAVE A PRIVACY QUESTION**
 
