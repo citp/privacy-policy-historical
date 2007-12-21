@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cardmemberservices.com privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217214702id_/http%3A//www.cardmemberservices.com/ccpmapp/cms/shared/page/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cardmemberservices.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221161821id_/http%3A//www.cardmemberservices.com/ccpmapp/cms/shared/page/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -72,4 +72,4 @@ In order to comply with California law, the following applies if your account ha
 
 
 
-**This Policy applies to current and former consumer customers. In addition, customers in certain states may also receive policies that apply to them. The privacy policies posted on our websites apply when you use those sites. Please contact us if you see any personal information on our website that you believe is incorrect. This policy is effective September 27, 2006.**
+**This Policy applies to current and former consumer customers. In addition, customers in certain states may also receive policies that apply to them. The privacy policies posted on our websites apply when you use those sites. Please contact us if you see any personal information on our website that you believe is incorrect. This policy is effective September 1, 2007.**
