@@ -1,136 +1,77 @@
-<!--The following is the downloaded HTML source of the wink.com privacy policy that was archived on 2007-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070623094156id_/http%3A//wink.com/wink/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wink.com privacy policy that was archived on 2007-12-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071221014253id_/http%3A//wink.com/wink/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
 <meta http-equiv="Content-type" content="text/html; charset=utf-8">
-<title>privacy | Wink | People Search</title>
-<link title="Wink People Search" rel="search" type="application/opensearchdescription+xml" href="/_/searchplugins/openpeople.xml"><script type="text/javascript" src="/_/ec5c0d/js/wink.js"></script>
-<link rel="stylesheet" type="text/css" href="/_/2ca9f5/css/wink.css">
-<script type="text/javascript">//<![CDATA[
-Wink_user = '';
-//]]></script>
+<title>Privacy Policy | Wink</title>
+ <link rel="stylesheet" type="text/css" href="/_/4a729f/css/wink2.css">
+<script type="text/javascript" src="/_/ffb0d0/js/wink.js"></script>
 </head>
-<body>
+<body class="Wink" id="WikiPage">
 <div id="Page">
-    <div id="Main">
-    	<div class="GlobalNav" id="GlobalNav"><div class="floatLeft"><a href="/?dhp=1" title="Wink - The People Search Engine"><img src="/_/image/logo/wink.png" alt="Wink - The People Search Engine" border="0"></a> <img style="margin-bottom:2px" src="/_/image/icon/the_people_search_engine.gif" alt="The People Search Engine" title="Wink - The People Search Engine" border="0"></div>
-<div class="floatRight" style="margin-top:12px;">
-            <a class="signin bhSignin" href="/account/signin">Sign In</a> | <a href="/account/join/">Join Now!</a>
-        <a class="menu" href="/?dhp=1">Home</a>
+<div id="GlobalNav">
+     <div id="logo"><a href="/" title="Wink - The People Search Engine"><img src="/_/image/logo/logo_wink_small.gif" alt="Wink - The People Search Engine" border="0"></a> <h5 class="il">| Where people find people</h5></div>
+
+ <div id="topNav">
+            <a class="signin bhSignin" href="/account/signin">Sign In</a> <span class="middot">•</span> <a href="/account/join/">Sign up</a>
+        <span class="middot">•</span> <a class="menu" href="/">Home</a>     </div>
+ <div class="clearBoth"></div>
+</div>
+
+<div id="Search">
+<form id="SearchForm" name="SearchForm" action="/people/" method="get">
+    <input name="pf" type="hidden" value="">
+    <div id="searchMain">
+        <div id="sLeft">
+            <div id="searchName">
+                <label for="name">Name:</label><br>
+                <input id="name" name="nm" type="text" value="">
+            </div>
+            <div id="searchLoc">
+                <label for="location">Location:</label><br>
+                <input id="location" name="l" type="text" value="">
+            </div>
+        </div>
+        
+        <div id="sRight">        
+            <div id="searchOther">
+                <label for="pterm">Other:</label><br>
+                <input id="pterm" name="q" type="text" value="">
+            </div>
+            <div id="submit">
+                <input id="submitBtn" name="submit" type="submit" value="Search">
+            </div>
+        </div>
+        <div class="floatClr"></div>
     </div>
-<div class="clearBoth"></div>
 
-<script type="text/javascript">
-    var menu = document.getElementsByClassName('menu');
-    
-    for(i = 0; i < menu.length; i++) {
-        WinkEvent.observe(menu[i], 'mouseover', function() { this.style.backgroundColor = "#aac9e5";});
-        WinkEvent.observe(menu[i], 'mouseout', function() { this.style.backgroundColor = "";});
-    }
-</script>
-</div>
-        <div class="SearchBox" id="SearchBox"><form name="searchForm" id="searchForm" action="/people/" method="GET">
-    <input type="hidden" id="apsStatus" name="aps" value="0">
-    <input id="ps" name="ps" type="hidden" value="">
-        <input id="pf" name="pf" type="hidden" value="">
-    <input id="distance" name="d" type="hidden" value="0">
-    <table id="searchBoxMain" class="w100" border="0" cellpadding="0" cellspacing="0">
-        <tbody><tr>
-            <td id="nameTD">
-                <label for="searchText" class="label">Name:</label><br>
-                <input class="inputText marginBottom5" id="searchText" name="nm" type="text" value="">
-            </td>
-            <td id="locationTD">
-                <span class="label">Location:</span><br>
-                <input class="inputText marginBottom5" id="locationText" name="l" type="text" value="">
-            </td>
-            <td id="otherTD">
-               <div style="position:absolute; float:left;">
-                    <div id="currentPF" style="width:100px;" onmouseover="this.style.cursor='pointer'"><span class="label">Other Info</span>: | <img class="vAlignMid" src="/_/image/icon/arrow_down_grey.gif" alt="" border="0"></div>
-                    <div id="pfMenu" style="display:none; border:1px solid #999; background-color:#fff; width:130px;">
-                        <div id="" class="label dottedBottom paddingLeft10" title="Interests, School, Music, TV, Movies...">Other Info</div>
-                        <div id="occupation" class="label dottedBottom paddingLeft10" title="Find people by employer, job title, etc">Work</div>
-                        <div id="school" class="label dottedBottom paddingLeft10" title="Find people by school name">School</div>
-                        <div id="music" class="label dottedBottom paddingLeft10" title="Find Bands and the people who like them">Music</div>
-                        <div id="movies" class="label dottedBottom paddingLeft10" title="Enter a Movie title">Movies</div>
-                        <div id="television" class="label dottedBottom paddingLeft10" title="Enter a TV show name">TV</div>
-                    </div>
-                </div>
-                <div style="margin-top:23px;"><input class="inputText marginBottom5" id="pfText" name="q" type="text" value=""></div>
-            </td>
-            <td id="submitTD" class="textCenter vAlignBtm">
-                                <input class="formBtnAction marginBottom5" id="submit" type="submit" value="Search for People">
-            </td>
-        </tr>
-        </tbody><tbody id="apsBox" style="display:none;">
-            <tr><td colspan="4" style="height:5px;"></td></tr>
-            <tr>
-                <td class="noWrap">
-                    <label for="gender">Gender:</label>
-                    <div id="gender_radio" class="paddingTop5 paddingLeft10">
-                    <input id="gender" name="g" type="radio" value="m"> <span class="formRadioText">male</span>
-                    <input id="gender" name="g" type="radio" value="f"> <span class="formRadioText">female</span>
-                    <input id="gender" name="g" type="radio" value="" checked="checked"> <span class="formRadioText">both</span>
-                    </div>
-                </td>
-
-                <td class="noWrap">
-                    <div id="distanceSlider" class="marginTop5 paddingTop5 paddingLeft10 noWrap">
-                        <img class="diamond" id="diamond_0" style="margin-left:-4px; position:absolute;" src="/_/image/icon/diamond_blue.gif" alt="" border="0" name="0">
-                        <img class="diamond" id="diamond_25" style="margin-left:48px;" src="/_/image/icon/diamond_white.gif" alt="" border="0" name="25">
-                        <img class="diamond" id="diamond_50" style="margin-left:50px;" src="/_/image/icon/diamond_white.gif" alt="" border="0" name="50">
-                        <img class="diamond" id="diamond_100" style="margin-left:76px;" src="/_/image/icon/diamond_white.gif" alt="" border="0" name="100">
-                    </div>
-                </td>
-
-                <td class="noWrap">
-                    <label for="status">Status:</label>
-                    <div id="status_radio" class="paddingTop5 paddingLeft10">
-                    <input id="status" name="s" type="radio" value="s"> <span class="formRadioText">single</span>
-                    <input id="status" name="s" type="radio" value="t"> <span class="formRadioText">taken</span>
-                    <input id="status" name="s" type="radio" value="" checked="checked"> <span class="formRadioText">both</span>
-                    </div>
-               </td>
-
-                <td>
-                    <label for="age">Age:</label>
-                    <div id="age_radio" class="paddingTop5 paddingLeft10">
-                    <select id="age" style="width:120px;" name="a">
-                        <option value="" selected="selected">all ages</option>
-    					<option value="13">13 to 18</option>
-    					<option value="19">19 to 24</option>
-    					<option value="25">25 to 29</option>
-    					<option value="30">30 to 34</option>
-    					<option value="35">35 to 39</option>
-    					<option value="40">40 to 49</option>
-    					<option value="50">50 to 59</option>
-    					<option value="60">60 and up</option>
-                    </select>
-                    </div>
-                </td>
-            </tr>
-        </tbody>
-    </table>
+    <div id="refine">
+        <div class="title">Refine search:</div>
+        <ul>
+            <li class="rfnMenu arrowOff" id="personal"><a href="javascript:void(0)">Personal</a></li>
+            <li class="rfnMenu arrowOff" id="interests"><a href="javascript:void(0)">Interests</a></li>
+            <li class="rfnMenu arrowOff" id="groups"><a href="javascript:void(0)">Groups</a></li>
+            <li class="rfnMenu arrowOff" id="school"><a href="javascript:void(0)">School</a></li>
+            <li class="rfnMenu arrowOff" id="career"><a href="javascript:void(0)">Career</a></li>
+            <li class="rfnMenu arrowOff" id="tags"><a href="javascript:void(0)">Tags</a></li>
+        </ul>
+    </div>
 </form>
-
 </div>
-                <div id="Content">
-                        <div class="WikiPage" id="WikiPage"><table id="ThreeColumn" border="0" cellspacing="0" cellpadding="0" width="100%">
-    <tbody><tr>
-        <td width="200" class="leftColumn" valign="top"><div class="shadedBox"><div id="AboutNav">
+
+<div id="Content"><div id="ColLeft" class="AboutNav sidebox">
    <div class="navitem"><a href="/wink/about">About Wink</a></div>
     <div class="navitem"><a href="/wink/team">The Wink Team</a></div>
     <div class="navitem"><a href="http://blog.wink.com/">Wink Blog</a></div>
     <div class="navitem"><a href="/wink/jobs">Jobs</a></div>
     <div class="navitem"><a href="/wink/tos">Terms of Service</a></div>
     <div class="navitem navitemselected">Privacy Policy</div>
-    <div class="navitem"><a href="/tools/">Tools</a></div>
+      <div class="navitem"><a href="/wink/tools">Tools</a></div>
     <div class="navitem"><a href="/feedback/">Feedback</a></div>
     <div class="navitem"><a href="/wink/help">Help</a></div>
  </div>
-</div>
-</td>
-        <td class="centerColumn" valign="top"><p>﻿We recognize that privacy is an important issue for our users. We have implemented industry standard policies to make sure your privacy is protected. This policy describes the personal information we collect about you, why we collect it, how we use it and when we share it with third parties. Our policy also describes the choices you can make about how we collect and use your information. If you have any questions about our privacy policy, contact us at: <a href="mailto:feedback@wink.com?subject=wink:privacy">feedback@wink.com</a>.</p>
+
+  <div id="ColMain"><p>﻿We recognize that privacy is an important issue for our users. We have implemented industry standard policies to make sure your privacy is protected. This policy describes the personal information we collect about you, why we collect it, how we use it and when we share it with third parties. Our policy also describes the choices you can make about how we collect and use your information. If you have any questions about our privacy policy, contact us at: <a href="mailto:feedback@wink.com?subject=wink:privacy">feedback@wink.com</a>.</p>
 
 <p>If our information practices change in the future, we will let you know by posting the policy changes on our Web site or by communicating directly with you through email. We will notify you of any such change before we use your information in a manner not previously disclosed in our privacy policy. You will have the opportunity at that time to opt out of any new use of your information.</p>
 
@@ -185,44 +126,37 @@ Wink_user = '';
 
 <p></p>
 
-</td>
-    </tr>
-</tbody></table>
 </div>
-                    </div>
-        
+</div>
+
 <div id="Footer">
-    <div class="WebSearchBox"><form id="WebSearch" name="WebSearch" action="/search/">
-    Try Wink's people powered WEB search: <input id="searchText" name="q" style="width:300px;" type="text" value=""> <input style="height:22px;" class="formBtnSubmit" type="submit" value="Search the Web">
-</form>
-</div>
-    <div class="marginTop20">
-        <strong>Wink People Search:</strong> 
-        <a class="links" href="/wink/about">About Wink</a> 
-        <a class="links" href="http://blog.wink.com/">Wink Blog</a>
-        <a class="links" href="/developer/">Developer API</a> 
-        <a class="links" href="http://groups.google.com/group/winksearch">Forums</a> 
-        <a class="links" href="/feedback/">Feedback</a> 
-        <a class="links" href="/wink/privacy">Privacy</a> 
-        <a class="links" href="/wink/tos">Terms</a> 
-        <a class="links" href="/wink/jobs">Jobs</a> 
-        <a class="links" href="/whitepages/">White Pages</a> 
-    </div>
-    <div class="marginTop5">Copyright © 2007 Wink Technologies, Inc. All Rights Reserved.</div>
-    </div> 
-
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
-<script type="text/javascript">
+ <ul>
+  <li><a href="/wink/about">About</a> <span class="middot">•</span></li>
+  <li><a href="http://blog.wink.com/">Blog</a> <span class="middot">•</span></li>
+  <li><a href="/developer/">Developer</a> <span class="middot">•</span></li>
+ 
+  <li><a href="http://groups.google.com/group/winksearch">Forums</a> <span class="middot">•</span></li>
+  <li><a href="/feedback/">Feedback</a> <span class="middot">•</span></li>
+  <li><a href="/wink/privacy">Privacy</a> <span class="middot">•</span></li>
+  <li><a href="/wink/tos">Terms</a> <span class="middot">•</span></li>
+  <li><a href="/wink/jobs">Jobs</a> <span class="middot">•</span></li>
+ 
+  <li><a href="/directory/">Directory</a></li>
+ </ul>
+ <span id="legal">Copyright © 2007 Wink Technologies, Inc. All Rights Reserved.</span>
+ <div class="uniq">w1nkpro07 2007-12-20</div>
+ <script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+ <script type="text/javascript">
 _uacct = "UA-607613-1";
-if (window.urchinTracker) urchinTracker();
-</script>
-
-    </div>
+ if (window.urchinTracker) urchinTracker();
+ </script>
 </div>
-<script type="text/javascript">//<![CDATA[
-moduleManager.register(new SearchBox("SearchBox","pf"));
-moduleManager.register(new SignIn(""));
-//]]></script>
+</div>
+
+
+<script language="javascript" type="text/javascript">
+moduleManager.register(new SignIn(null,null));
+moduleManager.register(new Search("null"));</script>
 
 
 </body></html>
