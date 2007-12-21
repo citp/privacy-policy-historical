@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psychologies.co.uk privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609042313id_/http%3A//www.psychologies.co.uk/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psychologies.co.uk privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221063508id_/http%3A//www.psychologies.co.uk/privacy_policy.php) for the most accurate reproduction.*
 
 # Psychologies Online - Privacy Policy
 
