@@ -1,227 +1,47 @@
-> *The following text is extracted and transformed from the deitel.com privacy policy that was archived on 2007-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070405105202id_/http%3A//deitel.com/shared/privacypolicy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deitel.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221070851id_/http%3A//www.deitel.com/Deitel/Home/tabid/53/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
-# Deitel & Associates, Inc. Privacy Statement
+# Deitel & Associates, Inc.
 
-Deitel® Buzz Online   
-free e-mail newsletter  
-Register Now!
+Deitel & Associates, Inc. is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Deitel & Associates, Inc. Web site and governs data collection and usage. By using the Deitel & Associates, Inc. website, you consent to the data practices described in this statement.
 
-| | 
+Collection of your Personal Information
 
-**Privacy Statement of Deitel & Associates, Inc. **   
+Deitel & Associates, Inc. collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. Deitel & Associates, Inc. also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.
 
+There is also information about your computer hardware and software that is automatically collected by Deitel & Associates, Inc.. This information can include: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used by Deitel & Associates, Inc. for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Deitel & Associates, Inc. Web site.
 
-**
+Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through Deitel & Associates, Inc. public message boards, this information may be collected and used by others. Note: Deitel & Associates, Inc. does not read any of your private online communications.
 
-**Information about our Organization and Web site**
+Deitel & Associates, Inc. encourages you to review the privacy statements of Web sites you choose to link to from Deitel & Associates, Inc. so that you can understand how those Web sites collect, use and share your information. Deitel & Associates, Inc. is not responsible for the privacy statements or other content on Web sites outside of the Deitel & Associates, Inc. and Deitel & Associates, Inc. family of Web sites.
 
-**
+Use of your Personal Information
 
-Modern information and communication technologies play a fundamental role in the activities of an organization like Deitel & Associates, Inc. . We are based in USA .  Our principal activities are: 
+Deitel & Associates, Inc. collects and uses your personal information to operate the Deitel & Associates, Inc. Web site and deliver the services you have requested. Deitel & Associates, Inc. also uses your personally identifiable information to inform you of other products or services available from Deitel & Associates, Inc. and its affiliates. Deitel & Associates, Inc. may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
 
-  * Computer Science Authors 
-  * Corporate Training 
+Deitel & Associates, Inc. does not sell, rent or lease its customer lists to third parties. Deitel & Associates, Inc. may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, Deitel & Associates, Inc. may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to Deitel & Associates, Inc., and they are required to maintain the confidentiality of your information.
 
+Deitel & Associates, Inc. does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.
 
+Deitel & Associates, Inc. keeps track of the Web sites and pages our customers visit within Deitel & Associates, Inc., in order to determine what Deitel & Associates, Inc. services are the most popular. This data is used to deliver customized content and advertising within Deitel & Associates, Inc. to customers whose behavior indicates that they are interested in a particular subject area.
 
-Our privacy policy covers Deitel & Associates, Inc. and its Web site: 
+Deitel & Associates, Inc. Web sites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Deitel & Associates, Inc. or the site; (b) protect and defend the rights or property of Deitel & Associates, Inc.; and, (c) act under exigent circumstances to protect the personal safety of users of Deitel & Associates, Inc., or the public.
 
-** |  Organization Name:  |  Deitel & Associates, Inc.   
----|---  
-Address:  |  5 Clock Tower Place, Suite 450   
-City, Zip:  |  Maynard  ,  01754   
-State:  |  MA   
-Country:  |  USA   
-Controller:  |  Deitel & Associates, Inc.   
-Web Sites(s):  |  www.deitel.com   
-**
+Use of Cookies
 
-** **Providing Visitors with Anonymous Access** **   
+The Deitel & Associates, Inc. Web site use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
 
+One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize Deitel & Associates, Inc. pages, or register with Deitel & Associates, Inc. site or services, a cookie helps Deitel & Associates, Inc. to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same Deitel & Associates, Inc. Web site, the information you previously provided can be retrieved, so you can easily use the Deitel & Associates, Inc. features that you customized.
 
-You can access our Web site home page and browse our site without disclosing your personal data. 
+You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Deitel & Associates, Inc. services or Web sites you visit.
 
-** ** The services and links of our Web site  ** **   
+Security of your Personal Information
 
+Deitel & Associates, Inc. secures your personal information from unauthorized access, use or disclosure. Deitel & Associates, Inc. secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other Web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
 
-Our Web site enables you to communicate with other visitors or to post information to be accessed by others. When you do so, other visitors may collect your data. 
+Changes to this Statement
 
-Our Web site does not include links to third party Web service providers. 
+Deitel & Associates, Inc. will occasionally update this Statement of Privacy to reflect company and customer feedback. Deitel & Associates, Inc. encourages you to periodically review this Statement to be informed of how Deitel & Associates, Inc. is protecting your information.
 
-** Automatic Collection of Information  **   
+Contact Information
 
-
-We automatically log personal data by means such as programming or we link information automatically logged by such means with personal data about specific individuals. We do so for the following purposes: 
-
-  * Technical administration of the Web site 
-  * Customer administration 
-  * Marketing 
-  * Keeping basic statistics on the files our readers download from our site. 
-
-
-
-We use cookies to store personal data or we link information stored in cookies with personal data about specific individuals. We do so for the following purposes: 
-
-  * Customer administration 
-  * Marketing 
-  * To ensure that a user is registered before allowing the user to download files from our site. 
-
-
-
-** Data Collection and Purpose Specification  **   
-
-
-We collect the personal data that you may volunteer while using our services. 
-
-We do not collect information about our visitors from other sources, such as public records or bodies, or private organizations. 
-
-To access the table of personal data collected and purposes for which they are used, please  click here 
-
-We do not collect or use personal data for any purpose other than that indicated in the table below. 
-
-If we wish to use your personal data for new purposes, we offer you the means to consent to those new purposes: 
-
-  * by indicating in a box at the point on the site where personal data is collected 
-  * by sending an email ( deitel@deitel.com ) 
-  * by visiting this url ( http://www.deitel.com ) 
-
-
-
-** Children's Privacy  **   
-
-
-We do not knowingly collect personal data from children. 
-
-We do not take specific steps to protect the privacy of children who disclose their personal data to us. 
-
-We do provide information about our personal data practices in relation to children on our home page and wherever we knowingly collect personnal data from children on our Web site. 
-
-** Disclosure and Visitor Choice  **   
-
-
-We disclose our visitors' personal data to our subsidiaries or other organizations. 
-
-Where we disclose your personal data for the same purposes as those indicated in the table below, we provide you with the means to  opt-in to disclosure:  opt-out of disclosure: 
-
-  * by indicating in a box at the point on the site where personal data is collected 
-  * by sending an email ( deitel@deitel.com ) 
-  * by visiting this url ( http://www.deitel.com ) 
-
-
-
-Where we disclose your personal data for purposes which are different from those indicated in the table mentioned above, we offer you the opportunity to consent to disclosure: 
-
-  * by indicating in a box at the point on the site where personal data is collected 
-  * by sending an email ( deitel@deitel.com ) 
-  * by visiting this url ( http://www.deitel.com ) 
-
-
-
-** Confidentiality / Security  **   
-
-
-We do not give visitors to our Web site the option of using a secure transmission method to send us their personal data. 
-
-We have implemented security policies, rules and technical measures to protect the personal data that we have under our control from: 
-
-  * unauthorized access 
-  * improper use or disclosure 
-  * unauthorized modification 
-  * unlawful destruction or accidental loss 
-
-
-
-All our employees and data processors, who have access to, and are associated with the processing of personal data, are obliged to respect the confidentiality of our visitors' personal data. 
-
-We ensure that your personal data will not be disclosed to State institutions and authorities except if required by law or other regulation. 
-
-** Access to the personal data we may hold about you  **   
-
-
-You can ask us, by: 
-
-  * sending an email ( deitel@deitel.com ) 
-  * By the fact that they must register to download our materials. 
-
-
-
-whether we are keeping personal data about you. 
-
-Upon request, which you can indicate by: 
-
-  * sending an email ( deitel@deitel.com ) 
-
-
-
-We will provide you with a readable copy of the personal data which we keep about you,  within a week.  \- although we may before require proof of your identity -.  We will provide the information  without any charge. 
-
-We allow you to challenge the data that we hold about you and, where appropriate, you may have the data: 
-
-  * erased 
-  * rectified or amended 
-  * completed 
-
-
-
-We reserve the right to refuse to provide our visitors with a copy of their personal data,  but will give reasons for our refusal. 
-
-We do, however, allow you to challenge our decision to refuse to provide you with a copy of your personal data. 
-
-** Privacy Compliance  **   
-
-
-Our privacy policy is compliant with the following instrument:  Self-Assessment Procedure 
-
-There are no global or regional regulatory or self-regulatory schemes applicable to our web site or organization. 
-
-In order to demonstrate that our privacy policy accords with the above privacy  instrument,  we are: 
-
-  * voluntarily committed to a Self Assessment procedure 
-
-
-
-####  Self Assessment procedure 
-
-Name or designation of the privacy policy person or service  |  Deitel & Associates, Inc.   
----|---  
-URL  |  http://www.deitel.com   
-Address  |  5 Clock Tower Place, Suite 450, Maynard, MA 01754   
-Country  |  USA   
-  
-  
-
-
-####  Primary personal data/Business information 
-
-**x** |  volunteered by each visitor   
----|---  
-\-  |  collected from public records or bodies   
-\-  |  collected from private organizations   
-  
-####  Other personal details and profiling data 
-
-\-  |  volunteered by each visitor   
----|---  
-\-  |  collected from public records or bodies   
-\-  |  collected from private organizations   
-  
-####  Identifiers 
-
-\-  |  volunteered by each visitor   
----|---  
-\-  |  collected from public records or bodies   
-\-  |  collected from private organizations   
-  
-####  Specific Data 
-
-\-  |  volunteered by each visitor   
----|---  
-\-  |  collected from public records or bodies   
-\-  |  collected from private organizations   
-  
-* * *
-
-  
-
-
-* * *
+Deitel & Associates, Inc. welcomes your comments regarding this Statement of Privacy. If you believe that Deitel & Associates, Inc. has not adhered to this Statement, please contact Deitel & Associates, Inc. at [paul.deitel@deitel.com](mailto:paul.deitel@deitel.com). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
