@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the noheat.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617163136id_/http%3A//www.noheat.com/advice-we-answer-your-questions) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noheat.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221163951id_/http%3A//www.noheat.com/advice-we-answer-your-questions) for the most accurate reproduction.*
 
-# Privacy Policy : Noheat - Tech News thats too Cool
+# Privacy Policy
+
+( **1** votes, average: **5** out of 5)  
+
+
+ Loading ...
 
 ### Privacy
 
@@ -27,5 +32,3 @@ While we do our best to protect your personal information, we cannot guarantee t
 Please contact those vendors and others directly if you have any questions about their privacy policies.
 
 For any other information email [webmaster](mailto://ccarey76@gmail.com/)
-
-If you're new here, you may want to subscribe to my [RSS feed](http://www.noheat.com/feed/). Thanks for visiting!
