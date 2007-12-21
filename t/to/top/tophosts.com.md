@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tophosts.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630195707id_/http%3A//www.tophosts.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tophosts.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221202017id_/http%3A//www.tophosts.com/privacy.html) for the most accurate reproduction.*
 
 # Web Hosting Resource and Directory since 1997 - Tophosts.com
 
