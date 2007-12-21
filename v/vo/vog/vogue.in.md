@@ -1,0 +1,49 @@
+> *The following text is extracted and transformed from the vogue.in privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221205458id_/http%3A//www.vogue.in/privacypolicy.asp) for the most accurate reproduction.*
+
+# Privacy Policy
+
+  
+**1\. General**   
+·  This policy covers all sites produced by  Conde Nast (I) Limited ("Conde Nast (I)").   
+Conde Nast (I) is committed to safeguarding your privacy online. The purpose of this Privacy Policy is to inform you what personal information Conde Nast (I) collects and the purposes for which it uses this information. This policy may change from time to time so please check back here periodically. In reviewing this Privacy Policy, please read our User Agreement. If you wish to contact Conde Nast (I) concerning any matter relating to your personal information then please contact [vogueindia@condenast.in](mailto:vogueindia@condenast.in)
+
+·  First and foremost you need to be 18 years or older to register at _[www.vogue.in](http://www.vogue.in/)_ as a member or for commercial usage of this website. Please read this Privacy Policy along with the Terms of Use linked separately to this website. By using this website, you signify your assent to this Privacy Policy. Please do not use this website, if you do not agree with any of the stipulated Terms And/Or Conditions which require your adherence prior to use. We reserve the right, at our discretion, to change, modify, add or remove portions of this Policy at any time. Please check this page periodically for changes. Your continued use of our website following the changes to the terms and/or conditions shall mean you accept those changes in totality. For any clarifications in this matter or in general regarding this Privacy Policy you may email [vogueindia@condenast.in](mailto:vogueindia@condenast.in).
+
+ **  2\. Disclosures**   
+Conde Nast (I) may disclose your information, under strict terms of confidentiality and restriction of use, to partners of  Conde Nast (I) who supply services on behalf of  Conde Nast (I) and who require to process personal data in the provision of such services. When you use "Conde Nast (I) Services" you are consenting to the disclosure of your personal information to Conde Nast (I)'s partners.    
+Conde Nast (I) will not disclose any of your personal information to any other third parties without your express consent.   
+However, under certain circumstances the force of law may require the provision of information to legal authorities. In order to maintain the integrity of its website and safeguard the interests of its subscribers Conde Nast (I) will comply with any such legally binding request. 
+
+**3\. Information Collected**   
+Identifiable information - Your information is collected when you register or fill in a form on a   
+Conde Nast (I) website, or you send an email to Conde Nast (I). The information that is provided by you will only be used for the purpose for which it is provided, unless you are informed otherwise at the time of giving the information. You may inform Conde Nast (I) at any time if you wish Conde Nast (I) to cease using your personal information. You may also be asked to provide certain personally or non-personally identifiable information prior to participation in certain forums, chat-rooms, blogs, surveys, contests, etc., going forward, thus ensuring an enhanced and personalised experience on 
+
+_[www.vogue.in](http://www.vogue.in/)_
+
+. We shall not be responsible for privacy of any information provided by you on our website which has not been specifically requested by us. 
+
+Non identifiable information - Conde Nast (I) will from time to time collect information from you that does not reveal your personal identity. Conde Nast (I) uses this information for editorial purposes, and occasionally for other internal purposes. This information is only used in aggregate form and is not connected to any name, address or other personal identifying information. 
+
+The access to some general features of our website is free. However for using certain services on our website such as for shopping online or interactive features, we request you to complete the Registration Form and thus create a User Account. During registration, we would collect personally identifying information such as your name, age, residential address, contact numbers, gender, email address, billing data, including credit card number, expiration date and billing address. But it may be noted that financial details, if any, procured from a registered user are not stored by us and shall be sourced and used by the payment gateway facilitator or concerned processing bank(s) for suitably instructing in connection to execution of our customer’s orders. At times we may also use the information to contact our users about various services on our website or for soliciting feedbacks, research, individual marketing, strategic client analysis or for other internal purposes. Your contact information shall not be sold, traded, rented or in any way divulged to any third party unless we are legally bound to do the same or in such situations where the information needs to be shared in order to investigate, prevent or take action regarding illegal or fraudulent activities online or physical, for protection of our rights or property or of those associated or concerned, including payment gateway facilitator, processing bank(s), customers and/or those connected with our website. Please note that our website automatically receives and records information on our server logs from your browser, including your IP address. 
+
+**4\. Use of personal information**   
+Conde Nast (I) processes personal information for the purpose of providing a personalised service, conducting market research surveys, running competitions and providing you with information about products and services on offer. Conde Nast (I) may from time to time use your contact information to tell you about news or events provided by Conde Nast (I) or one of its strategic partners. You may opt-out of receiving such mailings, either when you register with Conde Nast (I) or at any time afterwards.   
+Conde Nast (I) may also contact you with important information about your registration details even if you have opted-out of receiving promotional emails. A login identity and password would be available for your use. All activities that occur using your password are your responsibility, whether or not authorised by you. You agree to immediately notify us of any unauthorised use of your password or registered account per se. In case we cannot verify the information that you provide when you log on or otherwise, we may ask you to send us additional information by fax, such as your driving license, credit card statement, utility bill or any other information linking you to your applicable address or may request you to answer additional questions online to help verify your information.
+
+**5\. Use of Cookies**  
+Cookies are small amounts of information that are sent to and are stored on your computer. They are used to identify you when you visit the site, and to make your use of the site more convenient for you. Cookies are used to remember usernames, passwords and preferences and to deliver a faster and more personalised service. ****  
+The  Conde Nast (I) site and service may contain advertisements created and provided by a third party. These advertisements may place Cookies on your computer that collect information about you and your use of the Internet. Conde Nast (I) does not control the collection or use of your information by such advertisers and this privacy policy does not apply to such information.   
+If you do not wish to have Cookies placed on your computer you can disable Cookies on your Internet browser. Turning them off however will mean that you will not be able to enjoy the  Conde Nast (I) websites to their fullest. 
+
+**6\. Links**   
+There are links on Conde Nast (I) websites to third party websites which Conde Nast (I) has no control over. Conde Nast (I) accepts no responsibility or liability for any third party practices on third party websites. Conde Nast (I) advises you to carefully read third party privacy statements prior to the use of any third party website. 
+
+**7\. International Transfers**   
+Due to the international nature of the Internet, the collecting and processing of your personal information in accordance with Conde Nast (I)'s privacy policy will often involve transferring the data between countries in which Conde Nast (I), other companies in the Conde Nast (I) group of companies and strategic partners are located.  
+Conde Nast (I) shall take steps to ensure that any transfer of data to a country or territory outside  India, whose laws provide for a different standard of protection for your personal data than that provided under Indian law, shall be made subject to contractual arrangements which will require that your data be processed to at least a standard compliant with the  IT Act 1998. 
+
+**8\. Security**   
+This Website has security measures in place to protect against loss, misuse and alteration of your personal information under Conde Nast (I)'s control. However no data transmission over the Internet can be guaranteed to be 100% secure and whilst Conde Nast (I) strives to protect your personal information, Conde Nast (I) cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk. Once  Conde Nast (I) receives the transmission, Conde Nast (I) makes best efforts to ensure the security on the system. 
+
+**9\. Contact Details**   
+Our website may contain links to other websites. We are not in anyway responsible for the privacy practices or content of such websites and hereby expressly disclaim all liability associated with the content and use thereof. 
