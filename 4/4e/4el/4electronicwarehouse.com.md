@@ -1,6 +1,16 @@
-> *The following text is extracted and transformed from the 4electronicwarehouse.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623073854id_/http%3A//www.4electronicwarehouse.com/service/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4electronicwarehouse.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221052739id_/http%3A//www.4electronicwarehouse.com/service/privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy Statement
+
+[
+
+Guaranteed Christmas Delivery & 33% Off Next Day Air
+
+for all in-stock orders shipped today via **Next Day Air**. Details
+
+](https://web.archive.org/service/shipping-options.html)
+
+[](https://web.archive.org/emailpage.php?link=%2Fservice%2Fprivacy-statement.html&title=Privacy+Statement)
 
 Your Electronic Warehouse has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: **[4ElectronicWarehouse.com](http://www.4electronicwarehouse.com/)**. 
 
@@ -10,7 +20,26 @@ Our site uses cookies to keep track of your shopping cart. We use cookies to sav
 
 This site contains links to other sites. **[4ElectronicWarehouse.com](http://www.4electronicwarehouse.com/)** is not responsible for the privacy practices or the content of such Web sites. 
 
-Our site uses information request forms for customers to request information, products, and services. We collect visitor's contact information (like their name & email address). Contact information from the request forms is used to send orders and information about our products to our customers. The customer's contact information is also used to get in touch with the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
+Our site uses information request forms for customers to request information, products, and services. We collect visitor's contact information (like their name & email address). Contact information from the request forms is used to send orders and information about our products to our customers. The customer's contact information is also used to get in touch with the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below.
+
+## **Your Electronic Warehouse does not rent or sell your personal information to thrid parties.**
+
+We may need to share your personal information with certain third parties such as our service providers and other representatives acting on our behalf for limited purposes. For example, we may share personal information with third parties to perform services on our behalf such as:
+
+  * Fulfilling our customers' orders
+  * Sending Your Electronic Warehouse marketing communications
+  * Delivering packages
+  * Scheduling and performing installations
+  * Maintaining our reward dollars program
+  * Conducting research, analysis or administering surveys
+  * Sending regular mail and e-mail on behalf of Your Electronic Warehouse
+  * Processing credit card payments
+
+
+
+The third parties with whom we conduct business are only authorized to use your information to perform the service for which they were hired. As part of our agreement with them, they are required to follow the privacy guidelines we provide them and to take reasonable measures to ensure your personal information is secure.
+
+From time to time, we may be required to share personal information in response to a valid court order, subpoena, government investigation, or as otherwise required by law. We also reserve the right to report to law enforcement agencies any activities that we, in good faith, believe to be unlawful.
 
 ## Choice/Opt-Out
 
@@ -34,11 +63,38 @@ This site gives users the following options for changing and modifying informati
 
 ## Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:  Customer Service Your Electronic Warehouse 2828 Broadway Quincy, IL 62301 (217) 224-6171 [customerservice@4electronicwarehouse.com](mailto:customerservice@4electronicwarehouse.com)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: 
 
-Questions? Call us toll-free 1-866-224-6171. 
+ Customer Service
+
+Your Electronic Warehouse 2828 Broadway Quincy, IL 62301 (217) 224-6171 [customerservice@4electronicwarehouse.com](mailto:customerservice@4electronicwarehouse.com)
+
+[](https://web.archive.org/emailpage.php?link=%2Fservice%2Fprivacy-statement.html&title=Privacy+Statement)
+
+Questions? Call us toll-free 1-866-224-6171.  
+
 
   
-[](http://www.4electronicwarehouse.com/service/payment-options.html) |  [ ](http://www.bizrate.com/ratings_guide/cust_reviews__mid--30826.html) |  [](http://www.pricegrabber.com/rating_getreview.php/retid=469) |  [](http://www.nextag.com/Your+Electronic+Warehouse~153170zzzreviewsz1zmainz17-htm)   
-|  [](https://www.scanalert.com/RatingVerify?ref=www.4electronicwarehouse.com) |  [](http://www.bbbonline.org/cks.asp?id=1060307151215)  
----|---|---|---|---|---
+[](http://www.4electronicwarehouse.com/service/payment-options.html) |  [ ](http://www.bizrate.com/ratings_guide/cust_reviews__mid--30826.html) |  [](http://www.pricegrabber.com/rating_getreview.php/retid=469) |  [](https://www.scanalert.com/RatingVerify?ref=www.4electronicwarehouse.com)   
+[](http://www.nextag.com/Your+Electronic+Warehouse~153170zzzreviewsz1zmainz17-htm)   
+|  [](http://www.bbbonline.org/cks.asp?id=1060307151215)   
+[](http://www.1stinvideomusicworld.com/blog/your-electronic-warehouse-ranks-among-the-top-50-fastest-growing-e-retailers/) |  []()  
+---|---|---|---|---|---  
+  
+
+
+Sign Up For the Hottest Deals
+
+  * [Optoma HD73 High Definition Home Theater Projector](http://www.4electronicwarehouse.com/products/optoma/hd73.html)
+  * [Optoma HD70 High Definition Home Theater Projector](http://www.4electronicwarehouse.com/products/optoma/hd70.html)
+  * [Niles Audio SI-2125](http://www.4electronicwarehouse.com/products/niles/si-2125.html)
+  * [Niles Audio SI-1230](http://www.4electronicwarehouse.com/products/niles/si-1230.html)
+  * [Monster MCL MXFST](http://www.4electronicwarehouse.com/products/monster/mcl-mxfst.html)
+  * [Monster CableLinks™ Single Adapters](http://www.4electronicwarehouse.com/products/monster/mcl-mfst.html)
+  * [Monster M850 High Performance Subwoofer Cable](http://www.4electronicwarehouse.com/products/monster/m850-sw.html)
+  * [Breathe Audio BA-200 Pulse 200 Watt Auxilary Amplifier](http://www.4electronicwarehouse.com/products/breatheaudio/ba-200.html)
+  * [Bose FreeSpace 51](http://www.4electronicwarehouse.com/products/bose/freespace51.html)
+  * [Bose 251](http://www.4electronicwarehouse.com/products/bose/251.html)
+  * [BES B.E.S 3/8" Carbide/Masonry Bellhanger's Bit](http://www.4electronicwarehouse.com/products/bes-manufacturering/bellc3836.html)
+
+
