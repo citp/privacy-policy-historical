@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the theaffiliategod.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624124406id_/http%3A//www.theaffiliategod.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theaffiliategod.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221055851id_/http%3A//www.theaffiliategod.com/privacy.html) for the most accurate reproduction.*
 
 # The Affiliate God - Privacy
 
-**Pricvacy Statement**   (last updated November 13, 2006) 
+The Affiliate God's Privacy Policy  (last updated November 13, 2006) 
 
 * * *
 
 We have created this Privacy Policy to demonstrate our firm commitment to privacy and security. This Privacy Policy describes how our company collects information from all end users of our Internet services (the "Services") those who access some of our Services but do not have accounts ("Visitors") as well as those who may purchase Products and/or pay a monthly service fee to subscribe to the Service ("Members") what we do with the information we collect, and the choices Visitors and Members have concerning the collection and use of such info. We request that you read this Privacy Policy carefully. 
 
-If you have questions or concerns regarding this statement, you may contact us [here](https://web.archive.org/web/20070624124406id_/http%3A//www.theaffiliategod.com/Contact_Us.html).
+If you have questions or concerns regarding this statement, you should first contact us on our [FAQ page](https://web.archive.org/web/20071221055851id_/http%3A//www.theaffiliategod.com/faq.html) after you have read through the FAQ questions.
 
 **Personal Information Our Company Collects and How It Is Used**
 
@@ -46,6 +46,6 @@ YOU MUST BE EIGHTEEN (18) YEARS OR OLDER TO ACCESS THIS WEB SITE. IF YOU ARE UND
 **Revisions to This Policy:** Our company reserves the right to revise, amend, or modify this policy, our Terms Of Service agreement, and our other policies and agreements at any time and in any manner, by updating this posting. 
 
 Website maintained by:  
-MP Marketing, Inc  
+TheAffiliateGod.com  
 3712 N. Broadway, Ste 403  
 Chicago, IL, 60613
