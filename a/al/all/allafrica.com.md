@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allafrica.com privacy policy that was archived on 2007-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070606215810id_/http%3A//allafrica.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allafrica.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221222336id_/http%3A//allafrica.com/privacy.html) for the most accurate reproduction.*
 
 # allAfrica.com: Privacy Policy
 
@@ -32,7 +32,9 @@ AllAfrica will _never_ give your email address to anyone else. We will only send
 
 Third Party Ad Serving and Sites
 
-AllAfrica works with carefully chosen third parties to serve ads to this site, including Advertising.com and Google. In the course of serving those advertisements, Advertising.com collects what is known as "Click Stream Data," which is anonymous and includes a web user's IP address, web pages viewed, date and time of access and responses by a web surfer to an advertisement. If you would like more information about this practice, please read Advertising.com's [Privacy Statement](http://www.advertising.com/privacy_policy.htm).
+AllAfrica works with carefully chosen third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [_visit the Network Advertising Initiative (NAI) opt-out page_](http://networkadvertising.org/consumer/opt_out.asp). 
+
+Advertising.com collects what is known as "Click Stream Data," which is anonymous and includes a web user's IP address, web pages viewed, date and time of access and responses by a web surfer to an advertisement. For more information about the companies whose ads appear on this site, read the privacy statements for [_advertising.com_](http://www.advertising.com/privacy_policy.php), [_Google_](http://www.google.com/privacypolicy.html), [_Casale Media_](http://casalemedia.com/privacy.html), [_Value Click_](https://www.valueclickmedia.com/privacy.shtml) and [_Tacoda_](http://www.tacoda.com/notice/privacy_policy.html). 
 
 Some of our pages contain links to other sites that may have information practices different from ours. AllAfrica has no control over information that is submitted to, or collected by, these third parties. You should consult the privacy notices of any site you choose to visit.
 
