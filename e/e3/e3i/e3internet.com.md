@@ -1,20 +1,9 @@
-> *The following text is extracted and transformed from the e3internet.com privacy policy that was archived on 2007-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070604163753id_/http%3A//www.e3internet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e3internet.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221033351id_/http%3A//www.e3internet.com/privacy) for the most accurate reproduction.*
 
-# Privacy Statement | e3internet consultancy
+# Privacy
 
-#### Privacy Policy
-
-At e3internet, we place the greatest value on the privacy, security and comfort of all our visitors and customers. 
-
-#### Company
-
-#### Recent news.
-
-  *   *   *   *   *   * **[Archives](http://www.e3internet.com/news/archives)**
-
-
-
-We sometimes use cookies to track how people arrive at e3internet, your shopping cart contents and other details of site usage. This data is all stored in one single tiny cookie, and contains nothing that personally identifies you as an individual in any way.
+We sometimes use cookies to track how people arrive at e3internet, your shopping cart contents and other details of site usage. This data is all stored in one single tiny cookie, and contains  
+nothing that personally identifies you as an individual in any way.
 
 Furthermore, we only record even this general and non-specific information if you actively choose to contact us through the site.
 
