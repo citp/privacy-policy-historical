@@ -1,102 +1,103 @@
-> *The following text is extracted and transformed from the itv.com privacy policy that was archived on 2007-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070512022311id_/http%3A//www.itv.com/page.asp%3Fpartid%3D218) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itv.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221030035id_/http%3A//www.itv.com/Privacypolicy) for the most accurate reproduction.*
 
-# ITV Privacy Policy
+# ITV Privacy policy
 
-**1\. ONLINE PRIVACY PRACTICES**
+**Introduction**
 
-1.1 We at ITV and our affiliated companies (“we, us, our”) are keen to strike a fair balance between your personal privacy and ensuring you obtain full value from the internet and other products and services we may be able to offer to you. The [www.itv.com](http://www.itv.com/) website (“the Site”) links to many different sites connected with ITV programming some of which have their own terms and conditions and privacy policies of which you should be aware and accept prior to accessing and using the relevant site.
+Any reference to " **we** ", " **us** " and " **our** " is to ITV Consumer Limited. Please see below for our contact details. Any reference to “ **you** ” or “ **your** ”, means you as user of the <http://www.itv.com/> (the " **Website** "). 
 
-1.2 We request that all users read and accept the [terms and conditions](http://www.itv.com/page.asp?partid=8) and this privacy policy. If you do not agree to the terms and conditions or the privacy policy applicable to this Site or any Site managed by us that links from the Site you must cease using the Site or the one linked from it that is within our control immediately.
+ITV Consumer Limited is committed to protecting your privacy. This page sets out our privacy policy and explains how your personal information (meaning any information about you which is personally identifiable like your name, address, telephone number or email address, generally referred to throughout this policy as " **personal information** ") will be used.
 
-1.3 We are fully registered under the Data Protection Act 1998 (“the Act”) and to ensure we comply with all protection the Act affords to you we have set out below how we intend to utilise the information provided by you when you register via the Site homepage. Further information on the Act is on the internet at [www.dataprotection.gov.uk](http://www.dataprotection.gov.uk/).
+This privacy policy only applies to the collection of your personal information by us and the use of that personal information by us and those whom we authorise. It does not cover third party websites to which we provide links, nor does it cover advertisers. They may have their own privacy policies and/or terms and conditions of use. 
 
-1.4 When you access the site, we ask you to give us your name, email address and other personal information that will be needed to supply the services to you. You can ‘unsubscribe’ at any time. We may use your personal data for contacting you via the phone or e-mail for support, notification of new products or new versions, general correspondence regarding the Site and correspondence which may relate you. If you would rather not receive future marketing emails from us once you have registered please inform us by e-mail at [adminprivacy@itv.com](mailto:adminprivacy@itv.com)
+By accessing and continuing to use the website, you accept the terms of this privacy policy. Please note that we may update and amend the privacy policy from time to time and any changes will be posted on the Website. If you do not agree with any of our privacy policy then you should not use the Website. 
 
-1.5 The information you provide will be kept confidential and will only be passed on to external companies if you have opted in to permit ITV to give your contact information to selected companies, business partners, sponsors and advertisers. If you opt out of permitting ITV to pass on your information, it will be used only to support your customer relationship with us (i.e. e-mails only from ITV) and to provide the specified service. We do not disclose or sell your information outside our corporate group except if we sell the whole or part of our business.
+**What information do we hold about you and how is it collected?**
 
-1.6 Our Site may not always be available and the material on it may not necessarily reflect our views, in particular message rooms or bulletin boards which may be accessible via the Site or those accessible from it are not private and all users are responsible for content submitted by them. All users must also agree not to tamper with the site and respect our intellectual property rights and those of our licensors and by accepting this privacy policy and the terms and conditions you hereby agree to do so. The Site may also have links to other websites over which we have no control
+When you register for various services on the website or when you otherwise update your registration details, personal information is collected by us. You may also be asked to provide personal information when buying or subscribing for content from us via the website.
 
-1.7 In accordance with statutory obligations we only collect personal information from you which is necessary for us to supply the services to you. You have the option at any time to request that we:
+In addition, in common with many other online services, we may use "cookies" or other devices to store and sometimes track information about you (see section entitled "Cookies" below).
 
-1.7.1 remove details from our database;
+We may also collect personal information: when you make a complaint or enquiry or provide other feedback to us; when you submit an entry to a competition or prize draw; when you request to be sent communications such as updates or newsletters; in monitoring your communications sent via and use of the website to ensure and check compliance with the [Terms of Use](http://www.itv.com/Termsandconditions/default.html); and/or otherwise as required by law; and when you disclose your personal information to us or otherwise through the website at any other point. 
 
-1.7.2 update the information we hold about you or your child;
+**How do we use information about you?**
 
-1.7.3 request a copy of the information that we hold subject to the payment of a request fee; or
+We use information about you to help us provide you with a more personalised service which is tailored to suit your needs. 
 
-1.7.4 stop receiving data. 
+Your personal information may be used by us to: 
 
-1.8 All you need to do is write to the address below quoting “ITV Website” and in each case quote your name and leave a telephone number so that we may contact you. We will take reasonable steps to verify your identity.
+\- monitor, develop and improve the website, services and your experience; 
 
-2\. PARENTS GUIDE FOR CHILDREN 
+\- assist in and administer the provision of services to you; 
 
-2.1 We are concerned that you as a parent or guardian are happy with your child using the Site. 
+\- process and deal with any complaints or enquiries made by or about you; 
 
-2.2 Our Site is open to every one of all ages and is free to access and we want your child to enjoy those aspects of the Site and those sites which are linked from which are suitable for children and find it a rewarding and interactive experience which is safe for them to use. Those sites dedicated to children are necessarily specific and are subject to terms and conditions which govern how they are used and ensures that the users comply with the terms incorporated by us for their protection and ours. 
+\- investigate any suspected breach of the [Terms of Use](http://www.itv.com/Termsandconditions/default.html) or the breach of other terms and conditions otherwise relating to you and to monitor compliance including by way of checking postings or submissions to the website, retaining forum or chat room exchanges and using keyword triggers to investigate usage that may be inappropriate; and/or 
 
-2.3 This explains why we ask your child, if he or she is under 18 years of age, to seek your consent to them using this Site and those dedicated to children accessible from it and that you register on their behalf wherever possible, as the [terms and conditions](http://www.itv.com/page.asp?partid=8) and this privacy policy form an important contract between you and us. 
+\- where you are a prize winner, to administer the competition prize and to publish or otherwise make available a list of prize winners. 
 
-2.4 We also recommend that you and your child keep usernames and passwords used within the Site and those connected to it secret from third parties. 
+Where and only where requested by you we will: 
 
-3\. TRADING FROM OUR SITE 
+\- send you and keep you updated with information by email, telephone (including SMS) or mail about existing and new services and special offers from us; and/or 
 
-3.1 Making sure you can buy safely on line is a priority for us and certain links accessible from our Site offer goods online. We have made strenuous efforts to ensure that security is one of our highest priorities and we have devoted a great deal of effort to ensure that our online security measures help to safeguard your information. Where possible we use industry-standard Secure Sockets Layer (SSL) technology to allow for the encryption of: 
+\- send you information by email, telephone or mail about related products or services of selected third parties that may be of interest to you; and 
 
-3.1.1 potentially sensitive information such as your name and address; and 3.1.2 critically-sensitive information like your credit card number. 
+To opt-out of receiving any such communications, you can use the facility contained in any such communication or you can email us at the email address below or write to us by mail to the address below stating that you do not wish to receive further communications from us. 
 
-3.2 If concerned only about the privacy of your credit card information we encourage you to use an alternative payment method if available. 
+**Amending your information**
 
-3.3 We hope that once you understand the measures we take to help ensure secure transactions and privacy, and the steps you can take yourself, you will be as happy about the safety of your online transaction and order information as we are.
+Where you register your details for certain services (such as our weekly newsletter) and open a user account that you can then use to access and log on to use those services. You may change or update your user name and password or other details at any time via your account. You must make sure that you update details as soon as possible with any and all relevant changes. 
 
-4\. COOKIES 
+**Cookies and other such devices**
 
-4.1 A cookie is a text-only string of information that a website transfers to the cookie file of the browser on your computer's hard disk so that the website can remember who you are. 
+A cookie is a small amount of data sent from our server and stored on your computer's hard drive. 
 
-4.2 A cookie will typically contain the name of the domain from which the cookie has come, the "lifetime" of the cookie, and a value, usually a randomly generated unique number. 
+We use cookies and other such devices to compile anonymous, aggregated statistics that allow us to understand how users use our Website and to help us improve the structure of our website (we cannot identify you personally in this way). We use cookies and other such devices to allow us to understand who has seen which pages and advertisements on the website, to determine how frequently particular such pages and advertisements are visited, to determine the most popular areas of the website and generally in order to monitor usage of the website. 
 
-4.3 Two types of cookies are used on this website: 
+We may also use cookies and other such devices: 
 
-4.3.1 Session Cookies: which are temporary cookies that remain in the cookie file of your browser until you leave the site,
+\- to allow you to carry information across pages of our website and avoid having to re-enter information;
 
-4.3.2 Persistent cookies: which remain in the cookie file of your browser for much longer (though how long will depend on the lifetime of the specific cookie). 
+\- within registration to allow you to access stored information; 
 
-4.4 Cookies can help a website to arrange content to match your preferred interests more quickly. Most major websites use cookies. Cookies cannot be used by themselves to identify you. 
+\- to help us recognise you as a unique visitor when you return to our website and to allow us to tailor content or advertisements to match your preferred interests or to avoid showing you the same adverts repeatedly; 
 
-5\. HOW WE USE COOKIES ON OUR SITE AND WHAT INFORMATION WE COLLECT. 
+\- within research surveys to ensure you are not invited to complete a questionnaire too often or after you have already done so; and/or 
 
-5.1 Session Cookies 
+\- to gather aggregate non personal data to help us improve the services to you. We will also use aggregate non personal data to track the success of any advertising campaigns on our website and/or to provide to third parties anonymised demographic data provided by you to target advertising more appropriately. 
 
-5.1.1 To allow you to carry information across pages of our site and avoid having to re-enter information.
+Most internet browsers are automatically set up to accept cookies, but you can set your browser to refuse a cookie or ask your browser to show you where a cookie has been set up. Certain services are only activated by the presence of a cookie and, if you choose to refuse cookies, particular features of this Website may not be available to you. 
 
-5.1.2 To allow you to maintain a shopping basket. 
+Find out how to disable/enable cookies by clicking on the “Manage Cookies” section of the Interactive Advertising Bureau website on the following link <http://www.allaboutcookies.org/>
 
-5.1.3 Within registration to allow you to access stored information. 
+**Will we share your information with third parties?**
 
-5.2 Persistent Cookies 
+We may pass your information to other parties as follows: 
 
-5.2.1 To help us recognise you as a unique visitor (just a number) when you return to our website and to allow us to tailor content or advertisements to match your preferred interests or to avoid showing you the same adverts repeatedly.
+\- where relevant, your user name and information you voluntarily provide in your profile that you register with us will be published on areas of the website such as forums, chat rooms or pages where user submissions are displayed and this will be the identity by which you are known on those areas. Where other users wish to chat or otherwise contact you, they will be able to identify you by your user name and any other information you may yourself disclose via the website; 
 
-5.2.2 To compile anonymous, aggregated statistics that allow us to understand how users use our site and to help us improve the structure of our website. We cannot identify you personally in this way.
+\- we may pass your personal information to our employees, contractors, suppliers and/or agents to administer the services provided to you by us now or in the future; 
 
-5.2.3 Within research surveys to ensure you are not invited to complete a questionnaire too often or after you have already done so.
+\- If you call our customer care call centre, we may pass your personal information to our call centre to allow them to deal with your call more efficiently; 
 
-6\. USE OF WEB BEACONS 
+\- some general statistical information about the website user base, sales patterns, traffic volumes and related matters may be passed on to reputable third parties but these details will not include information personally identifying you; and 
 
-6.1 Some of our Web pages may contain electronic images known as Web beacons (sometimes known as clear gifs) that allow us to count users who have visited these pages. Web beacons collect only limited information which including a cookie number, time and date of a page view, and a description of the page on which the Web beacon resides. We may also carry web beacons placed by third party advertisers. These beacons do not carry any personally identifiable information and are only used to track the effectiveness of a particular campaign. 
+\- we may disclose your personal information to the police, regulatory bodies or legal advisers in connection with any alleged criminal offence or suspected breach of the [Terms of Use](http://www.itv.com/Termsandconditions/default.html) and or the breach of other terms and conditions otherwise relating to you or otherwise where required by law and we will co-operate with any law enforcement authorities or court order requesting or directing us to disclose the identity of or locate anyone breaching these [Terms of Use](http://www.itv.com/Termsandconditions/default.html) or otherwise for the prevention or detection of crime or the apprehension or prosecution of offenders. 
 
-7\. DISABLING/ENABLING COOKIES 
+We do not pass or sell your personal information to third persons for any other purpose than those set out above. Any marketing referred to in the section entitled "How do we use information about you?" is conducted by us on behalf of third parties and they do not have any access to your data unless you yourself choose to contact them. 
 
-7.1 You have the ability to accept or decline cookies by modifying the settings in your browser. However, you may not be able to use all the interactive features of our site if cookies are disabled. 
+Always think carefully before disclosing your personal information or other information to other users of the website or otherwise posting your personal information on the website. It is important that you are aware that any of your personal information or other information which you disclose to another user may then be disclosed on the website by that user. We have no responsibility or control over the contents of communications made between users of the website. 
 
-7.2 Find out how to disable/enable cookies by clicking on the “Manage Cookies” section of the Interactive Advertising Bureau UK website on the following link http://www.allaboutcookies.org 
+**Security and how do we protect your information?**
 
-8\. FURTHER INFORMATION ON DATA PROTECTION AND PERSONAL PRIVACY 
+We endeavour to take all reasonable steps to protect your personal information. Where possible we use industry-standard technology to allow for the encryption of sensitive information. 
 
-8.1 For further information from us on data protection and privacy contact us via post sent to the following address: 
+**Changes to our privacy policy**
 
-ITV Online Content Manager, ITV Network Limited   
-ITV Online, 200 Gray’s Inn Road   
-London, WC1X 8HF   
-Information on the Data Protection Act 1998 is also on the Information Commissioner’s web site at [www.dataprotection.gov.uk](http://www.dataprotection.gov.uk/)
+This privacy policy was last updated on 26th April 2007. 
 
-8.2 ITV Network Ltd is a company registered in England. Registered number 00603893 
+**Contact details**
+
+You can email us with any questions, queries or complaints at [broadbandhelp@itv.com](mailto:broadbandhelp@itv.com)
+
+ITV Consumer Limited, a company registered in England & Wales with registered office at 200 Gray's Inn Road, London WC1X 8HF. Company No. 2937518. VAT Registration: 197 0041 67. Data Protection Registration Number: Z7505566.
