@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalpacific.com.au privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608065657id_/http%3A//www.digitalpacific.com.au/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalpacific.com.au privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221131052id_/http%3A//www.digitalpacific.com.au/privacy.php) for the most accurate reproduction.*
 
 # Digital Pacific Web Hosting
 
@@ -10,31 +10,31 @@
   
 **»**   | 
 
-[Hosted Sites](https://web.archive.org/web/20070608065657id_/http%3A//www.digitalpacific.com.au/sites.php)  
+[Hosted Sites](https://web.archive.org/web/20071221131052id_/http%3A//www.digitalpacific.com.au/sites.php)  
   
 **»**   | 
 
-[Domain Names](https://web.archive.org/web/20070608065657id_/http%3A//www.digitalpacific.com.au/whois/whois.php)  
+[Domain Names](https://web.archive.org/web/20071221131052id_/http%3A//www.digitalpacific.com.au/whoistwo/whois.php)  
   
 **»**   | 
 
-[Free web applications](https://web.archive.org/web/20070608065657id_/http%3A//www.digitalpacific.com.au/powertools.php)  
+[Free web applications](https://web.archive.org/web/20071221131052id_/http%3A//www.digitalpacific.com.au/powertools.php)  
   
 **»**   | 
 
-[Partner Program ](https://web.archive.org/web/20070608065657id_/http%3A//www.digitalpacific.com.au/partnerp.php)  
+[Partner Program ](https://web.archive.org/web/20071221131052id_/http%3A//www.digitalpacific.com.au/partnerp.php)  
   
 **»**   | 
 
-[Support](https://web.archive.org/web/20070608065657id_/http%3A//www.digitalpacific.com.au/support.php)  
+[Support](https://web.archive.org/web/20071221131052id_/http%3A//www.digitalpacific.com.au/support.php)  
   
 **»**   | 
 
-[Order now](https://web.archive.org/web/20070608065657id_/http%3A//www.digitalpacific.com.au/secure/order)  
+[Order now](https://web.archive.org/web/20071221131052id_/http%3A//www.digitalpacific.com.au/secure/order)  
   
 **»**   | 
 
-[Contact](https://web.archive.org/web/20070608065657id_/http%3A//www.digitalpacific.com.au/contact.php)  
+[Contact](https://web.archive.org/web/20071221131052id_/http%3A//www.digitalpacific.com.au/contact.php)  
   
   
   
