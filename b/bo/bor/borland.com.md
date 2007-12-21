@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the borland.com privacy policy that was archived on 2007-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070628140354id_/http%3A//www.borland.com/us/website/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the borland.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221210827id_/http%3A//www.borland.com/us/website/privacy.html) for the most accurate reproduction.*
 
 # Borland Privacy Policy
 
