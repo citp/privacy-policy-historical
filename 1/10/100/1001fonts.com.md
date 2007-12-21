@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the 1001fonts.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625123926id_/http%3A//www.1001fonts.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1001fonts.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221133935id_/http%3A//www.1001fonts.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy @ 1001 Fonts .com
 
 1001fonts.com is commited to protecting the privacy of Internet users and does not collect any personally identifiable information from its website visitors such as name, address, phone number, or e-mail address. However, 1001fonts.com does obtain some types of non-personally identifiable information such as your browser type, or the system platform of your computer (Macintosh or Windows, for example). The information collected by 1001fonts.com is used for statistical purposes.
 
-The email addresses collected from members of 1001fonts.com are not given away to anyone under any circumstances. Email addresses of members are published within a public accessible members' profile page, which is linked to from all messageboard posts, newsboard posts, and fonts posted by the that member. The published email addresses are posted in a format not readable by spambots.
+The email addresses collected from members of 1001fonts.com are published within a public accessible members' profile page, which is linked to from all messageboard posts, newsboard posts, and fonts posted by the that member. The published email addresses are posted in a format not readable by spambots. For the next relaunch I hope to implement an opt-in option for making email adresses visible to the public and hiding them by default.
 
 1001fonts.com uses cookies to enable user sessions for logged in members. The cookies do not track member activity in any way, they are purely used for identification purposes.
 
 In the course of serving advertisements to this site, our third-party advertisers may place or recognize a unique cookie on your browser.
 
-We use MaxOnline and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [please click here](http://www.maxonline.com/privacy_policy/index.php).
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.
 
 If you have any additional questions about 1001fonts.com's dedication to consumer privacy, please contact us at [privacy@1001fonts.com](mailto:privacy@1001fonts.com).
 
