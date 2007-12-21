@@ -1,63 +1,117 @@
-> *The following text is extracted and transformed from the revolvermag.com privacy policy that was archived on 2007-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070628172240id_/http%3A//www.revolvermag.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revolvermag.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221103831id_/http%3A//www.revolvermag.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Revolver Magazine | Privacy Policy
+# Revolver Magazine | Privacy Policy Test
 
-[](https://web.archive.org/web/20070628172240id_/http%3A//features/index.html) |   
+[](https://web.archive.org/web/20071221103831id_/http%3A//features/index.html) |   
 ---|---  
   
-Future US, Inc. ("Future") believes that you should control the dissemination of the personally identifiable information that you provide when using the REVOLVERmag.com web site ("the Site"). Please review this policy carefully to understand how we will treat the personally identifiable information that you give to us.
+Last Updated on October 1, 2007
 
-Your use of this Site in any fashion constitutes your agreement to the terms of Future's Privacy Policy and our Terms of Use Please review this page periodically. If we decide to change our Privacy Policy, we will post those changes on this page so that you are always aware of what personally identifiable information we collect, how we use it and under what circumstances we disclose it. Your continued use of the Site constitutes your agreement to any such changes.
+At Future US, Inc., a magazine, disc media and website publisher, we are interested in protecting your privacy. But sometimes we do need information to understand how to make our properties more interesting, more specialized and more successful, and this statement of privacy explains data collection and use in those situations. Please read the complete privacy statement. 
 
-**What personally identifiable information is collected on this Site?  
-** You do not have to provide any personally identifiable information to use the Site. However, when you use the Site to subscribe to our publications, to enter contests, to post messages on the Site, or to receive our retailer promo pack, Future collects personally identifiable information as indicated in each such area of the Site, including your name, address, email address, zip code, phone number, and gender. Future may also collect data related to the areas of Future that you visit and how often you visit those areas.
+**Non US Visitors:**
 
-Future will make an effort to include a link to the Privacy Policy whenever we ask you for additional personally identifiable information.
+Our privacy policy is intended to meet the laws and requirements of the United States. If you are visiting from outside the United States any information you provide will be treated in accordance with the laws of the United States or, if the law in jurisdiction does not permit you to access our website, then you must not maintain access to it. 
 
-**How is my personally identifiable information used?  
-** We use the personally identifiable information on our subscription form to ensure proper delivery of your issues of REVOLVER, and your e-mail or mail-in contact information in connection with our contests, sweepstakes and other promotions in order to ensure the validity of your entries, to notify you if you are a winner, to send information about REVOLVER, other Future publications and other Site features prizes and offers via email (unless you have opted out of receiving these types of communications), to send you advertising from selected Future partners and advertisers (unless you have opted out of receiving these types of communications) and to ensure that we comply with applicable laws.
+**Collecting your Personal Information:**
 
-We may also aggregate the information we collect to develop certain summary reports for our partners and/or advertisers. We provide this information to assist our partners and/or advertisers in determining how to promote their products and services. In so doing, we do not reveal personally identifiable information or disclose specifically who saw or clicked on their advertisements or other links.
+We will ask you when we need information that personally identifies you (that is, your first and last name; your home or business address; your e-mail address; your telephone number; your gender) or allows us to contact you. Generally, this information is requested when you are asked to register before entering a contest, ordering e-mail newsletters, or if you subscribe to one of our magazines or properties, or elect to participate in a forum and/or a survey. Personal information collected by any of our websites often is limited to e-mail address, language, country or location, but may include other information when needed to provide a service to you. 
 
-**Who has access to my personally identifiable information?  
-** Only Future has ongoing access to your personally identifiable information.Future works hard to ensure that your information is treated securely and in accordance with this Privacy Policy. Unfortunately, no data transmission over the Internet can be guaranteed secure. While we takes steps to protect your personally identifiable information, we cannot guarantee the security of any information you transmit to us or from the Site, and you use the Site at your own risk.
+For example: If you choose to subscribe to a magazine or e-mail newsletter, we may request personal information such as: name, address, telephone number, and shipping information. 
 
-**What personally identifiable information is disclosed to third parties?  
-** Future may share the following personally identifiable information with its advertisers, sponsors, and partners in the following circumstances:
+**Use of your Personal Information:**
 
-  * Information you provide when entering into a contest, sweepstakes or promotion sponsored by the Site and/or one of our advertisers/partners/sponsors.
-  * Information you provide when you register to receive goods or services from Future or from one of our advertisers/partners/sponsors.
-  * Data related to the areas of the Site that you visit and how often you visit those areas.
+We may use your personal information for the following primary purposes:
 
-
-
-Future does not disclose your personally identifiable information to any third party except in special situations described above, and as to comply with the law or administer the Site. Other than as described above, Future will only share with third party partners, sponsors, and advertisers the information you have provided to us in aggregate form — that is, as a summary report showing, for instance, how many residents of a specific state subscribed to our publication or participated in a contest.
-
-Responses to Particular Offers. Unless you have opted out of receiving special offers or emails from selected third parties, we may provide a report to an advertiser or partner which tells them who responded to a particular offer. For example, we might send you an email which offers you a discount on a particular product. If you click on that e-mail or accept an offer or discount contained therein, we may provide the advertiser with the personally identifiable information necessary to provide you with that discount.
-
-Administering the Site and Compliance with Law: Future may disclose your personally identifiable information if we believe in good faith that we are required to do so in order to comply with applicable law, a subpoena, or other legal process. Future may also disclose information when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating our Terms of Use, or to protect the safety of our users or the public. In addition, Future may disclose or access personally identifiable information for administrative and other purposes that we believe are necessary to develop, maintain and improve our products and services.
-
-**How do I opt out of or modify the collection, disclosure and distribution of personally identifiable information?  
-** You can always choose whether or not to disclose personally identifiable information and that choice will not prevent you from using the Site. Please note, however, that you must provide some personally identifiable information in order to subscribe to REVOLVER, to enter any of the Site contests, promotions or sweepstakes, to post messages on the Site, or to receive our retailer promo pack
-
-You can choose at anytime to opt out of receiving emails from Future or from having your personally identifiable information shared in any fashion with selected companies. If you wish to do so send an email to webmaster@REVOLVERmag.com. If you send us a message with the phrase "remove" in the subject line we will not disclose your personally identifiable information or send you emails or other offers or promotions. However, Future may continue to use your personally identifiable information for internal purposes, to conduct contests, sweepstakes and promotions, to enhance your user experience or as necessary to administer the Site or comply with applicable law.
-
-**What happens when I go to linked sites?  
-** When you are on Future, you may be directed to other sites that are beyond our control. For example, if you "click" on a sponsor’s logo, the "click" may take you off the Future Site. These other sites may independently collect data, solicit personally identifiable information, or send their own cookies to you. Future is not responsible for any use of the information including click-stream data that you may create when using such 3rd party sites.
-
-**What is Future's policy regarding children's privacy?  
-** Future is committed to the safety of our children. Children under 13 may not register or participate in any contest, sweepstakes or promotion on the Site.. The Site is neither directed to nor intended for children under 13. Any child under 13 who chooses to use the Site should always ask a parent for permission before sending any information to the Site. In addition:
-
-  * Future will not request or knowingly collect from a child any information online that can be traced to the child, such as an email address, name or information about the child's family;
-  * Future will not knowingly use personal information from children under age 13 for any marketing or promotional purposes; and,
-  * Future will not send any direct email offers to users who indicate they are under the age of 13.
+  * To help us create and deliver content most relevant to you. 
+  * To alert you to special offers, updated information and other services. 
+  * To help us determine if any modifications need to be made to our publications or with respect to our subscriptions. 
+  * To contact you regarding participation in a reader survey. 
 
 
 
-**How are cookies used by Future?  
-** Future assigns a random number to each user for anonymously tracking traffic patterns. This random number is kept in a file on your computer called a "cookie." Cookies allow Future to keep track of how often users are visiting specific areas of our Site - or simply how many times a user visits our Site each month.
+We may occasionally hire other companies to provide limited services on our behalf, including packaging, mailing and delivering purchases, answering customer questions about products or services, sending postal mail and processing event registration. We will only provide those companies the information they need to deliver the service, and they are prohibited from using that information for any other purpose. 
 
-Future does not require users to accept cookies in order to enjoy the Site. You can set your browser to reject cookies, or to notify you when Future or any other company sends you a cookie. If you have questions about how to change your browser's "cookie" settings, you should contact the software manufacturer. You should be aware, however, that many areas of Future will be significantly slower, or may not function at all, if cookies are disabled.
+We also will occasionally share this information with third parties so that you may be informed of matters, services or products of interest to readers of our magazines. 
 
-**Who can I contact with questions regarding this policy or my personally identifiable information?  
-** Questions regarding this statement or the privacy policies or procedures of this Site should be directed first to webmaster@REVOLVERmag.com.
+We will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on us; (b) protect and defend our rights or property; (c) act in urgent circumstances to protect the personal safety of users of any of our websites, or the public; and (d) comply with negotiated agreements in the event of a merger or sale of any of our products. 
+
+**Control of your Personal Information:**
+
+When you register on one of our websites, or otherwise give us personal information, we will not share that information with third parties without your permission, other than for the limited exceptions already listed. It will only be used for the purposes stated above. 
+
+We will occasionally allow other companies to offer our customers information about their products and services. If you do not wish to receive any such mailings, you may send an e-mail to [webmaster@futureus.com](mailto:webmaster@futureus.com). 
+
+**Security of your Personal Information:**
+
+Future US, Inc., will use its best efforts to protect the security of your personal information and honor your choices for its intended use. 
+
+Your personal information is never shared outside the company without your permission, except under conditions explained above. 
+
+**Email Correspondence:**
+
+We may respond to email sent directly to us or through a online submission form. This information and emails would only be shared with a third party in connection with a court order, sale of the website(s) to a third party or to defend a legal claim. These emails would only rarely be used for one time correspondence with that user. These e-mails are kept internally for our own day to day business purposes. 
+
+**Special Notification with respect to Children's Privacy  
+(Users under the age of 13):**
+
+In response to concerns about protecting children's privacy online, Congress enacted the Children's Online Privacy Protection Act of 1998 ("COPPA"), which sets forth rules and procedures governing the ways in which Web sites may collect, use and disclose any personal information for children under the age of 13. In accordance with our policy and COPPA regulations, we DO NOT: 
+
+  * Request or knowingly collect personally identifiable online or offline contact information from users under 13 years of age; 
+  * Knowingly use or share personal information from users under 13 years of age with third parties; 
+  * Give children the ability to publicly post or otherwise distribute personally identifiable contact information; 
+  * Entice children with the prospect of a special game, prize or other activity to divulge more information than is needed to participate in the activity. 
+
+
+
+**Parental Rights:**
+
+Except upon our receipt from a parent or guardian, we DO NOT collect information from children under 13\. We are required by COPPA to post parental rights concerning removal of this information. 
+
+A parent or guardian may confirm, correct or have deleted the child's personal information; discontinue further use of the child's information and/or communication with the child; and/or revoke his or her earlier consent to collect and use the child's information. To do so, please contact us at [webmaster@futureus.com](mailto:webmaster@futureus.com) and we will review or update your child's information as appropriate. Please be sure to include in your email message the information you want changed or deleted. 
+
+**Message Receipt & COPPA:**
+
+Our receipt of messages is set up to only accept registrations from ages 13 and up. Any users under 13 who try to register are screened via a online age check that uses cookies. Users under 13 who wish to register must submit a signed parental consent form to do so. The parent will then decide what information to release on the parental form which may include address, phone number & email address. We maintain this information on file for COPPA compliance and do not share this information with third parties. 
+
+With proper identification parents can remove their under 13 child from participation in our message board (See Parental Rights above). 
+
+**Use of Cookies:**
+
+To ensure we are publishing content customers need and want, we may elect to collect aggregated site-visitation statistics using cookies. We do not track individual's use of the site. 
+
+**Third Party Advertising:**
+
+We use third-party advertising companies to serve ads when you visit certain of our websites. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here: 
+
+[ http://www.networkadvertising.org/optout_nonppii.asp](http://www.networkadvertising.org/optout_nonppii.asp)
+
+Future US does not provide any personal information to a advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad. Downloads or other content interacted with from third party advertisers is subject to the advertiser's privacy policies, not this one. 
+
+Future US lets other companies that show advertisements on some of our pages set and access their cookies on your computer. Other companies. use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to Future US's cookies. 
+
+**Third Party Cookies & IP Addresses:**
+
+In the course of serving advertisements to this site, our third-party ad server may place or recognize a unique "cookie" on your browser. 
+
+Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies, once we have given permission for them to set cookies for advertising. 
+
+Most browsers are automatically set to accept cookies. You can disable cookies or set your browser to alert you when cookies are being sent. However, some areas will not function properly if you do so. There are many sources for additional information about Internet cookies, and we encourage anyone concerned about the use of cookies to do more research on the topic so you can make an informed decision about accepting them from any site. As technology advances and cookies provide more functionality, we expect to utilize them in different ways. 
+
+_IP Address_. An Internet Protocol (IP) address is a unique string of numbers that is assigned to your computer by your Internet Service Provider. Web servers automatically identify your computer by its IP address. We will use your IP address to help diagnose problems with our server and to administer our site. Your IP address also may be used to gather broad demographic information. The IP address is not tied to any personally identifiable information 
+
+If you have questions regarding this statement, you should contact [webmaster@futureus.com](mailto:webmasterfutureus.com). 
+
+**Changes to this Statement:**
+
+We will occasionally update this privacy statement. When we do, we will also revise the "last updated" date at the top of the privacy statement. For material changes to this Statement, we will notify you by placing prominent notice on the Web site. 
+
+**Contact Information:**
+
+We welcome your comments regarding this Statement of Privacy, please contact us by e-mail, or postal mail at 
+
+Future US, Inc.   
+Attention: Webmaster   
+4000 Shoreline Court, Suite 400   
+South San Francisco, CA 94080   
+
