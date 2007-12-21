@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the parliamentlive.tv privacy policy that was archived on 2007-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070513220927id_/http%3A//www.parliament.uk/site_information/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parliamentlive.tv privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221184043id_/http%3A//www.parliament.uk/site_information/privacy_policy.cfm) for the most accurate reproduction.*
 
 # UK Parliament - Privacy Policy
 
 The Corporate Officers of the House of Commons and House of Lords are Data Controllers under the Data Protection Act 1998.
 
-Where you provide personal information to the Houses of Parliament, for example when you send a feedback form, it will be used only for the services you requested and as specified on the relevant pages of the site. Copies of responses sent to feedback questions are kept by the Houses of Parliament for the purposes of monitoring and providing responses only.
+Where you provide personal information to the Houses of Parliament, for example when you send a feedback form or participate in a web forum hosted on this site, it will be used only for the services you requested and as specified on the relevant pages of the site. Copies of responses sent to feedback questions are kept by the Houses of Parliament for the purposes of monitoring and providing responses only. Contributions to web forums hosted on this site will be retained for a period of up to 18 months following the closure of the particular discussion.
+
+Access to the personal data you provide will be securely controlled  and all processing will be undertaken in accordance with, and as permitted by, the requirements of the Data Protection Act 1998 (DPA).
+
+For the purposes of the Freedom of Information Act and the Environmental Information Regulations the House of Commons and House of Lords are Public Authorities and therefore the information they hold will fall within the scope of this legislation.
 
 The Houses of Parliament do not automatically capture or store personal data from visitors to the site, except to log the user's IP address and session information such as the duration of the visit to the site and the nature of the browser used. This information can not be used to identify individuals. It will be used only for administration of the system and in the compilation of statistics used by both Houses to assess the level of use of the site. 
 
