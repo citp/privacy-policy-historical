@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the nutrisystem.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629164028id_/http%3A//www.nutrisystem.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nutrisystem.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221015230id_/http%3A//www.nutrisystem.com/privacy) for the most accurate reproduction.*
 
 # NutriSystem® - Privacy Policy
 
 Privacy Policy
 
-At NutriSystem, we are committed to protecting your privacy. We use the information we collect about you to process orders and to provide a more personalized shopping experience. Please read on for more details about our privacy policy.
+At NutriSystem, we are committed to protecting your privacy, and will not share your information if you have asked us not to do so. Please read on for more details about our privacy policy.
 
 > [](http://www.truste.org/ivalidate.php?url=www.nutrisystem.com&sealid=101)TRUSTe Licensee
 >
->> NutriSystem, Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site [www.nutrisystem.com](http://www.nutrisystem.com/) (the “Site”). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+>> NutriSystem, Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site [www.nutrisystem.com ](http://www.nutrisystem.com/)(the “Site”). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 >> 
->> If you have questions or concerns regarding this statement, you should first contact Customer Service at [info@nutrisystem.com](mailto:info@nutrisystem.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at [www.truste.org/consumers/watchdog_complaint.php](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with us to resolve your concerns. TRUSTe will then serve as a liaison with us to resolve your concerns..
+>> If you have questions or concerns regarding this statement, you should first contact Customer Service at info@nutrisystem.com. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at [www.truste.org/consumers/watchdog_complaint.php](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with us to resolve your concerns. TRUSTe will then serve as a liaison with us to resolve your concerns.
 > 
 > What personal information do we collect?
 >
@@ -24,7 +24,9 @@ At NutriSystem, we are committed to protecting your privacy. We use the informat
 >> 
 >> We may use the personal information we collect from you for any of the following purposes: (1) to fulfill your requests for products and services; (2) to provide you with offers (3) to contact you when necessary; (4) to review site usage and operations; (5) to address problems with the Site, our business or our products and services; and (6) to protect the security or integrity of the site and our business.
 >> 
->> Other than for the purposes provided herein, we will not disclose any of your personal information to third parties unless you authorize us to do so, the law requires it, or to protect the rights or property of NutriSystem.
+>> Your information may be shared with reputable third party associates of NutriSystem unless you have expressly asked us not to, the law requires it, or to protect the rights or property of NutriSystem.
+>> 
+>> NutriSystem does not share payment information with third parties.
 > 
 > Surveys
 >
@@ -38,9 +40,9 @@ At NutriSystem, we are committed to protecting your privacy. We use the informat
 >
 >> NutriSystem, or third parties engaged by us, may use web beacons on some pages of this Site. A web beacon (also known as a pixel tag or clear GIF) is a graphic image which is used to better understand the browsing patterns of visitors to the page.
 >> 
->> When the HTML code for the web beacon points to a site to retrieve the pixel image, information can be passed along such as the IP address of the computer that requested the image, the time the web beacon was viewed and for how long, the type of browser that was used, and previously set cookie values. Web beacons DO NOT pass or read personally identifiable information about you.
+>> When the HTML code for the web beacon points to a site to retrieve the pixel image, information can be passed along such as the IP address of the computer that requested the image, the time the web beacon was viewed and for how long, the type of browser that was used, and previously set cookie values. Web beacons DO NOT pass or read personally identifiable information about you. 
 >> 
->> Web beacons work in conjunction with cookies set by trusted third parties that are used to assess the effectiveness of particular promotional campaigns or to optimize advertising once a user leaves a website. View your browser's help section to determine how to configure your browser to reject or manage first party (i.e., NutriSystem) and/or third party cookies. NutriSystem shares aggregated information collected through web beacons to vendors for which the beacon was set to determine the success of marketing campaigns, but does not disclose personally identifying information to these vendors.
+>> Web beacons work in conjunction with cookies set by trusted third parties that are used to assess the effectiveness of particular promotional campaigns or to optimize advertising once a user leaves a website. View your browser's help section to determine how to configure your browser to reject or manage first party (i.e., NutriSystem) and/or third party cookies. NutriSystem shares aggregated information collected through web beacons to vendors for which the beacon was set to determine the success of marketing campaigns, but does not disclose personally identifying information to these vendors. 
 > 
 > How does NutriSystem protect customer information?
 >
@@ -49,16 +51,14 @@ At NutriSystem, we are committed to protecting your privacy. We use the informat
 > How does NutriSystem use third party information it collects?
 >
 >> From time to time, we collect third party email addresses or other contact information from our users and customers so that we may send information to their friends and family on an as-requested basis. For example, we collect email addresses when a customer provides us with that information so that we may send out Referral Coupons. We also require same when users utilize certain functions such as "email this to a friend" features. 
->> 
->> NutriSystem does not store, maintain, or market to third parties whose information may have been provided by customers or users except for the purpose of the one-time mailing as provided above.
 > 
 > Will NutriSystem disclose the information it collects to outside parties? 
 >
 >> NutriSystem shares information with third party intermediaries for shipping and billing purposes and with other third party intermediaries that provide a service for NutriSystem to help us operate our business and the Site or administer activities on our behalf. These companies do not retain personal information or share it with any other parties. These companies may include Cybercash, United Parcel Service, Federal Express, Visa, MasterCard, Discover, and American Express and others.
 >> 
->> NutriSystem does not sell, trade, or rent your personal information to others. We may provide aggregate statistics about our customers, sales, traffic patterns, and related site information to reputable third-party vendors, but these statistics will include no personally identifying information.
+>> NutriSystem may provide aggregate statistics about our customers, sales, traffic patterns, and related site information to reputable third-party vendors. In addition, from time to time, we may make customer e-mail addresses, postal addresses and telephone numbers available to other reputable business associates whose products or services might be of value to you. If you do not want us to share your information with other companies or organizations, please let us know by completing our privacy form, by calling us at (800) 321-THIN, or writing to us at Customer Service, NutriSystem Inc. 550 Blair Mill Road, Horsham PA 19044. 
 >> 
->> In addition, NutriSystem may disclose your personal information to third parties in certain limited circumstances, as follows: (1) as necessary if we believe that there has been a violation of our site Terms and Conditions, of the law, of our rights or of the rights of any third party; (2) to respond to judicial process and provide information to law enforcement agencies or in connection with an investigation on matters related to public safety, as permitted by law, or otherwise as required by law; and (3) if our company or substantially all of its assets are acquired, your personal information may be one of the transferred assets. Does NutriSystem share information with third party service providers? 
+>> NutriSystem may also disclose your personal information to third parties in certain limited circumstances, as follows: (1) as necessary if we believe that there has been a violation of our site Terms and Conditions, of the law, of our rights or of the rights of any third party; (2) to respond to judicial process and provide information to law enforcement agencies or in connection with an investigation on matters related to public safety, as permitted by law, or otherwise as required by law; and (3) if our company or substantially all of its assets are acquired, your personal information may be one of the transferred assets. (4) If you have given permission for us to share your account information with other members of your household. 
 > 
 > Our Bulletin Boards, Chat Rooms (Support Groups) & User Blogs
 >
@@ -70,7 +70,7 @@ At NutriSystem, we are committed to protecting your privacy. We use the informat
 > 
 > Your Consent and Notification of Change 
 >
->> By using our web site, you consent to the collection and use of your information by NutriSystem. If at some point in the future, there is a material change to our information usage practices that affect your personally identifiable information, we will notify you by e-mail. At the time of this message, you will be able to opt-out of the new information usage by sending a message to the following e-mail: [never@nutrisystem.com](mailto:never@nutrisystem.com). You should check this posted privacy statement for changes. 
+>> By using our web site, telephone consultation, or mailing in requests for information you consent to the collection and use of your information by NutriSystem. If at some point in the future, there is a material change to our information usage practices that affect your personally identifiable information, we will notify you by e-mail. At the time of this message, you will be able to opt-out of the new information usage by sending a message to the following e-mail: [never@nutrisystem.com](mailto:never@nutrisystem.com). You should check this posted privacy statement for changes. 
 > 
 > Newsletter
 >
@@ -78,7 +78,7 @@ At NutriSystem, we are committed to protecting your privacy. We use the informat
 > 
 > Corrections/Updates 
 >
->> To make changes to any of your personal information, including name, username, password, shipping address, and telephone number, you can click in the My Account section of the NutriSystem web site.
+>> To make changes to any of your personal information, including name, username, password, shipping address, and telephone number, you can click in the My Account section of the NutriSystem web site or call NutriSystem at 800-321-THIN. Household members may not make changes to your account information, or cancel or renew your account without your express permission. If you have not already indicated your permission for household members to access your account at the time you placed your first order, please call 800-321-THIN.
 > 
 > Third-Party Websites
 >
