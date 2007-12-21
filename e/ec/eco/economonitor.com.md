@@ -1,0 +1,73 @@
+> *The following text is extracted and transformed from the economonitor.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221205600id_/http%3A//www.rgemonitor.com/component/option%2Cstatic/inc%2Cprivacy/Itemid%2C95) for the most accurate reproduction.*
+
+# RGE - RGE Monitor Privacy Policy and Conditions
+
+**Roubini Global Economics, LLC Privacy Notice**
+
+Roubini Global Economics, LLC ("RGE") provides this Notice explaining our online information practices and the way your personal information is collected and used. If you do not agree with the practices explained in this policy, do not complete the registration or subscription form or ask that your registration or subscription be cancelled. This policy applies only to information gathered through the Service, including the use of RGE Content through the Service, but not to other off-line transactions with RGE, nor to transactions with any third party not owned or controlled by RGE. By using the Service, and by checking the box indicating agreement with the Terms of Use during registration, you agree to accept the practices and terms set forth in this Privacy Policy. Capitalized terms not defined in this policy shall have the meaning set forth in the [RGE Terms of Use Agreement](http://www.rgemonitor.com/component/option,com_static/inc,terms/Itemid,97/). 
+
+**1\. Children**
+
+RGE does not knowingly collect personal information from children under the age of 13. RGE requests that children under the age of 13 not use the Service nor submit any personal information to the Service. Since information regarding children under the age of 13 is not collected, RGE does not knowingly use or distribute personal information regarding children under the age of 13. If RGE obtains actual knowledge that it has collected personal information about a child under the age of 13, that information will be immediately deleted from our database.
+
+**2\. Personally Identifiable Information**
+
+Registration is required to access certain features of the Service. As part of the registration process you are asked for limited personal and demographic information and are required to choose a username and password that will be used to gain access to the Service. While most of the information we collect is used internally for site analysis and improvement, some of your registration data is used in compiling reports. However, it is important to note that, except as stated in Section 3 below, RGE will never disclose or associate with your site usage any of your personally identifiable information, which consists of the following: name, postal address, telephone number, fax number, e-mail address, username. 
+
+**3\. Use and Disclosure of Personally Identifiable Information**
+
+RGE does not rent or sell personally identifiable information, such as your name or e-mail address, to advertisers. RGE may use your personally identifiable information: 
+
+  * To deliver you the Service and send you notices related to the Service, your Account and necessary updates. This includes fulfilling your requests for products and services.
+  * To e-mail you our newsletter, promotions and special offers from us and our partners. You may remove yourself from this list at any time by clicking on the appropriate unsubscribe button in the e-mail that we send to you.
+  * To manage your Account and Account access, provide you with RGE Content and User-Supplied Content, purchase confirmations, support and customer service and to keep track of support and customer service requests.
+  * To determine the technical capabilities of your device and the appropriate content to deliver to you.
+
+
+
+RGE may disclose personally identifiable information to its partners in order to provide the Service, resolve service problems and correct errors in the Service (including customer inquiries, billing and credit corrections), to communicate with you about the Service, to provide you with advertising and promotional information in connection with the Service, and to enhance your experience on the Service. However, these companies do not have an independent right to share this information. Due to our contractual obligations with these third parties and the need to share personally identifiable information to deliver and support the Service, we cannot provide you with the opportunity to opt-out of sharing personally identifiable information with these third parties. In the event that RGE accepts and processes credit card orders via this RGEMonitor.com Web site. RGE does not store customers' credit card information, and all credit card orders and information are transmitted securely for processing.
+
+Your personally identifiable information may be provided to a third party if RGE files for bankruptcy, or there is a transfer of the assets or ownership of RGE. RGE may also disclose personally identifiable information in order to respond to a subpoena, court order or other such request, or to otherwise establish or exercise our rights, or defend against legal claims. RGE may also provide such personally identifiable information order to investigate, prevent and take action regarding fraud or misuse of the Service, to comply with law or in response to a law enforcement agency's request, to enforce our Privacy Policy and end user agreements, and to protect the rights, property and safety of the Service, Users and others.
+
+RGE, its partners, and each of their contractors and employees may view the content that you upload to the Service in order to provide the Service and otherwise perform the tasks set forth in this Privacy Policy.
+
+Any information that you may reveal in your User profile, in communication with other Users or in other online discussions or forums is intentionally open to the public and is not in any way private. You should think carefully before publicly disclosing any personally identifiable information. What you have written may be seen and/or collected by third parties and may be used by others in ways we are unable to control or predict.
+
+**4\. Non-Personally identifiable and Aggregate Information**
+
+The non-personally identifiable information that we may gather includes your gender, age, zip code, country or territory of residence, IP address, the type of browser that you use, the type and nature of the content that you upload to the Service and access from the Service, the comments and communication that you enter into the Service, the links and transactions with us and with third-parties that you enter into via the Service, and other aspects of your use of the Service. RGE uses this information to improve the Service, conduct research, to analyze your and other User's interest in the areas of the Service, to tailor advertising and content displayed to you and other Users, to inform our suppliers about the use of the Service, and to inform our advertisers about the number of Users that have viewed their advertising. To do this we may combine information that we have about you with information that we obtain from business partners or other companies. We may also release aggregate demographic information about User trends to partners and other third parties, including third-party advertisers on the Service. An example of this type of information would be patterns of use of the Service based on zip code or age group. We also retain aggregated log files of requested content in order to report overall product usage to content partners and to evaluate User trends.
+
+**Section 1. Data Security**
+
+**5\. Data Security**
+
+RGE uses reasonable precautions to keep user information secure. To prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect. However, due to the open nature of communication through the Internet, we cannot guarantee that communications between you and the Service, and the Service and you, will be free from unauthorized access by third parties. Users of the Service do so at their own risk. RGE cannot guarantee the security of any information that is disclosed online.
+
+**6\. Third Party Websites**
+
+The Service may contain links to other Web sites or form part of the offering to of those Web sites. RGE is not responsible for the privacy policies of these sites. If you provide any information to such third parties different rules regarding the collection and use of your personal information may apply. We strongly suggest you review such third party's privacy policies before providing any data to them.
+
+**7\. Cookies**
+
+RGE uses cookies to automate log-in, permit guest access, and record user preferences. Users may accept or decline the cookie permitting automatic login during registration, or any time thereafter, by updating their user profile. The other cookies will be loaded automatically unless your browser is configured to block them. Consult the documentation or help files for your Web browser for instructions on setting cookie preferences. We feel that the use of cookies enhances the operation of our site, but they are not required. You will be able to use the core features of the Service with cookies blocked. 
+
+**8\. Contact, Corrections and Updates**
+
+If you have any questions or comments about this policy, please contact help@rgemonitor.com.
+
+Roubini Global Economics, LLC   
+131 Varick Street, Suite 1005  
+New York, New York 10013  
+Attention: Privacy Manager
+
+You may change your User profile and personally identifiable information at any time by logging onto RGE and clicking on the "Manage my Account" link in the left hand navigation. 
+
+**9\. Reasonable Efforts**
+
+We will use reasonable efforts to comply with this Privacy Policy and will take prompt corrective action when we learn of any failure to comply with our Privacy Policy. We sometimes release beta versions of our products and services, which are further refined before the release of the final version. Because these products and services are still in a test phase, we may not always catch an unintended privacy issue, despite our efforts to do so. As such, we welcome User feedback on any privacy concerns you may have. In light of the above and because of the complex and constantly changing nature of our technology and business, and the security risks associated with using the Internet, RGE does not guarantee error-free performance under this Privacy Policy. TO THE EXTENT PERMISSIBLE UNDER LAW, RGE SHALL NOT BE LIABLE FOR ANY INCIDENTAL, CONSEQUENTIAL OR PUNITIVE DAMAGES RELATING TO THIS PRIVACY POLICY.
+
+**10\. Modifications of the Privacy Policy**
+
+RGE reserves the rights to modify its Privacy Policy at any time and will notify you by posting an amendment to the Privacy Policy on the Service. Such modifications will become effective on the day they are posted. SingShot encourages you to frequently review the Privacy Policy for any modifications.
+
+Last Updated (September 11, 2006)
