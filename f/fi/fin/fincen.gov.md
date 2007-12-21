@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fincen.gov privacy policy that was archived on 2007-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070621144624id_/http%3A//www.fincen.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fincen.gov privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221204625id_/http%3A//www.fincen.gov/privacy.html) for the most accurate reproduction.*
 
 # Privacy & Security
 
@@ -18,7 +18,7 @@ We will not collect information which identifies you (name, email address, Socia
 
 Unauthorized attempts to upload information and/or change information on these web sites are strictly prohibited and are subject to criminal prosecution. 
 
-[ **Procedures for Implementation of the Information Quality Law**](https://web.archive.org/web/20070621144624id_/http%3A//www.fincen.gov/515procedures2.pdf "Procedures for Implementation of the Information Quality Law")
+[ **Procedures for Implementation of the Information Quality Law**](https://web.archive.org/web/20071221204625id_/http%3A//www.fincen.gov/515procedures2.pdf "Procedures for Implementation of the Information Quality Law")
 
 If you have any questions or comments about the information presented here, please forward them to [**webmaster@fincen.gov**](mailto:webmaster@fincen.gov "FinCEN's e-mail address")
 
