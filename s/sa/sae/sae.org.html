@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sae.org privacy policy that was archived on 2006-10-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061024145224id_/http%3A//www.sae.org/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sae.org privacy policy that was archived on 2007-12-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071221084434id_/http%3A//www.sae.org/about/privacy) for the most accurate reproduction.-->
 
 <html><head>
 <title>SAE Website Privacy Policy</title>
@@ -54,12 +54,24 @@ var isIE4 = ( document.body && document.body.style && document.all ) ? true : fa
 <noscript>
 <link rel="stylesheet" media="screen" href="/images/styles/sae_screen.css" />
 </noscript>
+<script>
+function adjustHeights() {
+/* TOP AD CHECK */
+var topad = document.getElementById("topad");
+var topadtoolarge = document.getElementById("topad-toolarge");
+if (topad.clientWidth > 480) {
+topadtoolarge.innerHTML = topad.innerHTML;
+topad.innerHTML = "";
+}
+}
+</script>
 
 
 </head>
-<body>
+<body onload="adjustHeights();">
 <div align="center">
 <div id="container">
+<div id="topad-toolarge"></div>
 <!-- PRINT FRIENDLY HEAD -->
 <table cellspacing="0" cellpadding="0" border="0" width="100%" id="print">
 <tbody><tr>
@@ -87,7 +99,7 @@ var isIE4 = ( document.body && document.body.style && document.all ) ? true : fa
 <td valign="bottom"><img src="/images/pixel.gif" width="278" height="1" alt=""><br><a href="http://www.sae.org" title="SAE International"><img src="/images/design/sae-international.gif" width="274" height="38" alt="SAE International" title="SAE International - Homepage" border="0"></a></td>
 <td align="right" width="90%" valign="bottom"><table cellspacing="0" cellpadding="0" border="0" width="100%">
 <tbody><tr>
-<td align="right"></td>
+<td align="right" id="topad"></td>
 </tr>
 <tr>
 <td><img src="/images/pixel.gif" width="1" height="7" alt=""></td>
@@ -247,40 +259,39 @@ document.write('<td><input type="text" size=' + searchFieldSize + ' name="qt" cl
 </tbody></table>
 <table cellspacing="5" cellpadding="0" border="0" id="screen">
 <tbody><tr>
-<td><a href="http://automobile.sae.org" title="Automobile"><img src="/images/design/icon_small_automobile.gif" width="24" height="24" alt="Automobile" border="0"></a></td>
-<td><a href="http://aerospace.sae.org" title="Aerospace"><img src="/images/design/icon_small_aerospace.gif" width="24" height="24" alt="Aerospace" border="0"></a></td>
-<td><a href="http://commercialvehicle.sae.org" title="Commercial Vehicle"><img src="/images/design/icon_small_commercialvehicle.gif" width="24" height="24" alt="Commercial Vehicle" border="0"></a></td>
-<td><a href="http://motorsports.sae.org" title="Motorsports"><img src="/images/design/icon_small_motorsports.gif" width="24" height="24" alt="Motorsports" border="0"></a></td>
+<td><a href="http://automobile.sae.org" title="Automobile Engineering Technology"><img src="/images/design/icon_small_automobile.gif" width="24" height="24" alt="Automobile" border="0"></a></td>
+<td><a href="http://aerospace.sae.org" title="Aerospace Engineering Technology"><img src="/images/design/icon_small_aerospace.gif" width="24" height="24" alt="Aerospace" border="0"></a></td>
+<td><a href="http://commercialvehicle.sae.org" title="Commercial Vehicle Engineering Technology"><img src="/images/design/icon_small_commercialvehicle.gif" width="24" height="24" alt="Commercial Vehicle" border="0"></a></td>
+<td><a href="http://motorsports.sae.org" title="Motorsports Engineering Technology"><img src="/images/design/icon_small_motorsports.gif" width="24" height="24" alt="Motorsports" border="0"></a></td>
 </tr>
 </tbody></table>
 
-<table cellspacing="0" cellpadding="0" border="0" id="screen">
+<table cellspacing="0" cellpadding="0" border="0" id="lf1adTable">
 <tbody><tr>
-<td width="121"><table cellspacing="0" cellpadding="0" border="0" width="121">
-<tbody><tr>
-<td class="store-horizontal-border"><img src="/images/pixel.gif" width="120" height="1" alt=""></td>
+<td class="grid-border"><img src="/images/pixel.gif" width="1" height="1" alt=""></td>
+<td class="grid-border"><img src="/images/pixel.gif" width="1" height="1" alt=""></td>
 </tr>
-<tr>
-<td class="store-head"><p class="store-head-margin"><strong><a href="http://store.sae.org" class="store-content-heading">Spotlight</a></strong></p></td>
-</tr>
-<tr>
-<td class="store-horizontal-border"><img src="/images/pixel.gif" width="1" height="1" alt=""></td>
-</tr>
-</tbody></table><p class="store-content"><a href="/events/convergence/" title="Convergence 2006"><img src="/images/spotlight/buttons/convergence.gif" border="0" alt="Convergence 2006"></a><br>&nbsp;<br><a href="/events/dod/" title="DoD Maintenance Symposium &amp; Exhibition 2006"><img src="/images/spotlight/buttons/dod.jpg" border="0" alt="DoD Maintenance Symposium &amp; Exhibition 2006"></a><br>&nbsp;<br><a href="/events/cve/" title="Commercial Vehicle Engineering Congress &amp; Exhibition"><img src="/images/spotlight/buttons/comvec.gif" border="0" alt="Commercial Vehicle Engineering Congress &amp; Exhibition"></a></p>
-</td>
-<td class="store-border"><img src="/images/pixel.gif" width="1" height="1" alt=""></td>
-</tr>
-<tr>
-<td class="store-border"><img src="/images/pixel.gif" width="1" height="1" alt=""></td>
-<td class="store-border"><img src="/images/pixel.gif" width="1" height="1" alt=""></td>
-</tr>
-</tbody></table>
+<tr><td><table cellspacing="0" cellpadding="1" border="0">
+<tbody><tr><td id="lf1adCell"><iframe src="/jsp/jsps/includes/utilities/randomHouseAdServe.jsp" frameborder="0" scrolling="no" style="width:120px; height:240px;"></iframe></td>
+</tr></tbody></table></td>
+<td class="grid-border"><img src="/images/pixel.gif" width="1" height="1" alt=""></td>
+</tr><tr>
+<td class="grid-border"><img src="/images/pixel.gif" width="1" height="1" alt=""></td>
+<td class="grid-border"><img src="/images/pixel.gif" width="1" height="1" alt=""></td>
+</tr></tbody></table>
+<script>
+var leftadtble = document.getElementById("lf1adTable");
+var leftadcell = document.getElementById("lf1adCell").innerHTML;
+if (leftadcell == "") {
+leftadtble.style.display = "none";
+}
+</script>
 
 
 <p>
 <!-- IF AD -->
 </p><div id="screen">
-<table cellspacing="0" cellpadding="0" border="0" id="lf2adTable">
+<table cellspacing="0" cellpadding="0" border="0" id="lf2adTable" style="display: none;">
 <tbody><tr>
 <td class="grid-border"><img src="/images/pixel.gif" width="1" height="1" alt=""></td>
 <td class="grid-border"><img src="/images/pixel.gif" width="1" height="1" alt=""></td>
@@ -300,14 +311,10 @@ document.write('<td><input type="text" size=' + searchFieldSize + ' name="qt" cl
 </tbody></table>
 </div>
 <script>
-// later hide no-ad-border for gecko too (swap following 2 lines and tweak innertext section below
-//var adCell = (isW3C)? document.getElementById("lf2adCell") : ( (isIE4)? document.all("lf2adCell") : null );
-var adCell = (document.all) ? document.all("lf2adCell") : null;
-var adTable = (document.all) ? document.all("lf2adTable") : null;
-if ( adCell && adTable ) {
-	if ( adCell.innerHTML.length == 0 ) {
-		adTable.style.visibility = "hidden";
-	}
+var leftadtble2 = document.getElementById("lf2adTable");
+var leftadcell2 = document.getElementById("lf2adCell").innerHTML;
+if (leftadcell2 == "") {
+leftadtble2.style.display = "none";
 }
 </script>
 <!-- IF AD END -->
@@ -332,17 +339,106 @@ if ( adCell && adTable ) {
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <table cellspacing="0" cellpadding="0" border="0" width="100%">
 <tbody><tr>
 <td><img src="/images/pixel.gif" width="12" height="12" alt=""></td>
 <td width="99%"><img src="/images/pixel.gif" width="1" height="1" alt=""></td>
 <td><img src="/images/pixel.gif" width="12" height="12" alt=""></td>
+
+<!-- RIGHT ADS START -->
+<td id="right-ads-column" style="width: 123px; padding-top: 47px; text-align: right; vertical-align: top; display: none;" rowspan="2">
+
+<table cellspacing="0" cellpadding="0" border="0" width="100%" id="right-ads-rt1" style="display: none;">
+<tbody><tr>
+<td></td>
+<td align="right"><!-- IF AD --><table cellspacing="0" cellpadding="0" border="0" class="thead">
+<tbody><tr>
+<td class="grid-border"><img src="/images/pixel.gif" width="1" height="1" alt=""></td>
+
+<td class="grid-border"><img src="/images/pixel.gif" width="1" height="1" alt=""></td>
+</tr>
+<tr>
+<td class="grid-border" width="1"><img src="/images/pixel.gif" width="1" height="1" alt=""></td>
+<td><table cellspacing="0" cellpadding="1" border="0">
+<tbody><tr>
+<td id="right-ads-rt1-display"></td>
+</tr>
+</tbody></table></td>
+</tr>
+<tr>
+<td class="grid-border"><img src="/images/pixel.gif" width="1" height="1" alt=""></td>
+<td class="grid-border"><img src="/images/pixel.gif" width="1" height="1" alt=""></td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+<p>
+<table cellspacing="0" cellpadding="0" border="0" width="100%" id="right-ads-rt2" style="display: none;">
+<tbody><tr>
+<td></td>
+<td align="right"><!-- IF AD --><table cellspacing="0" cellpadding="0" border="0" class="thead">
+<tbody><tr>
+<td class="grid-border"><img src="/images/pixel.gif" width="1" height="1" alt=""></td>
+<td class="grid-border"><img src="/images/pixel.gif" width="1" height="1" alt=""></td>
+</tr>
+<tr>
+<td class="grid-border" width="1"><img src="/images/pixel.gif" width="1" height="1" alt=""></td>
+<td><table cellspacing="0" cellpadding="1" border="0" class="thead">
+<tbody><tr>
+<td id="right-ads-rt2-display"></td>
+</tr>
+</tbody></table></td>
+</tr>
+<tr>
+<td class="grid-border"><img src="/images/pixel.gif" width="1" height="1" alt=""></td>
+<td class="grid-border"><img src="/images/pixel.gif" width="1" height="1" alt=""></td>
+</tr>
+</tbody></table>
+<!-- IF AD END --><img src="/images/pixel.gif" width="1" height="30" alt=""></td>
+</tr>
+</tbody></table>
+
+
+</p></td>
+
+<script>
+var rightcolumn = document.getElementById("right-ads-column");
+var rt1idhtml = document.getElementById("right-ads-rt1-display").innerHTML;
+var rt2idhtml = document.getElementById("right-ads-rt2-display").innerHTML;
+var rt1id = document.getElementById("right-ads-rt1");
+var rt2id = document.getElementById("right-ads-rt2");
+if (rt1idhtml == "") {rt1id.style.display = "none";}
+if (rt2idhtml == "") {rt2id.style.display = "none";}
+if (rt1idhtml == "" && rt2idhtml == "") {rightcolumn.style.display = "none";}
+</script>
+<!-- RIGHT ADS END -->
 </tr>
 <tr>
 <td></td>
-<td width="99%"><div class="content">
+<td width="99%" style="vertical-align:top;"><div class="content">
 
 <div class="breadcrumbs"><strong><a class="breadcrumbs" href="http://www.sae.org">SAE Home</a></strong> &gt; <strong><a class="breadcrumbs" href="http://www.sae.org/about/">About SAE</a></strong> &gt; <strong><a class="breadcrumbs" href="http://www.sae.org/about/privacy/">Privacy Policy</a></strong></div>
+
 
 <p>
 
@@ -361,206 +457,62 @@ SAE Website Privacy Policy<br>
 <em style="font-size:smaller;">Your privacy is important to us!</em><br>
 </h2>
 
-<p>
-Last updated: 1 September 2005
-</p>
+<p>Last updated: 1 September 2005</p>
 
-<p>
-<b>Summary</b><br>
-The Society of Automotive Engineers, International, ("SAE") knows that you
-care about how your personal information is collected and used, and we
-appreciate your trust in our commitment to do so carefully and thoughtfully.
-This document describes what personally identifiable information we collect,
-how we collect and use it, and the procedures we have in place to protect that
-information; this constitutes the Privacy Policy for the SAE.ORG website.
-</p>
-<p>
-This Policy applies to the www.sae.org and www.awim.org websites.  It may not apply to
-websites of any other SAE affiliate, branch, section, chapter, group, or
-student group, or to websites operated by organizations or groups who
-associate themselves with SAE.  It does not apply to any other Internet
-websites, including those that have hypertext links to or from SAE.ORG.
-</p>
-<p>
-SAE may revise this Policy at any time, and will post the
-Policy on this web page, including the date, above, of the most recent update.
-By using the SAE.ORG website, you are accepting the practices described
-in this Policy.
-</p>
+<p><b>Summary</b><br>
+SAE International knows that you care about how your personal information is collected and used, and we appreciate your trust in our commitment to do so carefully and thoughtfully. This document describes what personally identifiable information we collect, how we collect and use it, and the procedures we have in place to protect that information; this constitutes the Privacy Policy for the SAE.ORG website.</p>
+<p>This Policy applies to the www.sae.org and www.awim.org websites.  It may not apply to websites of any other SAE affiliate, branch, section, chapter, group, or student group, or to websites operated by organizations or groups who associate themselves with SAE.  It does not apply to any other Internet websites, including those that have hypertext links to or from SAE.ORG.</p>
+<p>SAE may revise this Policy at any time, and will post the Policy on this web page, including the date, above, of the most recent update. By using the SAE.ORG website, you are accepting the practices described in this Policy.</p>
 
-<p>
-<b>What Personal Information Is Collected, and How Is It Used?</b><br>
-When you visit the SAE.ORG website, we collect information about you
-and your visit, to help us personalize and improve your experience at the
-site and with other SAE services.  Specifically, we collect:
+<p><b>What Personal Information Is Collected, and How Is It Used?</b><br>
+When you visit the SAE.ORG website, we collect information about you and your visit, to help us personalize and improve your experience at the site and with other SAE services.  Specifically, we collect:
+
 </p><ul>
-<li><b>Information you voluntarily provide</b>: When you place an
-order on the SAE.ORG website, complete any type of registration form, or
-complete various other online forms, for purposes such as logging in to
-the website, participating in awards programs, and more, we receive and
-store that information.  Typically, these voluntary forms include
-information such as your name, customer number, website userid and
-password, address information, work information, professional interests,
-phone and fax numbers, and email addresses.  Other information may be
-gathered, depending on the form you are completing.  Information you
-provide in online forms is often the same as or similar to information
-you would provide in traditional printed forms.
-<br> &nbsp;<br>
-We use this information to customize your website experience, respond to
-your requests and needs, register you for events, deliver you products and
-services, and inform you of products, services, and events that may be of
-interest to you.  We also use this information to control access to
-various restricted areas of the website.
-<br> &nbsp;<br>
-</li>
-<li><b>Information you involuntarily provide</b>:  As you interact with
-our website, our server logs information about your visit.  This
-information includes things like the website address you came from,
-the browser you are using, your numeric internet address, the date and
-time of your visit, and what pages you are viewing; collection of these
-types of information is a common practice by websites.
-<br> &nbsp;<br>
-We use this information to learn about our visitors as a group, not about
-you as an individual.  This information helps us identify overall usage
-patterns and trends on the site, and can specifically help us, among other
-things:
-	<ul>
-	<li>Identify how much traffic various areas of the site receive.</li>
-	<li>Determine when we should schedule site maintenance.</li>
-	<li>Identify which other websites send visitors to our site.</li>
-	<li>Determine demographic profiles of our visitors.</li>
-	<li>Optimize the site for common browsers used at the site.</li>
-	<li>Track results of promotional campaigns.</li>
-	<li>Provide reports to third parties who maintain a presence
-	    on our site.</li>
+ <p></p><li><b>Information you voluntarily provide</b>: When you place an order on the SAE.ORG website, complete any type of registration form, or complete various other online forms, for purposes such as logging in to the website, participating in awards programs, and more, we receive and store that information.  Typically, these voluntary forms include information such as your name, customer number, website userid and password, address information, work information, professional interests, phone and fax numbers, and email addresses.  Other information may be gathered, depending on the form you are completing.  Information you provide in online forms is often the same as or similar to information you would provide in traditional printed forms.
+	<p>We use this information to customize your website experience, respond to your requests and needs, register you for events, deliver you products and services, and inform you of products, services, and events that may be of interest to you.  We also use this information to control access to various restricted areas of the website.
+
+ </p><p></p></li><li><b>Information you involuntarily provide</b>:  As you interact with our website, our server logs information about your visit.  This information includes things like the website address you came from, the browser you are using, your numeric internet address, the date and time of your visit, and what pages you are viewing; collection of these types of information is a common practice by websites.
+	<p>We use this information to learn about our visitors as a group, not about you as an individual.  This information helps us identify overall usage patterns and trends on the site, and can specifically help us, among other things:
+	</p><ul>
+	 <li>Identify how much traffic various areas of the site receive.</li>
+	 <li>Determine when we should schedule site maintenance.</li>
+	 <li>Identify which other websites send visitors to our site.</li>
+	 <li>Determine demographic profiles of our visitors.</li>
+	 <li>Optimize the site for common browsers used at the site.</li>
+	 <li>Track results of promotional campaigns.</li>
+	 <li>Provide reports to third parties who maintain a presence on our site.</li>
 	</ul>
-<br>
-It is possible to browse websites, including the SAE.ORG site, anonymously;
-you have the option of doing so, but doing so may also make it more difficult
-for the SAE.ORG website to best meet your needs.
-<br> &nbsp;<br>
-</li>
-<li><b>Information you provide through online forums and in email</b>:
-In addition to collecting the information noted above, the SAE.ORG site
-provides visitors the opportunity to send email to SAE and various third
-parties, and to participate in online discussion forums.
-<br> &nbsp;<br>
-When you send us an email and request a response, we use the email address
-and other information you provide to respond to your inquiry.  We may also
-log the nature and content of email requests we receive, which helps us
-analyze visitor interests overall and identify areas for improvement on
-the site.
-<br> &nbsp;<br>
-SAE's online discussion forums are provided as a means of communication
-and collaboration for SAE's members and customers.  Some forums are public,
-to which any registered website visitor may have access; some forums are
-private and thus require additional privileges to participate.  Postings you
-make to an online forum may be visible to other participants in that forum.
-If you participate in an online private team, your teammates may have access
-to portions of your contact information.  If you participate in activities in
-our public forums, others may have access to information about you that
-you voluntarily provide.  By using any SAE.ORG online forums, you are
-accepting the additional <a href="javascript:showForumsTerms();">SAE Online
-Forums Terms of Use</a>.
-</li>
-</ul>
+	<p>It is possible to browse websites, including the SAE.ORG site, anonymously; you have the option of doing so, but doing so may also make it more difficult for the SAE.ORG website to best meet your needs.</p>
+
+ <p></p></li><li><b>Information you provide through online forums and in email</b>: In addition to collecting the information noted above, the SAE.ORG site provides visitors the opportunity to send email to SAE and various third parties, and to participate in online discussion forums.
+ 	<p>When you send us an email and request a response, we use the email address and other information you provide to respond to your inquiry.  We may also log the nature and content of email requests we receive, which helps us analyze visitor interests overall and identify areas for improvement on the site.</p>
+	<p>SAE's online discussion forums are provided as a means of communication and collaboration for SAE's members and customers.  Some forums are public, to which any registered website visitor may have access; some forums are private and thus require additional privileges to participate.  Postings you make to an online forum may be visible to other participants in that forum. If you participate in an online private team, your teammates may have access to portions of your contact information.  If you participate in activities in our public forums, others may have access to information about you that you voluntarily provide.  By using any SAE.ORG online forums, you are accepting the additional <a href="javascript:showForumsTerms();">SAE Online Forums Terms of Use</a>.</p>
+</li></ul>
 <p></p>
 
-<p>
-<b>Security</b><br>
-SAE protects the security of your sensitive personal information, such as
-credit card number, when you exchange that information with the SAE.ORG web
-site.  SAE uses Secure Socket Layer (SSL) technology when exchanging this
-information, which encrypts the information during transit.  SAE.ORG does
-not display your full credit card information on any page.  SAE also maintains
-firewall and other managed software, as well as physical and procedural
-safeguards, to protect systematically stored data.
-<br> &nbsp;<br>
-It is important that you protect your SAE.ORG userid and password.  If you are
-logged in to the SAE.ORG site from a shared computer, be sure to log out when
-you are finished with a visit; a logout button can be found on nearly every
-page of our site.
-</p>
+<p><b>Security</b><br>
+SAE protects the security of your sensitive personal information, such as credit card number, when you exchange that information with the SAE.ORG web site.  SAE uses Secure Socket Layer (SSL) technology when exchanging this information, which encrypts the information during transit.  SAE.ORG does not display your full credit card information on any page.  SAE also maintains firewall and other managed software, as well as physical and procedural safeguards, to protect systematically stored data.</p>
+<p>It is important that you protect your SAE.ORG userid and password.  If you are logged in to the SAE.ORG site from a shared computer, be sure to log out when you are finished with a visit; a logout button can be found on nearly every page of our site.</p>
 
-<p>
-<b>Cookies</b><br>
-The SAE.ORG site uses cookies, which are small pieces of text stored on your
-computer and used to identify your web browser.  Typically websites use
-cookies to provide a more personalized experience, process online orders,
-and maintain customer records.  The cookies SAE websites send to your
-browser are used to save you time by remembering your login, to maintain
-your session, and to personalize your visit, allowing you access to
-customized member benefits, online forums, MySAE, and online shopping
-features.  They also help the server identify who you are and your
-relationship with SAE, enabling us to provide you with appropriate access
-to various areas of the site (online forums, member benefits, etc.).  SAE.ORG
-does not sell or make available to other organizations any of the information
-in the cookies that it sets on your computer.
-<br> &nbsp;<br>
-SAE.ORG uses both session and persistent cookies.  Session cookies are stored
-in your browser's memory and disappear when you shut down your browser or
-have no activity at a site for a defined period of time.  Persistent cookies
-get written to your hard disk and thus can stay on your computer to identify
-you for an extended period of time.  SAE.ORG advertising partners may also
-use cookies on our site.
-<br> &nbsp;<br>
-You can disable the cookies function on your browser or erase the contents in
-your cookies file.  To do this, consult the help features in your program
-manager and browser.  However, in doing so, you may not be able to take
-advantage of personalization of the site, the online ordering system, online
-forums, or other site features and services.
-</p>
+<p><b>Cookies</b><br>
+The SAE.ORG site uses cookies, which are small pieces of text stored on your computer and used to identify your web browser.  Typically websites use cookies to provide a more personalized experience, process online orders, and maintain customer records.  The cookies SAE websites send to your browser are used to save you time by remembering your login, to maintain your session, and to personalize your visit, allowing you access to customized member benefits, online forums, MySAE, and online shopping features.  They also help the server identify who you are and your relationship with SAE, enabling us to provide you with appropriate access to various areas of the site (online forums, member benefits, etc.).  SAE.ORG does not sell or make available to other organizations any of the information in the cookies that it sets on your computer.</p>
+<p>SAE.ORG uses both session and persistent cookies.  Session cookies are stored in your browser's memory and disappear when you shut down your browser or have no activity at a site for a defined period of time.  Persistent cookies get written to your hard disk and thus can stay on your computer to identify you for an extended period of time.  SAE.ORG advertising partners may also use cookies on our site.</p>
+<p>You can disable the cookies function on your browser or erase the contents in your cookies file.  To do this, consult the help features in your program manager and browser.  However, in doing so, you may not be able to take advantage of personalization of the site, the online ordering system, online forums, or other site features and services.</p>
 
-<p>
-<b>Choice, Opt-out, and Control</b><br>
-You maintain control of the personally identifiable information SAE.ORG
-collects and maintains about you.  SAE.ORG provides means, through the MySAE
-pages and/or its Customer Service
-(<a href="mailto:CustomerService@sae.org">CustomerService@sae.org</a>) staff,
-for you to correct, update, and delete/deactivate your personally
-identifiable information and preferences.  We also provide through those same
-means the opportunity for you to "opt-out" of receiving communications
-from SAE, or from having your personally identifiable information used for
-marketing purposes.
-</p>
+<p><b>Choice, Opt-out, and Control</b><br>
+You maintain control of the personally identifiable information SAE.ORG collects and maintains about you.  SAE.ORG provides means, through the MySAE pages and/or its Customer Service (<a href="mailto:CustomerService@sae.org">CustomerService@sae.org</a>) staff, for you to correct, update, and delete/deactivate your personally identifiable information and preferences.  We also provide through those same means the opportunity for you to "opt-out" of receiving communications from SAE, or from having your personally identifiable information used for marketing purposes.</p>
 
-<p>
-<b>Children</b><br>
-SAE does not knowingly collect information about children under age 13
-through its website.  SAE.ORG will not contact children under age 13 for
-marketing purposes, nor will SAE knowingly exchange with any third party
-information it stores about children under age 13.
-</p>
+<p><b>Children</b><br>
+SAE does not knowingly collect information about children under age 13 through its website.  SAE.ORG will not contact children under age 13 for marketing purposes, nor will SAE knowingly exchange with any third party information it stores about children under age 13.</p>
 
-<p>
-<b>Third Party Relationships</b><br>
-We share aggregate demographic information with our business partners,
-including advertisers.  This data is not linked to any personally
-identifiable information.
-<br> &nbsp;<br>
-We also provide lists containing personally identifiable information
-to trusted, reputable third parties which we believe have products or
-services that may be of interest to you.  SAE does not sell your email
-address to any parties that systematically collect email addresses for
-marketing purposes unrelated to SAE business.  We partner with
-third parties to provide specific services, such as online conferencing.
-For you to successfully participate in these services, we share with the
-third party only that information which is necessary for the purpose of
-providing said services.
-<br> &nbsp;<br>
-SAE.ORG contains links to, and graphics from, third-party websites and/or
-content providers.  This Policy does not extend to those parties, nor is SAE
-responsible for the content linked to or provided.
-<br> &nbsp;<br>
-SAE may be required to provide information about its customers or
-prospective customers to law enforcement or government agencies if
-requested or necessary.
-</p>
+<p><b>Third Party Relationships</b><br>
+We share aggregate demographic information with our business partners, including advertisers.  This data is not linked to any personally identifiable information.</p>
+<p>We also provide lists containing personally identifiable information to trusted, reputable third parties which we believe have products or services that may be of interest to you.  SAE does not sell your email address to any parties that systematically collect email addresses for marketing purposes unrelated to SAE business.  We partner with third parties to provide specific services, such as online conferencing. For you to successfully participate in these services, we share with the third party only that information which is necessary for the purpose of providing said services.</p>
+<p>SAE.ORG contains links to, and graphics from, third-party websites and/or content providers.  This Policy does not extend to those parties, nor is SAE responsible for the content linked to or provided.</p>
+<p>SAE may be required to provide information about its customers or prospective customers to law enforcement or government agencies if requested or necessary.</p>
 
-<p>
-<b>Comments and Questions</b><br>
+<p><b>Comments and Questions</b><br>
 If you have comments or questions about this Policy, please contact us at:
-<br>
 </p><blockquote>
 Email: PrivacyPolicy@sae.org<br>
 Phone: +1 877 606 7323
@@ -569,6 +521,8 @@ Phone: +1 877 606 7323
 
 
 <!-- END CONTENT -->
+
+
 
 
 
@@ -581,35 +535,27 @@ Phone: +1 877 606 7323
 
 
 
-<!-- AD RIGHT BEGIN -->
-<p>
 
-<table cellspacing="0" cellpadding="0" border="0" width="100%">
-<tbody><tr>
-<td></td>
-<td align="right"><!-- IF AD --><table cellspacing="0" cellpadding="0" border="0">
-<tbody><tr>
-<td class="grid-border"><img src="/images/pixel.gif" width="1" height="1" alt=""></td>
-<td class="grid-border"><img src="/images/pixel.gif" width="1" height="1" alt=""></td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><img src="/images/pixel.gif" width="1" height="20" alt="" id="screen"></td>
 </tr>
-<tr>
-<td class="grid-border" width="1"><img src="/images/pixel.gif" width="1" height="1" alt=""></td>
-<td><table cellspacing="0" cellpadding="1" border="0">
-<tbody><tr>
-<td></td>
-</tr>
-</tbody></table></td>
-</tr>
-<tr>
-<td class="grid-border"><img src="/images/pixel.gif" width="1" height="1" alt=""></td>
-<td class="grid-border"><img src="/images/pixel.gif" width="1" height="1" alt=""></td>
-</tr>
-</tbody></table>
-<!-- IF AD END --><img src="/images/pixel.gif" width="1" height="30" alt=""></td>
-</tr>
-</tbody></table>
-</p></td>
-</tr>
+
+
 <tr>
 <td class="grid-border"><img src="/images/pixel.gif" width="121" height="1" alt="" id="screen"></td>
 <td class="grid-border" width="99%"><img src="/images/pixel.gif" width="638" height="1" alt=""></td>
@@ -635,7 +581,7 @@ Phone: +1 877 606 7323
 </tbody></table>
 <table cellspacing="0" cellpadding="0" border="0" width="100%" id="print">
 <tbody><tr>
-<td class="footer-content">©2006 SAE International.  All rights reserved.<br>CustomerService@sae.org</td>
+<td class="footer-content">©2007 SAE International.  All rights reserved.<br>CustomerService@sae.org</td>
 <td class="footer-content" align="right">U.S. &amp; Canada:  1-877-606-7323<br>International: 1-724-776-4970</td>
 </tr>
 </tbody></table>
@@ -643,7 +589,7 @@ Phone: +1 877 606 7323
 <table class="tblcondense" style="width:100%;" id="screen">
 <tbody><tr>
 <td class="tblcondense">
-©2006 <a href="http://www.sae.org/" class="footer-content">SAE International</a>.  All rights reserved.<br>
+©2007 <a href="http://www.sae.org/" class="footer-content">SAE International</a>.  All rights reserved.<br>
 <a href="http://www.sae.org/about/copyright/" class="footer-content">Copyright</a>  |  
 <a href="http://www.sae.org/about/intelproperty/" class="footer-content">Intellectual Property Policy</a><br>
 <a href="http://www.sae.org/about/contact/" class="footer-content">Contact Us</a>  |
@@ -668,7 +614,7 @@ Phone: +1 877 606 7323
 
 </td>
 <td class="tblcondense" style="vertical-align:top; width:60px;"><a href="http://www.sae.org/about/sitemap/" class="footer-content">Site Map</a><br><img src="/images/pixel.gif" width="60" height="1" alt=""></td>
-<td class="tblcondense" style="width:140px;"><div id="screen"><br>
+<td class="tblcondense" style="width:140px;"><div id="screen"><!-- AD SPOT?, was RT2 --><br>
 <br><img src="/images/pixel.gif" width="140" height="1" alt=""></div></td>
 </tr>
 </tbody></table>
