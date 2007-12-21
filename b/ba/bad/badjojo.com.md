@@ -1,99 +1,37 @@
-> *The following text is extracted and transformed from the badjojo.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629130917id_/http%3A//badjojo.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the badjojo.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221175128id_/http%3A//www.badjojo.com/privacy.php) for the most accurate reproduction.*
 
-# badjojo
+# Badjojo - Free porn
 
-## Badjojo Privacy Notice
+AdProtect software is dedicated to protect the home user’s privacy. This privacy statement explains our privacy practices for our site [www.Badjojo.com](http://www.badjojo.com/). We feel it is important that visitors are fully knowledgeable about the use of their personal information. By using our website and/or purchasing our product, you expressly consent to the terms of this policy.
 
-**Badjojo** recognizes that its customers, visitors, users, and others who use [www.badjojo.com](http://www.badjojo.com/) or other web sites owned or operated by Badjojo value their privacy. This Privacy Notice details important information regarding the use and disclosure of User information collected on the Badjojo Sites. Badjojo provides this Privacy Notice to help you make an informed decision about whether to use or continue using the Badjojo Sites.
+**Personal Information**
 
-This Privacy Notice is incorporated into and is subject to the Terms of Use. Your use of the Badjojo Sites and any personal information you provide on the Badjojo Sites remains subject to the terms of this Privacy Notice and our Terms of Use.
+AdProtect allows you to visit the website without revealing any personal information about yourself. Your visit to this website is anonymous. We will only collect your contact information (first name, last name, billing address, phone number, email address and any other relevant information provided by you) as well as financial information (account or credit card numbers), with your permission and for the sole purpose of processing orders. 
 
-Please note that any video, image, or other content posted at the direction of Users onto the Badjojo Sites becomes published content and is not considered personally identifiable information subject to this Privacy Notice.
+If you make a purchase from our website, you will be asked to provide your name, billing address, email and credit card information (if you have chosen credit card as payment method). AdProtect will use such information only for processing your order and to send important product specific information such as receipt, invoice or registration key.
 
-## The Information Badjojo Collects
+The information you provide will not be used for any commercial purposes and will not be sold, rented, leased or otherwise forwarded to any third party. We do not distribute or share your personal information beyond what is strictly necessary to fulfill our obligations to you, and then only with partners who adhere to AdProtect's commitment to protecting your privacy and data. AdProtect may provide your personal information if necessary, in AdProtect’s good faith judgment, to comply with laws or regulations of a governmental or regulatory body or in response to a valid subpoena, warrant, or order or to protect the rights of AdProtect or others. 
 
-  * **User Provided Information:** You provide certain personally identifiable information (such as your name and email address) to Badjojo when choosing to participate in various activities on the Badjojo Sites such as uploading videos, posting messages in our forums or in the video comments section, entering contests or sweepstakes, taking advantage of promotions, responding to surveys, or subscribing to newsletters or other mailing lists.
-  
+Security Procedures and Credit Cards
 
-  * **Cookies Information:** When you visit the Badjojo Sites, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser. Badjojo uses both session cookies and persistent cookies. A persistent cookie remains after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser help file directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Badjojo Sites may not function properly if the ability to accept cookies is disabled.
-  
+In order to provide secure processing of your credit card when ordering, AdProtect uses Secure Server Software (SSL) that is among the best in use today by e-commerce Web sites. Your personal information, including sensitive credit card information, is encrypted so that it is indecipherable by others as it travels across the Internet. No credit card data is stored in AdProtect's Customer Database. All individual contact information provided to AdProtect is stored in secure facilities. If at any time you would like to make a purchase, but do not want to provide your credit card information online, you may contact our Customer Support Staff for details on mail payment.
 
-  * **Log File Information:** When you use the Badjojo Sites, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, browser language, referring / exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and one or more cookies that may uniquely identify your browser.
+Email Newsletter and Opt-Out
 
+When submitting your e-mail address to AdProtect, your e-mail address will automatically be added to our E-Newsletter Subscriber List, which we use to send out special offers or updates that may be of interest to you. AdProtect will not sell, rent, or lease your personal information to non-partner entities. Users may choose not to participate in our mailing program, however. If you no longer wish to receive AdProtect communications, you may "unsubscribe" from our mailing program at any time by clicking the auto-unsubscribe link in our emails. Our database will then be updated and no further email will be sent to the email address.
 
+Cookies
 
-## The Way Badjojo Uses Information
+Cookies are identifiers that a web site can send to your browser to keep on your computer in order to facilitate your next visit to the site. The use of cookies is an industry standard, and many web sites use them. AdProtect does not use cookies that persist on your hard-drive. We do use dynamic, non-intrusive session cookies, which reside in your browser's memory only for the duration of your user session, to assist in the ordering and purchasing process. AdProtect also uses data collected through session cookies for the purpose of identifying the source of traffic (which ad or link you used to reach us), and general patterns of activity on our site. No personally identifiable information is stored in this cookie. AdProtect uses this data to better understand what services and support is valuable to our customers, and how we can continue to provide the best online experience possible to our users.
 
-  * If you submit personally identifiable information to us through the Badjojo Sites, then we use your personal information to operate, maintain, and provide to you the features and functionality of the Badjojo Sites.
-  
+Links to Other Sites
 
-  * Any personal information or video content that you voluntarily disclose online (on discussion boards, in messages and chat areas, within your public profile page, etc.) becomes publicly available and can be collected and used by others. Your account name (not your email address) is displayed to other Users when you upload videos or send messages through the Badjojo Sites and other Users can contact you through messages and comments. Any videos that you submit to the Badjojo Sites may be redistributed through the internet and other media channels, and may be viewed by the general public.
-  
+Our site provides links to external web sites. AdProtect does not monitor or control the content of such web sites or whether such web sites collect or process your personal data. When you click on one of those links, you leave our site and enter one that we do not control and for which we cannot be responsible. AdProtect assumes no liability whatsoever for any kind of material available at such sites and recommends that you review their separate privacy policies.
 
-  * We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. We may, however, use your email address without further consent for non-marketing or administrative purposes (such as notifying you of major Badjojo Site changes or for customer service purposes).
-  
+Acceptance of this Privacy Policy
 
-  * We use both your personally identifiable information and certain non-personally-identifiable information (such as anonymous User usage data, cookies, IP addresses, browser type, clickstream data, etc.) to improve the quality and design of the Badjojo Sites and to create new features, promotions, functionality, and services by storing, tracking, and analyzing User preferences and trends.
-  
+By using the web site or any services provided through the web site, you expressly consent to the use and disclosure of information as described in this Privacy Policy. AdProtect may occasionally update this Privacy Policy. Any changes will be posted to this site, so we encourage you to continuously review our Privacy Policy. All Privacy Policy changes will take effect immediately upon their posting on this Website. Your continued use of AdProtect Software or acceptance of our e-mails following the posting of changes to these terms will indicate your acceptance of these changes. 
 
-  * We use cookies and log file information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the Badjojo Sites; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our marketing campaigns; (d) monitor aggregate metrics such as total number of visitors, pages viewed, etc.; and (e) track your entries, submissions, and status in promotions, sweepstakes, and contests.
+Support 
 
-
-
-## When Badjojo Discloses Information
-
-  * We provide personally identifiable information and non-personally-identifiable information to our subsidiaries, affiliated companies, or other businesses or persons for the purpose of processing such information on our behalf. We require that these parties agree to process such information in compliance with our privacy policy, and we use reasonable efforts to limit their use of such information and to use other appropriate confidentiality and security measures.
-  
-
-  * We do not share your personally identifiable information (such as name or email address) with other, third-party companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out.
-  
-
-  * We do share non-personally-identifiable information (such as anonymous User usage data, referring / exit pages and URLs, platform types, number of clicks, etc.) with interested third-parties to assist them in understanding the usage patterns for certain content, services, advertisements, promotions, and/or functionality on the Badjojo Sites.
-  
-
-  * We may release personally identifiable information and/or non-personally-identifiable information if required to do so by law, or in the good-faith belief that such action is necessary to comply with state and federal laws (such as U.S. Copyright Law) or respond to a court order, subpoena, or search warrant.
-  
-
-  * Badjojo also reserves the right to disclose personally identifiable information and/or non-personally-identifiable information that Badjojo believes, in good faith, is appropriate or necessary to enforce our Terms of Use, take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of our web site, and to protect the rights, property, or personal safety of Badjojo, our Users or others.
-
-
-
-## Your Choices
-
-You may, of course, decline to submit personally identifiable information through the Badjojo Sites, in which case Badjojo may not be able to provide certain services to you. You may update or correct your personal profile information and email preferences at any time by visiting your [account profile page](https://web.archive.org/members/profileBasic.php). Please note that media files uploaded by Users to the Badjojo Sites cannot be removed and remain subject to our Terms of Use.
-
-To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you profile access or making corrections. You are responsible for maintaining the secrecy of your unique password and account information at all times.
-
-Please contact Badjojo with any questions or comments about this Privacy Notice, your personal information, your consent, or your opt-in or opt-out choices using this [contact form](https://web.archive.org/contactUs.php).
-
-## Third-party Advertisers, Links to Other Sites
-
-Badjojo allows other companies, called third-party ad servers or ad networks, to serve advertisements within the Badjojo Sites. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on the Badjojo Sites. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content you see.
-
-Badjojo does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. However, please note that if an advertiser asks Badjojo to show an advertisement to a certain audience (for example, men ages 18-34) or audience segment (for example, men ages 18-24 who have viewed certain channels of content) and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach. The advertiser may also use information regarding your use of the Badjojo Sites, such as the number of times you viewed an ad (but not any personally identifiable information), to determine which ads to deliver to you.
-
-You should consult the respective privacy policies of these third-party ad servers or ad networks for more information on their practices and for instructions on how to opt-out of certain practices. Badjojo's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
-
-## Our Commitment To Childrens' Privacy
-
-Protecting the privacy of young children is especially important. For that reason, Badjojo does not knowingly collect or maintain personally identifiable information or non-personally-identifiable information on the Badjojo Sites from persons under 18 years of age, and no part of our website is directed to persons under 18. If you are under 18 years of age, then please do not use or access the Badjojo Sites at any time or in any manner. If Badjojo learns that personally identifiable information of persons under 18 years of age has been collected on the Badjojo Sites without verified parental consent, then Badjojo will take the appropriate steps to delete this user/information.
-
-## Special Note to International Users
-
-The Badjojo Sites intended for and directed to Users in the United States. If you are a User accessing the Badjojo Sites from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from United States laws, please be advised that through your continued use of the Badjojo Sites, which are governed by U.S. law, this Privacy Notice, and our Terms of Use, you are transferring your personal information to the United States and you consent to that transfer.
-
-## In the Event of Merger, Sale, or Bankruptcy
-
-In the event that Badjojo is acquired by or merged with a third party entity, we reserve the right, in any of these circumstances, to transfer or assign the information we have collected from our Users as part of such merger, acquisition, sale, or other change of control. In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, we may not be able to control how your personal information is treated, transferred, or used.
-
-## Changes and updates to this Privacy Notice
-
-This Privacy Notice may be revised periodically and this will be reflected by the "effective date" below. Please revisit this page to stay aware of any changes. In general, we only use your personal information in the manner described in the Privacy Notice in effect when we received the personal information you provided. Your continued use of the Badjojo Sites constitutes your agreement to this Privacy Notice and any future revisions.
-
-For revisions to this Privacy Notice that may be materially less restrictive on our use or disclosure of the personal information you have already provided to us, we will attempt to obtain your consent before implementing such revisions with respect to such information.
-
-**Date Last Modified:**  
-This Privacy Notice was last modified January 22, 2007.
-
-**Contact Information:**  
-Please contact Badjojo with any questions or comments about this Privacy Notice using this [contact form](https://web.archive.org/contactUs.php).
+AdProtect provides email support for users who purchase the software at our Helpdesk. AdProtect does not currently provide telephone support. If you have any questions or concerns about this Privacy Policy or our information handling practices, please contact us through the Helpdesk. We will do our best to respond to your inquiry within two business days.
