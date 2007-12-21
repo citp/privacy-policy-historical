@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the wink.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623094156id_/http%3A//wink.com/wink/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wink.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221014253id_/http%3A//wink.com/wink/privacy) for the most accurate reproduction.*
 
-# privacy | Wink | People Search
-
-| 
+# Privacy Policy | Wink
 
 ﻿We recognize that privacy is an important issue for our users. We have implemented industry standard policies to make sure your privacy is protected. This policy describes the personal information we collect about you, why we collect it, how we use it and when we share it with third parties. Our policy also describes the choices you can make about how we collect and use your information. If you have any questions about our privacy policy, contact us at: [feedback@wink.com](mailto:feedback@wink.com?subject=wink:privacy).
 
@@ -57,5 +55,4 @@ When you register with us, your personal information, including login name and p
 
   * The sites displayed as search results or linked to by Wink are developed by people over whom Wink exercises no control. These other sites may place their own cookies on your computer, collect data or solicit personal information.
 
-  
----|---
+
