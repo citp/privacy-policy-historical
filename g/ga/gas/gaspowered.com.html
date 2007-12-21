@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the gaspowered.com privacy policy that was archived on 2007-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070629043846id_/http%3A//www.gaspowered.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gaspowered.com privacy policy that was archived on 2007-12-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071221182740id_/http%3A//www.gaspowered.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head> 
 <meta http-equiv="Content-Style-Type" content="text/css">
@@ -109,7 +109,12 @@ var menu4=new Array()
 menu4[0]='<nobr><a  target="gpgnet" href="http://gpgnet.gaspowered.com/support.aspx">Tech Support <img vspace="1" border=0 src=/images2007/ext_link_wht.gif /></a></nobr>'
 menu4[1]='<a target="_forums" href="http://forums.gaspowered.com/">Gameplay FAQ: Supreme Commander <img vspace="1" border=0 src=/images2007/ext_link_wht.gif /></a>' 
 menu4[3]='<a target="_garage" href="http://garage.gaspowered.com/?q=gameplay">Gameplay FAQ: Dungeon Siege <img vspace="1" border=0 src=/images2007/ext_link_wht.gif /></a>'
-menu4[4]='<a target="_garage" href="http://garage.gaspowered.com/?q=modding">Modder Support: Dungeon Siege <img vspace="1" border=0 src=/images2007/ext_link_wht.gif /></a>' 
+
+
+
+var menu6=new Array() 
+menu6[0]='<a target="_garage" href="http://forums.gaspowered.com/viewforum.php?f=19">Supreme Commander <img vspace="1" border=0 src=/images2007/ext_link_wht.gif /></a>' 
+menu6[1]='<a target="_garage" href="http://garage.gaspowered.com/?q=modding">Dungeon Siege <img vspace="1" border=0 src=/images2007/ext_link_wht.gif /></a>' 
 
 
 var menu5=new Array() 
@@ -347,6 +352,132 @@ padding:3 0 3 0 ;margin:0 0 0 0 ;border:0 0 0 0 ;color:#384578;font-weight:900; 
 
 
 
+
+
+
+
+
+
+
+
+<script language="JavaScript" type="text/javascript">
+<!--
+// -----------------------------------------------------------------------------
+// Globals
+// Major version of Flash required
+var requiredMajorVersion = 8;
+// Minor version of Flash required
+var requiredMinorVersion = 0;
+// Revision of Flash required
+var requiredRevision = 0;
+// the version of javascript supported
+var jsVersion = 1.0;
+// -----------------------------------------------------------------------------
+// -->
+</script>
+<script language="VBScript" type="text/vbscript">
+<!-- // Visual basic helper required to detect Flash Player ActiveX control version information
+Function VBGetSwfVer(i)
+  on error resume next
+  Dim swControl, swVersion
+  swVersion = 0
+  
+  set swControl = CreateObject("ShockwaveFlash.ShockwaveFlash." + CStr(i))
+  if (IsObject(swControl)) then
+    swVersion = swControl.GetVariable("$version")
+  end if
+  VBGetSwfVer = swVersion
+End Function
+// -->
+</script>
+<script language="JavaScript1.1" type="text/javascript">
+<!-- // Detect Client Browser type
+var isIE  = (navigator.appVersion.indexOf("MSIE") != -1) ? true : false;
+var isWin = (navigator.appVersion.toLowerCase().indexOf("win") != -1) ? true : false;
+var isOpera = (navigator.userAgent.indexOf("Opera") != -1) ? true : false;
+jsVersion = 1.1;
+// JavaScript helper required to detect Flash Player PlugIn version information
+function JSGetSwfVer(i){
+	// NS/Opera version >= 3 check for Flash plugin in plugin array
+	if (navigator.plugins != null && navigator.plugins.length > 0) {
+		if (navigator.plugins["Shockwave Flash 2.0"] || navigator.plugins["Shockwave Flash"]) {
+			var swVer2 = navigator.plugins["Shockwave Flash 2.0"] ? " 2.0" : "";
+      		var flashDescription = navigator.plugins["Shockwave Flash" + swVer2].description;
+			descArray = flashDescription.split(" ");
+			tempArrayMajor = descArray[2].split(".");
+			versionMajor = tempArrayMajor[0];
+			versionMinor = tempArrayMajor[1];
+			if ( descArray[3] != "" ) {
+				tempArrayMinor = descArray[3].split("r");
+			} else {
+				tempArrayMinor = descArray[4].split("r");
+			}
+      		versionRevision = tempArrayMinor[1] > 0 ? tempArrayMinor[1] : 0;
+            flashVer = versionMajor + "." + versionMinor + "." + versionRevision;
+      	} else {
+			flashVer = -1;
+		}
+	}
+	// MSN/WebTV 2.6 supports Flash 4
+	else if (navigator.userAgent.toLowerCase().indexOf("webtv/2.6") != -1) flashVer = 4;
+	// WebTV 2.5 supports Flash 3
+	else if (navigator.userAgent.toLowerCase().indexOf("webtv/2.5") != -1) flashVer = 3;
+	// older WebTV supports Flash 2
+	else if (navigator.userAgent.toLowerCase().indexOf("webtv") != -1) flashVer = 2;
+	// Can't detect in all other cases
+	else {
+		
+		flashVer = -1;
+	}
+	return flashVer;
+} 
+// If called with no parameters this function returns a floating point value 
+// which should be the version of the Flash Player or 0.0 
+// ex: Flash Player 7r14 returns 7.14
+// If called with reqMajorVer, reqMinorVer, reqRevision returns true if that version or greater is available
+function DetectFlashVer(reqMajorVer, reqMinorVer, reqRevision) 
+{
+ 	reqVer = parseFloat(reqMajorVer + "." + reqRevision);
+   	// loop backwards through the versions until we find the newest version	
+	for (i=25;i>0;i--) {	
+		if (isIE && isWin && !isOpera) {
+			versionStr = VBGetSwfVer(i);
+		} else {
+			versionStr = JSGetSwfVer(i);		
+		}
+		if (versionStr == -1 ) { 
+			return false;
+		} else if (versionStr != 0) {
+			if(isIE && isWin && !isOpera) {
+				tempArray         = versionStr.split(" ");
+				tempString        = tempArray[1];
+				versionArray      = tempString .split(",");				
+			} else {
+				versionArray      = versionStr.split(".");
+			}
+			versionMajor      = versionArray[0];
+			versionMinor      = versionArray[1];
+			versionRevision   = versionArray[2];
+			
+			versionString     = versionMajor + "." + versionRevision;   // 7.0r24 == 7.24
+			versionNum        = parseFloat(versionString);
+        	// is the major.revision >= requested major.revision AND the minor version >= requested minor
+			if ( (versionMajor > reqMajorVer) && (versionNum >= reqVer) ) {
+				return true;
+			} else {
+				return ((versionNum >= reqVer && versionMinor >= reqMinorVer) ? true : false );	
+			}
+		}
+	}	
+	return (reqVer ? false : 0.0);
+}
+// -->
+</script>
+
+
+
+
+
   
 <script>
 
@@ -398,7 +529,7 @@ h1,h2,h3 {
 <tbody><tr>
 
 <td style="WIDTH:50%;" valign="bottom" alt=""></td><td style="WIDTH:19px;"><img src="/images2007/blank.gif" width="19" height="1"></td>
-<td valign="bottom" align="left" style="WIDTH:753;"><img src="/images2007/blank.gif" width="891" height="1"><br><table cellpadding="0" cellspacing="0" border="0">
+<td valign="bottom" align="left" style="WIDTH:753;"><img src="/images2007/blank.gif" width="890" height="1"><br><table cellpadding="0" cellspacing="0" border="0">
 
 	<tbody><tr>
 	
@@ -414,23 +545,24 @@ h1,h2,h3 {
 	</tr></tbody></table></td>
 	<td style="WIDTH:19px;"><img src="/images2007/blank.gif" width="19" height="1"></td>
 <td style="WIDTH:50%;  " valign="TOP" alt=""></td></tr></tbody></table>
-
 <!--      GPGnet HEADER        -->	
 <!--      GPGnet HEADER        -->	
 <!--      GPGnet HEADER        -->	
 <!--      GPGnet HEADER        --> 
-
-
-
-
 <table cellpadding="0" cellspacing="0" border="0" width="100%" height="77">
 <tbody><tr>
 
-<td style="WIDTH:50%; BACKGROUND: URL('/images2007/t1_r1_0.jpg') REPEAT-X;" valign="TOP" alt=""></td>
-<td style="WIDTH:19px;"><img src="/images2007/t1_r1_1.jpg" width="19" height="81" alt=""></td> 
-<td style="WIDTH:754px;"><a href="/"><img border="0" src="/images2007/headers/logo_bar_sc2.jpg" width="891" height="81" alt=""></a></td> 
-<td style="WIDTH:19px;"><img src="/images2007/t1_r1_2.jpg" width="19" height="81" alt=""></td> 
-<td style="WIDTH:50%; BACKGROUND: URL('/images2007/t1_r1_0.jpg') REPEAT-X;" valign="TOP" alt=""></td> 
+<td style="WIDTH:50%;height:80px; BACKGROUND: URL('/images2007/t1_r1_0.jpg') REPEAT-X;" valign="TOP" alt=""></td>
+<td style="WIDTH:19px;height:80px;"><img src="/images2007/t1_r1_1.jpg" width="19" height="80" alt=""></td> 
+<td style="WIDTH:890px;">
+	
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="890" height="80" id="newsheader" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab"><param name="movie" value="/flash/ban_man.swf?pageID=1198260089&amp;isDoubleTallFeature=&amp;bgcolor=White&amp;logo=/images2007/logo.png&amp;categoryID=&amp;imageRoot=/images2007/banners_features/banner_&amp;bannerLocale=GPGHome_banner"><param name="quality" value="high"><param name="wmode" value="transparent"><param name="scale" value="noscale"><param name="salign" value="lt"><param name="bgcolor" value="#000000"> 
+    <embed wmode="transparent" src="/flash/ban_man.swf?pageID=1198260089&amp;isDoubleTallFeature=&amp;bgcolor=White&amp;logo=/images2007/logo.png&amp;categoryID=&amp;imageRoot=/images2007/banners_features/banner_&amp;bannerLocale=GPGHome_banner" quality="high" salign="lt" bgcolor="#000000" width="890" height="80" name="newsheader" id="newsheader" align="middle" play="true" loop="false" scale="noscale" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer">
+    
+    </object>
+</td> 
+<td style="WIDTH:19px;height:80px;"><img src="/images2007/t1_r1_2.jpg" width="19" height="80" alt=""></td> 
+<td style="WIDTH:50%;height:80px; BACKGROUND: URL('/images2007/t1_r1_0.jpg') REPEAT-X;" valign="TOP" alt=""></td> 
 
 </tr></tbody></table>
 
@@ -442,7 +574,7 @@ h1,h2,h3 {
  
 <td style="WIDTH:50%;  " valign="TOP" alt=""></td>
 <td style="WIDTH:19px;"><img src="/images2007/t1_r2_1.jpg" width="19" height="26" alt=""></td> 
-<td style="WIDTH:891px;height:26px;background: url('/images2007/main_nav_black.gif')  repeat-X;padding:0px;" class="gpgNav1" height="26" alt="" valign="middle"> 
+<td style="WIDTH:890px;height:26px;background: url('/images2007/main_nav_black.gif')  repeat-X;padding:0px;" class="gpgNav1" height="26" alt="" valign="middle"> 
 
 
 
@@ -458,13 +590,15 @@ h1,h2,h3 {
 
 <a href="default.htm" class="gpnav_noOver" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, menu3, '150px')" onmouseout="delayhidemenu()">News &amp; Press</a> |
 
-<a href="default.htm" class="gpnav_noOver" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, menu4, '250px')" onmouseout="delayhidemenu()">Support</a> 
+<a href="default.htm" class="gpnav_noOver" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, menu4, '250px')" onmouseout="delayhidemenu()">Support</a>  |
+
+<a href="default.htm" class="gpnav_noOver" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, menu6, '250px')" onmouseout="delayhidemenu()">Modding</a> 
  
 
 
 </div>
 
-<img src="/images2007/blank.gif" width="891" height="1"></td> 
+<img src="/images2007/blank.gif" width="890" height="1"></td> 
 <td style="WIDTH:19px;"><img src="/images2007/t1_r2_2.jpg" width="19" height="26" alt=""></td> 
 <td style="WIDTH:50%;  " valign="TOP" alt=""></td> 
 
@@ -484,13 +618,13 @@ h1,h2,h3 {
  
 <td style="WIDTH:50%;  " valign="TOP" alt=""></td>
 <td style="WIDTH:19px;height:100%;background:  url('/images2007/t1_r5_1.jpg') repeat-y;" valign="top"><table cellpadding="0" cellspacing="0" border="0" style="width:19px;height:100%;background:  url('/images2007/t1_r4_1_lev3.jpg') no-repeat;"><tbody><tr><td><img src="/images2007/blank.gif" width="19"></td></tr></tbody></table></td> 
-<td style="WIDTH:891px; background:#cccccc;padding:0px;" height="269" alt="" valign="top"><table cellpadding="0" cellspacing="0" border="00" width="100%"><tbody><tr>
+<td style="WIDTH:890px; background:#cccccc;padding:0px;" height="269" alt="" valign="top"><table cellpadding="0" cellspacing="0" border="00" width="100%"><tbody><tr>
 <td style="WIDTH:0px;"></td><td>
 
 
 
 
-<table cellpadding="0" cellspacing="0" border="0" style="width:891px;height:100%;" width="100%"><tbody><tr><td style="width:100%;height:100%;" valign="top">
+<table cellpadding="0" cellspacing="0" border="0" style="width:890px;height:100%;" width="890px"><tbody><tr><td style="width:100%;height:100%;" valign="top">
 	
 <p class="thirdLevHeader"><br></p> 
 	
@@ -669,9 +803,9 @@ h1,h2,h3 {
 </div>  
 
 			  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	   
-</td><td style="width:15px;"></td></tr></tbody></table><br>&nbsp;<br><img src="" vspace="0" width="245" height="1"></td></tr></tbody></table> 
+</td><td style="width:15px;"></td></tr></tbody></table><br>&nbsp;<br><img src="" vspace="0" width="244" height="1"></td></tr></tbody></table> 
 
-<br><img src="/images2007/blank.gif" width="891" height="1"></td></tr></tbody></table></td> 
+<br><img src="/images2007/blank.gif" width="890" height="1"></td></tr></tbody></table></td> 
 <td style="WIDTH:19px;height:100%;  background:   url('/images2007/t1_r5_2.jpg') repeat-y;" valign="top"><table cellpadding="0" cellspacing="0" border="0" style="width:19px;height:100%;background:  url('/images2007/t1_r4_2_lev3.jpg') no-repeat;"><tbody><tr><td><img src="/images2007/blank.gif" width="19"></td></tr></tbody></table></td> 
 <td style="WIDTH:50%;  " valign="TOP" alt=""></td> 
 
@@ -686,7 +820,7 @@ h1,h2,h3 {
 
 <td style="WIDTH:50%;  " valign="TOP" alt=""></td>
 <td style="WIDTH:19px;"><img src="/images2007/blank.gif" width="19" height="10" alt=""></td> 
-<td style="width:891px;background: url('/images2007/gradientFooter2.gif') repeat-x  ;  " alt="" valign="middle" align="center"> 
+<td style="width:890px;background: url('/images2007/gradientFooter2.gif') repeat-x  ;  " alt="" valign="middle" align="center"> 
 
  
 
@@ -696,20 +830,22 @@ h1,h2,h3 {
 <a href="default.htm" class="gpnav_noOver" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, menu1, '240px')" onmouseout="delayhidemenu()">Games</a> | 
 <a href="default.htm" class="gpnav_noOver" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, menu2, '110px')" onmouseout="delayhidemenu()">Company</a> | 
 <a href="default.htm" class="gpnav_noOver" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, menu3, '150px')" onmouseout="delayhidemenu()">News &amp; Press</a> | 
-<a href="default.htm" class="gpnav_noOver" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, menu4, '250px')" onmouseout="delayhidemenu()">Support</a>
+<a href="default.htm" class="gpnav_noOver" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, menu4, '250px')" onmouseout="delayhidemenu()">Support</a> | 
+<a href="default.htm" class="gpnav_noOver" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, menu6, '250px')" onmouseout="delayhidemenu()">Modding</a>
 
-<br><img vspace="0" src="/images2007/blank.gif" width="891" height="1" border="0"></td>
+<br><img vspace="0" src="/images2007/blank.gif" width="890" height="1" border="0"></td>
 <td style="WIDTH:19px;height:09px;"><img src="/images2007/blank.gif" width="19" height="10" alt=""></td> 
 <td style="WIDTH:50%;  " valign="TOP" alt=""></td> 
 
 </tr>
-<tr><td style="WIDTH:50%;  " valign="TOP" alt=""></td><td style="WIDTH:19px; "></td><td style="width:891px;;background:#000000;height:1px;"><img vspace="0" src="/images2007/blank.gif" width="891" height="1" border="0"></td><td style="WIDTH:19px;"></td><td style="WIDTH:50%;  " valign="TOP" alt=""></td>
+<tr><td style="WIDTH:50%;  " valign="TOP" alt=""></td><td style="WIDTH:19px; "></td><td style="width:890px;;background:#000000;height:1px;"><img vspace="0" src="/images2007/blank.gif" width="890" height="1" border="0"></td><td style="WIDTH:19px;"></td><td style="WIDTH:50%;  " valign="TOP" alt=""></td>
 	</tr>
-</tbody></table><table border="0" cellpadding="0" cellspacing="0" width="891" align="center">
+</tbody></table><table border="0" cellpadding="0" cellspacing="0" width="890" align="center">
 	<tbody><tr><td style="WIDTH:19px;"><img src="/images2007/blank.gif" width="19" height="1"></td>
- 		<td border="0" valign="top"><table cellpadding="0" cellspacing="0" border="0" align="center" width="891" style="line-height:10px;font-family:verdana, helvetica, sans-serif;font-size:10px;"><tbody><tr><td align="center" valign="top" style="color:#777777">&nbsp;<a class="globalFOOTER" href="http://www.gaspowered.com/goto.php?sURL=http://store.gaspowered.com/">Store</a>&nbsp;&nbsp;&nbsp;<span class="main_text">|</span>&nbsp;&nbsp;&nbsp;<a class="globalFOOTER" href="http://gpgnet.gaspowered.com/">GPGnet</a>&nbsp;&nbsp;&nbsp;<span class="main_text">|</span>&nbsp;&nbsp;&nbsp;<a class="globalFOOTER" href="http://forums.gaspowered.com/">SC Forums</a>&nbsp;&nbsp;&nbsp;<span class="main_text">|</span>&nbsp;&nbsp;&nbsp;<a class="globalFOOTER" href="http://garage.gaspowered.com/">DS Forums</a>&nbsp;&nbsp;&nbsp;<span class="main_text">|</span>&nbsp;&nbsp;&nbsp;<a class="globalFOOTER" href="/termsofuse.php">Terms of Use</a>&nbsp;&nbsp;&nbsp;<span class="main_text">|</span>&nbsp;&nbsp;&nbsp;<a class="globalFOOTER" href="/copyright.php">Copyright Information</a>&nbsp;&nbsp;&nbsp;<span class="main_text">|</span>&nbsp;&nbsp;&nbsp;<a class="globalFOOTER" href="/privacy.php">Privacy Policy</a>
+ 		<td border="0" valign="top" align="center"><table cellpadding="0" cellspacing="0" border="0" align="center" width="890" style="line-height:10px;font-family:verdana, helvetica, sans-serif;font-size:10px;"><tbody><tr><td align="center" valign="top" bgcolor="#666666" style="color:#777777">&nbsp;<a class="globalFOOTER" href="http://www.gaspowered.com/goto.php?sURL=http://store.gaspowered.com/">Store</a>&nbsp;&nbsp;&nbsp;<span class="main_text">|</span>&nbsp;&nbsp;&nbsp;<a class="globalFOOTER" href="http://gpgnet.gaspowered.com/">GPGnet</a>&nbsp;&nbsp;&nbsp;<span class="main_text">|</span>&nbsp;&nbsp;&nbsp;<a class="globalFOOTER" href="http://forums.gaspowered.com/">SC Forums</a>&nbsp;&nbsp;&nbsp;<span class="main_text">|</span>&nbsp;&nbsp;&nbsp;<a class="globalFOOTER" href="http://garage.gaspowered.com/">DS Forums</a>&nbsp;&nbsp;&nbsp;<span class="main_text">|</span>&nbsp;&nbsp;&nbsp;<a class="globalFOOTER" href="/termsofuse.php">Terms of Use</a>&nbsp;&nbsp;&nbsp;<span class="main_text">|</span>&nbsp;&nbsp;&nbsp;<a class="globalFOOTER" href="/copyright.php">Copyright Information</a>&nbsp;&nbsp;&nbsp;<span class="main_text">|</span>&nbsp;&nbsp;&nbsp;<a class="globalFOOTER" href="/privacy.php">Privacy Policy</a>
 
 
-</td></tr></tbody></table></td><td style="WIDTH:19px;"><img src="/images2007/blank.gif" width="19" height="1"></td>
+</td></tr></tbody></table>
+</td><td style="WIDTH:19px;"><img src="/images2007/blank.gif" width="19" height="1"></td>
 	</tr>
 </tbody></table></body></html>
