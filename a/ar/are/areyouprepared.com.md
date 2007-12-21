@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the areyouprepared.com privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609211105id_/http%3A//www.areyouprepared.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the areyouprepared.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221110629id_/http%3A//www.areyouprepared.com/privacy.html) for the most accurate reproduction.*
 
 # Emergency Preparedness - Security and Privacy
 
