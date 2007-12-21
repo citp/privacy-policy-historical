@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hookah-shisha.com privacy policy that was archived on 2007-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070514002535id_/http%3A//www.hookah-shisha.com/store/pc/hookah-privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hookah-shisha.com privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222000338id_/http%3A//www.hookah-shisha.com/store/pc/hookah-privacy.asp) for the most accurate reproduction.*
 
-# Hookah and Shisha Central - Buy Hookahs, Shisha Tobacco, Hooka Tobacco, Cheap Hookah Pipes and smoking accessories. - Hookah and Shisha Central
+# Hookah-Shisha.com Privacy Policy. A secure hookah site you can trust and build confidence in. - Hookah and Shisha Central
 
-**PRIVACY POLICY**
+PRIVACY POLICY
 
 We have created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this web site.
 
@@ -16,12 +16,12 @@ This site may contain links to other sites. We are not responsible for the priva
 
 Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information and unique identifiers. Contact information from the order form is used to send orders and information about our company to our customers. The customer's contact information is also used to get in touch with the visitor when necessary. Users may opt-out of receiving future mailings. Unique identifiers are collected from Web site visitors to verify the user's identity and for use as account numbers in our record system.
 
- **Security**  
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. All data is protected using the most advanced methods available. We do not store financial information like credit card numbers or personal information like social security numbers on this site.
+Security  
+When ordering hookahs, hookah tobacco, or any other hookah related items from our site has security measures in place to protect the loss, misuse and alteration of the information under our control. All data is protected using the most advanced methods available. We do not store financial information like credit card numbers or personal information like social security numbers on this site.
 
- **Un-Subscribe**
+Un-Subscribe
 
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive mail list messages. 
 
-**Correct/Update**  
+Correct/Update  
 This site gives users the options for changing and modifying information previously provided.
