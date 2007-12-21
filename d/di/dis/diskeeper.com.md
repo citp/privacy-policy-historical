@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the diskeeper.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623202224id_/http%3A//www.diskeeper.com/legal/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diskeeper.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221083600id_/http%3A//www.diskeeper.com/legal/privacy-policy.asp) for the most accurate reproduction.*
 
 # Diskeeper Corporation Privacy Policy
 
-    |     
+   
  **Privacy Policy**
 
 * * *
@@ -13,7 +13,7 @@ Diskeeper Corporation, formerly Executive Software International, Inc., has take
 If for some reason you believe Diskeeper Corporation has not adhered to these principles, please notify us by email at _[privacy@diskeeper.com](mailto:privacy@diskeeper.com)_ , and we will do our best to determine and correct the problem promptly. Be certain that the words Privacy Policy are in the subject line. **Notice**  
 To customize our site to your needs, we will initiate a one time only request for information from you when you attempt to access a customizable section of our web site. Such data will enable us to identify you each time you enter our site and provides us with some marketing demographic data. This information is provided through a [User Profile](https://web.archive.org/profile/profile.asp) when you first attempt to download freeware or trialware, subscribe to e-mail newsletters or sign up for field testing. We utilize your personal information for these three purposes:
 
-|  | 
+| 
 
 -
 
@@ -81,5 +81,3 @@ When you buy and install a new product, we will offer you the option to register
 As mentioned above, every registered customer has a unique personal profile. Each profile is assigned a unique personal identification number, which helps us ensure that only you can access your profile.
 
 When you register, we send this information number back to your hard drive in the form of a cookie, which is a very small bit of code. This code is uniquely yours, allowing you to download freeware and trialware and order free newsletters without having to resubmit information. Even if you switch computers, you won't have to re-register - just use your User Name and Password to identify yourself.
-
-   
