@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the jumpbox.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629083116id_/http%3A//www.jumpbox.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jumpbox.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221205320id_/http%3A//www.jumpbox.com/privacy-policy) for the most accurate reproduction.*
 
-# JumpBox: » Privacy Policy
+# Privacy Policy | JumpBox Inc.
 
 **Privacy Policy**
 
-JumpBox, Inc. (”JumpBox”) values the privacy of our Users, users, members, and others who use www.jumpbox.com (the “JumpBox Service”) (collectively or individually “Users”). This statement governs information you provide to us or that we learn from your use of the JumpBox Service and tells you how we may collect, use, and in some instances share this information.
+JumpBox, Inc. ("JumpBox") values the privacy of our Users, users, members, and others who use [www.jumpbox.com](http://www.jumpbox.com/ "www.jumpbox.com") (the "JumpBox Service") (collectively or individually "Users"). This statement governs information you provide to us or that we learn from your use of the JumpBox Service and tells you how we may collect, use, and in some instances share this information.
 
 **The Information JumpBox Collects**
 
-  * _User Provided Information_ : You provide to JumpBox what is generally called “personally identifiable” information when you register and possibly a credit card or other means of payment to or from JumpBox. 
-  * _“Cookies” Information_ : When you visit the JumpBox Service, we may send one or more cookies – a small text file containing a string of alphanumeric characters – to your computer. JumpBox uses both session cookies and persistent cookies. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to the JumpBox Service. By using these cookies, we can “remember” what you have done on the JumpBox Service before and personalize our site for you. These persistent types of cookies can be removed, but each web browser is a little different, so please look through your browser “Help” file to learn the correct way to modify your cookies set-up. Please note that disabling cookies may prevent you from accessing some of the functionality and site offerings available via the JumpBox Service. 
-  * _“Automatically Collected” Information_ : When you visit the JumpBox Service or open one of our HTML emails, we may record certain information from your web browser by using different types of technology, including “clear gifs” or “web beacons.” This “automatically collected” information may include your Internet Protocol address (“IP Address”), web browser type, the web pages or sites that you visit just before or just after the JumpBox Service, the pages you view on our site, and the dates and times that you visit. 
+  * _User Provided Information_ : You provide to JumpBox what is generally called "personally identifiable" information when you register and possibly a credit card or other means of payment to or from JumpBox. 
+  * _"Cookies" Information_ : When you visit the JumpBox Service, we may send one or more cookies – a small text file containing a string of alphanumeric characters – to your computer. JumpBox uses both session cookies and persistent cookies. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to the JumpBox Service. By using these cookies, we can "remember" what you have done on the JumpBox Service before and personalize our site for you. These persistent types of cookies can be removed, but each web browser is a little different, so please look through your browser "Help" file to learn the correct way to modify your cookies set-up. Please note that disabling cookies may prevent you from accessing some of the functionality and site offerings available via the JumpBox Service. 
+  * _"Automatically Collected" Information_ : When you visit the JumpBox Service or open one of our HTML emails, we may record certain information from your web browser by using different types of technology, including "clear gifs" or "web beacons." This "automatically collected" information may include your Internet Protocol address (“IP Address”), web browser type, the web pages or sites that you visit just before or just after the JumpBox Service, the pages you view on our site, and the dates and times that you visit. 
 
 
 
@@ -74,12 +74,12 @@ If JumpBox should ever file for bankruptcy or have its assets sold to or merge w
 
 **Changes and Updates to this Privacy Policy**
 
-We may occasionally update this Privacy Policy. When we do, we will also revise the “effective date” on the Privacy Policy. For changes to this Privacy Policy that may be materially less restrictive on our use or disclosure of personal information that you have provided to us, we will attempt to obtain your consent before implementing the change. We encourage you to periodically review this Privacy Policy to stay informed about how we are protecting the personal information we collect. Your continued use of the JumpBox Service constitutes your agreement to this Privacy Policy and any updates.  
+We may occasionally update this Privacy Policy. When we do, we will also revise the "effective date" on the Privacy Policy. For changes to this Privacy Policy that may be materially less restrictive on our use or disclosure of personal information that you have provided to us, we will attempt to obtain your consent before implementing the change. We encourage you to periodically review this Privacy Policy to stay informed about how we are protecting the personal information we collect. Your continued use of the JumpBox Service constitutes your agreement to this Privacy Policy and any updates.  
 **  
 Contacting JumpBox**
 
 If you have any questions, comments, or concerns about this Privacy Policy, please email us at support -at- jumpbox -dot- com.  
 Postal Mail Address: 420 W. 1st St. #108 Tempe, AZ 85281
 
-If you have a privacy concern regarding the JumpBox Service or this Policy and if you cannot satisfactorily resolve it through the use of the JumpBox Service you should write to support -at- jumpbox -dot- com. You may also leave a comment on the relevant [FAQ](https://web.archive.org/archives/category/faqs). In the event that we are still unable to resolve your concerns JumpBox is committed to cooperating to achieve a proper resolution of your privacy concerns.  
+If you have a privacy concern regarding the JumpBox Service or this Policy and if you cannot satisfactorily resolve it through the use of the JumpBox Service you should write to support -at- jumpbox -dot- com. You may also leave a comment on the relevant [FAQ](https://web.archive.org/faq). In the event that we are still unable to resolve your concerns JumpBox is committed to cooperating to achieve a proper resolution of your privacy concerns.  
 Effective Date: 4/19/07
