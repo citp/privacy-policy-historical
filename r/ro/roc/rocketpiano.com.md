@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rocketpiano.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623045217id_/http%3A//rockstarrecipes.com/main/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rocketpiano.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221124424id_/http%3A//rockstarrecipes.com/main/privacy.php) for the most accurate reproduction.*
 
 # Rock Star Recipes
 
