@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the abovetheinfluence.com privacy policy that was archived on 2007-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070516195448id_/http%3A//www.abovetheinfluence.com/footer/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abovetheinfluence.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221091325id_/http%3A//www.abovetheinfluence.com/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - above the influence
+# Privacy Policy | AboveTheInfluence.com
 
 Through its National Youth Anti-Drug Media Campaign, the White House Office of National Drug Control Policy (ONDCP) created the AbovetheInfluence Web site to help teens become more aware of and assess influences around them, including drugs. We take your privacy very seriously. In compliance with the Children's Online Privacy Protection Act, and the online privacy guidelines of the White House Office of Management and Budget, we do not sell, share or rent any personally identifying information about you.
 
-**COPPA**   
+**COPPA**  
 We will never knowingly request personally identifiable information from anyone under the age of 13, to remain consistent with the Children's Online Privacy Protection Act (COPPA) of 1998.
 
 **Information You Submit**  
@@ -16,8 +16,7 @@ If you choose to submit a Creative Submission (message, photo, poetry, video etc
 
 **I.** In order to submit a Creative Submission, we require following information:   
 Screen Name (which is a nickname, NOT your legal name)   
-* If you are an AOL user, please be sure to alter the screen name you submit to us, because AOL screen names function as e-mail addresses too. 
-
+* If you are an AOL user, please be sure to alter the screen name you submit to us, because AOL screen names function as e-mail addresses too.   
 Age
 
 The following registration information is optional: 
@@ -62,14 +61,13 @@ For site security purposes and to ensure that this service remains available to 
 
 Unauthorized attempts to upload information or change information on this service are strictly prohibited and may be punishable under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act.
 
-**Links**
-
+**Links**  
 You should be aware that AbovetheInfluence.com links to other Web sites that are beyond our control. Those links are marked with an arrow like this  We are not responsible for, nor have we reviewed all of the content of these sites. These other sites may collect data or solicit personal information. Always be aware of where you end up on the Web.
 
 **Notification of Changes**  
 If we decide to change our privacy policy, we will post those changes on our homepage so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
 
-**Contact Information**   
+**Contact Information**  
 If you have questions about our Privacy Policy or are interested in sending us your suggestions, comments or concerns, please contact us at [contactus@AbovetheInfluence.com](mailto:contactus@AbovetheInfluence.com).
 
 For more information about online privacy, please review the tips provided on the [GetNetWise](http://www.getnetwise.org/safetyguide/tips/kids.shtml) Web site or the [Federal Trade Commission's kid's privacy](http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/index.html) page: 
@@ -83,4 +81,4 @@ This privacy policy also pertains to the following URLS that are directed to the
 
 National Youth Anti-Drug Media Campaign  
 750 17th Street, NW   
-Washington, DC  20503  USA
+Washington, DC 20503 USA
