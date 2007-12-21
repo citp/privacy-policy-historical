@@ -1,153 +1,149 @@
-> *The following text is extracted and transformed from the econsultancy.com privacy policy that was archived on 2006-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060318104808id_/http%3A//www.networksolutions.com/legal/privacy-policy.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the econsultancy.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221114934id_/http%3A//www.e-consultancy.com/about/privacy.asp) for the most accurate reproduction.*
 
-# Service Agreement | Network Solutions
+# Privacy Policy | About | E-consultancy.com
 
-Updated September 30, 2004
+## Overview
 
-Version 2.4
+#### Effective: 04 April 2005
 
-#### Privacy Topics
+[](http://www.truste.org/ivalidate.php?url=www.e-consultancy.com&sealid=101)E-consultancy.com is committed to protecting and respecting your privacy. Indeed, protection of your data is one of the key success criteria by which we measure our performance. This privacy policy is based on the guidelines laid out by the TRUSTe Privacy Program and as required by the UK Data Protection Acts of 1984 and 1998. **E-consultancy is a Licensee of TRUSTe's privacy program.** TRUSTe is a non-profit organization dedicated to building trust in the Internet by having **member organizations disclose information practices.**
 
-  * Why A Privacy Policy?
-  * Getting to Know our Customers
-  * Third Party Advertising and Cookies
-  * Information Corrections or Changes
-  * How We Put Information to Good Use
-  * With Whom We May Share Information
-  * How Do I Get My Name Removed from Bulk Access
-  * Our Accountability to You
-  * Employee Accountability
-  * The Accountability of Network Solutions' Agents and Business Partners
-  * Notification of Changes
+TRUSTe operates as a third-party "watch dog" by auditing privacy practices to make sure that they are in compliance with TRUSTe's privacy standards. In as far as this represents **best practice on the web** , e-consultancy.com is committed to complying with these standards so that members can feel secure in the knowledge that their **personal data is properly managed**. If you have questions or concerns regarding this statement, you should first [contact](https://web.archive.org/about/contact.asp) Ashley Friedlein. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
 
+This document discloses the privacy practices for www.e-consultancy.com including: 
 
+  * What personally identifiable information of yours is collected
+  * What organization is collecting the information
+  * How the information is used
+  * With whom the information may be shared
+  * What choices are available to you regarding collection, use and distribution of the information
+  * What kind of security procedures are in place to protect the loss, misuse or alteration of information under E-consultancy's control
+  * How you can correct any inaccuracies in the information.
 
-#### Why A Privacy Policy?
 
-Network Solutions respects your individual privacy. This Privacy Policy ('Policy') embodies our commitment to its protection through adherence to fair electronic information practices. This Policy puts you, the individual, in control of how your personal information is processed. You have our promise that we will not electronically process your personal information in any way that is incompatible with this Policy.
 
-#### This Privacy Policy protects your privacy by:
+Questions regarding this privacy policy should be directed to E-consultancy.com ltd via our [contact form](https://web.archive.org/about/contact.asp)
 
-#### Informing you about:
+**Table of Contents**
 
-  * The types of personal information Network Solutions collects about you through its Web sites;
-  * How it collects that information;
-  * The general purposes for which it collects such information;
-  * The types of organizations to which it discloses the information;
-  * The choices and means by which individuals may limit its use and disclosure.
+  1. Under 18s
+  2. Information We Collect
+  3. Our Use of Your Information
+  4. Our Disclosure of Your Information
+  5. Your Use of Other Users' Information
+  6. "Tell a friend" services
+  7. Control of Your Password
+  8. Reviewing and Changing Your Personally Identifiable Information
+  9. Other Information Collectors
+  10. Security
+  11. Changes to Privacy Policy
+  12. Changes to Privacy Policy
+  13. Downloadable Software Disclaimer
+  14. Physical Mailing Address
 
 
 
-#### Empowering you to choose:
+**1\. Under 18s**
 
-  * Whether and how certain personal information you provide is used (where such use is unrelated to the uses for which you originally disclosed it); and
-  * Whether and the manner in which a third party uses certain personal information you provide (where such use is unrelated to the uses for which you originally disclosed it).
+**Children are not eligible to use our services** and we ask that minors (under 18 years of age) do not submit any personal information to us. 
 
+**2\. Information We Collect.**
 
+Our primary goal in collecting personal information from you is to provide you with a **smooth, efficient, and personalized experience** while using our services. This allows us to provide services and features that most likely meet your needs, and to customize our service to make your experience easier and quicker.
 
-#### Assuring you that Network Solutions:
+To fully use our services, **you will need to register** using our [online registration form](https://web.archive.org/account/register.asp), where you will be required to provide us with your contact information (e.g. e-mail address) and some other information relating to your professional employment (e.g. name of the company you work for, your position there). We automatically **track certain information** about you based upon your behaviour on our site. We use this information to do **internal research** on our users' demographics, interests, and behaviour to better understand and serve our users. This information is compiled and analysed on an **aggregated basis**.
 
-  * Takes reasonable precautions to protect personal information from loss, misuse, unauthorized access, disclosure, alteration or destruction;
-  * Implements reasonable policies and procedures to ensure that personal information is kept only for the purposes for which it has been gathered;
-  * Uses reasonable measures to ensure that we have accurately and completely recorded the personal information you have provided; and
-  * Provides you reasonable access to your personal information as well as procedures for correcting or modifying that information where appropriate.
+Using the Site's web server **log files** , we use IP addresses to analyze trends, track users' movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. This information may include the URL that you just came from (whether this URL is on our site or not), which URL you next go to (whether this URL is on our site or not), what browser and operating system you are using, your IP address etc.
 
+In addition, **we use cookies** on certain pages of our site. We may also offer certain features that are only available through the use of a cookie. Cookies can also help us provide information which is targeted to your interests. Cookies are stored on your hard drive, not on our site. Most cookies are "session cookies," meaning that they are automatically deleted at the end of a session. The other type of cookie we use is a 'persistent' cookie. This stays on your hard drive and we use this to automatically identify who you are. We use this cookie so that you do not need to log in manually every time you visit the site if you are a registered user. The cookie itself contains no personally identifiable information but it does pass an ID to our server which allows us to tie the cookie to your personal information. We do this to allow us to let you know on the homepage what has changed on the site since your last visit. We also use the cookie to track how often you visit the site so we know who our most loyal users are. You are always free to decline our cookies if your browser permits, although in that case you will not be able to use certain features on our site. For example, if you disable cookies, you will need to log in manually each time you visit the site as we cannot use a cookie to remember who you are. Some of our business partners (e.g. net-filter.com; hitbox.com) use cookies on our site. These are used to monitor site performance and to measure site traffic and usage. We have no access to or control over these cookies. This privacy statement covers the use of cookies by E-consultancy only and does not cover the use of cookies by any advertisers.
 
+**Surveys & Contests.** From time-to-time our site may request information from users via surveys, contests or for a particular service (e.g. newsletter). Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested will include contact information (as supplied to the site during registration) and supplementary information on your professional interests, opinions and preferences (e.g. choice of software, working practices, opinions on industry issues, feedback on the E-consultancy.com web site). We will use the contact information to notify winners. We will not publish winners' details on the site though on request we will provide details of any winners' name and organisation. If the survey or contest has a sponsor then we will share information given by entrants with the sponsor.
 
-**Ensuring accountability** to individuals who believe that Network Solutions has not complied with these privacy principles.
+**Payment Processing.** In order to process payments online we require the billing address for the credit card used and our external payment provider, [WorldPay](http://www.worldpay.com/), requires your credit card details. For details of how your information is used, please see following section. 
 
-#### Getting to Know Our Customers
+**3\. Our Use of Your Information.**
 
-Network Solutions is in the business of putting people in touch with other people. That requires more than simply offering innovative technical services. It also requires that we understand you, our customer, and your needs. Indeed, we are the Internet's leading domain name registrar because we have taken the time to get acquainted with each one of our many customers.
+We use personally identifiable information about you to improve our marketing and promotional efforts, to **statistically analyse site usage** , to improve our content and product offerings and to customise our site's content, layout, and services. We believe these uses allow us to improve our site and better tailor it to meet our users' needs.
 
-We get to know you primarily through the information you provide to us when signing up for, or using, one or more of our services. The information you provide ranges from basic contact information, to payment information, to the technical coordinates of your host servers. The application for domain name registration services found at [www.networksolutions.com](https://web.archive.org/web/20060318104808id_/http%3A//www.networksolutions.com/legal/www.networksolutions.com) is a representative illustration of the information we request of you. All of the information we request from you when purchasing our services is obligatory unless otherwise noted on the relevant form. When you purchase our services, you agree to provide and maintain accurate, complete and updated information.
+We use your **e-mail address** to send you newsletters or other communications (for example, digests of the forum posts) that you have requested from the Site. Out of respect for our users we offer an opt-out (see 4. below).
 
-After you have signed up for our services, we may be in communication with you about your account, technical questions you may have about services provided by us, or any other matter relating to those services. Those communications are essential to our relationship with you and to our ability to provide you with quality services that are responsive to your needs. At the same time, those communications give us helpful insights about you, your preferences and the ways in which we might improve our services. We therefore may maintain this information for future use.
+We use information in the file we maintain about you, and other information we obtain from your current and past activities on the Site, to resolve any disputes, troubleshoot problems and enforce our User Agreement. At times, we may look across multiple users to identify problems or resolve disputes, and in particular on rare occasions we may evaluate your information to look for users using multiple User IDs or alias.
 
-For operational and quality assurance purposes, we take note of whether and how you use the information and services that we provide, such as by recording site traffic patterns and by maintaining log files of users' access to site files.
+**Payment Processing**. We take online payments for our [subscription and membership](https://web.archive.org/about/subscription-membership.asp) services. We use [WorldPay](http://www.worldpay.com/) as our external payment provider. In addition to the information outlined above, we require the billing address of the credit card you use so that we can pass this to WorldPay who check the address against the cardholder's details for security purposes. We store these billing details on our servers in case we need to contact you in the future regarding payments. WorldPay requires that you provide your credit card details to process the transaction. This is done on a secure WorldPay server using SSL (secure sockets layer). As you go through the transaction process we let you know when you are about to be transferred to WorldPay's servers for the secure transaction. These pages have the look and feel of the E-consultancy site as we use the WorldPay templates to keep as much of the E-consultancy branding as possible but you are actually on the WorldPay servers and the information you submit goes to WorldPay. After the transaction has been authorized you are returned to the E-consultancy site. E-consultancy does not have any access to these credit card details and they are not stored or processed in any way by E-consultancy. In the case of a suspected fraudulent transaction, card details may be disclosed to E-consultancy by WorldPay for the sole purpose of performing further checks. E-consultancy is not permitted to then retain these details. These details are stored securely by WorldPay in order to process future payments you may make, but WorldPay does not use your information for any other purpose.
 
-The information we receive from or about you is stored on systems designed to prevent the loss, misuse, unauthorized access, disclosure, alteration or destruction of that information. We also encrypt your transmission of sensitive information to us (e.g., credit card numbers, account passwords) in the interest of heightened privacy protection and information integrity. Transactions within our account manager and purchase flows use Secure Sockets Layer (SSL) encryption when transmitting data from your connection to our systems. You may click the lock icon within your web browser to verify the authenticity of any or our SSL certificates.
+Your Personal Information is stored in our databases, which are located in the UK. Please note that the information you enter may at some time be transferred outside the European Economic Area for the purposes of processing by E-consultancy.com or any of its affiliates. By submitting your information, you consent to this transfer.
 
-#### Third Party Advertising and Cookies
+E-consultancy.com complies with the UK Data Protection Act 1998 and is registered with the Data Protection Registrar number Z4942204. 
 
-We use third-party advertising companies to serve ads on our Web site and other Web sites. In the course of serving advertisements, these companies may place or recognize a unique 'cookie' on your hard drive, and may use information (not including your name, address, e-mail address, or telephone number) about your visits to this and other web sites in order to measure advertising effectiveness and to provide advertisements about goods and services of interest to you. For more information about this practice and to know your choices about not having your information used by these companies, please visit <http://www.doubleclick.net/us/corporate/privacy>.
+**4\. Opt-Out of Email Communications**
 
-Network Solutions shares Web site usage information about visitors to our Web site with a reputable third-party advertising company for the purpose of targeting our Internet banner advertisements on this site and other sites. For this purpose, we and our third-party advertising company note some of the pages you visit on our Web site through the use of pixel tags (also called clear gifs). The information collected by our third-party advertising company through the use of these pixel tags is not personally identifiable. For more information about our third-party advertiser, please click here. To opt out of the targeting program, please click [here](http://www.privacychoices.org/ "http://www.privacychoices.org/").
+If at any stage you wish no longer to receive any e-mails that you receive from the site you can stop them coming by changing your preferences in the "E-mail services" section under "Your profile" which can be found at [http://www.e-consultancy.com/account/email.asp](https://web.archive.org/account/email.asp). On this page you can define what e-mails you receive from the site (if any) and save your settings. 
 
-#### Information Corrections or Changes
+**5\. Our Disclosure of Your Information**
 
-You have the ability to correct or change certain information in our records, such as your address and contact information. The process for changing your information begins at <https://www.networksolutions.com/manage-it/index.jhtml>. You may change this information at any time and as often as necessary. If you need assistance or have questions about correcting information, you can contact us via e-mail at [customerservice@networksolutions.com](mailto:customerservice@networksolutions.com).
+Unfortunately, due to the existing regulatory environment, we cannot ensure that all of your private communications and other personally identifiable information will never be disclosed in ways not otherwise described in this Privacy Policy.
 
-#### How We Put Information to Good Use
+By way of example (without limiting the foregoing), we may be forced to disclose information to the government or third parties under certain circumstances, or third parties may unlawfully intercept or access transmissions or private communications. We can (and you authorize us to) disclose any information about you to **law enforcement** or other government officials as we, in our sole discretion, believe necessary or appropriate, in connection with an investigation of fraud, intellectual property infringements, or other activity that is illegal or may expose us to legal liability.
 
-We use information about you for purposes of monitoring and improving our internal operations, as well as to ensure we: (i) bill you properly, (ii) administer your account in accordance with your agreements with us, and (iii) properly perform the services you have requested.
+As a general proposition, **we do not sell or rent any personally identifiable information about you to any third party.**
 
-We also use the information we collect to monitor and improve our internal operations, as well as to improve the experience of users in our network of sites. For example, we may correlate Web site traffic information with data about individual users. This data helps us to determine how much our customers use parts of the site, allowing us to enhance it to fit the needs of as many of our customers as possible. We may also break down overall usage statistics according to customers' domain names, browser types, and MIME types by reading this information from the browser string (information contained in every user's browser).
+**Advertisers.** We do **aggregate** personally identifiable information and disclose such information in aggregate to advertisers and for other marketing and promotional purposes. However, in these situations, we do not disclose to these entities any information that could be used to personally identify you.
 
-Another example of our use of information to enhance the experience of users in our network of sites is our reliance on cookie files. We use cookie files to make it easier for users to access our site or services. A cookie file is a small data file that certain Web sites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you have visited. However, the only personal information a cookie can contain is information you supply yourself. A cookie cannot read data off your hard disk or read cookie files created by other sites. We use cookies to track user traffic patterns (as described above) when you register for Network Solutions services. When you register, we may use a cookie to store a unique, random user ID. We use this ID to identify you anonymously in our database and to track the pages you visit on our site.
+**E-consultancy.com community**. Throughout the Site, you are identified by your User ID, which is thereby disclosed to other users and third parties. Your User ID can be used to identify you and your activities throughout the Site. Other people can see your rating, your postings on the Site, and so on. We also provide others a number of ways to allow other users to find more out about you and your site activities if you give them permission to access this information. Please be aware that if you post personal information online that is accessible to the public, you risk receiving unsolicited messages from other parties in return. E-consultancy.com cannot be liable for any such communications.
 
-If you have set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You may refuse cookies by turning them off in your browser; however, some of our sites may require a cookie for access.
+**Legal Requests**. E-consultancy.com cooperates with law enforcement inquiries and other third parties to enforce laws, intellectual property and other rights. Local, and international law enforcement agents can request and may receive your personally identifiable information.
 
-Finally, we use the information we collect to direct important notices and information affecting your account or services, as well as to provide general information that may be of interest to you, including newsletters, surveys, contest and sweepstake announcements, and information about our service or product offerings or the offerings of our business affiliates. You may opt-out of receiving information from us simply by notifying us of your desire in accordance with the opt-out instructions contained in any information message you receive from us. Note, however, that in order to fulfill our service obligations to you, we must continue sending you notices and other important information affecting your account or services.
+**Suppliers and Other Service Providers**. From time to time we use third party Suppliers and Service Providers to facilitate our services. Where any Service Provider collects information directly from you (such as the situation where we ask a Service Provider to conduct a survey for us) you will be notified of the involvement of the Supplier or Service Provider, and all information disclosures you make will be strictly optional. 
 
-#### With Whom We May Share Information
+**6\. Discussion Forums**
 
-Pursuant to arrangements with Internet Corporation for Assigned Names and Numbers ('ICANN'), we compile and maintain a publicly accessible registration database that includes basic information about each domain name registered with us, including the names, telephone numbers and e-mail addresses of individuals designated as points of contact for a given domain name. Whether or not applicable domain name registration fees have been paid is also publicly accessible. With the gradual continued privatization of the Domain Name System, and consistent with the rules or policies applicable to that system, or to comply with any changes in law or regulation, we may, if appropriate, take steps to restrict the accessibility and amount of personally identifying information available in the registration database
+If you choose to post **messages in our forums** , or leave a message or comment in other areas of the site (e.g. comments in the Providers section of the site), or leave feedback for us or other users, we will store such information in a file personal to you. This is so that we can see what contributions you have made to the site. 
 
-When you register a domain name through us, we must disclose your domain name and its associated Internet Protocol ("IP") numbers to the appropriate registry in order to make your chosen domain name a functional address on the Internet. Certain registries also require that we disclose to them the names, postal addresses, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name. Each registry discloses certain portions (and in some cases all) of the information we are required to provide to them about your domain name registration. For example, each registry discloses at least each registered domain name and its associated IP numbers ("TLD zone files") to TLD server administrators so that the domain name is capable of functioning as an address on the Internet. Consistent with the current rules and policies for the Domain Name System, such registries also disclose the TLD zone files to other interested persons, provided those persons agree, among other things, not to use the TLD zone files for improper purposes, including the transmission of unsolicited commercial e-mail. Similarly, each registry may compile and maintain a publicly accessible database that includes basic information about each domain name registered with that registry, including the names, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name.
+Where you make such comments or forum posts, your User ID will also be given on the site allowing other users to click on it to find out more about you. Although you may update and choose your own User ID, it is always publically available information. For all other personal profile information you may choose what other site users can see using the ' **Modify Profile** ' section of the site at [http://www.e-consultancy.com/account/modifyprofile.asp](https://web.archive.org/account/modifyprofile.asp)
 
-We may share certain information about you with those of our vendors who are responsible for handling your account or performing other services that you require (including vendors who may update your credit card expiration date and credit card account number if you choose our auto-renew feature). Although we may share sensitive financial information (i.e., credit card numbers, banking information), security information (e.g., account passwords) and personal communications (e.g., personal e-mail messages or message board postings) with such vendors where necessary and appropriate, we will not share such information with other third parties, except in response to formal requests (e.g., subpoena or court order) made in connection with litigation, arbitration, or criminal proceedings directly relating to a domain name registration or other services we provide, or as directed by you or your agent.
+We track which forum messages individual site users read. This is in order to help us understand which content that user is most interested in. We use this intelligence to help personalise the site to match the interests of the user. 
 
-Additionally, we may share the information stored on the publicly accessible registration database, as well as other information that is not of a sensitive nature, with carefully selected business partners, including those who offer services that complement those provided by us or which may otherwise be of interest to you. If you do not want us to share information about you with our business partners, you may opt-out of receiving this information through our Account Manager by following the instructions below:
+**7\. "Tell a friend" services**
 
-  1. Log into Account Manager at [www.networksolutions.com](https://web.archive.org/web/20060318104808id_/http%3A//www.networksolutions.com/legal/www.networksolutions.com "www.networksolutions.com");
-  2. Click “Edit User Info” in the left menu;
-  3. Scroll to the bottom of the page;
-  4. Select “NO” for the third statement, which reads, “I would like to receive selected and relevant information from Network Solutions partners;” and
-  5. Click “SAVE.”
+E-consultancy.com offers a service whereby you can e-mail site content (for example, a particular forum post) to a friend or colleague. This will involve entering the e-mail address of your friend. **We do not use the e-mail addresses you enter for any purpose other than to send your e-mail.** We do not store, rent or sell these e-mail addresses. 
 
+**8\. Control of Your Password**
 
+Except as specifically permitted by this section, **you may not disclose** your E-consultancy.com password to any third parties nor share it with any third parties. If you lose control of your password, you may lose substantial control over your personally identifiable information and may be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately change your password by visiting the preferences page on the Site.
 
-Please note, however, that consistent with the current rules and policies for the Domain Name System, information about you must remain available in the publicly accessible registration database.
+You may, however, disclose your password to certain third parties with whom E-consultancy.com has entered into specific contractual and technical arrangements designed to safeguard your password, in order to enjoy the benefits of those third parties' services in relation to the E-consultancy.com services.
 
-#### How Do I Get My Name Removed from Bulk Access
+If you wish to change your password you can do so at any time through the ' **Modify Profile** ' section of the site at [http://www.e-consultancy.com/account/modifyprofile.asp](https://web.archive.org/account/modifyprofile.asp)
 
-As noted above, we currently make certain information about you available to the general public via our domain name registration database look-up services. These services give users access to such data on a query-by-query basis. Pursuant to our arrangements with ICANN, qualified persons may also access such data on a bulk basis provided they agree, among other things, not to use the data to allow, enable or otherwise support the transmission by e-mail, telephone, or facsimile of mass, unsolicited, commercial advertising or solicitations to entities other than to such qualified persons’ own existing customers; or (ii) sell or redistribute the data to third parties, except insofar as the data is incorporated into a value-added product or service that does not permit the extraction of a substantial portion of the data. If you do not want your personal information disclosed on a bulk basis, you may opt-out of such disclosure through our Account Manager by following the instructions below:
+ **9\. Reviewing and Changing Your Personally Identifiable Information**
 
-  1. Log into Account Manager at [www.networksolutions.com](https://web.archive.org/web/20060318104808id_/http%3A//www.networksolutions.com/legal/www.networksolutions.com "www.networksolutions.com");
-  2. Click “Edit User Info” in the left menu;
-  3. Scroll to the bottom of the page;
-  4. Select “NO” for the first statement, which reads, “I choose to have my name included in the Bulk WHOIS data licensed to third parties for domains for which I am the Account Holder or Primary Contact;” and
-  5. Click “SAVE.”
+You can **at any time review and change** the information you submitted during registration by visiting the [preferences](https://web.archive.org/account/modifyprofile.asp) page on the Site ([http://www.e-consultancy.com/account/modifyprofile.asp](https://web.archive.org/account/modifyprofile.asp)).
 
+You must **promptly update your information if it changes**. Once posted, you cannot change or remove any public postings made in our forums or other message areas or the feedback area.
 
+**You can at any time ask to see and have removed any information that we have stored on you, though we reserve the right to charge for this service**. Please [contact](https://web.archive.org/about/contact.asp) Ashley Friedlein if you would like your personal information removed. We will retain in our files information you have requested to remove in some circumstances, such as to resolve disputes, troubleshoot problems and enforce our User Agreement. Further, such prior information is never completely removed from our databases due to technical constraints and the fact that we back up our systems. Therefore, you should not expect that all of your personally identifiable information will be completely removed from our databases in response to your requests that it be removed. 
 
-#### Our Accountability to You
+**10\. Other Information Collectors**
 
-By purchasing our services, you obtain the protections of, and consent to the data processing practices described in, this Privacy Policy. When you purchase our services, you also represent to us that you have provided notice to, and obtained consent from, any third party individuals whose personal data you supply to us with regard to: (i) the purposes for which such third party's personal data have been collected, (ii) the intended recipients or categories of recipients of the third party's personal data, (iii) which of the third party's data are obligatory and which data, if any, are voluntary, and (iv) how the third party can access and, if necessary, rectify the data held about them.
+Except as otherwise expressly discussed in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you. To the extent that you disclose your information to other parties, whether they are other members of the Site or other sites throughout the Internet, different rules may apply to their use or disclosure of the personal information you disclose to them. 
 
-In addition to the privacy protections that we provide, our employees, agents and business partners are independently responsible for ensuring compliance with this Privacy Policy, as described below.
+**11\. Security**
 
-#### Employee Accountability
+In order to process and protect your credit card details, our payment provider [WorldPay](http://www.worldpay.com/) uses SSL (secure sockets layer) encryption. The secure server is hosted by [WorldPay](http://www.worldpay.com/) and not E-consultancy. 
 
-Only those Network Solutions employees that have a legitimate business purpose for accessing and handling personal information obtained by us are given authorization to do so. The unauthorized access or use of such information by a Network Solutions employee is prohibited and constitutes grounds for disciplinary action.
+On the E-consultancy site we use best endeavour to safeguard the confidentiality of your personal identifiable information but we do not use encryption (such as SSL) or firewalls to further protect the information as it travels across the Internet. This is because we do not believe that, apart from the credit card information processed by WorldPay, the personal information we currently collect warrants such measures and the accompanying loss of speed experienced. You should be aware that "perfect security" does not exist on the Internet. 
 
-Additionally, our information management systems are configured in such a way as to block or inhibit employees from accessing information that they have no authority to access.
+**12\. Changes to Privacy Policy**
 
-#### The Accountability of Network Solutions' Agents and Business Partners
+If we are going to use your personally identifiable information in a manner different from that stated at the time of collection we will notify you via email, prior to making such changes. You will have a choice as to whether or not we use your information in this different manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice, before changes go into affect, on our web site notifying users of the change. In some cases where we post the notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices. 
 
-Our trusted vendors and business partners are responsible for processing or handling some of the information that we receive. These vendors and business partners are not authorized to use such information for purposes beyond those specified by us and are required to preserve the confidentiality with which we treat such information.
+**13\. Downloadable Software Disclaimer**
 
-If you feel that Network Solutions, or any of our agents, representatives or employees, is violating this Privacy Policy, please contact us via e-mail at [privacy@networksolutions.com](mailto:privacy@networksolutions.com), by telephone at (703) 668-4600, or by postal mail at:
+The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site. 
 
-Network Solutions, LLC  
-Attention: General Counsel  
-13861 Sunrise Valley Drive  
-Herndon, VA 20171  
-(703) 668-4600 
+**14\. Physical Mailing Address**
 
-#### Notification of Changes
-
-We will post any changes to this Privacy Policy 30 days before their effective date so you will always know what information we collect, how we use it, and under what circumstances, if any, we disclose it. You are responsible for periodically checking our web site for changes to this Privacy Policy. You may opt-out of any posted change to our collection, use or disclosure of your personal information by sending an e-mail to [privacy@networksolutions.com](mailto:privacy@networksolutions.com).
-
-**If you have any questions regarding this Privacy Policy, please contact[privacy@networksolutions.com](mailto:privacy@networksolutions.com).**
+**Telephone** | +44 (0) 20 7681 4052  
+---|---  
+**Office address**     | Lemon Studios, 2nd Floor, 85 Clerkenwell Road,  
+  |  London, EC1R 5AR +44 (0) 20 7681 4052
