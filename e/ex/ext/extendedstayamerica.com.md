@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the extendedstayamerica.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607144938id_/http%3A//www.extendedstayamerica.com/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extendedstayamerica.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221204903id_/http%3A//www.extendedstayamerica.com/legal/privacy.asp) for the most accurate reproduction.*
 
 # Extended StayAmerica Hotels - Extended Stay and Corporate Housing
 
