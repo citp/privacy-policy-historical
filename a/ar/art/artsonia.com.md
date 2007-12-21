@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artsonia.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630123123id_/http%3A//www.artsonia.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artsonia.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221160748id_/http%3A//www.artsonia.com/privacy.asp) for the most accurate reproduction.*
 
 # Artsonia - Privacy Policy
 
@@ -22,7 +22,7 @@ Artsonia may disclose personal information if we believe, in good faith, that su
 
 Any Teacher (as defined in the Terms and Conditions of Use) who wishes to display their students' artwork on Artsonia is required to register as a member. The information provided during the registration process is used to communicate with the Teacher as well as to create a school gallery on Artsonia, which will list the Teacher name and the name of the school. Teachers should be aware that, because personal information about themselves (i.e., their name and school) is posted on the Website and is publicly accessible to all users of the Website, that information could be collected, used, and disclosed by others. Artsonia is not responsible for the collection, use, or disclosure of such information. Artsonia does, however, keep all Teachers' email addresses completely private (emails are never posted on the Website) and does not sell this list to anyone.
 
-Occasionally, Parents submit artwork to the Website and then Teachers approve that artwork for inclusion in their school's gallery. However, if a Teacher chooses to upload class artwork, the following conditions also apply:
+The following conditions also apply to Teachers that chose to upload class artwork:
 
   * To organize artwork, Teachers input first and (optionally) last names of students in a secured Teacher roster. The first and last names are entered in separate fields, and unique screen names are then generated for each student, based on the entry in the first name field.
   * It is the Teacher's responsibility to ensure that only the first names are added in the first name field. Artsonia is not responsible if a Teacher types last names or any other personally identifiable information about a child into the first name field.
@@ -90,6 +90,5 @@ For more information about Artsonia's privacy policy or questions and comments, 
 
 > Artsonia LLC  
 >  Attn: Member Services  
->  3166 N. Lincoln Ave.  
->  Suite 416  
->  Chicago, IL 60657 
+>  1350 Tri-State Parkway, Ste 106  
+>  Gurnee, IL 60031 
