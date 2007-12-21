@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the accessorygeeks.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626162715id_/http%3A//www.accessorygeeks.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accessorygeeks.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221225710id_/http%3A//www.accessorygeeks.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Free Shipping.
 
 _This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the[Yahoo! Privacy Policy](http://privacy.yahoo.com/privacy/us/) for more information about how Yahoo! uses this information._
 
@@ -18,4 +18,6 @@ To prevent unauthorized access, maintain data accuracy, and ensure the correct u
 
 Should you have other questions or concerns about these privacy policies, please contact us via email at [ INFO@AccessoryGeeks.com](mailto:INFO@AccessoryGeeks.com) or Call us at 909-468-9480   [](http://site.accessorygeeks.com/new.xml) RSS Feed  
 
-[](http://www.accessorygeeks.com/usb-sweepstakes.html)
+[](http://www.accessorygeeks.com/wii-console-sweepstake.html)
+
+[](http://www.accessorygeeks.com/gift-cards.html)     [](http://www.accessorygeeks.com/mobi.html)
