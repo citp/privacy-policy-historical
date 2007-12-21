@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quantumbooks.com privacy policy that was archived on 2007-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070616093724id_/http%3A//www.quantumbooks.com/Merchant2/merchant.mvc%3FScreen%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quantumbooks.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221025148id_/http%3A//www.quantumbooks.com/Merchant2/merchant.mvc%3FScreen%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy for Quantum Books
 
