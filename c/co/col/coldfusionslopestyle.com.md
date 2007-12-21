@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coldfusionslopestyle.com privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210102409id_/http%3A//www.coldfusionslopestyle.com/English/Help/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coldfusionslopestyle.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221092641id_/http%3A//www.coldfusionslopestyle.com/English/Help/Privacy_Policy.html) for the most accurate reproduction.*
 
 # ColdFusion SlopeStyle - Privacy Policy
 
