@@ -1,13 +1,15 @@
-> *The following text is extracted and transformed from the registryeasy.com privacy policy that was archived on 2007-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070513163315id_/http%3A//www.registryeasy.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the registryeasy.com privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222025022id_/http%3A//www.registryeasy.com/privacy.php) for the most accurate reproduction.*
 
-# RegistryEasy.com - Privacy Policy
+# Registry Easy Registry Cleaner - Privacy Policy
 
-RegistryEasy.com respects the privacy of all its users and is committed to protecting such privacy in accordance with this Privacy Policy. 
+* * *
 
-This Privacy Policy explains RegistryEasy.com treatment of your personally identifiable information collected in connection with your activities on the RegistryEasy.com web site.
+Registry Easy.com respects the privacy of all its users and is committed to protecting such privacy in accordance with this Privacy Policy. 
+
+This Privacy Policy explains Registry Easy.com treatment of your personally identifiable information collected in connection with your activities on the Registry Easy.com web site.
 
 1\. COLLECTION OF YOUR PERSONAL INFORMATION  
-RegistryEasy.com.com will not collect or use any information about the visitors to the Web Site and your visit to the Web Site is anonymous. The only exception is when we will need information that personally identifies in order to fulfill a contractual obligation towards you pursuant to what is set forth in section 2 below.
+RegistryEasy.com will not collect or use any information about the visitors to the Web Site and your visit to the Web Site is anonymous. The only exception is when we will need information that personally identifies in order to fulfill a contractual obligation towards you pursuant to what is set forth in section 2 below.
 
 2\. CONTRACTUAL OBLIGATION  
 If you make a purchase from the Web Site, you will be asked to provide your name, email and payment information. We may use information collected in the following ways:
@@ -33,10 +35,10 @@ Cookies are identifiers that a web site can send to your browser to keep on your
 Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or indicate when a cookie is being sent. All parts of our website will function correctly if you disable cookies.
 
 4\. LINKS TO OTHER SITES  
-The Web Site may contain links to other web sites. RegistryEasy.com does not monitor or control the content of such web sites or whether such web sites collect or process your personal data. Accordingly, RegistryEasy.com assumes no responsibility or liability whatsoever for any kind of material available at such sites and recommends that you review the separate privacy policies of such sites.
+The Web Site may contain links to other web sites. Registry Easy.com does not monitor or control the content of such web sites or whether such web sites collect or process your personal data. Accordingly, Registry Easy.com assumes no responsibility or liability whatsoever for any kind of material available at such sites and recommends that you review the separate privacy policies of such sites.
 
 5\. CHANGES TO THIS POLICY  
-RegistryEasy.com.com may occasionally update this Privacy Policy. Any changes will be posted to this site, so we encourage you to continuously review our Privacy Policy.
+RegistryEasy.com may occasionally update this Privacy Policy. Any changes will be posted to this site, so we encourage you to continuously review our Privacy Policy.
 
 6\. CONTACT INFORMATION  
-For questions regarding this Privacy Policy please [Contact us](https://web.archive.org/web/20070513163315id_/http%3A//www.registryeasy.com/contact.html).
+For questions regarding this Privacy Policy please [**Contact us**](https://web.archive.org/web/20071222025022id_/http%3A//www.registryeasy.com/contact.php).
