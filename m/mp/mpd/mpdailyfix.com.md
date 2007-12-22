@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the mpdailyfix.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623062424id_/http%3A//www.marketingprofs.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mpdailyfix.com privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222204326id_/http%3A//www.marketingprofs.com/about/privacy.asp) for the most accurate reproduction.*
 
-# Privacy Policy| MarketingProfs.com
-
-**MARKETINGPROFS.COM Privacy Policy  **
+# Marketing Profs Privacy Policy
 
 **This policy was last updated on May 2, 2004**
 
@@ -32,7 +30,7 @@ Our site uses cookies to save your username and password if you become a member 
 
 Additionally, we use session variables to aid in the development of various features on the site. These session variables disappear after 20 minutes or when the user exits a browser. Thus, this information is not stored for any reason other than as indicated. 
 
-The user's contact information is also used to send a newsletter if you are a member or subscribe to the newsletter. Special offers are sometimes sent to subscribers as well on behalf of third parties. But these third parties do not have access to your information since we alone send out the emails. However, all recipients of the newsletter may opt-out of receiving future newsletters or offers when so desired, and are given opportunity to opt-out of these emails at any time - at the bottom of each newsletter or by using the [**My Account**](http://www.marketingprofs.com/d.asp)link on the right and bottom navigation bars on the site. 
+The user's contact information is also used to send a newsletter if you are a member or subscribe to the newsletter. Special offers are sometimes sent to subscribers as well on behalf of third parties. But these third parties do not have access to your information since we alone send out the emails. However, all recipients of the newsletter may opt-out of receiving future newsletters or offers when so desired, and are given opportunity to opt-out of these emails at any time - at the bottom of each newsletter or by using the [**My Account**](http://www.marketingprofs.com/d.asp) link on the right and bottom navigation bars on the site. 
 
 We may also use personal information in a manner that does not identify you specifically nor allow you to be contacted but does identify certain criteria about our users in general. For example, we may inform third parties about the number of registered users, number of unique visitors, and the pages most frequently browsed. 
 
