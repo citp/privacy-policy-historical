@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the faucetdirect.com privacy policy that was archived on 2007-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070528005649id_/http%3A//www.faucetdirect.com/index.cfm/page/help%3Asecurity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faucetdirect.com privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222114800id_/http%3A//www.faucetdirect.com/index.cfm/page/help%3Asecurity) for the most accurate reproduction.*
 
-# FaucetDirect.com
+# FaucetDirect.com - Your Online Plumbing Supply Store
 
 ## Our Company
 
-FaucetDirect.com is a website of Improvement Direct, Inc. Our corporate website can be viewed here.
+FaucetDirect.com is a website of Improvement Direct, Inc. Our corporate website can be [viewed here](http://www.improvementdirect.com/).
 
 Our postal address is:  
 1330 Fortress St.  
