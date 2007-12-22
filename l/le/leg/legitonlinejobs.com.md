@@ -1,8 +1,14 @@
-> *The following text is extracted and transformed from the legitonlinejobs.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624010106id_/http%3A//www.legitonlinejobs.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legitonlinejobs.com privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222014831id_/http%3A//www.legitonlinejobs.com/privacy.htm) for the most accurate reproduction.*
 
 # Legit Online Jobs - Privacy Policy
 
  
+
+[ ](http://www.truste.org/ivalidate.php?url=www.legitonlinejobs.com&sealid=101)
+
+Legit Online Jobs is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site [ http://www.legitonlinejobs.com](http://www.legitonlinejobs.com/). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
+
+If you have questions or concerns regarding this statement, you should first contact Ross Belgrave at [contact@legitonlinejobs.com](mailto:contact@legitonlinejobs.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at [ http://www.truste.org/consumers/watchdog_complaint.php](http://www.truste.org/consumers/watchdog_complaint.php) TRUSTe will then serve as a liaison with us to resolve your concerns.
 
   
 Sharing Personal Information with Third Parties:  
@@ -12,9 +18,50 @@ IP Addresses:
 
 We may use your IP address to help diagnose problems with our site or web server, and for the general administration of our website. 
 
+Cookies
+
+A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We do not use cookies on this site.
+
+Some of our business partners (e.g., advertisers) use cookies on our site. We have no access to or control over these cookies. 
+
 Information Gathering: 
 
 This web site collects online contact information such as email. The information is only used to send your login information. This site does not send email promotions. 
+
+Information Collection & Use  
+Registration  
+In order to use this Web site, you must first complete the registration form [and/or create a user name and password]. During registration you [are required to] give[s] contact information (such as name and email address). We use this information to contact you about the services on our site in which you have expressed interest. 
+
+Legit Online Jobs is the sole owner of the information collected on Legitonlinejobs.com. Legit Online Jobs collects personally identifiable information from our users at several different points on our Web site.
+
+Newsletters  
+If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, we provide you a way to unsubscribe. Please see the “Choice and Opt-out” section.
+
+Service-related Announcements  
+We will send you service-related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email. 
+
+Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account. You will have to contact us to do so at [ contact@legitonlinejobs.com](mailto:contact@legitonlinejobs.com). 
+
+   
+Customer Service  
+Based upon the personally identifiable information you provide us, we will send you a welcoming email to verify your username and password. We will also communicate with you in response to your inquiries, to provide the services you request, and to manage your account. We will communicate with you by email or telephone, in accordance with your wishes.
+
+If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [ contact@legitonlinejobs.com](mailto:contact@legitonlinejobs.com). 
+
+We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site.
+
+Orders  
+If you purchase a product or service from us, we request certain personally identifiable information from you on our order form. You must provide contact information (such as name and email) and financial information (such as credit card number, expiration date). You will be redirected to Clickbank, a third-party payment processor, who will receive and process your financial information.
+
+Agents 
+
+We use a credit card processing company to bill you for goods and services. These companies do not retain, share, store or use personally identifiable information for any other purposes.
+
+We use this information for billing purposes and to fill your orders. 
+
+Access to Personally Identifiable Information 
+
+If your personally identifiable information changes, or if you no longer desire our service, you may [correct, update, delete or deactivate it] by making the change on our member information page or by emailing our Customer Support at [contact@legitonlinejobs.com](mailto:contact@legitonlinejobs.com). 
 
 Links to Other Sites: 
 
@@ -28,17 +75,37 @@ If you believe LegitOnlineJobs.com has any information from or about anyone unde
 
 Security: 
 
+The security of your personal information is important to us. When you enter sensitive information (such as credit card number and/or social security number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). 
+
 This web site has security measures in place to protect against loss, misuse and/or alteration of the information that you provide. Furthermore, we have taken every precaution technically possible to prevent any unauthorized access to the contents of this web server. 
+
+We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. 
+
+If you have any questions about security on our Web site, you can send email us at [ contact@legitonlinejobs.com](mailto:contact@legitonlinejobs.com). 
+
+Changes in this Privacy Statement 
+
+If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
+
+We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
 
 Contacting Legit Online Jobs: 
 
-If you have any questions about this privacy statement, the practices of this web site, or your dealings with this web site, please [contact us here](http://support.legitonlinejobs.com/).
+If you have any questions about this privacy statement, the practices of this web site, or your dealings with this web site, please [contact us here](http://support.legitonlinejobs.com/).  
+
+
+Mailing Address:
+
+**LegitOnlineJobs  
+1901 60th Place E.   
+Suite L9419   
+Bradenton, Florida 34203**
 
 Policy Changes: 
 
 Legit Online Jobs reserves the right to change this privacy policy at any time. 
 
-This Privacy Policy was last revised on Aug 7, 2006.
+This Privacy Policy was last revised on Jul 15, 2007.
 
 Copyright © 2007 Legit Online Jobs. All rights reserved.  
 1901 60th Place E. Suite L9419, Bradenton, Florida 34203, United States
