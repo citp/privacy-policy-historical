@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialserve.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624015441id_/http%3A//socialserve.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialserve.com privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222220202id_/http%3A//www.socialserve.com/Privacy.html) for the most accurate reproduction.*
 
 # Socialserve.com - Privacy Guidelines
 
@@ -65,4 +65,4 @@ Email: [info@socialserve.com](mailto:info@socialserve.com "Email Socialserve.com
 
   Phone: 704.334.8722 - Fax: 704.334.0779  
 Toll Free: 1.877.428.8844 - TTD/TTY: 7-1-1 [ [Relay Service ](http://www.fcc.gov/cgb/dro/trsphonebk.html "Relay Service") ]  
-Page Loaded: 06/23/07 21:54 (Eastern Time) - Version 4.0
+Page Loaded: 12/22/07 17:02 (Eastern Time) - Version 4.0
