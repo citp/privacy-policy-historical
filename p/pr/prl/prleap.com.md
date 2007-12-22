@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the prleap.com privacy policy that was archived on 2007-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070621115308id_/http%3A//www.prleap.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prleap.com privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222203548id_/http%3A//www.prleap.com/privacy) for the most accurate reproduction.*
 
-# PR Leap: Privacy Policy - PR Leap - Beta
+# PR Leap: Privacy Policy
 
-RSS Share and Enjoy: [](http://del.icio.us/post?url=http://www.prleap.com/privacy&title=Privacy+Policy+-+PR+Leap+-+Beta) [](http://digg.com/submit?phase=3&url=http://www.prleap.com/privacy&title=Privacy+Policy+-+PR+Leap+-+Beta) [](http://myweb2.search.yahoo.com/myresults/bookmarklet?u=http://www.prleap.com/privacy&=Privacy+Policy+-+PR+Leap+-+Beta) [](http://www.netscape.com/submit/?U=http://www.prleap.com/privacy&T=Privacy+Policy+-+PR+Leap+-+Beta)
+RSS Share and Enjoy: [](http://del.icio.us/post?url=http://www.prleap.com/privacy&title=Privacy+Policy) [](http://digg.com/submit?phase=3&url=http://www.prleap.com/privacy&title=Privacy+Policy) [](http://myweb2.search.yahoo.com/myresults/bookmarklet?u=http://www.prleap.com/privacy&=Privacy+Policy) [](http://www.netscape.com/submit/?U=http://www.prleap.com/privacy&T=Privacy+Policy)
 
   
 
@@ -11,7 +11,7 @@ Welcome to PR Leap, a service brought to you by Condesa. We respect your privacy
 
   * This privacy policy pertains to the use of the PR Leap website at http://www.prleap.com/
   * This privacy policy covers how PR Leap treats personal information that PR Leap collects and receives. Personal information about you that is personally identifiable like your name, address, email address, or phone number.
-  * You must be 18 years of age to use PR Leap service and this privacy policy makes no provision for children’s use of the site.
+  * You must be 18 years of age to use PR Leap service and this privacy policy makes no provision for childrenÕs use of the site.
 
 
 
@@ -28,7 +28,7 @@ Welcome to PR Leap, a service brought to you by Condesa. We respect your privacy
 **Information Sharing and Disclosure**
 
   * When you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. PR Leap does not rent or sell your personal information.
-  * PR Leap does not share or sell information with other organizations for commercial purposes, except to provide products or service you’ve requested and in the following circumstances: 
+  * PR Leap does not share or sell information with other organizations for commercial purposes, except to provide products or service youÕve requested and in the following circumstances: 
   * It is necessary to share information in order to investigate, prevent, or take action regarding activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Terms of Service, or as otherwise required by law.
   * PR Leap may be required to disclose personally identifiable information under special circumstances, such as to comply with subpoenas, warrants, court orders or legal process or to establish or exercise our legal rights or defend against legal claims;
     * We will transfer information about you if Condesa or PR Leap is acquired by or merged with another company. In this event, Condesa will notify you by email or by putting a prominent notice on the PR Leap web site before information about you is transferred and becomes subject to a different privacy policy. PR Leap may share demographic information with business partners, such as "69% of users who regularly use PR Leap service are between 24 and 35" or the like. No personally identifiable information will ever be used without your permission (i.e. we will ask you for a quote or testimonial)
