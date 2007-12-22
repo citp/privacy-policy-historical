@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prizerebel.com privacy policy that was archived on 2007-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070616203504id_/http%3A//prizerebel.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prizerebel.com privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222020325id_/http%3A//www.prizerebel.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
@@ -22,4 +22,4 @@ From time to time, we may use user information for new, unanticipated uses not p
 
 Upon request we offer visitors the ability to have inaccuracies corrected in contact information.
 
-We reserve the right to send you offers via your given e-mail adress, or share your adress with 3rd-party companies who may send you relevant offers. We do not share e-mail adresseses with untrusted parties.
+We reserve the right to send you offers via your given e-mail address. We do not share e-mail adresseses with untrusted parties.
