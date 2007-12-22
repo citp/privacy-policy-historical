@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newswise.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630134408id_/http%3A//www.newswise.com/about/policy/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newswise.com privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222060322id_/http%3A//www.newswise.com/about/policy/%23privacy) for the most accurate reproduction.*
 
 # Newswise
 
@@ -8,14 +8,14 @@
 
 #### Contents:
 
-  * [History](http://www.newswise.com/about/policy/#history)
-  * [Vision](http://www.newswise.com/about/policy/#vision)
-  * [Business](http://www.newswise.com/about/policy/#business)
-  * [Who is a Journalist?](http://www.newswise.com/about/policy/#journalist)
-  * [Embargoed news](http://www.newswise.com/about/policy/#embargoes)
-  * [Privacy](http://www.newswise.com/about/policy/#privacy)
-  * [Advertising](http://www.newswise.com/about/policy/#advertising)
-  * [Copyright](http://www.newswise.com/about/policy/#copyright)
+  * [History](http://newswise.com/about/policy/#history)
+  * [Vision](http://newswise.com/about/policy/#vision)
+  * [Business](http://newswise.com/about/policy/#business)
+  * [Who is a Journalist?](http://newswise.com/about/policy/#journalist)
+  * [Embargoed news](http://newswise.com/about/policy/#embargoes)
+  * [Privacy](http://newswise.com/about/policy/#privacy)
+  * [Advertising](http://newswise.com/about/policy/#advertising)
+  * [Copyright](http://newswise.com/about/policy/#copyright)
 
 
 
@@ -29,7 +29,7 @@ Newswise expanded to the web in 1996. It is the most comprehensive site for rese
 
 Newswise moved to Charlottesville, Virginia, in 2001 and has offices in Helsinki, Finland, and Athens, Greece. 
 
-[](http://www.newswise.com/about/policy/#top)
+[](http://newswise.com/about/policy/#top)
 
 ### Vision
 
@@ -37,13 +37,13 @@ The Newswise vision is to improve the relationship between journalists and publi
 
 Newswise maintains a comprehensive online database of knowledge-based news. It is a one-stop site for reporters to manage information within focused domains. Newswise currently comprises scientific, medical, liberal arts, and business research news, with plans to grow in additional sectors. 
 
-Newswise offers a seamless combination of web and email tools to access its database of knowledge-based news. This use of both email and web makes it easier for journalists to access the news; we deliver it to them, but only the news categories they choose, and on the schedule they select. Newswise currently archives more than 58,000 high-caliber news stories, and each is full-text searchable. 
+Newswise offers a seamless combination of web and email tools to access its database of knowledge-based news. This use of both email and web makes it easier for journalists to access the news; we deliver it to them, but only the news categories they choose, and on the schedule they select. Newswise currently archives more than 62,000 high-caliber news stories, and each is full-text searchable. 
 
 Newswise also maintains a complement of other tools for journalists, including online calendars of science and medical meetings, and a database of awards, grants, and fellowships. We also broker and amplify reporters' searches for experts with an Expert Query service; this allows journalists to access experts in science, medicine, liberal arts, and business in a simple way. A variety of new online tools will continue to be added to this kit. 
 
 Our goal is to add value to information by creating context and the best delivery system — gathering the information into one location, organizing it, categorizing it by both topic and type, making it searchable, updating it regularly, and providing an email delivery system suited to reporters' desires. This adds value to the information and decreases reporters' need to "browse" or "surf" the web, or to use web-wide search engines that provide too much unselected information, most of which is not news. Newswise puts reporters in the information loop, while allowing them to manage the information. 
 
-[](http://www.newswise.com/about/policy/#top)
+[](http://newswise.com/about/policy/#top)
 
 ### Business
 
@@ -51,7 +51,7 @@ Newswise is an entrepreneurial business. Reporters receive the service free, and
 
 We also serve the public as a comprehensive news resource, providing information directly from the institutions producing the news. This is a public service, and our primary focus is on reporters and the institutions providing the news. 
 
-[](http://www.newswise.com/about/policy/#top)
+[](http://newswise.com/about/policy/#top)
 
 ### Who is a Journalist?
 
@@ -71,7 +71,7 @@ To have access to certain privileged information on Newswise, a user must provid
 
 
 
-[](http://www.newswise.com/about/policy/#top)
+[](http://newswise.com/about/policy/#top)
 
 ### Embargoed News
 
@@ -81,7 +81,7 @@ Journalists agree explicitly, when applying for a PressPass, to honor all embarg
 
 In return, Newswise and the source agree to make the information available only to journalists under password protection during the embargo period. 
 
-[](http://www.newswise.com/about/policy/#top)
+[](http://newswise.com/about/policy/#top)
 
 ### Privacy
 
@@ -97,13 +97,13 @@ Newswise employs "cookies" for your convenience and security when logging into o
 
 If you have deactivated "cookies" on your computer, you will **not** be able to log in and will have access only to public areas. 
 
-[](http://www.newswise.com/about/policy/#top)
+[](http://newswise.com/about/policy/#top)
 
 ### Advertising and Style
 
 Newswise does not solicit or accept advertising. We do this to improve your experience. We are committed to a simple, uncluttered, user-friendly, and intuitive design. 
 
-[](http://www.newswise.com/about/policy/#top)
+[](http://newswise.com/about/policy/#top)
 
 ### Copyright
 
