@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the movabletype.com privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622195228id_/http%3A//www.sixapart.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movabletype.com privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222171244id_/http%3A//www.movabletype.com/info/privacy-policy.html) for the most accurate reproduction.*
 
-# Six Apart Privacy Policy
-
-## SIX APART PRIVACY POLICY
+# Movable Type: Privacy Policy
 
 ### What This Privacy Policy Covers
 
@@ -23,20 +21,20 @@
 
 
 
-### _IP Address_
+### IP Address
 
-  * The Six Apart Sites, Products and Services may occasionally obtain IP addresses from users depending upon how you access our web sites. IP addresses, browser and session information may be used for various purposes, including to: 
+  * The Six Apart Sites, Products and Services may occasionally obtain IP addresses from users depending upon how you access our websites. IP addresses, browser and session information may be used for various purposes, including to: 
     * Diagnose and prevent service or technology problems reported by our users or engineers that are associated with the IP addresses controlled by a specific web company or ISP. 
-    * Estimate the total number of users visiting Six Apart's web sites from specific geographical regions. 
+    * Estimate the total number of users visiting Six Apart's websites from specific geographical regions. 
     * Help determine which users have access privileges to certain content, services or resources that we offer. 
     * Monitor and prevent fraud and abuse. 
   * The Six Apart Sites, Products and Services may display your IP address to the owners or maintainers of certain journals or Blogs when you post to those journals or Blogs and the owner or maintainer has enabled functionality on the sites for this purpose.
 
 
 
-### _Cookies_
+### Cookies
 
-  * A cookie is a small amount of data, which often includes an anonymous unique identifier that is sent to your browser from a web site's computers and stored on your computer's hard drive. 
+  * A cookie is a small amount of data, which often includes an anonymous unique identifier that is sent to your browser from a website's computers and stored on your computer's hard drive. 
   * If you reject all cookies, you may not be able to use the Six Apart Sites, Products and Services that require you to "sign in," and you may not be able to take full advantage of all offerings.
   * You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set. 
   * The Six Apart Sites, Products and Services use their own cookies for a number of purposes, including to: 
@@ -48,7 +46,7 @@
 
 
 
-### _Information Relating to Children_
+### Information Relating to Children
 
   * The Children's Online Privacy Protection Act ("COPPA") requires that we inform parents and legal guardians about how we collect, use, and disclose personal information from children under 13 years of age. The Six Apart Sites, Products and Services are not directed at children under 13 years of age but, we recognize that with proper adult supervision some parents might permit their children to visit and utilize the Six Apart Sites, Products and Services. COPPA requires that we obtain the consent of parents and guardians in order for children under 13 years of age to use certain features of the Six Apart Sites, Products and Services. 
   * When your child attempts to register and/or provide personal information to Six Apart (including on any of the Six Apart Sites, Products and Services), we require a parent or legal guardian to: 
@@ -59,7 +57,7 @@
 
 
 
-### _How Parents can Access their Children's Personal Information_
+### How Parents can Access their Children's Personal Information
 
 In compliance with COPPA, parents and legal guardians may request us to review, delete or stop the collection of the personally identifiable information of their child. You may do so in one of two ways.
 
@@ -69,7 +67,7 @@ If you request that no further information about your child be collected or used
 
 ### Information Use, Sharing and Disclosure
 
-  * The Six Apart Sites, Products and Services do not share personal information we learn about you from your use of the web sites, products and services with others except as described in this policy. We do not share your information with unrelated third parties for their direct marketing purposes. However, the Six Apart Sites, Products and Services may display targeted advertisements based on personal information.
+  * The Six Apart Sites, Products and Services do not share personal information we learn about you from your use of the websites, products and services with others except as described in this policy. We do not share your information with unrelated third parties for their direct marketing purposes. However, the Six Apart Sites, Products and Services may display targeted advertisements based on personal information.
   * When you provide personal information through using the Six Apart Sites, Products and Services you are however sharing your personal information with Six Apart and its affiliated entities. The use of your personal information by these organizations is subject to this policy. 
   * The Six Apart Sites, Products and Services may use or share your personal information where it is necessary to complete a transaction, to operate or improve the Six Apart Sites, Products and Services, to do something that you have asked us to do, or tell you of products and services that we think may be of interest. 
   * Where you are contacted with an offer or service based on information you have shared with any Six Apart Site, Product and/or Service, we will do our best to provide you with an opportunity to opt-out of receiving such further communications at the time you are contacted, however, in connection with any of our paid products and services (i.e., products or services that you license or use for a fee), we reserve the right to send you certain communications relating to those products and services, such as service announcements, administrative messages and the Six Apart Newsletter, that are considered part of your Six Apart account, without offering you the opportunity to opt-out of receiving them. 
@@ -100,7 +98,7 @@ No data transmissions over the Internet can be guaranteed to be 100% secure. Con
 
 
 
-If Six Apart learns of a security systems breach we may attempt to notify you electronically so that you can take appropriate protective steps. By using the Six Apart Sites, Products and Services or providing personal information to us you agree that we can communicate with you electronically regarding security, privacy and administrative issues relating to your use of those sites, products and services. We may post a notice on our applicable web sites if a security breach occurs. If this happens, you will need a web browser enabling you to view the applicable web sites. We may also send an email to you at the email address you have provided to us in these circumstances. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us at privacy@sixapart.com.
+If Six Apart learns of a security systems breach we may attempt to notify you electronically so that you can take appropriate protective steps. By using the Six Apart Sites, Products and Services or providing personal information to us you agree that we can communicate with you electronically regarding security, privacy and administrative issues relating to your use of those sites, products and services. We may post a notice on our applicable websites if a security breach occurs. If this happens, you will need a web browser enabling you to view the applicable websites. We may also send an email to you at the email address you have provided to us in these circumstances. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us at privacy@sixapart.com.
 
 ### Changing your Preferences and Personal Information
 
@@ -123,7 +121,3 @@ If you object to any sharing of your personal information that may be permitted 
 _Effective Date: February 1, 2005_
 
 Copyright 2003, 2005 Six Apart, Ltd. All rights reserved.
-
-[](http://www.sixapart.com/)  
-Makers of weblog software and services for individuals, organizations and businesses.  
-This website is powered by [Movable Type](https://web.archive.org/movabletype/index). 
