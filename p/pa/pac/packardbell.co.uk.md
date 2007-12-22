@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the packardbell.co.uk privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429123801id_/http%3A//www.packardbell.co.uk/terms.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the packardbell.co.uk privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222062341id_/http%3A//www.packardbell.co.uk/terms.html) for the most accurate reproduction.*
 
 # Terms & Privacy
 
@@ -24,11 +24,13 @@ This Charter will inform you on:
 If you have any comments or questions, please contact: 
 
 Packard Bell BV   
-Nieuweweg 279  
-66 00 AH Wijchen  
-The Netherlands 
+Jonkerbosplein 52  
+6534 AB Nijmegen  
+Po Box 6925  
+6503 GK Nijmegen  
+The Netherlands
 
-**THE CHARTER’S FIELD OF APPLICATION**
+ **THE CHARTER’S FIELD OF APPLICATION**
 
 The Charter applies to all data received when a customer registers a new Packard Bell computer and/or when placing an order. 
 
@@ -66,13 +68,16 @@ _THE RIGHT TO UPDATE, CORRECT OR DELETE PERSONAL INFORMATION_
 
 In all cases and in accordance with current French legislation and more specifically with the law dated 6 January 1978, you have the right to consult, amend or contest your personal data. 
 
-Please send any requests and/or questions relating to your data record to the following address:  
-Packard Bell BV   
-Nieuweweg 279,  
-6600 AH Wijchen  
-The Netherlands 
+Please send any requests and/or questions relating to your data record to the following address:
 
-_THE RETENTION PERIOD FOR PERSONAL INFORMATION_
+Packard Bell BV   
+Jonkerbosplein 52  
+6534 AB Nijmegen  
+Po Box 6925  
+6503 GK Nijmegen  
+The Netherlands
+
+ _THE RETENTION PERIOD FOR PERSONAL INFORMATION_
 
 With the exception of any processing for historical, statistical or scientific purposes, your personal data shall not be retained in its nominal form for any longer than the period necessary to fulfil the purposes for which it was requested. 
 
@@ -91,9 +96,11 @@ If you have any questions concerning this Charter, please do not hesitate to con
 _Our Head Office_
 
 **Packard Bell BV  
-Nieuweweg 279  
-66 00 AH Wijchen  
-The Netherlands 
+Jonkerbosplein 52  
+6534 AB Nijmegen  
+Po Box 6925  
+6503 GK Nijmegen  
+The Netherlands
 
 Packard Bell France SAS  
 Immeuble Optima  
