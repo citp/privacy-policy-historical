@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lancome-usa.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627165504id_/http%3A//www.lancome-usa.com/services/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lancome-usa.com privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222111411id_/http%3A//www.lancome-usa.com./services/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Lancôme | Privacy Policy
 
@@ -116,7 +116,7 @@ Contacting Us
 | 
 
 If you have questions about this privacy statement, the information practices of lancome.com or your dealings with lancome.com, please contact Lancôme Consumer Affairs, 574 Springfield Ave, Westfield, NJ 07090 or call Consumer Affairs at (800) LANCOME, option 2.  
-Copyright © 2001 L'Oréal USA, Inc. All trade marks registered. All rights reserved.
+Lancome-usa.com is a division of L'Oréal USA S/D, Inc Copyright 2007 L'Oréal USA, Inc. All trade marks registered. All rights reserved.
 
 In accordance with laws governing literary and artistic property rights or other similar rights, the reproduction or redistribution of the elements that make up the Lancôme website, in whole or in part, is strictly prohibited.
 
