@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rimweb.in privacy policy that was archived on 2007-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070611151109id_/http%3A//www.rimweb.in/index.php%3Fprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rimweb.in privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222173255id_/http%3A//www.rimweb.in/index.php%3Fprivacy) for the most accurate reproduction.*
 
 # RIMweb.in :: Reliance Mobile ( Reliance IndiaMobile ) Discussion Forums
 
@@ -29,6 +29,23 @@ The above describes information that is provided "actively" - meaning, you choos
 ## Cookies
 
 RIMweb.in uses cookies to customize your experience while using the Forums. A cookie is a small text file that many Web sites write through your browser when you visit them. A cookie can only be read by the site that places it, so RIMweb.in can't "see where you've been" based on any other cookies in your browser. Cookies are generally supported in version 3.0 and newer of Internet Explorer, 2.02 and newer of Netscape, and 3.0 and newer of AOL. Netscape Navigator uses a single file called "cookies.txt" to record all cookies, and you can open this file in any text editor to see what it looks like. On a Macintosh computer, the Netscape cookie file is called "MagicCookie". Internet Explorer uses a separate file for each cookie, which typically reside in "C:\Windows\Profiles\User\Cookies." Most browsers also allow the option of displaying a warning before accepting a cookie, or refusing all cookies. Declining cookies while participating in forums may result in some of features not working properly.
+
+## Private Messages
+
+The purpose of private messages is to allow for discreet conversations between members. Normal forums rules apply to private messages. 
+
+If you receive a private message which breaches RIMweb.in forums guidelines, is threatening, abusive or contains illegal content please forward it onto one of the RIMweb.in administrators immediately. Do not reply to the person sending you the private message. 
+
+While the name "private messages" gives the suggestion that they are private, they are part of the database & as such accessible to RIMweb.in administrators. So, while they are private, they are not necessarily secret. RIMweb.in has a policy of respecting member's privacy & would never access member's private message unless the following reasons applied: 
+
+> We have reason to believe that a member is using the PM system to engage in illegal behaviour.   
+> We have reason to believe that a member is using the PM system to slander a person or business, which could result in damage to their reputation.   
+> We have reason to believe that a member is using the PM system to cause harm to others.   
+> We have reason to believe that a member is using the PM system to solicit money from members, such as phishing.   
+> We have reason to believe that a member is using the PM system to spam members.   
+> We have reason to believe that a member is using the PM system to threaten members.   
+> We believe that a person is using the PM system in order to cause damage to RIMweb.in.   
+> We believe that a person is using the PM system for any electronic piracy related activities. 
 
 ## RIMweb.in emails/newsletters
 
