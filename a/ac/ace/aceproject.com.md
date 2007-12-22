@@ -1,16 +1,28 @@
-> *The following text is extracted and transformed from the aceproject.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617152508id_/http%3A//www.aceproject.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aceproject.com privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222133052id_/http%3A//www.aceproject.com/privacy-policy.htm) for the most accurate reproduction.*
 
-# AceProject - Privacy Policy Statement
+# Privacy Policy Statement
 
+|   
+---  
 | 
 
 Privacy Policy Statement
+
+  
+
 
 This privacy statement covers the site [www.aceproject.com]. Because this Web site wants to demonstrate its commitment to its users' privacy, it has agreed to disclose its information practices. 
 
 If users have questions or concerns regarding this statement, they should first contact Daniel Raymond by email at [support@aceproject.com](mailto:support@aceproject.com).
 
-Information Collection and Use
+  
+|   
+|  |  |   | 
+
+**Information Collection and Use**  
+  
+---|---  
+|   | 
 
 **Information Collection**  
 [Websystems Inc.] is the sole owner of the information collected on [www.aceproject.com]. [Websystems Inc.] collects information from its users at several different points on our Web site.
@@ -19,9 +31,12 @@ Information Collection and Use
 In order to use this Web site, a user must first create a free account. During registration a user is required to give contact information (such as name and email address). We use this information to send requested email notifications, to contact our customers for major announcements or to fix account-related issues, such as payment issues.
 
 **Order**  
-Our partner, [Internet Secure](http://www.internetsecure.com/), requests information from the user on our order form. A user must provide contact information (such as name, email, and shipping address) and financial information (such as credit card number, expiration date). This information is used for billing purposes and to fill customer's orders. If [Internet Secure](http://www.internetsecure.com/) has trouble processing an order, the information is used to contact the user. 
+Our partner, [Internet Secure](http://www.internetsecure.com/), requests information from the user on our order form. A user must provide contact information (such as name, email, and shipping address) and financial information (such as credit card number, expiration date). This information is used for billing purposes and to fill customer's orders. If [Internet Secure](http://www.internetsecure.com/) has trouble processing an order, the information is used to contact the user.
 
-**Information Use**
+|    
+---|---|---  
+   
+  | 
 
 **Profile**  
 We store information that we collect through cookies and dynamic asp pages to create a profile of our users. A profile is stored information that we keep on individual users that detail their viewing preferences. Consequently, collected information is tied to the users' personally identifiable information to provide offers and improve the content of the site for the user. This profile is used to tailor a user's visit to our Web site. We do not share users profiles with other third parties.
@@ -38,7 +53,14 @@ Like most standard Web site servers we use log files. This includes internet pro
 **Password Encryption**  
 Passwords are encrypted with the "md5" crytographic algorhitm. Thus, passwords are case sensitive and are visible neither by us nor by your account's administrators. This puts the level of security of your data at a very high level. If your forgot your password, you will have to use the "Forgot Password?" link to enter a new one, since it cannot be retreived.
 
-Communications from the Site
+|    
+   
+|   | 
+
+**Communication from the Site**  
+  
+---|---  
+  | 
 
 We do not share users' emails with other third parties, we do not spam, and we do not offer an ad-supported software as a service.
 
@@ -57,7 +79,9 @@ We communicate with users on a regular basis to provide requested services and i
 **Email Notification**  
 Each user may decide to receive an email when he or she is assigned to a new task, or when one of his or her tasks is modified. This frees the project manager's time for more important tasks - email notification is automatic.
 
-Sharing
+|    
+   
+  | 
 
 **Legal Disclaimer**  
 Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site.
@@ -86,21 +110,46 @@ If we decide to change our privacy policy, we will post those changes to this pr
 
 If, however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify users via email. Users will have a choice as to whether or not we can use their information in this different manner. However, if users have opted out of all communication with the site, or deleted/deactivated their account, then they will not be contacted, nor will their personal information be used in this new manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our Web site notifying users of the change. In some cases where we post a notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices. 
 
-Contact Information
+|    
+   
+|  | 
 
-**Customer Service** \- For general inquiries about your account, our packages or about the software navigation. 
+**Contact Information**  
+  
+---|---  
+|   | 
 
->   
->  Email: [ support@aceproject.com](mailto:support@aceproject.com)  
->  Phone (Toll free for US and Canada): 1-866-259-2454 / +1-418-622-9659 (International)  
->  Fax: 418-845-8052  
->  We are available between 9 A.M. and 5 P.M. [GMT -5 Eastern Standard Time], Monday to Friday.
+**Customer Service** \- For general inquiries about your account, our packages or about the software navigation.
 
-**Mailing Address:**
+|    
+---|---|---  
+  
 
-> Websystems Inc.  
->  6724, Soleil-Levant Street  
->  Quebec, QC  
->  Canada, G3E 2C7 
 
-| 
+[Live Support](http://messenger.providesupport.com/messenger/aceproject.html)
+
+Email: [ support@aceproject.com](mailto:support@aceproject.com)  
+**Phone (Toll free for US and Canada):**   
+1-866-259-2454 / +1-418-622-9659 (International) Fax: +1-418-907-8089  
+We are available between 9 A.M. and 5 P.M. [GMT -5 Eastern Standard Time], Monday to Friday.  
+  
+   
+|  |  | 
+
+**Mailing Address**  
+  
+---|---  
+|   | 
+
+Websystems Inc.  
+64, Du Rocher Avenue  
+Lac-Delage, QC  
+Canada G0A 4P0
+
+|    
+---|---|---  
+   
+  |    
+  |   |    
+|  |  |  |   
+|  |  |  | 
