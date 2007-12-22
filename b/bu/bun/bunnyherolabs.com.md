@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bunnyherolabs.com privacy policy that was archived on 2007-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070410011147id_/http%3A//bunnyherolabs.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bunnyherolabs.com privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222195916id_/http%3A//bunnyherolabs.com/privacy.php) for the most accurate reproduction.*
 
 # privacy policy - bunnyhero labs
 
-2005-02-05
+effective from 2007-06-28
 
 This is the web site of bunnyhero labs.
 
@@ -23,6 +23,8 @@ The information we collect is used to improve the content of our Web page, to as
 
 With respect to cookies: We use cookies to record session information, such as items that consumers add to their shopping cart, or their login status in an online game. We also use cookies to record whether or not you have voted in an online poll.
 
+We use "local shared objects" (also known as "Flash cookies") to remember the information about the last pet you created.
+
 If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.
 
 We do not share e-mail addresses of those who access our site with any other organizations.
@@ -33,7 +35,10 @@ _Third Party Advertising_
 We use BUDS INC and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here <http://www.networkadvertising.org/optout_nonppii.asp>
 
 _Third Party Cookies_  
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser.
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
+
+_Gigya Wildfire_  
+We use the Gigya Wildfire tool to assist the user in posting widgets to their MySpace, Friendster and other profiles. Login information entered into the Gigya Wildfire tool is not collected by bunnyhero labs. For more information on how your information is used, please see [Gigya's Privacy Policy](http://www.gigya.com/Web/info/Privacy.aspx).
 
 From time to time, we may use visitor information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically, we will use for these new purposes only data collected from the time of the policy change forward.
 
@@ -45,11 +50,12 @@ With respect to security: We have appropriate security measures in place in our 
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
 
-Privacy Policy version history: 
+Privacy Policy version history:
 
-  * 2005-02-05: added information about e-card information use
-  * 2005-01-08: [updated mailing address](https://web.archive.org/web/20070410011147id_/http%3A//bunnyherolabs.com/privacyarchive/privacy20050108.php)
-  * 2004-04-11: [more detail in "cookies" section, covering polls and games](https://web.archive.org/web/20070410011147id_/http%3A//bunnyherolabs.com/privacyarchive/privacy20040411.php)
-  * 2004-04-07: [initial version](https://web.archive.org/web/20070410011147id_/http%3A//bunnyherolabs.com/privacyarchive/privacy20040407.php)
+  * 2007-06-28: added information about local shared objects ("flash cookies") and gigya wildfire
+  * 2005-02-05: [added information about e-card information use](https://web.archive.org/web/20071222195916id_/http%3A//bunnyherolabs.com/privacyarchive/privacy20050205.php)
+  * 2005-01-08: [updated mailing address](https://web.archive.org/web/20071222195916id_/http%3A//bunnyherolabs.com/privacyarchive/privacy20050108.php)
+  * 2004-04-11: [more detail in "cookies" section, covering polls and games](https://web.archive.org/web/20071222195916id_/http%3A//bunnyherolabs.com/privacyarchive/privacy20040411.php)
+  * 2004-04-07: [initial version](https://web.archive.org/web/20071222195916id_/http%3A//bunnyherolabs.com/privacyarchive/privacy20040407.php)
 
 
