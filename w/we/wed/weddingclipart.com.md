@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the weddingclipart.com privacy policy that was archived on 2007-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070616161647id_/http%3A//www.weddingclipart.com/wca/privacyPolicy/view.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weddingclipart.com privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222161639id_/http%3A//www.weddingclipart.com/wca/privacyPolicy/view.do) for the most accurate reproduction.*
 
-# Wedding Clipart - Make Wedding Invitations and Programs - Free Trial!
+# None
 
   
-WeddingClipart.com values your privacy. You may contact us any time to learn more about this privacy policy by sending email to [service@WeddingClipart.com](mailto:service@WeddingClipart.com). This Privacy Statement describes how WeddingClipart.com collects and uses information about you when you use the WeddingClipart.com web site ("Site"). 
+WeddingClipart.com values your privacy. You may contact us any time to learn more about this privacy policy by sending email to [Contact@WeddingClipart.com](mailto:contact@WeddingClipart.com). This Privacy Statement describes how WeddingClipart.com collects and uses information about you when you use the WeddingClipart.com web site ("Site"). 
 
 **Collection and Use of Personal Information by WeddingClipart.com**
 
-With your consent, we collect information that personally identifies you or allows us to contact you when you register to use the Site. Such information may include your name, e-mail address, user identification password and other information (collectively "Personal Information"). You may also provide us with Personal Information in the process of submitting questions and answers while interacting with other members of the Site. WeddingClipart.com uses your Personal Information to operate the Site, to effect your transactions initiated at the Site; to create and share reports about your transactions among themselves. You may correct or update your Personal Information by sending e-mail to [service@WeddingClipart.com](mailto:service@WeddingClipart.com). **
+With your consent, we collect information that personally identifies you or allows us to contact you when you register to use the Site. Such information may include your name, e-mail address, user identification password and other information (collectively "Personal Information"). You may also provide us with Personal Information in the process of submitting questions and answers while interacting with other members of the Site. WeddingClipart.com uses your Personal Information to operate the Site, to effect your transactions initiated at the Site; to create and share reports about your transactions among themselves. You may correct or update your Personal Information by sending e-mail to [Contact@WeddingClipart.com](mailto:contact@WeddingClipart.com). **
 
 Cookies
 
@@ -19,7 +19,7 @@ Personal Information Used for Promotional Purposes
 
 **
 
-We may send you information from time to time about WeddingClipart.com promotional offerings. However, we will not share your Personal Information with any third party without your prior consent. Your consent to receipt of promotional offerings may be indicated in the appropriate check boxes within the Site signifying your preferences. You may be entitled to stop the delivery of promotional information from WeddingClipart.com by using the UNSUBSCRIBE link provided in all marketing emails, or by sending e-mail to [service@WeddingClipart.com](mailto:service@WeddingClipart.com) and, for third party promotional offerings, by contacting the source of that promotional offering. **
+We may send you information from time to time about WeddingClipart.com promotional offerings. However, we will not share your Personal Information with any third party without your prior consent. Your consent to receipt of promotional offerings may be indicated in the appropriate check boxes within the Site signifying your preferences. You may be entitled to stop the delivery of promotional information from WeddingClipart.com by using the UNSUBSCRIBE link provided in all marketing emails, or by sending e-mail to [Contact@WeddingClipart.com](mailto:contact@WeddingClipart.com) and, for third party promotional offerings, by contacting the source of that promotional offering. **
 
 Children's Privacy
 
@@ -49,9 +49,18 @@ Questions, Comments, Concerns
 
 **
 
-If you have any questions or comments about our use of Personal Information, please contact us at [service@WeddingClipart.com](mailto:service@WeddingClipart.com). We will use reasonable efforts to promptly investigate any complaint you may have regarding our use of Personal Information. 
+If you have any questions or comments about our use of Personal Information, please contact us at [Contact@WeddingClipart.com](mailto:contact@WeddingClipart.com). We will use reasonable efforts to promptly investigate any complaint you may have regarding our use of Personal Information. 
 
 [](https://www.weddingclipart.com/wca/register.do)
 
-|   |   
+|   | 
+
+**All Suggestions, Billing and Site Questions:** [Contact@WeddingClipart.com](mailto:contact@WeddingClipart.com)
+
+**WeddingClipart.com**  
+Letters and Arts, Inc.  
+695 Mistletoe Road  
+Suite M11  
+Ashland, Oregon 97520  
+  
 ---|---|---
