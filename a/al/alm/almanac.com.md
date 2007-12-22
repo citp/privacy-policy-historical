@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the almanac.com privacy policy that was archived on 2006-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061018110715id_/http%3A//www.almanac.com/privacy/index.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the almanac.com privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222234634id_/http%3A//www.almanac.com/privacy/index.php) for the most accurate reproduction.*
 
-# The Old Farmer's Almanac - Privacy Policy
+# Privacy Policy - The Old Farmer's Almanac
 
 ## For Web Visitors
 
@@ -16,7 +16,7 @@ For information you provide to us, we will not rent or share your contact inform
 
 Yankee Publishing Inc. is composed of different operating groups. Any information we save about you will be shared among these operating groups. Occasionally, you may receive offers from these operating groups; to remove your name from those lists, follow the instructions within the communication. 
 
-We have contracted with Yahoo! Search Marketing to monitor certain pages of our website for the purpose of reporting web traffic, statistics, advertisement 'click-throughs,' and/or other activities on our website. No personally identifiable data is collected by or transferred to Yahoo! Search Marketing. Where authorized by us, Yahoo! Search Marketing may use cookies, Web beacons, and/or other monitoring technologies to compile anonymous statistics about our website visitors. However, if you choose, you may opt-out from Yahoo! Search Marketing's collection of such information outside of the Yahoo! network of websites, by clicking on the following link: <http://docs.yahoo.com/info/privacy/us/ysmt.html>. 
+Yankee Publishing is currently contracted with Tacoda, Inc., a third party, to track and analyze anonymous usage and browsing patterns of our visitors and customers. All data collected by Tacoda on behalf of our Web sites is owned by Yankee Publishing. This information is used to help provide advertisers with more targeted advertising opportunities, which means that our users see advertising that is most likely to interest them, and advertisers send their messages to people who are most likely to be receptive, improving both the viewer's experience and the effectiveness of the ads. For more information about Tacoda's privacy policy, including how to opt out, go to [www.tacoda.com/notice](http://www.tacoda.com/notice/). 
 
 Thank you for your interest in Almanac.com. 
 
@@ -25,3 +25,9 @@ Yankee Publishing Inc.
 Yankee Publishing Inc., publishers of: _Yankee_ Magazine, _Yankee Magazine's Travel Guide to New England,_ _The Old Farmer's Almanac,_ and _The Old Farmer's Almanac All-Seasons Garden Guide_
 
 On the Web at: [www.Almanac.com](http://www.almanac.com/) and [www.YankeeMagazine.com](http://www.yankeemagazine.com/)
+
+Yankee Publishing Inc.,  P.O. Box 520, Dublin, NH 03444, USA,  (603) 563-8111
+
+**Copyright ©2007, Yankee Publishing Inc. All rights reserved.**
+
+Interactive features developed and maintained by [Reinvented Inc.](http://www.reinvented.info/)
