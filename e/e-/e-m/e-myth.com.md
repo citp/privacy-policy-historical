@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the e-myth.com privacy policy that was archived on 2007-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070527015528id_/http%3A//www.e-myth.com/pub/htdocs/20) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e-myth.com privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222065223id_/http%3A//www.e-myth.com/pub/htdocs/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | E-Myth Worldwide
-
-**E-Myth Privacy Policy**
 
 We have created this privacy policy to demonstrate our firm commitment to your privacy and the protection of your information.
 
@@ -31,6 +29,3 @@ Please send an email to webmaster@e-myth.com from the email address that you wis
 
 **Traffic Analysis**  
 We use WebTrends Live and Google Analytics to analyze traffic to this website. The information we collect is used to improve the content of our website. Unlike some tracking services WebTrends Live and Google Analytics do not create individual profiles for visitors. They only collects aggregate data. We recommend that you also review the [WebTrends Live's privacy policy](http://www.webtrendslive.com/privacy_policy.htm). and [Google's Privacy Policy](http://www.google.com/privacypolicy.html)
-
-  
-
