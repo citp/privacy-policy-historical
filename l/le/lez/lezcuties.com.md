@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lezcuties.com privacy policy that was archived on 2007-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070507094839id_/http%3A//lezcuties.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lezcuties.com privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222021104id_/http%3A//lezcuties.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
