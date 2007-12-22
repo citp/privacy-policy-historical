@@ -1,37 +1,56 @@
-> *The following text is extracted and transformed from the chinesepod.com privacy policy that was archived on 2007-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070405072443id_/http%3A//chinesepod.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chinesepod.com privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222120824id_/http%3A//chinesepod.com/privacy) for the most accurate reproduction.*
 
-# Learn Chinese
+# Privacy Policy - ChinesePod
 
-Our Privacy Policy is designed to assist you in understanding how we collect and use the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services.
+The ChinesePod privacy policy guarantees that all your personal information is strictly private and safe from harm or abuse. All information you pass along to us while on the site is secure and strictly confidential.
+
+Reading this privacy policy will help you make informed decisions when using our site, our products and services.
+
+**Why Do We Collect Information From You?**
+
+We collect information to enable us to provide a more customized service (for example, your personal information allows us to create your personalized home page, ChinesePod ID and RSS feed). We think this better level of service is good for the student. In addition, your contact information allows us to inform you of our latest product announcements, updates, offers, and events.
 
 **What Information Do We Collect?**
 
-When you visit our Web site you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis and Web site use information collected on an aggregate basis as you and others browse our Web site.
+When you visit our web site, you may provide us with three types of information:
 
-**Registration Information**
+  1. **Explicit information**  
+In order to create a free ChinesePod account, and customize your profile,you can choose to disclose personal information (such as email address, city of residence, hobbies, etc). You can access and edit this information anytime you like. 
+  2. **Implicit information**  
+When you use the site, we collect usage data (how many times you login, which lessons you study, how long you spend on them, etc). (Implicit information is only ever analysed in aggregate). 
+  3. **Exchange information**  
+We also store information that you have exchanged with any of the ChinesePod staff (teachers, sales, and the support team). 
 
-You will provide us information about yourself when you register to be a subscriber of chinesepod.com, register for certain services, or register for email newsletters and alerts. You may also provide additional comments on how you see chinesepod.com servicing your needs and interests.
 
-**Email Information.**
 
-If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses.
+These three types of information help us determine what new information is most useful to you, and which parts of our website and services are of most interest to you.
 
-**Web Site Use Information**
+**Does ChinesePod Use Cookies?**
 
-Similar to other commercial Web sites, our Web site utilizes a standard technology called "cookies" (see explanation below, "What Are Cookies?") and Web server logs to collect information about how our Web site is used. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web site, and the Web sites visited just before and just after our Web site. We, our advertisers and ad serving companies may also use small pieces of code called "web beacons" or "clear gifs" to determine which advertisements and promotions users have seen and how users responded to them. 
-
-**How Do We Use the Information That You Provide to Us?**
-
-We use personal information only for the purposes of administering our business activities and providing customer service. Occasionally, we may also use the information we collect to notify you about important changes to our Web site, new services and special offers we think you will find valuable. You may notify us at any time if you do not wish to receive these offers by emailing us at [chinesepod@gmail.com](mailto:chinesepod@gmail.com) . 
+Yes. Like most other websites, ChinesePod uses a standard technology called "cookies" to collect information on how the website is used, and make usage more convenient for the user (cookies allow us to provide the personal homepage, for example).
 
 **What Are Cookies?**
 
-A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a Web site, that site's computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each Web site can send its own cookie to your browser if your browser's preferences allow it, but (to protect your privacy) your browser only permits a Web site to access the cookies it has already sent to you, not the cookies sent to you by other sites.
+A "cookie" is very small text document which our website places on your computer, if your browser settings permit it. Cookies help us recognize you and tailor your experience. It is important to note that cookies do not allow us to gather any personal information about you.
 
-**How Do We Use Information We Collect from Cookies?**
+**What Other Techniques Does ChinesePod Use?**
 
-As you interact with our Web site, the site uses its cookies to differentiate you from other users in order to tailor the best possible experience for you. In some cases, we also use cookies to prevent you from seeing unnecessary advertisements or requiring you to log in more than is necessary for security. Cookies, in conjunction with our Web server's log files, allow us to calculate the aggregate number of people visiting our Web site and which parts of the site are most popular. This helps us gather feedback in order to constantly improve our Web site and better serve our customers. Cookies do not allow us to gather any personal information about you and we do not generally store any personal information that you provided to us in your cookies.
+We also use our web server logs to see how our Web site is used. This information can include the date and time of visits, the pages viewed, time spent at our Web site, and the Web sites visited just before and just after our Web site. Our advertisers and ad serving companies may also use small pieces of code called "web beacons" or "clear gifs" to determine which advertisements and promotions users have seen and how users responded to them. 
+
+**How Do We Protect your Personal Information?**
+
+ChinesePod takes extensive measures to safeguard your personal information against loss, theft, and misuse, as well as unauthorized access, disclosure, alteration, and destruction. We use Secure Sockets Layer (SSL) encryption on all web pages where personal information is required, and on all servers where this information is stored. Also, to make a purchase on ChinesePod, you must use an SSL-enabled browser such as Firefox, Safari, Netscape Navigator 3.0, or Internet Explorer. This measure protects the confidentiality of your personal and credit card information while it is transmitted over the Internet. 
+
+**How Do We Use the Information That You Provide to Us?**
+
+We use personal information only for the purposes of administering our business activities and providing customer service. Occasionally, we may also use the information we collect to notify you about important changes to our website, new services and special offers we think you will find valuable. 
+
+If you do not want us to keep you up to date with ChinesePod news, updates and the latest information on our product and services click Your Account and update your personal contact information and preferences. Naturally, if you notify us that you do not want us to use your information for a particular purpose, we will not do so.
 
 **Sharing Information with Third Parties**
 
-Chinesepod will never share your information with a third party.
+ChinesePod will never share your information with a third party.
+
+**Other Privacy concerns**
+
+If you have other questions or concerns about ChinesePod's Customer Privacy Policy, please email us at [chinesepod@gmail.com](mailto:chinesepod@gmail.com).
