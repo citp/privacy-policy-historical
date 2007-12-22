@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the markettraders.com privacy policy that was archived on 2007-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070430031816id_/http%3A//www.markettraders.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the markettraders.com privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222165031id_/http%3A//www.markettraders.com/privacypolicy.aspx) for the most accurate reproduction.*
 
-# Traders Institute Inc. | FOREX Training and Support | FX Customer Service
-
-#### Privacy Policy
+# Forex Privacy Policy | FX Privacy Statement | Forex Disclosures: Market Traders Institute Inc.
 
 Market Traders Institute Inc has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website.
 
@@ -32,11 +30,7 @@ Basic registration requires you to provide us a screen name and password, as wel
 
 **Privacy of Personal Data on markettraders.com**
 
-No data you provide Market Traders Institute Inc as part of your basic registration or personalization will be sold to outside organizations. Market Traders Institute Inc, however, reserves the right to disclose personal identifying information when required or permitted by law. The information is stored on secure servers. You may occasionally receive from us at your designated email address notifications of new Market Traders Institute Inc features or offers. You may opt out of receiving those notifications by notifying us of personal preferences. Please remember to change your personal preferences for each email address that you may have registered with us.
-
-**Advertisers**
-
-We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information.
+No data you provide Market Traders Institute Inc as part of your basic registration or personalization will be sold to outside organizations. Market Traders Institute Inc, however, reserves the right to disclose personal identifying information when required or permitted by law. The information is stored on secure servers. You may occasionally receive from us at your designated email address notifications of new Market Traders Institute Inc features or offers. You may opt out of receiving those notifications by notifying us of personal preferences. Please remember to change your personal preferences for each email address that you may have registered with us. 
 
 **Cookie Policy**
 
@@ -76,11 +70,16 @@ We care about children and understand that they have special privacy needs. Ther
   7. We will NOT provide any links to Web sites that are unsuitable for children.
   8. We will encourage children to get their parent's permission before sharing personal information online.
 
+
+
 **Choice/Opt-Out**
 
 Our site provides users the opportunity to opt-out of receiving promotional/marketing information from us. 
 
   1. You can send email to [MTI](mailto:admin@markettraders.com).
   2. If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, [MTI](mailto:admin@markettraders.com).
+
+
+
 
 
