@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stationcasinos.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627095130id_/http%3A//www.stationcasinos.com/corp/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stationcasinos.com privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222044835id_/http%3A//www.stationcasinos.com/corp/privacy) for the most accurate reproduction.*
 
 # Las Vegas Hotels and Casinos - Station Casinos, Inc - Las Vegas
 
