@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the plumbersurplus.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623015946id_/http%3A//www.plumbersurplus.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plumbersurplus.com privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222084519id_/http%3A//www.plumbersurplus.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - PlumberSurplus.com
 
-[Home](https://web.archive.org/Default.aspx) > Privacy Policy 
+[Home](https://web.archive.org/) > Privacy Policy 
 
-[](https://web.archive.org/Brands/World-Imports/306)
+[](https://web.archive.org/Search.aspx?search=Milwaukee+Product+Promotions)
 
 #### Overview
 
@@ -168,5 +168,7 @@ You may also contact us by email at [info@plumbersurplus.com](mailto:info@plumbe
 #### Privacy Policy changes
 
 This Privacy Policy was last changed on December 30, 2004. If PlumberSurplus.com makes changes to any terms or conditions of the Privacy Policy, the changes will be posted in this document so that you will always know what information we gather, how we might use that information and to whom we will disclose it. We may change, modify, add or remove portions of this Policy at any time, and any changes will become effective immediately upon being posted unless we tell you otherwise. 
+
+[](https://www.scanalert.com/RatingVerify?ref=www.plumbersurplus.com)
 
 [ ](http://www.bizrate.com/ratings_guide/cust_reviews__mid--107325.html)
