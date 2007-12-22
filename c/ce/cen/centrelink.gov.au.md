@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the centrelink.gov.au privacy policy that was archived on 2007-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070620141946id_/http%3A//www.centrelink.gov.au/internet/internet.nsf/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centrelink.gov.au privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222055652id_/http%3A//www.centrelink.gov.au/internet/internet.nsf/legal/privacy.htm) for the most accurate reproduction.*
 
 # Privacy & Security Statement
 
