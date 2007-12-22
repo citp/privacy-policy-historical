@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amerispan.com privacy policy that was archived on 2007-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070621073819id_/http%3A//www.amerispan.com/privacy_statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amerispan.com privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222234845id_/http%3A//www.amerispan.com/privacy_statement.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -23,10 +23,10 @@ We post customer testimonials on our web site which may contain personally ident
 
 _**Newsletters**_
 
-If you wish to subscribe to our newsletters, we will use your name and email address to send the newsletter to you.  Out of respect for your privacy, we provide you a way to unsubscribe.  Please see the “Optional & Fully-Verified Opt-In Email Subscription Lists” section.
+If you wish to Subscribe to our newsletters, we will use your name and email address to send the newsletter to you.  Out of respect for your privacy, we provide you a way to unSubscribe.  Please see the “Optional & Fully-Verified Opt-In Email Subscription Lists” section.
 
  _ **What Information Do We Collect?**_  
-We collect information from you to help us personalize and improve your AmeriSpan experience, to process your online requests, and to send you communications to which you have subscribed. You are required to give contact information (such as name and email address). We use this information to contact you about the services on our site in which you have expressed interest. 
+We collect information from you to help us personalize and improve your AmeriSpan experience, to process your online requests, and to send you communications to which you have Subscribed. You are required to give contact information (such as name and email address). We use this information to contact you about the services on our site in which you have expressed interest. 
 
 In addition, when you register for a program, we collect demographic information (age, occupation, school, etc) for our own internal use and the internal use of partner schools and host families. This information helps to accurately describe the types of participants in each program we offer and give some general information about you, the participant, to the schools and host families where you will attend. This sharing of information is a quality control measure which helps insure the best matches in various program components (lodging, instructors, etc).  This information collected is limited to use within AmeriSpan and its partner schools world-wide. AmeriSpan does not sell contact information to third parties. 
 
