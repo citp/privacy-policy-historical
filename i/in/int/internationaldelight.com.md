@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internationaldelight.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626141635id_/http%3A//www.internationaldelight.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internationaldelight.com privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222032505id_/http%3A//www.internationaldelight.com/privacy.php) for the most accurate reproduction.*
 
 # International Delight Coffee Creamer - Delight in Every Cup
 
@@ -26,4 +26,4 @@ This Web site contains "links" to other sites. We try to link only to sites that
 Contacting Us  
 WhiteWave Foods Company is dedicated to protecting the privacy of our customers, consumers and online visitors. We provide this privacy policy as a statement to you of our commitment to protect your personal information provided to us on our Web site. It is also provided to instruct you on what to do if you want personal information that you have already provided to us removed from our records. If there is a material change in our privacy practices, we will indicate on our site that our privacy practices have changed and provide a link to the new privacy policy. We will seek to obtain written or active email consent from you if we are going to be using the information collected from you in a manner different from that stated at the time of collection. We will also post the changes in our privacy policy 30 days prior to a change, where practicable.
 
-If you have submitted personal information through our Web site or interactive advertisement, and would like that information deleted from our records or would like to update or correct that information, please [contact us](https://web.archive.org/web/20070626141635id_/http%3A//www.internationaldelight.com/contactus.php).
+If you have submitted personal information through our Web site or interactive advertisement, and would like that information deleted from our records or would like to update or correct that information, please [contact us](https://web.archive.org/web/20071222032505id_/http%3A//www.internationaldelight.com/contactus.php).
