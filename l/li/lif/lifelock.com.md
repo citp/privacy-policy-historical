@@ -1,13 +1,11 @@
-> *The following text is extracted and transformed from the lifelock.com privacy policy that was archived on 2007-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070228161742id_/http%3A//www.lifelock.com/about-us/about-lifelock/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifelock.com privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223001329id_/http%3A//www.lifelock.com/about-us/about-lifelock/privacy-policy) for the most accurate reproduction.*
 
 # Identity Theft Prevention – Identity Theft Protection
 
-[](http://www.truste.org/ivalidate.php?url=www.lifelock.com&sealid=101)
-
-Revised 21 April, 2005  
+[](http://www.truste.org/ivalidate.php?url=www.lifelock.com&sealid=101)  
 **LifeLock, Inc** is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site [WWW.LIFELOCK.COM]. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed forcompliance by TRUSTe.
 
-If you have questions or concerns regarding this statement, you should first contact LifeLock Client Services by email at [client.services@lifelock.com](mailto:client.services@lifelock.com) or 877.LIFELOCK.  If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
+If you have questions or concerns regarding this statement, you should first contact LifeLock Client Services by email at [client.services@lifelock.com](mailto:client.services@lifelock.com) or 877.LIFELOCK. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
 
 Welcome to LifeLock. Keeping your non-public personal information secure and confidential is our top priority. Please take a moment to read the LifeLock Customer Privacy Policy carefully to learn how we handle your personal information.
 
@@ -15,7 +13,7 @@ This policy may change from time to time. Please check this policy each time you
 
 In all circumstances, we take reasonable steps to:  
 Give you, a customer of LifeLock or as a user of our web site, clear notice when we are requesting information from you, the types of information we request from you, the general purposes for which that information will be used or disclosed, the categories of users to whom we provide the information;  
-Offer you the ability to opt out of such uses; Maintain accurate records and provide you access to your personally identifiable information; and Use safe and secure systems, physical and electronic, to safeguard your non-public personal information.
+Offer you the ability to opt out of such uses; Maintain accurate records and provide you access to your personally identifiable information; and Use safe and secure systems, physical and electronic, to safeguard your non-public personal information.
 
 While registering on our site, we will ask you for the following types of information: contact information (such as name, address, phone number, and email address); sensitive information (such as social security number); and financial information (such as credit card number). This information is required in order to verify your identity, charge you the appropriate and agreed fees and fulfill our services on your behalf with the outside agencies with whom we must communicate to set your lock.
 
@@ -60,7 +58,7 @@ At times we may be required by law or legal process to disclose your personal in
 
 LifeLock uses highly secure physical, electronic, and managerial procedures to safeguard the confidentiality and security of the data you provide to us.
 
-  * None of your non-public personal information will ever be disclosed by us to any third party or affiliate in ways ther than disclosed in this privacy statement.
+  * None of your non-public personal information will ever be disclosed by us to any third party or affiliate in ways other than disclosed in this privacy statement.
   * Only authorized employees of LifeLock will have access to the data that you provide to us, and that access is granted only on a "need to know" basis.
   * In cases of identity theft crisis resolution, only the advocate working on the case and key administrative supervisors have access to your non-public personal information.
   * All stored personal data is electronically encrypted.
@@ -72,7 +70,7 @@ LifeLock uses highly secure physical, electronic, and managerial procedures to s
 
 ### Security
 
-The security of your personal information is important to us. When you enter sensitive information (such as credit card number and/or social security number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). [To learn more about SSL, follow this link. <http://www.verisign.com/products-services/security-services/ssl/ssl-information-center/index.html>  
+The security of your personal information is important to us. When you enter sensitive information (such as credit card number and/or social security number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL).
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
@@ -85,8 +83,9 @@ We provide you the opportunity to "opt-out" of having your personally identifiab
 If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [client.services@lifelock.com](mailto:client.services@lifelock.com), or you may contact us at 877 LIFELOCK or by regular mail at:
 
 LifeLock Client Services  
-6515 South Rural Road, Suite 104  
-Tempe, AZ 85283
+60 East Rio Salado Parkway  
+Suite 400  
+Tempe, AZ 85281
 
 You will be notified when your personal information is collected by any third party that is not our agent/service provider, so you can make an informed choice as to whether or not to share your information with that party.
 
@@ -96,13 +95,12 @@ From time to time we place testimonials on our website from our clients. We do t
 
 ## Access to your non-public personal information
 
-You always have access to the information we have about you. If you would like to review non-public personal information that LifeLock may have about you, contact us via your secure web site or call 1-877 LIFELOCK. If you need to make changes to your non-public personal information, you may do so by logging into your account on this website, by calling our Client Services Group at 1-877
-
-LIFELOCK or by mail at:
+You always have access to the information we have about you. If you would like to review non-public personal information that LifeLock may have about you, contact us via your secure web site or call 1-877 LIFELOCK. If you need to make changes to your non-public personal information, you may do so by logging into your account on this website, by calling our Client Services Group at 1-877-LIFELOCK or by mail at:
 
 LifeLock Client Services  
-6515 South Rural Road, Suite 104  
-Tempe, AZ 85283
+60 East Rio Salado Parkway  
+Suite 400  
+Tempe, AZ 85281
 
 ## Our companywide commitment to privacy
 
@@ -116,13 +114,13 @@ A cookie is a small text file that is stored on a user's computer for record-kee
 
 We use both session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close you browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's "help" file.
 
-We use a third party cookie from Load.com which provides us with usage information regarding our site. It does not collect PII of any kind.
+We use a third party cookie from Google.com which provides us with usage information regarding our site. It does not collect PII of any kind.
 
 If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as the signup procedure or login, will be limited.
 
 ## Service Providers
 
-We use other third parties specifically Verisign to provide credit card validation on our site. When you sign up for our services, we will share your payment information as necessary for the third party to provide that service. 
+We use other third parties specifically Verisign to provide credit card validation on our site. When you sign up for our services, we will share your payment information as necessary for the third party to provide that service.
 
 These third parties are prohibited from using your personally identifiable information for any other purpose.
 
@@ -137,5 +135,8 @@ We reserve the right to modify this privacy statement at any time, so please rev
 If you have any questions or suggestions regarding our privacy policy, please contact us at: 1.877.LIFELOCK, [client.services@lifelock.com](mailto:client.services@lifelock.com), [](https://web.archive.org/)or our postal address:
 
 LifeLock  
-6515 South Rural Road, Suite 104  
-Tempe, AZ 85283
+60 East Rio Salado Parkway  
+Suite 400  
+Tempe, AZ 85281
+
+Revised 19 April, 2007
