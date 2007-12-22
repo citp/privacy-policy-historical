@@ -1,21 +1,77 @@
-> *The following text is extracted and transformed from the spine-health.com privacy policy that was archived on 2007-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070620032918id_/http%3A//www.spine-health.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spine-health.com privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222065719id_/http%3A//www.spine-health.com/about/privacy.html) for the most accurate reproduction.*
 
-# SPINE-HEALTH | Privacy policy
+# Privacy policy
 
-Search site
+(Updated June 2007)
 
-Quick find
+Spine-health.com is committed to maintaining the privacy of your online information, and Internet privacy is an issue that we take very seriously.  We believe it is important for you to know what information is being collected about you, how that information is being used, with whom it is being shared, and how to contact us if you have additional questions or concerns. 
 
-About us 
+Types of online information
 
-Spine-health.com is committed to maintaining the privacy of your online information.
+Information gathered online can generally be categorized as either anonymous or personally identifiable. Anonymous information is information that cannot be traced back to a specific individual. For example, Spine-health.com knows how many searches are queried each day on its Web site but does not know the names, e-mail addresses or gender of the people searching.
 
-Spine-health.com does not sell or disclose any personally identifiable information about you. We only collect personally identifiable information about you if you voluntarily provide it to us, for example, when you register on the site and provide your name and e-mail for us to forward the newsletter to you.
+Personally identifiable information (or PII) is information you provide that lets us know specific facts about you so that we can customize the information Spine-health.com delivers to you accordingly. This information can include your name, address, zip code, etc.  
 
-We do collect aggregate information about visitors to Spine-health to better understand how Spine-health visitors find the site and other statistical or background information, and this information may be shared with our advisors or others on an aggregate basis. No personally identifiable information is shared at any time.
+Gathering and use of anonymous information 
 
-[](https://web.archive.org/web/20070620032918id_/http%3A//www.spine-health.com/about/terms.html)
+Each time a visitor comes to Spine-health.com, we collect some information to improve the overall quality of the online experience, including product monitoring, product improvement, and targeted advertising. At the Spine-health.com web site, basic anonymous information is collected by our web servers, such as the visitor's domain name (e.g. whether the user is logged on from aol.com or Comcast.net), referral data (e.g., which search engine a user visited prior to clicking through to Spine-health.com), and technical data (e.g., browser, platform, connection speed). 
 
-[](https://web.archive.org/web/20070620032918id_/http%3A//www.spine-health.com/about/about01.html)
+In addition to collecting these types of information, Spine-health.com collects aggregate queries for internal reporting and targeted advertising. We also count, track, and aggregate the visitor's activity into our analysis of general traffic flows at our sites (e.g. tracking where traffic comes from, how traffic flows within Spine-health.com, etc.). To these ends, we may merge information about you into group data, which may then be shared on an aggregated basis with our advertisers; but Spine-health.com will not disclose your individual identity or personal data without your permission. When Spine-health.com does present aggregated information to outside companies, no one will be able to identify or contact you. 
+
+Use of 'cookies'
+
+Spine-health.com uses cookies to monitor traffic flow, patterns of travel within and through the site, and to target advertising and, in the future, possibly dynamically generate content. Cookies are a standard Internet technology that allows us to both store and retrieve login information on a user's system. Our web server automatically asks a new user whether his or her browser will agree to accept a Spine-health.com cookie file. If a visitor accepts, our web server will identify the user's cookie for Spine-health.com's use in internal reporting. If a user accepts a Spine-health.com cookie, but would later like to remove it from his or her computer, he or she can just remove it from the browser. 
+
+Web beacons
+
+Some Spine-health.com web pages may use web beacons in conjunction with cookies to compile aggregate statistics about web site usage. A web beacon is an electronic image, also called an action tag, single pixel (1x1), clear GIF, or web bug. Web beacons can recognize certain types of anonymous information (non-personally identifiable information, or non-PII) on a visitor's computer, such as a visitor's IP address, time and date of a page view, type of browser, and the existence of cookies previously set by that server.  This is information that is available to any web server you visit. Web beacons do not give any "extra" information away. They are simply a convenient way of gathering the simplest of statistics and managing cookies.
+
+Web beacons are typically used by a third-party to monitor the activity of a site. You have the option to render some web beacons unusable by rejecting their associated cookies. The web beacon may still record an anonymous visit from your IP address, but unique information will not be recorded. 
+
+Third-party companies
+
+Spine-health.com uses third-party advertising companies to serve ads when you visit our web site. Our advertising partners' Ad Server may use cookies when you view pages on our site; these cookies collect anonymous (non-PII) information as a way of measuring the effectiveness of advertising sold on Spine-health.com. Our sponsors and advertisers have agreed that they will not collect any personally identifiable information from our site visitors while they are on Spine-health.com. If you click on an advertisement on Spine-health.com and visit a site maintained by one of our sponsors or advertisers, please be aware that we are not responsible for the privacy practices of those sites. Certain advertiser sites may contain tracking code allowing our ad server systems to capture information about the activity on those sites, e.g., how many people from Spine-health.com visited a certain page of the advertiser’s site, how many people from Spine-health.com completed a product purchase on that site.  Again, this information is used to measure the effectiveness of the advertising on Spine-health.com.
+
+Some Ad Servers allow you to opt out of anonymous data collection through the use of cookies. To do so, you must opt out of such data collection with each individual site. You can opt out of cookies for several Ad Servers by visiting the Network Advertising Initiative gateway opt-out site <http://www.networkadvertising.org/optout_nonppii.asp>. At that site you can also review the privacy policies of those Ad Servers. 
+
+Similarly, Spine-health.com provides links to other web resources and content partners, and users that click on these links will be taken off the Spine-health.com site.  These other sites may use their own cookies, collect data or solicit personal information.  You should read the privacy policies of each site you visit to determine what information that site may be collecting about you and if you agree to how it will be used. 
+
+Gathering and use of personally identifiable information
+
+We only collect personally identifiable information about you if you voluntarily provide it to us, for example, when you register on the site and provide your name and e-mail for us to send an e-newsletter to you.  We use the personally identifiable information that you supply to provide you with the specific services you select and may occasionally send you emails about web site maintenance and updates, which may include new features and enhanced functionality. 
+
+Spine-health.com does not sell or disclose any personally identifiable information about you, unless it has your explicit permission to do so. Spine-health.com may occasionally sponsor sweepstakes, contests, or other events that require the collection, processing, and storage of individual contact and demographic information that may or may not be shared with participating sponsors. A registrant's personal contact and demographic information will not be released to third party or non-participating organizations without the user's consent, and Spine-health.com will request that co-sponsors of such events maintain the privacy of the registrants' information. When appropriate, users will be given the opportunity to receive information from third-party organizations in connection with services or events offered by Spine-health.com. This option may be made available through Spine-health.com 's registration and/or through registration processes maintained by a participating third-party. In all cases, you will be informed before you register for the event or service that a third party will be receiving the registration information you provide, and you will have the option not to participate in any service or event that requires third party involvement. 
+
+Please keep in mind that whenever you give out personal information online \--- for example, via message boards or chat --- that information can be collected and used by people you don’t know. While Spine-health.com strives to protect its user’s personal information and privacy, we cannot guarantee the security of any information you disclose online and you do so at your own risk.
+
+Sharing of information
+
+Spine-health.com does not provide third-party access to your personal information except in the aggregate and only after the information has been de-identified. The information will be in the form of grouped statistics compiled from our users' answers to survey questions and on-site behavior. Spine-health.com will not disclose the contact or demographic information of any individual user to advertisers or any other outside organization without the express permission of the individual. 
+
+E-mail correspondence/subscriptions and opt-out
+
+Each e-mail newsletter and special offer sent by Spine-health.com contains an easy, automated way for you to cease receiving our e-mail newsletters. One click of the mouse is all that is required — the system automatically excludes you from future mailings without needing additional human intervention. To unsubscribe, click the "unsubscribe" link in the footer of any e-mail newsletter from Spine-health.com. If you do not have Internet access, please reply to your Spine-health.com e-mail and type the word "UNSUBSCRIBE" in the subject line. Spine-health.com will not rent, sell or barter your email address to third parties, nor will we share your name with marketing partners unless you check a special box on our site (coming soon) to request third-party offers sent from Spine-health.com.
+
+Subscribers to Spine-health’s e-newsletters and other emails should log in to their account to update their preferences, revise their email address, unsubscribe from a particular email, etc.
+
+User research
+
+On occasion, Spine-health.com will make available to potential advertisers and research firms aggregated results from research it has conducted on its user base. Once again, Spine-health.com will only provide such demographic information on an aggregated basis and does not disclose individual member profiles without user consent. 
+
+Special policy with regards to information from children under thirteen
+
+In accordance with the Federal Children's Online Privacy Protection Act of 1998 (COPPA), Spine-health.com will never knowingly request personally identifiable information from anyone under the age of 13. 
+
+Contact us
+
+If you have additional questions about our privacy policy, please contact us at [admin@spine-health.com](mailto:admin@spine-health.com) or write to us at:
+
+Spine-health.com  
+123 West Madison St. Suite 1450  
+Chicago, IL 60602
+
+[](https://web.archive.org/web/20071222065719id_/http%3A//www.spine-health.com/about/terms.html)
+
+[](https://web.archive.org/web/20071222065719id_/http%3A//www.spine-health.com/about/about01.html)
 
  
