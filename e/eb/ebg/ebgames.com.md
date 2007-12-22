@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebgames.com privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618105016id_/http%3A//www.ebgames.com/gs/sites/eb/help/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebgames.com privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222053612id_/http%3A//www.ebgames.com/gs/sites/eb/help/privacypolicy.asp) for the most accurate reproduction.*
 
 # EBgames.com - Help Desk
 
@@ -116,7 +116,7 @@ As is the case with any business, our business changes over time, and our privac
 
 **Related Practices and Information**
 
-Terms and Conditions of Use may be found by [clicking here.](https://web.archive.org/web/20070618105016id_/http://www.ebgames.com/gs/sites/eb/help/ConditionsofUse.asp)
+Terms and Conditions of Use may be found by [clicking here.](https://web.archive.org/web/20071222053612id_/http%3A//www.ebgames.com/gs/sites/eb/help/ConditionsofUse.asp)
 
 **Still Have a Question?**
 
