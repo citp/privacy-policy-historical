@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pennfoster.edu privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626205419id_/http%3A//www.pennfoster.edu/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pennfoster.edu privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222023225id_/http%3A//www.pennfoster.edu/privacy.html) for the most accurate reproduction.*
 
 # Penn Foster Career School | Privacy Policy
 
