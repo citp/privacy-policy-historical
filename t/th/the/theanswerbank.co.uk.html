@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the theanswerbank.co.uk privacy policy that was archived on 2007-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070623145950id_/http%3A//www.theanswerbank.co.uk/Info/PrivacyPolicy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the theanswerbank.co.uk privacy policy that was archived on 2007-12-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071223002332id_/http%3A//www.theanswerbank.co.uk/Info/PrivacyPolicy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -15,7 +15,7 @@
 <script type="text/javascript" src="/ajax/ajax_recent_posts.js"></script>
 <script type="text/javascript" src="/Common/ajax.js"></script>
 
-<link href="/Styles/ANSW.css?a=40" rel="stylesheet" type="text/css">
+<link href="/Styles/ANSW.css?a=54" rel="stylesheet" type="text/css" media="all">
 
 <script language="javascript" type="text/javascript">
 if (top.frames.length!=0) {
@@ -38,7 +38,7 @@ if (top.frames.length!=0) {
 
 					<div class="Logo">
 						<a href="/">
-						  <img src="/images/ANSW.gif" border="0" width="256" height="52" alt="the AnswerBank - Valentines Day"> 
+						  <img src="/images/ABlogo_winter.gif" border="0" width="260" height="65" alt="the AnswerBank in Autumn"> 
 						</a>
 					</div>
 <div id="divLeftColumn" class="LeftColumn">
@@ -51,6 +51,10 @@ if (top.frames.length!=0) {
             <input type="hidden" name="IsQuestionSubmission" value="">
             <input type="hidden" name="questiontitle" id="questiontitle" value="">
             <input type="hidden" name="questiontext" id="questiontext" value="">
+            
+	<input type="hidden" name="embedVideoLink" value="">
+	<input type="hidden" name="embedVideoDesc" value="">
+    
             <input type="hidden" name="IsRegister" id="IsRegister" value="False">
         </form>
         <form action="/users/logout.asp?categoryid=18" name="logoutpage" method="post">
@@ -59,12 +63,16 @@ if (top.frames.length!=0) {
     </div>
 
     <div class="WelcomeBack">    
+
         
         <ul class="RegisterSignIn">
+            
             <li id="liRegister"><a href="javascript:document.forms['loginpage']['IsRegister'].value='True';document.forms['loginpage'].submit();">Register</a></li>
+            <!--<li id="liRegister"><a href="http://beta.theanswerbank.co.uk/User/Sign-up.html">Register</a></li>-->
             <li id="liSignIn"><a href="javascript:document.forms['loginpage']['IsRegister'].value='False';document.forms['loginpage'].submit()">Sign-In</a></li>
         </ul>
         
+
     </div>
 
     <div class="TopicsMenu">
@@ -108,6 +116,12 @@ if (top.frames.length!=0) {
             	</div>
             	        
                 <div class="topicsBox">
+            	    <p><a href="/ChatterBank/" title="">
+            	        <small>&gt;&nbsp;</small>ChatterBank            	        
+            	    </a></p>
+            	</div>
+            	        
+                <div class="topicsBox">
             	    <p><a href="/Family/" title="">
             	        <small>&gt;&nbsp;</small>Family            	        
             	    </a></p>
@@ -144,6 +158,12 @@ if (top.frames.length!=0) {
             	</div>
             	        
                 <div class="topicsBox">
+            	    <p><a href="/Insurance/" title="">
+            	        <small>&gt;&nbsp;</small>Insurance            	        
+            	    </a></p>
+            	</div>
+            	        
+                <div class="topicsBox">
             	    <p><a href="/Jobs-and-Education/" title="">
             	        <small>&gt;&nbsp;</small>Jobs &amp; Education            	        
             	    </a></p>
@@ -156,8 +176,8 @@ if (top.frames.length!=0) {
             	</div>
             	        
                 <div class="topicsBox">
-            	    <p><a href="/Media/" title="">
-            	        <small>&gt;&nbsp;</small>Media            	        
+            	    <p><a href="/Media-and-TV/" title="">
+            	        <small>&gt;&nbsp;</small>Media &amp; TV            	        
             	    </a></p>
             	</div>
             	        
@@ -182,6 +202,12 @@ if (top.frames.length!=0) {
                 <div class="topicsBox">
             	    <p><a href="/Phrases-and-Sayings/" title="">
             	        <small>&gt;&nbsp;</small>Phrases &amp; Sayings            	        
+            	    </a></p>
+            	</div>
+            	        
+                <div class="topicsBox">
+            	    <p><a href="/Play/" title="">
+            	        <small>&gt;&nbsp;</small>Play            	        
             	    </a></p>
             	</div>
             	        
@@ -234,6 +260,12 @@ if (top.frames.length!=0) {
             	</div>
             	        
                 <div class="topicsBox">
+            	    <p><a href="/Weather/" title="">
+            	        <small>&gt;&nbsp;</small>Weather            	        
+            	    </a></p>
+            	</div>
+            	        
+                <div class="topicsBox">
             	    <p><a href="/AB-Suggestions/" title="">
             	        <small>&gt;&nbsp;</small>AB Suggestions            	        
             	    </a></p>
@@ -250,29 +282,49 @@ if (top.frames.length!=0) {
         </div>
         <div class="topicsBottom"></div>
     </div>
-    <script language="JavaScript" src="http://ads.uknetguide.co.uk/Serve/Ad.js?SI=ANSW&amp;AdType=10&amp;Cat=18&amp;RandomNo=77508180" type="text/javascript"></script>
-    <div class="CategorySearch">
-        <div class="categorysearchTitleBkg">
-            <p class="searchTitle">Search the site</p>
-        </div> 
-        <div style="display:none;">
-            <form action="/Search/Default.asp" name="searchform" method="get" onsubmit="javascript:fSearchCookie(document.searchform.SearchText.value, 18);">
-        </form></div>
-        <div class="categorytextfieldBkg" align="center">
-            <input name="SearchText" type="text" class="categorytextfield" value="" maxlength="30">
-        </div>
-        <div class="categorysearchBottomBkg"><span class="searchGo">
-            <a href="javascript:document.searchform.submit()">GO</a>
-            <input type="submit" id="searchformSubmit" name="searchformSubmit" value="SUBMIT" style="width: 0px; height: 0px; display: none;">
-        </span></div>
-        <div style="display:none;">
-            
-        </div>
-    </div>
+    <script language="JavaScript" src="http://ads.uknetguide.co.uk/Serve/Ad.js?SI=ANSW&amp;AdType=10&amp;Cat=18&amp;RandomNo=76144045" type="text/javascript"></script>
     <br>
     
 		
 </div>
+
+
+<style>
+
+.CentreColumnWide
+{
+	TOP:135px;
+}
+
+.CentreColumn
+{
+	TOP:135px;
+}
+
+.RightColumn
+{
+	TOP:135px;
+}
+
+</style>
+
+<form action="/Search/Sponsored.asp" style="display:inline;z-index:1000;">
+
+<div class="topSearches">
+Search <input name="SearchText" type="textfield" style="font-size:10px;padding-bottom:0px;" value=""> 
+
+<input type="radio" name="searchType" value="web" onclick="this.form.action='/Search/Sponsored.asp';" checked="">Web
+<input type="radio" name="searchType" value="site" onclick="this.form.action='/Search/default.asp';">Site
+
+<input type="image" src="/images/ANSWgobutton.gif" style="top:2px;position:relative;" width="42" height="15">
+
+&gt; Top Searches 
+
+<iframe src="/Bn/ScrollAds.asp?CategoryID=18&amp;ParentCategoryID=" name="infoSpaceAds" height="16" width="200" marginheight="0" marginwidth="0" frameborder="0" scrolling="no"></iframe>
+
+</div>
+
+</form>
 <div class="QA"></div>
 <div id="divCentreColumn" class="CentreColumn">
 
@@ -348,7 +400,13 @@ if (top.frames.length!=0) {
     </div>
 
     <div class="Footer">
-    			<p style="font-size:2pt">&nbsp;</p>
+    	<form action="/Search/Sponsored.asp" class="ToolbarBottom">
+    <div>Search <input name="SearchText" type="text" class="SearchText" value=""> 
+        <input type="radio" name="searchType" value="web" onclick="this.form.action='/Search/Sponsored.asp';" checked="">Web
+        <input type="radio" name="searchType" value="site" onclick="this.form.action='/Search/default.asp';">Site
+        <input type="image" src="/images/ANSWgobutton.gif" class="image" width="42" height="15">
+    </div>
+</form>		
 		<p class="Footer">
 		  <!-- <a href="/Info/Advertising.asp">Advertising</a> | -->
 		  <a href="/">Home</a> |
@@ -367,6 +425,7 @@ if (top.frames.length!=0) {
 </script>
 <script type="text/javascript">
 _uacct = "UA-1149866-1";
+_udn="theanswerbank.co.uk";
 urchinTracker();
 </script>
 
@@ -378,97 +437,29 @@ urchinTracker();
 
 <div id="divRightColumn" class="RightColumn">
     
-			<div class="ANSWText">
-				<div class="container">
-					<div class="AnswerbankPopularTitleBkg"><p class="AnswerbankPopularTitle" style="text-align:center;width:130px;">Calling All Sports Fans</p></div>
-					<div class="AnswerbankPopular"><div class="links"><span><a href="http://www.sportsanswerbank.com/Motorsport/Question422863.html">Hamilton the champion in 2007?</a></span></div></div>
-					<div class="AnswerbankPopular"><div class="links"><span><a href="http://www.sportsanswerbank.com/Football/Question422762.html">last nights penalty shoot out</a></span></div></div>
-					<div class="AnswerbankPopular"><div class="links"><span><a href="http://www.sportsanswerbank.com/Golf/Question421372.html">Why can't Tiger Woods win a major from behind?</a></span></div></div>
-					<div class="AnswerbankPopular"><div class="links"><span><a href="http://www.sportsanswerbank.com/Horse-Racing/Question422721.html">Unwritten rule ??</a></span></div></div>
-			    </div>
-			    <div class="AnswerbankPopularBottom"></div>
-			</div>
-			<div class="ANSWText">
-				<div class="container">
-						<div class="AnswerbankPopularTitleBkg">
-							<p class="AnswerbankPopularTitle">
-			
-							    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Featured Threads
-							    
-							</p> 
-						</div>
-						
-					
-						
-						<div class="AnswerbankPopular">
-							<div class="links">
-						
-							    
-								<span><a href="/AB-Suggestions/Question422874.html">The most recent posts are here</a></span>
-								
-							</div>
-						</div>
-							
-					
-						
-						<div class="AnswerbankPopular">
-							<div class="links">
-						
-							    
-								<span><a href="/Travel/Destinations/Question422499.html">Holiday recomendations</a></span>
-								
-							</div>
-						</div>
-							
-					
-						
-						<div class="AnswerbankPopular">
-							<div class="links">
-						
-							    
-								<span><a href="/Society-and-Culture/Religion-and-Spirituality/Question422276.html">Lock &amp; Lock advert</a></span>
-								
-							</div>
-						</div>
-							
-					
-						
-						<div class="AnswerbankPopular">
-							<div class="links">
-						
-							    
-								<span><a href="/Shopping/Question422017.html">Do you have any shopping pet hates?</a></span>
-								
-							</div>
-						</div>
-							
-					
-			
-				</div>
-				<div class="AnswerbankPopularBottom"></div>
-			</div>
-			
-			
+    <div id="divRecentPosts" class="feedback">
+    
+<!--googleoff: index--> 
+    <form id="recentposts" method="post">
+    </form>
+<p><a id="aDisEnRecentPosts" title="The Recent posts list will be refreshed every 30s if you click on enable button." href="#" onclick="javascript:fRecentPostsPodCookie(this)">Recent posts</a> <a id="aRecentPostsRefresh" class="btn" style="display:inline;" title="The Recent posts list will be refreshed." href="#" onclick="javascript:sendData(null,'/ajax/saRecentPosts.asp','divRecentPosts');return false;">refresh</a> <span id="spanOnInfo" style="display:none">on</span></p><ul id="RecentPosts"><li><span class="minutesAgo">0min ago</span> by pastafreak<br><a href="/ChatterBank/Question497613.html">At least half of you will laugh at this.…</a><br>in ChatterBank</li><li><span class="minutesAgo">0min ago</span> by tufty7<br><a href="/ChatterBank/Question497618.html">Street traders.....Tips of the trade ...…</a><br>in ChatterBank</li><li><span class="minutesAgo">2min ago</span> by legend758duo<br><a href="/ChatterBank/Question497600.html">oh well  its will</a><br>in ChatterBank</li><li><span class="minutesAgo">2min ago</span> by shanx<br><a href="/Society-and-Culture/Question496911.html">What's the difference between being Brit…</a><br>in Society &amp; Culture</li></ul>
+<!--googleon: index-->
+    </div>
+    
 <div style="text-align: center; padding: 0px; margin: 0px;">
 
+
 <script type="text/javascript"><!--
-google_ad_client = "pub-1600992605963514";
-google_ad_width = "160";
-google_ad_height = "600";
-google_ad_format = "160x600_as";
-google_ad_channel ="";
-google_ad_type = "text";
-google_color_border = "FFFFFF";
-google_color_bg = "FFFFFF";
-google_color_link = "0000FF";
-google_color_url = "008000";
-google_color_text = "000000";
-
-
-
+google_ad_client = "pub-1751583271803360";
+//Skyscraper
+google_ad_slot = "2689702134";
+google_ad_width = 160;
+google_ad_height = 600;
 //--></script>
 <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 </script>
+
+
 
 
 </div>
@@ -490,41 +481,44 @@ google_color_text = "000000";
 			</div>
 		</div>
 
+
+        
 		<div class="NetguidePopular">
 			<div class="links">
-			<span><a href="http://clicks.uknetguide.co.uk/Click/MClick2.asp?SI=ANSW&amp;COID=24&amp;CPC=0&amp;PageUrl=/Info/PrivacyPolicy.asp&amp;URL=http://www.uknetguide.co.uk/TV/" target="_blank">TV Guide</a></span>
+			<span><a href="http://clicks.uknetguide.co.uk/Click/MClick2.asp?SI=ANSW&amp;COID=24&amp;CPC=0&amp;PageUrl=/Info/PrivacyPolicy.asp&amp;URL=http://www.uknetguide.co.uk/TV/" target="_blank">TV Listings</a></span>
 			</div>
 		</div>
 		<div class="NetguidePopular">
 			<div class="links">
-			<span><a href="http://clicks.uknetguide.co.uk/Click/MClick2.asp?SI=ANSW&amp;COID=24&amp;CPC=0&amp;PageUrl=/Info/PrivacyPolicy.asp&amp;URL=http://www.uknetguide.co.uk/Travel/Flight_Search/" target="_blank">Flight Search</a></span>
+			<span><a href="http://clicks.uknetguide.co.uk/Click/MClick2.asp?SI=ANSW&amp;COID=24&amp;CPC=0&amp;PageUrl=/Info/PrivacyPolicy.asp&amp;URL=http://www.uknetguide.co.uk/Travel/Flight_Search/" target="_blank">Flights</a></span>
 			</div>
 		</div>
 		<div class="NetguidePopular">
 			<div class="links">
-			<span><a href="http://clicks.uknetguide.co.uk/Click/MClick2.asp?SI=ANSW&amp;COID=24&amp;CPC=0&amp;PageUrl=/Info/PrivacyPolicy.asp&amp;URL=http://www.uknetguide.co.uk/Travel/Holiday_Search/" target="_blank">Holiday Search</a></span>
+			<span><a href="http://clicks.uknetguide.co.uk/Click/MClick2.asp?SI=ANSW&amp;COID=24&amp;CPC=0&amp;PageUrl=/Info/PrivacyPolicy.asp&amp;URL=http://www.uknetguide.co.uk/Travel/Holiday_Search/" target="_blank">Bargain Holidays</a></span>
 			</div>
 		</div>
 		<div class="NetguidePopular">
 			<div class="links">
-			<span><a href="http://clicks.uknetguide.co.uk/Click/MClick2.asp?SI=ANSW&amp;COID=24&amp;CPC=0&amp;PageUrl=/Info/PrivacyPolicy.asp&amp;URL=http://www.uknetguide.co.uk/Lifestyle_and_Leisure/Dating_Search/" target="_blank">Dating Search</a></span>
+			<span><a href="http://clicks.uknetguide.co.uk/Click/MClick2.asp?SI=ANSW&amp;COID=24&amp;CPC=0&amp;PageUrl=/Info/PrivacyPolicy.asp&amp;URL=http%3A%2F%2Fwww%2Euknetguide%2Eco%2Euk%2FVideo%2F%3FvxChannel%3DWorld+Headlines" target="_blank">Watch Latest News</a></span>
 			</div>
 		</div>
 		<div class="NetguidePopular">
 			<div class="links">
-			<span><a href="http://clicks.uknetguide.co.uk/Click/MClick2.asp?SI=ANSW&amp;COID=24&amp;CPC=0&amp;PageUrl=/Info/PrivacyPolicy.asp&amp;URL=http://www.uknetguide.co.uk/Employment/Job_Search/" target="_blank">Job Search</a></span>
+			<span><a href="http://clicks.uknetguide.co.uk/Click/MClick2.asp?SI=ANSW&amp;COID=24&amp;CPC=0&amp;PageUrl=/Info/PrivacyPolicy.asp&amp;URL=http://www.uknetguide.co.uk/Employment/Job_Search/" target="_blank">Job Centre</a></span>
 			</div>
 		</div>
 		<div class="NetguidePopular">
 			<div class="links">
-			<span><a href="http://clicks.uknetguide.co.uk/Click/MClick2.asp?SI=ANSW&amp;COID=24&amp;CPC=0&amp;PageUrl=/Info/PrivacyPolicy.asp&amp;URL=http://www.uknetguide.co.uk/Finance/Secured_Loans_Search/" target="_blank">Loan Search</a></span>
+			<span><a href="http://clicks.uknetguide.co.uk/Click/MClick2.asp?SI=ANSW&amp;COID=24&amp;CPC=0&amp;PageUrl=/Info/PrivacyPolicy.asp&amp;URL=http://www.uknetguide.co.uk/Finance/Secured_Loans_Search/" target="_blank">Compare Loans</a></span>
 			</div>
 		</div>
 		<div class="NetguidePopular">
 			<div class="links">
-			<span><a href="http://clicks.uknetguide.co.uk/Click/MClick2.asp?SI=ANSW&amp;COID=24&amp;CPC=0&amp;PageUrl=/Info/PrivacyPolicy.asp&amp;URL=http://www.uknetguide.co.uk/Finance/Insurance_Search/" target="_blank">Insurance Search</a></span>
+			<span><a href="http://clicks.uknetguide.co.uk/Click/MClick2.asp?SI=ANSW&amp;COID=24&amp;CPC=0&amp;PageUrl=/Info/PrivacyPolicy.asp&amp;URL=http://www.uknetguide.co.uk/Finance/Insurance_Search/" target="_blank">Motor Insurance</a></span>
 			</div>
 		</div>
+
 	</div>
 	<div class="NetguidePopularBottom">
 	</div>
@@ -535,14 +529,14 @@ google_color_text = "000000";
 </td></tr>
 </tbody></table>
 
-<script language="JavaScript" defer="" src="http://users.uknetguide.co.uk/user.js?SI=ANSW&amp;RNum=77508180&amp;Rf=&amp;Page=%2FInfo%2FPrivacyPolicy%2Easp"></script>
+<script language="JavaScript" defer="" src="http://users.uknetguide.co.uk/user.js?SI=ANSW&amp;RNum=76144045&amp;Rf=&amp;Page=%2FInfo%2FPrivacyPolicy%2Easp"></script>
 <div class="TopBar">
 <table border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="#666666">
   <tbody><tr><td align="center">
   <table border="0" cellpadding="0" cellspacing="0" width="780">
     <tbody><tr>
      <td width="575" valign="middle" align="right" bgcolor="#666666" class="TopBarText"><a href="/Info/AboutUs.asp">about us</a> | 
-     [Ctrl + D] adds us to favourites</td>
+     [Ctrl + D] adds us to bookmarks</td>
      <td width="29" height="24"><a href="http://clicks.uknetguide.co.uk/Click/MClick2.asp?SI=ANSW&amp;COID=24&amp;CPC=0&amp;PageUrl=/Info/PrivacyPolicy.asp&amp;URL=http://www.uknetguide.co.uk"><img name="ukng_tab" src="/images/ukng_tab_off.gif" alt="Switch to UK Net Guide" width="30" height="24" border="0"></a></td>
      <td width="29" height="24"><img name="answerbank_tab" src="/images/answerbank_tab_on.gif" alt="You are in The AnswerBank" width="30" height="24" border="0"></td>
      <td width="126" valign="middle" align="left" bgcolor="#666666" class="TopBarText">
