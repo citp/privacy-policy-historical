@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diigo.com privacy policy that was archived on 2006-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061027044938id_/http%3A//www.diigo.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diigo.com privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222070938id_/http%3A//www.diigo.com/help/privacy) for the most accurate reproduction.*
 
 # 
 
