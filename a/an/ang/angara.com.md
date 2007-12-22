@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the angara.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629104947id_/http%3A//www.angara.com/privacy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the angara.com privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222141946id_/http%3A//www.angara.com/privacy.do) for the most accurate reproduction.*
 
-# Angara - Privacy & Security policy
+# Angara - Privacy & Security Policy
 
 |  |   
 ---  
@@ -64,7 +64,7 @@ Once you enter the checkout page, your computer will begin communicating with ou
   
 Does Angara.com link to other sites?
 
-The [Angara.com](https://web.archive.org/web/20070629104947id_/http%3A//www.angara.com/index.do) website may include links to other websites that are not under our control. These other websites have their own policies regarding privacy that you should review. Angara has no responsibility for these linked websites.   
+The [Angara.com](https://web.archive.org/web/20071222141946id_/http%3A//www.angara.com/index.do) website may include links to other websites that are not under our control. These other websites have their own policies regarding privacy that you should review. Angara has no responsibility for these linked websites.   
   
 How does Angara.com protect children's privacy?
 
