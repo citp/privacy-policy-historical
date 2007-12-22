@@ -1,25 +1,18 @@
-> *The following text is extracted and transformed from the gftforex.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629015607id_/http%3A//www.gftforex.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gftforex.com privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222061531id_/http%3A//www.gftforex.com/privacypolicy.asp) for the most accurate reproduction.*
 
-# Global Forex Trading :: Privacy Policy
+# Global Forex Trading - Privacy Policy
 
 We collect non-public, personal information about you from the following sources:
-
-–
 
 | 
 
 Information we receive from you on applications, forms or otherwise  
   
 ---|---  
-  
-–
-
 | 
 
 Information about your transaction with us, our affiliates or others  
   
-–
-
 | 
 
 Information we receive from other brokerage firms  
@@ -30,5 +23,4 @@ We may disclose all of the information we collect, as described above, to compan
 
 On an internal basis, we authorize access to non-public, personal information about you to those employees who need to know that information to service your account or to enforce our rights relating to your account. We maintain security practices and procedures to ensure the confidence of your non-public, personal information.
 
-  
-
+CD01U.136.102307
