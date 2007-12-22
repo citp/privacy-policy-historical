@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the principalindia.com privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613162526id_/http%3A//www.principalindia.com/presentation/View/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the principalindia.com privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222214953id_/http%3A//www.principalindia.com/presentation/View/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Principal India - Privacy Policy
 
