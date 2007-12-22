@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationwide.co.uk privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630210443id_/http%3A//www.nationwide.co.uk/about_nationwide/membership_matters/cookie_and_privacy_policy/cookie_and_privacy_policy.htm%3FSource%3Dnationwide%26campaign%3Dfootlinks%26execution%3Dhomepage_privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationwide.co.uk privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222030844id_/http%3A//www.nationwide.co.uk/about_nationwide/membership_matters/cookie_and_privacy_policy/cookie_and_privacy_policy.htm) for the most accurate reproduction.*
 
 # About Nationwide - Membership matters - Cookie and privacy policy
 
@@ -24,7 +24,7 @@ If you use standard e-mail for communication with Nationwide, information will n
 
 All e-mail sent to Nationwide will be monitored and checked to ensure our systems operate effectively.
 
-_This privacy policy only covers the Nationwide branded web sites. Links within this site to external web sites are not covered by this policy. Please note that any changes that Nationwide makes to this policy will be communicated electronically on the home page of this site and not by individual written communication._
+_This privacy policy only covers the Nationwide branded websites. Links within this site to external websites are not covered by this policy. Please note that any changes that Nationwide makes to this policy will be communicated electronically on the home page of this site and not by individual written communication._
 
 [ How Nationwide uses your information.](https://web.archive.org/about_nationwide/membership_matters/cookie_and_privacy_policy/personal_information.htm)
 
@@ -47,9 +47,9 @@ _You are offered this cookie on the Internet Banking sign on page._
 
 
 
-_When we use a cookie for this purpose, we do not record any information that will uniquely identify you. We put together the information from a very large number of users of our web site to give us an overall picture of how people visit our site._
+_When we use a cookie for this purpose, we do not record any information that will uniquely identify you. We put together the information from a very large number of users of our website to give us an overall picture of how people visit our site._
 
-  * from time to time we use a third party company to monitor and analyse traffic to, from and within our web site. Cookies may be used as part of this process
+  * from time to time we use a third party company to monitor and analyse traffic to, from and within our website. Cookies may be used as part of this process
 
 
 
