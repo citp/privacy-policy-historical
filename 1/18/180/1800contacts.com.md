@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the 1800contacts.com privacy policy that was archived on 2007-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070606223102id_/http%3A//www.1800contacts.com/ExternalRelations/CustomerResourcesPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1800contacts.com privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222125302id_/http%3A//www.1800contacts.com/ExternalRelations/CustomerResourcesPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Customer Resources | Corporate Info at 1-800 CONTACTS
-
-| 
 
 **Privacy Policy -- Effective 4/21/2005**  
 This policy describes the personal information we collect about you, why we collect it, and how we use it. Our policy also describes the choices you can make about how we collect and use your information.
 
 If you have any questions about our privacy policy, please contact us via:  
 Email at [info@1800contacts.com](mailto:info@1800contacts.com)  
-Call us toll-free at 1-800-CONTACTS (1-800-266-8228)  
-Write to us at: 8757 South State St. Sandy, UT 84070.
+Call us toll-free at 1-800 CONTACTS (1-800-266-8228)  
+Write to us at: 51 West Center St. Orem, UT 84057.
 
 If our information practices change in the future, we will notify you by posting the policy changes directly to this web page. We will post any such change before we use any of your information in any way other than as explicitly stated in this policy.
 
@@ -27,15 +25,15 @@ Omniture uses cookies to help track visitor behavior and sets cookies on behalf 
 We use your personal information to respond to and fulfill your orders. We will also send you an e-mail to confirm your order, and we may need to contact you via phone, mail or e-mail if we have any questions regarding your order. We may contact you by e-mail, postal mail or by phone (either directly or through a service provider bound by strict confidentiality standards working on our behalf) to help us learn more about your shopping preferences so that we may better serve you in the future. In addition we may use your information to help us better improve our site design and your shopping experience. We may also send you notices about our products, services, contests, surveys and promotions or news about contact lenses through postal mail.
 
 **Does 1-800 CONTACTS share my information with third parties?**  
-Except as explained in the next paragraph, we do not share your personal information with any third or outside party. We do not sell, rent or loan any information about you to any third parties.
+Except as explained in the next paragraph, we do not share your personal information with any third or outside party. If you opt to receive no commercial email from us, we will add your email address to a do-not-mail file, which may be given to trusted outside parties in order to ensure your email address is excluded from any third-party email distribution. We do not sell, rent or loan any information about you to any third parties. 
 
 PLEASE NOTE: On all orders placed, we do attempt to verify or obtain a copy or your contact lens prescription from the eye care provider that you designate. This information is held under the same strict confidentiality standards as described above and in accordance with all applicable law.
 
 **How do I access my information? How do I update my information?**  
-Registered customers can access their account information online by clicking the "My Account" link at the top of any of the pages on [www.1800contacts.com](https://web.archive.org/web/20070606223102id_/http%3A//www.1800contacts.com/) and entering your email address and password. This will load the My Account portion of the website and allow you to edit your billing, shipping and email preferences, and alter your login and password settings. You can also make general changes to your account information by calling us at 1-800-CONTACTS (1-800-266-8228) to speak with a Customer Service Representative.
+Registered customers can access their account information online by clicking the "My Account" link at the top of any of the pages on [www.1800contacts.com](https://web.archive.org/web/20071222125302id_/http%3A//www.1800contacts.com/) and entering your email address and password. This will load the My Account portion of the website and allow you to edit your billing, shipping and email preferences, and alter your login and password settings. You can also make general changes to your account information by calling us at 1-800 CONTACTS (1-800-266-8228) to speak with a Customer Service Representative.
 
 **How do I remove my information from e-mail, postal mailing and telephone lists?**  
-If you prefer not to receive notice of promotions, reorder information or updates on contact lens laws by email, please click the "My Account" link at the top of any of the pages on [www.1800contacts.com](https://web.archive.org/web/20070606223102id_/http%3A//www.1800contacts.com/) , enter your email address and password and click on "email options". You will be able to specify your email preferences on this page. If you wish to be removed from all email communications not related to your order, you can call one of our Customer Service Representatives at 1-800-CONTACTS (1-800-266-8228). If you prefer not to receive postal mail, please let us know by sending us an email at info@1800contacts.com or call one of our Customer Service Representatives at 1-800-CONTACTS (1-800-266-8228).
+If you prefer not to receive notice of promotions, reorder information or updates on contact lens laws by email, please click the "My Account" link at the top of any of the pages on [www.1800contacts.com](https://web.archive.org/web/20071222125302id_/http%3A//www.1800contacts.com/) , enter your email address and password and click on "email options". You will be able to specify your email preferences on this page. If you wish to be removed from all email communications not related to your order, you can call one of our Customer Service Representatives at 1-800 CONTACTS (1-800-266-8228). If you prefer not to receive postal mail, please let us know by sending us an email at info@1800contacts.com or call one of our Customer Service Representatives at 1-800 CONTACTS (1-800-266-8228).
 
 PLEASE NOTE: Requests to be removed from the postal mail list may take up to 6-8 weeks to become effective. In addition, if you ask to remove your name and address from our e-mail or postal mailing lists, we will maintain your name in a "do not mail" file to ensure that we can honor your request. When you make a purchase, we will send you an e-mail to confirm your order and may also need to contact you via phone, postal mail or e-mail if we have other questions regarding your order.
 
@@ -55,7 +53,7 @@ More than 90% of Fortune 500 companies use SSL security to protect their sensiti
 To check the security of your connection, look at the lower corner of your browser window after accessing the server. If you see an unbroken key or a closed lock (depending on your browser), the SSL is active and the server is secure. You can also double-check by looking at the URL line of your browser. When assessing a secure server, the first characters of the site address will change from "http://" to "https://".
 
 **What is adware? What is spyware? Does 1-800 CONTACTS use adware or spyware?**  
-Adware is software that is installed on your computer that can, for example, create pop-up advertisements or cause your browser to be redirected to other websites. We do not participate in or use third party services that use adware, such as Gator.com, whenu.com or ezula.com. We have determined that there are instances where this type of advertising could be construed as confusing for customers. Therefore, we work to ensure that these third party adware services do not function on the 1-800 CONTACTS website, [www.1800contacts.com](https://web.archive.org/web/20070606223102id_/http%3A//www.1800contacts.com/)
+Adware is software that is installed on your computer that can, for example, create pop-up advertisements or cause your browser to be redirected to other websites. We do not participate in or use third party services that use adware, such as Gator.com, whenu.com or ezula.com. We have determined that there are instances where this type of advertising could be construed as confusing for customers. Therefore, we work to ensure that these third party adware services do not function on the 1-800 CONTACTS website, [www.1800contacts.com](https://web.archive.org/web/20071222125302id_/http%3A//www.1800contacts.com/)
 
 Spyware is also software that is installed on your computer that can, for example, record and transmit information regarding the websites you visit, or record or transmit your keystrokes to a third party. Spyware, like adware, is often installed without the knowledge of the person using the computer. We do not use spyware and we work to ensure that spyware does not function on the 1-800 CONTACTS website.
 
