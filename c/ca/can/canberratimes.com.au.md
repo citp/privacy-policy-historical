@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the canberratimes.com.au privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618062324id_/http%3A//canberra.yourguide.com.au/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canberratimes.com.au privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222182648id_/http%3A//canberra.yourguide.com.au/privacy.asp) for the most accurate reproduction.*
 
-# canberra.yourguide.com.au
+# The Canberra Times - Canberra news, classifieds and community
 
 | The internet has changed the way we live, read and communicate. It has turned the world into an intimate global village. But now that we're all closer to together it's important for Rural Press Limited to help its customers retain their privacy while they are online.  
 ---  
