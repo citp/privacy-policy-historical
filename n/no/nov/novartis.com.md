@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the novartis.com privacy policy that was archived on 2007-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070517094059id_/http%3A//www.novartis.com/util/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the novartis.com privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222191411id_/http%3A//www.novartis.com/util/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -29,7 +29,7 @@ You have the right to ensure that your personal data is always up-to-date. In so
 
 **5\. Security and Confidentiality**
 
-To ensure the security and confidentiality of personal data that we collect on-line, we use data networks protected, inter alia, by industry standard firewall and password protection. In the course of handling your personal data, we take measures reasonably designed to protect that information from loss, misuse, unauthorized access, disclosure, alteration or destruction. While we cannot guarantee against any loss, misuse or alteration to data, we try to prevent such unfortunate occurrences.
+To ensure the security and confidentiality of personal data that we collect on-line, we use data networks protected, inter alia, by industry standard firewall and password protection. In the course of handling your personal data, we take measures reasonably designed to protect that information from loss, misuse, unauthorized access, disclosure, alteration or destruction. While we cannot guarantee against any loss, misuse **unauthorized access** , or **disclosure** , alteration or **destruction** to data, we try to prevent such unfortunate occurrences.
 
 **6\. Data Transfer Abroad**
 
@@ -51,3 +51,7 @@ This Privacy Policy applies only to this website to the exclusion of third party
 **10\. Contact Us**
 
 If you have any queries or complaints about our compliance with this Privacy Policy, or if you would like to make any recommendations or comments to improve the quality of our Privacy Policy, please e-mail us at [corporate.enquiries@novartis.com](mailto:corporate.enquiries@novartis.com).
+
+### About Novartis
+
+### PRODUCTS
