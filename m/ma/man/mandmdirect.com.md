@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mandmdirect.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626101947id_/http%3A//www.mandmdirect.com/SecurityAndPrivacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mandmdirect.com privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222035903id_/http%3A//www.mandmdirect.com/SecurityAndPrivacy.asp) for the most accurate reproduction.*
 
 # Ordering and paying for online orders with M and M Direct is both safe and secure.
 
@@ -12,7 +12,7 @@
 
 If a site is secure a padlock will appear in the bottom right hand section of your screen when you are in the credit card entry area. Occasionally, the padlock will not be visible but the page is still secure. If you do not see the padlock, you can check by right-clicking anywhere on the page (except on an image) and select Properties. If the URL starts **https** : the **s** indicates that the page is secure. 
 
-If you do not want to place your order over the web then look and browse through the site, make a note of the items you want to order and ring our sales line on **08708 51 51 51** to place your order. It's easy!! We would strongly advise not to email an order to us as this is not secure and could be intercepted. 
+If you do not want to place your order over the web then look and browse through the site, make a note of the items you want to order and ring our sales line on **08716 641 333** to place your order. It's easy!! We would strongly advise not to email an order to us as this is not secure and could be intercepted. 
 
 We are committed to ensuring that your privacy is protected. This Privacy Policy explains how we use the information we collect about you, how you can instruct us if you prefer to limit the use of that information and procedures that we have in place to safeguard your privacy.
 
@@ -29,7 +29,7 @@ You should be aware that information and data may be automatically collected thr
 In the event that this business is sold or integrated with another business your details may be disclosed to our advisers and any prospective purchaser and their advisers and will be passed on to the new owners of the business.
 
 **Updating your details**  
-If any of the information that you have provided to us changes, for example if you change your e-mail address, name or payment details, please let us know the correct details by sending an e-mail to cservices@mandmdirect.com, or by sending a letter to M & M Direct Limited, Clinton Road, Leominster, Herefordshire, HR6 0SJ.
+If any of the information that you have provided to us changes, for example if you change your e-mail address, name or payment details, please let us know the correct details by sending an e-mail to cservices@mandmdirect.com, or by sending a letter to M and M Direct Limited, Clinton Road, Leominster, Herefordshire, HR6 0SJ.
 
 **Disclosure of information**  
 We comply with and are registered under the Data Protection laws in the United Kingdom. We take all reasonable care to prevent any unauthorised access to and use of your personal data.  
