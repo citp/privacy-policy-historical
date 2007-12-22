@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobissimo.com privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609222658id_/http%3A//www.mobissimo.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobissimo.com privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222212925id_/http%3A//www.mobissimo.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Mobissimo Travel | Privacy policy
 
@@ -51,8 +51,9 @@ In accordance with the Federal Children's Online Privacy Protection Act of 1998 
 Mobissimo provides you with the ability to review, correct and delete any of the personally identifiable information that you have provided to us. If you wish to review, correct or delete any information you have provided to us, you may contact Mobissimo by [email](mailto:webmaster@mobissimo.com), by telephone at 650-577-2300 or at the following postal address:   
 Mobissimo, Inc.   
 Attention: Webmaster   
-984 Folsom St.   
-San Francisco, California 94107   
+631 Howard St.   
+Suite 520   
+San Francisco, California 94105   
 
 
   
