@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the yumdrop.com privacy policy that was archived on 2007-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070501115734id_/http%3A//www.yumdrop.com/Site/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yumdrop.com privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222083518id_/http%3A//www.yumdrop.com/Site/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Policy as of 5/1/2007
+Policy as of 12/22/2007
 
 YumDrop values its customers and respects their privacy. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. When you visit any website, your computer exchanges information with other computers. YumDrop recognizes that it must maintain and use customer information responsibly. Therefore, we support your right to decide what information you share and how it is used. If you ever have a question about your privacy please email us at [service@yumdrop.com](mailto:service@yumdrop.com) or fill out our online [contact form](https://web.archive.org/Assistance/ContactUs).
 
@@ -19,7 +19,7 @@ Credit / Debit Card Information
 
 ## How do we use this information?
 
-We use information you provide about yourself when placing an order only to complete that order. We do not share this billing information with outside parties, except to the extent necessary to complete that order. We use return email addresses to reply to the email that we receive. You can signup online to receive our newsletter that contains updates regarding new products, special offers or services. We may use names in conjunction with an address to send notices and to rent to qualified third parties for their use. Anyone may remove themselves from receiving YumDrop and third party advertisements in the mail simply by emailing [service@yumdrop.com](mailto:service@yumdrop.com), fill out our online [contact form](https://web.archive.org/Assistance/ContactUs) or by calling 1-866-986-3767.
+We use information you provide about yourself when placing an order only to complete that order. We do not share this billing information with outside parties, except to the extent necessary to complete that order. We use return email addresses to reply to the email that we receive. You can sign up online to receive our newsletter that contains updates regarding new products, special offers or services. We may use names in conjunction with an address to send notices and to rent to qualified third parties for their use. Anyone may remove themselves from receiving YumDrop and third party advertisements in the mail simply by emailing [service@yumdrop.com](mailto:service@yumdrop.com), fill out our online [contact form](https://web.archive.org/Assistance/ContactUs) or by calling 1-866-986-3767.
 
 ## Corrections and Removal
 
