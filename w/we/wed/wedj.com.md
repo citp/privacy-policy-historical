@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wedj.com privacy policy that was archived on 2007-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070602082657id_/http%3A//www.wedj.com/dj-photo-video.nsf/privacy.html%21OpenPage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wedj.com privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222085101id_/http%3A//www.wedj.com/dj-photo-video.nsf/privacy.html%21OpenPage) for the most accurate reproduction.*
 
 # WeDJ.com Privacy Policy
 
