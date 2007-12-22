@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the black20.com privacy policy that was archived on 2007-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070118041830id_/http%3A//www.black20.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the black20.com privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222092624id_/http%3A//black20.com/home/privacy.asp) for the most accurate reproduction.*
 
-# Privacy Policy | Black20
+# Black20
 
 Black20 has created this Privacy Policy in order to demonstrate its firm commitment to privacy. The following policy is applicable to Black20 information collecting and the use and disclosure practices for the Black20 Website. Your use of this site tells us you have read and accept the practices outlined in this policy. 
 
