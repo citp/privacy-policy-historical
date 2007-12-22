@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swift.com privacy policy that was archived on 2007-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070426160758id_/http%3A//www.swift.com/index.cfm%3Fitem_id%3D1037) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swift.com privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222124835id_/http%3A//www.swift.com/index.cfm%3Fitem_id%3D1037) for the most accurate reproduction.*
 
 # SWIFT - About SWIFT - - Privacy statement
 
@@ -16,7 +16,7 @@ If you browse the SWIFT website, you do so anonymously. We may use your IP addre
 When you **voluntarily** supply us with your personal information such as your name, home or business address and email address or other contact information, we will use it to correspond with you. In the future, we may also use it to start a subscription upon your request, to register you for a particular service or event, or to prepare your purchase orders. 
 
 **Recruitment data**  
-Our site also provides a capability for candidates to submit their application via the Internet. To see our recruitment privacy policy, please [click here](https://web.archive.org/web/20070426160758id_/http%3A//www.swift.com/index.cfm?item_id=42639).
+Our site also provides a capability for candidates to submit their application via the Internet. To see our recruitment privacy policy, please [click here](https://web.archive.org/web/20071222124835id_/http%3A//www.swift.com/index.cfm?item_id=42639).
 
 **Sharing your data**   
 Because SWIFT operates globally, we may transfer data you submitted to us within our organisation, including to our subsidiaries (local SWIFT offices), our sub-contractors or business partners strictly in order to fulfil your request(s). These entities are required to maintain the confidentiality of the information and are restricted from using it for any purpose other than helping us to provide you with services. We will not share or sell the information to any outside parties, without your consent. 
