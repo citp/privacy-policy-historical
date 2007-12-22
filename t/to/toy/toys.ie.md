@@ -1,16 +1,17 @@
-> *The following text is extracted and transformed from the toys.ie privacy policy that was archived on 2007-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070602145636id_/http%3A//www.toys.ie/index.jsp%3F%26pID%3D93%26nID%3D112) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toys.ie privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222214617id_/http%3A//www.toys.ie/Privacy_Policy.aspx) for the most accurate reproduction.*
 
-# Smyths Superstores
+# Top Online Toy Store in Ireland, Games & Toys Online from Smyths Superstores
 
-This privacy statement is provided by Smyths Toys Limited (referred to as 'us', 'our', or 'we' in the statement) for the information of visitors (referred to as 'you' or 'your' in the statement) to our website. 
+**Privacy & Security Policy**  
+This privacy statement is provided by Smyths Toys and its subsidiaries (referred to as 'us', 'our', or 'we' in the statement) for the information of visitors (referred to as 'you' or 'your' in the statement) to our website. 
 
 We are committed to ensuring that your privacy is protected. By visiting our website, you consent to the use of your information as set out in this privacy statement. We may change our privacy statement at any time. If we change our privacy statement we will post the changes on this website. 
 
 Owing to the global nature of the Internet, there is a possibility that your information may be transferred to countries outside the European Economic Area. By submitting your information to us you consent to these transfers. 
 
-Please note that this privacy statement is subject to the terms and conditions of use of the Smyths Toys Limited website. 
+Please note that this privacy statement is subject to the terms and conditions of use of the Smyths Toys and its subsidiaries website. 
 
-Use of your personal information
+**Use of your personal information**
 
 We receive and store any information you enter on our website or give to us in any other way. You can choose not to provide certain information, but then you might not be able to take advantage of some of our features. 
 
@@ -20,11 +21,11 @@ Where you voluntarily provide personal information, the information may be used 
 
 We will only disclose your data to third parties who are our employees and for purposes in relation to the services we provide to you. In certain cases we share your information with carefully selected third parties who provide services to you on our behalf. In these cases we will ensure such third parties only use your data in accordance with our instructions and that adequate safeguards are in place to protect your data. 
 
-Other web websites
+**Other web websites**
 
 From time to time our website may contain links to other websites. The links are provided for your convenience and any such link does not imply endorsement by us of the website nor does it imply that there is any association between us and the operators of the website. We are not responsible for the data policies or procedures or the content of these linked websites 
 
-Cookies
+**Cookies**
 
 "Cookies" are small pieces of information sent by a web server to a web browser, which enables the server to collect information from the browser and which may then be stored on your system. 
 
@@ -38,13 +39,10 @@ Please remember, cookies do not contain confidential information such as your ho
 
 Your browser also generates other information, including which language the website is displayed in, and your Internet Protocol address ("IP address"). An IP address is a set of numbers which is assigned to your computer during a browsing session whenever you log on to the Internet via your internet service provider or your network (if you access the Internet from, for example, a computer at work). Your IP address is automatically logged by our servers and used to collect traffic data about visitors to our websites. We do not use your IP address to identify you personally. 
 
-Security
+**Security**
 
 We endeavour to take all reasonable steps to protect your personal information. However, we cannot guarantee the security of any data you disclose online. You accept the inherent security risks of providing information and dealing online over the Internet and will not hold us responsible for any breach of security unless this is due to our negligence or wilful default. 
 
-Contact Us
+**Contact Us**
 
-If you have any questions about this privacy statement, how we run the website, or wish to know what information we hold on you please contact our customer service department at [cs@toys.ie](mailto:cs@toys.ie) . 
-
-[Terms & Conditions](https://web.archive.org/web/20070602145636id_/http%3A//www.toys.ie/index.jsp?1nID=93&nID=112&aID=104)  
-
+If you have any questions about this privacy statement, how we run the website, or wish to know what information we hold on you please contact our customer service department at cs@smyths.com.
