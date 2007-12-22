@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onjava.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629040646id_/http%3A//onjava.com/pub/a/mediakit/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onjava.com privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222143147id_/http%3A//www.onjava.com/pub/a/mediakit/privacy.html) for the most accurate reproduction.*
 
-# O'Reilly Network -- Privacy Policy
+# MacDevCenter.com -- Privacy Policy
 
   
 
