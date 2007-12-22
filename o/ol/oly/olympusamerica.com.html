@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the olympusamerica.com privacy policy that was archived on 2007-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070626090031id_/http%3A//www.olympusamerica.com/oai_privacypolicy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the olympusamerica.com privacy policy that was archived on 2007-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071222015253id_/http%3A//www.olympusamerica.com/oai_privacypolicy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <title></title>
@@ -8,8 +8,8 @@
 <!-- 
 	function isBlank() 
 	{ 
-		value = document.forms[0].elements['sp-q'].value; 
-		if ( value == "" || value == "Enter Search Word(s)" )
+		value = document.forms[0].elements['q'].value; 
+		if ( value == "" || value == "Search Our Site" )
 		{        
 			alert("Please enter a keyword for your search");
 			return false;
@@ -39,6 +39,7 @@
 		text-decoration: none} 
 -->
 </style>
+<link href="/css/globalCSS.asp" rel="stylesheet" type="text/css">
 <link href="/msg_section/css/includestyle.css" rel="stylesheet" type="text/css">
 <base target="_top">
 </head>
@@ -51,27 +52,28 @@
 	<table width="756" border="0" cellspacing="0" cellpadding="0">
 	  <tbody><tr bgcolor="#08107B"> 
 	    <td width="162" align="left" valign="middle" nowrap=""><a href="/index.asp"><img src="/cpg_section/oly_new_logo_blue.gif" border="0"></a></td>
-	    <td width="584" height="57" align="right">
-			<table width="295" height="57" align="right" cellpadding="0" cellspacing="0" background="/cpg_section/oly_blue_ci.gif">
+	    <td height="57" align="right" class="olympusCI_search">
+
+				<table class="search" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                      <td class="links"><a href="/oai_ourcompany.asp" class="header">Our Company</a>&nbsp;|&nbsp;<a href="http://www.olympus-global.com" target="_blank" class="header">Global</a>&nbsp;|&nbsp;</td>
+		      <td class="search"><form method="GET" action="http://searchapp.olympusamerica.com/search" onsubmit="return isBlank();">
+			<table cellpadding="0" cellspacing="0" align="right">
 			   <tbody><tr>
-			    <td height="20" class="topnav" align="right" valign="bottom"><a href="/oai_aboutolympus.asp" class="topnav">About Us</a> | <a href="/oai_newsevents.asp" class="topnav">News &amp; Events</a> | <a href="/oai_contactus.asp" class="topnav">Contact Us</a></td>
+			    <td valign="top"><input type="text" name="q" size="32" maxlength="256" value="Search Our Site" onfocus="if(this.value=='Search Our Site')this.value='';" class="search">
+   				<input type="hidden" name="site" value="www">
+  				<input type="hidden" name="client" value="oai_frontend">
+   				<input type="hidden" name="output" value="xml_no_dtd">
+   				<input type="hidden" name="proxystylesheet" value="oai_frontend">
+			    </td>
+			    <td width="26" align="right" valign="middle" style="padding: 0px 0px 0px 7px;"><input name="btnG" type="image" id="image1" src="/images/go.gif" alt="[search]" align="absmiddle" border="0">
+			    </td>
 			   </tr>
- 			  <tr>
- 			   <td valign="top" align="right">
-
-			<form onsubmit="return isBlank();" method="get" action="http://search.olympusamerica.com/search/" id="form1" name="form1">
-			<table cellpadding="0" cellspacing="0" height="24"><tbody><tr><td valign="bottom">
-			<input id="text1" name="sp-q" value="Enter Search Word(s)" onfocus="if(this.value=='Enter Search Word(s)')this.value='';" class="searchbox">
-			<input type="hidden" name="sp-k" value="">
-			<input type="hidden" name="sp-a" value="sp1000153d">
-			<input type="hidden" name="sect" value="cpg">
-			</td><td width="33" align="right" valign="bottom">
-			<input type="image" src="/cpg_section/search_go_button_sm.gif" border="0" id="image1" name="image1" align="absmiddle">
-			</td></tr></tbody></table>
-
-			    </form></td>
- 			  </tr>
 			</tbody></table>
+		    </form></td>
+		   </tr>
+                  </tbody></table>
+
            </td>
 	  </tr>
 	</tbody></table>
