@@ -1,18 +1,40 @@
-<!--The following is the downloaded HTML source of the mashery.com privacy policy that was archived on 2007-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070629061703id_/http%3A//mashery.com/page/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mashery.com privacy policy that was archived on 2007-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071222093921id_/http%3A//www.mashery.com/page/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 	<meta http-equiv="content-type" content="text/html; charset=utf-8">
-    <title>Mashery Inc. Privacy Policy</title>
-    
-    <style type="text/css" media="screen">@import url("/public/Mashery/styles-min/mashery-base.css");</style>
-    <style type="text/css" media="screen">@import url("/public/Mashery/styles-min/page.css");</style>
-    <style type="text/css" media="screen">@import url("/public/Mashery/styles-min/mashery-default.css");</style>
+	<link rel="P3Pv1" href="/w3c/p3p.xml">
+<script type="text/javascript">
+//<![CDATA[
+var mashery_replacements = {
+    area_name: 'Mashery',
+    area_subj: 'Mashery',
+    area_contact_email: '',
+    docs: 'http://www.mashery.com/docs',
+    register: 'http://www.mashery.com/member/register',
+    api_register: 'http://www.mashery.com/apps/register',
+    wiki: 'http://www.mashery.com/wiki',
+    blog: 'http://www.mashery.com/blog',
+    forum: 'http://www.mashery.com/forum',
+    terms: 'http://www.mashery.com/terms',
+    myaccount: 'http://www.mashery.com/member/edit',
+    docs_link: '<a href="http://www.mashery.com/docs">Documentation</a>',
+    register_link: '<a href="http://www.mashery.com/member/register">Register</a>',
+    api_register_link: '<a href="http://www.mashery.com/apps/register">API Key</a>',
+    wiki_link: '<a href="http://www.mashery.com/wiki">Wiki</a>',
+    blog_link: '<a href="http://www.mashery.com/blog">Blog</a>',
+    forum_link: '<a href="http://www.mashery.com/forum">Forum</a>',
+    terms_link: '<a target="_blank" href="http://www.mashery.com/terms">Terms & Conditions</a>',
+    myaccount_link: '<a href="http://www.mashery.com/member/edit">My Account</a>'
+};
+//]]>
+</script>
+    <title>Mashery - Mashery Inc. Privacy Policy</title>
+    <style type="text/css" media="screen">@import url("/public/Mashery/styles-min/Mashery-base.css");</style>
+    <style type="text/css" media="screen">@import url("/public/Mashery/styles/mashery/mashery-default.css");</style>
     <style media="print" type="text/css">@import url("/public/Mashery/styles/print-default.css");</style>
-    <script src="/public/Mashery/scripts-min/mashery-min.js?3859"></script>
     
-    
-    
+    <script src="/public/Mashery/scripts/Mashery/Mashery-base.js" type="text/javascript"></script>
 <script type="text/javascript">
 //<![CDATA[
 Event.observe(window,'load',function() {
@@ -32,11 +54,25 @@ Event.observe(window,'load',function() {
 });
 //]]>
 </script>
+
+<script type="text/javascript">
+//<![CDATA[
+// for callback from login overlay
+function setTopMasheryLocation(url)
+{
+    document.location = url;
+}
+//]]>
+</script>
+
     <!--[if lt IE 7.]>
         <style type="text/css" media="screen">@import url("/public/Mashery/styles/IE6.css");</style>
     <![endif]-->
-<!--    <script defer type="text/javascript" src="/public/Mashery/scripts/pngfix.js"></script> -->
-</head>
+    <!--[if gt IE 6]>
+        <style type="text/css" media="screen">@import url("/public/Mashery/styles/IE7.css");</style>
+    <![endif]-->
+
+<link type="text/css" rel="stylesheet" href="/public/Mashery/styles/mashery/mashery-default.css"><script type="text/javascript" src="/public/Mashery/scripts/Mashery/Mashery-login.js"></script></head>
 <body id="page-page" class="page-page read">
 
 
@@ -65,9 +101,17 @@ Event.observe(window,'load',function() {
 
                 <div id="search">
 					
-                    <form id="search-input" method="post" action="">
+                    <form id="search-input" method="get" action="/search">
                     <div>
-                        <input id="search-box" type="text">
+                        <input id="search-box" type="text" value="" name="q">                        
+                        <select name="within">
+                        <option value="" selected="selected">entire site</option>
+                            <option value="docs">documentation</option>
+                            <option value="wiki">wiki</option>
+                            <option value="blog">blog</option>
+                            <option value="forum">forum</option>                        </select>
+                        
+                        
                         <input id="search-button" type="submit" value="Search">
                     </div>
                     </form><!-- /search-input -->
@@ -234,10 +278,11 @@ Information Sharing with Mashery-Powered Portals.  One of the benefits of regist
 
             <div id="nav">
         <ul>
-    <li><a href="/page/solutions">Solutions</a></li>
-    <li><a href="/docs/Provider">Support</a></li>
-    <li><a href="/page/directory">Mashery Customers</a></li>
-    <li><a href="/page/Faq">FAQ</a></li>
+    <li class="first"><a href="/solutions">Solutions</a></li>
+    <li><a href="/docs/provider">Support</a></li>
+    <li><a href="/directory">Mashery Customers</a></li>
+    <li><a href="/faq">FAQ</a></li>
+    <li class="last"><a href="http://mashery.jobscore.com/">Jobs</a></li>
 </ul>
 
             </div><!-- /nav -->
@@ -247,10 +292,10 @@ Information Sharing with Mashery-Powered Portals.  One of the benefits of regist
         <div id="footer">
 		
         <ul>
-    <li><a href="/page/about">About</a></li>
+    <li class="first"><a href="/page/about">About</a></li>
     <li><a href="/page/terms">Terms of Service</a></li>
     <li><a href="/page/privacy">Privacy Policy</a></li>
-    <li><a href="/page/contact">Contact Us</a></li>
+    <li class="last"><a href="/page/contact">Contact Us</a></li>
 </ul>
 
             <!-- SITEINFO -->
@@ -277,6 +322,19 @@ _uacct = "UA-476443-1";
 _udn="mashery.com";
 urchinTracker();
 </script>
+<script type="text/javascript">
+//<![CDATA[
+//load resources
+WW.Util.loadResources({
+    files: [
+        {url: "/public/Mashery/scripts/Mashery/Mashery-login.js"},
+        {url: "/public/Mashery/styles/mashery/mashery-default.css", type: "css"}
+    ],
+    callback: function() {
+    }
+});
+//]]>
+</script>
 
 
-</body></html>
+<!-- ec8.mashery.com --></body></html>
