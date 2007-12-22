@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the labsafety.com privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618031041id_/http%3A//www.labsafety.com/aboutus/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the labsafety.com privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222235841id_/http%3A//www.labsafety.com/aboutus/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement - Lab Safety Supply® - LSS
 
@@ -41,7 +41,7 @@ Back to Top
 
 **_Will I get e-mail if I register or ask for a newsletter?_**
 
-We send all new members a welcoming e-mail to verify password and username. Registered members will occasionally receive information on products, services, or special offers. If you do not want to receive this information, simply email our listmaster at [noemails@labsafety.com](mailto:noemails@labsafety.com) and ask to be removed from all e-comm promotions.
+We send all new members a welcoming e-mail to verify password and username. Registered members will occasionally receive information on products, services, or special offers. If you do not want to receive information about new products, new site features or special offers, you can ask to be taken off our e-mail list by following the instructions included at the end of each email message you get from us.
 
 Back to Top
 
@@ -77,6 +77,6 @@ Back to Top
 
 Every message sent to any of Lab Safety Supply's company e-mail boxes (i.e. [custsvc@labsafety.com,](mailto:custsvc@labsafety.com) [techsvc@labsafety.com](mailto:techsvc@labsafety.com) or [prez@labsafety.com](mailto:prez@labsafety.com)) are read within 24 hours. Our goal is to respond back to you in 24 hours, as well.
 
-If you've registered with labsafety.com, we do keep your e-mail address on file for future promotions, but we do not sell that address to other companies. If you do not want to receive information about new products, new site features or special offers, you can ask to be taken off our e-mail list by following the instructions included at the end of each email message you get from us. Or you can simply e-mail our listmaster at [noemails@labsafety.com](mailto:noemails@labsafety.com) and ask to be removed from all e-comm promotions.
+If you've registered with labsafety.com, we do keep your e-mail address on file for future promotions, but we do not sell that address to other companies. If you do not want to receive information about new products, new site features or special offers, you can ask to be taken off our e-mail list by following the instructions included at the end of each email message you get from us.
 
 Back to Top
