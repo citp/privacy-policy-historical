@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tsu.edu privacy policy that was archived on 2007-05-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070513210223id_/http%3A//www.tsu.edu/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tsu.edu privacy policy that was archived on 2007-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071222231252id_/http%3A//www.tsu.edu/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -136,7 +136,7 @@ DQM_subdesc1_1 = "Law"
 DQM_subdesc1_2 = "Pharmacy &amp; Health Sciences"
 DQM_subdesc1_3 = "Education"
 DQM_subdesc1_4 = "Science &amp; Technology"
-DQM_subdesc1_5 = "Liberal Arts &amp; Behaviorial Sciences"
+DQM_subdesc1_5 = "Liberal Arts &amp; Behavioral Sciences"
 DQM_subdesc1_6 = "Public Affairs"
 DQM_subdesc1_7 = "Continuing Education"
 DQM_subdesc1_8 = "Graduate School"
@@ -255,7 +255,36 @@ DQM_url4_22 = "http://www.tsu.edu/student/services/recreation/"
 DQM_url4_23 = "http://www.msbn.tv/tsuvision/index.aspx"
 DQM_url4_24 = "http://www.tsu.edu/student/services/recreation/intramural/"
 
+
+/*---------------------------------------------
+Sub Menu - Athletics
+-----------------------------------------------*/
+
+DQM_sub_xy6 = "0,12"
+DQM_sub_menu_width6 = 140;
+DQM_subdesc6_0 = "Athletic Info"
+DQM_subdesc6_1 = "Administration"
+DQM_subdesc6_2 = "Guidelines"
+DQM_subdesc6_3 = "Men's Sports"
+DQM_subdesc6_4 = "Women's Sports"
+DQM_subdesc6_5 = "Ticket Info"
+DQM_subdesc6_6 = "Online Merchandise"
+DQM_subdesc6_7 = "TSU Fans"
+DQM_subdesc6_8 = "TSU Band"
+DQM_subdesc6_9 = "Contact Us"
+DQM_url6_0 = "http://www.tsu.edu/athletics/athleticInfo/"
+DQM_url6_1 = "http://www.tsu.edu/athletics/administration/"
+DQM_url6_2 = "http://www.tsu.edu/athletics/guidelines/"
+DQM_url6_3 = "http://www.tsu.edu/athletics/mens-sports/"
+DQM_url6_4 = "http://www.tsu.edu/athletics/womens-sports/"
+DQM_url6_5 = "http://www.tsu.edu/athletics/ticket-info.asp"
+DQM_url6_6 = "http://www.bkstr.com/webapp/wcs/stores/servlet/StoreCatalogDisplay?storeId=10241&langId=-1&catalogId=10001"
+DQM_url6_7 = "http://www.tsu.edu/athletics/fans/"
+DQM_url6_8 = "http://www.tsu.edu/athletics/band/"
+DQM_url6_9 = "http://www.tsu.edu/athletics/contact-us/"
+DQM_urltarget6_6 = "_new"
 </script>
+
 
 <script language="JavaScript1.2" src="/includes/dqm_script.js"></script><script language="JavaScript1.2" src="/includes/dqm_ns6.js"></script>
 <noscript>Site Navigation is provided as dynamic HTML. Javascript must be enabled to properly utilize this drop down menu. Redundant links are provided.</noscript>
@@ -287,21 +316,26 @@ DQM_url4_24 = "http://www.tsu.edu/student/services/recreation/intramural/"
 
 <tr>
 <td class="search" align="center" height="54">
-<form method="GET" action="http://search.tsu.edu/search">
-   <input type="hidden" name="site" value="default_collection">
-   <input type="hidden" name="client" value="default_frontend">
-   <input type="hidden" name="output" value="xml_no_dtd">
-   <input type="hidden" name="proxystylesheet" value="default_frontend">
+<!-- Search Google -->
+<form method="get" action="http://search.tsu.edu/search" name="Search">
 <!--//start search nested table//-->
-<table border="0" cellpadding="5" cellspacing="0" summary="Search form is in this table">
-<tbody><tr valign="bottom">
-<!--//form tag causes extra space in IE if in the div or td tags but won't validate here//-->
-<td class="searchBox"><label for="q">SEARCH:</label></td>
-<td class="field"><input type="text" name="q" size="15" maxlength="256" class="field"></td>
-<td><input type="image" src="/images/header/go_b.gif" class="searchButton" value="search" border="0" name="GO" id="GO" alt="GO"></td>
-</tr>
-</tbody></table></form>
-<!--//end of search nested table//-->
+	<table border="0" cellpadding="5" cellspacing="0" summary="Search form is in this table">
+		<tbody><tr valign="bottom">
+		<!--//form tag causes extra space in IE if in the div or td tags but won't validate here//-->
+			<td class="searchBox"><label for="query">SEARCH:</label></td>
+			<td class="field">
+				<input name="q" size="20" maxlength="255" value="Search..." onclick="this.value='';" type="text">
+				<input type="hidden" name="site" value="Student">
+				<input type="hidden" name="client" value="TSU_frontend">
+				<input type="hidden" name="proxystylesheet" value="TSU_frontend">
+				<input type="hidden" name="output" value="xml_no_dtd">
+			</td>
+			<td><input name="btnG" class="searchButton" value="Go" alt="GO" src="/images/header/go_b.gif" border="0" height="17" type="image" width="34"></td>
+		</tr>
+	</tbody></table>
+	<!--//end of search nested table//-->
+</form>
+<!-- End Search Google -->
 </td>
 </tr>
 
@@ -322,7 +356,10 @@ DQM_url4_24 = "http://www.tsu.edu/student/services/recreation/intramural/"
 
 <td class="topNavOff"><a href="http://www.tsu.edu/student/index.asp" id="menu4" onmouseover="showMenu(event, 4)" onmouseout="hideMenu(event, 3)">Student Life</a></td>
 
-<td class="topNavOff"><a href="http://www.msbn.tv/tsuvision/index.aspx">Athletics</a></td>
+
+<td class="topNavOff"><a href="http://www.tsu.edu/athletics/index.asp" id="menu6" onmouseover="showMenu(event, 6)" onmouseout="hideMenu(event, 6)">Athletics</a></td>
+
+
 <td class="topNavOff"><a href="http://www.tsu.edu/student/services/careerCenter/index.asp" id="menu2" onmouseover="showMenu(event, 2)" onmouseout="hideMenu(event, 2)">Career Center</a></td>
 <td class="topNavOff"><a href="http://www.tsu.edu/museum/" title="University Museum" id="menu3" onmouseover="showMenu(event, 3)" onmouseout="hideMenu(event, 3)">UMUSE</a></td>
 <td class="topNavOff"><a href="http://www.tsu.edu/alumni/brickPaver/index.asp">Alumni Giving</a></td>
@@ -457,8 +494,6 @@ The TSU Website contains links to other independently run Websites within the Te
 </div>
 
 
-
-
 <!--//opening divs are closed in the main left nav include//--><!--//opening divs are included in the section specific left navs//-->
 <br>
 <div id="lNavBox">
@@ -488,7 +523,7 @@ The TSU Website contains links to other independently run Websites within the Te
 <div id="footer">Texas Southern University, 3100 Cleburne Street, Houston, TX 77004&nbsp;&nbsp;&nbsp; Phone: 713-313-7011&nbsp;</div>
 <div class="alignCenter">
 <span class="update"><a href="/copyright.asp">Copyright</a> 2002 © Texas Southern University, all rights reserved.<br>
-<a href="http://www.beacontechnologies.com/">Custom Software Development</a>&nbsp;by Beacon Technologies, Inc.&nbsp;&nbsp;<a href="/privacy.asp">Privacy &amp; Security</a></span>
+<a href="/privacy.asp">Privacy &amp; Security</a></span>
 </div>
 
 <script language="Javascript1.2" type="text/javascript" src="/common/utm/__utm.js"></script>
