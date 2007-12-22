@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mashery.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629061703id_/http%3A//mashery.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mashery.com privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222093921id_/http%3A//www.mashery.com/page/privacy) for the most accurate reproduction.*
 
-# Mashery Inc. Privacy Policy
+# Mashery - Mashery Inc. Privacy Policy
 
 #### MASHERY CORPORATE PRIVACY POLICY
 
