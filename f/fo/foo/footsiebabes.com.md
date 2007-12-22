@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the footsiebabes.com privacy policy that was archived on 2007-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070606210631id_/http%3A//www.footsiebabes.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footsiebabes.com privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222225124id_/http%3A//footsiebabes.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
