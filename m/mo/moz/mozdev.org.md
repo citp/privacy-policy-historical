@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mozdev.org privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623080821id_/http%3A//www.mozdev.org/community/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mozdev.org privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222093543id_/http%3A//www.mozdev.org/community/privacy.html) for the most accurate reproduction.*
 
 # mozdev.org - www: community/privacy
 
@@ -51,4 +51,4 @@ The Site contains links to other sites. Please be aware that mozdev is not respo
 If You have any questions or suggestions regarding mozdev's privacy policy, or if You have submitted personally identifiable information through the Site and would like access to such information or to have that information corrected, please [email us](http://www.mozdev.org/feedback.html) or contact David Boswell at 35 South Portland Ave #3, Brooklyn, NY 11217.
 
 For questions or comments _not_ about a specific project, and _not_ covered in the [FAQ](http://www.mozdev.org/faq.html), please read our [feedback](http://www.mozdev.org/feedback.html) page.  
-[Copyright](http://www.mozdev.org/copyright.html) © 2000-2007. All rights reserved. [Terms of Use](http://www.mozdev.org/community/terms.html) & [Privacy Policy](http://www.mozdev.org/community/privacy.html).
+[Copyright](http://www.mozdev.org/copyright.html) © 2000-2007. All rights reserved. [Terms of Use](http://www.mozdev.org/community/terms.html) & [Privacy Policy](http://www.mozdev.org/community/privacy.html). 
