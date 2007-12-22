@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theanswerbank.co.uk privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623145950id_/http%3A//www.theanswerbank.co.uk/Info/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theanswerbank.co.uk privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223002332id_/http%3A//www.theanswerbank.co.uk/Info/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # The AnswerBank: Privacy Policy
 
