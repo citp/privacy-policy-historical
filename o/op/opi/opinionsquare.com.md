@@ -1,10 +1,13 @@
-> *The following text is extracted and transformed from the opinionsquare.com privacy policy that was archived on 2007-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070616171613id_/http%3A//www.opinionsquare.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opinionsquare.com privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222235142id_/http%3A//www.opinionsquare.com/privacy.aspx) for the most accurate reproduction.*
 
 # OpinionSquare – Take Surveys and Earn Cash and Prizes
 
+| |   
+
+
 Our online market research community has millions of participants who are interested in voicing their opinions through surveys and allowing their passively-tracked online browsing and purchasing behavior to be used as part of anonymous market research reports that help shape the future of the Internet. The information that you contribute is used by comScore, Inc., a U.S.-based market research company that is a nationally-recognized authority on Internet and general economic trends, whose data are routinely cited by major media outlets such as the New York Times, the Wall Street Journal, and CNBC, and is extensively used by the largest Internet services companies and scores of Fortune 500 companies.
 
-Be assured that protection of your privacy is one of our top priorities. Our privacy procedures are regularly audited and certified by the nationally-recognized firm, Ernst & Young, who assure that we conform with the international trust services and privacy principles developed and managed by the American Institute of Certified Public Accountants. While participation in our program will allow us to send you periodic surveys and track information about your online activities such as where you surf and the transactions that you make, 
+Be assured that protection of your privacy is one of our top priorities. While participation in our program will allow us to send you periodic surveys and track information about your online activities such as where you surf and the transactions that you make, 
 
 _the personally identifiable information you provide to us will NOT be used by us, or anyone with whom we do business, to advertise or market products or services to you!_
 
@@ -88,10 +91,6 @@ How is the information secured?
 
 We have implemented a variety of safeguards (including physical, digital, and legal protections) focused on ensuring that the information collected through this program is protected from unauthorized use, modification, or disclosure. For example, any secure information collected by our application is encrypted before it is sent to our servers. Moreover, our employees are subjected to periodic evaluation and investigation, are contractually restricted on their use and access to personally identifiable information, and are educated and retrained as needed on internal security policies and procedures. 
 
-_Independent Third Party Verification:_
-
-We recognize that your trust is difficult to earn. To help us earn this trust, we allow third parties to periodically challenge and test our data security and information handling practices to ensure we are achieving our goal of vigorously protecting participant data. Since late 2000, our market research systems have been one of a handful to earn the honor of achieving the certification of one of the nation’s leading assurance providers, Ernst & Young (“E&Y”). Prior to certification, we must undergo an evaluation of our privacy and data security practices including our data acquisition, processing and reporting procedures. E&Y verifies: (a) we only collect the information we declare we collect, and (b) we only use that information in ways we have disclosed to our members. Their examination also includes attempts to break into and compromise the hardware and security systems we have built. E&Y’s review is based on an international set of online privacy principles and criteria for systems and electronic commerce, which requires that the entity meet extensive standards for the protection of personally identifiable information collected through its online systems. [Click here](javascript:call_ey\(\);) for more information regarding this review or the principles upon which it is based. 
-
 If you would like to access, modify, and/or request deletion of the personally identifiable profile information submitted by you as part of this program, you may complete a support form on our website, or e-mail our support staff at the e-mail address provided below.
 
 Are cookies used by your website or your application?
@@ -115,11 +114,11 @@ What if I wish to stop participating in this program?
 
  _Resignation:_
 
-You may resign at any time by contacting us at the support address listed below or by selecting the “[Terminate all OpinionSquare Services](https://web.archive.org/web/20070616171613id_/http%3A//www.opinionsquare.com/Remove.aspx?terminate_services=y)” link from the Members section on your panel’s web page (where applicable). 
+You may resign at any time by contacting us at the support address listed below or by selecting the "[Terminate all OpinionSquare Services](https://web.archive.org/web/20071222235142id_/http%3A//www.opinionsquare.com/Remove.aspx?terminate_services=y)" link from the Members section on your panel’s web page (where applicable). 
 
 _Removing our Application:_
 
-You may remove our application using the Windows Add/Remove Programs function (known as “Programs and Features” in Vista). Alternatively, you may e-mail our support staff at the e-mail address provided below and request removal instructions. Please be sure to follow this same removal procedure on all of the computers from which you wish to remove this application. Removing the application will stop tracking of your online browsing and purchasing behavior, but unless you resign from the panel in accordance with the procedure stated above, you still may be contacted for administrative purposes or for special participant opportunities. After you remove our application from a computer, all settings we have made to your computer will be deactivated; however, some inactive elements may remain on your machine such as registry entries or DLL files, which is not at all unusual for many types of online services and software. 
+You may remove our application using the Windows Add/Remove Programs function (known as "Programs and Features" in Vista). Alternatively, you may e-mail our support staff at the e-mail address provided below and request removal instructions. Please be sure to follow this same removal procedure on all of the computers from which you wish to remove this application. Removing the application will stop tracking of your online browsing and purchasing behavior, but unless you resign from the panel in accordance with the procedure stated above, you still may be contacted for administrative purposes or for special participant opportunities. After you remove our application from a computer, all settings we have made to your computer will be deactivated; however, some inactive elements may remain on your machine such as registry entries or DLL files, which is not at all unusual for many types of online services and software. 
 
 _Use of Third Party Programs to Remove our Software:_
 
@@ -227,7 +226,7 @@ _ENTIRE AGREEMENT:_
 
 This Agreement constitutes the entire agreement between sponsor and you with respect to the subject matter contained in the Agreement. 
 
-This Agreement is effective as of March 22, 2007.
+This Agreement is effective as of September 19, 2007.
 
 Whom can I contact if I have additional questions?
 
@@ -244,6 +243,8 @@ Reston, VA 20190
 
 For any support issues, please contact: support@tmrginc.com.
 
-Please be aware that through our Webtrust certification, you are entitled to and are covered by binding arbitration by the American Arbitration Association. Should you feel that certain privacy issues have not been handled to your satisfaction by our privacy office, your privacy disputes may be directed to and arbitrated according to the Association's arbitration rules. You can reach the Association at 335 Madison Avenue, New York, New York 10017 or by calling (212) 716-5800, and access information about the Association's arbitration rules at [www.adr.org](http://www.adr.org/). 
+LP 0738
 
-LP 0712
+  
+|   
+---|---|---
