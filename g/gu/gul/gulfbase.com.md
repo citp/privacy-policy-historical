@@ -1,11 +1,14 @@
-> *The following text is extracted and transformed from the gulfbase.com privacy policy that was archived on 2007-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070612114403id_/http%3A//www.gulfbase.com/site/Interface/Privecy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gulfbase.com privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222171359id_/http%3A//www.gulfbase.com/site/Interface/Privecy.aspx) for the most accurate reproduction.*
 
 # GulfBase.com - Privacy
 
-**Effective: November 5, 2001**
+|  **Effective: November 5, 2001**
 
 Your privacy is important to us. **GulfBase.com** has created this privacy statement in order to demonstrate our firm commitment to privacy. By participating in the Council of Better Business Bureau’s BBBOnline® Privacy Program, we have made a commitment to meet the programs’ strict requirements regarding how we treat your information and have it verified by BBBOnline. Further information about this program is available at [ http://www.bbbonline.org](http://www.bbbonline.org/) The following discloses the information gathering and dissemination practices for GulfBase.com. 
 
+|  [ ](http://www.bbbonline.org/cks.asp?id=2020513101422056)  
+---|---  
+  
 **Cookies**   
 A "cookie" is a small piece of information sent by a Web server to store in a Web browser so that it can later be read back from that browser. Our Site uses cookies to keep track of user's session. We know of no way that our cookies could present a security risk to you. Under present technology, no Web server can get a cookie stored by another Web server. 
 
@@ -37,7 +40,7 @@ This site has appropriate physical, electronic, and managerial procedures to pro
 Our site provides users the opportunity to opt-out, at any time, of receiving promotional/marketing information from our partners. To opt-out: 
 
   * Log-in using your user name and password, 
-  * Click on "Update personal data" under "Quick Links", located at the right side of each page. 
+  * Click on [ "Update Personal Data".](http://www.gulfbase.com/site/interface/free/memberservices/updatepersonaldata.aspx)
   * Uncheck "I would like to receive promotional/marketing information from your partners" box, located at the bottom of the form. 
   * Click on "Save Changes".
 
@@ -47,7 +50,8 @@ Our site provides users the opportunity to opt-out, at any time, of receiving pr
 This site gives users the following options for reviewing, changing and/or modifying information previously provided: 
 
   * Log-in using your user name and password, 
-  * Click "Member Services" in the navigation menu, then click "Personal Data" and follow the instruction.
+  * Click on [ "Update Personal Data".](http://www.gulfbase.com/site/interface/free/memberservices/updatepersonaldata.aspx)
+  * Click on "Save Changes".
 
 
 
