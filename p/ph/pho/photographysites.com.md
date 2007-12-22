@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photographysites.com privacy policy that was archived on 2004-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040619180804id_/http%3A//photographysites.com/html/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photographysites.com privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222045552id_/http%3A//www.photographysites.com/html/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy
 
