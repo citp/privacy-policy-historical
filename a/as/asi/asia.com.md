@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asia.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617015102id_/http%3A//travel.asia.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asia.com privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222225531id_/http%3A//travel.asia.com/privacy.html) for the most accurate reproduction.*
 
 # Asia.com - Privacy Policy
 
