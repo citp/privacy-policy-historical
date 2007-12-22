@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whig.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623103734id_/http%3A//www.whig.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whig.com privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222235133id_/http%3A//www.whig.com/privacy_policy.php) for the most accurate reproduction.*
 
 # The Quincy Herald-Whig - Privacy Policy
 
@@ -6,7 +6,7 @@
 
 **Privacy Policy**
 
-Copyright © 2003 The Quincy Herald-Whig, LLC. All rights reserved.
+Copyright © 2007 The Quincy Herald-Whig, LLC. All rights reserved.
 
 Updated \- December 19, 2003
 
@@ -49,7 +49,7 @@ The Quincy Herald-Whig
 c/o General Manager  
 P.O. Box 909  
 Quincy, IL 62306  
-Email: [sruff@whig.com](mailto:sruff@whig.com)
+Email: [mwinters@whig.com](mailto:mwinters@whig.com)
 
   
 **Changes to Privacy Policy**  
