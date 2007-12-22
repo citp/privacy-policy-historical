@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the trendmicro.com privacy policy that was archived on 2007-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070331070745id_/http%3A//www.trendmicro.com/en/about/privacy/overview.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trendmicro.com privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223001355id_/http%3A//us.trendmicro.com/us/about/company/privacystatement) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy Statement - Trend Micro USA
+
+  * Tell a friend
+  * Print This Page
+
+
 
 This statement discloses the privacy practices for the entire website. 
 
