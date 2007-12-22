@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldwidebrands.com privacy policy that was archived on 2007-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070610081015id_/http%3A//worldwidebrands.com/wwb/priv_index.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldwidebrands.com privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222051844id_/http%3A//www.worldwidebrands.com/wwb/priv_index.asp) for the most accurate reproduction.*
 
 # Drop Shipping, Light Bulk, Liquidation and Import Wholesalers from OneSource!
 
