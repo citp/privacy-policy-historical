@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cardinalhealth.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213141820id_/http%3A//www.cardinal.com/general/privpolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cardinalhealth.com privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222053001id_/http%3A//www.cardinal.com/general/privpolicy.asp) for the most accurate reproduction.*
 
 # Cardinal Health - Privacy policy
 
