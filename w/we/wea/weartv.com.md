@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weartv.com privacy policy that was archived on 2007-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070428154247id_/http%3A//www.weartv.com/sections/station/2007_privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weartv.com privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223032009id_/http%3A//www.weartv.com/sections/station/2007_privacy_policy.shtml) for the most accurate reproduction.*
 
 # WEAR ABC 3
 
