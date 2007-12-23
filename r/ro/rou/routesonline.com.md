@@ -1,141 +1,91 @@
-> *The following text is extracted and transformed from the routesonline.com privacy policy that was archived on 2006-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061229090837id_/http%3A//www.routesonline.com/lang/english/privacy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the routesonline.com privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223070722id_/http%3A//www.routesonline.com/privacy) for the most accurate reproduction.*
 
-# Routes : Privacy
+# Privacy Policy - Routes Online
 
-This is a privacy policy for Routes. Our homepage on the Web is located at [_http://www.routesonline.com_](http://www.routesonline.com/). The full text of our privacy policy is available on the Web at [_http://www.routesonline.com_](http://www.routesonline.com/). This policy does not tell users where they can go to exercise their opt-in or opt-out options.
+1                     For the purpose of the Data Protection Act 1998 (the Act), the data controller is The Route Development Group Limited of113-115 Portland Street, Manchester, M1 6DW, United Kingdom. 
 
-We invite you to contact us if you have questions about this policy. You may contact us by mail at the following address:
+2                     Our nominated representative for the purpose of the Act is Rosalind Callander.
 
-Managing Director  
-Routes  
-113-115 Portland Street  
-Manchester  
-M1 6DW
+3                     _Information we may collect from you_
 
-You may contact us by e-mail at [_info@routesonline.com_](mailto:info@routesonline.com). You may call us at (0161) 234 2730.
+3.1              We may collect and process the following data about you:
 
-Copyright
+3.1.1                 Information that you provide by filling in forms on the Website. This includes information provided at the time of registering to use the Website, subscribing to one or more of our services, posting material or requesting further services.  We may also ask you for information, when you enter a competition or promotion, and when you report a problem with the Website.
 
-No part of this website may be reproduced or transmitted by any means or stored in any information storage and retrieval system without the organisers written permission.
+3.1.2                 If you contact us, we may keep a record of that correspondence.
 
-Copyright © Routes Ltd. 2006.
+3.1.3                 We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
 
-'Routes' is a registered trademark.
+3.1.4                 Details of your visits to the Website including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access. 
 
-Dispute Resolution & Privacy Seals  
-**   
-** We have no privacy seals or other assurance mechanisms.
+4                     _IP addresses and cookies_
 
-Data Collection
+4.1              We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers.  This is anonymous statistical data about our users' browsing actions and patterns, and does not identify any individual.
 
-P3P policies declare the data they collect in groups (also referred to as "statements"). This policy contains 3 data groups. The data practices of each group will be explained separately.
+4.2              For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer.  Cookies contain information that is transferred to your computer's hard drive.  They help us to improve the Website and to deliver a better and more personalised service. They enable us:
 
-Group "Basic Information"  
-   
-We collect the following information:
+4.2.1                 To estimate our audience size and usage pattern.
 
-  Click-stream data  
-  HTTP protocol elements  
-  Search terms
+4.2.2                 To store information about your preferences, and so allow us to customise the Website according to your individual interests.
 
-This data will be used for the following purposes:
+4.2.3                 To speed up your searches.
 
-  Research and development  
-  One-time tailoring
+4.2.4                 To recognise you when you return to the Website. 
 
-This data will be used by ourselves and our agents
+4.3              You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies.  However, if you select this setting you may be unable to access certain parts of the Website.  Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to the Website.
 
-**The following explanation is provided for why this data is collected: Data collected from all Web users: access logs, and search strings (if entered).**
+4.4              Please note that our advertisers may also use cookies, over which we have no control. 
 
-Group Cookies
+5                     _Where we store your personal data_
 
-At the user's option, we will collect the following data: 
+5.1              The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA").  It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers.  By submitting your personal data, you agree to this transfer, storing or processing.  We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy.
 
-This data will be used for the following purposes:
+5.2              All information you provide to us is stored on our secure servers. Any payment transactions will be encrypted using SSL technology. Where we have given you (or where you have chosen) a password which enables you to access certain parts of the Webite, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
 
-  Research and development  
-  One-time tailoring
+5.3              Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to the Website; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
 
-Our agents and we will use this data.
+6                     _Uses made of the information_
 
-**The following explanation is provided for why this data is collected: Cookies are used to track visitors to our site, so we can better understand what portions of our site best serve you.**
+6.1              We use information held about you in the following ways:
 
-Group Mailing Registration
+6.1.1                 To ensure that content from the Website is presented in the most effective manner for you and for your computer. 
 
- We collect the following information:
+6.1.2                 To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes. 
 
-  Physical contact information  
-  Online contact information  
-  Demographic data  
-  Preference data
+6.1.3                 To carry out our obligations arising from any contracts entered into between you and us.
 
-This data will be used for the following purposes:
+6.1.4                 To allow you to participate in interactive features of our service, when you choose to do so.
 
-  Completion and support of the current activity  
-  Contacting visitors for marketing of services or products
+6.1.5                 To notify you about changes to our service.
 
-This data will be used by ourselves and our agents. In addition, the following types of entities will receive this information:
+6.2              We may also use your data, or permit selected third parties to use your data, to provide you with information about goods and services which may be of interest to you and we or they may contact you about these by post or telephone. 
 
-  
-  Delivery services
+6.3              If you are an existing customer, we will only contact you by electronic means (including but not limited to email) with information about goods and services similar to those which were the subject of a previous sale to you. 
 
-**The following explanation is provided for why this data is collected: This information is collected so that we can send you valuable and useful information which is relevant to your needs and interests.**
+6.4              If you are a new customer, and where we permit selected third parties to use your data, we (or they) will contact you by electronic means (including but not limited to email) only if you have consented to this. 
 
-Cookies
+6.5              If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please tick the relevant box situated on the form or forms on which we collect your personal data.
 
-Cookies are a technology, which can be used to provide you with tailored information from a Web site. A cookie is an element of data that a Web site can send to your browser, which may then store it on your system. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it.
+6.6              We do not disclose information about identifiable individuals to our advertisers, but we may provide them with aggregate information about our users (for example, we may inform them that 500 men aged under 30 have clicked on their advertisement on any given day). We may also use such aggregate information to help advertisers reach the kind of audience they want to target (for example, women in based in the UK). We may make use of the personal data we have collected from you to enable us to comply with our advertisers' wishes by displaying their advertisement to that target audience.
 
-  Our site makes use of cookies. Cookies are used for the following purposes:
+7                     _Disclosure of your information_
 
-  
-  User targeting  
-  Research and development
+7.1              We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 736 of the UK Companies Act 1985.
 
-  
-The compact policy which corresponds to this policy is:  
-CP="CAO CURa ADMa DEVa TAIa CONa OUR DELa BUS IND PHY ONL UNI COM NAV INT DEM PRE"  
+7.2              We may disclose your personal information to third parties:
 
+7.2.1                 In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
 
-**The following explains the meaning of each field in the compact policy:  
-**  
-CP= This is the compact policy header; it indicates that what follows is a P3P compact policy  
-CAO Access is available to contact and other information  
-CURa The data is used for completion of the current activity  
-ADMa The data is used for site administration  
-DEVa The data is used for research and development  
-TAIa The data is used for tailoring the site  
-CONa The data is used for contacting the user  
-OUR The data is given to ourselves and our agents  
-DELa The data is given to delivery services  
-BUS Our business practices specify how long the data will be kept  
-IND The data will be kept indefinitely  
-PHY Physical contact information is collected  
-ONL Online contact information is collected  
-UNI Unique identifiers are collected  
-COM Computer information is collected  
-NAV Navigation and clickstream data is collected  
-INT Interactive data is collected  
-DEM Demographic and socioeconomic data is collected  
-PRE Preference information is collected
+7.2.2                 If and member(s) of our group or substantially all of the assets of a member of our group are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
 
-  
-The compact policy is sent by the Web server along with the cookies it describes. For more information, see the P3P deployment guide at [http://www.w3.org/TR/p3pdeployment](http://www.w3.org/TR/p3pdeployment).
+7.2.3                 If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [Terms of Use](https://web.archive.org/admin/pages/edit.asp?Action=Edit&ParentID=0&ID=104&ItemClass=SystemPage&frame=content&localeid=0#TermsOfUse) as set out in Part A and other agreements; or to protect the rights, property, or safety, our customers, ourselves or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
-Policy Evaluation
+8                     _Your rights_
 
-Microsoft Internet Explorer 6 will evaluate this policy's compact policy whenever it is used with a cookie. The actions IE will take depend on what privacy level the user has selected in their browser (Low, Medium, Medium High, or High; the default is Medium. In addition, IE will examine whether the cookie's policy is considered satisfactory or unsatisfactory, whether the cookie is a session cookie or a persistent cookie, and whether the cookie is used in a first-party or third party context. This section will attempt to evaluate this policy's compact policy against Microsoft's stated behaviour for IE6.  
+8.1              You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the form(s) we use to collect your data.  You can also exercise the right at any time by contacting us at [james.bland@routesonline.com](mailto:james.bland@routesonline.com)
 
+8.2              The Website may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates.  If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies.  Please check these policies before you submit any personal data to these websites.
 
-Note: this evaluation is currently experimental and should not be considered a substitute for testing with a real Web browser.  
-Unsatisfactory policy: this compact policy is considered unsatisfactory according to the rules defined by Internet Explorer 6.
+9                     _Access to information_
 
-A policy, which is considered unsatisfactory by Internet Explorer 6, contains certain categories of data, which are used or shared in a particular manner. This policy is placed in the unsatisfactory category, because the following categories of data are associated with this policy's cookies:
-
-  Physical contact information is collected  
-  Online contact information is collected
-
-In addition, the data is used in the following manner, marking the policy as unsatisfactory:
-
-  The data is used for contacting the user
-
-Note: allowing an opt-out will make this policy acceptable under the Low and Medium settings, and under Medium High for first-party cookie usage. At the High setting, and at the Medium High setting for third-party cookies, all of these data uses must be opt-in for the policy to be considered satisfactory
+The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request will be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
