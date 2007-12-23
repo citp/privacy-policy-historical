@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thetechguys.com privacy policy that was archived on 2007-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070506224538id_/http%3A//www.thetechguys.com/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetechguys.com privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223101104id_/http%3A//www.thetechguys.com/Assets/privacypolicy.html) for the most accurate reproduction.*
 
-# The TechGuys Privacy Policy
+# The TechGuys - Privacy Policy
 
 **Last updated: 15.06.2006**
 
