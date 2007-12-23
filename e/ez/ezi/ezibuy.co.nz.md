@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ezibuy.co.nz privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627132331id_/http%3A//www.ezibuy.co.nz/Information/5000) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezibuy.co.nz privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224002815id_/http%3A//www.ezibuy.co.nz/Information/5000) for the most accurate reproduction.*
 
 # Privacy Policy
 
