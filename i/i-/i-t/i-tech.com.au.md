@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the i-tech.com.au privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613180122id_/http%3A//www.i-tech.com.au/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the i-tech.com.au privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223092942id_/http%3A//www.i-tech.com.au/Privacy.aspx) for the most accurate reproduction.*
 
 # Return
 
@@ -22,7 +22,7 @@ Name, address and payment information, although credit card and PO numbers may b
 **E-mail a link to product information to a friend/colleague "Tell a friend"**   
 E-mail address of your friend/colleague and your e-mail address. 
 
-[**_Application of employment_**](https://web.archive.org/web/20070613180122id_/http%3A//www.i-tech.com.au/Jobs.aspx)   
+[**_Application of employment_**](https://web.archive.org/web/20071223092942id_/http%3A//www.i-tech.com.au/Jobs.aspx)   
 First name, last name, address, home phone, city, state, country, whether or not you have the legal right to work in the Australia, any criminal convictions, date available to start, current employment status, whether or not you have any computer skills/training as well as your certification that the information contained in the application is true and correct and that you have authorized the affidavit contained in the application. 
 
 **Is your information used for any other purpose?**   
@@ -49,40 +49,8 @@ We use cookies as a way to give you better service. They personalize your shoppi
 
 [ _Click here_](mailto:info@i-tech.com.au) to contact us. 
 
-|  |  | 
-
-| Shopping Cart  
----  
-  
-[ ](http://compatible.corsairmemory.com/partner/default.aspx?partnerid=53)
-
-[ ](http://www.i-tech.com.au/Flexirent.aspx)
-
-[](http://www.i-tech.com.au/AdslPeopleTelecom.aspx)  
-  
-| [Specials](http://www.i-tech.com.au/Special.aspx)  
----  
-| [ MIRCOSOFT SMALL BUSINESS SERVER 2000 W/ SP4 (5 Client) ](http://www.i-tech.com.au/products/2328_MIRCOSOFT_SMALL_BUSINESS_SERVER_2000.aspx)  
----  
-$1,599.00   
-Regular Price $1,659.00  
-Your save $60.00  
-[ ASUS CROSSHAIR AM2, NF590SLI, 2xPCIE, DDRII, SATAII, RAID, GbLAN, SND, ATX, M2-X-HAIR ](http://www.i-tech.com.au/products/11498_ASUS_CROSSHAIR_AM2__NF590SLI__2xPCIE.aspx)  
-$409.00   
-Regular Price $499.00  
-Your save $90.00  
-[ Seagate ST373207LW CHEETAH 10K.7/ 73GB/ U320/ 10KRPM/ 4.7MS/ 8M/ 2GBIT/ SEC/ 68PIN ](http://www.i-tech.com.au/products/1028_Seagate_ST373207LW_CHEETAH_10K_7__73GB.aspx)  
-$257.00   
-Regular Price $359.00  
-Your save $102.00  
-[ Apple 23" flat panel Cinema HD Display M9178X/ A ](http://www.i-tech.com.au/products/6383_Apple_23__flat_panel_Cinema_HD_Display.aspx)  
-$1,425.00   
-Regular Price $2,239.00  
-Your save $814.00  
-[ iRiver iFP-590T 256MB, FM, Voice Recording, MP3/ WMA/ ASF and Direct Encoding ](http://www.i-tech.com.au/products/9738_iRiver_iFP_590T_256MB__FM__Voice_Recording.aspx)  
-$159.00   
-Regular Price $199.00  
-Your save $40.00  
+|  |   
+---|---|---|---|---  
   
   
 ---  
