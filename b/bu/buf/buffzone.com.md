@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buffzone.com privacy policy that was archived on 2007-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070628220340id_/http%3A//www.buffzone.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buffzone.com privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223203657id_/http%3A//www.buffzone.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy & Agreement : News : Boulder Daily Camera
 
@@ -72,23 +72,28 @@ Use of this site signifies your agreement with the following terms of use. If yo
 
 ## TRADEMARKS, COPYRIGHTS & RESTRICTIONS
 
-All materials on this site, including, but not limited to, images, illustrations, audio clips, video clips (the "Materials") are protected by copyrights which are owned or licensed by the Company. DailyCamera.com, BroomfieldEnterprise.com, and Buffzone.com are trademarks of the Company. You may not reproduce, perform, create derivative works from, republish, upload, post, transmit, or distribute in any way whatsoever any Materials from www.courierpress.com or any other web site owned or operated by the Company without the prior written permission of the Company. However, you may download or make one copy of the Materials, and other downloadable items displayed on the site, for personal non-commercial home use only consistent with the purpose for which the Materials are made available by the Company, provided all copyright and other notices contained in the Materials are left intact. Any modification of the Materials, or any portion thereof, or use of the Materials for any other purpose constitutes an infringement of the Company’s copyrights and other proprietary rights. Use of these Materials on any other web site or other networked computer environment, whether by way of copying the Materials or by linking to them, is prohibited without prior written permission from the Company.
+All materials on this site, including, but not limited to, images, illustrations, audio clips, video clips (the "Materials") are protected by copyrights which are owned or licensed by the Company. DailyCamera.com, BroomfieldEnterprise.com, and Buffzone.com are trademarks of the Company. You may not reproduce, perform, create derivative works from, republish, upload, post, transmit, or distribute in any way whatsoever any Materials from www.dailycamera.com, www.buffzone.com or any other web site owned or operated by the Company without the prior written permission of the Company. However, you may download or make one copy of the Materials, and other downloadable items displayed on the site, for personal non-commercial home use only consistent with the purpose for which the Materials are made available by the Company, provided all copyright and other notices contained in the Materials are left intact. Any modification of the Materials, or any portion thereof, or use of the Materials for any other purpose constitutes an infringement of the Company’s copyrights and other proprietary rights. Use of these Materials on any other web site or other networked computer environment, whether by way of copying the Materials or by linking to them, is prohibited without prior written permission from the Company.
 
 ## SUBMISSIONS
 
 Copyright on materials contributed by **Prairie Mountain Publishing Co.** readers and/or members is held by the individual creators.
 
-All postings, messages, text, files, images, graphics, photos, audio clips, sounds, video or other materials (the "Content") posted on, transmitted through, or linked from the Site, are the sole responsibility of the person from whom such Content originated. You are entirely responsible for all Content that you post, email or otherwise make available through the Site. For all Content provided by you, you agree to indemnify Provider as provided below.
+All postings, messages, text, files, images, graphics, photos, audio clips, sounds, video or other materials (the "Content") posted on, transmitted through, or linked from the Site, are the sole responsibility of the person from whom such Content originated. You are entirely responsible for all Content that you post, e-mail or otherwise make available through the Site. For all Content provided by you, you agree to indemnify Provider as provided below.
 
 By uploading or otherwise posting any Content on the Site, you represent and warrant: (i) you own or otherwise have all necessary rights, including but not limited to copyrights, to the content you provide and the rights to use it as provided in this Terms of Service; (ii) all information you provide is true, accurate, current and complete, and does not violate these Terms of Service; and, (iii) the content will not cause injury to any person or entity.
 
 You agree not to upload, transmit, distribute or otherwise publish in these or any other Forums connected with the Company any Materials which are:
 
-libelous, defamatory, obscene, abusive, pornographic, threatening, or an invasion of privacy;   
+off topic, personal attacks, libelous, defamatory, obscene, abusive, pornographic, threatening, or an invasion of privacy;   
+an infringement of the intellectual property rights, including, but not limited to, copyrights and trademarks, of any person or entity;   
 illegal in any way or which advocate illegal activity;   
 an advertisement or solicitation of funds, goods, or services.
 
- **License**
+You agree not to impersonate anyone else or pass yourself off as someone else, including the Camera or public figures.
+
+The Site does not tolerate [sock puppeting](http://en.wikipedia.org/wiki/Sockpuppeting) \- controlling multiple accounts with intent to mislead.
+
+**License**
 
 For all such information and material, you grant **Prairie Mountain Publishing Co,** its affiliates and related entities, and its affiliated newspaper, a royalty-free, perpetual, irrevocable, non-exclusive right and license to use, copy, modify, display, archive, store, distribute, reproduce and create derivative works from such information, in any form, media, software or technology of any kind now existing or developed in the future.
 
