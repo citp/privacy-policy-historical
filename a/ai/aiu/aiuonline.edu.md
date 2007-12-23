@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aiuonline.edu privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624104000id_/http%3A//www.aiuonline.edu/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aiuonline.edu privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223141319id_/http%3A//www.aiuonline.edu/privacy.asp) for the most accurate reproduction.*
 
 # American InterContinental University Online
 
@@ -34,7 +34,7 @@ The Sites contain links to other web sites that are not owned or operated by Ame
 
 To remove or change your contact information in our database, or to not receive future mailings or other communications, as well as for all other inquiries, please contact us at any time using one of the options below: 
 
-**1\. Email the[webmaster](mailto:webmaster@careeredonline.com&subject=Important!%20Sent%20From%20http://www.aiuonline.edu/privacy.asp)**
+**1\. Email the[webmaster](mailto:webmaster@careeredonline.com&subject=Important!%20Sent%20From%20http://www.aiuonline.edu/schools/aiu/aiu_online/privacy.asp)**
 
 **2\. Contact us at**  
 American InterContinental University  
