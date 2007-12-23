@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oldhouseweb.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205222516id_/http%3A//www.oldhouseweb.com/stories/Detailed/997.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oldhouseweb.com privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223101545id_/http%3A//www.oldhouseweb.com/stories/Detailed/997.shtml) for the most accurate reproduction.*
 
 # Our privacy policy - Oldhouseweb.com
 
@@ -28,7 +28,7 @@ The information we gather on our site falls into two categories:
 
 
 
-Additionally, third-party providers featured on or linked to by our website \-- such as vendors of products and services offered through our site -- may gather the same kinds of information.
+Additionally, third-party providers featured on or linked to by our website -- such as vendors of products and services offered through our site -- may gather the same kinds of information.
 
 **How we use the information we collect**
 
@@ -57,7 +57,7 @@ If you have shared your name and postal mailing address with us -- but do not wi
 To do so: 
 
   * Send an e-mail to this address: [optout@oldhouseweb.com](mailto:optout@oldhouseweb.com?Subject=). Please include your name and complete mailing address so we can remove you from our databases; 
-  * Or send us a letter to this address: The Old House Web, 216 Brunswick Avenue, Gardiner, ME 04345. Please include your name and complete mailing address so we can remove you from our databases.
+  * Or send us a letter to this address: The Old House Web, 59 Damonte Ranch Pkwy Suite B232, Reno, NV 89521. Please include your name and complete mailing address so we can remove you from our databases.
 
 
 
@@ -69,4 +69,4 @@ The Internet is an evolving medium. If we need to change our Privacy Policy at s
 
 Your right to personal privacy is important to us. We will endeavor to respect it.
 
-**_ This File Updated: Nov. 30, 2003_**
+**_ This File Updated: Feb. 2, 2007_**
