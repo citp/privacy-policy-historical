@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the contactmusic.com privacy policy that was archived on 2007-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070616105308id_/http%3A//contactmusic.com/new/home.nsf/webpages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contactmusic.com privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223151555id_/http%3A//www.contactmusic.com/new/home.nsf/webpages/privacy) for the most accurate reproduction.*
 
 # privacy statement
 
