@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iloggo.com privacy policy that was archived on 2007-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070330065411id_/http%3A//www.iloggo.pl/displayPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iloggo.com privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223081518id_/http%3A//www.iloggo.pl/displayPrivacyPolicy) for the most accurate reproduction.*
 
 # iloggo
 
