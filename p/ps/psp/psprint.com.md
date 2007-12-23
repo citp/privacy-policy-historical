@@ -1,15 +1,14 @@
-> *The following text is extracted and transformed from the psprint.com privacy policy that was archived on 2007-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070206224105id_/http%3A//www.psprint.com/legal/Default.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psprint.com privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223083726id_/http%3A//www.psprint.com/legal/privacy.asp) for the most accurate reproduction.*
 
-# PsPrint Privacy Policy
+# Printing Services- Mailing, Die Cutting & Foil Stamping
 
-  
 | Privacy Policy |
 
-[PsPrint.com](http://www.psprint.com/index.asp) is committed to maintaining the confidentiality of our customers. We do not share, sell, or otherwise disclose information about our clients to any other party except as required to process and ship purchases. 
+[PsPrint.com](http://www.psprint.com/) is committed to maintaining the confidentiality of our customers. We do not share, sell, or otherwise disclose information about our clients to any other party except as required to process and ship purchases. 
 
 Information Collection
 
-PsPrint is the sole owner of the information collected on [http://www.psprint.com](https://web.archive.org/index.asp). PsPrint collects information from our users at several different points on our website. We use this information to improve the customer experience. 
+PsPrint is the sole owner of the information collected on [http://www.psprint.com](http://www.psprint.com/). PsPrint collects information from our users at several different points on our website. We use this information to improve the customer experience. 
 
 Registration
 
@@ -76,6 +75,3 @@ PsPrint.com
 2861 Mandela Parkway  
 Oakland, CA 94608  
 800.511.2009
-
-  
-
