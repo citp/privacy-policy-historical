@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wyoroad.info privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627182106id_/http%3A//attorneygeneral.state.wy.us/privac2.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wyoroad.info privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223180812id_/http%3A//attorneygeneral.state.wy.us/privac2.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -18,7 +18,7 @@ E-mail logs for incoming e-mail containing sender’s and receiver's identificat
 The state also employs security measures which, in the event of any attempt at compromising the state's web pages and its support systems, are capable of identifying the offending individual user and the user's internet service provider. All efforts at breaching the security of the state web pages and its support systems will be referred to the appropriate law enforcement agency for investigation and prosecution.   
 
 ** Attorney General's Office   
-123 Capitol   
+123 Capitol Building  
 200 W. 24th Street   
 Cheyenne, WY 82002   
 (307) 777-7841   
