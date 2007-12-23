@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deals.com privacy policy that was archived on 2007-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070204102641id_/http%3A//www.deals.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deals.com privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223123508id_/http%3A//www.deals.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Deals.com
 
