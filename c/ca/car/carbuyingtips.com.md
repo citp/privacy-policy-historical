@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carbuyingtips.com privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618042334id_/http%3A//www.carbuyingtips.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carbuyingtips.com privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223015431id_/http%3A//www.carbuyingtips.com/privacy.htm) for the most accurate reproduction.*
 
 # CarBuyingTips.com new car buying guide, avoiding dealer scams, used car buying and selling
 
@@ -15,7 +15,7 @@ We collect aggregate information on what pages consumers access or visit, inform
 
 The information we collect is used for internal review and is then discarded, used to improve the content of our Web page, and not shared with other organizations for commercial purposes.
 
-With respect to cookies: We do set cookies but they are only used to remember the state of your session.  No information gathered from cookies is shared with any third party and no personally identifiable information is gathered using cookies.
+With respect to cookies: We do set cookies but they are only used to remember the state of your session. No information gathered from cookies is shared with any third party and no personally identifiable information is gathered using cookies.
 
 With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. Each advertiser has their own privacy privacy that can be viewed on their web site.
 
@@ -23,4 +23,4 @@ If you feel that this site is not following its stated information policy, you m
 
 The information on this site is Copyright © 1996-2007 ConsumerNet, Inc. This site is solely for your personal use. You may link to these pages or _print them out for your own personal use_ , but no parts of these pages can be reproduced, sold, or transmitted in any form without explicit written permission. By copying or paraphrasing the intellectual property on this site, you're automatically signing a binding contract and agreeing to pay a fee of $10,000 per instance per week payable immediately.
 
-.
+. 
