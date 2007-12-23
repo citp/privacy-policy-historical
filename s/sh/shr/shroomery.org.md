@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the shroomery.org privacy policy that was archived on 2007-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070531213422id_/http%3A//www.shroomery.org/forums/viewprivacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shroomery.org privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223113425id_/http%3A//www.shroomery.org/forums/viewprivacy.php) for the most accurate reproduction.*
 
 # Privacy statement - Shroomery Message Board
 
-Due to the subject matter of The Shroomery, many visitors are concerned about maintaining their privacy and anonymity while browsing the site. This document explains when and why we might store information about you without your explicit consent, and how you can prevent such information from being recorded. You may wish to visit our [Security & Safety](http://shroomery.org/forums/postlist.php?Cat=&Board=safety) forum on our [Message Boards](http://www.shroomery.org/forums) for further information and assistance. _IP Logging:_  
+Due to the subject matter of The Shroomery, many visitors are concerned about maintaining their privacy and anonymity while browsing the site. This document explains when and why we might store information about you without your explicit consent, and how you can prevent such information from being recorded. You may wish to visit our [Security & Safety](http://shroomery.org/forums/postlist.php/Board/46) forum on our [Message Boards](http://www.shroomery.org/forums/ubbthreads.php) for further information and assistance. _IP Logging:_  
 Your IP address is like your telephone number on the internet. It may change from time to time, but while you have it, it's unique to your computer. IP addresses can be used to determine the identity of your ISP (internet service provider), and to discover their general geographic location. Your ISP keeps log files which can be used to match your IP address with your account information.
 
 Like most websites, The Shroomery maintains an access log which includes IP address information. This is done for our security and yours. These logs are deleted from the server periodically, but we make no specific guarantees about their longevity. We reserve the right to log IPs at any time. To prevent your IP address from being logged you must access the site through a proxy server. The site's functionality may be impaired when using a proxy. 
@@ -18,8 +18,9 @@ The Shroomery sets many cookies to enhance the browsing experience. They are use
 _Usage:_  
 The Shroomery will never sell, give, share or transfer any information we collect about our users, except as outlined below: 
 
-  * In the event that the Shroomery is served with a legal subpoena, we will provide the information as required by law. 
+  * In the event that the Shroomery is served with a legal subpoena, we may provide the information as required by law. 
   * If a user is engaged in activities which may cause serious harm to our servers or community, we reserve the right to file a report with the user's ISP and any applicable authorities.
+  * If we have reason to believe that a user may be in imminent danger of harming him or herself, or others, we reserve the right to share any identifying information with police, emergency services, and anyone else in a position to render assistance.
   * We may provide aggregate user information to third parties such as advertisers, but no personally identifiable information will be made available.
 
 
@@ -28,4 +29,4 @@ The Shroomery is very concerned with maintaining our users' privacy and we are c
 
 * * *
 
-Last Updated: October 29th, 2006 by Ythan
+Last Updated: July 20th, 2007 by Ythan
