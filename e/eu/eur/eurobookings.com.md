@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eurobookings.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617175431id_/http%3A//www.eurobookings.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurobookings.com privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223071619id_/http%3A//www.eurobookings.com/privacy.html) for the most accurate reproduction.*
 
 # Europe Hotel Reservations | Discount European Hotels and Accommodations
 
