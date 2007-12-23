@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fantomaster.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630010312id_/http%3A//fantomaster.com/index2.html%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantomaster.com privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223200924id_/http%3A//fantomaster.com/index2.html%23privacy) for the most accurate reproduction.*
 
-# About fantomaster.com: who we are - our privacy policy - 2007-06-29
+# About fantomaster.com: who we are - our privacy policy - 2007-12-23
 
 ## Our Mission
 
@@ -43,23 +43,28 @@ fantomaster.com GmbH
     Incorporation No.:
     H.R.E. 64.659 (Eupen)
     EU VAT ID/T.V.A.: BE 463.684.942
+     
 Marketing & Sales & Support Dept.
+CEO & CMO
+Ralph Tegtmeier M.A.
     Phone: +32-80-549.247
     Fax: +32-80-549.248
-    U.S. #: (650) 557-2088 – New!
-    UK  #:  020-7870-7863 – New!
+    U.S. #: (650) 557-2088
+    UK   #:  020-3239-8522 – New!
+    ANZ #:  (02) 8003 4253
     Skype: [**fantomaster_ralph**](callto:fantomaster_ralph)
-CEO & CMO
-    Ralph Tegtmeier M.A.
     E-Mail: 
+     
+     
 Technology & Development Dept.
-    Phone: +32-80-447.395
-    Fax: +32-80-447.394
-    U.S. #: (650) 557-2104 – New!
-    UK  #:  020-7870-2572 – New!
-    Skype: [ **fantomaster_dirk**](callto:fantomaster_dirk)
 CEO & CTO
-    Dr. rer. nat. Dirk Brockhausen
+Dr. rer. nat. Dirk Brockhausen
+    Phone: +49-6557-901.857
+    Fax: +49-6557-901.858
+    U.S. #: (650) 557-2104
+    UK   #:  020-3239-8622 – New!
+    ANZ #:  (02) 8003 4095
+    Skype: [ **fantomaster_dirk**](callto:fantomaster_dirk)
     E-Mail: 
 
 The web site domain and the related _fantomas phantomLine™_ software and services are the protected trade marks and intellectual property of _fantomaster.com_. Our staff consists of highly experienced IT technicians, programmers, support and marketing experts well conversant with the Internet in general and the WWW in particular.
@@ -115,14 +120,24 @@ fantomaster.com GmbH
     Phone: +32-80-549.247
     Fax: +32-80-548.731
 
+U.S. and Canadian clients
+
 (When calling from the USA or Canada, please substitute _“011”_ for _“+”_ in the numbers above!)  
-Or, call our new U. S. numbers directly:  
+Or, call our U.S. numbers directly:  
 – (650) 557-2088 (Sales + Marketing)  
 – (650) 557-2104 (Tech Support + Development)
 
-You can also call us directly on our new UK numbers:  
-– 020-7870-7863 (Sales + Marketing)  
-– 020-7870-2572 (Tech Support + Development)
+UK clients
+
+Clients in the UK can also call us directly on our new UK numbers:  
+– 020-3239-8522 (Sales + Marketing)  
+– 020-3239-8622 (Tech Support + Development)
+
+Australian and New Zealander clients
+
+Clients in Australia and New Zealand can also call us directly on our ANZ numbers:  
+– (02) 8003 4253 (Sales + Marketing)  
+– (02) 8003 4095 (Tech Support + Development)
 
 ## Office Hours
 
@@ -142,12 +157,14 @@ Script courtesy of <http://willmaster.com/>
 
 The Spider Award
 
-Ranked #1 in Category
+Ranked #1 in Category   
+“Top 10 Position”  
+[June 2000]
 
-This award is issued by the (immensely recommendable) Spider-Food site over at: <http://spider-food.net/>
+This award was issued by the (immensely recommendable) Spider-Food site over at: <http://spider-food.net/>
 
 Note that this is none of the usual convenience awards so abundant on the web.
 
-To qualify, you must prove a Top10 ranking with AltaVista — no tricks like cloaking, doorways, etc., allowed, either!
+To qualify, you had to prove a Top10 ranking with AltaVista — no tricks like cloaking, doorways, etc., allowed, either!
 
-There's an additional bonus for a #1 ranking (which we received as well for the keyword phrase — did you guess? — “cloaking technology”)
+There was an additional bonus for a #1 ranking (which we received as well for the keyword phrase — did you guess? — “cloaking technology”)
