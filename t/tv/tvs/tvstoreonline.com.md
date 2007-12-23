@@ -1,13 +1,7 @@
-> *The following text is extracted and transformed from the tvstoreonline.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629042803id_/http%3A//tvstoreonline.com/about.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvstoreonline.com privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223131449id_/http%3A//www.tvstoreonline.com/about.htm) for the most accurate reproduction.*
 
 # About Our Company
 
-  
-| 
-
-|  |  **Our Company... Our Mission and Goals**  
----  
-  
 **We Believe in Quality!**
 
 We believe in our quality products. We are adamant about making sure that whatever we offer for sale is the finest licensed merchandise available on the market.
@@ -40,17 +34,4 @@ We are partnered with Yahoo! merchant solutions to provide our customers with sa
 
 Your credit card number is secure with us. We use your credit card to process your order and only for that purpose. Our site supports secure transmissions any time you send us sensitive data -- such as your credit card number or information -- and we use internal security measures to insure authorized access only to personal information. 
 
-What about the other data that you give to us? It goes nowhere else. We don't give, sell, or lend your personal information to any other person, business, or website. Not for any reason.  
-  
-| 
-
-Address:
-
-|  |   
----|---|---  
-TVStoreOnline.com  
-5755 W Maple Rd  
-Suite 103  
-West Bloomfield, MI 48322  
-Tel: 248-855-1495  
-Fax: 866-898-3369 |    |   
+What about the other data that you give to us? It goes nowhere else. We don't give, sell, or lend your personal information to any other person, business, or website. Not for any reason.
