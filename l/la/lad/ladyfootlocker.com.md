@@ -1,25 +1,25 @@
-> *The following text is extracted and transformed from the ladyfootlocker.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623042644id_/http%3A//www.ladyfootlocker.com/content/custserv/supercat--home/help--privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ladyfootlocker.com privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223065000id_/http%3A//www.ladyfootlocker.com/content/custserv/supercat--home/help--privacyPolicy) for the most accurate reproduction.*
 
-# Lady Foot Locker.
+# Lady Foot Locker
 
 |  **Help Index**   
   
 ---  
-|  [My Account](http://www.ladyfootlocker.com/content/custserv.cfm?TID=5555-45220723262345230652811-0&help=account)  
+|  [My Account](http://www.ladyfootlocker.com/content/custserv.cfm?TID=5555-48230700482348001240408-0&help=account)  
   
-|  [Order Information](http://www.ladyfootlocker.com/content/custserv.cfm?TID=5555-45220723262345230652811-0&help=orderInfo)  
+|  [Order Information](http://www.ladyfootlocker.com/content/custserv.cfm?TID=5555-48230700482348001240408-0&help=orderInfo)  
   
-|  [Shipping Information](http://www.ladyfootlocker.com/content/custserv.cfm?TID=5555-45220723262345230652811-0&help=shipInfo)  
+|  [Shipping Information](http://www.ladyfootlocker.com/content/custserv.cfm?TID=5555-48230700482348001240408-0&help=shipInfo)  
   
-|  [Returns and Exchanges](http://www.ladyfootlocker.com/content/custserv.cfm?TID=5555-45220723262345230652811-0&help=returnsExchanges)  
+|  [Returns and Exchanges](http://www.ladyfootlocker.com/content/custserv.cfm?TID=5555-48230700482348001240408-0&help=returnsExchanges)  
   
-|  [Gift Certificates and GiftCards](http://www.ladyfootlocker.com/content/custserv.cfm?TID=5555-45220723262345230652811-0&help=giftInfo)  
+|  [Gift Certificates and GiftCards](http://www.ladyfootlocker.com/content/custserv.cfm?TID=5555-48230700482348001240408-0&help=giftInfo)  
   
-|  [Other Services](http://www.ladyfootlocker.com/content/custserv.cfm?TID=5555-45220723262345230652811-0&help=otherServices)  
+|  [Other Services](http://www.ladyfootlocker.com/content/custserv.cfm?TID=5555-48230700482348001240408-0&help=otherServices)  
   
-|  [General Sizing Information](http://www.ladyfootlocker.com/content/custserv.cfm?TID=5555-45220723262345230652811-0&help=generalSizing)  
+|  [General Sizing Information](http://www.ladyfootlocker.com/content/custserv.cfm?TID=5555-48230700482348001240408-0&help=generalSizing)  
   
-|  [Sport-Specific Sizing Help, Tips & Information](http://www.ladyfootlocker.com/content/custserv.cfm?TID=5555-45220723262345230652811-0&help=sportSpecificSizing)  
+|  [Sport-Specific Sizing Help, Tips & Information](http://www.ladyfootlocker.com/content/custserv.cfm?TID=5555-48230700482348001240408-0&help=sportSpecificSizing)  
   
 |   
 ---  
@@ -40,7 +40,7 @@ Lady Foot Locker believes in keeping your confidential information confidential.
 [Cookies](https://web.archive.org/content/custserv/supercat--home/help--privacyPolicy/#Cookies) |    
    
 Registration  
-We encourage you to register when shopping at our website, however it is not required. Our [registration form](https://account.ladyfootlocker.com/LadyFootLocker/accountNewAction.do?TID=5555-45220723262345230652811-0) requires users to give us contact information (such as name, age range, mailing address, daytime telephone number, email address and password). You must be 13 years of age or older to register. Registration helps us to provide you with a quick and simple checkout experience. The customer contact information you supply on the registration form will be used to contact you concerning the status of an order or to answer your questions. In addition, unless you choose to opt-out, it will be used to send you email updates about upcoming sales, contests, promotions and product information. _You acknowledge and agree that you are responsible for maintaining the confidentiality of your registration information and password._ If you would like, you can also fill out a customer profile. While it is not required, information obtained from the customer profile questions helps us to learn more about our customers and is used to improve our customers' shopping experience with us.  
+We encourage you to register when shopping at our website, however it is not required. Our [registration form](https://account.ladyfootlocker.com/LadyFootLocker/accountNewAction.do?TID=5555-48230700482348001240408-0) requires users to give us contact information (such as name, age range, mailing address, daytime telephone number, email address and password). You must be 13 years of age or older to register. Registration helps us to provide you with a quick and simple checkout experience. The customer contact information you supply on the registration form will be used to contact you concerning the status of an order or to answer your questions. In addition, unless you choose to opt-out, it will be used to send you email updates about upcoming sales, contests, promotions and product information. _You acknowledge and agree that you are responsible for maintaining the confidentiality of your registration information and password._ If you would like, you can also fill out a customer profile. While it is not required, information obtained from the customer profile questions helps us to learn more about our customers and is used to improve our customers' shopping experience with us.  
    
 Order Information  
 Lady Foot Locker does not sell products for purchase by children. We sell children's products for purchase by adults. Customers may use an order form to purchase products. When you place an order, we collect contact information, such as your shipping and email addresses, and financial information, such as your account or credit card numbers. Contact information from the order form is used to send orders and information to our customers and to get in touch with them when necessary. Financial information is used to bill the customer for products. You also have the option of ordering products over the telephone and you may choose to pay by check, credit card or money order.  
@@ -60,7 +60,7 @@ We do not sell any information about our users on the individual customer level.
 As with any business, it is possible that as our business develops, we might sell or buy online stores or other assets. In such transactions, information about customers often is among the transferred assets. Accordingly, in the unlikely event that our company or substantially all of our assets are acquired by a third party, such information may be one of the transferred assets.  
    
 Updating of Information  
-In order to change or modify information previously provided by you, please choose "[My Account](https://account.ladyfootlocker.com/LadyFootLocker/accountSummaryAction.do?TID=5555-45220723262345230652811-0)" and update your information using the options on this page.  
+In order to change or modify information previously provided by you, please choose "[My Account](https://account.ladyfootlocker.com/LadyFootLocker/accountSummaryAction.do?TID=5555-48230700482348001240408-0)" and update your information using the options on this page.  
    
 Changes to Our Privacy Policy  
 We may amend this Privacy Policy at any time. If we make any material changes in the way we collect, use, and/or share your personal information, we will notify you by sending you an email at the last email address that you provided us, and/or by prominently posting notice of the changes on the website covered by this Privacy Policy. Any material changes to this Privacy Policy will be effective upon the earlier of thirty (30) calendar days following our transmittal of an email notice to you or thirty (30) calendar days following our posting of the notice of changes on the website covered by the Privacy Policy.  
