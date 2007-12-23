@@ -1,0 +1,965 @@
+<!--The following is the downloaded HTML source of the toysrus.ca privacy policy that was archived on 2007-12-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071223063210id_/http%3A//www.toysrus.ca/helpdesk%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dbotnav_privacy_txt) for the most accurate reproduction.-->
+
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+
+
+<title>Toys"R"Us/Babies"R"Us : Help Desk</title>
+<script language="Javascript">
+function trimString (str) {
+  while (str.charAt(0) == ' ')
+    str = str.substring(1);
+  while (str.charAt(str.length - 1) == ' ')
+    str = str.substring(0, str.length - 1);
+  return str;
+}
+
+function emailCheck(type) // not sure if anybody uses this, but just in case i'm leaving it functional
+{
+ var email = trimString(document.emailForm.emailAddress.value);
+
+    if (!validEmail(email))
+	{
+        alert('Please enter a valid e-mail address.');
+        return false;
+    }
+	if(type == 1)
+	{
+        document.emailForm.submit();
+	}
+}
+
+function validEmail(email)
+{
+    var vAtSym    = email.indexOf('@')
+    var vPeriod   = email.lastIndexOf('.')
+    var vSpace    = email.indexOf(' ')
+    var vLength   = email.length - 1   // Array is from 0 to length-1
+
+    if (vAtSym < 1 ||                     // '@' cannot be in first position
+    	vPeriod <= vAtSym + 1 ||          // Must be atleast one valid char btwn '@' and '.'
+    	vPeriod == vLength  ||            // Must be atleast one valid char after '.'
+    	vSpace  != -1)                    // No empty spaces permitted
+	{
+        return false;
+    }
+	return true;
+}
+
+function showCustomPopUp(thisUrl,thisName,theseParams)
+{
+	remote = open(thisUrl, thisName, theseParams);
+}
+
+//	verisign POP-UP WINDOW
+function popUp(url)
+{
+	sealWin=window.open(url,"win",'toolbar=0,location=0,directories=0,status=1,menubar=1,scrollbars=1,resizable=1,width=500,height=450');
+	self.name = "mainWin";
+}
+
+function jump(url)
+{
+	if (url != "" && url != null)
+	{
+		self.location.href = url;
+	}
+}
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="/include/storecss.jsp">
+<link rel="stylesheet" type="text/css" href="/include/productcss.jsp">
+<link rel="stylesheet" type="text/css" href="/include/registrycss.jsp">
+<link rel="stylesheet" type="text/css" href="/include/parametriccss.jsp">
+<link rel="stylesheet" type="text/css" href="/include/WIZ_TRUS_LightBoxcss.jsp">
+
+
+<style>
+	.breadcrumb {size: 11px; color:#40557E;}
+</style>
+
+<script language="JavaScript">
+function newWindow(url) 
+{
+	theWindow = window.open(url,
+	'mapWinFreeShip', 'width=350,height=250,scrollbars=yes,resizable=no')
+	theWindow.focus();
+}
+</script>
+</head>
+<body>
+<div id="frame">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- You are running on secprd2_ws_35_4 -->
+
+<script type="text/javascript">
+	function HiliteGif(name, over)
+	{
+		if (window.document.images)
+		{
+			if (over) {
+				window.document.images[name].src = "http://TRUSCA.imageg.net/images/en_CA/" + name + "_on.gif";
+			}
+			else {
+				window.document.images[name].src = "http://TRUSCA.imageg.net/images/en_CA/" + name + ".gif";
+			}
+		}
+	}
+
+	function removeUnwantedCharacters(searchField)
+	{
+		var invalidchars = Array("~", "#", "}", "{", "'", "!", "@", "$", "%", "^", "&", "*", "(", ")", "-", "_", "+", "=", "{", "}", "[", "]", "\\", "|", ":", ";", "\"", "'", ",", "<", ".", ",", ">", "?", "/");
+		var searchterm = Trim(searchField.value);
+		if (searchterm.length == 1)
+		{
+			for (var i = 0; i < invalidchars.length; i++)
+			{
+				if (searchterm == invalidchars[i])
+				{
+					searchField.value = "";
+					return;
+				}
+			}
+		}
+		searchField.value = searchField.value.replace(" - ", " ");
+	}
+	function verifySearchTerm(searchFieldId)
+	{
+		var searchField = eval("document.search."+searchFieldId);
+		removeUnwantedCharacters(searchField);
+		if (searchField == null)
+		{
+			alert("You must enter an item or topic in the search field.");
+			return false;
+		} else if (Trim(searchField.value).length == 0)
+		{
+			alert("You must enter an item or topic in the search field.");
+			return false;
+		}
+		return true;
+	}
+
+	function Trim(str)
+	{
+		while (str.charAt(0) == (" "))
+		{
+			str = str.substring(1);
+		}
+		while (str.charAt(str.length - 1) == " ")
+		{
+			str = str.substring(0, str.length - 1);
+		}
+		return str;
+	}
+
+        var navpath = 'http://TRUSCA.imageg.net/images/en_CA/';
+</script>
+<script type="text/javascript" src="/include/navrollz.js"></script>
+
+
+	
+	
+		<div style="display:none">Thank you for visiting Toys R Us. If you need assistance with shopping on our site, please call us at 1-800-869-7787 and a customer care representative will be happy to assist you. Please inform the Customer Service representative that you require assistance.
+		</div>
+	
+
+<div id="header">
+	<div id="header_float">
+		<div id="header_utillinks">
+			<a href="#" onclick="javascript:toggleVisibility('emailDivOn','visible','visible','visible');javascript:toggleiFrame('emailFrame','1000','1000','1000');">Email Signup</a> |
+			<a href="/coreg/index.jsp?step=register&amp;clickid=topnav_myacct_txt">Sign In</a> |
+            <a href="/cart/index.jsp?wlName=wishlist&amp;clickid=topnav_wish_txt">Wishlist</a> |
+            <a href="/cart/index.jsp?clickid=topnav_cart_txt"><img src="http://TRUSCA.imageg.net/images/en_CA/header_cart.gif" style="vertical-align:top;" width="17" height="14" border="0"><strong>Shopping Cart</strong></a>: 0 items |
+			<a href="/helpdesk/index.jsp?clickid=topnav_help_txt">Help</a>
+		</div>
+		<!--div id="header_search" style="float:right;" >
+			<div style="margin: 0px;">
+				<span style='float: left; vertical-align: top;margin-left:0px;margin-top:0px;margin-top:"5px";'>Search: </span>
+				<span style='float: right; vertical-align: top;margin-top:0px;margin-top:"4px";'>
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		<div class="localeHeaderLink" style="color:#5E4C8A; text-transform:uppercase; ">
+		<a href="javascript:doToggleLocale('fr_CA');">français</a>
+		</div>
+		
+        	 
+ 		       
+            
+            
+        
+        <script type="text/javascript">	locale_code = 'fr_CA';	</script>
+		
+	
+	<script type="text/javascript">
+		function doToggleLocale(locale)
+		{
+			var formObj = document.getElementById("toggleLocaleForm");
+			if (formObj)
+			{
+				var localeObj = document.getElementById("localeToggleTo");
+				localeObj.value = locale;
+				formObj.submit();
+			}
+		}
+	</script>
+
+	
+	<form id="toggleLocaleForm" action="" method="GET" style="margin:0px;">
+		
+			
+				
+                    
+                        
+                        
+                        
+    						<input type="hidden" name="display" value="safety"/>
+                        
+					                    
+				
+			
+		
+			
+				
+                    
+                        
+                        
+                        
+    						<input type="hidden" name="subdisplay" value="privacy"/>
+                        
+					                    
+				
+			
+		
+			
+				
+                    
+                        
+                        
+                        
+    						<input type="hidden" name="clickid" value="botnav_privacy_txt"/>
+                        
+					                    
+				
+			
+		
+		<input type="hidden" id="localeToggleTo" name="locale" value=""/>
+	</form>
+
+
+				</span>
+			</div>
+		</div-->
+	</div>
+	<div id="header_tabs">
+		
+			
+			
+				<img src="http://TRUSCA.imageg.net/images/en_CA/header_tabs_tru.gif" usemap="#tabs_tru" width="409" height="75" name="header_tabs_tru" border="0">
+				<map name="tabs_tru">
+					<area shape="poly" coords="2,63,260,63,236,0,28,0" href="/home/index.jsp?categoryId=2567269">
+					<area shape="poly" coords="253,42,262,25,390,25,404,64,261,64" href="/home/index.jsp?categoryId=2567270" onmouseout="HiliteGif('header_tabs_tru',false);" onmouseover="HiliteGif('header_tabs_tru',true);">
+				</map>
+			
+		
+	</div>
+    <div id="header_search" style="float:right;margin-top:-40px;margin-top:&quot;-50px&quot;;">
+    	<span style="float: left; margin-left:0px;">Search: </span>
+       	<span style="float: right;">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		<div class="localeHeaderLink" style="color:#5E4C8A; text-transform:uppercase; ">
+		<a href="javascript:doToggleLocale('fr_CA');">français</a>
+		</div>
+		
+        	 
+ 		       
+            
+            
+        
+        <script type="text/javascript">	locale_code = 'fr_CA';	</script>
+		
+	
+	<script type="text/javascript">
+		function doToggleLocale(locale)
+		{
+			var formObj = document.getElementById("toggleLocaleForm");
+			if (formObj)
+			{
+				var localeObj = document.getElementById("localeToggleTo");
+				localeObj.value = locale;
+				formObj.submit();
+			}
+		}
+	</script>
+
+	
+	<form id="toggleLocaleForm" action="" method="GET" style="margin:0px;">
+		
+			
+				
+                    
+                        
+                        
+                        
+    						<input type="hidden" name="display" value="safety">
+                        
+					                    
+				
+			
+		
+			
+				
+                    
+                        
+                        
+                        
+    						<input type="hidden" name="subdisplay" value="privacy">
+                        
+					                    
+				
+			
+		
+			
+				
+                    
+                        
+                        
+                        
+    						<input type="hidden" name="clickid" value="botnav_privacy_txt">
+                        
+					                    
+				
+			
+		
+		<input type="hidden" id="localeToggleTo" name="locale" value="">
+	</form>
+
+</span>
+    </div>
+    <br clear="all">
+    <div id="searchBox" name="searchBox" style="float:right;margin-top:-3px;margin-top:&quot;-15px&quot;;">
+        <form action="/search/index.jsp" method="get" name="search" style="margin:0px;">
+            <div style="float: left; vertical-align:top; margin-right: 4px;">
+                <select style="font-size:10px;width:128px;width:&quot;124px&quot;;" name="f">
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+		<option value="Taxonomy/TRUSCA/2510384" selected="selected">All Products</option>
+		<option value="Taxonomy/TRUSCA/2567269">Toys &amp; Games</option>
+		<option value="PAD/Imaginarium/Yes">Learning Toys</option>
+		<option value="Taxonomy/TRUSCA/2567324">Video Games</option>
+		<option value="Taxonomy/TRUSCA/2567270">Baby Products</option>
+	
+
+
+                </select>
+            </div>
+            <div style="float: left;vertical-align:top; margin-right: 4px;" onclick="">
+                <input type="text" name="kw" id="kw" value="" style="font-size:10px;width:115px;" onclick="">
+            </div>
+            <div style="float: left; vertical-align:top;">
+                <input type="image" src="http://TRUSCA.imageg.net/images/en_CA/header_search.gif" style="vertical-align:top;" border="0" onclick="return verifySearchTerm(&quot;kw&quot;);">
+            </div>
+        </form>
+    </div>
+</div>
+
+
+	
+	
+	    <div id="subheader" style="background:url(http://TRUSCA.imageg.net/images/en_CA/subnav_bg_tru.gif) no-repeat;">		
+	
+
+	<div id="subheader_nav">
+	
+		
+
+		
+
+			<a href="/shop/index.jsp?categoryId=2567311" onmouseover="imgOn('truimage1')" onmouseout="imgOff('truimage1')">
+				<img name="truimage1" src="http://TRUSCA.imageg.net/images/en_CA/trunav_learning_off.gif" border="0">
+			</a>
+
+			<img src="http://TRUSCA.imageg.net/images/en_CA/trunav_div.gif" width="8" height="12" border="0">
+			<a href="/category/index.jsp?categoryId=2582828&amp;cp=2582828" onmouseover="imgOn('truimage2')" onmouseout="imgOff('truimage2')">
+				<img name="truimage2" src="http://TRUSCA.imageg.net/images/en_CA/trunav_games_off.gif" border="0">
+			</a>
+
+			<img src="http://TRUSCA.imageg.net/images/en_CA/trunav_div.gif" width="8" height="12" border="0">
+			<a href="/category/index.jsp?categoryId=2567325" onmouseover="imgOn('truimage3')" onmouseout="imgOff('truimage3')">
+				<img name="truimage3" src="http://TRUSCA.imageg.net/images/en_CA/trunav_electronics_off.gif" border="0">
+			</a>
+
+			<img src="http://TRUSCA.imageg.net/images/en_CA/trunav_div.gif" width="8" height="12" border="0">
+			<a href="/shop/index.jsp?categoryId=2567324&amp;cp=2567324" onmouseover="imgOn('truimage4')" onmouseout="imgOff('truimage4')">
+				<img name="truimage4" src="http://TRUSCA.imageg.net/images/en_CA/trunav_video_off.gif" border="0">
+			</a>
+
+			<img src="http://TRUSCA.imageg.net/images/en_CA/trunav_div.gif" width="8" height="12" border="0">
+			<a href="/family/index.jsp?categoryId=2585798" onmouseover="imgOn('truimage5')" onmouseout="imgOff('truimage5')">
+				<img name="truimage5" src="http://TRUSCA.imageg.net/images/en_CA/trunav_clearance_off.gif" border="0">
+			</a>
+
+			<img src="http://TRUSCA.imageg.net/images/en_CA/trunav_div.gif" width="8" height="12" border="0">
+			<a href="/registry/index.jsp" onmouseover="imgOn('truimage6')" onmouseout="imgOff('truimage6')">
+				<img name="truimage6" src="http://TRUSCA.imageg.net/images/en_CA/trunav_baby_off.gif" border="0">
+			</a>
+		
+	
+	</div>
+</div>
+
+<div style="display:none;">
+
+</div>
+
+<div id="emailCont">
+	<div id="emailDivOn">
+		<a href="javascript:toggleVisibility('emailDivOn','hidden','hidden','hidden');" onclick="toggleiFrame('emailFrame','-100','-100','-100');">
+			<img src="http://TRUSCA.imageg.net/images/en_CA/header_email_close.gif" width="13" height="13" style="margin:6px 6px 0 0;" align="right" border="0"></a><br>
+		<iframe style="z-index:100;" id="emailFrame" name="emailFrame" src="/include/entry.jsp" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" width="220" height="380"></iframe>
+	</div>
+</div>
+<div id="emailOASCont">
+	<div id="emailDivOASOn">
+		<a href="javascript:toggleVisibility('emailDivOASOn','hidden','hidden','hidden');" onclick="toggleiFrame('emailOASFrame','-100','-100','-100');">
+			<img src="http://TRUSCA.imageg.net/images/en_CA/header_email_close.gif" width="13" height="13" style="margin:6px 6px 0 0;" align="right" border="0"></a><br>
+		<iframe style="z-index:100;width:220px;height:370px;height:&quot;380px&quot;;" id="emailOASFrame" name="emailOASFrame" src="/include/entry.jsp" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"></iframe>
+	</div>
+</div>
+
+	
+		<div id="oas_top1"><a href="http://www.toysrus.ca/category/index.jsp?categoryId=2978461"><img src="http://oas.imageg.net/O/a/Creatives/TRUCA_Stripe/Stripe_boxingweekspecial_eng.gif" border="0"></a></div>
+	
+	
+
+
+
+	<div id="hd_mainblock">
+		
+			
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="hd_hdr"><img src="http://TRUSCA.imageg.net/images/en_CA/hd_hdr2.gif" alt="Online Help" border="0" title="Online Help"></div>
+<div id="crumbs" style="margin:0pt 6px 0px 12px;margin:&quot;0pt 6px 0px 12px&quot;;padding: 0;">		
+    <div id="breadcrumbs"><a href="../home/index.jsp">Home</a>&nbsp;&gt;&nbsp;<a href="../helpdesk/index.jsp">Help</a>&nbsp;&gt;&nbsp;<a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=privacy" class="hd_link">Safety, Security, and Privacy</a></div>
+    <br clear="all">
+</div>
+<!--div id="hd_rule"><img src="http://TRUSCA.imageg.net/images/en_CA/pixel.gif" width="763" height="1" alt="" border="0" /></div-->
+<br clear="all">
+
+	
+		<div class="hd_col4 hd_col_spacer">
+			<div class="hd_topic hd_topic_border">
+				<div class="hd_topic_hdr_bg2"><span class="hd_topic_hdr">Safety, Security, and Privacy</span></div>
+	
+	
+
+
+	
+	
+	
+	
+		
+		
+			
+				
+				
+				
+				
+				
+				
+				
+				
+					
+						
+						
+							<div class="hd_link_margins"><a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=secure#secure" class="hd_link">Secure Shopping Guarantee</a></div>
+						
+						
+
+					
+				
+			
+		
+	
+
+	
+	
+	
+	
+		
+		
+			
+				
+				
+				
+				
+				
+				
+				
+				
+					
+						
+						
+							<div class="hd_link_margins"><a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=terms#terms" class="hd_link">Terms and Conditions</a></div>
+						
+						
+
+					
+				
+			
+		
+	
+
+	
+	
+	
+	
+		
+		
+			
+				
+				
+				
+				
+				
+				
+				
+				
+					
+						
+						
+							<div class="hd_link_margins"><a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=privacy#privacy" class="hd_link">Privacy Policy</a></div>
+						
+						
+
+					
+				
+			
+		
+	
+
+
+	
+			</div>
+		</div>
+		<div class="hd_col5 hd_col_spacer3">
+	
+	
+
+<!--STOREMAN GENERATION - 1 panel(s) found for slot: HelpSlot entryId: 2818351 with pd:null--><br><!--STOREMAN PANEL: helpdesk/TRUCA_Privacy.32103.jsp-->
+
+	<!--?xml version="1.0" encoding="ISO-8859-1" standalone="no"?-->
+
+<smpanel xmlns:sm="http://engineering.gspt.net/storeman/sm-DTDinfo.html">
+
+<table width="98%" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr>
+<td valign="top">
+
+<a name="pageTop()"></a>
+<a name="privacy"></a>
+<p class="header"><b>The "R" Us Family Privacy Policy</b></p>
+<hr class="hd_rule2">
+
+<ol>
+<li>WHAT DOES THIS "R" US FAMILY PRIVACY POLICY COVER?</li>
+<li>WHAT INFORMATION DO WE COLLECT?</li>
+<li>CHILDREN'S PRIVACY</li>
+<li>HOW DO WE USE AND SHARE YOUR PERSONAL INFORMATION?</li>
+<li>HOW IS YOUR PERSONAL INFORMATION PROTECTED?</li>
+<li>WHERE IS YOUR PERSONAL INFORMATION PROCESSED AND STORED?</li>
+<li>HOW CAN YOU ACCESS YOUR PERSONAL INFORMATION?</li>
+<li>WHAT ARE COOKIES AND HOW DO WE USE THEM?</li>
+<li>WHAT ABOUT LINKED SITES?</li>
+<li>HOW TO CONTACT US</li>
+<li>REVISIONS TO THIS PRIVACY POLICY</li>
+<li>WEBSITE USE AGREEMENT</li>
+</ol>
+
+<br>
+
+<p><b>1. What does this "R" Us Family Privacy Policy cover?</b></p>
+
+<p>The "R" Us Family includes Toys "R" Us, Inc.; Babiesrus.com, LLC; Toys "R" Us (Canada) Ltd.; and their affiliates (collectively, the ""R" Us Family members" or the ""R" Us Family").</p>
+
+<p>This Privacy Policy outlines "R" Us Family practices regarding personal information collected (a) on our corporate website online at www.toysruscanada.ca or www.toysrusinc.ca (the ""R" Us Site"); (b) online at www.toysrus.ca, www.babiesrus.ca, www.babies-r-us.ca, www.babiesruscanada.ca, www.kidsrus.ca, www.kids-r-us.ca, www.giftsrus.ca, www.sportsrus.ca, www.imaginarium.ca, www.rzone.ca and www.rzonecentral.ca (the "Online Store") (the "R" Us Site and the Online Store referred to collectively as "our websites") ; and (c) at kiosks located in the Toys "R" Us retail stores in Canada (the "Retail Stores").</p>
+
+<p><i>The "R" Us Family is committed to respecting your privacy through the protection of your personal information. When we collect your personal information, you can be confident that we handle and store it in a secure manner to protect your information from unauthorized access or disclosure. We only collect your personal information for the purposes specified in this Privacy Policy, and we will not sell your personal information to others.</i></p>
+
+<p>Nothing in this Privacy Policy, or otherwise, will create, or add to, any right or claim (whether legal, equitable or otherwise) that any individual or person may have at law, or otherwise, against any of the "R" Us Family members' respective directors, officers, employees, agents or representatives (collectively, the "'R" Us Family Representatives"); nor will the existence of this Privacy Policy or its application impose any obligations or liability upon the "R" Us Family Representatives, or add to any such obligation or liability, that the "R" Us Family Representatives do not already otherwise have to any individual or person at law or otherwise.</p>
+
+<p><b>YOUR CONSENT</b></p>
+
+<p>BY SUBMITTING PERSONAL INFORMATION TO THE "R" US FAMILY MEMBERS OR THEIR RESPECTIVE SERVICE PROVIDERS OR AGENTS VIA OUR WEBSITES OR AT KIOSKS LOCATED IN THE RETAIL STORES, YOU CONSENT TO OUR COLLECTION, USE AND DISCLOSE OF SUCH PERSONAL INFORMATION FOR THE PURPOSES DESCRIBED IN THIS PRIVACY POLICY AND AS PERMITTED OR REQUIRED BY LAW.<br>Subject to legal and contractual requirements, you may opt out of receiving communications from an Online Store by setting your communications preferences in the "Your Account" section of the Online Store or by calling 1-800-TOYSRUS and asking for assistance on how you may opt out of receiving online communications. You may also opt out of receiving such communications from an "R" Us Family member by calling 1-800-TOYSRUS and asking for assistance. Your personal information may be retained in the database to ensure that we honour your privacy requests to opt-out of certain communications, for record keeping purposes, for internal research and analysis, and the other purposes described in this Privacy Policy.If you provide us with personal information concerning another individual, you represent and warrant that you have all necessary authority and/or have obtained all necessary consents from such individual to enable us to collect, use and disclose such personal information for the purposes set forth in this Privacy Policy.</p>
+
+<p><img src="http://TRUSCA.imageg.net/graphics/storeman/trus/tru_BTTarrow.gif" width="10" height="10" alt="" border="0">&nbsp;<a href="#pageTop()" style="text-transform:lowercase;">BACK TO TOP</a></p>
+<br>
+
+<p><b>2. What information do we collect?</b></p>
+
+<p>As used in this Privacy Policy, "personal information" is information about an identifiable individual human being, as defined in privacy laws applicable to the "R" Us Family. Personal information does not include aggregated information that does not allow an individual to be identified.</p>
+
+<p>The "R" Us Family members collect personal information (including, without limitation, names, addresses, telephone numbers and email addresses) that you provide when you  (a) visit the Online Store and kiosks located in the Retail Stores; (b) create or edit your Registries and Wish Lists; (c) participate in a contest or sweepstakes promotion; (d) sign up for and/or fill out a survey or questionnaire; (e) contact an "R" Us Family member (by email or otherwise); (f) contact an "R" Us Family customer service representative; (g) otherwise interact with an "R" Us Family member; or (h) provide product reviews and/or feedback.</p>
+
+<p>Each time you visit the "R" Us Site or the Online Store, the web server automatically collects your Internet service provider's address, the web page from which you logged in, web browser software and a record of your activity while visiting the site. Unless you tell us who you are, this information is non-personal information and is not subject to this Privacy Policy.  Please see Section 8 below for further information about cookies.</p>
+
+<p>For purposes of this Privacy Policy, information regarding your children that you (the parent) provide to the "R" Us Family is treated in the same manner as information collected about you. Please see Section 3 below for further information regarding children's privacy. As noted above, by submitting personal information of another individual, you represent and warrant that you have all necessary authority and/or consent from such individual to enable us to collect, use and disclose such personal information in accordance with the purposes described in this Privacy Policy.</p>
+
+<p><img src="http://TRUSCA.imageg.net/graphics/storeman/trus/tru_BTTarrow.gif" width="10" height="10" alt="" border="0">&nbsp;<a href="#pageTop()" style="text-transform:lowercase;">BACK TO TOP</a></p>
+<br>
+
+<p><b>3. Children's Privacy</b></p>
+
+<p>The Online Store and Retail Stores do not knowingly solicit or collect personal information from children under the age of 13. We encourage parents of children under the age of 13 to regularly check and monitor their children's use of e-mail and the "R" Us Family websites.</p>
+
+<p><img src="http://TRUSCA.imageg.net/graphics/storeman/trus/tru_BTTarrow.gif" width="10" height="10" alt="" border="0">&nbsp;<a href="#pageTop()" style="text-transform:lowercase;">BACK TO TOP</a></p>
+<br>
+
+<p><b>4. How do we use and share your personal information?</b></p>
+
+<p><u>Using Your Personal Information</u></p>
+
+<p>The "R" Us Family members collect, use and disclose personal information in accordance with applicable privacy and data protection laws and regulations.</p>
+
+<p>Your personal information may be used by the "R" Us Family members and their agents and service providers: (a) to administer and enhance your guest and/or customer relationship with us, including to administer accounts, maintain gift Registries and Wish Lists, facilitate deliveries, administer our customer service centre, make and receive payments, and fulfill contractual obligations; (b) to understand your needs and preferences and respond to your requests; (c) to tailor offerings to you; (d) to communicate with you about products, services, special offerings and events or programs offered by the "R" Us Family members or their marketing partners that may be of interest to you ; (e) to conduct surveys, contests and promotions; (f) to conduct research and statistical analysis; (g) to monitor communications to ensure the consistency and quality of the products and services of the "R" Us Family and its suppliers, distributors and other third parties with whom we have a commercial relationship; (h) to manage and develop the "R" Us Family businesses and operations; (i) to detect and protect the "R" Us Family and other third parties against error, negligence, breach of contract, theft, fraud and other illegal activity; (j) to comply with the "R" Us Family audit requirements, and to audit compliance with laws and the "R" Us Family corporate policies, procedures and contractual obligations; (k) to engage in due diligence and carry out business transactions that may involve the purchase, sale or transfer of personal information, including the purchase, sale, lease, merger, amalgamation or any other type of acquisition, disposal, securitization or financing involving an "R" Us Family member; (l) as permitted by, and to comply with, applicable laws and regulations; and (m) for any other purpose to which you consent.</p>
+
+<p>Only "R" Us Family Representatives who require your personal information in the performance of their duties  will have access to your personal information.  Notably, only "R" Us Family Representatives in the customer service department, who process online purchases, may have access to your credit card information.</p>
+
+<p><u>Sharing Your Personal Information</u></p>
+
+<p>"R" Us Family members will not license, sell or provide your personal information to any third party except as permitted by this Privacy Policy, as permitted or required by law, or with your consent. In addition to the purposes described above, the "R" Us Family shares your personal information as set forth below:</p>
+
+<p><b>With "R" Us Family Members.</b> Personal information collected by one member of the "R" Us Family will be used by that member in accordance with this Privacy Policy and may be shared with other "R" Us Family members for use only as permitted by law.</p>
+
+<p><b>With Our Agents and/or Service Providers.</b> "R" Us Family members may share your personal information with agents and service providers who provide services for or administer activities on behalf of the "R" Us Family (such as, but not limited to, authorization of credit card transactions, order fulfillment and delivery, sweepstakes, website maintenance and contests, advertising, data processing and storage, information technology and office services, auditors and professional advisors, and co-branded or joint product and service promotions). These agents and/or service providers are granted access to some or all of your personal information as necessary and may use cookies (as described in further detail in Section 8 below) on our behalf, but we use contractual and other measures to restrict them from using your personal information in any manner other than as may be necessary to perform their mandate and/or services. We may also utilize agents and/or service providers to assist us in aggregating personal information. We may then share such aggregated information (but not personally identifiable information) with prospective marketing partners and advertisers.</p>
+
+<p><b>In Connection with Business Transfers.</b> In the event that a store, division or part or all of an "R" Us Family member or prospective "R" Us Family member (or the assets of one of those entities) is bought, sold or financed, personal information may need to be disclosed under confidentiality restrictions to perform due diligence reviews, to the extent permitted by law. If the transaction proceeds, personal information may be used by the successor entity provided such use is in accordance with this Privacy Policy.</p>
+
+<p><b>To Comply with Laws and Protect Against Loss.</b> A "R" Us Family member may also disclose your personal information when it determines that such disclosure is necessary to comply with applicable laws, and/or to detect and protect the "R" Us Family and other third parties against error, negligence, breach of contract, theft, fraud and other illegal activity, to comply with the "R" Us Family audit requirements, and to audit compliance with laws and the "R" Us Family corporate policies, procedures and contractual obligations, to the extent permitted by law. This includes exchanging information with other companies and organizations for fraud protection, credit risk reduction, debt collection, insurance coverage and in the course of investigating and resolving disputes and litigation.</p>
+
+<p><b>On Registries and Wish Lists.</b> Registries and Wish Lists are made available for viewing by others. If you create your Registry or Wish List at a kiosk located in a Retail Store, and elect to make it available online, your information will be accessible at the Online Store. If you create your Registry or Wish List at the Online Store, your Registry information may also be accessible at a kiosk located in one of the Retail Stores if you so elect.</p>
+
+<p><img src="http://TRUSCA.imageg.net/graphics/storeman/trus/tru_BTTarrow.gif" width="10" height="10" alt="" border="0">&nbsp;<a href="#pageTop()" style="text-transform:lowercase;">BACK TO TOP</a></p>
+<br>
+
+<p><b>5. How is your personal information protected?</b></p>
+
+<p>The "R" Us Family members protect personal information by physical, technological and administrative security safeguards appropriate to the sensitivity of the information. We use industry standard security measures at the Online Store to help protect against the loss, misuse or alteration of personal information collected from you at the Online Store.</p>
+
+<p><img src="http://TRUSCA.imageg.net/graphics/storeman/trus/tru_BTTarrow.gif" width="10" height="10" alt="" border="0">&nbsp;<a href="#pageTop()" style="text-transform:lowercase;">BACK TO TOP</a></p>
+<br>
+
+<p><b>6. Where is your personal information processed and stored?</b></p>
+
+<p>Your personal information is processed and stored at Toys "R" Us (Canada) Ltd.'s corporate headquarters located at <b>2777 Langstaff Road</b> in Toronto, Ontario, L4K 4M5 Canada, at Toys "R" Us, Inc.'s corporate headquarters located at One Geoffrey Way in Wayne, New Jersey, 07470-2030, U.S., or at other locations in Canada or the United States.  Where personal information is stored or processed outside of Canada, it is subject to the laws of that foreign jurisdiction, and may be accessible to that jurisdiction's governments, courts or law enforcement or regulatory agencies.</p>
+
+<p><img src="http://TRUSCA.imageg.net/graphics/storeman/trus/tru_BTTarrow.gif" width="10" height="10" alt="" border="0">&nbsp;<a href="#pageTop()" style="text-transform:lowercase;">BACK TO TOP</a></p>
+<br>
+
+<p><b>7. How can you access your personal information?</b></p>
+
+<p><b>Upon your written request to our Privacy Manager at Toys "R" Us (Canada) Ltd., 2777 Langstaff Road, Concord, Ontario, L4K 4M5, we will inform you of the existence, use and disclosure of your personal information by an "R" Us Family member, and subject to certain exceptions permitted by law, we will give you a reasonable opportunity to review your personal information collected by the applicable "R" Us Family member.</b></p>
+
+<p>If at any time you want to update, change or correct the personal information that you submitted at the Online Store, you can adjust your communications preferences in the "Your Account" section of the Online Store or call 1-800-TOYSRUS and ask for assistance on how you may update, change or correct your information. If at any time you want to update or change the information that you submitted at a kiosk located in one of the Retail Stores, you can call 1-800-TOYSRUS and ask for assistance.</p>
+
+<p><img src="http://TRUSCA.imageg.net/graphics/storeman/trus/tru_BTTarrow.gif" width="10" height="10" alt="" border="0">&nbsp;<a href="#pageTop()" style="text-transform:lowercase;">BACK TO TOP</a></p>
+<br>
+
+<p><b>8. What are cookies and how do we use them?</b></p>
+
+<p>Cookies are small text files containing a unique identification number that identifies your computer browser, but not you, to our computers each time you visit one of our websites. Unless you specifically inform us (e.g. by completing a purchase or entering a contest), we will not know who you are. "R" Us Family members do not use cookies to store any of your personal or financial information on your computer. In addition to the purposes identified in this Privacy Policy, the "R" Us Family may use cookie information to measure the use of our websites and to improve the functionality and content of our websites. The "help" menu of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive new cookies, or how to disable cookies altogether. If you refuse to accept cookies, you may not be able to participate in certain activities, view certain presentations or use certain features on our websites.</p>
+
+<p><img src="http://TRUSCA.imageg.net/graphics/storeman/trus/tru_BTTarrow.gif" width="10" height="10" alt="" border="0">&nbsp;<a href="#pageTop()" style="text-transform:lowercase;">BACK TO TOP</a></p>
+<br>
+
+<p><b>9. What about linked sites?</b></p>
+
+<p>The "R" Us Site and Online Store may contain links to other websites, including content from other websites that is occasionally framed within the "R" Us Site or the Online Store. Please note that the privacy policies applicable to the collection of personal information on those other websites may be different from this one, and the "R" Us Family has no control or responsibility for the privacy practices of third party websites. You are advised to review the privacy policy of any website linked to or framed within the "R" Us Site or the Online Store prior to providing any information on or to that website.</p>
+
+<p><img src="http://TRUSCA.imageg.net/graphics/storeman/trus/tru_BTTarrow.gif" width="10" height="10" alt="" border="0">&nbsp;<a href="#pageTop()" style="text-transform:lowercase;">BACK TO TOP</a></p>
+<br>
+
+<p><b>10. How to contact us</b></p>
+
+<p>If you have questions or concerns about this Privacy Policy, please send an email to privacymanager.ca@toysrus.com, call 1-800-TOYSRUS or write to our Privacy Manager at Toys "R" Us (Canada) Ltd., 2777 Langstaff Road, Concord, Ontario, LMK 4M5.</p>
+
+<p><img src="http://TRUSCA.imageg.net/graphics/storeman/trus/tru_BTTarrow.gif" width="10" height="10" alt="" border="0">&nbsp;<a href="#pageTop()" style="text-transform:lowercase;">BACK TO TOP</a></p>
+<br>
+
+<p><b>11. Revisions to this Privacy Policy</b></p>
+
+<p>This Privacy Policy may be updated and revised from time to time. If we make a change to this Privacy Policy, we will post an updated policy on our websites and in our Retail Stores, and the updated policy will be available on request by sending an email to privacymanager.ca@toysrus.com, by calling 1-800-TOYSRUS or by writing to our Privacy Manager at Toys "R" Us (Canada) Ltd., 2777 Langstaff Road, Concord, Ontario, LMK 4M5. This policy was last revised on July, 2007.</p>
+
+<p><img src="http://TRUSCA.imageg.net/graphics/storeman/trus/tru_BTTarrow.gif" width="10" height="10" alt="" border="0">&nbsp;<a href="#pageTop()" style="text-transform:lowercase;">BACK TO TOP</a></p>
+<br>
+
+<p><b>12. Website Use Agreement</b></p>
+
+<p>The Website Use Agreement governing your use of this website (which may be viewed by <a href="/helpdesk/index.jsp?subdisplay=terms&amp;display=safety" class="body">clicking here</a>) contains important provisions, including provisions disclaiming, limiting or excluding the liability of the "R" Us Family members for your use of our websites and provisions determining the applicable law and exclusive jurisdiction for the resolution of any disputes regarding your use of our websites. Each of those provisions are incorporated by reference into this Privacy Policy, apply to any disputes that may arise in relation to this Privacy Policy and the collection, use and disclosure of your personal information by the "R" Us Family members and are of the same force and effect as if they had been reproduced directly in this Privacy Policy.</p>
+
+<p><img src="http://TRUSCA.imageg.net/graphics/storeman/trus/tru_BTTarrow.gif" width="10" height="10" alt="" border="0">&nbsp;<a href="#pageTop()" style="text-transform:lowercase;">BACK TO TOP</a></p>
+<br>
+
+<p><i>Effective Date of Privacy Policy: August, 2007</i></p>
+
+</td>
+</tr>
+</tbody></table>
+
+</smpanel>
+
+<!--END STOREMAN PANEL helpdesk/TRUCA_Privacy.32103.jsp--><br><!--END STOREMAN GENERATION-->
+</div>
+			
+			
+			
+			
+		
+	</div>
+	<br clear="all">
+	<!-- end hd_mainblock -->
+	<br>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script>
+function getStyle(side) {
+	styleText = "";
+	if (side != null && side.length > 0 && navigator.appVersion.indexOf("MSIE") != -1) {
+		if (parseFloat(navigator.appVersion.split("MSIE")[1]) >= 7) {
+			if (side == 'left') 
+				styleText = " style=\"margin:0px 0px 0 20px;\"";
+			else if (side == 'right') 
+					styleText = " style=\"margin:0px 20px 0 0px;\"";
+		}
+	}
+	return styleText;
+}
+</script>		
+
+	
+			
+	   <div id="footer" style="background:url(http://TRUSCA.imageg.net/images/en_CA/footer_tru.gif) transparent no-repeat;">
+	
+
+	
+<div id="footer_center">
+<span style="width:770px;font-size:9px;">
+<a href="/affiliate/index.jsp">Affiliates</a><font style="font-size:1px;"> </font>|<font style="font-size:1px;"> </font>
+<a href="http://www.toysruscanada.ca/eng/store_locator/default.asp" target="_blank">Store Locator</a><font style="font-size:1px;"> </font>|<font style="font-size:1px;"> </font>
+<a href="/coreg/index.jsp?step=register&amp;clickid=topnav_myacct_txt">Your Account</a><font style="font-size:1px;"> </font>|<font style="font-size:1px;"> </font>
+<a href="http://www.toysruscanada.ca/eng/about.asp" target="_blank">About Us</a><font style="font-size:1px;"> </font>|<font style="font-size:1px;"> </font>
+<a href="/coreg/index.jsp?step=ot&amp;clickid=botnav_track_txt">Track My Order</a><font style="font-size:1px;"> </font>|<font style="font-size:1px;"> </font>
+<a href="/helpdesk/index.jsp?display=ship&amp;subdisplay=delivery#methods">Shipping</a><font style="font-size:1px;"> </font>|<font style="font-size:1px;"> </font>
+<a href="/helpdesk/index.jsp?display=returns&amp;subdisplay=returns#policy">Returns</a><font style="font-size:1px;"> </font>|<font style="font-size:1px;"> </font>
+<a href="/helpdesk/index.jsp?clickid=botnav_help_txt">Help</a><font style="font-size:1px;"> </font>|<font style="font-size:1px;"> </font>
+<a href="/helpdesk/contact_us.jsp">Contact Us</a><font style="font-size:1px;"> </font>|<font style="font-size:1px;"> </font>
+<a href="/sitemap/index.jsp">Site Map</a>
+<br>
+
+	
+			
+	   Shop by Phone 1-800-TOYSRUS
+	
+
+ | All prices in Canadian dollars. Prices may vary in store.
+
+</span>
+</div>
+</div> <!-- END OF FOOTER -->
+
+	
+			
+	   <div id="footer_center_tru">
+	
+
+<span style="width:768px;">
+© 2007 Toys "R" Us (Canada) Ltd. All Rights Reserved.<br>
+Use of this site signifies your acceptance of Toys"R"Us Website <a href="/helpdesk?display=safety&amp;subdisplay=terms&amp;clickid=botnav_terms_txt" style="text-decoration:underline;">Terms and Conditions</a> and <a href="/helpdesk?display=safety&amp;subdisplay=privacy&amp;clickid=botnav_privacy_txt" style="text-decoration:underline;">Privacy Policy</a>.
+</span>
+<br>
+<div style="background:url(http://TRUSCA.imageg.net/images/en_CA/bg_footer.gif) #fffeec no-repeat; height:80px;">
+<br>
+Toys"R"Us around the world:
+<form name="worldSites">
+<select name="country" style="margin-top:10px;">
+<option value="">Select a country</option>
+<option value="http://www.toysrus.com.au/site/default.htm">Australia</option>
+<option value="http://www.toysrus.ca">Canada</option>
+<option value="http://www.toysrus.de/">Central Europe</option>
+<option value="http://www.toys-r-us.dk/">Denmark</option>
+<option value="http://www.toysrus.fr/">France</option>
+<option value="http://www.toysrus.co.jp/">Japan</option>
+<option value="http://www.toysrus.nl/">Netherlands</option>
+<option value="http://www.toysrus.pt/">Portugal</option>
+<option value="http://www.toysrus.es/">Iberia</option>
+<option value="http://www.toysrus.es/">Sweden</option>
+<option value="http://www.toysrus.com.tr/">Turkey</option>
+<option value="http://www.toysrus.co.uk/">UK</option>
+<option value="http://www.toysrus.com">US</option>
+</select>
+<input type="image" src="http://TRUSCA.imageg.net/images/en_CA/search_results_go.gif" style="vertical-align:bottom;" border="0" onclick="javascript:if(worldSites.country.selectedIndex > 0) {location.href=worldSites.country.options[worldSites.country.selectedIndex].value;} else {alert('Please select a country');} return false;">
+</form>
+<div style="float:right;margin-top: -35px; margin-right:30px;"><img src="http://TRUSCA.imageg.net/images/en_CA/verisign.gif"></div>
+</div>
+</div>
+<!--div style='background:url(http://TRUSCA.imageg.net/images/en_CA/bg_footer.gif) #fffeec no-repeat;'></div-->
+</div>
+<!--[if IE 7]><style>#contentleft{margin:"0 6px 0 14px";} #prod_contentleft{margin:"0 6px 0 14px";}</style><![endif]-->
+
+<!--Omniture Code begins-->
+<script language="JavaScript">
+
+/* Non-commerce Variables */
+
+var s_account = 'gsictrucaeng';
+var s_server = 'www.toysrus.ca';
+var s_pageName = 'Help Desk: No Name Found No Name Found';
+var s_hier1 = '';
+var s_events = '';
+var s_channel = 'Help Desk';
+var s_prop2 = 'default';
+var s_eVar19 = '33150547073';
+</script>
+
+<!--//********* INSERT THE DOMAIN AND PATH TO YOUR CODE BELOW ************///-->
+
+<script language="JavaScript" src="http://TRUSCA.imageg.net/include/omniture.js"></script>
+
+
+<!--Omniture Code ends-->
+
+
+ 
+</body></html>
