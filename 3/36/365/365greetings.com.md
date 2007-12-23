@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 365greetings.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429224216id_/http%3A//365greetings.com/upcardme.php%3Fstep%3Dpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 365greetings.com privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223141017id_/http%3A//www.365greetings.com/upcardme.php%3Fstep%3Dpolicy) for the most accurate reproduction.*
 
-# Free Greetings, Free Ecards, Animated New year Greetings, Christmas Greetings, Love cards, Free ecards, Free Ecards
+# Free Greetings and Free Ecards - 365greetings.com
 
 > Privacy Policy
 > 
