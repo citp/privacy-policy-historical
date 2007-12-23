@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneyam.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623051359id_/http%3A//www.moneyam.com/tandc/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneyam.com privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223151651id_/http%3A//www.moneyam.com/tandc/privacypolicy.php) for the most accurate reproduction.*
 
 # MoneyAM - Free Share Prices, Stock Quotes, Charts, News, Level2
 
