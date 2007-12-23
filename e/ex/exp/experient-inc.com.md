@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the experient-inc.com privacy policy that was archived on 2007-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070402194828id_/http%3A//www.experient-inc.com/privacy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the experient-inc.com privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223165325id_/http%3A//www.experient-inc.com/privacy/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
-
-Privacy Policy Statement: Our Commitment to You
-
-****
 
 This is the Web site of Experient  
 2500 Enterprise Parkway East, Twinsburg, OH 44087
@@ -30,8 +26,3 @@ From time to time, we may use customer information for new, unanticipated uses n
 Choice/Opt-Out
 
 This site conforms with current legislation and gives users the option to remove their information from our database. Please provide us with your name and address and we will make sure your information is removed from our list.
-
-Contact Us   
-If you have any questions about this privacy statement, the practices of Experient, or your dealings with this Web site, you can contact:
-
-[marian.calvin@experient-inc.com](mailto:marian.calvin@experient-inc.com) or call 330-425-8333.
