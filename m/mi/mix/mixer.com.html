@@ -1,180 +1,59 @@
-<!--The following is the downloaded HTML source of the mixer.com privacy policy that was archived on 2007-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070617211123id_/http%3A//www.mixxer.com/ringtones/module/Misc/action/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mixer.com privacy policy that was archived on 2007-12-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071223235246id_/http%3A//www.3guppies.com/ringtones/module/Misc/action/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
-<title>Ringtones, Cell Phone Games, mp3 ringtones, Screen Graphics and more at mixxer.com</title>
+<title>Ringtones, Cell Phone Games, mp3 ringtones, Screen Graphics and more at 3Guppies.com</title>
 
-<meta name="keywords" content="Ringtones at mixxer.com. Your source for real music ring tones and mp3 ringtones, Tones from all the latest artists">
-<meta name="description" content="Ringtones at mixxer.com. Your source for real music ring tones and mp3 ringtones, Tones from all the latest artists">
+<meta name="keywords" content="Ringtones at 3Guppies.com. Your source for real music ring tones and mp3 ringtones, Tones from all the latest artists">
+<meta name="description" content="Ringtones at 3Guppies.com. Your source for real music ring tones and mp3 ringtones, Tones from all the latest artists">
 <meta name="robots" content="all">
 <meta name="rating" content="GENERAL">
 
 <meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
 <meta http-equiv="expires" content="0">
 
-<link rel="shortcut icon" href="http://www.mixxer.com/images/favicon.ico" type="image/x-icon">
-<link rel="stylesheet" type="text/css" href="http://www.mixxer.com/css/mixxer.css">
-<link rel="stylesheet" type="text/css" href="http://www.mixxer.com/css/global.css">
-
-
-<script type="text/javascript" src="http://www.mixxer.com/javascript/yui/yahoo/yahoo-min.js"></script>
-<script type="text/javascript" src="http://www.mixxer.com/javascript/yui/dom/dom-min.js"></script>
-<script type="text/javascript" src="http://www.mixxer.com/javascript/yui/event/event-min.js"></script>
-<script type="text/javascript" src="http://www.mixxer.com/javascript/yui/mixxer/mixxer.js"></script>
-<script type="text/javascript" src="http://www.mixxer.com/javascript/yui/mixxer/dom.js"></script>
-<script type="text/javascript" src="http://www.mixxer.com/javascript/yui/mixxer/onload.js"></script>
-<script type="text/javascript" src="http://www.mixxer.com/javascript/firebug/firebugx.js"></script>
+<link rel="shortcut icon" href="http://cdn.3guppies.com/images/favicon.ico" type="image/x-icon">
 
 
 
-<script type="text/javascript" src="http://www.mixxer.com/javascript/yui/container/container.js"></script>
-<script type="text/javascript" src="http://www.mixxer.com/javascript/yui/animation/animation.js"></script>
-<link rel="stylesheet" type="text/css" href="http://www.mixxer.com/javascript/yui/container/assets/container.css">
-<script type="text/javascript">
-/* GLOBAL VARS */
-var urlBase = 'http://www.mixxer.com/';
+<script type="text/javascript" src="http://cdn.3guppies.com/javascript/yui/yahoo-dom-event/yahoo-dom-event.js"></script>
+<script type="text/javascript" src="http://cdn.3guppies.com/javascript/yui/threeg/3guppies.js"></script>
+<script type="text/javascript" src="http://cdn.3guppies.com/javascript/yui/threeg/dom.js"></script>
+<script type="text/javascript" src="http://cdn.3guppies.com/javascript/yui/threeg/onload.js"></script>
+<script type="text/javascript" src="http://cdn.3guppies.com/javascript/popup.js"></script>
+<script type="text/javascript" src="http://cdn.3guppies.com/javascript/feather.js"></script>
+<script type="text/javascript" src="http://cdn.3guppies.com/javascript/yui/threeg/dhtml/help_dialog.js"></script>
+<script type="text/javascript" src="http://cdn.3guppies.com/javascript/yui/container/container-min.js"></script>
+<script type="text/javascript" src="http://cdn.3guppies.com/javascript/yui/threeg/form.js"></script>
+<script type="text/javascript" src="http://www.3guppies.com/javascript/firebug/firebugx.js"></script>
 
-/* teaser overlay */
-
-
-teasePanel = null;
-
-YUIEvent.addListener( window, 'load', function() {
-    
-        
-    var cfg = {
-        modal: true,
-        draggable: false,
-        visible: false,
-        underlay: 'none',
-        zIndex: 10000,
-        effect:{effect:YAHOO.widget.ContainerEffect.FADE, duration:0.5}
-    };
-    
-    if( YUIDom.get( [ 'logo', 'head' ] ).length )
-    {
-        if( YUIDom.get( 'logo' ) && YUIDom.getXY( 'logo' ) )
-            cfg.context = [ 'logo', 'tl', 'bl' ];
-        else if( YUIDom.get( 'head' ) && YUIDom.getXY( 'head' ) )
-            cfg.context = [ 'head', 'tl', 'bl' ];
-    }
-    else
-    {
-        cfg.fixedcenter = true;
-        
-    }
-    
-    teasePanel = new YAHOO.widget.Panel( 'yui-teaser', cfg );
-    
-    YAHOO.widget.Overlay.windowResizeEvent.subscribe( function() {
-        this.cfg.refireEvent( 'context' );
-        
-    }, teasePanel, true );
-    
-    teasePanel.beforeShowEvent.subscribe( function( type, args ) {
-        this.cfg.refireEvent( 'context' );
-    }, teasePanel, true );
-    
-    teasePanel.renderEvent.subscribe( function() 
-    {
-        var mouseover = function() 
-        {
-            var img = 'http://svvscdn.mixxer.com/images/ui/close_xb_tease.gif';
-            this.style.backgroundImage = img;
-            // YUIDom.setStyle( this, 'background-image', img );
-        };
-        
-        var mouseout = function() 
-        {
-            var img = 'http://svvscdn.mixxer.com/images/ui/close_x_tease.gif';
-            this.style.backgroundImage = img;
-            // YUIDom.setStyle( this, 'background-image', img );
-        };
-            
-        var closeDiv = YUIDom.getElementsByClassName( 'close', 'div', this.element )[0];
-        
-        YUIEvent.addListener( closeDiv, 'mouseover', mouseover );
-        YUIEvent.addListener( closeDiv, 'mouseout', mouseout );
-    }, teasePanel, true );
-    
-    teasePanel.setBody( '<h1>Mixxer is now 3Guppies!</h1>' + 
-        '<p>Like Mixxer, you can still download ringtones, share<br />' +
-        'videos and send pictures to any cell phone - <strong>FREE!</strong></p>' +
-        '<ul class="generic">' + 
-        '<li>Same great features, different name</li>' + 
-        '<li>Your stuff&#8216;s already in a new 3Guppies locker</li>' + 
-        '<li>Look for NEW features only on <a href="http://www.mixxer.com">3Guppies</a></li>' + 
-        '</ul>' +
-        '<br />' +
-        '<div class="textCenter"><img src="http://svvscdn.mixxer.com/images/ui/main/3guppies_logo.gif" border="0" /></div>' );
-
-    teasePanel.setHeader( '' );
-
-    teasePanel.render( document.body );
-    
-    
-    if( teasePanel && false )
-    {
-        window.setTimeout( function() { teasePanel.show(); }, 5000 );
-    }
-} );
+<link rel="stylesheet" type="text/css" href="http://cdn.3guppies.com/css/3guppies.css" media="screen">
+<link rel="stylesheet" type="text/css" href="http://cdn.3guppies.com/css/global.css" media="screen">
+<link rel="stylesheet" type="text/css" href="http://cdn.3guppies.com/javascript/yui/threeg/dhtml/assets/help_dialog.css" media="screen">
+<link rel="stylesheet" type="text/css" href="http://cdn.3guppies.com/javascript/yui/container/assets/container.css" media="screen">
+<link rel="stylesheet" type="text/css" href="http://cdn.3guppies.com/css/yui/container/3guppies_container.css" media="screen">
 
 
 
 
-</script>
 
-
-<style type="text/css">
-/* teaser overlay */
-
-
-.mask {
-    background-color: white;
-}
-
-#yui-teaser {
-    margin-top: 20px;
-    margin-left: 100px;
-    
-    border-color: #4db3d0;
-}
-
-#yui-teaser .hd {
-    background-color: #FFFFFF;
-    border-bottom: 0;
-}
-
-#yui-teaser .bd {
-    padding: 10px 40px;
-}
-
-#yui-teaser .close {
-    width: 20px;
-    height: 20px;
-    background-image: url( http://svvscdn.mixxer.com/images/ui/close_x_tease.gif );
-}
-
-
-</style>
-
-
-<script type="text/javascript" src="http://www.mixxer.com/javascript/popup.js"></script>
-<script type="text/javascript" src="http://www.mixxer.com/javascript/feather.js"></script>
-<script type="text/javascript" src="http://www.mixxer.com/javascript/ieupdate.js"></script>
-<script type="text/javascript" src="http://www.mixxer.com/javascript/swfobject.js"></script>
 <script type="text/javascript">
 
 /* pull out? */
-var s_pageName=""
+var s_pageName="";
 var s_server="";
 var s_channel="";
 var s_pageType="";
 var s_prop1="";
 var s_prop2="";
-var s_prop3="Mixxer";
+var s_prop3="";
 var s_prop4="";
 var s_prop5="";
+var s_prop6="";
+var s_prop7="";
+var s_prop8="";
+var s_prop9="";
+var s_hier1="";
 /* E-commerce Variables */
 var s_campaign="";
 var s_state="";
@@ -187,6 +66,8 @@ var s_eVar2="";
 var s_eVar3="";
 var s_eVar4="";
 var s_eVar5="";
+var s_eVar8="";
+
 
 // 128332 - snakes on a plane campaign
 function getQueryVariable(variable) {
@@ -212,51 +93,30 @@ if( parm != null) s_eVar4 = parm;
 
 
 </script>
+
+
 </head>
 
-
-
 <body>
+
 <div align="center">
 	<table id="container" cellpadding="0" cellspacing="0" border="0">
 
 		<tbody><tr valign="top" id="frameworkNavRow">
 			<td colspan="2" class="navFrameWork">
-            <a name="top"><!-- For return to top links --></a>
 				<!-- ----------------------- NEW NAVIGATION ----------------------- -->
-                
-                    <div id="logo"><a href="http://www.mixxer.com/home" name="top"><img src="http://svvscdn.mixxer.com/images/ui/main/mixxer_logo.gif" border="0"></a></div>
-                    <script type="text/javascript">
-                        var so = new SWFObject("http://svvscdn.mixxer.com/images/flash/promos/mixxerLogo_teaser.swf", "logoMovie", "204", "70", "8", "#FFFFFF");
-                        so.addVariable( 'URL_BASE', 'http%3A%2F%2Fwww.mixxer.com%2F' );
-                        
-                        so.addParam( 'loop', true );
-                        so.addParam( 'menu', false );
-                        
-                        so.write("logo");
-                    </script>
-                    
+
+				<a href="http://www.3guppies.com/home" name="top"><img id="logo" src="http://cdn.3guppies.com/images//ui/main/3guppies_logo.gif" border="0" onmouseover="mousePop('here',this,'mobilizeTooltip',50,30,'home','tip');" onmouseout="mousePop('hide',this,'mobilizeTooltip');"></a>
+	
 				<div id="navContainer">
-                    <!-- Teaser -->
-                    <div class="teaser">Get ready to be reeled in... just 11 more days</div>
-                    <!-- /teaser -->
-                    
-                    <!-- Teaser -->
-                    <!--
-                    <div class="teaser">
-                        Mixxer is becoming <a href="http://www.mixxer.com">3Guppies!</a>
-                    </div>
-                    -->
-                    <!-- /teaser -->
-                    
-					<div class="navTop">mobilize your media...</div>
-					<ul>
-						<li><a href="http://www.mixxer.com/cell-phone-ringtones">Ringtones</a></li>
-						<li><a href="http://www.mixxer.com/cell-phone-pictures">Pictures</a></li>
-						<li><a href="http://www.mixxer.com/cell-phone-videos">Videos</a></li>
-						<li><a href="http://www.mixxer.com/widget">Widgets</a></li>
-						<li class="last"><a href="http://www.mixxer.com/help">Help</a></li>
-					</ul>
+					<div class="navTop"></div>
+					<div class="navBottom">
+                        <a href="http://www.3guppies.com/cell-phone-ringtones">Ringtones</a> | 
+                        <a href="http://www.3guppies.com/cell-phone-pictures">Pictures</a> | 
+                        <a href="http://www.3guppies.com/cell-phone-videos">Videos</a> | 
+                        <a href="http://www.3guppies.com/widget">Widgets</a> | 
+                        <a href="http://www.3guppies.com/help">Help</a>
+					</div>
 				</div>
 				<div class="clearAll"></div>
 
@@ -266,17 +126,17 @@ if( parm != null) s_eVar4 = parm;
 			<td id="frameworkContent" class="leftFrameWork">
 				<!-- ----------------------- MAIN CONTENT ----------------------- -->
 				<div id="contentSpace">
-					<div class="moduleWide" id="privacy_success">
-    <div class="moduleHead"><h2>Mixxer Privacy Policy</h2></div>
+<div class="moduleWide" id="privacy_success">
+    <div class="moduleHead"><h2>3Guppies Privacy Policy</h2></div>
     <div class="moduleBody white" style="padding: 10px;">
        <div class="textCenter">
            <table border="0" cellpadding="0" cellspacing="0" align="center">
                 <tbody><tr>
                     <td valign="middle">
-                        <a href="http://www.truste.org/ivalidate.php?url=www.mixxer.com&amp;sealid=101" target="_blank"><img src="http://svvscdn.mixxer.com/images/clickseal.gif" border="0" style="margin-right:8px;"></a>
+                        <a href="http://www.truste.org/ivalidate.php?url=www.3guppies.com&amp;sealid=101" target="_blank"><img src="http://cdn.3guppies.com/images/clickseal.gif" border="0" style="margin-right:8px;"></a>
                     </td>
                     <td valign="middle">
-                        <a href="http://www.bbbonline.org/cks.asp?id=207052110315788140" target="_blank"><img src="http://svvscdn.mixxer.com/images/PrivacySeal3.gif" border="0" style="margin-left:8px;"></a>
+                        <a href="http://www.bbbonline.org/cks.asp?id=207052110315788140" target="_blank"><img src="http://cdn.3guppies.com/images/PrivacySeal3.gif" border="0" style="margin-left:8px;"></a>
                     </td>
                 </tr>
            </tbody></table>
@@ -284,46 +144,46 @@ if( parm != null) s_eVar4 = parm;
        <br>
        <span style="font-style:italic;">Last Updated: May 29, 2007</span><br>
        <br>
-	   <h2 class="textCenter">Mixxer, Inc. ("Mixxer") takes your privacy seriously.<br>Please read this to learn about our policy regarding visitor and member privacy.</h2><br>
+	   <h2 class="textCenter">3Guppies, Inc. ("3Guppies") takes your privacy seriously.<br>Please read this to learn about our policy regarding visitor and member privacy.</h2><br>
        <br>
-       Mixxer is a licensee of the TRUSTe Privacy Program.  TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices.  This privacy statement covers the Web site mixxer.com.  Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.<br>
+       3Guppies is a licensee of the TRUSTe Privacy Program.  TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices.  This privacy statement covers the Web site 3guppies.com.  Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.<br>
        <br>
-       If you have questions or concerns regarding this statement, you should first contact Mixxer at <a href="mailto:customer-support@mixxer.com">customer-support@mixxer.com</a>.  If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <a href="http://www.truste.org/consumers/watchdog_complaint.php" target="_blank">http://www.truste.org/consumers/watchdog_complaint.php</a>. TRUSTe will then serve as a liaison with us to resolve your concerns.<br>
+       If you have questions or concerns regarding this statement, you should first contact 3Guppies at <a href="mailto:customer-support@support.3guppies.com">customer-support@support.3guppies.com</a>.  If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <a href="http://www.truste.org/consumers/watchdog_complaint.php" target="_blank">http://www.truste.org/consumers/watchdog_complaint.php</a>. TRUSTe will then serve as a liaison with us to resolve your concerns.<br>
        <br>
-       Mixxer participates in the Council of Better Business Bureau’s BBB<span style="font-style:italic;">OnLine</span>® Privacy Program. As such, we have made a commitment to meet the program’s strict requirements regarding how we treat your information and have it verified by BBB<span style="font-style:italic;">OnLine</span>. Further information about this program is available at <a href="http://www.bbbonline.org" target="_blank">http://www.bbbonline.org</a>.<br>
+       3Guppies participates in the Council of Better Business Bureau's BBB<span style="font-style:italic;">OnLine</span>® Privacy Program. As such, we have made a commitment to meet the program's strict requirements regarding how we treat your information and have it verified by BBB<span style="font-style:italic;">OnLine</span>. Further information about this program is available at <a href="http://www.bbbonline.org" target="_blank">http://www.bbbonline.org</a>.<br>
        <br>
 	   <strong>What this Privacy Policy Covers</strong><br>
        <br>
-	   This Privacy Policy covers Mixxer's treatment of anonymous and personally identifiable information that Mixxer collects when you are on the Web site located at www.mixxer.com, and when you use Mixxer's services. This policy also covers Mixxer's treatment of any personally identifiable information that Mixxer's business partners share with Mixxer.<br>
+	   This Privacy Policy covers 3Guppies' treatment of anonymous and personally identifiable information that 3Guppies collects when you are on the Web site located at www.3Guppies.com, and when you use 3Guppies' services. This policy also covers 3Guppies' treatment of any personally identifiable information that 3Guppies' business partners share with 3Guppies.<br>
        <br>
-       This policy does not apply to the practices of companies that Mixxer does not own or control or to people that Mixxer does not employ or manage.<br>
+       This policy does not apply to the practices of companies that 3Guppies does not own or control or to people that 3Guppies does not employ or manage.<br>
 		<br>
 	   <strong>Information Collection and Use</strong><br><br>
-	   Mixxer logs non-personally-identifiable (anonymous) information including IP address, page requests, profile information, aggregate user data, and browser type, from visitors to the site. This data is used to manage the Web site, track usage and improve the Web site services. This non-personally-identifiable information may be shared with third-parties to provide more relevant services and advertisements to members.<br>
+	   3Guppies logs non-personally-identifiable (anonymous) information including IP address, page requests, profile information, aggregate user data, and browser type, from visitors to the site. This data is used to manage the Web site, track usage and improve the Web site services. This non-personally-identifiable information may be shared with third-parties to provide more relevant services and advertisements to members.<br>
        <br>
-       You can use Mixxer’s Web site by providing us your cell phone number and/or your cell phone carrier and model. Once you provide this information or register with Mixxer and sign in to our services, you are not anonymous to us. Mixxer collects personally identifiable information when you register for a Mixxer account and when you use the service. Mixxer may also receive personally identifiable information from our business partners. When you register with Mixxer, we may ask for your name, email address, and cell phone number, carrier, and model. When you purchase at Mixxer, we may ask you for credit card and other billing information. You may also be requested to provide additional information to Mixxer after you have registered, such as personal interests, gender, education and occupation in order to assist users in finding and communicating with each other.<br>
+       You can use 3Guppies’ Web site by providing us your cell phone number and/or your cell phone carrier and model. Once you provide this information or register with 3Guppies and sign in to our services, you are not anonymous to us. 3Guppies collects personally identifiable information when you register for a 3Guppies account and when you use the service. 3Guppies may also receive personally identifiable information from our business partners. When you register with 3Guppies, we may ask for your name, email address, and cell phone number, carrier, and model. When you purchase at 3Guppies, we may ask you for credit card and other billing information. You may also be requested to provide additional information to 3Guppies after you have registered, such as personal interests, gender, education and occupation in order to assist users in finding and communicating with each other.<br>
        <br>
-       User Profile information including members' pictures and user names are displayed to people in order to facilitate user interaction in the Mixxer community. Your full name and cell phone number will not be revealed to others unless you choose to make this information available in your profile. Email addresses may be used to send you notifications related to the service and your account; further, you may choose to use your email address to invite new friends to join Mixxer and to receive promotional information.<br>
+       User Profile information including members' pictures and user names are displayed to people in order to facilitate user interaction in the 3Guppies community. Your full name and cell phone number will not be revealed to others unless you choose to make this information available in your profile. Email addresses may be used to send you notifications related to the service and your account; further, you may choose to use your email address to invite new friends to join 3Guppies and to receive promotional information.<br>
        <br>
-       From time to time, Mixxer or a partner may sponsor a promotion, sweepstake or contest on Mixxer’s Web site. You may be asked to provide personal information including name, email address or other information or to answer questions in order to participate. We may transfer personal information to certain ad partners if you have explicitly requested to receive information from them. It will be clear at the point of collection who is collecting the personal information and whose privacy policy will apply.<br>
+       From time to time, 3Guppies or a partner may sponsor a promotion, sweepstake or contest on 3Guppies’ Web site. You may be asked to provide personal information including name, email address or other information or to answer questions in order to participate. We may transfer personal information to certain ad partners if you have explicitly requested to receive information from them. It will be clear at the point of collection who is collecting the personal information and whose privacy policy will apply.<br>
        <br>
        In addition to processing your orders for the purchase of our services and products, we may use the information you provide to us for sending you special promotions and incentives, to customize the advertising and content you see on our pages, providing additional services, gathering demographic and website usage information, improving our website and the quality of your online visits, and in some cases, to contact you. With membership, your account is automatically set for you to receive special promotions and incentives, but you can opt out of this under My Settings.<br>
        <br>
        Please be aware that whenever you voluntarily post public information to the Web site, that information can be accessed by the public and can in turn be used by those people to send you unsolicited communications.<br>
        <br>
-       Notwithstanding any other provision of this Privacy Policy, any information Mixxer receives from you is an asset of Mixxer and may be transferred if Mixxer merges with another entity, is consolidated, sells all or part of its assets, or files for bankruptcy.<br>
+       Notwithstanding any other provision of this Privacy Policy, any information 3Guppies receives from you is an asset of 3Guppies and may be transferred if 3Guppies merges with another entity, is consolidated, sells all or part of its assets, or files for bankruptcy.<br>
        <br>
 	   <strong>Invitations and Other Communications to Non-members</strong><br><br>
-	   On some pages, you can choose to send content to, or otherwise communicate with, a friend. In these instances, we may ask you to provide the recipient’s cell phone number, name, and/or email address. We will store this information for the sole purposes of delivering the content or message to your friend and to facilitate any further use of our services by your friend. If you choose to use our referral service to tell a friend about our site, we may ask you for your friend’s name, cell phone number, and email address.  We will automatically send your friend a one-time email or text message inviting him or her to visit the site.  We store this information for the sole purpose of sending this one-time message and tracking the success of our referral program. Your friend may contact us at customer-support@mixxer.com to request that we remove this information from our database.<br>
+	   On some pages, you can choose to send content to, or otherwise communicate with, a friend. In these instances, we may ask you to provide the recipient’s cell phone number, name, and/or email address. We will store this information for the sole purposes of delivering the content or message to your friend and to facilitate any further use of our services by your friend. If you choose to use our referral service to tell a friend about our site, we may ask you for your friend’s name, cell phone number, and email address.  We will automatically send your friend a one-time email or text message inviting him or her to visit the site.  We store this information for the sole purpose of sending this one-time message and tracking the success of our referral program. Your friend may contact us at customer-support@support.3Guppies.com to request that we remove this information from our database.<br>
        <br>
 	   <strong>Information Sharing and Disclosure</strong><br><br>
-       Except as otherwise described in this privacy statement, Mixxer will not provide your personally identifiable information to other companies or people except in the following instances: 
+       Except as otherwise described in this privacy statement, 3Guppies will not provide your personally identifiable information to other companies or people except in the following instances: 
 	   <ul>
 		  <li>We have your consent to share the information;</li>
           <li>We need to share your information to provide the product or service you have requested;</li>
-          <li>We need to send the information to companies who work on behalf of Mixxer to provide a product or service to you;</li>
+          <li>We need to send the information to companies who work on behalf of 3Guppies to provide a product or service to you;</li>
           <li>We respond to judicial proceedings, court orders or legal process; or</li>
-          <li>We find that your actions on our Web sites violate the Mixxer Terms of Use, or any of our usage guidelines for specific products or services.</li>
+          <li>We find that your actions on our Web sites violate the 3Guppies Terms of Use, or any of our usage guidelines for specific products or services.</li>
        </ul>
        <br>
        We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site.<br>
@@ -333,35 +193,36 @@ if( parm != null) s_eVar4 = parm;
        We do not share, sell, rent or trade personally identifiable information with third parties for their promotional purposes.<br>
        <br>
 	   <strong>Cookies</strong><br><br>
-       Your Internet browser has a feature called "cookies" which may store small amounts of data on your computer about your visit to our site. Mixxer and its agents may set and access Mixxer cookies on your computer. When you interact with the site, we strive to make that experience easy and meaningful. When you come to the Mixxer site, our web server uses cookies to improve your interaction with the site by, for example, remembering your preferences. We link the information we store in cookies to personally identifiable information you submit while on our site. As such, Mixxer uses cookies to measure your behavior on the web site, to save personal settings on specific pages, to save your username and password so that Mixxer can quickly log you in, to make sure you are who you say you are after you've logged in, and to identify the fact that you are a Mixxer member or a prior visitor. If you disable their Web browsers' ability to accept cookies, you will still be able to browse the web site; however, you may lose some of the functionality provided by the use of cookies. Cookies tell us nothing about who you are unless you specifically give us personally identifiable information.<br>
+       Your Internet browser has a feature called "cookies" which may store small amounts of data on your computer about your visit to our site. 3Guppies and its agents may set and access 3Guppies cookies on your computer. When you interact with the site, we strive to make that experience easy and meaningful. When you come to the 3Guppies site, our web server uses cookies to improve your interaction with the site by, for example, remembering your preferences. We link the information we store in cookies to personally identifiable information you submit while on our site. As such, 3Guppies uses cookies to measure your behavior on the web site, to save personal settings on specific pages, to save your username and password so that 3Guppies can quickly log you in, to make sure you are who you say you are after you've logged in, and to identify the fact that you are a 3Guppies member or a prior visitor. If you disable their Web browsers' ability to accept cookies, you will still be able to browse the web site; however, you may lose some of the functionality provided by the use of cookies. Cookies tell us nothing about who you are unless you specifically give us personally identifiable information.<br>
        <br>
-       Mixxer allows other companies that are presenting advertisements on some of our pages to set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to Mixxer's cookies.<br>
+       3Guppies allows other companies that are presenting advertisements on some of our pages to set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to 3Guppies' cookies.<br>
        <br>
-       Mixxer uses web beacons to access our cookies within our network of web sites and in connection with Mixxer products and services.<br>
+       3Guppies uses web beacons to access our cookies within our network of web sites and in connection with 3Guppies products and services.<br>
        <br>
 	   <strong>Your Ability to Edit and Delete Your Account Information and Preferences</strong><br><br>
-	   You can change your profile at any time by logging into My Mixxer with your user name and password. Once you have logged in, you can change your cellular phone model, cellular carrier, adult status, preferences, email address, telephone number and password. Any errors that cannot be corrected through My Mixxer may be corrected by sending us a support request.<br>
+	   You can change your profile at any time by logging into My 3Guppies with your user name and password. Once you have logged in, you can change your cellular phone model, cellular carrier, adult status, preferences, email address, telephone number and password. Any errors that cannot be corrected through My 3Guppies may be corrected by sending us a support request.<br>
        <br>
-       We recognize that you may not want to receive offers or other information from Mixxer. At any time, you may request to discontinue receiving offers or other information from us by replying to the email or regular mail you receive from us and informing us of your request. You may also call customer service at 1-877-4MIXXER (1-877-464-9937) to opt-out. In any event, Mixxer retains the right to communicate with you on non-promotional matters such as the status or use of your account. If you do not wish to receive any communications from Mixxer, you can deactivate your account by contacting us at <a href="mailto:customer-support@mixxer.com">customer-support@mixxer.com</a>.<br>
+       We recognize that you may not want to receive offers or other information from 3Guppies. At any time, you may request to discontinue receiving offers or other information from us by replying to the email or regular mail you receive from us and informing us of your request. In any event, 3Guppies retains the right to communicate with you on non-promotional matters such as the status or use of your account. If you do not wish to receive any communications from 3Guppies, you can deactivate your account by contacting us at <a href="mailto:customer-support@support.3guppies.com">customer-support@support.3guppies.com</a>.<br>
        <br>
 	   <strong>Privacy of Children</strong><br><br>
-	   Mixxer is not directed to children under the age of 13 and do not permit registration by, and will not knowingly collect or use personally identifiable information from, anyone under 13 years of age. We require users to be at least 14 years of age to use the web site.<br>
+	   3Guppies is not directed to children under the age of 13 and do not permit registration by, and will not knowingly collect or use personally identifiable information from, anyone under 13 years of age. We require users to be at least 14 years of age to use the web site.<br>
        <br>
 	   <strong>Security</strong><br><br>
-	   The security of your personal information is important to us. Your Mixxer account information is password-protected for your privacy and security.  Further, when you enter sensitive information (such as credit card number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL).<br>
+	   The security of your personal information is important to us. Your 3Guppies account information is password-protected for your privacy and security.  Further, when you enter sensitive information (such as credit card number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL).<br>
        <br>
        We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.<br>
        <br>
-       If you have any questions about security on our Web site, you can send email us at <a href="mailto:customer-support@mixxer.com">customer-support@mixxer.com</a>.<br>
+       If you have any questions about security on our Web site, you can send email us at <a href="mailto:customer-support@support.3guppies.com">customer-support@support.3guppies.com</a>.<br>
        <br>
 	   <strong>Changes to this Privacy Policy</strong><br><br>
 	   We reserve the right to modify this privacy policy at any time, so please review it frequently.  If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.<br>
        <br>
 	   <strong>Questions or Suggestions</strong><br><br>
-	   If you have questions or suggestions, please send an email to <a href="mailto:termsofuse@mixxer.com">termsofuse@mixxer.com</a> or mail us at Mixxer, Inc., 100 S. King St, #320, Seattle, WA 98104.<br>
+	   If you have questions or suggestions, please send an email to <a href="mailto:termsofuse@fishtank.3guppies.com&#10;">termsofuse@fishtank.3guppies.com
+</a> or mail us at 3Guppies, Inc., 100 S. King St, #320, Seattle, WA 98104.<br>
        <br>
 	</div>
-</div>				</div> 
+</div>                </div> 
 			</td>
 			<!-- /END Main Content -->
 			
@@ -373,72 +234,99 @@ if( parm != null) s_eVar4 = parm;
 											<!-- ----------------------- LOGGED OUT USER MODULE ----------------------- -->
 <div id="userModule" class="sideBox" style="margin-bottom:2px;">
 	<div class="moduleHead"><span>Log In</span></div>
-	<div class="moduleBody">
-		<form style="margin: 0 6px 6px 6px;" action="/ringtones/module/Misc/action/Privacy" method="POST">
-			<h3>username:</h3>
-			<input style="margin:2px 0 8px 0; width:132px; border:1px solid #A0B4CC;" name="username" type="text" class="form-text-box" id="username"><br>
-			<h3>password:</h3>
-			<input style="margin:2px 0 8px 0; width:132px; border:1px solid #A0B4CC;" name="password" type="password" class="form-text-box" id="password"><br>
-			
-			
-			<script language="Javascript">
-			function validateLogin()
-			{
-				user = document.getElementById( 'username');
-				pwd = document.getElementById( 'password');
-				if( user.value == '' || pwd.value == '')
-				{
-					alert( 'You must enter a valid username and password to log in.');
-					if( user.value == '') user.focus();
-					else pwd.focus();
-					return false;
-				} else return true;
-			}
-			</script>
-			
-			<div class="textRight"><button type="submit" class="globalBtn grey" onclick="return validateLogin();">Log In</button></div>
-			<div style="margin-top:10px; text-align:center;">
-				Forget your <a href="http://www.mixxer.com/ringtones/module/User/action/Recover">password</a>?
+	<div class="moduleBody" style="padding-bottom: 5px;">
+        <form id="thg-sidebarLogin" action="/ringtones/module/Misc/action/Privacy" method="POST">
+            <div class="peekabooBugFix">
+                <h4 class="floatLeft" style="width: 118px;">Phone Number:</h4>
+                <span class="mxr-helpDialog" mxrhdcontext="['tr', 'bl']">
+                    <img src="http://cdn.3guppies.com/images/ui/icons/icon_help_blue.gif" border="0" class="mxr-hdImage floatLeft">
+                    <div id="thg-usernameDialog" class="mxr-hdContents" style="width: 200px; border: 1px solid #3CB4EC; background-color: white;">
+                        <!-- Help Popup -->
+                        
+                        <p><strong>Q:</strong> What happened to username?</p>
+                        <p><strong>A:</strong> It’s all about mobile! Isn’t it a whole lot easier to remember 
+                        your cell phone number? Don’t worry, we’ll never show your number to anyone, 
+                        promise! Instead, others will know you by the display name you chose.</p>
+                        
+                    </div>
+                </span>
+                <span class="clear"></span>
+            </div>
+            <!-- login logic handled in javascript/yui/threeg/form.js -->
+            <input id="thg-sidebarLoginPhone0" type="text" name="loginphone0" maxlength="3" class="textInput" style="width: 30px;">
+            <input id="thg-sidebarLoginPhone1" type="text" name="loginphone1" maxlength="3" class="textInput" style="width: 30px;">
+            <input id="thg-sidebarLoginPhone2" type="text" name="loginphone2" maxlength="4" class="textInput" style="width: 50px; margin-right: 0;">
+            <br>
+            <h4>Password:</h4>
+			<input id="thg-sidebarLoginPassword" name="password" type="password" class="textInput" style="width: 130px;">
+            <div class="textRight">
+               <button type="submit" class="globalBtn green">Log In</button>
+            </div>
+            <br>
+            <div style="text-align:center;">
+                <br>
+                <p>Need <a href="http://www.3guppies.com/ringtones/module/User/action/Recover">log in help</a>?</p>
 			</div>
-		</form>
+        </form>
 	</div>
 </div>
 
-<!-- ----------------------- New To Mixxer Module ----------------------- -->
-<div id="newToMixxer" class="sideBox">
+<!-- ----------------------- New To 3Guppies Module ----------------------- -->
+<div id="newTo3guppies" class="sideBox">
 	<div class="moduleBody">
-        
-        <h2 style="display: inline;"><a href="http://www.mixxer.com/ringtones/module/Checkout/action/RegisterStart">New to Mixxer?</a></h2>
-        
-        <!-- Teaser -->
-        <!--
-        <h2 style="display: inline;"><a href="http://www.mixxer.com/ringtones/module/Checkout/action/RegisterStart">New to <span style="text-decoration: line-through;">Mixxer</span>?</a></h2>
-        <div class="teaser">
-            <h2 style="display: inline; margin-left: 60px;"><a href="http://www.mixxer.com/ringtones/module/Checkout/action/RegisterStart">3Guppies?</a></h2>
-            <br />
-            <div class="textCenter bold" style="margin: 5px 0;">(btw - we're changing<br />our name!)</div>
-        </div>
-        -->
-        <!-- /teaser -->
-    
-		<p>You don’t have to register, but why not? Members get more - FREE!</p>
+		<a class="globalLink textCenter" href="http://www.3guppies.com/ringtones/module/Register">Members Get More</a>
+        <br>
 		<ul class="redArrow">
-			<li><strong>Find</strong> cool stuff for your cell phone </li>
-			<li><strong>Create</strong> your own ringtones and wallpaper</li>
-			<li><strong>Save</strong> files in a locker and access from your phone</li>
-			<li><strong>Message</strong> friends with pictures and video</li>
-			<li><strong>Mobilize it!</strong> Send media from MySpace to any cell phone</li>
+			<li>FREE mobile locker</li>
+			<li>Download ringtones and wallpaper</li>
+			<li>Share pics and video from your phone</li>
+			<li>Update friends with a mobile blog</li>
 		</ul>
-		<div class="textCenter"><a class="globalBtn red" style="width:100px; margin:10px auto 10px auto;" href="http://www.mixxer.com/ringtones/module/Checkout/action/RegisterStart">Join Now - FREE</a></div>
+		<a class="globalBtn green" style="margin: 10px auto 0 auto;" href="http://www.3guppies.com/ringtones/module/Register">Join - it's FREE »</a>
+		<br>
 	</div>
     </div>
+
+
+
+
+
+
+
+
+
+
 
 
 						
 					<!-- Logged In User Module -->
 										
 					<!-- My Phone Module -->
-								</div></td>
+											<!-- TEMP START phone_info.html.tpl -->
+
+<div id="myPhone" class="sideBox">
+    <div class="moduleHead"><span class="left">My Phone</span></div>
+    <div class="moduleBody" style="padding-top:0; font-weight:normal;">
+        <div class="deviceImage" onmouseover="mousePop('here',this,'mobilizeTooltip',50,30,'details','tip');" onmouseout="mousePop('hide',this,'mobilizeTooltip');" onclick="javascript:window.location='http://www.3guppies.com/cingular_cell_phones/motorola_c168i/1631';">
+            <h3>Motorola C168i</h3><br>
+            <img src="http://cdn.3guppies.com/images/gallery/devices/988f6a26222d98c817c8221031b2ffaf">
+        </div>
+        <ul class="compatList">
+            <strong>Compatible with:</strong><br>
+			<li class="yes"><a href="http://www.3guppies.com/ringtones/module/Help/action/Default/#glossary" title="see definition">Polyphonic Ringtones</a></li>
+			<li class="yes"><a href="http://www.3guppies.com/ringtones/module/Help/action/Default/#glossary" title="see definition">MP3 Ringtones</a></li>
+            <li class="yes">Pictures</li>
+            <li class="no">Videos</li>
+        </ul>
+        <h3 style="padding:0 5px 5px 5px; margin:0; font-size:11px;">
+            <a id="changePhone" href="http://www.3guppies.com/ringtones/module/User/action/Device">Change your phone »</a>
+        </h3>
+    </div>
+</div>
+
+<!-- TEMP END phone_info.html.tpl -->
+                                    </div>
+			</td>
 		</tr>
 		<!-- /END Sidebar Content -->
 		
@@ -448,13 +336,12 @@ if( parm != null) s_eVar4 = parm;
 			<td id="footerFramework" colspan="3">
 				<div id="footer">
 					<ul>
-						<li><a href="http://www.mixxer.com/intro">Intro</a></li>
-						<li><a href="http://www.mixxer.com/help#contact">Contact Us</a></li>
-						<li><a href="http://www.mixxer.com/ringtones/module/Misc/action/Tos">Terms of Use</a></li>
-						<li class="last"><a href="http://www.mixxer.com/ringtones/module/Misc/action/Privacy">Privacy Policy</a></li>
-					</ul>
+						<li><a href="http://www.3guppies.com/ringtones/module/Misc/action/Tos">Terms of Use</a></li>
+						<li><a href="http://www.3guppies.com/ringtones/module/Misc/action/Privacy">Privacy Policy</a></li>
+                                                <li class="last"><a href="http://www.3guppies.com/help">Help</a></li>
+                        					</ul>
 					<p>
-						© 2002-2006 by Mixxer, Inc. All logos and trademarks in this
+						© 2002-2007 by 3Guppies, Inc. All logos and trademarks in this
 						site are property of their respective owner.
 					</p>
 				</div>
@@ -462,38 +349,55 @@ if( parm != null) s_eVar4 = parm;
 		</tr>
 	</tbody></table>
 </div>
-<!-- /END Mixxer -->
+<!-- /END 3Guppies -->
 
 
-<script type="text/javascript">
-	ieupdate();
-	YUIEvent.addListener( window, 'unload', ieupdate_unload );
-</script>
-
+    
+    
 
 <!-- SiteCatalyst code version: G.7.Copyright 1997-2004 Omniture, Inc. More info available at http://www.omniture.com -->
 <script language="JavaScript">
-s_server="66.100.118.200";
-if (s_channel=="") s_channel="Misc";
-if (s_pageType=="") s_pageType="";
+// omniture variables are initialized in header.html.tpl
+// here, set defaults for any values that should not be empty btu were not set/altered in the page's template (since this file is included in the footer)
+// if this works, carry these changes over to omniture_live.js
+s_server="10.10.30.105";
+if(s_pageName=="") s_pageName="Misc:Privacy";
+if(s_channel=="") s_channel="Misc";
+if(s_hier1=="") s_hier1="Misc:Privacy";
+if(s_pageType=="") s_pageType="";
+if(s_pageName=="") s_pageName="Misc:Privacy";
+if(s_prop1=="") s_prop1="";
+if(s_prop2=="") s_prop2="";
+if(s_prop3=="") s_prop3="3Guppies";
+if(s_prop4=="") s_prop4="";
+if(s_prop5=="") s_prop5="";
+if(s_prop6=="") s_prop6="";
+if(s_prop7=="") s_prop7="";
+if(s_prop8=="") s_prop8="";
+if(s_prop9=="") s_prop9="";
+if(s_eVar1=="") s_eVar1="Anonymous";
+if(s_eVar2=="") s_eVar2="";
+if(s_eVar3=="") s_eVar3="";
+if(s_eVar4=="") s_eVar4="";
+if(s_eVar5=="") s_eVar5="";
+if(s_eVar8=="") s_eVar8="";
+if(s_state=="") s_state="";
+if(s_zip=="") s_zip="";
+if(s_events=="") s_events="";
+if(s_products=="") s_products="";
+if(s_purchaseID=="") s_purchaseID="";
 
-if (s_state=="") s_state="";
-if (s_zip=="") s_zip="";
-if (s_events == "") s_events = "";
-if (s_products == "") s_products = "";
-if (s_purchaseID=="") s_purchaseID="";
-if (s_eVar1=="") s_eVar1="Anonymous";
-if (s_eVar2="") s_eVar2="";  //SmartyFilter.cla
-/********** DO NOT ALTER ANYTHING ELSE BELOW THIS LINE! *************/var s_code=' '//--></script><script language="JavaScript" src="http://www.mixxer.com/javascript/s_code.js"></script>
+/********** DO NOT ALTER ANYTHING ELSE BELOW THIS LINE! *************/
+var s_code=' '//--></script><script language="JavaScript" src="http://cdn.3guppies.com/javascript/s_code.js"></script>
 <script language="JavaScript"><!--
 var s_wd=window,s_tm=new Date;if(s_code!=' '){s_code=s_dc(
 '3gupload');if(s_code)document.write(s_code)}else
-document.write('<im'+'g src="http://3gupload.112.2O7.net/b/ss/3gupload/1/G.7--FB/s'+s_tm.getTime()+'?[AQB]'
+document.write('<im'+'g src="http://analytics.3guppies.com/b/ss/3gupload/1/G.7--FB/s'+s_tm.getTime()+'?[AQB]'
 +'&j=1.0&[AQE]" height="1" width="1" border="0" alt="" />')
-//--></script><img src="http://3gupload.112.2O7.net/b/ss/3gupload/1/G.7--FB/s1580363373929?[AQB]&amp;j=1.0&amp;[AQE]" height="1" width="1" border="0" alt=""><script language="JavaScript"><!--
+//--></script><img src="http://analytics.3guppies.com/b/ss/3gupload/1/G.7--FB/s1580363373511?[AQB]&amp;j=1.0&amp;[AQE]" height="1" width="1" border="0" alt=""><script language="JavaScript"><!--
 if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
 //--></script><noscript><img
-src="http://3gupload.112.2O7.net/b/ss/3gupload/1/G.7--NS/0"
+src="http://analytics.3guppies.com/b/ss/3gupload/1/G.7--NS/0"
 height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 <!-- End SiteCatalyst code version: G.7. -->
 
