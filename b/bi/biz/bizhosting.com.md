@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bizhosting.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617034141id_/http%3A//www.bizhosting.com/fs_img/search/privacy-statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizhosting.com privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223155918id_/http%3A//www.bizhosting.com/fs_img/search/privacy-statement.htm) for the most accurate reproduction.*
 
 # Online Stores Made Easy - Bizhosting
 
