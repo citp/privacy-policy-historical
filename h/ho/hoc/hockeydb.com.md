@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hockeydb.com privacy policy that was archived on 2007-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070628155340id_/http%3A//hockeydb.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hockeydb.com privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223021736id_/http%3A//www.hockeydb.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy at the Internet Hockey Database
 
@@ -24,5 +24,5 @@ If you have any questions about your privacy, please contact us at [ralph.slate@
 
 * * *
 
-[Advertise](https://web.archive.org/web/20070628155340id_/http%3A//hockeydb.com/advertise.html) | [Feedback](https://web.archive.org/feedback.html) | [ Usage](https://web.archive.org/web/20070628155340id_/http%3A//hockeydb.com/copyright.html) | Privacy   
-[FAQ](https://web.archive.org/web/20070628155340id_/http%3A//hockeydb.com/faq.html) | [Links](https://web.archive.org/web/20070628155340id_/http%3A//hockeydb.com/links.html) | [Credits](https://web.archive.org/web/20070628155340id_/http%3A//hockeydb.com/credits.html) | [Help!](https://web.archive.org/web/20070628155340id_/http%3A//hockeydb.com/help.html)
+[Advertise](https://web.archive.org/web/20071223021736id_/http%3A//www.hockeydb.com/advertise.html) | [Feedback](https://web.archive.org/feedback.html) | [ Usage](https://web.archive.org/web/20071223021736id_/http%3A//www.hockeydb.com/copyright.html) | Privacy   
+[FAQ](https://web.archive.org/web/20071223021736id_/http%3A//www.hockeydb.com/faq.html) | [Links](https://web.archive.org/web/20071223021736id_/http%3A//www.hockeydb.com/links.html) | [Credits](https://web.archive.org/web/20071223021736id_/http%3A//www.hockeydb.com/credits.html) | [Help!](https://web.archive.org/web/20071223021736id_/http%3A//www.hockeydb.com/help.html)
