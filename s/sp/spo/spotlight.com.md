@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spotlight.com privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609041608id_/http%3A//www.spotlight.com/aboutus/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spotlight.com privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223134908id_/http%3A//www.spotlight.com/aboutus/privacy.html) for the most accurate reproduction.*
 
-# The Spotlight
+# Spotlight
 
 The Spotlight is committed to protecting the privacy of users of this website. This Privacy Policy sets out the type of information that we collect, what it is used for and the rights you have in relation to this information. By using this website you accept the terms of this Privacy Policy.
 
