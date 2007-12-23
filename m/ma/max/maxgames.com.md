@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maxgames.com privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608204753id_/http%3A//www.maxgames.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxgames.com privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223224828id_/http%3A//www.maxgames.com/policy.php) for the most accurate reproduction.*
 
 # Max Games : Free internet games to the Max
 
