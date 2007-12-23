@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlesmaker.com privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622195522id_/http%3A//www.articlesmaker.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlesmaker.com privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223023428id_/http%3A//www.articlesmaker.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - ArticlesMaker.com
 
@@ -21,8 +21,7 @@
   9. While your individual information is protected as outlined above, we reserve the right to use aggregated anonymous data about our users as a group for any business purpose, such as analyzing usage trends and seeking compatible advertisers and partners.
   10. ArticlesMaker.com is not intended for use by minors or children, especially those under age 18. No one under age 18 is allowed to provide any personal information or use our public discussion areas, forums and/or chats. Minors between the ages of 13 and 17 must get the permission of their parent(s) or legal guardians(s) before using our services, including registration and/or subscriptions to our services offered by this site.
   11. If your children disclose information about themselves in our public discussion areas, they may get unsolicited messages from other parties. ArticlesMaker.com cannot be held responsible for any action by your children while using our services, with or without your consents.
-  12. This is the website of ArticlesMaker.com. We can be reached via e-mail at **sreeprakash"at"articlesmaker.com**. The email address has been encoded as such for security reason. Please replace "at" with @.
+  12. This is the website of ArticlesMaker.com. We can be reached via e-mail at sreeprakash(at)articlesmaker.com. The email address has been encoded as such for security reason. Please replace (at) with @.
   13. This Privacy Policy may be modified from time to time without any prior notice to the visitors. Continued access of ArticlesMaker.com by you will constitute your acceptance of any changes or revisions to the Privacy Policy. It is the goal of ArticlesMaker.com to bring you information that is tailored to your individual needs and, at the same time, protect your privacy.
 
-  
 
