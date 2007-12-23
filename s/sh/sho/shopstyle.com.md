@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopstyle.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623022329id_/http%3A//www.shopstyle.com/page/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopstyle.com privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223143008id_/http%3A//www.shopstyle.com/page/Privacy) for the most accurate reproduction.*
 
 # ShopStyle: privacy policy
 
@@ -37,10 +37,10 @@ We also collect and use information for internal purposes. For example, if you a
 Many companies offer programs that help you to visit web sites anonymously. While ShopStyle will not be able to provide you with a personalized experience if we cannot recognize you, we want you to be aware that these programs are available. 
 
 E-mail Communications:   
-We may receive a confirmation when you open an e-mail from ShopStyle if your computer supports this type of program, in order to help us make e-mails more interesting and helpful. We may also send out emails with news or promotions. If you are a registered user of the ShopStyle's subscription based services and do not want to receive e-mail from us, please click unsubscribe on any email you receive from ShopStyle. You may also indicate that you do not wish to receive emails from Shopstyle by clicking Edit in the About Me section of My Stylebook and updating the email check boxes. 
+We may receive a confirmation when you open an e-mail from ShopStyle if your computer supports this type of program, in order to help us make e-mails more interesting and helpful. We may also send out emails with news or promotions. If you are a registered user of the ShopStyle's subscription based services and do not want to receive e-mail from us, please click unsubscribe on any email you receive from ShopStyle. You may also indicate that you do not wish to receive emails from ShopStyle by clicking Edit in the About Me section of My Stylebook and updating the email check boxes. 
 
 Information From Other Sources:   
-For purposes such as improving personalization of our service, we may receive information about you from other sources and add it to our account information. This may include details of the purchases (and any associated returns) you make at retailer's where you were referred by Shopstyle (excluding any credit card information). 
+For purposes such as improving personalization of our service, we may receive information about you from other sources and add it to our account information. This may include details of the purchases (and any associated returns) you make at retailer's where you were referred by ShopStyle (excluding any credit card information). 
 
 What about Cookies? 
 
@@ -61,7 +61,7 @@ Agents:
 We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you. Examples may include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, processing credit card payments, and providing customer service. We may also provide your personal information to agents who will use it to verify aggregate usage data that we provide to our partners. 
 
 Promotional Offers:   
-We may send offers to certain customers on behalf of other businesses. However, when we do so, we do not give the other business your name and address. If you are a registered user of the ShopStyle's subscription based services and do not wish to receive these offers, please click unsubscribe on any email you receive from ShopStyle. You may also indicate that you do not wish to receive emails from Shopstyle by clicking Edit in the About Me section of My Stylebook and updating the email check boxes. 
+We may send offers to certain customers on behalf of other businesses. However, when we do so, we do not give the other business your name and address. If you are a registered user of the ShopStyle's subscription based services and do not wish to receive these offers, please click unsubscribe on any email you receive from ShopStyle. You may also indicate that you do not wish to receive emails from ShopStyle by clicking Edit in the About Me section of My Stylebook and updating the email check boxes. 
 
 Business Transfers:   
 In some cases, we may choose to buy or sell assets or businesses. In these types of transactions, customer information is typically one of the business assets that are transferred. Moreover, if ShopStyle, or substantially all of its assets, were acquired, customer information would be one of the assets that are transferred. 
