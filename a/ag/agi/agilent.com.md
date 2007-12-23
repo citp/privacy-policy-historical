@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agilent.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624101758id_/http%3A//www.home.agilent.com/agilent/editorial.jspx%3Fpmode%3DPrivacy%26lc%3Deng%26cc%3DUS) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agilent.com privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223060343id_/http%3A//www.home.agilent.com/agilent/editorial.jspx%3Fpmode%3DPrivacy%26lc%3Deng%26cc%3DUS) for the most accurate reproduction.*
 
 # Agilent | Customer Privacy Statement
 
@@ -38,7 +38,7 @@ Your permission will always be secured first, should we ever decide to share you
 
 ## 3\. Onward Transfer
 
-Subject to your permission or as permitted by law, the personal information that you provide to us may be transferred within Agilent across state or country borders.  This may be done to consolidate data storage or to simplify the management of customer information. [](https://web.archive.org/web/20070624101758id_/http%3A//www.home.agilent.com/agilent/null)
+Subject to your permission or as permitted by law, the personal information that you provide to us may be transferred within Agilent across state or country borders.  This may be done to consolidate data storage or to simplify the management of customer information. [](https://web.archive.org/web/20071223060343id_/http%3A//www.home.agilent.com/agilent/null)
 
 ## 4\. Access and Accuracy
 
@@ -46,27 +46,27 @@ Agilent strives to keep your personal information accurate. We will provide you 
 
 ## 5\. Security
 
-Agilent is committed to ensuring the security of your personal information. To prevent unauthorized access or disclosure, maintain data accuracy, and ensure the appropriate use of personal information, we have put in place appropriate physical, electronic and managerial procedures to safeguard and secure it. [](https://web.archive.org/web/20070624101758id_/http%3A//www.home.agilent.com/agilent/null)
+Agilent is committed to ensuring the security of your personal information. To prevent unauthorized access or disclosure, maintain data accuracy, and ensure the appropriate use of personal information, we have put in place appropriate physical, electronic and managerial procedures to safeguard and secure it. [](https://web.archive.org/web/20071223060343id_/http%3A//www.home.agilent.com/agilent/null)
 
 ## 6\. Oversight/Enforcement
 
-Agilent participates in the Council of Better Business Bureau's BBBOnLine Privacy Program. This program officially applies to our U.S. and Canadian web sites, and we apply the same guidelines to our privacy program globally. Two integral parts of the BBBOnLine program are a third-party oversight function and a dispute resolution process. For further information please refer to the BBBOnLine website.  Agilent privacy practices are also self-certified as part of the U.S. Commerce Department's Safe Harbor Program. For more information please go to Safe Harbor Program website.  In addition, Agilent has an internal Global Customer Privacy Program. Its charter is to ensure appropriate privacy processes are in place in order to meet the practices outlined above. [](https://web.archive.org/web/20070624101758id_/http%3A//www.home.agilent.com/agilent/null)
+Agilent participates in the Council of Better Business Bureau's BBBOnLine Privacy Program. This program officially applies to our U.S. and Canadian web sites, and we apply the same guidelines to our privacy program globally. Two integral parts of the BBBOnLine program are a third-party oversight function and a dispute resolution process. For further information please refer to the BBBOnLine website.  Agilent privacy practices are also self-certified as part of the U.S. Commerce Department's Safe Harbor Program. For more information please go to Safe Harbor Program website.  In addition, Agilent has an internal Global Customer Privacy Program. Its charter is to ensure appropriate privacy processes are in place in order to meet the practices outlined above. [](https://web.archive.org/web/20071223060343id_/http%3A//www.home.agilent.com/agilent/null)
 
 ## 7\. Tailoring E-Mail Communications and Web Experiences
 
-On occasion Agilent may employ technologies that enable us to review which recipients have opened our e-mail communications and which links they have accessed in the message. This helps us to tailor our communications in our attempts to send you the most relevant information, as local laws and your preferences and permissions allow.  As a registered user, we may also monitor your web browsing session while you are logged-in to Agilent.com. In this way we will try to improve our web site through personalization to better meet your needs.  Any such monitoring is done in accordance with local laws. [](https://web.archive.org/web/20070624101758id_/http%3A//www.home.agilent.com/agilent/null)
+On occasion Agilent may employ technologies that enable us to review which recipients have opened our e-mail communications and which links they have accessed in the message. This helps us to tailor our communications in our attempts to send you the most relevant information, as local laws and your preferences and permissions allow.  As a registered user, we may also monitor your web browsing session while you are logged-in to Agilent.com. In this way we will try to improve our web site through personalization to better meet your needs.  Any such monitoring is done in accordance with local laws. [](https://web.archive.org/web/20071223060343id_/http%3A//www.home.agilent.com/agilent/null)
 
 ## 8\. How Agilent Uses Cookies
 
-A cookie is a piece of information either stored temporarily in your browser's memory space (session cookie) or placed on your computer's hard drive (stored cookie). Cookies allow a web application to respond to you as an individual, but without the need to identify you explicitly. Session cookies are destroyed when you terminate your browsing session by shutting down your browser. Stored cookies often have a predetermined expiration date after which they disappear from your hard drive. Cookies can be removed explicitly through functionality built into most web browsers. You may also set your web browser (e.g. Microsoft Internet Explorer or Netscape Navigator) to notify you of cookie placement requests, ask for permission to accept them, or decline cookies completely. [](https://web.archive.org/web/20070624101758id_/http%3A//www.home.agilent.com/agilent/null)
+A cookie is a piece of information either stored temporarily in your browser's memory space (session cookie) or placed on your computer's hard drive (stored cookie). Cookies allow a web application to respond to you as an individual, but without the need to identify you explicitly. Session cookies are destroyed when you terminate your browsing session by shutting down your browser. Stored cookies often have a predetermined expiration date after which they disappear from your hard drive. Cookies can be removed explicitly through functionality built into most web browsers. You may also set your web browser (e.g. Microsoft Internet Explorer or Netscape Navigator) to notify you of cookie placement requests, ask for permission to accept them, or decline cookies completely. [](https://web.archive.org/web/20071223060343id_/http%3A//www.home.agilent.com/agilent/null)
 
 ### Adjusting Browser Cookie Settings
 
 For information on how to adjust your browser regarding cookies, please visit:
 
-Microsoft Internet Explorer: [http://www.microsoft.com/info/cookies.htm](http://www.home.agilent.com/agilent/disclaimer.jspx?lc=eng&cc=US&exturl=http%3A%2F%2Fwww.microsoft.com%2Finfo%2Fcookies.htm&exttxt=http%3A%2F%2Fwww.microsoft.com%2Finfo%2Fcookies.htm)
+Microsoft Internet Explorer: [http://www.microsoft.com/info/cookies.htm](http://www.home.agilent.com/agilent/disclaimer.jspx?lc=eng&cc=US&exturl=http%3A%2F%2Fwww.microsoft.com%2Finfo%2Fcookies.htm&exttxt=http%253A%252F%252Fwww.microsoft.com%252Finfo%252Fcookies.htm%22%20target%20%3D%20%22_blank)
 
-Netscape Navigator: [http://wp.netscape.com/legal_notices/cookies.html](http://www.home.agilent.com/agilent/disclaimer.jspx?lc=eng&cc=US&exturl=http%3A%2F%2Fwp.netscape.com%2Flegal_notices%2Fcookies.html&exttxt=http%3A%2F%2Fwp.netscape.com%2Flegal_notices%2Fcookies.html)
+Netscape Navigator: [http://wp.netscape.com/legal_notices/cookies.html](http://www.home.agilent.com/agilent/disclaimer.jspx?lc=eng&cc=US&exturl=http%3A%2F%2Fwp.netscape.com%2Flegal_notices%2Fcookies.html&exttxt=http%253A%252F%252Fwp.netscape.com%252Flegal_notices%252Fcookies.html%22%20target%20%3D%20%22_blank)
 
 ### Cookie Usage
 
