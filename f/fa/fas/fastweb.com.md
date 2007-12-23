@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fastweb.com privacy policy that was archived on 2007-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070612030759id_/http%3A//www.fastweb.com/fastweb/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastweb.com privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223132213id_/http%3A//www.fastweb.com/fastweb/about/privacy) for the most accurate reproduction.*
 
 # FastWeb: Privacy Policy — Your Privacy Rights
 
@@ -22,7 +22,7 @@ Password: |
 |  |   
 | 
 
-[](https://web.archive.org/printer/about/privacy)
+[](https://web.archive.org/printer/about/privacy?)
 
   
 
@@ -88,7 +88,7 @@ If you have any questions about security issues at our site, please send an e-ma
 
   5. **HOW YOU CAN UPDATE YOUR INFORMATION**
 
-You can update your personal information by clicking [here](https://web.archive.org/fastweb/my/update/index?id=), by clicking on the "Update Profile" link on the FastWeb site, or by following the instructions included in any e-mail message you receive from FastWeb. Users who are experiencing problems with updating their information should contact us at [CustomerService@FastWeb.com](mailto:CustomerService@fastweb.com), and we will try to resolve your problems.
+You can update your personal information by clicking [here](https://web.archive.org/fastweb/my/update/index?), by clicking on the "Update Profile" link on the FastWeb site, or by following the instructions included in any e-mail message you receive from FastWeb. Users who are experiencing problems with updating their information should contact us at [CustomerService@FastWeb.com](mailto:CustomerService@fastweb.com), and we will try to resolve your problems.
 
   6. **OTHER PROVISIONS**
 
@@ -100,7 +100,7 @@ _Other_ \--In the event that FastWeb sells, assigns or transfers some or all of 
 
 _Links to Other Sites_ \--This site contains links to other sites. Please be aware that FastWeb does not exercise control over the information, products, services or policies of third party companies accessible through our site. We encourage our users to be aware when they leave our site and to read the privacy policies of each and every third party site. This Privacy Policy applies solely to the information collected by this site. 
 
-_Choice/Opt-out_ \--FastWeb users are given the opportunity to "opt-out" of having their information used for purposes not directly related to our site. You may opt-out from receiving specified types of communications from FastWeb by clicking [here](https://web.archive.org/fastweb/my/update/privacy?id=). FastWeb will only communicate with you according to your instructions. If you have any questions relating to opting-out, please contact us at [CustomerService@FastWeb.com](mailto:CustomerService@fastweb.com), and we will try to answer your questions. 
+_Choice/Opt-out_ \--FastWeb users are given the opportunity to "opt-out" of having their information used for purposes not directly related to our site. You may opt-out from receiving specified types of communications from FastWeb by clicking [here](https://web.archive.org/fastweb/my/update/privacy?). FastWeb will only communicate with you according to your instructions. If you have any questions relating to opting-out, please contact us at [CustomerService@FastWeb.com](mailto:CustomerService@fastweb.com), and we will try to answer your questions. 
 
 
 
