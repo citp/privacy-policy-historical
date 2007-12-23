@@ -1,8 +1,13 @@
-> *The following text is extracted and transformed from the ahm.com.au privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429021950id_/http%3A//www.ahm.com.au/content/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ahm.com.au privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223090430id_/http%3A//www.ahm.com.au/content/privacy.asp) for the most accurate reproduction.*
 
 # Health Insurance Australia - privacy policy
 
 ## Your privacy is important to us
+
+  * Privacy Policy
+  * Spam Policy
+
+
 
 Australian Health Management Group Limited (ahm) is subject to the Privacy Act 1988 and complies with the principles for handling your personal information. 
 
@@ -69,4 +74,36 @@ For further information about the contents of this statement, please contact us 
 
 Back to top
 
-**Last updated 14 February 2007**
+##  ahm Spam Policy
+
+## Australian Spam Legislation
+
+Australian Health Management Group Limited (ahm) is committed to only sending commercial electronic messages with consent and to complying with the Commonwealth Spam Act 2003. 
+
+## What is Spam?
+
+Spam is the common term for electronic ‘junk mail’ – unwanted commercial electronic messages. 
+
+## The Spam Act 2003
+
+The Spam Act 2003 provides the requirements for the sending of legitimate commercial electronic messages and prohibits the sending of unsolicited commercial electronic messages, whether by email, instant messaging, short messaging service (SMS), or multimedia messaging. 
+
+## Compliance
+
+ahm has educated its staff on the requirements of the legislation and implemented guidelines for sending commercial electronic messages. ahm also has good security practice measures in place to ensure that our system or network is not “spoofed” or used by others to send Spam and to deal with messages that are sent by mistake. 
+
+ahm does not use electronic address harvesting software or lists that have been generated using such software, in connection with sending unsolicited commercial electronic messages. 
+
+ahm will only send you electronic messages with your consent, including consent inferred from our existing relationship. For example, as a member of the fund, where we communicate with you in relation to your membership or benefits of the fund. 
+
+## Unsubscribing
+
+You are able to unsubscribe from any ahm mailing list. 
+
+You can request to be removed using the unsubscribe facility contained within each electronic communication. Alternatively, please email [info@ahm.com.au](mailto:info@ahm.com.au) or call ahm on 134 246 providing details of the communication which you no longer wish to receive and request to be removed from that mailing list. 
+
+If you have any questions about ahm and our compliance with the Spam Act, or if you want to report any suspected spamming activity, please contact us on 134 246 or [email us](mailto:info@ahm.com.au). We will investigate the matter promptly and advise you of the results. If you are unhappy with our response, you can lodge a complaint with the Australian Communications and Media Authority.
+
+Back to top
+
+**Last updated 03 October 2007**
