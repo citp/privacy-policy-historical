@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geneseo.edu privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629040716id_/http%3A//www.geneseo.edu/perspectives/%3Fpg%3Ddisclaimer.html%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geneseo.edu privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223202744id_/http%3A//www.geneseo.edu/perspectives/%3Fpg%3Ddisclaimer.html%23privacy) for the most accurate reproduction.*
 
 # SUNY Geneseo
 
