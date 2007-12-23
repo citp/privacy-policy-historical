@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bjp-online.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617210117id_/http%3A//www.incisivemedia.com/public/showPage.html%3Fpage%3D11526) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bjp-online.com privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223132027id_/http%3A//www.incisivemedia.com/public/showPage.html%3Fpage%3D11526) for the most accurate reproduction.*
 
-# Incisive Media Plc
+# Incisive Media - Privacy Policy
 
 **Information Collection and Use**  
 Incisive Media  is the sole owner of the information collected on this site. We will not sell, share, or rent this information to third parties in ways other than those disclosed in this policy. Incisive Media  collects information from our users at several different points on our websites. 
@@ -60,9 +60,3 @@ If we decide to change our privacy policy, we will seek to advise all users of t
 **Discussion boards:**
 
 While we take every precaution to ensure all contributions to discussion boards are factually correct, and not deemed to be untruthful, libellous, defamatory, racist or persecutory, these messages are entered by third parties. All users of the board are presented with a set of house rules before taking part. Our editor will monitor as much as possible and although all users of the site are entitled to their opinion, language on the boards must be clean - contributions containing sexual swear words and slander will be removed. Users will be warned if breaking the house rules. A user who consistently breaks the house rules will be barred from the discussion boards`. All users are reminded of copyright - Articles from other websites should be linked to rather than copied in full. Articles from within Incisive Media  publications/websites may be copied in their entirety for use on Incisive Media  discussion boards. Incisive Media  reserves the right to remove articles without notice or reason.
-
-  
-
-
-  
-
