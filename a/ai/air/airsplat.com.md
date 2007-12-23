@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the airsplat.com privacy policy that was archived on 2007-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070621152440id_/http%3A//www.airsplat.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airsplat.com privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223094150id_/http%3A//www.airsplat.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Airsoft Gun Warehouse - Nation's Largest AirSoft Guns Retailer - Great Deals and Sales on Air Soft, Soft Air, and Accessories
 
-| [](http://www.truste.org/ivalidate.php?url=www.airsplat.com&sealid=101) | Effective Date 10/01/2006  
+|  [](http://www.truste.org/ivalidate.php?url=www.airsplat.com&sealid=101) | Effective Date 10/01/2006  
 ---|---  
   
 * AirSplat is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy policy covers the site www.airsplat.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.   
