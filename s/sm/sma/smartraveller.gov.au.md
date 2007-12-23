@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the smartraveller.gov.au privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630125323id_/http%3A//www.dfat.gov.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartraveller.gov.au privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223031112id_/http%3A//www.dfat.gov.au/privacy.html) for the most accurate reproduction.*
 
-# Privacy - The Department - Australian Department of Foreign Affairs and Trade
+# Department of Foreign Affairs and Trade
 
-   
-
-Pages on the webservers dfat.gov.au, smartraveller.gov.au, passports.gov.au, foreignminister.gov.au, trademinister.gov.au, .asis.gov.au, and embassy.gov.au (including their sub-domains) conform to the following privacy guidelines:
+Pages on the webservers dfat.gov.au, smartraveller.gov.au, passports.gov.au, foreignminister.gov.au, trademinister.gov.au, asis.gov.au, and embassy.gov.au (including their sub-domains) conform to the following privacy guidelines:
 
 ## Http logs
 
