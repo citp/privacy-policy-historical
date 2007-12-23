@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the usagc.org privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626125532id_/http%3A//www.usagc.org/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usagc.org privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223020358id_/http%3A//www.usagc.org/privacy.aspx) for the most accurate reproduction.*
 
-# Green Card lottery Information and Registration Service
+# GreenCard Lottery Policy | Privacy Policy
 
 GREEN CARD LOTTERY  
 **Live, Work and Study in UNITED STATES OF AMERICA**
 
-[Click Here to Register Online !](https://web.archive.org/web/20070626125532id_/http%3A//www.usagc.org/step1.aspx)  
+[Click Here to Register Online !](https://web.archive.org/web/20071223020358id_/http%3A//www.usagc.org/step1.aspx)  
 WINNERS will get FREE Air Line Ticket to USA*
 
 PRIVACY POLICY AND STATEMENT OF www.usagc.org   
@@ -34,7 +34,7 @@ Surveys & Contests
 From time-to-time _USAGC Organization_ site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. 
 
 Emails  
-All emails sent to users adhere to the strict requirements of the CAN-SPAM Act. Email addresses are only obtained by a customer freely giving their email address. This registration process is understood by the USAGC Organization as a request for additional information about the service. Once a client has paid for the service, emails are sent to aid in the process of registration, by verifying that information has been correctly entered, photos have been successfully uploaded, and to update the client upon his registration status. Each time an email is sent, users have the ability to opt-out of the email subscription, by either clicking the 'unsubscribe' link provided at the bottom of each email, or by sending an email, fax or telephone request to the USAGC Organization. 
+All emails sent to users adhere to the strict requirements of the CAN-SPAM Act. Email addresses are only obtained by a customer freely giving their email address from clientâ€™s own free will ("Affirmative Consent"). This registration process is understood by the USAGC Organization as a request for additional information about the service. Once a client has paid for the service, emails are sent to aid in the process of registration, by verifying that information has been correctly entered, photos have been successfully uploaded, and to update the client upon his registration status. Each time an email is sent, users have the ability to opt-out of the email subscription, by either clicking the 'unsubscribe' link provided at the bottom of each email, or by sending an email, fax or telephone request to the USAGC Organization. 
 
 Tell-A-Friend  
 If a user elects to use _USAGC Organization_ referral service for informing a friend about this site, we ask them for the friend's name and email address. _USAGC Organization_ will automatically send the friend a one-time email inviting them to visit the site. . After the first email sent, additional emails will only be sent to the friend, if he chooses to register to the USAGC site of his own accord. The friend may contact _USAGC Organization_ at any time to request the removal of the information from the database. 
@@ -45,7 +45,9 @@ This website takes every precaution to protect users' information. When users su
 This is the official USAGC Organization web site, which specializes in the registration to the American Green Card Lottery program for clients all over the world. When registering with the USAGC Organization, users should take precaution that they do not register with any site that pretends to be the USAGC Organization. To verify that a registration is with the USAGC Organization, users should check that at the top of the browser it is written USAGC. 
 
 Special Offers  
-_USAGC Organization_ send all new members a welcoming email to verify password and username. Established members will occasionally receive information on services, special deals, and a newsletter. Out of respect for the privacy of our users _USAGC Organization_ present the option to not receive these types of communications. 
+_USAGC Organization_ send all new clients who registered on the site a welcoming email with information and invitation to register for the service.  
+_USAGC Organization_ send all new members a welcoming email to verify password and username. Established members will occasionally receive information on services, special deals, and a newsletter. Out of respect for the privacy of our users _USAGC Organization_ present the option to not receive these types of communications.  
+_USAGC Organization_ may send clients who registered on the site Special Offers of third parties. USAGC Organization may transfer the clientsâ€™ information to a third party for receiving Special Offers and/ or Commercial E-mails as long as the third party guarantees to protect and respect the CAN-SPAM Act. 
 
 Correction/Updating Personal Information:  
 If a user's personally identifiable information changes, or if a user no longer desires _USAGC Organization_ service, _USAGC Organization_ will endeavor to provide a way to correct, update or remove that user's personal data provided to _USAGC Organization_. This can usually be done at the member information page or by emailing _USAGC Organization_ Customer Support. 
@@ -53,4 +55,4 @@ If a user's personally identifiable information changes, or if a user no longer 
 Choice/Opt-out  
 USAGC Organization users have the ability to opt-out of receiving emails from the USAGC Organization. An opt-out request may be sent by email, telephone or fax, or by clicking the link provided at the bottom of each email sent to users. Should a user choose to opt-out of the email subscription, the USAGC Organization will honor the request and will not send additional emails. 
 
-Version 10.2 - Last updated November 2006 
+Version 10.3 - Last updated August 2007 
