@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the loopnet.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623171409id_/http%3A//www.loopnet.com/xNet/MainSite/Marketing/About/Privacy.aspx%3FLinkCode%3D830) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loopnet.com privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223180810id_/http%3A//www.loopnet.com/xNet/MainSite/Marketing/About/Privacy.aspx%3FLinkCode%3D830) for the most accurate reproduction.*
 
 # LoopNet - Privacy Policy
 
-Last Updated: March 22, 2007
+Last Updated: August 2, 2007
 
 LoopNet, Inc., and its website located at [http://www.loopnet.com](http://www.loopnet.com/), is a licensee of the TRUSTe Privacy Program. This statement discloses the privacy practices for the LoopNet web site. When you visit a web site displaying the TRUSTe trustmark, you can expect to be notified of the following information: 
 
@@ -67,6 +67,10 @@ If you select the "Remember Me" function on the web site, we will store a persis
 We do not store in persistent cookies any personally identifiable information you submit while on our site.
 
 Due to the functionality provided by our site, the use of cookies is required. If you reject cookies, our site will not perform properly.
+
+**Third-Party Advertising Companies**
+
+We use third-party advertising companies to serve ads when you visit our Web site. The third-party advertising technology that we use on this Web site uses information derived from your visits to this site to target advertising within this site. In addition, our advertisers may use other third-party advertising technology to target advertising on this site and other sites. In the course of advertisements being served to you, a unique third-party cookie or cookies may be placed your browser. In addition, we may use Web beacons, provided by third-party advertising companies, to help manage and optimize our online advertising. Web beacons enable us to recognize a browser's cookie when a browser visits this site, and to learn which banner ads bring users to our Web site. To "opt-out," please [click here](http://www.networkadvertising.org/consumer/opt_out.asp "click here") or visit <http://www.networkadvertising.org/consumer/opt_out.asp>.
 
 **Testimonials:**
 
