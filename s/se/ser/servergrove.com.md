@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the servergrove.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624092341id_/http%3A//www.servergrove.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the servergrove.com privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223043921id_/http%3A//www.servergrove.com/privacy.php) for the most accurate reproduction.*
 
 # Webhosting, hosting, email hosting and dedicated servers with ServerGrove Networks
 
@@ -26,8 +26,8 @@ Information about Users that is maintained on our systems is protected using ind
 
   
 **Questions**  
-Users may direct questions concerning this Privacy Policy by sending us an email using our [contact form](https://web.archive.org/web/20070624092341id_/http%3A//www.servergrove.com/contact.php) .  
+Users may direct questions concerning this Privacy Policy by sending us an email using our [contact form](https://web.archive.org/web/20071223043921id_/http%3A//www.servergrove.com/contact.php) .  
 ServerGrove may modify this privacy policy at any time without prior notice to ServerGrove's Customers or the public. Persons wishing to remain appraised of ServerGroves's privacy policy should check this page for occasional updates.
 
   
-Users may elect not to receive solicitations from ServerGrove or from trusted affiliates, independent contractors and business partners by by sending us an email using our [contact form](https://web.archive.org/web/20070624092341id_/http%3A//www.servergrove.com/contact.php) .
+Users may elect not to receive solicitations from ServerGrove or from trusted affiliates, independent contractors and business partners by by sending us an email using our [contact form](https://web.archive.org/web/20071223043921id_/http%3A//www.servergrove.com/contact.php) .
