@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bbtoystore.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629222305id_/http%3A//www.bbtoystore.com/store/CS_privacy.html%23privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbtoystore.com privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223123031id_/http%3A//www.bbtoystore.com/store/CS_privacy.html%23privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy: BBToyStore.com - Ty Beanie Babies, Webkinz, Yugioh Yu-gi-oh trading cards for sale buy sell plush
+# Privacy Policy: BBToyStore.com - Ty Beanie Babies, Webkinz, Yugioh Yu-Gi-Oh Pokemon trading cards for sale buy sell
 
 * * *
 
