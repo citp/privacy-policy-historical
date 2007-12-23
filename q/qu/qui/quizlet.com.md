@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quizlet.com privacy policy that was archived on 2007-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070218113936id_/http%3A//quizlet.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quizlet.com privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223091715id_/http%3A//quizlet.com/privacy) for the most accurate reproduction.*
 
 # Quizlet › Privacy Policy
 
