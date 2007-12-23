@@ -1,30 +1,30 @@
-> *The following text is extracted and transformed from the peacecorps.gov privacy policy that was archived on 2007-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070223232213id_/http%3A//www.peacecorps.gov/index.cfm%3Fshell%3Dpchq.Policies.general) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peacecorps.gov privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223085300id_/http%3A//www.peacecorps.gov/index.cfm%3Fshell%3Dpchq.Policies.general) for the most accurate reproduction.*
 
-# Peace Corps | Peace Corps HQ | Policies | General Policies
+# General Policies | Policies | Peace Corps HQ | Peace Corps
 
 Use of Links  
 Use of Text and Images  
 Accessibility  
 Website Privacy Policy  
-[Questions About Our Policies](https://web.archive.org/web/20070223232213id_/http%3A//www.peacecorps.gov/index.cfm?shell=#shell###Qs)
+[Questions About Our Policies](https://web.archive.org/web/20071223085300id_/http%3A//www.peacecorps.gov/index.cfm?shell=#shell###Qs)
 
-Use of Links
+### Use of Links
 
 Throughout our Web pages, we provide links to other servers which may contain information of interest to our readers. The Peace Corps takes no responsibility for, and exercises no control over, the organizations, views, or accuracy of the information contained on other servers.
 
 Creating a text link from your Web site to the Peace Corps Web site does not require permission. If you have a link you'd like us to consider adding to the Peace Corps Web site, please send e-mail to webmaster@peacecorps.gov with the subject "Link request."
 
-Using Text and Images
+### Using Text and Images
 
 If you would like to publish information that you find on the Peace Corps Web site, please send your request to webmaster@peacecorps.gov. Where text or images are posted on our site with the permission of the original copyright holder, a copyright statement appears at the bottom of the page.
 
 Information about using the Peace Corps logo and images is available in Media Resources. Peace Corps Web banner ads and buttons, along with instructions for their use, also are available.
 
-Accessibility
+### Accessibility
 
 This Web site is designed to be accessible to visitors with disabilities, and to comply with federal guidelines concerning accessibility. We welcome your comments. If you have suggestions on how to make the site more accessible, please contact us at [webmaster@peacecorps.gov](mailto:webmaster@peacecorps.gov). 
 
-Privacy Policy
+### Privacy Policy
 
 Peace Corps has created this statement in order to demonstrate our firm commitment to your privacy. The Peace Corps does not collect personally identifying information about you when you visit our site, unless you choose to provide such information to us. Providing such information is strictly voluntary. This policy is your guide to how the Peace Corps will handle information we learn about you from your visit to our Web site.
 
@@ -58,7 +58,7 @@ Our site provides users the opportunity to opt-out of receiving communications f
   
 
 
-Questions About Our Policies
+### Questions About Our Policies
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us at:
 
