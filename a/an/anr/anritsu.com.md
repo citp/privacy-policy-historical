@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the anritsu.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626174106id_/http%3A//www.anritsu.com/Policy/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anritsu.com privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223061917id_/http%3A//www.anritsu.com/Policy/privacy.asp) for the most accurate reproduction.*
 
 # Anritsu Group Privacy Policy:Anritsu Corporation
 
 |   
-| [](https://web.archive.org/index.asp) | [](https://web.archive.org/About.asp) | [](http://www.anritsu.co.jp/E/IR/) | [](https://web.archive.org/NewsEvents.asp) | [](https://web.archive.org/Products.asp) | [](https://web.archive.org/ShowRoom.asp) | [](https://web.archive.org/Contact.asp)  
----|---|---|---|---|---|---  
+| [](https://web.archive.org/index.asp) | [](https://web.archive.org/About.asp) | [](http://www.anritsu.co.jp/E/IR/) | [](https://web.archive.org/NewsEvents.asp) | [](https://web.archive.org/Products.asp) | [](https://web.archive.org/Contact.asp)  
+---|---|---|---|---|---  
 | 
 
 [HOME](https://web.archive.org/) > Privacy Policy  
