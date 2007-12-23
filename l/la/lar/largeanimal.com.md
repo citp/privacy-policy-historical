@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the largeanimal.com privacy policy that was archived on 2007-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070604070506id_/http%3A//www.largeanimal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the largeanimal.com privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223152927id_/http%3A//www.largeanimal.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Large Animal Games
 
@@ -52,6 +52,6 @@ If you have questions or suggestions, please contact us at info@largeanimal.com.
 
 Advertisement
 
-[](https://web.archive.org/games/deluxe/lego-bricktopia)  
+[](https://web.archive.org/games/deluxe/alphaqueue)  
   
 ---|---
