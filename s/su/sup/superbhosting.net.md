@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superbhosting.net privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623152503id_/http%3A//www.superbhosting.net/p-priv.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superbhosting.net privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223164350id_/http%3A//www.superbhosting.net/p-priv.php) for the most accurate reproduction.*
 
 # Web Hosting, Cheap Web Hosting, Dedicated Servers by Superbhosting.Net
 
