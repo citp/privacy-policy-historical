@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businesshighlight.org privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608161854id_/http%3A//www.businesshighlight.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businesshighlight.org privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223170759id_/http%3A//www.businesshighlight.org/privacy-policy) for the most accurate reproduction.*
 
 # Business Highlight
 
