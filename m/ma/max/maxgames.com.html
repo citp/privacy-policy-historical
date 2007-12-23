@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the maxgames.com privacy policy that was archived on 2007-06-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070608204753id_/http%3A//www.maxgames.com/policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the maxgames.com privacy policy that was archived on 2007-12-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071223224828id_/http%3A//www.maxgames.com/policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <title> Max Games : Free internet games to the Max</title>
@@ -26,6 +26,20 @@ A:visited {
 }
 A:hover {
 	COLOR: #FF0000; TEXT-DECORATION: underline
+}
+
+a.menulink{
+	COLOR: #000000;	font-size:10.6px;
+}
+a.menulink:active {
+	COLOR: #000000;
+	font-size:10.6px;
+}
+a.menulink:visited {
+	COLOR: #000000;	font-size:10.6px;
+}
+a.menulink:hover {
+	COLOR: #FF0000; TEXT-DECORATION: underline; font-size:10.6px;
 }
 
 .playgames {
@@ -86,6 +100,13 @@ A.gametitle1:hover {
 	color: #666666;
 	line-height: 20px;
 }
+.bold {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight:bold;
+	color: #000000;
+	line-height: 20px;
+}
 .text_new {
 	font-family: Verdana, Arial, Helvetica, sans-serif;
 	font-size: 9px;
@@ -109,7 +130,9 @@ A.urlimage:visited {
 	border: 1px solid #FF0000;
 	
 }
-
+.redTxt
+{ 	color:#FF0000;
+}
 -->
 </style>
 <script language="JavaScript" type="text/JavaScript">
@@ -145,6 +168,80 @@ function MM_swapImage() { //v3.0
 			if (document.all){	window.external.AddFavorite(bookmarkurl,bookmarktitle); }
 		}
 </script>
+       <script language="JavaScript">
+ 				function enable(groupdata,data)
+				{ 
+					document.getElementById(groupdata).style.display= "block";
+	 			}
+				function disable(groupdata,data)
+				{
+						document.getElementById(groupdata).style.display= "none";
+				}
+           function highlightCell(rowId) {    //rowId is element id of the row to highlight
+                document.getElementById(rowId).style.background = "ghostwhite";    //change 'ghostwhite' to the color you wish to be the highlight color
+            }
+            
+            function unHighlightCell(cellId) {    //rowId is element id of the row to highlight
+                document.getElementById(cellId).style.background = "ghostwhite";    //should match original tr.a backgound color
+            }
+            
+            function showActionMenu(anchorId, menuId) {     //anchorId is the id of the element that the menu should be anchored to, menuId is the id of the menu id
+                document.getElementById(menuId).style.top = getElementY(document.getElementById(anchorId)) + getElementHeight(document.getElementById(anchorId));   //set the top of the menu to the bottom of the anchor element
+                document.getElementById(menuId).style.left = getElementX(document.getElementById(anchorId)) + 5;    //set the left of the menu to 5px right of the left of the anchor element
+                document.getElementById(menuId).style.visibility = "visible";   //set the menu to visible
+            }
+
+            function hideActionMenu(anchorId, menuId) {     //anchorId is the id of the element that the menu should be anchored to, menuId is the id of the menu id
+                document.getElementById(menuId).style.visibility = "hidden";    //hide the menu
+				//alert('aaaaaaa');
+            }
+
+            function getElementY(element){  //returns the y or top of the element
+            	var targetTop = 0;
+            	if (element.offsetParent) {
+            		while (element.offsetParent) {
+            			targetTop += element.offsetTop;
+                        element = element.offsetParent;
+            		}
+            	} else if (element.y) {
+            		targetTop += element.y;
+                }
+            	return targetTop;
+            }
+
+            function getElementX(element){  //returns the x or left of the element
+            	var targetLeft = 0;
+            	if (element.offsetParent) {
+            		while (element.offsetParent) {
+            			targetLeft += element.offsetLeft;
+                        element = element.offsetParent;
+            		}
+            	} else if (element.x) {
+            		targetLeft += element.x;
+                }
+            	return targetLeft;
+            }
+
+            function getElementWidth(element){  //returns the width of the element
+            	var targetWidth = 0;
+            	if (element.offsetParent) {
+            		targetWidth += element.offsetWidth;
+            	} else if (element.width) {
+            		targetWidth += element.width;
+                }
+            	return targetWidth;
+            }
+
+            function getElementHeight(element){ //returns the height of the element
+            	var targetHeight = 0;
+            	if (element.offsetParent) {
+            		targetHeight += element.offsetHeight;
+            	} else if (element.height) {
+            		targetHeight += element.height;
+                }
+            	return targetHeight;
+            }
+        </script>
 </head>
 
 <body onload="MM_preloadImages('images/1_2_b.jpg','images/1_3_b.jpg','images/1_4_b.jpg');">
@@ -200,18 +297,46 @@ width=728 height=90 border=1></a></noscript>
 <!-- ValueClick Media 468x60 and 728x90 Banner CODE for maxgames.com --></div></td>
   </tr>
   <tr>
-    <td background="http://www.maxgames.com/images/red_bar_bg.jpg" class="sdate">&nbsp;&nbsp;08 Jun 2007 </td>
+    <td background="http://www.maxgames.com/images/red_bar_bg.jpg" class="sdate">&nbsp;&nbsp;23 Dec 2007 </td>
     <td background="http://www.maxgames.com/images/reb_br_bg_2.jpg"><img src="http://www.maxgames.com/images/reb_br.jpg" width="30" height="29"></td>
     <td colspan="2" background="http://www.maxgames.com/images/reb_br_bg_2.jpg" class="playgames">Play Games</td>
   </tr>
-  <tr bgcolor="#FFFFFF">
-    <td height="25" colspan="4" class="navigation"><div align="right">
-	<a href="http://www.maxgames.com/newgames.html">New Games</a>			| <a href="http://www.maxgames.com/toprated.html">Top Rated Games</a>			| <a href="http://www.maxgames.com/mostplayed.html">Most Played Games</a>	&nbsp;&nbsp;</div></td>
+  <tr bgcolor="#FFFFFF" valign="top">
+    <td height="40" colspan="4"><!--<div align="right">
+		&nbsp;&nbsp;</div> -->
+		<table width="100%"><tbody><tr valign="top"><td width="38%">
+			<table width="100%" cellpadding="1" cellspacing="0">
+			<tbody><tr class="navigation" valign="top">
+				<td width="25%"><a href="http://www.maxgames.com/newgames.html">New Games</a>&nbsp;&nbsp;&nbsp;&nbsp;| 
+				</td>
+				<!--<td align="center" width="2%">| </td>  -->
+				<td width="36%" align="left"><a id="lookup" href="http://www.maxgames.com/toprated.html" onmouseover="javascript:enable('drop', this);" onmouseout="javascript:disable('drop', this);">Top Rated Games</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 
+						<table style="display:none" id="drop" onmouseover="javascript:enable('drop', this);" onmouseout="javascript:disable('drop', this);" align="left">
+						<tbody><tr id="toprated" bgcolor="#FFFFFF" align="left">
+							<td align="left"><a href="http://www.maxgames.com/weeklytoprated.html">This Week</a> - <a href="http://www.maxgames.com/toprated.html">All Time</a></td>
+						</tr></tbody></table>
+						<!--<div id="drop"><a href="#">This Week - All Time</a></div>  -->
+				</td>
+				<!--<td align="center" width="2%">|</td>  -->
+				<td width="36%" height="20"><a id="lookup1" href="http://www.maxgames.com/mostplayed.html" onmouseover="javascript:enable('drop1', this);" onmouseout="javascript:disable('drop1', this);">Most Played Games</a>						<table style="display:none" id="drop1" onmouseover="javascript:enable('drop1', this);" onmouseout="javascript:disable('drop1', this);" align="left">
+						<tbody><tr id="mostplayed" bgcolor="#FFFFFF" align="left">
+							<td align="left"><a href="http://www.maxgames.com/weeklymostplayed.html">This Week</a> - <a href="http://www.maxgames.com/mostplayed.html">All Time</a></td>
+						</tr>
+						</tbody></table> 
+						<!--<div id="drop1" onmouseover="javascript:highlightCell('drop1');" onmouseout="javascript:unHighlightCell('drop1');"><a href="#">This Week - All Time</a></div> -->
+				</td>
+			</tr>
+			</tbody></table>
+		</td>
+		<td width="30%" align="right" class="navigation"><a href="http://www.maxgames.com/search.html">Search Games</a>
+				</td>
+		</tr></tbody></table>
+	</td>
   </tr>
   <tr bgcolor="#FFFFFF">
    <td colspan="4">
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
 	<tbody><tr valign="top">
 		<td>&nbsp;</td>
 		<td>
@@ -317,7 +442,7 @@ If you have any questions or wish to file a complaint, please feel free to e-mai
 </td>
   </tr>
   <tr bgcolor="#626466">
-    <td height="25" colspan="4" class="playgames">&nbsp;<a href="http://www.gamestudios.com/" class="playgames" target="_blank">Contact Us</a>  |  <a href="http://www.maxgames.com/faq.php" class="playgames">FAQ</a>  |  <a href="http://www.maxgames.com/policy.php" class="playgames">Privacy Policy</a></td>
+    <td height="25" colspan="4" class="playgames" align="right">&nbsp;<a href="http://www.gamestudios.com/" class="playgames" target="_blank">Contact Us</a>  |  <a href="http://www.maxgames.com/faq.php" class="playgames">FAQ</a>  |  <a href="http://www.maxgames.com/policy.php" class="playgames">Privacy Policy</a></td>
   </tr>
   
 </tbody></table>
