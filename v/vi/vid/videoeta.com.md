@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videoeta.com privacy policy that was archived on 2007-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070513061326id_/http%3A//videoeta.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videoeta.com privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223152906id_/http%3A//videoeta.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
@@ -19,11 +19,11 @@ From time to time, we may use customer information for new, unanticipated uses n
 
 If you have any additional questions about VideoETA's dedication to visitor privacy, please contact us at mail@videoeta.com.
 
-|  [](https://web.archive.org/movie.html?id=92062&ad=448)
+|  [](https://web.archive.org/movie.html?id=83552&ad=516)
 
-[**Memory**](https://web.archive.org/movie.html?id=92062&ad=448)   
-Coming May 22  
-[Remind me when it's released!](https://web.archive.org/reminder.html?id=92062)  
+[**Killer Diller**](https://web.archive.org/movie.html?id=83552&ad=516)   
+Coming Jan 15  
+[Remind me when it's released!](https://web.archive.org/reminder.html?id=83552)  
  
 
 [ **Put VideoETA release dates on your web site!**](https://web.archive.org/link.html)  
@@ -31,3 +31,5 @@ Coming May 22
 
 [ ](http://affiliates.allposters.com/link/redirect.asp?AID=304601&PSTID=1&LTID=13&LID=15)   
 
+
+[ ](http://www.jdoqocy.com/click-2487945-10511332)
