@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jacquielawson.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629054344id_/http%3A//www.jacquielawson.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jacquielawson.com privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223113756id_/http%3A//www.jacquielawson.com/privacy.asp) for the most accurate reproduction.*
 
 # Jacquie Lawson privacy policy, cookies, history & data information collected
 
@@ -12,21 +12,21 @@ We will not divulge any of this information to any third party now or at any tim
 
 ### Emails we may send you
 
-The following are the circumstances in which we will send you e-mails.
+The following are some of the circumstances in which we will send you e-mails.
 
-  * **Member Newsletters.** Approximately once a month we will send you an email detailing new e-card releases and new features of our website.  
+  * **Newsletters.** We will send you emails detailing new e-card releases and new features of our website.  
  
   * **Card Notifications.** When you order any e-cards from our site, we will email you to tell you when the cards have been sent, and also when they are picked up by the recipients. If a card cannot be delivered we will also send you the non-delivery notice.  
  
   * **Birthday Reminders.** If you enter the birthdates of your friends and family in your jacquielawson.com address book, then we will send you an email to remind you about each birthday.  
  
-  * **Renewal reminders.** When your membership is about to expire, we will send you a maximum of two renewal reminders. If you have selected auto-renew, we will automatically renew your membership. If you have not selected auto-renew and have not renewed after the second reminder, we will not trouble you again.  
+  * **Renewal reminders.** When your membership is about to expire, we will send you renewal reminders. If you have selected auto-renew, we will automatically renew your membership.  
  
   * **Administrative and help emails.** In addition, we will of course reply to your help requests, and we may send you miscellaneous administrative correspondence - password reminders, confirmation of payment, renewal confirmations, and so on. 
 
 
 
-You can opt not to receive from Member Newsletters and Card Notifications using the _My Details_ page of our website (you have to log on first). You can also cancel your membership at any time.
+From time to time, we may also send you important updates about our products and services. You can always opt not to receive non-Administrative emails by using the My Details page of our website (you have to log on first) or using the unsubscribe link at the bottom of emails. Please allow five to seven days for processing. You can also cancel your membership at any time.
 
 ### Cookies
 
