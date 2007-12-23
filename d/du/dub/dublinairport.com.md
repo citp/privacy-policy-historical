@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dublinairport.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623055610id_/http%3A//www.dublinairport.com/help/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dublinairport.com privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223104124id_/http%3A//www.dublinairport.com/help/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -28,7 +28,7 @@ Technical details in connection with visits to our websites are logged by our eC
 
 
 
-Some of the above information is used to create summary statistics, which allow us to measure the number of visitors to our sites, identify what pages are accessed most frequently and generally, help us to increase the usability and accessibility of our sites.   
+Some of the above information is used to create summary statistics, which allow us to measure the number of visitors to our sites, identify what pages are accessed most frequently and generally, help us to increase the usability and accessibility of our sites. We do not release any information or statistics to third-parties.   
 
 
 ### Glossary
@@ -56,8 +56,8 @@ If you wish to get more information on Dublin Airport Authority's Privacy policy
 Dublin Airport Authority  
 Dublin Airport  
 Co Dublin Ireland  
-Email: [webmaster@dublinairportauthority.com](mailto:webmaster@dublinairportauthority.com)
+Email: [webmaster-dublin@daa.ie](mailto:webmaster-dublin@daa.ied)
 
 * * *
 
-* * *
+[](http://www.needtransport.ie/ "ecl ad")
