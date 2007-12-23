@@ -1,294 +1,141 @@
-<!--The following is the downloaded HTML source of the dfat.gov.au privacy policy that was archived on 2007-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070630125323id_/http%3A//www.dfat.gov.au/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dfat.gov.au privacy policy that was archived on 2007-12-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071223031112id_/http%3A//www.dfat.gov.au/privacy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-<title>Privacy - The Department - Australian Department of Foreign Affairs and Trade</title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Department of Foreign Affairs and Trade</title>
 <link rel="schema.AGLS" href="http://www.agls.gov.au/rdf/1.2/agls.rdfs">
-<meta name="DC.Identifier" scheme="URI" content="http://www.dfat.gov.au/dept/index.html">
+<meta name="DC.Identifier" scheme="URI" content="http://www.dfat.gov.au/index.html">
+<meta name="DC.Date.modified" scheme="ISO8601" content="2007-11-22">
 <meta name="DC.Creator" content="corporateName= Department of Foreign Affairs and Trade" lang="en" xml:lang="en">
 <meta name="DC.Publisher" content="corporateName= Department of Foreign Affairs and Trade" lang="en" xml:lang="en">
-<meta name="DC.Rights" content="Copyright © Commonwealth of Australia 2000" lang="en" xml:lang="en">
-<meta name="DC.Title" content="The Department - About us - Australian Department of Foreign Affairs and Trade" lang="en" xml:lang="en">
+<meta name="DC.Rights" content="Copyright © Commonwealth of Australia" lang="en" xml:lang="en">
+<meta name="DC.Title" content="Australian Department of Foreign Affairs and Trade" lang="en" xml:lang="en">
 <meta name="DC.Subject" scheme="APAIS" content="international relations; international aid; trade regulations">
-<meta name="DC.Description" content="This is Australian Department of Foreign Affairs and Trade about us page" lang="en" xml:lang="en">
+<meta name="DC.Description" content="This is the Australian Department of Foreign Affairs and Trade website" lang="en" xml:lang="en">
 <meta name="DC.Language" scheme="RFC1766" content="en">
 <meta name="DC.Coverage.jurisdiction" content="Australia" lang="en" xml:lang="en">
-<meta name="AGLS.Function" scheme="AGIFT" content="Consular Services; Diplomatic missions; International affairs; international liaison; International treaty participation; Overseas promotion; Passport services; International trade agreements; Trade development programs; information dissemination">
+<meta name="AGLS.Function" scheme="AGIFT" content="Consular Services; Diplomatic missions; International affairs; international liaison; International treaty participation; Overseas promotion; Passport services; International trade agreements; Trade development programs; Treaty negotiations; information dissemination">
 <meta name="DC.Date.created" scheme="ISO8601" content="2000-11-22">
 <meta name="DC.Type.aggregationLevel" content="Collection" lang="en" xml:lang="en">
 <meta name="DC.Format" scheme="IMT" content="text/html">
-<meta name="revisit-after" content="2 Days">
+<meta name="revisit-after" content="1 Days">
 <meta name="Robot" content="ALL">
 <meta name="rating" content="General">
-<link href="/dept/layout_dept.css" rel="stylesheet" type="text/css" media="screen">
-<link href="layout_print.css" rel="stylesheet" type="text/css" media="print">
-<link href="core_style.css" rel="stylesheet" type="text/css">
-<link rel="alternate stylesheet" type="text/css" href="/css/small.css" title="small size">
-<link rel="alternate stylesheet" type="text/css" href="/css/large.css" title="large size" disabled="">
-<link rel="alternate stylesheet" type="text/css" href="/css/default.css" title="default size" disabled="">
-
-
-
-<script>
-
-
-function createCookie(name,value,days) {
-if (days) {
-var date = new Date();
-date.setTime(date.getTime()+(days*24*60*60*1000));
-var expires = "; expires="+date.toGMTString();
-} else expires = "";
-document.cookie = name+"="+value+expires+"; path=/";
-}
-function readCookie(name) {
-var param = "";
-var nameEQ = name + "=";
-var ca = document.cookie.split(';');
-for(var i=0;i < ca.length;i++) {
-var c = ca[i];
-while (c.charAt(0)==' ') c = c.substring(1,c.length);
-if (c.indexOf(nameEQ) == 0) {
-return c.substring(nameEQ.length,c.length);
-}
-}
-return null;
-}
-
-window.onload = function(e) {
-
-var sizeTitle = readCookie("size")
-title = sizeTitle ? sizeTitle : getPreferredStyleSheet();
-setActiveStyleSheet(title,"size");
-}
-window.onunload = function(e) {
-var title = getActiveStyleSheet("size");
-createCookie("size", title, 365);
-
-}
-function setActiveStyleSheet(title, type) {
-var i, a, main;
-for(i=0; (a = document.getElementsByTagName("link")[i]); i++) {
-if(a.getAttribute("title") && a.getAttribute("title").indexOf(type) != -1 ) {
-a.disabled = true;
-if(a.getAttribute("title") == title)
-a.disabled = false;
-}
-}
-}
-function getActiveStyleSheet(type) {
-var i, a;
-var holdstr = "";
-for(i=0; (a = document.getElementsByTagName("link")[i]); i++) {
-if(a.getAttribute("title") && a.getAttribute("title").indexOf(type) != -1 && !a.disabled) {
-holdstr = holdstr == "" ? a.getAttribute("title") : a.getAttribute("title") + "," + holdstr;
-}
-}
-return holdstr;
-}
-function getPreferredStyleSheet() {
-var i, a;
-for(i=0; (a = document.getElementsByTagName("link")[i]); i++) {
-if(a.getAttribute("title") && a.getAttribute("rel").indexOf("style") != -1) {
-return a.getAttribute("title");
-}
-}
-return null;
-}
-
-
-function getLocationSvr() {
-var location = new String(window.location);
-var index = location.indexOf("/",8);
-return (location.substr(0,index));
-}
-function getLocation() {
-var location = new String(window.location);
-var index = location.lastIndexOf("/");
-return (location.substr(0,index));
-}
-function getLocationTrailing() {
-var location = new String(window.location);
-var index = location.lastIndexOf("?");
-if (index != -1) {
-return (location.substr(index));
-}
-index = location.lastIndexOf(".htm");
-if (index != -1) {
-return (location.substr(index));
-}
-return "";
-}
-function openSite(linkId, baseurl) {
-if (baseurl=="") {
-var newLocation = getLocation() + "/"+linkId +"home" + getLocationTrailing();
-window.location = newLocation;
-} else {
-var newLocation = baseurl + "/"+linkId +"/home" + getLocationTrailing();
-window.location = newLocation;
-}
-}
-function search(resultsid) {
-var srcValS = "";
-var srcValE = "";
-var location = new String(window.location);
-var index = location.indexOf(".nsf");
-srcValS = getLocationSvr()+"/postweb/postwebpub.nsf/PersonLookupiframe?OpenAgent&"
-srcValE = "bsls&" + document.forms['sbx'].sbxQuery.value;
-if (index != -1) {
-srcValE = srcValE + "&notes";
-} else {
-srcValE = srcValE + "&file";
-}
-srcValE = srcValE + "&divSearch&" + resultsid;
-document.getElementById("iframe").src = srcValS + escape(srcValE);
-document.getElementById(resultsid).innerHTML = '<h1>Search Results for \"' + document.forms['sbx'].sbxQuery.value + '\"</h1><hr> Searching ... ';
-}
-function clearSearch() {
-var searchField = document.forms['sbx'].sbxQuery;
-if(searchField.value == "Search")
-searchField.value = "";
-}
-
-
-</script>
-
+<link href="/css/style.css" rel="stylesheet" type="text/css" media="screen">
+<link href="/css/print.css" rel="stylesheet" type="text/css" media="print">
+<link href="/handheld.css" rel="stylesheet" type="text/css" media="handheld">
 </head>
-<body>
-      
-      <div id="crest">
-<a id="clickable" href="/index.html" title="homepage"></a>
-  
-  <h1>About the Department of Foreign Affairs and Trade</h1>
-  
-
-  <div id="dfat-title"><a href="/" title="Homepage">Australian Government</a>
-    <div id="title-line"><a href="/" title="Homepage">Department of Foreign Affairs and Trade</a></div>
-  </div>
-  <div id="topelements">
-    
-      
-    
-              <div id="searchbox">
-	    <form name="sbx" method="get" action="/search" enctype="application/x-www-form-urlencoded" class="form">
-               <input id="sbxQuery" type="text" size="25" maxlength="200" tabindex="26" name="query_and" class="inputfield" title="[Search input box: Enter your search phrase here]. Access key = s" value="Enter your search phrase here" onfocus="this.value='';" onblur="if (this.value == '' ) this.value='Enter your search phrase here';"> 
-	       <input type="submit" value="Search" class="gobutton" title="Start the search" onclick="if (document.sbx.sbxQuery.value == 'Enter your search phrase here' ) document.sbx.sbxQuery.value=''; return true ;">
-               <input type="hidden" name="showContext" value="0">
-             </form>
-	  </div>
-
-    <a href="#content">Skip to content</a>
-  </div>
-  <div id="advancing">
-    <div id="standard_elements">
-      <ul>
-        <li> <a href="/dept/" class="navmenu">About us</a></li>
-        <li><a href="/jobs/index.html" class="navmenu">Jobs</a></li>
-		<li><a href="/historical/foi.html" class="navmenu">FOI</a></li>
-        <li><a href="/tenders/" class="navmenu">Tenders</a></li>
-        <li> <a href="/contacts.html" class="navmenu">Contact us</a> </li>
-      </ul>
+<body class="threecol-wrap">
+<div id="container">
+   <div id="header">
+  <a id="clickable" href="/index.html" title="homepage"></a>
+    <h1><a href="/" title="Homepage">Department of Foreign Affairs and Trade</a></h1>
+    <div id="dfat-title"><a href="/" title="Homepage">Australian Government</a>
+      <div id="title-line"><a href="/" title="Homepage">Department of Foreign Affairs and Trade</a></div>
     </div>
+    <div id="topelements"> <a href="#content" tabindex="1">Skip to content</a> </div>
+    <div id="advancing">
+      <div id="standard_elements">
+        <ul>
+          <li><a href="/dept/index.html" class="navmenu">About us</a></li>
+          <li><a href="/jobs/index.html" class="navmenu">Jobs</a></li>
+          <li><a href="/contacts.html" class="navmenu">Contact us</a></li>
+          <li><a href="/directory.html" class="navmenu">Site index</a></li>
+          <li> <a href="/feedback.html" class="navmenu">Site feedback</a> </li>
+        </ul>
+      </div>
+    </div>
+    <!-- end #header -->
   </div>
-  <div id="sbnavigation">
-    <div style="background-color:white">
-  <div class="navigation_holder">
-    <h2>Navigation</h2>
+    <div id="sidebar1">
+    <div id="search-box">
+      <div id="searchbox">
+        <form name="sbx" method="get" action="/search" enctype="application/x-www-form-urlencoded" class="form">
+          <input id="sbxQuery" type="text" size="20" maxlength="200" tabindex="26" name="query_and" class="inputfield" title="[Search input box: ]. Access key = s" value="" onfocus="this.value='';" onblur="if (this.value == '' ) this.value='';">
+          <input type="submit" value="Search" class="gobutton" title="Start the search" onclick="if (document.sbx.sbxQuery.value == '' ) document.sbx.sbxQuery.value=''; return true ;">
+          <input type="hidden" name="showContext" value="0">
+        </form>
+      </div>
+    </div>
     <ul>
       <li> <a href="/minister/" accesskey="1" title="PC users: ALT-1 -- Mac users: Ctrl-1">Ministers</a></li>
-      <li> <a href="/globalissues/" accesskey="2" title="PC users: ALT-2 -- Mac users: Ctrl-2">Global Issues</a></li>
+      <li> <a href="/globalissues/" accesskey="2" title="PC users: ALT-2 -- Mac users: Ctrl-2">International Issues</a></li>
       <li> <a href="/trade/" accesskey="3" title="PC users: ALT-3 -- Mac users: Ctrl-3">Trade Policy</a></li>
       <li> <a href="/geo/" accesskey="4" title="PC users: ALT-4 -- Mac users: Ctrl-4">Country information</a></li>
-      <li> <a href="/geo/australia/" accesskey="5" title="PC users: ALT-5 -- Mac users: Ctrl-5">About Australia</a></li>
-      <li> <a href="/embassies.html" accesskey="6" title="PC users: ALT-6 -- Mac users: Ctrl-6">Embassies and Consulates</a></li>
-      <li> <a href="/publications/" accesskey="7" title="PC users: ALT-7 -- Mac users: Ctrl-7">Publications</a></li>
-      <li> <a href="/index.html" accesskey="h" title="PC users: ALT-h -- Mac users: Ctrl-h">Home</a></li>
+      <li> <a href="/embassies.html" accesskey="5" title="PC users: ALT-5 -- Mac users: Ctrl-5">Embassies</a></li>
+      <li><a href="/agency_links.html" accesskey="8" title="PC users: ALT-8 -- Mac users: Ctrl-8">Portfolio agencies</a></li>
+	  <li><a href="/index.html" accesskey="9" title="PC users: ALT-9 -- Mac users: Ctrl-9">Home</a></li>
     </ul>
-  </div>
-  <h3>Travel</h3>
-  <div class="navigation_holder">
+    <div id="travel">Travel</div>
     <ul>
       <li> <a href="http://www.smartraveller.gov.au/" accesskey="t" title="PC users: ALT-t -- Mac users: Ctrl-t">Travel advice</a></li>
       <li> <a href="https://www.passports.gov.au/" accesskey="p" title="PC users: ALT-p -- Mac users: Ctrl-p">Passports</a></li>
     </ul>
-  </div>
-  <h3>Portfolio websites</h3>
-  <div class="navigation_holder">
-    <ul>
-      <li><a href="http://www.smartraveller.gov.au/">Smartraveller</a></li>
-      <li><a href="https://www.passports.gov.au/">Passport Office</a></li>
-      <li><a href="http://www.aciar.gov.au/">ACIAR</a></li>
-      <li><a href="http://www.asno.dfat.gov.au/">ASNO</a></li>
-      <li><a href="http://www.ausaid.gov.au/">AusAID</a></li>
-      <li><a href="http://www.austrade.gov.au/">Austrade</a></li>
-      <li><a href="http://www.efic.gov.au/">EFIC</a></li>
-      <li><a href="http://www.asis.gov.au/">ASIS</a></li>
-    </ul>
-  </div>
-  <h3>Site tools </h3>
-  <div class="navigation_holder">
-    <ul>
-      <li><a href="/media/" accesskey="8" title="PC users: ALT-8 -- Mac users: Ctrl-8">Media</a></li>
-      <li><a href="/trade/services_to_business.html" accesskey="b" title="PC users: ALT-b -- Mac users: Ctrl-b">Business Gateway </a></li>
-      <li><a href="https://www.dfat.gov.au/feedback.html" accesskey="f" title="PC users: ALT-f -- Mac users: Ctrl-f">Site Feedback </a></li>
-      <li><a href="/directory.html" accesskey="d" title="PC users: ALT-d -- Mac users: Ctrl-d">Site Index </a></li>
-    </ul>
-  </div>
-  <div>
     
+    <div id="spec-day"></div>
+	<ul>
+	   <li id="natday">  
+	     
 
-<p class="natday">Today is <a class="natmenu" href="/geo/congo_dr/">The Democratic Republic of the Congo</a> Independence Day</p>
+
+<p>Today is <a id="natmenu" href="/geo/japan/">Japan</a> Emperor's Birthday Day</p>
 
 
 
-    &nbsp; </div>
-</div>
-
-    <a name="content" id="content"></a> 
+	   </li>
+	</ul>
+	
   </div>
-</div> 
- 
+<a name="content" id="content"></a> 
+  <div id="sidebar2">   <a href="#" onclick="setActiveStyleSheet('small size','size'); return false;"><img src="/images/small.gif" alt="small text" width="17" height="17" border="0"></a>&nbsp; <a href="#" onclick="setActiveStyleSheet('default size','size'); return false;"><img src="/images/default.gif" alt="default text" width="20" height="20" border="0"></a>&nbsp; <a href="#" onclick="setActiveStyleSheet('large size','size'); return false;"><img src="/images/larger.gif" alt="larger text" width="24" height="24" border="0"></a></div>
+  <div id="mainContent">
 
- 
-
-<div class="mainbody">
-  <div class="tworightpic">  <a href="#" onclick="setActiveStyleSheet('small size','size'); return false;"><img src="/images/small.gif" alt="small text" width="17" height="17" border="0"></a>&nbsp;
-<a href="#" onclick="setActiveStyleSheet('default size','size'); return false;"><img src="/images/default.gif" alt="default text" width="20" height="20" border="0"></a>&nbsp;
-<a href="#" onclick="setActiveStyleSheet('large size','size'); return false;"><img src="/images/larger.gif" alt="larger text" width="24" height="24" border="0"></a></div><h1>Privacy</h1>
-  <p>Pages on the webservers dfat.gov.au, smartraveller.gov.au, passports.gov.au, foreignminister.gov.au, trademinister.gov.au, .asis.gov.au, and embassy.gov.au (including their sub-domains) conform to the following privacy guidelines:</p>
-  <h2>Http logs</h2>
-  <p>We collect clickstream data in our  logs. These logs are used internally to better develop the site and allow us to report on site activity. They are not used for any other purpose. When you visit this web site, we make a record of your visit and log the following information for statistical purposes:</p>
-  <ul>
-    <li>the user's server address, </li>
-    <li> the user's top level domain name (for example .com, .gov, .au, .uk etc), </li>
-    <li> the date and time of visit to the site, </li>
-    <li> the pages accessed and documents downloaded, </li>
-  </ul>
-  <p>No attempt will be made to identify users or their browsing activities except, in the  event of an investigation, in which a law enforcement agency may exercise a warrant to inspect the logs.</p>
-  <h2>Forms</h2>
-  <p>If you use forms on the site to provide information, subscribe to lists, register travel details or purchase publications, the information you provide is not retained on the public web server and will not be used for other purposes.</p>
-  <p> Information we collect complies with the <a href="http://www.privacy.gov.au/publications/ipps.html">Information Privacy Principles</a> under the Privacy Act 1988.</p>
-  <p>Your information will only be used for the purpose for which it was provided. We will not  add you to other mailing lists unless that is the purpose of the message. We will not use your e-mail address for any other purpose and will not disclose it without your consent. We do not redistribute your information except for the following circumstances:</p>
-  <p>(a) you have consented to use of the information for another purpose;</p>
-  <p>(b) we believe on reasonable grounds that use of the information for another purpose is necessary to prevent or lessen a serious and imminent threat to the life or health of the individual concerned or another person;</p>
-  <p>(c) use of the information for that other purpose is required or authorised by or under law;</p>
-  <p>(d) use of the information for that other purpose is reasonably necessary for enforcement of the criminal law or of a law imposing a pecuniary penalty, or for the protection of the public revenue; or</p>
-  <p>(e) the purpose for which the information is used is directly related to the purpose for which the information was obtained.</p>
-  <p>Passport forms are secured using 40 or 128 bit certificates depending on your browser.</p>
-  <h2>Cookies</h2>
-  <p> A cookie is a small file that is sent to your web browser from a web server and stored on your computer's hard drive. Cookies  set by our pages are only valid during the session.</p>
-  <p>The staff  managing these websites are subject to the <a href="http://www.austlii.edu.au/au/legis/cth/consol_act/pa1988108/"><em>Commonwealth Privacy Act 1988</em></a>.</p>
-  <p>&nbsp;</p>
-  <p class="smltxt">Updated June 2007</p>
-<div id="footer">  <hr>
-   <p class="smltxt">Department of Foreign Affairs and Trade</p> 
-  <p class="smltxt">R.G. Casey Building, John McEwen Crescent, Barton, ACT, 0221 Australia. Tel: +61 2 6261 1111 Fax: +61 2 6261 3111</p> 
-  <p class="smltxt">Australian Offices: <a href="/sydney/index.html">New South Wales</a>, <a href="/darwin/index.html">Northern Territory</a>, <a href="/brisbane/index.html"> Queensland</a>, <a href="/adelaide/index.html">South Australia</a>, <a href="/hobart/index.html"> Tasmania</a>, <a href="http://www.victoria.dfat.gov.au/index.html">Victoria,</a>  <a href="http://www.wa.dfat.gov.au">Western Australia</a></p>
-  <p class="smltxt">International Offices: <a href="/missions/">Embassies, High Commissions, Consulates, Multilateral Missions and Representative Offices</a></p>
-    <p class="smltxt">ABN 47 065 634 525</p> 
-  	<p class="smltxt"><a href="http://www.dfat.gov.au/copyright.html">Copyright</a> 
-    | <a href="http://www.dfat.gov.au/disclaim.html">Disclaimer</a> 
-    | <a href="http://www.dfat.gov.au/privacy.html">Privacy</a></p>
-</div>
+    <h1>Privacy</h1>
+    <p>Pages on the webservers dfat.gov.au, smartraveller.gov.au, passports.gov.au, foreignminister.gov.au, trademinister.gov.au, asis.gov.au, and embassy.gov.au (including their sub-domains) conform to the following privacy guidelines:</p>
+    <h2>Http logs</h2>
+    <p>We collect clickstream data in our  logs. These logs are used internally to better develop the site and allow us to report on site activity. They are not used for any other purpose. When you visit this web site, we make a record of your visit and log the following information for statistical purposes:</p>
+    <ul>
+      <li>the user's server address, </li>
+      <li> the user's top level domain name (for example .com, .gov, .au, .uk etc), </li>
+      <li> the date and time of visit to the site, </li>
+      <li> the pages accessed and documents downloaded, </li>
+    </ul>
+    <p>No attempt will be made to identify users or their browsing activities except, in the  event of an investigation, in which a law enforcement agency may exercise a warrant to inspect the logs.</p>
+    <h2>Forms</h2>
+    <p>If you use forms on the site to provide information, subscribe to lists, register travel details or purchase publications, the information you provide is not retained on the public web server and will not be used for other purposes.</p>
+    <p> Information we collect complies with the <a href="http://www.privacy.gov.au/publications/ipps.html">Information Privacy Principles</a> under the Privacy Act 1988.</p>
+    <p>Your information will only be used for the purpose for which it was provided. We will not  add you to other mailing lists unless that is the purpose of the message. We will not use your e-mail address for any other purpose and will not disclose it without your consent. We do not redistribute your information except for the following circumstances:</p>
+    <p>(a) you have consented to use of the information for another purpose;</p>
+    <p>(b) we believe on reasonable grounds that use of the information for another purpose is necessary to prevent or lessen a serious and imminent threat to the life or health of the individual concerned or another person;</p>
+    <p>(c) use of the information for that other purpose is required or authorised by or under law;</p>
+    <p>(d) use of the information for that other purpose is reasonably necessary for enforcement of the criminal law or of a law imposing a pecuniary penalty, or for the protection of the public revenue; or</p>
+    <p>(e) the purpose for which the information is used is directly related to the purpose for which the information was obtained.</p>
+    <p>Passport forms are secured using 40 or 128 bit certificates depending on your browser.</p>
+    <h2>Cookies</h2>
+    <p> A cookie is a small file that is sent to your web browser from a web server and stored on your computer's hard drive. Cookies  set by our pages are only valid during the session.</p>
+    <p>The staff  managing these websites are subject to the <a href="http://www.austlii.edu.au/au/legis/cth/consol_act/pa1988108/"><em>Commonwealth Privacy Act 1988</em></a>.</p>
+    <p class="smltxt">Updated June 2007</p>
+    <!-- end #mainContent -->
+  </div>
+  <!-- This clearing element should immediately follow the #mainContent div in order to force the #container div to contain all child floats -->
+  <br class="clearfloat">
+  <div id="footer">
+     <p class="smltxt">Department of Foreign Affairs and Trade -  Advancing the interests of Australia and Australians internationally.<br>
+R.G. Casey Building, John McEwen Crescent, Barton, ACT, 0221 Australia. Tel: +61 2 6261 1111 Fax: +61 2 6261 3111<br>
+Australian Offices: <a href="/sydney/index.html">New South Wales</a>, <a href="/darwin/index.html">Northern Territory</a>, <a href="/brisbane/index.html"> Queensland</a>, <a href="/adelaide/index.html">South Australia</a>, <a href="/hobart/index.html"> Tasmania</a>, <a href="http://www.victoria.dfat.gov.au/index.html">Victoria,</a>  <a href="http://www.wa.dfat.gov.au">Western Australia</a><br>
+International Offices: <a href="/missions/">Embassies, High Commissions, Consulates, Multilateral Missions and Representative Offices</a><br>
+ABN 47 065 634 525<br>
+<a href="http://www.dfat.gov.au/copyright.html">Copyright</a> | <a href="http://www.dfat.gov.au/disclaim.html">Disclaimer</a> | <a href="http://www.dfat.gov.au/privacy.html">Privacy</a></p>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-473074-1";
+urchinTracker();
+</script>
+    <!-- end #footer -->
+  </div>
+  <!-- end #container -->
 </div>
 
 
