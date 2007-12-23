@@ -1,0 +1,11 @@
+> *The following text is extracted and transformed from the tvosz.com privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223044807id_/http%3A//www.tvosz.com/privacy.php) for the most accurate reproduction.*
+
+# Tvosz.com
+
+Protecting the privacy of all of our users ("Users", "you" or "your") is a dedicated commitment of Tvosz.com and all of the services brought to you by Tvosz.com (collectively, "Tvosz.com", "us" or "we"). This Privacy Policy ("Privacy Policy"), applies to all URLs and services provided under the Tvosz.com name and in connection with the Tvosz.com marks. It explains how Tvosz.com treats personal information that we collect and receive on the Tvosz.com website from our users and visitors. 
+
+Personal information is information about you that is not otherwise available to the public. As the words imply, this information personally identifies you. Personal information may include, but is not limited to, your name, location, e-mail address, birth date, or other identifying information. 
+
+Tvosz.com has established two (2) different ways to register for an account on Tvosz.com and uses one (1) sign-in procedure which, in conjunction with this Privacy Policy, helps ensure and maximize the privacy of information provided to Tvosz.com by its visitors and members. The data we collect during each of the two registration procedures and throughout the Tvosz.com website is explained below.
+
+You should be aware that this Privacy Policy applies ONLY to the Tvosz.com website, the Tvosz.com URLs, and the services and features provided by Tvosz.com. This Privacy Policy does not apply to websites that you visit before or after us, to the other third party services featured on the Tvosz.com site, or to third party advertisers or affiliates (collectively, "Third Party Services"). Please be sure to familiarize yourself with all of these Third Party Servicesâ€™ privacy policies. For your convenience ONLY, we have listed links to third party privacy policies for some of the parties that we do business with. However, not all Third Party Services may be listed. 
