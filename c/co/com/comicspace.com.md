@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comicspace.com privacy policy that was archived on 2007-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070605182454id_/http%3A//www.comicspace.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comicspace.com privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223063013id_/http%3A//www.comicspace.com/privacy.php) for the most accurate reproduction.*
 
 # ComicSpace - Privacy Policy
 
@@ -24,7 +24,7 @@ The information collected by ComicSpace.com is used to...
 
 The information collected by ComicSpace.com is NOT shared with other organizations.
 
-###  ComicSpace Account 
+### ComicSpace Account 
 
 When you sign up for a free ComicSpace account, your email address will be recorded and stored in the ComicSpace.com database. Sign up is completely optional, and does not happen automatically. Your email address will be recorded ONLY if you fill out and submit the [Sign Up](https://web.archive.org/register.php) form.
 
