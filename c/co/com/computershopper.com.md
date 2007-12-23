@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the computershopper.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629231834id_/http%3A//computershopper.com/more/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the computershopper.com privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223102251id_/http%3A//computershopper.com/more/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Statement - Computer Shopper
 
@@ -84,25 +84,6 @@ None of the Web sites within our network is directed towards children under the 
 
 Questions regarding this privacy statement or any other aspects of our network of Web sites should be sent via e-mail below or to our corporate offices at **SX2 Media Labs 460 Park Avenue South, 9th Floor, New York, NY 10016** , Attention: **Chief Strategy Officer**. We read every message submitted and try to reply promptly to every one. We may also file your comments to improve the Web site, or review and discard the information. **info@sx2medialabs.com**
 
-This privacy statement was last modified on March 28, 2006 and is effective immediately. 
-
-  
-  
-  
-  
-  
-
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+This privacy statement was last modified on March 28, 2006 and is effective immediately.   
   
 ---|---
