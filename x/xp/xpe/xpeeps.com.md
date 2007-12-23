@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the xpeeps.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629122816id_/http%3A//www.xpeeps.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xpeeps.com privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223172050id_/http%3A//www.xpeeps.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Notice :: xPeeps.com
+# Privacy Notice - xPeeps.com
 
-**xPeeps, Inc.** (�xPeeps�) recognizes that its customers, visitors, users, and others who use [www.xPeeps.com](http://www.xpeeps.com/) or other web sites owned or operated by xPeeps (the �xPeeps Sites�) (collectively or individually �Users�) value their privacy. This Privacy Notice details important information regarding the use and disclosure of User information collected on the xPeeps Sites. xPeeps provides this Privacy Notice to help you make an informed decision about whether to use or to continue using the xPeeps Sites.
+**xPeeps, Inc.** ("xPeeps") recognizes that its customers, visitors, users, and others who use [www.xPeeps.com](http://www.xpeeps.com/) or other web sites owned or operated by xPeeps (the "xPeeps Sites") (collectively or individually "Users") value their privacy. This Privacy Notice details important information regarding the use and disclosure of User information collected on the xPeeps Sites. xPeeps provides this Privacy Notice to help you make an informed decision about whether to use or to continue using the xPeeps Sites.
 
 This Privacy Notice is incorporated into and is subject to the [xPeeps Terms of Use](http://www.xpeeps.com/tos.php). Your use of the xPeeps Sites and any personal information you provide on the xPeeps Sites remains subject to the terms of this Privacy Notice and our [Terms of Use](http://www.xpeeps.com/tos.php).
 
@@ -12,16 +12,16 @@ Please note that any video, image, or other content posted at the direction of U
 
 **User Provided Information:** You provide certain personally identifiable information (such as your name and email address) to xPeeps when choosing to participate in various activities on the xPeeps Sites such as: uploading videos, posting messages in our forums or in the video comments section, entering contests or sweepstakes, taking advantage of promotions, responding to surveys, or subscribing to newsletters or to other mailing lists.
 
-  * **Cookies Information:** When you visit the xPeeps Sites, we may send one or more cookies � a small text file containing a string of alphanumeric characters � to your computer that uniquely identifies your browser. xPeeps uses both session cookies and persistent cookies. A persistent cookie remains after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser help file directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the xPeeps Sites may not function properly if the ability to accept cookies is disabled. 
-  * **Log File Information:** When you use the xPeeps Sites, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol (�IP�) address, browser type, browser language, referring / exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and one or more cookies that may uniquely identify your browser. 
-  * **Clear Gifs Information:** When you use the xPeeps Sites, we may employ �clear gifs� (a.k.a. Web Beacons) which are used to track the online usage patterns of our Users anonymously (i.e., in a non-personally-identifiable manner). In addition, we may also use clear gifs in HTML-based emails sent to our Users to track which emails are opened by recipients 
+  * **Cookies Information:** When you visit the xPeeps Sites, we may send one or more cookies &ndash a small text file containing a string of alphanumeric characters &ndash to your computer that uniquely identifies your browser. xPeeps uses both session cookies and persistent cookies. A persistent cookie remains after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser help file directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the xPeeps Sites may not function properly if the ability to accept cookies is disabled. 
+  * **Log File Information:** When you use the xPeeps Sites, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, browser language, referring / exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and one or more cookies that may uniquely identify your browser. 
+  * **Clear Gifs Information:** When you use the xPeeps Sites, we may employ "clear gifs" (a.k.a. Web Beacons) which are used to track the online usage patterns of our Users anonymously (i.e., in a non-personally-identifiable manner). In addition, we may also use clear gifs in HTML-based emails sent to our Users to track which emails are opened by recipients 
 
 
 
 ### The Way xPeeps Retains Information
 
-  * To preserve the integrity of website databases xPeeps�s procedure is to retain information submitted by members for an indefinite length of time. By submitting information to xPeeps you are consenting to allow xPeeps to store that information indefinitely. 
-  * If required by law, such as the Children�s Online Privacy Protection Act (COPPA,) xPeeps will scramble and/or encrypt that information to make it unrecognizable. xPeeps will also respond to written member requests to scramble account information. If you wish to make such a request, contact the xPeeps Policy Manager. You will be required to verify your identity to complete this process. 
+  * To preserve the integrity of website databases xPeeps’s procedure is to retain information submitted by members for an indefinite length of time. By submitting information to xPeeps you are consenting to allow xPeeps to store that information indefinitely. 
+  * If required by law, such as the Children’s Online Privacy Protection Act (COPPA,) xPeeps will scramble and/or encrypt that information to make it unrecognizable. xPeeps will also respond to written member requests to scramble account information. If you wish to make such a request, contact the xPeeps Policy Manager. You will be required to verify your identity to complete this process. 
 
 
 
@@ -59,7 +59,7 @@ xPeeps allows other companies, called third-party ad servers or ad networks, to 
 
 xPeeps does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. However, please note that if an advertiser asks xPeeps to show an advertisement to a certain audience (for example, men ages 18-34) or audience segment (for example, men ages 18-24 who have viewed certain channels of content) and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach.
 
-You should consult the respective privacy policies of these third-party ad servers or ad networks. xPeeps�s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+You should consult the respective privacy policies of these third-party ad servers or ad networks. xPeeps’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
 Currently, xPeeps has relationships with the following third-party ad servers or ad networks: 
 
@@ -84,7 +84,7 @@ The xPeeps Sites are hosted in the United States and are intended for and direct
 
 ### In the Event of Merger, Sale, or Bankruptcy
 
-In the event that xPeeps is acquired by or merged with a third party entity, we reserve the right, in any of these circumstances, to transfer or to assign the information we have collected from our Users as part of such merger, acquisition, sale, or other change of control. In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors� rights generally, we may not be able to control how your personal information is treated, transferred, or used.
+In the event that xPeeps is acquired by or merged with a third party entity, we reserve the right, in any of these circumstances, to transfer or to assign the information we have collected from our Users as part of such merger, acquisition, sale, or other change of control. In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors’ rights generally, we may not be able to control how your personal information is treated, transferred, or used.
 
 ### Changes and updates to this Privacy Notice
 
