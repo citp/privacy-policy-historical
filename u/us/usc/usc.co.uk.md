@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usc.co.uk privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623175834id_/http%3A//www.usc.co.uk/shop/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usc.co.uk privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223182450id_/http%3A//www.usc.co.uk/shop/privacy_policy) for the most accurate reproduction.*
 
 # USC Fashion & Designer Clothes for Men & Women
 
