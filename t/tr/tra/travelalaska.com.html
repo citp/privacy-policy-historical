@@ -1,13 +1,17 @@
-<!--The following is the downloaded HTML source of the travelalaska.com privacy policy that was archived on 2007-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070624005411id_/http%3A//www.travelalaska.com/Contact/Privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the travelalaska.com privacy policy that was archived on 2007-12-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071223090710id_/http%3A//www.travelalaska.com/Contact/Privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"><html><head>
+    
+	<link rel="shortcut icon" href="/images/favicon.ico">
+	<link rel="stylesheet" href="/_css/fontsM.css" type="text/css">
+	<link rel="alternate stylesheet" href="/_css/fontsS.css" type="text/css" title="Small" disabled="">
+	<link rel="alternate stylesheet" href="/_css/fontsL.css" type="text/css" title="Large" disabled="">
 		
-	<link rel="SHORTCUT ICON" href="/images/favicon.ico">
-	<link rel="stylesheet" href="/images/fontsM.css" type="text/css">
-	<link rel="alternate stylesheet" href="/images/fontsS.css" type="text/css" title="Small" disabled="">
-	<link rel="alternate stylesheet" href="/images/fontsL.css" type="text/css" title="Large" disabled="">
-    <title>Travel Alaska - Privacy Policy &nbsp;</title>
+	<link rel="StyleSheet" href="/_css/Layout.css" type="text/css" media="screen">
+		
+    <link rel="stylesheet" type="text/css" media="print" href="/_css/print.css">
+    <title>Travel Alaska - Privacy Policy</title>
     <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
     <meta content="Microsoft Visual Studio 7.0" name="GENERATOR">
     <meta name="verify-v1" content="E9XOvuEne/7IH+UwNq7uvaDUg3segQypXTKwnolP/+s=">
@@ -17,10 +21,6 @@
     <meta content="JavaScript" name="vs_defaultClientScript">
     <meta content="http://schemas.microsoft.com/intellisense/ie5" name="vs_targetSchema">
 	<script type="text/javascript" src="/scripts/styleswitcher.js"></script>
-		
-	<link rel="StyleSheet" href="/scripts/Layout.css" type="text/css" media="screen">
-		
-    <link rel="stylesheet" type="text/css" media="print" href="/scripts/print.css">
 	    <style type="text/css">
 		<!--
 		#SecondaryNavHead {
@@ -57,35 +57,46 @@
 		}
 		-->
 	</style>
-	</head>
-	<body onload="init();">
-	
+    
+
+    <link rel="stylesheet" type="text/css" href="/_css/Layout_masterpage_overrides.css">
+</head>
+<body onload="init();">
+    
+    
 <script language="Javascript">
 function init() 
 		{
 			
 		}
 </script>
-	
+
 <script language="Javascript">
-	var image_index = 0;
+	var skin_index = 0;
 	var interval = 8; // delay between rotating images (in seconds)
 	interval *= 1000;	
 		function RotateImages()
 		{
-			image_list = new Array();
-			image_list[0] = "sunfoot";
-			image_list[1] = "fishermantoplane";
-			image_list[2] = "moosepond";
-			image_list[3] = "swim";
-			var number_of_images = image_list.length - 1;
-			image_index = image_index+1;
-			PreloadImages(image_list, number_of_images)
-			if (image_index > number_of_images) image_index = 0;
-			document["navImage"].src = "images/skins/"+image_list[image_index]+"/l1nav.jpg";
-			document["topImage"].src = "images/skins/"+image_list[image_index]+"/l1top.jpg";
-			document["titleImage"].src = "images/skins/"+image_list[image_index]+"/l1title.jpg";
-			document["spacerImage"].src = "images/skins/"+image_list[image_index]+"/l1titlespacer.jpg";
+		    var skin_count = 5;
+			var skins = new Array();
+			for (var i=0; i<skin_count; i++) 
+			{
+			    skins[i] = new Array();
+			}
+			skins[0][0] = "city_at_night";   skins[0][1] = 590;
+			skins[1][0] = "elk";       skins[1][1] = 591;
+			skins[2][0] = "kid_and_puppies";    skins[2][1] = 592;
+			skins[3][0] = "plane";    skins[3][1] = 593;
+			skins[4][0] = "sun_clouds";      skins[4][1] = 594;
+			var number_of_skins = skins.length - 1;
+			PreloadImages(skins, number_of_skins)
+			document["navImage"].src = "images/skins/"+skins[skin_index][0]+"/l1nav.jpg";
+			document["topImage"].src = "images/skins/"+skins[skin_index][0]+"/l1top.jpg";
+			document["titleImage"].src = "images/skins/"+skins[skin_index][0]+"/l1title.jpg";
+			document["spacerImage"].src = "images/skins/"+skins[skin_index][0]+"/l1titlespacer.jpg";
+			document.getElementById("hourglass").firstChild.href = '/Gallery/PostcardViewer.aspx?SkinID='+skins[skin_index][1];
+			skin_index = skin_index+1;
+			if (skin_index > number_of_skins) skin_index = 0;
 			var recur_call = "init()";
 			setTimeout(recur_call, interval);
 		}
@@ -95,7 +106,7 @@ function init()
 			this.image_item.src = image_location;
 		}
 		function rotateImages() {
-		var new_folder_no = "1";
+		var new_folder_no = "0";
 		//document["navImage"].src = new_image;
 		alert (new_folder_no);
 		//var recur_call = "rotateImage()";
@@ -103,47 +114,57 @@ function init()
 		}
 		function getNextFolder() {
 
-		image_index = (image_index+1) ;
-		return(image_index);
+		    var skin_index = (skin_index+1) ;
+		    return  (skin_index);
 		}
-		function PreloadImages(image_list, number_of_images)
+		function PreloadImages(skins, number_of_skins)
 		{
-			image_indexa=0;
+			var index=0;
 			navImagea = new Array();
 			topImagea = new Array();
 			titleImagea = new Array();
 			spacerImagea = new Array();
-			while (image_indexa < number_of_images)
+			while (index < number_of_skins)
 			{
-				navImagea[image_indexa] = new Image(160,300); 
-				navImagea[image_indexa].src = "images/skins/"+image_list[image_indexa]+"/l1nav.jpg";
-				topImagea[image_indexa] = new Image(569,249); 
-				topImagea[image_indexa].src = "images/skins/"+image_list[image_indexa]+"/l1top.jpg";
-				titleImagea[image_indexa] = new Image(439,50); 
-				titleImagea[image_indexa].src = "images/skins/"+image_list[image_indexa]+"/l1title.jpg";
-				spacerImagea[image_indexa] = new Image(129,50); 
-				spacerImagea[image_indexa].src = "images/skins/"+image_list[image_indexa]+"/l1titlespacer.jpg";
-				image_indexa = image_indexa +1;
+				navImagea[index] = new Image(160,300); 
+				navImagea[index].src = "images/skins/"+skins[index][0]+"/l1nav.jpg";
+				topImagea[index] = new Image(569,249); 
+				topImagea[index].src = "images/skins/"+skins[index][0]+"/l1top.jpg";
+				titleImagea[index] = new Image(439,50); 
+				titleImagea[index].src = "images/skins/"+skins[index][0]+"/l1title.jpg";
+				spacerImagea[index] = new Image(129,50); 
+				spacerImagea[index].src = "images/skins/"+skins[index][0]+"/l1titlespacer.jpg";
+				index = index +1;
 			}
 		}		
 </script>
+
 <div id="header">
-	<div id="logo"><a href="/index.aspx"><img src="/images/icons/alaska.gif" border="0"></a></div>
-	<div id="myAlaska">
+	<div id="logo"><a href="/index.aspx"><img src="/images/icons/alaska.gif" border="0" align="top"></a></div>
+	<div id="headerRight">
+ 	 <div id="myAKtext">
+ 	    <font size="1" color="#0000a0" face="Arial"><span id="MyAKInfo" style="display: none">
+ 	        What is My Alaska Trip? - It allows you to collect information from throughout<br>
+            the site to create a customized trip planner for your visit to Alaska.
+        </span></font>
+     </div>
+	 <div id="myAlaska">
 		<div id="MyAlaskaBG2">»</div>
-		<div id="MyAlaskaBG1"><span onmouseover="MyAKInfo.style.display=''" onmouseout="MyAKInfo.style.display='none'"><a href="/MyAlaska/index.aspx" class="MyAK">My 
+		<div id="MyAlaskaBG1"><span onmouseover="MyAKInfo.style.display='inline'" onmouseout="MyAKInfo.style.display='none'"><a href="/MyAlaska/index.aspx" class="MyAK">My 
 					Alaska Trip</a></span></div>
-		<div id="fontsize"><span class="fontpickerS">Font:</span><a href="javascript:setActiveStyleSheet('default');" class="fontpickerS">S</a><a href="javascript:setActiveStyleSheet('Medium');" class="fontpickerM">
-				M</a><a href="javascript:setActiveStyleSheet('Large');" class="fontpickerL"> L</a>&nbsp;</div>
+		<div id="fontsize">
+		    <span class="fontpickerS">Font:</span>
+		    <a href="javascript:setActiveStyleSheet('default');" class="fontpickerS">S</a>
+		    <a href="javascript:setActiveStyleSheet('Medium');" class="fontpickerM">M</a>
+		    <a href="javascript:setActiveStyleSheet('Large');" class="fontpickerL"> L</a>		    
+		    		    
+		</div>
+	 </div>
 	</div>
-	<div id="myAKtext"><font size="1" color="#0000a0" face="Arial"><span id="MyAKInfo" style="DISPLAY: none">What 
-    is My Alaska Trip? - It allows you to collect information from throughout<br>
-    the site to create a customized trip planner for your visit to Alaska.</span></font></div>
 </div>
 <div id="clear"></div>
-
 	<div id="wrapper">
-	
+	    
 	<div id="LeftColumn">
     <div id="Nav"><img src="/images/skins/sockfeet/l2nav.jpg" style="z-index:-1" name="navImage"><div id="navItems"><p class="PrimaryNavHead">Explore Alaska</p>
         <p><a href="/Maps/index.aspx" class="nav"><img src="/images/icons/orange-arrow.gif" border="0" width="7" height="9" alt="">&nbsp;Maps 
@@ -187,6 +208,7 @@ function init()
 	<input type="hidden" name="client" value="TravelAlaska">
 	<input type="hidden" name="proxystylesheet" value="TravelAlaska">
 	<input type="hidden" name="output" value="xml_no_dtd"></form></div>
+
 	<p><a href="/Activities/Adventure/index.aspx"><img src="/images/buttons/adveco.jpg" class="leftimg" alt="Alaska Adventure Travel and Ecotourism"></a></p>
 	<p><a href="/Activities/Culture/index.aspx"><img src="/images/buttons/histcult.jpg" class="leftimg" alt="Alaska's History and Culture"></a></p>
 	<p><a href="/Activities/Sportfishing/index.aspx"><img src="/images/buttons/sportfish.jpg" class="leftimg" alt="Fishing in Alaska"></a></p>
@@ -203,10 +225,11 @@ function init()
 	</div>
 
 		<div id="Center">
-		
+		    
 <div id="topImage"><img src="/images/skins/sockfeet/l2top.jpg" name="topImage"></div>
 <div id="titleImage"><img src="/images/skins/sockfeet/l2title.jpg" style="z-index:-1" name="titleImage"><div id="title"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="5">Privacy Policy</font></div><div id="subtitle"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="4">&nbsp;</font></div><div id="hourglass"><a href="/Gallery/PostcardViewer.aspx?SkinID=45"><img src="/images/icons/glass2.gif" border="0"></a></div><img src="/images/spacer.gif" width="1"><img src="/images/skins/sockfeet/l2titlespacer.jpg" name="spacerImage"></div>
-			<div id="mainContent">
+			<div id="mainContent">                                                                
+
 				<p>The Alaska
 				Travel Industry Association values you as a customer, and we respect your right
 				to online privacy while using our web site. Our Privacy Policy is shared with
@@ -236,30 +259,52 @@ function init()
 				to the public. Your personal information is only accessible by selected company
 				employees who have access to selected databases, which are further protected by
 				ID and password requirements.</p>
-			</div>
-		</div>
-		
 
+			</div>
+
+			
+        </div>		
+        
 <div id="RightColumn">
-	<div id="adspacerL2"><a href="/Planner.aspx"><img src="/images/icons/guide07.gif" border="0"></a></div>
-	<div id="adColumn"><span class="twopxpadding"><font color="#FFFFFF">Sponsors</font></span><div id="adimages"><a href="/Redirect.aspx?url=http%3a%2f%2fwww.AlaskaRailroad.com%2fpassenger&amp;PremiumID=112" target="_blank"><img src="/images/PremiumListings/AlaskaRailroadB-2007.jpg" height="80" width="120" border="1"></a></div><div id="adimages"><a href="/Redirect.aspx?url=http%3a%2f%2fwww.greatalaskanholidays.com&amp;PremiumID=97" target="_blank"><img src="/images/PremiumListings/GAH-redo.jpg" height="80" width="120" border="1"></a></div><div id="adimages"><a href="/Redirect.aspx?url=http%3a%2f%2fwww.alaska.org%2f%3futm_source%3dATIA%26utm_medium%3dPremium-Ad%26utm_campaign%3dTop-Picks+&amp;PremiumID=127" target="_blank"><img src="/images/PremiumListings/alaska.org6.1.07.GIF" height="80" width="120" border="1"></a></div><div id="adimages"><a href="/Redirect.aspx?url=http%3a%2f%2fwww.hollandamerica.com&amp;PremiumID=79" target="_blank"><img src="/images/PremiumListings/HAL-2007.gif" height="80" width="120" border="1"></a></div><div id="adimages"><a href="/Redirect.aspx?url=http%3a%2f%2falaskasweepstakes.com%2falaska-tours%2f%3futm_source%3dATIA%26utm_medium%3dTravelAlaskaBanner%26utm_content%3dYour_Alaska_Dream_Trip_Free&amp;PremiumID=102" target="_blank"><img src="/images/PremiumListings/AAV AKDreamAd1_119_80.jpg" height="80" width="120" border="1"></a></div><div id="adimages"><a href="/Redirect.aspx?url=http%3a%2f%2fwww.graylineofalaska.com&amp;PremiumID=93" target="_blank"><img src="/images/PremiumListings/grayline ad6.jpg" height="80" width="120" border="1"></a></div></div>
+	<div id="adspacerL2">
+	
+	    <a href="/Planner.aspx"><img src="/images/buttons/guide08-small.jpg" border="0"></a>
+        <div id="adColumn"><span class="twopxpadding"><font color="#FFFFFF">Sponsors</font></span><div id="adimages"><a href="/Redirect.aspx?url=http%3a%2f%2falaskasweepstakes.com%2falaska-tours%2f%3futm_source%3dATIA%26utm_medium%3dTravelAlaskaBanner%26utm_content%3dYour_Alaska_Dream_Trip_Free&amp;PremiumID=102" target="_blank"><img src="/images/PremiumListings/AAV AKDreamAd1_119_80.jpg" height="80" width="120" border="1"></a></div><div id="adimages"><a href="/Redirect.aspx?url=http%3a%2f%2fwww.denalilodges.com&amp;PremiumID=137" target="_blank"><img src="/images/PremiumListings/Denali Lodges 2008.GIF" height="80" width="120" border="1"></a></div><div id="adimages"><a href="/Redirect.aspx?url=http%3a%2f%2fwww.alaskacruises.com&amp;PremiumID=147" target="_blank"><img src="/images/PremiumListings/AkCruises.com (2).gif" height="80" width="120" border="1"></a></div><div id="adimages"><a href="/Redirect.aspx?url=http%3a%2f%2fwww.princesslodges.com%2ffairbanks_lodge_specials.htm%3futm_source%3dtravelalaska.com%26utm_medium%3dbanner%26utm_campaign%3dfairbanks84&amp;PremiumID=117" target="_blank"><img src="/images/PremiumListings/FPH $84 banner 9 12 07.GIF" height="80" width="120" border="1"></a></div><div id="adimages"><a href="/Redirect.aspx?url=http%3a%2f%2fsecure.cruisewest.com%2fscripts%2fCT%2fBCT.php%3furl%3dhttp%3a%2f%2fwww.cruisewest.com%2fdestinations%2falaska%2fbrochure_request.aspx%3futm_source%3dTravelAlaska%2bRotating%2bBanner%26utm_medium%3dBanner&amp;PremiumID=116" target="_blank"><img src="/images/PremiumListings/Cruise West renewal.GIF" height="80" width="120" border="1"></a></div><div id="adimages"><a href="/Redirect.aspx?url=http%3a%2f%2fwww.alaska.org%2f%3futm_source%3dATIA%26utm_medium%3dPremium-Ad%26utm_campaign%3dTop-Picks+&amp;PremiumID=127" target="_blank"><img src="/images/PremiumListings/alaska.org6.1.07.GIF" height="80" width="120" border="1"></a></div></div>
+    
 	</div>
 </div>
-	
-
+    </div>
+    
 	<div id="footer"><div id="footerLeft"><div id="floatLeft"><img src="/images/footer/state_home_icon.gif"></div></div><div id="footerRight"><a href="http://www.state.ak.us/" target="_blank"><img src="/images/footer/thestateofalaska.gif" border="0"></a></div></div>
-	<div id="bottom"><div id="bottomText"><span class="n5Text"><a href="/media/index.aspx" class="nav5">Media Center</a> | <a href="/trade/index.aspx" class="nav5">Travel Trade</a> | <a href="/contact/index.aspx" class="nav5">Contact Us</a> | <a href="/CommunityLinks.aspx" class="nav5">Community Links</a> | <a href="http://www.alaskatia.org/Planner/default.asp" class="nav5">Become a Member</a><br><br>
-	<a href="/Contact/Privacy.aspx" class="nav5">TravelAlaska.com Privacy Policy</a></span><br>
+	<div id="bottom"><div id="bottomText">
+	<span class="n5Text">
+		<a href="/media/index.aspx" class="nav5">Media Center</a> | 
+		<a href="/trade/index.aspx" class="nav5">Travel Trade</a> | 
+		<a href="/contact/index.aspx" class="nav5">Contact Us</a> | 
+		<a href="/CommunityLinks.aspx" class="nav5">Community Links</a> | 
+		<a href="http://www.alaskatia.org/Planner/default.asp" class="nav5">Become a Member</a> | 
+		<a href="/BusinessListingsMap.aspx" class="nav5">Alaska Businesses</a>
+		<br><br>
+		<a href="/Contact/Privacy.aspx" class="nav5">TravelAlaska.com Privacy Policy</a>
+	</span>
+	<br>
 	<span class="n5Text">© 2001-2007 Alaska Travel Industry Association<br>
 	Alaska (logotype) &amp; Beyond Your Dreams. Within Your Reach. are registered 
 	Marks of the Alaska Travel Industry Association </span>
 	</div>
+    </div>
+
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
 </script>
 <script type="text/javascript">
-_uacct = "UA-263081-1";
+_uacct = "UA-2608660-2";
 urchinTracker();
 </script>
 
 
-</div></body></html>
+
+
+
+
+
+</body></html>
