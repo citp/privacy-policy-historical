@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fastretailing.com privacy policy that was archived on 2007-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070225195259id_/http%3A//www.fastretailing.com/eng/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastretailing.com privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223071403id_/http%3A//www.fastretailing.com/eng/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | FAST RETAILING CO., LTD.
 
@@ -17,7 +17,7 @@ Personal information acquired from customers with their consent is managed appro
 
   3. ### The management of personal information
 
-The Company undertakes to manage appropriately all personal information gathered from customers. The Company strives to prevent any information leaks, loss or incorrect recording of content. The Company entrusts the handling and management of personal information acquired from customers to UNIQLO CO., LTD. Please [click here to view UNIQLO CO., LTD.'s privacy policy](http://www.uniqlo.com/jp/privacy_policy/index.html).
+The Company undertakes to manage appropriately all personal information gathered from customers. The Company strives to prevent any information leaks, loss or incorrect recording of content. The Company entrusts the handling and management of personal information acquired from customers to UNIQLO CO., LTD. Please [click here to view UNIQLO CO., LTD.'s privacy policy](http://www.uniqlo.com/jp/privacypolicy/).
 
   4. ### Sharing with third parties
 
