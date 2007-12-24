@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the echineselearning.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627015351id_/http%3A//www.echineselearning.com/bottom/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the echineselearning.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224112511id_/http%3A//www.echineselearning.com/bottom/privacy-policy.html) for the most accurate reproduction.*
 
 # Learn Chinese Online, One-on-One Chinese Learning, Privacy Policy - eChineseLearning
 
