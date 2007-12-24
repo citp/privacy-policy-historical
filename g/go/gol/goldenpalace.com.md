@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the goldenpalace.com privacy policy that was archived on 2006-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061114072043id_/http%3A//www.goldenpalace.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldenpalace.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224214326id_/http%3A//www.goldenpalace.com/privacy.php) for the most accurate reproduction.*
 
 # GoldenPalace.com :: #1 Online Casino
 
-|    
 GoldenPalace.com Privacy Statement
 
 Effective November 1, 2004
@@ -40,7 +39,7 @@ User Information is collected only when Site visitors voluntarily provide it. It
 
 
 
-How We User Your Information  
+How We Use Your Information  
 We use the Information you provide about yourself when registering and to provide you with information about other partner's similar products and promotions that may be of interest to you. Your Information may be shared with our employees, independent contractors, agents or other related entities and/or business partners acting on our behalf to fulfill an award or promotion; conduct surveys; collect payments or to provide a product or service you have requested. We do not share this information with non-partner companies except to the extent necessary to complete your transaction (such as with NetTeller, your bank, your Credit Card company) and, when we do share it, it is subject to their agreement to treat it as confidential business information and with the understanding that it may not be used for any purpose other than to perform their function. 
 
 We use return email addresses to answer the email we receive as well as to provide you with customer support, special promotions and offers.
@@ -74,6 +73,3 @@ GoldenPalace.com does not and shall not sell your User Information to anyone. Ou
 
 Right to Change Internet Privacy Statement:  
 GoldenPalace.com reserves the right to change this privacy statement at any time. Changes will be effective immediately upon posting.
-
-|    
-| 
