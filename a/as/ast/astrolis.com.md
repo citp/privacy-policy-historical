@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the astrolis.com privacy policy that was archived on 2007-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070517205456id_/http%3A//www.astrolis.com/charts/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astrolis.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224212230id_/http%3A//www.astrolis.com/charts/privacy.php%3FosCsid%3D012e5ac3deda009b8c861d40d763be16) for the most accurate reproduction.*
 
 # Astrology Charts and Free Astrology Readings
 
