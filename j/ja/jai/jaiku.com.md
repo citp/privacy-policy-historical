@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jaiku.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624223948id_/http%3A//jaiku.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jaiku.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224104628id_/http%3A//jaiku.com/privacy) for the most accurate reproduction.*
 
 # Jaiku | Jaiku Privacy Policy
 
@@ -19,7 +19,7 @@ Children under 13 years of age are not permitted to use the Service.
   * If you would like to use our text messaging service or download the Software to your mobile phone, we will ask for your mobile phone number.
   * If you would like to obtain a paid account in the future, we will ask for your billing address, phone number, and credit card information.
   * Jaiku automatically receives and records information on its server logs from your browser, including your IP address, cookie, and the page you request.
-  * Jaiku also automatically receives and records information on its server logs from the Software, including your mobile network operator, cell ID, city, country, cell name, whether you are currently using the phone or whether the phone is idle, phone's ring profile, Bluetooth buddy/laptop/desktop count, and the duration and description of current/previous/next calendar event.
+  * Jaiku also automatically receives and records information on its server logs from the Software, including your mobile network operator, cell ID, city, country, cell name, whether you are currently using the phone or whether the phone is idle, phone's ring profile, Bluetooth buddy/laptop/desktop count, the duration and description of current/previous/next calendar event, and an indication of whether a call is currently in progress (3G only).
   * Jaiku uses information for the following general purposes: provision of products and services (including displaying and sending targeted advertisements on or through the Service, the Software or SMS), billing (in case of premium services), identification and authentication, contact, research and anonymous reporting.
 
 
@@ -58,6 +58,8 @@ You understand that we are continuously developing the features and the function
 
 ## Any questions
 
-If you have questions or suggestions, or would like to review your personal information stored by us, please [contact us](https://web.archive.org/web/20070624223948id_/http%3A//jaiku.com/about). Or, you can reach us by post at: 
+If you have questions or suggestions, or would like to review your personal information stored by us, please [contact us](https://web.archive.org/web/20071224104628id_/http%3A//jaiku.com/about). Or, you can reach us by post at: 
 
-Jaiku Ltd., Lönnrotinkatu 32 D 51, 00180 Helsinki, Finland 
+Jaiku Ltd., Pieni Rooberinkatu 7, 00130 Helsinki, Finland 
+
+[Official File Description (rekisteriseloste)](https://web.archive.org/static/jaiku-file-description-web-service.doc) for the Jaiku web service. 
