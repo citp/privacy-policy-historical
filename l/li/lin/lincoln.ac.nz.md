@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lincoln.ac.nz privacy policy that was archived on 2007-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070506163843id_/http%3A//www.lincoln.ac.nz/story6697.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lincoln.ac.nz privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224131739id_/http%3A//www.lincoln.ac.nz/story6697.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
-The collection, use, storage, disclosure and correction of personal information by the University is governed by The Privacy Act 1994.  Personal information means information about an identifiable individual. The University complies with the obligations of this Act.
+The collection, use, storage, disclosure and correction of personal information by the University is governed by The Privacy Act 1993.  Personal information means information about an identifiable individual. The University complies with the obligations of this Act.
 
 It collects, stores, uses and discloses personal information about individuals in the following circumstances:
 
@@ -64,10 +64,12 @@ Lincoln University
 Canterbury   
 New Zealand
 
-Phone: 64 (3) 325-2811   
-Facsimile: 64 (3) 325-3840   
+Phone: +64 3 325 2811   
+Facsimile: +64 3 325 3840   
 Freephone: 0800 10 60 10 (New Zealand only)
 
 Back to top
 
-Every effort is made to ensure the information contained herein is correct at the time of printing, but the content may be subject to change. Lincoln University reserves the right to make changes, amendments or deletions - including withdrawal of courses, should circumstances change. Lincoln University does not assume and hereby disclaims any express or implied liability whatsoever to any party for any loss or damage caused by errors or omissions, whether these errors or omissions result from negligence, accident or any other cause.   30 January 2020 02:57:00 PM New Zealand Local Time 
+ 
+
+Every effort is made to ensure the information contained herein is correct at the time of printing, but the content may be subject to change. Lincoln University reserves the right to make changes, amendments or deletions - including withdrawal of courses, should circumstances change. Lincoln University does not assume and hereby disclaims any express or implied liability whatsoever to any party for any loss or damage caused by errors or omissions, whether these errors or omissions result from negligence, accident or any other cause.   24 February 2020 06:32:34 AM New Zealand Local Time 
