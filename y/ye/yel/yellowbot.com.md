@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the yellowbot.com privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622103241id_/http%3A//www.yellowbot.com/about/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yellowbot.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224144828id_/http%3A//www.yellowbot.com/about/privacy_policy.html) for the most accurate reproduction.*
 
 # Yellow Pages - YellowBot
 
-**Effective September 15, 2006**
+**Effective October 26, 2007**
 
-Welcome to ESEFAS, Inc. dba Solfo and Solfo.com. Please read this Privacy Policy. Please read our [Terms and Conditions of Use](https://web.archive.org/about/tos.html) carefully before using or obtaining any content, products or services through our Website(s).
+Welcome to Solfo, Inc. dba YellowBot and Solfo.com. Please read this Privacy Policy. Please read our [Terms and Conditions of Use](https://web.archive.org/about/tos.html) carefully before using or obtaining any content, products or services through our Website(s).
 
 ## Your IP Address
 
@@ -40,9 +40,9 @@ On our Website(s), we place links to other web sites operated by other parties. 
 
 ## Sharing Your Information
 
-When you use our Website(s) or provide us with information, we may share personal information among our corporate affiliates at ESEFAS, Inc. including, but not limited to our affiliates Solfo.com and YellowBot.com. For example, if you submit a review or rating of a business in your area, we may share your review with our other Website(s), as well as unaffiliated users of such data including suppliers, advertisers, affiliates and other current and potential business partners. We may also use such aggregate data to inform these third parties as to the number of people who have seen and clicked on links to their web sites. Occasionally, we may hire a third party to act on our behalf for projects such as market-research surveys and will provide information to these third parties specifically for use in connection with these projects.
+When you use our Website(s) or provide us with information, we may share personal information among our corporate affiliates at Solfo, Inc. including, but not limited to our affiliates Solfo.com and YellowBot.com. For example, if you submit a review or rating of a business in your area, we may share your review with our other Website(s), as well as unaffiliated users of such data including suppliers, advertisers, affiliates and other current and potential business partners. We may also use such aggregate data to inform these third parties as to the number of people who have seen and clicked on links to their web sites. Occasionally, we may hire a third party to act on our behalf for projects such as market-research surveys and will provide information to these third parties specifically for use in connection with these projects.
 
-In addition to the circumstances described above, we may disclose your information as part of a validation process in the interest of preventing fraud, to provide proper accounting to our business partners (for “pay-per-click”, “pay-per-call” or “push-to-talk” advertising listings and related programs) and to validate our business metrics including number of clicks, referrer logs and other tracking information. We may also disclose your information if required to do so by law, court order, as requested by other government or law enforcement authority, or in the good faith belief that disclosure is otherwise necessary or advisable including, without limitation, to protect our rights or properties of our affiliated companies or when we have reason to believe that disclosing the information is necessary to identify, contact or bring legal action against someone who may be causing interference with our rights or properties, whether intentionally or otherwise, or when anyone else could be harmed by such activities. In addition, if ESEFAS, Inc. or substantially all of its assets are acquired, our customer information will most likely also be transferred in connection with such acquisition.
+In addition to the circumstances described above, we may disclose your information as part of a validation process in the interest of preventing fraud, to provide proper accounting to our business partners (for “pay-per-click”, “pay-per-call” or “push-to-talk” advertising listings and related programs) and to validate our business metrics including number of clicks, referrer logs and other tracking information. We may also disclose your information if required to do so by law, court order, as requested by other government or law enforcement authority, or in the good faith belief that disclosure is otherwise necessary or advisable including, without limitation, to protect our rights or properties of our affiliated companies or when we have reason to believe that disclosing the information is necessary to identify, contact or bring legal action against someone who may be causing interference with our rights or properties, whether intentionally or otherwise, or when anyone else could be harmed by such activities. In addition, if Solfo, Inc. or substantially all of its assets are acquired, our customer information will most likely also be transferred in connection with such acquisition.
 
 ## Demographic Information and Saved Listings
 
@@ -62,13 +62,13 @@ Please note that changing or deleting your information otherwise opting-out of r
 
 If you have any questions or concerns about this privacy policy, the practices of our Website(s), or your dealings with the Website(s), you can contact us as indicated below:
 
-E-mail: [customerservice@solfo.com](mailto:customerservice@solfo.com)
+E-mail: [support@yellowbot.com](mailto:support@yellowbot.com)
 
 Mailing address:   
       Customer Service   
-      ESEFAS, Inc.   
-      150 East Olive Avenue, Suite 212   
-      Burbank, California 91502   
+      Solfo, Inc.   
+      PO Box 864   
+      Burbank, California 91503   
 
 
 Telephone: (866) 810-8484
