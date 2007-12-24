@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the democracyforamerica.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623230202id_/http%3A//www.democracyforamerica.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the democracyforamerica.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224112500id_/http%3A//www.democracyforamerica.com/privacy) for the most accurate reproduction.*
 
 # Democracy for America » Privacy Policy
 
