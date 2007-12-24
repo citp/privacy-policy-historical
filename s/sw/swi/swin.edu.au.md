@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swin.edu.au privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624084517id_/http%3A//www.swinburne.edu.au/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swin.edu.au privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224205227id_/http%3A//www.swinburne.edu.au/privacy.htm) for the most accurate reproduction.*
 
 # Privacy
 
@@ -54,7 +54,7 @@ Swinburne University has a Privacy Policy that can be found on its Policies and 
 
 Contact
 
-If staff have any queries in relation to privacy at Swinburne University of Technology, please contact the University Compliance Officer at [infoprivacy@swin.edu.au](mailto:infoprivacy@swin.edu.au) 
+If staff have any queries in relation to privacy at Swinburne University of Technology, please contact the University Compliance Officer at [trowan@swin.edu.au](mailto:trowan@swin.edu.au) 
 
   
   
