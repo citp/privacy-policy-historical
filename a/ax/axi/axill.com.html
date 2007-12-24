@@ -1,29 +1,141 @@
-<!--The following is the downloaded HTML source of the axill.com privacy policy that was archived on 2007-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070623213040id_/http%3A//axill.com/privacypolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the axill.com privacy policy that was archived on 2007-12-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071224083536id_/http%3A//www.axill.com/PrivacyPolicy.aspx) for the most accurate reproduction.-->
 
-<html><head>
-<title>AXILL - The Publisher Network | Daily Payouts</title>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta name="description" content="Online affiliate marketing company that offers 24/7 support, innovative 
-marketing programs, more Web traffic and high commissions for its affiliates.">
-<meta name="keywords" content="affiliate network, publisher network, affiliates, online marketing, promote 
+<html xmlns="http://www.w3.org/1999/xhtml"><head><title>
+	AXILL - The Publisher Network | Daily Payouts
+</title><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><meta name="description" content="Online affiliate marketing company that offers 24/7 support, innovative 
+marketing programs, more Web traffic and high commissions for its affiliates."><meta name="keywords" content="affiliate network, publisher network, affiliates, online marketing, promote 
 products online, publishers, daily paying network, online network, affiliate marketing, top advertisers, 
 commission exchange, managed search, email marketing, pay per lead, e-commerce, traffic, pay per sale, 
-webmaster, website, partners, advertising, internet marketing">
-<link rel="stylesheet" type="text/css" href="styles.css">
-<link rel="stylesheet" type="text/css" href="forms.css">
-</head>
+webmaster, website, partners, advertising, internet marketing"><link href="App_Themes/AxillUS/StyleSheet.css" type="text/css" rel="stylesheet"></head>
+<body class="BodyAxill">
 
-<body topmargin="0" leftmargin="0">
+    <form name="aspnetForm" method="post" action="PrivacyPolicy.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwMDUyNjYzMjhkZJjFL7Wun3UasQ+/U7j66MN05M6C">
 
-<table align="center" border="0" width="778" id="table1" cellspacing="0" cellpadding="0" height="96" background="images/header_menufill.gif">
+    <div align="center">
+
+<script type="text/javascript">
+/*
+Snow Fall 1 - no images - Java Script
+Visit http://rainbow.arch.scriptmania.com/scripts/
+  for this script and many more
+*/
+
+// Set the number of snowflakes (more than 30 - 40 not recommended)
+var snowmax=100
+
+// Set the colors for the snow. Add as many colors as you like
+var snowcolor=new Array("#ffffff","#ffffff","#ffffff","#ffffff","#ffffff")
+
+// Set the fonts, that create the snowflakes. Add as many fonts as you like
+var snowtype=new Array("Arial Black","Arial Narrow","Times","Comic Sans MS")
+
+// Set the letter that creates your snowflake (recommended: * )
+var snowletter="."
+
+// Set the speed of sinking (recommended values range from 0.3 to 2)
+var sinkspeed=2
+
+// Set the maximum-size of your snowflakes
+var snowmaxsize=20
+
+// Set the minimal-size of your snowflakes
+var snowminsize=8
+
+// Set the snowing-zone
+// Set 1 for all-over-snowing, set 2 for left-side-snowing 
+// Set 3 for center-snowing, set 4 for right-side-snowing
+var snowingzone=1
+
+  /*
+   //   * NO CONFIGURATION BELOW HERE *
+*/
+
+// Do not edit below this line
+var snow=new Array()
+var marginbottom
+var marginright
+var timer
+var i_snow=0
+var x_mv=new Array();
+var crds=new Array();
+var lftrght=new Array();
+var browserinfos=navigator.userAgent 
+var ie5=document.all&&document.getElementById&&!browserinfos.match(/Opera/)
+var ns6=document.getElementById&&!document.all
+var opera=browserinfos.match(/Opera/)  
+var browserok=ie5||ns6||opera
+
+function randommaker(range) {		
+	rand=Math.floor(range*Math.random())
+    return rand
+}
+
+function initsnow() {
+	if (ie5 || ns6 || opera) {
+		marginbottom = document.body.clientHeight
+		marginright = document.body.clientWidth
+	}
+	else if (ns6) {
+		marginbottom = window.innerHeight
+		marginright = window.innerWidth
+	}
+	var snowsizerange=snowmaxsize-snowminsize
+	for (i=0;i<=snowmax;i++) {
+		crds[i] = 0;                      
+    	lftrght[i] = Math.random()*15;         
+    	x_mv[i] = 0.03 + Math.random()/10;
+		snow[i]=document.getElementById("s"+i)
+		snow[i].style.fontFamily=snowtype[randommaker(snowtype.length)]
+		snow[i].size=randommaker(snowsizerange)+snowminsize
+		snow[i].style.fontSize=snow[i].size
+		snow[i].style.color=snowcolor[randommaker(snowcolor.length)]
+		snow[i].sink=sinkspeed*snow[i].size/5
+		if (snowingzone==1) {snow[i].posx=randommaker(marginright-snow[i].size)}
+		if (snowingzone==2) {snow[i].posx=randommaker(marginright/2-snow[i].size)}
+		if (snowingzone==3) {snow[i].posx=randommaker(marginright/2-snow[i].size)+marginright/4}
+		if (snowingzone==4) {snow[i].posx=randommaker(marginright/2-snow[i].size)+marginright/2}
+		snow[i].posy=randommaker(2*marginbottom-marginbottom-2*snow[i].size)
+		snow[i].style.left=snow[i].posx
+		snow[i].style.top=snow[i].posy
+	}
+	movesnow()
+}
+
+function movesnow() {
+	for (i=0;i<=snowmax;i++) {
+		crds[i] += x_mv[i];
+		snow[i].posy+=snow[i].sink
+		snow[i].style.left=snow[i].posx+lftrght[i]*Math.sin(crds[i]);
+		snow[i].style.top=snow[i].posy
+		
+		if (snow[i].posy>=marginbottom-2*snow[i].size || parseInt(snow[i].style.left)>(marginright-3*lftrght[i])){
+			if (snowingzone==1) {snow[i].posx=randommaker(marginright-snow[i].size)}
+			if (snowingzone==2) {snow[i].posx=randommaker(marginright/2-snow[i].size)}
+			if (snowingzone==3) {snow[i].posx=randommaker(marginright/2-snow[i].size)+marginright/4}
+			if (snowingzone==4) {snow[i].posx=randommaker(marginright/2-snow[i].size)+marginright/2}
+			snow[i].posy=0
+		}
+	}
+	var timer=setTimeout("movesnow()",50)
+}
+
+for (i=0;i<=snowmax;i++) {
+	document.write("<span id='s"+i+"' style='position:absolute;top:-"+snowmaxsize+"'>"+snowletter+"</span>")
+}
+if (browserok) {
+	window.onload=initsnow
+}
+</script><span id="s0" style="position: absolute; top: 560.2px; font-family: &quot;Arial Black&quot;; font-size: 17px; color: rgb(255, 255, 255); left: 811.152px;">.</span><span id="s1" style="position: absolute; top: 332px; font-family: &quot;Arial Narrow&quot;; font-size: 15px; color: rgb(255, 255, 255); left: 946.777px;">.</span><span id="s2" style="position: absolute; top: 171.6px; font-family: &quot;Arial Narrow&quot;; font-size: 16px; color: rgb(255, 255, 255); left: 185.378px;">.</span><span id="s3" style="position: absolute; top: 414.6px; font-family: &quot;Comic Sans MS&quot;; font-size: 16px; color: rgb(255, 255, 255); left: 836.539px;">.</span><span id="s4" style="position: absolute; top: 359px; font-family: Times; font-size: 10px; color: rgb(255, 255, 255); left: 32.5099px;">.</span><span id="s5" style="position: absolute; top: 344.8px; font-family: Times; font-size: 13px; color: rgb(255, 255, 255); left: 985.084px;">.</span><span id="s6" style="position: absolute; top: 546.2px; font-family: &quot;Comic Sans MS&quot;; font-size: 17px; color: rgb(255, 255, 255); left: 326.958px;">.</span><span id="s7" style="position: absolute; top: 421.4px; font-family: &quot;Arial Black&quot;; font-size: 14px; color: rgb(255, 255, 255); left: 1283.92px;">.</span><span id="s8" style="position: absolute; top: 646.6px; font-family: &quot;Comic Sans MS&quot;; font-size: 16px; color: rgb(255, 255, 255); left: 1165.58px;">.</span><span id="s9" style="position: absolute; top: 284.4px; font-family: &quot;Arial Narrow&quot;; font-size: 14px; color: rgb(255, 255, 255); left: 603.006px;">.</span><span id="s10" style="position: absolute; top: 640px; font-family: &quot;Arial Narrow&quot;; font-size: 10px; color: rgb(255, 255, 255); left: 176.282px;">.</span><span id="s11" style="position: absolute; top: 555.8px; font-family: Times; font-size: 13px; color: rgb(255, 255, 255); left: 691.64px;">.</span><span id="s12" style="position: absolute; top: 522.6px; font-family: &quot;Comic Sans MS&quot;; font-size: 11px; color: rgb(255, 255, 255); left: 768.886px;">.</span><span id="s13" style="position: absolute; top: 376.4px; font-family: Times; font-size: 14px; color: rgb(255, 255, 255); left: 244.895px;">.</span><span id="s14" style="position: absolute; top: 461.6px; font-family: &quot;Comic Sans MS&quot;; font-size: 16px; color: rgb(255, 255, 255); left: 1311.98px;">.</span><span id="s15" style="position: absolute; top: 103.2px; font-family: &quot;Arial Narrow&quot;; font-size: 17px; color: rgb(255, 255, 255); left: 796.782px;">.</span><span id="s16" style="position: absolute; top: 370.4px; font-family: &quot;Comic Sans MS&quot;; font-size: 14px; color: rgb(255, 255, 255); left: 46.9818px;">.</span><span id="s17" style="position: absolute; top: 502.8px; font-family: &quot;Arial Narrow&quot;; font-size: 8px; color: rgb(255, 255, 255); left: 116.951px;">.</span><span id="s18" style="position: absolute; top: 626.4px; font-family: Times; font-size: 9px; color: rgb(255, 255, 255); left: 1346.4px;">.</span><span id="s19" style="position: absolute; top: 512.2px; font-family: &quot;Arial Black&quot;; font-size: 12px; color: rgb(255, 255, 255); left: 527.161px;">.</span><span id="s20" style="position: absolute; top: 115.2px; font-family: &quot;Comic Sans MS&quot;; font-size: 12px; color: rgb(255, 255, 255); left: 119.619px;">.</span><span id="s21" style="position: absolute; top: 738.4px; font-family: &quot;Arial Black&quot;; font-size: 14px; color: rgb(255, 255, 255); left: 481.693px;">.</span><span id="s22" style="position: absolute; top: 618.4px; font-family: &quot;Arial Black&quot;; font-size: 14px; color: rgb(255, 255, 255); left: 543.369px;">.</span><span id="s23" style="position: absolute; top: 104px; font-family: &quot;Comic Sans MS&quot;; font-size: 15px; color: rgb(255, 255, 255); left: 64.5798px;">.</span><span id="s24" style="position: absolute; top: 299.8px; font-family: &quot;Arial Black&quot;; font-size: 18px; color: rgb(255, 255, 255); left: 1051.28px;">.</span><span id="s25" style="position: absolute; top: 573.8px; font-family: &quot;Arial Narrow&quot;; font-size: 8px; color: rgb(255, 255, 255); left: 205.081px;">.</span><span id="s26" style="position: absolute; top: 736.8px; font-family: &quot;Arial Narrow&quot;; font-size: 13px; color: rgb(255, 255, 255); left: 404.226px;">.</span><span id="s27" style="position: absolute; top: 692.8px; font-family: &quot;Arial Narrow&quot;; font-size: 13px; color: rgb(255, 255, 255); left: 1197.46px;">.</span><span id="s28" style="position: absolute; top: 269.2px; font-family: &quot;Arial Black&quot;; font-size: 12px; color: rgb(255, 255, 255); left: 396.066px;">.</span><span id="s29" style="position: absolute; top: 305.6px; font-family: &quot;Comic Sans MS&quot;; font-size: 16px; color: rgb(255, 255, 255); left: 110.209px;">.</span><span id="s30" style="position: absolute; top: 602px; font-family: &quot;Comic Sans MS&quot;; font-size: 15px; color: rgb(255, 255, 255); left: 537.845px;">.</span><span id="s31" style="position: absolute; top: 540.8px; font-family: Times; font-size: 13px; color: rgb(255, 255, 255); left: 647.085px;">.</span><span id="s32" style="position: absolute; top: 229.2px; font-family: &quot;Arial Narrow&quot;; font-size: 17px; color: rgb(255, 255, 255); left: 728.843px;">.</span><span id="s33" style="position: absolute; top: 16px; font-family: &quot;Arial Black&quot;; font-size: 10px; color: rgb(255, 255, 255); left: 253.486px;">.</span><span id="s34" style="position: absolute; top: 88px; font-family: &quot;Comic Sans MS&quot;; font-size: 15px; color: rgb(255, 255, 255); left: 416.499px;">.</span><span id="s35" style="position: absolute; top: 483.6px; font-family: &quot;Arial Black&quot;; font-size: 16px; color: rgb(255, 255, 255); left: 1069.09px;">.</span><span id="s36" style="position: absolute; top: 707.2px; font-family: &quot;Arial Narrow&quot;; font-size: 17px; color: rgb(255, 255, 255); left: 43.5946px;">.</span><span id="s37" style="position: absolute; top: 199.4px; font-family: &quot;Arial Black&quot;; font-size: 19px; color: rgb(255, 255, 255); left: 940.501px;">.</span><span id="s38" style="position: absolute; top: 456.2px; font-family: Times; font-size: 17px; color: rgb(255, 255, 255); left: 191.589px;">.</span><span id="s39" style="position: absolute; top: 8px; font-family: &quot;Arial Black&quot;; font-size: 10px; color: rgb(255, 255, 255); left: 518.67px;">.</span><span id="s40" style="position: absolute; top: 57.2px; font-family: &quot;Arial Black&quot;; font-size: 13px; color: rgb(255, 255, 255); left: 1273.66px;">.</span><span id="s41" style="position: absolute; top: 54.4px; font-family: Times; font-size: 17px; color: rgb(255, 255, 255); left: 603.827px;">.</span><span id="s42" style="position: absolute; top: 631.8px; font-family: &quot;Comic Sans MS&quot;; font-size: 13px; color: rgb(255, 255, 255); left: 562.258px;">.</span><span id="s43" style="position: absolute; top: 470.4px; font-family: &quot;Arial Narrow&quot;; font-size: 14px; color: rgb(255, 255, 255); left: 551.636px;">.</span><span id="s44" style="position: absolute; top: 57.6px; font-family: Times; font-size: 12px; color: rgb(255, 255, 255); left: 397.991px;">.</span><span id="s45" style="position: absolute; top: 566px; font-family: &quot;Comic Sans MS&quot;; font-size: 15px; color: rgb(255, 255, 255); left: 311.825px;">.</span><span id="s46" style="position: absolute; top: 7.6px; font-family: &quot;Comic Sans MS&quot;; font-size: 19px; color: rgb(255, 255, 255); left: 790.224px;">.</span><span id="s47" style="position: absolute; top: 605.2px; font-family: &quot;Comic Sans MS&quot;; font-size: 12px; color: rgb(255, 255, 255); left: 77.8832px;">.</span><span id="s48" style="position: absolute; top: 741px; font-family: &quot;Arial Narrow&quot;; font-size: 15px; color: rgb(255, 255, 255); left: 273.291px;">.</span><span id="s49" style="position: absolute; top: 705.4px; font-family: &quot;Arial Narrow&quot;; font-size: 9px; color: rgb(255, 255, 255); left: 182.606px;">.</span><span id="s50" style="position: absolute; top: 705.8px; font-family: &quot;Comic Sans MS&quot;; font-size: 18px; color: rgb(255, 255, 255); left: 252.647px;">.</span><span id="s51" style="position: absolute; top: 176.2px; font-family: &quot;Arial Black&quot;; font-size: 12px; color: rgb(255, 255, 255); left: 133.229px;">.</span><span id="s52" style="position: absolute; top: 260px; font-family: Times; font-size: 10px; color: rgb(255, 255, 255); left: 239.575px;">.</span><span id="s53" style="position: absolute; top: 286.4px; font-family: &quot;Comic Sans MS&quot;; font-size: 14px; color: rgb(255, 255, 255); left: 1311.36px;">.</span><span id="s54" style="position: absolute; top: 362.8px; font-family: &quot;Arial Narrow&quot;; font-size: 18px; color: rgb(255, 255, 255); left: 701.631px;">.</span><span id="s55" style="position: absolute; top: 392.2px; font-family: &quot;Arial Black&quot;; font-size: 12px; color: rgb(255, 255, 255); left: 1005.18px;">.</span><span id="s56" style="position: absolute; top: 92px; font-family: Times; font-size: 15px; color: rgb(255, 255, 255); left: 730.096px;">.</span><span id="s57" style="position: absolute; top: 97.4px; font-family: &quot;Comic Sans MS&quot;; font-size: 9px; color: rgb(255, 255, 255); left: 1175.92px;">.</span><span id="s58" style="position: absolute; top: 372.8px; font-family: &quot;Arial Black&quot;; font-size: 13px; color: rgb(255, 255, 255); left: 347.48px;">.</span><span id="s59" style="position: absolute; top: 367.4px; font-family: &quot;Arial Narrow&quot;; font-size: 9px; color: rgb(255, 255, 255); left: 1198.61px;">.</span><span id="s60" style="position: absolute; top: 128.4px; font-family: &quot;Arial Black&quot;; font-size: 19px; color: rgb(255, 255, 255); left: 626.519px;">.</span><span id="s61" style="position: absolute; top: 267.8px; font-family: &quot;Comic Sans MS&quot;; font-size: 13px; color: rgb(255, 255, 255); left: 1229.96px;">.</span><span id="s62" style="position: absolute; top: 417.4px; font-family: &quot;Comic Sans MS&quot;; font-size: 9px; color: rgb(255, 255, 255); left: 797.207px;">.</span><span id="s63" style="position: absolute; top: 279.2px; font-family: Times; font-size: 17px; color: rgb(255, 255, 255); left: 1290.51px;">.</span><span id="s64" style="position: absolute; top: 591.6px; font-family: &quot;Arial Narrow&quot;; font-size: 16px; color: rgb(255, 255, 255); left: 12.1949px;">.</span><span id="s65" style="position: absolute; top: 624.8px; font-family: &quot;Comic Sans MS&quot;; font-size: 18px; color: rgb(255, 255, 255); left: 540.421px;">.</span><span id="s66" style="position: absolute; top: 178.4px; font-family: &quot;Arial Black&quot;; font-size: 14px; color: rgb(255, 255, 255); left: 649.396px;">.</span><span id="s67" style="position: absolute; top: 308.4px; font-family: &quot;Comic Sans MS&quot;; font-size: 14px; color: rgb(255, 255, 255); left: 605.329px;">.</span><span id="s68" style="position: absolute; top: 520.2px; font-family: &quot;Arial Black&quot;; font-size: 17px; color: rgb(255, 255, 255); left: 330.903px;">.</span><span id="s69" style="position: absolute; top: 327.8px; font-family: &quot;Comic Sans MS&quot;; font-size: 18px; color: rgb(255, 255, 255); left: 605.169px;">.</span><span id="s70" style="position: absolute; top: 640.4px; font-family: &quot;Arial Black&quot;; font-size: 9px; color: rgb(255, 255, 255); left: 642.136px;">.</span><span id="s71" style="position: absolute; top: 265.8px; font-family: &quot;Arial Black&quot;; font-size: 18px; color: rgb(255, 255, 255); left: 191.421px;">.</span><span id="s72" style="position: absolute; top: 152px; font-family: &quot;Comic Sans MS&quot;; font-size: 15px; color: rgb(255, 255, 255); left: 1325.71px;">.</span><span id="s73" style="position: absolute; top: 564px; font-family: Times; font-size: 15px; color: rgb(255, 255, 255); left: 16.4715px;">.</span><span id="s74" style="position: absolute; top: 434.6px; font-family: &quot;Arial Black&quot;; font-size: 11px; color: rgb(255, 255, 255); left: 285.154px;">.</span><span id="s75" style="position: absolute; top: 738.6px; font-family: &quot;Arial Narrow&quot;; font-size: 16px; color: rgb(255, 255, 255); left: 985.719px;">.</span><span id="s76" style="position: absolute; top: 272.4px; font-family: &quot;Comic Sans MS&quot;; font-size: 9px; color: rgb(255, 255, 255); left: 204.218px;">.</span><span id="s77" style="position: absolute; top: 186.4px; font-family: &quot;Comic Sans MS&quot;; font-size: 19px; color: rgb(255, 255, 255); left: 945.405px;">.</span><span id="s78" style="position: absolute; top: 521.8px; font-family: &quot;Comic Sans MS&quot;; font-size: 8px; color: rgb(255, 255, 255); left: 236.238px;">.</span><span id="s79" style="position: absolute; top: 172px; font-family: Times; font-size: 10px; color: rgb(255, 255, 255); left: 929.858px;">.</span><span id="s80" style="position: absolute; top: 327.2px; font-family: Times; font-size: 12px; color: rgb(255, 255, 255); left: 1158.7px;">.</span><span id="s81" style="position: absolute; top: 474.4px; font-family: Times; font-size: 19px; color: rgb(255, 255, 255); left: 664.785px;">.</span><span id="s82" style="position: absolute; top: 476.8px; font-family: Times; font-size: 18px; color: rgb(255, 255, 255); left: 946.488px;">.</span><span id="s83" style="position: absolute; top: 331.8px; font-family: &quot;Comic Sans MS&quot;; font-size: 13px; color: rgb(255, 255, 255); left: 414.791px;">.</span><span id="s84" style="position: absolute; top: 36px; font-family: Times; font-size: 18px; color: rgb(255, 255, 255); left: 1107.82px;">.</span><span id="s85" style="position: absolute; top: 472.8px; font-family: &quot;Comic Sans MS&quot;; font-size: 8px; color: rgb(255, 255, 255); left: 585.139px;">.</span><span id="s86" style="position: absolute; top: 405.8px; font-family: &quot;Comic Sans MS&quot;; font-size: 13px; color: rgb(255, 255, 255); left: 674.482px;">.</span><span id="s87" style="position: absolute; top: 170.6px; font-family: &quot;Comic Sans MS&quot;; font-size: 16px; color: rgb(255, 255, 255); left: 59.7295px;">.</span><span id="s88" style="position: absolute; top: 83.4px; font-family: Times; font-size: 14px; color: rgb(255, 255, 255); left: 737.089px;">.</span><span id="s89" style="position: absolute; top: 472.4px; font-family: &quot;Arial Narrow&quot;; font-size: 19px; color: rgb(255, 255, 255); left: 30.4394px;">.</span><span id="s90" style="position: absolute; top: 516px; font-family: &quot;Comic Sans MS&quot;; font-size: 15px; color: rgb(255, 255, 255); left: 760.714px;">.</span><span id="s91" style="position: absolute; top: 510.2px; font-family: &quot;Arial Black&quot;; font-size: 17px; color: rgb(255, 255, 255); left: 1290.44px;">.</span><span id="s92" style="position: absolute; top: 133.6px; font-family: Times; font-size: 16px; color: rgb(255, 255, 255); left: 1233.09px;">.</span><span id="s93" style="position: absolute; top: 53.2px; font-family: &quot;Comic Sans MS&quot;; font-size: 19px; color: rgb(255, 255, 255); left: 751.797px;">.</span><span id="s94" style="position: absolute; top: 35.2px; font-family: &quot;Arial Narrow&quot;; font-size: 11px; color: rgb(255, 255, 255); left: 65.7659px;">.</span><span id="s95" style="position: absolute; top: 260.6px; font-family: Times; font-size: 16px; color: rgb(255, 255, 255); left: 1076.97px;">.</span><span id="s96" style="position: absolute; top: 429.2px; font-family: &quot;Arial Narrow&quot;; font-size: 17px; color: rgb(255, 255, 255); left: 666.325px;">.</span><span id="s97" style="position: absolute; top: 84.4px; font-family: Times; font-size: 9px; color: rgb(255, 255, 255); left: 171.91px;">.</span><span id="s98" style="position: absolute; top: 430.2px; font-family: &quot;Arial Black&quot;; font-size: 17px; color: rgb(255, 255, 255); left: 701.907px;">.</span><span id="s99" style="position: absolute; top: 278.2px; font-family: &quot;Arial Black&quot;; font-size: 17px; color: rgb(255, 255, 255); left: 959.726px;">.</span><span id="s100" style="position: absolute; top: 428.8px; font-family: Times; font-size: 8px; color: rgb(255, 255, 255); left: 584.254px;">.</span>
+
+<table align="center" border="0" width="778" id="table1" cellspacing="0" cellpadding="0" height="96" background="App_Themes/AxillUS/Images/header_menufill.gif">
+	<!-- MSTableType="layout" -->
 	<tbody><tr>
-		<td width="89"><img border="0" src="images/header_eye.gif"></td>
-		<td width="174"><map name="FPMap0">
-		<area href="default.aspx" shape="rect" coords="8, 17, 169, 73">
-		</map><img border="0" src="images/header_logo.gif" usemap="#FPMap0"></td>
+		<td width="89"><img src="App_Themes/AxillUS/Images/header_eye.gif" alt="Publisher Network" border="0"></td>
+	  <td width="174"><a href="http://www.axill.com"><img border="0" src="App_Themes/AxillUS/Images/header_logo.gif"></a></td>
 		<td valign="top">
-		<table border="0" width="515" id="table2" background="images/header_menubg.gif" cellspacing="0" cellpadding="0" height="105">
+		<table border="0" width="515" id="table2" background="App_Themes/AxillUS/Images/header_menubg.gif" cellspacing="0" cellpadding="0" height="105">
 			<!-- MSTableType="layout" -->
 			<tbody><tr>
 				<td>&nbsp;</td>
@@ -31,26 +143,26 @@ webmaster, website, partners, advertising, internet marketing">
 				<table border="0" width="89" id="table8" cellpadding="0" height="32">
 						<!-- MSTableType="nolayout" -->
 						<tbody><tr>
-							<td style="width: 28px; height: 23px">
-							&nbsp;</td>
+							<td style="width: 28px; height: 23px">&nbsp;
+							</td>
 							<td style="height: 28px" width="26">
-							<a href="http://www.axill.co.uk/" target="_blank">
-							<img border="0" src="Images/axilluk_flag.gif"></a></td>
+							<a href="http://www.axill.co.uk" target="_blank">
+							<img border="0" src="App_Themes/AxillUS/Images/axilluk_flag.gif"></a></td>
 							<td style="height: 28px" width="28">
-							<a href="http://www.axill.in/" target="_blank">
-							<img border="0" src="Images/axillindia_flag.gif"></a></td>
+							<a href="http://www.axill.in" target="_blank">
+							<img border="0" src="App_Themes/AxillUS/Images/axillindia_flag.gif"></a></td>
 						</tr>
-					</tbody></table></td>
+				  </tbody></table></td>
 			</tr>
 			<tr>
 				<td>&nbsp;</td>
 				<td height="30">
-				<p class="header"><a class="header" href="default.aspx">Home</a> 
-				|&nbsp; <a class="header" href="epublisher.aspx">e-Publisher</a> 
-				|&nbsp; <a class="header" href="eadvertiser.aspx">e-Advertiser</a> 
-				|&nbsp; <a class="header" href="ebranding.aspx">e-Branding</a> |&nbsp;
-				<a class="header" href="etraffic.aspx">e-Traffic</a> |&nbsp;
-				<a class="header" href="clientlogin.aspx">Login</a></p>
+				<p class="header"><a class="header" href="Default.aspx">Home</a> 
+				|&nbsp; <a class="header" href="EPublisher.aspx">e-Publisher</a> 
+				|&nbsp; <a class="header" href="EAdvertiser.aspx">e-Advertiser</a> 
+				|&nbsp; <a class="header" href="Ebranding.aspx">e-Branding</a> |&nbsp;
+				<a class="header" href="Etraffic.aspx">e-Traffic</a> |&nbsp;
+				<a class="header" href="ClientLogin.aspx">Login</a></p>
 				</td>
 			</tr>
 			<tr>
@@ -61,16 +173,13 @@ webmaster, website, partners, advertising, internet marketing">
 		</td>
 	</tr>
 </tbody></table>
-
-
-
-
-
-
+<div style="width: 740px; background-color:White;">
+	
 <table align="center" border="0" width="740" id="table1" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
+			<!-- MSTableType="layout" -->
 			<tbody><tr>
 			<td align="center" colspan="3">
-			<img border="0" src="images/privacypolicy_mainimg.gif"></td>
+			<img border="0" src="App_Themes/AxillUS/Images/privacypolicy_mainimg.gif"></td>
 		</tr>
 		<tr>
 			<td width="120">&nbsp;</td>
@@ -118,57 +227,49 @@ webmaster, website, partners, advertising, internet marketing">
 			<td width="120">&nbsp;</td>
 		</tr>
 	</tbody></table>
+ <br>
 
+    
+</div>
+ 
 
+<div>
 
+<table border="0" width="778" id="table1" cellspacing="0" cellpadding="0" background="App_Themes/AxillUS/Images/footer_centerfill.gif" height="64">
 
-
-<title>AXILL - The Publisher Network</title>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta name="description" content="Online affiliate marketing company that offers 24/7 support, innovative 
-marketing programs, more Web traffic and high commissions for its affiliates.">
-<meta name="keywords" content="affiliate network, publisher network, affiliates, online marketing, promote 
-products online, publishers, daily paying network, online network, affiliate marketing, top advertisers, 
-commission exchange, managed search, email marketing, pay per lead, e-commerce, traffic, pay per sale, 
-webmaster, website, partners, advertising, internet marketing">
-<link rel="stylesheet" type="text/css" href="styles.css">
-
-
-
-
-<div align="center">
-
-<table border="0" width="778" id="table1" cellspacing="0" cellpadding="0" background="images/footer_centerfill.gif" height="64">
-		<!-- MSTableType="nolayout" -->
 		<tbody><tr>
 			<td width="37" rowspan="3">
-			<img border="0" src="images/footer_leftimg.gif"></td>
+			<img border="0" src="App_Themes/AxillUS/Images/footer_leftimg.gif"></td>
 			<td height="7"></td>
 			<td valign="top" rowspan="3" width="34">
-			<img border="0" src="images/footer_rightimg.gif"></td>
+			<img border="0" src="App_Themes/AxillUS/Images/footer_rightimg.gif"></td>
 		</tr>
 		<tr>
 			<td height="29">
-			<p class="small center"><a class="footer" href="aboutus.aspx">About 
-			Us</a>&nbsp;|
-			
-			<a class="footer" href="faqs.aspx">FAQs</a>&nbsp;|			
-			<a class="footer" href="termsofuse.aspx">Terms of Use</a>&nbsp;|
-			<a class="footer" href="privacypolicy.aspx">Privacy Policy</a>&nbsp;|
-			<a class="footer" href="news.aspx">News</a>&nbsp;|
-			<a class="footer" href="contactus.aspx">Contact Us</a></p></td>
+			<p class="small center">
+			<a class="footer" href="Default.aspx">Home</a>&nbsp;|
+			<a class="footer" href="aboutus.aspx">About Us</a>&nbsp;|			
+			<a class="footer" href="Faqs.aspx">FAQs</a>&nbsp;|			
+			<a class="footer" href="TermsOfUse.aspx">Terms of Use</a>&nbsp;|
+			<a class="footer" href="PrivacyPolicy.aspx">Privacy Policy</a>&nbsp;|
+			<a class="footer" href="News.aspx">News</a>&nbsp;|
+			<a class="footer" href="ContactUs.aspx">Contact Us</a>
+			</p>
+			</td>
 			</tr>
 		<tr>
 			<td width="707" height="28">
 			<p class="small center"><font color="#89A0B4">© All Rights Reserved to Axill Inc., USA</font></p></td>
 		</tr>
 	</tbody></table>
-</div>
+ </div>
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
 </script>
 <script type="text/javascript">
-_uacct = "UA-1655746-1";
+_uacct = "UA-1797893-1";
 urchinTracker();
 </script>
+ </div>
+    </form>
 
 </body></html>
