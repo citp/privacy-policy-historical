@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the anorak.co.uk privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626200035id_/http%3A//www.anorak.co.uk/terms-and-conditions) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anorak.co.uk privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224083826id_/http%3A//www.anorak.co.uk/terms-and-conditions) for the most accurate reproduction.*
 
-# Terms & Privacy » Big Brother Celebrity News & Gossip : Anorak
-
-## Terms & Privacy
+# Anorak News » Terms & Privacy
 
 Here at Anorak, we take the privacy of our readers very seriously and operate by the following guidelines.
 
 #####  Personal information
 
-We will not sell or pass your e-mail address or other personal details to any third party without your prior consent. Any information you do give us may be used for the effective running of competitions or used on an aggregated basis to help us formulate a picture of our readership's demographics without disclosing any individual's personal information. If you provide us with your e-mail address, its privacy will be closely guarded.
+We will not sell or pass your e-mail address or other personal details to any third party without your prior consent. Any information you do give us may be used for the effective running of competitions or used on an aggregated basis to help us formulate a picture of our readership’s demographics without disclosing any individual’s personal information. If you provide us with your e-mail address, its privacy will be closely guarded.
 
 #####  Traffic Data
 
@@ -28,7 +26,7 @@ Anorak UK Ltd
 
 ___________________________________
 
-**These terms and conditions** govern your use of this website. If you do use this website, you agree to be bound by these terms and conditions. If you don't agree with them, please do not use the website.
+**These terms and conditions** govern your use of this website. If you do use this website, you agree to be bound by these terms and conditions. If you don’t agree with them, please do not use the website.
 
 This site is owned and operated by Anorak UK Ltd.
 
@@ -56,19 +54,10 @@ This site includes forums for discussion among users of this website. Anorak UK 
 
 In using the forums, you agree not to collect data on other users, or to publish messages that:
 
-  
-
   * contain advertising or spam
-  
-
   * promote goods and services
-  
-
   * contain unlawful, threatening, abusive, intimidating, libellous, indecent or illegal content
-  
-
   * Contain harmful viruses or code
-  
 
 
 
@@ -76,7 +65,7 @@ You agree to indemnify and hold harmless e-go editorial services ltd from all cl
 
 #####  Anorak e-mails
 
-Anorak UK Ltd allows you to subscribe to its daily e-mail containing updates of the website's contents, subject to these same Terms and Conditions.
+Anorak UK Ltd allows you to subscribe to its daily e-mail containing updates of the website’s contents, subject to these same Terms and Conditions.
 
 #####  Governance
 
@@ -86,7 +75,7 @@ Here at Anorak, we take the privacy of our readers very seriously and operate by
 
 #####  Personal information
 
-We will not sell or pass your e-mail address or other personal details to any third party without your prior consent. Any information you do give us may be used for the effective running of competitions or used on an aggregated basis to help us formulate a picture of our readership's demographics without disclosing any individual's personal information. If you provide us with your e-mail address, its privacy will be closely guarded.
+We will not sell or pass your e-mail address or other personal details to any third party without your prior consent. Any information you do give us may be used for the effective running of competitions or used on an aggregated basis to help us formulate a picture of our readership’s demographics without disclosing any individual’s personal information. If you provide us with your e-mail address, its privacy will be closely guarded.
 
 #####  Traffic Data
 
@@ -103,3 +92,5 @@ www.Anorak.co.uk
 Anorak UK Ltd
 
 +44 (0)7980 578831 (mobile)
+
+[ ](http://del.icio.us/post?url=http%3A%2F%2Fwww.anorak.co.uk%2Fterms-and-conditions&title=Terms+%26%23038%3B+Privacy "Save to del.icio.us") [ ](http://reddit.com/submit?url=http%3A%2F%2Fwww.anorak.co.uk%2Fterms-and-conditions&title=Terms+%26%23038%3B+Privacy "Save to Reddit") [ ](http://digg.com/submit?phase=2&url=http%3A%2F%2Fwww.anorak.co.uk%2Fterms-and-conditions&title=Terms+%26%23038%3B+Privacy "Digg This Post!") [ ](http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.anorak.co.uk%2Fterms-and-conditions "Share on Facebook!") [ ](http://technorati.com/faves?add=http%3A%2F%2Fwww.anorak.co.uk%2Fterms-and-conditions "Add to my Technorati Favorites!") [ ](http://www.google.com/bookmarks/mark?op=edit&output=popup&bkmk=http%3A%2F%2Fwww.anorak.co.uk%2Fterms-and-conditions&title=Terms+%26%23038%3B+Privacy "Add to my Google Bookmarks!") [ ](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.anorak.co.uk%2Fterms-and-conditions&title=Terms+%26%23038%3B+Privacy "Stumble it!") [ ](http://tailrank.com/share/?link_href=http%3A%2F%2Fwww.anorak.co.uk%2Fterms-and-conditions&title=Terms+%26%23038%3B+Privacy "Add to Tailrank!") [ ](http://furl.net/storeIt.jsp?u=http%3A%2F%2Fwww.anorak.co.uk%2Fterms-and-conditions&t=Terms+%26%23038%3B+Privacy "Add to Furl") [ ](http://www.bloglines.com/sub/http%3A%2F%2Fwww.anorak.co.uk%2Fterms-and-conditions "Add to Bloglines!")
