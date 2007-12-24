@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lyrics5.com privacy policy that was archived on 2006-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060906025848id_/http%3A//www.lyrics5.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lyrics5.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224212222id_/http%3A//www.lyrics5.com/privacy.htm) for the most accurate reproduction.*
 
 # Lyrics5 - Privacy Policy
 
