@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the activehotels.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625062738id_/http%3A//www.activereservations.com/hotel/static/en/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activehotels.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224103457id_/http%3A//www.activehotels.com/hotel/static/en/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -29,7 +29,7 @@ You may supply us with personal information when you:
 The personal information you provide through online collections forms on the site may be used by us for providing you the services you request in the manner described below:
 
   * When Booking: 
-    * Our suppliers (the hotels on our site) and Active Hotels require certain information to allow us to process your hotel booking and notify you of the booking confirmation. When you book, we will need to know the name of the person making the reservation and a name for each room booked, your name, a postal address and email address, as well as your credit or debit card number, CVC number and expiry date. 
+    * Our ÂsuppliersÂ (the hotels on our site) and Active Hotels require certain information to allow us to process your hotel booking and notify you of the booking confirmation. When you book, we will need to know the name of the person making the reservation and a name for each room booked, your name, a postal address and email address, as well as your credit or debit card number, CVC number and expiry date. 
     * We ask for your telephone number so that we and/or our suppliers' customer support representatives and we can contact you if there is a question concerning your reservation. 
     * Credit card information is held in our secure database to enable us or our suppliers to process reservations and cancellations. 
   * Special offers: 
