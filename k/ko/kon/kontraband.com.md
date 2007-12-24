@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kontraband.com privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622194642id_/http%3A//kontraband.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kontraband.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224041259id_/http%3A//www.kontraband.com/privacy.asp) for the most accurate reproduction.*
 
 # movie clips • games • funny virals • funny emails and email attachments
 
@@ -34,10 +34,10 @@ To try and bring you offers that are of interest to you, we have relationships w
   |   
 **Mailing Address**  
 Kontraband Ltd  
-Spaced Studios  
-90 De Beauvoir Road  
+5 Calvert Avenue  
+Shoreditch  
 London  
-N1 4EN  
+E2 7JP  
 United Kingdom
 
 **Contacting Kontraband**  
