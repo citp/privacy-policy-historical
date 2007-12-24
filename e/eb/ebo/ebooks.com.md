@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the ebooks.com privacy policy that was archived on 2006-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060819083053id_/http%3A//www.ebooks.com/information/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebooks.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224171050id_/http%3A//www.ebooks.com/information/privacy.asp) for the most accurate reproduction.*
 
 # eBooks.com - Help - Privacy
 
 **Download a book today**  
-52,000 popular, professional and academic ebooks from the world's leading publishers
+102,000 popular, professional and academic ebooks from the world's leading publishers
 
 | | | 
 
 #### eBooks.com Privacy Policy
 
-(Last Updated: 04/19/2006) 
+(Last Updated: Sept 27, 2007) 
 
 [](http://www.truste.org/ivalidate.php?url=www.ebooks.com&sealid=101) eBooks Corporation is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site [eBooks.com](http://www.ebooks.com/). Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
@@ -38,7 +38,7 @@ From time to time, we may also request and you may choose to provide us with per
 
 If you do not provide us with the personal information that we request, we may not be able to properly assess your request for service and the level of service we can provide you may be reduced to the extent that you do not provide us with relevant information. 
 
-We will not collect sensitive information about you from anyone else without your consent. 
+We will not collect sensitive information about you from anyone else without your consent.
 
 ##### Use and Disclosure of Information 
 
@@ -50,12 +50,12 @@ We will not sell, rent, trade, share, reveal or disclose any of your personal in
   * we deem it necessary to provide you with services you have requested;
   * we are required to do so by a Court of competent jurisdiction or by a governmental order, decree, regulation or rule of any regulatory agency;
   * our terms and conditions state that we will;
-  * we reasonably believe that use of disclosure is necessary to prevent or lessen a serious and imminent threat to an individual's life, health or safety or a serious threat to public health or safety; or
-  * we have reason to suspect that unlawful activity has been, is being or may be engaged in and the use or disclosure of your personal information is a necessary part of our investigation of the matter or in reporting our concerns to relevant persons or authorities.
+  * we reasonably believe that use of disclosure is necessary to prevent or lessen a serious and imminent threat to an individual's life, health or safety or a serious threat to public health or safety; or 
+  * We have reason to suspect that unlawful activity has been, is being or may be engaged in and the use or disclosure of your personal information is a necessary part of our investigation of the matter or in reporting our concerns to relevant persons or authorities. 
 
 
 
-We may provide aggregate information and statistics about eBooks.com's customers, sales traffic patterns and related site information to third parties but these statistics will not include individual personal information.
+We may provide aggregate information and statistics about eBooks.com's customers, sales traffic patterns and related site information to third parties but these statistics will not include individual personal information. We use a credit card processing company to bill you for goods and services. These companies do not retain, share, store or use personally identifiable information for any other purposes. 
 
 We use a credit card processing company to bill you for goods and services. These companies do not retain, share, store or use personally identifiable information for any other purposes. 
 
@@ -63,7 +63,7 @@ We use a credit card processing company to bill you for goods and services. Thes
 
 Cookies are pieces of information that a website can transfer to an individual's web browser on their computer hard drive for record keeping. Cookies can make using websites easier by storing information about your preferences on a particular website. The information remains on your computer after the Internet session finishes. 
 
-eBooks.com uses cookies to improve the functionality of its site and support all browsers. eBooks.com uses cookies to assess the performance of the Website and to confirm your preferences. 
+eBooks.com cookies to improve the functionality of its site and support all browsers. eBooks.com uses cookies to assess the performance of the Website and to confirm your preferences.
 
 Most Internet browsers are pre-set to accept cookies. If you prefer not to receive cookies, you can adjust your Internet browser to refuse cookies or to warn you when cookies are being used. These cookies do not contain any personally identifiable information. 
 
@@ -81,11 +81,11 @@ We provide you the opportunity to "opt-out" of having your personally identifiab
 
 If you sign up for our email alerts, notifying you of new book releases, and you no longer wish to receive our alerts and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at privacy@ebooks.com. 
 
-You will be notified when your personal information is collected by any third party that is not our agent/service provider, so you can make an informed choice as to whether or not to share your information with that party.
+You will be notified when your personal information is collected by any third party that is not our agent/service provider, so you can make an informed choice as to whether or not to share your information with that party. 
 
 ##### Data Security
 
-eBooks.com takes your privacy and the privacy of all its customers very seriously. We have practices which include the secure storage of personal information and safeguards against the accidental release of personal information. 
+eBooks.com takes your privacy and the privacy of all its customers very seriously. We have practices which include the secure storage of personal information and safeguards against the accidental release of personal information. eBooks.com uses SSL encryption to transmit sensitive information. 
 
 If you have any concerns about your privacy and the use of the Website or any of eBooks.com's services or products, please contact privacy@ebooks.com. 
 
@@ -93,7 +93,9 @@ You may request that we provide you with a copy of the personal information coll
 
 ##### E-commerce Policy
 
-eBooks.com takes steps to ensure that your credit card details are protected. We have practices which include the deletion of credit card information following confirmation of a successful transaction from eBooks.com's banking partner. 
+eBooks.com takes steps to ensure that your credit card details are protected. When you enter sensitive information such as a credit card number on our order forms, we encrypt that information using secure socket layer technology (SSL).
+
+eBooks.com follows generally accepted industry standards to protect the Personal Information submitted to us, both during transmission and once we receive it. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.
 
 If you choose to purchase a product or service from eBooks.com online, eBooks.com only stores enough information concerning your transaction as to permit it to verify your instructions and reconcile payment information from its merchant clearance system.
 
@@ -109,6 +111,12 @@ Cambridge
 CB4 0WE  
 United Kingdon  
 
+
+By default, credit card details are encrypted and stored for use with future purchases. Internally, eBooks.com takes extra caution to limit access to customers' information. Only a few individuals within the company are given degrees of access to customers' personal information according to job function and necessity. Access is granted to these employees through special passwords. All employees are kept up to date on our security and privacy practices. Finally, the servers that store personally identifiable information are kept in a secure, guarded environment. If you would like your details removed, please submit a request through our [support form](https://sec.ebooks.com/account/support.asp).
+
+##### TELL-A-FRIEND
+
+If you choose to use our referral service to tell a friend about our site, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Ebooks Corporation does not store this information. 
 
 ##### Links to Other Sites
 
@@ -141,45 +149,45 @@ Australia
 
 ##### Current Best Sellers
 
+[](http://rss.ebooks.com/rss.xml)  
   
 
 
 ##### Special Offers
 
-[****First time to eBooks.com?****](http://www.ebooks.com/news/article.asp?AID=41)  
+[****First time to eBooks.com?****](http://www.ebooks.com/news/41.asp)  
 Easy steps to using eBooks
 
-[ ** **Sign Up for eMail Alerts****](http://www.ebooks.com/news/article.asp?AID=42)  
+[ ** **Sign up for Email Alerts****](http://www.ebooks.com/news/42.asp)  
 Receive an email alert when we release new books in your field.
 
-[ ** **10% off New York Times Best Sellers****](http://www.ebooks.com/news/article.asp?AID=5475)  
+[ ** **10% off New York Times Best Sellers****](http://www.ebooks.com/news/5475.asp)  
 eBook versions of the New York Times Best Sellers - at 10% off!
 
-[ ** **Best Selling Fiction Titles****](http://www.ebooks.com/news/article.asp?AID=46)  
+[ ** **Best Selling Fiction Titles****](http://www.ebooks.com/news/46.asp)  
 Books that are definitely worth a read - our Best Selling Fiction
 
-[ ** **Free Excerpts****](http://www.ebooks.com/news/article.asp?AID=30219)  
+[ ** **Free Excerpts****](http://www.ebooks.com/news/30219.asp)  
 Free excerpts for titles which are new, noteworthy or strongly in demand this month.
 
-[ ** **Just Arrived!****](http://www.ebooks.com/news/article.asp?AID=57)  
+[ ** **Just Arrived!****](http://www.ebooks.com/news/57.asp)  
 We're adding hundreds of great titles each month.
 
-[ ** **Recently Reduced Titles****](http://www.ebooks.com/news/article.asp?AID=5478)  
+[ ** **Recently Reduced Titles****](http://www.ebooks.com/news/5478.asp)  
 On Sale - Our favorite and most popular ebooks!
 
-[ ** **Featured Authors****](http://www.ebooks.com/news/article.asp?AID=15912)  
+[ ** **Featured Authors****](http://www.ebooks.com/news/15912.asp)  
 20% off titles by our favorite authors!
 
-[ **Visit the Cambridge University Press eBook Store**](http://www.ebooks.com/news/article.asp?AID=64)  
+[ **Visit the Cambridge University Press eBook Store**](http://www.ebooks.com/news/64.asp)  
 Cambridge University Press, the oldest university press in the world, has just launched its own eBook Store, powered by eBooks.com.
 
-[ ** **Take the law into your own hands!****](http://www.ebooks.com/news/article.asp?AID=60)  
-Stand Up To The IRS, Win Your Lawsuit, Employment Law
+[ **Maintain Your Brain**](http://www.ebooks.com/news/39183.asp)  
+Is your grey matter in need of a tune up??? Take a look at some of these excellent titles, to stimulate your synapses! 
 
-[ ** **Win $50 worth of eBooks!****](http://www.ebooks.com/news/article.asp?AID=5948)  
-Join our eBooks.com Competitions Group for a chance to win yourself $50 worth of eBooks!
+[****Take the law into your own hands!****](http://www.ebooks.com/news/60.asp)
 
-[ ** **Get Rich Now****](http://www.ebooks.com/news/article.asp?AID=72)  
+[ ** **Get Rich Now****](http://www.ebooks.com/news/72.asp)  
 Get control of your finances with our "Financial Independence Library"
 
 [ ** **Gift Certificates****](http://www.ebooks.com/gift-certificates/)  
