@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the commerceonline.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629090148id_/http%3A//www.commerceonline.com/privacy_policy/index.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commerceonline.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224140141id_/http%3A//www.commerceonline.com/privacy_policy/index.cfm) for the most accurate reproduction.*
 
 # Commerce Bank - Privacy Policy
 
