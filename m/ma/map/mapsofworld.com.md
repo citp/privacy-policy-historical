@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mapsofworld.com privacy policy that was archived on 2007-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070610095339id_/http%3A//www.mapsofworld.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mapsofworld.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224140935id_/http%3A//www.mapsofworld.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - MapsOfWorld.com
 
@@ -12,12 +12,16 @@ MapsOfWorld.com may collect information in one or more ways from different parts
 MapsOfWorld.com may ask you for personal information at times, including, but not limited to, when you enter in a contest or promotion sponsored by MapsOfWorld.com and/or our other contracted partners; and when you report a problem with one of our sites or services. MapsOfWorld.com occasionally may also ask site user to complete surveys that are use for internal research. Wherever MapsOfWorld.com collects personal information an effort is made to include a link to this Privacy Policy on that page. 
 
 **2\. What are cookies and how MapsOfWorld.com uses them?**  
-As combined part of offering and providing customised and personalised services, MapsOfWorld.com may use cookies to store and track your information. A cookie is a miniscule amount of data that is sent to your browser from a Web server that may be stored on your computer's hard drive. If you choose to browse map images, routes and trip plans we will require that you accept cookies. 
+As combined part of offering and providing customised and personalised services, MapsOfWorld.com may use cookies to store and track your information. A cookie is a miniscule amount of data that is sent to your browser from a Web server that may be stored on your 
+
+[_computer's_](http://www.mapsofworld.com/referrals/computers/top-computer-manufacturing-companies/ "Top computer Manufacturing Companies")
+
+hard drive. If you choose to browse map images, routes and trip plans we will require that you accept cookies. 
 
 Generally, we use cookies to: 
 
   * Cache your personalised settings for items such as route language and default country location. 
-  * Determine whether you are using a public computer so that any MapsOfWorld.com settings changed while using a public computer do not affect the next user's ability to use MapsOfWorld.com 
+  * Determine whether you are using a public [_computer_](http://www.mapsofworld.com/referrals/computers/top-computer-manufacturing-companies/ "Top computer Manufacturing Companies") so that any MapsOfWorld.com settings changed while using a public computer do not affect the next user's ability to use MapsOfWorld.com 
   * Roughly Estimate our audience or browsers. Each fresh browser trying to access MapsOfWorld.com may be given a cookie. That maybe used to determine the extent of repeat usage by the user. 
   * Assist us to track the number of visits to and business activities at the MapsOfWorld.com or MapsOfWorld.com store, and to track and process the items in your shopping basket. 
   * Track your progress and number of entries or queries in some of our promotions, and contests. When a Compare Infobase-hosted promotion uses cookies, the information written to the cookie may be used to track the entries, submissions made, and status in prize drawings list. 
@@ -58,7 +62,11 @@ MapsOfWorld.com as a policy does not sell or rent your information to anyone. We
 **6\. How much protected is my personal financial information?**  
 To keep your personal financial information private is vital and important to us. As with all personal information, MapsOfWorld.com will never rent or sell your personal financial information. Your use of certain services or features, known to us, may help us to offer you better and more relevant content and advertisements. Yet as with all personally identifiable information, we do not make this available to any third parties without your permission. 
 
-Please note that there may be places on the MapsOfWorld.com network of Web sites where you can transmit credit card information in order to complete a purchase transaction or for verification purposes. Any time we ask for a credit card number we transmit that credit card number in an encrypted format. We use best industry-standard, SSL (secure socket layer) encryption technology. This sophisticated encryption process ensures that prying eyes are unable to decode your personal data when it travels from your computer to ours. 
+Please note that there may be places on the MapsOfWorld.com network of Web sites where you can transmit credit card information in order to complete a purchase transaction or for verification purposes. Any time we ask for a credit card number we transmit that credit card number in an encrypted format. We use best industry-standard, SSL (secure socket layer) encryption technology. This sophisticated encryption process ensures that prying eyes are unable to decode your personal data when it travels from your 
+
+[_computer's_](http://www.mapsofworld.com/referrals/computers/top-computer-manufacturing-companies/ "Top computer Manufacturing Companies")
+
+to ours. 
 
 **7\. What security precautions are there to place to protect the loss, misuse, or alteration of information?**  
 It may not be a norm but the fact remains that no data transmission over the Internet can be guaranteed to be 100% secure always. As a result, while we strive to protect your personal information, MapsOfWorld.com cannot ensure or warrant the total security of any information you transmit to us or for our online products purchase or services, and you do so at your own risk. But once we receive your transmission, we strive and make our best effort to ensure its security on our systems. 
