@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tradeholding.net privacy policy that was archived on 2007-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070225152111id_/http%3A//www.tradeholding.net/default.cgi/action/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradeholding.net privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224032927id_/http%3A//www.tradeholding.net/default.cgi/action/privacypolicy) for the most accurate reproduction.*
 
-# UK Business Directory - Finance, Business and Trade leads - Consultancy, insurance, loans, factoring, leasing - TradeHolding.net
+# UK Business Directory - B2B Marketplace, Company Directory, Trade Leads and Product Catalogs - www.TradeHolding.net
 
 **www.TradeHolding.net - Privacy Policy**
 
