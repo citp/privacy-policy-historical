@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the autoanything.com privacy policy that was archived on 2007-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070614014613id_/http%3A//www.autoanything.com/help/policy.aspx%23privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autoanything.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224053236id_/http%3A//www.autoanything.com/help/policy.aspx%23privacypolicy) for the most accurate reproduction.*
 
-# Auto Accessories, Auto Parts, Car Covers, Tonneau Cover, Seat Covers and Truck Accessories
+# Truck Accessories, Auto Accessories, Auto Parts, Car Covers, Tonneau Cover and Seat Covers
 
 Take a moment to check out AutoAnything's policies and related information
 
@@ -73,6 +73,8 @@ Except as otherwise stated below, we do not sell, trade or rent your personally 
 AutoAnything.com may use non-personal "aggregated data" to enhance the operation of our website, or analyze interest in the areas of our website. Moreover, we may in some circumstances disclose personally identifiable information to third parties to enhance your experience on our website. Additionally, if you provide AutoAnything.com with content for publishing or feedback, we may publish your user name or other identifying data.
 
 AutoAnything.com may also disclose personally identifiable information in order to respond to a subpoena, court order or other such request. AutoAnything.com may also provide such personally identifiable information in response to a law enforcement agency's request or as otherwise required by law. Your personally identifiable information may be provided to a party if AutoAnything.com files for bankruptcy, or there is a transfer of the assets or ownership of AutoAnything.com in connection with proposed or consummated corporate reorganizations, such as mergers or acquisitions.
+
+From time to time we may disclose certain information (names, postal addresses, telephone numbers and non-sensitive transactional information such as your purchase history, amounts paid and products ordered) to direct marketing companies for trade or rental purposes. You may opt out, or instruct us not to distribute such information to third parties in the future by sending an email with such instructions to [info@autoanything.com](mailto:info@autoanything.com); however, we may not be able to provide you our full range of services if we cannot distribute certain Personally Identifiable Information.
 
 If you choose to participate in activities offered through co-branded sites, including but not limited to, Shoppers Advantage, Travelers Advantages, Great Fun, AutoVantage Gold, CompleteHome, Buyers Advantage, Clever Clubhouse and PC Safety Plus (the "Co-Branded Sites"), you will have the opportunity to affirmatively consent to the transfer to the Co-Branded Sites of certain personally identifiable information, as appropriate, such as your name, date of birth, e-mail address, telephone number, credit card number, expiration date and other information necessary for your participation in the Co-Branded Sites.
 
@@ -207,7 +209,7 @@ San Diego, CA 92123
 ---|---  
 | Hours: M-F 6am-5pm*  
 **Phone sales:**|  1-800-874-8888  
-| Hours: Mon-Thu 5am-6pm; Fri 5am-5pm; Sat-Sun 6am-3:30pm*  
+| Hours: Mon-Thu 5am-8pm; Fri 5am-5pm; Sat-Sun 6am-3:30pm*  
 **Direct:**|  858-569-8111  
 **Fax:**|  858-569-8503  
   
@@ -224,4 +226,5 @@ _*All times pacific_
 **Cancel an order:**| [cancel@autoanything.com](mailto:cancel@autoanything.com)  
 **Returns & exchanges:**| [returns@autoanything.com](mailto:returns@autoanything.com)  
 **Job opportunities:**| [jobs@autoanything.com](mailto:jobs@autoanything.com)  
-**Affiliate program:**| [affiliatemarketing@autoanything.com](mailto:affiliatemarketing@autoanything.com)
+**Affiliate program:**| [affiliatemarketing@autoanything.com](mailto:affiliatemarketing@autoanything.com)  
+**Customer Service:**| [customerservice@autoanything.com](mailto:customerservice@autoanything.com)
