@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the satechi.net privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630092118id_/http%3A//www.satechi.net/satechi-privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the satechi.net privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224125635id_/http%3A//www.satechi.net/satechi-privacy.php) for the most accurate reproduction.*
 
 # Satechi :: Privacy Policy
 
-[](https://web.archive.org/web/20070630092118id_/http%3A//www.satechi.net/index.php)
+[](https://web.archive.org/web/20071224125635id_/http%3A//www.satechi.net/index.php)
 
-[](https://web.archive.org/web/20070630092118id_/http%3A//www.satechi.net/satechi-privacy.php)  
+[](https://web.archive.org/web/20071224125635id_/http%3A//www.satechi.net/satechi-privacy.php)  
 ---  
 |   
   
