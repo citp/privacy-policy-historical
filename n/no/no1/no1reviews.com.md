@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the no1reviews.com privacy policy that was archived on 2007-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070430000222id_/http%3A//www.no1reviews.com/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the no1reviews.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224221727id_/http%3A//www.no1reviews.com/Privacy-Policy.html) for the most accurate reproduction.*
 
 # No1Reviews.com Privacy Policy
 
@@ -45,9 +45,9 @@ How to Contact Us
 
 Please use the Contact Us link at the bottom of this page to contact us. 
 
-[Home](https://web.archive.org/web/20070430000222id_/http%3A//www.no1reviews.com/index.html) | [About Us ](https://web.archive.org/web/20070430000222id_/http%3A//www.no1reviews.com/Weight-Loss-Books.html) | [Privacy Policy](https://web.archive.org/web/20070430000222id_/http%3A//www.no1reviews.com/Privacy-Policy.html) | [Spot a Mistake? ](https://web.archive.org/web/20070430000222id_/http%3A//www.no1reviews.com/Feedback.html)  
-[FAQ](https://web.archive.org/web/20070430000222id_/http%3A//www.no1reviews.com/faq.html) | [Useful Links](https://web.archive.org/web/20070430000222id_/http%3A//www.no1reviews.com/Links.html) | [Site Map](https://web.archive.org/web/20070430000222id_/http%3A//www.no1reviews.com/sitemap.html) | [Terms & Conditions](https://web.archive.org/web/20070430000222id_/http%3A//www.no1reviews.com/TC.html) | [Contact Us  
-](https://web.archive.org/web/20070430000222id_/http%3A//www.no1reviews.com/Contact.html)
+[Home](https://web.archive.org/web/20071224221727id_/http%3A//www.no1reviews.com/index.html) | [About Us ](https://web.archive.org/web/20071224221727id_/http%3A//www.no1reviews.com/Weight-Loss-Books.html) | [Privacy Policy](https://web.archive.org/web/20071224221727id_/http%3A//www.no1reviews.com/Privacy-Policy.html) | [Spot a Mistake? ](https://web.archive.org/web/20071224221727id_/http%3A//www.no1reviews.com/Feedback.html)  
+[FAQ](https://web.archive.org/web/20071224221727id_/http%3A//www.no1reviews.com/faq.html) | [Useful Links](https://web.archive.org/web/20071224221727id_/http%3A//www.no1reviews.com/Links.html) | [Site Map](https://web.archive.org/web/20071224221727id_/http%3A//www.no1reviews.com/sitemap.html) | [Terms & Conditions](https://web.archive.org/web/20071224221727id_/http%3A//www.no1reviews.com/TC.html) | [Contact Us  
+](https://web.archive.org/web/20071224221727id_/http%3A//www.no1reviews.com/Contact.html)
 
 Web site and all contents © Copyright No1Reviews.com 2020 , All rights reserved.  
 Reproduction in whole or in part in any form or medium without express written permission of No1Reviews.com is strictly prohibited. Plagiarism will be detected by Copyscape. 
