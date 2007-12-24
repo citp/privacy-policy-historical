@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prince.org privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618070522id_/http%3A//www.prince.org/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prince.org privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224043759id_/http%3A//prince.org/privacy_policy.html) for the most accurate reproduction.*
 
 # privacy policy
 
@@ -12,7 +12,7 @@ prince.org collects personally identifiable information when you register for a 
 
 ## Information Sharing and Disclosure
 
-prince.org will not sell or rent your personally identifiable information to anyone. prince.org may send personally identifiable information about you to other companies or people in response to subpoenas, court orders or legal process, or we find that your actions on our web sites violate the prince.org [User Agreement](http://www.prince.org/user_agreement.html). 
+prince.org will not sell or rent your personally identifiable information to anyone. prince.org may send personally identifiable information about you to other companies or people in response to subpoenas, court orders or legal process, or we find that your actions on our web sites violate the prince.org [User Agreement](http://prince.org/user_agreement.html). 
 
 ## Cookies
 
