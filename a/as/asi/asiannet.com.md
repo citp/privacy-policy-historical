@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the asiannet.com privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622210046id_/http%3A//www.asiannet.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asiannet.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224235228id_/http%3A//www.asiannet.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Asian Manufacturers, Asian Suppliers - AsianNet / Global B2B - Asia, China, Taiwan, Trade Directory, Marketplace, Chinese Products, Taiwan Products, China Exporters, Taiwan Exporters
+# AsianNet.com - Asia Trade Center / Privacy Policy - Asian Manufacturers, Asian Suppliers - Asia, China, Taiwan, Trade Directory, Marketplace, Chinese Products, Taiwan Products, China Exporters, Taiwan Exporters
 
 This is the Privacy Policy governing your use of the AsianNet.com Site. By using this Site, you consent to our Privacy Policy set out below. All terms not defined in this document have the meanings ascribed to them in the Terms of Use Agreement between you and AsianNet.com which by use of this Site you agree to accept. 
 
