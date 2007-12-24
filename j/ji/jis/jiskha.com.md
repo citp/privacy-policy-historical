@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jiskha.com privacy policy that was archived on 2007-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070628162914id_/http%3A//www.jiskha.com/legal/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jiskha.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224140618id_/http%3A//www.jiskha.com/legal/privacy_policy.html) for the most accurate reproduction.*
 
 # Jiskha Homework Help - Legal: Privacy Policy
 
@@ -38,4 +38,10 @@ Thank you for taking the time to read this privacy policy. Jiskha Homework Help 
 
 [hip hop vinyl](http://www.irismika.com/english/)
 
-[**download mp3 free instrumental remix**](http://www.jiskha.com/download/)
+**Link to Jiskha Homework Help**
+
+To add this website to your profile, copy & paste the following code:   
+
+
+**[Download](http://www.jiskha.com/download/)**|  **[###](http://www.jiskha.com/download/browse.cgi?artist=number)**|  **[A](http://www.jiskha.com/download/browse.cgi?artist=A)**|  **[B](http://www.jiskha.com/download/browse.cgi?artist=B)**|  **[C](http://www.jiskha.com/download/browse.cgi?artist=C)**|  **[D](http://www.jiskha.com/download/browse.cgi?artist=D)**|  **[E](http://www.jiskha.com/download/browse.cgi?artist=E)**|  **[F](http://www.jiskha.com/download/browse.cgi?artist=F)**|  **[G](http://www.jiskha.com/download/browse.cgi?artist=G)**|  **[H](http://www.jiskha.com/download/browse.cgi?artist=H)**|  **[I](http://www.jiskha.com/download/browse.cgi?artist=I)**|  **[J](http://www.jiskha.com/download/browse.cgi?artist=J)**|  **[K](http://www.jiskha.com/download/browse.cgi?artist=K)**|  **[L](http://www.jiskha.com/download/browse.cgi?artist=L)**|  **[M](http://www.jiskha.com/download/browse.cgi?artist=M)**|  **[N](http://www.jiskha.com/download/browse.cgi?artist=N)**|  **[O](http://www.jiskha.com/download/browse.cgi?artist=O)**|  **[P](http://www.jiskha.com/download/browse.cgi?artist=P)**|  **[Q](http://www.jiskha.com/download/browse.cgi?artist=Q)**|  **[R](http://www.jiskha.com/download/browse.cgi?artist=R)**|  **[S](http://www.jiskha.com/download/browse.cgi?artist=S)**|  **[T](http://www.jiskha.com/download/browse.cgi?artist=T)**|  **[U](http://www.jiskha.com/download/browse.cgi?artist=U)**|  **[V](http://www.jiskha.com/download/browse.cgi?artist=V)**|  **[W](http://www.jiskha.com/download/browse.cgi?artist=W)**|  **[X](http://www.jiskha.com/download/browse.cgi?artist=X)**|  **[Y](http://www.jiskha.com/download/browse.cgi?artist=Y)**|  **[Z](http://www.jiskha.com/download/browse.cgi?artist=Z)**  
+---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---
