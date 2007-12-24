@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the weichert.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626122825id_/http%3A//www.weichert.com/aboutus/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weichert.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224102523id_/http%3A//www.weichert.com/aboutus/Privacy.html) for the most accurate reproduction.*
 
-# Weichert.com : About Us : Privacy Policy
+# Weichert.com: About Us: Privacy Policy
 
 **Weichert, Realtors and the affiliated companies of Weichert (“Weichert” or “we”)** recognize the importance of protecting the privacy of certain information collected about our customers and potential customers. This Privacy Policy was created in order to demonstrate our commitment to protecting our customers' privacy.
 
