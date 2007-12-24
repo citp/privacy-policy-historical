@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zooprinting.com privacy policy that was archived on 2007-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070209082431id_/http%3A//www.zooprinting.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zooprinting.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224192933id_/http%3A//www.zooprinting.com/privacy.html) for the most accurate reproduction.*
 
 # Zoo Printing - Full Color Business Cards For $41
 
@@ -8,7 +8,7 @@ Zoo Printing values its customers and respects their privacy. We collect custome
 
   * **Email:** info@zooprinting.com
   * **Phone:** 310.253.7751
-  * **Mail:** 10395 Jefferson Blvd., Culver City, CA 90232
+  * **Mail:** 5700 Bandini Blvd., Commerce, CA 90040
 
 
 
