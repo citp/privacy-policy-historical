@@ -1,103 +1,138 @@
-> *The following text is extracted and transformed from the bananarepublic.com privacy policy that was archived on 2006-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061020025035id_/http%3A//www.bananarepublic.com/customerService/info.do%3Fcid%3D1330) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bananarepublic.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224071658id_/http%3A//www.bananarepublic.com/customerService/info.do%3Fcid%3D1330) for the most accurate reproduction.*
 
-# BananaRepublic.com: Privacy Policy
+# Privacy Policy | Banana Republic
 
-BananaRepublic.com values its customers and respects their privacy. We collect customer information in an effort to improve your shopping experience and to communicate with you about our products, services, contests and promotions. We do not sell or rent your personal information to third parties. As described in this policy, we do, however, share your information with our affiliates and under certain circumstances, with third parties that provide services on our behalf or with whom we have partnered to offer a particular product or service. 
+Gap Inc. and our brands, which include but are not limited to Gap, Banana Republic, Old Navy, Gap Outlet, Banana Republic Factory Stores, and Piperlime (collectively, "Gap Inc."), value our customers and respect your privacy. We collect information about you in our stores and through our websites in an effort to improve your shopping experience and to communicate with you about our products, services, contests and promotions. We do not sell or rent your personal information to third parties. As described in this policy, we may share your information among our brands and, under certain circumstances, with third parties that provide services on our behalf or with whom we have partnered to offer a particular product or service. 
 
-This policy describes the personal information we collect about you, why we collect it, how we use it and when we share it with third parties. Our policy also describes the choices you can make about how we collect and use your information. If you have any questions about our privacy policy, you can always contact BananaRepublic.com customer service in any of three ways:
+This policy describes the personal information we collect about you, why we collect it, how we use it, and when we share it with third parties. Our policy also describes the choices you can make about how we collect and use your information. If our information practices change, we will post an updated policy on our website. You can tell if the policy has changed by checking the revision date that appears at the end of this policy. If we change the policy in a material way, we will provide appropriate notice to you. You may exercise your choices about how we collect and use your information consistent with this policy at any time.
 
-  1. send us an [e-mail](https://web.archive.org/customerService/info.do?cid=7886). 
-  2. call us at 1.888.277.8953. 
-  3. write to us at:  
-BananaRepublic.com Customer Services  
+If you have any questions about our privacy policy, please contact us as described in the section entitled, "How do I contact you?", below.
+
+  * What kind of information does Gap Inc. collect?
+  * How does Gap Inc. use my information?
+  * Does Gap Inc. share my information?
+  * How do I access or change my information?
+  * How do I make choices about receiving promotional communications?
+  * How does Gap Inc. protect kids' privacy?
+  * How does Gap Inc. use cookies?
+  * How does Gap Inc. use pixel tags?
+  * How do I know my personal information is secure?
+  * What is "phishing"?
+  * What about links to other websites?
+  * How do I contact you?
+  * Your California Privacy Rights
+
+
+
+We may collect personal information from you, such as your name, email address, postal address, phone number, credit card number, gender, birthday, personal interests, etc., when you visit one of our websites or stores, place an order online or by phone, make an in-store purchase, save your information with us online, contact us with a question or concern, or participate in a contest, promotion, or survey. We maintain a record of your product interests and the purchases you make online or by phone and in our stores. We may combine all of this information with information about you that we acquire from our joint marketing partners, from unrelated third parties, and from our other brands.
+
+We may use your personal information in the following ways:
+
+  * To process and fulfill your order, including to send you emails to confirm your order status and shipment
+  * To communicate with you and to send you information by email, postal mail, telephone, text message, or other means about our products, services, contests, and promotions, unless you have directed us not to contact you with promotional communications
+  * To administer and fulfill our contests and other promotions
+  * To help us learn more about your shopping preferences
+  * To help us address problems with and improve our site design, products and services
+  * To enhance your shopping experience
+  * To analyze trends and statistics
+  * To protect the security or integrity of our websites and our business
+  * To contact you if necessary
+
+
+
+You always have the choice not to receive marketing information or calls. For instructions on opting out, please see the section entitled, "How do I make choices about receiving promotional communications?", below.
+
+We may share your personal information in the following ways:
+
+  * When you provide personal information to one of our Gap Inc. brands (Gap, Banana Republic, Old Navy, or Piperlime), we may share that information with our other Gap Inc. brands. 
+  * We may share your information with our service providers who manage our customer information and perform services on our behalf, such as fulfilling promotions, sending communications to our customers, conducting surveys, etc. We do not authorize any of these service providers to make any other use or disclosure of your information.
+  * We may share your information when we team up with another company to offer or provide products, services, contests, or promotions to our customers. 
+
+
+
+In addition, if you choose to participate in any scrip, loyalty, or similar program in which a Gap Inc. brand is a participating vendor, and you authorize Gap Inc. or our credit card processor to provide information about your purchases to the company administering the program, we will share your personal information with that program. Scrip programs allow you to instruct us to divert a percentage of the amount you spend on Gap Inc. purchases to participating schools and other non-profit organizations. Loyalty programs allow you to earn "points" on purchases at Gap Inc. brands, which you may then use toward certain rewards offered by the loyalty programs in which you participate. The information you authorize us to disclose to the scrip or loyalty program may include your credit card number and the date and amount of your purchase, and may also include your name and other information you have asked us to provide. Please note that once we disclose this information, the scrip or loyalty company may use and share it with others in accordance with its own privacy policy. You should review these policies carefully, as we have no control over them.
+
+In the unlikely event of a sale or merger of Gap Inc. or any of our businesses, our customers' personal information and other information we have collected as described in this policy may be among the transferred business assets.
+
+We reserve the right to disclose information about you as permitted or required by law, in response to legal process and law enforcement requests, and as we believe necessary to protect the property, interests and rights of Gap Inc. and others.
+
+You can review and change certain personal information related to your use of our online sites (such as your name and contact information). To access your information at a Gap Inc. website, simply sign in to your account using your email address and password, and you will be able to edit your personal information in your account profile. 
+
+You can also ask us to update your personal information by contacting us as described in the section entitled, "How do I contact you?", below. Please note that any request to update your personal information may take up to 10 days for your email request and 6-8 weeks for your postal mail request.
+
+Gap Inc. and our brands, Gap, Banana Republic, Old Navy, and Piperlime, want to communicate with you only if you want to hear from us. If you prefer not to receive promotional information, such as information about special offers and sales events, from one or more of our brands, you can let us know by contacting our customer service as described in the section entitled, "How do I contact you?", below.
+
+Please be sure to include your full name and the email address you used when you registered with or made a purchase from the Gap Inc. brand. If you ask us to remove your name and address from promotional lists, we will maintain your name in a "do not contact" file to ensure that we can honor your request. It may take up to 10 days to process your email request and 6-8 weeks to process your postal mail request, during which period you may continue to receive communications from Gap Inc. 
+
+If you change your mind, you can start receiving promotional communications from us again by logging into your online account and changing your preferences, by signing up when you visit our websites or our stores or when you enter a sweepstakes or contest, or by contacting customer service.
+
+Please note that when you make an online purchase from us, we will continue to confirm your order status and shipment by email. We may also need to contact you via telephone, email or postal mail with questions or information regarding your order.
+
+Gap Inc. is concerned about the privacy and safety of children when they use the Internet. We will never knowingly request personally identifiable information online from anyone under the age of 13 without prior verifiable parental consent. Our websites are general audience sites and are not targeted to or intended for use by children.
+
+Our websites use "cookies", which are small data files that are stored on your computer when you visit a website.
+
+Cookies enable you to shop on our websites and may be used in a variety of ways to enhance or personalize your online browsing and shopping experience.
+
+For example, we may use cookies to enable you to use certain website features, remember the items in your shopping cart, store your preferences, recognize you when you return to our website, track your orders, and monitor and maintain information about your use of our websites. Cookies may also be used to collect transaction information needed by a scrip or loyalty program to which you have authorized us to provide your personal information. (See the section entitled, "Does Gap Inc. share my information?", above.)
+
+You can set your browser not to accept cookies or to notify you when you are sent a cookie, giving you the opportunity to decide whether or not to accept it. If you do not accept cookies, however, you will not be able to access your account information or make purchases on our websites.
+
+We use "pixel tags" (also called "web beacons" or "clear gifs"), which are tiny graphic images, on our websites and in our emails. Pixel tags help us analyze our customers' online behavior and measure the effectiveness of our websites and our advertising. We work with service providers that help us track, collect, and analyze this information.
+
+Pixel tags on our sites may be used to collect information about your visit, including the pages you view, the features you use, the links you click, and other actions you take in connection with the sites. This information may include your computer's Internet protocol (IP) address, your browser type, your operating system, date and time information, and other technical information about your computer. We may also track certain information about the identity of the website you visited immediately before coming to our site. We do not otherwise track any information about your use of other websites. 
+
+Pixel tags and cookies in our emails may be used to track your interactions with those messages, such as when you receive, open, or click a link in an email message from us.
+
+We also work with third-party companies that use tracking technologies to serve advertisements on our behalf across the Internet. These companies may collect information about your visits to our websites and your interaction with our advertising and other communications. If you would like more information about this practice and to know your choices about not having your information used by these companies, please visit [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
+
+We may combine the information we collect through cookies and pixel tags with other information we have collected from you. This information may be used to improve our websites, to personalize your online experience, to tailor our communications with you, to determine the effectiveness of our advertising, and for other internal business purposes.
+
+We do our best to provide you with a safe and convenient shopping experience. We have in place certain physical, electronic, contractual, and managerial safeguards to protect the security and privacy of your personal information.
+
+When you enter your personal information on our websites, we use Secure Sockets Layer (SSL) technology to protect your information as it is transmitted to us. To make sure you are accessing our secure server before you submit personal financial information, look at the lower left-hand corner of your browser. If you see an unbroken key or a closed lock (depending upon your browser), then SSL is active. To double-check for security, look at the URL or Location line of your browser. If you have accessed a secure server, the first characters of the address in that line should change from "http" to "https".
+
+If for any reason you cannot access the secure server, or if you're not quite comfortable shopping online at any of our websites, please feel free to place your order with us by telephone at the number listed in the section entitled, "How do I contact you?", below. Customer Services representatives at each of our brands are available 24 hours a day, seven days a week, and will be happy to assist you.
+
+"Phishing" is a scam designed to steal your personal information. If you receive an email that looks like it is us asking you for your personal information, do not respond. We will never request your password, user name, credit card information or other personal information through email.
+
+For your convenience and information, our websites may contain links to other sites, which may have privacy policies that differ from our own. We are not responsible for the content or practices of any linked site. We recommend that you review the privacy policy of any site that you access through our sites.
+
+For questions about our privacy policy, to make choices about receiving promotional communications, to update your personal information, or to place an order, you can contact any of our Gap Inc. brands by email, telephone, or postal mail:
+
+_Gap Customer Services_  
+5930 Gap Online Drive  
+Groveport, OH 43195-0002  
+1-800-GAPSTYLE (1-800-427-7895)  
+1-888-906-1104 (TDD hearing impaired)  
+[custserv@gap.com](mailto:custserv@gap.com)
+
+_Banana Republic Customer Services_  
 5900 North Meadows Drive  
-Grove City, OH 43123-8476. 
+Grove City, OH 43123-8476  
+1-888-BR STYLE (1-888-277-8953)  
+1.888.906.1345 (TDD hearing impaired)  
+[custserv@bananarepublic.com](mailto:custserv@bananarepublic.com)
 
+_Old Navy Customer Services_  
+200 Old Navy Lane  
+Grove City, OH 43123-8605  
+1-800-OLD-NAVY (1-800-653-6289)  
+1-800-449-4253 (TDD hearing impaired)  
+[custserv@oldnavy.com](mailto:custserv@oldnavy.com)
 
+_Piperlime Customer Care_  
+5900 Piperlime Lane  
+Grove City, OH 43123  
+1-877-PIPERLIME (1-877-747-3754)  
+1-888-906-1345 (TDD hearing impaired)  
+[customercare@piperlime.com](mailto:customercare@piperlime.com)
 
-If our information practices change in the future, we will post an updated policy on our website. You can tell if the policy has changed by checking the revision date that appears at the end of this policy. You may exercise your choices about how we collect and use your information at any time.
+California Civil Code Section 1798.83 permits customers of Gap Inc. who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please write to us at the following address:
 
-  * What kind of information does BananaRepublic.com collect? 
-  * How does BananaRepublic.com use my information?
-  * Does BananaRepublic.com share my information with third parties? 
-  * How do I access my information? How do I change or delete my information? 
-  * How do I exercise my choices about receiving promotional communications 
-  * How does BananaRepublic.com protect kids' privacy? 
-  * What are cookies? How does BananaRepublic.com use cookies on its site? 
-  * How do I know my order information is secure?
-  * What about links to other websites and services?
+Gap Inc. - California Privacy Rights  
+Legal Department  
+2 Folsom Street  
+San Francisco, CA 94105 
 
-
-
-We collect information, such as name, e-mail and postal addresses, phone and credit card numbers from you when you visit our website or one of our stores, place an order online or by phone, make an in-store purchase, save your info with us online, or participate in a contest, promotion or survey. We maintain a record of your product interests and the purchases you make online or by phone and in our stores, and may also acquire information about you from our joint marketing partners, from unrelated third parties, and from our affiliates, including, without limitation, Gap and Old Navy.
-
-When you place an order or make a purchase from BananaRepublic.com, we use your personal information to process your order, send you e-mails to confirm your order or to contact you via phone, postal mail or e-mail if we have other questions regarding your order or purchase.
-
-When you place an order, make a purchase or save your information online, we will use your e-mail and postal address to send you information about our products, services, contests, and promotions and to help us learn more about your shopping preferences. If you participate in a contest or promotion (online, over the phone or at one of our retail stores), we may use your personal information to send you e-mails, postal mail, or telephone (including text messages) regarding our products, services, contests and promotions. From time to time, we may use this information to contact you via e-mail, postal mail, or telephone to learn more about your shopping preferences. You always have the choice not to receive marketing information or calls. 
-
-In addition, we may use information about you and your product interests and purchases from us and our affiliates, including without limitation, Gap and Old Navy, to help us improve our site design and your online and in-store shopping experiences. We may contact you, subject to the choices you have made, via e-mail, postal mail, or telephone, to conduct market research and learn more about how we can improve our product offerings. 
-
-To serve you better, we may combine information you give us and information about your product interest and purchases with information from third parties, including demographic information and information that is publicly available. We may also combine this information with information from our affiliates, including without limitation, Gap and Old Navy. We use that combined information to enhance and personalize your shopping experience with us, and to communicate with you in accordance with this policy. 
-
-If you shop at one of our affiliates (including, without limitation, Gap and Old Navy), we share information about you with that affiliate, so that it can communicate with you by e-mail or postal mail about their products, services, contests and promotions that may be of interest to you. Each of our affiliates has a privacy policy that is consistent with our own.
-
-We also contract with service providers to maintain and manage our customer information, to fulfill promotions and to communicate with our customers. We do not authorize any of these service providers to make any other use of your information. 
-
-In addition, when we team up with another company to offer or provide products, services, contests or promotions, we may compare our customer list with theirs to identify our common customers. Both Banana Republic and our marketing partners may use that information to fulfill our respective obligations to you and for future promotional activities.
-
-When we offer contests and promotions, with or without a marketing partner, you may be required to provide certain personal information in order to participate. In these cases, we will give you the choice not to receive e-mail messages or other communications from us regarding our products, services, contests, and promotions. In this case, however, Banana Republic may still need to contact you, for example, to notify winners and to fulfill promotional obligations.
-
-Scrip programs allow you to instruct Banana Republic to divert a percentage of the amount you spend to participating schools and other non-profit organizations. Loyalty programs allow you to earn "points" on purchases at Banana Republic, which you may then use toward certain rewards offered by the loyalty programs in which you participate. If you choose to participate in any scrip, loyalty, or other similar program in which Banana Republic is a participating vendor, the company administering the scrip, loyalty, or other similar program (collectively, the "scrip company") should provide a link on its website that permits you to authorize Banana Republic or our credit card processor(s) to provide information about your Banana Republic purchases. The information you authorize us to disclose to the scrip company will include your credit card number and the date and amount of your purchase, and may also include your name and other information you have asked us to provide. Please note that once Banana Republic discloses this information, the scrip company may use and share it with others in accordance with its own privacy policy. You should review these policies carefully, as we have no control over them.
-
-In the unlikely event of a sale of some or all of our business, Banana Republic will disclose your personal information to a purchaser that agrees to abide by the terms and conditions of this privacy policy. 
-
-Banana Republic reserves the right to disclose information about you as required by law, in response to legal process and law enforcement requests, and as necessary to protect the property, interests and rights of Banana Republic, its affiliates, and others.
-
-You can review, change or delete certain personal information related to your use of our online sites (e.g., name and contact information). To access your information online, simply click "Access Your Info" at the bottom of any page, sign in when prompted to do so, and you'll be able to edit your personal information. You can also ask us to update your personal information, by calling us at 1.888.277.8953, writing us at 5900 North Meadows Drive, Grove City, OH 43123-8476, or you may [click here](https://web.archive.org/customerService/info.do?cid=7886) to e-mail BananaRepublic.com customer service. BananaRepublic.com customer service. Please be sure to include your full name and the e-mail address you used when you registered with or made a purchase from us. Please note that any requests to update your personal information may take up to ten days for your e-mail request and 6-8 weeks to process your postal mail request.
-
-We want to communicate with you only if you want to hear from us. If you prefer not to receive promotional information from us or our affiliated brands, or if you do not want us to use your information to enhance your shopping experience, please let us know by calling us at 1.888.277.8953, writing us at 5900 North Meadows Drive, Grove City, OH 43123-8476 or by sending us an [e-mail](https://web.archive.org/customerService/info.do?cid=7886). Please be sure to include your full name and the e-mail address you used when you registered with or made a purchase from us. If you ask us to remove your name and address from our promotional lists, we will maintain your name in a "do not contact" file to ensure that we can honor your request. It may take up to 10 days to process your e-mail request, and 6-8 weeks to process your postal mail request, during which period you may continue to receive communications from Banana Republic.
-
-Please also note that when you purchase from us, we will continue to confirm your order by e-mail. In addition, we may also need to contact you via phone, e-mail or postal mail with other questions regarding your order.
-
-Banana Republic is concerned about the safety of children when they use the Internet and will never knowingly request personally identifiable information from anyone under the age of 13.
-
-A cookie is a small data file that websites often store on your computer's hard drive when you visit their sites. A cookie may contain information, such as a unique user ID that websites use to track the pages of the sites you've visited. We use cookies but do not store personally identifiable information in your cookie.
-
-We use cookies in order to improve your shopping experience. Cookies enable us to keep track of your order as you shop on our site. 
-
-Through our use of cookies, we also track and maintain the identity of the website you visited immediately prior to visiting our website. We do not otherwise track any information about your use of other websites. 
-
-You can refuse cookies by turning them off in your browser. If you turn off cookies, though, we will not be able to track your order to enable you to purchase from our site. Nor will we be able to recognize you as a registered user, which allows you to access your account information. 
-
-If you are shopping on BananaRepublic.com using Internet Explorer 6.0 and are having difficulty accessing the site, please check your privacy settings in your browser and set them to "Medium". If you do not wish to change your privacy settings to "Medium" and you are currently using the "Medium High" or "High" settings, you may choose to override your current cookie handling practices for individual sites that you specify. Please click here for instructions. As always, you can place your order by phone at 1.888.277.8953. 
-
-To change your privacy settings to "Medium": 
-
-  * Select "Internet Options" from the "Tools" Menu
-  * Click the "Privacy" Tab
-  * Set the Privacy Slider to "Medium"
-  * Click "OK"
-
-
-
-To override your current cookie handling practices for individual sites: 
-
-  * Select "Internet Options" from the "Tools" Menu
-  * Click on the "Edit" button in the "Override cookie handling for individual websites" section. This will open the "Per Site Privacy Actions" dialogue box
-  * Type "www.bananarepublic.com" in the "Address of Website" box
-  * Click the "Allow" button
-  * Click the "OK" button, then close the "Per Site Privacy Actions" dialogue box
-  * Click the "OK" button to close the "Internet Options" dialogue box and apply your changes
-
-
-
-Protecting your order information is important to us. We use Secure Sockets Layer (SSL) technology to protect your online order information as it is transmitted over the Internet.
-
-Some versions of browsers and some firewalls don't permit communication through secure servers like the ones we use to process orders at BananaRepublic.com. To check the security of your connection, look at the lower left-hand corner of your browser window after accessing the server. If you see an unbroken key or a closed lock (depending on your browser), then SSL is active. You can also double-check by looking at the URL line of your browser. When accessing a secure server, the first characters of the site address will change from "http" to "https." 
-
-If your browser or firewall doesn't support SSL, you will not be able to connect to the server, which means you won't be able to mistakenly place an order through an unsecured connection. If you cannot access the secure server for any reason, please print our order form and place your order by phone at 1.888.277.8953 or by fax at 1.888.906.2465.
-
-The BananaRepublic.com website may contain links to other sites. Banana Republic does not control the privacy policies or practices of these websites. You should review those policies before providing any personal information. Banana Republic is not responsible for the content or practices of any linked websites, and we provide these links solely for the convenience and information of our visitors. 
-
-_Effective February 4, 2002  
-Last Revised: [10/11/2004]_
+_Last Revised: August 27, 2007_
