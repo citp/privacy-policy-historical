@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the streamingmedia.com privacy policy that was archived on 2007-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070603220035id_/http%3A//www.infotoday.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streamingmedia.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224101828id_/http%3A//www.infotoday.com/privacy.shtml) for the most accurate reproduction.*
 
 # ITI Privacy Policy
 
