@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ussoccerstore.com privacy policy that was archived on 2007-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070620053744id_/http%3A//ussoccerstore.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ussoccerstore.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224121935id_/http%3A//ussoccerstore.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-| | [](https://web.archive.org/web/20070620053744id_/http%3A//ussoccerstore.com/index.html)
+| | [](https://web.archive.org/web/20071224121935id_/http%3A//ussoccerstore.com/index.html)
 
 _This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the[Yahoo! Privacy Policy](http://privacy.yahoo.com/privacy/us/) for more information about how Yahoo! uses this information._
 
@@ -58,13 +58,13 @@ We use industry standard efforts to safeguard the confidentiality of your person
   8. **Contacting Us**   
 If you have any questions about this privacy policy statement, the practices of this site, or your dealings with this web site, please contact: Customer Service  
 US Soccer Store  
-P.O. Box 5218  
-Granbury, Texas 76049
+1632 W. 240th St.  
+Harbor City, CA 90710
 
 [customerservice@ussoccerstore.com  
 ](mailto:customerservice@ussoccerstore%20.com)  
-Tel: 817-573-8069  
-Fax: 817-573-8309
+Tel: 310-326-0916  
+Fax: 310-326-0918
 
 
 
