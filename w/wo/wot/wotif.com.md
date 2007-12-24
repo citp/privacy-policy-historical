@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wotif.com privacy policy that was archived on 2007-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070614074915id_/http%3A//www.wotif.com/info/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wotif.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224122946id_/http%3A//www.wotif.com/info/Privacy) for the most accurate reproduction.*
 
 # Wotif.com: Privacy
 
@@ -104,7 +104,7 @@ If at any time you want to enquire about any of your PII that we store, please [
 
 To ensure the confidentiality of your PII, we use leading security technology and procedures that are regularly reviewed and updated. 
 
-We have also obtained a digital certificate from Thawte Server CA (part of the VeriSign group), an industry leader in the protection and management of data transmission and storage. 
+We have also obtained a digital certificate from Thawte Server CA (part of the VeriSign group), an industry leader in the protection and management of data transmission.
 
 Our systems are configured with industry standard data encryption and firewall technology. When you send PII to us over the Internet, your data is protected by Secure Socket Layer (SSL) technology to ensure safe transmission. 
 
