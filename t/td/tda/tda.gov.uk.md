@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tda.gov.uk privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607031135id_/http%3A//www.tda.gov.uk/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tda.gov.uk privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224134635id_/http%3A//www.tda.gov.uk/about/privacy.aspx) for the most accurate reproduction.*
 
 # TDA - TDA privacy statement
 
@@ -94,9 +94,15 @@ We maintain strict security measures in order to protect personal information. T
 
   8. ### Pixels and GIF files
 
-The TDA uses pixels, or transparent GIF files, to help manage online advertising. These GIF files are provided by our ad management partner, DoubleClick. These files enable DoubleClick to recognise a unique cookie on your browser, which in turn enables us to learn which advertisements bring users to our website. The cookie is placed by us, or by another advertiser who works with DoubleClick. 
+The TDA uses pixels, or transparent GIF files, to help manage online advertising. These GIF files are provided by our advertising management partners, Advertising.com, Accelerator Media and DoubleClick. The files enable our partners to recognise a unique cookie on your browser, which lets us know which advertisements bring users to our website. The cookie is placed by us, or by another advertiser who works with one of our partners.
 
-With both cookies and Spotlight technology, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or e-mail address. For more information about DoubleClick, including information about how to opt out of these technologies, go to: [www.doubleclick.net/us/corporate/privacy](http://www.doubleclick.net/us/corporate/privacy).
+With both cookies and Spotlight technology, the information we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or e-mail address. For more information about our partners, Advertising.com, Accelerator Media and DoubleClick, including information about how to opt out of these technologies, go to:
+
+<http://uk.advertising.com/privacy/index.php>
+
+<http://www.doubleclick.net/us/corporate/privacy>
+
+<http://www.accelerator-media.com/privacy.html>
 
   9. ### Links
 
