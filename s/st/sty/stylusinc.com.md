@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stylusinc.com privacy policy that was archived on 2007-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070509163622id_/http%3A//stylusinc.com/Common/PrivacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stylusinc.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224150951id_/http%3A//www.stylusinc.com/Common/PrivacyPolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Stylus Inc
 
