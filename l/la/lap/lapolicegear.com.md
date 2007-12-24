@@ -1,13 +1,17 @@
-> *The following text is extracted and transformed from the lapolicegear.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429083528id_/http%3A//www.lapolicegear.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lapolicegear.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224232554id_/http%3A//www.lapolicegear.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 [](http://help.yahoo.com/l/us/yahoo/shopping/security/shop-01.html)
 
   
-[Why Buy A Surefire Flashlight? Click Here](http://www.lapolicegear.com/whybuysufl.html)| [](https://web.archive.org/web/20070429083528id_/http%3A//www.lapolicegear.com/index.html)
+[Why Buy A Surefire Flashlight? Click Here](http://www.lapolicegear.com/whybuysufl.html)
 
-[Home](https://web.archive.org/web/20070429083528id_/http%3A//www.lapolicegear.com/index.html) > Privacy Policy| 
+Click Here for GREAT DEALS on [5.11 Tactical Jackets](http://www.lapolicegear.com/5taja.html).
+
+| [](https://web.archive.org/web/20071224232554id_/http%3A//www.lapolicegear.com/index.html)
+
+[Home](https://web.archive.org/web/20071224232554id_/http%3A//www.lapolicegear.com/index.html) > Privacy Policy| 
 
 ### Privacy Policy
 
