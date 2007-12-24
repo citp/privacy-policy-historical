@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hexaware.com privacy policy that was archived on 2007-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070517165900id_/http%3A//www.hexaware.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hexaware.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224145016id_/http%3A//www.hexaware.com/privacypolicy.htm) for the most accurate reproduction.*
 
-# Privacy Policy
+# Hexaware Technologies | Privacy Policy
 
 At HEXAWARE, we take utmost care to protect your privacy. This Privacy policy pertains to this web site and describes how your personal information is treated. You may access and browse this web site without revealing your personal information. We may collect your personal information such as your name and address or e-mail id that may be necessary to help us provide better customer service and we maintain the highest levels of confidentiality for this information.
 
