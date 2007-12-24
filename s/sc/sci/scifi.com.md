@@ -1,94 +1,171 @@
-> *The following text is extracted and transformed from the scifi.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615011531id_/http%3A//www.scifi.com/terms/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scifi.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224040131id_/http%3A//www.scifi.com/help/privacy) for the most accurate reproduction.*
 
-# SCIFI.COM | Terms - Privacy Statement
+# SCIFI.COM | FAQ
 
-|  SCIFI.COM'S OVERALL PRIVACY STATEMENT Your privacy on the Internet is of utmost importance to us. Because we gather certain types of information about the users of SCIFI.COM, we feel you should fully understand the terms and conditions surrounding the capture and use of that information. Because this site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices, and periodically reviews its practices for compliance to accepted Internet standards. This privacy statement discloses what information we gather, how we use it and how to correct or change it.
+|   
+---  
+  
+INTRODUCTION
 
-When you visit SCIFI.COM you can expect to be informed about:
+This Web site, located at the domain scifi.com (the "Site") is operated by SCI FI Channel, a unit of NBC Universal ("NBCU" or "we" or "our" or "us"). Your privacy is important to us. This Privacy Policy describes the types of information collected from you, what we do with it, with whom we share it, and how you can correct or change such information. It is your responsibility to review this Privacy Policy carefully, especially before providing any personal data through the Site. This Site is operated in and controlled from the United States of America. If you have any questions about this Privacy Policy or Site, or if you wish to unsubscribe from Site services for which you have previously registered, please contact us at [feedback@scifi.com](mailto:feedback@scifi.com) or at the address at the end of this policy. 
 
-  1. Information that SCIFI.COM gathers/tracks  
+**PLEASE REVIEW THIS PRIVACY POLICY AND THE TERMS OF SERVICE FOR THE SITE CAREFULLY. YOUR USE OF THIS SITE SIGNIFIES YOUR AGREEMENT TO SUCH PRIVACY POLICY AND TERMS OF SERVICE.**  
+  
+| 
 
-  2. Use of the information this site gathers/tracks  
+1.
 
-  3. Sharing of the information this site gathers/tracks  
+| 
 
-  4. Third-party collection of data  
+**Personal Data:** Personally Identifiable Information ("Personal Data") is any information that can be used to identify a specific individual, such as your name, e-mail address, home address, phone number and credit card information. This Site collects Personal Data when you interact with the Site — for example, when you subscribe for newsletters; register for membership services, such as chat rooms or message boards; participate in chat rooms, blogs or other user forums; respond to polls or surveys; purchase merchandise via the Site; register for sweepstakes, contests and other promotional opportunities; or seek help from our customer service departments. We also may collect information when you purchase products or services offline, or register for wireless services via your cell phone or other wireless devices ("Other Services"). Because providing detailed information regarding our Privacy Policy when you register or provide information in connection with these Other Services often proves impractical, you may instead be provided with a short notice that reminds you to refer to this Privacy Policy and other relevant information from us. We may also obtain Personal Data from reputable third parties, such as credit agencies.
 
-  5. Bankruptcy or reorganization  
+**Aggregate and Anonymous Data:** Aggregate and anonymous data is information that does not identify you specifically; this includes data collected automatically through the operation of the Site ("AA Data"). We may collect site-usage data (such as which Site pages you visit and in what sequence) through the use of various technologies. For example, we collect IP addresses from individuals who visit the Site. An IP address is a number that is automatically assigned to your computer whenever you're surfing the Web. Web servers — the computers that serve up Web pages — automatically identify your computer by its IP address, and when you request a page from the Site, its servers log your IP address. We do not link IP addresses to any Personal Data, so although your session will be logged, you will remain anonymous to us and the Site. We may also collect password information from you when you log in, as well as computer and connection information such as browser type or version. During some visits, we may use software tools, such as JavaScript, to measure and collect session information, including page response times, download errors, time spent on certain pages, page-interaction information, and methods used to browse away from the page.  
+  
+---|---  
+| 
 
-  6. Deletion policy  
+2.
 
-  7. Correction/Update policy
+| 
 
-Questions regarding this statement should be directed to SCIFI.COM's Database Marketing Coordinator at [feedback@www.scifi.com](mailto:feedback@www.scifi.com). To return to SCIFI.COM, [click here](http://www.scifi.com/).
+Like many sites, we use "cookies" or other similar technologies to collect AA Data. A cookie is a small data file that is written to your hard drive for record-keeping purposes when you visit the Site. Cookies allow the Site to measure traffic activity on the Site and to improve your user experience — for example, by remembering your passwords and viewing preferences, enabling you to visit "member only" portions of the Site without re-registering, and tracking the progress and number of entries in activities that require registration or entry, such as sweepstakes. Similarly, if you have asked us to send you information about upcoming products and promotions, using cookies to collect information about which Site pages you have visited and in what order ("Clickstream Data") may allow us to narrow or limit the materials provided to you based on your prior online activities or preferences. Most browsers are initially set to accept cookies. If you prefer, you can set your browser to refuse cookies or to alert you when cookies are being sent, but it is possible that some parts of the Site will not function properly if you do so.
 
-SCIFI.COM is operated by [NBC/Universal Television](http://nbcuni.com/).
+In addition, we may use a service that collects data remotely by using so-called "Pixel Tags," "web beacons," "clear GIFs" or similar means (collectively, "Pixel Tags") embedded in the Site's content. A Pixel Tag is an electronic image, often a single pixel (1 picture element by 1 picture element), that is ordinarily not visible to Site visitors and may be associated with cookies on the visitors' hard drives. This information is AA data.   
+  
+---|---  
+| 
 
-* * *
+3.
 
-INFORMATION THAT SCIFI.COM GATHERS/TRACKS
+| 
 
-SCIFI.COM gathers data about users from different sources. First, through optional, voluntary registration; second, through optional, voluntary participation in certain contests and sweepstakes; and third, through merchandise purchase transactions where delivery to home addresses is required. In addition, users are aggregated for tracking information derived by tallying page views throughout our site, tracking cookies, logging IP addresses, and browser type. Such information enables us to better tailor our content to readers' needs and to help our advertisers better understand the demographics of our audience. Because SCIFI.COM derives its revenue mainly from advertising, providing such aggregated demographic data is essential to keeping our service free to users.
+Like many sites, we use "cookies" or other similar technologies to collect AA Data. A cookie is a small data file that is written to your hard drive for record-keeping purposes when you visit the Site. Cookies allow the Site to measure traffic activity on the Site and to improve your user experience — for example, by remembering your passwords and viewing preferences, enabling you to visit "member only" portions of the Site without re-registering, and tracking the progress and number of entries in activities that require registration or entry, such as sweepstakes. Similarly, if you have asked us to send you information about upcoming products and promotions, using cookies to collect information about which Site pages you have visited and in what order ("Clickstream Data") may allow us to narrow or limit the materials provided to you based on your prior online activities or preferences. Most browsers are initially set to accept cookies. If you prefer, you can set your browser to refuse cookies or to alert you when cookies are being sent, but it is possible that some parts of the Site will not function properly if you do so.
 
-SCIFI.COM gathers user information in the following processes:
+In addition, we may use a service that collects data remotely by using so-called "Pixel Tags," "web beacons," "clear GIFs" or similar means (collectively, "Pixel Tags") embedded in the Site's content. A Pixel Tag is an electronic image, often a single pixel (1 picture element by 1 picture element), that is ordinarily not visible to Site visitors and may be associated with cookies on the visitors' hard drives. This information is AA data.   
+  
+---|---  
+| 
 
-  1. **Cookies**  
-To enhance your experience with our sites, many of our Web pages use "cookies." Cookies are text files we place in your computer's browser to store your preferences, and to make using our Web site more enjoyable. If you wish, you may set your browser to reject Cookies and still enjoy this site. Follow the instruction in the help menu of your Web browser. Cookies may be used to store user information such as user ID or login if you choose, but we will not collate this with your e-mail address or other personally identifiable information.
+4.
 
-We use cookies only to count the number of unique users who visit our site and to track general traffic patterns. Data collected from our cookies will be used only in aggregate form, and will not be linked to any personally identifying information that you provide to us. In connection with SCIFI.COM's Mobile, SMS and Wireless services (see below), SCIFI.COM and/or Upoc Networks may use cookies to help track information provided by you to better enable the provision of these services.
+| 
 
-  2. **SCIFI.COM Member Registration with Newsletter Option**  
-SCIFI.COM offers free, voluntary registration to users. By registering, users can enter restricted areas of the site, such as the gaming areas and selected members-only chats. During registration the user **is required** to supply a username ("handle"), password and e-mail address. They must also answer mandatory survey questions including, age, gender, education and SCI FI Channel availability.
+**Disclosure to Affiliates:** We reserve the right to share Personal Data with our affiliates. If you do not want us to share your Personal Data with our affiliated companies for their marketing purposes, you may opt-out of such sharing by contacting us at feedback@scifi.com (see "Your Choices" below).
 
-During registration the user has the option of supplying first name, last name, mailing address, income, marital status, employment status and other demographic/psychographic queries. In addition, the user has the option to subscribe to the SCIFI.COM Newsletter and various other newsletters of interest. Users may remove themselves from such mailing lists by following the links provided in every newsletter.
+**Disclosure to Third Parties:** We, like many businesses, sometimes hire other companies to perform certain business-related functions on our behalf, such as hosting specific portions of the Site, maintaining databases, administering contests, providing wireless services, mailing information and processing payments. When we employ a third party to perform these functions, that third party will be provided only with the particular Personal Data it needs to perform its function, and it is required to protect such Personal Data. For third-party-sponsored sweepstakes, contests or promotions, we may request Personal Data from you that may be shared with the sponsor upon request. With your consent, we may also share Personal Data with pre-screened third parties for their marketing or promotional purposes. We will provide you with an opportunity to elect or decline these services or opportunities. In the event you elect to unsubscribe from any of our services, we will share your Personal Data with third parties with whom we jointly offer such services solely to the extent necessary to ensure that your request not to receive such communications is honored. In addition, for third-party sponsored sweepstakes, contests or promotions, we may request Personal Data from you that may be shared with the sponsor upon request.
 
-  3. **_Science Fiction Weekly_ Newsletter Registration Option**  
-_Science Fiction Weekly_ online magazine offers a free online newsletter distributed via e-mail. The user has the option of signing up for this newsletter, which provides information and electronic links into the latest issue of _Science Fiction Weekly._ During registration, the user may be required to supply a user name (handle), password and e-mail address. They must also answer mandatory survey questions including age, gender, education and SCI FI Channel availability.
+**Disclosure to Others:** In addition, we may disclose Personal Data without providing you with a choice under the following limited circumstances to: (1) protect the legal rights, privacy or safety of NBCU, or its subsidiaries, affiliates or its or their employees, agents and contractors; (2) protect the safety and security of visitors to our Web sites or other properties; (3) protect against fraud or other illegal activity or for risk-management purposes; (4) respond to inquiries or requests from public authorities; (5) permit us to pursue available remedies or limit the damages that we may sustain; (6) enforce our Terms of Service; or (7) comply with the law or legal process.
 
-During registration the user **has the option** of supplying first name, last name, mailing address, income, marital status, employment status and other various demographic/psychographic queries. Users may remove themselves from this mailing list by following the link provided in every newsletter.
+If NBCU sells all or part of this Site or makes a sale or transfer of assets or is otherwise involved in a merger or business transfer, we may, in our sole discretion, transfer, sell or assign your Personal Data to a third party as part of or in connection with that transaction. Upon such transfer, the Privacy Policy of the acquiring entity may govern the further use of your Personal Data.   
+  
+---|---  
+| 
 
-  4. **Various Periodic Surveys/Polls**  
-Occasionally, SCIFI.COM conducts user surveys to better tailor our content to our audience. We sometimes share the aggregated demographic information in these surveys with our advertisers and partners. We never share any information about specific individuals with any third party. SCIFI.COM offers interactive polls to users so they can easily share their opinions with other users and see what the SCIFI.COM audience thinks about relevant issues.
-  5. **Various Periodic Sweepstakes/Contests/Promotions for Prizes**  
-SCIFI.COM offers contests and sweepstakes in which we request certain personal information. At a minimum, the required information includes name, address, daytime telephone number and e-mail address; in some cases, the user must answer mandatory survey questions about a range of other personal data. The information gathered in the entry form is used to verify the entrant's identity, and to contact winners and/or prize-recipients. There are two situations in which SCIFI.COM will divulge this information to a third party — **provided the user gives express consent:**
-    1. A user may expressly choose to receive additional information from the contest sponsor, in which case the user's personally identifiable information is divulged to the advertiser.
-    2. Some of the contests or sweepstakes may be hosted on the SCIFI.COM site but administered by the sponsor; in such cases, the information a user provides is passed on to the third party **as long as that user gives express consent.**
-Because the rules and terms of each contest or sweepstakes can vary, all information about each contest or sweepstakes is clearly posted during the event. All contests and sweepstakes are conducted in full accordance with United States federal and state laws.
-  6. **Merchandise Newsletter Registration**  
-The SCI FI Online Store offers a free electronic newsletter to users who are interested in receiving news and information on the latest products available within the official SCI FI Store. SCIFI.COM gathers the e-mail addresses of users who voluntarily subscribe. Users may remove themselves from this mailing list by following the link provided in every newsletter.
-  7. **Merchandise Purchasers/Magazine Subscribers**  
-SCIFI.COM users who decide to purchase products through the SCIFI.COM Web site, including magazine subscriptions or science-fiction-based products from the SCI FI Store, are required to provide information that will ensure the transaction can be completed in a secure environment. The required information to complete the transaction includes, but is not limited to, full name, mailing address, e-mail address, telephone number and credit-card information.
+5.
 
-Access to our servers and server logs is restricted to authorized personnel who are responsible for upholding this privacy policy.
+| 
 
-Our site also contains links to other Web sites with which we have affiliations. We are not responsible for the privacy practices or the content of these or any other Web sites or enterprises.
+This Site may include third-party advertising. These third parties' Web sites and advertisers, or the Internet advertising companies that work on their behalf, may use technology to send (or "serve") the advertisements that appear on our Site directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, Pixel Tags and other technologies to deliver advertisements, collect information about the effectiveness of their advertisements, and to collect anonymous information about your visits to the Site, such as the number of times you have viewed an ad (but not your name, address, or other Personal Data). For more information about these specialized cookies and other technologies, and how to "opt out" of information collection by these companies, we suggest you visit <http://doubleclick.net/privacy_policy> or <http://networkadvertising.org/optout_nonppii.asp>.
 
-  8. **SCIFI.COM Mobile, SMS and Wireless Service Sign-Up**  
-SCIFI.COM users who wish to receive text messages or other wireless services connected with the SCI FI Channel may choose to sign up for our Mobile, SMS and Wireless service. Users who do so will be required to provide the following information: telephone number, date of birth, and other personally identifying information that SCIFI.COM or its third-party contractors may, from time to time, require in order to provide users with the services requested. This information will be collected on an opt-in basis only.
+Please note that this Site contains links to other sites that will not follow the same Privacy Policy as our Site. For instance, clicking on an advertisement or on links or other elements on the Site may take you to an entirely different site. Links to other sites may use our Site logo or style as a result of a co-branding agreement. These sites may send their own cookies to you and may collect data and make use of that data in ways that this Site would not. Once you've left this Site, this Privacy Policy will no longer apply to Personal Data or any other data collected from or provided by you. You should check the applicable privacy policy to determine how that site will handle such data.   
+  
+---|---  
+| 
 
-USE OF THE INFORMATION THIS SITE GATHERS/TRACKS The information that is gathered on each of the data-entry forms throughout the site, as described above, is utilized to better understand and serve the needs of the science-fiction community. The site does this by building a community database that provides individual and overall demographic and psychographic profiles. The site will also utilize information gathered via the transactions of magazine subscriptions and product purchases to build member profiles, to allow for identification of and provide the ability to contact our best customers. In addition, the site will utilize opt-in features to provide community members with direct-contact news and information on new content, products and features of the site via e-mail. Information gathered through SCIFI.COM's Mobile, SMS and Wireless Service Sign-Up will be used to provide mobile services requested by customers. SHARING OF THE INFORMATION THIS SITE GATHERS/TRACKS The postal address information gathered on the magazine subscriptions and merchandise purchasers is shared with external third-party shippers. These shippers use the postal address only to fulfill the transaction. In addition, sponsored third-party sweepstakes, contests or promotions where demographic information is gathered is shared with the third-party for marketing purposes. The information gathered beyond name, e-mail address, age, gender, education and SCI FI Channel availability is optional, except in the case of sweepstakes/contests, where further information is needed for fulfillment.
+6.
 
-Your information may be shared with Vivendi Universal Entertainment and its affiliates, subsidiaries, joint venturers, sponsors and partners for whom the Company operates or designs sites and other third parties with whom there are sharing agreements (collectively, the "Affiliated Third Parties") in order to provide you additional products or services. The information we collect may be combined with information collected by Affiliated Third Parties to enable us to provide better service to you.
+| 
 
-SCIFI.COM Mobile, SMS and Wireless service is enabled by Upoc Networks. Any information submitted in relation to SCI FI's Mobile, SMS and Wireless program will be shared with Upoc Networks in order for them to provide the requested service, and users consent to this disclosure. Upoc Networks will maintain control of all personally identifying information submitted to the SCIFI.COM Mobile, SMS and Wireless service. Upoc Networks has promised that this information will be kept confidential and that it shall be used only for the purpose of sending communications between SCIFI.COM and its users. However, some conditions may apply to this guarantee in the event of the bankruptcy or reorganization of Upoc Networks. For additional information, please see Upoc Networks' own privacy policy at <http://www.upoc.com/privacy.jsp> and its terms of service at <http://www.upoc.com/terms.jsp>.
+You can use the Site and certain Other Services without providing any Personal Data, but if you decline to provide Personal Data, you may not be able to use certain services or features. If you have previously provided Personal Data to the Site and have subscribed to one or more e-mail newsletters or are receiving e-mails or other communications from the Site and you do not want to receive such e-mails, please discontinue your subscriptions by clicking on the "unsubscribe" link at the bottom of any message, visiting the Members section of the Site or contacting us at [feedback@scifi.com](mailto:feedback@scifi.com). You may opt-out of receiving offers from us by adjusting your Site preferences at our Newsletter Signup link at the bottom of the home page. If you ask that we stop using your Personal Data, we will honor that request. However, we will retain records of your Personal Data as needed in order to comply with applicable federal, state, or local law.   
+  
+---|---  
+| 
 
-THIRD-PARTY COLLECTION OF DATA Some of our sites may contain advertisements from third parties that collect information through cookies or other methods, or that link to other sites whose information practices may be different than ours. Visitors should consult the other sites' privacy notices as we have no control over information that is submitted to, or collected by, these third parties. BANKRUPTCY OR REORGANIZATION Not withstanding anything in this agreement, information collected under this policy may be transferred to a third party, successor in interest, or other entity in the event of a merger, acquisition, bankruptcy or similar reorganization. DELETION POLICY If you would no longer like to be contacted by this site, please go to our [members page](https://web.archive.org/members/) or send e-mail or postal mail stating that request and we will promptly remove you from our list: 
+7.
 
-**E-mail:**  
-[feedback@www.scifi.com](mailto:feedback@www.scifi.com)
+| 
 
-**Postal Mail:**  
-Database Coordinator  
-NBC/Universal - SCIFI.COM  
+If you would like to review, correct or change the Personal Data that you have previously provided us, please go to the Members section of the Site and follow the appropriate instructions or contact us at [feedback@scifi.com](mailto:feedback@scifi.com). We will take reasonable steps to update or correct Personal Data in our possession.   
+  
+---|---  
+| 
+
+8.
+
+| 
+
+We encourage parents and guardians to spend time with their children online and to be fully familiar with the sites visited by their children. At various places on the Site or Other Services, we may ask users for their age. By using the Site or Other Services you agree to respond truthfully and accurately about your age. Children younger than 13 years of age are expressly prohibited from submitting or posting any Personal Data on the Site or Other Services.   
+  
+---|---  
+| 
+
+9.
+
+| 
+
+Please remember that information posted to message boards, chat rooms, blogs and other user forums becomes public information. Use caution when posting. Individuals under the age of 18 should be especially careful not to provide any personally identifiable information when participating in any area of the Site where postings might become public. Please see our Terms of Service for the standards of behavior that must be followed when using these portions of the Site or Other Services.   
+  
+---|---  
+| 
+
+10.
+
+| 
+
+NBCU takes reasonable security precautions to secure the Personal Data that you choose to provide against the loss, misuse, alteration or unauthorized access of such information. Unfortunately, no transmission of data over the Internet is guaranteed to be completely secure. It may be possible for third parties not under the control of SCIFI.COM to intercept or access transmissions or private communications unlawfully. While we strive to protect your Personal Data, we cannot ensure or warrant the security of any Personal Data you transmit to us. Any such transmission is done at your own risk. If you believe that your interaction with us is no longer secure, please notify us of the problem by contacting us at [feedback@scifi.com](mailto:feedback@scifi.com).   
+  
+---|---  
+| 
+
+11.
+
+| 
+
+This Privacy Policy shall not apply to any unsolicited information you provide to us on or through this Site or Other Services. Please see our Terms of Service for our policies regarding such Unsolicited Information. All such Unsolicited Information shall be deemed to be non-confidential, and NBCU shall be free to reproduce, use, disclose and distribute such Unsolicited Information to others without limitation or attribution.   
+  
+---|---  
+| 
+
+13.
+
+| 
+
+We control and operate this Site from the United States. The Site is not intended to subject us to the laws or jurisdiction of any state, country or territory other than that of the United States. Please note that we do not represent or warrant that the Site is appropriate for use in any particular jurisdiction. Those who choose to access the Site do so at their own initiative and are responsible for complying with all local laws, rules and regulations.   
+  
+---|---  
+| 
+
+14.
+
+| 
+
+From time to time, we may revise this Privacy Policy to reflect industry initiatives, changes in the law or technology, or changes in our practices regarding information collection and use. If we make revisions to the way we collect or use Personal Data, we may provide notice of those changes by either: (1) announcing the change on the home page of the Site or (2) taking such other action as we deem appropriate under the circumstances, including, without limitation, posting the revised draft of this Privacy Policy on the Site. You can determine when this Privacy Policy was last revised by referring to the "Last Updated" legend at the top of this page. Any changes to this policy will become effective upon posting of the revised Privacy Policy on the Internet, accessible through the Site. By continuing to use the Site following such changes, you will be deemed to have agreed to such changes. If you do not agree with the terms of this Privacy Policy, as it may be amended from time to time, in whole or in part, please do not continue using this Site.   
+  
+---|---  
+| 
+
+15.
+
+| 
+
+If you have any questions about this Privacy Policy, Personal Data gathered by this Site or Other Services, or about the operation of this Site or Other Services, or if you wish to unsubscribe from the Site or Other Services, please contact us at [feedback@scifi.com](mailto:feedback@scifi.com), or at the address listed below.
+
+SCIFI.COM  
 30 Rockefeller Plaza, 21st Fl.  
-New York, NY 10112  
-USA
-
-CORRECTION/UPDATE POLICY If you are currently a SCIFI.COM member and would like to correct or update your preferences, membership or profile information, please go to the [preferences page](https://web.archive.org/members/modpref.html), the [members page](https://web.archive.org/members/) or write to Database Coordinator, care of [feedback@www.scifi.com](mailto:feedback@www.scifi.com). 
-
-**Note:**  
-This Privacy Statement may be updated as SCIFI.COM introduces new products and services to its users.
-
-_This Privacy Statement was last revised on April 1, 2005._
-
-[Terms of Service](https://web.archive.org/terms/termsofservice.html) | 
+New York, N.Y. 10112   
+  
+---|---  
+|   
+---  
+[](https://web.archive.org/help/channelfaq/)  
+[](https://web.archive.org/help/faq/)  
+[](https://web.archive.org/help/terms/)  
+[](https://web.archive.org/help/privacy/)  
+[](https://web.archive.org/members/)  
+[](https://web.archive.org/help/forum/)  
+[](https://web.archive.org/help/downloads/)  
+[](https://web.archive.org/help/feedback/)  
+[](https://web.archive.org/help/webisodes/)  
+---  
+  
+Buy _Battlestar Galactica_ episodes from [iTunes](http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewTVSeason?id=102808898&s=143441) for your iPod.
