@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whiotv.com privacy policy that was archived on 2007-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070505050422id_/http%3A//www.whiotv.com/station/1920899/detail.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whiotv.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224074301id_/http%3A//www.whiotv.com/station/1920899/detail.html) for the most accurate reproduction.*
 
 # Privacy Policy - WHIO-TV News Story - WHIO Dayton
 
@@ -41,7 +41,7 @@ We also may use cookies to allow third parties to better serve advertisements to
 
  **Third Party Advertising** The ads appearing on this Web site are delivered to you by DoubleClick, our Web advertising partner. Information about your visits to this site, such as number of times you have viewed an ad (but not your name, address, or other personal in-formation), is used to serve ads to you. For more information about DoubleClick, cookies, and how to "opt-out", please [click here.](http://www.doubleclick.com/us/about_doubleclick/privacy/)
 
- **Third Party Cookies** In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.
+ **Third Party Cookies** In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://networkadvertising.org/consumer/opt_out.asp).
 
  **DISCLOSURE OF INFORMATION**
 
