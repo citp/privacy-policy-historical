@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wordreference.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624002515id_/http%3A//www.wordreference.com/english/Privacy%2520Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordreference.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224051042id_/http%3A//www.wordreference.com/english/Privacy%2520Policy.htm) for the most accurate reproduction.*
 
 # WordReference.com Privacy Policy
 
