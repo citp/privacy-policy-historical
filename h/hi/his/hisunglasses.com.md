@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hisunglasses.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629031220id_/http%3A//www.hisunglasses.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hisunglasses.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224065500id_/http%3A//www.hisunglasses.com/privacy.php) for the most accurate reproduction.*
 
-# Designer Sunglasses - Discount Celebrity Sunglasses by oakley - chanel - gucci - ray ban - prada- christian dior - dolce gabbana
+# Sunglasses. Designer Sunglasses by Chanel, Oakley, & Gucci. Discount Sunglasses
 
   
 Privacy at HiSunglasses.com is committed to protecting the privacy of our web site visitors and clients. We uphold the highest industry standards in online privacy and permission marketing. 
