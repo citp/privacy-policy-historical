@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lashowroom.com privacy policy that was archived on 2007-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070523145254id_/http%3A//www.lashowroom.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lashowroom.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224020907id_/http%3A//www.lashowroom.com/privacy.htm) for the most accurate reproduction.*
 
-# LA Showroom - The Ultimate Online Fashion Marketplace
+# LA Showroom - Privacy Policy
 
 ## LA SHOWROOM PRIVACY STATEMENT
 
@@ -17,7 +17,7 @@ This privacy statement covers the site WWW.LASHOWROOM.COM. This policy statement
 
 
 
-If users have questions or concerns regarding this statement, they should first contact us by email at customerservice@lashowroomm.com.
+If users have questions or concerns regarding this statement, they should first contact us by phone at 213.627.0339 or by fax at 213.627.0369
 
 ## Information Collection and Use
 
@@ -130,11 +130,11 @@ If we decide to change our privacy policy, we will post those changes to this pr
 
 If users have any questions or suggestions regarding our privacy policy, please contact us at:
 
-LA Showroom Inc.  
+**LA Showroom Inc.**  
 110 E. 9th St. Ste B1201  
-Los Angeles, CA, 90079  
-USA
-
+Los Angeles, CA 90079  
+USA  
+Tel: 213.627.0339  
 Fax: 213.627.0369  
 E-mail: customerservice@lashowroom.com  
-[http://www.lashowroom.com](http://www.lashowroom.com/)
+[]()
