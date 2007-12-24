@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sunlife.ca privacy policy that was archived on 2007-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070517081511id_/http%3A//www.sunlife.ca/canada/v/index.jsp%3Fvgnextoid%3De0555ee947cce010VgnVCM1000006c90d09fRCRD%26vgnextfmt%3Ddefault%26vgnLocale%3Den_CA%26chnpath%3D%252FsunlifeCA) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunlife.ca privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224050848id_/http%3A//www.sunlife.ca/canada/v/index.jsp%3Fvgnextoid%3De0555ee947cce010VgnVCM1000006c90d09fRCRD%26vgnextfmt%3Ddefault%26vgnLocale%3Den_CA%26chnpath%3D%252FsunlifeCA) for the most accurate reproduction.*
 
 # Privacy
 
 **Respecting your Privacy**
 
-In this document, **_you_** and **_your_** mean the individual who is a customer or potential customer of a member of the Sun Life Financial group of companies in Canada and **_we_** , **_us_** and **_our_** mean the members of the Sun Life Financial group of companies in Canada, who include Sun Life Financial Inc., Sun Life Assurance Company of Canada, Sun Life Financial Trust Inc., Sun Life Financial Advisory Inc., Sun Life Financial Realty Advisors Inc., Clarica Financial Services Inc., Clarica Investco Inc., and other affiliates of Sun Life Assurance Company of Canada, in Canada.
+In this document, **_you_** and **_your_** mean the individual who is a customer or potential customer of a member of the Sun Life Financial group of companies in Canada and **_we_** , **_us_** and **_our_** mean the members of the Sun Life Financial group of companies in Canada, who include Sun Life Financial Inc., Sun Life Assurance Company of Canada, Sun Life Financial Trust Inc., Sun Life Financial Advisory Inc., Sun Life Financial Realty Advisors Inc., Sun Life Financial Distributors (Canada) Inc.,Sun Life Financial Investment Services (Canada) Inc., and other affiliates of Sun Life Assurance Company of Canada, in Canada.
 
 **_Our commitment to protecting your privacy, our policy_**
 
