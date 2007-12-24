@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fanbridge.com privacy policy that was archived on 2007-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070503163541id_/http%3A//www.fanbridge.com/learn/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fanbridge.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224042531id_/http%3A//www.fanbridge.com/learn/privacy.php) for the most accurate reproduction.*
 
-# FanBridge.com - Free Email and Mobile fan list management for Bands
+# FanBridge.com - Free Email and Mobile Fan List Management for Bands
 
 FanBridge.com Privacy Policy
 
