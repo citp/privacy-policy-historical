@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the crosswalk.com privacy policy that was archived on 2007-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070616171809id_/http%3A//www.crosswalk.com/aboutus/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crosswalk.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224073239id_/http%3A//www.crosswalk.com/aboutus/privacypolicy) for the most accurate reproduction.*
 
 # About Us - Crosswalk.com
 
-[About Us](https://web.archive.org/web/20070616171809id_/http://www.crosswalk.com/aboutus/) | Privacy Policy | [Terms of Use](https://web.archive.org/web/20070616171809id_/http://www.crosswalk.com/aboutus/termsofuse/)
+[About Us](https://web.archive.org/web/20071224073239id_/http://www.crosswalk.com/aboutUs/) | Privacy Policy | [Terms of Use](https://web.archive.org/web/20071224073239id_/http://www.crosswalk.com/aboutUs/termsofuse/)
 
 **Privacy Policy**  
 **Last Updated:** March 2, 2007
