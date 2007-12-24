@@ -1,0 +1,410 @@
+<!--The following is the downloaded HTML source of the atomicblogging.com privacy policy that was archived on 2007-12-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071224062405id_/http%3A//www.atomicblogging.com/privacy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Atomic Blogging Secrets Revealed</title>
+  <style type="text/css">
+<!--
+.bigfont {
+	font-family: Tahoma;
+	font-weight: bold;
+	font-size: 28px;
+	color: #CC0000;
+}
+.bigfonthigh {
+	font-size: 28px;
+	color: #CC0000;
+	font-family: Tahoma;
+	background-color: #FFFF00;
+	font-weight: bold;
+}
+.default {
+	font-size: 14px;
+	color: #000000;
+	font-family: Tahoma;
+}
+body {
+	background-image: url();
+}
+.highlightsmall {
+	font-size: 12px;
+	color: #CC0000;
+	background-color: #FFFF00;
+	font-weight: bold;
+	font-family: Tahoma;
+}
+.Defaultfont {	font-size: 14px;
+	font-family: Tahoma;
+}
+.HeaderFont {font-size: 14px; font-family: Tahoma; font-weight: bold; }
+.Bigfonts {	font-size: 40px;
+	font-family: Tahoma;
+	font: bold;
+}
+.HighlightBigFonts {	color: #000000;
+	background-color: #FFFF00;
+}
+.Defaultfont1 {font-size: 13px;
+	font-family: Tahoma;
+}
+.dottedborder {	border: thin solid #FF0000;
+}
+.style20 {font-size: 14px; font-family: Tahoma; font-weight: bold; }
+.style21 {
+	color: #FF0000;
+	font-size: 18px;
+	font-weight: bold;
+}
+.SubHeader {	font-size: 24px;
+	font-family: Tahoma;
+	font: bold;
+	color: #FF0000;
+}
+.PointHeader {font-size: 14px; font-family: Tahoma; color: #990000; font-weight: bold; }
+.style36 {font-size: 18px; font-family: Tahoma; font-weight: bold; color: #000000; }
+.SubHeader1 {	font-size: 24px;
+	font-family: Tahoma;
+	font: bold;
+	color: #FF0000;
+}
+.SubHeader2 {	font-size: 24px;
+	font-family: Tahoma;
+	font: bold;
+	color: #000066;
+}
+.highlightred {color: #FF0000}
+.style1 {	font-size: 18px;
+	font-weight: bold;
+}
+.style40 {color: #FF0000; font-size: 18px; font-weight: bold; font-family: Tahoma; }
+.style41 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-style: italic;
+	font-weight: bold;
+}
+.style42 {font-size: 15px}
+.style43 {
+	color: #CC0000;
+	font-weight: bold;
+}
+.style44 {
+	color: #CC0000;
+	font-style: italic;
+	font-weight: bold;
+}
+.style46 {font-family: Tahoma; font-weight: bold; font-size: 18px;}
+.style47 {
+	font-size: 18px;
+	color: #CC0000;
+	font-weight: bold;
+}
+.style48 {color: #CC0000}
+.style53 {font-size: 14px}
+.style60 {
+	font-family: Tahoma;
+	color: rgb(0, 0, 0);
+}
+.style62 {
+	font-size: 30px;
+	font-family: Tahoma;
+	font: bold;
+	color: #990000;
+	font-weight: bold;
+}
+.style63 {
+	font-size: 24px;
+	font-weight: bold;
+	font-family: Tahoma;
+	color: #000000;
+}
+.style64 {
+	font-size: 22px;
+	font-weight: bold;
+}
+.style65 {
+	font-size: 28px;
+	color: #CC0000;
+}
+.style66 {
+	font-size: 20px;
+	color: #CC0000;
+}
+.style68 {
+	font-size: 20px;
+	color: #CC0000;
+	font-family: Tahoma;
+	font-weight: bold;
+}
+.style69 {font-size: 24px; font-family: Tahoma; font: bold; color: #CC0000; }
+.style70 {font-family: Tahoma; font: bold; font-size: 22px;}
+.style71 {font-size: 22px}
+.style73 {font-size: 18px}
+-->
+  </style>
+  <script>
+// CREDITS:
+// Dynamic Countdown Player
+// by Peter Gehrig
+// Copyright (c) 2004 Peter Gehrig and Urs Dudli. All rights reserved.
+// Permission given to use the script provided that this notice remains as is.
+// Additional scripts can be found at http://www.24fun.com
+// info@24fun.com
+// 2/28/2004
+
+// IMPORTANT:
+// If you add this script to a script-library or a script-archive
+// you have to insert a link to http://www.24fun.com 
+// right into the webpage where the script will be displayed.
+
+var futureyear=2004
+var futuremonth=11
+var futureday=24
+var displaytype="showall"
+var digitordate="isdigit"
+var aftercountdown="stopit"
+var digitfrom=600
+var digitto=0
+var speed=1
+
+var countdownid=new Array()
+var futuredate
+var nowdate
+var resulthoursraw
+var resulthours
+var resultminutesraw
+var resultminutes
+var resultsecondsraw
+var resultseconds
+
+var p_seconds
+var p_minutes
+var p_hours
+var p_days
+
+var resultsecondsonly
+var resultminutesonly
+var resulthoursonly
+var content
+
+var i_countdown=-1
+var countdownid
+
+var step=1
+speed*=1000
+
+if (digitfrom>digitto) {step=-1}
+if (digitfrom<digitto) {step=1}
+
+var browserinfos=navigator.userAgent 
+var ns4=document.layers
+var ie4=!document.getElementById&&document.all&&!browserinfos.match(/Opera/)
+var ie5=document.getElementById&&document.all&&!browserinfos.match(/Opera/)
+var ns6=document.getElementById&&!document.all&&!browserinfos.match(/Opera/)
+var opera=browserinfos.match(/Opera/)  
+
+function setfuturedate() {
+	futuredate=new Date(futureyear,futuremonth,futureday,0,0,0)
+	if (digitordate=="isdigit") {content=digitfrom-step	}
+	docountdown()
+}
+
+function docountdown() {
+	if (digitordate=="isdate") {
+		calculateresults()
+		formatresults()
+		displayresults()
+		setTimeout("docountdown()",speed)
+	}
+	else if (digitordate=="isdigit") {
+		content+=step	
+		displayresults()
+		if (content==digitto) {
+			setTimeout("happensafter()",speed)
+		}
+		else {
+			setTimeout("docountdown()",speed)
+		}
+	}
+}
+
+function firstcountdown() {
+	if (digitordate=="isdate") {
+		futuredate=new Date(futureyear,futuremonth,futureday,0,0,0)
+		calculateresults()
+		formatresults()
+	}
+	else if (digitordate=="isdigit") {
+		content=digitfrom
+	}
+}
+
+function calculateresults() {
+nowdate=new Date()
+resultdaysraw=(Date.parse(futuredate)-Date.parse(nowdate))/1000/60/60/24
+if (displaytype!="showall") {
+	resultsecondsonly=Math.floor((Date.parse(futuredate)-Date.parse(nowdate))/1000)
+	resultminutesonly=Math.floor((Date.parse(futuredate)-Date.parse(nowdate))/1000/60)
+	resulthoursonly=Math.floor((Date.parse(futuredate)-Date.parse(nowdate))/1000/60/60)
+}
+else {
+	resultdays=Math.floor((Date.parse(futuredate)-Date.parse(nowdate))/1000/60/60/24)
+	resulthoursraw=(resultdaysraw-resultdays)*24
+	resulthours=Math.floor((resultdaysraw-resultdays)*24)
+	resultminutesraw=(resulthoursraw-resulthours)*60
+	resultminutes=Math.floor((resulthoursraw-resulthours)*60)
+	resultsecondsraw=(resultminutesraw-resultminutes)*60
+	resultseconds=Math.floor((resultminutesraw-resultminutes)*60)
+	}
+}
+
+function formatresults() {
+	if (displaytype=="showall") {
+		if (resultdays>1) {p_days="days"}
+		else {p_days="day"}
+		if (resultminutes<10) {resultminutes="0"+resultminutes}
+		if (resultseconds<10) {resultseconds="0"+resultseconds}
+		content=resultdays+" "+p_days+" "+resulthours+"h "+resultminutes+"m "+resultseconds +"s"
+	}
+	else if (displaytype=="showdays") {
+		if (resultdays>1) {p_days="days"}
+		else {p_days="day"}
+		content=resultdays+" "+p_days
+	}
+	else if (displaytype=="showhours") {
+		content=resulthoursonly+" hrs"
+	}
+	else if (displaytype=="showminutes") {
+		content=resultminutesonly+" min"
+	}
+	else if (displaytype=="showseconds") {
+		content=resultsecondsonly+" sec"
+	}
+}
+
+function happensafter() {
+	if (aftercountdown=="repeatit") {
+		if (digitordate=="isdigit") {content=digitfrom-step}
+		docountdown()
+	}
+	if (aftercountdown!="stopit" && aftercountdown!="repeatit") {
+		document.location.href=aftercountdown
+	}
+}
+
+function displayresults() {
+	if (ie4) {
+		for (i=0;i<=countdownid.length-1;i++) {
+			var thisclock=eval(countdownid[i])
+			thisclock.innerHTML=content
+		}
+	}
+	else {
+		for (i=0;i<=countdownid.length-1;i++) {
+			document.getElementById(countdownid[i]).innerHTML=content
+		}
+	}
+}
+
+function setcountdown() {
+	if (ns4 || ie4 || ie5 || ns6 || opera) {
+		firstcountdown()
+		i_countdown++
+		countdownid[i_countdown]="countdown"+i_countdown
+		document.write("<span id='"+countdownid[i_countdown]+"' style='position:relative'>"+content+"</span>")
+	}
+}
+
+if (ie4 || ie5 || ns6 || opera) {
+	onload=setfuturedate
+}
+  </script>
+</head>
+
+<body>
+<table width="752" border="0" align="center" cellpadding="0" cellspacing="0">
+  <!-- fwtable fwsrc="bannernew.png" fwbase="bannernew.gif" fwstyle="Dreamweaver" fwdocid = "1257269485" fwnested="0" -->
+  <tbody><tr>
+    <td><img src="images/spacer.gif" width="18" height="1" border="0" alt=""></td>
+    <td><img src="images/spacer.gif" width="720" height="1" border="0" alt=""></td>
+    <td><img src="images/spacer.gif" width="14" height="1" border="0" alt=""></td>
+  </tr>
+  <tr>
+    <td colspan="3"><div align="center"><img name="bannernew_r1_c1" src="images/bannernew_r1_c1.gif" width="752" height="235" border="0" id="bannernew_r1_c1" alt=""></div></td>
+  </tr>
+  <tr>
+    <td background="images/bannernew_r2_c1.gif" width="18"></td>
+    <td valign="top" bgcolor="#ffffff"><table width="100%" border="0" align="center" cellpadding="10" cellspacing="0">
+      <tbody><tr>
+        <td><blockquote>       
+              <p class="Defaultfont1"><strong>Privacy Policy Statement</strong><br>
+                  <br>
+                This is the web site of   SGBulk.com. </p>
+              <p class="Defaultfont1">Our postal address is <br>
+                20 Maxwell Road #09-17<br>
+                Maxwell House<br>
+              Singapore 069113</p>
+              <p class="Defaultfont1">We can be reached via e-mail at support@atomicblogging.com </p>
+              <p class="Defaultfont1">For each visitor to our Web page, our Web server automatically recognizes no   information regarding the domain or e-mail address.</p>
+              <p class="Defaultfont1"> We collect the e-mail addresses of those who post messages to our bulletin   board, the e-mail addresses of those who communicate with us via e-mail,   aggregate information on what pages consumers access or visit, information   volunteered by the consumer, such as survey information and/or site   registrations, name and address.</p>
+              <p class="Defaultfont1">The information we collect is used to improve the content of our Web page,   used to notify consumers about updates to our Web site, used by us to contact   consumers for marketing purposes and .</p>
+              <p class="Defaultfont1">With respect to cookies: We use cookies to ensure that visitors are not   repeatedly sent the same banner ads.</p>
+              <p class="Defaultfont1">If you do not want to receive e-mail from us in the future, please let us   know by sending us e-mail at the above address, writing to us at the above   address with the subject title "unsubscribe".</p>
+              <p class="Defaultfont1">From time to time, we make the e-mail addresses of those who access our site   available to other reputable organizations whose products or services we think   you might find interesting. If you do not want us to share your e-mail address   with other companies or organizations, please let us know by calling us at the   number provided above, writing to us at the above address.</p>
+              <p class="Defaultfont1">From time to time, we make our customer e-mail list available to other   reputable organizations whose products or services we think you might find   interesting. If you do not want us to share your e-mail address with other   companies or organizations, please let us know by calling us at the number   provided above, writing to us at the above address.</p>
+              <p class="Defaultfont1">If you supply us with your postal address on-line you may receive periodic   mailings from us with information on new products and services or upcoming   events. If you do not wish to receive such mailings, please let us know by   calling us at the number provided above, writing to us at the above   address.</p>
+              <p class="Defaultfont1">Please provide us with your exact name and address. We will be sure your name   is removed from the list we share with other organizations </p>
+              <p class="Defaultfont1">Persons who supply us with their telephone numbers on-line will only receive   telephone contact from us with information regarding orders they have placed   on-line.</p>
+              <p class="Defaultfont1">Please provide us with your name and phone number. We will be sure your name   is removed from the list we share with other organizations</p>
+              <p class="Defaultfont1"> With respect to Ad Servers: We do not partner with or have special   relationships with any ad server companies.<br>
+                  <br>
+                From time to time, we may use customer information for new, unanticipated   uses not previously disclosed in our privacy notice. If our information   practices change at some time in the future we will post the policy changes to   our Web site to notify you of these changes and we will use for these new   purposes only data collected from the time of the policy change forward. If you   are concerned about how your information is used, you should check back at our   Web site periodically.</p>
+              <p class="Defaultfont1">Customers may prevent their information from being used for purposes other   than those for which it was originally collected by e-mailing us at the above   address, writing to us at the above address.</p>
+              <p class="Defaultfont1">Upon request we provide site visitors with access to a description of   information that we maintain about them.</p>
+              <p class="Defaultfont1">Consumers can access this information by e-mail us at the above   address.</p>
+              <p class="Defaultfont1">Upon request we offer visitors the ability to have inaccuracies corrected in   contact information.</p>
+              <p class="Defaultfont1">Consumers can have this information corrected by sending us e-mail at the   above address, writing to us at the above address.</p>
+              <p class="Defaultfont1">With respect to security: and We do not keep financial information on our   servers..</p>
+              <p class="Defaultfont1">If you feel that this site is not following its stated information policy,   you may contact us at the above addresses</p>
+              </blockquote>
+
+
+
+
+
+
+                
+            
+            
+            
+            
+            
+            <blockquote>
+              <div align="center">
+                    
+              
+              
+              
+              
+              
+              <p><span class="default"><span class="Defaultfont1"><a href="http://www.atomicblogging.com">Home</a> | <a href="http://www.atomicblogging.com/earnings.html" target="_blank">Earnings Disclaimer</a> | <a href="http://www.blogcashguide.com/toc.html" target="_blank">Terms &amp; Condition</a> | <a href="http://www.blogcashguide.com/privacy.html" target="_blank">Privacy Policy</a></span><br>
+
+
+
+
+
+
+                Copyright © AtomicBlogging.com 2007. All rights   reserved</span>. </p>
+              </div>
+          </blockquote>		</td>
+      </tr>
+    </tbody></table>	</td>
+    <td background="images/bannernew_r2_c3.gif" width="14"></td>
+  </tr>
+  <tr>
+    <td colspan="3"><div align="center"><img name="bannernew_r3_c1" src="images/bannernew_r3_c1.gif" width="752" height="112" border="0" id="bannernew_r3_c1" alt=""></div></td>
+  </tr>
+</tbody></table>
+
+
+</body></html>
