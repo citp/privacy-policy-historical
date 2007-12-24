@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getphpbb.com privacy policy that was archived on 2007-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070621221724id_/http%3A//www.getphpbb.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getphpbb.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224205107id_/http%3A//www.getphpbb.com/privacypolicy.html) for the most accurate reproduction.*
 
 # getPHPBB.com - free message board hosting / webhosting provider on our fast & reliable linux dedicated servers.
 
