@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the costco.co.uk privacy policy that was archived on 2007-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070602010852id_/http%3A//www.costco.co.uk/privacy_policy/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the costco.co.uk privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224090136id_/http%3A//www.costco.co.uk/privacy_policy/privacy_policy.htm) for the most accurate reproduction.*
 
 # 
 
@@ -77,9 +77,9 @@ This privacy statement (also referred to as Costco's Privacy Policy) explains ou
 **(United Kingdom)  
 Last Updated January 2006
 
-[](https://web.archive.org/web/20070602010852id_/http%3A//www.costco.co.uk/Membership_home/membership_home.htm)
+[](https://web.archive.org/web/20071224090136id_/http%3A//www.costco.co.uk/Membership_home/membership_home.htm)
 
-[](https://web.archive.org/web/20070602010852id_/http%3A//www.costco.co.uk/default.htm)
+[](https://web.archive.org/web/20071224090136id_/http%3A//www.costco.co.uk/default.htm)
 
 _Privacy Statement_
 
