@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ashleymadison.com privacy policy that was archived on 2007-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070521215224id_/http%3A//www.ashleymadison.com/app/public/privacy.p) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ashleymadison.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224131314id_/http%3A//www.ashleymadison.com/app/public/privacy.p) for the most accurate reproduction.*
 
-# The Ashley Madison Agency - Romantic Rendezvous for Attached Adults
+# Married Dating : Affairs : Married Women : Extramarital Affair - The Ashley Madison Agency - Romantic Rendezvous for Attached Adults
 
 **The Ashley Madison Agency Privacy Statement**
 
@@ -11,7 +11,7 @@ The protection of your privacy is very important and we have adopted the followi
 **Use of Private Information by The Ashley Madison Agency Limited**  
 The User of this website consents to the collection and limited use of personal information.
 
-For the purposes of facilitating compliance with the provisions of any applicable Federal and/or Provincial privacy legislation (including without limitation, the Personal Information Protection and Electronic Documents Act S.C. 2000, as amended), the User of this website hereby consents to The Ashley Madison Agency Limited collection and use of the User's personal information necessary and sufficient to enable The Ashley Madison Agency Limited to proceed with the User�s submission of personal information to participate in the services offered by The Ashley Madison Agency Limited, including without limitation, the Applicant�s name, home address, e-mai1 address, telefax/telephone number, and to the disclosure and/or distribution of any or all of such personal information to the following entities, on the express understanding and agreement that The Ashley Madison Agency Limited shall not sell or otherwise provide or distribute such personal information to anyone other than the following entities, namely to:
+For the purposes of facilitating compliance with the provisions of any applicable Federal and/or Provincial privacy legislation (including without limitation, the Personal Information Protection and Electronic Documents Act S.C. 2000, as amended), the User of this website hereby consents to The Ashley Madison Agency Limited collection and use of the User's personal information necessary and sufficient to enable The Ashley Madison Agency Limited to proceed with the User's submission of personal information to participate in the services offered by The Ashley Madison Agency Limited, including without limitation, the Applicant's name, home address, e-mai1 address, telefax/telephone number, and to the disclosure and/or distribution of any or all of such personal information to the following entities, on the express understanding and agreement that The Ashley Madison Agency Limited shall not sell or otherwise provide or distribute such personal information to anyone other than the following entities, namely to:
 
 |  a)  | 
 
@@ -24,7 +24,7 @@ any relevant governmental authorities or agencies, including without limitation,
   
 c)  | 
 
-The Ashley Madison Agency Limited�s solicitors, to facilitate the preparation, execution and enforcement of the contracts;  
+The Ashley Madison Agency Limited's solicitors, to facilitate the preparation, execution and enforcement of the contracts;  
   
 d)  |  any and all other qualified users of this website;   
 e)  | 
@@ -83,3 +83,6 @@ Direct: (416) 545-1599
 Email: [info@ashleymadison.com](mailto:info@ashleymadison.com)
 
 If you have any questions or concerns about our privacy policy, the practices of the Ashley Madison Website System , or your dealings with us, you can contact a representative of our company by email at manager@ashleymadison.com or by telephone: 1-866-742-2218, ext., 2202 or by regular mail: 2300 Yonge Street, Suite 1906, P.O. Box 2313, Toronto, Canada M4P 1E4.
+
+  
+
