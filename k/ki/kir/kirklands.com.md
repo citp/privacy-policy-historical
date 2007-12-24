@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kirklands.com privacy policy that was archived on 2007-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070512213226id_/http%3A//www.kirklands.com/security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kirklands.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224173540id_/http%3A//www.kirklands.com/security) for the most accurate reproduction.*
 
 # Kirklands - Unique Home Decor and Accessories
 
