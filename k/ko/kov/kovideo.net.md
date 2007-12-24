@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kovideo.net privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622230731id_/http%3A//www.kovideo.net/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kovideo.net privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224164921id_/http%3A//www.kovideo.net/privacy.asp) for the most accurate reproduction.*
 
 # KOvideo's Privacy Policy
 
