@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goldline.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617181419id_/http%3A//www.goldline.com/about-goldline/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldline.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224053830id_/http%3A//www.goldline.com/about-goldline/privacy-policy.html) for the most accurate reproduction.*
 
 # About Goldline - Privacy Policy - Goldline International
 
@@ -23,11 +23,13 @@ Serving Rare Coin and Precious Metals Investors Since 1960
 
 [](https://web.archive.org/precious-metals/email-newsletter.html)
 
-[](https://web.archive.org/about-goldline/goldline-careers.html)
+[](https://web.archive.org/precious-metals/testimonial.html)
 
 [](https://web.archive.org/precious-metals/articles/gold-confiscation-order.html)
 
 [](https://web.archive.org/buy-gold/coin-grading.html)
+
+[](https://web.archive.org/about-goldline/goldline-careers.html)
 
 |  |   
 ---  
@@ -40,17 +42,27 @@ _We do not intentionally release any personally identifiable information to any 
   2. **Use of Cookies**  
 We currently use cookies to track our website traffic in order to enhance our information and your experience with our site. Although the cookies currently do not give us any personally identifiable information about you, once you choose to give us your personal information through an online form, this information may be linked to the cookie.
   3. **Information We Collect**  
-Goldline’s Email Community is a great way to keep updated on current market information, news alerts, and other important information regarding the precious metals market. At any time you wish to stop receiving emails from Goldline, simply send an email to us at [unsubscribe@goldline.com](mailto:unsubscribe@goldline.com). Please state the _email address to which we send information._
+Goldline’s Email Community is a great way to keep updated on current market information, news alerts, and other important information regarding the precious metals market. At any time you wish to stop receiving emails from Goldline, simply send an email to us at [unsubscribe@goldline.com](mailto:unsubscribe@goldline.com?subject=UNSUBSCRIBE). Please state the _email address to which we send information._
   4. **Modifying Your Email Information**  
 If you need to update any email address information you've previously submitted to us, please email the changes to [info@goldline.com](mailto:info@goldline.com).
   5. **How to Contact Us**  
-If you have any questions or concerns about this privacy policy, please contact us at [info@goldline.com](mailto:info@goldline.com) or call Goldline at 1-800-827-4653.
+If you have any questions or concerns about this privacy policy, please contact us at [info@goldline.com](mailto:info@goldline.com)or call Goldline at 1-800-827-4653.
   6. **Image Protection**  
 The images on this website are the property of Goldline International, Inc. and cannot be used without prior written authorization. [Read our terms of use to learn more.](https://web.archive.org/about-goldline/terms-of-use.html)
 
   
   
 [](https://web.archive.org/about-goldline/spot-price-help.html)  
+  
+
+
+| Metal | Ask $ | Chg ±  
+---|---|---  
+Gold | \--- | \---  
+Silver | \--- | \---  
+Platinum | \--- | \---  
+Palladium | \--- | \---  
+Loading Prices...  
   
   
   
