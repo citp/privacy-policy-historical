@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the colehaan.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627033641id_/http%3A//www.colehaan.com/colehaan/assistance/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colehaan.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224160421id_/http%3A//www.colehaan.com/colehaan/assistance/privacy.jsp) for the most accurate reproduction.*
 
 # Cole Haan
 
