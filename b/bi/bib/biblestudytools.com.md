@@ -1,149 +1,202 @@
-> *The following text is extracted and transformed from the biblestudytools.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630182742id_/http%3A//customersupport.networksolutions.com/article.php%3Fid%3D306) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biblestudytools.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224073239id_/http%3A//www.crosswalk.com/aboutus/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy
+# About Us - Crosswalk.com
 
-#### Find Answers To Your Questions:
+[About Us](https://web.archive.org/web/20071224073239id_/http://www.crosswalk.com/aboutUs/) | Privacy Policy | [Terms of Use](https://web.archive.org/web/20071224073239id_/http://www.crosswalk.com/aboutUs/termsofuse/)
 
-Search by keyword or browse by category for immediate answers to frequently asked questions: 
+**Privacy Policy**  
+**Last Updated:** March 2, 2007
 
-### Privacy Policy
+This policy informs you of the policies of Salem Communications Corporation and its subsidiary entities (collectively, “Salem”), including without limitation the Salem and radio stations concerning the collection, use and disclosure of personal information from this Salem-related website.  Because we may gather certain types of information about our users, we want to help you understand the terms and conditions surrounding the collection and use of that information.  At Salem we understand your privacy is important to you. Even though we may need to collect information about you to provide you with some of our products and services, you may not want us to disclose that information to others.  Accordingly, what follows is a description of how we gather and use information about you (collectively “Your Information”). 
 
-**Why A Privacy Policy?**  
+**Please note that by visiting this website, you consent to the collection of Your Information by Salem as set forth in this Privacy Policy.**
 
-  
-Network Solutions respects your individual privacy. This Privacy Policy ('Policy') embodies our commitment to its protection through adherence to fair electronic information practices. This Policy puts you, the individual, in control of how your personal information is processed. You have our promise that we will not electronically process your personal information in any way that is incompatible with this Policy.
+**1.   Will Salem Disclose the Information It Collects to Outside Parties?**  
+Generally, Salem does not sell, trade, or rent your personal information to others. However, Salem may provide aggregate statistics about our customers, traffic patterns, and related site information to third-party vendors. Generally, these statistics will include no personally identifying information. However, Salem may release Your Information when we believe, in good faith, that such release is reasonably necessary to (i) comply with the law; (ii) protect the rights, property or safety of Salem, our users, or others; (iii) enforce or apply the Terms of Use applicable to this website; or (iv) enforce contest, sweepstakes, promotions, and/or game rules.  Also, we may give some or all of Your Information to third-party vendors who assist us in fulfilling some of the functions of this Website.  Finally, we may provide Your Information to third parties if you authorize us to.
 
- **This Privacy Policy protects your privacy by:**
+**2.   What Information Do We Collect?  How Do We Use It?  
+****Registration Data**  
+Registration data is voluntary information provided directly by you in order to receive optional access to certain services or site areas.  This data may include personally identifiable information such as your name, age, email address, zip code, or telephone number.  In addition, registration data may include preference information such as usernames, passwords, desired newsletters, etc.  Here are some of the ways we might use that information:
 
- **Informing you about:**
+  * To deliver services that you request or purchase such as newsletters, offers, message boards, forums, and other items
+  * To help us create and deliver the content that is most relevant to you
+  * To alert you to news, events, contests, and other items if you so request
+  * To allow you entrance into restricted areas of the site, as appropriate
+  * To send you information about Salem, this website and other websites
+  * To compile statistics and conduct basic research
+  * To give to third parties, who may send you promotional material
 
-  * The types of personal information Network Solutions collects about you through its Web sites; 
-  * How it collects that information; 
-  * The general purposes for which it collects such information; 
-  * The types of organizations to which it discloses the information; 
-  * The choices and means by which individuals may limit its use and disclosure. 
 
 
+**Surveys**  
+Sometimes Salem posts optional, voluntary surveys in which we ask for personally identifiable information.  The choice is yours -- you don't have to answer surveys, but if you do, please understand that Salem may use the information you provide and that we may share it with third parties.  If we're asking for optional information, we may mark it with an asterisk (*) or otherwise notify you so that you can skip that portion if you want.  Here are some ways we might use that information:
 
-**Empowering you to choose:**
+  * To help us create and deliver the content that is most relevant to you
+  * To send you information about Salem and this Website
+  * To give to our content partners, who may send you promotional material
+  * To give to our advertisers, who may send you information about their products and services
+  * To share in aggregate form with our partners and advertisers 
+  * To compile statistics and conduct basic research
+  * To give to third parties, who may send you promotional material
 
-  * Whether and how certain personal information you provide is used (where such use is unrelated to the uses for which you originally disclosed it); and 
-  * Whether and the manner in which a third party uses certain personal information you provide (where such use is unrelated to the uses for which you originally disclosed it). 
 
 
+**Contests and Sweepstakes**  
+From time to time Salem runs voluntary contests and sweepstakes in which we ask for personally identifiable information such as your name, age, email address, or telephone number. That's so we can determine if you're eligible for the contest and to let you know if you win.  Sometimes we request additional information such as your gender, marital status and income level.  Here are some of the ways we might use the information that we collect:
 
-**Assuring you that Network Solutions:**
+  * To determine if you're eligible for the contest
+  * To notify you if you're a winner
+  * To send you information about Salem and this Website
+  * To help us create and deliver the content that is most relevant to you
+  * To give to third parties, who may send you promotional email
+  * To give to advertisers, who may send you email about their products and services
+  * To share in aggregate form with our partners and advertisers
+  * To compile statistics and conduct basic research 
 
-  * Takes reasonable precautions to protect personal information from loss, misuse, unauthorized access, disclosure, alteration or destruction; 
-  * Implements reasonable policies and procedures to ensure that personal information is kept only for the purposes for which it has been gathered; 
-  * Uses reasonable measures to ensure that we have accurately and completely recorded the personal information you have provided; and 
-  * Provides you reasonable access to your personal information as well as procedures for correcting or modifying that information where appropriate. 
 
 
+**Special Offers**   
+From time-to-time, Salem and its affiliated entities are able to provide you with special offers of products and services. When providing these offers, we need to gather personally identifiable information from you such as your name, age, email address and telephone number. Your acceptance of these offers is completely voluntary, but if you do not correctly enter the required information, you may not receive the product or service offered.  Here is how we may use this information:
 
-**Ensuring accountability** to individuals who believe that Network Solutions has not complied with these privacy principles. 
+  * To ensure proper delivery of the product or service
+  * To view statistics and conduct basic research
+  * To send you information about Salem and this Website
+  * To give to select parties on our site, who may send you promotional material
+  * To give to select radio stations, who may send you promotional material
+  * To give to third parties, who may send you promotional material
+  * To share in aggregate form with our partners and advertisers
 
-  
-**Third Party Advertising and Cookies**
 
-We use third-party advertising companies to serve ads on our Web site and other Web sites. In the course of serving advertisements, these companies may place or recognize a unique 'cookie' on your hard drive, and may use information (not including your name, address, e-mail address, or telephone number) about your visits to this and other web sites in order to measure advertising effectiveness and to provide advertisements about goods and services of interest to you. For more information about this practice and to know your choices about not having your information used by these companies, please visit 
 
-[http://www.doubleclick.net/us/corporate/privacy](http://www.doubleclick.net/us/corporate/privacy) and <http://www.accipiter.com/company/privacy.php>. 
+**Online Commerce Services**  
+This website may offer shopping and other online commerce services, which may be offered by Salem or by a firm that operates a store under contract with us. If our website offers such services, you will use a customer order form to request information, products, and services. The order form will ask you to give us contact information (like name or email address), financial information (like account or credit card numbers), and demographic information (like zip code or age).
 
-Network Solutions shares Web site usage information about visitors to our Web site with a reputable third-party advertising company for the purpose of targeting our Internet banner advertisements on this site and other sites. For this purpose, we and our third-party advertising company note some of the pages you visit on our Web site through the use of pixel tags (also called clear gifs). The information collected by our third-party advertising company through the use of these pixel tags is not personally identifiable. For more information about our third-party advertiser, please click here. To opt out of the targeting program, please click 
+We will use the financial information that you provide to bill you for products and services. By giving our site your credit card and related personal information, you are authorizing our store to give that information to the merchant and credit card company in order to confirm and fulfill your order.
 
-[here](http://www.privacychoices.org/).   
-**Information Corrections or Changes**  
-You have the ability to correct or change certain information in our records, such as your address and contact information. The process for changing your information begins at <https://www.networksolutions.com/en_US/manage-it/index.jhtml>. You may change this information at any time and as often as necessary. If you need assistance or have questions about correcting information, you can contact us via e-mail at [customerservice@networksolutions.com](mailto:customerservice@networksolutions.com). 
+We will use contact information from the order form to fulfill your orders. We may also use contact data to get in touch with you when necessary. We will not otherwise use or distribute your financial information without your prior approval.
 
-**How We Put Information to Good Use**  
-We use information about you for purposes of monitoring and improving our internal operations, as well as to ensure we: (i) bill you properly, (ii) administer your account in accordance with your agreements with us, and (iii) properly perform the services you have requested.
+**Confirmed Opt-in**  
+Salem acquires no personal or registration data about our users except what you explicitly and voluntarily provide (i.e., opt-in).  We reserve the right to use this information specifically for the purposes related to your registration in addition to any other purpose set forth in this Privacy Policy. ****
 
-We also use the information we collect to monitor and improve our internal operations, as well as to improve the experience of users in our network of sites. For example, we may correlate Web site traffic information with data about individual users. This data helps us to determine how much our customers use parts of the site, allowing us to enhance it to fit the needs of as many of our customers as possible. We may also break down overall usage statistics according to customers' domain names, browser types, and MIME types by reading this information from the browser string (information contained in every user's browser).
+**If You Contact Us**  
+We use return email addresses to answer the email we receive from you. Unless you tell us otherwise, we will not use your address for any other purpose.
 
-Another example of our use of information to enhance the experience of users in our network of sites is our reliance on cookie files. We use cookie files to make it easier for users to access our site or services. A cookie file is a small data file that certain Web sites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you have visited. However, the only personal information a cookie can contain is information you supply yourself. A cookie cannot read data off your hard disk or read cookie files created by other sites. We use cookies to track user traffic patterns (as described above) when you register for Network Solutions services. When you register, we may use a cookie to store a unique, random user ID. We use this ID to identify you anonymously in our database and to track the pages you visit on our site.
+**Usage (Log) Data**   
+Salem also gathers and analyzes Usage or Log Data including your IP (internet protocol) address assigned by your ISP (internet service provider), and the type of operating system you are using on your computer, and the type of web browser  you are using to view our Website.  Salem management uses Usage or Log Data to help diagnose problems with and optimize performance of the server.  This information also allows us to evaluate user traffic patters into, out from, and within our Website.  These uses, however, do not allow us to connect your IP address with your personal identity.
 
-If you have set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You may refuse cookies by turning them off in your browser; however, some of our sites may require a cookie for access.
+**What About "Cookies"?**  
+"Cookies" are small pieces of information that your Web browser stores on your computer's hard drive.  From time to time our Website may place cookies on your computer’s hard drive that enable our systems to recognize your browser and to provide you with certain features.  Use of cookies also provides information about your Web usage, which helps us compile demographic and statistical information about visitors who are utilizing our Website. Our cookies may contain personally identifying information. Most Web browsers automatically accept cookies, but you can usually change your browser to prevent that. 
 
-Finally, we use the information we collect to direct important notices and information affecting your account or services, as well as to provide general information that may be of interest to you, including newsletters, surveys, contest and sweepstake announcements, and information about our service or product offerings or the offerings of our business affiliates. You may opt-out of receiving information from us simply by notifying us of your desire in accordance with the opt-out instructions contained in any information message you receive from us. Note, however, that in order to fulfill our service obligations to you, we must continue sending you notices and other important information affecting your account or services.
+**Correcting and Updating**  
+You may correct or update your registration data by contacting our member services in the following ways:
 
- **Getting to Know Our Customers**
+  * By mailing us at:
 
-Network Solutions is in the business of putting people in touch with other people. That requires more than simply offering innovative technical services. It also requires that we understand you, our customer, and your needs. Indeed, we are the Internet's leading domain name registrar because we have taken the time to get acquainted with each one of our many customers.
 
-We get to know you primarily through the information you provide to us when signing up for, or using, one or more of our services. The information you provide ranges from basic contact information, to payment information, to the technical coordinates of your host servers. The application for domain name registration services found at 
 
-[www.networksolutions.com](http://www.networksolutions.com/en_US/legal/www.networksolutions.com) is a representative illustration of the information we request of you. All of the information we request from you when purchasing our services is obligatory unless otherwise noted on the relevant form. When you purchase our services, you agree to provide and maintain accurate, complete and updated information.
+Salem Web Network  
+Attn: All Pass Registration  
+111 Virginia Street, Suite 500  
+Richmond, Virginia 23219 
 
-After you have signed up for our services, we may be in communication with you about your account, technical questions you may have about services provided by us, or any other matter relating to those services. Those communications are essential to our relationship with you and to our ability to provide you with quality services that are responsive to your needs. At the same time, those communications give us helpful insights about you, your preferences and the ways in which we might improve our services. We therefore may maintain this information for future use.
+  * By emailing us at [support@salemwebnetwork.com](mailto:support@salemwebnetwork.com)
+  * By faxing us at 804-768-9359
 
-For operational and quality assurance purposes, we take note of whether and how you use the information and services that we provide, such as by recording site traffic patterns and by maintaining log files of users' access to site files.
 
-The information we receive from or about you is stored on systems designed to prevent the loss, misuse, unauthorized access, disclosure, alteration or destruction of that information. We also encrypt your transmission of sensitive information to us (e.g., credit card numbers, account passwords) in the interest of heightened privacy protection and information integrity. Transactions within our account manager and purchase flows use Secure Sockets Layer (SSL) encryption when transmitting data from your connection to our systems. You may click the lock icon within your web browser to verify the authenticity of any or our SSL certificates. 
 
-**With Whom We May Share Information**  
-Pursuant to arrangements with Internet Corporation for Assigned Names and Numbers ('ICANN'), we compile and maintain a publicly accessible registration database that includes basic information about each domain name registered with us, including the names, telephone numbers and e-mail addresses of individuals designated as points of contact for a given domain name. Whether or not applicable domain name registration fees have been paid is also publicly accessible. With the gradual continued privatization of the Domain Name System, and consistent with the rules or policies applicable to that system, or to comply with any changes in law or regulation, we may, if appropriate, take steps to restrict the accessibility and amount of personally identifying information available in the registration database
+**Delete/Deactivate**
 
-When you register a domain name through us, we must disclose your domain name and its associated Internet Protocol ("IP") numbers to the appropriate registry in order to make your chosen domain name a functional address on the Internet. Certain registries also require that we disclose to them the names, postal addresses, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name. Each registry discloses certain portions (and in some cases all) of the information we are required to provide to them about your domain name registration. For example, each registry discloses at least each registered domain name and its associated IP numbers ("TLD zone files") to TLD server administrators so that the domain name is capable of functioning as an address on the Internet. Consistent with the current rules and policies for the Domain Name System, such registries also disclose the TLD zone files to other interested persons, provided those persons agree, among other things, not to use the TLD zone files for improper purposes, including the transmission of unsolicited commercial e-mail. Similarly, each registry may compile and maintain a publicly accessible database that includes basic information about each domain name registered with that registry, including the names, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name. 
+To delete or deactivate an account, a user may ask to be removed from our database by contacting our member services in the following ways:
 
-We may share certain information about you with our vendors who are responsible for handling your account or performing other services that you require (including vendors who may update your credit card expiration date and credit card account number if you choose our auto-renew feature). Although we may share financial information (i.e., credit card numbers, banking information), security information (e.g., account passwords) and personal communications (e.g., personal e-mail messages or message board postings) with such vendors when necessary and appropriate, we will not share such information with any other third parties unless directed by you or except in response to formal requests in the form of a subpoena or court order issued in connection with civil or criminal proceedings related to a domain name registration or other services we provide, or in response to requests by law enforcement agencies when we suspect that you or your agent is using our services to cause harm or damage to us or others or adversely affect our ability to provide services to our customers
+  * By mailing us at:
 
-Additionally, we may share the information stored on the publicly accessible registration database, as well as other information that is not of a sensitive nature, with carefully selected business partners, including those who offer services that complement those provided by us or which may otherwise be of interest to you. If you do not want us to share information about you with our business partners, you may opt-out of receiving this information through our Account Manager by following the instructions below:
 
-a. Log into Account Manager at [www.networksolutions.com](http://www.networksolutions.com/en_US/manage-it/);
 
-b. Click “Edit User Info” in the left menu;
+Salem Web Network  
+Attn: All Pass Registration  
+111 Virginia Street, Suite 500  
+Richmond, Virginia 23219 
 
-c. Scroll to the bottom of the page;
+  * By emailing us at [support@salemwebnetwork.com](mailto:support@salemwebnetwork.com)
+  * By faxing us at 804-205-9651
 
-d. Select “NO” for the third statement, which reads, “I would like to receive selected and relevant information from Network Solutions partners;” and
 
-e. Click “SAVE.”
 
-  
-Please note, however, that consistent with the current rules and policies for the Domain Name System, information about you must remain available in the publicly accessible registration database.
+**Public Forums**  
+This site may make chat rooms, forums, message boards, and/or news groups available to its users.  Any information you disclose in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.  We cannot safeguard the privacy of any such information you choose to disclose online in this manner and you should do so carefully and at your own risk.  Please refer to <http://l.salemweb.net/communitytermsofservice> for additional information about the terms of service applicable to Salem’s public forums. 
 
- **How Do I Get My Name Removed from Bulk Access**  
-As noted above, we currently make certain information about you available to the general public via our domain name registration database look-up services. These services give users access to such data on a query-by-query basis. Pursuant to our arrangements with ICANN, qualified persons may also access such data on a bulk basis provided they agree, among other things, not to use the data to allow, enable or otherwise support the transmission by e-mail, telephone, or facsimile of mass, unsolicited, commercial advertising or solicitations to entities other than to such qualified persons’ own existing customers; or (ii) sell or redistribute the data to third parties, except insofar as the data is incorporated into a value-added product or service that does not permit the extraction of a substantial portion of the data. If you do not want your personal information disclosed on a bulk basis, you may opt-out of such disclosure through our Account Manager by following the instructions below:
+**Sale of Our Company** Salem may include any information we collect through this website in our customer information database.  This database is considered an asset owned by Salem. As in any business venture, the sale of Salem is always a possibility, either as an entire corporate entity or through an asset sale that may include our customer information database.  Should another entity ever purchase or acquire Salem or its assets, all information contained in our customer information database will be considered a transferred asset and become the property of the purchasing or acquiring entity. 
 
-a. Log into Account Manager at [www.networksolutions.com](http://www.networksolutions.com/en_US/legal/www.networksolutions.com);
+**Links to Other Sites**  
+When you visit Salem, you may be linked to other outside sites.  This includes links to sites operated by advertisers, sponsors, and partners that may use Salem's logo as part of an agreement with Salem.  These other sites may send their own cookies to users, collect data, or solicit personal information.  These other sites may be developed by people over whom Salem exercises no control and, as such, are not subject to the Salem Privacy Policy. Salem is not responsible for the privacy policies of these other sites, nor for the use of any information that these sites may collect.
 
-b. Click “Edit User Info” in the left menu;
+**Information Sharing With Third Parties**  
+From time to time we may enter into a special relationship with another company that is not owned by Salem to provide additional features at this website. These special relationships may include “powered by” partners, business partners, sponsors, and co-branded sites (referred to here as “co-branded pages”). You should look for a specific privacy statement on any such co-branded page. Any personal information that you provide when signing up at one of those co-branded pages may be shared with our third party partner. You should also check our partner’s website for information regarding its privacy policies.
 
-c. Scroll to the bottom of the page;
+Also, the nature of some features of our site may require that we share personal information about you with persons or companies outside of the Salem corporate enterprise. For example, this may occur at a feature that enables you, via our site, to ask questions of persons or entities that are not part of the Salem enterprise. By responding to those features of the site, whether by email or direct entry of information on our website, you are consenting to our transferring that information to such persons or entities.
 
-d. Select “NO” for the first statement, which reads, “I choose to have my name included in the Bulk WHOIS data licensed to third parties for domains for which I am the Account Holder or Primary Contact;” and
+**Children's Privacy**  
+Because the safety of children is very important to us, Salem will not knowingly accept personal information from children under the age of 13 without first obtaining written parental consent.  A parent can give such consent by filling out and signing the [Salem Parental Consent Form](https://web.archive.org/help/ParentalConsentForm.aspx) and returning it to us at the contact point listed below.  If a parent wishes to refuse to permit collection or use of their child's information by Salem, that parent should contact us to request deletion of their child's account.
 
-e. Click “SAVE.” 
+If you have any questions or comments regarding children’s privacy at Salem or if you would like to submit a signed Parental Consent Form, please contact:
 
-**Our Accountability to You**  
-By purchasing our services, you obtain the protections of, and consent to the data processing practices described in, this Privacy Policy. When you purchase our services, you also represent to us that you have provided notice to, and obtained consent from, any third party individuals whose personal data you supply to us with regard to: (i) the purposes for which such third party's personal data have been collected, (ii) the intended recipients or categories of recipients of the third party's personal data, (iii) which of the third party's data are obligatory and which data, if any, are voluntary, and (iv) how the third party can access and, if necessary, rectify the data held about them.
+  * By mailing us at:
 
-In addition to the privacy protections that we provide, our employees, agents and business partners are independently responsible for ensuring compliance with this Privacy Policy, as described below. 
 
-**Employee Accountability**  
-Only those Network Solutions employees that have a legitimate business purpose for accessing and handling personal information obtained by us are given authorization to do so. The unauthorized access or use of such information by a Network Solutions employee is prohibited and constitutes grounds for disciplinary action.
 
-Additionally, our information management systems are configured in such a way as to block or inhibit employees from accessing information that they have no authority to access. 
+Salem Web Network  
+Attn: Children’s Privacy Dept.  
+111 Virginia Street, Suite 500  
+Richmond, Virginia 23219 
 
-**The Accountability of Network Solutions' Agents and Business Partners**  
-Our trusted vendors and business partners are responsible for processing or handling some of the information that we receive. These vendors and business partners are not authorized to use such information for purposes beyond those specified by us and are required to preserve the confidentiality with which we treat such information.
+  * By emailing us at [support@salemwebnetwork.com](mailto:support@salemwebnetwork.com)
+  * By faxing us at 804-205-9651
 
-If you feel that Network Solutions, or any of our agents, representatives or employees, is violating this Privacy Policy, please contact us via e-mail at 
 
-[privacy@networksolutions.com](mailto:privacy@networksolutions.com), by telephone at (703) 668-4600, or by postal mail at:
 
-Network Solutions, LLC  
-Attention: General Counsel  
-13861 Sunrise Valley Dr   
-Suite 300   
-Herndon VA 20171   
-United States  
-(703) 668-4600 
+**Information Security**  
+The security and confidentially of Your Information is extremely important to us. Accordingly, we take appropriate security measures to protect against the unauthorized access, alteration, disclosure, or destruction of data. This includes the use of encryption technology to ensure that Your Information is protected. Please understand, however, that despite our best efforts no security measures are perfect or impenetrable.
 
-**Notification of Changes**  
-We will post any changes to this Privacy Policy 30 days before their effective date so you will always know what information we collect, how we use it, and under what circumstances, if any, we disclose it. You are responsible for periodically checking our web site for changes to this Privacy Policy. You may opt-out of any posted change to our collection, use or disclosure of your personal information by sending an e-mail to 
+**Your California Privacy Rights  
+**Beginning on January 1, 2005, California Civil Code Section 1798.83 permits customers of Salem who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [support@salemwebnetwork.com](mailto:support@salemwebnetwork.com) or write us at: 
 
-[privacy@networksolutions.com](mailto:privacy@networksolutions.com).
+Salem Web Network  
+Attn: California Privacy Rights  
+111 Virginia Street, Suite 500  
+Richmond, Virginia 23219 
 
- **If you have any questions regarding this Privacy Policy, please contact[ privacy@networksolutions.com](mailto:privacy@networksolutions.com).**
+**Leased Content**  
+No third-party licensor shall have any liability for the accuracy or completeness of information or services provided thereby via this website or any component thereof or for delays, inaccuracies, omissions, or other defects therein nor for any claims or losses arising therefrom or occasioned thereby, including, without limitation, any lost profits, indirect, special, or consequential damages. Any such third party licensors have exclusive proprietary rights from the information received via the service. Customer, end-user, or visitor, as applicable, shall not use or permit anyone to use the information provided through the service for any unlawful or unauthorized purpose. Customer, end-user, or visitor, as applicable, is not authorized or permitted to furnish such information to any person or firm for reuse or retransmission without prior written approval of the source of such information. Provision of the information on the service is subject to termination in the event that any agreement between a third party licensor and a provider of information distributed through the service is terminated in accordance with its terms. Third party licensor and its subsidiaries, affiliates, information providers and content partners shall have no liability for investment decisions based on the information provided hereby.
+
+  **General Information**  
+This Policy and the Terms of Use for this website shall be governed by, construed and enforced in accordance with the laws of the State of Virginia, as it is applied to agreements entered into and to be performed entirely within such state, without regard to conflict of law principles. You agree that any cause of action you or Salem brings to enforce this Policy and/or the Terms of Use, or in connection with any matters related to this Salem website and/or the Privacy Policy, shall be brought only in either the state or Federal courts located in Richmond, Virginia. You agree to submit to the personal jurisdiction of the courts of the State of Virginia for any cause of action arising out of this Policy. 
+
+If any provision of this Policy, or the application thereof to any person or circumstances, is held invalid or for any reason, unenforceable including, but not limited to, the warranty disclaimers and liability limitations, then such provision shall be deemed superseded by a valid, enforceable provision that matches, as closely as possible, the original provision, and the other provisions of this Policy shall remain in full force and effect. The failure of either party to insist upon strict performance of any provision of this Policy shall not be construed as a waiver of any provision or right. Unless expressly provided otherwise, this Policy and the Terms of Use for this website are the entire agreement between you and Salem with respect to the use of this Salem website and shall not be modified except in writing, signed by an authorized representative of Salem.
+
+If you have any questions concerning this Policy, you may send them by email to [scotthunter@salem.cc](mailto:scotthunter@salem.cc). You must send any official correspondence via postal mail to:
+
+  * By mailing us at:
+
+
+
+Salem Web Network  
+Attn: Children’s Privacy Dept.  
+111 Virginia Street, Suite 500  
+Richmond, Virginia 23219 
+
+  * By emailing us at [support@salemwebnetwork.com](mailto:support@salemwebnetwork.com)
+  * By faxing us at 804-205-9651
+
+
+
+**European Union and Other Foreign Nations**  
+This Salem website is governed by and operated in accordance with the laws of United States of America and is intended for enjoyment of residents of the United States. Salem makes no representation that this website is governed by or operated in accordance with the laws of other nations. By using this website and submitting any personal information, visitors from outside of the United States acknowledge the this site is subject to U.S. law, consent to the transfer of personal data to the U.S., and waive any claims that may arise under their own national laws.
+
+**In Summary**  
+We understand your privacy is important to you. Please note, however, that Salem may use Your Information and may disclose it to select third-party vendors as described in the above provisions. 
+
+  **Your Consent and Changes to this Policy**  
+By using our Website, you consent to the collection and use of Your Information by Salem as set forth in this Privacy Policy.  Additionally, your visit and any dispute over privacy are subject to this Privacy Policy and the Terms of Use applicable to this website.
+
+Salem may at any time amend, modify, restate, or revise this Privacy Policy by updating this posting, and you should therefore periodically visit this page to view the then current Privacy Policy that is in effect.  If we make any material changes, we will revise the “Last Updated” date at the top of the Privacy Policy.  Your continued use of this Website constitutes your agreement to this Privacy Policy and any updates.  
+
