@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the londondrugs.com privacy policy that was archived on 2007-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070620104304id_/http%3A//www.londondrugs.com/Cultures/en-US/Content/CorporateInfo/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the londondrugs.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224063411id_/http%3A//www.londondrugs.com/Cultures/en-US/Content/CorporateInfo/PrivacyPolicy) for the most accurate reproduction.*
 
 # London Drugs
 
