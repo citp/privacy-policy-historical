@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rsa.com privacy policy that was archived on 2007-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070506082642id_/http%3A//www.rsa.com/node.aspx%3Fid%3D2470) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rsa.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224132145id_/http%3A//www.rsa.com/node.aspx%3Fid%3D2470) for the most accurate reproduction.*
 
-# RSA, The Security Division of EMC - Web Site Privacy Policy and Consent to Use of Data RSA.COM
+# Web Site Privacy Policy and Consent to Use of Data RSA.COM - RSA, The Security Division of EMC
 
 November 14, 2005
 
