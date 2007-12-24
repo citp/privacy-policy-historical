@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the whio.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616125203id_/http%3A//www.whiotv.com/station/1920899/detail.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whio.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224074301id_/http%3A//www.whiotv.com/station/1920899/detail.html) for the most accurate reproduction.*
 
-# WHIOTV.com - WHIO-TV - Privacy Policy
+# Privacy Policy - WHIO-TV News Story - WHIO Dayton
 
 Effective date: 1/24/03 
 
 We respect the privacy of visitors to our site. This Privacy Policy governs the use and collection of information from you by Miami Valley Broadcasting Corporation, d/b/a WHIO-TV ("we" or "us") through your use of this site. This Privacy Policy does not apply to any information you may provide to us through other means; for example, at a live event, via mail, or via telephone. Please read this Privacy Policy carefully so that you understand our online privacy practices. By visiting this site, you agree that your visit, and any dispute over our online privacy practices, is governed by this Privacy Policy and our Visitor Agreement. Questions regarding privacy issues should be directed to:
 
-Pat Enright  
-Executive Producer  
+Becky Grimes  
+Web Manager  
 WHIO-TV  
 1414 Wilmington Ave.  
 Dayton, OH 45420  
-[pat.enright@cox.com](mailto:pat.enright@cox.com)
+[becky.grimes@whiotv.com](mailto:becky.grimes@whiotv.com)
 
  **CHILDREN'S PRIVACY**
 
@@ -33,13 +33,15 @@ The more you tell us about yourself, the more value we can offer you. Supplying 
 
 We use cookies to help us tailor our site to your needs, to deliver a better, more personalized service. For example, we use cookies to avoid showing you the same ad, repeatedly, during a single visit. In addition, we may use cookies to track the pages on our site visited by our users. We can build a better site if we know which pages our users are visiting and how often. Of course, you can set your browser not to accept cookies, but if you do, you may not be able to take advantage of the personalized features enjoyed by other visitors to our site.
 
+We also may use cookies to allow third parties to better serve advertisements to you outside of this website on websites operated by Internet Broadcasting Systems, Inc. and other websites.
+
  **Other Methods of Collecting Information.** Our web pages may contain electronic images (called "single-pixel GIFs" or "web beacons") that allow us and our vendors to count users who have visited particular pages or to access certain cookies. We may use these tools and other technologies to recognize which pages users visit, and which links they click on. These features may also be included in our email newsletters so that we can learn which messages have been opened and acted upon. We may also be able to verify your online purchases from us or from third party sites that have agreed to share such information with us.
 
  **Browser Level Information and IP Addresses.** Our web servers automatically collect limited information about your computer configuration when you visit our site, including the type of browser software you use, the operating system you're running, the resolution of your computer monitor, the website that referred you, and your IP address. (Your IP address is a numerical address that is used by computers connected to the Internet to identify your computer so that data (such as the web pages you want to view) can be transmitted to you. We also use IP address information for systems administration and trouble shooting purposes. Your IP address does not tell us who you are.) We use this information to deliver our web pages to you upon request, to tailor our site to the interests of our users, and to measure traffic within our site.
 
  **Third Party Advertising** The ads appearing on this Web site are delivered to you by DoubleClick, our Web advertising partner. Information about your visits to this site, such as number of times you have viewed an ad (but not your name, address, or other personal in-formation), is used to serve ads to you. For more information about DoubleClick, cookies, and how to "opt-out", please [click here.](http://www.doubleclick.com/us/about_doubleclick/privacy/)
 
- **Third Party Cookies** In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.
+ **Third Party Cookies** In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://networkadvertising.org/consumer/opt_out.asp).
 
  **DISCLOSURE OF INFORMATION**
 
