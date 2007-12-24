@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yha.org.uk privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623143312id_/http%3A//www.yha.org.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yha.org.uk privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224211730id_/http%3A//www.yha.org.uk/privacy) for the most accurate reproduction.*
 
 # Privacy - YHA
 
@@ -78,5 +78,5 @@ Email: [membership@yha.org.uk](mailto:membership@yha.org.uk)
 
 ## YHA Membership
 
-As part of your membership service, YHA will issue your YHA membership pack and various offers, information and news of our fundraising activities that we believe may be of interest to you, via the post as well as biannual issues of Triangle: YHA's membership magazine received by certain membership categories. This is the standard level of contact made by YHA when you become a YHA member and will remain, unless requested otherwise.   
+As part of your membership service, YHA will issue your YHA membership pack and various offers, information and news of our fundraising activities that we believe may be of interest to you, via the post as well as biannual issues of Discover: YHA's membership magazine received by certain membership categories. This is the standard level of contact made by YHA when you become a YHA member and will remain, unless requested otherwise.   
 
