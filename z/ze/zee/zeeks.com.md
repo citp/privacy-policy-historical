@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the zeeks.com privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618071816id_/http%3A//corporate.kaboose.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zeeks.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224130148id_/http%3A//corporate.kaboose.com/privacy.html) for the most accurate reproduction.*
 
-# Kaboose - About Kaboose
+# Kaboose - Privacy Policy
 
-**Privacy Policy**
-
-**  
-WELCOME**
+**WELCOME**
 
 Kaboose Inc. works hard to provide you with the best services, information and the highest quality interaction on the Internet. We respect the privacy of our users and the concerns of parents for their children visiting our sites.
 
@@ -27,13 +24,13 @@ We do not actively solicit, request, or re-use any information from visitors exc
 
 We offer a feedback feature so users can communicate with us. There is a text box for users to write whatever they want to tell us and they are invited to share certain information about themselves although it is not required. If people e-mail us with questions or comments and wish a reply, they need to provide an e-mail address or mailing address. Real names need not be used to request e-mail replies.
 
-If a user requests to receive communications from Kaboose (newsletters or company updates, for example) they need to provide a valid e-mail address. Real names need not be used to request newsletters.
+If a user requests to receive communications from Kaboose (newsletters or company updates, for example) they need to provide a valid e-mail address because communications will be sent to that e-mail address. Real names need not be used to request communications.
 
 **Contests, Promotions and Electronic Mailing**
 
 Email addresses that are submitted for entry in a contest or sweepstakes will only be used for the purpose of determining a winner. When entering, children under the age of 13 are required to provide the email address of a parent/guardian. Kaboose will send an email to the parent giving them the option of removing their child from the contest if they so choose. Should a user under the age of 13 be selected as the winner (depending on eligibility and legal requirements per the contest rules and regulations), Kaboose will notify that child that he/she has won and request the parent or guardian complete a release and waiver form so that we may award the prize. Also, if permission is granted by a parent/guardian, we may post the winner's first name, age and home state/province. Once the prize is awarded, only information related to the winner will be maintained for internal administrative purposes.
 
-Similarly, if a child wants to receive a newsletter, we will require a parent's email address so that we may notify the parent or guardian of the child's request and allow the parent or guardian the opportunity to rescind that specific request.
+Similarly, if a child wants to receive communications, we will require a parent's email address so that we may notify the parent or guardian of the child's request and allow the parent or guardian the opportunity to rescind that specific request.
 
 Parents can request to have their child's information deleted and refuse to permit further collection of information by us. In order to do that, simply contact us.
 
@@ -61,12 +58,12 @@ In the course of serving advertisements to this site, our third-party advertiser
 
 **SHARING INFORMATION**
 
-Except for the following limited and necessary instances, we do not share personally identifiable information collected at this site with third parties: 
+Except for the following limited and necessary instances, we do not share personally identifiable information collected at this site with third parties:
 
-  * Kaboose has your consent to share the information;
+  * Kaboose has your consent to share the information; 
   * Kaboose needs to share your information to provide a product or service you have requested; 
-  * Kaboose needs to send the information to companies who work on behalf of Kaboose to provide a product or service to you;
-  * Kaboose responds to subpoenas, court orders or legal process; or
+  * Kaboose needs to send the information to companies who work on behalf of Kaboose to provide a product or service to you; 
+  * Kaboose responds to subpoenas, court orders or legal process; or 
   * Kaboose finds that your actions while using Kaboose services violate the Kaboose Terms of Use; or any of our usage guidelines for specific products or services.
 
 
@@ -92,14 +89,16 @@ Kaboose Inc.
 Suite 1400  
 Toronto, ON  
 M5G 1X3  
-Canada 
+Canada  
+Telephone: 416-593-3000  
+Fax: 416-593-4658
 
-To contact Kaboose by e-mail please click here. 416-593-6489
+To contact Kaboose by e-mail please click here.
 
-Kaboose hopes this document answers your questions and concerns about our privacy policies. Protecting the privacy of our visitors is vitally important to us. When Kaboose makes any changes to its Privacy Statement, the updated Privacy Statement will be posted on this page. We encourage you to periodically review this Privacy Statement. 
+Kaboose hopes this document answers your questions and concerns about our privacy policies. Protecting the privacy of our visitors is vitally important to us. When Kaboose makes any changes to its Privacy Statement, the updated Privacy Statement will be posted on this page. We encourage you to periodically review this Privacy Statement.
 
-© 2006 Kaboose Inc., All Rights Reserved
+© 2007 Kaboose Inc., All Rights Reserved
 
 Thanks for stopping by! We hope your visit to the Kaboose Network is fun, safe and enjoyable!
 
-Last updated: 14 February 2006 
+Last updated: 13 July 2007
