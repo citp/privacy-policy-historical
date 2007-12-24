@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scrubsandbeyond.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624074312id_/http%3A//www.scrubsandbeyond.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scrubsandbeyond.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224141536id_/http%3A//www.scrubsandbeyond.com/privacy.aspx) for the most accurate reproduction.*
 
 # Scrubs & Beyond
 
@@ -12,7 +12,7 @@ This web site is owned and operated by Scrubs & Beyond, LLC. Here at Scrubs & Be
 Scrubs & Beyond's postal address is: 823 Hanley Industrial Court, Brentwood, Missouri 63144   
 E-mail: [customerservice@scrubsandbeyond.com](mailto:customerservice@scrubsandbeyond.com)
 
-**SECURITY.** Scrubs & Beyond uses 100% Secure Internet connections when taking and transmitting payment information. We use 128 bit Secure Socket Layer encryption; the standard for performing Secure Transactions. All transactions are Verisign® approved for security. 
+**SECURITY.** Scrubs & Beyond uses 100% Secure Internet connections when taking and transmitting payment information. We use 128 bit Secure Socket Layer encryption; the standard for performing Secure Transactions. 
 
 **INFORMATION WE COLLECT AND WHAT WE DO WITH IT.** For each visitor to our web site, our web server automatically recognizes only the visitor's domain name, but not the e-mail address (where possible) and we collect aggregate information on what pages visitors access or visit, and information volunteered by the visitor. The information we collect from visitors is used to improve the content of our web page and is not shared with other organizations for commercial purposes. 
 
