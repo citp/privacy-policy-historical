@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the axill.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623213040id_/http%3A//axill.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the axill.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224083536id_/http%3A//www.axill.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # AXILL - The Publisher Network | Daily Payouts
 
