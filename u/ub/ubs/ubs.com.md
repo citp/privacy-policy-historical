@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ubs.com privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609084111id_/http%3A//www.ubs.com/1/e/index/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubs.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224025825id_/http%3A//www.ubs.com/1/e/index/privacy_policy.html) for the most accurate reproduction.*
 
 # UBS - Privacy Policy
 
@@ -32,7 +32,11 @@ Within UBS your personal Data will be transmitted and stored in a protected envi
 
 We may store Data in locations other than your country of residence. In such cases UBS will endeavour to ensure that there are adequate levels of protection for your Data taking into account applicable legal and regulatory requirements, including those relating to banking secrecy and data protection.
 
-For further information please read [our disclaimer](https://web.archive.org/1/e/index/disclaimer.html).
+For further information please read 
+
+[our disclaimer](https://web.archive.org/1/e/index/disclaimer.html)
+
+.
 
 This Policy was last updated in December 2003.
 
