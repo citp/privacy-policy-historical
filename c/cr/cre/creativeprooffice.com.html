@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the creativeprooffice.com privacy policy that was archived on 2007-05-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070526100334id_/http%3A//www.creativeprooffice.com/site/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the creativeprooffice.com privacy policy that was archived on 2007-12-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071224014141id_/http%3A//www.creativeprooffice.com/site/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
@@ -338,17 +338,52 @@
 <div id="loginBox">
 	<div id="loginBoxContainer">
 		
-	<b>User Name</b><br><input type="text" name="userid" id="userid"><br>
-	<b>Password</b><br><input type="password" name="password" id="password"><br>
-	<input type="image" src="http://www.creativeprooffice.com/images/button_login.gif" border="0" title="Login" alt="Login" id="loginButton" style="height: 24px; width: 75px;">
+	<b>User Name</b><br><input type="text" name="userid" id="userid" class="loginInput"><br>
+	<b>Password</b><br><input type="password" name="password" id="password" class="loginInput"><br>
+	<input type="image" src="http://www.creativeprooffice.com/images/button_login.gif" border="0" title="Login" alt="Login" id="loginButton" class="loginButton" style="height: 24px; width: 75px;">
 	<!--<input type="submit" class="submitButton" id="loginButton" value="Login">-->
 		</div>	
 </div>
 <div style="margin-top: -20px; margin-bottom: 10px;"><a href="http://www.creativeprooffice.com/site/register" title="Sign Up for a free CreativePro Office account">Sign Up</a>
 for a free account.</div>
 </form>
+<!-- Client Login Box -->
+<form action="http://www.creativeprooffice.com/apps/login.php" method="POST">
+<input type="hidden" name="loginClient" value="1">
+<div id="loginBoxClient">
+	<div id="loginBoxContainerClient">
+		
+	<b>User Name</b><br><input type="text" name="userid" id="useridClient" class="loginInput"><br>
+	<input type="image" src="http://www.creativeprooffice.com/images/button_login.gif" border="0" title="Login" alt="Login" id="loginButtonClient" class="loginButton" style="height: 24px; width: 75px;">
+		</div>	
+</div>
+</form>
 </center>
 <!-- End Login Form -->
+
+<center>
+<!-- Contribution button -->
+<!--
+<div id="contributeBox">
+	<div id="contributeBoxContainer">
+		<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+		<input type="hidden" name="cmd" value="_xclick">
+		<input type="hidden" name="business" value="info@upstart-productions.com">
+		<input type="hidden" name="item_name" value="Support CreativePro Office">
+		<input type="hidden" name="no_shipping" value="1">
+		<input type="hidden" name="return" value="http://www.creativeprooffice.com/site/donateSuccess">
+		<input type="hidden" name="cancel_return" value="http://www.creativeprooffice.com/site/donateCancel">
+		<input type="hidden" name="cn" value="Notes or Comments">
+		<input type="hidden" name="tax" value="0">
+		<input type="hidden" name="bn" value="PP-DonationsBF">
+		<input type="image" src="https://www.paypal.com/en_US/i/btn/x-click-but21.gif" border="0" name="submit" alt="Make payments with PayPal - it's fast, free and secure!">
+		<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
+		</form>
+	</div>	
+</div>
+-->
+<!-- End contribution button -->
+</center>
 
 <!-- RSS Icon -->
 <div style="text-align: center;">
@@ -358,11 +393,21 @@ for a free account.</div>
 <!--  End RSS Icon -->
 
 <div class="blogDiv">
-<div style="padding-top: 10px;" class="sideBarHeader">Recent Blog Entries</div>
-
-<div class="blogSidebarLinks" style="margin-left: 10px;">
-<div style="padding-bottom: 5px;"><a href="http://blog.creativeprooffice.com/entry/CreativePro-Office-Job-Timer/">CreativePro Office Job Timer</a></div><div style="padding-bottom: 5px;"><a href="http://blog.creativeprooffice.com/entry/Invoice-Editing-is-Fixed/">Invoice Editing is Fixed!</a></div><div style="padding-bottom: 5px;"><a href="http://blog.creativeprooffice.com/entry/Invoice-Editing-Has-Some-Big-Problems/">Invoice Editing Has Some Big Problems</a></div><div style="padding-bottom: 5px;"><a href="http://blog.creativeprooffice.com/entry/CreativePro-Office-Support-Forum/">CreativePro Office Support Forum</a></div><div style="padding-bottom: 5px;"><a href="http://blog.creativeprooffice.com/entry/CPO-is-Slooooooooow-This-Morning/">CPO is Slooooooooow This Morning</a></div><div style="padding-bottom: 5px;"><a href="http://blog.creativeprooffice.com/entry/Searching-Your-Office/">Searching Your Office</a></div><div style="padding-bottom: 5px;"><a href="http://blog.creativeprooffice.com/entry/Introducing-Google-Homepage,-Netvibes-Module/">Introducing Google Homepage, Netvibes Module</a></div><div style="padding-bottom: 5px;"><a href="http://blog.creativeprooffice.com/entry/Internationalization-and-CreativePro-Office/">Internationalization and CreativePro Office</a></div><div style="padding-bottom: 5px;"><a href="http://blog.creativeprooffice.com/entry/Why-the-Tiny,-Little-Calendar?/">Why the Tiny, Little Calendar?</a></div><div style="padding-bottom: 5px;"><a href="http://blog.creativeprooffice.com/entry/A-Big-Thanks-to-the-Early-Adopters/">A Big Thanks to the Early Adopters</a></div></div>
+	<div style="padding-top: 10px;" class="sideBarHeader">Recent Blog Entries</div>
+	<div class="blogSidebarLinks" style="margin-left: 10px;"><div style="padding-bottom: 5px;"><a href="http://blog.creativeprooffice.com/entry/Save-Net-Radio/">Save Net Radio!</a></div><div style="padding-bottom: 5px;"><a href="http://blog.creativeprooffice.com/entry/CreativePro-Office-Job-Timer/">CreativePro Office Job Timer</a></div><div style="padding-bottom: 5px;"><a href="http://blog.creativeprooffice.com/entry/Invoice-Editing-is-Fixed/">Invoice Editing is Fixed!</a></div><div style="padding-bottom: 5px;"><a href="http://blog.creativeprooffice.com/entry/Invoice-Editing-Has-Some-Big-Problems/">Invoice Editing Has Some Big Problems</a></div><div style="padding-bottom: 5px;"><a href="http://blog.creativeprooffice.com/entry/CreativePro-Office-Support-Forum/">CreativePro Office Support Forum</a></div><div style="padding-bottom: 5px;"><a href="http://blog.creativeprooffice.com/entry/CPO-is-Slooooooooow-This-Morning/">CPO is Slooooooooow This Morning</a></div><div style="padding-bottom: 5px;"><a href="http://blog.creativeprooffice.com/entry/Searching-Your-Office/">Searching Your Office</a></div><div style="padding-bottom: 5px;"><a href="http://blog.creativeprooffice.com/entry/Introducing-Google-Homepage,-Netvibes-Module/">Introducing Google Homepage, Netvibes Module</a></div><div style="padding-bottom: 5px;"><a href="http://blog.creativeprooffice.com/entry/Internationalization-and-CreativePro-Office/">Internationalization and CreativePro Office</a></div><div style="padding-bottom: 5px;"><a href="http://blog.creativeprooffice.com/entry/Why-the-Tiny,-Little-Calendar?/">Why the Tiny, Little Calendar?</a></div></div>
 </div>
+
+<!-- Save Net Radio -->
+<!-- 
+<div style="text-align: center; margin-bottom: 15px; margin-top: 10px;">
+<a href="http://capwiz.com/saveinternetradio/home/" target="_blank">
+<img src="http://www.creativeprooffice.com/images/painsplatter_120x180.jpg" width="120" height="180" alt="SaveNetRadio.org" title="SaveNetRadio.org" border="0"/></a>
+<br />
+<a href="http://blog.creativeprooffice.com/entry/Save-Net-Radio/">What's this all about?</a>
+</div>
+-->
+<!-- End Save Net Radio -->
+
 </div>	
 <div class="rightColBottom" style="margin-bottom: 20px;"></div>
 
