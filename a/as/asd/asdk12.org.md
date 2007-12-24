@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the asdk12.org privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626050335id_/http%3A//www.asdk12.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asdk12.org privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224015459id_/http%3A//www.asdk12.org/privacy.asp) for the most accurate reproduction.*
 
 # Anchorage School District General Information
 
 Information Collected and How it is Used | Personal Information |  How Personal Information is Used |  Rules for Sending Comments | Security | Cookies | Notification of Changes | Links | Contact Us | Definitions
 
-#### [PDF version](https://web.archive.org/web/20070626050335id_/http%3A//www.asdk12.org/privacy.pdf) [ ](http://www.adobe.com/products/acrobat/readstep.html) | [Text version](https://web.archive.org/web/20070626050335id_/http%3A//www.asdk12.org/privacy.txt)
+#### [PDF version](https://web.archive.org/web/20071224015459id_/http%3A//www.asdk12.org/privacy.pdf) [ ](http://www.adobe.com/products/acrobat/readstep.html) | [Text version](https://web.archive.org/web/20071224015459id_/http%3A//www.asdk12.org/privacy.txt)
 
 ## Information Collected and How it is Used
 
