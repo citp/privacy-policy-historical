@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the faithclipart.com privacy policy that was archived on 2007-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070606142456id_/http%3A//www.faithclipart.com/fca/privacyPolicy/view.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faithclipart.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224104135id_/http%3A//www.faithclipart.com/fca/privacyPolicy/view.do) for the most accurate reproduction.*
 
-# FaithClipart - Christian Clipart, Backgrounds, Wallpaper - Free Trial
+# None
 
   
-FaithClipart.com values your privacy. You may contact us any time to learn more about this privacy policy by sending email to [service@FaithClipart.com](mailto:service@FaithClipart.com). This Privacy Statement describes how FaithClipart.com collects and uses information about you when you use the FaithClipart.com web site ("Site"). 
+FaithClipart.com values your privacy. You may contact us any time to learn more about this privacy policy by sending email to [Contact@FaithClipart.com](mailto:contact@FaithClipart.com). This Privacy Statement describes how FaithClipart.com collects and uses information about you when you use the FaithClipart.com web site ("Site"). 
 
 **Collection and Use of Personal Information by FaithClipart.com**
 
-With your consent, we collect information that personally identifies you or allows us to contact you when you register to use the Site. Such information may include your name, e-mail address, user identification password and other information (collectively "Personal Information"). You may also provide us with Personal Information in the process of submitting questions and answers while interacting with other members of the Site. FaithClipart.com uses your Personal Information to operate the Site, to effect your transactions initiated at the Site; to create and share reports about your transactions among themselves. You may correct or update your Personal Information by sending e-mail to [service@FaithClipart.com](mailto:service@FaithClipart.com). **
+With your consent, we collect information that personally identifies you or allows us to contact you when you register to use the Site. Such information may include your name, e-mail address, user identification password and other information (collectively "Personal Information"). You may also provide us with Personal Information in the process of submitting questions and answers while interacting with other members of the Site. FaithClipart.com uses your Personal Information to operate the Site, to effect your transactions initiated at the Site; to create and share reports about your transactions among themselves. You may correct or update your Personal Information by sending e-mail to [Contact@FaithClipart.com](mailto:contact@FaithClipart.com). **
 
 Cookies
 
@@ -19,7 +19,7 @@ Personal Information Used for Promotional Purposes
 
 **
 
-We may send you information from time to time about FaithClipart.com promotional offerings. However, we will not share your Personal Information with any third party without your prior consent. Your consent to receipt of promotional offerings may be indicated in the appropriate check boxes within the Site signifying your preferences. You may be entitled to stop the delivery of promotional information from FaithClipart.com by using the UNSUBSCRIBE link provided in all marketing emails, or by sending e-mail to [service@FaithClipart.com](mailto:service@FaithClipart.com) and, for third party promotional offerings, by contacting the source of that promotional offering. **
+We may send you information from time to time about FaithClipart.com promotional offerings. However, we will not share your Personal Information with any third party without your prior consent. Your consent to receipt of promotional offerings may be indicated in the appropriate check boxes within the Site signifying your preferences. You may be entitled to stop the delivery of promotional information from FaithClipart.com by using the UNSUBSCRIBE link provided in all marketing emails, or by sending e-mail to [Contact@FaithClipart.com](mailto:contact@FaithClipart.com) and, for third party promotional offerings, by contacting the source of that promotional offering. **
 
 Children's Privacy
 
@@ -49,9 +49,18 @@ Questions, Comments, Concerns
 
 **
 
-If you have any questions or comments about our use of Personal Information, please contact us at [service@FaithClipart.com](mailto:service@FaithClipart.com). We will use reasonable efforts to promptly investigate any complaint you may have regarding our use of Personal Information. 
+If you have any questions or comments about our use of Personal Information, please contact us at [Contact@FaithClipart.com](mailto:Contact@FaithClipart.com). We will use reasonable efforts to promptly investigate any complaint you may have regarding our use of Personal Information. 
 
 [](https://www.faithclipart.com/fca/register.do)
 
-|   |   
+|   | 
+
+**All Suggestions, Billing and Site Questions:** [Contact@FaithClipart.com](mailto:contact@faithclipart.com)
+
+**FaithClipart.com**  
+Letters and Arts, Inc.  
+695 Mistletoe Road  
+Suite M11  
+Ashland, Oregon 97520  
+  
 ---|---|---
