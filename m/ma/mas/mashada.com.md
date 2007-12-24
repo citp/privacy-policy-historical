@@ -1,17 +1,16 @@
-> *The following text is extracted and transformed from the mashada.com privacy policy that was archived on 2006-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060815135818id_/http%3A//www.mashada.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mashada.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224085110id_/http%3A//www.mashada.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy | Mashada.com
+# Privacy Policy | Mashada
 
-**Mashada.com Online Privacy Notice**
+Thank you for visiting Mashada.com site. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used at this Mashada.com site. 
 
-Thank you for visiting Mashada.com site. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used at this Mashada.com site.   
-The Information We Collect
+The Information We Collect 
 
 At some Mashada.com sites, you can enter contests, vote in polls or otherwise express an opinion, or subscribe to one of our services. The types of personally identifiable information that may be collected at these pages include: name, address, e-mail address, telephone number, fax number and information about your interests in and use of various products, programs, and services.
 
 At certain parts of some of our sites, only persons who provide us with the requested personally identifiable information will be able to order products, programs, and services or otherwise participate in the site's activities and offerings.
 
-We also may collect certain non-personally identifiable information when you visit many of our web pages such as the type of browser you are using (e.g., Netscape, Internet Explorer), the type of operating system you are using, (e.g., Windows '95 or Mac OS) and the domain name of your Internet service provider (e.g., America Online, Earthlink).
+We also may collect certain non-personally identifiable information when you visit many of our web pages such as the type of browser you are using (e.g. Internet Explorer, Firefox or Safari), the type of operating system you are using, (e.g., Windows or Mac OS) and the domain name of your Internet service provider (e.g., America Online, Africa Online, Earthlink).
 
 **How We Use the Information**
 
@@ -33,9 +32,9 @@ Agents and contractors of Mashada.com who have access to personally identifiable
 
 Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Notice. Inadvertent disclosures may result, for example, when third parties misrepresent their identities in asking the site for access to personally identifiable information about themselves for purposes of correcting possible factual errors in the data.
 
-If a Mashada.com site discloses personally identifiable information to companies not owned by Mashada.com who want to market products or services to you, it will provide you with an opportunity to opt out or block such uses. For instructions on how to opt out from such disclosures, please [info@mashada.com](mailto:info@mashada.com).
+If a Mashada.com site discloses personally identifiable information to companies not owned by Mashada.com who want to market products or services to you, it will provide you with an opportunity to opt out or block such uses. For instructions on how to opt out from such disclosures, please [privacy@mashada.com](mailto:privacy@mashada.com) or go to: <http://www.mashada.com/contact.php>.
 
-Mashada.com may on occasion combine information we receive online with outside records to enhance our ability to market to you those products or services that may be of interest to you. If you prefer not to receive marketing information from this site, [info@mashada.com](mailto:info@mashada.com).
+Mashada.com may on occasion combine information we receive online with outside records to enhance our ability to market to you those products or services that may be of interest to you. If you prefer not to receive marketing information from this site, [privacy@mashada.com](mailto:privacy@mashada.com) or go to: <http://www.mashada.com/contact.php>.
 
 Finally, Mashada.com sites will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses.
 
@@ -45,7 +44,7 @@ Some of our sites contain links to other sites whose information practices may b
 
 Mashada.com sites sometimes may offer contests, sweepstakes, or promotions that are sponsored by or co-sponsored with identified third parties. By virtue of their sponsorship, these third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the contest, sweepstakes, or promotion. Mashada.com has no control over the third-party sponsors' use of this information. The Mashada.com site will notify you at the time of requesting personally identifiable information if third-party sponsors will obtain such information.
 
-Mashada.com sites may use reputable third parties to present or serve the advertisements that you may see at its web pages and to conduct research about the advertisements. Our privacy policy does not cover any use of information that such third parties may have collected from you or the methods used by the third-parties to collect that information (e.g., cookies, web beacons and clear gifs). For more information on this site's use of such third-parties, please click here.
+Mashada.com sites may use reputable third parties to present or serve the advertisements that you may see at its web pages and to conduct research about the advertisements. Our privacy policy does not cover any use of information that such third parties may have collected from you or the methods used by the third-parties to collect that information (e.g., cookies, web beacons and clear gifs). For more information on this site's use of such third-parties, please [click here](http://www.google.com/privacy.html).
 
 **Cookies**
 
@@ -61,18 +60,10 @@ We have put in place appropriate physical, electronic, and managerial procedures
 
 **How You can Access or Correct Information**
 
-For instructions on how you can access the personally identifiable information that this Mashada.com site has collected about you online, or how to correct factual errors in such information, [info@mashada.com](mailto:info@mashada.com).
+For instructions on how you can access the personally identifiable information that this Mashada.com site has collected about you online, or how to correct factual errors in such information, please go to: <http://www.mashada.com/contact.php>.
 
 To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections.
 
 **How to Contact Us**
 
-If you have any questions or concerns about the Mashada.com online policy for this site or its implementation you may contact us at [info@mashada.com](mailto:info@mashada.com) or at the following address:
-
-_Mashada.com  
-__P.O. Box 59244  
-Birmingham, AL. 35209  
-USA._  
-
-
- 
+If you have any questions or concerns about the Mashada.com online policy for this site or its implementation you may contact us at [privacy@mashada.com](mailto:privacy@mashada.com), or by going to: <http://www.mashada.com/contact.php>.
