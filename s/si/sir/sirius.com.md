@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sirius.com privacy policy that was archived on 2007-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070628144559id_/http%3A//www.sirius.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sirius.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224172105id_/http%3A//www.sirius.com/privacypolicy) for the most accurate reproduction.*
 
 # SIRIUS Satellite Radio - Privacy Policy
 
-Last updated: September 9, 2004 
+Last updated: July 23, 2007 
 
 This Privacy Policy governs Sirius Satellite Radio Inc.’s (“we” or "SIRIUS") treatment of personally identifiable information that SIRIUS collects when you use the sirius.com website (the "Website"). This Privacy Policy is for the Website only and does not apply to the personal information provided to us for the SIRIUS satellite radio service (the “SIRIUS Service”). By visiting the Website, you accept this Privacy Policy. We may change this Privacy Policy at any time without any notice. We will post any changes here. 
 
@@ -12,7 +12,28 @@ This Privacy Policy governs Sirius Satellite Radio Inc.’s (“we” or "SIRIUS
 
 3\. _Sharing Your Information_. We do not sell, rent, share, or otherwise disclose your personally identifiable information to third parties for commercial purposes. However, we do utilize third parties to perform functions on our behalf, such as fulfilling orders, fulfilling rebates and promotional offers, delivering packages and mail, sending e-mail messages, analyzing data, providing marketing assistance, processing credit card payments, providing customer service and administering contests. These third parties have access to your personal information to the extent necessary to perform their functions and are not permitted to use it for other purposes. We may also release your personal information when appropriate to comply with the requirements of law or legal process. Such release may include exchanging information with third parties for fraud protection and reduction of credit risks. 
 
-4\. _Encryption of Information_. We protect the security of information you provide to make purchases and to activate subscriptions online by using Secure Sockets Layer software, which encrypts the transmission of such information to our servers. We do not encrypt any other information. 
+4\. 
+
+_Opting out of SIRIUS Marketing Emails_
+
+. If you wish to stop receiving SIRIUS Marketing and Promotional emails or E-Newsletters, you can: 
+
+Opt-Out Online: 
+
+* Go to the Newsletter Preference Center at [www.sirius.com/newsletters](http://www.sirius.com/newsletters)
+* Make sure all options are unchecked 
+* Enter email address to opt-out 
+* Click Submit 
+
+Opt-Out via Postal Mail:  
+Send a letter to the following address, with the email address to opt-out, requesting to be removed from marketing and/or promotional emails. 
+
+Attn: Customer Care (Attention Opt-out)  
+SIRIUS Satellite Radio  
+1221 Avenue of the Americas, 36th Fl  
+New York, NY 10020
+
+NOTE: Please allow up to 10 business days for your request to be applied. You may still receive service related or order confirmation emails if the email address is associated with your subscriber account. 
 
 5\. _Information You Can Access_. You may contact us to access your account information and make appropriate changes by calling Customer Care at (888) 539-7474. 
 
