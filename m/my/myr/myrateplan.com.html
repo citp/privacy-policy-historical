@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the myrateplan.com privacy policy that was archived on 2007-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070615211754id_/http%3A//www.myrateplan.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the myrateplan.com privacy policy that was archived on 2007-12-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071224062038id_/http%3A//www.myrateplan.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
  <title>MyRatePlan.com - (Privacy Policy) </title>
@@ -27,10 +27,121 @@
 
 
 
+<script>
+   var iph_pad = "iph_pad";
+   var iph_nuc = false;
+   var iph_closable = true;
+
+   function iph_click(pad)
+   {
+       try {
+           document.getElementById(iph_pad).innerHTML = "";
+           document.getElementById(iph_pad).style.display = "none";
+       } catch(e) {}
+ 
+
+       dt = new Date;
+       tm = dt.getTime();
+
+       iph_pad = pad;
+       iph_nuc = false;
+
+       document.getElementById(iph_pad).style.display = "";
+       document.getElementById(iph_pad).innerHTML = "<br><br><font style='font-size: 15pt; color: #aaa;'>..:.:: Loading ::.:..</font>";
+
+       url = "/iph_signup.php?tm="+tm+"&closable="+iph_closable;
+       ajax_dorequest(url,"iph_loader","raw");
+   }
+
+   function iph_loader(data)
+   {
+       document.getElementById(iph_pad).innerHTML = data;
+   }
+   
+   function iph_close()
+   {
+       if( iph_closable ) document.getElementById(iph_pad).style.display = "none";
+   }
+
+   function iph_signup()
+   {
+       document.getElementById("iph_errmsg").innerHTML = "";
+
+       var errmsg = "";
+       var name  = document.getElementById("iph_name").value;
+       var email = document.getElementById("iph_email").value;
+       var zip   = document.getElementById("iph_zip").value;
+       var carr  = document.getElementById("iph_carrier").value;
+       var mon   = document.getElementById("iph_exp_mon").value;
+       var yr    = document.getElementById("iph_exp_yr").value;
+       var agree = document.getElementById("iph_agree").checked;
+
+       var nuc   = "";
+       var pre   = "";
+
+       if( iph_nuc )
+       {
+           if( document.getElementById("iph_nuc_NUC").checked )  nuc   = "true";
+           if( document.getElementById("iph_nuc_PRE").checked )  pre   = "true";
+       }
+
+       var regex = new RegExp("^[0-9]{5,5}$","i");
+       var regex_em = new RegExp("^.+@.*\\..+$","i");
+
+       if( name.length == 0 )  errmsg += "Invalid Name<br>";
+       if( email.length == 0 ) errmsg += "Invalid Email<br>";
+       else if( !regex_em.test(email) )  errmsg += "Invalid Email Format<br>";
+
+       if( zip.length == 0 )   errmsg += "Invalid Zip<br>";
+       else if( !regex.test(zip) )  errmsg += "Invalid Zip Format<br>";
+
+       if( carr == -1 )        errmsg += "Invalid Carrier<br>";
+       if( !agree )            errmsg += "You must read the Official Rules to enter<br>";
+
+ 
+
+       if( errmsg.length > 0 )
+       {
+            document.getElementById("iph_errmsg").innerHTML = "<font style='background-color: #ffffaa;'>"+errmsg+"</font>";
+       }
+       else
+       { 
+            dt = new Date;
+            tm = dt.getTime();
+            iph_nuc = false;
+
+            url = "/iph_signup.php?signup=true&tm="+tm+"&closable="+iph_closable;
+            url += "&carr="+carr;
+            url += "&mon="+mon;
+            url += "&yr="+yr;
+            url += "&agree="+agree;
+            url += "&zip="+zip;
+            url += "&nuc="+nuc;
+            url += "&pre="+pre;
+            url += "&email="+email;
+            url += "&name="+name;
+            ajax_dorequest(url,"iph_submit","raw");
+       }
+   }
+
+   function iph_submit(data)
+   {
+       document.getElementById(iph_pad).innerHTML = data;
+   } 
+
+   function iph_not_contract()
+   {
+       document.getElementById("iph_exp").style.display = "none";
+       document.getElementById("iph_exp_q").style.display = "none";
+       document.getElementById("iph_exp_no").style.display = "";
+       iph_nuc = true;
+       
+   }
+</script>
 
 <table border="0" cellpadding="0" cellspacing="0" width="780">
   <tbody><tr>
-    <td valign="top" width="393" height="53" align="left" bgcolor="#005080"><a target="_top" href="http://www.myrateplan.com/"><img src="/site_images/logo.gif" border="0" width="393" height="53" vspace="0" hspace="0" alt="MyRatePlan.com"></a></td>
+    <td valign="top" width="393" height="53" align="left" bgcolor="#005080"><a target="_top" href="http://www.myrateplan.com/"><img src="/site_images/logo_xmas.gif" border="0" width="393" height="53" vspace="0" hspace="0" alt="MyRatePlan.com"></a></td>
     <td valign="top" width="387" height="53" bgcolor="#005080" align="center" class="openspothdr">   Privacy Policy &nbsp; &nbsp; &nbsp; </td>
   </tr>
 
@@ -43,8 +154,12 @@
 </tbody></table>
 
 <table width="780" cellspacing="1" cellpadding="1"><tbody><tr>
-          <td align="left" valign="bottom" style="font-size: x-small; font-family: arial,verdana;">[ <a target="_top" class="smnavlink" href="/index.php">Home</a> &gt; About Us &gt; <font style="font-weight: bold;">Privacy Policy</font> ]</td>
-         <td align="right" valign="bottom"><font style="font-family: verdana; font-size: 7pt;"> <a class="smnavlink" href="javascript:email_friend_v2('http%3A%2F%2Fwww.myrateplan.com%2Fprivacy.php','Privacy+Policy')"><img src="/site_images/letter_sm.gif" alt="Email Page" border="0"> Email This Page</a>  &nbsp; <a class="smnavlink" href="javascript:bookmark('http%3A%2F%2Fwww.myrateplan.com%2Fprivacy.php','Privacy Policy');"><img src="/site_images/icon_arrow.gif" border="0" height="14" alt="Bookmark Page">Bookmark</a> &nbsp; </font></td></tr></tbody></table>
+              <td align="left" valign="top" style="font-size: x-small; font-family: arial,verdana; padding-top: 2px;"><table cellspacing="0" cellpadding="0"><tbody><tr><td>[ <a target="_top" class="smnavlink" href="/index.php">Home</a> &gt; About Us &gt; <font style="font-weight: bold;">Privacy Policy</font> ]</td></tr></tbody></table></td>
+              <td align="right" valign="bottom"><font style="font-family: verdana; font-size: 7pt;"><table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td valign="top"></td><td style="padding-left: 40px;"><div style="position: relative; z-index: 100;"><div id="iph_pad" style="top: 20px; left: -10px; color: #555; display: none; border: solid 2px #48AB5C; padding: 10px; text-align: left; position: absolute; background-color: white; width: 300px; height: 400px;"></div></div> <a href="javascript: iph_click('iph_pad')"><img width="125" height="22" src="/site_images/win_a_iphone.gif" border="0"></a></td><td style="padding-left: 6px; padding-top: 3px;" valign="top"> <a class="smnavlink" href="javascript:email_friend_v2('http%3A%2F%2Fwww.myrateplan.com%2Fprivacy.php','Privacy+Policy')"><img src="/site_images/email_this_page.gif" alt="Email Page" border="0"></a> </td><td style="padding-left: 6px; padding-top: 3px;" valign="top">
+<!-- AddThis Bookmark Button BEGIN -->
+<a href="http://www.addthis.com/bookmark.php" onclick="addthis_url   = location.href; addthis_title = document.title; return addthis_click(this);" target="_blank"><img src="http://s9.addthis.com/button1-bm.gif" width="125" height="16" border="0" alt="AddThis Social Bookmark Button"></a> <script type="text/javascript">var addthis_pub = 'myrateplan';</script><script type="text/javascript" src="http://s9.addthis.com/js/widget.php?v=10"></script>  
+<!-- AddThis Bookmark Button END -->
+</td></tr></tbody></table></font></td></tr></tbody></table>
 
 
 
@@ -159,7 +274,7 @@ o	If you request removal, we will no longer be able to provide you with the serv
             <a class="footlink" href="/news/">Press Room</a> | 
             <a class="footlink" href="/contact.php">Contact Us</a> |
             <a class="footlink" href="/partners.php">Partnerships</a> | 
-                        <a class="footlink" href="/vertical.php">Other MyRatePlan Sites</a><br>
+                        <a class="footlink" href="/about.php">About Us</a><br>
             <a class="footlink2" href="/site_map.php">Site Map</a> | 
             <a class="footlink2" href="/terms.php">Terms of Usage</a> | 
             <a class="footlink2" href="/privacy.php">Privacy Policy</a><br>
@@ -170,16 +285,37 @@ o	If you request removal, we will no longer be able to provide you with the serv
          
          <div style="color: #888888; padding: 10px;"><i>"The Right Service at the Right Price"</i></div>
 
-         <a href="http://www.bbbonline.org/cks.asp?id=1070410114942 " target="_blank">
-              <img alt="BBBOnline Reliability" border="0" src="http://www.myrateplan.com/site_images/ReliabilitySeal.gif" vspace="0"></a>
+
+         <table width="100%"><tbody><tr><td align="center">
+         <table><tbody><tr>
+         <td>
+             <a href="http://www.bbbonline.org/cks.asp?id=1070410114942 " target="_blank"><img alt="BBBOnline Reliability" border="0" src="http://www.myrateplan.com/site_images/ReliabilitySeal.gif" vspace="0"></a>
+         </td>
+         <td>
+
+<!-- START SCANALERT CODE -->
+<a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.myrateplan.com"><img width="94" height="54" border="0" src="//images.scanalert.com/meter/www.myrateplan.com/13.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;"></a>
+<!-- END SCANALERT CODE -->
+
+
+
+         </td>
+         </tr></tbody></table>
+         </td></tr></tbody></table>
+
+
+
+  
 
          <br>
          <font size="1" color="#FFFFFF"></font><br>
 
 
    <font class="small" style="color: white;">
-Page Generation: 0.00189 sec --- adkey()    </font>
+Page Generation: 0.00192 sec --- adkey()    </font>
    </div>
+
+   
 
    </center>
 
