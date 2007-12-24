@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the njng.com privacy policy that was archived on 2007-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070422144657id_/http%3A//www.njng.com/privacy/index.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the njng.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224101347id_/http%3A//www.njng.com/privacy/index.asp) for the most accurate reproduction.*
 
 # New Jersey Natural Gas ::
 
@@ -33,7 +33,7 @@ This site also contains links to third-party Web sites. Third-party sites that w
 
 My Account Information, which provides customer services that involve transactions and requests initiated by you, uses secure areas protected by firewall technology and data encryption.
 
-Please refer to our [Help section](https://web.archive.org/web/20070422144657id_/http%3A//www.njng.com/my-account-services/Help.asp) for information on registration and passwords.
+Please refer to our [Help section](https://web.archive.org/web/20071224101347id_/http%3A//www.njng.com/my-account-services/Help.asp) for information on registration and passwords.
 
 **Choice/Opt-Out**    
 Our site provides visitors the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor. A visitor has the option to remove their information from our database to discontinue receiving communications. This can be done by sending an e-mail to [sitesupport@njng.com](mailto:sitesupport@njng.com) and telling us that you do not want to receive such communications from our company.
