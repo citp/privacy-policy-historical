@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the innotas.com privacy policy that was archived on 2007-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070226211631id_/http%3A//www.innotas.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the innotas.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224225403id_/http%3A//www.innotas.com/about/privacy.html) for the most accurate reproduction.*
 
-# Innotas
+# Project Portfolio Management (PPM) - On-Demand Project Portfolio Management from Innotas
 
 Innotas has created this Privacy Policy to demonstrate our commitment to customer privacy. Privacy on our web site is of great importance to us. Because we gather information from our visitors and customers, we have established this statement as a means to communicate our information gathering and dissemination practices.
 
