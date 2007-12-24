@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uhv.edu privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608160414id_/http%3A//www.uhv.edu/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uhv.edu privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224155143id_/http%3A//www.uhv.edu/about/privacy.asp) for the most accurate reproduction.*
 
 # UHV :: Privacy Policy
 
