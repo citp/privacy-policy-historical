@@ -1,14 +1,8 @@
-> *The following text is extracted and transformed from the homedecoratorsoutlet.com privacy policy that was archived on 2007-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070610181749id_/http%3A//www.homedecoratorsoutlet.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homedecoratorsoutlet.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224135040id_/http%3A//www.homedecoratorsoutlet.com/Privacy) for the most accurate reproduction.*
 
 # HomeDecoratorsOutlet.com
 
 [Customer Service](http://www.homedecoratorsoutlet.com/page.php?file=faq&faqGroup=Customer+Service)
-     [Contact Us](http://www.homedecoratorsoutlet.com/page.php?file=faq&faqGroup=Customer+Service&faqId=135)
-     [Privacy Policy & Terms of Use](http://www.homedecoratorsoutlet.com/page.php?file=faq&faqGroup=Customer+Service&faqId=3)
-     [Customer Service Survey](http://www.homedecoratorsoutlet.com/page.php?file=faq&faqGroup=Customer+Service&faqId=56)
-     [Request a Catalog](http://www.homedecoratorsoutlet.com/page.php?file=faq&faqGroup=Customer+Service&faqId=75)
-     [One Step Checkout](http://www.homedecoratorsoutlet.com/page.php?file=faq&faqGroup=Customer+Service&faqId=113)
-     [User Name and Password Tips](http://www.homedecoratorsoutlet.com/page.php?file=faq&faqGroup=Customer+Service&faqId=129)
 [Shipping & Delivery](http://www.homedecoratorsoutlet.com/page.php?file=faq&faqGroup=Shipping+%26+Delivery)
 [Returns, Exchanges & Cancels](http://www.homedecoratorsoutlet.com/page.php?file=faq&faqGroup=Returns%2C+Exchanges+%26+Cancels)
 [Checkout Questions](http://www.homedecoratorsoutlet.com/page.php?file=faq&faqGroup=Checkout+Questions)
