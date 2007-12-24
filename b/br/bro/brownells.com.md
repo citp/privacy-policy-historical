@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brownells.com privacy policy that was archived on 2007-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070620122441id_/http%3A//www.brownells.com/aspx/NS/General/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brownells.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224142027id_/http%3A//www.brownells.com/aspx/NS/General/Privacy.aspx) for the most accurate reproduction.*
 
 # Brownells - World's Largest Supplier of Firearm Accessories and Gunsmithing Tools
 
@@ -130,11 +130,12 @@ Get a Catalog
 |   
 ---  
   
-[](https://web.archive.org/nra/)  
+[](http://membership.nrahq.org/default.asp?campaignid=XM016704)  
   
 Members Get More!  
   
 ---  
+[Join Now](https://web.archive.org/aspx/SSL/MyAccount/newprofile.aspx)  
   
 Gift Certificates  
   
