@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nafsa.org privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623021231id_/http%3A//www.nafsa.org/legal_information/privacy_policy.pg) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nafsa.org privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224015112id_/http%3A//www.nafsa.org/legal_information/privacy_policy.pg) for the most accurate reproduction.*
 
-# NAFSA: Association of International Educators - Privacy Policy
+# NAFSA - Privacy Policy
 
 ### January 2002
 
@@ -29,7 +29,7 @@ Generally, NAFSA uses data collected to improve its own Web content; to respond 
 
 ### Rental of Postal and E-Mail Addresses
 
-Registrants for conferences and member applicants give permission for NAFSA to rent its mailing and e-mail lists, unless such permission is expressly denied. Members can change their mail and e-mail list permission on-line by editing their profiles. Members or visitors may change preferences by contacting NAFSA at data@nafsa.org or by calling 202-737-3699. Rental of member and visitor mailing and e-mail addresses is governed by NAFSA's List Rental Policy.
+Registrants for conferences and member applicants give permission for NAFSA to rent its mailing and e-mail lists, unless such permission is expressly denied. Members can change their mail and e-mail list permission on-line by editing their profiles. Members or visitors may change preferences by contacting NAFSA at data[at]nafsa.org or by calling 202-737-3699. Rental of member and visitor mailing and e-mail addresses is governed by NAFSA's List Rental Policy.
 
 ### Credit Card Account Information
 
@@ -45,4 +45,4 @@ This Web site contains links to other Web sites. NAFSA has no control over and i
 
 ## Questions?
 
-Please contact us by e-mailing to [webmaster@nafsa.org](mailto:webmaster@nafsa.org?subject=Privacy%20Policy%3A%20Web%20Inquiry). 
+Please contact us by e-mailing to [webmaster[at]nafsa.org](mailto:webmaster@nafsa.org?subject=Privacy%20Policy%3A%20Web%20Inquiry). 
