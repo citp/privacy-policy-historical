@@ -1,9 +1,11 @@
-> *The following text is extracted and transformed from the zoogstercostumes.com privacy policy that was archived on 2007-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070427180907id_/http%3A//www.zoogstercostumes.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoogstercostumes.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224115721id_/http%3A//www.zoogstercostumes.com/security.html) for the most accurate reproduction.*
 
-# Your Privacy
+# Your Privacy & Security
 
-     We know that your privacy is important and we are committed to protecting your privacy while you visit our website. We do not sell, rent, exchange or distribute your name, e-mail address or any other information to any third party.
+We know that your privacy is important and we are committed to your protection while you visit our website. We do not sell, rent, exchange or distribute your name, e-mail address or any other information to any third party.
 
-     To process your order, we have to have your name, address, phone number, e-mail address and credit card information. This information is used solely to process your order and for no other purpose. Your bank receives your credit card information for processing and the shipper receives your name and address only. Your e-mail address and phone number are used in case we have a question about your order. Your e-mail address is also used to notify you that your order is on its way. 
+To process your order, we must have several pieces of information to process your order. Your email address and phone number are used in case we need to notify you about your order, and you will also receive an email when your order is shipped. We do not use your personal information in any other way.
 
-     We do not use your personal information in any other way.
+We use SSL encryption when accepting your credit card information during our online checkout process. In addition, we use the same encryption when transferring your credit card information to our internal fulfillment system. **Your information is not accessible to anyone from the internet.** To further enhance your security, we delete all credit card information from our database within 24 hours of receipt.
+
+Because we believe the security of your credit card information to be of the utmost importance, we do not offer a non-SSL encrypted version of our order form. If you disable your internet browser's SSL compatibility feature, you will not be able to use our on-line shopping. However, you may still order via phone (1-800-878-4764) or fax (770-664-4557) or mail (Zoogster Costumes, PO Box 2730, Alpharetta, GA 30023).
