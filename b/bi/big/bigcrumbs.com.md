@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the bigcrumbs.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626115144id_/http%3A//www.bigcrumbs.com/crumbs/index.jsp%3Fpage%3Dprivacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigcrumbs.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224190704id_/http%3A//www.bigcrumbs.com/crumbs/index.jsp%3Fpage%3Dprivacy.jsp) for the most accurate reproduction.*
 
-# BigCrumbs.com - Get Cash Back Every Time You Shop. Earn Cash When Others Shop.
+# BigCrumbs.com - Get Cash Back When You Shop. Earn Cash When Others Shop.
 
-**BigCrumbs.com completely respects your privacy.**
+## BigCrumbs.com completely respects your privacy.
 
 **Information We Collect**  
 BigCrumbs.com requires relevant contact and other information in order to facilitate its service offerings. This generally includes your name and contact information such as e-mail and postal mail addresses. 
 
 In the course of conducting its business, BigCrumbs.com naturally compiles purchase information, such as the time of purchase, the retailer, and the purchase amount. 
 
-BigCrumbs.com does NOT receive your credit card number or other personal information that you submit at our featured retailers' websites. We receive only information regarding transactions so that we may credit purchases to your BigCrumbs.com account. In some cases, retailers provide us with the actual product or service purchased. We do NOT use or share this additional information. 
+_BigCrumbs.com does NOT receive your credit card number or other personal information that you submit at our featured retailers' websites_. We receive only information regarding transactions so that we may credit purchases to your BigCrumbs.com account. In some cases, retailers provide us with the actual product or service purchased. We do NOT use or share this additional information. 
 
 **Our Information Sharing Policy**  
 BigCrumbs.com does not now, nor will it ever sell or rent any personal information that you share with BigCrumbs.com. 
@@ -32,7 +32,7 @@ Cookies are small text files that a website sends to your web browser. The next 
 Cookies are frequently used to keep track of how many times a user visits a site and to enhance a visitor's experience. For instance, some websites use cookies to recognize you when you return and customize your visit. 
 
 **Does BigCrumbs.com Use Cookies?**  
-Yes, BigCrumbs.com uses cookies to recognize you upon return so that we may restore certain features, such as the retailers you select for "My Mall". We also use cookies to allow you to shop and receive credit without having to log in each time you visit BigCrumbs.com. This is provided as a convenience for our members. 
+Yes, BigCrumbs.com uses cookies to recognize you upon return so that we may restore certain features, such as the retailers you select as your favorites. We also use cookies to allow you to shop and receive credit without having to log in each time you visit BigCrumbs.com. This is provided as a convenience for our members. 
 
 When you logoff from BigCrumbs.com, you have the option of deleting this cookie so that you won't be recognized upon your next visit. 
 
@@ -44,7 +44,7 @@ Cookies that are set by affiliated retailers when you visit BigCrumbs.com are kn
 There are many misconceptions about cookies. Cookies cannot "steal" your personally identifiable information, and they cannot contain any personal information that you did not submit to the website that set the cookie. Also, one website cannot read another website's cookies. So personal information that you enter at one website cannot be seen by another website. 
 
 **How Do I Know If I Have Cookies Enabled?**  
-For information on enabling cookies, please see [our help page](https://web.archive.org/web/20070626115144id_/http%3A//www.bigcrumbs.com/crumbs/index.jsp?page=help.jsp). 
+For information on enabling cookies, please see [our help page](https://web.archive.org/web/20071224190704id_/http%3A//www.bigcrumbs.com/crumbs/help.do). 
 
 **Featured Retailers' Privacy Policies**  
 When you shop through BigCrumbs.com, you are redirected to the websites of our featured retailers, where privacy policies may differ from those of BigCrumbs.com. We are not responsible for the privacy policies of our featured retailers, and we encourage you to understand the privacy policies of any websites to which you submit your personal information. 
