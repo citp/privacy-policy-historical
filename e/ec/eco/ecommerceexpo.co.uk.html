@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ecommerceexpo.co.uk privacy policy that was archived on 2007-05-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070517103158id_/http%3A//www.ecommerceexpo.co.uk/page.cfm/Link%3D2/t%3Dm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ecommerceexpo.co.uk privacy policy that was archived on 2007-12-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071224173125id_/http%3A//www.ecommerceexpo.co.uk/page.cfm/Link%3D2/t%3Dm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html lang="en-GB"><head>
 		
@@ -14,7 +14,7 @@
 
 		
 <meta name="Description" content="Privacy Pledge How Your Information Is Used This web site is maintained by E Commerce Expo Ltd (ECL). Our corporate offices are located at 114-116 Guildford Street Chertsey, Surrey, KT16 9AH, United Kingdom. You can also reach us by telephone on ">
-<meta name="Keywords" content="E-Commerce, hosting, website design, E-Commerce software, E-Commerce Conversion, Fulfilment, E-Commerce Retention, Shopping cart, fulfilment, analytics, ">
+<meta name="Keywords" content="E-Commerce, hosting, website design, E-Commerce software, E-Commerce Conversion, Fulfilment, E-Commerce Retention, Shopping cart, analytics, ">
 
 
 	
@@ -41,14 +41,17 @@
 		 brC = "]";
 		 wdth=".clip.width";
 		 sty = "";}
+		
 		else if(document.getElementById)
 		{nav = "ns6";
-		 doc = "document.getElementById";
-		 brO = "(";
-		 brC = ")";
+		 doc = "document.all";
+		 
+		 brO = "[";
+		 brC = "]";
 		 wdth=".offsetWidth";
 		 sty = ".style";}
-	
+		
+		//Logo Rotator, copyright 2007 ASP Multimedia Ltd.  SHOWOFF is a product owned by ASP Multimedia Ltd
 		function updateRotator(rotID)
 		{	var count=eval('countRotator_'+rotID+'++;');
 			//var rotArrayLen=eval('divArray_'+rotID+'.length');
@@ -70,24 +73,30 @@
 				document.all['ImgRotatorHref_'+rotID].target=obj.imgTarget;
 			}
 			*/
-			if (document.all['ImgRotator_'+rotID] != null)
-			{	if (typeof(document.all['ImgRotatorDIV_'+rotID]) == "undefined")//eval('ImgRotatorDIV_'+rotID+'_'+count) != null)
-				{	document.all['ImgRotator_'+rotID].innerHTML='<div ID="ImgRotatorDIV_'+rotID+'_'+eval('divArray_'+rotID+'.length')+'">'+document.all['ImgRotator_'+rotID].innerHTML+'<\/div>';
+			ImgRotator=eval(doc+brO+"'ImgRotator_'+rotID"+brC);
+			if (ImgRotator != null)
+			{	ImgRotatorDIV=eval(doc+brO+"'ImgRotatorDIV_'+rotID"+brC);
+				if (ImgRotatorDIV == null)//eval('ImgRotatorDIV_'+rotID+'_'+count) != null)
+				{	ImgRotator.innerHTML='<div Name="ImgRotatorDIV_'+rotID+'_'+eval('divArray_'+rotID+'.length')+'" ID="ImgRotatorDIV_'+rotID+'_'+eval('divArray_'+rotID+'.length')+'">'+ImgRotator.innerHTML+'<\/div>';
 					for (i=0; i < eval('divArray_'+rotID+'.length'); i++)
-					{	document.all['ImgRotator_'+rotID].innerHTML=document.all['ImgRotator_'+rotID].innerHTML+eval('divArray_'+rotID+'['+i+'];');
+					{	ImgRotator.innerHTML=ImgRotator.innerHTML+eval('divArray_'+rotID+'['+i+'];');
 					}
-					document.all['ImgRotator_'+rotID].innerHTML='<div ID="ImgRotatorDIV_'+rotID+'">'+document.all['ImgRotator_'+rotID].innerHTML+'<\/div>';
+					ImgRotator.innerHTML='<div name= "ImgRotatorDIV_'+rotID+'" ID="ImgRotatorDIV_'+rotID+'">'+ImgRotator.innerHTML+'<\/div>';
 					//setTimeout('updateRotator('+rotID+');',500);
 				}
 				else
 				{	for (i=0; i <= eval('divArray_'+rotID+'.length'); i++)
-					{	if (typeof(document.all['ImgRotatorDIV_'+rotID+'_'+i]) != "undefined")
-						{	document.all['ImgRotatorDIV_'+rotID+'_'+i].style.display='none';
+					{	ImgRotatorDIV=eval(doc+brO+"'ImgRotatorDIV_'+rotID+'_'+i"+brC);
+						if (typeof(ImgRotatorDIV) != "undefined")
+						{	ImgRotatorDIVStyle=eval(doc+brO+"'ImgRotatorDIV_'+rotID+'_'+i"+brC+sty);
+							ImgRotatorDIVStyle.display='none';
 						}
 					}
 					//window.status='document.all[ImgRotatorDIV_'+rotID+'_'+eval('countRotator_'+rotID);
-					if (typeof(document.all['ImgRotatorDIV_'+rotID+'_'+eval('countRotator_'+rotID)]) != "undefined")
-					{	document.all['ImgRotatorDIV_'+rotID+'_'+eval('countRotator_'+rotID)].style.display='inline';
+					ImgRotatorDIV=eval(doc+brO+"'ImgRotatorDIV_'+rotID+'_'+eval('countRotator_'+rotID)"+brC);
+					if (typeof(ImgRotatorDIV) != "undefined")
+					{	ImgRotatorDIVStyle=eval(doc+brO+"'ImgRotatorDIV_'+rotID+'_'+eval('countRotator_'+rotID)"+brC+sty);
+						ImgRotatorDIVStyle.display='inline';
 					}
 				}
 			}
@@ -108,6 +117,130 @@
 		}
 
 		
+		/*function getXMLHttpObject()
+		{	var xmlHttp=null;
+			try
+			{   // Firefox, Opera 8.0+, Safari    
+				xmlHttp=new XMLHttpRequest();
+			}
+			catch (e)
+			{   // Internet Explorer    
+				try
+				{	xmlHttp=new ActiveXObject("Msxml2.XMLHTTP");      
+				}
+				catch (e)
+				{   try
+					{	xmlHttp=new ActiveXObject("Microsoft.XMLHTTP");
+					}
+					catch (e)
+					{	//alert("Your browser does not support AJAX!");
+						return false;
+					}
+				}
+			}
+			return xmlHttp;
+		}
+		function isArray(obj)
+		{	if (obj.constructor.toString().indexOf("Array") == -1)
+				return false;
+			else
+				return true;
+		}
+		
+		xmlHttp=new Array();
+		function callAJAX(UID,URL,readyFunction,varOne)
+		{	var url=URL+'&RNDID='+Math.random();
+			xmlHttp[UID]=getXMLHttpObject();
+			xmlHttp[UID].onreadystatechange=function()
+			{	if (xmlHttp[UID].readyState==4 && xmlHttp[UID].status == 200)
+				{	AJAXOutput=xmlHttp[UID].responseText;
+					
+					eval(readyFunction);
+				}
+			}
+			if (isArray(URL))
+			{	params='';
+				ambersand='';
+				for (i=1; i < URL.length; i++)
+				{	params+=ambersand+encodeURI(URL[i]);
+					ambersand='&';
+				}
+				xmlHttp[UID].open("POST",URL[0],true);
+				xmlHttp[UID].setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+				xmlHttp[UID].setRequestHeader("Content-length", params);
+				xmlHttp[UID].setRequestHeader("Connection", "close");
+				xmlHttp[UID].send(params);
+			}
+			else
+			{	xmlHttp[UID].open("GET",encodeURI(url),true);
+				xmlHttp[UID].send(null);
+			}
+		}*/
+	//-->
+	</script>
+	
+	<script language="javascript" type="text/javascript">
+	<!--
+		function getXMLHttpObject()
+		{	var xmlHttp=null;
+			try
+			{   // Firefox, Opera 8.0+, Safari    
+				xmlHttp=new XMLHttpRequest();
+			}
+			catch (e)
+			{   // Internet Explorer    
+				try
+				{	xmlHttp=new ActiveXObject("Msxml2.XMLHTTP");      
+				}
+				catch (e)
+				{   try
+					{	xmlHttp=new ActiveXObject("Microsoft.XMLHTTP");
+					}
+					catch (e)
+					{	//alert("Your browser does not support AJAX!");
+						return false;
+					}
+				}
+			}
+			return xmlHttp;
+		}
+		function isArray(obj)
+		{	if (obj.constructor.toString().indexOf("Array") == -1)
+				return false;
+			else
+				return true;
+		}
+		
+		xmlHttp=new Array();
+		function callAJAX(UID,URL,readyFunction,varOne)
+		{	var url=URL+'&RNDID='+Math.random();
+			xmlHttp[UID]=getXMLHttpObject();
+			xmlHttp[UID].onreadystatechange=function()
+			{	if (xmlHttp[UID].readyState==4 && xmlHttp[UID].status == 200)
+				{	AJAXOutput=xmlHttp[UID].responseText;
+					
+					
+					eval(readyFunction);
+				}
+			}
+			if (isArray(URL))
+			{	params='';
+				ambersand='';
+				for (i=1; i < URL.length; i++)
+				{	params+=ambersand+encodeURI(URL[i]);
+					ambersand='&';
+				}
+				xmlHttp[UID].open("POST",URL[0],true);
+				xmlHttp[UID].setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+				xmlHttp[UID].setRequestHeader("Content-length", params);
+				xmlHttp[UID].setRequestHeader("Connection", "close");
+				xmlHttp[UID].send(params);
+			}
+			else
+			{	xmlHttp[UID].open("GET",encodeURI(url),true);
+				xmlHttp[UID].send(null);
+			}
+		}
 	//-->
 	</script>
 
@@ -153,10 +286,10 @@ SHOWOFF is a product owned by ASP Multimedia Ltd.
 					<td>
 <table width="778" cellspacing="0" cellpadding="0" border="0">
 	<tbody><tr>
-		<td width="100%" bgcolor="f5d40d"><a href="http://www.ecommerceexpo.co.uk/page.cfm/NewSection=Yes/GoSection=0"><img src="http://www.ecommerceexpo.co.uk/g/2006/template/eco_header_top.gif" width="703" height="77" border="0" alt="E-Commerce Expo 2007"></a></td>
+		<td width="100%" bgcolor="f5d40d"><a href="http://www.ecommerceexpo.co.uk/page.cfm/NewSection=Yes/GoSection=0"><img src="http://www.ecommerceexpo.co.uk/g/2006/template/eco_header_top2.gif" width="703" height="77" border="0" alt="E-Commerce Expo 2007"></a></td>
 	</tr>
 	<tr>
-		<td width="100%" background="http://www.ecommerceexpo.co.uk/g/2006/template/bg_header_bottom.gif"><a href="http://www.ecommerceexpo.co.uk/page.cfm/NewSection=Yes/GoSection=0"><img src="http://www.ecommerceexpo.co.uk/g/2006/template/eco_header_bottom.gif" width="274" height="26" border="0" alt="E-Commerce Expo 2007"></a></td>
+		<td width="100%" background="http://www.ecommerceexpo.co.uk/g/2006/template/bg_header_bottom.gif"><a href="http://www.ecommerceexpo.co.uk/page.cfm/NewSection=Yes/GoSection=0"><img src="http://www.ecommerceexpo.co.uk/g/2006/template/eco_header_bottom.gif" width="305" height="26" border="0" alt="E-Commerce Expo 2007"></a></td>
 	</tr>
 </tbody></table> </td>
 				</tr>
@@ -169,12 +302,7 @@ SHOWOFF is a product owned by ASP Multimedia Ltd.
 			</tbody></table><!-- Main Body -->
 			<table width="778" border="0" cellspacing="0" cellpadding="0">
 				<tbody><tr>
-					<td width="149" valign="top" bgcolor="#286894"><!-- ** start of  panel (panel 1 on Top) -->
-<table border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr>
-		<td width="100%"><!-- <UDF_formattedPage/> --><font face="Verdana,Arial" size="2" class="Panel"><a class="Panel" href="http://www.ecommerceexpo.co.uk/page.cfm?&amp;LinkType=PowerBar__&amp;LinkTarget=http://www.cts-online.co.uk/shows/ecommerce07"><img height="40" alt="Register to visit" src="http://www.ecommerceexpo.co.uk/g/2006/panels/button_regvisit.gif" width="149" border="0"></a><br><a class="Panel" href="http://www.ecommerceexpo.co.uk/page.cfm?&amp;LinkType=PowerBar__&amp;LinkTarget=http://www.ecommerceexpo.co.uk/page.cfm/Action=Form/FormID=2/t=m"><img height="34" alt="Register to exhibit" src="http://www.ecommerceexpo.co.uk/g/2006/panels/button_regexhibit.gif" width="149" border="0"></a></font></td>
-	</tr>
-</tbody></table> <!-- Spacer Break --><!-- ** end of  panel (panel 1 on Top) -->
+					<td width="149" valign="top" bgcolor="#286894">
 <table border="0" cellspacing="0" cellpadding="0" style="height:34px">
 	<tbody><tr>
 		<td>
@@ -198,7 +326,7 @@ SHOWOFF is a product owned by ASP Multimedia Ltd.
 	<tr><td height="34" class="MainMenu">
 		<table cellspacing="0" cellpadding="0" border="0" width="100%" height="34">
 			<tbody><tr>
-				<td width="149" background="http://www.ecommerceexpo.co.uk/g/2006/template/menuback_off.gif"><img src="http://www.ecommerceexpo.co.uk/g/2006/template/menuarrow_off.gif" width="16" height="10" alt="" align="absmiddle"><a class="MainMenu" accesskey="4" href="http://www.ecommerceexpo.co.uk/page.cfm/Link=11/t=m/goSection=4" target="_self">Conference </a></td>
+				<td width="149" background="http://www.ecommerceexpo.co.uk/g/2006/template/menuback_off.gif"><img src="http://www.ecommerceexpo.co.uk/g/2006/template/menuarrow_off.gif" width="16" height="10" alt="" align="absmiddle"><a class="MainMenu" accesskey="4" href="http://www.ecommerceexpo.co.uk/page.cfm/Link=68/t=m/goSection=16" target="_self">2007 Visitors</a></td>
 			</tr>
 		</tbody></table>
 	</td>
@@ -206,7 +334,7 @@ SHOWOFF is a product owned by ASP Multimedia Ltd.
 	<tr><td height="34" class="MainMenu">
 		<table cellspacing="0" cellpadding="0" border="0" width="100%" height="34">
 			<tbody><tr>
-				<td width="149" background="http://www.ecommerceexpo.co.uk/g/2006/template/menuback_off.gif"><img src="http://www.ecommerceexpo.co.uk/g/2006/template/menuarrow_off.gif" width="16" height="10" alt="" align="absmiddle"><a class="MainMenu" accesskey="5" href="http://www.ecommerceexpo.co.uk/page.cfm/Link=5/t=m/goSection=3" target="_self">Visiting</a></td>
+				<td width="149" background="http://www.ecommerceexpo.co.uk/g/2006/template/menuback_off.gif"><img src="http://www.ecommerceexpo.co.uk/g/2006/template/menuarrow_off.gif" width="16" height="10" alt="" align="absmiddle"><a class="MainMenu" accesskey="5" href="http://www.ecommerceexpo.co.uk/page.cfm/Link=76/t=m/goSection=19" target="_self">Press Coverage 2007 </a></td>
 			</tr>
 		</tbody></table>
 	</td>
@@ -214,7 +342,7 @@ SHOWOFF is a product owned by ASP Multimedia Ltd.
 	<tr><td height="34" class="MainMenu">
 		<table cellspacing="0" cellpadding="0" border="0" width="100%" height="34">
 			<tbody><tr>
-				<td width="149" background="http://www.ecommerceexpo.co.uk/g/2006/template/menuback_off.gif"><img src="http://www.ecommerceexpo.co.uk/g/2006/template/menuarrow_off.gif" width="16" height="10" alt="" align="absmiddle"><a class="MainMenu" accesskey="6" href="http://www.ecommerceexpo.co.uk/page.cfm/Link=37/t=m/goSection=8" target="_self">FREE Seminars</a></td>
+				<td width="149" background="http://www.ecommerceexpo.co.uk/g/2006/template/menuback_off.gif"><img src="http://www.ecommerceexpo.co.uk/g/2006/template/menuarrow_off.gif" width="16" height="10" alt="" align="absmiddle"><a class="MainMenu" accesskey="6" href="http://www.ecommerceexpo.co.uk/page.cfm/Link=67/t=m/goSection=12" target="_self">Photo Gallery</a></td>
 			</tr>
 		</tbody></table>
 	</td>
@@ -222,7 +350,7 @@ SHOWOFF is a product owned by ASP Multimedia Ltd.
 	<tr><td height="34" class="MainMenu">
 		<table cellspacing="0" cellpadding="0" border="0" width="100%" height="34">
 			<tbody><tr>
-				<td width="149" background="http://www.ecommerceexpo.co.uk/g/2006/template/menuback_off.gif"><img src="http://www.ecommerceexpo.co.uk/g/2006/template/menuarrow_off.gif" width="16" height="10" alt="" align="absmiddle"><a class="MainMenu" accesskey="7" href="http://www.ecommerceexpo.co.uk/page.cfm/Link=24/t=m/goSection=6" target="_self">Press Office</a></td>
+				<td width="149" background="http://www.ecommerceexpo.co.uk/g/2006/template/menuback_off.gif"><img src="http://www.ecommerceexpo.co.uk/g/2006/template/menuarrow_off.gif" width="16" height="10" alt="" align="absmiddle"><a class="MainMenu" accesskey="7" href="http://www.ecommerceexpo.co.uk/page.cfm/Action=Form/FormID=2/t=m/goSection=10" target="_self">Enquiry Form </a></td>
 			</tr>
 		</tbody></table>
 	</td>
@@ -230,7 +358,7 @@ SHOWOFF is a product owned by ASP Multimedia Ltd.
 	<tr><td height="34" class="MainMenu">
 		<table cellspacing="0" cellpadding="0" border="0" width="100%" height="34">
 			<tbody><tr>
-				<td width="149" background="http://www.ecommerceexpo.co.uk/g/2006/template/menuback_off.gif"><img src="http://www.ecommerceexpo.co.uk/g/2006/template/menuarrow_off.gif" width="16" height="10" alt="" align="absmiddle"><a class="MainMenu" accesskey="8" href="http://www.ecommerceexpo.co.uk/page.cfm/Link=26/t=m/goSection=7" target="_self">Contact Us</a></td>
+				<td width="149" background="http://www.ecommerceexpo.co.uk/g/2006/template/menuback_off.gif"><img src="http://www.ecommerceexpo.co.uk/g/2006/template/menuarrow_off.gif" width="16" height="10" alt="" align="absmiddle"><a class="MainMenu" accesskey="8" href="http://www.ecommerceexpo.co.uk/page.cfm/Link=24/t=m/goSection=6" target="_self">Press Office</a></td>
 			</tr>
 		</tbody></table>
 	</td>
@@ -238,13 +366,40 @@ SHOWOFF is a product owned by ASP Multimedia Ltd.
 	<tr><td height="34" class="MainMenu">
 		<table cellspacing="0" cellpadding="0" border="0" width="100%" height="34">
 			<tbody><tr>
-				<td width="149" background="http://www.ecommerceexpo.co.uk/g/2006/template/menuback_off.gif"><img src="http://www.ecommerceexpo.co.uk/g/2006/template/menuarrow_off.gif" width="16" height="10" alt="" align="absmiddle"><a class="MainMenu" accesskey="9" href="http://www.ecommerceexpo.co.uk/page.cfm/Link=35/t=m/goSection=9" target="_self">In The Know!</a></td>
+				<td width="149" background="http://www.ecommerceexpo.co.uk/g/2006/template/menuback_off.gif"><img src="http://www.ecommerceexpo.co.uk/g/2006/template/menuarrow_off.gif" width="16" height="10" alt="" align="absmiddle"><a class="MainMenu" accesskey="9" href="http://www.ecommerceexpo.co.uk/page.cfm/Link=26/t=m/goSection=7" target="_self">Contact Us</a></td>
+			</tr>
+		</tbody></table>
+	</td>
+</tr>
+	<tr><td height="34" class="MainMenu">
+		<table cellspacing="0" cellpadding="0" border="0" width="100%" height="34">
+			<tbody><tr>
+				<td width="149" background="http://www.ecommerceexpo.co.uk/g/2006/template/menuback_off.gif"><img src="http://www.ecommerceexpo.co.uk/g/2006/template/menuarrow_off.gif" width="16" height="10" alt="" align="absmiddle"><a class="MainMenu" href="http://www.ecommerceexpo.co.uk/page.cfm/Link=75/t=m/goSection=17" target="_self">Education 2007 </a></td>
+			</tr>
+		</tbody></table>
+	</td>
+</tr>
+	<tr><td height="34" class="MainMenu">
+		<table cellspacing="0" cellpadding="0" border="0" width="100%" height="34">
+			<tbody><tr>
+				<td width="149" background="http://www.ecommerceexpo.co.uk/g/2006/template/menuback_off.gif"><img src="http://www.ecommerceexpo.co.uk/g/2006/template/menuarrow_off.gif" width="16" height="10" alt="" align="absmiddle"><a class="MainMenu" href="http://www.ecommerceexpo.co.uk/page.cfm/Action=Form/FormID=9/t=m/goSection=18" target="_blank">Keep me Posted</a></td>
 			</tr>
 		</tbody></table>
 	</td>
 
 	</tr>
-</tbody></table><!-- ** start of <font color="f5d40d"><b>Search</b></font> panel (panel 1 on Left) --><br>
+</tbody></table><!-- ** start of  panel (panel 1 on Left) -->
+<table border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr>
+		<td width="100%">   <!-- <UDF_formattedPage/> --><font face="Verdana,Arial" size="2" class="Panel"><br>
+<table class="ae_noborder" cellpadding="2" width="100%" border="0">
+<tbody>
+<tr>
+<td class="Panel" valign="top">&nbsp;</td></tr>
+<tr>
+<td class="Panel" valign="top">&nbsp;</td></tr></tbody></table><br><br><br><br><br><br><br><br><br></font>    </td>
+	</tr>
+</tbody></table> <!-- Spacer Break --><!-- ** end of  panel (panel 1 on Left) --><!-- ** start of <font color="f5d40d"><b>Search</b></font> panel (panel 2 on Left) --><br>
 <table width="100%" border="0" cellspacing="0" cellpadding="0">  
 	<tbody><tr>
 		<td width="5"><img src="http://www.ecommerceexpo.co.uk/g/2006/g_blank.gif" width="5" height="1" alt=""></td>    
@@ -256,11 +411,24 @@ SHOWOFF is a product owned by ASP Multimedia Ltd.
 		<td width="5"><img src="http://www.ecommerceexpo.co.uk/g/2006/g_blank.gif" width="5" height="1" alt=""></td> 
 		<td width="100%" class="panel"><form action="http://www.ecommerceexpo.co.uk/page.cfm" method="post" name="search_6" class="nomargin"><input type="hidden" name="Action" value="Search"><span class="nowrap"><input name="SearchCriteria" type="text" style="width:98; height:20; vertical-align:middle;"><a onclick="javascript:document.search_6.submit();" style="cursor:hand;" class="Panel"><input type="image" src="http://www.ecommerceexpo.co.uk/g/2006/template/g_searchButton.gif" style="vertical-align:middle;"></a></span></form></td>
 	</tr>
-</tbody></table> <!-- Spacer Break --><!-- ** end of <font color="f5d40d"><b>Search</b></font> panel (panel 1 on Left) --></td>
+</tbody></table> <!-- Spacer Break --><!-- ** end of <font color="f5d40d"><b>Search</b></font> panel (panel 2 on Left) --><!-- ** start of  panel (panel 3 on Left) -->
+<table border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr>
+		<td width="100%">   <!-- <UDF_formattedPage/> --><font face="Verdana,Arial" size="2" class="Panel"><br><br></font>    </td>
+	</tr>
+</tbody></table> <!-- Spacer Break --><!-- ** end of  panel (panel 3 on Left) --><!-- ** start of This Website is speech enabled  panel (panel 4 on Left) -->
+<table border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr>
+		<td width="100%"><font face="" size="2" class="PanelTitle">This Website is speech enabled </font></td>
+	</tr>
+	<tr>
+		<td width="100%">   <!-- <UDF_formattedPage/> --><font face="Verdana,Arial" size="2" class="Panel"><p align="left"><a class="Panel" target="_blank" href="http://www.ecommerceexpo.co.uk/page.cfm?&amp;LinkType=PowerBar__&amp;LinkTarget=http://www.browsealoud.com/page.asp?pg_id=80004"><img height="36" alt="Text Help " src="http://www.ecommerceexpo.co.uk/g/2006/panels/text_help_logo.jpg" width="115" align="middle" border="0"></a></p></font>    </td>
+	</tr>
+</tbody></table> <!-- Spacer Break --><!-- ** end of This Website is speech enabled  panel (panel 4 on Left) --></td>
 					<td width="461" valign="top" style="background-image:url(http://www.ecommerceexpo.co.uk/g/2006/template/bg_sheetTop.gif); background-repeat: repeat-x;">
 						<table width="100%" cellspacing="0" cellpadding="0" border="0">
 							<tbody><tr>
-								<td><img src="http://www.ecommerceexpo.co.uk/g/2006/eco_montage.jpg" width="461" height="76" alt=""></td>
+								<td align="center" width="100%"><img src="http://www.ecommerceexpo.co.uk/g/2006/eco_montage.jpg" width="461" height="76" alt=""></td>
 							</tr>
 						</tbody></table><br>
 						<table width="100%" cellspacing="0" cellpadding="0" border="0">
@@ -278,7 +446,6 @@ SHOWOFF is a product owned by ASP Multimedia Ltd.
 
 
 
-	
 	
 	
 	
@@ -318,11 +485,46 @@ SHOWOFF is a product owned by ASP Multimedia Ltd.
 	
 
 	
+		
+			<div align="Left"><script language="javascript" type="text/javascript">
+	<!--
+	var divArray_0=new Array();
+	var objArray_0=new Array();
+	var obj={imgName:'banner_elertz.gif',imgWidth:'460',imgHeight:'60',imgAlt:'Elertz',imgLink:'http://www.elertz.com/',imgTarget:'_self',imgTarget:'_blank'};
+	objArray_0[0]=obj;
+	var obj={imgName:'banner_neustar.jpg',imgWidth:'460',imgHeight:'60',imgAlt:'Neustar',imgLink:'http://www.neustar.biz/',imgTarget:'_self',imgTarget:'_blank'};
+	objArray_0[1]=obj;
+	var obj={imgName:'banner_banniere.gif',imgWidth:'460',imgHeight:'60',imgAlt:'Lead Share',imgLink:'http://www.leadshare.eu/?xtor=AL-0',imgTarget:'_new',imgTarget:'_blank'};
+	objArray_0[2]=obj;
+	var obj={imgName:'banner_flexiblehosting.jpg',imgWidth:'460',imgHeight:'60',imgAlt:'Flexible Hosting',imgLink:'',imgTarget:'_self',imgTarget:'_blank'};
+	objArray_0[3]=obj;
+	for (ii=0; ii < objArray_0.length; ii++)
+	{	eval('var img'+ii+'=new Image(); img'+ii+'.src=\"http://www.ecommerceexpo.co.uk/g/2006/logos/'+objArray_0[ii].imgName+'\";');
+	var imgTag='<img src=\"'+eval('img'+ii+'.src')+'\" border=0 width='+objArray_0[ii].imgWidth+' height='+objArray_0[ii].imgHeight+' alt=\"'+objArray_0[ii].imgAlt+'\">';
+	if (objArray_0[ii].imgLink != '')
+	{	imgTag='<a href=\"'+objArray_0[ii].imgLink+'\" target=\"'+objArray_0[ii].imgTarget+'\">'+imgTag+'<\/a>';
+	}
+	divArray_0[ii]='<div align=\"center\" name=\"ImgRotatorDIV_0_'+ii+'\" ID=\"ImgRotatorDIV_0_'+ii+'\" style=\"display:none;\">'+imgTag+'<\/div>';
+	}
+	if(nav=='ie4')
+	{	var countRotator_0=2;
+	setInterval('updateRotator(0);',10000);
+	}
+	else if(nav=='ns6')
+	{	var countRotator_0=2;
+	setInterval('updateRotator(0);',10000);
+	}
+	
+	//-->
+	</script><table border="0" cellspacing="0" cellpadding="0" width="100%"><tbody><tr><td height="60" align="center" id="ImgRotator_0"><a href="http://www.neustar.biz/" target="_self" id="ImgRotatorHref_0"><img src="http://www.ecommerceexpo.co.uk/g/2006/logos/banner_neustar.jpg" width="460" height="60" alt="Neustar" border="0" id="ImgRotatorImg_0"></a></td></tr></tbody></table></div>
+		
+	
 
 	
 		
 			
 				<img alt="" src="http://www.ecommerceexpo.co.uk/g/2006/g_blank.gif" height="6" width="1" border="0"><table class="TitleAlign" border="0" cellpadding="0" width="100%" cellspacing="0" height="12"><tbody><tr><td style="text-align:left;" height="12"><font size="1"></font><h1 class="pageTitle"><font size="1">Privacy Pledge</font></h1></td></tr></tbody></table>
+				
 			
 		
 	
@@ -331,8 +533,6 @@ SHOWOFF is a product owned by ASP Multimedia Ltd.
 						
 					
 						
-
-
 <!-- ** start of all sheets --> 
 	
 		
@@ -379,12 +579,16 @@ SHOWOFF is a product owned by ASP Multimedia Ltd.
 </tbody></table></td></tr></tbody></table><!-- ** end of sheet 1 (Full) --><!-- ** end of outer sheet HTML -->
 
 
-<!-- ** end of all sheets -->
+<!-- ** end of all sheets --> 
 	
 
 
 
 
+						
+						
+						
+						
 						
 					
 				
@@ -424,12 +628,7 @@ SHOWOFF is a product owned by ASP Multimedia Ltd.
 						</tbody></table>
 					</td>
 					<td width="11" valign="top"><img src="http://www.ecommerceexpo.co.uk/g/2006/g_blank.gif" width="10" height="1" alt=""></td>
-					<td width="150" valign="top"><!-- ** start of  panel (panel 1 on Right) -->
-<table border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr>
-		<td width="100%"><!-- <UDF_formattedPage/> --><font face="Verdana,Arial" size="2" class="Panel"><p><a class="Panel" target="_blank" href="http://www.ecommerceexpo.co.uk/page.cfm?&amp;LinkType=PowerBar__&amp;LinkTarget=http://www.ecommerceexpo.co.uk/files/ecommerce_brochure10.pdf"></a><br><a class="Panel" href="http://www.ecommerceexpo.co.uk/page.cfm?&amp;LinkType=PowerBar__&amp;LinkTarget=http://www.ecommerceexpo.co.uk/page.cfm?HyperLink=http://www.cts-online.co.uk/shows/ecommerce07/"></a><img height="85" alt="Click here to register " src="http://www.ecommerceexpo.co.uk/g/2006/panels/button_register.gif" width="147" align="middle" border="0"><br><br></p></font></td>
-	</tr>
-</tbody></table> <!-- Spacer Break --><!-- ** end of  panel (panel 1 on Right) --><!-- ** start of Partners panel (panel 2 on Right) -->
+					<td width="150" valign="top"><!-- ** start of Partners panel (panel 1 on Right) -->
 <table border="0" cellspacing="0" cellpadding="0">
 	<tbody><tr>
 		<td width="12"><img src="http://www.ecommerceexpo.co.uk/g/2006/template/panel_left_upr.gif" width="12" height="3" alt=""></td>
@@ -453,55 +652,61 @@ SHOWOFF is a product owned by ASP Multimedia Ltd.
 					<td width="8" background="http://www.ecommerceexpo.co.uk/g/2006/template/panel_left.gif"><img src="http://www.ecommerceexpo.co.uk/g/2006/g_blank/gif" width="8" height="1" alt=""></td>
 					<td width="100%"><font face="" size="2" class="Panel"><script language="javascript" type="text/javascript">
 	<!--
-	var divArray_0=new Array();
-	var objArray_0=new Array();
+	var divArray_1=new Array();
+	var objArray_1=new Array();
 	var obj={imgName:'bimasmall.jpg',imgWidth:'115',imgHeight:'87',imgAlt:'Bima Logo',imgLink:'',imgTarget:'_blank'};
-	objArray_0[0]=obj;
+	objArray_1[0]=obj;
 	var obj={imgName:'chinwagjobslogoweb.jpg',imgWidth:'115',imgHeight:'28',imgAlt:'',imgLink:'',imgTarget:'_blank'};
-	objArray_0[1]=obj;
+	objArray_1[1]=obj;
 	var obj={imgName:'e_consultancycmykstrap.jpg',imgWidth:'115',imgHeight:'21',imgAlt:'',imgLink:'',imgTarget:'_blank'};
-	objArray_0[2]=obj;
+	objArray_1[2]=obj;
+	var obj={imgName:'ebus_logo.jpg',imgWidth:'115',imgHeight:'103',imgAlt:'',imgLink:'',imgTarget:'_blank'};
+	objArray_1[3]=obj;
 	var obj={imgName:'ert_weekly_logo__black_box.jpg',imgWidth:'115',imgHeight:'27',imgAlt:'',imgLink:'',imgTarget:'_blank'};
-	objArray_0[3]=obj;
+	objArray_1[4]=obj;
 	var obj={imgName:'fsbbusinessnetworklogosm.jpg',imgWidth:'115',imgHeight:'133',imgAlt:'',imgLink:'',imgTarget:'_blank'};
-	objArray_0[4]=obj;
+	objArray_1[5]=obj;
 	var obj={imgName:'fulfilment_elog.gif',imgWidth:'115',imgHeight:'28',imgAlt:'Fulfilment & elog',imgLink:'',imgTarget:'_blank'};
-	objArray_0[5]=obj;
+	objArray_1[6]=obj;
 	var obj={imgName:'iab_logo_cmyk_72dpi.jpg',imgWidth:'115',imgHeight:'72',imgAlt:'IAB Logo',imgLink:'',imgTarget:'_blank'};
-	objArray_0[6]=obj;
+	objArray_1[7]=obj;
 	var obj={imgName:'internet_retailing_logo.jpg',imgWidth:'115',imgHeight:'30',imgAlt:'',imgLink:'',imgTarget:'_blank'};
-	objArray_0[7]=obj;
+	objArray_1[8]=obj;
 	var obj={imgName:'logo_fst_black.gif',imgWidth:'115',imgHeight:'68',imgAlt:'Financial Sector Technology',imgLink:'',imgTarget:'_blank'};
-	objArray_0[8]=obj;
-	var obj={imgName:'logo_marketing.jpg',imgWidth:'115',imgHeight:'25',imgAlt:'Marketing logo',imgLink:'',imgTarget:'_blank'};
-	objArray_0[9]=obj;
+	objArray_1[9]=obj;
+	var obj={imgName:'logo_imrg_72dpi.jpg',imgWidth:'115',imgHeight:'54',imgAlt:'IMRG Logo',imgLink:'',imgTarget:'_blank'};
+	objArray_1[10]=obj;
 	var obj={imgName:'logo_retailbull.jpg',imgWidth:'115',imgHeight:'18',imgAlt:'Retail Bulletin Logo',imgLink:'',imgTarget:'_blank'};
-	objArray_0[10]=obj;
+	objArray_1[11]=obj;
 	var obj={imgName:'logo_retailtec.gif',imgWidth:'115',imgHeight:'38',imgAlt:'Retail Technology Logo',imgLink:'',imgTarget:'_blank'};
-	objArray_0[11]=obj;
+	objArray_1[12]=obj;
 	var obj={imgName:'logo_rev.jpg',imgWidth:'115',imgHeight:'31',imgAlt:'Revolution Magazine Logo',imgLink:'',imgTarget:'_blank'};
-	objArray_0[12]=obj;
+	objArray_1[13]=obj;
 	var obj={imgName:'madcouk_logo_outlines_copy.jpg',imgWidth:'115',imgHeight:'26',imgAlt:'',imgLink:'',imgTarget:'_blank'};
-	objArray_0[13]=obj;
+	objArray_1[14]=obj;
 	var obj={imgName:'travelmole.jpg',imgWidth:'115',imgHeight:'55',imgAlt:'travelmole',imgLink:'',imgTarget:'_blank'};
-	objArray_0[14]=obj;
+	objArray_1[15]=obj;
 	var obj={imgName:'vendorcom_final_400.jpg',imgWidth:'115',imgHeight:'22',imgAlt:'',imgLink:'',imgTarget:'_blank'};
-	objArray_0[15]=obj;
-	for (ii=0; ii < objArray_0.length; ii++)
-	{	eval('var img'+ii+'=new Image(); img'+ii+'.src=\"http://www.ecommerceexpo.co.uk/g/2006/panels/'+objArray_0[ii].imgName+'\";');
-	var imgTag='<img src=\"'+eval('img'+ii+'.src')+'\" border=0 width='+objArray_0[ii].imgWidth+' height='+objArray_0[ii].imgHeight+' alt=\"'+objArray_0[ii].imgAlt+'\">';
-	if (objArray_0[ii].imgLink != '')
-	{	imgTag='<a href=\"'+objArray_0[ii].imgLink+'\" target=\"'+objArray_0[ii].imgTarget+'\">'+imgTag+'<\/a>';
+	objArray_1[16]=obj;
+	for (ii=0; ii < objArray_1.length; ii++)
+	{	eval('var img'+ii+'=new Image(); img'+ii+'.src=\"http://www.ecommerceexpo.co.uk/g/2006/panels/'+objArray_1[ii].imgName+'\";');
+	var imgTag='<img src=\"'+eval('img'+ii+'.src')+'\" border=0 width='+objArray_1[ii].imgWidth+' height='+objArray_1[ii].imgHeight+' alt=\"'+objArray_1[ii].imgAlt+'\">';
+	if (objArray_1[ii].imgLink != '')
+	{	imgTag='<a href=\"'+objArray_1[ii].imgLink+'\" target=\"'+objArray_1[ii].imgTarget+'\">'+imgTag+'<\/a>';
 	}
-	divArray_0[ii]='<div align=\"center\" ID=\"ImgRotatorDIV_0_'+ii+'\" style=\"display:none;\">'+imgTag+'<\/div>';
+	divArray_1[ii]='<div align=\"center\" name=\"ImgRotatorDIV_1_'+ii+'\" ID=\"ImgRotatorDIV_1_'+ii+'\" style=\"display:none;\">'+imgTag+'<\/div>';
 	}
 	if(nav=='ie4')
-	{	var countRotator_0=9;
-	setInterval('updateRotator(0);',2000);
+	{	var countRotator_1=1;
+	setInterval('updateRotator(1);',2000);
+	}
+	else if(nav=='ns6')
+	{	var countRotator_1=1;
+	setInterval('updateRotator(1);',2000);
 	}
 	
 	//-->
-	</script><table border="0" cellspacing="0" cellpadding="0" width="100%"><tbody><tr><td height="133" align="center" id="ImgRotator_0"><a id="ImgRotatorHref_0"><img src="http://www.ecommerceexpo.co.uk/g/2006/panels/logo_fst_black.gif" width="115" height="68" alt="Financial Sector Technology" border="0" id="ImgRotatorImg_0"></a></td></tr></tbody></table></font></td>
+	</script><table border="0" cellspacing="0" cellpadding="0" width="100%"><tbody><tr><td height="133" align="center" id="ImgRotator_1"><a id="ImgRotatorHref_1"><img src="http://www.ecommerceexpo.co.uk/g/2006/panels/bimasmall.jpg" width="115" height="87" alt="Bima Logo" border="0" id="ImgRotatorImg_1"></a></td></tr></tbody></table></font></td>
 					<td width="7" background="http://www.ecommerceexpo.co.uk/g/2006/template/panel_right.gif"><img src="http://www.ecommerceexpo.co.uk/g/2006/g_blank/gif" width="7" height="1" alt=""></td>
 				</tr>
 			</tbody></table>
@@ -512,7 +717,113 @@ SHOWOFF is a product owned by ASP Multimedia Ltd.
 		<td width="100%" background="http://www.ecommerceexpo.co.uk/g/2006/template/panel_footer_ctr.gif"><img src="http://www.ecommerceexpo.co.uk/g/2006/g_blank.gif" width="100%" height="1" alt=""></td>
 		<td width="12"><img src="http://www.ecommerceexpo.co.uk/g/2006/template/panel_footer_right.gif" width="12" height="13" alt=""></td>
 	</tr>
-</tbody></table><img src="http://www.ecommerceexpo.co.uk/g/2006/g_blank.gif" width="1" height="10" alt=""> <!-- Spacer Break --><!-- ** end of Partners panel (panel 2 on Right) --></td>
+</tbody></table><img src="http://www.ecommerceexpo.co.uk/g/2006/g_blank.gif" width="1" height="10" alt=""> <!-- Spacer Break --><!-- ** end of Partners panel (panel 1 on Right) --><!-- ** start of Quick Links panel (panel 2 on Right) -->
+<table border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr>
+		<td width="12"><img src="http://www.ecommerceexpo.co.uk/g/2006/template/panel_left_upr.gif" width="12" height="3" alt=""></td>
+		<td width="100%" background="http://www.ecommerceexpo.co.uk/g/2006/template/panel_ctr_upr.gif"><img src="http://www.ecommerceexpo.co.uk/g/2006/g_blank.gif" width="100%" height="1" alt=""></td>
+		<td width="12"><img src="http://www.ecommerceexpo.co.uk/g/2006/template/panel_right_upr.gif" width="12" height="3" alt=""></td>
+	</tr>
+	<tr>
+		<td width="12"><img src="http://www.ecommerceexpo.co.uk/g/2006/template/panel_left_ctr.gif" width="12" height="14" alt=""></td>
+		<td width="100%" bgcolor="#66a6d2"><font face="" size="2" class="PanelTitle">Quick Links</font></td>
+		<td width="12"><img src="http://www.ecommerceexpo.co.uk/g/2006/template/panel_right_ctr.gif" width="12" height="14" alt=""></td>
+	</tr>
+	<tr>
+		<td width="12"><img src="http://www.ecommerceexpo.co.uk/g/2006/template/panel_left_lwr.gif" width="12" height="11" alt=""></td>
+		<td width="100%" background="http://www.ecommerceexpo.co.uk/g/2006/template/panel_ctr_lwr.gif"><img src="http://www.ecommerceexpo.co.uk/g/2006/g_blank.gif" width="100%" height="11" alt=""></td>
+		<td width="12"><img src="http://www.ecommerceexpo.co.uk/g/2006/template/panel_right_lwr.gif" width="12" height="11" alt=""></td>
+	</tr>
+	<tr>
+		<td width="100%" colspan="3">
+			<table width="100%" cellspacing="0" cellpadding="0" border="0">
+				<tbody><tr>
+					<td width="8" background="http://www.ecommerceexpo.co.uk/g/2006/template/panel_left.gif"><img src="http://www.ecommerceexpo.co.uk/g/2006/g_blank/gif" width="8" height="1" alt=""></td>
+					<td width="100%"><!-- <UDF_formattedPage/> --><font face="Verdana,Arial" size="2" class="Panel"><p align="left"><br><br><a class="Panel" href="http://www.ecommerceexpo.co.uk/page.cfm?&amp;LinkType=PowerBar__&amp;LinkTarget=http://www.ecommerceexpo.co.uk/page.cfm/Action=Form/FormID=2/t=m" name="~Navundefined">Sales Enquiry Form</a><br><a class="Panel" href="http://www.ecommerceexpo.co.uk/page.cfm?&amp;LinkType=PowerBar__&amp;LinkTarget=http://www.ecommerceexpo.co.uk/page.cfm/Action=ExhibList/t=m" name="~Navundefined">2007 Exhibitor List&nbsp;</a><br><a class="Panel" href="http://www.ecommerceexpo.co.uk/page.cfm?&amp;LinkType=PowerBar__&amp;LinkTarget=http://www.ecommerceexpo.co.uk/page.cfm/link=28/GoSection=5">Floorplan</a><br><a class="Panel" href="http://www.ecommerceexpo.co.uk/page.cfm?&amp;LinkType=PowerBar__&amp;LinkTarget=http://www.ecommerceexpo.co.uk/files/ecom_spons_opps.pdf" name="~Navundefined">Sponsorship</a><br><a class="Panel" href="http://www.ecommerceexpo.co.uk/page.cfm?&amp;LinkType=PowerBar__&amp;LinkTarget=http://www.ecommerceexpo.co.uk/page.cfm/Action=Form/FormID=9/t=m">Keep me posted</a></p></font></td>
+					<td width="7" background="http://www.ecommerceexpo.co.uk/g/2006/template/panel_right.gif"><img src="http://www.ecommerceexpo.co.uk/g/2006/g_blank/gif" width="7" height="1" alt=""></td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+	<tr>
+		<td width="12"><img src="http://www.ecommerceexpo.co.uk/g/2006/template/panel_footer_left.gif" width="12" height="13" alt=""></td>
+		<td width="100%" background="http://www.ecommerceexpo.co.uk/g/2006/template/panel_footer_ctr.gif"><img src="http://www.ecommerceexpo.co.uk/g/2006/g_blank.gif" width="100%" height="1" alt=""></td>
+		<td width="12"><img src="http://www.ecommerceexpo.co.uk/g/2006/template/panel_footer_right.gif" width="12" height="13" alt=""></td>
+	</tr>
+</tbody></table><img src="http://www.ecommerceexpo.co.uk/g/2006/g_blank.gif" width="1" height="10" alt=""> <!-- Spacer Break --><!-- ** end of Quick Links panel (panel 2 on Right) --><!-- ** start of 2007 Photo's panel (panel 3 on Right) -->
+<table border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr>
+		<td width="12"><img src="http://www.ecommerceexpo.co.uk/g/2006/template/panel_left_upr.gif" width="12" height="3" alt=""></td>
+		<td width="100%" background="http://www.ecommerceexpo.co.uk/g/2006/template/panel_ctr_upr.gif"><img src="http://www.ecommerceexpo.co.uk/g/2006/g_blank.gif" width="100%" height="1" alt=""></td>
+		<td width="12"><img src="http://www.ecommerceexpo.co.uk/g/2006/template/panel_right_upr.gif" width="12" height="3" alt=""></td>
+	</tr>
+	<tr>
+		<td width="12"><img src="http://www.ecommerceexpo.co.uk/g/2006/template/panel_left_ctr.gif" width="12" height="14" alt=""></td>
+		<td width="100%" bgcolor="#66a6d2"><font face="" size="2" class="PanelTitle">2007 Photo's</font></td>
+		<td width="12"><img src="http://www.ecommerceexpo.co.uk/g/2006/template/panel_right_ctr.gif" width="12" height="14" alt=""></td>
+	</tr>
+	<tr>
+		<td width="12"><img src="http://www.ecommerceexpo.co.uk/g/2006/template/panel_left_lwr.gif" width="12" height="11" alt=""></td>
+		<td width="100%" background="http://www.ecommerceexpo.co.uk/g/2006/template/panel_ctr_lwr.gif"><img src="http://www.ecommerceexpo.co.uk/g/2006/g_blank.gif" width="100%" height="11" alt=""></td>
+		<td width="12"><img src="http://www.ecommerceexpo.co.uk/g/2006/template/panel_right_lwr.gif" width="12" height="11" alt=""></td>
+	</tr>
+	<tr>
+		<td width="100%" colspan="3">
+			<table width="100%" cellspacing="0" cellpadding="0" border="0">
+				<tbody><tr>
+					<td width="8" background="http://www.ecommerceexpo.co.uk/g/2006/template/panel_left.gif"><img src="http://www.ecommerceexpo.co.uk/g/2006/g_blank/gif" width="8" height="1" alt=""></td>
+					<td width="100%"><font face="" size="2" class="Panel"><script language="javascript" type="text/javascript">
+	<!--
+	var divArray_2=new Array();
+	var objArray_2=new Array();
+	var obj={imgName:'pr2331w184.jpg',imgWidth:'115',imgHeight:'68',imgAlt:'',imgLink:'http://www.ecommerceexpo.co.uk/page.cfm/Link=67/t=m',imgTarget:'_blank'};
+	objArray_2[0]=obj;
+	var obj={imgName:'pr2331w293.jpg',imgWidth:'115',imgHeight:'75',imgAlt:'',imgLink:'http://www.ecommerceexpo.co.uk/page.cfm/Link=67/t=m',imgTarget:'_blank'};
+	objArray_2[1]=obj;
+	var obj={imgName:'pr2331w297.jpg',imgWidth:'115',imgHeight:'76',imgAlt:'',imgLink:'http://www.ecommerceexpo.co.uk/page.cfm/Link=67/t=m',imgTarget:'_blank'};
+	objArray_2[2]=obj;
+	var obj={imgName:'pr2331w35.jpg',imgWidth:'115',imgHeight:'75',imgAlt:'',imgLink:'http://www.ecommerceexpo.co.uk/page.cfm/Link=67/t=m',imgTarget:'_blank'};
+	objArray_2[3]=obj;
+	var obj={imgName:'pr2331w350.jpg',imgWidth:'115',imgHeight:'75',imgAlt:'',imgLink:'http://www.ecommerceexpo.co.uk/page.cfm/Link=67/t=m',imgTarget:'_blank'};
+	objArray_2[4]=obj;
+	var obj={imgName:'pr2331w498.jpg',imgWidth:'115',imgHeight:'70',imgAlt:'',imgLink:'http://www.ecommerceexpo.co.uk/page.cfm/Link=67/t=m',imgTarget:'_blank'};
+	objArray_2[5]=obj;
+	var obj={imgName:'pr2331w513.jpg',imgWidth:'115',imgHeight:'71',imgAlt:'',imgLink:'http://www.ecommerceexpo.co.uk/page.cfm/Link=67/t=m',imgTarget:'_blank'};
+	objArray_2[6]=obj;
+	var obj={imgName:'pr2331w518.jpg',imgWidth:'115',imgHeight:'69',imgAlt:'',imgLink:'http://www.ecommerceexpo.co.uk/page.cfm/Link=67/t=m',imgTarget:'_blank'};
+	objArray_2[7]=obj;
+	var obj={imgName:'pr2331w53.jpg',imgWidth:'115',imgHeight:'67',imgAlt:'',imgLink:'http://www.ecommerceexpo.co.uk/page.cfm/Link=67/t=m',imgTarget:'_blank'};
+	objArray_2[8]=obj;
+	for (ii=0; ii < objArray_2.length; ii++)
+	{	eval('var img'+ii+'=new Image(); img'+ii+'.src=\"http://www.ecommerceexpo.co.uk/g/2006/panels/'+objArray_2[ii].imgName+'\";');
+	var imgTag='<img src=\"'+eval('img'+ii+'.src')+'\" border=0 width='+objArray_2[ii].imgWidth+' height='+objArray_2[ii].imgHeight+' alt=\"'+objArray_2[ii].imgAlt+'\">';
+	if (objArray_2[ii].imgLink != '')
+	{	imgTag='<a href=\"'+objArray_2[ii].imgLink+'\" target=\"'+objArray_2[ii].imgTarget+'\">'+imgTag+'<\/a>';
+	}
+	divArray_2[ii]='<div align=\"center\" name=\"ImgRotatorDIV_2_'+ii+'\" ID=\"ImgRotatorDIV_2_'+ii+'\" style=\"display:none;\">'+imgTag+'<\/div>';
+	}
+	if(nav=='ie4')
+	{	var countRotator_2=4;
+	setInterval('updateRotator(2);',2000);
+	}
+	else if(nav=='ns6')
+	{	var countRotator_2=4;
+	setInterval('updateRotator(2);',2000);
+	}
+	
+	//-->
+	</script><table border="0" cellspacing="0" cellpadding="0" width="100%"><tbody><tr><td height="76" align="center" id="ImgRotator_2"><a href="page.cfm?LinkType=LogoRotator&amp;LinkTarget=http://www.ecommerceexpo.co.uk/page.cfm/Link=67/t=m" target="_self" id="ImgRotatorHref_2"><img src="http://www.ecommerceexpo.co.uk/g/2006/panels/pr2331w35.jpg" width="115" height="75" alt="" border="0" id="ImgRotatorImg_2"></a></td></tr></tbody></table></font></td>
+					<td width="7" background="http://www.ecommerceexpo.co.uk/g/2006/template/panel_right.gif"><img src="http://www.ecommerceexpo.co.uk/g/2006/g_blank/gif" width="7" height="1" alt=""></td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+	<tr>
+		<td width="12"><img src="http://www.ecommerceexpo.co.uk/g/2006/template/panel_footer_left.gif" width="12" height="13" alt=""></td>
+		<td width="100%" background="http://www.ecommerceexpo.co.uk/g/2006/template/panel_footer_ctr.gif"><img src="http://www.ecommerceexpo.co.uk/g/2006/g_blank.gif" width="100%" height="1" alt=""></td>
+		<td width="12"><img src="http://www.ecommerceexpo.co.uk/g/2006/template/panel_footer_right.gif" width="12" height="13" alt=""></td>
+	</tr>
+</tbody></table><img src="http://www.ecommerceexpo.co.uk/g/2006/g_blank.gif" width="1" height="10" alt=""> <!-- Spacer Break --><!-- ** end of 2007 Photo's panel (panel 3 on Right) --></td>
 					<td width="5" valign="top"><img src="http://www.ecommerceexpo.co.uk/g/2006/g_blank.gif" width="5" height="1" alt=""></td>
 				</tr>
 			</tbody></table><!-- Footer -->
