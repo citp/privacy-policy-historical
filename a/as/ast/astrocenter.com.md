@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the astrocenter.com privacy policy that was archived on 2007-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070406200630id_/http%3A//www.astrocenter.com/us/Privacy.aspx%3FAf%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astrocenter.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224051312id_/http%3A//www.astrocenter.com/us/Privacy.aspx%3FAf%3D0) for the most accurate reproduction.*
 
-# Astrocenter.com: Privacy Policy, Astrology, Tarot, Psychics, Free Horoscopes, Free Tarot Readings, Free Psychic Readings
+# Privacy Policy - Astrocenter.com
 
    
 **Astrocenter Privacy Policy** | previous page   
