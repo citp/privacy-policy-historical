@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eastman.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623065631id_/http%3A//www.eastman.com/Privacypolicy/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eastman.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224145753id_/http%3A//www.eastman.com/Privacypolicy/privacy_policy.htm) for the most accurate reproduction.*
 
-# www.eastman.com - Privacy Policy
+# Eastman - Privacy Policy
 
 Eastman respects the privacy of visitors to our website and is committed to maintaining all reasonable precautions to assure the privacy and security of this website. Please read the following policy carefully, because it explains what information we collect from website visitors, why we collect it, and where the information goes. 
 
