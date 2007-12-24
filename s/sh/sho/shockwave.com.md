@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shockwave.com privacy policy that was archived on 2007-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070614065302id_/http%3A//www.atomentertainment.com/asw_legal_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shockwave.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224181119id_/http%3A//www.atomentertainment.com/asw_legal_privacy.htm) for the most accurate reproduction.*
 
 # Atom Entertainment - Privacy and Legal Info - Privacy Policy
 
