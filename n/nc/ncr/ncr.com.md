@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ncr.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630073630id_/http%3A//www.ncr.com/utility/privacy_policy/ncr_privacy_policy.jsp%3Flang%3DEN) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncr.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224135125id_/http%3A//www.ncr.com/utility/privacy_policy/ncr_privacy_policy.jsp%3Flang%3DEN) for the most accurate reproduction.*
 
 # NCR Privacy Policy
 
@@ -19,8 +19,6 @@ We may use "cookies" on some pages of our site, simply to help us serve you bett
 The data collected from cookies helps us determine how many people visit this site and what pages they view. We use this information to better serve all visitors as we improve our site content and design. You can set your Web browser to warn you before you accept a cookie.
 
 We do collect information on the domains from which people visit us. Again, we use that data to track trends in our site traffic and as the basis for making improvements. We do not share this information with any third parties.
-
-NCR is committed to protecting personal data on this site just like we are committed to helping our customers protect their customers' privacy. NCR realizes it is in a unique position to deliver the capability for protecting personal data to its customers and is moving aggressively to provide this protection in its data warehousing, data mining, retail, financial and Internet solutions.  NCR is the first company to apply the principles of consumer data protection to its data warehousing solutions.
 
 * * *
 
@@ -64,7 +62,7 @@ NCR will apply these principles via practices that have the equivalent effect re
 
 **7\. Leading in the Marketplace**
 
-NCR will develop and offer market-driven solutions, particularly in the scalable data warehouse portfolio, that empower its corporate customers to protect consumers' personal data. NCR will also support and participate in consumer education efforts about the importance of fair information practices and privacy protection.
+NCR will develop and offer market-driven solutions that empower its corporate customers to protect consumers' personal data. NCR will also support and participate in consumer education efforts about the importance of fair information practices and privacy protection.
 
 * * *
 
