@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the teleflora.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624122348id_/http%3A//www.teleflora.com/securityprivacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teleflora.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224142252id_/http%3A//www.teleflora.com/securityprivacy.asp) for the most accurate reproduction.*
 
-# Flower Delivery | Send Flowers Online | Fresh Flower Arrangements - Teleflora.com
+# Teleflora.com Security and Privacy Policy
 
 Security & Privacy
 
