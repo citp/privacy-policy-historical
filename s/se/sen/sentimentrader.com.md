@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sentimentrader.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626203345id_/http%3A//www.sentimentrader.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sentimentrader.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224072741id_/http%3A//www.sentimentrader.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Why Bonds
 
@@ -38,9 +38,9 @@ If you have any questions or concerns, please do not hesitate to contact us.
 
 Sundial Capital Research, Inc.
 
-PO Box 341
+12527 Central Avenue NE, Suite 165
 
-Saint Michael, MN  55376
+Blaine, MN  55434
 
 Toll-free phone:  888-795-9893
 
