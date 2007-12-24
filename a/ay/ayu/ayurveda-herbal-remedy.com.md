@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ayurveda-herbal-remedy.com privacy policy that was archived on 2007-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070619021036id_/http%3A//www.indiamart.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ayurveda-herbal-remedy.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224193456id_/http%3A//www.indiamart.com/privacy-policy.html) for the most accurate reproduction.*
 
 # IndiaMART Privacy Policy
 
