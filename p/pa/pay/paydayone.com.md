@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paydayone.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626133733id_/http%3A//paydayone.com/modules/privacypolicy/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paydayone.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224204647id_/http%3A//www.paydayone.com/modules/privacypolicy/default.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | PayDay One | The Smarter Cash Advance
 
