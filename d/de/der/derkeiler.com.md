@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the derkeiler.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625150917id_/http%3A//www.derkeiler.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the derkeiler.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224062427id_/http%3A//www.derkeiler.com/privacy) for the most accurate reproduction.*
 
 # Der Keiler: Privacy Policy
 
@@ -41,27 +41,19 @@ If you have any questions about this policy feel free to contact us: [privacy@de
 ## Featured Product
 
 [](http://www.gfi.com/adentry.asp?adv=833&loc=1)   
-**GFI LANguard Network Security Scanner**   
-#1 Windows commercial security scanner **(voted by Nmap users for two years running)** : 
+**GFI LANguard Network Security Scanner**
 
-**Network security and vulnerability scanning just got better with GFI LANguard Network Security Scanner 8!**  
-GFI LANguard Network Security Scanner is a 3-in-1 solution that offers network vulnerability scanning, patch management and system information acquisition - all in one! [Try the No.1 voted commercial network security security scanner by NMAP users for 2 years running today.](http://www.gfi.com/adentry.asp?adv=833&loc=2 "Download GFI LANguard") **Free 30-day trial available**. 
+**Are hackers finding a way into your network?**  
+Identify and repair network vulnerabilities with the #1 vulnerability scanner. [Download a FREE trial!](http://www.gfi.com/adentry.asp?adv=833&loc=2)
 
-Why choose GFI LANguard Network Security Scanner? 
+[](http://www.gfi.com/adentry.asp?adv=833&loc=1)GFI LANguard Network Security Scanner is the #1 Windows commercial security scanner as voted by Nmap users for two years running. It is a solution that allows you to **scan, detect, assess and rectify any security vulnerabilities on your network.**
 
-  * Audit your network for security vulnerabilities (Windows and Linux)
-  * Detect unnecessary shares, open ports and unused user accounts on workstations
-  * Check for and deploy missing security patches and service packs in OS and Office
-  * Very affordable 3-in-1 security vulnerability solution
-
-
-
-For more information about the [GFI LANguard Network Security Scanner click here.](http://www.gfi.com/adentry.asp?adv=833&loc=1 "Network security & vulnerability scanner")
+**[Find out more about GFI LANguard](http://www.gfi.com/adentry.asp?adv=833&loc=1) and [download your FREE 30 day trial today!](http://www.gfi.com/adentry.asp?adv=833&loc=2)**
 
   * [Home Security](http://www.safemart.com/)
-  * [Security Guards London UK](http://www.latinssecurity.com/)
-  * [Security](http://www.24-7cctvsecuritycameras.com/)
+  * [Security cameras](http://www.24-7cctvsecuritycameras.com/)
   * [Security Systems](http://www.central-alarms.com/)
-  * [Security Camera System](http://www.123cctv.com/)
+  * [Security camera systems](http://www.123cctv.com/)
+  * [Auctions](http://www.superideals.info/)
 
 
