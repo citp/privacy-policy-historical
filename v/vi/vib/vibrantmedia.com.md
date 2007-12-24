@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the vibrantmedia.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623072907id_/http%3A//www.vibrantmedia.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vibrantmedia.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224153922id_/http%3A//www.vibrantmedia.com/privacy.asp) for the most accurate reproduction.*
 
 # Vibrant Media - The In-Text Advertising Leader - Privacy Statement
 
 Privacy Statement
-
-[](http://www.truste.org/ivalidate.php?url=www.vibrantmedia.com&sealid=101)
 
 Vibrant Media Product Privacy Statement:  
 Vibrant Media is a Publisher-side Technology Company.   
