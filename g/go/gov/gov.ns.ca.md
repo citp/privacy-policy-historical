@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gov.ns.ca privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630151718id_/http%3A//www.gov.ns.ca/govt/privacy/default.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gov.ns.ca privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224144012id_/http%3A//www.gov.ns.ca/govt/privacy/default.htm) for the most accurate reproduction.*
 
 # Nova Scotia Government Website Privacy Policy Statement
 
@@ -50,7 +50,7 @@ Government web servers automatically collect some information about a visitor's 
 
 ## Further Information
 
-[Nova Scotia Government Website Privacy Policy](https://web.archive.org/web/20070630151718id_/http%3A//www.gov.ns.ca/govt/privacy/privacypolicy.htm)
+[Nova Scotia Government Website Privacy Policy](https://web.archive.org/web/20071224144012id_/http%3A//www.gov.ns.ca/govt/privacy/privacypolicy.htm)
 
 [Contact the Office of Economic Development](https://www.gov.ns.ca/govt/privacy/privacycontact.asp)  
 
