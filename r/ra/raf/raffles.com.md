@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the raffles.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615045628id_/http%3A//raffles.com/privacy_policy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raffles.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224122830id_/http%3A//www.raffles.com/privacy_policy/index.html) for the most accurate reproduction.*
 
 # Privacy Policy: Raffles Hotels & Resorts
 
 |   
 ---  
-[Raffles Home](https://web.archive.org/index.shtml "Raffles Home")[Destinations](https://web.archive.org/destinations/index.html "Destinations")[Raffles Photo Gallery](https://web.archive.org/photo_gallery/index.html "Raffles Photo Gallery")[Exclusive Offers](https://web.archive.org/offers/index.html "Exclusive Offers")[Meetings & Events](https://web.archive.org/meetings/index.html "Meetings & Events")[Raffles Lifestyle](https://web.archive.org/lifestyle/index.html "Raffles Lifestyle")[Raffles Capital](https://web.archive.org/raffles_capital/index.html "Raffles Capital")  
+[Raffles Home](https://web.archive.org/index.shtml "Raffles Home")[Destinations](https://web.archive.org/destinations/index.html "Destinations")[Raffles Photo Gallery](https://web.archive.org/photo_gallery/index.html "Raffles Photo Gallery")[Exclusive Offers](https://web.archive.org/promos/index.html "Exclusive Offers")[Meetings & Events](https://web.archive.org/meetings/index.html "Meetings & Events")[Raffles Lifestyle](https://web.archive.org/lifestyle/index.html "Raffles Lifestyle")[Raffles Capital](https://web.archive.org/raffles_capital/index.html "Raffles Capital")  
 |  |  |  Privacy Policy
 
   1. **General**
@@ -91,9 +91,9 @@ By providing your Personal Information and then pressing the [Submit Request] bu
 For the purposes of this notice the Raffles Group includes all direct and indirect subsidiaries and related companies of Raffles Hotels & Resorts Limited from time to time wherever located in the world. Further details as to the Raffles Group may be obtained from:
 
 Raffles Hotels & Resorts Limited - Data Privacy Officer  
-2 Stamford Road  
-#06-02 Raffles City Convention Centre  
-Singapore 178882
+250 North Bridge Road  
+#10-00 Raffles City Tower  
+Singapore 179101 
 
     1. In your correspondence please indicate the location on the Raffles Site where you provided your Personal Information with as much detail as possible. Inaccurate description will cause delay in processing your request.
   
