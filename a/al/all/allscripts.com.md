@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allscripts.com privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622032524id_/http%3A//www.allscripts.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allscripts.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225233429id_/http%3A//www.allscripts.com/privacy.asp) for the most accurate reproduction.*
 
 # Allscripts clinical software, connectivity, and information solutions
 
