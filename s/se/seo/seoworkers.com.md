@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the seoworkers.com privacy policy that was archived on 2007-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070518093021id_/http%3A//www.seoworkers.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seoworkers.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225171335id_/http%3A//www.seoworkers.com/privacy-policy.html) for the most accurate reproduction.*
 
-# SEO Workers Privacy Policy & Important Notices
+# SEO Workers Web Site Privacy Policy & Important Notices
 
-## SEO Workers Web Site Privacy Policy & Important Notices
-
-Skip to site features
-
-Thank you for visiting **SEO Workers** and reviewing our policy notices. We have integrated these statements into a single posting for ease of use.
+Thank you for visiting SEO Workers and reviewing our policy notices. We have integrated these statements into a single posting for ease of use.
 
 The following links will help you navigate to a specific section:
 
@@ -26,15 +22,15 @@ The following links will help you navigate to a specific section:
 
 ### Privacy Policy
 
-This notice provides **SEO Workers** policy regarding the nature, purpose, use and sharing of any information collected via this Web site.
+This notice provides SEO Workers policy regarding the nature, purpose, use and sharing of any information collected via this Web site.
 
-The information you provide on a **SEO Workers** Web site will be used only for its intended purpose. We will protect your information consistent with the principles of the German Privacy Act.
+The information you provide on a SEO Workers Web site will be used only for its intended purpose. We will protect your information consistent with the principles of the German Privacy Act.
 
-Submitting information is strictly voluntary. By doing so, you are giving **SEO Workers** your permission to use the information for the intended purpose.
+Submitting information is strictly voluntary. By doing so, you are giving SEO Workers your permission to use the information for the intended purpose.
 
-If you do not want to give **SEO Workers** permission to use your information, simply do not provide it.
+If you do not want to give SEO Workers permission to use your information, simply do not provide it.
 
-However, not providing certain information may result in **SEO Workers** inability to provide you with the information or services you desire.
+However, not providing certain information may result in SEO Workers inability to provide you with the information or services you desire.
 
 There are several types of information we collect. These include:
 
@@ -45,9 +41,9 @@ There are several types of information we collect. These include:
 
 
 
-**SEO Workers** never collects information for commercial marketing. We will only share your information with another government agency if it relates to that agency, or as otherwise required by law.
+SEO Workers never collects information for commercial marketing. We will NEVER share your information with another government agency if it relates to that agency, or as otherwise required by law.
 
-**SEO Workers** never creates individual profiles or gives your information to any private organization.
+SEO Workers never creates individual profiles or gives your information to any private organization.
 
 ### Automatically Collected Information
 
@@ -60,7 +56,7 @@ We collect and temporarily store certain technical information about your visit 
   * The date and time you access our site;
   * The URLs of the pages you visit;
   * Your username, if it was used to log in to the Web site;
-  * If you visited this **SEO Workers** Web site from another Web site, the URL of the forwarding site.
+  * If you visited this SEO Workers Web site from another Web site, the URL of the forwarding site.
 
 
 
@@ -81,27 +77,27 @@ Your computer will only share the information in the cookie with the Web site th
 
 
 
-**SEO Workers** Web sites may use session cookies for technical purposes such as to enable better navigation through the site, or to allow you to customize your preferences for interacting with the site.
+SEO Workers Web sites may use session cookies for technical purposes such as to enable better navigation through the site, or to allow you to customize your preferences for interacting with the site.
 
-A few **SEO Workers** Web sites may also make use of persistent cookies to remember you between visits so, for example, you can save your customized preference settings for future visits.
+A few SEO Workers Web sites may also make use of persistent cookies to remember you between visits so, for example, you can save your customized preference settings for future visits.
 
-Each **SEO Workers** site using persistent cookies identifies itself as doing so.
+Each SEO Workers site using persistent cookies identifies itself as doing so.
 
 At no time is your private information, whether stored in persistent cookies or elsewhere, shared with third parties who have no right to that information.
 
-If you do not wish to have session or persistent cookies stored on your machine, you can turn them off in your browser. However, this may affect the functioning of some **SEO Workers** Web sites.
+If you do not wish to have session or persistent cookies stored on your machine, you can turn them off in your browser. However, this may affect the functioning of some SEO Workers Web sites.
 
 ### Personal Information
 
-**SEO Workers** sometimes gathers personal information from its users, through such methods as the user completing a form or sending us an email
+SEO Workers sometimes gathers personal information from its users, through such methods as the user completing a form or sending us an e-mail
 
 If you choose to provide us with personal information, we will use that information only to respond to your message and to help us give you the information or services you have requested.
 
-Remember that email isn't necessarily secure. You should never send sensitive or personal information like your Social Security number or your Credit Card number in an email. Use postal mail or secure Web sites instead.
+Remember that e-mail isn't necessarily secure. You should never send sensitive or personal information like your Social Security number or your Credit Card number in an e-mail. Use postal mail or secure Web sites instead.
 
 Some of our Web sites ask visitors who request specific information to fill out a registration form.
 
-For example, vendors looking for marketing opportunities by visiting our **SEO Workers** Acquisition Internet Service site may be asked to register to obtain email notices of business opportunities.
+For example, vendors looking for marketing opportunities by visiting our SEO Workers Acquisition Internet Service site may be asked to register to obtain e-mail notices of business opportunities.
 
 Other information collected at Web sites through questionnaires, feedback forms, or other means, enables us to determine visitors' interests, with the goal of providing better service to our customers.
 
@@ -113,15 +109,15 @@ Verifiable consent from a child's parent or guardian is required before collecti
 
 We collect no information about you or your child, other than that detailed in the previous section, when you visit our web site unless you choose to provide information to us.
 
-When a **SEO Workers** Web site needs to collect information about a child under 13 years old, COPPA required information and instructions will be provided by the specific Web page that collects information about the child.
+When a SEO Workers Web site needs to collect information about a child under 13 years old, COPPA required information and instructions will be provided by the specific Web page that collects information about the child.
 
 The Web page will specify exactly what the information will be used for, who will see it, and how long it will be kept.
 
-There are several exceptions that permit collection of a child's email address without receiving parental consent in advance:
+There are several exceptions that permit collection of a child's e-mail address without receiving parental consent in advance:
 
 To provide the parents with notice and to seek consent for communications with the child.
 
-Note: this may require collection of the parent's email address as well.
+Note: this may require collection of the parent's e-mail address as well.
 
 To respond to a one time request from a child. To respond more than once to a child's request; i.e., subscription to a newsletter. However, parental consent is required prior to the second communication:
 
@@ -136,9 +132,9 @@ Personal information about your child will be destroyed immediately upon complet
 
 On rare occasions, it may be determined that a communication from a child under 13 years old should be maintained for historical purposes.
 
-Should such an occasion occur, **SEO Workers** will obtain the necessary consent from the child's parent.
+Should such an occasion occur, SEO Workers will obtain the necessary consent from the child's parent.
 
-Finally, we provide many on-line tools and services in support of **SEO Workers** 's mission.
+Finally, we provide many on-line tools and services in support of SEO Workers's mission.
 
 A child under 13 years old may inadvertently provide personal information to one of these services. If this should happen, the information about the child will be deleted immediately upon discovery.
 
@@ -146,12 +142,26 @@ A child under 13 years old may inadvertently provide personal information to one
 
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.
 
-You can send email to info@seoworkers.com .
+You can send e-mail to: [Reveal the e-mail address](http://mailhide.recaptcha.net/d?k=01oHQdJ7ZoW_n_mXTdlxd7Ag==&c=Z19NDeFCsQ_5S2jn0CH5DSuBCAl7Agq8aVgosJrO_6M=).
 
-You can send mail to the following postal address:   
-Koblenzer Str. 37A, D-33163 Bielfeld, Germany.
+You can send mail to the following postal address:
 
-You can call the following telephone number: (+49) 0521 - 325 99 97.
+**SEO Workers**   
+John S. Britsios, CTO   
+Will-Stoer Str. 4,   
+D-86159 Augsburg,   
+Germany.
+
+You can call one of the following telephone/fax numbers:
+
+**Germany:** +49-821-2594908   
+**United States:** : +1-217-4084510   
+**United Kingdom:** +44-20-81337065   
+**Australia:** +61-3-90160595
+
+**Facsimile (fax):** +49-821-2594908
+
+**Office Phone Hours:** Mo-Fri: 4pm-11pm [(CET)](http://timeanddate.com/worldclock/city.html?n=970 " \[Opens in pop-up window\]").
 
 ### Web Site Security Notice
 
@@ -159,23 +169,23 @@ For site security purposes and to ensure that this Web service remains available
 
 Anyone using this system expressly consents to such monitoring and is advised that if such monitoring reveals evidence of possible abuse or criminal activity, such evidence may be provided to appropriate law enforcement officials.
 
-Unauthorized attempts to upload or change information on **SEO Workers** servers are strictly prohibited and may be punishable by law.
+Unauthorized attempts to upload or change information on SEO Workers servers are strictly prohibited and may be punishable by law.
 
 ### Linking Policy and Disclaimer of Endorsement
 
-**SEO Workers** links to many Web sites created and maintained by other public and/or private organizations. **SEO Workers** provides links to these sites as a service to our users.
+SEO Workers links to many Web sites created and maintained by other public and/or private organizations. SEO Workers provides links to these sites as a service to our users.
 
-The presence of a link is not a **SEO Workers** endorsement of the site.
+The presence of a link is not a SEO Workers endorsement of the site.
 
-When users follow a link to an outside Web site, they are leaving **SEO Workers** and are subject to the privacy and security policies of the owners/sponsors of the outside Web site(s).
+When users follow a link to an outside Web site, they are leaving SEO Workers and are subject to the privacy and security policies of the owners/sponsors of the outside Web site(s).
 
-**SEO Workers** is not responsible for the information collection practices of non- **SEO Workers** sites.
+SEO Workers is not responsible for the information collection practices of non-SEO Workers sites.
 
 ### Warranty and Disclaimer
 
-**SEO Workers** web site, services and materials, are provided by **SEO Workers** under these terms of use "as is" without warranty of any kind, either express, implied, statutory or otherwise, including, but not limited to, the implied warranties of title, non-infringement, merchantability or fitness for a particular purpose.
+SEO Workers web site, services and materials, are provided by SEO Workers under these terms of use "as is" without warranty of any kind, either express, implied, statutory or otherwise, including, but not limited to, the implied warranties of title, non-infringement, merchantability or fitness for a particular purpose.
 
-Without limiting the foregoing, **SEO Workers** makes no warranty that
+Without limiting the foregoing, SEO Workers makes no warranty that
 
   1. the site, services or materials will meet your requirements;
   2. the site, services or materials will be uninterrupted, timely, secure, or error-free;
@@ -187,26 +197,28 @@ Without limiting the foregoing, **SEO Workers** makes no warranty that
 
 This site, services and materials may include technical or other mistakes, inaccuracies, or typographical errors.
 
-**SEO Workers** may make changes to the site, materials and services, including the prices and descriptions of any software or products listed, at any time in its sole discretion and without notice.
+SEO Workers may make changes to the site, materials and services, including the prices and descriptions of any software or products listed, at any time in its sole discretion and without notice.
 
-The site, materials and services may be out of date, and **SEO Workers** makes no commitment to update the site, materials and services.
+The site, materials and services may be out of date, and SEO Workers makes no commitment to update the site, materials and services.
 
 ### Reproduction of Articles and Tutorials
 
-**SEO Workers** retains full copyrights to all articles and tutorials published by them on this site.
+SEO Workers retains full copyrights to all articles and tutorials published by them on this site.
 
 These articles and tutorials may be reproduced on a web site, CD-ROM, e-zine, book, magazine, etc. so long as permission is first received from SEO Workers and the author's name is included in full.
 
 If the reproduction is by electronic media, a link back to this web site should be included.
 
-Please [contact SEO Workers](https://web.archive.org/web/20070518093021id_/http%3A//www.seoworkers.com/contact.html) for reproduction permission.
+Please [contact SEO Workers](https://web.archive.org/contact.html) for reproduction permission.
 
 ### SEO Workers Official for Privacy Related Matters
 
-John S. Britsios, Company Proprietor & Chief SEO Consultant
+John S. Britsios, CEO   
+Web Architect & Business Consultant
 
-**Contact:** (+49) 0521 - 325 99 97   
-**Email:** info@seoworkers.com
+**Telephone:** +49-821-2594908
+
+**E-mail:** [Reveal the e-mail address](http://mailhide.recaptcha.net/d?k=01oHQdJ7ZoW_n_mXTdlxd7Ag==&c=Z19NDeFCsQ_5S2jn0CH5DSuBCAl7Agq8aVgosJrO_6M=).
 
 **Date of publication:** October, 2006.
   *[CD]: Compact Disc
