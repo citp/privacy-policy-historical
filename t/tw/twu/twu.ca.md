@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the twu.ca privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205235931id_/http%3A//www.twu.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twu.ca privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225092649id_/http%3A//www.twu.ca/privacy) for the most accurate reproduction.*
 
-# Trinity Western University Website Privacy Notice
+# TWU Website Privacy
 
 **Last Updated:  Jan 04, 2006**
 
-**Also see:[TWU privacy policy](https://web.archive.org/policies/privacy.aspx)**
+ **Also see:[TWU privacy policy](https://web.archive.org/governance/policies/privacy.aspx)**
 
 ## Introduction
 
