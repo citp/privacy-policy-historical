@@ -1,71 +1,75 @@
-> *The following text is extracted and transformed from the syl.com privacy policy that was archived on 2007-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070202185350id_/http%3A//www.syl.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the syl.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225162505id_/http%3A//www.syl.com/privacy) for the most accurate reproduction.*
 
-# online dating service SearchYourLove
+# Free online dating service SearchYourLove
 
-  
-**SearchYourLove Privacy Statement**
+SYL.com is committed to protect the privacy rights of our users at all times. Any and all the information collected on this site will be kept with the utmost care and will not be used in ways that you have not consented to. If you have any questions, please feel free to call or email us. 
 
-THIS AGREEMENT WAS LAST UPDATED ON AUGUST 14TH 2001 SearchYourLove is firmly committed to privacy. The following discloses our information gathering and dissemination practices for this website. 
+## About Us
 
-The protection of your privacy being very important, we have adopted the following practices to safeguard the confidentiality of your personal information. We will notify all registered users via email of any change to this Privacy Statement, unless you have opted-out of receiving email from us. From time to time, changes to this Privacy Statement will also be communicated on this site. 
+SYL.com is a free social network for online communicating available to any person meeting age criteria. 
 
-**What information do you gather automatically from visitors?**
+## Required Information
 
-We use your IP address (the series of numbers associated with your individual computer) to help us maintain our site and identify problems with our server. Your IP address does not disclose any personally revealing information about you. 
+In the online registration form you are asked to provide certain personal information such as name, e-mail address, sex, date of birth, and location. You can also provide optional details about yourself. Your personal information is available to you at all times, and you can change, modify, update or delete it. 
 
-We do use cookies to identify traffic that comes through advertising and to facilitate a more user friendly experience. Cookies are small pieces of information that a web site places on your computer's hard drive so we know it's you when you visit. This helps us to create a personalized experience for you when you visit our site. The use of cookies is a very common practice on the Internet. If you are uncomfortable with this, you can disable all cookies through your browser settings. Your enjoyment of our site won't be affected if you have set your browser to reject cookies. 
+We require a valid e-mail address because we might need to use it for communication purposes. 
 
-**What information will you ask me for?**
+It is up to you to post additional information about yourself, name your occupation, education, beliefs, family information, marital status and children. 
 
-When you register to use any SearchYourLove service you will be asked for some general identifying information which will enable us to provide you with this individualized service. We gather contact information (like your email address), demographic information (like your city of residence or age). We may share some of this information for our own research purposes with our professional advisors or consultants and third party partners, however the information shared will be limited to non-personally identifying demographic information shared under cover of a confidentiality agreement. If you choose to become a Full Member, we collect financial information (like your credit card number and expiry date). We will only use this information in the course of providing our service to you. 
+You cannot post any personal contact information in your profile for whatever reason. 
 
-Once you have registered, you will be given the option of creating a pseudonymous profile (nickname and personal description) within any of our communities where your gender is applicable. Depending on which community you choose, you will be asked for some personal but non-identifying information to complete your profile (i.e. whether you have dependants, height, body type, race, religion, whether you smoke, etc). This information is not linked in any way to your personally identifiable information, for other members to see. Obviously, if you provide us with a photograph some of your information may become personally identifiable information. 
+We expressly state that we retain the right to cancel the accounts and delete profiles of the users who violate our terms and services and misuse our services. 
 
-**How will this information be used and who has access to it?**
+## IP Addresses and Cookies
 
-If you choose to have them sent to you, we may use your contact information to send you valuable updates and timely notices of promotions and mailbox status reports. Our site provides you with the opportunity to opt-in to receiving different types of communications from us at the point where we request registration information. You may modify this choice at any time by selecting "Preferences" from the member home page. 
+Certain information, such as your IP address, is automatically tracked by our servers while you are using our web site. 
 
-Your non-personally identifying demographic information is used to personalize your experience, allow other members to find you through a search, to compose your personal profile - which is associated with a pseudonymous identity you have created - and to deliver targeted advertising and promotional offers to you from external companies that are of the highest relevance to your demographic profile. Other than your mail box, your contact information is never available to other members or organizations. 
+A cookie is a piece of data stored on the user's computer tied to information about the user. We use session ID cookies. A session ID cookie simply terminates once a user closes the browser. Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies, once we have given permission for them to set cookies for advertising. 
 
-In the event that you decide to become a Full Member of SearchYourLove community, you will be asked for your financial information (like credit card number) which cannot be read by others when you initiate your order through a secured system. You will know you are in secure mode when the tiny padlock icon - located at the bottom of your browser - appears "locked." 
+## Use of Information
 
-The personally identifiable information we collect from you is used for internet review and to improve the content and functionality of our web server or customize the layout of our pages for each individual member. The specific information we collect is not shared with other organizations and we will never release your personally identifiable information to an external organization without your prior consent except for the purposes of validating credit information and collecting debts, or unless we reasonably believe we are required to do so by operation of law. 
+We use the information of our users for statistical purposes, analyze it in order to target our marketing efforts better, to process payments, to work on further improvement of our web site in order to better serve your online needs. Whatever purpose of the use is, it is most certainly ethical and lawful at all times. 
 
-**How long do you keep the information I've given you?**
+We may user your personal profile information in order to communicate with you by sending notifications that may be of interest to you and/or descriptions and promotions of our new services and offers. You can opt in or out for these notifications. 
 
-We keep the information you have given us for as long as you are a member on the site. 
+## Disclosure of Information
 
-**Can I change the information I have already given you?**
+We disclose the information to our affiliates, partners and subsidiary companies. We make all reasonable efforts to make sure that whatever we disclose the information for, it is used only for ethical and lawful purposes. 
 
-You can always verify or request the removal of the personally identifiable information we have collected and change your registration information by selecting "My Account" from the main menu on the site. 
+We expressly state that we retain the right to disclose your information if required by law when the disclosure is necessary to protect our rights. 
 
-Any such request may also be made by contacting the SearchYourLove Privacy Officer at the co-ordinates listed at the bottom of this page. 
+## Your Feedback
 
-**Do you monitor online behavior?**
+We greatly appreciate your feedback. It is very important for us to know what you think about our services, and we always try to take into account all suggestions and criticism. The words of appreciation that we receive from our users make our work worthwhile. We strongly encourage you send us your opinions regarding our services at all times, and we retain a right to publish them along with the name (or initials) and geographic location provided in the email, unless you ask us not to do so. If you do not wish your feedback to be published for any reason, please state so in your message. 
 
-Our members communicate with each other through instant messages and onsite mail. While we do not, as a rule, moderate or monitor members' private exchanges, we reserve the right to do so if we suspect users of being under 18 or of using our service for the purpose of solicitation or any other violation of our terms of use or Privacy Statement. Member submissions that appear on the public area of the site are moderated and, if necessary, we reserve the right to edit, delete, remove or not use any communication on a public area of the site. 
+## Your Consent
 
-Members may choose to participate in community polls. The results of these polls are tracked by gender only and do not reveal any personal identifiable information linked to the individual voters. 
+By using our site, you give us your permission to collect and use your personal information as stated in this Privacy Statement. 
 
-**Advertisers**
+## Age Requirements
 
-When you inquire about advertising opportunities on our site, you will be asked for contact information and information related to your advertising objectives. This information will be used to provide you with the business information you are seeking. Your information is only shared with internal staff and the external ad representation agencies that sell media space on the site, on our behalf. SearchYourLove sites may contain links to other sites not affiliated with SearchYourLove. Please note that these other sites may have privacy policies that differ from those of SearchYourLove. We have no control over any personal information that you provide to these sites. 
+We specifically state that our users should be at least 18 years of age. We do not encourage children or minors to use our services, we do not knowingly market our services to them and we take all reasonable efforts to prevent underage Internet users from using our web site services. 
 
-We may use third-party advertising companies to serve ads on our behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click here. 
+## Your Use of Information
 
-**Associates**
+You may not use the information about other users for any commercial purposes, for sending spam, for harassing them and making them treats of any kind. We cancel the accounts and delete the personal information of those who misuse the information about our users. 
 
-When you register to become an Associate of our site, you will be asked for contact information and information related to your site. Your information will only be used by internal staff and will never be shared with anyone external to the company other than our advisors and representatives without your consent, unless required to do so by operation of law. Your information will be used to secure your approval as an Associate, to facilitate communication between our two sites and to send you payment, based on your site's performance.
+## Your Unread Messages
 
-**Contacting us for privacy issues ONLY**
+We expressly state that if you do not log in and do not use our service for an extended period of time, we retain the right to send you a notification and/or delete the unread messages from our servers. 
 
-**Please note that this phone number will NOT connect you to a customer service representative.** 
+## Your Password
 
-Attn: Privacy Officer 
+We do not disclose your password, ever, to anyone, under any circumstances, and we assume no responsibility if, having lost control over your password, you allowed someone to change your personal information on your behalf or use your profile to access our services. 
 
-SearchYourLove  
-11 Magnolia Lodge, St Mary's Gate   
-Tel/Fax: 0207 937 4935  
-Toll Free: 1-888-265-1633   
-Email: privacy@syl.com   
-ALL OTHER ENQUIRIES SHOULD BE SENT TO help@syl.com
+## Changing Your Personal Information
+
+You can review and change your personal information at any time. 
+
+## Data Protection
+
+We take all reasonable efforts to prevent your information from loss, misuse and/or alteration and protect your confidentiality and privacy. We cannot guarantee 100% security of information, because nobody on the Internet can; however, we work every day to make sure that your data is secure and you use our services without being subjected to disclosure. 
+
+## This Privacy Statement
+
+We reserve the right to make changes to our privacy policy and this privacy statement at any time for whatever reason. We do not notify our users of any changes personally, so we encourage you to check the privacy statement from time to time. The significant changes to this privacy statement, if we ever make any, will be described on the home page of our web site. 
