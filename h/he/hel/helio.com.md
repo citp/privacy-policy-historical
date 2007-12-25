@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the helio.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623044948id_/http%3A//www.helio.com/page%3Fp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the helio.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225130809id_/http%3A//www.helio.com/page%3Fp%3Dprivacy) for the most accurate reproduction.*
 
 # Helio Privacy Policy | Helio.com - Mobile Devices, Phones, and Wireless Service for You
 
