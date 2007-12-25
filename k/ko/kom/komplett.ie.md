@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the komplett.ie privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624052909id_/http%3A//www.komplett.ie/k/k.asp%3Faction%3Dcustserv%26topic%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the komplett.ie privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225162016id_/http%3A//www.komplett.ie/k/k.aspx%3Faction%3Dcustserv%26topic%3Dprivacy) for the most accurate reproduction.*
 
 # Komplett.ie
-
-  
-  
----  
-| 
 
 [Shopping](https://web.archive.org/k/k.asp?action=custserv&topic=howto) | [Payment](https://web.archive.org/k/k.asp?action=custserv&topic=payment) | [Delivery](https://web.archive.org/k/k.asp?action=custserv&topic=shipping) | [What do we offer?](https://web.archive.org/k/k.asp?action=custserv&topic=offer) | **About us** | [Support & returns](https://web.archive.org/k/k.asp?action=custserv&topic=rma)
 
@@ -33,4 +28,4 @@ If you have any questions about this privacy policy, or the use of your personal
 
   
 
-* [Privacy of information PDF](https://web.archive.org/poster/privacy_ie.pdf)
+* [Privacy of information PDF](https://web.archive.org/mlf/pdf/14/privacy_ie.pdf)
