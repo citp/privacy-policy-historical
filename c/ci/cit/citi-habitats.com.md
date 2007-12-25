@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the citi-habitats.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624095830id_/http%3A//www.citi-habitats.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citi-habitats.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225231305id_/http%3A//www.citi-habitats.com/privacy.html) for the most accurate reproduction.*
 
-# Citi-Habitats Privacy Policy is designed to keep your information confidential
+# Citi Habitats Privacy Policy is designed to keep your information confidential
 
 **Citi Habitats**  
 **PRIVACY POLICY**
@@ -68,4 +68,4 @@ Headquarters: Phone 212.685.7777 - Fax 212.674.8501
 [Other Offices](https://web.archive.org/offices.php) | [Site Map](https://web.archive.org/sitemap.html)  
 [Fair Housing](https://web.archive.org/media/doc/NRTFairHousingPledge.doc) | [Privacy Policy](https://web.archive.org/privacy.html) | [Terms and Conditions of Use](https://web.archive.org/termsofuse.html)
 
-Owned and operated by NRT, Inc. 
+Owned and operated by NRT LLC. 
