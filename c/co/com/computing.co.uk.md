@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the computing.co.uk privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608153432id_/http%3A//www.computing.co.uk/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the computing.co.uk privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225175854id_/http%3A//www.computing.co.uk/about/privacy) for the most accurate reproduction.*
 
-# Computing.co.uk - About - Policy
+# Computing - About - Policy
 
 Introduction
 
