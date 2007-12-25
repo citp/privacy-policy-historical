@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the splitreason.com privacy policy that was archived on 2007-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070628081946id_/http%3A//www.splitreason.com/index.php%3Fdisplay%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the splitreason.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225131638id_/http%3A//www.splitreason.com/index.php%3Fdisplay%3Dprivacy) for the most accurate reproduction.*
 
 # SPLITREASON.COM - Gear for Geeks and Gamers
 
