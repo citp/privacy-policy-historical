@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the suddenlaunch3.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625194821id_/http%3A//www.suddenlaunch.com/Policies-Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suddenlaunch3.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225213138id_/http%3A//www.suddenlaunch.com/Policies-Privacy.html) for the most accurate reproduction.*
 
 # Sudden Launch - Because You Like Free Message Boards.
 
