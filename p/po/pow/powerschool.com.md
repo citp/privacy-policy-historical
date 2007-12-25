@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the powerschool.com privacy policy that was archived on 2007-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070621215126id_/http%3A//www.powerschool.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerschool.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225145401id_/http%3A//powerschool.com/privacy) for the most accurate reproduction.*
 
 # PowerSchool - Privacy Policy
 
@@ -34,4 +34,4 @@ This site may contain links to other websites on the Internet that are owned and
 
 ## CHANGES TO THIS PRIVACY POLICY
 
-We reserve the right to change the terms of this Privacy Policy from time to time by posting an updated Privacy Policy. We encourage you to review this Privacy Policy Statement periodically for any changes or updates.
+We reserve the right to change the terms of this Privacy Policy from time to time by posting an updated Privacy Policy. We encourage you to review this Privacy Policy Statement periodically for any changes or updates. 
