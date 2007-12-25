@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nikonians.org privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629085813id_/http%3A//www.nikonians.org/html/about/privacy_policies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nikonians.org privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225125614id_/http%3A//www.nikonians.org/html/about/privacy_policies.html) for the most accurate reproduction.*
 
 # Privacy policies at Nikonians
 
