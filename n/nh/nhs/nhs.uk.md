@@ -1,29 +1,35 @@
-> *The following text is extracted and transformed from the nhs.uk privacy policy that was archived on 2007-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070611075215id_/http%3A//www.nhs.uk/england/privacyStatement.cmsx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nhs.uk privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225130845id_/http%3A//www.nhs.uk/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy policy
 
-## Privacy Statement
+###  Your privacy on NHS Choices 
 
-This privacy statement discloses the privacy practices for [www.nhs.uk](http://www.nhs.uk/ "NHS England website"). It applies solely to this website; links within nhs.uk to other websites are not covered by this Privacy statement.
+[The Department of Health](http://www.dh.gov.uk/en/index.htm "The Department of Health") is the Data Controller for this website under the Data Protection Act 1998. We will process your data in accordance with the Data Protection Act. The purpose of the privacy policy is to inform you as a user of the site about what information we collect when you visit the site, how we use the information, whether the information is disclosed and the ways in which we protect users' privacy.
 
- **Information collection and use**
+We want you to feel secure when visiting the site. We are committed to respecting your privacy. Below we give an overview of how we do that.
 
-nhs.uk does not store or collect any personal information about site users. The system will record your email address and other information if volunteered to us by you. This information shall be treated as confidential. It may only be used for internal review and to contact you regarding any feedback. 
+###  Information we collect when you visit NHS Choices 
 
-**nhs.uk cookies**
+We collect information indirectly and directly.
 
-The nhs.uk website uses cookies. The Add to My Favourites feature allows you to store a list of your favourite nhs.uk pages to make it easier for you to access them in the future. After adding a link, the next time you visit nhs.uk, your favourite links can be found under My Favourites on the main menu.
+When you access [www.nhs.uk](https://web.archive.org/Pages/homepage.aspx "NHS Choices home page") we use technology to collect information indirectly such as your Internet address which is then kept in our Internet access logs.
 
-It does this by adding a cookie to your computer that stores these favourite links. 
+We collect information directly from you in a number of ways. One way is through the use of cookies. Cookies are small files of information which save and retrieve information about your visit to our site - for example, how you entered our site, how you navigated through the site, and what information was of interest to you. The cookies we use identify you merely as a number. (If you are uncomfortable regarding cookies use, please keep in mind you can disable cookies on your computer by changing the settings in preferences or options menu in your browser.) 
 
-A cookie is a small piece of data that a website transfers to the user's hard drive while they are visiting a particular website. It contains simple information about the user's identity but no personal information.
+We also collect information when you give it to us. For example you may wish to register to use the message posting facility called ['Your Thoughts'](https://web.archive.org/Commentspolicy/Pages/YourthoughtsFAQs.aspx "Your thoughts \(FAQs\)"). When we collect this type of information, we will notify you as to why we are asking for information and how this information will be used. It is completely up to you whether or not you want to provide it.
 
- **WebTrends cookies**
+###  How do we use this information? 
 
-Usage of the nhs.uk website is monitored through WebTrends. A WebTrends cookie is placed on to the user's hard drive when they visit nhs.uk. The cookie does not collect personal identifiable information such as name, age, phone number, e-mail address etc. This cookie is not removed when the browser is closed. This is because it is used to measure the number of users that return to the nhs.uk website. It is WebTrends' policy to use cookies only to collect anonymous visitor information like IP address, browser type (such as Internet Explorer or Netscape), referring pages, pages visited and time spent on the website in order to monitor traffic on the nhs.uk website. 
+We analyse it to see what is most effective about our site, to help us identify ways to improve it, and to make it more effective. We may also use data for other purposes, which we would describe to you at the point we collect the information.
 
-Refer to the WebTrends Privacy Policy to learn how they collect and use information. You can find [WebTrends Privacy Policy](http://www.webtrends.com/AboutWebTrends/PrivacyPolicy.aspx?promo=TI_silopriv_FT "WebTrends Live's Privacy Policy") here. 
+  **Will we disclose your information to or share it with other organisations?  
+** As a Government Department we do not share data with other organisations unless the law permits us to do so. We do not sell individual information. We will share it only with our authorised Data Processors who must act at all times on our instructions as the Data Controller under the Data Protection Act 1998.  Before you submit any information, we will notify you as to why we are asking for specific information and it is completely up to you whether or not you want to provide it. 
 
-**Notification of changes**
+###  We may give you access to your information 
 
-nhs.uk reserves the right to change the Privacy statement without notice. It is the responsibility of users to check this Privacy statement regularly. 
+You are entitled to know whether we hold information about you and, if we do, to have access to that information and require it to be corrected if it is inaccurate.  
+You can do this by contacting the Data Protection Officer, Department of Health, Skipton House, 80 London Road, London SE1 6LH.
+
+###  Your data is kept under secure conditions 
+
+We take appropriate steps to maintain the security of your data on our website.  You should understand that the open nature of the Internet is such that data may flow over networks without security measures and may be accessed and used by people other than those for whom the data is intended. Our intention is that this should not happen and we take measures to ensure that it does not. 
