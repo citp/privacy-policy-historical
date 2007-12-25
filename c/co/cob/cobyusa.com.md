@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cobyusa.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429211550id_/http%3A//www.cobyusa.com/_en/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cobyusa.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225110213id_/http%3A//www.cobyusa.com/_en/privacy.php) for the most accurate reproduction.*
 
 # 
 
 |  |    |  **PRIVACY POLICY**  
 ---|---  
-Your privacy is important to COBY. This statement discloses the information practices for COBY's Websites, including what type of information is gathered and tracked, how the information is used, and with whom the information is shared. **COBY reserves the right to modify this privacy policy at any time. In addition, you understand that your use of this Website is governed by Coby's** [Terms and Conditions](https://web.archive.org/web/20070429211550id_/http%3A//www.cobyusa.com/_en/terms.php). 
+Your privacy is important to COBY. This statement discloses the information practices for COBY's Websites, including what type of information is gathered and tracked, how the information is used, and with whom the information is shared. **COBY reserves the right to modify this privacy policy at any time. In addition, you understand that your use of this Website is governed by Coby's** [Terms and Conditions](https://web.archive.org/web/20071225110213id_/http%3A//www.cobyusa.com/_en/terms.php). 
 
 **Personal Information**
 
@@ -18,7 +18,7 @@ Any and all personal information collected by us is used for COBY's internal bus
 
 COBY Websites may employ "cookies" to store and sometimes track general, non-personal information about your visits (such as the type of browser you use, the files you request, the domain name, and the city, state and country from which you request information). Cookies, which will be stored in your computer's hard drive, allow COBY to determine the manner and number of internet visits to pages on its Websites, and are designed to help COBY improve its Websites to better meet your needs. If you prefer, most internet browsers can be configured to not accept cookies, or to notify you if a cookie is sent to you. 
 
-The COBY website may contain links to other internet sites. As is set forth in our [Terms and Conditions](https://web.archive.org/web/20070429211550id_/http%3A//www.cobyusa.com/_en/terms.php), we do not endorse or otherwise accept responsibility for the content or privacy policies of those sites. 
+The COBY website may contain links to other internet sites. As is set forth in our [Terms and Conditions](https://web.archive.org/web/20071225110213id_/http%3A//www.cobyusa.com/_en/terms.php), we do not endorse or otherwise accept responsibility for the content or privacy policies of those sites. 
 
 **Human Resource Related Information**
 
