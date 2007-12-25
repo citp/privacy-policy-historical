@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the greenville.k12.sc.us privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623042832id_/http%3A//www.greenville.k12.sc.us/district/web/policy/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenville.k12.sc.us privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225232251id_/http%3A//www.greenville.k12.sc.us/district/web/policy/privacy.asp) for the most accurate reproduction.*
 
 # GCS Privacy Policy
 
-Saturday, June 23, 2007 |  [](https://web.archive.org/district/web/policy/privacy.asp?print_view=true)  
+Tuesday, December 25, 2007 |  [](https://web.archive.org/district/web/policy/privacy.asp?print_view=true)  
 ---|---  
   
 [ Download Print Version  
-](https://web.archive.org/web/20070623042832id_/http%3A//www.greenville.k12.sc.us/district/web/policy/pdf/privacy.pdf)[](http://www.adobe.com/products/acrobat/readstep2.html)
+](https://web.archive.org/web/20071225232251id_/http%3A//www.greenville.k12.sc.us/district/web/policy/pdf/privacy.pdf)[](http://www.adobe.com/products/acrobat/readstep2.html)
 
 ##  Web Site Privacy
 
@@ -64,7 +64,7 @@ Greenville Schools Online may place a small text file, called a "cookie", in the
 
 ### Kids and Parents
 
-Portions of our site are intended for use by children. No one under age 13 is allowed to provide any personal information or use our public discussion areas or forums. Minors under the age of 18 are prohibited from registering on our sites. If you have questions or concerns about your child's online activities and/or privacy on our web site, contact the District at 241-3100.
+Portions of our site are intended for use by children. No one under age 13 is allowed to provide any personal information or use our public discussion areas or forums. Minors under the age of 18 are prohibited from registering on our sites. If you have questions or concerns about your child's online activities and/or privacy on our web site, contact the District at 355-3100.
 
 ### Log files
 
@@ -82,14 +82,11 @@ If you have comments, questions, or concerns about our privacy policy, or want t
 
   * Send email to [webmaster@greenville.k12.sc.us](mailto:webmaster@greenville.k12.sc.us)
   * Send postal mail to the following address: 
-    * 301 Camperdown Way  
-P.O. Box 2848  
+    * 100 Blassingame Road  
 Greenville, South Carolina  
-29602
-  * Call our INFOLine service at the following telephone number: 864-241-3100.
+29605
+  * Call our INFOLine service at the following telephone number: 864-355-3100.
 
 
 
-Updated on May 23, 2002
-
-[ Download Print Version](https://web.archive.org/web/20070623042832id_/http%3A//www.greenville.k12.sc.us/district/web/policy/pdf/privacy.pdf)
+[ Download Print Version](https://web.archive.org/web/20071225232251id_/http%3A//www.greenville.k12.sc.us/district/web/policy/pdf/privacy.pdf)
