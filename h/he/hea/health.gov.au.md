@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the health.gov.au privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623221452id_/http%3A//www.health.gov.au/internet/wcms/publishing.nsf/Content/privacy_security.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the health.gov.au privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225155619id_/http%3A//www.health.gov.au/internet/wcms/publishing.nsf/Content/privacy_security.htm) for the most accurate reproduction.*
 
-# Privacy and security
+# Department of Health and Ageing - Privacy and security
 
-Privacy and security information for users of the Department of Health and Ageing website. 
-
-* * *
+Privacy and security information for users of the Department of Health and Ageing website.
 
 ## Privacy Statement
 
@@ -67,6 +65,3 @@ Department of Health and Ageing
 MDP 62  
 GPO Box 9848  
 CANBERRA ACT 2601 
-
-**Page last modified: 30 August, 2005  
-**
