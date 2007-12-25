@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the server.lu privacy policy that was archived on 2007-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070630112054id_/http%3A//www.server.lu/about-privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the server.lu privacy policy that was archived on 2007-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071225234434id_/http%3A//www.server.lu/about-privacy) for the most accurate reproduction.-->
 
 <html><head><script language="Javascript">
 var IE = document.all?true:false;
@@ -23,17 +23,21 @@ function getMouseXY(e)
 		return true;
 	}
 
-function darkenPage()
+function darkenPage(page)
 {
+	if(typeof page=="undefined")
+	  	page = 'infobox';
+
 	document.body.scroll		=	"no";
 	document.getElementById('darker').style.visibility 	= 'visible';
 	document.getElementById('darker').style.width				= 3000;
 	document.getElementById('darker').style.height			= 2000;
-	document.getElementById('darker').style.top			= document.body.scrollTop;
+	document.getElementById('darker').style.top			= 0;
 	document.getElementById('darkinfobox').style.visibility = 'visible';
 	document.getElementById('darkinfobox').style.left = (document.body.offsetWidth/2)-225;
-	document.getElementById('darkinfobox').style.top = document.body.scrollTop+(document.body.offsetHeight/2)-150;
-	document.getElementById('darkinfoboxcontent').innerHTML = document.getElementById('infobox').innerHTML;
+	document.getElementById('darkinfobox').style.top = document.body.scrollTop+50;
+	//document.getElementById('darkinfobox').style.top = document.body.scrollTop+(document.body.offsetHeight/2)-250;
+	document.getElementById('darkinfoboxcontent').innerHTML = document.getElementById(page).innerHTML;
 }
 
 function undarkenPage()
@@ -67,11 +71,11 @@ document.onmousemove = getMouseXY;
 
 <div id="darker" onclick="undarkenPage()" style="position:absolute;top:0px;left:0px;visibility:hidden;background: url('images/semiopaque.png');z-index:2;">
 </div>
-<div id="darkinfobox" class="darkinfobox" onclick="undarkenPage()" style="position:absolute;width:450px;height:300px;visibility:hidden;background-color:#FFFFFF;z-index:3;">
+<div id="darkinfobox" class="darkinfobox" style="position:absolute;width:450px;visibility:hidden;background-color:#FFFFFF;z-index:3;">
 	<table height="300">
 		<tbody><tr>
 			<td align="right" height="16">
-				<img src="images/close.gif">
+				<img src="images/close.gif" onclick="undarkenPage()" style="cursor:pointer">
 			</td>
 		</tr>
 		<tr>
@@ -213,10 +217,11 @@ var actual = 0;
 				<a href="dedicated-ds4000">DServer DS4000</a><br>
 				<a href="dedicated-ds7000">DServer DS7000</a><br>
 				<a href="dedicated-ds9000">DServer DS9000</a><br>
+				<a href="dedicated-resale">Resale Prices</a><br>
 				<a href="dedicated-order">Order DServer</a><br>
 			</div>
 			<div id="dedicatedsize" style="display:none;height:0px;overflow:hidden;">
-				75
+				90
 			</div>
 		</td>
 	</tr>
@@ -280,7 +285,7 @@ var actual = 0;
 		</td>
 	</tr>					
 
-	<!--<tr>
+	<tr>
 		<td class="menumain" onclick="openSubmenu('support')" style="cursor:pointer;">
 			<img src="images/menumain.gif"> &nbsp;Support
 		</td>
@@ -288,15 +293,13 @@ var actual = 0;
 	<tr>
 		<td>
 			<div id="support" class="menusub" style="display:none;height:1px;overflow:hidden;">
-				<a href="support-general">General Support</a><br>
 				<a href="support-faq">FAQ</a><br>
-				<a href="support-wiki">Howtos</a><br>
 			</div>
 			<div id="supportsize" style="display:none;height:0px;overflow:hidden;">
-				50
+				20
 			</div>			
 		</td>
-	</tr>-->
+	</tr>
 
 	<tr>
 		<td class="menumain" onclick="openSubmenu('about')" style="cursor:pointer;">
@@ -306,9 +309,8 @@ var actual = 0;
 	<tr>
 		<td>
 			<div id="about" class="menusub" style="display: block; height: 70px; overflow: hidden;">
-				<a href="about-about">About</a><br>
-				<a href="about-support">Support</a><br>
-				<a href="about-tac">General Terms &amp; Conditions</a><br>
+				<a href="about-about">About Us</a><br>
+				<a href="about-tac">Terms And Conditions</a><br>
 				<a href="about-aup">Acceptable Use Policy</a><br>
 				<a href="about-privacy">Privacy Statement</a>
 			</div>
