@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sgadsonline.com privacy policy that was archived on 2007-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070614132326id_/http%3A//www.sgadsonline.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sgadsonline.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225083915id_/http%3A//www.sgadsonline.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Privacy Policy::Singapore Classified for jobs, personals, apartments, properties, cars, for sale, community, education, music and events
+# Privacy Policy::Singapore Classifieds for jobs, personals, apartments, properties, cars, for sale, community, education, music and events
 
 You must agree with our Terms of Use and Privacy Policy when accessing any services provided on this website. If you do not accept any of these terms, please discontinue your access to our site(s) and online service(s).
 
