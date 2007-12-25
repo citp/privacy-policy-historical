@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the realarticle.com privacy policy that was archived on 2007-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070219214651id_/http%3A//realarticle.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realarticle.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225132405id_/http%3A//realarticle.com/privacy.php) for the most accurate reproduction.*
 
-# RealArticle.com
+# Free Marketing Article Writing
 
 **RealArticle.com Privacy Policy**
 
@@ -68,8 +68,14 @@ This statement and the policies outlined herein are not intended to and do not c
 
 Welcome to RealArticle and the future of Internet Marketing Article Distribution! Sign up and begin submitting your articles today.
 
+[](http://www.snap.com/about/shots.php?source=www.snap.com&campaign=shot_badge!!shotsbadge3-120x30.gif)
+
+[ ](http://www.prchecker.info/)
+
 **[ ](http://www.mylinkguard.com/protect/?site=5218)**
 
 [](http://www.terichampigny.com/cgi-bin/x.cgi?a=r&id=200&aid=8435&p=13 "Internet Marketing tools & resources for just Seven Bucks - New Products each week!")
 
 **[ ](http://www.websitecontentwizard.com/wbctwz/?c=2123)**
+
+[ ](http://www.the7dollarmall.com/members/?mall=25330)
