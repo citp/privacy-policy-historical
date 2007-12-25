@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the purex.com privacy policy that was archived on 2007-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070619040207id_/http%3A//www.purex.com/index.cfm%3Fpage_id%3D236) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purex.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225195744id_/http%3A//www.purex.com/index.cfm%3Fpage_id%3D236) for the most accurate reproduction.*
 
 # Dial Corporation - Privacy Statement
 
