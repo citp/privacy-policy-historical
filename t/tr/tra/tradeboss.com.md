@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tradeboss.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627101258id_/http%3A//www.tradeboss.com/default.cgi/action/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradeboss.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225114000id_/http%3A//www.tradeboss.com/default.cgi/action/privacypolicy) for the most accurate reproduction.*
 
 # TradeBoss.com - B2B Marketplace, Import Export, Business Portal, FREE Business Website
 
