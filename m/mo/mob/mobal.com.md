@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobal.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213150513id_/http%3A//www.mobalrental.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobal.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225174048id_/http%3A//www.mobalrental.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Mobal Communications Inc - Privacy Policy
 
@@ -18,7 +18,7 @@ The Mobell Group collects customer information in order to provide the services 
 
 Identifiable Information – Identifiable information is only required from customers when they choose to enquire further about our services. By providing your name and email address/telephone number you are agreeing to allow The Mobell Group to contact you regarding your enquiry and any Mobell Group promotions in which you may be interested. 
 
-Non-identifiable Information – Some of The Mobell Group websites use “cookies”. These are small text files that are placed onto your hard drive when you visit the pages of our websites. By recording this information we can monitor how customers use our sites and thus identify areas to improve or develop. Also a cookie helps to tailor visits to our sites to your needs by remembering what services and products you expressed interests in. Most browsers contain information in their help functions on how to block cookies. If you decide to block cookies to your computer you might find that you are unable to make use of certain functions on the websites.
+Non-identifiable Information – Some of The Mobell Group websites use “cookies”. These are small text files that are placed onto your hard drive when you visit the pages of our websites. By recording this information we can monitor how customers use our sites and thus identify areas to improve or develop. Also a cookie helps to tailor visits to our sites to your needs by remembering what services and products you expressed interests in. Most browsers contain information in their help functions on how to block cookies. If you decide to block cookies to your computer you might find that you are unable to make use of certain functions on the websites. Mobalrental.com uses a third party service to monitor users individual browsing sessions.
 
 ### How we protect your information
 
