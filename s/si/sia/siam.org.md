@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the siam.org privacy policy that was archived on 2007-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070628174233id_/http%3A//www.siam.org/about/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siam.org privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225201421id_/http%3A//www.siam.org/about/privacypolicy.php) for the most accurate reproduction.*
 
 # SIAM: Privacy Policy
 
@@ -61,5 +61,3 @@ If you have any questions about this Privacy Policy, or if you would like to rev
 Society for Industrial and Applied Mathematics  
 3600 Market Street, 6th Floor  
 Philadelphia, PA 19104-2688.
-
-last updated 10/12/06
