@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grahamandgreen.co.uk privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623010924id_/http%3A//www.grahamandgreen.co.uk/static.aspx%3Fid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grahamandgreen.co.uk privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225090104id_/http%3A//www.grahamandgreen.co.uk/static.aspx%3Fid%3Dprivacy) for the most accurate reproduction.*
 
 # Press - Graham And Green
 
