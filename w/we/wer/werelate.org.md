@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the werelate.org privacy policy that was archived on 2007-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070223125359id_/http%3A//www.werelate.org/wiki/WeRelate%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the werelate.org privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225101418id_/http%3A//www.werelate.org/wiki/WeRelate%3APrivacy_policy) for the most accurate reproduction.*
 
 # WeRelate:Privacy policy - Genealogy
 
@@ -87,7 +87,7 @@ WeRelate policy does not permit public distribution of such information under an
 
 Except where otherwise specified, all text added to WeRelate projects is available for reuse under the terms of the GFDL. 
 
-WeRelate will not sell or share private information, such as email addresses, with third parties, unless you agree to release this information, or it is required by law to release the information. 
+The Foundation for On-Line Genealogy, Inc. will not sell or share private information, such as email addresses, with third parties, unless you agree to release this information, or it is required by law to release the information. 
 
 ## Security of information
 
@@ -95,11 +95,17 @@ The Foundation for On-Line Genealogy, Inc. makes no guarantee against unauthoriz
 
 ## E-mail
 
-You may provide your e-mail address in your Preferences and enable other logged-in users to send email to you through the wiki. Your address will not be revealed to them unless you respond, or possibly if the email bounces. The email address may be used by the Foundation for On-Ling Genealogy, Inc. to communicate with users on a wider scale. 
+You must provide your e-mail address in your Preferences. Your email address is used for the following purposes: 
 
-If you do not provide an email address, you will not be able to reset your password if you forget it. However, you may contact one of the WeRelate server administrators to enter a new mail address in your preferences. 
+  * To enable WeRelate to send you notifications when a page you are watching has been edited. 
+  * To enable WeRelate to send you a new password in case you forget it. 
+  * To enable you to send email through WeRelate to others; for example, to share links to pages or trees. Your email address will appear as the sender of the email. 
+  * To enable other logged-in users to send email to you through WeRelate. Your address will not be revealed to them unless you reply, or possibly if the email bounces. 
+  * The email address may be used by the Foundation for On-Line Genealogy, Inc. to communicate with users on a wider scale. Specifically, you will receive a periodic newsletter about WeRelate, which will include instructions for unsubscribing if you so desire. The newsletter is sent no more often than once a month. 
 
-You can remove your email address from your preferences at any time to prevent it being used. 
+
+
+As stated earlier, the Foundation for On-Line Genealogy, Inc. will not sell or share your email address with third parties unless you agree or it is required by law to release the information. 
 
 ## User Data
 
@@ -107,7 +113,7 @@ Data on users, such as the times at which they edited and the number of edits th
 
 ## Removal of User Accounts
 
-Once created, user accounts will not be removed. 
+Once created, user accounts will not be removed. It may be possible for a username to be changed. The Foundation for On-Line Genealogy, Inc. does not guarantee that a name will be changed on request. 
 
 ## Deletion of Content
 
