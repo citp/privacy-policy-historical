@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the astrolutely.com privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608181623id_/http%3A//www.astrolutely.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astrolutely.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225161214id_/http%3A//www.astrolutely.com/privacy.php) for the most accurate reproduction.*
 
-# Welcome To Penny Thornton's Astrolutely.com
+# Welcome To Penny Thornton's Astrolutely.com EU Server DE
 
 **Penny Thornton operates a very strict Privacy Policy for ALL visitors to her internet site.**
 
