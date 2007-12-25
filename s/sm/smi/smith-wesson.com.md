@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smith-wesson.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629123706id_/http%3A//www.smith-wesson.com/webapp/wcs/stores/servlet/CustomContentDisplay%3FlangId%3D-1%26storeId%3D10001%26catalogId%3D10001%26content%3D12006) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smith-wesson.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225223515id_/http%3A//www.smith-wesson.com/webapp/wcs/stores/servlet/CustomContentDisplay%3FlangId%3D-1%26storeId%3D10001%26catalogId%3D10001%26content%3D12006) for the most accurate reproduction.*
 
 # Privacy - Smith & Wesson
 
