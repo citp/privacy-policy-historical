@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redgoldfish.co.uk privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607214341id_/http%3A//www.redgoldfish.co.uk/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redgoldfish.co.uk privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225155000id_/http%3A//www.redgoldfish.co.uk/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
