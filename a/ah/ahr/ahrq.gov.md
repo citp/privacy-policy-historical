@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ahrq.gov privacy policy that was archived on 2007-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070519104454id_/http%3A//www.ahrq.gov/news/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ahrq.gov privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225033113id_/http%3A//www.ahrq.gov/news/privacy.htm) for the most accurate reproduction.*
 
 # Health Care: AHRQ Privacy Policy Notice
 
