@@ -1,6 +1,14 @@
-> *The following text is extracted and transformed from the thehorse.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630141320id_/http%3A//www.thehorse.com/ViewArticle.aspx%3FID%3D2545) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehorse.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225162553id_/http%3A//www.thehorse.com/ViewArticle.aspx%3FID%3D2545) for the most accurate reproduction.*
 
-# TheHorse.com: TheHorse.com Privacy Policy
+# The Horse: TheHorse.com Privacy Policy
+
+Horse Health News   
+Horse Welfare and Industry News
+
+Your Name:  
+  
+Email:  
+
 
 Thank you for visiting **TheHorse.com**. As a guest to our site, your privacy is important to us. Following are our online information practices and the way your information is collected and used at this site. 
 
@@ -44,7 +52,7 @@ When our registration/order forms ask users to enter sensitive information (such
 
 While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, a billing clerk or customer service representative) are granted access to personally identifiable information. In addition, the servers that we store personally identifiable information on are kept in a secure environment, in a locked cage. 
 
-If you have any questions about the security at our website, you can send an e-mail to [techhelp@hostmaster.com](mailto:techhelp@hostmaster.com). 
+If you have any questions about the security at our website, you can send an e-mail to [kbrown@thehorse.com](mailto:kbrown@thehorse.com?subject=TheHorse.com%20Privacy%20Policy). 
 
 **Supplementation of Information**
 
