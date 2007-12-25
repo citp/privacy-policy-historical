@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the worldusabilityday.org privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429102129id_/http%3A//worldusabilityday.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldusabilityday.org privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225224034id_/http%3A//www.worldusabilityday.org/privacy) for the most accurate reproduction.*
 
-# World Usability Day 2006
+# World Usability Day
 
 The Usability Professionals Association (UPA) have created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for the web site www.worldusabilityday.org.
 
