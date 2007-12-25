@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jumptags.com privacy policy that was archived on 2007-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070501105120id_/http%3A//www.jumptags.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jumptags.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225071154id_/http%3A//www.jumptags.com/privacy.cfm) for the most accurate reproduction.*
 
-# Jumptags.com beta
+# Jumptags.com
 
 The website under the URL [www.jumptags.com](http://www.jumptags.com/) and the services provided through the “Jumptags” service, software and tools are owned, operated and maintained by Cyberopsis Webdata Limited (“ _ **CW**_ ”). 
 
