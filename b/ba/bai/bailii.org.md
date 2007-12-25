@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bailii.org privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630122547id_/http%3A//www.bailii.org/bailii/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bailii.org privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225131212id_/http%3A//www.bailii.org/bailii/privacy.html) for the most accurate reproduction.*
 
 # BAILII - Privacy Policy
 
@@ -24,9 +24,9 @@ BAILII also monitors whether any robots attempt to index these databases in disr
 
 **BAILII reserves the right to exclude access to its databases by users or sites that are in apparent breach of any such legal requirements.**
 
-If you have any comments or suggestions in relation to this policy, please [send us some mail](https://web.archive.org/web/20070630122547id_/http%3A//www.bailii.org/bailii/feedback.html).
+If you have any comments or suggestions in relation to this policy, please [send us some mail](https://web.archive.org/web/20071225131212id_/http%3A//www.bailii.org/bailii/feedback.html).
 
 * * *
 
-**BAILII:** [Copyright Policy](https://web.archive.org/bailii/copyright.html) **|** [Disclaimers](https://web.archive.org/bailii/disclaimers.html) **|** [Privacy Policy](https://web.archive.org/bailii/privacy.html) **|** [Feedback](https://web.archive.org/bailii/feedback.html) **|** [Donate to BAILII](http://www.givenow.org/charitysearch/charitydetails.asp?ID=554118&PID=512038&SearchString=British+%26+Irish+Legal+Information+Institute&page=quick&orgname=British+%26+Irish+Legal+Information+Institute)   
+**BAILII:** [Copyright Policy](https://web.archive.org/bailii/copyright.html) **|** [Disclaimers](https://web.archive.org/bailii/disclaimers.html) **|** [Privacy Policy](https://web.archive.org/bailii/privacy.html) **|** [Feedback](https://web.archive.org/bailii/feedback.html) **|** [Sponsors](https://web.archive.org/bailii/support/sponsors.html) **|** [Donate to BAILII](http://www.cafonline.org/apps/Charities/BasicSearch.aspx?dsp_keywords=bailii&dsp_location=&dsp_exactmatch=False&searchtype=simple)   
 URL: _http://www.bailii.org/bailii/privacy.html_
