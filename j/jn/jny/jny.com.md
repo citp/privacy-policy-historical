@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jny.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617171315id_/http%3A//www.jny.com/privacy.jsp%3Fevent%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jny.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225202403id_/http%3A//www.jny.com/privacy.jsp%3Fevent%3Dprivacy) for the most accurate reproduction.*
 
 # Jones Apparel Group, Inc.
 
@@ -60,7 +60,7 @@ In keeping with the Children's Online Privacy Protection Act, JNY.com will never
 
 **Does JNY.com have links to other web sites?**
 
-There may be links on our website to the websites of others, including the websites of affiliates and brands of Jones Apparel Group. When you click onto one of these links, you are leaving Jones Apparel Group's JNY.com website and accessing another website. These other websites, if not the website of an affiliate or brand of Jones Apparel Group, are not under our control and may collect personal information from you. Our Privacy and Security Policy does not address the information, privacy and security practices or policies of any other website. For more information, please read our [copyright, trademark, and site usage policy](https://web.archive.org/web/20070617171315id_/http%3A//www.jny.com/tou.jsp?event=tou).
+There may be links on our website to the websites of others, including the websites of affiliates and brands of Jones Apparel Group. When you click onto one of these links, you are leaving Jones Apparel Group's JNY.com website and accessing another website. These other websites, if not the website of an affiliate or brand of Jones Apparel Group, are not under our control and may collect personal information from you. Our Privacy and Security Policy does not address the information, privacy and security practices or policies of any other website. For more information, please read our [copyright, trademark, and site usage policy](https://web.archive.org/web/20071225202403id_/http%3A//www.jny.com/tou.jsp?event=tou).
 
 Please send any concerns regarding our privacy policy to [legal@jny.com](mailto:legal@jny.com).
 
