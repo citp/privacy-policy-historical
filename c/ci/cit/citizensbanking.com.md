@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citizensbanking.com privacy policy that was archived on 2007-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070502052318id_/http%3A//www.citizensbanking.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citizensbanking.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225232636id_/http%3A//citizensbanking.com/privacyStatement.aspx%3Fid%3D598) for the most accurate reproduction.*
 
 # Citizens Bank: Privacy Statement
 
@@ -9,7 +9,6 @@
   * Citizens Bank Mortgage Company, LLC
   * F&M Bank-Iowa
   * F&M Insurance Services
-  * Republic Bank
 
 
 
@@ -45,21 +44,21 @@ We are very restrictive with your personal information. There are two primary re
 
 ### Citizens Republic Bancorp affiliates use information to work together to meet your financial needs.
 
-Affiliates are financial service companies that are part of the Citizens Republic Bancorp family through common ownership or control, and are listed at the beginning of this statement. Our affiliates share nonpublic personal information internally among ourselves so that we can serve you more efficiently, offer you new services such as mortgages, insurance and investments, and reduce the amount of information you need to furnish every time you deal with us. 
+Affiliates are financial service companies that are part of the Citizens Republic Bancorp family through common ownership or control, and are listed at the beginning of this statement. Our affiliates share nonpublic personal information internally among ourselves so that we can serve you more efficiently, offer you new services such as mortgages, insurance and investments, and reduce the amount of information you need to furnish every time you deal with us.
 
 We are permitted by law to share with our affiliates information about your transactions or experiences with us. For example, we are permitted to share information about your account history, account balance and payment history. We do not share any other information such as income or credit history with our affiliates.
 
 ### We provide information to select outside companies in order to service your accounts or help us introduce new services to you.
 
-We share nonpublic personal information, as described above, with nonaffiliated third parties who provide support services for us such as contract programming or check printing services, as well as selected financial services companies who provide special offers to our clients under joint marketing agreements with us. 
+We share nonpublic personal information, as described above, with nonaffiliated third parties who provide support services for us such as contract programming or check printing services, as well as selected financial services companies who provide special offers to our clients under joint marketing agreements with us.
 
-This enables us to provide quality service to you and offer you additional financial services that may be of value to you. These arrangements are subject to strict standards of confidentiality and security. The information we provide is limited to that which we reasonably believe they “need to know” to provide their contracted services. 
+This enables us to provide quality service to you and offer you additional financial services that may be of value to you. These arrangements are subject to strict standards of confidentiality and security. The information we provide is limited to that which we reasonably believe they “need to know” to provide their contracted services.
 
 In addition, we may disclose your nonpublic personal information, as described above, to third parties as permitted by law. For example, we might be required to disclose information about you in response to a subpoena or to a credit bureau or under certain federal or state laws. Or we may provide information to others with your consent, for example, to complete a transaction that you have initiated.
 
 ### We vigilantly protect the security and confidentiality of client information.
 
-We have implemented procedures and guidelines to safeguard the privacy of your nonpublic personal information from unauthorized use or improper access. We will continue to enhance our security procedures as new technologies become available. In addition, we restrict access to information about you to those staff members who have a business need to know that information in order to provide financial services to you. Our staff members are governed by a code of conduct and are educated about our privacy policies, and about the importance of maintaining the confidentiality of client information. 
+We have implemented procedures and guidelines to safeguard the privacy of your nonpublic personal information from unauthorized use or improper access. We will continue to enhance our security procedures as new technologies become available. In addition, we restrict access to information about you to those staff members who have a business need to know that information in order to provide financial services to you. Our staff members are governed by a code of conduct and are educated about our privacy policies, and about the importance of maintaining the confidentiality of client information.
 
 ### At Citizens we take a number of additional steps to protect the privacy of your information:
 
@@ -75,4 +74,4 @@ This policy is designed to comply with the privacy provisions in Title V of the 
 
 In addition, as we establish new affiliates in the future, these privacy standards will apply as well.
 
-Citizens Republic Bancorp © 2007 GLB
+Citizens Republic Bancorp © 2007 GLB
