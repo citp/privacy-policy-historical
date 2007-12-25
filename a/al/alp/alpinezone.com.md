@@ -1,103 +1,104 @@
-> *The following text is extracted and transformed from the alpinezone.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629060122id_/http%3A//www.alpinezone.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alpinezone.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225214751id_/http%3A//www.alpinezone.com/privacy.htm) for the most accurate reproduction.*
 
-# AlpineZone.com Privacy Policy
+# AlpineZone.com Disclaimer and Terms of Use
 
 |  | 
 
 **[ Latest Headlines](http://news.alpinezone.com/) **[](http://rss.alpinezone.com/news.php)  
   
 ---  
- [Killington Resort Announces 2007-08 Ski and Snowboard Season Pass Products, Prices...](http://news.alpinezone.com/16890/)  
-   2:01 PM \- Jun 18, 2007   
+ [Loon Mountain Opens South Peak, New England's Newest Ski Terrain...](http://news.alpinezone.com/21662/)  
+   9:29 PM \- Dec 20, 2007   
   
- [Jiminy Peak Names Its Turbine Zephyr...](http://news.alpinezone.com/16861/)  
-    1:45 PM \- Jun 14, 2007   
+ [Snowshoe Mountain to Debut First of Three New Trails...](http://news.alpinezone.com/21661/)  
+    9:28 PM \- Dec 20, 2007   
   
- [Mad River Glen Joins Jay Peak &amp; Bolton Valley Offering Affordable Student Passes...](http://news.alpinezone.com/16857/)  
-    7:34 PM \- Jun 13, 2007   
+ [Ski for Free at Oak Mountain Ski Center on December 26-28...](http://news.alpinezone.com/21660/)  
+    9:27 PM \- Dec 20, 2007   
   
- [Pats Peak Ski Area To Host 6th Annual Mountain Bike Festival...](http://news.alpinezone.com/16851/)  
-    1:07 PM \- Jun 13, 2007   
+ [It's Going to Be a White Christmas at Snowshoe...](http://news.alpinezone.com/21659/)  
+    9:27 PM \- Dec 20, 2007   
   
- [Family BBQ, Fireworks and Concerts Headline 4th of July Weekend at Waterville Valley...](http://news.alpinezone.com/16839/)  
-    2:21 PM \- Jun 11, 2007   
+ [Sugarloaf to Welcome G. Love and Special Sauce...](http://news.alpinezone.com/21658/)  
+    9:26 PM \- Dec 20, 2007   
   
- [Loon Mountain Opens for Summer Adventure Friday, June 15...](http://news.alpinezone.com/16838/)  
-    2:19 PM \- Jun 11, 2007   
+ [Pay-One-Price Program on Saturday Nights Returns to Pats Peak...](http://news.alpinezone.com/21657/)  
+    9:26 PM \- Dec 20, 2007   
   
- [International Ski and Ride Events Return to Whiteface / Lake Placid...](http://news.alpinezone.com/16837/)  
-    2:18 PM \- Jun 11, 2007   
+ [Vermont Tops 8 Year Open Trail Tally...](http://news.alpinezone.com/21542/)  
+    9:23 AM \- Dec 18, 2007   
   
- [Vermont Ski Areas Association Announces Skier Visits and Awards at Annual Meeting...](http://news.alpinezone.com/16803/)  
-    1:39 PM \- Jun 7, 2007   
+ [Belleayre Mountain Offering $25 Christmas Lift Tickets to Holiday Skiers...](http://news.alpinezone.com/21541/)  
+    9:22 AM \- Dec 18, 2007   
   
- [American Skiing Company Announces Sale of Sunday River and Sugarloaf Resorts...](http://news.alpinezone.com/16773/)  
-    8:26 PM \- Jun 5, 2007   
+ [Rustic Overtones Kicks off the Bud Light Concert Series at Sunday River'...](http://news.alpinezone.com/21540/)  
+    9:22 AM \- Dec 18, 2007   
   
- [Peak Resorts Announces New Management at Attitash...](http://news.alpinezone.com/16739/)  
-    10:42 AM \- Jun 4, 2007   
+ [Okemo Re-energizes Wind Power Commitment...](http://news.alpinezone.com/21539/)  
+    9:21 AM \- Dec 18, 2007   
   
   
   
 **[ Recent Discussions](http://forums.alpinezone.com/) **[](http://rss.alpinezone.com/forums.php)  
   
 ---  
- [Female Climber neede...](http://forums.alpinezone.com/showthread.php?t=16994&goto=newpost)  
-   1:07 AM \- Jun 29, 2007   
-    by climbingforspinabifida  
+ [Quality Time...](http://forums.alpinezone.com/showthread.php?t=21833&goto=newpost)  
+   4:03 PM \- Dec 25, 2007   
+    by ckofer  
   
   
- [I want a Stowe pass....](http://forums.alpinezone.com/showthread.php?t=16993&goto=newpost)  
-    11:35 PM \- Jun 28, 2007   
-    by awf170  
-  
-  
- [Sugarbush AlpineZone...](http://forums.alpinezone.com/showthread.php?t=16986&goto=newpost)  
-    10:41 PM \- Jun 27, 2007   
-    by win  
-  
-  
- [FS: Asolo 520 Men's...](http://forums.alpinezone.com/showthread.php?t=16991&goto=newpost)  
-    9:17 PM \- Jun 28, 2007   
-    by thetrailboss  
-  
-  
- [Need advice: Preside...](http://forums.alpinezone.com/showthread.php?t=16938&goto=newpost)  
-    7:08 PM \- Jun 23, 2007   
-    by MAD777  
-  
-  
- [What Lifts Have You...](http://forums.alpinezone.com/showthread.php?t=16978&goto=newpost)  
-    7:24 PM \- Jun 27, 2007   
-    by Zand  
-  
-  
- [Vermont Life Winter...](http://forums.alpinezone.com/showthread.php?t=16992&goto=newpost)  
-    10:21 PM \- Jun 28, 2007   
-    by thetrailboss  
-  
-  
- [Who wants to buy a s...](http://forums.alpinezone.com/showthread.php?t=16912&goto=newpost)  
-    10:17 AM \- Jun 21, 2007   
-    by nycskier  
-  
-  
- [Vermont Life Photos...](http://forums.alpinezone.com/showthread.php?t=16981&goto=newpost)  
-    9:09 PM \- Jun 27, 2007   
-    by thetrailboss  
-  
-  
- [bvibert: 6K+...](http://forums.alpinezone.com/showthread.php?t=16988&goto=newpost)  
-    1:30 PM \- Jun 28, 2007   
+ [Word Association Thr...](http://forums.alpinezone.com/showthread.php?t=8966&goto=newpost)  
+    3:13 PM \- Jun 22, 2006   
     by Greg  
+  
+  
+ [Rats in Your Toilet...](http://forums.alpinezone.com/showthread.php?t=21827&goto=newpost)  
+    11:40 AM \- Dec 25, 2007   
+    by andyzee  
+  
+  
+ [Let the holiday sale...](http://forums.alpinezone.com/showthread.php?t=21832&goto=newpost)  
+    3:25 PM \- Dec 25, 2007   
+    by ckofer  
+  
+  
+ [best place for wed s...](http://forums.alpinezone.com/showthread.php?t=21798&goto=newpost)  
+    12:04 PM \- Dec 24, 2007   
+    by freebie  
+  
+  
+ [Sugarloaf end of the...](http://forums.alpinezone.com/showthread.php?t=21829&goto=newpost)  
+    2:02 PM \- Dec 25, 2007   
+    by celts33  
+  
+  
+ [I miss NH...](http://forums.alpinezone.com/showthread.php?t=21774&goto=newpost)  
+    9:32 PM \- Dec 23, 2007   
+    by Goblin84  
+  
+  
+ [Merry Christmas!...](http://forums.alpinezone.com/showthread.php?t=21779&goto=newpost)  
+    11:26 PM \- Dec 23, 2007   
+    by billski  
+  
+  
+ [Mt.Snow 12/23/07...](http://forums.alpinezone.com/showthread.php?t=21792&goto=newpost)  
+    10:38 AM \- Dec 24, 2007   
+    by kingslug  
+  
+  
+ [Good Soundtrack for...](http://forums.alpinezone.com/showthread.php?t=21497&goto=newpost)  
+    2:26 PM \- Dec 17, 2007   
+    by MRGisevil  
   
   
    
 | 
 
-  
-[Home](http://www.alpinezone.com/)  > **AlpineZone.com Privacy Policy**
+**  
+**[ Home](http://www.alpinezone.com/)  > **AlpineZone.com Privacy Policy**
 
+  
 **Introduction:**  
 We are committed to protecting your privacy at AlpineZone.com. We will not collect any personal information from you that you do not volunteer, and we are the sole owner of all information collected on this site. We do not sell, share, or rent this information to others in any way that we have not mentioned in this statement. For more information, please click one of the links below:
 
