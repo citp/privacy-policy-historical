@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stylusstudio.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617022348id_/http%3A//www.stylusstudio.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stylusstudio.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225130955id_/http%3A//www.stylusstudio.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -85,21 +85,21 @@ If you would like to correct and/or update your information, please [contact us]
 
 [Prev: **"XML Industry News"**](https://web.archive.org/xml_industry_news.html "XML Industry News") [Next: **"Stylus Studio 2007 EULA"**](https://web.archive.org/eula.html "Stylus Studio 2007 End User Product License Agreement")
 
-### [Microsoft XML Tools for MSXML 3.0, MSXML 4.0 and MSXML 6.0](http://www.stylusstudio.com/microsoft/msxml.html)
+### [XML-DEV Blog](http://www.stylusstudio.com/blogs/xmldev/)
 
-MSXML tools in Stylus Studio feature integrated XML validation, XSLT transformation and XSLT debugging using the Microsoft's COM-based XML processing components: MSXML 3.0, MSXML 4.0 and MSXML 6.0
+Join the XML Development discussion at XML-Dev - the hottest place to talk about XML technologies, trends, systems architecture and all the latest buzz. Bookmark this RSS and ATOM feed now!
 
-### [Translating X12 Documents to XML](http://www.stylusstudio.com/edi/X12_translate.html)
+### [EDIFACT Sample Converted to XML](http://www.stylusstudio.com/edi/EDIFACT_example.html)
 
-The X12 to XML Converter is a built-in function of the adapter library. The XML that is generated is well commented and indented, and can be used anywhere XML is normally used — with XML Schemas, XSLT, XQuery, etc.
+A sample EDIFACT document before and after conversion to XML, showing markup and full automatically-generated internal documentation.
 
-### [Mapforce - The Unfortunate Users of Altova Mapforce](http://www.stylusstudio.com/mapforce.html)
+### [Convert DTD to XML](http://www.stylusstudio.com/dtd/dtd_to_xml.html)
 
-Read what the XML developer community has to say about Altova Mapforce.
+Learn how to create a sample XML instance document from a DTD using Stylus Studio DTD to XML conversion tools.
 
-### [FLWOR - An Introduction to the XQuery FLWOR Expression](http://www.stylusstudio.com/xquery_flwor.html)
+### [EDI Mapping](http://www.stylusstudio.com/edi/edi_tools.html)
 
-An XQuery FLWOR Tutorial, covering an introduction to the main constructs of the XQuery FLWOR expression, including: For, Let, Where, Order By, and Return. Written by the W3C's Dr. Michael Kay.
+To transform EDI to XML, whether for X12 or EDIFACT, Stylus Studio provides the design tools and run-time support. EDIFACT, X12 and custom EDI formats can be translated, validated and mapped using the EDI Mapping adapter technology described here.
 
 #### [Stylus Most Wanted](https://web.archive.org/advertise.html "Advertise with Stylus Studio")
 
