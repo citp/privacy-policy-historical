@@ -1,18 +1,6 @@
-> *The following text is extracted and transformed from the electronics-expo.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626104209id_/http%3A//www.electronics-expo.com/make-a-store/static/privacy_policy/1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the electronics-expo.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225195526id_/http%3A//www.electronics-expo.com/make-a-store/static/privacy_policy/1.html) for the most accurate reproduction.*
 
 # Electronics-Expo.com
-
-Excellent service. 
-
-I recently purchased the Mitsubishi WD-65731 from this site after doing extensive research. Not only did they have the best price for the Mitsubishi I wanted, they were also very courteous and efficient in dealing with me. I'm currently deployed to Iraq and was trying to coordinate the delivery back to my home location. I was given an approximate day it would arrive and they were dead on. Thanks for the wonderful service and I look forward to doing business with you again!!!!
-
-###### sahpec29
-
-[Read more testimonials](http://www.electronics-expo.com/make-a-store/static/client_testimonials/1.html)
-
-| 
-
-[](http://www.electronics-expo.com/make-a-store/static/authorized_dealer/1.html)
 
 ## Electronics Expo On-Line Privacy Policy
 
