@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the devere.co.uk privacy policy that was archived on 2007-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070506183911id_/http%3A//www.devere.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the devere.co.uk privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226005643id_/http%3A//www.devere.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # De Vere privacy policy
 
