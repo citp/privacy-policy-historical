@@ -1,19 +1,22 @@
-> *The following text is extracted and transformed from the thelotter.com privacy policy that was archived on 2007-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070202194157id_/http%3A//www.thelotter.com/Content.aspx%3FContentId%3D40) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelotter.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225231817id_/http%3A//www.thelotter.com/Content.aspx%3FContentId%3D40) for the most accurate reproduction.*
 
 # theLotter – Online Lottery Tickets & Lottery Results.
 
-**th eLotter.com** is a licensee of the **TRUSTe** Privacy Program. This privacy statement discloses the privacy practices for [**_theLotter.com_**](https://web.archive.org/web/20070202194157id_/http%3A//www.thelotter.com/Default.aspx) _._  
+**th eLotter.com** is a licensee of the **TRUSTe** Privacy Program. This privacy statement discloses the privacy practices for [**_theLotter.com_**](https://web.archive.org/web/20071225231817id_/http%3A//www.thelotter.com/Default.aspx) _._  
  **TRUSTe** is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by **TRUSTe**. 
 
-By displaying the **TRUSTe** trustmark, this web site has agreed to notify you of:  
-  1. What personally identifiable information of yours or third party personally identification is collected from you through the web site   
-  2. The organization collecting the information   
-  3. How the information is used   
-  4. With whom the information may be shared   
-  5. What choices are available to you regarding collection, use and distribution of the information   
-  6. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under   
-      theLotter.com control   
-  7. How you can correct any inaccuracies in the information.
+By displaying the TRUSTe trustmark, this web site has agreed to notify you of:
+
+  1\. What personally identifiable information of yours or third party personally  
+      identification is collected from you through the web site   
+  2\. The organization collecting the information   
+  3\. How the information is used   
+  4\. With whom the information may be shared   
+  5\. What choices are available to you regarding collection, use and distribution of  
+      the information   
+  6\. The kind of security procedures that are in place to protect the loss, misuse or  
+      alteration of information under theLotter.com control   
+  7\. How you can correct any inaccuracies in the information.
 
   
 If you feel that this company is not abiding by its posted privacy policy, you should first contact our Customer Service Department by E-mail to [ _service@thelotter.com_](mailto:service@thelotter.com)  .  
