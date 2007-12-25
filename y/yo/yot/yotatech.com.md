@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yotatech.com privacy policy that was archived on 2007-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070528204717id_/http%3A//www.yotatech.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yotatech.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225143656id_/http%3A//www.yotatech.com/privacy.php) for the most accurate reproduction.*
 
 # YotaTech Forums
 
@@ -62,7 +62,7 @@ _What else should I know about my privacy?_
   
 **If you have any further questions, please feel free to contact any[ _staff member_](http://www.yotatech.com/showgroups.php).**  
   
-All times are GMT -6. The time now is 02:47 PM.
+All times are GMT -8. The time now is 06:36 AM.
 
   
 
