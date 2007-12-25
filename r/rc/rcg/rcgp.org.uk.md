@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rcgp.org.uk privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617153347id_/http%3A//www.rcgp.org.uk/default.aspx%3Fpage%3D3893) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rcgp.org.uk privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225232801id_/http%3A//www.rcgp.org.uk/systempages/privacy_policy.aspx) for the most accurate reproduction.*
 
-# RCGP UK - Privacy Policy
+# Royal College of General Practitioners - Privacy Policy
 
 The Royal College of General Practitioners website does not collect or store personal information about individuals, except where you choose to give us information, either  via online ordering, the membership application process, or in online forms or emails you may send to the College. On the website, membership application data or that gathered by forms or emails is used solely for the purpose of the members’ login.
 
