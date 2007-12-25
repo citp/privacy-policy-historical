@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articles411.com privacy policy that was archived on 2007-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070408213048id_/http%3A//articles411.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articles411.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225224742id_/http%3A//articles411.com/privacy.php) for the most accurate reproduction.*
 
 # www.articles411.com
 
@@ -36,12 +36,10 @@ This policy and the use of this Site are governed by Washington law. If a disput
 If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: Ada, under the rules of the American Arbitration Association. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so.  
 This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party. 
 
-|  [ ](http://www.create-an-income.com/tools/jvspawner/?a_aid=ca473ad9&a_bid=0266a2ac)
-
-[ ](http://www.create-an-income.com/tools/jvspawner/?a_aid=ca473ad9&a_bid=0266a2ac)
+| 
 
 **Special Software Package! Cool and Useful Tools**
 
- **[ ](http://www.articles411.com/original/original-software.html "Lauries Legends Software, Easily")**
+ **[ ](http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&rd=1&item=260196542021&ss "Lauries Legends Software, Easily")**
 
 ****
