@@ -1,55 +1,107 @@
-> *The following text is extracted and transformed from the anntaylorloft.com privacy policy that was archived on 2000-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001203132000id_/http%3A//www.greatdomains.com/support/prvstatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anntaylorloft.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225070409id_/http%3A//www.anntaylorloft.com/custserv/custserv.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.*
 
-# GreatDomains.com - The Internet's #1 Domain Name, Website, and Internet-based business brokerage service.
+# Ann Taylor LOFT : Privacy and Security
 
-PRIVACY POLICY
+|  |   
+---|---  
+|  [](http://www.anntaylorloft.com/catalog/department.jsp?N=1200002&categoryId=199)  
+|  [](http://www.anntaylorloft.com/catalog/department.jsp?N=1200018&categoryId=217)  
+|  [](http://www.anntaylorloft.com/catalog/department.jsp?N=1200121&categoryId=619)  
+|  [](http://www.anntaylorloft.com/catalog/department.jsp?N=1200033&categoryId=231)  
+|  [](http://www.anntaylorloft.com/catalog/department.jsp?N=1200047&categoryId=245)  
+|  [](http://www.anntaylorloft.com/catalog/department.jsp?N=1200051&categoryId=249)  
+|  [](http://www.anntaylorloft.com/catalog/department.jsp?N=1200052&categoryId=269)  
+|  [](http://www.anntaylorloft.com/catalog/department_sale.jsp?Nr=AND\(CAT_SALE_FLAG:Y\)&N=1200054&categoryId=270)  
+| [](https://web.archive.org/catalog/editorial.jsp?pageName=Teachers)  
+  
+[](https://web.archive.org/custserv/custserv.jsp?pageName=FAQ)[](https://web.archive.org/custserv/custserv.jsp?pageName=Return)[](https://web.archive.org/custserv/custserv.jsp?pageName=Terms)[](https://web.archive.org/custserv/custserv.jsp?pageName=Privacy)[](https://web.archive.org/custserv/custserv.jsp?pageName=ATCard)[](https://web.archive.org/custserv/contactus.jsp)
 
-This Policy was last revised on May 1, 2000.
+Ann Taylor LOFT values the trust you have placed in us. As part of our relationship, we recognize and respect your privacy. That is why Ann Taylor LOFT is committed to protecting your privacy and using the information you share with us responsibly. 
 
-**GreatDomains.com, Inc. (“GreatDomains.com”) is committed to safeguarding your privacy online. GreatDomains.com takes this commitment very seriously. We will not give, sell or otherwise share any of your personal information with any third party without your approval. Please read the following policy to understand how your personal information will be treated.**
+Our Privacy & Security Statement describes the information we collect about you, as well as why and how we use it. We also explain the choices you can make about how we collect and use your information. 
 
-**How Your Information Is Gathered**
+**Frequently Asked Questions**   
+[What information is collected?](https://web.archive.org/custserv/custserv.jsp?pageName=Privacy#q1)  
+[How is my information used?](https://web.archive.org/custserv/custserv.jsp?pageName=Privacy#q2)  
+[Will my information be shared?](https://web.archive.org/custserv/custserv.jsp?pageName=Privacy#q3)  
+[How do I access or change my information?](https://web.archive.org/custserv/custserv.jsp?pageName=Privacy#q4)  
+[How do I remove my information?](https://web.archive.org/custserv/custserv.jsp?pageName=Privacy#q5)  
+[What are cookies? Does anntaylorLOFT.com use cookies?](https://web.archive.org/custserv/custserv.jsp?pageName=Privacy#q6)  
+[How does anntaylorLOFT.com make sure my order information is secure?](https://web.archive.org/custserv/custserv.jsp?pageName=Privacy#q7)  
+[Does anntaylorLOFT.com link to other sites?](https://web.archive.org/custserv/custserv.jsp?pageName=Privacy#q8)  
+[How does anntaylorLOFT.com protect children's privacy?](https://web.archive.org/custserv/custserv.jsp?pageName=Privacy#q9)  
+[What if there are changes to this Statement or if I have other questions?](https://web.archive.org/custserv/custserv.jsp?pageName=Privacy#q10)
 
-GreatDomains.com collects information in several manners. We use your IP address to help diagnose problems with our server, and to administer our Web site. When registering for GreatDomains.com’s services, the registration form requires you to give us contact information, such as your name, address, e-mail address,unique identifiers, and demographic information. In the course of using our site, we automatically track additional information, such as the URL that you just came from, which URL you go to next, and what browser you were using. Information of this sort is typically collected automatically by many sites. 
+ **What Information Is Collected?**   
+We collect information from you that you provide when you login, join our mailing list, register with us, place an order, or participate in a contest, promotion or survey. Categories of information collected include your name, e-mail address, postal address, phone number and credit card number. In addition, we may maintain a record of your purchases from anntaylorLOFT.com and from our stores. We may also acquire names and mailing addresses for select mailings from third parties. On occasion, we may combine information you provide with other demographic information available to us. 
 
-In addition, GreatDomains.com uses cookies for certain pages of our site. The use of cookies streamlines your use of and access to our Web site. Among other reasons, cookies allow you to enter your password less frequently during a session and enable us to provide information that is targeted to your interest. A cookie is a small amount of data that is sent to your computer from our Web site and is stored on your computer’s hard drive. Many cookies are “session cookies” that are automatically deleted at the end of a session. You are always free to decline a cookie if your browser enables such a choice, however, in that case, your online session may be more cumbersome and may require you to reenter information that has already been entered.
+**How Is My Information Used?**   
+When you make a purchase from anntaylorLOFT.com, we use your information to process your order and to answer your questions about the status of your order. We may use the information to provide you with periodic e-mails and mailings about Ann Taylor LOFT merchandise, services and promotions. We may also send you e-mails to help us learn more about your shopping preferences. In addition, we use information about your product interests and purchases to help us improve our online store and your shopping experience. If you request a catalog from us, if you register with us, or if you purchase from us online or over the phone, you have the option to request marketing materials from us, and we may send you notices about our merchandise, services and promotions through mail. 
 
-If you choose to place an offer or to sell a Domain Name on our Web site, we will collect information about your purchasing and selling behavior. We may also collect comments provided by other users in our feedback area.
+**Will My Information Be Shared?**   
+To respect your privacy, Ann Taylor LOFT will not sell or rent the personal information you provide to us online to any third party. Ann Taylor LOFT only shares information about our clients with affiliated companies and reputable third parties to provide better service to you. These services may include maintaining and managing customer information; providing customer services; taking and fulfilling orders; conducting Ann Taylor LOFT promotions and surveys; and communicating effectively with our clients. We do not authorize those third parties to make any other use of your information or to send you unsolicited e-mail. In addition, Ann Taylor LOFT may share information that our clients provide with specially chosen marketing partners. We also may share aggregated statistical or demographic information about you with third party companies in a manner that does not reveal your personal identity.
 
-If you elect to use additional services provided by GreatDomains.com, such as our escrow services, additional financial and personal information will be collected, such as your billing address and other specific financial information, collected directly or from transaction documents used in the process to establish the financial resources necessary to conclude the transaction. Additional information may be obtained from many different sources, such as personal correspondence or e-mails that you send to us or that we may receive from third parties, other communications,or activities posted to our site.
+When Ann Taylor LOFT conducts contests, sweepstakes, promotions, and surveys, or joins with other companies to do so, clients who choose to participate may be asked to provide personal information. Ann Taylor LOFT and the other participating companies may use this information for such purposes as notifying winners and fulfilling promotional obligations, and may also cross reference customer databases to identify common customers. Information from these activities may be used to explore future promotional opportunities or fulfill contractual obligations. Even if you have chosen not to receive e-mail or postal mail from Ann Taylor LOFT prior to your participation in a contest, sweepstakes, promotion or survey, you may still receive information from Ann Taylor LOFT in connection with such activity if you register for or participate in it. You may choose not to participate in contests, sweepstakes, promotions or surveys if you do not wish to receive information from Ann Taylor LOFT or share your information with Ann Taylor LOFT and the other companies sponsoring such activities. 
 
-Finally, please note that GreatDomains.com’s Web site is linked to other Web sites by way of hotlinks and advertisement banners. GreatDomains.com is not responsible for the content, or the privacy practices of such external Web sites. For these specific practices, you should refer to the specific privacy policy administered by each such Web site.
+If you are visiting anntaylorLOFT.com through a link from another website or search engine, information about your visit to anntaylorLOFT.com may be collected by the provider of the other website or search engine. We encourage you to review the privacy policies of these other websites or search engines. You may avoid disclosing your information to these other websites or search engines by entering anntaylorLOFT.com directly into the address field of your Internet browser. 
 
-**How the Information Is Used**
+**How do I access or change my information?**   
+If at any time you want to change or review the information you have provided, simply sign on to anntaylorLOFT.com and click on "My Account" on the navigation bar. You will then be able to change any information stored in your account. Be sure to click "Save" when you complete your changes. 
 
-GreatDomains.com uses personal information for internal purposes only, to provide those services that you are requesting, to improve our marketing and promotional efforts, to statistically analyze site usage, to improve our content and service offerings, to customize our site’s content and layout, and to further enhance the services that we provide. We may also use personally identifiable information about you to deliver information to you that, in some cases, is targeted to your interest, such as targeted banners and promotions.You can always remove yourself from receiving such information by notifying us by using the opt-out option in the “[My Account](https://web.archive.org/tools/subscribe/accountinfo.asp)” page.
+You can also change or access this information by calling 1-800-DIAL-ANN, or by sending an e-mail to [clientservices@anntaylorLOFT.com](mailto:clientservices@anntaylorLOFT.com). Please be sure to include or have ready your full name, address, phone number and e-mail address. 
 
-Mailing information, such as your e-mail address, may be used in rare situations for us to contact you regarding an administrative issue. Address and billing information may be used if you elect to use our escrow services, or in the event that we are entitled to a commission for a sale conducted through our Web site.
+**How do I remove my information?**   
+If you would prefer not to receive our e-mails and/or mailings-just let us know. You may submit your request to unsubscribe directly at anntaylorLOFT.com. To access this feature, [click here](https://web.archive.org/catalog/email_unsubscribe.jsp). In addition, if you have received an e-mail from Ann Taylor LOFT, you may also reply with the word "unsubscribe" in the subject line. You may also contact us as follows: 
 
-We may also use information in the file that we maintain regarding your current and past activities in the unlikely event that we need to resolve disputes, troubleshoot problems,or otherwise to enforce our [User Agreement](https://web.archive.org/support/useragreement.asp). At times, cross-sectional information may be used of multiple users to identify problems or resolve disputes.
+| By Email: | [clientservices@anntaylorLOFT.com](mailto:clientservices@anntaylorLOFT.com)  
+---|---  
+By Phone: | 1 800 DIAL ANN  
+Fax: | 1-866-2FAX-ANN  
+By Mail: | ANN TAYLOR CLIENT SERVICES  
+100 ANN TAYLOR DRIVE  
+P.O. BOX 571650  
+TAYLORSVILLE, UT 84157-1650  
+  
+Please include your name and address as it appears on the e-mail or postal mail you received from us and indicate "Do not contact me by (e-mail) or (mail)." 
 
-In order to defer some of the costs of doing business, and thus, to be able to charge the user lower fees, GreatDomains.com generates additional revenue by way of delivering targeted advertisements. When delivering such advertisements, GreatDomains.com serves as the middleman, delivering the advertisement according to certain criteria requested by the advertisers, such as particular demographics. GreatDomains.com will then display the advertisement to users who meet that this criteria. In During this process, the third-party advertiser does not have access to your individual account information.
+Your request may take up to 10 business days to process, and you may receive e-mail or postal mail in the meantime. Your removal request, along with your name and address will be stored in a "do not contact" file to ensure that we can honor your request. Please note that if you make subsequent purchases from our website, we will confirm your order by e-mail, and we may need to contact you by phone, e-mail, or postal mail with other questions regarding your order. 
 
-**With Whom Does GreatDomains.com Share Your Information?**
+**What are cookies? Does anntaylorLOFT.com use cookies?**   
+Cookies are bits of information that are automatically stored on your computer's hard drive to recognize your preferences in order to make shopping easier. anntaylorLOFT.com uses cookies to help us personalize your shopping experience and keep track of your order as you shop in our online store. Your cookie also allows us to recognize you when you return to our site and provides you with access to your account information. Cookies do not contain any personally identifiable information, such as your name, address or any financial information on your computer. 
 
-As a general rule, GreatDomains.com does not disclose any of your personally identifiable information, unless we have your specific permission, or under special circumstances, such as when we reasonably believe that the law requires that we do so. We do aggregate personally identifiable information and disclose such information in the aggregate as historical, statistical data for marketing, and promotional situations. However, in such situations, it is not possible to personally identify you or your personal information. Certain information, such as your password, credit card information, or bank account number would not be disclosed in such aggregate disclosures.
+Ann Taylor LOFT may use reputable third parties to provide services to us, such as to help us measure the effectiveness of our advertising and how visitors use our site, and these third parties may also use cookies on your computer. anntaylorLOFT.com respects your right to choose whether to be included in the services that these third parties provide. If you would like to opt-out of these services, please [click here](https://web.archive.org/catalog/email_unsubscribe.jsp). 
 
-GreatDomains.com cooperates with all law enforcement inquiries and with third-parties who are enforcing their intellectual property or other proprietary rights. We, of course, also provide that the information which is necessary to facilitate the actual, ongoing commercial activities conducted on the GreatDomains.com Web site. For example, we will provide identifying information to the parties that have agreed upon the purchase and sale of a Domain Name, so that they may continue and conclude the transaction. All recipients of the transaction agree to the restrictions of on how they can use and disclose such information.
+You can refuse cookies by turning them off in your Internet browser. In order to disable cookies, please consult your browser's help section for instructions. If you turn off cookies, however, you will not be able to purchase from our website, as we will not be able to track your online order. You may still place an order by calling us at 1-800-DIAL-ANN. 
 
-In sum, although we use industry standard practices to protect your privacy, we do not and cannot promise, and you cannot expect, that your personally identifiable communications will always remain private.
+**How does anntaylorLOFT.com make sure my order information is secure?**  
+The safety of your credit card information is important to us, and Ann Taylor LOFT has taken measures to protect the security of your online order information. 
 
-**Your Use of Other Users’ Information.**
+Ann Taylor LOFT uses Secure Sockets Layer (SSL) technology to keep your online order information safe. SSL technology encrypts your credit card number, order information and personal information before it is transmitted to protect it from being decoded by anyone other than Ann Taylor LOFT. Our site also displays the VeriSign Secure Site Seal, which indicates that the site has been authenticated by VeriSign and that confidential transactions with the site are secured by SSL encryption. 
 
-As a seller, you will be sent certain private information identifying the buyer of your Internet Domain Name, and as a buyer, you will be sent identifying information of the seller. By entering into our [User Agreement](https://web.archive.org/support/useragreement.asp), you agree that any personally identifying information that you obtain through the GreatDomains.com Web site or through a GreatDomains.com-related communication or a GreatDomains.com-facilitated transaction, you are granted a limited license to use such information only for the furthering of the subject matter of the GreatDomains.com-related transaction, including GreatDomains.com-facilitated services, such as its escrow services. Upon conclusion of the transaction, you will remove and delete all copies in all forms of the personally-identifying third party information, other than one copy of only that data which is necessary for the archivaling of the transaction, unless you receive explicit, specific written approval from the owner of the personal information that you need not do so.
+Once you enter the checkout page, your computer will begin communicating with our server in secure mode. You can determine the security of your connection by looking at the bottom of your Internet browser window after you have accessed our website-SSL technology is active if there is a solid key or a closed lock. You can also double-check by looking at the URL line of your browser. When accessing a secure server, the first characters of the site address will change from "http" to "https". 
 
-**Updating and Correcting Personally Identifying Information**
+Some versions of browsers and some firewalls don't permit communication through secure servers like the ones we use to process orders at anntaylorLOFT.com. If you cannot access the secure server for any reason, you can place your order by calling 1-800-DIAL-ANN. 
 
-Once you register with GreatDomains.com, you will be able and are allowed to change your personally identifying information available at GreatDomains.com, including your e-mail address, user ID, name, address, telephone number, password, and credit card information. Upon your request, we will remove any of the above personally identifying information other than your name and user ID. We will send you a confirmation of the information that you requested us to remove and the date of its removal. We will retain in our files certain information in our files that you have requested us to remove for different purposes, such as to resolve potential dispute, troubleshoot problems,and otherwise enforce our [User Agreement](https://web.archive.org/support/useragreement.asp). Furthermore, certain circumstances could prevent the complete and permanent removal of such information from our databases such as technical constraints and the periodic backing up and archiving of our systems for disaster recovery purposes.
+While we implement the above and other security measures to protect your information, please note that no data transmitted over the Internet or any other public network can be guaranteed to be 100% secure. 
 
-**General**
+**Does anntaylorLOFT.com link to other sites?**   
+The anntaylorLOFT.com website may include links to other websites that are not under our control. These other websites have their own policies regarding privacy that you should review. Ann Taylor LOFT has no responsibility for these linked websites. 
 
-Our Privacy Policy only addresses the use and disclosure of information that we collect. To the extent that you disclose information to other parties, even if you connected to those parties through the GreatDomains.com Web site, different rules may apply, and GreatDomains.com does not manage or control such information. GreatDomains.com implements industry standard efforts to safeguard the confidentiality of your personal identifiable information, such as fire walls and SSL encryption. However, perfect security measures do not exist and we cannot guarantee that third parties cannot exercise sufficient resources to break down the protective systems that we have established and obtain your personal information.This Privacy Policy is incorporated into and subject to the terms of the GreatDomains.com [User Agreement](https://web.archive.org/support/useragreement.asp).
+**How does anntaylorLOFT.com protect children's privacy?**   
+Ann Taylor LOFT is concerned about the privacy of young children and we do not knowingly collect any personal information from a child under 13 years of age. Ann Taylor LOFT does not sell products for purchase by children. 
 
-**DoubleClick.com**
+**Changes to this Statement**   
+Ann Taylor LOFT may update the Privacy & Security Statement from time to time. When we make changes, we will post them here. You may wish to check this section from time to time, because by visiting our website, you agree to accept any such changes to these policies. Except as otherwise mentioned herein, this Privacy & Security Statement only addresses the use and disclosure of information we collect from you on our website. 
 
-GreatDomains.com uses a third party to serve the advertisements that you see on the pages of our Web site. Our current provider and ad server is DoubleClick.com. If you would like to know more about the information gathering practices followed by, and "opt-out" procedures implemented by DoubleClick, please click [here](https://web.archive.org/support/prvstatement.asp). GreatDomains does not have any reason to question the integrity of the practices implemented by DoubleClick. However, GreatDomains does not control any of these procedures and practices, and any questions should be referred to DoubleClick.
+If you have any questions about our Privacy & Security Statement, please contact us: 
+
+By Email: | [clientservices@anntaylorLOFT.com](mailto:clientservices@anntaylorLOFT.com)  
+---|---  
+By Phone: | 1 800 DIAL ANN  
+Fax: | 1-866-2FAX-ANN  
+By Mail: | ANN TAYLOR CLIENT SERVICES  
+100 ANN TAYLOR DRIVE  
+P.O. BOX 571650  
+TAYLORSVILLE, UT 84157-1650  
+  
+Effective as of August 2, 2004 
