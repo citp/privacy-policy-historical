@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the duluthtrading.com privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608211849id_/http%3A//duluthtrading.com/privacysecurity/privacysecurity.aspx%3Fnavlocation%3Dbottom) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the duluthtrading.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225162637id_/http%3A//duluthtrading.com/privacysecurity/privacysecurity.aspx%3Fnavlocation%3Dbottom) for the most accurate reproduction.*
 
 # Privacy & Security - Duluth Trading Company
 
-[](http://www.duluthtrading.com/)
+[](https://web.archive.org/?sectionpath=1)
 
 [](https://web.archive.org/?sectionpath=186)
 
@@ -10,7 +10,7 @@
     * [Men](https://web.archive.org/store/department/mens/mens.aspx?navlocation=dept_left)
     * [Women](https://web.archive.org/store/department/womens/womens.aspx?navlocation=dept_left)
     * [Accessories](https://web.archive.org/store/department/accessories/accessories.aspx?navlocation=dept_left)
-    * [Tools & Shop](https://web.archive.org/store/department/tools_shop/tools_shop.aspx?navlocation=dept_left)
+    * [Tools & Shop](https://web.archive.org/store/department/tools_shop/tools_shop_collage.aspx?navlocation=dept_left)
     * [Organizers & Bags](https://web.archive.org/store/department/organizers_bags/organizers_bags.aspx?navlocation=dept_left)
     * [Gifts](https://web.archive.org/store/department/giftshop/giftshop_giftshop.aspx?navlocation=dept_left)
     * [Web Only](https://web.archive.org/store/department/web_exclusives/web_exclusives.aspx?navlocation=dept_left)
@@ -20,17 +20,22 @@
 
   * AND MORE
     * [New Arrivals](https://web.archive.org/store/andmore_home/andmore_newarrivals/andmore_newarrivals.aspx?navlocation=dept_left)
+    * [New Lower Prices](https://web.archive.org/store/andmore_home/andmore_gasrelief/andmore_gasrelief.aspx?navlocation=dept_left)
+    * [Top Sellers with Photos](https://web.archive.org/store/andmore_home/viewphotos/viewphotos.aspx?navlocation=dept_left)
+    * [Duluth Discoveries](https://web.archive.org/store/andmore_home/andmore_duluthdiscoveries/andmore_duluthdiscoveries.aspx?navlocation=dept_left)
     * [Books ](https://web.archive.org/store/andmore_home/andmore_books/andmore_books.aspx?navlocation=dept_left)
     * [Dog Stuff](https://web.archive.org/store/andmore_home/andmore_dogstuff/andmore_dogstuff.aspx?navlocation=dept_left)
-    * [Gardening](https://web.archive.org/store/andmore_home/andmore_gardening/andmore_gardening.aspx?navlocation=dept_left)
-    * [Outdoor Fun](https://web.archive.org/store/andmore_home/andmore_outdoorfun/andmore_outdoorfun.aspx?navlocation=dept_left)
-    * [Games and Toys](https://web.archive.org/store/andmore_home/andmore_gamesandtoys/andmore_gamesandtoys.aspx?navlocation=dept_left)
+    * [Outdoor Store](https://web.archive.org/store/andmore_home/andmore_outdoorfun/andmore_outdoorfun.aspx?navlocation=dept_left)
+    * [Games, Toys, Kid Stuff](https://web.archive.org/store/andmore_home/andmore_gamesandtoys/andmore_gamesandtoys.aspx?navlocation=dept_left)
+    * [Stocking Stuffers](https://web.archive.org/store/andmore_home/andmore_stockstuffs/andmore_stockstuffs.aspx?navlocation=dept_left)
+    * [Grooming Essentials](https://web.archive.org/store/andmore_home/andmore_grooming/andmore_grooming.aspx?navlocation=dept_left)
     * [Watches, Clocks, Radios](https://web.archive.org/store/andmore_home/andmore_watchesclocksradios/andmore_gadgets.aspx?navlocation=dept_left)
     * [Great Gadgets](https://web.archive.org/store/andmore_home/andmore_greatgadgets/andmore_greatgadgets.aspx?navlocation=dept_left)
-    * [Tools of Protection](https://web.archive.org/store/andmore_home/andmore_toolsofprotection/andmore_toolsofprotection.aspx?navlocation=dept_left)
+    * [Safety Gear](https://web.archive.org/store/andmore_home/andmore_toolsofprotection/andmore_toolsofprotection.aspx?navlocation=dept_left)
     * [Military-inspired Items](https://web.archive.org/store/andmore_home/andmore_military/andmore_military.aspx?navlocation=dept_left)
     * [DTPro™ Shop](https://web.archive.org/store/andmore_home/andmore_dtpr/andmore_dtpr.aspx?navlocation=dept_left)
     * [All Things Fire Hose®](https://web.archive.org/store/andmore_home/andmore_firehose/andmore_firehose.aspx?navlocation=dept_left)
+    * [Truck and Car Stuff](https://web.archive.org/store/andmore_home/andmore_truckcarstuff/andmore_truckcarstuff.aspx?navlocation=dept_left)
   * INFO AND SERVICES
     * [About Us](https://web.archive.org/store/infoandservices/aboutus/aboutus.aspx?navlocation=dept_left)
     * [Gift Services](https://web.archive.org/store/infoandservices/giftservices/giftservices.aspx?navlocation=dept_left)
@@ -88,7 +93,4 @@ Under the Fair Credit Billing Act, your bank cannot hold you liable for more tha
 
 In the event of unauthorized use of your credit card, you must notify your credit card provider in accordance with its reporting rules and procedures.
 
-Please contact us by e-mail at [customerservice@duluthtrading.com](mailto:customerservice@duluthtrading.com) if you have any further questions about our online security or credit card guarantee.  
-  
-Copyright © Duluth Trading Company  
- **800-505-8888**
+Please contact us by e-mail at [customerservice@duluthtrading.com](mailto:customerservice@duluthtrading.com) if you have any further questions about our online security or credit card guarantee.
