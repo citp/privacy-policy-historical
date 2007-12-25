@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the humanservices.gov.au privacy policy that was archived on 2007-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070207095827id_/http%3A//www.humanservices.gov.au/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the humanservices.gov.au privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225122604id_/http%3A//www.humanservices.gov.au/generic/privacy.html) for the most accurate reproduction.*
 
-# Department of Human Services
+# Human Services Portfolio
 
 When you look at this website, we keep a record of your visit and log the following information for statistical purposes - the user's server address, the date and time of visit to the site, the pages accessed and documents downloaded, the previous site visited, and the type of browser used. No attempt will be made to identify users or their browsing activities except, in the unlikely event of an investigation, where a law enforcement agency may exercise its authority to inspect the Internet Service Provider's logs.
 
