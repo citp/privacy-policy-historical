@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the articlelookup.com privacy policy that was archived on 2007-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070513093500id_/http%3A//www.articlelookup.com/index.php%3Fpagedb%3Dprivacy%26PHPSESSID%3D4edcd1bb980fb99993670d45eabe3cd0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlelookup.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225232448id_/http%3A//www.articlelookup.com/index.php%3Fpagedb%3Dprivacy) for the most accurate reproduction.*
 
 # Free Articles| privacy ArticleLookup.com
 
-  
-[](http://www.articlemarketer.com/?a_aid=bcb6d671&a_bid=f7f8921b)
+| 
 
 ArticleLookup.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period.
 
