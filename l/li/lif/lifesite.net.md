@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifesite.net privacy policy that was archived on 2007-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070616180258id_/http%3A//www.lifesite.net/aboutlifesite/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifesite.net privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225153253id_/http%3A//www.lifesite.net/aboutlifesite/privacy.html) for the most accurate reproduction.*
 
 # LifeSite - Your Life, Family and Culture Outpost
 
@@ -46,82 +46,62 @@ If you have any additional questions or concerns about our privacy policy, pleas
 ### NewsBytes
 
 Last Updated  
-2007-06-15 02:34:25 ET
+2007-12-24 12:43:01 ET
 
-['Dolly' Scientist: Make Human Stem Cells From Animal Eggs ](http://news.yahoo.com/s/livescience/20070612/sc_livescience/dollyscientistmakehumanstemcellsfromanimaleggs;_ylt=AtlFIF6I9.YcWU8q4v18j_8PLBIF)
+[Room for God - National Post Main Editorial; It did not please God to save his people by means of logic. Rather, he sent his son ](http://www.nationalpost.com/todays_paper/story.html?id=194921)
 
-[Why a “pro-life” tag no longer dooms politicians ](http://www.mercatornet.com/articles/why_a_pro_life_tag_no_longer_dooms_politicians/)
+[Christmastime in the city - Lorne Gunter, National Post ](http://www.nationalpost.com/opinion/columnists/story.html?id=effe69e2-bf2b-4df5-9626-d04f17dcad51&k=5172)
 
-[After years of urging the public and governments to support the destruction of embryos, scientists may have led them up a blind alley ](http://www.mercatornet.com/articles/is_therapeutic_cloning_obsolete/)
+[Christmas Gift by David Warren ](http://insidecatholic.com/Joomla/index.php?option=com_content&task=view&id=2010&Itemid=48)
 
-[A palliative care physician remembers an unexpected request from the husband of a dying patient ](http://www.mercatornet.com/articles/cant_you_give_her_a_needle/)
+[Crazy Christmas Lights ](http://insidecatholic.com/Joomla/index.php?option=com_content&task=view&id=1154&Itemid=10)
 
-[ABCNews.com's Upside-Down View of Marriage ](http://newsbusters.org/node/13479)
+['In God We Trust' to Resume Prominent Place on $1 Coin ](http://www.citizenlink.org/CLNews/A000006185.cfm)
 
-[Forget warming - beware the new ice age ](http://www.canada.com/nationalpost/financialpost/comment/story.html?id=bdc24964-7f82-4f7a-863c-f0ff43010278)
+[Family Lost in the Snow Relied on God to Survive ](http://www.citizenlink.org/CLBriefs/A000006181.cfm)
 
-[I'M CRUSHED BY ABORTION GUILT ](http://www.mirror.co.uk/showbiz/yourlife/drmiriam/tm_headline=i-m-crushed-by-abortion-guilt&method=full&objectid=19282232&siteid=89520-name_page.html)
+[Wal-Mart Donates $200,000 to The Salvation Army ](http://www.citizenlink.org/CLBriefs/A000006182.cfm)
 
-[Kenya Human Rights Commission calls for legalization of abortion ](http://www.capitalfm.co.ke/news/newsarticle.asp?newsid=2354&newscategoryid=1)
+[What the Christmas story says about our bodies and our bioethics debates - Christianity Today ](http://www.eppc.org/publications/pubID.3206/pub_detail.asp)
 
-[Father Tadeusz Pacholczyk Debating the embryo’s fate ](http://www.thebostonpilot.com/articleopinion.asp?ID=4769)
+[Rooting for Ron Paul - Comment: Republicans would do well to listen to the Texas congressman ](http://www.nationalpost.com/opinion/story.html?id=191721)
 
-[Infanticide, Abortion Responsible for 60 Million Girls Missing in Asia ](http://www.foxnews.com/story/0,2933,281722,00.html)
+[Ron Paul: The Good ](http://www.nationalpost.com/opinion/story.html?id=194957)
 
-[Tiller abortion files blown open ](http://www.worldnetdaily.com/news/article.asp?ARTICLE_ID=56164)
+[Ron Paul: The bad ](http://www.nationalpost.com/opinion/story.html?id=194956)
 
-[Bill Clinton Earns $10M on Talk Circuit ](http://www.breitbart.com/article.php?id=D8POP8F00&show_article=1)
+[Daniel Cere responds to Colby Cosh on the meaning of Bruker v. Marcovitz ](http://network.nationalpost.com/np/blogs/fullcomment/archive/2007/12/23/daniel-cere-responds-to-colby-cosh-on-the-meaning-of-bruker-v-marcovitz.aspx)
 
-[Freedom, not climate, is at risk - By Vaclav Klaus ](http://www.ft.com/cms/s/9deb730a-19ca-11dc-99c5-000b5df10621.html)
+[“I realized that I had killed two of my own kids” - International conference on how abortion affects men held in San Francisco ](http://www.calcatholic.com/news/newsArticle.aspx?id=433ba596-b36e-4356-aa57-0933c31963d5)
 
-[Teachers' free speech trumps union politics ](http://www.worldnetdaily.com/news/article.asp?ARTICLE_ID=56178)
+[Huckabee Making Money on the Campaign Trail ](http://insidecatholic.com/Joomla/index.php?option=com_myblog&Itemid=127)
 
-[Hindu Mob in India Beats, Strips, Parades Pastor ](http://www.spcm.org/Journal/spip.php?article12326)
+[A brief but excellent explanation of how the birth control pill acts as an abortifacient. ](http://www.youtube.com/watch?v=jiCU46_lWeE)
 
-[President Bush’s Policies Save Lives in Kenya ](http://www.cwalac.org/article_511.shtml)
+[Senate confirms Mary Ann Glendon as U.S. ambassador to Vatican ](http://www.catholicnews.com/data/stories/cns/0707294.htm)
 
-[A Resurgence of Active Opposition to Federal Judicial Nominations ](http://www.freecongress.org/commentaries/2007/070613.aspx)
+[How to Vote Catholic/Christian 2007 ](http://insidecatholic.com/Joomla/images/stories/vote_catholic.pdf)
 
-[Lightning Rod: The Return of Rick Santorum ](http://www.crisismagazine.com/june2007/desmond.htm)
+[Diocese of San Diego shelves plans for new Catholic high school, will use money instead toward sexual abuse settlement ](http://www.calcatholic.com/news/newsArticle.aspx?id=180ea1cf-6dd9-4652-97a2-95f1b71b20a3)
 
-[Supreme Court Deals Setback to Labor Unions ](http://www.cnsnews.com/ThisHour.asp#Supreme%20Court%20Deals%20Setback%20to%20Labor%20Unions)
+[Rush Limbaugh Goes Off About Huckablunder- If you're now a top contender for the GOP nomination, the last man you want to alienate is Rush Limbaugh. ](http://newsbusters.org/blogs/john-stephenson/2007/12/22/rush-limbaugh-goes-about-huckablunder)
 
-[China Slams Bush Over Remarks on Communism ](http://www.cnsnews.com/ViewForeignBureaus.asp?Page=/ForeignBureaus/archive/200706/INT20070614a.html)
+[Mitt Romney - Governor Huckabee's record is more liberal than our nation needs right now," ](http://apnews.myway.com/article/20071223/D8TN8AA00.html)
 
-[PC mandate gone wild: Christian books yanked ](http://www.worldnetdaily.com/news/article.asp?ARTICLE_ID=56126)
+[Huckabee angers some Catholics ](http://www.reuters.com/article/topNews/idUSN2326769820071223?feedType=RSS&feedName=topNews&rpc=22&sp=true)
 
-[Fred Thompson on the Supreme Court ](http://bench.nationalreview.com/post/?q=NWJjMzI1OTk4NTAyY2NmMGRhM2MwNThlMTRjZmFjMzE=)
+[Surprising Ron Paul Sparks A Movement - GOP Presidential Hopeful Has Fervent Followers And A Message Whose Resonance Surprises Even Him ](http://www.cbsnews.com/stories/2007/12/21/eveningnews/main3640041.shtml?source=mostpop_story)
 
-[Ontario voters will get their chance to vote on a new electoral system but will they even understand what they're voting for? ](http://www.westernstandard.ca/website/index.cfm?page=article&article_id=2569)
+[Year of global cooling - Record low temperatures are being set all over the world ](http://www.washingtontimes.com/apps/pbcs.dll/article?AID=/20071219/COMMENTARY/10575140)
 
-[New bill takes aim at indecency, violence on TV ](http://www.onenewsnow.com/2007/06/new_bill_takes_aim_at_indecenc.php)
+[All I want for Christmas is the dismantling of the CBC. ](http://www.canada.com/edmontonjournal/columnists/story.html?id=301e2430-ed42-418b-b0b8-cfcebf7ff110)
 
-[Mexico City lawmakers seek to legalize prostitution ](http://www.alertnet.org/thenews/newsdesk/N13359791.htm)
+[10 Reasons Why Pastors Avoid the Culture War ](http://www.townhall.com/columnists/DougGiles/2007/12/22/10_reasons_why_pastors_avoid_the_culture_war)
 
-[Hillary and Porn ](http://www.cwalac.org/article_512.shtml)
+[Various thoughts on Henry David Thoreau and other things having something to do with Christmas ](http://www.calcatholic.com/news/newsArticle.aspx?id=6c609709-5bd6-48de-a742-3f9f58093d5e)
 
-[General Pace latest victim of homosexual agenda, says military monitor ](http://www.onenewsnow.com/2007/06/general_pace_latest_victim_of_.php)
+[Has global warming stopped? 'The fact is that the global temperature of 2007 is statistically the same as 2006 and every year since 2001' ](http://www.newstatesman.com/200712190004)
 
-[Southwest Airlines stands by sponsorship of DC 'homosexual pride' event ](http://www.onenewsnow.com/2007/06/southwest_airlines_stands_by_s.php)
+[Hundreds of scientists reject global warming - Basing policy on carbon dioxide levels 'potentially disastrous economic folly' ](http://www.worldnetdaily.com/news/article.asp?ARTICLE_ID=59319)
 
-[Teen Suicide: A Matter of "Sexual Orientation" or Sex Abuse? ](http://www.cwfa.org/articles/13178/BLI/dotcommentary/index.htm)
-
-[Cardinal Pell repeats warning to Catholic politicians ](http://www.cwnews.com/news/viewstory.cfm?recnum=51744)
-
-[Report shows Catholic schools nurture good citizenship ](http://www.indcatholicnews.com/nurture328.html)
-
-[Pro-Life Music Festival to Draw Thousands, Top Christian Artists ](http://www.christianpost.com/article/20070614/27956_Pro-Life_Music_Festival_to_Draw_Thousands,_Top_Christian_Artists.htm)
-
-[Brownback Speaks on Faith in Politics, Calls for Defense of Marriage, Life ](http://www.ewtn.com/vnews/getstory.asp?number=79721)
-
-[Republicans 2008: Giuliani 27%, McCain at 19% ](http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/16090)
-
-[John Tory 'Quietly' Recruiting strong liberals to run as Ontario Progressive Conservative Party Candidates ](http://www.thestar.com/article/215598)
-
-[Uruguayans start online drive to legalize abortion ](http://www.alertnet.org/thenews/newsdesk/N11429054.htm)
-
-[Scandal of Irish Aid Support for Abortion Provider IPPF ](http://www.familyandlife.org/Abortion-and-Embryo/339/8/24.html)
-
-[Amnesty International is now part of evil it set out to oppose ](http://www.alive.ie/editorsjottings.php#editorsjottings2)
-
-[Massachusetts Governor plans to march -- against gay marriage ban ](http://www.boston.com/news/globe/city_region/breaking_news/2007/06/governor_plans_1.html)
+[AIDS Won't Overtake World, Global AIDS Expert Says - Political correctness has shaped how the world has reacted to it. ](http://www.cnsnews.com/ViewCulture.asp?Page=/Culture/archive/200712/CUL20071221b.html)
