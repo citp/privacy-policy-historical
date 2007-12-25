@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the amd.com privacy policy that was archived on 2007-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070630122120id_/http%3A//www.amd.com/us-en/Privacy/0%2C%2C1435_1437%2C00.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the amd.com privacy policy that was archived on 2007-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071225100500id_/http%3A//www.amd.com/us-en/Privacy/0%2C%2C1435_1437%2C00.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -51,9 +51,11 @@ function openWindowWithParams(url,title,paramlist,uriparam) {
 <body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginheight="0" marginwidth="0">
 
 
-	 <!-- Vignette V/5 Fri Nov 17 05:56:46 2006 -->
+	 <!-- Vignette V/5 Mon Oct 29 18:26:46 2007 -->
 
 
+
+<script type="text/javascript" src="/SelectSite/dialog_window.js"></script>
 
 <script type="text/javascript">
 function clearText(thefield){
@@ -61,8 +63,39 @@ function clearText(thefield){
 		thefield.value = ""
 	} 
 function checkdefault(qtfield){
-	if (qtfield.value=="<Search>")
+	if (qtfield.value=="Search")
 		qtfield.value = ""
+		
+	 if (document.seek1.selectsite.value == "AMD")
+	 {
+	 	document.seek1.action="http://search.amd.com/site_query.html";
+	 }
+
+	if (document.seek1.selectsite.value == "ATI")
+	 {
+	 	document.seek1.sp_q.value=document.seek1.qt.value;
+	 	document.seek1.action="http://searchna.ati.com/promosearch/";
+		
+	 }	 
+	if (document.seek1.selectsite.value == "ss")
+	 {
+	   //alert("Please select a site.");
+	   
+	   if (navigator.appName == "Microsoft Internet Explorer")
+   	   {
+			if(window.showModelessDialog)
+ 			{
+	   			window.showModalDialog("/us-en/Select_Site_Page/0,,,00.html",self,"dialogWidth:250px;dialogHeight:117px;status:0;center:1;help:0;unadorned:0;edge: raised;border:thick;");
+			} else {
+				window.modal("/us-en/Select_Site_Page/0,,,00.html","width=250,height=95,top=300,left=350,modal=1,dialog=1,dependent=1");	   
+			}
+	   } else {
+
+		   window.modal("/us-en/Select_Site_Page/0,,,00.html","width=250,height=65,top=300,left=350,modal=1,dialog=1,dependent=1");	   
+	   }
+	   document.seek1.selectsite.focus();
+	   return false;
+	 }
 		
 		return true;
 	} 
@@ -71,26 +104,43 @@ function checkdefault(qtfield){
 <input type="hidden" name="curPath" value="">
 <!-- Header Start -->
 <table width="100%" cellpadding="0" cellspacing="0" border="0">
+<!-- just checking CDA Header component-->
 	<tbody><tr>
-		<td width="703"><a href="/us-en"><img src="/images/AMD_logo_us-en.gif" alt="" width="122" height="54" border="0"></a></td>
-		<td width="336"><div class="global_nav">
+		<td width="603"><a href="/us-en"><img src="/images/AMD_logo_us-en.gif" alt="" width="122" height="54" border="0"></a></td>
+		<td width="436"><div class="global_nav">
 		
-			<a href="/us-en">Home</a> | <a href="/us-en/CountryLanguage/0,,3,00.html?AMDWorldflg=1">AMD Worldwide</a> 
-		 </div></td>
+			<a href="/us-en">Home</a> | <a href="/us-en/CountryLanguage/0,,3,00.html?AMDWorldflg=1">Worldwide<img src="/images/globe_icon.gif" align="bottom" border="0"></a> 
+		 |&nbsp;<a href="/us-en/Corporate/AboutAMD/0,,51_52_3592,00.html">Contact Us</a> 
+		</div></td>
 		<td width="192" align="center" valign="middle">
 		<table border="0" align="right" cellpadding="0" cellspacing="0">
 	
 		
-		<form name="seek1" method="GET" accept-charset="utf-8" action="http://search.amd.com/site_query.html"></form>
+		<form name="seek1" method="GET" accept-charset="utf-8" action="http://search.amd.com/site_query.html" onsubmit="document.seek1.selectsite.focus(); return checkdefault(document.forms[0].qt);"></form>
 			<input type="hidden" name="site" value="us-en">
 				
 					<input type="hidden" name="la" value="en">
 				 <tbody><tr>
-				<td align="right"><input value="<Search>" type="text" size="15" name="qt" maxlength="100" id="search" class="input" style="width: 146px; border: 1px solid #A09C9D;" onfocus="this.value=''"></td>
+				<td align="right"><input value="Search" type="text" size="15" name="qt" maxlength="100" id="search" class="input" style="width: 146px; border: 1px solid #A09C9D;" onfocus="this.value=''"></td>
+				<td width="9">&nbsp;</td>
+				<td>
+				<select name="selectsite">
+				<option value="ss">Select Site:</option>
+				<option value="AMD">AMD</option>
+				<option value="ATI">ATI</option>
+				</select>
+				</td>
 				<td width="9">&nbsp;</td>
 				<td><input value="Search" type="image" src="/images/search_arrow.gif" name="Search" alt="Search" onclick="return checkdefault(document.forms[0].qt);"></td>
 				<td width="10">&nbsp;</td>
 			</tr>
+			
+				<input type="hidden" name="sp_a" value="sp10039240">
+		        <input type="hidden" name="sp_p" value="all">
+        		<input type="hidden" name="sp-x-1" value="col">
+		        <input type="hidden" name="sp_f" value="ISO-8859-1">
+				<input type="hidden" name="sp_q" value="">
+			
 			
 	
 			
@@ -107,13 +157,13 @@ function checkdefault(qtfield){
 	 
 	
 		  
-		<!-- Vignette V/5 Fri Oct 27 18:18:24 2006 -->
+		<!-- Vignette V/5 Sat Oct 13 18:17:34 2007 -->
  
 
 
 <!--main nav elements-->
 	 
-	<!--MAIN NAV TABLE--><table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td><div id="navbar"> <ul> <li><a href="/us-en/Processors/ProductInformation/0,,30_118,00.html">Processors</a></li><li><a href="http://www.ati.com/products/index.html" target="new">ATI Products</a></li><li><a href="/us-en/ConnectivitySolutions/ProductInformation/0,,50_2330,00.html">Embedded Solutions</a></li><li><a href="/us-en/Corporate/AboutAMD/0,,51_52,00.html">About AMD</a></li></ul></div><!--end main nav elements--></td></tr></tbody></table><!--END MAIN NAV TABLE-->   <!--Start table for local nav, main content area -->
+	<!--MAIN NAV TABLE--><table border="0" cellpadding="0" cellspacing="0" align="center" width="100%"><tbody><tr><td><div id="navbar"> <ul> <li><a href="/us-en/Processors/ProductInformation/0,,30_118,00.html">Processors</a></li><li><a href="http://www.ati.com/products/index.html">ATI Products</a></li><li><a href="/us-en/ConnectivitySolutions/ProductInformation/0,,50_2330,00.html">Embedded Solutions</a></li><li><a href="/us-en/SupportDrivers/ProcessorSupport/0,,15218_15219,00.html">Support &amp; Drivers</a></li><li><a href="/us-en/Corporate/AboutAMD/0,,51_52,00.html">About AMD</a></li><li><a href="http://shop.amd.com/us-en/buyers_guide.aspx">Where To Buy</a></li></ul></div><!--end main nav elements--></td></tr></tbody></table><!--END MAIN NAV TABLE-->   <!--Start table for local nav, main content area -->
 <table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
 <tbody><tr>
 
@@ -131,7 +181,7 @@ function checkdefault(qtfield){
 <table width="100%" border="0" cellspacing="0" cellpadding="2">
 
 
-	 <!-- Vignette V/5 Fri May 11 05:14:16 2007 -->
+	 <!-- Vignette V/5 Thu Jun 28 21:39:53 2007 -->
    <tbody><tr><td>
 <!--spacer creates space between content and next header and maintains min col width-->
 <img src="/images/space.gif" width="1" height="8" border="0" alt="">
@@ -338,13 +388,13 @@ If you have questions regarding this Statement, you should first contact privacy
 
 	<meta name="keywords" content="legal privacy security,">
 <meta name="language" content="en">
-<meta name="date" content="4/20/2007 12:07:58 AM">
+<meta name="date" content="8/26/2007 5:22:10 PM">
 <!--TABLE TO FORMAT FOOTER-->
 <!--CRTP 1 -->
  
 		
 			
-				    <!-- Vignette V/5 Mon May 22 19:34:56 2006 -->
+				    <!-- Vignette V/5 Sat Aug 25 08:41:45 2007 -->
 
 
 
@@ -353,7 +403,7 @@ If you have questions regarding this Statement, you should first contact privacy
 	
 	<!--TABLE TO POSITION UPPER RIGHT NAV-->
 	
-		<table border="0" cellpadding="0" cellspacing="0" width="100%">
+		<table border="0" cellpadding="0" cellspacing="0" width="100%" align="center">
 	 <tbody><tr valign="bottom" align="right"><td class="copy" align="center" valign="top" nowrap="">
 
 	<span class="toplink"><a href="/us-en/0,,,00.html"> </a></span><font size="2"><!--OnlineOpinionS3t v3.0-->
@@ -371,7 +421,7 @@ O_GoT('<a href="javascript:O_LC()" title="Please give us your feedback">Rate thi
 	<br>
 	
 	<!--END TABLE TO POSITION UPPER RIGHT NAV-->
- <!-- Vignette V/5 Sat Jan 13 14:06:46 2007 -->
+ <!-- Vignette V/5 Sat Aug 25 08:41:46 2007 -->
 
 
 	
@@ -382,13 +432,12 @@ O_GoT('<a href="javascript:O_LC()" title="Please give us your feedback">Rate thi
 			<td class="foot" valign="top" nowrap="">
 			
 
-			<span class="toplink"><a href="/us-en/Corporate/AboutAMD/0,,51_52_3592,00.html">Contact AMD</a>&nbsp;&nbsp;&nbsp;&nbsp;<span class="toplink"><a href="/us-en/Copyright/0,,1435_1439,00.html">Terms and Conditions</a>&nbsp;&nbsp;&nbsp;&nbsp;<span class="toplink">©2007 Advanced Micro Devices, Inc.&nbsp;&nbsp;&nbsp;&nbsp;<span class="topselected">Privacy</span>&nbsp;&nbsp;&nbsp;&nbsp;<span class="toplink"><a href="/us-en/Trademarkinformation/0,,1435_1442,00.html">Trademark information</a>&nbsp;&nbsp;&nbsp;&nbsp;   </span></span></span></span></td>
+			<span class="toplink">©2007 Advanced Micro Devices, Inc.&nbsp;&nbsp;&nbsp;&nbsp;<font color="black"><b>|</b></font>&nbsp;&nbsp;&nbsp;&nbsp;<span class="toplink"><a href="/us-en/Corporate/AboutAMD/0,,51_52_3592,00.html">Contact AMD</a>&nbsp;&nbsp;&nbsp;&nbsp;<font color="black"><b>|</b></font>&nbsp;&nbsp;&nbsp;&nbsp;<span class="toplink"><a href="/us-en/Copyright/0,,1435_1439,00.html">Terms and Conditions</a>&nbsp;&nbsp;&nbsp;&nbsp;<font color="black"><b>|</b></font>&nbsp;&nbsp;&nbsp;&nbsp;<span class="topselected">Privacy&nbsp;&nbsp;&nbsp;&nbsp;<font color="black"><b>|</b></font></span>&nbsp;&nbsp;&nbsp;&nbsp;<span class="toplink"><a href="/us-en/Trademarkinformation/0,,1435_1442,00.html">Trademark information</a>&nbsp;&nbsp;&nbsp;&nbsp;<font color="black"><b>|</b></font>&nbsp;&nbsp;&nbsp;&nbsp;<span class="toplink"><a href="/us-en/0,,3715_15202,00.html">Site Map</a>&nbsp;&nbsp;&nbsp;&nbsp;<font color="black"><b>   </b></font></span></span></span></span></span></td>
 		</tr>
 	</tbody></table>
 	<!--END TABLE TO POSITION UPPER RIGHT NAV-->
  
-		
-<!--END TABLE TO FORMAT FOOTER-->
+		<!--END TABLE TO FORMAT FOOTER-->
 <!-- SURFAID CDC JAVASCRIPT -->
 
 <!-- Copyright IBM Corporation, 2001, 2002 !-->
@@ -397,6 +446,124 @@ O_GoT('<a href="javascript:O_LC()" title="Please give us your feedback">Rate thi
 <script language="JavaScript1.1" src="http://stats.surfaid.ihost.com/sacdcg3p_amdpix2_amdpix2.js"></script>
 <noscript> <img src="//stats.surfaid.ihost.com/rc/images/uc.GIF?1.13&amdpix&amd&noscript" height="1" width="1" alt="" border="0"></noscript>
 <!-- END SURFAID CDC JAVASCRIPT -->
+
+
+<script>
+
+function hbxStrip(a) {
+
+	a = a.split("'").join("");
+	a = a.split('"').join("");
+	a = a.split("&").join("");
+	a = a.split("|").join("");
+	a = a.split("#").join("");
+	a = a.split("$").join("");
+	a = a.split("%").join("");
+	a = a.split("^").join("");
+	a = a.split("*").join("");
+	a = a.split(":").join("");
+	a = a.split("!").join("");
+	a = a.split("<").join("");
+	a = a.split(">").join("");
+	a = a.split("~").join("");
+	a = a.split(";").join("");
+	a = a.split("\\").join("");
+	a = a.split(" ").join("+");
+
+	return a;
+	}
+	
+	
+</script>
+
+<script type="text/javascript">
+var _hbEC=0,_hbE=new Array;function _hbEvent(a,b){b=_hbE[_hbEC++]=new Object();b._N=a;b._C=0;return b;}
+var hbx=_hbEvent("pv");hbx.vpc="HBX0200u";
+
+	
+			hbx.gn="a.amd.com";
+	var hbxaccount = location.search;
+var Ishbxaccount=hbxaccount.indexOf("hbxacc");
+
+if (Ishbxaccount != -1)
+{
+	var lastIndex = hbxaccount.indexOf('&',Ishbxaccount);
+	if (lastIndex != -1)
+	{
+		hbx.acct = hbxaccount.substring(Ishbxaccount+7,lastIndex);
+	} else 
+	{
+		hbx.acct = hbxaccount.substring(Ishbxaccount+7);
+	}
+	
+} else {
+	
+	
+			hbx.acct="DM5702276MRS28EN3;DM570227ELEN28EN3";//ACCOUNT NUMBER(S)
+	}
+
+
+//BEGIN EDITABLE SECTION
+//CONFIGURATION VARIABLES
+
+hbx.pn=unescape(location.pathname.substring(location.pathname.lastIndexOf('/')+1,location.pathname.length)+location.search);//PAGE NAME (WITH DYNAMIC ARGS & UNESCAPED)
+hbx.mlc=unescape("/amd.com"+location.pathname.substring(0,location.pathname.lastIndexOf('/')));//MULTI-LEVEL CONTENT CATEGORY (UNESCAPED)
+hbx.pndef="0,,,00.html";//DEFAULT PAGE NAME
+hbx.ctdef="full";//DEFAULT CONTENT CATEGORY
+
+
+//OPTIONAL PAGE VARIABLES
+//ACTION SETTINGS
+hbx.lc="y";//FORCE LOWER CASE
+hbx.fv="";//FORM VALIDATION MINIMUM ELEMENTS OR SUBMIT FUNCTION NAME
+hbx.lt="auto";//LINK TRACKING
+hbx.dlf="n";//DOWNLOAD FILTER
+hbx.dft="n";//DOWNLOAD FILE NAMING
+hbx.elf="n";//EXIT LINK FILTER
+
+//SEGMENTS AND FUNNELS
+hbx.seg="";//VISITOR SEGMENTATION
+hbx.fnl="";//FUNNELS
+
+//CAMPAIGNS
+hbx.cmp="";//CAMPAIGN ID
+hbx.cmpn="";//CAMPAIGN ID IN QUERY
+hbx.dcmp="";//DYNAMIC CAMPAIGN ID
+hbx.dcmpn="";//DYNAMIC CAMPAIGN ID IN QUERY
+hbx.dcmpe="";//DYNAMIC CAMPAIGN EXPIRATION
+hbx.dcmpre="";//DYNAMIC CAMPAIGN RESPONSE EXPIRATION
+hbx.hra="";//RESPONSE ATTRIBUTE
+hbx.hqsr="";//RESPONSE ATTRIBUTE IN REFERRAL QUERY
+hbx.hqsp="";//RESPONSE ATTRIBUTE IN QUERY
+hbx.hlt="";//LEAD TRACKING
+hbx.hla="";//LEAD ATTRIBUTE
+hbx.gp="";//CAMPAIGN GOAL
+hbx.gpn="";//CAMPAIGN GOAL IN QUERY
+hbx.hcn="";//CONVERSION ATTRIBUTE
+hbx.hcv="";//CONVERSION VALUE
+hbx.cp="null";//LEGACY CAMPAIGN
+hbx.cpd="";//CAMPAIGN DOMAIN
+
+//CUSTOM VARIABLES
+hbx.ci="";//CUSTOMER ID
+hbx.hc1="";//CUSTOM 1
+hbx.hc2="";//CUSTOM 2
+hbx.hc3="";//CUSTOM 3
+hbx.hc4="";//CUSTOM 4
+hbx.hrf="";//CUSTOM REFERRER
+hbx.pec="";//ERROR CODES
+
+//INSERT CUSTOM EVENTS
+
+//END EDITABLE SECTION
+
+//REQUIRED SECTION. CHANGE "YOURSERVER" TO VALID LOCATION ON YOUR WEB SERVER (HTTPS IF FROM SECURE SERVER)
+
+<!--END WEBSIDESTORY CODE-->
+
+</script>
+
+<script type="text/JavaScript" src="/WebSideStory/hbx.js"></script>
 <script language="JavaScript1.1" src="//stats.surfaid.ihost.com/sacdcflash2.js"></script>
 
 
