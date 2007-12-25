@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smallbusiness.co.uk privacy policy that was archived on 2007-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070506123234id_/http%3A//www.smallbusiness.co.uk/5.83.90/corporate/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smallbusiness.co.uk privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225195356id_/http%3A//www.smallbusiness.co.uk/5.83.90/corporate/privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy
 
@@ -26,7 +26,7 @@ You can delete cookies previously sent by us from your computer and set your bro
 Please note that if you change your privacy settings to reject cookies we may not be able to provide you with subscription services that have a log-in procedure.  
 To find out more about cookies [click here](http://www.allaboutcookies.org/)
 
- **How is this information used?**  
+**How is this information used?**  
 Administration and Service provision  
 We use and store the information we collect: 
 
@@ -51,7 +51,7 @@ If you no longer wish us to contact you by any other means than email please let
 
 If you are no longer willing for us to share your email address and related information with third parties please send a blank email to: [nothirdparties@vitessemedia.co.uk](mailto:nothirdparties@vitessemedia.co.uk)
 
- **Who we share your information with:**  
+**Who we share your information with:**  
 We have a number of business partners with whom we may share your information in order to provide a service to you, for example credit card transaction and processing providers. These partners are not permitted to use your information for any other purpose. [Click here](https://secure.growthcompany.co.uk/Campaign.aspx?id=381) to view a list of data processors. 
 
 We also have a number of partner companies who provide links to our site. We use cookies to track any use by you of such links and, if you subsequently purchase a product or service from us, we may reward the partner. We only use the information gathered in this way for this purpose and we do not disclose personal information about you to the partner. 
@@ -65,23 +65,19 @@ By submitting your question to smallbusiness.co.uk and in businessGO you agree t
 
 The answer to each question is of necessity general in its nature and may not apply to your particular query or problem as it must be seen in the context of your business. Vitesse Media Plc accepts no responsibility in the event of mistake, omission or misinterpretation and cannot be held liable for any loss suffered as a consequence of any response given on this website or any other Vitesse Media Group publication. 
 
-**Updating your details:  
-** It is important to us that we have your correct contact information so that you don’t miss out on further correspondence or experience problems with the delivery of products. If any of your personal information changes including your email address or payment details, or if you simply wish to cancel any subscription to any service or publication, just let us know by emailing [info@vitessemedia.co.uk](mailto:info@vitessemedia.co.uk) or by edit your profile on SmallBusiness.co.uk, which you can do at any time.
+**Updating your details:** It is important to us that we have your correct contact information so that you don’t miss out on further correspondence or experience problems with the delivery of products. If any of your personal information changes including your email address or payment details, or if you simply wish to cancel any subscription to any service or publication, just let us know by emailing [info@vitessemedia.co.uk](mailto:info@vitessemedia.co.uk) or by edit your profile on SmallBusiness.co.uk, which you can do at any time.
 
- **Use of data for statistical and technical purposes:  
-** We may feed information we collect about you into anonymised statistical reports about visitors to our site and share these reports with our advertisers and other third parties.  
+**Use of data for statistical and technical purposes:** We may feed information we collect about you into anonymised statistical reports about visitors to our site and share these reports with our advertisers and other third parties.  
 We may log the IP addresses and browser types of visitors to the site to help us analyse and resolve technical issues. This information is not linked to any personal information we hold about you. 
 
-**Changes to this policy:  
-** Due to changes in legislation and best practice we may make changes to our privacy policy and will reflect those changes in this statement, so you should check here from time to time. 
+**Changes to this policy:** Due to changes in legislation and best practice we may make changes to our privacy policy and will reflect those changes in this statement, so you should check here from time to time. 
 
-**Contact details:  
-** If you have any queries or concerns about this statement, please contact us at: 
+**Contact details:** If you have any queries or concerns about this statement, please contact us at: 
 
 Vitesse Media Plc  
 Octavia House, 50 Banner Street, London, EC1Y 8ST  
 Tel: 020 7250 7010 Fax: 020 7250 7011.  
 [Privacy@vitessemedia.co.uk](mailto:Privacy@vitessemedia.co.uk)
 
-Annika Williams 020 7250 7037 [Annika.williams@vitessemedia.co.uk](mailto:Annika.williams@vitessemedia.co.uk)  
+Andy New 020 7250 7037 [Andy.News@vitessemedia.co.uk](mailto:Andy.News@vitessemedia.co.uk)  
 ©Vitesse Media plc 2005
