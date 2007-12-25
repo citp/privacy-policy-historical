@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the panerabread.com privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622114234id_/http%3A//panerabread.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panerabread.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225031005id_/http%3A//www.panerabread.com/legal/privacy.php) for the most accurate reproduction.*
 
 # Panera Bread® › Your Privacy
 
@@ -95,7 +95,7 @@ Although we endeavor to open a new browser window when you click on a link to a 
 
 ### Your California Privacy Rights
 
-Beginning on January 1, 2005, California Civil Code Section 1798.83 permits customers of Panera Bread who are California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to webmaster@panerbread.com or write us at: Panera Bread, 6710 Clayton Road, Richmond Heights, MO 63117, attention customer resource group.
+Beginning on January 1, 2005, California Civil Code Section 1798.83 permits customers of Panera Bread who are California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [webmaster@panerabread.com](mailto:webmaster@panerabread.com) or write us at: Panera Bread, 6710 Clayton Road, Richmond Heights, MO 63117, attention customer resource group.
 
 ### Governing Law
 
