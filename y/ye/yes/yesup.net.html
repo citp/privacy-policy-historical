@@ -1,464 +1,192 @@
-<!--The following is the downloaded HTML source of the yesup.net privacy policy that was archived on 2006-12-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061215164724id_/http%3A//www.yesup.net/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the yesup.net privacy policy that was archived on 2007-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071225234045id_/http%3A//www.yesup.net/privacypolicy.php) for the most accurate reproduction.-->
 
 <html><head>
-
-<title>Privacy Policy</title>
-
+<title>Private Policy</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-
-<link rel="stylesheet" href="css/style.css" type="text/css">
-
-<script language="JavaScript">
-
+<link href="css/footer_style.css" rel="stylesheet" type="text/css">
+<link href="css/main.css" rel="stylesheet" type="text/css"><link href="css/header_style.css" rel="stylesheet" type="text/css"><script language="JavaScript" type="text/JavaScript">
 <!--
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_showHideLayers() { //v6.0
+  var i,p,v,obj,args=MM_showHideLayers.arguments;
+  for (i=0; i<(args.length-2); i+=3) if ((obj=MM_findObj(args[i]))!=null) { v=args[i+2];
+    if (obj.style) { obj=obj.style; v=(v=='show')?'visible':(v=='hide')?'hidden':v; }
+    obj.visibility=v; }
+}
+function change_main_intro(g){
+	var intro_src = '';
+	var imgtag
+	if(g=='clicksor'){	
+		intro_src = "flash/clicksor.swf";
+	}else if(g=='xxxwebtraffic'){
+		intro_src = "flash/xxxwebtraffic.swf";
+	}else if(g=='adpreference'){
+		intro_src = "flash/adpreference.swf";
+	}else if(g=='momentsharing'){
+		intro_src = "flash/momentsharing.swf";
+	}else if(g=='paypopup'){
+		intro_src = "flash/paypopup_new.swf";
+	}else if(g=='blogsharing'){
+		intro_src = "flash/blogsharing.swf";
+	}else if(g=='popinads'){
+		intro_src = "flash/popinads.swf";	
+	}else if(g=='blogaddon'){
+		imgtag = '<img src="images/ad_blogaddon.jpg" width="776" height="250" border="0" usemap="#blogaddonMap"><map name="blogaddonMap"><area target="blank" shape="rect" coords="657,194,733,217" href="http://www.blogaddon.com/"></map>';
+		document.getElementById('main_flash').innerHTML = imgtag;
+	}else if(g=='asiatraffic'){
+		intro_src = "flash/asiatraffic.swf";
+		document.getElementById('main_flash').innerHTML = imgtag;
+	}else if(g=='yesad'){
+		imgtag = '<img src="images/ad_yesadvertising.jpg" width="776" height="250" border="0" usemap="#yesadMap"><map name="yesadMap"><area target="blank" shape="rect" coords="464,129,533,144" href="http://www.yesadvertising.com"></map>';
+		document.getElementById('main_flash').innerHTML = imgtag;
+	}else if(g=='yyui'){
+		imgtag = '<img src="images/ad_yyui.gif" width="776" height="250" border="0" usemap="#yyuiMap"><map name="yyuiMap"><area target="blank" shape="rect" coords="671,185,751,209" href="http://www.chinesefriend.net"><area target="blank" shape="rect" coords="634,216,752,235" href="http://www.yyui.com"></map>';
+		document.getElementById('main_flash').innerHTML = imgtag;
+	}
+	
+	if(intro_src!=''){
+		var flash_html = '<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" width="750" height="200"><param name="wmode" value="transparent"><param name=movie value="'+intro_src+'"><param name=quality value=high><embed wmode="transparent" src="'+intro_src+'" quality=high pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="750" height="200"></embed></object>';
+		document.getElementById('main_flash').innerHTML = flash_html;
+	}	
+	
+}
 
 function MM_swapImgRestore() { //v3.0
-
   var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
-
 }
-
-
 
 function MM_preloadImages() { //v3.0
-
   var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-
     var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-
     if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-
 }
-
-
-
-function MM_findObj(n, d) { //v4.0
-
-  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
-
-    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
-
-  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-
-  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
-
-  if(!x && document.getElementById) x=document.getElementById(n); return x;
-
-}
-
-
 
 function MM_swapImage() { //v3.0
-
   var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
-
    if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
-
 }
-
 //-->
+</script></head>
 
-</script>
 
-<script language="JavaScript">
 
-<!--
 
-function MM_reloadPage(init) {  //reloads the window if Nav4 resized
-
-  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
-
-    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
-
-  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
-
-}
-
-MM_reloadPage(true);
-
-// -->
-
-</script>
-
-</head>
-
-
-
-<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onload="MM_preloadImages('images/banner_clicksor_2.gif','images/banner_paypopup_2.gif','images/banner_yesup_2.gif','images/button_about_2.gif','images/button_news_2.gif','images/button_solution_2.gif','images/button_contact_2.gif','images/butt_pre.gif','images/butt_next.gif','images/banner_clicksor.gif','images/banner_paypopup.gif','images/banner_yesad.gif','images/banner_blogsharing.gif')">
-
-<table width="100%" border="0" cellspacing="0" cellpadding="0" height="100%" align="center">
-
-  <tbody><tr> 
-
-    <td class="index_table" valign="middle" align="center"> 
-
-      <table width="786" border="0" cellspacing="0" cellpadding="0">
-
-        <tbody><tr> 
-
-          <td class="index_bg" valign="top" align="center">
-
-            <table width="776" border="0" cellspacing="0" cellpadding="0" height="80" class="top_shadow_2">
-
-              <tbody><tr> 
-
-                <td width="240" nowrap="" valign="top"><a href="index.htm"><img src="images/yesup_logo_2.gif" width="162" height="26" alt="YesUp" border="0"></a></td>
-
-                <td align="right" nowrap="" valign="top"> 
-
-                  <table width="500" border="0" cellspacing="0" cellpadding="0" height="20">
-
-                    <tbody><tr> 
-
-                      <td class="home_topsearch" align="right" nowrap="" style="padding-right:10"><img src="images/icon_advertising_blue.gif" width="10" height="11" alt="home"></td>
-
-                      <td class="home_topsearch" nowrap="" width="35" align="left"><a href="index.htm" class="home_topsearch">Home</a></td>
-
-                      <td class="home_topsearch" align="center" nowrap="" width="10">l</td>
-
-                      <td class="home_topsearch" align="right" nowrap="" width="20"><img src="images/icon_advertising_1.gif" width="10" height="10" alt="Search"></td>
-
-                      <form action="http://www.yesup.com" name="searchf" method="post"></form>
-
-                      <td class="home_topsearch" align="right" nowrap="" width="110"> 
-
-					  	
-
-								
-
-								<input type="hidden" name="extra_qry" value="">
-
-								<input type="hidden" name="per_page" value="15">
-
-								<input type="hidden" name="page" value="1">
-
-								<input type="hidden" name="qry_id" value="">
-
-								<input type="hidden" name="logo" value="./templates/images/yesup_logo.gif">
-
-								<input type="hidden" name="clicksor_num_sponsor_ad" value="3">
-
-								<input type="hidden" name="page_bg_color" value="#FFFFFF">
-
-								<input type="hidden" name="sponsor_box_bg_color" value="#F0F5FB">
-
-								<input type="hidden" name="title_font_size" value="3">
-
-								<input type="hidden" name="desc_font_size" value="2">
-
-								<input type="hidden" name="title_color" value="blue">
-
-								<input type="hidden" name="desc_color" value="black">
-
-								<input type="hidden" name="new_win_icon" value="./templates/images/newwin.gif">
-
-								<input type="hidden" name="source_title_color" value="blue">
-
-
-
-								<input type="hidden" name="source_title_size" value="-3">
-
-								<input type="hidden" name="real_url_color" value="green">
-
-								<input type="hidden" name="real_url_size" value="-1">
-
-								<input type="hidden" name="pid" value="1001">
-
-								<input type="hidden" name="sid" value="1125">
-
-                        		<input type="text" name="qry_str" class="search_field" size="20">
-
-								
-
-						
-
-                      </td>
-
-					  <td class="home_topsearch" nowrap="" width="40" align="center" valign="middle"><input type="image" src="images/search_button.gif" width="40" height="12" border="0"></td>
-
-					  
-
-                      <td class="home_topsearch" nowrap="" width="10" align="center">l</td>
-
-                      <!--
-
-					  <td class="home_topsearch" nowrap width="20" align="center"><img src="images/icon_service_3.gif" width="11" height="10" alt="Download"></td>
-
-                      <td class="home_topsearch" nowrap width="50"> 
-
-                        <p><a href="download.htm" class="home_topsearch">Download</a></p>
-
-                      </td>
-
-                      <td class="home_topsearch" nowrap width="10" align="center">l</td>
-
-                      -->
-
-					  <td class="home_topsearch" nowrap="" width="20" align="center"><img src="images/icon_service_blue.gif" width="10" height="12"></td>
-
-                      <td class="home_topsearch" nowrap="" width="70"><a href="http://www7.paypopup.com/phplive/request_email.php?l=Admin&amp;x=1&amp;deptid=0" target="blank" class="home_topsearch">Live 
-
-                        support</a></td>
-
-                    </tr>
-
-                  </tbody></table>
-
-                </td>
-
-              </tr>
-
-              <tr valign="bottom" align="right"> 
-
-                <td colspan="2" height="35" nowrap=""> 
-
-                  <table width="500" border="0" cellspacing="0" cellpadding="0">
-
-                    <tbody><tr align="center"> 
-
-                      <td class="home_topmenu" width="115" nowrap=""><a href="aboutus.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('about us1','','images/button_about_2.gif',1)"><img name="about us1" border="0" src="images/button_about_1.gif" width="100" height="15" alt="About Yesup"></a></td>
-
-                      <td width="12" class="home_topmenu" nowrap=""><img src="images/blue_stick.gif" width="10" height="15"></td>
-
-                      <td class="home_topmenu" width="111" nowrap=""><a href="news.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('news1','','images/button_news_2.gif',1)"><img name="news1" border="0" src="images/button_news_1.gif" width="100" height="15" alt="Yesup news"></a></td>
-
-                      <td width="12" class="home_topmenu" nowrap=""><img src="images/blue_stick.gif" width="10" height="15"></td>
-
-                      <td class="home_topmenu" style="padding-right:5" width="127"><a href="solution.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('solution1','','images/button_solution_2.gif',1)"><img name="solution1" border="0" src="images/button_solution_1.gif" width="100" height="15" alt="Yesup Solutions"></a></td>
-
-                      <td width="12" class="home_topmenu" nowrap=""><img src="images/blue_stick.gif" width="10" height="15"></td>
-
-                      <td class="home_topmenu" width="111" nowrap=""><a href="contactus.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('contact1','','images/button_contact_2.gif',1)"><img name="contact1" border="0" src="images/button_contact_1.gif" width="100" height="15" alt="Contact Yesup"></a></td>
-
-                    </tr>
-
-                  </tbody></table>
-
-                </td>
-
-              </tr>
-
-              <tr valign="top" align="left"> 
-
-                <td colspan="2" height="15" nowrap="" class="where_r_u"><a href="index.htm" class="where_r_u">Home</a> 
-
-                  <img src="images/blue_arrow.gif" width="7" height="7"> Privacy 
-
-                  Policy</td>
-
-              </tr>
-
-            </tbody></table>
-
-            <table width="776" border="0" cellspacing="0" cellpadding="0">
-
-              <tbody><tr> 
-
-                <td class="body" style="padding-left:20;padding-right:200;padding-top:40;padding-bottom:20">
-
-                  <p class="body_bigtitle">Privacy Policy</p>
-
-                  <p><b>Personal Information </b><br>
-
-                    At YesUp.net (YesUp) we are committed to protecting your privacy. 
-
-                    Any information we collect, such as email addresses, is submitted 
-
-                    at the visitor's will. We do not and will not share any personal 
-
-                    information with any third parties unless by governmental 
-
-                    order. Other information is collected by our Payment Services 
-
-                    provider but we have no access to this information. You may 
-
-                    direct further inquiries to the Payment Services provider 
-
-                    here: <br>
-
-                    <a href="http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/privacy-outside" class="link">http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/privacy-outside</a><br>
-
-                    2checkout.com: <br>
-
-                    <a href="http://www.2checkout.com" class="link">http://www.2checkout.com</a></p>
-
-                  <p><b>Cookies </b><br>
-
-                    Your browser offers so-called "cookies", which - 
-
-                    if you allow their use - store small amounts of data on your 
-
-                    computer about your visit to any of our sites. Cookies assist 
-
-                    us in tracking which of our features you like best. And when 
-
-                    you re-visit our sites, cookies can enable us to customize 
-
-                    our content according to your preferences. However, cookies 
-
-                    tell us nothing about you personally. <br>
-
-                    We may use cookies to: <br>
-
-                    ::Save your password so you don't have to re-enter it each 
-
-                    time you visit our sites.<br>
-
-                    We do not use cookies to identify, monitor or track any personally 
-
-                    identifiable information. Our cookies in and of themselves 
-
-                    do not contain any personally identifiable information about 
-
-                    you. We do not merge or associate our cookie information with 
-
-                    any personally identifiable information obtained by us or 
-
-                    from third parties. You also have choices with respect to 
-
-                    cookies. By modifying your browser preferences, you have the 
-
-                    choice to accept all cookies, to be notified when a cookie 
-
-                    is set, or to reject all cookies. For more information on 
-
-                    how to modify your browser settings to block or filter cookies, 
-
-                    see http://www.cookiecentral.com/faq/. However, note that 
-
-                    if you reject some or all cookies, your experience at our 
-
-                    sites and on other sites throughout the World Wide Web may 
-
-                    not be complete. Some sites require cookies to function, such 
-
-                    as those with e-commerce features. In addition, if you do 
-
-                    not allow cookies, you will not be able to take advantage 
-
-                    of personalized content delivery offered by us or other Internet 
-
-                    sites. <br>
-
-                  </p>
-
-                  <p><b>Third Party Cookies At Our Sites </b><br>
-
-                    While we use cookies in other parts of our Web site, cookies 
-
-                    received with the payment processes are placed by our Payment 
-
-                    Services provider. We do not have access to these cookies 
-
-                    or any information that they may contain. Please contact the 
-
-                    Payment Services provider for more information on these cookies.<br>
-
-                    PayPal.com: <br>
-
-                    <a href="http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/privacy-outside" class="link">http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/privacy-outside</a><br>
-
-                    2checkout.com: <br>
-
-                    <a href="http://www.2checkout.com" class="link">http://www.2checkout.com</a><br>
-
-                  </p>
-
-                  <p><b>Registration Forms </b><br>
-
-                    Our site's registration form requires users to give us contact 
-
-                    information (like their name, email, and postal address).</p>
-
-                  <p>Contact information from the registration forms is used to 
-
-                    get in touch with the customer when necessary. </p>
-
-                  <p><b>External Links </b><br>
-
-                    This site contains links to other sites. YesUp is not responsible 
-
-                    for the privacy practices or the content of such Web sites. 
-
-                  </p>
-
-                  <p><b>Contacting the Web Site </b><br>
-
-                    If you have any questions about this privacy statement, the 
-
-                    practices of this site, or your dealings with this Web site, 
-
-                    you can contact: <a href="mailto:webmaster@yesup.net" class="link">webmaster@yesup.net</a><br>
-
-                  </p>
-
-                </td>
-
-              </tr>
-
-            </tbody></table>
-
-            <table width="776" border="0" cellspacing="0" cellpadding="0" height="20">
-
-              <tbody><tr align="center"> 
-
-                <td class="bottom_menu"><a href="corporate_vision.htm" class="bottom_menu">Corporate 
-
-                  vision</a></td>
-
-                <td width="14" nowrap="" class="bottom_menu">l</td>
-
-                <td class="bottom_menu"><a href="careers.htm" class="bottom_menu">Careers</a></td>
-
-                <td width="14" nowrap="" class="bottom_menu">l</td>
-
-                <td class="bottom_menu"><a href="tos.htm" class="bottom_menu">Term 
-
-                  of use</a></td>
-
-                <td width="14" nowrap="" class="bottom_menu">l</td>
-
-                <td class="bottom_menu"><a href="privacy.htm" class="bottom_menu">Privacy 
-
-                  Policy</a></td>
-
-                <td width="14" nowrap="" class="bottom_menu">l</td>
-
-                <td class="bottom_menu"><a href="sitemap.htm" class="bottom_menu">Site 
-
-                  Map</a></td>
-
-                <td width="14" nowrap="" class="bottom_menu">l</td>
-
-                <td class="bottom_menu" align="right" style="padding-right:10">© 
-
-                  1999-2006 YesUp ECommerce</td>
-
-              </tr>
-
-            </tbody></table>
-
-          </td>
-
-        </tr>
-
-      </tbody></table>
-
-      
-
-      
-
-      
-
-    </td>
-
+<body style="margin:0px" onload="MM_preloadImages('images/icon_home_white.gif')">
+<div style="padding:5px 0px 10px 0px" align="center"><table width="750" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td style="padding-bottom:5px"><a href="index.php"><div class="top_logo"></div></a></td>
+    <td align="right" valign="bottom" class="top_quicklink" style="padding-bottom:5px"><a href="#">LIVE SUPPORT</a> | <a href="contact.php">1.866.708.1666 / 1.905.763.9735</a></td>
   </tr>
-
+</tbody></table>
+</div>
+<div style="padding:0px 0px 10px 0px" align="center">
+	<table width="750" border="0" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td class="top_menu_left"><a href="index.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('home','','images/icon_home_white.gif',1)"><img src="images/icon_home.gif" alt=">" name="home" width="22" height="8" border="0">Back to YESUP HOME</a></td>
+    <td class="top_menu"><a href="solution.php">SOLUTIONS</a></td>
+    <td class="top_menu"><a href="news.php">NEWS</a></td>
+    <td class="top_menu"><a href="company.php">COMPANY</a></td>
+    <td class="top_menu"><a href="contact.php">CONTACT</a></td>
+    <td class="top_menu_search" style="padding:0 0 0 32"><input name="textfield" type="text" class="search_text_field"></td>
+    <td class="top_menu_search" style="padding:0 3 0 10"><a href="#">SEARCH</a></td>
+    <td style="background-image:url(images/topmenu_r_grey.gif); background-repeat:no-repeat; width:17px; height:32; background-position:center"><div></div></td>
+  </tr>
 </tbody></table>
 
-
-
-
+</div>
+<div style="padding-bottom:10" align="center">
+<table width="750" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr valign="top">
+    <td width="505"><table width="500" border="0" cellspacing="0" cellpadding="0">
+      <tbody><tr>
+        <td valign="bottom" class="box_header_white" style="padding-left:10">PRIVATE POLICY</td>
+      </tr>
+      <tr>
+        <td class="box500_bg" style="padding:10 14 0 14">
+			<div class="text_dark">
+			  <p><strong>Personal Information </strong><br>
+At YesUp.net (YesUp) we are committed to protecting your privacy. Any information we collect, such as email addresses, is submitted at the visitor's will. We do not and will not share any personal information with any third parties unless by governmental order. Other information is collected by our Payment Services provider but we have no access to this information. You may direct further inquiries to the Payment Services provider here: <br>
+<a href="http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/privacy-outside">http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/privacy-outside </a><br>
+2checkout.com: <br>
+<a href="http://www.2checkout.com">http://www.2checkout.com </a></p>
+			  <p><strong>Cookies </strong><br>
+  Your browser offers so-called "cookies", which - if you allow their use - store small amounts of data on your computer about your visit to any of our sites. Cookies assist us in tracking which of our features you like best. And when you re-visit our sites, cookies can enable us to customize our content according to your preferences. However, cookies tell us nothing about you personally. <br>
+  We may use cookies to: <br>
+  ::Save your password so you don't have to re-enter it each time you visit our sites. <br>
+  We do not use cookies to identify, monitor or track any personally identifiable information. Our cookies in and of themselves do not contain any personally identifiable information about you. We do not merge or associate our cookie information with any personally identifiable information obtained by us or from third parties. You also have choices with respect to cookies. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. For more information on how to modify your browser settings to block or filter cookies, see http://www.cookiecentral.com/faq/. However, note that if you reject some or all cookies, your experience at our sites and on other sites throughout the World Wide Web may not be complete. Some sites require cookies to function, such as those with e-commerce features. In addition, if you do not allow cookies, you will not be able to take advantage of personalized content delivery offered by us or other Internet sites. <br>
+              </p>
+			  <p><strong>Third Party Cookies At Our Sites </strong><br>
+  While we use cookies in other parts of our Web site, cookies received with the payment processes are placed by our Payment Services provider. We do not have access to these cookies or any information that they may contain; please contact the Payment Services provider for more information on these cookies. <br>
+  PayPal.com: <br>
+  <a href="http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/privacy-outside">http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/privacy-outside </a><br>
+  2checkout.com: <br>
+  <a href="http://www.2checkout.com">http://www.2checkout.com </a><br>
+              </p>
+			  <p><strong>Registration Forms </strong><br>
+  Our site's registration form requires users to give us contact information (like their name, email, and postal address). </p>
+			  <p>Contact information from the registration forms is used to get in touch with the customer when necessary. </p>
+			  <p><strong>External Links </strong><br>
+  This site contains links to other sites. YesUp is not responsible for the privacy practices or the content of such Web sites. </p>
+			  <p><strong>Contacting the Web Site </strong><br>
+  If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: <a href="mailto:webmaster@yesup.net">webmaster@yesup.net </a></p>
+			</div>
+		</td>
+      </tr>
+      <tr>
+        <td><div class="box500_bottom"></div></td>
+      </tr>
+    </tbody></table></td>
+    <td width="245" align="right">
+	
+<div style="padding-bottom:10"><table width="240" border="0" cellspacing="0" cellpadding="0">
+      <tbody><tr>
+        <td class="box_header_grey"><div class="box_header_left_grey">COMPANY HOME</div></td>
+      </tr>
+      <tr>
+        <td class="box245_bg">
+			<div style="padding-bottom:5"><a href="company.php"><img src="images/icon_list.gif" border="0"> ABOUT YESUP</a></div>
+			<div style="padding-bottom:5"><a href="http://clicksor.com/career.php"><img src="images/icon_list.gif" border="0"> CAREER OPPORTUNITIES</a></div>
+			<div style="padding-bottom:5"><a href="corporate_vision.php"><img src="images/icon_list.gif" border="0"> CORPORATE VISION</a></div>
+			<div style="padding-bottom:5"><a href="contact.php"><img src="images/icon_list.gif" border="0"> CONTACT YESUP</a></div>
+		</td>
+      </tr>
+      <tr>
+        <td><div class="box245_bottom"></div></td>
+      </tr>
+    </tbody></table></div>
+	<div style="padding-bottom:10">
+		<table width="240" border="0" cellspacing="0" cellpadding="0">
+      <tbody><tr>
+        <td class="box_header_grey"><div class="box_header_left_grey">FEATURED SITE</div></td>
+      </tr>
+      <tr>
+        <td id="featured" class="featured_adpreference"><div>
+				<div style="padding-bottom:10"><img src="images/logo_adpreference.gif" alt="Adpreference" width="135" height="25"></div>
+				<div style="padding-bottom:5"><b>Interstitial Advertising:</b> The full-page advertisement that ensures a targeted ad does not become entirely disruptive to the user experience.</div>
+				<div align="right"><a href="http://www.adpreference.com">Launch site »</a></div>
+			</div></td>
+      </tr>    </tbody></table>
+	</div>	</td>
+  </tr>
+</tbody></table>
+</div>
+<div align="center">
+	<table width="740" border="0" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td class="footer_navigation"><a href="corporate_vision.php">Corporate Vision</a> | <a href="http://clicksor.com/career.php">Careers</a> | <a href="termsofuse.php">Terms of Use</a> | <a href="privacypolicy.php">Privacy Policy</a> | <a href="http://reseller.yesup.net">Reseller</a> | <a href="http://www.yesup.com">YesUp Search</a> | <a href="http://www.clicksor.com">Clicksor</a> | <a href="http://www.adpreference.com">AdPreference</a> | <a href="contact.php">Contact Us</a></td>
+  </tr>
+  <tr>
+    <td class="copyright" style="padding-top:5;padding-left:3">Copyright © 1999-2007 YesUp ECommerce. All rights reserved. </td>
+  </tr>
+</tbody></table>
+</div>
 
 </body></html>
