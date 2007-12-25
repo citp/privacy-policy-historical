@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the planetary.org privacy policy that was archived on 2007-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070402225354id_/http%3A//www.planetary.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetary.org privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225205455id_/http%3A//www.planetary.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The Planetary Society
 
-The Planetary Society takes online privacy and security concerns seriously. Below, you will find information about our online privacy olicy, including how and when we collect information through our webite, and how this information will be used. Personal information collected for contests and online newsletters, including email addresses, will not be released to any third parties.
+The Planetary Society takes online privacy and security concerns seriously. Below, you will find information about our online privacy policy, including how and when we collect information through our webite, and how this information will be used. Personal information collected for contests and online newsletters, including email addresses, will not be released to any third parties.
 
 ### Contests
 
