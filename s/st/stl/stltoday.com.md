@@ -1,102 +1,79 @@
-> *The following text is extracted and transformed from the stltoday.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627013208id_/http%3A//www.stltoday.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stltoday.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225130656id_/http%3A//www.stltoday.com/help/privacy-policy) for the most accurate reproduction.*
 
 # STLtoday - Help Center - Privacy Policy
 
+|  |  |   
+---  
+  
 Privacy Policy
 
   
 
 
-STLtoday.com believes in keeping your confidential information just that...confidential. Subject to the terms below, we will not sell to or share with anyone your personally identifiable information. We will share with potential advertisers only aggregate visitor information. 
+  
+Welcome to the web sites of the St. Louis Post-Dispatch, LLC. We (which includes our parent company, Lee Enterprises, Incorporated) believe in your right to know what information is collected during your visit to our web sites and how that information is used and safeguarded. 
 
-**WHAT INFORMATION IS COLLECTED**
+**Information Automatically Gathered About All Visitors**  
+We collect aggregate and user-specific information on which pages consumers access or visit. This information is used to generate reports that help us assess the value of and interest in the various web sites we provide. We use the information we collect to improve the content of our web pages. We can build a better site if we know which pages our users are visiting, how often they visit and how long they stay on a page.
 
-We collect a limited amount of personal information from you in certain areas of STLtoday.com for various reasons.
+Our web servers automatically collect limited information about your computer's connection to the Internet, including your IP address (but not the e-mail address), when you visit our sites. Your IP address does not contain personally identifiable information, nor does it identify you personally. We use this information to deliver our web pages to you upon request, to tailor our sites to the interests of our users, and to measure traffic within our sites. 
 
-The following is a description of what information is collected.
+To help make our sites more responsive to the needs of our visitors, we may utilize a standard feature of browser software called a "cookie." A cookie is a small piece of computer code that is deposited on your hard drive by our site. Browsers typically recognize when a cookie has been sent to your computer and give you the option to refuse or allow it. A cookie does not actually identify you, just the computer that you are using to access our site. A cookie cannot read data off your hard drive. Our advertisers, content partners and sites that are reached from links on our site may also assign their own cookies to your browser, a process that we cannot control. 
 
-**Registration Information**
+We use cookies to help us tailor our site to your needs so we can deliver a better and more personalized service. It is a cookie, for example, that allows us to deliver to you any personalized information each time you visit a site. 
 
-Registration is necessary to participate in the Forums and to enter contests and promotions. When you register at STLtoday.com, we ask you for a few items of personal information. We require that you provide a user name, your first name, your last name, your zip code, your e-mail address, your birth date, and your gender. You are also given the option to provide information on your interests. All of this optional information is used to deliver a more personal and pertinent experience for users of STLtoday.com.
+In addition, we can access cookies later in your current session or in a later session on our site in order to improve your visit to our web site, as in the following examples: 
 
-Other features of the site, such as TV listings are third party services and require a separate registration. You should review the applicable privacy policies of these affiliated third party sites before providing personally identifiable information. STLtoday.com is not responsible for any actions or policies of such third parties.
+**Account Registration**
 
-**IP Addresses**
+If your use of a component of the site requires you to register, a cookie will be used to automatically identify you as a registered user when you are using our site. These cookies are known as persistent cookies and continue on your computer after the initial session in which they are created. 
 
-An IP address is a number assigned to your computer when you connect to the Internet. As part of the protocol of the Internet, web servers can identify your computer by its IP address. In addition, web servers may be able to identify the type of browser you are using or even the type of computer. 
+**Payment Identification**
 
-STLtoday.com
+This cookie allows us to maintain information containing the products (like photo reprints) or services (such as placing a classified advertisement or signing up for home delivery) you are purchasing while you are online. To limit unauthorized access, this cookie, also called a session cookie, expires whenever you exit a browser session.
 
-collects IP addresses and related information for the purposes of system administration, to assess the traffic to our site, to report aggregate information to our advertisers, and to maintain and improve our site. We do not link IP addresses to your personally identifiable information. We can and will use IP addresses, however, to identify a user when we feel it is necessary to enforce compliance with our terms of service or to protect our service, site, customers or others. 
+  
+Like many other commercial sites, our sites may utilize an electronic file called a web beacon to count users who have visited a page or to recognize users by accessing certain cookies. Our site and/or our partner web sites use web beacons for auditing purposes and to collect information from the websites of certain partners. Information recorded through these web beacons is used to report anonymous individual and/or aggregate information about our users from our partners. Aggregate information may include demographic and usage information. No personally identifiable information about you is shared with partners. _To opt-out of a third parties’ use of web beacons please_[ _click here_](http://www.omniture.com/privacy/policy#optout) _._   
+**Information Gathered by Voluntary Submission**  
+To make use of certain features on our web sites (such as contests, story comments, letters to the editor, personalized web pages and other interactive forums and blogs) visitors need to register and to provide certain information as part of the registration or participation process. We may ask, for example, for your name, e-mail address, gender, age, and zip code, and we might request information on your interest in sports, personal finance, the performing arts, and the like. The information you supply will help us offer you more personalized features, to tailor our sites to your interests and make them more useful to you. The more you tell us about yourself, the more value we can offer you. Supplying such information is entirely voluntary. But if you do not supply the information we need, we may be unable to provide you with services and content we make available to other visitors to our sites. Of course, even if you want to remain completely anonymous, you are still free to take advantage of the wealth of content that is otherwise available, without registration, on our sites.
 
-**Use Of Cookies**
+******Children under the Age of 13**  
+_If you are under the age of 13, do not send us any information about yourself such as your name, address or e-mail address. You may only send us personally identifiable information if your parents have verified to us their consent to the collection of the information._
 
-Cookies are small bits of information that some Web sites (including STLtoday.com) transfer to an individual's hard drive for research purposes. STLtoday.com uses cookies to analyze the traffic, such as total visitors and pages viewed on our site, and make improvements based on the data we collect. STLtoday.com never saves passwords or credit card information in cookies. The use of cookies has become a standard in the industry, especially at Web sites that provide any kind of personalized service.
+Because we are a media company, some of our online services and content may be attractive to children. Because we strive to protect the privacy of all users of our site, including children, we endeavor to comply with the Children’s Online Privacy Protection Act. Our site:
 
-Most browsers are initially set up to accept cookies. You can usually set your browser to refuse cookies or indicate when a cookie is being sent. If you refuse cookies, you may not be able to use some of the functionality of STLtoday.com. Cookies may also be used by STLtoday.com’s advertisers and partners from third party sites to which STLtoday.com links. We do not control these cookies. The use of cookies by advertisers is standard in the Internet industry.
+· Includes our contact information.  
+· Explains the types of personal information we collect, and how we use it.  
+· Explains our practices in terms of sharing personal information with third parties.  
+· Allows parents to consent to the collection and use of their children’s personal information, without consenting to disclosure to third parties.  
+· Does not condition a child’s participation in an activity on the child’s providing more personal information than is reasonably necessary for the activity.  
+· Allows parents to review their child’s information, have it deleted, or refuse to permit any further collection, by contacting us.
 
-**WHO IS COLLECTING THIS INFORMATION**
+We make a special effort to encourage children under the age of 13 to consult with their parents before furnishing any personal data. However, we also believe that parents should supervise their children's online activities and consider using parental control tools available from online services and software manufacturers that help provide a child-friendly online environment. These tools can also prevent children from disclosing their name, address, and other personal information online without parental permission. For additional information about parental control tools, please consult 
 
-STLtoday.com collects this information via our web site. In the case of co-branded sites, various third parties may collect such information. You should review the applicable privacy policies of these third parties before providing personally identifiable information. STLtoday.com is not responsible for any actions or policies of such third parties. 
+<http://www.icra.org/_en/parents>
 
-While you are using STLtoday.com, you may be linked or directed to other third party sites outside STLtoday.com that are beyond STLtoday.com’s control. For example, you might click on a link or banner ad that will take you off STLtoday.com’s site. Each of these third parties may have a privacy policy different from that of STLtoday.com. These other sites may send their own cookies to users, collect data or solicit personal information. You should review the applicable privacy policies of these third party sites before providing personally identifiable information. These links and banners may take you to sites of advertisers, sponsors and co-branding partners. Please review the privacy policies of these sites. STLtoday.com is not responsible for any actions or policies of such third parties.
+**E-mails from Us**  
+Upon registering with our website, you may begin receiving communications from us. In addition, if you have signed up for any of our automated account services, we will send you transactional e-mails regarding the status of your account, including confirmations, notices of expiration and renewal and other related electronic correspondence. If you have signed up for any of our e-mail newsletters, you may stop receiving them if you follow the "unsubscribe" instructions located near the bottom of each newsletter. We may send you an e-mail inviting you to participate in subscriber or website user surveys. Such surveys greatly help us improve our services and the value of our web sites. Any information you give us in those surveys will not be shared with any third parties except in aggregate form. 
 
-**HOW COLLECTED INFORMATION IS USED**
+**What We Do With the Information We Gather About You**  
+We or one of our affiliated companies may perform statistical, marketing and demographic analyses of our delivery subscribers and their subscription patterns. In addition, we may generally inform our advertisers about our subscriber base. When we present information to our advertisers -- to help them understand our audience and confirm the value of advertising on our websites -- it is usually in the form of aggregated statistics on traffic to various pages within our sites. We will not share individual user information with third parties unless the user has specifically approved the release of that information. In some cases, however, we may provide information to legal officials as described in “Compliance with Legal Process” below.
 
-STLtoday.com uses registration information to learn more about how visitors use the site and to measure areas of interest. This allows STLtoday.com to build features and functionality that will enhance your STLtoday.com experience. We also use the registration process to filter out those who post to STLtoday.com’s Forums but do not comply with our User Agreement. Information collected for classified ad placement and auctions is used for business purposes to assist in the placement of ads and to ensure the integrity of the auction process. If you so choose when you register, registration information might also be used to send you e-mails about new features and services on STLtoday.com, or to send you e-mails from selected third party product or service providers. We might also use this information to respond to e-mails, provide customer support, enforce our User Agreement or other similar matters. 
+In some cases, we contract with third parties to provide services on our behalf, including credit-card and bill processing, shipping, e-mail distribution, list processing and analytics or promotions management. We provide these third parties only with the information necessary for them to perform their specific services. These service providers are restricted from using this information in any way other than to provide services to us, and they may not share this information with any one else nor may they resell this data.
 
-Aggregate information is also used to help us run and maintain our site, study traffic patterns and generally learn about the usage of our site. Some of this aggregate information may be used to help us set advertising rates, determine advertising fees, and attract advertisers and co-branding partners.
+**Compliance with Legal Process**  
+We may disclose personal information if we or one of our affiliated companies is required by law to disclose personal information, or if we believe in good faith that such action is necessary to comply with a law or some legal process, to protect or defend our rights and property, to protect against misuse or unauthorized use of our web sites or to protect the personal safety or property of our users or the public.
 
-**WITH WHOM THE INFORMATION MAY BE SHARED**
+**A Final Note:**  
+We are affiliated with other online companies, some of which feature our branding; in addition there are numerous links to third parties contained on our site. Our Privacy Policy does not apply to those companies' web sites, so you should refer to each of those sites to obtain information on their privacy policies. If you cannot find the privacy policy on any of these sites once you have arrived at their site via a link from our site, you should contact that site directly for more information. 
 
-Except for the following exceptions, we will not knowingly authorize the disclosure of your personal identifiable information (other than aggregate statistical information) to third parties without your consent. First, we may disclose user information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may have breached our User Agreement or who may be causing injury to or interference with (either intentionally or unintentionally) STLtoday.com’s rights or property, other STLtoday.com users, or anyone else who could be harmed by such activities. Second, we may disclose user information when we believe in good faith that the law requires it.
+The web is an evolving medium. If we need to change our Privacy Policy at some point in the future, we will post the changes before they take effect if we believe that the change in the way we use your personal information is significant or material. Of course, our use of information gathered while the current policy is in effect will always be consistent with the current policy, even if we change that policy later.  
 
-It is important to know that you may inadvertently provide personally identifiable information to third parties through your postings to a forum or participation in a chat session. For example, while we do not make your real name available in forums, your user name is visible and may reveal information about yourself. We encourage you to give some thought to the privacy implications of your choice of a user name. 
 
-**CHOICES YOU CAN MAKE ABOUT COLLECTION, USE AND DISTRIBUTION OF INFORMATION**
+Last updated on 09/12/07
 
-At the time of registration, you are given a choice whether you want to receive information from STLtoday.com or from third parties. Your first choice is whether you want to receive e-mails about new features, events and special coverage on the site. Your second choice is whether you want to receive e-mails about special offers from STLtoday.com advertisers. When you register, you must click in a box if you want to receive either type of e-mail. Unless you affirmatively choose to receive these e-mails, you will not receive information of this kind.
+  
+# 4125080_v1 
 
-Forum Postings: Because you can place as much or as little personal information as you want in a forum posting, we want to remind you that STLtoday.com users may read postings in forums and we have no way to limit their use of personally identifiable information you may provide. Please keep in mind that whenever you give out personal information online (for example, in forums, message boards or chat sessions) that information can be collected and used by people you don't know. While we strive to protect our user's personal information and privacy, we cannot guarantee the security of any information you voluntarily disclose online and you do so at your own risk.
 
-If you want to change, correct or update your registration information and preferences to which you have previously opted-in, please login on any forum page and select "Profile" from the list on the right-hand side of the page. Make the desired revisions in your profile and save. To eliminate your registration from the STLtoday.com database e-mail your request to sitehelp@stltoday.com. This provision applies only to registration information collected via our web site.
-
-**CHILDREN UNDER THE AGE OF 13 YEARS**
-
-In accordance with the Children’s Online Privacy Protection Act (COPPA), STLtoday.com will not accept personally identifiable information from a child under the age of 13 without a parent’s or guardian’s prior consent. STLtoday.com will also allow the parent or guardian of a registered user under the age of 13 to review, update, change, delete or refuse to permit further collection of any and all information collected by STLtoday.com. A child’s personally identifiable information will be treated with the same care and respect as an adult’s information. To change, update, review, delete or refuse to permit further collection of your child's information, please send an e-mail to sitehelp@STLtoday.com, call STLtoday.com's Customer Support at (314) 657-3300, or send a letter via postal mail to:
-
-STLtoday.com  
-c/o Customer Support  
-900 N. Tucker Blvd.  
-St. Louis, MO 63101
-
-To register a child under the age of 13, please fill out the following form, fax the form to STLtoday.com at (314) 657-3301 or mail it to:
-
-STLtoday.com  
-c/o Customer Support   
-900 N. Tucker Blvd.  
-St. Louis, MO 63101
-
-**LINKS TO OTHER SITES**
-
-While you are using STLtoday.com, you may be linked or directed to other third party sites outside STLtoday.com that are beyond our control. Each of these third parties may have a privacy policy different from that of STLtoday.com. For example, you might click on a link or banner ad that will take you off our site. These links and banners may take you to sites of advertisers, sponsors and co-branding partners. Please review the privacy policies of these sites. STLtoday.com is not responsible for any actions or policies of such third parties.
-
-These other sites may send their own cookies to users, collect data or solicit personal information. You should review the applicable private policies of these third party sites before providing personally identifiable information. STLtoday.com is not responsible for any actions or policies of such third parties.
-
-**HOW YOU MAY CHANGE OR CORRECT YOUR INFORMATION**
-
-If you want to change, correct or update your registration information and preferences to which you have previously opted-in, please login on any forum page and select "Profile" from the list on the right-hand side of the page. Make the desired revisions in your profile and save. To eliminate your registration from the STLtoday.com database e-mail your request to sitehelp@stltoday.com, call STLtoday.com’s Customer Support at (314) 657-3300 or send your request to STLtoday.com, c/o Customer Support, 900 N. Tucker Blvd., St. Louis, MO 63101 and the necessary revision(s) will be made. This provision applies only to registration information collected via our web site.
-
-**SECURITY PROCEDURES WE USE**
-
-We are very concerned with the security of your personally identifiable information and take great care in providing secure transmission of your information from your PC to our servers. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, we cannot guarantee the security of any information you transmit to us. 
-
-Once we receive your information, we take appropriate steps that we believe are reasonable to protect the security of your data on our system, both internally and from outsiders, and to ensure the integrity of the data we collect. We use a combination of technological and policy methods to protect this data. 
-
-Your registered account is protected with a password. You must take care not to divulge your password to anyone. STLtoday.com will never ask you for your password in an unsolicited phone call or e-mail. You are responsible for maintaining the secrecy of your passwords and any account information.
-
-**CHANGES IN THESE TERMS**
-
-We may change this Privacy Policy from time to time and will post notices on this site at the time of any material changes to this Privacy Policy. Your continued use of the STLtoday.com site following the posting of changes to these terms will mean you accept those changes. 
-
-If you have questions or concerns regarding STLtoday.com’s Privacy Policy, please e-mail STLtoday.com at sitehelp@STLtoday.com. 
+|  | 
