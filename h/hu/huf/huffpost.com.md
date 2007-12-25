@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the huffpost.com privacy policy that was archived on 2006-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060707221414id_/http%3A//huffpost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the huffpost.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225204758id_/http%3A//www.huffingtonpost.com/privacy) for the most accurate reproduction.*
 
-# Terms and Conditions | The Huffington Post
+# Privacy Policy - The Huffington Post
 
 At HuffingtonPost.com we appreciate your readership and value your personal privacy. We respect the personal nature of the information you provide us on our web site and acknowledge the importance of protecting this information. In adopting this privacy policy, our intent is to balance our legitimate business interests in collecting and using your personal information with your reasonable expectations of privacy. The policy may be revised or updated at any time and we encourage you to check back often to ensure that you are familiar with the most recent version and the terms of our policy. 
 
