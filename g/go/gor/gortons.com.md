@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gortons.com privacy policy that was archived on 2006-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061118072734id_/http%3A//www.gortons.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gortons.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225010743id_/http%3A//www.gortons.com/privacy.php) for the most accurate reproduction.*
 
 # Gorton's Privacy Policy
 
