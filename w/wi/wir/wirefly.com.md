@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the wirefly.com privacy policy that was archived on 2007-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070329124912id_/http%3A//www.wirefly.com/about/privacy/%3Freferringdomain%3Dwirefly%26oflag%3D%26zipcode%3D%26refcode1%3D%26refcode2%3D%26eid%3D%26agent%3D%26originpage%3D/WireflyHome/home.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wirefly.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225133209id_/http%3A//www.wirefly.com/about/privacy) for the most accurate reproduction.*
 
 # Wirefly.com Privacy Policy
-
-[ ](http://www.truste.org/ivalidate.php?url=www.wirefly.com)
 
 **Simply put, we promise that:**
 
@@ -151,5 +149,3 @@ InPhonic, Inc works with Yahoo! to research certain web site usage and activitie
 By visiting this web site, you are accepting the practices described in this Privacy Notice.
 
 ### Last Updated March 2006
-
-[](http://www.truste.org/ivalidate.php?url=www.wirefly.com)
