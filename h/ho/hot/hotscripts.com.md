@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hotscripts.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627081749id_/http%3A//www.hotscripts.com/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotscripts.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225171100id_/http%3A//www.hotscripts.com/privacy/index.html) for the most accurate reproduction.*
 
-# Hotscripts.com
+# Hot Scripts
 
   
 **Privacy Policy**  
