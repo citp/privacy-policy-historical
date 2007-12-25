@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kiwimagonline.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629231223id_/http%3A//kiwimagonline.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kiwimagonline.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225135512id_/http%3A//kiwimagonline.com/privacy.htm) for the most accurate reproduction.*
 
 # Kiwi Magazine Privacy Policy
 
@@ -11,7 +11,7 @@ Through its website KIWIMAGONLINE.COM, Kiwi magazine aims to bring you informati
 
 In addition to reviewing this Privacy Policy, please read our [User Agreement](http://kiwimagonline.com/useragreement.htm) .   Your use of KIWIMAGONLINE.COM constitutes acknowledgement of this Privacy Policy. 
 
-If you have any questions about this Privacy Policy, or wish to inquire about or correct your personally identifiable information that we have collected, please contact our Privacy Policy Coordinator by e-mail at [webmaster@maymediagroup.com](mailto:webmaster@maymediagroup.com), or send your inquires by mail to: 
+If you have any questions about this Privacy Policy, or wish to inquire about or correct your personally identifiable information that we have collected, please contact our Privacy Policy Coordinator by e-mail at [webmaster@kiwimagonline.com](mailto:webmaster@kiwimagonline.com), or send your inquires by mail to: 
 
 Privacy Policy Coordinator   
 KIWIMAGONLINE.com   
@@ -32,7 +32,7 @@ KIWIMAGONLINE.COM asks adults that subscribe to our publication(s), make purchas
 
 We use the information you supply through KIWIMAGONLINE.COM to provide you with the information or service you requested, to enhance your experience on our website, and for internal business purposes consistent with this policy.   For example, if you subscribe to any of our publications, we may use your e-mail address to send you a confirmation notice and your mailing address to send you the publication, or, if you enter one of our contests, we will use this information to notify you if you won.   We may also use the information to tell you about   publications, products or services that we believe will interest you, or improve existing services and product offerings by tailoring them to your interests.   While your individual information is protected as described in this privacy policy, we reserve the right to use, transfer, sell, and share aggregated, anonymous data about our users as a group for any business purpose, such as finding compatible advertisers and partners and analyzing usage trends. 
 
-We also share certain information with our affiliates, and certain companies who we believe can offer you products and services that may interest you.   If you do not wish to have your information shared, write to us at [webmaster@maymediagroup.com](mailto:webmaster@maymediagroup.com). 
+We also share certain information with our affiliates, and certain companies who we believe can offer you products and services that may interest you.   If you do not wish to have your information shared, write to us at [webmaster@kiwimagonline.com](mailto:webmaster@kiwimagonline.com)[](mailto:webmaster@maymediagroup.com). 
 
 Certain third parties may need access to your information for the sole purpose of providing you the service you requested.   For example, if you purchase products through our website, we may forward your information to third parties for services such as credit card processing and order fulfillment.   Your information may also be disclosed if the law requires us to do so in connection with investigations or other legal proceedings. 
 
