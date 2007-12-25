@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jisc.ac.uk privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630055437id_/http%3A//www.jisc.ac.uk/aboutus/privacy_statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jisc.ac.uk privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225151808id_/http%3A//www.jisc.ac.uk/aboutus/privacy_statement.aspx) for the most accurate reproduction.*
 
-# privacy statement : JISC
+# Privacy statement : JISC
 
 JISC takes the privacy of your information very seriously. By using our website, you will be deemed to have consented to the collection and use of the personal information that you provide in the ways described below. 
 
