@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coi.gov.uk privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630161934id_/http%3A//www.coi.gov.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coi.gov.uk privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225215125id_/http%3A//www.coi.gov.uk/privacy.php) for the most accurate reproduction.*
 
 # COI - Privacy Policy
 
