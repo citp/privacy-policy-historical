@@ -1,23 +1,23 @@
-> *The following text is extracted and transformed from the scholarshippoints.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624190700id_/http%3A//www.scholarshippoints.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scholarshippoints.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226005115id_/http%3A//www.scholarshippoints.com/privacy.php) for the most accurate reproduction.*
 
 # Scholarship Points.com - earn chances to win free scholarships!
 
-This site, as a wholly owned and operated subsidiary of the Edvisors Network, Inc. is happy to provide and comply with the privacy policy for The Edvisors Network. Our corporate homepage on the Web is located at [www.EdvisorsNetwork.com](http://www.edvisorsnetwork.com/ "Edvisors Network"). The full text of our privacy policy is available on the Web at [EdvisorsNetwork.com/w3c/privacy.php](http://www.edvisorsnetwork.com/w3c/privacy.php). 
+This site, as a wholly owned and operated subsidiary of the Edvisors Network, Inc., is happy to provide and comply with the privacy policy for The Edvisors Network. Our corporate homepage on the Web is located at [www.Edvisors.com](http://www.edvisors.com/ "Edvisors Online Education Programs"). The full text of our privacy policy is available on the Web at [Edvisors Privacy Statement](http://www.edvisors.com/about/privacy.html). 
 
 ## Opt-Out and Contact
 
-This privacy policy is all inclusive for all Edvisors Network properties, including the **Student Loan Network**. 
+This privacy policy is all inclusive for all Edvisors Network properties, including the **[Student Loan Network](http://www.studentloannetwork.com/ "Student Loans")**.
 
 We invite you to contact us if you have questions about this policy. You may contact us by mail at the following address: 
     
     
-    The Edvisors Network
+    Edvisors 
     1250 Hancock Street, Suite 703N
     Quincy, MA 02169 
     United States of America
     
 
-You may contact us by e-mail at [privacy@edvisorsnetwork.com](mailto:privacy@edvisorsnetwork.com). You may call us at 617-328-1565. 
+You may contact us at "privacy  AT edvisors DOT com" or call us at 617-328-1565. 
 
 ## Dispute Resolution and Privacy Seals
 
@@ -29,7 +29,7 @@ We have the following privacy seals and/or dispute resolution mechanisms. If you
 
 ## Additional Information
 
-This policy is valid until 1 Sep, 2007 at 12:00:00 EST. 
+This policy is valid until 1 Sep, 2008 at 12:00:00 EST. 
 
 ## Data Collection
 
