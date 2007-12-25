@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the concern.net privacy policy that was archived on 2007-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070612210644id_/http%3A//www.concern.net/site-links/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the concern.net privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225141325id_/http%3A//www.concern.net/site-links/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Concern Worldwide
 
