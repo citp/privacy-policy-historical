@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the photobox.co.uk privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617181625id_/http%3A//www.photobox.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photobox.co.uk privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225131343id_/http%3A//www.photobox.co.uk/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
 Privacy Policy 
 
-This privacy policy together with our [terms of use](https://web.archive.org/web/20070617181625id_/http%3A//www.photobox.co.uk/legal.html) sets out how Photobox Limited (“we”, “our”, “us”) will use any personal data we collect from you, or you provide to us during your use of the on-line photo service (the “Website”). 
+This privacy policy together with our [terms of use](https://web.archive.org/web/20071225131343id_/http%3A//www.photobox.co.uk/legal.html) sets out how Photobox Limited ("we", "our", "us") will use any personal data we collect from you, or you provide to us during your use of the on-line photo service (the "Website"). 
 
-For the purpose of the Data Protection Act 1998 (the Act), the data controller is Photobox Limited of UNIT 2-3 PARK, ROYAL METRO CENTRE, BRITANNIA WAY, LONDON, NW10 7PA. We may from time to time use data processors, who are not employees, agents or otherwise connected with us, with whom we have an agreement to process your data (“Data Processors”). 
+For the purpose of the Data Protection Act 1998 (the Act), the data controller is Photobox Limited of UNIT 2-3 PARK, ROYAL METRO CENTRE, BRITANNIA WAY, LONDON, NW10 7PA. We may from time to time use data processors, who are not employees, agents or otherwise connected with us, with whom we have an agreement to process your data ("Data Processors"). 
 
 We respect the privacy of every individual who visits the Website. Our policy on the collection and use of personal information is outlined below. 
 
@@ -50,7 +50,7 @@ We may store some information on your computer when you visit the Website. This 
 
 Accuracy 
 
-We aim to keep our records as accurate as possible. If you would like to review or change the details that you have supplied us with at any time you can either amend your details directly by going to the ‘My Details’ section of your Home Page of the Website, or by contacting us using the details below. 
+We aim to keep our records as accurate as possible. If you would like to review or change the details that you have supplied us with at any time you can either amend your details directly by going to the 'My Details' section of your Home Page of the Website, or by contacting us using the details below. 
 
 Security 
 
@@ -58,7 +58,7 @@ The technology that we use and the policies that we have implemented are intende
 
 Your rights 
 
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data or by going to the ‘My Preferences’ area of the ‘My Details’ section of your Home Page of the Website. You can also exercise the right at any time by [contacting us](https://web.archive.org/contact.html). 
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data or by going to the 'My Preferences' area of the 'My Details' section of your Home Page of the Website. You can also exercise the right at any time by [contacting us](https://web.archive.org/contact.html). 
 
 Access to Information 
 
