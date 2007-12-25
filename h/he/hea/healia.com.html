@@ -1,8 +1,9 @@
-<!--The following is the downloaded HTML source of the healia.com privacy policy that was archived on 2007-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070626082028id_/http%3A//www.healia.com/healia/en/healia_privacypolicy.jsp%3F) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the healia.com privacy policy that was archived on 2007-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071225162650id_/http%3A//www.healia.com/healia/en/healia_privacypolicy.jsp%3F) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html lang="en"><head>
-	<title>Healia - health search engine </title>
+	<title>Healia - health search engine 
+	</title>
 	
 	<script language="javascript" type="text/JavaScript">
 		var ol_fgcolor = "#FFFFFF";
@@ -20,6 +21,7 @@
 
 	<link rel="stylesheet" href="http://www.healia.com/healia/css/search_fontsize.css" type="text/css">
 	<link rel="stylesheet" href="http://www.healia.com/healia/css/standard.css" type="text/css">
+	<link rel="stylesheet" href="http://www.healia.com/healia/css/ctsearch.css" type="text/css">
 	<link type="text/css" rel="stylesheet" href="http://www.healia.com/healia/css/niftyCorners.css" media="screen">
 	<script language="javascript" type="text/JavaScript" src="http://www.healia.com/healia/js/overlib.js"></script>
 	<script language="javascript" type="text/JavaScript" src="http://www.healia.com/healia/js/overlib_cssstyle.js"></script>
@@ -27,19 +29,29 @@
 	<script language="javascript" type="text/JavaScript" src="http://www.healia.com/healia/js/javahelper.js"></script>
 	
 	<script language="javascript" src="http://www.healia.com/healia/js/jquery.js" type="text/javascript"></script>
-
-	<!-- ULTIMATE DROP DOWN MENU Version 4.5 by Brothercake -->
-	<!-- http://www.udm4.com/ -->
-	<script type="text/javascript" src="js/udm-resources/udm-custom.js"></script>
-	<script type="text/javascript" src="js/udm-resources/udm-control.js"></script>
-	<script type="text/javascript" src="js/udm-resources/udm-style.js"></script>
-	<!-- menu script -->
-	<script type="text/javascript" src="js/udm-resources/udm-dom.js"></script>
-	<!-- keyboard navigation module -->
-	<script type="text/javascript" src="js/udm-resources/udm-mod-keyboard.js"></script>
+	
 
 	<!-- smooth corner scripts-->
 	<script type="text/javascript" src="js/niftycube.js"></script>
+
+	<script type="text/javascript">
+function errorMsg(){
+	alert("Your browser is not compatible w/ the Healia search plug-in. Internet Explorer 7+, Netscape 6+ or Firefox is required");
+}
+
+function addEngine(name,cat,type) {
+	if (window.external && ("AddSearchProvider" in window.external)) {
+		//Firefox 2 and IE 7, OpenSearch
+		window.external.AddSearchProvider("http://www.healia.com/healia/util/healia_opensearch.xml");
+	} else if (window.sidebar && ("addSearchEngine" in window.sidebar)) {
+		window.sidebar.addSearchEngine("http://www.healia.com/healia/util/healia_opensearch.src", "http://www.healia.com/favicon.gif", "Search Plugin", "" );
+	}else {
+		errorMsg();
+	}
+}
+
+</script>
+
 
 	<meta name="description" lang="en" content="The premier health search engine that provides high quality, trusted, and personalized health information.">
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -52,7 +64,7 @@
       <tbody><tr>
                 <td align="left" style="align:left; vertical-align: top; padding-bottom:1.4em;">
                         <div class="header" id="header" style="padding-top:1.0em; padding-left:1.0em;">
-                                  <a href="en/index.jsp?"><img src="images/logo_trim.png" border="0" alt="Healia" width="140" height="30"></a>
+                                  <a href="en/index.jsp?"><img src="images/siteid.png" border="0" width="115" height="46" alt="Healia - your search for health"></a>
                         </div>
                 </td>
                 <td align="right">
@@ -81,6 +93,8 @@
 		<p>
 		<a href="en/healia_news.jsp?" class="nav">News</a><br>
 		</p><p>
+		<a href="http://blog.healia.com" target="_blank" class="nav">Healia Health Blog</a><br>
+                </p><p>
 		<a href="en/healia_business.jsp?" class="nav">Business Solutions</a>
 		<a href="en/healia_business.jsp#webpublishers" class="subnav">Web Publishers</a><br>
 		<a href="en/healia_business.jsp#advertisers" class="subnav">Advertisers and Sponsors</a><br>
@@ -208,9 +222,7 @@ purposes.
 </tr></tbody></table>
 <div id="footer" align="center">
 
-<a href="#" onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.healia.com');" class="tool_link">Make Healia your Homepage</a>
-
-<a href="javascript:void(0);" onclick="bookmarksite('Healia - your search for health','http://www.healia.com')" class="tool_link">Add to Favorites</a>
+<a href="javascript:void(0);" onclick="addEngine()" class="tool_link">Add Healia to your Search Box <img src="images/searchplugin_icon.gif" border="0" alt="Add Healia to your Search Box" height="15" width="15"></a>
 
 <a href="en/healia_tools.jsp?" class="tool_link">Add Healia to your Site </a>
 
@@ -241,7 +253,8 @@ purposes.
 <br>
 
 
-<span class="cprt"> © Tue Jun 26 04:20:28 EDT 2007. Healia, Inc.</span>
+</p><p>
+<span class="cprt"> © 2007. Healia </span>
 
 
 
@@ -250,19 +263,86 @@ purposes.
 
 
 	<span style="font-size: 8pt; color:#FFFFFF">
-	<b>A T:<span id="T" name="T">1</span></b>&nbsp;|&nbsp;
-	S:<span id="Srh" name="Srh"></span>&nbsp;|&nbsp;
-	gD:<span id="gD" name="gD"></span>&nbsp;|&nbsp;
-	gS:<span id="gS" name="gS"></span>&nbsp;|&nbsp;
-
+	<b>I T:<span id="T" name="T">1</span></b>&nbsp;|&nbsp;
+	 s:<span id="Srh" name="Srh"></span>
+	(s-&gt;gd:<span id="gD" name="gD"></span>
+	s-&gt;gs:<span id="gS" name="gS"></span>)&nbsp;|&nbsp;
+	s-&gt;news:<span id="snt" name="snt"></span>&nbsp;|&nbsp;
 	htm:<span id="htm" name="htm"></span>&nbsp;|&nbsp;
 	a:<span id="a" name="a"></span>&nbsp;|&nbsp;
-	M:<span id="M" name="M">1</span>
+	Mv:<span id="M" name="M">1</span>&nbsp;|&nbsp;
+	Mc:<span id="Mc" name="Mc">0</span>&nbsp;
 	</span>
 
 
 
+
+<script language="javascript">
+$(document).ready(function(){
+	if( document.getElementById("snt") && document.getElementById("s_news")){
+		document.getElementById("snt").innerHTML = document.getElementById("s_news").innerHTML;
+	}
+	
+	if ( document.getElementById("M") ){
+		document.getElementById("M").innerHTML = document.getElementById("M").innerHTML-document.getElementById("snt").innerHTML;
+	}
+});
+</script>
+
 </p></div>
+
+
+	
+		
+			
+		
+		
+	
+
+        <!-- SiteCatalyst code version: H.10.
+        Copyright 1997-2007 Omniture, Inc. More info available at
+        http://www.omniture.com -->
+        <script language="JavaScript" src="http://www.healia.com/healia/js/s_code_H10.js"></script>
+        <script language="JavaScript"><!--
+        /* You may give each page an identifying name, server, and channel on
+        the next lines. */
+
+        s.server="http://www.healia.com/healia"
+
+        
+                
+                
+				s.channel="healia:search:misc";
+				s.pageName="healia:search:misc:healia_privacypolicy.jsp"
+                
+        
+
+        s.pageType="200"
+        
+        s.prop3="" //action name
+        s.prop4=""
+        s.prop5=""
+        /* Conversion Variables */
+        s.campaign=""
+        s.state=""
+        s.zip=""
+        s.events=""
+        s.products=""
+        s.purchaseID=""
+        s.eVar1=""
+        s.eVar2=""
+        s.eVar3=""
+        s.eVar4=""
+        s.eVar5=""
+        /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+        var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+        <script language="JavaScript"><!--
+        if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+        //--></script><noscript><a href="http://www.omniture.com" title="Web Analytics"><img
+        src="http://bhghealia.112.2O7.net/b/ss/bhghealia/1/H.10--NS/0"
+        height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
+        <!-- End SiteCatalyst code version: H.10. -->
+
         <!-- Start of StatCounter Code -->
         <script type="text/javascript" language="javascript">
         var sc_project=1986862;
@@ -273,12 +353,6 @@ purposes.
 
         <script type="text/javascript" language="javascript" src="http://www.statcounter.com/counter/counter.js"></script><noscript><a href="http://www.statcounter.com/" target="_blank"><img  src="http://c19.statcounter.com/counter.php?sc_project=1986862&java=0&security=5731103b&invisible=1" alt="counter create hit" border="0"></a> </noscript>
         <!-- End of StatCounter Code -->
-
-
-
-
-
-
 
 
 
