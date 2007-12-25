@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brooklynmuseum.org privacy policy that was archived on 2007-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070504030554id_/http%3A//www.brooklynmuseum.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brooklynmuseum.org privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225195913id_/http%3A//www.brooklynmuseum.org/privacy.php) for the most accurate reproduction.*
 
 # Brooklyn Museum: Privacy Policy
 
@@ -35,7 +35,7 @@ Any personally identifiable information voluntarily provided by you will be used
 
 #### Opting Out
 
-If you prefer not to have your personally identifiable information shared this way, you may indicate this at the time you provide the information. If an "opt-out" option is not offered, or you decide after you have provided this information that you do not want us to share your information with any other organization, you may send us an e-mail at[ requesting that we not share your personally identifiable information with third parties for marketing purposes. We cannot, however, remove your name from any third-party list; you will have to contact them directly.](https://web.archive.org/web/20070504030554id_/http%3A//www.brooklynmuseum.org/%E2%80%9Dmailto:visitor.services@brooklynmuseum.org%E2%80%9D)
+If you prefer not to have your personally identifiable information shared this way, you may indicate this at the time you provide the information. If an "opt-out" option is not offered, or you decide after you have provided this information that you do not want us to share your information with any other organization, you may send us an e-mail at[ requesting that we not share your personally identifiable information with third parties for marketing purposes. We cannot, however, remove your name from any third-party list; you will have to contact them directly.](https://web.archive.org/web/20071225195913id_/http%3A//www.brooklynmuseum.org/%E2%80%9Dmailto:visitor.services@brooklynmuseum.org%E2%80%9D)
 
 [
 
@@ -57,9 +57,9 @@ It is required that you provide your e-mail information in order to access the M
 
 #### Cookies
 
-](https://web.archive.org/web/20070504030554id_/http%3A//www.brooklynmuseum.org/%E2%80%9Dmailto:visitor.services@brooklynmuseum.org%E2%80%9D)
+](https://web.archive.org/web/20071225195913id_/http%3A//www.brooklynmuseum.org/%E2%80%9Dmailto:visitor.services@brooklynmuseum.org%E2%80%9D)
 
-[We do not store any information about you that we gather from using cookies on our Web site. A cookie is a small amount of data that is sent to your browser from our Web server when you visit our online Brooklyn Museum Shop; it is stored on your computer's hard drive. Usage of a cookie is in no way linked to any personally identifiable information while on our Web site. We use cookies only to keep track of the items in your shopping order. If you choose to reject cookies, you will still be able to use the Brooklyn Museum Web site but you will not be able to build a shopping order. See the ](https://web.archive.org/web/20070504030554id_/http%3A//www.brooklynmuseum.org/%E2%80%9Dmailto:visitor.services@brooklynmuseum.org%E2%80%9D)[Brooklyn Museum Shop Privacy Policy](http://shop.brooklynmuseum.org/privacypolicy.html).
+[We do not store any information about you that we gather from using cookies on our Web site. A cookie is a small amount of data that is sent to your browser from our Web server when you visit our online Brooklyn Museum Shop; it is stored on your computer's hard drive. Usage of a cookie is in no way linked to any personally identifiable information while on our Web site. We use cookies only to keep track of the items in your shopping order. If you choose to reject cookies, you will still be able to use the Brooklyn Museum Web site but you will not be able to build a shopping order. See the ](https://web.archive.org/web/20071225195913id_/http%3A//www.brooklynmuseum.org/%E2%80%9Dmailto:visitor.services@brooklynmuseum.org%E2%80%9D)[Brooklyn Museum Shop Privacy Policy](http://shop.brooklynmuseum.org/privacypolicy.html).
 
 #### PatronMail
 
