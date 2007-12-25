@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drew.edu privacy policy that was archived on 2007-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070628182622id_/http%3A//www.drew.edu/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drew.edu privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225205610id_/http%3A//www.drew.edu/Privacy.aspx) for the most accurate reproduction.*
 
 # Internet Privacy Statement for Drew University
 
@@ -24,17 +24,9 @@ Unique identifiers (such as social security numbers) are sometimes collected to 
 
 Visitors should understand that their Internet Protocol (IP) address may be used to help diagnose problems with the Drew server, and to administer the Drew web site. The IP address also is used to gather very general demographic information. An IP address only reveals the location of a computer (e.g. Drew University), not the identity of the user. In addition, the Drew web site contains links to other sites, both personal web sites at Drew as well as web sites off campus. Drew is not responsible for the privacy practices of such sites.
 
-Return to Top
-
-* * *
-
 ## Security
 
 This site has security measures in place to protect the loss, misuse and alteration of the information that is received from third parties.
-
-Return to Top
-
-* * *
 
 ## Choice/Opt Out
 
@@ -46,10 +38,6 @@ The Drew site provides users with an opportunity to opt out of receiving communi
 
 
 
-Return to Top
-
-* * *
-
 ## Correct/Update
 
 In order to keep information about visitors as accurate as possible, each Drew form provides a way for visitors to correct or update information they've already submitted. Each form provides the following options for updating information:
@@ -59,10 +47,6 @@ In order to keep information about visitors as accurate as possible, each Drew f
   * A phone number to call
 
 
-
-Return to Top
-
-* * *
 
 ## Contact Us
 
