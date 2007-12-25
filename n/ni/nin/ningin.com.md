@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ningin.com privacy policy that was archived on 2007-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070519003509id_/http%3A//www.ningin.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ningin.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226002656id_/http%3A//ningin.com/privacy) for the most accurate reproduction.*
 
 # Ningin - Asian Media Exchange - Privacy Policy
 
@@ -27,7 +27,7 @@ Once you register with one of our Mixr Media sites you are no longer anonymous t
 
 Your Internet browser has a feature called cookies, which stores small amounts of data on your computer about your visit to any of our sites. You do not need to have cookies turned on to visit most of our sites, although active participation in certain areas of our sites may require cookies. Cookies alone tell us nothing about who you are unless you specifically give us personally identifiable information, in which case we use the information to enhance your services in the ways described below. By adjusting your settings on your browser, you may elect not to allow cookies to be collected.
 
-We may also use technologies, including electronic images known as Web bugs—sometimes called transparent GIFs, clear GIFs, or beacons—that allow us to track general user-traffic patterns. We also automatically receive and record information from our servers and from your browser, including your IP address, the time of your visit to pages on our site, and information about pages you visited. Unless you have registered for one of our products or services, the information we gather through the use of tracking technologies cannot be matched with any personally identifiable information about you.
+We may also use technologies, including electronic images known as Web bugs-sometimes called transparent GIFs, clear GIFs, or beacons-that allow us to track general user-traffic patterns. We also automatically receive and record information from our servers and from your browser, including your IP address, the time of your visit to pages on our site, and information about pages you visited. Unless you have registered for one of our products or services, the information we gather through the use of tracking technologies cannot be matched with any personally identifiable information about you.
 
 How does Mixr Media share the information?
 
@@ -40,7 +40,7 @@ Information about our registered users is an integral part of our business. We n
   * We hire third-party vendors to provide specialized services such as customer support; email message deployment; suppression, merge and de-duplication services; data processing; and special products or services that you have requested. These companies are only allowed to use the information in order to help us fulfill our services to you. We do not provide your information to these companies for their own, permanent use.
   * You are the winner of a contest or a sweepstakes that is co-sponsored with a third party and that third party needs your information in order to manage the prize fulfillment process.
   * When required by law, such as when we respond to subpoenas, court orders, or legal process.
-  * We believe that your actions violate applicable laws, Mixr Media’s Terms of Use, or any usage guidelines for specific products or services, or threaten the rights, property, or safety of our company, our users, or others.
+  * We believe that your actions violate applicable laws, Mixr Media's Terms of Use, or any usage guidelines for specific products or services, or threaten the rights, property, or safety of our company, our users, or others.
   * You consent to your personal information being shared with third parties or used for a purpose incompatible with the purpose(s) for which it was originally collected, and you will be able to prevent the sharing of this information by opting out.
 
 
