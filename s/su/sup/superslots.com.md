@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the superslots.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626163519id_/http%3A//www.superslots.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superslots.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225132436id_/http%3A//www.superslots.com/privacy.php) for the most accurate reproduction.*
 
-# Superslots Casino Online!
+# Super Slots Privacy Policy - How to use this Online Slots Theme Casino Site
 
 ##  Privacy Policy 
 
