@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quomon.com privacy policy that was archived on 2007-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070205153819id_/http%3A//www.quomon.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quomon.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225095603id_/http%3A//www.quomon.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Quomon.com - Privacy
 
@@ -16,7 +16,6 @@ This privacy policy describes how we will handle the personal data that is provi
     5. perform other functions for our users as is described when we collect the information
   3. _Disclosure_ : We dont sell or rent personal data given to Quomon to third parties for their marketing purposes without the users explicit consent. We may disclose personal information to respond to any legal requirements, respond to claims that a posting or content violates other's rights, enforce our policies, or protect anyone's rights, property, or safety. We may also share and disclose your personal data to: 
     1. corporate affiliates or partner companies who help detect and prevent potentially illegal acts and provide any joint services in conjunction with ours. (Or joint affiliates will only market to users who ask them to) 
-    2. Service providers who help with our day to day business operations
-  4. _Using Information from Quomon_ : You may use personal information gathered from Quomon only to follow up with another user or users 
+    2. Service providers who help with our day to day business operations 
 
 
