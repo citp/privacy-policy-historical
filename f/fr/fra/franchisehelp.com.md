@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the franchisehelp.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629101409id_/http%3A//franchisehelp.com/execfb/public.privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the franchisehelp.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225164819id_/http%3A//www.franchisehelp.com/execfb/public.privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
