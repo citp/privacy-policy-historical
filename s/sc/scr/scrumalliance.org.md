@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the scrumalliance.org privacy policy that was archived on 2007-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070501155142id_/http%3A//www.scrumalliance.org/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scrumalliance.org privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225204224id_/http%3A//www.scrumalliance.org/view/privacy_policy) for the most accurate reproduction.*
 
 # Scrum Alliance - Privacy Policy
 
 ## Scrum Alliance Privacy Policy
 
-Welcome to the Scrum Alliance [www.scrumalliance.org](https://web.archive.org/) web site (the "Site") provided to you by Scrum Alliance, Inc. ("SA", "us" or "we").  Your privacy is important to us, and our policy is simple: we will collect no personally identifiable information about you when you visit the Site unless you choose to provide that information.
+Welcome to the Scrum Alliance [www.scrumalliance.org](http://scrumalliance.org/) web site (the "Site") provided to you by Scrum Alliance, Inc. ("SA", "us" or "we").  Your privacy is important to us, and our policy is simple: we will collect no personally identifiable information about you when you visit the Site unless you choose to provide that information.
 
   1.  **Membership Information.**   As a benefit to SA members, SA will include your name and relevant personal information in your member profile (“Profile”).  You agree that your name and your SA certification information shall be made publicly available on the Site. You will have the right to specify whether certain other personal information in your Profile is publicly available or not. 
   2. **Contacting You.** From time to time, we may need to contact you for membership-related activities (e.g., renewal notices, etc.). You agree that we may use your personal information for such membership-related contacts with you.  We may also desire to contact you for market research purposes or to provide you with marketing information we think would be of particular interest. You will have the option of not being contacting by us by opting-out of such contacts by setting the appropriate option in your Profile.
@@ -20,4 +20,4 @@ Welcome to the Scrum Alliance [www.scrumalliance.org](https://web.archive.org/) 
 
 > > By E-mail: info @ scrumalliance.org By Postal Mail: PO Box 421, Lafayette, Colorado 80026 
 
-(01 May 2007) 
+(25 Dec 2007) 
