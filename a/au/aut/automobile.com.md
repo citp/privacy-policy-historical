@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the automobile.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629164504id_/http%3A//about.automobile.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the automobile.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225171347id_/http%3A//about.automobile.com/privacy) for the most accurate reproduction.*
 
 # Automobile.com - Everything Automobile. Free automobile classifieds, automobile directory, automobile news, automobile reviews. Cars, trucks and more.:
 
