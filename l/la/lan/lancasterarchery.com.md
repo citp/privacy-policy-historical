@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lancasterarchery.com privacy policy that was archived on 2007-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070202204941id_/http%3A//www.lancasterarchery.com/shop/tab.php%3Ftab_id%3D27) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lancasterarchery.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225163051id_/http%3A//www.lancasterarchery.com/shop/tab.php%3Ftab_id%3D27) for the most accurate reproduction.*
 
 # Lancaster Archery Supply
 
