@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the linkatopia.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630171947id_/http%3A//linkatopia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkatopia.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225130835id_/http%3A//www.linkatopia.com/privacy) for the most accurate reproduction.*
 
-# Linkatopia - Privacy Policy, Dec 21, 2006
+# Linkatopia - Privacy Policy, Sep 13, 2007
 
 This document sets forth the Design215 Privacy Policy (the "Privacy Policy") for this Web site, www.Linkatopia.com (the "Site"). If you have objections to the Privacy Policy, you should not access or use this Site. This Privacy Policy does not govern privacy practices associated with offline activities or other Design215 web sites.
 
