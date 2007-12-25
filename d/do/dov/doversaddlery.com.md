@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doversaddlery.com privacy policy that was archived on 2007-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070402200938id_/https%3A//www.doversaddlery.com/privacy-policy/a/75) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doversaddlery.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225193808id_/https%3A//www.doversaddlery.com/privacy-policy/a/75) for the most accurate reproduction.*
 
 # Privacy Policy - Dover Saddlery
 
@@ -192,10 +192,8 @@ Sign up for email sales, specials and events.
    
 
 
-[](https://www.doversaddlery.com/catalog-closeouts/c/238/c2c/ln/)   
-[](https://www.doversaddlery.com/category.asp?c=2523)  
   
-[](https://www.doversaddlery.com/info.asp?ii=2)
+[](https://www.doversaddlery.com/category.asp?c=1515)[](https://www.doversaddlery.com/category.asp?c=1515)[](https://www.doversaddlery.com/article.asp?ai=72)[](https://www.doversaddlery.com/article.asp?ai=72)[](https://www.doversaddlery.com/catalog-closeouts/c/238/c2c/ln/)
 
   
 
