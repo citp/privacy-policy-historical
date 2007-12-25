@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gagirl.com privacy policy that was archived on 2007-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070411155131id_/http%3A//www.gagirl.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gagirl.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226000801id_/http%3A//www.gagirl.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -23,5 +23,5 @@ This site uses the services of Google Adsense and ValueClick Media for the servi
 
 <http://www.google.com/privacy_faq.html>  or  <https://www.valueclickmedia.com/privacy.shtml>
 
-If you have any questions about our dedication to privacy, please [contact us.](http://www.gagirl.com/mail.html)   
+If you have any questions about our dedication to privacy, please [contact us.](mailto:admin@GAgirl.com?subject=privacy_html)   
  
