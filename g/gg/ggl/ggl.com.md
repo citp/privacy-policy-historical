@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ggl.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624094513id_/http%3A//www.ggl.com/index.php%3Fcontroller%3DStatic%26page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ggl.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225233810id_/http%3A//www.ggl.com/index.php%3Fcontroller%3DStatic%26content%3Dprivacy) for the most accurate reproduction.*
 
 # GGL - Privacy
 
@@ -18,7 +18,7 @@ The Policy is accessible through the GGL Sites in several ways, including from a
 
 The PIE Sites are not directed to children under the age of 13. The PIE Sites prohibit registration by, and PIE will not knowingly collect personally identifiable information from, anyone under 13. This requirement will be posted at points of data collection within the PIE Sites, such as registration for services.
 
-Note to Parents: If you have any concerns about the PIE Sites, please contact us via our online form, available at <http://www.ggl.com/privacy_complaint.php>. PIE encourages parents to spend time online with their children. We also urge parents to instruct their children never to give out their real names, addresses or phone numbers without parental permission when using the Internet.
+Note to Parents: If you have any concerns about the PIE Sites, please contact us via our online forums. PIE encourages parents to spend time online with their children. We also urge parents to instruct their children never to give out their real names, addresses or phone numbers without parental permission when using the Internet.
 
 **Information Collection, Storage and Use**
 
@@ -73,7 +73,7 @@ Notwithstanding these security measures, please be aware that when you submit Pe
 
 To access, correct or update your account or other Personal Information such as your city or interests, please use the "Edit profile page" at the PIE Site on which you are registered.
 
-If you have any other questions, comments or complaints about this policy, please contact us via our online form, available at <http://www.ggl.com/privacy_complaint.php> or write to us at:
+If you have any other questions, comments or complaints about this policy, please contact us via our online forums or write to us at:
 
 **Global Gaming League**  
 **A Division of Professional Interactive Entertainment Inc.**  
