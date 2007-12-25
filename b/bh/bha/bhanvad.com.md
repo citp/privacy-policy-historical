@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bhanvad.com privacy policy that was archived on 2007-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070620215209id_/http%3A//www.bhanvad.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bhanvad.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225151611id_/http%3A//www.bhanvad.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # search engine, website directory, international website directory
 
