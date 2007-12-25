@@ -1,69 +1,69 @@
-> *The following text is extracted and transformed from the oztion.com.au privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617222757id_/http%3A//www.oztion.com.au/public/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oztion.com.au privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225212944id_/http%3A//www.oztion.com.au/public/privacy.htm) for the most accurate reproduction.*
 
 # OZtion Privacy Policy
 
-OZtion has created this privacy statement in order to demonstrate our firm commitment to privacy. This document discloses our information gathering and usage practices. For additional information about OZtion, please review our User Agreement. 
+OZtion has created this Privacy Policy in order to demonstrate our firm commitment to privacy. This document discloses our information gathering and usage practices. For additional information about OZtion, please review our [User Agreement](http://www.oztion.com.au/public/agreement.htm). 
 
-**1\. Use of your information**
+**1\. Collection of your information**
 
-OZtion does not sell or rent your personal identification to third parties. We release account and other personal information only when we believe release is appropriate to comply with law; enforce or apply our terms and conditions; or protect the rights, property, or safety of OZtion, our users, or others. Note: Other members you have completed a transaction with can request to exchange contact details with you. OZtion provides an online form where members can [request the contact details](http://www.oztion.com.au/secure/User/exchange/exdetails.aspx) of the other member. A seller can request the contact details of the buyer and the buyer can request the contact details of the seller. 
+OZtion collects personal information when your register. You will be required to provide us with a User ID, your name, address, email, phone number and date of birth when you register. Optional demographics information may also be collected. Additional personal information is required and collected if you elect to become a Verified User or create a seller's account. 
 
-**2\. Email**
+We also collect certain information when you are using the Site. The following information may be collected: Your bidding, buying and selling activities, your IP address, comments about you on your profile page, forum messages you post or reply to, messages you send through OZtion to other members and correspondence you send to us.
 
-It is the policy of OZtion to send our members email throughout the auction process and other email they elect to receive, in addition to customary business communications (payment confirmations, etc.). Further, it is our policy to immediately remove any member from any mailing list upon the member's request. In addition, OZtion will send newsletters to members periodically. Newsletters will contain clear and obvious instructions for how the member can remove himself or herself from that mailing list. 
+We do not collect "sensitive information" (This definition extends to racial, political, religious, philosophical, trade union, sexual preference, criminal record and health and genetic information concerning an individual) 
 
-We do use email as a means of receiving feedback from our members, and we encourage you to email us with your questions or comments.
+**2\. Use of your information**
 
-**3\. Emailing Tools**
+We use personal information to help ensure safe trading on our Site, resolve disputes, enforce our polices and User Agreement and identify and troubleshoot problems. 
 
-OZtion provides facilities throughout the site to refer a friend to OZtion or to send references to a specific listing to a friend. You may not use the "Email to a friend" service or other email forwarding services that we offer to send spam or otherwise send content that would violate our privacy policy or Terms and Conditions. We do not permanently store, sell, or rent these email messages or the email addresses.
+You agree that OZtion will send you emails throughout the auction process and other emails you elect to receive, in addition to customary business communications (payment confirmations, etc). Your contact information is also used to contact you when necessary. In addition, OZtion will send newsletters and promotional emails to members periodically. Newsletters and promotional emails will contain clear and obvious instructions for how the member can remove himself or herself from that mailing list. OZtion will remove any member from OZtion's newsletter and promotions mailing list upon the member's request.
 
-**4\. Membership Registration**
+**3\. Disclosure of your information**
 
-Our site's registration form requires you to provide us contact information and may also require demographic information. We may use your contact information from the registration form to send you information about our company and promotional material from some of our affiliated partners. Your contact information is also used to contact you when necessary.
+OZtion does not sell or rent your personal information to third parties. However, the following describes some of the ways your personal information may be disclosed, and by agreeing to our User Agreement and Privacy Policy you agree that your personal information may be disclosed in the following ways.
 
-**5\. Updating Your Personal Information**
+The OZtion Community  
+You are identified on OZtion by your User ID, other people can see items you are bidding on, have won or purchased in the past, have sold in the past, items you are currently selling, your ratings and comments received from other users and ratings and comments you have left to other users, your posts in the forums and so on. Your email address and contact information is available to your trading partners (members you have completed a transaction with). Note: members you have completed a transaction with can [request to exchange contact details](http://www.oztion.com.au/secure/User/exchange/exdetails.aspx) with you (name, address and phone numbers).
 
-OZtion provides you with ways in which you can alter your personal data, including changing your email address, password, phone number, etc. OZtion will store previous email addresses against your profile to ensure compliance with our User Agreement - specifically the use of one account per member.
+Legal Requests  
+OZtion will disclose any information about you only when we believe release is appropriate to comply with law; enforce or apply our User Agreement; or protect intellectual property and other rights, property, or safety of OZtion, our users, or others. OZtion cooperates with law enforcement and government officials and other third parties and we can (and you authorise us to) disclose any information about you as we, in our sole discretion, believe appropriate to assist with investigations into fraud, intellectual property infringements, privacy or any other illegal activity or activity that may expose OZtion to legal liability. 
 
-**6\. Control of Your Password**
+Although OZtion adheres to industry standard practices to ensure your personal information is protected, due to technical limitations, we cannot and do not guarantee that your personal information will remain private as third parties may unlawfully intercept or access private communications and transmissions. 
 
-You are responsible for all actions taken with your user name, email address and password, including fees. Therefore we do not recommend that you disclose your OZtion password to any third parties. If you choose to share your user name, email address and password or your information with third parties to provide you additional services, you are responsible for all actions taken with this information and therefore you should review that third party's privacy policy.
+**4\. Emailing tools**
 
-**7\. Credit Card Security**
+OZtion provides facilities throughout the site to refer a friend to OZtion or to send references to a specific listing to a friend. You may not use the "Email to a friend" service or other email forwarding services that we offer to send spam or otherwise send content that would violate our User Agreement or Privacy Policy. We do not permanently store, sell, or rent these email messages or the email addresses.
 
-We protect your credit card information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. Your credit card details are not held by OZtion and can not be accessed by OZtion staff. 
+**5\. Updating your personal information**
 
-It is important for you to protect against unauthorized access to your password and to your computer by ensuring you logoff when you have finished visiting OZtion using a shared computer.
+OZtion provides you with ways in which you can update your personal information, including changing your email address, password, address and phone number, etc. You must ensure your personal information is kept up to date and is accurate. OZtion will store your previous personal information to prevent fraud, resolve disputes, assist with any investigations and enforce our User Agreement and legal requirements. 
+
+Upon your request we will deactivate your account, however your personal information is not removed from our databases due to technical constraints. Therefore you should not expect that your personal information is removed. To close you account, please go to: http://www.oztion.com.au/secure/User/cancelmembership.aspx
+
+**6\. Control of your password**
+
+You are responsible for all actions taken with your User ID, email address and password, including fees charged. Therefore we do not recommend that you disclose your OZtion password to any third parties. If you choose to share your User ID, email address and password or your information with third parties to provide you additional services, you are responsible for all actions taken with this information and therefore you should review that third party's privacy policy.
+
+**7\. Credit card security**
+
+We protect your credit card information during transmission by using Secure Sockets Layer (SSL) software, which encrypts the information you input. Your credit card details are not stored on OZtion servers. Credit card payments are processed by a third party Australian payment gateway company. Credit card information for customers on 'Auto-Bill' are stored by the payment gateway.
 
 **8\. Cookies**
 
-Cookies are small pieces of information that are stored in a browser-related file on your computer's hard drive when you use our Web site. We use cookies to improve the member experience. We also use them to deliver information and fresh content specific to your interests. Cookies are widely used on most major Web sites.
+Cookies are small pieces of information that are stored in a browser-related file on your computer's hard drive when you use our Web site. We use cookies to improve the user's experience. We also use them to deliver information and content specific to your interests. Cookies are widely used on most major Web sites.
 
-OZtion mostly uses "session" cookies, which are removed from your computer once you leave OZtion. These are used so our service can remember that you have logged in already and prevent you doing so more frequently. The technology we use (Microsoft .NET), requires the use of session cookies. Session cookies expire and are deleted after 30 minutes of no activity on OZtion.
-
-OZtion also uses persistent cookies to personalise the user experience, to help protect our members and to provide us with research information (such as how often members visit OZtion each month). Persistent cookies allow us to track users on OZtion and help us identify users abusing the OZtion service.
+OZtion mostly uses "session" cookies, which are removed from your computer once you leave OZtion. However, OZtion also uses persistent cookies to personalise the user experience, to help protect our members and to provide us with research information (such as how often members visit OZtion each month). Persistent cookies allow us to track users on OZtion and help us identify users abusing the OZtion service.
 
 **9\. Other information we collect**
 
 We use additional information to do internal research on our users' demographics, interests, and behavior to better understand and serve you and our community. This information may include the URL that you just came from (whether this URL is on our site or not), which URL you next go to (whether this URL is on our site or not), what browser you are using, and your IP address.
 
-Users who login have their IP addresses recorded. This information can be used to track users who abuse the OZtion system and will be only be provided to legal authorities in cases of suspected fraud. IP addresses can be used, in conjunction with an Internet Service Provider, to find the account of a user and, ultimately, further information to identify a user. This information is stored securely and will not be provided to other members or non-authorised parties.
-
-If you choose to post messages in our message areas or leave Rating & Comments for other users, we will collect that information you provide to us.
-
-If you send us personal correspondence, such as emails or letters, or if other users or third parties send us correspondence about your activities or postings on the Site, we may collect such information into a file specific to you.
-
-**10\. Membership Removal**
-
-If you wish to have your registration removed from our directory for any reason, simply send us an email requesting to be removed.
-
-**11\. Advertising and Third Party Links**
+**10\. Advertising and third party links**
 
 Some OZtion advertisers may request information directly from users, or link to sites that do so. OZtion has no control over its advertisers' privacy policies, and encourages users to review such policies prior to submitting any personal information to them.
 
 OZtion contains non-advertising links to a variety of third party sites to enhance the member experience. OZtion has no control of either the content or privacy policies of such sites, nor should such links be considered an endorsement of these sites except where otherwise noted.
 
-**12\. Updates to our information practices**
+**11\. Updates to our information practices**
 
-From time to time, we make changes to our information practices or alter the functionality of our Web site. We always update this statement accordingly, so we encourage you to periodically review this page for the latest information on privacy practices at OZtion. 
+From time to time, we make changes to this Privacy Policy, so we encourage you to periodically review this page for the latest information on privacy practices at OZtion. Last updated: 06/11/2007 
