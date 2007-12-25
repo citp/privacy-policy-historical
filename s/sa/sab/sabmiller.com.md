@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sabmiller.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626024820id_/http%3A//www.sabmiller.com/sabmiller.com/en_gb/Global%2BTools/legal/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sabmiller.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225191132id_/http%3A//www.sabmiller.com/sabmiller.com/en_gb/Global%2BTools/legal/Privacy.htm) for the most accurate reproduction.*
 
 # Privacy
 
@@ -30,4 +30,4 @@ Any personal information we collect will be stored in the country in which it is
 
 ## 7\. Contact Us 
 
-Further questions?  See our "[United Kingdom](http://www.sabmiller.com/sabmiller.com/en_gb/Global+Tools/Contacts/SABMiller+plc/United+Kingdom.htm)" web page for details of how to submit questions and suggestions regarding this privacy policy.
+Further questions?  Contact our [E-Communications Manager](http://www.sabmiller.com/sabmiller.com/en_gb/Global+Tools/Contacts/SABMiller+plc/) for the sabmiller.com website.
