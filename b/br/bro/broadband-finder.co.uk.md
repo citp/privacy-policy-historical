@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the broadband-finder.co.uk privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623030011id_/http%3A//www.broadband-finder.co.uk/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadband-finder.co.uk privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225163205id_/http%3A//www.broadband-finder.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Broadband Finder
+# Broadband Finder Privacy Policy - Broadband Finder
 
 The following privacy statement explains our policy regarding the personal information we collect about you.
 
@@ -47,4 +47,4 @@ Andover,
 Hampshire,  
 SP10 2EA
 
-[http://www.ukwebmedia.com](http://www.ukwebmedia.com/)
+[http://www.ukwebmedia.com](http://www.ukwebmedia.com/ "UK Web Media")
