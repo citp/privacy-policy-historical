@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the menafn.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617035407id_/http%3A//www.menafn.com/mf_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the menafn.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225180552id_/http%3A//www.menafn.com/mf_privacy.asp) for the most accurate reproduction.*
 
 # MENAFN - Middle East North Africa . Financial Network
 
-|   
+|  |   
 ---  
 Whether you are a brokerage customer, a visitor to our Site or a participant in one of our retail promotions, we understand the importance you place on the privacy and security of personal information that identifies you or your account information you disclose to us. 
 
@@ -55,7 +55,7 @@ The following is our policy regarding privacy of information gathered on this Si
   
 
 
-  5. **Surveys.  ** We may ask registered users to participate in surveys intended at obtaining general information about the users of our Site.  Participation in such surveys is completely voluntary.  In addition, some columnists will on occasion take polls of their readers.  Such polls are solely for editorial use of the columnists and participation is also voluntary.
+  5. **Surveys.  **We may ask registered users to participate in surveys intended at obtaining general information about the users of our Site.  Participation in such surveys is completely voluntary.  In addition, some columnists will on occasion take polls of their readers.  Such polls are solely for editorial use of the columnists and participation is also voluntary.
 
   
   
@@ -134,4 +134,6 @@ Additional Information:**
 >> 
 >> **Links**
 >> 
->> When we include links to services or products on other web pages we may embed a code that allows us to know whether you clicked on that link. We do this so that we can personalize your experience, such as recognizing you when you reach the web page you clicked to, or by displaying information and content we believe will be relevant to you. We also do this to measure the effectiveness and usefulness of our advertisements and the messages we send, and we use this information to continually improve the way we communicate.
+>> When we include links to services or products on other web pages we may embed a code that allows us to know whether you clicked on that link. We do this so that we can personalize your experience, such as recognizing you when you reach the web page you clicked to, or by displaying information and content we believe will be relevant to you. We also do this to measure the effectiveness and usefulness of our advertisements and the messages we send, and we use this information to continually improve the way we communicate.  
+  
+  
