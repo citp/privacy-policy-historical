@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the alibris.co.uk privacy policy that was archived on 2007-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070430105717id_/http%3A//www.alibris.co.uk/policies/privacy.cfm%3FS%3DR) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alibris.co.uk privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225231928id_/http%3A//www.alibris.co.uk/policies/privacy) for the most accurate reproduction.*
 
-# Alibris: Privacy Policy
+# Alibris UK: New, Used, Rare & Out-of-Print Books -- Help & Customer Service
 
-**Your privacy matters to us  
-**Welcome to Alibris. Because we are committed to protecting your privacy in all aspects of our business, we hope you will take the time to read this policy, which explains what information we collect from you and how we use that information. By using our Web site or purchasing products or services from us, you agree to be bound by this policy. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect and how we use it. Please check back periodically.
+**Your privacy matters to us**  
+Welcome to Alibris. Because we are committed to protecting your privacy in all aspects of our business, we hope you will take the time to read this policy, which explains what information we collect from you and how we use that information. By using our Web site or purchasing products or services from us, you agree to be bound by this policy. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect and how we use it. Please check back periodically.
 
 **What information we collect and how we use it**  
 When you visit our Web site, Alibris collects your IP address, which we use to help diagnose problems with our server, to administer our Web site, and to improve our products and services. Your IP address also is used to gather broad demographic information that does not personally identify you.
@@ -41,6 +41,7 @@ Alibris
 1250 45th Street  
 Suite 100  
 Emeryville, CA 94608  
-USA
+USA 
 
-| 
+|   
+---|---
