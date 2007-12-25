@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the perpetualkid.com privacy policy that was archived on 2007-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070621012943id_/http%3A//www.perpetualkid.com/index.asp%3FPageAction%3DCustom%26ID%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perpetualkid.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225104832id_/http%3A//www.perpetualkid.com/index.asp%3FPageAction%3DCustom%26ID%3D1) for the most accurate reproduction.*
 
 # Perpetual Kid Privacy Policy
 
@@ -40,8 +40,6 @@ Finally, we never use or share the personally identifiable information provided 
 
 We hate Spam just as much as everybody else. We only send you email to communicate about your order or to provide you with our newsletters and other special announcements if you have opted to receive such notifications.
 
-If you believe that you have received a message from us which you deem to be Spam, please forward that message to us at [spam@perpetualkid.com](mailto:spam@perpetualkid.com) and we will investigate. 
-
 **Our Commitment To Data Security**
 
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
@@ -52,15 +50,15 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 **How To Access Or Correct Your Information**
 
-You may log into your account at [www.perpetualkid.com](https://www.perpetualkid.com/g/g) to update your information or you may contact us via one of the methods below with your request.
+You may log into your account at [www.perpetualkid.com](https://www.perpetualkid.com/g/g) to update your information or you may contact us with your request.
 
 **How To Contact Us**
 
-Should you have other questions or concerns about these privacy policies, please call us at 703-652-4851, send us an email at [info@perpetualkid.com](mailto:info@perpetualkid.com), or fax us at 703-652-4852.
+Should you have other questions or concerns about these privacy policies, please call us at 703-421-4470.
 
 **You may also send mail to:**
 
-Taylored Ventures, Inc. - The Perpetual Kid  
-21010 Southbank Street, #275  
-Potomac Falls, VA 20165  
+Perpetual Kid  
+45965 Nokes Blvd., #180  
+Sterling, VA 20166  
 
