@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shape.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623215848id_/http%3A//www.shape.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shape.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225094323id_/http%3A//www.shape.com/privacy) for the most accurate reproduction.*
 
-# Shape
+# Privacy Policy - Shape
 
 **SHAPE.com Privacy Policy**
 
