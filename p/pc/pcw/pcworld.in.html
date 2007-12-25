@@ -1,7 +1,18 @@
-<!--The following is the downloaded HTML source of the pcworld.in privacy policy that was archived on 2007-05-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070501044613id_/http%3A//www.pcworld.in/privacyPol) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pcworld.in privacy policy that was archived on 2007-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071225162659id_/http%3A//www.pcworld.in/privacyPol) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head><script>
+function callURLSubmit(actionName,artId,catId){
+
+document.getElementById('formIdValue').action=actionName;
+document.getElementById('formIdValue').artId.value=artId;
+document.getElementById('formIdValue').catId.value=catId;
+document.getElementById('formIdValue').submit();
+}
+</script>
+ 
+
+
 
 
 	
@@ -21,8 +32,10 @@
 
 
 
-
-	<meta name="keywords" content="gadget reviews, product reviews, hardware reviews, software reviews, technology news, free software downloads, free newsletters, compare products, testing">
+	 
+	 
+	   
+	<meta name="keywords" content="gadget reviews, product reviews, hardware reviews, software reviews, technology news, free software downloads, free newsletters, compare products, testing,apple, leopard, Mac OS,Google, Toolbar,Microsoft,Windows XP, SP3,Microsoft, Internet Explorer, patch, IE, bug,Google, Orkut, Worm,MacBook, MacBook Pro, Apple,Microsoft, IE 8, Beta 1, IE 8 Beta 1, Internet Explorer,Facebook,IBM, email, IBM OmniFind Personal Email Search,Mozilla, Firefox 3, beta,HP, Compaq, Laptops,2.1 Speaker System, Genius,Mozilla, Firefox, IE, Internet Explorer,GPS, mobile, nokia,IBM,metaverse,virtual world,collaboration,Apple, safari, patch,digital photo frame, Mustek, iPod,Nintendo Wii,Mac OS X, Apple,HP C4388, All-In-One, Printer">
 	<meta name="verify-v1" content="ZxwROm7gkJG5DwSe+EP2j5J7JnrEim3Rzlj18cO4as8=">
 	<meta name="Googlebot" content="index,follow">
 	<meta name="NetMechanic" content="index,follow">
@@ -129,7 +142,7 @@ function fnPrintMagazine(disk)
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
 
 <tbody><tr>
-<td width="60" align="center" valign="bottom"><a href="javascript:fnPrintMagazine()" class="printedition_links"><img src="/uploads/images/4849666_Cover-Image_small.jpg" width="60" height="64" class="image_border"></a></td>
+<td width="60" align="center" valign="bottom"><a href="javascript:fnPrintMagazine()" class="printedition_links"><img src="/uploads/images/5898240_mag_small.jpg" width="60" height="64" class="image_border"></a></td>
 <td><img src="/Images/spacer.gif" width="7"></td>
 <td>
 	<table width="100%" border="0" cellspacing="0" cellpadding="0">
@@ -160,8 +173,8 @@ function fnPrintMagazine(disk)
 	</tbody></table>
 	
 	<form name="frmPrintMagazine" method="post">
-		<input type="hidden" name="hidMagId" value="3604480">
-		<input type="hidden" name="hidMagIssueDate" value="01/04/2007">
+		<input type="hidden" name="hidMagId" value="27">
+		<input type="hidden" name="hidMagIssueDate" value="01/12/2007">
 		<input type="hidden" name="hidOnDisk">
 	</form>
 </td>
@@ -182,7 +195,15 @@ function fnPrintMagazine(disk)
 
 <td valign="top"><img src="/Images/top_ad01_1.jpg" height="90"></td>
 <td valign="top">
-<img src="/uploads/images/banner/banner_3276803_mw_leaderboard_2_728x90.gif" alt="Intel Banner" width="728" height="90" border="0"></td>
+
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" id="handy_blue" width="728" height="90">
+<param name="movie" value="/uploads/images/banner/banner_3276803_top.swf"> 
+<param name="menu" value="false"> <param name="quality" value="high">
+<param name="bgcolor" value="#ffffff">   
+<embed src="/uploads/images/banner/banner_3276803_top.swf" menu="false" quality="high" swliveconnect="FALSE" width="728" height="90" name="handy_ani" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer">
+
+</object>
+</td>
 <td valign="top"><img src="/Images/top_ad01_2.jpg" height="90"></td>
 </tr>
 </tbody></table>
@@ -287,62 +308,27 @@ function fnPrintMagazine(disk)
                 <tr>
                 <td valign="top">
                  <script>
-var x='';
-
-function signin(e)
-{
-if (document.all)
-	  {
-        	var evnt = window.event;
-	        x=evnt.keyCode;
-  	  }
-	  else
-  	  {
-        	x=e.keyCode;
-  	  }
-	  if(x==13)
-           {
-                   fnSearchSimple();
-       	           return false;
-          }    
-   
-}
-
 function fnSearchSimple()
 {
-var searchName=document.frmSearchSimple.txtSearch.value;
-searchName=searchName.trim();
-if(searchName==" " ||searchName.length<=0)
-{
- alert("Please enter value to be Searched");
-} 
-else
-{
-  document.frmSearchSimple.action="/search/index.jsp";
+
   document.frmSearchSimple.submit();
-  }
-}
 
-String.prototype.trim = function () {
-    return this.replace(/^\s*/, "").replace(/\s*$/, "");
 }
-
 </script>
-
-
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
-<form name="frmSearchSimple" method="post"></form>
-	<tbody><tr>
-	<td><input name="txtSearch" type="text" class="submit" onkeydown=" return signin(event)"></td>
-	<td width="30">
-	<a href="javascript:fnSearchSimple()">
-		<img src="/Images/icon_search.jpg" alt="Search" width="22" height="20" border="0">
-	</a>
-	</td>
+<tbody><tr>
+<form name="frmSearchSimple" action="/search/index.jsp" id="searchbox_006200265140843408311:rq5kv9lskbu"></form>
+   <input type="hidden" name="cx" value="006200265140843408311:rq5kv9lskbu">
+  <input type="hidden" name="cof" value="FORID:11">
+ <td> <input type="text" name="q" size="25"> </td>
+<td width="30" align="center"><a href="javascript:fnSearchSimple()"><img src="/Images/icon_search.jpg" alt="Search" width="22" height="20" border="0"></a></td>
+
 </tr>
-
+<tr>
+<td colspan="2">&nbsp;</td>
+</tr>
 </tbody></table>
-
+<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=searchbox_006200265140843408311%3Arq5kv9lskbu"></script>
 
                 </td>  
                 </tr>
@@ -361,69 +347,151 @@ String.prototype.trim = function () {
 
 
 
+<script>
+function callURLSubmitMENU(actionName,secId){
 
+document.getElementById('sectionpageId').action=actionName;
+document.getElementById('sectionpageId').secId.value=secId;
+document.getElementById('sectionpageId').submit();
+}
+</script>
 
+<form name="sectionpage" id="sectionpageId" method="post">
+<input type="hidden" name="secId" value="">
+</form>
 <table width="199" border="0" cellpadding="0" cellspacing="0">
 <tbody><tr><td>
 <table width="199" border="0" cellpadding="0" cellspacing="0" class="table_menu">
 
                   <tbody><tr>
-                    <td height="20" width="199" align="left" valign="middle" background="/Images/menu_bg01.gif" padding-left="10px"><a href="/sideNav/index.jsp/secId=4" class="links_menu">Communications</a></td>
+                    <td height="20" width="199" align="left" valign="middle" background="/Images/menu_bg01.gif" padding-left="10px">
+                    <!--  <a href="javascript:callURLSubmitMENU('/india/')" class="links_menu">
+                    </a>-->
+                    <a href="/india/Communications/292" class="links_menu">
+                    Communications</a>
+                    
+                    </td>
                   </tr>
 		
 	
                   <tr>
-                    <td height="20" width="199" align="left" valign="middle" background="/Images/menu_bg01.gif" padding-left="10px"><a href="/sideNav/index.jsp/secId=1" class="links_menu">Desktops &amp; Notebooks</a></td>
+                    <td height="20" width="199" align="left" valign="middle" background="/Images/menu_bg01.gif" padding-left="10px">
+                    <!--  <a href="javascript:callURLSubmitMENU('/india/')" class="links_menu">
+                    </a>-->
+                    <a href="/india/Desktops_&amp;_Notebooks/289" class="links_menu">
+                    Desktops &amp; Notebooks</a>
+                    
+                    </td>
                   </tr>
 		
 	
                   <tr>
-                    <td height="20" width="199" align="left" valign="middle" background="/Images/menu_bg01.gif" padding-left="10px"><a href="/sideNav/index.jsp/secId=2" class="links_menu">Digital Cameras &amp; Camcorders</a></td>
+                    <td height="20" width="199" align="left" valign="middle" background="/Images/menu_bg01.gif" padding-left="10px">
+                    <!--  <a href="javascript:callURLSubmitMENU('/india/')" class="links_menu">
+                    </a>-->
+                    <a href="/india/Digital_Cameras_&amp;_Camcorders/290" class="links_menu">
+                    Digital Cameras &amp; Camcorders</a>
+                    
+                    </td>
                   </tr>
 		
 	
                   <tr>
-                    <td height="20" width="199" align="left" valign="middle" background="/Images/menu_bg01.gif" padding-left="10px"><a href="/sideNav/index.jsp/secId=12" class="links_menu">Digital Entertainment</a></td>
+                    <td height="20" width="199" align="left" valign="middle" background="/Images/menu_bg01.gif" padding-left="10px">
+                    <!--  <a href="javascript:callURLSubmitMENU('/india/')" class="links_menu">
+                    </a>-->
+                    <a href="/india/Digital_Entertainment/300" class="links_menu">
+                    Digital Entertainment</a>
+                    
+                    </td>
                   </tr>
 		
 	
                   <tr>
-                    <td height="20" width="199" align="left" valign="middle" background="/Images/menu_bg01.gif" padding-left="10px"><a href="/sideNav/index.jsp/secId=5" class="links_menu">Monitors</a></td>
+                    <td height="20" width="199" align="left" valign="middle" background="/Images/menu_bg01.gif" padding-left="10px">
+                    <!--  <a href="javascript:callURLSubmitMENU('/india/')" class="links_menu">
+                    </a>-->
+                    <a href="/india/Monitors/293" class="links_menu">
+                    Monitors</a>
+                    
+                    </td>
                   </tr>
 		
 	
                   <tr>
-                    <td height="20" width="199" align="left" valign="middle" background="/Images/menu_bg01.gif" padding-left="10px"><a href="/sideNav/index.jsp/secId=6" class="links_menu">Office Tools</a></td>
+                    <td height="20" width="199" align="left" valign="middle" background="/Images/menu_bg01.gif" padding-left="10px">
+                    <!--  <a href="javascript:callURLSubmitMENU('/india/')" class="links_menu">
+                    </a>-->
+                    <a href="/india/Office_Tools/294" class="links_menu">
+                    Office Tools</a>
+                    
+                    </td>
                   </tr>
 		
 	
                   <tr>
-                    <td height="20" width="199" align="left" valign="middle" background="/Images/menu_bg01.gif" padding-left="10px"><a href="/sideNav/index.jsp/secId=7" class="links_menu">PDAs &amp; Cell Phones</a></td>
+                    <td height="20" width="199" align="left" valign="middle" background="/Images/menu_bg01.gif" padding-left="10px">
+                    <!--  <a href="javascript:callURLSubmitMENU('/india/')" class="links_menu">
+                    </a>-->
+                    <a href="/india/PDAs_&amp;_Cell_Phones/295" class="links_menu">
+                    PDAs &amp; Cell Phones</a>
+                    
+                    </td>
                   </tr>
 		
 	
                   <tr>
-                    <td height="20" width="199" align="left" valign="middle" background="/Images/menu_bg01.gif" padding-left="10px"><a href="/sideNav/index.jsp/secId=8" class="links_menu">Printers</a></td>
+                    <td height="20" width="199" align="left" valign="middle" background="/Images/menu_bg01.gif" padding-left="10px">
+                    <!--  <a href="javascript:callURLSubmitMENU('/india/')" class="links_menu">
+                    </a>-->
+                    <a href="/india/Printers/296" class="links_menu">
+                    Printers</a>
+                    
+                    </td>
                   </tr>
 		
 	
                   <tr>
-                    <td height="20" width="199" align="left" valign="middle" background="/Images/menu_bg01.gif" padding-left="10px"><a href="/sideNav/index.jsp/secId=10" class="links_menu">Spyware &amp; Security</a></td>
+                    <td height="20" width="199" align="left" valign="middle" background="/Images/menu_bg01.gif" padding-left="10px">
+                    <!--  <a href="javascript:callURLSubmitMENU('/india/')" class="links_menu">
+                    </a>-->
+                    <a href="/india/Spyware_&amp;_Security/298" class="links_menu">
+                    Spyware &amp; Security</a>
+                    
+                    </td>
                   </tr>
 		
 	
                   <tr>
-                    <td height="20" width="199" align="left" valign="middle" background="/Images/menu_bg01.gif" padding-left="10px"><a href="/sideNav/index.jsp/secId=3" class="links_menu">Storage</a></td>
+                    <td height="20" width="199" align="left" valign="middle" background="/Images/menu_bg01.gif" padding-left="10px">
+                    <!--  <a href="javascript:callURLSubmitMENU('/india/')" class="links_menu">
+                    </a>-->
+                    <a href="/india/Storage/291" class="links_menu">
+                    Storage</a>
+                    
+                    </td>
                   </tr>
 		
 	
                   <tr>
-                    <td height="20" width="199" align="left" valign="middle" background="/Images/menu_bg01.gif" padding-left="10px"><a href="/sideNav/index.jsp/secId=11" class="links_menu">Upgrading</a></td>
+                    <td height="20" width="199" align="left" valign="middle" background="/Images/menu_bg01.gif" padding-left="10px">
+                    <!--  <a href="javascript:callURLSubmitMENU('/india/')" class="links_menu">
+                    </a>-->
+                    <a href="/india/Upgrading/299" class="links_menu">
+                    Upgrading</a>
+                    
+                    </td>
                   </tr>
 		
 	
                   <tr>
-                    <td height="20" width="199" align="left" valign="middle" background="/Images/menu_bg01.gif" padding-left="10px"><a href="/sideNav/index.jsp/secId=9" class="links_menu">Windows</a></td>
+                    <td height="20" width="199" align="left" valign="middle" background="/Images/menu_bg01.gif" padding-left="10px">
+                    <!--  <a href="javascript:callURLSubmitMENU('/india/')" class="links_menu">
+                    </a>-->
+                    <a href="/india/Windows/297" class="links_menu">
+                    Windows</a>
+                    
+                    </td>
                   </tr>
 		
 	
@@ -435,22 +503,34 @@ String.prototype.trim = function () {
 <table width="199" border="0" cellpadding="0" cellspacing="0" class="table_menu">
 
                   <tbody><tr>
-                    <td height="20" width="199" align="left" valign="middle" background="/Images/menu_bg01.gif" padding-left="10px"><a href="/sideNav/index.jsp/secId=3342337" class="links_menu">Hardware</a></td>
+                    <td height="20" width="199" align="left" valign="middle" background="/Images/menu_bg01.gif" padding-left="10px">
+                    <!--<a href="javascript:callURLSubmitMENU('/india/')" class="links_menu"></a>-->
+                    <a href="/india/Hardware/303" class="links_menu">Hardware</a>
+                    </td>
                   </tr>
 		
 	
                   <tr>
-                    <td height="20" width="199" align="left" valign="middle" background="/Images/menu_bg01.gif" padding-left="10px"><a href="/sideNav/index.jsp/secId=3342338" class="links_menu">Internet</a></td>
+                    <td height="20" width="199" align="left" valign="middle" background="/Images/menu_bg01.gif" padding-left="10px">
+                    <!--<a href="javascript:callURLSubmitMENU('/india/')" class="links_menu"></a>-->
+                    <a href="/india/Internet/304" class="links_menu">Internet</a>
+                    </td>
                   </tr>
 		
 	
                   <tr>
-                    <td height="20" width="199" align="left" valign="middle" background="/Images/menu_bg01.gif" padding-left="10px"><a href="/sideNav/index.jsp/secId=3342336" class="links_menu">Software</a></td>
+                    <td height="20" width="199" align="left" valign="middle" background="/Images/menu_bg01.gif" padding-left="10px">
+                    <!--<a href="javascript:callURLSubmitMENU('/india/')" class="links_menu"></a>-->
+                    <a href="/india/Software/302" class="links_menu">Software</a>
+                    </td>
                   </tr>
 		
 	
                   <tr>
-                    <td height="20" width="199" align="left" valign="middle" background="/Images/menu_bg01.gif" padding-left="10px"><a href="/sideNav/index.jsp/secId=13" class="links_menu">Technology</a></td>
+                    <td height="20" width="199" align="left" valign="middle" background="/Images/menu_bg01.gif" padding-left="10px">
+                    <!--<a href="javascript:callURLSubmitMENU('/india/')" class="links_menu"></a>-->
+                    <a href="/india/Technology/301" class="links_menu">Technology</a>
+                    </td>
                   </tr>
 		
 	
@@ -501,17 +581,22 @@ String.prototype.trim = function () {
 
  
 
-<!-- <tr>
-    <td valign="top" height="21" width="199" align="left" background="/Images/menu_bg02.gif" class="links_menu02">Sponsor 1</td>
- </tr> -->
-
-	
 	
 <!-- <tr>
    <td valign="top" height="21" width="199" align="left" background="/Images/menu_bg02.gif">&nbsp;</td>
  </tr> -->		
 
 
+
+ <!-- <tr>
+    <td valign="top" height="21" width="199" align="left" background="/Images/menu_bg02.gif" class="links_menu02"> Sponsor 2</td>
+ </tr> -->
+
+	
+		
+	<!--<tr>
+    		<td valign="top" height="21" width="199" align="left" style="padding-left:15px"><a href="/sponsor2/index.jsp/spType=2/spId=3309568" class="links_menu02">HP</a></td>
+ 		</tr> -->
 
  <tbody><tr>
    <td valign="top"><hr size="2" noshade=""></td>
@@ -536,6 +621,10 @@ String.prototype.trim = function () {
 
                   <tr>
                     <td valign="top" height="21" width="199" align="left" background="/Images/menu_bg02.gif"><a href="/sitemap" class="links_menu02">Site Map</a></td>
+                  </tr>
+                  
+                  <tr>
+                    <td valign="top" height="21" width="199" align="left" background="/Images/menu_bg02.gif"><a href="/events" class="links_menu02">Events</a></td>
                   </tr>
                <tr>
                     <td valign="top"><hr size="2" noshade=""></td>
@@ -588,12 +677,12 @@ function fnPastIssues()
 
 		<table width="100%" border="0" cellspacing="0" cellpadding="0">
 		<tbody><tr>
-		<td height="64" align="center" valign="middle"><a href="javascript:fnArchiveMagazine('3538944','01/03/2007')"><img src="/uploads/images/4620291_cover_60.gif" alt="PC World" width="60" height="64" class="image_border"></a></td>
+		<td height="64" align="center" valign="middle"><a href="javascript:fnArchiveMagazine('26','01/11/2007')"><img src="/uploads/images/5832718_cover_small.jpg" alt="PC World" width="60" height="64" class="image_border"></a></td>
 		</tr>
 		<tr>
 		<td align="center">
-			<a href="javascript:fnArchiveMagazine('3538944','01/03/2007')" class="header01">
-				March 2007
+			<a href="javascript:fnArchiveMagazine('26','01/11/2007')" class="header01">
+				November 2007
 			</a>
 
 		</td>
@@ -607,12 +696,12 @@ function fnPastIssues()
 
 		<table width="100%" border="0" cellspacing="0" cellpadding="0">
 		<tbody><tr>
-		<td height="64" align="center" valign="middle"><a href="javascript:fnArchiveMagazine('3506176','01/02/2007')"><img src="/uploads/images/4456450_60+64(CVR).jpg" alt="PC World" width="60" height="64" class="image_border"></a></td>
+		<td height="64" align="center" valign="middle"><a href="javascript:fnArchiveMagazine('25','01/10/2007')"><img src="/uploads/images/5767188_cover_64x64.jpg" alt="PC World" width="60" height="64" class="image_border"></a></td>
 		</tr>
 		<tr>
 		<td ="center"="">
-			<a href="javascript:fnArchiveMagazine('3506176','01/02/2007')" class="header01">
-				February 2007
+			<a href="javascript:fnArchiveMagazine('25','01/10/2007')" class="header01">
+				October 2007
 			</a>
 		</td>
 		</tr>
