@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freewareppc.com privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613034418id_/http%3A//www.freewareppc.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freewareppc.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225135641id_/http%3A//www.freewareppc.com/privacy.shtml) for the most accurate reproduction.*
 
-# FreewarePPC.com - Freeware Pocket PC: Privacy Statement
+# FreewarePPC.com - Freeware Pocket PC / Freeware Windows Mobile: Privacy Statement
 
 FreewarePPC.com is committed to protecting your privacy online. We are also committed to providing you with the very best experience we can on our Website. In order to enhance your experience at our site we gather certain personal information about you that helps us customize our content to your tastes and preferences.  
 Please read the following policy to understand how your personal information will be treated as you make full use of our Web site. This policy may change from time to time so please check back periodically. 
