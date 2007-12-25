@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the southwest.com privacy policy that was archived on 2007-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070518094843id_/http%3A//www.southwest.com/travel_center/privacy_policy.html%3Fref%3Dprypol_fgn) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southwest.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225130825id_/http%3A//southwest.com/travel_center/privacy_policy.html%3Fref%3Dprypol_fgn) for the most accurate reproduction.*
 
 # Southwest Airlines Privacy Policy
 
@@ -8,9 +8,9 @@ Southwest Airlines is concerned about your right to privacy. When you visit the 
 
 ### Information Collection & Use
 
-_**MySouthwest, SWABiz Traveler Accounts, and Rapid Rewards Registration**_
+_**MySouthwest ®, SWABiz Traveler Accounts, and Rapid Rewards Registration**_
 
-You are not required to establish a MySouthwest account (also referred to as a SWABiz Traveler account for the users of our SWABiz web site designed for corporate use) to use this web site. If you would like to take advantage of the conveniences available to you with special MySouthwest features, you must first complete the MySouthwest registration form and create an account number and password. During registration, you are required to provide contact information (such as name and email address). We use this information to contact you about the services on our site in which you have expressed interest. It is also necessary for you to provide date of birth. We use this information to help ensure the security of your account.
+You are not required to establish a MySouthwest® account (also referred to as a SWABiz Traveler account for the users of our SWABiz web site designed for corporate use) to use this web site. If you would like to take advantage of the conveniences available to you with special MySouthwest® features, you must first complete the MySouthwest® registration form and create an account number and password. During registration, you are required to provide contact information (such as name and email address). We use this information to contact you about the services on our site in which you have expressed interest. It is also necessary for you to provide date of birth. We use this information to help ensure the security of your account.
 
 Additionally, you have the option to provide demographic information (such as whether you are a college student age 18 to 23) and travel preferences to us; we encourage you to submit this information so we can provide you a more personalized experience on our site and deliver valuable travel offers.
 
@@ -24,7 +24,7 @@ We use this information for billing purposes and to fill your orders. If we have
 
 _**Social Security Numbers**_
 
-We do not require your social security number to create a MySouthwest account or make a purchase. You do have the option to provide the last four digits of your social security number when you establish a Rapid Rewards account. This information will help us to better maintain the security of your account. 
+We do not require your social security number to create a MySouthwest® account or make a purchase. You do have the option to provide the last four digits of your social security number when you establish a Rapid Rewards account. This information will help us to better maintain the security of your account. 
 
 _**Contests or Surveys**_
 
@@ -44,7 +44,7 @@ When you make a reservation with us, we will send you a confirmation e-mail that
 
 _**e-Mail Special Offers and Updates**_
 
-As a Member of MySouthwest and/or the Rapid Rewards program, you have the option of opting to receive the following e-mail communication either during the MySouthwest registration process or from your MySouthwest account preferences. The default option is not to receive the e-mail communication, so you need to proactively indicate you desire to receive the communication if you are interested in the associated news and special offers.  
+As a Member of MySouthwest® and/or the Rapid Rewards program, you have the option of opting to receive the following e-mail communication either during the MySouthwest® registration process or from your MySouthwest® account preferences. The default option is not to receive the e-mail communication, so you need to proactively indicate you desire to receive the communication if you are interested in the associated news and special offers.  
 
 
 e-mails | Description | Subscribe | Unsubscribe  
@@ -52,7 +52,7 @@ e-mails | Description | Subscribe | Unsubscribe
 Click 'n Save e-mail Updates/My Southwest Offers | Weekly updates on special offers and promotions. | [Subscribe](https://web.archive.org/email/) | [Unsubscribe](https://web.archive.org/email/emailUnsubscribe.html)  
 Rapid Rewards e-mail Updates | Rapid Rewards news and offers for Members only | [Subscribe](https://web.archive.org/rapid_rewards/rremail/rremailSubscribe.html) | [Unsubscribe](https://web.archive.org/rapid_rewards/rremail/rremailUnsubscribe.html)  
   
-We also provide you with the option of subscribing to our Click ‘n Save e-mail updates without establishing a MySouthwest account. If you are no longer interested in receiving Click ‘n Save e-mails and you do not have a MySouthwest account, you may unsubscribe from the service by clicking on the unsubscribe link above.
+We also provide you with the option of subscribing to our Click ‘n Save e-mail updates without establishing a MySouthwest® account. If you are no longer interested in receiving Click ‘n Save e-mails and you do not have a MySouthwest® account, you may unsubscribe from the service by clicking on the unsubscribe link above.
 
 _**Other e-Mail Communication**_
 
@@ -63,7 +63,7 @@ SWAMEDIA and Investor Relations e-mail Alerts | Southwest Airlines news releases
   
 _**Promotional Mailings**_
 
-As a MySouthwest or Rapid Rewards Member, you will receive periodic promotional postal mailings from Southwest Airlines and our Rapid Rewards marketing partners. If you do not wish to receive such promotional mailings, you may call Customer Relations Rapid Rewards at 214-792-4223 (option 2).
+As a Southwest Customer, MySouthwest® Member, or Rapid Rewards Member, you may receive periodic promotional postal mailings from Southwest Airlines and/or our select marketing partners. If you do not wish to receive such promotional mailings, you may call Customer Relations Rapid Rewards at 214-792-4223 (option 2).
 
 _**Informational Newsletters**_
 
@@ -75,7 +75,7 @@ As a Member or subscriber of one of our Customer programs, we will send you stri
 
 _**Customer Service**_
 
-Based upon the personally identifiable information you provide us during the MySouthwest registration process, we will send you a welcoming e-mail to verify your interest in becoming a Member and to validate your account number and password. When you elect to become a Rapid Rewards Member and complete your first activity to earn credits, we will send you a new member kit. We may also use this information to communicate with you about select Customer service issues.
+Based upon the personally identifiable information you provide us during the MySouthwest® registration process, we will send you a welcoming e-mail to verify your interest in becoming a Member and to validate your account number and password. When you elect to become a Rapid Rewards Member and complete your first activity to earn credits, we will send you a new member kit. We may also use this information to communicate with you about select Customer service issues.
 
 * * *
 
@@ -107,7 +107,7 @@ We share aggregated demographic information about our Customer base with our par
 
 _**Personally Identifiable Information**_
 
-We share personally identifiable information from our MySouthwest and/or Rapid Rewards registrations with third parties as follows:
+We share personally identifiable information from our MySouthwest® and/or Rapid Rewards registrations with third parties as follows:
 
 > **_Company-Agents_**
 > 
@@ -148,7 +148,7 @@ A cookie is a small text file that is stored on a user’s computer for record-k
 
 We use both session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close you browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser’s “help” file.
 
-We set a persistent cookie to store your account number, so you don’t have to enter it each time you want to log-in to your MySouthwest account. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site. 
+We set a persistent cookie to store your account number, so you don’t have to enter it each time you want to log-in to your MySouthwest® account. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site. 
 
 If you reject cookies, you may still use our site, but your ability to use some areas of our site will be limited and we will not be able to provide you with the most convenient experience.
 
@@ -170,13 +170,13 @@ If you use a bulletin board, chat room, or photo gallery on this site, you shoul
 
 ### Personally Identifiable Information Changes
 
-If your personally identifiable information changes or if you no longer desire our service, you may correct or update the information from your MySouthwest account or by contacting us by telephone or postal mail at the contact information listed below. If you want to deactivate your account, please contact us at the contact information listed below.
+If your personally identifiable information changes or if you no longer desire our service, you may correct or update the information from your MySouthwest® account or by contacting us by telephone or postal mail at the contact information listed below. If you want to deactivate your account, please contact us at the contact information listed below.
 
 * * *
 
 ### Your Online Password
 
-Your MySouthwest online password is unique to your account and is designed to protect your account from unauthorized use. Southwest Airlines will not be responsible for any lost, stolen, or otherwise disclosed passwords. Additionally, Southwest Airlines will not replace or reinstate any flight credits, partner credits, or program awards that are generated or redeemed by unauthorized password activity. Accordingly, your password should be guarded and not provided to anyone.
+Your MySouthwest® online password is unique to your account and is designed to protect your account from unauthorized use. Southwest Airlines will not be responsible for any lost, stolen, or otherwise disclosed passwords. Additionally, Southwest Airlines will not replace or reinstate any flight credits, partner credits, or program awards that are generated or redeemed by unauthorized password activity. Accordingly, your password should be guarded and not provided to anyone.
 
 * * *
 
