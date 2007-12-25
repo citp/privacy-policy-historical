@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the recruitmilitary.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623105119id_/http%3A//www.recruitmilitary.com/corporate/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recruitmilitary.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225210818id_/http%3A//www.recruitmilitary.com/corporate/privacy_policy.asp) for the most accurate reproduction.*
 
 # RecruitMilitary.com - Privacy Policy
 
-|  RecruitMilitary LLC has created this privacy statement in order to demonstrate our firm commitment to protecting the privacy of our users. Your privacy is very important to us. We want to provide a safe, secure experience for all of our users. Because we gather certain types of information about users of our site, we feel you should be aware of the terms surrounding the capture and use of that information. Strong electronic privacy is an essential ingredient in the success of the Internet as an online medium. The following discloses what information we gather, how we use or disseminate it, and how you can change it.
+|  RecruitMilitary® has created this privacy statement in order to demonstrate our firm commitment to protecting the privacy of our users. Your privacy is very important to us. We want to provide a safe, secure experience for all of our users. Because we gather certain types of information about users of our site, we feel you should be aware of the terms surrounding the capture and use of that information. Strong electronic privacy is an essential ingredient in the success of the Internet as an online medium. The following discloses what information we gather, how we use or disseminate it, and how you can change it.
 
 **Information We Gather**
 
@@ -17,7 +17,7 @@ We collect statistical information such as page views on an aggregated basis. Su
 
 2\. If you allow your resume to be searchable, then all employers and recruiters who have access to our resume database will have access to your resume. We use our best efforts to grant access to this database only to paying employers, recruiters, hiring managers, headhunters, and human resource professionals, but cannot guarantee that other parties will not, without our consent, gain access to this database. You may remove your resume from our searchable database at any time. However, employers and recruiters who have access to the database, and other parties who have otherwise gained access to the database, may have retained a copy of your resume in their own files or databases. We are not responsible for the retention, use, or privacy of resumes in these instances, or for the use or privacy of resumes by any of such parties while resumes are in the database.
 
-3\. The Department of Labor, Office of Federal Contract Compliance Programs regulation at 41 CFR Part 60-1 (Obligation to Solicit Race and Gender Data for Agency Enforcement Purposes, also known as “Internet Applicant” rule), requires RecruitMilitary to maintain your records for a period of two years. 
+3\. The Department of Labor, Office of Federal Contract Compliance Programs regulation at 41 CFR Part 60-1 (Obligation to Solicit Race and Gender Data for Agency Enforcement Purposes, also known as â€œInternet Applicantâ€ rule), requires RecruitMilitary to maintain your records for a period of two years. 
 
   * **Links.** This site may contain links to other sites. We are not responsible for the privacy practices or the content of such web sites. We do not control cookies from other outside sites.
 
