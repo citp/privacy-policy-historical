@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the omnihotels.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623152659id_/http%3A//www.omnihotels.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omnihotels.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225144831id_/http%3A//www.omnihotels.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Omni Hotels Privacy Policy
 
@@ -21,3 +21,6 @@ A cookie is an electronic piece of data stored on the user's computer stored by 
 Please be aware that third-party Web sites available through links on omnihotels.com each have separate privacy and data collection practices. We have no control, responsibility or liability for these third-party policies or actions. Omni Hotels cannot ensure or warrant the security of any information you disclose online to third party sites. 
 
 This website is subject to United States law. Omni Hotels will disclose personally identifiable information without your permission when required by law, or in good faith belief that such action is necessary to investigate or protect against harmful activities to guests, visitors, associates, or others, or to property (including this site). 
+
+  
+
