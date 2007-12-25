@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indian-magic.com privacy policy that was archived on 2007-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070428170223id_/http%3A//www.indian-magic.com/privacy1.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indian-magic.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225131628id_/http%3A//www.indian-magic.com/privacy1.htm) for the most accurate reproduction.*
 
 # IndianMagic - Privacy Statement
 
