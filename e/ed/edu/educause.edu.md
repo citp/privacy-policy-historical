@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the educause.edu privacy policy that was archived on 2007-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070612041635id_/http%3A//www.educause.edu/PrivacyPolicy/1440) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the educause.edu privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225151447id_/http%3A//www.educause.edu/PrivacyPolicy/1440) for the most accurate reproduction.*
 
 # Privacy Policy | About EDUCAUSE | EDUCAUSE
 
@@ -59,7 +59,7 @@ Note: We do not collect personal information other than name and e-mail address 
 
 ### Cookies
 
-Weuse cookies to help manage the Web site to better serve visitors. A cookie is a piece of data that is either maintained only for the duration of a particular session visit or is stored on the user's computer to support future visits. EDUCAUSE uses both types of cookie.
+We use cookies to help manage the Web site to better serve visitors. A cookie is a piece of data that is either maintained only for the duration of a particular session visit or is stored on the user's computer to support future visits. EDUCAUSE uses both types of cookie.
 
 _Session cookie_ – This type of cookie is used to enhance and make more efficient the user's experience during a site visit. Once the user closes the browser, the cookie terminates. 
 
@@ -114,7 +114,6 @@ If you wish not to receive any communications from EDUCAUSE (including newslette
 ### Unsubscribing from constituent and discussion group lists or electronic newsletters 
 
   * To remove yourself from a constituent or discussion group, select the Join or Leave List link on the group's Web page (links to all groups are listed on the [ Constituent and Discussion Groups](https://web.archive.org/ConstituentandDiscussionGroups/318) Web page). 
-  * Remove yourself from the [EDUPAGE mailing list](https://web.archive.org/Edupage/639). 
   * Remove yourself from the [Washington Update mailing list](https://web.archive.org/WashingtonUpdate/1311).
   * Remove yourself from the [EDUCAUSE Online mailing list](https://web.archive.org/EDUCAUSEOnline/641).
 
@@ -146,4 +145,4 @@ EDUCAUSE reserves the right to use personal information in its database to ident
 
 Effective date: 9/17/04
 
-Page Last Updated: Thursday, March 17, 2005 
+Page Last Updated: Friday, August 03, 2007 
