@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the schoolmessenger.com privacy policy that was archived on 2007-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070220022608id_/http%3A//schoolmessenger.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schoolmessenger.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225140548id_/http%3A//www.schoolmessenger.com/privacy_policy.html) for the most accurate reproduction.*
 
-# SchoolMessenger -- Empowering educators with parent-notification solutions and services
+# SchoolMessenger --- Empowering educators with parent-notification solutions and services
 
-|  | 
+Privacy Policy
 
-**  
-** SchoolMessenger is committed to protecting any personal information you may provide us. We believe it is important for you to understand how we treat the information you may send us via our website.
+SchoolMessenger is committed to protecting any personal information you may provide us. We believe it is important for you to understand how we treat the information you may send us via our website.
 
 **Information Collected**  
 In general, you may visit this website without identifying or revealing any information about yourself. Our web servers collect the domain names of our visitors, not the email addresses. In addition, there are certain pages in this website where we may need to collect personal information from you for a specific purpose, such as to provide you with certain information you request. The information collected from you may include your school name, district name, contact name, address, telephone, fax number, or email address.
@@ -31,7 +30,3 @@ You may update the information that you provide us through this website by conta
 
 **Changes to this Policy  
 **Please check this privacy policy periodically to inform yourself of any changes. Although we reserve the right to modify or supplement this privacy policy, we will provide notice to you on this website of any major changes for at least 30 days following the change.
-
-* * *
-
-| 
