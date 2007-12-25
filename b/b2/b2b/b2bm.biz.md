@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the b2bm.biz privacy policy that was archived on 2007-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070528180011id_/http%3A//www.b2bm.biz/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the b2bm.biz privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225131305id_/http%3A//www.b2bm.biz/privacy) for the most accurate reproduction.*
 
-# B2B Marketing Online
-
-[](https://web.archive.org/default.asp?docId=13852&cg=10258)
+# Privacy & Legal
 
 ### Subscriptions
 
