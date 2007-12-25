@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dragonfable.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623014019id_/http%3A//dragonfable.com/df-privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dragonfable.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225131952id_/http%3A//www.dragonfable.com/df-privacy.asp) for the most accurate reproduction.*
 
 # PRIVACY POLICY OVERVIEW
 
@@ -52,10 +52,10 @@ _[http://www.battleon.com/aq-partner.asp](http://www.battleon.com/aq-partner.asp
 
 
   
-DragonFable discloses your information to the Internal Revenue Service and to those that help it provide services, including those who perform technical, administrative and data processing tasks such as affiliate tracking, hosting, billing, fulfillment, and data storage and security (“Affiliated Third Parties”). The Affiliated Third Parties to whom DragonFable discloses your personal information all have agreed to abide by this Privacy Policy, although some of these Affiliated Third Parties have separate privacy policies that govern their collection, use and storage of information that you provide to them directly.
+DragonFable does not disclose any personal information except to those that help it provide technical, administrative and data processing services(including hosting, billing, affiliate tracking, fulfillment, and data storage and security) “Affiliated Parties”.  The Affiliated Parties to whom DragonFable discloses your personal information all have agreed to abide by this Privacy Policy. Please note that some of these Affiliated Parties have separate privacy policies that govern their collection, use and storage of information that you provide to them directly. Example: Paypal has their own privacy policy for customers using their services.
 
   
-DragonFable does not sell or knowingly divulge your personal information to advertisers or any other non-Affiliated Third Parties, unless we are required to share your information with a third party in order to comply with law, to comply with a court order or subpoena; to enforce our site or game rules; to protect the safety and security of our users and our Web sites.
+DragonFable is supported by its Dragon Amulet Account Users. Therefore DragonFable does not sell or knowingly divulge your information to advertisers or any other non-Affiliated Parties, unless we are required to share your information with a third party in order to comply with law, to comply with a court order or subpoena; to enforce our site or game rules; to protect the safety and security of our users and our Web sites.  
 
   
 A cookie is a little piece of information handed to a web browser to a web server that contains information that can be retrieved from the server later. DragonFable uses cookies only to the limited extent of recognizing the registered user and pairing that user with the character that the user created and the account preferences set by that user within the game. 
