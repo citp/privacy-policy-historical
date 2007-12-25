@@ -1,14 +1,10 @@
-> *The following text is extracted and transformed from the malleries.com privacy policy that was archived on 2007-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070601011718id_/http%3A//www.malleries.com/security-privacy-guarantee-p-4.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the malleries.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225114924id_/http%3A//www.malleries.com/security-privacy-p-4.html) for the most accurate reproduction.*
 
 # Security & Privacy Guarantee
 
-MALLERIES.com
+SHOP CATEGORIES
 
-**Featured Dealers**
-
-[ ](http://www.malleries.com/vintage-modern-ruby-diamond-wedding-band-ring-i-3103-s-50.html)
-
-[ ](http://www.malleries.com/50s-razooks-designer-evening-party-dress-shimmery-sequins-i-3047-s-80.html)
+[](http://www.malleries.com/)
 
 | 
 
