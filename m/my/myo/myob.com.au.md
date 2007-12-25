@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myob.com.au privacy policy that was archived on 2007-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070502023242id_/http%3A//myob.com/servlet/Satellite%3Fcid%3D1106022210664%26pagename%3DMYOB%252FPage%252FContentPageWithoutNav%26site%3Den_AU%26c%3DPage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myob.com.au privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225134817id_/http%3A//myob.com/servlet/Satellite%3Fcid%3D1106022210664%26pagename%3DMYOB%252FPage%252FContentPageWithoutNav%26site%3Den_AU%26c%3DPage) for the most accurate reproduction.*
 
 # Privacy - MYOB Australia
 
@@ -85,7 +85,7 @@ To demonstrate that our privacy policy accords with this privacy legislation, we
 
 If you have any questions or you believe that MYOB has not adhered to this Privacy Statement, please contact the Privacy Officer in your local MYOB office. We will then use all commercially reasonable efforts to promptly determine if there is a problem and take the necessary corrective action.
 
-In the event that you need to update or correct your personal or business information, you can do so at [ my.MYOB ](https://web.archive.org/servlet/Satellite?cid=1108527010034&pagename=MYOB%2FPage%2FMyMYOB&site=en_AU&c=Page "my.MYOB") Alternatively, you can call, fax or mail changes to your personal information to your local MYOB office.
+In the event that you need to update or correct your personal or business information, you can do so at [ my.MYOB ](http://my.myob.com/ "my.MYOB") Alternatively, you can call, fax or mail changes to your personal information to your local MYOB office.
 
 #### Changes to this Privacy Statement
 
