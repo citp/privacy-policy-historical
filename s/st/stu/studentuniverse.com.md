@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studentuniverse.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623100042id_/http%3A//studentuniverse.com/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studentuniverse.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225123730id_/http%3A//www.studentuniverse.com/privacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy for StudentUniverse.com
 
@@ -63,6 +63,7 @@ This site contains links to other websites. StudentUniverse.com is not responsib
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with StudentUniverse.com on this website, you can contact:   
 StudentUniverse.com  
-100 Talcott Avenue  
-Watertown, MA 02472   
+First Floor  
+230 Third Avenue  
+Waltham, MA 02451  
 or email us at [helpdesk@StudentUniverse.com](mailto:helpdesk@StudentUniverse.com)
