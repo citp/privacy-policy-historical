@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the rapidlearningcenter.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627123517id_/http%3A//www.rapidlearningcenter.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapidlearningcenter.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225203915id_/http%3A//rapidlearningcenter.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Rapid Learning Center
 
-|  Promotion ($96 Off):   
+|   **Promotion**  
 ---  
-|  | **Buy 2 Courses & Get 1 Free  
-**Promo Code: 3for2  
-Exp: 07/15/2007   
+|  | **  
+** Buy any two Premium courses and get the 3rd one free. Phone Order Only. 
+
+**Special Code:** DEC342   
+  
 ---|---  
   
   
@@ -25,6 +27,20 @@ Exp: 07/15/2007
 ---  
   
 Have friends taking science and math courses too? Tell them about our rapid learning system.   
+  
+  
+  **Gift Certificate**  
+---  
+  
+Send a gift of education to someone you care. Give the learning edge with our rapid learning courses.
+
+**Product Code**
+
+  * RL-700-GP Premium 
+  * RL-700-GS Standard
+  * RL-700-GL Lite 
+
+  
   
   
   
