@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homesite.com privacy policy that was archived on 2007-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070503193829id_/http%3A//www.homesite.com/default.asp%3Faction%3Darticle%26ID%3D236) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homesite.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225210459id_/http%3A//www.homesite.com/default.asp%3Faction%3Darticle%26ID%3D236) for the most accurate reproduction.*
 
 # Homeowners Insurance from Homesite
 
@@ -7,12 +7,12 @@
 ABOUT HOMESITE  
   
   
-[Careers](https://web.archive.org/web/20070503193829id_/http%3A//www.homesite.com/default.asp?action=article&ID=174)  
-[Our Commitment to Customers](https://web.archive.org/web/20070503193829id_/http%3A//www.homesite.com/default.asp?action=article&ID=172)  
-[News](https://web.archive.org/web/20070503193829id_/http%3A//www.homesite.com/default.asp?action=article&ID=195)  
-[Rapid Response Claims Service](https://web.archive.org/web/20070503193829id_/http%3A//www.homesite.com/default.asp?action=article&ID=215)  
-[Corporate Responsibility](https://web.archive.org/web/20070503193829id_/http%3A//www.homesite.com/default.asp?action=article&ID=238)  
-[Contact Us](https://web.archive.org/web/20070503193829id_/http%3A//www.homesite.com/default.asp?action=article&ID=239)  
+[Careers](https://web.archive.org/web/20071225210459id_/http%3A//www.homesite.com/default.asp?action=article&ID=174)  
+[Our Commitment to Customers](https://web.archive.org/web/20071225210459id_/http%3A//www.homesite.com/default.asp?action=article&ID=172)  
+[News](https://web.archive.org/web/20071225210459id_/http%3A//www.homesite.com/default.asp?action=article&ID=195)  
+[Rapid Response Claims Service](https://web.archive.org/web/20071225210459id_/http%3A//www.homesite.com/default.asp?action=article&ID=215)  
+[Corporate Responsibility](https://web.archive.org/web/20071225210459id_/http%3A//www.homesite.com/default.asp?action=article&ID=238)  
+[Contact Us](https://web.archive.org/web/20071225210459id_/http%3A//www.homesite.com/default.asp?action=article&ID=239)  
 | 
 
 At Homesite, we respect the privacy of our customers and website visitors. This policy statement is intended to inform you about our policies with respect to the collection of personal information and how it is used at Homesite. The personal information you provide is primarily used to enhance your relationship with us, and to better serve the collective needs of our visitors and customers. We recognize that this information belongs to you and must be treated accordingly. This policy applies to [www.homesite.com](http://www.homesite.com/) and all other websites owned and operated by Homesite Group Inc.
