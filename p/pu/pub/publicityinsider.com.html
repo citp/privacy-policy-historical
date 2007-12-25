@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the publicityinsider.com privacy policy that was archived on 2007-06-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070608065925id_/http%3A//www.publicityinsider.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the publicityinsider.com privacy policy that was archived on 2007-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071225230628id_/http%3A//www.publicityinsider.com/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <title>Privacy Statement, Publicity Insider - Publicity Secrets for Savvy
@@ -47,9 +47,7 @@ Businesses &amp; Entrepreneurs</title>
 <script language="Javascript" src="/javascript/hover.js"></script>
 <script language="JavaScript1.2" type="text/javascript">
 <!--
-
 /** Browsercheck **/
-
 function cm_bwcheck(){
 	this.ver=navigator.appVersion
 	this.agent=navigator.userAgent.toLowerCase()
@@ -68,80 +66,32 @@ function cm_bwcheck(){
 	return this
 }
 var bw=new cm_bwcheck()
-                 
-function submitform(myform) {
-//	if (bw.ns4) {
-//	    em=myform.email.value;
-//  	} else {
-//    	em=myform.email.value;
-//	}
-	if (emailCheck (myform.e.value)) {
-		nextpage="http://www.publicityinsider.com/freesecret.asp";
-		myform.onsubmit="";
-		//myform.action="http://www.topica.com/f/p.html";
-		//myform.submit ();
-		return (true);
-	}
-	else return(false);
-}
-
-function minisubcheck1() {
-var emailField;
-
-   	emailField=document.bodySubscribe1.e.value;
-
-	if (emailCheck (emailField)) {
-		if (emailField=='') {
-			alert ('You must enter your first name!')
-			return (false);
-		} else
-			return(true);
-		
-	}
-	else return(false);
-
-}
+  
 
 function writetable() {
 
-  if (bw.ns4) {
-	document.writeln('<form action="/ConfirmSubscription.asp" method="post" name="ccoptin" onSubmit="return submitform(this)">');
-	document.writeln('<table border="0" width="190" height="100" cellspacing="0" cellpadding="1" bgcolor="#E8E5Ba">');
-  	document.writeln('<tr><td valign="center">');
-  	document.writeln('<table width="188" height="95" bgcolor="white" align="center">');
-  } else {
-  		document.writeln('<form action="/ConfirmSubscription.asp" method="post" name="ccoptin"  onSubmit="return submitform(this)">');
-  		document.writeln('<table border="3" bordercolor="#E8E5BA" width="190" height="100" cellspacing="0" cellpadding="0">');
-  }
-  
-  document.writeln('  <tr>');
-  document.writeln('    <td>');
-  document.writeln('	<p align="center">');
-  if (bw.ns4) {
-  	document.writeln('	<font style="font-size:12px;">');
-  } else {
-  	document.writeln('	<font class="tiny">');
-  }
-  	document.writeln('Breaking news, cool tips, great resources...sign up for our free Publicity Insider Update e-zine!!<br>');
-  document.writeln('    </font>');
-
-  if (bw.ns4) {
-	  	document.writeln('<center><input type="TEXT" name="e" size="15" CLASS="textInput"><br>')
-	  	document.writeln('<input type="submit" onclick="nextpage=555" value="Subscribe now!" name="go"></center>');
-  } else {
-	  	document.writeln('         <input type="TEXT" name="e" size="25" CLASS="textInput"><br>');
-	  	document.writeln('      <input class="subscribeButton" onClick="nextpage=555;" type="submit" value="Subscribe now!" name="go">');
-  }
-  document.writeln('    </p></td>');
-  document.writeln('  </tr>');
-  if (bw.ns4) {
-    document.writeln('</table></td></tr>');
-  }
-  document.writeln('</table>');
-  document.writeln('</form>');
-
+	document.write('<form method=post action="http://app.icontact.com/icp/signup.php" name="icpsignup" accept-charset="UTF-8" onsubmit="return verifyRequired(this);">');
+	document.write('<input type=hidden name=redirect value="http://www.publicityinsider.com/confirmsubscription_thanks.asp" />');
+	document.write('<input type=hidden name=errorredirect value="http://www.icontact.com/www/signup/error.html" />');
+	document.write('<input type=hidden name="listid" value="9875091">');
+	document.write('<input type=hidden name="specialid:9875091" value="DAXA">');
+	document.write('<input type=hidden name=clientid value="54327">');
+	document.write('<input type=hidden name=formid value="2630">');
+	document.write('<input type=hidden name=reallistid value="1">');
+	document.write(' <input type=hidden name=doubleopt value="0">');
+	document.write('<table border="1" style="border-collapse: collapse; border: 3px solid #E8E5BA; padding-left: 0; padding-right: 0; padding-top: 0; padding-bottom: 0" bordercolor="#111111" width="185" height="100" cellspacing="0">');
+	document.write('  <tr>');
+	document.write('    <td>');
+	document.write('	<p align="center">');
+	document.write('	<font class="tiny">Breaking news, cool tips, great resources...sign up for our free Publicity Insider Update e-zine!!<br>');
+	document.write('    </font>');
+	document.write('      <input type="text" name="fields_email" size="20" style="width:165px; font-family: Arial, Helvetica; font-size: 8pt; background-color: #F3FAC5"><br>');
+	document.write('      <input type="Submit" value="Subscribe now!" name="Submit" style="font-family: Arial, Helvetica; font-size: 7pt; color: #000000; background-color: #E8E5BA">');
+	document.write('    </td>');
+	document.write('  </tr>');
+	document.write('</table>');
+	document.write('</form>');
 }
-
 if (document.layers) {
   document.write ('<LAYER TOP="10" LEFT="560">');
   writetable();
@@ -151,23 +101,8 @@ if (document.layers) {
   writetable();
   document.write ('</DIV>')
 }
-
 // -->
-</script><div style="position:absolute; top:10; left:560"><form action="/ConfirmSubscription.asp" method="post" name="ccoptin" onsubmit="return submitform(this)">
-<table border="3" bordercolor="#E8E5BA" width="190" height="100" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td>
-	<p align="center">
-	<font class="tiny">
-Breaking news, cool tips, great resources...sign up for our free Publicity Insider Update e-zine!!<br>
-    </font>
-         <input type="TEXT" name="e" size="25" class="textInput"><br>
-      <input class="subscribeButton" onclick="nextpage=555;" type="submit" value="Subscribe now!" name="go">
-    </p></td>
-  </tr>
-</tbody></table>
-</form>
-</div>
+</script><div style="position:absolute; top:10; left:560"><form method="post" action="http://app.icontact.com/icp/signup.php" name="icpsignup" accept-charset="UTF-8" onsubmit="return verifyRequired(this);"><input type="hidden" name="redirect" value="http://www.publicityinsider.com/confirmsubscription_thanks.asp"><input type="hidden" name="errorredirect" value="http://www.icontact.com/www/signup/error.html"><input type="hidden" name="listid" value="9875091"><input type="hidden" name="specialid:9875091" value="DAXA"><input type="hidden" name="clientid" value="54327"><input type="hidden" name="formid" value="2630"><input type="hidden" name="reallistid" value="1"> <input type="hidden" name="doubleopt" value="0"><table border="1" style="border-collapse: collapse; border: 3px solid #E8E5BA; padding-left: 0; padding-right: 0; padding-top: 0; padding-bottom: 0" bordercolor="#111111" width="185" height="100" cellspacing="0">  <tbody><tr>    <td>	<p align="center">	<font class="tiny">Breaking news, cool tips, great resources...sign up for our free Publicity Insider Update e-zine!!<br>    </font>      <input type="text" name="fields_email" size="20" style="width:165px; font-family: Arial, Helvetica; font-size: 8pt; background-color: #F3FAC5"><br>      <input type="Submit" value="Subscribe now!" name="Submit" style="font-family: Arial, Helvetica; font-size: 7pt; color: #000000; background-color: #E8E5BA">    </p></td>  </tr></tbody></table></form></div>
 
 
 
