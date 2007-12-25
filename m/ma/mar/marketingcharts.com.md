@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the marketingcharts.com privacy policy that was archived on 2007-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070519031120id_/http%3A//www.marketingcharts.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingcharts.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225153254id_/http%3A//www.marketingcharts.com/privacy) for the most accurate reproduction.*
 
-# Marketing Charts » Watershed Publishing Privacy Policy
+# Watershed Publishing Privacy Policy - Marketing Charts
 
 We are as mad at spam as you are. We get tons of it ourselves and wouldn’t even imagine adding to this constant barrage of unsolicited bulk email. So our privacy policy is quite simple: we won’t use your email address for any other purpose than the one for which you originally gave it to us: sending you our newsletter and sponsorship content. This may include contacting subscribers to update information once in a while, and, from time to time, inviting some readers to participate in a readership survey. Occasionally we also notify our readers of relevant events and products.
 
