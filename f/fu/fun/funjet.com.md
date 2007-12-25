@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funjet.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624143545id_/http%3A//www.funjet.com/cs/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funjet.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225200459id_/http%3A//www.funjet.com/cs/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Funjet Vacations - Customer Information Privacy Protection
 
@@ -35,6 +35,8 @@ Travel Habits
 When you sign up for the My Funjet Club, you have the choice of receiving or not receiving emails. If you choose to receive emails, Funjet Vacations will send you regular emails promoting vacation travel, specials, sales and other information. You may unsubscribe from the email specials list at any time by accessing the unsubscribe link at the bottom of the email or by visiting the [unsubscribe page](http://www.funjet.com/myfunjet/unsubscribe.asp) on our website.
 
 The information you supply when you book a vacation online is used to process and complete your online order. Funjet Vacations does not share this information with any outside parties except to the extent necessary to process your order (for example, credit card authorizations). Information you submit for the purposes of online bookings will not be used to subscribe you for the email guest book unless you specifically opt-in for the email guestbook by checking the appropriate box on the online booking form.
+
+The information you supply when you submit a photo or video to the Vacation Memory Exchange or to any photo/video contest is used to send you a confirmation email when your submission has been posted on Funjet.com. The photo or video, title, and caption will be posted on Funjet.com for the public to view. Your email address will not be posted for the public to view. If you opt-in to Funjet Vacation’s weekly email at the time of your photo or video submission, your email address will be added to the subscription list. In this case, you will receive another email with the option to edit your subscription preferences.
 
 The information you supply when you send in a Customer Service request is used to assist you with your request. It may also be used to help Funjet Vacations review and improve its products, promotions, and customer service.
 
@@ -77,10 +79,4 @@ If at some future date, Funjet Vacations determines that it will change the mann
 **How to Contact Funjet Vacations**  
 If you have any questions or comments regarding the Funjet Vacations privacy policy, please contact Funjet Vacations via our online [Customer Service](http://www.funjet.com/cs/index.asp).
 
-Updated: August 16th, 2004
-
-† Unless otherwise noted, fares do not include all applicable taxes, charges, and government-imposed fees.  
-
-
-  
-
+Updated: August 1, 2007
