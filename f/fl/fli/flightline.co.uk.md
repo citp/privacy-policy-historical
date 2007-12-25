@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the flightline.co.uk privacy policy that was archived on 2007-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070610233759id_/http%3A//www.flightline.co.uk/help/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flightline.co.uk privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225194736id_/http%3A//www.flightline.co.uk/help/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy - Flightline Essex Ltd.
+# Privacy Policy - Flightline.co.uk
 
 ### Flightline Essex Ltd respects your privacy
 
