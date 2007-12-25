@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tnstate.edu privacy policy that was archived on 2007-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070521082059id_/http%3A//www.tnstate.edu/interior.asp%3Fmid%3D1175) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tnstate.edu privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225044549id_/http%3A//www.tnstate.edu/interior.asp%3Fmid%3D1175) for the most accurate reproduction.*
 
 # Privacy Policy
 
