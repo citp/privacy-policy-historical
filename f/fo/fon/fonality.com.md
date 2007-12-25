@@ -1,8 +1,14 @@
-> *The following text is extracted and transformed from the fonality.com privacy policy that was archived on 2007-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070403204657id_/http%3A//www.fonality.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fonality.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225161733id_/http%3A//www.fonality.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy :: Fonality
 
-| |  |   
+| 
+
+| | []( "Go")  
+---|---  
+  
+|    
+  
 ---  
   
 |  General   
