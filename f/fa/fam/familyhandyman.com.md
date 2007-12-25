@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the familyhandyman.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617040919id_/http%3A//www.rd.com/content/openContent.do%3FcontentId%3D10660%26lid%3D177) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the familyhandyman.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225181950id_/http%3A//www.rd.com/content/openContent.do%3FcontentId%3D10660%26lid%3D177) for the most accurate reproduction.*
 
-# Privacy Policy
+# privacy-policy | RDLiving | Reader's Digest
 
 The policies below are applicable to readersdigest.com (rd.com) and other Web sites on the World Wide Web originating in the United States and owned and operated by The Reader's Digest Association, Inc. (collectively "RD sites") unless otherwise indicated. Our Privacy Policy will tell you what information we collect when you visit RD sites, how we protect it and what choices you have about how that information is used. We urge you to read our entire Privacy Policy so that you will understand both our commitment to you and your privacy, and how you can participate in that commitment.
 
@@ -8,7 +8,7 @@ Collection of Personally Identifiable Information
 Some functions and services offered through RD sites require that you provide certain Personally Identifiable information (PII). PII that we collect includes email address, name, postal address, telephone number, date of birth and credit card number. We collect this PII for example, when you order a product, enter a contest or sweepstakes, request a catalog, or register for a mailing list. You can make changes to your PII by logging in and clicking "Update My Profile, or by contacting customer service at Reader's Digest, PO Box 50005, Prescott, AZ 86301-5005.
 
 Receiving Email and Postal Correspondence  
-Our online Membership Registration form and other online submission forms contain clearly identified checkboxes indicating that by submitting the form you will be entitled to receive email correspondence from Reader's Digest, our affiliates and partners unless you opt out of receiving email correspondence by unchecking each box. Each time you submit your email address your privacy preferences will be updated. Web site visitors over the age of 18 who have submitted their names, mailing addresses, or email addresses but have not opted out may occasionally receive email correspondence from Reader's Digest, our affiliates and partners, containing information such as newsletters or special offers. If you do not wish to receive these messages, you can check the box that allows you to opt out. If you have already submitted an online Membership Registration form and wish to change your preferences, see the section below on Opting Out.
+Our online Membership Registration form and other online submission forms contain clearly identified checkboxes indicating that by submitting the form you will be entitled to receive email correspondence from Reader's Digest, our affiliates and partners unless you opt out of receiving email correspondence by unchecking each box. Each time you submit your email address your privacy preferences will be updated. Web site visitors over the age of 13 who have submitted their names, mailing addresses, or email addresses but have not opted out may occasionally receive email correspondence from Reader's Digest, our affiliates and partners, containing information such as newsletters or special offers. If you do not wish to receive these messages, you can check the box that allows you to opt out. If you have already submitted an online Membership Registration form and wish to change your preferences, see the section below on Opting Out.
 
 Except as noted below, Reader's Digest will not share email addresses we collect through RD sites with any unaffiliated third parties unless we specify this at the point of the collection. Except as otherwise noted, unless you consent to the disclosure of your personally identifiable information, only we and our affiliates, our technical consultants, third-party auditors and other third parties who make RD sites available, enhance their functionality, or provide associated services and/or who deal with you in delivering content, samples, products, and gifts and prizes, have access to this information and we require them to agree that they are covered by this policy.
 
@@ -19,7 +19,7 @@ Please note that we do reserve the right to transfer your personally identifiabl
 Reader's Digest may also provide aggregate statistics about our customers, traffic patterns and related site information to reputable third parties for statistical analysis, but these statistics will include no personal information.
 
 Opting Out of Receiving Email and Postal Correspondence  
-Receiving email messages and postal mail from Reader's Digest, our affiliates and partners is optional. You may choose not to receive certain email, even after granting prior permission, or you may wish to correct information you previously provided. If you do not wish to receive email or wish to correct information you provided to Reader's Digest and you know you are a member of rd.com, please go to the [View My Profile](https://web.archive.org/viewprofile.do) section of rd.com; otherwise please [click here](https://web.archive.org/privacyOptionAction.do) to go to the [E-Mail Preference Center](https://web.archive.org/privacyOptionAction.do) form. Reader's Digest will use commercially reasonable efforts to delete records from our database when we receive requests to do so; however, because of possible retention of a residual copy in a system backup file, we cannot guarantee deletion in every instance.
+Receiving email messages and postal mail from Reader's Digest, our affiliates and partners is optional. You may choose not to receive certain email, even after granting prior permission, or you may wish to correct information you previously provided. If you do not wish to receive email or wish to correct information you provided to Reader's Digest and you know you are a member of rd.com, please go to the [View My Profile](https://web.archive.org/profilecenter/openPreferencePage.do) section of rd.com; otherwise please [click here](https://web.archive.org/profilecenter/openPreferencePage.do) to go to the [E-Mail Preference Center](https://web.archive.org/profilecenter/openPreferencePage.do) form. Reader's Digest will use commercially reasonable efforts to delete records from our database when we receive requests to do so; however, because of possible retention of a residual copy in a system backup file, we cannot guarantee deletion in every instance.
 
 We reserve the right to send you certain communications such as service announcements and administrative messages, relating to Reader's Digest and rd.com that are necessary to our relationship with you.
 
@@ -41,10 +41,10 @@ You can unsubscribe from our newsletter(s) by:
 
 
 
-Online Policy for Individuals 17 Years Old and Younger  
+Online Policy for Individuals Younger Than 13 Years of Age  
 No personal information should be submitted or posted on RD sites by individuals 17 years of age or younger without their parent's or guardian's permission. We may request name, address, phone number, email address and date of birth from your child for contest participation so that we may notify him or her if selected a winner. In the event we do so, we will request your consent prior to collection.
 
-No information collected from online guests 17 years of age or younger is used for any marketing or promotional purposes whatsoever by Reader's Digest. Unless otherwise disclosed at collection, Reader's Digest does not provide any personal information collected through any RD site from individuals 17 years old and younger, regardless of its source, to any third party for any purpose whatsoever.
+No information collected from online guests 13 years of age or younger is used for any marketing or promotional purposes whatsoever by Reader's Digest. Unless otherwise disclosed at collection, Reader's Digest does not provide any personal information collected through any RD site from individuals 17 years old and younger, regardless of its source, to any third party for any purpose whatsoever.
 
 Note to parents: If your child has submitted his or her name through any RD site, and you wish to review that information, to have it corrected or deleted from our records, or to refuse to permit further collection or use of the child's information, please communicate your wishes to us at Reader's Digest, PO Box 50005, Prescott, AZ 86301-5005, or via email to Parents.rdw@rd.com or call us at 1-800-934-0977. Reader's Digest pledges to exert reasonable efforts to assure that the information is deleted as soon as possible.
 
@@ -61,10 +61,10 @@ Many of the ads appearing on this Web site are delivered to you by third-party a
 Discussion Boards  
 Please be aware that discussion board postings are not private. Others may capture your email address and send you email messages if you post your email address. Reader's Digest cannot control such actions by others; however, we urge you and any other discussion board user not to use our forums as a source of email addresses for sending unsolicited messages. For more information on our discussion boards, please see [Instructions and Terms of Use](http://communitytalk.rd.com/webx?termsOfUse@@.ee93238) in the Community Talk section of rd.com as well as our [Terms of Use](https://web.archive.org/content/openContent.do?contentId=10661) for the site.
 
-Only individuals 18 years of age or older may participate in our discussion boards.
+Only individuals 13 years of age or older may participate in our discussion boards.
 
 Opinion Polls  
-Opinion polls on rd.com and other RD sites, such as the "Your Two Cents" feature, are anonymous. We do not correlate votes submitted via such polls with names or individual email addresses, unless otherwise disclosed at the point of collection.
+Opinion polls on rd.com and other RD sites are anonymous. We do not correlate votes submitted via such polls with names or individual email addresses, unless otherwise disclosed at the point of collection.
 
 Searches  
 Keyword search functions are provided on the RD sites as a convenience to our users. We do not collect your name or email address as a result of using a search feature. We may keep logs of all words searched to help us learn what kinds of information rd.com visitors are seeking, and to improve our service to visitors.
@@ -98,10 +98,7 @@ Reader's Digest wants your personal information to remain as secure as reasonabl
 Acceptance of Privacy Policy  
 By using this site, you signify your agreement to the RD sites privacy policy. You further authorize the export of personal information to the USA and its storage and use as specified in this policy when you provide such information to us. If you do not agree to this policy, please do not use this site. We reserve the right, at our discretion, to change, modify, add, or remove portions of this policy at any time. Please bookmark this page and check it periodically. We will post any changes to this privacy policy on our site. Your continued use of any RD site following the posting of any changes to these terms shall mean that you have accepted those changes. This policy and all of our legal obligations are subject to the laws of New York and the USA, regardless of the location of any user. Any claims or complaints must be filed in the USA in the State of New York.
 
-Policy last updated September 2006
+Policy last updated July 2007
 
 Legal Notice and Terms and Conditions  
 Please also read the RD sites [Terms of Use](https://web.archive.org/content/openContent.do?contentId=10661) to understand the additional terms and conditions which apply to use of the sites.
-
-  
-
