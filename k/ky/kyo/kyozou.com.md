@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kyozou.com privacy policy that was archived on 2007-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070513072052id_/http%3A//kyozou.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kyozou.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225144534id_/http%3A//www.kyozou.com/privacy.asp) for the most accurate reproduction.*
 
 # .....Kyozou......
 
