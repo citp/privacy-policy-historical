@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geology.com privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017001316id_/http%3A//geology.com/visitors/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geology.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225081154id_/http%3A//geology.com/visitors/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy and Security Statement - Geology.com
 
@@ -46,7 +46,7 @@ Geology.com complies with the [Children's Online Privacy Protection Act (COPPA)]
 
 #### Getting in Touch With Geology.com 
 
-Geology.com is owned by Hobart King, PhD. a licensed professional geologist registered in the Commonweath of Pennsylvania and Associate Professor of Geology at Mansfield University of Pennsylvania. He can be reached by mail at 45 Pearl Street, Wellsboro, PA 16901, phone at 570-724-7461 and email at the address shown below. Dr. King holds degrees in geology from California University of Pennsylvania (B.S. 1975) and West Virginia University (M.S. 1978, Ph.D. 1982). From 1980 until 1994 he was a geologist at the West Virginia Geological and Economic Survey, holding positions as coal geologist, economic geologist and Head of the Economic Minerals and Geologic Hazard Section. He has been on the faculty of Mansfield University of Pennsylvania since 1994. His research and teaching interests center around teaching with technology. He taught Mansfield's first online course and is the author of Hazard City: Assignments in Applied Geology, a CD that accompanies introductory textbooks published by Prentice Hall. 
+Geology.com is owned by Hobart King, PhD. a licensed professional geologist registered in the Commonweath of Pennsylvania and Associate Professor of Geology at Mansfield University of Pennsylvania. He can be reached by mail at 45 Pearl Street, Wellsboro, PA 16901, phone at 570-439-0324 and email at the address shown below. Dr. King holds degrees in geology from California University of Pennsylvania (B.S. 1975) and West Virginia University (M.S. 1978, Ph.D. 1982). From 1980 until 1994 he was a geologist at the West Virginia Geological and Economic Survey, holding positions as coal geologist, economic geologist and Head of the Economic Minerals and Geologic Hazard Section. He has been on the faculty of Mansfield University of Pennsylvania since 1994. His research and teaching interests center around teaching with technology. He taught Mansfield's first online course and is the author of Hazard City: Assignments in Applied Geology, a CD that accompanies introductory textbooks published by Prentice Hall. 
 
   
 
