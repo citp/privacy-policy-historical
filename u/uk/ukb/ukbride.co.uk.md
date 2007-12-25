@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the ukbride.co.uk privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429030600id_/http%3A//www.ukbride.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukbride.co.uk privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225230516id_/http%3A//www.ukbride.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ## Data Protection
 
-UKbride has been created by Whitespace Publishers Ltd Ltd and Web On High. The site is populated under its Editor and Data Controller, [Rob Davis](https://web.archive.org/web/20070429030600id_/http%3A//www.ukbride.co.uk/info@ukbride.co.uk), of Whitespace Publishers Ltd. 
+UKbride has been created by Whitespace Publishers Ltd Ltd and Web On High. The site is populated under its Editor and Data Controller, [Rob Davis](mailto:julian@lincolnshirepride.co.uk), of Whitespace Publishers Ltd. 
 
 In all cases where you provide personal information, we will use this information to deliver the services you have requested, and for our internal administration and marketing purposes. We do not share your personal information with third party companies.
 
-You have certain rights under the Data Protection Act 1998 including a right to request a copy of the information we hold about you (for which we will charge an administration fee of £5.00). You also have the right to ask us to correct any inaccuracies in your personal information (which is free). To make such a request, send an email to [info@ukbride.co.uk](mailto:info@ukbride.co.uk) including the email address that you registered with along with your full postal address and postcode.
+You have certain rights under the Data Protection Act 1998 including a right to request a copy of the information we hold about you (for which we will charge an administration fee of £5.00). You also have the right to ask us to correct any inaccuracies in your personal information (which is free). To make such a request, send an email to [julian@lincolnshirepride.co.uk](mailto:julian@lincolnshirepride.co.uk) including the email address that you registered with along with your full postal address and postcode.
 
 This privacy policy may change without notice, therefore, it may be useful to check back periodically to note any changes.
 
@@ -24,7 +24,7 @@ UKbride does not automatically capture or store personal information, other than
 
 ## Direct Marketing
 
-Whitespace Publishers Ltd may contact you from time to time via email or post to offer products of services pertaining to the UKbride site. Should you wish not to receive such communications, please inform us by [contacting](https://web.archive.org/web/20070429030600id_/http%3A//www.ukbride.co.uk/contact-us.html) our data controller.
+Whitespace Publishers Ltd may contact you from time to time via email or post to offer products of services pertaining to the UKbride site. Should you wish not to receive such communications, please inform us by [contacting](https://web.archive.org/web/20071225230516id_/http%3A//www.ukbride.co.uk/contact-us.html) our data controller.
 
 ## Disclaimer
 
@@ -32,7 +32,7 @@ Please note that the links to other businesses on our site and information found
 
 ## Intellectual Property
 
-Any material found on this site, including text or images, may not be printed, copied, reproduced, republished, downloaded, posted, displayed, modified, reused, broadcast or transmitted in any way, except for your own personal non-commercial use. Permission for any other use must be obtained from Whitespace Publishers Ltd by emailing us at [info@ukbride.co.uk](mailto:info@ukbride.co.uk).
+Any material found on this site, including text or images, may not be printed, copied, reproduced, republished, downloaded, posted, displayed, modified, reused, broadcast or transmitted in any way, except for your own personal non-commercial use. Permission for any other use must be obtained from Whitespace Publishers Ltd by emailing us at [julian@lincolnshirepride.co.uk](mailto:julian@lincolnshirepride.co.uk).
 
 The names, images and logos identifying UKbride, are proprietary marks of UKbride. Copying of material except for personal or non-commercial use is not permitted without prior approval from the relevant copyright owner. Requests for such permission should be directed to Whitespace Publishers Ltd, tell us who you are, the organisation you represent (if any) and how and why you wish to use our logo. Please include your name, address, telephone number, fax number and email address. 
 
