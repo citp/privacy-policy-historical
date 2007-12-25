@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the powermax.com privacy policy that was archived on 2006-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060626010319id_/http%3A//powermax.com/home/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powermax.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225194925id_/http%3A//www.powermax.com/pages/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | PowerMax
 
 Your privacy is extremely important to us. We realize how important peace of mind is to the web user, and to that end, we have included this information for your benefit.
 
@@ -8,11 +8,10 @@ We do not track user names, email addresses or other personal information as you
 
 PowerMax.com makes use of cookies to keep track of what you add to your shopping cart. It is a standard technology used to great extent throughout the e-commerce world. Any information you supply is given to us at your choice, and that information will never be traded, sold, or given away to anyone at any time.
 
-[](http://www.thawte.com/)
+[](http://www.entrust.net/)E-commerce transactions on PowerMax.com are done in a secure, encrypted manner, certified by [Entrust SSL Certificate Services](http://www.entrust.net/). If you have any questions at all, please feel free to call us.
 
-E-commerce transactions on PowerMax.com are done in a secure, encrypted manner, certified by Thawte Digital Certificates. If you have any questions at all, please feel free to call us.
-
-PowerMax  
+**PowerMax**  
 6077A SW Lakeview Blvd.  
-Lake Oswego, OR 97035  
+Lake Oswego, OR 97035
 
+Back to Top
