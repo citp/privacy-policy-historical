@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the health.qld.gov.au privacy policy that was archived on 2007-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070616113739id_/http%3A//www.health.qld.gov.au/masters/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the health.qld.gov.au privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225160723id_/http%3A//www.health.qld.gov.au/masters/privacy.asp) for the most accurate reproduction.*
 
 # Queensland Health Privacy and Confidentiality Statement
 
 Queensland Health is committed to protecting user privacy. We understand and appreciate that visitors and users of this web site are concerned about their privacy and the confidentiality and security of any information that may be provided to us. 
 
-To protect your privacy Queensland Health staff follow 10 privacy principles. The principles deal with how we collect and handle your personal information. They are set out in a Queensland Government [information standard](http://www.iie.qld.gov.au/site/informationstandards/current.asp) (IS42A Information Privacy for the Queensland Department of Health).
+To protect your privacy Queensland Health staff follow 10 privacy principles. The principles deal with how we collect and handle your personal information. They are set out in a Queensland Government [information standard](http://www.health.qld.gov.au/privacy/IS42A.asp) (IS42A Information Privacy for the Queensland Department of Health).
 
 ### How is this website monitored?
 
@@ -52,5 +52,5 @@ Further information on freedom of information can be found in our [Statement of 
 Further information on our privacy policy is available on our [information privacy site](https://web.archive.org/privacy/default.asp). If you have any queries about our privacy and security practices please email us at: [infoweb@health.qld.gov.au](https://web.archive.org/privacy/default.asp). We will refer your email to the appropriate officer.  
 
 
-Last Updated: 25 June 2004   
-Last Reviewed: June 2004 
+Last Updated: 03 October 2007   
+Last Reviewed: October 2007
