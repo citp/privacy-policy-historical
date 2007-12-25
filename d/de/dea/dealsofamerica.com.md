@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealsofamerica.com privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217040321id_/http%3A//www.dealsofamerica.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealsofamerica.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225231835id_/http%3A//www.dealsofamerica.com/privacy.php) for the most accurate reproduction.*
 
 # DealsOfAmerica.com - Best American Deals & Coupons- Updated 7 Days a Week
 
@@ -11,7 +11,7 @@ User may "unsubscribe" to newsletter any time by sending an email to subscribe@d
 
 Apart from this, we do not collect any other information about visitors. The information we collect, if any, is not shared with other organizations for commercial purposes.
 
-**Cookies:** We do not set any cookies.
+**Cookies:** We partner with some of the third party statistics provider who may set cookie to identify statistics such as unique visitors, visits etc..
 
 **With respect to Ad Servers:** We do not partner with or have special relationships with any ad server companies. In order to provide you best information about deals, We do provide advertisements and links to various retailers. DealsOfAmerica.com has no control or knowledge about privacy policy of each retailer. Please see web site of retailers or contact them directly if you want any information about their privacy policy.
 
