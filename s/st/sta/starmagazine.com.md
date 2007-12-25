@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the starmagazine.com privacy policy that was archived on 2007-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070209033715id_/http%3A//www.starmagazine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starmagazine.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225084132id_/http%3A//www.starmagazine.com/privacy) for the most accurate reproduction.*
 
-# Star Magazine
+# Global - Star Magazine
 
 Internet user privacy is of paramount importance to Star Magazine and our partners. The success of our business depends upon our ability to maintain the trust of our users. Below is information regarding Star Magazine's commitment to protect the privacy of users and to ensure the integrity of the Internet. 
 
