@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the srirecords.com privacy policy that was archived on 2007-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070308225631id_/http%3A//www.srirecords.com/disclaimer.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the srirecords.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225064540id_/http%3A//srirecords.com//index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D22%26Itemid%3D34) for the most accurate reproduction.*
 
-# Privacy Policy
+# SRI Records & SRI Jazz - PRIVACY
 
 **
 
 ### PRIVACY POLICY
 
 **  
-We consider respecting our customer's privacy as one of our most significant responsibilities. We created the following privacy policy guidelines with a fundamental respect of your right to privacy. If you have questions or concerns regarding this statement, you should first contact us by email at info@srirecords.com.
+We consider respecting our customer's privacy as one of our most significant responsibilities. We created the following privacy policy guidelines with a fundamental respect of your right to privacy. If you have questions or concerns regarding this statement, you should first contact us by email at [info@srirecords.com.](mailto:info@srirecords.com.)
 
 **How We Gather Information** We only collect the information you voluntarily give us when you place an order. At this time we do NOT put "cookies" on your browser. We do NOT track what other sites you visit. Your web activities are confidential to you and we respect your privacy. During the ordering process, customers are required to give their contact information (such as name, address and e-mail address). This information is used to contact the user to notify them of sales and special offers. 
 
