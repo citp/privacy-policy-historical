@@ -1,35 +1,6 @@
-> *The following text is extracted and transformed from the killerguides.com privacy policy that was archived on 2007-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070518123218id_/http%3A//www.killerguides.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the killerguides.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225203114id_/http%3A//www.killerguides.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Killer Guides
-
-  |  [](https://web.archive.org/)
-
-  * [City of Heroes](https://web.archive.org/guides/coh/guide/city-of-heroes)
-  * [Dark Age of Camelot](https://web.archive.org/guides/daoc/guide/dark-age-of-camelot)
-  * [EVE Online](https://web.archive.org/guides/eve/guide/eve-online)
-  * [EverQuest](https://web.archive.org/guides/eq/guide/everquest)
-  * [EverQuest 2](https://web.archive.org/guides/eq2/guide/everquest-2)
-  * [Final Fantasy XI](https://web.archive.org/guides/ffxi/guide/final-fantasy-xi)
-  * [Guild Wars](https://web.archive.org/guides/gw/guide/guild-wars)
-  * [Horizons](https://web.archive.org/guides/hz/guide/horizons)
-  * [Lineage 2](https://web.archive.org/guides/l2/guide/lineage-2)
-  * [Runescape](https://web.archive.org/guides/rs/guide/runescape)
-  * [Second Life](https://web.archive.org/guides/sl/guide/second-life)
-  * [Star Wars Galaxies](https://web.archive.org/guides/swg/guide/star-wars-galaxies)
-  * [The Matrix Online](https://web.archive.org/guides/mxo/guide/the-matrix-online)
-  * [World of Warcraft](https://web.archive.org/guides/wow/guide/world-of-warcraft)
-
-  
-
-
-  * [Member Area](https://web.archive.org/login)
-
-  
-|   | 
-
-You are not logged in. If you're already a customer, please [log in now](https://web.archive.org/login). 
-
-**You are here:** [Killer Guides](https://web.archive.org/) » Privacy Policy 
 
 ## Which data is being logged?
 
@@ -56,5 +27,3 @@ At any given time you have the right to request the information we stored about 
 Unless required for legal investigations or if it's in the best public interest (e.g. suspected credit card fraud) we do not share your information.
 
 If you have any questions regarding our privacy policy, please don't hesitate to [contact us](https://web.archive.org/contact). 
-
-|   |  |  
