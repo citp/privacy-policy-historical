@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cnb.com privacy policy that was archived on 2006-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061019011421id_/http%3A//www.cnb.com/aboutus/terms/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cnb.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225151028id_/http%3A//www.cnb.com/aboutus/terms/privacy.asp) for the most accurate reproduction.*
 
 # City National Bank: About Us - Privacy & Legal - Privacy Statement
 
-|  | [](mailto:?subject=City%20National%20Bank%20Web%20Page&body=The%20following%20page%20is%20from%20the%20City%20National%20Bank%20website%3A%0A%0Ahttps%3A//web.archive.org/web/20061019011421id_/http%253A//www.cnb.com/aboutus/terms/privacy.asp)  
+|  | [](mailto:?subject=City%20National%20Bank%20Web%20Page&body=The%20following%20page%20is%20from%20the%20City%20National%20Bank%20website%3A%0A%0Ahttps%3A//web.archive.org/web/20071225151028id_/http%253A//www.cnb.com/aboutus/terms/privacy.asp)  
 ---|---  
   
 Privacy Statement
@@ -33,7 +33,7 @@ We never sell any client information for any reason. As a result, at City Nation
 
 To provide the kind of premier services you have come to expect from City National, we collect and maintain the following client information:
 
-  * Name, address, Social Security number or income and other client information you provide to us on applications or other forms, in writing, electronically, or verbally. 
+  * Name, address, Social Security number and income and other client information you provide to us on applications or other forms, in writing, electronically, or verbally. 
   * Account balances or payment history and other client information about your transactions with us. 
   * Information we obtain from consumer reporting agencies and from others with whom we work, such as publicly available information or demographics.
   * Password, Personal Identification Number and other client information about you that we obtain in connection with our efforts to protect against fraudulent or unauthorized use of our services. 
@@ -54,7 +54,7 @@ To effectively administer and service daily operations, most financial companies
 
 
 
-As permitted or required by law, City National may provide client information to credit reporting agencies and to others in response to subpoenas, other legal processes, regulatory / administrative requests and in connection with suspicious or criminal transactions. However, we do not share client information from consumer reports or credit applications without your consent. 
+As permitted or required by law, City National may provide client information to credit reporting agencies; to others in response to subpoenas, other legal process, regulatory/administrative requests; and, to government agencies in connection with suspicious or criminal transactions, including suspicion of elder or independent adult financial abuse. However, we do not share client information from consumer reports or credit applications without your consent. 
 
 4\. HOW WE PROTECT YOU
 
@@ -84,7 +84,7 @@ PUBLICLY AVAILABLE INFORMATION  | Federal, state or local government records (i.
   
 7\. AFFILIATES 
 
-This list is effective as of May 2, 2006  
+This list is effective as of August 10, 2007  
 City National Corporation affiliates include:
 
 BANK
@@ -103,14 +103,20 @@ WEALTH MANAGEMENT
 INVESTMENT MANAGEMENT AFFILIATES 
 
   * AMBS Investment Counsel, LLC
-  * Cadinha & Co., LLC
   * CCM Advisors, LLC
   * Clifford Associates, LLC
+  * Convergent Wealth Advisors
   * Independence Investments LLC
   * Mid-Continent Capital, LLC
   * Philip V. Swan Associates, LLC
   * Reed, Conner & Birdwell, LLC
   * SKBA Capital Management
+
+
+
+OTHER
+
+  * Business Bancorp Capital Trust I 
 
 
 
