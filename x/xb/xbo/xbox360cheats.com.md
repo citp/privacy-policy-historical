@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xbox360cheats.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627211723id_/http%3A//www.xbox360cheats.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xbox360cheats.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225143043id_/http%3A//www.xbox360cheats.com/privacy_policy) for the most accurate reproduction.*
 
 # - Xbox360Cheats.com - The #1 Source for Xbox 360 Cheats -
 
@@ -17,3 +17,5 @@ We collect the e-mail addresses of those who communicate with us via e-mail, and
 We use cookies to store visitors preferences, record session information, and also record past activity on the site in order to provide a better service when visitors return. 
 
 Please contact us by [using this form](http://www.xbox360cheats.com/contact_us/) if you have any questions. 
+
+## other games
