@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supercrossonline.com privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608095234id_/http%3A//motorsports.cc.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supercrossonline.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225161627id_/http%3A//motorsports.cc.com/privacy.asp) for the most accurate reproduction.*
 
 # Untitled Document
 
