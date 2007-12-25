@@ -1,26 +1,30 @@
-> *The following text is extracted and transformed from the suprnova.com privacy policy that was archived on 2007-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070430065353id_/http%3A//suprnova.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suprnova.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225234039id_/http%3A//www.suprnova.com/privacy.php) for the most accurate reproduction.*
 
-# Suprnova Torrents - Unlimited Torrent Downloads
+# Suprnova - The Universal Bittorrent Source
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. The Information We Collect: First Name, Last Name, Address, Zip/Postal, City, State, Country, Email, membership typeThis notice applies to all information collected or submitted on ultimatemoviedownload website. On some pages, you can order products/subscriptions, make requests, and register to receive materials. The types of personal information collected at these pages are: 
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
-Name:   
-Address:   
-Email address:   
-Phone number: 
+### The Information We Collect:
 
-**The Way We Use Information:**
+**First Name**  
+**Last Name**  
+**Address**  
+**Zip/Postal Code**  
+**City**  
+**State**  
+**Country**  
+**Email Address**  
+**Membership type**
+
+This notice applies to all information collected or submitted on this website. On some pages, you can order products/subscriptions, make requests, and register to receive materials. The types of personal information collected at these pages are:
+
+**Name:**  
+**Address:**  
+**Email address:**  
+**Phone number:**
 
 All information is stored in a secure database. 
 
-**Our Commitment To Data Security:**
-
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
 
-**How You Can Access Or Correct Your Information:**
-
-You can access all your personally identifiable information that we collect online and maintain by [description of the company access procedure]. We use this procedure to better safeguard your information. You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error.To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
-
-**How To Contact Us:**
-
-Should you have other questions or concerns about these privacy policies, please send us an email at our [support center](https://web.archive.org/web/20070430065353id_/http%3A//suprnova.com/support.php).
+You can access all your personally identifiable information that we collect online and maintain by contacting [Support](https://web.archive.org/web/20071225234039id_/http%3A//www.suprnova.com/support.php). We use this procedure to better safeguard your information. You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
