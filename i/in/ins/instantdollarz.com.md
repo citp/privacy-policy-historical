@@ -1,57 +1,64 @@
-> *The following text is extracted and transformed from the instantdollarz.com privacy policy that was archived on 2007-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070523064127id_/http%3A//www.instantdollarz.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instantdollarz.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225042320id_/http%3A//www.instantdollarz.com/privacy.html) for the most accurate reproduction.*
 
-# InstantDollarz
+# Privacy Policy: InstantDollarz Media
 
 **PRIVACY POLICY**
 
-We at InstantDollarz Incorporated are committed to respecting the online privacy of each of our site visitors. To this end, we have established this Privacy Policy in order that you understand the care with which we treat your personal information. InstantDollarz Incorporated reserves the right to change or modify this policy at any time. The timestamp of the latest update will always appear below, which serves as a notice. 
+InstantDollarz Inc. and its affiliated and subsidiary companies and sites (hereafter referred to as "InstantDollarz") recognize that its customers, visitors, and other users of the site and any co-branded, mirrored, or successor sites (collectively or individually “You” or “Your”) value their privacy. This Privacy Policy provides important details about the privacy policies and practices of InstantDollarz's corporate site www.InstantDollarz.com ("InstantDollarz Site"). 
 
-Latest Update: _12:00:00 AM EST, MARCH 25, 2007._
+Revision Date: June 7, 2007 
 
-InstantDollarz Incorporated is the sole owner of the information collected on this site. We will collect and use information throughout this website only as described in this Privacy Policy. By using this Site, you signify your acceptance of this Policy. If you do not agree to the terms of this Policy, in whole or part, you should not use this Site. 
+This Privacy Policy is incorporated into and is subject to the InstantDollarz.com’s Terms of Use. Your use of the InstantDollarz.com Site remains subject to the terms of this Privacy Policy and the [Terms of Use](https://web.archive.org/web/20071225042320id_/http%3A//www.instantdollarz.com/terms.html). InstantDollarz reserves the right to change or modify this policy at any time, with any change being effective immediately upon posting on this website. InstantDollarz is the sole owner of the information collected on this site. We will collect and use information throughout this website only as described in this Privacy Policy. By using this Site, You signify Your acceptance of this Policy. If You do not agree to the terms of this Policy, in whole or part, You may not use this Site. 
 
 I. INFORMATION COLLECTION 
 
-Our servers automatically log certain access details for each visitor including domain, IP address, time of access, referring site and content. At some point, visitors may be asked to voluntarily provide personally identifiable information ("PII") in response to certain information requests. By providing PII and other information to this Site, the visitor fully understands and unambiguously consents to the collection and processing of such information in the United States and other countries or territories, in accordance with the terms of this Policy. 
+InstantDollarz is the corporate entity that manages the InstantDollarz marketing and technology companies. The InstantDollarz site is not directed towards individual Internet consumers nor does it seek any personally identifiable information ("PII") from such consumers. PII may be collected should a consumer contact InstantDollarz on his/her own accord and volunteer PII. 
+
+**Log File Information** : Like many websites, we gather information about how visitors use this Website. In general, all web pages on this Website can be visited without telling us who You are or revealing any personal information about Yourself. Our servers will automatically log certain access details for each visitor including domain, IP address, time of access, browser version, referring site and content visited. This information cannot be used to identify You personally. We also collect information about Your activities on and through this Website from our third party business associates, suppliers, vendors and other agents. Aside from these web statistics, You will remain anonymous unless You voluntarily provide us with personally identifiable information ("PII") during this visit or any previous visit. 
+
+**Web Beacons** : Web beacons are used to track the online usage patterns of our users anonymously. Such beacons may be used in emails sent to You to track which emails are opened by You. 
 
 II. USE OF INFORMATION 
 
-InstantDollarz Incorporated reserves the right to use PII from any visitor: 1) for the specific purpose for which such information was provided; 2) to contact the user regarding services for which he or she has expressed interest; 3) as disclosed at the time such information was provided; and 4) as disclosed in this Policy. 
+InstantDollarz reserves the right to use information gathered on the InstantDollarz site as follows: 
 
-Among other things, these details are required in order to improve site content and services. We may also retain any emails, letters, or other correspondence between you and InstantDollarz Incorporated to ensure quality control and improve service. 
+  * We use web beacons and log file information to: (a) provide more applicable content and information; (b) monitor the effectiveness of our marketing campaigns; and (c) monitor aggregate numbers of visitors, pages viewed, etc.
+  * We may also retain any emails, letters, or other correspondence between You and InstantDollarz to ensure quality control and improve service. 
 
-III. SHARING OF INFORMATION 
 
-InstantDollarz Incorporated will never sell or otherwise share any PII with any organization, except in the following circumstances: 1) we are required to release information in response to legal subpoenas, court orders and other judicial claims; 2) a portion or all of InstantDollarz Incorporated is sold, merged or otherwise acquired by another entity, in which case a portion or all PII would then belong to said entity; 3) a visitor has expressed interest in offers and services provided by other advertisers or businesses; and 4) we must consult third parties as reasonably necessary for us to operate all functions of this website. Additionally, we may share aggregated demographic information - containing no personal identifiers - with third-party partners in order to obtain further opportunities for visitors. 
 
-IV. COOKIES 
+III. INFORMATION MANAGEMENT 
 
-Though not in usage on this Site, cookies may be utilized on other sites owned by InstantDollarz Incorporated that require registration. Visitors to those sites are bound by the privacy policy and terms and conditions of those sites, though the following will always be true regarding cookies. 
+InstantDollarz may share information with affiliated entities in connection with the sale, reorganization, liquidation or transfer of any of the InstantDollarz properties. InstantDollarz may also release information in reponse to legal subpoenas, court orders and other judicial claims; to enforce our Privacy Policy, terms and conditions or any other agreements; to contact, identify or bring legal action against someone who may be causing injury to or interference with our or others’ rights or property, including but not limited to claims for infringement of intellectual property, invasion of privacy, or situations involving potential threats to the physical safety of any person; and to assist other companies in fraud protection or investigation. 
 
-On sites requiring registration, InstantDollarz Incorporated may use cookies: 1) to track new registrants and affiliates; 2) to temporarily remember username and password for the registrant so they do not need to be entered during every visit to the website, and whose function may be annulled simply by logging out. Electronic cookies provided by InstantDollarz Incorporated can only be seen by InstantDollarz Incorporated and cannot harm your computer. If Cookies are disabled, our website will not function properly. 
+IV. THIRD PARTY OFFERS 
 
-These cookies may be either session ID cookies or persistent cookies. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user’s hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions. 
+This Site may contain links to other sites not owned by InstantDollarz. We cannot be responsible for the privacy practices or the content of such websites, or the services or representations made by third-party advertisers. Navigation using these links constitutes acknowledgement of this fact. This privacy statement also only covers any actions made by InstantDollarz, and NOT any actions of advertisers OR ad servers. You should consult the respective privacy policies of these third-party ad servers or ad networks for more information on their practices and for instructions on how to opt-out of certain practices. This privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
 
-InstantDollarz Incorporated also uses cookies to track generic information such as timestamp, number of pages viewed, unique site visitors and other non-identifiable information. As this information does not disclose the identity or PII of any specific user, we may use or disclose non-PII in any way and with any third party. 
+V. DATA SECURITY 
 
-V. THIRD PARTY OFFERS 
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, InstantDollarz uses commercially reasonable efforts to safeguard confidentiality of all data stored on our servers. We use appropriate industry standard security measures including firewalls, encryptions, token authentication, monitoring technology and continuous adaptive analysis of network traffic to track any and all abuse of network properties and data. All data stored on InstantDollarz servers are treated as proprietary and confidential and is not available to the public. Access to any PII is limited to the working personnel of InstantDollarz who are authorized to access such systems, and are required to keep this information confidential. While our data management practices are held to these standards at all times, no data transaction on the Internet is 100% secure from intrusion. 
 
-This Site may contain links to other sites not owned by InstantDollarz Incorporated. We cannot be responsible for the privacy practices or the content of such websites, or the services or representations made by third-party advertisers. Navigation using these links constitutes acknowledgement of this fact. This privacy statement also only covers any actions made by InstantDollarz Incorporated, and NOT any actions of advertisers OR ad servers. 
+VI. CHILDREN'S PRIVACY 
 
-VI. DATA SECURITY 
+InstantDollarz makes every effort to protect the privacy of children using the Internet. None of InstantDollarz's products and services, and neither the InstantDollarz Site, are developed for or directed at children, and we have made commercially reasonable efforts to prevent our knowing acceptance of any such information from children under the age of 18. It is possible that by some error or deception, we may receive information regarding or from children under the age of 18. If notified, we will verify the information and obtain parental consent immediately, or otherwise delete the information from our servers. If You believe Your child has provided InstantDollarz with any personally identifiable data by some interaction at InstantDollarz, please contact support@instantdollarz.com to have them removed. 
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, InstantDollarz Incorporated uses appropriate industry standards to safeguard confidentiality of your personal information. These procedures include firewalls, encryptions, token authentication, monitoring technology and continuous adaptive analysis of network traffic to track any and all abuse of network properties and data. While our data management practices are held to these standards at all times, no data transaction on the Internet is 100% secure from intrusion. 
+VI. EMAIL MARKETING PRACTICES and DATA PROCESSING 
 
-VII. OPTING OUT OR CANCELLATION 
+InstantDollarz is committed to proper Internet practices and full compliance with the United States' CAN-SPAM Act of 2003 (15 U.S.C. § 7701) and the European Union's Privacy and Electronic Communications Regulations of 2003 through usage of the [Safe Harbor](http://www.export.gov/safeharbor) principle. It is our policy to prohibit the sending of unsolicited or "Spam" email by InstantDollarz or any of its marketing partners. By providing information to InstantDollarz, you acknowledge that they operate in the United States and agree to (i) permit InstantDollarz to transmit and use your User information anywhere necessary, including across international boundaries, to affect the services and transactions provided by this Site; and (ii) that such use by InstantDollarz shall be subject to the terms and conditions stated in this Privacy Policy and applicable Terms of Use. 
 
-Members of InstantDollarz Incorporated sites may only deactivate enrollment in newsletters and information updates from InstantDollarz Incorporated by following instructions on the Terms and Conditions of that particular site. At the moment, this Site does not accept enrollment for newsletters, so there is no need for opting out or cancellation. 
+VIII. ENDNOTE 
 
-VIII. ANTI-SPAM 
+If You have any questions about this Privacy Policy or the practices of this site, please contact us at support@instantdollarz.com, or use the mailing address listed below. We welcome Your questions, comments, and concerns about this Privacy Policy and our privacy practices. Please send us feedback pertaining to these matters or any other issue You may have with InstantDollarz. If You feel that we are not following our stated Privacy Policy, You may contact the Better Business Bureau, Your local consumer protection office, or the Federal Trade Commission. 
 
-InstantDollarz Incorporated does not endorse or tolerate spam of any kind. 
+IX. YOUR CALIFORNIA PRIVACY RIGHTS. 
 
-If you have any questions about the practices of this site, please contact us at [p u b l i s h e r @ i n s t a n t d o l l a r z . c o m ](), or use the mailing address listed below. 
+Beginning on January 1, 2005, California Civil Code Section 1798.83 permits our visitors who are California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to support@instantdollarz.com or write us: 
 
-InstantDollarz Incorporated   
+InstantDollarz.com   
 PO BOX 17257   
 Philadelphia, PA 19105 
+
+X. ACCEPTANCE OF PRIVACY POLICY. 
+
+Your use of the InstantDollarz sites, including any dispute concerning privacy, is subject to this Privacy Policy and InstantDollarz’s [Terms of Use](https://web.archive.org/web/20071225042320id_/http%3A//www.instantdollarz.com/terms.html). By using these InstantDollarz sites, You are accepting the practices set out in this privacy policy and the terms of use. We reserve the right to modify this Privacy Policy at any time by posting the changes on this page. Please check the revision date at the top of this page to determine if the policy has been modified since You last reviewed it. Your continued use of any portion of the InstantDollarz sites following posting of the updated Privacy Policy will constitute Your acceptance of the changes. 
