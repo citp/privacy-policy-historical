@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbg.ie privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624074840id_/http%3A//www.cbg.ie/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbg.ie privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226001647id_/http%3A//www.cbg.ie/privacy.html) for the most accurate reproduction.*
 
 # CBG.ie Privacy Policy
 
