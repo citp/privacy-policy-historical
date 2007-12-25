@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopwiki.com privacy policy that was archived on 2007-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070612203707id_/http%3A//www.shopwiki.com/wiki/Help%3APrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopwiki.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225112536id_/http%3A//www.shopwiki.com/wiki/Help%3APrivacy) for the most accurate reproduction.*
 
 # Help:Privacy - ShopWiki
 
@@ -46,7 +46,7 @@ ShopWiki works with reputable companies to provide services to our Web site and 
 
 #### Links to Other Web Sites
 
-ShopWiki does not control the privacy policies of any Web site linked to our Web site. If you click on a link, the privacy policy of the Web site that you link to will govern the collection and use of your information by that Web site's operators. ShopWiki assumes no responsibility or liability for the actions of such third parties with respect to their use of your information or otherwise. We recommend that you become familiar with the privacy policy of every Web site that you visit.
+ShopWiki does not control the privacy policies of any Web site linked from our Web site. If you click on a link, the privacy policy of the Web site that you link to will govern the collection and use of your information by that Web site's operators. ShopWiki assumes no responsibility or liability for the actions of such third parties with respect to their use of your information or otherwise. We recommend that you become familiar with the privacy policy of every Web site that you visit.
 
 #### Disclosure of Information in Public Areas
 
