@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the whofish.org privacy policy that was archived on 2007-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070315163647id_/http%3A//www.whofish.org/Default.aspx%3Ftabid%3D1%26action%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whofish.org privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226004658id_/http%3A//www.whofish.org/Default.aspx%3Ftabid%3D1%26action%3Dprivacy) for the most accurate reproduction.*
 
-# WhoFish.org - Home
+# WhoFish.org - Local Events and Activities
 
 WhoFish.org is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the WhoFish.org Web site and governs data collection and usage. By using the WhoFish.org website, you consent to the data practices described in this statement.
 
