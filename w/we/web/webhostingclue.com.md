@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webhostingclue.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630112059id_/http%3A//www.webhostingclue.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webhostingclue.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225100333id_/http%3A//www.webhostingclue.com/Privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Web Hosting Clue
 
