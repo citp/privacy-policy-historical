@@ -1,49 +1,82 @@
-<!--The following is the downloaded HTML source of the yelp.com privacy policy that was archived on 2007-02-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070202222355id_/http%3A//www.yelp.com/static%3Fp%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the yelp.com privacy policy that was archived on 2007-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071225093138id_/http%3A//www.yelp.com/static%3Fp%3Dprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
 
-	<title>Privacy Policy - Yelp</title>
+	<title>Privacy Policy | Yelp</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 		
 	<meta name="description" content="Yelp is a fun and easy way to find, recommend and talk about what's great - and not so great - in San Francisco and beyond. Members share their favorite recommendations - everything from the latest restaurants and shops, to the best hair salons and spas, to doctors and yoga instructors.">
 	<meta name="keywords" content="Yelp,recommendation,San Francisco, bay area, local,business,review,friend,restaurant,dentist,doctor,salon,spa,shopping,store,share,community,massage,sushi,pizza,nails,New York,Los Angeles"> 
 	<meta http-equiv="imagetoolbar" content="no">	
 	<link rel="shortcut icon" href="/favicon.ico" type="image/ico">
-	<link rel="search" type="application/opensearchdescription+xml" href="/html/moz-plug/yelp.xml" title="Yelp!">
-	<link rel="stylesheet" type="text/css" media="all" href="http://images.yelp.com/static/20070124/css/base_versioned.css">
+	<link rel="search" type="application/opensearchdescription+xml" href="/html/moz-plug/yelp.xml" title="Yelp">
+	<link rel="stylesheet" type="text/css" media="all" href="http://static.px.yelp.com/static/20071220a/css/base_versioned.css">
+	<link rel="stylesheet" type="text/css" media="print" href="http://static.px.yelp.com/static/20071220a/css/print.css">
 	
 			
 	
 	<script type="text/javascript">
-	var imagesHostUrl = "http://images.yelp.com/";
-	var imagesSerial = "static/20070119";
-	var imagesPrefix = imagesHostUrl + imagesSerial + '/i/new/'; 
+	var imagesHostUrl = "http://static.px.yelp.com/";
+	var Yelp = {
+		img_serial : "20071220",
+		js_serial : "20071217",
+		css_serial : "20071220a",
+		unique_request_id : "a2ecf8cea4636e0e"
+	};
+</script>
+
+	<script type="text/javascript" src="http://static.px.yelp.com/static/20071217/js/main_versioned.js"></script>
+	<script type="text/javascript">
+	Event.observe(window, 'load', function(){
+	var header_hoods = $('header_hoods');
+		if(header_hoods){
+		Element.addClassName(header_hoods,'pseudoLink');
+		Event.observe($('header_hoods'), 'click', function(){
+				Yelp.startHoods($('header_hoods'), 'header_hoods', {'x':-80,'y':20});
+			});
+		}
+	});
 	</script>
 
-	<script type="text/javascript" src="http://images.yelp.com/static/20070123/js/st_lib/prototype.js"></script>
-	<script type="text/javascript" src="http://images.yelp.com/static/20070123/js/main_versioned.js"></script>
 	
-  <!-- Revision: main 20187 --> 
+  <!-- Revision: main 27229 --> 
 </head>
 
 <body>
-<div id="mastHead">
-<h1><a href="/">Yelp</a></h1>
-					
-			<div id="header_find_form">
-			<form method="get" action="/search" name="header_find_form">					
-				<p>
-				<label for="find_desc">Search for <em>(e.g. taco, salon, Max's)</em></label> 
-				<input maxlength="64" name="find_desc" size="20" id="find_desc" value="">
-				</p>
-				<p><label for="dropperText_Mast">Near <em>(Address, City, State or Zip)</em></label> 
-				<input maxlength="64" name="find_loc" id="dropperText_Mast" size="14" style="width: 225px;" value="New York City, NY">				
-				</p>
-						
-				<p id="headerSearchBtn"><input type="image" src="http://images.yelp.com/static/20070119/i/new/btn/header_search.gif" name="action_search" value="Search"></p>
+<script type="text/javascript">
+Yelp.JSONCookie.clear('js_track');
+Event.observe(document.body, 'mousedown', function(event) { 
+	Yelp.JSTrack.handleClickOnLink(event);
+});
 
-			</form></div>
+Event.observe(document, 'keypress', function(event) { 
+	if (event.keyCode == Event.KEY_RETURN) { 
+		var searchButton = $('headerSearchBtn');
+		if (searchButton) {
+			Yelp.JSTrack.handleSearchKeyPress(searchButton);
+		}
+	}
+});
+
+</script>
+<div id="mastHead">
+<h1 id="logo"><a href="/">Yelp</a></h1>
+					
+		<div id="header_find_form">			
+		<form method="get" action="/search" name="header_find_form">					
+			<p id="search_for">
+			<label for="find_desc">Search for <em>(e.g. taco, salon, Max's)</em></label> 
+			<input maxlength="64" name="find_desc" tabindex="1" size="20" id="find_desc" value="">
+			</p>
+			<p id="search_near" class="clearfix">
+			<label>Near <em>(Address, <span id="header_hoods">Neighborhood</span>, City, State or Zip)</em></label> 
+			<button type="submit" id="headerSearchBtn" class="form_img_btn" onclick="document.header_find_form.rpp.value=Yelp.readRppFromSearchPrefsCookie();">Search</button>
+			<input type="hidden" name="ns" value="1">
+			<input type="hidden" name="rpp" value="10">
+			<input maxlength="64" name="find_loc" tabindex="2" id="dropperText_Mast" size="14" value="San Francisco, CA 94101">				
+			</p>
+		</form></div>
 
 <div id="rightEdge"></div>		
 </div>
@@ -52,164 +85,202 @@
 
 <div id="navContainer">
 <ul>
-	<li id="welcome"><a href="/home">Welcome</a></li>
-	<li id="aboutMe"><a href="/signup">About Me</a></li>
-	<li id="writeReview"><a href="/signup">Write a Review</a></li>
-	<li id="findReview"><a href="/find">Find Reviews</a></li>
-	<li id="invite"><a href="/signup">Invite Friends</a></li>
-	<li id="messaging"><a href="/signup">Messaging</a></li>
+	<li id="welcome"><a href="/">Welcome</a></li>
+	<li id="aboutMe"><a href="/signup?return_url=%2Fuser_details" rel="nofollow">About Me</a></li>
+	<li id="writeReview"><a href="/signup?return_url=%2Fwriteareview" rel="nofollow">Write a Review</a></li>
+	<li id="findReview"><a rel="nofollow" href="/find">Find Reviews</a></li>
+	<li id="invite"><a href="/signup?return_url=%2Finvite_friends" rel="nofollow">Invite Friends</a></li>
+	<li id="messaging"><a rel="nofollow" href="/signup?return_url=%2Fmail">Messaging</a></li>
 	<li id="talk"><a href="/talk">Talk</a></li>
 
-
+	<li id="events"><a href="/events/sf">Events</a></li>
 	<li class="header_login" id="rt"><a rel="nofollow" href="/login?return_url=%2Fstatic%3Fp%3Dprivacy">Log In</a></li>	
-	<li class="header_login"><a href="/signup">Account</a> | </li>
-	<li class="header_login"><a href="/member_search_results">Member Search</a> | </li>		
+	<li class="header_login"><a href="/signup?return_url=%2Fprofile" rel="nofollow">Account</a> | </li>
+	<li class="header_login"><a href="/member_search" rel="nofollow">Member Search</a> | </li>		
 </ul>
 </div>
 
-<p id="mobile_message">On a mobile device? <a href="http://mobile.yelp.com">Try our mobile site, optimized for faster browsing.</a></p>
+<p id="mobile_message">On a mobile device? <a href="http://mobile.yelp.com" rel="nofollow">Try our mobile site, optimized for faster browsing.</a></p>
 
 
 
 
-			<div class="boxSingle boxGrad" style="margin-left:auto;margin-right:auto;">
-				<div class="box">
-
+			<div id="mainContent">
+				
+				<div class="blank">
 					<h2>Yelp Privacy policy</h2>
-					<p><strong>The effective date of this Agreement is October 10, 2006.</strong></p>
-					<p>
-						Yelp is an online application that helps people find local services they can trust by soliciting and aggregating reviews. 
-						To accomplish this, our users write reviews about local services that are posted to the Yelp Site. These reviews can then be 
-						accessed and read by other Yelp users. For the purposes of this Privacy Policy, a "user" is defined as someone using the 
-						Yelp Site, and a "friend" is defined as someone you have explicitly invited to share reviews with you. To fulfill the purpose 
-						of our site, we need to display a limited amount of personal information, so that users are able to evaluate the trustworthiness 
-						of a particular review.</p>  
-						<p>By using Yelp, you permit the collection and use of your personal information as outlined below in our 
-						Privacy Policy. You should visit this page periodically to review any changes to the Privacy Policy.
-					</p>
+					<p><strong>This Privacy Policy has recently changed, and is effective as of December 13, 2007!</strong></p>
+					<p>This website allows people to share their knowledge and insight about local businesses, services, and events with the broader community.
+					To accomplish this, we gather information from and about users and share it with others, as described in more detail below.</p>
+
+					<p>For the purposes of this Privacy Policy, the term "this website" refers to the various web pages located at the yelp.com domain,
+					and excludes any web pages that might be linked to the yelp.com domain that are not owned and operated by Yelp! Inc.
+					The term "user" refers to a user of, or visitor to, this website. The terms "we", "us", and "Yelp" refer to Yelp! Inc.
+					The terms "you" and "your" refer to you, as a user. Your "friends" are those who you explicitly designate as friends
+					by inviting them, or responding to their invitations, to share profile and review information.</p>
+
+					<p>By using this website, you permit the collection and use of your personal information as outlined below in our
+					Privacy Policy. You should visit this page periodically to review any changes to the Privacy Policy. </p>
 					
 					<h3>I. Information We Collect</h3>
 					<p>
-
-						Yelp collects user submitted account information such as name and email address to identify you and send you notifications related 
-						to the use of the service. Yelp also collects user submitted location information such as city, state or zip. Yelp also collects user 
-						submitted photos, reviews, and ratings of local businesses and service providers.
-					</p>
-					<p>	 
-						Some information collected is not explicitly submitted by the user; we log your browser-type related information, IP address, requested URL, referring URL, 
-						and timestamp.
+					We collect information that you submit in the process of creating or editing your account and user profile on this
+					website (your "Profile Information"), including your name, email address, and location information such as city,
+					state and zip. We also collect information in the form of the content that you submit in the course of your use of
+					this website (your "Content"), such as photos, reviews, and ratings of local businesses and service providers.
+					Finally, we also collect other information relating to your activity on this website that you do not explicitly submit to us
+					(your "Nonpersonal Information"), such as your actions on this website, your browser, IP address, requested URL, referring URL, and timestamp.
 					</p>
 					
 					<h3>II. How We Use Your Information</h3>
 					<p>
-						Information such as your full name, profile photo and any personally identifiable information you have included in your reviews may be shown to friends or other users 
-						primarily in conjunction with reviews you have contributed. If a person is a friend they can also see your name or email address in their list of friends. In addition, 
-						we may sell your reviews to third parties, in which case your first name and last initial and any personally identifiable information you have included in your reviews 
-						may be shown to users of such third party web sites. 
+						We store information about you and your use of this website, including your Content, Profile Information,
+						and Nonpersonal Information. In addition, we display your Content to other users of this website in order to
+						share your knowledge and insights about local businesses, services, and events with the broader community.
+						Your Profile Information (excluding your email address and full last name) may also be displayed in connection
+						with your Content. Still, your friends may be able to see your full name and email address, and others may be
+						able to associate your full name with your account and profile through the member search feature on this website. 
 					</p>
 					<p>
-
-						Your full name and email address may also be used when you send an email notification to a friend (such as in an invitation, or when sharing a review). We may also use 
-						your email address to send you updates or news regarding our site, but you may choose not to receive email of this type by accessing the "Account" tab of the web site 
-						and updating your notification settings. Additionally, we use your email address to contact you on behalf of your friends (such as when someone sends you a personal message).
+						We may use and display your full name and email address when you send an email notification to a friend through
+						this website (such as in an invitation, or when sharing your Content). We also use your email address to send
+						you updates or news regarding this website, but you may choose not to receive email of this type by accessing
+						the "Account" tab on this website and updating your notification settings. Additionally, we use your email
+						address to contact you on behalf of your friends (such as when someone sends you a personal message).
 					</p>
 					<p>
-						Browser-type related information, IP address, requested URL, referring URL, and timestamp data  help us diagnose problems with our server, administer Yelp, and otherwise
-						 provide the highest possible level of service to you. In addition, we use this information to perform statistical analyses of user behavior and characteristics in order 
-						 to measure interest in and use of the various areas of the site and to inform advertisers of such information as well as the number of users that have been exposed to, or clicked on, their advertising banners.
+						We use Nonpersonal Information to help us diagnose problems with our server, administer this website,
+						and otherwise provide the highest possible level of service to you. In addition, we use Nonpersonal Information
+						to perform statistical analyses of user behavior and characteristics in order to measure interest in and use of
+						the various areas of the site and to inform advertisers of such information as well as the number of users that
+						have been exposed to, or clicked on, their advertising banners.
 					</p>
 					
 					<h3>III. Transfer of Information</h3>
 					<p>
-						We may sell your reviews to third parties.  Your first name and last initial, profile photo, any submitted photos of businesses, and any personally identifiable information you have included in your reviews 
-						may be transferred to such third parties and displayed on their websites in connection with such third parties’ publication of your reviews.
-					</p>
-										
-					<p>
-					Except as set forth in this Privacy Policy, we do not sell, rent, share, trade or give away any of your personal information.   Yelp will disclose information about 
-					individual users to governmental or judicial authorities or law enforcement agencies, or to other individuals or entities in response to subpoenas, court orders, or other 
-					legal processes.  Further, Yelp may share information in order to investigate, prevent, or take action regarding illegal activities or suspected fraud, or to enforce or apply 
-					the terms and conditions of this Privacy Policy.
-					</p>
-					<p>
-					We reserve the right to transfer your personal information in the event of a transfer of ownership of Yelp, such as an acquisition by or merger with another company. 
-					In such an event, Yelp will notify you before information about you is transferred and becomes subject to a different privacy policy. 
-					</p>
-					<p>
-					Yelp will notify you when information about you may be provided to third parties in ways other than explained above, and you will have the option to prevent such information 
-					sharing.
-					</p>
-
-					<h3>IV. Links</h3>
-					<p>
-						Our website may contain links to third party websites to which we have no affiliation.  Yelp does not share your personal information with those websites and is not 
-						responsible for their privacy practices.  We suggest you read the privacy polices on these third party websites.
+						As explained in our Terms of Service, we may sell and distribute your Content together with your
+						Profile Information (again, excluding your email address or full last name) to third parties who in turn may
+						display or publish such information in connection with their own websites, mobile platforms, and other media,
+						whether electronic in nature or otherwise.
 					</p>
 					
-					<h3>V. Use of Cookies</h3>
 					<p>
-						Like most websites, Yelp requires cookies to function properly. Cookies are small text files that reside on a user's computer and identify you as a unique user. We use 
-						cookies to refine our site and simplify the user experience. For example, the use of cookies allows registered users to enter our site without explicitly typing in their 
-						email address and password every time.   You should be aware that Yelp cannot control the use of cookies by advertisers or any information advertisers may gather from 
-						their use of cookies. If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to deny or accept 
-						the cookie feature; however, you should note that cookies may be necessary to provide you certain features (e.g., customized delivery of information) available on the Yelp 
-						site.
-					</p>
-
-					<h3>VI. Controlling Your Personal Information</h3>
-					<p>
-						You should be aware that when you voluntarily disclose personally identifiable information (e.g., user name, e-mail address) via reviews, messages, forums, postings, 
-						or in other areas of the Yelp site, that information, along with any substantive information disclosed in your communication, can be collected and correlated and used 
-						by third parties and may result in unsolicited messages from other posters or third parties. Such activities are beyond the control of Yelp.  Please do not post any 
-						personal information on the Yelp site or in other areas that you expect to keep private.
+						We may disclose information about you and your use of this website if required to do so by law or in a good faith
+						belief that such disclosure is reasonably necessary to avoid liability, to comply with legal process, such as a
+						search warrant, subpoena, statute, or court order, or to protect our rights and property, or that of our affiliates
+						or the public. We are not required to question or contest the validity of any search warrant, subpoena or other
+						similar governmental request that we receive.
 					</p>
 					<p>
-					As a registered Yelp user, you can modify your personal information at any time by accessing the "Account" section of the site. Also, upon your request, Yelp will use 
-					commercially reasonable efforts to functionally remove you and your personal information from the site; however, it may be impossible to remove your entry without some 
-					residual information being retained by Yelp.  Registered users who wish to close their account should contact <a href="mailto:admin@yelp.com">admin@yelp.com</a>.
+						Further, we may share information in order to investigate, prevent, or take action regarding illegal activities
+						or suspected fraud, or to enforce or apply the terms and conditions of this Privacy Policy.
+					</p>
+					<p>
+						We reserve the right to transfer information about you and your use of this website in the event of a transfer
+						of ownership of Yelp, such as an acquisition by or merger with another company. In such an event,
+						Yelp will notify you before information about you is transferred and becomes subject to a different privacy policy.
 					</p>
 					
-					<h3>VII. Security</h3>
+					<h3>IV. Others' Information</h3>
 					<p>
-						Your Yelp account is password-protected. Yelp tries very hard to protect our users' information. We use industry standard measures to protect your information that is 
-						stored within our database. We limit the access to your information to those employees who need access to perform their job function such as our customer service personnel. 
-						If you have any questions about the security at our website, please <a href="mailto:admin@yelp.com">contact us</a>. Although we take appropriate measures to safeguard 
-						against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that 
-						is inconsistent with this Privacy Policy.
+						You may choose to provide us with another person's email address so that person may be invited to create an
+						account on this website and become your friend. We use this information to contact and, if necessary,
+						remind that person about the invitation. All invitees are provided with the option not to receive further
+						invitations. We may disclose such information if required to do so in order to comply with legal process, as described above.
+					</p>
+
+					<h3>V. Links</h3>
+					<p>
+						This website may contain links to third party websites to which we have no affiliation. Except as set forth
+						herein, we do not share information about you and your use of this website with those third parties, and are
+						not responsible for their privacy practices. We suggest you read the privacy policies on all such third party websites.
+					</p>
+					
+					<h3>VI. Use of Cookies</h3>
+					<p>
+						This website requires cookies to function properly. Cookies are small text files that reside on a user's
+						computer and identify you as a unique user. We use cookies to refine our website and simplify the user experience.
+						For example, the use of cookies allows registered users to enter this website without explicitly typing in their
+						email address and password every time. You should be aware that we cannot control the use of cookies by
+						advertisers or any information advertisers may gather from their use of cookies. If you do not want information
+						collected through the use of cookies, there is a simple procedure in most browsers that allows you to deny or
+						accept the cookie feature; however, you should note that cookies may be necessary to provide you certain features
+						(e.g., customized delivery of information) available on this website.
+					</p>
+					
+					<h3>VII. Facebook Beacon</h3>
+					<p>
+						Facebook Beacon is implemented on this website, allowing you to share your actions on this website
+						(such as reviewing a restaurant) with others on Facebook. In so doing, we transmit a portion of your
+						Nonpersonal Information (but not your Profile Information) to Facebook, which in turn may able to associate
+						that information with, and publish that information to, your profile and friends on Facebook. We strongly
+						encourage you to review your privacy settings with Facebook if you do not want to share your actions on this
+						website with others on Facebook.
+					</p>	
+						
+					<h3>VIII. Controlling Your Personal Information</h3>
+					<p>
+						You should be aware that when you voluntarily disclose information about yourself in the Content that you submit
+						to this website (e.g., including your name or email address in a review that you post to this website), that
+						information can be collected, correlated, and used by third parties and may result in unsolicited messages from
+						others. Such activities are beyond our control. Please do not post any personal information on this website that
+						you expect to keep private.
 					</p>
 					<p>
-					<em>You hereby acknowledge that Yelp is not responsible for any intercepted information sent via the Internet, and you hereby release us from any and all claims arising 
-					out of or related to the use of intercepted information in any unauthorized manner.
+						As a registered Yelp user, you can modify your Profile Information at any time by accessing the "Account" section of this website.
+						Also, upon your request, Yelp will use commercially reasonable efforts to close your account, and cease displaying
+						your Profile Information and Content on this website; nevertheless, it may not be reasonably commercially possible
+						to remove all of your information from this website, and we may retain some of your information in our backup files.
+						Registered users who wish to close their account should contact <a href="mailto:admin@yelp.com">admin@yelp.com</a>.
+					</p>
+					
+					<h3>IX. Security</h3>
+					<p>
+						Your Yelp account is password-protected. We use industry standard measures to protect your information that is
+						stored within our database. We limit the access to your information to those employees who need access to perform
+						their job function, such as our customer service personnel. If you have any questions about the security at our
+						website, please <a href="mailto:admin@yelp.com">contact us</a>. Although we take appropriate measures to safeguard against unauthorized disclosures
+						of information, we cannot assure you that personally identifiable information that we collect will never be
+						disclosed in a manner that is inconsistent with this Privacy Policy.
+					</p>
+					<p>
+					<em>You hereby acknowledge that Yelp is not responsible for any intercepted information sent via the Internet,
+					and you hereby release us from any and all claims arising out of or related to the use of intercepted information in any unauthorized manner.
 					</em>
 					</p>
 
-					<h3>VIII. Emails and Opt-out</h3>
+					<h3>X. Emails and Opt-out</h3>
 					<p>
-						At this time, registered members cannot opt-out of personal messages initiated by friends and users, however they may opt-out of receiving notifications initiated by 
-						Yelp (note: notification settings can be found under the " Account" tab). Unregistered users that do not wish to receive emails may opt-out of receiving any communications 
-						by following the instructions contained in all emails.
+						You may opt-out of receiving personal messages from specific other users. In addition, you may opt-out of
+						receiving notifications from us by changing your notification settings under the "Account" tab after you log on
+						to this website. Unregistered users who receive emails from us may also opt-out of receiving further emails by
+						following the instructions contained in our emails.
 					</p>
 					
 					
-					
-					<h3>IX. Children</h3>
-					<p>This website is not directed to children, and Yelp does not knowingly solicit information from any child under the age of 13.  Should a child whom we know to be under 13 
-					send personal information to us, we will use that information only to respond directly to that child (or a parent or guardian) to inform him or her that we must have parental 
-					consent before receiving his or her personal information.</p>
-					
-					<h3>X. Terms and Modifications to this Privacy Statement</h3>
+					<h3>XI. Children</h3>
 					<p>
-					By using the website, you signify your agreement to the terms of our Privacy Policy.  If you do not agree with these terms, you should not use the site.  Yelp may modify this 
-					Privacy Policy at any time.  If a material change is made to this Privacy Policy and/or the way we use our users’ personally identifiable information, then we will post a 
-					prominent notice of the nature of such change on the first page of this Privacy Policy and also on our home page.  You are responsible for reviewing this Privacy Policy 
-					periodically to ensure that you are aware of any changes to it.   Your continued use of the site indicates your assent to any changes to this Privacy Policy.
+						This website is not directed to children, and Yelp does not knowingly solicit information from any child under
+						the age of 13. Should a child whom we know to be under 13 send personal information to us, we will use that
+						information only to respond directly to that child (or a parent or guardian) to inform him or her that we must
+						have parental consent before receiving his or her personal information.
+					</p>
+					
+					<h3>XII. Terms and Modifications to this Privacy Statement</h3>
+					<p>
+						By using this website, you signify your agreement to the terms of our Privacy Policy. If you do not agree with these
+						terms, you should not use the site. Yelp may modify this Privacy Policy at any time. If a material change is made
+						to this Privacy Policy and/or the way we use our users' personally identifiable information, then we will post a
+						prominent notice of the nature of such change on the first page of this Privacy Policy and also on our home page.
+						You are responsible for reviewing this Privacy Policy periodically to ensure that you are aware of any changes to
+						it. Your continued use of the site indicates your assent to any changes to this Privacy Policy.
 					</p>
 					
 					
-					<h3>XI. Contacting the Web Site </h3>
+					<h3>XIII. Contacting the Web Site </h3>
 					<p>
-						If you have any questions about this Privacy Policy, the privacy practices of this website, or if you want to exercise any of the rights that you are given under this 
-						Privacy Policy, you can contact: 
+						If you have any questions about this Privacy Policy, the privacy practices of this website, or if you want to
+						exercise any of the rights that you are given under this Privacy Policy, you can contact: 
 					</p>
 						<p>
 							</p><address>		
@@ -220,42 +291,129 @@
 							</address>
 						<p></p>
 					
+				
 				</div>
-
 			</div>
 
 <div id="footer">
 	
-<div>
-
-				<ul>
-					<li class="first"><strong>Get to Know Us</strong></li>
-					<li> | <a href="/about">About Yelp</a></li>
-					<li> | <a href="/advertise">Advertise</a></li>
-					<li> | <a href="/faq">F.A.Q.</a></li>
-					<li> | <a href="/static?p=tour">Take a Tour</a></li>
-					
-					<li> | <a href="/feedback">Feedback</a></li>
-					<li> | <a href="/rss">RSS</a></li>
+	<div>		
+				<ul id="aboutSite">
+					<li><a href="/business" rel="nofollow">Business Owner's Guide</a></li>
+					<li> | <a href="/signup" rel="nofollow">My Account</a></li>
+					<li> | <a href="/about" rel="nofollow">About Yelp</a></li>
+					<li> | <a href="/faq" rel="nofollow">FAQ</a></li>
 					<li> | <a href="/weekly">The Weekly Yelp</a></li>
 					<li> | <a href="http://blog.yelp.com/" rel="nofollow">Yelp Blog</a></li>
-					<li> | <a href="/yelpmobile">Yelp Mobile® Optimized for Palm® Treo™<img src="http://images.yelp.com/static/20070119/i/new/ico/palmSm.gif" alt="Palm"></a></li>
-			</ul>
+					<li> | <a href="/yelpmobile" rel="nofollow">Yelp Mobile</a></li>
+					<li> | <a href="/rss" rel="nofollow">RSS</a></li>
+					<li> | <a href="/developers" rel="nofollow">Developers</a></li>
+					<li> | <a href="/contact" rel="nofollow">Feedback</a></li>
+					<li> | <a href="/jobs" rel="nofollow">Jobs</a></li>
+				</ul>
+	</div>
+
+<p>&nbsp;</p>	
+<p>Use of this site is subject to express <a href="/static?p=tos" rel="nofollow"><strong>Terms of Service</strong></a>. By continuing past this page, you agree to abide by these terms.</p>
+<p>Copyright © 2004-2007 Yelp | <a href="/static?p=privacy" rel="nofollow">Privacy Policy</a><br><br></p>
+
+<div class="directory">
+	<ul>
+		<li class="first"><strong>Site Map</strong></li>
+		<li> | <a href="/atlanta">Atlanta</a></li>
+		<li> | <a href="/austin">Austin</a></li>
+		<li> | <a href="/boston">Boston</a></li>
+		<li> | <a href="/chicago">Chicago</a></li>
+		<li> | <a href="/dallas">Dallas</a></li>
+		<li> | <a href="/denver">Denver</a></li>
+		<li> | <a href="/honolulu">Honolulu</a></li>
+		<li> | <a href="/houston">Houston</a></li>
+		<li> | <a href="/lasvegas">Las Vegas</a></li>
+		<li> | <a href="/la">Los Angeles</a></li>
+		<li> | <a href="/miami">Miami</a></li>
+		<li> | <a href="/nyc">New York</a></li>
+		<li> | <a href="/philadelphia">Philadelphia</a></li>
+		<li> | <a href="/phoenix">Phoenix</a></li>
+		<li> | <a href="/portland">Portland</a></li>
+		<li> | <a href="/sacramento">Sacramento</a></li>
+		<li> | <a href="/sandiego">San Diego</a></li>
+		<li> | <a href="/sf">San Francisco</a></li>
+		<li> | <a href="/sanjose">San Jose</a></li>
+		<li> | <a href="/seattle">Seattle</a></li>
+		<li> | <a href="/dc">Washington, DC</a></li>
+		<li> | <a href="/locations">More Cities</a></li>
+	</ul>
+	</div>		
+		<div class="directory">
+				
+				<ul>
+					<li class="first"><strong>Review Directories</strong></li>
+					<li> | <a href="/reviews/12_Atlanta_GA.html">Atlanta</a></li>
+					<li> | <a href="/reviews/12_Austin_TX.html">Austin</a></li>
+					<li> | <a href="/reviews/12_Boston_MA.html">Boston</a></li>
+					<li> | <a href="/reviews/12_Chicago_IL.html">Chicago</a></li>
+					<li> | <a href="/reviews/12_Dallas_TX.html">Dallas</a></li>
+					<li> | <a href="/reviews/12_Denver_CO.html">Denver</a></li>
+					<li> | <a href="/reviews/12_Honolulu_HI.html">Honolulu</a></li>
+					<li> | <a href="/reviews/12_Houston_TX.html">Houston</a></li>
+					<li> | <a href="/reviews/12_Las_Vegas_NV.html">Las Vegas</a></li>
+					<li> | <a href="/reviews/12_Los_Angeles_CA.html">Los Angeles</a></li>
+					<li> | <a href="/reviews/12_Miami_FL.html">Miami</a></li>
+					<li> | <a href="/reviews/12_New_York_NY.html">New York</a></li>
+					<li> | <a href="/reviews/12_Philadelphia_PA.html">Philadelphia</a></li>
+					<li> | <a href="/reviews/12_Phoenix_AZ.html">Phoenix</a></li>
+					<li> | <a href="/reviews/12_Portland_OR.html">Portland</a></li>
+					<li> | <a href="/reviews/12_Sacramento_CA.html">Sacramento</a></li>
+					<li> | <a href="/reviews/12_San_Diego_CA.html">San Diego</a></li>
+					<li> | <a href="/reviews/12_San_Francisco_CA.html">San Francisco</a></li>
+					<li> | <a href="/reviews/12_San_Jose_CA.html">San Jose</a></li>
+					<li> | <a href="/reviews/12_Seattle_WA.html">Seattle</a></li>
+					<li> | <a href="/reviews/12_Washington_DC.html">Washington, DC</a></li>
+				</ul>
+	</div>		
+	<div class="directory">
+				<ul>
+					<li class="first"><strong>Talk Directories</strong></li>
+					<li> | <a href="/archived_topics/Austin_TX.html">Austin</a></li>
+					<li> | <a href="/archived_topics/Boston_MA.html">Boston</a></li>
+					<li> | <a href="/archived_topics/Chicago_IL.html">Chicago</a></li>
+					<li> | <a href="/archived_topics/Los_Angeles_CA.html">Los Angeles</a></li>
+					<li> | <a href="/archived_topics/New_York_NY.html">New York</a></li>
+					<li> | <a href="/archived_topics/San_Diego_CA.html">San Diego</a></li>
+					<li> | <a href="/archived_topics/San_Francisco_CA.html">San Francisco</a></li>
+					<li> | <a href="/archived_topics/San_Jose_CA.html">San Jose</a></li>
+					<li> | <a href="/archived_topics/Seattle_WA.html">Seattle</a></li>
+					<li> | <a href="/archived_topics/Washington_DC.html">Washington, DC</a></li>
+				</ul>
+	</div>		
+	<div class="directory">
+				<ul>
+					<li class="first"><strong>Search Directories</strong></li>
+					<li> | <a href="/topsearches/1/0/Austin_TX.html">Austin</a></li>
+					<li> | <a href="/topsearches/1/0/Boston_MA.html">Boston</a></li>
+					<li> | <a href="/topsearches/1/0/Chicago_IL.html">Chicago</a></li>
+					<li> | <a href="/topsearches/1/0/Los_Angeles_CA.html">Los Angeles</a></li>
+					<li> | <a href="/topsearches/1/0/New_York_NY.html">New York</a></li>
+					<li> | <a href="/topsearches/1/0/San_Diego_CA.html">San Diego</a></li>
+					<li> | <a href="/topsearches/1/0/San_Francisco_CA.html">San Francisco</a></li>
+					<li> | <a href="/topsearches/1/0/San_Jose_CA.html">San Jose</a></li>
+					<li> | <a href="/topsearches/1/0/Seattle_WA.html">Seattle</a></li>
+					<li> | <a href="/topsearches/1/0/Washington_DC.html">Washington, DC</a></li>
+				</ul>
+	</div>		
+	
 </div>
 
 
-				<p style="clear:both;">Copyright © 2004-2007 Yelp | <a href="/static?p=privacy">Privacy Policy</a> | <a href="/static?p=tos">Terms of Service</a></p>
 
-</div>
-
-
-
+<img src="/spice?r=a2ecf8cea4636e0e">
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
 </script>
 <script type="text/javascript">
 _uacct = "UA-30501-1";
 urchinTracker();
 </script>
+
 
 
 </body></html>
