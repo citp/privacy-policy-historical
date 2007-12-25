@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the server.lu privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630112054id_/http%3A//www.server.lu/about-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the server.lu privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225234434id_/http%3A//www.server.lu/about-privacy) for the most accurate reproduction.*
 
 # www.server.lu
 
