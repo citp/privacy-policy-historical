@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the riotinto.com privacy policy that was archived on 2007-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070512175802id_/http%3A//www.riotinto.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the riotinto.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225164806id_/http%3A//www.riotinto.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # Rio Tinto - Privacy policy
 
