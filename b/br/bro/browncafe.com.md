@@ -1,16 +1,8 @@
-> *The following text is extracted and transformed from the browncafe.com privacy policy that was archived on 2007-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070220145947id_/http%3A//www.browncafe.com/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the browncafe.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225205828id_/http%3A//www.browncafe.com/privacy_statement.html) for the most accurate reproduction.*
 
-# Brown Cafe - Brown Cafe Privacy Statement
+# UPS info for UPSers - Brown Cafe Privacy Statement
 
-|  **»[UPS Brown Cafe](http://www.browncafe.com/forum/search.php)**  
----  
-  
-Brown Cafe  
-[](http://www.google.com/search)   
-
-» [Advanced Search](http://www.browncafe.com/forum/search.php)  
-  
-**» Site Navigation**  
+|  **» Site Navigation**  
 ---  
   
 [**Brown Cafe**](http://www.browncafe.com/)
@@ -41,13 +33,13 @@ Brown Cafe
 
  
 
-[Calculator](http://www.browncafe.com/cgi-bin/finances.cgi)
+[Calculator](http://www.browncafe.com/cgi-bin/finances.cgioffensive%20sexual%20references...)
 
 [**UPSers**](http://www.browncafe.com/upsers.html)
 
  
 
-[Chatroom](http://www.browncafe.com/forum/misc.php?do=flashchat)
+[Chatroom](http://www.browncafe.com/forum/chatroom)
 
  
 
@@ -95,6 +87,10 @@ Brown Cafe
 
 [Disclaimer](http://www.browncafe.com/disclaimer.html)
 
+ 
+
+[Advertising Info](http://www.browncafe.com/index.php?page=ads)
+
 [**UPS**](http://www.ups.com/)
 
  
@@ -105,7 +101,7 @@ Brown Cafe
 
 [Investor Relations](http://www.shareholder.com/ups/index.cfm)  
   
-|  |  **»**  
+|  **» Brown Cafe Privacy Statement**  
 ---  
   
 ## Privacy Statement for Brown Cafe
@@ -169,28 +165,28 @@ If you have any questions about this privacy statement, the practices of this si
 
 [webmaster@browncafe.com](mailto:webmaster@browncafe.com)  
   
-|  |  **» Log in**  
+|  **» Log in**  
 ---  
   
 User Name:  
   
 Password:  
   
-Remember Me? 
+Remember Me?
 
 Not a member yet?  
 [Register Now!](http://www.browncafe.com/forum/register.php)  
   
 **» Stats**  
 ---  
-Members: 8,667  
-Threads: 61,090  
-Posts: 118,922  
-Top Poster: [BrownCafe](http://www.browncafe.com/forum/members/browncafe.html) (32,557)  
+Members: 13,099  
+Threads: 6,359  
+Posts: 114,417  
+Top Poster: [BrownCafe](http://www.browncafe.com/forum/members/browncafe.html) (32,645)  
   
-Welcome to our newest member, [gideon](http://www.browncafe.com/forum/members/gideon.html)  
+Welcome to our newest member, [rozi3](http://www.browncafe.com/forum/members/rozi3.html)  
   
-All times are GMT -8. The time now is 06:59 AM.
+All times are GMT -8. The time now is 12:57 PM.
 
   
 
