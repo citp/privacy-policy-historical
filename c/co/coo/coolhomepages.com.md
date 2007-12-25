@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolhomepages.com privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613060740id_/http%3A//www.coolhomepages.com/html/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolhomepages.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225223550id_/http%3A//www.coolhomepages.com/html/privacypolicy.html) for the most accurate reproduction.*
 
 # Cool Home Pages - Web Site Design Examples, Gallery and Templates
 
