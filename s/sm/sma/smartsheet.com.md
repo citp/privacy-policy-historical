@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the smartsheet.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626191157id_/http%3A//www.smartsheet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartsheet.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225051533id_/http%3A//www.smartsheet.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Smartsheet.com
 
 **Smartsheet.com Privacy Statement**
 
-Last Updated: May 3, 2006
+Last Updated: July 19, 2007
 
 Smartsheet.com has created this privacy statement (“Statement”) in order to demonstrate our commitment to customer privacy. Privacy on the Smartsheet.com Web site (the “Site”) is of great importance to us. Because we gather important information from our visitors and customers, we have established this Statement as a means to communicate our information gathering and dissemination practices. We reserve the right to change this Statement at any time. If Smartsheet.com does so, the revised privacy statement will be posted on this Site and you will have the opportunity to modify your opt out elections see Opt-Out Policy below.
 
@@ -57,4 +57,4 @@ If customers need to update or change registration information they may do so by
 This privacy statement is incorporated into and subject to the terms and conditions of the Smartsheet.com Master Services Agreement. Use of the Service is subject to your compliance with those terms and conditions, which constitute a legal agreement between you and Smartsheet.com. Each time you use the Service you signify that you have read, understood and agree to be bound by the Master Subscription Agreement, which incorporates this privacy statement. USE OF THIS SITE SIGNIFIES THE ACCEPTANCE OF THE MASTER SUBSCRIPTION AGREEMENT AND THIS PRIVACY STATEMENT. If you do not agree with the terms of either of such documents, please do not provide Smartsheet.com with any information and do not use this Site. Your continued use of the Service or this Site in light of modifications to the privacy statement will signify your acceptance of the modifications.
 
 **Additional Information:**  
-Questions regarding this Statement or the practices of this Site should be directed to Smartsheet.com's Security Administrator by e-mailing such questions to [security@smartsheet.com](mailto:security@smartsheet.com) or by regular mail addressed to Smartsheet.com, inc., Attn: Security Administrator, 6413 Lake Washington Blvd NE, Kirkland, WA 98033.
+Questions regarding this Statement or the practices of this Site should be directed to Smartsheet.com's Security Administrator by e-mailing such questions to [security@smartsheet.com](mailto:security@smartsheet.com) or by regular mail addressed to Smartsheet.com, inc., Attn: Security Administrator, 2420 130th Ave., SE. Bellevue, WA 98005.
