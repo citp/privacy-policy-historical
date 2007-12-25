@@ -1,36 +1,7 @@
-> *The following text is extracted and transformed from the qweas.com privacy policy that was archived on 2007-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070616075827id_/http%3A//www.qweas.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qweas.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225134125id_/http%3A//www.qweas.com/privacy.htm) for the most accurate reproduction.*
 
 # Qweas.com Privacy Policy
 
-|  [Audio & MP3](http://www.qweas.com/download/audio_mp3/)  
-  
----  
-[Video & DVD](http://www.qweas.com/download/video_dvd/)  
-  
-[Graphics Tools](http://www.qweas.com/download/graphics/)  
-  
-[Security & Anti-Virus](http://www.qweas.com/download/antivirus/)  
-  
-[Internet Utilities](http://www.qweas.com/download/internet/)  
-  
-[System Tools](http://www.qweas.com/download/system/)  
-  
-[File Converters](http://www.qweas.com/download/converters/)  
-  
-[Makers & Designers](http://www.qweas.com/download/makers_designers/)  
-  
-[Business Finance](http://www.qweas.com/download/business/)  
-  
-[Home & Education](http://www.qweas.com/download/home_education/)  
-  
-[Web Authoring](http://www.qweas.com/download/web/)  
-  
-[Game Downloads](http://www.qweas.com/download/game/)  
-  
-[Screensavers](http://screensaver.qweas.com/)  
-  
-[Pocket Devices](http://pocket.qweas.com/)  
-  
   
 
 
