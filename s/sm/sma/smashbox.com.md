@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smashbox.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623154939id_/http%3A//www.smashbox.com/index.cfm/fuseaction/content.page/nodeID/cc8df3e9-fcdc-4796-84eb-ad9278b2e32c) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smashbox.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225091002id_/http%3A//www.smashbox.com/index.cfm/fuseaction/content.page/nodeID/cc8df3e9-fcdc-4796-84eb-ad9278b2e32c) for the most accurate reproduction.*
 
 # Smashbox.com > Catalog > Customer Service > Privacy Policy
 
