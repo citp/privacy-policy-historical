@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the sportsbook.com privacy policy that was archived on 2007-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070604011105id_/http%3A//www.sportsbook.com/info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsbook.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225055226id_/http%3A//sportsbook.com/info/privacy.php) for the most accurate reproduction.*
 
 # Privacy Statement
 
 |   
 ---|---  
   
-Sportsbook.com, The Largest Sportsbook and Casino on the Planet, has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: www.sportsbook.com.
+Sportsbook.com,where everybody bets, has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: www.sportsbook.com.
 
 We use your IP address to help diagnose problems with our server, and to administer our Web site. When placing a wager, or logging onto our secure server, your IP address is tracked against your user id for the dual purposes of preventing fraud, and creating an audit trail. This information is not used or accessed for any other purpose. 
 
