@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the majorleaguelacrosse.com privacy policy that was archived on 2007-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070504012255id_/http%3A//majorleaguelacrosse.com/statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the majorleaguelacrosse.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225150916id_/http%3A//majorleaguelacrosse.com/statement) for the most accurate reproduction.*
 
 # majorleaguelacrosse.com: Privacy Statement
 
