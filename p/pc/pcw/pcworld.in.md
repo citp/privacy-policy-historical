@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcworld.in privacy policy that was archived on 2007-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070501044613id_/http%3A//www.pcworld.in/privacyPol) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcworld.in privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225162659id_/http%3A//www.pcworld.in/privacyPol) for the most accurate reproduction.*
 
 # PC World India: Privacy Policy
 
