@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the zibb.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627073126id_/http%3A//www.zibb.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zibb.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225060038id_/http%3A//www.zibb.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy for Zibb.com
 
-### (Last updated February 2006)
+## (Last updated February 2006)
 
 [**www.zibb.com**](http://www.zibb.com/) appreciates your visiting this web site. Our site visitors' privacy and trust are important to us. We provide this notice in order to make sure that your expectations and our practices are aligned, and that you are aware of your choices with regard to our use and disclosure of the information you provide to this site. This Privacy Policy describes the policies of Reed Business Information ( ** _"RBI"_** or **_"we"_** ), a division of Reed Elsevier Inc. ( ** _"Reed Elsevier"_** ), regarding the collection, use, disclosure and protection of the following types of information:
 
@@ -13,7 +13,7 @@
 
 This privacy policy does not apply to information we collect by other means (including offline) or from other sources. Your use of this Site constitutes your acceptance of this Privacy Policy and your consent to any action we take with respect to your information in compliance with this Privacy Policy. We may change the terms of this Privacy Policy, so Users are encouraged to review this page from time to time. Your continued use of this Site following the posting of changes to the Privacy Policy means that you accept the changes. 
 
-### Information We Collect and How We Collect It
+## Information We Collect and How We Collect It
 
 Where applicable, we require you to provide certain information about yourself when you register with this Site and when you request products and services. We also collect information when you participate in contests and surveys, when you respond to requests for feedback and when you submit postings to public areas of this Site (e.g., bulletin boards). 
 
@@ -21,7 +21,7 @@ The information we collect may include information from which you may be persona
 
 When you visit this Site, we may collect the IP address of your computer. We also use **automatic data collection** technology to record other information that identifies your computer and tracks your behavior on the Site. We do not collect Personally Identifiable Information in this way, but if you provide us with Personally Identifiable Information, we may associate that information with the information that is collected automatically.
 
-### How We Use Your Information
+## How We Use Your Information
 
 We use Personally Identifiable Information collected on this Site for the following purposes:
 
@@ -39,7 +39,7 @@ We may use the information you provide us to send you e-mail, fax and other comm
 
 We also may use your information to send you e-mail and other communications on behalf of third parties. Each of these communications will include instructions for opting out of receiving future third party offers from us. You may also opt out of receiving third party offers from this Site at any time by sending an e-mail to [privacymanager@reedbusiness.com](mailto:privacymanager@reedbusiness.com) with the subject line **__"opt out - third party."**
 
-### Our Disclosure of Your Information 
+## Our Disclosure of Your Information 
 
 We may disclose aggregated, anonymous statistics about many Users, and individual information that is not Personally Identifiable Information without restriction as long as no individual is identifiable by the information disclosed. 
 
@@ -56,30 +56,26 @@ We may disclose your Personally Identifiable Information as follows:
 
 
 
-### Security
+## Security
 
 We use reasonable safeguards to protect Personally Identifiable Information we collect on this Site from unauthorized access, use, modification or disclosure. However, due to the design of the Internet and other factors outside of our control, we cannot guarantee that communications between you and our servers will be free from unauthorized access by third parties.
 
-### Right to Access and Change Information
+## Right to Access and Change Information
 
 You may view and update information that you previously submitted to this Site by visiting the website registration page for this Site.
 
-### Links
+## Links
 
 This Site contains content, services, advertising and other materials that link to Web sites operated by third parties. We have no control over those other sites, and this Privacy Policy does not apply to them. We encourage you to refer to the privacy policies, if any, of those sites.
 
-### This site is operated by:
+## This site is operated by:
 
 _Reed Business Information  
 360 Park Avenue South  
 New York, NY 10010  
 E-Mail: [privacymanager@reedbusiness.com](mailto:privacymanager@reedbusiness.com)_
 
- _
-
-### Automatic Data Collection
+## Automatic Data Collection
 
 Methods used to collect this information may include "cookies" and "clear GIFs" (also known as "pixel tags" or "beacons"). A cookie is a small amount of data that is sent to your browser from a server and stored on your computer's hard drive. Most browsers allow Users to block the receipt of cookies, but doing so may compromise your ability to use certain features of this Site. A clear GIF is a small graphic image, typically used in connection with cookies, that is placed on a web site or in an email message. A clear GIF can monitor certain user behavior, such as your usage of the web site, whether you opened an email message or whether you clicked on a URL in an email message.   
 Some of the materials included on this Site, including advertising, may be served by third parties. These third parties, in the course of serving such materials, may collect information regarding your use of this Site and how you respond to e-mail communications, using methods that may include those described in the preceding paragraph. Collection, use, disclosure and security of information collected by third parties are subject to the privacy policies of those third parties. You may view the privacy policy of DoubleClick, a third party that serves ads to this Site, at [www.privacychoices.org](http://www.privacychoices.org/).
-
-_
