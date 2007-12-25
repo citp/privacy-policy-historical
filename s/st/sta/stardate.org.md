@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stardate.org privacy policy that was archived on 2007-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070513142006id_/http%3A//stardate.org/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stardate.org privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225131852id_/http%3A//stardate.org/about/privacy.html) for the most accurate reproduction.*
 
 # StarDate Online | Privacy Policy
 
