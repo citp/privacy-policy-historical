@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestads.com privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608140619id_/http%3A//www.bestads.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestads.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225160954id_/http%3A//www.bestads.com/privacy.html) for the most accurate reproduction.*
 
 # BestAds.com Classifieds - Privacy Statement
 
