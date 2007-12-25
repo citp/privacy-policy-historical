@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phoneslimited.co.uk privacy policy that was archived on 2007-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070531221305id_/http%3A//www.phoneslimited.co.uk/info/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phoneslimited.co.uk privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225051740id_/http%3A//www.phoneslimited.co.uk/info/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy and Data Policy
 
@@ -49,5 +49,3 @@
   * If you would like help when Ordering or further information about the Service if you would just like to provide us with feedback on our service, please email us.
 
 
-
-[](https://web.archive.org/network/BT+Mobile.html)[](https://web.archive.org/network/O2.html)[](https://web.archive.org/network/Orange.html)[](https://web.archive.org/network/T-Mobile.html)[](https://web.archive.org/network/Three.html)[](https://web.archive.org/network/Virgin.html)[](https://web.archive.org/network/Vodafone.html)[](https://web.archive.org/network/Pay+As+You+Go.html)[](https://web.archive.org/network/SIM+Free.html)
