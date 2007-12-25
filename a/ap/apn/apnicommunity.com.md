@@ -1,30 +1,59 @@
-> *The following text is extracted and transformed from the apnicommunity.com privacy policy that was archived on 2007-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070211051902id_/http%3A//home.bakwaas.tv/apdates/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apnicommunity.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225180103id_/http%3A//www.apnicommunity.com/privacy_policy.php) for the most accurate reproduction.*
 
-# bakwaas.TV - home - Privacy
+# Indian Television and Bollywood Forum - Watch Online & Discuss - Privacy Policy
 
-** About Bakwaas.Tv & Members**  
-Bakwaas.Tv is dedicated to Indian/Pakistani Films & Television discussions. It (Bakwaas.Tv) is an online desi (Indian & Pakistani) message board that allows members of the website (Bakwaas.Tv) to register a free account needed for participation, posting, messaging and making online friends. Bakwaas.Tv members can post/share freely in all message boards, they can view each others' profiles, and meet new friends. Members are also able to share photos, pictures, videos, post journals, comment, and discuss films and television shows. As an online community message board, members have full control over what personal information can be displayed in their profiles.
+|  **Be part of the most happening Indian/Pakistani forum!** |  [BBuzz!](http://bbuzz.apnicommunity.com/) |  [Gallery](http://gallery.apnicommunity.com/index.php) |   [Music](https://web.archive.org/web/20071225180103id_/http%3A//www.apnicommunity.com/music-forum/) |    [Desi Videos](http://www.muft.tv/) |    [Movies](http://www.apnicommunity.com/bollywood-forum/)|    [Friends](http://www.dostipoint.com/)  
+---|---|---|---|---|---|---|---  
+  
+  
 
-**Cookies, Information Collection and Use by BakwaasTv**  
-We use cookies which are "small strings of text" that are stored in browsers; cookies are not programs that can damage your computer. If you wish to stop the cookie functionality on your browser, you may do so but as registered member we need you to enable cookies to save your login information so you don't have to re-enter it each time you visit our site. Information collected using cookies is never shared with anyone or disclosed to third parties. Also, user IP addresses are recorded for security and monitoring purposes.
 
-**Chat Rooms, Journals and Public Forums**   
-This site makes chat rooms, opinion polls, and/or news available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
+[](http://www.apnicommunity.com/) **Indian Television and Bollywood Forum - Watch Online & Discuss**
 
-** Third Party Advertising **  
-Ads appearing on this Web site may be delivered to users by Bakwaas.Tv or one of our Web advertising partners. Our Web advertising partners may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement. In this way, ad servers may compile information about where you, or others who are using your computer, saw their advertisements and determine which ads are clicked on. This information allows an ad network to deliver targeted advertisements that they believe will be of most interest to you. This privacy statement covers the use of cookies by Bakwaas.Tv and does not cover the use of cookies by any advertisers.
+|   
+---|---  
+  
 
-**Security**   
-Bakwaas.Tv member accounts are secured by member-created passwords Bakwaas.Tv takes precautions to insure that member account information is kept private. We use reasonable measures to protect member information that is stored within our database, and we restrict access to member information to those employees who need access to perform their job functions, such as our customer service personnel and technical staff. Please note that we cannot guarantee the security of member account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of member information at any time
 
-**Correcting/Updating or Removing Information**   
-Bakwaas.Tv users may modify or remove any of their personal information at any time by logging into their account and accessing features such as Edit Profile and Site preferences.
+[Contact Us](http://www.apnicommunity.com/sendmessage.php)
 
-**Sharing and Disclosure of Information** **Bakwaas.Tv** **Collects**  
-Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with an appropriate law enforcement investigation, current judicial proceeding, a court order or legal process served on our Ad servers or Web site.
+[Advertise](http://www.apnicommunity.com/sendmessage.php)
 
-**Notification of Changes**  
-If we decide to change our privacy policy, we will post these changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. Regardless of later updates, we will never use the information you submit under this current policy in a new way without first providing you an opportunity to opt-out or otherwise prevent that use.
+[Privacy Policy](http://www.apnicommunity.com/privacy_policy.php)
 
-**Contacting the Web Site**  
-If you have any questions about this privacy statement, any suggestions or any other thing about this site (bakwaas.Tv) you can contact us [HERE](http://www.bakwaas.tv/sendmessage.php)
+[Disclaimer](http://www.apnicommunity.com/disclaimer.php)
+
+|  apniCommunity care about how your personal information is used and shared, and we take your privacy seriously. Please read the following terms to learn more about our privacy policy. By registering to apniCommunity.com you are accepting the practices outlined in this Privacy Policy. 
+
+  * We will never sell your personal information, or use it for any other purpose other than logging in/out, demographics for our knowledge, and any voluntary feature of the site.
+  * We use cookies with minimal information in them. 
+  * We use Google Analytics, which is covered by [Google’s Privacy policy](http://www.google.com/intl/en/privacy.html)
+  * We allow you to contact other members via profile pages, but no private information is sent unless you want them to see.
+  * If you are below 13 then you can NOT use this forum. Do NOT register if you are below the age of 13.
+
+
+
+**In details**
+
+  1. **What does apniCommunity Privacy Policy Covers?**  
+All the personal information we collect is noted on your profile page. That includes your name, email, date of birth and biographic information. The personal information that you provide is used for Registration purpose. In order for you to participate in apniCommunity discussion you must complete a registration form. As part of registration form, we require your email address.
+  2. **Profile Information**  
+apniCommunity allow other users to browse your full name, instant messaging URL, and other details within your member profile should you provide this optional information. apniCommunity allows for the RSS syndication of all of its public content within the website.
+  3. **What about Cookies?  
+**Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your Web browser to enable our systems to recognize your browser in order to check in if you are logged in or out. All the other information is located in apniCommunity server. Some of our business partners may use cookies on our website (for example advertisers). However, we have no access to or control over these cookies.
+  4. **Membership Validity?**  
+We reserve the right to delete any message, ban any member for any or no reason whatsoever. Members found to be abusing the contact form, using it for commercial purposes, or otherwise breaking the Community Guidelines will have his/her membership suspended. Please read [Disclaimer](http://www.apnicommunity.com/disclaimer.php) for more information. 
+  5. **Children below 13 DO NOT Register**   
+The Federal Trade Commission’s Children Online Privacy Protection Act of 1998 (COPPA) require that Web Sites are to obtain parental consent before collecting, using, or disclosing personal information from children under 13\. If you are below 13 then you cannot use this forum. Do NOT register if you are below the age of 13. 
+
+|    
+  
+---|---|---  
+  
+  
+
+
+All times are GMT -5. The time now is 01:01 PM. 
+
+  
+
