@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autoshopper.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625031624id_/http%3A//www.autoshopper.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autoshopper.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225232223id_/http%3A//www.autoshopper.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Used Cars, New Cars, Buy a Car, Sell Your Car - AutoShopper.com | Privacy Policy
 
@@ -44,7 +44,7 @@ We limit internal access to our servers databases and require that Showcase Publ
 Return to top
 
 **Changes in Our Policy**  
-If we decide to change our privacy policy, we will post the changes here so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. By continuing to use this website, you agree to the privacy policy stated above, along with our [Terms of Service Policy](https://web.archive.org/web/20070625031624id_/http%3A//www.autoshopper.com/termsofservice.htm).  
+If we decide to change our privacy policy, we will post the changes here so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. By continuing to use this website, you agree to the privacy policy stated above, along with our [Terms of Service Policy](https://web.archive.org/web/20071225232223id_/http%3A//www.autoshopper.com/termsofservice.htm).  
   
 Return to top
 
