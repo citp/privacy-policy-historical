@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the rcseng.ac.uk privacy policy that was archived on 2007-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070610040719id_/http%3A//www.rcseng.ac.uk/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rcseng.ac.uk privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225222606id_/http%3A//www.rcseng.ac.uk/legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy statement — The Royal College of Surgeons of England
 
-The website of The Royal College of Surgeons of England does not store or capture personal information, but merely logs the user’s IP address which is automatically recognised by the Web server.
+Privacy statement for users of this website. The website of The Royal College of Surgeons of England does not store or capture personal information, but merely logs the users IP address which is automatically recognised by the Web server.
+
+The website of The Royal College of Surgeons of England does not store or capture personal information, but merely logs the users IP address which is automatically recognised by the Web server.
 
 We do not use cookies for collecting user information from the site and we will not collect any information about you except that required for system administration of the Web server.
 
