@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfreesafelist.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629225840id_/http%3A//myfreesafelist.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfreesafelist.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225132718id_/http%3A//myfreesafelist.com/privacy.htm) for the most accurate reproduction.*
 
 # MyFreeSafeList Terms and Conditions
 
@@ -17,13 +17,13 @@ How does the Site use Personally Identifiable Information? We use Personally Ide
 
 How is Personally Identifiable Information stored? Personally Identifiable Information collected by http://MyFreeSafeList.com is securely stored and is not accessible to third parties. 
 
-What choices are available to Visitors regarding collection, use and distribution of the information? Visitors and Authorized Customers may opt out of receiving unsolicited information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed, or by contacting us at admin@MyFreeSafeList.com 
+What choices are available to Visitors regarding collection, use and distribution of the information? Visitors and Authorized Customers may opt out of receiving unsolicited information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed, or by contacting us at webmaster @ MyFreeSafeList.com [without the spaces].
 
 Are Cookies Used on the Site? Cookies are used for a variety of reasons. We use Cookies to obtain information about the preferences of our Visitors and the services they select. We also use Cookies for security purposes to protect our Authorized Customers. 
 
 How does http://MyFreeSafeList.com use login information? http://MyFreeSafeList.com uses login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer the Site, track a user's movement and use, and gather broad demographic information. 
 
-How can Visitors correct any inaccuracies in Personally Identifiable Information? Visitors and Authorized Customers may contact us to update Personally Identifiable Information about them or to correct any inaccuracies by emailing us at admin@MyFreeSafeList.com 
+How can Visitors correct any inaccuracies in Personally Identifiable Information? Visitors and Authorized Customers may contact us to update Personally Identifiable Information about them or to correct any inaccuracies by emailing us at webmaster @ MyFreeSafeList.com [without the spaces].
 
 Can a Visitor delete or deactivate Personally Identifiable Information collected by the Site? We provide Visitors and Authorized Customers with a mechanism to delete/deactivate Personally Identifiable Information from the Site's database by contacting admin@MyFreeSafeList.com. However, because of backups and records of deletions, it may be impossible to delete a Visitor's entry without retaining some residual information. An individual who requests to have Personally Identifiable Information deactivated will have this information functionally deleted, and we will not sell, transfer, or use Personally Identifiable Information relating to that individual in any way moving forward. 
 
