@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the savvysource.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627100319id_/http%3A//www.savvysource.com/savvy/jsp/privacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savvysource.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225203412id_/http%3A//www.savvysource.com/savvy/jsp/privacyPolicy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy
 
 The Savvy Source for Parents ("The Savvy Source") is strongly committed to protecting the privacy of those who access or use its Website. 
 
-The Privacy Policy explains what kinds of information we may gather about you when you visit our Website, and how we may use that information. Please note that this Privacy Policy applies only to The Savvy Source’s Website, and not to the websites of any other companies or organizations which may be linked to this Website. 
+The Privacy Policy explains what kinds of information we may gather about you when you visit our Website, and how we may use that information. Please note that this Privacy Policy applies only to The Savvy Source�s Website, and not to the websites of any other companies or organizations which may be linked to this Website. 
 
 **Aggregate Information**  
 This Website automatically gathers certain usage information like the numbers and frequency of visitors to it, very much like television ratings that tell the networks how many people tuned in to a program. We only use such data in the aggregate. This aggregate data helps us determine how much our customers use parts of the Website, so we can improve it. The Savvy Source uses "cookies" - small pieces of text stored on your computer - to recognize you and your access privileges. For example, we use cookies to allow you to log on to the Website automatically without entering your ID and password each visit. Cookies also identify you and your preferences on our Website. You may refuse to accept our cookies, but we will not be able to recognize you as a registered user, which will limit your access to the Website. We may use this aggregate information to improve our service and to enhance the advertising featured on the Website, but we will not use these technologies to collect personally identifiable information unless you give us permission to do so. 
