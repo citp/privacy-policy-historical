@@ -1,0 +1,39 @@
+> *The following text is extracted and transformed from the techotopia.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225203159id_/http%3A//www.techotopia.com/index.php/Techotopia%3APrivacy_policy) for the most accurate reproduction.*
+
+# Techotopia:Privacy policy - Techotopia
+
+### From Techotopia
+
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
+
+## Contents
+
+[hide]
+
+  * 1 The Way We Use Information
+  * 2 Our Commitment To Data Security
+  * 3 Our Commitment To Children's Privacy
+  * 4 How To Contact Us
+
+
+
+## [[edit](https://web.archive.org/index.php?title=Techotopia:Privacy_policy&action=edit&section=1 "Edit section: The Way We Use Information")] The Way We Use Information 
+
+We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals. 
+
+Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses. 
+
+## [[edit](https://web.archive.org/index.php?title=Techotopia:Privacy_policy&action=edit&section=2 "Edit section: Our Commitment To Data Security")] Our Commitment To Data Security 
+
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
+
+## [[edit](https://web.archive.org/index.php?title=Techotopia:Privacy_policy&action=edit&section=3 "Edit section: Our Commitment To Children's Privacy")] Our Commitment To Children's Privacy 
+
+Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13. 
+
+## [[edit](https://web.archive.org/index.php?title=Techotopia:Privacy_policy&action=edit&section=4 "Edit section: How To Contact Us")] How To Contact Us 
+
+Should you have other questions or concerns about these privacy policies, please send us an email at admin@linuxtopia.org. 
+
+  
+
