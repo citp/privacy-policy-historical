@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pictureframes.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623135714id_/http%3A//www.pictureframes.com/html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pictureframes.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225183958id_/http%3A//www.pictureframes.com/html/privacy.html) for the most accurate reproduction.*
 
 # PictureFrames.com Privacy Policy
 
@@ -11,7 +11,7 @@ Protecting your privacy is as important to us as it is to you. We here at Graphi
   
 Pictureframes.com and Graphik Dimensions Ltd.  
   
-Pictureframes.com is wholly owned and operated by Graphik Dimensions Ltd. For over 40 years, Graphik Dimensions Ltd. has provided quality merchandise, wholesale prices, and award-winning customer service. At pictureframes.com, our goal is not only to further this tradition, but also provide a unique Internet experience that is fun, easy, informative, and secure.
+Pictureframes.com is wholly owned and operated by Graphik Dimensions Ltd. For over 40 years, Graphik Dimensions Ltd. has provided quality merchandise, wholesale prices, and award-winning customer care. At pictureframes.com, our goal is not only to further this tradition, but also provide a unique Internet experience that is fun, easy, informative, and secure.
 
 Top  
   
@@ -110,13 +110,32 @@ How to contact us with questions or comments, limit catalogs, remove your name f
 We're always happy to answer your questions, take your comments and suggestions, or assist you in any way possible.
 
 | **E-mail** :  
-[customerservice@pictureframes.com](mailto:customerservice@pictureframes.com) |   
+[customercare@pictureframes.com](mailto:customerservice@pictureframes.com) |   
 ---|---  
-**Customer Service Phone:**  
-(800)332-8884  
-(8:00-8:00 M-F; 9:00-6:00 Sat) | **Phone Orders** :  
-(800)221-0262  
-(8:00-8:00 M-F; 9:00-6:00 Sat.)  
+**Customer Care Phone:**  
+(800)332-8884
+
+Regular Hours (Jan. 15 - Sept. 15, Eastern times)  
+8am - 7pm Mon-Thurs  
+8am - 6pm Fri  
+10am - 4pm Sat
+
+Extended Holiday Hours (Sept. 16 - Jan. 14, Eastern times)  
+8am - 9pm Mon-Fri  
+9am - 6pm Sat
+
+| **Phone Orders** :  
+(800)221-0262
+
+Regular Hours (Jan. 15 - Sept. 15, Eastern times)  
+8am - 7pm Mon-Thurs  
+8am - 6pm Fri  
+10am - 4pm Sat
+
+Extended Holiday Hours (Sept. 16 - Jan. 14, Eastern times)  
+8am - 9pm Mon-Fri  
+9am - 6pm Sat  
+  
   
 **Address:  
 **2103 Brentwood Street  
