@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the cruisedeals.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607192940id_/http%3A//cruisedeals.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cruisedeals.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225200336id_/http%3A//www.cruisedeals.com/about/privacy_policy.asp) for the most accurate reproduction.*
 
 # Cruise Deals, Cruise Deal from CruiseDeals.com
-
-  
-  
-  
-|  | 
 
 **Online Privacy Policy**  
 CruiseDeals.com (Cruise Deals, Inc.) respects your privacy. CruiseDeals.com understands that making purchases online involves a great deal of trust on your part; we take this trust very seriously, and make it our highest priority to ensure the security and confidentiality of the personal information you provide us
