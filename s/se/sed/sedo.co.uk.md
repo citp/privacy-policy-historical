@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sedo.co.uk privacy policy that was archived on 2007-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070509231521id_/http%3A//www.sedo.co.uk/about/policy.php%3Fpage%3Dprivacy_policy_e%26tracked%3D%26partnerid%3D%26language%3De) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sedo.co.uk privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225143812id_/http%3A//www.sedo.co.uk/about/policy.php%3Fpage%3Dprivacy_policy_e%26tracked%3D%26partnerid%3D%26language%3De) for the most accurate reproduction.*
 
 # Sedo - Policy
 
