@@ -1,23 +1,26 @@
-> *The following text is extracted and transformed from the modbargains.com privacy policy that was archived on 2007-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070502185850id_/http%3A//www.modbargains.com/showpages.aspx%3Fpid%3D1146) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modbargains.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225203431id_/http%3A//www.modbargains.com/showpages.aspx%3Fpid%3D1146) for the most accurate reproduction.*
 
 # ModBargains.com Privacy Policy
 
- [](http://www.controlscan.com/cgi-bin/pcir/seal/verify2.php?subid=3989&id=96)
+ 
 
 By using ModBargains.com, you agree to the collection and use of your personal information as described in this policy. If we make any significant changes to this policy, we will notify you by posting a notice of such changes on the login page. 
 
-We care deeply about protecting your privacy. Please send us any [questions and/or c](http://www.modbargains.com/contact.aspx)[omments](http://www.modbargains.com/contact.aspx) you may have. 
+We care deeply about protecting your privacy. Please contact us with any [questions and/or comments](http://www.modbargains.com/contact.aspx) you may have. 
 
-### Summary
+| [](http://www.controlscan.com/cgi-bin/pcir/seal/verify2.php?subid=3989&id=96)
 
-  * We will never give your personal information to anyone. 
-  * We will never sell your information to any 3rd parties. 
-  * Your privacy and security are extremely important to ModBargains.com 
-  * You can delete your account at any time, and you are not forced to make an account when you order. 
+| 
 
+**Summary**
 
+ We will **never** give your personal information to anyone.   
+ We will **never** sell your information to any 3rd parties.   
+ Your privacy and security are **extremely important** to ModBargains.com   
+ You can **delete** your account at any time, and you are **not** forced to make an account when you order.   
+ 
 
-### How we treat your information
+**How We Treat Your Information**
 
 **We will never disclose your personal information without your permission.**
 
@@ -33,15 +36,12 @@ You can update your account information and preferences at any time. You can del
 
 **We will only access your personal information when:**
 
-  * You specifically request us to do so (Example: you are having technical difficulties). 
-  * It is required by law. 
-  * It is necessary to maintain our system. 
+You specifically request us to do so (Example: you are having technical difficulties). It is required by law.  It is necessary to maintain our system.   
+ 
 
+###  What Information Do We Collect?
 
-
-### What information do we collect?
-
-**Personal** : _Name, email addresses, phone numbers, password, billing address, shipping address_
+ **Personal** : _Name, email addresses, phone numbers, password, billing address, shipping address_
 
 All passwords are stored on our server in encrypted form - not even we can tell what they are! If you lose your password, we will generate a new one and send it to you. 
 
@@ -51,10 +51,11 @@ These help us gather demographic information on our users and to make sure that 
 
 **Transactions** : _Credit card information_
 
-This information is stored in our secure server system for a short period of time after your order and it is one of our top priorities to keep this information safe. 
+This information is stored in our secure server system for a short period of time after your order and it is one of our top priorities to keep this information safe.   
+ 
 
-### Cookies and log files
+###  Cookies and Log Files
 
 ModBargains.com may set and access ModBargains.com cookies on your computer. We do not do so now, but reserve the right to do so in the future.
 
-Version 1.0, October 24, 2006
+ _Version 1.0, October 24, 2006_
