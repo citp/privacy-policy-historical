@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the universalstudioshollywood.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623053102id_/http%3A//www.universalstudioshollywood.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the universalstudioshollywood.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225041413id_/http%3A//www.universalstudioshollywood.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Universal Studios Amusement Park California - Privacy Policy
 
