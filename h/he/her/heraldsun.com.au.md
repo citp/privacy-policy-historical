@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heraldsun.com.au privacy policy that was archived on 2007-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070610131921id_/http%3A//www.news.com.au/heraldsun/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heraldsun.com.au privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226013356id_/http%3A//www.news.com.au/heraldsun/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Herald Sun
 
@@ -69,7 +69,7 @@ Whenever you voluntarily disclose personal information over the Internet that th
 Please contact our Privacy Officer to ask for access to your information or if you have a complaint concerning your information privacy or if you would like more information about our approach to privacy. 
 
 Privacy Officer  
-(03) 9292 1297
+(03) 9292 1137
 
 privacy@hwt.newsltd.com.au  
 GPO Box 14999, Melbourne MC 8001
