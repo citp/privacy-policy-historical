@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dwp.gov.uk privacy policy that was archived on 2007-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070619050707id_/http%3A//www.dwp.gov.uk/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dwp.gov.uk privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226032044id_/http%3A//www.dwp.gov.uk/privacy.asp) for the most accurate reproduction.*
 
 # DWP - Privacy policy
 
@@ -25,7 +25,7 @@ The Department for Work and Pensions is the Data Controller for the purposes of 
 
 Our website does not enable our visitors to communicate with other visitors or for them to post information to be accessed by others.
 
-If you want to know more about what information we have about you, or the way we use your information see [DWP and your personal information](https://web.archive.org/web/20070619050707id_/http%3A//www.dwp.gov.uk/DWP-your-personal-information.pdf) (45.8KB). 
+If you want to know more about what information we have about you, or the way we use your information see [DWP and your personal information](https://web.archive.org/web/20071226032044id_/http%3A//www.dwp.gov.uk/DWP-your-personal-information.pdf) (45.8KB). 
 
   * [Get help with PDFs](https://web.archive.org/accessibility/#pdf)
 
