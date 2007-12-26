@@ -1,40 +1,9 @@
-> *The following text is extracted and transformed from the bgroom.com privacy policy that was archived on 2007-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070202134245id_/http%3A//www.bgroom.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bgroom.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226161401id_/http%3A//www.bgroom.com/privacy_policy.html) for the most accurate reproduction.*
 
-# BGroom - Privacy Policy
+# privacy_policy
 
-|  | [](https://web.archive.org/)  
----  
-|   
----  
+BGroom values and respects the privacy of each and every one of its members, which we safeguard through our Privacy Policy. Please take the time to read the contents of this policy and familiarize yourself with its contents.  
   
-BGroom is now open for business!
-
-Register now for a Real Money Account, no deposit required! and receive an amazing free $5 Welcome Bonus !!!
-
-Want even more FREE bonus money? It's so easy, [click here](https://web.archive.org/web/20070202134245id_/http%3A//www.bgroom.com/refer_friend.html) to invite your friends to join BGroom, and we will credit both you and your friends with free bonus money, plus chances to win even more cash in our monthly drawing!! 
-
-An Amazing FREE First Deposit Bonus !!!  
-The first time you deposit money into your Real Money account, all of us here at BGroom will give you an extra First Time Deposit Bonus, equivalent to 30% of the amount you deposit... for FREE!! 
-
-All new BGroom players will be credited with $5 upon registration!  
-Register for free and use your free cash to win even more money in our Real Money mode.   
-  
-|   
----  
-  
-24H SUPPORT:
-
-To make your time with us as easy and enjoyable as possible, BGroom provides an experienced Customer Support team, available 24/7.
-
-[Contact support@bgroom.com](https://web.archive.org/web/20070202134245id_/http%3A//www.bgroom.com/support.html)  
-  
-| [](https://web.archive.org/web/20070202134245id_/http%3A//www.bgroom.com/getting_started.php)[](https://web.archive.org/web/20070202134245id_/http%3A//www.bgroom.com/help.html)[](https://web.archive.org/web/20070202134245id_/http%3A//www.bgroom.com/faq.html)[](https://web.archive.org/web/20070202134245id_/http%3A//www.bgroom.com/faq.html)[](https://web.archive.org/web/20070202134245id_/http%3A//www.bgroom.com/support.html)[](https://web.archive.org/web/20070202134245id_/http%3A//www.bgroom.com/support.html)[](https://web.archive.org/web/20070202134245id_/http%3A//www.bgroom.com/promotions.html)[](https://web.archive.org/web/20070202134245id_/http%3A//www.bgroom.com/promotions.html)[](https://web.archive.org/web/20070202134245id_/http%3A//www.bgroom.com/refer_friend.html)[](https://web.archive.org/web/20070202134245id_/http%3A//www.bgroom.com/refer_friend.html)  
----  
-|   
----  
-  
-BGroom values and respects the privacy of each and every one of its members, which we safeguard through our Privacy Policy. Please take the time to read the contents of this policy and familiarize yourself with its contents.
-
   
   
 Security   
