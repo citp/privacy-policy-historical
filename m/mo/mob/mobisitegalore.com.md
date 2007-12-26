@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobisitegalore.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623042350id_/http%3A//www.mobisitegalore.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobisitegalore.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226164147id_/http%3A//www.mobisitegalore.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Wap Site Creator - Build Wap site with our .mobi Creator for free.
 
