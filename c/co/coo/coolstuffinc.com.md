@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolstuffinc.com privacy policy that was archived on 2007-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070610011513id_/http%3A//www.coolstuffinc.com/main_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolstuffinc.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226164048id_/http%3A//www.coolstuffinc.com/main_privacy.php) for the most accurate reproduction.*
 
 # Magic the Gathering Cards - World of Warcraft TCG - Board Games - Miniatures - Supplies at CoolStuffInc.com.
 
