@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mail2web.com privacy policy that was archived on 2007-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070615231901id_/http%3A//services.mail2web.com/About/Policy/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mail2web.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226155706id_/http%3A//services.mail2web.com/About/Policy/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -55,25 +55,22 @@ If You have any comments or suggestions to improve the service, please write us 
 If you have any questions about the privacy practices of mail2web.com, or you wish to access your Personal Information, please contact:
 
 |   
-Michael Carr  |   
+Legal and Compliance |   
 ---|---  
   
 SoftCom Technology Consulting Inc.
 
 | 
 
-E-mail: [michaelc@softcom.biz](mailto:michaelc@softcom.biz)  
+E-mail: [legal@softcom.biz](mailto:legal@softcom.biz)  
   
-Executive Vice-President
+310 - 10 Bay Street 
 
 | 
 
 Fax.     416.957.7401  
   
-310 - 10 Bay Street 
-
-|   
-  
 Toronto, ON M5J 2R8 
 
+|   
 | 
