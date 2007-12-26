@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bonnaroo.com privacy policy that was archived on 2007-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070526001722id_/http%3A//www.bonnaroo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bonnaroo.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226025907id_/http%3A//www.bonnaroo.com/privacy-policy) for the most accurate reproduction.*
 
 # Bonnaroo.com - Privacy Policy
 
