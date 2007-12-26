@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the battleon.com privacy policy that was archived on 2007-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070614163846id_/http%3A//www.battleon.com/aq-privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the battleon.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226160405id_/http%3A//www.battleon.com/aq-privacy.asp) for the most accurate reproduction.*
 
 # PRIVACY POLICY OVERVIEW
 
@@ -13,7 +13,7 @@ Battle on!
 Artix   
   
    
-**PRIVACY POLICY** (REVISED APRIL 23, 2007)  
+**PRIVACY POLICY** (REVISED JULY 9, 2007)  
   
 AdventureQuest (created and run by Artix Entertainment, LLC) provides family friendly entertainment to our users. We are committed to protecting the safety and security of its online visitors and are sensitive to our user's concerns about the safety of the personal information provided to us. We encourage all our users to read this Privacy Statement carefully in order to understand how any personal information collected about you is used. 
 
@@ -73,19 +73,20 @@ The Artix Entertainment Partner Program is Artix’s affiliate marketing program
 
   
    
-What We WILL DO With Your Personal Information   
-AdventureQuest discloses your information to the Internal Revenue Service and to those that help it provide services, including those who perform technical, administrative and data processing tasks such as affiliate tracking, hosting, billing, fulfillment, and data storage and security (“Affiliated Third Parties”). The Affiliated Third Parties to whom AdventureQuest discloses your personal information all have agreed to abide by this Privacy Policy, although some of these Affiliated Third Parties have separate privacy policies that govern their collection, use and storage of information that you provide to them directly.  
+IV. What We WILL DO With Your Personal Information   
+AdventureQuest does not disclose any personal information except to those that help it provide technical, administrative and data processing services(including hosting, billing, affiliate tracking, fulfillment, and data storage and security) “Affiliated Parties”.  The Affiliated Parties to whom AdventureQuest discloses your personal information all have agreed to abide by this Privacy Policy. Please note that some of these Affiliated Parties have separate privacy policies that govern their collection, use and storage of information that you provide to them directly. Example: Paypal has their own privacy policy for customers using their services.  
    
-What We WILL NOT DO With Your Personal Information   
-AdventureQuest is 100% supported by its Guardian Account Users. Therefore AdventureQuest does not sell or knowingly divulge your information to advertisers or any other non-Affiliated Third Parties, unless we are required to share your information with a third party in order to comply with law, to comply with a court order or subpoena; to enforce our site or game rules; to protect the safety and security of our users and our Web sites.   
+V. What We WILL NOT DO With Your Personal Information   
+AdventureQuest is supported by its Guardian Account Users. Therefore AdventureQuest does not sell or knowingly divulge your information to advertisers or any other non-Affiliated Parties, unless we are required to share your information with a third party in order to comply with law, to comply with a court order or subpoena; to enforce our site or game rules; to protect the safety and security of our users and our Web sites.    
    
-What Are Cookies?   
+VI. Other Provisions   
+**What Are Cookies?**  
 A cookie is a little piece of information handed to a web browser to a web server that contains information that can be retrieved from the server later. AdventureQuest uses cookies only to the limited extent of recognizing the registered user and pairing that user with the character that the user created and the account preferences set by that user within the game.   
    
-Message Boards  
+**Message Boards**  
 The AdventureQuest message board is a place for users of the game to interact by posting messages. The message board must be signed up for separately from the game and is subject to TERMS OF USE.   
    
-Security and Credit Card Use   
+**Security and Credit Card Use**  
 AdventureQuest does not process your payments directly. Instead we contract this service to other, secure companies.
 
 **PayPal**  
