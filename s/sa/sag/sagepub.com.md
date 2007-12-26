@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sagepub.com privacy policy that was archived on 2007-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070202233459id_/http%3A//www.sagepub.com/privacyPolicy.nav) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sagepub.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226164339id_/http%3A//www.sagepub.com/privacyPolicy.nav) for the most accurate reproduction.*
 
-# SAGE Publications - Privacy Policy
+# SAGE - the natural home for authors, editors and societies - Privacy Policy
 
 SAGE Publications, including [Corwin Press](http://www.corwinpress.com/) and [Pine Forge Press](http://www.pineforge.com/), is concerned about privacy and guards your data closely. We value our relationship with you and recognize the importance of protecting the privacy of your personal information.   The information we have about you is protected and secure, and we work diligently to ensure that your personal preferences regarding the use of your information are honoured. We hope that this Privacy Policy Statement explains how we use customer information.
 
