@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fenomen-games.com privacy policy that was archived on 2007-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070518192431id_/http%3A//www.fenomen-games.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fenomen-games.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226032955id_/http%3A//www.fenomen-games.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Web Application Development
 
