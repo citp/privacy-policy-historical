@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the govtech.com privacy policy that was archived on 2007-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070522152114id_/http%3A//www.govtech.com/gt/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the govtech.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226193625id_/http%3A//www.govtech.com/gt/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Government Technology
 
 Serving government, education, and industry for over 22 years, e.Republic publishes the dominant state and local government magazine, runs the three largest intergovernmental conferences in the nation, produces over 150 public and custom events annually, and has the top research and advisory group in the state & local government and education markets. Information about e.Republic and its products and services can be obtained at [www.erepublic.com](http://www.erepublic.com/).
 
-e.Republic is comprised of four divisions:
+e.Republic is comprised of five divisions:
 
   * [Government Technology](http://www.govtech.com/)
   * [Government Technology Conferences](http://www.govtech.com/gtc)
@@ -58,6 +58,8 @@ We use the information we gather for four general purposes:
 
 
 ### Does e.Republic Share This Information?
+
+_For personally identifiable information:_
 
 We will make your personally identifiable information available to other companies or people when:
 
