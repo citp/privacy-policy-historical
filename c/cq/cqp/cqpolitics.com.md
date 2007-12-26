@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cqpolitics.com privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608185703id_/http%3A//www.cq.com/corp/show.do%3Fpage%3Dthissite_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cqpolitics.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226233646id_/http%3A//www.cq.com/corp/show.do%3Fpage%3Dthissite_privacy) for the most accurate reproduction.*
 
 # CQ.com
 
 Welcome to Congressional Quarterly's Web site
 
-At CQ, we have measures in place to protect your privacy. We want to make sure you are comfortable exploring our sites and using our information. The following explains what information we collect about you, how we use it and what choices you have regarding this information. This policy applies to all information collected from or submitted to CQ.com and CQ Homeland Security ([homeland.cq.com](http://homeland.cq.com/)). Other CQ Web sites are covered by their own site-specific privacy policies.
+At CQ, we have measures in place to protect your privacy. We want to make sure you are comfortable exploring our sites and using our information. The following explains what information we collect about you, how we use it and what choices you have regarding this information. This policy applies to all information collected from or submitted this site. Other CQ sites may be covered by their own site-specific privacy policies.
 
 What we know about you 
 
@@ -38,7 +38,6 @@ Any questions?
 
 For more information on our Privacy Policy, contact Larry Tunks at 202.419.8520. For more information about Internet privacy in general, you may find one of the following links helpful: 
 
-  * Americans for Computer Privacy ([www.computerprivacy.org](http://www.computerprivacy.org/)) 
   * Center for Democracy and Technology ([www.cdt.org](http://www.cdt.org/)) 
   * Electronic Frontiers Foundation (EFF) ([www.eff.org](http://www.eff.org/)) 
   * Electronic Privacy Information Center (EPIC) ([www.epic.org](http://www.epic.org/)) 
