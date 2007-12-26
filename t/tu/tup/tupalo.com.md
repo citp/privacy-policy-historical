@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the tupalo.com privacy policy that was archived on 2007-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070321062422id_/http%3A//tupalo.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tupalo.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226162341id_/http%3A//tupalo.com/privacy_policy) for the most accurate reproduction.*
 
-# Tupalo - Stuff in your Neighborhood
-
-####     This agreement is effective as of January 24, 2007
+# Tupalo - Stuff In Your Neighborhood
 
 ## About Tupalo
 
@@ -80,4 +78,4 @@ By using Tupalo, you signify your agreement to the terms of this privacy policy 
 
 If you have any questions or concerns regarding this privacy policy you are welcome to contact us by emailing: [feedback@tupalo.com](mailto:%66%65%65%64%62%61%63%6b@%74%75%70%61%6c%6f.%63%6f%6d?subject=%5BTupalo%20Privacy%5D)
 
-#### Copyright © 2006-2007 9tomorrows / Tupalo
+#### Copyright © 2006-2007 Tupalo.com OG
