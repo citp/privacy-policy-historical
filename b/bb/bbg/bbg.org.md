@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bbg.org privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630044314id_/http%3A//www.bbg.org/abo/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbg.org privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226051049id_/http%3A//bbg.org/abo/privacypolicy.html) for the most accurate reproduction.*
 
 # Brooklyn Botanic Garden: Privacy Policy
 
