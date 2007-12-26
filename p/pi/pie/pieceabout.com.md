@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pieceabout.com privacy policy that was archived on 2007-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070507101058id_/http%3A//www.pieceabout.com/index.php%3Fpagedb%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pieceabout.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226164131id_/http%3A//www.pieceabout.com/index.php%3Fpagedb%3Dprivacy) for the most accurate reproduction.*
 
 # privacy Article Directory: Free Website Content, Free Articles For Reprint
 
