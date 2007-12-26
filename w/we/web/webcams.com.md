@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webcams.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216132038id_/http%3A//webcams.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webcams.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226191904id_/http%3A//www.webcams.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Webcams.com offers free live adult webcam chat and live sex webcams! Browse through our webcam girls and guys and chat live now!
 
@@ -24,8 +24,7 @@ Our goal in collecting personal information is to provide visitors with the most
 
 ** DO WE DISCLOSE YOUR INFORMATION?**
 
-We may transfer or disclose information collected from visitors to our web site to our employees and independent contractors, to our parent company, subsidiaries and affiliates, and to our consultants, other business associates, and suppliers, if the disclosure will enable that party to perform a business, professional, or technical support function for us, or if required to do so by law. We may also disclose information we collect from our site visitors to our marketing and business partners, who may use the information in connection with their business operations, such as to send marketing and other communications to visitors of our site.   
-We may also share, rent, sell, or transfer any personal information (including financial information) provided by our visitors to third parties. During the registration process, and at certain times during any member user session, we may present additional offers from third party service providers. Our third party service providers have their own terms and conditions and privacy policies. We suggest that visitors access these third party sites and review their terms and conditions and privacy policies before "subscribing" to any third party offer. If a visitor subscribes to a third party offer during our registration process, we will transfer the financial data they provided to us as part of the registration process to that third party company, which will then process the transaction using that financial data. We may also share non-personal information we collect from visitors to our site, such as their browsing behaviors, with third parties. For example, we may tell a third party advertiser that a certain number of people have visited a certain area on our web site. 
+As a rule, we do not share or otherwise distribute our Subscribers' personal information, including email addresses (i.e. we do not share, sell, or distribute our email lists to third parties).  We may transfer or disclose information collected from visitors to our web site to our employees and independent contractors, to our parent company, subsidiaries and affiliates, and to our consultants, other business associates, and suppliers, if the disclosure will enable that party to perform a business, professional, or technical support function for us, or if required to do so by law.
 
 ** WHAT SECURITY MEASURES DO WE TAKE TO PROTECT YOUR DATA?**
 
@@ -59,8 +58,12 @@ Visitors who wish to access or change the information they provided to our web s
 
 Visitors who have any questions about this Privacy Policy, the practices of this site, or their interactions with this web site, should visit the Support section of this site and contact us via Email. 
 
+**HOW CAN YOU OPT OUT OF PROMOTIONAL EMAILS?**
+
+At the bottom of every email we provide detailed opt out instructions along with a toll free number if you are having problems removing your name from the mailing list.  Alternatively, you can opt out by visiting the following URL: [ /optout.php](https://web.archive.org/optout.php).  Once you go here, enter the email address that is receiving emails and press the submit button.  This will permanently remove your name from the mailing list.
+
 © Copyright 2005, 2006 Webcams.com, All Rights Reserved.
 
-Toll Free 24 Hour Support Line: **1-800-270-4116**  
+Toll Free 24 Hour Support Line: **1-866-449-9191**  
 International 24 Hour Support Line: **+1-312-528-6974**  
 UK 24 Hour Support Line: **+44 20 8002 9067**
