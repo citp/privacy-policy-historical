@@ -1,84 +1,123 @@
-> *The following text is extracted and transformed from the foodtv.com privacy policy that was archived on 2006-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061128030336id_/http%3A//www.foodnetwork.com/food/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodtv.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226223051id_/http%3A//www.foodnetwork.com/food/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy : Food Network
 
 Privacy Policy
 
-At FoodNetwork.com, we are committed to protecting the online privacy of visitors to our websites. This Policy applies only to the websites and online services provided by FoodNetwork.com. This Policy does not cover any interaction you may have with Food Network by telephone, postal mail, or other offline communications. The purpose of this Policy is to inform you about the types of information we gather about you when you visit our websites, how we may use that information, and how we disclose it to third parties.
+ **PLEASE NOTE THAT OUR PRIVACY POLICY has changed effective December 20, 2007.**
 
-Our websites are not designed for use by children without their parent’s supervision. We ask that anyone under the age of thirteen not submit any personal information through our websites. We do not knowingly collect any personal information from children under the age of thirteen, and therefore we do not knowingly distribute such information to third parties. 
+ **If you submitted personally identifiable information to use prior to December 20, 2007, and desire opt out of having that previously submitted personally identifiable information from being treated under the new policy, please contact us at feedback@foodnetwork.com.**
 
-Our websites may contain links to other websites, including websites directed to children. We have no control over the privacy practices or the content of any of our business partners, advertisers, sponsors or other websites to which we provide links from our websites. You should check the applicable privacy policy of the website sponsor when linking to other websites.
+Welcome to foodnetwork.com. foodnetwork.com ("Website") is an interactive online service operated by Scripps Networks, LLC ("us", "we", or "our"). Please read the following to learn more about our Privacy Policy, which includes compliance with California Privacy Rights (see also http://www.privacyprotection.ca.gov).
 
- **I. Information That We Collect**
+  
+We respect your privacy and are committed to protecting personally identifiable information you may provide us through our Website. We have adopted this Privacy Policy ("Privacy Policy") to explain what information may be collected on our Website, how we use this information, and under what circumstances we may disclose the information to third parties. This Privacy Policy applies only to information we collect through our Website and does not apply to our collection of information from other sources.
 
- **Personal Information**  
-At various locations on our websites, such as in registration forms, sweepstakes entries, message boards, online stores, surveys, and polls, we may request that you supply us with "personal information," such as your name, email address, mailing and shipping addresses, home or work telephone number, and/or credit card information. You will always know when we are collecting personal information, because we only collect personal information when you voluntarily submit it to us through our online forms and questionnaires. Although you do not have to provide us with any information to visit our websites, you may not be able to fully utilize all of the services on our websites if you choose not to provide certain information. If you do choose to give us personal information through our websites, we will collect and retain that information.
+  
+This Privacy Policy, together with the Terms of Use posted on our Website, sets forth the general rules and policies governing your use of our Website. Depending on your activities when visiting our Website, you may be required to agree to additional terms and conditions.
 
- **Non-Personal Information**  
-When you use our websites, we may also collect "non-personal information," which is information that, by itself, cannot be used to identify or contact you, such as demographic information (your age, gender, income, education, profession, zip code, etc.). Non-personal information may also include technical information, such as your IP address, the type of browser you are using, the websites you visit immediately before and immediately after you visit our websites, and other anonymous data involving your use of our websites. Non-personal information may also include information that you provide us through your use of our websites, such as the time zone you select if you use our TV schedule feature, or the terms you enter into the search functions of our websites.
+We generally keep this Privacy Policy posted on our Website and you should review it frequently, as it may change from time to time without notice. Any changes will be effective immediately upon the posting of the revised Privacy Policy. WHEN YOU ACCESS OUR WEBSITE, YOU AGREE TO THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, OR TO ANY CHANGES WE MAY SUBSEQUENTLY MAKE, IMMEDIATELY STOP ACCESSING OUR WEBSITE. If, at any point, we decide to use your personally identifiable information in a manner materially different than what was stated at the time it was collected, we will notify users of this change by e-mail to the last e-mail address provided to us. Users will have a choice (by means of an opt out opportunity) as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected if you opt out of the new policy.
 
- **Online Stores**  
-We collect personal information from you when you purchase products from our online stores. For example, we require you to provide your name, contact information, shipping and billing addresses, and a credit card number before we process your orders. We also collect information about your transactions with us. We may use the information that you provide to communicate with you about products purchased through our online stores, to provide customer support in connection with those products, and to send you information about other products and services which we believe may be of interest to you.
+ **  
+A. INFORMATION WE COLLECT**
 
- **Cookies**  
-We use "cookies" to enhance your visits to our websites. A cookie is a small amount of data that is sent to your browser from a web server and stored on your computer’s hard drive. Cookies do not store personal information about you, unless you knowingly provide it. Cookies can store non-personal information, such as what websites, pages, or advertisements your browser has accessed. We use cookies to store information and personalize your experience with our websites. For example, cookies allow our websites to recognize your browser as a previous visitor, and thus save and remember any preferences that may have been set while you were previously browsing our websites. Our cookies can also store your password, personalize pages, and keep track of selections, such as your time zone and episode selections, or items you have placed in a "shopping cart." 
+  
+Our Website typically collects two kinds of information about you: (a) information that you provide that personally identifies you; and (b) information that does not personally identify you, that we automatically collect when you visit our Website or that you provide us.
 
-You do have control over cookies. Most browsers can be set to notify you when a cookie is being placed on your computer. Most browsers can also be set to refuse to accept cookies, although this may affect your Internet experience. You can also erase cookies that are already on your computer. For more information about working with cookies, you should consult your user manual, FAQ, or "help" function of your specific browser and operating system software.
+  
+(1) Personally Identifiable Information:
 
- **II. How We Use the Information We Collect**
+Our definition of personally identifiable information includes any information that may be used to specifically identify or contact you, such as your name, mail address, phone number, etc. As a general policy, we do not automatically collect your personally identifiable information when you visit our Website. In certain circumstances, we may request, allow or otherwise provide you an opportunity to submit your personally identifiable information in connection with a feature, program, promotion or some other aspect of our Website. For instance, you may: (a) provide your name, mail/shipping address, email address, credit card number and phone number when registering with our Website, using our online store, or in connection with a contest entry; (b) provide certain demographic information about you (e.g., age, gender, purchase preference, usage frequency, etc.) when participating in a survey, poll or joining a club; or (c) post a product rating and recommendation on our Website. Certain information may not be personally identifiable when standing alone (e.g., your age), but may become so when combined with other information (e.g., your age and name). Whether or not you provide this information is your choice; however, in many instances this type of information is required to participate in the particular activity, realize a benefit we may offer, or gain access to certain content on our Website.
 
- **Our Services and Websites**  
-We use your personal information to provide you any services that you may request or require, to communicate with you, to allow you to make purchases, and to allow you to participate in online contests, surveys and games. We use aggregated non-personal information about our users to understand our website’s demographics, such as the percentage of male and female users, the geographic distribution of our users, the age ranges of our users, or a combination of these or other demographics. We use the non-personal information we collect to analyze how our websites are being used, and to improve the content of our websites, online product offerings, and marketing and promotional efforts.
+(2) Non-Personal Information:
 
- **Email Communications**  
-If you send us an email with questions or comments, we may use your personal information to respond to your questions or comments, and we may save your questions or comments for future reference. However, aside from our reply to such an email, it is not our standard practice to send you email unless you request a particular service that involves email communications, you otherwise consent to being contacted by email or if such contact is to communicate with you about products purchased through our online stores, to provide customer support in connection with those products, and to send you information about other products and services which we believe may be of interest to you. There may be times when you will have the opportunity to subscribe to an email list or electronic newsletter that will send information about our websites or our advertisers to your email address. However, we will provide you with the option to change your preferences and opt-out of receiving those communications. You may request at any time that we not email you in the future by clicking the "unsubscribe" link which is included at the bottom of any email that you receive from us, or by contacting us at privacy@foodnetwork.com. If you unsubscribe, we will make reasonable efforts to discontinue these email communications as soon as practicable.
+Our definition of non-personal information is any information that does not personally identify you. Non-personal information can include certain personally identifiable information that has been de-identified; that is, information that has been rendered anonymous. We obtain non-personal information about you from information that you provide us, either separately or together with your personally identifiable information. We also automatically collect certain non-personal information from you when you access our Website. This information can include, among other things, IP addresses, the type of browser you are using (e.g., Internet Explorer, Firefox, Safari, etc.), the third party website from which your visit originated, the operating system you are using (e.g., Vista, Windows XP, Macintosh OS, etc.), the domain name of your Internet service provider (e.g., America Online, NetZero, etc.), the search terms you use on our Website, the specific web pages you visit, and the duration of your visits. ****
 
- **Online Stores**  
-If you make a purchase through our online stores, we may use the information you provide to send you important announcements and updates regarding our websites or online products. You may also receive periodic mailings regarding new products and services. However, you may opt-out from receiving future mailings by contacting privacy@foodnetwork.com or:
+**B. HOW WE USE & SHARE THE INFORMATION COLLECTED**
 
-Food Network  
-Attn: Website Privacy Policy  
-Address: 1180 Avenue of the Americas, 11th Floor, New York, NY 10036
+  
+(1) Personally Identifiable Information:
 
-When you provide us with your personal information to make a purchase through our online stores, we use this information to process your online order and credit card number. We also use your address and billing information to bill you and provide associated support.
+The personally identifiable information you submit to us is generally used to carry out your requests, respond to your inquiries, better serve you, or in other ways naturally associated with the circumstances in which you provided the information. We may also use this information to later contact you for a variety of reasons, such as customer service, providing you promotional information for our products or those of our parent company, subsidiaries or other affiliated companies ("affiliated companies"), or to communicate with you about content or other information you have posted or shared with us via our Website. You may opt-out from receiving future promotional information from us or our affiliated companies, or direct that we not share your information with any affiliated companies, as set forth below.
 
- **III. Disclosure of Information to Third Parties**
+  
+In certain instances we may also share your personally identifiable information with our third party vendors performing functions on our behalf (or on behalf of our affiliated companies) – e.g., vendors that process credit card orders, deliver our merchandise, administer our promotions, provide us marketing or promotional assistance, analyze our data, assist us with customer service, etc. Our vendors agree to use this information, and we share information with them, only to carry out our requests. In addition, we may share your personally identifiable information with participating sponsors to a program or promotion (e.g., a sweepstakes or contest) you enter via our Website, and with third parties who assist us in using the content or other information you have posted or shared with us via our Website (e.g., production companies we may use). Further, we may share your personally identifiable information with third parties such as our co-promotional partners and others with whom we have marketing or other relationships. Except as provided in this Privacy Policy, our Terms of Use, or as set forth when you submit the information, your personally identifiable information will not be shared or sold to any third parties without your prior approval.
 
- **Affiliates and Non-Affiliates**  
-Except as specifically set forth in this Policy, we do not share your personal information with any non-affiliated third party without your permission. We may disclose aggregate information, such as demographic information, and our statistical analyses to third parties, including advertisers or other business partners. This aggregate information does not include your personal information. We may, however, share your personal information with certain websites that control us, are controlled by us, or under common control with us (our "Affiliates"), such as HGTV.com, DIYnetwork.com, FineLiving.com, and ShopAtHomeTV.com and websites operated by our Affiliates or other businesses of the E. W. Scripps Company, our parent company, so that they and we can offer you products and services that may be of interest to you. Please refer to our Affiliates’ privacy policies for details regarding how they handle your personal and non-personal information.
+  
+(2) Non-Personal Information:
 
- **Service Providers**  
-We sometimes engage unaffiliated businesses to assist us in providing you certain services. For example, we may hire a shipping company to help us deliver our products or services to you. We may also use third parties to process online transactions and credit card payments, provide advertising, marketing and promotional assistance, provide email services, or facilitate our online services (such as message boards, chat rooms, and surveys). In those instances, we may need to share your personal information with them. We require these companies to use your personal information only to provide the particular product or service and do not authorize them to use your personal information for any other reason. 
+We use non-personal information in a variety of ways, including to help analyze site traffic, understand customer needs and trends, carry out targeted promotional activities, and to improve our services. We may use your non-personal information by itself or aggregate it with information we have obtained from others. We may share your non-personal information with our affiliated companies and third parties to achieve these objectives and others, but remember that aggregate information is anonymous information that does not personally identify you.
 
-We sometimes offer promotions (like sweepstakes or free subscriptions) in conjunction with a third party sponsor. If you choose to participate in one of those promotions, we may share your information with the sponsor if they need it to send you a product or other special promotion they offer.
+ **  
+C. OTHER USES & INFORMATION**
 
- **Business Transactions**  
-As FoodNetwork.com and its websites continue to develop, we may buy, sell or combine with other businesses. If so, personal and non-personal information that we or other businesses have collected will likely be transferred as part of the transaction. If we sell a business, we will attempt to ensure that requests made of us regarding email communications will be honored.
+(1) IP Addresses:
 
- **Public Forums**  
-We feature public forums such as chat rooms, message boards, bulletin boards, or similar activities where you and other users of our websites can communicate with one another. This Policy does not protect you when you use these public forums or provide information (including personal information) about yourself. Any information you share in a public forum such as a chat room, message board, or bulletin board is public information and may be seen or collected by anyone, including third parties that do not adhere to our Privacy Policy. FoodNetwork.com is not responsible for events arising from the distribution of any information you choose to publicly post or share through our websites.
+An IP address is a number that is automatically assigned to your computer whenever you are surfing the Internet. Web servers (computers that "serve up" web pages) automatically identify your computer by its IP address. When visitors request pages from our Website, our servers typically log their IP addresses. We collect IP addresses for purposes of system administration, to report non-personal aggregate information to others, and to track the use of our Website. IP addresses are considered non-personal information and may also be shared as provided above. It is not our practice to link IP addresses to anything personally identifiable; that is, the visitor’s session will be logged, but the visitor remains anonymous to us. However, we reserve the right to use IP addresses to identify a visitor when we feel it is necessary to enforce compliance with our Website rules or to: (a) fulfill a government request; (b) conform with the requirements of the law or legal process; (c) protect or defend our legal rights or property, our Website, or other users; or (d) in an emergency to protect the health and safety of our Website’s users or the general public.
 
- **Third Party Advertisers**  
-We use third-party advertising companies to deliver specific advertisements to you, which appear on pages throughout our websites. These companies collect non-personal information about your visits to our websites and other websites in order to provide advertisements about products and services that may be of interest to you. These companies may also aggregate your non-personal information for use in targeted advertising, marketing research, and other similar purposes. These companies may place their own cookies on your computer. If you want to prevent a third-party advertiser from collecting and using this information, you may visit each third party advertiser’s website directly and opt-out. You may also visit Network Associates at [www.nai.com](http://www.nai.com/) for solutions regarding consumer privacy.
+  
+(2) Cookies, etc.:
 
- **Other Disclosures**  
-We may disclose personal information when we are required or requested to do so by law, court order or other government or law enforcement authority or regulatory agency; to enforce or apply our rights and agreements; or when we believe in good faith that disclosing this information is necessary or advisable, including, for example, to protect the rights, property, or safety of FoodNetwork.com, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. We reserve the right to use or disclose non-personal information in any way we see fit.
+"Cookies" are small text files from a website that are stored on your hard drive. These text files make using our Website more convenient by, among other things, saving your passwords and preferences for you. Cookies themselves do not typically contain any personally identifiable information. We may analyze the information derived from these cookies and other technological tools we employ (such as clear gifs/web beacons) and match this information with data provided by you or another party. We may provide our analysis and certain non-personal information to third parties (who may in turn use this information to provide advertisements tailored to your interests), but this will not involve disclosing any of your personally identifiable information. Please note that advertisers that serve advertisements on our Website may also use their own cookies and other technological tools which are subject to the advertiser’s privacy policies, not this Privacy Policy.
 
- **IV. Security of the Information We Collect**
+  
+If you are concerned about the storage and use of cookies, you may be able to direct your internet browser to notify you and seek approval whenever a cookie is being sent to your hard drive. You may also delete a cookie manually from your hard drive through your internet browser or other programs. Please note, however, that some parts of our Website will not function properly or be available to you if you refuse to accept a cookie or choose to disable the acceptance of cookies.
 
-The security of your personal information is important to us. We maintain physical, electronic, and procedural safeguards to secure your personal information. However, "perfect security" does not exist on the Internet, and there is always some risk in transmitting information electronically. The personal information we collect is stored within databases that we control. As we deem appropriate, we use security measures consistent with industry standards, such as firewalls and encryption technology, to protect your information. However, since no security system is impenetrable, we cannot guarantee the security of our databases, nor can we guarantee that information you supply won’t be intercepted while being transmitted to us over the Internet. Of course, any information you post to any message board, discussion group, or other public posting area on our websites is available to anyone with Internet access.
+  
+(3) Email Communications:
 
- **V. Accuracy of the Information We Collect**
+If you send us an email with questions or comments, we may use your personally identifiable information to respond to your questions or comments, and we may save your questions or comments for future reference. For security reasons, we do not recommend that you send non-public personal information, such as passwords, social security numbers, or bank account information, to us by email. However, aside from our reply to such an email, it is not our standard practice to send you email unless you request a particular service or sign up for a feature that involves email communications, it relates to purchases you have made with us (e.g., product updates, customer support, etc.), we are sending you information about our other products and services, or you consented to being contacted by email for a particular purpose. In certain instances, we may provide you with the option to set your preferences for receiving email communications from us; that is, agree to some communications but not others. You may "opt out" of receiving future commercial email communications from us by clicking the "unsubscribe" link included at the bottom of most emails we send, or as provided below; provided, however, we reserve the right to send you transactional emails such as customer service communications.
 
-Any questions you may have regarding our Privacy Policy, the accuracy of your personal information or the use of your personal information, or any requests that we correct, update, or remove your information in our databases, should be directed via email to privacy@foodnetwork.com, or via telephone to (865) 560 -3663.
+(4) Transfer of Assets:
 
-You also can write us at:   
-Food Network  
-Attn: Website Privacy Policy  
-ADDRESS: 1180 Avenue of the Americas, 11th Floor, New York, NY 10036
+As we continue to develop our business, we may sell or purchase assets. If another entity acquires us or all (or substantially all) of our assets, the personally identifiable information and non-personal information we have about you will be transferred to and used by this acquiring entity, though we will take reasonable steps to ensure that your preferences are followed. Also, if any bankruptcy or reorganization proceeding is brought by or against us, all such information may be considered an asset of ours and as such may be sold or transferred to third parties.
 
-After receiving a request to change your information, we will make reasonable efforts to ensure that all of your personal information stored in databases we actively use to operate our website will be updated, corrected, changed or deleted, as appropriate, as soon as reasonably practicable. However, we reserve the right to retain in our archival files any information we remove from or change in our active website databases. We may retain such information to resolve disputes, troubleshoot problems and enforce our terms of use. In addition, it is not technologically possible to remove each and every record of the information you have provided to us. A copy of your personal information may exist in a non-erasable form that will be difficult or impossible for us to locate.
+  
+(5) Other: 
 
-This Policy is effective as of November 10, 2003. We reserve the right to change this Policy at any time, and will post any changes to this Policy as soon as they go into effect. Please refer back to this Policy on a regular basis.   
+Notwithstanding anything herein to the contrary, we reserve the right to disclose any personally identifiable or non-personal information about you if we are required to do so by law, with respect to notices and counternotices pursuant to our DMCA notice and takedown policy and procedures and/or if we believe that such action is necessary to: (a) fulfill a government request; (b) conform with the requirements of the law or legal process; (c) protect or defend our legal rights or property, our Website, or other users; or (d) in an emergency to protect the health and safety of our Website’s users or the general public.
+
+(6) Your California Privacy Rights
+
+Residents of the State of California, under certain provisions of the California Civil Code, have the right to request from companies conducting business in California a list of all third parties to which the company has disclosed certain personally identifiable information as defined under California law during the preceding year for third party direct marketing purposes. You are limited to one request per calendar year. In your request, please attest to the fact that you are a California resident and provide a current California address for our response. You may request the information in writing at:
+
+Scripps Networks, LLC  
+1180 Avenue of the Americas  
+New York, NY 10036  
+Attn: California Privacy Request  
+feedback@foodnetwork.com  
+ **  
+D. PUBLIC FORUMS**
+
+We may offer chat rooms, message boards, bulletin boards, or similar public forums where you and other users of our Website can communicate. The protections described in this Privacy Policy do not apply when you provide information (including personal information) in connection with your use of these public forums. We may use personally identifiable and non-personal information about you to identify you with a posting in a public forum. Any information you share in a public forum is public information and may be seen or collected by anyone, including third parties that do not adhere to our Privacy Policy. We are not responsible for events arising from the distribution of any information you choose to publicly post or share through our Website.
+
+**  
+E. CHILDREN **
+
+The features, programs, promotions and other aspects of our Website requiring personally identifiable information are not intended for children. We do not knowingly collect personally identifiable information from children under the age of 13. If you are a parent or guardian of a child under the age of 13 and believe he or she has disclosed personally identifiable information to us please contact us at feedback@foodnetwork.com. A parent or guardian of a child under the age of 13 may review and request deletion of such child’s personally identifiable information as well as prohibit the use thereof.
+
+ **  
+F. KEEPING YOUR INFORMATION SECURE**
+
+We have implemented security measures we consider reasonable and appropriate to protect against the loss, misuse and alteration of the information under our control. Please be advised, however, that while we strive to protect your personally identifiable information and privacy, we cannot guarantee or warrant the security of any information you disclose or transmit to us online and are not responsible for the theft, destruction, or inadvertent disclosure of your personally identifiable information. In the unfortunate event that your "personally identifiable information" (as the term or similar terms are defined by any applicable law requiring notice upon a security breach) is compromised, we may notify you by e-mail (at our sole and absolute discretion) to the last e-mail address you have provided us in the most expedient time reasonable under the circumstances; provided, however, delays in notification may occur while we take necessary measures to determine the scope of the breach and restore reasonable integrity to the system as well as for the legitimate needs of law enforcement if notification would impede a criminal investigation. From time to time we evaluate new technology for protecting information, and when appropriate, we upgrade our information security systems.
+
+ **  
+G. OTHER SITES / LINKS**
+
+Our Website may link to or contain links to other third party websites that we do not control or maintain, such as in connection with purchasing products referenced on our Website and banner advertisements. We are not responsible for the privacy practices employed by any third party website. We encourage you to note when you leave our Website and to read the privacy statements of all third party websites before submitting any personally identifiable information.
+
+ **  
+H. CONTACT & OPT-OUT INFORMATION**
+
+You may contact us as at feedback@foodnetwork.com if: (a) you have questions or comments about our Privacy Policy; (b) wish to make corrections to any personally identifiable information you have provided; (c) want to opt-out from receiving future commercial correspondence, including emails, from us or our affiliated companies; or (d) wish to withdraw your consent to sharing your personally identifiable information with others. 
+
+  
+We will respond to your request and, if applicable and appropriate, make the requested change in our active databases as soon as reasonably practicable. Please note that we may not be able to fulfill certain requests while allowing you access to certain benefits and features of our Website.
+
+ **  
+I. SOLE STATEMENT**
+
+This Privacy Policy as posted on this Site is the sole statement of our privacy policy with respect to this Site, and no summary, modification, restatement or other version thereof, or other privacy statement or policy, in any form, is valid unless we post a new or revised policy to the Site.
+
+© 2007, Scripps Networks, LLC. All Rights Reserved.   
 
