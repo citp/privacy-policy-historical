@@ -1,95 +1,45 @@
-> *The following text is extracted and transformed from the buckeyeplanet.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607202023id_/http%3A//www.buckeyeplanet.com/%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buckeyeplanet.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226233523id_/http%3A//www.buckeyeplanet.com/%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # BuckeyePlanet - Ohio State Fan Community - Privacy Policy
 
-**Information Collection & Use**  
-_Registration_  
-In order to use this Web site, you must first complete the registration form and create a user name and password. During registration you are required to provide basic contact information (such as email address). We use this information to contact you in the event of a lost password, relay information and/or news in which you have expressed interest, and to verify the validity of new registrations.
+Thank you for visiting BuckeyePlanet.com ("BP"). BP wants to demonstrate its commitment to your privacy. As a result, BP provides the following Privacy Policy that explains how it protects your personally identifiable data. Our goal is to provide an open forum for fans, bring you current and up-to-date information about the athletic programs at the Ohio State University that are tailored to your individual needs and, at the same time, protect your privacy.
 
-You have the option to provide optional supplementary information (such as location and birthdate) to us; we encourage you to submit this information so we can provide you a more personalized experience on our site, and so that our userbase can enjoy a community atmosphere knowing more about one another.
+PLEASE READ THIS PRIVACY POLICY CAREFULLY. YOUR USE OF THIS WEBSITE AND/OR REGISTRATION WITH BUCKEYEPLANET WILL CONSTITUTE YOUR AGREEMENT WITH THIS PRIVACY POLICY. In addition to reviewing this Privacy Policy, please read our Terms of Use Agreement as your use of BP's website and/or service(s) constitutes agreement to the terms as explained in the Terms of Use Agreement as well.
 
-Bryants.net is the sole owner of the information collected on BuckeyePlanet. Bryants.net collects personally identifiable information from our users at several different points on our Web site. This allows you to maintain a login between visits, enjoy access to areas restricted to registered users, and provides us a means of tracking usage patterns so that we know what's working, and what's not.
+This Privacy Policy does not cover information collected elsewhere, including without limitation, offline and online sites that are linked to and from BP's website.
 
-**Surveys or Contests**  
-From time-to-time we may provide you the opportunity to participate in contests or surveys on our site. If you participate, we will request certain personally identifiable information from you. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and shipping address), and demographic information (such as zip code).
+This Privacy Policy may be modified from time to time. Continued access of BP's website and/or service(s) by you will constitute your acceptance of any changes or revisions to the Privacy Policy.
 
-We use this information to notify contest winners and award prizes.
+INFORMATION COLLECTION AND USE
 
-_Tell-A-Friend_  
-If you choose to use our referral service to tell a friend about our site, or content therein, we will ask you for your friendâ€™s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Bryants.net does not store this information.
+BP generally collects personal information with your specific knowledge and consent. For instance, when you register for any portion of BP's services, enter a sweepstakes or contest, or complete a survey, you are asked to provide, among other things, information like your e mail address, name, telephone number, fax number, and information about interest in our services, products, and programs. Optional demographic information may also be requested. The more information you provide, the better we are able to customize our services to suit your needs and preferences.
 
-_Uses of Information_  
-BuckeyePlanet uses the information collected from you to better understand the demographics, interests and behavior of our collective audience. We do not share individual information about you with third-parties in the process.
+In addition, when you use BP's website and/or service(s), we may also automatically collect information about you or your computer, including without limitation, the internet address that you just came from, the internet address that you go to next, the internet address that referred you, the type of browser software you are using, the domain name of your Internet Service provider, and your Internet Protocol address. This information is collected and used in the aggregate and is used for, among other things, measuring site performance and use.
 
-**Communications from the Site**  
-_Service-related Announcements_  
-We will send you strictly service-related announcements on rare occasions when it is necessary to do so. For instance, if our service is going to be suspended for maintenance for an unusual period, we might send you an email. 
+USE OF INFORMATION PROVIDED BY YOU
 
-Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account. However, these communications will be uncommon.
+BP uses the information you supply to provide you with the services that you request. For example, if you subscribe to any of our publications, we may use your e mail address to send you the publication. Similarly, if you enter one of our contests or sweepstakes, we will use the information provided to notify you if you win. We may also use the information supplied to communicate with you about new features, products or services, and/or to improve the services that we offer to you.
 
-_Customer Service_  
-Based upon the personally identifiable information you provide us, we will send you a welcoming email to verify your username and password. We will also communicate with you in response to your inquiries, to provide the services you request, and to manage your account.
+BP may, as necessary, allow access to our database to third parties that provide us services, such as, the technical maintenance of our website. BP limits such access for the purposes of providing our website and/or services.
 
-_Profile_  
-We store information that we collect through cookies, log files, clear gifs, to create a â€œprofileâ€ of your preferences. We do not tie your personally identifiable information to information in the profile.
+As our business changes, we may buy or sell various assets. In the event all or a portion of the assets owned by BP are sold, assigned, transferred or acquired, the information from and about BP's users may be among the transferred assets.
 
-We do not share your profile with other third parties.
+Our website uses cookies (i.e., small bits of text that our servers place into a file on your computer's hard drive). For example, if you register on any part of our website and select the option to save your username and password on your computer, then that information is stored on your computer. We also may use cookies to provide personalized functionality to our website. You have the option to reject cookies by changing your internet browser settings, but disabling this functionality may affect the optimal use of our website.
 
-_Personally identifiable information:_  
-We DO NOT Share Personally Identifiable Information with Third Parties.
+"PRIVATE" MESSAGING
 
-_Legal Disclaimer_  
-We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site.
+Our website offers an in-house means of communication called 'Private Messaging.' BP reserves the right to read and transfer these messages under extraordinary circumstances, including but not limited to examples such as legal compulsion by authorities, unlawful physical threats or activities, and mass spamming. In six years, we have only had to do this twice, and we do not maintain administrative tools to accomplish the task. We leave it a difficult undertaking because we abhor the practice under anything less than obligation by law. If you require an off-site means of communication, use email.
 
-_Log Files_  
-As is true of most Web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.
+CHILDREN UNDER 13 YEARS OLD
 
-We use this information, which does not identify individual users, to analyze trends, to administer the site, to track usersâ€™ movements around the site and to gather demographic information about our user base as a whole.
+BP' website and/or service(s) are not intended for use by children, especially those under age 13. We ask that children under age 13 not provide any personal information to BP or provide such information to third parties in our message boards or chat rooms. Minors between the ages of 13 and 17 must get the permission of their parent(s) or legal guardian(s) before registering with BuckeyePlanet.
 
-We do not link this automatically-collected data to personally identifiable information.
+PRIVACY POLICY COORDINATOR
 
-_Cookies_  
-A cookie is a small text file that is stored on a userâ€™s computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site.
+If you have any questions or comments about any aspect of this Privacy Policy, then please feel free to send postal mail to the address below:
 
-We use both session ID cookies and/or persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close you browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browserâ€™s â€œhelpâ€ file.
+BuckeyePlanet  
+5794 Gradey Pass  
+Galloway, Ohio 43119
 
-We set a persistent cookie to store your passwords, so you donâ€™t have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site. 
-
-If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as the arcade, will be limited.
-
-This privacy statement covers the use of cookies by this site only.
-
-_Clear Gifs (Web Beacons/Web Bugs)_  
-We may employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a userâ€™s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customersâ€™ personally identifiable information. 
-
-We may use clear gifs in future HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications. If we find a time and reason to send emails such as this out in the future you would have to opt-in to receive them, and would be able to opt-out at any time. Examples of how this might be put to use is an email subscription service where boxscores are sent each Saturday following games. 
-
-_Links to Other Sites_  
-This Web site contains links to other sites that are not owned or controlled by Bryants.net/BuckeyePlanet. Please be aware that we, Bryants.net/BuckeyePlanet, are not responsible for the privacy practices of such other sites. 
-
-We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. 
-
-This privacy statement applies only to information collected by this Web site. 
-
-_Bulletin Boards/Chat Rooms_  
-If you use a bulletin board or chat room on this site, you should be aware that any personally identifiable information that you submit (for example, posting your email address in a thread, or other personal and/or contact info) there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information _you choose to submit_ in these forums. 
-
-_'Private Messages/Private Messaging'_  
-This site offers an in-house means of communication called 'Private Messaging'. The administrator of the site reserve the right to read and/or monitor these messages. We consider this an extreme and distasteful measure, and would prefer to avoid it at all costs. When it hits our databases, to the time that it is removed by you, we are obligated to protect ourselves from our resources being used for illegal or undesireable purposes. We take privacy very seriously, and can only imagine extreme conditions and circumstances leading to such a step. We cannot read PMs that you have deleted from your folders. If you require an off-site means of communication, use email.
-
-_Access to Personally Identifiable Information_  
-If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by making the change on our member information (UserCP) page.
-
-_Security_  
-The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use acceptable means to protect your personal information, we cannot guarantee its absolute security.
-
-_Business Transitions_  
-In the unlikely event BuckeyePlanet goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred. You will be notified via email and/or prominent notice on our Web site for 30 days of any such change in ownership or control of your personal information during which time you may choose to edit, delete or suspend your account.
-
-_Changes in this Privacy Statement_  
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
-
-We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
-
-_Contact Us_  
-If you have any questions or suggestions regarding our privacy policy, please contact us [here](http://www.buckeyeplanet.com/forum/sendmessage.php).
+Questions about our privacy policy may be directed to: clarity@buckeyeplanet.com
