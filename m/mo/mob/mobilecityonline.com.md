@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobilecityonline.com privacy policy that was archived on 2007-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070508211312id_/http%3A//www.mobilecityonline.com/wireless/store/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobilecityonline.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226051113id_/http%3A//www.mobilecityonline.com/wireless/store/privacy.asp) for the most accurate reproduction.*
 
 # MobileCityOnline.com - Privacy Policy
 
@@ -25,9 +25,12 @@ MOBILECITYONLINE.COM employs powerful 128-bit encryption technology and Secure S
    MOBILECITYONLINE.COM uses your information to follow-up on your order and to send you updated information on our company, new products, services, and promotions. Your service provider and manufacturer may also send you similar information. You may opt-out of receiving such information from MOBILECITYONLINE.COM by contacting our customer service department via e-mail [customerservice@mobilecityonline.com](mailto:customerservice@mobilecityonline.com) or by phone at 212-964-4444. 
 
   
-If you would like to place an order, but do not wish to provide the necessary information to us online, you can provide us with the information over the phone by calling a customer service representative at 212-964-4444. They will gladly complete your order manually. 
 
-   At any time you may correct/change any information that we may have on file. Please submit your changes via e-mail to [customerservice@mobilecityonline.com](mailto:customerservice@mobilecityonline.com) or call us at 212-964-4444. You may also contact us in writing at:    
+
+If you would like to place an order, but do not wish to provide the necessary information to us online, you can provide us with the information over the phone by calling a customer service representative at 212-964-4444. We will gladly complete your order manually. 
+
+   At any time you may correct/change any information that we may have on file. Please submit your changes via e-mail to [customerservice@mobilecityonline.com](mailto:customerservice@mobilecityonline.com) or call us at 212-964-4444. You may also contact us in writing at: 
+
 MOBILECITYONLINE  
 CUSTOMER SERVICE  
 47 Walker Street  
