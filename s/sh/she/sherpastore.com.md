@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sherpastore.com privacy policy that was archived on 2007-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070611211445id_/http%3A//www.marketingsherpa.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sherpastore.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226175857id_/http%3A//www.marketingsherpa.com/privacy.html) for the most accurate reproduction.*
 
 # MarketingSherpa Privacy
 
@@ -40,7 +40,7 @@ Again, we will never send you an email blast on behalf of a third party. We also
 
 ## Unsubscribing
 
-We really hate sites and ezines that are hard to unsubscribe to. So at MarketingSherpa, we've made it stinkingly easy. Just look for the "My Email Account" link at the top of every page of our site. 
+We really hate sites and ezines that are hard to unsubscribe to. So at MarketingSherpa, we've made it stinkingly easy. Just look for the "Your Email Account" link at the bottom of every page of our site, or use this link: <http://www.marketingsherpa.com/n/mngsubs.asp>
 
 That link also helps you change email addresses quickly and easily.
 
