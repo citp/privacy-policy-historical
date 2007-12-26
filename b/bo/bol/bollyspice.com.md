@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bollyspice.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624011706id_/http%3A//www.bollyspice.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bollyspice.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226182639id_/http%3A//www.bollyspice.com/privacy-policy.php) for the most accurate reproduction.*
 
-# BollySpice.com - Privacy Policy
+# Bollywood Spice - Privacy Policy
 
 We do not collect any personal information from any of our members on our site. The forum may ask you for some, but you do not have to give details. We promise not to give or sell your personal information like your name or email address to anyone. 
 
@@ -17,5 +17,4 @@ BollySpice.com reserves the right to contact our members if abusive posting is f
 We wish our visitors a pleasent time here at BollySpice. 
 
 Faizan Qureshi   
-Owner  
-BollySpice.com
+Owner - BollySpice.com
