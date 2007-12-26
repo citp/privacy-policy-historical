@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aisquared.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625184309id_/http%3A//www.aisquared.com/PrivacyPolicy/index.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aisquared.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226051733id_/http%3A//www.aisquared.com/PrivacyPolicy/index.cfm) for the most accurate reproduction.*
 
 # Ai Squared Website Privacy Policy
 
