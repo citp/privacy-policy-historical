@@ -1,123 +1,403 @@
-<!--The following is the downloaded HTML source of the applebottoms.com privacy policy that was archived on 2006-11-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061101094150id_/http%3A//applebottoms.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D5%26Itemid%3D59) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the applebottoms.com privacy policy that was archived on 2007-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071226094852id_/http%3A//www.applebottoms.com/privacy_policy.asp) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr"><head>
-<link rel="stylesheet" href="http://www.applebottoms.com/templates/_system/css/general.css" type="text/css">
-<link href="http://www.applebottoms.com/templates/apple_bottoms/css/template.css" rel="stylesheet" type="text/css">
-<link href="http://www.applebottoms.com/templates/apple_bottoms/css/shop.css" rel="stylesheet" type="text/css">
-<script src="http://www.applebottoms.com/libraries/urchin/__utm.js"></script>
-  <title>Privacy Policy</title>
-  <meta name="generator" content="Joomla! 1.5">
-  <meta name="description" content="">
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <meta name="robots" content="index, follow">
-  <meta name="title" content="Privacy Policy">
-  <meta name="author" content="Administrator">
-  <link href="http://www.applebottoms.com/templates/apple_bottoms/favicon.ico" rel="shortcut icon" type="image/x-icon">
+<html><head><script>
 
 
-<!--[if lte IE 6]>
-<link href="http://www.applebottoms.com/templates/apple_bottoms/css/ieonly.css" rel="stylesheet" type="text/css" />
-<![endif]-->
+function emailCheck (emailStr) {
+
+/* The following variable tells the rest of the function whether or not
+to verify that the address ends in a two-letter country or well-known
+TLD.  1 means check it, 0 means don't. */
+
+var checkTLD=1;
+
+/* The following is the list of known TLDs that an e-mail address must end with. */
+
+var knownDomsPat=/^(com|net|org|edu|int|mil|gov|arpa|biz|aero|name|coop|info|pro|museum)$/;
+
+/* The following pattern is used to check if the entered e-mail address
+fits the user@domain format.  It also is used to separate the username
+from the domain. */
+
+var emailPat=/^(.+)@(.+)$/;
+
+/* The following string represents the pattern for matching all special
+characters.  We don't want to allow special characters in the address. 
+These characters include ( ) < > @ , ; : \ " . [ ] */
+
+var specialChars="\\(\\)><@,;:\\\\\\\"\\.\\[\\]";
+
+/* The following string represents the range of characters allowed in a 
+username or domainname.  It really states which chars aren't allowed.*/
+
+var validChars="\[^\\s" + specialChars + "\]";
+
+/* The following pattern applies if the "user" is a quoted string (in
+which case, there are no rules about which characters are allowed
+and which aren't; anything goes).  E.g. "jiminy cricket"@disney.com
+is a legal e-mail address. */
+
+var quotedUser="(\"[^\"]*\")";
+
+/* The following pattern applies for domains that are IP addresses,
+rather than symbolic names.  E.g. joe@[123.124.233.4] is a legal
+e-mail address. NOTE: The square brackets are required. */
+
+var ipDomainPat=/^\[(\d{1,3})\.(\d{1,3})\.(\d{1,3})\.(\d{1,3})\]$/;
+
+/* The following string represents an atom (basically a series of non-special characters.) */
+
+var atom=validChars + '+';
+
+/* The following string represents one word in the typical username.
+For example, in john.doe@somewhere.com, john and doe are words.
+Basically, a word is either an atom or quoted string. */
+
+var word="(" + atom + "|" + quotedUser + ")";
+
+// The following pattern describes the structure of the user
+
+var userPat=new RegExp("^" + word + "(\\." + word + ")*$");
+
+/* The following pattern describes the structure of a normal symbolic
+domain, as opposed to ipDomainPat, shown above. */
+
+var domainPat=new RegExp("^" + atom + "(\\." + atom +")*$");
+
+/* Finally, let's start trying to figure out if the supplied address is valid. */
+
+/* Begin with the coarse pattern to simply break up user@domain into
+different pieces that are easy to analyze. */
+
+var matchArray=emailStr.match(emailPat);
+
+if (matchArray==null) {
+
+/* Too many/few @'s or something; basically, this address doesn't
+even fit the general mould of a valid e-mail address. */
+
+alert("Email address seems incorrect (check @ and .'s)");
+return false;
+}
+var user=matchArray[1];
+var domain=matchArray[2];
+
+// Start by checking that only basic ASCII characters are in the strings (0-127).
+
+for (i=0; i<user.length; i++) {
+if (user.charCodeAt(i)>127) {
+alert("The email username contains invalid characters.");
+return false;
+   }
+}
+for (i=0; i<domain.length; i++) {
+if (domain.charCodeAt(i)>127) {
+alert("The email domain name contains invalid characters.");
+return false;
+   }
+}
+
+// See if "user" is valid 
+
+if (user.match(userPat)==null) {
+
+// user is not valid
+
+alert("The email username doesn't seem to be valid.");
+return false;
+}
+
+/* if the e-mail address is at an IP address (as opposed to a symbolic
+host name) make sure the IP address is valid. */
+
+var IPArray=domain.match(ipDomainPat);
+if (IPArray!=null) {
+
+// this is an IP address
+
+for (var i=1;i<=4;i++) {
+if (IPArray[i]>255) {
+alert("Email Destination IP address is invalid!");
+return false;
+   }
+}
+return true;
+}
+
+// Domain is symbolic name.  Check if it's valid.
+ 
+var atomPat=new RegExp("^" + atom + "$");
+var domArr=domain.split(".");
+var len=domArr.length;
+for (i=0;i<len;i++) {
+if (domArr[i].search(atomPat)==-1) {
+alert("The email domain name does not seem to be valid.");
+return false;
+   }
+}
+
+/* domain name seems valid, but now make sure that it ends in a
+known top-level domain (like com, edu, gov) or a two-letter word,
+representing country (uk, nl), and that there's a hostname preceding 
+the domain or country. */
+
+if (checkTLD && domArr[domArr.length-1].length!=2 && 
+domArr[domArr.length-1].search(knownDomsPat)==-1) {
+alert("The email address must end in a well-known domain or two letter " + "country.");
+return false;
+}
+
+// Make sure there's a host name preceding the domain.
+
+if (len<2) {
+alert("This email address is missing a hostname!");
+return false;
+}
+
+// If we've gotten this far, everything's valid!
+return true;
+}
+</script>
+
+<script language="JavaScript1.2" type="text/javascript">
+ function CreateBookmarkLink(url) {
+
+ title = "Apple Bottoms"; 
+  // Blogger - Replace with <$BlogItemTitle$> 
+  // MovableType - Replace with <$MTEntryTitle$>
+
+ //url = "http://www.gotmyshoes.com";
+  // Blogger - Replace with <$BlogItemPermalinkURL$> 
+  // MovableType - Replace with <$MTEntryPermalink$>
+  // WordPress - <?php bloginfo('url'); ?>
+
+      if (window.sidebar) { // Mozilla Firefox Bookmark
+            window.sidebar.addPanel(title, url,"");
+      } else if( window.external ) { // IE Favorite
+            window.external.AddFavorite( url, title); }
+      else if(window.opera && window.print) { // Opera Hotlist
+            return true; }
+ }
 
 
-<!-- SENTO CODE -->
-<!-- <script language="JavaScript" src="https://s3.amazonaws.com/sento/cxp_prototype.js"></script> -->
-<!-- /SENTO CODE -->
-<meta http-equiv="imagetoolbar" content="false">
-</head>
-<body>
-<a name="up" id="up"></a>
-<!-- Start page wrapper -->
-<div align="center" class="clearfix">
-	<!-- Start main outline -->
-	<div id="outline" class="clearfix">
-		<!-- Start header -->
-		<div id="header">
-			<div id="logoinner">
-			<a href="index.php" class="logolink"></a>		
-			</div>
-			<div id="headerinner">
-			<div id="headersearch">
-				<form name="topSearchForm" action="index.php" method="post">
-					<input type="hidden" name="option" value="com_shop">
-					<input type="hidden" name="view" value="search">
-					<input type="hidden" name="Itemid" value="111">
-					<input type="text" class="search_field" name="search" value="search" onclick="this.value=''"><input type="image" src="templates/apple_bottoms/images/submit_search.gif">
-				</form>
-			</div>
-			<div id="headermenu">
-				<ul id="mainlevel-top"><li><a href="http://www.applebottoms.com/index.php?option=com_contactus&amp;Itemid=129" class="mainlevel-top">CALL 1-800-637-9594</a></li><li><a href="http://www.applebottoms.com/index.php?option=com_shop&amp;task=account&amp;do=tracking&amp;Itemid=63" class="mainlevel-top">TRACK YOUR ORDER</a></li><li><a href="#" onclick="javascript: window.open('https://server.iad.liveperson.net/hc/16847762/?cmd=file&amp;file=visitorWantsToChat&amp;site=16847762&amp;byhref=1&amp;SESSIONVAR!skill=applebottoms.com%20pre-sales&amp;imageUrl=https://www.applebottoms.com/images/liveperson', '', 'toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=780,height=550'); return false" class="mainlevel-top">Live Help</a>
-</li><li><a href="http://www.applebottoms.com/index.php?option=com_shop&amp;task=checkout&amp;Itemid=66" class="mainlevel-top">Cart</a></li></ul>
-			</div>
-			<div id="headerseason">
-				 		
-			</div>		
-			</div>	
-		</div>
-		<!-- End header -->
+</script>
+<script language="JavaScript">
+			var width,height
+			var image,ext
+			var cond1,cond2
+			function transferview(image,width,height,txt,title) {
+			if (width==0) cond1=" "
+			else cond1="width="+(width+20)+"";
+			if (height==0) {cond2=" "};
+			else {cond2="height="+(height+70)+""};
+			
+			var s1 ="<HTML><HEAD><BODY bgcolor='#a30000'><TITLE>"+title+"</TITLE>"
+			var s15=""
+			var s2 ="<CENTER><IMG SRC='"+image+"' BORDER=0><BR><BR><SPAN STYLE='font-family:Arial;color:white;font-size:15px;'>"+txt+"</SPAN>"
+			var s3 ="<FORM><INPUT TYPE='BUTTON' VALUE='Close Window'"+ " onClick='self.close()'>"
+			var s4 ="</FORM></CENTER></BODY></HEAD></HTML>"
+			
+			ImageWindow=window.open("", "newwin"+width,"toolbar=no,scrollbars=yes,menubar=no,"+cond1+","+cond2);//"+scroll+"
+			ImageWindow.document.write(s1+s15+s2+s3+s4)
+			ImageWindow.document.close()
+			}
+</script>
 
-		<!-- Start body outline -->
-		<div id="bodyouline" class="clearfix">
-			<div id="leftcolumnoutline">
-				<div id="leftcolumninner">
-							<div class="moduletable_menu">
-					<ul class="mainmenu">
-<li class="level1 item1 parent"><a href="http://www.applebottoms.com/index.php?option=com_shop&amp;view=category&amp;id=159&amp;Itemid=131">» Shop Women</a></li>
-<li class="level1 item2 parent"><a href="http://www.applebottoms.com/index.php?option=com_shop&amp;view=category&amp;Itemid=38">»&nbsp;Shop Women Plus</a></li>
-<li class="level1 item3 parent"><a href="http://www.applebottoms.com/index.php?option=com_shop&amp;view=category&amp;Itemid=44">»&nbsp;Shop Girls</a></li>
-<li class="level1 item4 parent"><a href="http://www.applebottoms.com/index.php?option=com_shop&amp;view=category&amp;id=168&amp;Itemid=156">» Shop Accessories</a></li>
-<li class="level1 item5"><a href="http://www.applebottoms.com/index.php?option=com_shop&amp;view=category&amp;id=131&amp;Itemid=120">» Shop Sleepwear</a></li>
-<li class="level1 item6 parent"><a href="http://www.applebottoms.com/index.php?option=com_content&amp;view=article&amp;id=14&amp;Itemid=100">»&nbsp;Lifestyle</a></li>
-<li class="level1 item7"><a href="http://www.applebottoms.com/index.php?option=com_shop&amp;view=search&amp;Itemid=111">» Search</a></li>
-</ul>
-		</div>
-			<div class="moduletable_other">
-					<ul class="othermenu-other">
-<li class="level1 item1"><a href="http://www.applebottoms.com/index.php?option=com_shop&amp;Itemid=67">BUY A GIFT CARD</a></li>
-<li class="level1 item2"><a href="http://www.applebottoms.com/index.php?option=com_mailinglist&amp;Itemid=68">JOIN OUR MAILING LIST</a></li>
-<li class="level1 item3"><a href="http://www.applebottoms.com/index.php?option=com_shop&amp;task=account&amp;do=tracking&amp;Itemid=69">TRACK YOUR ORDER</a></li>
-<li class="level1 item4"><a href="http://www.applebottoms.com/index.php?option=com_view&amp;Itemid=70">CUSTOMER SERVICE</a></li>
-<li class="level1 item5"><a href="http://www.applebottoms.com/index.php?option=com_contactus&amp;Itemid=71">CONTACT US</a></li>
-<li class="level1 item6"><a href="javascript:void window.open('http://www.applebottoms.com/index2.php?option=com_content&amp;view=article&amp;Itemid=105','targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,top=50,left=50,height=300,width=300')">GUARANTEE SAME DAY SHIPPING- ON ALL ORDERS</a></li>
-<li class="level1 item7"><a href="http://www.applebottoms.com/index.php?option=com_siteindex&amp;Itemid=73">SITE MAP</a></li>
-</ul>
-		</div>
+<script>
+var t 
+var ct
+	function ScrollUp(div_id){
+		if (document.getElementById(div_id).scrollTop>0) {
+		document.getElementById(div_id).scrollTop =  document.getElementById(div_id).scrollTop -1;
+		t=setTimeout("ScrollUp('"+div_id+"');",1);
+		}
+	}
+	function ScrollDown(div_id){
+		if (document.getElementById(div_id).scrollTop < document.getElementById(div_id).scrollHeight) {
+		document.getElementById(div_id).scrollTop =  document.getElementById(div_id).scrollTop +1;
+		t=setTimeout("ScrollDown('"+div_id+"');",1);
+		}
+	}
+	function CheckArrow(table_id, div_id){
+	 if ( document.getElementById(div_id).scrollHeight <  parseInt(document.getElementById(div_id).style.height.replace(/px/,''))){
+	 	document.getElementById(table_id).style.display = 'none';
+		}
+	}
 	
+	
+</script>
+
+
+<script language="JavaScript" type="text/javascript">
+<!--
+	function changelink_switch(){
+			document.all._switch.style.color='#FF9933'; 
+			document.all._switch.style.textDecoration='none';
+			document.all._blue.style.color='#00479C'; 
+			document.all._blue.style.textDecoration='none';
+		}
+		
+		function changeback_switch(){
+			document.all._switch.style.color='#990000'; 
+			document.all._switch.style.textDecoration='none';
+			document.all._blue.style.color='#990000'; 
+			document.all._blue.style.textDecoration='none';
+		}
+		
+			function changelink_blue(){
+			document.all._blue.style.color='#00479C'; 
+			document.all._blue.style.textDecoration='none';
+			document.all._switch.style.color='#FF9933'; 
+			document.all._switch.style.textDecoration='none';
+		}
+		
+		function changeback_blue(){
+			document.all._blue.style.color='#990000'; 
+			document.all._blue.style.textDecoration='none';
+			document.all._switch.style.color='#990000'; 
+			document.all._switch.style.textDecoration='none';
+		}
+		//-->
+</script>
+
+
+	<title>Apple Bottoms</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body id="main_body" onload="" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" bgcolor="#000000" style="margin:auto; padding:0px;">
+<table cellpadding="0" cellspacing="0" border="0" align="center" height="100%">
+	<tbody><tr valign="top">
+	<script type="text/javascript">
+
+		function containsDOM (container, containee) {
+		  var isParent = false;
+		  do {
+		    if ((isParent = container == containee))
+		      break;
+		    containee = containee.parentNode;
+		  }
+		  while (containee != null);
+		  return isParent;
+		}
+		
+		function checkMouseEnter (element, evt) {
+		  if (element.contains && evt.fromElement) {
+		    return !element.contains(evt.fromElement);
+		  }
+		  else if (evt.relatedTarget) {
+		    return !containsDOM(element, evt.relatedTarget);
+		  }
+		}
+		
+		function checkMouseLeave (element, evt) {
+		  if (element.contains && evt.toElement) {
+		    return !element.contains(evt.toElement);
+		  }
+		  else if (evt.relatedTarget) {
+		    return !containsDOM(element, evt.relatedTarget);
+		  }
+		}
+
+</script>
+
+	<script>
+				var i 
 				
-				</div>			
-			</div>
-			<div id="maincolumnoutline" class="clearfix">
-			﻿				<div id="componentoutline">
-					<div id="componentpromoslot">
-					 
-					</div>
+				
+		var ctimeru
+		var ctimerd
+		var ranonce
+		ranonce = "0";
+		i = 0
+				function RollDown(){
+					if ( i <=114)
+						{
+						ranonce = "1";
+						i +=1;
+						document.getElementById('test').style.top=document.getElementById('test').offsetTop +1;
+						ctimerd=setTimeout("RollDown();",1);
+						}
+					//else{ clearTimer(ctimer);}
+				}
+				function RollUp(){
+					if ( i >-21)
+						{
+						i -=1;
+						document.getElementById('test').style.top=document.getElementById('test').offsetTop -1;
+						ctimeru=setTimeout("RollUp();",1);
+						}
+					//else{ clearTimer(ctimer);}
+				}
+				</script>
+		<td><span id="press_span" onmouseout="if (checkMouseLeave(this, event)) {document.getElementById('press_img_id').src='images/s_press.gif';document.getElementById('dropdownpress').style.display='none';}">
+						</span><table cellpadding="0" cellspacing="0" border="0">
+			<tbody><tr>
+				<td><a href="default.asp"><img src="images/s_logo.jpg" border="0"></a></td>
+				<td><a target="_blank" href="http://shop.applebottoms.com/shop.php"><img src="images/s_hey_ladies.gif" border="0"></a></td>
+				
+					<td><a href="company.asp"><img src="images/s_company.gif" border="0"></a>
+					</td>
+				
+					<td><a href="whats_good.asp"><img src="images/s_whats_good.gif" border="0"></a>
+					</td>
+				
+					<td><a href="get_it_poppin.asp"><img src="images/s_get_it_poppin.gif" border="0"></a>
+					</td>
+				
+					<td><a href="nearest_store.asp"><img src="images/s_nearest_store.gif" border="0"></a>
+					</td>
+				
+					<!--<span onmouseover="RollDown();" onmouseout="clearTimer(ctimerd);RollUp();"id="press_span">-->
+					<td valign="top"><a href="press.asp"></a>
+						<img onmouseover="if (checkMouseEnter(this, event)) {document.getElementById('press_img_id').src='images/press_off.jpg';document.getElementById('dropdownpress').style.display='';}" id="press_img_id" onclick="window.location.href='press.asp';" src="images/s_press.gif" style="position:relative;z-index:200;cursor:hand;cursor:pointer;" border="0">
+						<!--<div style="position:absolute;"><div style="position:absolute;top:-21;left:-106px;z-index:100;"  id="test">-->
+						<div style="position:absolute;"><div style="display: none; position: absolute; top: 0px; left: 5px; z-index: 100;" id="dropdownpress">
+						<table onmouseout="if (checkMouseLeave(this, event)) {document.getElementById('press_img_id').src='images/s_press.gif';document.getElementById('dropdownpress').style.display='none';}" cellpadding="0" cellspacing="0" border="0">
+								
+								<tbody><tr>
+									<td><img onclick="window.location.href='press.asp?menu=as_seen_in';" style="cursor:hand;cursor:pointer;" id="as_seen_in_id" onmouseover="document.getElementById('as_seen_in_id').src = 'images/as_seen_in_on.gif';" onmouseout="document.getElementById('as_seen_in_id').src = 'images/as_seen_in.gif';" src="images/as_seen_in.gif"></td>
+								</tr>
+								
+								<tr>
+									<td><img onclick="window.location.href='press.asp?menu=campaigns';" style="cursor:hand;cursor:pointer;" id="campaigns_id" onmouseover="document.getElementById('campaigns_id').src = 'images/campaigns_on.gif';" onmouseout="document.getElementById('campaigns_id').src = 'images/campaigns.gif';" src="images/campaigns.gif"></td>
+								</tr>
+								
+								<tr>
+									<td><img onclick="window.location.href='press.asp?menu=gallery';" style="cursor:hand;cursor:pointer;" id="gallery_id" onmouseover="document.getElementById('gallery_id').src = 'images/gallery_on.gif';" onmouseout="document.getElementById('gallery_id').src = 'images/gallery.gif';" src="images/gallery.gif"></td>
+								</tr>
+								
+								<tr>
+									<td><img onclick="window.location.href='press.asp?menu=nelly';" style="cursor:hand;cursor:pointer;" id="nelly_id" onmouseover="document.getElementById('nelly_id').src = 'images/nelly_on.gif';" onmouseout="document.getElementById('nelly_id').src = 'images/nelly.gif';" src="images/nelly.gif"></td>
+								</tr>
+								
+						</tbody></table></div></div>
 					
-					<div id="breadcrumboutline">
-					<div class="breadcrumbsinline">
-					<span class="breadcrumbs pathway">
-Privacy Policy</span>
-					</div>
-					<div class="paginationinline">
-					 
-					</div>					
-					</div>
-					
-					<div class="clr"></div>
-					<div id="componentinner">
-					
-
-
-<table class="contentpaneopen">	
-
-
-
-
-<tbody><tr>
-<td valign="top" colspan="2">
-<div class="title">PRIVACY POLICY</div>
-
-<p>Apple Bottoms respects your privacy.  Accordingly, it has adopted the following privacy policy.  This policy notifies you of:</p>
+					</td>
+				
+					<td><a href="hook_it_up.asp"><img src="images/s_hook_it_up.gif" border="0"></a>
+					</td>
+				
+				
+			</tr>
+		</tbody></table></td>
+	</tr>
+	
+	<!-- top = 93 -->
+	<tr valign="top">
+		<td valign="top" width="899px">
+		<!--include file="pagedynamix.asp"-->
+<table cellpadding="0" cellspacing="0" border="0">
+	<tbody><tr>
+		<td style="background-image: url(images/privacy_policy_background.jpg);background-repeat: no-repeat;"><table cellpadding="0" cellspacing="0" border="0">
+			<tbody><tr>
+				<td><img src="images/spacer.gif" width="1" height="215"></td>
+			</tr>
+			<tr>
+				<td width="50"><img src="images/spacer.gif" width="50" height="1"></td>
+				<td width="799"><table cellpadding="0" cellspacing="0" border="0">
+					<tbody><tr>
+						<td><p>Apple Bottoms respects your privacy.  Accordingly, it has adopted the following privacy policy.  This policy notifies you of:</p>
 
 <ul><li>what personally identifiable information of yours is collected from you through our Web site,</li>
 	<li>the organization collecting the information,</li>
@@ -128,7 +408,7 @@ Privacy Policy</span>
 	<li>the kind of procedures we employ in an effort to hinder the unauthorized access, deletion, alteration, use or disclosure of information you provide to Apple Bottoms, and</li>
 	<li>how you can correct any inaccuracies in the information you provide to us.</li></ul>
 
-<p>If you have questions or concerns regarding this statement, you should contact us by <a href="index.php?option=com_contactus&amp;Itemid=71">emailing us</a> or by calling 1-800-637-9594</p>
+<p>If you have questions or concerns regarding this statement, you should contact us by <a style="color:#FFFFFF" href="contact.asp">emailing us</a> or by calling 1-800-637-9594</p>
 
 <div class="title">SCOPE OF POLICY</div>
 
@@ -154,7 +434,7 @@ Privacy Policy</span>
 
 <div class="title">MANAGING YOUR INFORMATION</div>
 
-<p>You are entitled to request access to and correction of all your personal data collected by us via this Web site, as well as to require us to delete your data if you no longer want us to process it.  You can make such a request or a related inquiry by <a href="index.php?option=com_contactus&amp;Itemid=71">emailing us</a> or by calling 1-800-637-9594. Please note that there may be a small charge for making an access request or it may be free, depending on the circumstances.  You can find out more details by emailing or calling us as provided above.  We will keep your data as long as it is reasonably necessary for the purposes described in this Statement.  You may choose not to receive unsolicited marketing material from Apple Bottoms and you have the right to request deletion of your Apple Bottoms account information, subject to Apple Bottoms's need to keep appropriate archives of its business operations.</p>
+<p>You are entitled to request access to and correction of all your personal data collected by us via this Web site, as well as to require us to delete your data if you no longer want us to process it.  You can make such a request or a related inquiry by <a style="color:#FFFFFF" href="contact.asp">emailing us</a> or by calling 1-800-637-9594. Please note that there may be a small charge for making an access request or it may be free, depending on the circumstances.  You can find out more details by emailing or calling us as provided above.  We will keep your data as long as it is reasonably necessary for the purposes described in this Statement.  You may choose not to receive unsolicited marketing material from Apple Bottoms and you have the right to request deletion of your Apple Bottoms account information, subject to Apple Bottoms's need to keep appropriate archives of its business operations.</p>
 
 <div class="title">SECURITY</div>
 
@@ -176,96 +456,54 @@ Privacy Policy</span>
 
 <p>This site contains hypertext links to sites that are not created or maintained by Apple Bottoms.  This Privacy Policy applies only to this Web site and not to any of these third party Web sites.  Apple Bottoms is not responsible for the accuracy, relevance, timeliness, or completeness of those third party sites.  The inclusion of any link to such sites does not imply endorsement, sponsorship, or recommendation by Apple Bottoms of the site.  Apple Bottoms disclaims any liability for links (1) from another Web site to applebottoms.com and (2) to another Web site from applebottoms.com.  Apple Bottoms cannot guarantee the standards of any Web site to which links are provided on this site nor shall Apple Bottoms be held responsible for the contents of non-Apple Bottoms sites, or any subsequent links.  For this reason, Apple Bottoms does not represent or warrant that the contents of any third party Web site is accurate, compliant with state or federal law, or compliant with copyright or other intellectual property laws.  Apple Bottoms does not endorse the contents of these third party Web sites in any way.  Also, Apple Bottoms is not responsible for web casting or any other form of transmission received from any linked Web site. Any reliance on the contents of a third party Web site is done at your own risk and you assume all responsibilities and consequences resulting from such reliance.</p>
 
+<br><br><br>
 </td>
-</tr>
-
-
-
+					</tr>
+				</tbody></table></td>
+				<td width="50"><img src="images/spacer.gif" width="50" height="1"></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
 </tbody></table>
-<span class="article_separator">&nbsp;</span>
+</td>
+	</tr>
+	<tr>
+		<td height="100%"></td>
+	</tr>
+	<tr valign="bottom">
+		<td><table cellpadding="0" cellspacing="0" border="0">
+		
+			<form name="emailForm" id="emailForm" method="get" onsubmit="return emailCheck(document.getElementById('email').value);"></form>
+			<tbody><tr valign="top">
+				<td><img style="cursor:hand;cursor:pointer;" onclick="CreateBookmarkLink('http://dev.blueswitch.com//privacy_policy.asp?');" src="images/d_get_it_live.gif"></td>
+				<td><img src="images/d_sign_up.gif"></td>
+				<td><table cellpadding="0" cellspacing="0" border="0">
+					<tbody><tr>
+						<td><img src="images/spacer.gif" width="142" height="7"></td>
+					</tr>
+					<tr>
+						<td><input type="text" onclick="if (document.getElementById('email').value == 'Enter Email Address') {document.getElementById('email').value='';}" id="email" name="email" style="width:142px;border-style:none;background-color:cccccc;color:666666;font-size:11px;" value="Enter Email Address"></td>
+						<input type="hidden" name="mailing_list" value="true">
+					</tr>
+				</tbody></table></td>
+				<td><input type="image" name="email_list" src="images/d_enter.gif"></td>
+				<td><a target="_blank" href="http://www.myspace.com/officialapplebottoms"><img src="images/d_my_space.gif" border="0"></a></td>
+			</tr>
+			
+		</tbody></table></td>
+	</tr>
+	<tr valign="bottom">
+		<td style="color:990000;" align="center"><a href="privacy_policy.asp" style="color:999999;">Privacy Policy</a>&nbsp;&nbsp;&nbsp;Copyright&nbsp;©&nbsp;2007&nbsp;AppleBottoms.  Powered by <a href="http://www.blueswitch.com" class="blueswitch" target="_newguy" name="_blue" onmouseover="javascript:changelink_switch();" onmouseout="javascript:changeback_switch();">Blue</a><a href="http://www.blueswitch.com" class="blueswitch" target="_newguy" name="_switch" onmouseover="javascript:changelink_blue();" onmouseout="javascript:changeback_blue();">Switch</a>.<br><br></td>
+	</tr>
+</tbody></table>
 
-					</div>
-				</div>
-				
-				<div id="bottomoutline">
-					 
-					
-				</div>
-				
-				<div id="footeroutline">
-					<div id="footermenu">
-					<ul id="mainlevel-bottom"><li><a href="http://www.applebottoms.com/index.php?option=com_contactus&amp;Itemid=71&amp;Itemid=71" class="mainlevel-bottom">Contact Us</a></li><li><a href="http://www.applebottoms.com/index.php?option=com_view&amp;Itemid=70&amp;Itemid=70" class="mainlevel-bottom">Customer Service</a></li><li><a href="http://www.applebottoms.com/index.php?option=com_content&amp;view=article&amp;id=5&amp;Itemid=59" class="mainlevel-bottom" id="active_menu-bottom">Privacy Policy</a></li><li><a href="http://www.applebottoms.com/index.php?option=com_shop&amp;Itemid=67&amp;Itemid=67" class="mainlevel-bottom">Gift Card</a></li><li><a href="http://www.applebottoms.com/index.php?option=com_shop&amp;Itemid=75" class="mainlevel-bottom">Store Locator</a></li></ul>
-					</div>
-					<div id="copyrighttext">
-					© Copyright 2005 Apple Bottoms
-					</div>
-					
-					<div id="poweredby">
-					<a href="http://www.efashionsolutions.com" target="_blank">
-					<img src="templates/apple_bottoms/images/poweredby.gif" align="right" border="0">
-					</a>
-					</div>
-				</div>
-	
-			</div>	
-		</div>
-		<!-- End body outline -->
-<div class="clr"></div>	
-		<br>
-		<br>
-	</div>
-	<!-- End main outline -->
-<div class="clr"></div>
-</div>
-<!-- End page wrapper -->
-<!-- OMN -->
-<script language="JavaScript"><!--
-var s_account="efashionapplebottomscom";
-//--></script>
-
-<script language="JavaScript" src="modules/mod_ef_analytics/assets/s_code.js"></script>
-<script language="JavaScript"><!--
-s.server="10.168.0.173";
-s.pageName="Privacy Policy";
-s.channel="Content";
-s.prop1="";
-s.prop2="";
-s.prop3="";
-s.prop4="";
-s.prop5="";
-/* E-commerce Variables */
-s.campaign="";
-s.state="";
-s.zip="";
-s.events="";
-s.products="";
-s.purchaseID="";
-s.eVar1="";
-s.eVar2="";
-s.eVar3="";
-s.eVar4="";
-s.eVar5="";
-
-var s_code=s.t();
-if(s_code)document.write(s_code);//--></script>
-<script language="JavaScript"><!--
-if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-');
-//--></script>
-<!-- /OMN --><!-- BEGIN Monitor Tracking Variables  -->
-<script language="JavaScript1.2">
-if (typeof(tagVars) == "undefined") tagVars = "";
-tagVars += "&SESSIONVAR!skill=applebottoms.com%20pre-sales";
-</script>
-<!-- End Monitor Tracking Variables  -->
-
-<!-- BEGIN HumanTag Monitor. DO NOT MOVE! MUST BE PLACED JUST BEFORE THE /BODY TAG -->
-<script language="javascript" src="https://server.iad.liveperson.net/hc/16847762/x.js?cmd=file&amp;file=chatScript3&amp;site=16847762&amp;imageUrl=https://www.applebottoms.com/images"> </script>
-<!-- END HumanTag Monitor. DO NOT MOVE! MUST BE PLACED JUST BEFORE THE /BODY TAG -->
-
-<!-- ***  CLICK TRACKING CODE 3.0 *** -->
-<script language="JavaScript" type="text/javascript" src="https://keywordmax.com/tracking/show.php?id=417467038&amp;location=Privacy Policy"></script>
-<noscript><img src="https://keywordmax.com/tracking/log.php?id=417467038&loc=Privacy Policy" border="0" width="1" height="1"></noscript>
-<!-- ^^^ CLICK TRACKING CODE 3.0 ^^^ -->
-
-
-</body></html>
+			
+<script>
+if (navigator.appName == 'Netscape'){
+		document.getElementById('dropdownpress').style.left = 5;
+		document.getElementById('dropdownpress').style.top = 0;
+		//document.getElementById('press_img_id').src='images/press_off.jpg';
+		//document.getElementById('dropdownpress').style.display='';
+		//top:93;left:-106px;
+	} //	
+</script></body></html>
