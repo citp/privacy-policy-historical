@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bulliondirect.com privacy policy that was archived on 2007-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070605081413id_/http%3A//www.bulliondirect.com/articles/privacyPolicy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bulliondirect.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226192617id_/http%3A//www.bulliondirect.com/articles/privacyPolicy.do) for the most accurate reproduction.*
 
 # Bullion Direct: Privacy Policy
 
