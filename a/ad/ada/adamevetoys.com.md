@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adamevetoys.com privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618032046id_/http%3A//www.adamevetoys.com/t-faq.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adamevetoys.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226032041id_/http%3A//www.adamevetoys.com/t-faq.aspx) for the most accurate reproduction.*
 
 # Frequently Asked Questions
 
@@ -35,13 +35,13 @@ Adameve.com uses personally identifiable information collected from you to compl
 
  Financial information (credit card numbers, credit card expiration dates, billing address, and so forth) is used solely to bill you for products and services and we make every effort to keep your information secure from theft or fraud.
 
- You may, from time to time, receive information from us regarding new features, new products and services and special offers we think you'll find valuable. Also, while we won't share your email address with other companies, we may rent, sell or exchange your mailing address and information about your transactions with businesses that we believe to be reputable and that can provide you with offers and information that we think will be of interest to you. If you'd like to opt out of receiving future mailings from Adameve.com, or if you would like to opt out of Adameve.com providing your mailing address to third parties, please follow the procedure outlined in the Choice/Opt-out section below.
+ You may, from time to time, receive information from us regarding new features, new products and services and special offers we think you'll find valuable. Also, while we won't share your email address with other companies, we may rent, sell or exchange your postal mailing address and information about your transactions with businesses that we believe to be reputable and that can provide you with offers and information that we think will be of interest to you. If you'd like to opt out of receiving future mailings from Adameve.com, or if you would like to opt out of Adameve.com providing your postal mailing address to third parties, please follow the procedure outlined in the Choice/Opt-out section below.
 
  Adameve.com also may use your personally identifiable information to "pre-populate" forms that are used by the Site to facilitate transactions with us and save you from entering every data field on the checkout.
 
  Special instances when we might use personally identifiable information are discussed below.
 
-As noted above, we collect personally identifiable information regarding gift recipients and people to whom you may wish to give gifts in the future. This is done in order to accommodate proper gift delivery to such recipients and remind you of upcoming gift-giving occasions. We do not sell or rent any personally identifiable information that you provide to us regarding such persons, but gift recipients may, from time to time, receive offers from us regarding new features, new products and services and special offers we think they will find of interest. Also we may send marketing offers to gift recipients on behalf of ourselves and our business partners. In connection with such offers, we allow gift recipients to opt out of receiving future marketing-related mailings from us, as discussed in the section below.  
+As noted above, we collect personally identifiable information regarding gift recipients and people to whom you may wish to give gifts in the future. This is done in order to accommodate proper gift delivery to such recipients and remind you of upcoming gift-giving occasions. We do not sell or rent any personally identifiable information that you provide to us regarding such persons, but gift recipients may, from time to time, receive offers from us via postal mailings regarding new features, new products and services and special offers we think they will find of interest. Also we may send marketing offers via postal mailings to gift recipients on behalf of ourselves and our business partners. In connection with such offers, we allow gift recipients to opt out of receiving future marketing-related postal mailings from us, as discussed in the section below.  
    
 Service Providers 
 
@@ -86,7 +86,42 @@ Carrboro, NC 27510
 
 .
 
-[Top](http://www.adamevetoys.com/t-faq.aspx#top)• [Security](http://www.adamevetoys.com/t-faq.aspx#security)• [My Favorites](http://www.adamevetoys.com/t-faq.aspx#wishlist)• [Guide to Safe Sex](http://www.adamevetoys.com/t-faq.aspx#safe)
+Email Preferences  
+
+
+Opt In Learn More: Question and Answers
+
+If the box is checked, what type of emails will I receive from Adam & Eve?
+
+  
+Exclusives, Sales & Special Offers, Newsletters: Get the scoop on weekly promotional events, email exclusive discounts and more.  
+
+
+Don’t forget you can unsubscribe from Adam & Eve Email at any time from any Email we send or you can update your email preferences in your [My Account](http://www.adamevetoys.com/MyAccount.aspx).
+
+How do I ensure I continue to receive Adam & Eve e-mails in my personal inbox?  
+To make sure you continue to receive Adam & Eve e-mails in your personal in box (not bulk or junk folders), please take a moment to add [aespecial@adameve.rsys1.com](mailto:aespecial@adameve.rsys1.com) and [custserv@adameve.com](mailto:custserv@adameve.com) to your e-mail address book.
+
+If I uncheck the box will I still receive emails from Adam & Eve?   
+You will no longer receive any type of marketing or promotional emails, however for every purchase you make you may receive the following types of emails: 
+
+Order Updates & Confirmations  
+Online Shipping Confirmations
+
+Customer Service Inquires
+
+How do I opt out of emails from Adam & Eve?  
+If you provide our website with your e-mail address, you may receive e-mails from us. If you do not want to receive marketing or promotional e-mails from us, please click on the unsubscribe link in any Adam & Eve email or update your email preferences in your [My Account](http://www.adamevetoys.com/MyAccount.aspx).
+
+If I have an online account, how do I change my email address with Adam & Eve?  
+If you have an AdamEve.com Web site account and wish to update your e-mail address, please enter your changes under "Manage My Email and Catalog Notifications" in [My Account](http://www.adamevetoys.com/MyAccount.aspx).   
+
+
+What happens if I have multiple e-mail addresses?  
+Email subscription preference is at the email address level.  For each email address Adam & Eve allows you to have individual subscription preferences.
+
+Can I create an online account and not receive marketing or promotional emails from Adam & Eve?  
+Yes, by un-checking the email address subscription preference box and clicking submit you will still create an online account; however you will not receive sales and special offers from Adam & Eve.  [Click here to create an online account now.](https://www.adamevetoys.com/CreateAccount.aspx)
 
   * How can I contact customer service? 
 
@@ -191,7 +226,7 @@ Follow this link to your [My Account](http://sfadmin/AE/sfcontrol/https://www.ad
 
 * * *
 
-[Top](http://www.adamevetoys.com/t-faq.aspx#top)• [Customer Service](http://www.adamevetoys.com/t-faq.aspx#custserv)• [My Favorites](http://www.adamevetoys.com/t-faq.aspx#wishlist)• [Guide to Safe Sex](http://www.adamevetoys.com/t-faq.aspx#safe)
+[Top](http://www.adamevetoys.com/t-faq.aspx#top)• [Email Opt-In FAQ](http://www.adamevetoys.com/t-faq.aspx#email) • [Customer Service](http://www.adamevetoys.com/t-faq.aspx#custserv)• [My Favorites](http://www.adamevetoys.com/t-faq.aspx#wishlist)• [Guide to Safe Sex](http://www.adamevetoys.com/t-faq.aspx#safe)
 
 This Site Is Secure For Credit Card Transactions
 
@@ -239,7 +274,7 @@ As far as we know, not a single dollar has been lost to electronic theft of a cr
 
 When you shop on-line with a merchant who offers a Secure Server, all the information you give (name, address,credit card number) is encrypted. That means your information goes out as code. If a hacker could get it, it would likely be gibberish. Your credit card never leaves your hand, it is never picked up by monitors or scanners, and receipts are never found in a trash can. 
 
-[Top](http://www.adamevetoys.com/t-faq.aspx#top) • [Customer Service](http://www.adamevetoys.com/t-faq.aspx#custserv) • [Security](http://www.adamevetoys.com/t-faq.aspx#security) • [Guide to Safe Sex](http://www.adamevetoys.com/t-faq.aspx#safe)
+[Top](http://www.adamevetoys.com/t-faq.aspx#top) • [Email Opt-In FAQ](http://www.adamevetoys.com/t-faq.aspx#email) • [Customer Service](http://www.adamevetoys.com/t-faq.aspx#custserv) • [Security](http://www.adamevetoys.com/t-faq.aspx#security) • [Guide to Safe Sex](http://www.adamevetoys.com/t-faq.aspx#safe)
 
 My Favorites Frequently Asked Questions
 
@@ -270,7 +305,7 @@ You can create 1 My Favorites list.
 
 > Sometimes items get removed from our online database or we no longer carry them. So, in order to make things as easy as possible for you, we remove them from the online catalog entirely, including your favorites list. If we bring the item back, then we'll make sure to return it to your favorites list! 
 
-[Top](http://www.adamevetoys.com/t-faq.aspx#top) • [Customer Service](http://www.adamevetoys.com/t-faq.aspx#custserv) • [Security](http://www.adamevetoys.com/t-faq.aspx#security) • [My Favorites](http://www.adamevetoys.com/t-faq.aspx#wishlist) • [Guide to Safe Sex](http://www.adamevetoys.com/t-faq.aspx#safe)
+[Top](http://www.adamevetoys.com/t-faq.aspx#top) • [Email Opt-In FAQ](http://www.adamevetoys.com/t-faq.aspx#email) • [Customer Service](http://www.adamevetoys.com/t-faq.aspx#custserv) • [Security](http://www.adamevetoys.com/t-faq.aspx#security) • [My Favorites](http://www.adamevetoys.com/t-faq.aspx#wishlist) • [Guide to Safe Sex](http://www.adamevetoys.com/t-faq.aspx#safe)
 
 Guide to Safe Sex
 
