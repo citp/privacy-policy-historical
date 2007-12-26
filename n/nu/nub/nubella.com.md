@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nubella.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629045817id_/http%3A//www.nubella.com/content/view/1786/79) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nubella.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226034000id_/http%3A//www.nubella.com/content/view/1786/79) for the most accurate reproduction.*
 
-# Nubella | Good Nutrition, Good Food - Privacy Statement
+# Nubella
 
 **Nubella Privacy Statement**  
 
