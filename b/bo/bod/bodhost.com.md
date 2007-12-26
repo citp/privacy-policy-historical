@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bodhost.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626112433id_/http%3A//www.bodhost.com/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bodhost.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226175616id_/http%3A//www.bodhost.com/privacy_policy.shtml) for the most accurate reproduction.*
 
-# Privacy Policy | Website
+# Privacy Policy
 
 This Privacy Policy governs the manner in which BOD Host collects, uses, stores, archives, and discloses information collected from users of this Website. Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. 
 
