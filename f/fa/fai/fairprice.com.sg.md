@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fairprice.com.sg privacy policy that was archived on 2007-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070605045845id_/http%3A//www.fairprice.com.sg/Corporate.aspx%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fairprice.com.sg privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226193218id_/http%3A//www.fairprice.com.sg/Corporate.aspx%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
 
 # FairPrice Online
 
