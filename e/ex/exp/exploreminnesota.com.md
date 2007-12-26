@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the exploreminnesota.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206012850id_/http%3A//www.exploreminnesota.com/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exploreminnesota.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226234842id_/http%3A//www.exploreminnesota.com/content.aspx%3Fsect%3Dprv) for the most accurate reproduction.*
 
-# Privacy Policy
-
-### PRIVACY STATEMENT 
+# Privacy Statement
 
 Explore Minnesota Tourism (EMT) is committed to maintaining a web site that protects the individual's right to privacy. We do not require personal information from our visitors, nor do we collect any personally identifying information (name, email address, Social Security number, or other unique identifier) unless you knowingly provide it. 
 
@@ -20,18 +18,12 @@ To aid in web site management, certain information is collected for statistical 
 
 Information we collect about your visit may include:
 
- 
-  *     the web site from which you linked directly to our web site, if you have used another web site to reach our site
- 
-  *     the IP address of the computer from which you connect to our pages
- 
-  *     the operating system and web browser you use to view pages
- 
-  *     the date and time you accessed our web site
- 
-  *     the pages you visit during your site
- 
-  *     the searches you execute
+  * the web site from which you linked directly to our web site, if you have used another web site to reach our site
+  * the IP address of the computer from which you connect to our pages
+  * the operating system and web browser you use to view pages
+  * the date and time you accessed our web site
+  * the pages you visit during your site
+  * the searches you execute
 
 
 
@@ -45,18 +37,12 @@ Like many web sites, exploreminnesota.com makes use of cookies, pieces of inform
 
 We will link to external sites that help us perform our mission - "to promote and facilitate travel to and within the state of Minnesota." 
 
- 
-  *     Explore Minnesota Tourism provides links to individual tourism-related businesses and organizations within Minnesota. In addition, we reserve the right to provide links to external servers with whom Explore Minnesota Tourism is partnered or conducting promotional activities; or to sites that offer non-biased information that may be useful to those who travel in Minnesota.
- 
-  *     Links to external servers do not imply any official Explore Minnesota Tourism endorsement of the opinions or ideas expressed therein, or guarantee the validity of the information provided. Links to commercial sites are in no way an endorsement of any vendor's products or services. 
- 
-  *     Links will be provided to external servers that are managed in a professional manner (i.e., it is fully operational, is available most of the time, does not serve inaccurate information or obscene graphics, etc.). 
- 
-  *     This server will not link to external servers if such a link would appear to provide an official endorsement of a commercial product or business.
- 
-  *     All requests for links will be reviewed by Explore Minnesota Tourism's senior communications manager prior to approval.
- 
-  *     Placement of any link is at the discretion of Explore Minnesota Tourism.
+  * Explore Minnesota Tourism provides links to individual tourism-related businesses and organizations within Minnesota. In addition, we reserve the right to provide links to external servers with whom Explore Minnesota Tourism is partnered or conducting promotional activities; or to sites that offer non-biased information that may be useful to those who travel in Minnesota.
+  * Links to external servers do not imply any official Explore Minnesota Tourism endorsement of the opinions or ideas expressed therein, or guarantee the validity of the information provided. Links to commercial sites are in no way an endorsement of any vendor's products or services. 
+  * Links will be provided to external servers that are managed in a professional manner (i.e., it is fully operational, is available most of the time, does not serve inaccurate information or obscene graphics, etc.). 
+  * This server will not link to external servers if such a link would appear to provide an official endorsement of a commercial product or business.
+  * All requests for links will be reviewed by Explore Minnesota Tourism's senior communications manager prior to approval.
+  * Placement of any link is at the discretion of Explore Minnesota Tourism.
 
 
 
@@ -76,15 +62,9 @@ Webmasters are welcome and encouraged to link to the Explore Minnesota Tourism t
 
 The Explore Minnesota Tourism logo is our official "trademark." Its use is reserved for official publications or other products of Explore Minnesota Tourism. Use of this logo without prior written approval is prohibited. 
 
- 
-  *     You must include the Explore Minnesota logo graphic with copyright (©) symbol intact, or the text ExploreMinnesota.com © with copyright symbol intact. 
- 
-  *     You must describe the link as the Explore Minnesota Tourism travel information website, or words to that effect. 
- 
-  *     Special permission is required for any other use of Explore Minnesota logos. For permission, and for access to print-quality electronic files, contact Bob.Erler@state.mn.us.
- 
-  *     Contact James Riemermann, 651/297-2077, james.riemermann@state.mn.us, with any questions. 
+  * You must include the Explore Minnesota logo graphic with copyright (©) symbol intact, or the text ExploreMinnesota.com © with copyright symbol intact. 
+  * You must describe the link as the Explore Minnesota Tourism travel information website, or words to that effect. 
+  * Special permission is required for any other use of Explore Minnesota logos. For permission, and for access to print-quality electronic files, contact Bob.Erler@state.mn.us.
+  * Contact James Riemermann, 651/297-2077, james.riemermann@state.mn.us, with any questions. 
 
 
-
-Last updated: November, 2006 
