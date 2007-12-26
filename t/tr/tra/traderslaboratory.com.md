@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the traderslaboratory.com privacy policy that was archived on 2007-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070430160521id_/http%3A//www.traderslaboratory.com/forums/view.php%3Fpg%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traderslaboratory.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226115344id_/http%3A//www.traderslaboratory.com/index.php%3Fpage%3Dprivacystatement) for the most accurate reproduction.*
 
-# Traders Laboratory - Traders Laboratory Website Privacy Statement
+# Traders Laboratory - Website Privacy Statement
 
 This document was last updated on July 15th, 2006. 
 
 1\. Acknowledgement and acceptance of terms 
 
-Your privacy is important to us. Traders Laboratory is committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. By accessing TradersTutorial.com, you acknowledge and fully understand Traders Laboratory's Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Statement. 
+Your privacy is important to us. Traders Laboratory is committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. By accessing TradersLaboratory.com, you acknowledge and fully understand Traders Laboratory's Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Statement. 
 
 2\. Participating Merchant Policies 
 
@@ -22,11 +22,11 @@ Traders Laboratory may use cookies to personalize or enhance your user experienc
 
 One of the primary purposes of cookies is to provide a convenience feature to save you time. For example, if you personalize a web page, or navigate within a site, a cookie helps the site to recall your specific information on subsequent visits. Hence, this simplifies the process of delivering relevant content and eases site navigation by providing and saving your preferences and login information as well as providing personalized functionality. 
 
-Traders Laboratory reserves the right to share aggregated site statistics with partner companies, but does not allow other companies to place cookies on our website unless there is a temporary, overriding customer value (such as merging into TraderTutorial.com a site that relies on third-party cookies). 
+Traders Laboratory reserves the right to share aggregated site statistics with partner companies, but does not allow other companies to place cookies on our website unless there is a temporary, overriding customer value (such as merging into TradersLaboratory.com a site that relies on third-party cookies). 
 
 You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you reject cookies by changing your browser settings then be aware that this may disable some of the functionality on our Website. 
 
-Personal Information Users 
+4\. Personal Information Users 
 
 Visitors to our website can register to purchase services. When you register, we will request some personal information such as name, address, email, telephone number or facsimile number, account number and other relevant information. If you are purchasing a service, we will request financial information. Any financial information we collect is used only to bill you for the services you purchased. If you purchase by credit card, this information may be forwarded to your credit card provider. For other types of registrations, we will ask for the relevant information. You may also be asked to disclose personal information to us so that we can provide assistance and information to you. For example, such data may be warranted in order to provide online technical support and troubleshooting. 
 
@@ -34,20 +34,20 @@ We will not disclose personally identifiable information we collect from you to 
 
 To fulfill your service requests for services. To protect ourselves from liability, To respond to legal process or comply with law, or In connection with a merger, acquisition, or liquidation of the company. 
 
-4\. Use of Web Beacons or GIF files 
+5\. Use of Web Beacons or GIF files 
 
-TradersTutorial.com Web pages may contain electronic images known as Web beacons ? sometimes also called single-pixel gifs ? that allow Traders Laboratory to count users who have visited those pages and to deliver co-branded services. Traders Laboratory may include Web beacons in promotional e-mail messages or newsletters in order to determine whether messages have been opened and acted upon. 
+TradersLaboratory.com Web pages may contain electronic images known as Web beacons ? sometimes also called single-pixel gifs ? that allow Traders Laboratory to count users who have visited those pages and to deliver co-branded services. Traders Laboratory may include Web beacons in promotional e-mail messages or newsletters in order to determine whether messages have been opened and acted upon. 
 
 Some of these Web beacons may be placed by third party service providers to help determine the effectiveness of our advertising campaigns or email communications. These Web beacons may be used by these service providers to place a persistent cookie on your computer. This allows the service provider to recognize your computer each time you visit certain pages or emails and compile anonymous information in relation to those page views, which in turn enables us and our service providers to learn which advertisements and emails bring you to our website and how you use the site. Traders Laboratory prohibits Web beacons from being used to collect or access your personal information. 
 
-5\. Accessing Web Account Information 
+6\. Accessing Web Account Information 
 
-We will provide you with the means to ensure that personally identifiable information in your web account file is correct and current. You may review this information by contacting us by sending an email to our support attendant --[insert email address]. 
+We will provide you with the means to ensure that personally identifiable information in your web account file is correct and current. You may review this information by contacting us by sending an email to our support attendant at support@traderslaboratory.com. 
 
-6\. Changes to this Statement 
+7\. Changes to this Statement 
 
 Traders Laboratory has the discretion to occasionally update this privacy statement. When we do, we will also revise the ?updated? date at the top of this Privacy page. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this privacy statement and any updates. 
 
-7\. Contacting Us 
+8\. Contacting Us 
 
-If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please [contact us](http://www.traderslaboratory.com/forums/sendmessage.php). Traders Laboratory will use commercially reasonable efforts to promptly respond and resolve any problem or question. 
+If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please [contact us](http://www.traderslaboratory.com/forums/sendmessage.php). Traders Laboratory will use reasonable efforts to promptly respond and resolve any problem or question. 
