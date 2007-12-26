@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the siue.edu privacy policy that was archived on 2007-04-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070429200718id_/http%3A//www.siue.edu/misc/privacy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the siue.edu privacy policy that was archived on 2007-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071226144935id_/http%3A//www.siue.edu/misc/privacy.shtml) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -12,7 +12,7 @@
 
 <link rel="stylesheet" type="text/css" media="screen" href="/marketingadmin/root_css/screenInstitution.css">
 <link rel="stylesheet" type="text/css" media="screen" href="">
-<link rel="stylesheet" type="text/css" media="print" href="/marketingadmin/root_css/print.css&#10;">
+<link rel="stylesheet" type="text/css" media="print" href="/marketingadmin/root_css/print.css">
 
 <link rel="search" type="application/opensearchdescription+xml" href="http://www.siue.edu/search/plugins/siue.xml" title="Search SIUE">
 </head>
@@ -24,44 +24,49 @@
 <br>
 <!--Begin Header-->
 
+<!--Begin Header-->
 <div class="hdrContainer">
     <div class="boxRedLogo"><a href="http://www.siue.edu"><img border="0" alt="Southern Illinois University Edwardsville" src="/img/siue_logo.gif"></a></div>
-    <div class="hdrSectionA">
-        <div class="hdrSectionAb">
-            <h2 style="position: absolute; left: -200em; top:-20em;">Main Site Navigation</h2>
-            <ul>
-                <li class="red"><a href="/apply/index.shtml">Apply Now!</a></li>
-                <li class="grey"><a href="/about/index.shtml">About SIUE</a></li>
-                <li class="grey"><a href="/contact/index.shtml">Contact SIUE</a></li>
-                <li class="grey"><a href="/maps/index.shtml">Maps &amp; Directions</a></li>
-                <li class="grey"><a href="/search/index.shtml">Search SIUE</a>&nbsp;</li>
-            </ul>
-        </div>
-<br class="clear">
-        <div class="hdrSectionAc">
-            <form onsubmit="return(redirectSearch())" name="redirect_search" action="" id="redirect_search">
-                <ul class="search">
-                    <li><label for="search_categories"><select onchange="document.redirect_search.whitepages.value=''; return(redirectSearch())" name="search_type" class="search" id="search_categories"><option selected="selected" value="siuegoogle">SIUE (Google™)</option> <option value="students">SIUE Students</option> <option value="employees">SIUE Employees</option> <option value="eid">SIUE Email/e-ID</option> <option value="more">more...</option> </select></label></li>
-                    <li><label for="search_text"><input name="whitepages" class="search" value="<< Quick Search" onfocus="this.value=''" id="search_text"></label></li>
-                    <li class="searchBtn"><a href="http://www.siue.edu/contact/index.shtml#" onclick="return(redirectSearch())"><img border="0" class="searchButton" alt="graphic" src="/img/gra_search.gif"></a></li>
-                </ul>
-            </form>
-        </div>
-    </div>
-    <div class="hdrImg"></div>
+    <div class="boxRedApply"><a href="http://www.siue.edu/apply" class="linkWht">Apply Now!</a></div>
     <div class="hdrBrdrContainer">
         <div class="hdrBrdr">
-            <div class="hdrBrdrFill"></div>
-        </div>
+<!--Search Container-->
+            <div class="searchContainer">
+<h2 style="position: absolute; left: -200em; top:-20em;">Search Options</h2>
+                <ul><li><a href="#" onclick="JB_searchGoogle()"><img border="0" alt="Google" src="/img/btn_googleON.gif" id="img_searchGoogle"></a></li><li><a href="#" onclick="JB_searchPeople()"><img border="0" alt="People" src="/img/btn_peopleOFF.gif" id="img_searchPeople"></a></li><li><a href="#" onclick="JB_searchAZ()"><img border="0" alt="A–Z Index" src="/img/btn_azindexOFF.gif" id="img_searchAZ"></a></li><li><a href="#" onclick="JB_searchOffices()"><img border="0" alt="Offices" src="/img/btn_officesOFF.gif" id="img_searchOffices"></a></li><li><a href="http://www.siue.edu/search/"><img border="0" alt="Google" src="/img/btn_arrowOFF.gif"></a></li></ul>
+                <div class="searchBoxGoogle" id="searchBoxGoogle">
+                    <div align="center">
+                        <form onsubmit="return(googleSearch())" name="searchFormGoogle" action="" id="searchFormGoogle" method="post"><label class="mainlinkHeader">Search: <input name="inputFormGoogle" size="33" type="text" value="keyword or phrase" onfocus="this.value=''" id="inputFormGoogle"></label> <a href="#" onclick="return(googleSearch())"><img border="0" style="margin-bottom:-9px;" alt="Search" src="/img/btn_search.gif"></a></form>
+                    </div>
+                </div>
+                <div class="searchBoxPeople" id="searchBoxPeople">
+                    <div align="center">
+                        <form onsubmit="return(peopleSearch())" name="searchFormPeople" action="" id="searchFormPeople" method="post"><label class="mainlinkHeader">Search: <input name="inputFormPeople" size="33" type="text" value="LastName,FirstName" onfocus="this.value=''" id="inputFormPeople"></label> <a href="#" onclick="return(peopleSearch())"><img border="0" style="margin-bottom:-9px;" alt="Search" src="/img/btn_search.gif"></a></form>
+                    </div>
+                </div>
+                <div class="searchBoxAZ" id="searchBoxAZ">
+                    <div class="AZlist">
+                        <div align="center"><a href="http://www.siue.edu/search/azindex/a.shtml" class="linkSearch">A</a> <a href="http://www.siue.edu/search/azindex/b.shtml" class="linkSearch">B</a> <a href="http://www.siue.edu/search/azindex/c.shtml" class="linkSearch">C</a> <a href="http://www.siue.edu/search/azindex/d.shtml" class="linkSearch">D</a> <a href="http://www.siue.edu/search/azindex/e.shtml" class="linkSearch">E</a> <a href="http://www.siue.edu/search/azindex/f.shtml" class="linkSearch">F</a> <a href="http://www.siue.edu/search/azindex/g.shtml" class="linkSearch">G</a> <a href="http://www.siue.edu/search/azindex/h.shtml" class="linkSearch">H</a> <a href="http://www.siue.edu/search/azindex/i.shtml" class="linkSearch">I</a> <a href="http://www.siue.edu/search/azindex/j.shtml" class="linkSearch">J</a> <a href="http://www.siue.edu/search/azindex/k.shtml" class="linkSearch">K</a> <a href="http://www.siue.edu/search/azindex/l.shtml" class="linkSearch">L</a> <a href="http://www.siue.edu/search/azindex/m.shtml" class="linkSearch">M</a> <a href="http://www.siue.edu/search/azindex/n.shtml" class="linkSearch">N</a> <a href="http://www.siue.edu/search/azindex/o.shtml" class="linkSearch">O</a> <a href="http://www.siue.edu/search/azindex/p.shtml" class="linkSearch">P</a> <a href="http://www.siue.edu/search/azindex/q.shtml" class="linkSearch">Q</a> <a href="http://www.siue.edu/search/azindex/r.shtml" class="linkSearch">R</a> <a href="http://www.siue.edu/search/azindex/s.shtml" class="linkSearch">S</a> <a href="http://www.siue.edu/search/azindex/t.shtml" class="linkSearch">T</a> <a href="http://www.siue.edu/search/azindex/u.shtml" class="linkSearch">U</a> <a href="http://www.siue.edu/search/azindex/v.shtml" class="linkSearch">V</a> <a href="http://www.siue.edu/search/azindex/w.shtml" class="linkSearch">W</a> <a href="http://www.siue.edu/search/azindex/x.shtml" class="linkSearch">X</a> <a href="http://www.siue.edu/search/azindex/y.shtml" class="linkSearch">Y</a> <a href="http://www.siue.edu/search/azindex/z.shtml" class="linkSearch">Z</a></div>
+                    </div>
+                </div>
+                <div class="searchBoxOffices" id="searchBoxOffices">
+                    <div class="AZlist">
+                        <div align="center"><a href="http://www.siue.edu/IRS/a.html" class="linkSearch">A</a> <a href="http://www.siue.edu/IRS/b.html" class="linkSearch">B</a> <a href="http://www.siue.edu/IRS/c.html" class="linkSearch">C</a> <a href="http://www.siue.edu/IRS/d.html" class="linkSearch">D</a> <a href="http://www.siue.edu/IRS/e.html" class="linkSearch">E</a> <a href="http://www.siue.edu/IRS/f.html" class="linkSearch">F</a> <a href="http://www.siue.edu/IRS/g.html" class="linkSearch">G</a> <a href="http://www.siue.edu/IRS/h.html" class="linkSearch">H</a> <a href="http://www.siue.edu/IRS/i.html" class="linkSearch">I</a> <a href="http://www.siue.edu/IRS/j.html" class="linkSearch">J</a> <a href="http://www.siue.edu/IRS/k.html" class="linkSearch">K</a> <a href="http://www.siue.edu/IRS/l.html" class="linkSearch">L</a> <a href="http://www.siue.edu/IRS/m.html" class="linkSearch">M</a> <a href="http://www.siue.edu/IRS/n.html" class="linkSearch">N</a> <a href="http://www.siue.edu/IRS/o.html" class="linkSearch">O</a> <a href="http://www.siue.edu/IRS/p.html" class="linkSearch">P</a> <a href="http://www.siue.edu/IRS/q.html" class="linkSearch">Q</a> <a href="http://www.siue.edu/IRS/r.html" class="linkSearch">R</a> <a href="http://www.siue.edu/IRS/s.html" class="linkSearch">S</a> <a href="http://www.siue.edu/IRS/t.html" class="linkSearch">T</a> <a href="http://www.siue.edu/IRS/u.html" class="linkSearch">U</a> <a href="http://www.siue.edu/IRS/v.html" class="linkSearch">V</a> <a href="http://www.siue.edu/IRS/w.html" class="linkSearch">W</a> <a href="http://www.siue.edu/IRS/x.html" class="linkSearch">X</a> <a href="http://www.siue.edu/IRS/y.html" class="linkSearch">Y</a> <a href="http://www.siue.edu/IRS/z.html" class="linkSearch">Z</a></div>
+                    </div>
+                </div>
+            </div>
+<!--End Search Container-->        </div>
     </div>
     <h2 style="position: absolute; left: -200em; top:-20em;">Secondary Site Navigation</h2>
-    <ul>
-        <li><a href="/news/index.shtml">SIUE News</a></li>
-        <li><a href="http://events.siue.edu/siuevents/">Calendars &amp; Events</a></li>
-        <li><a href="/academics/index.shtml">Academics</a></li>
+    <ul class="globalLinks">
+        <li class="toplink"><a href="http://www.siue.edu/about/index.shtml">About SIUE</a></li>
+        <li class="toplink"><a href="http://www.siue.edu/academics/index.shtml">Academics &amp; Library</a></li>
+        <li class="toplink"><a href="http://www.siue.edu/maps/index.shtml">Maps &amp; Directions</a></li>
+        <li class="toplink"><a href="http://www.siue.edu/news/index.shtml">News</a></li>
+        <li class="toplink"><a href="http://events.siue.edu/siuevents/">Calendar &amp; Events</a></li>
     </ul>
 </div>
-<br class="clear"> <br> <br>
+<br class="clear"><br><br><!--End Header-->
 
 
 <!--End Header-->
@@ -123,8 +128,15 @@
 <!--Footer-->
 <br>
 <div class="footerContainer">
+<div class="web">
   <hr size="1" noshade="noshade">
-  <div class="xcaption">© 2007, <a href="http://www.siue.edu">Southern Illinois University Edwardsville</a> | Last modified on 04/04/07 10:09:27 | <a href="/misc/privacy.shtml">Privacy Policy</a> | For Questions or Help <a href="http://www.siue.edu/contact/index.shtml">Contact Us</a>
+  <div class="xcaption">© 2007, <a href="http://www.siue.edu">Southern Illinois University Edwardsville</a> | Last modified on 12/20/07 13:11:07 | <a href="/misc/privacy.shtml">Privacy Policy</a> | <a href="http://www.siue.edu/misc/copyright.shtml">Copyright Information</a> | <a href="http://www.siue.edu/contact/index.shtml">Contact SIUE</a> | <a href="http://www.siue.edu/misc/rss.shtml">RSS</a>
+</div>
+</div>
+<div class="print">
+  <hr noshade="noshade" size="1">
+  <div class="xcaption">© 2007, <a linkindex="32" href="http://www.siue.edu/">Southern Illinois University Edwardsville</a> | http://www.siue.edu/misc/privacy.shtml | Last modified on 12/20/07 13:11:07
+</div>
 </div>
 </div>
 <!--End Footer-->
