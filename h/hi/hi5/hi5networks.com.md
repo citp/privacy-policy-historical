@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hi5networks.com privacy policy that was archived on 2007-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070418195936id_/http%3A//www.hi5.com/friend/displayPrivacy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hi5networks.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226200132id_/http%3A//www.hi5.com/friend/displayPrivacy.do) for the most accurate reproduction.*
 
 # hi5 - Who's in?
 
@@ -79,10 +79,10 @@ We do not intentionally gather Personal Information about visitors who are under
 Should you have any questions or concerns regarding this Privacy Policy, please contact us:
 
             hi5 Networks, Inc.  
-            455 Market St., Suite 910  
+            55 2nd St., Suite 300  
             San Francisco, CA 94105  
             USA  
-            Attn: General Counsel
+            Attn: Privacy Department
 
  **Changes to this Privacy Policy**  
 hi5 may update this policy from time to time. We will notify you about significant changes in the way we treat Personal Information by sending a notice to the primary email address specified in your hi5 account or by placing a prominent notice on our Website. If you object to any such changes, you must cease using our Website. Continued use of our Website following notice of any such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes.
