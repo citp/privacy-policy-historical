@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winkflash.com privacy policy that was archived on 2007-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070616215358id_/http%3A//www.winkflash.com/content/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winkflash.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226211738id_/http%3A//www.winkflash.com/content/privacy.asp) for the most accurate reproduction.*
 
 # winkflash ;) your privacy is our top priority
 
@@ -8,7 +8,7 @@ Privacy Policy
 Truste  
 [](http://www.truste.org/ivalidate.php?url=www.winkflash.com&sealid=101) Winkflash (owned and operated by Qualguard/XLC Corp) is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site http://www.winkflash.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
 
-If you have questions or concerns regarding this statement, you should first [contact us](https://web.archive.org/web/20070616215358id_/http%3A//www.winkflash.com/content/contact.asp). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with us to resolve your concerns. 
+If you have questions or concerns regarding this statement, you should first [contact us](https://web.archive.org/web/20071226211738id_/http%3A//www.winkflash.com/content/contact.asp). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with us to resolve your concerns. 
 
 The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from this site. 
 
@@ -54,7 +54,7 @@ What Information is Collected
 When creating an account we collect contact information, such as your name and email address. When making a purchase we will collect shipping and billing address, phone number and credit card information. We collect this information in order to create an online account to house your digital photos and to allow you to purchase items from the website. 
 
 Access to Personally Identifiable Information  
-If your personally identifiable information changes, or if you no longer desire our service, you may update or deactivate your account by making the change on our account information page or by [contacting us.](https://web.archive.org/web/20070616215358id_/http%3A//www.winkflash.com/content/contact.asp)
+If your personally identifiable information changes, or if you no longer desire our service, you may update or deactivate your account by making the change on our account information page or by [contacting us.](https://web.archive.org/web/20071226211738id_/http%3A//www.winkflash.com/content/contact.asp)
 
 Changes to this Policy  
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our homepage. 
