@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aboutbritain.com privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618212508id_/http%3A//www.aboutbritain.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aboutbritain.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226163934id_/http%3A//www.aboutbritain.com/Privacy.htm) for the most accurate reproduction.*
 
 # AboutBritain.com - Terms and Copyright
 
@@ -23,7 +23,7 @@ Our online hotel reservation facilities are provided under an agreement with Sup
 
 AboutBritain.com contains many links to external sites operated by third parties. We have no control over those sites, and are not responsible for the privacy practices or content of third-party sites. 
 
-If you have any questions regarding our privacy policy, please contact [editor@aboutbritain.com](mailto:editor@aboutbritain.com)
+If you have any questions regarding our privacy policy, please [contact AboutBritain.com](https://web.archive.org/Contacts.asp)
 
  [Copyright](http://www.aboutbritain.com/TermsAndCopyright.htm) © 1999-2007 Excelsior Information Systems Limited. All rights reserved.  
 [Press Room](http://www.aboutbritain.com/PressRoom.asp)  [Terms of Use](http://www.aboutbritain.com/TermsAndCopyright.htm)  [Privacy](http://www.aboutbritain.com/Privacy.htm)  [Link to Us](http://www.aboutbritain.com/LinkToUs.asp)  [Self-Catering Advertising](http://www.aboutbritain.com/advertising/self-catering.htm)  [Index](http://www.aboutbritain.com/index/index-a.asp)  [Site Map](http://www.aboutbritain.com/sitemap.asp)
