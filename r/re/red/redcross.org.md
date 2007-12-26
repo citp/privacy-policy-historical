@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redcross.org privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630054106id_/https%3A//www.redcross.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redcross.org privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226055033id_/http%3A//www.redcross.org/privacy) for the most accurate reproduction.*
 
 # American Red Cross
 
@@ -13,7 +13,7 @@ National Headquarters
 Office of the General Counsel  
 2025 E Street NW  
 Washington D.C. 20006  
-or e-mail us at [info@usa.redcross.org](mailto:info@usa.redcross.org) 
+or e-mail us by completing [this form](https://web.archive.org/contactusform/). 
 
 
 We are available to answer your questions or hear your concerns. 
@@ -22,7 +22,7 @@ We are available to answer your questions or hear your concerns.
 The American Red Cross uses its best efforts to respect and protect the privacy of our online visitors and donors. We will not share your e-mail address with third parties.  
 
 
-The American Red Cross may share _financial donor_ postal mailing lists with other non-profits for a one-time use by the other non-profit. If you are a financial donor to the American Red Cross, you may request that we withhold your mailing information from any list exchanges with other non-profits. Please e-mail us at [findev@usa.redcross.org](mailto:findev@usa.redcross.org). In the subject field, type "Do Not Exchange" and provide us your name, e-mail or postal address depending on how you made your contribution to our organization. American Red Cross lists are never sold to third parties.  
+The American Red Cross may share _financial donor_ postal mailing lists with other non-profits for a one-time use by the other non-profit. If you are a financial donor to the American Red Cross, you may request that we withhold your mailing information from any list exchanges with other non-profits. Please e-mail us by completing [this form](https://web.archive.org/findevform/).  
 
 
 **Is Credit Card Information Secure?**  
@@ -32,7 +32,7 @@ We care about the safety and security of your transaction. We use high grade enc
 Yes. The same high grade encryption and https security protocols used for financial transactions on our site are used in collecting personal information to schedule your blood donation. Blood donations may also be scheduled by calling 1-800-GIVE-LIFE or your local American Red Cross Blood Services Region. 
 
 **We Care About Doing It Right**  
-In addition to maintaining privacy and security controls over information you share with us, the American Red Cross works to accurately process your contribution information. During business hours, staff are available to answer questions about your financial donation or scheduled blood donation at [info@usa.redcross.org](mailto:info@usa.redcross.org). 
+In addition to maintaining privacy and security controls over information you share with us, the American Red Cross works to accurately process your contribution information. During business hours, staff are available to answer questions about your financial donation or scheduled blood donation by completing [this form](https://web.archive.org/contactusform/). 
 
 The American Red Cross employs error checking procedures to make certain transactions are processed completely and accurately. As necessary, changes are made to improve our systems. And, independent external and internal audits are conducted to ensure the privacy, security and appropriate processing of your information on our site. 
 
@@ -42,6 +42,6 @@ Visitors should be aware that non-personal information and data may be automatic
 **Note to Parents on Our Privacy Policy**  
 The American Red Cross welcomes children to learn more about our organization and, where appropriate, find opportunities to serve their communities through American Red Cross training programs and volunteer activities. However, we encourage this to be done only with their parent's knowledge and supervision. For this reason, the American Red Cross follows the guidelines for interactive electronic media published by the Children's Advertising Review Unit of the Better Business Bureau. 
 
-Thank you for visiting our site. Please [contact us](mailto:info@usa.redcross.org) should you have any questions about the operation of the site. 
+Thank you for visiting our site. Please [contact us](https://web.archive.org/contactusform/) should you have any questions about the operation of the site. 
 
 Revised September 7, 2004 
