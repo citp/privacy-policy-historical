@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tickle.com privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609012255id_/http%3A//web.tickle.com/rd/42814/about/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tickle.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226230954id_/http%3A//web.tickle.com/about/privacy.jsp) for the most accurate reproduction.*
 
 # Tickle: Put Life To The Test
 
@@ -23,18 +23,9 @@ Tickle is an online media company that brings you fun, insightful, and personali
 
 We want to give you information that you care about and that is relevant to you. So, we enter into a voluntary relationship with you where we listen to who you are, and what you want. Then we go out and find it and bring it back to you in the most personalized services possible. It's that simple, and it's that cool — our emails and services are all about you and the data you disclose to us makes it possible to deliver what you truly want.
 
-[](http://www.truste.org/ivalidate.php?url=www.tickle.com&sealid=101)
-
-Tickle is a member of the TRUSTe Privacy Program. License updated on August 9, 2004.
-
-TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
-
-Questions regarding this statement should be directed to Tickle's Privacy Director at Tickle Inc., 222 Sutter Street, 5th Floor, San Francisco, CA 94108, (800) 908-3008, [privacy@tickle-inc.com](mailto:privacy@tickle-inc.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with the Web site to resolve your concerns. The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site. To understand Tickle's information practices when you visit our site at http://web.tickle.com, please read our privacy policy below. It may be updated from time to time so please check back periodically. 
-
 What types of information does Tickle collect?  
 How does Tickle use or disclose my information?  
 How do I control or change my information?  
-Tell me about the Open Group Tests.  
 What are cookies and how does Tickle use them?  
 How does Tickle keep my information secure?  
 What privacy policies cover the ads on your site?  
@@ -48,7 +39,7 @@ Trademark notice
 **What types of information does Tickle collect?**  
 Many of the ways in which you interact with our site allow us to learn more about you. We collect both personal and public information when you become a member of Tickle. 
 
-Personal information includes your email address and self-created password. This information is considered personally identifiable and will not be displayed on our site. Special provisions apply to the Open Group Tests. See the "Tell me about the Open Group Tests" section below. 
+Personal information includes your email address and self-created password. This information is considered personally identifiable and will not be displayed on our site. 
 
 Public information is information that helps us to personalize your Tickle experience. Public information may include, but is not limited to, member-submitted information such as your username, first name, last name, gender, age, height, lifestyle information, geographic location, and photo. Much of this information is optional, and meant to be seen by members to support the function of the site as a social networking service.
 
@@ -58,7 +49,7 @@ We collect and store certain technical and other information about the online ac
 
 When you become a member of Tickle, your name and email address will be linked to your testing information. If you prefer to not link the testing information to your personal information, you may delete the test in the "[Tests Taken](https://web.archive.org/net/account/profile/index.html)" section of your profile. As a registered member, you can choose to receive our email newsletter. Tickle may use URL tracking in the emails sent to you. When you open such email messages, our system may record the following data: the time you viewed the email and the URLs that you clicked on from that email. Tickle will also record if your email program is capable of receiving HTML-encoded email. URL tracking may use cookies. 
 
-Tickle uses this information to assess or modify our content in these emails. Tickle may use this information in an aggregated, statistical form to describe our audience and services on our site to third parties (i.e., anyone or any entity who is not an employee, agent, or subsidiary of Tickle). If you send an email or submit any information to our customer support staff, we will retain your email or other information for the time necessary to respond to you. Special provisions apply to the Open Group Tests. See the "Tell me about the Open Group Tests" section below. Tickle also uses cookies as described in more detail below. 
+Tickle uses this information to assess or modify our content in these emails. Tickle may use this information in an aggregated, statistical form to describe our audience and services on our site to third parties (i.e., anyone or any entity who is not an employee, agent, or subsidiary of Tickle). If you send an email or submit any information to our customer support staff, we will retain your email or other information for the time necessary to respond to you. 
 
 From time-to-time we will request information from members via surveys. Participation in these surveys is completely voluntary and you therefore have a choice whether or not to disclose this information. Information requested may include contact information such as name and demographic information (such as zip code and age). 
 
@@ -98,26 +89,13 @@ Once you become a member of Tickle, your personal information is stored in the "
 
 Your test answers and results will be stored with your personal information and can be viewed in the "[Your Account](https://web.archive.org/account/)" and "[Tests Taken](https://web.archive.org/net/account/profile/index.html)" section of your profile.
 
-Your profile information (city, state, photos, and optional profile information) and tests results will be made viewable to other members unless you choose to keep them private. You may make your profile private by clicking the "Private" link in "[Your Account](https://web.archive.org/account/)" and can make your test results private by clicking the "Private" link beneath each test in "[Tests Taken](https://web.archive.org/net/account/profile/index.html)" section of your profile. You may separate your test answers from your personal information at any time by deleting your tests from the "[Tests Taken](https://web.archive.org/net/account/profile/index.html)" section of your profile. Special provisions apply to the Open Group Tests. See the "Tell me about the Open Group Tests" section below.
+Your profile information (city, state, photos, and optional profile information) and tests results will be made viewable to other members unless you choose to keep them private. You may make your profile private by clicking the "Private" link in "[Your Account](https://web.archive.org/account/)" and can make your test results private by clicking the "Private" link beneath each test in "[Tests Taken](https://web.archive.org/net/account/profile/index.html)" section of your profile. You may separate your test answers from your personal information at any time by deleting your tests from the "[Tests Taken](https://web.archive.org/net/account/profile/index.html)" section of your profile.
 
-If you have created a profile on our social networking service, you can make edits to the public information, which may be displayed there, by going to the "My Account" section of your Networking Profile section of the site.
+You can make edits to your profile information by going to the "My Account" section of the site.
 
-In addition, our social networking service allows you to control which members have the ability to contact you, and which members have the ability to view specific information in your profile. You can utilize these controls at any time by going to your [Access Settings](http://connect.tickle.com/profile/index.html).
-
-Your test answers and results will be stored with your personal information and can be viewed in the [My Tests](https://web.archive.org/account/tests/) section of our site. You may separate your test answers from your personal information at any time by deleting your tests from [My Tests](https://web.archive.org/account/tests/). Special provisions apply to the Open Group Tests. See the "Tell me about the Open Group Tests" section below. 
+Your test answers and results will be stored with your personal information and can be viewed in the [You](https://web.archive.org/net/account/profile/index.html) section of our site. You may separate your test answers from your personal information at any time by deleting your tests from [My Tests](https://web.archive.org/account/tests/).
 
 As part of your membership, Tickle will send you product and service offerings we think you'll be interested in via email. If you do not want to participate in the programs we offer to you, simply go to [My Subscriptions](https://web.archive.org/account/subscriptions/) and tell us. If you do not want to receive any emails from us, you should delete your Tickle membership in the [My Profile](https://web.archive.org/account/profile/) section. 
-
-Back to top
-
-**Tell me about the Open Group Tests**  
-To take our Open Group Tests ("OGTs"), you need to sign up as an Tickle member, which requires that you provide certain personal information, as described above. Once you've completed an OGT, some of your information, including your OGT results, first name, and email address are listed on a comparative scorecard alongside the results of your invited friends and family who have also taken the test. 
-
-Through our comparative scorecard, Tickle allows you to create a list of your friends and to compare your OGT results with theirs. It works like this: you tell us whom to invite; our technology invites them on your behalf to participate in the OGT. Once your friend takes the test, you will receive an email notice that his or her results are in. On a "results" page, which every invited participant can access and view, you can see their OGT results, first name, email address and how you match up in certain categories (OGT Information). You will also see whom they have listed as friends, along with their friends' OGT Information. 
-
-Each participant can view their "personal invitation list" and who has yet to participate. The "personal invitation list" can only be seen by the inviter. Additionally, other Tickle members can see and compare themselves with your OGT Information by entering your email address or the email address of one of your listed friends. 
-
-Your results are included in the "[Tests Taken](https://web.archive.org/net/account/profile/index.html)" section of your profile and can be removed at any time.
 
 Back to top
 
