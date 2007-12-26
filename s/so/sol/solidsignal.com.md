@@ -1,16 +1,17 @@
-> *The following text is extracted and transformed from the solidsignal.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626023233id_/http%3A//www.solidsignal.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solidsignal.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226203834id_/http%3A//www.solidsignal.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy | Solid Signal
 
-|  **Solid Signal Privacy Policy** |  [ ](http://www.truste.org/ivalidate.php?companyName=Stuart%20Ryan%20LLC&sealid=101&ctv_group=StuartRyan)  
+|    |  [ ](http://www.truste.org/ivalidate.php?url=www.solidsignal.com&sealid=101)  
 ---|---  
+**Solid Signal Privacy Policy**  
    
 Effective Date: Sept. 28, 2006  
 **Online Privacy**  
 We've all heard about it, we're all concerned about it: Online Privacy! But just what is Online Privacy? At Solid Signal, we believe that the issues of online privacy and security go far beyond simply protecting customer credit card numbers from hackers, and not SPAM mailing our customers. We strongly believe that the privacy policy and associate practice of a company reveal the true character of that company.  
 We hope that you find this document helpful and informative, if you have any questions regarding what is contained within it, please don't hesitate to send us an email to  _[ info@SolidSignal.com](mailto:info@SolidSignal.com)_.   
 **Scope of the Policy**  
-**Stuart Ryan, LLC** is a licensee of the TRUSTe Privacy Program.  TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices.  This privacy statement covers the sites ** [ http://www.solidsignal.tv/](http://www.solidsignal.tv/) **and ** [ http://www.solidsignal.com/](https://web.archive.org/web/20070626023233id_/http%3A//www.solidsignal.com/).**  Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.  
+**Stuart Ryan, LLC** is a licensee of the TRUSTe Privacy Program.  TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices.  This privacy statement covers the sites ** [ http://www.solidsignal.tv/](http://www.solidsignal.tv/) **and ** [ http://www.solidsignal.com/](https://web.archive.org/web/20071226203834id_/http%3A//www.solidsignal.com/).**  Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.  
 If you have questions or concerns regarding this statement, you should first contact Matt Faul at  [ info@solidsignal.com](mailto:info@solidsignal.com) ****.  If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at [ http://www.truste.org/consumers/watchdog_complaint.php](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with us to resolve your concerns.  
 Please note also that although some of Solid Signal's products are only sold to residents of the Unites States, our practice of protecting your privacy knows no borders. If you are an international visitor or customer and you share your information with us, you too can be assured that our general protection policy will apply equally to that information. Solid Signal's privacy policy and its protection of personally identifiable information applies to ALL VISITORS, acting in any capacity whatsoever.  
 **The Information We Collect**  
@@ -116,13 +117,12 @@ You can verify your inclusion in our database (or review all of your personally 
 You can remove yourself from our database by contacting us with a request to do so. Your removal shall not include removal from our order database if there is an actual transaction in your name. Although we will agree to protect your personal information from future use, we cannot remove a record of a past transaction.   
 ** **  
 **Contact us:**   
-Stuart Ryan LLC  
+Signal Group LLC  
 SolidSignal.com  
 SolidSignal.tv
 
-5600 West Maple Road  
-Suite C-309  
-West Bloomfield, MI. 48322
+25225 Regency Drive  
+Novi, MI 48375
 
 [ info@solidsignal.com](mailto:info@solidsignal.com)   
 1-866-374-4625  
