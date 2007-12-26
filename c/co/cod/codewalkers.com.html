@@ -1,702 +1,207 @@
-<!--The following is the downloaded HTML source of the codewalkers.com privacy policy that was archived on 2007-04-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070409014459id_/http%3A//codewalkers.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the codewalkers.com privacy policy that was archived on 2007-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071226033114id_/http%3A//www.developershed.com/privacy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
-    <meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
-    <link rel="SHORTCUT ICON" href="http://codewalkers.com/favicon.ico">
-
-<link rel="stylesheet" href="/phplayersmenu/layersmenu-codewalkers.css" type="text/css">
-
-<script language="JavaScript" type="text/javascript">
-<!--
-// PHP Layers Menu 3.2.0-rc (C) 2001-2004 Marco Pratesi - http://www.marcopratesi.it/
-
-DOM = (document.getElementById) ? 1 : 0;
-NS4 = (document.layers) ? 1 : 0;
-// We need to explicitly detect Konqueror
-// because Konqueror 3 sets IE = 1 ... AAAAAAAAAARGHHH!!!
-Konqueror = (navigator.userAgent.indexOf('Konqueror') > -1) ? 1 : 0;
-// We need to detect Konqueror 2.2 as it does not handle the window.onresize event
-Konqueror22 = (navigator.userAgent.indexOf('Konqueror 2.2') > -1 || navigator.userAgent.indexOf('Konqueror/2.2') > -1) ? 1 : 0;
-Konqueror30 =
-	(
-		navigator.userAgent.indexOf('Konqueror 3.0') > -1
-		|| navigator.userAgent.indexOf('Konqueror/3.0') > -1
-		|| navigator.userAgent.indexOf('Konqueror 3;') > -1
-		|| navigator.userAgent.indexOf('Konqueror/3;') > -1
-		|| navigator.userAgent.indexOf('Konqueror 3)') > -1
-		|| navigator.userAgent.indexOf('Konqueror/3)') > -1
-	)
-	? 1 : 0;
-Konqueror31 = (navigator.userAgent.indexOf('Konqueror 3.1') > -1 || navigator.userAgent.indexOf('Konqueror/3.1') > -1) ? 1 : 0;
-// We need to detect Konqueror 3.2 and 3.3 as they are affected by the see-through effect only for 2 form elements
-Konqueror32 = (navigator.userAgent.indexOf('Konqueror 3.2') > -1 || navigator.userAgent.indexOf('Konqueror/3.2') > -1) ? 1 : 0;
-Konqueror33 = (navigator.userAgent.indexOf('Konqueror 3.3') > -1 || navigator.userAgent.indexOf('Konqueror/3.3') > -1) ? 1 : 0;
-Opera = (navigator.userAgent.indexOf('Opera') > -1) ? 1 : 0;
-Opera5 = (navigator.userAgent.indexOf('Opera 5') > -1 || navigator.userAgent.indexOf('Opera/5') > -1) ? 1 : 0;
-Opera6 = (navigator.userAgent.indexOf('Opera 6') > -1 || navigator.userAgent.indexOf('Opera/6') > -1) ? 1 : 0;
-Opera56 = Opera5 || Opera6;
-IE = (navigator.userAgent.indexOf('MSIE') > -1) ? 1 : 0;
-IE = IE && !Opera;
-IE5 = IE && DOM;
-IE4 = (document.all) ? 1 : 0;
-IE4 = IE4 && IE && !DOM;
-
-// -->
-</script>
-<script language="JavaScript" type="text/javascript" src="/phplayersmenu/libjs/layersmenu-library.js"></script>
-<script language="JavaScript" type="text/javascript" src="/phplayersmenu/libjs/layersmenu.js"></script>
-
-<!-- beginning of menu header - PHP Layers Menu 3.2.0-rc (C) 2001-2004 Marco Pratesi - http://www.marcopratesi.it/ -->
-
-<script language="JavaScript" type="text/javascript">
-<!--
-
-menuTopShift = 6;
-menuRightShift = 7;
-menuLeftShift = 2;
-
-var thresholdY = 5;
-var abscissaStep = 140;
-
-toBeHidden = new Array();
-toBeHiddenLeft = new Array();
-toBeHiddenTop = new Array();
-
-listl = ['L1','L5','L22','L31','L46','L54'];
-var numl = listl.length;
-
-father = new Array();
-for (i=1; i<=57; i++) {
-	father['L' + i] = '';
-}
-father_keys = ['L2','L3','L4','L6','L7','L8','L9','L10','L11','L12','L13','L14','L15','L16','L17','L18','L19','L20','L21','L23','L24','L25','L26','L27','L28','L29','L30','L32','L33','L34','L35','L36','L37','L38','L39','L40','L41','L42','L43','L44','L45','L47','L48','L49','L50','L51','L52','L53','L55','L56','L57'];
-father_vals = ['L1','L1','L1','L5','L5','L5','L5','L5','L5','L5','L5','L5','L5','L5','L5','L5','L5','L5','L5','L22','L22','L22','L22','L22','L22','L22','L22','L31','L31','L31','L31','L31','L31','L31','L31','L31','L31','L31','L31','L31','L31','L46','L46','L46','L46','L46','L46','L46','L54','L54','L54'];
-for (i=0; i<father_keys.length; i++) {
-	father[father_keys[i]] = father_vals[i];
-}
-
-lwidth = new Array();
-var lwidthDetected = 0;
-
-function moveLayers()
-{
-	if (!lwidthDetected) {
-		for (i=0; i<numl; i++) {
-			lwidth[listl[i]] = getOffsetWidth(listl[i]);
-		}
-		lwidthDetected = 1;
-	}
-	if (IE4) {
-		for (i=0; i<numl; i++) {
-			setWidth(listl[i], abscissaStep);
-		}
-	}
-	var hormenu1TOP = getOffsetTop('hormenu1L1');
-	var hormenu1HEIGHT = getOffsetHeight('hormenu1L1');
-	setTop('L1', hormenu1TOP + hormenu1HEIGHT);
-	moveLayerX1('L1', 'hormenu1');
-	setTop('L5', hormenu1TOP + hormenu1HEIGHT);
-	moveLayerX1('L5', 'hormenu1');
-	setTop('L22', hormenu1TOP + hormenu1HEIGHT);
-	moveLayerX1('L22', 'hormenu1');
-	setTop('L31', hormenu1TOP + hormenu1HEIGHT);
-	moveLayerX1('L31', 'hormenu1');
-	setTop('L46', hormenu1TOP + hormenu1HEIGHT);
-	moveLayerX1('L46', 'hormenu1');
-	setTop('L54', hormenu1TOP + hormenu1HEIGHT);
-	moveLayerX1('L54', 'hormenu1');
-
-}
-
-back = new Array();
-for (i=1; i<=57; i++) {
-	back['L' + i] = 0;
-}
-
-// -->
-</script>
-
-<!-- end of menu header - PHP Layers Menu 3.2.0-rc (C) 2001-2004 Marco Pratesi - http://www.marcopratesi.it/ -->
-<link rel="stylesheet" type="text/css" href="/css/standard.css">
-<title>codewalkers.com - php - PHP Help</title>
-<meta name="description" content="codewalkers.com is a web site aimed at teaching the masses about PHP and mySQL.">
-<meta name="keywords" content="PHP mySQL codewalkers tutorial content management tutorials help free code database sql script gd documentation function class pear language xml Hypertext Preprocessor server-side HTML editor Zend scripting apache iis cgi mSQL MS-SQL MySQL MSSQL PostgreSQL">
-<meta name="robots" content="index, follow">
-<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-</head>
-<body alink="#000099" vlink="#990099" link="#000099" style="color: rgb(0, 0, 0); background-color: rgb(222, 223, 181); font-family: arial, 'lucida console', sans-serif;">
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Developer Shed - Privacy Policy</title>
+<link href="global.css" rel="stylesheet" type="text/css">
+<script src="scripts/AC_RunActiveContent.js" type="text/javascript"></script>
 <script type="text/javascript">
-_uacct = "UA-1589032-1";
-urchinTracker();
-</script>
- 
-    <table cellpadding="0" cellspacing="2" border="0" width="100%">
-        <tbody><tr>
-            <td valign="top">
-                <table cellpadding="0" cellspacing="0" border="0" width="100%">
-                    <tbody><tr>
-                        <td valign="top" style="background-color: rgb(121, 0, 0);">
-                            <a href="/index.php"><img src="/images/cw_logo.gif" alt="Codewalkers.com" width="300" height="75" border="0"></a>
-                        </td>
-                        <td align="center" style="background-color: rgb(121, 0, 0);">
-                                                        <form action="/search.php" method="post" name="searchform">
-                                                                <select name="section">
-                                    <option value="all">All</option>
-                                                                        <option value="forum">All Forums</option>
-                                    <option value="code">Code</option>
-                                    <option value="tutorials">Tutorials</option>
-                                    <option value="faq">FAQ</option>
-                                </select>
-                                <input type="text" size="20" name="terms">&nbsp;
-                                <input type="submit" name="search" value="Search">
-                            </form>                        </td>
-                    </tr>
-                </tbody></table>
-            </td>
-        </tr>
-        
-<!-- Begin Navigation Code -->
-        <tr align="center">
-            <td style="background-color: rgb(225, 225, 225);">
-<!-- beginning of horizontal menu bar -->
-
-<table border="0" cellspacing="0" cellpadding="0">
-<tbody><tr>
-<td>
-<div class="horbar">
-<table border="0" cellspacing="0" cellpadding="0">
-<tbody><tr>
-<td>
-<div id="hormenu1L1" class="horbaritem" onmouseover="clearLMTO();" onmouseout="setLMTO();">
-<a href="/" onmouseover="moveLayerX1('L1', 'hormenu1') ; LMPopUp('L1', false);" title="Codewalkers"><img align="top" src="/phplayersmenu/menuimages/transparent.png" width="1" height="16" border="0" alt="">Codewalkers&nbsp;<img src="/phplayersmenu/menuimages/down-arrow.png" width="9" height="5" border="0" alt=">>">&nbsp;&nbsp;&nbsp;</a>
-</div>
-</td>
-<td>
-<div id="hormenu1L5" class="horbaritem" onmouseover="clearLMTO();" onmouseout="setLMTO();">
-<a href="/forum/index.php" onmouseover="moveLayerX1('L5', 'hormenu1') ; LMPopUp('L5', false);" title="Forums"><img align="top" src="/phplayersmenu/menuimages/transparent.png" width="1" height="16" border="0" alt="">Forums&nbsp;<img src="/phplayersmenu/menuimages/down-arrow.png" width="9" height="5" border="0" alt=">>">&nbsp;&nbsp;&nbsp;</a>
-</div>
-</td>
-<td>
-<div id="hormenu1L22" class="horbaritem" onmouseover="clearLMTO();" onmouseout="setLMTO();">
-<a href="/tutorials.php" onmouseover="moveLayerX1('L22', 'hormenu1') ; LMPopUp('L22', false);" title="Tutorials"><img align="top" src="/phplayersmenu/menuimages/transparent.png" width="1" height="16" border="0" alt="">Tutorials&nbsp;<img src="/phplayersmenu/menuimages/down-arrow.png" width="9" height="5" border="0" alt=">>">&nbsp;&nbsp;&nbsp;</a>
-</div>
-</td>
-<td>
-<div id="hormenu1L31" class="horbaritem" onmouseover="clearLMTO();" onmouseout="setLMTO();">
-<a href="/code.php" onmouseover="moveLayerX1('L31', 'hormenu1') ; LMPopUp('L31', false);" title="Code Gallery"><img align="top" src="/phplayersmenu/menuimages/transparent.png" width="1" height="16" border="0" alt="">Code Gallery&nbsp;<img src="/phplayersmenu/menuimages/down-arrow.png" width="9" height="5" border="0" alt=">>">&nbsp;&nbsp;&nbsp;</a>
-</div>
-</td>
-<td>
-<div id="hormenu1L46" class="horbaritem" onmouseover="clearLMTO();" onmouseout="setLMTO();">
-<a href="/reviews.php" onmouseover="moveLayerX1('L46', 'hormenu1') ; LMPopUp('L46', false);" title="Reviews"><img align="top" src="/phplayersmenu/menuimages/transparent.png" width="1" height="16" border="0" alt="">Reviews&nbsp;<img src="/phplayersmenu/menuimages/down-arrow.png" width="9" height="5" border="0" alt=">>">&nbsp;&nbsp;&nbsp;</a>
-</div>
-</td>
-<td>
-<div id="hormenu1L54" class="horbaritem" onmouseover="clearLMTO();" onmouseout="setLMTO();">
-<a href="#" onmouseover="moveLayerX1('L54', 'hormenu1') ; LMPopUp('L54', false);" title="Misc"><img align="top" src="/phplayersmenu/menuimages/transparent.png" width="1" height="16" border="0" alt="">Misc&nbsp;<img src="/phplayersmenu/menuimages/down-arrow.png" width="9" height="5" border="0" alt=">>">&nbsp;&nbsp;&nbsp;</a>
-</div>
-</td>
-</tr>
-</tbody></table>
-</div>
-</td>
-</tr>
-</tbody></table>
-
-<!-- end of horizontal menu bar -->
-            </td>
-        </tr>
-<!-- End Navigation Code -->
-
-        <tr>
-            <td>
-                <table cellpadding="2" cellspacing="0" border="0" width="100%" style=" background-color: rgb(255, 255, 255);">
-                    <tbody><tr>
-                        <td valign="top" width="20%">
-                            <!-- Begin Left Sidebar Code -->
-<table cellpadding="3" cellspacing="0" border="1" width="100%">
-    <tbody><tr>
-        <td style="background-color: rgb(121, 0, 0); white-space: nowrap;">
-            <span style="color: rgb(255, 255, 255);">myCodewalker</span>
-        </td>
-    </tr>
-    <tr>
-        <td valign="top" style="background-color: rgb(225, 225, 225);">
-        <font size="-1">
-            <form action="/cw_user.php" method="post" name="loginform"><font size="-1">Username:<br>
-                <input type="text" size="15" name="uname"><br>
-                Password:<br>
-                <input type="password" size="15" name="pword"><br>
-                Save in cookie?&nbsp;<input type="checkbox" name="cookie"><br>
-                <input type="submit" name="login" value="Login">&nbsp;<input type="submit" name="newuser" value="New User"></font>
-            </form>
-            <a href="/forum/index.php?action=lostpassword"><font size="-1">Forgot your password?</font></a>
-        </font>
-        </td>
-    </tr>
-</tbody></table>
-<br>
-<table cellpadding="3" cellspacing="0" border="1" width="100%">
-    <tbody><tr>
-        <td style="background-color: rgb(121, 0, 0); white-space: nowrap;">
-            <span style="color: rgb(255, 255, 255);">Google Ads</span>
-        </td>
-    </tr>
-    <tr>
-        <td valign="top" style="background-color: rgb(225, 225, 225);">
-        <font size="-1">
-<script type="text/javascript"><!--
-
-google_ad_client = "pub-3366377653349590";
-
-google_ad_width = 160;
-
-google_ad_height = 600;
-
-google_ad_format = "160x600_as";
-
-google_ad_channel ="0453741675";
-
-google_color_border = "990000";
-
-google_color_bg = "CCCCCC";
-
-google_color_link = "0000FF";
-
-google_color_url = "008000";
-
-google_color_text = "000000";
-
-//--></script>
-
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-
-</script>
-        </font>
-        </td>
-    </tr>
-</tbody></table>
-<br>
-<table cellpadding="3" cellspacing="0" border="1" width="100%">
-    <tbody><tr>
-        <td style="background-color: rgb(121, 0, 0); white-space: nowrap;">
-            <span style="color: rgb(255, 255, 255);">RSS Feeds</span>
-        </td>
-    </tr>
-    <tr>
-        <td valign="top" style="background-color: rgb(225, 225, 225);">
-        <font size="-1">
-<a href="http://codewalkers.com/code.rdf">Code</a><br>
-<a href="http://codewalkers.com/forum.rdf">Forum</a><br>
-<a href="http://codewalkers.com/news.rdf">News</a><br>
-<a href="http://codewalkers.com/reviews.rdf">Reviews</a><br>
-<a href="http://codewalkers.com/tutorials.rdf">Tutorials</a><br>
-        </font>
-        </td>
-    </tr>
-</tbody></table>
-<br>
-<table cellpadding="3" cellspacing="0" border="1" width="100%">
-    <tbody><tr>
-        <td style="background-color: rgb(121, 0, 0); white-space: nowrap;">
-            <span style="color: rgb(255, 255, 255);">Partner Sites</span>
-        </td>
-    </tr>
-    <tr>
-        <td valign="top" style="background-color: rgb(225, 225, 225);">
-        <font size="-1">
-<center>
-<a href="http://www.eChristianWebHosting.com/">Christian Web Hosting</a><br><br>
-<a href="http://www.oxyscripts.com" target="_blank">OxyScripts.com</a>
-<br><br>
-<a href="http://www.php-editors.com" target="_blank">PHP Editor and IDE</a>
-<br><br>
-<a href="http://www.weberdev.com" target="_blank">Weberdev.com</a>
-<br><br>
-<a href="http://www.phpfreaks.com" target="_blank">PHP Freaks</a>
-<br><br>
-<a href="http://www.weberforums.com/" target="_blank">PHP &amp; MySQL Forums</a>
-<br><br>
-<a href="http://www.webertrivia.com" target="_blank">Learn PHP playing Trivia</a>
-<br><br>
-<a href="http://www.weberblogs.com/" target="_blank">WeberBlog</a>
-<br><br>
-<a href="http://zendcon06.kbconferences.com/" target="_blank"><img src="/images/zendconf.gif" width="110" border="0"></a>
-<br><br>
-<a href="http://www.phparch.com/" target="_blank"><img src="/images/phparch.gif" border="0"></a>
-<br><br>
-<a href="http://codewalkers.partners.phpclasses.org/" target="_blank"><img src="/images/phpclasses.gif" border="0"></a>
-</center>
-        </font>
-        </td>
-    </tr>
-</tbody></table>
-<br>
-<!-- End Left Sidebar Code -->
-                        </td>
-                        <td valign="top" width="60%">
-<!-- Begin Content Code -->
-<table style="width: 100%;" border="0" cellspacing="0" cellpadding="3">
-    <tbody>
-        <tr style="color: rgb(255, 255, 255);">
-            <td style="background-color: rgb(121, 0, 0);"><big style="font-weight: bold;">Privacy Policy</big></td>
-        </tr>
-        
-        <tr>
-            <td><p>We can be reached via e-mail at <a href="mailto:webmaster@codewalkers.com">webmaster@codewalkers.com</a></p>
-<p>We collect only the domain name and ip address of visitors to our Web page, the e-mail addresses of those who register at our site, the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations.</p>
-<p>The information we collect is used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual visitor, used to notify consumers about updates to our Web site, and NOT shared with other organizations.</p>
-<p>With respect to cookies: We use cookies to record past activity at a site in order to provide better service when visitors return to our site .</p>
-<p>If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.</p><br>
-            </td>
-        </tr>
-    </tbody>
-</table>
-<!-- End Content Code -->
-                        </td>
-                        <td valign="top" width="20%">
-                            <!-- Begin Right Sidebar Code -->
-<table cellpadding="3" cellspacing="0" border="1" width="100%">
-    <tbody><tr>
-        <td style="background-color: rgb(121, 0, 0); white-space: nowrap;">
-            <span style="color: rgb(255, 255, 255);">New Forum Posts</span>
-        </td>
-    </tr>
-    <tr>
-        <td valign="top" style="background-color: rgb(225, 225, 225);">
-        <font size="-1">
-<img src="/images/bjpdt3.gif" border="0">&nbsp;<a href="/forum/index.php?action=displaythread&amp;forum=clientside&amp;id=1362&amp;realm=default">how to let only IE users to access my site</a><br>
-<img src="/images/bjpdt3.gif" border="0">&nbsp;<a href="/forum/index.php?action=displaythread&amp;forum=phpcoding&amp;id=21423&amp;realm=default">Sorting a Text File</a><br>
-<img src="/images/bjpdt3.gif" border="0">&nbsp;<a href="/forum/index.php?action=displaythread&amp;forum=phpcoding&amp;id=21406&amp;realm=default">transfer from url to url</a><br>
-<img src="/images/bjpdt3.gif" border="0">&nbsp;<a href="/forum/index.php?action=displaythread&amp;forum=phpcoding&amp;id=21422&amp;realm=default">aray value and if/else statement </a><br>
-<img src="/images/bjpdt3.gif" border="0">&nbsp;<a href="/forum/index.php?action=displaythread&amp;forum=phpcoding&amp;id=21412&amp;realm=default">Quick Question - Update Forms</a><br>
-<img src="/images/bjpdt3.gif" border="0">&nbsp;<a href="/forum/index.php?action=displaythread&amp;forum=phpcoding&amp;id=21415&amp;realm=default">Login Authentication HEEELP</a><br>
-<img src="/images/bjpdt3.gif" border="0">&nbsp;<a href="/forum/index.php?action=displaythread&amp;forum=phpcoding&amp;id=21420&amp;realm=default">displaying data from multiple tables,letting user narrow down results</a><br>
-<img src="/images/bjpdt3.gif" border="0">&nbsp;<a href="/forum/index.php?action=displaythread&amp;forum=phpcoding&amp;id=21421&amp;realm=default">select statement</a><br>
-<img src="/images/bjpdt3.gif" border="0">&nbsp;<a href="/forum/index.php?action=displaythread&amp;forum=sqlhelp&amp;id=2968&amp;realm=default">simple table join select statemen</a><br>
-<img src="/images/bjpdt3.gif" border="0">&nbsp;<a href="/forum/index.php?action=displaythread&amp;forum=sqlhelp&amp;id=2967&amp;realm=default">missing cd</a><br>
-<img src="/images/bjpdt3.gif" border="0">&nbsp;<a href="/forum/index.php?action=displaythread&amp;forum=phpcoding&amp;id=21417&amp;realm=default">updating member details?!</a><br>
-<img src="/images/bjpdt3.gif" border="0">&nbsp;<a href="/forum/index.php?action=displaythread&amp;forum=phpcoding&amp;id=21419&amp;realm=default">Counter problems...</a><br>
-<img src="/images/bjpdt3.gif" border="0">&nbsp;<a href="/forum/index.php?action=displaythread&amp;forum=phpcoding&amp;id=21418&amp;realm=default">Pop up Problem</a><br>
-<img src="/images/bjpdt3.gif" border="0">&nbsp;<a href="/forum/index.php?action=displaythread&amp;forum=phpcoding&amp;id=21416&amp;realm=default">updates not updating db</a><br>
-<img src="/images/bjpdt3.gif" border="0">&nbsp;<a href="/forum/index.php?action=displaythread&amp;forum=phpcoding&amp;id=21411&amp;realm=default">$_GET and URL's</a><br>
-        </font>
-        </td>
-    </tr>
-</tbody></table>
-<br>
-<table cellpadding="3" cellspacing="0" border="1" width="100%">
-    <tbody><tr>
-        <td style="background-color: rgb(121, 0, 0); white-space: nowrap;">
-            <span style="color: rgb(255, 255, 255);">New Items</span>
-        </td>
-    </tr>
-    <tr>
-        <td valign="top" style="background-color: rgb(225, 225, 225);">
-        <font size="-1">
-<b>Links</b><br>
-<img src="/images/bjpdt3.gif" border="0">&nbsp;<a href="/links.php?id=43" target="_blank">Evil Walrus</a><br>
-<img src="/images/bjpdt3.gif" border="0">&nbsp;<a href="/links.php?id=42" target="_blank">php.codefetch.com</a><br>
-<img src="/images/bjpdt3.gif" border="0">&nbsp;<a href="/links.php?id=41" target="_blank">Happy Codings</a><br>
-<hr>
-<b>Tutorials</b><br>
-<img src="/images/bjpdt3.gif" border="0">&nbsp;<a href="/tutorials/99/1.html">Quick and Dirty AJAX Tutorial</a><br>
-<img src="/images/bjpdt3.gif" border="0">&nbsp;<a href="/tutorials/98/1.html">Flickr Puzzle Mashup</a><br>
-<img src="/images/bjpdt3.gif" border="0">&nbsp;<a href="/tutorials/97/1.html">The PAVISE of Security</a><br>
-<hr>
-<b>Code</b><br>
-<img src="/images/bjpdt3.gif" border="0">&nbsp;<a href="/seecode/681.html">upload image to database ...</a><br>
-<img src="/images/bjpdt3.gif" border="0">&nbsp;<a href="/seecode/680.html">Data extract to Excel</a><br>
-<img src="/images/bjpdt3.gif" border="0">&nbsp;<a href="/seecode/679.html">Bandwidth Control with pu...</a><br>
-        </font>
-        </td>
-    </tr>
-</tbody></table>
-<br>
-<table cellpadding="3" cellspacing="0" border="1" width="100%">
-    <tbody><tr>
-        <td style="background-color: rgb(121, 0, 0); white-space: nowrap;">
-            <span style="color: rgb(255, 255, 255);">Network Sites</span>
-        </td>
-    </tr>
-    <tr>
-        <td valign="top" style="background-color: rgb(225, 225, 225);">
-        <font size="-1">
-<a href="http://www.dotster.com" target="_blank">Dotster domain names</a><br>
-   <a href="http://www.weberdev.com" target="_blank">PHP Code Examples</a><br>
-   <a href="http://www.webdevforums.com" target="_blank">Webmaster forums</a><br>        </font>
-        </td>
-    </tr>
-</tbody></table>
-<br>
-<!-- End Right Sidebar Code -->
-                        </td>
-                    </tr>
-
-<!-- Begin Bottom Navigation Code -->
-                    <tr align="center">
-                        <td colspan="3" style="background-color: rgb(225, 225, 225);">
-                            <font size="-2">
-                                <a href="/">News</a>&nbsp;|&nbsp;
-                                <a href="/tutorials.php">Tutorials</a>&nbsp;|&nbsp;
-                                <a href="/forum/index.php">Forums</a>&nbsp;|&nbsp;
-                                <a href="/code.php">PHP&nbsp;Code</a>&nbsp;|&nbsp;
-                                <a href="/php-contest.php">PHP&nbsp;Coding&nbsp;Contest</a>&nbsp;|&nbsp;
-                                <a href="/php-support.php">PHP&nbsp;Support</a>&nbsp;|&nbsp;
-                                <a href="/links.php">Links</a>&nbsp;|&nbsp;
-                                <a href="/reviews.php">Book&nbsp;Reviews</a>&nbsp;|&nbsp;
-                                <a href="/interviews.php">Interviews</a>&nbsp;|&nbsp;
-                                <a href="/aboutus.php">About&nbsp;Us</a>&nbsp;|&nbsp;
-                                <a href="/linktous.php">Link&nbsp;to&nbsp;Us</a><br>
-                                <a href="/faq.php">PHP FAQ</a>&nbsp;|&nbsp;
-                                <a href="/phpdocs/">PHP Manual</a>
-                            </font>
-                        </td>
-                    </tr>
-<!-- End Bottom Navigation Code -->
-
-                </tbody></table>
-            </td>
-        </tr>
-    </tbody></table>
-    
-    <div style="text-align: center;">
-        <p><font size="-2"><span style="font-style: italic; text-decoration: underline;">codewalker</span> /n./ A program component that traverses other programs for a living. Compilers have codewalkers in their front ends; so do cross-reference generators and some database front ends. Other utility programs that try to do too much with source code may turn into codewalkers. As in "This new `vgrind' feature would require a codewalker to implement."</font></p>
-        <p><font size="-2">All content on codewalkers.com is copyrighted by Matt Wade unless otherwise stated. All code is submitted by users of this website and is copyrighted however they see fit. See our <a href="/privacy.php">Privacy Policy</a>. <a href="/archives.php">forum archives</a>. <a href="/phpcode.php">php code list</a>.</font></p>
-    </div>
-<!-- beginning of menu footer - PHP Layers Menu 3.2.0-rc (C) 2001-2004 Marco Pratesi - http://www.marcopratesi.it/ -->
-
-
-<div id="L1" class="submenu" onmouseover="clearLMTO();" onmouseout="setLMTO();">
-<table border="0" cellspacing="0" cellpadding="0">
-<tbody><tr>
-<td nowrap="nowrap">
-<div class="subframe">
-<div id="refL2" class="item">
-<a href="/" onmouseover="LMPopUp('L1', true);" title="News"><img align="top" src="/phplayersmenu/menuimages/transparent.png" width="1" height="16" border="0" alt="">News&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-</div>
-<div id="refL3" class="item">
-<a href="/aboutus.php" onmouseover="LMPopUp('L1', true);" title="About Us"><img align="top" src="/phplayersmenu/menuimages/transparent.png" width="1" height="16" border="0" alt="">About Us&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-</div>
-<div id="refL4" class="item">
-<a href="/linktous.php" onmouseover="LMPopUp('L1', true);" title="Link to Codewalkers"><img align="top" src="/phplayersmenu/menuimages/transparent.png" width="1" height="16" border="0" alt="">Link To Us&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-</div>
-</div>
-</td>
-</tr>
-</tbody></table>
-</div>
-
-<div id="L5" class="submenu" onmouseover="clearLMTO();" onmouseout="setLMTO();">
-<table border="0" cellspacing="0" cellpadding="0">
-<tbody><tr>
-<td nowrap="nowrap">
-<div class="subframe">
-<div id="refL6" class="item">
-<a href="/forum/index.php?forum=phpcoding" onmouseover="LMPopUp('L5', true);" title="PHP Coding"><img align="top" src="/phplayersmenu/menuimages/transparent.png" width="1" height="16" border="0" alt="">PHP Coding&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-</div>
-<div id="refL7" class="item">
-<a href="/forum/index.php?forum=phphelp" onmouseover="LMPopUp('L5', true);" title="PHP Installation"><img align="top" src="/phplayersmenu/menuimages/transparent.png" width="1" height="16" border="0" alt="">PHP Installation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-</div>
-<div id="refL8" class="item">
-<a href="/forum/index.php?forum=pear" onmouseover="LMPopUp('L5', true);" title="PEAR"><img align="top" src="/phplayersmenu/menuimages/transparent.png" width="1" height="16" border="0" alt="">PEAR&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-</div>
-<div id="refL9" class="item">
-<a href="/forum/index.php?forum=phpapps" onmouseover="LMPopUp('L5', true);" title="PHP Applications"><img align="top" src="/phplayersmenu/menuimages/transparent.png" width="1" height="16" border="0" alt="">PHP Applications&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-</div>
-<div id="refL10" class="item">
-<a href="/forum/index.php?forum=clientside" onmouseover="LMPopUp('L5', true);" title="Client Side Things"><img align="top" src="/phplayersmenu/menuimages/transparent.png" width="1" height="16" border="0" alt="">Client Side Things&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-</div>
-<div id="refL11" class="item">
-<a href="/forum/index.php?forum=sqlhelp" onmouseover="LMPopUp('L5', true);" title="Database Help"><img align="top" src="/phplayersmenu/menuimages/transparent.png" width="1" height="16" border="0" alt="">Database Help&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-</div>
-<div id="refL12" class="item">
-<a href="/forum/index.php?forum=general_admin" onmouseover="LMPopUp('L5', true);" title="Server Administration"><img align="top" src="/phplayersmenu/menuimages/transparent.png" width="1" height="16" border="0" alt="">Server Administration&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-</div>
-<div id="refL13" class="item">
-<a href="/forum/index.php?forum=theory" onmouseover="LMPopUp('L5', true);" title="Programming Theory"><img align="top" src="/phplayersmenu/menuimages/transparent.png" width="1" height="16" border="0" alt="">Programming Theory&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-</div>
-<div id="refL14" class="item">
-<a href="/forum/index.php?forum=currentcontest" onmouseover="LMPopUp('L5', true);" title="Current Contest"><img align="top" src="/phplayersmenu/menuimages/transparent.png" width="1" height="16" border="0" alt="">Current Contest&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-</div>
-<div id="refL15" class="item">
-<a href="/forum/index.php?forum=php-contest" onmouseover="LMPopUp('L5', true);" title="Older Contests"><img align="top" src="/phplayersmenu/menuimages/transparent.png" width="1" height="16" border="0" alt="">Older Contests&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-</div>
-<div id="refL16" class="item">
-<a href="/forum/index.php?forum=ltwcalendar" onmouseover="LMPopUp('L5', true);" title="ltwCalendar"><img align="top" src="/phplayersmenu/menuimages/transparent.png" width="1" height="16" border="0" alt="">ltwCalendar&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-</div>
-<div id="refL17" class="item">
-<a href="/forum/index.php?forum=barterzone" onmouseover="LMPopUp('L5', true);" title="Barter Zone"><img align="top" src="/phplayersmenu/menuimages/transparent.png" width="1" height="16" border="0" alt="">Barter Zone&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-</div>
-<div id="refL18" class="item">
-<a href="/forum/index.php?forum=general" onmouseover="LMPopUp('L5', true);" title="General Chat"><img align="top" src="/phplayersmenu/menuimages/transparent.png" width="1" height="16" border="0" alt="">General Chat&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-</div>
-<div id="refL19" class="item">
-<a href="/forum/index.php?forum=announcements" onmouseover="LMPopUp('L5', true);" title="Announcements"><img align="top" src="/phplayersmenu/menuimages/transparent.png" width="1" height="16" border="0" alt="">Announcements&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-</div>
-<div id="refL20" class="item">
-<a href="/forum/index.php?forum=sitesupport" onmouseover="LMPopUp('L5', true);" title="Support and Suggestions"><img align="top" src="/phplayersmenu/menuimages/transparent.png" width="1" height="16" border="0" alt="">Support and Suggestions&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-</div>
-<div id="refL21" class="item">
-<a href="/forum/index.php?forum=tutorials" onmouseover="LMPopUp('L5', true);" title="Tutorials"><img align="top" src="/phplayersmenu/menuimages/transparent.png" width="1" height="16" border="0" alt="">Tutorials&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-</div>
-</div>
-</td>
-</tr>
-</tbody></table>
-</div>
-
-<div id="L22" class="submenu" onmouseover="clearLMTO();" onmouseout="setLMTO();">
-<table border="0" cellspacing="0" cellpadding="0">
-<tbody><tr>
-<td nowrap="nowrap">
-<div class="subframe">
-<div id="refL23" class="item">
-<a href="/tutorials.php?c=5" onmouseover="LMPopUp('L22', true);" title="Basics"><img align="top" src="/phplayersmenu/menuimages/transparent.png" width="1" height="16" border="0" alt="">Basics&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-</div>
-<div id="refL24" class="item">
-<a href="/tutorials.php?c=1" onmouseover="LMPopUp('L22', true);" title="Database"><img align="top" src="/phplayersmenu/menuimages/transparent.png" width="1" height="16" border="0" alt="">Database&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-</div>
-<div id="refL25" class="item">
-<a href="/tutorials.php?c=4" onmouseover="LMPopUp('L22', true);" title="Display"><img align="top" src="/phplayersmenu/menuimages/transparent.png" width="1" height="16" border="0" alt="">Display&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-</div>
-<div id="refL26" class="item">
-<a href="/tutorials.php?c=3" onmouseover="LMPopUp('L22', true);" title="Misc"><img align="top" src="/phplayersmenu/menuimages/transparent.png" width="1" height="16" border="0" alt="">Misc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-</div>
-<div id="refL27" class="item">
-<a href="/tutorials.php?c=2" onmouseover="LMPopUp('L22', true);" title="Navigaton"><img align="top" src="/phplayersmenu/menuimages/transparent.png" width="1" height="16" border="0" alt="">Navigaton&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-</div>
-<div id="refL28" class="item">
-<a href="/tutorials.php?c=6" onmouseover="LMPopUp('L22', true);" title="PEAR"><img align="top" src="/phplayersmenu/menuimages/transparent.png" width="1" height="16" border="0" alt="">PEAR&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-</div>
-<div id="refL29" class="item">
-<a href="/tutorials.php?c=7" onmouseover="LMPopUp('L22', true);" title="Server Administration"><img align="top" src="/phplayersmenu/menuimages/transparent.png" width="1" height="16" border="0" alt="">Server Administration&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-</div>
-<div id="refL30" class="item">
-<a href="/tutorials.php?c=9" onmouseover="LMPopUp('L22', true);" title="XML"><img align="top" src="/phplayersmenu/menuimages/transparent.png" width="1" height="16" border="0" alt="">XML&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-</div>
-</div>
-</td>
-</tr>
-</tbody></table>
-</div>
-
-<div id="L31" class="submenu" onmouseover="clearLMTO();" onmouseout="setLMTO();">
-<table border="0" cellspacing="0" cellpadding="0">
-<tbody><tr>
-<td nowrap="nowrap">
-<div class="subframe">
-<div id="refL32" class="item">
-<a href="/code.php?c=3" onmouseover="LMPopUp('L31', true);" title="Content Management"><img align="top" src="/phplayersmenu/menuimages/transparent.png" width="1" height="16" border="0" alt="">Content Management&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-</div>
-<div id="refL33" class="item">
-<a href="/code.php?c=13" onmouseover="LMPopUp('L31', true);" title="Contest Related"><img align="top" src="/phplayersmenu/menuimages/transparent.png" width="1" height="16" border="0" alt="">Contest Related&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-</div>
-<div id="refL34" class="item">
-<a href="/code.php?c=7" onmouseover="LMPopUp('L31', true);" title="Database Related"><img align="top" src="/phplayersmenu/menuimages/transparent.png" width="1" height="16" border="0" alt="">Database Related&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-</div>
-<div id="refL35" class="item">
-<a href="/code.php?c=15" onmouseover="LMPopUp('L31', true);" title="Date and Time"><img align="top" src="/phplayersmenu/menuimages/transparent.png" width="1" height="16" border="0" alt="">Date and Time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-</div>
-<div id="refL36" class="item">
-<a href="/code.php?c=6" onmouseover="LMPopUp('L31', true);" title="Discussion Boards"><img align="top" src="/phplayersmenu/menuimages/transparent.png" width="1" height="16" border="0" alt="">Discussion Boards&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-</div>
-<div id="refL37" class="item">
-<a href="/code.php?c=14" onmouseover="LMPopUp('L31', true);" title="Email"><img align="top" src="/phplayersmenu/menuimages/transparent.png" width="1" height="16" border="0" alt="">Email&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-</div>
-<div id="refL38" class="item">
-<a href="/code.php?c=5" onmouseover="LMPopUp('L31', true);" title="File Manipulation"><img align="top" src="/phplayersmenu/menuimages/transparent.png" width="1" height="16" border="0" alt="">File Manipulation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-</div>
-<div id="refL39" class="item">
-<a href="/code.php?c=10" onmouseover="LMPopUp('L31', true);" title="Link Farm"><img align="top" src="/phplayersmenu/menuimages/transparent.png" width="1" height="16" border="0" alt="">Link Farm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-</div>
-<div id="refL40" class="item">
-<a href="/code.php?c=11" onmouseover="LMPopUp('L31', true);" title="Look and Feel"><img align="top" src="/phplayersmenu/menuimages/transparent.png" width="1" height="16" border="0" alt="">Look and Feel&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-</div>
-<div id="refL41" class="item">
-<a href="/code.php?c=1" onmouseover="LMPopUp('L31', true);" title="Miscellaneous"><img align="top" src="/phplayersmenu/menuimages/transparent.png" width="1" height="16" border="0" alt="">Miscellaneous&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-</div>
-<div id="refL42" class="item">
-<a href="/code.php?c=9" onmouseover="LMPopUp('L31', true);" title="Searching"><img align="top" src="/phplayersmenu/menuimages/transparent.png" width="1" height="16" border="0" alt="">Searching&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-</div>
-<div id="refL43" class="item">
-<a href="/code.php?c=2" onmouseover="LMPopUp('L31', true);" title="Site Navigation"><img align="top" src="/phplayersmenu/menuimages/transparent.png" width="1" height="16" border="0" alt="">Site Navigation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-</div>
-<div id="refL44" class="item">
-<a href="/code.php?c=8" onmouseover="LMPopUp('L31', true);" title="Statistics and Counters"><img align="top" src="/phplayersmenu/menuimages/transparent.png" width="1" height="16" border="0" alt="">Statistics and Counters&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-</div>
-<div id="refL45" class="item">
-<a href="/code.php?c=12" onmouseover="LMPopUp('L31', true);" title="User Management"><img align="top" src="/phplayersmenu/menuimages/transparent.png" width="1" height="16" border="0" alt="">User Management&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-</div>
-</div>
-</td>
-</tr>
-</tbody></table>
-</div>
-
-<div id="L46" class="submenu" onmouseover="clearLMTO();" onmouseout="setLMTO();">
-<table border="0" cellspacing="0" cellpadding="0">
-<tbody><tr>
-<td nowrap="nowrap">
-<div class="subframe">
-<div id="refL47" class="item">
-<a href="/reviews.php?c=7" onmouseover="LMPopUp('L46', true);" title="Database Books"><img align="top" src="/phplayersmenu/menuimages/transparent.png" width="1" height="16" border="0" alt="">Database Books&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-</div>
-<div id="refL48" class="item">
-<a href="/reviews.php?c=8" onmouseover="LMPopUp('L46', true);" title="Desktop Linux Books"><img align="top" src="/phplayersmenu/menuimages/transparent.png" width="1" height="16" border="0" alt="">Desktop Linux Books&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-</div>
-<div id="refL49" class="item">
-<a href="/reviews.php?c=6" onmouseover="LMPopUp('L46', true);" title="Misc Development"><img align="top" src="/phplayersmenu/menuimages/transparent.png" width="1" height="16" border="0" alt="">Misc Development&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-</div>
-<div id="refL50" class="item">
-<a href="/reviews.php?c=2" onmouseover="LMPopUp('L46', true);" title="PHP Books"><img align="top" src="/phplayersmenu/menuimages/transparent.png" width="1" height="16" border="0" alt="">PHP Books&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-</div>
-<div id="refL51" class="item">
-<a href="/reviews.php?c=5" onmouseover="LMPopUp('L46', true);" title="PHP Software"><img align="top" src="/phplayersmenu/menuimages/transparent.png" width="1" height="16" border="0" alt="">PHP Software&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-</div>
-<div id="refL52" class="item">
-<a href="/reviews.php?c=4" onmouseover="LMPopUp('L46', true);" title="Server Administration Books"><img align="top" src="/phplayersmenu/menuimages/transparent.png" width="1" height="16" border="0" alt="">Server Administration Books&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-</div>
-<div id="refL53" class="item">
-<a href="/reviews.php?c=1" onmouseover="LMPopUp('L46', true);" title="SQL Tools"><img align="top" src="/phplayersmenu/menuimages/transparent.png" width="1" height="16" border="0" alt="">SQL Tools&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-</div>
-</div>
-</td>
-</tr>
-</tbody></table>
-</div>
-
-<div id="L54" class="submenu" onmouseover="clearLMTO();" onmouseout="setLMTO();">
-<table border="0" cellspacing="0" cellpadding="0">
-<tbody><tr>
-<td nowrap="nowrap">
-<div class="subframe">
-<div id="refL55" class="item">
-<a href="/faq.php" onmouseover="LMPopUp('L54', true);" title="FAQ"><img align="top" src="/phplayersmenu/menuimages/transparent.png" width="1" height="16" border="0" alt="">FAQ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-</div>
-<div id="refL56" class="item">
-<a href="/links.php" onmouseover="LMPopUp('L54', true);" title="Link Directory"><img align="top" src="/phplayersmenu/menuimages/transparent.png" width="1" height="16" border="0" alt="">Link Directory&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-</div>
-<div id="refL57" class="item">
-<a href="/php-contest.php" onmouseover="LMPopUp('L54', true);" title="PHP Coding Contest"><img align="top" src="/phplayersmenu/menuimages/transparent.png" width="1" height="16" border="0" alt="">PHP Coding Contest&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-</div>
-</div>
-</td>
-</tr>
-</tbody></table>
-</div>
-
-
-<script language="JavaScript" type="text/javascript">
 <!--
-loaded = 1;
-// -->
-</script>
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
 
-<!-- end of menu footer - PHP Layers Menu 3.2.0-rc (C) 2001-2004 Marco Pratesi - http://www.marcopratesi.it/ -->
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+function loaddevarticles(){
+
+	document.getElementById('jcontent').innerHTML = "<iframe src =\"devtext-loader.php?page=1\" width=\"650\" height=\"3450\" frameborder=\"0\" align=\"middle\" scrolling=\"no\">Your user agent does not support frames or is currently configured not to display frames. This page required iFrame support to work properly.</iframe>";
+}
+
+function loaddevforums()
+{
+
+	document.getElementById('jcontent').innerHTML = "<iframe src =\"devtext-loader.php?page=2\" width=\"650\" height=\"2300\" frameborder=\"0\" align=\"middle\" scrolling=\"no\">Your user agent does not support frames or is currently configured not to display frames. This page required iFrame support to work properly.</iframe>";
+}
+//-->
+</script>
+<style type="text/css">
+<!--
+body {
+	background-image: url(images/bckg.gif);
+	margin-bottom: 0px;
+}
+-->
+</style></head>
+
+<body><table width="890" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+  <tbody><tr>
+    <td><!-- #BeginLibraryItem "/Library/topnav.lbi" --><table width="874" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tbody><tr>
+        <td width="688" height="70"><a href="/"><img src="images/logo_developershed.gif" alt="Developer Shed" width="339" height="70" border="0"></a></td>
+        <td width="1"></td>
+        <td width="185">&nbsp;</td>
+      </tr>
+      <tr>
+        <td width="688" height="24" class="bckg-topnav"><a href="index.php" class="txt-topnav">HOME</a> | <a href="aboutus.php" class="txt-topnav">ABOUT</a> | <a href="advertise.php" class="txt-topnav">ADVERTISE</a> | <a href="contact.php" class="txt-topnav">CONTACT</a> |<a href="newsletter.php" class="txt-topnav"> NEWSLETTERS</a> | <a href="past-publications.php" class="txt-topnav">PAST PUBLICATIONS</a> | <a href="http://www.developershed.com/esupport/" class="txt-topnav">SUPPORT</a> | <a href="tools.php" class="txt-topnav">TOOLS</a> | <a href="video.php" class="txt-topnav">VIDEO</a> | <a href="writers.php" class="txt-topnav">WRITERS</a> </td>
+        <td width="1"></td>
+        <td class="buton">DEVELOPER SHED NETWORK</td>
+      </tr>
+    </tbody></table><!-- #EndLibraryItem --><table width="874" border="0" align="center" cellpadding="0" cellspacing="0">
+        <tbody><tr>
+          <td height="2"></td>
+          <td></td>
+          <td height="2"></td>
+        </tr>
+        <tr>
+
+          <td width="688" valign="top"><table width="687" border="0" cellpadding="0" cellspacing="0" background="images/bckg-gray3.gif">
+            <tbody><tr>
+              <td>
+                <table width="96%" border="0" align="center" cellpadding="0" cellspacing="0">
+                  <tbody><tr>
+                    <td>&nbsp;</td>
+                  </tr>
+                  <tr>
+                    <td class="txt2"><span class="titgreendev">Privacy Policy</span><br>
+                        <br>
+                        <p class="txt"><strong>DEVELOPER SHED INC. PRIVACY STATEMENT </strong><br>
+                          Developer Shed, ("DEVELOPER SHED,"), comprised of the Internet sites Developer Shed, developershed.com, devshed.com, aspfree.com, devarticles.com, scripts.com, devhardware.com, devarchives.com, seochat.com, devmechanic.com, and webhosters.com (the "DEVELOPER SHED, Sites"), is committed to protecting the privacy of users of the DEVELOPER SHED, Sites. At DEVELOPER SHED, we do our best to provide as much security as possible concerning personal information and registration data. As part of the normal operation of the DEVELOPER SHED, Sites, we collect information from you. This Privacy Statement describes the information we collect and how that information may be used.<br>
+                          <br>
+                          <span class="titgreendev2">INFORMATION GATHERED THROUGH THE DEVELOPER SHED, SITES:</span><br>
+                          DEVELOPER SHED, will track the domains from which people visit the DEVELOPER SHED, Sites in order to gain aggregate data that may be analyzed for trends and statistics. Subject to the provisions of this Privacy Statement, DEVELOPER SHED, ay use accumulated aggregate data for several purposes including, but not limited to, marketing analysis, evaluation of DEVELOPER SHED, services, and business planning.<br>
+                          <br>
+                          Currently, DEVELOPER SHED, uses personal information as a basis for notifications to users, and in order to implement the Terms and Conditions of Use governing the DEVELOPER SHED, Sites (the "Terms"). Generally, the user names, email addresses, and any additional information that a user may choose to post are publicly available on the DEVELOPER SHED, Sites. When users voluntarily and publicly disclose personal information that may contain Registration Data, as defined in the Terms, or otherwise post personal information in conjunction with content subject to a license, such personal information necessarily will be disclosed subject to the terms of the applicable license. An example of such a disclosure includes, but is not limited to, a user's disclosure of personal information as part of a message posted to a public message forum.<br>
+                          <br>
+                          DEVELOPER SHED, may conduct surveys or other studies of its user base and usage for marketing and planning purposes. Participation in such surveys is at the user's option. With respect to information collected from such surveys or studies, and in the event that responses are to be publicly disclosed, users will be notified at the time they take the survey and DEVELOPER SHED, will disclose only aggregate information regarding its users and not personal information identifying any specific individual. Circumstances under which DEVELOPER SHED, would publicly disclose aggregate information include, but are not limited to, sharing survey results with the site population, providing data to DEVELOPER SHED, advertisers on user preferences and/or demographics, business planning, and publicizing overall usage data in press communications.<br>
+                          <br>
+                          <span class="titgreendev2">Cookies</span>: DEVELOPER SHED, employs "cookies" to provide users with tailored information. A "cookie" is an element of data that a website, when visited by a user, sends to that user's browser which, in turn, may store that element on the user's hard drive or memory. DEVELOPER SHED, uses cookies to better serve users of our DEVELOPER SHED, Sites; any cookies sent by DEVELOPER SHED, will be marked so that they will be accessible only by DEVELOPER SHED, Sites subject to this Privacy Statement. However, at his or her option and at his or her sole expense and responsibility, any user may block or delete our cookies from his or her hard drive. However, by disabling cookies, certain site features and functionality may no longer work properly, or at all.<br>
+                          <br>
+                          <span class="titgreendev2">Other Notification:</span> In order to implement or enforce the Terms, DEVELOPER SHED, may use user-provided e-mail addresses to contact users on an individual basis. At no time, unless such disclosure is required by law, a governmental agency, or specifically authorized by the user, will DEVELOPER SHED, disclose individual user personal information to unrelated third parties that is not publicly available.<br>
+                          <br>
+                          <span class="titgreendev2">LINKS WITH OTHER SITES</span><br>
+                          The DEVELOPER SHED, Sites contain links to other websites, whether owned or controlled by DEVELOPER SHED, affiliates, or unrelated third parties. Please note that the privacy policies of these sites may differ from those of the DEVELOPER SHED, Sites. DEVELOPER SHED, is not responsible for the privacy policies and practices of any linked website. We encourage you to read the privacy statement of any website you may visit.<br>
+                          <br>
+                          <span class="titgreendev2">CHOICE</span><br>
+                          "Opt-in" Emails: Users may "opt-in" to receive site notifications, newsletters, or other information via email. Users may remove themselves from such services at their discretion. Any email sent to an "opt-in" list will include directions for how a user may remove himself or herself from the list, or the URL where the user may remove themselves is http://www.developershed.com/optout.php.<br>
+                          <br>
+                          Profile Display: In some cases, users' personal information may be publicly available through a user's profile display such as our forums. In such cases, users have the option to opt out of publicly displaying their personal information, including e-mail addresses. Users may also enlist this technique when posing comments on certain DEVELOPER SHED, Sites. In cases where site profiles allow users to display optional information publicly, such entry and display is at the user's discretion and may be changed at any time by the user.<br>
+                          <br>
+                          <span class="titgreendev2">SECURITY<br>
+                          </span>To secure site integrity, DEVELOPER SHED, employs measures, including but not limited to security audits, use of encryption tools and software, and other reasonable security measures and procedures.<br>
+                          <br>
+                          Internal access to users' private and nonpublic personal information is restricted to site administrators and individuals on a need-to-know basis.<br>
+                          <br>
+                          <span class="titgreendev2">ENFORCEMENT<br>
+                          </span>In the event that DEVELOPER SHED, becomes aware that site security is compromised or nonpublic user information has been disclosed to unrelated third parties as a result of external activity, including but not limited to external security attacks, DEVELOPER SHED, shall take reasonable measures which it deems appropriate, including but not limited to internal investigation and reporting, and notification to and cooperation with law enforcement authorities, notwithstanding other provisions of this Privacy Statement.<br>
+                          <br>
+                          If DEVELOPER SHED, becomes aware that a user's personal information provided to DEVELOPER SHED, has been disclosed in a manner not in accordance with this Privacy Statement, DEVELOPER SHED, shall make reasonable efforts to notify the affected user, as soon as reasonably possible and as permitted by law, of what information has been disclosed, to the extent that DEVELOPER SHED, knows this information.<br>
+                          <br>
+                          <span class="titgreendev2">THIRD PARTY ADVERTISING</span><br>
+                          We use several third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit http://www.networkadvertising.org/optout_nonppii.asp.<br>
+                          <br>
+                          <span class="titgreendev2">UPDATES TO THE PRIVACY STATEMENT</span><br>
+                          To update the Privacy Statement, we will post both the changed version and its effective date at http://www.DeveloperShed.com/privacy.php.<br>
+                          <span class="titgreendev2"><br>
+                          NO GUARANTEES FOR FACTORS BEYOND DEVELOPER SHED, CONTROL<br>
+                          <br>
+                          </span>While this Privacy Statement expresses DEVELOPER SHED, standards for maintenance of private data, it is not in a position to guarantee that the standards will always be met. There may be factors beyond DEVELOPER SHED, control that may result in disclosure of data. As a consequence, DEVELOPER SHED, disclaims any warranties or representations relating to maintenance or nondisclosure of private information.<br>
+                          <br>
+                          <span class="footer">Last modified: 11/14/07</span><br>
+                        </p>
+                        <br></td>
+                  </tr>
+                </tbody></table></td>
+            </tr>
+          </tbody></table>
+            </td>
+          <td width="1"></td>
+          <td width="1"></td>
+          <td width="185" valign="top" bgcolor="#CCCCCC"><!-- #BeginLibraryItem "/Library/sidenav.lbi" --><table width="185" border="0" cellspacing="0" cellpadding="0">
+              <tbody><tr>
+                <td><img src="images/ima-sidenav-top.gif" alt="." width="185" height="6"></td>
+              </tr>
+              <tr>
+                <td class="bckg-sidenav"><a href="devshed.php"><img src="images/logo-s-devshed.gif" alt="Dev Shed" width="28" height="22" border="0"></a><a href="devshed.php" class="bckg-sidenav">&nbsp;Dev Shed</a></td>
+  </tr>
+              <tr>
+                <td class="bckg-sidenav"><a href="aspfree.php"><img src="images/logo-s-aspfree.gif" alt="ASP Free" width="28" height="22" border="0"></a> <a href="aspfree.php" class="bckg-sidenav">ASP Free</a></td>
+  </tr>
+              <tr>
+                <td class="bckg-sidenav"><a href="devarticles.php"><img src="images/logo-s-devarticles.gif" alt="Dev Articles" width="28" height="22" border="0"></a> <a href="devarticles.php" class="bckg-sidenav">Dev Articles</a></td>
+  </tr>
+              
+              <tr>
+                <td class="bckg-sidenav"><a href="devhardware.php"><img src="images/logo-s-devhardware.gif" alt="Dev Hardware" width="28" height="22" border="0"></a> <a href="devhardware.php" class="bckg-sidenav">Dev Hardware</a></td>
+  </tr>
+              <tr>
+                <td class="bckg-sidenav"><a href="seochat.php"><img src="images/logo-s--seochat.gif" alt="SEO Chat" width="28" height="22" border="0"></a> <a href="seochat.php" class="bckg-sidenav">SEO Chat</a></td>
+  </tr>
+              <tr>
+                <td class="bckg-sidenav"><a href="tutorialized.php"><img src="images/logo-s-tutorialized.gif" alt="Tutorialized" width="28" height="22" border="0"></a> <a href="tutorialized.php" class="bckg-sidenav">Tutorialized</a></td>
+  </tr>
+              <tr>
+                <td class="bckg-sidenav"><a href="scripts.php"><img src="images/logo-s-scripts.gif" alt="Scripts" width="28" height="22" border="0"></a> <a href="scripts.php" class="bckg-sidenav">Scripts</a></td>
+  </tr>
+              <tr>
+                <td class="bckg-sidenav"><a href="codewalkers.php"><img src="images/logo-s-codewalkers.gif" alt="Codewalkers" width="28" height="22" border="0"></a> <a href="codewalkers.php" class="bckg-sidenav">Codewalkers</a></td>
+  </tr>
+              <tr>
+                <td class="bckg-sidenav"><a href="webhosters.php"><img src="images/logo-s-webhosters.gif" alt="Web Hosters" width="28" height="23" border="0"></a> <a href="webhosters.php" class="bckg-sidenav">Web Hosters</a></td>
+  </tr>
+              <tr>
+                <td class="bckg-sidenav"><a href="devmechanic.php"><img src="images/logo-s-devmechanic.gif" alt="Dev Mechanic" width="28" height="22" border="0"></a> <a href="devmechanic.php" class="bckg-sidenav">Dev Mechanic</a></td>
+  </tr>
+              <tr>
+                <td class="bckg-sidenav"><a href="devarchives.php"><img src="images/logo-s-devarchives.gif" alt="Dev Archives" width="28" height="22" border="0"></a> <a href="devarchives.php" class="bckg-sidenav">Dev Archives</a></td>
+  </tr>
+              <tr>
+                <td class="bckg-sidenav"><a href="itmarketplace.php"><img src="images/logo-s-itmarketplace.gif" alt="IT Marketplace" width="28" height="22" border="0"></a> <a href="itmarketplace.php" class="bckg-sidenav">IT Marketplace</a></td>
+  </tr>
+              <tr>
+                <td class="bckg-sidenav2"><a href="igrep.php"><img src="images/logo-s-igrep.gif" alt="igrep" width="28" height="22" border="0"></a> <a href="igrep.php" class="bckg-sidenav2">igrep</a></td>
+  </tr>
+              <tr>
+                <td><img src="images/ima-sidenav-bottom.gif" alt="" width="185" height="4"></td>
+              </tr>
+              
+          </tbody></table>
+<!-- #EndLibraryItem -->
+
+<img src="images/image-sidenav.gif" alt="" width="185" height="128"></td>	</tr>
+      </tbody></table>
+      <!-- #BeginLibraryItem "/Library/footer.lbi" --><table width="874" border="0" align="center" cellpadding="0" cellspacing="0">
+        <tbody><tr>
+          <td><img src="images/footer-gray.gif" alt="" width="874" height="24"></td>
+        </tr>
+        <tr>
+          <td height="60"><div align="center" class="footer"><a href="http://www.baselinemag.com" class="footer">Baseline</a> | <a href="http://www.careers.eweek.com/" class="footer">Careers</a> | <a href="http://www.channelinsider.com/" class="footer">Channel Insider</a> | <a href="http://www.cioinsight.com/" class="footer">CIO Insight</a> | <a href="http://www.desktoplinux.com/" class="footer">DesktopLinux</a> | <a href="http://www.deviceforge.com/" class="footer">DeviceForge</a> | <a href="http://www.devsource.com/" class="footer">DevSource</a> | <a href="http://www.eseminarslive.com/" class="footer">e-Seminars</a> <br>
+<a href="http://www.eweek.com/" class="footer">eWEEK</a>| <a href="http://www.linuxdevices.com/" class="footer">LinuxDevices</a> | <a href="http://www.linux-watch.com/" class="footer">Linux Watch</a> | <a href="http://www.microsoft-watch.com/" class="footer">Microsoft Watch</a> | <a href="http://midmarket.eweek.com/" class="footer">Mid-Market</a> | <a href="http://www.networking.eweek.com/" class="footer">Networking</a> | <a href="http://www.pdfzone.com/" class="footer">PDF Zone</a> <br>
+                  <a href="http://www.publish.com/" class="footer">Publish</a> | <a href="http://www.security.ithub.com/" class="footer">Security IT Hub</a> | <a href="http://www.esp.eweek.com/" class="footer">Strategic Partner</a> | <a href="http://www.webbuyersguide.com/" class="footer">Web Buyer's Guide</a> | <a href="http://www.windowsfordevices.com/" class="footer">Windows for Devices</a> <br>
+          </div></td>
+        </tr>
+        <tr>
+          <td height="40"><div align="center"><span class="footer2">© 2003-2007 by <a href="http://www.developershed.com/">Developer Shed</a>. All rights reserved. DS Cluster 1 hosted by <a href="http://www.hostway.com/" target="_blank">Hostway</a>.</span></div></td>
+        </tr>
+      </tbody></table><!-- #EndLibraryItem --></td>
+  </tr>
+</tbody></table>
 
 
 </body></html>
