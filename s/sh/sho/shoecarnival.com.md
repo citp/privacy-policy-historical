@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the shoecarnival.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627124128id_/http%3A//www.shoecarnival.com/content/112/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoecarnival.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226164505id_/http%3A//www.shoecarnival.com/content/112/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Shoe Carnival :: Privacy Policy
 
 **Welcome**   
-Welcome to [www.shoecarnival.com](http://www.shoecarnival.com/). This site is owned by Shoe Carnival, Inc. **Your privacy is very important to us.** This policy is intended to give you a clear understanding about our practices regarding collection, use, and disclosure of information that you may provide via this site. Please be sure to read this entire Privacy Policy before using or submitting information to this site. 
+Welcome to [http://www.shoecarnival.com/](https://web.archive.org/). This site is owned by Shoe Carnival, Inc. **Your privacy is very important to us.** This policy is intended to give you a clear understanding about our practices regarding collection, use, and disclosure of information that you may provide via this site. Please be sure to read this entire Privacy Policy before using or submitting information to this site. 
 
 **Your Consent**  
 By using this site, you agree to the terms of this Privacy Policy. Whenever you submit information via this site, you consent to the collection, use, and disclosure of that information in accordance with this Privacy Policy. 
@@ -43,8 +43,8 @@ _Write Us:_
 
 Shoe Carnival, Inc.  
 Attn: Customer Relations  
-8233 Baumgart Road  
-Evansville, IN 47725
+7500 E. Columbia St.  
+Evansville, IN 47715
 
  _Call Us:_
 
@@ -52,7 +52,7 @@ Evansville, IN 47725
 
  _E-Mail Us:_
 
-[ info@shoecarnival.com](mailto:info@shoecarnival.com)
+[info@shoecarnival.com](mailto:info@shoecarnival.com)
 
  **Changes to this Privacy Policy**  
 If this Privacy Policy changes, the revised policy will be posted on this site. Please check back periodically, and especially before you provide any personally identifiable information. This Privacy Policy was last updated on December 1, 2006.
