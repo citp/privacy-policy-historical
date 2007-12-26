@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the indybay.org privacy policy that was archived on 2006-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060206101510id_/http%3A//www.indybay.org/news/2003/12/1665906.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indybay.org privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226051151id_/http%3A//www.indybay.org/news/2003/12/1665906.php) for the most accurate reproduction.*
 
-# Privacy Policy : SF Bay Area Indymedia
+# Privacy Policy : Indybay
 
-[](https://web.archive.org/calendar/) [](https://web.archive.org/news/2003/12/1665904.php)
+[](https://web.archive.org/news/2003/12/1665904.php)
 
-$172.01 donated in past month
+$90.00 donated in past month
 
   
 **africa**
@@ -47,6 +47,8 @@ $172.01 donated in past month
 
 | 
 
+### [Indymedia](https://web.archive.org/indymedia)
+
 > ### Privacy Policy
 
 The SF Bay Area IMC intends to give you the user as much control as possible over your personal information. We will let each user know how we will use the personal information derived from each user's access to and use of the web site services.
@@ -72,7 +74,7 @@ Subscription-based News Emails
 Other Notification
     In order to arrange for the production of web content, print publications, and audio and video features, the SF Bay Area IMC may use personal information to contact users on an individual basis.
 Name, E-mail, Phone Number, Address Display
-    Users' personal information may be publicly available through a user's published articles. Users have the option to opt out of publicly displaying their real names by typing in a pseudonym; users may choose to not disclose address or telephone contact information at all. Requests to remove personal identifying information from published articles must be e-mailed to [sfbay-tech@indymedia.org](mailto:sfbay-tech@indymedia.org). 
+    Users' personal information may be publicly available through a user's published articles. Users have the option to opt out of publicly displaying their real names by typing in a pseudonym; users may choose to not disclose address or telephone contact information at all. Requests to remove personal identifying information from published articles must be e-mailed to [sfbay-web@lists.indymedia.org](mailto:sfbay-web@lists.indymedia.org).
 General
     In cases where users voluntarily and publicly disclose personal information in conjunction with content published subject to the SF Bay Area IMC content usage policy, such personal information may or may not be disclosed as part of a non-commercial assemblage of Indymedia content, whether in print, electronic, audio or video. The producers of any such compilation will make every effort to contact the original author to determine whether credit/disclosure is desired.
 
@@ -82,7 +84,7 @@ The SF Bay Area IMC e-mail lists, hosted at lists.indymedia.org, are configured 
 
 #### ACCESS
 
-When technically feasible, users will be permitted to update their personal information directly through SF Bay Area IMC web site services. While such updating service is not technically feasible, the SF Bay Area IMC will make reasonable efforts to assist users in updating their personal information. Please e-mail [sfbay-tech@indymedia.org](mailto:sfbay-tech@indymedia.org) for assistance.
+When technically feasible, users will be permitted to update their personal information directly through SF Bay Area IMC web site services. While such updating service is not technically feasible, the SF Bay Area IMC will make reasonable efforts to assist users in updating their personal information. Please e-mail [sfbay-web@lists.indymedia.org](mailto:sfbay-web@lists.indymedia.org) for assistance.
 
 #### SECURITY
 
@@ -90,12 +92,10 @@ To secure site integrity, the SF Bay Area IMC employs measures including but not
 
 #### ENFORCEMENT
 
-In the event that the SF Bay Area IMC becomes aware that site security is compromised or nonpublic user information has been disclosed to unrelated third parties as a result of external activity, including but not limited to law enforcement activities or external security attacks, the SF Bay Area IMC shall take reasonable measures which it deems appropriate, including internal investigation and, if required, cooperation with our web hosts, Transbay.net and Communitycolo.net.
+In the event that the SF Bay Area IMC becomes aware that site security is compromised or nonpublic user information has been disclosed to unrelated third parties as a result of external activity, including but not limited to law enforcement activities or external security attacks, the SF Bay Area IMC shall take reasonable measures which it deems appropriate, including internal investigation and, if required, cooperation with our web hosts.
 
 If the SF Bay Area IMC becomes aware that a user's personal information provided to the SF Bay Area IMC has been disclosed in a manner not permitted by this Privacy Policy, the SF Bay Area IMC shall make reasonable efforts to notify the affected user, as soon as reasonably possible, of what information has been disclosed, to the extent that the SF Bay Area IMC knows this information.
 
 #### UPDATES TO THE PRIVACY POLICY
 
 To update the privacy policy, we will post the changed version and its effective date at <http://www.indybay.org/>.
-
-> Cameryn Boyd was murdered. The police continue to kill young blacks and continue to justify themselves , because they are the "Police".... and that gives them the right (in their heads) to do whatever they think they can get away with...which is pretty much anything. These murders need to stop. Whoever wrote that Cameryn Boyd was a punk, is probably a cop. And whoever likened his Mother to the Wendy's finger lady is off their rocker. The police murdered a double amputee in cold blooded murder. They are getting paid to murder , torture and beat citizens. The police departments need to be ridden of the officers that do more harm than good. I don't know the answers. But I, as a Mom, I am overwhelmed with grief, and tired of going to young peoples funerals . Young people are not supposed to die... it's supposed to be the old folks!! And I support Marilyn . Maybe she will be the Mom that makes the difference...these murders must end!!! And I for one, I won't call a cop when there's a problem, because they (the cops) are so scarey. And I'm white! 
