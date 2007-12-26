@@ -1,35 +1,66 @@
-> *The following text is extracted and transformed from the abs.gov.au privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609162201id_/http%3A//www.abs.gov.au/websitedbs/d3310114.nsf/Home/Privacy%3FOpenDocument) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abs.gov.au privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226230229id_/http%3A//abs.gov.au/websitedbs/d3310114.nsf/Home/Privacy%3FOpenDocument) for the most accurate reproduction.*
 
 # ABS Web Site Privacy Statement
 
-  
-  
-The Australian Bureau of Statistics is committed to protecting your privacy in accordance with the [_Privacy Commissioner’s Guidelines_](http://www.privacy.gov.au/internet/web/index.html). The guidelines set out the requirements for transparent collection, appropriate and ethical use and secure storage of personal information. Our aim is to provide an online environment which will ensure the information you provide to us is handled in a secure, efficient and confidential manner.The ABS logs the following information to analyse use of the ABS web site:
+This privacy statement relates to the information collected in your use of the ABS website. It does not cover information collected in surveys conducted under the 
+
+[_Census and Statistics Act 1905_](http://www.comlaw.gov.au/comlaw/management.nsf/lookupindexpagesbyid/IP200401302?OpenDocument). For information about privacy of survey data, please see [_Survey Participant Information_](http://www.abs.gov.au/websitedbs/d3310114.nsf/Home/Survey+Participant+Information?OpenDocument). ****
+
+**Our commitment**
+
+The Australian Bureau of Statistics is committed to protecting your privacy. It does so by conforming to the 
+
+[_Privacy Commissioner’s Guidelines_](http://www.privacy.gov.au/internet/web/index.html), which require transparent collection, appropriate and ethical use, and secure storage of personal information. We also adhere to the [_Information Privacy Principles under the Privacy Act of 1988_](http://www.privacy.gov.au/publications/ipps.html).
+
+The information you provide through this website will be kept secure **** by the ABS. 
+
+**Information collected**
+
+The ABS monitors use of its site in order to improve the site and the website services provided to you. In doing so, we collect: 
 
   * your server address 
-  * the date and time of the visit to the site 
-  * the pages accessed and documents downloaded 
-  * the previous site visited 
-  * the type of browser and operating system used. ~~  
-~~
-
-If you send us an e-mail message, we will only use your e-mail address for the purpose for which you provided it and it will not be added to a mailing list. We will not use your e-mail address for any other purpose, and will not disclose it, without your consent.
-
-To purchase ABS products online, your web browser will need to accept cookies. The ABS web site uses single-session cookies for this purpose. If you don't want to accept cookies, a range of off-line purchasing methods are available. Some ABS online products, eg CLIB 2001, also require your web browser to accept persistent cookies. If you do not or cannot store cookies, stand-alone versions of these products may be available.
+  * the date and time of your visit 
+  * the pages you accessed and the documents you downloaded 
+  * the search terms you used 
+  * the previous site you visited 
+  * your top level domain name (such as .com, .gov, .au, et cetera), and 
+  * the browser and operating system you used in visiting our site. 
 
   
-Where your personal information is requested by the ABS web site, it will only be used for the purpose stated and will not be disclosed beyond the ABS without your consent. However, in exceptional circumstances in which the ABS is required by law to release information, such as in the investigation of a criminal offence, and in compliance with a search warrant or subpoena, your personal data may be disclosed.   
-  
-This site is accredited and maintained to Commonwealth Government Internet security standards to ensure the confidentiality and/or integrity of information posted on the site. These standards meet or exceed Australian information security management standards (AS/NZS 4444).
+This information is used by the ABS for this purpose only. We do not collect identifiable personal information about you if you only browse this website.
 
-The information you provide through the web site will be kept secure within the ABS. If you prefer not to submit information via the web site, you can send the information via the ABS National Information & Referral Service (details below). If you take this approach, please make it clear which part of the web site you are responding to.
+**Personal information**
 
-Telephone: 1300 135 070  
-Fax: 1300 135 211  
-Post: Client Services, ABS, GPO Box 796, Sydney NSW 2001  
-Email: 
+When accessing specific ABS services (for example, if you are buying ABS products online), you may be required to provide personal information. This information will only be used for the stated purpose, and will not be disclosed without your consent unless the ABS is required by law to do so, for example, to comply with a search warrant or subpoena.
 
-[client.services@abs.gov.au](mailto:client.services@abs.gov.au)  
-Overseas clients please call: +61 2 9268 4909
+**Email addresses**
 
-This page last updated 10 August 2006
+We will only use your email address for the purpose for which you provided it. It will not be added to a mailing list without your express permission, and will be removed from any ABS list at your request. We will not disclose your email address without your consent.
+
+**Cookies**
+
+_Single session cookies_
+
+To allow you to buy ABS products online, your web browser will need to accept cookies. The cookies we use for this purpose expire when you close your browser or switch off your computer. If you don't want to accept cookies, you may purchase ABS products off line by contacting our 
+
+[_National Information and Referral Service_](http://www.abs.gov.au/websitedbs/d3310114.nsf/Home/Contact+Us?OpenDocument).
+
+_Persistent cookies_
+
+Some ABS online products and services also require your web browser to accept persistent cookies. If you do not or cannot store cookies, it may be possible to acquire versions of these products and services on CD ROM or other media not connected to the Internet. Please contact the 
+
+[_National Information and Referral Service_](http://www.abs.gov.au/websitedbs/d3310114.nsf/Home/Contact+Us?OpenDocument) for further information.
+
+**Other sites**
+
+This site contains links to external web sites, which are not covered by this privacy statement. We recommend that you review the privacy statement of each site you visit.
+
+**Accreditation**
+
+This site is accredited and maintained to Australian Government Internet security standards to ensure the confidentiality and/or integrity of information posted on the site. These standards meet or exceed Australian information security management standards (AS/NZS 4444).
+
+**Alternatives to the website**
+
+If you prefer not to submit information via the website, you can send it to the 
+
+[_National Information and Referral Service_](http://www.abs.gov.au/websitedbs/d3310114.nsf/Home/Contact+Us?OpenDocument). If you take this approach, please make it clear which part of the website you are responding to.
