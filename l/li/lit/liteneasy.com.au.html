@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the liteneasy.com.au privacy policy that was archived on 2007-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070615022658id_/http%3A//www.liteneasy.com.au/home/privacy_policy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the liteneasy.com.au privacy policy that was archived on 2007-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071226161903id_/http%3A//www.liteneasy.com.au/home/privacy_policy.cfm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 	<title>Lite n' Easy - Privacy Policy</title>
@@ -34,7 +34,23 @@
 
 <script language="JavaScript" src="../modules/header_content.js"></script>
 <script language="JavaScript" src="../modules/header_action.js"></script>
- 
+ <script type="text/javascript" language="javascript">
+ function MMpopup (url,name,height,width) {
+	var popup_height = height;
+	var popup_width = width;
+	var popup_locX = (self.screen.availWidth - popup_width) / 2;
+	var popup_locY = (self.screen.availHeight - popup_height) / 2;
+
+	if (navigator.appName == "Microsoft Internet Explorer")
+		theWin = window.open (url, name, "height=" + popup_height + ",width=" + popup_width + ",left=" + popup_locX + ",top=" + popup_locY + ",location=no,status=no,scrollbars=yes,resizable=yes");
+	else
+		theWin = window.open (url, name, "height=" + popup_height + ",width=" + popup_width + ",screenX=" + popup_locX + ",screenY=" + popup_locY +",location=no,status=false,scrollbars=yes,resizable=yes");
+
+	if (!((navigator.appName == "Microsoft Internet Explorer") && (parseInt(navigator.appVersion) <= 3))) theWin.focus();
+	
+	// return theWin
+}
+ </script>
 
 
 
@@ -45,7 +61,7 @@
 		<td colspan="2" align="center"><img src="../images/logo_medium.gif" width="133" height="71" alt="Lite n' Easy" border="0" vspace="10"></td>
 		
 		
-					<td colspan="2" align="right" valign="bottom"><a href="../ourprograms/success_stories.cfm?stoID=2"><img src="../images/stories/02_elizabethbulic_banner.jpg" width="488" height="83" alt="Click here to read more!" border="0"></a></td>
+					<td colspan="2" align="right" valign="bottom"><a href="Javascript:;" onclick="MMpopup('../order/minimeals.html','popup_mealdetails',600,800)"><img src="../images/minimeals.jpg" width="488" height="83" alt="Click here to read more!" title="Click here to read more!" border="0"></a></td>
 				
 	<td class="bg_lightgrey"><img src="../resources/sp.gif" width="1" height="1"></td>
 	<td><img src="../resources/sp.gif" width="1" height="1"></td>
