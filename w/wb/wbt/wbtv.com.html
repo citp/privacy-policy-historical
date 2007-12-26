@@ -1,247 +1,2261 @@
-<!--The following is the downloaded HTML source of the wbtv.com privacy policy that was archived on 2006-04-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060430071404id_/http%3A//wbtv.com/privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wbtv.com privacy policy that was archived on 2007-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071226034407id_/http%3A//www.wbtv.com/privacy) for the most accurate reproduction.-->
 
-<html><head></head><body class="global"><a name="top"></a>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<title>
 
 
-<title>WBTV</title>
-	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-	<link rel="stylesheet" href="/css/master.css" type="text/css">
-	<script language="JavaScript" type="text/javascript" src="/scripts/global.js"></script>
+					WBTV
+				 | WBTV Privacy Policy
+	</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+
+
+<link rel="icon" href="http://media.wbtv.com/designimages/wbtv_favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="http://media.wbtv.com/designimages/wbtv_favicon.ico" type="image/x-icon">
+
+
+<link rel="stylesheet" href="http://www.wbtv.com/includes/alpha_general.css" type="text/css">
+
+
+
+
+<link rel="stylesheet" href="http://www.wbtv.com/includes/jpc_styles.css" type="text/css">
+<link rel="stylesheet" href="http://www.wbtv.com/includes/wbtv_styles.css" type="text/css">
+<style type="text/css">
+</style>
+
+
+
+<script language="Javascript" type="text/javascript">
+<!--
+function pollSubPop (url, name, widgets ) 
+{
+	popupWin = window.open(url, name, widgets);
+	var agt=navigator.userAgent.toLowerCase();
+	var is_major = parseInt(navigator.appVersion);
+     var is_ie     = ((agt.indexOf("msie") != -1) && (agt.indexOf("opera") == -1));
+     var is_ie3    = (is_ie && (is_major < 4));
+     var is_ie4    = (is_ie && (is_major == 4) && (agt.indexOf("msie 4")!=-1) );
+     var is_aol   = (agt.indexOf("aol") != -1);
+     var is_aol3  = (is_aol && is_ie3);
+     var is_aol4  = (is_aol && is_ie4);
+     var is_aol5  = (agt.indexOf("aol 5") != -1);
+     var is_aol6  = (agt.indexOf("aol 6") != -1);
+     var is_comp   = (agt.indexOf("compuserve") != -1);
+     var is_compie = (is_comp && is_ie);
+
+     if(!is_aol6 && !is_aol3 && !is_aol4 && !is_aol5 && !is_compie) { popupWin.opener.top.name = "opener"; }
+
+	popupWin.focus();
+}
+
+function openPopup (url, name, widgets ) 
+{
+	popupWin = window.open(url, name, widgets);
+	popupWin.focus();
+} 	
+function checkSearch() {
+    if (!isValidSearch(document.SearchBox.keywords.value)) {
+     displayError("Please enter a valid search term.", document.SearchBox.keywords);
+     return false;
+   }
+}
+function checkGenSearch() {
+    if (!isValidSearch(document.GenSearchBox.keywords.value)) {
+     displayError("Please enter a valid search term.", document.GenSearchBox.keywords);
+     return false;
+   }
+}
+function displayError(aMessage, aObject) {
+aObject.focus();
+alert(aMessage);
+}
+function isValidSearch(s){   
+if (isEmpty(s)) return false;
+if (isWhitespace(s)) return false;
+if (s=='search') return false;
+return true;
+}
+function isEmpty(s) { return ((s == null) || (s.length == 0)) }
+
+function isWhitespace (s) {   
+var i;
+var whitespace = " \t\n\r";
+if (isEmpty(s)) return true;
+   for (i = 0; i < s.length; i++)
+   {   
+    var c = s.charAt(i);
+    if (whitespace.indexOf(c) == -1) return false;
+    }
+   return true;
+}
+
+function isValidEmail(s) {   
+if (isEmpty(s)) return false;
+if (isWhitespace(s)) return false;
+var i = 1;
+var sLength = s.length;
+while ((i < sLength) && (s.charAt(i) != "@")) { i++ }
+  if ((i >= sLength) || (s.charAt(i) != "@")) return false;
+    else i += 2;
+    while ((i < sLength) && (s.charAt(i) != "."))
+    { i++
+    }
+    if ((i >= sLength - 1) || (s.charAt(i) != ".")) return false;
+    else return true;
+}
+
+function writeDate(){
+var d=new Date()
+var monthname=new Array("January","February","March","April","May","June","July","August","September","October","November","December")
+document.write(monthname[d.getMonth()] + " ")
+document.write(d.getDate() + ", ")
+document.write(d.getFullYear())
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>                                                                                                               
+
+
+
+
+
+<script language="JavaScript" src="http://www.wbtv.com/includes/BIM_js_popwin.js" type="text/javascript"></script> 
+
+
+
+
+
+
+<script language="JavaScript">
+<!--
+window.name = "main";
+//-->
+</script>
+
+
+
+
+<script language="JavaScript" src="http://www.wbtv.com/includes/BIM_js_sfhover.js" type="text/javascript"></script> 
+
+
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+<script language="Javascript" type="text/javascript">document.write('<scr'+'ipt language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/caspl.js?r='+Math.random()+'&c=3031&m=3196&d=106986&p=266&p=346&p=351&p=371&p=1491&p=796&p=801&p=806&p=811&p=816&p=821&p=866&p=826&p=1231&p=171&p=831&p=291&p=296&p=457&p=262&p=267&p=272&p=277&p=287&p=302&p=462"></scr'+'ipt>');</script><script language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/caspl.js?r=0.03044773022227587&amp;c=3031&amp;m=3196&amp;d=106986&amp;p=266&amp;p=346&amp;p=351&amp;p=371&amp;p=1491&amp;p=796&amp;p=801&amp;p=806&amp;p=811&amp;p=816&amp;p=821&amp;p=866&amp;p=826&amp;p=1231&amp;p=171&amp;p=831&amp;p=291&amp;p=296&amp;p=457&amp;p=262&amp;p=267&amp;p=272&amp;p=277&amp;p=287&amp;p=302&amp;p=462"></script>
+
+
+
+
+
+		
+
+
+</head>
+
+
+
+<body class="parentprivacy story wide" id="privacy">
+
+
+
+<div id="container">
+<div id="main">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script language="Javascript" type="text/javascript">if (self['plpm'] && plpm['Leaderboard']) document.write('<div id=\'leaderboard1\'>');if (self['plpm'] && plpm['Leaderboard']){ document.write(plpm['Leaderboard']);} else {  if(self['plurp'] && plurp['371']){} else {document.write('<scr'+'ipt language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r='+Math.random()+'&p=371&c=3031&m=3196&d=106986&pre=%3Cdiv+id%3D%27leaderboard1%27%3E&post=%3C%2Fdiv%3E"></scr'+'ipt>'); } }if (self['plpm'] && plpm['Leaderboard']) document.write('</div>');</script><script language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r=0.7831388431311568&amp;p=371&amp;c=3031&amp;m=3196&amp;d=106986&amp;pre=%3Cdiv+id%3D%27leaderboard1%27%3E&amp;post=%3C%2Fdiv%3E"></script>
+
+
+
+
+
+
+<div id="header"><img src="http://media.wbtv.com/designimages/header_wbtv.jpg" width="502" height="90" alt="" title="" border="0"><script language="Javascript" type="text/javascript">if (self['plpm'] && plpm['header']){ document.write(plpm['header']);} else {  if(self['plurp'] && plurp['346']){} else {document.write('<scr'+'ipt language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r='+Math.random()+'&p=346&c=3031&m=3196&d=106986"></scr'+'ipt>'); } }</script><script language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r=0.20623541691282843&amp;p=346&amp;c=3031&amp;m=3196&amp;d=106986"></script><script language="Javascript" type="text/javascript">if (self['plpm'] && plpm['headerpromo']) document.write('<div class=\'headerpromo\'>');if (self['plpm'] && plpm['headerpromo']){ document.write(plpm['headerpromo']);} else {  if(self['plurp'] && plurp['351']){} else {document.write('<scr'+'ipt language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r='+Math.random()+'&p=351&c=3031&m=3196&d=106986&pre=%3Cdiv+class%3D%27headerpromo%27%3E&post=%3C%2Fdiv%3E"></scr'+'ipt>'); } }if (self['plpm'] && plpm['headerpromo']) document.write('</div>');</script><script language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r=0.36797176765362893&amp;p=351&amp;c=3031&amp;m=3196&amp;d=106986&amp;pre=%3Cdiv+class%3D%27headerpromo%27%3E&amp;post=%3C%2Fdiv%3E"></script></div>
+
+
+
+
+
+
+<div id="searchbar"><!-- refresh -->
+<div id="date">Tuesday, December 25, 2007</div>
+<div id="search"><form class="searchform" method="get" action="/results" name="GenSearchBox" onsubmit="return checkGenSearch();"><input name="keywords" type="text" class="searchbox" size="50"><input type="hidden" name="searchType" value="gen"><input type="submit" name="submit" class="searchbutton" value="Search"></form>
+</div></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table cellpadding="0" cellspacing="0" border="0" id="maintable"><tbody><tr>
+
+<td class="columnleft" valign="top">
+
+<div class="callout"><a href="http://www.wbtv.com/news/allaccess/"><img src="http://media.wbtv.com/designimages/revised_button2.jpg" width="120" height="30" alt="" title="" border="0"></a></div>
+
+<div id="nav">
+<div id="navbuttons">
+<ul><li id="nav1"><a href="/">Home</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</li><li id="nav10"><a href="/weather">Weather</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<ul class="subnav">
+
+
+
+
+<li class="subnav1"><a href="/weather" target="">Forecast</a></li>
+
+
+
+<li class="subnav2"><a href="http://bimedia.ftp.clickability.com/wbtvwebftp/doppler.jpg" target="">Live Doppler Radar</a></li>
+
+
+
+<li class="subnav3"><a href="http://www.wunderground.com/auto/WBTV/tropical/" target="_blank">Hurricane Tracking</a></li>
+
+
+
+<li class="subnav4"><a href="/news/closings/4268631.html" target="">Closings &amp; Delays</a></li>
+
+
+
+<li class="subnav5"><a href="/weather/weathernet" target="">Scott Clark's Toyota City Weather Net</a></li>
+
+
+
+<li class="subnav6"><a href="/weather/livecams" target="">Live Cams</a></li>
+
+
+
+<li class="subnav7"><a href="/weather/featurephoto" target="">Eric's Feature Photo</a></li>
+
+
+
+<li class="subnav8"><a href="/weather/otherweather " target="">Other Weather Features</a></li>
+
+
+
+<li class="subnav9"><a href="/news/signup/6339597.html" target="">Email Forecasts</a></li></ul></li><li id="nav20"><a href="/news/topstories">News</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<ul class="subnav">
+
+
+
+
+<li class="subnav1"><a href="/news/topstories" target="">Top Stories</a></li>
+
+
+
+<li class="subnav2"><a href="/news/truth" target="">Sobering Truth</a></li>
+
+
+
+<li class="subnav3"><a href="/news/livenews/4304337.html" target="">Live Streaming Video</a></li>
+
+
+
+<li class="subnav4"><a href="/news/morningnews" target="">Morning News</a></li>
+
+
+
+<li class="subnav5"><a href="/news/crimealert" target="">Crime Alert</a></li>
+
+
+
+<li class="subnav6"><a href="/news/healthalert" target="">Health Alert</a></li>
+
+
+
+<li class="subnav7"><a href="/news/newstip" target="">News Tip</a></li>
+
+
+
+<li class="subnav8"><a href="http://wbtv.newsoverwireless.com/" target="">3 On Your Cell</a></li>
+
+
+
+<li class="subnav9"><a href="/news/onyourside" target="">3 On Your Side</a></li>
+
+
+
+<li class="subnav10"><a href="/news/signup" target="">Breaking News Alert</a></li></ul></li><li id="nav21"><a href="http://www.campaigncarolinas.com/">Campaign Carolinas</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</li><li id="nav22"><a href="http://www.wbtv.com/traffictravel">Traffic &amp; Travel</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<ul class="subnav">
+
+
+
+
+<li class="subnav1"><a href="/traffictravel" target="">WBTV Traffic Alert </a></li>
+
+
+
+<li class="subnav2"><a href="/news/airtravel" target="">Air Travel Guide</a></li></ul></li><li id="nav30"><a href="#">Prep Zone</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<ul class="subnav">
+
+
+
+
+<li class="subnav1"><a href="http://www.wbtvfootball.com" target="_blank">Football Friday Night </a></li>
+
+
+
+<li class="subnav2"><a href="/prep/localpreps" target="">Local Preps</a></li>
+
+
+
+<li class="subnav3"><a href="/prep/nominations" target="">Nominations</a></li></ul></li><li id="nav40"><a href="http://www.wbtv.com/promotions">Promotions</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<ul class="subnav">
+
+
+
+
+<li class="subnav1"><a href="http://wbtv.profootball.upickem.net/profootball/registration/login.asp" target="_blank">Football Fan Frenzy</a></li>
+
+
+
+<li class="subnav2"><a href="/promotions/2857636.html" target="">WBTV's Breakfast Club</a></li>
+
+
+
+<li class="subnav3"><a href="/projects/one/6728916.html " target="">Weather in Your Garden</a></li>
+
+
+
+<li class="subnav4"><a href="/promotions" target="">Other Promotions</a></li>
+
+
+
+<li class="subnav5"><a href="/promotions/innertube" target="">CBS Innertube</a></li>
+
+
+
+<li class="subnav6"><a href="http://www.wbtv.com/projects/two/10908396.html" target="">Angel Tree</a></li>
+
+
+
+<li class="subnav7"><a href="/promotions/10067611.html" target="">Color the Weather</a></li></ul></li><li id="nav50"><a href="http://www.wbtv.com/news/abouttown">3 About Town</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<ul class="subnav">
+
+
+
+
+<li class="subnav1"><a href="/news/abouttown" target="">Events Calendar</a></li>
+
+
+
+<li class="subnav2"><a href="/news/abouttown/holiday" target="">Holiday Events Guide</a></li>
+
+
+
+<li class="subnav3"><a href="/news/topstories/12259121.html" target="">Military Greetings</a></li>
+
+
+
+<li class="subnav4"><a href="/news/links" target="">Community Links</a></li>
+
+
+
+<li class="subnav5"><a href="/news/recipes" target="">Recipes</a></li></ul></li><li id="nav50"><a href="http://titantvguide.titantv.com/apg/ttv.aspx?siteid=52829" target="new">What's On</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</li><li id="nav60"><a href="/inside/bios">Inside WBTV</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<ul class="subnav">
+
+
+
+
+<li class="subnav1"><a href="/inside/bios" target="">Personalities</a></li>
+
+
+
+<li class="subnav2"><a href="/inside/eeo" target="">EEO</a></li>
+
+
+
+<li class="subnav3"><a href="/inside/visit" target="">Visit Our Studios</a></li>
+
+
+
+<li class="subnav4"><a href="http://www.lincolnfinancialmedia.com/recruiter/users/main.php" target="">Jobs@WBTV</a></li>
+
+
+
+<li class="subnav5"><a href="/news/features/12360241.html " target="">HDTV</a></li></ul></li><li id="nav70"><a href="http://www.wbtv.com/contact">Contact Us</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</li><li id="nav80"><a href="http://www.wbtv.com/classifieds">Classifieds</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</li></ul></div>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			
+
+
+
+
+
+
+ 
+
+
+
+
 	
-	<script src="/__utm.js" type="text/javascript"></script>
+
+
+		<script language="Javascript" type="text/javascript">if (self['plpm'] && plpm['150ad1']) document.write('<div class=\'callout\' id=\'ad1\'>');if (self['plpm'] && plpm['150ad1']){ document.write(plpm['150ad1']);} else {  if(self['plurp'] && plurp['291']){} else {document.write('<scr'+'ipt language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r='+Math.random()+'&p=291&c=3031&m=3196&d=106986&pre=%3Cdiv+class%3D%27callout%27+id%3D%27ad1%27%3E&post=%3C%2Fdiv%3E"></scr'+'ipt>'); } }if (self['plpm'] && plpm['150ad1']) document.write('</div>');</script><script language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r=0.7133524929903379&amp;p=291&amp;c=3031&amp;m=3196&amp;d=106986&amp;pre=%3Cdiv+class%3D%27callout%27+id%3D%27ad1%27%3E&amp;post=%3C%2Fdiv%3E"></script>
+			<script language="Javascript" type="text/javascript">if (self['plpm'] && plpm['150ad2']) document.write('<div class=\'callout\' id=\'ad2\'>');if (self['plpm'] && plpm['150ad2']){ document.write(plpm['150ad2']);} else {  if(self['plurp'] && plurp['296']){} else {document.write('<scr'+'ipt language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r='+Math.random()+'&p=296&c=3031&m=3196&d=106986&pre=%3Cdiv+class%3D%27callout%27+id%3D%27ad2%27%3E&post=%3C%2Fdiv%3E"></scr'+'ipt>'); } }if (self['plpm'] && plpm['150ad2']) document.write('</div>');</script><script language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r=0.0810607394353664&amp;p=296&amp;c=3031&amp;m=3196&amp;d=106986&amp;pre=%3Cdiv+class%3D%27callout%27+id%3D%27ad2%27%3E&amp;post=%3C%2Fdiv%3E"></script>
 	
+
+
+
+<div class="callout"><a href="http://www.wbtv.com/promotions/innertube"><img src="http://media.wbtv.com/designimages/wbtv_innertube_3.gif" width="120" height="90" alt="" title="" border="0"></a></div>
+
+
+
+
+
+
+
+
+
+
+
+		<script language="Javascript" type="text/javascript">if (self['plpm'] && plpm['150ad_multi']) document.write('<div class=\'callout\' id=\'150ad_multi\'>');if (self['plpm'] && plpm['150ad_multi']){ document.write(plpm['150ad_multi']);} else {  if(self['plurp'] && plurp['457']){} else {document.write('<scr'+'ipt language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r='+Math.random()+'&p=457&c=3031&m=3196&d=106986&pre=%3Cdiv+class%3D%27callout%27+id%3D%27150ad_multi%27%3E&post=%3C%2Fdiv%3E"></scr'+'ipt>'); } }if (self['plpm'] && plpm['150ad_multi']) document.write('</div>');</script><script language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r=0.6133126342124424&amp;p=457&amp;c=3031&amp;m=3196&amp;d=106986&amp;pre=%3Cdiv+class%3D%27callout%27+id%3D%27150ad_multi%27%3E&amp;post=%3C%2Fdiv%3E"></script>
 	
 
 
 
-<table width="799" border="0" cellspacing="0" cellpadding="0" align="center">
-	<tbody><tr> 
-		<td width="1" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="1" height="1"></td>
-		<td width="783">
-			<table width="783" border="0" cellspacing="0" cellpadding="0">
-				<tbody><tr bgcolor="#FFFFFF">
-					<td colspan="2"><img src="/images/spacer.gif" width="783" height="1"></td>
-				</tr>
-				<tr>
-					<td width="783" colspan="2"><a href="/index.cfm"><img src="/images/header_new.jpg" width="783" height="104"></a></td>
-				</tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</td>
+
+<td class="columncenter" valign="top">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script language="Javascript" type="text/javascript">if (self['plpm'] && plpm['topbanner']) document.write('<div id=\'ad_topbanner\' class=\'callout\'>');if (self['plpm'] && plpm['topbanner']){ document.write(plpm['topbanner']);} else {  if(self['plurp'] && plurp['831']){} else {document.write('<scr'+'ipt language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r='+Math.random()+'&p=831&c=3031&m=3196&d=106986&pre=%3Cdiv+id%3D%27ad_topbanner%27+class%3D%27callout%27%3E&post=%3C%2Fdiv%3E"></scr'+'ipt>'); } }if (self['plpm'] && plpm['topbanner']) document.write('</div>');</script><script language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r=0.7862953258717902&amp;p=831&amp;c=3031&amp;m=3196&amp;d=106986&amp;pre=%3Cdiv+id%3D%27ad_topbanner%27+class%3D%27callout%27%3E&amp;post=%3C%2Fdiv%3E"></script>
+
+
 				
-			</tbody></table>
-			<table width="783" border="0" cellspacing="0" cellpadding="0">
-				<tbody><tr>
-					<td width="71"><a href="/index.cfm" onmouseover="document.images.home.src='/images/nav_homex.gif'" onmouseout="document.images.home.src='/images/nav_homex.gif'"><img src="/images/nav_homex.gif" width="71" height="34" border="0" alt="Home" name="home"></a></td>
-					<td width="81"><a href="/weather/" onmouseover="document.images.weather.src='/images/nav_weatherx.gif'" onmouseout="document.images.weather.src='/images/nav_weather.gif'"><img src="/images/nav_weather.gif" width="81" height="34" border="0" alt="Weather" name="weather"></a></td>
-					<td width="61"><a href="/news/index.cfm?page=1&amp;startrow=1&amp;endrow=5" onmouseover="document.images.news.src='/images/nav_newsx.gif'" onmouseout="document.images.news.src='/images/nav_news.gif'"><img src="/images/nav_news.gif" width="61" height="34" border="0" alt="News" name="news"></a></td>
-					<td width="74"><a href="/traffic/" onmouseover="document.images.traffic.src='/images/nav_trafficx.gif'" onmouseout="document.images.traffic.src='/images/nav_traffic.gif'"><img src="/images/nav_traffic.gif" width="74" height="34" border="0" alt="Traffic" name="traffic"></a></td>
-					<td width="108"><a href="/onyourside/" onmouseover="document.images.onyourside.src='/images/nav_on_your_sidex.gif'" onmouseout="document.images.onyourside.src='/images/nav_on_your_side.gif'"><img src="/images/nav_on_your_side.gif" width="108" height="34" border="0" alt="On Your Side" name="onyourside"></a></td>
-					<td width="90"><a href="/prepzone/" onmouseover="document.images.prepzone.src='/images/nav_prepzonex.gif'" onmouseout="document.images.prepzone.src='/images/nav_prepzone.gif'"><img src="/images/nav_prepzone.gif" width="90" height="34" border="0" alt="Prep Zone" name="prepzone"></a></td>
-					<td width="90"><a href="/whatson/" onmouseover="document.images.whatson.src='/images/nav_whatsonx.gif'" onmouseout="document.images.whatson.src='/images/nav_whatson.gif'"><img src="/images/nav_whatson.gif" width="90" height="34" border="0" alt="What's On" name="whatson"></a></td>
-					<td width="99"><a href="/inside/" onmouseover="document.images.inside.src='/images/nav_insidex.gif'" onmouseout="document.images.inside.src='/images/nav_inside.gif'"><img src="/images/nav_inside.gif" width="99" height="34" alt="Inside WBTV" border="0" name="inside"></a></td>
+				<div id="storysection">
+
+		
+										
+				
+															
+		
+		
+		<script language="javascript1.2">
+		<!--
+		var clickTitle="Privacy Policy";
+		//-->
+		</script>
+
+		<!--startclickprintinclude-->
+		<!--clickprintexcludeimages-->
+
+				
+
+		
+										
+
+
+		
+
+
+				
+								<div class="sectiondiv">
+										<h1>WBTV Privacy Policy</h1>				</div>
+							
+
+			<div class="storybox">
+									
+			
+			
+								
+
+	
+				
+						
+																													
+
+
+
+															
+
+			
+
+						
+				
+			 
+
+						
+			
+
+						
+						
+
+						
+												<h1>Privacy Policy</h1>																					
+
+						
+			
+
+
+
+
+						
+			
+
+		
+
+				
+
+		
+
+		
+					<div class="storybody">
+			 
+
+									
+		
+			
+					 
+
+
+
+	
+
+
+						<p>This document describes WBTV's policy regarding information received about you during visits to our web site. The amount and type of information received depends on how you use our site.</p>
+											
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+			<p><strong>Normal Web Site Usage </strong></p>
+						<p>You can visit WBTV's web site to read information or use our online tools without telling us who you are and without revealing any personal information. The only information we collect and store during normal web site usage is the name of your Internet service provider, the web site that referred you to us, the pages you request and the date and time of those requests. We use this information to generate statistics and measure site activity to improve the usefulness of customer visits. During normal web site usage we do not collect or store personally identifiable information such as name, mailing address, email address, phone number or social security number.</p>
+						<p><strong>Collection of Personally Identifiable Information</strong></p>
+						<p>There are instances where WBTV requests personally identifiable information to provide our web site visitor a service or correspondence (promotions and mailed brochures). This information, such as name, mailing address, email address, type of request and possibly additional information, is collected and stored in a manner appropriate to the nature of the data by WBTV and is used to fulfill your request. If you tell us that the information should not be used as a basis for further contact, we will respect your request. The information you provide is used by WBTV to improve the services we provide you. It is never provided to any other company for that company's independent use.</p>
+						<p><strong>Additional Privacy Protections for Children Using the Internet </strong></p>
+						<p>WBTV joins the industry in recognizing that children, including young teens, may not be able to make informed choices about personal information requested online. Accordingly, WBTV does not knowingly target children or teenagers (younger than eighteen years of age) for collection of information online. WBTV does not solicit or collect customer identifiable information targeted at children and teenagers under eighteen and does not allow anyone else to do so on our web site. WBTV encourages parents to take an active role in protecting the privacy and security of their children and to prevent the inappropriate use of information about their children. WBTV also supports the development of technologies that help parents to control the collection and use of personal information from children who use online services in their households.</p>
+						<p><strong>Electronic Mail Sent to us that Contains Personal Information</strong></p>
+						<p>Internet users may decide to send WBTV personally identifying information, for example, in a message containing information about yourself. WBTV will only use this information to identify the user as a WBTV customer and to determine how to respond to the electronic mail. We will not use this information other than to resolve the matter identified in the email.</p>
+						<p>If you have provided us with your e-mail address so that we may include you in our newsletter or other mailing lists, we will place your email on those lists. We will provide a quick and effective method of removing yourself from the list quickly.</p>
+						<p><strong>Cookies and Your Privacy </strong></p>
+						<p>A web site may use cookies to simulate a continuous connection to that site. This makes it more convenient for users to visit pages within a site without having to reintroduce themselves with each mouse click. Cookies contain only information that users volunteer, and do not have the capability of infiltrating a user's hard drive or taking away personal information. The simple function of a cookie is that of helping the user navigate a web site with as little obstruction as possible. Most current browser versions offer users the following options relating to cookies: accept all cookies, accept only cookies that get sent back to the originating server, disable cookies. Another option is for your browser to warn you before accepting a cookie. Every time there is an incoming cookie, a dialog box will ask if you want to accept it. Please consult the user manual or the online Help manual of your browser for instructions on how to customize your browser with your cookie preferences.</p>
+						<p>WBTV uses cookies on only a few pages where you are asked to login or register and we only use it to remember your login/registration. We reserve the right to expand our use of this technology at any time and to modify our Privacy Policy as related.</p>
+						<p><strong>Changes</strong></p>
+						<p>We reserve the right to change our Privacy Policy. A revised Privacy Policy will only apply to data collected subsequent to its effective date. We reserve the right to modify or discontinue our web site and this Policy at any time.</p>
+	
+
 					
-					<td width="109"><a href="http://wbtv.newsoverwireless.com/" onmouseover="document.images.cell.src='/images/nav_3_on_cellx.gif'" onmouseout="document.images.cell.src='/images/nav_3_on_cell.gif'"><img src="/images/nav_3_on_cell.gif" width="109" height="34" alt="3 On Your Cell" border="0" name="cell"></a></td>
-				</tr>
-				<tr> 
-					<td width="783" colspan="9" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="783" height="5"></td>
-				</tr>
-			</tbody></table>
-			<table width="783" border="0" cellspacing="0" cellpadding="0">
-				<tbody><tr valign="top">
-					<td width="148" bgcolor="#EAF3FA">
-						
 
 
-	
-	
-	
-	
+			</div>
+		
 
-		
-		
-		
-		
-	
+
 		
 
 
 
-	
-	
-	
-	
-
 		
 		
+
+
 		
-		
-	
-		
 
-<table width="148" border="0" cellspacing="0" cellpadding="0">
-	
-	<tbody><tr>
-		<td><img src="/images/hdr/h_whatson.gif" width="148" height="37"></td>
-	</tr>
-	<tr>
-		<td class="nav" align="left" valign="top">Sun, Apr 30</td>
-	</tr>
-	<tr>
-		<td class="nowon" align="left" valign="top"><b>CURRENTLY ON:</b><br>
-		
-		3:05 AM<br><b>Everybody Loves Raymond</b>
-		
-		
-		</td>
-	</tr>
-	
-	
-		<tr>
-			<td class="navoff" align="left" valign="top"><font color="#000000"><b>TONIGHT:</b></font><br>8:00 PM<br><b>Cold Case</b></td>
-		</tr>
-	
-		<tr>
-			<td class="navoff" align="left" valign="top">9:00 PM<br><b>Jesse Stone: Death in Paradise</b></td>
-		</tr>
-	
-		<tr>
-			<td class="navoff" align="left" valign="top">11:00 PM<br><b>WBTV 3 News at 11 PM</b></td>
-		</tr>
-	
-		<tr>
-			<td class="navoff" align="left" valign="top">11:35 PM<br><b>Paid Program</b></td>
-		</tr>
-	
-	
-	<tr>
-		<td><a href="/whatson/index.cfm"><img src="/images/tv_more_schedule.gif" width="148" height="20" border="0"></a></td>
-	</tr>
-</tbody></table>
-						<br>
 
-<center>
+		<div class="storyinfo">
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a href="http://wbtv.newsoverwireless.com/" target="_self"><img src="../images/3OnCellVAn.gif" border="0" alt=""></a>
-
-<br><br>
-<a href="../eyeonwoman/index.cfm"><img src="../images/eyeOnWoman.gif"></a>
-
-
-<br><br>
-
-<a href="http://www.wbtv.com/news/special_events_detail.cfm?ns_id=13" target="_self"><img src="../images/contests/leftNav/BREAKFAST_W_JOHN_LENISE.gif"></a>
-
-
-
-
-</center>
-<br><br> 
-<!-- <img src="/images/ad_example.jpg" width="148" height="394"> -->
-
-					</td>
-					<td width="5" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="5" height="10"></td>
-					<td width="505" bgcolor="#DBEDFE">
-						
-						<map name="headerMap">
-							<area shape="POLY" alt="Paul Cameron" coords="16,99,14,83,51,61,58,49,53,31,55,17,66,7,75,7,86,10,94,28,91,53,88,58,107,62,98,73,91,101" href="http://www.wbtv.com/inside/inside_bio.cfm?tm_id=3">
-							<area shape="POLY" alt="Maureen O'Boyle" coords="92,101,97,72,119,67,111,45,117,18,132,11,149,19,157,31,160,56,155,68,180,76,184,102" href="http://www.wbtv.com/inside/inside_bio.cfm?tm_id=6">
-							<area shape="poly" alt="Tonia Bendickson" coords="185,102,181,76,182,67,201,64,192,58,192,22,212,15,234,27,234,53,227,64,246,91,245,102" href="http://www.wbtv.com/inside/inside_bio.cfm?tm_id=2">
-							<area shape="poly" alt="Jamie Boll" coords="246,102,247,91,228,64,254,54,248,43,244,21,258,5,274,6,283,13,283,29,280,49,326,72,333,101" href="http://www.wbtv.com/inside/">
-						</map>
-
-
-<table width="505" border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr>
-		<td style="border-top: 4px solid #ffffff;" bgcolor="DBEDFE"><img src="/images/hdr/h_priv_policy.gif" width="505" height="27"></td>
-	</tr>
-</tbody></table>
-	
-<table width="505" border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr align="left" valign="middle"> 
-			  <td style="padding: 15px 15px 17px 12px;" width="99%" align="left" valign="top">
-This document describes WBTV's policy regarding information received about you during visits to our web site. The amount and type of information received depends on how you use our site. 
-
-<p><strong>Normal Web Site Usage </strong></p>
-<p>
-You can visit WBTV's web site to read information or use our online tools without telling us who you are and without revealing 
-any personal information. The only information we collect and store during normal web site usage is the name of your Internet 
-service provider, the web site that referred you to us, the pages you request and the date and time of those requests. We use 
-this information to generate statistics and measure site activity to improve the usefulness of customer visits. During normal 
-web site usage we do not collect or store personally identifiable information such as name, mailing address, email address, 
-phone number or social security number. </p>
-
-<p><strong>Collection of Personally Identifiable Information</strong>
-<br><br>
-There are instances where WBTV requests personally identifiable information to provide our web site visitor a service or 
-correspondence (promotions and mailed brochures). This information, such as name, mailing address, email address, type of 
-request and possibly additional information, is collected and stored in a manner appropriate to the nature of the data by WBTV 
-and is used to fulfill your request. If you tell us that the information should not be used as a basis for further contact, we 
-will respect your request. The information you provide is used by WBTV to improve the services we provide you. It is never 
-provided to any other company for that company's independent use. </p>
-
-<p><strong>Additional Privacy Protections for Children Using the Internet </strong>
-<br><br>
-WBTV joins the industry in recognizing that children, including young teens, may not be able to make informed choices about
-personal information requested online. Accordingly, WBTV does not knowingly target children or teenagers (younger than eighteen 
-years of age) for collection of information online. WBTV does not solicit or collect customer identifiable information targeted 
-at children and teenagers under eighteen and does not allow anyone else to do so on our web site. WBTV encourages parents to 
-take an active role in protecting the privacy and security of their children and to prevent the inappropriate use of 
-information about their children. WBTV also supports the development of technologies that help parents to control the 
-collection and use of personal information from children who use online services in their households.</p>
- 
- 
-
-<p><strong>Electronic Mail Sent to us that Contains Personal Information</strong>
-<br><br>
-Internet users may decide to send WBTV personally identifying information, for example, in a message containing information 
-about yourself. WBTV will only use this information to identify the user as a WBTV customer and to determine how to respond to 
-the electronic mail. We will not use this information other than to resolve the matter identified in the email.<br><br>
-If you have provided us with your e-mail address so that we may include you in our newsletter or other mailing lists, we will 
-place your email on those lists. We will provide a quick and effective method of removing yourself from the list quickly.
+<p><span class="createdate">Story Created:
+May 24, 2006 at 3:26 PM EST
+</span>
 </p>
 
-<p><strong>Cookies and Your Privacy </strong>
-<br><br>
-A web site may use cookies to simulate a continuous connection to that site. This makes it more convenient for users to visit 
-pages within a site without having to reintroduce themselves with each mouse click. Cookies contain only information that users 
-volunteer, and do not have the capability of infiltrating a user's hard drive or taking away personal information. The simple 
-function of a cookie is that of helping the user navigate a web site with as little obstruction as possible. Most current 
-browser versions offer users the following options relating to cookies: accept all cookies, accept only cookies that get sent 
-back to the originating server, disable cookies. Another option is for your browser to warn you before accepting a cookie. 
-Every time there is an incoming cookie, a dialog box will ask if you want to accept it. Please consult the user manual or the 
-online Help manual of your browser for instructions on how to customize your browser with your cookie preferences.<br><br>
-WBTV uses cookies on only a few pages where you are asked to login or register and we only use it to remember your 
-login/registration. We reserve the right to expand our use of this technology at any time and to modify our Privacy Policy as 
-related.</p>
+<p><span class="moddate">Story Updated:
+May 24, 2006 at 3:26 PM EST
+</span>
+</p>
+</div>
 
-<p><strong>Changes</strong>
-<br><br>
-We reserve the right to change our Privacy Policy. A revised Privacy Policy will only apply to data collected subsequent to its 
-effective date. We reserve the right to modify or discontinue our web site and this Policy at any time. </p>
 
-		</td>
-	</tr>
-</tbody></table>
+		
 
-					</td>
-					<td width="5" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="5" height="10"></td>
-					<td width="120" bgcolor="#EAF3FA">
-						<img src="/images/hdr/h_advertisements.gif"><br>
+
+		
+		</div>
+
+
+							<div id="contextualad" class="callout"></div>
+		
+ 
+<!--endclickprintinclude--> 
+
+		
 
 
 
@@ -252,92 +2266,229 @@ effective date. We reserve the right to modify or discontinue our web site and t
 
 
 
+		
 
+		</div>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a href="http://www.lfgjpmerger.com/" target="_blank"><img src="../images/lincolnFinancial.gif" border="0" alt="Licoln Financial"></a>
-
-<br>
-
-
-
-
-<a href="http://adserver.jpc.com/wbtv/adclick.php?n=a8dae44e" target="_blank"><img src="http://adserver.jpc.com/wbtv/adview.php?what=zone:22&amp;n=a8dae44e" border="0"></a>
-
-<br>
-
-
-
-<a href="http://adserver.jpc.com/wbtv/adclick.php?n=a3e575c6"><img src="http://adserver.jpc.com/wbtv/adview.php?what=zone:20&amp;n=a3e575c6" border="0" alt=""></a>
-
-<br>
-
-<a href="http://adserver.jpc.com/wbtv/adclick.php?n=ad1ed186" target="_blank"><img src="http://adserver.jpc.com/wbtv/adview.php?what=zone:5&amp;n=ad1ed186" border="0"></a>
-
-<br>
-
-<a href="http://adserver.jpc.com/wbtv/adclick.php?n=a32d49e6" target="_blank"><img src="http://adserver.jpc.com/wbtv/adview.php?what=zone:19&amp;n=a32d49e6" border="0"></a>
-
-<br>
-
-<a href="http://adserver.jpc.com/wbtv/adclick.php?n=a9c18423"><img src="http://adserver.jpc.com/wbtv/adview.php?what=zone:21&amp;n=a9c18423" border="0"></a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-					</td>
-				</tr>
-			</tbody></table>
-			<table width="783" border="0" cellspacing="0" cellpadding="0">
-				<tbody><tr> 
-					<td colspan="2" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="783" height="5"></td>
-				</tr>
-				<tr>
-					<td width="76" height="59" bgcolor="#4E2E68"><img src="/images/footer_image.gif" width="76" height="60"></td>
-					<td width="707" height="59" bgcolor="#EADBEB" style="padding: 12px 10px 13px 10px;"><span class="footer"><a href="/index.cfm">Home</a> : <a href="/weather/">Weather</a> : <a href="/traffic/">Traffic</a> : <a href="/onyourside/">On Your Side</a> : <a href="/prepzone/">Prep Zone</a> : <a href="/whatson/">What's On</a> : <a href="/inside/">Inside WBTV</a> : <a href="/contact/">Contact Us</a></span>
-					<br><img src="/images/spacer.gif" width="1" height="5"><br>
 					
-					<a href="www.lfg.com" target="_blank"><img src="../images/lincolnFinancial_footer.gif" width="118" height="43" border="0"></a><br>Copyright 2006 WBTV, Inc.<br>
-					<a href="www.lfg.com" target="_blank">A Member of Lincoln Financial Group</a><br>
-					<a href="/inside/inside_eeo.cfm">EEO Policy</a> | <a href="/inside/EEO_2003_report.cfm" target="_blank">2003 Public File Report</a> | <a href="/inside/EEO_2004_report.cfm" target="_blank">2003-2004 Public File Report</a> | <a href="/inside/EEO_2005_report.pdf" target="_blank">2004-2005 Public File Report</a><br>
-					<a href="/privacy.cfm">Privacy Policy</a> | <a href="http://www.lincolnfinancialmedia.com/recruiter/users/main.php" target="_blank">Job Opportunities</a>
-					</td>
-				</tr>
-				
-				<tr> 
-					<td colspan="2" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="783" height="1"></td>
-				</tr>
-			</tbody></table>
-		</td>
-		<td width="1" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="1" height="1"></td>
-		<td width="14" style="background-image : url(/images/shading5.jpg);"><img src="/images/spacer.gif" width="14" height="8"></td>
-	</tr>
-</tbody></table>
 
 
+
+
+
+
+
+
+
+
+
+
+<div id="footer"><div class="copyright">Copyright © 2007</div>
+<div class="company">WBTV Inc.</div><div class="br"></div>
+<div class="copydoc"><a href="/inside/eeo" target="new"> EEO </a></div><div class="copydoc"><a href="/privacy" target="new"> Privacy Policy </a></div> <div id="bimpower">Powered by <a href="http://www.broadcast-interactive.com" target="_new" title="Broadcast Interactive Media">Broadcast Interactive Media</a>.</div>
+</div>
+
+</td>
+
+
+
+
+<td class="columnright" valign="top">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script language="Javascript" type="text/javascript">if (self['plpm'] && plpm['160ad5']) document.write('<div class=\'callout\'>');if (self['plpm'] && plpm['160ad5']){ document.write(plpm['160ad5']);} else {  if(self['plurp'] && plurp['287']){} else {document.write('<scr'+'ipt language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r='+Math.random()+'&p=287&c=3031&m=3196&d=106986&pre=%3Cdiv+class%3D%27callout%27%3E&post=%3C%2Fdiv%3E"></scr'+'ipt>'); } }if (self['plpm'] && plpm['160ad5']) document.write('</div>');</script><script language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r=0.4071266957224766&amp;p=287&amp;c=3031&amp;m=3196&amp;d=106986&amp;pre=%3Cdiv+class%3D%27callout%27%3E&amp;post=%3C%2Fdiv%3E"></script>
+
+<script language="Javascript" type="text/javascript">if (self['plpm'] && plpm['160ad6']) document.write('<div class=\'callout\'>');if (self['plpm'] && plpm['160ad6']){ document.write(plpm['160ad6']);} else {  if(self['plurp'] && plurp['302']){} else {document.write('<scr'+'ipt language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r='+Math.random()+'&p=302&c=3031&m=3196&d=106986&pre=%3Cdiv+class%3D%27callout%27%3E&post=%3C%2Fdiv%3E"></scr'+'ipt>'); } }if (self['plpm'] && plpm['160ad6']) document.write('</div>');</script><script language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r=0.6089482320124733&amp;p=302&amp;c=3031&amp;m=3196&amp;d=106986&amp;pre=%3Cdiv+class%3D%27callout%27%3E&amp;post=%3C%2Fdiv%3E"></script>
+
+
+
+
+
+
+
+			
+
+
+
+
+
+
+ 
+
+
+
+
+	
+
+
+
+
+
+			
+			
+	
+			
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script language="Javascript" type="text/javascript">if (self['plpm'] && plpm['160ad1']) document.write('<div class=\'callout\'>');if (self['plpm'] && plpm['160ad1']){ document.write(plpm['160ad1']);} else {  if(self['plurp'] && plurp['262']){} else {document.write('<scr'+'ipt language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r='+Math.random()+'&p=262&c=3031&m=3196&d=106986&pre=%3Cdiv+class%3D%27callout%27%3E&post=%3C%2Fdiv%3E"></scr'+'ipt>'); } }if (self['plpm'] && plpm['160ad1']) document.write('</div>');</script><script language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r=0.09442369582903254&amp;p=262&amp;c=3031&amp;m=3196&amp;d=106986&amp;pre=%3Cdiv+class%3D%27callout%27%3E&amp;post=%3C%2Fdiv%3E"></script>
+
+<script language="Javascript" type="text/javascript">if (self['plpm'] && plpm['160ad2']) document.write('<div class=\'callout\' id=\'c160ad2\'>');if (self['plpm'] && plpm['160ad2']){ document.write(plpm['160ad2']);} else {  if(self['plurp'] && plurp['267']){} else {document.write('<scr'+'ipt language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r='+Math.random()+'&p=267&c=3031&m=3196&d=106986&pre=%3Cdiv+class%3D%27callout%27+id%3D%27c160ad2%27%3E&post=%3C%2Fdiv%3E"></scr'+'ipt>'); } }if (self['plpm'] && plpm['160ad2']) document.write('</div>');</script><script language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r=0.4312092442034958&amp;p=267&amp;c=3031&amp;m=3196&amp;d=106986&amp;pre=%3Cdiv+class%3D%27callout%27+id%3D%27c160ad2%27%3E&amp;post=%3C%2Fdiv%3E"></script>
+
+
+
+
+
+
+
+
+
+
+<div class="callout"><a href="http://www.wbtv.com/promotions/10067611.html" target="_blank"><img src="http://media.wbtv.com/designimages/ColorWxTile.gif" width="120" height="90" alt="" title="" border="0"></a></div>
+
+<div class="callout"><a href="http://wbtv.profootball.upickem.net/profootball/registration/login.asp" target="_blank"><img src="http://media.wbtv.com/designimages/footballfrenzy.gif" width="120" height="90" alt="" title="" border="0"></a></div>
+
+
+
+
+<script language="Javascript" type="text/javascript">if (self['plpm'] && plpm['160ad3']) document.write('<div class=\'callout\'>');if (self['plpm'] && plpm['160ad3']){ document.write(plpm['160ad3']);} else {  if(self['plurp'] && plurp['272']){} else {document.write('<scr'+'ipt language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r='+Math.random()+'&p=272&c=3031&m=3196&d=106986&pre=%3Cdiv+class%3D%27callout%27%3E&post=%3C%2Fdiv%3E"></scr'+'ipt>'); } }if (self['plpm'] && plpm['160ad3']) document.write('</div>');</script><script language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r=0.4621075512590451&amp;p=272&amp;c=3031&amp;m=3196&amp;d=106986&amp;pre=%3Cdiv+class%3D%27callout%27%3E&amp;post=%3C%2Fdiv%3E"></script>
+
+<script language="Javascript" type="text/javascript">if (self['plpm'] && plpm['160ad4']) document.write('<div class=\'callout\'>');if (self['plpm'] && plpm['160ad4']){ document.write(plpm['160ad4']);} else {  if(self['plurp'] && plurp['277']){} else {document.write('<scr'+'ipt language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r='+Math.random()+'&p=277&c=3031&m=3196&d=106986&pre=%3Cdiv+class%3D%27callout%27%3E&post=%3C%2Fdiv%3E"></scr'+'ipt>'); } }if (self['plpm'] && plpm['160ad4']) document.write('</div>');</script><script language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r=0.988534085644382&amp;p=277&amp;c=3031&amp;m=3196&amp;d=106986&amp;pre=%3Cdiv+class%3D%27callout%27%3E&amp;post=%3C%2Fdiv%3E"></script>
+
+<script language="Javascript" type="text/javascript">if (self['plpm'] && plpm['160ad_multi']) document.write('<div class=\'callout\' id=\'160ad_multi\'>');if (self['plpm'] && plpm['160ad_multi']){ document.write(plpm['160ad_multi']);} else {  if(self['plurp'] && plurp['462']){} else {document.write('<scr'+'ipt language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r='+Math.random()+'&p=462&c=3031&m=3196&d=106986&pre=%3Cdiv+class%3D%27callout%27+id%3D%27160ad_multi%27%3E&post=%3C%2Fdiv%3E"></scr'+'ipt>'); } }if (self['plpm'] && plpm['160ad_multi']) document.write('</div>');</script><script language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r=0.9782916896388265&amp;p=462&amp;c=3031&amp;m=3196&amp;d=106986&amp;pre=%3Cdiv+class%3D%27callout%27+id%3D%27160ad_multi%27%3E&amp;post=%3C%2Fdiv%3E"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</td>
+
+</tr></tbody></table>
+
+<script language="Javascript" type="text/javascript">if (self['plpm'] && plpm['Leaderboard2']) document.write('<div id=\'leaderboard2\'>');if (self['plpm'] && plpm['Leaderboard2']){ document.write(plpm['Leaderboard2']);} else {  if(self['plurp'] && plurp['1491']){} else {document.write('<scr'+'ipt language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r='+Math.random()+'&p=1491&c=3031&m=3196&d=106986&pre=%3Cdiv+id%3D%27leaderboard2%27%3E&post=%3C%2Fdiv%3E"></scr'+'ipt>'); } }if (self['plpm'] && plpm['Leaderboard2']) document.write('</div>');</script><script language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r=0.5674049343665022&amp;p=1491&amp;c=3031&amp;m=3196&amp;d=106986&amp;pre=%3Cdiv+id%3D%27leaderboard2%27%3E&amp;post=%3C%2Fdiv%3E"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="natadad160x600rightout" class="callout"><!-- begin ad tag -->
+<script language="JavaScript" type="text/javascript">
+ord=Math.random()*10000000000000000;
+document.write('<scr'+'ipt language="JavaScript" src="http://ad.doubleclick.net/adj/ms.netrev.wbtv-tv-local/charlotte-nc.netrev;org=tv_station;dcopt=ist;sz=160x600;ord=' + ord + '?" type="text/javascript"></scr' + 'ipt>');
+</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/ms.netrev.wbtv-tv-local/charlotte-nc.netrev;org=tv_station;dcopt=ist;sz=160x600;ord=7328052349016572?" type="text/javascript"></script><noscript><a href="http://ad.doubleclick.net/jump/ms.netrev.wbtv-tv-local/charlotte-nc.netrev;org=tv_station;dcopt=ist;sz=160x600;ord=123456789?"target="_blank"><img src="http://ad.doubleclick.net/ad/ms.netrev.wbtv-tv-local/charlotte-nc.netrev;org=tv_station;dcopt=ist;sz=160x600;ord=123456789?" width="160" height="600" border="0" alt=""></a></noscript>
+<!-- End ad tag --></div>
+
+
+
+<div class="clear"></div>
+
+</div>
+<script language="Javascript">var js="0.0";</script><script language="Javascript1.0">js="1.0";</script><script language="Javascript1.1">js="1.1";</script><script language="Javascript1.2">js="1.2";</script><script language="Javascript1.3">js="1.3";</script><script language="Javascript1.4">js="1.4";</script><script language="Javascript1.5">js="1.5";</script><script language="javascript1.1" type="text/javascript"> 
+<!-- 
+var bb=new Image();var _ti=910;var _q="";var na=(navigator.appName=="Netscape");var ns=(navigator.appName.substring(0,9)=="Microsoft");var _qDate=new Date();var _r=(document.referrer.indexOf(getdomain(location))>-1?"":document.referrer);_q+="&5="+parseInt(_qDate.getTimezoneOffset());_q+="&35="+parseInt(_qDate.toString().indexOf("aylight")>-1?1:0);_q+="&6=900106986";_q+="&7=106986";_q+="&8="+escape(document.location);_q+="&9="+escape(_r);_q+="&10="+escape(document.title);_q+="&11="+escape(navigator.userAgent);_q+="&12="+escape((na?navigator.language:navigator.userLanguage));_q+="&13="+((navigator.javaEnabled()?'1':'0'));_q+="&14="+escape(js);if(document.cookie.indexOf("cc")==-1)document.cookie="cc=t;";_q+="&15="+((document.cookie.indexOf("cc")==-1)?"0":"1");_q+="&16="+escape((screen.width+'x'+screen.height));_q+="&17="+escape(((ns)?screen.colorDepth:screen.pixelDepth));_q+="&18="+escape(Math.random());_q+="&19="+_ti;bb.src="http://s.clickability.com/s?"+_q;
+function setonclicks(a,b){var i=0;var retval=true;while(document.links[i]!=a){i++;}if(b.li[i])retval=b.li[i].oldonclick();bye(a);return retval;}
+function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.links.length;lnks.li=new Array(sze);for (var i=0; i<sze; i++){if(document.links[i].onclick){lnks.li[i]=document.links[i];lnks.li[i].oldonclick=document.links[i].onclick;}eval("document.links[i].onclick=function(){return setonclicks(this,lnks);}");}}function bye(a){if(a.href.toLowerCase().indexOf('http')!=0)return true;if(getdomain(location)==getdomain(a))return true;if(a.href.toLowerCase().indexOf('http')!=0)return true;var _qc="http://s.clickability.com/s?19=912";_qc+="&6=900106986";_qc+="&7=106986";_qc+="&18="+escape(Math.random());_qc+="&100="+a.href;_qc+="&101="+escape(a.text);var cc=new Image();if(na){cc.src=_qc;pc(100);}else cc.src=_qc;return true;}function pc(a){d = new Date(); while (1){m =new Date(); df = m-d;if( df > a ) {break;}}}function getdomain(a){var i=a.host.indexOf(":");return (i>=0)?a.host.substring(0,i):a.host;}if(self['setupalready']){var dosetup = false;alert('There are two $imware.tracker calls on this page. Please alert Client Services');}else{var dosetup = true;var hasonload=false;}if(dosetup && ((window.screen)||((new Array()).toSource)||((new Array()).shift&&ns))&&(navigator.userAgent.indexOf('Mac')<0)){if(window.onload){oldonld=window.onload;hasonload=true;}window.onload=newonld;var setupalready = true;}//-->
+</script><noscript>
+<img width="1" height="1" src="http://s.clickability.com/s?19=990&14=0&6=900106986&7=106986&18=0.42518905871514745">
+</noscript>
+
+
+
+
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+<script type="text/javascript">
+_uacct = "UA-2139828-6";
+urchinTracker();
+</script>
+
+
+
+
+
+
+		
+	 	
 </body></html>
