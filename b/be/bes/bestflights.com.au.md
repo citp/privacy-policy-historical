@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestflights.com.au privacy policy that was archived on 2007-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070610094309id_/http%3A//www.bestflights.com.au/ns/information/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestflights.com.au privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226200605id_/http%3A//www.bestflights.com.au/ns/information/privacy.php) for the most accurate reproduction.*
 
 # Australian Travel Agent : Best Flights - discount travel - Travel Agent Australia
 
@@ -77,10 +77,11 @@ If you do not want a cookie you can always set your browser to deny it. 
 
 You can send mail to the following postal address:
 
-299 Vincent Street,   
-Leederville, W.A. 6007 
+PO Box 384  
+Leederville, WA 6903
 
-You can telephone:  1300 767 757 Or you can fax:  (08) 9228-2482 
+Tel: 1300 767 757   
+Fax:(08) 9228-2482 
 
 ## Changes to this Policy 
 
