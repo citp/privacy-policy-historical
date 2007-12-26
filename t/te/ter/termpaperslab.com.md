@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the termpaperslab.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623040543id_/http%3A//www.termpaperslab.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the termpaperslab.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226192359id_/http%3A//www.termpaperslab.com/privacy.php) for the most accurate reproduction.*
 
 # Term Papers Lab : Privacy Policy
 
