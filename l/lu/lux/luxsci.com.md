@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the luxsci.com privacy policy that was archived on 2007-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070610165517id_/http%3A//luxsci.com/extranet/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luxsci.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226162928id_/http%3A//luxsci.com/extranet/privacy.html) for the most accurate reproduction.*
 
 # Lux Scientiae: Privacy Policy
 
