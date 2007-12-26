@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the swimsuitsforall.com privacy policy that was archived on 2007-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070430192321id_/http%3A//www.swimsuitsforall.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swimsuitsforall.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226173330id_/http%3A//www.swimsuitsforall.com/policies.asp) for the most accurate reproduction.*
 
-# Swimsuits For All -
+# Swimsuits For All
 
-[](http://www.truste.org/ivalidate.php?url=www.swimsuitsforall.com&sealid=101) Swimsuits For All Policy of Privacy 
+[](http://www.truste.org/ivalidate.php?url=www.swimsuitsforall.com&sealid=101) Last Updated: 03/27/2007 
+
+Swimsuits For All Policy of Privacy 
 
 Swimsuits For All is committed to protecting the privacy of your personal information. This privacy statement applies to the SwimsuitsForAll.com website, owned and operated by BargainBeachwear.com. By using Swimsuits For All, you consent to the data practices described in this statement.
 
@@ -26,7 +28,7 @@ Swimsuits For All may disclose your personal information if required to do so by
 
 Sharing your Personal Information with Other Companies
 
-Except as otherwise described in this statement, Swimsuits For All will share your personal information with other companies only with your consent. For example, when subscribing to a service which involves a third party to facilitate the service, your personal information will be shared. Agents
+Except as otherwise described in this statement, Swimsuits For All will share your personal information with other companies only with your consent. For example, when subscribing to a service which involves a third party to facilitate the service, your personal information will be shared.
 
 We use an outside shipping company (including, but not limited to the US Postal Service & UPS) to fulfill orders, and a credit card processing company (including Authorize.net & Meramack Bank) to bill you for goods and services. These companies do not retain, share, store or use personally identifiable information for any other purposes.
 
@@ -44,7 +46,7 @@ You also have the ability to change your contact preferences at any time by foll
 
 Access to your Personal Information
 
-You may update, edit or delete the personal information you have shared with Swimsuits For All, or change your contact preferences, at any time when you are signed in to the Swimsuits For All site, from within the My Account page by following visiting [Members-edit.html](https://web.archive.org/web/20070430192321id_/http%3A//www.swimsuitsforall.com/Members-edit.html) when logged into the Swimsuits For All site.
+You may update, edit or delete the personal information you have shared with Swimsuits For All, or change your contact preferences, at any time when you are signed in to the Swimsuits For All site, from within the My Account page by following visiting [Members-edit.html](https://web.archive.org/web/20071226173330id_/http%3A//www.swimsuitsforall.com/Members-edit.html) when logged into the Swimsuits For All site.
 
 If you have difficulty modifying any of your information, please send e-mail to [help@swimsuitsforall.com](mailto:%20help@swimsuitsforall.com) to receive further assistance.
 
