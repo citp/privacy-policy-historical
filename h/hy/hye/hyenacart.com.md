@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hyenacart.com privacy policy that was archived on 2007-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070508224541id_/http%3A//hyenacart.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hyenacart.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226234932id_/http%3A//hyenacart.com/privacy.php) for the most accurate reproduction.*
 
 # Hyena Cart :: Privacy Policy
 
