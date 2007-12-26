@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nv.gov privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630101024id_/http%3A//www.nitoc.nv.gov/NITOCdocs/3.03%28B%29_Policy_StateOnlinePrivacy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nv.gov privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226230557id_/http%3A//www.nitoc.nv.gov/NITOCdocs/3.03%28B%29_Policy_StateOnlinePrivacy.pdf) for the most accurate reproduction.*
 
 # State of Nevada
 
