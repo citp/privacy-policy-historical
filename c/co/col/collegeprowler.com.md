@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the collegeprowler.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623041547id_/http%3A//www.collegeprowler.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegeprowler.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226021348id_/http%3A//www.collegeprowler.com/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
+# College Prowler Privacy Policy
 
 This privacy policy applies to the Web site only and does not cover information collected on any third-party sites to which this Web site links. This privacy policy is part of, and must be read in conjunction with, the Web site's Terms and Conditions. You can read the entire Terms and Conditions by either scrolling up to the top of this Web page or by clicking here. If you do not agree with the Terms and Conditions in their entirety, please do not use this Web site.
 
