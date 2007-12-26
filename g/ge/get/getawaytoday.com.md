@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the getawaytoday.com privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608192717id_/http%3A//www.getawaytoday.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getawaytoday.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226185902id_/http%3A//www.getawaytoday.com/Privacy.aspx) for the most accurate reproduction.*
 
-# Get Away Today Vacations - Privacy Policy
+# Get Away Today Vacations - Official Site - Privacy Policy
 
 Effective April 27, 2000
 
@@ -32,4 +32,4 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 How To Contact Us:
 
-Should you have other questions or concerns about these privacy policies, please call us at 866-FUN-TRIP or click [here](mailto:getaway@getawaytoday.com) to send us an e-mail.
+Should you have other questions or concerns about these privacy policies, please call us at 866-FUN-TRIP or click [here](mailto:contact@getawaytoday.com) to send us an e-mail.
