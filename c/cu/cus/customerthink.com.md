@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the customerthink.com privacy policy that was archived on 2007-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070428205323id_/http%3A//www.customerthink.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the customerthink.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226040810id_/http%3A//www.customerthink.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | CustomerThink
 
@@ -18,7 +18,7 @@ CustomerThink.com will take appropriate steps to protect the information you sha
 
 **How to unsubscribe**
 
-CustomerThink.com has implemented procedures to make it as easy as possible for members to remove themselves from our email distribution list. A personalized encoded "profile update" link is provided at the bottom of every newsletter to enable opt-in subscribers to change their newsletter preferences or to unsubscribe entirely from CustomerThink publications. In addition, a newsletter subscriber may request removal by contacting CustomerThink member services at service@cusotmerthink.com.
+CustomerThink.com has implemented procedures to make it as easy as possible for members to remove themselves from our email distribution list. A personalized encoded "profile update" link is provided at the bottom of every newsletter to enable opt-in subscribers to change their newsletter preferences or to unsubscribe entirely from CustomerThink publications. In addition, a newsletter subscriber may request removal by contacting CustomerThink member services at [service@cusotmerthink.com](mailto:service@cusotmerthink.com).
 
 **Use of cookies**
 
