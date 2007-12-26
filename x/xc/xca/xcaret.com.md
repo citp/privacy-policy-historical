@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xcaret.com privacy policy that was archived on 2007-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070216133136id_/http%3A//www.xcaret.com/about-us/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xcaret.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226135841id_/http%3A//www.xcaret.com/about-us/privacy-policy.php) for the most accurate reproduction.*
 
 # Xcaret Cancun Mexico Eco Park - Privacy Policy
 
