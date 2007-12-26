@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ameinfo.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629185414id_/http%3A//www.ameinfo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ameinfo.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226224154id_/http%3A//www.ameinfo.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | AME Info
 
@@ -77,8 +77,9 @@ If you have any questions about security or privacy on our website, please [cont
 
 ### AME Info FZ LLC
 
-Dubai Media City, Phase II, Building 4, Office 204-205  
-United Arab Emirates
+PO Box 502100  
+Al Thuraya Tower 1, 20th Floor  
+Dubai Media City United Arab Emirates
 
 **Phone:** +971(4)3902700 • **Facsimile:** +971(4)3908015  
 
