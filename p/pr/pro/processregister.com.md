@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the processregister.com privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618020349id_/http%3A//www.processregister.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the processregister.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226220855id_/http%3A//www.processregister.com/about/privacy.asp) for the most accurate reproduction.*
 
 # Privacy policy of ProcessRegister.com - The online yellow pages for the Process, Energy and Greater Manufacturing industry buyer or supplier
 
