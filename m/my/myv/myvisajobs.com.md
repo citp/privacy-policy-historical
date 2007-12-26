@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the myvisajobs.com privacy policy that was archived on 2007-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070503100004id_/http%3A//www.myvisajobs.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myvisajobs.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226162259id_/http%3A//www.myvisajobs.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy::MyVisaJobs.Com
 
-[**M**](https://web.archive.org/web/20070503100004id_/http%3A//www.myvisajobs.com/Default.htm)[ **yVisaJobs.com**](https://web.archive.org/web/20070503100004id_/http%3A//www.myvisajobs.com/Default.htm) **Privacy Policy**
+[**M**](https://web.archive.org/web/20071226162259id_/http%3A//www.myvisajobs.com/Default.htm)[ **yVisaJobs.com**](https://web.archive.org/web/20071226162259id_/http%3A//www.myvisajobs.com/Default.htm) **Privacy Policy**
 
 Thank you for visiting myvisajobs.com. This Privacy Policy details certain policies implemented throughout myvisajobs.com governing myVisaJobs.com's use of personally identifiable information provided to myVisaJobs.com via this Site or otherwise.
 
