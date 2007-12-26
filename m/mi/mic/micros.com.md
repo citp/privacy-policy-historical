@@ -1,24 +1,6 @@
-> *The following text is extracted and transformed from the micros.com privacy policy that was archived on 2007-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070428095040id_/http%3A//www.micros.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the micros.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226023513id_/http%3A//www.micros.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # MICROS Systems, Inc. - Fidelio - Property Management, Point-of-Sale, Sales and Catering, Central Reservations, PMS, CRS, CRM, Table Management, Hospitality Technology, Revenue Management, Yield Management, Materials Control, Suites Management, EPOS, POS, Business Intelligence, Labor Management, Inventory Control, Transaction Analyzer, Guest Services, Product Management, Financial Management, Web-based Reporting, Enterprise Solution, Touchscreen terminals, POS Peripherals, Point of Sale Peripherals, POS Supplies, Point of Sale Supplies, Hand-held POS, Hand-held Point of Sale, Paging Solutions, Retail POS, Retail Point of Sale, Alert Management, Loss Prevention, Gift Card, Loyalty Programs, Frequent Dinner, Sales Force Automation, Kiosk, Web-Ordering, GSA
-
-| 
-
-| Home  
----  
-|  | [Home](http://www.micros.com/Home/) |  |   
-|  | [Industries](http://www.micros.com/Industries/) |  |   
-|  | [Products](http://www.micros.com/Products/) |  |   
-|  | [Services/Support](http://www.micros.com/ServicesAndSupport/) |  |   
-|  | [Supplies](http://www.micros.com/Supplies/) |  |   
-|  | [Company Info](http://www.micros.com/CompanyInformation/) |  |   
-|  | [Careers](http://www.micros.com/Careers/) |  |   
-|  | [Site Index](http://www.micros.com/SiteIndex/) |  |   
-|  | [Contact Us](http://www.micros.com/ContactUs/) |  |   
-  
-|  Privacy Policy 
-
-* * *
 
 MICROS Systems, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our current information gathering and dissemination practices for this website: [www.micros.com](http://www.micros.com/). 
 
