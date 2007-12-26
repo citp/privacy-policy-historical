@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the gao.gov privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630232321id_/http%3A//www.gao.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gao.gov privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226191723id_/http%3A//www.gao.gov/privacy.html) for the most accurate reproduction.*
 
-# Privacy and Other Site Policies
+# U.S. GAO - Privacy and Other Site Policies
 
   * Privacy and Security
-  * [Accessibility](http://www.gao.gov/dresource.html)
-  * [Copyright and Use of Images](http://www.gao.gov/copyright.html)
-  * [Freedom of Information Act (FOIA) ](http://www.gao.gov/foia.html)
-  * [Help](http://www.gao.gov/using.htm)
+  * [Accessibility](https://web.archive.org/dresource.html)
+  * [Copyright and Use of Images](https://web.archive.org/copyright.html)
+  * [Freedom of Information Act (FOIA) ](https://web.archive.org/foia.html)
+  * [Help](https://web.archive.org/using.htm)
 
 
 
 * * *
 
-##  GAO Privacy and Security Notification
+## GAO Privacy and Security Notification
 
 This World Wide Web site is provided as a public service by the Government Accountability Office. The information contained on this site is public information. It may be freely distributed or copied.
 
