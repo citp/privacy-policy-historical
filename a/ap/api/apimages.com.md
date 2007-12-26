@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apimages.com privacy policy that was archived on 2007-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070405023029id_/http%3A//www.apimages.com/eng/about/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apimages.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226093027id_/http%3A//www.apimages.com/eng/about/privacy_policy.html) for the most accurate reproduction.*
 
 # AP Images About
 
@@ -27,5 +27,5 @@ HOW DOES A USER CHANGE OR UPDATE THEIR INFORMATION?
 If you have any questions or concerns about the AP privacy policy or would like the personally identifiable information that you have provided to The Associated Press removed from our files, please contact AP at: [apimages@ap.org](mailto:apimages@ap.org).  
 
 
-© 2006 The Associated Press. All rights reserved.  
+© 2007 The Associated Press. All rights reserved.  
 
