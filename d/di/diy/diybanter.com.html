@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the diybanter.com privacy policy that was archived on 2007-05-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070513165403id_/http%3A//www.diybanter.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the diybanter.com privacy policy that was archived on 2007-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071226183504id_/http%3A//diybanter.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html dir="ltr" lang="en"><head>
 <title>DIYbanter Privacy Statement</title>
@@ -9,8 +9,10 @@
 <meta name="keywords" content="DIY, forum, help, home improvement">
 <meta name="description" content="A forum for diy discussions acting as a gateway with the finest do-it-yourself and home improvement newsgroups.">
 	
-<link rel="alternate" href="http://www.diybanter.com/fps_external.php?type=RSS2" title="DIYbanter.com: Latest posts from all the forums: RSS 2.0 Feed" type="application/rss+xml">
-<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style-9ec561cf-00001.css" id="vbulletin_css">
+
+
+
+<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style-f1fc62ae-00001.css" id="vbulletin_css">
 
 <script language="JavaScript1.1" type="text/javascript"><!-- //  
 if (parent.frames.length > 0) top.location.replace(document.location); 
@@ -18,12 +20,16 @@ if (parent.frames.length > 0) top.location.replace(document.location);
 </script>
 <script type="text/javascript">
 <!--
-var SESSIONURL = "s=f4bb2b65b9179cc4d23556e435ddad6e&";
+var SESSIONURL = "";
 var IMGDIR_MISC = "images/002/misc";
 var vb_disable_ajax = parseInt("0", 10);
 // -->
 </script>
-<script type="text/javascript" src="clientscript/vbulletin_global.js"></script>
+<script type="text/javascript" src="clientscript/vbulletin_global.js?v=364"></script>
+
+
+<link rel="alternate" type="application/rss+xml" title="DIYbanter RSS Feed" href="external.php?type=RSS2">
+
 
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
 </script>
@@ -50,13 +56,16 @@ urchinTracker();
 
 
 
+
  
 	<!-- guest welcome message --> 
 	<br>
 	<table class="tborder" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
 	<tbody><tr> 
 		<td class="alt1">
-			<!-- google_ad_section_start(weight=ignore) -->Welcome to <strong>DIYbanter</strong>. <br><br>You are currently viewing our boards as a guest which gives you limited access to view most discussions, articles and access our other FREE features. By joining our <strong>free</strong> community you will have access to ask questions and reply to others posts, upload your own photos and access many other special features. Registration is fast, simple and absolutely free so please, <a href="register.php?s=f4bb2b65b9179cc4d23556e435ddad6e&amp;"><strong>join our community today</strong></a>! <br><br>If you have any problems with the registration process or your account login, please contact <a href="./sendmessage.php">contact support</a>.<!-- google_ad_section_end -->
+			If this is your first visit, be sure to check out the <a href="faq.php?"><strong>FAQ</strong></a> by clicking the link above.
+You may have to <a href="register.php?"><strong>register</strong></a> before you can post: click the register link above to proceed.
+To start viewing messages, select the forum that you want to visit from the selection below.
 		</td>
 	</tr>
 	</tbody></table>
@@ -97,10 +106,10 @@ function log_out()
 				<td>&nbsp;</td>
 				<td width="100%"><span class="navbar">
 
-<a href="http://www.diybanter.com">Home</a> » <a href="index.php?s=f4bb2b65b9179cc4d23556e435ddad6e" accesskey="1">DIYbanter forum</a></span> </td>
+<a href="http://www.diybanter.com">Home</a> » <a href="index.php" accesskey="1">DIYbanter forum</a></span> </td>
 			</tr>
 			<tr>
-				<td class="navbar" style="font-size:10pt; padding-top:1px" colspan="3"><a href="/privacy.php"><img class="inlineimg" src="images/002/misc/navbits_finallink.gif" alt="Reload this Page" border="0" title="Reload this Page"></a> <strong>
+				 <td class="navbar" style="font-size:10pt; padding-top:1px" colspan="3"><a href="/privacy.php"><img class="inlineimg" src="images/002/misc/navbits_finallink.gif" alt="Reload this Page" border="0" title="Reload this Page"></a> <strong>
 	Privacy Page
 </strong></td>
 			</tr>
@@ -113,21 +122,21 @@ function log_out()
 		<td class="alt2" nowrap="nowrap" style="padding:0px">
 			
 		<!-- login form -->
-		<form action="login.php" method="post" onsubmit="md5hash(vb_login_password, vb_login_md5password, vb_login_md5password_utf, 0)">
-		<script type="text/javascript" src="clientscript/vbulletin_md5.js"></script>
+		<form action="login.php?do=login" method="post" onsubmit="md5hash(vb_login_password, vb_login_md5password, vb_login_md5password_utf, 0)">
+        <script type="text/javascript" src="clientscript/vbulletin_md5.js?v=364"></script>
 		<table cellpadding="0" cellspacing="3" border="0">
 		<tbody><tr>
-			<td class="smallfont">Author Name</td>
+			 <td class="smallfont"><label for="navbar_username">Author Name</label></td>
 			<td><input type="text" class="bginput" style="font-size: 11px" name="vb_login_username" id="navbar_username" size="10" accesskey="u" tabindex="101" value="Author Name" onfocus="if (this.value == 'Author Name') this.value = '';"></td>
 			<td class="smallfont" colspan="2" nowrap="nowrap"><label for="cb_cookieuser_navbar"><input type="checkbox" name="cookieuser" value="1" tabindex="103" id="cb_cookieuser_navbar" accesskey="c">Remember Me?</label></td>
 		</tr>
 		<tr>
-			<td class="smallfont">Password</td>
-			<td><input type="password" class="bginput" style="font-size: 11px" name="vb_login_password" size="10" accesskey="p" tabindex="102"></td>
+			<td class="smallfont"><label for="navbar_password">Password</label></td>
+            <td><input type="password" class="bginput" style="font-size: 11px" name="vb_login_password" id="navbar_password" size="10" tabindex="102"></td>
 			<td><input type="submit" class="button" value="Log in" tabindex="104" title="Enter your username and password in the boxes provided to login, or click the 'register' button to create a profile for yourself." accesskey="s"></td>
 		</tr>
 		</tbody></table>
-		<input type="hidden" name="s" value="f4bb2b65b9179cc4d23556e435ddad6e">
+		<input type="hidden" name="s" value="">
 		<input type="hidden" name="do" value="login">		
 		<input type="hidden" name="vb_login_md5password">
 		<input type="hidden" name="vb_login_md5password_utf">
@@ -156,19 +165,19 @@ function log_out()
 		
 
 		
-			<td class="vbmenu_control"><a href="register.php?s=f4bb2b65b9179cc4d23556e435ddad6e" rel="nofollow">Register</a></td>
+			<td class="vbmenu_control"><a href="register.php" rel="nofollow">Register</a></td>
 		
 		
-		<td class="vbmenu_control"><a href="memberlist.php?s=f4bb2b65b9179cc4d23556e435ddad6e">Authors List</a></td>
+		<td class="vbmenu_control"><a href="memberlist.php">Authors List</a></td>
 		
 				
 			
-				<td class="vbmenu_control"><a href="search.php?s=f4bb2b65b9179cc4d23556e435ddad6e" accesskey="4">Search</a></td>
+				<td class="vbmenu_control"><a href="search.php" accesskey="4">Search</a></td>
 				
-				<td class="vbmenu_control"><a href="search.php?s=f4bb2b65b9179cc4d23556e435ddad6e&amp;do=getdaily" accesskey="2">Today's Posts</a></td>
+				<td class="vbmenu_control"><a href="search.php?do=getdaily" accesskey="2">Today's Posts</a></td>
 				
 			
-			<td class="vbmenu_control"><a href="forumdisplay.php?s=f4bb2b65b9179cc4d23556e435ddad6e&amp;do=markread" rel="nofollow">Mark Forums Read</a></td>
+			<td class="vbmenu_control"><a href="forumdisplay.php?do=markread" rel="nofollow">Mark Forums Read</a></td>
 						
 		
 <td class="vbmenu_control"><a href="partners.php">Web Partners</a></td>
@@ -180,6 +189,7 @@ function log_out()
 <!-- / nav buttons bar -->
 
 <br>
+
 
 
 
@@ -221,7 +231,7 @@ Your personally identifiable information is always accessible by you and can be 
 Notification of changes to our privacy policy are sent to members by way of email announcements. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. During registration members are permitted to opt-out of administrator mailings. Should you choose not to receive these announcements, DIYbanter can not be held responsible for notifying you of any changes made to this policy.
 <br><br>
 <strong>Archiving of posts</strong><br>
-This forum archives posts from various newsgroups. It adheres to the 'X-No-Archive: Yes' standard in the headers of the post. If you wish you posts not to be archived on this or other archives which follow this convention, please use this in your message headers. If you request a post to be considered for removal, please email the url (web address) to <a href="sendmessage.php">diybanter@newsgroupbanter.com</a> together with the reason for removal.
+This forum archives posts from various newsgroups. It adheres to the 'X-No-Archive: Yes' standard in the headers of the post. If you wish you posts not to be archived on this or other archives which follow this convention, please use this in your message headers. More details relating to archiving of posts can be found at the <a href="faq.php?faq=newsgroups#faq_newsgroups1">faq's</a><a>. If you request a post to be considered for removal, please email the url (web address) to </a><a href="sendmessage.php">diybanter@newsgroupbanter.com</a> together with the reason for removal.
 </td>
 </tr>
 </tbody></table>
@@ -230,18 +240,20 @@ This forum archives posts from various newsgroups. It adheres to the 'X-No-Archi
 
 
 
-<br>
-<div align="center"><a href="http://www.nortonfinance.co.uk">Business Loan</a> - <a href="http://www.moneyexpert.com">Mortgages</a> - <a href="http://www.campusquilt.com">T-Shirt Quilt</a> - <a href="http://www.getfinance.co.uk/?page=commercial">Commercial Mortgage</a> - <a href="http://www.interdominios.com">Servidores</a><br>
+
+<div class="vsmallfont" align="center">
 
 
-</div>
 <br>
-<div class="smallfont" align="center">All times are GMT +1. The time now is <span class="time">05:55 PM</span>.</div>
+All times are GMT +1. The time now is <span class="time">07:35 PM</span>.</div>
 <br>
 
 		</div>	
 	</div>
 </div>
+
+ 
+
 
 <form action="index.php" method="get">
 <table cellpadding="6" cellspacing="0" border="0" width="100%" class="page" align="center">
@@ -249,14 +261,14 @@ This forum archives posts from various newsgroups. It adheres to the 'X-No-Archi
 	
     
 <td class="tfoot" align="right">
-		<div class="smallfont">
+		<div class="vsmallfont">
 			<strong>
-<a href="rss.php"><img src="images/002/misc/icon_xml2.gif" class="inlineimg" border="0" alt=""></a> - 				<a href="sendmessage.php">Contact Us</a> -
+<a href="rss.php"><img src="images/002/misc/feed_icon.gif" class="inlineimg" border="0" height="14" width="14" alt="Feed Icon" title="Subscribe to DIYbanter RSS Feed"></a> - 				<a href="sendmessage.php">Contact Us</a> -
 				<a href="http://www.diybanter.com">DIY Banter Forum Home</a> -
 				
 				
 	
-<a href="faq.php?s=f4bb2b65b9179cc4d23556e435ddad6e" accesskey="5">FAQ</a> -
+<a href="faq.php" accesskey="5">FAQ</a> -
 <a href="links.php" accesskey="5">Links</a> - 
 				  <a href="privacy.php">Privacy Statement</a> - 
 				<a href="#top" onclick="self.scrollTo(0, 0); return false;">Top</a>
@@ -265,13 +277,14 @@ This forum archives posts from various newsgroups. It adheres to the 'X-No-Archi
 	</td>
 </tr></tbody></table><br>
 <div align="center">
-	<div class="smallfont" align="center">Powered by: vBulletin, 
-Copyright ©2000 - 2006, Jelsoft Enterprises Limited.<!--VBSEO_COPYRIGHT-->
+	<div class="vsmallfont" align="center">Powered by vBulletin® Version 3.6.4<br>Copyright ©2000 - 2007, Jelsoft Enterprises Ltd.<!--VBSEO_COPYRIGHT-->
 	</div>	
-	<div class="smallfont" align="center">
-	<img src="http://www.diybanter.com/cron.php?s=f4bb2b65b9179cc4d23556e435ddad6e&amp;&amp;rand=598343" alt="" width="1" height="1" border="0">
-	Copyright ©2004 - 2006 DIYbanter, part of the <a href="http://www.newsgroupbanter.com">NewsgroupBanter project</a>. <br>The comments are property of their posters.
-<br></div>
+	<div class="vsmallfont" align="center">
+	
+Copyright ©2004-2007 DIYbanter, part of the <a href="http://www.newsgroupbanter.com">NewsgroupBanter project</a>. <br>The comments are property of their posters.
+<br>
+<a href="http://threestore.three.co.uk/">Mobile Phones</a> - <a href="http://www.profilepimp.com">Myspace Layouts</a> - <a href="http://www.digitalpoint.com/ads/ebay.php">Buy Anything On eBay</a> - <a href="http://www.moneyexpert.com/Compare-Secured-Loans.aspx">Debt Consolidation</a> - <a href="http://www.moneyexpert.com/Compare-Loans.aspx">Loans</a>
+</div>
 </div>
 </form>
 
@@ -280,8 +293,6 @@ Copyright ©2000 - 2006, Jelsoft Enterprises Limited.<!--VBSEO_COPYRIGHT-->
 	// Main vBulletin Javascript Initialization
 	vBulletin_init();
 
-	// Initialize 'Active' Table Cells
-	//activecells_init();
 //-->
 </script>
 
