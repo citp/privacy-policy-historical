@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the investis.com privacy policy that was archived on 2007-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070218034116id_/http%3A//www.investis.com/investis/store/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investis.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226225140id_/http%3A//www.investis.com/investis/store/privacy) for the most accurate reproduction.*
 
 # Investis - Privacy statement
 
@@ -125,11 +125,8 @@ not excessive. The information should be kept up to date, where
 necessary, and not retained for longer than is necessary. It should  
 be kept securely to prevent unauthorised access by other people.  
 You have the right to see what is held about you and correct any  
-inaccuracies. You can do this by emailing Elisabeth Ljunggren at  
-[elisabeth.ljunggren@investis.com](mailto:elisabeth.ljunggren@investis.com)
-
-  
-
+inaccuracies. You can do this by emailing Caroline Surujpaul at   
+[caroline@investis.com](mailto:caroline@investis.com).
 
 ### Policy changes
 
