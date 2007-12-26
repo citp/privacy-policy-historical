@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the wbtv.com privacy policy that was archived on 2006-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060430071404id_/http%3A//wbtv.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wbtv.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226034407id_/http%3A//www.wbtv.com/privacy) for the most accurate reproduction.*
 
-# WBTV
+# WBTV | WBTV Privacy Policy
 
-This document describes WBTV's policy regarding information received about you during visits to our web site. The amount and type of information received depends on how you use our site. 
+This document describes WBTV's policy regarding information received about you during visits to our web site. The amount and type of information received depends on how you use our site.
 
 **Normal Web Site Usage**
 
-You can visit WBTV's web site to read information or use our online tools without telling us who you are and without revealing any personal information. The only information we collect and store during normal web site usage is the name of your Internet service provider, the web site that referred you to us, the pages you request and the date and time of those requests. We use this information to generate statistics and measure site activity to improve the usefulness of customer visits. During normal web site usage we do not collect or store personally identifiable information such as name, mailing address, email address, phone number or social security number. 
+You can visit WBTV's web site to read information or use our online tools without telling us who you are and without revealing any personal information. The only information we collect and store during normal web site usage is the name of your Internet service provider, the web site that referred you to us, the pages you request and the date and time of those requests. We use this information to generate statistics and measure site activity to improve the usefulness of customer visits. During normal web site usage we do not collect or store personally identifiable information such as name, mailing address, email address, phone number or social security number.
 
 **Collection of Personally Identifiable Information**
 
-There are instances where WBTV requests personally identifiable information to provide our web site visitor a service or correspondence (promotions and mailed brochures). This information, such as name, mailing address, email address, type of request and possibly additional information, is collected and stored in a manner appropriate to the nature of the data by WBTV and is used to fulfill your request. If you tell us that the information should not be used as a basis for further contact, we will respect your request. The information you provide is used by WBTV to improve the services we provide you. It is never provided to any other company for that company's independent use. 
+There are instances where WBTV requests personally identifiable information to provide our web site visitor a service or correspondence (promotions and mailed brochures). This information, such as name, mailing address, email address, type of request and possibly additional information, is collected and stored in a manner appropriate to the nature of the data by WBTV and is used to fulfill your request. If you tell us that the information should not be used as a basis for further contact, we will respect your request. The information you provide is used by WBTV to improve the services we provide you. It is never provided to any other company for that company's independent use.
 
 **Additional Privacy Protections for Children Using the Internet**
 
@@ -20,7 +20,7 @@ WBTV joins the industry in recognizing that children, including young teens, may
 
 Internet users may decide to send WBTV personally identifying information, for example, in a message containing information about yourself. WBTV will only use this information to identify the user as a WBTV customer and to determine how to respond to the electronic mail. We will not use this information other than to resolve the matter identified in the email.
 
-If you have provided us with your e-mail address so that we may include you in our newsletter or other mailing lists, we will place your email on those lists. We will provide a quick and effective method of removing yourself from the list quickly. 
+If you have provided us with your e-mail address so that we may include you in our newsletter or other mailing lists, we will place your email on those lists. We will provide a quick and effective method of removing yourself from the list quickly.
 
 **Cookies and Your Privacy**
 
@@ -30,4 +30,8 @@ WBTV uses cookies on only a few pages where you are asked to login or register a
 
 **Changes**
 
-We reserve the right to change our Privacy Policy. A revised Privacy Policy will only apply to data collected subsequent to its effective date. We reserve the right to modify or discontinue our web site and this Policy at any time. 
+We reserve the right to change our Privacy Policy. A revised Privacy Policy will only apply to data collected subsequent to its effective date. We reserve the right to modify or discontinue our web site and this Policy at any time.
+
+Story Created: May 24, 2006 at 3:26 PM EST 
+
+Story Updated: May 24, 2006 at 3:26 PM EST 
