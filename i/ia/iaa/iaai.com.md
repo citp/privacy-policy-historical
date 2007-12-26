@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iaai.com privacy policy that was archived on 2007-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070523123055id_/http%3A//www.iaai.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iaai.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226112737id_/http%3A//www.iaai.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # IAAI >> Privacy Policy
 
@@ -28,7 +28,7 @@ Every computer connected to the Internet is given a domain name and a set of num
 If you are purchasing merchandise from IAA we need to know your personal information, including your name, email address, mailing address, shipping address, etc. This allows us to process your transaction and to notify you of your purchase status. In addition, we may use this information to notify you of related products and services, however your information will not be shared or sold to any third parties for any purpose except as otherwise provided in this Privacy Policy. For all purchases, we use a shopping cart feature that safeguards your order information using industry standard SSL (Secure Socket Layer) encrypted servers. SSL codes the information transferred between you and the server, rendering it unreadable to anyone trying to intercept the information. This type of technology is also called a secure web site or a secure server. You will know when you are on a secure web site when the front of the web address has "https" instead of the normal "http".
 
 **Disclosure of Information to Outside Third Parties and Special Cases**  
-IAA will NOT disclose any personal information to third parties except:   
+IAA will NOT disclose any personal information to non-affiliated third parties except:   
 1\. When required by law or in the good-faith belief that such action is necessary.   
 2\. To co-operate with the investigation of purported unlawful activities.   
 3\. To comply with a subpoena or other legal process served on IAA.   
@@ -36,11 +36,11 @@ IAA will NOT disclose any personal information to third parties except:
 5\. To protect and defend the rights or property of IAA.  
 6\. To identify persons, who may be violating the law or the rights of third parties. 
 
-We may share statistical or aggregated non-personal information about our visitors with advertisers, business partners, sponsors and other third parties. This data is used to customize our Site content and to deliver a better experience to our users and does not involve revealing your personal information.
+We may share statistical or aggregated non-personal information about our visitors with advertisers, business partners, sponsors and other non-affiliated third parties. This data is used to customize our Site content and to deliver a better experience to our users and does not involve revealing your personal information.
 
 While we use all reasonable efforts to safeguard the confidentiality of your information, IAA will have no liability for any breach of security, for disclosure of any information obtained due to errors in transmission, or for any actions of any third parties that otherwise obtain your information. 
 
-In the event IAA or its subsidiaries or affiliates or their assets are sold, merged or otherwise involved in a corporate transaction, your personal information will likely be transferred as part of that transaction. We reserve to right to transfer your information without your consent in such a situation; provided that we will make reasonable efforts to see that your privacy preferences are honored by the transferee.
+In the event IAA or its subsidiaries or affiliates or their assets are sold, merged or otherwise involved in a corporate transaction, your personal information will likely be transferred as part of that transaction. We reserve to right to transfer your information without your consent in such a situation; provided that we will make reasonable efforts to see that your privacy preferences are honored by the transferee. You may Opt Out from allowing us to share your personal information by sending a written request to the Marketing Department at our corporate address.
 
 **Links to Other Sites**   
 As a resource to our visitors, IAA provides links to other web sites. We try to carefully choose web sites that we believe are useful and meet our standards. However, the presence on this Site of links to non-IAA sites does not mean that IAA endorses or accepts any responsibility for the content or use of such sites. IAA has no control over such sites and will not be responsible for the privacy practices of such web sites. IAA does not share any of the personal information you provide with the sites to which IAA links. 
@@ -56,6 +56,6 @@ By using this Site you consent to the collection and use of information by IAA a
 **Terms of Use**  
 [Please read our Terms of Use carefully before using this Site. ](https://www.iaai-bid.com/termsofuse.aspx)
 
-This Website Privacy Policy is effective as of 1 January 2003.
+This Website Privacy Policy is effective as of August 7th, 2007.
 
-Unless otherwise indicated, all material on this Site Copyright 2003 – Insurance Auto Auctions, Inc. All rights reserved.
+Unless otherwise indicated, all material on this Site Copyright 2007 – Insurance Auto Auctions, Inc. All rights reserved.
