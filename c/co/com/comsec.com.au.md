@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comsec.com.au privacy policy that was archived on 2007-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070409004102id_/https%3A//www.comsec.com.au/Public/PrivacyAndSecurity.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comsec.com.au privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226163856id_/https%3A//www.comsec.com.au/Public/PrivacyAndSecurity.aspx) for the most accurate reproduction.*
 
 # Commonwealth Securities Ltd.
 
