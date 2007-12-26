@@ -1,95 +1,155 @@
-<!--The following is the downloaded HTML source of the washingtoncitypaper.com privacy policy that was archived on 2007-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070624182126id_/http%3A//www.washingtoncitypaper.com/citypaper/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the washingtoncitypaper.com privacy policy that was archived on 2007-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071226140042id_/http%3A//www.washingtoncitypaper.com/citypaper/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 	<title>Washington City Paper: The City Paper: Privacy Policy</title>
-
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 	<meta name="description" content="">
 	<meta name="keywords" content="">
-
+	
 	<script type="text/javascript">
-	zoneKW = 'edit';
+	zoneKW = 'etc';
 	pageKW = 'AboutThePaper';
 	</script>
-
+	
+	<script language="javascript" type="text/javascript" src="/js/lib/jquery/jquery.js"></script>
 	<script language="javascript" type="text/javascript" src="/js/make_ads.js"></script>
 	<script language="javascript" type="text/javascript" src="/js/browser.js"></script>
 	<script language="javascript" type="text/javascript" src="/js/wcp_utility.js"></script>
+	
+		
+	
+	<script type="text/javascript">
 
+	if (window.console == undefined)
+	{
+		window.console = {log:function(){}, time:function(){}, timeEnd:function(){}};
+	}
+
+	var navigation =
+	{
+		baseDiv: 'nav-detail-',
+		baseImage: 'nav-',
+
+		currentSection: '',
+		sectionPreviouslyOn: 'news',
+
+		switchNav: function (sectionToTurnOn)
+		{
+			if (!document.getElementById('page-header-nav-top')) { return; }
+			if (sectionToTurnOn == '') { return; }
+
+			var toggle = (this.sectionPreviouslyOn == this.currentSection) ? '-in.gif' : '-off.gif';
+
+			var imgOffName = this.baseImage + this.sectionPreviouslyOn;
+			var imgOffSrc = '/images/' + imgOffName + toggle;
+			document.getElementById(imgOffName).style.background = 'url(' + imgOffSrc + ')';			
+
+			var imgOnName = this.baseImage + sectionToTurnOn;
+			var imgOnSrc = '/images/' + imgOnName + '-in.gif';
+			document.getElementById(imgOnName).style.background = 'url(' + imgOnSrc + ')';
+
+			window.setTimeout("document.getElementById('" + this.baseDiv + this.sectionPreviouslyOn + "').style.display = 'none'; document.getElementById('" + this.baseDiv + sectionToTurnOn + "').style.display = 'block';", 0);
+
+			// document.getElementById(this.baseDiv + this.sectionPreviouslyOn).style.display = 'none';
+			// document.getElementById(this.baseDiv + sectionToTurnOn).style.display = 'block';
+
+			this.sectionPreviouslyOn = sectionToTurnOn;
+
+		},
+
+		preload: function ()
+		{
+			var sections = ['news', 'columns', 'food', 'movies', 'music', 'theater', 'artsandevents', 'classified', 'cpevents', 'personals'];
+
+			for (var i in sections)
+			{
+				img = new Image(1,1);
+				img.src = '/images/' + this.baseImage + sections[i] + '-in.gif';
+			}
+		},
+
+		init: function (currentSection)
+		{
+			this.currentSection = currentSection;
+		}
+	};
+
+	function switchTabSubnav(sec) {
+		navigation.switchNav(sec);
+	}
+	
+	</script>
+	
 	<script language="javascript" type="text/javascript">
-		loadCSSfile('/css/styles-');
-	</script><link rel="stylesheet" href="/css/styles-nn.css" type="text/css">
-
+		loadCSSfile('/css/style');
+	</script><link rel="stylesheet" href="/css/stylenn.css" type="text/css">
+	
+	<script language="javascript" type="text/javascript">
+		$(document).ready(function() {
+		  $('#ad-banner').html(CityPaperAds.getAd('1', pageKW, zoneKW));
+ 			$('#ad-placard #storyRectangle').append(CityPaperAds.getAd('4', pageKW, zoneKW));
+			$('#ad-tower').prepend(CityPaperAds.getAd('3', pageKW, zoneKW));
+					 });
+	</script>
+	
+		
 </head>
 
-<body onload="javascript: switchTabSubnav('citypaper'); makeMap(); switchToolboxModule('classified')" onunload="GUnload()">
-
-<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript">
-</script>
-<script type="text/javascript">
-_uacct = "UA-432676-1";
-_udn="none";
-_ulink=1;
-urchinTracker();
-</script>
-
+<body id="citypaper" onload="switchTabSubnav('citypaper'); switchToolboxModule('calendar');">
 
 <div id="page-container">
 	<div id="page-header">
-		<div id="wcp-logo"><a href="/"><img src="/images/spacer.gif" border="0" width="225" height="121"></a></div>
-
-		<div id="ad-banner">
-			<script type="text/javascript">
-				writeAd(1);
-			</script><div id="topAdvert"><div class="advertCaption">advertisement</div><iframe src="https://web.archive.org/web/20070329074206/http://ad.doubleclick.net/adi/main.washingtoncitypaper/edit;pg=AboutThePaper;sz=728x90;tile=1;ord=12524?" width="728" height="90" class="leaderboard" scrolling="no" frameborder="0"><a href="https://web.archive.org/web/20070329074206/http://ad.doubleclick.net/jump/main.washingtoncitypaper/edit;pg=AboutThePaper;sz=728x90;tile=1;ord=12524?"><img src="https://web.archive.org/web/20070329074206/http://ad.doubleclick.net/ad/main.washingtoncitypaper/edit;pg=AboutThePaper;sz=728x90;tile=1;ord=12524?" width="728" height="90" alt=""></a></iframe></div>
-		</div>
-<script type="text/javascript">
-
-function switchTabSubnav(sec) {
-	if (document.getElementById('page-header-nav-top'))	{
-		var baseDiv = "nav-detail-";
-		var baseImg = "nav-";
-		var curSec = "citypaper";
-
-		var secs = ['news', 'columns', 'food', 'movies', 'music', 'theater', 'artsandevents', 'classified', 'cpevents', 'personals'];
-
-		for(var i=0; i<secs.length; i++) {
-			var imgOff = baseImg + secs[i];
-			if (curSec == secs[i]) {
-				var imgOffSrc = '/images/' + baseImg + secs[i] + '-in.gif';
-			} else {
-				var imgOffSrc = '/images/' + baseImg + secs[i] + '-off.gif';
-			}
-			document[imgOff].src = imgOffSrc;
-
-			var imgOn = baseImg + sec;
-			var imgOnSrc = '/images/' + baseImg + sec + '-in.gif';
-			document[imgOn].src = imgOnSrc;
-
-			var div = baseDiv + sec;
-			var thisDiv = baseDiv + secs[i];
-			objDiv = document.getElementById(thisDiv);
-			objDiv.style.display = (thisDiv==div) ? "block" : "none";
-		}
-	}
-}
-
-</script>
-
+		<div id="wcp-logo"><a href="/"><img src="/images/spacer.gif" border="0" width="225" height="121" alt="Washington City Paper homepage"></a></div>
+		<div id="ad-banner"></div>
 		<div id="page-header-nav-top">
-			<div id="page-header-nav-tabs"><nobr><img src="/images/nav-bit-left.gif" border="0" width="11" height="3" alt=""><a href="/news/" onmouseover="javascript:switchTabSubnav('news')"><img name="nav-news" src="/images/nav-news-off.gif" border="0" width="140" height="37" alt="News and Features"></a><a href="/columns/" onmouseover="javascript:switchTabSubnav('columns')"><img name="nav-columns" src="/images/nav-columns-off.gif" border="0" width="82" height="37" alt="Columns"></a><a href="/food/" onmouseover="javascript:switchTabSubnav('food')"><img name="nav-food" src="/images/nav-food-off.gif" border="0" width="60" height="37" alt="food"></a><a href="/movies/" onmouseover="javascript:switchTabSubnav('movies')"><img name="nav-movies" src="/images/nav-movies-off.gif" border="0" width="69" height="37" alt="Movies"></a><a href="/music/" onmouseover="javascript:switchTabSubnav('music')"><img name="nav-music" src="/images/nav-music-off.gif" border="0" width="63" height="37" alt="Music"></a><a href="/theater/" onmouseover="javascript:switchTabSubnav('theater')"><img name="nav-theater" src="/images/nav-theater-off.gif" border="0" width="83" height="37" alt="Theater"></a><a href="/artsandevents/" onmouseover="javascript:switchTabSubnav('artsandevents')"><img name="nav-artsandevents" src="/images/nav-artsandevents-off.gif" border="0" width="120" height="37" alt="Arts and Events"></a><a href="http://classifieds.washingtoncitypaper.com/" onmouseover="javascript:switchTabSubnav('classified')"><img name="nav-classified" src="/images/nav-classified-off.gif" border="0" width="104" height="37" alt="Classifieds"></a><a href="/cpevents/" onmouseover="javascript:switchTabSubnav('cpevents')"><img name="nav-cpevents" src="/images/nav-cpevents-off.gif" border="0" width="91" height="37" alt="CP Stuff"></a><a href="/personals/" onmouseover="javascript:switchTabSubnav('personals')"><img name="nav-personals" src="/images/nav-personals-off.gif" border="0" width="95" height="37" alt="Personals"></a></nobr></div>
+			<div id="page-header-nav-tabs" style="height: 37px;">
+			<div id="nav-bit-left"></div>
+			<a href="/news/" onmouseover="navigation.switchNav('news')" id="nav-news" class="nav-tab" style="background: url(&quot;/images/nav-news-off.gif&quot;);">
+			<span style="display: none;">News and Features</span>
+			</a>
+			<a href="/columns/" onmouseover="navigation.switchNav('columns')" id="nav-columns" class="nav-tab">
+			<span style="display: none;">Columns</span>
+			</a>
+			<a href="/food/" onmouseover="navigation.switchNav('food')" id="nav-food" class="nav-tab">
+			<span style="display: none;">Food</span>
+			</a>
+			<a href="/movies/" onmouseover="navigation.switchNav('movies')" id="nav-movies" class="nav-tab">
+			<span style="display: none;">Movies</span>
+			</a>
+			<a href="/music/" onmouseover="navigation.switchNav('music')" id="nav-music" class="nav-tab">
+			<span style="display: none;">Music</span>
+			</a>
+			<a href="/theater/" onmouseover="navigation.switchNav('theater')" id="nav-theater" class="nav-tab">
+			<span style="display: none;">Theater</span>
+			</a>
+			<a href="/artsandevents/" onmouseover="navigation.switchNav('artsandevents')" id="nav-artsandevents" class="nav-tab">
+			<span style="display: none;">Arts and Events</span>
+			</a>
+			<a href="http://classifieds.washingtoncitypaper.com/" onmouseover="navigation.switchNav('classified')" id="nav-classified" class="nav-tab">
+			<span style="display: none;">Classifieds</span>
+			</a>
+			<a href="/cpevents/" onmouseover="navigation.switchNav('cpevents')" id="nav-cpevents" class="nav-tab">
+			<span style="display: none;">CP Stuff</span>
+			</a>
+			<a href="/personals/" onmouseover="navigation.switchNav('personals')" id="nav-personals" class="nav-tab">
+			<span style="display: none;">Personals</span>
+			</a>
+			</div>
 			<div id="page-header-nav-date"></div>
 		</div>
-
+		
 		<div id="page-header-nav-sub">
 <!-- Search Google -->
 			<div id="page-header-search">
-				<form name="moduleGoogleSearchForm" method="get" action="http://www.google.com/custom">
-					<input type="hidden" name="cof" value="S:http://www.washingtoncitypaper.com;AH:center;LH:125;L:http://www.washcp.com/images/header-google.jpg;LW:931;AWFID:f8b3f7cf9e38d149;">
-					<input type="hidden" name="sitesearch" value="www.washingtoncitypaper.com">
-					<input name="q" size="40" style="float: left;">
-					<a href="javascript:document.moduleGoogleSearchForm.submit();"><img src="/images/button-search.gif" width="70" height="33" border="0" style="float: right;"></a>
+			<!-- Google CSE Search Box Begins -->
+				<form name="moduleGoogleSearchForm" id="searchbox_016954416692420308214:ymkpvpx4cpu" action="http://www.washingtoncitypaper.com/search/">
+					<input type="hidden" name="cx" value="016954416692420308214:ymkpvpx4cpu">
+					<input type="hidden" name="cof" value="FORID:11">
+					<input name="q" type="text" size="40" style="float: left;">
+					<a href="javascript:document.moduleGoogleSearchForm.submit();"><img src="/images/button-search.gif" width="70" height="33" border="0" style="float: right;" alt="Search"></a>
 				</form>
+			<!-- Google CSE Search Box Ends -->
 			</div>
 <!-- Search Google -->			<div id="nav-detail-news" class="nav-detail">
 				<ul>
@@ -126,8 +186,8 @@ function switchTabSubnav(sec) {
 			<div id="nav-detail-movies" class="nav-detail">
 				<ul>
 					<li><a href="/events/listings.php?keywd=&amp;category=MOVIES&amp;stage=Search&amp;rowcount=1">Find a Movie</a></li>
-					<li><a href="/movies/theaters/showtimes.php">Showtimes</a>
-					</li><li><a href="/movies/">Features &amp; Reviews</a></li>
+					<li><a href="/movies/theaters/showtimes.php">Showtimes</a></li>
+					<li><a href="/movies/">Features &amp; Reviews</a></li>
 				</ul>
 			</div>
 			<div id="nav-detail-music" class="nav-detail">
@@ -135,7 +195,7 @@ function switchTabSubnav(sec) {
 					<li><a href="/events/listings.php">Find a Show</a></li>
 					<li><a href="/music/">Features &amp; Reviews</a></li>
 					<li><a href="http://www.washingtoncitypaper.com/indc/chat/">InDCent Exposure</a></li>
-					<li><a href="/music/popquiz/">Pop Quiz</a></li>
+					<li><a href="/blogs/blackplasticbag/">Music Blog: Black Plastic Bag</a></li>
 					<li><a href="/music/askbob/">Ask Bob</a></li>
 				</ul>
 			</div>
@@ -172,9 +232,9 @@ function switchTabSubnav(sec) {
 			</div>
 			<div id="nav-detail-cpevents" class="nav-detail">
 				<ul>
-					<li><a href="#">Contests &amp; Free Stuff</a></li>
-					<li><a href="#">Our Events</a></li>
-					<li><a href="/music/spotthedrummer/">Spot the Drummer</a></li>
+					<li><a href="/cpevents/">Free Stuff</a></li>
+					<li><a href="/cpevents/">Upcoming</a></li>
+					<li><a href="/craftybastards/">Crafty Bastards</a></li>
 				</ul>
 			</div>
 			<div id="nav-detail-personals" class="nav-detail">
@@ -185,9 +245,15 @@ function switchTabSubnav(sec) {
 					<li><a href="/columns/savagelove/">Savage Love</a></li>
 				</ul>
 			</div>
-		</div>	</div>
+		</div>
+		
+		<script type="text/javascript" charset="utf-8">
+			navigation.init('citypaper');
+			window.setTimeout("navigation.preload();", 0);
+		</script>
+			</div>
 	<div id="page-body">
-		<div style="margin: 0px; padding: 0px;"><img src="/images/chunk-header-subnav-bottom.gif" width="983" height="9" border="0"></div>
+		<div style="margin: 0px; padding: 0px;"><img src="/images/chunk-header-subnav-bottom.gif" width="983" height="9" border="0" alt=""></div>
 		<div id="page-content">
 <!-- start: page content: article page -->
 			<div id="content-header">
@@ -242,11 +308,7 @@ function switchTabSubnav(sec) {
 
 		</div>
 		<div id="page-col-right">
-<script language="javascript" type="text/javascript">
-	loadcss('/css/styles-toolbox-ie.css', '/css/styles-toolbox-nn.css');
-</script>
-
-<script type="text/javascript">
+			<script type="text/javascript">
 
 function switchToolboxModule(sec) {
 	if (document.getElementById('module-toolbox'))	{
@@ -321,6 +383,9 @@ function parseClassifiedForm() {
 </script>
 
 			<div class="module-col-right" id="module-toolbox">
+				<div id="module-toolbox-hat">
+					<img src="/images/toolbox-hat.gif" width="203" height="30" alt="CITY SEARCH"><a href="http://altfarm.mediaplex.com/ad/ck/3026-53204-18222-3"><img src="/images/toolbox-hat-sponsor.gif" width="85" height="30" alt="Sponsored by ZipCar"></a>
+				</div>
 				<div id="module-toolbox-nav">
 					<div id="module-toolbox-nav-calendar" class="module-toolbox-nav-button"><a href="javascript:switchToolboxModule('calendar')"><img name="toolbox-nav-calendar" src="/images/toolbox-nav-calendar-in.gif" border="0" width="82" height="14" alt="calendar"></a></div>
 					<div id="module-toolbox-nav-restaurants" class="module-toolbox-nav-button"><a href="javascript:switchToolboxModule('restaurants')"><img name="toolbox-nav-restaurants" src="/images/toolbox-nav-restaurants.gif" border="0" width="82" height="14" alt="restaurants"></a></div>
@@ -355,8 +420,9 @@ function parseFormtoolbox() {
 
 							
 														<select name="category">
-								<option value="ALL">Any Event</option>
-																<option value="ARTEVENTS">Arts/Events</option>
+																<option value="ALL">Any Event</option>
+								
+																<option value="ARTEVENTS">Any Arts Event</option>
 								<option value="BOOKS">&nbsp;Books</option>
 								<option value="POETRY">&nbsp;Poetry</option>
 								<option value="COMED">&nbsp;Comedy</option>
@@ -372,7 +438,7 @@ function parseFormtoolbox() {
 								<option value="THEATER">&nbsp;Theater</option>
 								<option value="TOURS">&nbsp;Tours</option>
 								<option value="WHATNOT">&nbsp;Whatnot</option>
-																								<option value="MUSIC">Music</option>
+																								<option value="MUSIC">Any Music Event</option>
 								<option value="Blues">&nbsp;Blues</option>
 								<option value="Cabaret">&nbsp;Cabaret</option>
 								<option value="Classical">&nbsp;Classical</option>
@@ -392,16 +458,16 @@ function parseFormtoolbox() {
 															</select>
 																					<select name="date">
 								<option value="">any day this week</option>
-								<option value="Fri">&nbsp;Fri, 6/22</option>
-								<option value="Sat">&nbsp;Sat, 6/23</option>
-								<option value="Sun" selected="">&nbsp;Sun, 6/24: Today</option>
-								<option value="Mon">&nbsp;Mon, 6/25</option>
-								<option value="Tue">&nbsp;Tue, 6/26</option>
-								<option value="Wed">&nbsp;Wed, 6/27</option>
-								<option value="Thu">&nbsp;Thu, 6/28</option>
+								<option value="Fri">&nbsp;Fri, 12/21</option>
+								<option value="Sat">&nbsp;Sat, 12/22</option>
+								<option value="Sun">&nbsp;Sun, 12/23</option>
+								<option value="Mon">&nbsp;Mon, 12/24</option>
+								<option value="Tue">&nbsp;Tue, 12/25</option>
+								<option value="Wed" selected="">&nbsp;Wed, 12/26: Today</option>
+								<option value="Thu">&nbsp;Thu, 12/27</option>
 							</select>
 
-							<input type="image" src="/images/button-submit-find_it.gif" border="0" width="58" height="26" class="image-button">
+							<input type="image" src="/images/button-submit-find_it.gif" class="image-button" alt="Find It">
 
 						</form>
 
@@ -514,6 +580,7 @@ function closeFormExtra() {
 		<option value="16">&nbsp;&nbsp;Georgetown</option>
 		<option value="17">&nbsp;&nbsp;Georgia Ave./Petworth/Takoma DC</option>
 		<option value="18">&nbsp;&nbsp;Glover Park</option>
+		<option value="61">&nbsp;&nbsp;Logan Circle</option>
 		<option value="19">&nbsp;&nbsp;Mt. Pleasant/Columbia Heights</option>
 		<option value="21">&nbsp;&nbsp;Tenleytown</option>
 		<option value="22">&nbsp;&nbsp;U Street/Shaw</option>
@@ -558,7 +625,7 @@ function closeFormExtra() {
 		<option value="51">&nbsp;&nbsp;Vienna</option>
 		</select>
 
-	<input type="image" src="/images/button-submit-find_it.gif" border="0" width="58" height="26" class="image-button">
+	<input type="image" src="/images/button-submit-find_it.gif" class="image-button" alt="Find It">
 
 	
 	</form>				</div>
@@ -569,8 +636,15 @@ function closeFormExtra() {
 
 						<p>Select a movie theater in the box below to see a list of all movies at that theater.</p>
 
-						<script language="javascript">
+						<script language="javascript" type="text/javascript">
 
+var theatersRepertory = new Array ();
+	 theatersRepertory[0] = new Array("AFI Silver Theatre and Cultural Center", "AFI_Silver_Theatre_and_Cultural_Center");
+	 theatersRepertory[1] = new Array("American City Diner &amp; Cinema Cafe", "American_City_Diner___Cinema_Cafe");
+	 theatersRepertory[2] = new Array("National Air and Space Museum", "National_Air_and_Space_Museum");
+	 theatersRepertory[3] = new Array("National Gallery of Art", "National_Gallery_of_Art");
+	 theatersRepertory[4] = new Array("National Museum of Natural History", "National_Museum_of_Natural_History");
+	 theatersRepertory[5] = new Array("Steven F. Udvar-Hazy Center", "Steven_F__Udvar_Hazy_Center");
 var theatersDistrict = new Array ();
 	 theatersDistrict[0] = new Array("AMC Loews Cineplex Uptown", "AMC_Loews_Cineplex_Uptown");
 	 theatersDistrict[1] = new Array("AMC Loews Dupont Circle", "AMC_Loews_Dupont_Circle");
@@ -578,89 +652,62 @@ var theatersDistrict = new Array ();
 	 theatersDistrict[3] = new Array("AMC Mazza Gallerie", "AMC_Mazza_Gallerie");
 	 theatersDistrict[4] = new Array("Avalon Theatre", "Avalon_Theatre");
 	 theatersDistrict[5] = new Array("E Street Cinema", "E_Street_Cinema");
-	 theatersDistrict[6] = new Array("Phoenix Theatres Union Station", "Phoenix_Theatres_Union_Station");
+	 theatersDistrict[6] = new Array("Phoenix Theatres- Union Station", "Phoenix_Theatres__Union_Station");
 	 theatersDistrict[7] = new Array("Regal Gallery Place", "Regal_Gallery_Place");
 var theatersMaryland = new Array ();
-	 theatersMaryland[0] = new Array("AMC Magic Johnson Capital Center", "AMC_Magic_Johnson_Capital_Center");
-	 theatersMaryland[1] = new Array("Bethesda Row Cinema", "Bethesda_Row_Cinema");
-	 theatersMaryland[2] = new Array("P&G Montgomery Mall Cinemas", "P_G_Montgomery_Mall_Cinemas");
-	 theatersMaryland[3] = new Array("P&G Old Greenbelt Theatre", "P_G_Old_Greenbelt_Theatre");
-	 theatersMaryland[4] = new Array("P&G Wheaton Plaza 11", "P_G_Wheaton_Plaza_11");
-	 theatersMaryland[5] = new Array("Majestic 20", "Majestic_20");
-	 theatersMaryland[6] = new Array("Regal Bethesda", "Regal_Bethesda");
-	 theatersMaryland[7] = new Array("Rockville Town Center", "Rockville_Town_Center");
+	 theatersMaryland[0] = new Array("Royale 14", "Royale_14");
+	 theatersMaryland[1] = new Array("AMC Magic Johnson Capital Center", "AMC_Magic_Johnson_Capital_Center");
+	 theatersMaryland[2] = new Array("Bethesda Row Cinema", "Bethesda_Row_Cinema");
+	 theatersMaryland[3] = new Array("P&G Montgomery Mall Cinemas", "P_G_Montgomery_Mall_Cinemas");
+	 theatersMaryland[4] = new Array("P&G Old Greenbelt Theatre", "P_G_Old_Greenbelt_Theatre");
+	 theatersMaryland[5] = new Array("P and G Wheaton Plaza 11", "P_and_G_Wheaton_Plaza_11");
+	 theatersMaryland[6] = new Array("Majestic 20", "Majestic_20");
+	 theatersMaryland[7] = new Array("Regal Bethesda", "Regal_Bethesda");
+	 theatersMaryland[8] = new Array("Rockville Town Center", "Rockville_Town_Center");
 var theatersVirginia = new Array ();
-	 theatersVirginia[0] = new Array("AMC Courthouse", "AMC_Courthouse");
-	 theatersVirginia[1] = new Array("AMC Hoffman Center", "AMC_Hoffman_Center");
-	 theatersVirginia[2] = new Array("AMC Loews Cineplex Shirlington", "AMC_Loews_Cineplex_Shirlington");
-	 theatersVirginia[3] = new Array("AMC Tysons Corner 16", "AMC_Tysons_Corner_16");
-	 theatersVirginia[4] = new Array("Arlington Cinema 'n' Drafthouse", "Arlington_Cinema__n__Drafthouse");
-	 theatersVirginia[5] = new Array("Ballston Common", "Ballston_Common");
-	 theatersVirginia[6] = new Array("Cinema Arts Theatre", "Cinema_Arts_Theatre");
-	 theatersVirginia[7] = new Array("Regal Potomac Yards 16", "Regal_Potomac_Yards_16");
-	 theatersVirginia[8] = new Array("University Mall Theatres", "University_Mall_Theatres");
-var theatersRepertory = new Array ();
-	 theatersRepertory[0] = new Array("AFI Silver Theatre and Cultural Center", "AFI_Silver_Theatre_and_Cultural_Center");
-	 theatersRepertory[1] = new Array("American City Diner &amp; Cinema Cafe", "American_City_Diner___Cinema_Cafe");
-	 theatersRepertory[2] = new Array("Capitol Hill Arts Workshop", "Capitol_Hill_Arts_Workshop");
-	 theatersRepertory[3] = new Array("Dr. Dremo's Taphouse", "Dr__Dremo_s_Taphouse");
-	 theatersRepertory[4] = new Array("Freer Gallery of Art", "Freer_Gallery_of_Art");
-	 theatersRepertory[5] = new Array("Goethe Institut", "Goethe_Institut");
-	 theatersRepertory[6] = new Array("Hirshhorn Museum of Art", "Hirshhorn_Museum_of_Art");
-	 theatersRepertory[7] = new Array("Library of Congress", "Library_of_Congress");
-	 theatersRepertory[8] = new Array("National Air and Space Museum", "National_Air_and_Space_Museum");
-	 theatersRepertory[9] = new Array("National Gallery of Art", "National_Gallery_of_Art");
-	 theatersRepertory[10] = new Array("National Museum of Natural History", "National_Museum_of_Natural_History");
-	 theatersRepertory[11] = new Array("National Museum of Women in the Arts", "National_Museum_of_Women_in_the_Arts");
-	 theatersRepertory[12] = new Array("National Portrait Gallery", "National_Portrait_Gallery");
-	 theatersRepertory[13] = new Array("National Theatre", "National_Theatre");
-	 theatersRepertory[14] = new Array("Ripley Center", "Ripley_Center");
-	 theatersRepertory[15] = new Array("Steven F. Udvar-Hazy Center", "Steven_F__Udvar_Hazy_Center");
-var theaters = new Array ();
-var theaters = new Array ();
-AMC_Loews_Cineplex_Uptown = new Array("Pirates of the Caribbean: At World's End");
-AMC_Loews_Dupont_Circle = new Array("Angel-A", "Brooklyn Rules", "Eagle vs. Shark", "Knocked Up", "Ocean's Thirteen");
-AMC_Loews_Theatres_Georgetown = new Array("1408", "Evan Almighty", "Fantastic Four: Rise of the Silver Surfer", "Knocked Up", "Live Free or Die Hard", "A Mighty Heart", "Mr. Brooks", "Nancy Drew", "Ocean's Thirteen", "Pirates of the Caribbean: At World's End", "Shrek the Third", "Sicko", "Waitress", "You Kill Me");
-AMC_Mazza_Gallerie = new Array("1408", "Evan Almighty", "Fantastic Four: Rise of the Silver Surfer", "Knocked Up", "Live Free or Die Hard", "Mr. Brooks", "Nancy Drew", "Ocean's Thirteen");
-Avalon_Theatre = new Array("Paris, je t'aime", "T-Rex: Back to the Cretaceous", "Waitress");
-E_Street_Cinema = new Array("10 Questions for the Dalai Lama", "La Vie en Rose", "A Mighty Heart", "Once", "Paprika", "Paris, je t'aime", "ShowBusiness: The Road to Broadway", "ShowBusiness: The Road to Broadway", "Waitress");
-Phoenix_Theatres_Union_Station = new Array("1408", "Evan Almighty", "Fantastic Four: Rise of the Silver Surfer", "Knocked Up", "Nancy Drew", "Ocean's Thirteen", "Shrek the Third", "Surf's Up");
-Regal_Gallery_Place = new Array("1408", "Evan Almighty", "Fantastic Four: Rise of the Silver Surfer", "Hostel: Part II", "Knocked Up", "Live Free or Die Hard", "Mr. Brooks", "Nancy Drew", "Ocean's Thirteen", "Pirates of the Caribbean: At World's End", "Shrek the Third");
-AMC_Magic_Johnson_Capital_Center = new Array("1408", "Evan Almighty", "Fantastic Four: Rise of the Silver Surfer", "Happy Feet", "Hostel: Part II", "Live Free or Die Hard", "A Mighty Heart", "Mr. Brooks", "Nancy Drew", "Ocean's Thirteen", "Pirates of the Caribbean: At World's End", "Shrek the Third", "Surf's Up");
-Bethesda_Row_Cinema = new Array("Golden Door", "La Vie en Rose", "A Mighty Heart", "Once", "Paris, je t'aime", "Sicko", "The Valet", "Waitress", "You Kill Me");
-P_G_Montgomery_Mall_Cinemas = new Array("Fantastic Four: Rise of the Silver Surfer", "Mr. Brooks", "Surf's Up");
-P_G_Old_Greenbelt_Theatre = new Array("The Valet");
-P_G_Wheaton_Plaza_11 = new Array("1408", "Evan Almighty", "Fantastic Four: Rise of the Silver Surfer", "Hostel: Part II", "Knocked Up", "A Mighty Heart", "Nancy Drew", "Ocean's Thirteen", "Shrek the Third", "Surf's Up", "Waitress");
-Majestic_20 = new Array("1408", "Doogal", "Evan Almighty", "Fantastic Four: Rise of the Silver Surfer", "Flushed Away", "Hostel: Part II", "Knocked Up", "Mr. Brooks", "Nancy Drew", "Ocean's Thirteen", "Pirates of the Caribbean: At World's End", "Shrek the Third", "Spider-Man 3", "Surf's Up");
-Regal_Bethesda = new Array("1408", "Evan Almighty", "Fantastic Four: Rise of the Silver Surfer", "Knocked Up", "Nancy Drew", "Ocean's Thirteen", "Pirates of the Caribbean: At World's End", "Surf's Up");
-Rockville_Town_Center = new Array("1408", "Evan Almighty", "Fantastic Four: Rise of the Silver Surfer", "Knocked Up", "Live Free or Die Hard", "Mr. Brooks", "Nancy Drew", "Ocean's Thirteen", "Pirates of the Caribbean: At World's End", "Shrek the Third", "Surf's Up");
-AMC_Courthouse = new Array("1408", "Knocked Up", "Live Free or Die Hard", "Ocean's Thirteen", "Shrek the Third", "Surf's Up", "Waitress");
-AMC_Hoffman_Center = new Array("1408", "28 Weeks Later", "Evan Almighty", "Fantastic Four: Rise of the Silver Surfer", "Happy Feet", "Hostel: Part II", "Knocked Up", "Live Free or Die Hard", "A Mighty Heart", "Mr. Brooks", "Nancy Drew", "Ocean's Thirteen", "Pirates of the Caribbean: At World's End", "Shrek the Third", "Spider-Man 3", "Surf's Up");
-AMC_Loews_Cineplex_Shirlington = new Array("Angel-A", "Away From Her", "La Vie en Rose", "A Mighty Heart", "Once", "Paris, je t'aime", "Waitress", "You Kill Me");
-AMC_Tysons_Corner_16 = new Array("1408", "Evan Almighty", "Fantastic Four: Rise of the Silver Surfer", "Happy Feet", "Knocked Up", "Live Free or Die Hard", "A Mighty Heart", "Nancy Drew", "Ocean's Thirteen", "Pirates of the Caribbean: At World's End", "Shrek the Third", "Surf's Up");
-Arlington_Cinema__n__Drafthouse = new Array("300", "Blades of Glory", "The Hoax", "Hot Fuzz", "TMNT");
-Ballston_Common = new Array("Evan Almighty", "Fantastic Four: Rise of the Silver Surfer", "Georgia Rule", "A Mighty Heart", "Nancy Drew", "Once", "Pirates of the Caribbean: At World's End", "Spider-Man 3");
-Cinema_Arts_Theatre = new Array("La Vie en Rose", "A Mighty Heart", "Once", "Paris, je t'aime", "Pirates of the Caribbean: At World's End", "Waitress");
-Regal_Potomac_Yards_16 = new Array("1408", "Evan Almighty", "Fantastic Four: Rise of the Silver Surfer", "Knocked Up", "Mr. Brooks", "Nancy Drew", "Ocean's Thirteen", "Pirates of the Caribbean: At World's End", "Shrek the Third", "Surf's Up");
-University_Mall_Theatres = new Array("300", "Blades of Glory", "Clifford", "Georgia Rule", "Gracie", "Hot Fuzz", "Meet the Robinsons", "The Rocky Horror Picture Show", "Veggie Tales");
-AFI_Silver_Theatre_and_Cultural_Center = new Array("Election", "A Mighty Heart", "Triad Election", "The Scarecrow/Steamboat Bill Jr.", "A Bittersweet Life ", "The Makioka Sisters", "President's Last Bang ", "La Strada", "The Searchers");
-American_City_Diner___Cinema_Cafe = new Array("A Face in the Crowd", "The Fly", "Hush&#8230;Hush, Sweet Charlotte", "The Hustler", "Some Like it Hot", "Somebody Up There Likes Me", "Witness for the Prosecution");
-Capitol_Hill_Arts_Workshop = new Array("These Three");
-Dr__Dremo_s_Taphouse = new Array("Turkey Shoot/Escape 2000");
-Freer_Gallery_of_Art = new Array("<0x201C>No,<0x201D> Or the Vain Glory of Command", "A Talking Picture");
-Goethe_Institut = new Array("The Short Life of  Jose Antonio Gutierrez ");
-Hirshhorn_Museum_of_Art = new Array("Barbarella");
-Library_of_Congress = new Array("Diplomatic Courier", "A Mid-Summer Night's Dream", "Much Ado About Nothing", "Taming of the Shrew");
+	 theatersVirginia[0] = new Array("Alexandria Old Town Theater", "Alexandria_Old_Town_Theater");
+	 theatersVirginia[1] = new Array("AMC Courthouse", "AMC_Courthouse");
+	 theatersVirginia[2] = new Array("AMC Hoffman Center", "AMC_Hoffman_Center");
+	 theatersVirginia[3] = new Array("AMC Loews Cineplex Shirlington", "AMC_Loews_Cineplex_Shirlington");
+	 theatersVirginia[4] = new Array("AMC Tysons Corner 16", "AMC_Tysons_Corner_16");
+	 theatersVirginia[5] = new Array("Arlington Cinema 'n' Drafthouse", "Arlington_Cinema__n__Drafthouse");
+	 theatersVirginia[6] = new Array("Ballston Common", "Ballston_Common");
+	 theatersVirginia[7] = new Array("Cinema Arts Theatre", "Cinema_Arts_Theatre");
+	 theatersVirginia[8] = new Array("Regal Potomac Yards 16", "Regal_Potomac_Yards_16");
+	 theatersVirginia[9] = new Array("University Mall Theatres", "University_Mall_Theatres");
+AFI_Silver_Theatre_and_Cultural_Center = new Array("Juno", "No Country for Old Men", "A Christmas Story", "It's a<cKerning:-5> <cKerning:>Wonderful Life", "The Eel", "Warm Water Under a Red Bridge", "Au Hasard Balthazar", "Mafioso", "Rififi", "The Third Man");
+American_City_Diner___Cinema_Cafe = new Array("I Love You, Alice B. Toklas!", "It's a Wonderful Life", "Miracle on 34th Street", "Strangers on a Train", "White Heat");
 National_Air_and_Space_Museum = new Array("Adrenaline Rush: Science of Risk", "Fighter Pilot: Operation Red Flag", "Space Station 3D", "To Fly");
-National_Gallery_of_Art = new Array("Avant-Garde Shorts");
-National_Museum_of_Natural_History = new Array("Lions 3D: Roar of the Kalahari ", "Night at the Museum: The IMAX Experience", "Sharks 3D IMAX");
-National_Museum_of_Women_in_the_Arts = new Array("Don't Tell");
-National_Portrait_Gallery = new Array("Strangers on a Train");
-National_Theatre = new Array("Bringing Up Baby");
-Ripley_Center = new Array("From Mambo to Hip Hop: A Bronx Tale");
-Steven_F__Udvar_Hazy_Center = new Array("Fighter Pilot: Operation Red Flag", "Hurricane on the Bayou", "Spider-Man 3: The IMAX Experience ", "Spider-Man 3: The IMAX Experience ");
-);
-, "");
+National_Gallery_of_Art = new Array("Fully Awake: Black Mountain College", "The Strange Madame  X", "The Reenactment");
+National_Museum_of_Natural_History = new Array("Lions 3D: Roar of the Kalahari ", "The Polar Express: An IMAX 3D Experience", "Sea Monsters 3D: A Prehistoric Adventure");
+Steven_F__Udvar_Hazy_Center = new Array("The Alps: Giants of Nature", "Fighter Pilot: Operation Red Flag");
+AMC_Loews_Cineplex_Uptown = new Array("I Am Legend");
+AMC_Loews_Dupont_Circle = new Array("Before the Devil Knows You're Dead", "Charlie Wilson's War", "I Am Legend", "I'm Not There", "P.S. I Love You");
+AMC_Loews_Theatres_Georgetown = new Array("27 Dresses", "Aliens vs. Predator - Requiem", "Alvin and the Chipmunks", "Charlie Wilson's War", "Enchanted", "The Golden Compass", "The Great Debaters", "I Am Legend", "Juno", "The Kite Runner", "National Treasure: Book of Secrets", "No Country for Old Men", "P.S. I Love You", "Sweeney Todd: The Demon Barber of Fleet Street", "Walk Hard: The Dewey Cox Story");
+AMC_Mazza_Gallerie = new Array("Alvin and the Chipmunks", "Charlie Wilson's War", "Enchanted", "The Golden Compass", "Michael Clayton", "National Treasure: Book of Secrets", "Sweeney Todd: The Demon Barber of Fleet Street", "Walk Hard: The Dewey Cox Story", "The Water Horse: Legend of the Deep");
+Avalon_Theatre = new Array("Charlie Wilson's War", "The Savages");
+E_Street_Cinema = new Array("Atonement", "Juno", "The Kite Runner", "No Country for Old Men", "The Savages", "Starting Out in the Evening");
+Phoenix_Theatres__Union_Station = new Array("Aliens vs. Predator - Requiem", "Alvin and the Chipmunks", "Charlie Wilson's War", "Enchanted", "The Great Debaters", "I Am Legend", "National Treasure: Book of Secrets", "P.S. I Love You", "The Perfect Holiday", "Walk Hard: The Dewey Cox Story");
+Regal_Gallery_Place = new Array("Alvin and the Chipmunks", "Charlie Wilson's War", "Enchanted", "The Golden Compass", "I Am Legend", "National Treasure: Book of Secrets", "P.S. I Love You", "The Perfect Holiday", "Sweeney Todd: The Demon Barber of Fleet Street", "This Christmas", "Walk Hard: The Dewey Cox Story");
+Royale_14 = new Array("Aliens vs. Predator - Requiem", "Alvin and the Chipmunks", "Awake", "Charlie Wilson's War", "Enchanted", "The Golden Compass", "The Great Debaters", "I Am Legend", "Juno", "National Treasure: Book of Secrets", "P.S. I Love You", "The Perfect Holiday", "Sweeney Todd: The Demon Barber of Fleet Street", "This Christmas", "Walk Hard: The Dewey Cox Story", "The Water Horse: Legend of the Deep");
+AMC_Magic_Johnson_Capital_Center = new Array("Aliens vs. Predator - Requiem", "Alvin and the Chipmunks", "Charlie Wilson's War", "The Golden Compass", "The Great Debaters", "I Am Legend", "National Treasure: Book of Secrets", "The Perfect Holiday", "This Christmas", "Walk Hard: The Dewey Cox Story");
+Bethesda_Row_Cinema = new Array("Atonement", "The Diving Bell and the Butterfly", "Juno", "The Kite Runner", "No Country for Old Men", "Sweeney Todd: The Demon Barber of Fleet Street");
+P_G_Montgomery_Mall_Cinemas = new Array("Alvin and the Chipmunks", "The Golden Compass", "National Lampoon Presents Electric Apricot: Quest for Festeroo", "National Treasure: Book of Secrets", "The Water Horse: Legend of the Deep");
+P_G_Old_Greenbelt_Theatre = new Array("Atonement");
+P_and_G_Wheaton_Plaza_11 = new Array("Aliens vs. Predator - Requiem", "Alvin and the Chipmunks", "Charlie Wilson's War", "The Golden Compass", "The Great Debaters", "I Am Legend", "National Treasure: Book of Secrets", "The Perfect Holiday", "This Christmas", "The Water Horse: Legend of the Deep");
+Majestic_20 = new Array("27 Dresses", "Aliens vs. Predator - Requiem", "Alvin and the Chipmunks", "Atonement", "Charlie Wilson's War", "Enchanted", "The Golden Compass", "The Great Debaters", "Hitman", "I Am Legend", "The Kite Runner", "National Treasure: Book of Secrets", "P.S. I Love You", "The Perfect Holiday", "Sweeney Todd: The Demon Barber of Fleet Street", "This Christmas", "Walk Hard: The Dewey Cox Story", "The Water Horse: Legend of the Deep");
+Regal_Bethesda = new Array("Alvin and the Chipmunks", "Charlie Wilson's War", "Enchanted", "The Golden Compass", "I Am Legend", "National Treasure: Book of Secrets", "P.S. I Love You", "Walk Hard: The Dewey Cox Story");
+Rockville_Town_Center = new Array("Alvin and the Chipmunks", "Atonement", "Charlie Wilson's War", "Enchanted", "The Golden Compass", "I Am Legend", "Juno", "National Treasure: Book of Secrets", "P.S. I Love You", "Sweeney Todd: The Demon Barber of Fleet Street", "Walk Hard: The Dewey Cox Story");
+Alexandria_Old_Town_Theater = new Array("Charlie Wilson's War", "I Am Legend");
+AMC_Courthouse = new Array("Alvin and the Chipmunks", "Charlie Wilson's War", "Fred Claus", "Gone Baby Gone", "The Great Debaters", "The Kite Runner", "Love in the Time of Cholera", "National Treasure: Book of Secrets", "P.S. I Love You", "The Water Horse: Legend of the Deep");
+AMC_Hoffman_Center = new Array("Alvin and the Chipmunks", "Atonement", "Charlie Wilson's War", "Enchanted", "The Golden Compass", "I Am Legend", "The Kite Runner", "National Treasure: Book of Secrets", "P.S. I Love You", "The Perfect Holiday", "Sweeney Todd: The Demon Barber of Fleet Street", "This Christmas", "Walk Hard: The Dewey Cox Story");
+AMC_Loews_Cineplex_Shirlington = new Array("Atonement", "Juno", "No Country for Old Men", "The Savages", "Sweeney Todd: The Demon Barber of Fleet Street");
+AMC_Tysons_Corner_16 = new Array("27 Dresses", "Aliens vs. Predator - Requiem", "Alvin and the Chipmunks", "Atonement", "Beowulf: Digital 3D", "Charlie Wilson's War", "Enchanted", "The Golden Compass", "The Great Debaters", "I Am Legend", "Juno", "The Kite Runner", "National Treasure: Book of Secrets", "No Country for Old Men", "P.S. I Love You", "Sweeney Todd: The Demon Barber of Fleet Street", "Walk Hard: The Dewey Cox Story", "The Water Horse: Legend of the Deep");
+Arlington_Cinema__n__Drafthouse = new Array("Bee Movie", "The Brave One", "Dan in Real Life", "Death at a Funeral");
+Ballston_Common = new Array("Atonement", "Enchanted", "The Golden Compass", "I Am Legend", "Juno", "No Country for Old Men", "Sweeney Todd: The Demon Barber of Fleet Street", "Walk Hard: The Dewey Cox Story");
+Cinema_Arts_Theatre = new Array("Charlie Wilson's War", "Juno", "The Savages", "Starting Out in the Evening");
+Regal_Potomac_Yards_16 = new Array(" Call theater for schedule.\<$f$\>");
+University_Mall_Theatres = new Array("American Gangster", "Bee Movie", "Dan in Real Life", "Gone Baby Gone", "Mr. Magorium's Wonder Emporium", "The Rocky Horror Picture Show", "");
 function getFilmListtoolbox() {
 	var theater = document.moduleMovieTheatertoolboxForm.theater.value;
 	var filmArray = eval(theater);
@@ -693,38 +740,38 @@ function getMovieTimetoolbox() {
 		<option value="nothing">...for a list of movies playing there</option>
 		<option value="nothing"></option>
 		<option value="nothing">&nbsp;District</option>
-		<script language="javascript">
+		<script language="javascript" type="text/javascript">
 		for(var i=0; i<theatersDistrict.length; i++) {
 			document.write("<option value=\"" + theatersDistrict[i][1] + "\">&nbsp;&nbsp;" + theatersDistrict[i][0] + "</option>");
 		}
-		</script>
+		</script><option value="AMC_Loews_Cineplex_Uptown">&nbsp;&nbsp;AMC Loews Cineplex Uptown</option><option value="AMC_Loews_Dupont_Circle">&nbsp;&nbsp;AMC Loews Dupont Circle</option><option value="AMC_Loews_Theatres_Georgetown">&nbsp;&nbsp;AMC Loews Theatres Georgetown</option><option value="AMC_Mazza_Gallerie">&nbsp;&nbsp;AMC Mazza Gallerie</option><option value="Avalon_Theatre">&nbsp;&nbsp;Avalon Theatre</option><option value="E_Street_Cinema">&nbsp;&nbsp;E Street Cinema</option><option value="Phoenix_Theatres__Union_Station">&nbsp;&nbsp;Phoenix Theatres- Union Station</option><option value="Regal_Gallery_Place">&nbsp;&nbsp;Regal Gallery Place</option>
 		<option value="nothing"></option>
 		<option value="nothing">&nbsp;Maryland</option>
-		<script language="javascript">
+		<script language="javascript" type="text/javascript">
 		for(var i=0; i<theatersMaryland.length; i++) {
 			document.write("<option value=\"" + theatersMaryland[i][1] + "\">&nbsp;&nbsp;" + theatersMaryland[i][0] + "</option>");
 		}
-		</script>
+		</script><option value="Royale_14">&nbsp;&nbsp;Royale 14</option><option value="AMC_Magic_Johnson_Capital_Center">&nbsp;&nbsp;AMC Magic Johnson Capital Center</option><option value="Bethesda_Row_Cinema">&nbsp;&nbsp;Bethesda Row Cinema</option><option value="P_G_Montgomery_Mall_Cinemas">&nbsp;&nbsp;P&amp;G Montgomery Mall Cinemas</option><option value="P_G_Old_Greenbelt_Theatre">&nbsp;&nbsp;P&amp;G Old Greenbelt Theatre</option><option value="P_and_G_Wheaton_Plaza_11">&nbsp;&nbsp;P and G Wheaton Plaza 11</option><option value="Majestic_20">&nbsp;&nbsp;Majestic 20</option><option value="Regal_Bethesda">&nbsp;&nbsp;Regal Bethesda</option><option value="Rockville_Town_Center">&nbsp;&nbsp;Rockville Town Center</option>
 		<option value="nothing"></option>
 		<option value="nothing">&nbsp;Virginia</option>
-		<script language="javascript">
+		<script language="javascript" type="text/javascript">
 		for(var i=0; i<theatersVirginia.length; i++) {
 			document.write("<option value=\"" + theatersVirginia[i][1] + "\">&nbsp;&nbsp;" + theatersVirginia[i][0] + "</option>");
 		}
-		</script>
+		</script><option value="Alexandria_Old_Town_Theater">&nbsp;&nbsp;Alexandria Old Town Theater</option><option value="AMC_Courthouse">&nbsp;&nbsp;AMC Courthouse</option><option value="AMC_Hoffman_Center">&nbsp;&nbsp;AMC Hoffman Center</option><option value="AMC_Loews_Cineplex_Shirlington">&nbsp;&nbsp;AMC Loews Cineplex Shirlington</option><option value="AMC_Tysons_Corner_16">&nbsp;&nbsp;AMC Tysons Corner 16</option><option value="Arlington_Cinema__n__Drafthouse">&nbsp;&nbsp;Arlington Cinema 'n' Drafthouse</option><option value="Ballston_Common">&nbsp;&nbsp;Ballston Common</option><option value="Cinema_Arts_Theatre">&nbsp;&nbsp;Cinema Arts Theatre</option><option value="Regal_Potomac_Yards_16">&nbsp;&nbsp;Regal Potomac Yards 16</option><option value="University_Mall_Theatres">&nbsp;&nbsp;University Mall Theatres</option>
 		<option value="nothing"></option>
 		<option value="nothing">&nbsp;Repertory</option>
-		<script language="javascript">
+		<script language="javascript" type="text/javascript">
 		for(var i=0; i<theatersRepertory.length; i++) {
 			document.write("<option value=\"" + theatersRepertory[i][1] + "\">&nbsp;&nbsp;" + theatersRepertory[i][0] + "</option>");
 		}
-		</script>
+		</script><option value="AFI_Silver_Theatre_and_Cultural_Center">&nbsp;&nbsp;AFI Silver Theatre and Cultural Center</option><option value="American_City_Diner___Cinema_Cafe">&nbsp;&nbsp;American City Diner &amp; Cinema Cafe</option><option value="National_Air_and_Space_Museum">&nbsp;&nbsp;National Air and Space Museum</option><option value="National_Gallery_of_Art">&nbsp;&nbsp;National Gallery of Art</option><option value="National_Museum_of_Natural_History">&nbsp;&nbsp;National Museum of Natural History</option><option value="Steven_F__Udvar_Hazy_Center">&nbsp;&nbsp;Steven F. Udvar-Hazy Center</option>
 	</select>
 
 	<select name="films">
 	</select>
 
-	<input type="image" src="/images/button-submit-find_it.gif" border="0" width="58" height="26" class="image-button">
+	<input type="image" src="/images/button-submit-find_it.gif" class="image-button" alt="Find It">
 
 
 </form>
@@ -752,14 +799,14 @@ function getMovieTimetoolbox() {
 								<option value="oid:11">Wheels</option>
 							</select>
 							<input name="searchPhrase" size="20" value="Enter a Keyword" class="text" onfocus="if(this.value=='Enter a Keyword')this.value='';">
-							<input type="image" src="/images/button-submit-find_it.gif" border="0" width="58" height="26" class="image-button">
+							<input type="image" src="/images/button-submit-find_it.gif" class="image-button" alt="Find It">
 						</form>
 
 						<div class="toolbox-module-divider"></div>
 
 						<h4>Post a Classified Ad</h4>
 
-						<form name="moduleClassifiedNewForm">
+						<form name="moduleClassifiedNewForm" action="#">
 							<select name="adSection">
 					   			<option value="http://manage.washingtoncitypaper.com/gyrobase/PostAd?section=oid%3A5">Health &amp; Wellness</option>
 					  			<option value="http://manage.washingtoncitypaper.com/gyrobase/PostAd?section=oid%3A8">Housing</option>
@@ -772,7 +819,7 @@ function getMovieTimetoolbox() {
 					  			<option value="http://manage.washingtoncitypaper.com/gyrobase/PostAd?section=oid%3A189">Bulletin Board</option>
 					  			<option value="http://manage.washingtoncitypaper.com/gyrobase/PostAd?section=oid%3A18775">Adult</option>
 					  		</select>
-							<a href="javascript:document.location = document.moduleClassifiedNewForm.adSection.options [document.moduleClassifiedNewForm.adSection.selectedIndex].value;" onclick="document.location = document.moduleClassifiedNewForm.adSection.options [document.moduleClassifiedNewForm.adSection.selectedIndex].value;"><img src="/images/button-submit-post_it.gif" border="0" width="58" height="26" class="image-button"></a>
+							<a href="javascript:document.location = document.moduleClassifiedNewForm.adSection.options [document.moduleClassifiedNewForm.adSection.selectedIndex].value;" onclick="document.location = document.moduleClassifiedNewForm.adSection.options [document.moduleClassifiedNewForm.adSection.selectedIndex].value;"><img src="/images/button-submit-post_it.gif" border="0" width="58" height="26" class="image-button" alt="Find It"></a>
 						</form>
 				</div>
 <!-- end -->
@@ -799,7 +846,7 @@ function getMovieTimetoolbox() {
 								</select>
 							</div>
 							<div class="form-fieldset">Age range: <input name="ageMin" size="2" class="age"> to <input name="ageMax" size="2" class="age"></div>
-							<a href="javascript:document.moduleMatchesForm.submit();"><img src="/images/button-submit-find_it.gif" border="0" width="58" height="26" class="image-button"></a>
+							<a href="javascript:document.moduleMatchesForm.submit();"><img src="/images/button-submit-find_it.gif" class="image-button" alt="Find It"></a>
 						</form>
 
 						<div class="toolbox-module-divider"></div>
@@ -813,64 +860,51 @@ function getMovieTimetoolbox() {
 					<form name="moduleNewsletterForm" action="http://206.239.195.11/cgi-bin/mainsignup.pl" method="post" onsubmit="return validateEmail();">
 						<img src="/images/label-newsletters.gif" border="0" width="84" height="12" alt="City Paper Newsletter" class="image-label">
 						<input name="mailaddress" size="20" value="Your E-mail Address" onfocus="if(this.value=='Your E-mail Address')this.value='';">
-						<input type="image" src="/images/button-submit-sign_up.gif" border="0" width="58" height="26" class="image-button">
+						<input type="image" src="/images/button-submit-sign_up.gif" class="image-button" alt="Sign Up">
 					</form>
 				</div>
 			</div>
 <!-- end -->			<div class="module-col-right" id="ad-placard">
 				<div id="storyRectangle">
-					<div class="advertCaption">advertisement</div>
-					<!-- ad slot 4 -->
-					<script type="text/javascript">
-						writeAd(4);
-					</script><iframe src="https://web.archive.org/web/20070329074206/http://ad.doubleclick.net/adi/main.washingtoncitypaper/edit;pg=AboutThePaper;sz=300x250;tile=4;ord=12524?" width="300" height="250" class="rectangle" scrolling="no" frameborder="0"><a href="https://web.archive.org/web/20070329074206/http://ad.doubleclick.net/jump/main.washingtoncitypaper/edit;pg=AboutThePaper;sz=300x250;tile=4;ord=12524?"><img src="https://web.archive.org/web/20070329074206/http://ad.doubleclick.net/ad/main.washingtoncitypaper/edit;pg=AboutThePaper;sz=300x250;tile=4;ord=12524?" width="300" height="250" alt=""></a></iframe>
+				</div>
+			</div>
+			<div class="module-col-right" id="classifieds-promo">
+				<div class="module-text-promo">
+					<a href="http://classifieds.washingtoncitypaper.com/washington/" style="font-weight: bold;">Post FREE Classifieds</a> or <a href="http://washingtoncitypaper.selectalternatives.com/gyrobase/Personals/" style="font-weight: bold;">FREE Personals profile</a>
 				</div>
 			</div>
 			<div class="module-col-right">
 				<div id="module-promo">
+					
 					<div class="linkblock-hp-ticketevents linkblock">
 						<h3 class="header-img"><img src="/images/pageheads/subhead-freestuff.gif" width="62" height="22" border="0" alt="Free Stuff"></h3>
 						<ul>
-										<li><span class="title"><a href="/display.php?id=1845">Free Movie Passes! <em>Broken English</em></a></span><br>
-			<span class="teaser">See the advance screening on Wednesday, June 27.</span></li>
-			<li><span class="title"><a href="/display.php?id=1843">Win An Autographed CD!</a></span><br>
-			<span class="teaser"><em>The Reminder</em> by Feist</span></li>
-			<li><span class="title"><a href="/display.php?id=1841">Win Free Tickets! Hall &amp; Oates</a></span><br>
-			<span class="teaser">Monday, July 2, at 8 p.m., at the Music Center at Strathmore</span></li>
-			<li><span class="title"><a href="/display.php?id=1810">Win Tickets! The Psychedelic Furs</a></span><br>
-			<span class="teaser">With the Fixx and the Alarm, July 4</span></li>
+										<li><span class="title"><a href="/display.php?id=34284">Ladysmith Black Mambazo</a></span><br>
+			<span class="teaser">Win Tickets! January 23, 7:30pm</span></li>
+			<li><span class="title"><a href="/display.php?id=34285">Win Tickets!</a></span><br>
+			<span class="teaser">Corcoran Gallery of Art</span></li>
 						</ul>
 					</div>
 
-					<div class="divider-column-promo"><img src="/images/spacer.gif" width="1" height="4" border="0"></div>
-
-					<div class="linkblock-hp-ticketevents linkblock">
-						<a href="/craftybastards/"><img src="/craftybastards/2007/images/crafty-promo.gif" width="100" height="85" border="0" alt="Crafty 2007!"></a>
-						<ul>
-							<li><span class="title"><a href="/craftybastards/">WCP Crafty Bastards Arts and Crafts Fair</a></span><br>
-							<span class="teaser">Apply now!</span></li>
-							<li><span class="title">Go to <a href="/blogs/craftybastards/">Crafty Blog</a></span><br>
-							<span class="teaser">Where indie crafters unite</span></li>
-						</ul>
-					</div>
-
-					<div class="divider-column-promo"><img src="/images/spacer.gif" width="1" height="4" border="0"></div>
+					<div class="divider-column-promo"><img src="/images/spacer.gif" width="1" height="4" border="0" alt=""></div>
 
 					<div class="linkblock-hp-ticketevents linkblock">
 						<h3 class="header-img"><a href="/cpevents/"><img src="/images/pageheads/subhead-cpevents.gif" width="57" height="22" border="0" alt="CP Events"></a></h3>
-						
+						<ul>
+							
 			<li><span class="title">Foodie Event</span><br>
 			<span class="teaser">The next Nosh Mob is coming up in a few weeks. Get your free, exclusive invite by <a href="http://www.washingtoncitypaper.com/food/raters/">becoming an Washington City Paper Restaurant Rater</a> - your invite will be emailed to you a day before the event.</span></li>
+						</ul>
 					</div>
 
-					<div class="divider-column-promo"><img src="/images/spacer.gif" width="1" height="4" border="0"></div>
+					<div class="divider-column-promo"><img src="/images/spacer.gif" width="1" height="4" border="0" alt=""></div>
 
 					<div class="linkblock-hp-ticketevents linkblock">
-												<p><a href="/currentissue/"><img src="/images/covers/cover-issue45-sm.jpg" width="123" height="153" border="0" alt="Current Issue"></a><br>
-						<span class="teaser">The Issue of <b><a href="/currentissue/">Jun. 22 - 28, 2007</a></b></span></p>
+												<p><a href="/currentissue/"><img src="/images/covers/cover-issue698-sm.jpg" width="123" height="153" border="0" alt="Current Issue"></a><br>
+						<span class="teaser">The Issue of <b><a href="/currentissue/">Dec. 20 - 26, 2007</a></b></span></p>
 					</div>
-
-					<div class="divider-column-promo"><img src="/images/spacer.gif" width="1" height="4" border="0"></div>
+					
+					<div class="divider-column-promo"><img src="/images/spacer.gif" width="1" height="4" border="0" alt=""></div>
 
 					<div id="module-about_wcp">
 						<h3 class="header-img"><img src="/images/pageheads/subhead-aboutcitypaper.gif" width="100" height="22" border="0" alt="About the City Paper"></h3>
@@ -890,16 +924,9 @@ function getMovieTimetoolbox() {
 
 				<div id="ad-tower">
 					<!-- ad slot 3 -->
-					<div class="advertCaption">advertisement</div>
-					<script type="text/javascript">
-						writeAd(3);
-					</script><iframe src="https://web.archive.org/web/20070329074206/http://ad.doubleclick.net/adi/main.washingtoncitypaper/edit;pg=AboutThePaper;sz=160x600;tile=3;ord=12524?" width="160" height="600" class="skyscraper" scrolling="no" frameborder="0"><a href="https://web.archive.org/web/20070329074206/http://ad.doubleclick.net/jump/main.washingtoncitypaper/edit;pg=AboutThePaper;sz=160x600;tile=3;ord=12524?"><img src="https://web.archive.org/web/20070329074206/http://ad.doubleclick.net/ad/main.washingtoncitypaper/edit;pg=AboutThePaper;sz=160x600;tile=3;ord=12524?" width="160" height="600" alt=""></a></iframe>
-
-
+					
 					<!--Blogads -->
-
-					<script language="javascript" src="http://cache.blogads.com/435168120/feed.js"></script>
-
+					<script language="javascript" src="http://cache.blogads.com/435168120/feed.js" type="text/javascript"></script>
 				</div>
 			</div>
 		</div>
@@ -924,10 +951,19 @@ function getMovieTimetoolbox() {
 			<a href="/citypaper/internships/">Internships</a> |
 			<a href="/citypaper/findapaper/">Find a Paper</a> |
 			<a href="/citypaper/articlesandbackissues/">Articles and Back Issues</a> |
+			<a href="/corrections/">Corrections</a> |
 			<a href="/citypaper/contact/">Contact Us</a><br>
-			Copyright © 2007 Washington Free Weekly Inc. | <a href="/citypaper/privacypolicy/">Privacy Policy</a>
+			© 1996-2007 <a href="http://www.creativeloafing.com/">Creative Loafing Media</a> All Rights Reserved.  | <a href="/citypaper/privacypolicy/">Privacy Policy</a>
 		</p>	</div>
 </div>
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-432676-1";
+_udn="none";
+_ulink=1;
+urchinTracker();
+</script>
 
-
+<script type="text/javascript" src="http://cetrk.com/pages/scripts/0006/8963.js"> </script>
 </body></html>
