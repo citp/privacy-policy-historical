@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the flash-on-tv.com privacy policy that was archived on 2007-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070220032151id_/http%3A//www.flash-on-tv.com/other/flash-video-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flash-on-tv.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226185034id_/http%3A//www.flash-on-tv.com/other/flash-video-privacy.html) for the most accurate reproduction.*
 
-# Privacy - Video to Flash,Flash to DVD
+# Privacy - Video to FLV Converter,Flash to Video Converter,Flash to DVD
 
 |    
 Privacy  
