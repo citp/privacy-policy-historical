@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the aboutkidshealth.ca privacy policy that was archived on 2007-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070406042015id_/http%3A//www.aboutkidshealth.ca/disclamer.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aboutkidshealth.ca privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226134307id_/http%3A//www.aboutkidshealth.ca/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # AboutKidsHealth: Privacy Policy
 
-The AboutKidsHealth Web Site Privacy Policy
-
-The Hospital for Sick Children (“Sick Kids”) has a set of rules, set out in Sick Kids’Privacy Policy, which addresses how it will deal with the privacy of personal and health information it acquires about its patients. AboutKidsHealth ([www.aboutkidshealth.ca](http://www.aboutkidshealth.ca/)) follows this policy. An overview of Sick Kids' Privacy Policy is set out in the following publication:
+The Hospital for Sick Children (“Sick Kids”) has a set of rules, set out in Sick Kids’Privacy Policy, which addresses how it will deal with the privacy of personal and health information it acquires about its patients. AboutKidsHealth (www.aboutkidshealth.ca) follows this policy. An overview of Sick Kids' Privacy Policy is set out in the following publication:
 
 Information for Patients: [Protecting the privacy of your information at Sick Kids](http://www.sickkids.ca/familyinformation/custom/privacybooklet.pdf)
 
-The Hospital for Sick Children Foundation has also published information which provides greater detail on how the Foundation uses personally identifiable information for fund raising purposes. Click [here](http://www.sickkids.on.ca/Foundation/section.asp?s=Who%2BWe%2BAre&sID=620&ss=Privacy&ssID=747&searchTerms=privacy) for more details. 
+The Hospital for Sick Children Foundation has also published information which provides greater detail on how the Foundation uses personally identifiable information for fund raising purposes. Click [here](http://sickkidsfoundation.ca/MySickKids/privacypolicy.asp) for more details. 
 
 The following sets out Sick Kids' policy regarding information which is submitted from the various areas of the HSC Website (but excluding information submitted from the Sick Kids Foundation section of the Sick Kids Website or any information which is faxed or emailed to Sick Kids in response to information provided on the Sick Kids Website).
 
@@ -56,5 +54,3 @@ Phone: 416-813-7474
 
 
 Sick Kids updates its privacy policies from time to time. Please check back periodically for updates to the above information.
-
-Back To Top >
