@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scuba.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623085231id_/http%3A//www.scuba.com/resources/security_and_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scuba.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226223838id_/http%3A//www.scuba.com/resources/security_and_privacy.asp) for the most accurate reproduction.*
 
 # scuba.com Security and Privacy
 
@@ -74,6 +74,8 @@ If you are unable to add more than one item to your shopping cart, then your sho
 
 * * *
 
+Bookmark this page:  
+Favorites   Google Bookmarks   Yahoo Bookmarks   Del.icio.us   Digg     
 US, Canada and the Caribbean call toll free 1-800-347-2822  
 International callers please dial 1-949-221-9300  
 Product Information Questions? Call our certified instructors toll free 800.34SCUBA  
