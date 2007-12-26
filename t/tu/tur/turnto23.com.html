@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the turnto23.com privacy policy that was archived on 2007-02-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070219115508id_/http%3A//www.turnto23.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the turnto23.com privacy policy that was archived on 2007-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071226135649id_/http%3A//www.turnto23.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <title>TurnTo23.com - Privacy</title>
-<script src="/sh/flash/js/AC_OETags.js" language="javascript"></script><meta name="keywords" content="Privacy">
+<script src="/sh/flash/js/AC_OETags.js" language="javascript" id="AC_OETags.js"></script><meta name="keywords" content="">
 <meta name="categories" content="Station, Privacy">
 <meta name="WT.cg_s" content="Privacy">
 <meta name="WT.cg_n" content="Station">
@@ -26,19 +26,29 @@ if (typeof rsinetsegs != "undefined") {
 </script>
 <!-- end Rev Sci code -->
 
-			<!-- set ad zone  -->
-			<script type="text/javascript" src="http://www.turnto23.com/js/6807715/script.js"></script>
-		<script type="text/javascript">
+<!-- set ad zone  -->
+<script type="text/javascript" src="/js/6807715/script.js"></script>
+<!--
+<script type="text/javascript">
+if (document.domain != 'internal.ibsys.com') {
+	try {
+		document.write("<scr"+"ipt type='text/javascript' src='http://"+document.domain+"/js/6807715/script.js'></scr"+"ipt>");
+	} catch(e) {}
+}
+</script>
+-->
+
+<script type="text/javascript">
 var rnd = new Date();
 rnd = rnd.getTime();
 </script><script type="text/javascript">
 var pageProps= {
-time: {hr:"3",hr_p:"03",hr24:"3",hr24_p:"03",min:"55",sec:"07",mer:"am",tz:"PST",mon:"2",mon_p:"02",date:"19",date_p:"19",yr:"2007",day:"2"},
+time: {hr:"5",hr_p:"05",hr24:"5",hr24_p:"05",min:"47",sec:"02",mer:"am",tz:"PST",mon:"12",mon_p:"12",date:"26",date_p:"26",yr:"2007",day:"4"},
 envhost:"www.turnto23.com",sectionname:"Privacy",sectiontag:"station",sectionpath:"/privacy/"
 };
 
 var adZone = 'national';
-</script>
+</script><script src="/ec/site/json/getSiteConfig?varname=configObject"></script><script src="/_public/js/ibcore-min.js"></script>
 </head>
 <!--stopindex--><body>
 <div id="vtmp10"><table cellpadding="0" cellspacing="0" border="0" width="1000" class="brandingbar"><tbody><tr><td valign="top" class="brandingbartd1"><a href="/"><img src="/images/structures/headers/site_header_logo.jpg" width="260" height="100" alt="TurnTo23.com" border="0"></a></td><td valign="top" class="brandingbartd2"> &nbsp; </td></tr></tbody></table><div width="130" class="col1"><div id="topleft" class="pageContainer">
@@ -51,11 +61,11 @@ var adZone = 'national';
   
   
 <script language="javascript">
-var IBS_action = "http://search.turnto23.com/query.html";
+var IBS_action = "/search/form.html";
 
-var YP_action = "http://yellowpages.turnto23.com/search.pg";
+var YP_action = "http://yellowpages.turnto23.com/";
 
-var OV_action = "http://www.turnto23.com/osearch/detail.html?on=5&fn=10&Partner=ibs_kwsearch&type=bak&Keywords=";
+var OV_action = "http://www.turnto23.com/websearch/index.html?qt=";
 
 /**
 * Changes form action attribute value based on which searches
@@ -75,34 +85,14 @@ document.location.href = YP_action;
 
 }
 
-/* Create URL for the Overture Search */
-else if (action == OV_action) {
-document.location.href = OV_action + escape(form.elements.qt.value);
-}
-
 else {
 form.submit();
 }
 }
-</script><form name="IBSSearchForm" class="compactSearchForm" action="http://search.turnto23.com/query.html"><input type="hidden" name="la" value="en"><input type="hidden" name="mkt" value=""><input type="hidden" name="heading" value=""><div class="small">Search </div><input type="text" name="qt" value="" size="15" class="small" style="background: url(&quot;http://images.ibsys.com/sh/images/sponsors/yahoo/search_yahoo.gif&quot;) no-repeat rgb(255, 255, 255);"><a class="searchbtn" href="#" onclick="doSubmit(document.forms.IBSSearchForm, IBS_action); return false;"><img src="/images/structures/buttons/button_keyword.gif" alt="Search IBS" border="0" align="top"></a><a class="searchbtn" href="#" onclick="doSubmit(document.forms.IBSSearchForm, OV_action); return false;"><img src="/images/structures/buttons/button_web.gif" alt="Search the Web" border="0" align="top"></a><a class="searchbtn" href="#" onclick="doSubmit(document.forms.IBSSearchForm, YP_action); return false;"><img src="/images/structures/buttons/button_yellowpages.gif" alt="Yellow Pages" border="0" align="top"></a></form>
-  
-  
-
-<script>
-// Add branding to search input by resizing input and assigning background image
-/* document.IBSSearchForm.qt.style.width="130px";
-document.IBSSearchForm.qt.style.height="16px"; 
-document.IBSSearchForm.qt.style.font="normal 10px verdana"; */
-document.IBSSearchForm.qt.style.background="url('http://images.ibsys.com/sh/images/sponsors/yahoo/search_yahoo.gif') #ffffff no-repeat";
-document.IBSSearchForm.qt.onfocus=switchSearchBrandStyles;
-function switchSearchBrandStyles() {
-	document.IBSSearchForm.qt.style.backgroundImage="none";
-	document.IBSSearchForm.qt.style.color="#000000";
-}
-</script>
-
+</script><form name="IBSSearchForm" class="compactSearchForm" action="/search/form.html" onsubmit="searchSubmit()"><input type="hidden" name="la" value="en"><input type="hidden" name="video" value="on"><input type="hidden" name="stories" value="on"><div class="small"></div><input type="hidden" name="client" value="pub-1569153127812452"><input type="hidden" name="forid" value="1"><input type="hidden" name="channel" value="1216864815"><input type="hidden" name="ie" value="ISO-8859-1"><input type="hidden" name="oe" value="ISO-8859-1"><input type="hidden" name="hl" value="en"><input type="hidden" name="cof" value="GALT:#000000;GL:1;DIV:#336699;VLC:000000;AH:center;BGC:FFFFFF;LBGC:336699;ALC:0000FF;LC:0000FF;T:000000;GFNT:000000;GIMP:000000;FORID:11"><script type="text/javascript" src="http://www.turnto23.com/js/11064151/script.js"></script><div id="googlesearchbox"><div id="sitesponsor"></div><span class="searchoption"><input type="radio" onclick="toggleSearchType(this);" name="sitesearch" value="turnto23.com" checked="" id="localsearch"><label for="localsearch" title="Search turnto23.com"><small>Site</small></label></span><span class="searchoption"><input type="radio" onclick="toggleSearchType(this);" name="sitesearch" value="" id="websearch"><label for="websearch" title="Search the Web"><small>Web</small></label></span><div id="yellowpages"><input type="hidden" name="mkt" value=""><input type="hidden" name="heading" value=""><input type="radio" onclick="toggleSearchType(this);" name="sitesearch" value="" id="yellowpagessearch"><label for="yellowpagessearch" title="Search Yellowpages"><small style="color: black;"><a id="yplink" href="http://yellowpages.turnto23.com/">Yellow Pages</a></small></label></div><div id="googlesearchfield"><input type="text" name="qt" value="" size="15" class="small" id="searchtextbox">
+&nbsp;<input id="googlesearchgo" type="image" src="/sh/images/sponsors/google/mcgraw_go.gif" alt="GO"></div><div id="poweredbygoogle"></div></div></form>
 </div></div>
-	</div><!--Start Nav--><div class="navbars"><div class="navbar"><div class="navHdr MainNavHdr"><img src="/images/structures/tabs/MainNav.gif" alt="MainNav" title="MainNav" width="130" height="17" border="0"></div><div class="navMainSections MainNavBtns"><div class="navBtn"><a href="/">Home</a></div><div class="navBtn"><a href="/news/">Local News</a></div><div class="navBtn"><a href="/nationalnews/">National News</a></div><div class="navBtn"><a href="/weather/">Weather</a></div><div class="navBtn"><a href="/sports/">Sports </a></div><div class="navBtn"><a href="/entertainment/">Entertainment </a></div><div class="navBtn"><a href="/health/">Health</a></div><div class="navBtn"><a href="/money/">Money</a></div><div class="navBtn"><a href="/video/">Video </a></div></div></div><div class="navbar"><div class="navMainSections FeaturesNavBtns"><div class="navBtn"><a href="/irresistible/">Irresistible Headlines </a></div><div class="navBtn"><a href="/politics/">Politics</a></div><div class="navBtn"><a href="/education/">Education </a></div><div class="navBtn"><a href="/technology/">Technology </a></div><div class="navBtn"><a href="/food/">Food</a></div><div class="navBtn"><a href="/family/">Family </a></div><div class="navBtn"><a href="/houseandhome/">House And Home </a></div></div></div><div class="navbar"><div class="navHdr MarketplaceNavHdr"><img src="/images/structures/tabs/MarketplaceNav.gif" alt="MarketplaceNav" title="MarketplaceNav" width="130" height="17" border="0"></div><div class="navMainSections MarketplaceNavBtns"><div class="navBtn"><a href="http://ad.doubleclick.net/clk;14348690;8704162;k?http://www.turnto23.com/localexperts/index.html" class="expertNav">23 Local Experts</a></div><div class="navBtn"><a href="/automotive/">Automotive </a></div><div class="navBtn"><a href="/dating/">Dating </a></div><div class="navBtn"><a href="/employment/">Career</a></div><div class="navBtn"><a href="/shopping/">Deals </a></div><div class="navBtn"><a href="http://ad.doubleclick.net/clk;6861454;8704162;n?http://partners.findlaw.com/ibs/kero.html">Legal Center </a></div><div class="navBtn"><a href="/realestate/">Real Estate</a></div><div class="navBtn"><a href="/travelgetaways/">Travel </a></div><div class="navBtn"><a href="http://www.weddingsolutions.com/">Weddings </a></div></div></div><div class="navbar"><div class="navHdr StationNavHdr"><img src="/images/structures/tabs/StationNav.gif" alt="StationNav" title="StationNav" width="130" height="17" border="0"></div><div class="navMainSections StationNavBtns"><div class="navBtn"><a href="/contact/">Contact KERO 23 </a></div><div class="navBtn"><a href="/station/">About KERO 23</a></div><div class="navBtn"><a href="/newsteam/">KERO 23 News Team </a></div><div class="navBtn"><a href="/advertise/">Advertise</a></div><div class="navBtn"><a href="/tvlistings/">TV Listings</a></div></div></div><div class="navbar"><div class="navHdr SitetoolsNavHdr"><img src="/images/structures/tabs/SitetoolsNav.gif" alt="SitetoolsNav" title="SitetoolsNav" width="130" height="17" border="0"></div><div class="navMainSections SitetoolsNavBtns"><div class="navBtn"><a href="http://www.turnto23fone.com/wireless/signup.cfm?sid=101">TurnTo23 Cell Phone</a></div><div class="navBtn"><a href="/weather/2126644/detail.html">Desktop Alerts </a></div><div class="navBtn"><a href="/emailnewsletters/">E-Mail Alerts </a></div><div class="navBtn"><a href="http://turnto23.premiumweather.com/info/?c=IBS_subnav">Premium Weather </a></div><div class="navBtn"><a href="/rss/">Get RSS</a></div><div class="navBtn"><a href="http://yellowpages.turnto23.com">Yellow Pages</a></div></div></div></div><!--End Nav--><div id="topleft" class="pageContainer">
+	</div><!--Start Nav--><div class="navbars"><div class="navbar"><div class="navHdr MainNavHdr"><img src="/images/structures/tabs/MainNav.gif" alt="MainNav" title="MainNav" width="130" height="17" border="0"></div><div class="navMainSections MainNavBtns"><div class="navBtn"><a href="/">Home</a></div><div class="navBtn"><a href="/news/">Local News</a></div><div class="navBtn"><a href="/nationalnews/">National News</a></div><div class="navBtn"><a href="/azteca42/">Azteca42</a></div><div class="navBtn"><a href="/weather/">Weather</a></div><div class="navBtn"><a href="/23yardline/" class="expertNav">23 Yardline </a></div><div class="navBtn"><a href="/entertainment/">Entertainment </a></div><div class="navBtn"><a href="/health/">Health</a></div><div class="navBtn"><a href="/money/">Money</a></div><div class="navBtn"><a href="/video/">Video </a></div></div></div><div class="navbar"><div class="navMainSections FeaturesNavBtns"><div class="navBtn"><a href="/holidays/">Holidays </a></div><div class="navBtn"><a href="/irresistible/">Irresistible Headlines </a></div><div class="navBtn"><a href="/politics/">Politics</a></div><div class="navBtn"><a href="/education/">Education </a></div><div class="navBtn"><a href="/technology/">Technology </a></div><div class="navBtn"><a href="/food/">Food</a></div><div class="navBtn"><a href="/family/">Family </a></div><div class="navBtn"><a href="/houseandhome/">House And Home</a></div></div></div><div class="navbar"><div class="navHdr MarketplaceNavHdr"><img src="/images/structures/tabs/MarketplaceNav.gif" alt="MarketplaceNav" title="MarketplaceNav" width="130" height="17" border="0"></div><div class="navMainSections MarketplaceNavBtns"><div class="navBtn"><a href="http://ad.doubleclick.net/clk;14348690;8704162;k?http://www.turnto23.com/localexperts/index.html" class="expertNav">23 Local Experts</a></div><div class="navBtn"><a href="/expertoslocales/index.html" class="ExpertosLocalesNav">42 Expertos Locales</a></div><div class="navBtn"><a href="/automotive/">Automotive </a></div><div class="navBtn"><a href="/dating/">Dating </a></div><div class="navBtn"><a href="/jobs/">Bakersfield Jobs</a></div><div class="navBtn"><a href="/shopping/">Deals </a></div><div class="navBtn"><a href="http://ad.doubleclick.net/clk;6861454;8704162;n?http://partners.findlaw.com/ibs/kero.html">Legal Center</a></div><div class="navBtn"><a href="/realestate/">Real Estate</a></div><div class="navBtn"><a href="/travelgetaways/">Travel</a></div><div class="navBtn"><a href="/sponsors/13363301/detail.html">Stay &amp; Play</a></div><div class="navBtn"><a href="http://www.weddingsolutions.com/">Weddings</a></div></div></div><div class="navbar"><div class="navHdr StationNavHdr"><img src="/images/structures/tabs/StationNav.gif" alt="StationNav" title="StationNav" width="130" height="17" border="0"></div><div class="navMainSections StationNavBtns"><div class="navBtn"><a href="/news/">Blogs</a></div><div class="navBtn"><a href="/contact/">Contact KERO 23</a></div><div class="navBtn"><a href="/station/">About KERO 23</a></div><div class="navBtn"><a href="/newsteam/">KERO 23 News Team </a></div><div class="navBtn"><a href="/advertise/">Advertise</a></div><div class="navBtn"><a href="/tvlistings/">TV Listings</a></div></div></div><div class="navbar"><div class="navHdr SitetoolsNavHdr"><img src="/images/structures/tabs/SitetoolsNav.gif" alt="SitetoolsNav" title="SitetoolsNav" width="130" height="17" border="0"></div><div class="navMainSections SitetoolsNavBtns"><div class="navBtn"><a href="http://www.turnto23fone.com/wireless/signup.cfm?sid=101">TurnTo23 Cell Phone</a></div><div class="navBtn"><a href="/weather/2126644/detail.html">Desktop Alerts </a></div><div class="navBtn"><a href="/emailnewsletters/">E-Mail Alerts </a></div><div class="navBtn"><a href="http://turnto23.premiumweather.com/info/?c=IBS_subnav">Premium Weather </a></div><div class="navBtn"><a href="/rss/">Get RSS</a></div><div class="navBtn"><a href="http://yellowpages.turnto23.com">Yellow Pages</a></div></div></div></div><!--End Nav--><div id="topleft" class="pageContainer">
 		
 
 	
@@ -114,7 +104,7 @@ function switchSearchBrandStyles() {
 
 
 
-	</div></div><div class="contentTop"><span class="breadcrumbs"><span class="brdcrmbhome"><a href="/" class="spancolcaphome">Homepage</a>&nbsp;&gt;&nbsp;</span><span class="brdcrmbsect"><span class="spancolcapsection">Privacy</span></span></span><!-- end header --><link type="text/css" rel="stylesheet" href="/css/10346325/style.css"><table cellpadding="0" cellspacing="0" border="0" width="100%" id="tmp10" class="contentArea"><tbody><tr><td valign="top" width="660" class="container1" id="tmp10td1"><table cellpadding="0" cellspacing="0" border="0" width="100%" class="container1table" id="tmp10tbl"><tbody><tr><td valign="top" class="container1tabletd" id="c1r1tbltd1"><div id="story" class="pageContainer">
+	</div></div><div class="contentTop"><h1 id="pageTitle">Privacy</h1><!-- end header --><link type="text/css" rel="stylesheet" href="/css/10346325/style.css"><table cellpadding="0" cellspacing="0" border="0" width="100%" id="tmp10" class="contentArea"><tbody><tr><td valign="top" width="660" class="container1" id="tmp10td1"><table cellpadding="0" cellspacing="0" border="0" width="100%" class="container1table" id="tmp10tbl"><tbody><tr><td valign="top" class="container1tabletd" id="c1r1tbltd1"><div id="story" class="pageContainer">
   
   
 
@@ -217,8 +207,7 @@ in-formation), is used to serve ads to you. For more information about
 DoubleClick, cookies, and how to "opt-out", please <a href="http://www.doubleclick.com/us/about_doubleclick/privacy/">click here.</a>
 </p>
 <p><b>Third Party Cookies</b><br>
-In the course of serving advertisements to this site, our third-party advertiser
-may place or recognize a unique cookie on your browser.</p>
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser. If you would like more information about this practice and to know your choices about not having this information used by these companies, <a href="http://networkadvertising.org/consumer/opt_out.asp">click here</a>. </p>
 <p><b>Linking and Framing</b><br>
 This site contains links to other sites. This site is not responsible for the
 privacy practices or the content of such websites. Occasionally when linking to
@@ -291,10 +280,16 @@ will notify our users via email or by posting a notice on the site for 30 days.
 Last Revised 11/03</div>
 </div>
 
-</div></td></tr><tr><td></td></tr></tbody></table></td><td class="border" id="tmp10td2"></td><td valign="top" width="210" class="container2" id="tmp10td3"></td></tr></tbody></table><!-- begin footer --><div class="small footerSection" align="center"><br clear="all"><div id="ibsysBug"><a href="http://www.ibsys.com/"><img src="/sh/images/partners/ibs_bug_color.gif" border="0"></a></div><div align="center">
+</div></td></tr><tr><td></td></tr></tbody></table></td><td class="border" id="tmp10td2"></td><td valign="top" width="210" class="container2" id="tmp10td3"></td></tr></tbody></table><!-- begin footer --><div class="small footerSection" align="center"><div id="footer" class="pageContainer">
+  
+  
+
+
+</div><br clear="all"><div id="ibsysBug"><a href="http://www.ibsys.com/"><img src="/sh/images/partners/ibs_bug_color.gif" border="0"></a></div><div align="center">
 © 2007,
 <a href="http://www.ibsys.com/">Internet Broadcasting Systems, Inc</a>. <br><a href="/privacy/">Click here for the privacy policy</a>, <a href="/station/1012483/detail.html">terms of use</a>.<br><a href="/advertise/">Click here for advertising information.</a><br><a href="/ib/">See All Internet Broadcasting Sites</a><br></div><br><a class="sitemap" href="/sitemap/">Site Map</a><br><script language="JavaScript">var tcdacmd="dt";</script><script src="http://an.tacoda.net/an/13716/slf.js" language="JavaScript"></script><br></div></div></div><!-- begin Rev Sci code (dm_client) -->
-<script type="text/javascript" src="http://www.turnto23.com/js/4230798/script.js"></script>
+<!--<script type="text/javascript" src="http://www.[ibs_variable type=localdomain /]/js/4230798/script.js"></script>-->
+<script type="text/javascript" src="/js/4230798/script.js"></script>
 
 
 <script type="text/javascript">
@@ -314,8 +309,12 @@ if (typeof DM_tag !='undefined') DM_tag();
 
 
 <!-- Added Back the fullpathed domain for search bug pts 43483 -->
-<script type="text/javascript" src="http://www.turnto23.com/js/5271885/script.js"></script>
-<script type="text/javascript" src="http://www.turnto23.com/js/5097349/script.js"></script>
+<!-- Removed fullpath 11/9/07.  search.* is defunct
+<script type="text/javascript" src="http://www.[ibs_variable type=localdomain style=lc /]/js/5271885/script.js"></script>
+<script type="text/javascript" src="http://www.[ibs_variable type=localdomain style=lc /]/js/5097349/script.js"></script>
+-->
+<script type="text/javascript" src="/js/5271885/script.js"></script>
+<script type="text/javascript" src="/js/5097349/script.js"></script>
 
 
 <script language="Javascript"><!--
@@ -386,7 +385,9 @@ if ((typeof(gConvert)!="undefined")&&gConvert&&(document.cookie.indexOf(gFpc+"="
 
 <!-- call DCS functions -->
 <script type="text/javascript">
+using('IBSYS.WebTrends');
 if (typeof ib_WTCustomTags == "function") ib_WTCustomTags();
+if (typeof IBSYS.WebTrends.collectUserData == 'function') IBSYS.WebTrends.collectUserData();
 if (typeof dcsVar == "function") dcsVar();
 if (typeof dcsMeta == "function")  dcsMeta();
 if (typeof dcsFunc == "function") dcsFunc("dcsAdv");
@@ -399,11 +400,11 @@ if (typeof dcsTag == "function") dcsTag();
 </noscript>
 
 <!--
-Time: 3:55:07 PST
-Date: 2/19/2007
+Time: 5:47:02 PST
+Date: 12/26/2007
 XSL File: index.xsl
 Browser Type: 
 Page Type: index
 Section Site: natl
 -->
-</body></html>
+<span xmlns:esi="http://www.edge-delivery.org/esi/1.0"></span><script src="/_public/js/ibLast.js"></script></body></html>
