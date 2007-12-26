@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edinburghairport.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429222719id_/http%3A//www.edinburghairport.com/portal/controller/dispatcher.jsp%3FCiID%3D9ca16d35771a2010VgnVCM100000147e120a____%26CtID%3D448c6a4c7f1b0010VgnVCM200000357e120a____%26Ct%3DB2C_CT_GENERAL%26RootCh%3DMisc%26Ch%3DPrivacy%2BStatement%26ChID%3De04f83322f5f3010VgnVCM10000036821c0a____%26ChPath%3DEDI%255EMisc%255EPrivacy%2BStatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edinburghairport.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226164327id_/http%3A//www.edinburghairport.com/portal/page/EDI%255EMisc%255EPrivacy%2BStatement/9ca16d35771a2010VgnVCM100000147e120a____/448c6a4c7f1b0010VgnVCM200000357e120a____) for the most accurate reproduction.*
 
 # BAA Edinburgh: Privacy Statement
 
