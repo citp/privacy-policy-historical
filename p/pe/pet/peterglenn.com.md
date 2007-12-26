@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peterglenn.com privacy policy that was archived on 2006-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060421205331id_/http%3A//www.peterglenn.com/pglenn/text_2.asp%3Ftx_id%3D75%26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peterglenn.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226180753id_/http%3A//www.peterglenn.com/pglenn/text_1.asp%3Ftx_id%3D75%26) for the most accurate reproduction.*
 
 # ski shop, snowboard shop, water ski shop, wakeboard shop, in-line skate shop
 
@@ -38,5 +38,5 @@ We are committed to protecting your privacy. We use the information we collect o
 
 **Let us know what you think**
 
-Peter Glenn of Vermont welcomes your questions and comments about privacy. Please send to [info@PeterGlenn.com](e-mailto:info@PeterGlenn.com)  
+Peter Glenn of Vermont welcomes your questions and comments about privacy. Please send to [sales@peterglenn.com](mailto:sales@peterglenn.com)   
 
