@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the campusfood.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607204247id_/http%3A//www.campusfood.com/content/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the campusfood.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226175127id_/http%3A//www.campusfood.com/content/privacy.asp) for the most accurate reproduction.*
 
 # Campusfood.com - The #1 source for online food ordering at college campuses - Privacy Policy
 
@@ -8,17 +8,17 @@ We collect information volunteered by consumers when they register and place ord
 
 #### Information Sharing
 
-In order to process your food order, we must share the following information every time you place an order with a restaurant: your name, delivery address, food order and credit card information (if applicable). We restrict this information flow to only the bare minimum elements required to prepare and fulfill your orders.
+In order to process your food order, we must share the following information every time you place an order with a restaurant: your name, delivery address, food order and credit card information (if applicable). We restrict this information flow to only the bare minimum elements required to prepare and fulfill your orders. 
 
 Occasionally, we may voluntarily share, sell or rent aggregated (non-personal) market research data with 3rd party partners and vendors. This information does not contain personally identifiable information and is shared for the purposes of enhancing our service. We may present offers to you on behalf of third party partners. If you accept an offer, we will share your name, address and credit card information with this third party. We will not share this information without your consent. 
 
 #### Customer Communication
 
-Our customer service representatives may use your telephone number, e-mail address and instant messenger ID to notify you of the status of your order as necessary and appropriate.
+Our customer service representatives may use your telephone number, e-mail address and instant messenger ID to notify you of the status of your order as necessary and appropriate. 
 
 Upon request, we provide Web site visitors with access to transaction information (e.g., dates on which customers made purchases or amounts and types of purchases) and contact information (e.g., name, address and phone number) we maintain about them. 
 
-From time to time, we may use the information collected to send special offers on behalf of 3rd party partners or vendors (including restaurants) participating in our service. However, we do not share your information with the restaurant other than the information necessary to conduct business as stated above.
+From time to time, we may use the information collected to send special offers on behalf of 3rd party partners or vendors (including restaurants) participating in our service. However, we do not share your information with the restaurant other than the information necessary to conduct business as stated above. 
 
 #### E-mail/ Anti-Spam
 
