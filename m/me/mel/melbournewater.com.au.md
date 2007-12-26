@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the melbournewater.com.au privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205221504id_/http%3A//melbournewater.com.au/content/about_us/policies/privacy_statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the melbournewater.com.au privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226162733id_/http%3A//www.melbournewater.com.au/content/about_us/policies/privacy_statement.asp) for the most accurate reproduction.*
 
 # Melbourne Water : About Us : Policies : Privacy Statement
 
