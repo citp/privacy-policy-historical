@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apexwebgaming.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623084925id_/http%3A//apexwebgaming.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apexwebgaming.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226170324id_/http%3A//apexwebgaming.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy: Apex Web Gaming
 
