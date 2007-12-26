@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brightspyre.com privacy policy that was archived on 2007-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070621040317id_/http%3A//www.brightspyre.com/policy/index.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brightspyre.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226150945id_/http%3A//www.brightspyre.com/policy/index.php) for the most accurate reproduction.*
 
 # Contact Us BrightSpyre. Search jobs in Pakistan
 
@@ -78,7 +78,7 @@ Top
   
 **Advertisements and Banners:**
 
-BrighSpyre.com contains other advertisements and banners. These also collect general information like your IP address, time and date of visit to the advertisement, browser version and other such information. They may also track the URL that a user has just come from (whether this URL is on our Site or not) and the URL a user goes to next (whether this URL is on our Site or not) to check the popularity of a site, to post their advertisements. We are not responsible for the Privacy Practices of these advertisements.   
+BrightSpyre.com contains other advertisements and banners. These also collect general information like your IP address, time and date of visit to the advertisement, browser version and other such information. They may also track the URL that a user has just come from (whether this URL is on our Site or not) and the URL a user goes to next (whether this URL is on our Site or not) to check the popularity of a site, to post their advertisements. We are not responsible for the Privacy Practices of these advertisements.   
   
 Top
 
