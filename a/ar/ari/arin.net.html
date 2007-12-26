@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the arin.net privacy policy that was archived on 2007-06-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070610151129id_/http%3A//www.arin.net/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the arin.net privacy policy that was archived on 2007-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071226013636id_/http%3A//www.arin.net/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- #BeginTemplate "/Templates/Main.dwt" --><!-- DW6 --><!-- DW6 --><head>
 	<!-- #BeginEditable "doctitle" --> 
@@ -12,15 +12,14 @@
 <meta name="Description" content="Network Abuse Information">
 <meta name="robots" content="ALL">
 <!-- #EndEditable -->
-	<!--[if lt IE 7]><style media="screen">
-	body {height: 100%;
-	a.logo {background-image: url(/images/header_logo.jpg);}
-	a.logo:hover {background-image: url(/images/arin_rtm_over.png);}
-	}
-			</style><![endif]-->
 	<link rel="stylesheet" href="/print.css" type="text/css" media="print">
 	<link rel="stylesheet" href="/arin.css" type="text/css" media="screen">
 	<link rel="stylesheet" href="/handheld.css" type="text/css" media="handheld">
+	<!--[if lt IE 7]><style media="screen">
+	body {height: 100%;
+	a.logo {background-image: url(/images/header_logo.jpg);}
+	a.logo:hover {background-image: url(/images/header_logo_over.jpg);}
+	}</style><![endif]-->
 </head>
 <body>
 	<div id="container">
@@ -194,7 +193,8 @@
 			
 			<hr>
 			<form name="gs" method="get" action="http://search.arin.net/search" class="websitesearch">
-	<input type="text" name="q" value="" class="search">
+			 <label for="q" class="hide">Search ARIN.net</label>
+	<input type="text" name="q" id="q" value="" class="search">
 	<input type="hidden" name="restrict" value="Main">
 	<input type="submit" name="btnG" value="Search ARIN.NET" class="button">
 	<input type="hidden" name="ie" value="">
@@ -233,8 +233,9 @@ All Rights Reserved.</em> </p>
       </ul>
       <h2 class="hide">Search WHOIS</h2>
       <form action="http://ws.arin.net/whois" method="post" name="whois" class="whoissearch" id="whois" style="display: compact; white-space: nowrap;">
+	   <label for="queryinput" class="hide">Search WHOIS</label>
         <a href="http://ws.arin.net/whois">Need  Help?</a>
-        <input type="text" name="queryinput" class="search" alt="Enter WHOIS Query Here">
+        <input type="text" id="queryinput" name="queryinput" class="search" alt="Enter WHOIS Query Here">
         <input type="submit" value="Search WHOIS" class="button">
       </form>
     </div>
