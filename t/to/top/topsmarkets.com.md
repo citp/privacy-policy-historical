@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topsmarkets.com privacy policy that was archived on 2006-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060208004401id_/http%3A//www.topsmarkets.com/shareddev/sharedcontent/About/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topsmarkets.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226201255id_/http%3A//www.topsmarkets.com/shareddev/sharedcontent/About/privacypolicy.cfm) for the most accurate reproduction.*
 
 # TOPS Privacy Policy
 
