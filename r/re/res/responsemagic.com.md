@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the responsemagic.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623043434id_/http%3A//www.responsemagic.com/privacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the responsemagic.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226162309id_/http%3A//www.responsemagic.com/privacyPolicy.php) for the most accurate reproduction.*
 
 # .: Response Magic :. Professional Autoresponder + Lead Management + Contact Manager
 
@@ -37,6 +37,18 @@ Information will be used solely for proceeding payments for services that you or
 When you send us an email, we use your email address to thank you for your comment and/or reply to your question, and we will store your communication and our reply for any future correspondence. Beyond our initial reply, we will never use your email address to send you any unsolicited message or information unless explicitly requested, nor will we share it with or sell it to anyone else for such use. 
 
 When you request information or other services from us, we use your email address and any other information you give us to provide you with the information or other services you requested, until you ask us to stop (using the 'unsubscribe' instructions provided with each email, and/or on the site where you signed up, and/or as we otherwise provide), or until the information or service is no longer available. We will not use your address or other information to provide you with any unsolicited messages or information (unless that is part of the service you are requesting), nor will we share it with or sell, rent or lease it to any third party for such use. 
+
+**Response Magic Contact and Opt Out Policy**
+
+The contact information contained within the Response Magic accounts of our customers is private and confidential.  We do not share or sell contact information to Response Magic users. 
+
+Each contact within a Response Magic account may Opt Out of receiving the emails being sent to them by the Response Magic account owner at any time.  Each email sent by Response Magic to a recipient contains a link at the bottom which allows for the recipient to Opt Out of receiving emails.  In addition, the recipient can choose to opt out of all future emails by either that sender's Response Magic account or globally.  If the contact chooses to opt out globally, the email address they provide will be blocked by our system completely, meaning that no Response Magic user can add that email address to their system at any time in the future. 
+
+To globally opt out, please fill out the form found [here](http://www.responsemagic.com/optout.php)
+
+Opt Outs are handled on an email address basis.  If a recipient opts out, they will only be opting out to receive emails to that specific email address. 
+
+Opt Out requests can only be reversed pending contact from the opted-out recipient from the email address that was removed.  
 
   
 **Your Customer's Private Information Policy**
