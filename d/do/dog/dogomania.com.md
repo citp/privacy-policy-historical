@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dogomania.com privacy policy that was archived on 2007-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070404062741id_/http%3A//www.dogomania.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dogomania.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226185014id_/http%3A//www.dogomania.com/privacy.shtml) for the most accurate reproduction.*
 
 # Dog-O-Mania - The biggest dogs related search engine & resource: Privacy policy
 
