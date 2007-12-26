@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sharefile.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630055127id_/http%3A//www.sharefile.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharefile.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226161446id_/http%3A//www.sharefile.com/privacy) for the most accurate reproduction.*
 
 # ShareFile - Privacy Policy
 
@@ -8,7 +8,7 @@ ShareFile is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent,
 
 Additionally, ShareFile is committed to adhering to the privacy principles of the Safe Harbor Program administered by the U.S. Dept. of Commerce (<http://export.gov/safeharbor>). 
 
-This privacy policy was last updated on 2/21/2007. 
+This privacy policy was last updated on 9/27/2007. 
 
 If you have questions or concerns regarding this statement, you should first contact our support team at 1-800-441-3453 or support@sharefile.com. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed within 30 days, you should contact TRUSTe at http://www.truste.org/consumers/watchdog_complaint.php. TRUSTe will then serve as a liaison with us to resolve your concerns. 
 
@@ -20,7 +20,7 @@ ShareFile is the sole owner of information collected on this site. We will not s
 
 In order to use ShareFile, companies must complete a registration process either on our web site or via telephone or email. During registration, you must provide contact information (such as name and email address) for at least one person at your company. We use this information to contact you about the services on our site in which you have expressed interest. Often, credit card information is also required during registration. If you do not want to provide your credit card information, ShareFile allows you to sign up for a free trial by calling us at 1-800-441-3453 or sending an email request to support@sharefile.com. ShareFile also has an invoice billing option for companies that are not able to provide credit card information. 
 
-ShareFile reserves the right to contact those signing up for a trial one (1) time in order to assist with the registration. Users who sign up for a free trial may be contacted during the free trial to see how the free trial is going and get feedback about the system. 
+ShareFile reserves the right to contact users who sign up for a free trial, or begin the signup process for a free trial, to assist with the registration process and/or gain feedback about the system. If you wish to unsubscribe from receiving promotional emails during the free trial period, please use the unsubscribe link in the email itself or email us at support@sharefile.com. 
 
 Once a company creates an account with ShareFile, that company can optionally create accounts for employees and clients. In order to create an account for employees, the email address of the employee as well as the first and last name of the employee must be provided. You may optionally provide the employee's company name and/or time zone. We may add the email address of employees to our company email newsletter. When adding clients to the system, companies must at minimum provide an email address for the client, which is used as a login to securely access data on ShareFile. The client may also be required to enter their first name and last name and can optionally provide their company name and time zone information. We will never add the email addresses of client users to our email newsletter. 
 
