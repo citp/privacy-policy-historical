@@ -1,13 +1,11 @@
-> *The following text is extracted and transformed from the workathomecareers.com privacy policy that was archived on 2007-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070612045235id_/http%3A//www.workathomecareers.com/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workathomecareers.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226054956id_/http%3A//www.workathomecareers.com/privacypolicy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
-
-#### Our Commitment
 
 We are committed to providing our advertisers, subscribers and visitors with the utmost in privacy and security. We abide by all industry guidelines and consistently monitor our management and operating methods in order to maintain our valued reputation and integrity. This is our promise to our clients, and end-users. 
 
 **Type of Information Collected**  
-WorkAtHomeCareers.com is a site offering free work at home jobs, advertising and free emailed job alerts. Information is collected from the website visitor through an online form. The user submits their name, e-mail address and other information via a given form. 
+WorkAtHomeCareers.com is a site offering free work at home jobs, advertising and free emailed job alerts. Information is collected from the website visitor through an online form. The user submits their name, e-mail address and other information via a given form.
 
 **Use of Collected Information**  
 Names, Email addresses and other information is collected by WorkAtHomeCareers.com but is the sole property of WorkAtHomeCareers.com. WorkAtHomeCareers.com sends work at home information via email to visitors who have filled out a form to receive free job alerts on behalf of our advertisers. Advertisers WILL not have access to our subscribers actual email address. WorkAtHomeCareers.com also collects information from advertisers which is used to post ads on WorkAtHomeCareers.com or to send to our subscribers. 
