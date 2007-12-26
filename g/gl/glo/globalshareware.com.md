@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the globalshareware.com privacy policy that was archived on 2007-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070416062544id_/http%3A//www.globalshareware.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalshareware.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226173921id_/http%3A//www.globalshareware.com/privacyPolicy.cfm) for the most accurate reproduction.*
 
 # GlobalShareware.com - Privacy Policy
-
-  | 
 
 **Privacy Policy**
 
@@ -24,40 +22,4 @@ GlobalShareware automatically logs the following information about visitors to t
 This site has security measures in place to protect the loss, misuse and alteration of the information under our control. Use of software author names, addresses and any other personal information is used only in our announcements and is not released to third parties nor do we send any mail to the return addresses offering or soliciting any services.
 
 **Contacting the WebSite**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Website, you can contact [comments@globalshareware.com](mailto:comments@globalshareware.com)
-
-|   |    
-
-
-[](http://www.ispynow.com-download.net/)
-
-  
-
-
-**iSpyNOW 3.0**   
-__[iSpyNOW 3.0](http://www.ispynow.com-download.net/)__ iSpyNOW 3.0 is the first remote install Computer Monitoring product offered anywhere! iSpyNOW offers users the ability to remotely install the application from any location and view the logs from anywh ...  
-[Click to download free! ](https://web.archive.org/web/20070416062544id_/http%3A//www.globalshareware.com/Utilities/Security-Encryption/iSpyNOW.htm)
-
-  
-
-
-[](http://www.spytech-realtime-spy.com-download.net/)
-
-  
-
-
-**Spytech Realtime-Spy**   
-__[Spytech Realtime-Spy](http://www.spytech-realtime-spy.com-download.net/)__ Realtime-Spy is the latest in high-tech surveillance software that allows you to REMOTELY INSTALL the monitoring system - and access the activity logs from ANYWHERE via you own personal Realtime-Spy We ...  
-[Click to download free! ](https://web.archive.org/web/20070416062544id_/http%3A//www.globalshareware.com/Internet/Tools-Utilities/Spytech-Realtime-Spy.htm)
-
-  
-
-
-[](http://www.spybuddy.com-download.net/)
-
-  
-
-
-**SpyBuddy**   
-__[SpyBuddy](http://www.spybuddy.com-download.net/)__ SpyBuddy is the ultimate solution for monitoring spouses, children, co-workers, or anyone else! SpyBuddy allows you to monitor all areas of your PC, tracking every action down the last keystroke presse ...  
-[Click to download free! ](https://web.archive.org/web/20070416062544id_/http%3A//www.globalshareware.com/Utilities/Security-Encryption/SpyBuddy.htm)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Website, you can contact [admin@globalshareware.com](mailto:admin@globalshareware.com)
