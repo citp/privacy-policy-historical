@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seattleweekly.com privacy policy that was archived on 2007-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070428123018id_/http%3A//www.seattleweekly.com/about/pages/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seattleweekly.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226140326id_/http%3A//seattleweekly.com/about/pages/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy (Seattle Weekly)
 
