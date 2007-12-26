@@ -1,17 +1,15 @@
-> *The following text is extracted and transformed from the payplay.fm privacy policy that was archived on 2006-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060901234942id_/http%3A//payplay.fm/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payplay.fm privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226034507id_/http%3A//payplay.fm/privacy) for the most accurate reproduction.*
 
-# payplay.fm : download best new music at lowest prices
+# PayPlay.FM - world’s largest MP3 music download store $0.88/MP3 $0.77/WMA
 
-## (Including Your California Privacy Rights)
+Our Privacy Statement is intended to describe our privacy practices and inform you about:
 
-Our Privacy Statement is intended to describe our privacy practices and inform you about: 
-
-  * The kinds of Personal Information we collect from you; 
-  * How Personal Information is collected from you; 
-  * How we use and have the right to use your Personal Information; 
-  * The circumstances under which we disclose Personal Information to third parties; 
-  * How you can access, update or delete Personal Information we collect about you; and 
-  * The methodologies we have implemented to protect your Personal Information. 
+  * The kinds of Personal Information we collect from you;
+  * How Personal Information is collected from you;
+  * How we use and have the right to use your Personal Information;
+  * The circumstances under which we disclose Personal Information to third parties;
+  * How you can access, update or delete Personal Information we collect about you; and
+  * The methodologies we have implemented to protect your Personal Information.
 
 
 
@@ -23,7 +21,7 @@ This Privacy Statement, as part of our Agreement with you, is legally binding an
 
 We are committed to protecting the privacy of your Personal Information and keeping Personal Information you share with us on the Website secure and ensuring your understanding of how we collect, use, disclose and maintain your Personal Information is important to us. We maintain reasonable physical, electronic and procedural safeguards to protect your Personal Information and while no data transmission over the Internet is completely secure, we have used and will continue to use commercially reasonable efforts to ensure the protection of your Personal Information.
 
-##### YOUR CALIFORNIA PRIVACY RIGHTS
+## YOUR CALIFORNIA PRIVACY RIGHTS
 
 Under the California Civil Code, residents of the State of California have the right to request, from companies conducting business in California, a list of all third parties to which the company has disclosed Personal Information during the preceding year for direct marketing purposes. Alternatively, the law provides that if the company has a privacy policy that gives either an Opt-out or Opt-in choice for use of your Personal Information by third parties (such as advertisers or affiliated companies) for marketing purposes, the company may instead provide and disclose to you information on how to you can exercise your choice to Opt-out or Opt-in regarding the use of your Personal Information.
 
@@ -31,23 +29,21 @@ With respect to Personal Information under our Agreement with you, PayPlay quali
 
 If you are a California resident and request information about how to exercise your third party Opt-out or Opt-in rights, you must send a request to the following address with a preference on how our response to your request should be sent (e-mail or postal mail). Send an e-mail to the Privacy Administrator at hello@payplay.fm, or you may contact us via postal mail at:
 
-Privacy Administrator  
-PayPlay LLC  
-244 Madison Avenue, Suite 357  
-New York, NY 10016  
-Attn: Your California Privacy Rights  
+> Privacy Administrator  
+>  PayPlay LLC  
+>  244 Madison Avenue, Suite 357  
+>  New York, NY 10016  
+>  Attn: Your California Privacy Rights
 
+**All requests sent via postal mail must be labeled “Your California Privacy Rights” on the envelope or post card and clearly stated on the actual request.** For all requests, please include your name, street address, city, state, and zip code. Please note that your street address is optional if you only wish to receive a response to your request via e-mail. Please include your zip code for our own recordkeeping.) **We will not accept requests via the telephone or by facsimile.** We are not responsible for notices that are not labeled or sent properly, notices that are illegible or do not have complete information. Even if your question does not relate to California or your California privacy rights, if you have any questions about this Privacy Statement, please contact our Privacy Administrator at [hello@payplay.fm](mailto:hello@payplay.fm) or:
 
-**All requests sent via postal mail must be labeled “Your California Privacy Rights” on the envelope or post card and clearly stated on the actual request.** For all requests, please include your name, street address, city, state, and zip code. Please note that your street address is optional if you only wish to receive a response to your request via e-mail. Please include your zip code for our own recordkeeping.) **We will not accept requests via the telephone or by facsimile.** We are not responsible for notices that are not labeled or sent properly, notices that are illegible or do not have complete information. Even if your question does not relate to California or your California privacy rights, if you have any questions about this Privacy Statement, please contact our Privacy Administrator at [hello@payplay.fm](mailto:%20hello@payplay.fm) or:
+> Privacy Administrator  
+>  PayPlay LLC  
+>  244 Madison Avenue, Suite 357  
+>  New York, NY 10016  
+>  Attn: Your California Privacy Rights
 
-Privacy Administrator  
-PayPlay LLC  
-244 Madison Avenue, Suite 357  
-New York, NY 10016  
-Attn: Your California Privacy Rights  
-
-
-##### GENERAL PRIVACY INFORMATION
+## GENERAL PRIVACY INFORMATION
 
 The Privacy Statement is designed and targeted to U.S. audiences and is governed by and operated in accordance with the laws of the U. S. We make no representation that our Website is operated in accordance with the laws or governed by other nations. If you are located in the European Union or elsewhere outside of the U.S. and you use our Website contrary to the terms and conditions of the Agreement or the laws, regulations, treaties and legal requirements of the United States or that otherwise apply to you in your country, community and legal governing jurisdiction (the “Law”), you do so at your own risk. You, not us, are responsible for compliance with the Law that applies to you.
 
@@ -65,7 +61,7 @@ From time to time, we may choose to provide you with the opportunity to opt-in o
 
 If we offer promotions, ourselves or with a sponsor or other third party (“Promotions”), they will generally have separate registration or entry processes and you may be required to submit Personal Information (e.g., name, address, e-mail address, telephone number and date of birth) to participate. The official rules for these Promotions will provide any specific requirements for that Promotion and these may include the opportunity to opt-in to special offers from our Advertisers.
 
-We may contact or send offers to you for the purchase of content, goods and/or services that we feel may be of interest to Purchasers. If you are a Purchaser, you may “opt out” of receiving marketing and promotional e-mails or text messages from us by changing your [“Preferences”] on [web page?] which, among other places, is always accessible through the link on the payplay.fm home page. Even if you are not a Purchaser, you may use the opt-out mechanism contained in the e-mail or text message we send you. However, we may continue to contact you via e-mail for administrative or informational purposes, including follow-up messages regarding the administration of your account with us, any payment account information you have given us, your transactions with us, Promotions you have entered, as well as any content, goods, services or other items you have ordered or your transactions with us.
+We may contact or send offers to you for the purchase of content, goods and/or services that we feel may be of interest to Purchasers. If you are a Purchaser, you may “opt out” of receiving marketing and promotional e-mails or text messages from us by changing your Email Preferences in “My Account” section, accessible on every page of the site through the “Sign In” link. Even if you are not a Purchaser, you may use the opt-out mechanism contained in the e-mail or text message we send you. However, we may continue to contact you via e-mail for administrative or informational purposes, including follow-up messages regarding the administration of your account with us, any payment account information you have given us, your transactions with us, Promotions you have entered, as well as any content, goods, services or other items you have ordered or your transactions with us.
 
 In the event that we unknowingly send an e-mail or text message to a child (a person under the age of 13 years) who has become a Purchaser in violation of our Terms of Service, the child or the child’s parent or legal guardian always have the right to opt-out of receiving future e-mails or text messages using the [opt-out] mechanism contained in the e-mail or message or to request termination of the child’s status as a Purchaser on our Website. The same is true for the parent or legal guardian of a teenager (as defined in our Terms of Service). Please see the Section of this Privacy Statement entitled “Updating or Deleting Personal Information” below for details.
 
@@ -83,21 +79,21 @@ We do not sell, rent, lease or disclose your Personal Information to unaffiliate
 
 We also have the right to disclose your Personal Information to third party service providers to administer and maintain our Website, its services, features, functions and operations. We may use service providers to more effectively provide the full range of content, goods and services, download, streaming and other features, functions and services that we may bring you. We request our service providers to also protect your privacy and not disclose your Personal Information to third party marketers that are not associated with our Website. Our service providers are not permitted to use your Personal Information for their own marketing or promotional purposes.
 
-We will make your Personal Information available to non-affiliated third parties in the following limited circumstances: 
+We will make your Personal Information available to non-affiliated third parties in the following limited circumstances:
 
-  * When we are compelled to do so by a government agency, court or other entity (e.g., to respond to subpoenas, court orders or legal process); 
-  * If we believe you are or may violate any law, regulation, our Terms of Service, this Privacy Statement, or any other terms and conditions, rules for Promotions, terms applicable to you as a Purchaser or any other services, features or functions of our Website; 
-  * If you threaten any rights, property or the safety of us, our Website, or any of our service providers, suppliers, Advertisers, customers, other Purchasers, users or any other party; 
-  * If, in our sole discretion, we believe disclosure is necessary or appropriate to investigate or resolve possible problems or inquiries, to protect our business and assets, to defend our interests or to comply with our legal and regulatory obligations; or 
-  * In the event of bankruptcy, merger, acquisition, transfer of control, joint venture or other business combination involving us. 
+  * When we are compelled to do so by a government agency, court or other entity (e.g., to respond to subpoenas, court orders or legal process);
+  * If we believe you are or may violate any law, regulation, our Terms of Service, this Privacy Statement, or any other terms and conditions, rules for Promotions, terms applicable to you as a Purchaser or any other services, features or functions of our Website;
+  * If you threaten any rights, property or the safety of us, our Website, or any of our service providers, suppliers, Advertisers, customers, other Purchasers, users or any other party;
+  * If, in our sole discretion, we believe disclosure is necessary or appropriate to investigate or resolve possible problems or inquiries, to protect our business and assets, to defend our interests or to comply with our legal and regulatory obligations; or
+  * In the event of bankruptcy, merger, acquisition, transfer of control, joint venture or other business combination involving us.
 
 
 
 We maintain reasonable standards of security and confidentiality. However, it is possible that third parties may unlawfully intercept or access Internet transmissions or private communications over an unsecured transmission. Financial transactions with us are conducted through secured transmissions but other parts of our Website may not always secure. We also limit access to our Website by our own employees to those who are authorized for the proper handling of such information and an employee found violating our standards of security and confidentiality are subject discipline. We request our service providers to follow the same policy.
 
-Updating or Deleting Personal Information
+## Updating or Deleting Personal Information
 
-You may review, update or delete your Personal Information collected on our Website and you may correct factual inaccuracies. However, certain Personal Information necessary to check eligibility, such as date of birth or age, cannot be deleted and can only be modified if you provide us with sufficient verification of the error and the correct information. Other Personal Information, such as e-mail address, cannot be deleted but can be modified. If you delete or attempt to delete such Personal Information, we may suspend or terminate your rights as a Purchaser or Website user. To review, update or delete your Personal Information, go to the [------] link on the payplay.fm home page and select [“Preferences”] and [“Edit Preferences”].
+You may review, update or delete your Personal Information collected on our Website and you may correct factual inaccuracies. However, certain Personal Information necessary to check eligibility, such as date of birth or age, cannot be deleted and can only be modified if you provide us with sufficient verification of the error and the correct information. Other Personal Information, such as e-mail address, cannot be deleted but can be modified. If you delete or attempt to delete such Personal Information, we may suspend or terminate your rights as a Purchaser or Website user. To review, update or delete your Personal Information, follow the “Sign In” link on the PayPlay.FM home page and select “My Account”.
 
 If you wish to review Personal Information collected for Promotions, you must contact the Website’s Privacy Administrator via e-mail at [hello@payplay.fm] and be prepared to provide verification of your identity. Personal Information collected for Promotions is subject to corporate and regulatory recordkeeping requirements and will not be deleted unless the entrant is a child under the age of 13 years old.
 
