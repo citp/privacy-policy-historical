@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the defenseindustrydaily.com privacy policy that was archived on 2007-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070406004752id_/http%3A//www.defenseindustrydaily.com/info/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the defenseindustrydaily.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226031018id_/http%3A//www.defenseindustrydaily.com/info/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy (defense procurement, military acquisition, defence purchasing)
 
