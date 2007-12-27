@@ -1,947 +1,428 @@
-<!--The following is the downloaded HTML source of the stcatharinesstandard.ca privacy policy that was archived on 2007-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070627023457id_/http%3A//www.stcatharinesstandard.ca/webapp/sitepages/gencontent.asp%3Fprivacy%3D1%26catname%3DPrivacy%2BStatement%26catmainname%3DNotices) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the stcatharinesstandard.ca privacy policy that was archived on 2007-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071227163428id_/http%3A//www.stcatharinesstandard.ca/Privacy.aspx) for the most accurate reproduction.-->
 
-<html><head>
-<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
-<title>Osprey Media. - St. Catharines Standard - Ontario, CA</title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1"><title>
+	St. Catharines Standard - Ontario, CA
+</title><meta name="verify-v1" content="d6z08LHMJpxwYvCjwOTY+88Gin3uGyGsf9hfukfOjv8=">
 
-<script language="JavaScript">
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/thickbox.js"></script>
+<script type="text/javascript" src="/js/global.js"></script>
 
-<!-- Begin
-function 
-get_random() {
-    var ranNum= Math.floor(Math.random()*5) * Math.floor(Math.random()*5);
-    return ranNum;
-}
-
-function
-popUp(url) {
-	window.open(url, "WELCOME", "scrollbars=1,resizable=1,width=400,height=500")
-}
-
-function
-customPopUp(url, settings) {
-	window.open(url, "OSPREY", settings)
-}
+<script type="text/javascript" src="/js/hover.js"></script>
 
 
-function formHandler(form){
-var URL = document.form.site.options[document.form.site.selectedIndex].value;
-window.location.href = URL;
-}
+<script type="text/javascript" defer="defer">
 
-function 
-mOver(tdId){
-	var tdId2 = tdId + "a";
-	var tdcol = "#eeeeee";
-	if(document.getElementById){
-  		//document.getElementById(tdId2).style.backgroundColor = tdcol;
-  		document.getElementById(tdId).style.backgroundColor = tdcol;
-	}else if(document.all){ 
-		//document.all.item(tdId2).style.backgroundColor = tdcol;
-		document.all.item(tdId).style.backgroundColor = tdcol;
-	}
-}
+            $(document).ready( function() {
+            
+                    //$("div#rsscontent").load("/rssreader/");
 
-function 
-mOut(tdId){
-	var tdId2 = tdId + "a";
-	var tdcol = "#ffffff";
-	if(document.getElementById){
-		//document.getElementById(tdId2).style.backgroundColor = tdcol;
-		document.getElementById(tdId).style.backgroundColor = tdcol;
-	}else if(document.all){ 
-		//document.all.item(tdId2).style.backgroundColor = tdcol;
-		document.all.item(tdId).style.backgroundColor = tdcol;
-	}
-}
+                    // for now the click event will be ignored, but normally
+                    // it would do something usefull here
+                    $('a.jbutton').click( function() { return true; });
+                    // make sure we add the main class
+                    $('a.jbutton').addClass( 'a_button');
+                    // also for the span in the a
+                    $('a.jbutton span').addClass( 'a_button_span');
+                    // catch the hover effect
+                    $('a.jbutton').hover(
+                        function() {
+                            // mouse is over the button, so highlight it by adding the
+                            // appropriate classes
+                            $(this).addClass( 'a_button_hover');
+                            $(this).children('span').addClass( 'a_button_hover_span');
+                        },
+                        function() {
+                            // mouse has been moved out, so remove the highlight classes
+                            $(this).removeClass( 'a_button_hover');
+                            $(this).children('span').removeClass( 'a_button_hover_span');
+                            // and also the activated (pressed) classes, because we could
+                            // also be coming to this event when mouse was clicked outside
+                            // the button (and this is basically the fix we needed)
+                            $(this).removeClass( 'a_button_active');
+                            $(this).children('span').removeClass( 'a_button_active_span');
+                            
+                        }
+                    );
+                    // catch the mouse down event, so we can add the activated/pressed state
+                    $('a.jbutton').mousedown(
+                        function() {
+                            $(this).addClass( 'a_button_active');
+                            $(this).children('span').addClass( 'a_button_active_span');
+                        }
+                    );
+                    // and ofcourse the pressed state should be removed when mouse is up
+                    $('a.jbutton').mouseup(
+                        function() {
+                            $(this).removeClass( 'a_button_active');
+                            $(this).children('span').removeClass( 'a_button_active_span');
+                        }
+                    );
+                    
+                }
+            );
 
-function
-chkNFSignup() {
-	var form = document.forms.genForm;
-	var err_msg = "Please correct the following:\n";
-	var submit_ok = 1;
-	
-	if (form.name.value == "") {
-		submit_ok = 0;
-		err_msg = err_msg + "\n- Missing Company Name.";
-	}
-	if (form.email.value == "") {
-		submit_ok = 0;
-		err_msg = err_msg + "\n- Missing Contact Person.";
-	}
-	if ((form.email.value == "") 
-		|| (form.email.value.indexOf("@") == -1) 
-		|| (form.email.value.indexOf(".") == -1) ){
-		
-		submit_ok = 0;
-		err_msg = err_msg + "\n- Missing valid Email.";
-	}
-	if ((form.url.value == "") || (form.url.value == "yourwebsite.com")) {
-		submit_ok = 0;
-		err_msg = err_msg + "\n- Missing Company URL";
-	}
-	if (!form.agree_to_terms.checked) {
-		submit_ok = 0;
-		err_msg = err_msg + "\n- You must agree to Osprey Media's Terms and Conditions.";
-	}
-	
-	//form.np_name.value = form.np_url[form.np_url.selectedIndex].text;
-	
-	if (submit_ok == 1) {
-		return true;
-	} else {
-		alert(err_msg);
-		return false;
-	}
-}
-
-
-function 
-breakout_of_frame()
-{
-  if (top.location != location) {
-    top.location.href = document.location.href ;
-  }
-}
-// End -->
 </script>
+       
 
-
-
+<link rel="stylesheet" type="text/css" href="/css/ToolTip.css"><link rel="stylesheet" type="text/css" href="/css/SiteMenu.css"><link rel="stylesheet" type="text/css" href="/css/thickbox.css"><link rel="stylesheet" type="text/css" href="/css/CurvyCorners.css"><link rel="stylesheet" type="text/css" href="/css/common.css"><link rel="stylesheet" type="text/css" href="/css/npinner.css">
 <style type="text/css">
-<!--
-//a{text-decoration:none}
-//a:hover{text-decoration: underline}
-//a:link {color: #000000}
-//a:visited {color: #666666}
-//a:hover {text-transform:bold; letter-spacing:.0cm}
-//a:hover {color: red;}
-
-
-iframe{margin-top: 0px; margin-left: 0px;}
-
-.seasonsgreetings {font-family:  Arial, Helvetica, Verdana; font-size: 11px; color: #000000}
-
-
-body, td, select, option, input {font-family:  Arial, Helvetica, Verdana; font-size: 12px}
-a, a:visited, a:link {color: #ff0000; text-decoration: underline}
-a:hover {color: #cc0000; text-decoration: none}
-
-td.altrow1 {background: #ffffff}
-td.altrow2 {background: #eeeeee}
-.copy_text{font-size: 10px; color: #aaaaaa}
-.raquo{color: #aa0000}
-.box_title{font-weight: bold}
-.photo_credit {font-size: 9px}
-
-.headline{font-family: Arial, Helvetica, Verdana,; font-size: 18px}
-
-a.submenu, a.submenu:visited, a.submenu:link {color: #ffffff; text-decoration: none; font-size: 12px}
-a.submenu:hover {color: #FFFfcc}
-
-a.footerlink, a.footerlink:visited, a.footerlink:link {color: #ffffff; text-decoration: underline; font-size: 10px}
-a.footerlink:hover {color: #eeeeee;  text-decoration: none;}
-
-
-a.menu, a.menu:visited, a.menu:link {color: #ffffff; text-decoration: none; font-weight: bold; font-size: 12px}
-a.menu:hover {color: #FFFfcc}
-
-a.topmenu, a.topmenu:visited, a.topmenu:link {color: #ffffff; text-decoration: none; font-size: 10px}
-a.topmenu:hover {color: #FFFfcc}
-
-a.regtext, a.regtext:visited, a.regtext:link {color: #000000; text-decoration: none; font-size: 12px}
-a.regtext:hover {color: #000000}
-
-a.headline, a.headline:visited, a.headline:link {color: #ff0000; text-decoration: none; font-family: 'helvetica neue','arial narrow', Arial, Verdana, Helvetica;font-weight: bold; font-size: 18px}
-a.headline:hover {color: #aaaaaa}
-
-.g1 a:link { color:#ffffff; text-decoration:underline; }
-.g1 a:hover { color:#aaaaaa; text-decoration:none; }
-.g1 a:visited { color:#ffffff; text-decoration:underline; }
--->
+#tsrightcolumn { background: #fff url("/images/176x64/www.stcatharinesstandard.ca.gif") no-repeat; }
 </style>
+
+<!--[if IE 7]>
+<link rel="stylesheet" href="/css/npie7.css" type="text/css" /><link rel="stylesheet" href="/css/npinnerie7.css" type="text/css" />
+<![endif]-->
+<!--[if IE 6]>
+<link rel="stylesheet" href="/css/npie6.css" type="text/css" /><link rel="stylesheet" href="/css/npinnerie6.css" type="text/css" />
+<![endif]-->
 </head>
-<body bgcolor="#ffffff" onload="breakout_of_frame()"><center>
+<body>
+<script type="text/javascript" src="http://canoe.com/js_source/barresreseau/canoeNetworkBarsEn_generic.js"></script>
+<a name="top"></a>
+    <form name="aspnetForm" method="post" action="Privacy.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNjE2NDQ5NTU0D2QWAmYPZBYCAgEPZBYSZg9kFgJmDxYCHgRUZXh0BXI8c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCIgc3JjPSJodHRwOi8va2VzdHJlbC5vc3ByZXltZWRpYWxwLmNvbS9KQlNQcm8vZmlsZXMvSkJTUHJvLmFzcD9KUz0xJlo9ODgyIj48L3NjcmlwdD5kAgEPZBYCZg8PZBYEHgVzdHlsZQUPY3Vyc29yOnBvaW50ZXI7HgdvbmNsaWNrBUNkb2N1bWVudC5sb2NhdGlvbj0naHR0cDovL3d3dy5zdGNhdGhhcmluZXNzdGFuZGFyZC5jYS93ZWF0aGVyLmFzcHgnFggCAQ8PFgIeCEltYWdlVXJsBTlodHRwOi8vd3d3LnN0Y2F0aGFyaW5lc3N0YW5kYXJkLmNhL0ltYWdlcy9ieV9sZXR0ZXIvdi5naWZkZAIDDxYCHwAFATFkAgUPFgIfAAUOTGlnaHQgZmx1cnJpZXNkAgcPFgIfAAUPU3QuIENhdGhhcmluZXMgZAICDxYCHwAFsC88c2VsZWN0IGlkPSJzZWxlY3RtZW51IiBvbkNoYW5nZT0iZ290b1B1YmxpY2F0aW9uKHRoaXNbdGhpcy5zZWxlY3RlZEluZGV4XS52YWx1ZSkiPg0KCiAgPG9wdGlvbiB2YWx1ZT0iIj5TZWxlY3QgYW4gT3NwcmV5IFB1YmxpY2F0aW9uOjwvb3B0aW9uPg0KCiAgPG9wdGlvbiB2YWx1ZT0iIj4mbmJzcDs8L29wdGlvbj4NCgogIDxvcHRpb24gdmFsdWU9IiI+TiBFIFcgUyBQIEEgUCBFIFIgUyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tPC9vcHRpb24+DQoKDQoKICA8b3B0aW9uIHZhbHVlPSJodHRwOi8vd3d3LmJhbmNyb2Z0dGhpc3dlZWsuY29tL3dlYmFwcC9zaXRlcGFnZXMvIj5CYW5jcm9mdCAtIEJhbmNyb2Z0IHRoaXMgV2Vlazwvb3B0aW9uPg0KCiAgPG9wdGlvbiB2YWx1ZT0iaHR0cDovL3d3dy50aGViYXJyaWVleGFtaW5lci5jb20vIj5CYXJyaWUgLSBCYXJyaWUgRXhhbWluZXI8L29wdGlvbj4NCgogIDxvcHRpb24gdmFsdWU9Imh0dHA6Ly93d3cuYmFycnlzYmF5dGhpc3dlZWsuY29tL3dlYmFwcC9zaXRlcGFnZXMvIj5CYXJyeSdzIEJheSAtIEJhcnJ5J3MgQmF5IHRoaXMgV2Vlazwvb3B0aW9uPg0KCiAgPG9wdGlvbiB2YWx1ZT0iaHR0cDovL3d3dy5pbnRlbGxpZ2VuY2VyLmNhLyI+QmVsbGV2aWxsZSAtIEludGVsbGlnZW5jZXI8L29wdGlvbj4NCgogIDxvcHRpb24gdmFsdWU9Imh0dHA6Ly93d3cuYnJhbnRmb3JkZXhwb3NpdG9yLmNhLyI+QnJhbnRmb3JkIC0gRXhwb3NpdG9yPC9vcHRpb24+DQoKICA8b3B0aW9uIHZhbHVlPSJodHRwOi8vd3d3LmNoYXRoYW1kYWlseW5ld3MuY2EvIj5DaGF0aGFtIC0gQ2hhdGhhbSBEYWlseSBOZXdzPC9vcHRpb24+DQoKICA8b3B0aW9uIHZhbHVlPSJodHRwOi8vd3d3Lm5vcnRodW1iZXJsYW5kdG9kYXkuY29tLyI+Q29ib3VyZyAtIENvYm91cmcgRGFpbHkgU3Rhcjwvb3B0aW9uPg0KCiAgPG9wdGlvbiB2YWx1ZT0iaHR0cDovL3d3dy5ub3J0aHVtYmVybGFuZHRvZGF5LmNvbS8iPkNvbGJvcm5lIC0gQ29sYm9ybmUgQ2hyb25pY2xlPC9vcHRpb24+DQoKICA8b3B0aW9uIHZhbHVlPSJodHRwOi8vd3d3LnRoZWVudGVycHJpc2VidWxsZXRpbi5jb20vIj5Db2xsaW5nd29vZCAtIEVudGVycHJpc2UgQnVsbGV0aW48L29wdGlvbj4NCgogIDxvcHRpb24gdmFsdWU9Imh0dHA6Ly93d3cuc3RhbmRhcmQtZnJlZWhvbGRlci5jb20vIj5Db3Jud2FsbCAtIFN0YW5kYXJkIEZyZWVob2xkZXI8L29wdGlvbj4NCgogIDxvcHRpb24gdmFsdWU9Imh0dHA6Ly93d3cudm9pY2VvZnRoZWZhcm1lci5jb20vd2ViYXBwL3NpdGVwYWdlcy8iPkRyZXNkZW4gLSBWb2ljZSBvZiB0aGUgRmFybWVyPC9vcHRpb24+DQoKICA8b3B0aW9uIHZhbHVlPSJodHRwOi8vd3d3LmR1bm52aWxsZWNocm9uaWNsZS5jb20vd2ViYXBwL3NpdGVwYWdlcy8iPkR1bm52aWxsZSAtIER1bm52aWxsZSBDaHJvbmljbGU8L29wdGlvbj4NCgogIDxvcHRpb24gdmFsdWU9Imh0dHA6Ly93d3cuZWxsaW90bGFrZXN0YW5kYXJkLmNhL3dlYmFwcC9zaXRlcGFnZXMvIj5FbGxpb3QgTGFrZSAtIFN0YW5kYXJkPC9vcHRpb24+DQoKICA8b3B0aW9uIHZhbHVlPSJodHRwOi8vd3d3Lm1pZG5vcnRobW9uaXRvci5jb20vd2ViYXBwL3NpdGVwYWdlcy8iPkVzcGFub2xhIC0gTWlkLU5vcnRoIE1vbml0b3I8L29wdGlvbj4NCgogIDxvcHRpb24gdmFsdWU9Imh0dHA6Ly93d3cuZm9ydGVyaWV0aW1lcy5jYS93ZWJhcHAvc2l0ZXBhZ2VzLyI+Rm9ydCBFcmllIC0gVGltZXM8L29wdGlvbj4NCgogIDxvcHRpb24gdmFsdWU9Imh0dHA6Ly93d3cuZ2FuYW5vcXVlcmVwb3J0ZXIuY29tL3dlYmFwcC9zaXRlcGFnZXMvIj5HYW5hbm9xdWUgLSBHYW5hbm9xdWUgUmVwb3J0ZXI8L29wdGlvbj4NCgogIDxvcHRpb24gdmFsdWU9Imh0dHA6Ly93d3cuaGFsaWJ1cnRvbmVjaG8uY2Evd2ViYXBwL3NpdGVwYWdlcy8iPkhhbGlidXJ0b24gLSBIYWxpYnVydG9uIEVjaG88L29wdGlvbj4NCgogIDxvcHRpb24gdmFsdWU9Imh0dHA6Ly93d3cudGhlcG9zdC5vbi5jYS93ZWJhcHAvc2l0ZXBhZ2VzLyI+SGFub3ZlciAtIFRoZSBQb3N0PC9vcHRpb24+DQoKICA8b3B0aW9uIHZhbHVlPSJodHRwOi8vd3d3LmlubmlzZmlsZXhhbWluZXIuY2Evd2ViYXBwL3NpdGVwYWdlcy8iPklubmlzZmlsIC0gSW5uaXNmaWwgRXhhbWluZXI8L29wdGlvbj4NCgogIDxvcHRpb24gdmFsdWU9Imh0dHA6Ly93d3cua2luZ3N0b250aGlzd2Vlay5jb20vIj5LaW5nc3RvbiAtIEtpbmdzdG9uIFRoaXMgV2Vlazwvb3B0aW9uPg0KCiAgPG9wdGlvbiB2YWx1ZT0iaHR0cDovL3d3dy50aGV3aGlnLmNvbS8iPktpbmdzdG9uIC0gS2luZ3N0b24gV2hpZyBTdGFuZGFyZDwvb3B0aW9uPg0KCiAgPG9wdGlvbiB2YWx1ZT0iaHR0cDovL3d3dy5ub3J0aGVybm5ld3MuY2Evd2ViYXBwL3NpdGVwYWdlcy8iPktpcmtsYW5kIExha2UgLSBOb3J0aGVybiBOZXdzPC9vcHRpb24+DQoKICA8b3B0aW9uIHZhbHVlPSJodHRwOi8vd3d3LnRoZXBvc3QuY2EvIj5MaW5kc2F5IC0gVGhlIExpbmRzYXkgUG9zdDwvb3B0aW9uPg0KCiAgPG9wdGlvbiB2YWx1ZT0iaHR0cDovL3d3dy5tYXJrZGFsZXN0YW5kYXJkLmNvbS93ZWJhcHAvc2l0ZXBhZ2VzLyI+TWFya2RhbGUgLSBNYXJrZGFsZSBTdGFuZGFyZDwvb3B0aW9uPg0KCiAgPG9wdGlvbiB2YWx1ZT0iaHR0cDovL3d3dy5taWRsYW5kZnJlZXByZXNzLmNvbS8iPk1pZGxhbmQgLSBGcmVlIFByZXNzPC9vcHRpb24+DQoKICA8b3B0aW9uIHZhbHVlPSJodHRwOi8vd3d3Lm1pbmRlbnRpbWVzLmNhL3dlYmFwcC9zaXRlcGFnZXMvIj5NaW5kZW4gLSBNaW5kZW4gVGltZXM8L29wdGlvbj4NCgogIDxvcHRpb24gdmFsdWU9Imh0dHA6Ly93d3cubmFwYW5lZWd1aWRlLmNvbS8iPk5hcGFuZWUgLSBOYXBhbmVlIEd1aWRlPC9vcHRpb24+DQoKICA8b3B0aW9uIHZhbHVlPSJodHRwOi8vd3d3Lm5pYWdhcmFhZHZhbmNlLmNhLyI+TmlhZ2FyYS1vbi10aGUtTGFrZSAtIE5pYWdhcmEgQWR2YW5jZTwvb3B0aW9uPg0KCiAgPG9wdGlvbiB2YWx1ZT0iaHR0cDovL3d3dy5uaWFnYXJhZmFsbHNyZXZpZXcuY2EvIj5OaWFnYXJhIEZhbGxzIC0gUmV2aWV3PC9vcHRpb24+DQoKICA8b3B0aW9uIHZhbHVlPSJodHRwOi8vd2VzdC5uaWFnYXJhY29tbXVuaXR5bmV3c3BhcGVycy5jb20vd2ViYXBwL3NpdGVwYWdlcy8iPk5pYWdhcmEgRmFsbHMtIFcuIE5pYWdhcmEgQ29tbXVuaXR5IE5ld3NwYXBlcnM8L29wdGlvbj4NCgogIDxvcHRpb24gdmFsdWU9Imh0dHA6Ly93d3cubnVnZ2V0LmNhLyI+Tm9ydGggQmF5IC0gTm9ydGggQmF5IE51Z2dldDwvb3B0aW9uPg0KCiAgPG9wdGlvbiB2YWx1ZT0iaHR0cDovL3d3dy5ub3J0aGtlbnRsZWFkZXIuY29tL3dlYmFwcC9zaXRlcGFnZXMvIj5Ob3J0aCBLZW50IC0gTm9ydGggS2VudCBMZWFkZXI8L29wdGlvbj4NCgogIDxvcHRpb24gdmFsdWU9Imh0dHA6Ly93d3cub3JpbGxpYXBhY2tldC5jb20vIj5PcmlsbGlhIC0gUGFja2V0IGFuZCBUaW1lczwvb3B0aW9uPg0KCiAgPG9wdGlvbiB2YWx1ZT0iaHR0cDovL3d3dy5vd2Vuc291bmRzdW50aW1lcy5jb20vIj5Pd2VuIFNvdW5kIC0gU3VuIFRpbWVzPC9vcHRpb24+DQoKICA8b3B0aW9uIHZhbHVlPSJodHRwOi8vd3d3LnRoZWRhaWx5b2JzZXJ2ZXIuY2EvIj5QZW1icm9rZSAtIERhaWx5IE9ic2VydmVyPC9vcHRpb24+DQoKICA8b3B0aW9uIHZhbHVlPSJodHRwOi8vd3d3LnRoZXBldGVyYm9yb3VnaGV4YW1pbmVyLmNvbS8iPlBldGVyYm9yb3VnaCAtIFBldGVyYm9yb3VnaCBFeGFtaW5lcjwvb3B0aW9uPg0KCiAgPG9wdGlvbiB2YWx1ZT0iaHR0cDovL3d3dy5wZXRyb2xpYXRvcGljLmNvbS93ZWJhcHAvc2l0ZXBhZ2VzLyI+UGV0cm9saWEgLSBQZXRyb2xpYSBUb3BpYzwvb3B0aW9uPg0KCiAgPG9wdGlvbiB2YWx1ZT0iaHR0cDovL3d3dy5jb3VudHl3ZWVrbHluZXdzLmNhL3dlYmFwcC9zaXRlcGFnZXMvIj5QaWN0b24gLSBDb3VudHkgV2Vla2x5IE5ld3M8L29wdGlvbj4NCgogIDxvcHRpb24gdmFsdWU9Imh0dHA6Ly93d3cubm9ydGh1bWJlcmxhbmR0b2RheS5jb20vIj5Qb3J0IEhvcGUgLSBQb3J0IEhvcGUgRXZlbmluZyBHdWlkZTwvb3B0aW9uPg0KCiAgPG9wdGlvbiB2YWx1ZT0iaHR0cDovL3d3dy50aGVvYnNlcnZlci5jYS8iPlNhcm5pYSAtIE9ic2VydmVyPC9vcHRpb24+DQoKICA8b3B0aW9uIHZhbHVlPSJodHRwOi8vd3d3LnNhdWx0c3Rhci5jb20vIj5TYXVsdCBTdGUgTWFyaWUgLSBTYXVsdCBTdGFyPC9vcHRpb24+DQoKICA8b3B0aW9uIHZhbHVlPSJodHRwOi8vd3d3LnNhdWx0dGhpc3dlZWsuY29tLyI+U2F1bHQgU3RlIE1hcmllIC0gU2F1bHQgVGhpcyBXZWVrPC9vcHRpb24+DQoKICA8b3B0aW9uIHZhbHVlPSJodHRwOi8vc3RraXR0cy5uaWFnYXJhY29tbXVuaXR5bmV3c3BhcGVycy5jb20vd2ViYXBwL3NpdGVwYWdlcy8iPlN0LiBDYXRoYXJpbmVzIC0gU3QuIENhdGhhcmluZXMgU2hvcHBpbmcgTmV3czwvb3B0aW9uPg0KCiAgPG9wdGlvbiB2YWx1ZT0iaHR0cDovL3d3dy5zdGNhdGhhcmluZXNzdGFuZGFyZC5jYS8iPlN0LiBDYXRoYXJpbmVzIC0gU3RhbmRhcmQ8L29wdGlvbj4NCgogIDxvcHRpb24gdmFsdWU9Imh0dHA6Ly93d3cuY29tbXVuaXR5cHJlc3MuY2Evd2ViYXBwL3NpdGVwYWdlcy8iPlN0aXJsaW5nIC0gQ29tbXVuaXR5IFByZXNzPC9vcHRpb24+DQoKICA8b3B0aW9uIHZhbHVlPSJodHRwOi8vd3d3LnRoZXN1ZGJ1cnlzdGFyLmNvbS8iPlN1ZGJ1cnkgLSBTdWRidXJ5IFN0YXI8L29wdGlvbj4NCgogIDxvcHRpb24gdmFsdWU9Imh0dHA6Ly90aG9yb2xkLm5pYWdhcmFjb21tdW5pdHluZXdzcGFwZXJzLmNvbS93ZWJhcHAvc2l0ZXBhZ2VzLyI+VGhvcm9sZCAtIFRob3JvbGQgTmV3czwvb3B0aW9uPg0KCiAgPG9wdGlvbiB2YWx1ZT0iaHR0cDovL3d3dy50aW1taW5zcHJlc3MuY29tLyI+VGltbWlucyAtIERhaWx5IFByZXNzPC9vcHRpb24+DQoKICA8b3B0aW9uIHZhbHVlPSJodHRwOi8vd3d3LnRyZW50b25pYW4uY2Evd2ViYXBwL3NpdGVwYWdlcy8iPlRyZW50b24gLSBUcmVudG9uaWFuPC9vcHRpb24+DQoKICA8b3B0aW9uIHZhbHVlPSJodHRwOi8vd3d3LndlbGxhbmR0cmlidW5lLmNhLyI+V2VsbGFuZCAtIFRyaWJ1bmU8L29wdGlvbj4NCgogIDxvcHRpb24gdmFsdWU9Imh0dHA6Ly93ZWxsYW5kLm5pYWdhcmFjb21tdW5pdHluZXdzcGFwZXJzLmNvbS93ZWJhcHAvc2l0ZXBhZ2VzLyI+V2VsbGFuZCAtIFdlbGxhbmQgTmV3czwvb3B0aW9uPg0KCiAgDQoKICA8b3B0aW9uIHZhbHVlPSIiPiZuYnNwOzwvb3B0aW9uPg0KCiAgPG9wdGlvbiB2YWx1ZT0iIj5NIEEgRyBBIFogSSBOIEUgUyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS08L29wdGlvbj4NCgogIDxvcHRpb24gdmFsdWU9Imh0dHA6Ly93d3cuaW50ZXJpb3JzbWFnYXppbmUuY2EiPkNlbnRyYWwgT250YXJpbyBJbnRlcmlvcnMgTWFnYXppbmU8L29wdGlvbj4NCgogIDxvcHRpb24gdmFsdWU9Imh0dHA6Ly93d3cuaGFtaWx0b25tYWdhemluZS5jb20iPkhhbWlsdG9uIE1hZ2F6aW5lPC9vcHRpb24+DQoKICA8b3B0aW9uIHZhbHVlPSJodHRwOi8vd3d3LmtpbmdzdG9ubGlmZS5jYSI+S2luZ3N0b24gTGlmZTwvb3B0aW9uPg0KCiAgPG9wdGlvbiB2YWx1ZT0iaHR0cDovL3d3dy5tdXNrb2thbWFnYXppbmUuY29tIj5NdXNrb2thIE1hZ2F6aW5lPC9vcHRpb24+DQoKICA8b3B0aW9uIHZhbHVlPSJodHRwOi8vd3d3Lm5pYWdhcmFtYWcuY2EiPk5pYWdhcmEgTWFnYXppbmU8L29wdGlvbj4NCgogIDxvcHRpb24gdmFsdWU9Imh0dHA6Ly93d3cuZ29sZm9udGFyaW8uY2EiPk9udGFyaW8gR29sZjwvb3B0aW9uPg0KCiAgPG9wdGlvbiB2YWx1ZT0iaHR0cDovL3d3dy5zYXVsdGdvb2RsaWZlLmNvbSI+U2F1bHQgR29vZCBMaWZlPC9vcHRpb24+DQoKICA8b3B0aW9uIHZhbHVlPSJodHRwOi8vd3d3LnNpbWNvZWxpZmUuY2EiPlNpbWNvZSBMaWZlPC9vcHRpb24+DQoKICA8b3B0aW9uIHZhbHVlPSJodHRwOi8vd3d3LnRoZWhvbWVzaG93LmNhIj5UaGUgSG9tZSBTaG93PC9vcHRpb24+DQoKPC9zZWxlY3Q+ZAIQD2QWAmYPFgIfAAXdAzxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij4KPCEtLQpnb29nbGVfYWRfY2xpZW50ID0gInB1Yi02NjQ3MjQ5NDk1OTQ1OTc4IjsKZ29vZ2xlX2FkX3dpZHRoID0gMzM2Owpnb29nbGVfYWRfaGVpZ2h0ID0gMjgwOwpnb29nbGVfYWRfZm9ybWF0ID0gIjMzNngyODBfYXMiOwpnb29nbGVfYWRfdHlwZSA9ICJ0ZXh0IjsKZ29vZ2xlX2FkX2NoYW5uZWwgPSAiIjsKZ29vZ2xlX2NvbG9yX2JvcmRlciA9ICJjY2NjY2MiOwpnb29nbGVfY29sb3JfYmcgPSAiRkZGRkZGIjsKZ29vZ2xlX2NvbG9yX2xpbmsgPSAiRkYwMDAwIjsKZ29vZ2xlX2NvbG9yX3RleHQgPSAiMDAwMDAwIjsKZ29vZ2xlX2NvbG9yX3VybCA9ICJGRjAwMDAiOwovLy0tPgo8L3NjcmlwdD4KPHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiCnNyYz0iaHR0cDovL3BhZ2VhZDIuZ29vZ2xlc3luZGljYXRpb24uY29tL3BhZ2VhZC9zaG93X2Fkcy5qcyI+Cjwvc2NyaXB0PmQCEQ9kFgICCQ8QDxYCHwAFClVSIE5pYWdhcmFkZGRkAhYPZBYCZg8WAh8ABXI8c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCIgc3JjPSJodHRwOi8va2VzdHJlbC5vc3ByZXltZWRpYWxwLmNvbS9KQlNQcm8vZmlsZXMvSkJTUHJvLmFzcD9KUz0xJlo9ODg0Ij48L3NjcmlwdD5kAhcPZBYCAgEPFgIfAAX8KDxkaXYgaWQ9J2ZwQ01BcnRpY2xlcyc+PHVsIGlkPSJmcENNQXJ0aWNsZUxpc3QiPjxsaT48YSBocmVmPSIvQ29tbXVuaXR5L05ld3NEaXNwbGF5LmFzcHg/Yz0yMzYyIj5UaGUgIExhc3RpbmcgRWZmZWN0cyBvZiAgYSBDaGlsZCdzIEVhcmx5IE1vcmFsIFRyYWluaW5nPC9hPjxwIGNsYXNzPSdmcEFydGljbGVCb2R5Jz5QYXJlbnRzIHdpbGwgbm90IHJlYWxpemUsIHBlcmhhcHMgdW50aWwgbXVjaCBsYXRlciBpbiBsaWZlLCB0aGUgbG9uZy1sYXN0aW5nIGVmZmVjdCBvZiB0aGUgbW9yYWwgdmFsdWVzIHRoZXkgdGVhY2ggdGhlaXIgY2hpbGRyZW4uIFRoZSB5b3VuZyBjaGlsZCdzIG1pbmQgIFsuLi5dPC9wPjxwIGNsYXNzPSJmcEFydGljbGVQb3N0ZWRCeSI+UG9zdGVkIGJ5IDxhIGhyZWY9Ii9BY2NvdW50L1Byb2ZpbGUuYXNweD91bj1jYXJvbHluIj5jYXJvbHluPC9hPiB8IDxhIGhyZWY9Ii9Db21tdW5pdHkvTmV3c0Rpc3BsYXkuYXNweD9jPTIzNjImI3RocmVhZHMiPkNvbW1lbnRzPC9hPjwvcD48L2xpPjxsaT48YSBocmVmPSIvQ29tbXVuaXR5L05ld3NEaXNwbGF5LmFzcHg/Yz0yMDg3Ij5TZXJ2aWNlIENsdWJzIGdvIGdyZWVuIGZvciBDaHJpc3RtYXM8L2E+PHAgY2xhc3M9J2ZwQXJ0aWNsZUJvZHknPkJ5IEFMSVNPTiBMQU5HTEVZIE5pYWdhcmEgRmFsbHMgUmV2aWV3ICAgT24gYSBjaGlsbHkgd2ludGVyIGFmdGVybm9vbiwgR2FiZSBNYXJpbmVsbGkgcHJvdWRseSBzdXJ2ZXlzIGhpcyBmb3Jlc3QuICAgIldlIG9ubHkgZ2V0IHRvcCAgWy4uLl08L3A+PHAgY2xhc3M9ImZwQXJ0aWNsZVBvc3RlZEJ5Ij5Qb3N0ZWQgYnkgPGEgaHJlZj0iL0FjY291bnQvUHJvZmlsZS5hc3B4P3VuPXN0YW1mb3Jka2l3YW5pcyI+c3RhbWZvcmRraXdhbmlzPC9hPiB8IDxhIGhyZWY9Ii9Db21tdW5pdHkvTmV3c0Rpc3BsYXkuYXNweD9jPTIwODcmI3RocmVhZHMiPkNvbW1lbnRzPC9hPjwvcD48L2xpPjxsaT48YSBocmVmPSIvQ29tbXVuaXR5L05ld3NEaXNwbGF5LmFzcHg/Yz0yMzI5Ij5BcmUgTmV3c3BhcGVycyBhbmQgTWFnYXppbmVzIERlc3RpbmVkIHRvIEJlY29tZSBPYnNvbGV0ZT88L2E+PHAgY2xhc3M9J2ZwQXJ0aWNsZUJvZHknPk5ld3NwYXBlcnMgYW5kIG1hZ2F6aW5lcyB3aWxsIG5vdCBmYWNlIGV4dGluY3Rpb24gZm9yIG1hbnkgeWVhcnMgdG8gY29tZSwgaWYgZXZlci4gVGhleSBvZmZlciB0b28gbWFueSBhZHZhbnRhZ2VzIG92ZXIgbW9kZXJuLCBmYXN0LWZvcndhcmQgbWV0aG9kcyBvZiBjb21tdW5pY2F0aW5nICBbLi4uXTwvcD48cCBjbGFzcz0iZnBBcnRpY2xlUG9zdGVkQnkiPlBvc3RlZCBieSA8YSBocmVmPSIvQWNjb3VudC9Qcm9maWxlLmFzcHg/dW49Y2Fyb2x5biI+Y2Fyb2x5bjwvYT4gfCA8YSBocmVmPSIvQ29tbXVuaXR5L05ld3NEaXNwbGF5LmFzcHg/Yz0yMzI5JiN0aHJlYWRzIj5Db21tZW50czwvYT48L3A+PC9saT48bGk+PGEgaHJlZj0iL0NvbW11bml0eS9OZXdzRGlzcGxheS5hc3B4P2M9MjMxNSI+Q29uZmlkZW5jZTogQSBHaWZ0IFdlIEdpdmUgRWFjaCBPdGhlciBBbGwgWWVhciBSb3VuZC48L2E+PHAgY2xhc3M9J2ZwQXJ0aWNsZUJvZHknPlRoZSBPeGZvcmQgRW5nbGlzaCBEaWN0aW9uYXJ5IGRlZmluZXMgY29uZmlkZW5jZSBhcyAiYSBwb3NpdGl2ZSBmZWVsaW5nIGdhaW5lZCBmcm9tIGEgYmVsaWVmIGluIHlvdXIgb3duIGFiaWxpdHkgdG8gZG8gdGhpbmdzIHdlbGwiLCBhbmQgImZhaXRoIGluICBbLi4uXTwvcD48cCBjbGFzcz0iZnBBcnRpY2xlUG9zdGVkQnkiPlBvc3RlZCBieSA8YSBocmVmPSIvQWNjb3VudC9Qcm9maWxlLmFzcHg/dW49Y2Fyb2x5biI+Y2Fyb2x5bjwvYT4gfCA8YSBocmVmPSIvQ29tbXVuaXR5L05ld3NEaXNwbGF5LmFzcHg/Yz0yMzE1JiN0aHJlYWRzIj5Db21tZW50czwvYT48L3A+PC9saT48bGk+PGEgaHJlZj0iL0NvbW11bml0eS9OZXdzRGlzcGxheS5hc3B4P2M9MjMyOCI+VGhpbmdzIFRvIFNheSBBYm91dCBhIEdpZnQgYSBIYXRlPC9hPjxwIGNsYXNzPSdmcEFydGljbGVCb2R5Jz5JdCdzIGhhcHBlbmVkIHRvIGV2ZXJ5b25lOiB5b3UgcmVjZWl2ZSBhIGdpZnQgZnJvbSBhIHdlbGwtbWVhbmluZyBidXQgaW1wcnVkZW50IGZhbWlseSBtZW1iZXIgb3IgZnJpZW5kIHdoaWNoIGlzIGFic29sdXRlbHkgdW5iZWxpZXZhYmxlIGluIGl0cyB1Z2xpbmVzcywgdXNlbGVzc25lc3MsICBbLi4uXTwvcD48cCBjbGFzcz0iZnBBcnRpY2xlUG9zdGVkQnkiPlBvc3RlZCBieSA8YSBocmVmPSIvQWNjb3VudC9Qcm9maWxlLmFzcHg/dW49Y2Fyb2x5biI+Y2Fyb2x5bjwvYT4gfCA8YSBocmVmPSIvQ29tbXVuaXR5L05ld3NEaXNwbGF5LmFzcHg/Yz0yMzI4JiN0aHJlYWRzIj5Db21tZW50czwvYT48L3A+PC9saT48L3VsPjwvZGl2PjxkaXYgaWQ9J2ZwQ01CbG9ncyc+PHVsIGlkPSdmcEJsb2dMaXN0Jz48bGk+PGEgaHJlZj0iaHR0cDovL3d3dy5zdGNhdGhhcmluZXNzdGFuZGFyZC5jYS9CbG9ncy9WaWV3Q29tbXVuaXR5UGFnZS5hc3B4P0Jsb2dJRD02MjMiPkpvaG4gTWFjRG9uYWxkIE1lbW9yaWFsIE1EIEhvY2tleSBUb3VybmFtZW50PC9hPjxwIGNsYXNzPSdmcEJsb2dCb2R5Jz5XZSBhcmUgdmVyeSBwbGVhc2VkIHRvIHNheSB0aGF0IHRoZSBKb2huIE1hY0RvbmFsZCBNRCBNZW1vcmlhbCBIb2NrZXkgVG91cm5hbWVudCBpcyBub3cgZnVsbCB3aXRoIDEyMCBNaW5vciBIb2NrZXkgVGVhbXMuIFJhbmdpbmcgZnJvbSBNYWpvciBbLi4uXTwvcD48cCBjbGFzcz0nZnBCbG9nUG9zdGVkQnknPlBvc3RlZCBieSA8YSBocmVmPSJodHRwOi8vd3d3LnN0Y2F0aGFyaW5lc3N0YW5kYXJkLmNhL0FjY291bnQvcHJvZmlsZS5hc3B4P3VuPWptYWNkb25hbGQiPmptYWNkb25hbGQ8L2E+IHwgPGEgaHJlZj0iaHR0cDovL3d3dy5zdGNhdGhhcmluZXNzdGFuZGFyZC5jYS9ibG9ncy9WaWV3Q29tbXVuaXR5UGFnZS5hc3B4P0Jsb2dJRD02MjMmI3RocmVhZHMiPkNvbW1lbnRzPC9hPjwvcD48L2xpPjxsaT48YSBocmVmPSJodHRwOi8vd3d3LnN0Y2F0aGFyaW5lc3N0YW5kYXJkLmNhL0Jsb2dzL1ZpZXdDb21tdW5pdHlQYWdlLmFzcHg/QmxvZ0lEPTYxNyI+VGVuIFRoaW5ncyB0byBTYXkgQWJvdXQgYSBHaWZ0IFlvdSBIYXRlPC9hPjxwIGNsYXNzPSdmcEJsb2dCb2R5Jz5JdCdzIGhhcHBlbmVkIHRvIGV2ZXJ5b25lOiB5b3UgcmVjZWl2ZSBhIGdpZnQgZnJvbSBhIHdlbGwtbWVhbmluZyBidXQgaW1wcnVkZW50IGZhbWlseSBtZW1iZXIgb3IgZnJpZW5kIHdoaWNoIGlzIGFic29sdXRlbHkgdW5iZWxpZXZhYmxlIGluIGl0cyB1Z2xpbmVzcywgdXNlbGVzc25lc3MsIFsuLi5dPC9wPjxwIGNsYXNzPSdmcEJsb2dQb3N0ZWRCeSc+UG9zdGVkIGJ5IDxhIGhyZWY9Imh0dHA6Ly93d3cuc3RjYXRoYXJpbmVzc3RhbmRhcmQuY2EvQWNjb3VudC9wcm9maWxlLmFzcHg/dW49Y2Fyb2x5biI+Y2Fyb2x5bjwvYT4gfCA8YSBocmVmPSJodHRwOi8vd3d3LnN0Y2F0aGFyaW5lc3N0YW5kYXJkLmNhL2Jsb2dzL1ZpZXdDb21tdW5pdHlQYWdlLmFzcHg/QmxvZ0lEPTYxNyYjdGhyZWFkcyI+Q29tbWVudHM8L2E+PC9wPjwvbGk+PGxpPjxhIGhyZWY9Imh0dHA6Ly93d3cuc3RjYXRoYXJpbmVzc3RhbmRhcmQuY2EvQmxvZ3MvVmlld0NvbW11bml0eVBhZ2UuYXNweD9CbG9nSUQ9MzU2Ij5PcGVuIExldHRlciBmcm9tIFN0YW1mb3JkIEtpd2FuaXMgQ2x1YjwvYT48cCBjbGFzcz0nZnBCbG9nQm9keSc+TGV0dGVyIHRvIHRoZSBDaXRpemVucyBvZiBOaWFnYXJhIEZhbGxzICAgVEhFIEtJV0FOSVMgQ0xVQiBPRiBTVEFNRk9SRCBJTkMuICBBbiBvcGVuIGxldHRlciB0byB0aGUgY2l0aXplbnMgb2YgTklBR0FSQSBGQUxMUyBbLi4uXTwvcD48cCBjbGFzcz0nZnBCbG9nUG9zdGVkQnknPlBvc3RlZCBieSA8YSBocmVmPSJodHRwOi8vd3d3LnN0Y2F0aGFyaW5lc3N0YW5kYXJkLmNhL0FjY291bnQvcHJvZmlsZS5hc3B4P3VuPXN0YW1mb3Jka2l3YW5pcyI+c3RhbWZvcmRraXdhbmlzPC9hPiB8IDxhIGhyZWY9Imh0dHA6Ly93d3cuc3RjYXRoYXJpbmVzc3RhbmRhcmQuY2EvYmxvZ3MvVmlld0NvbW11bml0eVBhZ2UuYXNweD9CbG9nSUQ9MzU2JiN0aHJlYWRzIj5Db21tZW50czwvYT48L3A+PC9saT48bGk+PGEgaHJlZj0iaHR0cDovL3d3dy5zdGNhdGhhcmluZXNzdGFuZGFyZC5jYS9CbG9ncy9WaWV3Q29tbXVuaXR5UGFnZS5hc3B4P0Jsb2dJRD0zMzkiPkpvaG4gTWFjRG9uYWxkIE1lbW9yaWFsIE1EIEhvY2tleSBUb3VybmFtZW50PC9hPjxwIGNsYXNzPSdmcEJsb2dCb2R5Jz5UaGUgSm9obiBNYWNEb25hbGQgTUQgSG9ja2V5IFRvdXJuYW1lbnQgQ29tbWl0dGVlIGlzIGV4Y2l0ZWQgdG8gYW5ub3VuY2UgdGhhdCB3ZSBub3cgaGF2ZSBvdmVyIDEwMCB0ZWFtcyBzaWduZWQgdXAgZm9yIG91ciB0b3VybmFtZW50IGFuZCB3ZSBbLi4uXTwvcD48cCBjbGFzcz0nZnBCbG9nUG9zdGVkQnknPlBvc3RlZCBieSA8YSBocmVmPSJodHRwOi8vd3d3LnN0Y2F0aGFyaW5lc3N0YW5kYXJkLmNhL0FjY291bnQvcHJvZmlsZS5hc3B4P3VuPWptYWNkb25hbGQiPmptYWNkb25hbGQ8L2E+IHwgPGEgaHJlZj0iaHR0cDovL3d3dy5zdGNhdGhhcmluZXNzdGFuZGFyZC5jYS9ibG9ncy9WaWV3Q29tbXVuaXR5UGFnZS5hc3B4P0Jsb2dJRD0zMzkmI3RocmVhZHMiPkNvbW1lbnRzPC9hPjwvcD48L2xpPjxsaT48YSBocmVmPSJodHRwOi8vd3d3LnN0Y2F0aGFyaW5lc3N0YW5kYXJkLmNhL0Jsb2dzL1ZpZXdDb21tdW5pdHlQYWdlLmFzcHg/QmxvZ0lEPTIxMyI+TmlhZ2FyYSBSZWdpb25hbCBMaXRlcmFjeSBDb3VuY2lsPC9hPjxwIGNsYXNzPSdmcEJsb2dCb2R5Jz5OaWFnYXJhIFJlZ2lvbmFsIExpdGVyYWN5IENvdW5jaWxvZmZlcnMgZnJlZSwgY29uZmlkZW50aWFsLCBvbmUtb24tb25lIHR1dG9yaW5nIGZvciBhZHVsdHMgdW5hYmxlIHRvIHJlYWQgb3Igd3JpdGUuIFdlIGFsc28gb2ZmZXIgYmFzaWMgbWF0aCwgY29tcHV0ZXIgYW5kIHdvcmtwbGFjZSBza2lsbHMuIEZvciBbLi4uXTwvcD48cCBjbGFzcz0nZnBCbG9nUG9zdGVkQnknPlBvc3RlZCBieSA8YSBocmVmPSJodHRwOi8vd3d3LnN0Y2F0aGFyaW5lc3N0YW5kYXJkLmNhL0FjY291bnQvcHJvZmlsZS5hc3B4P3VuPXJlZ2lvbmFsaXRlcmFjeSI+cmVnaW9uYWxpdGVyYWN5PC9hPiB8IDxhIGhyZWY9Imh0dHA6Ly93d3cuc3RjYXRoYXJpbmVzc3RhbmRhcmQuY2EvYmxvZ3MvVmlld0NvbW11bml0eVBhZ2UuYXNweD9CbG9nSUQ9MjEzJiN0aHJlYWRzIj5Db21tZW50czwvYT48L3A+PC9saT48L3VsPjwvZGl2PmQCGA9kFgJmDzwrAAkBAA8WBB4IRGF0YUtleXMWAB4LXyFJdGVtQ291bnQCAWQWAmYPZBYCAgEPDxYCHgtOYXZpZ2F0ZVVybAVjaHR0cDovL215cGhvdG9zLnN0Y2F0aGFyaW5lc3N0YW5kYXJkLmNhL215Y2FwdHVyZS9waG90b3MvQWxidW0uYXNweD9FdmVudElEPTMzNDc2MyZDYXRlZ29yeUlEPTMzMjQwZBYEZg8PFgIfAwVLaHR0cDovL215cGhvdG9zLnN0Y2F0aGFyaW5lc3N0YW5kYXJkLmNhL1BIT1RPUy9TQ1NULzFVc2VyUGhvdG9zLzE3NTE2MlQuanBnZGQCAg8WAh8ABQ1OaWFnYXJhIEZhbGxzZAIZD2QWAmYPFgIfAAXHCzxkaXYgY2xhc3M9InJpZ2h0c2VwIHR3b2VxY29sIj48dWwgY2xhc3M9ImZwQ2FsIj48bGk+PGRpdiBjbGFzcz0iZnBDYWxCZyI+PGg1PjxhIGhyZWY9Imh0dHA6Ly93d3cuc3RjYXRoYXJpbmVzc3RhbmRhcmQuY2EvQ2FsZW5kYXIvRGlzcGxheUV2ZW50cy5hc3B4P2RhdGU9MTIlMmYyNyUyZjIwMDciIHN0eWxlPSJjb2xvcjojMGM3NzAwIj5Ub2RheTwvYT48L2g1PjwvZGl2PjwvbGk+PGxpPjxhIGhyZWY9Imh0dHA6Ly93d3cuc3RjYXRoYXJpbmVzc3RhbmRhcmQuY2EvQ2FsZW5kYXIvSW5mby5hc3B4P2M9Mjk0OSZjYWxzZWw9MTIlMmYyNyUyZjIwMDciPkJFTExZIERBTkNFIENMQVNTRVM8L2E+PC9saT48bGk+PGEgaHJlZj0iaHR0cDovL3d3dy5zdGNhdGhhcmluZXNzdGFuZGFyZC5jYS9DYWxlbmRhci9JbmZvLmFzcHg/Yz0yNjI0JmNhbHNlbD0xMiUyZjI3JTJmMjAwNyI+Q0hJTERSRU4nUyBDSFJJU1RNQVMgU09ORyBCWSBQRVRFIERPV0FOIE5PVyBPVVQ8L2E+PC9saT48bGk+PGEgaHJlZj0iaHR0cDovL3d3dy5zdGNhdGhhcmluZXNzdGFuZGFyZC5jYS9DYWxlbmRhci9JbmZvLmFzcHg/Yz0yMDI5JmNhbHNlbD0xMiUyZjI3JTJmMjAwNyI+Sm9yZGFuIEFkdWx0IHNTYXRpbmcgQ2x1YjwvYT48L2xpPjxsaT48YSBocmVmPSJodHRwOi8vd3d3LnN0Y2F0aGFyaW5lc3N0YW5kYXJkLmNhL0NhbGVuZGFyL0luZm8uYXNweD9jPTIxODUmY2Fsc2VsPTEyJTJmMjclMmYyMDA3Ij5PcGVuIEhvdXNlIEAgQWdhcGUgVmFsbGV5PC9hPjwvbGk+PC91bD48L2Rpdj48ZGl2IGNsYXNzPSJ0d29lcWNvbCI+PHVsIGNsYXNzPSJmcENhbCI+PGxpPjxhIGhyZWY9Imh0dHA6Ly93d3cuc3RjYXRoYXJpbmVzc3RhbmRhcmQuY2EvQ2FsZW5kYXIvSW5mby5hc3B4P2M9MjYwOCZjYWxzZWw9MTIlMmYyNyUyZjIwMDciPldpbnRlciBTYWZldHkgUHJlc2VudGF0aW9uPC9hPjwvbGk+PGxpPjxkaXYgY2xhc3M9ImZwQ2FsQmciPjxoNT48YSBocmVmPSJodHRwOi8vd3d3LnN0Y2F0aGFyaW5lc3N0YW5kYXJkLmNhL0NhbGVuZGFyL0Rpc3BsYXlFdmVudHMuYXNweD9kYXRlPTEyJTJmMjglMmYyMDA3IiBzdHlsZT0iY29sb3I6IzBjNzcwMCI+RGVjLiAyOCwgMjAwNzwvYT48L2g1PjwvZGl2PjwvbGk+PGxpPjxhIGhyZWY9Imh0dHA6Ly93d3cuc3RjYXRoYXJpbmVzc3RhbmRhcmQuY2EvQ2FsZW5kYXIvSW5mby5hc3B4P2M9MjY5OCZjYWxzZWw9MTIlMmYyOCUyZjIwMDciPkAgU1QuIENBVEhBUklORVMgUFVCTElDIExJQlJBUlkgLSBTVC4gSk9ITidTIEFNQlVMQU5DRSBCQUJZU0lUVEVSUyBDT1VSU0U8L2E+PC9saT48bGk+PGEgaHJlZj0iaHR0cDovL3d3dy5zdGNhdGhhcmluZXNzdGFuZGFyZC5jYS9DYWxlbmRhci9JbmZvLmFzcHg/Yz0yODY4JmNhbHNlbD0xMiUyZjI4JTJmMjAwNyI+bmlhZ2FyYSBmYWxscyBsaW9ucyBhbGwtdS1jYW4gZWF0IHNwYWdoZXR0aSAmYW1wOyBtZWF0YmFsbCBkaW5uZXI8L2E+PC9saT48L3VsPjwvZGl2PmQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgUFHGN0bDAwJFNlYXJjaEJveCRSYWRpb0J1dHRvbjEFHGN0bDAwJFNlYXJjaEJveCRSYWRpb0J1dHRvbjIFHGN0bDAwJFNlYXJjaEJveCRSYWRpb0J1dHRvbjIFHGN0bDAwJFNlYXJjaEJveCRSYWRpb0J1dHRvbjMFHGN0bDAwJFNlYXJjaEJveCRSYWRpb0J1dHRvbjOBFIBJI1YH30FONxnhvrGna66pAg==">
 
-<table border="0" width="940" cellpadding="0" cellspacing="0">
-<tbody><tr><td width="770" valign="top" align="left">	
 
+<div id="maincontainer">
+	
+    <div id="lbw">
+        <div id="lbMedia"><script type="text/javascript" src="http://kestrel.ospreymedialp.com/JBSPro/files/JBSPro.asp?JS=1&amp;Z=882"></script>
+</div>
+        <div id="lbWeather"><div id="ctl00_Weather1_Weather" class="grsilo" onclick="document.location='http://www.stcatharinesstandard.ca/weather.aspx'" style="cursor:pointer;">
+	
+    <div class="content">
+        <div class="t"></div>
+        <div class="d">
+            <div id="currentweather">
+                <div id="cwIcon"><img id="ctl00_Weather1_WthrImg" src="http://www.stcatharinesstandard.ca/Images/by_letter/v.gif" border="0"></div>
+                <div id="cwStatus">Currently 1 °C | Light flurries</div>
+                <div id="cwBy">St. Catharines </div>
+            </div>
+        </div>
+    </div>
+    <div class="b"><div></div></div>
 
-<table border="0" width="770" id="table1">
-	<tbody><tr>
-		<td align="center" width="3%">
-		<img border="0" src="/webapp/sitepages/images/advertisement-v.gif" width="10" height="90">
-		</td>
-		<td align="center" valign="middle">
-<!-- ikea -->
+</div></div>
+		<div class="spacer"></div>
+    </div>
+	<div id="topmediaseperator"></div>
+	<br>
+	<div id="topsection">
+		<div id="tswrapper">
+			<div id="tscontentcolumn">
+				<div class="tube">
+			
+					<div class="twoeqcol">
+						<a href="/"><img src="/images/www.stcatharinesstandard.ca.gif" width="284" height="64" style="border-width: 0"></a>
+					</div>
+	
+					<div class="twoeqcol">
+					    
+	                    <div id="network">
+	                    
+	                        <div id="networktop">		
+					            <select id="selectmenu" onchange="gotoPublication(this[this.selectedIndex].value)">
 
-<!--247:3-->
-
-<script type="text/javascript" language="JavaScript1.1">
-<!-- Osprey-Media@Leaderboards and Banners (728x90 and 468x60)
-if (typeof OAS_rns == "undefined") OAS_rns = new String (Math.random()).substring(2, 11);
-document.write('<scr'+'ipt LANGUAGE="JavaScript1.1" SRC="http://network-ca.247realmedia.com/RealMedia/ads/adstream_jx.ads/Osprey-Media/1'+OAS_rns+'@Top1,x10,x15,Position3!Top1?JX&XE&CAT=&XE&city=&state=ontario&newspaper=www.stcatharinesstandard.ca"></scr'+'ipt>');
-// -->
-</script><script language="JavaScript1.1" src="http://network-ca.247realmedia.com/RealMedia/ads/adstream_jx.ads/Osprey-Media/1701155323@Top1,x10,x15,Position3!Top1?JX&amp;XE&amp;CAT=&amp;XE&amp;city=&amp;state=ontario&amp;newspaper=www.stcatharinesstandard.ca"></script>
-				</td>
-		<td align="center" width="3%">
-		<img border="0" src="/webapp/sitepages/images/advertisement-v.gif" width="10" height="90"></td>
-	</tr>
-</tbody></table>
-<table border="0" cellpadding="3" cellspacing="0" width="770" bgcolor="#000000">
-<form name="form"></form>
-  <tbody><tr>
-     <td width="20%"><a href="http://www.ospreymedia.ca"><img src="/webapp/sitepages/images/osprey_logo.gif" align="textTop" border="0"></a></td>
-	<td width="60%" align="left" valign="middle">&nbsp;
-	</td>
-    <td width="25%">
-<p align="right">
-
-<select name="site" size="1" onchange="javascript:if ( this[this.selectedIndex].value != '' ) { formHandler() }" style="font-size: 8pt; padding-left:4px; padding-right:4px; padding-top:1px; padding-bottom:1px; ">
   <option value="">Select an Osprey Publication:</option>
+
   <option value="">&nbsp;</option>
+
   <option value="">N E W S P A P E R S ----------------------------------------------</option>
 
+
+
   <option value="http://www.bancroftthisweek.com/webapp/sitepages/">Bancroft - Bancroft this Week</option>
-  <option value="http://www.thebarrieexaminer.com/webapp/sitepages/">Barrie - Barrie Examiner</option>
+
+  <option value="http://www.thebarrieexaminer.com/">Barrie - Barrie Examiner</option>
+
   <option value="http://www.barrysbaythisweek.com/webapp/sitepages/">Barry's Bay - Barry's Bay this Week</option>
-  <option value="http://www.intelligencer.ca/webapp/sitepages/">Belleville - Intelligencer</option>
-  <option value="http://www.brantfordexpositor.ca/webapp/sitepages/">Brantford - Expositor</option>
-  <option value="http://www.chathamdailynews.ca/webapp/sitepages/">Chatham - Chatham Daily News</option>
-  <option value="http://www.northumberlandtoday.com/webapp/sitepages/">Cobourg - Cobourg Daily Star</option>
-  <option value="http://www.northumberlandtoday.com/webapp/sitepages/">Colborne - Colborne Chronicle</option>
-  <option value="http://www.theenterprisebulletin.com/webapp/sitepages/">Collingwood - Enterprise Bulletin</option>
-  <option value="http://www.standard-freeholder.com/webapp/sitepages/">Cornwall - Standard Freeholder</option>
+
+  <option value="http://www.intelligencer.ca/">Belleville - Intelligencer</option>
+
+  <option value="http://www.brantfordexpositor.ca/">Brantford - Expositor</option>
+
+  <option value="http://www.chathamdailynews.ca/">Chatham - Chatham Daily News</option>
+
+  <option value="http://www.northumberlandtoday.com/">Cobourg - Cobourg Daily Star</option>
+
+  <option value="http://www.northumberlandtoday.com/">Colborne - Colborne Chronicle</option>
+
+  <option value="http://www.theenterprisebulletin.com/">Collingwood - Enterprise Bulletin</option>
+
+  <option value="http://www.standard-freeholder.com/">Cornwall - Standard Freeholder</option>
+
   <option value="http://www.voiceofthefarmer.com/webapp/sitepages/">Dresden - Voice of the Farmer</option>
+
   <option value="http://www.dunnvillechronicle.com/webapp/sitepages/">Dunnville - Dunnville Chronicle</option>
+
   <option value="http://www.elliotlakestandard.ca/webapp/sitepages/">Elliot Lake - Standard</option>
+
   <option value="http://www.midnorthmonitor.com/webapp/sitepages/">Espanola - Mid-North Monitor</option>
+
   <option value="http://www.forterietimes.ca/webapp/sitepages/">Fort Erie - Times</option>
+
   <option value="http://www.gananoquereporter.com/webapp/sitepages/">Gananoque - Gananoque Reporter</option>
+
   <option value="http://www.haliburtonecho.ca/webapp/sitepages/">Haliburton - Haliburton Echo</option>
+
   <option value="http://www.thepost.on.ca/webapp/sitepages/">Hanover - The Post</option>
+
   <option value="http://www.innisfilexaminer.ca/webapp/sitepages/">Innisfil - Innisfil Examiner</option>
-  <option value="http://www.kingstonthisweek.com/webapp/sitepages/">Kingston - Kingston This Week</option>
-  <option value="http://www.thewhig.com/webapp/sitepages/">Kingston - Kingston Whig Standard</option>
+
+  <option value="http://www.kingstonthisweek.com/">Kingston - Kingston This Week</option>
+
+  <option value="http://www.thewhig.com/">Kingston - Kingston Whig Standard</option>
+
   <option value="http://www.northernnews.ca/webapp/sitepages/">Kirkland Lake - Northern News</option>
-  <option value="http://www.thepost.ca/webapp/sitepages/">Lindsay - The Lindsay Post</option>
+
+  <option value="http://www.thepost.ca/">Lindsay - The Lindsay Post</option>
+
   <option value="http://www.markdalestandard.com/webapp/sitepages/">Markdale - Markdale Standard</option>
-  <option value="http://www.midlandfreepress.com/webapp/sitepages/">Midland - Free Press</option>
+
+  <option value="http://www.midlandfreepress.com/">Midland - Free Press</option>
+
   <option value="http://www.mindentimes.ca/webapp/sitepages/">Minden - Minden Times</option>
-  <option value="http://www.napaneeguide.com/webapp/sitepages/">Napanee - Napanee Guide</option>
-  <option value="http://advance.niagaracommunitynewspapers.com/webapp/sitepages/">Niagara-on-the-Lake - Niagara Advance</option>
-  <option value="http://www.niagarafallsreview.ca/webapp/sitepages/">Niagara Falls - Review</option>
+
+  <option value="http://www.napaneeguide.com/">Napanee - Napanee Guide</option>
+
+  <option value="http://www.niagaraadvance.ca/">Niagara-on-the-Lake - Niagara Advance</option>
+
+  <option value="http://www.niagarafallsreview.ca/">Niagara Falls - Review</option>
+
   <option value="http://west.niagaracommunitynewspapers.com/webapp/sitepages/">Niagara Falls- W. Niagara Community Newspapers</option>
-  <option value="http://www.nugget.ca/webapp/sitepages/">North Bay - North Bay Nugget</option>
+
+  <option value="http://www.nugget.ca/">North Bay - North Bay Nugget</option>
+
   <option value="http://www.northkentleader.com/webapp/sitepages/">North Kent - North Kent Leader</option>
-  <option value="http://www.orilliapacket.com/webapp/sitepages/">Orillia - Packet and Times</option>
-  <option value="http://www.owensoundsuntimes.com/webapp/sitepages/">Owen Sound - Sun Times</option>
-  <option value="http://www.thedailyobserver.ca/webapp/sitepages/">Pembroke - Daily Observer</option>
-  <option value="http://www.thepeterboroughexaminer.com/webapp/sitepages/">Peterborough - Peterborough Examiner</option>
+
+  <option value="http://www.orilliapacket.com/">Orillia - Packet and Times</option>
+
+  <option value="http://www.owensoundsuntimes.com/">Owen Sound - Sun Times</option>
+
+  <option value="http://www.thedailyobserver.ca/">Pembroke - Daily Observer</option>
+
+  <option value="http://www.thepeterboroughexaminer.com/">Peterborough - Peterborough Examiner</option>
+
   <option value="http://www.petroliatopic.com/webapp/sitepages/">Petrolia - Petrolia Topic</option>
+
   <option value="http://www.countyweeklynews.ca/webapp/sitepages/">Picton - County Weekly News</option>
-  <option value="http://www.northumberlandtoday.com/webapp/sitepages/">Port Hope - Port Hope Evening Guide</option>
-  <option value="http://www.theobserver.ca/webapp/sitepages/">Sarnia - Observer</option>
-  <option value="http://www.saultstar.com/webapp/sitepages/">Sault Ste Marie - Sault Star</option>
-  <option value="http://www.saultthisweek.com/webapp/sitepages/">Sault Ste Marie - Sault This Week</option>
+
+  <option value="http://www.northumberlandtoday.com/">Port Hope - Port Hope Evening Guide</option>
+
+  <option value="http://www.theobserver.ca/">Sarnia - Observer</option>
+
+  <option value="http://www.saultstar.com/">Sault Ste Marie - Sault Star</option>
+
+  <option value="http://www.saultthisweek.com/">Sault Ste Marie - Sault This Week</option>
+
   <option value="http://stkitts.niagaracommunitynewspapers.com/webapp/sitepages/">St. Catharines - St. Catharines Shopping News</option>
-  <option value="http://www.stcatharinesstandard.ca/webapp/sitepages/">St. Catharines - Standard</option>
+
+  <option value="http://www.stcatharinesstandard.ca/">St. Catharines - Standard</option>
+
   <option value="http://www.communitypress.ca/webapp/sitepages/">Stirling - Community Press</option>
-  <option value="http://www.thesudburystar.com/webapp/sitepages/">Sudbury - Sudbury Star</option>
+
+  <option value="http://www.thesudburystar.com/">Sudbury - Sudbury Star</option>
+
   <option value="http://thorold.niagaracommunitynewspapers.com/webapp/sitepages/">Thorold - Thorold News</option>
-  <option value="http://www.timminspress.com/webapp/sitepages/">Timmins - Daily Press</option>
+
+  <option value="http://www.timminspress.com/">Timmins - Daily Press</option>
+
   <option value="http://www.trentonian.ca/webapp/sitepages/">Trenton - Trentonian</option>
-  <option value="http://www.thewallaceburgnews.ca/webapp/sitepages/">Wallaceburg - Wallaceburg News</option>
-  <option value="http://www.wellandtribune.ca/webapp/sitepages/">Welland - Tribune</option>
+
+  <option value="http://www.wellandtribune.ca/">Welland - Tribune</option>
+
   <option value="http://welland.niagaracommunitynewspapers.com/webapp/sitepages/">Welland - Welland News</option>
+
   
+
   <option value="">&nbsp;</option>
+
   <option value="">M A G A Z I N E S ---------------------------------------------------</option>
-  <option value="http://www.golfontario.ca">Ontario Golf</option>
+
+  <option value="http://www.interiorsmagazine.ca">Central Ontario Interiors Magazine</option>
+
   <option value="http://www.hamiltonmagazine.com">Hamilton Magazine</option>
+
+  <option value="http://www.kingstonlife.ca">Kingston Life</option>
+
   <option value="http://www.muskokamagazine.com">Muskoka Magazine</option>
+
   <option value="http://www.niagaramag.ca">Niagara Magazine</option>
+
+  <option value="http://www.golfontario.ca">Ontario Golf</option>
+
   <option value="http://www.saultgoodlife.com">Sault Good Life</option>
+
   <option value="http://www.simcoelife.ca">Simcoe Life</option>
 
- </select>&nbsp;
+  <option value="http://www.thehomeshow.ca">The Home Show</option>
+
+</select>
+	                        </div>
+                            
+
+<div id="networkleft">
+    <ul class="networklist">
+        <li><a href="http://ospreycareers.com">Careers</a></li>
+        <li><a href="http://www.ospreyclassifiednetwork.com/classifieds/?newspaper=St.+Catharines+Standard">Classifieds</a></li>
+    </ul>
+</div>
+<div id="networkmid">
+    <ul class="networklist">
+        <li><a href="http://ospreyobituaries.com/?reg=30">Obituaries</a></li>
+        <li><a href="http://ospreywheels.com/">Wheels</a></li>
+    </ul>
+</div>
+<div id="networkright">
+    <ul class="networklist">
+        <li><a href="http://ospreynewsnetwork.ca/">Digital Edition</a></li>
+        
+        <li><a href="http://shopping.stcatharinesstandard.ca/">Shopping</a></li>
+        
+    </ul>
+</div>
+	                    </div>
+					</div>
+					<div class="spacer"></div>
+				</div>
+			</div>
+		</div>
+		
+		<div id="tsrightcolumn" style="cursor:pointer" onclick="window.location.href='/community/';"></div>
+		<div class="spacer"></div>
+	</div>
 
 
-</p></td>
-  </tr>
-  
-</tbody></table>
-<table width="770" height="25" border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td><a href="http://ospreynewsnetwork.ca"><img src="http://library.ospreymedialp.com/omlpbar/images/omlpNetBar_01.gif" width="128" height="25" alt="" border="0"></a></td>
-		<td><a href="http://www.ospreymedialp.com/subscriptions"><img src="http://library.ospreymedialp.com/omlpbar/images/omlpNetBar_02.gif" width="128" height="25" alt="" border="0"></a></td>
-		<td><a href="http://ospreyobituaries.com"><img src="http://library.ospreymedialp.com/omlpbar/images/omlpNetBar_03.gif" width="128" height="25" alt="" border="0"></a></td>
-		<td><a href="http://ospreywheels.com"><img src="http://library.ospreymedialp.com/omlpbar/images/omlpNetBar_04.gif" width="130" height="25" alt="" border="0"></a></td>
-		<td><a href="http://www.ospreyclassifiednetwork.com"><img src="http://library.ospreymedialp.com/omlpbar/images/omlpNetBar_05.gif" width="128" height="25" alt="" border="0"></a></td>
-		<td><a href="http://ospreycareers.com"><img src="http://library.ospreymedialp.com/omlpbar/images/omlpNetBar_06.gif" width="128" height="25" alt="" border="0"></a></td>
-	</tr>
-</tbody></table>
-<br>
-<table border="0" cellpadding="0" cellspacing="0" width="770">
-  <tbody><tr>
-    <td align="left">
-    	<a href="http://www.stcatharinesstandard.ca/webapp/sitepages/"><img border="0" src="/npimages/www.stcatharinesstandard.ca.gif" width="284" height="64"></a>
-    </td>
-    <td align="right">
-	<script type="text/javascript" src="http://kestrel.ospreymedialp.com/JBSPro/files/JBSPro.asp?JS=1&amp;Z=348"></script>
-	</td>
-  </tr>
-</tbody></table>
-<br>
-<table cellpadding="0" border="0" cellspacing="0" width="770" background="/webapp/sitepages/images/h_dot.gif">
-	<tbody><tr>
-		<td align="left"><img src="/webapp/sitepages/images/h_dot.gif" border="0"></td>
-	</tr>
-</tbody></table>
-<table border="0" cellpadding="3" cellspacing="0" width="770">
-  <tbody><tr>
-		<td><font face="Verdana" size="1">
-    
-		<a href="http://www.stcatharinesstandard.ca/webapp/sitepages/">HOME</a>&nbsp;&gt;&nbsp;
-		<a href="http://www.stcatharinesstandard.ca/webapp/sitepages/">ST. CATHARINES STANDARD</a>
 
-				&nbsp;&gt;&nbsp;NOTICES
-				&nbsp;&gt;&nbsp;PRIVACY STATEMENT</font></td>
-		<td align="right" valign="bottom">
-		Tuesday, June 26, 2007
-    	</td>
-  </tr>
-</tbody></table>
-<table cellpadding="0" border="0" cellspacing="0" width="770" background="/webapp/sitepages/images/h_dot.gif">
-	<tbody><tr>
-		<td align="left"><img src="/webapp/sitepages/images/h_dot.gif" border="0"></td>
-	</tr>
-</tbody></table>
-<table cellpadding="2" cellspacing="0" border="0">
-	<tbody><tr>
-		<td><script type="text/javascript" src="http://kestrel.ospreymedialp.com/JBSPro/files/JBSPro.asp?JS=1&amp;Z=350"></script></td>
-		<td><script type="text/javascript" src="http://kestrel.ospreymedialp.com/JBSPro/files/JBSPro.asp?JS=1&amp;Z=351"></script></td>
-		<td><script type="text/javascript" src="http://kestrel.ospreymedialp.com/JBSPro/files/JBSPro.asp?JS=1&amp;Z=352"></script></td>
-		<td><script type="text/javascript" src="http://kestrel.ospreymedialp.com/JBSPro/files/JBSPro.asp?JS=1&amp;Z=353"></script></td>
-		<td><script type="text/javascript" src="http://kestrel.ospreymedialp.com/JBSPro/files/JBSPro.asp?JS=1&amp;Z=354"></script></td>
-		<td><script type="text/javascript" src="http://kestrel.ospreymedialp.com/JBSPro/files/JBSPro.asp?JS=1&amp;Z=355"></script></td>
-	</tr></tbody></table>
-<br>
+	<div id="navsection">
+		<div id="nwrapper">
+			<div id="ncontentcolumn">
+				<div class="tube">
+					<div id="nptabs">
+						<table border="0" cellpadding="0" cellspacing="0" align="right">
+						<tbody><tr>
+							<td><img src="/images/nptoptabs_01.gif"></td><td id="tabsubscribe"><a href="/subscribe/">SUBSCRIBE</a></td><td><img src="/images/nptoptabs_02.gif"></td>
+							<td id="tabnpdate">Thursday, December 27, 2007</td>
+							<td><img src="/images/nptoptabs_03.gif"></td>
+						</tr>
+						</tbody></table>
+						<div class="spacer"></div>
+					</div>
+					<div id="npNavL"><div id="npNavR"><ul id="firMenu" class="Menu"><li id="npNavNews"><a href="/CategoryList.aspx?id=619">News</a><div><ul class="subMenu"><li><a href="/SearchCat.aspx?cid=724&amp;cname=World">World</a></li><li><a href="/SearchCat.aspx?cid=725&amp;cname=National">National</a></li><li><a href="/SearchCat.aspx?cid=658&amp;cname=Local+News">Local News</a></li><li><a href="/SearchCat.aspx?cid=3206&amp;cname=Ontario+Election">Ontario Election</a></li><li><a href="/SearchCat.aspx?cid=666&amp;cname=Editorial">Editorial</a></li><li><a href="/SearchCat.aspx?cid=677&amp;cname=Letters+to+the+Editor">Letters to the Editor</a></li><li><a href="/SearchCat.aspx?cid=2052&amp;cname=Herod's+Column">Herod's Column</a></li><li><a href="/SearchCat.aspx?cid=1407&amp;cname=Queen's+Park">Queen's Park</a></li></ul></div></li><li id="npNavSports"><a href="/CategoryList.aspx?id=621">Sports</a><div><ul class="subMenu"><li><a href="/SearchCat.aspx?cid=1683&amp;cname=Sports">Sports</a></li><li><a href="http://www.stcatharinesstandard.ca/features/OHL/">OHL Corner</a></li><li><a href="http://www.stcatharinesstandard.ca/media/specialsections/ICEDOGSforweb.pdf ">Niagara Icedogs</a></li><li><a href="/features/OHL/">OHL Corner</a></li><li><a href="/genSearch1.aspx?cid=3691&amp;cname=Standard+High+School+Basketball">Standard High School Basketball</a></li></ul></div></li><li id="npNavBusiness"><a href="/CategoryList.aspx?id=624">Business</a><div><ul class="subMenu"><li><a href="/SearchCat.aspx?cid=1686&amp;cname=Business">Business</a></li><li><a href="http://www.stcatharinesstandard.ca/media/specialsections/WIBforweb.pdf">Women in Business</a></li><li><a href="http://www.stcatharinesstandard.ca/media/spotlight/Spotlight_A.pdf">Spotlight Niagara - Economic Overview</a></li><li><a href="http://www.stcatharinesstandard.ca/media/spotlight/Spotlight_B.pdf">Spotlight Niagara - Focus on Small Business</a></li><li><a href="http://www.stcatharinesstandard.ca/media/spotlight/Spotlight_C.pdf">Spotlight Niagara - Pictorial Profiles</a></li><li><a href="http://www.stcatharinesstandard.ca/media/spotlight/Spotlight_D.pdf">Spotlight Niagara - Milesstones of 2006</a></li><li><a href="http://www.stcatharinesstandard.ca/media/specialsections/CHAMBER_WEB.pdf ">St. Catharines - Thorold Chamber of Commerce</a></li><li><a href="http://www.stcatharinesstandard.ca/media/specialsections/Web_Kemira.pdf">Kemira</a></li></ul></div></li><li id="npNavArtsLife"><a href="/CategoryList.aspx?id=628">Arts/Life</a><div><ul class="subMenu"><li><a href="/genSearch1.aspx?cid=2643&amp;cname=Spectrum+Flavours">Spectrum Flavours</a></li><li><a href="/SearchCat.aspx?cid=1684&amp;cname=Spectrum">Spectrum</a></li><li><a href="/genSearch1.aspx?cid=3150&amp;cname=Suzanne's+Story">Suzanne's Story</a></li><li><a href="/SearchCat.aspx?cid=1687&amp;cname=Community+Listings">Community Listings</a></li><li><a href="/SearchCat.aspx?cid=2597&amp;cname=Do+It!">Do It!</a></li><li><a href="/SearchCat.aspx?cid=1685&amp;cname=Lifestyles">Lifestyles</a></li><li><a href="/SearchCat.aspx?cid=1850&amp;cname=Garden+%26+Home">Garden &amp; Home</a></li><li><a href="/SearchCat.aspx?cid=2663&amp;cname=Religion">Religion</a></li><li><a href="/SearchCat.aspx?cid=2647&amp;cname=Health">Health</a></li><li><a href="/SearchCat.aspx?cid=2664&amp;cname=Diversions">Diversions</a></li><li><a href="/SearchCat.aspx?cid=2665&amp;cname=Travel">Travel</a></li><li><a href="http://www.stcatharinesstandard.ca/media/backyards/051707BEAUTIFULYARDS.pdf">Beautiful Yards</a></li></ul></div></li><li id="npNavMultimedia"><a href="/CategoryList.aspx?id=623">Multimedia</a><div><ul class="subMenu"><li><a href="http://stcatharinesstandard.ospreyauction.com">Niagara Region Auction</a></li><li><a href="/genSearch1.aspx?cid=2765&amp;cname=Music+Listings">Music Listings</a></li><li><a href="/genSearch1.aspx?cid=3079&amp;cname=Eating+Niagara+-+Read+Tiffany's+Blog">Eating Niagara - Read Tiffany's Blog</a></li><li><a href="/genSearch1.aspx?cid=3219&amp;cname=56th+Annual+Niagara+Wine+Festival">56th Annual Niagara Wine Festival</a></li><li><a href="/genSearch1.aspx?cid=3626&amp;cname=The+Source">The Source</a></li></ul></div></li><li id="npNavFeatures"><a href="/CategoryList.aspx?id=620">Features</a><div><ul class="subMenu"><li><a href="http://www.stcatharinesstandard.ca/media/homes/Homeswebpage.html">Homes</a></li><li><a href="http://www.stcatharinesstandard.ca/media/Wheels/wheels.pdf">Wheels</a></li><li><a href="/genSearch1.aspx?cid=2687&amp;cname=Read+The+Footprint+Series">Read The Footprint Series</a></li><li><a href="/genSearch1.aspx?cid=1442&amp;cname=Readers+Questions">Readers Questions</a></li><li><a href="/genSearch1.aspx?cid=2785&amp;cname=Coupon+Clipper">Coupon Clipper</a></li><li><a href="http://www.stcatharinesstandard.ca/media/specialsections/Bethlehem_WEB.pdf">Bethlehem Projects of Niagara</a></li><li><a href="/SearchCat.aspx?cid=3083&amp;cname=Drive">Drive</a></li><li><a href="http://www.stcatharinesstandard.ca/media/specialsections/FALLFASHforweb.pdf">Fall Fashion</a></li><li><a href="http://www.stcatharinesstandard.ca/media/specialsections/BRIDESforweb.pdf">Brides</a></li><li><a href="http://www.stcatharinesstandard.ca/media/specialsections/GRAPEGROWERSforweb.pdf">Grape Growers of Ontario</a></li><li><a href="/genSearch1.aspx?cid=3687&amp;cname=Above+and+Beyond">Above and Beyond</a></li><li><a href="/genSearch1.aspx?cid=3705&amp;cname=Mental+Health+Series">Mental Health Series</a></li></ul></div></li><li id="npNavContactUs"><a href="/feedback1/contactdetailst.aspx">Contact Us</a><div><ul class="subMenu"><li><a href="/feedback1/Contactdetailst.aspx">Contact Publication</a></li><li><a href="/genSearch1.aspx?cid=2707&amp;cname=Classified+%26+Career+Advertising">Classified &amp; Career Advertising</a></li><li><a href="/genSearch1.aspx?cid=2708&amp;cname=Customer+Service">Customer Service</a></li><li><a href="/feedback1/Display.aspx">Feedback</a></li><li><a href="/genSearch1.aspx?cid=2774&amp;cname=National%2fMultiMarket+Advertising">National/MultiMarket Advertising</a></li><li><a href="/genSearch1.aspx?cid=2773&amp;cname=Retail+Advertising">Retail Advertising</a></li><li><a href="/genSearch1.aspx?cid=697&amp;cname=Editorial+Info">Editorial Info</a></li><li><a href="/genSearch1.aspx?cid=988&amp;cname=New+Subscriber+Special">New Subscriber Special</a></li><li><a href="/genSearch1.aspx?cid=3611&amp;cname=Community+Relations">Community Relations</a></li><li><a href="http://ospreymediagroup.com/corporate/default.asp?section=advertise">Web Advertising</a></li></ul></div></li></ul></div></div>
+				</div>
+			</div>
+		</div>
+		
+		<div id="nrightcolumn">
+			<div class="tube">
+					<div id="cmtabs">
+						<table border="0" cellpadding="0" cellspacing="0" align="right">
+						<tbody><tr>
+							<td><img src="/images/cmtoptabs_01.gif"></td>
+							<td id="tabcmsubmit"><a href="/account/?sir=1">SUBMIT</a></td>
+							<td><img src="/images/cmtoptabs_02.gif"></td>
+							<td id="tabcmjl">﻿<a href="/account/newuser.aspx">Join</a> 
+|
+<a href="/account/">Sign-In</a></td>
+							<td><img src="/images/cmtoptabs_03.gif"></td>
+						</tr>
+						</tbody></table>
+						<div class="spacer"></div>
+					</div>
+					<div id="cmNavL"><div id="cmNavR">
+					    <ul id="secMenu" class="Menu"><li id=""><a>Community</a><div><ul class="subMenu"><li><a href="/Community/Articles.aspx?id=142&amp;catname=St.+Catharines">St. Catharines</a></li><li><a href="/Community/Articles.aspx?id=143&amp;catname=Niagara+Falls">Niagara Falls</a></li><li><a href="/Community/Articles.aspx?id=145&amp;catname=Welland">Welland</a></li><li><a href="/Community/Articles.aspx?id=146&amp;catname=Thorold">Thorold</a></li><li><a href="/Community/Articles.aspx?id=147&amp;catname=Niagara-on-the-Lake">Niagara-on-the-Lake</a></li><li><a href="/Community/Articles.aspx?id=151&amp;catname=West+Niagara">West Niagara</a></li><li><a href="/Community/Articles.aspx?id=148&amp;catname=Fort+Erie">Fort Erie</a></li><li><a href="/Community/Articles.aspx?id=149&amp;catname=Pelham">Pelham</a></li><li><a href="/Community/Articles.aspx?id=150&amp;catname=Port+Colborne">Port Colborne</a></li><li><a href="/Community/Articles.aspx?id=951&amp;catname=Wainfleet">Wainfleet</a></li></ul></div></li><li id="cmNavSports"><a href="/CommunityCategoryList.aspx?id=11">Sports</a><div><ul class="subMenu"><li><a href="/Community/Articles.aspx?id=107&amp;catname=St.+Catharines">St. Catharines</a></li><li><a href="/Community/Articles.aspx?id=108&amp;catname=Niagara+Falls">Niagara Falls</a></li><li><a href="/Community/Articles.aspx?id=127&amp;catname=Welland">Welland</a></li><li><a href="/Community/Articles.aspx?id=128&amp;catname=Thorold">Thorold</a></li><li><a href="/Community/Articles.aspx?id=129&amp;catname=Niagara-on-the-Lake">Niagara-on-the-Lake</a></li><li><a href="/Community/Articles.aspx?id=130&amp;catname=Fort+Erie">Fort Erie</a></li><li><a href="/Community/Articles.aspx?id=131&amp;catname=Pelham">Pelham</a></li><li><a href="/Community/Articles.aspx?id=132&amp;catname=Port+Colborne">Port Colborne</a></li><li><a href="/Community/Articles.aspx?id=133&amp;catname=West+Niagara">West Niagara</a></li><li><a href="/Community/Articles.aspx?id=952&amp;catname=Wainfleet">Wainfleet</a></li><li><a href="/Community/Articles.aspx?id=184&amp;catname=Niagara+Region">Niagara Region</a></li></ul></div></li><li id="cmNavChurches"><a href="/CommunityCategoryList.aspx?id=16">Churches</a><div><ul class="subMenu"><li><a href="/Community/Articles.aspx?id=111&amp;catname=St.+Catharines">St. Catharines</a></li><li><a href="/Community/Articles.aspx?id=112&amp;catname=Niagara+Falls">Niagara Falls</a></li><li><a href="/Community/Articles.aspx?id=152&amp;catname=Welland">Welland</a></li><li><a href="/Community/Articles.aspx?id=153&amp;catname=Thorold">Thorold</a></li><li><a href="/Community/Articles.aspx?id=154&amp;catname=Niagara-on-the-Lake">Niagara-on-the-Lake</a></li><li><a href="/Community/Articles.aspx?id=155&amp;catname=Fort+Erie">Fort Erie</a></li><li><a href="/Community/Articles.aspx?id=156&amp;catname=Pelham">Pelham</a></li><li><a href="/Community/Articles.aspx?id=157&amp;catname=Port+Colborne">Port Colborne</a></li><li><a href="/Community/Articles.aspx?id=158&amp;catname=West+Niagara">West Niagara</a></li><li><a href="/Community/Articles.aspx?id=953&amp;catname=Wainfleet">Wainfleet</a></li></ul></div></li><li id="cmNavServiceClubs"><a href="/CommunityCategoryList.aspx?id=15">Service Club</a><div><ul class="subMenu"><li><a href="/Community/Articles.aspx?id=166&amp;catname=St.+Catharines">St. Catharines</a></li><li><a href="/Community/Articles.aspx?id=167&amp;catname=Niagara+Falls">Niagara Falls</a></li><li><a href="/Community/Articles.aspx?id=168&amp;catname=Welland">Welland</a></li><li><a href="/Community/Articles.aspx?id=169&amp;catname=Thorold">Thorold</a></li><li><a href="/Community/Articles.aspx?id=170&amp;catname=Niagara-on-the-Lake">Niagara-on-the-Lake</a></li><li><a href="/Community/Articles.aspx?id=172&amp;catname=Fort+Erie">Fort Erie</a></li><li><a href="/Community/Articles.aspx?id=171&amp;catname=Pelham">Pelham</a></li><li><a href="/Community/Articles.aspx?id=173&amp;catname=Port+Colborne">Port Colborne</a></li><li><a href="/Community/Articles.aspx?id=174&amp;catname=West+Niagara">West Niagara</a></li><li><a href="/Community/Articles.aspx?id=955&amp;catname=Wainfleet">Wainfleet</a></li><li><a href="/Community/Articles.aspx?id=1489&amp;catname=Niagara+Region">Niagara Region</a></li></ul></div></li><li id="cmNavNonProfit"><a href="/CommunityCategoryList.aspx?id=17">Non Profit</a><div><ul class="subMenu"><li><a href="/Community/Articles.aspx?id=93&amp;catname=Non+Profit">Non Profit</a></li><li><a href="/Community/Articles.aspx?id=113&amp;catname=St.+Catharines">St. Catharines</a></li><li><a href="/Community/Articles.aspx?id=114&amp;catname=Niagara+Falls">Niagara Falls</a></li><li><a href="/Community/Articles.aspx?id=94&amp;catname=Non+Profit2">Non Profit2</a></li><li><a href="/Community/Articles.aspx?id=159&amp;catname=Welland">Welland</a></li><li><a href="/Community/Articles.aspx?id=160&amp;catname=Thorold">Thorold</a></li><li><a href="/Community/Articles.aspx?id=161&amp;catname=Niagara-on-the-Lake">Niagara-on-the-Lake</a></li><li><a href="/Community/Articles.aspx?id=162&amp;catname=Fort+Erie">Fort Erie</a></li><li><a href="/Community/Articles.aspx?id=163&amp;catname=Pelham">Pelham</a></li><li><a href="/Community/Articles.aspx?id=164&amp;catname=Port+Colborne">Port Colborne</a></li><li><a href="/Community/Articles.aspx?id=165&amp;catname=West+Niagara">West Niagara</a></li><li><a href="/Community/Articles.aspx?id=954&amp;catname=Wainfleet">Wainfleet</a></li></ul></div></li><li id="cmNavEntertainment"><a href="/CommunityCategoryList.aspx?id=12">Entertainment</a><div><ul class="subMenu"><li><a href="/Community/Articles.aspx?id=134&amp;catname=Nightlife">Nightlife</a></li><li><a href="/Community/Articles.aspx?id=135&amp;catname=Brock">Brock</a></li><li><a href="/Community/Articles.aspx?id=136&amp;catname=Theatre">Theatre</a></li><li><a href="/Community/Articles.aspx?id=137&amp;catname=Shaw">Shaw</a></li><li><a href="/Community/Articles.aspx?id=138&amp;catname=Museum">Museum</a></li><li><a href="/Community/Articles.aspx?id=139&amp;catname=Music">Music</a></li><li><a href="/Community/Articles.aspx?id=140&amp;catname=Art">Art</a></li><li><a href="/Community/Articles.aspx?id=141&amp;catname=Other+Stuff">Other Stuff</a></li></ul></div></li><li id="cmNavSchools"><a href="/CommunityCategoryList.aspx?id=14">Schools</a><div><ul class="subMenu"><li><a href="/Community/Articles.aspx?id=115&amp;catname=Brock+University">Brock University</a></li><li><a href="/Community/Articles.aspx?id=116&amp;catname=Niagara+College">Niagara College</a></li><li><a href="/Community/Articles.aspx?id=175&amp;catname=St.+Catharines">St. Catharines</a></li><li><a href="/Community/Articles.aspx?id=176&amp;catname=Niagara+Falls">Niagara Falls</a></li><li><a href="/Community/Articles.aspx?id=177&amp;catname=Welland">Welland</a></li><li><a href="/Community/Articles.aspx?id=178&amp;catname=Thorold">Thorold</a></li><li><a href="/Community/Articles.aspx?id=179&amp;catname=Niagara-on-the-Lake">Niagara-on-the-Lake</a></li><li><a href="/Community/Articles.aspx?id=180&amp;catname=Fort+Erie">Fort Erie</a></li><li><a href="/Community/Articles.aspx?id=181&amp;catname=Pelham">Pelham</a></li><li><a href="/Community/Articles.aspx?id=182&amp;catname=Port+Colborne">Port Colborne</a></li><li><a href="/Community/Articles.aspx?id=183&amp;catname=West+Niagara">West Niagara</a></li><li><a href="/Community/Articles.aspx?id=956&amp;catname=Wainfleet">Wainfleet</a></li></ul></div></li></ul>
+					    
+					</div></div>
+			</div>
+		</div>
+		<div class="spacer"></div>
+	</div>
 
- 
+	
+	<div id="contentwrapper">
+		<div id="contentcolumn">
+			<div id="cctube">
+			
+			    <div class="bFade">
+			        <div class="rght">
+			            <div class="tube">
+                            <div id="inHead">
+                                
+    <h1>Privacy</h1>
+    <ul id="breadcrumb">
+        <li>
+            <a id="ctl00_MainContentTop_HyperLink2" href="./">Home</a>
+        </li>
+        <li>
+            Privacy
+        </li>
 
-
-  <table border="0" width="770" cellspacing="0" cellpadding="0">
-    <tbody><tr>
-      <td width="112" nowrap="" valign="top">
-      	
-<script language="JavaScript">
-<!-- Begin
-function popUp_don(url) {
-	//sttng = '';
-	//window.open(url, "Donation", sttng);
-	window.open(url, "Donation", 'height=700,width=600,resizable=no,scrollbars=yes,toolbar=nolocation=no,menubar=no');
-}
-// End -->
-</script>
-
-		<table border="0" width="100%" cellspacing="0" cellpadding="0" bgcolor="#000000">
-	    <tbody><tr>
-	          <td><table border="0" cellspacing="0" cellpadding="0">
-	    		<tbody><tr>
-	    			<td bgcolor="#ff0000"><img src="images/spacer.gif" width="6" height="1"></td>
-	    			<td bgcolor="#ffffff"><img src="images/spacer.gif" width="1" height="1"></td>
-	        		<td>
-	                <table border="0" cellspacing="0" width="100%" cellpadding="2">
-	                  <tbody><tr>
-	                    <td width="100%"><font color="#ffffff">AUCTION</font></td>
-	                  </tr>
-	                </tbody></table>
-	                </td>
-				</tr>
-				</tbody></table></td>
-	    </tr>
-	  </tbody></table>
-	<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top">&nbsp;&nbsp;•&nbsp;</td><td><a href="http://www.ospreyauction.ca">OSPREY AUCTION
-</a></td></tr></tbody></table>
-
-	  <table border="0" cellspacing="0" cellpadding="0">
-	 	 <tbody><tr>
-	 		 <td valign="top">&nbsp;&nbsp;•&nbsp;</td>
-  	 		 <td valign="top"><a href="http://www.voiceprintcanada.com/content/view/163/156/">Voice Print</a></td>
-	 	 </tr>
-	  </tbody></table>
-<br>
-		<table border="0" width="100%" cellspacing="0" cellpadding="0" bgcolor="#000000">
-	    <tbody><tr>
-	          <td><table border="0" cellspacing="0" cellpadding="0">
-	    		<tbody><tr>
-	    			<td bgcolor="#ff0000"><img src="images/spacer.gif" width="6" height="1"></td>
-	    			<td bgcolor="#ffffff"><img src="images/spacer.gif" width="1" height="1"></td>
-	        		<td>
-	                <table border="0" cellspacing="0" width="100%" cellpadding="2">
-	                  <tbody><tr>
-	                    <td width="100%"><font color="#ffffff">Inside Today</font></td>
-	                  </tr>
-	                </tbody></table>
-	                </td>
-				</tr>
-				</tbody></table></td>
-	    </tr>
-	  </tbody></table>
-	<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top">&nbsp;&nbsp;•&nbsp;</td><td><a href="http://www.stcatharinesstandard.ca/webapp/sitepages/content_list.asp?catname=World&amp;catmainname=Inside+Today&amp;psttme=1">World
-</a>
-</td></tr></tbody></table>
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top">&nbsp;&nbsp;•&nbsp;</td><td><a href="http://www.stcatharinesstandard.ca/webapp/sitepages/content_list.asp?catname=National&amp;catmainname=Inside+Today&amp;psttme=1">National
-</a>
-</td></tr></tbody></table>
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top">&nbsp;&nbsp;•&nbsp;</td><td><a href="http://www.stcatharinesstandard.ca/webapp/sitepages/content_list.asp?catname=Local+News&amp;catmainname=Inside+Today&amp;psttme=1">Local News
-</a>
-</td></tr></tbody></table>
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top">&nbsp;&nbsp;•&nbsp;</td><td><a href="http://www.stcatharinesstandard.ca/webapp/sitepages/content_list.asp?catname=Sports&amp;catmainname=Inside+Today&amp;psttme=1">Sports
-</a>
-</td></tr></tbody></table>
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top">&nbsp;&nbsp;•&nbsp;</td><td><a href="http://www.stcatharinesstandard.ca/webapp/sitepages/content_list.asp?catname=Editorial&amp;catmainname=Inside+Today&amp;psttme=1">Editorial
-</a>
-</td></tr></tbody></table>
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top">&nbsp;&nbsp;•&nbsp;</td><td><a href="http://www.stcatharinesstandard.ca/webapp/sitepages/content_list.asp?catname=Letters+to+the+Editor&amp;catmainname=Inside+Today&amp;psttme=1">Letters to the Editor
-</a>
-</td></tr></tbody></table>
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top">&nbsp;&nbsp;•&nbsp;</td><td><a href="http://www.stcatharinesstandard.ca/webapp/sitepages/content_list.asp?catname=Spectrum&amp;catmainname=Inside+Today&amp;psttme=1">Spectrum
-</a>
-</td></tr></tbody></table>
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top">&nbsp;&nbsp;•&nbsp;</td><td><a href="http://www.stcatharinesstandard.ca/webapp/sitepages/content_list.asp?catname=Herod%27s+Column&amp;catmainname=Inside+Today&amp;psttme=9">Herod's Column
-</a>
-</td></tr></tbody></table>
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top">&nbsp;&nbsp;•&nbsp;</td><td><a href="http://www.stcatharinesstandard.ca/webapp/sitepages/content_list.asp?catname=Community+Listings&amp;catmainname=Inside+Today&amp;psttme=1">Community Listings
-</a>
-</td></tr></tbody></table>
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top">&nbsp;&nbsp;•&nbsp;</td><td><a href="http://www.stcatharinesstandard.ca/webapp/sitepages/content_list.asp?catname=Do+It%21&amp;catmainname=Inside+Today&amp;psttme=9">Do It!
-</a>
-</td></tr></tbody></table>
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top">&nbsp;&nbsp;•&nbsp;</td><td><a href="http://www.stcatharinesstandard.ca/webapp/sitepages/content_list.asp?catname=Lifestyles&amp;catmainname=Inside+Today&amp;psttme=1">Lifestyles
-</a>
-</td></tr></tbody></table>
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top">&nbsp;&nbsp;•&nbsp;</td><td><a href="http://www.stcatharinesstandard.ca/webapp/sitepages/content_list.asp?catname=Garden+%26+Home&amp;catmainname=Inside+Today&amp;psttme=1">Garden &amp; Home
-</a>
-</td></tr></tbody></table>
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top">&nbsp;&nbsp;•&nbsp;</td><td><a href="http://www.stcatharinesstandard.ca/webapp/sitepages/content_list.asp?catname=Business&amp;catmainname=Inside+Today&amp;psttme=1">Business
-</a>
-</td></tr></tbody></table>
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top">&nbsp;&nbsp;•&nbsp;</td><td><a href="http://www.stcatharinesstandard.ca/webapp/sitepages/content_list.asp?catname=Religion&amp;catmainname=Inside+Today&amp;psttme=9">Religion
-</a>
-</td></tr></tbody></table>
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top">&nbsp;&nbsp;•&nbsp;</td><td><a href="http://www.stcatharinesstandard.ca/webapp/sitepages/content_list.asp?catname=Drive&amp;catmainname=Inside+Today&amp;psttme=9">Drive
-</a>
-</td></tr></tbody></table>
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top">&nbsp;&nbsp;•&nbsp;</td><td><a href="http://www.stcatharinesstandard.ca/webapp/sitepages/content_list.asp?catname=Health&amp;catmainname=Inside+Today&amp;psttme=9">Health
-</a>
-</td></tr></tbody></table>
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top">&nbsp;&nbsp;•&nbsp;</td><td><a href="http://www.stcatharinesstandard.ca/webapp/sitepages/content_list.asp?catname=Diversions&amp;catmainname=Inside+Today&amp;psttme=9">Diversions
-</a>
-</td></tr></tbody></table>
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top">&nbsp;&nbsp;•&nbsp;</td><td><a href="http://www.stcatharinesstandard.ca/webapp/sitepages/content_list.asp?catname=Travel&amp;catmainname=Inside+Today&amp;psttme=9">Travel
-</a>
-</td></tr></tbody></table>
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top">&nbsp;&nbsp;•&nbsp;</td><td><a href="http://www.ospreyclassifiednetwork.com/classifieds/?newspaper=St.+Catharines+Standard">Classifieds
-</a></td></tr></tbody></table>
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top">&nbsp;&nbsp;•&nbsp;</td><td><a href="http://www.ospreyobituaries.com/sitepages?reg=30&amp;dir=">Obituaries
-</a></td></tr></tbody></table>
-<br>
-		<table border="0" width="100%" cellspacing="0" cellpadding="0" bgcolor="#000000">
-	    <tbody><tr>
-	          <td><table border="0" cellspacing="0" cellpadding="0">
-	    		<tbody><tr>
-	    			<td bgcolor="#ff0000"><img src="images/spacer.gif" width="6" height="1"></td>
-	    			<td bgcolor="#ffffff"><img src="images/spacer.gif" width="1" height="1"></td>
-	        		<td>
-	                <table border="0" cellspacing="0" width="100%" cellpadding="2">
-	                  <tbody><tr>
-	                    <td width="100%"><font color="#ffffff">7 Wonders</font></td>
-	                  </tr>
-	                </tbody></table>
-	                </td>
-				</tr>
-				</tbody></table></td>
-	    </tr>
-	  </tbody></table>
-	<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top">&nbsp;&nbsp;•&nbsp;</td><td><a href="http://www.stcatharinesstandard.ca/webapp/sitepages/gencontent.asp?catname=St%2E+Catharines&amp;catmainname=7+Wonders&amp;psttme=9">St. Catharines
-</a>
-</td></tr></tbody></table>
-<br>
-		<table border="0" width="100%" cellspacing="0" cellpadding="0" bgcolor="#000000">
-	    <tbody><tr>
-	          <td><table border="0" cellspacing="0" cellpadding="0">
-	    		<tbody><tr>
-	    			<td bgcolor="#ff0000"><img src="images/spacer.gif" width="6" height="1"></td>
-	    			<td bgcolor="#ffffff"><img src="images/spacer.gif" width="1" height="1"></td>
-	        		<td>
-	                <table border="0" cellspacing="0" width="100%" cellpadding="2">
-	                  <tbody><tr>
-	                    <td width="100%"><font color="#ffffff">Local Music Scene</font></td>
-	                  </tr>
-	                </tbody></table>
-	                </td>
-				</tr>
-				</tbody></table></td>
-	    </tr>
-	  </tbody></table>
-	<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top">&nbsp;&nbsp;•&nbsp;</td><td><a href="http://www.stcatharinesstandard.ca/webapp/sitepages/gencontent.asp?catname=Music+Listings&amp;catmainname=Local+Music+Scene&amp;psttme=9">Music Listings
-</a>
-</td></tr></tbody></table>
-<br>
-		<table border="0" width="100%" cellspacing="0" cellpadding="0" bgcolor="#000000">
-	    <tbody><tr>
-	          <td><table border="0" cellspacing="0" cellpadding="0">
-	    		<tbody><tr>
-	    			<td bgcolor="#ff0000"><img src="images/spacer.gif" width="6" height="1"></td>
-	    			<td bgcolor="#ffffff"><img src="images/spacer.gif" width="1" height="1"></td>
-	        		<td>
-	                <table border="0" cellspacing="0" width="100%" cellpadding="2">
-	                  <tbody><tr>
-	                    <td width="100%"><font color="#ffffff">7 Wonders</font></td>
-	                  </tr>
-	                </tbody></table>
-	                </td>
-				</tr>
-				</tbody></table></td>
-	    </tr>
-	  </tbody></table>
-	<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top">&nbsp;&nbsp;•&nbsp;</td><td><a href="http://www.stcatharinesstandard.ca/webapp/sitepages/gencontent.asp?catname=Thorold&amp;catmainname=7+Wonders&amp;psttme=9">Thorold
-</a>
-</td></tr></tbody></table>
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top">&nbsp;&nbsp;•&nbsp;</td><td><a href="http://www.stcatharinesstandard.ca/webapp/sitepages/gencontent.asp?catname=Niagara%2Don%2Dthe%2DLake&amp;catmainname=7+Wonders&amp;psttme=9">Niagara-on-the-Lake
-</a>
-</td></tr></tbody></table>
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top">&nbsp;&nbsp;•&nbsp;</td><td><a href="http://www.stcatharinesstandard.ca/webapp/sitepages/gencontent.asp?catname=West+Niagara&amp;catmainname=7+Wonders&amp;psttme=9">West Niagara
-</a>
-</td></tr></tbody></table>
-<br>
-		<table border="0" width="100%" cellspacing="0" cellpadding="0" bgcolor="#000000">
-	    <tbody><tr>
-	          <td><table border="0" cellspacing="0" cellpadding="0">
-	    		<tbody><tr>
-	    			<td bgcolor="#ff0000"><img src="images/spacer.gif" width="6" height="1"></td>
-	    			<td bgcolor="#ffffff"><img src="images/spacer.gif" width="1" height="1"></td>
-	        		<td>
-	                <table border="0" cellspacing="0" width="100%" cellpadding="2">
-	                  <tbody><tr>
-	                    <td width="100%"><font color="#ffffff">About the Standard</font></td>
-	                  </tr>
-	                </tbody></table>
-	                </td>
-				</tr>
-				</tbody></table></td>
-	    </tr>
-	  </tbody></table>
-	<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top">&nbsp;&nbsp;•&nbsp;</td><td><a href="http://www.stcatharinesstandard.ca/webapp/sitepages/gencontent.asp?catname=Advertising&amp;catmainname=About+the+Standard&amp;psttme=12">Advertising
-</a>
-</td></tr></tbody></table>
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top">&nbsp;&nbsp;•&nbsp;</td><td><a href="http://www.stcatharinesstandard.ca/webapp/sitepages/gencontent.asp?catname=Customer+Service&amp;catmainname=About+the+Standard&amp;psttme=9">Customer Service
-</a>
-</td></tr></tbody></table>
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top">&nbsp;&nbsp;•&nbsp;</td><td><a href="http://www.stcatharinesstandard.ca/webapp/sitepages/gencontent.asp?catname=Classified+%26+Career+Advertising&amp;catmainname=About+the+Standard&amp;psttme=9">Classified &amp; Career Advertising
-</a>
-</td></tr></tbody></table>
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top">&nbsp;&nbsp;•&nbsp;</td><td><a href="http://www.stcatharinesstandard.ca/webapp/sitepages/gencontent.asp?catname=Editorial+Info&amp;catmainname=About+the+Standard&amp;psttme=12">Editorial Info
-</a>
-</td></tr></tbody></table>
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top">&nbsp;&nbsp;•&nbsp;</td><td><a href="http://www.stcatharinesstandard.ca/webapp/sitepages/gencontent.asp?catname=New+Subscriber+Special&amp;catmainname=About+the+Standard&amp;psttme=12">New Subscriber Special
-</a>
-</td></tr></tbody></table>
-<br>
-		<table border="0" width="100%" cellspacing="0" cellpadding="0" bgcolor="#000000">
-	    <tbody><tr>
-	          <td><table border="0" cellspacing="0" cellpadding="0">
-	    		<tbody><tr>
-	    			<td bgcolor="#ff0000"><img src="images/spacer.gif" width="6" height="1"></td>
-	    			<td bgcolor="#ffffff"><img src="images/spacer.gif" width="1" height="1"></td>
-	        		<td>
-	                <table border="0" cellspacing="0" width="100%" cellpadding="2">
-	                  <tbody><tr>
-	                    <td width="100%"><font color="#ffffff">On-Line Sections</font></td>
-	                  </tr>
-	                </tbody></table>
-	                </td>
-				</tr>
-				</tbody></table></td>
-	    </tr>
-	  </tbody></table>
-	<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top">&nbsp;&nbsp;•&nbsp;</td><td><a href="http://www.stcatharinesstandard.ca/homes/Homeswebpage.html">Homes
-</a></td></tr></tbody></table>
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top">&nbsp;&nbsp;•&nbsp;</td><td><a href="http://www.stcatharinesstandard.ca/Wheels/wheels.pdf">Wheels
-</a></td></tr></tbody></table>
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top">&nbsp;&nbsp;•&nbsp;</td><td><a href="http://www.stcatharinesstandard.ca/webapp/sitepages/gencontent.asp?catname=Spectrum+Flavours&amp;catmainname=On%2DLine+Sections&amp;psttme=9">Spectrum Flavours
-</a>
-</td></tr></tbody></table>
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top">&nbsp;&nbsp;•&nbsp;</td><td><a href="http://www.stcatharinesstandard.ca/webapp/sitepages/gencontent.asp?catname=Summer+Activity+Guide&amp;catmainname=On%2DLine+Sections">Summer Activity Guide
-</a>
-</td></tr></tbody></table>
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top">&nbsp;&nbsp;•&nbsp;</td><td><a href="http://www.stcatharinesstandard.ca/backyards/051707BEAUTIFULYARDS.pdf">Beautiful Yards
-</a></td></tr></tbody></table>
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top">&nbsp;&nbsp;•&nbsp;</td><td><a href="http://www.stcatharinesstandard.ca/spotlight/Spotlight_A.pdf">Spotlight Niagara - Economic Overview
-</a></td></tr></tbody></table>
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top">&nbsp;&nbsp;•&nbsp;</td><td><a href="http://www.stcatharinesstandard.ca/spotlight/Spotlight_B.pdf">Spotlight Niagara - Focus on Small Business
-</a></td></tr></tbody></table>
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top">&nbsp;&nbsp;•&nbsp;</td><td><a href="http://www.stcatharinesstandard.ca/spotlight/Spotlight_C.pdf">Spotlight Niagara - Pictorial Profiles
-</a></td></tr></tbody></table>
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top">&nbsp;&nbsp;•&nbsp;</td><td><a href="http://www.stcatharinesstandard.ca/spotlight/Spotlight_D.pdf">Spotlight Niagara - Milestones of 2006
-</a></td></tr></tbody></table>
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top">&nbsp;&nbsp;•&nbsp;</td><td><a href="http://www.stcatharinesstandard.ca/eccdc/ECCDC_2007.pdf">Your Child's Early Years
-</a></td></tr></tbody></table>
-<br>
-		<table border="0" width="100%" cellspacing="0" cellpadding="0" bgcolor="#000000">
-	    <tbody><tr>
-	          <td><table border="0" cellspacing="0" cellpadding="0">
-	    		<tbody><tr>
-	    			<td bgcolor="#ff0000"><img src="images/spacer.gif" width="6" height="1"></td>
-	    			<td bgcolor="#ffffff"><img src="images/spacer.gif" width="1" height="1"></td>
-	        		<td>
-	                <table border="0" cellspacing="0" width="100%" cellpadding="2">
-	                  <tbody><tr>
-	                    <td width="100%"><font color="#ffffff">Search Engine</font></td>
-	                  </tr>
-	                </tbody></table>
-	                </td>
-				</tr>
-				</tbody></table></td>
-	    </tr>
-	  </tbody></table>
-	<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top">&nbsp;&nbsp;•&nbsp;</td><td><a href="http://www.stcatharinesstandard.ca/webapp/sitepages/gencontent.asp?catname=Readers+Questions&amp;catmainname=Search+Engine&amp;psttme=12">Readers Questions
-</a>
-</td></tr></tbody></table>
-<br>
-		<table border="0" width="100%" cellspacing="0" cellpadding="0" bgcolor="#000000">
-	    <tbody><tr>
-	          <td><table border="0" cellspacing="0" cellpadding="0">
-	    		<tbody><tr>
-	    			<td bgcolor="#ff0000"><img src="images/spacer.gif" width="6" height="1"></td>
-	    			<td bgcolor="#ffffff"><img src="images/spacer.gif" width="1" height="1"></td>
-	        		<td>
-	                <table border="0" cellspacing="0" width="100%" cellpadding="2">
-	                  <tbody><tr>
-	                    <td width="100%"><font color="#ffffff">Suzannes Story</font></td>
-	                  </tr>
-	                </tbody></table>
-	                </td>
-				</tr>
-				</tbody></table></td>
-	    </tr>
-	  </tbody></table>
-	<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top">&nbsp;&nbsp;•&nbsp;</td><td><a href="http://www.stcatharinesstandard.ca/webapp/sitepages/gencontent.asp?catname=Read+The+Series&amp;catmainname=Suzannes+Story&amp;psttme=12">Read The Series
-</a>
-</td></tr></tbody></table>
-<br>
-		<table border="0" width="100%" cellspacing="0" cellpadding="0" bgcolor="#000000">
-	    <tbody><tr>
-	          <td><table border="0" cellspacing="0" cellpadding="0">
-	    		<tbody><tr>
-	    			<td bgcolor="#ff0000"><img src="images/spacer.gif" width="6" height="1"></td>
-	    			<td bgcolor="#ffffff"><img src="images/spacer.gif" width="1" height="1"></td>
-	        		<td>
-	                <table border="0" cellspacing="0" width="100%" cellpadding="2">
-	                  <tbody><tr>
-	                    <td width="100%"><font color="#ffffff">Sunshine List</font></td>
-	                  </tr>
-	                </tbody></table>
-	                </td>
-				</tr>
-				</tbody></table></td>
-	    </tr>
-	  </tbody></table>
-	<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top">&nbsp;&nbsp;•&nbsp;</td><td><a href="http://www.stcatharinesstandard.ca/webapp/sitepages/gencontent.asp?catname=Public+sector+salaries+over+%24125%2C000&amp;catmainname=Sunshine+List&amp;psttme=9">Public sector salaries over $125,000
-</a>
-</td></tr></tbody></table>
-<br>
-		<table border="0" width="100%" cellspacing="0" cellpadding="0" bgcolor="#000000">
-	    <tbody><tr>
-	          <td><table border="0" cellspacing="0" cellpadding="0">
-	    		<tbody><tr>
-	    			<td bgcolor="#ff0000"><img src="images/spacer.gif" width="6" height="1"></td>
-	    			<td bgcolor="#ffffff"><img src="images/spacer.gif" width="1" height="1"></td>
-	        		<td>
-	                <table border="0" cellspacing="0" width="100%" cellpadding="2">
-	                  <tbody><tr>
-	                    <td width="100%"><font color="#ffffff">Footprint On Niagara</font></td>
-	                  </tr>
-	                </tbody></table>
-	                </td>
-				</tr>
-				</tbody></table></td>
-	    </tr>
-	  </tbody></table>
-	<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top">&nbsp;&nbsp;•&nbsp;</td><td><a href="http://www.stcatharinesstandard.ca/webapp/sitepages/gencontent.asp?catname=Read+The+Footprint+Series&amp;catmainname=Footprint+On+Niagara&amp;psttme=9">Read The Footprint Series
-</a>
-</td></tr></tbody></table>
-<br>
-		<table border="0" width="100%" cellspacing="0" cellpadding="0" bgcolor="#000000">
-	    <tbody><tr>
-	          <td><table border="0" cellspacing="0" cellpadding="0">
-	    		<tbody><tr>
-	    			<td bgcolor="#ff0000"><img src="images/spacer.gif" width="6" height="1"></td>
-	    			<td bgcolor="#ffffff"><img src="images/spacer.gif" width="1" height="1"></td>
-	        		<td>
-	                <table border="0" cellspacing="0" width="100%" cellpadding="2">
-	                  <tbody><tr>
-	                    <td width="100%"><font color="#ffffff">Obesity series</font></td>
-	                  </tr>
-	                </tbody></table>
-	                </td>
-				</tr>
-				</tbody></table></td>
-	    </tr>
-	  </tbody></table>
-	<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top">&nbsp;&nbsp;•&nbsp;</td><td><a href="http://www.stcatharinesstandard.ca/webapp/sitepages/gencontent.asp?catname=Battle+of+the+Niagara+Bulge&amp;catmainname=Obesity+series&amp;psttme=9">Battle of the Niagara Bulge
-</a>
-</td></tr></tbody></table>
-
-<!----Start of Features Section-->
-	  <br>
-	  <table border="0" width="100%" cellspacing="0" cellpadding="0" bgcolor="#000000">
-	    <tbody><tr>
-	          <td><table border="0" cellspacing="0" cellpadding="0">
-	    		<tbody><tr>
-	    			<td bgcolor="#ff0000"><img src="images/spacer.gif" width="6" height="1"></td>
-	    			<td bgcolor="#ffffff"><img src="images/spacer.gif" width="1" height="1"></td>
-	        		<td>
-	                <table border="0" cellspacing="0" width="100%" cellpadding="2">
-	                  <tbody><tr>
-	                    <td width="100%"><font color="#ffffff">Features</font></td>
-	                  </tr>
-	                </tbody></table>
-	                </td>
-				</tr>
-				</tbody></table></td>
-	    </tr>
-	  </tbody></table>
-	  <table border="0" cellspacing="0" cellpadding="0">
-	 	 <!--tr>
-	 		 <td valign="top">&nbsp;&nbsp;&#149;&nbsp;</td>
-  	 		 <td valign="top">
-				<a href="/webapp/sitepages/content_list.asp?catname=Automotive&catmainname=Automotive">
-				Automotive</a></td>
-	 	 </TR>
-	 	 <tr>
-	 		 <td valign="top">&nbsp;&nbsp;&#149;&nbsp;</td>
-  	 		 <td valign="top">
-				<a href="/webapp/sitepages/content_list.asp?catname=Home&catmainname=Home">
-				Home</a></td>
-	 	 </TR-->
-	 	 
-	 	  <!--tr>
-	 		 <td valign="top">&nbsp;&nbsp;&#149;&nbsp;</td>
-  	 		 <td valign="top">
-				<a href="/webapp/sitepages/ospreyhealth/?pg=8605">Osprey Health Series</a></td>
-	 	 </tr-->
-	 	 
-	 	  <tbody><tr>
-	 		 <td valign="top">&nbsp;&nbsp;•&nbsp;</td>
-  	 		 <td valign="top">
-				<a href="/webapp/sitepages/content_list.asp?catname=Osprey+Writers+Group&amp;catmainname=Osprey+Writers+Group">
-				Osprey Writers Group</a></td>
-	 	 </tr>
-	 	  <tr>
-	 		 <td valign="top">&nbsp;&nbsp;•&nbsp;</td>
-  	 		 <td valign="top">
-				<a href="/webapp/sitepages/content_list.asp?catname=Ottawa+column&amp;catmainname=Ottawa+column">
-				Ottawa Column</a></td>
-	 	 </tr>
-	 	  <tr>
-	 		 <td valign="top">&nbsp;&nbsp;•&nbsp;</td>
-  	 		 <td valign="top">
-				<a href="/webapp/sitepages/content_list.asp?catname=Queens+Park&amp;catmainname=Queens+Park">
-				Queen's Park Column</a> </td>
-	 	 </tr>
-	 	 <!--tr>
-	 		 <td valign="top">&nbsp;&nbsp;&#149;&nbsp;</td>
-  	 		 <td valign="top"><a href="/webapp/sitepages/feature.asp">Special 
-				Report</a></td>
-	 	 </TR-->
-	 	 <!--tr>
-	 		 <td valign="top">&nbsp;&nbsp;&#149;&nbsp;</td>
-  	 		 <td valign="top">
-				<a href="/webapp/sitepages/content_list.asp?catname=Travel&catmainname=Travel">Travel</a><br>
-			</td>
-	 	 </TR-->
-	 	 
-	  </tbody></table>
-<!----End of Features Section-->
+    </ul>
 
 
-  <br>
+                            </div>
+                            <div id="inTopMedia"><script type="text/javascript" src="http://kestrel.ospreymedialp.com/JBSPro/files/JBSPro.asp?JS=1&amp;Z=348"></script></div>
+                            <div class="spacer"></div>
+		                </div>
+			        </div>
+			    </div>
+
+                <div class="toptube">
+                    <div id="inBody">
+                    
+                        
 
 
-<table border="0" width="100%" cellspacing="0" cellpadding="0" bgcolor="#000000">
-    <tbody><tr>
-          <td><table border="0" cellspacing="0" cellpadding="0">
-    		<tbody><tr>
-    			<td bgcolor="#ff0000"><img src="images/spacer.gif" width="5" height="1"></td>
-    			<td bgcolor="#ffffff"><img src="images/spacer.gif" width="1" height="1"></td>
-        		<td>
-                <table border="0" cellspacing="0" width="100%" cellpadding="2">
-                  <tbody><tr>
-                    <td width="100%"><font color="#ffffff">Osprey Personals</font></td>
-                  </tr>
-                </tbody></table></td>
-			</tr>
-			</tbody></table></td>
-    </tr>
-  </tbody></table>
-<!--put on line 373 sitecontent.asp--><!--put on line 172 sitemenu.asp-->
-<table cellspacing="0" width="100%" border="0">
-  <tbody>
+        <div id="inTitle">
+<h2>Osprey Media.</h2>
+<h3>WEB-SITE PRIVACY POLICY</h3>
+</div>
 
-    <tr>
-      <td>
-      <table border="0" cellpadding="0" cellspacing="0">
-      	<tbody><tr>
-			<td valign="top">&nbsp;&nbsp;•&nbsp;</td>
-      		<td valign="top"><a href="http://stcatharines.ospreypersonals.com">Osprey 
-            Personals</a>
-      		</td>
-      	</tr>
-	   </tbody></table>
-	  
-        </td>
-    </tr>
-    
-
-  </tbody>
-</table>
-
- <br>
-   <table border="0" width="100%" cellspacing="0" cellpadding="0" bgcolor="#000000">
-    <tbody><tr>
-          <td><table border="0" cellspacing="0" cellpadding="0">
-    		<tbody><tr>
-    			<td bgcolor="#ff0000"><img src="images/spacer.gif" width="6" height="1"></td>
-    			<td bgcolor="#ffffff"><img src="images/spacer.gif" width="1" height="1"></td>
-        		<td>
-                <table border="0" cellspacing="0" width="100%" cellpadding="2">
-                  <tbody><tr>
-                    <td width="100%"><font color="#ffffff">Feedback</font></td>
-                  </tr>
-                </tbody></table></td>
-			</tr>
-			</tbody></table></td>
-    </tr>
-  </tbody></table>
-
- <table cellspacing="0" width="100%" border="0">
-  <tbody>
-    <tr>
-      <td width="100%">
-      <table border="0" cellpadding="0" cellspacing="0">
-      	<tbody><tr>
-			<td valign="top">&nbsp;&nbsp;•&nbsp;</td>
-      		<td valign="top">
-      <a href="/webapp/feedback/feedbackcontent.asp?catmainname=Feedback&amp;catname=Read+Feedback">Read Feedback</a>
-      		</td>
-      	</tr>
-      	
-      	
-      	<tr>
-			<td valign="top">&nbsp;&nbsp;•&nbsp;</td>
-      		<td valign="top">
-        <a href="/webapp/feedback/feedbackcontentadd.asp?catmainname=Feedback&amp;catname=Post+Feedback">Post Feedback</a>
-      		</td>
-      	</tr>
-      			
-      	
-      	<tr>
-			<td valign="top">&nbsp;&nbsp;•&nbsp;</td>
-      		<td valign="top"><a href="/webapp/sitepages/contact.asp?catname=Contact&amp;catmainname=Reader+Services">Contact</a></td>
-      	</tr>
-      			
-      </tbody></table>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-<!---OSPREY NEWS ARCHIVE---->
-	  
-	  		  	  <br>
-	  <table border="0" width="100%" cellspacing="0" cellpadding="0" bgcolor="#000000">
-	    <tbody><tr>
-	          <td><table border="0" cellspacing="0" cellpadding="0">
-	    		<tbody><tr>
-	    			<td bgcolor="#ff0000"><img src="images/spacer.gif" width="6" height="1"></td>
-	    			<td bgcolor="#ffffff"><img src="images/spacer.gif" width="1" height="1"></td>
-	        		<td>
-	                <table border="0" cellspacing="0" width="100%" cellpadding="2">
-	                  <tbody><tr>
-	                    <td width="100%"><font color="#FFFFFF">Osprey News 
-						Archive Service</font></td>
-	                  </tr>
-	                </tbody></table>
-	                </td>
-				</tr>
-				</tbody></table></td>
-	    </tr>
-	  </tbody></table>
-	  <table border="0" cellspacing="0" cellpadding="0">
-	 	 <tbody><tr>
-	 		 <td valign="top">&nbsp;&nbsp;•&nbsp;</td>
-  	 		 <td valign="top">
-				<a href="/webapp/sitepages/archives.asp">
-				Archive Service</a></td>
-	 	 </tr>
-		</tbody></table>  
-<br><a href="http://www.voiceprintcanada.com/content/view/163/156/"><img src="/webapp/images/VP-stCatharines120x60.gif" border="0"></a><!---OSPREY NEWS ARCHIVE---->
-      </td>
-      <td><img src="/webapp/sitepages/images/spacer.gif" width="5"></td>
-      <td valign="top" width="468">
-      		
-<center><b><font face="Arial, Helvetica, Garmond" size="5">OSPREY MEDIA
-      GROUP LP</font>
-<font face="Arial, Helvetica, Garmond" size="2"><br>
-<br>
-<b style="mso-bidi-font-weight: normal">WEB-SITE PRIVACY POLICY</b></font></b></center><b>
-<p><font face="Arial, Helvetica, Garmond" size="1">Welcome to www.stcatharinesstandard.ca (the "Site").</font>
+<p>Welcome to www.stcatharinesstandard.ca (the "Site").
 </p><blockquote>
-  <p><font face="Arial, Helvetica, Garmond" size="1">We understand that privacy online is important to users of our Site, especially
+  <p>We understand that privacy online is important to users of our Site, especially
 when conducting business.<br>
 This statement governs our privacy policies with respect to those users of the
 Site ("Visitors") who visit without<br>
 transacting business and Visitors who register to transact business on the Site
 and make use of the various services offered by www.stcatharinesstandard.ca
 (collectively, "Services") ("Authorized Customers").<br>
-  </font>
+  
   </p>
 </blockquote>
-<p><font face="Arial, Helvetica, Garmond" size="1">
-"Personally Identifiable Information"</font>
+<p>
+"Personally Identifiable Information"
 </p>
 <blockquote>
-  <p><font face="Arial, Helvetica, Garmond" size="1">refers to any information that identifies or can be used to identify, contact,
+  <p>refers to any information that identifies or can be used to identify, contact,
 or locate the person to whom such information pertains, including, but not
 limited to, name, address, phone number, fax number, email address, financial
 profiles, social security number, and credit card information. Personally
 Identifiable Information does not include information that is collected
 anonymously (that is, without identification of the individual user)
 or demographic information not connected to an identified individual.<br>
-  </font>
+  
   </p>
 </blockquote>
-<p><font face="Arial, Helvetica, Garmond" size="1">
-What Personally Identifiable Information is collected?</font>
+<p>
+What Personally Identifiable Information is collected?
 </p>
 <blockquote>
-  <p><font face="Arial, Helvetica, Garmond" size="1">We may collect basic user profile information from all of our Visitors. We
+  <p>We may collect basic user profile information from all of our Visitors. We
 collect the following additional information from our Authorized Customers: the
 names, addresses, phone numbers and email addresses of Authorized Customers, the
 nature and size of the business, and the nature and size of the advertising
 inventory that the Authorized Customer intends to purchase or sell.<br>
-  </font>
+  
   </p>
 </blockquote>
-<p><font face="Arial, Helvetica, Garmond" size="1">
-What organizations are collecting the information?</font>
+<p>
+What organizations are collecting the information?
 </p>
 <blockquote>
-  <p><font face="Arial, Helvetica, Garmond" size="1">In addition to our direct collection of information, our third party service
+  <p>In addition to our direct collection of information, our third party service
 vendors (such as credit card companies, clearinghouses and banks) who may
 provide such services as credit, insurance, and escrow services may collect this
 information from our Visitors and Authorized Customers. We do not control how
@@ -950,88 +431,88 @@ they use personal information provided to them from Visitors and Authorized
 Customers. Some of these third parties may be intermediaries that act solely as
 links in the distribution chain, and do not store, retain, or use the
 information given to them.<br>
-  </font>
+  
   </p>
 </blockquote>
-<p><font face="Arial, Helvetica, Garmond" size="1">
-How does the Site use Personally Identifiable Information?</font>
+<p>
+How does the Site use Personally Identifiable Information?
 </p>
 <blockquote>
-  <p><font face="Arial, Helvetica, Garmond" size="1">We use Personally Identifiable Information to customize the Site, to make
+  <p>We use Personally Identifiable Information to customize the Site, to make
 appropriate service offerings, and to fulfill buying and selling requests on the
 Site. We may email Visitors and Authorized Customers about research or purchase
 and selling opportunities on the Site or information related to the subject
 matter of the Site. We may also use Personally Identifiable Information to
 contact Visitors and Authorized Customers in response to specific inquiries, or
 to provide requested information.<br>
-  </font>
+  
   </p>
 </blockquote>
-<p><font face="Arial, Helvetica, Garmond" size="1">
-With whom may the information may be shared?</font>
+<p>
+With whom may the information may be shared?
 </p>
 <blockquote>
-  <p><font face="Arial, Helvetica, Garmond" size="1">Personally Identifiable Information about Authorized Customers may be shared
+  <p>Personally Identifiable Information about Authorized Customers may be shared
 with other Authorized Customers who wish to evaluate potential transactions with
 other Authorized Customers. We may share aggregated information about our
 Visitors, including the demographics of our Visitors and Authorized Customers,
 with our affiliated agencies and third party vendors. We also offer the
 opportunity to "opt out" of receiving information or being contacted
 by us or by any agency acting on our behalf.<br>
-  </font>
+  
   </p>
 </blockquote>
-<p><font face="Arial, Helvetica, Garmond" size="1">
-How is Personally Identifiable Information stored?</font>
+<p>
+How is Personally Identifiable Information stored?
 </p>
 <blockquote>
-  <p><font face="Arial, Helvetica, Garmond" size="1">Personally Identifiable Information collected by www.stcatharinesstandard.ca is
+  <p>Personally Identifiable Information collected by www.stcatharinesstandard.ca is
 securely stored and is not accessible to third parties or employees of
 www.stcatharinesstandard.ca except for use as indicated above.
 <br>
-  </font>
+  
   </p>
 </blockquote>
-<p><font face="Arial, Helvetica, Garmond" size="1">
+<p>
 What choices are available to Visitors regarding collection, use and
-distribution of the information?</font>
+distribution of the information?
 </p>
 <blockquote>
-  <p><font face="Arial, Helvetica, Garmond" size="1">
+  <p>
 Visitors and Authorized Customers may opt out of receiving unsolicited
 information from or being contacted by us and/or our vendors and affiliated
 agencies by responding to emails as instructed, or by contacting us at <a href="mailto:privacy@ospreymedialp.com">privacy@ospreymedialp.com</a><br>
-  </font>
+  
   </p>
 </blockquote>
-<p><font face="Arial, Helvetica, Garmond" size="1">
-Are Cookies Used on the Site?</font>
+<p>
+Are Cookies Used on the Site?
 </p>
 <blockquote>
-  <p><font face="Arial, Helvetica, Garmond" size="1">Cookies are used for a variety of reasons. We use Cookies to obtain information
+  <p>Cookies are used for a variety of reasons. We use Cookies to obtain information
 about the preferences of our Visitors and the services they select. We also use
 Cookies for security purposes to protect our Authorized Customers. For example,
 if an Authorized Customer is logged on and the site is unused for more than 10
 minutes, we will automatically log the Authorized Customer off.<br>
-  </font>
+  
   </p>
 </blockquote>
-<p><font face="Arial, Helvetica, Garmond" size="1">
-How does www.stcatharinesstandard.ca use login information?</font>
+<p>
+How does www.stcatharinesstandard.ca use login information?
 </p>
 <blockquote>
-  <p><font face="Arial, Helvetica, Garmond" size="1">www.stcatharinesstandard.ca uses login information, including, but not limited to,
+  <p>www.stcatharinesstandard.ca uses login information, including, but not limited to,
 IP addresses, ISPs, and browser types, to analyze trends, administer the Site,
 track a user's movement and use, and gather broad demographic information.<br>
-  </font>
+  
   </p>
 </blockquote>
-<p><font face="Arial, Helvetica, Garmond" size="1">
+<p>
 What partners or service providers have access to Personally Identifiable
-Information from Visitors and/or Authorized Customers on the Site?</font>
+Information from Visitors and/or Authorized Customers on the Site?
 </p>
 <blockquote>
-  <p><font face="Arial, Helvetica, Garmond" size="1">www.stcatharinesstandard.ca has entered into and will continue to enter into
+  <p>www.stcatharinesstandard.ca has entered into and will continue to enter into
 partnerships and other affiliations with a number of vendors.<br>
 Such vendors may have access to certain Personally Identifiable Information on a
 need to know basis for evaluating Authorized Customers for service eligibility.<br>
@@ -1042,14 +523,14 @@ order or subpoena or a request from a law enforcement agency to release
 information. We will also disclose Personally Identifiable Information when
 reasonably necessary to protect the safety of our Visitors and Authorized
 Customers.<br>
-  </font>
+  
   </p>
 </blockquote>
-<p><font face="Arial, Helvetica, Garmond" size="1">
-How does the Site keep Personally Identifiable Information secure?</font>
+<p>
+How does the Site keep Personally Identifiable Information secure?
 </p>
 <blockquote>
-  <p><font face="Arial, Helvetica, Garmond" size="1">All of our employees are familiar with our security policy and practices. The
+  <p>All of our employees are familiar with our security policy and practices. The
 Personally Identifiable Information of our Visitors and Authorized Customers is
 only accessible to a limited number of qualified employees who are given a
 password in order to gain access to the information. We audit our security
@@ -1060,26 +541,26 @@ commercially reasonable measures to maintain a secure site, electronic
 communications and databases are subject to errors, tampering and break-ins, and
 we cannot guarantee or warrant that such events will not take place and we will
 not be liable to Visitors or Authorized Customers for any such occurrences.<br>
-  </font>
+  
   </p>
 </blockquote>
-<p><font face="Arial, Helvetica, Garmond" size="1">
+<p>
 How can Visitors correct any inaccuracies in Personally Identifiable
-Information?</font>
+Information?
 </p>
 <blockquote>
-  <p><font face="Arial, Helvetica, Garmond" size="1">Visitors and Authorized Customers may contact us to update Personally
+  <p>Visitors and Authorized Customers may contact us to update Personally
 Identifiable Information about them or to correct any inaccuracies by emailing
 us at <a href="mailto:privacy@ospreymedialp.com">privacy@ospreymedialp.com</a><br>
-  </font>
+  
   </p>
 </blockquote>
-<p><font face="Arial, Helvetica, Garmond" size="1">
+<p>
 Can a Visitor delete or deactivate Personally Identifiable Information
-collected by the Site?</font>
+collected by the Site?
 </p>
 <blockquote>
-  <p><font face="Arial, Helvetica, Garmond" size="1">We provide Visitors and Authorized Customers with a mechanism to
+  <p>We provide Visitors and Authorized Customers with a mechanism to
 delete/deactivate Personally Identifiable Information from the Site's database
 by contacting <a href="mailto:privacy@ospreymedialp.com">privacy@ospreymedialp.com</a>.
 However, because of backups and records of deletions, it may be impossible to
@@ -1088,425 +569,227 @@ individual who requests to have Personally Identifiable Information deactivated
 will have this information functionally deleted, and we will not sell, transfer,
 or use Personally Identifiable Information relating to that individual in any
 way moving forward.<br>
-  </font>
+  
   </p>
 </blockquote>
-<p><font face="Arial, Helvetica, Garmond" size="1">What happens if the Privacy Policy Changes?</font>
+<p>What happens if the Privacy Policy Changes?
 </p>
 <blockquote>
-  <p><font face="Arial, Helvetica, Garmond" size="1">We will let our Visitors and Authorized Customers know about changes to our
+  <p>We will let our Visitors and Authorized Customers know about changes to our
 privacy policy by posting such changes on the Site. However, if we are changing
 our privacy policy in a manner that might cause disclosure of Personally
 Identifiable Information that a Visitor or Authorized Customer has previously
 requested not be disclosed, we will contact such Visitor or Authorized Customer
 to allow such Visitor or Authorized Customer to prevent such disclosure.<br>
-  </font>
+  
   </p>
 </blockquote>
-<p><font face="Arial, Helvetica, Garmond" size="1">
-Links:</font>
+<p>
+Links:
 </p>
 <blockquote>
-  <p><font face="Arial, Helvetica, Garmond" size="1">This web site contains links to other web sites. Please note that when you click
+  <p>This web site contains links to other web sites. Please note that when you click
 on one of these links, you are moving to another web site. We encourage you to
 read the privacy statements of these linked sites as their privacy policies may
 differ from ours.<br>
-  </font>
+  
   </p></blockquote>
-  <p><u><font face="Arial, Helvetica, Garmond">Contacting the Privacy Manager</font></u><br>
+  <p><u>Contacting the Privacy Manager</u><br>
 
-  <font face="Arial" size="2">The Privacy Manager</font><br>
-  <font face="Arial" size="2">Osprey Media</font><br>
-  <font face="Arial" size="2">100 Renfrew Drive, Suite 110</font><br>
-  <font face="Arial" size="2">Markham</font>,<font face="Arial" size="2">Ontario</font><br>
-  <font face="Arial" size="2">L3R 9R6</font><br>
-  <font face="Arial" size="2">905-752-1132 Ext 251</font><br>
-  <font face="Arial" size="2"><a href="mailto:privacy@ospreymedialp.com">privacy@ospreymedialp.com</a></font>
+  The Privacy Manager<br>
+  Osprey Media<br>
+  100 Renfrew Drive, Suite 110<br>
+  Markham,Ontario<br>
+  L3R 9R6<br>
+  905-752-1132 Ext 251<br>
+  <a href="mailto:privacy@ospreymedialp.com">privacy@ospreymedialp.com</a>
 
-</p><p align="left"><font face="Arial,Helvitica,Garmond" size="1">Any rights not expressly granted herein are reserved.<br>
-<font face="Arial, Helvetica, Garmond" size="1">© 2007www.stcatharinesstandard.ca , All rights
+</p><p align="left">Any rights not expressly granted herein are reserved.<br>
+© 2007 www.stcatharinesstandard.ca, All rights
 reserved.
 Unauthorized duplication or publication of any materials from this Site is
-expressly prohibited.</font>
+expressly prohibited.
 
-</font></p><hr noshade="" size="1" color="#C0C0C0"><font face="Arial,Helvitica,Garmond" size="1">
-      </font><font face="Arial,Helvitica,Garmond" size="1"><!-- Webmaster please do not remove the below code -->
+</p><hr noshade="" size="1" color="#C0C0C0">
+      <!-- Webmaster please do not remove the below code -->
 <!-- We would like to keep our utilities free. -->
 <!-- Thank you! -->COPYRIGHT NOTICE.© 1999-2007 <a href="http://209.204.219.152">PriorityDigital.com</a>
       Prepared for: www.stcatharinesstandard.ca  ,All rights reserved.
-      </font></b></td>
-      <td>
-	<img src="/webapp/sitepages/images/spacer.gif" width="5"></td>
-      <td width="150" nowrap="" valign="top">
-   	      	
-<script>
+
+                        
+                        
+                        <br>
+                        <br>
+                        <div class="toptube">
+                            <script type="text/javascript">
 <!--
-function
-cedromSrch(form) {
-var cedromUrl = "search/archive_results.asp";
-
-	if (form.srchWhere[1].checked) {
-		form.action = cedromUrl + "?text=" + form.txtKeyword.value;
-	} else {
-		form.action = "/webapp/sitepages/search/search.asp";	
-	}
-
-	return true;
-}
--->
+google_ad_client = "pub-6647249495945978";
+google_ad_width = 336;
+google_ad_height = 280;
+google_ad_format = "336x280_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "cccccc";
+google_color_bg = "FFFFFF";
+google_color_link = "FF0000";
+google_color_text = "000000";
+google_color_url = "FF0000";
+//-->
 </script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+                        </div>
+			           
+                    </div>
+                    
+                    <div id="inSideMedia">
+                        
+<div id="quick_search" class="toptube">
+					<div class="blueo">
+						<div class="content">
+							<div class="t"></div>
+							<div class="d">
 
-<form method="post" action="/webapp/sitepages/search/search.asp" onsubmit="return cedromSrch(this);">
-	<table border="0" width="24%" id="table1" cellspacing="0" cellpadding="0">
-		<tbody><tr>
-			<td width="113">
-  <table border="0" width="100%" cellspacing="0" cellpadding="0" bgcolor="#000000" id="table2">
-    <tbody><tr>
-          <td><table border="0" cellspacing="0" cellpadding="0" id="table3">
-    		<tbody><tr>
-    			<td bgcolor="#ff0000">
-				<img src="../includes/images/spacer.gif" width="5" height="1"></td>
-    			<td bgcolor="#ffffff">
-				<img src="../includes/images/spacer.gif" width="1" height="1"></td>
-        		<td><font color="#FFFFFF">&nbsp;Article Search</font><font size="2" face="arial,helvetica,verdana,sans-serif" color="#ffffff"></font></td>
-			</tr>
-			</tbody></table></td>
-    </tr>
-  </tbody></table>		
-              </td>
-			<td bgcolor="#000000"></td>
-		</tr>
-		<tr>
-			<td width="113">
-			<p align="left">
-			<input type="text" name="txtKeyword" size="15"></p></td>
-			<td>
-			<input type="submit" value="Search" name="butSearch" style="font-size: 10px"></td>
-		</tr>
-		</tbody></table>
-		
-		<table border="0" width="100%" id="table5" cellspacing="0" cellpadding="0"> 
-		<tbody><tr>
-			<td>
-			<input type="radio" name="srchWhere" value="1" checked="">Past 7 days - FREE
-			</td>
-		</tr>
-		<tr>
-			<td>
-			<input type="radio" name="srchWhere" value="0">Archive Service
-			</td>
-		</tr>
-		</tbody></table>
-	<input type="hidden" name="txtdays" value="7">
-	<input type="hidden" name="np_search" value="www.stcatharinesstandard.ca">
-</form>
-  <table border="0" width="100%" cellspacing="0" cellpadding="0" bgcolor="#000000">
-    <tbody><tr>
-          <td><table border="0" cellspacing="0" cellpadding="0">
-    		<tbody><tr>
-    			<td bgcolor="#ff0000"><img src="images/spacer.gif" width="6" height="1"></td>
-    			<td bgcolor="#ffffff"><img src="images/spacer.gif" width="1" height="1"></td>
-        		<td>&nbsp;<font color="#ffffff">Special Interest</font></td>
-			</tr>
-			</tbody></table></td>
-    </tr>
-  </tbody></table>
-<table border="0" cellspacing="0" width="100%" cellpadding="0">
-		<tbody><tr>
-		<td>
-
-		
-			• <a href="/webapp/sitepages/readerservices/dealeroutlets.asp?catmainname=Reader+Services&amp;catname=Single+Copy+Outlets">Single Copy Outlets</a>
-    	<br>
-    	
-			• <a href="/webapp/sitepages/readerservices/subscribe.asp?catname=Subscribe&amp;catmainname=Reader+Services">Subscribe</a>
-    	<br>
-		
-			• <a href="/webapp/sitepages/contact.asp?catname=Contact&amp;catmainname=Reader+Services">Contacts</a>
-    	<br>
-		
-		</td>
-		</tr>
-</tbody></table>
-
-
-
-
-<p align="center">
-	<script type="text/javascript" src="http://kestrel.ospreymedialp.com/JBSPro/files/JBSPro.asp?JS=1&amp;Z=349"></script>
-
-      
-			<table cellspacing="0" cellpadding="0" width="100%" border="0" background="/webapp/sitepages/images/h_dot.gif">
-    			<tbody><tr>
-        		  <td><img src="/webapp/sitepages/images/spacer.gif" height="1" width="1"></td>
-    			</tr>
-			</tbody></table>
-			<br>
-            
-<iframe width="150" height="90" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000" src="/webapp/sitepages/includes/weather.asp?city=CAON0638">
-</iframe>
-
-                <!--<IFRAME WIDTH=150 HEIGHT=90 MARGINWIDTH=0 MARGINHEIGHT=0 HSPACE=0 VSPACE=0 FRAMEBORDER=0 SCROLLING=no BORDERCOLOR="#000000" SRC="/webapp/sitepages/includes/weather.asp?city=CAON0638">
-                </IFRAME>-->
-
-              <table border="0" width="100%" cellpadding="0" cellspacing="0">
-                
-                <tbody><tr>
-                	<td align="center" valign="top"><br>
-                <center>
-
-	    <!--include virtual = "/webapp/sitepages/includes/ohl_sports_side_ads.asp" -->
+                    <div class="toptube">
+                        <input name="ctl00$SearchBox$SearchBox" type="text" id="ctl00_SearchBox_SearchBox" class="qksrch">
+                        <input name="ctl00$SearchBox$HiddenBox" type="text" id="ctl00_SearchBox_HiddenBox" style="visibility:hidden;display:none;">
+                        <span class="qksrchrad"><input id="ctl00_SearchBox_RadioButton1" type="radio" name="ctl00$SearchBox$sg_chk" value="RadioButton1" checked="checked"><label for="ctl00_SearchBox_RadioButton1">Past 7 days - FREE</label></span><br>
+                        <span class="qksrchrad"><input id="ctl00_SearchBox_RadioButton2" type="radio" name="ctl00$SearchBox$sg_chk" value="RadioButton2"><label for="ctl00_SearchBox_RadioButton2">Archive Service</label></span><br>
+                        <span class="qksrchrad"><input id="ctl00_SearchBox_RadioButton3" type="radio" name="ctl00$SearchBox$sg_chk" value="RadioButton3"><label for="ctl00_SearchBox_RadioButton3">UR Niagara</label></span>
+                        <div class="toptube aCenter"><input type="submit" name="ctl00$SearchBox$SearchButton" value="Search" id="ctl00_SearchBox_SearchButton" class="qksrchbtn"></div>
+                    </div>
 	
-<script type="text/javascript" language="JavaScript1.1">
-<!-- Osprey-Media@Wide Skyscraper (160x600 and 120x600)
-if (typeof OAS_rns == "undefined") OAS_rns = new String (Math.random()).substring(2, 11);
-document.write('<scr'+'ipt LANGUAGE="JavaScript1.1" SRC="http://network-ca.247realmedia.com/RealMedia/ads/adstream_jx.ads/Osprey-Media/1'+OAS_rns+'@Top1,x10,x15,Position3!x10?JX&XE&CAT=privacystatement&XE&city=st.catharines&state=ontario&newspaper=www.stcatharinesstandard.ca"></scr'+'ipt>');
-// -->
-</script><script language="JavaScript1.1" src="http://network-ca.247realmedia.com/RealMedia/ads/adstream_jx.ads/Osprey-Media/1701155323@Top1,x10,x15,Position3!x10?JX&amp;XE&amp;CAT=privacystatement&amp;XE&amp;city=st.catharines&amp;state=ontario&amp;newspaper=www.stcatharinesstandard.ca"></script>
-</center>
-                	</td>
-                </tr>
-                
-              </tbody></table>
-		</p></td>
-	  </tr>
-	</tbody></table>
-<br>
+							</div>
+						</div>
+						<div class="b"><div></div></div>
+					</div>
+					
+</div>
 
-<table cellspacing="0" cellpadding="3" width="770" border="0" bgcolor="#ff0000">
-    <tbody><tr>
-      <td width="55%">
+                        
 
-        <font size="1" face="verdana">
-        <a href="/webapp/sitepages/gencontent.asp?disclaimer=1&amp;catname=Web+Site+Disclaimer&amp;catmainname=Notices" class="footerlink">Disclaimer</a> 
-        <font color="#ffffff">•</font>
-        <a href="/webapp/sitepages/gencontent.asp?privacy=1&amp;catname=Privacy+Statement&amp;catmainname=Notices" class="footerlink">Privacy</a><font color="#ffffff"> •</font>
-        <a class="footerlink" target="_blank" href="http://ospreymediagroup.com/corporate/default.asp?section=advertise">Website Advertising Opportunities</a><font color="#ffffff"> •</font>
-        <a href="/webapp/sitepages/newsfeedsignup.asp"><font color="#ffffff">Osprey News Feed</font></a>
-        </font>
-      </td>
-      <td width="43%">
-        <p align="right"><font color="#ffffff">© 2007, Osprey Media
-        </font>
-      </p></td>
-    </tr>
+
+			            <div class="kestrel aCenter">
+				            <script type="text/javascript" src="http://kestrel.ospreymedialp.com/JBSPro/files/JBSPro.asp?JS=1&amp;Z=746"></script>
+			            </div>
+			            
+			            <div class="toptube aCenter">
+				            <script type="text/javascript" src="http://kestrel.ospreymedialp.com/JBSPro/files/JBSPro.asp?JS=1&amp;Z=349"></script>
+			            </div>
+			            
+			            
+			
+			            <div class="toptube aCenter">
+				            <script type="text/javascript" src="http://kestrel.ospreymedialp.com/JBSPro/files/JBSPro.asp?JS=1&amp;Z=884"></script>
+			            </div>
+			            
+                    </div>
+                    <div class="spacer"></div>
+                </div>
+			</div>
+		</div>
+	</div>
+
+	<div id="rightcolumn">
+		<div id="rctube">
+		
+
+            <div class="gSilo">
+	            <div class="rt"></div>
+	            <div class="tube">
+
+							
+                        <div id="ctl00_fpComNewsBlogs">
+	
+							<div class="subcontent">
+								<div id="subcontentnb">
+								    <a href="/community/default.aspx"><img src="/images/cmonbsm.gif" width="156" height="40" style="border: 0"></a>
+								</div>
+								<div class="subcontentbody">
+								<div class="tube">
+                                    <div id="fpCMArticles"><ul id="fpCMArticleList"><li><a href="/Community/NewsDisplay.aspx?c=2362">The  Lasting Effects of  a Child's Early Moral Training</a><p class="fpArticleBody">Parents will not realize, perhaps until much later in life, the long-lasting effect of the moral values they teach their children. The young child's mind  [...]</p><p class="fpArticlePostedBy">Posted by <a href="/Account/Profile.aspx?un=carolyn">carolyn</a> | <a href="/Community/NewsDisplay.aspx?c=2362&amp;#threads">Comments</a></p></li><li><a href="/Community/NewsDisplay.aspx?c=2087">Service Clubs go green for Christmas</a><p class="fpArticleBody">By ALISON LANGLEY Niagara Falls Review   On a chilly winter afternoon, Gabe Marinelli proudly surveys his forest.   "We only get top  [...]</p><p class="fpArticlePostedBy">Posted by <a href="/Account/Profile.aspx?un=stamfordkiwanis">stamfordkiwanis</a> | <a href="/Community/NewsDisplay.aspx?c=2087&amp;#threads">Comments</a></p></li><li><a href="/Community/NewsDisplay.aspx?c=2329">Are Newspapers and Magazines Destined to Become Obsolete?</a><p class="fpArticleBody">Newspapers and magazines will not face extinction for many years to come, if ever. They offer too many advantages over modern, fast-forward methods of communicating  [...]</p><p class="fpArticlePostedBy">Posted by <a href="/Account/Profile.aspx?un=carolyn">carolyn</a> | <a href="/Community/NewsDisplay.aspx?c=2329&amp;#threads">Comments</a></p></li><li><a href="/Community/NewsDisplay.aspx?c=2315">Confidence: A Gift We Give Each Other All Year Round.</a><p class="fpArticleBody">The Oxford English Dictionary defines confidence as "a positive feeling gained from a belief in your own ability to do things well", and "faith in  [...]</p><p class="fpArticlePostedBy">Posted by <a href="/Account/Profile.aspx?un=carolyn">carolyn</a> | <a href="/Community/NewsDisplay.aspx?c=2315&amp;#threads">Comments</a></p></li><li><a href="/Community/NewsDisplay.aspx?c=2328">Things To Say About a Gift a Hate</a><p class="fpArticleBody">It's happened to everyone: you receive a gift from a well-meaning but imprudent family member or friend which is absolutely unbelievable in its ugliness, uselessness,  [...]</p><p class="fpArticlePostedBy">Posted by <a href="/Account/Profile.aspx?un=carolyn">carolyn</a> | <a href="/Community/NewsDisplay.aspx?c=2328&amp;#threads">Comments</a></p></li></ul></div><div id="fpCMBlogs"><ul id="fpBlogList"><li><a href="http://www.stcatharinesstandard.ca/Blogs/ViewCommunityPage.aspx?BlogID=623">John MacDonald Memorial MD Hockey Tournament</a><p class="fpBlogBody">We are very pleased to say that the John MacDonald MD Memorial Hockey Tournament is now full with 120 Minor Hockey Teams. Ranging from Major [...]</p><p class="fpBlogPostedBy">Posted by <a href="http://www.stcatharinesstandard.ca/Account/profile.aspx?un=jmacdonald">jmacdonald</a> | <a href="http://www.stcatharinesstandard.ca/blogs/ViewCommunityPage.aspx?BlogID=623&amp;#threads">Comments</a></p></li><li><a href="http://www.stcatharinesstandard.ca/Blogs/ViewCommunityPage.aspx?BlogID=617">Ten Things to Say About a Gift You Hate</a><p class="fpBlogBody">It's happened to everyone: you receive a gift from a well-meaning but imprudent family member or friend which is absolutely unbelievable in its ugliness, uselessness, [...]</p><p class="fpBlogPostedBy">Posted by <a href="http://www.stcatharinesstandard.ca/Account/profile.aspx?un=carolyn">carolyn</a> | <a href="http://www.stcatharinesstandard.ca/blogs/ViewCommunityPage.aspx?BlogID=617&amp;#threads">Comments</a></p></li><li><a href="http://www.stcatharinesstandard.ca/Blogs/ViewCommunityPage.aspx?BlogID=356">Open Letter from Stamford Kiwanis Club</a><p class="fpBlogBody">Letter to the Citizens of Niagara Falls   THE KIWANIS CLUB OF STAMFORD INC.  An open letter to the citizens of NIAGARA FALLS [...]</p><p class="fpBlogPostedBy">Posted by <a href="http://www.stcatharinesstandard.ca/Account/profile.aspx?un=stamfordkiwanis">stamfordkiwanis</a> | <a href="http://www.stcatharinesstandard.ca/blogs/ViewCommunityPage.aspx?BlogID=356&amp;#threads">Comments</a></p></li><li><a href="http://www.stcatharinesstandard.ca/Blogs/ViewCommunityPage.aspx?BlogID=339">John MacDonald Memorial MD Hockey Tournament</a><p class="fpBlogBody">The John MacDonald MD Hockey Tournament Committee is excited to announce that we now have over 100 teams signed up for our tournament and we [...]</p><p class="fpBlogPostedBy">Posted by <a href="http://www.stcatharinesstandard.ca/Account/profile.aspx?un=jmacdonald">jmacdonald</a> | <a href="http://www.stcatharinesstandard.ca/blogs/ViewCommunityPage.aspx?BlogID=339&amp;#threads">Comments</a></p></li><li><a href="http://www.stcatharinesstandard.ca/Blogs/ViewCommunityPage.aspx?BlogID=213">Niagara Regional Literacy Council</a><p class="fpBlogBody">Niagara Regional Literacy Counciloffers free, confidential, one-on-one tutoring for adults unable to read or write. We also offer basic math, computer and workplace skills. For [...]</p><p class="fpBlogPostedBy">Posted by <a href="http://www.stcatharinesstandard.ca/Account/profile.aspx?un=regionaliteracy">regionaliteracy</a> | <a href="http://www.stcatharinesstandard.ca/blogs/ViewCommunityPage.aspx?BlogID=213&amp;#threads">Comments</a></p></li></ul></div>
+                                </div>
+								</div>
+								<div class="subcontentfooter"></div>
+							</div>
+                        
+</div>
+                            <div class="toptube">
+				                    
+                            <div class="spacer"></div>
+                        </div>
+						<div class="toptube subcontent">
+							<div id="subcontentpv">
+							    <a href="http://myphotos.stcatharinesstandard.ca/"><img src="/images/cmopvsm.gif" );="" width="156" height="40" border="0"></a>
+							</div>
+							<div class="subcontentbody">
+								<div class="tube">
+								 
+								 <table id="ctl00_PGal1_DataList1" cellspacing="0" border="0" width="100%">
+	<tbody><tr>
+		<td>
+        <div style="text-align:center">
+            <a id="ctl00_PGal1_DataList1_ctl00_HyperLink1" href="http://myphotos.stcatharinesstandard.ca/mycapture/photos/Album.aspx?EventID=334763&amp;CategoryID=33240"><img id="ctl00_PGal1_DataList1_ctl00_Image1" src="http://myphotos.stcatharinesstandard.ca/PHOTOS/SCST/1UserPhotos/175162T.jpg" border="0"><br>
+                Niagara Falls</a>
+        </div>
+    </td><td></td><td></td><td></td>
+	</tr>
 </tbody></table>
-<table cellspacing="0" cellpadding="0" width="770" border="0" bgcolor="#000000">
-    <tbody><tr>
-          <td><img src="images/spacer.gif" height="5" width="1"></td>
-    </tr>
-</tbody></table>
+					         
+								</div>
+							</div>
+							<div class="subcontentfooter"></div>
+						</div>
+						
+						<div class="toptube">
+							<a href="/account/?sir=1&amp;continue=%2fAccount%2fAlerts.aspx"><img src="/images/signupfor.gif" width="156" height="100" border="0"></a>
+						</div>
 
 
-<style>
-.p2wTxt, .p2wTxtTop, .p2wTxt a, .p2wTxt a:link, .p2wTxt a:visited, .p2wTxt a:hover {
-	font-size: 10px;
-	color: #777777;
-}
+						<div class="toptube">
+							<a href="javascript:PopUp('/Account/Help/iconlegend.html', 500, 400);"><img src="/images/whaticons.gif" width="156" height="100" border="0"></a>
+						</div>
 
-.p2wTxtTop{
-	padding-top: 5px;
-	font-weight: bold
-}
 
-.p2wVertBar {
-	border-left: 1px dotted #aaaaaa;
-	background-color: #ffffff;
-}
-</style>
+						<div class="toptube">
+							<div class="subcontent">
+								<div id="subcontentcc">
+								    <a href="/Calendar/DisplayEvents.aspx"><img src="/images/cmoccsm.gif" width="156" height="40" style="border: 0"></a>
+								</div>
+								<div id="cmEventsPreview" class="subcontentbody">
+									<div class="tube"><div class="rightsep twoeqcol"><ul class="fpCal"><li><div class="fpCalBg"><h5><a href="http://www.stcatharinesstandard.ca/Calendar/DisplayEvents.aspx?date=12%2f27%2f2007" style="color:#0c7700">Today</a></h5></div></li><li><a href="http://www.stcatharinesstandard.ca/Calendar/Info.aspx?c=2949&amp;calsel=12%2f27%2f2007">BELLY DANCE CLASSES</a></li><li><a href="http://www.stcatharinesstandard.ca/Calendar/Info.aspx?c=2624&amp;calsel=12%2f27%2f2007">CHILDREN'S CHRISTMAS SONG BY PETE DOWAN NOW OUT</a></li><li><a href="http://www.stcatharinesstandard.ca/Calendar/Info.aspx?c=2029&amp;calsel=12%2f27%2f2007">Jordan Adult sSating Club</a></li><li><a href="http://www.stcatharinesstandard.ca/Calendar/Info.aspx?c=2185&amp;calsel=12%2f27%2f2007">Open House @ Agape Valley</a></li></ul></div><div class="twoeqcol"><ul class="fpCal"><li><a href="http://www.stcatharinesstandard.ca/Calendar/Info.aspx?c=2608&amp;calsel=12%2f27%2f2007">Winter Safety Presentation</a></li><li><div class="fpCalBg"><h5><a href="http://www.stcatharinesstandard.ca/Calendar/DisplayEvents.aspx?date=12%2f28%2f2007" style="color:#0c7700">Dec. 28, 2007</a></h5></div></li><li><a href="http://www.stcatharinesstandard.ca/Calendar/Info.aspx?c=2698&amp;calsel=12%2f28%2f2007">@ ST. CATHARINES PUBLIC LIBRARY - ST. JOHN'S AMBULANCE BABYSITTERS COURSE</a></li><li><a href="http://www.stcatharinesstandard.ca/Calendar/Info.aspx?c=2868&amp;calsel=12%2f28%2f2007">niagara falls lions all-u-can eat spaghetti &amp; meatball dinner</a></li></ul></div></div>
+									<div class="spacer"></div>
+								</div>
+								<div class="subcontentfooter"></div></div>
+						</div>
+						
 
-</td>
-<td width="10"><img src="/webapp/images/spacer.gif" width="10" height="1"></td>
-<td style="padding: 5px" class="p2wVertBar" width="170" valign="top" align="left">
-<script type="text/javascript" src="http://kestrel.ospreymedialp.com/JBSPro/files/JBSPro.asp?JS=1&amp;Z=535"></script><table cellpadding="0" cellspacing="0" border="0">
-<tbody><tr><td class="p2wTxtTop" colspan="2" style="padding-top: 5px;">Academies &amp; Camps</td></tr>
-<tr><td valign="top" class="p2wTxt">•&nbsp;</td>
-<td valign="top" class="p2wTxt"><a href="http://print2webcorp.com/marketplace/StCatharinesStandard/main/Lookup.aspx?io=62474009_20070625" title="Bounce &amp; Play Summer Camp">Niagara Inflatables &amp; Games Inc.	</a></td></tr>
-<tr><td valign="top" class="p2wTxt">•&nbsp;</td>
-<td valign="top" class="p2wTxt"><a href="http://print2webcorp.com/marketplace/StCatharinesStandard/main/Lookup.aspx?io=62518335_20070621" title="Camps At The Club">The Club At White Oaks</a></td></tr>
-<tr><td class="p2wTxtTop" colspan="2" style="padding-top: 5px;">Apparel &amp; Jewelry</td></tr>
-<tr><td valign="top" class="p2wTxt">•&nbsp;</td>
-<td valign="top" class="p2wTxt"><a href="http://print2webcorp.com/marketplace/StCatharinesStandard/main/Lookup.aspx?io=62489851_20070619" title="Summer Footwear">Elio's Footwear</a></td></tr>
-<tr><td valign="top" class="p2wTxt">•&nbsp;</td>
-<td valign="top" class="p2wTxt"><a href="http://print2webcorp.com/marketplace/StCatharinesStandard/main/Lookup.aspx?io=62523101_20070619" title="Special Wedding Presentation">George Coppel Jewellers Ltd.</a></td></tr>
-<tr><td valign="top" class="p2wTxt">•&nbsp;</td>
-<td valign="top" class="p2wTxt"><a href="http://print2webcorp.com/marketplace/StCatharinesStandard/main/Lookup.aspx?io=62525823_20070620" title="What's Your Fit?">Heida's Fashions</a></td></tr>
-<tr><td valign="top" class="p2wTxt">•&nbsp;</td>
-<td valign="top" class="p2wTxt"><a href="http://print2webcorp.com/marketplace/StCatharinesStandard/main/Lookup.aspx?io=62523716_20070620" title="Storewide Clearance Sale">Herzog's</a></td></tr>
-<tr><td valign="top" class="p2wTxt">•&nbsp;</td>
-<td valign="top" class="p2wTxt"><a href="http://print2webcorp.com/marketplace/StCatharinesStandard/main/Lookup.aspx?io=62519061_20070620" title="Spring/Summer Sale 2 Days Only - Friday &amp; Saturday">Honey's</a></td></tr>
-<tr><td valign="top" class="p2wTxt">•&nbsp;</td>
-<td valign="top" class="p2wTxt"><a href="http://print2webcorp.com/marketplace/StCatharinesStandard/main/Lookup.aspx?io=62523097_20070619" title="Hats &amp; Accessories">Mad Cap</a></td></tr>
-<tr><td valign="top" class="p2wTxt">•&nbsp;</td>
-<td valign="top" class="p2wTxt"><a href="http://print2webcorp.com/marketplace/StCatharinesStandard/main/Lookup.aspx?io=62524719_20070619" title="Lacoste">Valentina</a></td></tr>
-<tr><td valign="top" class="p2wTxt">•&nbsp;</td>
-<td valign="top" class="p2wTxt"><a href="http://print2webcorp.com/marketplace/StCatharinesStandard/main/Lookup.aspx?io=62523091_20070619" title="A Diamond Beyond All Her Expectations">William Jewellers</a></td></tr>
-<tr><td class="p2wTxtTop" colspan="2" style="padding-top: 5px;">Automotive &amp; Vehicles</td></tr>
-<tr><td valign="top" class="p2wTxt">•&nbsp;</td>
-<td valign="top" class="p2wTxt"><a href="http://print2webcorp.com/marketplace/StCatharinesStandard/main/Lookup.aspx?io=62522842_20070619" title="2006 Mustang Convertible">Bill Perrin Ford</a> (<a href="http://print2webcorp.com/marketplace/StCatharinesStandard/main/Lookup.aspx?io=62523030_20070619" title="2007 Ford 500 SEL AWD">2</a>) </td></tr>
-<tr><td valign="top" class="p2wTxt">•&nbsp;</td>
-<td valign="top" class="p2wTxt"><a href="http://print2webcorp.com/marketplace/StCatharinesStandard/main/Lookup.aspx?io=62520738_20070619" title="$10,000 Give Away">Ed Learn Ford Lincoln</a> (<a href="http://print2webcorp.com/marketplace/StCatharinesStandard/main/Lookup.aspx?io=62530641_20070625" title="Massive Used Car Sale">2</a>) </td></tr>
-<tr><td valign="top" class="p2wTxt">•&nbsp;</td>
-<td valign="top" class="p2wTxt"><a href="http://print2webcorp.com/marketplace/StCatharinesStandard/main/Lookup.aspx?io=62531450_20070624" title="We Promise...">Glen Merritt Collision Ltd.</a></td></tr>
-<tr><td valign="top" class="p2wTxt">•&nbsp;</td>
-<td valign="top" class="p2wTxt"><a href="http://print2webcorp.com/marketplace/StCatharinesStandard/main/Lookup.aspx?io=62522839_20070619" title="2005 Jeep Grand Cherokee Limited">Grimsby Chrysler</a></td></tr>
-<tr><td valign="top" class="p2wTxt">•&nbsp;</td>
-<td valign="top" class="p2wTxt"><a href="http://print2webcorp.com/marketplace/StCatharinesStandard/main/Lookup.aspx?io=62527838_20070621" title="Checkered Flag Event">Henley Honda</a></td></tr>
-<tr><td valign="top" class="p2wTxt">•&nbsp;</td>
-<td valign="top" class="p2wTxt"><a href="http://print2webcorp.com/marketplace/StCatharinesStandard/main/Lookup.aspx?io=62522773_20070619" title="Helping People Go Places For Over 40 Years">My New Credit</a></td></tr>
-<tr><td valign="top" class="p2wTxt">•&nbsp;</td>
-<td valign="top" class="p2wTxt"><a href="http://print2webcorp.com/marketplace/StCatharinesStandard/main/Lookup.aspx?io=62522837_20070619" title="2007 Chevrolet 1500 Express 4-Door">Niagara Motors</a></td></tr>
-<tr><td valign="top" class="p2wTxt">•&nbsp;</td>
-<td valign="top" class="p2wTxt"><a href="http://print2webcorp.com/marketplace/StCatharinesStandard/main/Lookup.aspx?io=62522976_20070619" title="05 Blazer">Slessor Pontiac Buick GMC</a></td></tr>
-<tr><td valign="top" class="p2wTxt">•&nbsp;</td>
-<td valign="top" class="p2wTxt"><a href="http://print2webcorp.com/marketplace/StCatharinesStandard/main/Lookup.aspx?io=62521342_20070620" title="It's A Big Grand Opening Spectacular Sales Event June 23rd">St. Catharine's Mazda</a> (<a href="http://print2webcorp.com/marketplace/StCatharinesStandard/main/Lookup.aspx?io=62529756_20070624" title="Grand Opening">2</a>) </td></tr>
-<tr><td valign="top" class="p2wTxt">•&nbsp;</td>
-<td valign="top" class="p2wTxt"><a href="http://print2webcorp.com/marketplace/StCatharinesStandard/main/Lookup.aspx?io=62517563_20070620" title="The Best Kept Secret In The Auto Industry">St. Catharine's Volkswagon</a></td></tr>
-<tr><td class="p2wTxtTop" colspan="2" style="padding-top: 5px;">Computers &amp; Electronics</td></tr>
-<tr><td valign="top" class="p2wTxt">•&nbsp;</td>
-<td valign="top" class="p2wTxt"><a href="http://print2webcorp.com/marketplace/StCatharinesStandard/main/Lookup.aspx?io=62519053_20070619" title="No Charge*">Electronic Supermarket</a></td></tr>
-<tr><td valign="top" class="p2wTxt">•&nbsp;</td>
-<td valign="top" class="p2wTxt"><a href="http://print2webcorp.com/marketplace/StCatharinesStandard/main/Lookup.aspx?io=62524455_20070621" title="It Is Time You Graduated">Gibby's Audio Video</a></td></tr>
-<tr><td class="p2wTxtTop" colspan="2" style="padding-top: 5px;">Crafts &amp; Hobbies</td></tr>
-<tr><td valign="top" class="p2wTxt">•&nbsp;</td>
-<td valign="top" class="p2wTxt"><a href="http://print2webcorp.com/marketplace/StCatharinesStandard/main/Lookup.aspx?io=62524177_20070619" title="Madness Sale">Fabricland</a></td></tr>
-<tr><td class="p2wTxtTop" colspan="2" style="padding-top: 5px;">Dining</td></tr>
-<tr><td valign="top" class="p2wTxt">•&nbsp;</td>
-<td valign="top" class="p2wTxt"><a href="http://print2webcorp.com/marketplace/StCatharinesStandard/main/Lookup.aspx?io=62525817_20070620" title="Introducing Chicago Style Pizza">Fat Tony's Pizzeria</a></td></tr>
-<tr><td valign="top" class="p2wTxt">•&nbsp;</td>
-<td valign="top" class="p2wTxt"><a href="http://print2webcorp.com/marketplace/StCatharinesStandard/main/Lookup.aspx?io=62517582_20070619" title="Thrillin' Thursdays">Grill on the Hill</a></td></tr>
-<tr><td valign="top" class="p2wTxt">•&nbsp;</td>
-<td valign="top" class="p2wTxt"><a href="http://print2webcorp.com/marketplace/StCatharinesStandard/main/Lookup.aspx?io=62529807_20070621" title="Nine N' Dine Swing Restaurant">Lochness Links</a></td></tr>
-<tr><td valign="top" class="p2wTxt">•&nbsp;</td>
-<td valign="top" class="p2wTxt"><a href="http://print2webcorp.com/marketplace/StCatharinesStandard/main/Lookup.aspx?io=62523138_20070619" title="Crab Leg Celebration!">Mandarin Buffet</a></td></tr>
-<tr><td valign="top" class="p2wTxt">•&nbsp;</td>
-<td valign="top" class="p2wTxt"><a href="http://print2webcorp.com/marketplace/StCatharinesStandard/main/Lookup.aspx?io=62527830_20070621" title="Sunset Dinner Cruise ">St. Catharines Collegiate Alumni Association</a></td></tr>
-<tr><td valign="top" class="p2wTxt">•&nbsp;</td>
-<td valign="top" class="p2wTxt"><a href="http://print2webcorp.com/marketplace/StCatharinesStandard/main/Lookup.aspx?io=62523735_20070619" title="Come Enjoy the Finer Things in Life">Wildfire Grillhouse &amp; Lounge</a></td></tr>
-<tr><td class="p2wTxtTop" colspan="2" style="padding-top: 5px;">Education &amp; Training</td></tr>
-<tr><td valign="top" class="p2wTxt">•&nbsp;</td>
-<td valign="top" class="p2wTxt"><a href="http://print2webcorp.com/marketplace/StCatharinesStandard/main/Lookup.aspx?io=62506661_20070624" title="Driver Education">AAPEX Driving Academy</a></td></tr>
-<tr><td class="p2wTxtTop" colspan="2" style="padding-top: 5px;">Entertainment</td></tr>
-<tr><td valign="top" class="p2wTxt">•&nbsp;</td>
-<td valign="top" class="p2wTxt"><a href="http://print2webcorp.com/marketplace/StCatharinesStandard/main/Lookup.aspx?io=62426702_20070622" title="Just Plain More Fun!">Casino Niagara</a></td></tr>
-<tr><td valign="top" class="p2wTxt">•&nbsp;</td>
-<td valign="top" class="p2wTxt"><a href="http://print2webcorp.com/marketplace/StCatharinesStandard/main/Lookup.aspx?io=62524397_20070621" title="Avaia">Cirque Niagara</a></td></tr>
-<tr><td valign="top" class="p2wTxt">•&nbsp;</td>
-<td valign="top" class="p2wTxt"><a href="http://print2webcorp.com/marketplace/StCatharinesStandard/main/Lookup.aspx?io=62492887_20070621" title="The Fast The Furious The Empire Super Sprints">Merrittville Speedway</a></td></tr>
-<tr><td valign="top" class="p2wTxt">•&nbsp;</td>
-<td valign="top" class="p2wTxt"><a href="http://print2webcorp.com/marketplace/StCatharinesStandard/main/Lookup.aspx?io=62525753_20070620" title="Ann And Seamus A Chamber Opera July 5, 8:00 PM">Shallaway</a></td></tr>
-<tr><td valign="top" class="p2wTxt">•&nbsp;</td>
-<td valign="top" class="p2wTxt"><a href="http://print2webcorp.com/marketplace/StCatharinesStandard/main/Lookup.aspx?io=62464985_20070621" title="31st Annual Carnival Fireworks Display">The Port Dalhousie Lions Club</a></td></tr>
-<tr><td class="p2wTxtTop" colspan="2" style="padding-top: 5px;">Funeral Homes &amp; Cemeteries</td></tr>
-<tr><td valign="top" class="p2wTxt">•&nbsp;</td>
-<td valign="top" class="p2wTxt"><a href="http://print2webcorp.com/marketplace/StCatharinesStandard/main/Lookup.aspx?io=62511173_20070619" title="Downtown Chapel">Butler Funeral Home</a></td></tr>
-<tr><td valign="top" class="p2wTxt">•&nbsp;</td>
-<td valign="top" class="p2wTxt"><a href="http://print2webcorp.com/marketplace/StCatharinesStandard/main/Lookup.aspx?io=62500435_20070622" title="Funeral Directors Doug &amp; Laurie Bielby">Butler Funeral Home - Niagara Chapel</a></td></tr>
-<tr><td valign="top" class="p2wTxt">•&nbsp;</td>
-<td valign="top" class="p2wTxt"><a href="http://print2webcorp.com/marketplace/StCatharinesStandard/main/Lookup.aspx?io=62527842_20070621" title="The Face Of Dignity">Hulse &amp; English Funeral Home &amp; Chapel	</a></td></tr>
-<tr><td class="p2wTxtTop" colspan="2" style="padding-top: 5px;">Furniture</td></tr>
-<tr><td valign="top" class="p2wTxt">•&nbsp;</td>
-<td valign="top" class="p2wTxt"><a href="http://print2webcorp.com/marketplace/StCatharinesStandard/main/Lookup.aspx?io=62486857_20070619" title="St. Catharines Only Mattress Factory">Bestway Bedding</a></td></tr>
-<tr><td valign="top" class="p2wTxt">•&nbsp;</td>
-<td valign="top" class="p2wTxt"><a href="http://print2webcorp.com/marketplace/StCatharinesStandard/main/Lookup.aspx?io=62522302_20070619" title="Pillow Top Mattress &amp; Foundation">Canadian Furniture</a></td></tr>
-<tr><td valign="top" class="p2wTxt">•&nbsp;</td>
-<td valign="top" class="p2wTxt"><a href="http://print2webcorp.com/marketplace/StCatharinesStandard/main/Lookup.aspx?io=62526853_20070620" title="Fine Dining Can Be Affordable">Critelli's</a> (<a href="http://print2webcorp.com/marketplace/StCatharinesStandard/main/Lookup.aspx?io=62526906_20070621" title="Transitions Stressless Living ... It's All About Comfort ">2</a>)  (<a href="http://print2webcorp.com/marketplace/StCatharinesStandard/main/Lookup.aspx?io=62526928_20070622" title="One Store That Offers You All The Furniture Choices You'll Ever Need!">3</a>)  (<a href="http://print2webcorp.com/marketplace/StCatharinesStandard/main/Lookup.aspx?io=62533793_20070625" title="Canada Days We Pay The GST!!">4</a>) </td></tr>
-<tr><td valign="top" class="p2wTxt">•&nbsp;</td>
-<td valign="top" class="p2wTxt"><a href="http://print2webcorp.com/marketplace/StCatharinesStandard/main/Lookup.aspx?io=62524597_20070620" title="Sofas Plus! Sofa Beds 2nd Annual $444 Blowout">Dominion Furniture</a></td></tr>
-<tr><td valign="top" class="p2wTxt">•&nbsp;</td>
-<td valign="top" class="p2wTxt"><a href="http://print2webcorp.com/marketplace/StCatharinesStandard/main/Lookup.aspx?io=62519639_20070619" title="Niagara's Finest in Home Furnishings">Furniture Gallery</a></td></tr>
-<tr><td valign="top" class="p2wTxt">•&nbsp;</td>
-<td valign="top" class="p2wTxt"><a href="http://print2webcorp.com/marketplace/StCatharinesStandard/main/Lookup.aspx?io=62526704_20070620" title="Up To 65% Off Every Mattress Set This Week">Simmons Mattress Gallery</a></td></tr>
-<tr><td valign="top" class="p2wTxt">•&nbsp;</td>
-<td valign="top" class="p2wTxt"><a href="http://print2webcorp.com/marketplace/StCatharinesStandard/main/Lookup.aspx?io=62497878_20070619" title="Quality Patio Furniture">Sun Country Leisure Products</a></td></tr>
-<tr><td valign="top" class="p2wTxt">•&nbsp;</td>
-<td valign="top" class="p2wTxt"><a href="http://print2webcorp.com/marketplace/StCatharinesStandard/main/Lookup.aspx?io=62524853_20070619" title="Swedish Mattresses and Pillows">Village Furniture</a></td></tr>
-<tr><td class="p2wTxtTop" colspan="2" style="padding-top: 5px;">Government &amp; Public Notices</td></tr>
-<tr><td valign="top" class="p2wTxt">•&nbsp;</td>
-<td valign="top" class="p2wTxt"><a href="http://print2webcorp.com/marketplace/StCatharinesStandard/main/Lookup.aspx?io=62527774_20070621" title="Notice Of Second Public Information Session Northlands Pipeline Project">Enbridge Gas Distribution Inc.</a></td></tr>
-<tr><td class="p2wTxtTop" colspan="2" style="padding-top: 5px;">Grocery</td></tr>
-<tr><td valign="top" class="p2wTxt">•&nbsp;</td>
-<td valign="top" class="p2wTxt"><a href="http://print2webcorp.com/marketplace/StCatharinesStandard/main/Lookup.aspx?io=62523134_20070619" title="Hellmann's Mayonnaise">Avondale</a> (<a href="http://print2webcorp.com/marketplace/StCatharinesStandard/main/Lookup.aspx?io=62528707_20070621" title="9 Lives Cat Food 3/.99">2</a>) </td></tr>
-<tr><td valign="top" class="p2wTxt">•&nbsp;</td>
-<td valign="top" class="p2wTxt"><a href="http://print2webcorp.com/marketplace/StCatharinesStandard/main/Lookup.aspx?io=62526164_20070620" title="Prices Effective Until June 27th">Mitchell's Bun Master Bakery &amp; Marketplace</a></td></tr>
-<tr><td class="p2wTxtTop" colspan="2" style="padding-top: 5px;">Health &amp; Wellness</td></tr>
-<tr><td valign="top" class="p2wTxt">•&nbsp;</td>
-<td valign="top" class="p2wTxt"><a href="http://print2webcorp.com/marketplace/StCatharinesStandard/main/Lookup.aspx?io=62505869_20070619" title="Allergies">Bell Lifestyle Products</a></td></tr>
-<tr><td valign="top" class="p2wTxt">•&nbsp;</td>
-<td valign="top" class="p2wTxt"><a href="http://print2webcorp.com/marketplace/StCatharinesStandard/main/Lookup.aspx?io=62529811_20070621" title="Practical Helpful Mini-Workshop Offered Locally!!">Elfie Holst</a></td></tr>
-<tr><td valign="top" class="p2wTxt">•&nbsp;</td>
-<td valign="top" class="p2wTxt"><a href="http://print2webcorp.com/marketplace/StCatharinesStandard/main/Lookup.aspx?io=62523106_20070619" title="Summer Membership Special">Fitness Alive</a></td></tr>
-<tr><td valign="top" class="p2wTxt">•&nbsp;</td>
-<td valign="top" class="p2wTxt"><a href="http://print2webcorp.com/marketplace/StCatharinesStandard/main/Lookup.aspx?io=62531357_20070624" title="A Simple, Effective Program of Weight Loss!">Herbal Magic Weight Loss &amp; Nutrition Centres</a></td></tr>
-<tr><td valign="top" class="p2wTxt">•&nbsp;</td>
-<td valign="top" class="p2wTxt"><a href="http://print2webcorp.com/marketplace/StCatharinesStandard/main/Lookup.aspx?io=62527894_20070621" title="You're An Individual Why Isn't Your Diet?">Sure Slim Wellness Clinic</a></td></tr>
-<tr><td class="p2wTxtTop" colspan="2" style="padding-top: 5px;">Home Improvement</td></tr>
-<tr><td valign="top" class="p2wTxt">•&nbsp;</td>
-<td valign="top" class="p2wTxt"><a href="http://print2webcorp.com/marketplace/StCatharinesStandard/main/Lookup.aspx?io=62524529_20070619" title="Commercial Carpet">Carpet Emporium</a></td></tr>
-<tr><td valign="top" class="p2wTxt">•&nbsp;</td>
-<td valign="top" class="p2wTxt"><a href="http://print2webcorp.com/marketplace/StCatharinesStandard/main/Lookup.aspx?io=62523760_20070620" title="Over 6,500 Satisfied Customers">Hickory Dickory Decks</a></td></tr>
-<tr><td valign="top" class="p2wTxt">•&nbsp;</td>
-<td valign="top" class="p2wTxt"><a href="http://print2webcorp.com/marketplace/StCatharinesStandard/main/Lookup.aspx?io=62509847_20070625" title="Brand New Air Conditioning &amp; Heating System For Less Than $29.96 Per Week...">Mr. Furnance's One Hour Heating &amp; Air Conditioning</a></td></tr>
-<tr><td valign="top" class="p2wTxt">•&nbsp;</td>
-<td valign="top" class="p2wTxt"><a href="http://print2webcorp.com/marketplace/StCatharinesStandard/main/Lookup.aspx?io=62532279_20070624" title="Gravel Problems?">The Gravel Doctor</a></td></tr>
-<tr><td class="p2wTxtTop" colspan="2" style="padding-top: 5px;">Insurance</td></tr>
-<tr><td valign="top" class="p2wTxt">•&nbsp;</td>
-<td valign="top" class="p2wTxt"><a href="http://print2webcorp.com/marketplace/StCatharinesStandard/main/Lookup.aspx?io=62529406_20070620" title="What Would It Take For You To Switch Your Auto Insurance?">Verge Insurance Group</a></td></tr>
-<tr><td class="p2wTxtTop" colspan="2" style="padding-top: 5px;">Lawn &amp; Garden</td></tr>
-<tr><td valign="top" class="p2wTxt">•&nbsp;</td>
-<td valign="top" class="p2wTxt"><a href="http://print2webcorp.com/marketplace/StCatharinesStandard/main/Lookup.aspx?io=62517697_20070620" title="Have Any Product Delivered and Receive 2 Free Perennials With Your Delivery">L. St. Amand Enterprises</a></td></tr>
-<tr><td valign="top" class="p2wTxt">•&nbsp;</td>
-<td valign="top" class="p2wTxt"><a href="http://print2webcorp.com/marketplace/StCatharinesStandard/main/Lookup.aspx?io=62527092_20070620" title="Grow With The Girls">Rainbow Greenhouses</a></td></tr>
-<tr><td valign="top" class="p2wTxt">•&nbsp;</td>
-<td valign="top" class="p2wTxt"><a href="http://print2webcorp.com/marketplace/StCatharinesStandard/main/Lookup.aspx?io=62527118_20070620" title="Fresh Local Strawberries and Other Specials">Seaway Farms &amp; Garden Centre</a></td></tr>
-<tr><td valign="top" class="p2wTxt">•&nbsp;</td>
-<td valign="top" class="p2wTxt"><a href="http://print2webcorp.com/marketplace/StCatharinesStandard/main/Lookup.aspx?io=62526163_20070620" title="Finishing Touch For A Beautiful Lawn">St. Catharines New Holland Ltd.</a></td></tr>
-<tr><td valign="top" class="p2wTxt">•&nbsp;</td>
-<td valign="top" class="p2wTxt"><a href="http://print2webcorp.com/marketplace/StCatharinesStandard/main/Lookup.aspx?io=62527145_20070620" title="Buy 1 Yard. Of Shredded Pine Or Forest Mulch And Get 1 Free">Sundance Farms</a></td></tr>
-<tr><td class="p2wTxtTop" colspan="2" style="padding-top: 5px;">Legal</td></tr>
-<tr><td valign="top" class="p2wTxt">•&nbsp;</td>
-<td valign="top" class="p2wTxt"><a href="http://print2webcorp.com/marketplace/StCatharinesStandard/main/Lookup.aspx?io=62527012_20070622" title="Need A Will?">Young, McNamara Barristers And Solicitors</a></td></tr>
-<tr><td class="p2wTxtTop" colspan="2" style="padding-top: 5px;">Malls, Outlets &amp; Shops</td></tr>
-<tr><td valign="top" class="p2wTxt">•&nbsp;</td>
-<td valign="top" class="p2wTxt"><a href="http://print2webcorp.com/marketplace/StCatharinesStandard/main/Lookup.aspx?io=62507657_20070622" title="Summer Footwear">Elio's Footwear</a></td></tr>
-<tr><td valign="top" class="p2wTxt">•&nbsp;</td>
-<td valign="top" class="p2wTxt"><a href="http://print2webcorp.com/marketplace/StCatharinesStandard/main/Lookup.aspx?io=62525122_20070621" title="What A Croc!">Neat Stuff</a></td></tr>
-<tr><td class="p2wTxtTop" colspan="2" style="padding-top: 5px;">Medical &amp; Pharmacy</td></tr>
-<tr><td valign="top" class="p2wTxt">•&nbsp;</td>
-<td valign="top" class="p2wTxt"><a href="http://print2webcorp.com/marketplace/StCatharinesStandard/main/Lookup.aspx?io=62497791_20070624" title="Have You Heard?">Balance &amp; Hearing Centre of St. Catharines</a></td></tr>
-<tr><td valign="top" class="p2wTxt">•&nbsp;</td>
-<td valign="top" class="p2wTxt"><a href="http://print2webcorp.com/marketplace/StCatharinesStandard/main/Lookup.aspx?io=62283848_20070621" title="Foot Pain?">Foot Clinic &amp; Orthotic Centre</a></td></tr>
-<tr><td valign="top" class="p2wTxt">•&nbsp;</td>
-<td valign="top" class="p2wTxt"><a href="http://print2webcorp.com/marketplace/StCatharinesStandard/main/Lookup.aspx?io=62523086_20070619" title="Support Your Vision">Sandercott &amp; Evans Opticians</a></td></tr>
-<tr><td class="p2wTxtTop" colspan="2" style="padding-top: 5px;">Pets &amp; Animal Care</td></tr>
-<tr><td valign="top" class="p2wTxt">•&nbsp;</td>
-<td valign="top" class="p2wTxt"><a href="http://print2webcorp.com/marketplace/StCatharinesStandard/main/Lookup.aspx?io=62525569_20070621" title="Home Dog Training	">Bark Busters	</a></td></tr>
-<tr><td class="p2wTxtTop" colspan="2" style="padding-top: 5px;">Phones &amp; Wireless Services</td></tr>
-<tr><td valign="top" class="p2wTxt">•&nbsp;</td>
-<td valign="top" class="p2wTxt"><a href="http://print2webcorp.com/marketplace/StCatharinesStandard/main/Lookup.aspx?io=62489187_20070620" title="Who Belongs In Your My5?">Rogers</a></td></tr>
-<tr><td class="p2wTxtTop" colspan="2" style="padding-top: 5px;">Sports &amp; Recreation</td></tr>
-<tr><td valign="top" class="p2wTxt">•&nbsp;</td>
-<td valign="top" class="p2wTxt"><a href="http://print2webcorp.com/marketplace/StCatharinesStandard/main/Lookup.aspx?io=62522944_20070619" title="Grades 5-8 Day Camp">Calvary Church</a></td></tr>
-<tr><td valign="top" class="p2wTxt">•&nbsp;</td>
-<td valign="top" class="p2wTxt"><a href="http://print2webcorp.com/marketplace/StCatharinesStandard/main/Lookup.aspx?io=62529950_20070625" title="Pool Tables">Family Recreation Centre</a></td></tr>
-<tr><td valign="top" class="p2wTxt">•&nbsp;</td>
-<td valign="top" class="p2wTxt"><a href="http://print2webcorp.com/marketplace/StCatharinesStandard/main/Lookup.aspx?io=62528730_20070622" title="Gymnastics Energy Is A Non-Profit Gymnastics Club.">Gymnastics Energy Training Centre</a></td></tr>
-<tr><td valign="top" class="p2wTxt">•&nbsp;</td>
-<td valign="top" class="p2wTxt"><a href="http://print2webcorp.com/marketplace/StCatharinesStandard/main/Lookup.aspx?io=62523094_20070619" title="Cycling Gear For Athletes">Liberty Bicycles</a></td></tr>
-<tr><td valign="top" class="p2wTxt">•&nbsp;</td>
-<td valign="top" class="p2wTxt"><a href="http://print2webcorp.com/marketplace/StCatharinesStandard/main/Lookup.aspx?io=62506677_20070625" title="Enter To Win Golf For A Year!">Lochness Links</a></td></tr>
-<tr><td valign="top" class="p2wTxt">•&nbsp;</td>
-<td valign="top" class="p2wTxt"><a href="http://print2webcorp.com/marketplace/StCatharinesStandard/main/Lookup.aspx?io=62525116_20070619" title="Come &amp; Play a Round!">McDuff's Mini Golf</a></td></tr>
-<tr><td valign="top" class="p2wTxt">•&nbsp;</td>
-<td valign="top" class="p2wTxt"><a href="http://print2webcorp.com/marketplace/StCatharinesStandard/main/Lookup.aspx?io=62522277_20070619" title="Open House">N.E.T. Camping Resort</a></td></tr>
-<tr><td valign="top" class="p2wTxt">•&nbsp;</td>
-<td valign="top" class="p2wTxt"><a href="http://print2webcorp.com/marketplace/StCatharinesStandard/main/Lookup.aspx?io=62506571_20070621" title="Golf Specials">Riverview Golf Club</a></td></tr>
-<tr><td valign="top" class="p2wTxt">•&nbsp;</td>
-<td valign="top" class="p2wTxt"><a href="http://print2webcorp.com/marketplace/StCatharinesStandard/main/Lookup.aspx?io=62532120_20070622" title="Nestled Below The Escarpment, Surrounded By Vineyards.">Rockway Glen Golf Course &amp; Estate Winery</a></td></tr>
-<tr><td valign="top" class="p2wTxt">•&nbsp;</td>
-<td valign="top" class="p2wTxt"><a href="http://print2webcorp.com/marketplace/StCatharinesStandard/main/Lookup.aspx?io=62529966_20070622" title="It's Boating Time!">The Knotical Shop</a> (<a href="http://print2webcorp.com/marketplace/StCatharinesStandard/main/Lookup.aspx?io=62511169_20070624" title="It's Boating Time!">2</a>) </td></tr>
-</tbody></table>
+						<div class="toptube">
+							<a href="http://shopping.stcatharinesstandard.ca/"><img src="/images/cmo7daysm.gif" width="156" height="100" border="0"></a>
+						</div>
 
-</td></tr></tbody></table></center>
+
+
+	            </div>
+	            <div class="lb"><div class="rb"></div></div></div></div>
+	</div>
+	<div class="spacer"></div>
+	<br><br>
+	<div id="footer">
+		<p><a href="/CategoryList.aspx?id=619">News</a> | <a href="/CategoryList.aspx?id=621">Sports</a> | <a href="/CategoryList.aspx?id=624">Business</a> | <a href="/CategoryList.aspx?id=628">Arts/Life</a> | <a href="/CategoryList.aspx?id=623">Multimedia</a> | <a href="/CategoryList.aspx?id=620">Features</a> | <a href="/feedback1/contactdetailst.aspx">Contact Us</a></p>
+		<p>© 2007
+		    , <a href="http://ospreymedialp.com">Osprey Media </a>| 
+<a href="/Disclaimer.aspx">Disclaimer</a> | 
+<a href="/Privacy.aspx">Privacy</a> |
+<a href="http://ospreymediagroup.com/corporate/default.asp?section=advertise">Website Advertising</a> |
+<a href="/rss/about.aspx">RSS</a> |
+<a href="/feedback1/default2.aspx?aspxerrorpath=">Report a Bug</a>
+		</p>
+	</div>
+	
+</div>
+
+    </form>
+
 
 </body></html>
