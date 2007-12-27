@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the winamp.com privacy policy that was archived on 2007-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070505134457id_/http%3A//www.winamp.com/legal/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winamp.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227181541id_/http%3A//winamp.com/legal/privacy) for the most accurate reproduction.*
 
-# Winamp Media Player » Legal » Privacy Policy
+# Website Privacy Policy - Winamp Legal Policies
 
-## Winamp.com Privacy Policy
-
-View the [Client Policy](https://web.archive.org/legal/disclaimer.php)
+View the [Client Policy](https://web.archive.org/legal/disclaimer)
 
 #### Information about Winamp Users
 
@@ -12,7 +10,7 @@ When you register at our site and use Winamp services, we collect certain inform
 
 We do not keep track of where you personally go on our site. We do use information about how members use our site on an anonymous, aggregated basis. We use this information so that we can understand how visitors are using the site and to improve it. 
 
-If you choose to download a Winamp player, you are subject to the Winamp Client Privacy Policy. Please [click here](https://web.archive.org/legal/disclaimer.php) to review that privacy policy. 
+If you choose to download a Winamp player, you are subject to the Winamp Client Privacy Policy. Please [click here](https://web.archive.org/legal/disclaimer) to review that privacy policy. 
 
 #### Sharing of Information
 
