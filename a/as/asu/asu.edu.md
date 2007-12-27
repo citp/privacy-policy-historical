@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asu.edu privacy policy that was archived on 2007-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070615105104id_/http%3A//www.asu.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asu.edu privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227170653id_/http%3A//www.asu.edu/privacy) for the most accurate reproduction.*
 
 # ASU's Privacy Statement
 
@@ -6,7 +6,7 @@ ASU provides online information and services to students, employees and the publ
 
 The ASU website contains links to external websites. ASU is not responsible for the privacy practices or policies of those sites not housed on ASU servers.
 
-## **INFORMATION COLLECTED BY ASU**
+## Information Collected by ASU
 
 In addition to information actively provided by individuals using ASU websites, the ASU web servers routinely record the following information each time the sites are used:
 
@@ -18,7 +18,7 @@ In addition to information actively provided by individuals using ASU websites, 
   * Date, time and duration of activity
   * Passwords and accounts accessed
   * Volume of data storage and transfers 
-  * Server space used for e-mail.
+  * Server space used for e-mail. 
 
 
 
@@ -28,11 +28,11 @@ In cases of suspected violations of ASU policies, especially unauthorized access
 
 Cookies are short pieces of information used by web browsers to remember information provided by the user, such as passwords and preferences from past visits. Additional information on cookies is available at the Cookie Central web site <http://www.cookiecentral.com/> and in this publication from the Department of Energy Computer Incident Advisory Center: <http://ciac.llnl.gov/ciac/bulletins/i-034.shtml>. Some ASU websites, such as the Interactive Registrar's Web Site, use cookies to store service information. Some web-based services require cookies for access.
 
-## **ALTERNATIVES TO WEBSITE TRANSACTIONS**
+## Alternatives to Website Transactions
 
-ASU websites provide access to information and services for students, employees and members of the public. If you prefer not to provide any information to the university online, you may cancel the transaction and contact the administrative unit responsible for the service to learn about available options for conducting business in person, by mail or by telephone.
+ASU websites provide access to information and services for students, employees and members of the public. If you prefer not to provide any information to the university online, you may cancel the transaction and contact the administrative unit responsible for the service to learn about available options for conducting business in person, by mail or by telephone. 
 
-## **DISCLOSURE OF INFORMATION**
+## Disclosure of Information
 
 ASU does not sell or distribute confidential information it collects online to individuals or entities not affiliated with the university, except in the very limited circumstances described below. Non-confidential information may be sold or distributed pursuant to Arizona Public Records law.
 
@@ -48,7 +48,7 @@ University and Arizona Board of Regents policies protect the confidentiality of 
 
 **Contractors.** From time to time, individuals or companies under contract with the university may have access to confidential information in the course of the service they provide to the university, but those entities are not permitted to use or re-disclose that information for unauthorized purposes. No other entities are authorized to collect information through ASU’s sites.
 
-## **SECURITY**
+## Security
 
 Although every effort is made to secure network communications, ASU cannot ensure the privacy of online communications. Individuals using online services should also take steps to protect personal information, such as closing the web browser when finished using the site. Failure to do so may result in personal information being viewed by someone else using the same computer.
 
@@ -61,5 +61,3 @@ Under the [Computer, Internet and Electronic Communications Policy](http://www.a
 **Contact Information**
 
 If you have additional questions about online privacy or security, send an email to [Linda.Pedersen@asu.edu](mailto:Linda.Pedersen@asu.edu).
-
-**6-26-01**
