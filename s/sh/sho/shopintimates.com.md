@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopintimates.com privacy policy that was archived on 2007-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070421215227id_/http%3A//www.shopintimates.com/page.php%3Fpage%3Dinfo) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopintimates.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227124730id_/http%3A//www.shopintimates.com/page.php%3Fpage%3Dinfo) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -30,7 +30,7 @@ Contact Information
 
 In the event of questions about (i) access to your Personal Information, (ii) our collection, use, management, or disclosure of Personal Information, or (iii) this Privacy Statement , contact us at: 
 
-privacy@shopintimates.com 
+privacy(@)shopintimates.com 
 
 Privacy Officer : Mabel Chan 
 
