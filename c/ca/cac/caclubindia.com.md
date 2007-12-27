@@ -1,0 +1,47 @@
+> *The following text is extracted and transformed from the caclubindia.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227171321id_/http%3A//www.caclubindia.com/privacy_policy.asp) for the most accurate reproduction.*
+
+# CAclubindia : PRIVACY POLICY, taz,ttax Chartered Accountants India
+
+caclubindia.com, we value our Site Visitors and Store Members, and respect your right to privacy. We do not engage in SPAM, nor do we share the personal contact information of our stores, visitors, or their friends, relatives, and associates with third parties. The following information provides more detail about our Privacy Policy. 
+
+**Use and Collection of Store and Site Visitor Information**   
+The only personal information collected by caclubindia.com is submitted voluntarily by Site Visitors through email correspondence. Other information collected by caclubindia.com includes site usage statistics and click-through information, which is collected electronically as a result of actions taken by Site Visitors. caclubindia.com personnel are fully educated about the policies and practices of caclubindia.com in regards to protecting voluntarily submitted personal information from outside access, and take every measure possible to prevent unauthorized use or disclosure. 
+
+Since caclubindia.com is only a guide service for Site Visitors using the Internet to research and locate products and services, we do not engage in customer-to-store transactions, and therefore do not collect or use personal credit card information from Site Visitors. 
+
+Any other personally identifiable information, including names, addresses, telephone numbers and email addresses, received by caclubindia.com from Site Visitors is exclusively and voluntarily submitted on the part of the visitor via email. Personally identifiable information provided in such correspondence is not stored at our website, is only used for responding to the respective query, and is otherwise not used for marketing promotions, SPAM or any other purpose. Site Visitors who do not want their personally identifiable information made available to caclubindia.com should not submit such information. 
+
+**  
+Site Usage, Searches and Click-Throughs **   
+Statistics about site usage, searches and click-throughs gathered by caclubindia.com are collected in an aggregate format only. This information is used to assess traffic to the website, and to report search and click-through information to individual Store Members. 
+
+**Cookies and Log Files**   
+Cookies are not placed on the systems of Site Visitors to caclubindia.com. 
+
+Log file entries are generated when a Site Visitor requests a search at caclubindia.com. These entries are generated anonymously, and enable caclubindia.com to assess overall site activity, track interest in advertised sales, and troubleshoot technical concerns. Log files are used internally only, and are not associated with any particular user, computer or browser. 
+
+**Protection of Site Visitor Information**   
+Once received by caclubindia.com, email submitted voluntarily by Site Visitors is kept absolutely confidential. Access to this information is restricted to caclubindia.com administrators, and personally identifiable information contained in the email is only used to respond to the respective query. caclubindia.com does not rent, sell or exchange the email addresses of Site Visitors, or of their friends, associates or relatives, to any third party, including its store members. In addition, caclubindia.com does not use these email addresses to engage in SPAM activities. Email voluntarily submitted by Site Visitors is removed from our records following its review. 
+
+caclubindia.com gives Store Members information about aggregate searches and click-throughs on their products only. caclubindia.com does not report the data of one store to any other store. 
+
+Aggregate statistics about general site usage is collected anonymously. Site Visitors are not personally tracked in any way. 
+
+**Notification of Privacy Policies**   
+This policy statement informs caclubindia.com Site Visitors that caclubindia.com will keep their personally identifiable information confidential. 
+
+**Opt-Out / Removal of Information**   
+Since caclubindia.com does not solicit personally identifiable information from site visitors, we do not have an opt-out policy. 
+
+**Use of Site by Minors**   
+caclubindia.com does not knowingly collect personally identifiable information from children under the age of 13. 
+
+caclubindia.com further does not promote, condone or endorse the dissemination of information, or sale of products and services to minors when prohibited by law; including the dissemination or sale of pornographic materials to minors; and the sale of firearms, tobacco and alcohol to minors. 
+
+**Site Visitor Interaction with Stores**   
+The caclubindia.com website includes links to third-party websites. caclubindia.com has no control over the privacy practices of these websites, or of our member Stores. Once a Site Visitor has linked from caclubindia.com to a third-party website, the visitor is responsible for obtaining Privacy Policy information from the third-party site. 
+
+**Accessing Personal Information**   
+Since caclubindia.com does not collect personally identifiable information from Site Visitors, access is not provided. 
+
+If you have any questions about the Privacy Policy for caclubindia.com, please contact us at [service@caclubindia.com](mailto:service@MyValueDeals.com)
