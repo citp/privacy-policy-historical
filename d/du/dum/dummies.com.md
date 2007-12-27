@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dummies.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627230214id_/http%3A//www.dummies.com/WileyCDA/Section/id-100065.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dummies.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227050751id_/http%3A//www.dummies.com/WileyCDA/Section/id-100065.html) for the most accurate reproduction.*
 
-# Dummies::Privacy Policy
+# Privacy Policy - For Dummies
 
 John Wiley & Sons, Inc., and its related companies (collectively, "Wiley") recognize the importance of protecting the information collected from Users in the operation of this Web site, and take reasonable steps to maintain the security, integrity, and privacy of any information in accordance with this Privacy and Data Protection Policy. By submitting your information to Wiley, you consent to the practices described herein.
 
