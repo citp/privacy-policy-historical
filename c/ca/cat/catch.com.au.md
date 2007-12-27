@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the catch.com.au privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622060834id_/http%3A//www.reedbusiness.com.au/default.asp%3Fsect%3D9) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catch.com.au privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227220609id_/http%3A//www.reedbusiness.com.au/default.asp%3Fsect%3D9) for the most accurate reproduction.*
 
 # Reed Business Information
 
