@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the meetup.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630213432id_/http%3A//www.meetup.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meetup.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227030814id_/http%3A//www.meetup.com/privacy) for the most accurate reproduction.*
 
 # Meetup Privacy Policy Statement - Meetup.com
-
-We've updated our Privacy Policy and [Terms of Service](http://www.meetup.com/terms/) on February 1, 2007 and the changes will be effective in 30 days, on March 3, 2007. Learn more about the changes [here](http://www.meetup.com/boards/view/viewthread?thread=2672915).
-
-You can view the currently effective policies [here](https://web.archive.org/web/20070630213432id_/http://www.meetup.com/privacy/privacy_old.jsp).
 
 Revision date: February 1, 2007 
 
