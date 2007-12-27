@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theavettbrothers.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623184023id_/http%3A//www.theavettbrothers.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theavettbrothers.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227180005id_/http%3A//www.theavettbrothers.com/privacy_policy.php) for the most accurate reproduction.*
 
 # The Avett Bros.
 
@@ -15,9 +15,6 @@
 company may place Internet cookies on your hard drive. internet cookies are small files that may be placed on your hard disk for record-keeping purposes. cookies are used to (a) remind us of who you are in order to deliver you better service, (b) estimate our audience size by determining repeat usage of the Web site to help target advertisements based on user interests and behavior, (c) track your progress and entries in promotions, sweepstakes and contests, if any, and (d) measure certain traffic patterns for use as a research tool to understand how our users’ habits are similar or different from one another. you can set your browser to notify you when you receive a cookie, giving you the chance to decide whether or not to accept it. by not accepting cookies, some Web pages of this Site may not display properly or you may not be permitted to access certain information.
 
 ### 
-
-company may employ Web beacons (also called single-pixel gifs), which are customized links or similar technologies, when sending you newsletters or promotional emails. web beacons allow Company to (a) determine whether you have opened, or acted upon, a promotional email and which links you have clicked on in order to deliver to you more focused email communications and other information, (b) allow Company to count the number of users who have visited certain Web pages and effectively deliver co-branded services, and (c) enable Company to compile aggregated statistics and determine the efficacy of promotions by using Web beacons from third parties, without allowing such third parties to use Web beacons on this Site to collect or access your personal information.   
-
 
 ### 
 
