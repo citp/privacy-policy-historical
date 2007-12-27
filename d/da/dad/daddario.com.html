@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the daddario.com privacy policy that was archived on 2007-02-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070203081454id_/http%3A//www.daddario.com/DADPolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the daddario.com privacy policy that was archived on 2007-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071227041621id_/http%3A//www.daddario.com/DADPolicy.aspx) for the most accurate reproduction.-->
 
 <html><head>
 		<title>D'Addario Strings - Privacy Policy</title>
@@ -9,7 +9,7 @@
 	<body bgcolor="#333333" leftmargin="0" topmargin="0" marginwidth="0">
 		<center>
 			<form name="Form2" method="post" action="DADPolicy.aspx" id="Form2">
-<input type="hidden" name="__VIEWSTATE" value="dDwtMTc5Mzg2Nzg3NDt0PDtsPGk8MT47PjtsPHQ8O2w8aTwxPjs+O2w8dDw7bDxpPDE+Oz47bDx0PDtsPGk8Mz47PjtsPHQ8cDxwPGw8TmF2aWdhdGVVcmw7PjtsPC9EQURPbmxpbmVSZXRhaWxlcnMuYXNweDs+Pjs+Ozs+Oz4+Oz4+Oz4+Oz4+Oz58XiZX1Z4xsz8tGjqTrluz7hHHsw==">
+<input type="hidden" name="__VIEWSTATE" value="dDwtMTc5Mzg2Nzg3NDs7Pk73sQ9O1DAZB54T14pmyYVWsKfH">
 
 				<table height="527" cellspacing="0" cellpadding="0" width="800" border="0">
 					<tbody><tr>
@@ -20,69 +20,140 @@
 										
 <script src="Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
 <script src="Scripts/AC_ActiveX.js" type="text/javascript"></script>
-
-<table width="800" border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td width="800" height="32" valign="top" bgcolor="#000000">
-			<script type="text/javascript">
-				AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,24,0','width','800','height','57','src','media/home/navi_global','quality','high','movie','media/home/navi_global' ); //end AC code
-			</script><object codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,24,0" width="800" height="57" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000"><param name="movie" value="media/home/navi_global.swf"> <param name="quality" value="high"> <embed width="800" height="57" src="media/home/navi_global.swf" quality="high" type="application/x-shockwave-flash"></object>
-			<noscript>
-      <OBJECT 
-      codeBase=http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,24,0 
-      height=57 width=800 classid=clsid:D27CDB6E-AE6D-11cf-96B8-444553540000 
-      VIEWASTEXT>
-	<PARAM NAME="_cx" VALUE="21167">
-	<PARAM NAME="_cy" VALUE="1508">
-	<PARAM NAME="FlashVars" VALUE="">
-	<PARAM NAME="Movie" VALUE="media/home/navi_global.swf">
-	<PARAM NAME="Src" VALUE="media/home/navi_global.swf">
-	<PARAM NAME="WMode" VALUE="Window">
-	<PARAM NAME="Play" VALUE="-1">
-	<PARAM NAME="Loop" VALUE="-1">
-	<PARAM NAME="Quality" VALUE="High">
-	<PARAM NAME="SAlign" VALUE="">
-	<PARAM NAME="Menu" VALUE="-1">
-	<PARAM NAME="Base" VALUE="">
-	<PARAM NAME="AllowScriptAccess" VALUE="always">
-	<PARAM NAME="Scale" VALUE="ShowAll">
-	<PARAM NAME="DeviceFont" VALUE="0">
-	<PARAM NAME="EmbedMovie" VALUE="0">
-	<PARAM NAME="BGColor" VALUE="">
-	<PARAM NAME="SWRemote" VALUE="">
-	<PARAM NAME="MovieData" VALUE="">
-	<PARAM NAME="SeamlessTabbing" VALUE="1">
-	<PARAM NAME="Profile" VALUE="0">
-	<PARAM NAME="ProfileAddress" VALUE="">
-	<PARAM NAME="ProfilePort" VALUE="0">
-	<embed src="media/home/navi_global.swf" 
-      quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer"
-      						type="application/x-shockwave-flash" width="800" height="57">
-	</OBJECT>
-	</OBJECT>
-			</noscript>
+<script language="javascript">
+    var currentVisibleMenu = '';
+    var axActiveMenu = '';
+    var axActiveImage = null;
+    
+    function showMenu(menuid, obj, event){
+        if(currentVisibleMenu != ''){
+            if(currentVisibleMenu == menuid) return;
+            else{
+                document.getElementById(currentVisibleMenu).style.display = 'none';
+            }
+        }
+        else{
+            if(axActiveMenu != '')
+                document.getElementById(axActiveMenu).style.display = 'none';
+        }
+        
+        if(axActiveImage != null){
+			axActiveImage.src = axActiveImage.getAttribute('normalimg');
+        }
+        
+        axActiveImage = obj;
+        obj.src = obj.getAttribute('hoverimg');
+        currentVisibleMenu = menuid;
+        if(menuid == '') return;
+        document.getElementById(menuid).style.left = "0px";
+        document.getElementById(menuid).style.display = '';
+        //if(menuid == 'menu7' || menuid == 'menu2') return;
+        var rightPos = event.clientX;
+        var divPos;
+        if(window.event){
+			divPos = (document.getElementById(menuid).offsetLeft + document.getElementById(menuid).offsetWidth);
+        }
+        else{
+			divPos = (document.getElementById(menuid).offsetLeft + document.getElementById(menuid).offsetWidth);
+        }
+        if(divPos < rightPos)
+			document.getElementById(menuid).style.left = (rightPos - divPos + 10) + 'px';
+        
+    }
+</script>
+<table width="800" style="table-layout:fixed" border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr bgcolor="#000000">
+		<td width="105"></td>
+		<td width="19"></td>
+		<td width="32"></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td width="800" colspan="4" height="51" valign="top" bgcolor="#000000">
+			<img src="images/FrettedHeader.gif" width="800" height="51" border="0" alt="" usemap="#DaddarioNavMap">
+			<!-- <map name="DaddarioNavMap">
+				<area shape="rect" alt="" coords="0,0,157,51" href="Default.aspx">
+				<area shape="rect" alt="Click here to link to our preferred Online Retailers" coords="702,35,793,51" href="DADOnlineRetailers.aspx">
+				<area shape="rect" alt="Get best-selling and hard to find products from a preferred retailer nearest to you" coords="636,35,698,51" href="http://www.shopatron.com/index/421.0.17188.0.0.0.0" target="_blank">
+			</map> -->
+			<map name="DaddarioNavMap">
+				<area shape="rect" alt="" coords="0,0,157,51" href="Default.aspx">
+				<area shape="rect" alt="Click here to link to our preferred Online Retailers" coords="682,32,797,51" href="DADOnlineRetailers.aspx">
+				<area shape="rect" alt="Get best-selling and hard to find products from a preferred retailer nearest to you" coords="592,32,678,51" href="http://www.shopatron.com/index/421.0.17188.0.0.0.0" target="_blank">
+			</map>
 		</td>
 	</tr>
-</tbody></table>
-<table width="800" style="table-layout:fixed" border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td width="200" height="23" valign="top" align="left" bgcolor="#990000">
-				<img border="0" src="Resources/JDCDAD/images/search_label.gif"><input style="border:0;position:relative;top:-8px;font-size:8pt;height:15px;width:100px" name="strPar"><img border="0" style="cursor:pointer" language="javascript" onclick="window.location.href = 'DADSearch.aspx?strPar=' + document.all.strPar.value;" src="Resources/JDCDAD/images/search_go.gif"></td>
-		<td align="right" height="23" valign="top" bgcolor="#990000"><img border="0" src="Resources/JDCDAD/images/search_separator.gif"></td>
-		<td width="559" valign="top" align="right" bgcolor="#000000"><font color="#cccccc"></font>
-			<table width="100%" border="0" cellpadding="0" cellspacing="2">
-				<tbody><tr>
-					<td width="29%" align="left"><a href="/newsletters.aspx" title="Newsletters"><img border="0" src="/Resources/JDCDAD/Images/newsletters_button_da.gif"></a></td>
-					<td width="22%" align="right"></td>
-					<td width="13%" align="right"></td>
-					<td width="13%" align="right"><a id="DADHeaderBCUC_HypDaddarioStore" href="http://www.shopatron.com/index/421.0.17188.0.0.0.0" target="_blank"><img title="Buy products from one of our preferred retailers nearest to you" src="Resources/JDCDAD/images/buy_now_button_da_store.gif" border="0"></a></td>
-					<td width="13%" align="right"><a id="DADHeaderBCUC_HypOnlineRetailers" href="/DADOnlineRetailers.aspx"><img title="Click here to link to our preferred Online Retailers" src="Resources/JDCDAD/images/buy_now_button_da_retailers.gif" border="0"></a></td>
+	<tr>
+		<td colspan="4" bgcolor="#000000" align="right" valign="top" style="border-top:solid 3px white;">
+			<table class="topnavmenu" border="0" cellpadding="0" cellspacing="0">
+				<tbody><tr height="25">
+					<td valign="middle"><a href="#"><img border="0" normalimg="Images/aboutus.gif" hoverimg="Images/aboutushover.gif" src="Images/aboutus.gif" language="javascript" onmouseover="showMenu('menu1', this, event);"></a></td>
+					<td valign="middle"><a target="_blank" href="http://www.tothestage.com/MediaLibrary.Page?ActiveID=1142"><img border="0" normalimg="Images/medialibrary.gif" hoverimg="Images/medialibraryhover.gif" src="Images/medialibrary.gif" language="javascript" onmouseover="showMenu('', this, event);"></a></td>
+					<td valign="middle"><a href="newsletters.aspx"><img border="0" normalimg="Images/newsletters.gif" hoverimg="Images/newslettershover.gif" src="Images/newsletters.gif" language="javascript" onmouseover="showMenu('', this, event);"></a></td>
+					<td valign="middle"><a href="#"><img border="0" normalimg="Images/whatsnew.gif" hoverimg="Images/whatsnewhover.gif" src="Images/whatsnew.gif" language="javascript" onmouseover="showMenu('menu2', this, event);"></a></td>
+					<td valign="middle"><a href="#"><img border="0" normalimg="Images/artists.gif" hoverimg="Images/artistshover.gif" src="Images/artists.gif" language="javascript" onmouseover="showMenu('menu3', this, event);"></a></td>
+					<td valign="middle"><a href="/Discuss/Group23.aspx"><img border="0" normalimg="Images/forums.gif" hoverimg="Images/forumshover.gif" src="Images/forums.gif" language="javascript" onmouseover="showMenu('', this, event);"></a></td>
+					<td valign="middle"><a href="#"><img border="0" normalimg="Images/support.gif" hoverimg="Images/supporthover.gif" src="Images/support.gif" language="javascript" onmouseover="showMenu('menu4', this, event);"></a></td>
+					<td valign="middle"><a href="#"><img border="0" normalimg="Images/merchandise.gif" hoverimg="Images/merchandisehover.gif" src="Images/merchandise.gif" language="javascript" onmouseover="showMenu('menu5', this, event);"></a></td>
+					<td valign="middle"><a href="#"><img border="0" normalimg="Images/partners.gif" hoverimg="Images/partnershover.gif" src="Images/partners.gif" language="javascript" onmouseover="showMenu('menu8', this, event);"></a></td>
+					<td valign="middle"><a href="#"><img border="0" normalimg="Images/otherbrands.gif" hoverimg="Images/otherbrandshover.gif" src="Images/otherbrands.gif" language="javascript" onmouseover="showMenu('menu7', this, event);"></a></td>
 				</tr>
 			</tbody></table>
 		</td>
 	</tr>
-</tbody></table>
-</td>
+	<tr>
+		<td style="border-top:solid 3px white;BACKGROUND-IMAGE: url(Images/search_background.gif); BACKGROUND-REPEAT: repeat-x;padding-left:5px;padding-right:5px;" valign="center"><input style="border:0;font-size:9pt;height:15px;" name="strPar" size="15"></td>
+		<td style="border-top:solid 3px white;" valign="top"><img height="25" border="0" style="cursor:pointer" language="javascript" onclick="window.location.href = 'DADSearch.aspx?strPar=' + document.all.strPar.value;" src="images/search_go.gif"></td>
+		<td style="border-top:solid 3px white;BACKGROUND-IMAGE: url(Images/search_transition.gif); BACKGROUND-REPEAT: no-repeat"><div style="width:32px">&nbsp;</div></td>
+		<td nowrap="" bgcolor="#000000" style="height:28;border-top:solid 3px white;">
+            <span id="menu1" style="display:none;position:relative;">
+				<a class="topNavigationLinks" target="_blank" href="http://www.daddarioinc.com/">Corporate</a>
+				<a class="topNavigationLinks" href="http://www.daddario.com/linktous.aspx">Link to Us</a>
+            </span>
+            <span id="menu2" style="display:none;position:relative;">
+				<a class="topNavigationLinks" target="_blank" href="http://www.tothestage.com/">The Stage</a>
+				<a class="topNavigationLinks" href="newsletters.aspx">Newsletters</a>
+				<a class="topNavigationLinks" target="_blank" href="http://www.tothestage.com/Promotions.Page?ActiveID=1143">Promotions</a>
+				<a class="topNavigationLinks" href="DADClinics.aspx">Clinics</a>
+				<a class="topNavigationLinks" href="DADEvents.aspx">Events</a>
+				<a class="topNavigationLinks" href="DADNews.aspx">Press Releases</a>
+            </span>
+            <span id="menu8" style="display:none;position:relative;">
+				<a class="topNavigationLinks" href="DADPartners.aspx?ID=1">Electric</a>
+				<a class="topNavigationLinks" href="DADPartners.aspx?ID=2">Acoustic</a>
+				<a class="topNavigationLinks" href="DADPartners.aspx?ID=3">Bass</a>
+				<a class="topNavigationLinks" href="DADPartners.aspx?ID=4">Classical</a>
+				<a class="topNavigationLinks" target="_blank" href="http://www.tothestage.com/Learn.Page?ActiveID=1211">Education</a>
+				<a class="topNavigationLinks" href="DADPartners.aspx?ID=7">Media</a>
+				<a class="topNavigationLinks" href="DADPartners.aspx?ID=5">Bluegrass / Other</a>
+            </span>            
+            <span id="menu3" style="display:none;position:relative;">
+				<a class="topNavigationLinks" href="DADArtists.aspx?ID=1">Electric</a>
+				<a class="topNavigationLinks" href="DADArtists.aspx?ID=2">Acoustic</a>
+				<a class="topNavigationLinks" href="DADArtists.aspx?ID=3">Bass</a>
+				<a class="topNavigationLinks" href="DADArtists.aspx?ID=4">Classical</a>
+				<a class="topNavigationLinks" href="DADArtists.aspx?ID=5">Bluegrass / Other</a>
+            </span>
+            <span id="menu4" style="display:none;position:relative;">
+				<a class="topNavigationLinks" href="DADFaq.aspx">FAQ</a>
+				<a class="topNavigationLinks" href="DADFindDealer.aspx">Find A Dealer</a>
+            </span>
+            <span id="menu5" style="display:none;position:relative;">
+				<a class="topNavigationLinks" target="_blank" href="http://www.daddarioinc.com/f_players_points.html">Players' Points</a>
+				<a class="topNavigationLinks" target="_blank" href="https://weblink.daddario.com/Payment/jdcliteraturepayment.aspx">Literature</a>
+            </span>
+            <span id="menu7" style="display:none;position:relative;">
+				<a class="topNavigationLinks" target="_blank" href="http://www.daddariobowed.com">D'Addario Bowed</a>
+				<a class="topNavigationLinks" target="_blank" href="http://www.evansdrumheads.com">Evans Drumheads</a>
+				<a class="topNavigationLinks" target="_blank" href="http://www.hqpercussion.com">HQ Percussion</a>
+				<a class="topNavigationLinks" target="_blank" href="http://www.planetwaves.com">Planet Waves</a>
+				<a class="topNavigationLinks" target="_blank" href="http://www.ricoreeds.com">Rico Reeds</a>
+				<a class="topNavigationLinks" target="_blank" href="http://www.gbase.com">Gbase</a>
+				<a class="topNavigationLinks" target="_blank" href="http://www.daddariofoundation.org">D'Addario Foundation</a>
+            </span>&nbsp;
+		</td>
+	</tr>
+</tbody></table></td>
 
 								</tr>
 							</tbody></table>
@@ -95,202 +166,27 @@
 		<td valign="top">
 			
 <script language="javascript" src="scripts/sitemenu.js"></script>
+<img border="0" src="Images/ProductsHeader.gif"><br>
 <table class="sitemenu" cellpadding="0px" cellspacing="0px" id="tblSiteMenu">
-	<tbody><tr><!-- Top spacing row -->
-		<td class="sitemenu_row" colspan="2">&nbsp;</td>
+	<tbody><tr>
+		<td class="sitemenu_row" height="5"></td>
 	</tr>
 	<tr>
-		<td class="sitemenu_bullet">
-			<span class="sitemenu_bullet" title="Click here to see more options" onclick="siteMenu_open(0);">+</span>
-		</td>
-		<td class="sitemenu_row">
-			<span class="sitemenu_row" title="Click here to see more options" onclick="siteMenu_open(0);">ABOUT</span>
-		</td>
-	</tr>
-	<tr>
-		<td class="sitemenu_submenu" colspan="2">
-			<div class="sitemenu_submenu" id="siteMenu_subMenu0">
-				<a class="sitemenu_submenu" href="DADAbout.aspx">HISTORY</a><br>
-				<!--<a class="sitemenu_submenu" style="cursor:pointer" onclick="window.open('DADMultimedia.aspx', 'videoWindow', 'height=500,width=600');">FACTORY TOUR/VIDEOS</a>-->
-			</div>
-		</td>
-	</tr>
-	<tr>
-		<td class="sitemenu_bullet">
-			<span class="sitemenu_bullet" title="Click here to see more options" onclick="siteMenu_open(2);">+</span>
-		</td>
-		<td class="sitemenu_row">
-			<span class="sitemenu_row" title="Click here to see more options" onclick="siteMenu_open(2);">PRODUCTS</span>
-		</td>
-	</tr>
-	<tr>
-		<td class="sitemenu_submenu" colspan="2">
+		<td class="sitemenu_submenu" valign="top">
 			<div class="sitemenu_submenu" id="siteMenu_subMenu2">
-				<a class="sitemenu_submenu" href="DADFElectric.aspx?ID=1">ELECTRIC</a><br>
-				<a class="sitemenu_submenu" href="DADFAcoustic.aspx?ID=2">ACOUSTIC</a><br>
-				<a class="sitemenu_submenu" href="DADFBass.aspx?ID=3">BASS</a><br>
-				<a class="sitemenu_submenu" href="DADFClassic.aspx?ID=4">CLASSICAL</a><br>
-				<a class="sitemenu_submenu" href="DADFother.aspx?ID=5">BLUEGRASS/OTHER</a><br>
-				<a class="sitemenu_submenu" href="http://www.daddariobowed.com" target="_blank">BOWED</a><br>
-				<a class="sitemenu_submenu" href="/DAddarioFrettedCatalog.pdf" target="_blank">CATALOG (PDF)</a><br>
-				<a class="sitemenu_submenu" href="http://www.jdaddario.com/f_international.html" target="_blank">INTERNATIONAL CATALOGS</a>
+				<a class="sitemenu_submenu" href="DADFElectric.aspx?ID=1">Electric</a><br>
+				<a class="sitemenu_submenu" href="DADFAcoustic.aspx?ID=2">Acoustic</a><br>
+				<a class="sitemenu_submenu" href="DADFBass.aspx?ID=3">Bass</a><br>
+				<a class="sitemenu_submenu" href="DADFClassic.aspx?ID=4">Classical</a><br>
+				<a class="sitemenu_submenu" href="DADFother.aspx?ID=5">Bluegrass / Other</a><br>
+				<a class="sitemenu_submenu" href="http://www.daddariobowed.com" target="_blank">Bowed</a><br>
+				<a class="sitemenu_submenu" href="/DAddarioFrettedCatalog.pdf" target="_blank">Catalog (PDF)</a><br>
+				<a class="sitemenu_submenu" href="http://www.daddarioinc.com/f_international.html" target="_blank">International Catalogs</a>&nbsp;&nbsp;<img src="/resources/JDCDAD/Images/globe_on_black_15X16.gif" align="absmiddle">
 			</div>
 		</td>
-	</tr>
-	<tr>
-		<td class="sitemenu_bullet">
-			<span class="sitemenu_bullet" title="Click here to see more options" onclick="siteMenu_open(3);">+</span>
-		</td>
-		<td class="sitemenu_row">
-			<span class="sitemenu_row" title="Click here to see more options" onclick="siteMenu_open(3);">ARTISTS</span>
-		</td>
-	</tr>
-	<tr>
-		<td class="sitemenu_submenu" colspan="2">
-			<div class="sitemenu_submenu" id="siteMenu_subMenu3">
-				<a class="sitemenu_submenu" href="DADArtists.aspx?ID=1">ELECTRIC</a><br>
-				<a class="sitemenu_submenu" href="DADArtists.aspx?ID=2">ACOUSTIC</a><br>
-				<a class="sitemenu_submenu" href="DADArtists.aspx?ID=3">BASS</a><br>
-				<a class="sitemenu_submenu" href="DADArtists.aspx?ID=4">CLASSICAL</a><br>
-				<a class="sitemenu_submenu" href="DADArtists.aspx?ID=5">BLUEGRASS/OTHER</a>
-			</div>
-		</td>
-	</tr>
-	<tr>
-		<td class="sitemenu_bullet">&nbsp;</td>
-		<td class="sitemenu_row">
-			<a class="sitemenu_row" href="DADPromotions.aspx">PROMOTIONS</a>
-		</td>
-	</tr>
-	<tr>
-		<td class="sitemenu_bullet">
-			<span class="sitemenu_bullet" title="Click here to see more options" onclick="siteMenu_open(1);">+</span>
-		</td>
-		<td class="sitemenu_row">
-			<span class="sitemenu_row" title="Click here to see more options" onclick="siteMenu_open(1);">PARTNERS</span>
-		</td>
-	</tr>
-	<tr>
-		<td class="sitemenu_submenu" colspan="2">
-			<div class="sitemenu_submenu" id="siteMenu_subMenu1">
-				<a class="sitemenu_submenu" href="DADPartners.aspx?ID=1">ELECTRIC</a><br>
-				<a class="sitemenu_submenu" href="DADPartners.aspx?ID=2">ACOUSTIC</a><br>
-				<a class="sitemenu_submenu" href="DADPartners.aspx?ID=3">BASS</a><br>
-				<a class="sitemenu_submenu" href="DADPartners.aspx?ID=4">CLASSICAL</a><br>
-				<a class="sitemenu_submenu" href="DADPartners.aspx?ID=6">EDUCATION</a><br>
-				<a class="sitemenu_submenu" href="DADPartners.aspx?ID=7">MEDIA</a><br>
-				<a class="sitemenu_submenu" href="DADPartners.aspx?ID=5">OTHER</a>
-			</div>
-		</td>
-	</tr>
-	<tr>
-		<td class="sitemenu_bullet">
-			<span class="sitemenu_bullet" title="Click here to see more options" onclick="siteMenu_open(4);">+</span>
-		</td>
-		<td class="sitemenu_row">
-			<span class="sitemenu_row" title="Click here to see more options" onclick="siteMenu_open(4);">NEWS</span>
-		</td>
-	</tr>
-	<tr>
-		<td class="sitemenu_submenu" colspan="2">
-			<div class="sitemenu_submenu" id="siteMenu_subMenu4">
-				<a class="sitemenu_submenu" href="DADNews.aspx">PRESS RELEASES</a><br>
-				<a class="sitemenu_submenu" href="newsletters.aspx">NEWSLETTERS</a>
-			</div>
-		</td>
-	</tr>
-	<tr>
-		<td class="sitemenu_bullet">
-			<span class="sitemenu_bullet" title="Click here to see more options" onclick="siteMenu_open(5);">+</span>
-		</td>
-		<td class="sitemenu_row">
-			<span class="sitemenu_row" title="Click here to see more options" onclick="siteMenu_open(5);">SUPPORT</span>
-		</td>
-	</tr>
-	<tr>
-		<td class="sitemenu_submenu" colspan="2">
-			<div class="sitemenu_submenu" id="siteMenu_subMenu5">
-				<a class="sitemenu_submenu" href="http://www.daddariostrings.com/Discuss/Group23.aspx" target="_blank">DISCUSSION</a><br>
-				<a class="sitemenu_submenu" href="DADFaq.aspx">FAQ</a><br>
-				<a class="sitemenu_submenu" href="http://www.jdaddario.com/players_points.html" target="_blank">PLAYER'S POINTS</a><br>
-				<a class="sitemenu_submenu" href="https://weblink.daddario.com/Payment/jdcliteraturepayment.aspx" target="_blank">POSTERS &amp; CATALOGS</a><br>
-				<a class="sitemenu_submenu" href="DADFindDealer.aspx">FIND A DEALER</a><br>
-				<!--<a class="sitemenu_submenu" href="test">INTERNATIONAL</a>-->
-			</div>
-		</td>
-	</tr>
-	<tr>
-		<td class="sitemenu_bullet">&nbsp;</td>
-		<td class="sitemenu_row">
-			<a class="sitemenu_row" href="DADVideo.aspx">MEDIA LIBRARY</a>
-		</td>
-	</tr>
-	<tr>
-		<td class="sitemenu_bullet">
-			<span class="sitemenu_bullet" title="Click here to see more options" onclick="siteMenu_open(7);">+</span>
-		</td>
-		<td class="sitemenu_row">
-			<span class="sitemenu_row" title="Click here to see more options" onclick="siteMenu_open(7);">CALENDAR</span>
-		</td>
-	</tr>
-	<tr>
-		<td class="sitemenu_submenu" colspan="2">
-			<div class="sitemenu_submenu" id="siteMenu_subMenu7">
-				<a class="sitemenu_submenu" href="DADClinics.aspx">CLINICS</a><br>
-				<a class="sitemenu_submenu" href="DADEvents.aspx">EVENTS</a>
-			</div>
-		</td>
-	</tr>
-	<tr>
-		<td class="sitemenu_bullet">
-			<span class="sitemenu_bullet" title="Click here to see more options" onclick="siteMenu_open(8);">+</span>
-		</td>
-		<td class="sitemenu_row">
-			<span class="sitemenu_row" title="Click here to see more options" onclick="siteMenu_open(8);">OTHER BRANDS</span>
-		</td>
-	</tr>
-	<tr>
-		<td class="sitemenu_submenu" colspan="2">
-			<div class="sitemenu_submenu" id="siteMenu_subMenu8">
-				<a class="sitemenu_submenu" href="http://www.daddariobowed.com/" target="_blank">D'Addario Bowed</a><br>
-				<a class="sitemenu_submenu" href="http://www.planetwaves.com/" target="_blank">Planet Waves</a><br>
-				<a class="sitemenu_submenu" href="http://www.evansdrumheads.com/" target="_blank">Evans Drumheads</a><br>
-				<a class="sitemenu_submenu" href="http://www.hqpercussion.com/" target="_blank">HQ Percussion</a><br>
-				<a class="sitemenu_submenu" href="http://www.ricoreeds.com/" target="_blank">Rico Reeds</a><br>
-				<a class="sitemenu_submenu" href="http://www.gbase.com/" target="_blank">GBase</a><br>
-				<a class="sitemenu_submenu" href="http://www.jdaddario.com/content/foundation/foundation.html" target="_blank">D'Addario Foundation</a>
-			</div>
-		</td>
-	</tr>
-	<tr><!-- Buffer row -->
-		<td colspan="2">&nbsp;</td>
 	</tr>
 </tbody></table>
-<script language="javascript">
-	var currentLocation = document.location.href;
-	var table = document.getElementById('tblSiteMenu');
-	var el = table.getElementsByTagName('a');
-	var i;
 
-	for(i = 0; i < el.length; i++){
-		if(el[i].href == currentLocation){
-			try
-			{
-				// this works for IE browsers
-				document.getElementById(el[i].parentElement.id).style.display = 'block';
-			}
-			catch(e)
-			{
-				try{
-					// this works for Mozilla
-					document.getElementById(el[i].parentNode.id).style.display = 'block';
-				}
-				catch(e){}
-			}
-			break;
-		}
-	}
-</script>
 		</td>
 	</tr>
 </tbody></table>
@@ -483,20 +379,21 @@
 									<td valign="top" align="center" bgcolor="#ffffff">
 <table width="800" height="100%" border="0" align="center" cellpadding="0" bgcolor="#000000">
 	<tbody><tr>
-		<td width="300" height="100%" align="left" valign="top">
-			<div align="left" class="graveyardlinks">COPYRIGHT 2006 D'ADDARIO &amp; CO. ALL 
+		<td width="400" height="100%" align="left" valign="top" nowrap="">
+			<div align="left" class="graveyardlinks">COPYRIGHT 2007 D'ADDARIO &amp; CO. ALL 
 				RIGHTS RESERVED</div>
 		</td>
-		<td width="500" height="100%" align="right" valign="top">
+		<td width="400" height="100%" align="right" valign="top">
 			<div align="right" class="graveyardlinks"><a href="http://www.jdaddario.com/orders" class="graveyardlinks">DEALERS 
-					ONLY</a> | <a href="DADFaq.aspx" class="graveyardlinks">CONTACT US</a>
-				<style fprolloverstyle="">A:hover {color: FFFFFF}
+					ONLY</a> | <a href="DADContactUs.aspx" class="graveyardlinks">CONTACT US</a>
+				<style>A:hover {color: FFFFFF}
 				</style>
 				| <a href="DADPolicy.aspx" class="graveyardlinks">PRIVACY POLICY</a></div>
 		</td>
 	</tr>
 </tbody></table>
-</td>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"> </script> 
+<script type="text/javascript"> _uacct = "UA-1685500-2"; urchinTracker(); </script></td>
 								</tr>
 							</tbody></table>
 						</td>
