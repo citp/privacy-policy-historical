@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iwantu.com privacy policy that was archived on 2007-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070602103608id_/http%3A//www.iwantu.com/privacy.love) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iwantu.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227144715id_/http%3A//iwantu.com/privacy.love) for the most accurate reproduction.*
 
 # Adult Dating Personals - Iwantu.com Singles and Swingers Site
 
@@ -19,12 +19,15 @@ IwantU.com is a licensee of the TRUSTe Privacy Program. This privacy statement d
 If you feel that this company is not abiding by its posted privacy policy, you should first contact our customer service department at [http://support.IwantU.com](http://support.iwantu.com/)  
 You may also reach us at our mailing address: 
 
-Mana Internet Solutions  
-Apartado 152-2120  
-Calle Blancos, San Jose  
-Costa Rica 
+**Mana Internet Solutions**
 
-If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://truste.org/consumers/watchdog_complaint.php>
+**Costa Rica**  
+Apartado 152-2120 Calle Blancos  
+San Jose, San Jose  
+152-2120  
+Costa Rica
+
+If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>
 
 TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
 
