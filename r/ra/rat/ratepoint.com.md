@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ratepoint.com privacy policy that was archived on 2007-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070605013251id_/http%3A//www.ratepoint.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ratepoint.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227031240id_/http%3A//www.ratepoint.com/privacy) for the most accurate reproduction.*
 
-# RatePoint: -
+# Business Reviews, Customer Feedback Management & Site Seal | RatePoint - Reseller Program
 
 ##### Last Updated: December 13, 2006
 
@@ -18,11 +18,11 @@ At RatePoint we value your privacy. Our primary purpose in collecting informatio
 
 **_Information We Automatically Collect_**
 
-We automatically receive, store and track certain types of information whenever you interact with the RatePoint Site or Services, regardless of whether you are a registered User. We use this information to do internal research on our Users’ demographics, interests and behaviors in order to better understand, protect and serve you and the RatePoint community.
+We automatically receive, store and track certain types of information whenever you interact with the RatePoint Site or Services, regardless of whether you are a registered User. We use this information to do internal research on our Users' demographics, interests and behaviors in order to better understand, protect and serve you and the RatePoint community.
 
 **_Log Files._** Like many websites, we automatically gather certain non-personal information about our Site and Services traffic and store it in log files. This information may include: Internet protocol (IP) addresses, browser type and version, referring/exit pages, operating system and platform, date and time, and pages viewed or searched for. We use this information to analyze trends, and to administer the Site and Services.
 
-**_Cookies._** A cookie is a small text file that is stored on a User’s computer for record-keeping purposes. We use cookies on our Site and with our Services and we obtain certain types of information when your Web browser accesses the RatePoint Site or Services. In addition to some of the same information as gathered in the log files, the information we collect in the cookie may include a unique identifier for tracking your activity.
+**_Cookies._** A cookie is a small text file that is stored on a User's computer for record-keeping purposes. We use cookies on our Site and with our Services and we obtain certain types of information when your Web browser accesses the RatePoint Site or Services. In addition to some of the same information as gathered in the log files, the information we collect in the cookie may include a unique identifier for tracking your activity.
 
 You may use the RatePoint Site or Services anonymously by prohibiting the use of cookies on your machine, however, we will not be able to provide you with a personalized experience at RatePoint and your ability to use some features of our Site and Services will be limited.
 
@@ -30,7 +30,7 @@ We use session cookies. A session cookie expires and is deleted from your comput
 
 **_Information we Collect From You_**
 
-In addition to basic Site and Services registration data, any information that is personal in nature, such as name, address, date of birth, drivers license number and other personally identifiable information, is considered “Personal Information and is provided by you to RatePoint at your option.
+In addition to basic Site and Services registration data, any information that is personal in nature, such as name, address, date of birth, drivers license number and other personally identifiable information, is considered 'Personal Information and is provided by you to RatePoint at your option.
 
 **_During Registraion._** Users are not required to register in order to visit our Site or use our Services, however, in order to use most of the features of the RatePoint Services and enjoy a richer experience, you must first register with RatePoint by providing an email address, your year of birth and a username and password created by you. During registration you are required to give truthful contact information (such as a valid email address) in accordance with our Terms of Service.
 
@@ -42,7 +42,7 @@ You are not required to enter any Personal Information, however, when you regist
 
 **_Public Areas._** Any Personal Information, including Content, that you post on bulletin boards, blogs, chat rooms, public question and answer forums, or other public areas and/or that you consent to share or make public ("Public Areas") through the Site or Services is not protected by this Privacy Policy and we do not control the use and disclosure of this information. Personal Information that you post to a Public Area or communicate through a Public Area may be used by third parties to contact you or to communicate this information to others, including in Public Areas of other websites. Please do not post any information in a Public Area 
 
-**_Advertisers._** Sponsors, advertisers or other third parties may also use their own cookies when you click on their advertisement or link to their site or service, or even if an advertisement simply appears on a page that you are viewing. Some advertisers use companies other than RatePoint to serve their ads and these companies may also collect non-Personal Information through the use of cookies on our Site and/or Services. We do not control these third parties’ use of cookies, or how they manage the non-Personal Information they gather through them.
+**_Advertisers._** Sponsors, advertisers or other third parties may also use their own cookies when you click on their advertisement or link to their site or service, or even if an advertisement simply appears on a page that you are viewing. Some advertisers use companies other than RatePoint to serve their ads and these companies may also collect non-Personal Information through the use of cookies on our Site and/or Services. We do not control these third parties' use of cookies, or how they manage the non-Personal Information they gather through them.
 
 **_Children._** We are committed to protecting the privacy of children. RatePoint provides a general audience service that is not designed or intended to attract children under the age of thirteen (13). We do not collect Personal Information from any person whom we actually know is under the age of 13.
 
@@ -50,7 +50,7 @@ You are not required to enter any Personal Information, however, when you regist
 
 **_Personal Information._** Except as set forth in this Privacy Policy or as specifically agreed to by you, RatePoint will not disclose to third parties any Personal Information you submit through our Site or Services.
 
-**_Disclosure of Aggregate Information (Non-Personal Information)._** RatePoint may provide non-Personal Information about you to third parties that is combined with the non-Personal Information of other Users and does not allow you to be identified or contacted ("Aggregate Information"). For example, we might provide to third parties Aggregate Information regarding the number of Users of our Services and the activities they conduct while using our Services. We also may not limit the third parties’ use of the Aggregate Information, except that we do require third parties to whom we disclose Aggregate Information to agree that they will not attempt to make this information personally identifiable by combining it with other databases or other sources of information. 
+**_Disclosure of Aggregate Information (Non-Personal Information)._** RatePoint may provide non-Personal Information about you to third parties that is combined with the non-Personal Information of other Users and does not allow you to be identified or contacted ("Aggregate Information"). For example, we might provide to third parties Aggregate Information regarding the number of Users of our Services and the activities they conduct while using our Services. We also may not limit the third parties' use of the Aggregate Information, except that we do require third parties to whom we disclose Aggregate Information to agree that they will not attempt to make this information personally identifiable by combining it with other databases or other sources of information. 
 
 **_Contributions to RatePoint._** Content submitted by any User is considered public and non-confidential by RatePoint and shall not be treated as personal or proprietary information. Such Content may be aggregated by User and made available to all Users of RatePoint. RatePoint does not monitor, review or edit contributions to the Site and/or Services. Users should refrain from including any Personal Information in their Content. In no event will RatePoint be liable for disclosure of Personal Information that is included in User Content.
 
@@ -74,7 +74,7 @@ If your Personal Information changes, or if you no longer desire our service, yo
 
 We follow generally accepted industry standards to protect the Personal Information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.
 
-If you have any questions about RatePoint security, you can email us at security@ratepoint.com./p>
+If you have any questions about RatePoint security, you can email us at security@ratepoint.com.
 
 **6\. CHANGES TO THIS PRIVACY POLICY**
 
