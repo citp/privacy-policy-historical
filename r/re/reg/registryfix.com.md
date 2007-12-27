@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the registryfix.com privacy policy that was archived on 2007-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070616084419id_/http%3A//www.registryfix.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the registryfix.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227225928id_/http%3A//www.registryfix.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Registryfix.com Privacy Policy
 
