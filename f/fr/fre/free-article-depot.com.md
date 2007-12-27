@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the free-article-depot.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630210657id_/http%3A//free-article-depot.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-article-depot.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227034003id_/http%3A//free-article-depot.com/privacy.php) for the most accurate reproduction.*
 
 # Free Article Depot
 
@@ -62,4 +62,4 @@ We will let our Visitors and Authorized Customers know about changes to our priv
 **Links:**  
 This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours.
 
-© 2006 **www.free-article-depot.com** , All rights reserved.
+© 2007 **www.free-article-depot.com** , All rights reserved.
