@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the softwareag.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630134225id_/http%3A//www.softwareag.com/Corporate/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softwareag.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227013106id_/http%3A//www.softwareag.com/Corporate/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -60,29 +60,33 @@ The offers on this website are not directed at children. We therefore assume tha
 
 Naturally, Software AG takes those technical and organizational measures appropriate given the respective purpose of the data protection in order to protect the information provided by you against abuse and loss. Such data is stored in a secure operating environment that is not accessible to the public. In addition, each of our employees is naturally instructed on data protection and obliged to enter into a confidentiality covenant.
 
- **11.  Modification of the Declaration on Data Protection**
+ **11\. E-Mails to Software AG**
 
-As a result of the ongoing development of the Internet, it will be necessary to adapt this declaration on data protection to changing conditions on an ongoing basis. Timely notice of such modification shall be given on this page.  You may view previous versions of this declaration on data protection in this  _Archive_.
+Because of tax requirements Software AG has to archive e mails for ten years in some countries. The e mail system of Software AG and other members of the Software AG Group are intended to be used only for business purposes.
 
- **12.  Procedural List**
+ **12.  Modification of the Declaration on Data Protection**
+
+As a result of the ongoing development of the Internet, it will be necessary to adapt this declaration on data protection to changing conditions on an ongoing basis. Timely notice of such modification shall be given on this page.  You may view previous versions of this declaration on data protection in this [ _Archive_](https://web.archive.org/Corporate/privacy_updates.asp).
+
+ **13.  Procedural List**
 
 You may obtain a general overview of the purpose for which and the group of persons on which Software AG collects, processes and uses personal data in the public [Procedural List](https://web.archive.org/Corporate/procedural.asp) shown on this website.  
 
- **13.  Information and Other Rights, Contact**
+ **14.  Information and Other Rights, Contact**
 
 Upon written request, our data protection officer would be happy to provide you with information as to whether – and if so, which – personal data we store in relation to you. Should your personal data be incorrect, you may have this rectified immediately. Naturally any such information or modification is free of charge. 
 
 Moreover, you are entitled to revoke your consent to use of data in the future, in whole or in part. Should you desire this, we will delete or block your relevant data.
 
-In order to assert such rights, please contact Software AG's data protection officer.
+In order to assert such rights, please contact Software AG's data protection officer. 
 
    Naturally, you may contact Software AG's data protection officer directly at any time should you have questions, comments or complaints in connection with this declaration on data protection:
 
-Software AG  
-Data Protection Officer of Software AG and SAG Systemhaus GmbH   
-H.C. Höpker  
-Uhlandstrasse 12  
-64297 Darmstadt  
+Software AG   
+Data Protection Officer    
+H.C. Höpker   
+Uhlandstrasse 12   
+64297 Darmstadt   
 E-mail: hans-christoph.hoepker (at) softwareag.com
 
 ## SOA Value Assessment
@@ -91,7 +95,7 @@ A unique tool that helps enterprises calculate the benefits of SOA and Business 
 
 Specify the value of an SOA for your organization.
 
-[SOA Value Assessment](https://web.archive.org/Corporate/Company/latestnews/20070502_SOA_Value_Assessment_short_page.asp)
+[SOA Value Assessment](http://www.soavalueassessment.com/)
 
 ## Bright Ideas
 
@@ -101,10 +105,10 @@ This first edition is all about innovation and inspiration: Two fundamental driv
 
 [Number one issue available now](https://web.archive.org/Corporate/Company/latestnews/Magazine/default.asp)
 
-## Your Career at Software AG
+## Your Career at Software AG 
 
-We are searching for the most talented people - this has been the key to our success. 
+Welcome to Software AG. Talented people like you are the key to our success. 
 
 Please search our current job openings to learn more about our exciting career opportunities around the world.
 
-[Search for your new Job](https://web.archive.org/Corporate/Company/jobs/jobs/default.asp)
+[Search for your new job](https://web.archive.org/Corporate/Company/jobs/jobs/default.asp)
