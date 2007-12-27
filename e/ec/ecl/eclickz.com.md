@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the eclickz.com privacy policy that was archived on 2007-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070407022105id_/http%3A//www.eclickz.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eclickz.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227074541id_/http%3A//www.eclickz.com/about/privacy.php/%3Fref%3D) for the most accurate reproduction.*
 
 # eClickZ - Privacy Policy
+
+Privacy Policy
 
 **Why We Collect Personal Information**  
 eClickz.com collects personal information to personalize your experience with our site. The more we know about you, the more we can present you with information and features that will interest you. The facts you provide, along with data stored in your personal "cookie," (see below) may also be used to make your online experience faster and more convenient.
