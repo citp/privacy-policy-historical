@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bizrate.co.uk privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617053952id_/http%3A//www.bizrate.co.uk/content/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizrate.co.uk privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227200103id_/http%3A//www.bizrate.co.uk/content/privacy.html) for the most accurate reproduction.*
 
 # Home at BizRate UK. Shop and buy online
 
