@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the careersingear.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623050453id_/http%3A//www.careersingear.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careersingear.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227063936id_/http%3A//www.careersingear.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
-## Privacy Policy for CareersInGear
+## Privacy Policy for CareersinGear
 
   1. Our Privacy Policy
   2. The Information We Collect
@@ -27,6 +27,8 @@ Your privacy is important to us. To better protect your privacy, we provide this
 You do not have to give us personally identifiable information in order to visit our Web Site. However, on the Web Site, you may be able to order products, enter contests, participate in a survey or otherwise express an opinion, subscribe to one of our services such as our online newsletters, or participate in one of our online forums or communities. Personally identifiable information is generally provided and collected when you search, buy, bid, post, participate in a contest or questionnaire, or communicate with customer service. As a result of those actions, you may supply us with such information as your name, address, phone numbers, email address, contact preferences, credit card information, financial information and information relating to a support or service issue that may, alone or in combination with other data, constitute personally identifiable information. If we collect personally identifiable information from you, you are giving us permission to use that information for the specific purpose for which it is provided and to contact you regarding site services, improve or enhance site performance, to offer you information regarding products and services, fulfill product orders, improve our Web Site, to communicate to you about other matters that may be of interest to you and for any other purpose described in this Privacy Policy. In connection with the foregoing, we may share your information with our affiliates. Users unwilling to provide personally identifiable information online can choose to work with a sales representative or customer service representative to utilize member services or other site offerings. 
 
 We also may collect, store and use certain non-personally identifiable information when you visit many of our web pages such as the type of browser you are using (e.g., Netscape, Internet Explorer), the type of operating system ou are using, (e.g., Windows '95 or Mac OS) and the domain name of your Internet service provider (e.g., America Online, Earthlink). In addition we aggregate data from multiple users in a manner that is not personally identifiable and use such data as we deem appropriate. 
+
+By applying or registering with our site you are giving us permission to contact you with offers of other related services. 
 
 **III. How We Use the Information**
 
