@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roadscholar.org privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609171851id_/http%3A//www.roadscholar.org/general-info/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roadscholar.org privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227063813id_/http%3A//www.roadscholar.org/general-info/privacy.asp) for the most accurate reproduction.*
 
 # www.RoadScholar.org : Privacy Policy
 
