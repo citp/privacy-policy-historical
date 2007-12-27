@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the womansday.com.au privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231142022id_/http%3A//help.ninemsn.com.au/support/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the womansday.com.au privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227094832id_/http%3A//help.ninemsn.com.au/support/privacy.asp) for the most accurate reproduction.*
 
 # ninemsn support
 
@@ -6,7 +6,7 @@
   
 |  | | ninemsn Highlights Privacy Notice  
 ---  
-Last updated: 8 February, 2006 |  |  | 
+Last updated: 29 November, 2006 |  |  | 
 
 Scope 
 
@@ -55,7 +55,7 @@ This notice provides highlights of the full [Privacy Policy](https://web.archive
 
 **Important information**
 
-  * ninemsn is operated as a joint venture between Microsoft Corporation and Publishing and Broadcasting Limited. Any information you provide under MSN and Windows Live services provided through the ninemsn site, such as Hotmail, Instant Messenger and Search, may be collected and used both by Microsoft, as described in the [MSN and Windows Live Privacy Statement](http://privacy.msn.com/), and by ninemsn, as described in our full [Privacy Policy](https://web.archive.org/support/privacy_full.asp). 
+  * ninemsn is operated as a joint venture between Microsoft Corporation and Publishing and Broadcasting Limited. Any information you provide under MSN and Windows Live services provided through the ninemsn site, such as Hotmail, Instant Messenger, Search and Windows Live ID, may be collected and used both by Microsoft, as described in the [Microsoft Online Privacy Statement](http://privacy.msn.com/), and by ninemsn, as described in our full [Privacy Policy](https://web.archive.org/support/privacy_full.asp). 
   * The e-mail address and password you use to sign-in on the ninemsn Network can also be used to sign in to other sites that are part of Windows Live™ ID. To learn more about Windows Live ID, [read the Windows Live ID Privacy Statement](http://www.passport.net/Consumer/PrivacyPolicy.asp?PPlcid=2057).   
 
 
