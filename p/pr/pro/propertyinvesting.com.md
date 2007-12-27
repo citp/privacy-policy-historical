@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the propertyinvesting.com privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214173506id_/http%3A//www.propertyinvesting.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propertyinvesting.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227035210id_/http%3A//www.propertyinvesting.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - PropertyInvesting.com
+# PropertyInvesting.com Privacy Policy | PropertyInvesting.com
 
 PropertyInvesting.com takes your privacy seriously, which is why we have created the following policy for your protection and security. Please read it carefully. 
 
-###  What This Privacy Policy Covers 
+* * *
+
+##  What This Privacy Policy Covers 
 
 This Privacy Policy ("The Policy") covers PropertyInvesting.com's treatment of personally identifiable information that PropertyInvesting.com collects when you are on the PropertyInvesting.com site, and when you use PropertyInvesting.com's services. 
 
@@ -12,7 +14,9 @@ The policy also covers PropertyInvesting.com's treatment of any personally ident
 
 This policy does not apply to the practices of companies that PropertyInvesting.com does not own or control, or to people that PropertyInvesting.com does not employ or manage. 
 
-###  Information Collection and Use 
+* * *
+
+##  Information Collection and Use 
 
 PropertyInvesting.com collects personally identifiable information when you register for a PropertyInvesting.com newsletter or free report, submit feedback or sign on as a member of the PropertyInvesting.com community. PropertyInvesting.com may also receive personally identifiable information from our business partners. 
 
@@ -22,7 +26,9 @@ PropertyInvesting.com also automatically receives and records information on our
 
 PropertyInvesting.com uses information for three general purposes: to customise the advertising and content you see on our pages, to fulfill your requests for certain products and services, and to contact you about specials and new products. 
 
-###  Information Sharing and Disclosure 
+* * *
+
+##  Information Sharing and Disclosure 
 
 _PropertyInvesting.com will not sell or rent your personally identifiable information to anyone._
 
@@ -40,30 +46,34 @@ PropertyInvesting.com will only send personally identifiable information about y
   * We respond to a compulsory court order to comply with due legal process; or 
 
 
-  * We find that your actions on our web sites violate the [PropertyInvesting.com Rules](https://web.archive.org/tnc.html) \- or any of our usage guidelines for specific products or services. 
+  * We find that your actions on our web sites violate the [PropertyInvesting.com Rules](https://web.archive.org/tnc) \- or any of our usage guidelines for specific products or services. 
 
 
 
-###  Cookies 
+* * *
 
-PropertyInvesting.com may set and access PropertyInvesting.com cookies on your computer. A cookie is a small amount of data - which often includes an anonymous unique identifier \- that is sent to your browser from a web site's computer and stored on your computer's hard drive. 
+##  Cookies 
+
+PropertyInvesting.com may set and access PropertyInvesting.com cookies on your computer. A cookie is a small amount of data - which often includes an anonymous unique identifier - that is sent to your browser from a web site's computer and stored on your computer's hard drive. 
 
 PropertyInvesting.com allows other companies that are presenting advertisements on some of our pages to set and access their cookies on your computer. The way other companies use their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to PropertyInvesting.com's cookies. 
 
 PropertyInvesting.com uses web beacons to access our cookies within and outside our network of web sites and in connection with PropertyInvesting.com products and services. Web pages may contain electronic images (called a "single-pixel GIF" or "web beacon") that allow a web site to count users who have visited that page or to access certain cookies. 
 
-###  Your Ability to Edit Your Account Information and Preferences 
+* * *
 
-You may change or update the information you have supplied PropertyInvesting.com at any time using edit function in the "[Profile](http://www.propertyinvesting.com/member/profile.html)" system. 
+##  Your Ability to Edit and Delete Your Account Information and Preferences 
 
-However, if you would like to completely unsubscribe from PropertyInvesting.com, the easiest way to go about this is to click the "Unsubscribe" link at the bottom of a PropertyInvesting.com e-mail broadcast.
+You may change or update the information you have supplied PropertyInvesting.com at any time. Please use the editing facilities available from your account page to do this. 
 
-If you have any questions, troubles or concerns, [let us know](mailto:admin@propertyinvesting.com?subject=privacy%20policy). 
+* * *
 
-###  Security 
+##  Security 
 
 Every effort is made to keep your information private and away from hackers. However, it is not possible for us to guarantee your privacy. You should weigh up the risk that your details will be misused by hackers with the benefit of receiving the great information that this site has to offer. 
 
-###  Changes to this Privacy Policy 
+* * *
+
+##  Changes to this Privacy Policy 
 
 PropertyInvesting.com may edit this policy from time to time. If we make any substantial changes we will notify you by posting a prominent announcement on our pages. 
