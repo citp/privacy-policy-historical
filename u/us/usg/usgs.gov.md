@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the usgs.gov privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630052824id_/http%3A//www.usgs.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usgs.gov privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227131040id_/http%3A//www.usgs.gov/privacy.html) for the most accurate reproduction.*
 
 # USGS Privacy Policy and Disclaimers
 
 U.S. Geological Survey
-
-  
-
 
 The information on these pages is provided to assist you in finding information that will help you understand the [Privacy Act](http://www.usdoj.gov/04foia/privstat.htm) (Public Law 5 U.S.C. § 552a, as amended), as it relates to privacy policies of the U.S. Geological Survey, a bureau of the Department of the Interior. See [DOI Privacy Policy](http://www.doi.gov/privacy.html).
 
@@ -13,7 +10,7 @@ The information on these pages is provided to assist you in finding information 
 
 The type of information that we receive from your visit to our Web sites depends upon what you do when visiting our sites. We use this information to measure the number of visitors to the different sections of our sites and to help us make our sites more useful to visitors.
 
-Child Privacy \- The USGS values the privacy and protection of children in the use of its Web sites. We adhere to the privacy policies stated below in dealing with children 13 years and younger and for all visitors to USGS Web sites. (for more information see “[Children's Online Privacy Protection Act of 1998](http://www.ftc.gov/ogc/coppa1.htm).”
+Child Privacy \- The USGS values the privacy and protection of children in the use of its Web sites. We adhere to the privacy policies stated below in dealing with children 13 years and younger and for all visitors to USGS Web sites. (for more information see "[Children's Online Privacy Protection Act of 1998](http://www.ftc.gov/ogc/coppa1.htm)."
 
 It is the policy of the USGS that we will not obtain personal identifying information about you when you visit our Web sites, unless you choose to provide the information to us (for example, through a questionnaire in which you willingly provide such information, or in which you are requesting a publication or other information to be transmitted to you by the USGS).
 
@@ -31,7 +28,7 @@ Web Server Activity \- Like most Web servers on the Internet, USGS servers colle
 
 It is impossible to determine the actual identity of an individual user from this information. The logs are periodically summarized and analyzed to study site usage over time and to perform other studies to help us improve the site's organization, performance, and usefulness. Monthly extracts of the log files are archived and stored offline at our discretion for an indefinite period of time. Some statistical summaries derived from these data may be retained online or offline at our discretion for an indefinite period of time.
 
-Cookies \- Some applications may save a “cookie” on your computer's hard disk to provide a temporary history of actions taken. A common example is the tracking of items placed in an online “shopping basket.” We do not retain any record of “cookies” beyond what is necessary for running the application.
+Cookies \- Some applications may save a "cookie" on your computer's hard disk to provide a temporary history of actions taken. A common example is the tracking of items placed in an online "shopping basket." We do not retain any record of "cookies" beyond what is necessary for running the application.
 
 E-Mail or Web Forms \- When you send us personal identifying information by contacting us via e-mail (that is, in a message containing a question or comment) or by filling out a form that e-mails us this information, we use it to respond to your requests. We may forward your e-mail or information to other Government employees or contract personnel who are better able to answer your questions.
 
@@ -45,13 +42,13 @@ Ordering Products Online \- When you voluntarily provide us with personal inform
 
 ### Site Security
 
-To provide site security and to ensure that this service remains available to all users, our Government computer system employs software programs to monitor network traffic to identify unauthorized attempts to upload or change information or otherwise cause damage. Unauthorized attempts to upload information or change information on this Web site are strictly prohibited and may be punishable under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act. Information may also be used for authorized law enforcement investigations. For more information, see the section entitled, “Identification for Law Enforcement or Unauthorized Use.”
+To provide site security and to ensure that this service remains available to all users, our Government computer system employs software programs to monitor network traffic to identify unauthorized attempts to upload or change information or otherwise cause damage. Unauthorized attempts to upload information or change information on this Web site are strictly prohibited and may be punishable under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act. Information may also be used for authorized law enforcement investigations. For more information, see the section entitled, "Identification for Law Enforcement or Unauthorized Use."
 
 ### Policy
 
-For relevant USGS policy on privacy, refer to the Survey Manual chapter entitled, “[Privacy Act - General](http://www.usgs.gov/usgs-manual/313/319-1.html).”
+For relevant USGS policy on privacy, refer to the Survey Manual chapter entitled, "[Privacy Act - General](http://www.usgs.gov/usgs-manual/313/319-1.html)."
 
-For relevant USGS policy on information technology security, refer to the Survey Manual chapters entitled, “[Control of the Registration and Deletion of Computer User Identifications (User ID's)](http://www.usgs.gov/usgs-manual/600/600-2.html)” and “[Automated Information Systems Security - General Requirements](http://www.usgs.gov/usgs-manual/600/600-5.html).”
+For relevant USGS policy on information technology security, refer to the Survey Manual chapters entitled, "[Information Technology Systems Security](https://web.archive.org/usgs-manual/600/600-5.html)."
 
 ### Contact
 
