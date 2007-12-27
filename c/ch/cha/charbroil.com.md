@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the charbroil.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630051009id_/http%3A//www.charbroil.com/consumerwebhome/DInfoN.aspx%3Fdocid%3D46) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charbroil.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227124821id_/http%3A//www.charbroil.com/consumerwebhome/DInfoN.aspx%3Fdocid%3D46) for the most accurate reproduction.*
 
 # Char-Broil
 
