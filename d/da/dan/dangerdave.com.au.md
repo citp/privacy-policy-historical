@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dangerdave.com.au privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624072829id_/http%3A//www.dangerdave.com.au/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dangerdave.com.au privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227045652id_/http%3A//www.dangerdave.com.au/privacy-policy.html) for the most accurate reproduction.*
 
 # privacy policy - adult links - adult links to free porn sites DangerDave.com.au Privacy Policy
 
