@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the hagerty.com privacy policy that was archived on 2007-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070417231845id_/http%3A//www.hagerty.com/about/about_privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hagerty.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227211824id_/http%3A//www.hagerty.com/about/about_privacy.aspx) for the most accurate reproduction.*
 
 # HAGERTY - Facts
 
 **_The Information We Collect and How We Use It_**  
   
-At Hagerty Insurance, we are committed to respecting your privacy. For this reason we want to be upfront with you in terms of letting you know what information we may collect and how we might use it.
+At Hagerty, we are committed to respecting your privacy. For this reason we want to be upfront with you in terms of letting you know what information we may collect and how we might use it.
 
-Although this site may be co-branded with a Hagerty affiliate or partner, Hagerty remains the sole owner of the information collected on this site, and does not share non-public personal information with affiliates or partners. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. Hagerty Insurance collects information from our users at several different points on our website.
+This site may be co-branded with a Hagerty affiliate or partner. Although Hagerty remains the sole owner of the information collected on this site, non-public personal information may be shared with Hagerty affiliates or partners to service or complete requested transactions. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. Hagerty collects information from our users at several different points on our website.
 
   
   
@@ -18,7 +18,7 @@ We request information from the user on our application form. Here a user must p
   
 **Cookies:**  
   
-A cookie is a piece of data stored on the user’s hard drive containing information about the user. Usage of a cookie is in no way linked to any non-public personal information while on our site. Cookies are only used on our site to enhance and simplify the user’s visit. For instance we set a cookie whenever an application has been started. This allows the user to access his or her application upon future visits. If a user rejects the cookie, he or she may still use our site but will not have access to these enhancements. 
+A cookie is a piece of data stored on the user’s hard drive containing information about the user. Usage of a cookie is in no way linked to any non-public personal information while on our site. Cookies are only used on our site to enhance and simplify the user’s visit. For instance, we set a cookie whenever an application has been started. This allows the user to access his or her application upon future visits. If a user rejects the cookie, he or she may still use our site but will not have access to these enhancements. 
 
   
   
@@ -30,7 +30,7 @@ We use IP addresses to analyze trends, administer the site, track user’s movem
   
 **Links:**  
   
-This web site contains links to other sites. Please be aware that Hagerty Insurance is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects non-public personal information. This privacy statement applies solely to information collected by this Web site. 
+This web site contains links to other sites. Please be aware that Hagerty is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects non-public personal information. This privacy statement applies solely to information collected by this Web site. 
 
   
   
@@ -48,49 +48,43 @@ Information is collected from users electing to sign up for our affiliate progra
   
 **Supplementation of Information:**  
   
-In order for Hagerty Insurance to properly underwrite your application, it is necessary for us to supplement the information we receive with information from 3rd party sources. Examples of this include, without limitation, accessing state driving records and third party credit reports. 
+In order for Hagerty to properly underwrite your application, it may be necessary, when permissible, for us to supplement the information we receive with information from 3rd party sources. Examples of this include, without limitation, accessing state driving records and third-party credit reports and claim history. 
 
   
   
-**_The Use of Your Information_**  
+**_Use of Your Information_**  
   
-First and foremost, we use the information we collect from you to determine whether we can underwrite an insurance policy once you submit an application and to issue the policy if we accept your application
+First and foremost, we use the information we collect from you to determine whether we can underwrite an insurance policy once you submit an application and to issue the policy if we accept your application.
 
 We may share aggregated demographic information with our partners and affiliates. This is not linked to any non-public personal information that can identify any individual person.
 
 We may use an outside shipping company to ship policies, and a credit card processing company to bill users for goods and services. These companies do not retain, share, store or use non-public personal information for any secondary purposes.
 
-We partner with another party to provide specific services. When the user signs up for these services, we will share names, or other contact information that is necessary for the third party to provide these services. These parties are not allowed to use non-public personal information except for the purpose of providing these services.
+We partner with other parties to provide specific services. When a user signs up for these services, we will share names, or other contact information that is necessary for the third party to provide these services. These parties are not allowed to use non-public personal information except for the purpose of providing these services.
 
   
   
-**_The Disclosure of Your Information_**  
+**_Disclosure of Your Information_**  
   
-We do not sell or rent any non-public personal information about you to any third party. However, there are certain circumstances in which your non-public personal information may be disclosed. The insurance industry is highly regulated and we may be forced to disclose information to the government or third parties to comply with applicable legal requirements. We may also disclose non-public personal information about you in response to a judicial or administrative order in a criminal, civil, or administrative proceeding or investigation. We may also voluntarily disclose such information if we, in our sole discretion, believe it to be necessary or appropriate in connection with an investigation of fraud, intellectual property infringement, or other activity that is either illegal or tortious, or may expose us to legal liability. In addition, regardless of the security measures that we take, your non-public personal information may be disclosed inadvertently if a third party acts intentionally to intercept them. 
+We do not sell or rent any non-public personal information about you to any third party. However, there are certain circumstances in which your non-public personal information may be disclosed. The insurance industry is highly regulated and we may be forced to disclose information to the government or third parties to comply with applicable legal requirements. We may also disclose non-public personal information about you in response to a judicial or administrative order in a criminal, civil, or administrative proceeding or investigation. We may also voluntarily disclose such information if we, in our sole discretion, believe it to be necessary or appropriate in connection with an investigation of fraud, intellectual property infringement, or other activity that is either illegal or tortious, or may expose us to legal liability. Non-public personal information may be shared with Hagerty affiliates or partners to service or complete requested transactions. In addition, regardless of the security measures that we take, your non-public personal information may be disclosed inadvertently if a third party acts intentionally to intercept it. 
 
   
   
-**_The Notification of Changes_**  
-  
-If we decide to change our privacy policy, we will post those changes on our site so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use non-public personal information in a manner different from that stated at the time it was collected, we will notify users by email. Users will have a choice as to whether or not we use their information in this different manner. If the user declines, will use information in accordance with the privacy policy under which the information was collected. 
-
-  
-  
-**_The Security_**  
+**_Security_**  
   
 Hagerty uses industry standard efforts to safeguard the confidentiality of your non-public personal information, such as firewalls and Secure Socket Layers. However, "perfect security" does not exist on the Internet. 
 
   
   
-**_The Public Forums_**  
+**_Public Forums_**  
   
 This site may make forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
 
   
   
-**_Contacting the Web Site_**  
+**_Questions_**  
   
-If you have any questions about this privacy statement, the practices of this site, or your dealings with Hagerty, simply contact us at 1-800-922-4050 or [ webmaster@hagerty.com](mailto:webmaster@hagerty.com)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with Hagerty, simply contact us at 1-800-922-4050 or [ webmaster@hagerty.com](mailto:webmaster@hagerty.com). 
 
   
 
