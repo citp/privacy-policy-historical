@@ -1,6 +1,20 @@
-> *The following text is extracted and transformed from the puzzlepirates.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627130627id_/http%3A//www.puzzlepirates.com/Privacy.xhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the puzzlepirates.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227151711id_/http%3A//www.puzzlepirates.com/Privacy.xhtml) for the most accurate reproduction.*
 
 # Yohoho! Puzzle Pirates: Three Rings Privacy Policy
+
+## Contents
+
+  * 1 Three Rings Privacy Policy
+    * 1.1 Information Collection and Use
+    * 1.2 Children
+    * 1.3 Information Sharing and Disclosure
+    * 1.4 Cookies
+    * 1.5 Communications from Three Rings
+    * 1.6 Confidentiality and Security
+    * 1.7 Changes to this Privacy Policy
+    * 1.8 Questions and Suggestions
+
+
 
   
 This policy covers how Three Rings Design, Inc. ("Three Rings") treats personal information that Three Rings collects and receives, including information related to your past use of Three Rings products and services. Personal information is information about you that is personally identifiable such as your name, address, email address, or phone number, and that is not otherwise publicly available. 
