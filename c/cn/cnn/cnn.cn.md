@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cnn.cn privacy policy that was archived on 2007-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070409165217id_/http%3A//cnn.cn/shop/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cnn.cn privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227182101id_/http%3A//cnn.cn/shop/privacy.php) for the most accurate reproduction.*
 
-# Cellular Nationwide Network
+# Privacy Notice - Mobiado, Tools, 3G, Alcatel, Apple, LG, Accessories Store, Sony, Nokia, Samsung,
 
 Cellular Nationwide Network knows that you care how information about you is used and shared, and we appreciate your trust and wnat you to feel confident in our services and security as it relates to your personal information. This notice describes our privacy policy. By visiting Cellular Nationwide Network, you are accepting the practices described in this Privacy Notice. 
 
