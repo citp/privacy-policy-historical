@@ -1,29 +1,71 @@
-> *The following text is extracted and transformed from the appeal-democrat.com privacy policy that was archived on 2007-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070521203538id_/http%3A//www.appeal-democrat.com/sections/footer/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appeal-democrat.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227142442id_/http%3A//www.freedom.com/privacy.html) for the most accurate reproduction.*
 
-# Appeal-Democrat.com : Online Privacy Policy
+# Freedom Communications, Inc. - Privacy Policy
 
-The APPEAL-DEMOCRAT Web site is maintained by APPEAL-DEMOCRAT, 1530 Ellis Lake Drive , Marysville, CA. 95901. We can be reached by e-mail at ADNewsroom@appealdemocrat.com 
+This is the privacy policy ("Privacy Policy") for the Web sites (collectively, the "Service") made available by Freedom Communications, Inc. ("Freedom," "we" or "our"), the legal owner of the Service. [Click here](https://web.archive.org/web/20071227142442id_/http%3A//www.freedom.com/ppsites.html) for a list of Freedom Web sites that are governed by this Privacy Policy. We respect your privacy and appreciate the confidence you have placed in the Service. We are committed to protecting your privacy and preserving your trust. Please carefully review this Privacy Policy to learn about how we collect, use, and protect any personal information you provide us and your choices for managing your personal information. This Privacy Policy is subject to the [User Agreement](https://web.archive.org/web/20071227142442id_/http%3A//www.freedom.com/eula.html) posted on the Service.
 
-HOW APPEAL-DEMOCRAT USES INFORMATION PROVIDED BY YOU: 
+**Opting Out Of Future Communications; Updating And Deleting Your Information**
 
-This site does not collect personally identifiable information about individuals except when specifically and knowingly provided by such individuals. A user's personally identifiable information may be used by APPEAL-DEMOCRAT and its affiliates for editorial purposes. APPEAL-DEMOCRAT may also use such information for marketing and promotional purposes. We may share your personally identifiable information with other companies with which we conduct business. For example, if you enter our contests, make a purchase or use our e-mail services, we sometimes rely on outside companies to provide these services to you. In such cases, we need to provide your personally identifiable information to them. Or if you choose to purchase items through our commerce site, we will forward your information to third parties for credit card processing and order fulfillment. We also sometimes provide your information to our advertisers, so that they can serve ads to you that meet your needs. While APPEAL-DEMOCRAT will seek to require such third parties to follow appropriate privacy policies and will not authorize them to use this information except for the express purpose for which it was provided, APPEAL-DEMOCRAT does not bear any responsibility for any actions or policies of any third parties. 
+We want to communicate with you only if you want to hear from us. If you have questions or concerns regarding this Privacy Policy or wish to exclude your personal information from our direct marketing purposes, please feel free to contact us at: 
 
-Except for purposes outlined above, we do not provide, sell or lease your personally identifiable information to any third parties, unless otherwise stated at the time of collection. If you have any questions or concerns regarding what is done with your information on any part of APPEAL-DEMOCRAT, please e-mail us at ADNewsroom@appealdemocrat.com, before submitting any information. 
+17666 Fitch  
+Irvine , CA 92614  
+E-mail: [pp@freedom.com](mailto:pp@freedom.com)
 
-We also collect anonymous, aggregated data and provide it to our advertisers and other companies that we do business with for market research and statistical purposes. For example, we might report to our advertisers that a certain percentage of users are between the ages of 30-35. 
+If you would like to update or delete your e-mail address, mailing address or other personal information with us please contact us the same way.
 
-Finally, you should be aware that when you voluntarily disclose personally identifiable information (e.g., first and last name, address, e-mail address, etc.) on the forums or in the chat areas, that information can be collected and used by others and may result in unsolicited messages from other posters or parties. 
+**What Types Of Information Do We Collect?**
 
-COOKIES: 
+We collect information from our users at several different points on the Service. For example, we may collect personally identifiable information from you such as your name, address, phone number, household income, and e-mail address when you register, subscribe to one of our services, enter sweepstakes, contests or other promotions offered by or through the Service, and at other times. We also collect credit card information in connection with any purchase you make through the Service. In addition, we automatically collect non-personal information such as your browser type, operating system, IP address, and Service usage information, in order to, among other things, evaluate and improve the performance of the Service.
 
-APPEAL-DEMOCRAT may place a "cookie" in the browser files of APPEAL-DEMOCRAT user's computer. The cookie may contain personally identifiable information. Cookies enable APPEAL-DEMOCRAT to serve information that you have requested, or that relate to your use of APPEAL-DEMOCRAT to information that you have specifically and knowingly provided to APPEAL-DEMOCRAT. You also may occasionally get cookies from our advertisers. APPEAL-DEMOCRAT does not control these cookies and these cookies are not subject to this policy. The use of advertising cookies sent by third-party servers is common in the Internet industry. Most browsers are initially set to accept cookies. If you prefer, you can set your browser to refuse cookies or to alert you when cookies are being sent. However, it is possible that some portions of APPEAL-DEMOCRAT will not function properly if you do so. For further information on cookies and their use, see the help instructions delivered with your browser or contact the browser's manufacturer. APPEAL-DEMOCRAT cannot provide help regarding your browser's cookie settings. 
+**How Do We Use The Information We Collect?**
 
-CHILDREN: 
+We will not sell, share, or rent personal information to third parties, and we will not otherwise disclose personally identifiable information to third parties, without your explicit permission, except as disclosed in this Privacy Policy.
 
-Be sure to ask your parents for permission before you send any information about yourself (your name, address, e-mail address, etc.) to us or anyone else over the Internet, and before making any purchases online. 
+We collect and use information for internal purposes, such as: 
 
-PARENTS: 
+  * enhancing your experience at the Service;
+  * performing administration and technical support for the Service;
+  * performing administration and technical support for the Service;
+  * enabling you to enter sweepstakes, contests and other promotions;
+  * creating aggregate information about demographics and usage patterns;
+  * inviting our promotional vendors and advertisers—with your explicit permission—to call to your attention special offers, products and services that may be of interest to you.
+  * enabling purchases of goods and services
 
-We encourage you to get involved with your children's online usage and to be aware of the activities in which they are participating. Any personally identifiable information collected by APPEAL-DEMOCRAT from children (that we are aware are children) will be used only for APPEAL-DEMOCRAT internal purposes such as market research, sweepstakes fulfillment and for fulfilling requests for information or materials, and may sometimes be included in our database. However, such information will not be posted or published by us, or provided to any third parties, without your prior consent. Additionally, anonymous aggregated data is sometimes provided to other companies which we do business with, for statistical and market research purposes as described above. Finally, you should be aware that if your child voluntarily discloses his name, e-mail address, etc. on various forums, or chat areas, such disclosure may result in unsolicited messages from other parties. Accordingly, you should discourage your child from doing so. 
 
-Again, if you have any concerns regarding your child's or your use of APPEAL-DEMOCRAT, please contact us at ADNewsroom@appealdemocrat.com
+
+We may use aggregate information to measure general Service usage patterns and characteristics of our user base, and we may include such aggregate information about our audience in reports to our commercial vendors. We may also disclose aggregated user statistics (for example, a certain percentage of our users live in a certain area) without your permission in order to describe our audience to existing and prospective advertisers or other third parties. However, this aggregate information does not reference names, phone numbers, e-mail addresses, or other personally identifiable information, and it is not traceable to a specific recipient or user e-mail address.
+
+We also may share personal information with companies affiliated with Freedom. In the event that Freedom is merged, or in the event of a transfer of our assets, we may disclose or transfer your personal information in connection with such transaction. In the event of such a transfer, we will notify you of the change of control of your personal information. You should also be aware that courts of equity, such as U.S. Bankruptcy Courts, may have the authority under certain circumstances to permit your personal information to be shared or transferred to third parties without your permission.
+
+From time to time, we might establish a business relationship with other persons or entities whom we believe trustworthy and whom we have asked to confirm that their privacy practices are consistent with ours. For example, we may contract with service providers to provide certain services including credit card processing, data management, promotional services, etc. We provide our service providers with the information needed for them to perform these services. Each service provider must agree to implement and maintain reasonable security procedures and practices appropriate to the nature of your information in order to protect your personal information from unauthorized access, destruction, use, modification or disclosure.
+
+Although unlikely, in certain instances we may disclose your personal information when we have reason to believe that it is necessary to identify, contact or bring legal action against persons or entities who may be causing injury to you, to Freedom or its affiliates, or to others. We may also disclose your personal information when we believe the law requires it.
+
+**Registration**
+
+The general registration area can be found on the Service home page and at other locations throughout the Service. To use or access certain features of the Service, you may have to register or otherwise provide personal information. The decision to provide this information is optional; however, if you elect not to register or provide such information, you may not be able to access certain content or features or participate in various areas of the Service.
+
+**Security**
+
+We use encryption and authentication tools to protect the security of personal information that you share with us. However, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect personal information, we cannot and do not guarantee or warrant the security of any information you transmit to or from the Service, and you do so at your own risk.
+
+**Cookies**
+
+We may place a text file called a "cookie" in the browser files of your computer or use other technology to improve your navigation of the Service. A cookie is a small amount of data that is sent to your Web browser from a Web server and stored on your computer's hard drive. Generally, we use cookies to remind us of who you are, tailor our products and services to suit your personal interests, estimate our audience size, track your status in our sweepstakes, contests and promotions and/or analyze your visiting patterns. The use of cookies is an industry standard; you will find them at most major Web sites. Cookies make Web-surfing easier for you by saving your preferences while you are using the Service. For this reason, we may save passwords, credit card or other personal information in cookies. You can generally set your Web browser not to accept cookies or to notify you when you are sent a cookie, giving you the chance to decide whether or not to accept it. If you set your Web browser not to accept cookies, it may affect your ability to utilize all features on the Service.
+
+**Links To Third-Party Web Sites**
+
+The Service may contain links to Web sites operated and maintained by third parties, over which we have no control. Privacy policies on such linked Web sites may be different from our Privacy Policy. You access such linked Web sites at your own risk. You should always read the privacy policy of a linked Web site before disclosing any personal information on such site.
+
+**Discussion Board, Forums and Other User Generated Content**
+
+Our online chat areas, bulletin boards, other public forums and user-generated content (i.e., photos, videos) can be a useful way for you to express yourself to other online users. When you post messages or otherwise use these features, the information that you provide (including personally identifiable information) may be publicly available to, collected by, and used by third parties. We are not responsible for the content of messages or images posted by users or disclosures of personal information.
+
+**Children's Privacy Statement**
+
+We do not knowingly collect personally identifiable information from children under the age of 13. If we become aware that we have inadvertently received personally identifiable information from a user under the age of 13, we will delete such information from our records. Because we do not knowingly collect any personally identifiable information from children under the age of 13, we also do not knowingly distribute such information to third parties.
+
+**Policy Changes**
+
+If we decide to change our Privacy Policy, in whole or in part, we will inform you by posting the changed Privacy Policy here. Those changes will go into effect on the date posted in the notice. The new policy will apply to all current and past users of the Service and will replace any prior policies that are inconsistent.
