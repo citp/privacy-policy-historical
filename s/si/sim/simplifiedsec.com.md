@@ -1,61 +1,32 @@
-> *The following text is extracted and transformed from the simplifiedsec.com privacy policy that was archived on 2007-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070202223849id_/http%3A//www.simplifiedsec.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplifiedsec.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227224655id_/http%3A//www.spam.com/legal/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Simplified SEC
+# Privacy Policy | SPAM.com
 
-#### Privacy Policy
+## Privacy Policy
 
-At Simplified SEC, we respect the privacy needs of our valued members. This Privacy Policy outlines what specific information is gathered on the Simplified SEC and how that information is used.
+Hormel Foods collects personal identifying information only when guests knowingly provide such information along with submissions of information you make, or with ordering information for merchandise or to sign up for the SPAM Fan Club. Such information will only be used for internal purposes or to provide further information regarding our product and related activities (i.e., promotions, offers, etc.).
 
-Maintaining the privacy of your information is of paramount importance to us as it helps foster confidence, goodwill and stronger relationships with you, our members. If, at any time, you have questions or concerns about our privacy practices, please feel free contact us at  Wayback Machine
+Information provided will only be used for internal Company purposes such as marketing and promotional purposes and will not be shared with any third parties other than those contractually obligated to perform services for Hormel Foods and which are legally bound to keep that information confidential. We do not sell, rent, loan, trade or otherwise disclose your personal identifying information to any other third parties unless release of the information is required by law or governmental investigations or proceedings.
 
-Search the history of over 411 billion [web pages](https://blog.archive.org/2016/10/23/defining-web-pages-web-sites-and-web-captures/) on the Internet. 
+### Computer tracking of identifiable information or "cookies"
 
-[](https://archive.org/web/)
+Cookies are pieces of information that a web site transfers to your hard drive for record-keeping purposes. We do not use cookies nor do we do any tracking of personal identifying information about our guests. However, we do log IP addresses on the electronic post card section of this web site for security purposes.
 
-.
+### Policies for individuals 17 and under
 
-##### Information Collection and Use
+If you are an individual 17 years of age or under, please obtain your parent's or guardian's consent before submitting any information on this web site. If you are 17 years or under, please so indicate when providing any personal identifying information. No information collected from individuals 17 years of age or under is disclosed to any third parties for any purposes, unless we specifically state otherwise.
 
-Simplified SEC explicitly asks when we need information that personally identifies you ("Personal Information"). Your personal information is used to create your personal access to our software, and to contact you in the course of using this software. Financial information that is collected is used to verify, identity and to bill either you or your company for products and services, as applicable. Demographic and profile data collected by Simplified SEC may be used to tailor this web site or any requested email communications, and to display information that is more relevant to you. Simplified SEC also compiles demographic and product use information, but in the aggregate only, and may make that aggregate information publicly available. Under no circumstances will Simplified SEC make any personal information about an individual user available to anyone.
+## Contacting Hormel Foods Corporation
 
-Your email address is used to only send you information that you have requested. As part of your use of our software, Simplified SEC allows you to elect to receive, or not receive, certain information from Simplified SEC. Simplified SEC adheres strictly to permission-based email policy. Except as mentioned above, Simplified SEC will not send you unsolicited email information, commercial offers or advertisements. Simplified SEC will not sell, rent, or loan our contact lists or our member's contact lists (including member data) to any outside firms. All emails that you have requested will have an option to unsubscribe. Unsubscribe requests are fulfilled within minutes and no further communications will be sent to members who have stated that they do not wish to receive the specified information.
+If you have any questions about the Hormel Foods Privacy Policy, please contact us at:
 
-##### Communications from the Site
+> Hormel Foods Corporation  
+>  1 Hormel Place  
+>  Austin, MN 55912-3680  
+>  Attention: Legal Department 
 
-**Special Offers and Updates**
+Alternatively, you may call us at 1-800-523-4635, between 8:00 a.m. and 4:00 p.m., Central Standard Time, Monday through Friday.
 
-We send all new members a welcoming email to verify their new account and confirm their password. Established members will occasionally receive information on products, services, special deals, and a newsletter. Out of respect for the privacy of our users we present the option to not receive these types of communications. Members can unsubscribe via the unsubscribe mechanism at the bottom of each email or through the "Email Preferences" panel in the Simplified SEC Control Panel.
+We would be happy to answer your questions and to address your concerns.
 
-**Newsletter**
-
-Out of respect for our member's privacy we provide a way to opt-out of these communications via the unsubscribe mechanism at the bottom of each email.
-
-**Service Announcements**
-
-On rare occasions it is necessary to send out a strictly service related announcement. For instance, if our service is temporarily suspended for maintenance we might send users an email. Generally, users may not opt-out of these communications, though they can deactivate their account. However, these communications are not promotional in nature.
-
-**Customer Service**
-
-We communicate with users on a regular basis to provide requested services and in regards to issues relating to their account we reply via email or phone, in accordance with the member's wishes, regardless of their subscription status to receiving emails.
-
-##### Web Site Usage Information
-
-We use your IP address to help diagnose problems with our server, and to administer our Web site. We do not link your IP address to any personally identifiable information. We use tracking information to determine which areas our site users visit based on traffic to those areas. Simplified SEC does not track what individual users read, but rather how often each page is visited. This helps us maintain a superior and informative web site for you.
-
-##### Policy Modifications
-
-We may change this Privacy Policy from time to time. If/when Simplified SEC makes changes to this privacy statement, we will highlight the changes on our homepage and email users who have given us permission to do so. We will post any changes here, so be sure to check back periodically. However, please be assured that if the Privacy Policy changes in the future, we will not use the personal information you have submitted to us under this Privacy Policy in a manner that is materially inconsistent with this Privacy Policy, without your prior consent.
-
-##### Contacting Us About Privacy
-
-If you have any questions about our privacy statement, the information we have collected from you online, the practices of this site, or your dealings with this web site, please contact:
-
-**Simplified Web Systems**  
-Regarding: Simplified SEC  
-1670 Paonia St  
-Colorado Springs, CO 80915  
-Wayback Machine
-
-Search the history of over 411 billion [web pages](https://blog.archive.org/2016/10/23/defining-web-pages-web-sites-and-web-captures/) on the Internet. 
-
-[](https://archive.org/web/)
+_Last Updated (May 2005)_
