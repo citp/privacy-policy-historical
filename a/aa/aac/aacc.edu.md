@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aacc.edu privacy policy that was archived on 2007-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070619051521id_/http%3A//www.aacc.edu/technology/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aacc.edu privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227211806id_/http%3A//www.aacc.edu/technology/privacy.cfm) for the most accurate reproduction.*
 
 # Progressive Technology - Your Privacy and our Web Site
 
