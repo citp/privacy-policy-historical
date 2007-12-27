@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dailytarheel.com privacy policy that was archived on 2007-02-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070202193150id_/http%3A//www.dailytarheel.com/user/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dailytarheel.com privacy policy that was archived on 2007-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071227213447id_/http%3A//www.dailytarheel.com/user/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 
@@ -24,6 +24,7 @@ var story_id = '';
 document.write('<SCR'+'IPT SRC='+'http://media.collegepublisher.com/media/scripts/commonFunctions.js?2>'+'</SCR'+'IPT>');
 /* ]]> */
 </script><script src="http://media.collegepublisher.com/media/scripts/commonFunctions.js?2"></script>
+<base href="http://www.dailytarheel.com/">
 <script type="text/javascript" src="http://media.collegepublisher.com/media/scripts/coda/mtvi_reporting.js"></script>
 <script type="text/javascript">
 //<![CDATA[
@@ -64,16 +65,16 @@ document.write('<SCR'+'IPT SRC='+'http://media.collegepublisher.com/media/script
 	dispatcher.sendCall();
 	//]]>
 </script>
-<base href="http://www.dailytarheel.com/">
-<link href="http://media.collegepublisher.com/media/css/global.css?v25" rel="stylesheet" type="text/css" media="screen">
+
+<link href="/media/css/global.css?v44" rel="stylesheet" type="text/css" media="screen">
 <link href="http://media.collegepublisher.com/media/css/features_1024.css?v1" rel="alternate stylesheet" type="text/css" title="1024 x 768">
 <link href="http://media.collegepublisher.com/media/css/popup_new.css?v12" rel="stylesheet" type="text/css" media="screen">
 <link href="http://media.collegepublisher.com/media/css/print.css?v1" rel="stylesheet" type="text/css" media="print">
 <link href="http://www.dailytarheel.com/media/paper885/styles.css?v13" rel="stylesheet" type="text/css" media="screen">
 <link rel="alternate" type="application/rss+xml" title="RSS feed for Daily Tar Heel" href="http://www.dailytarheel.com/articles.rss">
-<!-- Some web 2.0 resources. -->
+<!-- Some "Web 2.0" Resources. -->
 <script type="text/javascript" src="http://media.collegepublisher.com/media/scripts/prototype.js"></script>
-<script type="text/javascript" src="http://media.collegepublisher.com/media/scripts/global.js?13"></script>
+<script type="text/javascript" src="http://media.collegepublisher.com/media/scripts/global.js?14"></script>
 <script type="text/javascript" src="http://media.collegepublisher.com/media/scripts/network_channel.js"></script>
 <script type="text/javascript" src="http://media.collegepublisher.com/media/scripts/event_listener.js"></script>
 <script type="text/javascript" src="http://media.collegepublisher.com/media/scripts/resolution.js"></script>
@@ -83,6 +84,9 @@ document.write('<SCR'+'IPT SRC='+'http://media.collegepublisher.com/media/script
 <script type="text/javascript" src="http://media.collegepublisher.com/media/scripts/spry/xpath.js"></script>
 <script type="text/javascript" src="http://media.collegepublisher.com/media/scripts/spry/SpryData.js"></script>
 <script type="text/javascript" src="http://media.collegepublisher.com/media/scripts/contentslider.js?1"></script>
+<script type="text/javascript" src="http://media.collegepublisher.com/media/scripts/ufo.js?1"></script>
+
+
 <meta http-equiv="pragma" content="no-cache">
 <meta http-equiv="expires" content="-1">
 <meta name="robots" content="all">
@@ -95,17 +99,30 @@ document.write('<SCR'+'IPT SRC='+'http://media.collegepublisher.com/media/script
 
 <script type="text/javascript">
 /* <![CDATA[ */
-var currentissuedate='02/02/07';
-var currentissuedayname='Friday';
-var currentissuemonthname='February';
-var currentissueday='2';
-var currentissuemonth='2';
+var currentissuedate='12/05/07';
+var currentissuedayname='Wednesday';
+var currentissuemonthname='December';
+var currentissueday='5';
+var currentissuemonth='12';
 var currentissueyear='2007';
 var basehref='http://www.dailytarheel.com/';
 var paper_id='885';
 var paperzip='27515';
 var paper_name='Daily Tar Heel';
 var paper_domain='www.dailytarheel.com';
+
+
+
+var dart_paper_name = 'UniversityofNorthCarol_885';
+
+var dart_primary_section = sectioncategory ==''? 'user' : sectioncategory.toLowerCase();
+
+var dart_ord = Math.random() * 10000000000000000;
+var dart_tileNumber = 1;
+dart_primary_section = dart_primary_section.replace(/^(\d.+?)$/,"_$1");
+dart_primary_section = dart_primary_section.replace(/\s{1,}/g,"");
+dart_primary_section = dart_primary_section.replace(/\/{1,}/g,"");
+
 
 var slideshowpath='http://www.dailytarheel.com/home/index.cfm?event=displaySlideShow&islides=';	
 		
@@ -114,39 +131,45 @@ var slideshowpath='http://www.dailytarheel.com/home/index.cfm?event=displaySlide
 var aSectionNames = new Array();
 var aSectionLinks = new Array();
 aSectionNames[0] = 'Letters to the Editor';
-aSectionLinks[0] = '/news/2007/02/02/LettersToTheEditor/';
+aSectionLinks[0] = '/news/2007/12/05/LettersToTheEditor/';
 aSectionNames[1] = 'News';
-aSectionLinks[1] = '/news/2007/02/02/News/';
+aSectionLinks[1] = '/news/2007/12/05/News/';
 aSectionNames[2] = 'Sports Monday';
-aSectionLinks[2] = '/news/2007/02/02/SportsMonday/';
+aSectionLinks[2] = '/news/2007/12/05/SportsMonday/';
 aSectionNames[3] = 'University';
-aSectionLinks[3] = '/news/2007/02/02/University/';
+aSectionLinks[3] = '/news/2007/12/05/University/';
 aSectionNames[4] = 'Opinion';
-aSectionLinks[4] = '/news/2007/02/02/Opinion/';
-aSectionNames[5] = 'Kvetching Board';
-aSectionLinks[5] = '/news/2007/02/02/KvetchingBoard/';
-aSectionNames[6] = 'City';
-aSectionLinks[6] = '/news/2007/02/02/City/';
-aSectionNames[7] = 'State & National';
-aSectionLinks[7] = '/news/2007/02/02/StateNational/';
-aSectionNames[8] = 'Sports';
-aSectionLinks[8] = '/news/2007/02/02/Sports/';
-aSectionNames[9] = 'Features';
-aSectionLinks[9] = '/news/2007/02/02/Features/';
-aSectionNames[10] = 'Online Exclusives';
-aSectionLinks[10] = '/news/2007/02/02/OnlineExclusives/';
+aSectionLinks[4] = '/news/2007/12/05/Opinion/';
+aSectionNames[5] = 'City';
+aSectionLinks[5] = '/news/2007/12/05/City/';
+aSectionNames[6] = 'Kvetching Board';
+aSectionLinks[6] = '/news/2007/12/05/KvetchingBoard/';
+aSectionNames[7] = 'Reader Photos';
+aSectionLinks[7] = '/news/2007/12/05/ReaderPhotos/';
+aSectionNames[8] = 'State & National';
+aSectionLinks[8] = '/news/2007/12/05/StateNational/';
+aSectionNames[9] = 'Sports';
+aSectionLinks[9] = '/news/2007/12/05/Sports/';
+aSectionNames[10] = 'Features';
+aSectionLinks[10] = '/news/2007/12/05/Features/';
 aSectionNames[11] = 'Arts';
-aSectionLinks[11] = '/news/2007/02/02/Arts/';
-aSectionNames[12] = 'Slideshows';
-aSectionLinks[12] = '/news/2007/02/02/Slideshows/';
-aSectionNames[13] = 'Investigative Team';
-aSectionLinks[13] = '/news/2007/02/02/InvestigativeTeam/';
-aSectionNames[14] = 'Diversions';
-aSectionLinks[14] = '/news/2007/02/02/Diversions/';
-aSectionNames[15] = 'La Colina';
-aSectionLinks[15] = '/news/2007/02/02/LaColina/';
-aSectionNames[16] = 'Print Edition';
-aSectionLinks[16] = '/news/2007/02/02/PrintEdition/';
+aSectionLinks[11] = '/news/2007/12/05/Arts/';
+aSectionNames[12] = 'Investigative Team';
+aSectionLinks[12] = '/news/2007/12/05/InvestigativeTeam/';
+aSectionNames[13] = 'Diversions';
+aSectionLinks[13] = '/news/2007/12/05/Diversions/';
+aSectionNames[14] = 'La Colina';
+aSectionLinks[14] = '/news/2007/12/05/LaColina/';
+aSectionNames[15] = 'Print Edition';
+aSectionLinks[15] = '/news/2007/12/05/PrintEdition/';
+aSectionNames[16] = 'Corrections';
+aSectionLinks[16] = '/news/2007/12/05/Corrections/';
+aSectionNames[17] = 'Online Exclusives';
+aSectionLinks[17] = '/news/2007/12/05/OnlineExclusives/';
+aSectionNames[18] = 'Multimedia';
+aSectionLinks[18] = '/news/2007/12/05/Multimedia/';
+aSectionNames[19] = 'Online Extras';
+aSectionLinks[19] = '/news/2007/12/05/OnlineExtras/';
 /* ]]> */
 </script>
 
@@ -211,10 +234,18 @@ if (bAdmanagerClientAlive) {
 	
 }
 
-if (bAdmanagerNetworkAlive) {
-	document.write('<SCR'+'IPT SRC='+'http://admanager3.collegepublisher.com/runtime/javascriptcache/national/885/national.js>'+'</SCR'+'IPT>');
-	
-}
+
+
+
+	document.write('<SCR'+'IPT SRC='+'http://admanager3.collegepublisher.com/runtime/javascript/DART_national.js>'+'</SCR'+'IPT>');
+
+
+
+
+		
+
+
+
 /* ]]> */
 </script>
 
@@ -277,9 +308,12 @@ var sc_security="cd0edc9d";
 					</div>
 					<div id="net_channels">
 						<ul>
-							
+						
+							<li><a href="/channel/music/" target="_parent">Music</a></li>
+							<li><a href="http://www.mtvu.com/jobs/" target="_blank">Jobs</a></li>
+							<li><a href="http://media.www.dailytarheel.com/channel/collegeheadlines/" target="_parent">Top National College News</a></li>
+							<li><a href="/channel/money/" target="_parent">Money</a></li>
 							<li><a href="/books/" target="_parent">Books</a></li>
-							<li><a href="/movies/" target="_parent">Movies</a></li>
 							
 						</ul>
 					</div>
@@ -308,7 +342,7 @@ var sc_security="cd0edc9d";
 		<div id="unc_header">
 						<h1><a href="/home/" title="The Daily Tarheel">The Daily Tarheel</a></h1>
 			<script language="javascript">
-			     document.write('<div id="issue_date">' + currentissuedayname +', '+currentissuemonthname+' '+currentissueday+', '+currentissueyear+'</div>');</script><div id="issue_date">Friday, February 2, 2007</div>
+			     document.write('<div id="issue_date">' + currentissuedayname +', '+currentissuemonthname+' '+currentissueday+', '+currentissueyear+'</div>');</script><div id="issue_date">Wednesday, December 5, 2007</div>
 			<div id="slogan">Serving the University Community since 1893</div>
 
 <ul id="unc_login_box">
@@ -345,6 +379,9 @@ var sc_security="cd0edc9d";
 			</ul>
 
 
+
+
+
 		</div>
 		<div id="unc_nav">
 		<div class="gutter">
@@ -357,7 +394,7 @@ var sc_security="cd0edc9d";
 		
 		<li onmouseover="this.className='thisisforie'" onmouseout="this.className=''">
 			
-			<a href="/news/2007/02/02/News/" class="flan_drop">News</a>
+			<a href="/news/2007/12/05/News/" class="flan_drop">News</a>
 		
 			
 		
@@ -368,31 +405,43 @@ var sc_security="cd0edc9d";
 				
 			
 				
-					<li><a href="/news/2007/02/02/University/" class="sect_lev_1">University</a></li>
+					<li><a href="/news/2007/12/05/University/" class="sect_lev_1">University</a></li>
 				
 			
 				
-					<li><a href="/news/2007/02/02/City/" class="sect_lev_1">City</a></li>
+					<li><a href="/news/2007/12/05/City/" class="sect_lev_1">City</a></li>
 				
 			
 				
-					<li><a href="/news/2007/02/02/StateNational/" class="sect_lev_1">State &amp; National</a></li>
+					<li><a href="/news/2007/12/05/StateNational/" class="sect_lev_1">State &amp; National</a></li>
 				
 			
 				
-					<li><a href="/news/2007/02/02/Features/" class="sect_lev_1">Features</a></li>
+					<li><a href="/news/2007/12/05/Features/" class="sect_lev_1">Features</a></li>
 				
 			
 				
-					<li><a href="/news/2007/02/02/Arts/" class="sect_lev_1">Arts</a></li>
+					<li><a href="/news/2007/12/05/Arts/" class="sect_lev_1">Arts</a></li>
 				
 			
 				
-					<li><a href="/news/2007/02/02/Diversions/" class="sect_lev_1">Diversions</a></li>
+					<li><a href="/news/2007/12/05/Diversions/" class="sect_lev_1">Diversions</a></li>
 				
 			
 				
-					<li><a href="/news/2007/02/02/PrintEdition/" class="sect_lev_1">Print Edition</a></li>
+					<li><a href="/news/2007/12/05/LaColina/" class="sect_lev_1">La Colina</a></li>
+				
+			
+				
+					<li><a href="/news/2007/12/05/PrintEdition/" class="sect_lev_1">Print Edition</a></li>
+				
+			
+				
+					<li><a href="/news/2007/12/05/Corrections/" class="sect_lev_1">Corrections</a></li>
+				
+			
+				
+			
 				
 			
 				
@@ -413,7 +462,7 @@ var sc_security="cd0edc9d";
 		
 		<li onmouseover="this.className='thisisforie'" onmouseout="this.className=''">
 			
-			<a href="/news/2007/02/02/Opinion/" class="flan_drop">Opinion</a>
+			<a href="/news/2007/12/05/Opinion/" class="flan_drop">Opinion</a>
 		
 			
 		
@@ -440,11 +489,19 @@ var sc_security="cd0edc9d";
 				
 			
 				
-					<li><a href="/news/2007/02/02/LettersToTheEditor/" class="sect_lev_1">Letters to the Editor</a></li>
+			
 				
 			
 				
-					<li><a href="/news/2007/02/02/KvetchingBoard/" class="sect_lev_1">Kvetching Board</a></li>
+					<li><a href="/news/2007/12/05/LettersToTheEditor/" class="sect_lev_1">Letters to the Editor</a></li>
+				
+			
+				
+					<li><a href="/news/2007/12/05/KvetchingBoard/" class="sect_lev_1">Kvetching Board</a></li>
+				
+			
+				
+			
 				
 			
 				
@@ -459,7 +516,7 @@ var sc_security="cd0edc9d";
 		
 		<li onmouseover="this.className='thisisforie'" onmouseout="this.className=''">
 			
-			<a href="/news/2007/02/02/Sports/" class="flan_drop">Sports</a>
+			<a href="/news/2007/12/05/Sports/" class="flan_drop">Sports</a>
 		
 			
 		
@@ -489,6 +546,66 @@ var sc_security="cd0edc9d";
 			
 				
 			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+			
+				
+					</ul></li>
+				
+			
+			
+		
+		
+		<li onmouseover="this.className='thisisforie'" onmouseout="this.className=''">
+			
+			<a href="/news/2007/12/05/OnlineExclusives/" class="flan_drop">Online Exclusives</a>
+		
+			
+		
+		
+		
+			<ul>
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+					<li><a href="/news/2007/12/05/Multimedia/" class="sect_lev_1">Multimedia</a></li>
 				
 			
 			
@@ -500,15 +617,12 @@ var sc_security="cd0edc9d";
 		
 		
 		<!--Start Section (No Drop)-->
-		<li>
+
+				
+<li>
 			<a href="/classifieds" title="Go to the Classifieds" class="unc_no_drop">Classifieds</a>
 		</li>
 		<!--End Link-->
-		<!--Start Section (No Drop)-->
-		<li>
-		
-		</li>
-		<!--End Section-->
 		<!--Start Link-->
 		<li>
 			<a href="/calendar" title="Go to Calendar" class="unc_no_drop">Calendar</a>
@@ -516,16 +630,22 @@ var sc_security="cd0edc9d";
 		<!--End Link-->
 		<!--Start Link-->
 		<li>
-			<a href="http://apps.dailytarheel.com/blogs/" title="Go to Blogs" class="unc_no_drop">Blogs</a>
+			<a href="http://www.dailytarheel.com/blogs" title="Go to Blogs" class="unc_no_drop">Blogs</a>
 		</li>
 		<!--End Link-->
+                <!--Start Link-->
+		<li>
+			<a href="http://www.dailytarheel.com/podcasts" title="Go to Podcasts" class="unc_no_drop">Podcasts</a>
+		</li>
+		<!--End Link-->
+
 
 
 
 		<!--OLD BLOGS-->
 		<!--
 			<li onmouseover="this.className='thisisforie'" onmouseout="this.className=''">
-				<a href="http://apps.dailytarheel.com/blogs/" title="Go to Blogs">Blogs</a>
+				<a href="http://www.dailytarheel.com/blogs" title="Go to Blogs">Blogs</a>
 				<ul>
 					<li><a href="http://apps.dailytarheel.com/blogs/editor.php">Editor</a></li>
 					<li><a href="http://apps.dailytarheel.com/blogs/drinkwell.php">University</a></li>
@@ -564,10 +684,11 @@ var sc_security="cd0edc9d";
   		</li>
   		<li onmouseover="this.className='thisisforie'" onmouseout="this.className=''"><a href="/thestaff">About Us</a>
       			<ul> 
-     
-                                <li><a href="http://www.dailytarheel.com/media/paper885/documents/kjxw9wvj.pdf">Board Member Application</a></li>                           
+                                <li><a href="http://media.www.dailytarheel.com/media/storage/paper885/news/2007/08/21/OnlineExclusives/The-Daily.Tar.Heel.Fall.Staff.Application-2933179.shtml">Staff Application</a></li>
+                                <li><a href="http://www.dailytarheel.com/media/paper885/documents/kjxw9wvj.pdf">Board Member Application</a></li>   
                                 <li><a href="/cpolicy">Corrections Policy</a></li>
                                 <li><a href="/distlist">Distribution Locations</a></li>
+                                <li><a href="http://www.dailytarheel.com/media/paper885/documents/x3ui8407.pdf">Editor Selection Board Application</a></li>
       				<li><a href="/history">History</a></li>
                                 <li><a href="/thestaff">The Staff</a></li>
         		</ul>
@@ -593,7 +714,9 @@ var sc_security="cd0edc9d";
 	document.write('</tr>');
 	document.write('</table></div>');
  }
-</script><div id="banner_client_1" class="cp_banner_client">
+</script><div id="cp_bn_wrap">
+	
+</div><div id="banner_client_1" class="cp_banner_client">
 	<script language="JAVASCRIPT">
 	if (clientBannersAvailable == 1) {
 		showClientBanner(1);
@@ -605,107 +728,113 @@ var sc_security="cd0edc9d";
 </div><div id="maincontent">
 
 				
-					<h2>Privacy Commitment</h2>
+				
+<div style="clear: both;"></div>
+
+	<h2>PRIVACY POLICY AND YOUR CALIFORNIA PRIVACY RIGHTS</h2>
+	<p>This is the official privacy policy (“Privacy Policy”) for the Internet Website <u><a href="http://www.dailytarheel.com">www.dailytarheel.com</a></u> (the "Site"), offered in cooperation with <u><a href="http://www.mtvu.com">mtvU</a></u>, a business of MTV Networks On Campus Inc. and the mtvU Television Channel (together, “mtvU”, “Company”, “we”, “us,” or “ours”), a wholly owned subsidiary of Viacom International Inc. (Viacom International Inc., together with other subsidiaries, affiliates and related entities of Viacom International Inc., including, without limitation, MTV Networks, a division of Viacom International Inc., are referred to as "Affiliates"). </p>
 
 	<h3>Overview</h3>
 
-	<p>College Publisher, the operator of this site and custodian of the information gathered herein, in conjunction with our affiliated Media Partners and Sponsors, commits to ensuring that no information will be provided to others in any form that will personally identify you, unless you have authorized us to do so.  Neither College Publisher nor our Media Partners will sell, share, or rent any personally identifiable information collected from you with other third parties unless you have authorized us to do so.</p>
+	<p>This Privacy Policy is intended to explain our privacy practices and inform you as to: </p>
+	<ul>
+		<li>The kinds of Personal Information we collect from users of the Site and how that information is collected;</li>
+		<li>How we use your Personal Information; </li>
+		<li>The circumstances under which we disclose Personal Information to third parties;</li>
+		<li>How you can access, update or delete any Personal Information collected about you by us; and</li>		
+		<li>The mechanisms we have implemented to protect your Personal Information. </li>
+	</ul>
+	<p>This Site is offered and made available only to users 16 years of age or older who reside in the United States of America, its territories and possessions (“U.S.”). <b>If you are not yet 16 years old, or do not reside in the U.S., please discontinue using the Site immediately, or if, for any reason, you do not agree with this Privacy Policy, please do not participate in the features, activities and services that require you to provide your Personal Information.</b>  This Privacy Policy is a part of the terms and conditions which are set forth in our <u><a href="/user/terms">Terms of Use Agreement</a></u>. Any terms that are not defined in this Privacy Policy shall have the meaning given in the Terms of Use Agreement.  Both the Privacy Policy and Terms of Use Agreement are legally binding on all users.  </p>
+	<p>We reserve the right to revise this Privacy Policy at any time by updating this posting without advance notice to you.  Such revisions shall be effective to you immediately upon posting.  Notice of material changes to either document will be posted on the Site’s homepage.  However, we encourage you to check this Privacy Policy and Terms of Use Agreement often for updates.  We may also e-mail you, at our discretion, about these changes.</p>
+	<p>We are committed to protecting users' privacy.  Keeping the Personal Information you share with us on the Site secure and ensuring your understanding of how we collect, use, disclose and maintain your Personal Information is important to us.  We maintain reasonable physical, electronic and procedural safeguards to protect your Personal Information and while no data transmission over the Internet is 100% secure from intrusion, we have used and will continue to use commercially reasonable efforts to ensure the protection of your Personal Information.  </p>
+	<h3>YOUR CALIFORNIA PRIVACY RIGHTS</h3>
+	
+	<p>If you are a resident of the State of California, under the California Civil Code, you have the right to request from companies conducting business in California a list of all third parties to which the company has disclosed Personal Information during the preceding year for direct marketing purposes. Alternatively, the law provides that if a company has a Privacy Policy that gives either an opt-out (which we may sometimes refer to as “unsubscribe”) or opt-in choice for use of your Personal Information by third parties (such as advertisers or affiliated companies) for marketing purposes, the company may instead provide you with information on how to exercise your disclosure choice options. </p>
+	<p>This Site qualifies for the alternative option; it has a comprehensive Privacy Policy and provides you with details on how you may either opt-out or opt-in to the use of your Personal Information by third parties for direct marketing purposes.  Therefore, we are not required to maintain or disclose a list of the third parties that received your Personal Information for marketing purposes during the preceding year. </p>
+	<p>If you are a California resident and request information about how to exercise your third party disclosure choices you must send a request to the following address with a preference on how our response to your request should be sent (email or postal mail). Send an email to the Privacy Administrator at <u><a href="mailto:feedback@collegepublisher.com">feedback@collegepublisher.com</a></u>, or you may contact us via regular mail at: </p>
+	<address>
+	College Publisher <br>
+	100 City Hall Plaza<br>
+	Level 2<br>
+	Boston, MA 02108<br>
+	c/o Privacy Administrator
+	</address>
+	<br>
+	<p><b>All requests sent via regular mail must be labeled "Your California Privacy Rights" on the envelope or post card and clearly stated on the actual request.</b> For all requests, please include your name, street address, city, state, and zip code. Please include your zip code for our own recordkeeping). <b>We will not accept requests via the telephone or by facsimile.</b> We are not responsible for notices that are not labeled or sent properly, or do not have complete information. </p>
+	<p>To all other users of this Site, if you have other questions about this Privacy Policy, please contact our Privacy Administrator at <u><a href="mailto:feedback@collegepublisher.com">feedback@collegepublisher.com</a></u> or: </p>
+	
+	<address>
+	College Publisher <br>
+	100 City Hall Plaza<br>
+	Level 2<br>
+	Boston, MA 02108<br>
+	c/o Privacy Administrator
+	</address>
+	<br>
+	<h3>GENERAL PRIVACY INFORMATION</h3>
 
-	<p>College Publisher, on behalf of our affiliated Media Partners &amp; Sponsors may ask visitors for information that will help us improve our ability to present meaningful, tailored news, information, services and products to each reader, member, subscriber or registered user. We regard the privacy and security of such information as a critical component of the services that we offer. The following explains the information gathering and dissemination practices used at our Web sites.</p>
+	<p>The Site is designed and targeted to U.S. audiences and is governed by and operated in accordance with the laws of the U.S.  We make no representation that this Site is operated in accordance with the laws or regulations of, or governed by, other nations. By your participation in our Site activities, you certify that you are at least 16 years of age and a resident of the U.S.  If you are located in the European Union or elsewhere outside of the U.S. and you participate in activities on this Site contrary to our policy that only U.S. residents are eligible for certain activities, you do so at your own risk and initiative, and you, not us, are responsible for compliance with any applicable local and national laws.  Please be aware that any Personal Information you provide to us or we obtain as a result of your use of this Site will be transferred to the U.S. and subject to U.S. law.  By using this Site, participating in any Site activities, and/or providing us with your Personal Information, you consent to this transfer and processing of Personal Information to and in the U.S., and in other countries that may not have an equivalent level of protection or a level of data protection considered adequate in the European Union or European Economic Area.  Consequently, you hereby waive any claims that may arise under the laws and regulations that apply to you in or of any other country or jurisdiction.  All users of the Site are required to provide true, current, complete and accurate Personal Information when prompted and we will reject and delete any entry that we believe in good faith to be false, fraudulent, or inconsistent with this Privacy Policy.  </p>
+	
+	<p>Your continued use of the Site indicates your acceptance of this Privacy Policy and of the collection, use, disclosure, management and storage of your Personal Information as described below.  We may from time to time, transfer or merge any Personal Information collected off-line to our online databases or store off-line information in an electronic format.  We may also combine Personal Information we collect online with information available from other sources, including information received from our Affiliates, marketing companies, or Advertisers (as defined in the <u><a href="/user/terms">Terms of Use</a></u> Agreement).  This Privacy Policy covers all such Personal Information and will remain in full force and effect as long as you are a user of the Site, even if your use of or participation in any particular service, feature, function or promotional activity terminates, expires, ceases, is suspended or deactivated for any reason.  </p>
+	<p><b>1. Collection and Use of Personal Information:</b>  When we use the term "Personal Information" we mean information such as your first/middle initial or name and last name, street address, town or city, state, zip code, telephone number, instant-messenger nickname, blog or other personal website URL, university, status, e-mail address and any other information that would allow someone to identify you or contact you.  Personal Information also includes information about your personal preferences, survey responses and your transactions or relationship with us, if you have been a user of the Site or you have provided this type of information to any of the MTVN family of companies.  For example, to the extent we offer such services, if you order any of our various Products (as defined in the Terms of Use Agreement, in addition to your name and contact information, we will also collect and maintain your billing address, shipping address, Product selections, your credit card or other payment instrument information, your order number, and information about your computer's internet address and website which may have referred or directed you to the Site (e.g., the referring URL). Your credit card or debit card number is classified as “Sensitive Personal Information” and is collected via a secure transmission.</p>
+	<p>We collect Personal Information about you when you visit the Site and input information, whether you are registering to use any services, features or functions of the Site, participating in Promotions (as defined in the Terms of Use Agreement, ordering or purchasing Products or in the course of any other exchanges of information, transactions and activities.  We may use the information we obtain from you, including Personal Information, to tailor your experience on the Site, to display content we think may be of interest to you, or to let us customize what you see when you visit the Site according to your preferences.</p>
+	<p><b>a.  Collection of Personal Information During Registration.</b>  Company operates and provides email and database services that enable users to receive information, news, content and services that they are interested in receiving.  During registration (and possibly at certain other times to enable your use of other features or functions or for security purposes), you will be required to provide us with certain information about you in order for us to allow you to use the features and functions of the Site, which may include access to college newspapers, news feeds, chat rooms, message boards, advertisements, registration and member profile pages.  To register as a member of the Site, you are required to select a user name and password (together, the “User ID”), plus an email address, first and last name.  Additional Personal Information requested during the registration process (but not required) may include, but is not limited to college or university name, affiliation, class year, certain contact or demographic information, gender, zip code, cable/satellite provider, ethnic information, and annual income.  We will allow you to change your password, as well as certain Personal Information or Sensitive Personal Information you have given us in order to keep this information current.  Among other things, this information helps us securely identify you as a registered or permitted user of those features and functions, and helps us to present selected content to you and to send you information, service enhancements, and/or promotional materials that you have agreed to receive from our Advertisers. </p>
+	<p>All member benefits are free.  As a registered user of the Site, from time to time, we may also provide you with certain options to subscribe to a selection of free email newsletters and other periodic information.  You may select such options by opting-in at the time of registration or by responding to an offer or invitation at a later date.  You will also have the right to opt-out (unsubscribe) or change your preferences at any time by logging in with your User ID and changing the settings in your account.  You may also opt-out to particular email communications by responding to that email and using the “unsubscribe” or opt-out procedure included in that communication.  </p>
+	<p>If you are a registered user, you acknowledge, understand and hereby agree that you are giving us your consent to track your activities and your use of the Site in connection with your registration. You also agree to this Privacy Policy and the Terms of Use Agreement.</p>
+	<p><b>b. Collection of Personal Information During Registration or In Connection with Certain Features and Functions.</b>  During registration (and possibly at certain other times to enable your use of other features or functions or for security purposes), you will be required to provide us with certain information about you in order for us to allow you to use the features and functions that we may offer on the Site, such as chat rooms, message boards, registration and member profile pages.   </p>
+	<p><b>c . Collection of Personal Information in Connection with Promotions such as Contests and Sweepstakes.</b>  To the extent we offer user registration on the Site, registration as a member of the Site is not always required to enter Promotions such as contests and sweepstakes.  There may be a separate registration process which will require the submission of your first and last name, street address, city, state and zip code, email address, telephone number.  Additional Personal Information may be requested depending on the specific Promotion, but submission of such information may be optional.  The Promotion’s entry page and/or Rules will provide the specific requirements.  You may also have the opportunity to opt-in to special Promotions or offers from our Advertisers in connection with many of these types of Promotions.</p>
+	<p><b>d. Use of Personal Information in Connection with Promotions and Offers; Opt-out Procedures.</b>  We and/or our Affiliates, may contact the Site’s registered users or other users that have registered for or participated in various Site events, Promotions, or transactions, or we may send offers for the purchase of goods and/or services that may be of interest to users.  </p>
+	<p>You may "opt out" of receiving marketing and promotional e-mails or text messages from us at any time by logging into the Site as a registered user with your User ID and editing the preferences and selections available to you and the information associated with your account.  You can also use the opt-out mechanism that is contained in the e-mails we or our affiliates send you, or you can opt-out by sending an email to feedback@collegepublisher.com or written mail to:</p>
+	
+	<address>
+	College Publisher <br>
+	100 City Hall Plaza<br>
+	Level 2<br>
+	Boston, MA 02108<br>
+	c/o Privacy Administrator<br>
+	</address>
+	<br>
+	<p><b>and including your name, email address and the specifics of your request.</b>    However, <b>after you opt-out</b> we or our Affiliates may continue to contact you via email for administrative or informational purposes, including follow-up messages regarding the administration of your account, any services, features or functions you have enrolled in or registered to use, any Promotions you have participated in or have entered, goods and/or services you have ordered, or other transactions you have undertaken with the Site. </p>
+	<p>In the event that we, or our Affiliates, unknowingly sends an email or text message to a child (a person under the age of 13 years) who has registered with the Site in violation of the Site’s Agreement, the child or the child’s parent or legal guardian always have the right to unsubscribe (opt-out) from receiving future emails or text messages via the unsubscribe mechanism contained in the email or message, or to request termination of the child’s registration and status as a registered user with the Site.  The same unsubscribe process is available to a parent or legal guardian of a minor (a person under the age of 18 years old, or the age of majority in your state).  Please see the “Review, Update, or Delete Your Personal Information” Section for details. </p>
+	<p><b>e. Sharing of Aggregate Information with Third Parties.</b>  Some of the aggregate user data we collect may be shared with Advertisers, our Affiliates, and other business partners of the Site, its Parent Companies, and/or its Affiliates, but we do not give any Personal Information to them as part of the relationship except as described in this Privacy Policy.  Use of their tracking technology is subject to their own privacy policies.</p>
+	<p><b>f. Use of Communities.</b>  If you use any of the Communities features and functions made available on or through the Site, please remember that any information disclosed in these venues is automatically made public. You should exercise caution when disclosing any Personal Information in the Communities, as you do not know who will access and use your Personal Information or for what purposes.  mtvU is in no way responsible for the accuracy, use, or misuse of any information, including Personal Information, that you disclose or receive through these venues and you should assume that any disclosure you do make in these venues will be available publicly, even without your knowledge or authorization.</p>
+	<p><b>2. Wireless Marketing Services and Promotional Opportunities:</b> This section is intentionally left blank.  </p>
+	<p><b>3. Accuracy and Confidentiality:</b>  It is your responsibility to give us current, complete, truthful and accurate information, including Personal Information, and to keep such information up to date. <b>We cannot and will not be responsible for any problems or liability that may arise if you do not give us accurate, truthful or complete information or Personal Information or you fail to update such information or Personal Information.</b></p>
+	<p>You are solely responsible for maintaining the strict confidentiality of your User ID, if applicable, and for any charges, costs, expenses, damages, liabilities and losses we incur or may suffer as a result of your failure to do so. You, and not us, are solely responsible and liable for your activity, behavior, use and conduct on the Site and for any use of the Site or any other activity or conduct in connection with the Site, by any others who use your User ID, unless and until you notify us that your User ID may have been compromised, misappropriated or improperly taken or used by another party. </p>
+	<p>Bear in mind that when you submit information to us, it does not guarantee that we will permit you to use any or all of the features or functions of the Site.</p>
+	
+	<p><b>4. Cookies and Other Aggregate Data:</b>  Cookies are pieces of information that a web site transfers to your computer’s hard disk for record-keeping purposes.  Cookies in and of themselves do not personally identify users, although they do identify a user’s computer.  We use cookie technology to collect data regarding your visits to the Site. This data is stored in aggregate form and is not used to identify any particular user or individual.  Most browsers are initially set up to accept cookies.  If you prefer, you can set your browser to notify you each time a cookie is received or to refuse all cookies.  However, you may not be able to take full advantage of our Site if you do so.  We use cookies and similar tracking technologies in a variety of ways, including: </p>
+	<ul>
+	    <li>Keeping count of your return visits to the Site or our Parent Companies’, Affiliates’, Advertisers' or partners' sites; </li>
+		<li>Accumulating and reporting aggregate, statistical information in connection with the Site; </li>
+		<li>Determining which features users like best; and </li>
+		<li>Saving your user name, your password or other information so you don't have to re-enter it each time you visit the Site. </li>
+	</ul>
+	<p>This Site may contain advertisements, references and links to other websites and organizations.  We may also use third parties to display or serve advertising on the Site and our web-based newsletters or other communications which you may choose to receive. Often these third party Advertisers employ cookie and web bug technologies to measure advertising effectiveness.  You should be aware that different rules might apply to the collection, use or disclosure of your information by third parties in connection with their advertisements, promotions and other websites you encounter on the Internet.  We have no access to or control over these cookies.  The use of such technology by these third parties is within their control and not ours.  Even if we have a relationship with the third party, we do not control those sites or their policies and practices regarding your information.  <b>This Privacy Policy does not cover any use of Personal Information that a third party Advertiser or ad server may collect from you.</b>  We encourage you to investigate and ask questions directly of them in this regard.  Use of Advertisers’ tracking technology is subject to their own privacy policies.  For more information about these third party servers please <u><a href="http://www.doubleclick.com/us/about_doubleclick/privacy/">click here</a></u>. </p>
+	<p>Although we may track the numbers of users to inform us on how best to update the Site and enhance the experience for all users, Personal Information is not extracted in this process.  We use tracking information on an aggregated basis to help us operate the Site, enhance and improve our services, improve the look of the Site and display advertising and marketing information.  You can choose to have your computer warn you each time a cookie or image tag is being sent, or you can choose to turn off all such devices.  This is done through your browser.  If you turn cookies off, you may not have access to many features of the Site that make your Internet experience more efficient and enjoyable – like the features mentioned above – and some of our other services will not function properly.</p>
+	<p><b>5. Privacy of Your Postings:</b>  We respect the privacy of the contents of any Personal Information related to or contained in a Posting, unless the information is intended to be disclosed (such Personal Information, except as intended to be disclosed, is called “Confidential Personal Information”).  However, we reserve the right to monitor, edit, and disclose your use of the Site or Confidential Personal Information to a third party, if we believe such action is required by law or is necessary to protect and defend our rights, to enforce this Privacy Policy or the terms of the <u><a href="/user/terms">Terms of Use</a></u> Agreement, or to protect the interests of our users, Advertisers, Parent Companies, Affiliates, suppliers, operational service providers, and others.  Please see the Terms of Use Agreement for details regarding Postings.</p>
+	<p><b>6. Disclosure to Third Parties:</b>  We do not sell, rent, lease or disclose your Personal Information to unaffiliated entities or entities that are not our Advertisers or that are not colleges and universities participating in or in connection with the Site (the “Colleges”), except in the limited circumstances listed below. As stated above, we will disclose Personal Information related to or contained in a Posting in connection with the display of and other services relating to such Posting as such Personal Information is intended to be disclosed. When we plan to disclose your Personal Information to Advertisers, we ask for you to opt in to do so, in which case their use of your information is subject to the Advertisers’ own privacy policies. <b>For opt-out procedures, please see the section of this Privacy Policy above entitled “Use of Personal Information in Connection with Promotions and Offers; Opt-Out Procedures”.</b></p>
+	<p><b>a. Co-Branded Services and Features.</b>  The Site may also offer co-branded services and features, such as events and Promotions that we put together with another company or our Affiliates ("Co-Branded Partner").  Such services and features may be hosted on the Site and/or our Co-Branded Partner’s website. We may share your Personal Information with our Co-Branded Partner and your voluntary use of or participation in a co-branded service or feature means that you opt-in and give your affirmative consent to both the Site and our Co-Branded Partner to collect and use your Personal Information provided during the registration process and/or in connection with the specific co-branded feature or service for the fulfillment of the feature or service and for marketing or administrative purposes.  If you wish to opt-out of a Co-Branded Partner's future use of your Personal Information for marketing purposes, you will need to contact the Co-Branded Partner directly.  The Co-Branded Partner will be identified on the co-branded feature or service.   Registered or other users that participate in certain services relating to Postings, such as user video uploads, agree to have certain Personal Information posted on the Site or Platforms (as defined in the <u><a href="/user/submission">User Content Submission Agreement</a></u> that relates to user video uploads) or, if such feature is offered in connection with a Co-Branded Partner, on our Co-Branded partner’s website in connection with the display of the uploaded video and posted on any platform that the uploaded video may be posted.  Registered or other users that upload videos may also be required to submit additional Personal Information.</p>
+	<p><b>b. Operational Service Providers.</b> We also have the right to disclose your Personal Information to third parties for the purpose of administering and maintaining the Site’s services, features, functions and operations.  We will refer to these third parties as “operational service providers”.  We use operational service providers to efficiently provide the full range of content, activities, services, features and functions we bring you and we request that our operational service providers also protect your privacy and not disclose your Personal Information or Sensitive Personal Information to third party marketers that are not associated with the Site or the mtvU Channel.  Additionally, such operational service providers are not permitted to use your Personal Information or Sensitive Personal Information for their own marketing or promotional purposes.</p>
+	<p>c.  Other Non-Affiliated Third Parties. We will make your Personal Information and Sensitive Personal Information available to non-affiliated third parties in the following limited circumstances:</p>
+	<ul>
+	    <li>When we are compelled to do so by a governmental agency, court or other entity (e.g., to respond to subpoenas, court orders or legal process); </li>
+		<li>If we believe your actions violate any law, regulation, the <u><a href="/user/terms">Terms of Use Agreement</a></u>, including, without limitation, this Privacy Policy, or any of our other terms and conditions, Rules, offerings or any other services, features or functions of the Site, or if you threaten the rights, property or safety of the Site, the mtvU Channel, the Parent Companies, the Affiliates, or any of its or their operational service providers, suppliers, Advertisers, customers, users, or any other party; </li>
+		<li>If, in our sole discretion, we believe such disclosure to be necessary or appropriate to investigate or resolve possible problems or inquiries, to protect our business and assets, to defend our interests and/or to comply with our legal and regulatory obligations; or </li>
+		<li>In the event of a bankruptcy, merger, acquisition, transfer of control, joint venture or other business combination involving us, or our Parent Companies or Affiliates. </li>
+	</ul>
+	
+	<p><b>7. Security &amp; Protection of Personal Information:</b>  We maintain reasonable standards of security and confidentiality.  However, for most Internet sites, it is possible that third parties may unlawfully intercept or access transmissions or private communications over an unsecured transmission.  We conduct financial transactions via secured transmissions but may not always secure other parts of the Site.  We also limit access to the Site by our own employees to those individuals who are authorized for the proper handling of such information and any employee found violating our standards of security and confidentiality will be subject to our disciplinary processes.  We request that our operational service providers follow the same policy. </p>
+	<p><b>8. Phishing:</b>  Phishing attacks attempt to steal consumers’ personal identity data and financial account credentials.  “Phishers” use ‘spoofed’ e-mails to lead consumers to counterfeit websites designed to trick recipients into divulging Personal Information such as credit card numbers, account usernames, passwords, and social security numbers. <b> WE DO NOT SEND EMAILS ASKING YOU TO PROVIDE OR CONFIRM SENSITIVE PERSONAL INFORMATION OR YOUR USERNAME OR PASSWORD!</b> If you receive such email communication, please forward it immediately to the Site’s Privacy Administrator at <u><a href="mailto:feedback@collegepublisher.com">feedback@collegepublisher.com</a></u>, and then immediately delete the fraudulent email from your computer.</p>
+	<p><b>9. Review, Update or Delete Your Personal Information:</b>  Generally, you may review, update or delete your Personal Information or Sensitive Personal Information collected by this Site.  You may also correct factual inaccuracies.  However, Personal Information that is necessary to check eligibility, such as your email address, cannot be deleted and can only be modified with sufficient verification of the correct information; certain Personal Information, such as email address, cannot be deleted but can be modified.  Deletion of certain Personal Information, such as username, may result in suspension of your account or termination of any registration you may have made.  To review, update or delete your Personal Information or Sensitive Personal Information collected by the Site, please send an e-mail to feedback@collegepublisher.com or written mail to College Publisher; 100 City Hall Plaza, Level 2; Boston, MA 02108, including your name, email address and the information to be changed. </p>
+	<p>If you wish to review Personal Information collected for Promotions such as contests and sweepstakes, you will need to contact the Site’s Privacy Administrator via email with a request at <u><a href="mailto:feedback@collegepublisher.com">feedback@collegepublisher.com</a></u> and be prepared to provide verification of your identity.  Personal Information collected for certain entries are subject to corporate and regulatory recordkeeping requirements and will not be deleted upon the user’s request, unless the entrant is a child under the age of 13 years old.  </p>
+	<p>Children under the age of 13 that are unknowingly registered on the Site are in violation of the <u><a href="/user/terms">Terms of Use</a></u> Agreement.  Parents (including legal guardians) of children that registered on the Site in violation of the Terms of Use Agreement who wish to terminate their child’s membership must use their child’s User ID to gain direct access to the account, and select “EDIT ACCOUNT” or alternatively, you can send us an email to the Site’s Privacy Administrator and provide us with your child’s User ID and request to terminate your child’s account and registration.  We will not allow direct access to a user’s account and Personal Information by any person without the user’s User ID  (please see above for how to change your preferences or the information associated with your account).  If a parent does not have his or her child’s User ID, the parent will be required to send an email to the Privacy Administrator that includes the parent’s name, address, telephone and email address, in addition to the child’s name and email address as registered on the Site, plus the child’s date of birth.  The parent must also provide verifiable identification that they are the parent of the ineligible child.  Company will send a confirming email to the parent via the email address provided to verify that the parent wishes to terminate his or her child’s account and registration.  The parent must then confirm by sending a reply email to the designated return address.  Company will then terminate the child’s account but will notify the child of the termination request via email and will identify the name, address and email address of the person making the request. </p>
+	<p>We reserve the right to deny access, use and registration privileges to any user, including without limitation, a registered user, of any services, features or functions of the Site if we believe there is a question about the identity of the person trying to access the user’s account or any services, features or functions. And if the burden or expense of providing access to your Personal Information is disproportionate to the risks to your privacy, or if the legitimate rights of others would be violated, we may decide not to provide access to such information. In such cases, we will provide to you an explanation of why access cannot be provided and contact information for further inquiries. </p>
+	<p><b>10. Questions:</b> If you have questions about this Privacy Policy or if you do not understand any information about how we collect, maintain, use or share your Personal Information, you may contact us directly by sending an email to <u><a href="mailto:feedback@collegepublisher.com">feedback@collegepublisher.com</a></u>. </p>
+	<p><b>11. Sole Statement:</b> This document is the sole statement of the Site’s Privacy Policy and no summary, restatement or other version thereof, or other privacy statement or policy, in any form, including, without limitation, machine-generated, is valid.</p>
+	<p>This Privacy Policy was last modified on August 15, 2007 and is effective immediately.</p>
+	<p>Copyright © 2007 MTV Networks, a division of Viacom International Inc. - All Rights Reserved.</p>
 
-	<p>The more information you, the reader, member, subscriber or registered user provides regarding your name, contact details, interests, concerns and personal details, the more effective our sites can be at offering news, information, products, services and/or advice that meet your needs. Any personal information you share through this site will be used solely to provide an efficient, focused experience, and to deliver information and services that are appropriate for your unique situation.</p>
-
-	<h3>Information Collection and Use</h3>
-
-	<p>College Publisher is the operator and custodian of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. Our sites collect information from users at several different points on our website.</p>
-
-	<h3>Registration</h3>
-
-	<p>College Publisher operates and provides email and database services that enable users to receive information, news, content and services that they are interested in receiving.  Our registration forms may require you to give us your name, email address, college or university name, and affiliation and/or class year and/or certain contact or demographic information (“Registration Data”). We use Registration Data if it is necessary for us to contact a user, and to send you information, service enhancements, complementary goods and services, and/or promotional materials that you have agreed to receive from our media Partners, Advertisers, &amp; Sponsors (“Partners, Advertisers &amp; Sponsors”). If you choose to stop receiving future communications, please see the Opt-Out/Unsubscribe section below.</p>
-
-	<h3>Contests, Surveys &amp; Referrals</h3>
-
-	<p>From time to time, we run contests and surveys on our site in which we may ask contestants for personal information and/or referrals. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), demographic information (such as zip code, age level) and preference information (interest in travel, money, etc). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. If a user elects to use our referral service for informing a referee about our site or services, we may ask them for certain contact details for the referee.</p>
-
-	<h3>Online Actions</h3>
-
-	<p>Demographic and profile data may also be collected from time to time at our Web site.</p>
-
-	<p>Generally, this information is collected through “traffic data” and may entail the use of cookies, IP addresses or other numeric codes used to identify a computer. We use this information to further tailor your experience at our site, and to narrow the information, content, products and or services we think you might be interested in.</p>
-
-	<p>· IP Addresses – We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is also used to help identify you and to gather broad demographic information.</p>
-
-	<p>· Cookies – Cookies are pieces of information that a Web site transfers to your computer’s hard disk for record-keeping purposes. Cookies in and of themselves do not personally identify users, although they do identify a user’s computer. Most browsers are initially set up to accept cookies. If you prefer, you can set your browser to notify you each time a cookie is received or to refuse all cookies. However, you may not be able to take full advantage of our Web sites if you do so. For example, we use cookies to save your password so that (if you choose) you do not have to reenter it each time you visit our Web sites. Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies.</p>
-
-	<h3>Classifieds, Orders and other ecommerce transactions</h3>
-
-	<p>For ecommerce transactions we request information from the user as per the ordering process. During this process a user must provide relevant contact information (like name and shipping address) and financial information (like credit card number, expiration date). This information is used for billing purposes and to fulfill user requirements. If we have trouble processing an order, this contact information is used to get in touch with the user.</p>
-
-	<h3>Sharing of Information</h3>
-
-	<p>We will only disclose personal data about you to the extent described in this Privacy Statement.</p>
-
-	<p>No personally identifiable information will be shared with our Partners, Advertisers &amp; Sponsors unless you have agreed to allow us to share such information (although you may separately provide them such information). Some of your information may be shared on an aggregate basis only, as a part of a larger set of statistics (for example, that a certain percentage of our members are male), but that information will not be sufficient to permit the recipient to identify you.</p>
-
-	<p>Should you at some time request through our site something that requires shipping to you, we may be required to provide your personal details to outside shipping companies, credit card processing companies and other third parties to enable your request to be processed. These companies, to our knowledge, do not retain, share, store or use personally identifiable information for any secondary purposes.</p>
-
-	<p>We sometimes contract with other companies to provide specific services on our behalf. When the user signs up for these services, we will share names, or other contact information that is necessary for the third party service provider to deliver these services. These parties are not allowed to use personally identifiable information except for the purpose of providing these services.</p>
-
-	<p>As we continue to develop our services, we might sell or buy companies or assets. In such transactions, customer information generally is one of the transferred business assets. Also, in the unlikely event that we or substantially all of our assets are acquired, customer information will of course be one of the transferred assets.</p>
-
-	<p>Except as set forth in the Terms of Service and this Privacy Statement, we will not willfully disclose personal data about you to any third party without first receiving your permission.</p>
-
-	<h3>Security</h3>
-
-	<p>Information collected by us is stored in secure operating environments that are not accessible by the public. Our Web sites have security measures in place to protect against the loss, misuse or alteration of the information under our control. When capturing credit card information, we use Secure Socket Layer (SSL) technology, an encryption technology that works with Netscape Navigator and Communicator (versions 2.0 and above), Microsoft Internet Explorer (versions 3.0 and above) and AOL (AOL 3.0 and above) so that unauthorized parties cannot read the information you send over the Internet.  Credit card information is not stored on our servers, it is simply passed through to the processing financial institution via SSL.</p>
-
-	<h3>Other Web Sites and Links</h3>
-
-	<p>We sometimes provide links to other Web sites. We are not responsible for the privacy practices or the content of these other Web sites.</p>
-
-	<p>Additionally, if you make a purchase from a merchant listed on or linked to the our service, any information that you give, such as your credit card number and contact information, is provided to those merchants. These merchants have separate privacy and data collection practices and we assume no responsibility or liability for these independent policies. We encourage our users to be aware when they leave our sites and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by us</p>
-
-	<h3>Public Forums</h3>
-
-	<p>Our services may enable members to make certain information publicly available on the Web sites. Be advised that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.</p>
-
-	<h3>Corrections and Updates</h3>
-
-	<p>Members may correct, update or edit information that they have previously provided by sending an email to feedback@collegepublisher.com (or written mail to the address below), including your name, email address and the information to be changed.</p>
-
-	<h3>Opt-Out/Unsubscribe</h3>
-
-	<p>Our Web site provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor. You may elect to avoid future communications from us by sending an email to feedback@collegepublisher.com (or written mail to the address below), including your name, email address, and specifics of your request.</p>
-
-	<p>In addition, every email that is sent to your account will contain instructions and links to allow you to unsubscribe from the specific service.</p>
-
-	<p>After you opt-out, we may still need to send you information about the service or your account under urgent circumstances, but we will not send you unsolicited communications.</p>
-
-	<h3>Notification of Changes</h3>
-
-	<p>If we decide to change our privacy policy, we will post those changes on our websites so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. </p>
-
-	<p>If you choose to visit our sites, your visit and any dispute over privacy is subject to this Notice and our Conditions of Use, including limitations on damages, arbitration of disputes, and application of the law of the state of Massachusetts. </p>
-
-	<h3>Contact Us</h3>
-
-	<p>If you have any questions about this Privacy Statement, the practices of our Web sites or your dealings with our Web sites, please contact:</p>
-
-<address>
-<ul id="address">
-	 <li>College Publisher</li>
-	 <li>100 City Hall Plaza</li>
-	 <li>Level 2</li>
-	 <li>Boston, MA 02108</li>
-</ul>
-</address>
-
-<p>Email: feedback@collegepublisher.com<br>
-Phone: (617) 248-9880<br>
-Fax: (617) 248-8747</p>
-
-
- 
 			
 			
 </div><div align="center" id="banner_client_4" class="cp_banner_client">
@@ -717,10 +846,2054 @@ Fax: (617) 248-8747</p>
 	<noscript>
 	<cfoutput><a href="http://admanager2.broadbandpublisher.com/newspaperBanners/clientClickThrough.adp?iPosition=4&iPaper_id=885&javascriptIncludeMode=0&callingSite=www%2Edailytarheel%2Ecom" target="new"><img src="http://admanager2.broadbandpublisher.com/newspaperBanners/showAbanner.adp?vchSerialNumber=u3h3rasj01&iSection_Id=&iStory_Id=&iPaper_Id=885&javascriptIncludeMode=0&iPosition=4" border="0"></a></cfoutput>
 	</noscript>
+</div><!--- moth --->
+
+<div id="moth_table">
+<h4>Spotlight &gt;&gt;If you have trouble viewing the slideshows, download the latest Flash Player <a href="?http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash?">HERE</a>.</h4>
+<table width="100%">
+  <tbody><tr>
+<td width="100"><a href="http://dailytarheeljoeandnick.wordpress.com/"><img src="http://www.dailytarheel.com/media/paper885/stills/s42hi3vb.jpg"></a></td>  
+<td width="100"><a href="http://media.www.dailytarheel.com/media/storage/paper885/news/2007/11/28/Opinion/Midterm.Report.Cards-3118425.shtml"><img src="http://www.dailytarheel.com/media/paper885/stills/d50iw4s7.jpg"></a></td>
+<td width="100"><a href="http://www.dailytarheel.com/blogs"><img src="http://www.dailytarheel.com/media/paper885/stills/81317etl.jpg"></a></td>
+<td width="100"><a href="http://www.dailytarheel.com/podcasts"><img src="http://www.dailytarheel.com/media/paper885/stills/25nhv651.jpg"></a></td>
+  </tr><tr>
+<td><a href="http://dailytarheeljoeandnick.wordpress.com/">Vodcast: Joe and Nick analyze the paper "After Deadline"</a></td>
+<td><a href="http://media.www.dailytarheel.com/media/storage/paper885/news/2007/11/28/Opinion/Midterm.Report.Cards-3118425.shtml">Midterm Report</a></td>
+<td><a href="http://www.dailytarheel.com/blogs">New Blogs Page</a></td>
+<td><a href="http://www.dailytarheel.com/podcasts">New Podcast: Analysis of the October Report</a></td> 
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+</tbody></table>
+
+</div><div id="unc_summary">
+	
+	<div class="unc_summary_right">
+		<h3 id="section_868862"><a class="issuesummarysection" href="http://www.dailytarheel.com/home/news/2007/12/05/LettersToTheEditor/">Letters to the Editor</a></h3>
+		<ul>
+			
+				
+					<li><a class="issuesummaryheadline" href="http://www.dailytarheel.com/home/news/2007/12/05/LettersToTheEditor/Crime.In.The.Northside.Neighborhood.Is.Common-3132294.shtml">Crime in the Northside neighborhood is common</a></li>
+				
+			
+				
+					<li><a class="issuesummaryheadline" href="http://www.dailytarheel.com/home/news/2007/12/05/LettersToTheEditor/Slow-Down.Your.Car.And.Save.At.The.Gas.Pump-3132278.shtml">Slow down your car, and save at the gas pump</a></li>
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+		</ul>
+	</div>
+	
+	<div class="unc_summary_left">
+		<h3 id="section_868851"><a class="issuesummarysection" href="http://www.dailytarheel.com/home/news/2007/12/05/University/">University</a></h3>
+		<ul>
+			
+				
+			
+				
+			
+				
+					<li><a class="issuesummaryheadline" href="http://www.dailytarheel.com/home/news/2007/12/05/University/Covenant.Begins.Service.Initiative-3132307.shtml">Covenant begins service initiative</a></li>
+				
+			
+				
+					<li><a class="issuesummaryheadline" href="http://www.dailytarheel.com/home/news/2007/12/05/University/Experts.Offer.Tips.For.Exams-3132336.shtml">Experts offer tips for exams</a></li>
+				
+			
+				
+					<li><a class="issuesummaryheadline" href="http://www.dailytarheel.com/home/news/2007/12/05/University/Professors.Achievements.Earn.Honor-3132490.shtml">Professors' achievements earn honor</a></li>
+				
+			
+				
+					<li><a class="issuesummaryheadline" href="http://www.dailytarheel.com/home/news/2007/12/05/University/Sorority.Sponsors.Prayer.Fast-3132504.shtml">Sorority sponsors prayer fast</a></li>
+				
+			
+				
+					<li><a class="issuesummaryheadline" href="http://www.dailytarheel.com/home/news/2007/12/05/University/Students.Find.Apartments.For.Next.Year-3132531.shtml">Students find apartments for next year</a></li>
+				
+			
+				
+					<li><a class="issuesummaryheadline" href="http://www.dailytarheel.com/home/news/2007/12/05/University/Students.Plan.For.Campaigns-3132564.shtml">Students plan for campaigns</a></li>
+				
+			
+				
+					<li><a class="issuesummaryheadline" href="http://www.dailytarheel.com/home/news/2007/12/05/University/The-Grinch.Steals.Another.Christmas.In.English.And.Latin-3132519.shtml">The Grinch steals another Christmas - in English and Latin</a></li>
+				
+			
+				
+					<li><a class="issuesummaryheadline" href="http://www.dailytarheel.com/home/news/2007/12/05/University/Campus.Briefs-3132649.shtml">Campus briefs</a></li>
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+		</ul>
+	</div>
+	
+	<div class="unc_summary_right">
+		<h3 id="section_868852"><a class="issuesummarysection" href="http://www.dailytarheel.com/home/news/2007/12/05/City/">City</a></h3>
+		<ul>
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+					<li><a class="issuesummaryheadline" href="http://www.dailytarheel.com/home/news/2007/12/05/City/Aldermen.Sworn.Into.Office-3132603.shtml">Aldermen sworn into office</a></li>
+				
+			
+				
+					<li><a class="issuesummaryheadline" href="http://www.dailytarheel.com/home/news/2007/12/05/City/Newcomer.Focusing.On.Development.Plans-3132573.shtml">Newcomer focusing on development plans</a></li>
+				
+			
+				
+					<li><a class="issuesummaryheadline" href="http://www.dailytarheel.com/home/news/2007/12/05/City/Mixed.Views.Of.Merger.Options-3132561.shtml">Mixed views of merger options</a></li>
+				
+			
+				
+					<li><a class="issuesummaryheadline" href="http://www.dailytarheel.com/home/news/2007/12/05/City/Chicken.Restaurant.Coming.To.Franklin-3132314.shtml">Chicken restaurant coming to Franklin</a></li>
+				
+			
+				
+					<li><a class="issuesummaryheadline" href="http://www.dailytarheel.com/home/news/2007/12/05/City/Discussion.Of.Affordable.Housing.Continues.Today-3132540.shtml">Discussion of affordable housing continues today</a></li>
+				
+			
+				
+					<li><a class="issuesummaryheadline" href="http://www.dailytarheel.com/home/news/2007/12/05/City/Experts.Offer.Ways.To.Handle.Deer.Wrecks-3132524.shtml">Experts offer ways to handle deer wrecks</a></li>
+				
+			
+				
+					<li><a class="issuesummaryheadline" href="http://www.dailytarheel.com/home/news/2007/12/05/City/City-Briefs-3132659.shtml">City briefs</a></li>
+				
+			
+				
+					<li><a class="issuesummaryheadline" href="http://www.dailytarheel.com/home/news/2007/12/05/City/Police.Log-3132350.shtml">Police log</a></li>
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+		</ul>
+	</div>
+	
+	<div class="unc_summary_left">
+		<h3 id="section_868863"><a class="issuesummarysection" href="http://www.dailytarheel.com/home/news/2007/12/05/KvetchingBoard/">Kvetching Board</a></h3>
+		<ul>
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+					<li><a class="issuesummaryheadline" href="http://www.dailytarheel.com/home/news/2007/12/05/KvetchingBoard/Kvetching.Board-3132297.shtml">Kvetching board</a></li>
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+		</ul>
+	</div>
+	
+	<div class="unc_summary_right">
+		<h3 id="section_868861"><a class="issuesummarysection" href="http://www.dailytarheel.com/home/news/2007/12/05/Opinion/">Opinion</a></h3>
+		<ul>
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+					<li><a class="issuesummaryheadline" href="http://www.dailytarheel.com/home/news/2007/12/05/Opinion/Buy-Local.To.Help.The.Chapel.Hill.Economy-3132244.shtml">Buy local to help the Chapel Hill economy</a></li>
+				
+			
+				
+					<li><a class="issuesummaryheadline" href="http://www.dailytarheel.com/home/news/2007/12/05/Opinion/Cartoon.For.December.5-3132258.shtml">Cartoon for December 5</a></li>
+				
+			
+				
+					<li><a class="issuesummaryheadline" href="http://www.dailytarheel.com/home/news/2007/12/05/Opinion/Find-A.New.Hobby-3132276.shtml">Find a new hobby</a></li>
+				
+			
+				
+					<li><a class="issuesummaryheadline" href="http://www.dailytarheel.com/home/news/2007/12/05/Opinion/In.Need.Of.A.Civics.Lesson-3132268.shtml">In need of a civics lesson</a></li>
+				
+			
+				
+					<li><a class="issuesummaryheadline" href="http://www.dailytarheel.com/home/news/2007/12/05/Opinion/The-Reason.For.The.Season-3132265.shtml">The reason for the season</a></li>
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+		</ul>
+	</div>
+	
+	<div class="unc_summary_left">
+		<h3 id="section_868853"><a class="issuesummarysection" href="http://www.dailytarheel.com/home/news/2007/12/05/StateNational/">State &amp; National</a></h3>
+		<ul>
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+					<li><a class="issuesummaryheadline" href="http://www.dailytarheel.com/home/news/2007/12/05/StateNational/Redistricting.Suit.May.Halt.Elections-3132775.shtml">Redistricting suit may halt elections</a></li>
+				
+			
+				
+					<li><a class="issuesummaryheadline" href="http://www.dailytarheel.com/home/news/2007/12/05/StateNational/Aliens.Policy.Up.For.Debate-3132507.shtml">Aliens policy up for debate</a></li>
+				
+			
+				
+					<li><a class="issuesummaryheadline" href="http://www.dailytarheel.com/home/news/2007/12/05/StateNational/Mines.Water.Waste.Prompts.Questions-3132304.shtml">Mine's water waste prompts questions</a></li>
+				
+			
+				
+					<li><a class="issuesummaryheadline" href="http://www.dailytarheel.com/home/news/2007/12/05/StateNational/Carolina.Pride.Finds.Life.After.Death-3132483.shtml">Carolina pride finds life after death</a></li>
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+		</ul>
+	</div>
+	
+	<div class="unc_summary_right">
+		<h3 id="section_868854"><a class="issuesummarysection" href="http://www.dailytarheel.com/home/news/2007/12/05/Features/">Features</a></h3>
+		<ul>
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+					<li><a class="issuesummaryheadline" href="http://www.dailytarheel.com/home/news/2007/12/05/Features/Students.Get.Into.The.Holiday.Spirit-3132676.shtml">Students get into the holiday spirit</a></li>
+				
+			
+				
+					<li><a class="issuesummaryheadline" href="http://www.dailytarheel.com/home/news/2007/12/05/Features/Menorah.Display.Helps.Recognize.Hanukkah-3132751.shtml">Menorah display helps recognize Hanukkah</a></li>
+				
+			
+				
+					<li><a class="issuesummaryheadline" href="http://www.dailytarheel.com/home/news/2007/12/05/Features/Guys-Pose.For.Prostate.Health-3132588.shtml">Guys pose for prostate health</a></li>
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+		</ul>
+	</div>
+	
+	<div class="unc_summary_left">
+		<h3 id="section_868865"><a class="issuesummarysection" href="http://www.dailytarheel.com/home/news/2007/12/05/Sports/">Sports</a></h3>
+		<ul>
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+					<li><a class="issuesummaryheadline" href="http://www.dailytarheel.com/home/news/2007/12/05/Sports/Send-Sports.Your.Ideas.And.Help.Us.Serve.You-3132548.shtml">Send sports your ideas, and help us serve you</a></li>
+				
+			
+				
+					<li><a class="issuesummaryheadline" href="http://www.dailytarheel.com/home/news/2007/12/05/Sports/Unc-Blows.Out.Penn.At.Palestra-3132558.shtml">UNC blows out Penn at Palestra</a></li>
+				
+			
+				
+					<li><a class="issuesummaryheadline" href="http://www.dailytarheel.com/home/news/2007/12/05/Sports/Former.Unc.Pitcher.Andrew.Miller.To.Be.Traded.To.Marlins-3132663.shtml">Former UNC pitcher Andrew Miller to be traded to Marlins</a></li>
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+		</ul>
+	</div>
+	
+	<div class="unc_summary_right">
+		<h3 id="section_868855"><a class="issuesummarysection" href="http://www.dailytarheel.com/home/news/2007/12/05/Arts/">Arts</a></h3>
+		<ul>
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+					<li><a class="issuesummaryheadline" href="http://www.dailytarheel.com/home/news/2007/12/05/Arts/Booking.Big.Acts.A.Challenge.For.Cuab-3132792.shtml">Booking big acts a challenge for CUAB</a></li>
+				
+			
+				
+					<li><a class="issuesummaryheadline" href="http://www.dailytarheel.com/home/news/2007/12/05/Arts/Music.Venues.Prepare.For.Holiday.Concerts-3132625.shtml">Music venues prepare for holiday concerts</a></li>
+				
+			
+				
+					<li><a class="issuesummaryheadline" href="http://www.dailytarheel.com/home/news/2007/12/05/Arts/Memorial.Hall.Gears.Up.Break.Schedule-3132321.shtml">Memorial Hall gears up break schedule</a></li>
+				
+			
+				
+					<li><a class="issuesummaryheadline" href="http://www.dailytarheel.com/home/news/2007/12/05/Arts/Film-Festival.Spotlights.Variety.Of.Genres-3132495.shtml">Film festival spotlights variety of genres</a></li>
+				
+			
+				
+					<li><a class="issuesummaryheadline" href="http://www.dailytarheel.com/home/news/2007/12/05/Arts/Theatrical.Readings.To.Benefit.Carrboro.Food.Bank-3132512.shtml">Theatrical readings to benefit Carrboro food bank</a></li>
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+		</ul>
+	</div>
+	
+	<div class="unc_summary_left">
+		<h3 id="section_864579"><a class="issuesummarysection" href="http://www.dailytarheel.com/home/news/2007/11/29/Diversions/">Diversions</a></h3>
+		<ul>
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+					<li><a class="issuesummaryheadline" href="http://www.dailytarheel.com/home/news/2007/11/29/Diversions/no.Country.A.Masterpiece-3120565.shtml">'No Country' a masterpiece</a></li>
+				
+			
+				
+					<li><a class="issuesummaryheadline" href="http://www.dailytarheel.com/home/news/2007/11/29/Diversions/Bull-City.Rocking.Tremendously-3120617.shtml">Bull City: Rocking Tremendously</a></li>
+				
+			
+				
+					<li><a class="issuesummaryheadline" href="http://www.dailytarheel.com/home/news/2007/11/29/Diversions/Exercise.Classes.Shake.Up.Stress.And.Expectations-3120599.shtml">Exercise classes shake up stress and expectations</a></li>
+				
+			
+				
+					<li><a class="issuesummaryheadline" href="http://www.dailytarheel.com/home/news/2007/11/29/Diversions/Jock-Jamz.Getting.The.Players.Pumped-3120546.shtml">Jock Jamz: Getting the players pumped</a></li>
+				
+			
+				
+					<li><a class="issuesummaryheadline" href="http://www.dailytarheel.com/home/news/2007/11/29/Diversions/Joy-Divisions.Classics.Untainted-3120593.shtml">Joy Division's classics untainted</a></li>
+				
+			
+				
+					<li><a class="issuesummaryheadline" href="http://www.dailytarheel.com/home/news/2007/11/29/Diversions/Led-Zeppelin.Reissues.Largely.Unnecessary-3120629.shtml">Led Zeppelin reissues largely unnecessary</a></li>
+				
+			
+				
+					<li><a class="issuesummaryheadline" href="http://www.dailytarheel.com/home/news/2007/11/29/Diversions/Robin.Williams.Wrecks.rush-3120632.shtml">Robin Williams wrecks 'Rush'</a></li>
+				
+			
+				
+					<li><a class="issuesummaryheadline" href="http://www.dailytarheel.com/home/news/2007/11/29/Diversions/Violence.And.Nudity.Cant.Save.hitman-3120639.shtml">Violence and nudity can't save 'Hitman'</a></li>
+				
+			
+				
+					<li><a class="issuesummaryheadline" href="http://www.dailytarheel.com/home/news/2007/11/29/Diversions/Dive-Recommends-3120660.shtml">Dive recommends</a></li>
+				
+			
+				
+					<li><a class="issuesummaryheadline" href="http://www.dailytarheel.com/home/news/2007/11/29/Diversions/Music.Shorts-3120655.shtml">Music shorts</a></li>
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+		</ul>
+	</div>
+	
+	<div class="unc_summary_right">
+		<h3 id="section_862749"><a class="issuesummarysection" href="http://www.dailytarheel.com/home/news/2007/11/27/LaColina/">La Colina</a></h3>
+		<ul>
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+					<li><a class="issuesummaryheadline" href="http://www.dailytarheel.com/home/news/2007/11/27/LaColina/iquestpor.Queacute.No.Te.Callas-3116104.shtml">¿Por qué no te callas?</a></li>
+				
+			
+				
+					<li><a class="issuesummaryheadline" href="http://www.dailytarheel.com/home/news/2007/11/27/LaColina/Departamiento.De.Unc.Estudia.Migracioacuten.Hispana.En.El.Estado-3116094.shtml">Departamiento de UNC estudia migración hispana en el estado</a></li>
+				
+			
+				
+					<li><a class="issuesummaryheadline" href="http://www.dailytarheel.com/home/news/2007/11/27/LaColina/Gran-Demostracioacuten.Hispana-3116128.shtml">Gran demostración hispana</a></li>
+				
+			
+				
+					<li><a class="issuesummaryheadline" href="http://www.dailytarheel.com/home/news/2007/11/27/LaColina/Grupo.Local.Relanza.Peliacutecula-3116132.shtml">Grupo local relanza película</a></li>
+				
+			
+				
+					<li><a class="issuesummaryheadline" href="http://www.dailytarheel.com/home/news/2007/11/27/LaColina/Hispanos.Se.Preparan.Para.Ceremonias.De.Fin.De.Antildeo-3116098.shtml">Hispanos se preparan para ceremonias de fin de año</a></li>
+				
+			
+				
+					<li><a class="issuesummaryheadline" href="http://www.dailytarheel.com/home/news/2007/11/27/LaColina/Jose-Martiacute.Cobra.Vida.En.Unc-3116142.shtml">Jose Martí cobra vida en UNC</a></li>
+				
+			
+				
+					<li><a class="issuesummaryheadline" href="http://www.dailytarheel.com/home/news/2007/11/27/LaColina/Personaje.Ejemplar.Del.Mes-3116111.shtml">Personaje ejemplar del mes</a></li>
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+		</ul>
+	</div>
+	
+	<div class="unc_summary_left">
+		<h3 id="section_868859"><a class="issuesummarysection" href="http://www.dailytarheel.com/home/news/2007/12/05/PrintEdition/">Print Edition</a></h3>
+		<ul>
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+					<li><a class="issuesummaryheadline" href="http://www.dailytarheel.com/home/news/2007/12/05/PrintEdition/December.5.Print.Edition-3132862.shtml">December 5 print edition</a></li>
+				
+			
+				
+					<li><a class="issuesummaryheadline" href="http://www.dailytarheel.com/home/news/2007/12/05/PrintEdition/Crossword.For.December.4-3132309.shtml">Crossword for December 4</a></li>
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+		</ul>
+	</div>
+	
+	<div class="unc_summary_right">
+		<h3 id="section_868860"><a class="issuesummarysection" href="http://www.dailytarheel.com/home/news/2007/12/05/Corrections/">Corrections</a></h3>
+		<ul>
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+					<li><a class="issuesummaryheadline" href="http://www.dailytarheel.com/home/news/2007/12/05/Corrections/Ckonrad.Jarausch.Pictured-3132640.shtml">CKonrad Jarausch pictured</a></li>
+				
+			
+				
+					<li><a class="issuesummaryheadline" href="http://www.dailytarheel.com/home/news/2007/12/05/Corrections/Reporting.Errors.In.Dental.Story-3132687.shtml">Reporting errors in dental story</a></li>
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+		</ul>
+	</div>
+	
+	<div class="unc_summary_left">
+		<h3 id="section_864590"><a class="issuesummarysection" href="http://www.dailytarheel.com/home/news/2007/11/29/Multimedia/">Multimedia</a></h3>
+		<ul>
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+					<li><a class="issuesummaryheadline" href="http://www.dailytarheel.com/home/news/2007/11/29/Multimedia/Video.Ashbrook.Reduced.To.Ashes-3122060.shtml">Video: Ashbrook Reduced To Ashes</a></li>
+				
+			
+				
+			
+				
+			
+				
+			
+		</ul>
+	</div>
+	
+	<div class="unc_clear"></div>
 </div><div id="object2971">
 	<div align="center" class="cpfooter">
-		<a href="http://www.mtvu.com/about/advertising/" target="_blank">National College Advertising and Marketing</a><br>
-		<a href="/user/privacypolicy/">Privacy Policy</a> &nbsp; &nbsp; <a href="/syndication">Article Syndication</a> &nbsp; &nbsp; <a href="/user/rssterms" target="_blank">RSS Terms of Use</a>
+		<a href="http://www.mtvu.com/about/advertising/" target="_blank">National College Advertising and Marketing</a> | <a href="/user/privacypolicy/">Privacy Policy</a> (8/15/07) | <a href="/user/terms">Terms of Use</a> (8/15/07)<br>
+		<a href="/user/submission" target="_blank">Content Submission Agreement</a> (8/23/07) | <a href="/user/copyright" target="_blank">Copyright Compliance Policy</a> (8/25/07) | <a href="/user/rssterms" target="_blank">RSS Terms of Use</a> 
 	</div>
 </div>
 				</div>
@@ -728,92 +2901,44 @@ Fax: (617) 248-8747</p>
 			<div id="unc_side_bar">
 				<div class="gutter">
 <div id="flan_ads">
-					<script language="Javascript" type="text/javascript">
-	           // Pass in a number and this will return a random number between 0 and the whole integer you pass.
-	           // This is useful for picking a random entry on an array.
-	           function randomIndexNew(topRange) {
-	               return Math.round(Math.random()*topRange);
-	           }
-	           aPools = new Array();
-	           aTagsInSharedSpace = [13,14,15,16];
-	           for (j=0;j<aTagsInSharedSpace.length;j++) {
-	               for (i=0;i<getAdsInTag(aTagsInSharedSpace[j]);i++) {
-	                   aPools[aPools.length] = aTagsInSharedSpace[j];
-	               }
-	           }
-	           adTagToCall = aPools[randomIndexNew(aPools.length-1)];
-	           switch(adTagToCall) {   
-	               case 13:
-	                   tagnum = adTagToCall;
-	                   tagdivid = 'box_300_250';
-	                   break;
-	               case 14:
-	                   tagnum = adTagToCall;
-	                   tagdivid = 'box_120_600';
-	                   break;
-	               case 15:
-	                   tagnum = adTagToCall;
-	                   tagdivid = 'box_160_600';
-	                   break;
-	               case 16:
-	                   tagnum = adTagToCall;
-	                   tagdivid = 'box_120_240';
-	                   break;
-	               default:
-	                   tagnum = '';
-	                   tagdivid = '';
-	                   break;
-	           }
-	           if (tagdivid != '') {
-	
-	               document.write('<div id="' + tagdivid + '" class="box">');
-	               document.write('    <div class="banner">');
-	               document.write('        <scr' + 'ipt language="Javasc' + 'ript">');
-	               document.write('            showNetworkBanner('+tagnum+');');
-	               document.write('        <\/sc' + 'ript>');
-	               document.write('    <\/div>');
-	
-			   			if (tagdivid != 'box_300_250') {
-							document.write('    <div>');
-		           			document.write('    <\/div>');
-			   			}
-					
-					document.write('<\/div>');
-					
-				}
-</script><div class="content">
-	<h4>Most Popular Articles</h4>
-	<div class="gutter">
-	   	<ol>
-			<script language="Javascript" type="text/javascript">
-				document.write('<scr'+'ipt src=http://media.collegepublisher.com/media/paper' + paper_id + '/template/popularstories.js?'+currentissuedate+'><\/scr'+'ipt>');
-			</script><script src="http://media.collegepublisher.com/media/paper885/template/popularstories.js?02/02/07"></script>
-		</ol>
-	</div>
-</div><div id="flan_poll" class="content">
+					<div id="box_300_250_13" class="cp_ad">
+		<h4 class="ad_slug">Advertisement</h4>
+		
+		
+		<script language="Javascript">
+			showNetworkBanner(13);
+		</script>
+		
+</div><script type="text/javascript" src="http://media.collegepublisher.com/media/scripts/yui/build/utilities/utilities.js"></script>
+<script type="text/javascript" src="http://media.collegepublisher.com/media/scripts/yui/build/container/container_core.js"></script>
+<script type="text/javascript" src="http://media.collegepublisher.com/media/scripts/carousel.js"></script>
+ 
+<div id="video_carousel">
+<script language="Javascript" type="text/javascript">
+	//document.write('<scr'+'ipt src=http://media.collegepublisher.com/media/paper' + paper_id + '/template/betapopularstories.js><\/scr'+'ipt>');
+	document.write('<scr'+'ipt src=http://media.collegepublisher.com/media/paper' + paper_id + '/template/videoplayerbox.js><\/scr'+'ipt>');
+</script><script src="http://media.collegepublisher.com/media/paper885/template/videoplayerbox.js"></script>
+</div><script language="Javascript" type="text/javascript">
+	document.write('<scr'+'ipt src=http://media.collegepublisher.com/media/paper' + paper_id + '/template/betapopularstories.js?'+currentissuedate+'><\/scr'+'ipt>');
+</script><script src="http://media.collegepublisher.com/media/paper885/template/betapopularstories.js?12/05/07"></script><div id="flan_poll" class="content">
 	<h4>Poll</h4>
 	<form name="voteform" action="/poll/index.cfm?event=castVote" method="post">
-		<div class="pollquestionstyle">How interested are you in the student elections?</div>
+		<div class="pollquestionstyle">Do you think that coach Butch Davis deserves a $291,000 raise?</div>
 		<div id="poll_answers">
 			
 				<div>
-					<input type="radio" name="poll_answer_id" id="poll_answer_85763" value="85763">
-					<label for="poll_answer_85763">Can't wait for Election Day</label>
+					<input type="radio" name="poll_answer_id" id="poll_answer_112947" value="112947">
+					<label for="poll_answer_112947">Yes, he's a great coach, and the football team will only continue to improve.</label>
 				</div>
 			
 				<div class="poll_even">
-					<input type="radio" name="poll_answer_id" id="poll_answer_85764" value="85764">
-					<label for="poll_answer_85764">I'll vote if I remember</label>
+					<input type="radio" name="poll_answer_id" id="poll_answer_112948" value="112948">
+					<label for="poll_answer_112948">No, we shouldn't reward a coach for a 4-8 record.</label>
 				</div>
 			
 				<div>
-					<input type="radio" name="poll_answer_id" id="poll_answer_85765" value="85765">
-					<label for="poll_answer_85765">There's a student election?</label>
-				</div>
-			
-				<div class="poll_even">
-					<input type="radio" name="poll_answer_id" id="poll_answer_85766" value="85766">
-					<label for="poll_answer_85766">Wouldn't vote if you paid me</label>
+					<input type="radio" name="poll_answer_id" id="poll_answer_112949" value="112949">
+					<label for="poll_answer_112949">No, I don't think any college coach should earn that much money.</label>
 				</div>
 			
 		</div>
@@ -856,40 +2981,57 @@ Fax: (617) 248-8747</p>
 		  </div>			
 	  </div>
 	</div>
-</div><div id="advertisements">
-	<h4>Advertisements</h4>
-	<div class="whole_ads">
-	<div class="left">
-		<div id="banner_loc_3" class="ad">
+</div>
+
+
+<script type="text/javascript"><!--
+google_ad_client = "pub-7971369811564106";
+google_ad_width = 150;
+google_ad_height = 240;
+google_ad_format = "120x240_as";
+google_ad_type = "text_image";
+google_ad_channel = "";
+//--></script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+
+
+<script type="text/javascript"><!--
+google_ad_client = "pub-7971369811564106";
+google_ad_width = 145;
+google_ad_height = 240;
+google_ad_format = "120x240_as";
+google_ad_type = "text_image";
+google_ad_channel = "";
+//--></sc<div id="banner_client_6" class="cp_banner_client">
+	<SCRIPT LANGUAGE="JAVASCRIPT">
+	if (clientBannersAvailable == 1) {
+		showClientBanner(6);
+	}
+	</script>
+	<noscript>
+	<cfoutput><a href="http://admanager2.broadbandpublisher.com/newspaperBanners/clientClickThrough.adp?iPosition=6&amp;iPaper_id=885&amp;javascriptIncludeMode=0&amp;callingSite=www%2Edailytarheel%2Ecom" target="new"><img src="http://admanager2.broadbandpublisher.com/newspaperBanners/showAbanner.adp?vchSerialNumber=u3h3rasj01&amp;iSection_Id=&amp;iStory_Id=&amp;iPaper_Id=885&amp;javascriptIncludeMode=0&amp;iPosition=6" border="0"></a></cfoutput>
+	</noscript>
+</div><h2>Login</h2>
+<div id="nav_login">
+<script type="text/javascript">
+if (GetCookie('ISLOGGEDIN') == 1) {
+     document.write('<a href="/user/index.cfm?event=processLogout" class="nav" target="_top">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Log Out</a>');
+}
+else{
+     document.write('<a href="/user/index.cfm?event=displayLogin&referrer=" class="nav" target="_top">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Log In</a>');
+}
+</script>
+<br>
+</div><div id="box_300_250_9" class="cp_ad">
+	<h4 class="ad_slug">Advertisement</h4>
 			
 			
 			<script language="Javascript">
 				showNetworkBanner(9);
 			</script>
-			<noscript>
-				<a href="http://admanager3.collegepublisher.com/runtime/noScriptClickThrough.cfm?iposition=9&amp;ipaper_id=885&amp;callingSite=www%2Edailytarheel%2Ecom" target="new">
-					<img src="http://admanager3.collegepublisher.com/runtime/noScriptAdImpDisplay.cfm?iposition=9&amp;ipaper_id=885" border="0">
-				</a>
-			</noscript>
 			
-		</div>
-	</div>
-	<div class="right">
-		<div id="banner_loc_2">
-			
-			
-			<script language="Javascript">
-				showNetworkBanner(10);
-			</script>
-			<noscript>
-				<a href="http://admanager3.collegepublisher.com/runtime/noScriptClickThrough.cfm?iposition=10&amp;ipaper_id=885&amp;callingSite=www%2Edailytarheel%2Ecom" target="new">
-					<img src="http://admanager3.collegepublisher.com/runtime/noScriptAdImpDisplay.cfm?iposition=10&amp;ipaper_id=885" border="0">
-				</a>
-			</noscript>
-			
-		</div>			
-	</div>
-	</div>
 </div><div class="content_300">
 	<script language="Javascript">
 		showNetworkBanner(12);
@@ -911,12 +3053,18 @@ Fax: (617) 248-8747</p>
 
 
 
+
+
+
 </div>
 		</div>
-	</div>
+	
 	
 
 
+
+			
+
 			
 			
 			
@@ -926,6 +3074,8 @@ Fax: (617) 248-8747</p>
 			
 			
 				
+
+		
 	
 		
 	
