@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simpleology.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625150933id_/http%3A//www.simpleology.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simpleology.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227195048id_/http%3A//www.simpleology.com/privacy.php) for the most accurate reproduction.*
 
 # simple•ology : The Simple Science of Getting What You Want
 
@@ -46,12 +46,12 @@ If you fail to receive a satisfactory response from the support desk, you can se
 **If by post:**
 
 Mark Joyner, Inc  
-593 Bear Grass Street  
-Las Vegas, NV 89144
+7426 Cherry Ave,. Ste 210 #150  
+Fontana, CA 92336
 
 **If by phone:**
 
-702-228-8493
+888-569-6376 or 888JoynerM 
 
 If you do not receive acknowledgment of your inquiry, or if your inquiry is still not satisfactorily addressed, you should then contact TRUSTe through the **[ TRUSTe Watchdog Dispute Resolution Process](http://www.truste.org/users/users_watchdog.php):**
 
@@ -74,7 +74,7 @@ Information is collected from users in the following areas of this site:
 >   * verify the legitimacy of the registration (for more information, please see “Communications From This Site” below); and  
 >   
 > 
->   * identify the member when they log into the _simple_ •ology WebCockpit or DesktopCockpit, and to customize their experience based on what courses they have purchased; and  
+>   * identify the member when they log into the _simple_ ology WebCockpit or DesktopCockpit, and to customize their experience based on what courses they have purchased; and  
 >   
 > 
 >   * geographical information is collected for our own research purposes and is not connected to member’s Personally Identifiable Information following its collection.
