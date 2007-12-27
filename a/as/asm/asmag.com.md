@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asmag.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629152400id_/http%3A//www.asmag.com/asm/common/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asmag.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227163544id_/http%3A//www.asmag.com/asm/common/privacy_policy.aspx) for the most accurate reproduction.*
 
 # ASMAG - Global Security Sourcing Park for CCTV, Surveillance, Access Control, Alarm, Intercom and Home Automation.
 
