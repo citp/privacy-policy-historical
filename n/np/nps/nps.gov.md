@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nps.gov privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617064013id_/http%3A//www.nps.gov/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nps.gov privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227151655id_/http%3A//www.nps.gov/privacy.htm) for the most accurate reproduction.*
 
 # U.S. National Park Service Privacy Statement
 
