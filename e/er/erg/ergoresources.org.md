@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ergoresources.org privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623231607id_/http%3A//www.aaohn.org/about/AAOHN-Online-Privacy-Statement.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ergoresources.org privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227044251id_/http%3A//www.aaohn.org/about/AAOHN-Online-Privacy-Statement.cfm) for the most accurate reproduction.*
 
 # AAOHN Online Privacy Statement
 
