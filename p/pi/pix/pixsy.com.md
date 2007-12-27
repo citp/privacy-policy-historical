@@ -1,10 +1,18 @@
-> *The following text is extracted and transformed from the pixsy.com privacy policy that was archived on 2007-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070628162352id_/http%3A//www.pixsy.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixsy.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227132214id_/http%3A//www.pixsycorp.com/privacy.aspx) for the most accurate reproduction.*
 
-# Pixsy: Privacy Policy
+# Pixsy Corporation | Privacy Policy
 
-| 
-
-Privacy Policy 
+|  [ ](https://web.archive.org/web/20071227132214id_/http%3A//www.pixsycorp.com/about.aspx)  
+[ ](https://web.archive.org/web/20071227132214id_/http%3A//www.pixsycorp.com/management.aspx)  
+[ ](https://web.archive.org/web/20071227132214id_/http%3A//www.pixsycorp.com/advisoryboard.aspx)  
+[ ](https://web.archive.org/web/20071227132214id_/http%3A//www.pixsycorp.com/jobs.aspx)  
+[ ](https://web.archive.org/web/20071227132214id_/http%3A//www.pixsycorp.com/events.aspx)  
+[ ](https://web.archive.org/web/20071227132214id_/http%3A//www.pixsycorp.com/press.aspx)  
+[ ](https://web.archive.org/web/20071227132214id_/http%3A//www.pixsycorp.com/news.aspx)  
+[ ](https://web.archive.org/web/20071227132214id_/http%3A//www.pixsycorp.com/awards.aspx)  
+[ ](https://web.archive.org/web/20071227132214id_/http%3A//www.pixsycorp.com/contact.aspx)  
+[ ](https://web.archive.org/web/20071227132214id_/http%3A//www.pixsycorp.com/showcase.aspx)  
+[ ](https://web.archive.org/web/20071227132214id_/http%3A//www.pixsycorp.com/copyright.aspx) | 
 
 Pixsy welcomes comments and questions on this Privacy Policy. You may e-mail your questions or comments to: [info@Pixsy.com](mailto:info@Pixsy.com)
 
@@ -35,3 +43,5 @@ Pixsy welcomes comments and questions on this Privacy Policy. You may e-mail you
 **13\. Processing Data in the United States.** By providing any personal information to the Site, all users, including, without limitation, users in the member states of the European Union, fully understand and unambiguously consent to this Privacy Policy and to the collection, storage, and processing of such information in the United States of America. 
 
 _(7.10.05 revision)_
+
+| 
