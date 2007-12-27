@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the faith.com privacy policy that was archived on 2007-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070513144402id_/http%3A//www.faith.com/common/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faith.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227110103id_/http%3A//www.faith.com/common/privacy) for the most accurate reproduction.*
 
 # Faith.com: Privacy
 
