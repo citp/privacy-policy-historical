@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the rohm.com privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608115654id_/http%3A//www.rohm.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rohm.com privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228003338id_/http%3A//www.rohm.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | ROHM
 
 With regard to matters concerning the registered customer's personal information and privacy (hereinafter referred to as "Personal Information"), ROHM (hereinafter referred to as the "Company") acknowledges the primary purpose of collecting and using personal information based upon the "Law Dealing with Personal Information" and the "Guidelines for the Economic and Industrial Sectors Concerning the Law Dealing with Personal Information." ROHM will acquire any Personal Information fairly, and implement the following measures in order to administer this information safely and accurately:  
+---  
 Gathering Personal Information  
 When obtaining a customer's Personal Information, the Company will inform and disclose the purpose to the customer in advance, and acquire Personal Information only to a degree that is deemed appropriate.  
 Use of Personal Information  
@@ -16,4 +17,4 @@ The Company shall implement the necessary training and education so that employe
 Disclosure, Correction and Deletion of Personal Information  
 With regard to the customer's Personal Information managed by the Company, if a request is received from the customer for disclosure of their own Personal Information, or if a request is received from the customer for the correction or deletion of their own Personal Information due to any mistake in its content or other such reasons, the Company shall act accordingly after confirmation of customer's identity in order to prevent disclosing the customer's Personal Information.
 
-For inquiries or more information, please use the [Inquiry Form.](https://www.rohm.com/wwwE/contact/map.html)
+For inquiries or more information, please use the [Inquiry Form.](https://www.rohm.com/wwwE/contact/)
