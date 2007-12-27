@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the vertical-leap.co.uk privacy policy that was archived on 2007-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070503223124id_/http%3A//www.vertical-leap.co.uk/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vertical-leap.co.uk privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227022034id_/http%3A//www.vertical-leap.co.uk/privacy-policy.asp) for the most accurate reproduction.*
 
-# Vertical Leap's Privacy Policy
+# Our Privacy Policy | Vertical Leap - The Search Marketing Specialists
 
-**Vertical Leap’s Privacy Policy falls into two sections. 1) Privacy Statement for Customers Using Vertical Leap’s search engine marketing service 2) Privacy Statement for Visitors to Sites Tracked by Vertical Leap**
+**Our Privacy Policy falls into two sections. 1) Privacy Statement for Customers Using Vertical Leap’s search engine marketing service 2) Privacy Statement for Visitors to Sites Tracked by Vertical Leap**
 
 At Vertical Leap Ltd, providing our customers with useful Analytics without infringing on privacy is of the utmost importance. You may wish to review this entire document, or you can skip to the section that is most relevant to your area of interest. 
 
@@ -10,7 +10,7 @@ At Vertical Leap Ltd, providing our customers with useful Analytics without infr
 Vertical Leap is committed to maintaining the trust and confidence of its customers and visitors to our web sites. We are also committed to the security of the data we collect for sites using Search Analytics, and the trust and confidence of visitors who frequent those sites. That's why we want you to understand when we collect and use information about you, the actions we take to protect your privacy and our commitment to data security. Because your privacy is important, Vertical Leap will not sell, rent or trade your personal information except as outlined in this privacy statement. 
 
 **What is Vertical Leap’s business?**  
-Vertical Leap Ltd provides a fully managed search engine marketing service for its clients with the express aim of improving their website’s ranking positions in the main organic search engines such as Google and MSN.
+Vertical Leap Ltd provides a fully managed search engine marketing service (including [search engine optimization](https://web.archive.org/)) for its clients with the express aim of improving their website’s ranking positions in the main organic search engines such as Google and MSN.
 
 The following documents describe our privacy practices for www.vertical-leap.co.uk. It details how we handle the information we gather about visitors to our customers' web sites running Vertical Leap Search Analytics as well as information about our customers' visits to www.vertical-leap.co.uk to retrieve their reports. 
 
@@ -20,11 +20,7 @@ Privacy Statement for Visitors to Sites Tracked by Vertical Leap Search Analytic
 
 If you are a Vertical Leap customer, and you are interested in more information about our use of your personal account information, please click here: 
 
-Privacy Statement for Customers Using Vertical Leap’s search engine marketing service
-
-Privacy Statement for Customers Using Vertical Leap Search Analytics to track visitors to their websites from organic search engines.
-
-P **rivacy Principles**  
+**Privacy Principles**  
 Because your privacy is important to us, Vertical Leap conducts its business under the following privacy principles: 
 
 **Principle 1 - Your Information is Secure**  
