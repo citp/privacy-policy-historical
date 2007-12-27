@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the dailyme.com privacy policy that was archived on 2007-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070610030536id_/http%3A//www.dailyme.com/pp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyme.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227184052id_/http%3A//www.dailyme.com/pp.php) for the most accurate reproduction.*
 
-# DailyMe.com - Privacy Policy
+# Privacy Policy -Your Personalized News - DailyMe
 
-  
 DailyMe, Inc., a Delaware corporation ("DailyMe") is committed to safeguarding your privacy online. Please read the following policy to understand how your personally identifiable information will be treated as you make use of our current offerings. DailyMe has created this Privacy Policy in order to demonstrate our firm commitment to privacy. The following discloses how we gather information from users, and others who visit the DailyMe website, our information dissemination practices and the information services therein. 
 
-Our Privacy Policy will let you know: 
+Our Privacy Policy will let you know:
 
   * What do we track?
   * What we do with the information we gather?
@@ -17,17 +16,17 @@ Our Privacy Policy will let you know:
 
 
 
-This privacy policy is incorporated into and is subject to the DailyMe Terms of Service. Your use of the DailyMe website and any personally identifiable information you provide on the DailyMe Sites remains subject to the terms of this privacy policy and the DailyMe Terms of Service. By using the DailyMe website you accept and agree to be bound by the terms of this privacy policy. 
+This privacy policy is incorporated into and is subject to the DailyMe Terms of Service. Your use of the DailyMe website and any personally identifiable information you provide on the DailyMe Sites remains subject to the terms of this privacy policy and the DailyMe Terms of Service. By using the DailyMe website you accept and agree to be bound by the terms of this privacy policy.
 
-Any content, including text, images and/or video posted at the decision of the user onto the DailyMe website becomes published content and is not considered personally identifiable information subject to this privacy policy. 
+Any content, including text, images and/or video posted at the decision of the user onto the DailyMe website becomes published content and is not considered personally identifiable information subject to this privacy policy.
 
-This policy does not cover any interaction you may have with DailyMe by telephone, postal mail, or other offline communications. 
+This policy does not cover any interaction you may have with DailyMe by telephone, postal mail, or other offline communications.
 
 This policy may change from time to time and DailyMe is under no obligation to inform you of any such changes, so please check back periodically to ensure your continued acceptance of such privacy policy. 
 
 This DailyMe Privacy Policy was last updated on December 21, 2006. 
 
-**What do we track?**
+### What do we track?
 
 DailyMe website's registration form requires you to provide us with personally identifiable information including certain mandatory contact information (including your name, and email address), and certain additional optional demographic information (like your zip code), and your content preferences in order to provide you with the DailyMe service. DailyMe retains this information for our use only. We use customer contact information and professional interest information from the registration form to generate and send the DailyMe containing content based on your account and profile. We also use this contact information to send email announcements about our company and products, to contact you if there are any changes to the website that will affect your user experience, and to send out surveys for our own information. On occasions, we also use this information on behalf of our advertisers or partners. You may opt-out of receiving future mailings; please review our opt-out policy below. 
 
@@ -51,7 +50,7 @@ It is your responsibility to maintain the confidentiality of your account inform
 
 From time to time, we or a partner may sponsor a promotion, sweepstake or contest on our website. You may be asked to provide personally identifiable information including name, email address or home address or to answer questions in order to participate. We may transfer personally identifiable information to certain ad partners that you have explicitly requested to receive information from. It will be clear at the point of collection who is collecting the personally identifiable information and whose privacy statement will apply. 
 
-**What we do with the information we gather**
+### What we do with the information we gather 
 
 We are continually striving to make DailyMe a better news and information website for you. In order to accomplish it, we continually monitor and analyze the aggregate information we collect on our users. 
 
@@ -65,29 +64,29 @@ Except as otherwise described in this policy, we will not disclose personally id
 
 Any personally identifiable information or content that you voluntarily disclose online (on discussion boards, in messages and chat areas) becomes publicly available and can be collected and used by others. 
 
-**Our opt-out policy**
+### Our opt-out policy 
 
 DailyMe provides you with the opportunity to opt-out of receiving any communications from us. 
 
-You have the opportunity to ‘opt-out’ of having your personally identifiable information used for certain purposes, including marketing purposes, when we ask for this information. For example, if you no longer wish to receive promotional communications, you may opt-out of receiving them by following the instructions included in each communication or by modifying your personally identifiable information to indicate such preference at any time by clicking on the Members Area section of DailyMe. 
+You have the opportunity to "opt-out" of having your personally identifiable information used for certain purposes, including marketing purposes, when we ask for this information. For example, if you no longer wish to receive promotional communications, you may opt-out of receiving them by following the instructions included in each communication or by modifying your personally identifiable information to indicate such preference at any time by clicking on the Members Area section of DailyMe. 
 
-**Changing or modifying your personally identifiable information**
+### Changing or modifying your personally identifiable information 
 
 You may update or modify your personally identifiable information at any time by clicking on the Members Area section of DailyMe 
 
-**What security precautions are in place to protect the loss, misuse, or alteration of my information?**
+### What security precautions are in place to protect the loss, misuse, or alteration of my information? 
 
 DailyMe operates secure data networks protected by industry standard firewall and password protection systems. Our security and privacy policies are periodically reviewed and enhanced as necessary and only authorized individuals have access to the information provided by our customers. 
 
-**Children’s policy**
+### Children's policy 
 
 Registration on our website is not available to anyone under the age of 13. We do not intend to collect information from persons under the age of 13. We ask that anyone under these ages not register on our website and not to submit any personally identifiable information through our website. We do not knowingly collect any personally identifiable information from children under these ages. 
 
-**Contact information**
+### Contact information 
 
-If you have any questions about this Privacy Policy, the practices of the DailyMe website, or your dealings with the DailyMe website, please contact us by sending an email message to [legal@dailyme.com](mailto:legal@dailyme.com) or by writing to the following address: 
+If you have any questions about this Privacy Policy, the practices of the DailyMe website, or your dealings with the DailyMe website, please contact us by sending an email message to **legal@dailyme.com** or by writing to the following address: 
 
-DailyMe, Inc.,   
-Attention: General Counsel   
-4000 Hollywood Blvd. Suite 135-S   
+DailyMe, Inc.,  
+Attention: General Counsel  
+4000 Hollywood Blvd. Suite 135-S  
 Hollywood, FL 33021. 
