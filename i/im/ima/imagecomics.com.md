@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imagecomics.com privacy policy that was archived on 2007-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070513214539id_/http%3A//imagecomics.com/termsofservice.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imagecomics.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227080054id_/http%3A//www.imagecomics.com/termsofservice.php) for the most accurate reproduction.*
 
 # Image Comics | Terms of Service & Privacy Policy
 
@@ -101,6 +101,10 @@ ImageComics.com's users are given the opportunity to opt-out of having their inf
 Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by e-mailing us at info@imagecomics.com. 
 
 ImageComics.com users are always notified when their information is being collected by outside parties. We do this so our users can make an informed choice as to whether or not they should proceed with services that require an outside party. 
+
+**Membership Cancellation**
+
+Image does enforce a policy that provides for termination in appropriate circumstances of members who are repeat infringers. If you believe that a member is a repeat infringer, please follow the instructions above to contact Image and provide information sufficient for us to verify that the member is a repeat infringer. 
 
 **Notification of Changes**
 
