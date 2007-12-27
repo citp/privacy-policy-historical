@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the autotrader.co.uk privacy policy that was archived on 2007-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070603204626id_/http%3A//www.autotrader.co.uk/common/mytrader/auto_trader_privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autotrader.co.uk privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227210411id_/http%3A//www.autotrader.co.uk/common/mytrader/auto_trader_privacy_policy.jsp) for the most accurate reproduction.*
 
-# Auto Trader UK - Auto Trader Privacy Policy
+# Auto Trader Privacy Policy - Auto Trader UK
 
 All personal information collected and used from the Auto Trader site will be processed in accordance with the 1998 Data Protection Act. 
 
@@ -31,6 +31,8 @@ Amendments and Updates to this policy may be made from time to time. Any revisio
 Telephone numbers and email addresses supplied as part of a vehicle advertisement will be published within the relevant advertisement for the duration of the booking, to enable a potential buyer to contact the seller. The postcode is collected in order to provide a positioning on each vehicle within our database, thereby enabling potential buyers to locate vehicles for sale within a set radius of their chosen location.
 
 Credit card information is used solely for the purpose of payment processing. Auto Trader retains no record of credit card details.
+
+All details supplied to Auto Trader with your on-line advertisement will be safeguarded both by our privacy policy and also by the 1998 Data Protection Act. We will only ever pass your personal details to third parties to enable fulfilment of the advertising package which you have selected. Where advertising packages include additional benefits your agreement to these terms and conditions includes consent for your data to be used by others to provide those benefits, subject always to your being offered the opportunity to opt out of those benefits upon receipt.
 
  **Vehicle Searches**  
 Postcodes and vehicle information are collected in order to provide a relevant match of vehicles against a specified search. The inclusion of the postcode enables us to provide the potential buyer with a range of vehicles within a chosen locality, rather than vehicles randomly spread throughout the country.
