@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the asiaing.com privacy policy that was archived on 2007-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070601202345id_/http%3A//www.asiaing.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asiaing.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227031336id_/http%3A//www.asiaing.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Asiaing.com! Free eBook, Free magazine, Free book, Knowledge sharing
+# Privacy Policy - Asiaing.com! Free eBooks, Free magazines, Knowledge sharing
 
 Thank you for visiting [Asiaing.com Website](http://www.asiaing.com/) and reviewing our privacy policy. Our privacy policy is clear: We will collect no personal information about you when you visit our website unless you choose to provide that information to us.
 
@@ -33,8 +33,3 @@ When you leave our web site ([www.asiaing.com](http://www.asiaing.com/)), you wi
 
 Be informed. You are the person best qualified to protect your own privacy.  
 
-
-  
-Shares: [](http://del.icio.us/post?v=4&noui&jump=close&url=http://www.asiaing.com/privacy-policy.html&title=Privacy%20Policy---%20Asiaing.com%21%21)  [](http://digg.com/submit?phase=2&url=http://www.asiaing.com/privacy-policy.html&title=Privacy%20Policy---%20Asiaing.com%21%21)  [](http://myweb2.search.yahoo.com/myresults/bookmarklet?u=http://www.asiaing.com/privacy-policy.html&=Privacy%20Policy---%20Asiaing.com%21%21)  |   Tags: [privacy policy](http://www.asiaing.com/index.php?option=com_search&searchphrase=tags&ordering=newest&searchword=privacy%20policy)  [Asiaing](http://www.asiaing.com/index.php?option=com_search&searchphrase=tags&ordering=newest&searchword=Asiaing)  [Asiaing.com](http://www.asiaing.com/index.php?option=com_search&searchphrase=tags&ordering=newest&searchword=Asiaing.com)  
-
-* * *
