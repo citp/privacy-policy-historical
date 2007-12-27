@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the timesunion.com privacy policy that was archived on 2007-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070531074214id_/http%3A//www.timesunion.com/aboutus/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timesunion.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227152215id_/http%3A//www.timesunion.com/aboutus/privacy.asp) for the most accurate reproduction.*
 
 # Albany, N.Y. : Timesunion.com : Privacy Policy
 
 Our privacy policy
 
-This privacy policy describes how Hearst Communications Inc., publisher of the Times Union, treats the personally identifiable information that is collected about you when you visit the Web sites of the Times Union, including [timesunion.com](http://timesunion.com/). This policy also applies to information collected by third-party service providers, who gather information on our behalf. If you have any questions or concerns about these privacy guidelines, please send e-mail to [webmaster](mailto:webmaster@timesunion.com). 
+This privacy policy describes how Hearst Communications Inc., publisher of the Times Union, treats the personally identifiable information that is collected about you when you visit the Web sites of the Times Union, including [timesunion.com](http://timesunion.com/). This policy also applies to information collected by third-party service providers, who gather information on our behalf. If you have any questions or concerns about these privacy guidelines, please send e-mail to [webmaster@timesunion.com](mailto:webmaster@timesunion.com). 
 
 This privacy policy does not apply to information collected about you by anyone except Hearst Communications ("Hearst") and its third-party service providers and only applies to the Web sites to which this policy is linked. Any information you provide when you visit Web sites other than those covered by this policy (including other Web sites affiliated with Hearst) or when you purchase any products or services that may be offered or advertised on our Web site by companies other than Hearst, is subject to the privacy policies of the organizations who run and/or own these Web sites. This policy does not apply to information you may provide to us offline, except where specifically stated. 
 
@@ -13,18 +13,18 @@ This privacy policy does not apply to information collected about you by anyone 
 For individuals 13 and older, the Times Union collects "personally identifying information" only when you specifically and knowingly provide it. Here are some of the ways we gather and save this information: 
 
   * When you register to use timesunion.com 
-  * During registration for a contest, forum or e-mail newsletter 
-  * When you order a subscription online. 
-  * When you purchase a story in our online archives. 
+  * During registration for a contest, blog, forum or e-mail newsletter 
+  * When you order a subscription online 
+  * When you view a story in our online archives 
   * In timesunion.com/autos, when you request information about price quotes, trade-ins, financing and email notifications about vehicles.
 
 
 
-(The Times Union also gathers names and e-mail addresses when you send electronic postcards and forward articles to friends using the link that appears at the bottom of most stories. However, we do not store this information; it is used only to send the postcard or story.) 
+(The Times Union also gathers names and e-mail addresses when you send electronic postcards and forward articles to friends using the link that appears on most stories. However, we do not store this information; it is used only to send the postcard or story.) 
 
-At the bottom of some pages that collect your personally identifiable information, we ask if you would like to receive updates about the Times Union, timesunion.com, or features or targeted promotions from our advertisers. This opt-in system defaults to "no" unless you check otherwise. 
+At the bottom of some pages that collect your personally identifiable information, we ask if you would like to receive updates about the Times Union and timesunion.com or targeted promotions from our advertisers. This opt-out system defaults to "yes" unless you check otherwise. 
 
-The Times Union also collects non-personally identifiable information including the server that your computer is logged onto, your operating system and your Web browser type. This information is gathered in server log files for traffic analysis, via online forms for help and troubleshooting and by our ad server software (247RealMedia's OpenAdStream) when an advertisement is presented. The information collected by the ad server is not personally identifiable and is used only to measure traffic and advertising effectiveness. 
+The Times Union also collects non-personally identifiable information including the server that your computer is logged onto, your operating system and your Web browser type. This information is gathered in server log files for traffic analysis, via online forms for help and troubleshooting and by our ad server software (247RealMedia's OpenAdStream) when an advertisement is presented. The information collected by the ad server is not personally identifiable and is used only to measure traffic, advertising impressions and advertising effectiveness. 
 
 **What about cookies?**
 
@@ -33,7 +33,7 @@ If you turn on the cookie notification setting of your browser, you will see tha
   * 1) To analyze traffic and user behavior on timesunion.com; 
   * 2) To target advertising and measure ad impressions and click-throughs; 
   * 3) To record user name and password information while you are visiting our archives; 
-  * 4) to track voting in our polls.
+  * 4) To track voting in our polls.
 
 
 
@@ -45,7 +45,7 @@ If you don't want cookies, most Web browsers include an option that allows you t
 
 The Times Union uses this information to provide you with the service you have requested. If you subscribe to the Times Union, we may use your e-mail address to send you a confirmation notice and your mailing address to deliver the paper. Similarly, if you enter an online sweepstakes, we will use this information to notify you of the names of the contest winners. The information you provide on timesunion.com/autos is shared with our car dealer partners and may be used by them to contact you about car offers and financing arrangements. We have no control over what those car dealers do with the information you provide. 
 
-If you do not "opt out" by unchecking the box at the bottom of registration and other signup forms, your personally identifying information may be used for additional purposes, such as e-mailing you with information about new features and offers from the Times Union or timesunion.com. In addition, if you opt-in, we may send you advertising information or other offers we think may be of interest. Individuals always have the ability to stop receiving these e-mails by sending an e-mail request to us at [webmaster@timesunion.com.](mailto:webmaster@timesunion.com) You may also make reasonable requests to review the personal data collected from you and to correct any errors. 
+If you do not "opt out" by unchecking the box at the bottom of registration and other signup forms, your personally identifying information may be used for additional purposes, such as e-mailing you with information about new features and offers from the Times Union or timesunion.com. In addition, if you do not opt-out, we may send you advertising information or other offers we think may be of interest. Individuals always have the ability to stop receiving these e-mails by sending an e-mail request to us at [webmaster@timesunion.com.](mailto:webmaster@timesunion.com) You may also make reasonable requests to review the personal data collected from you and to correct any errors. 
 
 **Does the Times Union share the information with anyone else?**
 
@@ -61,7 +61,7 @@ You should be aware that when you voluntarily disclose personal information (e.g
 
 **When was this privacy policy most recently updated?**
 
-We updated this privacy policy on May XXXXX, 2007. We reserve the right to change this policy at any time. Your continued use of our sites indicates your consent to this privacy policy and any amended versions of it. 
+We updated this privacy policy on June 20, 2007. We reserve the right to change this policy at any time. Your continued use of our sites indicates your consent to this privacy policy and any amended versions of it. 
 
 **Are you a non-U.S. user?**
 
