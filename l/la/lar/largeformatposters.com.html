@@ -1,0 +1,673 @@
+<!--The following is the downloaded HTML source of the largeformatposters.com privacy policy that was archived on 2007-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071227033036id_/http%3A//www.largeformatposters.com/Site-Policies.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Large Format Posters - Trade Shows, Window Graphics, Gloss Posters, Banners and More</title>
+<meta name="keywords" content="large format posters, posters printing, vinyl banners, banner printing, canvas printing, trade show poster printing, vinyl signs">
+<meta name="description" content="At Large Format Posters, you can rely on our professional staff and our state-of-the-art poster printing technology for the best quality poster printing, fast and affordable. Our extensive large format poster printing capabilities includes offset poster p">
+<base href="http://www.largeformatposters.com/">
+<link rel="stylesheet" type="text/css" href="includes/templates/lfp/css/stylesheet.css">
+<script>
+
+		
+		// remote scripting library
+		// (c) copyright 2005 modernmethod, inc
+		var sajax_debug_mode = false;
+		var sajax_request_type = "GET";
+		
+		function sajax_debug(text) {
+			if (sajax_debug_mode)
+				alert("RSD: " + text)
+		}
+ 		function sajax_init_object() {
+ 			sajax_debug("sajax_init_object() called..")
+ 			
+ 			var A;
+			try {
+				A=new ActiveXObject("Msxml2.XMLHTTP");
+			} catch (e) {
+				try {
+					A=new ActiveXObject("Microsoft.XMLHTTP");
+				} catch (oc) {
+					A=null;
+				}
+			}
+			if(!A && typeof XMLHttpRequest != "undefined")
+				A = new XMLHttpRequest();
+			if (!A)
+				sajax_debug("Could not create connection object.");
+			return A;
+		}
+		function sajax_do_call(func_name, args) {
+			var i, x, n;
+			var uri;
+			var post_data;
+			
+						uri = "http://www.largeformatposters.com";
+			if (sajax_request_type == "GET") {
+				if (uri.indexOf("?") == -1) 
+					uri = uri + "?rs=" + escape(func_name);
+				else
+					uri = uri + "&rs=" + escape(func_name);
+				for (i = 0; i < args.length-1; i++) 
+					uri = uri + "&rsargs[]=" + escape(args[i]); 
+				uri = uri + "&rsrnd=" + new Date().getTime();
+				post_data = null;
+			} else {
+				post_data = "rs=" + escape(func_name);
+				for (i = 0; i < args.length-1; i++) 
+					post_data = post_data + "&rsargs[]=" + escape(args[i]);
+			}
+			
+			x = sajax_init_object();
+			x.open(sajax_request_type, uri, true);
+			if (sajax_request_type == "POST") {
+				x.setRequestHeader("Method", "POST " + uri + " HTTP/1.1");
+				x.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+			}
+			x.onreadystatechange = function() {
+				if (x.readyState != 4) 
+					return;
+				sajax_debug("received " + x.responseText);
+				
+				var status;
+				var data;
+				status = x.responseText.charAt(0);
+				data = x.responseText.substring(2);
+				if (status == "-") 
+					alert("Error: " + data);
+				else  
+					args[args.length-1](data);
+			}
+			x.send(post_data);
+			sajax_debug(func_name + " uri = " + uri + "/post = " + post_data);
+			sajax_debug(func_name + " waiting..");
+			delete x;
+		}
+		
+				
+		// wrapper for get_categories		
+		function x_get_categories() { 
+			sajax_do_call("get_categories",
+				x_get_categories.arguments);
+		}
+		
+				
+		// wrapper for get_options		
+		function x_get_options() { 
+			sajax_do_call("get_options",
+				x_get_options.arguments);
+		}
+		
+				
+		// wrapper for get_quantity		
+		function x_get_quantity() { 
+			sajax_do_call("get_quantity",
+				x_get_quantity.arguments);
+		}
+		
+				
+		// wrapper for get_price		
+		function x_get_price() { 
+			sajax_do_call("get_price",
+				x_get_price.arguments);
+		}
+		
+				
+		// wrapper for get_attributes		
+		function x_get_attributes() { 
+			sajax_do_call("get_attributes",
+				x_get_attributes.arguments);
+		}
+		
+				
+		// wrapper for get_attributes_info		
+		function x_get_attributes_info() { 
+			sajax_do_call("get_attributes_info",
+				x_get_attributes_info.arguments);
+		}
+		
+				
+		// wrapper for get_category_name		
+		function x_get_category_name() { 
+			sajax_do_call("get_category_name",
+				x_get_category_name.arguments);
+		}
+		
+				
+		// wrapper for calculate_shipping		
+		function x_calculate_shipping() { 
+			sajax_do_call("calculate_shipping",
+				x_calculate_shipping.arguments);
+		}
+		
+				
+		// wrapper for calculate_shippingRates		
+		function x_calculate_shippingRates() { 
+			sajax_do_call("calculate_shippingRates",
+				x_calculate_shippingRates.arguments);
+		}
+		
+				
+		// wrapper for get_price_newdb_psi		
+		function x_get_price_newdb_psi() { 
+			sajax_do_call("get_price_newdb_psi",
+				x_get_price_newdb_psi.arguments);
+		}
+		
+				
+		// wrapper for get_product_poster_details		
+		function x_get_product_poster_details() { 
+			sajax_do_call("get_product_poster_details",
+				x_get_product_poster_details.arguments);
+		}
+		
+				
+		// wrapper for get_product_details		
+		function x_get_product_details() { 
+			sajax_do_call("get_product_details",
+				x_get_product_details.arguments);
+		}
+		
+				
+		// wrapper for get_price_newdb_posters		
+		function x_get_price_newdb_posters() { 
+			sajax_do_call("get_price_newdb_posters",
+				x_get_price_newdb_posters.arguments);
+		}
+		
+				
+		// wrapper for get_sizes		
+		function x_get_sizes() { 
+			sajax_do_call("get_sizes",
+				x_get_sizes.arguments);
+		}
+		
+				
+		// wrapper for get_price_newdb		
+		function x_get_price_newdb() { 
+			sajax_do_call("get_price_newdb",
+				x_get_price_newdb.arguments);
+		}
+		
+				
+		// wrapper for call_ups		
+		function x_call_ups() { 
+			sajax_do_call("call_ups",
+				x_call_ups.arguments);
+		}
+		
+				
+		// wrapper for get_ups_methods		
+		function x_get_ups_methods() { 
+			sajax_do_call("get_ups_methods",
+				x_get_ups_methods.arguments);
+		}
+		
+				
+		// wrapper for test_call		
+		function x_test_call() { 
+			sajax_do_call("test_call",
+				x_test_call.arguments);
+		}
+		
+		
+var DIR_WS_TEMPLATE = 'includes/templates/lfp/';
+var IMG_DIR = '';
+var REQUEST_URI = '/Site-Policies.html';
+var HTTP_SERVER = 'http://www.largeformatposters.com';
+var CURRENT_PAGE = 'privacy_policy';
+var CPATH = '';
+var MARK = '';
+var PRODUCT_ID = '';
+	var TYPE = '';
+var SEL_SHIPPING = '';
+var PROMO = '';
+
+</script> 
+
+<script src="includes/templates/lfp/jscripts/JSON.js"></script> 
+<script src="includes/templates/lfp/jscripts/misc.js"></script> 
+<script src="includes/templates/lfp/jscripts/site_search.js"></script> 
+
+<script language="JavaScript" src="https://seals.networksolutions.com/siteseal/javascript/siteseal.js" type="text/javascript"></script>
+
+<script type="text/javascript" language="JavaScript">
+function MM_preloadImages() { //v3.0
+  var d=document; 
+	if(d.images){ 
+		if(!d.MM_p) d.MM_p=new Array();
+			var i,j=d.MM_p.length,a=MM_preloadImages.arguments; 
+			for(i=0; i<a.length; i++)
+				if (a[i].indexOf("#")!=0) { 
+					d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];
+				}
+	}
+}
+</script></head>
+
+ 
+<body id="privacypolicy" style="margin:0 0 0 0; padding:0 0 0 0;">
+
+<center>
+<div id="divPage">
+<table align="center" border="0" cellspacing="0" cellpadding="0" width="800">
+  <tbody><tr>
+    <td>
+			<!-- header begins -->
+			<style>
+body {
+	margin:0px;
+	padding:0px;
+}
+body, table {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#000000;
+}
+table, tr, td, th {
+	text-align:left;
+}
+.headerFont {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	font-weight:normal;
+	color:#FFFFFF;
+	text-decoration:none;
+}
+.headerLinks {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	font-weight:bold;
+	color:#FFFFFF;
+	text-decoration:none;
+}
+.headCpfont {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	font-weight:normal;
+	color:#003399;
+	text-decoration:none;
+}
+.headCpmenu {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	font-weight:bold;
+	color:#003399;
+	text-decoration:none;
+}
+.leftMenu {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	font-weight:normal;
+	color:#003399;
+	text-decoration:underline;
+}
+.rightLabel {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	font-weight:bold;
+	color:#003399;
+	text-decoration:none;
+}
+.rightText {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	font-weight:normal;
+	color:#003399;
+	text-decoration:none;
+}
+.rightStext {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	font-weight:normal;
+	color:#003399;
+	text-decoration:none;
+}
+.footerCopyright {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	font-weight:normal;
+	color:#999999;
+	text-decoration:none;
+}
+.dropdownClass {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	font-weight:normal;
+}
+.productDesc {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	font-weight:normal;
+	color:#0066CC;
+}
+.redLtext {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	font-weight:normal;
+	color:#FF0000;
+	text-decoration:none;
+}
+.redLtext {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	font-weight:normal;
+	color:#FF0000;
+	text-decoration:none;
+}
+.smallVerdana {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	font-weight:normal;
+	color:#000000;
+	text-decoration:none;
+}
+
+</style>
+<form name="custom_proof_home" action="http://www.largeformatposters.com/index.php?main_page=custom_product" enctype="multipart/form-data" method="post">
+<input type="hidden" name="submit_proof" value="">
+</form>
+<script>
+var newwindow = '';
+function popitupImage(url) {
+	newwindow=window.open(url,'htmlname','width=504,height=416,resizable=1,scrollbars=yes');   
+}
+</script>
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+		<tbody><tr>
+		<td width="20%"><a href="http://www.largeformatposters.com"><img src="includes/templates/lfp/images/lfp-logo.gif" width="189" height="72" border="0"></a></td>
+		<td width="80%" valign="top">
+			<table align="right" border="0" cellspacing="0" cellpadding="0">
+				<tbody><tr>
+					<td>&nbsp;</td>
+				</tr>
+				<tr>
+					<td><img src="includes/templates/lfp/images/header-callus.gif" width="200" height="36"></td>
+										<td width="20">&nbsp;</td>
+					<td>
+						<table border="0" cellspacing="0" cellpadding="0" width="100%">
+							<tbody><tr>
+								<td><img src="includes/templates/lfp/images/header-gmenu-left.gif" width="15" height="36"></td>
+								<td background="includes/templates/lfp/images/header-gmenu-bg.gif" class="headCpfont"><a href="http://www.largeformatposters.com/indexportal.php?page=orders2" rel="nofollow" class="headCpmenu"><span class="headCpmenu">Job Management</span></a> | <a href="http://www.largeformatposters.com/index.php?main_page=cart_items&amp;cart_type=db" rel="nofollow" class="headCpmenu"><span class="headCpmenu">Shopping Cart</span></a></td>
+								<td><img src="includes/templates/lfp/images/header-gmenu-right.gif" width="15" height="36"></td>
+							</tr>
+						</tbody></table>
+					</td>
+										<td>&nbsp;</td>								
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+	<tr>
+		<td background="includes/templates/lfp/images/header-blueline.gif" colspan="2"><img src="includes/templates/lfp/images/header-blueline.gif" width="15" height="6"></td>
+	</tr>
+	<tr>
+		<td colspan="2">
+			<table border="0" cellspacing="0" cellpadding="0" width="100%">
+				<tbody><tr>
+					<td><img src="includes/templates/lfp/images/header-menu-left.gif" width="15" height="36"></td>
+					<td background="includes/templates/lfp/images/header-menu-bg.gif" width="99%">
+						<table width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tbody><tr>
+								<td class="headerFont">
+									<a href="http://www.largeformatposters.com" class="headerLinks"><span class="headerLinks">Home</span></a> |
+									<a href="http://www.largeformatposters.com/About-Us.html" class="headerLinks"><span class="headerLinks">About Us</span></a> |
+									<a href="http://www.largeformatposters.com/Samples.html" class="headerLinks" rel="nofollow"><span class="headerLinks">Sample Kit</span></a> |
+									<a href="http://www.largeformatposters.com/index.php?main_page=custom_product&amp;proof=pdf_proof" class="headerLinks" rel="nofollow"><span class="headerLinks">Project Review</span></a> |
+									<a href="http://www.largeformatposters.com/Utrade.html" class="headerLinks"><span class="headerLinks" rel="nofollow">Trade Program</span></a> |
+									<a href="http://www.largeformatposters.com/Contact-Us.html" class="headerLinks"><span class="headerLinks">Contact Us</span></a>
+								</td>
+								<td>
+									<table align="right" border="0" cellspacing="0" cellpadding="0">
+										<tbody><tr>
+											<td><img src="includes/templates/lfp/images/q-mark.gif" width="16" height="16"></td>
+											<td>&nbsp;</td>
+											<td><a href="http://www.largeformatposters.com/Help-Center.html" class="headerLinks"><span class="headerLinks">Help Center</span></a></td>
+										</tr>
+									</tbody></table>
+								</td>
+							</tr>
+						</tbody></table>
+					</td>
+					<td><img src="includes/templates/lfp/images/header-menu-right.gif" width="15" height="36"></td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+</tbody></table>			<!-- header ends -->
+		</td>
+  </tr>	
+	<tr>
+		<td height="30">&nbsp;</td>
+	</tr>
+	<tr>
+		<td>
+			<table border="0" cellspacing="0" cellpadding="0" width="100%">
+				<tbody><tr>
+										<td valign="top">
+						<!-- left panel begins -->
+						<table align="left" border="0" cellspacing="0" cellpadding="0" width="197">
+	<tbody><tr>
+		<td><img src="includes/templates/lfp/images/left-top.gif" width="197" height="17"></td>
+	</tr>
+	<tr>
+		<td background="includes/templates/lfp/images/left-bg.gif"><br>
+			<table align="center" border="0" cellspacing="0" cellpadding="0" width="80%">
+				<tbody><tr>
+					<td colspan="2"><img src="includes/templates/lfp/images/poster-material.gif" width="99" height="17"></td>
+				</tr>
+				<tr>
+					<td colspan="2" height="7"></td>
+				</tr>
+				<tr>
+					<td width="25"><img src="includes/templates/lfp/images/uv-poster.gif" width="22" height="14"></td>
+					<td><a href="/Artist-Canvas-Posters.html" class="leftMenu">Artist Canvas</a></td>
+				</tr>
+				<tr>
+					<td colspan="2" height="7"></td>
+				</tr>
+				<tr>
+					<td>&nbsp;</td>
+					<td><a href="/High-Gloss-Posters.html" class="leftMenu">High Gloss Paper</a></td>
+				</tr>
+				<tr>
+					<td colspan="2" height="7"></td>
+				</tr>
+				<tr>
+					<td>&nbsp;</td>
+					<td><a href="/Semi-Gloss-Posters.html" class="leftMenu">Semi Gloss Paper</a></td>
+				</tr>
+				<tr>
+					<td colspan="2" height="25">&nbsp;</td>
+				</tr>
+				<tr>
+					<td colspan="2"><img src="includes/templates/lfp/images/banner-materials.gif" width="104" height="17"></td>
+				</tr>
+				<tr>
+					<td colspan="2" height="7"></td>
+				</tr>
+				<tr>
+					<td><img src="includes/templates/lfp/images/uv-poster.gif" width="22" height="14"></td>
+					<td><a href="/Vinyl-Banners-Posters.html" class="leftMenu">Vinyl Banners</a></td>
+				</tr>
+								<tr>
+					<td colspan="2" height="25">&nbsp;</td>
+				</tr>
+				<tr>
+					<td colspan="2"><img src="includes/templates/lfp/images/display-graphics.gif" width="103" height="17"></td>
+				</tr>
+				<tr>
+					<td colspan="2" height="7"></td>
+				</tr>
+				<tr>
+					<td><img src="includes/templates/lfp/images/uv-poster.gif" width="22" height="14"></td>
+					<td><a href="/Adhesive-Vinyl-Posters.html" class="leftMenu">Adhesive Vinyl</a></td>
+				</tr>
+				<tr>
+					<td colspan="2" height="7"></td>
+				</tr>
+				<tr>
+					<td><img src="includes/templates/lfp/images/uv-poster.gif" width="22" height="14"></td>
+					<td><a href="/Window-Signs-Posters.html" class="leftMenu">Window Signs</a></td>
+				</tr>
+				<tr>
+					<td colspan="2" height="25">&nbsp;</td>
+				</tr>
+				<tr>
+					<td colspan="2"><img src="includes/templates/lfp/images/offset-posters.gif" width="94" height="17"></td>
+				</tr>
+				<tr>
+					<td colspan="2" height="7"></td>
+				</tr>
+				<tr>
+					<td><img src="includes/templates/lfp/images/25pt-poster.gif" width="22" height="14"></td>
+					<td><a href="/Gloss-Text-Posters.html" class="leftMenu">100lb Gloss Text</a></td>
+				</tr>
+				<tr>
+					<td colspan="2" height="7"></td>
+				</tr>
+				<tr>
+					<td><img src="includes/templates/lfp/images/25pt-poster.gif" width="22" height="14"></td>
+					<td><a href="/Gloss-Cover-Posters.html" class="leftMenu">100lb Gloss Cover</a></td>
+				</tr>										
+			</tbody></table>
+		<br></td>
+	</tr>
+	<tr>
+		<td><img src="includes/templates/lfp/images/left-bottom.gif" width="197" height="17"></td>
+	</tr>
+	<tr>
+		<td><img src="includes/templates/lfp/images/uv-25pt.gif" width="170" height="61"></td>
+	</tr>
+</tbody></table>						<!-- left panel ends -->
+					</td>
+					<td width="15">&nbsp;&nbsp;&nbsp;</td>
+										<td valign="top">
+						<!-- bodycode begins -->
+						<style>
+table, tr, td, th {
+	color:#000000;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	text-align:justify;
+}
+</style>
+<br>
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+  <tbody><tr>
+    <td>
+			<strong>PRIVACY POLICY</strong><br><br>
+			
+			COMMITMENT TO PRIVACY<br><br>
+			
+			Digital Room, Inc. understands the importance of protecting the privacy of LargeFormatPosters.com users. The information collected on the LargeFormatPosters.com website is used to market and improve the services we and our subsidiaries offer, to improve the LargeFormatPosters.com web site content, and to contact you with updates to the web site or for other marketing purposes.<br><br>
+			
+			Certain areas of LargeFormatPosters.com, including those areas used to make purchases, require registration and/or a password for access. Information obtained from registered users of these areas may also be used for LargeFormatPosters.com marketing purposes, and cookies may be used in those and other areas, as is described in this Policy. Information obtained in these areas may also be used in accordance with agreements governing access to and use of the specific areas. In addition, visitors to LargeFormatPosters.com will need to register for a LargeFormatPosters.com Login user ID and password to use many of the interactive features on LargeFormatPosters.com as well as to make a purchase or file an order from LargeFormatPosters.com. Log file data and other information gathered from registered users of LargeFormatPosters.com are used to improve the LargeFormatPosters.com customer experience.<br><br>
+			
+			<strong>For more information on this Privacy Policy, please read below.</strong>
+			<ul>
+			<li>Visitor Information</li>
+			<li>Personal Information</li>
+			<li>Use of Personal Information</li>
+			<li>Cookies</li>
+			<li>Links</li>
+			<li>Security</li>
+			<li>Opt Out Options</li>
+			<li>How do I contact LargeFormatPosters.com</li>
+			</ul>
+			
+			<strong>Visitor Information</strong><br><br>
+			
+			The LargeFormatPosters.com web server uses an extended log file format which captures: date and time of visit, referring address (location from which a visitor comes to LargeFormatPosters.com), type of Internet browser, and visitor's IP address. (Each computer that connects to the Internet is assigned a unique number, an IP address, for identification purposes). The log file does not capture a visitor's email address.<br><br>
+			
+			<strong>Personal Information</strong><br><br>
+			
+			Certain areas of LargeFormatPosters.com ask for personal information. LargeFormatPosters.com uses this personal information to aid in presenting its customers with a better interactive experience and to facilitate the customer’s ability to make purchases and orders from the LargeFormatPosters.com website. To register for a login user ID, your name, address, email address, billing information, and business profile are requested. This information is collected to help us further develop our services, to provide you access to valuable LargeFormatPosters.com Internet-based information and services, and to facilitate the billing process for those services if you elect to use them. Customers will have the ability to access and change the information which they have provided to LargeFormatPosters.com by use of the appropriate features on the LargeFormatPosters.com website.<br><br>
+			
+			<strong>Use of Personal Information</strong><br><br>
+			
+			The information collected through this site helps us identify the type of web site content that our customers value, allowing us to market and improve the web site and our services. The information is also used to send email notifications to customers about updates to the web site, and to contact customers by other means for marketing and other purposes. Our policy is to not give, sell or otherwise distribute the information collected through this site to third parties outside of Digital Room, Inc. and its subsidiaries (unless required by law); provided, however, in some cases we may use suppliers to assist us in collecting, using or otherwise processing for our benefit the information obtained through this site. LargeFormatPosters.com does use an outside shipping company to ship orders, and a credit card processing company to bill users for goods and services. Our practice is to require our suppliers and vendors to conduct themselves in a manner consistent with this policy and our requirements.<br><br>
+			
+			<strong>Information From Third Parties</strong><br><br>
+			
+			If necessary, LargeFormatPosters.com obtains consumer information from third-party providers in order to improve the accuracy of our customer database and to increase our understanding of our customers or to identify potential customers. For example, we get updated addresses from the National Change of Address (NCOA) service to assist us in having the correct addresses for our customers.<br><br>
+			
+			<strong>Cookies</strong><br><br>
+			
+			A cookie is a series of data characters that, when programmed into a web site, is placed by the web server into the browser's application folder on your computer. Once placed onto your machine, the cookie will allow the web site to "recognize" you as a unique individual. LargeFormatPosters.com uses these Coolies to personalize information for certain segments of its customer base. Secondly, in some instances, cookies are used to allow LargeFormatPosters.com the opportunity to associate individual customers with their information profiles. For example, through the use of cookies, LargeFormatPosters.com can "remember" your user ID when you login to LargeFormatPosters.com on your computer. Should you choose to do so, cookies can be removed from your hard drive and certain web browsers can be set so that cookies are not used or saved. Please check with your browser provider for more information on removing cookies.<br><br>
+			
+			<strong>Links</strong><br><br>
+			
+			Our sites may contain links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware of this fact when they leave our site and to read the privacy statements of each and every Web site that they visit which collects personally-identifiable information. This privacy statement applies solely to information collected by this web site.<br><br>
+			
+			<strong>Security</strong><br><br>
+			
+			For the safety of our customers who are shopping online, LargeFormatPosters.com always has security measures in place to protect customer information. LargeFormatPosters.com takes all reasonable precautions to protect against the loss, misuse and unauthorized access of your personal information under our control. Because the security of your personal information is a high priority, we have taken numerous steps to ensure that it is processed confidentially, accurately and securely. The LargeFormatPosters.com web site uses encryption technology, such as Secure Socket Layer (SSL) technology, which is supported by the vast majority of modern Internet browsers. SSL technology represents the highest level of security available on the Internet, automatically encrypting information traveling over the Internet, verifying the identity of the transacting servers through certificates and digital signatures, and confirming that the integrity of the message content is maintained throughout its transmission. LargeFormatPosters.com cannot ensure or warrant the security of any information you transmit to us by e-mail, and you do so at your own risk.<br><br>
+			
+			<strong>Opt Out Options</strong><br><br>
+			
+			LargeFormatPosters.com allows customers the option to opt-out of marketing communications upon request. Once we receive your information, we may send you marketing communications that contain valuable offers, promotions and other content. However, users who no longer wish to receive our newsletter and promotional communications may opt-out of receiving these communications by following the directions contained in the communication. All marketing communications from LargeFormatPosters.com will tell you how to stop receiving them. In addition, you can opt out of receiving further marketing communications from LargeFormatPosters.com by the use of the Unsubscribe page on the LargeFormatPosters.com website.<br><br>
+			
+			<strong>How do I contact LargeFormatPosters.com?</strong><br><br>
+			
+			Our postal address is:<br>
+			LargeFormatPosters.com<br>
+			Digital Room, Inc.<br>
+			10936 Santa Monica Blvd.<br>
+			Los Angeles, CA 90025<br><br>
+			
+			We can be reached via email at <a href="mailto:info@largeformatposters.com">info@largeformatposters.com</a> or by telephone at (888) 888-4211.<br><br>
+			
+			Digital Room, Inc. reserves the right to amend this Privacy Policy at any time with or without notice. Please check back frequently in the event of changes.<br><br>
+			
+			Your use of LargeFormatPosters.com constitutes your agreement to this Privacy Policy.<br><br>
+		</td>
+	</tr>
+</tbody></table>						<!-- bodycode ends -->
+					</td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+	<tr>
+		<td height="30">&nbsp;</td>
+	</tr>
+	<tr>
+		<td>
+			<!-- footer begins -->
+			<table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr>
+		<td background="includes/templates/lfp/images/footer-bluebg.gif" height="37"><div align="center" class="headerFont"><a class="headerFont" href="http://www.largeformatposters.com"><span class="headerFont">Home</span></a> | <a class="headerFont" href="http://www.largeformatposters.com/sitemap.html"><span class="headerFont">Sitemap</span></a> | <a class="headerFont" href="http://www.largeformatposters.com/Terms.html"><span class="headerFont">Terms &amp; Conditions</span></a> | <a class="headerFont" href="http://www.largeformatposters.com/Site-Policies.html"><span class="headerFont">Privacy Policy</span></a></div></td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+	</tr>
+	<tr>
+		<td><div align="center" class="footerCopyright">Copyright © 2005 Large Format Printing. All Rights Reserved.</div></td>
+	</tr>
+	<tr>
+		<td><div align="center"><a href="http://www.largeformatposters.com"><img src="includes/templates/lfp/images/lfp-footer-logo.gif" width="131" height="50" border="0"></a></div></td>
+	</tr>
+</tbody></table>
+
+					<!-- footer ends -->
+		</td>
+	</tr>
+</tbody></table>
+</div>
+<br>
+</center>
+
+
+
+
+
+<!-- BEGIN WebSTAT Activation Code -->
+<script type="text/javascript" language="JavaScript" src="http://hv3.webstat.com/cgi-bin/wsv2.cgi?103817"></script>
+<!-- END WebSTAT Activation Code -->
+
+
+
+</body></html>
