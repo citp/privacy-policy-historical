@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nodq.com privacy policy that was archived on 2007-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070506171412id_/http%3A//nodq.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nodq.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227234827id_/http%3A//www.nodq.com/privacy.shtml) for the most accurate reproduction.*
 
 # NoDQ.com > Privacy Policy
 
