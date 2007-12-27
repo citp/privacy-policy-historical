@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the professionalplastics.com privacy policy that was archived on 2004-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041011122907id_/http%3A//www.professionalplastics.com/cgi-bin/main/co_disp/displ/strfnbr/3/pgname/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the professionalplastics.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227211752id_/http%3A//www.professionalplastics.com/cgi-bin/main/co_disp/displ/strfnbr/3/pgname/privacy) for the most accurate reproduction.*
 
 # Professional Plastics
 
-|  **Conditions of Use**  
+**Conditions of Use**  
 ProfessionalPlastics.com and its affiliates provide services to you subject to the following conditions: By visiting or shopping at ProfessionalPlastics.com, you accept the following conditions. 
 
 **Your Personal Information Is Private**  
@@ -41,4 +41,4 @@ When you visit ProfessionalPlastics.com or send e-mail to us, you are communicat
 Our business changes constantly, and our Privacy Notice and the Conditions of Use may change also. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to. As always, we recommend that you check our Web site frequently to view recent changes or updates. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers. 
 
 **Contact Professional Plastics**  
-If you have any questions, concerns or comments about this privacy policy, please contact us at webmaster@ProfessionalPlastics.com. 
+If you have any questions, concerns or comments about this privacy policy, please contact us at [webmaster@ProfessionalPlastics.com](mailto:webmaster@ProfessionalPlastics.com). 
