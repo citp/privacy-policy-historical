@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elfster.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220024615id_/http%3A//www.elfster.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elfster.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227084543id_/http%3A//www.elfster.com/privacy.htm) for the most accurate reproduction.*
 
 # About Elfster
 
@@ -6,10 +6,10 @@ This is the web site of *Elfster* home of those who have been naughty and nice.
 
 Our postal address is: 
 
-  4328 Leach Ave.   
-  Oakland, CA 
+  4200 Park Blvd. #1225   
+  Oakland, CA 94602 
 
-Send your North Pole correspondence to [santa@elfster.com](mailto:santa@elfster.com) or dial Santa’s media elf at 510.530.6673. 
+Send your North Pole correspondence to [correspond@elfster.com](mailto:santa@elfster.com) or dial Santa’s media elf at 510.693.6673. 
 
 For each visitor to our Web page, our Web server automatically recognizes only the domain name, but not the e-mail address or one’s naughtiness quotient. We leave that strictly to Santa and his elf cabinet. And, hey, with the military satellites of NORAD regularly tracking Santa's Christmas Eve route, our tracking your domain is nothin’. 
 
@@ -27,6 +27,5 @@ Santas can access this information by e-mailing us at the above address.
 
 Santas can have this information corrected by sending us e-mail at the above address. With respect to security in our homeland, the North Pole and yours: We have appropriate security measures in place in our physical facilities (eg igloo) to protect against the loss (no gifts for you, lump of coal only), misuse (unwrapped or used) or alteration of information (mistaking you for one of the other 5,319 Homers out there) that we have collected from you at our site. 
 
-No matter how many times John Ashcroft asks, we’re not sharing your information. We can’t, we’re Santa’s little helpers. 
-
+  
 If you feel that this site is not following its stated information policy, call the elf call center and start yelling. 
