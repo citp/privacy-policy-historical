@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nydailynews.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626084851id_/http%3A//www.nydailynews.com/services/privacy_policy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nydailynews.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227235050id_/http%3A//www.nydailynews.com/services/privacy_policy/index.html) for the most accurate reproduction.*
 
-# Privacy Policy - NY Daily News
+# Privacy Policy
 
 General  
 What information does the online edition of the Daily News gather/track about you?  
@@ -32,5 +32,3 @@ New York Daily News Online
 New York Daily News  
 450 W. 33rd St.  
 New York, NY 10001
-
-* * *
