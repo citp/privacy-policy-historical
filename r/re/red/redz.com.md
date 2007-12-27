@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the redz.com privacy policy that was archived on 2007-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070504191010id_/http%3A//www.redz.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redz.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227085259id_/http%3A//redz.com/privacypolicy.html) for the most accurate reproduction.*
 
 # RedZee Privacy Policy
 
-   **  
-****RedZee Privacy Policy** This website (the "www.RedZee.com") is owned and operated by ISE Corp. ISE Corp (collectively, "ISE" or "we") are committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information ("Personal Information") you share with us. ISE has established this Privacy Policy to let you know what information we may collect from you on the Site and how we may use that information. Please take a moment to review the terms of our Privacy Policy. By using the Site (including ISE's “RedZee” search engine and any other services offered on the Site), you agree to accept the terms of our Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the site or our services. This Privacy Policy applies only to information that we collect on the site (or otherwise through our search engine) and does not apply to information which we may collect by other means.                        
+**RedZee Privacy Policy**
+
+This website (the "www.RedZee.com") is owned and operated by RedZee Search Inc. RedZee (collectively, "RedZee" or "we") are committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information ("Personal Information") you share with us. RedZee has established this Privacy Policy to let you know what information we may collect from you on the site and how we may use that information. Please take a moment to review the terms of our Privacy Policy. By using the Site (including RedZee's “RedZee” search engine and any other services offered on the Site), you agree to accept the terms of our Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the site or our services. This Privacy Policy applies only to information that we collect on the site (or otherwise through our search engine) and does not apply to information which we may collect by other means. 
 
 Personal Information Information We May Collect
 
@@ -17,9 +18,7 @@ Tracking technologies may record information such as Internet domain and host na
 
 Search Engine
 
-When you use our search engine, we may collect certain non-personally identifiable information through the use of cookies and other tracking technologies described above. For example, when you use our search engine, we may keep track of which search terms are popular. If we display advertising to you on the Site (including the search results pages displayed after any searches you may run), such advertising may be related to the search terms you entered. ISE may present search result links in a format that enables us to understand whether they have been followed and may monitor click-throughs on an individual and an aggregate basis. We use this information to understand and improve the quality of ISE's search technology. For instance, this data helps us determine how often users are satisfied with the first result of a query and how often they proceed to later results.
-
-Certain search results may be "sponsored" results, which consist of websites who have paid for placement in the search results. These listings are provided by our business partner, Link Positions, which is a subsidiary of ISE. These premium results may contain tracking URLs provided by Link Positions to identify clicks from the search results page. Again, information gathered by these means will not personally identify you. Any information collected by Link Positions will be subject to Link Positions's privacy policy, and Link Positions and ISE may share information that either company gathers in connection with the use of ISE's search engine.
+When you use our search engine, we may collect certain non-personally identifiable information through the use of cookies and other tracking technologies described above. For example, when you use our search engine, we may keep track of which search terms are popular. If we display advertising to you on the Site (including the search results pages displayed after any searches you may run), such advertising may be related to the search terms you entered. RedZee may present search result links in a format that enables us to understand whether they have been followed and may monitor clicks on an individual and an aggregate basis. We use this information to understand and improve the quality of RedZee's search technology. For instance, this data helps us determine how often users are satisfied with the first result of a query and how often they proceed to later results.
 
 Links to Other Sites
 
@@ -27,11 +26,11 @@ Please be aware that when you are on the site, you could be directed to other si
 
 Security
 
-Wherever your Personal Information may be held within ISE or on its behalf, we intend to take reasonable and appropriate steps to protect the Personal Information that you share with us from unauthorized access or disclosure. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your Personal Information and privacy, we cannot guarantee or warrant the security of any information you disclose or transmit to us online and cannot be responsible for the theft, destruction, or inadvertent disclosure of your Personal Information.
+Wherever your Personal Information may be held within RedZee or on its behalf, we intend to take reasonable and appropriate steps to protect the Personal Information that you share with us from unauthorized access or disclosure. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your Personal Information and privacy, we cannot guarantee or warrant the security of any information you disclose or transmit to us online and cannot be responsible for the theft, destruction, or inadvertent disclosure of your Personal Information.
 
 Updating Your Information
 
-To the extent that you do provide us with Personal Information, ISE wishes to maintain accurate Personal Information. If we collect Personal Information from you on the Web, you may send updates and corrections about your Personal Information to privacy@RedZee.com and we will make reasonable efforts to incorporate the changes in your Personal Information that we hold as soon as practicable.
+To the extent that you do provide us with Personal Information, RedZee wishes to maintain accurate Personal Information. If we collect Personal Information from you on the Web, you may send updates and corrections about your Personal Information to privacy@RedZee.com and we will make reasonable efforts to incorporate the changes in your Personal Information that we hold as soon as practicable.
 
 Children's Privacy
 
@@ -43,7 +42,4 @@ The terms of this Privacy Policy may change from time to time without prior noti
 
 Governing Law
 
-This Privacy Policy and the privacy practices of ISE will be subject exclusively to the laws of the State of Florida within the United States of America. ISE makes no representation that this Privacy Policy and such practices comply with the laws of any other country. Visitors who use the Site, the search engine or any other services offered on the Site and reside outside the United States do so on their own initiative and are responsible for compliance with local laws, if and to the extent local laws are applicable.
-
-  
-
+This Privacy Policy and the privacy practices of RedZee will be subject exclusively to the laws of the State of Florida within the United States of America. RedZee makes no representation that this Privacy Policy and such practices comply with the laws of any other country. Visitors who use the Site, the search engine or any other services offered on the Site and reside outside the United States do so on their own initiative and are responsible for compliance with local laws, if and to the extent local laws are applicable.
