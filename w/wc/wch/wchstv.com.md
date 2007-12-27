@@ -1,26 +1,14 @@
-> *The following text is extracted and transformed from the wchstv.com privacy policy that was archived on 2007-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070208164121id_/http%3A//www.wchstv.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wchstv.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227164555id_/http%3A//www.wchstv.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Statement for www.wchstv.com
 
-| | [**CONTACT WCHS-TV8**](https://web.archive.org/about.shtml)  
----|---  
-| [**WCHS-TV8 FREQUENTLY ASKED QUESTIONS**](https://web.archive.org/faq.shtml)  
-| [**WCHS-DT FREQUENTLY ASKED HDTV QUESTIONS**](https://web.archive.org/hdtv_faq.shtml)  
-| [**PROGRAM CONTACTS & PROGRAM FAQ**](https://web.archive.org/programfaq.shtml)  
-| [**CONTESTS**](https://web.archive.org/contests/)  
-| [**JOBS @ TV8 & FOX11**](http://jobs.sbgnet.com/sbghire/JobCulture.jsp?marketID=10)  
-| [**CLASSIFIEDS**](http://www.postaroo.com/)  
-| [**SEARCH**](https://web.archive.org/8search.shtml)  
-| [**DIGITAL TV INFORMATION**](https://web.archive.org/aboutdtv.shtml)  
-| [**SATELLITE INFORMATION**](https://web.archive.org/aboutsatellite.shtml)  
-| [**THE TV MARKET**](https://web.archive.org/market.shtml)  
-| [**ONLINE ADVERTISING**](https://web.archive.org/ads/)  
-| [**COMMUNITY CALENDAR**](http://www.postaroo.com/)  
-| [**COMMUNITY SURVEY**](https://web.archive.org/ca/communitysurvey.shtml)  
-| [**SCHOOL CLOSINGS**](https://web.archive.org/newsroom/schoolclosing.shtml)  
-|  |    
+  
+|  |  |    
 **Privacy Policy for www.wchstv.com** **General**  
 The following privacy policy describes what information is collected by wchstv.com (the "Website") and how that information is used. This privacy policy is effective as of February 7, 2007 and will remain in effect until such date as the policy may be modified by the Station in its sole and absolute discretion. Any such changes will be posted on the Website. Your use of the Website constitutes your agreement to the privacy policy as in effect at that time.
+
+  
+
 
 **No Postings by Children**  
 The Website does not knowingly collect information from any individuals under the age of 13, and all children under the age of 13 are hereby notified that they are not permitted to post any information on the Website. If we become aware of any video submissions or postings by children under the age of 13, that video/posting will be removed by the Station. Parents and guardians should carefully monitor the use of the Website by children.
@@ -40,11 +28,4 @@ All personal information collected by this Website may be disclosed as required 
 The Website allows certain advertisements/postings which include links to other sites. The Station has no control over such other sites and is not responsible for any content on such linked sites or for the use by such other sites of any information collected by those sites.
 
 |  |  |  |    
-
-
-EYEWITNESS NEWS IS AFFILIATED WITH  
-[](http://cnn.com/LOCAL/regions/southeast/WCHS-TV/)  
-  
-Also Visit:  
-[](http://www.wvah.com/)  
 
