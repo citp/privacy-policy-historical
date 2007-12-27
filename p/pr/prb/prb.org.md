@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the prb.org privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623062806id_/http%3A//www.prb.org/Home/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prb.org privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227045129id_/http%3A//www.prb.org/Home/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Population Reference Bureau
 
- This privacy policy covers the Population Reference Bureau's treatment of personally identifiable information that PRB collects when you are on the PRB sites and when you use PRB's services. This policy does not apply to the practices of companies that PRB does not own or control or to people that PRB does not employ or manage. 
+This privacy policy covers the Population Reference Bureau's treatment of personally identifiable information that PRB collects when you are on the PRB sites and when you use PRB's services. This policy does not apply to the practices of companies that PRB does not own or control or to people that PRB does not employ or manage.
 
 Protecting your privacy and your information is a top priority at PRB. We have taken careful measures to prevent the loss, misuse, and alteration of your information. Once we receive the information that you enter into our website, it is stored behind a firewall. PRB employees are made aware of our privacy and security policies through our Employee Handbook. PRB shares personally identifiable information with employees who need it in order to perform their jobs. PRB will not sell or rent your personally identifiable information to anyone. PRB may send personally identifiable information about you to other organizations or people when:
 
@@ -25,4 +25,4 @@ We work to protect the security of your information during transmission by using
 
 Please protect yourself against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer.
 
-For more information, please e-mail PRB: [webmaster@prb.org](mailto:webmaster@prb.org).
+For more information, please e-mail PRB: [popref@prb.org](mailto:popref@prb.org).
