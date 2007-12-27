@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chuckpalahniuk.net privacy policy that was archived on 2007-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070405051033id_/http%3A//www.chuckpalahniuk.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chuckpalahniuk.net privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227083601id_/http%3A//www.chuckpalahniuk.net/privacy) for the most accurate reproduction.*
 
-# The Cult - ChuckPalahniuk.net
+# The Official Chuck Palahniuk Site - The Cult
 
 We at The Cult website ("Site") have created this policy to explain why we collect particular information and how we will protect your personal privacy within the Site. The following discloses our information gathering and dissemination practices for the Site located at the URL www.ChuckPalahniuk.net or any successor site (the "Site"). We reserve the right to change this policy at any time by posting a new privacy policy at this location.
 
@@ -40,4 +40,4 @@ We may disclose personal information to third parties we engage to provide servi
 
 **Contacting the Web Site:**
 
-If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, you can contact our Web Site Administrator at [ webmaster@chuckpalahniuk.net](mailto:webmaster@chuckpalahniuk.net) or A Writer's Cult, LLC, PO Box 290, Jericho, NY 11753-0290, USA.
+If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, you can contact our Web Site Administrator at [webmaster@chuckpalahniuk.net](mailto:webmaster@chuckpalahniuk.net) or A Writer's Cult, LLC, 3657 Mentone Avenue, #4, Los Angeles, CA 90034, USA.
