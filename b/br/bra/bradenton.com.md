@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bradenton.com privacy policy that was archived on 2007-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070616215233id_/http%3A//www.bradenton.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bradenton.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227162211id_/http%3A//www.bradenton.com/privacy) for the most accurate reproduction.*
 
 # Bradenton.com | Privacy Policy
 
@@ -50,7 +50,7 @@ In the near future, parents and legal guardians of children under age 13 who reg
 
 Parental consent to collect information about children can be provided in two ways: (1) Fax a copy of a completed Parental Consent Form, including your signature, to the facsimile number provided on the Parental Consent Form. This form will be available in applicable areas of our site. (2) Mail a completed Parental Consent Form to the address indicated.
 
-Bradenton.com will not knowingly disclose personal information about users under the age of 13 without prior parental or legal guardian consent, except as required by law. If for any reason you wish to access, update or remove information about your child that has been previously provided to Bradenton.com, you may fax us (at ), call us (at 941-748-0411) or send an e-mail to online@thesunnews.com.
+Bradenton.com will not knowingly disclose personal information about users under the age of 13 without prior parental or legal guardian consent, except as required by law. If for any reason you wish to access, update or remove information about your child that has been previously provided to Bradenton.com, you may fax us (at ), call us (at 941-748-0411) or send an e-mail to online@bradenton.com.
 
 Bradenton.com strongly recommends parental supervision when a child uses the Internet, particularly when a child enters a forum or uses e-mail. We also encourage parents to instruct their children not to give out personal information in these areas.
 
@@ -98,6 +98,6 @@ Bradenton.com supports P3P, the Platform for Privacy Preferences, which allows u
 
 In the event of the sale or merger of The The Bradenton Herald Company and/or The McClatchy Company, ownership of the information described in this Privacy Policy will be transferred to the acquiring or successor company.
 
-Bradenton.com endorses and abides by the privacy principles approved by the Interactive Services Association and the Direct Marketing Association. If you have any questions or comments about our policies, we may be reached at 102 Manatee Avenue West Bradenton, Florida 34205-8810 , at 941-748-0411 or at online@thesunnews.com.
+Bradenton.com endorses and abides by the privacy principles approved by the Interactive Services Association and the Direct Marketing Association. If you have any questions or comments about our policies, we may be reached at 102 Manatee Avenue West Bradenton, Florida 34205-8810 , at 941-748-0411 or at online@bradenton.com.
 
 ##### Effective Date: Jan. 1, 2007.
