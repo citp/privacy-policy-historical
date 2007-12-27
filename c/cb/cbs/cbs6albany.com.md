@@ -1,75 +1,71 @@
-> *The following text is extracted and transformed from the cbs6albany.com privacy policy that was archived on 2007-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070205095725id_/http%3A//www.cbs6albany.com/content/%3Fcid%3DPrivacy%2BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbs6albany.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227142442id_/http%3A//www.freedom.com/privacy.html) for the most accurate reproduction.*
 
-# CBS 6 Albany : Privacy Policy
+# Freedom Communications, Inc. - Privacy Policy
 
-Your privacy on the Internet is important to us. As part of the operation of our site, we gather certain types of information about our users, and we would like to explain the types of information we gather, what we do with it and how to correct or change the information.
+This is the privacy policy ("Privacy Policy") for the Web sites (collectively, the "Service") made available by Freedom Communications, Inc. ("Freedom," "we" or "our"), the legal owner of the Service. [Click here](https://web.archive.org/web/20071227142442id_/http%3A//www.freedom.com/ppsites.html) for a list of Freedom Web sites that are governed by this Privacy Policy. We respect your privacy and appreciate the confidence you have placed in the Service. We are committed to protecting your privacy and preserving your trust. Please carefully review this Privacy Policy to learn about how we collect, use, and protect any personal information you provide us and your choices for managing your personal information. This Privacy Policy is subject to the [User Agreement](https://web.archive.org/web/20071227142442id_/http%3A//www.freedom.com/eula.html) posted on the Service.
 
-**Information Collected by This Site**
+**Opting Out Of Future Communications; Updating And Deleting Your Information**
 
-We collect two types of personally identifying information from users: personal data (such as names and e-mail addresses); and aggregated data (such as information about traffic patterns on the site, for example how many users log into the site on a daily basis).
+We want to communicate with you only if you want to hear from us. If you have questions or concerns regarding this Privacy Policy or wish to exclude your personal information from our direct marketing purposes, please feel free to contact us at: 
 
-Personal Data
+17666 Fitch  
+Irvine , CA 92614  
+E-mail: [pp@freedom.com](mailto:pp@freedom.com)
 
-Personal data is collected when users provide personal data to the site. For example in registering for email notification services, answering surveys, purchasing items from the site, sending email to the site, registering for contests and other promotional opportunities, message boards and chat areas.
+If you would like to update or delete your e-mail address, mailing address or other personal information with us please contact us the same way.
 
-We do not knowingly collect personally identifiable information from children (defined herein as minors younger than 13 years of age) without obtaining parental consent. Before registering for an account to use the services of the Web site, we ask that all minors have their parents read our Privacy Policy. Before and during the registration process, we encourage all minors to include a parent or guardian in the process.
+**What Types Of Information Do We Collect?**
 
-Aggregate Data
+We collect information from our users at several different points on the Service. For example, we may collect personally identifiable information from you such as your name, address, phone number, household income, and e-mail address when you register, subscribe to one of our services, enter sweepstakes, contests or other promotions offered by or through the Service, and at other times. We also collect credit card information in connection with any purchase you make through the Service. In addition, we automatically collect non-personal information such as your browser type, operating system, IP address, and Service usage information, in order to, among other things, evaluate and improve the performance of the Service.
 
-When visitors come to the Web site, we collect and aggregate information indicating, among other things, which pages were visited, and which hyperlinks were "clicked." Collecting such information involves the logging of IP addresses, operating system and browser software used by each visitor to the Web site.
+**How Do We Use The Information We Collect?**
 
-The non-personally identifiable information we collect helps us diagnose problems with our server, administer the Web site, identify the most popular areas of the Web site, and determine the effectiveness of our promotional activities. In addition, we may disclose some of this information to advertisers to inform them of the number of people who have seen and/or clicked through their advertisements.
+We will not sell, share, or rent personal information to third parties, and we will not otherwise disclose personally identifiable information to third parties, without your explicit permission, except as disclosed in this Privacy Policy.
 
-Who this data may be shared with
+We collect and use information for internal purposes, such as: 
 
-Our site uses both the personal and aggregated information collected for multiple purposes. The information is used to improve the content of the site, to customize the content and/or layout of the site for each individual user and to notify users about updates to the site or promotional offers or opportunities that we believe will be of interest to you.
+  * enhancing your experience at the Service;
+  * performing administration and technical support for the Service;
+  * performing administration and technical support for the Service;
+  * enabling you to enter sweepstakes, contests and other promotions;
+  * creating aggregate information about demographics and usage patterns;
+  * inviting our promotional vendors and advertisers—with your explicit permission—to call to your attention special offers, products and services that may be of interest to you.
+  * enabling purchases of goods and services
 
-We share aggregated information collected from the site with third parties for both advertising and promotional purposes. We also provide statistical information based on this data to advertisers and other current and potential business partners.
 
-Data collection  regarding minors
 
-**Children and Privacy**
+We may use aggregate information to measure general Service usage patterns and characteristics of our user base, and we may include such aggregate information about our audience in reports to our commercial vendors. We may also disclose aggregated user statistics (for example, a certain percentage of our users live in a certain area) without your permission in order to describe our audience to existing and prospective advertisers or other third parties. However, this aggregate information does not reference names, phone numbers, e-mail addresses, or other personally identifiable information, and it is not traceable to a specific recipient or user e-mail address.
 
-We encourage parents and guardians to spend time with their children online, and to be fully familiar with the sites visited by their children. At various places on the sites, we ask whether users are under the age of 18, or 13, for example when requesting personal information from a user, we may ask for parental consent. We rely on users to be truthful in responding to these questions.
+We also may share personal information with companies affiliated with Freedom. In the event that Freedom is merged, or in the event of a transfer of our assets, we may disclose or transfer your personal information in connection with such transaction. In the event of such a transfer, we will notify you of the change of control of your personal information. You should also be aware that courts of equity, such as U.S. Bankruptcy Courts, may have the authority under certain circumstances to permit your personal information to be shared or transferred to third parties without your permission.
 
-**Individuals Under 13**
+From time to time, we might establish a business relationship with other persons or entities whom we believe trustworthy and whom we have asked to confirm that their privacy practices are consistent with ours. For example, we may contract with service providers to provide certain services including credit card processing, data management, promotional services, etc. We provide our service providers with the information needed for them to perform these services. Each service provider must agree to implement and maintain reasonable security procedures and practices appropriate to the nature of your information in order to protect your personal information from unauthorized access, destruction, use, modification or disclosure.
 
-No information should be submitted to or posted on the site by users under the age of 13 years without consent of their parent or guardian. The site does not provide any personally identifying information, regardless of its source collected from users under the age of 13 to any third party for any purpose whatsoever unless disclosed during collection. Users under the age of 13 are asked not to participate in contests or other promotional opportunities, and the site does not knowingly collect information from users under the age of 13.
+Although unlikely, in certain instances we may disclose your personal information when we have reason to believe that it is necessary to identify, contact or bring legal action against persons or entities who may be causing injury to you, to Freedom or its affiliates, or to others. We may also disclose your personal information when we believe the law requires it.
 
-**Individuals 13 Through 17**
+**Registration**
 
-We request that children under the age of 18 do not submit or post information to the site without a parent or guardian's consent. The site may collect information, including personally identifying information, from users between the ages of 13 and 17, and this information may be used for marketing and promotional purposes by the site and which may be shared with prescreened third parties, with the permission of the user. A user or their parent or guardian may stop the use - either by e-mail request or by modifying his/her registration information online as described above in "Use of Information Collected by The Site."
+The general registration area can be found on the Service home page and at other locations throughout the Service. To use or access certain features of the Service, you may have to register or otherwise provide personal information. The decision to provide this information is optional; however, if you elect not to register or provide such information, you may not be able to access certain content or features or participate in various areas of the Service.
 
-Cookies
+**Security**
 
-Our site also uses "cookies" to collect information. A cookie is a small data file that most major websites write into your hard drive for record keeping purposes when you visit them. Cookies allow a website to measure activity on their site and to improve your user experience, for example by remembering your passwords and viewing preferences, thus allowing you to visit various member-only parts of the site without re-registering. We do not use cookies to retrieve information from your computer that was not originally sent in a cookie. Except for personal information voluntarily provided by you (i.e. during membership registration or a contest), we do not use information transferred through cookies for any promotional or marketing purposes, and that information is not shared with third parties.
+We use encryption and authentication tools to protect the security of personal information that you share with us. However, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect personal information, we cannot and do not guarantee or warrant the security of any information you transmit to or from the Service, and you do so at your own risk.
 
-You may occasionally get cookies from advertisers on the site, which is standard on the Internet. These cookies are outside the control of our site, and are not subject to our privacy policy. Most browsers are initially set to accept cookies. If you'd prefer, you can set yours to refuse cookies or to alert you when cookies are being sent. However, it is possible that some parts of the site, such as the member-only areas and shopping, contest and game areas, will not function properly if you do so.
+**Cookies**
 
-How You can Access or Correct Information (Opt out or unsubscribe functions)
+We may place a text file called a "cookie" in the browser files of your computer or use other technology to improve your navigation of the Service. A cookie is a small amount of data that is sent to your Web browser from a Web server and stored on your computer's hard drive. Generally, we use cookies to remind us of who you are, tailor our products and services to suit your personal interests, estimate our audience size, track your status in our sweepstakes, contests and promotions and/or analyze your visiting patterns. The use of cookies is an industry standard; you will find them at most major Web sites. Cookies make Web-surfing easier for you by saving your preferences while you are using the Service. For this reason, we may save passwords, credit card or other personal information in cookies. You can generally set your Web browser not to accept cookies or to notify you when you are sent a cookie, giving you the chance to decide whether or not to accept it. If you set your Web browser not to accept cookies, it may affect your ability to utilize all features on the Service.
 
-If you would like to have your personally identifiable information changed or removed from our database, please contact us at [webmaster@cbs6albany.com](mailto:webmaster@cbs6albany.com), and we will use reasonable efforts to comply with your request. Keep in mind, however, that there will be residual information that will remain within our databases, access logs, and other records, which may or may not contain such personally identifiable information. The residual information will not be used for commercial purposes; however we reserve the right, from time to time, to recontact former customers or users of this Web site.
+**Links To Third-Party Web Sites**
 
-Message Board and Chat
+The Service may contain links to Web sites operated and maintained by third parties, over which we have no control. Privacy policies on such linked Web sites may be different from our Privacy Policy. You access such linked Web sites at your own risk. You should always read the privacy policy of a linked Web site before disclosing any personal information on such site.
 
-Please remember that information posted to message boards and chat areas becomes public information. Use caution when posting. Users under the age of 18 should be especially careful not to provide any personally identifying information while using chat rooms or message boards. As set forth in our Terms and Conditions of use, users of chat rooms and message boards must follow acceptable standards of behavior when posting messages online.
+**Discussion Board, Forums and Other User Generated Content**
 
-Links to other sites
+Our online chat areas, bulletin boards, other public forums and user-generated content (i.e., photos, videos) can be a useful way for you to express yourself to other online users. When you post messages or otherwise use these features, the information that you provide (including personally identifiable information) may be publicly available to, collected by, and used by third parties. We are not responsible for the content of messages or images posted by users or disclosures of personal information.
 
-It is important to note that this site contains links to other sites, and that those sites may not follow the same privacy policies as our site. For instance, if you click on an advertisement on the site, this will take you away from the site and to an entirely different site. This can include links from advertisers, content providers and partners who may use the sites' logo and or style as a result of a co-branding agreement. These sites may send their own cookies to you, and may collect data and make uses of it that the sites would not.
+**Children's Privacy Statement**
 
-Our web site may contain links to other Internet web sites, including co-branded or other affiliated sites that may or may not be owned or operated by us. Unless otherwise explicitly stated, we are not responsible for the privacy practices or the content of such web sites, including such sites' use of any information (such as IP number, browser type, or operating system) collected when visitors to the web site click through links to those sites. Even though such information might not identify you personally, we strongly encourage you to become familiar with the privacy practices of those sites.
+We do not knowingly collect personally identifiable information from children under the age of 13. If we become aware that we have inadvertently received personally identifiable information from a user under the age of 13, we will delete such information from our records. Because we do not knowingly collect any personally identifiable information from children under the age of 13, we also do not knowingly distribute such information to third parties.
 
-Security
+**Policy Changes**
 
-As effective as any security measure implemented by us may be, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet.
-
-Law  Enforcement
-
-We reserve the right to release any and all information contained within our access logs concerning any visitor or member when that visitor or member is in violation of our Terms of Service or other published guidelines, or partakes (or is reasonably suspected of partaking) in any illegal activity, even without a subpoena, warrant, or other court order, and to release such information in response to discovery requests, or in response to any circumstance which we, in our sole discretion, deem an emergency. We cooperate with law enforcement agencies in identifying those who may be using our servers or services for illegal activities. We also reserve the right to report any suspected illegal activity to law enforcement for investigation or prosecution.
-
-USE OF THIS SITE SIGNIFIES YOUR AGREEMENT TO THE TERMS OF USE AND PRIVACY POLICY.
-
-We reserve the right to change this policy at any time by posting a revised privacy policy. The revised policies will be posted here.
-
-2007 Copyright WRGB©. All rights reserved. WRGB is owned by Freedom Communications, Inc., a diversified media company. 
+If we decide to change our Privacy Policy, in whole or in part, we will inform you by posting the changed Privacy Policy here. Those changes will go into effect on the date posted in the notice. The new policy will apply to all current and past users of the Service and will replace any prior policies that are inconsistent.
