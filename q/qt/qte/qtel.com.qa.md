@@ -1,8 +1,34 @@
-> *The following text is extracted and transformed from the qtel.com.qa privacy policy that was archived on 2007-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070611202727id_/http%3A//www.qtel.com.qa/Privacy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qtel.com.qa privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227181906id_/http%3A//www.qtel.com.qa/Privacy.do) for the most accurate reproduction.*
 
 # Privacy Statement
 
-  |  |   
+|  | [Home](https://web.archive.org/web/20071227181906id_/http%3A//www.qtel.com.qa/IndexPage.do) >> Products and Services>>Privacy Statement  
+---|---  
+  
+|  | 
+
+| [](javascript:eqtel\(\);)  
+---  
+[__Pay bill, View bill add Services__](javascript:eqtel\(\);)  
+   
+[](https://web.archive.org/web/20071227181906id_/http%3A//www.qtel.com.qa/WhteAdvPg.do)  
+[__On line directory__](https://web.archive.org/web/20071227181906id_/http%3A//www.qtel.com.qa/WhteAdvPg.do)  
+   
+[](https://web.archive.org/web/20071227181906id_/http%3A//www.qtel.com.qa/MyTools.do)  
+[__Internet Qatar__](https://web.archive.org/web/20071227181906id_/http%3A//www.qtel.com.qa/MyTools.do)  
+   
+[](javascript:mozaic\(\);)  
+[__Mozaic__](javascript:mozaic\(\);)  
+   
+[](https://web.archive.org/web/20071227181906id_/http%3A//www.qtel.com.qa/Procurement.do)  
+[__eProcurement__](https://web.archive.org/web/20071227181906id_/http%3A//www.qtel.com.qa/Procurement.do)  
+   
+[](https://web.archive.org/web/20071227181906id_/http%3A//www.qtel.com.qa/Regulatory.do)  
+[__Regulatory and Interconnect__](https://web.archive.org/web/20071227181906id_/http%3A//www.qtel.com.qa/Regulatory.do)  
+  
+|  |  |   
+---|---|---  
+|  |   
   
 ---  
   
@@ -62,4 +88,38 @@ If you have an enquiry or concern about our privacy policy, please contact us at
 
 Qtel reserves the right to change, adapt, adjust this Privacy policy on the Web Site without any prior notification. You aknowledge and agree that this Policy may change from time to time and you realise that the latest version is applicable when you visit the Web Site.   
   
- 
+|    
+---  
+|  News and events  
+---  
+|  **The cheapest international rates in Qatar at Qtel’s Payphone Booths  
+
+
+[More...
+
+](https://web.archive.org/web/20071227181906id_/http%3A//www.qtel.com.qa/NewsFull.do?News=6381 "Click here for more") ** |    
+---|---  
+[ Special rates, at Special time of year ](https://web.archive.org/web/20071227181906id_/http%3A//www.qtel.com.qa/NewsFull.do?News=6461 "click here for details")  
+  
+[_Other news_](https://web.archive.org/web/20071227181906id_/http%3A//www.qtel.com.qa/NewsInfo.do "click here for more news")  
+[](https://web.archive.org/web/20071227181906id_/http%3A//www.qtel.com.qa/CustomerCare.do)  
+|    Promotions  
+---  
+  
+**Cheapest International Calls in Qatar  
+
+
+[More...
+
+](https://web.archive.org/web/20071227181906id_/http%3A//www.qtel.com.qa/PromotionFull.do?PromotionFull=6401 "Click here for more")**  
+  
+|    Locate a Qtel Shop  
+---  
+|   Qtel Stock   
+---  
+27-12-2007       234.40   
+  
+  
+[More...
+
+](https://web.archive.org/web/20071227181906id_/http%3A//www.qtel.com.qa/InvestorRelationsAction.do "Click here for more")
