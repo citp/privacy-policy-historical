@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bitrock.com privacy policy that was archived on 2007-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070406105440id_/http%3A//bitrock.com/about_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitrock.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227070726id_/http%3A//bitrock.com/about_privacy.html) for the most accurate reproduction.*
 
-# Bitrock :: About Us :: Privacy
+# BitRock :: About Us :: Privacy
 
 We hate spam as much as you do. At BitRock, we will never share your information with any third party. Read below for the details.
 
