@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evision.com privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609084614id_/http%3A//www.evision.com/common/pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evision.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227101500id_/http%3A//evision.com/common/pages/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | eVision.com | Save Up to 70% on Contact Lenses
 
@@ -22,7 +22,7 @@ In order to provide the lowest possible prices, eVision contracts with trusted v
 
 **_How do I remove my information from email or postal mailing lists?_**
 
-If you prefer not to receive information from us, either through email or postal mail, please log-in to your eVision account and visit the [Account Info](https://web.archive.org/web/20070609084614id_/http%3A//www.evision.com/common/pages/profile.aspx) page.
+If you prefer not to receive information from us, either through email or postal mail, please log-in to your eVision account and visit the [Account Info](https://web.archive.org/web/20071227101500id_/http%3A//evision.com/common/pages/profile.aspx) page.
 
 Please note: Such requests may take up to 6-8 weeks to become effective. In addition, if you ask to remove your name and address from our email or postal mailing lists, we will maintain your name in a "do not mail" file to ensure that we can honor your request. Also, when you make a purchase, we will send you email to confirm your order and we may also need to contact you via phone, postal mail, or email if we have other questions regarding your order.
 
