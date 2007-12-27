@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emaildirect.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623025054id_/http%3A//www.emaildirect.com/page.ww%3Fsection%3DCompany%26name%3DPrivacy%2BStatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emaildirect.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227152034id_/http%3A//www.emaildirect.com/page.ww%3Fsection%3DCompany%26name%3DPrivacy%2BStatement) for the most accurate reproduction.*
 
 # EmailDirect | Privacy Statement
 
