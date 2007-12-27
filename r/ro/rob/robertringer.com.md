@@ -1,17 +1,8 @@
-> *The following text is extracted and transformed from the robertringer.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630003205id_/http%3A//www.robertringer.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the robertringer.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227083216id_/http%3A//www.robertringer.com/privacy.htm) for the most accurate reproduction.*
 
-# None
+# Privacy
 
-  
-
-
-* * *
-
-  
-  
-
-
-* * *
+ 
 
 _A Voice of Sanity in an Insane World_ takes individual privacy very seriously. We are also aware of the threats to your security and privacy on the Internet. Please take a few moments to review the steps that _A Voice of Sanity_ takes to ensure your privacy and security while giving you the best possible customer service as you use our web sites.
 
@@ -23,7 +14,9 @@ In other words, any data you send us is encrypted, so in the unlikely event a ha
 
 _A Voice of Sanity_ does not sell or rent your name to anyone. That means that only those authorized by _A Voice of Sanity_ ever have access to any information you submit. We may use your name and address to send you information on other _Voice of Sanity_ products that may suit your interests. And, although we disagree with it, we must turn over any pertinent information to any law enforcement agency that takes the proper steps to require it.
 
-If at any time you wish to be removed from our mailing list, please contact us by clicking [Support](mailto:support@robertringer.com?subject=Support%20Question) or by using the unsubscribe link included in every email we send out.
+If at any time you wish to be removed from our mailing list, please contact us by clicking
+
+[ Support](mailto:support@robertringer.com?subject=Support%20Question) or by using the unsubscribe link included in every email we send out.
 
 **E-mail**
 
@@ -31,6 +24,6 @@ If you subscribe to _A Voice of Sanity_ , your e-mail address will be placed in 
 
 Any e-mail you send to _A Voice of Sanity_ is completely confidential. We will not add your name to our e-mail list without your permission. For security reasons, if your inquiry is about one of your subscriptions, we may ask you to submit some additional information only to verify your identity. Remember, in this case we are only asking you to confirm information you have already given us.
 
-If you have any questions or comments you can reach us by clicking [Support](mailto:support@robertringer.com?subject=Support%20Question).
+If you have any questions or comments you can reach us by clicking
 
-**[HOME    ](https://web.archive.org/web/20070630003205id_/http%3A//www.robertringer.com/home.php) |      [ABOUT ROBERT RINGER](https://web.archive.org/web/20070630003205id_/http%3A//www.robertringer.com/about.php)      |      [SPEAKING ENGAGEMENTS     ](https://web.archive.org/web/20070630003205id_/http%3A//www.robertringer.com/speaking.php) |      [WHO IS THE TORTOISE?     ](https://web.archive.org/web/20070630003205id_/http%3A//www.robertringer.com/tortoise.php) |      [CONTACT US](mailto:support@robertringer.com) **
+[Support](mailto:support@robertringer.com?subject=Support%20Question).
