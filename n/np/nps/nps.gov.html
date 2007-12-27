@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the nps.gov privacy policy that was archived on 2007-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070617064013id_/http%3A//www.nps.gov/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nps.gov privacy policy that was archived on 2007-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071227151655id_/http%3A//www.nps.gov/privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!-- Content Copyright National Park Service --><!-- JavaScript & DHTML Code Copyright 1998-2005 PaperThin, Inc.  All rights reserved --><head> <title>U.S. National Park Service Privacy Statement</title> <meta name="Description" id="Description" content="Privacy Statement">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -29,6 +29,52 @@
 		var intLeft=200;
 		var intHeight=290;
 		var intWidth=480;
+			var cookieStr = document.cookie;
+			var cookieWinRegEx = /CSOFFSCREENPOPUPSALLOWED=\d/i;
+			var rxVal = /\d+/;
+			try
+			{
+				if (cookieStr && cookieStr.match(cookieWinRegEx))
+				{
+					var strVal=cookieStr.match(cookieWinRegEx);
+					if (strVal)
+						blnPopUpsOffScreen=strVal.toString().match(rxVal);
+					else
+						blnPopUpsOffScreen = 0;
+				}
+				else
+					blnPopUpsOffScreen=0;
+			}
+			catch (oErr)
+			{
+				blnPopUpsOffScreen=0;
+			}
+			if(blnPopUpsOffScreen==1)
+			{
+				intTop=window.screen.height - 9;
+				intLeft=window.screen.width - 9;
+				intHeight=1;
+				intWidth=1;
+			}
+			else
+			{
+				intTop=(window.screen.height / 2) - 109;
+				intLeft=(window.screen.width / 2) - 210;
+				intHeight=218;
+				intWidth=421;
+			}
+			if(!url.match(externalLinkRegEx) && url.indexOf('kurrentPageID') == -1)
+			{
+				try
+				{
+					if( url.indexOf ('?') == -1 )
+						url = url + '?kurrentPageID=' + kurrentPageID;
+					else
+						url = url + '&kurrentPageID=' + kurrentPageID;
+				}
+				catch (oErr)
+				{ /* Do Nothing */ }
+			}
 		var re = new RegExp();
 		re = /&amp;/gi;
 		url = url.replace(re,"&");
@@ -68,7 +114,7 @@
 			var strWinOptions = strOptions;
 		}
 		strWinOptions = strWinOptions + ',top='+ intTop + ',left=' + intLeft + ',height=' + intHeight + ',width=' + intWidth;
-			var winWindow=window.open(url,name);
+			var winWindow=window.open(url,name,strWinOptions);
 		if (!winWindow)
 			alert('Unable to open window - please make sure the pop-up blocker is disabled for this site');
 		if(arguments.length==4 && arguments[3]==1 && winWindow)
@@ -111,14 +157,14 @@ var js_userID=0;
  
 
 <!-- --> <body onload="onLoadFinished();" lang="en" bgcolor="#FFFFFF" style="margin-top:0;margin-bottom:0;margin-left:0;margin-right:0;"><script type="text/javascript" language="JavaScript">
-document.CS_StaticURL = "http://cms.pwr.nps.gov/";
-document.CS_DynamicURL = "http://cms.pwr.nps.gov/";
-</script><a name="__topdoc__"></a><script src="/commonspot/ns-resize.js" type="text/javascript" language="JavaScript"></script><!-- --><script src="/commonspot/pagemode/always-include-common.js" type="text/javascript" language="JavaScript"></script><script src="/commonspot/pagemode/always-include-ns.js" type="text/javascript" language="JavaScript"></script>
+document.CS_StaticURL = "https://64.241.25.143/";
+document.CS_DynamicURL = "https://64.241.25.143/";
+</script><a name="__topdoc__"></a><!-- --><script src="/commonspot/pagemode/always-include-common.js" type="text/javascript" language="JavaScript"></script><script src="/commonspot/pagemode/always-include-moz.js" type="text/javascript" language="JavaScript"></script>
 	<script type="text/javascript" language="JavaScript">
 	function glblLinkHandler(lobj, attr, val)
 	{
 	
-		return;
+		lobj.style[attr] = val;
 	
 	}
 	function onLoadFinished()
@@ -135,7 +181,7 @@ document.CS_DynamicURL = "http://cms.pwr.nps.gov/";
 		
 		<div id="statTrackingScriptContainer" style="display:none;">
 		
-			<script language="JavaScript" src="/pwr/templates/js/s_code.js"></script><img name="s_i_npsdev" height="1" width="1" border="0" alt="" src="https://stats.nps.gov/b/ss/npsdev/1/H.9-Pdvu-2/s89214970056811?[AQB]&amp;ndh=1&amp;t=30/0/2020%202%3A21%3A59%204%200&amp;ns=nationalparksservice&amp;cl=Session&amp;pageName=/web/20070617064013id_/http%253A//www.nps.gov/privacy.htm&amp;g=https%3A//web.archive.org/web/20070617064013id_/http%253A//www.nps.gov/privacy.htm&amp;cc=USD&amp;server=pwr&amp;events=event1&amp;v2=/web/20070617064013id_/http%253A//www.nps.gov/privacy.htm&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
+			<script language="JavaScript" src="/pwr/templates/js/s_code.js"></script><img name="s_i_npsdev" height="1" width="1" border="0" alt="" src="https://stats.nps.gov/b/ss/npsdev/1/H.9-Pdvu-2/s88198149473620?[AQB]&amp;ndh=1&amp;t=30/0/2020%202%3A22%3A0%204%200&amp;ns=nationalparksservice&amp;cl=Session&amp;pageName=/web/20071227151655id_/http%253A//www.nps.gov/privacy.htm&amp;g=https%3A//web.archive.org/web/20071227151655id_/http%253A//www.nps.gov/privacy.htm&amp;cc=USD&amp;server=pwr&amp;events=event1&amp;v2=/web/20071227151655id_/http%253A//www.nps.gov/privacy.htm&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
 			<script language="JavaScript">
 			<!--
 			/* You may give each page an identifying name, server, and channel on the next lines. */
@@ -172,7 +218,7 @@ document.CS_DynamicURL = "http://cms.pwr.nps.gov/";
 		
 <!--BlackBand-->
 <div id="blackBand">
-	<img src="/PWR/templates/images/graphics/99_blackband.gif" alt="header image: nps.gov" width="750" height="70" usemap="#banner" border="0"><map name="banner"><area shape="rect" coords="517,24,680,38" href="http://www.doi.gov/" alt="US Department of Interior" title="US Department of Interior" target="_blank"><area shape="rect" alt="" coords="8,41,52,55" href="/"><area shape="rect" alt="National Park Service" title="National Park Service" coords="10,12,122,35" href="/"><area shape="poly" alt="National Park Service" title="National Park Service" coords="721,8, 722,8, 723,8, 724,8, 725,9, 726,8, 727,8, 728,9, 729,9, 730,9, 731,9, 732,10, 733,11, 734,12, 734,13, 734,14, 734,15, 735,16, 736,16, 737,16, 738,16, 739,16, 740,16, 741,17, 741,18, 741,19, 741,20, 741,21, 741,22, 741,23, 741,24, 741,25, 741,26, 741,27, 741,28, 741,29, 741,30, 740,31,741,32, 741,33, 740,34, 740,35, 740,36, 739,37, 738,38, 738,39, 738,40, 737,41, 736,42, 736,43, 735,44, 735,45, 734,46, 734,47, 734,48, 733,49, 732,50, 732,51, 731,51, 730,52, 729,53, 729,54, 728,55, 727,56, 726,57, 725,57, 724,57, 723,57, 722,57, 721,57, 720,57, 719,57, 718,56, 717,55, 716,54, 715,53, 715,52, 714,51, 714,50, 713,49, 712,49, 712,48, 712,47, 711,46, 710,45, 709,44, 709,43, 708,42, 707,41, 707,40, 707,39, 706,38, 706,37, 706,36, 706,35, 706,34, 705,33, 705,32, 705,31, 705,30, 705,29, 705,28, 704,27, 704,26, 704,25, 704,24, 703,23, 704,22, 704,21, 703,20, 703,19, 703,18, 703,17, 703,16, 704,16, 705,15, 706,15, 707,14, 708,14, 709,15,710,15, 711,15, 712,14, 711,13, 711,12, 711,11, 712,11, 713,11, 714,10, 715,10, 716,9, 717,9, 718,9, 719,9, 720,9" href="www.nps.gov"></map>
+	<img src="/PWR/templates/images/graphics/99_blackband.gif" alt="header image: nps.gov" width="750" height="70" usemap="#banner" border="0"><map name="banner"><area shape="rect" coords="517,24,680,38" href="http://www.doi.gov/" alt="US Department of Interior" title="US Department of Interior" target="_blank"><area shape="rect" alt="" coords="8,41,52,55" href="/"><area shape="rect" alt="National Park Service" title="National Park Service" coords="10,12,122,35" href="/"><area shape="poly" alt="National Park Service" title="National Park Service" coords="721,8, 722,8, 723,8, 724,8, 725,9, 726,8, 727,8, 728,9, 729,9, 730,9, 731,9, 732,10, 733,11, 734,12, 734,13, 734,14, 734,15, 735,16, 736,16, 737,16, 738,16, 739,16, 740,16, 741,17, 741,18, 741,19, 741,20, 741,21, 741,22, 741,23, 741,24, 741,25, 741,26, 741,27, 741,28, 741,29, 741,30, 740,31,741,32, 741,33, 740,34, 740,35, 740,36, 739,37, 738,38, 738,39, 738,40, 737,41, 736,42, 736,43, 735,44, 735,45, 734,46, 734,47, 734,48, 733,49, 732,50, 732,51, 731,51, 730,52, 729,53, 729,54, 728,55, 727,56, 726,57, 725,57, 724,57, 723,57, 722,57, 721,57, 720,57, 719,57, 718,56, 717,55, 716,54, 715,53, 715,52, 714,51, 714,50, 713,49, 712,49, 712,48, 712,47, 711,46, 710,45, 709,44, 709,43, 708,42, 707,41, 707,40, 707,39, 706,38, 706,37, 706,36, 706,35, 706,34, 705,33, 705,32, 705,31, 705,30, 705,29, 705,28, 704,27, 704,26, 704,25, 704,24, 703,23, 704,22, 704,21, 703,20, 703,19, 703,18, 703,17, 703,16, 704,16, 705,15, 706,15, 707,14, 708,14, 709,15,710,15, 711,15, 712,14, 711,13, 711,12, 711,11, 712,11, 713,11, 714,10, 715,10, 716,9, 717,9, 718,9, 719,9, 720,9" href="/"></map>
 </div>
 <!--BlackBand-->
 	
@@ -184,13 +230,17 @@ document.CS_DynamicURL = "http://cms.pwr.nps.gov/";
 	
 	
 <div id="divTextSearchGeneric">
-	<!-- Start Google Search Form -->
- 	<form method="get" action="http://www.nps.gov/search/query-meta" name="search">
-	<input type="text" name="q" size="25" maxlength="255" value="" class="textSerarchBoxGeneric"> <input type="submit" value="search" class="textSearchBtnGeneric">
-	<input type="hidden" name="v:project" value="NPS">
-	<input type="hidden" name="as_sitesearch" value="">
-	</form>
-	<!-- End Google Search Form -->
+	<div id="divTextSearchGenericContent">
+		<!-- Start Google Search Form -->
+	 	<form method="get" action="http://www.nps.gov/search/query-meta" name="search">
+		<input type="text" name="q" size="25" maxlength="255" value="" class="textSearchBoxGeneric"> <input type="submit" value="Search" class="textSearchBtnGeneric">
+		<input type="hidden" name="v:project" value="NPS">
+		<input type="hidden" name="as_sitesearch" value="">
+		</form>
+		<!-- End Google Search Form -->
+	</div>
+	
+	
 </div>
 <div id="stateNav">
 
@@ -204,7 +254,7 @@ document.CS_DynamicURL = "http://cms.pwr.nps.gov/";
 	    var isStandard = 0;
     	var hasChildren = 0;
     </script>
-  <table class="NavBox" width="150" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="left" valign="top"><p id="Nav" class="Nav01On"><a href="/" id="NavOn">NPS HOME</a></p></td></tr></tbody></table><table class="NavBox" width="150" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="left" valign="top"><p id="Nav" class="Nav01Off"><a href="/findapark/index.htm" id="NavOff">FIND A PARK</a></p></td></tr></tbody></table><table class="NavBox" width="150" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="left" valign="top"><p id="Nav" class="Nav01Off"><a href="http://www.cr.nps.gov/" id="NavOff">HISTORY &amp; CULTURE</a></p></td></tr></tbody></table><table class="NavBox" width="150" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="left" valign="top"><p id="Nav" class="Nav01Off"><a href="http://www.nature.nps.gov/" id="NavOff">NATURE &amp; SCIENCE</a></p></td></tr></tbody></table><table class="NavBox" width="150" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="left" valign="top"><p id="Nav" class="Nav01Off"><a href="http://www.nps.gov/learn/" id="NavOff">FOR KIDS &amp; TEACHERS</a></p></td></tr></tbody></table><table class="NavBox" width="150" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="left" valign="top"><p id="Nav" class="Nav01Off"><a href="/gettinginvolved/index.htm" id="NavOff">GETTING INVOLVED</a></p></td></tr></tbody></table><table class="NavBox" width="150" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="left" valign="top"><p id="Nav" class="Nav01Off"><a href="/aboutus/index.htm" id="NavOff">ABOUT US</a></p></td></tr></tbody></table><table class="NavBox" width="150" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="left" valign="top"><p id="Nav" class="Nav01Off"><a href="/news/index.htm" id="NavOff">NEWS</a></p></td></tr></tbody></table><table class="navfooterbox" width="148" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="left" valign="top"><p id="Nav" class="navfooter"><a href="/siteindex.htm" id="NavFooter">Site Index</a></p><p id="Nav" class="navfooter"><a href="/faqs.htm" id="NavFooter">Frequently Asked Questions</a></p><p id="Nav" class="navfooter"><a href="/bookstore.htm" id="NavFooter">Bookstore</a></p><p id="Nav" class="navfooter"><a href="/contacts.htm" id="NavFooter">Contact Us</a></p></td></tr></tbody></table><a href="http://www.nps.gov/gettinginvolved"><img src="/pwr/templates/images/graphics/supportthenps.gif" alt="Support the National Park Service" width="150" height="40" border="0" style="margin-top:10px;"></a><!-- -->
+  <div id="skip"><a href="#endnavigation">Skip Navigation</a></div><table class="NavBox" width="150" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="left" valign="top"><p id="Nav" class="Nav01On"><a href="/" id="NavOn">NPS HOME</a></p></td></tr></tbody></table><table class="NavBox" width="150" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="left" valign="top"><p id="Nav" class="Nav01Off"><a href="/findapark/index.htm" id="NavOff">FIND A PARK</a></p></td></tr></tbody></table><table class="NavBox" width="150" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="left" valign="top"><p id="Nav" class="Nav01Off"><a href="http://www.cr.nps.gov/" id="NavOff">HISTORY &amp; CULTURE</a></p></td></tr></tbody></table><table class="NavBox" width="150" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="left" valign="top"><p id="Nav" class="Nav01Off"><a href="http://www.nature.nps.gov/" id="NavOff">NATURE &amp; SCIENCE</a></p></td></tr></tbody></table><table class="NavBox" width="150" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="left" valign="top"><p id="Nav" class="Nav01Off"><a href="http://www.nps.gov/learn/" id="NavOff">FOR KIDS &amp; TEACHERS</a></p></td></tr></tbody></table><table class="NavBox" width="150" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="left" valign="top"><p id="Nav" class="Nav01Off"><a href="/gettinginvolved/index.htm" id="NavOff">GETTING INVOLVED</a></p></td></tr></tbody></table><table class="NavBox" width="150" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="left" valign="top"><p id="Nav" class="Nav01Off"><a href="/aboutus/index.htm" id="NavOff">ABOUT US</a></p></td></tr></tbody></table><table class="NavBox" width="150" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="left" valign="top"><p id="Nav" class="Nav01Off"><a href="/news/index.htm" id="NavOff">NEWS</a></p></td></tr></tbody></table><table class="navfooterbox" width="148" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="left" valign="top"><p id="Nav" class="navfooter"><a href="/siteindex.htm" id="NavFooter">Site Index</a></p><p id="Nav" class="navfooter"><a href="/faqs.htm" id="NavFooter">Frequently Asked Questions</a></p><p id="Nav" class="navfooter"><a href="/bookstore.htm" id="NavFooter">Bookstore</a></p><p id="Nav" class="navfooter"><a href="/directors-welcome.htm" id="NavFooter">Meet the Director</a></p><p id="Nav" class="navfooter"><a href="/contacts.htm" id="NavFooter">Contact Us</a></p></td></tr></tbody></table><a href="http://www.nps.gov/gettinginvolved"><img src="/pwr/templates/images/graphics/supportthenps.gif" alt="Support the National Park Service" width="150" height="40" border="0" style="margin-top:10px;"></a><a name="endnavigation"></a><!-- -->
 </div>
 <div id="topLevelContent">
 <div class="head">Privacy Statement</div>
