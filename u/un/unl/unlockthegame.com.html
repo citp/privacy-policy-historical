@@ -1,8 +1,9 @@
-<!--The following is the downloaded HTML source of the unlockthegame.com privacy policy that was archived on 2007-05-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070506065904id_/http%3A//www.unlockthegame.com/utility/showArticle%3FobjectID%3D16) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the unlockthegame.com privacy policy that was archived on 2007-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071227034830id_/http%3A//www.unlockthegame.com/utility/showArticle%3FobjectID%3D16) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
-		<title>Welcome to Ari Galper's Unlock The Game  - Cold Calling Made Painless. Guaranteed.</title>
+		<title>Free Cold Calling Tips and Sales Techniques – Ari Galper’s Unlock The Game</title>
+		<!--// workingpage //-->
 		
 			<meta name="Author" content="Ari Galper - Unlock the Game">
 		
@@ -12,10 +13,6 @@
 			<meta name="GOOGLEBOT" content="index,follow">
 		
 		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-		
-			<meta http-equiv="imagetoolbar" content="no"> 
-		
-		<!--// workingpage //-->
 		
 				<script src="/js/AC_RunActiveContent.js" type="text/javascript"></script>
 				
@@ -200,7 +197,17 @@
 		  return returnvalue;
 		}
 	function isInteger(string) {
-		var valid = '0123456789'; // define valid characters
+		var valid = '-0123456789'; // define valid characters
+    	for (var i=0; i< string.length; i++) {
+        if (valid.indexOf(string.charAt(i)) == -1) {
+            alert('Please enter an integer number.');
+            return false;
+        	}
+    	}
+    	return true;
+	}
+	function isNumeric(string) {
+		var valid = '-0123456789.'; // define valid characters
     	for (var i=0; i< string.length; i++) {
         if (valid.indexOf(string.charAt(i)) == -1) {
             alert('Please enter an integer number.');
@@ -276,6 +283,7 @@
 		}
 	return true
 	}
+
 
 				</script>
 			
@@ -498,6 +506,78 @@ a.newsletter_header_link { caption: Newsletter Header Link (link); visible:true;
 a.newsletter_-_left_navigation_link { caption: Newsletter - Left Navigation Link (link); visible:true; font-family: Arial, Helvetica, sans-serif; font-size: 10pt; font-weight: bold; text-decoration: none; color: 013399;}
 
 .newsletter_subheader { caption: Newsletter Subheader; visible:true; font-size: 12pt; font-weight: bold; font-style: italic;}
+p.utg_members_text {
+	caption: UTG Members Text (p);
+	visible:true;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+	color: 000000;
+	background-position: 0px 0px;
+	text-align: left;
+	padding-top: 6px;
+	padding-right: 4px;
+	padding-bottom: 4px;
+	padding-left: 4px;
+	border-top-width: 0px;
+	border-top-style: solid;}
+td.utg_members_header_left {
+	caption: UTG Members Header Left (cell);
+	visible:true;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight: bold;
+	text-transform: uppercase;
+	color: 15488f;
+	background-color: f2f2f2;
+	background-position: 0px 0px;
+	text-align: left;
+	height: 22px;
+	padding-top: 3px;
+	padding-right: 3px;
+	padding-bottom: 3px;
+	padding-left: 3px;
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-top-color: e2e2e2;}
+td.utg_members_border_only {
+	caption: utg_members_Border only (cell);
+	visible:true;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 1px;
+	font-weight: bold;
+	text-transform: uppercase;
+	color: 15488f;
+	background-color: f2f2f2;
+	background-position: 0px 0px;
+	text-align: center;
+	height: 1px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-top-color: e2e2e2;}
+td.utg_members_header {
+	caption: UTG Members Header Center (cell);
+	visible:true;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight: bold;
+	text-transform: uppercase;
+	color: 15488f;
+	background-color: f2f2f2;
+	background-position: 0px 0px;
+	text-align: center;
+	height: 22px;
+	padding-top: 3px;
+	padding-right: 3px;
+	padding-bottom: 3px;
+	padding-left: 3px;
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-top-color: e2e2e2;}
 H1 {
 	caption: H1 Page Title;
 	visible:True;
@@ -567,7 +647,49 @@ a.prices {
 a:hover.prices {
 	text-decoration: none; 
 	color:green;
-}</style>
+}
+p.Blog_Byline {
+	caption: Blog Byline (p);
+	visible: true;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    clear: both;
+    font-size: 10px;
+	background-color: transparent;
+	color: black;
+    text-align: left;
+    margin-top: 0px;
+    margin-bottom: 1px;
+	border-bottom: 1px solid gray;
+}
+p.Blog_Title {
+	caption: Blog Title (p);
+	visible: true;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    clear: both;
+    font-size: 22px;
+	background-color: transparent;
+	color: #770000;
+	background-color: transparent;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 15px;
+}
+p.Blog_Comments_Title {
+	caption: Blog CommentsTitle (p);
+	visible: true;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    clear: both;
+    font-size: 18px;
+	background-color: transparent;
+	color: #770000;
+	background-color: transparent;
+    text-align: Left;
+	border-bottom: 1px dotted gray;
+}
+	</style>
 				
 					<style>.articleService {
 	caption:Article Service Icons (Email - Comments - Print);
@@ -812,29 +934,23 @@ a.SiteMapNav-Level-3-Disabled {
 				<table cellspacing="0" cellpadding="0" width="770" align="center" border="0">
 <tbody>
 <tr valign="top">
-<td id="c4" style="BORDER-RIGHT: 0px; PADDING-RIGHT: 0px; BACKGROUND-POSITION: 0% 0%; BORDER-TOP: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; BORDER-LEFT: 0px; PADDING-TOP: 0px; BORDER-BOTTOM: 0px; HEIGHT: 0px">
-<table height="100%" cellspacing="0" cellpadding="0" width="100%" border="0">
+<td id="c4" style="BORDER-RIGHT: 0px; PADDING-RIGHT: 0px; BACKGROUND-POSITION: 0% 0%; BORDER-TOP: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; BORDER-LEFT: 0px; PADDING-TOP: 0px; BORDER-BOTTOM: 0px; HEIGHT: 0px"><table height="100%" cellspacing="0" cellpadding="0" width="100%" border="0">
 <tbody>
 <tr>
-<td id="c4_i" style="VERTICAL-ALIGN: top; TEXT-ALIGN: left">
-<table cellspacing="0" cellpadding="0" width="100%">
+<td id="c4_i" style="VERTICAL-ALIGN: top; TEXT-ALIGN: left"><table cellspacing="0" cellpadding="0" width="100%">
 <tbody>
 <tr valign="top">
-<td>
-<div style="BACKGROUND-IMAGE: url(http://www.unlockthegame.com/images/database/700.jpg); WIDTH: 802px; CURSOR: hand; BACKGROUND-REPEAT: no-repeat; HEIGHT: 90px" onclick="javascript:location='http://www.unlockthegame.com/';">
-<table cellspacing="0" cellpadding="0" width="75%" align="center" border="0">
+<td><div style="BACKGROUND-IMAGE: url(http://www.unlockthegame.com/images/database/1010.jpg); WIDTH: 802px; CURSOR: hand; BACKGROUND-REPEAT: no-repeat; HEIGHT: 90px" onclick="javascript:location='http://www.unlockthegame.com/';"><table cellspacing="0" cellpadding="0" width="75%" align="center" border="0">
 <tbody>
 <tr>
 <td style="FONT-SIZE: 1px" height="10"></td>
 </tr>
-
 <tr>
-<td nowrap="nowrap" align="middle"><font face="Times New Roman, Times" size="3"><strong>Treat people like human beings and not like "prospects"... and you'll both win.</strong></font> </td>
+<td nowrap="nowrap" align="center"><font face="Times New Roman, Times" size="3"><strong>Selling doesn't have to be painful... if you're open to a new sales mindset.</strong></font>&nbsp;</td>
 </tr>
 </tbody>
 </table>
-</div>
-</td>
+</div></td>
 </tr>
 </tbody>
 </table>
@@ -989,7 +1105,7 @@ a:visited.StandardTopNavBar-Level-1-Mastery {
 							imagehover1.src = "UTG_sm24583.gif"
 						</script>
 					
-					<td id="cell1" style="cursor:pointer;cursor:hand;" class="StandardTopNavBar-Level-1" onmouseover="image1.src='http://www.unlockthegame.com/images/sitemodel/UTG_sm24583.gif';cell1.className='StandardTopNavBar-Level-1';MM_showHideLayers('elMenu14011','','show');" onmouseout="image1.src='http://www.unlockthegame.com/images/sitemodel/UTG_sm14583.gif';cell1.className='StandardTopNavBar-Level-1';MM_showHideLayers('elMenu14011','','hide');" onclick="javascript:location='http://www.unlockthegame.com/UTG/ProductsPrograms/index.cfm'">
+					<td id="cell1" style="cursor:pointer;cursor:hand;" class="StandardTopNavBar-Level-1" onmouseover="image1.src='http://www.unlockthegame.com/images/sitemodel/UTG_sm24583.gif';cell1.className='StandardTopNavBar-Level-1';MM_showHideLayers('elMenu14011','','show');" onmouseout="image1.src='http://www.unlockthegame.com/images/sitemodel/UTG_sm14583.gif';cell1.className='StandardTopNavBar-Level-1';MM_showHideLayers('elMenu14011','','hide');" onclick="javascript:location='http://www.unlockthegame.com/UTG/ProductsPrograms/'">
 						<img id="image1" src="http://www.unlockthegame.com/images/sitemodel/UTG_sm14583.gif" border="0" hspace="0" vspace="0"></td>
 				
 						<script language="JavaScript1.1">
@@ -997,7 +1113,7 @@ a:visited.StandardTopNavBar-Level-1-Mastery {
 							imagehover2.src = "sm24585.gif"
 						</script>
 					
-					<td id="cell2" style="cursor:pointer;cursor:hand;" class="StandardTopNavBar-Level-1" onmouseover="image2.src='http://www.unlockthegame.com/images/sitemodel/sm24585.gif';cell2.className='StandardTopNavBar-Level-1';MM_showHideLayers('elMenu14012','','show');" onmouseout="image2.src='http://www.unlockthegame.com/images/sitemodel/sm14585.gif';cell2.className='StandardTopNavBar-Level-1';MM_showHideLayers('elMenu14012','','hide');" onclick="javascript:location='http://www.unlockthegame.com/UTG/FreeTestDrive/index.cfm'">
+					<td id="cell2" style="cursor:pointer;cursor:hand;" class="StandardTopNavBar-Level-1" onmouseover="image2.src='http://www.unlockthegame.com/images/sitemodel/sm24585.gif';cell2.className='StandardTopNavBar-Level-1';MM_showHideLayers('elMenu14012','','show');" onmouseout="image2.src='http://www.unlockthegame.com/images/sitemodel/sm14585.gif';cell2.className='StandardTopNavBar-Level-1';MM_showHideLayers('elMenu14012','','hide');" onclick="javascript:location='http://www.unlockthegame.com/UTG/FreeTestDrive/'">
 						<img id="image2" src="http://www.unlockthegame.com/images/sitemodel/sm14585.gif" border="0" hspace="0" vspace="0"></td>
 				
 						<script language="JavaScript1.1">
@@ -1005,7 +1121,7 @@ a:visited.StandardTopNavBar-Level-1-Mastery {
 							imagehover3.src = "sm24522.gif"
 						</script>
 					
-					<td id="cell3" style="cursor:pointer;cursor:hand;" class="StandardTopNavBar-Level-1" onmouseover="image3.src='http://www.unlockthegame.com/images/sitemodel/sm24522.gif';cell3.className='StandardTopNavBar-Level-1';MM_showHideLayers('elMenu14013','','show');" onmouseout="image3.src='http://www.unlockthegame.com/images/sitemodel/sm14522.gif';cell3.className='StandardTopNavBar-Level-1';MM_showHideLayers('elMenu14013','','hide');" onclick="javascript:location='http://www.unlockthegame.com/UTG/SuccessStories/index.cfm'">
+					<td id="cell3" style="cursor:pointer;cursor:hand;" class="StandardTopNavBar-Level-1" onmouseover="image3.src='http://www.unlockthegame.com/images/sitemodel/sm24522.gif';cell3.className='StandardTopNavBar-Level-1';MM_showHideLayers('elMenu14013','','show');" onmouseout="image3.src='http://www.unlockthegame.com/images/sitemodel/sm14522.gif';cell3.className='StandardTopNavBar-Level-1';MM_showHideLayers('elMenu14013','','hide');" onclick="javascript:location='http://www.unlockthegame.com/UTG/SuccessStories/'">
 						<img id="image3" src="http://www.unlockthegame.com/images/sitemodel/sm14522.gif" border="0" hspace="0" vspace="0"></td>
 				
 						<script language="JavaScript1.1">
@@ -1013,7 +1129,7 @@ a:visited.StandardTopNavBar-Level-1-Mastery {
 							imagehover4.src = "sm24393.gif"
 						</script>
 					
-					<td id="cell4" style="cursor:pointer;cursor:hand;" class="StandardTopNavBar-Level-1" onmouseover="image4.src='http://www.unlockthegame.com/images/sitemodel/sm24393.gif';cell4.className='StandardTopNavBar-Level-1';MM_showHideLayers('elMenu14014','','show');" onmouseout="image4.src='http://www.unlockthegame.com/images/sitemodel/sm14393.gif';cell4.className='StandardTopNavBar-Level-1';MM_showHideLayers('elMenu14014','','hide');" onclick="javascript:location='http://www.unlockthegame.com/UTG/AboutContactUs/index.cfm'">
+					<td id="cell4" style="cursor:pointer;cursor:hand;" class="StandardTopNavBar-Level-1" onmouseover="image4.src='http://www.unlockthegame.com/images/sitemodel/sm24393.gif';cell4.className='StandardTopNavBar-Level-1';MM_showHideLayers('elMenu14014','','show');" onmouseout="image4.src='http://www.unlockthegame.com/images/sitemodel/sm14393.gif';cell4.className='StandardTopNavBar-Level-1';MM_showHideLayers('elMenu14014','','hide');" onclick="javascript:location='http://www.unlockthegame.com/UTG/AboutContactUs/'">
 						<img id="image4" src="http://www.unlockthegame.com/images/sitemodel/sm14393.gif" border="0" hspace="0" vspace="0"></td>
 				
 						<script language="JavaScript1.1">
@@ -1021,7 +1137,7 @@ a:visited.StandardTopNavBar-Level-1-Mastery {
 							imagehover5.src = "sm24449.gif"
 						</script>
 					
-					<td id="cell5" style="cursor:pointer;cursor:hand;" class="StandardTopNavBar-Level-1-Selected" onmouseover="image5.src='http://www.unlockthegame.com/images/sitemodel/sm24449.gif';cell5.className='StandardTopNavBar-Level-1-Selected';MM_showHideLayers('elMenu14015','','show');" onmouseout="image5.src='http://www.unlockthegame.com/images/sitemodel/sm24449.gif';cell5.className='StandardTopNavBar-Level-1-Selected';MM_showHideLayers('elMenu14015','','hide');" onclick="javascript:location='http://www.unlockthegame.com/UTG/Home/index.cfm'">
+					<td id="cell5" style="cursor:pointer;cursor:hand;" class="StandardTopNavBar-Level-1-Selected" onmouseover="image5.src='http://www.unlockthegame.com/images/sitemodel/sm24449.gif';cell5.className='StandardTopNavBar-Level-1-Selected';MM_showHideLayers('elMenu14015','','show');" onmouseout="image5.src='http://www.unlockthegame.com/images/sitemodel/sm24449.gif';cell5.className='StandardTopNavBar-Level-1-Selected';MM_showHideLayers('elMenu14015','','hide');" onclick="javascript:location='http://www.unlockthegame.com/UTG/Home/'">
 						<img id="image5" src="http://www.unlockthegame.com/images/sitemodel/sm24449.gif" border="0" hspace="0" vspace="0"></td>
 				
 	    </tr>
@@ -1033,33 +1149,8 @@ a:visited.StandardTopNavBar-Level-1-Mastery {
 				<div id="elMenu14011" style="position:absolute;  border: 0px solid black; visibility: hidden; z-index:2000;" onmouseover="MM_showHideLayers('elMenu14011','','show');" onmouseout="MM_showHideLayers('elMenu14011','','hide');MM_showHideLayers('elMenu14012','','hide');MM_showHideLayers('elMenu14013','','hide');MM_showHideLayers('elMenu14014','','hide');MM_showHideLayers('elMenu14015','','hide');">
 			    	<table width="180" cellspacing="0" cellpadding="3">
 						
-							   		<tbody><tr>
-										<td id="cell11" onmouseover="this.className='SubMenuCell-Selected';" onmouseout="this.className='SubMenuCell';" onclick="javascript:location='http://www.unlockthegame.com/UTG/ProductsPrograms/Mastery1IntroductiontotheMindset/index.cfm';" width="245" nowrap="" class="StandardTopNavBar-SubMenu-1" align="center">
-										   <a class="StandardTopNavBar-Level-1" href="http://www.unlockthegame.com/UTG/ProductsPrograms/Mastery1IntroductiontotheMindset/index.cfm">&nbsp;Mastery&nbsp;1:&nbsp;Introduction&nbsp;to&nbsp;the&nbsp;Mindset&nbsp;</a>
-										</td>
-									
-										<td></td>
-									
-									</tr>
-							
-							   		<tr>
-										<td id="cell12" onmouseover="this.className='SubMenuCell-Selected';" onmouseout="this.className='SubMenuCell';" onclick="javascript:location='http://www.unlockthegame.com/UTG/ProductsPrograms/Mastery2AdvancedMindsetTraining/index.cfm';" width="245" nowrap="" class="StandardTopNavBar-SubMenu-1" align="center">
-										   <a class="StandardTopNavBar-Level-1" href="http://www.unlockthegame.com/UTG/ProductsPrograms/Mastery2AdvancedMindsetTraining/index.cfm">&nbsp;Mastery&nbsp;2:&nbsp;Advanced&nbsp;Mindset&nbsp;Training&nbsp;</a>
-										</td>
-									
-										<td></td>
-									
-									</tr>
-							
-							   		<tr>
-										<td id="cell13" onmouseover="this.className='SubMenuCell-Selected';" onmouseout="this.className='SubMenuCell';" onclick="javascript:location='http://www.unlockthegame.com/UTG/ProductsPrograms/CompleteProgram-PricingDetails/index.cfm';" width="245" nowrap="" class="StandardTopNavBar-SubMenu-1" align="center">
-										   <a class="StandardTopNavBar-Level-1" href="http://www.unlockthegame.com/UTG/ProductsPrograms/CompleteProgram-PricingDetails/index.cfm">&nbsp;Complete&nbsp;Program&nbsp;-&nbsp;Pricing/Details&nbsp;</a>
-										</td>
-									
-										<td></td>
-									
-									</tr>
-							
+							<tbody><tr><td></td></tr>
+						
 					</tbody></table>
 				</div>
 			
@@ -1088,7 +1179,7 @@ a:visited.StandardTopNavBar-Level-1-Mastery {
 						
 							   		<tbody><tr>
 										<td id="cell41" onmouseover="this.className='SubMenuCell-Selected';" onmouseout="this.className='SubMenuCell';" nowrap="" class="StandardTopNavBar-SubMenu-1" align="center">
-										   <a class="StandardTopNavBar-Level-1" href="http://www.unlockthegame.com/utility/showPage/index.cfm?objectID=utg,4393">&nbsp;Bio&nbsp;</a>
+										   <a class="StandardTopNavBar-Level-1" href="http://www.unlockthegame.com/utility/showPage/?objectID=utg,4393">&nbsp;Bio&nbsp;</a>
 										</td>
 									
 										<td></td>
@@ -1096,8 +1187,8 @@ a:visited.StandardTopNavBar-Level-1-Mastery {
 									</tr>
 							
 							   		<tr>
-										<td id="cell42" onmouseover="this.className='SubMenuCell-Selected';" onmouseout="this.className='SubMenuCell';" onclick="javascript:location='http://www.unlockthegame.com/UTG/AboutContactUs/ContactUs/index.cfm';" nowrap="" class="StandardTopNavBar-SubMenu-1" align="center">
-										   <a class="StandardTopNavBar-Level-1" href="http://www.unlockthegame.com/UTG/AboutContactUs/ContactUs/index.cfm">&nbsp;Contact&nbsp;Us&nbsp;</a>
+										<td id="cell42" onmouseover="this.className='SubMenuCell-Selected';" onmouseout="this.className='SubMenuCell';" onclick="javascript:location='http://www.unlockthegame.com/UTG/AboutContactUs/ContactUs/';" nowrap="" class="StandardTopNavBar-SubMenu-1" align="center">
+										   <a class="StandardTopNavBar-Level-1" href="http://www.unlockthegame.com/UTG/AboutContactUs/ContactUs/">&nbsp;Contact&nbsp;Us&nbsp;</a>
 										</td>
 									
 										<td></td>
@@ -1105,8 +1196,8 @@ a:visited.StandardTopNavBar-Level-1-Mastery {
 									</tr>
 							
 							   		<tr>
-										<td id="cell43" onmouseover="this.className='SubMenuCell-Selected';" onmouseout="this.className='SubMenuCell';" onclick="javascript:location='http://www.unlockthegame.com/UTG/AboutContactUs/FAQs/index.cfm';" nowrap="" class="StandardTopNavBar-SubMenu-1" align="center">
-										   <a class="StandardTopNavBar-Level-1" href="http://www.unlockthegame.com/UTG/AboutContactUs/FAQs/index.cfm">&nbsp;FAQs&nbsp;</a>
+										<td id="cell43" onmouseover="this.className='SubMenuCell-Selected';" onmouseout="this.className='SubMenuCell';" nowrap="" class="StandardTopNavBar-SubMenu-1" align="center">
+										   <a class="StandardTopNavBar-Level-1" href="http://www.unlockthegame.com/DocumentFiles/113.pdf" target="_blank">&nbsp;Private&nbsp;Coaching&nbsp;with&nbsp;Ari&nbsp;</a>
 										</td>
 									
 										<td></td>
@@ -1114,8 +1205,8 @@ a:visited.StandardTopNavBar-Level-1-Mastery {
 									</tr>
 							
 							   		<tr>
-										<td id="cell44" onmouseover="this.className='SubMenuCell-Selected';" onmouseout="this.className='SubMenuCell';" onclick="javascript:location='http://www.unlockthegame.com/UTG/AboutContactUs/FreeSalesScriptReview/index.cfm';" nowrap="" class="StandardTopNavBar-SubMenu-1" align="center">
-										   <a class="StandardTopNavBar-Level-1" href="http://www.unlockthegame.com/UTG/AboutContactUs/FreeSalesScriptReview/index.cfm">&nbsp;Free&nbsp;Sales&nbsp;Script&nbsp;Review&nbsp;</a>
+										<td id="cell44" onmouseover="this.className='SubMenuCell-Selected';" onmouseout="this.className='SubMenuCell';" onclick="javascript:location='http://www.unlockthegame.com/UTG/AboutContactUs/FAQs/';" nowrap="" class="StandardTopNavBar-SubMenu-1" align="center">
+										   <a class="StandardTopNavBar-Level-1" href="http://www.unlockthegame.com/UTG/AboutContactUs/FAQs/">&nbsp;FAQs&nbsp;</a>
 										</td>
 									
 										<td></td>
@@ -1123,7 +1214,16 @@ a:visited.StandardTopNavBar-Level-1-Mastery {
 									</tr>
 							
 							   		<tr>
-										<td id="cell45" onmouseover="this.className='SubMenuCell-Selected';" onmouseout="this.className='SubMenuCell';" nowrap="" class="StandardTopNavBar-SubMenu-1" align="center">
+										<td id="cell45" onmouseover="this.className='SubMenuCell-Selected';" onmouseout="this.className='SubMenuCell';" onclick="javascript:location='http://www.unlockthegame.com/UTG/AboutContactUs/FreeSalesScriptReview/';" nowrap="" class="StandardTopNavBar-SubMenu-1" align="center">
+										   <a class="StandardTopNavBar-Level-1" href="http://www.unlockthegame.com/UTG/AboutContactUs/FreeSalesScriptReview/">&nbsp;Free&nbsp;Sales&nbsp;Script&nbsp;Review&nbsp;</a>
+										</td>
+									
+										<td></td>
+									
+									</tr>
+							
+							   		<tr>
+										<td id="cell46" onmouseover="this.className='SubMenuCell-Selected';" onmouseout="this.className='SubMenuCell';" nowrap="" class="StandardTopNavBar-SubMenu-1" align="center">
 										   <a class="StandardTopNavBar-Level-1" href="http://www.unlockthegame.com/AllIndustries100sOfStories/">&nbsp;Cold&nbsp;Calling&nbsp;</a>
 										</td>
 									
@@ -1132,8 +1232,8 @@ a:visited.StandardTopNavBar-Level-1-Mastery {
 									</tr>
 							
 							   		<tr>
-										<td id="cell46" onmouseover="this.className='SubMenuCell-Selected';" onmouseout="this.className='SubMenuCell';" onclick="javascript:location='http://www.unlockthegame.com/UTG/AboutContactUs/BecomeAnAffiliate/index.cfm';" nowrap="" class="StandardTopNavBar-SubMenu-1" align="center">
-										   <a class="StandardTopNavBar-Level-1" href="http://www.unlockthegame.com/UTG/AboutContactUs/BecomeAnAffiliate/index.cfm">&nbsp;Become&nbsp;An&nbsp;Affiliate&nbsp;</a>
+										<td id="cell47" onmouseover="this.className='SubMenuCell-Selected';" onmouseout="this.className='SubMenuCell';" onclick="javascript:location='http://www.unlockthegame.com/UTG/AboutContactUs/BecomeAnAffiliate/';" nowrap="" class="StandardTopNavBar-SubMenu-1" align="center">
+										   <a class="StandardTopNavBar-Level-1" href="http://www.unlockthegame.com/UTG/AboutContactUs/BecomeAnAffiliate/">&nbsp;Become&nbsp;An&nbsp;Affiliate&nbsp;</a>
 										</td>
 									
 										<td></td>
@@ -1141,8 +1241,8 @@ a:visited.StandardTopNavBar-Level-1-Mastery {
 									</tr>
 							
 							   		<tr>
-										<td id="cell47" onmouseover="this.className='SubMenuCell-Selected';" onmouseout="this.className='SubMenuCell';" onclick="javascript:location='http://www.unlockthegame.com/UTG/AboutContactUs/OnsiteTeamTraining/index.cfm';" nowrap="" class="StandardTopNavBar-SubMenu-1" align="center">
-										   <a class="StandardTopNavBar-Level-1" href="http://www.unlockthegame.com/UTG/AboutContactUs/OnsiteTeamTraining/index.cfm">&nbsp;Onsite&nbsp;Team&nbsp;Training&nbsp;</a>
+										<td id="cell48" onmouseover="this.className='SubMenuCell-Selected';" onmouseout="this.className='SubMenuCell';" onclick="javascript:location='http://www.unlockthegame.com/UTG/AboutContactUs/InsuranceColdCalling/';" nowrap="" class="StandardTopNavBar-SubMenu-1" align="center">
+										   <a class="StandardTopNavBar-Level-1" href="http://www.unlockthegame.com/UTG/AboutContactUs/InsuranceColdCalling/">&nbsp;Insurance&nbsp;Cold&nbsp;Calling&nbsp;</a>
 										</td>
 									
 										<td></td>
@@ -1150,8 +1250,8 @@ a:visited.StandardTopNavBar-Level-1-Mastery {
 									</tr>
 							
 							   		<tr>
-										<td id="cell48" onmouseover="this.className='SubMenuCell-Selected';" onmouseout="this.className='SubMenuCell';" onclick="javascript:location='http://www.unlockthegame.com/UTG/AboutContactUs/Keynote-PublicSpeaking/index.cfm';" nowrap="" class="StandardTopNavBar-SubMenu-1" align="center">
-										   <a class="StandardTopNavBar-Level-1" href="http://www.unlockthegame.com/UTG/AboutContactUs/Keynote-PublicSpeaking/index.cfm">&nbsp;Keynote&nbsp;&amp;&nbsp;Public&nbsp;Speaking&nbsp;</a>
+										<td id="cell49" onmouseover="this.className='SubMenuCell-Selected';" onmouseout="this.className='SubMenuCell';" onclick="javascript:location='http://www.unlockthegame.com/UTG/AboutContactUs/InsuranceSelling/';" nowrap="" class="StandardTopNavBar-SubMenu-1" align="center">
+										   <a class="StandardTopNavBar-Level-1" href="http://www.unlockthegame.com/UTG/AboutContactUs/InsuranceSelling/">&nbsp;Insurance&nbsp;Selling&nbsp;</a>
 										</td>
 									
 										<td></td>
@@ -1159,8 +1259,17 @@ a:visited.StandardTopNavBar-Level-1-Mastery {
 									</tr>
 							
 							   		<tr>
-										<td id="cell49" onmouseover="this.className='SubMenuCell-Selected';" onmouseout="this.className='SubMenuCell';" nowrap="" class="StandardTopNavBar-SubMenu-1" align="center">
-										   <a class="StandardTopNavBar-Level-1" href="http://www.unlockthegame.com/utility/showPage/index.cfm?objectID=utig,4665" target="_blank">&nbsp;Unlock&nbsp;The&nbsp;Internet&nbsp;Game&nbsp;</a>
+										<td id="cell410" onmouseover="this.className='SubMenuCell-Selected';" onmouseout="this.className='SubMenuCell';" onclick="javascript:location='http://www.unlockthegame.com/UTG/AboutContactUs/MortgageColdCalling/';" nowrap="" class="StandardTopNavBar-SubMenu-1" align="center">
+										   <a class="StandardTopNavBar-Level-1" href="http://www.unlockthegame.com/UTG/AboutContactUs/MortgageColdCalling/">&nbsp;Mortgage&nbsp;Cold&nbsp;Calling&nbsp;</a>
+										</td>
+									
+										<td></td>
+									
+									</tr>
+							
+							   		<tr>
+										<td id="cell411" onmouseover="this.className='SubMenuCell-Selected';" onmouseout="this.className='SubMenuCell';" nowrap="" class="StandardTopNavBar-SubMenu-1" align="center">
+										   <a class="StandardTopNavBar-Level-1" href="http://www.unlockthegame.com/utility/showPage/?objectID=utig,4665" target="_blank">&nbsp;Unlock&nbsp;The&nbsp;Internet&nbsp;Game&nbsp;</a>
 										</td>
 									
 										<td></td>
@@ -1177,8 +1286,23 @@ a:visited.StandardTopNavBar-Level-1-Mastery {
 				<div id="elMenu14015" style="position:absolute;  border: 0px solid black; visibility: hidden; z-index:2000;" onmouseover="MM_showHideLayers('elMenu14015','','show');" onmouseout="MM_showHideLayers('elMenu14011','','hide');MM_showHideLayers('elMenu14012','','hide');MM_showHideLayers('elMenu14013','','hide');MM_showHideLayers('elMenu14014','','hide');MM_showHideLayers('elMenu14015','','hide');">
 			    	<table width="180" cellspacing="0" cellpadding="3">
 						
-							<tbody><tr><td></td></tr>
-						
+							   		<tbody><tr>
+										<td id="cell51" onmouseover="this.className='SubMenuCell-Selected';" onmouseout="this.className='SubMenuCell';" onclick="javascript:location='http://www.unlockthegame.com/UTG/Home/AriGalpersUnlocktheGameBlog/';" nowrap="" class="StandardTopNavBar-SubMenu-1" align="center">
+										   <a class="StandardTopNavBar-Level-1" href="http://www.unlockthegame.com/UTG/Home/AriGalpersUnlocktheGameBlog/">&nbsp;Ari&nbsp;Galper's&nbsp;Unlock&nbsp;the&nbsp;Game&nbsp;Blog&nbsp;</a>
+										</td>
+									
+										<td>
+										<div id="elMenu14015:1" style="position:absolute; border: 0px solid black; visibility: hidden; z-index:2;" onmouseover="MM_showHideLayers('elMenu14015:1','','show');" onmouseout="MM_showHideLayers('elMenu14015:1','','hide');">
+								    	<table width="180" cellspacing="0" cellpadding="3">
+										
+											<tbody><tr><td></td></tr>
+										
+										</tbody></table>
+										</div>
+										</td>
+									
+									</tr>
+							
 					</tbody></table>
 				</div>
 			
@@ -1273,11 +1397,10 @@ Calabasas, CA 91302</p></td>
 				<td>
 					
 
-
 <script language="javascript" src="/js/javascript.js" type="text/javascript"></script>
 
 
-<iframe style="z-index:1" frameborder="0" height="440px" scrolling="No" width="186" marginheight="0" marginwidth="0" src="https://www.unlockthegame.com/includes/services/chat.cfm?chat=1"></iframe>
+<iframe style="z-index:1" frameborder="0" height="380px" scrolling="No" width="186" marginheight="0" marginwidth="0" src="https://www.unlockthegame.com/includes/services/chat.cfm?chat=1"></iframe>
 
 <table border="0" width="100%" cellpadding="0" cellspacing="0">
 	
@@ -1381,9 +1504,9 @@ Real People:</strong></font><br>
 				<table cellspacing="0" cellpadding="0" width="795" border="0">
 <tbody>
 <tr>
-<td align="middle" width="610"><img alt="" src="http://www.unlockthegame.com/images/database/336.jpg" border="0" imageid="336"><br>
+<td align="middle" width="610"><img alt="" src="http://www.unlockthegame.com/images/database/1008.jpg" border="0" imageid="336"><br>
 <img alt="" src="http://www.unlockthegame.com/images/database/710.jpg" border="0" imageid="710"></td>
-<td width="185">&nbsp;</td>
+<td width="185"></td>
 </tr>
 
 <tr>
@@ -1391,8 +1514,8 @@ Real People:</strong></font><br>
 <table bordercolor="#0000a0" cellspacing="0" cellpadding="0" width="100%" align="center" border="0">
 <tbody>
 <tr>
-<td style="FONT-SIZE: 10px" align="middle">© Unlock The Game. All Rights Reserved. Unlock The Game is a registered trademark.&nbsp;<br>
-<a href="http://www.unlockthegame.com/utility/showArticle?objectID=15">Legal Notices</a>&nbsp;<a style="COLOR: black; TEXT-DECORATION: none" href="http://www.unlockthegame.com/site">and</a>&nbsp;<a href="http://www.unlockthegame.com/utility/showArticle?objectID=16">Privacy Statement</a> </td>
+<td style="FONT-SIZE: 10px" align="middle">© Unlock The Game. All Rights Reserved. Unlock The Game is a <a style="COLOR: black; TEXT-DECORATION: none" href="http://en.wikipedia.org/wiki/Cold_calling">registered</a> <a style="COLOR: black; TEXT-DECORATION: none" href="http://www.freecoldcallingtipsblog.com/">trademark</a>.<br>
+<a href="http://www.unlockthegame.com/utility/showArticle?objectID=15">Legal Notices</a> <a style="COLOR: black; TEXT-DECORATION: none" href="http://www.unlockthegame.com/site">and</a> <a href="http://www.unlockthegame.com/utility/showArticle?objectID=16">Privacy Statement</a> <a style="COLOR: black; TEXT-DECORATION: none" href="http://www.freecoldcallingtipsblog.com/">cold calling</a> b<a style="COLOR: black; TEXT-DECORATION: none" href="http://blog.unlockthegame.com/">log</a></td>
 </tr>
 </tbody>
 </table>
@@ -1417,7 +1540,7 @@ if (browserOK)
     NumLines = 1;
     Messages = new Array(NumLines);
 	
-	    Messages[0] = "Call 1-877-641-3039 for FREE Cold Calling and Selling Help!";
+	    Messages[0] = "Call 1-866-530-5125 for FREE Cold Calling and Selling Help!";
 	
     CurrentLine = 0;
     pos = - Messages[0].length;
@@ -1501,10 +1624,6 @@ _ex(_mlc)+"&vcon="+_ex(_mlc)+"&epg="+_epg+"&hp=u&cy=u&dt=&ln=na&cp="+_ex(_cp)+
 if(_bn!='Netscape'&&_bv>399)document.write("<\!"+"--");</script><noscript><img 
 src="https://phg.hitbox.com/HG?hc=wp169&cd=1&hv=6&ce=u&hb=WR5201312PBC19EN3&n=PUT+PAGE+NAME+HERE&vcon=CONTENT+CATEGORY" border='0' width='1' height='1'></noscript><!--//-->
 
-
-
-
-
 <!-- BEGIN HumanTag Monitor. DO NOT MOVE! MUST BE PLACED JUST BEFORE THE /BODY TAG -->
 <script type="text/javascript" language="javascript">
 var lpPosY = 400; 
@@ -1513,44 +1632,55 @@ var lpPosY = 400;
 <!-- END HumanTag Monitor. DO NOT MOVE! MUST BE PLACED JUST BEFORE THE /BODY TAG -->
 
 
-		<script language="javascript">
-			var clickmessage="Sorry, images may not be saved from this website."
+	<script language="JavaScript">
+	function readCookie(name)
+	{
+		var nameEQ = name + "=";
+		var ca = document.cookie.split(';');
+		for(var i=0;i < ca.length;i++)
+		{
+			var c = ca[i];
+			while (c.charAt(0)==' ') c = c.substring(1,c.length);
+			if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+		}
+		return null;
+	}
+	function getRef()
+	{
+		ref = document.referrer;
+		re = /(\?|&)(q|p)=([^&]*)/;
+		searchq = re.exec(ref);
+		if(searchq) {
+			__utmSetVar(searchq[3]);
+		}
+	}
+	function sleuth()
+	{
+		if (document.cookie.indexOf("__utmz=") != -1)
+		{
+			z = readCookie('__utmz');
+			za = z.split('|');
+			t = za[0].split('.');
+			za[0] = t[t.length - 1];
+			for (i = 0; i < za.length; i++)
+			{	
+				t2 = za[i].split('=');
+				if (t2[0] == 'utmgclid' || t2[1] == 'cpc' || t2[1] == 'ppc')	{
+					getRef();
+				}
+			}
+		}
+	}
+	</script>
 
-function disableclick(e) {
-if (document.all) {
-if (event.button==2||event.button==3) {
-if (event.srcElement.tagName=="IMG"){
-alert(clickmessage);
-return false;
-}
-}
-}
-else if (document.layers) {
-if (e.which == 3) {
-alert(clickmessage);
-return false;
-}
-}
-else if (document.getElementById){
-if (e.which==3&&e.target.tagName=="IMG"){
-alert(clickmessage)
-return false
-}
-}
-}
-
-function associateimages(){
-for(i=0;i<document.images.length;i++)
-document.images[i].onmousedown=disableclick;
-}
-
-if (document.all)
-document.onmousedown=disableclick
-else if (document.getElementById)
-document.onmouseup=disableclick
-else if (document.layers)
-associateimages()
-
+	
+		<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+		<script type="text/javascript">
+		_uacct = "UA-235854-1";
+		_udn="none";
+		_ulink=1;
+		urchinTracker();
+		sleuth();
 		</script>
 	
 	
