@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the speedo.com privacy policy that was archived on 2007-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070505100230id_/http%3A//www.speedo.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D302%26Itemid%3D153%26lc%3Den%26cc%3Dglobal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speedo.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227081953id_/http%3A//www.speedo.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D302%26Itemid%3D153%26lc%3Den%26cc%3Dglobal) for the most accurate reproduction.*
 
 # Speedo - Privacy Policy
 
