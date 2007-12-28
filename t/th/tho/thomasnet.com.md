@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thomasnet.com privacy policy that was archived on 2007-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070424150618id_/http%3A//www.thomasnet.com/privacy.html%3Fnavsec%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thomasnet.com privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228165704id_/http%3A//www.thomasnet.com/privacy.html%3Fnavsec%3Dfooter) for the most accurate reproduction.*
 
 # ThomasNet® - Privacy Policy
 
@@ -31,6 +31,8 @@ When you use the communication features on ThomasNet to contact suppliers listed
 If you have not signed up to use My Thomas, we will not store any of the contact information you enter unless you choose to sign up with us. 
 
 My Thomas users will be able to verify or change the information stored in their profile prior to sending the request. 
+
+Many of the suppliers listed on ThomasNet.com will make additional information, such as CAD Drawings or White Papers, available to the users of ThomasNet.com free of charge. Some of these suppliers may require your contact information in exchange for access to this information. You will always be asked before any information is exchanged and you will have the opportunity to decline. However, if you decline to share your information with these suppliers you will not be able to access that supplier’s information. Once information has been shared with the supplier, it is out of the control of ThomasNet.com and subject to the privacy policy of that supplier. 
 
 **Partner Sites**
 
