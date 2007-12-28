@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the autoquake.com privacy policy that was archived on 2007-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070514161939id_/http%3A//www.autoquake.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autoquake.com privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228123312id_/http%3A//www.autoquake.com/privacy) for the most accurate reproduction.*
 
-# How Autoquake protects your personal information.
+# Autoquake-used cars at unbeatable prices
+
+Welcome to the privacy policy ("Privacy Policy") for Autoquake. Your privacy is very important to us. Please read this Privacy Policy to learn about the ways in which we use and protect your personal information. This Privacy Policy applies to the www.autoquake.com website (the "Site").
+
+This policy covers how Autoquake treats personal information that Autoquake collects and receives, including information related to your past use of Autoquake's products and services. By accepting this Privacy Policy and the Visitors Agreement, you expressly consent to our use and disclosure of your personal information in the manner prescribed in this Privacy Policy. If you do not agree to all these terms and conditions, please do not provide us with any information and do not use Autoquake.
+
+Effective Date: August 31, 2006.
 
 ## 1\. Information We Collect
 
@@ -24,8 +30,6 @@ If you send us personal correspondence, such as emails or letters, or if other u
 
 If you register for Autoquake (a) on another web site, or (b) use a web site providing a service for Autoquake, or (c) a web site that helps facilitate your activity on Autoquake, that web site may provide personal information about you and your transactions back to Autoquake.
 
-back to top
-
 ## 2\. Our Use of Your Information
 
 We use information in the files we maintain about you, and other information we obtain from your current and past activities on the Site, to resolve disputes, provide customer support, troubleshoot problems and enforce our Visitors Agreement and policies. At times, we may look across multiple users to identify problems or resolve disputes, and in particular we may examine your information to identify users using multiple User IDs or aliases.
@@ -36,13 +40,9 @@ You agree that we may use personally identifiable information about you to impro
 
 You agree that we may use your information to contact you and deliver information to you that, in some cases, are targeted to your interests, such as targeted banner advertisements, administrative notices, product offerings, and communications relevant to your use of the Site. By accepting the Visitors Agreement and reading this Privacy Policy, you expressly agree to receive this information.
 
-back to top
-
 ## 3\. An Important Note About Children
 
 Our services are not available to children and we ask that persons under the age of 18 do not submit any personal information to us. If you are under 18 years old, you can use this service only in conjunction with and under the supervision of a parent or guardian.
-
-back to top
 
 ## 4\. Our Disclosure of Your Information
 
@@ -60,40 +60,26 @@ We cannot ensure that all of your communications with Autoquake and other person
 
 We reserve the right to transfer information about you to a successor in interest that acquires the right to such information by acquiring the Service, acquiring Autoquake or substantially all of Autoquake's assets, or merging with Autoquake. In any of these events, Autoquake will notify you before information about you is transferred and becomes subject to a different privacy policy.
 
-back to top
-
 ## 5\. Links
 
 This site contains links to other sites. We will make every effort to link only to sites that share our high standards and respect for privacy. We are not responsible for any other Websites, their respective privacy practices, or privacy policies to find out how they treat your personal information. When you visit or access any third-party site, you are subject to that site's privacy policy and terms and conditions.
-
-back to top
 
 ## 6\. Control of Your Password
 
 You are responsible for all actions taken with your User ID and password, including those actions that result in fees being charged to your account. Therefore we strongly recommend that you do not disclose your Autoquake password to any third parties. If you choose to share your User ID and password or your information with third parties when necessary for you to do so for them to provide you with additional services, you are responsible for all actions taken with your User ID and password and therefore you should review that third party's privacy policy. If you lose control of your password, you may lose substantial control over your personally identifiable information and may be subject to legally binding actions taken on your behalf. Whenever there is any risk that your password or account has been compromised for any reason, you should immediately change your password as detailed in Section 6 below and check recent activity on your account.
 
-back to top
-
 ## 7\. Accessing, Reviewing and Changing Your Personally Identifiable Information
 
-We offer you the ability to review and change the information you submit to us by logging into the Site and entering in the new information yourself or by sending us an email to . Upon your written request, we will deactivate your account, contact information, and financial information from our active databases. To make this request, please contact us at . Such information will be deactivated as soon as reasonably possible in accordance with our deactivation policy and applicable law. We will retain in our files information you have requested to remove in some circumstances, such as to resolve disputes, troubleshoot problems and enforce our Visitor Agreement. Further, such prior information is never completely removed from our databases due to technical and legal constraints, including stored "back up" systems. Therefore, you should not expect that all of your personally identifiable information will be completely removed from our databases in response to your requests. New categories of marketing communications may be added to the Marketing Preferences page from time to time. Users who visit this page can opt out of receiving future marketing communications from these new categories or they can unsubscribe by following instructions contained in the messages they receive.
-
-back to top
+We offer you the ability to review and change the information you submit to us by logging into the Site and entering in the new information yourself or by sending us an email to [privacy@autoquake.com](mailto:privacy@autoquake.com). Upon your written request, we will deactivate your account, contact information, and financial information from our active databases. To make this request, please contact us at [privacy@autoquake.com](mailto:privacy@autoquake.com). Such information will be deactivated as soon as reasonably possible in accordance with our deactivation policy and applicable law. We will retain in our files information you have requested to remove in some circumstances, such as to resolve disputes, troubleshoot problems and enforce our Visitor Agreement. Further, such prior information is never completely removed from our databases due to technical and legal constraints, including stored "back up" systems. Therefore, you should not expect that all of your personally identifiable information will be completely removed from our databases in response to your requests. New categories of marketing communications may be added to the Marketing Preferences page from time to time. Users who visit this page can opt out of receiving future marketing communications from these new categories or they can unsubscribe by following instructions contained in the messages they receive.
 
 ## 8\. Other Information Collectors
 
 Except as otherwise expressly included in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you. To the extent that you disclose your information to other parties, whether they are bidders, buyers or sellers on the Site or other sites throughout the Internet, different rules may apply to their use or disclosure of the information you disclose to them. To the extent that we use third party advertisers, they adhere to their own privacy policies. Since Autoquake does not control the privacy policies of third parties, you are subject to the privacy policies of that third party. We encourage you to ask questions before you disclose your personal information to others.
 
-back to top
-
 ## 9\. Security
 
-Autoquake has implemented reasonable security measures in order to protect both personal information from loss, misuse and unauthorized access, disclosure, alteration. We limit access to personal information about you to employees who we believe reasonably need that information to provide products or services to you. Our employees are made aware of and are accountable for compliance with these procedures. All Member accounts are password-protected. We go to great lengths to protect the account information that you have provided us. Access to this information is limited to only the Autoquake employees who need it in order to perform their job function, such as customer service representatives. However, please note that we do not guarantee account security. Hardware or software failure and other factors may lead to a security breach. If you have any questions about this, please contact us at .
-
-back to top
+Autoquake has implemented reasonable security measures in order to protect both personal information from loss, misuse and unauthorized access, disclosure, alteration. We limit access to personal information about you to employees who we believe reasonably need that information to provide products or services to you. Our employees are made aware of and are accountable for compliance with these procedures. All Member accounts are password-protected. We go to great lengths to protect the account information that you have provided us. Access to this information is limited to only the Autoquake employees who need it in order to perform their job function, such as customer service representatives. However, please note that we do not guarantee account security. Hardware or software failure and other factors may lead to a security breach. If you have any questions about this, please contact us at [privacy@autoquake.com](mailto:privacy@autoquake.com).
 
 ## 10\. Changes in our Privacy Policy
 
 As we update and expand our services, this Privacy Policy may change to accurately reflects the regulatory environment and our own data collection and disclosure practices so it is your responsibility to refer back to it periodically.
-
-back to top
