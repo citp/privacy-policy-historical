@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arcadetown.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626142754id_/http%3A//www.arcadetown.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcadetown.com privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228185708id_/http%3A//www.arcadetown.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - ArcadeTown.com
 
@@ -23,10 +23,10 @@ When placing an order, our e-commerce provider will handle your personal informa
 **We have taken the appropriate steps and followed industry standards to secure any personal data stored by our systems.
 
 **THIRD PARTY ADVERTISING  
-**Our web site works with third parties that serve ads to this site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information please see the [FastClick Privacy Statement](http://www.fastclick.com/co_privacy.html), [ MaxOnline Privacy Statement](http://www.networkadvertising.org/optout_nonppii.asp), [ValueClick Privacy Statement](http://www.valueclick.com/privacy.html), [Casale Media Privacy Statement](http://www.casalemedia.com/privacy.html), [Tribal Fusion Privacy Statement](http://www.tribalfusion.com/www/about/privacy.html), and [Google Privacy Statement](http://www.google.com/privacy.html). 
+**Our web site works with third parties that serve ads to this site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information please see the [FastClick Privacy Statement](http://www.fastclick.com/co_privacy.html), [ValueClick Privacy Statement](http://www.valueclick.com/privacy.html), [Casale Media Privacy Statement](http://www.casalemedia.com/privacy.html), [Tribal Fusion Privacy Statement](http://www.tribalfusion.com/www/about/privacy.html), and [Google Privacy Statement](http://www.google.com/privacy.html). 
 
 **EXTERNAL LINKS  
 **This site contains links to other sites. We are not responsible for the privacy practices or the content of such Web sites.
 
 **CONTACTING OUR WEB SITE  
-**If you have any comments or questions about this privacy statement or any other issues you can [contact us](https://web.archive.org/web/20070626142754id_/http%3A//www.arcadetown.com/contact.asp).
+**If you have any comments or questions about this privacy statement or any other issues you can [contact us](https://web.archive.org/contact.asp).
