@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cloncom.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624192757id_/http%3A//www.cloncom.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloncom.com privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228043712id_/http%3A//www.cloncom.com/privacy) for the most accurate reproduction.*
 
 # Calling Cards: Your Phone Card & International Calling Cards Source.
 
@@ -11,14 +11,12 @@ Privacy Policy
 
 Cloncom is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site www.Cloncom.com. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. If you have questions or concerns regarding this statement, you should first contact our Customer Support Department here. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
 
-The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from this site. 
-
+The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from this site.  
 Cloncom knows that you care about how your personal information is used and shared. We appreciate your trust that we will do so carefully and sensibly. This notice describes our Privacy Policy and it is company-wide. For questions regarding the Privacy Notice, please contact us by any of the following:   
-  
-|  |  | Mail:  
+|  |  |  Mail:  
 2202 S. Figueroa St. #711  
 Los Angeles, CA 90007  
-USA | [](http://www.truste.org/ivalidate.php?url=www.cloncom.com&sealid=101)  
+USA  | [](http://www.truste.org/ivalidate.php?url=www.cloncom.com&sealid=101)  
 ---|---|---  
 |   
 |    
@@ -27,8 +25,8 @@ USA | [](http://www.truste.org/ivalidate.php?url=www.cloncom.com&sealid=101)
 ● |  Communications from the Site  
 ● |  Tell-A-Friend  
 ● |  Choice/Opt-out  
-● |  Surveys or Contests   
-● |  Sharing your PII   
+● |  Surveys or Contests  
+● |  Sharing your PII  
 ● | Agents  
 ● |  Cookies  
 ● | Log Files  
@@ -64,10 +62,10 @@ Generally, you may not opt-out of these communications, which are not promotiona
   
 | Back to top  
 |    
-|   Tell-A-Friend   
+|   Tell-A-Friend  
 | 
 
-If you choose to use our referral service to tell a friend about our site, we will ask you for your friend's name and email address. We will automatically send your friend an email inviting him or her to visit the site. After this, no further communications will be sent to your friend unless he or she registers on our site. We store your friend’s name and email address for the sole purpose of monitoring the referral program.  Your friend may contact us [here](https://web.archive.org/contact_us.jsp) to have their information deleted from our database.  
+If you choose to use our referral service to tell a friend about our site, we will ask you for your friend's name and email address. We will automatically send your friend an email inviting him or her to visit the site. After this, no further communications will be sent to your friend unless he or she registers on our site. We store your friend’s name and email address for the sole purpose of monitoring the referral program.  Your friend may contact us [here](https://web.archive.org/contact_us.jsp)to have their information deleted from our database.  
   
 | Back to top  
 |    
@@ -84,7 +82,7 @@ You will be notified when your personal information is collected by any third pa
   
 | Back to top  
 |    
-| **   Surveys or Contests **  
+| **   Surveys or Contests**  
 | 
 
 From time-to-time we may provide you the opportunity to participate in contests or surveys on our site. If you participate, we will request certain personally identifiable information from you. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and shipping address), and demographic information (such as zip code). 
@@ -93,7 +91,7 @@ We will use this information solely to notify winners and award prizes. We will 
   
 | Back to top  
 |    
-|   Sharing your PII   
+|   Sharing your PII  
 | 
 
 We will not sell, rent, lease or disclose your personal information to any third parties in ways other than disclosed in this privacy statement. When making purchases through our website you will be presented with several payment options.  When paying through a third party service, you will be notified that you are being redirected to an outside website. Therefore, all information you enter, will be entered directly on that third party vendor’s website. Please be sure to read their Privacy Policy for more information. 
@@ -102,14 +100,14 @@ We reserve the right to disclose your personally identifiable information as req
   
 | Back to top  
 |    
-|   Agents   
+|   Agents  
 | 
 
 When choosing the credit card option to make your payment through our website, we will share your billing information with an outside credit card processing company to bill you for goods and services. These companies do not retain, share, store or use personally identifiable information for any other purposes.  
   
 | Back to top  
 |    
-|   Cookies   
+|   Cookies  
 | 
 
 A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. 
@@ -124,7 +122,7 @@ Third parties use cookies on this site, which allow them to recognize a user's c
   
 | Back to top  
 |    
-|   Log Files   
+|   Log Files  
 | 
 
 As is true of most Web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, operating system and date/time stamp. 
@@ -135,7 +133,7 @@ We do not link this automatically-collected data to personally identifiable info
   
 | Back to top  
 |    
-|   Changes to this Policy   
+|   Changes to this Policy  
 | 
 
 If we decide to change our Privacy Policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.   
@@ -149,21 +147,21 @@ In the event we go through a business transition, such as a merger, acquisition 
   
 | Back to top |    
 |    
-|   We use appropriate security safeguards   
+|   We use appropriate security safeguards  
 | 
 
 At **Cloncom** security is important. **Cloncom** employs appropriate measures, including advanced technology, to protect personal information collected, including sensitive information such as credit card numbers, against unauthorized access, disclosure, alteration or destruction. These measures may include, among others, SSL encryption, physical access security and other appropriate technologies. **Cloncom** continually reviews and enhances its security systems, as necessary.   
   
 | Back to top  
 |    
-|   Cloncom's Web sites may be linked to other Web sites   
+|   Cloncom's Web sites may be linked to other Web sites  
 | 
 
 **Cloncom** may create links to third-party Web sites. **Cloncom** is not responsible for the content or privacy practices employed by third-party Web sites that are linked to our Web site. Neither does **Cloncom** control or warrant the utility, merchantability or workmanship of the products or services offered at third-party Web sites.   
   
 | Back to top  
 |    
-|   What happens to your Personal Information when you terminate your Account with us?   
+|   What happens to your Personal Information when you terminate your Account with us?  
 | 
 
 If you decide to cancel your account or become an inactive customer, our Privacy Policy will continue to apply. All of your personally identifiable information will be placed in a deactivated status in our database. However, you should know that this deactivation does not mean deletion. We will retain this information, only to be used to resolve dispute or enforce this Policy.   
