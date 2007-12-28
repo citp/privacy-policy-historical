@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the nitropdf.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607174820id_/http%3A//www.nitropdf.com/professional/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nitropdf.com privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228052841id_/http%3A//www.nitropdf.com/professional/privacy_policy.htm) for the most accurate reproduction.*
 
-# Nitro PDF Professional Online Store: Refund policy and conditions
+# Nitro PDF Software privacy policy
 
-At BinaryThing we are committed to ensuring the privacy of your personal information. We understand that privacy of your personal information is important. As part of our commitment to good privacy practice we have adopted the Australian National Privacy Principles prescribed by the Privacy Act (Cth) 1988. Our Privacy Policy tells you how we collect, use, distribute and protect personal information.
+At Nitro PDF we are committed to ensuring the privacy of your personal information. We understand that privacy of your personal information is important. As part of our commitment to good privacy practice we have adopted the Australian National Privacy Principles prescribed by the Privacy Act (Cth) 1988. Our Privacy Policy tells you how we collect, use, distribute and protect personal information.
 
 ### Information we collect
-
-* * *
 
 The types of information we collect and handle normally comprises:  
 
@@ -22,8 +20,6 @@ We only collect information which is necessary for the purposes of your dealings
 
 ### Purpose of collection & use of personal information
 
-* * *
-
 The purpose for which we collect this information is to assist us in providing you with the products and services you have requested. We will not use your personal information for any purpose which is not related to the products or services you have requested or for any purpose which you would not reasonably expect us to use the information.
 
 We will not disclose information about you to anyone else unless the disclosure:
@@ -36,13 +32,9 @@ We will not disclose information about you to anyone else unless the disclosure:
 
 ### Quality & correction
 
-* * *
-
 As the information we hold about you is important to decisions we make about the products and services which we provide to you, we strive to ensure that the information we hold is accurate, complete and up-to-date. To assist us, you should let us know if you find that the personal information we hold about you is inaccurate, incomplete or out-of-date. We will use all reasonable efforts to correct the information.
 
 ### Access
-
-* * *
 
 You may request that we provide you with access to the personal information we hold about you at any time. Generally we will be able to provide you with such access. However, where: 
 
@@ -58,13 +50,9 @@ We may not be able to provide you with access to such information. If we deny yo
 
 ### Personal information security
 
-* * *
-
 We will take all reasonable precautions to protect your personal information from loss, misuse or alteration. This includes both physical and technological security measures.
 
 ### Website
-
-* * *
 
 We only collect personal information from our website if you submit details to us via email or forms on our website. The information collected is limited to your email address and the contents of any message you may send to us. Personal information collected from our website will only be used for the purpose for which you have provided it and it will not be added to a mailing list or used for any other purpose without your consent.
 
@@ -77,12 +65,8 @@ Our website uses two types of cookies:
 
 ### Changes to our Privacy Policy
 
-* * *
-
 From time to time we may make changes to our Privacy Policy. We will publish any changes on our website. This Privacy Policy was last amended 17 March 2006.
 
 ### Contact us
-
-* * *
 
 If you require more detailed information about our information handling practices or if you have any concerns about our handling of your personal information, please let us know by going to the Contact Us webpage on this site.
