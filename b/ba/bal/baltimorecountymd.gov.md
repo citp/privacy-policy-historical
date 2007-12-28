@@ -1,7 +1,11 @@
-> *The following text is extracted and transformed from the baltimorecountymd.gov privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607151315id_/http%3A//www.baltimorecountymd.gov/UserGuide/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baltimorecountymd.gov privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228105440id_/http%3A//www.baltimorecountymd.gov/UserGuide/privacy.html) for the most accurate reproduction.*
 
 # Privacy and Security Notice
 
+|   
+  
+---  
+  
 Baltimore County is committed to protecting your privacy in your electronic communications with us.  During your visit to our site, we will collect information from you. This policy describes the information collected and how it is used.
 
 The type of information we collect depends upon the application used and the products or services requested. Our site includes links to other sites not controlled by Baltimore County. This policy does not apply to those sites. Baltimore County reserves the right to change this policy at any time without prior notice.
@@ -20,7 +24,6 @@ Information provided to any state or local government entity is subject to the P
 
 We are committed to using any information you provide to us in a responsible manner.  All information you provide is only accessible by a limited number of Baltimore County agents and employees who need access to the information to perform their assigned duties.  Where appropriate, we will also use encryption technology.  As you use our applications or web pages, we will inform you if the information will be encrypted.
 
-Baltimore County welcomes your comments or questions regarding this policy. You may contact us at [webmaster@co.ba.md.us](https://web.archive.org/Contact/webmaster)
+Baltimore County welcomes your comments or questions regarding this policy. You may contact us at [webmaster@baltimorecountymd.gov](https://web.archive.org/Contact/webmaster)
 
- _Revised September 23, 2003_  
-
+ _Revised October 9, 2007_
