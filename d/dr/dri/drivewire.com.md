@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the drivewire.com privacy policy that was archived on 2007-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070612141736id_/http%3A//www.drivewire.com/001supportingfiles/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drivewire.com privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228221239id_/http%3A//www.drivewire.com/001supportingfiles/privacypolicy.html) for the most accurate reproduction.*
 
-# Drivewire Auto Parts – Privacy Policy
+# Drivewire Privacy Policy
 
-[](http://www.truste.org/ivalidate.php?url=www.drivewire.com&sealid=101) **Last Updated September 14, 2005**
+**Last Updated September 14, 2007**
 
 **Overview**
 
@@ -158,12 +158,8 @@ Back to Top
 
 **13\. Privacy Policy Changes**
 
-This Privacy Policy was last changed on September 13, 2005. If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.  We reserve the right to modify this privacy statement at any time, so please review it frequently.  If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our homepage. 
+This Privacy Policy was last changed on September 13, 2007. If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.  We reserve the right to modify this privacy statement at any time, so please review it frequently.  If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our homepage. 
 
-**14\. TRUSTe Licensee**
-
-[](http://www.truste.org/ivalidate.php?url=www.drivewire.com&sealid=101) Auto Service Group Inc. is a licensee of the TRUSTe Privacy Program.  TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices.  This privacy statement covers the site [www.drivewire.com](http://www.drivewire.com/). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
-
-If you have questions or concerns regarding this statement, you should first contact Drivewire’s Privacy Policy Manager at 800.895.8910.  If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns. 
+If you have questions or concerns regarding this statement, you should first contact Drivewire’s Privacy Policy Manager at 949-748-6400. or at [privacy@drivewire.com](mailto:privacy@drivewire.com)
 
 Back to Top
