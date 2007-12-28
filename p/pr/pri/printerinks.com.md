@@ -1,9 +1,7 @@
-> *The following text is extracted and transformed from the printerinks.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624022519id_/http%3A//www.printerinks.com/stAntispam.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printerinks.com privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228222706id_/http%3A//www.printerinks.com/stAntispam.htm) for the most accurate reproduction.*
 
 # Discount Inkjet cartridges suitable for Epson Canon HP and Lexmark Printers - Printerinks.com
 
-[](http://www.printerinks.com/Contactus.htm) [ ](http://server.iad.liveperson.net/hc/12921537/?cmd=file&file=visitorWantsToChat&site=12921537&byhref=1&imageUrl=http://www.printerinks.com/images) Printer Inks supplies laser toner cartridges and many different toners for printers. Browse hundreds of toners for your printer or peruse the many ink jet cartridges available  
-  
 |   
 | Printerinks.com's Anti-Spam Policy  
 ---  
@@ -41,7 +39,7 @@ Should you have other questions or concerns about these privacy policies, please
 ---|---  
 | Our Commitment to Your Security   
 ---  
-|  | Our Commitment to Your Satisfaction  
+    |  |  | Our Commitment to Your Satisfaction  
 ---  
 |    
 ---  
