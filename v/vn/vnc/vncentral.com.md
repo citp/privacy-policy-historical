@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vncentral.com privacy policy that was archived on 2007-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070628185506id_/http%3A//www.vncentral.com/legal/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vncentral.com privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228063704id_/http%3A//www.vncentral.com/legal/privacypolicy.asp) for the most accurate reproduction.*
 
-# VNCentral.com: Your Online Central Community & Resource
+# VNCentral - An Online Social Community and Entertainment Company
 
 **NOTICE**   
 VNCentral will notify you when it is collecting personally identifiable information about you, as well as the use or uses VNCentral intends to make with such information. For example, we may need to collect information to respond to your requests for search results, buying products, requesting information, or to allow you to send or post messages, or for billing purposes. We also keep information about customers, individual shopping sessions, and purchases in a secure database on our servers in order to fulfill online transaction and banking requirements. 
