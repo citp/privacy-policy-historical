@@ -1,12 +1,15 @@
-> *The following text is extracted and transformed from the iobit.com privacy policy that was archived on 2007-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070602062343id_/http%3A//iobit.com/iobitprivacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iobit.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229005731id_/http%3A//www.iobit.com/privacy.html) for the most accurate reproduction.*
 
-# IObit Privacy Policy
+# IObit - Privacy
+
+IObit Privacy Policy  
+Last Updated: July 10, 2006
 
 IObit is committed to protecting your privacy. Please read the IObit Online Privacy Statement below and also any supplemental information listed to the right for additional details about particular IObit sites and services that you may use.
 
 This IObit Online Privacy Statement applies to data collected by IObit through the majority of its Web sites and services, as well as its offline product support services. It does not apply to those IObit sites, services and products that do not display or link to this statement or that have their own privacy statements.
 
-If you have any questions about this Policy, please feel free to [contact us](https://web.archive.org/web/20070602062343id_/http%3A//iobit.com/contact.html).
+If you have any questions about this Policy, please feel free to [contact us.](https://web.archive.org/web/20071229005731id_/http%3A//www.iobit.com/contact.html)
 
  **Collection of Your Personal Information**
 
@@ -40,7 +43,7 @@ We may access and/or disclose your personal information if we believe such actio
 
 You may have the ability to view or edit your personal information online. In order to help prevent your personal information from being viewed by others, you will be required to sign in with your credentials (e-mail address and password). The appropriate method(s) for accessing your personal information will depend on which sites or services you have used. 
 
-  * **IObit Billing  and Account Services **\- If you have a IObit Billing account, you can add to or update your information at the _IObit Billing website_ by clicking on the "Personal Information" or "Billing Information" links. 
+  * **IObit Billing and Account Services** \- If you have a IObit Billing account, you can add to or update your information at the _IObit Billing website_ by clicking on the "Personal Information" or "Billing Information" links. 
   * **IObit Newsletter** \- If you have used IObit Newsletter service, you can update your profile information, change your password, view the unique ID associated with your credentials, or close certain accounts by visiting _Account Services_. 
   * **IObit Partner Programs** \- If you are registered with IObit Partner Programs, you can review and edit your profile by clicking _Manage Your Account_ on the Partner Program website. 
 
@@ -91,4 +94,4 @@ We will occasionally update this privacy statement to reflect changes in our ser
 
  **Contacting Us**
 
-IObit welcomes your comments regarding this privacy statement. If you have questions about this statement or believe that we have not adhered to it, please [contact us](https://web.archive.org/web/20070602062343id_/http%3A//iobit.com/contact.html).
+IObit welcomes your comments regarding this privacy statement. If you have questions about this statement or believe that we have not adhered to it, please [contact us.](https://web.archive.org/web/20071229005731id_/http%3A//www.iobit.com/contact.html)
