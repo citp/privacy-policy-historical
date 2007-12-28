@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mapnation.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630222334id_/http%3A//dev.mapnation.com/new/pages/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mapnation.com privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228233313id_/http%3A//dev.mapnation.com/new/pages/privacy.htm) for the most accurate reproduction.*
 
 # MapNation
 
@@ -19,7 +19,7 @@ Do Not Call Registry Compliance:
 By submitting personal contact and/or financial information to MapNation through this website or any of its affiliated online properties, you hereby grant written permission to MapNation, its affiliated websites, and its business partners to contact you by telephone, mail, and/or e-mail. Further, by registering with MapNation through this website or any of its affiliated online properties you are consenting to receive phone calls from MapNation, its affiliated websites, and its business partners for contact via telephone, including but not limited to lenders that may contact you regarding credit counseling and thereby registrants waive their right to file a claim with the FTC or any other agency in reference to these calls or contacts. 
 
 Opt-Out Opportunity:   
-MapNation registrants may opt-out of receiving further communications from MapNation at any time by following the "unsubscribe" instructions in any MapNation e-mail received by registrant or by sending an email to [unsubscribe@MapNation.com](mailto:unsubscribe@mapnation.com). Please note that unsubscribing from one email list does not automatically unsubscribe you from any other email list that you may be on. Please read the email carefully to find out which list you are unsubscribing from. 
+MapNation registrants may opt-out of receiving further communications from MapNation at any time by following the "unsubscribe" instructions in any MapNation e-mail received by registrant or by clicking the unsubscribe link [here](http://www.dnelist.com/u/bf8b8e295c02747ddb9ced3b2555415115). Please note that unsubscribing from one email list does not automatically unsubscribe you from any other email list that you may be on. Please read the email carefully to find out which list you are unsubscribing from.
 
 Children's Privacy:   
 Protecting the privacy of the very young is especially important to us. For that reason, we never collect or maintain information from those we actually know are under 18, and no part of our website is structured to attract or intended for anyone under 18 years of age. 
