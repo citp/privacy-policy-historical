@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neurologychannel.com privacy policy that was archived on 2007-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070519211532id_/http%3A//www.neurologychannel.com/common/privacystatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neurologychannel.com privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228123227id_/http%3A//www.neurologychannel.com/common/privacystatement.html) for the most accurate reproduction.*
 
 # Privacy Statement - Healthcommunities.com
 
@@ -16,12 +16,14 @@ The information below discloses the privacy practices of Healthcommunities.com, 
   * [**flu** channel](http://www.fluchannel.com/)
   * [Healthcommunities.com](http://www.healthcommunities.com/)
   * [**healthinfo** channel](http://www.healthinfochannel.com/)
+  * [**hiv** channel](http://www.hivchannel.com/)
   * [**lgbthealth** channel](http://www.lgbthealthchannel.com/)
   * [**malehealth** channel](http://www.malehealthchannel.com/)
   * [**mentalhealth** channel](http://www.mentalhealthchannel.net/)
   * [**nephrology** channel](http://www.nephrologychannel.com/)
   * [**neurology** channel](http://www.neurologychannel.com/)
   * [**oncology** channel](http://www.oncologychannel.com/)
+  * [**pain** channel](http://www.painchannel.com/)
   * [**podiatry** channel](http://www.podiatrychannel.com/)
   * [**pulmonology** channel](http://www.pulmonologychannel.com/)
   * [**radiology** channel](http://www.radiologychannel.net/)
@@ -91,4 +93,4 @@ Suite 201
 Northampton, MA 01060  
 [Contact Us](http://www.healthcommunities.com/corporate/contactus.shtml)
 
-This page last modified: June 15, 2006 
+This page last modified: July 24, 2007 
