@@ -1,96 +1,103 @@
-> *The following text is extracted and transformed from the herbalremedies.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herbalremedies.com privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 | 
 
+[ ](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/exnatrem.html)[ ](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/vitamin-coupons-savings.html) **_[ Coupons](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/vitamin-coupons-savings.html)_**  
+  
+---  
+  
   
 **Shop By:**  
   
----  
-[ ](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/exnatrem.html) [ Supplement Index](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/exnatrem.html)  
-[ ](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/remforcomail.html) [ Ailment Index](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/remforcomail.html)  
-[ ](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/shop-by-category.html) [ Category Index](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/shop-by-category.html)   
+[ ](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/exnatrem.html) [ Supplement Dictionary](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/exnatrem.html)  
+[ ](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/remforcomail.html) [ Ailment Index](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/remforcomail.html)  
+[ ](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/shop-by-category.html) [ Category Index](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/shop-by-category.html)   
    
   
 **Shop By Supplement:**  
   
-[ ](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/aminoacids.html) [ Amino Acid Supplements](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/aminoacids.html)  
-[ ](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/antioxidants.html) [ Antioxidant Supplements](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/antioxidants.html)  
-[ ](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/chlorella1.html) [ Chlorella Supplements](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/chlorella1.html)  
-[ ](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/colostrum.html) [Colostrum Supplements](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/colostrum.html)  
-[ ](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/enzymes.html) [ Enzyme Supplements](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/enzymes.html)  
-[ ](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/otpowphytpro.html) [ Fruit Supplements](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/otpowphytpro.html)  
-[ ](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/hersinforchi.html) [ Herb Supplements](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/hersinforchi.html)  
-[ ](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/miracle-waters.html) [ Mineral Supplements](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/miracle-waters.html)  
-[ ](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/mulvitmulmul.html) [ Multi-Vitamins & Minerals](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/mulvitmulmul.html)  
-[ ](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/esfatac.html) [ Omega 3,6,9 Supplements](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/esfatac.html)  
-[ ](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/probiotics.html) [ Probiotic Supplements](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/probiotics.html)  
-[ ](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/protein.html) [ Protein Supplements](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/protein.html)  
-[ ](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/spirlisofpro.html) [ Spirulina Supplements](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/spirlisofpro.html)  
-[ ](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/otpowphytpro.html) [ Vegetable Supplements](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/otpowphytpro.html)  
-[ ](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/vitamins.html) [ Vitamin Supplements](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/vitamins.html)  
-[ ](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/complete-list-of-products.html) [More Supplements A-Z...](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/complete-list-of-products.html)  
+[ ](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/aminoacids.html) [ Amino Acid Supplements](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/aminoacids.html)  
+[ ](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/antioxidants.html) [ Antioxidant Supplements](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/antioxidants.html)  
+[ ](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/chlorella1.html) [ Chlorella Supplements](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/chlorella1.html)  
+[ ](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/colostrum.html) [Colostrum Supplements](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/colostrum.html)  
+[ ](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/enzymes.html) [ Enzyme Supplements](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/enzymes.html)  
+[ ](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/green-foods-products.html) [ Green Food Supplements](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/green-foods-products.html)  
+[ ](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/otpowphytpro.html) [ Fruit Supplements](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/otpowphytpro.html)  
+[ ](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/hersinforchi.html) [ Herbal Supplements](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/herbal-supplements-products.html)  
+[ ](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/miracle-waters.html) [ Mineral Supplements](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/miracle-waters.html)  
+[ ](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/mulvitmulmul.html) [ Multi-Vitamins & Minerals](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/mulvitmulmul.html)  
+[ ](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/esfatac.html) [ Omega 3,6,9 Supplements](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/esfatac.html)  
+[ ](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/probiotics.html) [ Probiotic Supplements](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/probiotics.html)  
+[ ](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/protein.html) [ Protein Supplements](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/protein.html)  
+[ ](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/spirlisofpro.html) [ Spirulina Supplements](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/spirlisofpro.html)  
+[ ](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/otpowphytpro.html) [ Vegetable Supplements](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/otpowphytpro.html)  
+[ ](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/vitamins.html) [ Vitamin Supplements](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/vitamins.html)  
+[ ](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/complete-list-of-products.html) [More Supplements A-Z...](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/complete-list-of-products.html)  
    
   
 **Shop By Category:**  
   
-[ ](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/dietsupweigl.html) [ Diet & Weight Loss](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/dietsupweigl.html)  
-[ ](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/libido.html) [ Sexual Enhancement](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/libido.html)  
-[ ](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/detoxifcation.html) [ Internal Detox Cleanse](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/detoxifcation.html)  
-[ ](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/womthatwanla.html) [Women’s Health](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/womthatwanla.html)  
-[ ](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/formenonifyo.html) [Men’s Health](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/formenonifyo.html)  
-[ ](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/herremforchi.html) [Child Health](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/herremforchi.html)  
-[ ](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/sporbodfit.html) [Sports & Fitness](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/sporbodfit.html)  
-[ ](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/pascalite.html) [Body & Bath](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/pascalite.html)  
-[ ](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/lavcos.html) [Natural Cosmetics](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/lavcos.html)  
-[ ](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/medicinal-salves--ointments---soaps.html) [Salves & Ointments](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/medicinal-salves--ointments---soaps.html)  
-[ ](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/hertonel.html) [Herbal Teas & Drinks](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/hertonel.html)  
-[ ](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/essentialoils.html) [ Essential Oils](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/essentialoils.html)  
-[ ](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/naturalpetcare.html) [Natural Pet Care](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/naturalpetcare.html)  
-[Health Books](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/booknatheal.html)  
-[More Categories ...](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/shop-by-category.html)  
+[ ](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/dietsupweigl.html) [ Diet & Weight Loss](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/dietsupweigl.html)  
+[ ](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/libido.html) [ Sexual Enhancement](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/libido.html)  
+[ ](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/detoxifcation.html) [ Internal Detox Cleanse](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/detoxifcation.html)  
+[ ](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/womthatwanla.html) [Women’s Health](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/womthatwanla.html)  
+[ ](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/formenonifyo.html) [Men’s Health](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/formenonifyo.html)  
+[ ](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/herremforchi.html) [Child Health](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/herremforchi.html)  
+[ ](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/vegetarian-products.html) [Vegetarian Supplements](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/vegetarian-products.html)  
+[ ](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/sporbodfit.html) [Sports & Fitness](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/sporbodfit.html)  
+[ ](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/pascalite.html) [Body & Bath](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/pascalite.html)  
+[ ](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/lavcos.html) [Natural Cosmetics](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/lavcos.html)  
+[ ](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/medicinal-salves--ointments---soaps.html) [Salves & Ointments](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/medicinal-salves--ointments---soaps.html)  
+[ ](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/hertonel.html) [Herbal Teas & Drinks](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/hertonel.html)  
+[ ](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/essentialoils.html) [ Essential Oils](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/essentialoils.html)  
+[ ](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/naturalpetcare.html) [Natural Pet Care](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/naturalpetcare.html)  
+[Health Books](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/booknatheal.html)  
+[More Categories ...](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/shop-by-category.html)  
    
   
 **Shop By Therapies:**  
   
-[ ](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/precar.html) [Aromatherapy](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/precar.html)  
-[ ](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/homeopathics.html) [Homeopathy](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/homeopathics.html)  
-[ ](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/ayurvedic.html) [Ayurvedic](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/ayurvedic.html)  
-[ ](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/ancient-herbal-cures-from-china.html) [Chinese Medicine](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/ancient-herbal-cures-from-china.html)  
-[ ](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/magnetic-therapy-products.html) [Magnetic Therapy](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/magnetic-therapy-products.html)  
-[ ](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/orthopedic-braces-supports-body.html) [Orthopedic Braces](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/orthopedic-braces-supports-body.html)  
+[ ](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/precar.html) [Aromatherapy](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/precar.html)  
+[ ](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/homeopathics.html) [Homeopathy](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/homeopathics.html)  
+[ ](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/ayurvedic.html) [Ayurvedic](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/ayurvedic.html)  
+[ ](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/ancient-herbal-cures-from-china.html) [Chinese Medicine](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/ancient-herbal-cures-from-china.html)  
+[ ](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/magnetic-therapy-products.html) [Magnetic Therapy](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/serenity.html)  
+[ ](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/orthopedic-braces-supports-body.html) [Orthopedic Braces](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/orthopedic-braces-supports-body.html)  
    
   
 **Shop By Brand:**  
   
-[ ](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/barleans.html) [ Barlean's](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/barleans.html)  
-[ ](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/berbeescomso.html) [ Burt’s Bees](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/berbeescomso.html)  
-[](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/dr-clark-purity-products.html) [Dr Hulda Clark](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/dr-clark-purity-products.html)  
-[](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/irwin-naturals.html) [Irwin Naturals](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/irwin-naturals.html)  
-[ ](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/kiss-my-face.html) [ Kiss My Face](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/kiss-my-face.html)  
-[ ](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/ahrwa.html) [Nature’s Way](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/ahrwa.html)  
-[ ](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/now-foods.html) [Now Foods](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/now-foods.html)  
-[ ](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/republicofteas.html) [Republic of Tea](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/republicofteas.html)  
-[](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/tea-tree-therapy.html) [Tea Tree Oil Therapy](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/tea-tree-therapy.html)  
-[ ](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/yogi-tea.html) [Yogi Tea](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/yogi-tea.html)  
-[ ](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/shopbybrand.html) [More Brands...](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/shopbybrand.html)  
+[ ](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/barleans.html) [ Barlean's](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/barleans.html)  
+[ ](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/berbeescomso.html) [ Burt’s Bees](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/berbeescomso.html)  
+[ ](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/dr-bronner-s-castile-soap.html) [Dr Bronner's Castile Soap](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/dr-bronner-s-castile-soap.html)  
+[](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/dr-clark-purity-products.html) [Dr Hulda Clark](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/dr-clark-purity-products.html)  
+[](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/irwin-naturals.html) [Irwin Naturals](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/irwin-naturals.html)  
+[ ](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/kiss-my-face.html) [ Kiss My Face](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/kiss-my-face.html)  
+[ ](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/ahrwa.html) [Nature’s Way](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/ahrwa.html)  
+[ ](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/now-foods.html) [Now Foods](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/now-foods.html)  
+[ ](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/republicofteas.html) [Republic of Tea](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/republicofteas.html)  
+[](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/tea-tree-therapy.html) [Tea Tree Oil Therapy](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/tea-tree-therapy.html)  
+[ ](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/yogi-tea.html) [Yogi Tea](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/yogi-tea.html)  
+[ ](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/shopbybrand.html) [More Brands...](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/shopbybrand.html)  
    
   
 **Shopping Assistance:**  
   
-[ ](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/info.html) [Contact Us](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/info.html)  
-[ ](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/shippolandra.html) [Ordering & Shipping](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/shippolandra.html)  
-[ ](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/shippolandra.html#10) [Return Policies](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/shippolandra.html#10)  
-[ ](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/privacypolicy.html) [Privacy Policy](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/privacypolicy.html)  
-[ ](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/telusyourtho.html) [Testimonials](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/telusyourtho.html)  
-[ ](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/telusyourtho.html) [Newsletter](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/telusyourtho.html)  
-[ ](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/jobopportunity.html) [Job Opportunities](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/jobopportunity.html)  
-[ ](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/affiliates.html) [Affiliate Marketing](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/affiliates.html)  
-[ ](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/resellers1.html) [Wholesale](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/resellers1.html)  
+[ ](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/info.html) [Contact Us](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/info.html)  
+[ ](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/shippolandra.html) [Ordering & Shipping](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/shippolandra.html)  
+[ ](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/shippolandra.html#10) [Return Policy](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/return-policy.html)  
+[ ](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/privacypolicy.html) [Privacy Policy](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/privacypolicy.html)  
+[ ](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/telusyourtho.html) [Testimonials](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/telusyourtho.html)  
+[ ](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/telusyourtho.html) [Newsletter](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/telusyourtho.html)  
+[ ](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/jobopportunity.html) [Job Opportunities](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/jobopportunity.html)  
+[ ](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/affiliates.html) [Affiliate Marketing](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/affiliates.html)  
+[ ](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/resellers1.html) [Wholesale](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/resellers1.html)  
+[ ](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/about-us-herbal-remedies-usa.html) [About US](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/about-us-herbal-remedies-usa.html)  
    
   
-[**Site Index**](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/ind.html)  
+**[ Site Index](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/ind.html)**  
   
 **   
 ** **Shipping Rates  
@@ -106,104 +113,103 @@ Worldwide $21.99 - up
 [Email us](mailto:information@herbalremedies.com) or  
 Call Toll-Free  
 1-866-467-6444  
-Mon-Fri 8:00 am to 6:00 pm MST 
+Mon-Fri 8:00 am to 5:00 pm MST 
 
-[ Shipping FAQ](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/faq.html)
+[ Shipping FAQ](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/faq.html)
 
 ** Great Natural Products**
 
-** [ ](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/bach-flower-remedy.html)  
-[ Bach Flower Set - 38 Bach Flower Essences Complete Set With Free Leather Case & Book](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/bach-flower-remedy.html)  
- Our Low price: **$359.00****
+** [ ](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/mistletoe-candle.html)  
+[Country Barn Soy Jar Candle Christmas Mistletoe Scent](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/mistletoe-candle.html)  
+Our Low price:  **$10.99****
 
-**[ ](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/uoclear60caps.html)  
-[ U O Clear Ovarian Cyst & Fibroid Support](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/uoclear60caps.html)  
+**[ ](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/uoclear60caps.html)  
+[ U O Clear Ovarian Cyst & Fibroid Support](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/uoclear60caps.html)  
 ** **Our Low price: $41.95  
-****[ Herbal Supplements](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/exnatrem.html)**
+****[ Herbal Supplements](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/exnatrem.html)**
 
-** [ ](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/detoxify-product.html)  
-[ Body Pure Foot Pads Detoxifying Product](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/detoxify-product.html)** **  
+** [ ](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/shampoo-biotin-vitamin-b.html)  
+[Biotin B Complex Thickening Shampoo, Avalon Organics, 14 fl oz](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/shampoo-biotin-vitamin-b.html)  
+Our Low price:  **$7.99****
+
+** [ ](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/detoxify-product.html)  
+[ Body Pure Foot Pads Detoxifying Product](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/detoxify-product.html)** **  
 Our Low price: $27.94  
-** **[ Detoxification](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/detoxifcation.html)**
+** **[ Detoxification](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/detoxifcation.html)**
 
-** [ ](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/1315.html)  
-[MSM Supplement 1000mg - 120 Caps Pure Lignisul with Free 4 oz. Lotion](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/1315.html)  
-Our Low price: **$13.99****
+** [ ](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/camu-camu.html)  
+[ Camu Camu Juice](http://www.herbalremedies.com/camu-camu.html)  
+Our Low price: $9.95**
 
-** [ ](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/acai-juice.html)  
-[ Acai Juice 32 fl. oz.](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/acai-juice.html)  
-[ Now Foods](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/now-foods.html)  
-Our Low price: $11.99**
+** [ ](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/papaya-juice.html)  
+[ Fermented Papaya Juice](http://www.herbalremedies.com/papaya-juice.html)  
+Our Low price: ** $4.12****
 
-** [ ](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/aloe-vera-juice.html)  
-[Aloe Vera Juice, Herbal Aloe Force, Organically Grown Unprocessed Whole Raw Aloe Vera - 33.8 fl. oz.](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/aloe-vera-juice.html)  
-Our Low price: ** $19.75****
-
-** [ ](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/7daysmokeaway.html)  
-[Smokers Rescue, 7-Day Stop Smoking System, STOP the Urge to Smoke, Away with Cravings in 7 Days! Compares to Smoke Away](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/7daysmokeaway.html)  
+** [ ](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/7daysmokeaway.html)  
+[Smokers Rescue, 7-Day Stop Smoking System, STOP the Urge to Smoke, Away with Cravings in 7 Days! Compares to Smoke Away](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/7daysmokeaway.html)  
 Our Low price: **$49.95****
 
-** [ ](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/snoreclipse.html)  
-[ Snoreclipse Snoring Solution - The Hi-Tech Anti-Snoring Device](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/snoreclipse.html)  
-** ** Our Low price: $11.94**
+** [ ](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/1315.html)  
+[MSM Supplement 1000mg - 120 Caps Pure Lignisul with Free 4 oz. Lotion](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/1315.html)  
+Our Low price: **$13.99****
 
-**[ ](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/renewal-hgh.html)  
-[ Renewal HGH Advanced, The Next Generation of Oral Growth Hormone - 1 fl. oz.](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/renewal-hgh.html)  
+** [ ](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/bach-flower-remedies-set.html)  
+[ Bach Flower Set - 38 Bach Flower Essences](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/bach-flower-remedies-set.html)  
+ Our Low price: **$359.00****
+
+** [ ](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/rasp-calm.html)  
+[Natural Calm Anti-Stress Drink - Raspberry Lemon, Peter Gillham's Natural Vitality, 8 oz](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/rasp-calm.html)  
+** ** Our Low price: $16.67**
+
+**[ ](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/renewal-hgh.html)  
+[ Renewal HGH Advanced, The Next Generation of Oral Growth Hormone - 1 fl. oz.](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/renewal-hgh.html)  
 Our Low price: ****$24.95  
-[All Renewal Products](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/renewal.html)**
+[All Renewal Products](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/renewal.html)**
 
-[ ](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/almulvitirfr.html)**  
-[Alive! Whole Food Energizer Multi-Vitamin & Mineral with Naturally Occurring Iron ( No Iron Added ), Nature's Way - 90 Tabs](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/almulvitirfr.html)  
-** ** Our Low price: **$13.49****
+[ ](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/almulvitirfr.html)**  
+[Alive! Whole Food Energizer Multi-Vitamin & Mineral with Naturally Occurring Iron ( No Iron Added ), Nature's Way - 90 Tabs](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/almulvitirfr.html)  
+** ** Our Low price: **$15.95****
 
-** [ ](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/face-hair-remover-cream-hair-removal-cream.html)  
-[ Hair No More Vanishing Cream, Face & Body Hair Remover, Hair Removal Cream - 6 oz. (180 ml)](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/face-hair-remover-cream-hair-removal-cream.html)  
-Our Low price: **$24.95****
+** [ ](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/peppermint-castile-liquid-soap.html)  
+[Dr. Bronner's Peppermint Organic Liquid Castile Soap - 32 oz.](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/peppermint-castile-liquid-soap.html)  
+Our Low price: **$12.00****
 
 **
 
-[ ](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/mihobolo7flo.html)  
-[Burt's Bees Milk and Honey Body Lotion, 7 fl. oz. ](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/mihobolo7flo.html)   
-Our Low price:  **$8.99**
+[ ](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/beeswaxlipba.html)  
+[Burt's Bees Beeswax Lip Balm - 0.15 oz. Tube](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/beeswaxlipba.html)  
+Our Low price:  **$2.39**
 
-[ ](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/aloil100pur1.html)  
-[Sweet Almond Oil, Now Foods, 100% Pure Essential Oil, 16 fl. oz.](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/aloil100pur1.html)  
+[ ](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/aloil100pur1.html)  
+[Sweet Almond Oil, Now Foods, 100% Pure Essential Oil, 16 fl. oz.](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/aloil100pur1.html)  
 Our Low price: **$6.29**
 
 [   
-Aoqili Seaweed Soap ( Defat )](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/seawsoapaoqp.html)  
+Aoqili Seaweed Soap ( Defat )](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/seawsoapaoqp.html)  
 Our Low price: **$3.99**  
-[ Natural Soap](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/bodcleandeod.html)
+[ Natural Soap](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/bodcleandeod.html)
 
-[ ](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/dmsospray.html)  
-[ DMSO Spray 99.9% Pure Concentrate, 8 fl oz](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/dmsospray.html)  
+[ ](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/dmsospray.html)  
+[ DMSO Spray 99.9% Pure Concentrate, 8 fl oz](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/dmsospray.html)  
 Our Low price: **$9.95**  
-[DMSO Products](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/dmso.html)
+[DMSO Products](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/dmso.html)
 
-[ ](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/blchfrex750m.html)  
-[ Black Cherry Fruit Extract 750mg NOW Foods - 90 Vcaps](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/blchfrex750m.html)  
-Our Low price:  **$10.19**
-
-[ ](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/pau-d-arco.html)  
-[ Pau D'Arco Tea Incan Purple Lapacho](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/pau-d-arco.html)  
+[ ](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/pau-d-arco.html)  
+[ Pau D'Arco Tea Incan Purple Lapacho](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/pau-d-arco.html)  
 Our Low price: ** $24.95  
 ** [ Incan Lapacho Co.](http://www.herbalremedies.com/Incan%20Lapacho%20Co.html)
 
-[ ](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/basic-cervical-pillow.html)  
-[ Cervical Pillow, Basic Firm Support - 22" x 14 1/2"](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/basic-cervical-pillow.html) **  
+[ ](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/basic-cervical-pillow.html)  
+[ Cervical Pillow, Basic Firm Support - 22" x 14 1/2"](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/basic-cervical-pillow.html) **  
 ** Our Low price: **$25.87**
 
-[ ](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/alsterfunrem.html)  
-[Fungus Relief Remedy - 2 fl. oz (60ml) New Larger Size](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/alsterfunrem.html)  
-Our Low price:  **$29.95**
-
-[ ](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/detoxamin.html)  
-[Detoxamin EDTA Chelation Therapy Suppositories](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/detoxamin.html)  
+[ ](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/detoxamin.html)  
+[Detoxamin EDTA Chelation Therapy Suppositories](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/detoxamin.html)  
 Our Low price: **$258.95**  
-[EDTA Chelation](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/edtachelation.html)
+[EDTA Chelation](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/edtachelation.html)
 
-[ ](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/fulmincom32o.html)  
-[ Fulvic Mineral Complex](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/fulmincom32o.html)  
+[ ](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/fulmincom32o.html)  
+[ Fulvic Mineral Complex](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/fulmincom32o.html)  
 Our Low price: **$28.94**  
 **[ Vital Earth](http://www.herbalremedies.com/vital-earth.html)**
 
@@ -215,7 +221,7 @@ Guarantee
  **HerbalRemedies.com  
 Your Complete Herbal Supplement Super Store!**
 
-| [](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/index.html)
+| [](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/index.html)
 
 _This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the[Yahoo! Privacy Policy](http://privacy.yahoo.com/privacy/us/) for more information about how Yahoo! uses this information._
 
@@ -265,10 +271,10 @@ ___________________________________________
   1. You can send mail to the following postal address:  Herbal Remedies USA LLC  
 225 N Wolcott  
 Casper, Wyoming 82601  
-e-mail us at[ information@herbalremedies.com.](mailto:hremedies@qwest.net)*   
+e-mail us at[ information@herbalremedies.com.](mailto:information@herbalremedies.com)*   
 Fax us at: (1-307-577-6464)   
-Other Email Addresses: [abuse@herbalremedies.com](mailto:hremedies@qwest.net) [help@herbalremedies.com](mailto:hremedies@qwest.net) [sales@herbalremedies.com](mailto:hremedies@qwest.net)  
-  2. You can call the following telephone number: In the USA Toll FREE 1-866-467-6444 or World Wide 1-307-577-6444 (Monday - Friday 8:00 am to 8:00 pm and Saturdays from 10:00 am to 4:00 pm MST). 
+Other Email Addresses: [abuse@herbalremedies.com](mailto:abuse@herbalremedies.com) [help@herbalremedies.com](mailto:help@herbalremedies.com) [sales@herbalremedies.com](mailto:sales@herbalremedies.com)  
+  2. You can call the following telephone number: In the USA Toll FREE 1-866-467-6444 or World Wide 1-307-577-6444 (Customer Service Hours: Monday - Friday 8:00 am to 5:00 pm MST). 
 
 Back to Top   
 ___________________________________________
@@ -280,9 +286,9 @@ This site gives users the following options for changing and modifying informati
   1. You can send mail to the following postal address:  Herbal Remedies USA LLC  
 225 N Wolcott  
 Casper, Wyoming 82601  
-e-mail us at[ information@herbalremedies.com.](mailto:hremedies@qwest.net)*   
+e-mail us at[ information@herbalremedies.com.](mailto:information@herbalremedies.com)*   
 Fax us at: (1-307-577-6464) 
-  2. You can call the following telephone number: In the USA Toll FREE 1-866-467-6444 or World Wide 1-307-577-6444 (Monday - Fridays 8:00 am to 8:00 pm and Saturdays from 10:00 am to 4:00 pm MST). 
+  2. You can call the following telephone number: In the USA Toll FREE 1-866-467-6444 or World Wide 1-307-577-6444 (Customer Service: Monday - Friday 8:00 am to 5:00 pm MST). 
 
   
 Back to Top  
@@ -295,9 +301,9 @@ If you have any questions about this privacy statement, the practices of this si
   1. You can send mail to the following postal address:  Herbal Remedies USA LLC  
 225 N Wolcott  
 Casper, Wyoming 82601  
-e-mail us at[ information@herbalremedies.com.](mailto:hremedies@qwest.net)*   
+e-mail us at[ information@herbalremedies.com.](mailto:information@herbalremedies.com)*   
 Fax us at: 1-307-577-6464 
-  2. You can call the following telephone number: In the USA Toll FREE 1-866-467-6444 or World Wide 1-307-577-6444 (Monday - Friday 8:00 am to 8:00 pm and Saturdays from 10:00 am to 4:00 pm MST). 
+  2. You can call the following telephone number: In the USA Toll FREE 1-866-467-6444 or World Wide 1-307-577-6444 (Customer Service: Monday - Friday 8:00 am to 5:00 pm MST). 
 
   
 Back to Top  
@@ -311,7 +317,7 @@ Unless otherwise indicated, the statements contained on the Herbal Remedies USA 
 
 The information on this Web site is designed for educational purposes only. It is not intended to be a substitute for informed medical advice or care. You should not use this information to diagnose or treat any health problems or illnesses without consulting your pediatrician or family doctor. Please consult a doctor with any questions or concerns you might have regarding your or your child's condition.
 
-©2001,2002,2003,2004 Herbal Remedies USA™ is a trademark of Herbal Remedies USA, LLC. All rights reserved. Informational material and representations have been provided by the manufacturers of the listed products. For assistance or to purchase products by phone call TOLL FREE in the USA 1-866-467-6444 or WORLDWIDE 1-307-577-6444 or e-mail us at[ information@herbalremedies.com.](mailto:hremedies@qwest.net)* 
+©2001,2002,2003,2004 Herbal Remedies USA™ is a trademark of Herbal Remedies USA, LLC. All rights reserved. Informational material and representations have been provided by the manufacturers of the listed products. For assistance or to purchase products by phone call TOLL FREE in the USA 1-866-467-6444 or WORLDWIDE 1-307-577-6444 or e-mail us at[ information@herbalremedies.com.](mailto:information@herbalremedies.com)* 
 
 _* NOTE: If you email through an internet service provider such as aol.com that uses a spam-blocker or if you use spam-blocking software you may not receive a reply. We attempt to provide prompt replies to every email but are unable to 100% of the time because our emails may be blocked. If you have emailed us but received no reply within 5 business days please retry sending from (or providing us) an alternate email address or by calling our toll free customer service number (in the USA) or our international customer service number._
 
@@ -321,7 +327,7 @@ _* NOTE: If you email through an internet service provider such as aol.com that 
 Call Us Toll Free: 1-866-467-6444 | [Click here for contact information](http://www.herbalremedies.com/info.html)
 
 **In accordance with FDA regulation, we do not make any therapeutic claims for any Dietary Supplements in accordance with the Dietary Supplement Health and Education Act.  
-([Full Disclaimer](https://web.archive.org/web/20070627080509id_/http%3A//www.herbalremedies.com/privacypolicy.html#7))**
+([Full Disclaimer](https://web.archive.org/web/20071228051009id_/http%3A//www.herbalremedies.com/privacypolicy.html#7))**
 
 Our Partner Sites:  
 [MagneticTherapyMagnets.com](http://www.magnetictherapymagnets.com/) | [NaturalHairLossRemedies.com](http://www.naturalhairlossremedies.com/) | [Drug-Testing-Solutions.net](http://www.drug-testing-solutions.net/)
