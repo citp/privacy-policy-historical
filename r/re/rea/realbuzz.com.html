@@ -1,13 +1,15 @@
-<!--The following is the downloaded HTML source of the realbuzz.com privacy policy that was archived on 2007-04-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070429130939id_/http%3A//www.realbuzz.com/en-us/Privacy/index%3FpageID%3D2046) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the realbuzz.com privacy policy that was archived on 2007-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071228104824id_/http%3A//www.realbuzz.com/en-us/Privacy/index%3FpageID%3D2046) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en-us"><head>
+		<meta http-equiv="PICS-Label" content="(PICS-1.1 &quot;http://www.classify.org/safesurf/&quot; L gen true for &quot;http://www.realbuzz.com&quot; r (SS~~000 6 SS~~001 6 SS~~002 6 SS~~003 2 SS~~004 1 SS~~009 3))">
 		<title>Privacy Policy - realbuzz.com US</title>
 		<meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8">
 		<meta name="title" content="Privacy Policy - realbuzz.com US">
 		<meta name="description" content="Privacy Policy - realbuzz.com US. One of many articles to read from realbuzz.com, a community for sports, running, health &amp; fitness, diet &amp; nutrition, the great outdoors, travel, and entertainment.">
 		<meta name="keywords" content="Privacy Policy - realbuzz.com US, realbuzz.com">
 		<meta name="Copyright" content="©2005-2007 realbuzz.com">
+		
 		<script type="text/javascript">
 			function fixSkySize()
 			{
@@ -31,18 +33,43 @@
 				window.skySizeTimer = setInterval(fixSkySize, 500);
 			}
 		</script>
-		<script type="text/javascript" src="/scripts/scripts.js"></script>
+		<script type="text/javascript" src="/scripts/scripts.js.php"></script>
 		<script type="text/javascript" src="/scripts/playa.js"></script>
 		<script type="text/javascript" src="/scripts/menu.js"></script>		
 		<script type="text/javascript" charset="utf-8"></script>
+		<script src="/scripts/jquery-1.2.1.pack.js" type="text/javascript" charset="utf-8"></script>
+		<script src="/scripts/jquery.contentswitcher.js" type="text/javascript" charset="utf-8"></script>
+		<script type="text/javascript" charset="utf-8" src="/scripts/jquery.tabs.js"></script>
+		<script type="text/javascript" charset="utf-8">
+			$(document).ready(function() {
+				
+
+				$('#cta-footer select, #haveYouTried select').bind('change', function() {
+
+					var locations = Array();
+
+					locations['Map Your Passion'] = '/mapyourpassion';
+					locations['Share Your Passion'] = '/en-us/Share_your_passion/index?pageID=3580';
+					locations['Pitch Your Passion'] = '/en-us/Pitch_your_passion/index?pageID=6000';
+					locations['Photos and Videos'] =  '/en-us/Photos_and_videos/index?pageID=3229';
+					locations['Forums'] = '/en-us/Forums/index?pageID=1996';
+					locations['Blogs'] = '/en-us/Blogs/index?pageID=1997';
+
+					if ($(this).val() != undefined && locations[$(this).val()]!=undefined)
+						top.location=locations[$(this).val()];
+					else
+						console.log('Undefined link in select box: '+$(this).val());
+				});
+			});
+		</script>
 
 		<!-- Blog RSS feed -->
 				<!-- Site RSS feed -->
 		<link rel="alternate" title="realbuzz.com Highlights RSS Feed" href="http://www.realbuzz.com/rss/homeLatestArticlesRSS.xml" type="application/rss+xml">
 
-<link rel="stylesheet" type="text/css" href="/css/en-us.css" media="screen,projection">
-<link rel="stylesheet" type="text/css" href="/css/site.css" media="screen,projection">
+<link rel="stylesheet" type="text/css" href="/css/css_content.php" media="screen,projection">
 <link rel="stylesheet" type="text/css" href="/common/css/css_content.php" media="screen,projection">
+<link rel="stylesheet" type="text/css" href="/css/print.css" media="print"><link rel="stylesheet" href="/common/css/HomePageNew.css" type="text/css" media="screen" title="New homepage styles" charset="utf-8">
 <!--[if IE 6]>
 		<style type="text/css" title="realbuzz.com" media="screen,projection">
 @import "/css/ie6fixes.css";		</style>
@@ -55,82 +82,57 @@
 	<body>
 
 
-<div id="accountLogin">
-<div id="Account_buttons" class="top_nav_buttons2"><a href="#"><img onclick="toggle('Account_dropdown')" src="/images/account/button_log_on_top.gif" alt="Log on"></a><a href="/en-us/Signup/index?pageID=19&amp;return=%2Fen-us%2FPrivacy%2Findex%3FpageID%3D2046"><img src="/images/account/button_sign_up_top.gif" alt="Sign up"></a>
-				<div class="fave_loggedout">
-				<div id="favourites_box">
-					<a href="?pageID=4&amp;return=%2Fen-us%2FPrivacy%2Findex%3FpageID%3D2046"><img class="show_faves" src="/images/en-us/button_my_favourites.gif" alt="My favorites"></a>
-				</div>
-				
-				</div>
-			</div>
-					<div id="Account_dropdown">
-					<div id="Account_dropdown_close"><a class="account_dropdown_close_button" onclick="toggle('Account_dropdown')">X</a></div>
-					<form method="post" action="http://www.realbuzz.com/index.php?local=en-us&amp;pageID=2046">
-					<fieldset>
-					<legend>Account log-in</legend>
-					<input name="Act_opr" value="login" type="hidden">
-					<input type="hidden" name="return" value="/en-us/Privacy/index?pageID=2046">
-					<label id="Account_username_login_text" for="username" class="label">Username / Email</label><input id="Account_username_login" value="username" name="username" type="text" class="field" onfocus="clearDefault(this, 'username')" onblur="setDefault(this, 'username')" onkeypress="return submitform(this.form)">
-					<label id="Account_password_login_text" for="password" class="label">Password</label><input id="Account_password_login" name="password" type="password" value="password" class="field" onfocus="clearDefault(this, 'password')" onblur="setDefault(this, 'password')" onkeypress="return submitform(this.form)">
-					<label id="Account_promotion_text" for="promotion" class="label"><strong>For people with our<br>EXPO leaflet:</strong><br>Promotional code</label><input id="Account_promotion" name="promotion" type="text" value="" class="field" onkeypress="return submitform(this.form)">
-					<label id="Account_marathon_text" for="marathon" class="label">Where did you get it?</label>
-					<select id="Account_marathon" name="marathon" class="field" onkeypress="return submitform(this.form)">
-					<option value="0">Choose a location</option>
-					<option value="1">Berlin</option>
-					<option value="2">Boston</option>
-					<option value="3">Chicago</option>
-					<option value="4">London</option>
-					<option value="5">New York</option>
-					</select>
-					<input style="float: left;" class="go_button" alt="GO!" src="/images/en-us/button_login_go.gif" type="image">				
-					<a style="float: right; width: 65px;" class="forgotten" href="/en-gb/Forgotten_password/index?pageID=18">Forgotten your password?</a>
-					</fieldset>
-					</form>
-					</div></div>
+<!-- <div id="accountLogin">
+	<div id="Account_buttons" class="top_nav_buttons2"><img src="/images/hyt.gif" />&nbsp;<select name="tried"><option value="0">SOmething</option></select></div> -->
+<!-- </div> -->
+<div id="haveYouTried">
+	<!-- <img src="/images/hyt.gif" /> -->
+	<strong>have you tried?</strong>
+	<select name="haveYouTriedSelect">
+		<option> -- Choose -- </option>
+		<option>Share Your Passion</option>
+		<option>Map Your Passion</option>
+		<option>Pitch Your Passion</option>
+		<option>Forums</option>
+		<option>Blogs</option>
+	</select>
+	<!-- <strong>Have you tried?</strong>
+	<div id="have-you-tried-ticker">
+		<div><a href="http://www.google.com" style="display: none;">Share Your Passion</a></div>
+		<div style="display: none;"><a href="#">Map Your Passion</a></div>
+		<div style="display: none;"><a href="#">Passion Pitch</a></div>
+		<div style="display: none;"><a href="#">Photos and Videos</a></div>
+		<div style="display: none;"><a href="#">Blogs</a></div>
+		<div style="display: none;"><a href="#">Forums</a></div>
+		<div id="have-you-tried-ticker-ctrl" style="display: none"><a id="prev" href="#">&lt;</a>&nbsp;<a id="next" href="#">&gt;</a></div>
+	</div> -->
+</div>
 
 
 <div id="rssFeeds">
-	<a href="/rss/homeLatestArticlesRSS.xml"><img src="/images/buttons/button_rss.gif" alt="RSS">
-	</a><a href="/en-us/RSS/index?pageID=2160"><img src="/images/buttons/button_rss_help.gif" alt="RSS Help"></a>
+	<a href="/rss/homeLatestArticlesRSS.xml"><img src="/images/buttons/button_rss.gif" alt="RSS"></a>
+	<a href="/en-us/RSS/index?pageID=2160"><img src="/images/buttons/button_rss_help.gif" alt="RSS Help"></a>
 </div>
 
 
 
 		<div id="header">
-			<div id="logo" title="Return to the realbuzz.com homepage"><a href="/"><img src="/images/site_frame/logo_main.gif" alt="Providing a lifestyle community and advice on sports, running, health and fitness, diet and nutrition, the great outdoors, travel and entertainment." title="realbuzz.com"></a></div>
-
-
-
+			<div id="logo" title="Return to the realbuzz.com homepage"><a href="/"><img src="/images/site_frame/logo_main.gif" alt="realbuzz.com is a vibrant community focused on health and fitness, travel, sport and entertainment." title="realbuzz.com is a vibrant community focused on health and fitness, travel, sport and entertainment."></a></div>
 		</div>
 		<div id="container">
 			<div id="powerBar">
 				<div id="googleSearch">
-										<form method="get" action="http://www.google.co.uk/custom">
-						<fieldset>
-							<legend>Search</legend>
-							<a href="http://www.google.com/"><img src="/images/site_frame/google_logo.gif" alt="Google"></a>
-							<input type="hidden" name="domains" value="www.realbuzz.com">
-							<input class="field" type="text" name="q" size="31" maxlength="255" value="">
-							<input class="go_button" type="image" name="sa" src="/images/en-us/button_google_search.gif" alt="Search">
-
-
-							<input id="buzzsearch" type="radio" name="sitesearch" value="www.realbuzz.com"><label for="buzzsearch">realbuzz.com</label>
-							<input id="googlesearch" type="radio" name="sitesearch" value="" checked="checked"><label for="googlesearch">the web</label>
-							<input type="hidden" name="client" value="pub-3022650429382245">
-							<input type="hidden" name="forid" value="1">
-							<input type="hidden" name="ie" value="UTF-8">
-
-							<input type="hidden" name="oe" value="UTF-8">
-							<input type="hidden" name="safe" value="active">
-							<input type="hidden" name="cof" value="GALT:#008000;GL:1;DIV:#336699;VLC:663399;AH:center;BGC:FFFFFF;LBGC:FFFFFF;ALC:0000FF;LC:0000FF;T:000000;GFNT:0000FF;GIMP:0000FF;LH:41;LW:225;L:http://www.realbuzz.com/images/logo.gif;S:/;FORID:1">
-							<input type="hidden" name="hl" value="en">
-						</fieldset>
-					</form>
+												<form id="searchbox_001649190488349013775:62b1iyqm0e0" action="http://www.google.com/cse">
+							<input type="hidden" name="cx" value="001649190488349013775:62b1iyqm0e0">
+							<input type="hidden" name="cof" value="FORID:0">
+							<input name="q" type="text" size="40" id="googleSearchBox">
+							<input type="submit" name="sa" value="Search">
+							</form>
+							<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=searchbox_001649190488349013775%3A62b1iyqm0e0"></script>
 				</div>
 			</div>
-<div id="Menu_main_nav" class="menu depth1"><ul id="Menu_list_main_nav"><li id="Menu_list_item_home"><a style="display: block;" id="Menu_item_home" class="menuItem" href="/en-us/home/index?pageID=1">home</a></li><li id="Menu_list_item_running"><a style="display: block;" id="Menu_item_running" class="menuItem" href="/en-us/running/index?pageID=500">running</a></li><li id="Menu_list_item_sport"><a style="display: block;" id="Menu_item_sport" class="button" href="/en-us/Sport/index?pageID=923">Sport</a></li><li id="Menu_list_item_fitness"><a style="display: block;" id="Menu_item_fitness" class="button" href="/en-us/Fitness/index?pageID=1132">Fitness</a></li><li id="Menu_list_item_healthy_living"><a style="display: block;" id="Menu_item_healthy_living" class="button" href="/en-us/Healthy_living/index?pageID=1317">Healthy living</a></li><li id="Menu_list_item_diet_nutrition"><a style="display: block;" id="Menu_item_diet_nutrition" class="button" href="/en-us/Diet_%26amp%3B_nutrition/index?pageID=1409">Diet &amp; nutrition</a></li><li id="Menu_list_item_outdoors"><a style="display: block;" id="Menu_item_outdoors" class="button" href="/en-us/Get_outdoors/index?pageID=1567">Get outdoors</a></li><li id="Menu_list_item_travel"><a style="display: block;" id="Menu_item_travel" class="button" href="/en-us/Travel/index?pageID=1924">Travel</a></li><li id="Menu_list_item_entertainment"><a style="display: block;" id="Menu_item_entertainment" class="button" href="/en-us/Entertainment/index?pageID=1968">Entertainment</a></li></ul></div><div id="Menu_sub_nav" class="menu depth1"><ul id="Menu_list_sub_nav"><li id="Menu_list_item_newsletters"><a style="display: block;" id="Menu_item_newsletters" class="button" href="/en-us/Podcasts/index?pageID=1998">Podcasts</a></li><li id="Menu_list_item_newsletters"><a style="display: block;" id="Menu_item_newsletters" class="button" href="/en-us/Vodcasts/index?pageID=1992">Vodcasts</a></li><li id="Menu_list_item_newsletters"><a style="display: block;" id="Menu_item_newsletters" class="button" href="/en-us/Forum/index?pageID=1996">Forum</a></li><li id="Menu_list_item_newsletters"><a style="display: block;" id="Menu_item_newsletters" class="button" href="/en-us/Blogs/index?pageID=1997">Blogs</a></li><li id="Menu_list_item_newsletters"><a rel="external" style="display: block;" id="Menu_item_newsletters" class="button" href="/en-us/Route_planner/../../myRoutesUS">Route planner</a></li><li id="Menu_list_item_newsletters"><a style="display: block;" id="Menu_item_newsletters" class="button" href="/en-us/FREE_newsletters/index?pageID=2022&amp;edit=Newsletters">FREE newsletters</a></li><li id="Menu_list_item_shop" class="menuItem"><a rel="external" style="display: block;" id="Menu_item_highlight_left_nav_shop" class="menuItem" href="http://www.realbuzz.com/shopUS/">SHOP</a></li></ul></div>			<div id="main-col">
-<div id="left-nav-col" class="mlmenu vertical fade delay"><ul id="Menu_" class="" style=""><li id="Menu_list_item_back" class="menuItem"><strong><a href="index?pageID=1">« Home</a></strong></li><li id="Menu_list_item_"><a style="display: block;" id="Menu_item_" class="menuItem" href="/en-us/contact_us/index?pageID=9">contact us</a></li><li id="Menu_list_item_"><a style="display: block;" id="Menu_item_" class="menuItem" href="/en-us/Site_map/index?pageID=2113">Site map</a></li><li id="Menu_list_item_"><a style="display: block;" id="Menu_item_" class="menuItem" href="/en-us/Privacy_Policy/index?pageID=2046">Privacy Policy</a></li><li id="Menu_list_item_"><a style="display: block;" id="Menu_item_" class="menuItem" href="/en-us/Terms_And_Conditions/index?pageID=2048">Terms And Conditions</a></li><li id="Menu_list_item_"><a style="display: block;" id="Menu_item_" class="menuItem" href="/en-us/Contributors/index?pageID=1977">Contributors</a></li></ul><div style="margin: 22px;"><script type="text/javascript" language="JavaScript">
+<div id="Menu_main_nav" class="menu depth1"><ul id="Menu_list_main_nav"><li id="Menu_list_item_home"><a style="display: block;" id="Menu_item_home" class="menuItem" href="/en-us/home/index?pageID=1">home</a></li><li id="Menu_list_item_running"><a style="display: block;" id="Menu_item_running" class="menuItem" href="/en-us/running/index?pageID=500">running</a></li><li id="Menu_list_item_sports"><a style="display: block;" id="Menu_item_sports" class="button" href="/en-us/Sports/index?pageID=923">Sports</a></li><li id="Menu_list_item_fitness"><a style="display: block;" id="Menu_item_fitness" class="button" href="/en-us/Fitness/index?pageID=1132">Fitness</a></li><li id="Menu_list_item_healthy_living"><a style="display: block;" id="Menu_item_healthy_living" class="button" href="/en-us/Healthy_living/index?pageID=1317">Healthy living</a></li><li id="Menu_list_item_diet_nutrition"><a style="display: block;" id="Menu_item_diet_nutrition" class="button" href="/en-us/Diet_%26amp%3B_nutrition/index?pageID=1409">Diet &amp; nutrition</a></li><li id="Menu_list_item_outdoors"><a style="display: block;" id="Menu_item_outdoors" class="button" href="/en-us/Get_outdoors/index?pageID=1567">Get outdoors</a></li><li id="Menu_list_item_travel"><a style="display: block;" id="Menu_item_travel" class="button" href="/en-us/Travel/index?pageID=1924">Travel</a></li><li id="Menu_list_item_entertainment"><a style="display: block;" id="Menu_item_entertainment" class="button" href="/en-us/Entertainment/index?pageID=1968">Entertainment</a></li></ul></div><div id="Menu_sub_nav" class="menu depth1"><ul id="Menu_list_sub_nav"><li id="Menu_list_item_newsletters"><a style="display: block;" id="Menu_item_newsletters" class="button" href="/en-us/podcasts/index?pageID=1998">podcasts</a></li><li id="Menu_list_item_newsletters"><a style="display: block;" id="Menu_item_newsletters" class="button" href="/en-us/vodcasts/index?pageID=1992">vodcasts</a></li><li id="Menu_list_item_newsletters"><a style="display: block;" id="Menu_item_newsletters" class="button" href="/en-us/forum/index?pageID=1996">forum</a></li><li id="Menu_list_item_newsletters"><a style="display: block;" id="Menu_item_newsletters" class="button" href="/en-us/blogs/index?pageID=1997">blogs</a></li><li id="Menu_list_item_newsletters"><a target="_blank" style="display: block;" id="Menu_item_newsletters" class="button" href="/en-us/map_your_passion/../../mapyourpassion">map your passion</a></li><li id="Menu_list_item_newsletters"><a style="display: block;" id="Menu_item_newsletters" class="button" href="/en-us/share_your_passion/index?pageID=3580">share your passion</a></li><li id="Menu_list_item_newsletters"><a style="display: block;" id="Menu_item_newsletters" class="menuItem" href="/en-us/photos_%26amp%3B_videos/index?pageID=3229">photos &amp; videos</a></li><li id="Menu_list_item_newsletters"><a style="display: block;" id="Menu_item_newsletters" class="button" href="/en-us/newsletters/index?pageID=2022&amp;edit=Newsletters">newsletters</a></li><li id="Menu_list_item_shop" class="menuItem"><a target="_blank" style="display: block;" id="Menu_item_highlight_left_nav_shop" class="menuItem" href="http://www.realbuzz.com/shopUS/">shop</a></li></ul></div>			<div id="main-col">
+<div id="left-nav-col" class="mlmenu vertical fade delay"><div id="ajax-login-box"><form id="ajax-login-form" action="http://www.realbuzz.com/index.php?local=en-us&amp;pageID=2046" method="post" style="margin-top: 0px;">Username or email:<br><input type="text" name="username" value="" class="field"><br>Password:<br><input type="password" name="password" class="field"><br><input name="Act_opr" value="login" type="hidden"><input type="hidden" name="return" value="/en-us/Privacy/index?pageID=2046"><input type="checkbox" name="remember_me" value="1" id="ajax-login-remember-me"><label for="ajax-login-remember-me">Remember Me</label><input type="submit" value="Login" class="submit-button"></form></div><div id="ajax-login-account-profile-box" style="display: none;"></div><div id="ajax-login-footer-box-guest"><ul><li><a href="/en-us/Signup/index?pageID=19&amp;return=%2Fen-us%2FPrivacy%2Findex%3FpageID%3D2046">Sign Up</a></li><li><a href="?pageID=4&amp;return=%2Fen-us%2FPrivacy%2Findex%3FpageID%3D2046">My Favourites</a></li></ul></div><ul id="Menu_" class="" style=""><li id="Menu_list_item_back" class="menuItem"><strong><a href="index?pageID=1">« Home</a></strong></li><li id="Menu_list_item_"><a style="display: block;" id="Menu_item_" class="menuItem" href="/en-us/contact_us/index?pageID=9">contact us</a></li><li id="Menu_list_item_"><a style="display: block;" id="Menu_item_" class="menuItem" href="/en-us/Site_map/index?pageID=2113">Site map</a></li><li id="Menu_list_item_"><a style="display: block;" id="Menu_item_" class="menuItem" href="/en-us/Privacy_Policy/index?pageID=2046">Privacy Policy</a></li><li id="Menu_list_item_"><a style="display: block;" id="Menu_item_" class="menuItem" href="/en-us/Terms_And_Conditions/index?pageID=2048">Terms And Conditions</a></li><li id="Menu_list_item_"><a style="display: block;" id="Menu_item_" class="menuItem" href="/en-us/Contributors/index?pageID=1977">Contributors</a></li></ul><div style="margin: 22px;"><script type="text/javascript" language="JavaScript">
 		// Modify to reflect site specifics
 		adserver = "http://bsg.realbuzz.com";
 		target = "/SITE=REALBUZZ_US/AREA=/SITE=REALBUZZ_US/AREA=RUNNING.HOME/AAMSZ=IMU/POSITION=1";
@@ -141,126 +143,40 @@
 		document.write('IPT SRC="' + adserver + '/jserver/acc_random=' + random + target + "/pageid=" + pageNum + '">');
 		document.write('</SCR');
 		document.write('IPT>');
-		</script><script src="http://bsg.realbuzz.com/jserver/acc_random=74612846/SITE=REALBUZZ_US/AREA=/SITE=REALBUZZ_US/AREA=RUNNING.HOME/AAMSZ=IMU/POSITION=1/pageid=16106691"></script>
-	</div></div><div id="article-col"><div id="crumb_" class="crumb"><a href="index?pageID="></a> » <a href="index?pageID=">Home</a> » <a href="index?pageID=2046">Privacy Policy</a></div><h1 id="Title_footer_items">Privacy Policy</h1><div style="position:relative;">
-<div>
-<div>This policy was last updated on February 1st 2006.</div>
-<p>Thank you for visiting realbuzz.com. Your privacy is important to us. To better
-protect your privacy, we provide this notice explaining our online information practices
-and the choices you can make about the way your information is collected and used by
-realbuzz.com.</p>
-<p>Since the protection of your privacy is of the greatest importance to us, we have
-created this privacy policy to communicate our practices regarding the collection and
-dissemination of personal information that can be linked to a specific individual, such
-as a name, address, gender, phone number, email address, or any other information
-provided to us by realbuzz.com members and email subscribers.</p>
-<p><strong>How we use the information</strong>
-<br>
-You do not have to share personal information to use realbuzz.com. realbuzz.com does not
-collect personal information about people without their permission. The information we
-gather from subscribers to our email newsletters (including email addresses) is not
-shared with other organisations or third parties without your permission. realbuzz.com is
-extremely protective of the information gathered through its online membership and email
-subscriptions. From time to time we may send out emails on behalf of like-minded
-organisations, but we do not provide them with access to any personal information that
-you have provided.</p>
-<p><strong>How we protect your information</strong>
-<br>
-Our website has security measures in place to protect against the loss, misuse or
-alteration of the information under our control. Our web server is located in a locked,
-secure environment. All databases containing personal information are securely stored on
-a separate system that is not connected to the Internet. When you contribute to
-realbuzz.com online, we use a secure server and encryption to protect all your personal
-information during transmission.</p>
-<p><strong>How we collate and use information</strong>
-<br>
-We gather email and other user contact information by means of the following methods;
-signing up to My realbuzz, events and exhibitions and via the online shop. Newsletters
-are sent out to opt in subscribers only. In order to provide you with improved, relevant
-content, we compile information about email response and website usage. This information
-helps us to better understand our members' and email subscribers site usage patterns and
-also what types of content and information may help improve your user experience on
-realbuzz.com. To improve our online services realbuzz.com periodically performs
-statistical analyses of aggregate user behavior and characteristics in order to measure
-interest in and use of various areas on our website and to use such information to
-improve on our website's ability to serve you better.</p>
-<p><strong>Collection of Information by Third-Party Sites and Sponsors</strong>
-<br>
-We care about your privacy. We will not sell your name or email address to any third
-party advertisers without your permission. Some of our sites contain links to other sites
-whose information practices may be different than ours. Visitors should consult the other
-sites' privacy notices as we have no control over information that is submitted to, or
-collected by, these third parties.</p>
-<p><strong>How you receive emails from realbuzz.com</strong>
-<br>
-You will only receive email newsletters from realbuzz.com if you have expressly signed up
-for a newsletter on realbuzz.com or one of our associate sites. You are a subscriber to
-My realbuzz and have added realbuzz.com newsletters to the membership. You signed up to
-receive newsletters via one of our competitions or at an event or exhibition. We use
-"HTML-sensing" to detect whether your email service provider supports HTML-based emails
-or TEXT only emails. If you have any questions or would like to change the format you
-currently receive please email the code "<u>Newsletter Question</u>" or "<u>Change Email
-Format</u>" written in the subject line to <a title="newsletters@realbuzz.com" href="mailto:newsletters@realbuzz.com">newsletters@realbuzz.com</a>.</p>
-<p><strong>How we track HTML newsletters</strong>
-<br>
-We make use of both "open-tracking" and "click-tracking" in our HTML newsletters (i.e.
-emails that contain text and images). Open-tracking allows us to find out how many people
-have viewed our email newsletters and click-tracking allows us to find out which links in
-the newsletter were clicked on. This helps us to refine and improve the editorial content
-of our newsletters, and to provide you with relevant information.</p>
-<p><strong>How to unsubscribe from the mailing list</strong>
-<br>
-All realbuzz.com communication, whether via email newsletter subscription, realbuzz
-Networks and realbuzz forums, provides information on how to unsubscribe quickly and
-easily. All emails sent out contain a link to unsubscribe or to modify your profile. You
-may update, subscribe or unsubscribe to any newsletter or email communication at any
-time.</p>
-<p>To opt out of receiving communications from realbuzz.com please click the
-'unsubscribe' link at the bottom of the email newsletter. This link enables you to either
-update your email subscription or to unsubscribe from all email subscriptions.
-Alternatively, send an email with the words "<u>unsubscribe</u>" in the subject line to
-<a title="newsletters@realbuzz.com" href="mailto:newsletters@realbuzz.com">newsletters@realbuzz.com</a>.</p>
-<p>We use this information to send you targeted email newsletters on your areas of
-interest specified on the sign up page. We also provide opportunities to gain free
-membership to realbuzz.com via realbuzz Networks or the realbuzz Forum and to take part
-in a number of our online competitions.</p>
-<p><strong>Privacy in email newsletters</strong>
-<br>
-In personal email communications, there has always been, and always should be, an
-expectation of privacy between the sender and the intended recipients of a message,
-enabling open communication.</p>
-<p><strong>The use of Cookies</strong>
-<br>
-To enhance your experience with our sites, many of our web pages use "cookies." Cookies
-are text files we place in your computer's browser to store your preferences. Cookies, by
-themselves, do not tell us your e-mail address or other personally identifiable
-information. However, once you choose to furnish the site with personally identifiable
-information, this information may be linked to the data stored in the cookie.</p>
-<p>We use cookies to understand site usage and to improve the content and offerings on
-our sites. For example, we may use cookies to personalise your experience at realbuzz.com
-(e.g. to recognise you by name when you return to our site), save your password in
-password-protected areas, and enable you to use shopping carts on realbuzz.com. We also
-may use cookies to offer you products of potential interest in emails.</p>
-<p><strong>Our Commitment to security</strong>
-<br>
-We have put in place appropriate physical, electronic, and managerial procedures to
-safeguard and help prevent unauthorized access, maintain data security, and correctly use
-the information we collect online. To protect your privacy and security, we will take
-reasonable steps to help verify your identity before granting access or making
-corrections.</p>
-<p><strong>Privacy notice updates</strong>
-<br>
-From time to time, we may update this privacy notice. We will notify you about material
-changes in the way we treat personally identifiable information by placing a notice on
-our site. We encourage you to periodically check back and review this policy so that you
-always will know what information we collect, how we use it, and to whom we disclose
-it.</p>
-<p><strong>How to contact us</strong>
-<br>
+		</script><script src="http://bsg.realbuzz.com/jserver/acc_random=15751868/SITE=REALBUZZ_US/AREA=/SITE=REALBUZZ_US/AREA=RUNNING.HOME/AAMSZ=IMU/POSITION=1/pageid=39732429"></script>
+	</div></div><div id="article-col"><div id="crumb_" class="crumb"><a href="index?pageID="></a> » <a href="index?pageID=">Home</a> » <a href="index?pageID=2046">Privacy Policy</a></div><h1 id="Title_footer_items">Privacy Policy</h1><div style="position:relative;"><div>
+<div>This policy was last updated on October 29th 2007.</div>
+<p>Thank you for visiting realbuzz.com. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used by realbuzz.com.</p>
+<p>Since the protection of your privacy is of the greatest importance to us, we have created this privacy policy to communicate our practices regarding the collection and dissemination of personal information that can be linked to a specific individual, such as a name, address, gender, phone number, email address, or any other information provided to us by realbuzz.com members and email subscribers.</p>
+<p><strong>How we use the information</strong> <br>
+You do not have to share personal information to use realbuzz.com. realbuzz.com does not collect personal information about people without their permission. The information we gather from subscribers to our email newsletters (including email addresses) is not shared with other organisations or third parties without your permission. realbuzz.com is extremely protective of the information gathered through its online membership and email subscriptions. From time to time we may send out emails on behalf of like-minded organisations, but we do not provide them with access to any personal information that you have provided.</p>
+<p><strong>How we protect your information</strong> <br>
+Our website has security measures in place to protect against the loss, misuse or alteration of the information under our control. Our web server is located in a locked, secure environment. All databases containing personal information are securely stored on a separate system that is not connected to the Internet.<br>
+</p>
+<p><strong>How we collate and use information</strong> <br>
+We gather email and other user contact information by means of the following methods; signing up to My realbuzz, events and exhibitions and via the online shop. Newsletters are sent out to opt in subscribers only. In order to provide you with improved, relevant content, we compile information about email response and website usage. This information helps us to better understand our members' and email subscribers site usage patterns and also what types of content and information may help improve your user experience on realbuzz.com. To improve our online services realbuzz.com periodically performs statistical analyses of aggregate user behavior and characteristics in order to measure interest in and use of various areas on our website and to use such information to improve on our website's ability to serve you better.</p>
+<p><strong>Collection of Information by Third-Party Sites and Sponsors</strong> <br>
+We care about your privacy. We will not sell your name or email address to any third party advertisers without your permission. Some of our sites contain links to other sites whose information practices may be different than ours. Visitors should consult the other sites' privacy notices as we have no control over information that is submitted to, or collected by, these third parties.</p>
+<p><strong>How you receive emails from realbuzz.com</strong> <br>
+You will only receive email newsletters from realbuzz.com if you have expressly signed up for a newsletter on realbuzz.com or one of our associate sites. You are a subscriber to My realbuzz and have added realbuzz.com newsletters to the membership. You signed up to receive newsletters via one of our competitions or at an event or exhibition. We use "HTML-sensing" to detect whether your email service provider supports HTML-based emails or TEXT only emails. If you have any questions or would like to change the format you currently receive please email the code "<u>Newsletter Question</u>" or "<u>Change Email Format</u>" written in the subject line to <a title="newsletters@realbuzz.com" href="mailto:newsletters@realbuzz.com">newsletters@realbuzz.com</a>.</p>
+<p><strong>How we track HTML newsletters</strong> <br>
+We make use of both "open-tracking" and "click-tracking" in our HTML newsletters (i.e. emails that contain text and images). Open-tracking allows us to find out how many people have viewed our email newsletters and click-tracking allows us to find out which links in the newsletter were clicked on. This helps us to refine and improve the editorial content of our newsletters, and to provide you with relevant information.</p>
+<p><strong>How to unsubscribe from the mailing list</strong> <br>
+All realbuzz.com communication, whether via email newsletter subscription, realbuzz Networks and realbuzz forums, provides information on how to unsubscribe quickly and easily. All emails sent out contain a link to unsubscribe or to modify your profile. You may update, subscribe or unsubscribe to any newsletter or email communication at any time.</p>
+<p>To opt out of receiving communications from realbuzz.com please click the 'unsubscribe' link at the bottom of the email newsletter. This link enables you to either update your email subscription or to unsubscribe from all email subscriptions. Alternatively, send an email with the words "<u>unsubscribe</u>" in the subject line to <a title="newsletters@realbuzz.com" href="mailto:newsletters@realbuzz.com">newsletters@realbuzz.com</a>.</p>
+<p>We use this information to send you targeted email newsletters on your areas of interest specified on the sign up page. We also provide opportunities to gain free membership to realbuzz.com via realbuzz Networks or the realbuzz Forum and to take part in a number of our online competitions.</p>
+<p><strong>Privacy in email newsletters</strong> <br>
+In personal email communications, there has always been, and always should be, an expectation of privacy between the sender and the intended recipients of a message, enabling open communication.</p>
+<p><strong>The use of Cookies</strong> <br>
+To enhance your experience with our sites, many of our web pages use "cookies." Cookies are text files we place in your computer's browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information. However, once you choose to furnish the site with personally identifiable information, this information may be linked to the data stored in the cookie.</p>
+<p>We use cookies to understand site usage and to improve the content and offerings on our sites. For example, we may use cookies to personalise your experience at realbuzz.com (e.g. to recognise you by name when you return to our site), save your password in password-protected areas, and enable you to use shopping carts on realbuzz.com. We also may use cookies to offer you products of potential interest in emails.</p>
+<p><strong>Our Commitment to security</strong> <br>
+We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online. To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections.</p>
+<p><strong>Privacy notice updates</strong> <br>
+From time to time, we may update this privacy notice. We will notify you about material changes in the way we treat personally identifiable information by placing a notice on our site. We encourage you to periodically check back and review this policy so that you always will know what information we collect, how we use it, and to whom we disclose it.</p>
+<p><strong>How to contact us</strong> <br>
 If you have any questions or concerns about the realbuzz.com email policy please <a href="/en-gb/Contact_us/index?pageID=9">contact us</a>.&nbsp;</p>
-</div>
-
-</div><p>
+</div></div><p>
 
 
 
@@ -270,7 +186,7 @@ If you have any questions or concerns about the realbuzz.com email policy please
 
 				</div>
 
-				<div id="sky-col" style="height: 20px;">
+				<div id="sky-col" style="height: 25px;">
 				</div>
 				<br class="clear">
 			</div>
@@ -289,20 +205,21 @@ If you have any questions or concerns about the realbuzz.com email policy please
 
 			<div class="footer-left"><strong><a href="/">realbuzz.com</a></strong><div id="flags_box"><form class="group" name="Local_lang_form" id="Local_select_form" method="post" action="http://www.realbuzz.com/index.php"><input type="image" value="en-gb" name="Local_langbutton_en-gb" id="Local_langbutton_en-gb" class="image" src="/images/en-gb/flag.gif"><input type="hidden" value="1" name="Form_change_lang" class="button">[<input type="image" value="en-us" name="Local_langbutton_en-us" id="Local_langbutton_en-us" class="image" src="/images/en-us/flag.gif"><input type="hidden" value="1" name="Form_change_lang" class="button">]</form></div></div>					
 			<div class="footer-right">
-<div id="Footer_menu" class="group"><div id="Footer_line1" class="footer-right1"><a style="text-transform:lowercase" id="Menu_footer_item_home" href="?pageID=1" class="footerItem">home</a> |<a style="text-transform:lowercase" id="Menu_footer_item_running" href="?pageID=500" class="footerItem">running</a> |<a style="text-transform:lowercase" id="Menu_footer_item_sport" href="?pageID=923" class="footerItem">Sport</a> |<a style="text-transform:lowercase" id="Menu_footer_item_fitness" href="?pageID=1132" class="footerItem">Fitness</a> |<a style="text-transform:lowercase" id="Menu_footer_item_healthy_living" href="?pageID=1317" class="footerItem">Healthy living</a> |<a style="text-transform:lowercase" id="Menu_footer_item_diet_nutrition" href="?pageID=1409" class="footerItem">Diet &amp; nutrition</a> |<a style="text-transform:lowercase" id="Menu_footer_item_outdoors" href="?pageID=1567" class="footerItem">Get outdoors</a> |<a style="text-transform:lowercase" id="Menu_footer_item_travel" href="?pageID=1924" class="footerItem">Travel</a> |<a style="text-transform:lowercase" id="Menu_footer_item_entertainment" href="?pageID=1968" class="footerItem">Entertainment</a> </div><div id="Footer_line2" class="footer-right1"><div class="footer-right1">
+<div id="Footer_menu" class="group"><div id="Footer_line1" class="footer-right1"><a style="text-transform:lowercase" id="Menu_footer_item_home" href="?pageID=1" class="footerItem">home</a> |<a style="text-transform:lowercase" id="Menu_footer_item_running" href="?pageID=500" class="footerItem">running</a> |<a style="text-transform:lowercase" id="Menu_footer_item_sports" href="?pageID=923" class="footerItem">Sports</a> |<a style="text-transform:lowercase" id="Menu_footer_item_fitness" href="?pageID=1132" class="footerItem">Fitness</a> |<a style="text-transform:lowercase" id="Menu_footer_item_healthy_living" href="?pageID=1317" class="footerItem">Healthy living</a> |<a style="text-transform:lowercase" id="Menu_footer_item_diet_nutrition" href="?pageID=1409" class="footerItem">Diet &amp; nutrition</a> |<a style="text-transform:lowercase" id="Menu_footer_item_outdoors" href="?pageID=1567" class="footerItem">Get outdoors</a> |<a style="text-transform:lowercase" id="Menu_footer_item_travel" href="?pageID=1924" class="footerItem">Travel</a> |<a style="text-transform:lowercase" id="Menu_footer_item_entertainment" href="?pageID=1968" class="footerItem">Entertainment</a> </div><div id="Footer_line2" class="footer-right1"><div class="footer-right1">
 										<a class="footerItem" href="/en-us/Podcasts/index?pageID=1998" title="podcasts">podcasts</a> |
 										<a class="footerItem" href="/en-us/Vodcasts/index?pageID=1992" title="vodcasts">vodcasts</a> |
 										<a class="footerItem" href="/en-us/Forum/index?pageID=1996" title="forum">forum</a> |
 										<a class="footerItem" href="/en-us/Blogs/index?pageID=1997" title="blogs">blogs</a> |
 										<a class="footerItem" href="/en-us/Route_planner/index?pageID=2114" title="route planner">route planner</a> |
-										<a class="footerItem" href="/en-us/Newsletters/index?pageID=2022&amp;edit=Newsletters" title="FREE newsletters">FREE newsletters</a></div>	
+										<a class="footerItem" href="/en-us/photos_%26amp%3B_videos/index?pageID=3229" title="upload photos and videos">photos &amp; videos</a> |
+										<a class="footerItem" href="/en-us/Newsletters/index?pageID=2022&amp;edit=Newsletters" title="newsletters">newsletters</a> |
+										<a class="footerItem" href="/shopUS" target="_blank" title="shop">shop</a></div>	
 										<div class="footer-right1">
 										<a class="footerItem" href="/en-us/Sitemap/index?pageID=2113" title="site map">site map</a>|
 										<a class="footerItem" href="/en-us/About_us/index?pageID=2052" title="about us">about us</a>|
 										<a class="footerItem" href="/en-us/Contact_us/index?pageID=9" title="contact us">contact us</a>|
 										<a class="footerItem" href="/en-us/Terms_of_use/index?pageID=2048" title="terms and conditions">terms and conditions</a>|
 										<a class="footerItem" href="/en-us/Privacy/index?pageID=2046" title="privacy policy">privacy policy</a>|
-										<a class="footerItem" href="/en-us/Contributors/index?pageID=1977" title="contributors">contributors</a>|
 										<a href="/en-us/Jargon_buster/index?pageID=2119" title="jargon buster">jargon buster</a></div></div></div>				<div style="padding:2px 0 0 10px;">Copyright © 2005-2007<a href="/" style="margin:0;text-decoration:none">realbuzz.com</a>Ltd. All rights reserved.</div>
 			</div>
 
@@ -312,9 +229,10 @@ If you have any questions or concerns about the realbuzz.com email policy please
 				<div id="header-banner">
 		<table><tbody><tr><td>
 		
-			<script type="text/javascript" language="JavaScript">
-			// Modify to reflect site specifics
-			adserver = "http://bsg.realbuzz.com";
+		
+				<script type="text/javascript" language="JavaScript">
+				// Modify to reflect site specifics
+				adserver = "http://bsg.realbuzz.com";
 			target = "/SITE=REALBUZZ_US/AREA=HOME/AAMSZ=LEADERBOARD/POSITION=1";
 			// Cache-busting and pageid values
 			random = Math.round(Math.random() * 100000000);
@@ -323,29 +241,35 @@ If you have any questions or concerns about the realbuzz.com email policy please
 			document.write('IPT SRC="' + adserver + '/jserver/acc_random=' + random + target + "/pageid=" + pageNum + '">');
 			document.write('</SCR');
 			document.write('IPT>');
-			</script><script src="http://bsg.realbuzz.com/jserver/acc_random=37768814/SITE=REALBUZZ_US/AREA=HOME/AAMSZ=LEADERBOARD/POSITION=1/pageid=16106691"></script>		</td></tr></tbody></table>
+			</script><script src="http://bsg.realbuzz.com/jserver/acc_random=20740354/SITE=REALBUZZ_US/AREA=HOME/AAMSZ=LEADERBOARD/POSITION=1/pageid=39732429"></script>		</td></tr></tbody></table>
 		</div>
 
 				<div class="sky-160-container" id="skyDiv">
-			<div class="ad_button"></div>
-			<div class="ad_button"></div>
-			<div class="ad_sky">
-					<script type="text/javascript" language="JavaScript">
-					// Modify to reflect site specifics
-					adserver = "http://bsg.realbuzz.com";
-					target = "/SITE=REALBUZZ_US/AREA=HOME/AAMSZ=SUPER_SKY/POSITION=1";
-					// Cache-busting and pageid values
-					random = Math.round(Math.random() * 100000000);
-					if (!pageNum) var pageNum = Math.round(Math.random() * 100000000);
-					document.write('<SCR');
-					document.write('IPT SRC="' + adserver + '/jserver/acc_random=' + random + target + "/pageid=" + pageNum + '">');
-					document.write('</SCR');
-					document.write('IPT>');
-					</script><script src="http://bsg.realbuzz.com/jserver/acc_random=15834583/SITE=REALBUZZ_US/AREA=HOME/AAMSZ=SUPER_SKY/POSITION=1/pageid=16106691"></script></div>
-			<div class="ad_button"></div>
-			<div class="ad_button"></div>
-			<div class="ad_button"></div>
+
+<div class="ad_button"></div>
+						<div class="ad_button"></div>
+						<div class="ad_button"></div>
+						<div class="ad_sky">
+				<script type="text/javascript" language="JavaScript">
+				// Modify to reflect site specifics
+				adserver = "http://bsg.realbuzz.com";
+			target = "/SITE=REALBUZZ_US/AREA=HOME/AAMSZ=SUPER_SKY/POSITION=1";
+			// Cache-busting and pageid values
+			random = Math.round(Math.random() * 100000000);
+			if (!pageNum) var pageNum = Math.round(Math.random() * 100000000);
+			document.write('<SCR');
+			document.write('IPT SRC="' + adserver + '/jserver/acc_random=' + random + target + "/pageid=" + pageNum + '">');
+			document.write('</SCR');
+			document.write('IPT>');
+			</script><script src="http://bsg.realbuzz.com/jserver/acc_random=6975891/SITE=REALBUZZ_US/AREA=HOME/AAMSZ=SUPER_SKY/POSITION=1/pageid=39732429"></script></div>
+						<div class="ad_button"></div>
 		</div>
+
+		<!-- Google Analytics -->
+		<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+		<script type="text/javascript">_uacct = "UA-2170956-1"; urchinTracker();</script>		
+
+		
 	
 
 
