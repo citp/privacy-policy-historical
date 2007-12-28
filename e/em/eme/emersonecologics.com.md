@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emersonecologics.com privacy policy that was archived on 2007-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070610224023id_/http%3A//www.emersonecologics.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emersonecologics.com privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228122911id_/http%3A//www.emersonecologics.com/Privacy.asp) for the most accurate reproduction.*
 
 # Emerson Ecologics - Privacy Statement
 
@@ -54,3 +54,5 @@ Please read our [privacy statement](https://web.archive.org/Privacy.asp).
 Copyright © 1997-2007. Emerson Ecologics, Inc.  All rights reserved.  
 phone: 1-800-654-4432  e-mail: [cs@emersonecologics.com](mailto:cs@emersonecologics.com)  
 [www.emersonecologics.com](http://www.emersonecologics.com/)
+
+All or part of the web pages that constitute the Emerson Ecologics web site may not be copied and posted elsewhere or used for any other commercial purpose, without the expressed written consent of Emerson Ecologics. Violators will be prosecuted. 
