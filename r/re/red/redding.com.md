@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redding.com privacy policy that was archived on 2007-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070502152249id_/http%3A//redding.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redding.com privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228021314id_/http%3A//www.redding.com/privacy) for the most accurate reproduction.*
 
 # Privacy & User Agreement : News : Redding Record Searchlight
 
