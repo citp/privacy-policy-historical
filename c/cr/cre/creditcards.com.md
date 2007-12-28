@@ -1,16 +1,114 @@
-> *The following text is extracted and transformed from the creditcards.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623082632id_/http%3A//www.creditcards.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditcards.com privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228233312id_/http%3A//www.creditcards.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy - CreditCards.com
 
-## CreditCards.com Privacy Policy
+[](http://www.truste.org/ivalidate.php?url=www.creditcards.com&sealid=101)
 
-**CreditCards.com Privacy Statement Introduction:** CreditCards.com has a strong commitment to providing excellent service to all of our customers, including respecting their concerns about privacy. We understand that visitors to our website may have questions about how this website collects and uses information. We have prepared this statement to inform you of the privacy principles that govern CreditCards.com
+_Last Revised: 14th December 2007_
 
-This statement contains numerous general and technical details about the steps we take to respect your privacy concerns. The bottom line is that meeting your needs and expectations form the foundation of everything we do - including protecting your privacy. This website does not collect personally identifiable information from your computer when you browse the site. This means that, unless you voluntarily and knowingly provide us with personally identifiable information, we will not know your name, your e-mail address, or any other personally identifiable information. Internet Protocol (IP) Address: An IP address is a number that is automatically assigned to your computer when you browse the Internet. When users request a page from our site, our servers log the user's current IP address. We use IP addresses to help diagnose problems. We do not link IP addresses to any personally identifiable information about you. 
+At CreditCards.com, we take great care in safeguarding the privacy of your personal information by following responsible information handling practices. 
 
-**Privacy Statement Concerning the Use of Cookies** \- CreditCards.com does not employ the use of cookies on its website to collect any personally identifiable information about any of our visitors. However, CreditCards.com cannot guarantee that all sites that are linked to or from our site employ the same policies. Please review each individual site's privacy policy. 
+**We do not require you to create an account or share any personally identifiable information in order to use our site**. When you choose to apply for a credit card offer presented at CreditCards.com, you are taken directly to the credit card issuer's website and you provide your information directly to the issuer. 
 
-**Securing the Transmission and Storage of Information:** All credit card applications listed with CreditCards.com use a Secured Sockets Layer (SSL) line provided you are using a SSL enabled browser such as Microsoft Internet Explorer or Netscape Navigator. This ensures that your information is encrypted as it travels over the Internet. This secure mode is enabled before any such information is transmitted from your computer. You will know you are in secure mode when the padlock or key icon in the lower right-hand or left-hand corner of the computer screen appears in the locked position. You will usually only see this icon only when you are filling out an application. In addition, when accessing a secure server, the first characters of the site address will change from "http" to "https."
+By using our website you consent to the collection, use and processing of the information that you provide to us in accordance with the terms of this Privacy Policy. If you do not agree to these terms, you must not use this site. 
 
-**CreditCards.com Privacy Statement Changes:** In the future, we may need to change the privacy statement for CreditCards.com. All changes will be made here so that you will always know what information we gather, how we might use that information and whether we will disclose it to anyone.  
+## Our Privacy Policy
 
+What information does CreditCards.com COLLECT?   
+Does CreditCards.com SHARE my personally identifiable information with others?   
+Does CreditCards.com use COOKIES to collect information about me?   
+How does CreditCards.com SECURE the information collected?   
+Does CreditCards.com collect information from CHILDREN?   
+Does this policy cover OTHER sites linked from CreditCards.com?   
+Who may I CONTACT if I have questions or concerns about the privacy or security of my information?   
+Will this Privacy Policy CHANGE?   
+Note to users in the United Kingdom   
+TRUSTe web Privacy Seal
+
+**What information does CreditCards.com COLLECT?**   
+We do not require you to create an account or share any personally identifiable information in order to use our site. However, we do collect some non-personally identifiable information automatically. Further, solely at your option, you can choose to share some contact information with us. 
+
+_Information Collected Automatically_   
+CreditCards.com does NOT automatically collect personally identifiable information from your computer when you browse our site. We automatically collect some non-personally identifiable information about your visit, including the operating system and browser you are using, as well as the date, time, and pages you visit. Collecting this information helps us design the site to suit your needs.
+
+When you request a page from our site, our servers log your current IP address. An Internet Protocol ("IP") address is a unique string of numbers that is automatically assigned to your computer by your Internet Service Provider. We use IP addresses to help diagnose problems and to gather demographic information and measure traffic to the site. We do not link IP addresses to any personally identifiable information about you. 
+
+CreditCards.com also allows third party partners to place session cookies on your computer to collect non-personally identifiable information such as aggregate use statistics for internal evaluation of the site. See below for additional information on cookies. 
+
+_Information You Provide to Us (Optionally)_   
+We obtain personally identifiable information about you if you elect to send an inquiry to us through the Contact Us section of our website. Please note that this information is only used to communicate with you regarding your inquiry or request for a newsletter (See Choice/Opt-Out for preference options). The types of personally identifiable information we ask you to provide may include the following: 
+
+  * Name
+  * Organization
+  * Address
+  * Telephone number
+  * Fax number
+  * E-mail address
+
+
+
+The CreditCards.com Blogs website at [http://blogs.creditcards.com](http://blogs.creditcards.com/) allows you to submit comments and feedback on blog posts. In order to comment on these posts, we require you to register by providing a username, display name, email address and creating a password and password recovery phrase. Blog comments are moderated by our team, and upon approval, your display name and comment will be visible on the Blogs website. Please note that you can read all blog posts and comments without needing to register. Registration is required only in order to post comments. 
+
+_Choice/Opt-out_  
+If you no longer wish to receive our newsletter, you may opt-out of receiving it by following the instructions included in each newsletter, or you may write to us at CreditCards.com, Attn: Newsletter Unsubscribe, 13809 Research Blvd. #906 Austin, TX 78750 to opt-out.
+
+You may not opt-out of receiving email acknowledgements and responses to customer support or media inquiries.
+
+_Information From/About Friends or Family_  
+From time to time, we will host promotions, surveys, sweepstakes, and contests on our web site. We will use the personally identifiable information collected for these promotions only to communicate with you about the event and to notify the winners. We will also allow you to invite a friend to vote when you register for some contests. We will send a one-time email to the friend inviting them to visit the site to vote during the contest. We only store these third party email addresses for purposes of sending these types of emails. 
+
+**Does CreditCards.com SHARE my personally identifiable information with others?**   
+CreditCards.com does NOT share information that we have about you with anyone, except in response to subpoenas or as otherwise required by law. We do not share, sell, rent, or trade personally identifiable information with third parties for their promotional purposes.
+
+**Does CreditCards.com use COOKIES to collect information about me?**   
+A cookie is a small data file that we transfer to your computer's hard drive through your web browser when you visit our site. Cookies enable our systems to recognize your computer so that we can provide you with personalized service and features, and to track traffic patterns. Although our cookies may contain a unique user ID, they do not collect or store any of your personally identifiable information
+
+We employ a third party (WebSideStory) to collect anonymous, non-personally identifiable information to evaluate the effectiveness of our websites. This vendor uses cookies and transparent images called "web beacons" to collect this information. Like cookies, web beacons do not allow us or the vendor to identify you personally. This data helps us understand how visitors use our website, such as the most visited pages and features. WebSideStory does not collect any personally identifiable information from you, and they do not share the non-personally identifiable information collected with anyone else for any other purpose. You may view their privacy policy [here](http://www.websidestory.com/privacy/overview.html). We have no access or control over these types of third party cookies. 
+
+Also, in the course of advertising, a third party advertiser may place or recognize a unique cookie on your browser. CreditCards.com assumes no responsibility for any cookies placed on your browser by such third-party advertisers. 
+
+**How does CreditCards.com SECURE the information collected?**   
+CreditCards.com has security measures in place and takes reasonable precautions to protect against the loss, misuse, and unauthorized access of your personal information under our control. To help us accomplish this, we adopt the following procedures: 
+
+  * Employ internal access controls to ensure that the only people who see your information are those with a need to do so to perform their official duties.
+  * Train relevant personnel on our privacy and security measures.
+  * Regularly back up the information we collect online to insure against loss.
+  * Use technical controls to secure the information we collect online as appropriate, including but not limited to: encryption, firewalls and password protections.
+  * Periodically test our security procedures to ensure personnel and technical compliance.
+
+
+
+We use reasonable measures to ensure that all credit card applications listed with CreditCards.com use a Secured Sockets Layer (SSL) connection. Provided you are using a SSL enabled browser, your information is encrypted as it travels over the Internet when you apply for a credit card at the issuer's website. You will know you are in secure mode when the padlock or key icon in the lower right-hand or left-hand corner of the computer screen appears in the locked position. You will usually only see this icon only when you are filling out an application. In addition, when accessing a secure server, the first characters of the site address will change from "http" to "https". We are not responsible for the security of data transmitted from your computer to any issuer or other third-party website. For more information on security, please read our [Site Security](https://web.archive.org/SSL-Security.php) policy. 
+
+**Does CreditCards.com collect information from CHILDREN?**   
+At CreditCards.com, we are committed to protecting the privacy of children. We will not knowingly or intentionally collect personal information online from children under the age of 18. 
+
+If you are under 18 years of age, please do not submit any personal information through our website without the express consent and participation of a parent or guardian. 
+
+**Does this policy cover OTHER sites linked from CreditCards.com?**   
+This policy covers our online practices and does not apply to any third party sites, including card issuers or other sites that may be linked from our website. We encourage you to read the terms and conditions and privacy policies of those other sites to learn how they collect and use information about you. 
+
+**Who may I CONTACT if I have questions or concerns about the privacy or security of my information?**   
+To report any known or suspected privacy or security breaches or if you do not feel your concerns have been addressed in our privacy statement, feel free to contact us. You may contact us in the following ways: 
+
+  * By email at [](mailto:privacy@creditcards.com)
+  * By mail at  
+CreditCards.com  
+Attn: Privacy  
+13809 Research Blvd. Suite 906 ****  
+Austin TX 78750
+
+
+
+**Will this Privacy Policy CHANGE?**   
+Because CreditCards.com will continue to implement new technologies and improve the services and features we provide, this policy is subject to change. Changes or additions to this Privacy Policy will be in this section of the website. You can always come to this section to learn what information we gather, how we might use that information and whether we will disclose it to anyone. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page. 
+
+**Note to users in the United Kingdom**   
+You are entitled to see a copy of the personal information that you have submitted to us online. If you wish to do this, please email us at [](mailto:privacy@creditcards.com)[](mailto:privacy@creditcards.com?subject=Access%20Request) and insert access request in the subject line. 
+
+You may ask us to make changes to the information provided by you and/or held about you to ensure that it is accurate and kept up to date. You may also request that we delete your personal information from our records. 
+
+You acknowledge that any information you provide to us will be held on our computers in the United States and may be accessed for the purposes outlined in this policy or for other purposes approved by you. 
+
+**TRUSTe Web Privacy Seal**   
+CreditCards.com is a licensee of the TRUSTe Web Privacy Seal Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web sites [www.creditcards.com](http://www.creditcards.com/) and [uk.creditcards.com](http://uk.creditcards.com/). Because we want to demonstrate their commitment to your privacy, we have agreed to disclose our information practices and have our privacy practices reviewed for compliance by TRUSTe. If you have questions or concerns regarding this statement, you should first us at [](mailto:privacy@creditcards.com)[](mailto:privacy@creditcards.com?subject=Access%20Request) . If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns. 
