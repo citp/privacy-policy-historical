@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clicksagent.com privacy policy that was archived on 2007-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070506085007id_/http%3A//clicksagent.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clicksagent.com privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228044628id_/http%3A//www.clicksagent.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
