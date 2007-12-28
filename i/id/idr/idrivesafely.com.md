@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the idrivesafely.com privacy policy that was archived on 2007-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070420214413id_/http%3A//www.idrivesafely.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idrivesafely.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229004752id_/http%3A//www.idrivesafely.com/privacy) for the most accurate reproduction.*
 
-# Defensive Driving Online Traffic School
+# IDriveSafely.com - Privacy Policy
 
 I DRIVE SAFELY is the sole owner of the information collected on its web site. I DRIVE SAFELY collects personally identifiable information from our customers and potential affiliates at several different points on our website. We will deny requests for marketing, scholastic, demographic, or other information requests from entities that could derive commercial or social benefits from such data. We will not use or sell this information to promote products or services unrelated to this traffic safety course or in ways different from what is disclosed in this statement.
 
