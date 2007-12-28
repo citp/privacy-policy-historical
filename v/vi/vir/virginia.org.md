@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the virginia.org privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627034156id_/http%3A//www.virginia.org/site/main.asp%3Freferrer%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virginia.org privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228223916id_/http%3A//www.virginia.org/site/main.asp%3Freferrer%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy: Statewide: Virginia Is For Lovers
 
-If you feel that this company is not abiding by its posted privacy policy, contact Wirt Confroy, Electronic Marketing Director by phone at (804) 545-5552 or email [wconfroy@virginia.org.](mailto:wconfroy@virginia.org)
+If you feel that this company is not abiding by its posted privacy policy, contact Dave Neudeck, Electronic Marketing Director by phone at (804) 545-5554 or email [dneudeck@virginia.org.](mailto:dneudeck@virginia.org)
 
 **Information Collection and Use**
 
@@ -46,10 +46,10 @@ If a user's personally identifiable information changes (such as your zip code),
 
 **Opt-out**
 
-Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email or email us at [vainfo@virginia.org](mailto:vainfo@virginia.org)
+Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email or email us at [webmaster@virginia.org](mailto:webmaster@virginia.org)
 
 **Notification of Changes**
 
 If we decide to change our privacy policy, we will post those changes on our privacy page so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. 
 
-[**Freedom of Information Act (FOIA) Policy** ](http://www.vatc.org/administration/FOIA/FOIApolicy.htm)
+[**Freedom of Information Act (FOIA) Policy** ](http://www.vatc.org/administration/FOIA/FOIA.asp)
