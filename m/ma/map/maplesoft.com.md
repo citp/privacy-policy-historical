@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maplesoft.com privacy policy that was archived on 2007-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070612224155id_/http%3A//www.maplesoft.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maplesoft.com privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228180024id_/http%3A//www.maplesoft.com/privacy) for the most accurate reproduction.*
 
 # Our Position on Privacy and Data Protection - Maplesoft
 
@@ -50,4 +50,4 @@ Maplesoft periodically sends non-commercial information and technical updates to
 Maplesoft will take appropriate steps to ensure that personal data is protected from unauthorized access and disclosure, including limited access to such data only to those employees with a business need to know. Maplesoft will apply these principles regardless of the specific technologies employed for data collection and use. 
 
 **Contact Information**  
-If you have questions concerning this privacy policy please contact [privacy@maplesoft.com.](mailto:privacy@maplesoft.com)
+To ask questions or express concerns, please contact our Privacy Officer by email at [privacy@maplesoft.com](mailto:privacy@maplesoft.com), or by postal mail at: Maplesoft’s Privacy Officer, 615 Kumpf Drive, Waterloo, ON, Canada, N2V1K8. The Privacy Officer will investigate any complaints that concern our compliance with this privacy policy.
