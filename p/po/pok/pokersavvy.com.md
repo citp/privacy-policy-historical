@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pokersavvy.com privacy policy that was archived on 2007-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070329032643id_/http%3A//www.pokersavvy.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokersavvy.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229005652id_/http%3A//www.pokersavvy.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement | PokerSavvy
 
