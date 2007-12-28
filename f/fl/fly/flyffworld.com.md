@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flyffworld.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630022632id_/http%3A//www.flyffworld.com/tos.php%23pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flyffworld.com privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228072319id_/http%3A//flyffworld.com/tos.php%23pp) for the most accurate reproduction.*
 
 # FlyFFWorld.com - Terms Of Service
 
