@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mychurch.org privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623114927id_/http%3A//www.mychurch.org/info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mychurch.org privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228232839id_/http%3A//www.mychurch.org/info/privacy.php) for the most accurate reproduction.*
 
-# MyChurch.org: Privacy
+# Privacy
 
 **MyChurch.org does not spam or sell email addresses.**
 
