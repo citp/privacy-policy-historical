@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the siteadvisor.pl privacy policy that was archived on 2007-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070320093404id_/http%3A//www.siteadvisor.pl/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siteadvisor.pl privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228200437id_/http%3A//siteadvisor.pl/privacypolicy.html) for the most accurate reproduction.*
 
 # McAfee SiteAdvisor - Privacy policy
 
@@ -12,6 +12,7 @@
 
   * If you install McAfee's SiteAdvisor software on your computer, it checks our master database in order to display our safety ratings about the sites you search for or visit. For SiteAdvisor Plus users, we also check the links you use and encounter in e-mail or instant messaging programs. In order to perform these checks, our software must query our servers about these sites or links, because our database of safety ratings is far too large and too frequently changing for us to send it to you in advance when you download our software. But we collect the minimum information necessary to serve you, and your requests to us are anonymous. (Think of this as asking a tour guide in a new city you're visiting about how safe it would be to walk down "5th Street". You have to name the street to get an answer.) 
   * We never store information about where specific users go online or about what specific users do online. We do keep master anonymous logs of which sites our users visit so we can prioritize those sites for retesting. But these logs contain no information about which users visited which sites -- no personally identifying information, and not even users' IP addresses. (Continuing our tour guide analogy, it's as if the tour guide immediately and permanently forgot who asked about 5th Street, but did make a mental note to check the safety of that street at some point in the future.) 
+  * Our software periodically sends us a unique, anonymous number so that we know that our software is working properly for you. This helps us know how many people are using SiteAdvisor and helps us plan the resources necessary to continue to provide you the great SiteAdvisor service. (Sticking with the tour guide analogy, this allows the tour guide to know how many people are enjoying the tour, how big of a bus we need to accommodate the tour, and how much food to prepare for lunch!)
   * Additional details are available in the "End User License Agreement" of our software.
 
 
