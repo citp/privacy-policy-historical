@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the monster.ca privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630062851id_/http%3A//about.monster.ca/9936_en-CA_p1.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monster.ca privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228093708id_/http%3A//about.monster.ca/9936_en-CA_p1.asp) for the most accurate reproduction.*
 
 # Monster.ca - Privacy Statement
 
@@ -6,9 +6,9 @@
 **  
 Monster.ca was recently recognized as having one of the best Privacy Policies in the country!** The report, put out by Nymity Inc., Canada’s leading privacy educator, ranked Monster.ca as one of the top three companies nationwide in our category for privacy protection. [More...](http://about.monster.ca/7210_en-CA_p1.asp)
 
-**Official Privacy Statement  
+**Official Privacy Statement    
 **  
-TMP Worldwide Communications Inc. d/b/a Monster.ca ("Monster.ca") is committed to respecting the privacy of our users. We strive to provide a safe, secure user experience. This Privacy Statement sets forth the online data collection and usage policies and practices that apply to the Monster.ca Web site. By creating an account on the Monster.ca Web site, you consent to the policies and practices described in this Statement. 
+Monster Canada Worldwide Inc. d/b/a Monster.ca ("Monster.ca") is committed to respecting the privacy of our users. We strive to provide a safe, secure user experience. This Privacy Statement sets forth the online data collection and usage policies and practices that apply to the Monster.ca Web site. By creating an account on the Monster.ca Web site, you consent to the policies and practices described in this Statement. 
 
 Your data will be stored and processed in whole or in part in the United States. If you access the Monster.ca Web site from Canada, your usage of the site constitutes consent to the transfer of your data out of Canada to the United States and acknowledgement that United States governments, courts of law enforcement or regulatory agencies may obtain disclosure of your data through the laws of the United States. 
 
@@ -88,7 +88,7 @@ Web beacons collect only a limited set of information including a cookie number,
 
 **Updating Your Information  
 **  
-You have the right to demand that your personal information be deleted from Monster.ca. You may review, correct, update or change your My Monster account profile information at any time by simply logging into your My Monster account, going to your [Account Profile](http://my.monster.ca/account/accountedit.aspx), and editing it with the options provided. Click here to log in to your account. You may review, delete, correct, update or change your resume on Monster.ca at any time by simply logging into your My Monster account, going to Manage resumes, and deleting it or editing it with the options provided. Click here to log in to your account. You can request that your My Monster account be deleted by [contacting Monster.ca](http://about.monster.ca/9464_en-CA_p1.asp). 
+You have the right to demand that your personal information be deleted from Monster.ca. You may review, correct, update or change your My Monster account profile information at any time by simply logging into your My Monster account, going to your [Account Profile](http://my.monster.ca/account/accountedit.aspx), and editing it with the options provided. [Click here](http://my.monster.ca/Login.aspx) to log in to your account. You may review, delete, correct, update or change your resume on Monster.ca at any time by simply logging into your My Monster account, going to Manage resumes, and deleting it or editing it with the options provided. [Click here](http://my.monster.ca/Login.aspx) to log in to your account. You can request that your My Monster account be deleted by [contacting Monster.ca](http://about.monster.ca/9464_en-CA_p1.asp). 
 
 If you opted to receive newsletters, commercial e-mails or other communications from Monster.ca or third parties at the time you registered with My Monster, but subsequently change your mind, you may opt-out by editing your Account Profile as described above. If you previously opted not to receive such communications, you may later opt-in by editing your Account Profile. 
 
@@ -108,7 +108,7 @@ If we decide to change our Privacy Statement for Monster.ca, we will post those 
 
 **Contact Information  
 **  
-Monster.ca is a name under which TMP Worldwide Communications Inc., with its principal place of business at 276 Saint-Jacques Street West, 10th floor, Montreal, Quebec, Canada H2Y 1N3 and certain of its affiliated companies worldwide, do business. ("Affiliated companies" means entities that control, are controlled by or are under common control with TMP Worldwide Communications Inc.). TMP Worldwide Communications Inc. is the legal entity which determines the purposes and means of processing the information gathered at the Monster.ca Web site. The information we gather on the Monster.ca Web site may be shared within TMP Worldwide Communications Inc. and its affiliated companies. 
+Monster.ca is a name under which Monster Canada Worldwide Inc., with its principal place of business at 276 Saint-Jacques Street West, 10th floor, Montreal, Quebec, Canada H2Y 1N3 and certain of its affiliated companies worldwide, do business. ("Affiliated companies" means entities that control, are controlled by or are under common control with Monster Canada Worldwide Inc.). Monster Canada Worldwide Inc. is the legal entity which determines the purposes and means of processing the information gathered at the Monster.ca Web site. The information we gather on the Monster.ca Web site may be shared within Monster Canada Worldwide Inc. and its affiliated companies. 
 
 We welcome your comments concerning this Privacy Statement. If you believe that we have not adhered to this Statement, please contact us by e-mailing us at [notification@monster.ca](mailto:notification@monster.ca?subject=Privacy) or by calling us at 1-800-MONSTER. We will use commercially reasonable efforts to promptly determine and remedy the problem. 
 
