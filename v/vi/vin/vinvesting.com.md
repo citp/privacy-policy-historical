@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the vinvesting.com privacy policy that was archived on 2007-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070226210249id_/http%3A//www.vinvesting.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vinvesting.com privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228011744id_/http%3A//vinvesting.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy | Vinvesting.com
-
-### Privacy Policy
-
-Published Mon, 2006-12-25 14:51 
+# Privacy Policy | VInvesting.com
 
 We record your personal information (name, address, e-mail address) only when you voluntarily offer it. We do not sell or rent any information you submit to us. 
 
