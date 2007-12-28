@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jumpoff.tv privacy policy that was archived on 2007-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070426123451id_/http%3A//www.jumpoff.tv/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jumpoff.tv privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228093046id_/http%3A//www.jumpoff.tv/privacy.php) for the most accurate reproduction.*
 
 # » JumpOff.TV
 
@@ -17,7 +17,7 @@ We do not transfer user names, e-mail addresses or registration information to a
 Our members are given the opportunity to 'opt-out' of having their information used for purposes not directly related to our site at the point where we ask for their registration information. Members can also opt in or out at any time by changing their personal account settings. If you received a promotion from us, it is because you have given permission for us to send you an email. 
 
 **HOW DO I GET REMOVED FROM YOUR EMAIL LIST**   
-If you wish to unsubscribe follow the instructions at the bottom of any email, or log in to your account, and goto Account Settings. If you have received an unwanted email sent by Jump Off TV please forward a copy of the email with your comments to [abuse](https://web.archive.org/web/20070426123451id_/http%3A//www.jumpoff.tv/contactus.php). 
+If you wish to unsubscribe follow the instructions at the bottom of any email, or log in to your account, and goto Account Settings. If you have received an unwanted email sent by Jump Off TV please forward a copy of the email with your comments to [abuse](https://web.archive.org/web/20071228093046id_/http%3A//www.jumpoff.tv/contactus.php). 
 
 **COOKIES**   
 Cookies are small text files that most Web sites, including Jump Off TV , place on your computer. Cookies help us identify you. Cookies delivered to you through banner ads are collected by our advertisers. We don't have access to any specific information they may provide. Those serving banner ads on our site only provide us with information in aggregate form. No individual information is given to us. Jump Off TV is not able, and does not wish, to use cookies to track your activities on the Web outside of our site. No cookie delivered by us will interfere with the operation of your computer. 
@@ -36,11 +36,11 @@ As a member, you also have the choice to Opt-out at any time, and for any reason
 Never give out personal information such as your address, phone number or banking details to strangers on the internet as we can not be responsible for any illegal or harmful actions that may result. We will never write to you and ask you for your Jump Off TV password, never give it out to anyone. 
 
 **REMOVING YOUR INFORMATION**   
-You can delete your account at anytime to remove all your information, or ask us to do it for you by sending an email to [support](https://web.archive.org/web/20070426123451id_/http%3A//www.jumpoff.tv/contactus.php). After deleting your account we may still have information on you stored in our backups and archives for some time, but this information will never be used, shared or sold. 
+You can delete your account at anytime to remove all your information, or ask us to do it for you by sending an email to [support](https://web.archive.org/web/20071228093046id_/http%3A//www.jumpoff.tv/contactus.php). After deleting your account we may still have information on you stored in our backups and archives for some time, but this information will never be used, shared or sold. 
 
 **EXTERNAL LINKS**   
 This site contains links to other sites. Jump Off TV is not responsible for the privacy practices or the content of such Web sites. 
 
 By registering with Jump Off TV, you agree to be bound by the terms & conditions of this Privacy Policy. 
 
-If you have questions or comments on this Privacy Policy, please email us at [info](https://web.archive.org/web/20070426123451id_/http%3A//www.jumpoff.tv/contactus.php). 
+If you have questions or comments on this Privacy Policy, please email us at [info](https://web.archive.org/web/20071228093046id_/http%3A//www.jumpoff.tv/contactus.php). 
