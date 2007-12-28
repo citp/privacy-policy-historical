@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the libertysafe.com privacy policy that was archived on 2007-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070413050607id_/http%3A//www.libertysafe.com/privacy.lasso) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the libertysafe.com privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228033538id_/http%3A//www.libertysafe.com/privacy.lasso) for the most accurate reproduction.*
 
 # Privacy
 
