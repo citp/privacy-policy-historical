@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the threadbanger.com privacy policy that was archived on 2007-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070512235646id_/http%3A//www.threadbanger.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the threadbanger.com privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228031234id_/http%3A//www.threadbanger.com/privacy_policy) for the most accurate reproduction.*
 
-# ThreadBanger.com
+# ThreadBanger
 
 **Next New Networks Online Privacy Policy**
 
@@ -10,10 +10,10 @@ Our mailing address is
 Next New Networks  
 Legal Department  
 419 Park Avenue South  
-Suite 807  
+Suite 900  
 New York, NY 10016
 
-We can be reached via e-mail at [seamstress@threadbanger.com](mailto:seamstress@threadbanger.com)
+We can be reached via e-mail at [tips@threadbanger.com](mailto:tips@threadbanger.com)
 
 The policies below are applicable to threadbanger.com and other Internet services connected to the Internet operated by Next New Networks (the "Sites").
 
@@ -38,16 +38,14 @@ Please note that:
 **Aggregated Information**  
 Aggregated information, such as which pages users access or visit and information volunteered by users, such as survey information and/or site registrations, is collected through various methods. For example, the Sites log IP addresses. An IP address is a number that is automatically assigned to your computer whenever you're surfing the Web. Web servers, the computers that "serve up" Web pages, automatically identify your computer by its IP address, and when you request a page from any Site, our servers log your IP address. 
 
-To learn more about IP addresses and how they work, please visit this page on Wikipedia. 
+To learn more about IP addresses and how they work, please visit [this page](http://en.wikipedia.org/wiki/IP_address) on Wikipedia. 
 
 _IN SOME JURISDICTIONS, LEGAL AUTHORITIES MAY TREAT IP ADDRESSES AS PERSONALLY IDENTIFIABLE INFORMATION. BY YOUR USAGE OF OUR SERVICES, YOU HEREBY ACKNOWLEDGE THE FOREGOING NOTICE AND CONSENT AND OPT-IN TO OUR COLLECTION OF YOUR IP ADDRESS PER THE TERMS AND CONDITIONS SET FORTH HEREIN._
-
-If you would like to shield your IP address, you can do so by using a proxy service.
 
 **Cookies and Tracking Devices**  
 Our Sites may use cookies or other tracking devices. Cookies do not allow the website to access personal information that you have not already provided. You can refuse to use cookies by turning them off in your browser. You do not need to have cookies turned on to use most of this Site. However, you may find that some areas on the Site will be slower, or may not function at all.
 
-For more information about cookies, please visit this page on Wikipedia.
+For more information about cookies, please visit [this page](http://en.wikipedia.org/wiki/HTTP_cookie) on Wikipedia.
 
 You may occasionally get cookies or other tracking devices from our advertisers. We do not control these devices, and these devices are not subject to our privacy policies.
 
@@ -78,10 +76,10 @@ The Sites may contain links to other sites that you may access. These other site
 
 No transmission of data over the Internet is guaranteed to be completely secure. It may be possible for third parties not under our control to intercept or access transmissions or private communications unlawfully. While we strive to protect your personal information, we cannot ensure or warrant the security of any information you transmit to us. Any such transmission is done at your own risk. 
 
-UNDER NO CIRCUMSTANCES, INCLUDING BUT NOT LIMITED TO NEGLIGENCE, SHALL ANY SITE OR NEXT NEW NETWORKS BE LIABLE FOR ANY SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES THAT RESULT FROM THE USE OF INFORMATION OR MATERIALS ON OUR SITES, EVEN IF WE OR AN AUTHORIZED REPRESENTATIVE OF OURS, HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. THIS SECTION ALSO SHOULD BE READ IN CONJUNCTION WITH THE FULL TERMS OF SERVICE.
+UNDER NO CIRCUMSTANCES, INCLUDING BUT NOT LIMITED TO NEGLIGENCE, SHALL ANY SITE OR NEXT NEW NETWORKS BE LIABLE FOR ANY SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES THAT RESULT FROM THE USE OF INFORMATION OR MATERIALS ON OUR SITES, EVEN IF WE OR AN AUTHORIZED REPRESENTATIVE OF OURS, HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. THIS SECTION ALSO SHOULD BE READ IN CONJUNCTION WITH THE [FULL TERMS OF USE](https://web.archive.org/terms_of_use).
 
 You should be aware that the United States and other countries have not harmonized their privacy regulations. Because our Sites are intended specifically for users in the United States, we have written our Privacy Policy to satisfy United States regulations. By using any Site, you agree to the level of privacy protection set out in our Privacy Policy.
 
 **USE OF THIS SITE SIGNIFIES YOUR AGREEMENT TO THE PRIVACY POLICY.**
 
-The issue of privacy is an evolving one. We are committed to the constant monitoring and examination of our privacy practices, and may, from time to time, institute changes to our Privacy Policy. In the event that any material changes are made to our privacy practices, we will promptly make changes to this Privacy Policy that reflect such changes; therefore we recommend you review our policy regularly to check for updates. You can send e-mail to us with any further questions at the email address at the beginning of this Privacy Policy. This Privacy Policy was last updated and is effective as of January 8, 2006. 
+The issue of privacy is an evolving one. We are committed to the constant monitoring and examination of our privacy practices, and may, from time to time, institute changes to our Privacy Policy. In the event that any material changes are made to our privacy practices, we will promptly make changes to this Privacy Policy that reflect such changes; therefore we recommend you review our policy regularly to check for updates. You can send e-mail to us with any further questions at the email address at the beginning of this Privacy Policy. This Privacy Policy was last updated and is effective as of June 27, 2007. 
