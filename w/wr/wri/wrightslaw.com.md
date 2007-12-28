@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wrightslaw.com privacy policy that was archived on 2007-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070430151302id_/http%3A//www.wrightslaw.com/priv_plcy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wrightslaw.com privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228011333id_/http%3A//www.wrightslaw.com/priv_plcy.htm) for the most accurate reproduction.*
 
 # Wrightslaw Privacy and Securities Policies
 
@@ -25,5 +25,3 @@ If you have any concerns or questions about our privacy policy or information co
 
 
 [](http://www.constantcontact.com/safesubscribe.jsp)
-
-Copyright © 1998-2007, Peter W. D. Wright and Pamela Darr Wright. All rights reserved. [ Contact Us](mailto:webmaster@wrightslaw.com?subject=Contact%20from%20Wrightslaw.com) | [Press](http://www.wrightslaw.com/press.htm)
