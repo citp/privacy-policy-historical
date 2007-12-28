@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the ourstory.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617013039id_/http%3A//ourstory.com/doc/policies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ourstory.com privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228193947id_/http%3A//www.ourstory.com/doc/policies.html) for the most accurate reproduction.*
 
 # OurStory.com - Capture your stories, save them permanently.
-
-[](http://www.truste.org/ivalidate.php?url=www.ourstory.com&sealid=101)
 
   
 
@@ -135,8 +133,6 @@ If you decide to visit the Site, your visit and any possible dispute over privac
 
 
 ### Questions or Suggestions?
-
-WisdomArk is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. Because WisdomArk wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. If you have questions or concerns regarding this statement, you should first contact us at [support@ourstory.com](mailto:support@ourstory.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you may contact TRUSTe at http://www.truste.org/consumers/watchdog_complaint.php. TRUSTe will then serve as a liaison with us to resolve your concerns.
 
 If you have any questions about this Privacy Statement, the practices of the Site, or your dealings with WisdomArk, please contact us at: 
 
