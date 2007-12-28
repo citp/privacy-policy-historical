@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the realadventures.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429131315id_/http%3A//www.realadventures.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realadventures.com privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228011850id_/http%3A//www.realadventures.com/privacy.htm) for the most accurate reproduction.*
 
-# Cedora, Inc. Privacy Policy
+# RealAdventures Privacy Policy
 
 In summary, we **never** sell, rent or otherwise distribute your e-mail address or other personal information to anyone. However, if you inquire or make an offer about a specific product or service, we will forward your Inquiry/BestOffer to the appropriate sales office for them to respond to your questions, concerns or reservation request. 
 
@@ -103,7 +103,7 @@ Protection of personal or professional information, e-mail addresses and passwor
 
 ### **Additional Information**
 
-Questions regarding our Privacy Policy should be directed to [/mv/feedback.mv](http://www.realadventures.com/mv/feedback.mv).
+Questions regarding our Privacy Policy should be directed to [feedback.htm](https://web.archive.org/php/feedback.htm).
 
 **Also check out the following sites:**
 
