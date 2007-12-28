@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dallascityhall.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627060924id_/http%3A//www.dallascityhall.com/html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dallascityhall.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229005605id_/http%3A//www.dallascityhall.com/html/privacy.html) for the most accurate reproduction.*
 
 # City of Dallas Privacy Policy
 
@@ -38,4 +38,4 @@ DALLAScityhall.com may be required by law enforcement or judicial authorities to
 
  ****
 
-****If at any time you are concerned that your information is incorrect and you are unsure how to correct or update it, please contact us at[ privacy@texasonline.state.tx.us](mailto:webgroup@dallascityhall.com) or contact the appropriate government partner directly.
+****If at any time you are concerned that your information is incorrect and you are unsure how to correct or update it, please contact us at[ webgroup@dallascityhall.com](mailto:webgroup@dallascityhall.com) or contact the appropriate government partner directly.
