@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the npr.org privacy policy that was archived on 2007-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070628135455id_/http%3A//www.npr.org/about/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the npr.org privacy policy that was archived on 2007-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071228080610id_/http%3A//www.npr.org/about/privacypolicy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
         <title>NPR Linking and Privacy Policy</title>
@@ -54,6 +54,10 @@ function getDateStr()
 
 sfHover = function() {
 	var sfEls = document.getElementById("nav").getElementsByTagName("LI");
+	
+    var stnNav = document.getElementById("stn_nav");
+    if (stnNav != null) { sfEls = concatCollections(sfEls, stnNav.getElementsByTagName("LI")); }
+	
 	for (var i=0; i<sfEls.length; i++) {
 		sfEls[i].onmouseover=function() {
 			this.className+=" sfhover";
@@ -77,26 +81,10 @@ if (document.all && window.attachEvent) window.attachEvent("onload", sfHover);
 	<!-- start header row one -->
 	<div id="headerRowOne">
 		<div id="logo"><a href="/"><img src="http://media.npr.org/images/logo_npr_125.gif" alt="NPR Home Page" height="42" width="125"></a></div>
-
-		<script type="text/javascript">
-		//<![CDATA[
-		document.write('<ul class="audiostreams">');
-		if(typeof(window.audioMediaType) == "undefined")
-		{
-			document.write("<li><a href=\"javascript:getNewsCast();\" class=\"audioIcon\">Hourly News Summary</a></li>\n");
-			document.write("<li><a href=\"javascript:getProgramStream();\" class=\"audioIcon\">24-hour Program Stream</a> | <a href=\"/audiohelp/progstream.html\">Schedule</a></li>\n");
-		}
-		else
-		{
-			document.write("<li><a href=\"javascript:launchPlayer('1', '4', '', '&topicName=News&subtopicName=Newscast', 'WM,RM');\" class=\"audioIcon\">Hourly News Summary</a></li>\n");
-			document.write("<li><a href=\"javascript:launchPlayer('1', '5', '', '&topicName=News&subtopicName=Program_Stream', 'WM,RM');\" class=\"audioIcon\">24-hour Program Stream</a> | <a href=\"/audiohelp/progstream.html\">Schedule</a></li>\n");
-		}
-		document.write('</ul>');
-		//]]>	
-		</script><ul class="audiostreams"><li><a href="javascript:getNewsCast();" class="audioIcon">Hourly News Summary</a></li>
-<li><a href="javascript:getProgramStream();" class="audioIcon">24-hour Program Stream</a> | <a href="/audiohelp/progstream.html">Schedule</a></li>
-</ul>
-				
+		<ul class="audiostreams">
+			<li><a href="javascript:getNewsCast();" class="audioIcon">Hourly News Summary</a></li>
+			<li><a href="javascript:getProgramStream();" class="audioIcon">24-hour Program Stream</a> | <a href="/audiohelp/progstream.html">Schedule</a></li>			
+		</ul>
 		<div id="searchBox">
 			<form method="get" action="/search.php" name="searchForm" id="searchForm">
 				<p>
@@ -157,21 +145,26 @@ if (document.all && window.attachEvent) window.attachEvent("onload", sfHover);
 		<ul id="nav">	
 			<li><a href="/programs/index.html" class="rollPrograms "><img src="http://media.npr.org/chrome/nav_programs_off.gif" width="94" height="25" alt="Programs"></a>
 				<ul id="dropdown">
-					<li><a href="/templates/rundowns/rundown.php?prgId=3">Morning Edition</a></li>
+					<li style="padding:5px 10px;width:155px;color:#214ac6;font-weight:bold;font-size:11px;">News/Talk</li>
 					<li><a href="/templates/rundowns/rundown.php?prgId=2">All Things Considered</a></li>
+					<li><a href="/templates/rundowns/rundown.php?prgId=47">The Bryant Park Project</a></li>
 					<li><a href="/templates/rundowns/rundown.php?prgId=17">Day to Day</a></li>
-					<li><a href="/templates/rundowns/rundown.php?prgId=5">Talk of the Nation</a></li>
-					<li><a href="/templates/rundowns/rundown.php?prgId=13">Fresh Air</a></li>		
+					<li><a href="/templates/rundowns/rundown.php?prgId=13">Fresh Air</a></li>
+					<li><a href="/templates/rundowns/rundown.php?prgId=3">Morning Edition</a></li>							
 					<li><a href="/templates/rundowns/rundown.php?prgId=11">News &amp; Notes</a></li>
-					<li><a href="/templates/rundowns/rundown.php?prgId=46">Tell Me More</a></li>	
-					<li><a href="/templates/rundowns/rundown.php?prgId=7">Weekend Edition Saturday</a></li>
-					<li><a href="/templates/rundowns/rundown.php?prgId=10">Weekend Edition Sunday</a></li>
+					<li><a href="/templates/rundowns/rundown.php?prgId=5">Talk of the Nation</a></li>
+					<li><a href="/templates/rundowns/rundown.php?prgId=46">Tell Me More</a></li>					
 					<li><a href="/programs/waitwait/">Wait Wait...Don't Tell Me</a></li>
-					<li><a href="/programs/asc/">All Songs Considered</a></li>
+					<li><a href="/templates/rundowns/rundown.php?prgId=7">Weekend Edition Saturday</a></li>
+					<li><a href="/templates/rundowns/rundown.php?prgId=10">Weekend Edition Sunday</a></li>					
+					<li style="padding:5px 10px;width:155px;color:#214ac6;font-weight:bold;font-size:11px;">Music</li>
+					<li><a href="/templates/rundowns/rundown.php?prgId=37&amp;agg=1">All Songs Considered</a></li>
+					<li><a href="/templates/rundowns/rundown.php?prgId=43&amp;agg=1">From the Top</a></li>
+					<li><a href="/templates/rundowns/rundown.php?prgId=20&amp;agg=1">JazzSet</a></li>
+					<li><a href="/templates/rundowns/rundown.php?prgId=24&amp;agg=1">Piano Jazz with Marian McPartland</a></li>
 					<li><a href="/templates/rundowns/rundown.php?prgId=39&amp;agg=1">World Cafe</a></li>
-					<li><a href="/templates/rundowns/rundown.php?prgId=43">From the Top</a></li>
-					<li><a href="/roughcuts/">Rough Cuts</a></li>
-					<li class="lastmore"><a href="/programs/">More Programs A-Z</a></li>
+					<li><a href="/templates/rundowns/rundown.php?prgId=36&amp;agg=1">World of Opera</a></li>					
+					<li class="lastmore"><a href="/programs/">MORE PROGRAMS A-Z</a></li>
 				</ul>
 			</li>
 			<li><a href="/stations/" class="rollStations"><img src="http://media.npr.org/chrome/nav_stations_off.gif" width="75" height="25" alt="Stations"></a></li>
@@ -468,7 +461,7 @@ function echeck(str) {
 			<!--added -->
 			<tr valign="middle">
 				<td><p class="email_box_text">Would you like to receive information from
-						your local NPR member station? (see <a href="http://www.npr.org/about/privacypolicy.html">NPR's
+						your local NPR member station? (see <a href="http://www.npr.org/about/privacypolicy.html" target="_blank">NPR's
 						privacy policy</a>)</p></td>
 				<td><input type="radio" name="localcontact" value="1" onclick="checkStation()">
 					<span class="email_box_text">Yes</span>&nbsp;&nbsp;&nbsp;
@@ -478,7 +471,7 @@ function echeck(str) {
 			<!--/added -->
 			<tr valign="middle">
 				<td><p class="email_box_text">May we contact you with information about NPR
-						programming? (see <a href="http://www.npr.org/about/privacypolicy.html">NPR's
+						programming and services? (see <a href="http://www.npr.org/about/privacypolicy.html" target="_blank">NPR's
 						privacy policy</a>)</p></td>
 				<td><input type="radio" name="contact" value="1">
 					<span class="email_box_text">Yes</span>&nbsp;&nbsp;&nbsp;
@@ -498,16 +491,17 @@ function echeck(str) {
 						if you selected 'yes' above. See NPR's <a href="http://www.npr.org/about/privacypolicy.html" target="_blank" class="email_box_link">privacy
 						policy</a> for more information.)</p></td>
 			</tr>
-                        <script language="javascript" type="text/javascript">
+		</tbody></table>
+		                     <script language="javascript" type="text/javascript">
+                         //<![CDATA[
                          theurl = window.location.href;
                          if(theurl.indexOf('#email') > 0)
                          {
                              setClass('emailFormContent','emailFormTable');
                          }
-
+												//]]>	
                         </script>
 
-		</tbody></table>
 	</div>
 </form>
 <br>
@@ -539,9 +533,9 @@ function echeck(str) {
 </div>
 
 <!-- NPR.org pagetags -->
-<script language="javascript" src="/include/javascript/zig.js" type="text/javascript"></script><img src="https://web.archive.org/web/20060928190316/http://www.npr.org/images/zag.gif?Log=1&amp;sw=800&amp;sh=600&amp;cd=24"><img src="https://web.archive.org/web/20060928190316/http://www.npr.org/images/zag.gif?Log=1&amp;dt=NPR%20Linking%20and%20Privacy%20Policy&amp;dr=&amp;cb=1580350841996">
+<script src="/include/javascript/zig.js" type="text/javascript"></script><img src="https://web.archive.org/web/20060928190316/http://www.npr.org/images/zag.gif?Log=1&amp;sw=800&amp;sh=600&amp;cd=24"><img src="https://web.archive.org/web/20060928190316/http://www.npr.org/images/zag.gif?Log=1&amp;dt=NPR%20Linking%20and%20Privacy%20Policy&amp;dr=&amp;cb=1580350847766">
 <noscript>
-<img src="/images/zag.gif?Log=1&v_jd=1" border="0" width="1" height="1"/>
+<img src="/images/zag.gif?Log=1&amp;v_jd=1" width="1" height="1" alt=""/>
 </noscript>
 
 
@@ -563,7 +557,7 @@ function echeck(str) {
             <!-- START LEFT COLUMN -->
             <div id="leftcol">
                 <script type="text/javascript" src="/include/localize/create_form.js"></script>
-                <script type="text/javascript" src="/include/localize/station_include2.js"></script><div id="localization"><form name="go_local" method="post" action="https://web.archive.org/web/20041004073208/http://www.npr.org/stations/stations_results.php" onsubmit="if (document.go_local.txtSearchValue.value!='Call Letters' &amp;&amp; document.go_local.txtSearchValue.value!='') {document.go_local.refUrl.value=window.location.href} else {window.location.href='http://www.npr.org/stations/index.php?sForm=call&amp;refUrl=https://web.archive.org/web/20070628135455id_/http%3A//www.npr.org/about/privacypolicy.html';return false;}"><p>find your local member station:</p><input type="hidden" name="searchType" value="zipcall"><input type="hidden" name="refUrl" value=""><input name="txtSearchValue" id="txtSearchValue" value="Call Letters" onclick="clearField();" onblur="fillField();"><p>(or enter zip code)</p><input type="submit" name="find" id="localizationfind" class="button" value="find"></form></div>
+                <script type="text/javascript" src="/include/localize/station_include2.js"></script><div id="localization"><form name="go_local" method="post" action="https://web.archive.org/web/20041004073208/http://www.npr.org/stations/stations_results.php" onsubmit="if (document.go_local.txtSearchValue.value!='Call Letters' &amp;&amp; document.go_local.txtSearchValue.value!='') {document.go_local.refUrl.value=window.location.href} else {window.location.href='http://www.npr.org/stations/index.php?sForm=call&amp;refUrl=https://web.archive.org/web/20071228080610id_/http%3A//www.npr.org/about/privacypolicy.html';return false;}"><p>find your local member station:</p><input type="hidden" name="searchType" value="zipcall"><input type="hidden" name="refUrl" value=""><input name="txtSearchValue" id="txtSearchValue" value="Call Letters" onclick="clearField();" onblur="fillField();"><p>(or enter zip code)</p><input type="submit" name="find" id="localizationfind" class="button" value="find"></form></div>
                 <h3>Browse Topics</h3>
 <div id="topics">
 	<ul>
@@ -582,10 +576,14 @@ function echeck(str) {
 				<li><a href="/templates/topics/topic.php?topicId=1013">Education</a></li>
 				<li><a href="/templates/topics/topic.php?topicId=1070">Legal Affairs</a></li>
 				<li><a href="/templates/topics/topic.php?topicId=1014">Politics</a></li>
+				<li><a href="/templates/topics/topic.php?topicId=1102">Election 2008</a></li>
 				<li><a href="/templates/topics/topic.php?topicId=1015">Race</a></li>
 				<li><a href="/templates/topics/topic.php?topicId=1016">Religion</a></li>
 			</ul>
 		</li>
+		<li class="topic1102">
+			<a href="/templates/topics/topic.php?topicId=1102">Election 2008</a>
+		</li>		
 		<li class="topic1006">
 			<a href="/templates/topics/topic.php?topicId=1006">Business</a>
 			<ul>
@@ -608,6 +606,7 @@ function echeck(str) {
 			<ul>
 				<li><a href="/templates/topics/topic.php?topicId=1066">Your Health</a></li>			
 				<li><a href="/templates/topics/topic.php?topicId=1025">Environment</a></li>
+				<li><a href="/templates/story/story.php?storyId=9657621">Climate Connections</a></li>				 
 				<li><a href="/templates/topics/topic.php?topicId=1026">Space</a></li>
 				<li><a href="/templates/topics/topic.php?topicId=1027">Health Care</a></li>
 			</ul>
@@ -615,12 +614,13 @@ function echeck(str) {
 		<li class="topic1032">
 			<a href="/templates/topics/topic.php?topicId=1032">Books</a>
 			<ul>
+				<li><a href="/templates/story/story.php?storyId=10628227">Summer Books</a></li>
 				<li><a href="/templates/topics/topic.php?topicId=1033">Authors</a></li>
 				<li><a href="/templates/topics/topic.php?topicId=1035">Fiction</a></li>
 			</ul>
 		</li>
 		<li class="topic1039">
-			<a href="/templates/topics/topic.php?topicId=1039">Music</a>
+			<a href="/music/">Music</a>
 			<ul>
 				<li><a href="/templates/topics/topic.php?topicId=1040">In Performance</a></li>
 				<li><a href="/templates/topics/topic.php?topicId=1103">Studio Sessions</a></li>
@@ -676,20 +676,25 @@ function echeck(str) {
 <h3>Programs</h3>
 <div id="programs">
 	<ul>
-		<li><a href="/templates/rundowns/rundown.php?prgId=3">Morning Edition</a></li>
+		<li style="padding:5px 10px;color:#214ac6;font-weight:bold;font-size:11px;">News/Talk Programs</li>		
 		<li><a href="/templates/rundowns/rundown.php?prgId=2">All Things Considered</a></li>
+		<li><a href="/templates/rundowns/rundown.php?prgId=47">The Bryant Park Project</a></li>
 		<li><a href="/templates/rundowns/rundown.php?prgId=17">Day to Day</a></li>
-		<li><a href="/templates/rundowns/rundown.php?prgId=5">Talk of the Nation</a></li>
-		<li><a href="/templates/rundowns/rundown.php?prgId=13">Fresh Air</a></li>
+		<li><a href="/templates/rundowns/rundown.php?prgId=13">Fresh Air</a></li>		
+		<li><a href="/templates/rundowns/rundown.php?prgId=3">Morning Edition</a></li>							
 		<li><a href="/templates/rundowns/rundown.php?prgId=11">News &amp; Notes</a></li>
-		<li><a href="/templates/rundowns/rundown.php?prgId=46">Tell Me More</a></li>		
+		<li><a href="/templates/rundowns/rundown.php?prgId=5">Talk of the Nation</a></li>
+		<li><a href="/templates/rundowns/rundown.php?prgId=46">Tell Me More</a></li>					
+		<li><a href="/programs/waitwait/">Wait Wait...Don't Tell Me</a></li>
 		<li><a href="/templates/rundowns/rundown.php?prgId=7">Weekend Edition Saturday</a></li>
-		<li><a href="/templates/rundowns/rundown.php?prgId=10">Weekend Edition Sunday</a></li>
-		<li><a href="/programs/waitwait/">Wait Wait...Don't Tell Me!</a></li>
-		<li><a href="/programs/asc/">All Songs Considered</a></li>		
+		<li><a href="/templates/rundowns/rundown.php?prgId=10">Weekend Edition Sunday</a></li>		
+		<li style="padding:5px 10px;color:#214ac6;font-weight:bold;font-size:11px;">Music Programs</li>
+		<li><a href="/templates/rundowns/rundown.php?prgId=37&amp;agg=1">All Songs Considered</a></li>
+		<li><a href="/templates/rundowns/rundown.php?prgId=43&amp;agg=1">From the Top</a></li>
+		<li><a href="/templates/rundowns/rundown.php?prgId=20&amp;agg=1">JazzSet</a></li>
+		<li><a href="/templates/rundowns/rundown.php?prgId=24&amp;agg=1">Piano Jazz with Marian McPartland</a></li>
 		<li><a href="/templates/rundowns/rundown.php?prgId=39&amp;agg=1">World Cafe</a></li>
-		<li><a href="/templates/rundowns/rundown.php?prgId=43">From the Top</a></li>
-		<li><a href="/roughcuts/">Rough Cuts</a></li>
+		<li><a href="/templates/rundowns/rundown.php?prgId=36&amp;agg=1">World of Opera</a></li>		
 		<li class="more"><a href="/programs/" class="moreArrow">more</a></li>
 	</ul>
 </div>
@@ -703,7 +708,7 @@ function echeck(str) {
 		<li><a href="/about/press/">Press Room</a></li>
 		<li><a href="/about/pitch/">Submit Ideas</a></li>
 		<li><a href="/corrections/">Corrections</a></li>
-		<li><a href="/templates/story/story.php?columnId=2781901">Ombudsman</a></li>
+		<li><a href="/templates/story/story.php?storyId=2781901">Ombudsman</a></li>
 		<li><a href="/sitemap/">Site Map</a></li>		
 	</ul>
 </div>
