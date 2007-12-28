@@ -1,31 +1,31 @@
-> *The following text is extracted and transformed from the radio.gov.pk privacy policy that was archived on 2007-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070207014735id_/http%3A//www.radio.gov.pk/p_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radio.gov.pk privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228042702id_/http%3A//radio.gov.pk/p_policy.htm) for the most accurate reproduction.*
 
 # Radio Pakistan
 
 **News**  
-_[News](https://web.archive.org/web/20070207014735id_/http%3A//www.radio.gov.pk/pbcnews.htm)_  
-_[ News Broadcasts](https://web.archive.org/web/20070207014735id_/http%3A//www.radio.gov.pk/n_broad.htm)  
-[ Special Audio Events](https://web.archive.org/web/20070207014735id_/http%3A//www.radio.gov.pk/sp_event.htm)_  
+_[News](https://web.archive.org/web/20071228042702id_/http%3A//radio.gov.pk/pbcnews.htm)_  
+_[ News Broadcasts](https://web.archive.org/web/20071228042702id_/http%3A//radio.gov.pk/n_broad.htm)  
+[ Special Audio Events](https://web.archive.org/web/20071228042702id_/http%3A//radio.gov.pk/sp_event.htm)_  
 **Profile**  
-[NCAC](https://web.archive.org/web/20070207014735id_/http%3A//www.radio.gov.pk/ncac.htm) _  
-[ Programs](https://web.archive.org/web/20070207014735id_/http%3A//www.radio.gov.pk/programs.htm)  
-[Engineering](https://web.archive.org/web/20070207014735id_/http%3A//www.radio.gov.pk/engr.htm)  
-[Central Productions](https://web.archive.org/web/20070207014735id_/http%3A//www.radio.gov.pk/cpu.htm)  
-[FM Stations](https://web.archive.org/web/20070207014735id_/http%3A//www.radio.gov.pk/fm101.htm)  
-[World Service](https://web.archive.org/web/20070207014735id_/http%3A//www.radio.gov.pk/worldservice.htm)  
-[External Service](https://web.archive.org/web/20070207014735id_/http%3A//www.radio.gov.pk/ext_svc.htm)[  
-](https://web.archive.org/web/20070207014735id_/http%3A//www.radio.gov.pk/fm101.htm) _**Entertainment** _  
-[ Sound Library](https://web.archive.org/web/20070207014735id_/http%3A//www.radio.gov.pk/s_lib.htm)  
-[Download Songs](https://web.archive.org/web/20070207014735id_/http%3A//www.radio.gov.pk/songs.htm) **  
+[NCAC](https://web.archive.org/web/20071228042702id_/http%3A//radio.gov.pk/ncac.htm) _  
+[ Programs](https://web.archive.org/web/20071228042702id_/http%3A//radio.gov.pk/programs.htm)  
+[Engineering](https://web.archive.org/web/20071228042702id_/http%3A//radio.gov.pk/engr.htm)  
+[Central Productions](https://web.archive.org/web/20071228042702id_/http%3A//radio.gov.pk/cpu.htm)  
+[FM Stations](https://web.archive.org/web/20071228042702id_/http%3A//radio.gov.pk/fm101.htm)  
+[World Service](https://web.archive.org/web/20071228042702id_/http%3A//radio.gov.pk/worldservice.htm)  
+[External Service](https://web.archive.org/web/20071228042702id_/http%3A//radio.gov.pk/ext_svc.htm)[  
+](https://web.archive.org/web/20071228042702id_/http%3A//radio.gov.pk/fm101.htm) _**Entertainment** _  
+[ Sound Library](https://web.archive.org/web/20071228042702id_/http%3A//radio.gov.pk/s_lib.htm)  
+[Download Songs](https://web.archive.org/web/20071228042702id_/http%3A//radio.gov.pk/songs.htm) **  
 **_**About PBC _  
-_ ** _[ Policy & Objectives](https://web.archive.org/web/20070207014735id_/http%3A//www.radio.gov.pk/policy.htm)  
-[Chronology of - Progress](https://web.archive.org/web/20070207014735id_/http%3A//www.radio.gov.pk/chronicle.htm)  
-[Radio Stations](https://web.archive.org/web/20070207014735id_/http%3A//www.radio.gov.pk/detail.htm)_  
-_[About Us](https://web.archive.org/web/20070207014735id_/http%3A//www.radio.gov.pk/aboutus.htm)_ **Live Radio** _ **  
+_ ** _[ Policy & Objectives](https://web.archive.org/web/20071228042702id_/http%3A//radio.gov.pk/policy.htm)  
+[Chronology of - Progress](https://web.archive.org/web/20071228042702id_/http%3A//radio.gov.pk/chronicle.htm)  
+[Radio Stations](https://web.archive.org/web/20071228042702id_/http%3A//radio.gov.pk/detail.htm)_  
+_[About Us](https://web.archive.org/web/20071228042702id_/http%3A//radio.gov.pk/aboutus.htm)_ **Live Radio** _ **  
 **  
 [ ](mms://202.83.163.149/radio) _
 
-__[Schedule](https://web.archive.org/web/20070207014735id_/http%3A//www.radio.gov.pk/schedule.htm)_ _
+__[Schedule](https://web.archive.org/web/20071228042702id_/http%3A//radio.gov.pk/schedule.htm)_ _
 
 **News Bulletins**
 
