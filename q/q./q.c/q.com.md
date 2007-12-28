@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the q.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615170103id_/http%3A//www.qwest.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the q.com privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228032601id_/http%3A//www.qwest.com/privacy/index.html) for the most accurate reproduction.*
 
 # Qwest | Legal Notices
 
@@ -10,7 +10,7 @@
 
 **_ONLINE PRIVACY POLICY_**
 
-Qwest values your business and respects your privacy. This policy summarizes what information we collect from you online and how we use and disclose that information. Qwest also collects personal information from customers offline. To learn more about our privacy practices you should also review the Qwest [Privacy Policy](https://web.archive.org/web/20060615170103id_/http%3A//www.qwest.com/legal/privacyGeneral.html) and the [Qwest ChoiceTM TV & OnLine Services Customer Privacy Policy](http://www.qwest.com/legal/choice_privacy.html).
+Qwest values your business and respects your privacy. This policy summarizes what information we collect from you online and how we use and disclose that information. Qwest also collects personal information from customers offline. To learn more about our privacy practices you should also review the Qwest [Privacy Policy](https://web.archive.org/web/20071228032601id_/http%3A//www.qwest.com/privacy/privacyGeneral.html) and the [Qwest ChoiceTM TV & OnLine Services Customer Privacy Policy](https://web.archive.org/privacy/choice_privacy.html).
 
 **Table of Contents**
 
@@ -47,7 +47,7 @@ You are welcome to review and change personal information you provided to us onl
   * **Update your profile with MyAccount**   
 Qwest [Online Account Management](http://qwest.com/myaccount) enables you to revise information such as your e-mail address and e-mail preference. Once you enter your account, username and password, click **Edit Profile** to view and change – if necessary – your profile information. 
   * **Manage your account information by phone or through online chat**   
-You may contact a Customer Service Representative to discuss and review the information we have in our records. You can contact online customer service directly by clicking on the "Need Help" button throughout our site or by sending an e-mail under the customer service section of the site. We will work with you so that your information is accurate and complete. Visit the [Contact Us](http://www.qwest.com/customerService/index.html?pages=contactus) page for more information. 
+You may contact a Customer Service Representative to discuss and review the information we have in our records. You can contact online customer service directly by clicking on the "Need Help" button throughout our site or by sending an e-mail under the customer service section of the site. We will work with you so that your information is accurate and complete. Visit the [Contact Us](https://web.archive.org/corporate/customerService/contactus/index.html) page for more information. 
   * **Subscribe and unsubscribe to e-mail newsletters**   
 You can remove your name by selecting Qwest [Online Account Management](http://qwest.com/myaccount). Then Edit Profile and check the No box under "I would like to receive special offers and information on Qwest products and services." You can also unsubscribe through the e-mail newsletter. Even when you unsubscribe from the e-mail newsletter you may still receive e-mail messages from us, including online activity, order, and payment confirmations or reminders. 
 
