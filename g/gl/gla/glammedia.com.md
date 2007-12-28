@@ -1,153 +1,127 @@
-> *The following text is extracted and transformed from the glammedia.com privacy policy that was archived on 2006-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060318104808id_/http%3A//www.networksolutions.com/legal/privacy-policy.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glammedia.com privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228121948id_/http%3A//www.glammedia.com/about_glam/legal/privacy.php) for the most accurate reproduction.*
 
-# Service Agreement | Network Solutions
+# Glam Media . About Glam . Legal . Privacy
 
-Updated September 30, 2004
+**Glam.com  
+Privacy and Security Policy**
 
-Version 2.4
+_Effective September 12, 2007_
 
-#### Privacy Topics
+**Your Privacy and the Security of Your Personal Information Is  
+Very Important to Us**  
 
-  * Why A Privacy Policy?
-  * Getting to Know our Customers
-  * Third Party Advertising and Cookies
-  * Information Corrections or Changes
-  * How We Put Information to Good Use
-  * With Whom We May Share Information
-  * How Do I Get My Name Removed from Bulk Access
-  * Our Accountability to You
-  * Employee Accountability
-  * The Accountability of Network Solutions' Agents and Business Partners
-  * Notification of Changes
 
+Glam Media, Inc. doing business at www.glam.com (“Glam”) values our customers and guests and respects your concerns about online security and privacy. We believe in providing you with a safe and secure experience in fashion, style, and shopping. Our Privacy and Security Policy is intended to protect your privacy and ensure that your personal information is handled in a safe and responsible manner. By using our website, you consent to the collection and use of your personal information. In addition to reviewing our Privacy and Security Policy, you should also read our Terms of Use. Your use of Glam.com constitutes your agreement to its terms and conditions. 
 
+**Our Privacy and Security Policy Will Change Over Time**
 
-#### Why A Privacy Policy?
+Because we continue to develop Glam.com and take advantage of technologies to improve the services we provide, our policies will change over time. We encourage you to refer to this Privacy and Security Policy from time to time to stay abreast of our most current privacy policy practices. If you are a registered member of Glam.com, we may notify you by e-mail of material changes to our Privacy and Security Policy using the most current e-mail address you have provided to us. Your continued access and use of Glam.com will constitute your acceptance of any changes or revisions to our Privacy and Security Policy.   
 
-Network Solutions respects your individual privacy. This Privacy Policy ('Policy') embodies our commitment to its protection through adherence to fair electronic information practices. This Policy puts you, the individual, in control of how your personal information is processed. You have our promise that we will not electronically process your personal information in any way that is incompatible with this Policy.
 
-#### This Privacy Policy protects your privacy by:
+**Summary of Our Privacy and Security Policy**
 
-#### Informing you about:
+This Privacy and Security Policy explains and summarizes how we collect, use, and protect your personal information as you interact with us online and through our customer and technical support. This Privacy and Security Policy explains:
 
-  * The types of personal information Network Solutions collects about you through its Web sites;
-  * How it collects that information;
-  * The general purposes for which it collects such information;
-  * The types of organizations to which it discloses the information;
-  * The choices and means by which individuals may limit its use and disclosure.
+  * What information Glam gathers from users of Glam.com.
+  * How Glam uses the personal information that you share with us and that we learn about you because of our relationship.
+  * How Glam uses “cookies” and “IP Addresses.”
+  * What personal information, if any, Glam may share about you with others and the conditions that protect your information if it must be shared.
+  * What kind of security measures Glam takes to protect your information from loss or disclosure and how Glam will inform you in the event of a security breach.
+  * The circumstances under which you can access your personal information you have shared with Glam and have that information corrected, restrict Glam’s use of that information, and even have it removed from our records.
+  * Other things you should know about privacy and Glam. 
 
 
 
-#### Empowering you to choose:
+**The Type of Information Glam.com Collects About You**
 
-  * Whether and how certain personal information you provide is used (where such use is unrelated to the uses for which you originally disclosed it); and
-  * Whether and the manner in which a third party uses certain personal information you provide (where such use is unrelated to the uses for which you originally disclosed it).
+Glam collects information that you provide to us or that we learn about you from your use of Glam.com. We receive and store information you enter on Glam.com or give to us in any other way. For example, you may provide information to Glam.com when you register, sign-in, search, add items to your shopping cart, participate in a test profile or survey, request our e-mail newsletters, or communicate with Glam’s customer service. As a result of those actions, you might supply us with such information as your name, address, phone number, e-mail address, and personal shopping and product preferences. We also automatically receive and store certain types of information whenever you visit Glam.com. We might also receive information about you from other sources, such as in providing you special offers that we think will be of interest, and we may add that information to our account information.   
 
 
+**How Glam Uses Information About You**
 
-#### Assuring you that Network Solutions:
+We use information we have collected about you to provide you with the very best fashion and personal style news, products and services, and shopping experience. **We do not sell your personal information to third parties for any reason.** We do not disclose your personal information to unaffiliated third parties who may want to offer you their own products and services unless you have requested or authorized us to do so.
 
-  * Takes reasonable precautions to protect personal information from loss, misuse, unauthorized access, disclosure, alteration or destruction;
-  * Implements reasonable policies and procedures to ensure that personal information is kept only for the purposes for which it has been gathered;
-  * Uses reasonable measures to ensure that we have accurately and completely recorded the personal information you have provided; and
-  * Provides you reasonable access to your personal information as well as procedures for correcting or modifying that information where appropriate.
+We may share your personal information with third parties or affiliates of Glam where it is necessary for us to complete a transaction or do something you have asked us to do. For example, we might need to provide your personal information to retailers whose merchandise is featured on Glam.com so they can process and fulfill your request to buy merchandise.
 
+We may share your personal information to third parties or affiliates of Glam with whom we have contracted to perform services on our behalf. All companies that act on our behalf are contractually obligated to keep the personal information we provide to them confidential and to use the personal information we share only to provide the services we ask them to perform. 
 
+We may disclose personal information about our customers as permitted or required by law, such as in connection with a subpoena or similar legal process, or in connection with a merger, acquisition, or bankruptcy, as discussed further below.
 
-**Ensuring accountability** to individuals who believe that Network Solutions has not complied with these privacy principles.
+We try to provide you with the information you need to make informed reasonable choices with respect to how Glam.com uses or shares your information. Glam collects and uses personal information from you in several ways:
 
-#### Getting to Know Our Customers
+  * **Website Usage.** Glam or Glam’s authorized service providers may observe activities, preferences, and transactional data (such as your IP address, browser type, and operating system) relating to your use of Glam.com. We may use this collected or logged information in order to provide better service, to facilitate our customers’ use of the website, to track usage of the website, and to address security hazards. Glam, or one of Glam’s authorized service providers, may use this information to track aggregate traffic patterns throughout Glam.com. We may use aggregated, statistical information to describe our customer audience, products and services, and to develop partnerships with third parties to offer products and services in which we believe our customers will be interested. For example, if 30 percent of our customers are interested in the latest handbags and accessories, we may share that statistic with handbag and accessory retailers in order to offer through Glam.com the type of merchandise our customers want.  
+ 
+  * **Online Transactions.** We collect information about you when you use our website. You may visit our site without registering, but if you wish to add merchandise to your shopping cart, take a test, create a shopping book, “Shop Together,” or use other special features offered on our site, you will need to provide us with certain information, including your name, address, phone number, and e-mail address, to open an account with us. We will assist you in creating a user ID and a password to protect your account information.
 
-Network Solutions is in the business of putting people in touch with other people. That requires more than simply offering innovative technical services. It also requires that we understand you, our customer, and your needs. Indeed, we are the Internet's leading domain name registrar because we have taken the time to get acquainted with each one of our many customers.
+At this time, when you request to purchase items in your shopping cart, we will forward your request and basic account information to the retailer or ecommerce service provider. When you provide personal financial and other personally identifiable information to the retailers or service providers featured through Glam.com, the sales transaction will occur on the retailer’s or service provider’s site and not on Glam.com. As such, the financial and personally identifiable information you provide in placing your order is controlled by that retailer or service provider. In the future, Glam.com may conduct some or all of these sales transactions itself, but at this time, it only facilitates your requests.
 
-We get to know you primarily through the information you provide to us when signing up for, or using, one or more of our services. The information you provide ranges from basic contact information, to payment information, to the technical coordinates of your host servers. The application for domain name registration services found at [www.networksolutions.com](https://web.archive.org/web/20060318104808id_/http%3A//www.networksolutions.com/legal/www.networksolutions.com) is a representative illustration of the information we request of you. All of the information we request from you when purchasing our services is obligatory unless otherwise noted on the relevant form. When you purchase our services, you agree to provide and maintain accurate, complete and updated information.
+If you provide to us information about a friend through the “Invite a Friend” section of Glam.com, we will first contact that friend by e-mail to confirm that the friend wishes to participate in Glam.com activities and consents to having personal information about him or her collected and retained by Glam.com. If your friend does not consent to our use of his or her contact information, we will delete it from our records.
 
-After you have signed up for our services, we may be in communication with you about your account, technical questions you may have about services provided by us, or any other matter relating to those services. Those communications are essential to our relationship with you and to our ability to provide you with quality services that are responsive to your needs. At the same time, those communications give us helpful insights about you, your preferences and the ways in which we might improve our services. We therefore may maintain this information for future use.
+Glam may offer Open Group Tests (“OGT”). To take our OGT, you and any of your friends who may wish to participate must be registered with Glam.com. Through our comparative scorecard, Glam will allow you to create a list of your friends and to compare your results with theirs. It works like this: You tell us whom to invite; our technology invites them on your behalf to participate in the OGT. Once your friend takes the test, you will receive an e-mail notice from Glam that his or her results are in. On the “results” page, which every invited participant can access and review, you can see their OGT results, first name, and e-mail address, and how you match up in certain categories. You can view your “personal invitation list” and who has yet to participate. The personal invitation list can only be seen by you as the inviter.
 
-For operational and quality assurance purposes, we take note of whether and how you use the information and services that we provide, such as by recording site traffic patterns and by maintaining log files of users' access to site files.
+Our “Shop Together” feature operates in a similar fashion. Each friend that you ask us to invite on your behalf to shop together with you must also be registered with Glam.com. We will e-mail you when your friend is ready to shop or is done shopping. You both will be able to view and compare each other’s shopping selections. 
 
-The information we receive from or about you is stored on systems designed to prevent the loss, misuse, unauthorized access, disclosure, alteration or destruction of that information. We also encrypt your transmission of sensitive information to us (e.g., credit card numbers, account passwords) in the interest of heightened privacy protection and information integrity. Transactions within our account manager and purchase flows use Secure Sockets Layer (SSL) encryption when transmitting data from your connection to our systems. You may click the lock icon within your web browser to verify the authenticity of any or our SSL certificates.
+  * **Public Areas.** Any information disclosed in public areas of Glam.com is public information that may be viewed and collected by any party. We cannot control the use of information disclosed in the social networking, chat rooms, reviews, or bulletin board portions of our site. You should exercise caution when disclosing information, including photos or images, in these public areas and should refrain from disclosing personally identifying information. If you wish to use some of the public portions on our site, we will direct you to first create a public ID, which is not your real e-mail address, before you can post information to our site. Glam reserves the right to remove any information at any time from our site that we deem inappropriate or for any other reason.   
+ 
 
-#### Third Party Advertising and Cookies
 
-We use third-party advertising companies to serve ads on our Web site and other Web sites. In the course of serving advertisements, these companies may place or recognize a unique 'cookie' on your hard drive, and may use information (not including your name, address, e-mail address, or telephone number) about your visits to this and other web sites in order to measure advertising effectiveness and to provide advertisements about goods and services of interest to you. For more information about this practice and to know your choices about not having your information used by these companies, please visit <http://www.doubleclick.net/us/corporate/privacy>.
 
-Network Solutions shares Web site usage information about visitors to our Web site with a reputable third-party advertising company for the purpose of targeting our Internet banner advertisements on this site and other sites. For this purpose, we and our third-party advertising company note some of the pages you visit on our Web site through the use of pixel tags (also called clear gifs). The information collected by our third-party advertising company through the use of these pixel tags is not personally identifiable. For more information about our third-party advertiser, please click here. To opt out of the targeting program, please click [here](http://www.privacychoices.org/ "http://www.privacychoices.org/").
+**Our Security Practices**  
+Our internal data security policies restrict access to customers’ personal information to authorized employees. Authorized employees may use our customers’ personal information for Glam business purposes only. Our employees are bound by Glam policies that require them to maintain the confidentiality of our customers’ personal information. Employees who violate these requirements are subject to disciplinary action, up to and including termination.
 
-#### Information Corrections or Changes
+We maintain physical, electronic, and procedural safeguards that are designed to guard our customers’ personal information. For example, for the security of your online visit to Glam.com, we may make use of firewall barriers, encryption techniques, and/or authentication procedures. Unfortunately, no data transmission over the Internet can be guaranteed to be absolutely secure. As a result, while we strive to protect your personal information, Glam cannot ensure or warrant the security of any information you transmit to us, and you do so at your own risk. In the event of a breach of the confidentiality or security of your personal information, we will notify you as necessary so you can take appropriate protective steps. Unless you indicate otherwise, we may notify you under such circumstances using the e-mail address you provided to us when you registered with Glam.com.  
 
-You have the ability to correct or change certain information in our records, such as your address and contact information. The process for changing your information begins at <https://www.networksolutions.com/manage-it/index.jhtml>. You may change this information at any time and as often as necessary. If you need assistance or have questions about correcting information, you can contact us via e-mail at [customerservice@networksolutions.com](mailto:customerservice@networksolutions.com).
 
-#### How We Put Information to Good Use
+**What Are Cookies and How Does Glam.com Use Them?**
 
-We use information about you for purposes of monitoring and improving our internal operations, as well as to ensure we: (i) bill you properly, (ii) administer your account in accordance with your agreements with us, and (iii) properly perform the services you have requested.
+We may use “cookies” to collect or log certain information. A cookie is a small piece of information that a website stores on a personal computer and which it can later retrieve. We may use cookies for some administrative purposes—for example, to store our customers’ preferences for certain kinds of products or to store a password so that you do not have to input it every time you visit our website. The cookies will not contain information that will enable anyone to contact our customers via telephone, e-mail, or any other means. If our customers are uncomfortable with the use of cookie technology, they can set their browsers to refuse cookies. Certain of our services, however, could be dependent on cookies, and our customers may disable those services by refusing cookies. 
 
-We also use the information we collect to monitor and improve our internal operations, as well as to improve the experience of users in our network of sites. For example, we may correlate Web site traffic information with data about individual users. This data helps us to determine how much our customers use parts of the site, allowing us to enhance it to fit the needs of as many of our customers as possible. We may also break down overall usage statistics according to customers' domain names, browser types, and MIME types by reading this information from the browser string (information contained in every user's browser).
+Please note that the advertising networks serving ads on Glam.com may also use their own cookies. Glam does not control these cookies or the data collection practices of these companies. For more information about these companies’ separate privacy policies, you should contact the advertising network directly. For more information on the privacy policies of our advertisers, see below. If the advertising network is a member of the Network Advertising Initiative (“NAI”), you may be able to opt out of receiving targeted advertising delivered by NAI members by following the opt-out directions on www.networkadvertising.org. 
 
-Another example of our use of information to enhance the experience of users in our network of sites is our reliance on cookie files. We use cookie files to make it easier for users to access our site or services. A cookie file is a small data file that certain Web sites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you have visited. However, the only personal information a cookie can contain is information you supply yourself. A cookie cannot read data off your hard disk or read cookie files created by other sites. We use cookies to track user traffic patterns (as described above) when you register for Network Solutions services. When you register, we may use a cookie to store a unique, random user ID. We use this ID to identify you anonymously in our database and to track the pages you visit on our site.
+**What Privacy Policies Cover the Ads on Glam.com?**
 
-If you have set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You may refuse cookies by turning them off in your browser; however, some of our sites may require a cookie for access.
+We may use third-party advertising companies to serve ads on Glam.com. These companies may employ cookies and action tags (also known as single-pixel GIFs or Web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is not connected to personally identifiable information, such as your name and e-mail address. 
 
-Finally, we use the information we collect to direct important notices and information affecting your account or services, as well as to provide general information that may be of interest to you, including newsletters, surveys, contest and sweepstake announcements, and information about our service or product offerings or the offerings of our business affiliates. You may opt-out of receiving information from us simply by notifying us of your desire in accordance with the opt-out instructions contained in any information message you receive from us. Note, however, that in order to fulfill our service obligations to you, we must continue sending you notices and other important information affecting your account or services.
+**Links to Third-Party Sites and Websites Containing Glam.com Branding**
 
-#### With Whom We May Share Information
+Glam.com may contain links to third-party sites. Please be aware, however, that Glam is not responsible for and cannot control the privacy policies of these other sites or their practices. We encourage you to read the privacy policies for these other sites, as they may differ from ours. 
 
-Pursuant to arrangements with Internet Corporation for Assigned Names and Numbers ('ICANN'), we compile and maintain a publicly accessible registration database that includes basic information about each domain name registered with us, including the names, telephone numbers and e-mail addresses of individuals designated as points of contact for a given domain name. Whether or not applicable domain name registration fees have been paid is also publicly accessible. With the gradual continued privatization of the Domain Name System, and consistent with the rules or policies applicable to that system, or to comply with any changes in law or regulation, we may, if appropriate, take steps to restrict the accessibility and amount of personally identifying information available in the registration database
+This website may also contain links to sites that display Glam.com branding and/or Glam’s logo but which are maintained by third parties. Such websites may be identified in that they do not display a “Glam.com” URL. Please read the privacy policy on these sites for applicable privacy practices relating to personal information collected via those sites because they may differ from Glam.com’s privacy practices. This Privacy and Security Policy applies solely to personal information collected by Glam. 
 
-When you register a domain name through us, we must disclose your domain name and its associated Internet Protocol ("IP") numbers to the appropriate registry in order to make your chosen domain name a functional address on the Internet. Certain registries also require that we disclose to them the names, postal addresses, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name. Each registry discloses certain portions (and in some cases all) of the information we are required to provide to them about your domain name registration. For example, each registry discloses at least each registered domain name and its associated IP numbers ("TLD zone files") to TLD server administrators so that the domain name is capable of functioning as an address on the Internet. Consistent with the current rules and policies for the Domain Name System, such registries also disclose the TLD zone files to other interested persons, provided those persons agree, among other things, not to use the TLD zone files for improper purposes, including the transmission of unsolicited commercial e-mail. Similarly, each registry may compile and maintain a publicly accessible database that includes basic information about each domain name registered with that registry, including the names, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name.
+**Contact Preferences and Accessing Your Personal Information**
 
-We may share certain information about you with those of our vendors who are responsible for handling your account or performing other services that you require (including vendors who may update your credit card expiration date and credit card account number if you choose our auto-renew feature). Although we may share sensitive financial information (i.e., credit card numbers, banking information), security information (e.g., account passwords) and personal communications (e.g., personal e-mail messages or message board postings) with such vendors where necessary and appropriate, we will not share such information with other third parties, except in response to formal requests (e.g., subpoena or court order) made in connection with litigation, arbitration, or criminal proceedings directly relating to a domain name registration or other services we provide, or as directed by you or your agent.
+You have choices when it comes to how Glam uses your personal information. When you register online with Glam.com, you can choose not to receive information about merchandise, services, and special promotional offers from us by direct mail and/or e-mail. If you elect not to receive such product marketing information by direct mail or e-mail, Glam may continue to contact you as necessary to service your account. You can change your contact preferences at any time by following the instructions for My Profile on Glam.com.
 
-Additionally, we may share the information stored on the publicly accessible registration database, as well as other information that is not of a sensitive nature, with carefully selected business partners, including those who offer services that complement those provided by us or which may otherwise be of interest to you. If you do not want us to share information about you with our business partners, you may opt-out of receiving this information through our Account Manager by following the instructions below:
+Your test answers and results, both for your individual and OGT results, can be viewed in the My Tests section of our site. You can delete this information at any time by following the instructions on the My Tests section of Glam.com. 
 
-  1. Log into Account Manager at [www.networksolutions.com](https://web.archive.org/web/20060318104808id_/http%3A//www.networksolutions.com/legal/www.networksolutions.com "www.networksolutions.com");
-  2. Click “Edit User Info” in the left menu;
-  3. Scroll to the bottom of the page;
-  4. Select “NO” for the third statement, which reads, “I would like to receive selected and relevant information from Network Solutions partners;” and
-  5. Click “SAVE.”
+Keeping your account information accurate and up-to-date is very important, so we can provide you with excellent service. If your account information is incomplete, inaccurate, or not current, please follow the instructions for My Account on Glam.com to correct your account information online. 
 
+If you need additional assistance, please contact Glam customer service at www.glam.com/customerservice. 
 
+**This Privacy and Security Policy Applies to U.S. Customers**
 
-Please note, however, that consistent with the current rules and policies for the Domain Name System, information about you must remain available in the publicly accessible registration database.
+Glam.com is hosted in the United States and is intended for United States visitors. 
 
-#### How Do I Get My Name Removed from Bulk Access
+This Privacy and Security Policy applies to customer relationships established in the United States. Parts of this Privacy and Security Policy may not apply to visitors outside the United States. Like almost every website, Glam.com may be accessed by an international audience. If you are a non-U.S. visitor to our website, by visiting our website and providing us with data, you acknowledge and agree that your personal information may be processed for the purposes identified in this Privacy and Security Policy. In addition, such data may be stored on servers located outside your resident jurisdiction, which may have less stringent privacy practices than your own. By providing us with your data, you consent to transfer of such data.   
 
-As noted above, we currently make certain information about you available to the general public via our domain name registration database look-up services. These services give users access to such data on a query-by-query basis. Pursuant to our arrangements with ICANN, qualified persons may also access such data on a bulk basis provided they agree, among other things, not to use the data to allow, enable or otherwise support the transmission by e-mail, telephone, or facsimile of mass, unsolicited, commercial advertising or solicitations to entities other than to such qualified persons’ own existing customers; or (ii) sell or redistribute the data to third parties, except insofar as the data is incorporated into a value-added product or service that does not permit the extraction of a substantial portion of the data. If you do not want your personal information disclosed on a bulk basis, you may opt-out of such disclosure through our Account Manager by following the instructions below:
 
-  1. Log into Account Manager at [www.networksolutions.com](https://web.archive.org/web/20060318104808id_/http%3A//www.networksolutions.com/legal/www.networksolutions.com "www.networksolutions.com");
-  2. Click “Edit User Info” in the left menu;
-  3. Scroll to the bottom of the page;
-  4. Select “NO” for the first statement, which reads, “I choose to have my name included in the Bulk WHOIS data licensed to third parties for domains for which I am the Account Holder or Primary Contact;” and
-  5. Click “SAVE.”
+**Mergers, Acquisitions, and Bankruptcy**
 
+If Glam should ever file for bankruptcy or merge with another company, or if Glam should decide to buy another business or sell or reorganize part or all of Glam’s business, Glam may be required to disclose your personal information to prospective or actual purchasers and other parties. It is Glam’s practice to obtain appropriate protections for information disclosed in these types of transactions. Glam cannot, however, guarantee that Glam’s Privacy and Security Policy will remain unchanged if Glam is sold or merges with another company. 
 
+**Glam.com Is Not for Use by Children**
 
-#### Our Accountability to You
+Children are not eligible to use Glam.com. We ask that minors (under the age of 18) only use Glam.com in conjunction with your parents or guardians. Children under 13 should not send any information about themselves to Glam. If a child under 13 submits information through any part of Glam.com, and Glam becomes aware that the person submitting the information is a child, we will attempt to delete this information as soon as possible. Because we do not knowingly collect any personal information about children under 13, we do not use or disclose such information to third parties.
 
-By purchasing our services, you obtain the protections of, and consent to the data processing practices described in, this Privacy Policy. When you purchase our services, you also represent to us that you have provided notice to, and obtained consent from, any third party individuals whose personal data you supply to us with regard to: (i) the purposes for which such third party's personal data have been collected, (ii) the intended recipients or categories of recipients of the third party's personal data, (iii) which of the third party's data are obligatory and which data, if any, are voluntary, and (iv) how the third party can access and, if necessary, rectify the data held about them.
+**What Else Should I Know About My Privacy?**
 
-In addition to the privacy protections that we provide, our employees, agents and business partners are independently responsible for ensuring compliance with this Privacy Policy, as described below.
+You should be careful to maintain the secrecy of your passwords and/or account information and be responsible about protecting your personal information and identity whenever you are online. 
 
-#### Employee Accountability
+**Trademark Notice**
 
-Only those Network Solutions employees that have a legitimate business purpose for accessing and handling personal information obtained by us are given authorization to do so. The unauthorized access or use of such information by a Network Solutions employee is prohibited and constitutes grounds for disciplinary action.
+Glam and Glam.com are trademarks of Glam Media, Inc. 
 
-Additionally, our information management systems are configured in such a way as to block or inhibit employees from accessing information that they have no authority to access.
-
-#### The Accountability of Network Solutions' Agents and Business Partners
-
-Our trusted vendors and business partners are responsible for processing or handling some of the information that we receive. These vendors and business partners are not authorized to use such information for purposes beyond those specified by us and are required to preserve the confidentiality with which we treat such information.
-
-If you feel that Network Solutions, or any of our agents, representatives or employees, is violating this Privacy Policy, please contact us via e-mail at [privacy@networksolutions.com](mailto:privacy@networksolutions.com), by telephone at (703) 668-4600, or by postal mail at:
-
-Network Solutions, LLC  
-Attention: General Counsel  
-13861 Sunrise Valley Drive  
-Herndon, VA 20171  
-(703) 668-4600 
-
-#### Notification of Changes
-
-We will post any changes to this Privacy Policy 30 days before their effective date so you will always know what information we collect, how we use it, and under what circumstances, if any, we disclose it. You are responsible for periodically checking our web site for changes to this Privacy Policy. You may opt-out of any posted change to our collection, use or disclosure of your personal information by sending an e-mail to [privacy@networksolutions.com](mailto:privacy@networksolutions.com).
-
-**If you have any questions regarding this Privacy Policy, please contact[privacy@networksolutions.com](mailto:privacy@networksolutions.com).**
+Glam.com  
+Glam Media, Inc.  
+8000 Marina Blvd., Suite 130  
+Brisbane, CA 94005
