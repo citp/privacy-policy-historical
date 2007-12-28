@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usip.org privacy policy that was archived on 2007-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070612194429id_/http%3A//www.usip.org/aboutus/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usip.org privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228224141id_/http%3A//www.usip.org/aboutus/privacy.html) for the most accurate reproduction.*
 
 # About USIP: Privacy Policy: United States Institute of Peace
 
@@ -23,15 +23,3 @@ Our site **does not** use persistent cookies, which are small files that are sto
 
 **Links to Other Web sites**  
 Documents posted on this Web site may contain hypertext links or pointers to information created and maintained by other public and private organizations. These links and pointers are provided for visitors' convenience. A user is subject to that site's privacy policy upon leaving USIP's Web site. USIP does not endorse the content on Web sites that it has linked to. These links are provided purely for reference purposes. 
-
-## About USIP
-
-## USIP Weekly Bulletin
-
-Receive notices of USIP publications, events, and more via e-mail.
-
-## Podcasting and News Feeds
-
-[](https://web.archive.org/events/podcast.rss)  [Subscribe](https://web.archive.org/events/podcast.rss) | [About](https://web.archive.org/podcasting.html)
-
-[](feed://www.usip.org/headlines.rss)  [Subscribe](feed://www.usip.org/headlines.rss "Subscribe to United States Institute of Peace") | [About](https://web.archive.org/rss_feed.html)
