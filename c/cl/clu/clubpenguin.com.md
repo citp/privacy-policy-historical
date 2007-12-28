@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the clubpenguin.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627165830id_/http%3A//www.clubpenguin.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clubpenguin.com privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228200734id_/http%3A//www.clubpenguin.com/privacy.htm) for the most accurate reproduction.*
 
-# Club Penguin Privacy Policy
+# Club Penguin - Privacy Policy
 
 Club Penguin Privacy Policy
 
@@ -26,7 +26,7 @@ Finally, we collect personal and financial information from members as set out i
 
 ##  2\. How We Use the Information
 
-We have created an internal news system that allows us to communicate with the players without sending them information to their personal email address. We do not keep any personal information we obtain beyond the time it is needed. Sometimes we use a visitor's email address to track usage and to ensure users are following the site's [Terms and Conditions](https://web.archive.org/web/20070627165830id_/http%3A//www.clubpenguin.com/terms.htm).
+We have created an internal news system that allows us to communicate with the players without sending them information to their personal email address. We do not keep any personal information we obtain beyond the time it is needed. Sometimes we use a visitor's email address to track usage and to ensure users are following the site's [Terms and Conditions](https://web.archive.org/web/20071228200734id_/http%3A//www.clubpenguin.com/terms.htm).
 
 We encourage users to submit their original artwork or other materials via email attachment. We do however, retain control of how all materials are used and displayed on the Club Penguin website. Once the artwork or other material is received it is immediately processed and the email is deleted.
 
@@ -34,7 +34,7 @@ We sometimes use the non-personally identifiable information that we collect to 
 
 We will disclose information we maintain when required to do so by law, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency's or other public agency's (including schools or children services) request or if we feel that such disclosure may prevent the instigation of a crime. Finally, we may disclose information to a prospective purchaser of Club Penguin acquiring all or most of the assets relating to Club Penguin, to the extent permitted by law.
 
-We may transfer personal information and store it outside of the jurisdiction in which a member of Club Penguin is located and, although such personal information will be protected by the security measures described in this privacy policy, it will be also be subject to local laws, 
+We may transfer personal information and store it outside of the jurisdiction in which a member of Club Penguin is located and, although such personal information will be protected by the security measures described in this privacy policy, it will be also be subject to local laws.
 
 We will not use or transfer personally identifiable information in ways that are materially different from the ones described above without also providing parental notification of such practices and obtaining consent for any materially different uses.
 
@@ -64,7 +64,7 @@ Please be sure to include your email address and a telephone number where we can
 
 ##  8\. Contact Us
 
-Contact the [Privacy Department](https://web.archive.org/web/20070627165830id_/http%3A//www.clubpenguin.com/contact/privacy_department.htm) should you have any inquiries regarding the privacy policy and/or practices. 
+Contact the [Privacy Department](https://web.archive.org/web/20071228200734id_/http%3A//www.clubpenguin.com/contact/privacy_department.htm) should you have any inquiries regarding the privacy policy and/or practices. 
 
 All BBB OnLine Privacy Program participants are required to work with the program's dispute resolution process. The Privacy Program will only accept complaints regarding the misuse of personally identifiable information by a website operator. For more information about the Privacy Program dispute resolution process visit [www.bbbonline.org/privacy/dr.asp](http://www.bbbonline.org/privacy/dr.asp)
 
@@ -76,4 +76,4 @@ The Internet offers a world of opportunity for children. Your guidance and invol
 
 The privacy policy set out above is effective as of January 1, 2006, and applies to all information previously obtained by Club Penguin. Club Penguin reserves the right to change its privacy policy at its sole discretion. Club Penguin users will be informed of any such change by Club Penguin posting a new privacy policy on the Club Penguin website. The effective date of any change of privacy policy will be clearly marked. 
 
-If you have any questions please [contact us](https://web.archive.org/web/20070627165830id_/http%3A//www.clubpenguin.com/contact.htm). 
+If you have any questions please [contact us](https://web.archive.org/web/20071228200734id_/http%3A//www.clubpenguin.com/contact.htm). 
