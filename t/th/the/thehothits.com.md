@@ -1,75 +1,65 @@
-> *The following text is extracted and transformed from the thehothits.com privacy policy that was archived on 2003-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030410122416id_/http%3A//www.thehothits.com/thehothits_privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehothits.com privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228204350id_/http%3A//www.thehothits.com/action/privacy) for the most accurate reproduction.*
 
-# thehothits.com privacy policy
+# Privacy - The Hot Hits
 
-**MCM PRIVACY POLICY**
+mcm syndication pty ltd trading as mcm entertainment of Level 8, 140 Bourke Street, Melbourne, Victoria, Australia (mcm) is bound by the National Privacy Principles set out in the Privacy Act 1988 (Cth) and is committed to protecting the personal information you provide when using the The Hot Hits � website (the Website).
 
-  
-**(1) Collection of Personal Information**
+1\. Collection of Personal Information
 
-mcm entertainment pty ltd ("mcm") is committed to providing best practice privacy standards to protect the personal information you provide when using 'The Hot Hits' ® website. You have the right to control your personal information, who can use it and how it can be used. The collection of personal information depends on how you use 'The Hot Hits' ® website. By registering as a hot hits member, mcm collects personal details such as your name, email address, postcode, password, age and gender and mobile phone (optional).  
+The collection of personal information depends on how you use the Website.
 
+When you use the Website, mcm may collect your IP address and certain 'click through' information about your use of the Website.
 
-Upon your approval this information may be used:  
-\- to send news, information about our activities and general promotional material which we believe may be useful to you; -  
--to monitor who is accessing the website or using services offered on the website; and   
--to profile the type of people accessing the website.
+To access certain features of the Website, you will need to register as a Website member. mcm requires that you provide certain personal information (such as your name, email address, postcode, password, age and gender and mobile phone number (optional)) in order to register as a user of those features.
 
-  
-If you do not wish to have your personal information used in this manner or for any other specific purpose, you can email us accordingly.
+If you contact mcm with a question or comment, mcm may collect certain personal information for the purposes of responding to your question or comment. mcm will only use that personal information for this purpose.
 
-**(2) Use of Personal Information**
+2\. Use of Personal Information
 
-mcm use personal information for identification purposes and to tailor information to your entertainment needs. Data may be aggregated for analysis but your personal information is removed so you remain anonymous. We will not send your personal details to third parties without your permission.  
+mcm may use the information it collects when you use the Website or when you register as a user of the Website:
 
-
-**(3) Spamming**
-
-Spamming (Sending Mass Unsolicited E-mails) to any area of the hothits website or third party websites is not permitted. Promotional material will only be sent to you with your consent. If you are receiving junk mail or promotional material without your consent, you may remove your name from our database by following the instructions on how to remove your name or contact us at help@thehothits.com and ask to be removed from that particular list.  
+  * to monitor who is accessing the Website or using services offered on the Website;
+  * to profile the type of people accessing the Website;
+  * to tailor the information on the Website to your personal preferences; and
+  * if you consent to receive communications from mcm, to send you news and information about mcm�s services and products and services and products of mcm�s third party suppliers and �partners� (such as record companies) by email or SMS.
 
 
-**(4) Disclosure**
 
-mcm will not sell or otherwise provide your personal information to a third party or make any other use of your personal information.
+3\. Disclosure
 
-  
-If you request us not to use personal information in a particular manner or at all, we will adopt all reasonable measures to observe your request, but we may still use or disclose that information if:  
-\- we subsequently notify you of the intended use or disclosure and you do not object to that use or disclosure;  
-\- we believe the use or disclosure is reasonably necessary to assist a law enforcement agency or an agency responsible for government or public security in the performance of their functions; or-  
-\- we are required by law to disclose the information.
+mcm will generally not provide your personal information to any third party. mcm will only disclose your personal information to a third party if:
 
-**(5) Security of Personal Information**
-
-The security of your personal information is important to us. Personal information that mcm compiles from the website will be kept secure through the facilities provided by our secure corporate database. Access to your personal information on the website is password protected so that only you can access it and view the information relevant to you. mcm recommend that you do not disclose your password to anyone. You acknowledge that you are responsible for maintaining the secrecy of your password.  
+  * that disclosure is required for the purposes for which we collected the information;
+  * you have consented to that disclosure;
+  * mcm is required by law to disclose the information; or
+  * mcm is otherwise permitted to disclose the information under the National Privacy Principles.
 
 
-While mcm exercise great care in relation to the security of your personal information, no data transmission over the internet can be guaranteed to be 100% secure. mcm does not ensure or warrant the security of any personal information transmitted on the website and you do so at your own risk.  
 
+mcm may compile and disclose aggregated information about users of the Website but this aggregated information will not include any information identifying individuals.
 
-**(6) How to Access and Update Personal Information**
+4\. Security of Personal Information
 
-You are entitled to have access to any personal information relating to you which you have previously supplied to us over this website.  
+The security of your personal information is important to us. We will use reasonable endeavours to ensure that personal information that mcm collects from the Website is kept secure through the facilities provided by our secure corporate database.
 
+While mcm exercises great care in relation to the security of your personal information, no data transmission over the internet can be guaranteed to be 100% secure. mcm does not ensure or warrant the security of any personal information transmitted to or from the Website and you use the Website at your own risk.
 
-Should you wish to access, check or update or remove your personal information on the website, please email mcm at help@thehothits.com.  
+5\. How to seek access to your Personal Information
 
+You are entitled to seek access to any personal information which mcm holds about you.
 
-If you do not wish to provide personal information via the website you can mail them to mcm entertainment pty ltd, Level 8, 140 Bourke Street, Melbourne, Victoria 3000.  
+mcm may withhold access to your personal information in a number of circumstances which are set out in the National Privacy Principles.
 
+If you wish to seek access to personal information mcm holds about you, please email us at help@thehothits.com.
 
-**(7) Links to Third Party Websites**
+6\. Links to third party websites
 
-mcm provides links to and from third party websites that are not operated or controlled by mcm and may not be subject to a Privacy Policy. mcm is not responsible for the conduct of third parties linked to the mcm websites. Before disclosing personal information we suggest you examine the privacy policies on these websites.  
+mcm provides links to and from third party websites that are not operated or controlled by mcm and may not be subject to a privacy policy. mcm is not responsible for the conduct of these third parties. Before disclosing personal information to any third party we suggest you examine the privacy policies on the third party's website or enquire about their privacy policy.
 
+7\. How to contact mcm
 
-Keep in mind that whenever you give out personal information online, for example, via bulletin boards or chatrooms that information can be collected and used by people you don't know. While mcm strive to protect our users' personal information and privacy, we cannot guarantee the security of any information you disclose online and you do so at your own risk.  
+Please contact mcm at help@thehothits.com if you would like further information on our personal information handling practices.
 
+8\. Additional privacy information
 
-**(8) How to Contact mcm**
-
-Please contact mcm at help@thehothits.com if you have any questions or concerns in relation to the privacy of your personal information.  
-
-
-**(9) Additional Privacy Information**
-
-If you are interested in obtaining additional information on privacy you can visit the Australian Federal Privacy Commissioner's website at www.privacy.gov.au.
+If you are interested in obtaining additional information on privacy you can visit the Australian Federal Privacy Commissioner'' website at [www.privacy.gov.au](http://www.privacy.gov.au/).
