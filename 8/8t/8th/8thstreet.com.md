@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 8thstreet.com privacy policy that was archived on 2006-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061025063631id_/http%3A//www.8thstreet.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 8thstreet.com privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228234000id_/http%3A//www.8thstreet.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # 8th Street Music - Online Music Superstore - Recording, MIDI, Pro Audio, Guitars, Accessories and more...
 
