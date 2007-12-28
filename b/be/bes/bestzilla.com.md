@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestzilla.com privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608173337id_/http%3A//www.bestzilla.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestzilla.com privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228043707id_/http%3A//www.bestzilla.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy Bestzilla is deeply committed to protecting the privacy of Internet users
 
