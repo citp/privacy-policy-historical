@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gunbroker.com privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613212648id_/http%3A//gunbroker.com/User/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gunbroker.com privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228054355id_/http%3A//www.gunbroker.com/User/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # GunBroker.com Privacy Policy
 
@@ -37,7 +37,7 @@ This site makes chat rooms, forums, message boards, and/or news groups available
 ###   
 Security  
   
-This site has substantial security measures in place to protect the loss, misuse and alteration of the information under our control. Our servers are locked in private cabinets within a secure data center with 24 hour security monitoring and passkey/biometric access. Our database is password protected using strong security to prevent access by unauthorized persons. We employ hardware firewalls to protect our servers from intrusion. All financial transactions are encrypted at the highest level possible, and our credit card processing and data storage techniques meet or exceed the requirements of American Express, Discover, VISA, and MasterCard.  
+This site has substantial security measures in place to protect the loss, misuse and alteration of the information under our control. Our servers are locked in private cabinets within a secure data center with 24 hour security monitoring. Our database is password protected using strong security to prevent access by unauthorized persons. We employ firewalls and other security measures to protect our servers from intrusion. All financial transactions are encrypted using secure sockets layer (SSL) during transmission and sensitive information is encrypted within our database.   
   
 ###   
 Choice / Opt-out  
