@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the translated.net privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623120237id_/http%3A//www.translated.net/en/riservatezza.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the translated.net privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228222128id_/http%3A//www.translated.net/en/riservatezza.php) for the most accurate reproduction.*
 
 # TRANSLATED.net :. Confidentiality
 
