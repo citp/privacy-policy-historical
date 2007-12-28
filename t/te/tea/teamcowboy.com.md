@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the teamcowboy.com privacy policy that was archived on 2007-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070430163401id_/http%3A//www.teamcowboy.com/privacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamcowboy.com privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228163219id_/http%3A//www.teamcowboy.com/privacyPolicy.php) for the most accurate reproduction.*
 
 # Team Cowboy - Privacy Policy
 
-|    
+Privacy Policy
+
+  
 Team Cowboy is committed to maintaining the privacy and security of the personal information of all visitors to this site to the fullest extent permitted by law. 
 
 When you send an e-mail to Team Cowboy or submit information in an online form on the Team Cowboy Web site, you are voluntarily releasing that information to us. Team Cowboy will not distribute your information to third parties without prior consent from you, the user of this Web site. 
