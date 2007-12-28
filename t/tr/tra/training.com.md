@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the training.com privacy policy that was archived on 2007-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070519052852id_/http%3A//www.training.com/index.asp%3Forgid%3D117%26storyTypeID%3D%26sid%3D%26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the training.com privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228174736id_/http%3A//www.training.com/index.asp%3Forgid%3D117%26storyTypeID%3D%26sid%3D%26) for the most accurate reproduction.*
 
 # Privacy Policy
 
