@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the gamefly.com privacy policy that was archived on 2007-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070615031532id_/http%3A//www.gamefly.com/help/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamefly.com privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228225716id_/http%3A//www.gamefly.com/help/privacypolicy.asp) for the most accurate reproduction.*
 
 # Video Game Rentals: Rent or Buy PS3, PS2, PSP, Xbox 360, Xbox, GameCube, DS, Wii, GBA Games
 
-  
+This Privacy Policy was last updated on November 15, 2007.
+
 GameFly respects the privacy rights of our online visitors and is committed to protecting the personal information collected about you. To further this commitment, we have adopted this Online Privacy Policy ("Privacy Policy") to guide how we collect, store, and use the information you provide us online. GameFly follows established online information collection and use practices. 
 
 By reading this Privacy Policy, you can expect to be informed about the following:
@@ -96,7 +97,7 @@ The ads appearing on this Web site are delivered to you by DoubleClick, our Web 
 
 _Co-Sponsors and Promotional Partners_
 
-From time to time, we may run contests, special offers, or other events or activities ("events") on our Website. Information collected for these events may include personal information (e.g., name, mailing address, etc.) and may be collected by or shared with a third party sponsor, co-sponsor, or other reputable third party (e.g., promotional partner, retailer, or game or magazine publisher). While we have no control over the third party's use of such information, we will attempt to ensure that they agree to protect the confidentiality, security, and integrity of any personal information we share with them (or that they collect through our Website). If you do not want your information to be collected by or shared with a third party, you can choose not to participate in these events at the time of the contest/event or when the information is collected. 
+From time to time, we may run contests, special offers, or other events or activities ("events") on our Website. Information collected for these events may include personal information (e.g., name, mailing address, etc.) and may be collected by or shared with a third party sponsor, co-sponsor, or other reputable third party (e.g., promotional partner, retailer, or game or magazine publisher). If you provide information to such third parties, you give them permission to use it for the purpose of that event and any other use that you approve. We cannot control third parties' use of your information. If you do not want your information to be collected by or shared with a third party, you can choose not to participate in these events at the time of the contest/event or when the information is collected. 
 
 In some instances, we may have an arrangement with a promotional partner or retailer, whereby they share with us customer information collected on their website. In the event that we receive such data and combine it with our customer records, the combined information will be treated in accordance with this Privacy Policy. Otherwise, all such information is subject to the privacy policy under which it was collected. 
 
@@ -146,5 +147,3 @@ Culver City, CA 90231-5326
 Any personal information you provide to the above e-mail or postal mail addresses will not be used to send you promotional materials, unless you request it. 
 
 If you have any questions, complaints or comments **regarding our GameFly Referrals Program** , please contact [friends_cs@gamefly.com](mailto:friends_cs@gamefly.com). 
-
-This Privacy Policy was last updated on January 4, 2007. 
