@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the tpexpress.co.uk privacy policy that was archived on 2007-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070605020349id_/http%3A//www.tpexpress.co.uk/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tpexpress.co.uk privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228102147id_/http%3A//www.tpexpress.co.uk/privacy.asp) for the most accurate reproduction.*
 
-# Trans Pennine Trains - Privacy Policy
+# First TransPennine Trains - Privacy Policy
 
 | 
 
 |  |  |   
 ---  
-|  [Home](https://web.archive.org/web/20070605020349id_/http%3A//default.asp) >Privacy Policy    
+|  [Home](https://web.archive.org/web/20071228102147id_/http%3A//default.asp) >Privacy Policy    
 Privacy Policy    
 
 
@@ -16,7 +16,7 @@ Privacy Policy
   
 ---  
   
-First/Keolis TransPennine Limited ("TransPennine Express") is committed to preserving the privacy of all visitors to http://www.tpexpress.co.uk and to protecting any personal information that you may provide to us. In particular, we believe it is important for you to know how we treat information about you that we may receive from this website ("Site") and how we carry out data processing practices through the use of the Internet and any other electronic communications networks. Please read the following privacy policy to understand how we use and protect the information that you provide to us or how we may use and protect it in the future. 
+First/Keolis TransPennine Limited ("First TransPennine Express") is committed to preserving the privacy of all visitors to http://www.tpexpress.co.uk and to protecting any personal information that you may provide to us. In particular, we believe it is important for you to know how we treat information about you that we may receive from this website ("Site") and how we carry out data processing practices through the use of the Internet and any other electronic communications networks. Please read the following privacy policy to understand how we use and protect the information that you provide to us or how we may use and protect it in the future. 
 
 By registering for any services on this Site or by providing any information to us, you consent to the collection, use and transfer of your information under the terms of this policy.  
   
@@ -30,14 +30,14 @@ In general, you can visit this Site without telling us who you are or revealing 
 · details of the ways in which you are happy to receive information from us and/or selected third parties;   
 · information collected to use the on-line ticket booking service such as details of your departure point and destination. 
 
-TransPennine Express may : 
+First TransPennine Express may : 
 
 · offer contests and other promotional activities that may require online registration. Persons wishing to participate in those activities will be asked to provide certain personal information. Some of the information requested for this purpose is optional, but other information, such as email address, is mandatory because it will be needed to notify and identify winners;   
 · require the selection of a user ID and password for the use of some of its services or activities;   
 · offer you the opportunity to receive email updates and announcements concerning our services and special promotions. Personal information you have provided to us may be used to facilitate those communications;   
 · collect information about you from e-mails, letters, telephone calls, customer satisfaction forms or from any other communications you send to or have with us; and  
 · collect additional information automatically about your visit to our Site.  
-TransPennine Express encourages visitors to its Site to contact us with questions and comments. Email addresses and other information in relation to persons doing so may also be collected in order to facilitate our responses to those inquiries. 
+First TransPennine Express encourages visitors to its Site to contact us with questions and comments. Email addresses and other information in relation to persons doing so may also be collected in order to facilitate our responses to those inquiries. 
 
 You will find that it is not compulsory to provide us with any additional information we request which is not necessary or reasonable in order to provide you with the services you have requested. Furthermore, please note that our policy is not to ask for sensitive personal data - that is, data relating to: race or ethnic origin; political opinion; religious or other similar beliefs; trade union membership; physical or mental health; sexual orientation; criminal records. We recommend that you do not provide such information to us. If you choose to do so for any reason, this will mean that you have given (and we accept) your explicit consent for us to use that information for the reasons described in this policy, or as explained at the time you provide the information.   
   
@@ -57,9 +57,9 @@ When other personal information, such as your name and e-mail address, is collec
 · making the Site easier for you to use and providing you with access to all parts of the Site; and  
 · helping you to quickly find services and information on the Site;   
 · where necessary, crime prevention and prosecution of offenders; and  
-· responding to specific requests, observations or complaints relating to any TransPennine Express service. 
+· responding to specific requests, observations or complaints relating to any First TransPennine Express service. 
 
-Except with your permission or as provided herein, TransPennine Express will not sell, trade or rent personal information about you to unaffiliated third parties. 
+Except with your permission or as provided herein, First TransPennine Express will not sell, trade or rent personal information about you to unaffiliated third parties. 
 
 We may also use and disclose information in aggregate (so that no individuals are identified) for marketing and strategic development purposes or use and analyse the information we collect so that we can administer, support, improve and develop our business. 
 
@@ -105,7 +105,7 @@ We will retain your information for a reasonable period or as long as the law re
 
 Given that the Internet is a global environment, using the Internet to collect and process personal information necessarily involves the transmission of data on an international basis. Therefore by browsing this Site and communicating electronically with us, you acknowledge and agree to our processing of personal information in this way. 
 
-Whereas TransPennine Express employs reasonable measures to protect against viruses and other harmful components, the nature of the internet is such that it is impossible to ensure that your access to the Site will be uninterrupted or error-free, or that this Site, its servers or emails which may be sent by us are free of viruses or other harmful components. 
+Whereas First TransPennine Express employs reasonable measures to protect against viruses and other harmful components, the nature of the internet is such that it is impossible to ensure that your access to the Site will be uninterrupted or error-free, or that this Site, its servers or emails which may be sent by us are free of viruses or other harmful components. 
 
 The contents of this Site are designed to comply with the general obligations of the European Directives on Data Protection and E-Privacy. We cannot be responsible for non-compliance with any local advertising or other laws in relation to this Site or its contents.  
   
@@ -127,7 +127,7 @@ page. We welcome your questions and any suggestions you may have about our priva
   
 11\. Changes to this Policy   
   
-TransPennine Express reserves the right to revise or supplement this Privacy Policy from time to time. You should bookmark and periodically review this page to ensure that you are familiar with the most current version of this Privacy Policy and so you are aware of what information we collect, how we use it and under what circumstances we disclose it. You can determine when this Privacy Policy was last revised by checking the "Last Updated" legend at the top of the Policy.  
+First TransPennine Express reserves the right to revise or supplement this Privacy Policy from time to time. You should bookmark and periodically review this page to ensure that you are familiar with the most current version of this Privacy Policy and so you are aware of what information we collect, how we use it and under what circumstances we disclose it. You can determine when this Privacy Policy was last revised by checking the "Last Updated" legend at the top of the Policy.  
   
 _Copyright © 2005 First/Keolis TransPennine Limited. All rights reserved._  
   
