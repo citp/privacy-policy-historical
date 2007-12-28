@@ -1,37 +1,30 @@
-> *The following text is extracted and transformed from the iphantom.com privacy policy that was archived on 2007-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070208200602id_/http%3A//www.iphantom.com/privacyStatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iphantom.com privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228184837id_/http%3A//www.iphantom.com/privacyStatement.html) for the most accurate reproduction.*
 
 # Phantom Technologies
 
 **iPhantom.com Privacy Statement**  
 ---  
    
-Last updated: 04/25/2005  
+Last updated: 11/15/2007  
    
-|  [](http://www.truste.org/ivalidate.php?url=www.iphantom.com&sealid=101) | 
-
-Phantom Technologies LLC is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site www.iphantom.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.  
   
----|---  
-  
-If you have questions or concerns regarding this statement, you should first contact our support team at [support@iphantom.com](mailto:support@iphantom.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns.
-
 Welcome to the online Privacy Statement page for the iPhantom.com website. We take your privacy seriously and are committed to protecting your personal information while using our website.
 
 We encourage you to review the privacy policies described below in this Privacy Statement. By visiting this website, you are consenting to the personal information practices described in this Privacy Statement.   
   
 **Privacy Statement Index**  
-|  |  Contact Information   
+|  | Contact Information   
 ---|---  
-|  Providing Users with Anonymous Access  
-|  Collection of your Personal Information  
-|  Use of your Personal Information  
-|  Access to your Personal Information  
-|  Security of your Personal Information  
+| Providing Users with Anonymous Access  
+| Collection of your Personal Information  
+| Use of your Personal Information  
+| Access to your Personal Information  
+| Security of your Personal Information  
 |  Use of Cookies  
-|  Protection of Children's Personal Information  
-|  Joint or Co-Branded Products  
-|  Enforcement of this Privacy Policy  
-|  Changes to this Statement  
+| Protection of Children's Personal Information  
+| Joint or Co-Branded Products  
+| Enforcement of this Privacy Policy  
+| Changes to this Statement  
 **Contact Information**  
   
 This is the web site of **Phantom Technologies LLC.**  
@@ -42,7 +35,7 @@ Our postal address is:
 San Diego, CA 92121**
 
   
-We can be reached via e-mail at [support@iphantom.com](mailto:support@iphantom.com)  
+We can be reached via e-mail [here](http://support.iphantom.com/index.php?_m=tickets&_a=submit)  
 or you can reach us by telephone at **1.877.PHANTECH (742.6832)**  
   
 Return to the top  
@@ -59,7 +52,7 @@ We do not partner with or have special relationships with any ad server companie
 
 We collect the e-mail addresses of those who communicate with us via e-mail, information volunteered by the consumer, such as survey information, customer support, and/or order processing information. Order processing information that is collected through our website includes mailing and billing addresses, credit card information, and contact information such as e-mail and phone number that are used strictly for order confirmation purposes. 
 
-If you choose to use our referral service to tell a friend about our products, we will ask you for your friend’s name and e-mail address. We will automatically send your friend a one-time e-mail inviting him or her to visit our site for more information regarding the products. The e-mail will include a purchase code that may be used to receive a discount through the referral program. Phantom Technologies LLC or does not store the names or e-mail addresses acquired through this referral program. The name and e-mail address are used for the sole purpose of sending this one-time e-mail. The e-mail will include a unique code that is used for receiving the referral discount and for tracking the success of our referral program.   
+If you choose to use our referral service to tell a friend about our products, we will ask you for your friend's name and e-mail address. We will automatically send your friend a one-time e-mail inviting him or her to visit our site for more information regarding the products. The e-mail will include a purchase code that may be used to receive a discount through the referral program. Phantom Technologies LLC or does not store the names or e-mail addresses acquired through this referral program. The name and e-mail address are used for the sole purpose of sending this one-time e-mail. The e-mail will include a unique code that is used for receiving the referral discount and for tracking the success of our referral program.   
   
 Return to the top  
 **Use of your Personal Information**  
