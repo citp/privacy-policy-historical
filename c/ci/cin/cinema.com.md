@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cinema.com privacy policy that was archived on 2007-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070501100340id_/http%3A//www.cinema.com/legal/privacy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cinema.com privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228063145id_/http%3A//www.cinema.com/legal/privacy.phtml) for the most accurate reproduction.*
 
 # Privacy Statement @ Cinema.com
 
@@ -20,4 +20,4 @@ Community: This site contains message boards, and news groups available to its u
 
 Third Party Cookies: In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.
 
-This policy may change from time to time so please check back periodically. Please contact Cinema.com Limited if you have any questions about this privacy statement, the practices of this site, or your dealings with the website, you can contact us at: Cinema.com Limited, Thorpe Arch Grange, Thorpe Arch, Wetherby, LS23 7BA, United Kingdom.
+This policy may change from time to time so please check back periodically. Please contact Cinema.com if you have any questions about this privacy statement, the practices of this site, or your dealings with the website.
