@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the realbuzz.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429130939id_/http%3A//www.realbuzz.com/en-us/Privacy/index%3FpageID%3D2046) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realbuzz.com privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228104824id_/http%3A//www.realbuzz.com/en-us/Privacy/index%3FpageID%3D2046) for the most accurate reproduction.*
 
 # Privacy Policy - realbuzz.com US
 
-This policy was last updated on February 1st 2006.
+This policy was last updated on October 29th 2007.
 
 Thank you for visiting realbuzz.com. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used by realbuzz.com.
 
@@ -12,7 +12,8 @@ Since the protection of your privacy is of the greatest importance to us, we hav
 You do not have to share personal information to use realbuzz.com. realbuzz.com does not collect personal information about people without their permission. The information we gather from subscribers to our email newsletters (including email addresses) is not shared with other organisations or third parties without your permission. realbuzz.com is extremely protective of the information gathered through its online membership and email subscriptions. From time to time we may send out emails on behalf of like-minded organisations, but we do not provide them with access to any personal information that you have provided.
 
 **How we protect your information**   
-Our website has security measures in place to protect against the loss, misuse or alteration of the information under our control. Our web server is located in a locked, secure environment. All databases containing personal information are securely stored on a separate system that is not connected to the Internet. When you contribute to realbuzz.com online, we use a secure server and encryption to protect all your personal information during transmission.
+Our website has security measures in place to protect against the loss, misuse or alteration of the information under our control. Our web server is located in a locked, secure environment. All databases containing personal information are securely stored on a separate system that is not connected to the Internet.  
+
 
 **How we collate and use information**   
 We gather email and other user contact information by means of the following methods; signing up to My realbuzz, events and exhibitions and via the online shop. Newsletters are sent out to opt in subscribers only. In order to provide you with improved, relevant content, we compile information about email response and website usage. This information helps us to better understand our members' and email subscribers site usage patterns and also what types of content and information may help improve your user experience on realbuzz.com. To improve our online services realbuzz.com periodically performs statistical analyses of aggregate user behavior and characteristics in order to measure interest in and use of various areas on our website and to use such information to improve on our website's ability to serve you better.
