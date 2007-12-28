@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dow.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625101835id_/http%3A//www.dow.com/homepage/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dow.com privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228120611id_/http%3A//www.dow.com/homepage/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -8,7 +8,7 @@ We use the information that visitors provide for such purposes as processing and
 
 Visitors who complete our registration form have the option of receiving occasional email updates and surveys in their selected areas of interest. Those who elect to receive updates and surveys may change this election at any time by updating their registration information.
 
-If you have registered with our site and would like to update your registration information, please [click here](https://web.archive.org/web/20070625101835id_/http%3A//www.dow.com/webapps/reg/OverviewRegistration.asp?caller=/homepage/index.html) or write us at:
+If you have registered with our site and would like to update your registration information, please [click here](https://web.archive.org/web/20071228120611id_/http%3A//www.dow.com/webapps/reg/OverviewRegistration.asp?caller=/homepage/index.html) or write us at:
 
 Dow Chemical Customer Information Group  
 Dow Ashman Center  
