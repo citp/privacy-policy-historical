@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kfc.com.au privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609103221id_/http%3A//www.kfc.com.au/Default.asp%3Fpage%3D/privacy%2Bpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kfc.com.au privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228015201id_/http%3A//www.kfc.com.au/Default.asp%3Fpage%3D/privacy%2Bpolicy) for the most accurate reproduction.*
 
 # KFC
 
