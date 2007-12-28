@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the calendars.com privacy policy that was archived on 2007-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070624143948id_/http%3A//www.fuzeqna.com/calendars/consumer/kbdetail.asp%3Fkbid%3D41) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the calendars.com privacy policy that was archived on 2007-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071229005340id_/http%3A//www.fuzeqna.com/calendars/consumer/kbdetail.asp%3Fkbid%3D41) for the most accurate reproduction.-->
 
 <html><head>
 
@@ -801,7 +801,11 @@ function IsEmailValid(sEmail)
 
 	//Display error message if the pattern was not found
 	if (!stringFound) {
-		EmailOk = false;
+		re = new RegExp("^[_a-zA-Z0-9-+']+(\.[_a-zA-Z0-9-+']+)*@[a-zA-Z0-9-]+(\.[a-zA-Z0-9-]+)*\.(([0-9]{1,3})|([a-zA-Z]{2,3})|(aero|coop|info|museum|name))$");
+		stringFound = sEmail.match(re);
+		if (!stringFound) {
+			EmailOk = false;
+		}
 	}
 	return EmailOk
 }
@@ -1257,7 +1261,7 @@ function submitalert(alertType)
 {
 	
 		if (confirm('You must log in to add an Alert. Click OK to log in or Cancel to return to the detail page.')) {
-			window.location = "../membership/consumer/login.asp?referer=" + escape("consumer/kbdetail.asp?kbid=41&formaction=" + alertType);
+			window.location = "../membership/consumer/login.asp?referer=" + escape('consumer/kbdetail.asp?kbid=41&formaction=' + alertType);
 			return false;
 		} else {
 			return false;
@@ -1308,6 +1312,7 @@ function validateSelect(elem, msg)
 	}
 	
 	
+	document.mainform.action = document.mainform.action + '#rateit';
 	
 	return true;
 }
@@ -1540,7 +1545,7 @@ function setParent(url) {
 				</td>
 				
 				<td align="left" id="kbdetailnewnav" nowrap="">
-					<a href="#related"><img alt="View Related Info" src="../images/link1.gif" border="0" width="16" height="12"></a>
+					<a href="#related"><img alt="View Related Info" src="../images/link1.gif" border="0" width="16" height="14"></a>
 					<a href="#related" class="normallink">Related</a>
 				</td>
 				
@@ -1555,12 +1560,10 @@ function setParent(url) {
 				<td colspan="9" id="kbdetailnewnav" style="padding-top:10px;" nowrap="">
 					<table cellspacing="0" cellpadding="2" valign="top">
 						<tbody><tr>
-							<td valign="top" id="kbdetailnewnav" nowrap=""><b>View all items in:</b></td>
-							<td valign="top" id="kbdetailnewnav" nowrap="" style="line-height:16px;">
-							<!--<span onmouseover="javascript:popIt('Click to view all items in this category');" onmouseout="javascript:killIt();">-->
-								 <a class="normallink" href="search.asp?catID1=6">Privacy Policy</a><br>
-							<!--</span>-->
-							</td>
+							
+								<td valign="top" id="kbdetailnewnav" nowrap=""><b>View all items in:</b></td>
+								<td valign="top" id="kbdetailnewnav" nowrap="" style="line-height:16px;"> <a class="normallink" href="search.asp?catID1=6">Privacy Policy</a><br></td>
+							
 							<td valign="top" id="kbdetailnewnav" nowrap="">
 							<img src="../images/spacer.gif" width="20" height="2" alt="">
 							
@@ -1616,33 +1619,37 @@ function setParent(url) {
 <div>
 <div>
 <div>
-<p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-SIZE: 9pt; COLOR: black; FONT-FAMILY: Verdana">We respect your privacy and are committed to protecting your personal information. This notice describes our privacy policy. By visiting Calendars.com or DogBreedStore.com, you are accepting the practices described in this privacy notice. </span></p>
-<p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-SIZE: 9pt; COLOR: black; FONT-FAMILY: Verdana"></span>&nbsp;</p>
-<p class="MsoNormal" style="MARGIN: 0in 0in 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><strong><span style="FONT-SIZE: 9pt; COLOR: black; FONT-FAMILY: Verdana">Information Collection</span></strong></p>
-<strong><span style="FONT-SIZE: 9pt; COLOR: black; FONT-FAMILY: Verdana"></span></strong><span style="FONT-SIZE: 9pt; COLOR: black; FONT-FAMILY: Verdana">
-<p class="MsoNormal" style="MARGIN: 0in 0in 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><br>When you visit the site, we collect some basic information that does not identify individual users. This includes the pages visited and the types of products purchased. We then aggregate this information with thousands of other pieces of information to improve our site and make your shopping time on the site as valuable and efficient as possible. </p>
-<p class="MsoNormal" style="MARGIN: 0in 0in 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto">&nbsp;</p>
+<p class="MsoNormal" style="margin: 0in 0in 0pt"><span style="font-size: 9pt; color: black; font-family: Verdana">We respect your privacy and are committed to protecting your personal information. This notice describes our privacy policy. By visiting Calendars.com or DogBreedStore.com, you are accepting the practices described in this privacy notice. </span></p>
+<p class="MsoNormal" style="margin: 0in 0in 0pt">&nbsp;</p>
+<p class="MsoNormal" style="margin: 0in 0in 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><strong><span style="font-size: 9pt; color: black; font-family: Verdana">Information Collection</span></strong></p>
+<span style="font-size: 9pt; color: black; font-family: Verdana">
+<p class="MsoNormal" style="margin: 0in 0in 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><br>
+When you visit the site, we collect some basic information that does not identify individual users. This includes the pages visited and the types of products purchased. We then aggregate this information with thousands of other pieces of information to improve our site and make your shopping time on the site as valuable and efficient as possible.</p>
+<p class="MsoNormal" style="margin: 0in 0in 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto">&nbsp;</p>
 </span>&nbsp;
-<p class="MsoNormal" style="MARGIN: 0in 0in 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><span style="FONT-SIZE: 9pt; COLOR: black; FONT-FAMILY: Verdana">We will not rent or sell your name, address, email address, credit card information or personal information to any third party without your permission. However, we must cooperate fully should a situation arise where we are required by law or legal process to provide information about a customer. </span></p>
-<p class="MsoNormal" style="MARGIN: 0in 0in 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><span style="FONT-SIZE: 9pt; COLOR: black; FONT-FAMILY: Verdana"></span>&nbsp;</p>
-<p class="MsoNormal" style="MARGIN: 0in 0in 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><strong><span style="FONT-SIZE: 9pt; COLOR: black; FONT-FAMILY: Verdana">Information We Need</span></strong></p>
-<strong><span style="FONT-SIZE: 9pt; COLOR: black; FONT-FAMILY: Verdana"></span></strong><span style="FONT-SIZE: 9pt; COLOR: black; FONT-FAMILY: Verdana">
-<p class="MsoNormal" style="MARGIN: 0in 0in 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><br>When you order, we need to know your name, email address, shipping address, billing address, phone number, and credit card number with expiration date. This allows us to process and fulfill your order and to notify you of your order status. We ask for your phone number in the event that our customer service representatives or delivery services need to contact you about your order. To simply create an account, we will only need your name, email address, and a password. </p>
-<p class="MsoNormal" style="MARGIN: 0in 0in 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto">&nbsp;</p>
+<p class="MsoNormal" style="margin: 0in 0in 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><span style="font-size: 9pt; color: black; font-family: Verdana">We will not rent or sell your name, address, email address, credit card information or personal information to any third party without your permission. However, we must cooperate fully should a situation arise where we are required by law or legal process to provide information about a customer. </span></p>
+<p class="MsoNormal" style="margin: 0in 0in 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto">&nbsp;</p>
+<p class="MsoNormal" style="margin: 0in 0in 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><strong><span style="font-size: 9pt; color: black; font-family: Verdana">Information We Need</span></strong></p>
+<span style="font-size: 9pt; color: black; font-family: Verdana">
+<p class="MsoNormal" style="margin: 0in 0in 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><br>
+When you order, we need to know your name, email address, shipping address, billing address, phone number, and credit card number with expiration date. This allows us to process and fulfill your order and to notify you of your order status. We ask for your phone number in the event that our customer service representatives or delivery services need to contact you about your order. To simply create an account, we will only need your name, email address, and a password.</p>
+<p class="MsoNormal" style="margin: 0in 0in 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto">&nbsp;</p>
 </span>&nbsp;
-<p class="MsoNormal" style="MARGIN: 0in 0in 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><strong><span style="FONT-SIZE: 9pt; COLOR: black; FONT-FAMILY: Verdana">Saved Information</span></strong></p>
-<p class="MsoNormal" style="MARGIN: 0in 0in 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><strong><span style="FONT-SIZE: 9pt; COLOR: black; FONT-FAMILY: Verdana"></span></strong><span style="FONT-SIZE: 9pt; COLOR: black; FONT-FAMILY: Verdana"><br>We save the information about products you purchased to provide you with the best possible customer service and the most up-to-date information about your order. You can view your past and current orders online by logging into the My Account section with your private password. </span></p>
-<p class="MsoNormal" style="MARGIN: 0in 0in 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><span style="FONT-SIZE: 9pt; COLOR: black; FONT-FAMILY: Verdana"></span>&nbsp;</p>
-<p class="MsoNormal" style="MARGIN: 0in 0in 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><span style="FONT-SIZE: 9pt; COLOR: black; FONT-FAMILY: Verdana">If you forget your password, we will first verify your identity and then email your password to the email address you have listed in your account. </span></p>
-<p class="MsoNormal" style="MARGIN: 0in 0in 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><span style="FONT-SIZE: 9pt; COLOR: black; FONT-FAMILY: Verdana"></span>&nbsp;</p>
-<p class="MsoNormal" style="MARGIN: 0in 0in 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><strong><span style="FONT-SIZE: 9pt; COLOR: black; FONT-FAMILY: Verdana">Changing Your Information</span></strong></p>
-<strong><span style="FONT-SIZE: 9pt; COLOR: black; FONT-FAMILY: Verdana"></span></strong><span style="FONT-SIZE: 9pt; COLOR: black; FONT-FAMILY: Verdana">
-<p class="MsoNormal" style="MARGIN: 0in 0in 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><br>If at any time you would like to change any information in your account, just go to the My Account link in the upper right-hand corner of each page. Here you can change or update your email address and password, billing address, payment options, shipping options, address book, and email preferences. Be sure to click Save My Changes when you have updated your account. </p>
-<p class="MsoNormal" style="MARGIN: 0in 0in 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto">&nbsp;</p>
+<p class="MsoNormal" style="margin: 0in 0in 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><strong><span style="font-size: 9pt; color: black; font-family: Verdana">Saved Information</span></strong></p>
+<p class="MsoNormal" style="margin: 0in 0in 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><span style="font-size: 9pt; color: black; font-family: Verdana"><br>
+We save the information about products you purchased to provide you with the best possible customer service and the most up-to-date information about your order. You can view your past and current orders online by logging into the My Account section with your private password. </span></p>
+<p class="MsoNormal" style="margin: 0in 0in 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto">&nbsp;</p>
+<p class="MsoNormal" style="margin: 0in 0in 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><span style="font-size: 9pt; color: black; font-family: Verdana">If you forget your password, we will first verify your identity and then email your password to the email address you have listed in your account. </span></p>
+<p class="MsoNormal" style="margin: 0in 0in 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto">&nbsp;</p>
+<p class="MsoNormal" style="margin: 0in 0in 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><strong><span style="font-size: 9pt; color: black; font-family: Verdana">Changing Your Information</span></strong></p>
+<span style="font-size: 9pt; color: black; font-family: Verdana">
+<p class="MsoNormal" style="margin: 0in 0in 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><br>
+If at any time you would like to change any information in your account, just go to the My Account link in the upper right-hand corner of each page. Here you can change or update your email address and password, billing address, payment options, shipping options, address book, and email preferences. Be sure to click Save My Changes when you have updated your account.</p>
+<p class="MsoNormal" style="margin: 0in 0in 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto">&nbsp;</p>
 </span>&nbsp;
-<p class="MsoNormal" style="MARGIN: 0in 0in 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><span style="FONT-SIZE: 9pt; COLOR: black; FONT-FAMILY: Verdana"><strong>To remove your name</strong> from our special email bulletins, please click on the link located at the bottom of each promotional email.</span></p>
-<p class="MsoNormal" style="MARGIN: 0in 0in 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><span style="FONT-SIZE: 9pt; COLOR: black; FONT-FAMILY: Verdana"></span>&nbsp;</p>
-<p class="MsoNormal" style="MARGIN: 0in 0in 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><span style="FONT-SIZE: 9pt; COLOR: black; FONT-FAMILY: Verdana"><span style="FONT-SIZE: 9pt; COLOR: black; FONT-FAMILY: Verdana; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Our policy is intended to provide you with the safest and most secure shopping experience possible. Since the law, offerings and technologies change, we reserve the right to change, modify, add or remove portions of our privacy policy at any time without prior notice. If you have further questions, please feel free to contact our <a href="http://www.fuzeqna.com/calendars/consumer/kbdetail.asp?kbid=167">Customer Service</a> team.</span></span></p>
+<p class="MsoNormal" style="margin: 0in 0in 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><span style="font-size: 9pt; color: black; font-family: Verdana"><strong>To remove your name</strong> from our special email bulletins, please click on the link located at the bottom of each promotional email.</span></p>
+<p class="MsoNormal" style="margin: 0in 0in 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto">&nbsp;</p>
+<p class="MsoNormal" style="margin: 0in 0in 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><span style="font-size: 9pt; color: black; font-family: Verdana"><span style="font-size: 9pt; color: black; font-family: Verdana; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Our policy is intended to provide you with the safest and most secure shopping experience possible. Since the law, offerings and technologies change, we reserve the right to change, modify, add or remove portions of our privacy policy at any time without prior notice. If you have further questions, please feel free to contact our <a href="http://www.fuzeqna.com/calendars/consumer/kbdetail.asp?kbid=167">Customer Service</a> team.</span></span></p>
 </div>
 </div>
 </div>
@@ -1661,17 +1668,18 @@ function setParent(url) {
 				<input type="hidden" name="ao" value="">
 				<input type="hidden" name="keyword" value="">
 				<input type="hidden" name="match" value="">
-				<input type="hidden" name="passKey" value="9634668">
-
+				<input type="hidden" name="passKey" value="3065302">
+				<input type="hidden" name="gpn" value="">
+				<input type="hidden" name="gpv" value="">
 		
 		<table width="100%" cellpadding="0" cellspacing="0" border="0">
 			<tbody><tr>
 			  
 				<td class="blacklabel" colspan="2" nowrap="">
 			  
-					<a id="related">
+					<a id="related"></a>
 					Related Items
-				</a></td>
+				</td>
 			</tr>
 			<tr>
 				<td colspan="2">
@@ -1679,13 +1687,13 @@ function setParent(url) {
 						<tbody><tr>
 							<td>
 								
-									<a href="/calendars/consumer/kbdetail.asp?kbid=40" class="Relatedlink">How do I purchase a calendar?</a><p>
+									<a href="kbdetail.asp?kbid=40" class="Relatedlink">How do I purchase a calendar?</a><p>
 										
-									<a href="/calendars/consumer/kbdetail.asp?kbid=42" class="Relatedlink">What are my payment options?</a></p><p>
+									<a href="kbdetail.asp?kbid=42" class="Relatedlink">What are my payment options?</a></p><p>
 										
-									<a href="/calendars/consumer/kbdetail.asp?kbid=57" class="Relatedlink">Is my information secure?</a></p><p>
+									<a href="kbdetail.asp?kbid=57" class="Relatedlink">Is my information secure?</a></p><p>
 										
-									<a href="/calendars/consumer/kbdetail.asp?kbid=174" class="Relatedlink">What is your Security Policy?</a></p><p>
+									<a href="kbdetail.asp?kbid=174" class="Relatedlink">What is your Security Policy?</a></p><p>
 										
 							</p></td>
 						</tr>
@@ -1783,7 +1791,7 @@ Enter Comments Here
 						</tr>
 						<tr>
 							<td class="GrayLabelBottom">Date</td>
-							<td colspan="3" class="GrayLabelDataBottom">5/9/2007</td>
+							<td colspan="3" class="GrayLabelDataBottom">12/3/2007</td>
 						</tr>
 					</tbody></table>
 				</a></td>
