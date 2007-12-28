@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the extratv.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231010026id_/http%3A//www2.warnerbros.com/main/privacy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extratv.com privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228122614id_/http%3A//www2.warnerbros.com/main/privacy/privacy.html) for the most accurate reproduction.*
 
 # Warner Bros. Online: Privacy Policy
 
