@@ -1,35 +1,51 @@
-> *The following text is extracted and transformed from the netvibes.com privacy policy that was archived on 2007-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070616024147id_/http%3A//www.netvibes.com/static.php%3Fshow%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netvibes.com privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228182439id_/http%3A//www.netvibes.com/static.php%3Fshow%3Dprivacy) for the most accurate reproduction.*
 
 # Netvibes
 
 ﻿
 
-## Privacy Policy
+## Netvibes - Privacy Policy
 
-INFORMATION GATHERING AND USAGE 
+Netvibes is committed to safeguarding your personal information. This Privacy Policy is part of the [Netvibes Terms of Service](http://www.netvibes.com/static.php?show=tos). By using the Site, you agree to abide and be bound by this Privacy Policy, which may be modified or updated from time to time without notice. In this event the update will be displayed on the Site. 
 
-  * The contents of your Netvibes page is stored and maintained on Netvibes servers in order to provide the service.
-  * When you sign in to access your personal page from anywhere we ask for information such as your email address.
-  * Netvibes will never sell, rent or share your personal information, especially your e-mail addresses, with any third parties for marketing purposes without your express permission.
+### I. Nature of Personal Information Collected by Netvibes
 
+We may collect and process both information that you voluntarily communicate to us in order to access our Service (such as your email and password) and data related to your preferences and traffic (such as your IP address or the modules selected). You do not need to open an account and provide us with personally identifiable information to use our Service. Some personal information may be necessary to access some aspects of our Service. We will never collect or process personal data pertaining to, directly or indirectly, your race, your political, philosophical, or religious views, your health, or your sexual orientation. 
 
+### II. Non-Personally Identifiable Information & Cookies
 
-COOKIES 
+#### Traffic
 
-  * A cookie is a small amount of data, which often includes an anonymous unique identifier, that is sent to your browser from a web site's computers and stored on your computer's hard drive.
-  * Cookies are required to use the Netvibes service.
-  * We use permanent cookies to record your session information
+Traffic data are generated when your computer connects to the Internet and to the Site and are not sufficient alone to identify you. We may collect the following information: origin of the connection (ISP), IP address, type and version of your Internet browser, length of connection, etc. These data may be used for statistical purposes to analyze the traffic (most and least-viewed modules, favorite itineraries, activity per day and hour, etc.) and to improve our Site by adapting it to your tastes. Traffic data are always processed anonymously. 
 
+#### Cookies
 
+We may place “cookies” on your computer hard drive to record your visit and to restore your personalized Netvibes web pages when you connect with your usual computer. These small files may contain, for instance, traffic data and your preferences. 
 
-CLIENT DATA STORAGE 
+You may suppress cookies after your visit or configure your Internet browser to prevent them. However, you should be aware that in this event your preferences will be lost if you do not have a Netvibes account. Please refer to the help file of your Internet browser for the adequate configuration. 
 
-Although Netvibes owns the data storage, databases and all rights to the Netvibes application, you retain all rights to your data. 
+### III. Processing of your Personal Information
 
-CHANGES 
+We collect and process your personal information in a fair and lawful manner and in respect of your rights. Netvibes is the entity responsible for processing your personal information. The personal information collected helps us to know you better and to improve our Service. 
 
-Netvibes may periodically update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified when you signed in or by placing a prominent notice on our site. 
+### IV. Retention of Your Personal Information
 
-QUESTIONS 
+#### Security
 
-For any questions about this Privacy Policy, please use the feedback form. 
+The personal information that you communicate to us is safeguarded on Netvibes’ servers. We use our best efforts to prevent any interference with your personal data such as loss, diversion, intrusion, unauthorized divulgation, alteration, or destruction. 
+
+#### Cancellation of Account
+
+At any time you may request [by email](http://www.netvibes.com/static.php?show=feedback)/ that your account be cancelled and that all associated personal information be deleted. Please note that in this event all your preferences will be lost. 
+
+### V. Communication from Netvibes
+
+We may send you email to the address associated with your account for technical or administrative purposes or to inform you of the evolution of our Service. We will not send you commercial offers unrelated to Netvibes. 
+
+### VI. Transfer of Your Personal Information
+
+We undertake not to share your personal information with or transfer it to third parties unless you have consented prior to said sharing or transfer. We will never share your personal information with third parties that do not guarantee an adequate protection. Please be aware that we may provide your personal information if we are required to do so by law or are compelled by a court of law. 
+
+### VII. Right to Access, Modify, and Delete Your Personal Information
+
+We inform you that you have the right to access, modify, object to the processing of, and request the deletion of the personal information collected or processed by Netvibes. You may modify your password by clicking on the “option” button on the main web page. You may also modify your data by sending us [an email](http://www.netvibes.com/static.php?show=feedback). 
