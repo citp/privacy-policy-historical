@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the rickperry.org privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213202357id_/http%3A//www.rickperry.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rickperry.org privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228084738id_/http%3A//www.rickperry.org/privacy) for the most accurate reproduction.*
 
-# Governor Rick Perry § RickPerry.org Privacy Policy
+# RickPerry.org Privacy Policy | Texans for Rick Perry
 
 Welcome to RickPerry.org, the official web site of Texans for Rick Perry which is the Governor’s official campaign organization. We have developed this privacy policy to explain what information we might collect from you during your visit to the site and why we collect it.
 
 As part of our effort to provide you with up-to-date information on the campaign, we may at times ask you to submit information such as your name, address, email address, and phone number. You are not obligated to divulge this information unless you choose to do so.
 
-Texans for Rick Perry reserves the right to share your information with authorized third parties who provide services relating to contacting our supporters and only for that purpose. We will not otherwise share or sell your information under any circumstances.
+Texans for Rick Perry reserves the right to share your information with authorized third parties who provide services relating to contacting our supporters and only for that purpose. We will not otherwise share or sell your information under any circumstances. 
 
 ### Information Gathered
 
@@ -48,6 +48,8 @@ If you choose to make an online contribution to Texans for Rick Perry, we will c
 We may attempt to collect other optional information as well. Optional information is listed as such.
 
 **Note**  
+
+
 State law requires us to use best efforts to collect and report the full name and address, principal occupation or job title, and full name of employer of individuals whose contributions equal or exceed $500 in a reporting period.
 
 #### Links:
