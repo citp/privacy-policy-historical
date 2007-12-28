@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rferl.org privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629085949id_/http%3A//www.rferl.org/about/content/policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rferl.org privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228034858id_/http%3A//www.rferl.org/about/content/policy.asp) for the most accurate reproduction.*
 
 # RADIO FREE EUROPE/ RADIO LIBERTY
 
