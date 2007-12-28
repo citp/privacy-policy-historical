@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the gonomad.com privacy policy that was archived on 2007-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070205142640id_/http%3A//www.gonomad.com/corp/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gonomad.com privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228063028id_/http%3A//www.gonomad.com/corp/privacy.html) for the most accurate reproduction.*
 
 # GoNOMAD - Cultural, Educational and Adventure Travel
 
 |   
 ---  
-[](https://web.archive.org/web/20070205142640id_/http%3A//www.gonomad.com/corp/list.html)  
+[](https://web.archive.org/web/20071228063028id_/http%3A//www.gonomad.com/corp/list.html)  
 Give your travel business the exposure it deserves. Click here to get listed in GoNOMAD's searchable directory
 
-[](https://web.archive.org/web/20070205142640id_/http%3A//www.gonomad.com/specials/specials.html)
+[](https://web.archive.org/web/20071228063028id_/http%3A//www.gonomad.com/specials/specials.html)
 
   
 Want to go? Search for international **airfare specials, hotel bargains,** **group tours and car rentals.** We update them every 10 minutes, so you're guaranteed to find the lowest prices from the top providers.
@@ -17,20 +17,19 @@ Want to go? Search for international **airfare specials, hotel bargains,** **gro
   
 Travelogues, adventures, misadventures and more from real travelers...
 
-[](https://web.archive.org/web/20070205142640id_/http%3A//www.gonomad.com/helps/helps.html)
+[](https://web.archive.org/web/20071228063028id_/http%3A//www.gonomad.com/helps/helps.html)
 
   
 Check out sustainable and responsible tourism projects around the world that you can help support
 
-[](https://web.archive.org/web/20070205142640id_/http%3A//www.gonomad.com/market/market.html)
+[](https://web.archive.org/web/20071228063028id_/http%3A//www.gonomad.com/market/market.html)
 
 Shop the world for books, world music, travel accessories, handcrafts and more...
 
 * * *
 
 Share your travels!  
-[Click here to submit your stories to us!](https://web.archive.org/web/20070205142640id_/http%3A//www.gonomad.com/corp/writerguidelines.htm)   
-| 
+[Click here to submit your stories to us!](https://web.archive.org/web/20071228063028id_/http%3A//www.gonomad.com/corp/writerguidelines.htm) | 
 
 > **GoNOMAD.com Privacy Statement** _We know how important your privacy is and GoNOMAD.com is dedicated to protecting the privacy of its visitors and listing businesses. We want you to be able to browse our site, join the GoNOMAD NETWORK and make use of our Members' Bulletin Boards, contests, special services and offers, without being contacted by unwanted sales people and solicitors._
 > 
@@ -91,54 +90,28 @@ Share your travels!
 > 
 > [Learning, Volunteer and **Alternative** **Travel** \- GoNOMAD](http://www.gonomad.com/alternatives/alternatives.html)
 > 
-> **...** No matter your age or interest, there's an **alternative** **travel** opportunity for you at GoNOMAD. **...** Top **alternative** **travel** picks in Europe. **...**   
->  www.gonomad.com/ **alternative** s/ **alternative** s.html - 56k 
-> 
 > [**Alternative** **Travel** Feature Articles - GoNOMAD](http://www.gonomad.com/features/features.html)
-> 
-> **...** That's why GoNOMAD brings you a selection of original articles written expressly for GoNOMAD or culled from the best **alternative** **travel** magazines. **...**   
->  www.gonomad.com/features/features.html - 94k 
 > 
 > [Finding and Choosing an **Alternative** **Travel** Vacation - GoNOMAD **...**](http://www.gonomad.com/alternatives/0011/rosenleafritter_altsminigu.html)
 > 
-> **...** GoNOMAD MINI GUIDE: Finding and Choosing an **Alternative** **Travel** Vacation By Nicole Rosenleaf Ritter, GoNOMAD **ALTERNATIVE** **TRAVEL** GUIDE. **...**   
->  www.gonomad.com/ **alternative** s/ 0011/rosenleafritter_altsminigu.html - 26k 
-> 
 > [From Touring to Learning: **Alternative** **Travel** in Southeast Asia **...**](http://www.gonomad.com/alternatives/0011/rosenleafritter_alternativ.html)
-> 
-> **...** From Touring to Learning: **Alternative** **Travel** in Southeast Asia By Nicole Rosenleaf Ritter, GoNOMAD **ALTERNATIVE** **TRAVEL** GUIDE Photo by Randal Thatcher. **...**   
->  www.gonomad.com/ **alternative** s/ 0011/rosenleafritter_alternativ.html - 30k 
 > 
 > [Top Picks for **Alternative** **Travel** in Europe](http://www.gonomad.com/alternatives/0105/rosenleafritter_altspicks.html)
 > 
-> **...** Top Picks for **Alternative** **Travel** in Europe By Nicole Rosenleaf Ritter, GoNOMAD **ALTERNATIVE** **TRAVEL** GUIDE Courtesy of ArtExchange Greece. **...**   
->  www.gonomad.com/ **alternative** s/ 0105/rosenleafritter_altspicks.html - 46k
-> 
-> [GoNOMAD-- **Alternative** **Travel** , Ecotourism, volunteering vacations **...**](http://www.gonomad.com/recorder.html)
-> 
-> GoNOMAD.com: **Travel** \-- **alternative** **travel** , budget trips, learning adventures, volunteer vacations & more. “ **Alternative** **travel** is involved **travel**. **...**   
->  www.gonomad.com/recorder.html - 42k 
-> 
 > [**Alternative** Island Fantasies - GoNOMAD](http://www.gonomad.com/alternatives/0101/ritter_altspicks.html)
-> 
-> **...** to have a "fantasy" island stay without ever hearing "Ze Plane!" Here’s an eclectic list of vacation and longer-term **alternative** **travel** possibilities on some **...**   
->  www.gonomad.com/ **alternative** s/0101/ritter_altspicks.html - 27k 
 > 
 > [GoNOMAD - Cultural, Educational and Adventure **Travel**](http://www.gonomad.com/corp/about.html)
 > 
-> **...** WHAT IS **ALTERNATIVE** **TRAVEL** , ANYWAY? **...** A vital aspect of **Alternative** **Travel** is an emphasis on sustainable and responsible tourism. **...**   
->  www.gonomad.com/corp/about.html - 26k 
-> 
 > [Habla Espanol?: Top Picks for **Alternative** **Travel** in Central **...**](http://www.gonomad.com/alternatives/0012/rosenleafritter_altpicks.html)
 > 
-> **...** Habla Espanol?: Top Picks for **Alternative** **Travel** in Central America By Nicole Rosenleaf Ritter, GoNOMAD **ALTERNATIVE** **TRAVEL** GUIDE. **...**   
->  www.gonomad.com/ **alternative** s/ 0012/rosenleafritter_altpicks.html - 26k 
+> [](https://web.archive.org/web/20071228063028id_/http%3A//www.gonomad.com/traveldesk/airportparking.html)
 > 
-> [](https://web.archive.org/web/20070205142640id_/http%3A//www.gonomad.com/traveldesk/airportparking.html)
+>   
+>  **View GoNOMAD's Photo Galleries From Around the World  
+>  **  
+> 
+> 
+>   
+> 
 
 |  |   
-
-[](http://www.clickxchange.com/fr.phtml?act=1401712.2)
-
-  
-
