@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reverbnation.com privacy policy that was archived on 2007-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070306094235id_/http%3A//www.reverbnation.com/c./cms/PrivacyPolicy%3Fdisplay%3Dview_popup%26layout%3Dpopup) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reverbnation.com privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228183049id_/http%3A//www.reverbnation.com/c./cms/PrivacyPolicy%3Fdisplay%3Dview_popup%26layout%3Dpopup) for the most accurate reproduction.*
 
 # ReverbNation.com
 
@@ -56,4 +56,8 @@ CHANGES IN OUR PRIVACY POLICY
 From time to time RN may make changes to our Privacy Policy. If we make changes, we will post them on our site to make Listeners aware of what the changes are so Users will always be aware of what information we collect, how we use it, and when we may disclose it. A User is bound by any minor changes to the Privacy Policy when she or he uses the site after those changes have been posted If, however, we are going to use Listeners' personally identifiable information in a manner materially different from that stated at the time of collection we will notify by posting a notice on RN for 30 days. 
 
 CONTACTING THE WEB SITE  
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: privacy@reverbnation.com.
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: privacy@reverbnation.com. Physical inquiries can be sent to:
+
+eMinor, Inc.  
+501 Washington St. Suite D  
+Durham, NC 27701 USA
