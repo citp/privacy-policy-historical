@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fdmgroup.com privacy policy that was archived on 2007-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070529205234id_/http%3A//www.fdmgroup.com/termsandconditions/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fdmgroup.com privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228081332id_/http%3A//www.fdmgroup.com/termsandconditions/privacy.html) for the most accurate reproduction.*
 
 # privacy FDM Group
 
