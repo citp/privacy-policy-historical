@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the vic.gov.au privacy policy that was archived on 2007-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070430070706id_/http%3A//www.vic.gov.au/VictoriaOnline%3Faction%3Dprivacy%26pageTitle%3DPrivacy%26nav%3Dancillary) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vic.gov.au privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228190753id_/http%3A//www.vic.gov.au/VictoriaOnline%3Faction%3Dprivacy%26pageTitle%3DPrivacy%26nav%3Dancillary) for the most accurate reproduction.*
 
 # Victoria Online: Privacy
 
 ## Victoria Online – Who we are
 
-Victoria Online is the entry point website of the government of the State of Victoria, Australia (here referred to as "the Victorian Government"), operated by the Department for Victorian Communities. This is a portal website with links to external websites. If you have any queries about this website, please contact the Portal Business Manager as follows: 
+Victoria Online is the entry point website of the government of the State of Victoria, Australia (here referred to as "the Victorian Government"), operated by the Department of Innovation, Industry and Regional Development. This is a portal website with links to external websites. If you have any queries about this website, please contact the Manager, eServices as follows: 
 
 by email at:
-    [victoria.online@mmv.vic.gov.au](mailto:%76%69%63%74%6f%72%69%61%2e%6f%6e%6c%69%6e%65%40%6d%6d%76%2e%76%69%63%2e%67%6f%76%2e%61%75)
+    [victoria.online@dpcd.vic.gov.au](mailto:%76%69%63%74%6f%72%69%61%2e%6f%6e%6c%69%6e%65%40%64%70%63%64%2e%76%69%63%2e%67%6f%76%2e%61%75)
 by post at:  
 
-    Portal Business Manager  
+    Manager, eServices  
 Victoria Online  
-Department for Victorian Communities  
-GPO Box 2392  
-Melbourne Vic 3001
+Department of Innovation, Industry and Regional Development  
+GPO Box 4509 RR  
+Melbourne Vic 3000
 
 ## Application of this privacy statement
 
@@ -24,33 +24,33 @@ This privacy statement applies only to the Victoria Online website and not to an
 
 Victoria Online only requests you to provide personal information for the purposes of responding to your feedback. The purpose for collecting personal information is to provide feedback and answer queries that you have in respect of a particular site or the information you are trying to obtain and Victoria Online will only use and/or disclose the information for these purposes. It is possible to provide feedback without providing your personal information although if you do this, we are unable to respond to you about your feedback or your query.
 
-Personal information that is collected by Victoria Online will be used by and disclosed to Victorian Government employees or contractors whose duties require them to use it. Such employees and contractors are required to protect and handle your personal information in accordance with the [Information Privacy Act 2000 (Vic.)](https://web.archive.org/CountHits?uri=pri01&redirectTo=http://www.legislation.vic.gov.au/Domino/Web_Notes/LDMS/PubLawToday.nsf/a12f6f60fbd56800ca256de500201e54/A318444C40FFD492CA2570CF00042812/$FILE/00-98a014.pdf).
+Personal information that is collected by Victoria Online will be used by and disclosed to Victorian Government employees or contractors whose duties require them to use it. Such employees and contractors are required to protect and handle your personal information in accordance with the [Information Privacy Act 2000 (Vic)](http://secure-au.imrworldwide.com/cgi-bin/b?cg=pri01&ci=vic-vic&tu=http://www.legislation.vic.gov.au/Domino/Web_Notes/LDMS/PubLawToday.nsf/a12f6f60fbd56800ca256de500201e54/1427BD7172D19D3DCA25736000021540/$FILE/00-98a020.pdf).
 
 ## Access to and correction of personal information
 
 You may request access to any personal information that Victoria Online may have collected about you. Also, you may request correction of your personal information if you can establish that it is not accurate, complete or up to date. 
 
-The Portal Business Manager may be contacted about access to, and correction of, personal information collected by Victoria Online or for any questions or concerns you may have arising out of this privacy statement,
+The Manager, eServices may be contacted about access to, and correction of, personal information collected by Victoria Online or for any questions or concerns you may have arising out of this privacy statement,
 
 by email at:
-    [victoria.online@mmv.vic.gov.au](mailto:%76%69%63%74%6f%72%69%61%2e%6f%6e%6c%69%6e%65%40%6d%6d%76%2e%76%69%63%2e%67%6f%76%2e%61%75)
+    [victoria.online@dpcd.vic.gov.au](mailto:%76%69%63%74%6f%72%69%61%2e%6f%6e%6c%69%6e%65%40%64%70%63%64%2e%76%69%63%2e%67%6f%76%2e%61%75)
 by post at:
-    Portal Business Manager  
+    Manager, eServices  
 Victoria Online  
-Department for Victorian Communities   
-GPO Box 2392  
-Melbourne Vic 3001  
+Department of Innovation, Industry and Regional Development  
+GPO Box 4509 RR  
+Melbourne Vic 3000  
 
 
-The Privacy Officer for the Department for Victorian Communities may also be contacted about access to, and correction of, personal information collected by Victoria Online or for any questions or concerns you may have arising out of this privacy statement:
+The Privacy Officer for the Department of Innovation, Industry and Regional Development may also be contacted about access to, and correction of, personal information collected by Victoria Online or for any questions or concerns you may have arising out of this privacy statement:
 
 by telephone on:
-    03 9208 3104 (between 9.00 am and 5.00 pm on weekdays except public holidays in Melbourne) 
+    03 9651 9749 (between 9.00 am and 5.00 pm on weekdays except public holidays in Melbourne) 
 by post at:
     The Information Privacy Officer  
-Department for Victorian Communities   
-GPO Box 2392  
-Melbourne Vic 3001
+Department Planning and Community Development  
+Level 31, 121 Exhibition Street  
+Melbourne Vic 3000
 
 ## Collection of personal information
 
@@ -94,7 +94,7 @@ Victoria Online uses standard web analytics software packages to analyse its web
 
 ## Web measurement service used by Victoria Online
 
-Victoria Online currently uses [Nielsen//NetRatings](https://web.archive.org/CountHits?uri=pri03&redirectTo=http://www.netratings.com/) as its web monitoring service provider. 
+Victoria Online currently uses [Nielsen//NetRatings](http://secure-au.imrworldwide.com/cgi-bin/b?cg=pri03&ci=vic-vic&tu=http://www.netratings.com/) as its web monitoring service provider. 
 
 ### Use of Cookies
 
@@ -102,12 +102,12 @@ As part of the service provided by our web monitoring service provider, Victoria
 
 ### Use of Web Beacons
 
-The Nielsen//NetRatings service also uses [web beacons](https://web.archive.org/CountHits?uri=pri04&redirectTo=http://www.webopedia.com/TERM/W/Web_beacon.html). These web beacons capture every visit, and measure interactivity at the browser-level. This technology helps measure what is actually viewed on the site. While the anonymous statistical data Victoria Online collects may be aggregated and used in broader statistical analysis by either Victoria Online or its web monitoring service provider to improve our services, at no time can Victoria Online personally identify you as the source of that data. 
+The Nielsen//NetRatings service also uses [web beacons](http://secure-au.imrworldwide.com/cgi-bin/b?cg=pri04&ci=vic-vic&tu=http://www.webopedia.com/TERM/W/Web_beacon.html). These web beacons capture every visit, and measure interactivity at the browser-level. This technology helps measure what is actually viewed on the site. While the anonymous statistical data Victoria Online collects may be aggregated and used in broader statistical analysis by either Victoria Online or its web monitoring service provider to improve our services, at no time can Victoria Online personally identify you as the source of that data. 
 
 ### Use of Clickstream data
 
-"[Clickstream](https://web.archive.org/CountHits?uri=pri05&redirectTo=http://www.webopedia.com/TERM/c/clickstream.html)" data is gathered by the Nielsen//NetRatings service and by Victoria Online when monitoring computer browsers in relation to the path website visitors take while moving within Victoria Online. In this instance, individuals are not identified only unique browsers.
+"[Clickstream](http://secure-au.imrworldwide.com/cgi-bin/b?cg=pri05&ci=vic-vic&tu=http://www.webopedia.com/TERM/c/clickstream.html)" data is gathered by the Nielsen//NetRatings service and by Victoria Online when monitoring computer browsers in relation to the path website visitors take while moving within Victoria Online. In this instance, individuals are not identified only unique browsers.
 
-Further information about how our web monitoring service provider collects and uses information gathered over the web is available from the [ Nielsen//NetRatings website](https://web.archive.org/CountHits?uri=pri06&redirectTo=http://www.nielsen-netratings.com/privacy/sitecensus.htm). 
+Further information about how our web monitoring service provider collects and uses information gathered over the web is available from the [ Nielsen//NetRatings website](http://secure-au.imrworldwide.com/cgi-bin/b?cg=pri06&ci=vic-vic&tu=http://www.nielsen-netratings.com/privacy/sitecensus.htm). 
 
 Victoria Online uses the clickstream data provided by Nielsen//NetRatings or which it collects itself purely for statistical purposes (such as the most popular searches and the times of the day that Victoria Online is used most/least) without identifying individual users. 
