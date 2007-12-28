@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usertesting.com privacy policy that was archived on 2007-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070604004011id_/http%3A//www.usertesting.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usertesting.com privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228064313id_/http%3A//www.usertesting.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # UserTesting.com - Privacy Policy
 
@@ -24,6 +24,6 @@ UserTesting.com reserves the right to modify this privacy statement at any time.
 
 Videos and reviews that are done for your company will be kept confidential. Any samples that appear on our home page weren't paid for.
 
-If you have questions about our privacy policy, please [contact us](https://web.archive.org/web/20070604004011id_/http%3A//www.usertesting.com/contactus.aspx). 
+If you have questions about our privacy policy, please [contact us](https://web.archive.org/web/20071228064313id_/http%3A//www.usertesting.com/contactus.aspx). 
 
 **Last updated: Friday, March 18, 2007.**
