@@ -1,33 +1,23 @@
-> *The following text is extracted and transformed from the trafficdelivers.com privacy policy that was archived on 2006-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060623071150id_/http%3A//www.trafficdelivers.com/signup.php%3Fshow%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficdelivers.com privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228170653id_/http%3A//trafficdelivers.com/%3F_w%3Dprivacy) for the most accurate reproduction.*
 
-# TrafficDelivers.com - We Deliver More than Just Traffic!
+# TrafficDelivers.com - We Deliver Traffic... and More!
 
-**  
-Traffic Delivers                                                 **[Home](http://www.trafficdelivers.com/) | [Login](http://www.trafficdelivers.com/login.php) | [Signup](http://www.trafficdelivers.com/signup.php)| [FAQs](http://www.trafficdelivers.com/faq.php) | [Terms](http://www.trafficdelivers.com/signup.php?show=terms) | [Privacy](http://www.trafficdelivers.com/privacy.php) | [Contact Us](http://www.trafficdelivers.com/contact.php) **
+**THIS PRIVACY STATEMENT DISCLOSES THE PRIVACY PRACTICES FOR TrafficDelivers.com**
 
-Privacy Policy
+**Information Collection and Use of Information**  
+In order to use this website, a user must first complete the registration form. During registration a user is required to give his contact information (email address). This information is used to contact the user about the service and products we provide or wish to provide. We will not sell, share, or rent personal information to others.
 
-**
+**Security**  
+This website takes every precaution to protect our users personal information. When a user submits sensitive information via our site, the information is protected both online and off-line. Only the administrator of this site can access personal information of the users. 
 
-**General**  
-At TrafficDelivers, we respect the privacy of our customers and affiliates and we've created this privacy statement so that you have easy access to information about our privacy practices. In general, TrafficDelivers does not collect, store, use or disclose personally identifying information except in very specific instances, such as, for example, when you enroll as an advertiser with us. Whenever we collect such information, you will have a choice regarding whether to provide it, how it will be used, and to whom it will be disclosed. The instances in which TrafficDelivers.com does collect and use information are specifically described in this Privacy Policy.
+**Correction/Updating Personal Information**  
+If a user's personally identifiable information changes, we provide a way to correct that user's personal data provided to us. This can be done within the member area.
 
-**Information we request, and how we use it**  
-In several areas during sign up we ask you to provide certain information by filling out and submitting an online form. We ask for your name, address and contact information so we can send you your order or payments, and so we can contact you if we have a question about your order/account. Any credit card information that may be asked for would only be so we can fulfill your order when/if you have placed one, and so we can provide this information to the company or companies who process your credit card payment. We do not share or sell your personal information, including email addresses.
+**Right to Cancel**  
+Our users can cancel membership and be removed from all newsletters and databases. To do this a link is provided at the end of system generated email messages from TrafficDelivers.com, click the link and you will be taken to a web page where you may choose to be removed from just newsletters or the entire database.
 
-**Information we do not collect**  
-When you visit our site, we do not collect your name, email address or any other personal information unless you provide it to us.
+**Site and Service Updates**  
+We may send the user site and service announcement updates. We communicate with the users to provide requested services and in regards to issues relating to their accounts via email.
 
-**How we use email**  
-After you join our site, you will receive an email confirmation of your account signup. You will then have to verify your signup to ensure that your email address has not been given to us by another party. Occasionally, we send a TrafficDelivers Newsletter to our member database, our email update on specials, upgrades, partnerships etc and also paid advertising from fellow members. You may unsubscribe at any time by logging into your account and deleting your account.
-
-**Information we do not share with others**  
-TrafficDelivers does not share, sell or trade email addresses, information collected as part of a survey or specific details about you or your household. We do not contribute to or participate in shared or cooperative databases, which give other companies access to your personal information. We do not release credit card or financial information for use by other companies. For privacy purposes, all information relating to our customers is stored on our highly secure server, and all credit card information is stored in an encrypted format.
-
-**Links to Other Sites**  
-TrafficDelivers provides links to many other websites that are beyond our control. Websites that we link to may have privacy and security policies that differ from those of TrafficDelivers. Please understand that we are not responsible, in any manner, for the privacy, security practices, or content of such websites.
-
-If you feel that you have an issue with our Privacy Policy, please use our contact link to inform us.
-
-  
-
+**Notification of Changes**  
+If we decide to change our Privacy Policy we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner
