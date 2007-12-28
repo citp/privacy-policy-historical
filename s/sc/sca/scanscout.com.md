@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scanscout.com privacy policy that was archived on 2007-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070509184043id_/http%3A//www.scanscout.com/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scanscout.com privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228053256id_/http%3A//www.scanscout.com/privacy-policy.shtml) for the most accurate reproduction.*
 
 # ScanScout - Privacy Policy
 
@@ -112,7 +112,7 @@ Additionally, information about our End-Users may be disclosed as part of any me
 
 We use reasonable security measures in an effort to prevent loss, misuse and alteration of information under our control. However, we cannot guarantee protection of all information in all cases.  For instance, we cannot guarantee protection against interception, misappropriation, misuse, or alteration, or that your information will not be disclosed or accessed by accidental circumstances or by the unauthorized acts of others. Consequently, we cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk.  Additionally, we have absolutely no control over the security of other sites you might visit, interact with or do business with.
 
-If we learn of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps.  By using the Site or providing personal information to us you agree that we can communicate with you electronically regarding security, privacy, and administrative issues relating to your use of the Site.  ScanScout may post a notice on the Site if a security breach occurs.  We may also send an email to you at the email address you have provided to us in these circumstances.  Depending on where you live, you may have a legal right to receive notice of a security breach in writing.  To receive a free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us at ScanScout, Inc., Attn: Waikit Lau or Steve Lee, The Beebe Building, 129 South Street, Boston, MA 02111, USA.
+If we learn of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps.  By using the Site or providing personal information to us you agree that we can communicate with you electronically regarding security, privacy, and administrative issues relating to your use of the Site.  ScanScout may post a notice on the Site if a security breach occurs.  We may also send an email to you at the email address you have provided to us in these circumstances.  Depending on where you live, you may have a legal right to receive notice of a security breach in writing.  To receive a free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us at ScanScout, Inc., Attn: Privacy Matters, The Beebe Building, 129 South Street, Boston, MA 02111, USA.
 
 ## III. External Web Sites.
 
@@ -128,7 +128,7 @@ The Site is hosted in the United States.  If you are an End-User accessing the 
 
 ## VI. Your California Privacy Rights.
 
-Under California law, California residents have the right to request in writing from businesses with whom they have an established business relationship the following: (i) a list of the categories of personal information (e.g., name, address, e-mail address, and the type of services provided to the customer) that a business has disclosed to third parties, during the immediately preceding calendar year, for the third parties' direct marketing purposes, and (ii) the names and addresses of all such third parties. To request the above information, please e-mail us at: privacy@ScanScout.com, or write to us at ScanScout, Inc., Attn: Waikit Lau or Steve Lee, The Beebe Building, 129 South Street, Boston, MA 02111, USA, with a reference to California Disclosure Information.
+Under California law, California residents have the right to request in writing from businesses with whom they have an established business relationship the following: (i) a list of the categories of personal information (e.g., name, address, e-mail address, and the type of services provided to the customer) that a business has disclosed to third parties, during the immediately preceding calendar year, for the third parties' direct marketing purposes, and (ii) the names and addresses of all such third parties. To request the above information, please e-mail us at: privacy@ScanScout.com, or write to us at ScanScout, Inc., Attn: Privacy Matters, The Beebe Building, 129 South Street, Boston, MA 02111, USA, with a reference to California Disclosure Information.
 
   We will respond to such written requests within thirty (30) days following receipt at the e-mail or mailing address stated above. If we receive your request at a different e-mail or mailing address, we will respond within a reasonable period of time, but not to exceed one hundred and fifty (150) days from the date received. Please note that we are only required by law to respond to each End-User once per calendar year.
 
@@ -141,6 +141,7 @@ This Site operates "AS-IS" and "AS-AVAILABLE," without liability of any kind.  
 If you have any questions about this Policy, or the practices of or your dealings with the Site, please email us at [privacy@ScanScout.com](mailto:privacy@ScanScout.com) or write to us at:
 
 ScanScout, Inc.  
+Attn: Privacy Matters  
 The Beebe Building  
 129 South Street  
 Boston, MA  02111
