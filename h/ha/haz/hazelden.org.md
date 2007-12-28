@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hazelden.org privacy policy that was archived on 2007-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070501233525id_/http%3A//www.hazelden.org/web/public/privacy.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hazelden.org privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228015705id_/http%3A//www.hazelden.org/web/public/privacy.page) for the most accurate reproduction.*
 
 # Hazelden -- Alcoholism and drug abuse rehabilitation treatment center for adults in Minnesota, Oregon, Illinois and New York
 
