@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the textbookx.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629221127id_/http%3A//www.textbookx.com/service/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the textbookx.com privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228234601id_/http%3A//www.textbookx.com/service/privacy.php) for the most accurate reproduction.*
 
 # Textbookx.com - Buy and Sell New and Used College Textbooks.
 
 |   
 ---|---  
   
-[](http://www.truste.org/ivalidate.php?url=www.textbookx.com&sealid=101)
+[ ](http://www.truste.org/ivalidate.php?url=www.textbookx.com&sealid=101)
 
 TextbookX.com is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for TextbookX.com. This privacy statement has an effective date of July 18, 2006. 
 
 TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because we at TextbookX.com wish to demonstrate our commitment to your privacy, we have agreed to disclose our information practices and have our privacy practices reviewed for compliance by TRUSTe. 
 
-**If you feel that this company is not abiding by its posted privacy policy, you should first email your comments to[us](https://web.archive.org/web/20070629221127id_/http%3A//www.textbookx.com/emailus.php?SID=95006e4a9ae3f28dd8ad01d86351bcc7). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php> TRUSTe will then serve as a liaison with the Web site to resolve your concerns. **
+**If you feel that this company is not abiding by its posted privacy policy, you should first email your comments to[us](https://web.archive.org/web/20071228234601id_/http%3A//www.textbookx.com/emailus.php). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php> TRUSTe will then serve as a liaison with the Web site to resolve your concerns. **
 
 Here are some steps we have taken to ensure your privacy: 
 
@@ -33,7 +33,7 @@ We request information from the user on our order form. Here a user must provide
 
 ## Refer-A-Friend
 
-The TextbookX.com Refer-A-Friend program allows you to enter a friend's email address in order to send them a one-time email regarding a product that you specify. The email address of your friend is stored in our database for the purpose of sending this one-time email only. The email address is not used for any other purposes, nor will the friend be added to our list of registered email subscribers. If you or your friend have been sent an email through this program and wish to have your information removed from our database, click [contact us](https://web.archive.org/service/contact.php?SID=95006e4a9ae3f28dd8ad01d86351bcc7) to make your request. 
+The TextbookX.com Refer-A-Friend program allows you to enter a friend's email address in order to send them a one-time email regarding a product that you specify. The email address of your friend is stored in our database for the purpose of sending this one-time email only. The email address is not used for any other purposes, nor will the friend be added to our list of registered email subscribers. If you or your friend have been sent an email through this program and wish to have your information removed from our database, click [contact us](https://web.archive.org/service/contact.php) to make your request. 
 
 ## Cookies
 
@@ -71,7 +71,7 @@ This website takes every precaution to protect our users' information. When user
 
 While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user information offline. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Our employees must use password-protected screen-savers when they leave their desk. When they return, they must re-enter their password to re-gain access to your information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers' information is protected. Finally, the servers that we store personally identifiable information on are kept in a secure environment. 
 
-If you have any questions about the security at our website, you can send an [e-mail.](https://web.archive.org/web/20070629221127id_/http%3A//www.textbookx.com/emailus.php?SID=95006e4a9ae3f28dd8ad01d86351bcc7)
+If you have any questions about the security at our website, you can send an [e-mail.](https://web.archive.org/web/20071228234601id_/http%3A//www.textbookx.com/emailus.php)
 
 ## Administrative Type Emails
 
