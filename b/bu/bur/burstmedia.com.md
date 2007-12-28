@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the burstmedia.com privacy policy that was archived on 2007-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070612083136id_/http%3A//www.burstmedia.com/isl/index.asp%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the burstmedia.com privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228050724id_/http%3A//www.burstmedia.com/isl/index.asp%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Burst Media
 
-Effective date: 5/20/2005
+Effective date: 12/14/2007
 
 Fundamentally, the privacy of Web users must be protected, and the most effective way to preserve that privacy is to confine that data at the site level. Burst Media as well as Burst AdConductor collects no personally identifiable data, and therefore protects user privacy while eliminating an unnecessary costly feature. Burst’s TRUSTe license verifies this privacy stance. 
 
@@ -58,7 +58,9 @@ If you are a Burst Network Publisher and have questions regarding different thir
 
 If you are an AdConductor Publisher and have questions regarding different third-party measurement services and their respective methods of information collection, please contact [privacy@AdConductor.com](mailto:privacy@AdConductor.com).
 
-If you want to prevent a third-party advertiser from setting and/or reading cookies on your computer, you may either visit each ad server's Web site individually and opt out or you may visit the Network Advertising Initiative’s (“NAI”) site to opt-out of many of the third-party advertising companies’ cookies. [Click here](http://www.networkadvertising.org/consumer/opt_out.asp) for the NAI gateway opt-out site. 
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://networkadvertising.org/consumer/opt_out.asp).
+
+We do not share, sell, rent or trade PII with third-parties for promotional purposes.
 
 ### Personal Information 
 
@@ -70,9 +72,13 @@ Burst regards all personal information collected from its Web publisher members 
 
 Burst regards all personal information collected from its AdConductor customers as completely confidential. This includes personal data provided during registration processes and financial account information. 
 
+#### AdConductor Publishers:
+
+We collect information such as name, email and phone number on our site in the “Contact Us” section. This information is used to establish contact with perspective publishers and is only used for that purpose.
+
 #### Security
 
-The security of your personal information is important to us. When you enter sensitive information (such as credit card number and/or social security number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). To learn more about SSL, follow this [link](http://www.webopedia.com/TERM/S/SSL.html).  
+The security of your personal information is important to us. When you enter sensitive information (such as Tax ID number and/or social security number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). To learn more about SSL, follow this [link](http://www.webopedia.com/TERM/S/SSL.html).  
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
@@ -92,15 +98,39 @@ If you are an AdConductor publisher and have any questions pertaining to this pr
 
 If a user’s personally identifiable information changes (such as zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users’ personally identifiable information. This can be done by logging into your user account and updating your personal information or discontinuing service at anytime. 
 
-Burst Network Publishers can direct their request to [privacy@burstmedia.com](mailto:privacy@burstmedia.com) and we will change the information requested. 
+Burst Network Publishers can direct their request to [privacy@burstmedia.com](mailto:privacy@burstmedia.com) and we will change the information requested within 30 days. 
 
-AdConductor publishers can direct their request to [privacy@AdConductor.com](mailto:privacy@AdConductor.com) and we will change the information requested. 
+AdConductor publishers can direct their request to [privacy@AdConductor.com](mailto:privacy@AdConductor.com) and we will change the information requested within 30 days. 
 
 Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with an appropriate law enforcement investigation, current judicial proceeding, a court order or legal process served on our Ad servers or Web site.
 
 ### Notification of Changes 
 
-If we decide to change our privacy policy, we will post these changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. Regardless of later updates, we will never use the information you submit under this current policy in a new way without first providing you an opportunity to opt-out or otherwise prevent that use. 
+If we decide to change our privacy policy, we will post these changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. Regardless of later updates, we will never use the information you submit under this current policy in a new way without first providing you an opportunity to opt-out or otherwise prevent that use. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
+
+### Customer Testimonials
+
+We post customer testimonials on our web site which may contain personally identifiable information such as the customer's name. We do obtain the customer's consent prior to posting the testimonial to post their name along with their testimonial.
+
+### Emails
+
+#### Service-related Announcements
+
+We will send you strictly service-related announcements on occasions when it is necessary to do so.  For instance, if our service is temporarily suspended for maintenance, or a new account enhancement is released which will effect the way you work with us, we might send you an email. 
+
+Generally, you may not opt-out of these communications, which are not promotional in nature.  If you do not wish to receive them, you have the option to deactivate your account. You can deactivate your account by contacting Publisher Services and requesting that your account be closed.  You can reach publisher services by email: [support@burstmedia.com](mailto:support@burstmedia.com "mailto:support@burstmedia.com") or by phone: 800-876-4352 or 781-852-5293. 
+
+#### Customer Service
+
+Based upon the personally identifiable information you provide us, we will send you a welcoming email with your username and password.  We will also communicate with you in response to your inquiries, to provide the services you request, and to manage your account. We will communicate with you by email or telephone, in accordance with your wishes. 
+
+#### Choice/Opt-out
+
+Burst does not share your personally identifiable information with third parties.  Your information is only used to provide service and support while you work with Burst Media. 
+
+We do send out regular updates of recently added campaigns to publishers in our network.  If you no longer wish to receive those email updates, you may opt-out of receiving them by following the instructions included in each update or communication by emailing us at [support@burstmedia.com](mailto:support@burstmedia.com "mailto:support@burstmedia.com") or calling us at: 800-876-4352 or 781-852-5293. 
+
+Burst does not currently share personally identifiable information with third parties. Should that policy change, you will be notified when your personal information is collected by any third party that is not our agent/service provider, so you can make an informed choice as to whether or not to share your information with that party. 
 
 ### Burst Media  
 8 New England Executive Park  
