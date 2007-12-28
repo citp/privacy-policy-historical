@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the barryplant.com.au privacy policy that was archived on 2007-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070512212328id_/http%3A//www.barryplant.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barryplant.com.au privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228061747id_/http%3A//www.barryplant.com.au/privacy.html) for the most accurate reproduction.*
 
 # BARRY PLANT REAL ESTATE
 
@@ -18,9 +18,9 @@ The following statement sets out:
   * what to do if you have concerns or a complaint with regard to privacy matters
 
   
-This site contains links to other sites, however, Barry Plant is not responsible for the privacy practices or the content of any of the sites linked to [www.barryplantdoherty.com.au](http://www.barryplantdoherty.com.au/).   
+This site contains links to other sites, however, Barry Plant is not responsible for the privacy practices or the content of any of the sites linked to [www.barryplant.com.au](http://www.barryplant.com.au/).   
 The type of information we collect   
-The type of information we collect depends on the purpose of your visit to the site. Of course you are quite at liberty to decline to provide any of your personal details when you visit [www.barryplantdoherty.com.au](http://www.barryplantdoherty.com.au/).   
+The type of information we collect depends on the purpose of your visit to the site. Of course you are quite at liberty to decline to provide any of your personal details when you visit [www.barryplant.com.au](http://www.barryplant.com.au/).   
 If you are a prospective vendor or buyer we may ask you to supply the following information:   
   
   * your name
