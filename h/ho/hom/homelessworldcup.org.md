@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the homelessworldcup.org privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623014227id_/http%3A//www.homelessworldcup.org/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homelessworldcup.org privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228011626id_/http%3A//www.homelessworldcup.org/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Homeless World Cup
 
   * Skip to content
   * [Login](https://web.archive.org/login)
-  * [Dansk](https://web.archive.org/content/hjem)
 
 
 
