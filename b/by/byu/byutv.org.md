@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the byutv.org privacy policy that was archived on 2007-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070405021452id_/http%3A//www.byutv.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the byutv.org privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228055157id_/http%3A//www.byutv.org/privacy) for the most accurate reproduction.*
 
 # BYU Television | Website Privacy Policy
 
@@ -6,7 +6,7 @@ We here at BYU Television would like to thank you for visiting our Web site! We 
 
 What information is collected?
 
-BYU Television only collects information on a voluntary basis. The personal information BYU Television collects is used almost exclusively for internal purposes and will usually take the form of: (1) byutv.org's comment form submission (usually an email, or mailing address, depending on what the submitter chooses); (2) a pledge submission, or membership submission, supplied by the the user (usually mailing and phone information as well as payment information) who wishes to be a pledging member of BYU Television; or (2) other general information contained in an email (e.g., comments). This information is used internally for reports, further contact with the individual (questions on an account, responding to comments or questions, etc.). BYU Television **NEVER** sells or gives this information to third parties. We respect your right to privacy, and will not give this information to anyone outside our organization.
+BYU Television only collects information on a voluntary basis. The personal information BYU Television collects is used almost exclusively for internal purposes and will usually take the form of: (1) byutv.org's comment form submission (usually an email, or mailing address, depending on what the submitter chooses); (2) a pledge submission, or membership submission, supplied by the user (usually mailing and phone information as well as payment information) who wishes to be a pledging member of BYU Television; or (2) other general information contained in an email (e.g., comments). This information is used internally for reports, further contact with the individual (questions on an account, responding to comments or questions, etc.). BYU Television **NEVER** sells or gives this information to third parties. We respect your right to privacy, and will not give this information to anyone outside our organization.
 
 Is the transmission of this information secure?
 
