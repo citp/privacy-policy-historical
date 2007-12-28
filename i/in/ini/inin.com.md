@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inin.com privacy policy that was archived on 2007-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070430022707id_/http%3A//www.inin.com/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inin.com privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228142216id_/http%3A//www.inin.com/legal/privacy.asp) for the most accurate reproduction.*
 
 # Interactive Intelligence - Powering the World of Business Interaction
 
