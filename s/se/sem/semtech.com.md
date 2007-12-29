@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the semtech.com privacy policy that was archived on 2007-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070525010331id_/http%3A//www.semtech.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the semtech.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229120231id_/http%3A//www.semtech.com/privacy.jsp) for the most accurate reproduction.*
 
 # Website Privacy Policy
 
