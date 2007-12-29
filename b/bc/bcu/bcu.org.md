@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bcu.org privacy policy that was archived on 2007-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070421055535id_/http%3A//www.bcu.org/PrivacyandSecurity.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bcu.org privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229084324id_/http%3A//www.bcu.org/PrivacyandSecurity.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[about bcu](https://web.archive.org/web/20070421055535id_/http%3A//www.bcu.org/aboutbcu.aspx) > **privacy policy**
+[about us](https://web.archive.org/web/20071229084324id_/http%3A//www.bcu.org/aboutbcu.aspx) > **privacy policy**
 
 ### Privacy Policy
 
