@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the mileskimball.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629044507id_/http%3A//www.mileskimball.com/mileskimball/CustomerService/Shop.aspx%3FSiteNum%3D0%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mileskimball.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229205123id_/http%3A//www.mileskimball.com/MilesKimball/CustomerService/Shop.aspx%3FSiteNum%3D0%23privacy) for the most accurate reproduction.*
 
 # Miles Kimball
 
-|  |  |  [](http://www.mileskimball.com/MilesKimball/Browsing/Category.aspx?CID=Sale&SiteNum=0) |  [](http://www.mileskimball.com/MilesKimball/Browsing/Category.aspx?CID=Web+Exclusives&SiteNum=0) |  [](http://www.mileskimball.com/MilesKimball/Browsing/Category.aspx?CID=New+Arrivals&SiteNum=0) |  [](http://www.mileskimball.com/MilesKimball/Browsing/Category.aspx?CID=As+Seen+On+TV&SiteNum=0) |  [](http://www.mileskimball.com/MilesKimball/Browsing/Category.aspx?CID=Kimball+Klearance&SiteNum=0)  
----|---|---|---|---  
+|  [](http://www.mileskimball.com/MilesKimball/Browsing/Category.aspx?CID=Sale&SiteNum=0) |  [](http://www.mileskimball.com/MilesKimball/Browsing/Gateway.aspx?CID=Web+Exclusives&SiteNum=0) |  [](http://www.mileskimball.com/MilesKimball/Browsing/Category.aspx?CID=New+Arrivals&SiteNum=0) |  [](http://www.mileskimball.com/MilesKimball/Browsing/Category.aspx?CID=As+Seen+On+TV&SiteNum=0) |  [](http://www.mileskimball.com/MilesKimball/Browsing/Category.aspx?CID=Kimball+Klearance&SiteNum=0) |   
+---|---|---|---|---|---  
   
-| [Home](https://web.archive.org/web/20070629044507id_/http%3A//www.mileskimball.com/mileskimball/Default.aspx) :: [Customer Service](https://web.archive.org/web/20070629044507id_/http%3A//www.mileskimball.com/mileskimball/CustomerService/Default.aspx) :: [Shop With Confidence](https://web.archive.org/web/20070629044507id_/http%3A//www.mileskimball.com/mileskimball/CustomerService/Shop.aspx)  
+| [Home](https://web.archive.org/web/20071229205123id_/http%3A//www.mileskimball.com/MilesKimball/Default.aspx) :: [Customer Service](https://web.archive.org/web/20071229205123id_/http%3A//www.mileskimball.com/MilesKimball/CustomerService/Default.aspx) :: [Shop With Confidence](https://web.archive.org/web/20071229205123id_/http%3A//www.mileskimball.com/MilesKimball/CustomerService/Shop.aspx)  
 ---  
    
 Shop With Confidence |  **Call us at** 1-800-546-2255  
@@ -25,7 +25,7 @@ Your complete satisfaction is guaranteed. If you change your mind about a purcha
 
 If you have any questions on how to return an item that you are not completely satisfied with, just click here to view our 
 
-[_Returns & Exchanges_](https://web.archive.org/web/20070629044507id_/http%3A//www.mileskimball.com/mileskimball/CustomerService/Ordering.aspx#returns) information.   
+[_Returns & Exchanges_](https://web.archive.org/web/20071229205123id_/http%3A//www.mileskimball.com/MilesKimball/CustomerService/Ordering.aspx#returns) information.   
 _Back to top of page_  
    
 **_Privacy and Security Policy_**  
@@ -104,7 +104,7 @@ A "cookie" is a small file stored on your computer by a web site that gathers ce
 "Web bugs" or "Web beacons" are devices placed inside emails that allow us to track certain activity. Tracked activity includes being able to tell if the email was opened, how many times a recipient opened the email, whether or not they clicked a link and how many links were clicked. We do not use these devices for any other tracking activity. 
 
 **_How do you opt out of MilesKimball.com email promotions?_**   
-From time to time, Miles Kimball will send out an email announcing special sales and promotions. Email promotions are sent to customers that have voluntarily given us their email address and agreed to receive our emails. We will never share, rent or sell your email address. If you do not wish to receive email from us, you may unsubscribe at any time by any of the following methods: 
+From time to time, Miles Kimball will send out an email announcing special sales and promotions. Email promotions are sent to customers that have voluntarily given us their email address and agreed to receive our emails. By signing up to receive our emails, you may also receive an email from another member of our family of companies. We will never share, rent or sell your email address. If you do not wish to receive email from us, you may unsubscribe at any time by any of the following methods: 
 
 * If you receive a promotional e-mail from us, click on the link "Click Here to Unsubscribe" found at the bottom of every e-mail letter we send out.   
 * You may unsubscribe in the "Email Signup" section of our web site.   
