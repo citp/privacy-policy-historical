@@ -1,44 +1,75 @@
-> *The following text is extracted and transformed from the fitandfearless.com privacy policy that was archived on 2006-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061024173933id_/http%3A//fitandfearless.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fitandfearless.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229015335id_/http%3A//www.fitandfearless.com/Privacy.html) for the most accurate reproduction.*
 
 # Fit and Fearless in Austin Texas-Krav Maga, jiu jitsu, karate, self defense, fitness, karate
 
-##   
-Privacy Policy
+** PRIVACY STATEMENT**
 
-Last Updated: 2005  
-We collect customer information in an effort to improve your shopping experience and to communicate with you about our products, services, contests, and promotions. We recognize that it must maintain and use customer information responsibly. We do not sell or rent the information you provide to us online to third parties.
+Thank you for visiting FitandFearless.com, a Fit and Fearless site. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used at this and other Fit and Fearless sites.
 
-If our information practices change in the future, we will let you know by posting the policy changes on our Web site. You will have the opportunity at that time to opt out of any new use of your information.
+**The Information We Collect**
 
-What kind of information do we collect?  
-We collect information (such as your name, e-mail address, mailing address, and phone and credit card numbers) that you provide when you place an order, register with us or participate in a contest, promotion or survey. We also maintain a record of your product interests and your purchases online.
+At some Fit and Fearless sites, you can order products and services, enter contests, vote in polls or otherwise express an opinion, subscribe to one of our services such as our online newsletters, or participate in one of our online forums or communities. The types of personally identifiable information that may be collected at these pages include: name, address, e-mail address, telephone number, fax number, credit card information, and information about your interests in and use of various products, programs, and services.
 
-How do we use your information?   
-When you make a purchase from us, we use your information to process your order. We will also send you e-mails to confirm your order, and we may need to contact you via phone, postal mail or e-mail if we have other questions regarding your order. When you register with us or participate in a contest or promotion you may choose to receive e-mails from us regarding our products, services, contests, and promotions. From time to time, we may also send you e-mails to help us learn more about your shopping preferences. In addition, we may use information about your product interests and purchases to help us improve our site design and your shopping experience.
+At some other Fit and Fearless sites, you can submit information about other people. For example, you might submit a person's name and e-mail address to send an electronic greeting card and, if you order a gift online and want it sent directly to the recipient, you might submit the recipient's name and address. The types of personally identifiable information that may be collected about other people at these pages include: recipient's name, address, e-mail address, and telephone number.
 
-How do I remove my information from e-mail, phone, and postal mailing lists?  
-We want to communicate with you only if you want to hear from us. If you prefer not to receive information from us, either through e-mail, postal mail or by phone, please let us know by sending us an e-mail.
+At certain parts of some of our sites, only persons who provide us with the requested personally identifiable information will be able to order products, programs, and services or otherwise participate in the site's activities and offerings.
 
-Please note that such requests may take up to 2 weeks to become effective. In addition, if you ask us to remove your name and address from our e-mail or postal mailing lists, we will maintain your name in a "do not mail" file to ensure that we can honor your request. Please also note that when you make a purchase, we will send you e-mails to confirm your order and may also need to contact you via phone, postal mail or e-mail if we have other questions regarding your order.
+We also may collect certain non-personally identifiable information when you visit many of our web pages such as the type of browser you are using (e.g., Netscape, Internet Explorer), the type of operating system you are using, (e.g., Windows '95 or Mac OS) and the domain name of your Internet service provider (e.g., America Online, Earthlink).
 
-How do we protect kids' privacy?  
-Consistent with the Children's Online Privacy Protection Act of 1998, we will never knowingly request personally identifiable information from anyone under the age of 13 without prior verifiable parental consent.
+**How We Use the Information**
 
-If we become aware that a subscriber is under the age of 13 and has registered without prior verifiable parental consent, we will remove his or her personally identifiable registration information from our files.
+We may use the information you provide about yourself to fulfill your requests for our products, programs, and services, to respond to your inquiries about our offerings, and to offer you other products, programs or services that we believe may be of interest to you.
 
-Please note: we may nevertheless maintain a record of that person's name and address in a "do not register" file to avoid subsequent registration by a child under the age of 13.   
-What are cookies? How do we use cookies on its site?  
-A cookie is a small data file that Web sites often store on your computer's hard drive when you visit their sites. A cookie may contain information (such as a unique user ID), that is used to track the pages of the sites you've visited. We use cookies but do not store personally identifiable information in your cookie.
+We sometimes use this information to communicate with you, such as to notify you when you have won one of our contests or when we make changes to our subscriber agreements, to fulfill a request by you for an online newsletter, or to contact you about your account with us.
 
-We use cookies in order to improve your shopping experience. When you visit our site, your cookie helps us keep track of your order as you shop at our site. If you are a registered customer, your cookie allows us to recognize you when you return to our site and provides you with access to your account information. If you register with or order from us, we also use cookies to monitor and maintain information about your use of our site. If you have not registered with or ordered from us, we may monitor and maintain information about your use of our Web site in a manner that does not identify you. In either case, this information helps us serve you better by improving our site design, as well as our products, services, contests, and promotions.
+We use the information that you provide about others to enable us to send them your gifts or cards. From time to time, we also may use this information to offer our products, programs, or services to them.
 
-We also use cookies to track and maintain the identity of the Web site you visited immediately prior to ours to further improve our site design and to fulfill contracts with our business partners. We do not otherwise track any information about your use of other Web sites.
+The information we collect in connection with our online forums and communities is used to provide an interactive experience. We use this information to facilitate participation in these online forums and communities and, from time to time, to offer you products, programs, or services.
 
-You can refuse cookies by turning them off in your browser. If you turn off cookies, though, we will not be able to track your order or enable you to make a purchase from our site. Nor will we be able to recognize you as a registered user to allow you access to your account information.
+If you choose to submit content for publication (e.g., a "letter to our editors"), we may publish your screen name and other information you have provided to us.
 
-How do we make sure your order information is secure?  
-Protecting your order information is a priority for us. We use Secure Sockets Layer (SSL) technology to protect the security of your online order information.
+We sometimes use the non-personally identifiable information that we collect to improve the design and content of our site and to enable us to personalize your Internet experience. We also may use this information in the aggregate to analyze site usage, as well as to offer you products, programs, or services.
 
-To check the security of your connection, look at the lower left-hand corner of your browser window after accessing the server. If you see an unbroken key or a closed lock (depending on your browser), then SSL is active and the server is secure. You can also double-check by looking at the URL line of your browser. When accessing a secure server, the first characters of the site address will change from "http" to "https."
+We may disclose personally identifiable information in response to legal process, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency's request, or where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our terms of use, or as otherwise required by law. In addition, we may transfer information about you if we are acquired by or merged with another company.
 
-Some versions of browsers and some firewalls don't permit communication through secure servers. In that case, you won't be able to connect to the server and therefore won't be able to place an order through an insecure connection. If you cannot access the secure server for any reason, please print our order form and place your order by phone.
+Agents and contractors of Fit and Fearless who have access to personally identifiable information are required to protect this information in a manner that is consistent with this Privacy Notice by, for example, not using the information for any purpose other than to carry out the services they are performing for Time Fit and Fearless.
+
+Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Notice.
+
+Fit and Fearless will never disclose personally identifiable information to companies whose practices are not covered by this privacy notice (e.g., other marketers, magazine publishers, retailers, participatory databases, and non-profit organizations) that want to market products or services to you.
+
+Finally, the Fit and Fearless sites covered by this Privacy Notice will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses.
+
+**Cookies & Web Beacons**
+
+To enhance your experience with our sites, many of our web pages use "cookies." Cookies are text files we place in your computer's browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, registering at one of our sites. However, once you choose to furnish the site with personally identifiable information, this information may be linked to the data stored in the cookie.
+
+We use cookies to understand site usage and to improve the content and offerings on our sites. For example, we may use cookies to personalize your experience at our web pages (e.g., to recognize you by name when you return to our site), save your password in password-protected areas, and enable you to use shopping carts on our sites. We also may use cookies to offer you products, programs, or services.
+
+"Web beacons" or clear .gifs are small pieces of code placed on a web page to monitor the behavior and collect data about the visitors viewing a web page. For example, web beacons can be used to count the users who visit a web page or to deliver a cookie to the browser of a visitor viewing that page. We may use web beacons on this site from time to time for this and other purposes. 
+
+**Collection of Information by Third-Party Sites, Ad Servers, and Sponsors**
+
+Some of our sites contain links to other sites whose information practices may be different than ours. Visitors should consult the other sites' privacy notices as we have no control over information that is submitted to, or collected by, these third parties.
+
+The Fit and Fearless sites covered by this Privacy Notice sometimes may offer content (e.g., contests, sweepstakes, or promotions) that is sponsored by or cobranded with identified third parties. By virtue of these relationships, the third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the site activity. Fit and Fearless has no control over these third parties' use of this information. 
+
+**Our Commitment to Security**
+
+We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online.
+
+**How You can Access or Correct Information**
+
+For instructions on how you can access the personally identifiable information that this Fit and Fearless site has collected about you online, or how to correct factual errors in such information, please send an email request to [ privacy@fitandfearless.com](mailto:privacy@fitandfearless.com).
+
+To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections. 
+
+**How to Contact Us**
+
+If you have any questions or concerns about the Fit and Fearless online policy for this site or its implementation you may contact us at [ privacy@FitandFearless.com](mailto:privacy@FitandFearless.com).
+
+**Updates & Effective Date**
+
+From time to time, we may update this privacy notice.  We encourage you to periodically check back and review this policy so that you always will know what information we collect, how we use it, and to whom we disclose it. 
+
+The Privacy Notice posted on this site was updated on or about July 17, 2007. 
