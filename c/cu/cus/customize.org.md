@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the customize.org privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206224614id_/http%3A//www.customize.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the customize.org privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229050433id_/http%3A//customize.org/site/privacy) for the most accurate reproduction.*
 
-# [Customize.org] Download Skins, Themes, Wallpapers and Icons for Windows from the original skin site!
+# Privacy Policy - Customize.org
 
 Customize.org is committed to providing you the opportunity for a positive experience during your visit to our web site, while respecting and striving to protect your on-line privacy. We have adopted this policy to safeguard your personal information and protect its confidentiality. 
 
@@ -22,4 +22,4 @@ In the course of serving advertisements to this site, our third-party advertiser
 
 _We reserve the right to change this policy at any time by notifying visitors of the existence of the new privacy policy._
 
-If you would like to contact us for any reason, please email us at [staff@customize.org](mailto:staff@customize.org). 
+If you would like to contact us for any reason, please [contact us](https://web.archive.org/site/contact). 
