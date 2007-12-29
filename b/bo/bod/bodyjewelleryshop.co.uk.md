@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bodyjewelleryshop.co.uk privacy policy that was archived on 2007-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070504141429id_/http%3A//www.bodyjewelleryshop.com/about_BJS/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bodyjewelleryshop.co.uk privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229021715id_/http%3A//www.bodyjewelleryshop.com/about_BJS/privacy_statement) for the most accurate reproduction.*
 
 # BodyJewelleryShop.com Privacy Statement
 
@@ -49,6 +49,8 @@ This privacy policy covers the usage of BodyJewelleryShop.com only. Where we hav
 [](https://web.archive.org/online_store/adult_section_877.cfm "Jewellery Materials")  
 
 
+[](https://www.scanalert.com/RatingVerify?ref=www.bodyjewelleryshop.com)
+
 Shopping Cart
 
 Go to the [**online store**](https://web.archive.org/online_store/) to start shopping!
@@ -62,10 +64,12 @@ Currency Display:
 
 Member Login
 
+[](https://web.archive.org/members/rewards/)
+
 About Body Jewellery Shop
 
 Jewellery Essentials
 
-[](http://www.bodyjewelleryshop.com/about_BJS/shipping_information/) [](https://web.archive.org/about_BJS/catalogue/) [](http://isis.imrg.org/screens/VerifyMerchantFrame.asp?guid=6AD2E074-DFEE-4E53-9608-A973EB774C65) [](http://www.bodyjewelleryshop.com/body_jewellery_shop/body_piercing_jewellery/bananabells_navel_bananabells.cfm)  
-[](http://www.bodyjewelleryshop.com/online_store/nitrite_o_rings_for_flesh_plugs_430.cfm)  
-[](https://web.archive.org/about_BJS/shipping_information/index.cfm)
+[](http://www.bodyjewelleryshop.com/about_BJS/shipping_information/) [](https://web.archive.org/about_BJS/catalogue/) [](http://isis.imrg.org/screens/VerifyMerchantFrame.asp?guid=6AD2E074-DFEE-4E53-9608-A973EB774C65) [](http://www.imrg.org/IDIS) [](http://www.bodyjewelleryshop.com/online_store/piercing_tools_426.cfm)  
+[](http://www.bodyjewelleryshop.com/body_jewellery_shop/body_piercing_jewellery/flesh_tunnels_flesh_plugs.cfm)  
+[](https://web.archive.org/about_BJS/shipping_information/index.cfm) [](http://www.crystalage.com/)[](http://www.scentedcandleshop.com/)
