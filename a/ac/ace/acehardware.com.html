@@ -1,10 +1,19 @@
-<!--The following is the downloaded HTML source of the acehardware.com privacy policy that was archived on 2007-02-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070203201534id_/http%3A//www.acehardware.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dfooterlink_privacy_txt) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the acehardware.com privacy policy that was archived on 2007-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071229093645id_/http%3A//www.acehardware.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dfooterlink_privacy_txt) for the most accurate reproduction.-->
 
-<html><head><meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
 	
-	<title>Ace Helpdesk</title>
+<script type="text/javascript">path = "http://ACE.imageg.net/images/";</script>
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="Pragma" content="no-cache">
+<meta name="description" content="Ace Hardware">
+<meta name="keywords" content="">
+<link rel="shortcut icon" href="../favicon.ico">
+<link rel="stylesheet" type="text/css" href="http://ACE.imageg.net/css/WIZ_ACE_topNav.css">
+
+
+	<title>Ace Customer Service</title>
 	<script language="Javascript">
 function trimString (str) {
   while (str.charAt(0) == ' ')
@@ -57,10 +66,6 @@ function showCustomPopUp(thisUrl,thisName,theseParams)
 }
 
 
-// WE SHOULD NOT NEED THESE jh
-
-
-
 //	verisign POP-UP WINDOW
 function popUp(url)
 {
@@ -77,450 +82,770 @@ function jump(url)
 }
 </script>
 
-	<link rel="stylesheet" type="text/css" href="../include/store.css">
-	<style>
-	.hdSubNav{font-family:verdana,geneva;color:#ff0000;text-decoration:none;font-family:verdana,geneva;font-size:11px;}
-	</style>
-</head><body topmargin="0" leftmargin="0" marginwidth="0" marginheight="0" bgcolor="#ffffff">
+	<script type="text/javascript" src="http://ACE.imageg.net/js/DF_main.js"></script>
+	<script type="text/javascript" src="http://ACE.imageg.net/js/WIZ_topNav.js"></script>
+	<link rel="stylesheet" type="text/css" href="http://ACE.imageg.net/include/store.css">
+	<link rel="stylesheet" type="text/css" href="http://ACE.imageg.net/css/DF_ACE_main.css">
+	<link rel="stylesheet" type="text/css" href="http://ACE.imageg.net/css/PG_ACE_helpdesk.css">
+</head>
+<body onload="Dom.father(['ul'])">
 <a name="pageTop()"><!-- --></a>
+<div id="align">
 
+	<div id="siteBg">
 
-<script language="JavaScript1.2">
-
-var checkItMain;
-var checkItSub;
-var init_main;
-var init_sub;
-
-var DIV_NAME = 'subtext'; //name of div on page (submenu text)
-var TIMEOUT_DELAY = 5000; //timeout delay in milliseconds when no menu activity exists
-var TRIGGER_ON_DELAY = 250; //mouseover delay in milliseconds from mouseover main menu option to another option
-var MENU_OPTIONS = 7; //number of main menu options
-
-function changeDiv() {
-    if (document.layers) {
-       with(document.layers['subtext_2'].document)
-       {
-       		open();
-       		write('');
-       		close();
-       	}
-    } else {
-        if (document.all) {
-            eval("document.all.subtext_2.innerHTML=''");
-        } else {
-            document.getElementById('subtext_2').innerHTML = '';
-        }
-    }
-
-}
-function writeSubnav(name, message) {
-	
-	imgOff('image8');
-	//  changeDiv();
-    if (document.layers) {
-       // document.layers[name].document.close();
-       // document.layers[name].document.write(message);
-       // document.layers[name].document.close();
-       //alert("in netscape writing :"+message);
-       with(document.layers[name].document)
-       {
-       		open();
-       		write(message);
-       		close();
-       	}
-    } else {
-        if (document.all) {
-            eval("document.all." + name + ".innerHTML='" + message + "'");
-        } else {
-            document.getElementById(name).innerHTML = message;
-        }
-    }
-}
-
- if (document.images) {
-
-		image1on = new Image();
-		image1on.src = "/images/h_hardware_on.gif";
-		image2on = new Image();
-		image2on.src = "http://ACE.imageg.net/images/h_handtools_on.gif";
-		image3on = new Image();
-		image3on.src = "http://ACE.imageg.net/images/h_electrical_on.gif";
-		image4on = new Image();
-		image4on.src = "http://ACE.imageg.net/images/h_plumbing_on.gif";
-		image5on = new Image();
-		image5on.src = "http://ACE.imageg.net/images/h_lawn_on.gif";
-
-		image6on = new Image();
-		image6on.src = "http://ACE.imageg.net/images/h_cleaning_on.gif";
-
-		image7on = new Image();
-		image7on.src = "http://ACE.imageg.net/images/h_housewares_on.gif";
 		
-		image1off = new Image(); 
-		image1off.src = "/images/h_hardware_off.gif"; 
-		image2off = new Image(); 
-		image2off.src = "http://ACE.imageg.net/images/h_handtools_off.gif";
-		image3off = new Image();
-		image3off.src = "http://ACE.imageg.net/images/h_electrical_off.gif";
-		image4off = new Image();
-		image4off.src = "http://ACE.imageg.net/images/h_plumbing_off.gif";
-		image5off = new Image();
-		image5off.src = "http://ACE.imageg.net/images/h_lawn_off.gif";
 
-		image6off = new Image();
-		image6off.src = "http://ACE.imageg.net/images/h_cleaning_off.gif";
 
-		image7off = new Image();
-		image7off.src = "http://ACE.imageg.net/images/h_housewares_off.gif";
-		
-		image8on = new Image();
-		image8on.src = "http://ACE.imageg.net/images/ace_placeAds.jpg";
 
-		image8off = new Image();
-		image8off.src = "http://ACE.imageg.net/images/pixel.gif";
+	   				
+		<script type="text/javascript" src="/pwr/engine/js/full.js"></script>
+		<script language="javascript">
+			var pr_page_id;
+			var pr_zip_location ='../';
+			 
+				
+			   var pr_write_review;
+			 				     
+			 var pr_read_review ='#showReviews';
+			 var pr_style_sheet = '/include/pr_override.css';
+	   </script>
+	   <script language="javascript">
+		  function submitReview(pid)
+			  {
+			   showCustomPopUp('/reviews/index.jsp?productId='+pid,'WriteAReview','width=570,height=750,toolbar=no,status=no,menubar=no,scrollbars=yes,resizable=yes')
+			 }
+	   </script>
 
-}
-function imgOn(imgName) {
-	if (document.images) {
-    	document[imgName].src = eval(imgName + "on.src");
-	}
-}
-function imgOff(imgName) {
-	if (document.images) {
-		document[imgName].src = eval(imgName + "off.src");
-	}
-}
+  	
+ 	
 
-function triggerDelay() {
-    if(init_main) clearTimeout(init_main);
-    if(init_sub) clearTimeout(init_sub);
-	if(checkItMain) clearTimeout(checkItMain);
-	if(checkItSub) clearTimeout(checkItSub);
-}
 
-function delayOff() {
+<div style="display:none">Thank you for visiting ACE Hardware. If you need 
+                assistance with shopping on our 
+				site, please call us at 866-290-5334 and a customer care representative will be happy 		
+				to assist you. Please inform the Customer Service representative that you require 
+				assistance.</div>
 
-	//if(imgName.name)imgName=imgName.name;
-    if(init_main) clearTimeout(init_main);
-    if(init_sub) clearTimeout(init_sub);
+<div id="header">
 
-	string = "writeSubnav('"+DIV_NAME+"','');imgOn('image8')";
-	if (checkItMain) clearTimeout(checkItMain);
-		checkItMain = setTimeout(string,TIMEOUT_DELAY);
-	if (checkItSub) clearTimeout(checkItSub);
-		checkItSub = setTimeout("timeout()",TIMEOUT_DELAY);
+	<div class="fL">
+		<div id="logo" onfocus="blur();">
+			<h1><a href="/home/index.jsp?clickid=topnav_logo_img" title="AceHardware.com">AceHardware.com</a></h1>
+		</div>
+	</div>
+
+	<div class="fL">
+		<div id="utilityLinks" style="z-index:400;">
+			<div class="hdrNavItemsEnd">
+				<a href="/cart/index.jsp?clickid=topnav_cart_img"><img class="pR t3" src="http://ACE.imageg.net/images/hdr_cart_ico.gif" width="15" height="12" alt="" border="0"></a>
+				<span class="pR t1-">
+					<a href="/cart/index.jsp?clickid=topnav_cart_txt" class="stdRed f9">Shopping Cart</a>&nbsp;::&nbsp;<span class="c2 f9">  
+
+					<span id="cartItemCount">0 Items</span>&nbsp;::&nbsp;<span class="c2 fB f9">$0.00</span></span>
+				</span>
+			</div>
+			<div class="hdrNavItems"><a href="https://www.acehardware.com/coreg/index.jsp?step=register" class="stdRed f9">My Account</a></div>
+			<div class="hdrNavItems"><a href="/helpdesk/index.jsp?clickid=topnav_helpdesk_txt" class="stdRed f9">Customer Service</a></div>
+			<div class="hdrNavItems pR">
+				<a href="javascript:void(0);" onclick="toggleES();this.blur();" class="stdRed f9"><img class="pR t1" src="http://ACE.imageg.net/images/hdr_email_ico.gif" width="12" height="9" alt="" border="0"></a>&nbsp;<a href="javascript:void(0);" onclick="toggleES();this.blur();" class="stdRed f9" style="_position:relative;_top:1px;">Email Sign up</a>
+				<!-- Start Email Signup -->
+				<script type="text/javascript" src="http://ACE.imageg.net/js/PG_ACE_emailSignupToggle.js"></script>
+				<div id="esTab" class="pA" style="top:-1px;left:-6px;;z-index:500;display:none;"><a href="javascript:void(0);" onclick="toggleES();" style="z-index:500;"></a></div>
+				<div id="esContent" class="pA" style="top:-515px;left:-6px;z-index:500;"><iframe allowtransparency="true" src="../include/emailSignup.html" width="309" height="514" frameborder="0" scrolling="no"></iframe></div>
+				<!-- End Email Signup -->
+			</div>
+			<br clear="all">
+		</div>
+		<div class="cB"></div>
+		<div id="searchLinks">
+			<div id="projects"><a href="/infohome/index.jsp?clickid=topnav_img"><img class="dB" src="http://ACE.imageg.net/images/hdr_projectsandsolutions.gif" width="174" height="63" alt="Projects and Solutions" border="0"></a></div>
+			
+			
+			<div id="myace"><div class="pR t37 l66 w122" style="margin-top:2px;"><a href="../mystore/storeLocator.jsp" class="fSSA c5 f9-5 fD- s11">Find your local Ace</a></div></div>
+			
+			<div id="search">
+				<form name="search" action="/search/controller.jsp" method="post" class="dI">
+					<div class="fL"><input type="input" name="kw" id="searchBox"></div>
+					<div class="fL"><input type="image" class="mT33 mL1 pR t1" style="_top:2px;" src="http://ACE.imageg.net/images/btn_go.gif" width="32" height="15" alt="Go" border="0"></div>
+					<div class="cB"></div>
+				</form>
+			</div>
+			<div class="cB"></div>
+		</div>
+	</div>
+
+	<div class="cB"></div>
+
 	
+	<div id="topnav">
+<div class="mainNav">
+	<ul hotness="{actions:[{Wizzle:'dropNav'}]}">
 
-}
-/*
-function delayOff() {
+		<li id="mainNav1"><a href="/category/index.jsp?categoryId=2568444&amp;clickid=topnav_lawn"></a>
+			<ul>
 
-	//if(imgName.name)imgName=imgName.name;
-    if(init_main) clearTimeout(init_main);
-    if(init_sub) clearTimeout(init_sub);
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2598669&amp;cp=2568444&amp;clickid=topnav_lawndrop_1">Bird Feeders &amp; Seed</a></li>
 
-	string = "writeSubnav('"+DIV_NAME+"','')";
-	if (checkItMain) clearTimeout(checkItMain);
-		checkItMain = setTimeout(string,TIMEOUT_DELAY);
-	if (checkItSub) clearTimeout(checkItSub);
-		checkItSub = setTimeout("timeout()",TIMEOUT_DELAY);
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2598671&amp;cp=2568444&amp;clickid=topnav_lawndrop_2">Edging &amp; Fencing</a></li>
 
-}
-*/
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2598670&amp;cp=2568444&amp;clickid=topnav_lawndrop_3">Farm Supplies</a></li>
 
-function timeout() { 
-	for(var i=1;i<MENU_OPTIONS+1;i++) {
-	   imgOff("image"+i);
-	}
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2598672&amp;cp=2568444&amp;clickid=topnav_lawndrop_4">Gloves &amp; Rain Gear</a></li>
+
+				<li onfocus="blur();"><a href="/family/index.jsp?categoryId=2365470&amp;cp=2568444&amp;clickid=topnav_lawndrop_5">Greenhouses</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2598674&amp;cp=2568444&amp;clickid=topnav_lawndrop_6">Lawn &amp; Garden Tools</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2598675&amp;cp=2568444&amp;clickid=topnav_lawndrop_7">Outdoor Power Equipment</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2598676&amp;cp=2568444&amp;clickid=topnav_lawndrop_8">Pest Control</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2598677&amp;cp=2568444&amp;clickid=topnav_lawndrop_9">Plant &amp; Lawn Care</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2598678&amp;cp=2568444&amp;clickid=topnav_lawndrop_10">Planters &amp; Baskets</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2598679&amp;cp=2568444&amp;clickid=topnav_lawndrop_11">Sprayers</a></li>
+
+				<li onfocus="blur();"><a href="/family/index.jsp?categoryId=1260414&amp;cp=2568444&amp;clickid=topnav_lawndrop_12">Storage Sheds</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2598681&amp;cp=2568444&amp;clickid=topnav_lawndrop_13">Watering</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2598682&amp;cp=2568444&amp;clickid=topnav_lawndrop_14">Wheelbarrows &amp; Carts</a></li>
+
+
+				<li class="space"></li>
+
+				<li onfocus="blur();"><a href="/shop/index.jsp?categoryId=2268895&amp;cp=2568444&amp;clickid=topnav_lawnshopsdrop_1">Backyard Essentials Shop</a></li>
+
+				<li onfocus="blur();"><a href="/shop/index.jsp?categoryId=1445305&amp;cp=2568444&amp;clickid=topnav_lawnshopsdrop_2">Rubbermaid Shop</a></li>
+
+				<li onfocus="blur();" class="last"><a href="/info/lawnGarden.jsp?clickid=topnav_lawndrop_btn"></a></li>
+			</ul>
+		</li>
+
+		<li id="mainNav2"><a href="/category/index.jsp?categoryId=2568445&amp;clickid=topnav_outdoor"></a>
+			<ul>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2598558&amp;cp=2568445&amp;clickid=topnav_outdoordrop_1">Coolers</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2598559&amp;cp=2568445&amp;clickid=topnav_outdoordrop_2">Grills &amp; Outdoor Cooking</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2598560&amp;cp=2568445&amp;clickid=topnav_outdoordrop_3">Insect Control</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2598561&amp;cp=2568445&amp;clickid=topnav_outdoordrop_4">Lawn Décor</a></li>
+
+				<li onfocus="blur();"><a href="/family/index.jsp?categoryId=1260326&amp;cp=2568445&amp;clickid=topnav_outdoordrop_5">Outdoor Fireplaces</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2637721&amp;cp=2568445&amp;clickid=topnav_outdoordrop_6">Outdoor Lighting</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2598564&amp;cp=2568445&amp;clickid=topnav_outdoordrop_7">Outdoor Recreation</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2598565&amp;cp=2568445&amp;clickid=topnav_outdoordrop_8">Outdoor Patio Furniture</a></li>
+
+				<li onfocus="blur();"><a href="/family/index.jsp?categoryId=2671075&amp;cp=2568445&amp;clickid=topnav_outdoordrop_9">Patio Heaters</a></li>
+
+
+				<li class="space"></li>
+
+				<li onfocus="blur();"><a href="/shop/index.jsp?categoryId=1772903&amp;cp=2568445&amp;clickid=topnav_outdoorshopsdrop_1">Weber Shop</a></li>
+
+				<li onfocus="blur();"><a href="/shop/index.jsp?categoryId=1980038&amp;cp=2568445&amp;clickid=topnav_outdoorshopsdrop_2">Patio Furniture Shop</a></li>
+
+				<li onfocus="blur();" class="last"><a href="/infodept/index.jsp?categoryId=1261837&amp;clickid=topnav_outdoordrop_btn"></a></li>
+			</ul>
+		</li>
+
+		<li id="mainNav3"><a href="/category/index.jsp?categoryId=2568447&amp;clickid=topnav_paint"></a>
+			<ul>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2624818&amp;cp=2568447&amp;clickid=topnav_paintdrop_1">Brushes, Pads &amp; Rollers</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2624903&amp;cp=2568447&amp;clickid=topnav_paintdrop_2">Caulk &amp; Sealants</a></li>
+
+				<li onfocus="blur();"><a href="/family/index.jsp?categoryId=1342289&amp;cp=2568447&amp;clickid=topnav_paintdrop_3">Compressors</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2624954&amp;cp=2568447&amp;clickid=topnav_paintdrop_4">Drop Cloths &amp; Rags</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2624955&amp;cp=2568447&amp;clickid=topnav_paintdrop_5">Faux Finishing</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2624956&amp;cp=2568447&amp;clickid=topnav_paintdrop_6">Ladders</a></li>
+
+				<li onfocus="blur();"><a href="/family/index.jsp?categoryId=1260672&amp;cp=2568447&amp;clickid=topnav_paintdrop_7">Lead Test Kits</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2631345&amp;cp=2568447&amp;clickid=topnav_paintdrop_8">Masking Tape &amp; Paper</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2624971&amp;cp=2568447&amp;clickid=topnav_paintdrop_9">Paints &amp; Stains</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2625214&amp;cp=2568447&amp;clickid=topnav_paintdrop_10">Paint Sprayers</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2625445&amp;cp=2568447&amp;clickid=topnav_paintdrop_11">Painter's Tools</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2625474&amp;cp=2568447&amp;clickid=topnav_paintdrop_12">Sandpaper &amp; Steel Wool</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2625768&amp;cp=2568447&amp;clickid=topnav_paintdrop_13">Solvents &amp; Thinners</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2625817&amp;cp=2568447&amp;clickid=topnav_paintdrop_14">Wallpaper</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2625819&amp;cp=2568447&amp;clickid=topnav_paintdrop_15">Waterproofing</a></li>
+
+
+				<li onfocus="blur();" class="last"><a href="/paintingtips/index.jsp?clickid=topnav_paintdrop_btn"></a></li>
+			</ul>
+		</li>
+
+		<li id="mainNav4"><a href="/category/index.jsp?categoryId=2568448&amp;clickid=topnav_home"></a>
+			<ul>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2626057&amp;cp=2568448&amp;clickid=topnav_homedrop_1">Appliances</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2626058&amp;cp=2568448&amp;clickid=topnav_homedrop_2">Bath</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2626059&amp;cp=2568448&amp;clickid=topnav_homedrop_3">Cleaning</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2626061&amp;cp=2568448&amp;clickid=topnav_homedrop_4">Health &amp; Beauty</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2626062&amp;cp=2568448&amp;clickid=topnav_homedrop_5">Home Décor</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2626064&amp;cp=2568448&amp;clickid=topnav_homedrop_6">Indoor Furniture</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2626067&amp;cp=2568448&amp;clickid=topnav_homedrop_7">Kitchen</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2626069&amp;cp=2568448&amp;clickid=topnav_homedrop_8">Laundry</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2626071&amp;cp=2568448&amp;clickid=topnav_homedrop_9">Office &amp; School Supplies</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2626072&amp;cp=2568448&amp;clickid=topnav_homedrop_10">Pet Supplies</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2626073&amp;cp=2568448&amp;clickid=topnav_homedrop_11">Storage &amp; Organization</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2626074&amp;cp=2568448&amp;clickid=topnav_homedrop_12">Vacuums &amp; Sweepers</a></li>
+
+
+				<li class="space"></li>
+
+				<li onfocus="blur();"><a href="/shop/index.jsp?categoryId=1445305&amp;cp=2568448&amp;clickid=topnav_homeshopsdrop_1">Rubbermaid Shop</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=1912488&amp;cp=2568448&amp;clickid=topnav_homeshopsdrop_2">Storage Specialty Shop</a></li>
+
+				<li onfocus="blur();" class="last"><a href="/infodept/index.jsp?categoryId=1261837&amp;clickid=topnav_homedrop_btn"></a></li>
+			</ul>
+		</li>
+
+		<li id="mainNav5"><a href="/category/index.jsp?categoryId=2568450&amp;clickid=topnav_tools"></a>
+			<ul>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2628092&amp;cp=2568450&amp;clickid=topnav_toolsdrop_1">Clamps &amp; Vises</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2628074&amp;cp=2568450&amp;clickid=topnav_toolsdrop_2">Compressors</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2628075&amp;cp=2568450&amp;clickid=topnav_toolsdrop_3">Fastener Tools</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2628076&amp;cp=2568450&amp;clickid=topnav_toolsdrop_4">Hand Tools</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2629220&amp;cp=2568450&amp;clickid=topnav_toolsdrop_5">Knives, Blades &amp; Sharpeners</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2628078&amp;cp=2568450&amp;clickid=topnav_toolsdrop_6">Layout &amp; Measuring Tools</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2628094&amp;cp=2568450&amp;clickid=topnav_toolsdrop_7">Power Tools</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2628080&amp;cp=2568450&amp;clickid=topnav_toolsdrop_8">Protective / Safety Equipment</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2628081&amp;cp=2568450&amp;clickid=topnav_toolsdrop_9">Tool Bags, Belts &amp; Pouches</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2628082&amp;cp=2568450&amp;clickid=topnav_toolsdrop_10">Tool Storage &amp; Organization</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2628083&amp;cp=2568450&amp;clickid=topnav_toolsdrop_11">Wet / Dry Vacuums</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2628084&amp;cp=2568450&amp;clickid=topnav_toolsdrop_12">Work Benches &amp; Sawhorses</a></li>
+
+
+				<li class="space"></li>
+
+				<li onfocus="blur();"><a href="/shop/index.jsp?categoryId=1430731&amp;cp=2568450&amp;clickid=topnav_toolsshopsdrop_1">Stanley Shop</a></li>
+
+				<li onfocus="blur();"><a href="/shop/index.jsp?categoryId=1900518&amp;cp=2568450&amp;clickid=topnav_toolsshopsdrop_2">Carhartt Clothing Shop</a></li>
+
+				<li onfocus="blur();" class="last"><a href="/infodept/index.jsp?categoryId=1261837&amp;clickid=topnav_toolsdrop_btn"></a></li>
+			</ul>
+		</li>
+
+		<li id="mainNav6"><a href="/category/index.jsp?categoryId=2568451&amp;clickid=topnav_hardware"></a>
+			<ul>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2624942&amp;cp=2568451&amp;clickid=topnav_hardwaredrop_1">Adhesives, Glue &amp; Tape</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2624969&amp;cp=2568451&amp;clickid=topnav_hardwaredrop_2">Building Materials &amp; Supplies</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2626205&amp;cp=2568451&amp;clickid=topnav_hardwaredrop_3">Cabinet Hardware</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2626206&amp;cp=2568451&amp;clickid=topnav_hardwaredrop_4">Chain, Cable &amp; Rope</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2626208&amp;cp=2568451&amp;clickid=topnav_hardwaredrop_5">Door &amp; Window</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2626209&amp;cp=2568451&amp;clickid=topnav_hardwaredrop_6">Fasteners</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2626210&amp;cp=2568451&amp;clickid=topnav_hardwaredrop_7">Floors, Walls &amp; Ceilings</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2626211&amp;cp=2568451&amp;clickid=topnav_hardwaredrop_8">Garage, Driveway, Roofing &amp; Siding</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2626212&amp;cp=2568451&amp;clickid=topnav_hardwaredrop_9">Handtrucks</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2626213&amp;cp=2568451&amp;clickid=topnav_hardwaredrop_10">Home Safety &amp; Security</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2626214&amp;cp=2568451&amp;clickid=topnav_hardwaredrop_11">Key Rings &amp; Accessories</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2626215&amp;cp=2568451&amp;clickid=topnav_hardwaredrop_12">Ladders</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2626216&amp;cp=2568451&amp;clickid=topnav_hardwaredrop_13">Letters, Numbers &amp; Signs</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2626217&amp;cp=2568451&amp;clickid=topnav_hardwaredrop_14">Mailboxes</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2626218&amp;cp=2568451&amp;clickid=topnav_hardwaredrop_15">Padlocks</a></li>
+
+
+				<li class="space"></li>
+
+				<li onfocus="blur();"><a href="/shop/index.jsp?categoryId=1900518&amp;cp=2568451&amp;clickid=topnav_hardwareshopsdrop_1">Carhartt Clothing Shop</a></li>
+
+				<li onfocus="blur();" class="last"><a href="/infodept/index.jsp?categoryId=1261836&amp;clickid=topnav_hardwaredrop_btn"></a></li>
+			</ul>
+		</li>
+
+		<li id="mainNav7"><a href="/category/index.jsp?categoryId=2568452&amp;clickid=topnav_plumbing"></a>
+			<ul>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2631224&amp;cp=2568452&amp;clickid=topnav_plumbingdrop_1">Augers &amp; Plungers</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2631404&amp;cp=2568452&amp;clickid=topnav_plumbingdrop_2">Faucets</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2631233&amp;cp=2568452&amp;clickid=topnav_plumbingdrop_3">Drain Cleaners</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2631236&amp;cp=2568452&amp;clickid=topnav_plumbingdrop_4">Garbage Disposals</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2631237&amp;cp=2568452&amp;clickid=topnav_plumbingdrop_5">Plumbing Hardware</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2631238&amp;cp=2568452&amp;clickid=topnav_plumbingdrop_6">Plumber's Tools</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2631239&amp;cp=2568452&amp;clickid=topnav_plumbingdrop_7">Sinks &amp; Vanities</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2631240&amp;cp=2568452&amp;clickid=topnav_plumbingdrop_8">Sump &amp; Utility Pumps</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2631241&amp;cp=2568452&amp;clickid=topnav_plumbingdrop_9">Toilets &amp; Toilet Seats</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2631242&amp;cp=2568452&amp;clickid=topnav_plumbingdrop_10">Tub &amp; Shower</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2631243&amp;cp=2568452&amp;clickid=topnav_plumbingdrop_11">Washer &amp; Dryer Venting</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2631244&amp;cp=2568452&amp;clickid=topnav_plumbingdrop_12">Washing Machine Hose &amp; Accessories</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2631245&amp;cp=2568452&amp;clickid=topnav_plumbingdrop_13">Water Filtration</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2631246&amp;cp=2568452&amp;clickid=topnav_plumbingdrop_14">Water Heaters</a></li>
+
+
+				<li onfocus="blur();" class="last"><a href="/infodept/iskills.jsp?clickid=topnav_plumbingdrop_btn"></a></li>
+			</ul>
+		</li>
+
+		<li id="mainNav8"><a href="/category/index.jsp?categoryId=2568453&amp;clickid=topnav_heating"></a>
+			<ul>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2627944&amp;cp=2568453&amp;clickid=topnav_heatingdrop_1">Air Conditioning</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2637770&amp;cp=2568453&amp;clickid=topnav_heatingdrop_2">Ceiling Fans</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2627945&amp;cp=2568453&amp;clickid=topnav_heatingdrop_3">Chimney Cleaners</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2627946&amp;cp=2568453&amp;clickid=topnav_heatingdrop_4">Fans &amp; Heaters</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2627947&amp;cp=2568453&amp;clickid=topnav_heatingdrop_5">Fireplaces &amp; Stoves</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2627948&amp;cp=2568453&amp;clickid=topnav_heatingdrop_6">Furnace Maintenance &amp; Repair</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2627949&amp;cp=2568453&amp;clickid=topnav_heatingdrop_7">Thermostats &amp; Registers</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2627950&amp;cp=2568453&amp;clickid=topnav_heatingdrop_8">Ventilation</a></li>
+
+
+				<li class="space"></li>
+
+				<li onfocus="blur();"><a href="/family/index.jsp?categoryId=2127131&amp;cp=2568453&amp;clickid=topnav_heatingshopsdrop_1">Energy Conservation Shop</a></li>
+
+				<li onfocus="blur();" class="last"><a href="/infodept/iskills.jsp?clickid=topnav_heatingdrop_btn"></a></li>
+			</ul>
+		</li>
+
+		<li id="mainNav9"><a href="/category/index.jsp?categoryId=2568454&amp;clickid=topnav_electrical"></a>
+			<ul>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2632219&amp;cp=2568454&amp;clickid=topnav_electricaldrop_1">Adapters &amp; Timers</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2632220&amp;cp=2568454&amp;clickid=topnav_electricaldrop_2">Batteries &amp; Chargers</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2632221&amp;cp=2568454&amp;clickid=topnav_electricaldrop_3">Door Chimes &amp; Buttons</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2632222&amp;cp=2568454&amp;clickid=topnav_electricaldrop_4">Electrical Boxes, Conduit &amp; Fittings</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2632223&amp;cp=2568454&amp;clickid=topnav_electricaldrop_5">Extension Cords &amp; Power Strips</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2632224&amp;cp=2568454&amp;clickid=topnav_electricaldrop_6">Electrical Tape, Tools &amp; Testers</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2632226&amp;cp=2568454&amp;clickid=topnav_electricaldrop_7">Fuses &amp; Circuit Breakers</a></li>
+
+				<li onfocus="blur();"><a href="/family/index.jsp?categoryId=2048779&amp;cp=2568454&amp;clickid=topnav_electricaldrop_8">Generators</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2632229&amp;cp=2568454&amp;clickid=topnav_electricaldrop_9">Light Bulbs</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2632231&amp;cp=2568454&amp;clickid=topnav_electricaldrop_10">Lighting</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2632232&amp;cp=2568454&amp;clickid=topnav_electricaldrop_11">Switches, Dimmers &amp; Receptacles</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2632233&amp;cp=2568454&amp;clickid=topnav_electricaldrop_12">Wall Plates</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2632234&amp;cp=2568454&amp;clickid=topnav_electricaldrop_13">Wire, Connectors &amp; Fasteners</a></li>
+
+
+				<li onfocus="blur();" class="last"><a href="/infodept/index.jsp?categoryId=1261836&amp;clickid=topnav_electricaldrop_btn"></a></li>
+			</ul>
+		</li>
+
+		<li id="mainNav10"><a href="/category/index.jsp?categoryId=2568455&amp;clickid=topnav_auto"></a>
+			<ul>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2629356&amp;cp=2568455&amp;clickid=topnav_autodrop_1">Automotive Adhesives</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2629357&amp;cp=2568455&amp;clickid=topnav_autodrop_2">Automotive Fuses</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2629358&amp;cp=2568455&amp;clickid=topnav_autodrop_3">Automotive Maintenace</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2629359&amp;cp=2568455&amp;clickid=topnav_autodrop_4">Automotive Parts</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2629360&amp;cp=2568455&amp;clickid=topnav_autodrop_5">Automotive Tools</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2629361&amp;cp=2568455&amp;clickid=topnav_autodrop_6">Batteries &amp; Booster Cables</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2629362&amp;cp=2568455&amp;clickid=topnav_autodrop_7">Body Repair</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2629363&amp;cp=2568455&amp;clickid=topnav_autodrop_8">Car &amp; Truck Accessories</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2629364&amp;cp=2568455&amp;clickid=topnav_autodrop_9">Car Cleaning Supplies</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2629365&amp;cp=2568455&amp;clickid=topnav_autodrop_10">Grease &amp; Lubrication</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2629366&amp;cp=2568455&amp;clickid=topnav_autodrop_11">Mufflers &amp; Exhaust Pipe</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2629367&amp;cp=2568455&amp;clickid=topnav_autodrop_12">Tires</a></li>
+
+				<li onfocus="blur();"><a href="/category/index.jsp?categoryId=2629368&amp;cp=2568455&amp;clickid=topnav_autodrop_13">Towing &amp; Lifting</a></li>
+
+
+				<li onfocus="blur();" class="last"><a href="/infodept/index.jsp?categoryId=1261837&amp;clickid=topnav_autodrop_btn"></a></li>
+			</ul>
+		</li>
+
+		<li id="mainNav11"><a href="javascript:void(0);"></a>
+			<ul>
+
+
+				<li onfocus="blur();"><a href="/shop/index.jsp?categoryId=1772903&amp;clickid=topnav_featuredshopsdrop_1">Weber Shop</a></li>
+
+				<li onfocus="blur();"><a href="/shop/index.jsp?categoryId=1430731&amp;clickid=topnav_featuredshopsdrop_2">Stanley Shop</a></li>
+
+				<li onfocus="blur();"><a href="/shop/index.jsp?categoryId=1445305&amp;clickid=topnav_featuredshopsdrop_3">Rubbermaid Shop</a></li>
+
+				<li onfocus="blur();"><a href="/shop/index.jsp?categoryId=1900518&amp;clickid=topnav_featuredshopsdrop_4">Carhartt Clothing Shop</a></li>
+
+				<li onfocus="blur();"><a href="/family/index.jsp?categoryId=2228013&amp;clickid=topnav_featuredshopsdrop_5">Top Sellers</a></li>
+
+				<li onfocus="blur();"><a href="/family/index.jsp?categoryId=1798375&amp;clickid=topnav_featuredshopsdrop_6">Shop Our Circular</a></li>
+
+				<li onfocus="blur();"><a href="/shop/index.jsp?categoryId=1766747&amp;clickid=topnav_featuredshopsdrop_7">Clearance Shop</a></li>
+
+				<li onfocus="blur();" class="last"><a href="/infodept/index.jsp?categoryId=1261836&amp;clickid=topnav_featureddrop_btn"></a></li>
+			</ul>
+		</li>
+		
+	</ul>
+</div>
+
+</div>
+</div>
+
+<!-- Start of Minicart -->	
+
+
+<div id="minicart8" style="position:absolute;z-index:600;text-align:left;top:135px;left:0px">
+<!-- begin additions for minicart --> 
+<script type="text/javascript" src="/include/minicart.js"></script> 
+<link rel="stylesheet" href="/include/minicart_ace.css"> 
+<div id="minicart" class="minicart_ace"></div> 
+<!-- end of minicart additions --> 
+
+</div>
+
+<!-- End of Minicart -->
+<div class="dN">
+</div>
+
+		
+
+
+<script>
+function showCustomPopUp(thisUrl,thisName,theseParams)
+{
+	remote = open(thisUrl, thisName, theseParams);
 }
 </script>
-<script type="text/javascript" src="/include/emailDrop.js"></script>
-<script type="text/javascript" src="/include/WCH.js"></script>
+
+<style>
+.breadcrumb {letter-spacing:-.1em;}
+#breadcrumb div#crumbAlign {width:778px;height:100%;position:relative;}
+#breadcrumb div#crumbAlign div {position:absolute;width:778px;bottom:0;left:0;}
+#breadcrumb div#crumbAlign div#crumbs {float:left;width:557px;margin:0;padding:0 0 4px 15px;}
+#breadcrumb div#crumbAlign img#rightitem {float:right;width:206px;}
+#breadcrumb div#crumbAlign div#rightitem_logged_img {background-image:url(../images/breadcrumb_islogged.gif);float:right;width:214px;height:44px;margin-left:564px;cursor:hand;}
+#breadcrumb div#crumbAlign div#rightitem_logged_value {float:right;margin-left:152px;margin-bottom:10px;color:#000000;text-decoration:none;
+}
+</style>
+<div id="breadcrumb">
+	<div id="crumbAlign">
+		<div>
+			<div id="crumbs">
+				<a href="/home/index.jsp" class="breadcrumb">Home</a>
+
+					&nbsp;<span class="c1">&gt;</span>&nbsp;<span class="c1 fB">Customer Service</span>
+
+			</div>
+
+						
+			
+			<a href="https://www.acehardware.com/acerewards/index.jsp?step=aceRewardsHub"><img id="rightitem" src="http://ACE.imageg.net/images/breadcrumb_ad.gif" width="206" height="44" alt="" border="0"></a>
+			
+			
+
+			<br clear="all">
+		</div>
+	</div>
+</div>
 
 
-<table cellpadding="0" cellspacing="0" border="0" width="780">
-<tbody><tr>
-  <td width="169" height="88" valign="bottom" rowspan="2"><a href="/home/index.jsp?clickid=topnav_logo_img"><img src="/images/ace_logo.gif" width="169" height="88" border="0"></a></td>
-  <td width="611" colspan="2">
+		<div id="body">
 
-<table width="611" cellpadding="0" cellspacing="0" border="0">
-<tbody><tr>
-  <td rowspan="3"><img src="http://ACE.imageg.net/images/ccc_left.gif" width="5" height="24" alt="" border="0"></td>
-  <td><img src="http://ACE.imageg.net/images/ccc_top.gif" width="588" height="6" alt="" border="0"></td>
-  <td rowspan="3"><img src="http://ACE.imageg.net/images/ccc_right.gif" width="5" height="24" alt="" border="0"></td>
-  <td rowspan="3"><img src="http://ACE.imageg.net/images/pixel.gif" width="13"></td>
-</tr>
-<tr bgcolor="#CCCCCC">
-  <td valign="top" align="right"><a href="/cart/index.jsp?clickid=topnav_cart_txt" class="topnavlink">Shopping Cart</a>&nbsp;[0 items]&nbsp;&nbsp;|&nbsp;<a href="https://www.acehardware.com/coreg/index.jsp?step=ot&amp;clickid=topnav_trackorder_txt" class="topnavlink">Track My Order</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/options/choose_account.jsp" class="topnavlink">My Account</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/helpdesk/index.jsp?clickid=topnav_helpdesk_txt" class="topnavlink">Help</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.adzmar.com/ace" class="topnavlink">Store Locator</a>&nbsp;&nbsp;|&nbsp;&nbsp;<div style="height:11px;width:106px;margin:0;padding:0px;display:inline;vertical-align:bottom;"><a href="javascript: void(0);" onclick="toggleEmailUpdates('hdrEmail');"><img name="hdr_email" src="http://ACE.imageg.net/images/email07_01.gif" width="106" align="absmiddle" alt="Email Updates" title="Email Updates" border="0"></a></div></td>
-</tr>
-<tr>
-  <td bgcolor="#cccccc"><img src="http://ACE.imageg.net/images/pixel.gif" height="4" width="584"></td>
-</tr>
-</tbody></table>
-<div id="hdrEmail"><iframe width="292" id="hdrIframe" frameborder="0" src="../include/entry.html" scrolling="no" allowtransparency="true"></iframe></div>
-  </td>
-</tr>
+			<div id="hdHdr" class="pR mB20">
+				<img src="http://ACE.imageg.net/images/hd_hdr.jpg" width="778" height="147" alt="" border="0" usemap="#hdhdr">
+				<map name="hdhdr">
+					<area alt="" coords="592,107,712,123" href="/helpdesk/index.jsp?display=store&amp;subdisplay=contact&amp;stillHaveQuestion=yes">
+				</map>
+			</div>
 
-<tr>
-	<td width="598">
-		<table width="598" cellpadding="0" cellspacing="0" border="0">
-		<tbody><tr>
-			<td><img src="/images/h_topcurve.gif" width="598" height="32" alt="" border="0"></td>
-		</tr>
-		<tr>
-			<td height="34"><a href="/category/index.jsp?categoryId=1254881&amp;clickid=topnav_tab1_txt" onmouseout="imgOff('image1');delayOff(image1);" onmouseover="triggerDelay('image1');imgOn('image1');writeSubnav('subtext', '<center><font class=topnav><a onmouseover=triggerDelay() onmouseout=delayOff() href=/category/index.jsp?categoryId=1255037&amp;clickid=topnav_tab1doorlocks_txt class=topnav>Door Locks</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onmouseover=triggerDelay() onmouseout=delayOff() href=/category/index.jsp?categoryId=1255029&amp;clickid=topnav_tab1nails_txt class=topnav>Nails/Drywall Screws</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onmouseover=triggerDelay() onmouseout=delayOff() href=/category/index.jsp?categoryId=1255027&amp;clickid=topnav_tab1safety_txt class=topnav>Home/Personal Safety</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onmouseover=triggerDelay() onmouseout=delayOff() href=/category/index.jsp?categoryId=1255049&amp;clickid=topnav_tab1_txt&amp;clickid=topnav_tab1closet_txt class=topnav>Closet Storage</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onmouseover=triggerDelay() onmouseout=delayOff() href=/category/index.jsp?categoryId=1254881&amp;clickid=topnav_tab1hardware_txt class=topnav>More in Hardware</a></font></center>')"><img src="/images/h_hardware_off.gif" name="image1" width="91" height="34" border="0"></a><img src="http://ACE.imageg.net/images/h_bigpipe.gif" width="1" height="34" alt="" border="0"><a href="/shop/index.jsp?categoryId=1254873&amp;clickid=topnav_tab2_txt" onmouseout="imgOff('image2');delayOff(image2);" onmouseover="triggerDelay('image2');imgOn('image2');writeSubnav('subtext', '<font class=topnav><a onmouseover=triggerDelay() onmouseout=delayOff() href=/category/index.jsp?categoryId=1254933&amp;clickid=topnav_tab2sockets_txt class=topnav>Sockets/Wrenches</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onmouseover=triggerDelay() onmouseout=delayOff() href=/category/index.jsp?categoryId=1254935&amp;clickid=topnav_tab2measuring_txt class=topnav>Measuring Tools</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onmouseover=triggerDelay() onmouseout=delayOff() href=/category/index.jsp?categoryId=1254932&amp;clickid=topnav_tab2pwrtools_txt class=topnav>Power Tools</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onmouseover=triggerDelay() onmouseout=delayOff() href=/category/index.jsp?categoryId=1254943&amp;clickid=topnav_tab2hammers_txt class=topnav>Hammers/Chisels</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onmouseover=triggerDelay() onmouseout=delayOff() href=/shop/index.jsp?categoryId=1254873&amp;clickid=topnav_tab2moretools_txt class=topnav>More in Hand/Power Tools</a></font>')"><img src="http://ACE.imageg.net/images/h_handtools_off.gif" width="84" height="34" name="image2" border="0"></a><img src="http://ACE.imageg.net/images/h_bigpipe.gif" width="1" height="34" alt="" border="0"><a href="/category/index.jsp?categoryId=1254879&amp;clickid=topnav_tab3_txt" onmouseout="imgOff('image3');delayOff(image3);" onmouseover="triggerDelay('image3');imgOn('image3');writeSubnav('subtext', '<font class=topnav><a onmouseover=triggerDelay() onmouseout=delayOff() href=/category/index.jsp?categoryId=1254973&amp;clickid=topnav_tab3fans_txt class=topnav>Ceiling Fans</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onmouseover=triggerDelay() onmouseout=delayOff() href=/category/index.jsp?categoryId=1254965&amp;clickid=topnav_tab3lights_txt class=topnav>Light Fixtures</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onmouseover=triggerDelay() onmouseout=delayOff() href=/category/index.jsp?categoryId=1254957&amp;clickid=topnav_tab3phones_txt class=topnav>Telephones</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onmouseover=triggerDelay() onmouseout=delayOff() href=/category/index.jsp?categoryId=1254963&amp;clickid=topnav_tab3wiring_txt class=topnav>Wiring Devices</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onmouseover=triggerDelay() onmouseout=delayOff() href=/category/index.jsp?categoryId=1254879&amp;clickid=topnav_tab3moreelectric_txt class=topnav>More in Electrical</a></font>')"><img src="http://ACE.imageg.net/images/h_electrical_off.gif" width="81" height="34" name="image3" border="0"></a><img src="http://ACE.imageg.net/images/h_bigpipe.gif" width="1" height="34" alt="" border="0"><a href="/shop/index.jsp?categoryId=1254880&amp;clickid=topnav_tab4_txt" onmouseout="imgOff('image4');delayOff(image4);" onmouseover="triggerDelay('image4');imgOn('image4');writeSubnav('subtext', '<font class=topnav><a onmouseover=triggerDelay() onmouseout=delayOff() href=/category/index.jsp?categoryId=1255014&amp;clickid=topnav_tab4bath_txt class=topnav>Bath Accessories</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onmouseover=triggerDelay() onmouseout=delayOff() href=/category/index.jsp?categoryId=1254995&amp;clickid=topnav_tab4faucets_txt class=topnav>Faucets</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onmouseover=triggerDelay() onmouseout=delayOff() href=/category/index.jsp?categoryId=1255017&amp;clickid=topnav_tab4plumbing_txt class=topnav>Plumbing Tools</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onmouseover=triggerDelay() onmouseout=delayOff() href=/category/index.jsp?categoryId=1255010&amp;clickid=topnav_tab4showerheads_txt class=topnav>Shower Heads</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onmouseover=triggerDelay() onmouseout=delayOff() href=/shop/index.jsp?categoryId=1254880&amp;clickid=topnav_tab4moreplubming_txt class=topnav>More in Plumbing</a></font>')"><img src="http://ACE.imageg.net/images/h_plumbing_off.gif" width="75" height="34" name="image4" border="0"></a><img src="http://ACE.imageg.net/images/h_bigpipe.gif" width="1" height="34" alt="" border="0"><a href="/shop/index.jsp?categoryId=1254884&amp;clickid=topnav_tab5_txt" onmouseout="imgOff('image5');delayOff(image5);" onmouseover="triggerDelay('image5');imgOn('image5');writeSubnav('subtext', '<font class=topnav><a onmouseover=triggerDelay() onmouseout=delayOff() href=/category/index.jsp?categoryId=1255113&amp;clickid=topnav_tab5grills_txt class=topnav>Grills</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onmouseover=triggerDelay() onmouseout=delayOff() href=/category/index.jsp?categoryId=1255123&amp;clickid=topnav_tab5hoses_txt class=topnav>Hoses</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onmouseover=triggerDelay() onmouseout=delayOff() href=/category/index.jsp?categoryId=1255122&amp;clickid=topnav_tab5sprinklers_txt class=topnav>Sprinklers</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onmouseover=triggerDelay() onmouseout=delayOff() href=/category/index.jsp?categoryId=1255112&amp;clickid=topnav_tab5patio_txt class=topnav>Outdoor Patio Furniture</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onmouseover=triggerDelay() onmouseout=delayOff() href=/shop/index.jsp?categoryId=1254884&amp;clickid=topnav_tab5morelawngarden_txt class=topnav>More in Lawn and Garden</a></font>')"><img src="http://ACE.imageg.net/images/h_lawn_off.gif" width="72" height="34" name="image5" border="0"></a><img src="http://ACE.imageg.net/images/h_bigpipe.gif" width="1" height="34" alt="" border="0"><a href="/shop/index.jsp?categoryId=1254532&amp;clickid=topnav_tab6_txt" onmouseout="imgOff('image6');delayOff(image6);" onmouseover="triggerDelay('image6');imgOn('image6');writeSubnav('subtext', '<font class=topnav><a onmouseover=triggerDelay() onmouseout=delayOff() href=/category/index.jsp?categoryId=1254890&amp;clickid=topnav_tab6caulk_txt class=topnav>Caulk</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onmouseover=triggerDelay() onmouseout=delayOff() href=/category/index.jsp?categoryId=1254891&amp;clickid=topnav_tab6ladders_txt class=topnav>Ladders</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onmouseover=triggerDelay() onmouseout=delayOff() href=/category/index.jsp?categoryId=1254919&amp;clickid=topnav_tab6cleaners_txt class=topnav>Household Cleaners</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onmouseover=triggerDelay() onmouseout=delayOff() href=/category/index.jsp?categoryId=1254920&amp;clickid=topnav_tab6mops_txt class=topnav>Mops/Brooms</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onmouseover=triggerDelay() onmouseout=delayOff() href=/shop/index.jsp?categoryId=1254532&amp;clickid=topnav_tab6morecleaning_txt class=topnav>More in Cleaning/Paint Supplies</a></font>')"><img src="http://ACE.imageg.net/images/h_cleaning_off.gif" width="88" height="34" name="image6" border="0"></a><img src="http://ACE.imageg.net/images/h_bigpipe.gif" width="1" height="34" alt="" border="0"><a href="/category/index.jsp?categoryId=1254882&amp;clickid=topnav_tab7_txt" onmouseout="imgOff('image7');delayOff(image7);" onmouseover="triggerDelay('image7');imgOn('image7');writeSubnav('subtext', '<font class=topnav><a onmouseover=triggerDelay() onmouseout=delayOff() href=/category/index.jsp?categoryId=1255080&amp;clickid=topnav_tab7bakeware_txt class=topnav>Bakeware</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onmouseover=triggerDelay() onmouseout=delayOff() href=/category/index.jsp?categoryId=1255081&amp;clickid=topnav_tab7cookware_txt class=topnav>Cookware</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onmouseover=triggerDelay() onmouseout=delayOff() href=/category/index.jsp?categoryId=1255075&amp;clickid=topnav_tab7smallapps_txt class=topnav>Small Appliances</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onmouseover=triggerDelay() onmouseout=delayOff() href=/category/index.jsp?categoryId=1255089&amp;clickid=topnav_tab7vacuums_txt class=topnav>Vacuums</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onmouseover=triggerDelay() onmouseout=delayOff() href=/category/index.jsp?categoryId=1254882&amp;clickid=topnav_tab7morehouse_txt class=topnav>More in Housewares</a></font>')"><img src="http://ACE.imageg.net/images/h_housewares_off.gif" width="101" height="34" name="image7" border="0"></a></td>
-		</tr>
-		</tbody></table>
-	</td>
-	<td valign="bottom"><img src="http://ACE.imageg.net/images/797979_topright.gif" width="13" alt="" border="0"></td>
-</tr><tr>
-	<td colspan="3">
-		<table cellpadding="0" cellspacing="0" border="0" width="780">
-		<tbody><tr>
-			<td><img src="http://ACE.imageg.net/images/pixel.gif" width="4" height="1"></td>
-			<td align="right"><img src="http://ACE.imageg.net/images/797979_top.gif" width="775" height="28" alt="" border="0"><div id="subtext" align="right" style="width:700px;height:38px;top:93px;left:34px;position:absolute;z-index:2;"></div><div id="subtext_2" align="right" style="width:725px;height:38px;top:85px;left:35px;position:absolute;z-index:1;"><img src="/images/ace_placeAds.jpg" usemap="#thisace" border="0" name="image8"></div></td>
-			<td>
-	<!-- Start of SearchMarketing.com Natural Pixel Tag: Please do not remove-->
-	<script language="JavaScript"><!--
-	{
-		document.write("<img src=http://tracking.searchmarketing.com/gsic_welcome.asp?SMCID=110&x=" +escape(document.referrer) +  " width=1 height=1>");
-	}
-	//-->
-	</script><img src="http://tracking.searchmarketing.com/gsic_welcome.asp?SMCID=110&amp;x=" width="1" height="1">
-	<!-- End SearchMarketing.com Natural Pixel Tag -->
-
-</td>
-		</tr>
-		</tbody></table>
-	</td>
-</tr>
-</tbody></table>
-
-<map name="thisace">
-<area alt="" href="javascript:void(window.open('../helpdesk/popup.jsp?display=payment&amp;subdisplay=process','promo','width=500,height=600,scrollbars=yes,resizable=no'))" coords="350,6,409,26">
-</map>
-<table width="780" cellpadding="0" cellspacing="0" border="0">
-<tbody><tr>
-	<td bgcolor="#ffffff" height="25" class="breadcrumb" colspan="2"><table cellpadding="6" border="0" width="100%">
-    <tbody><tr><td>
-        <a href="/home/index.jsp" class="breadcrumb">
-       Return to shopping</a>&nbsp;
-|&nbsp;
-
-    <a class="breadcrumb" href="/helpdesk/index.jsp">Help Desk</a>
-
-    </td></tr>
-</tbody></table>
-<br>
-
-
-
-
-</td>
-	<td width="13" rowspan="2"><img src="http://ACE.imageg.net/images/pixel.gif" width="13"></td>	
-</tr>
-<tr>
-	<td valign="top">
-		<table width="95%" cellpadding="0" cellspacing="0" border="0" align="center">
-		<tbody><tr>
-			<td>
 	<!-- *********************************** STOREMAN HELPDESK STARTS ************************************** -->
 				 
 
 				
 							
 
-<table width="100%" border="0">
-	<tbody><tr>
-		<td width="200" valign="top">
-<!-- navigation -->
-			<table width="200" border="0" cellpadding="0" cellspacing="0">
-				<tbody><tr>
-					<td height="20" valign="middle" colspan="2" align="left">
-					<font class="header">Safety, Security, and Privacy</font></td>
-				</tr>
-				<tr>
-					<td><img src="../images/pixel.gif" width="5"></td>
-				</tr>
+<div id="hdLeftNav">
+	<div id="top"><div class="pL8 pT7"><a href="/helpdesk/index.jsp" class="c2 fD-"><img class="mR4" src="http://ACE.imageg.net/images/hd_leftnav_leftArrow_red.gif" width="4" height="5" alt="" border="0">back to <span class="fB">Customer Service</span></a></div></div>
+	<div id="mid">
+		<div class="f14 fB mL17 pT12 mB10">Safety, Security, and Privacy</div>
+		<div class="fR mB10"><img src="http://ACE.imageg.net/images/hd_leftnav_horLine.gif" width="189" height="2" alt="" border="0"></div>
+		<div class="cB"></div>
+		<div class="mL10">
+
+			<div class="fL">
 				
-				<tr>
-					
-					
-						
-							<td valign="top"><font class="subheadNumber">&nbsp;&nbsp;&nbsp;»</font></td><td valign="top"><a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=secure" class="hd_pagelink">Secure Shopping Guarantee</a></td>
-						 
-					
-				</tr>
-				<tr>
-					<td><img src="../images/pixel.gif" width="5"></td>
-				</tr>
+					<img class="dB" src="http://ACE.imageg.net/images/pixel.gif" width="3" height="5" alt="" border="0">
 				
-				<tr>
-					
-					
-						
-							<td valign="top"><font class="subheadNumber">&nbsp;&nbsp;&nbsp;»</font></td><td valign="top"><a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=terms" class="hd_pagelink">Terms &amp; Conditions</a></td>
-						 
-					
-				</tr>
-				<tr>
-					<td><img src="../images/pixel.gif" width="5"></td>
-				</tr>
+			</div>
+
+			<div class="fL mL4 mB10"><a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=secure" class="hdlink">Secure Shopping Guarantee</a></div>
+			<br clear="all">
+
+			<div class="fL">
 				
-				<tr>
-					
-					
-						
-							<td valign="top"><font class="subheadNumber">&nbsp;&nbsp;&nbsp;»</font></td><td valign="top"><a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=privacy" class="hd_pagelink">Privacy Policy</a></td>
-						 
-					
-				</tr>
-				<tr>
-					<td><img src="../images/pixel.gif" width="5"></td>
-				</tr>
+					<img class="dB" src="http://ACE.imageg.net/images/pixel.gif" width="3" height="5" alt="" border="0">
 				
-				<tr>
-					
-					
-						
-									<td valign="top"><font class="subheadNumber">&nbsp;&nbsp;&nbsp;»</font></td><td valign="top"><a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=vbv&amp;topic=vbv" class="hd_pagelink">Verified by Visa</a></td>
-									
-					
-				</tr>
-				<tr>
-					<td><img src="../images/pixel.gif" width="5"></td>
-				</tr>
+			</div>
+
+			<div class="fL mL4 mB10"><a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=terms" class="hdlink">Terms &amp; Conditions</a></div>
+			<br clear="all">
+
+			<div class="fL">
 				
-				<tr>
-					
-					
-						
-									<td valign="top"><font class="subheadNumber">&nbsp;&nbsp;&nbsp;»</font></td><td valign="top"><a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=mastercard&amp;topic=securecode" class="hd_pagelink">MasterCard SecureCode</a></td>
-								
-					
-				</tr>
-				<tr>
-					<td><img src="../images/pixel.gif" width="5"></td>
-				</tr>
+					<img class="dB mT6" src="http://ACE.imageg.net/images/hd_leftnav_rightArrow_red.gif" width="3" height="5" alt="" border="0">
 				
-			</tbody></table>
-		</td>
-		<td>
-			<img src="/images/pixel.gif" width="10" height="1">
-		</td>
-		<td valign="top">
-			<table border="0">
-				<tbody><tr>
-					<td><a href="/helpdesk/index.jsp"><img src="../images/hd/help_desk.gif" border="0"></a></td>	
-				</tr>
-				<tr>
-				</tr>
-				<tr>
-					<td>
-						<!-- panel -->
-						<!--here is panelId::1998406-->
+			</div>
+
+			<div class="fL mL4 mB10"><a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=privacy" class="hdlinkon">Privacy Policy</a></div>
+			<br clear="all">
+
+			<div class="fL">
+				
+					<img class="dB" src="http://ACE.imageg.net/images/pixel.gif" width="3" height="5" alt="" border="0">
+				
+			</div>
+
+			<div class="fL mL4 mB10"><a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=vbv&amp;topic=vbv" class="hdlink">Verified by Visa</a></div>
+			<br clear="all">
+
+			<div class="fL">
+				
+					<img class="dB" src="http://ACE.imageg.net/images/pixel.gif" width="3" height="5" alt="" border="0">
+				
+			</div>
+
+			<div class="fL mL4 mB10"><a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=mastercard&amp;topic=securecode" class="hdlink">MasterCard SecureCode</a></div>
+			<br clear="all">
+
+		</div>
+	</div>
+	<div id="bot"></div>
+</div>
+<div id="hdPanelContent">
+
+
+
+
+
+<!-- panel -->
 <!--here is pd::null-->
 <!--STOREMAN GENERATION - 1 panel(s) found for slot: HelpSlot entryId: 1998406 with pd:null-->
-<!--STOREMAN PANEL: helpdesk/ACE_safetySecurityAndPrivacy_8-3.21094.jsp-->
+<!--STOREMAN PANEL: helpdesk/ACE_safetySecurityAndPrivacy_8-3.31834.jsp-->
 
-								<!--?xml version="1.0" encoding="ISO-8859-1" standalone="no"?-->
+			<!--?xml version="1.0" encoding="ISO-8859-1" standalone="no"?-->
 
 <smpanel xmlns:sm="http://engineering.gspt.net/storeman/sm-DTDinfo.html">
 	<table width="98%" border="0" cellpadding="0" cellspacing="0">
 		<tbody><tr>
            <td valign="top">
-		<p class="header"><b>Our Privacy Policy</b></p>
+                <p class="header"><b>Our Privacy Policy</b></p>
 		<p>
-			GSI Commerce Solutions, Inc. ("GSI") operates this Web site, acehardware.com, pursuant to agreements with Ace Hardware Corporation ("Ace Hardware"). Both GSI and Ace Hardware ("we" or "us") recognize that you care how information about you is used and shared. We have created this Privacy Policy to inform you of our information collection, use and sharing practices for this Web site.
-			<br><br>
-			Please be advised that the practices described in this Privacy Policy apply only to information gathered through this Web site and, where applicable, through our Customer Service Department in connection with this Web site, and do not necessarily reflect our practices with respect to information gathered through other Web sites that we operate or through other off-line means.
-			<br><br>
-			If you have any questions regarding this Privacy Policy, you should contact our Customer Service Department by email at <a href="mailto:customersupport@acehardware.com? subject=Privacy Policy Questions" class="pagelink">customersupport@acehardware.com</a>.
-			<br><br>
-			<b><u>What Information About Me Is Collected and Stored?</u></b>
-			<br><br>
-			We collect and store information that you enter into this Web site or that you provide to our Customer Service Department.  For example, when you open an account or place an order, we collect and store some or all of the following information that you provide: name, billing address, shipping address, email address, telephone number, credit card number and expiration date. This information is used to provide the products and services that you have ordered or requested, to process and ship orders, to send order and shipping confirmations and to provide customer service. This information also may be used to contact you about sales, special offers and new site features, unless you have <a href="#promo" class="pagelink">opted not to receive promotional communications</a> in connection with this Web site.
-			<br><br>
-			We collect and store certain other information automatically whenever you interact with this Web site. For example, we collect your IP address, browser information and reference site domain name every time you visit this Web site. We also collect information regarding customer traffic patterns and site usage. This information is used to analyze and improve this Web site and to provide our customers with a fulfilling shopping experience.
-			<br><br>
-			We may also uses pixels, or transparent GIF files, to help manage online advertising. These GIF files are provided by our ad management partner, DoubleClick. These files enable DoubleClick to recognize a unique cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our website. The cookie was placed by us, or by another advertiser who works with DoubleClick. With both cookies and Spotlight technology, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address.
-			<br><br>
-			Also, like many Web sites, we use "cookies", which are files stored on your computer's hard drive by your browser. Cookies help us to identify account holders and to optimize their shopping experience.  Cookies also allow us to hold selections in a shopping cart when a user leaves this Web site without checking out. Most browsers accept cookies automatically but allow you to disable them. We recommend that you leave cookies "turned on" so that we can offer you a better shopping experience on this Web site.
-			<br><br>
-			We also may collect and store information about you that we receive from other sources, to enable us to update and correct the information contained in our database and to provide product recommendations and special offers that we think will interest you.
-			<br><br>
-			<b><u>Is Information Collected From Children?</u></b>
-			<br><br>
-			We do not sell or ship any items ordered through this Web site directly to anyone who we know to be under the age of 18, nor do we collect any personal information from anyone who we know to be under the age of 18. If you are under the age of 18, you should use this Web site only with the involvement of a parent or guardian and should not submit any personal information to us.
-			<br><br> 
-			<b><u>With Whom Do You Share Information?</u></b>
-			<br><br>
-			We do not share with others any personal information that you provide to us through this Web site or through our Customer Service Department, except with your consent or as described in this Privacy Policy. 
-			<br><br>
-			We engage third parties to perform services in connection with the operation of our business. Examples of these services include payment processing and authorization, fraud protection and credit risk reduction, product customization, order fulfillment and shipping, marketing and promotional material distribution, Web site evaluation, data analysis and, where applicable, data cleansing.  We provide personal information to these third parties, but we authorize them to use this information only in connection with the services they perform.
-			<br><br>
-			We also may offer you the opportunity to purchase products and services provided by third parties, such as magazine subscriptions and extended warranty plans. If you purchase any of these products or services, we will provide your personal information to the third parties that provide them, but we authorize these third parties to use this information only in connection with the products and services they provide.
-			<br><br>
-			We may release personal information if we believe in good faith that: the law or legal process requires it; we have received a valid administrative request from a law enforcement agency; or such release is necessary to protect the rights, property or safety of GSI or Ace Hardware, or any of our respective affiliates, business partners, customers or others. 
-			<br><br>
-			We may share non-personal information with our marketing partners, advertisers and others from time to time. Examples of such non-personal information include the number of users who visited this Web site during a specific time period or purchased a specific product through this Web site. This information generally is shared in an aggregated form. 
-			<br><br>
-			As with any business, it is possible that as our business develops, we might sell or buy online stores or other assets. In such transactions, information about customers often is among the transferred assets. Accordingly, in the unlikely event that GSI or Ace Hardware, or substantially all of our respective assets are acquired by a third party, such information may be one of the transferred assets (unless the information was collected under a previous Privacy Policy that did not permit such disclosure). Under such circumstances, GSI or Ace Hardware, as the case may be, would to the extent possible require the acquiring party to follow the practices described in this Privacy Policy. 
-			<br><br>
-			<b><u>What Steps Are Taken To Keep Personal Information Secure?</u></b>
-			<br><br>
-			We use various security measures, including Secure Socket Layer (SSL) encryption technology, to protect personal information that we collect. If you place an order through this Web site, you will be asked to set up an account and provide an email address and password. You must provide an appropriate email address and password in order to access account information. In order to help protect your personal information further, you should be careful about providing your password to others. If you wish to cancel a password, or if you become aware of any loss, theft or unauthorized use of a password, please contact our Customer Service Department by email at <a href="mailto:customersupport@acehardware.com? subject=Privacy Policy Questions" class="pagelink">customersupport@acehardware.com</a> or by phone at 1-866-290-5334.
-			<br><br>
-			<b><u>How Can I Access, Correct and Update Personal Information?</u></b>
-			<br><br>
-			You can access, correct and update certain personal information that you have provided to us by clicking on "Manage Your Account" within the Help Desk area of this Web site.
-			<br><br>
-			<a name="promo"></a><b><u>Can I Indicate Whether or Not I Want To Receive Promotional Communications?</u></b>
-			<br><br>
-			There are several ways in which you can tell us whether or not you want to receive promotional communications from us.  When you set up an account, or click on "Manage Your Account" within the Help Desk area, or place an order, you will have an opportunity to make or change your selections in this regard.  You also will have an opportunity to change these selections by clicking on an "unsubscribe" hyperlink contained in promotional emails we send you.
-			<br><br>
-			<b><u>What Happens When I Link To or From Another Web Site?</u></b>
-			<br><br>
-			This Web site may contain links to Web sites operated by third parties. Please be advised that the practices described in this Privacy Policy do not apply to information gathered through these other Web sites. We encourage you to be aware of when you leave this Web site and to read the privacy policies of each and every Web site that you visit.
-			<br><br>
-			If you have accessed this Web site through a link from certain of our advertising or marketing partners, this Web site may include a frame of the applicable advertising or marketing partner. Nevertheless, the information you provide to us through these framed Web pages is collected by us, and our use of this information is governed by this Privacy Policy.
-			<br><br>
-			<b><u>What About Contests and Sweepstakes?</u></b>
-			<br><br>
-			When we run a contest or sweepstakes relating to this Web site, it will be accompanied by a set of rules. The rules for each contest/sweepstakes will specify how the information gathered from you for entry will be used and disclosed.
-			<br><br>
-			<b><u>How Will I Be Informed About Changes Regarding This Privacy Policy?</u></b>
-			<br><br>
-			If we make any material changes to this Privacy Policy, we will post a notice on this Web site notifying users of the changes. In some cases, we also may send an email notifying users of the changes. You should check this Web site periodically to see if any recent changes to this Privacy Policy have occurred.
-		</p>
+	        Ace Hardware Corporation ("Ace Hardware" or "we" or "us") recognizes that you care how information about you is collected and used.  We have created this Privacy Policy to inform you of our information collection, use and sharing practices for this Web site, acehardware.com.
+<br><br>
+Please be advised that the practices described in this Privacy Policy apply only to information gathered through this Web site and, where applicable, through our Customer Service Department in connection with this Web site, and do not necessarily reflect our practices with respect to information gathered through other Web sites that we operate or through other off-line means. 
+<br><br>
+If you have any questions regarding this Privacy Policy, you should contact our Customer Service Department by email at <a href="mailto:customersupport@acehardware.com?subject=Privacy Policy Questions" class="pagelink">customersupport@acehardware.com</a>. 
+<br><br>
+<b><u>What Information About Me Is Collected?</u></b>
+<br><br>
+<b>Information You Voluntarily Provide</b>
+<br><br>
+We collect and store information that you enter into this Web site or that you provide to our Customer Service Department in connection with this Web site. For example, information will be collected when you open or manage an account or an Ace Rewards membership account, when you place an order, when you sign up to receive emails, newsletters or other promotional communications, when you enter a contest or sweepstakes, when you contact us with online inquiries and/or when you otherwise voluntarily submit or provide information to us.  The information we collect that you provide to us may include, but is not limited to: names, billing addresses, shipping addresses, email addresses, telephone numbers, Ace Rewards membership ID numbers, credit card numbers and expiration dates, account and log-in IDs, passwords, information regarding orders, demographic information and information regarding interests and preferences. This information is used to complete transactions and provide the products and services that you have ordered or requested, and for administrative and analytical purposes.  For example, the information is used to process and ship orders, to send order and shipping confirmations, to manage billing and payment processes, to operate the Ace Rewards program, to provide emails, newsletters and other communications you have requested, to conduct audits, to manage our information and financial systems and to provide customer service. This information also may be used to contact you about sales, product recommendations, special offers and new site features from Ace Hardware and other selected vendors, unless you have <a href="../helpdesk/index.jsp?display=safety&amp;subdisplay=privacy&amp;clickid=footerlink_privacy_txt#promo#promo" class="pagelink">opted not to receive promotional communications</a> in connection with this Web site.  When you opt not to receive emails, newsletters or other promotional information, we collect and store certain information, such as your email address, in order to comply with your preferences regarding such materials.
+<br><br>
+<b>Information We Automatically Collect</b>
+<br><br>
+Like many Web sites, we use technologies to collect and store certain other information automatically whenever you interact with this Web site. For example, we collect your IP address, browser information and reference site domain name every time you visit this Web site. We also collect information regarding customer traffic patterns and site usage. This information is used to analyze and improve this Web site and to provide our customers with a fulfilling shopping experience. 
+<br><br>
+We may also uses pixels, or transparent GIF files, to help manage online advertising. These GIF files are provided by our ad management partner(s). These files enable our ad management partner(s) to recognize a unique cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our website. The cookie was placed by us, or by another advertiser who works with our ad management partner(s). With both cookies and Spotlight technology, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address. 
+<br><br>
+Also, like many Web sites, we use "cookies", which are files stored on your computer's hard drive by your browser. Cookies help us to identify account holders and Ace Rewards members and to optimize their log-in, account management and shopping experience. Cookies also allow us to hold selections in a shopping cart when a user leaves this Web site without checking out. Most browsers accept cookies automatically but allow you to disable them. We recommend that you leave cookies "turned on" so that we can offer you a better experience on this Web site. 
+<br><br>
+<b>Other Information</b>
+<br><br>
+We also may collect and store information about you that we receive from other sources, such as the U.S Postal Service National Change of Address (NCOA) service and providers of consumer data, to enable us to update and correct the information contained in our database and to provide product recommendations and special offers that we think will interest you. 
+<br><br>
+<b><u>Is Information Collected From Children?</u></b>
+<br><br>
+We do not sell any items ordered through this Web site directly to anyone who we know to be under the age of 18.  If you are under the age of 18, you should not use this Web site to submit orders or purchase any items.  In addition, we do not collect online any personal information from anyone who we know to be under the age of 13. If you are under the age of 13, you should use this Web site only with the involvement of a parent or guardian and should not submit any personal information of any kind to us. 
+<br><br>
+<b><u>With Whom Do You Share Information?</u></b>
+<br><br>
+We do not share with others any personal information that you provide to us through this Web site or through our Customer Service Department, except with your consent or as described in this Privacy Policy.  For purposes of this Privacy Policy, personal information is information that you provide to us that personally identifies you, such as your full name, address, email address, phone number and credit card information.
+<br><br>
+We engage third parties to perform services in connection with the operation of our business. Examples of these services include, but are not limited to, operation of our Web site(s), management of customer accounts and Ace Rewards accounts, payment processing and authorization, fraud protection and credit risk reduction, product customization, order fulfillment and shipping, gift card processing and management, marketing and promotional activities, Web site evaluation, data analysis and, where applicable, data cleansing. We may provide personal information to these third parties, but we authorize them to use this information only in connection with the services they perform on our behalf.  We may permit such third parties to disclose personal information to subcontractors, but only if the third party limits the subcontractor?s use of such information to services performed on our behalf.  
+<br><br>
+If you are or become an Ace Rewards member, we may share personal information regarding you with the Ace Hardware retailer(s) in your area in order to facilitate your membership in the Ace Rewards program. 
+<br><br>
+We also may offer you the opportunity to purchase products and services provided by or in conjunction with third parties. If you purchase any of these products or services, we will provide your personal information to the third parties that provide the products and services that you request, but we authorize these third parties to use this information only in connection with the products and services they provide.  We may also provide information, including personal information, about you to certain business partners, but only if you participate in programs offered by such business partners.
+<br><br>
+We, or those with whom we have shared information in accordance with this Privacy Policy, may release personal information if we believe in good faith that: the law or legal process requires it; we have received a valid administrative request from a law enforcement agency; or such release is necessary or advisable to protect the rights, property or safety of Ace Hardware, or any of our respective affiliates, business partners, customers or others.  We may also disclose personal information to assist us in the collection of amounts owed by you to us or to one of our business partners with whom you have authorized us to transact business on your behalf.
+<br><br>
+We may share non-personal information with our marketing partners, advertisers and others from time to time. Examples of such non-personal information include the number of users who visited this Web site during a specific time period or purchased a specific product through this Web site. This information is shared in an aggregated form. 
+<br><br>
+We reserve the right to transfer any information we have about you, including personal information, in connection with the sale or transfer of all or a portion of the business or assets of Ace Hardware to a third party.  
+<br><br>
+<b><u>What Steps Are Taken To Keep Personal Information Secure?</u></b>
+<br><br>
+We use various security measures, including Secure Socket Layer (SSL) encryption technology, to protect personal information that we collect. If you place an order through this Web site, you will be asked to set up an account and provide an email address and password. You must provide an appropriate email address and password in order to access account information. In order to help protect your personal information further, you should not provide your password to others. If you wish to cancel a password, or if you become aware of any loss, theft or unauthorized use of a password, please contact our Customer Service Department by email at <a href="mailto:customersupport@acehardware.com?subject=Privacy Policy Questions" class="pagelink">customersupport@acehardware.com</a> or by phone at 1-866-290-5334.
+<br><br>
+<b><u>How Can I Access, Correct and Update Personal Information?</u></b>
+<br><br>
+You can access, correct and update certain personal information that you have provided to us by clicking on "Manage Your Account" within the My Account area of this Web site.  If you are an Ace Rewards member, you can update your Ace Rewards profile in the Ace Rewards area of this Web site.  
+<br><br>
+<b><u>Can I Indicate Whether or Not I Want To Receive Promotional Communications?</u></b>
+<br><br>
+There are several ways in which you can tell us whether or not you want to receive promotional communications from us. When you set up an account, or click on "Manage Your Account" within the My Account area, or place an order, you will have an opportunity to make or change your selections in this regard. You also will have an opportunity to change these selections by clicking on an "unsubscribe" hyperlink contained in promotional emails we send you. 
+<br><br>
+<b><u>What Happens When I Link To or From Another Web Site?</u></b>
+<br><br>
+This Web site may contain links to other Web sites operated by Ace Hardware and/or Web sites operated by third parties. Please be advised that the practices described in this Privacy Policy do not apply to information gathered through these other Web sites, including Web sites operated by Ace dealers. We encourage you to be aware of when you leave this Web site and to read the privacy policies of each and every Web site that you visit. 
+<br><br>
+If you have accessed this Web site through a link from certain of our advertising or marketing partners, this Web site may include a frame of the applicable advertising or marketing partner. Nevertheless, the information you provide to us through these framed Web pages is collected by us, and our use of this information is governed by this Privacy Policy. 
+<br><br>
+<b><u>What About Contests and Sweepstakes?</u></b>
+<br><br>
+When we run a contest or sweepstakes  on this Web site, it will be accompanied by a set of rules. If our use of your personal information gathered in connection with the contest or sweepstakes entry process is different from the terms of this Privacy Policy, the rules for such contest/sweepstakes will specify how that information will be used. 
+
+<br><br>
+<b><u>How Will I Be Informed About Changes Regarding This Privacy Policy?</u></b>
+<br><br>
+
+Our Web site will continue to evolve to bring you new features and services and to implement technological advances.  As a result, we may change this Privacy Policy from time to time without prior notice.  Revised versions of this Privacy Policy will be posted on this Web site, together with an updated effective date. In some cases, we may also send an email notifying users of the changes. You should check this Web site periodically to see if any recent changes to this Privacy Policy have occurred.  By continuing to use this Web site after we post any such changes, you accept the Privacy Policy as modified    
+<br><br>
+<b><u>Effective Date</u></b>
+<br><br>
+This Privacy Policy is effective as of <b>August 30th, 2007</b>.
+</p>
 		</td>
 	</tr>
-</tbody></table>
-</smpanel>
 
-<!--  jk- /panels/helpdesk/ACE_safetySecurityAndPrivacy_8-3.21094.jsp--><!--END STOREMAN PANEL helpdesk/ACE_safetySecurityAndPrivacy_8-3.21094.jsp-->
+</tbody></table>
+</smpanel><!--  jk- /panels/helpdesk/ACE_safetySecurityAndPrivacy_8-3.31834.jsp --><!--END STOREMAN PANEL helpdesk/ACE_safetySecurityAndPrivacy_8-3.31834.jsp-->
 <!--END STOREMAN GENERATION-->
 
-							
-					</td>
-				</tr>
-			</tbody></table>
-		</td>
-	</tr>
-</tbody></table>
+
+</div>
+<div class="cB"></div>
 
 				
 <!-- *********************************** STOREMAN HELPDESK ENDS************************************** -->
+
+		</div>
+
+		
+	<div id="footer">
+		<div class="mLRa" style="width:661px;">
+			<div class="fL pR12 pB6 bR1_c5"><a href="../mystore/storeLocator.jsp" class="stdRed fB f9">Store Locator</a></div>
+			<div class="fL pLR12 pB6 bR1_c5"><a href="/gift_cards/index.jsp" class="stdRed fB f9">Purchase a Gift Card</a></div>
+			<div class="fL pLR12 pB6 bR1_c5"><a href="/corp/index.jsp?page=rebate&amp;clickid=footerlink_rebates_txt" class="stdRed fB f9">Review Monthly Rebates</a></div>
+			<!-- Start changes made for ACE Rewards -->
 			
-			</td>
-		</tr>
-		</tbody></table>
-	</td>
+			<div class="fL pLR12 pB6 bR1_c5"><a href="https://www.acehardware.com/acerewards/index.jsp?step=aceRewardsHub" class="stdRed fB f9">Ace Rewards</a></div>		
+			
+			<!-- End changes made for ACE Rewards -->
+			<div class="fL pLR12 pB6 bR1_c5"><a href="/shopbyBrand/index.jsp?clickid=footerlink_brand_txt" class="stdRed fB f9">Shop by Brand</a></div>
+			<div class="fL pLR12 pB6"><a href="http://acehardware.shoplocal.com/acehardwarecircular/new_user_entry.aspx" class="stdRed fB f9">Shop Our Circular</a></div>
+			<br clear="all">
+		</div>
+		<img class="dB" src="http://ACE.imageg.net/images/ftr_wood.gif" width="778" height="22" alt="" border="0">
+		<div class="mLRa" style="width:671px;">
+			<div class="fL pR6 pT6 bR1_c5"><a href="/helpdesk/index.jsp?clickid=footerlink_helpdesk_txt" class="stdGray f9">Customer Service</a></div>
+			<div class="fL pLR6 pT6 bR1_c5"><a href="https://www.acehardware.com/coreg/index.jsp?step=ot&amp;clickid=footerlink_trackorder_txt" class="stdGray f9">Track Your Order</a></div>
+			<div class="fL pLR6 pT6 bR1_c5"><a href="/corp/index.jsp?page=about&amp;clickid=footerlink_aboutus_txt" class="stdGray f9">Corporate Info</a></div>
+			<div class="fL pLR6 pT6 bR1_c5"><a href="http://www.myace.com" class="stdGray f9" target="_blank">Own an Ace Store</a></div>
+			<div class="fL pLR6 pT6 bR1_c5"><a href="/corp/index.jsp?page=jobs&amp;clickid=footerlink_careers_txt" class="stdGray f9">Careers</a></div>
+			
+				<div class="fL pLR6 pT6 bR1_c5"><a href="/affiliate/index.jsp?clickid=footerlink_affiliate_txt" class="stdGray f9">Affiliate Program</a></div>
+			
+			<div class="fL pLR6 pT6 bR1_c5"><a href="/sitemap/index.jsp?clickid=footerlink_sitemap_txt" class="stdGray f9">Site Map</a></div>
+			<div class="fL pL6 pT6"><a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=privacy&amp;clickid=footerlink_privacy_txt" class="stdGray f9">Privacy Policy</a></div>
+			<div class="cB"></div>
+		</div>
 
+		<div class="pTB20 c6 f9">©2007 Ace Hardware</div>
 
-</tr>		
-</tbody></table>
+	</div>
 
 <!-- Start of New Pixel File -->
 
@@ -528,61 +853,63 @@ function timeout() {
 <!-- End of New Pixel File -->
 
 
-<table border="0" cellpadding="0" cellspacing="0" width="780">
-	<tbody><tr>
-		<td colspan="3"><img src="http://ACE.imageg.net/images/pixel.gif" height="5"></td>
-	</tr>
-	<tr>
-		<td rowspan="3"><img src="http://ACE.imageg.net/images/pixel.gif" width="4"></td>
-		<td><img src="http://ACE.imageg.net/images/797979_fulltop.gif" width="763" height="4" alt="" border="0"></td>
-		<td rowspan="3"><img src="http://ACE.imageg.net/images/797979_rightfull.gif" width="13" height="36" alt="" border="0"></td>
-	</tr>
 
-	<tr>
-		<td bgcolor="#797979">
-			<table border="0" cellpadding="0" cellspacing="0" width="763">
-				<tbody><tr>
-					<td width="15"><img src="http://ACE.imageg.net/images/pixel.gif" width="15" height="23"></td>
-					<td class="footerlink" align="left">©&nbsp;Copyright 2007.&nbsp;&nbsp;&nbsp;</td>
-					<td align="right" class="footerlink"><a href="/home/index.jsp?clickid=footerlink_home_txt" class="footerlink">Home</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://ace.adzmar.com" class="footerlink">Store Locator</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/corp/index.jsp?page=careers&amp;clickid=footerlink_careers_txt" class="footerlink">Careers@Ace</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.helpfulhardwareclub.com/" target="new" class="footerlink">Helpful Hardware Club</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/corp/index.jsp?page=about&amp;clickid=footerlink_aboutus_txt" class="footerlink">About Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/helpdesk/index.jsp?clickid=footerlink_helpdesk_txt" class="footerlink">HelpDesk</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=privacy&amp;clickid=footerlink_privacy_txt" class="footerlink">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/affiliate/index.jsp?clickid=footerlink_affiliate_txt" class="footerlink">Affiliate</a></td>
-					<td width="15"><img src="http://ACE.imageg.net/images/pixel.gif" width="15" height="23"></td>
-				</tr>
-			</tbody></table>
-		</td>
-	</tr><tr>
-		<td colspan="3"><img src="http://ACE.imageg.net/images/797979_fullbot.gif" width="763" height="9" alt="" border="0"></td>
-	</tr><tr>
-		<td colspan="3" align="right">
-			<table width="780" cellpadding="0" cellspacing="0" border="0">
-				<tbody><tr>
-				    <td width="50%" align="left" style="padding-left:18px; padding-bottom:20px;"><a target="_blank" href="http://www.scanalert.com/RatingVerify?ref=www.acehardware.com"><img width="65" height="38" border="0" src="https://images.scanalert.com/meter/www.lnt.com/31.gif" align="absmiddle" alt="HACKER SAFE certified sites prevent over 99% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE  is a Trademark of ScanAlert'); return false;"></a></td>
-					<td width="50%" align="right" valign="top">**See product page for details</td>
-					<td><img src="http://ACE.imageg.net/images/pixel.gif" height="1" width="29"></td>
-				</tr>
-			</tbody></table>
-		</td>
-	</tr>
-</tbody></table><script language="JavaScript">
+
+
+
+
+
+
+
+
+<!--You are running on secprd2_ws_35_7-->
+
+
+
+<!-- trackingPageName finalPage() helpdesk  -->
+		
+	
+
+
+
+	
+	
+
+
+
+
+
+
+
+
+
+<!--You are running on secprd2_ws_35_7-->
+
+
+
+
+<!-- // End of code of PMO 52759 -->
+
+
+<script language="JavaScript">
 
 /* Non-commerce Variables */
 
+var s_account='gsicace';
+
 var s_server = 'www.acehardware.com';
-var s_pageName = 'Customer Assistance Landing Page';
-var s_eVar20 = '';
+var s_pageName = 'Customer Assistance - Customer Assitance Landing Page';
 var s_hier1 = '';
-var s_events = '';
 var s_channel = 'Home';
-var s_eVar19 = '28319992472';
+var s_eVar19 = '33492880953';
 </script>
 
+<script language="JavaScript" src="http://ACE.imageg.net/include/omniture.js"></script>
+<!-- End SiteCatalyst code version: G.9. -->
 
-	<!--//********* INSERT THE DOMAIN AND PATH TO YOUR CODE BELOW ************///-->
-	<script language="JavaScript">
-	/* Specify the Report Suite ID(s) to track here */
-	var s_account="gsicace";
-	</script><script language="JavaScript" src="http://ACE.imageg.net/include/omniture.js"></script>
-	<!-- End SiteCatalyst code version: G.9. -->	
+
 	
+
 
 
 
@@ -590,6 +917,23 @@ var s_eVar19 = '28319992472';
 
 
 
+
+
+
+	</div><!-- end sitebg -->
+
+	<img class="dB" src="http://ACE.imageg.net/images/bgCap.gif" width="812" height="23" alt="" border="0">
+
+	<!-- START SCANALERT CODE -->
+    <div class="w778 mT20 pB30">
+		
+		<div class="w65 mLRa"><a target="_blank" href="http://www.scanalert.com/RatingVerify?ref=www.acehardware.com"><img src="https://images.scanalert.com/meter/www.acehardware.com/31.gif" alt="HACKER SAFE certified sites prevent over 99% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE  is a Trademark of ScanAlert'); return false;" align="absmiddle" border="0" height="38" width="65"></a></div>
+	</div>
+<!-- END   SCANALERT CODE -->
+
+</div><!-- end align -->
+
+<!-- globalnetwatch,do not delete this -->
 
 
 
