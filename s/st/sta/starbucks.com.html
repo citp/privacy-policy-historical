@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the starbucks.com privacy policy that was archived on 2007-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070629145210id_/http%3A//www.starbucks.com/customer/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the starbucks.com privacy policy that was archived on 2007-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071229095509id_/http%3A//www.starbucks.com/customer/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 	<meta http-equiv="lang" content="en-US">
@@ -985,8 +985,6 @@ End Function
 
 
 
-
-
 </head>
    
 <body onload="MM_preloadImages('/images/nav_images/nav_coffees-over.gif', '/images/nav_images/nav_our_stores-over.gif', 
@@ -999,9 +997,9 @@ End Function
 		var hbx=_hbEvent("pv");hbx.vpc="HBX0200u";hbx.gn="ehg-starbucks.hitbox.com";
 		//BEGIN EDITABLE SECTION
 		//CONFIGURATION VARIABLES
-		hbx.acct="DM560919AJWB27EN3";//ACCOUNT NUMBER(S)
+		hbx.acct="DM5609199ASC27EN3";//ACCOUNT NUMBER(S)
 		hbx.pn="privacy.asp-Privacy+Statement";//PAGE NAME(S)
-		hbx.mlc="CONTENT+CATEGORY";//MULTI-LEVEL CONTENT CATEGORY
+		hbx.mlc="/customer/";//MULTI-LEVEL CONTENT CATEGORY
 		hbx.pndef="default.asp";//DEFAULT PAGE NAME
 		hbx.ctdef="full";//DEFAULT CONTENT CATEGORY
 			//OPTIONAL PAGE VARIABLES
@@ -1023,12 +1021,220 @@ End Function
 </script><script language="javascript1.1" src="http://www.starbucks.com/javascript/hbx.js"></script>
 <!--END WEBSIDESTORY CODE--> 
 
+					            <!-- locator quick search -->
+					            
+					            
+				
+				
+                <script type="text/javascript" src="http://dev.virtualearth.net/mapcontrol/mapcontrol.ashx?v=6"></script>
+				
+				<script language="javascript" type="text/javascript">
+				//global disambiguate scripts. 
+                var globalmap = null;
+                function GlobalClearLocatorDefault()
+                {
+                    var ele = document.getElementById("GlobalStoreSearchTxt");
+                    if(ele.value == "Enter Location")
+                        ele.value = "";
+                }
+                
+                function GlobalSetLocatorDefault()
+                {
+                    var ele = document.getElementById("GlobalStoreSearchTxt");
+                    if(ele.value.replace(/^\s+|\s+$/g,"") == "")
+                        ele.value = "Enter Location";
+               }
+                
+                function GlobalValidateLocatorSearch()
+                {
+                    var ele = document.getElementById("GlobalStoreSearchTxt");
+                    var cont = true;
+                    
+                    if(ele.value.replace(/^\s+|\s+$/g,"") == "")
+                        cont = false;
+                    
+                    if(ele.value == "Enter Location")
+                        cont = false;
+                    
+                    if(!cont)
+                        alert("Please enter a city, address, or landmark before searching.");
+                    
+                    return cont;
+                }
+               
+              function GlobalSubmitLocator(e)
+              {
+                var key;
 
+                if(window.event)
+                  key = window.event.keyCode;     //IE
+                else
+                  key = e.which;     //firefox
+
+                if (key == 13)
+                {
+                    GlobalInitializeMap();
+                }
+              }
+               
+                function GlobalInitializeMap()
+                {
+                    //validate the user input
+                    if(!GlobalValidateLocatorSearch())
+                        return;
+                    
+                    //first, check to see if the regular map exists on this page. If so, use it
+                    if(document.getElementById("locatorMap") != null)
+                        globalmap = new VEMap('locatorMap');
+                    else
+                        globalmap = new VEMap('globalMap');
+                        
+                    //map.SetDashboardSize(VEDashboardSize.Small);
+                    //IE has a bug and freaks out if you load too quickly
+                    //IE has bug when using VE JS includes. Without this timeout, you cannot ensure that it won't error out.
+                    self.setTimeout('GlobalFindStores();', 1000); 
+                }
+                
+                function GlobalFindStores()
+                { 
+                   globalmap.LoadMap();
+                  //we're already on the results page, now just drive with AJAX
+                    var where = document.getElementById("GlobalStoreSearchTxt").value;
+
+                    // New geocoder to handle ambiguous results.
+                    GlobalGeocodeHandleAmbigResults(where);    
+                }
+                
+                
+                // Geocodes an address.
+                function GlobalGeocodeHandleAmbigResults(where){
+                    
+                    try{
+                       
+                        globalmap.Find(
+                            null,           // what
+                            where,          // where
+                            null,           // find type
+                            null,           // shape layer
+                            null,           // start index
+                            null,           // number of results
+                            false,          // show results (show pushpins?)
+                            false,          // create results (create pushpins?)
+                            false,          // default disambig
+                            false,          // set best map view?
+                            onFoundResultsAmbigGlobal  // callback
+                        );
+                    }
+                    catch(error){
+                        alert("There was an error processing " + address + " : " + error.message);
+                    }
+                }
+
+                // Callback for geocode, handles ambiguous matches for simple/route geocodes.
+                function onFoundResultsAmbigGlobal(layer, results, places, hasmore){
+
+                    // Results null or empty.
+                    if ((places == null) || (typeof places == 'undefined') || places.length == 0){
+                        alert("No results found");
+                        return;
+                    }
+                    
+                    geocodeResults = places;
+                    
+                    // One result, proceed with find nearby of starbucks locations.
+                    if (places.length == 1){
+                        //fill hidden field with data
+                        var hdn = document.getElementById("hdnGlobalLocation");
+                        var where = document.getElementById("GlobalStoreSearchTxt").value;
+                        
+                        var dataString = escape(where) + "|" + 
+                        geocodeResults[0].LatLong.Latitude + "|" + 
+                        geocodeResults[0].LatLong.Longitude;
+                        
+                        hdn.value = dataString;
+                        
+                        //post form to locationResults
+                         var formActionFormatString = 'http://www.starbucks.com/Retail/Find/LocatorResults.aspx';
+                         formActionFormatString += '?fs=1&loc=' + dataString;
+                        document.forms[0].action = formActionFormatString;
+                        
+                        // Reset view state to avoid error.
+                        //if (window.location.pathname.toLowerCase().indexOf("locatorresults.aspx") == -1 )
+                            //document.forms[0].__VIEWSTATE.name = 'NOVIEWSTATE';
+                        
+                        // Re-set filters going to the results page.
+                        //document.forms[0].submit();
+                        window.location.href = formActionFormatString;
+                   }
+                    
+                    // Ambiguous results found, update panel.
+                    else{
+                        // fill ambigs with links to results page.
+                        var ambigHTML = "Did you mean... <br/><table class='copytext'>";
+                        
+                        // TODO: replace inline style with CSS styles.
+                        var formatString = "<tr><td style='vertical-align:top;'>{0}</td><td><a href='javascript: onFoundResultsHelperGlobal({1});'>{2}</a></td></tr>";
+                        for (var i = 0; i < places.length; i++){
+                            ambigHTML += formatString.replace("{0}", i+1).replace("{1}", i).replace("{2}", places[i].Name);
+                        }
+                        ambigHTML += "</table>";
+                        
+                        var ambigDiv = document.getElementById("globalAmbig");
+                        ambigDiv.innerHTML = ambigHTML;
+                        ambigDiv.style.display = "block";
+                    }
+                        
+                }
+                
+                function onFoundResultsHelperGlobal(index)
+                {
+                        //fill hidden field with data
+                        //post form to locationResults                    
+                        var hdn = document.getElementById("hdnGlobalLocation");
+                        var where = document.getElementById("GlobalStoreSearchTxt").value;
+                       
+                        var dataString = escape(where) + "|" + 
+                        geocodeResults[index].LatLong.Latitude + "|" + 
+                        geocodeResults[index].LatLong.Longitude;
+                        
+                        hdn.value = dataString;
+                        
+                          //post form to locationResults
+                          var formActionFormatString = 'http://www.starbucks.com/Retail/Find/LocatorResults.aspx';
+                         formActionFormatString += '?fs=1&loc=' + dataString;
+
+                        //var formActionFormatString = "LocatorResults.aspx?fs=1&loc=" + dataString;
+                        document.forms[0].action = formActionFormatString;
+                        
+                        // Reset view state to avoid error.
+                       /* if (window.location.pathname.toLowerCase().indexOf("locatorresults.aspx") == -1 )
+                        {
+                            document.forms[0].__VIEWSTATE.name = 'NOVIEWSTATE';
+                        }
+                        else
+                        {
+                            //we're on the locatorResults.aspx page, which means we need to clear our the values
+                            document.getElementById("StoreDisambigHdn").value = "";
+                            document.getElementById("EventDisambigHdn").value = "";
+                            document.getElementById("RouteDisambigHdn").value = "";
+                            stores = new EntityDict();
+                            events = new EntityDict();
+                            pushPins = new EntityDict();                            
+                      }*/
+                        
+                        // Re-set filters going to the results page.
+                       // document.forms[0].submit();
+                       window.location.href = formActionFormatString;
+              }
+                </script>
+				
+				<div id="globalMap" style="width: 400px; height: 400px; display:none"></div>		
+				
 <div id="WindowDiv" name="WindowDiv"> 
 	<div id="PageDiv" name="PageDiv">
 		<div id="PageLeft" name="PageLeft" class="pageLeft">
 				<div align="right"><a href="http://www.starbucks.com/default.asp"><img src="../images/logo_top.gif" alt="" width="215" height="162" border="0" style="display: block;"></a></div>
-				<!--?xml version="1.0" encoding="UTF-16"?--><script language="JScript">
+				<!--?xml version="1.0"?--><script language="JScript"> 
       function makeSbuxPopupWindow(page, intH, intW, intScroll) 
       {
         var win;  	
@@ -1042,29 +1248,81 @@ End Function
       		win.focus()
 	      }
       } 
-       </script><div class="SbuxNavContainer"><div class="Level1NavItem"><a href="https://www.starbucks.com/customer/account.asp" class="navLink">your account</a><img src="/images/space.gif" width="8px" border="0"></div><div class="Level1NavItem"><a href="http://www.starbucks.com/customer/default.asp" class="navLink">customer service</a><img src="/images/space.gif" width="8px" border="0"></div><div class="Level1NavSelectedItem">privacy statement<img src="/images/space.gif" width="3px" border="0"><img src="/images/nav_arrow.gif" width="5px" border="0"></div><div class="Level1NavItem"><a href="http://www.starbucks.com/customer/legal.asp" class="navLink">terms of use</a><img src="/images/space.gif" width="8px" border="0"></div></div>
+        </script><div class="SbuxNavContainer"><div class="Level1NavItem"><a href="https://www.starbucks.com/customer/account.asp" class="navLink">your account</a><img src="/images/space.gif" width="8px" border="0"></div><div class="Level1NavItem"><a href="http://www.starbucks.com/customer/default.asp" class="navLink">customer service</a><img src="/images/space.gif" width="8px" border="0"></div><div class="Level1NavSelectedItem">privacy statement<img src="/images/space.gif" width="3px" border="0"><img src="/images/nav_arrow.gif" width="5px" border="0"></div><div class="Level1NavItem"><a href="http://www.starbucks.com/customer/legal.asp" class="navLink">terms of use</a><img src="/images/space.gif" width="8px" border="0"></div></div>
 		</div>
 		<div id="PageCenter" name="PageCenter" class="pageCenter">
 			<div id="Header" name="Header" class="divHeader">
-				<div id="UtilityNav" name="UtilityNav" class="divUtilityNav">
-					<a href="http://www.starbucks.com/sitemap.asp">site map</a>
-					.
-					<a href="http://www.starbucks.com/retail/locator/">find a store</a>
-					.
-					<a href="http://www.starbucks.com/retail/nutrition_info.asp">nutrition</a>
-					.
-					<a href="javascript:makeDaughterWindow('http://www.starbucks.com/region.asp', 281, 555)">international</a>
-					.
-					<a href="http://www.starbucks.com/customer/">customer service</a>
-					.
-					<a href="http://www.starbucks.com/customer/hm_search.asp">search</a>
-					.
-					<a href="https://www.starbucks.com/customer/account.asp">your account</a>
+				
+				<div id="UtilityNav" name="UtilityNav" class="divUtilityNav" style="position:relative;left:50px;height:85px;text-align:left;float:left;">
+					            <a href="http://www.starbucks.com/sitemap.asp">site map</a>
+					            .
+					            <a href="http://www.starbucks.com/retail/nutrition_info.asp">nutrition</a>
+					            .
+					            <a href="javascript:makeDaughterWindowScroll('http://www.starbucks.com/region.asp', 288, 350)">international</a>
+					            .
+					            <a href="http://www.starbucks.com/customer/">customer service</a>
+					           . 
+					            <a href="http://www.starbucks.com/search/">search</a>
+					            .
+					            <a href="https://www.starbucks.com/customer/account.asp">your account</a>
+				    
+					            <span id="GlobalSearchDiv" style="position: absolute; left: 405px; height: 71px; width: 205px; display: block; top: 5px;">
+		                            
+		                            <table cellpadding="3" cellspacing="0" width="205px" style="background-image:url('../Images/nav_images/storeSearch_box.jpg');">
+		                                <tbody><tr>
+		                                    <td align="left" valign="middle" rowspan="2">
+		                                        <img height="65" alt="" src="../images/spacer.gif" width="1"><br>
+		                                    </td>
+		                                    <td align="left" valign="bottom" width="100"><div style="position:relative;">
+		                                        <span class="subheader">Store Locator</span><br>
+		                                        <input class="copytext" id="GlobalStoreSearchTxt" name="GlobalStoreSearchTxt" maxlength="150" value="Enter Location" onblur="GlobalSetLocatorDefault()" onfocus="GlobalClearLocatorDefault()" onkeypress="GlobalSubmitLocator(event)">
+            		                            
+                                                <div id="globalAmbig" class="copytext" style="border:solid 1px silver; background:white;position:absolute;top:32px;left:0px;font-family:Verdana; font-size:9px;color:#7F7F7F;height:100px;overflow-y:auto;overflow-x:hidden;width:120px;display:none;"></div>
+		                                    </div></td>
+		                                    <td align="left" valign="bottom">
+		                                        <img src="../images/btn_go_text.gif" onclick="GlobalInitializeMap()" onmouseover="this.style.cursor='pointer';" onmouseout="this.style.cursor='default';">
+		                                        <input type="hidden" name="hdnGlobalLocation" id="hdnGlobalLocation">
+		                                    </td>
+		                                </tr>
+		                                <tr>
+		                                    <td valign="top" align="right">
+		                                        <span class="copytext"><a style="text-decoration:none;" href="http://www.starbucks.com/Retail/Find/default.aspx">Advanced</a></span>
+		                                    </td>
+		                                    <td><br>
+		                                    </td>
+		                                </tr>
+		                            </tbody></table>
+		                            
+		                        </span>	
+		                        <span id="HideLocator" style="position: absolute; left: 405px; height: 71px; width: 205px; display: none; top: 5px;"><a href="http://www.starbucks.com/retail/locator/default.aspx"><img alt="Starbucks Store Locator" src="../Images/nav_images/storeSearch-IR.jpg" border="0"></a></span>
+            					
+                                <script language="javascript" type="text/javascript">
+                                //SNIFF FOR SAFARI
+
+                                var uagent = navigator.userAgent.toLowerCase();
+                                var appVer = navigator.appVersion.toLowerCase();
+                                var is_safari = ((uagent.indexOf('safari')!=-1)&&(uagent.indexOf('mac')!=-1))?true:false;
+
+                                if(!is_safari)
+                                {
+                                    //hide the locator quick search, replacing with the IR image
+                                    document.getElementById("HideLocator").style.display = "none";
+                                    document.getElementById("GlobalSearchDiv").style.display = "block";
+                                }
+                                
+                                </script>
+            					
+					            <!-- end locator quick search -->
+
+					
+					
+					
 				</div>
-				<img src="../images/spacer.gif" alt="" width="1" height="85"><br>
+				
 				<div id="TopNav" name="TopNav" class="divTopNav"><!-- line breaks in mid-tag prevent browser from adding space between images -->
-					<a href="http://www.starbucks.com/ourcoffees/" onmouseover="MM_swapImage('Nav1','','/images/nav_images/nav_coffees-over.gif',1)" onmouseout="MM_swapImage('Nav1','','/images/nav_images/nav_coffees.gif',1)"><img id="Nav1" name="Nav1" src="/images/nav_images/nav_coffees.gif" alt="our coffees" width="80" height="20" border="0"></a><a href="http://www.starbucks.com/retail/" onmouseover="MM_swapImage('Nav2','','/images/nav_images/nav_our_stores-over.gif',1)" onmouseout="MM_swapImage('Nav2','','/images/nav_images/nav_our_stores.gif',1)"><img id="Nav2" name="Nav2" src="/images/nav_images/nav_our_stores.gif" alt="our stores" width="79" height="20" border="0"></a><a href="http://www.starbucks.com/card/" onmouseover="MM_swapImage('Nav3','','/images/nav_images/nav_starbucks_card-over.gif',1)" onmouseout="MM_swapImage('Nav3','','/images/nav_images/nav_starbucks_card.gif',1)"><img id="Nav3" name="Nav3" src="/images/nav_images/nav_starbucks_card.gif" alt="starbucks card" width="112" height="20" border="0"></a><a href="http://www.starbucks.com/grocery/" onmouseover="MM_swapImage('Nav4','','/images/nav_images/nav_at_home-over.gif',1)" onmouseout="MM_swapImage('Nav4','','/images/nav_images/nav_at_home.gif',1)"><img id="Nav4" name="Nav4" src="/images/nav_images/nav_at_home.gif" alt="at home" width="65" height="20" border="0"></a><a href="http://www.starbucks.com/business/" onmouseover="MM_swapImage('Nav5','','/images/nav_images/nav_for_business-over.gif',1)" onmouseout="MM_swapImage('Nav5','','/images/nav_images/nav_for_business.gif',1)"><img id="Nav5" name="Nav5" src="/images/nav_images/nav_for_business.gif" alt="for business" width="95" height="20" border="0"></a><a href="http://www.starbucks.com/aboutus/" onmouseover="MM_swapImage('Nav6','','/images/nav_images/nav_about_us-over.gif',1)" onmouseout="MM_swapImage('Nav6','','/images/nav_images/nav_about_us.gif',1)"><img id="Nav6" name="Nav6" src="/images/nav_images/nav_about_us.gif" alt="about us" width="70" height="20" border="0"></a>
+					<a href="http://www.starbucks.com/ourcoffees/" onmouseover="MM_swapImage('Nav1','','/images/nav_images/nav_coffees-over.gif',1)" onmouseout="MM_swapImage('Nav1','','/images/nav_images/nav_coffees.gif',1)"><img id="Nav1" name="Nav1" src="/images/nav_images/nav_coffees.gif" alt="our coffees" width="80" height="20" border="0"></a><a href="http://www.starbucks.com/retail/" onmouseover="MM_swapImage('Nav2','','/images/nav_images/nav_our_stores-over.gif',1)" onmouseout="MM_swapImage('Nav2','','/images/nav_images/nav_our_stores.gif',1)"><img id="Nav2" name="Nav2" src="/images/nav_images/nav_our_stores.gif" alt="our stores" width="79" height="20" border="0"></a><a href="http://www.starbucks.com/card/" onmouseover="MM_swapImage('Nav3','','/images/nav_images/nav_starbucks_card-over.gif',1)" onmouseout="MM_swapImage('Nav3','','/images/nav_images/nav_starbucks_card.gif',1)"><img id="Nav3" name="Nav3" src="/images/nav_images/nav_starbucks_card.gif" alt="starbucks card" width="112" height="20" border="0"></a><a href="http://www.starbucks.com/grocery/" onmouseover="MM_swapImage('Nav4','','/images/nav_images/nav_at_home-over.gif',1)" onmouseout="MM_swapImage('Nav4','','/images/nav_images/nav_at_home.gif',1)"><img id="Nav4" name="Nav4" src="/images/nav_images/nav_at_home.gif" alt="at home" width="65" height="20" border="0"></a><a href="http://www.starbucks.com/business/" onmouseover="MM_swapImage('Nav5','','/images/nav_images/nav_for_business-over.gif',1)" onmouseout="MM_swapImage('Nav5','','/images/nav_images/nav_for_business.gif',1)"><img id="Nav5" name="Nav5" src="/images/nav_images/nav_for_business.gif" alt="for business" width="95" height="20" border="0"></a><a href="http://www.starbucks.com/aboutus/" onmouseover="MM_swapImage('Nav6','','/images/nav_images/nav_about_us-over.gif',1)" onmouseout="MM_swapImage('Nav6','','/images/nav_images/nav_about_us.gif',1)"><img id="Nav6" name="Nav6" src="/images/nav_images/nav_about_us.gif" alt="about us" width="70" height="20" border="0"></a><a href="http://www.starbucks.com/shoponline/" onmouseover="MM_swapImage('Nav7','','/images/nav_images/nav_shop_online-over.gif',1)" onmouseout="MM_swapImage('Nav7','','/images/nav_images/nav_shop_online.gif',1)"><img id="Nav7" name="Nav7" src="/images/nav_images/nav_shop_online.gif" alt="shop online" width="95" height="20" border="0"></a>
 				</div>
+				
 			</div>
 			<div id="ContentHeader" name="ContentHeader" class="divContentHeader"><img src="/images/headers/customer/privacy.gif" alt="" width="675" height="70" hspace="0" vspace="0"></div>
 			<div id="ContentContainer" name="ContentContainer">
@@ -1223,12 +1481,12 @@ End Function
 					<span style="line-height: 1px; padding: 0; margin: 0;"><img src="../images/spacer.gif" alt="" width="165" height="1" hspace="0" vspace="0" style="display: block;"></span>
 					
 <table cellpadding="0" cellspacing="0" border="0">
-<form action="http://www.starbucks.com/customer/search.asp" method="get"></form>
+<form action="http://www.starbucks.com/search/AllResults.aspx" method="post"></form>
     <tbody><tr>
         <td colspan="2"><img src="../images/space.gif" width="15" height="1" alt="" border="0"><img src="../images/text_search.gif" width="37" height="12" alt="" border="0"><img src="../images/space.gif" width="1" height="31" alt="" border="0"></td>
     </tr>
     <tr>
-        <td valign="top" width="100"><img src="../images/space.gif" width="15" height="1" alt="" align="left" hspace="0" border="0"><input type="text" name="keyword" value="" size="10" maxlength="60">&nbsp;</td>
+        <td valign="top" width="100"><img src="../images/space.gif" width="15" height="1" alt="" align="left" hspace="0" border="0"><input type="text" name="txtSearchKeyword" value="" size="10" maxlength="30">&nbsp;</td>
         <td width="15"><input type="image" name="btn_search" src="../images/btn_go_text.gif" height="16" width="37" border="0"></td>
     </tr>
 
@@ -1240,8 +1498,8 @@ End Function
 			</div>
 			<div id="Footer" name="Footer" class="divFooter">
 				
-	<span style="line-height: 1px; padding: 0; margin: 0;"><img src="../images/spacer.gif" alt="" width="675" height="1" hspace="0" vspace="0" style="display: block; background-color: #b16062;"></span>
-
+	<span style="line-height: 1px; padding: 0; margin: 0;"><img src="../images/spacer.gif" alt="" width="675" height="1" hspace="0" vspace="0" class="divFooterTopBorder"></span>
+	
 	<div id="CopyrightText" name="CopyrightText" class="divCopyright">
 		© 2007 Starbucks Corporation. All rights reserved.
 	</div>
@@ -1259,7 +1517,7 @@ End Function
 			</div>		
 		</div>
 	</div>
-</div>
+</div><br><br>
 	
 
 
