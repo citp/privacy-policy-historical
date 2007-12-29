@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the synology.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627162844id_/http%3A//www.synology.com/enu/privacy/index.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the synology.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229092308id_/http%3A//synology.com/enu/privacy/index.php) for the most accurate reproduction.*
 
 # Synology Inc. ::
 
@@ -60,7 +60,7 @@ Synology Inc. uses cookies on this Site to ensure the integrity of the registrat
 
 Enforcement of this Privacy Statement
 
-If you have questions regarding this statement, you should [contact](https://web.archive.org/web/20070627162844id_/http%3A//www.synology.com/enu/company/contact.php) Synology Inc. 
+If you have questions regarding this statement, you should [contact](https://web.archive.org/web/20071229092308id_/http%3A//synology.com/enu/company/contact.php) Synology Inc. 
 
 Changes to this Statement
 
