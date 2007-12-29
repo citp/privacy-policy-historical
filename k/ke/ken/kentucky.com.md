@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the kentucky.com privacy policy that was archived on 2007-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070327072358id_/http%3A//www.kentucky.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kentucky.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229044228id_/http%3A//www.kentucky.com/privacy) for the most accurate reproduction.*
 
-# Kentucky.com | Privacy Policy
-
-##### Effective Date: [date should be date posted on site].
+# Privacy Policy | www.kentucky.com
 
 The Lexington Herald Leader has a firm commitment to privacy. We take your privacy concerns seriously and want to make every effort to address them as we strive to offer our site visitors a high quality, interactive and personalized experience. That is why we have adopted the following policy, which explains our position on information gathering and how we intend to use and share any information we collect. It is important to note that this policy applies only to information collected by The Lexington Herald Leader and does not apply to information obtained or used by The The Lexington Herald Leader or its affiliates through other means.
 
