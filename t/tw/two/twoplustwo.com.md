@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the twoplustwo.com privacy policy that was archived on 2007-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070428053328id_/http%3A//twoplustwo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twoplustwo.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229130238id_/http%3A//twoplustwo.com/privacy.html) for the most accurate reproduction.*
 
 # Two Plus Two Publishing - Privacy Policy
 
-[](https://web.archive.org/bonus/)
+Be sure to read the   [Two Plus Two Internet Magazine.](https://web.archive.org/magazine/current/)
 
-Be sure to read the   [Two Plus Two Internet Magazine](https://web.archive.org/magazine/current/)
+Non U.S. players - find out how to [Get 5 Free Two Plus Two Books with our Poker Bonus.](http://www.twoplustwo.com/bonus/)
 
 ## Customer Privacy Policy
 
