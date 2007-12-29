@@ -1,23 +1,6 @@
-> *The following text is extracted and transformed from the keil.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617002814id_/http%3A//www.keil.com/company/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keil.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229224748id_/http%3A//www.keil.com/company/privacy.asp) for the most accurate reproduction.*
 
 # Keil Privacy Statement
-
-Company Information
-
-  *     *     *   *   *   *   * Privacy Statement
-
-
-
-
-Certifications
-
-  *   *   *   * 
-
-
-More Information
-
-  *   * 
-
 
 | 
 
@@ -139,7 +122,7 @@ The information you enter on this web site is used differently depending on the 
 
 #### Customer Database
 
-We maintain a customer database and from time-to-time send mail through the postal service to customers listed in this database. If you wish to be excluded from our mailings, please contact our [customer service department](https://web.archive.org/product/custserv.asp).
+We maintain a customer database and from time-to-time send mail through the postal service to customers listed in this database. If you wish to be excluded from our mailings, please contact our [customer service department](https://www.keil.com/product/custserv.asp).
 
 #### E-mail Addresses
 
@@ -203,18 +186,18 @@ From time-to-time our web site requests information via user surveys. Participat
 
 ### Correcting or Updating Personal Information
 
-If your personally identifiable information changes (such as your zip code), or if you no longer desire our service, we endeavor to provide a way to correct, update, or remove the personal data provided to us. Contact our [customer service department](https://web.archive.org/product/custserv.asp) to make changes to your personal information.
+If your personally identifiable information changes (such as your zip code), or if you no longer desire our service, we endeavor to provide a way to correct, update, or remove the personal data provided to us. Contact our [customer service department](https://www.keil.com/product/custserv.asp) to make changes to your personal information.
 
-We do not offer a way to retrieve the information you provide us on-line. However, you may use the [Customer Information Maintenance Form](https://web.archive.org/product/custserv.asp) to request a copy of your personal information.
+We do not offer a way to retrieve the information you provide us on-line. However, you may use the [Customer Information Maintenance Form](https://www.keil.com/product/custserv.asp) to request a copy of your personal information.
 
 ### Opting Out
 
 We want to give you every opportunity to opt-out of receiving undesired mailings or e-mail from us or from our partners.
 
   * You may [remove your e-mail address](https://web.archive.org/update/udremove.asp) from our Update List Server.
-  * You may [block the sharing of your information](https://web.archive.org/product/custserv.asp) with third parties.
-  * You may [remove or update your personal information](https://web.archive.org/product/custserv.asp) maintained in our customer database.
-  * Contact our [customer service department](https://web.archive.org/product/custserv.asp) for any other requests you may have.
+  * You may [block the sharing of your information](https://www.keil.com/product/custserv.asp) with third parties.
+  * You may [remove or update your personal information](https://www.keil.com/product/custserv.asp) maintained in our customer database.
+  * Contact our [customer service department](https://www.keil.com/product/custserv.asp) for any other requests you may have.
 
 
 
@@ -222,4 +205,4 @@ To remove your e-mail address from one of our list servers, follow the direction
 
 ### Notification of Changes
 
-If we decide to change our privacy policy, we will post those changes at <http://www.keil.com/company/privacy_changes.asp> so you are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by e-mail. You will have a choice as to whether or not we may use your information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
+If we decide to change our privacy policy, we will post those changes at [http://www.keil.com/company/privacy_changes.asp](https://web.archive.org/company/privacy_changes.asp) so you are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by e-mail. You will have a choice as to whether or not we may use your information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
