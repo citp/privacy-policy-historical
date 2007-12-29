@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4checks.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630020818id_/http%3A//www.4checks.com/static/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4checks.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229061306id_/http%3A//www.4checks.com/static/privacy.asp) for the most accurate reproduction.*
 
 # Personal bank checks, order checks online, large check design selection - 4checks.com
 
