@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the depotnet.com privacy policy that was archived on 2007-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070401184313id_/http%3A//www.depotnet.com/content/site/node/9) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the depotnet.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229144740id_/http%3A//www.depotnet.com/content/site/node/9) for the most accurate reproduction.*
 
 # Privacy Policy | DepotNet
 
