@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blazingvids.com privacy policy that was archived on 2007-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070502145045id_/http%3A//blazingvids.com/info.privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blazingvids.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229084421id_/http%3A//blazingvids.com/info/privacy) for the most accurate reproduction.*
 
 # Blazing Vids : privacy policy
 
