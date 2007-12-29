@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the barbri.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623181008id_/http%3A//www.barbri.com/app.aspx%3Fcmd%3Dgo_PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barbri.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229122705id_/http%3A//barbri.com/app.aspx%3Fcmd%3Dgo_PrivacyPolicy) for the most accurate reproduction.*
 
 # Barbri Bar Review
 
