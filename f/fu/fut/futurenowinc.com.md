@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the futurenowinc.com privacy policy that was archived on 2007-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070403205249id_/http%3A//www.futurenowinc.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the futurenowinc.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229050205id_/http%3A//www.futurenowinc.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy of Future Now Inc and GrokDotCom
 
@@ -19,12 +19,14 @@ Individuals must affirmatively ask to join our mailing lists using the forms pro
 **Unsubscribe Policy  
 **We strive to only send e-mail to those who want to receive it. If you would not like to receive future e-mails from us, reply to any email with **UNSUBSCRIBE** as the subject.
 
-[](https://web.archive.org/web/20070403205249id_/http%3A//www.futurenowinc.com/contactus.htm)
+[](https://web.archive.org/web/20071229050205id_/http%3A//www.futurenowinc.com/contactus.htm)
 
   
-Online Conversion Rate Marketing Newsletter: 
+Marketing Optimization Blog: 
 
 [](http://www.grokdotcom.com/subscribe-to-grokdotcom-content/)
+
+[](http://www.futurenowinc.com/landingpagetesting.htm)
 
   * Cardscan
   * ProFlowers
