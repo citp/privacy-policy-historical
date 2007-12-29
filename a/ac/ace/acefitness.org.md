@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the acefitness.org privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613023228id_/http%3A//www.acefitness.org/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acefitness.org privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229061601id_/http%3A//www.acefitness.org/privacy.aspx) for the most accurate reproduction.*
 
 # ACE Privacy Policy
 
 **Introduction**
 
-Thank you for visiting the American Council on Exercise ("ACE") web site. ACE is committed to providing our visitors with content and services characterized by outstanding quality and customer service. Because the Internet is an evolving medium, ACE reserves the right to change this Privacy Policy. Please check for updates regularly. Your continued use of the site or any of the services offered herein following any such change will constitute your acceptance of all changes. In addition, by visiting any of our sites, you agree that your visit, and any dispute over privacy, is governed by this Privacy Policy and our Terms of Use. Please read both carefully before using our site. 
+Thank you for visiting the American Council on Exercise (“ACE”) web site (the “Site”). ACE is committed to providing our visitors with content and services characterized by outstanding quality and customer service. Because the Internet is an evolving medium, ACE reserves the right to change this Privacy Policy at any time. Please check for updates regularly. Your continued use of the Site or any of the services offered herein following any such change will constitute your acceptance of all changes. In addition, by visiting the Site or any of our other web sites, you agree that your visit, and any dispute over privacy, is governed by this Privacy Policy and our Terms and Conditions. Please read both carefully before using the Site. 
 
 **Our Commitment To Privacy**
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find and we make it available on every page of our web site. 
+Your privacy is important to us.  To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used.  To make this notice easy to find and we make it available on every page of our Site. 
 
 **The Information We Collect:**
 
-We will request only the information we need in order to provide the highest level of service to you. On some pages of the web site, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages include: 
+We will request only the information we need in order to provide the highest level of service to you. On some pages of the Site, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages include: 
 
 Name   
 Address   
@@ -22,15 +22,15 @@ Email address
 Credit/Debit Card Information
 
 
-Our web site logs IP addresses and browser types for the purposes of system administration and user functionality. These logs will be analyzed to improve the value of the materials available on our website. While user sessions are tracked, users remain anonymous. We do not link IP addresses to any personally identifiable information. We use non-identifying and aggregate information to better design our website. 
+Our Site logs IP addresses and browser types for the purposes of system administration and user functionality. These logs will be analyzed to improve the value of the materials available on our website. While user sessions are tracked, users remain anonymous. We do not link IP addresses to any personally identifiable information. We use non-identifying and aggregate information to better design our website. 
 
 **How We Use Information:**
 
 We use the information you provide about yourself or someone else when placing an order or making a request only to the extent necessary to complete that order or request. 
 
-We will not sell your email address or any other personal information. From time to time, we may send information about our services to the email or mailing address provided by you. We may lease your mailing address to organizations that share our mission and meet our criteria and standards of excellence. As an email recipient, your email address is confidential. The sender is always identified and the sender's return email address is disclosed. This policy promotes responsible use of email and directs you to the right source if you feel that you are receiving inappropriate messages. 
+We will not sell your email address or any other personal information. From time to time, we may send information about our services to the email or mailing address provided by you. We may lease your mailing address to organizations that share our mission and meet our criteria and standards of excellence. As an email recipient, your email address is confidential. When an email message is sent to you, the sender does not see your name or email address. The sender of a message however is always identified and the sender's return email address is disclosed. This policy promotes responsible use of email and directs you to the right source if you feel that you are receiving inappropriate messages. 
 
-To be removed from receiving any mailings, you may contact our customer service department at [support@ACEfitness.org](mailto:support@ACEfitness.org) or 1-888-825-3636. Unless we think that such action is necessary to comply with the law or legal process or to protect the interests of ACE or others, we will not release personal information about you without your consent. 
+To be removed from receiving any mailings, you may contact our customer service department at **[support@ACEfitness.org](mailto:support@acefitness.org)** or (800) 825-3636. Unless we think that such action is necessary to comply with the law or legal process or to protect the interests of ACE or others, we will not release personal information about you without your consent. 
 
 **Rules for Submissions and Messages**
 
@@ -46,12 +46,12 @@ ACE may link to other web sites. These sites may collect user information or sol
 
 **Our Commitment To Children's Privacy:**
 
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13. 
+Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our Site is structured to attract anyone under 13. 
 
 **How To Access Or Correct Your Information**
 
-You may access or correct your personally identifiable information that we maintain by contacting our customer service department at [support@ACEfitness.org](mailto:support@ACEfitness.org) or by visiting the ACE store and clicking on "My Account". To better protect your privacy and security, your email address must match the email address used to establish your account. We use this procedure to better safeguard your information. If you have any questions you may contact our customer service by phone at 1-888-825-3636. 
+You may access or correct your personally identifiable information that we maintain by contacting our customer service department at **[support@ACEfitness.org](mailto:support@acefitness.org)** or by visiting the ACE store and clicking on My Account. To better protect your privacy and security, your email address must match the email address used to establish your account. We use this procedure to better safeguard your information. If you have any questions you may contact our customer service by phone at (800) 825-3636. 
 
 **How To Contact Us**
 
-Should you have any other questions or concerns about this privacy policy please call us at 1-888-825-3636 or send us an email at [support@ACEfitness.org](mailto:support@ACEfitness.org).
+Should you have any other questions or concerns about this privacy policy please call us at (800) 825-3636 or send us an email at **[support@ACEfitness.org](mailto:support@acefitness.org)**.
