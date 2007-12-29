@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bytescout.com privacy policy that was archived on 2007-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070626212200id_/http%3A//bytescout.com/privacy_statement.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bytescout.com privacy policy that was archived on 2007-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071229100309id_/http%3A//bytescout.com/privacy_statement.html) for the most accurate reproduction.-->
 
 <html><head>
 <title>ByteScout.Com Privacy Statement</title>
@@ -8,6 +8,39 @@
 <meta name="description" content="ByteScout.com privacy statement"><link rel="stylesheet" href="mainstyles.css" type="text/css">
 </head>
 <body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" style="margin:0px;padding:0px ">
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+window.onload = setLinkBehaviours;
+
+function formatLink(link)
+{
+  var res;
+  var re = /http:\/\/(.*)/ig;
+  res = link.replace(re, "$1");
+  re = /\//g;
+  return res.replace(re, "_");
+}
+
+function setLinkBehaviours()
+{
+    var Links = document.getElementsByTagName( 'A' );
+    for( var i = 0; i < Links.length; i++ )
+    {
+        Links[i].onclick = function() {
+            if(this.href.indexOf(".htm")==-1 && (this.href.indexOf(".exe")>=0 || this.href.indexOf(".zip")>=0 || this.href.indexOf(".png")>=0 || this.href.indexOf(".jpg")>=0 || this.href.indexOf(".pdf")>=0 || this.href.indexOf(".swf")>=0 || this.href.indexOf(".xls")>=0))
+            {
+                urchinTracker("/" + formatLink( this.href));
+            }
+	    else if((this.href.indexOf("bytescout.com")==-1) && (this.href.indexOf("javascript:")==-1)){
+                	urchinTracker("/out/" + formatLink( this.href));			
+		 }
+        }
+    }
+}
+_uacct = "UA-96647-1";
+urchinTracker();
+</script>
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
   <tbody><tr> 
     <td> 
@@ -228,60 +261,40 @@
                     </tr>
                     <tr> 
                       <td valign="top" background="images/table-2_11.jpg" width="216" height="174"> 
-                        <form method="POST" action="cgi-bin/contact.pl">
-                          <table width="100%" border="0" cellspacing="0" cellpadding="0">
-                            <tbody><tr> 
-                              <td valign="top" height="200"> 
-                                <div style="padding-left:10"> 
-                                  <input value="Name..." type="text" name="name" size="10" maxlength="100" class="textblack" style="width:90px ">
-                                  <input name="email" value="Email..." type="text" size="10" maxlength="100" class="textblack" style="width:90px ">
-                                  <br>
-                                </div>
-                                <div style="padding-left:10; padding-top:5 "> 
-                                  <select name="type" style="width:188px " class="textblack" size="1">
-                                    <option value="Sales Question">Sales Question</option>
-                                    <option value="Information Request">Information 
-                                    Request</option>
-                                    <option value="Press Request">Press Request</option>
-                                    <option value="Other">Other</option>
-                                  </select>
-                                </div>
-                                <div style="padding-left:10"> 
-                                  <textarea name="message" cols="5" rows="15" style="width:187" class="textblack"></textarea>
+                                                        <div style="padding-left:10"> 
+<font class="textblack">								
+                          <p>Contact us:</p>
+						  <ul>
+                          <li><a href="http://bytescout.com/support/index.php?_m=tickets&amp;_a=submit&amp;step=1&amp;departmentid=2" style="color:#4687B6;text-decoration:none ">General 
+                            Questions</a></li>
+                          <li> <a href="http://bytescout.com/support/index.php?_m=tickets&amp;_a=submit&amp;step=1&amp;departmentid=1" style="color:#4687B6;text-decoration:none ">Sales 
+                            Questions</a></li>
+                          <li><a href="http://bytescout.com/support/index.php?_m=tickets&amp;_a=submit&amp;step=1&amp;departmentid=3" style="color:#4687B6;text-decoration:none ">Press 
+                            Relations Department</a></li>
+                        </ul>
+						</font>
+						
+					<p><font class="textblack">Contact us via e-mail:<br>
+						<br>
+<a onmouseover="email = new Array('s','u','p','p','o','r','t','@','b','y','t','e','s','c','o','u','t','.','c','o','m','?','s','u','b','j','e','c','t','=','[','Q','u','e','s','t','i','o','n',']');this.href='mailto:';for(i=0;i<email.length;i++){this.href+=email[i]}" href="blockme@relays.osirusoft.com"><script>text = new Array('s','u','p','p','o','r','t','@','b','y','t','e','s','c','o','u','t','.','c','o','m');for(i=0;i<text.length;i++) {document.write(text[i])}</script>support@bytescout.com</a>
+					</font>
+					</p>
+					<font class="textblack">
+						<strong>IMPORTANT:</strong>
+						
+						When you send us e-mail then confirmation will be sent to you via email 
+                            within next 10-20 minutes. Sometime emails may be 
+                            caught by your "Spam Protection" tool, or 
+                            may be automatically sent to your "Junk" 
+                            folder, please be sure to check those locations if 
+                            you don't receive the confirmation.<p></p>
+                          <p>To manage your previously submitted tickets 
+                            please <a href="http://bytescout.com/support/">login 
+                            here</a></p>
+                          						
+						</font>
                                 </div>
 
-                                    <!-- spam protection number - begin -->
-									<div style="padding-left:10; padding-top:5 "> 
-                                      <font class="textblack"><strong>AntiSPAM 
-                                      protection, </strong><br>
-                                      Please Enter <br><b><font size="+2"> 
-                                      <!-- spm_inlcude.ssi - BEGIN -->
-									  
-<script language="JavaScript" type="text/JavaScript">
-var kl_number = 19; var l_b = 5; var h_b = 12;
-var myinteger = 15+kl_number*(l_b+Math.floor(Math.random()*(h_b-l_b))); 
-var mys1 = myinteger;document.write(mys1);
-</script>148
-<noscript>
-PLEASE ENABLE JAVASCRIPT TO ENABLE ANTI-SPAM PROTECTION 
-</noscript>
-                                      <!-- spm_inlcude.ssi  - END -->													  
-                                      </font></b></font> 
-                                      <input type="text" name="aspm" maxlength="10" class="textblack" value="" style="width:60px">									
-									</div>	
-                                    <!-- spam protection number - end -->																	
-
-                              </td>
-                            </tr>
-                            <tr> 
-                              <td valign="top"> 
-                                <div style="padding-left:155"> 
-                                  <input type="image" src="images/submit_77.jpg" border="0" value="send" align="top">
-                                </div>
-                              </td>
-                            </tr>
-                          </tbody></table>
-                        </form>
                       </td>
                     </tr>
                     <tr> 
@@ -306,7 +319,7 @@ PLEASE ENABLE JAVASCRIPT TO ENABLE ANTI-SPAM PROTECTION
                 </td>
               </tr>
               <tr> 
-                <td height="100%"> 
+                <td height="100%" valign="top"> 
                   <table width="337" height="100%" border="0" cellpadding="0" cellspacing="0">
                     <tbody><tr> 
                       <td background="images/table-4_16.jpg" height="96" class="textblack" valign="top"> 
@@ -335,14 +348,17 @@ PLEASE ENABLE JAVASCRIPT TO ENABLE ANTI-SPAM PROTECTION
                           about our visitors. This information is not linked to 
                           individual visitors.</p>
                         <p><b>Order Forms</b><br>
-                          ByteScout Software Development has partnered with <a href="http://www.swreg.org" style="color:#4687B6;text-decoration:none "><font class="textblue1">SWREG</font></a> 
-                          and <a href="http://www.shareit.com/" style="text-decoration:none" class="textblue1">Share-It</a> 
-                          to accept your orders. Both <a href="http://www.swreg.org" style="color:#4687B6;text-decoration:none "><font class="textblue1">SWREG</font></a> 
-                          and <a href="http://www.shareit.com/" style="text-decoration:none" class="textblue1">Share-It</a> 
+                          ByteScout Software Development has partnered with <a href="http://www.regnow.com" style="color:#4687B6;text-decoration:none "><font class="textblue1">Plimus, 
+                          Regnow</font></a> <a href="http://www.plimus.com" style="color:#4687B6;text-decoration:none "><font class="textblue1"> 
+                          </font></a>and <a href="http://www.shareit.com/" style="text-decoration:none" class="textblue1">Share-It</a> 
+                          to accept your orders. Both <a href="http://www.regnow.com" style="color:#4687B6;text-decoration:none "><font class="textblue1">Plimus, 
+                          Regnow</font></a> <a href="http://www.plimus.com" style="color:#4687B6;text-decoration:none "><font class="textblue1"> 
+                          </font></a>and <a href="http://www.shareit.com/" style="text-decoration:none" class="textblue1">Share-It</a> 
                           provide secure order forms for you to buy our products. 
-                          When you place an order, <a href="http://www.swreg.org" style="color:#4687B6;text-decoration:none "><font class="textblue1">SWREG</font></a> 
-                          (or <a href="http://www.shareit.com/" style="text-decoration:none" class="textblue1">Share-It</a> 
-                          ) collects contact information (like your email address), 
+                          When you place an order, <a href="http://www.regnow.com" style="color:#4687B6;text-decoration:none "><font class="textblue1">Plimus, 
+                          Regnow</font></a> <a href="http://www.plimus.com" style="color:#4687B6;text-decoration:none "><font class="textblue1"> 
+                          </font></a>or <a href="http://www.shareit.com/" style="text-decoration:none" class="textblue1">Share-It</a> 
+                          collects contact information (like your email address), 
                           and financial information (like your credit card number). 
                           Contact information from the order forms is used only 
                           to get in touch with you when necessary. This includes 
@@ -435,9 +451,20 @@ PLEASE ENABLE JAVASCRIPT TO ENABLE ANTI-SPAM PROTECTION
                               
 <div style="padding-left:5;padding-right:10 "> 
   <p>
+    <font class="textblack"><a href="files/FormFiller.exe" style="color:#4687B6;text-decoration:none " title="Download Bytescout Form Filler (direct download link)"> 
+	<img src="images/disk_small_ico.gif" vspace="0" border="0" width="14" height="14"></a> 
+    </font>
+
+	<a href="buy/formfiller.html" style="color:#4687B6;text-decoration:none " title="Buy Bytescout Form Filler"> 
+    <img src="images/cart_ico.gif" vspace="0" border="0" width="18" height="18"></a>	
+
+
+    <font class="textblue1">Form Filler</font>
+	<br>
+	
     <font class="textblack"><a href="files/MoviesExtractorScout.exe" style="color:#4687B6;text-decoration:none " title="Download Movies Extractor Scout Free Trial (direct download link)"> 
 	<img src="images/disk_small_ico.gif" vspace="0" border="0" width="14" height="14"></a> 
-    </font> <a href="buy/moviesextractorscout.html" style="color:#4687B6;text-decoration:none " title="Buy Movies Extractor Scout at $14.95 USD"> 
+    </font> <a href="buy/moviesextractorscout.html" style="color:#4687B6;text-decoration:none " title="Buy Movies Extractor Scout at $19 USD"> 
     <img src="images/cart_ico.gif" vspace="0" border="0" width="18" height="18">	
     <font class="textblue1">Movies Extractor Scout</font></a><br>
 	
@@ -535,13 +562,23 @@ PLEASE ENABLE JAVASCRIPT TO ENABLE ANTI-SPAM PROTECTION
 	
     <font class="textblack"><a href="files/PDFDocScout.exe" style="color:#4687B6;text-decoration:none " title="Download PDFDoc Scout library Free Trial (direct download link)"> 
     <img src="images/disk_small_ico.gif" vspace="0" border="0" width="14" height="14"></a> 
-    </font> <a href="purchase.html#pdfdocscout" style="color:#4687B6;text-decoration:none " title="Click to see licensing options for PDFDoc Scout library (starting at $299 USD)"> 
+    </font> <a href="purchase_pdfdocscout.html" style="color:#4687B6;text-decoration:none " title="Click to see licensing options for PDFDoc Scout library (starting at $299 USD)"> 
     <img src="images/cart_ico.gif" vspace="0" border="0" width="18" height="18">	
     <font class="textblue1">PDFDoc Scout library</font> </a> <br>
+		
+    <font class="textblack"><a href="files/BytescoutPDF.exe" style="color:#4687B6;text-decoration:none " title="Download Bytescout.PDF library for .NET Free Trial (direct download link)"> 
+    <img src="images/disk_small_ico.gif" vspace="0" border="0" width="14" height="14"></a> 
+    </font> <a href="purchase_bytescoutpdf.html" style="color:#4687B6;text-decoration:none " title="Click to see licensing options for Bytescout.PDF library"> 
+    <img src="images/cart_ico.gif" vspace="0" border="0" width="18" height="18">	
+    <font class="textblue1">Bytescout.PDF library for .NET</font> </a> <br>
 	
-    <font class="textblack"><a href="academic_discount_request.html"><font color="#FF0000">how 
-    to apply discount for academic users</font></a></font>	
-	</p>
+    <font class="textblack"><a href="files/BytescoutXLS.exe" style="color:#4687B6;text-decoration:none " title="Download Bytescout.XLS library Free Trial (direct download link)"> 
+    <img src="images/disk_small_ico.gif" vspace="0" border="0" width="14" height="14"></a> 
+    </font> <a href="purchase_bytescoutxls.html" style="color:#4687B6;text-decoration:none " title="Click to see licensing options for Bytescout.XLS library (starting at $195 USD)"> 
+    <img src="images/cart_ico.gif" vspace="0" border="0" width="18" height="18">	
+    <font class="textblue1">Bytescout.XLS library for .NET</font> </a> <br>	
+		
+    <font color="#FF0000" class="textblack"><a href="academic_discount_request.html">how to apply discount for academic users</a></font> </p>
   </div>
 
                             </td>
@@ -661,11 +698,6 @@ PLEASE ENABLE JAVASCRIPT TO ENABLE ANTI-SPAM PROTECTION
     </td>
   </tr>
 </tbody></table>
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
-<script type="text/javascript">
-_uacct = "UA-96647-1";
-urchinTracker();
-</script>
+
 
 </body></html>
