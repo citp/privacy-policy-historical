@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ssww.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627030903id_/http%3A//www.ssww.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ssww.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229014755id_/http%3A//www.ssww.com/privacy) for the most accurate reproduction.*
 
 # Your Privacy & Security : S&S Worldwide
 
@@ -6,23 +6,11 @@ Web Favorites
 
 Shop By Category
 
-Help and Info
-
-[](https://web.archive.org/pages/?page_id=560)
-
-Refer-A-Friend
-
-Your Email Here:  
-
-
-Friend's Email Here:  
-
-
 Our Customers Say
 
-"I can honestly say group packs are awesome. They are complete, contain easy-to-follow instructions and kids of all ages enjoy them. The Color Splash! Paints are incredible and very versatile. We thoroughly enjoy it all!"
+"I love S&S®! We have been purchasing all of our colored paper, paint, and class packs from S&S® for over 20 years. Their products, delivery time, and customer service have always been exceptional. S&S® pricing is highly competitive. Colorsplash! paint and construction paper have been a favorite here. The colors are consistently bright and vivid."
 
-Debbie B.
+Marjorie G.
 
 "Your craft kits are a lifesaver for my programs!"
 
