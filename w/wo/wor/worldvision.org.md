@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldvision.org privacy policy that was archived on 2007-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070217092047id_/http%3A//www.worldvision.org/worldvision/comms2.nsf/stable/privacy%3FOpen%26lid%3Dprivacy%26lpos%3Dbotnav) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldvision.org privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229073513id_/http%3A//www.worldvision.org/worldvision/comms2.nsf/stable/privacy%3FOpen%26lid%3D205%26lpos%3Dbot_txt_Privacy) for the most accurate reproduction.*
 
 # Privacy Policy Statement for World Vision United States on the Web
 
@@ -12,8 +12,6 @@ We are committed to the highest standard of stewardship excellence. We will exer
 
 As with most other Internet sites, our web servers utilize “cookies” to track a user’s activity within our site as well as record the IP address of each visitor to this site. A cookie is a small data file that is stored on your computer. A cookie contains a unique identifying feature that allows our computer to recognize you when you return to the World Vision site. The recorded IP address tells us which domain you visited from (for instance, aol.com), but not your email address or other private and personal information. We use the information we record to help diagnose problems with our servers, to administer this website more effectively, and to gather broad demographic information about what countries and domains our visitors hail from and their behavior on our site. 
 
-Those who choose to register through various "guestbook"-type features on our site may choose to give us certain contact information (such as their email address). These features may also request optional demographic information (such as zip code, age, or income level). Unless you "optout," we may use this contact information to send you additional information about World Vision and its programs. Your voluntarily provided contact information may also be used to contact you when necessary in order to resolve customer service issues or questions. You may readily opt-out of receiving future communications; see the Opt-Out and Modifying Your Information sections below.
-
 In some cases our site uses securely encrypted contribution response forms for visitors who choose to use these forms to provide information, request information, and make donations. We collect your willingly submitted contact information (such as your email address), unique identifiers (in some cases, a World Vision donor account number), and financial information (such as a credit card type, number, and expiration date). Contact information from these response forms is used to process donations, provide receipts and other information about World Vision to our customers. The visitor's contact information is also used to get in touch with the visitor when necessary in order to resolve customer service issues or questions. Users may readily opt-out of receiving future communications; see the Opt-Out and Modifying Your Information" sections below. Financial information that is collected is used to bill the user for donations pledged. Unique identifiers (such as a World Vision account number) may be collected from website visitors to assist in matching current donation information with donor history in our record systems.
 
 Those who choose to register through various "guestbook"-type features on our site may choose to give us certain contact information (such as their email address). These features may also request optional demographic information (such as zip code, age, or income level). Unless you "opt out," we may use this contact information to send you additional information about World Vision and its programs. Your voluntarily provided contact information may also be used to contact you when necessary in order to resolve customer service issues or questions. You may readily opt-out of receiving future communications; see the 
@@ -25,16 +23,6 @@ and
 _"modifying your information"_
 
 sections below.
-
-In some cases our site uses securely encrypted contribution response forms for visitors who choose to use these forms to provide information, request information, and make donations. We collect your willingly submitted contact information (such as your email address), unique identifiers (in some cases, a World Vision donor account number), and financial information (such as a credit card type, number, and expiration date). Contact information from these response forms is used to process donations, provide receipts and other information about World Vision to our customers. The visitor's contact information is also used to get in touch with the visitor when necessary in order to resolve customer service issues or questions. Users may readily opt-out of receiving future communications; see the 
-
-_"opt-out"_
-
-and 
-
-_"modifying your information"_
-
-sections below. Financial information that is collected is used to bill the user for donations pledged. Unique identifiers (such as a World Vision account number) may be collected from Web site visitors to assist in matching current donation information with donor history in our record systems.
 
 Our online surveys may ask visitors for contact information (such as their email address) as well as a variety of demographic and practical questions. We may use contact data from our surveys to send the user information about World Vision. The user's contact information may also be used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the 
 
@@ -74,8 +62,8 @@ When contacting us to change your status, be sure to include any information tha
 We reserve the right to make changes to this privacy policy without advance notice. Notice of these changes to this policy will be posted to the homepage for this Web site ([ _http://www.worldvision.org_](http://www.worldvision.org/) ) for a period of three days. Minor changes to this policy (address information only) were last made on July 21, 2006.  
 **Contacting the Web Site**  
   
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:Kile Rury  
-Internet Operations Manager  
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:Skip Stocks  
+Director of Interactive Production and Design  
 World Vision Inc., mail stop 224  
 P.O. Box 9716  
 Federal Way, WA 98063-9716  
