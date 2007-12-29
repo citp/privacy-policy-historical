@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the urb.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630164636id_/http%3A//urb.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urb.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229115635id_/http%3A//www.urb.com/privacy.php) for the most accurate reproduction.*
 
-# URB Magazine
+# URB Magazine :: Fresh Noise Daily
 
 URB Magazine and its parent company (NativeSon Media, Inc.) recognizes the importance of protecting the privacy of all information provided by users of www.urb.com. We created the following policy guidelines with a fundamental respect for our users' right to privacy and because we value our relationships with our users. 
 
