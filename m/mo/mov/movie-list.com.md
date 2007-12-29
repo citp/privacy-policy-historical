@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the movie-list.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429184431id_/http%3A//www.movie-list.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movie-list.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229224515id_/http%3A//www.movie-list.com/privacy.shtml) for the most accurate reproduction.*
 
 # Movie-List - Privacy Statement
 
@@ -10,7 +10,7 @@ Movie-List has created this privacy statement in order to demonstrate our firm c
 
 We use your IP address to help diagnose and fix problems with our server, and to administer our Web site. 
 
-We also run contests, in which we ask visitors for contact information (like their name and mailing address). This information if used to deliver prizes and avoid multiple entries. 
+We also run contests, in which we ask visitors for contact information (like their name and mailing address). This information is used to deliver prizes and avoid multiple entries. 
 
 **Names, email addresses and mailing addresses are **never** disclosed to third parties.**
 
@@ -26,5 +26,5 @@ This site contains links to other sites. **Movie-List** is not responsible for t
 
 ## Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact Jean-Pierre Bazinet 16 Rosegarden Cres. Ottawa, Ontario K1T 3B2 Canada   
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact Movie-List.com 419 Sandhamn Pvt. Ottawa, Ontario K1T 2Z3 Canada   
 [feedback@movie-list.com](mailto:feedback@movie-list.com)
