@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the powerdatarecovery.com privacy policy that was archived on 2007-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070513070427id_/http%3A//www.powerdatarecovery.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerdatarecovery.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229204217id_/http%3A//www.powerdatarecovery.com/privacy.htm) for the most accurate reproduction.*
 
-# Professional Data Recovery Software from MT Solution. File Recovery & Undelete Software
+# Privacy Policy - MT Solution Data Recovery | Photo Recovery | CD DVD Recovery
 
 |  |  | 
 
