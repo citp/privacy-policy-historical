@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the efaucets.com privacy policy that was archived on 2007-06-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070608205225id_/http%3A//www.efaucets.com/privacypolicy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the efaucets.com privacy policy that was archived on 2007-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071229033739id_/http%3A//www.efaucets.com/privacypolicy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html dir="ltr" lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
@@ -11,6 +11,17 @@
 </head>
 
 <body marginwidth="0" marginheight="0">
+<!-- BEGIN COREMETRICS SUPPORT -->
+<script language="javascript1.1" src="/coremetrics/v40/eluminate.js" type="text/javascript">
+</script>
+<script language="javascript1.1" src="/coremetrics/cmdatatagutils.js" type="text/javascript">
+</script>
+<script language="javascript1.1" type="text/javascript">
+	cmSetProduction();
+	cmCreatePageviewTag("Privacy", "1020", null);
+
+</script>
+<!-- END COREMETRICS -->
 <!-- header_start //-->
 
 <script language="JavaScript" type="text/javascript"><!--
@@ -33,15 +44,26 @@ function myopen(filename,windowname,properties) {
 <script language="JavaScript">
 <!--
 	function CheckFields(){
-		Search = document.SearchBox2.txtsearchParamTxt.value;
+		Search = document.getElementById("topsearch").value
 						
 			if (Search == ""){
 				alert("Oops! Please enter in a model number, part number or keywords to begin searching.")
 				return false;
 				}
+				if (Search.length < 3){
+					alert("Please Enter a Search String Longer Than 3 Characters Long")
+				return false;
+				}
 	}
 	//-->
 </script>
+
+
+
+<link rel="shortcut icon" href="/images/efaucets.ico" type="image/x-icon">
+
+
+
 <table align="center" cellspacing="0" cellpadding="0" width="740" bgcolor="#ffffff" border="0" bordercolor="#111111">
 	<tbody><tr>
     <td nowrap="" width="740" colspan="3" height="6"><img height="1" alt="" src="/navimages/spacer.gif" width="1" border="0"></td></tr>
@@ -77,15 +99,14 @@ function myopen(filename,windowname,properties) {
 			<table border="0" cellpadding="0" cellspacing="0" id="table3" width="238">
 			<tbody><tr>
 				<td width="173"><font class="search" size="1" face="arial" color="666666">
-				<form name="SearchBox2" onsubmit="return CheckFields();" method="get" action="/search_results.asp">
+				<form name="searchform" onsubmit="return CheckFields();" method="get" action="http://faucets.efaucets.com/search">
     <input type="hidden" name="iLevel" value="1">
     <input type="hidden" name="txtsearchParamCat" value="ALL">
     <input type="hidden" name="txtsearchParamMan" value="ALL">
     <input type="hidden" name="txtsearchParamVen" value="ALL">
     <input type="hidden" name="txtsearchParamType" value="ALL">
-    <input type="hidden" name="hotwordredirect" value="true">
     <input type="hidden" name="txtFromSearch" value="fromSearch">
-    <input size="26" maxlength="30" name="txtsearchParamTxt" onfocus="javascript:if(value=='keyword or model #'){this.value='';}" value="keyword or model #" class="formtext" onsubmit="return CheckFields();"></form></font></td>
+    <input size="26" maxlength="50" name="w" id="topsearch" type="text" onfocus="javascript:if(value=='Enter Keyword or Part #'){this.value='';}" value="Enter Keyword or Part #" class="searchbox" onsubmit="return CheckFields();"></form></font></td>
                 <td width="7"><img src="/navimages/spacer.gif" width="5" height="1" alt="" border="0"></td>
                 <td width="58"><input type="image" src="/navimages/headersearch_btn.gif" width="57" height="21" alt="search" border="0" align="absmiddle" name="Submit" title="Search"></td>
 			</tr><tr><td colspan="3" width="238"><img src="/navimages/spacer.gif" width="1" height="3" alt="" border="0"></td></tr>
@@ -129,7 +150,7 @@ function myopen(filename,windowname,properties) {
       	<table cellspacing="0" cellpadding="0" width="740" border="0" height="20">
         	<tbody><tr>
           		<td align="left" width="580">&nbsp;<span class="headerblack">&nbsp;Order Toll-Free</span><span class="headerblackbold">&nbsp;</span><span class="headerblack">&nbsp;</span><span class="headerblackbold">1-800-891-0896&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-				<a class="headerblack" href="http://www.efaucets.com/contactus.asp">Hours</a>&nbsp;</span><!--<SPAN class="headerblack"> 
+				<a class="headerblack" href="/contactus.asp">Hours</a>&nbsp;</span><!--<SPAN class="headerblack"> 
                 Mon-Fri&nbsp; 8am-5pm (CST)</SPAN>--><span class="headerblackbold">&nbsp;|&nbsp;&nbsp;<a class="headerblack" href="/quoteform.asp">Quotes</a> &nbsp;|&nbsp; <a class="headerblack" href="/nonstocksearch.asp">Non-Stock</a> 
 				&nbsp;|&nbsp; <a class="headerblack" href="/outletstore">Outlet Center</a>
 				<a href="/outletstore"><img border="0" width="41" height="15" src="/navimages/savetag.gif" align="middle"></a></span></td>
@@ -145,24 +166,27 @@ function myopen(filename,windowname,properties) {
      <table align="center" cellspacing="1" cellpadding="5" width="740" bgcolor="#8094B0" border="0">
         <tbody>
         <tr>
-          <td bgcolor="#383F5B" width="84">
+          <td bgcolor="#383F5B" width="68">
             <div align="center"><a class="headerlinkwhite" href="/kitchen_fixtures.asp"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b>Kitchen</b></font></a></div></td>
           <td bgcolor="#383F5B">
             <div align="center"><a class="headerlinkwhite" href="/bar_fixtures.asp"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b>Bar/Prep</b></font></a></div></td>
           <td bgcolor="383F5B" width="82">
             <div align="center"><a class="headerlinkwhite" href="/bathroom_fixtures.asp"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b>Bathroom</b></font></a></div></td>
-          <td bgcolor="#383F5B" width="81">
+          <td bgcolor="#383F5B" width="64">
             <div align="center"><a class="headerlinkwhite" href="/faucets.asp"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b>Faucets</b></font></a></div></td>
           <td width="63" bgcolor="#383F5B">
             <div align="center"><a class="headerlinkwhite" href="/sinks.asp"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b>Sinks</b></font></a></div></td>
-          <td width="103" bgcolor="#383F5B">
+          <td width="91" bgcolor="#383F5B">
             <div align="center">
 				<a class="headerlinkwhite" href="/accessories.asp">
 				<font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b>Accessories</b></font></a></div></td>
-          <td bgcolor="#383F5B" width="74">
+          <td bgcolor="#383F5B" width="68">
             <div align="center">
 				<a class="headerlinkwhite" href="/replacement-parts.asp"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b>Parts</b></font></a></div></td>
-          <td width="86" bgcolor="#383F5B">
+          <td width="62" bgcolor="#383F5B">
+            <div align="center"><a class="headerlinkwhite" href="/world-imports-lighting.asp"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b>Lighting</b></font></a></div></td>
+            
+            <td width="70" bgcolor="#383F5B">
             <div align="center"><a class="headerlinkwhite" href="/allbrands.asp"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b>Brands</b></font></a></div></td></tr></tbody></table>
     
 <table align="center" height="14" cellspacing="0" cellpadding="0" width="740" border="0">
@@ -172,14 +196,14 @@ function myopen(filename,windowname,properties) {
   	<tr>
     <td bgcolor="#E6E6E6" width="80" height="37"> 
 	<p align="center"> <a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.efaucets.com">
-    <img width="65" height="37" border="0" src="http://images.scanalert.com/meter/www.efaucets.com/31.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;"></a> 
+    <img width="65" height="37" border="0" src="//images.scanalert.com/meter/www.efaucets.com/31.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;"></a> 
     </p></td>
     <td bgcolor="#E6E6E6" width="92" height="37"> 
 	<p align="center"> <a target="_blank" href="http://www.bbbonline.org/cks.asp?id=1060410953521">
     <img width="90" height="32" border="0" src="/logos/ReliabilitySeal4.gif" alt="Click the BBB Seal to Verify - eFaucets.com is a proud member of the BBB Online Reliability Program.  Check with the BBB before making purchases online.  eFaucets.com is guaranteed to be a safe and reliable place to shop." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;"></a> 
     </p></td>	
 		<td bgcolor="#E6E6E6" height="37" width="568">
-        <p align="center"><img height="1" src="/headerspacer.gif" width="1"><a class="linkbluesm" href="javascript:myopen('/freeShipping.asp','windowName','toolbar=no,location=no,left=0,top=0,directories=no,status=no,menubar=no,scrollbars=yes,resizable=no,copyhistory=no,width=500,height=500')"><img border="0" src="/freeshippingbanner.gif" alt="Free Shipping on orders over $299.  Click here for details...." width="548" height="40"></a></p></td>
+        <p align="center"><img height="1" src="/headerspacer.gif" width="1"><a class="linkbluesm" href="javascript:myopen('/freeShipping.asp','windowName','toolbar=no,location=no,left=0,top=0,directories=no,status=no,menubar=no,scrollbars=yes,resizable=no,copyhistory=no,width=500,height=500')"><img border="0" src="/freeshippingbanner.gif" alt="Free Shipping on orders over $99.  Click here for details...." width="548" height="40"></a></p></td>
 	</tr>
   	<tr>
     	<td colspan="3" bgcolor="#8094B0" height="1"><img height="1" src="/headerspacer.gif" width="1"></td>  	</tr>
@@ -189,7 +213,7 @@ function myopen(filename,windowname,properties) {
     	<td bgcolor="#ffffff" height="1"><img height="1" src="/headerspacer.gif" width="1"></td>
   	</tr>
 	<tr>
-    	<td bgcolor="#ffffff"><a class="linkbluesm" href="javascript:myopen('/stockavailability.asp','windowName','toolbar=no,location=no,left=0,top=0,directories=no,status=no,menubar=no,scrollbars=yes,resizable=no,copyhistory=no,width=700,height=600')"><img border="0" width="740" height="29" src="/navimages/realtime_logo.gif"></a></td>
+    		<td bgcolor="#ffffff"><a class="linkbluesm" href="javascript:myopen('/freeshipping.asp','windowName','toolbar=no,location=no,left=0,top=0,directories=no,status=no,menubar=no,scrollbars=yes,resizable=no,copyhistory=no,width=500,height=500')"><img border="0" width="740" height="65" src="/navimages/taxshippingbanner.gif"></a></td>
   	</tr>
   	<tr>
     	<td bgcolor="#ffffff" height="1"><img height="1" src="/headerspacer.gif" width="1"></td>
@@ -263,10 +287,10 @@ ichatwin.focus() ;
     <td class="boxtext" align="center" height="63">
     
  <!-- BEGIN Timpani Button Code --><a href="https://server.iad.liveperson.net/hc/65803736/?cmd=file&amp;file=visitorWantsToChat&amp;site=65803736&amp;byhref=1&amp;imageUrl=https://www.efaucets.com/images/crmimages" target="chat65803736" onclick="javascript:window.open('https://server.iad.liveperson.net/hc/65803736/?cmd=file&amp;file=visitorWantsToChat&amp;site=65803736&amp;imageUrl=https://www.efaucets.com/images/crmimages&amp;referrer='+escape(document.location),'chat65803736','width=472,height=320');return false;">
-     <img src="https://server.iad.liveperson.net/hc/65803736/?cmd=repstate&amp;site=65803736&amp;&amp;ver=1&amp;imageUrl=https://www.efaucets.com/images/crmimages" name="hcIcon" width="100" height="40" border="0" alt="Click For Live Support!"></a>
+     <img src="https://server.iad.liveperson.net/hc/65803736/?cmd=repstate&amp;site=65803736&amp;&amp;ver=1&amp;imageUrl=https://www.efaucets.com/images/crmimages" name="hcIcon" width="113" height="63" border="0" alt="Click For Live Support!"></a>
 	
 	<!-- END Timpani Button code --><br>
-	or&nbsp; <a class="linkbluesm" href="support.htm">E-Mail Us</a>
+	or&nbsp; <a class="linkbluesm" href="../support.htm">E-Mail Us</a>
 
 
               
@@ -277,7 +301,8 @@ ichatwin.focus() ;
   </tr>
 </tbody></table>
             </td>
-          </tr>          <tr>
+          </tr>
+          <tr>
             <td height="120">
 <table border="0" width="145" cellspacing="0" cellpadding="0">
   <tbody><tr>
@@ -291,7 +316,7 @@ ichatwin.focus() ;
   <tbody><tr>
     <td>
     <table border="0" width="143" cellspacing="0" cellpadding="3" class="infoBoxContents2" bordercolor="#111111" style="border-collapse: collapse">
-  <tbody><tr>
+    <tbody><tr>
     <td class="boxText">
     <a class="boxlinkbold" href="/american-standard-faucets.asp">American Standard</a><br></td>
   </tr>
@@ -321,23 +346,46 @@ ichatwin.focus() ;
     <td class="boxText">
     <a class="boxlinkbold" href="/chicago-faucets.asp">Chicago Faucets</a><br></td>
   </tr>
+  
+    <tr>
+    <td class="boxText">
+    <a class="boxlinkbold" href="http://faucets.efaucets.com/faucets/cifial">Cifial</a><br></td>
+  </tr>
    <tr>
     <td class="boxText">
     <a class="boxlinkbold" href="/creative-specialties.asp">Creative Specialties</a><br></td>
+  </tr>
+    <tr>
+    <td class="boxText">
+    <a class="boxlinkbold" href="/cucina-faucets.asp">Cucina</a><br></td>
   </tr>
   <tr>
     <td class="boxText">
     <a class="boxlinkbold" href="/danze-faucets.asp">Danze Faucets</a><br></td>
   </tr>
+  
+    <tr>
+    <td class="boxText">
+    <a class="boxlinkbold" href="/decolav-sinks-vanities.asp">Decolav</a><br></td>
+  </tr>
   <tr>
     <td class="boxText">
     <a class="boxlinkbold" href="/delta-faucets.asp">Delta Faucets</a><br></td>
+  </tr>
+  
+   <tr>
+    <td class="boxText">
+    <a class="boxlinkbold" href="/delta-parts.asp">Delta Parts</a><br></td>
   </tr>
    <tr>
     <td class="boxText">
     <a class="boxlinkbold" href="/dynasty-hardware-faucets.asp">Dynasty Hardware</a><br></td>
   </tr>
   
+    <tr>
+    <td class="boxlinkbold">
+    <a class="boxlinkbold" href="/eden-bath-faucets-vessel-sinks.asp">Eden Bath</a><br></td>
+  </tr>
   
   <tr>
     <td class="boxlinkbold">
@@ -348,15 +396,38 @@ ichatwin.focus() ;
     <td class="boxlinkbold">
     <a class="boxlinkbold" href="/elkay-faucets.asp">Elkay Faucets</a><br></td>
   </tr>
-    <tr>
+  
+     <tr>
     <td class="boxlinkbold">
-    <a class="boxlinkbold" href="/giagni-faucets.asp">Giagni Faucets</a><br></td>
+    <a class="boxlinkbold" href="/fontaine-faucets-sinks.asp">Fontaine</a><br></td>
   </tr>
-   <tr>
+  
+     <tr>
+    <td class="boxlinkbold">
+    <a class="boxlinkbold" href="/gatco-accessories.asp">Gatco</a><br></td>
+  </tr>
+  
+      <tr>
+    <td class="boxlinkbold">
+    <a class="boxlinkbold" href="http://faucets.efaucets.com/faucets/graff">Graff Faucets</a><br></td>
+  </tr>
+  
+    <tr>
     <td class="boxlinkbold">
     <a class="boxlinkbold" href="/grohe-faucets.asp">Grohe Faucets</a><br></td>
   </tr>
-  <tr>
+  
+     <tr>
+    <td class="boxlinkbold">
+    <a class="boxlinkbold" href="/grohe-parts.asp">Grohe Parts</a><br></td>
+  </tr>
+  
+      <tr>
+    <td class="boxlinkbold">
+    <a class="boxlinkbold" href="/hamat-faucets-sinks.asp">Hamat Faucets</a><br></td>
+  </tr>
+  
+    <tr>
     <td class="boxlinkbold">
     <a class="boxlinkbold" href="/hansgrohe-faucets.asp">Hansgrohe Faucets</a><br></td>
   </tr>
@@ -373,7 +444,17 @@ ichatwin.focus() ;
 
 <tr>
     <td class="boxText">
-    <a class="boxlinkbold" href="/kindred-faucets.asp">Kindred Faucets</a><br></td>
+    <a class="boxlinkbold" href="/kindred-sinks-faucets.asp">Kindred Sinks</a><br></td>
+  </tr>
+  
+  <tr>
+    <td class="boxText">
+    <a class="boxlinkbold" href="/jado-faucets.asp">Jado</a><br></td>
+  </tr>
+  
+    <tr>
+    <td class="boxText">
+    <a class="boxlinkbold" href="http://faucets.efaucets.com/faucets/justyna">Justyna</a><br></td>
   </tr>
 
 <tr>
@@ -386,16 +467,29 @@ ichatwin.focus() ;
     <td class="boxText">
     <a class="boxlinkbold" href="/latoscana-faucets.asp">Latoscana</a><br></td>
   </tr>
+  
+      <tr>
+    <td class="boxText">
+    <a class="boxlinkbold" href="http://faucets.efaucets.com/faucets/mico">Mico Faucets</a><br></td>
+  </tr>
 
 <tr>
     <td class="boxText">
     <a class="boxlinkbold" href="/moen-faucets.asp">Moen Faucets</a><br></td>
   </tr>
+  
+    <tr>
+    <td class="boxText">
+    <a class="boxlinkbold" href="http://faucets.efaucets.com/faucets/mico">Mico Faucets</a><br></td>
+  </tr>
+  
   <tr>
     <td class="boxText">
-    <a class="boxlinkbold" href="/new-fashion.asp">New Fashion</a><br></td>
+    <a class="boxlinkbold" href="/motiv-accessories.asp">Motiv</a><br></td>
   </tr>
-   <tr>
+  
+ 
+    <tr>
     <td class="boxText">
     <a class="boxlinkbold" href="/newport-brass-faucets.asp">Newport Brass</a><br></td>
   </tr>
@@ -403,29 +497,54 @@ ichatwin.focus() ;
  <tr>
     <td class="boxText">
     <a class="boxlinkbold" href="/pegasus-faucets.asp">Pegasus Faucets</a><br></td>
-  </tr>  
+  </tr> 
+  
+ <tr>
+    <td class="boxText">
+    <a class="boxlinkbold" href="/porcher-faucets.asp">Porcher</a><br></td>
+  </tr> 
   
   <tr>
     <td class="boxText">
     <a class="boxlinkbold" href="/price-pfister-faucets.asp">Price Pfister</a><br></td>
   </tr>
   
+   <tr>
+    <td class="boxText">
+    <a class="boxlinkbold" href="/price-pfister-parts.asp">Price Pfister Parts</a><br></td>
+  </tr>
+  
+    <tr>
+    <td class="boxText">
+    <a class="boxlinkbold" href="/schon-faucets-sinks.asp">Schon</a><br></td>
+  </tr>
+  
   <tr>
     <td class="boxText">
     <a class="boxlinkbold" href="/showhouse-faucets.asp">ShowHouse by Moen</a><br></td>
   </tr>
-   <tr>
-    <td class="boxText">
-    <a class="boxlinkbold" href="/teka-sinks.asp">Teka</a><br></td>
-  </tr>
+  
     <tr>
     <td class="boxText">
-    <a class="boxlinkbold" href="/morebrands.asp">More Brands....</a><br></td>
-  </tr>
-    <tr>
-    <td class="boxText"><img src="navimages/transparent.gif" border="0" width="1" height="1"></td>
+    <a class="boxlinkbold" href="/teka-sinks.asp">Teka Sinks</a><br></td>
   </tr>
   
+     <tr>
+    <td class="boxText">
+    <a class="boxlinkbold" href="/warmrails-towel-warmers.asp">Warmrails</a><br></td>
+  </tr>
+  
+    <tr>
+    <td class="boxText">
+    <a class="boxlinkbold" href="/world-imports-lighting.asp">World Imports</a><br></td>
+  </tr>
+    <tr>
+    <td class="boxText">
+    <a class="boxlinkbold" href="/allbrands.asp">More Brands....</a><br></td>
+  </tr>
+  <tr>
+    <td class="boxText"><img src="navimages/transparent.gif" border="0" width="1" height="1"></td>
+  </tr>
 
   
   
@@ -463,13 +582,13 @@ ichatwin.focus() ;
   
   <tr>
     <td class="boxText">
-    <a class="boxlinkbold" href="bathroom_accessories.asp">Bathroom Accessories</a><br></td>
+    <a class="boxlinkbold" href="../bathroom_accessories.asp">Bathroom Accessories</a><br></td>
   </tr>
   
    
    <tr>
     <td class="boxText">
-    <a class="boxlinkbold" href="bidet_faucets.asp">Bidet Faucets</a><br></td>
+    <a class="boxlinkbold" href="../bidet_faucets.asp">Bidet Faucets</a><br></td>
   </tr>
  <tr>
     <td class="boxText">
@@ -485,41 +604,41 @@ ichatwin.focus() ;
   </tr>
  <tr>
     <td class="boxText">
-    <a class="boxlinkbold" href="kitchen_accessories.asp">Kitchen Accessories</a><br></td>
+    <a class="boxlinkbold" href="../kitchen_accessories.asp">Kitchen Accessories</a><br></td>
   </tr>
  <tr>
     <td class="boxText">
-    <a class="boxlinkbold" href="kitchen_faucets.asp">Kitchen Faucets</a><br></td>
+    <a class="boxlinkbold" href="../kitchen_faucets.asp">Kitchen Faucets</a><br></td>
   </tr>
  <tr>
     <td class="boxText">
-    <a class="boxlinkbold" href="laundry_faucets.asp">Laundry Faucets</a><br></td>
+    <a class="boxlinkbold" href="../laundry_faucets.asp">Laundry Faucets</a><br></td>
   </tr>
   <tr>
     <td class="boxText">
-    <a class="boxlinkbold" href="lavatory_faucets.asp">Lavatory Faucets</a><br></td>
+    <a class="boxlinkbold" href="../lavatory_faucets.asp">Lavatory Faucets</a><br></td>
   </tr>
   <tr>
     <td class="boxText">
-    <a class="boxlinkbold" href="roman_tub_faucets.asp">Roman Tub Faucets</a><br></td>
+    <a class="boxlinkbold" href="../roman_tub_faucets.asp">Roman Tub Faucets</a><br></td>
   </tr>
  <tr>
     <td class="boxText">
-    <a class="boxlinkbold" href="tub_shower_accessories.asp">Shower Accessories</a><br></td>
+    <a class="boxlinkbold" href="../tub_shower_accessories.asp">Shower Accessories</a><br></td>
   </tr>
  <tr>
     <td class="boxText">
-    <a class="boxlinkbold" href="shower_only_faucets.asp">Shower Only Faucets</a><br></td>
+    <a class="boxlinkbold" href="../shower_only_faucets.asp">Shower Only Faucets</a><br></td>
   </tr>
  
  <tr>
     <td class="boxText">
-    <a class="boxlinkbold" href="tub_shower_faucets.asp">Tub &amp; Shower Faucets</a><br></td>
+    <a class="boxlinkbold" href="../tub_shower_faucets.asp">Tub &amp; Shower Faucets</a><br></td>
   </tr>
-   
-    <tr>
+   <tr>
     <td class="boxText"><img src="navimages/transparent.gif" border="0" width="1" height="1"></td>
   </tr>
+
    
  
   
@@ -612,6 +731,16 @@ ichatwin.focus() ;
                     <tr>
                       <td height="10" width="179"></td>
                     </tr>
+                    <tr>
+                      <td class="smalltext" width="169">
+						<a class="smalltext2" href="#thirdparty">
+						<span style="text-decoration: none">
+                      <img border="0" src="navimages/arrowblack.gif" width="10" height="10">
+                      </span>Third Party Information Collection</a></td>
+                    </tr>
+                    <tr>
+                      <td height="10" width="179"></td>
+                    </tr>
                     </tbody></table>
                 </td>
                 <td width="266">
@@ -660,6 +789,7 @@ ichatwin.focus() ;
                     <tr>
                       <td height="10" width="169"></td>
                     </tr>
+                    
                     <tr>
                       <td class="smalltext" width="169">
 						<a class="smalltext2" href="#protecting">
@@ -813,6 +943,20 @@ ichatwin.focus() ;
                 <td width="12"><img height="1" src="spacer.gif" width="10"></td>
                 <td class="text2" valign="top" width="562">
                   <p>Today, the Internet is actually the safest way of doing business with your credit card. We have made it safer to use your credit card on our site than it is to use it in more traditional ways, such as in retail stores or restaurants.</p></td></tr>
+              <tr>
+                <td colspan="2" height="25" width="574"><img height="10" src="spacer.gif" width="1"></td></tr>
+                  <tr>
+                  	<td width="12"><img height="1" src="spacer.gif" width="10"></td>
+                <td class="text2bold" height="10" width="562">&nbsp;<a href="#top"><img src="navimages/backtotop.gif" border="0"></a></td></tr>
+              <tr>
+                <td colspan="2" height="15" width="574"><a name="thirdparty">&nbsp;<img height="10" src="spacer.gif" width="1"></a></td></tr>
+                <tr><td class="header1" width="574" bgcolor="#8094B0" colspan="2" height="21">&nbsp; &nbsp;Third Party Data Collection</td></tr>
+              <tr>
+                <td colspan="2" height="10" width="574"><img height="10" src="spacer.gif" width="1"></td></tr>
+              <tr>
+                <td width="12"><img height="1" src="spacer.gif" width="10"></td>
+                <td class="text2" valign="top" width="562">
+                  <p>To learn more about Coremetrics, their privacy policies or how to opt-out of their services please go to: <a href="http://www.coremetrics.com/consumer_opt_out/opt_out_options.html#optoutnow" target="_blank">www.coremetrics.com/privacy.html</a></p></td></tr>
               <tr>
                 <td colspan="2" height="25" width="574"><img height="10" src="spacer.gif" width="1"></td></tr>
               <tr>
@@ -970,7 +1114,7 @@ from 8 a.m. to 5 p.m. (CST), 5 days a week.&nbsp; Or, send us a
 <!-- mainbody_end //-->
 
 <!-- footer_start //-->
-<center><table cellpadding="10" width="739" border="1" bordercolor="#C0C0C0" style="border-collapse: collapse">
+<center><table cellpadding="10" width="739" border="1" bordercolor="#C0C0C0" style="border-collapse: collapse; text-align:left;">
   <tbody>
   <tr valign="top">
     
@@ -1010,20 +1154,20 @@ from 8 a.m. to 5 p.m. (CST), 5 days a week.&nbsp; Or, send us a
 		    <dt><span class="headerblack">&nbsp;&nbsp;•&nbsp;View our </span><a class="headerlinkblue" href="/securitypolicy.asp#secure">Security Policy</a></dt>
 			<dt><span class="headerblack">&nbsp;&nbsp;•&nbsp;View our </span><a class="headerlinkblue" href="/privacypolicy.asp">Privacy Policy</a></dt>
 			<dt><span class="headerblack">&nbsp;&nbsp;•&nbsp;View our </span><a class="headerlinkblue" href="/legal.asp">Terms of Use</a></dt>
-			<dt><span class="headerblack">&nbsp;&nbsp;•&nbsp;View all of 
+			<dt><span class="headerblack">&nbsp;&nbsp;•&nbsp;View all of
 			our </span><a class="headerlinkblue" href="/help.asp">Policies</a></dt>
 	    </td>
 		<td width="172">
 		    <dt><span class="headerblack">&nbsp;&nbsp;•&nbsp;View our </span><a class="headerlinkblue" href="/rates.asp">Shipping Rates</a>
-		    </dt><dt><span class="headerblack">&nbsp;&nbsp;•&nbsp;View our </span><a class="headerlinkblue" href="/shippingpolicy.asp">Shipping Policy</a>
-			</dt><dt><span class="headerblack">&nbsp;&nbsp;•&nbsp;View our </span><a class="headerlinkblue" href="/returnpolicy.asp">Return Policy</a></dt>
+		    </dt><dt><span class="headerblack">&nbsp;&nbsp;•&nbsp;View our </span><a class="headerlinkblue" href="/shipping.asp">Shipping Policy</a>
+			</dt><dt><span class="headerblack">&nbsp;&nbsp;•&nbsp;View our </span><a class="headerlinkblue" href="/returns.asp">Return Policy</a></dt>
 			<dt><span class="headerblack">&nbsp;&nbsp;•&nbsp;View your </span><a class="headerlinkblue" href="/tracking.asp">Tracking Info</a></dt>
 	    </td>
 		<td width="179">
 		    <dt><span class="headerblack">&nbsp;&nbsp;•&nbsp;Visit our </span><a class="headerlinkblue" href="/help.asp">Help Center</a></dt>
 			<dt><span class="headerblack">&nbsp;&nbsp;•&nbsp;Forgot your </span><a class="headerlinkblue" href="javascript:myopen('https://www.efaucets.com/ssl/password_popup.asp?status=fpwd','windowName','toolbar=no,location=no,left=0,top=0,directories=no,status=no,menubar=no,scrollbars=no,resizable=no,copyhistory=no,width=410,height=385')">Password?</a></dt>
 			<dt><span class="headerblack">&nbsp;&nbsp;•&nbsp;View our </span><a class="headerlinkblue" href="/contactus.asp">Contact Info</a></dt>
-			<dt><span class="headerblack">&nbsp;&nbsp;•&nbsp;</span><a class="headerlinkblue" href="/support.asp">E-Mail 
+			<dt><span class="headerblack">&nbsp;&nbsp;•&nbsp;</span><a class="headerlinkblue" href="/support.asp">E-Mail
 			Us</a> or <a class="headerlinkblue" href="https://server.iad.liveperson.net/hc/65803736/?cmd=file&amp;file=visitorWantsToChat&amp;site=65803736&amp;byhref=1&amp;imageUrl=https://www.efaucets.com/images/crmimages" target="chat65803736" onclick="javascript:window.open('https://server.iad.liveperson.net/hc/65803736/?cmd=file&amp;file=visitorWantsToChat&amp;site=65803736&amp;imageUrl=https://www.efaucets.com/images/crmimages&amp;referrer='+escape(document.location),'chat65803736','width=472,height=320');return false;">Live Chat</a></dt>
 	    </td>
 		<td width="187">
@@ -1040,53 +1184,52 @@ from 8 a.m. to 5 p.m. (CST), 5 days a week.&nbsp; Or, send us a
 		<td valign="top" width="740" colspan="2" height="6">
 		<hr color="#C0C0C0" size="1"></td>
 	</tr>
-	
+
 	<tr>
 		<td valign="top" width="713">
 			<table cellspacing="0" cellpadding="0" width="740" border="0">
 				<tbody><tr>
-					<td class="footertext" align="center" valign="top" width="737"><a class="footertext" href="/products_catalog.asp">©</a> 2003-2007&nbsp;<a target="_blank" class="footertext" href="http://www.eimprovement.com">eImprovement.com</a>.&nbsp; <a class="footertext" href="/faucet_manufacturer_searches.htm">All Rights Reserved.</a>&nbsp; <a class="footertext" href="http://www.efaucets.com">eFaucets.com</a>™&nbsp; 
+					<td class="footertext" align="center" valign="top" width="737"><a class="footertext" href="/products_catalog.asp">©</a> 2003-2007&nbsp;<a target="_blank" class="footertext" href="http://www.eimprovement.com">eImprovement.com</a>.&nbsp; <a class="footertext" href="/faucet_manufacturer_searches.htm">All Rights Reserved.</a>&nbsp; <a class="footertext" href="http://www.efaucets.com">eFaucets.com</a>™&nbsp;
 						is a division of <a target="_blank" class="footertext" href="http://www.eimprovement.com">eImprovement.com</a>.&nbsp; <a class="smalltext" href="/sitemap.asp">Site Map</a>&nbsp; <a class="smalltext" href="/products_catalog.asp">Products</a><br>
-						Please read our <a class="footertextred" href="/securitypolicy.asp">Security Policy</a>, <a class="footertextred" href="/privacypolicy.asp">Privacy Policy</a> and <a class="footertextred" href="/legal.asp">Legal 
-						Notices</a>. &nbsp; <a class="smalltext" href="/affiliates.asp">Affiliate Info</a><br>
+						Please read our <a class="footertextred" href="/securitypolicy.asp">Security Policy</a>, <a class="footertextred" href="/privacypolicy.asp">Privacy Policy</a> and <a class="footertextred" href="/legal.asp">Legal
+						Notices</a>.&nbsp; <a class="smalltext" href="/affiliates.asp">Affiliate Info</a>&nbsp;&nbsp; <a class="smalltext" href="http://faucets.efaucets.com/">Popular Searches</a>&nbsp;&nbsp; <a class="smalltext" href="http://www.lightingcatalog.com/">Lighting</a>&nbsp;&nbsp; <a class="smalltext" href="http://www.efaucets.com/faucet-manufacturers.asp">Manufacturers</a><br>
 						<br>
 					</td>
 				</tr>
 				<tr>
-					<td align="center" valign="bottom" width="737"><!-- GeoTrust QuickSSL [tm] Smart Icon tag. Do not edit. -->
-						<script language="JavaScript" type="text/javascript" src="//smarticon.geotrust.com/si.js" valign="bottom"></script>
-						<!-- end GeoTrust Smart Icon tag -->
-						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a target="_blank" href="http://www.bbbonline.org/cks.asp?id=1060410953521"> <img border="0" src="/logos/ReliabilitySeal3.gif" alt="eFaucets.com is a member of the BBB Reliability Program" title="BBB Online Member" width="135" height="48" align="baseline"></a>&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;
-						<!--ValidatedSite.com Seal Code Start (v.1)-->
-<!--Site: http://www.efaucets.com-->
-<script language="JavaScript">
-<!--
-if (location.protocol == "https:") {document.write('<scr' + 'ipt language="JavaScript" src="https://secure.validatedsite.com/seal/seal.aspx?siteid=50306&st=2"><\/scr' + 'ipt>');}
-else {document.write('<scr' + 'ipt language="JavaScript" src="http://seal.validatedsite.com/seal.aspx?siteid=50306&st=2"><\/scr' + 'ipt>');}
-//-->
-</script><script language="JavaScript" src="https://secure.validatedsite.com/seal/seal.aspx?siteid=50306&amp;st=2"></script>
-<!--ValidatedSite.com Seal Code End (v.1)-->
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+					<td align="center" valign="bottom" width="737">
+						<!-- VeriSign Icon tag. Do not edit. -->
+						<script src="https://seal.verisign.com/getseal?host_name=www.efaucets.com&amp;size=S&amp;use_flash=No&amp;use_transparent=YES&amp;lang=en"></script>
+						<!-- end VeriSign SSL Icon tag -->
+						&nbsp;&nbsp;&nbsp;<a target="_blank" href="http://www.bbbonline.org/cks.asp?id=1060410953521"> <img border="0" src="/logos/ReliabilitySeal3.gif" alt="eFaucets.com is a member of the BBB Reliability Program" title="BBB Online Member" width="135" height="48" align="baseline"></a>&nbsp;&nbsp;&nbsp;<!--ValidatedSite.com Seal Code Start (v.1)-->
+
 						<!-- BEGIN: BizRate.com Medal (125x73 pixels) -->
 						<a href="http://www.bizrate.com/ratings_guide/cust_reviews__mid--66623.html" target="bizrate.com"> <img src="//medals.bizrate.com/medals/dynamic/small/66623_medal.gif" alt="BizRate Customer Certified (GOLD) Site" width="113" height="50" align="bottom" border="0" target="_blank"></a>
 						<!-- END: BizRate.com Medal (125x73 pixels) -->
-						&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
+                        <!-- BEGIN: BizRate.com Medal (125x73 pixels) -->
+						<a href="http://www.bizrate.com/merchant/coe__mid--66623.html" target="bizrate.com"> <img src="/navimages/bizrategold.gif" alt="BizRate Gold Honoree 2007" width="96" height="50" align="bottom" border="0" target="_blank"></a>
+						<!-- END: BizRate.com Medal (125x73 pixels) -->
+&nbsp;&nbsp;&nbsp;
 						<!-- START SCANALERT CODE -->
 						<a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.efaucets.com"> <img width="94" height="54" border="0" src="//images.scanalert.com/meter/www.efaucets.com/13.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;"></a>
-						<!-- END SCANALERT CODE -->
+						<!-- END SCANALERT CODE -->&nbsp;&nbsp;&nbsp;
+<script src="https://seal.buysafe.com/private/rollover/rollover.js"></script>
+<span id="BuySafeSealSpan"><script type="text/javascript">WriteBuySafeSeal("BuySafeSealSpan", "Small", "HASH=LaqqYeczXr4ysQtqfbgkHPBqARTlrlnQyZ%2bMKWCydItuR7CUHhqCt8823R9owyC5hcGzSUnK%2bDiPyjJ3U1jUAw%3d%3d");</script></span>
+
 						<br>
 					</td>
 				</tr>
 <!--				<TR>
 					<TD align="center" valign="bottom" width="737"><br>
-					
+
 						<center>
 						<SCRIPT LANGUAGE="javascript" SRC="http://www.homepopular.org/counter/efaucets/" TYPE="text/javascript"></SCRIPT>
 						<NOSCRIPT>
 						<a href="http://www.homepopular.org/members/efaucets/">efaucets</a> - <a href="http://www.homepopular.org/home-improvement/">home improvement</a> popular sites
 						</NOSCRIPT>
 						</center>
-					
+
 					</TD>
 				</TR>  -->
 			</tbody></table>
