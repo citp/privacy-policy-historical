@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guru.com privacy policy that was archived on 2007-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070628232320id_/http%3A//www.guru.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guru.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229231015id_/http%3A//www.guru.com/privacy.cfm) for the most accurate reproduction.*
 
 # Guru.com - Privacy Policy
 
@@ -8,7 +8,7 @@ Guru.com is firmly committed to the privacy of its members.
 
 **Overview**
 
-The information contained within the member profile you register is solely used to match posted information with potential professionals or projects. Employer and professional contact information is NEVER released to third parties of any kind. Professional profiles are displayed in search results listings WITHOUT contact information. Professional contact information is only revealed to employers AFTER professionals proactively submit bids and proposals to projects. Employer contact information is never revealed to professionals. 
+The information contained within the member profile you register is solely used to match posted information with potential professionals or projects. Employer and professional contact information is NEVER released to third parties of any kind. Professional profiles are displayed in search results listings WITHOUT contact information, unless professionals proactively choose to display their contact information to registered employers. Professional contact information is revealed to employers AFTER professionals proactively submit bids and proposals to projects. Employer contact information is NEVER revealed to professionals. 
 
 Registered Guru.com employers and professionals can be assured that none of the information submitted to Guru.com will ever be sold or redistributed without express consent. 
 
@@ -16,13 +16,9 @@ Registered Guru.com employers and professionals can be assured that none of the 
 
 Guru.com is a Web-based marketplace that directly connects businesses with freelancers. Guru.com is the sole owner of the information collected on this website. We will not sell, share or rent this information to others in ways different from what is disclosed in this statement. Guru.com will not provide any personally identifying information on individual members to any third party, except in connection with possible employment, with the professional's consent, as explained below. 
 
-All registered Guru.com members click the "I AGREE" checkbox on the Registration form to agree to the Guru.com Privacy Policy and Terms of Service. Registered professionals on Guru.com agree that some profile information is made accessible to employers who conduct searches of the Guru.com database. This information includes professionals' skills, experience, education level, compensation, work availability, region, self-evaluation, and member statistics. Such information does not identify the specificity of the individual member. 
+All registered Guru.com members click the "I AGREE" checkbox on the Registration form to agree to the Guru.com Privacy Policy and Terms of Service. All registered professionals on Guru.com agree that some profile information is made accessible to employers who conduct searches of the Guru.com database. This information includes professionals' skills, experience, education level, compensation, work availability, region, self-evaluation, and member statistics. Such information does not identify the specificity of the individual member. Professionals are not required to, but have the option to display their contact information (i.e. name, address, phone number, email address, etc.) to registered employers who conduct searches of the Guru.com database. 
 
-Guru.com will contact the professionals who match employer postings via a Project Notification email. At that point, the professional has the option to submit a bid and proposal for the project and disclose his/her personal information (i.e. name, address and phone number) to the potential employer. When a professional submits a bid and proposal for a project, the employer receives the information in his/her employer account on Guru.com and by email. The professional's contact information is only revealed to the employer AFTER he/she submits a bid and proposal for the project. 
-
-**Registration**
-
-To be a registered Guru.com member, employers and professionals must first complete the registration form. During registration, employers and professionals are required to provide their contact information (i.e. name, address, phone number and email address). This information is used to match professional profiles with employer project requirements. Any and all information provided will not be given/sold to third parties and is completely confidential. The professional's contact information is only revealed to the employer AFTER he/she submits a bid and proposal for the project. Employer contact information is never revealed to professionals. 
+Guru.com will contact the professionals who match employer postings via a Project Notification email. At that point, the professional has the option to submit a bid and proposal for the project and disclose his/her personal information (i.e. name, address, phone number, etc.) to the potential employer. When a professional submits a bid and proposal for a project, the employer receives the information in his/her employer account on Guru.com and by email. The professional's contact information is revealed to the employer AFTER he/she submits a bid and proposal for the project. 
 
 **Cookies**
 
@@ -36,7 +32,7 @@ Guru.com logs IP addresses for system administration purposes. This information 
 
 **Sharing**
 
-Should Guru.com share aggregated demographic information with partners and/or advertisers, such information will not be linked to personal information that identifies individual members. 
+Should Guru.com share aggregated demographic information with partners and/or advertisers, such information will not be linked to personal information that identifies individual members, except in the case of fraud. 
 
 **Links**
 
@@ -49,8 +45,6 @@ Guru.com takes every precaution to protect registered member information. When p
 Guru.com is a VeriSign Secure Site. Please click the VeriSign logo at the bottom of any page in the website to view our official VeriSign certificate. All transactions performed through Guru.com are conducted in a Secure Socket Layer (SSL) session. The Secure Socket Layer encrypts all transaction data for transmittal in a format that prevents data theft. This process protects all private information from being disclosed to third parties. While on a secure page, the lock icon at the bottom of a Web browser (i.e. Netscape Navigator and Microsoft Internet Explorer) becomes locked. 
 
 While Guru.com uses encryption to protect sensitive information online, we also protect member information offline. All member information is restricted within our offices. Servers used to store personally identifiable information are housed in a secure, supervised environment. In addition, only Guru.com employees who need specific information to perform a task are granted access to personally identifiable information. Furthermore, all employees are current with our security and privacy practices. Every quarter, as well as any time new policies are added, employees are notified and reminded about the importance of privacy, and what they can do to ensure the protection of sensitive member information. 
-
-If you have any questions about Guru.com website security, please send an email to [privacy@guru.com](mailto:privacy@guru.com). 
 
 **Mandatory Communications**
 
