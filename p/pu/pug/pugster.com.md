@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the pugster.com privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618171733id_/http%3A//www.pugster.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pugster.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229063347id_/http%3A//www.pugster.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy at Pugster
 
-[Home](https://web.archive.org/web/20070618171733id_/http%3A//) | Privacy
+| [](http://www.pugster.com/)|   
+---|---  
+  
+[Home](http://www.pugster.com/) | Privacy
 
 At Pugster.com, **your privacy is a top priority**. Please read our privacy policy details.
 
@@ -174,4 +177,5 @@ This Privacy Policy was last changed on April 20, 2006. If Pugster.com makes cha
 
 
 
-Why Shop Pugster.com?
+[](http://www.pugster.com/l/power-by-pugster.php)  
+©2002 - 2007 [**Pugster**](http://www.pugster.com/)® , Inc. All rights reserved. 
