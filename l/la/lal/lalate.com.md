@@ -1,0 +1,58 @@
+> *The following text is extracted and transformed from the lalate.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229120024id_/http%3A//televisioninternet.com/late/privacy.htm) for the most accurate reproduction.*
+
+# lalate.com - the world's biggest site for latenight | celebrities parties, red carpet events, mansion, nightclubs, and more
+
+march 1, 2005 ****
+
+**lalate.com Cares About Your Privacy!**
+
+Subscribers' privacy is imperative at lalate.com. We want our subscribers fully informed about the use of their personal information prior to their choosing to subscribe to lalate.com, owned by the Kling Corporation. 
+
+**Our Policy** lalate.com engages in permission-based marketing and collects information provided by our subscribers at our, and affiliated, websites. Subscribers must provide their email address and categories of special interests. lalate.com confirms all subscriptions via email. After confirmation, at which time the subscriber has "opted-in," lalate.com will assure the authenticity of the record by matching it against our database of consumers. Kling Corporation may then send you offers for goods and services relevant to your categories of interest.
+
+Additionally, as part of our effort to bring Kling Corporation subscribers the best possible offers, subscribers will receive special offers that would be of value to any online consumer. Kling Corporation values your privacy. Our subscribers' email addresses will only be shared with third parties where (i) third party has sufficiently demonstrated to Kling Corporation that their product or service is a direct match for a subscriber's special interests (ii) if compelled to do so by proper judicial or governmental authorities. With the exception of email transmissions conducted by a third party to its customer database, all email transmissions will be conducted by Kling Corporation. The Kling Corporation databases are proprietary. However, Kling Corporation does, provide discretionary "optional" information such as name, postal address, zip code, age, gender, etc. to third parties for non-electronic media. Kling Corporation always provides notice and choice to all subscribers. Once, a subscriber un-subscribes and chooses to be removed from Kling Corporation, the subscriber will no longer receive any offers from Kling Corporation unless the subscriber later opts-in.
+
+Cookies are randomly generated to track unique customer conversions. No personal information is ever stored within such cookies. Kling Corporation tracks responses to advertising campaigns; however, Kling Corporation does not track subscriber web browsing activities. Please note that some of our customers' websites may use cookies; therefore, it is recommended that our subscribers take the time to review the privacy policies, when provided, of any websites prior to entering their information. 
+
+Kling Corporation does not use web beacons, Clear Gifs or Web Bugs in relation to the OmniPoint.com website. ****
+
+****
+
+**Access to Account Information**
+
+********
+
+**Consumers**
+
+Consumers may access their account information by contacting lalate.com via the internet at info@lalate.com. 
+
+Subscribers can easily unsubscribe! To unsubscribe, simply click the remove link found in any lalate.com newsletter or simply email us at info@lalate.com. Subscribers will be removed within 10 days of their request. 
+
+********
+
+**Business Users**
+
+If you no longer wish to be contacted by Kling Corporation regarding our business services please contact us at info@lalate.com. ****
+
+ ********
+
+**Contests/Surveys**
+
+From time-to-time we may provide you the opportunity to participate in contests or surveys on our site. If you participate, we will request certain personally identifiable information from you. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose this information. The requested information typically includes contact information (such as name, telephone number and email address). We use this information to solicit business, notify contest, winners and award prizes. 
+
+__
+
+## __Legal Disclaimer
+
+We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site 
+
+********
+
+**Your Information is Protected** All subscriber data in the Kling Corporation are maintained in our data center utilizing the technologies to secure, house, and serve the data. All data is housed on redundant servers and protected by a firewall and unparalleled security infrastructure. Kling Corporation encourages you to revisit our Privacy Statement to keep informed of any changes. 
+
+Kling Corporation is fully 
+
+compliant with CAN-SPAM Act of 2003.
+
+To unsubscribe via standard mail, send your request to:  
+lalate.com • post office box 49165 • los angeles, california 90049
