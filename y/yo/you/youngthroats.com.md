@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youngthroats.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624082215id_/http%3A//www.youngthroats.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youngthroats.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229033742id_/http%3A//www.youngthroats.com/privacy.html) for the most accurate reproduction.*
 
 # The youngest internet deep throats
 
@@ -20,4 +20,4 @@ You can access all your personally identifiable information that we collect onli
 You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error.   
 To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.   
 How To Contact Us:   
-Should you have other questions or concerns about these privacy policies, please call us send us an email at legal@teencoreclub.com
+Should you have other questions or concerns about these privacy policies, please call us send us an email at 
