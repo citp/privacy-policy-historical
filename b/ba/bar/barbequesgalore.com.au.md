@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the barbequesgalore.com.au privacy policy that was archived on 2007-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070406085235id_/http%3A//www.barbequesgalore.com.au/misc/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barbequesgalore.com.au privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229072321id_/http%3A//www.barbequesgalore.com.au/misc/privacypolicy.aspx) for the most accurate reproduction.*
 
-# Barbeques Galore | Good Times Galore
+# Barbeques Galore | How do you BBQ?
 
 This privacy policy has been provided for your reference and records.  
   
   
-[](https://web.archive.org/storefinder/index.aspx "Store Finder")
+[](https://web.archive.org/products/search.aspx "How do you bbq? - People")
 
 This privacy statement applies to your use of the Barbeques Galore (Aust) Pty Ltd website at www.barbequesgalore.com.au.
 
@@ -45,4 +45,4 @@ The website statistics for this site are generated from web logs as outlined abo
 Upon clearing your browser values the session cookie set by this website is destroyed and no personal information is maintained which might identify you should you visit our website at a later date.
 
 Contact This Office  
-This site is governed by this privacy policy, if you have any queries, please [contact us here](https://web.archive.org/web/20070406085235id_/http%3A//www.barbequesgalore.com.au/contactus/general.aspx).
+This site is governed by this privacy policy, if you have any queries, please [contact us here](https://web.archive.org/web/20071229072321id_/http%3A//www.barbequesgalore.com.au/contactus/general.aspx?regarding=6).
