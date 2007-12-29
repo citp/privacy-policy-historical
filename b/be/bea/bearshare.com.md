@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bearshare.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629195438id_/http%3A//bearshare.com/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bearshare.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229061024id_/http%3A//www.bearshare.com/privacypolicy.shtml) for the most accurate reproduction.*
 
-# The World's Fastest File Sharing | Colossal Legal Music Collection | Electrifying Music Community
+# BearShare - Free music downloads - Privacy Policy
 
 PRIVACY POLICY
 
