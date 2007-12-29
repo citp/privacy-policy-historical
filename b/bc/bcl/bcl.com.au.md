@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bcl.com.au privacy policy that was archived on 2007-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070407144603id_/http%3A//www.bcl.com.au/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bcl.com.au privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229045819id_/http%3A//www.bcl.com.au/privacy.htm) for the most accurate reproduction.*
 
 # BCL - Privacy Policy
 
@@ -38,4 +38,4 @@ The only information required to receive the BCL email newsletter is a valid ema
 
 ##  Questions
 
-Please [contact the editor](https://web.archive.org/web/20070407144603id_/http%3A//www.bcl.com.au/contact.htm) if you have any concerns about how we use your personal details.
+Please [contact the editor](https://web.archive.org/web/20071229045819id_/http%3A//www.bcl.com.au/contact.htm) if you have any concerns about how we use your personal details.
