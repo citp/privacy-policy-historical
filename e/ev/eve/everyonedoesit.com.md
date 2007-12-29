@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everyonedoesit.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629075633id_/http%3A//everyonedoesit.com/about_EDIT/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everyonedoesit.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229083642id_/http%3A//www.everyonedoesit.com/about_EDIT/privacy_statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -32,22 +32,3 @@ We do not share any personal data with any 3rd part organisation or institution,
 
 External websites   
 This privacy policy covers the usage of EveryoneDoesIT.com only. Where we have linked to external sites, a different privacy policiy may apply.
-
-| 
-
-Shopping Cart
-
-Go to the [**online store**](https://web.archive.org/online_headshop/) to start shopping!
-
-* * *
-
-**Currency Display**
-
-[](https://web.archive.org/members/login/setDisplayCurrency.cfm?sCurrencyCode=GBP)[](https://web.archive.org/members/login/setDisplayCurrency.cfm?sCurrencyCode=EUR)[](https://web.archive.org/members/login/setDisplayCurrency.cfm?sCurrencyCode=USD)[](https://web.archive.org/members/login/setDisplayCurrency.cfm?sCurrencyCode=CAD)[](https://web.archive.org/members/login/setDisplayCurrency.cfm?sCurrencyCode=JPY)  
- More Currencies:
-
-Member Login
-
-About EveryoneDoesIT
-
-[](https://web.archive.org/about_EDIT/shipping_information/) [](https://web.archive.org/about_EDIT/shipping_information/packaging.cfm) [](https://web.archive.org/about_EDIT/free_gift/) [](https://web.archive.org/online_headshop/productCategory.cfm?sC=Legal_Highs&iProductCategoryID=85) [](https://web.archive.org/online_headshop/productCategory.cfm?sC=Vaporisers&iProductCategoryID=12) [](http://www.bodyjewelleryshop.com/)
