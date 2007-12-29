@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boscovs.com privacy policy that was archived on 2007-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070616043905id_/http%3A//www.boscovs.com/webapp/wcs/stores/servlet/PrivacyPolicyView%3FstoreId%3D10001%26langId%3D-1%26clearClickHist%3DY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boscovs.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229084220id_/http%3A//www.boscovs.com/webapp/wcs/stores/servlet/PrivacyPolicyView%3FstoreId%3D10001%26langId%3D-1%26clearClickHist%3DY) for the most accurate reproduction.*
 
 # Boscov's Online - Your Full Service Department Store
 
@@ -6,25 +6,25 @@
 
 **BOSCOV'S PRIVACY POLICY**
 
-The following Privacy Policy is applicable to consumer customers of Boscov's Inc. and its subsidiaries and affiliates that may provide consumer financial services, including Boscov's Department Stores, LLC (including Boscovs.com), Boscov's Receivables Finance Corp., Boscov's Credit Card Master Trust and Boscov's TravelCenter, Inc. ("Boscov's").
+The following Privacy Policy is applicable to consumer customers of Boscov's Inc. and its subsidiaries and affiliates that may provide consumer financial services, including Boscov's Department Stores, LLC (including Boscovs.com), ("Boscov's").
 
-At Boscov's, we respect our customers and understand that you are concerned about privacy, so we've instituted policies intended to ensure that your personal information is handled safely and responsibly.  We encourage you to refer to this policy on an ongoing basis so that you understand our Privacy Policy.  This policy was last updated on February 13, 2006.  If you have any questions about this policy you can contact us by mail at Customer Service, ATTN:  Privacy Manager, P.O. Box 4202, Reading, Pennsylvania 19606, by calling our Privacy Hotline at 1-800-755-2884 or click on "E-mail Us" at Boscovs.com.
+At Boscov's, we respect our customers and understand that you are concerned about privacy, so we've instituted policies intended to ensure that your personal information is handled safely and responsibly.  We encourage you to refer to this policy on an ongoing basis so that you understand our Privacy Policy.  This policy was last updated on November 1, 2007.  If you have any questions about this policy you can contact us by mail at Customer Service, ATTN:  Privacy Manager, P.O. Box 4202, Reading, Pennsylvania 19606, by calling our Privacy Hotline at 1-888-600-2728 or click on "E-mail Us" at Boscovs.com.
 
 **What Information Do We Collect?**
 
 Boscov's may collect personally identifiable information about you, depending on the services you use.
 
-·         We keep information we receive from you on applications or other forms, including services involving Boscov's TravelCenter and Boscoverage, our extended service plan.
+·         We keep information we receive from you on applications or other forms, including services involving delivery of merchandise and Boscoverage, our extended service plan.
 
 ·         We keep information we receive from you when you use certain specialized services including layaway, gift registry, appliance service, checking writing programs such as Western Union Quick Collect and various bank‑by‑phone programs.
 
 ·         We keep information about your transactions with us.
 
-·         We keep information we receive from consumer reporting agencies and your Boscov's VISA® or other Credit Card applications.
+·         We keep information we receive from your Credit Card applications. Credit Card application information is also subject to the pirvacy policies of HSBC; please see your Credit Card Terms and Conditions for further information.
 
 We collect additional various types of information, depending upon how you use our website, Boscovs.com.
 
-·         When you order from us, we collect your name, address, e‑mail address, phone number and credit card number (with expiration date) or electronic gift card number.  We also gather information on the person who will receive any online gift, flower order through TheFlowerClub (e.g., that person's name and address) and retain a record of your purchases.
+·         When you order from us, we collect your name, address, e‑mail address, phone number and credit card number (with expiration date) or electronic gift card number.  We also gather information on the person who will receive any online gift, flower order through TheFlowerClub and similar merchandise and services (e.g., that person's name and address) and retain a record of your purchases.
 
 ·         When you sign up for express checkout, we collect your name, mailing address, e-mail address, credit card number and billing address, birth date, and password and password clue (in case you forget your password).  We also may ask for additional information (e.g., about your favorite brands and interests), but you may have the option not to provide it.
 
@@ -68,17 +68,17 @@ We may disclose the following kinds of personally identifiable information about
 
 ·         Information we receive from you on your credit application or other forms, such as your name, address, social security number and date of birth;
 
-·         Information about your transactions with us, our affiliates, or others, such as your account balance, credit limit, account number, payment history, parties to transactions, types of goods and/or services purchased and credit card usage; __ and
+·         Information about your transactions with us, our affiliates, or others, such as your account number, parties to transactions, types of goods and/or services purchased and credit card usage; __ and
 
 ·         Information we receive from a consumer reporting agency, such as your creditworthiness and credit history _._
 
 We may disclose personally identifiable information about you to the following types of unaffiliated third parties as permitted by law:
 
-·         Other financial service providers. _  _For example, Boscov's is party to a "co-branded" Boscov's/VISA® dual-purpose credit card arrangement with First Bankcard or other Financial Service Providers
+·         Other financial service providers. _  _For example, HSBC is a party to a Private Label Credit Card program with Boscov's. 
 
 ·         Non‑financial companies, such as other retailers, publishers, direct marketers, companies that provide travel services through Boscov's TravelCenter;
 
-·         Companies with which Boscov's has a joint marketing arrangement. For example Trilegiant; 
+·         Companies with which Boscov's has a joint marketing arrangement; for example Affinion; 
 
 ·         Companies which we may utilize to provide extended services under our Boscoverage® program or other in-home services.
 
@@ -98,9 +98,7 @@ In the event that some or all of the business assets of Boscov's are sold or tra
 
 **Explanation of Opt** **-** **Out Rights**
 
-If you prefer that we not disclose certain personal information about you, you may opt out of those disclosures; that is, you may direct us not to make those disclosures (other than disclosures permitted by law or otherwise exempt from your opt-out rights).  If you wish to opt out of disclosures of nonpublic personal information to unaffiliated companies, you may call the following toll-free number:  1-800-755-2884.  If you wish to opt out of disclosure of credit information (other than your credit experience with us) between affiliate companies within Boscov's, you may call the same toll-free number: 1-800-755-2884.
-
-If you share access to or responsibility for your Boscov's credit card account with some one else, either party may exercise their opt-out rights.  If either party exercises the opt‑out right, none of your information associated with the joint account will be disclosed (other than disclosures permitted by law or otherwise exempt from your opt-out rights).
+If you prefer that we not disclose certain personal information about you, you may opt out of those disclosures; that is, you may direct us not to make those disclosures (other than disclosures permitted by law or otherwise exempt from your opt-out rights).  If you wish to opt out of disclosures of nonpublic personal information to unaffiliated companies, you may contact us as described above.
 
 Once you have submitted your request you should assume that it has been successfully received and your request is being processed.  Please allow us 60 calendar days from your request to complete the removal, as some of our promotions may already have been in process before you submitted your request.
 
@@ -124,4 +122,4 @@ The Children's Online Privacy Protection Act took effect on April 21, 2000 and
 
 We may change this Privacy Policy from time to time.  When such a change is made, we will post a revised version on the Boscovs.com website and make it available at our locations.  Changes will be effective when they are posted.  It is your responsibility to review this Privacy Policy from time to time to be aware of any such change.  Your continued use of any of Boscov's services, including Boscovs.com, will indicate your agreement to any such change.
 
-This Privacy Policy was last updated February 13, 2006.  Please check back periodically for updates and changes.
+This Privacy Policy was last updated November 1, 2007.  Please check back periodically for updates and changes.
