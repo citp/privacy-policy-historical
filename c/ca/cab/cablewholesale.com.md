@@ -1,9 +1,15 @@
-> *The following text is extracted and transformed from the cablewholesale.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626084532id_/http%3A//www.cablewholesale.com/index.php%3Fbody%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cablewholesale.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229153543id_/http%3A//www.cablewholesale.com/index.php%3Fbody%3DPrivacy) for the most accurate reproduction.*
 
 # video splitter,cat 5 cable,computer cable,switch box,vga splitter,usb cable,usb adaptor, custom cable,category 5 cable,network cable,cat 5 cable,kvm switch,svga cable,usb converter,cooling fan
 
 [ [New Products](https://web.archive.org/index.php?body=New%20Products) ] [ [Hot Deals](https://web.archive.org/catalog/hotdeals.htm) ] [ [Warranty](https://web.archive.org/index.php?section=Support&body=FAQ#WARRANTY) ] [ [Help / FAQ](https://web.archive.org/index.php?section=Support&body=FAQ) ] [ [Support](https://web.archive.org/index.php?section=Support) ] [ [Privacy](https://web.archive.org/index.php?body=Privacy) ] [ [Contact Us](https://web.archive.org/index.php?body=Contact) ]    
-[](https://web.archive.org/) |  | Items in Cart: | 0  
+[](https://web.archive.org/) | 
+
+CableWholesale.com is pleased to be able to be able to serve you from both our Livermore, CA headquarters and our new distribution center in Norcross, GA.  
+[Click here](https://web.archive.org/index.php?body=Contact) for more information.
+
+  
+|  | Items in Cart: | 0  
 ---|---  
 Sub-Total: | $0.00  
   
@@ -41,4 +47,4 @@ Postal Code:
   
 [ [Terms & Conditions](https://web.archive.org/index.php?body=Terms) ] [ [Employment](https://web.archive.org/index.php?body=Employment) ] [ [About Us](https://web.archive.org/index.php?body=About%20Us) ] [ [OEM](https://web.archive.org/index.php?body=OEM) ]   
 [ [© Copyright CableWholesale.com / National Technology](https://web.archive.org/index.php?body=Copyright) ]   
-_Last Updated: June 22, 2007_
+_Last Updated: December 28, 2007_
