@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bidorbuy.co.za privacy policy that was archived on 2007-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070430041543id_/http%3A//www.bidorbuy.co.za/static/help/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bidorbuy.co.za privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229010802id_/http%3A//www.bidorbuy.co.za/static/help/PrivacyPolicy.html) for the most accurate reproduction.*
 
-# bidorbuy - Privacy Policy
+# Privacy Policy
 
-[Terms & Conditions](https://web.archive.org/static/help/TermsandConditions.html) | [Billing Statement](https://web.archive.org/static/help/BillingStatement.html) | [Rating System Rules](https://web.archive.org/static/help/RatingRules.html) | [Listing Policy](https://web.archive.org/static/help/ListingPolicy.html) | [Verified User Agreement](https://web.archive.org/static/help/VerifiedUserAgreement.html) | **Privacy Statement**
+[Terms & Conditions](https://web.archive.org/static/help/TermsandConditions.html) | [Billing Statement](https://web.archive.org/static/help/BillingStatement.html) | [Rating Rules](https://web.archive.org/static/help/RatingRules.html) | [Listing Policy](https://web.archive.org/static/help/ListingPolicy.html) | [Verified User Agreement](https://web.archive.org/static/help/VerifiedUserAgreement.html) | **Privacy Statement** | [Affiliate Terms](https://web.archive.org/static/help/affiliateTerms.html)
 
 This Privacy Statement was last revised on 20 July 2001. 
 
@@ -122,6 +122,16 @@ To update your registration information log onto our Members Area, or [click her
 
 To subscribe to our newsletter, [click here](https://web.archive.org/static/JoinMailing.html). 
 
+**Anti-Spam Policy**
+
+bidorbuy (Pty) Ltd is committed to **permission-based** email marketing practices, have established this no-tolerance Anti-Spam Policy. bidorbuy (Pty) Ltd may update this policy and provide notice of any changes on its home page. Your use of this website constitutes your acceptance of the terms and conditions of our Anti-Spam Policy.
+
+Spam is commercial email or unsolicited bulk email, including junk mail, which has not been requested by the recipient. Spam is the opposite of permission-based email
+
+If you believe that you have received Spam connected to bidorbuy (Pty) Ltd in any way, send a complaint including the unsolicited email, to abuse@bidorbuy.co.za. You may also provide any other information that you believe may help a bidorbuy (Pty) Ltd investigation. bidorbuy (Pty) Ltd does not investigate or take any action based on anonymous Spam complaints.
+
+Individuals who registers on the bidorbuy (Pty) Ltd, and provide their email address, give bidorbuy (Pty) Ltd permission to send information on bidorbuy (Pty) Ltd related information, products and services to said email address. In order to protect your privacy, bidorbuy (Pty) Ltd does not sell, share or trade our subscriber list with anyone for any reason and you may unsubscribe at any time.
+
 **Notification of Changes  **
 
 If we decide to change our privacy statement, we will post those changes on our Homepage and in our newsletter so you are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
@@ -132,4 +142,4 @@ If we change the way we use your Personally Identifiable Information we will not
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with us, you can contact us on [hello@bidorbuy.co.za](mailto:hello@bidorbuy.co.za). 
 
-[Terms & Conditions](https://web.archive.org/static/help/TermsandConditions.html) | [Billing Statement](https://web.archive.org/static/help/BillingStatement.html) | [Rating System Rules](https://web.archive.org/static/help/RatingRules.html) | [Listing Policy](https://web.archive.org/static/help/ListingPolicy.html) | [Verified User Agreement](https://web.archive.org/static/help/VerifiedUserAgreement.html) | **Privacy Statement**
+[Terms & Conditions](https://web.archive.org/static/help/TermsandConditions.html) | [Billing Statement](https://web.archive.org/static/help/BillingStatement.html) | [Rating Rules](https://web.archive.org/static/help/RatingRules.html) | [Listing Policy](https://web.archive.org/static/help/ListingPolicy.html) | [Verified User Agreement](https://web.archive.org/static/help/VerifiedUserAgreement.html) | **Privacy Statement** | [Affiliate Terms](https://web.archive.org/static/help/affiliateTerms.html)
