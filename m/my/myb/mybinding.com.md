@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mybinding.com privacy policy that was archived on 2007-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070412144509id_/http%3A//www.mybinding.com/.sc/ms/sp/ee) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mybinding.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229081048id_/http%3A//www.mybinding.com/.sc/ms/sp/ee) for the most accurate reproduction.*
 
-# Book Binding Equipment|GBC Laminator|Ibico Binding Machine
+# Book Binding Equipment GBC Laminator Ibico Binding Machine
 
   
 **Secure Shopping Guaranteed**
@@ -9,4 +9,4 @@ Your security is our primary concern. To ensure safe shopping, we use 128 bit Se
 
  **Privacy Policy**
 
-We at MyBinding.com / Information Management Services , LLC understand many people are concerned about the safety of transferring their personal information on the Internet. We work hard to ensure your information is safe. At MyBinding.com / Information Management Services , LLC, we respect and value our customers and their privacy. The personal information you submit to us is used for purchase processing and account maintenance purposes only. This information is used to better serve our customers and will not be transferred to a third party for any reason.
+We at MyBinding.com understand many people are concerned about the safety of transferring their personal information on the Internet. We work hard to ensure your information is safe. At MyBinding.com, we respect and value our customers and their privacy. The personal information you submit to us is used for purchase processing and account maintenance purposes only. This information is used to better serve our customers and will not be transferred to a third party for any reason.
