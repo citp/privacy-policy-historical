@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the atlantafalcons.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607175200id_/http%3A//www.atlantafalcons.com/team/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atlantafalcons.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229235648id_/http%3A//www.atlantafalcons.com/About/Privacy_Policy.aspx) for the most accurate reproduction.*
 
-# The Official Web Site of the Atlanta Falcons
+# Atlanta Falcons | About | Privacy Policy
 
-This privacy policy applies to the Atlanta Falcons Football Club website located at www.atlantafalcons.com (the "Website"). The purpose of this privacy policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you. 
+This privacy policy applies to the Atlanta Falcons Football Club website located at www.atlantafalcons.com and store.falcons365.com (the "Website"). The purpose of this privacy policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you. 
 
 The Website is operated by The Atlanta Falcons Football Club, LLC. 
 
-The Atlanta Falcons Football Club, LLC is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site at www.atlantafalcons.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
+This privacy policy applies to the Atlanta Falcons Football Club website located at www.atlantafalcons.com and store.falcons365.com (the "Website"). The purpose of this privacy policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you. 
 
 If you have questions or concerns regarding this statement, you should first contact the Atlanta Falcons Manager of New Media at: feedback@fans.atlantafalcons.com. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at: http://www.truste.org/consumers/watchdog_complaint.php. TRUSTe will then serve as a liaison with us to resolve your concerns. 
 
@@ -17,21 +17,6 @@ The TRUSTe program covers only information that is collected through this Web si
 When this privacy policy uses the term "personally identifiable information" or "personal information," we mean information that identifies a particular individual, such as your full name, street address or email address. When other information, such as a favorite team or player, is associated with personal information, it also becomes personally identifiable information for the purposes of this privacy policy. 
 
 Please read the information below to learn more about our data collection policies and practices. 
-
-  1. Types Of Information That May Be Collected 
-  2. How Information May Be Collected 
-  3. How We Use The Information Collected 
-  4. With Whom The Information May Be Shared 
-  5. Security 
-  6. Chat Rooms, Forums, And Message Boards 
-  7. Links To Other Websites 
-  8. A Special Note For Parents Concerning Privacy 
-  9. Notification Of Changes And Your Acceptance Of The Privacy Policy
-  10. Correcting/Updating Personal Information
-  11. Your California Privacy Rights
-  12. Questions About This Privacy Policy
-
-
 
 **TYPES OF INFORMATION THAT MAY BE COLLECTED**
 
@@ -49,7 +34,9 @@ Email Communications: When you open emails from us, we may receive a confirmatio
 
 We may collect information from you in several different areas on the Website, including but not limited to those described below: 
 
-Registration: You may be asked to complete a registration form and provide personally identifiable information; you may also be asked to choose a user ID and password in order to take advantage of certain features the Website may choose to offer, such as newsletters or contests. Participation in registration is voluntary and you will have the opportunity to decide whether or not to disclose information to the Website. 
+Registration: You may be asked to complete a registration form and provide personally identifiable information; you may also be asked to choose a user ID and password in order to take advantage of certain features the Website may choose to offer, such as newsletters or contests. 
+
+Participation in registration is voluntary and you will have the opportunity to decide whether or not to disclose information to the Website. 
 
 Newsletters and Website Emails: We offer free newsletters to share information with you about the Website, about us and our affiliates and subsidiaries, or about our marketing partners and advertisers and sponsors. You may receive a newsletter either by registering for a particular newsletter or in conjunction with a special feature or membership for which you have registered on the Website. Participation is voluntary and you will have the opportunity to decide whether or not to disclose information to the Website. You may also cancel your free email subscription by following the instructions provided on the Website or in the newsletter or email. You may also cancel your free email subscription by sending an email to: feedback@fans.atlantafalcons.com. 
 
@@ -59,26 +46,21 @@ Surveys or Voting: From time-to-time we may request personally identifiable info
 
 Cookies: As with many Websites, our Website uses a technology called "cookies." A cookie is a unique, random number that is stored in the browser on your computer. The cookie doesn't actually identify you, just the computer that is used to visit the site. Cookies automatically identify your browser to the Website whenever your computer is used to visit the Website. Cookies also let us know how many people visit our website and where visitors go on the site. In addition, cookies can let us know non-personally identifiable information, like what web browser is being used to access the website. For registered users, cookies can make using the Website easier for you by saving information such as your passwords or preferences. By tracking how and when you use the Website, cookies help us determine which areas are popular and which are not. Many improvements and updates to the Website are based on data obtained from cookies. Accepting cookies allows you, among other things, to personalize your experience on the Website. Cookies may also allow the Website to present to you advertising which may be of interest to you. If you do not want information collected through the use of cookies, your browser should contain an option that allows you to disable or delete cookie data at any time. Some areas of the Website, however, may not provide you with a personalized experience if you have disabled the use of cookies. Cookies are not tied to personal information. 
 
-Web Beacons and Other Tracking Technology: Our Website uses a variety of technical methods for tracking purposes, including Web beacons. Web beacons are small pieces of data that are embedded in images on the pages of Web sites. We also use these technical methods to analyze the traffic patterns on our Web sites, such as the frequency with which our users visit various parts of our Web sites. These technical methods may involve the transmission of information either directly to us or to another party authorized by us to collect information on our behalf. We also use these technical methods in HTML e-mails that we send our guests to determine whether our guests have opened those e-mails and/or clicked on links in those e-mails. The information from use of these technical methods may be collected in a form that is personally identifiable. 
-
 IP Addresses and Click-Stream Data: We may collect IP addresses and/or click-stream data. An IP address is a number associated with the service through which you access the Internet, like your ISP (Internet service provider), your company, or your university. Standing alone, your IP address is not personally identifiable. At times, we also use IP addresses for purposes of system administration and to report aggregate information to our advertisers and sponsors, for example regarding the frequency with which our guests visit various parts of our sites. We may combine this information with personally identifiable information. Click-stream data is information collected by our computers when you request Web pages from the Website. Click-stream data may include such information as the page served, the time, the source of the request, the type of browser making the request, the preceding page view and other such non-personal information. When analyzed, this data helps us analyze how visitors arrive at the Website, what type of content is most popular, what type of visitors in the aggregate are interested in particular kinds of content and advertising, and the like. 
 
 Transaction Information: If you conduct a financial transaction with our Website, such as buy our products, register for a Falcons event or subscribe to services offered on our Website, we will ask you to complete an order form that will request certain information from you, including contact information, demographic information and financial information. We will use this information to complete the transaction that you have requested, i.e., to deliver the information, products or other services that you order, and to invoice you. For your protection, such information is collected and stored through encrypted means. 
 
 **HOW WE USE THE INFORMATION COLLECTED**
 
-As applicable, the information you provide to us may be used to: 
+As applicable, the information you provide to us may be used to:
 
-  * contact you about the Website; 
-  * contact you relating to your membership status; 
-  * confirm or fulfill an order you have made; 
-  * inform you of a prize you have won;
-  * monitor or improve the use of the Website; 
-  * customize the advertising and content you see; 
-  * monitor compliance with our terms and conditions of use of the Website; and
-  * send you promotional material or special offers on behalf of our marketing partners and/or their respective affiliates and subsidiaries and other third parties.
-
-
+contact you relating to your membership status;   
+confirm or fulfill an order you have made;   
+inform you of a prize you have won;  
+monitor or improve the use of the Website;   
+customize the advertising and content you see;   
+monitor compliance with our terms and conditions of use of the Website; and  
+send you promotional material or special offers on behalf of our marketing partners and/or their respective affiliates and subsidiaries and other third parties.
 
 **WITH WHOM THE INFORMATION MAY BE SHARED**
 
