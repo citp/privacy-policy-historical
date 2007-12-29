@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the barnonedrinks.com privacy policy that was archived on 2007-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070407042302id_/http%3A//www.barnonedrinks.com/info/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barnonedrinks.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229014334id_/http%3A//www.barnonedrinks.com/info/legal/privacy.html) for the most accurate reproduction.*
 
-# Learn more about Bar None!
-
-**_Bar-None Info_**  
-  
-[ [Credits](https://web.archive.org/info/credits/) | **[Legal](https://web.archive.org/info/legal/)** | [Links](https://web.archive.org/info/links/) | [Site Info](https://web.archive.org/info/site_info/) ] 
-
-## Privacy Statement
+# Privacy Statement
 
 ### Introduction
 
@@ -59,6 +53,3 @@ This site contains links to other sites. **Bar-None Drink Recipes** is not respo
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
 
 > Bar-None Drink Recipes 2598A Rosstown Road Nanaimo, B.C. Canada V9T 3S1
-    
-    
-    
