@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the powerbar.com privacy policy that was archived on 2007-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070616062046id_/http%3A//www.powerbar.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerbar.com privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230005705id_/http%3A//www.powerbar.com/Privacy) for the most accurate reproduction.*
 
 # PowerBar: Privacy
 
@@ -11,7 +11,7 @@
 | 
 
 Effective Date: 10/25/2006  
-Last Updated On: 3/9/2007
+Last Updated On: 9/19/2007
 
 Thank you for visiting a Nestlé USA (“Nestlé USA,” “we,” or “our”) website. The following is a description of how we collect, store, and use the personal information you provide us through any of the websites operated by Nestlé USA, including the one you are currently visiting (“Nestlé USA Privacy Policy” or “Privacy Policy”). We have also voluntarily undertaken privacy certification with TRUSTe, which requires that we meet established online information collection and use practices.
 
@@ -60,7 +60,7 @@ We encourage you to read the privacy policy of the third party sites to which yo
 
 #### Special Note to Non-U.S. Visitors
 
-We have no intention of collecting personal information from non-U.S visitors through our Websites. This Privacy Policy is intended to meet the laws and requirements of the United States, which may not necessarily be consistent with the laws and regulations of your home country. Any information that you provide to Nestlé USA will be treated in accordance with this Privacy Policy. 
+This Privacy Policy is intended to meet the laws and requirements of the United States, which may not necessarily be consistent with the laws and regulations of your home country. Any information that you provide to Nestlé USA will be treated in accordance with this Privacy Policy. 
 
 #### Your Acceptance / Changes to this Privacy Policy 
 
@@ -135,7 +135,7 @@ If the online store you are visiting is operated by an unaffiliated third party,
 
   * E-cards, tell-a-friend, and other one-time use features
 
-Personal information requested for an e-card, tell-a-fiend or other referral feature, or other one-time use features (typically, names and email addresses) is used on a one-time basis (e.g., to send the communication) and is not further retained by Nestlé USA. If these kinds of features are made available to children under 13, they may be designed so that prior parental consent is not required.
+Personal information requested for an e-card, tell-a-friend or other referral feature, or other one-time use features (typically, names and email addresses) is used on a one-time basis (e.g., to send the communication) and is not further retained by Nestlé USA. If these kinds of features are made available to children under 13, they may be designed so that prior parental consent is not required.
 
   * Business-related information
 
