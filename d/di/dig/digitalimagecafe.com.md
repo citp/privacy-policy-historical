@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the digitalimagecafe.com privacy policy that was archived on 2007-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070404060313id_/http%3A//www.digitalimagecafe.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalimagecafe.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229050152id_/http%3A//www.digitalimagecafe.com/privacy.asp) for the most accurate reproduction.*
 
-# Photo Contest - Digital Image Cafe
+# Digital Photo Contest - Digital Image Cafe
 
 **PRIVACY POLICY**
 
@@ -30,11 +30,11 @@ DigitalImageCafe.Com does not share your personal information with third parties
 
 **How to Unsubscribe from Newsletters**
 
-If you'd rather not receive news and updates via e-mail, simply: Send a blank email with the subject line "Remove" to [admin@digitalimagecafe.com](mailto:admin@digitalimagecafe.com) , or send a letter to Customer Service, Four Elements Incorporated, 1240 Whitehall Ct, Lake Zurich, IL 60047.
+If you'd rather not receive news and updates via e-mail, simply: Send a blank email with the subject line "Remove" to [admin@digitalimagecafe.com](mailto:admin@digitalimagecafe.com) , or send a letter to MacMillan Inc. PO Box 1373 Georgetown, KY 40324.
 
 **Children and Privacy**
 
-DigitalImageCafe.Com encourages parents and guardians to spend time with their children online, and to be fully familiar with the sites visited by their children. No information should be submitted to or posted on the Site by users under the age of 13 without the consent of their parent or guardian. Personal information from anyone registering on the site and reporting they are under the age of 13 is not kept in our database.
+DigitalImageCafe.Com encourages parents and guardians to spend time with their children online, and to be fully familiar with the sites visited by their children. No information should be submitted to or posted on the Site by users under the age of 13 without the consent of their parent or guardian. 
 
 **Links to Other Sites**
 
