@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tiresplus.com privacy policy that was archived on 2007-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070422112139id_/http%3A//www.tiresplus.com/opencms/opencms/privacy_statement/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tiresplus.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229054638id_/http%3A//www.tiresplus.com/privacy_statement/index.jsp) for the most accurate reproduction.*
 
-# Tires Plus| Privacy Statement
+# Tires Plus | Privacy statement
 
 Tires Plus Total Car Care thanks you for accessing or using this web site (the "Site"). Tires Plus Total Car Care wants to assure you that we respect your privacy. We know that trust is the key to any successful business relationship. The following Privacy Policy describes Tires Plus Total Car Care's commitment to protect your personal information.
 
@@ -10,12 +10,21 @@ This Privacy Policy explains how Tires Plus Total Car Care collects, uses and di
 
  **THE SITE INCLUDES LINKS TO THE WEB SITES OF THIRD PARTIES. WE PROVIDE THESE LINKS AS A CONVENIENCE TO OUR USERS. THE INCLUSION OF ANY LINK DOES NOT IMPLY TIRES PLUS TOTAL CAR CARE'S ENDORSEMENT OF ANY COMPANY, ITS WEB SITE, OR THE PRODUCTS AND SERVICES IT SELLS. PLEASE NOTE THAT TIRES PLUS TOTAL CAR CARE IS NOT RESPONSIBLE FOR ANY CONTENT OR THE PRIVACY PRACTICES OF ANY WEB SITE OTHER THAN OUR OWN SITE.**
 
- **THE SITE ALSO INCLUDES CERTAIN PAGES THAT ARE “FRAMED” TO PROVIDE INFORMATION FROM WEB SITES OF THIRD PARTIES. SUCH FRAMED PAGES WILL BE IDENTIFIED ON THE PAGE AND THE PAGE OWNER IDENTIFIED. WE PROVIDE THESE FRAMED PAGES AS A CONVENIENCE TO OUR USERS. PLEASE NOTE THAT TIRES PLUS TOTAL CAR CARE IS NOT RESPONSIBLE FOR ANY CONTENT OR THE PRIVACY PRACTICES OF ANY FRAMED PAGES. THE TERMS AND POLICIES OF THE PAGE OWNER IDENTIFIED ON THE FRAMED PAGE WILL CONTROL.**
+ **THE SITE ALSO INCLUDES CERTAIN PAGES THAT ARE "FRAMED" TO PROVIDE INFORMATION FROM WEB SITES OF THIRD PARTIES. SUCH FRAMED PAGES WILL BE IDENTIFIED ON THE PAGE AND THE PAGE OWNER IDENTIFIED. WE PROVIDE THESE FRAMED PAGES AS A CONVENIENCE TO OUR USERS. PLEASE NOTE THAT TIRES PLUS TOTAL CAR CARE IS NOT RESPONSIBLE FOR ANY CONTENT OR THE PRIVACY PRACTICES OF ANY FRAMED PAGES. THE TERMS AND POLICIES OF THE PAGE OWNER IDENTIFIED ON THE FRAMED PAGE WILL CONTROL.**
 
- **Information Collection and Use.**  
- **1\. Information Collection.** Tires Plus Total Car Care may collect information from you at several different points and in different ways on this Site Tires Plus Total Car Care will ask you for your permission before Tires Plus Total Car Care collects any information that personally identifies you or allows Tires Plus Total Car Care to contact you. Tires Plus Total Car Care's primary goal in collecting personal information from you is to provide you with an efficient, meaningful and customized experience. For example, Tires Plus Total Car Care can use your personal information to:
+Tires Plus Total Car Care uses pixels, or transparent GIF files, to help manage online advertising. These GIF files are provided by our ad management partner, DoubleClick. These files enable DoubleClick to recognize a unique cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our website. The cookie was placed by us, or by another advertiser who works with DoubleClick. With both cookies and Spotlight technology, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address. For more information about DoubleClick, including information about how to opt out of these technologies, go to <http://www.doubleclick.net/us/corporate/privacy>. 
 
- **(a) Registration.** To use this Site, or certain portions or features of the Site, you may be required to first complete an online registration form. During registration you will be prompted to provide to Tires Plus Total Car Care certain personal information, including but not limited to your name, address, phone number and e-mail address.
+**Information Collection and Use.**  
+ **1\. Information Collection.** Tires Plus Total Car Care may collect information from you at several different points and in different ways on this Site. Tires Plus Total Car Care will ask you for your permission before Tires Plus Total Car Care collects any information that personally identifies you or allows Tires Plus Total Car Care to contact you. Tires Plus Total Car Care's primary goal in collecting personal information from you is to provide you with an efficient, meaningful and customized experience. For example, Tires Plus Total Car Care can use your personal information to:
+
+  * Make this Site easier for you to use by not having to enter information more than once. 
+  * Help you quickly find information and services. 
+  * Help Tires Plus Total Car Care create content on this Site that is most relevant to you. 
+  * Alert you to updated information and services offered by Tires Plus Total Car Care. 
+
+
+
+**(a) Registration.** To use this Site, or certain portions or features of the Site, you may be required to first complete an online registration form. During registration you will be prompted to provide to Tires Plus Total Car Care certain personal information, including but not limited to your name, address, phone number and e-mail address.
 
  **(b) Cookies.** "Cookies" are small pieces of information that are stored by a user's Internet browser on a user's hard drive. The Site may store some information on your computer in the form of a cookie or similar file, however This Site does not use permanent cookies that contain any personally identifying information, such as your name or address. The cookies allow us to recognize you when you return to our site and to provide you with a customized experience that we feel will be of value to you. Most web browsers allow you to exercise control over cookie files on your computer by erasing them, blocking them, or notifying you when such a file is stored. Please take a look at your particular browser for instructions on this function. If you do elect to disable the Site's cookies, please note that you may not be able to take full advantage of the Site.
 
@@ -42,4 +51,4 @@ Upon your request, Tires Plus Total Car Care will (a) remove your personal infor
  **Updates to This Policy**  
 If Tires Plus Total Car Care decides to change or update this Privacy Policy, Tires Plus Total Car Care will post changes and updates on this Site so that you will always be aware of what information Tires Plus Total Car Care collects, uses and distributes. Tires Plus Total Car Care encourages you to review this Privacy Policy from time to time so you will know if the Privacy Policy has been changed or updated. If you have any questions about Tires Plus Total Car Care's Privacy Policy, please use the "Contact Us" section of this Site.
 
- **© 2006 Tires Plus Total Car Care. All rights reserved.**
+ **© 2007 Tires Plus Total Car Care. All rights reserved.**
