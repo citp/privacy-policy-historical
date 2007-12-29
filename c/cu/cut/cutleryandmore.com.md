@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the cutleryandmore.com privacy policy that was archived on 2007-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070410113609id_/http%3A//www.cutleryandmore.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cutleryandmore.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229153134id_/http%3A//www.cutleryandmore.com/privacy.asp) for the most accurate reproduction.*
 
 # CutleryAndMore.com: Wusthof Knives, All Clad Cookware, Henckels Cutlery, Calphalon, Le Creuset, John Boos & More.
 
-| [](http://www.cutleryandmore.com/) |   |   
+| [](http://www.cutleryandmore.com/) |    |   
 ---|---|---  
 | 
 
-| [](https://web.archive.org/cutlery/)| [](https://web.archive.org/kitchenware.htm)| [](https://web.archive.org/cookware.htm)| | [](https://web.archive.org/bakeware/)| | [](https://web.archive.org/tools/)| | [](https://web.archive.org/electrics/)| | [](https://web.archive.org/barware/) |  |    
----|---|---|---|---|---|---|---|---|---|---|---|---|---  
+| [](https://web.archive.org/cutlery/)| [](https://web.archive.org/kitchenware.htm)| [](https://web.archive.org/cookware.htm)| | [](https://web.archive.org/bakeware/)| | [](https://web.archive.org/tools/)| | [](https://web.archive.org/electrics/)| | [](https://web.archive.org/barware/) |  | [](https://web.archive.org/clearance.htm) |    
+---|---|---|---|---|---|---|---|---|---|---|---|---|---|---  
 |  |   
 ---  
 [](https://web.archive.org/shop/brands.asp)  
@@ -15,7 +15,7 @@
   
 
 
-[](https://web.archive.org/sabatier.htm)  
+[](https://web.archive.org/grandprix.htm)  
   
 |  [](https://web.archive.org/shipping.asp)
 
@@ -47,10 +47,6 @@ CutleryAndMore.com
 Elk Grove, IL 60007  
 [info@cutleryandmore.com](mailto:info@cutleryandmore.com)  
   
-  
-[](http://www.bizrate.com/merchant/coe__mid--19684.html)  
-[](http://www.bizrate.com/ratings_guide/cust_reviews__mid--19684.html)
-
 |   
 | |   
 | |   
