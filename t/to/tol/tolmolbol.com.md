@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tolmolbol.com privacy policy that was archived on 2007-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070520100448id_/http%3A//www.tolmolbol.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tolmolbol.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229085507id_/http%3A//www.tolmolbol.com/privacy-policy) for the most accurate reproduction.*
 
-# tolmolbol Privacy Policy Page
+# Privacy Policy | tolmolbol
 
 |  |  |   
 ---  
