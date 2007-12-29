@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consumeraidpages.com privacy policy that was archived on 2007-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070509211014id_/http%3A//www.consumeraidpages.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumeraidpages.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229222927id_/http%3A//www.consumeraidpages.com/privacy.htm) for the most accurate reproduction.*
 
 # Consumer Aid Page
 
@@ -67,9 +67,10 @@ your information with third parties, as necessary, in order to operate the Progr
 
 If users have any questions or suggestions regarding our privacy policy, please contact us at:
 
-Consumer aid pages:  
-3080 Olcott Street Suite 130 C   
-Santa Clara, CA, 95054  
+Consumer aid pages  
+530 Lawrence Expwy. P.O. Box #380
+
+Sunnyvale, CA. 94085  
 Or send email to privacycomments@consumeraidpages.com
 
 * * *
