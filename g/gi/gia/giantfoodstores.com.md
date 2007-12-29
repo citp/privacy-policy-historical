@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the giantfoodstores.com privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221143432id_/http%3A//giantfoodstores.com/shareddev/sharedcontent/About/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giantfoodstores.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229091218id_/http%3A//www.giantfoodstores.com/shareddev/sharedcontent/About/privacypolicy.cfm) for the most accurate reproduction.*
 
 # GIANT Privacy Policy
 
@@ -42,7 +42,7 @@ GIANT may transfer Customer Identifiable Information in connection with the sale
 
 **How can I prevent my Customer Identifiable Information from being disclosed?**
 
-You have the right at any time to direct us not to disclose Customer Identifiable Information about you, or to change your preference in this regard, or to change Customer Identifiable Information that you have provided to us, by [**_contacting us_**](http://www.giantfoodstores.com/shareddev/GIANT_comments/consumer_commentcard.cfm) at our website, or by calling GIANT Consumer Relations, toll-free at 1-888-81-GIANT (1-888-814-4268) and choose option 5. If you direct us not to disclose such information about you, you will not be eligible for any card-based promotions that require individual data, such as continuity programs which require Customer Identifiable Information, sweepstakes, etc, but you will still be entitled to receive other benefits from the use of your GIANT BonusCard. 
+You have the right at any time to direct us not to disclose Customer Identifiable Information about you, or to change your preference in this regard, or to change Customer Identifiable Information that you have provided to us, by [**_contacting us_**](http://www.giantfoodstores.com/shareddev/GIANT_comments/consumer_commentcard.cfm) at our website, or by calling GIANT Consumer Relations, toll-free at 1-888-81-GIANT (1-888-814-4268). If you direct us not to disclose such information about you, you will not be eligible for any card-based promotions that require individual data, such as continuity programs which require Customer Identifiable Information, sweepstakes, etc, but you will still be entitled to receive other benefits from the use of your GIANT BonusCard. 
 
 **What measures have been designed to safeguard Customer Identifiable Information?**
 
@@ -57,7 +57,7 @@ The GIANT website provides links to advertisers and other providers of products 
 **Will the Privacy Policy change?**
 
 GIANT may modify this Privacy Policy from time to time. Our current Privacy Policy can be viewed on our website at http://www.giantfoodstores.com/About/privacypolicy.cfm.   
-If you have any questions regarding this Privacy Policy or wish to change your personal Customer Information preferences, please contact GIANT Consumer Relations, toll-free at 1-888-81-GIANT (1-888-814-4268) and choose option 5,or ** _[contact us ](http://www.giantfoodstores.com/shareddev/GIANT_comments/consumer_commentcard.cfm)_**through our website.
+If you have any questions regarding this Privacy Policy or wish to change your personal Customer Information preferences, please contact GIANT Consumer Relations, toll-free at 1-888-81-GIANT (1-888-814-4268),or ** _[contact us ](http://www.giantfoodstores.com/shareddev/GIANT_comments/consumer_commentcard.cfm)_**through our website.
 
   
 This Privacy Policy was last revised on January 9, 2003
