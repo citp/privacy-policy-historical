@@ -1,25 +1,6 @@
-> *The following text is extracted and transformed from the statefarm.com privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622144247id_/http%3A//www.statefarm.com/about/privacy/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statefarm.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229034026id_/http%3A//www.statefarm.com/about/privacy/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policies
-
-[Our Mission](http://www.statefarm.com/about/mission.asp)[Our Agents](http://www.statefarm.com/about/our_agents/our_agents.asp)[Career Center](https://web.archive.org/about/careers/careers.asp)[Our Retirees](https://web.archive.org/about/retirees/retiree.asp)[Partnerships & Sponsorships](http://www.statefarm.com/about/part_spos/part_spos.asp)[Newsroom](http://www.statefarm.com/about/media/media.asp)[Contact](http://www.statefarm.com/about/media/contact.asp)
-
-* * *
-
-[Insurance](http://www.statefarm.com/insurance/insurance.asp)[Mutual Funds](http://www.statefarm.com/mutual/mutual.asp)[State Farm Bank®](http://www.statefarm.com/bank/bank.asp)[Learning Center](http://www.statefarm.com/learning/learning.asp)[About Us](http://www.statefarm.com/about/about.asp)
-
-* * *
-
-[Login](http://www.statefarm.com/account.htm)[Register](http://www.statefarm.com/main/signup.asp)
-
-Search Site
-
-Powered by Google™
-
-  
-
-
-|  | 
 
 ### Our Privacy Principles:
 
@@ -40,33 +21,3 @@ For more details about the privacy of your medical information, see our [Privacy
 
 
 | 
-
-## Privacy Links
-
-  * [Notice of Privacy Policy](http://www.statefarm.com/about/privacy/privacy_customer.asp)
-  * [Privacy Policy and Personal Health](http://www.statefarm.com/about/privacy/personal_health.asp)
-  * [Notice of Privacy Policy to Consumers](http://www.statefarm.com/about/privacy/privacy_consumer.asp)
-  * [State Privacy Rights](http://www.statefarm.com/about/privacy/privacy_rights.asp)
-  * [Privacy Principles](http://www.statefarm.com/about/privacy/privacy_principles.asp)
-
-
-
-## Privacy FAQs
-
-  * [Customer Information Collection](http://www.statefarm.com/about/privacy/privacy_faq/privacyfaq1.asp)
-  * [Information Sharing](http://www.statefarm.com/about/privacy/privacy_faq/privacyfaq2.asp)
-  * [Information Sharing among the State Farm Family of Companies®](http://www.statefarm.com/about/privacy/privacy_faq/privacyfaq3.asp)
-  * [Solicitations/Direct Marketing](http://www.statefarm.com/about/privacy/privacy_faq/privacyfaq4.asp)
-  * [Information Security](http://www.statefarm.com/about/privacy/privacy_faq/privacyfaq5.asp)
-  * [Online Transactions](http://www.statefarm.com/about/privacy/privacy_faq/privacyfaq6.asp)
-  * [Providers of Goods and Services](http://www.statefarm.com/about/privacy/privacy_faq/privacyfaq7.asp)
-  * [Questions about Privacy Notice](http://www.statefarm.com/about/privacy/privacy_faq/privacyfaq8.asp)
-
-  
-  
----|---  
-  
-Copyright 2006, State Farm Mutual Automobile Insurance Company. Home Office, Bloomington, Illinois  
-
-
-[Home](http://www.statefarm.com/index.asp)   [About](http://www.statefarm.com/about/about.asp)   [Contact](https://online.statefarm.com/apps/AskSF/)   [Terms of service](http://www.statefarm.com/about/terms/terms.asp)   [Privacy policy](http://www.statefarm.com/about/privacy/privacy.asp)  
