@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the earthfiles.com privacy policy that was archived on 2007-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070408095448id_/http%3A//www.earthfiles.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earthfiles.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229013621id_/http%3A//earthfiles.com/privacy.php) for the most accurate reproduction.*
 
-# Earthfiles.com
+# Earthfiles.com About Us
 
   **Earthfiles.com Privacy Policy**
 
@@ -10,7 +10,7 @@ Earthfiles believes that privacy is crucial for the ongoing success of Internet 
 
 **Sharing of Information:**
 
-Certain information provided to Earthfiles in the Subscription Sign Up or Earthfiles Shop Merchant Account is shared only with other parties necessary to complete transactions, such as InternetSecure, its consultants and professional advisers on InternetSecure's behalf for the uses disclosed herein. Earthfiles and InternetSecure do not share personal information with any other third parties.
+Certain information provided to Earthfiles in the Subscription Sign Up or Earthfiles Shop Merchant Account is shared only with other parties necessary to complete transactions, such as PayPal, its consultants and professional advisers on PayPal's behalf for the uses disclosed herein. Earthfiles does not share personal information with any other third parties.
 
 **Server Logs:**
 
