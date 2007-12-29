@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the watkinsonline.com privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608072120id_/http%3A//www.watkinsonline.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watkinsonline.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229055807id_/http%3A//www.watkinsonline.com/privacy.cfm%3FgCatalogLocale%3DUsa) for the most accurate reproduction.*
 
-# Watkins Online
+# WatkinsOnline | Privacy Statement
 
 #### Watkins Incorporated Privacy Statement
 
@@ -22,7 +22,7 @@ Aside from offering the value-added service of your own Watkins Associate, we wi
 
 **What are "cookies" and how do we use them?**
 
-A cookie is a small text file placed on your computer when you visit a web site. This text file gives your computer a unique identification. At Watkins, we use cookies to connect your computer with the information we store for you in our database. This information may include the pages you viewed when previously visiting our site, your account preferences, and items added to your shopping cart. The next time you visit our site, the cookie will "remember" your previous visits. As a result, our pages will load more quickly, and you'll be able to navigate through our site more easily.
+A cookie is a small text file placed on your computer when you visit a web site. This text file gives your computer a unique identification. At Watkins, we use cookies to connect your computer with the information we store for you in our database. This information may include your account preferences, and items added to your shopping cart.
 
 **Contact us:**
 
