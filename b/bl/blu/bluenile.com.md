@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bluenile.com privacy policy that was archived on 2006-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061021165626id_/http%3A//www.bluenile.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluenile.com privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230000842id_/http%3A//www.bluenile.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
-| |  Blue Nile will occasionally update its privacy statement to reflect company and customer feedback. When Blue Nile posts changes to this statement, you will see the word "Updated" next to the Privacy Policy link on the Blue Nile home page. Blue Nile encourages you to periodically review this page to be informed of how we are protecting your information. If you have questions or concerns about policy changes, you should first contact the Blue Nile customer service department at [service@bluenile.com](mailto:service@bluenile.com) or 800-242-2728. 
+Blue Nile will occasionally update its privacy statement to reflect company and customer feedback. When Blue Nile posts changes to this statement, you will see the word "Updated" next to the Privacy Policy link on the Blue Nile home page. Blue Nile encourages you to periodically review this page to be informed of how we are protecting your information. If you have questions or concerns about policy changes, you should first contact the Blue Nile customer service department at [service@bluenile.com](mailto:service@bluenile.com) or 800-242-2728. 
 
 Your privacy is important to us. This privacy policy is designed to inform you of what information Blue Nile collects, why we collect such information and how we use the information we collect. 
 
@@ -38,7 +38,7 @@ Blue Nile abides by the safe harbor framework as set forth by the U.S. Departme
 
 **IP Address** : When you visit our Web Site, Blue Nile collects your IP address to, among other things, help diagnose problems with its server, administer and tune the operation of its Web Site, analyze trends, track traffic patterns, gather demographic information for aggregate use, and track the date and duration of each session within our Web Site. Your IP address may also be used in combination with your personally identifiable information for credit fraud protection and risk reduction. 
 
-**Data Collection Devices, such as Cookies and Web Beacons** : In some instances, Blue Nile may collect non-personal data through cookies, web logs, web beacons (also know as pixel gifs or action tags) and other monitoring technologies. Where authorized by us, third parties may use cookies, Blue Nile's web log files, web beacons and other monitoring technologies to compile aggregate statistics on Blue Nile's behalf. The non-personal information that we collect is used to better understand and improve the usability, performance and effectiveness of our Web Site and marketing programs. We may share or transfer non-personally identifiable information with or to our affiliates, licensees and partners. 
+**Data Collection Devices, such as Cookies and Web Beacons** : In some instances, Blue Nile may collect non-personal data through cookies, web logs, web beacons (also known as pixel gifs or action tags) and other monitoring technologies. Where authorized by us, third parties may use cookies, Blue Nile's web log files, web beacons and other monitoring technologies to compile aggregate statistics on Blue Nile's behalf. The non-personal information that we collect is used to better understand and improve the usability, performance and effectiveness of our Web Site and marketing programs. We may share or transfer non-personally identifiable information with or to our affiliates, licensees and partners. 
 
 "Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. We use cookies on certain pages of our Web Site to, among other things, analyze our web page flow, measure promotional effectiveness, deliver you a more customized shopping experience, track visits from our affiliates and partners and allow the use of our shopping cart. Blue Nile does not use cookies to store or collect any personally identifiable information. You are always free to decline our cookies if your browser permits; although, by declining the use of cookies you may not be able to use certain features on the Web Site. 
 
@@ -77,5 +77,3 @@ For other terms and conditions that apply to your use of our Web Site, please se
 If you have questions about this privacy policy, please contact the Blue Nile customer service department at [service@bluenile.com](mailto:service@bluenile.com) or at 800-242-2728. You may also send us your comments about the Blue Nile Web Site or the shopping experience in general, as we always appreciate feedback. 
 
 **Updated November 2, 2005**
-
-| | | 
