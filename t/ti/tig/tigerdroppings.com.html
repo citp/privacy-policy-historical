@@ -1,15 +1,16 @@
-<!--The following is the downloaded HTML source of the tigerdroppings.com privacy policy that was archived on 2007-02-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070202183659id_/http%3A//www.tigerdroppings.com/rant/message.asp%3Faction%3Ddisplay%26p%3D657121) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tigerdroppings.com privacy policy that was archived on 2007-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071229025457id_/http%3A//www.tigerdroppings.com/rant/message.asp%3Faction%3Ddisplay%26p%3D657121) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 
-<meta name="description" content="The best site on the web for LSU sports news and discussion.  Come to TigerDroppings.com for the poop on LSU football, LSU basketball, LSU Baseball and LSU Recruiting">
-<meta name="keywords" content="LSU Football, LSU Basketball, LSU Baseball, LSU Recruiting, LSU sports, LSU News Links, rant, TigerRant.com, Tiger Rant, football, college, tiger, college football, Louisiana State University, Les Miles, Saban, Nick Saban, SEC, baseball, basketball, Skip Bertman, TigerDroppings.com, Droppings, daily, free, calendar, College Pickem, LSU Message Board, Fantasy Football, Louisiana Politics">
-	<link rel="StyleSheet" href="../comm/css/AppDefault_v1.css" type="text/css" media="screen">
-	<link rel="StyleSheet" href="../comm/css/MB_v1.css" type="text/css" media="screen">
+<meta name="description" content="The best site on the web for LSU sports news, discussion and tickets.  Come to TigerDroppings.com for the poop on LSU football, LSU basketball, LSU Baseball and LSU Recruiting.  Buy and sell LSU Tickets at the LSU Ticket Exchange">
+<meta name="keywords" content="LSU Football, LSU Basketball, LSU Baseball, LSU Recruiting, LSU sports, LSU News Links, rant, TigerRant.com, LSU Tickets, Tiger, college football, Louisiana State University, Les Miles, Saban, Nick Saban, SEC, baseball, basketball, Skip Bertman, TigerDroppings.com, Droppings, daily, free, calendar, College Pickem, LSU Message Board, Fantasy Football, Louisiana Politics">
+<link rel="StyleSheet" href="../comm/css/MB/TigerDroppings3.css" type="text/css" media="screen">
 
 
-<script src="../comm/menu/DropDown.js" language="javascript" type="text/javascript"></script></head><body><div id="dropmenudiv" style="visibility:hidden;width:165px;background-color:#F7F7F7" onmouseover="clearhidemenu()" onmouseout="dynamichide(event)"></div>
+
+
+
 <script language="JavaScript">
 <!-- Hide from older browsers...
 
@@ -25,26 +26,118 @@ function openWin(theURL,winName,features) {
 }
 // -->
 </script>
-<title>General Info @ TigerDroppings.com</title>
-	
+<title>General Info @ TigerDroppings.com</title></head>
+	<body>
 	<a name="top"></a>
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
-
-
 <tbody><tr>
-<td colspan="2" align="right" class="MemNav">
-<table border="0" cellpadding="0">
+<td width="100%">
+	<table border="0" cellpadding="3" cellspacing="0" width="100%" height="25" bgcolor="#500974">
+	<tbody><tr>
 
-<tbody><tr height="22">
-<td class="MemNAV"><img src="/images/buttons/arrowpurp.gif" height="14" width="14"></td>
+<td class="HeadNav1" width="50%" align="left"><table><tbody><tr><td class="MemNAV"><a href="/users/userlogin.asp">&nbsp;Sign&nbsp;In&nbsp;</a></td><td class="MemNAV">&nbsp;|&nbsp;</td><td class="MemNAV"><a href="/users/User.asp?action=new">&nbsp;Register&nbsp;</a>&nbsp;</td></tr></tbody></table></td><td width="50%" class="MemNav" align="right"><script language="JavaScript1.2">
 
-<td class="MemNAV"><a href="/users/userlogin.asp">&nbsp;Sign&nbsp;In&nbsp;</a></td><td class="MemNAV">&nbsp;|&nbsp;</td><td class="MemNAV"><a href="/users/User.asp?action=new">&nbsp;Register&nbsp;</a>&nbsp;</td><td class="MemNAV">&nbsp;</td>
+//Dynamic countdown Script II- © Dynamic Drive (www.dynamicdrive.com)
+//Support for hour minutes and seconds added by Chuck Winrich (winrich@babson.edu) on 12-12-2001
+//For full source code, 100's more DHTML scripts, visit http://www.dynamicdrive.com
+
+
+function setcountdown(theyear,themonth,theday,thehour,themin,thesec){
+yr=theyear;mo=themonth;da=theday;hr=thehour;min=themin;sec=thesec
+}
+
+ //////////CONFIGURE THE COUNTDOWN SCRIPT HERE//////////////////
+
+//STEP 1: Configure the countdown-to date, in the format year, month, day, hour(0=midnight,23=11pm), minutes, seconds:
+setcountdown(2008,1,7,19,00,00)
+
+//STEP 2: Change the two text below to reflect the occasion, and message to display on that occasion, respectively
+var occasion="Final Four"
+var message_on_occasion=""
+
+//STEP 3: Configure the below 5 variables to set the width, height, background color, and text style of the countdown area
+var countdownwidth='400px'
+var countdownheight='20px'
+var countdownbgcolor='#500974'
+var opentags='<font class=Countdown>Countdown to Kickoff: '
+var closetags='</font>'
+
+//////////DO NOT EDIT PAST THIS LINE//////////////////
+
+
+var montharray=new Array("Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec")
+var crosscount=''
+
+function start_countdown(){
+if (document.layers)
+document.countdownnsmain.visibility="show"
+else if (document.all||document.getElementById)
+crosscount=document.getElementById&&!document.all?document.getElementById("countdownie") : countdownie
+countdown()
+}
+
+if (document.all||document.getElementById)
+document.write('<span id="countdownie" style="width:'+countdownwidth+'"></span>')
+
+window.onload=start_countdown
+
+
+function countdown(){
+var today=new Date()
+var todayy=today.getYear()
+if (todayy < 1000)
+todayy+=1900
+var todaym=today.getMonth()
+var todayd=today.getDate()
+var todayh=today.getHours()
+var todaymin=today.getMinutes()
+var todaysec=today.getSeconds()
+var todaystring=montharray[todaym]+" "+todayd+", "+todayy+" "+todayh+":"+todaymin+":"+todaysec
+futurestring=montharray[mo-1]+" "+da+", "+yr+" "+hr+":"+min+":"+sec
+dd=Date.parse(futurestring)-Date.parse(todaystring)
+dday=Math.floor(dd/(60*60*1000*24)*1)
+dhour=Math.floor((dd%(60*60*1000*24))/(60*60*1000)*1)
+dmin=Math.floor(((dd%(60*60*1000*24))%(60*60*1000))/(60*1000)*1)
+dsec=Math.floor((((dd%(60*60*1000*24))%(60*60*1000))%(60*1000))/1000*1)
+//if on day of occasion
+if(dday<=0&&dhour<=0&&dmin<=0&&dsec<=1&&todayd==da){
+if (document.layers){
+document.countdownnsmain.document.countdownnssub.document.write(opentags+message_on_occasion+closetags)
+document.countdownnsmain.document.countdownnssub.document.close()
+}
+else if (document.all||document.getElementById)
+crosscount.innerHTML=opentags+message_on_occasion+closetags
+return
+}
+//if passed day of occasion
+else if (dday<=-1){
+if (document.layers){
+document.countdownnsmain.document.countdownnssub.document.write(opentags+""+closetags)
+document.countdownnsmain.document.countdownnssub.document.close()
+}
+else if (document.all||document.getElementById)
+crosscount.innerHTML=opentags+""+closetags
+return
+}
+//else, if not yet
+else{
+if (document.layers){
+document.countdownnsmain.document.countdownnssub.document.write(opentags +dday+ "d "+dhour+"h "+dmin+"m "+dsec+"s"+closetags)
+document.countdownnsmain.document.countdownnssub.document.close()
+}
+else if (document.all||document.getElementById)
+
+crosscount.innerHTML=opentags+dday+ "d "+dhour+"h "+dmin+"m "+dsec+"s"+closetags
+}
+setTimeout("countdown()",1000)
+}
+</script><span id="countdownie" style="width:400px"><font class="Countdown">Countdown to Kickoff: </font></span>
+
+<ilayer id="countdownnsmain" width="&amp;{countdownwidth};" height="&amp;{countdownheight};" visibility="hide"><layer id="countdownnssub" width="&amp;{countdownwidth};" height="&amp;{countdownheight};" left="0" top="0"></layer></ilayer>		&nbsp;</td>
 </tr>
 </tbody></table>
-
-
-</td></tr>
-
+</td>
+</tr>
 <tr>
 <td height="59" width="100%">
 	<table border="0" cellpadding="0" cellspacing="0" width="100%" height="78" bgcolor="#56027D" background="/images/logo/bg_header.gif">
@@ -60,80 +153,54 @@ function openWin(theURL,winName,features) {
 	</tbody></table>
 </td>
 </tr>
-
-
 <tr>
 <td class="MainNav">
 <table bgcolor="gray" height="25" border="0" cellpadding="3" cellspacing="0" width="30%">
 <tbody><tr>
-
 <td class="MainNav">&nbsp;&nbsp;<a href="/">Home</a>&nbsp;</td>
 <td class="MainNAV">|</td> 
-
 <td class="MainNAV">&nbsp;<a href="../dailylinks/list.asp">LSU&nbsp;News</a>&nbsp;</td>
 <td class="MainNAV">|</td> 
-<td class="MainNAV">&nbsp;<a href="/rant/">Forums</a>&nbsp;</td>
+<td class="MainNAV">&nbsp;<a href="../rant/default.asp">Forums</a>&nbsp;</td>
 <td class="MainNAV">|</td> 
-
-<td class="MainNAV">&nbsp;<a href="/team/team.asp?t=1">Football</a>&nbsp;</td>
- <td class="MainNAV">|</td> 
+<td class="MainNAV">&nbsp;<a href="/team/team.asp">Football</a>&nbsp;</td>
+<td class="MainNAV">|</td> 
 <td class="MainNAV">&nbsp;<a href="/team/team.asp?t=2">Basketball</a>&nbsp;</td>
 <td class="MainNAV">|</td> 
 <td class="MainNAV">&nbsp;<a href="/team/team.asp?t=3">Baseball</a>&nbsp;</td>
 <td class="MainNAV">|</td> 
 <td class="MainNAV">&nbsp;<a href="/calendar/monthview.asp">Calendar</a>&nbsp;</td>
 <td class="MainNAV">|</td> 
-
 <td class="MainNAV">&nbsp;<a href="/pickem/home.asp">Pick'em</a>&nbsp;</td>
 <td class="MainNAV">|</td> 
 <td class="MainNAV">&nbsp;<a href="../links/linkindex.asp">Links</a>&nbsp;</td>
 <td class="MainNAV">|</td> 
-
-
 <td class="MainNAV">&nbsp;<a href="http://www.footballfanatics.com/?partner_id=2535" target="blank">LSU&nbsp;Shop</a>&nbsp;</td>
-
 <td class="MainNAV">|</td>
-
 <td class="MainNAV">&nbsp;<a href="http://www.tigerdroppings.com/sponsors">Sponsors</a>&nbsp;</td>
-
-
-
-       
 </tr>
 </tbody></table>
-
 </td>
 </tr>
-
 <tr>
 <td class="SubNav"></td>
 </tr>
-
 </tbody></table>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tbody><tr>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-<table width="100%" cellpadding="0" cellspacing="0"><tbody><tr><td class="linkBG" valign="top" width="12%"><table width="100%" border="0" cellspacing="0">
-
+<td class="linkBG" valign="top" width="12%">
+<table width="100%" border="0" cellspacing="0">
 <tbody><tr><td class="subnav"></td></tr>
 <tr><td class="RightBorder" valign="center"><font class="Cat"><b>&nbsp;Message Boards</b></font></td></tr>
-
-<tr><td class="nav"><a href="/rant">&nbsp;Tiger Rant</a></td></tr>
+<tr><td class="nav"><a href="/rant">&nbsp;Tiger Rant</a>&nbsp;<font color="#f8cc34" size="1">|</font><a href="/rant/default.asp?b=6">&nbsp;Score Board</a></td></tr>
+<tr><td class="linkdiv"></td></tr>
+<tr><td class="nav"><a href="/rant/default.asp?b=40">&nbsp;Coaching Changes</a></td></tr>
 <tr><td class="linkdiv"></td></tr>
 <tr><td class="nav"><a href="/NewOrleansSaints">&nbsp;Saints Talk</a></td></tr>
 <tr><td class="linkdiv"></td></tr>
-<tr><td class="nav"><a href="/rant/default.asp?b=100">&nbsp;More Sports Talk</a></td></tr>
+<tr><td class="nav"><a href="/rant/default.asp?b=100">&nbsp;More Sports Board</a></td></tr>
 <tr><td class="linkdiv"></td></tr>
 <tr><td class="nav"><a href="/rant/default.asp?b=2">&nbsp;O-T Lounge</a></td></tr>
 <tr><td class="linkdiv"></td></tr>
@@ -141,39 +208,36 @@ function openWin(theURL,winName,features) {
 <tr><td class="linkdiv"></td></tr>
 <tr><td class="nav"><a href="/rant/default.asp?b=50">&nbsp;Political Talk</a></td></tr>
 <tr><td class="linkdiv"></td></tr>
+<tr><td class="nav"><a href="/rant/default.asp?b=60">&nbsp;Money Talk</a></td></tr>
+<tr><td class="linkdiv"></td></tr>
 <tr><td class="nav"><a href="/rant/default.asp?b=15">&nbsp;Fark Board</a></td></tr>
 <tr><td class="linkdiv"></td></tr>
 <tr><td class="nav"><a href="/rant/default.asp?b=20">&nbsp;Gaming Board</a></td></tr>
 <tr><td class="linkdiv"></td></tr>
-<tr><td class="nav"><a href="/rant/default.asp?b=3">&nbsp;Ticket Exchange</a></td></tr>
+<tr><td class="nav"><a href="/Tickets">&nbsp;Ticket Exchange</a></td></tr>
 <tr><td class="linkdiv"></td></tr>
 <tr><td class="nav"><a href="/rant/default.asp?b=7">&nbsp;Help Board</a></td></tr>
 <tr><td class="linkdiv"></td></tr>
-
 <tr><td class="nav"><a href="/rant/FAQ.asp">&nbsp;&gt;&gt;&nbsp;Guidelines/FAQ</a></td></tr>
 <tr><td class="linkdiv"></td></tr>
 <tr><td class="nav"><a href="/users/listusers.asp">&nbsp;&gt;&gt;&nbsp;Member List</a></td></tr>
 <tr><td class="linkdiv"></td></tr>
 
-
-
 <tr><td class="blankline">&nbsp;</td></tr>
-
 	<tr>
 	<td align="center" class="nav">
 	<iframe src="/comm/ban/SkyBan.asp?Type=1" width="160" height="600" align="center" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowtransparency="true"></iframe>
 	<br><br>
 	</td>
 	</tr>
-
-
 <tr><td class="RightBorder" height="16" valign="center"><font class="Cat"><b>&nbsp;LSU Sites</b></font></td></tr>
-
 <tr><td class="nav"><a href="http://www.DandyDon.com" target="_blank">&nbsp;Dandy Don</a></td></tr>
 <tr><td class="linkdiv"></td></tr>
 <tr><td class="nav"><a href="http://www.lsusports.net" target="_blank">&nbsp;LSUsports.net</a></td></tr>
 <tr><td class="linkdiv"></td></tr>
 <tr><td class="nav"><a href="http://www.2theadvocate.com/sports/" target="_blank">&nbsp;The Advocate</a></td></tr>
+<tr><td class="linkdiv"></td></tr>
+<tr><td class="nav"><a href="/Tickets">&nbsp;LSU Tickets</a></td></tr>
 <tr><td class="linkdiv"></td></tr>
 <tr><td class="nav"><a href="/links/linkindex.asp">&nbsp;More LSU Links</a></td></tr>
 <tr><td class="linkdiv"></td></tr>
@@ -192,7 +256,6 @@ function openWin(theURL,winName,features) {
 <tr><td class="nav"><a href="/links/linkindex.asp">&nbsp;Links</a></td></tr>
 <tr><td class="linkdiv"></td></tr>
 <tr><td class="blankline">&nbsp;</td></tr>
-
 <tr><td class="RightBorder" height="16" valign="center"><font class="Cat"><b>&nbsp;LSU Football</b></font></td></tr>
 <tr><td class="nav"><a href="/team/team.asp?t=1">&nbsp;Team Home</a><font class="reg"> | </font><a href="/schedule/Schedule.asp?t=1">Schedule</a></td></tr>
 <tr><td class="linkdiv"></td></tr>
@@ -201,7 +264,6 @@ function openWin(theURL,winName,features) {
 <tr><td class="nav"><a href="/history/">&nbsp;History</a></td></tr>
 <tr><td class="linkdiv"></td></tr>
 <tr><td class="blankline">&nbsp;</td></tr>
-
 <tr><td class="RightBorder" height="16" valign="center"><font class="Cat"><b>&nbsp;LSU Basketball</b></font></td></tr>
 <tr><td class="nav"><a href="/team/team.asp?t=2">&nbsp;Team Home</a><font class="reg"> | </font><a href="/schedule/Schedule.asp?t=2">Schedule</a></td></tr>
 <tr><td class="linkdiv"></td></tr>
@@ -210,21 +272,32 @@ function openWin(theURL,winName,features) {
 <tr><td class="nav"><a href="/team/team.asp?t=4">&nbsp;Women's Hoops Home</a></td></tr>
 <tr><td class="linkdiv"></td></tr>
 <tr><td class="blankline">&nbsp;</td></tr>
-
 <tr><td class="RightBorder" height="16" valign="center"><font class="Cat"><b>&nbsp;LSU Baseball</b></font></td></tr>
 <tr><td class="nav"><a href="/team/team.asp?t=3">&nbsp;Team Home</a><font class="reg"> | </font><a href="/schedule/Schedule.asp?t=3">Schedule</a></td></tr>
 <tr><td class="linkdiv"></td></tr>
 <tr><td class="nav"><a href="http://sports.yahoo.com/ncaabb/polls" target="_blank">&nbsp;Rankings</a><font class="reg"> | </font><a href="http://www.ncaa-baseball.com/daily/today.htm" target="_blank">Scoreboard</a></td></tr>
 <tr><td class="linkdiv"></td></tr>
 <tr><td class="blankline">&nbsp;</td></tr>
-
 <tr><td>
 <img src="/images/misc/spacer.gif" border="0" height="1" width="145" hspace="1" vspace="1">
 </td></tr>
 </tbody></table>
+</td>
 
 
-</td><td valign="top" width="88%" bgcolor="White"><table width="99%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="1%" valign="top" bgcolor="white"><img src="/images/misc/spacer.gif" border="0" height="1" width="15" hspace="1" vspace="1"></td><td valign="top" width="100%" bgcolor="White"><center></center><table border="0" cellpadding="2" width="98%" cellspacing="0"><tbody><tr><td><p align="center"><b><font size="3">TigerDroppings.com Privacy Policy</font></b></p>
+
+<td valign="top" width="88%">
+<table width="99%" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td class="curve">
+<br>
+<img src="/images/misc/spacer.gif" border="0" height="1" width="15" hspace="1" vspace="1">
+</td>
+<td valign="top" width="100%">
+
+
+
+<center><img src="/images/MISC/spacer.gif" height="12"><br></center><table border="0" cellpadding="2" width="98%" cellspacing="0"><tbody><tr><td><p align="center"><b><font size="3">TigerDroppings.com Privacy Policy</font></b></p>
 <p>Your privacy is very important to us.  TigerDroppings.com will not share
 your personal information with any third party.  We collect an email address from registered users so that we can communicate important information about the website when necessary.  All other information collected in a user's profile is optional information that can be maintained or deleted at any time.  In order to be compliant with the Children's Online Privacy Protection Act of 1998 (COPPA), we require that anyone under the age of 13 furnish us with verifiable parental consent before setting up a user profile.</p>
 <p>TigerDroppings.com does work with third-party ad agencies that serve
@@ -459,9 +532,6 @@ function LoadIcon()
 
 <br><br><br>
 <table align="center" width="85%" bgcolor="#e3e3e3">
-
-
-
 <tbody><tr>
 <td align="center">
 <a class="HeaderLinks" href="/rant/message.asp?action=display&amp;p=657124">Advertising Info</a>
@@ -473,7 +543,7 @@ function LoadIcon()
 <a class="HeaderLinks" href="mailto:tigerdroppings@gmail.com">Contact Us</a>
 <br>
 <font class="foot" size="1" face="verdana," arial="" color="#18004c">
-TigerDroppings.com is an independent website featuring LSU sports news &amp; opinions. This website is neither affiliated with, nor endorsed by Louisiana State University or its athletic department.&nbsp; The opinions expressed on this site are not necessarily those of TigerDroppings.com or its operators.&nbsp; ŠCopyright. 2006 TigerDroppings.com&nbsp;<br>
+TigerDroppings.com is an independent website featuring LSU sports news &amp; opinions. This website is neither affiliated with, nor endorsed by Louisiana State University or its athletic department.&nbsp; The opinions expressed on this site are not necessarily those of TigerDroppings.com or its operators.&nbsp; ©Copyright. 2007 TigerDroppings.com&nbsp;<br>
         All Rights Reserved.</font>
 </td>
 </tr>
