@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1iota.com privacy policy that was archived on 2007-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070619022353id_/http%3A//www.1iota.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1iota.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229142310id_/http%3A//www.1iota.com/privacy.aspx) for the most accurate reproduction.*
 
 # 1iota.com - event tickets, tv, late night, jimmy kimmel, carson daly, last call, abc, nbc
 
