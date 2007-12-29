@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the leftlanenews.com privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609235429id_/http%3A//www.leftlanenews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leftlanenews.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229050534id_/http%3A//www.leftlanenews.com/privacy) for the most accurate reproduction.*
 
 # Leftlane - Privacy
 
-10/09/05, 04:31pm, EDT
+October9
 
 Internet user privacy is of paramount importance to Leftlane and its related sites. The success of our business depends upon our ability to maintain the trust of our users. Below is information regarding Leftlane's commitment to protect the privacy of users and to ensure the integrity of the Internet.
 
