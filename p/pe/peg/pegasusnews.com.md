@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pegasusnews.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623012924id_/http%3A//www.pegasusnews.com/about/pegasusprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pegasusnews.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229024314id_/http%3A//www.pegasusnews.com/about/pegasusprivacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy | pegasusnews.com
+# Privacy Policy | pegasusnews.com | Dallas / Fort Worth
 
 **About PegasusNews.com**   
 PegasusNews.com (the “Website”) is an online service operated by Pegasus News, Inc., a Texas corporation (“Pegasus News”). If you have any questions concerning this privacy policy, please email us at [privacy@pegasusnews.com](mailto:privacy@pegasusnews.com). 
@@ -29,7 +29,9 @@ The Website contains links to other websites.  Pegasus News is not responsible 
 Registered users may modify any of their personal information at any time by logging into their account and accessing their personal profile. Registered users may terminate their registration at any time, for any reason, by contacting [customerservice@pegasusnews.com](mailto:customerservice@pegasusnews.com). 
 
 **Third Party Advertising **   
-Ads appearing on the Website may be delivered to users by Pegasus News or one of our advertising partners. Our advertising partners may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement. In this way, ad servers may compile information about where you, or others who are using your computer, saw their advertisements and determine which ads are clicked on. This information allows an ad network to deliver targeted advertisements that they believe will be of most interest to you. This privacy statement covers the use of cookies by Pegasus News and does not cover the use of cookies by any advertisers. 
+Ads appearing on the Website may be delivered to users by Pegasus News or one of our advertising partners. Our advertising partners may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement. In this way, ad servers may compile information about where you, or others who are using your computer, saw their advertisements and determine which ads are clicked on. This information allows an ad network to deliver targeted advertisements that they believe will be of most interest to you. This privacy statement covers the use of cookies by Pegasus News and does not cover the use of cookies by any advertisers. 
+
+We use third-party advertising companies to serve ads when you visit our Web site.  These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you.  If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://networkadvertising.org/consumer/opt_out.asp). 
 
 **Security **   
 Registered user accounts are secured by user-created passwords.  Pegasus News uses reasonable measures to protect registered user information that is stored within our database. Please note that we cannot guarantee the security of registered user account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of registered user information at any time. For any additional information about the security measures we use on the Website, please contact us at [privacy@pegasusnews.com](mailto:privacy@pegasusnews.com).  
@@ -44,4 +46,5 @@ From time to time we may make changes to our privacy policy.  If we make change
 If you have any questions about this privacy statement, the practices of the Website, or your dealings with the Website, please contact us at: [privacy@pegasusnews.com](mailto:privacy@pegasusnews.com) (8140 Walnut Hill Lane, Suite 605, Dallas, Texas 75231). 
 
 **Effective Date**   
-This privacy policy is effective as of December 1, 2006. 
+This privacy policy is effective as of December 1, 2006. It was last updated on November 1, 2007.   
+
