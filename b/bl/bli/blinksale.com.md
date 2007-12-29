@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blinksale.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627075853id_/http%3A//www.blinksale.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blinksale.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229194725id_/http%3A//www.blinksale.com/help/privacy.html) for the most accurate reproduction.*
 
 # Blinksale | Privacy Policy
 
