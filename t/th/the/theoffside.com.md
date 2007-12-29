@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theoffside.com privacy policy that was archived on 2007-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070509210546id_/http%3A//www.theoffside.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theoffside.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229054742id_/http%3A//www.theoffside.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Offside - Soccer News and Opinion from leagues around the world
 
