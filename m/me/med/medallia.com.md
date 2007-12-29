@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medallia.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626100814id_/http%3A//www.medallia.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medallia.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229034246id_/http%3A//www.medallia.com/privacy.php) for the most accurate reproduction.*
 
 # Medallia: Privacy Policy
 
@@ -76,7 +76,7 @@ When requested by legal authorities to disclose personal information, Medallia w
 
 ## Children's Privacy
 
-Medallia does not knowingly collect any information from any individual under the age of 18.
+Medallia does not knowingly collect any information from any individual under the age of 13.
 
 ## Notification of Changes
 
@@ -88,7 +88,7 @@ We reserve the right to modify this privacy statement at any time, so please rev
 
 If you have any questions or comments about this privacy statement or the practices of this site, please contact Medallia by e-mailing [info@medallia.com](mailto:info@medallia.com), faxing (650) 321-3156, calling (650) 321-3000, or writing Amy Pressman, Chief Operating Officer, Medallia, Inc., 1010 El Camino Real, Suite 340, Menlo Park, CA 94025. Medallia responds to non-frivolous privacy-related requests in a timely fashion, not to exceed ten (10) business days.
 
-## Effective date: September 24, 2004. Last reviewed and updated, August 31, 2006.
+## Effective date: September 24, 2004. Last reviewed and updated, October 24, 2007.
 
   
 
