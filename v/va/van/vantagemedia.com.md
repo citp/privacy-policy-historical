@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the vantagemedia.com privacy policy that was archived on 2007-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070628141019id_/http%3A//www.vantagemedia.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vantagemedia.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229110554id_/http%3A//www.vantagemedia.com/privacy.html) for the most accurate reproduction.*
 
 # Vantage Media Privacy Statement
 
 Privacy Policy
 
-Last Updated: 1/4/2007 
+Last Updated: 9/5/2007 
 
 This Privacy Policy describes how Vantage Media, LLC collects and uses any personally identifiable information that you submit via this website. 
 
@@ -28,8 +28,8 @@ Vantage Media, LLC reserves the right to contact you in the future to help impro
 Children's Privacy  
 Vantage Media, LLC websites are not directed at individuals under sixteen years of age. We do not intend to collect personal information from such individuals. Questions or Comments   
 We invite you to contact us if you have questions or comments about our Privacy Policy. You may contact us:  
-Send a letter to: Vantage Media, LLC, 1350 Abbot Kinney Blvd, Suite 203, Venice, CA 90291  
-Call us at (310) 482-3737  
+Send a letter to: Vantage Media, LLC, 2101 Rosecrans Avenue, Suite 2000 El Segundo, CA 90245   
+Call us at (310) 219-6200  
 Email us at: [privacy@vantagemedia.com](mailto:privacy@vantagemedia.com) with a copy to [admin@vantagemedia.com](mailto:admin@vantagemedia.com)
 
 If you are a California resident and would like to request certain information regarding the disclosure of your personal information to third parties for direct marketing purposes, please submit your request in writing to the address above.
