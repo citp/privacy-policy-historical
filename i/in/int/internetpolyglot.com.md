@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the internetpolyglot.com privacy policy that was archived on 2007-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070612072257id_/http%3A//www.internetpolyglot.com/publicPrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internetpolyglot.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229114459id_/http%3A//www.internetpolyglot.com/publicPrivacyPolicy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Internet Polyglot
+# Internet Polyglot - Privacy Policy
 
 Your privacy is our top concern. We work hard to earn and keep your trust, so we adhere to the following principles to protect your privacy: 
 
