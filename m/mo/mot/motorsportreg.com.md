@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motorsportreg.com privacy policy that was archived on 2007-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070208183624id_/http%3A//www.motorsportreg.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motorsportreg.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229012101id_/http%3A//www.motorsportreg.com/privacy.cfm) for the most accurate reproduction.*
 
 # MotorsportReg.com : Privacy Policy
 
@@ -8,7 +8,7 @@
 
 First and foremost understand that MotorsportReg.com, operated by [Pukka Software](http://www.pukkasoft.com/), works as hard as possible to protect your privacy as if it were our own. 
 
-Because we gather certain types of information about MotorsportReg.com ("Pukka") users, we feel you should fully understand the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it. Questions regarding this policy should be directed to [customer service](https://web.archive.org/web/20070208183624id_/http%3A//www.motorsportreg.com/contact.cfm). NOTE: Pukka cannot accept information from individuals who are under 16 years of age without first obtaining express parental consent. 
+Because we gather certain types of information about MotorsportReg.com ("Pukka") users, we feel you should fully understand the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it. Questions regarding this policy should be directed to [customer service](https://web.archive.org/web/20071229012101id_/http%3A//www.motorsportreg.com/contact.cfm). NOTE: Pukka cannot accept information from individuals who are under 16 years of age without first obtaining express parental consent. 
 
 #### 1\. Capture and Use of Information
 
