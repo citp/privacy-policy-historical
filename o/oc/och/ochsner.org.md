@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ochsner.org privacy policy that was archived on 2007-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070512062846id_/http%3A//www.ochsner.org/body.cfm%3Fid%3D22) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ochsner.org privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229022025id_/http%3A//www.ochsner.org/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Ochsner Health System » Privacy Policy
 
 **Ochsner Clinic Foundation  
 Patient Privacy Statement**
@@ -27,7 +27,7 @@ Effective Date: December 16, 2002
 
 THIS NOTICE DESCRIBES HOW MEDICAL INFORMATION ABOUT YOU MAY BE USED AND DISCLOSED AND HOW YOU CAN OBTAIN ACCESS TO THIS INFORMATION. PLEASE REVIEW IT CAREFULLY.
 
-If you have any questions about this notice, please call **1-866-842-7099** and ask to speak with the [Patient Relations Department](https://web.archive.org/web/20070512062846id_/http%3A//www.ochsner.org/body.cfm?id=1112).
+If you have any questions about this notice, please call **1-866-842-7099** and ask to speak with the [Patient Relations Department](https://web.archive.org/web/20071229022025id_/http://www.ochsner.org/body.cfm?id=1112).
 
   
 **OUR PLEDGE REGARDING MEDICAL INFORMATION**  
