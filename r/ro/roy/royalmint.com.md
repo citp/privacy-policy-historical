@@ -1,21 +1,16 @@
-> *The following text is extracted and transformed from the royalmint.com privacy policy that was archived on 2007-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070506051857id_/http%3A//www.royalmint.com/RoyalMint/web/site/Services/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the royalmint.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229182632id_/http%3A//www.royalmint.com/Help/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# British Royal Mint - Privacy Policy
+# Privacy Policy
 
-## 
-
-  
-
-
-##### Royal Mint Website Privacy Statement
+### Privacy Statement
 
 The Royal Mint considers the responsible use of personal information to be a critical element in enabling the Internet to reach its potential as a serious tool for personal and professional activities. As the Internet changes our lives in a number of ways, The Royal Mint is committed to respecting your privacy.
 
-##### Controllers of information
+**Controllers of information**
 
 Any personal information provided or to be gathered by www.royalmint.com is controlled by The Royal Mint, Llantrisant Business Park, Pontyclun, Mid Glamorgan, South Wales, United Kingdom, CF72 8YT. Telephone: 01443 623456. Email: [coinclub@royalmint.com](mailto:coinclub@royalmint.com)
 
-##### Data Collection
+**Data Collection**
 
 _Personal Information_
 
@@ -37,6 +32,8 @@ Some Royal Mint web pages use "cookies", which are small files that may be place
 
 You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether or not to accept it. (However, by not accepting cookies, some web pages may not display properly or you may not be permitted to access certain information.)
 
+|   | 
+
 _Tracking user sessions_
 
 When you visit our website your IP address (the Internet address of your computer) is logged to track your session.
@@ -47,11 +44,11 @@ _Tracking marketing activity_
 
 The Royal Mint uses pixels, or transparent GIF files, to help manage online advertising. These GIF files are provided by our advertisement management partner, DoubleClick. These files enable DoubleClick to recognize a unique cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our website. The cookie was placed by us, or by another advertiser who works with DoubleClick. With both cookies and Spotlight technology, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address. For more information about DoubleClick, including information about how to opt out of these technologies, go to <http://www.doubleclick.net/us/corporate/privacy>.
 
-##### Security
+**Security**
 
 All Royal Mint employees follow an organisation wide security policy. Authorised Royal Mint personnel are provided access to personally identifiable information and these employees have agreed to ensure confidentiality of this information. The Royal Mint policy is to use secure socket layer technology for the protection of credit card information submitted through web forms.
 
-##### Third party organisations
+**Third party organisations**
 
 **_The Royal Mint does not sell, trade or rent your personal information to others._**
 
