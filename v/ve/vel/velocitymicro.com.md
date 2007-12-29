@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the velocitymicro.com privacy policy that was archived on 2007-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070524194732id_/http%3A//velocitymicro.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the velocitymicro.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229084344id_/http%3A//www.velocitymicro.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Statement - High Performance Gaming Computers, Custom Built Home Computers, Business Workstations, Digital Media Computer Systems from Velocity Micro
 
