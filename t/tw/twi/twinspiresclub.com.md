@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twinspiresclub.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623050943id_/http%3A//www.churchilldownsincorporated.com/about/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twinspiresclub.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229111211id_/http%3A//www.churchilldownsincorporated.com/about/privacy_policy.html) for the most accurate reproduction.*
 
 # Churchill Downs Incorporated
 
@@ -20,7 +20,7 @@ This site has security measures in place to protect the loss, misuse and alterat
 
 **Children's Guidelines**
 
-To Children: Do not provide online contact information (such as email) or offline contact information (such as street address) without prior parental consent or parental notification.
+This website is not directed to children under the age of thirteen (13) and we will not knowingly collect or use any information from any person identified as being under the age of thirteen (13).
 
 **Contacting the Web Site**
 
