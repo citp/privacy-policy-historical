@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quickbrowsersearch.com privacy policy that was archived on 2007-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070616144559id_/http%3A//www.new.net/policies_quick.tp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickbrowsersearch.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229124042id_/http%3A//www.new.net/policies_quick.tp) for the most accurate reproduction.*
 
 # New.net: Privacy Policy
 
