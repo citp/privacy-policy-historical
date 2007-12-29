@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gopetplan.com privacy policy that was archived on 2007-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070520074412id_/http%3A//www.gopetplan.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gopetplan.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229111056id_/http%3A//www.gopetplan.com/Privacy.html) for the most accurate reproduction.*
 
-# Petplan USA Pet Insurance for Dogs and Cats - Privacy
+# Pet Health Insurance from Petplan USA - Privacy Policies
 
 At Petplan we value our relationship with our policyholders and we believe strongly in protecting your privacy. Please read this Privacy Policy carefully to learn more about the ways in which we use and protect your personal information. This Privacy Policy outlines what types of non-public personal information is collected, to whom it may be disclosed and how that information is used. 
 
@@ -38,7 +38,7 @@ If you do not agree with the terms and conditions outlined in this Privacy Polic
 **Petplan’s Security and Confidentiality procedures:**
 
   * Petplan restricts access to your non-public personal information to Petplan employees and affiliates of Petplan or others who have a need to know that information in order to service a particular account. Petplan also maintains physical, electronic and procedural safeguards in compliance with applicable laws and regulations to guard your personal information from unauthorized access, alteration or premature destruction.
-  * You have the right to review and correct your personal information in Petplan’s possession, except for information relating to a claim or criminal or civil proceeding. If you have any questions we encourage you to contact our Privacy Officer at [privacy@GoPetplan.com](mailto:privacy@GoPetplan.com) who will be happy to answer any privacy questions that you may have. 
+  * You have the right to review and correct your personal information in Petplan’s possession, except for information relating to a claim or criminal or civil proceeding. If you have any questions we encourage you to [contact us](https://web.archive.org/web/20071229111056id_/http%3A//www.gopetplan.com/ContactUs.html) who will be happy to answer any privacy questions that you may have. 
 
 
 
