@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiatoday.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629232233id_/http%3A//www.india-today.com/privacy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiatoday.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229020657id_/http%3A//www.india-today.com/privacy.phtml) for the most accurate reproduction.*
 
 # INDIA TODAY GROUP | India Today , Business Today, Aaj Tak, Care Today, Today, Cosmopolitan, Reader's Digest, India Today Conclave
 
