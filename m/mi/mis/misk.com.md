@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the misk.com privacy policy that was archived on 2007-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070621145710id_/http%3A//www.misk.com/legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the misk.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229084403id_/http%3A//www.misk.com/legal/privacy.aspx) for the most accurate reproduction.*
 
 # Misk.com - Privacy Policy
 
 This Privacy Policy governs the ways in which Nitin Corporation d/b/a Misk.com (Misk, we or our) collects, uses, maintains and discloses information collected from our customers, visitors to our websites, and visitors to our customer’s websites (Customers, you, or your). 
 
-In the course of providing services to Customers or visitors to our website, we collect information.  Everyone has a different definition of what information they consider to be private.  The purpose of our Privacy Policy is to discuss how we handle the majority of information we collect, or which comes into our possession.  Simply because information is discussed in this policy does not mean it is necessarily considered by us to be private.  Our Privacy Policy supplements, but does not replace our [Terms of Service](https://web.archive.org/legal/tos.aspx "Terms of Service") and [Acceptable Use Policy](https://web.archive.org/legal/aup.aspx "Acceptable Use Policy").  Those policies should be read in conjunction with this policy.  If at any time, you would like to know how specific information is handled, please e-mail us at:  [privacy@misk.com](mailto:privacy@misk.com?subject=Privacy%20Policy "privacy@misk.com"). 
+In the course of providing services to Customers or visitors to our website, we collect information.  Everyone has a different definition of what information they consider to be private.  The purpose of our Privacy Policy is to discuss how we handle the majority of information we collect, or which comes into our possession.  Simply because information is discussed in this policy does not mean it is necessarily considered by us to be private.  Our Privacy Policy supplements, but does not replace our [Terms of Service](https://web.archive.org/legal/tos.aspx "Terms of Service") and [Acceptable Use Policy](https://web.archive.org/legal/aup.aspx "Acceptable Use Policy").  Those policies should be read in conjunction with this policy.  If at any time, you would like to know how specific information is handled, please e-mail us at:  [ privacy@misk.com](mailto:privacy@misk.com?subject=Privacy%20Policy "privacy@misk.com"). 
 
 If we decide to change our privacy policy, we will post those changes to this privacy statement so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.  We reserve the right to modify this privacy statement at any time, so please review it frequently.  If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our homepage.  
 
@@ -52,12 +52,12 @@ Options and Inquiries
 
 If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, or deactivate it by making through your Misk Control Panel, by emailing our Customer Support Team at [support@misk.com](mailto:support@misk.com "support@misk.com"), or by contacting us by telephone or postal mail at the contact information listed below. 
 
-You may ask for a list of third parties who provide services through us by sending an e-mail containing your Misk username and the services you have purchased to: [privacy@misk.com](mailto:privacy@misk.com?subject=Privacy%20Policy "privacy@misk.com").  
+You may ask for a list of third parties who provide services through us by sending an e-mail containing your Misk username and the services you have purchased to: [ privacy@misk.com](mailto:privacy@misk.com?subject=Privacy%20Policy "privacy@misk.com").  
   
 Contact By Email  
-[privacy@misk.com](mailto:privacy@misk.com?subject=Privacy%20Policy "privacy@misk.com")  
+[ privacy@misk.com](mailto:privacy@misk.com?subject=Privacy%20Policy "privacy@misk.com")  
   
-Contact By Mail  
+Contact  By Mail  
 Misk.com  
 973 Main St., Suite B  
 Fishkill, NY 12524
