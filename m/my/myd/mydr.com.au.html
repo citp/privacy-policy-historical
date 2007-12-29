@@ -1,14 +1,20 @@
-<!--The following is the downloaded HTML source of the mydr.com.au privacy policy that was archived on 2007-02-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070207092351id_/http%3A//www.mydr.com.au/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mydr.com.au privacy policy that was archived on 2007-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071229151708id_/http%3A//www.mydr.com.au/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"><html><head>
 
 <title>myDr Privacy Policy</title>
 
-<link rel="stylesheet" href="/styles/mydr.css" type="text/css">
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"> </script> 
+<script type="text/javascript"> _uacct = "UA-2802005-1"; urchinTracker(); </script> 
 
+
+<link rel="stylesheet" href="/styles/mydr.css" type="text/css">
+<!--[if IE]>
+	<LINK REL="stylesheet" HREF="/styles/regie.css" TYPE="text/css">
+<![endif]-->
 <script language="JavaScript" type="text/javascript">
-<!--
+
 
 if (document.images) {
 	pic9over = new Image(75,26);
@@ -92,7 +98,7 @@ function PopUp(URL) {
 	}
 	PopWindow = window.open(URL,"","status=no,width=" + PopW + ",height=" + PopH + ",screenX=" + XOffset + ",screenY=" + YOffset + ",top=" + YOffset + ",left=" + XOffset + ", scrollbars=yes,resizable=yes,border=no,setHotKeys=no,menubar=no,locationbar=no")
 	PopWindow.opener = self;
-	PopWindow.focus;
+	PopWindow.focus; 
 	PopDone = 1
 }
 
@@ -128,9 +134,9 @@ function PopUpMedia(Type,ID,PopW,PopH) {
 //	Login pop up code
 //######################
 //	defaults
-	LoginFixedWidth = 640
+	LoginFixedWidth = 680
 	LoginPopW = 320
-	LoginPopH = 180
+	LoginPopH = 230
 	LoginYOffset = 200;
 	var LoginBrName = navigator.appName;
 	LoginPopPath = "/Login/"
@@ -147,6 +153,7 @@ function LoginPopUp(LoginURL) {
 	LoginXOffset = (LoginFixedWidth - LoginPopW )/2; 
 	LoginURL = LoginPopPath  + LoginURL + "." + LoginPopFile 
 	
+	
 	if (LoginBrName == "Netscape") {
 		LoginXOffset=LoginXOffset+parent.screenX;LoginYOffset=LoginYOffset+parent.screenY;
 	}
@@ -155,7 +162,7 @@ function LoginPopUp(LoginURL) {
 		LoginXOffset = screen.availHeight/2;
 		LoginYOffset =screen.availWidth/3;
 	}
-	LoginPopWindow = window.open(LoginURL,"","status=no,width=" + LoginPopW + ",height=" + LoginPopH + ",screenX=" + LoginXOffset + ",screenY=" + LoginYOffset + ",top=" + LoginYOffset + ",left=" + LoginXOffset + ", scrollbars=auto,resizable=no,border=no,setHotKeys=no,statusbar=no,menubar=no,locationbar=no")
+	LoginPopWindow = window.open(LoginURL,"","status=no,width=" + LoginPopW + ",height=" + LoginPopH + ",screenX=" + LoginXOffset + ",screenY=" + LoginYOffset + ",top=" + LoginYOffset + ",left=" + LoginXOffset + ", scrollbars=auto,resizable=yes,border=no,setHotKeys=no,statusbar=no,menubar=no,locationbar=no")
 	LoginPopWindow.opener = self;
 	LoginPopWindow.focus;
 	LoginPopDone = 1
@@ -191,7 +198,9 @@ function MiniWebPopup(PopupURL)
 	//alert("Finished after focus")
 }
 //************ End POPHELPJS Include ************
-//-->
+
+
+
 </script>	
 <meta http-equiv="Content-Script-Type" content="text/javascript">
 
@@ -213,15 +222,20 @@ function MiniWebPopup(PopupURL)
               <tr> 
                 <td valign="top"> 
 
-                 <table border="0" bordercolor="red" cellspacing="0" cellpadding="0" width="100%" background="/images/spacer.gif">
+                 <table border="0" bordercolor="red" cellspacing="0" cellpadding="0" width="100%" background="/images/spacer.gif" id="Table1">
                    <tbody><tr> 
                     <td width="100%">&nbsp;</td>
-                    <td width="15"><img src="/images/tab1.gif" width="15" height="21" alt=""></td>
+                    <td width="13"><img src="/images/myDr_leftBlue.gif" width="13" height="21" alt=""></td>
                     <td bgcolor="#000099" nowrap=""><a class="link" href="javascript:LoginPopUp('proLogin');"><font color="#FFFFFF" size="-4">Professionals' Site Builder</font></a></td>
-                    <td width="28"><img src="/images/tab2.gif" width="28" height="21" alt=""></td>
-                    <td bgcolor="#FF9900" nowrap=""><a class="link" href="javascript:LoginPopUp('userLogin');"><font color="#FFFFFF" size="-4">myDr Members' Login</font></a></td>
-                    <td width="27"><img src="/images/tab3_redone.gif" width="14" height="21" alt=""></td>
-                  
+                    <td width="24"><img src="/images/myDr_middleBlueYellow.gif" width="24" height="21" alt=""></td>
+                    <td bgcolor="#FF9900" nowrap=""><a class="link" href="javascript:LoginPopUp('userLogin');"><font color="#FFFFFF" size="-4"><i>myDr</i> Members' Login</font></a></td>
+                    <td width="24"><img src="/images/myDr_middleYellowBlue.gif" width="24" height="21" alt=""></td>
+                    <td bgcolor="#000099" nowrap="">
+											&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+											<a class="link" href="/loginPrompt.asp"><font color="#FFFFFF" size="0">Join <i>myDr</i></font></a>
+											&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+										</td>
+                    <td width="12"><img src="/images/myDr_rightBlue.gif" width="12" height="21" alt=""></td>                 
                    </tr>
                 </tbody></table>
 
@@ -280,9 +294,12 @@ function Quicksubmit(type) {
   var status = "yes";
 
   var localRegEx = /\s/;
+  
+  var re2 = /[^\w ]/g;
 
   kw = document.quicksearchform.inputtext.value;
-
+  kw = kw.replace(re2, "");
+ // alert(kw);
   if (kw == "" || kw.length < 3)
   {
     alert("Please enter at least one keyword of at least three (non-space) characters.");
@@ -331,8 +348,8 @@ function Quicksubmit(type) {
 
 
   <tbody><tr>
-    <td style="color:#000066;font-size:2" onmouseover="this.style.color='blue';this.style.cursor='hand';" onmouseout="this.style.color='#000066';" onclick="window.location='/';">
-      <a href="/"><font color="#000066" size="2"><b>&nbsp;<u><em>myDr</em> HomePage <br></u></b></font></a>
+    <td style="color:#000066;font-size:2" onmouseover="this.style.color='blue';this.style.cursor='hand';" onmouseout="this.style.color='#000066';">
+      <a href="/"><font color="#000066" size="2"><b>&nbsp;<u><em><i>myDr</i></em> HomePage <br></u></b></font></a>
     </td>
   </tr>
 
@@ -342,9 +359,9 @@ function Quicksubmit(type) {
   //
 -->
   <tr>
-    <td class="menucell" style="background-color:#E8EDF9;font-weight:normal" onmouseover="on(this);" onmouseout="off(this)" onclick="window.location='/default.asp?Section=Sitemap';">
+    <td class="menucell" style="background-color:#E8EDF9;font-weight:normal" onmouseover="on(this);" onmouseout="off(this)">
 
-      Site Map
+      <a href="/default.asp?Section=Sitemap" onmouseover="on(this);" onmouseout="off(this)">Site Map</a>
     </td>
   </tr>
   <tr>
@@ -647,7 +664,12 @@ function Quicksubmit(type) {
 
       &nbsp;<a href="/tools/bodymass.asp"><u>Body Mass Index (BMI)</u></a><br>&nbsp;<a href="/tools/bodymass.asp"><u>Calculator</u></a>
     </td>
-  </tr>  
+  </tr>
+    <tr>
+    <td style="color:blue">
+      &nbsp;<a href="/tools/caloriesburnedcalc.asp"><u>Calories Burned Calculator</u></a>
+    </td>
+  </tr>
   <tr>
     <td style="color:blue">
       &nbsp;<a href="/tools/ChildEnergyCalculator.asp"><u>Child Energy Calculator</u></a>
@@ -734,6 +756,12 @@ function Quicksubmit(type) {
   <tr>
     <td style="color:blue">
 
+      &nbsp;<a href="/tools/QuizFrame.asp?QuizId=52"><u>Toddlers' Health Quiz</u></a> &nbsp;<a href="/tools/QuizFrame.asp?QuizId=52"><u></u></a>
+    </td>
+  </tr>
+  <tr>
+    <td style="color:blue">
+
       &nbsp;<a href="/tools/ToolFrame.asp?ToolId=44"><u>Waist-to-hip</u></a> &nbsp;<a href="/tools/ToolFrame.asp?ToolId=44"><u>Ratio Calculator</u></a>
     </td>
   </tr>
@@ -807,7 +835,7 @@ function Quicksubmit(type) {
   <tr>
     <td style="color:blue">
 
-      &nbsp;<a href="javascript:LoginPopUp('userLogin');"><u>myDr Members' Login</u></a>
+      &nbsp;<a href="javascript:LoginPopUp('userLogin');"><u><i>myDr</i> Members' Login</u></a>
     </td>
   </tr>
   <tr>
@@ -819,7 +847,7 @@ function Quicksubmit(type) {
   <tr>
     <td style="color:blue">
 
-      &nbsp;<a href="/LoginPrompt.asp"><u></u></a><br>&nbsp;<a href="/LoginPrompt.asp"><u>Access myDr Plus Interactive Health Content</u></a>
+      &nbsp;<a href="/myHealthfile/myHealthfile.asp"><u></u></a><br>&nbsp;<a href="/Includes/ServerUtils/checkLogin.asp?n=y'"><u>Access <i>myDr</i> Plus Interactive Health Content</u></a>
     </td>
   </tr>
   <tr>
@@ -851,7 +879,7 @@ function Quicksubmit(type) {
   </td>
 </tr>
 </tbody></table>
-</td>
+</td> 
     
     <td width="24" background="/images/bg/line_lft.gif">&nbsp;</td>
     <td width="100%">			
@@ -1012,11 +1040,11 @@ function Quicksubmit(type) {
 	<br>
 </td>
 <td width="30" background="/images/bg/line_rgt.gif"><img src="/images/blue_lne.gif" width="30" height="73" alt=""></td>
-<td width="145" align="center"> 
+<td width="165px" align="center"> 
 
 	  <!--div style="padding:0;margins:0;width:100%;background:url('/images/bg/blue_rgt.jpg');height:50px;">&nbsp;</div-->
 
-      <table class="DefaultRHS" cellpadding="5px" cellspacing="0">
+      <table class="DefaultRHS" cellpadding="5px" cellspacing="0" width="170px">
       <tbody><tr><td>
       <!--object><embed src="/images/mydrad.swf" width="120" height="150"></embed></object-->
       <!--script>
@@ -1039,18 +1067,15 @@ function Quicksubmit(type) {
 		url = replace(url,"?&","?")
       %->
       <div id="pollFrame">
-      <iframe onload="insertIt()" src="" border="0" style="display:none;"></iframe>
+      <iframe onload="insertIt()" src="" border="0" style=""></iframe>
       </div-->
 
 <div style="border:2px solid #CCC;padding:3px;">
-<div style="text-align:center;font-size:10px;height:15px;color:gray;font-variant: small-caps">advertisements</div>
+<div style="text-align:center;font-size:10px;height:15px;color:gray;font-variant: small-caps">advertisement</div>
 
-      
-
-		<script language="JavaScript" type="text/javascript" src="http://chg.mydr.com.au/adx.js"></script>
+      <script language="JavaScript" type="text/javascript" src="http://chg.mydr.com.au/adx.js"></script>
 		<script language="JavaScript" type="text/javascript">
 		<!--
-
 		   if (!document.phpAds_used) document.phpAds_used = ',';
 		   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
 
@@ -1063,13 +1088,11 @@ function Quicksubmit(type) {
 		      document.write ("&amp;referer=" + escape(document.referrer));
 		   document.write ("'><" + "/script>");
 		//-->
-		</script><script language="JavaScript" type="text/javascript" src="http://chg.mydr.com.au/adjs.php?n=644807905&amp;what=zone:77&amp;exclude=,"></script><noscript><a href='http://chg.mydr.com.au/adclick.php?n=a0ce208f' target='_blank'><img src='http://chg.mydr.com.au/adview.php?what=zone:77&amp;n=a0ce208f' border='0' alt=''></a></noscript>
-
-	<div style="text-align:cente;">
-		<div style="font-size:1px;height:5px;">&nbsp;</div>
-		<div style="margin:0 auto;font-size:1px;border-top:1px solid #AAA;height:5px;width:98%">&nbsp;</div>
-	</div>
-
+		</script><script language="JavaScript" type="text/javascript" src="http://chg.mydr.com.au/adjs.php?n=387657970&amp;what=zone:77&amp;exclude=,"></script><noscript><a href='http://chg.mydr.com.au/adclick.php?n=a0ce208f' target='_blank'><img src='http://chg.mydr.com.au/adview.php?what=zone:1077&amp;n=a0ce208f' border='0' alt=''></a></noscript>
+			
+		<div style="margin:3px;"><hr noshade="" size="1" style="height:1px"></div>
+			
+		<script language="JavaScript" type="text/javascript" src="http://chg.mydr.com.au/adx.js"></script>
 		<script language="JavaScript" type="text/javascript">
 		<!--
 		   if (!document.phpAds_used) document.phpAds_used = ',';
@@ -1084,7 +1107,11 @@ function Quicksubmit(type) {
 		      document.write ("&amp;referer=" + escape(document.referrer));
 		   document.write ("'><" + "/script>");
 		//-->
-		</script><script language="JavaScript" type="text/javascript" src="http://chg.mydr.com.au/adjs.php?n=383106555&amp;what=zone:1077&amp;exclude=,"></script><noscript><a href='http://chg.mydr.com.au/adclick.php?n=a0ce208f' target='_blank'><img src='http://chg.mydr.com.au/adview.php?what=zone:1077&amp;n=a0ce208f' border='0' alt=''></a></noscript>
+		</script><script language="JavaScript" type="text/javascript" src="http://chg.mydr.com.au/adjs.php?n=409186252&amp;what=zone:1077&amp;exclude=,"></script><noscript><a href='http://chg.mydr.com.au/adclick.php?n=a0ce208f' target='_blank'><img src='http://chg.mydr.com.au/adview.php?what=zone:1077&amp;n=a0ce208f' border='0' alt=''></a></noscript>
+			
+			
+			
+			
 	</div>
       </td>
       </tr>
@@ -1095,8 +1122,8 @@ Top 10 Site!
 </td>
 </tr><tr>
 <td class="DefaultRHS">
-<img border="0" align="center" src="/content/images/categories/Awardsandlogos/hitwiseJulSept06.gif"><br>
-Hitwise ranks <i>myDr</i> as the number 5 Health and Medical Information Website in Australia.
+<img border="0" align="center" src="/content/images/categories/Awardsandlogos/hitwiseJulSep07.gif" alt="Hitwise top 10 website logo"><br>
+Hitwise ranks <i>myDr</i> as the number 6 Health and Medical Information Website in Australia.
 <!-- End Hitwise Award Code -->
 
 <br>
@@ -1108,7 +1135,7 @@ Health Tool Kit
 </td>
 </tr><tr>
 <td class="DefaultRHS">
-<img src="/images/tools/Healthtoolkit.JPG" width="80px" height="80px"><br><br><a href="/tools/default.asp">Open the <i>myDr</i> health tool kit</a><br> for a quick and easy health assessment.
+<img src="/images/tools/Healthtoolkit.JPG" alt="Doctor's bag" width="80px" height="80px"><br><br><a href="/tools/default.asp">Open the <i>myDr</i> health tool kit</a><br> for a quick and easy health assessment.
 <br>
 <br>
 </td>
@@ -1118,7 +1145,7 @@ myHealthfile
 </td>
 </tr><tr>
 <td class="DefaultRHS">
-<img src="/images/Related/MyHealthfile.JPG"><br><br><a href="/myHealthfile/myHealthfile.asp">Access your personal healthfile</a><br>Keep articles of interest, keep a record of your medication, record your doctor's contact details and more.
+<img src="/images/Related/MyHealthfile.JPG" alt="myHealthFile"><br><br><a href="/myHealthfile/myHealthfile.asp">Access your personal healthfile</a><br>Keep articles of interest, keep a record of your medication, record your doctor's contact details and more.
 <br>
 <br>
 </td>
@@ -1128,7 +1155,7 @@ Medical Dictionary
 </td>
 </tr><tr>
 <td class="DefaultRHS">
-<img src="/images/tools/Dictionary2.JPG" width="80px" height="60px"><br><br><a href="/tools/dictionary.asp">Search the Online Medical Dictionary</a><br> to find the meaning of complex medical terms.
+<img src="/images/tools/Dictionary2.JPG" width="80px" height="60px" alt="magnifying glass"><br><br><a href="/tools/dictionary.asp">Search the Online Medical Dictionary</a><br> to find the meaning of complex medical terms.
 <br>
 <br>
 </td>
@@ -1138,7 +1165,7 @@ Medication Information
 </td>
 </tr><tr>
 <td class="DefaultRHS">
-<img src="/images/Related/Medication.JPG"><br><br><a href="/drugs/drugs.asp">Find medication information here</a><br> All medication information is provided by MIMS, supplier of drug information to doctors for 40 years.
+<img src="/images/Related/Medication.JPG" alt="capsule"><br><br><a href="/drugs/drugs.asp">Find medication information here</a><br> All medication information is provided by MIMS, supplier of drug information to doctors for 40 years.
 <br>
 <br>
 </td>
@@ -1207,7 +1234,7 @@ to be a HealthInsite information partner site<br><br clear="all"></div>
 	to be used to diagnose, treat, cure or prevent any disease. Further, the accuracy, currency and completeness of
 	the information available on this Web site cannot be guaranteed. CMPMedica Australia Pty Ltd, its affiliates and their
 	respective servants and agents do not accept any liability for any injury, loss or damage incurred by use of
-	or reliance on the information made available via or through myDr whether arising from negligence or otherwise.
+	or reliance on the information made available via or through <i>myDr</i> whether arising from negligence or otherwise.
 	See <a href="/privacy.asp"><u>Privacy Policy</u></a> and <a href="/disclaimer.asp"><u>Disclaimer</u></a>.
 	<br>
 	<br>
@@ -1216,11 +1243,11 @@ to be a HealthInsite information partner site<br><br clear="all"></div>
 	//var useragent=navigator.userAgent;
 	//var version=parseInt(navigator.appVersion);
 	//if((useragent.indexOf("MSIE")!=-1)&&(version>=4))
-	//	document.write("<A href=\"\" onClick=\"this.style.behavior=\'url(#default#homepage)\';this.setHomePage(\'http://newlock.mimsdata.com.au/\');\">Make myDr your Home Page</a>");	
+	//	document.write("<A href=\"\" onClick=\"this.style.behavior=\'url(#default#homepage)\';this.setHomePage(\'http://newlock.mimsdata.com.au/\');\">Make <i>myDr</i> your Home Page</a>");	
 	</script>
 	-->
 	<br><br>
-	This page last updated : Tuesday, 6 February 2007<br>
+	This page last updated : Friday, 28 December 2007<br>
 	© Copyright CMPMedica Australia, 2007.</font>
 	</center>
 	
