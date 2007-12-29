@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cpr.org privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609062009id_/http%3A//www.cpr.org/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D59%26Itemid%3D116) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpr.org privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229160953id_/http%3A//www.cpr.org/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D59%26Itemid%3D116) for the most accurate reproduction.*
 
 # Colorado Public Radio - Privacy Statement
 
