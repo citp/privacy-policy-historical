@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nymag.com privacy policy that was archived on 2007-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070212120553id_/http%3A//nymag.com/newyork/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nymag.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229024357id_/http%3A//nymag.com/newyork/privacy/index.html) for the most accurate reproduction.*
 
 # New York Magazine - Nymag.com - Privacy Policy
 
-_Amended as of December 15, 2004_ **
+_Amended as of October 3, 2007_ **
 
 Click below for specific information about:
 
@@ -23,19 +23,19 @@ Safeguarding your privacy is very important to us. We take seriously the collect
 
 **Who We Are And How To Reach Us**
 
-New York Magazine Holdings LLC owns and operates the NewYorkMagazine.com website ("NYMag.com"). NYMag.com is a division of New York Magazine Holdings LLC and is the only operator of this website. You may contact us directly if you have any questions regarding the content and material on our website or if you have any questions about our privacy policies. Please contact our Privacy Officer at:
+New York Media LLC, doing business in the State of New York as New York Media (DE) LLC owns and operates the New York Magazine website ("NYMag.com"). NYMag.com is a division of New York Media LLC, doing business in the State of New York as New York Media (DE) LLC and is the only operator of this website. You may contact us directly if you have any questions regarding the content and material on our website or if you have any questions about our privacy policies. Please contact our Privacy Officer at:
 
-David Evans  
-Online General Manager & Sales Development Director  
+Michael Silberman   
+Online General Manager  
 NewYorkMagazine.com   
-444 Madison Avenue, 4th Floor  
-New York, NY 10022  
-Phone: (212) 508-0853  
-E-mail: dave_evans@newyorkmag.com
+75 Varick Street  
+New York, NY 10013  
+Phone: (212) 508-0803  
+E-mail: michael.silberman@newyorkmag.com
 
 [Submit a Comment](https://web.archive.org/newyork/contactus/)
 
- **Website Membership and Participation Eligibility**
+**Website Membership and Participation Eligibility**
 
 Parts of our website may require that you be thirteen (13) years of age or older to participate and/or be a member and receive membership benefits, and you must be eighteen (18) years of age or older to participate in our A-List Invitations. We may conduct other contests, sweepstakes and/or special events over our site. To participate in these events, you must meet the designated minimum age requirements (for example, twenty-one (21) years of age or older) for the specific event. Please see our Terms of Usage Agreement for additional information on membership and/or participation on our website. 
 
@@ -47,7 +47,7 @@ We provide various informative, educational, and entertaining features as part o
 
 **Use and Collection of Information by Nymag.com**
 
-To participate as a member of our website, or in online activities, special events, contests, sweepstakes or Interactive Areas ("Interactive Areas" include chat rooms, bulletin boards, message boards or auditoriums, SMS text messaging, mobile alerts, and mobile e-mail updates), you may be required to provide personally identifiable information such as your name, home and e-mail addresses, telephone number, birth date and gender ("personal information"). We may also survey visitors about various topics, including local events and experiences, television viewing preferences and how we can improve our website and services. Response to our surveys is entirely voluntary. 
+To participate as a member of our website, or in online activities, special events, contests, sweepstakes or Interactive Areas ("Interactive Areas" include chat rooms, bulletin boards, message boards or auditoriums, article or blog comment areas, SMS text messaging, mobile alerts, and mobile e-mail updates), you may be required to provide personally identifiable information such as your name, home and e-mail addresses, telephone number, birth date and gender ("personal information"). We may also survey visitors about various topics, including local events and experiences, television viewing preferences and how we can improve our website and services. Response to our surveys is entirely voluntary. 
 
 We offer SMS text message mobile alerts and mobile e-mail updates as a text messaging/mobile e-mail service for our restaurant and bar listings. We do not collect the sender's e-mail or telephone number on this feature. 
 
@@ -55,7 +55,7 @@ We collect personal information for several important purposes, including to ope
 
 We may also offer an “Email Album” feature that allows members to share their fashion albums with others. If you e-mail your fashion albums to others, the emailed albums will automatically be made public for anyone to access. You can also choose to make your albums private so only you can access them. We do not collect the sender’s e-mail information on this feature. 
 
-The only personal information this website obtains about you is information voluntarily provided by you through our website. This website does not collect additional personal information about individual visitors or members from other sources. To gauge the effectiveness of our website, we may collect non-personal information about our members and visitors, such as Internet server and browser identification, the Internet service provider, clickstream information, the web page from which a person enters our site, webpages visited, duration of visit and domain type. This information does not reveal a visitor's personal identity. 
+The only personal information this website obtains about you is information voluntarily provided by you through our website. This means that a person can visit our website and navigate through the site without giving us personal information. This website does not collect additional personal information about individual visitors or members from other sources. To gauge the effectiveness of our website, we may collect non-personal information about our members and visitors, such as Internet server and browser identification, the Internet service provider, clickstream information, the web page from which a person enters our site, webpages visited, duration of visit and domain type. This information does not reveal a visitor's personal identity.
 
 We may produce certain contests, sweepstakes and special events with the support of affiliated or non-affiliated sponsors and/or promotional partners. The personal information collected by our website in conjunction with such events may also be used for the marketing of additional services and events by NYMag.com and/or its promotional partners and sponsors beyond the contest, sweepstakes and/or special event. Depending on the event, visitors will be able to either grant their approval on how their personal information will be used before it is collected ("opt-in"), or choose to deny use of their information for additional purposes ("opt-out"). For each contest, sweepstakes, and/or special event, we will post on the website applicable rules for the event, and if necessary, post any supplemental terms and conditions or privacy provisions. To the extent there is a conflict between those privacy provisions and this policy, the privacy provisions for the specific event will govern. 
 
@@ -65,9 +65,9 @@ For the convenience of our visitors, we may provide the opportunity to purchase 
 
 ** ****Our Policy on Disclosing Your Information to Parties Other than New York Magazine**
 
-We only share or disclose your personal information with companies other than NYMag.com when it is required by law, disclosure is necessary to operate the website or certain website services, to protect the safety of our visitors, employees or property and/or when disclosure is consistent with NYMag.com's practices for services that are similarly provided offline. The website may offer you the opportunity to give user reviews and ratings for restaurants, hotels, bars, events or other items, or to participate in Interactive Areas. Your member name may appear next to your user reviews, ratings or other postings or participation in Interactive Areas on the website. Your member name may also appear on a member profile section of the website. We may also use and disclose your member name and reviews and ratings in any other manner in accordance with the Terms of Usage Agreement. 
+We only share or disclose your personal information with companies other than NYMag.com when it is required by law, disclosure is necessary to operate the website or certain website services, to protect the safety of our visitors, employees or property and/or when disclosure is consistent with NYMag.com's practices for services that are similarly provided offline. The website may offer you the opportunity to give user reviews, ratings and comments for restaurants, hotels, bars, events, articles or other items, or to participate in Interactive Areas. Your member name may appear next to your user reviews, ratings, comments or other postings or participation in Interactive Areas on the website. Your member name may also appear on a member profile section of the website. We may also use and disclose your member name and reviews and ratings in any other manner in accordance with the Terms of Usage Agreement.
 
-NYMag.com is a division between New York Magazine Holdings LLC. We may in the future share personal information with our parents, partners, affiliates or other entities for other purposes. If we decide to enter into such sharing arrangements, we will disclose to our registered members and in this Privacy Policy the name of the entity(s) that we will share information with, what type of personal information will be shared, how the information will be used, and how to contact us if you do not want us to share your personal information ("opt-out"). We may conduct joint activities with members of the NYMag.com family; however, we will not share individual visitors' personal information with these entities unless we provide notice in this Privacy Policy. 
+NYMag.com is a division of New York Media LLC, doing business in the State of New York as New York Media (DE) LLC. We may in the future share personal information with our parents, partners, affiliates or other entities for other purposes. If we decide to enter into such sharing arrangements, we will disclose to our registered members and in this Privacy Policy the name of the entity(s) that we will share information with, what type of personal information will be shared, how the information will be used, and how to contact us if you do not want us to share your personal information ("opt-out"). We may conduct joint activities with members of the NYMag.com family; however, we will not share individual visitors' personal information with these entities unless we provide notice in this Privacy Policy.
 
 When visitors send an e-mail to us, we will protect your e-mail address and other personal contact information. However, we may disclose the content of your e-mail to other persons. Please see our Terms of Usage Agreement. We may share your personal information with our operational providers or those persons, companies or agents who provide support for the internal operations of the website, such as contest fulfillment services, maintenance and technical services, and e-commerce and auction contractors. If you are purchasing goods, merchandise or services on this website and use a credit card to complete the transaction, our operational providers may share your personal information and credit card number with a ticket agent, a credit card processing and/or a shipping/fulfillment company in order to complete your order.
 
@@ -107,9 +107,9 @@ We will review our security measures and Privacy Policy on a periodic basis, and
 
 **CHILDREN'S PRIVACY POLICY**
 
-NYMag.com respects the privacy of your child and we want to share with you our policies regarding children under the age of thirteen. We have developed this site to appeal to visitors over the age of thirteen. Although visitors of all ages may navigate through our website, we do not knowingly collect personal information from persons under the age of thirteen. If upon notification by a parent or guardian, or discovery by other means, that a child under thirteen has improperly registered on this site by using false information, we will immediately cancel the child's membership and/or participation, and delete the child's personally identifiable information, member name and password from our records. 
+NYMag.com respects the privacy of your child and we want to share with you our policies regarding children under the age of thirteen (13). We have developed this site to appeal to visitors over the age of thirteen (13). Although visitors of all ages may navigate through our website, we do not knowingly collect personal information from persons under the age of thirteen (13). If upon notification by a parent or guardian, or discovery by other means, that a child under thirteen (13) has improperly registered on this site by using false information, we will immediately cancel the child's membership and/or participation, and delete the child's personally identifiable information, member name and password from our records.
 
-If we decide to request information from children, we will require verifiable parental consent before we collect any personal information from children under thirteen years of age, except in the following circumstances allowed by law: 
+If we decide to request information from children, we will require verifiable parental consent before we collect any personal information from children under thirteen (13) years of age, except in the following circumstances allowed by law: 
 
   * To provide notice and get consent from a parent or guardian;
   * To respond to a one-time request from a child, after which we will immediately delete the child's information;
@@ -139,6 +139,8 @@ While children and teenagers need a certain amount of privacy, they also need pa
 
 Please do not hesitate to contact us if you have any questions about this Privacy Policy. 
 
-_Contact us at:_ 444 Madison Avenue, 4th Floor, New York, New York 10022 
+_Contact us at:_ 75 Varick Street , 4th Floor, New York, New York 10013   
+_Phone:_ (212) 508-0803  
+_E-mail:_ michael.silberman@newyorkmag.com
 
 Thank you for visiting! 
