@@ -1,15 +1,8 @@
-> *The following text is extracted and transformed from the gulftalent.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623110547id_/http%3A//www.gulftalent.com/home/cntPrivacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gulftalent.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229021415id_/http%3A//www.gulftalent.com/home/cntPrivacy.php) for the most accurate reproduction.*
 
 # GulfTalent.com Privacy Policy
 
-|   
----  
-  
-[](http://www.marcusevans.com/events/TCEventinfo.asp?EventID=12645)  
-  
-   
-  
-| **Privacy Policy**  
+**Privacy Policy**  
 ---  
 **Introduction**  
 GulfTalent is committed to protecting the privacy of your personal data collected at this website. This statement summarizes the policies of this website regarding the collection, use, and transfer of your personal data, and the security measures GulfTalent employs to protect such data.  
@@ -35,7 +28,7 @@ Log in at www.gulftalent.com.
 Enter your User ID and Password.  
 When you have finished editing and saving your changes, be sure to review each page containing the information you modified to ensure the changes you made are accurate. If you need further assistance in accessing and modifying your personal information, or if you no longer desire our service, we will endeavor to provide a way to correct, update, or remove your personal data.  
 **Newsletter, Site/Service Updates, Surveys, and Contests**  
-GulfTalent may offer newsletters to registered users of the site via email. If you wish to unsubscribe from a newsletter, please follow the directions at the bottom of the newsletter and you will be taken off the recipient list.  
+GulfTalent may offer newsletters to registered users of the site via email. If you wish to unsubscribe from a newsletter, please follow the directions at the bottom of the newsletter and you will be taken off the recipient list. If you thought the email you have received from our server is an unsolicited email, please contact us at  and we will follow up the matter.  
 GulfTalent will periodically send you website update information and service announcement updates via email. Because these announcements contain important information about GulfTalent's service, as long as you remain a registered user, you will not be able to unsubscribe from these announcements. From time-to-time the site requests information from you via surveys or contests. Participation in these surveys or contests is your choice and is completely voluntary as to whether to disclose information. Information requested may include contact information and demographic information. Contact information will be used to notify and award winners. Survey information will be used for purposes of monitoring, improving, or enhancing the use and satisfaction of the site.  
 **Links**  
 Please be aware that this website may contain links to third-party websites. This Privacy Policy applies solely to information collected by this website. This Privacy Policy does not apply to, nor is GulfTalent responsible for, any content, privacy practices, or conduct of such websites. We encourage our users to be aware when they leave our site and to read the privacy policies of each and every website including those that collect personally identifiable information.  
@@ -56,13 +49,4 @@ In addition, GulfTalent distinguishes between ‘Employers’ and ‘Recruitment
   
 **Changes To The Privacy Policy**  
 GulfTalent reserves the right to modify or amend the Privacy Policy at any time and for any reason. Please check back to this Privacy Policy from time to time to stay informed.  
-Nothing contained in this Privacy Policy is intended to create a contract or agreement between GulfTalent and any user visiting the site or providing identifying information in any form. If you have any questions about your personal information, please email GulfTalent at [info@gulftalent.com](mailto:info@gulftalent.com?)  
-|   
-
-
-     **Latest Research**        
-
-
-  
-  
----
+Nothing contained in this Privacy Policy is intended to create a contract or agreement between GulfTalent and any user visiting the site or providing identifying information in any form. If you have any questions about your personal information contact us
