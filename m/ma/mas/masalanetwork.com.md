@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the masalanetwork.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623050125id_/http%3A//masalanetwork.com/index.php%3Fmenu%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the masalanetwork.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229013837id_/http%3A//www.masalanetwork.com/index.php%3Fmenu%3Dprivacy) for the most accurate reproduction.*
 
 # Masala Network: Indian Movie Caps, Stills, Pictures - Bollywood Actresses, Indian Actresses
 
 | **  _::_ By Owner**  
 ---  
- [AgentSmith](https://web.archive.org/web/20070623050125id_/http%3A//masalanetwork.com/index.php?search_type=owner&search=AgentSmith)  
- [bullbuster](https://web.archive.org/web/20070623050125id_/http%3A//masalanetwork.com/index.php?search_type=owner&search=bullbuster)  
- [CA_chap](https://web.archive.org/web/20070623050125id_/http%3A//masalanetwork.com/index.php?search_type=owner&search=CA_chap)  
- [Destinywaste](https://web.archive.org/web/20070623050125id_/http%3A//masalanetwork.com/index.php?search_type=owner&search=destinywaste)  
- [Freedom](https://web.archive.org/web/20070623050125id_/http%3A//masalanetwork.com/index.php?search_type=owner&search=freedom)  
- [manavsony](https://web.archive.org/web/20070623050125id_/http%3A//masalanetwork.com/index.php?search_type=owner&search=manavsony) New!  
- [MasalaTalk](https://web.archive.org/web/20070623050125id_/http%3A//masalanetwork.com/index.php?search_type=owner&search=masalacaps)  
- [newyorkdada](https://web.archive.org/web/20070623050125id_/http%3A//masalanetwork.com/index.php?search_type=owner&search=newyorkdada)  
- [Nightwatcher](https://web.archive.org/web/20070623050125id_/http%3A//masalanetwork.com/index.php?search_type=owner&search=nightwatcher)  
- [ronak_143](https://web.archive.org/web/20070623050125id_/http%3A//masalanetwork.com/index.php?search_type=owner&search=ronak_143)  
- [sid311](https://web.archive.org/web/20070623050125id_/http%3A//masalanetwork.com/index.php?search_type=owner&search=sid311)  
- [skv_99](https://web.archive.org/web/20070623050125id_/http%3A//masalanetwork.com/index.php?search_type=owner&search=skv_99)  
- [SuperSights](https://web.archive.org/web/20070623050125id_/http%3A//masalanetwork.com/index.php?search_type=owner&search=supersights)  
+ [AgentSmith](https://web.archive.org/web/20071229013837id_/http%3A//www.masalanetwork.com/index.php?search_type=owner&search=AgentSmith)  
+ [bullbuster](https://web.archive.org/web/20071229013837id_/http%3A//www.masalanetwork.com/index.php?search_type=owner&search=bullbuster)  
+ [CA_chap](https://web.archive.org/web/20071229013837id_/http%3A//www.masalanetwork.com/index.php?search_type=owner&search=CA_chap)  
+ [Destinywaste](https://web.archive.org/web/20071229013837id_/http%3A//www.masalanetwork.com/index.php?search_type=owner&search=destinywaste)  
+ [Freedom](https://web.archive.org/web/20071229013837id_/http%3A//www.masalanetwork.com/index.php?search_type=owner&search=freedom)  
+ [manavsony](https://web.archive.org/web/20071229013837id_/http%3A//www.masalanetwork.com/index.php?search_type=owner&search=manavsony)  
+ [MasalaTalk](https://web.archive.org/web/20071229013837id_/http%3A//www.masalanetwork.com/index.php?search_type=owner&search=masalacaps)  
+ [newyorkdada](https://web.archive.org/web/20071229013837id_/http%3A//www.masalanetwork.com/index.php?search_type=owner&search=newyorkdada)  
+ [Nightwatcher](https://web.archive.org/web/20071229013837id_/http%3A//www.masalanetwork.com/index.php?search_type=owner&search=nightwatcher)  
+ [ronak_143](https://web.archive.org/web/20071229013837id_/http%3A//www.masalanetwork.com/index.php?search_type=owner&search=ronak_143)  
+ [sid311](https://web.archive.org/web/20071229013837id_/http%3A//www.masalanetwork.com/index.php?search_type=owner&search=sid311)  
+ [skv_99](https://web.archive.org/web/20071229013837id_/http%3A//www.masalanetwork.com/index.php?search_type=owner&search=skv_99)  
+ [SuperSights](https://web.archive.org/web/20071229013837id_/http%3A//www.masalanetwork.com/index.php?search_type=owner&search=supersights)  
   
 **Sponsored Links**  
 [A1 Matrimonials](http://a1im.com/s.cgi/id=ap2042/)  
