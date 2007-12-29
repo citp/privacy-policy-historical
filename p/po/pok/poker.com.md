@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the poker.com privacy policy that was archived on 2007-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070527135633id_/http%3A//www.poker.com/terms.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poker.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229050627id_/http%3A//www.poker.com/terms.htm) for the most accurate reproduction.*
 
-# Poker.com - Terms & Conditions
+# Poker.com - Terms
 
-## Poker.com Privacy Policy
+## Privacy Policy
+
+At Poker.com, we respect your privacy and are committed to protecting your personal information. We have created this Privacy Policy to let you know what information we collect when you visit the Poker.com web site and online service (collectively, the "Service"), why we collect this information and how we use the collected information. This Privacy Policy is governed by our Terms and Conditions of Use posted at www.poker.com/terms.htm. This Privacy Policy does not govern other Websites that we maintain. By using the Service, you consent to the data practices prescribed in this Privacy Policy. We may periodically make changes to this Privacy Policy that we will include on this page. It is your responsibility to review this Privacy Policy frequently and remain informed about any changes to it, so we encourage you to visit this page often. 
 
 1\. Information Collected. We consider information that may be used to identify an individual, including, but not limited to, first and last name, credit card information, home or other physical address, email address, phone number or other contact information to be "Personal Information." You may be asked to provide Personal Information when you use our web site, register for an account or to use our services, download our software, correspond with us by email, or provide us with feedback regarding this web site or our products and services. The Personal Information that we collect may include: contact information, shipping information, billing information, transaction history, web site usage preferences, and feedback regarding our products and services. In addition, when you interact with the Service, our servers keep an activity log unique to you that collects the information including: source IP address, time of access, date of access, web page(s) visited, language use, and type of browser used. This is not considered Personal Information. In general, you can visit the Poker.com website without telling us who you are and without revealing any Personal Information about yourself. We do not collect Personal Information about you on the Service unless you voluntarily provide it to us. 
 
@@ -30,4 +32,4 @@ Cookies. Cookies are small text files that are stored on your computer when you 
 
 Copyright (c) 2007 Poker.com. All rights reserved. 
 
-Poker.com can be contacted using [this page](http://www.poker.com/contact.htm). 
+Poker.com can be contacted by email to legal@poker.com 
