@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ufs.ac.za privacy policy that was archived on 2007-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070524124419id_/http%3A//www.ufs.ac.za/faculties/content.php%3Fid%3D4304%26FCode%3D15%26DCode%3D411) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ufs.ac.za privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229025618id_/http%3A//www.ufs.ac.za/faculties/content.php%3Fid%3D4304%26FCode%3D15%26DCode%3D411) for the most accurate reproduction.*
 
 # University of the Free State / Universiteit van die Vrystaat / Yunivesithi Ya Freistata
 
