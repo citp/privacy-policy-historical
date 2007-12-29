@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flychina.com privacy policy that was archived on 2007-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070404033806id_/http%3A//www.flychina.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flychina.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229084949id_/http%3A//www.flychina.com/privacy.asp) for the most accurate reproduction.*
 
 # FlyChina Privacy Statement
 
@@ -59,7 +59,7 @@ Our users may 'opt-out' of having their information used for purposes not direct
 
 **Surveys & Contests **
 
-From time-to-time our site requests information from users via completely voluntary surveys or contests. The requested information typically includes contact information (such as name and shipping address), and demographic information (such as zip code). This information will be used to notify the winners, award prizes, monitoring or improving the use and satisfaction of this website. We may use an intermediary to conduct these surveys or contests, they may not use user’ personally identifiable information for any secondary purposes. 
+From time-to-time our site requests information from users via completely voluntary surveys or contests. The requested information typically includes contact information (such as name and shipping address), and demographic information (such as zip code). This information will be used to notify the winners, award prizes, monitoring or improving the use and satisfaction of this website. We may use an intermediary to conduct these surveys or contests, they may not use user' personally identifiable information for any secondary purposes. 
 
 **Security**
 
@@ -69,11 +69,11 @@ FlyChina takes every precaution to protect our users' information. When users su
 
 If users have any questions or suggestions regarding our privacy policy, please contact us at:
 
-Phone: (954) 233-0680  
-Fax: (954) 233-0670  
+Phone: (561) 477-7000  
+Fax: (561) 443-3308  
 E-mail: hqFlyChina.com
 
-Postal Address: 5300 NW 33 Ave, Ste 219, Ft Lauderdale, FL 33309, USA  
+Postal Address: 951 Yamato Road, Suite 106, Boca Raton, FL 33431-4425, USA  
   
 ---|---  
   
