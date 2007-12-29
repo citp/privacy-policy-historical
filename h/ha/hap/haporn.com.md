@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the haporn.com privacy policy that was archived on 2007-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070528074348id_/http%3A//www.haporn.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the haporn.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229021910id_/http%3A//www.haporn.com/privacy.php) for the most accurate reproduction.*
 
 # Haporn.com - Free Adult Video Sharing Website
 
-| 
+|   
+|  | 
 
   
 
@@ -45,7 +46,7 @@
   * We do not share your personally identifiable information (such as name or email address) with other, third-party companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. 
   * We do share non-personally-identifiable information (such as anonymous User usage data, referring / exit pages and URLs, platform types, number of clicks, etc.) with interested third-parties to assist them in understanding the usage patterns for certain content, services, advertisements, promotions, and/or functionality on the Haporn Sites. 
   * We may release personally identifiable information and/or non-personally-identifiable information if required to do so by law, or in the good-faith belief that such action is necessary to comply with state and federal laws (such as U.S. Copyright Law) or respond to a court order, subpoena, or search warrant. 
-  * Haporn also reserves the right to disclose personally identifiable information and/or non-personally-identifiable information that Haporn believes, in good faith, is appropriate or necessary to enforce our [Terms of Use](https://web.archive.org/web/20070528074348id_/http%3A//www.haporn.com/terms.php), take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of our web site, and to protect the rights, property, or personal safety of Haporn, our Users or others.
+  * Haporn also reserves the right to disclose personally identifiable information and/or non-personally-identifiable information that Haporn believes, in good faith, is appropriate or necessary to enforce our [Terms of Use](https://web.archive.org/web/20071229021910id_/http%3A//www.haporn.com/terms.php), take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of our web site, and to protect the rights, property, or personal safety of Haporn, our Users or others.
 
   
   
