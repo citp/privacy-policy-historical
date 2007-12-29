@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tigerdroppings.com privacy policy that was archived on 2007-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070202183659id_/http%3A//www.tigerdroppings.com/rant/message.asp%3Faction%3Ddisplay%26p%3D657121) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tigerdroppings.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229025457id_/http%3A//www.tigerdroppings.com/rant/message.asp%3Faction%3Ddisplay%26p%3D657121) for the most accurate reproduction.*
 
 # General Info @ TigerDroppings.com
 
