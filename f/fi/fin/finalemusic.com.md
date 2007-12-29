@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the finalemusic.com privacy policy that was archived on 2007-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070611175501id_/http%3A//www.makemusic.com/privacy_statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finalemusic.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229203201id_/http%3A//www.makemusic.com/privacy_statement.aspx) for the most accurate reproduction.*
 
 # MakeMusic
 
