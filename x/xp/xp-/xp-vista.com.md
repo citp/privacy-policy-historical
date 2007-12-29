@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xp-vista.com privacy policy that was archived on 2007-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070527135522id_/http%3A//www.xp-vista.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xp-vista.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229120316id_/http%3A//www.xp-vista.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy For Windows XP/Vista
 
@@ -33,4 +33,4 @@ XP-Vista.com has a zero tolerance policy for abuse.
 Sharing
 
 Legal Disclaimer  
-Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site. For example, XP-Vista.com may disclose personal information to law enforcement, other government officials, or third parties in response to criminal or civil subpoenas. 
+Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site. For example, XP-Vista.com may disclose personal information to law enforcement, other government officials, or third parties in response to criminal or civil subpoenas.
