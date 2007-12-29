@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nfib.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617021743id_/http%3A//www.nfib.com/object/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nfib.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229021355id_/http%3A//www.nfib.com/object/privacyPolicy) for the most accurate reproduction.*
 
 # NFIB.com - Privacy Policy
 
@@ -37,7 +37,7 @@ General information collected on our Web site (such as user behaviors) may be us
 ** We have taken reasonable steps to assign passwords, encrypt sensitive data and protect our databases, servers and other information storage locations from unauthorized access. Our employees are subject to written policies regarding the use and disclosure of your non-public personal information. These precautions are not an absolute guarantee of security from unauthorized access and you submit all non-public personal information at your own risk.
 
 **How can you opt-out of receiving e-mails, mail, phone calls and/or faxes from us?  
-** We may periodically contact you via e-mail, phone, mail and/or fax regarding various topics. Should you wish to suspend this service, you may “opt-out” on our Web site by clicking the “contact us” link, or you may contact us at [web_membership@nfib.org](mailto:web_membership@nfib.org), (800) NFIB-NOW, or at 53 Century Blvd., Suite 250, Nashville, TN 37214 and we will promptly remove your contact information from the appropriate distribution list. In addition, each e-mail or fax you receive will contain instructions on how to unsubscribe from a particular e-mail or fax service.
+** We may periodically contact you via e-mail, phone, mail and/or fax regarding various topics. Should you wish to suspend this service, you may “opt-out” on our Web site by clicking the “contact us” link, or you may contact us at [web_membership@nfib.org](mailto:web_membership@nfib.org), 800-NFIB-NOW (800-634-2669), or at 53 Century Blvd., Suite 250, Nashville, TN 37214 and we will promptly remove your contact information from the appropriate distribution list. In addition, each e-mail or fax you receive will contain instructions on how to unsubscribe from a particular e-mail or fax service.
 
 **Will this Privacy Statement change?  
 ** We periodically review our privacy practices. This Privacy Statement may be revised at any time. Notice of a revision to the Privacy Statement will be prominently displayed on our Web site at [NFIB.com/privacy](http://www.nfib.com/privacy).
@@ -54,4 +54,4 @@ We recommend that you enable the cookies on your browser. If we allow third-part
 ** Our Web site may contain links to other destinations on the Internet. We are not responsible for the privacy practices of any other party. We strongly encourage you to read the privacy policies of each and every Web site that collects non-public personal information.
 
 **How can you change or remove your non-public personal information?  
-** You may remove or revise your non-public personal information through our Web site by clicking the “contact us” link. You may also contact us at [web_membership@nfib.org](mailto:web_membership@nfib.org), (800) NFIB-NOW, or at 53 Century Blvd., Suite 250, Nashville, TN 37214 and we will immediately revise or remove your non-public personal information. Unless you instruct us otherwise, we will archive your non-public personal information indefinitely.
+** You may remove or revise your non-public personal information through our Web site by clicking the “contact us” link. You may also contact us at [web_membership@nfib.org](mailto:web_membership@nfib.org), 800-NFIB-NOW (800-634-2669), or at 53 Century Blvd., Suite 250, Nashville, TN 37214 and we will immediately revise or remove your non-public personal information. Unless you instruct us otherwise, we will archive your non-public personal information indefinitely.
