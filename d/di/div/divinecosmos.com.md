@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the divinecosmos.com privacy policy that was archived on 2007-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070423175742id_/http%3A//www.divinecosmos.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D38%26Itemid%3D32) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the divinecosmos.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229092145id_/http%3A//www.divinecosmos.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D38%26Itemid%3D32) for the most accurate reproduction.*
 
 # Divine Cosmos - Privacy Policy
 
@@ -11,10 +11,14 @@ Your privacy is important to us. To better protect your privacy we provide this 
 This notice applies to all information collected or submitted on any of the Divine Cosmos websites. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are: 
 
 Name   
-Address   
-Email address   
-Phone number   
-Credit/Debit Card Information   
+Address 
+
+Email address 
+
+Phone number 
+
+Credit/Debit Card Information 
+
 (etc.)
 
 **The Way We Use Information:**
@@ -31,6 +35,6 @@ Finally, we never use or share the personally identifiable information provided 
 
 **Our Commitment To Data Security**
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we use a secure Internet host, Iweb.ca, and Pay Pal secure online transactions, in order to put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we use a secure Internet host, Ipower.com, Pay Pal and Authorize.net secure online transactions, in order to put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
 
 [**How To Contact Us** ](http://www.divinecosmos.com/index.php?option=com_contact&Itemid=3)
