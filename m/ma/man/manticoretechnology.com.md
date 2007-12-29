@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manticoretechnology.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617143755id_/http%3A//www.manticoretechnology.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manticoretechnology.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229201728id_/http%3A//www.manticoretechnology.com/about/privacy.asp) for the most accurate reproduction.*
 
 # Privacy - Manticore Technology
 
@@ -10,7 +10,7 @@ The following information is intended for Manticore Technology clients and other
 
 Manticore Technology is very concerned with making all of our site visitors comfortable with and aware of our data collection practices. We respect an individual's right to privacy, and as such provide this statement to fully disclose our data collection practices. 
 
-For the Manticore Technology corporate site and for our online software services, we leverage our own products, Virtual Traffic Master, Virtual Commerce Master, and Virtual Touchstone for analytic purposes. For specific information about consumer privacy and our software please click here.
+For the Manticore Technology corporate site and for our online software services, we leverage our own products, Virtual Traffic Master, Virtual Commerce Master, and Manticore Technology for analytic purposes. For specific information about consumer privacy and our software please click here.
 
 ### What We Gather And How We Use It
 
