@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bettymills.com privacy policy that was archived on 2007-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070407223654id_/http%3A//www.bettymills.com/shop/page/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bettymills.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229100243id_/http%3A//www.bettymills.com/shop/page/privacy.html) for the most accurate reproduction.*
 
-# Jansan
+# Betty Mills Janitorial Supplies - Office Products, Cleaning and Janitorial Equipment and Supply Online
 
 Privacy Policy Betty Mills respects and values your privacy. We do not sell or rent any customer information - ever!!! 
 
