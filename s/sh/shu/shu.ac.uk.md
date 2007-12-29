@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shu.ac.uk privacy policy that was archived on 2007-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070615235113id_/http%3A//www.shu.ac.uk/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shu.ac.uk privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229194349id_/http%3A//www.shu.ac.uk/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | About | Sheffield Hallam University
 
@@ -47,4 +47,4 @@ Upon request we will provide you with access to all the information we maintain 
 
 
 **Feedback**   
-If you feel this site is not following its stated information policy, you may contact us at webclinic@shu.ac.uk or write to Steven Hunter, New Media Marketing Manager, Department of Marketing, Sheffield Hallam University, City Campus, Sheffield, S1 1WB. 
+If you feel this site is not following its stated information policy, you may contact us at webclinic@shu.ac.uk or write to Steven Hunter, Web Marketing Manager, Department of Marketing, Sheffield Hallam University, City Campus, Sheffield, S1 1WB. 
