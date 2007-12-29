@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reflexion.net privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626013603id_/http%3A//www.reflexion.net/privacy/index.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reflexion.net privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229205142id_/http%3A//www.reflexion.net/privacy/index.php) for the most accurate reproduction.*
 
 # Reflexion Networks - Privacy Statement -
 
@@ -20,4 +20,4 @@ The Reflexion Administration Web site uses a “cookie” to individualize and i
 
 Reflexion reserves the right to change this Privacy Statement at its own discretion. You indicate your acceptance of the Reflexion Privacy Policy by providing any requested information and continuing to use the Reflexion Web site. 
 
-If you have any questions or comments about this policy, please contact us at [privacy@reflexion.net](mailto:privacy.207-241-233-35-S85547@reflexion.net). We would value your input.
+If you have any questions or comments about this policy, please contact us at [privacy@reflexion.net](mailto:privacy.64-208-172-181-S969017@reflexion.net). We would value your input.
