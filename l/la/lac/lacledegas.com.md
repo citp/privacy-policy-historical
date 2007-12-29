@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the lacledegas.com privacy policy that was archived on 2007-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070221030704id_/http%3A//www.lacledegas.com/privacy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lacledegas.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229114432id_/http%3A//www.lacledegas.com/privacy/index.php) for the most accurate reproduction.*
 
 # Laclede Gas Company: Privacy Policy
 
 ### Where am I?
 
   * Skip navigation and go to content
-  * [Home](https://web.archive.org/web/20070221030704id_/http%3A//www.lacledegas.com/index.htm "Home") /
-  * [Privacy Policy](https://web.archive.org/web/20070221030704id_/http%3A//www.lacledegas.com/privacy/index.htm "Privacy Policy")
+  * [Home](https://web.archive.org/web/20071229114432id_/http%3A//www.lacledegas.com/index.php "Home") /
+  * [Privacy Policy](https://web.archive.org/web/20071229114432id_/http%3A//www.lacledegas.com/privacy/index.php "Privacy Policy")
 
 
 
