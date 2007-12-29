@@ -1,0 +1,39 @@
+> *The following text is extracted and transformed from the museum.tv privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229084022id_/http%3A//www.museum.tv/privacy.php) for the most accurate reproduction.*
+
+# Sitemap - The Museum of Broadcast Communications
+
+  
+Your privacy is very important to The Museum of Broadcast Communications (MBC), and we are committed to respecting your privacy on museum.tv. We have put this policy together to provide you with information that addresses your privacy concerns, such as how we gather and use the information that we collect from the visitors to our website. We will provide you with appropriate notice regarding any changes to this policy. Questions regarding this policy should be directed to the MBC by sending an [e-mail](mailto:info@museum.tv) and writing "Privacy Policy" in the subject line. 
+
+**The Information We Collect and How We Collect It**  
+As described in this section, the MBC collects information from you in order to provide you with a personalized experience while visiting our website, which we hope will make your visits more productive and enjoyable for you. There are two types of information that we collect: personally-identifiable information and information that is not personally-identifiable. 
+
+We collect your personally-identifiable information only through the registration process. Our registration form requests information from you regarding your name, address (both ship to and billing), e mail address, and optional telephone number. To process your order, we also require your credit card number with expiration date, and cvs code from the charge card. 
+
+The MBC also collects certain information that is not personally- identifiable. One method of collection is the recording of information regarding the number of visits to the various pages of our website. The collection of this information helps us to determine the areas of our website that are most attractive to our visitors, so that we can make improvements or add new features based on our visitors' interests. 
+
+Like most websites, the MBC's servers may automatically track certain information about your activity on our website. This information, which allows us to keep our website running efficiently, may include the browser you are using, your operating system, and your IP address. 
+
+In addition, the MBC uses "cookies" on certain pages of our website for a variety of useful purposes. Cookies automatically collect information from a visitor to our Web site and transfer this information to the visitor's hard drive. Cookies also help us to recognize you as a repeat visitor, so that we may tailor content to match your particular interests. Because cookies are stored on your hard drive, not on museum.tv, you are always free to set your browser to decline our cookies and you can delete them from your computer. If you do so, you will still be able to access our website, but will not be able to complete a purchase. 
+
+**Security**  
+The MBC is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. For example, we store the personal information you provide on computer servers with limited access that is located in a controlled facility. Additionally, when we transmit sensitive personal information (such as credit card number) over the Internet, we protect it through encryption, such as the Secure Socket Layer (SSL) protocol. We use Microsoft bCentral as our secure application for e mail database management. Both Bigstep and Microsoft bCentral use SSL. Despite these efforts, we cannot guarantee the security of your information given the current state of the Internet. 
+
+**How We Use the Information We Collect**  
+Our collection and use your personally- identifiable information only for the purpose of order fulfillment, except as otherwise described in this Privacy Policy. 
+
+The information that we collect about you will be maintained in a file that we may need to review in a variety of other circumstances, such as enforcing the terms of our User Agreement. We will store information in files which will allow us to advise you via e mail of new products, upcoming sales, and share our newsletter. If a credit or charge back is due, we would use your information in processing that transaction type as well. 
+
+**To Whom We May Disclose Your Information**  
+Our policy is to refrain from selling, leasing, or otherwise transferring your personally identifiable information, however, there are certain exceptions. We describe below some of the situations in which such information may be disclosed. 
+
+Our e-commerce providers Buy Music Here and Bigstep, as well as our payment gateway, Yourpay, will have access to your personally- identifiable information in order to complete transactions you enter into in our online store. In addition, for legal reasons, we also may have to disclose your information. You hereby authorize us to disclose information to law enforcement or government agencies, if we believe the disclosure is necessary or appropriate, in the event of an investigation of improper or illegal conduct in connection with our website, such as fraud, misrepresentation, intellectual-property infringement, or other activity that may put us at risk for liability. 
+
+**Other Collectors of Your Information**  
+This policy only addresses the MBC's collection and use of your information, except as otherwise provided. If you disclose your information to others in connection with your use of our website, or any other website (including sites linked to our website), you are subject to the privacy policies that they apply. The MBC does not have control over the privacy policies applied by any other party that you may disclose information to when linking to from our website. If you would like information on any other party's privacy policy, you should contact that party directly, and we encourage you to do so. 
+
+**Reviewing and Modifying Your Information**  
+You can review and modify (or remove) the personally identifiable information you provide us if this information changes. The information that you may change includes: your e-mail address, your name, mailing address, credit card information, and telephone number. To make any of these changes, [e-mail](mailto:info@museum.tv) us. 
+
+**How You Can Opt Out**  
+Your registration in an area of interest on our website will constitute your consent to receive notices and other communications from the MBC. In the event you no longer wish to receive notices or other communications from the MBC, you may opt-out by replying to "unsubscribe" in the subject line in any e-mail correspondence we send you or by [emailing](mailto:info@museum.tv) us. 
