@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the cartoonnetworkindia.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625015126id_/http%3A//cartoonnetworkindia.com/jsp/help/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartoonnetworkindia.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229233334id_/http%3A//www.cartoonnetworkindia.com/jsp/help/privacy/index.jsp) for the most accurate reproduction.*
 
-# Cartoon Network - Parents Pages
-
-PRIVACY POLICY
+# Cartoon Network - Help
 
 Cartoon Network is fully committed to providing a fun, entertaining and safe web site for people of all ages. Because we want our audience to feel comfortable exploring the content offered on _CartoonNetworkIndia.com_ , this Online Privacy Policy outlines and clarifies how we collect and use information online, our advertising policies and the safeguards we recommend to ensure a fun and safe web experience. As new technology and online standards evolve, we may modify these policies to better address your concerns. If you have any concerns or questions about this Online Privacy Policy, please email us at [parent.info@turner.com](mailto:parent.info@turner.com) or write to us at S-2 Level, Block F, International Trade Tower, Nehru Place, New Delhi 110019. 
 
@@ -50,4 +48,4 @@ As we have taken special precautions to aid in the safety of their children's Wo
 
 **Opt-In**
 
-If you tick the opt-in box at any part of this website, you will be accepting these privacy policy terms and our right to provide your information to selected third parties. We or they may contact you by mail, telephone or e-mail to let you know about services and products which may be of interest to you. You have the right to ask for a copy of the information held by us about you in our records in return for the payment of a small fee. You also have the right to correct any inaccuracies in the information. 
+If you tick the opt-in box at any part of this website, you will be accepting these privacy policy terms and our right to provide your information to selected third parties. We or they may contact you by mail, telephone or e-mail to let you know about services and products which may be of interest to you. You have the right to ask for a copy of the information held by us about you in our records in return for the payment of a small fee. You also have the right to correct any inaccuracies in the information.
