@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the interactivebrokers.com privacy policy that was archived on 2007-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070203203505id_/http%3A//www.interactivebrokers.com/en/accounts/legalDocuments/privacy.php%3Fib_entity%3Dllc) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interactivebrokers.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229043920id_/http%3A//www.interactivebrokers.com/en/accounts/legalDocuments/privacy.php) for the most accurate reproduction.*
 
-# Interactive Brokers Group Privacy Statement
+# 
 
-**Home:**[](http://www.interactivebrokers.com/en/main.php) [](http://www.interactivebrokers.co.uk/en/main.php) [](http://www.interactivebrokers.ca/en/main.php) [](http://www.interactivebrokers.ca/fra/main.php) [](http://www.interactivebrokers.de/de/main.php) [](http://www.interactivebrokers.co.uk/es/main.php) [](http://www.interactivebrokers.com/cn/main.php) [](http://206.106.137.34/MktServices/servlet/CreatePdf?f=/en/accounts/legalDocuments/privacy.php?ib_entity=llc&lm=1157058893)
+[](https://web.archive.org/web/20071229043920id_/http%3A//www.interactivebrokers.com/en/accounts/individuals/individualMain.php?ib_entity=llc)
 
 The Interactive Brokers Group does not sell or license information about Interactive Brokers customers to third parties, nor do we sell customer lists or customer e-mail addresses to third-party marketers. 
 
@@ -13,7 +13,7 @@ In order to provide brokerage services and in compliance with regulatory require
   * We do not sell or license lists of our customers or the personal, non-public information that you provide to us.
   * We restrict access to the personal, non-public information that you have shared with us to those IB employees, agents, and affiliates who need to know such information in connection with the services that IB provides to you.
   * We maintain strict employment policies that prohibit employees who have access to your personal, non-public information from using or disclosing such information except for business purposes.
-  * We take substantial precautions to safeguard your personal, nonpublic information. For example, the IB system can be accessed only by authorized IB personal via valid user names and passwords. In addition, our Internet-based systems include security measures such as encryption and firewalls.   
+  * We take substantial precautions to safeguard your personal, nonpublic information. For example, the IB system can be accessed only by authorized IB personnel via valid user names and passwords. In addition, our Internet-based systems include security measures such as encryption and firewalls.   
 IB uses the personal, nonpublic information that we collect from you to service your account (e.g., to qualify you for trading the products and using the services available through the IB system and to execute and confirm your IB transactions). In doing so, we may share such information with our employees, agents, and affiliates.
 
 
