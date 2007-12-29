@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the matrix.com privacy policy that was archived on 2006-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061014185935id_/http%3A//matrix.com/about_matrix/privacy_statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the matrix.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229130315id_/http%3A//www.matrix.com/about_matrix/privacy_statement.aspx) for the most accurate reproduction.*
 
 # Matrix - Privacy Statement
 
