@@ -1,117 +1,176 @@
-<!--The following is the downloaded HTML source of the eventful.com privacy policy that was archived on 2007-06-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070608140323id_/http%3A//eventful.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the eventful.com privacy policy that was archived on 2007-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071229070539id_/http%3A//eventful.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/2000/REC-xhtml1-20000126/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head profile="http://microformats.org/wiki/hcalendar http://microformats.org/wiki/hcard-profile http://microformats.org/wiki/reltag http://microformats.org/wiki/relnofollow">
 <title>Eventful - Privacy Policy</title>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 <link rel="shortcut icon" href="/images/skin/favicon.png">
-<script type="text/javascript" src="/js/global.js"></script>
+<script type="text/javascript" src="/js/unit/parts/global.js"></script>
 <link rel="stylesheet" href="/css/global.css" type="text/css">
-<script type="text/javascript" src="/js/signin.js"></script>
+<!--[if lte IE 7]>
+<link rel="stylesheet" href="/css/universal/ie.css" type="text/css" />
+<![endif]-->
 <script type="text/javascript" src="http://api.eventful.com/js/api"></script>
 <script type="text/javascript">
 EVDB.API.app_key = 'V7fzQszSX5LzPt85';
 </script>
-<link rel="stylesheet" href="/css/templates/single.css" type="text/css">
+<script type="text/javascript">
+if (typeof window.Eventful != 'object') Eventful = {};
+Eventful.sticky_search = "events";
+</script><link rel="stylesheet" href="/css/templates/single.css" type="text/css">
+<link rel="stylesheet" href="/css/privacy.css" type="text/css">
 </head>
 
 <body>
-<div id="outermost">
+<div id="outer-container">
+      <!-- HEADER start -->
 
 
-<!-- HEADER start -->
-<div id="header">
-  <a href="/" id="logo" class="no_hover"><img src="/images/skin/header/eventful_slogan.png" alt="eventful"></a>
-  <div id="user-panel" class="signed-out">
-    <div>
-            <ul>
-        <li><a href="/signin?goto=/privacy">Sign in</a></li>
-                <li><a href="/register">Register</a></li>
-              </ul>
-      <br class="cleaner">
-          </div>
+<noscript>
+  <div id="noscript-notice" class="noscript-header">
+    <p><strong>We deliver a much richer experience when JavaScript is enabled.</strong><br />
+      Please consider enabling JavaScript in your browser to take full
+      advantage of our hand-crafted interface.</p>
   </div>
+</noscript>
+  <div id="site-info" class="invisible">
+  <div class="tl"></div>
+  <div class="tr"></div>
+  <span class="site-info-message">
+    Now you can customize your My  Eventful page to work for you! 
+    <a href="/my">Learn more</a>
+  </span>
+  <div class="bl"></div>
+  <div class="br"></div>
+  <div class="cleaner"></div>
+</div><div id="header" class="winter">
+  <a href="/" id="header-logo" class="alpha no_hover"><img src="/images/site/header/logo.png" alt="eventful"></a>
+  <div id="header-search-nav" class="beta">
+          </div>
+  <!-- USER-LOGIN-STATUS start -->
+<div id="user-panel">
+  <a href="/users" id="user-panel-image" class="no_hover"><img id="user-panel-default-user-image" src="/images/site/header/no-image.png" width="48" height="48" alt="user image"></a>
+  <div id="user-panel-info">
+    <a href="/signin?goto=/privacy" id="user-panel-signin" class="autoclose-click">Sign in</a><br>
+    or <a href="/join?goto=/privacy" id="user-panel-join">Join now</a>
+  </div>
+  <div id="user-panel-popover" class="popover hidden autoclose">
+    <div class="popbd">
+      <form action="/signin" method="post">
+                <input type="hidden" name="goto" value="/privacy">
+                <div>
+          <ul>
+            <li class="user-panel-username">
+              <label for="username">Username</label>
+              <input id="username" name="username" type="text" size="20" class="text" tabindex="1">
+            </li>
+            <li class="user-panel-password">
+              <label for="password">Password</label>
+              <input id="password" name="password" type="password" size="20" class="text" tabindex="2">
+              <a href="/forgot?" id="user-panel-forgot" tabindex="5">Forgot your password?</a>
+            </li>
+          </ul>
+        </div>
+        <div class="buttons">
+          <button id="btn-user-panel-signin" type="submit" class="shiny-positive-small-tall">Sign in</button>
+          <button id="btn-user-panel-cancel" type="button" class="shiny-negative-small-tall">Cancel</button>
+        </div>
+      </form>
+    </div>
+  </div> <!-- end user-panel-popover -->
+  <a href="/my" id="user-panel-my-eventful" class="no_hover"><img src="/images/site/header/my-eventful.gif" alt="my eventful"></a>
 </div>
-<!-- HEADER end -->
-
+<!-- USER-LOGIN-STATUS end -->
+  <br class="cleaner">
+</div><!-- HEADER end -->
+<div id="outermost">
 
 <!-- CONTENT start -->
 <div id="content" class="panel">
 
-<p style="margin-top: .6em; float: right; color: #666">Last revised 17 August 2006</p>
+<p style="margin-top: .6em; float: right; color: #666">Last revised 17 October 2007</p>
 
-<h1>Privacy Policy</h1>
+<h1>Eventful, Inc. Privacy Policy</h1>
 
-<p>Eventful, Inc., the owner and creator of the Eventful service, respects your right to privacy and we are committed to protecting it. We believe it is a commitment crucial to our continued success as a company.  Accordingly, we abide by the following privacy principles for all the personally identifiable information we collect from you:</p>
+<p>Eventful respects your right to privacy and we are committed to protecting it. Accordingly, we abide by the following principles and policies for all of the Personally Identifiable Information we collect from you and we are committed to following them in our day-to-day operations. This Privacy Policy details certain policies implemented throughout Eventful's Site and Services governing Eventful's use of Personally Identifiable Information submitted by users.</p>
+
+<h2>Privacy Policy Updates</h2>
+
+<p>As our business grows and changes, we expect to revise or enhance these policies from time-to-time. We will post a current version of our Privacy Policy on our Site and will communicate material changes to our Privacy Policy to users and the public by posting a notice on our Site for ten days following the change. If any modification is unacceptable to you, you shall cease using our Site and Services. If you do not cease using our Site and Services, you will be conclusively deemed to have accepted the change.</p>
+
+<h2>Correction/Updating Personally Identifiable Information</h2>
+
+<p>Eventful provides you with the ability to review, correct and delete any of the Personally Identifiable Information that you have provided to us at any time. If you have questions about this Privacy Policy or wish to review or correct any information you have provided to us, you may do so by (i) accessing your account online, (ii) submitting an email request to us at &lt;privacy at eventful.com&gt;, or (iii) sending a letter to the following U.S. postal address:</p>
+
+<p class="vcard address">
+  <span class="org">
+    <span class="organization-unit">Eventful Privacy Policy</span>
+    <span class="fn organization-name">Eventful, Inc.</span>
+  </span>
+  <span class="adr">
+    <span class="street-address">9171 Towne Centre Drive, Suite 180</span>
+    <span class="locality">San Diego</span>, <span class="region">CA</span>
+    <span class="postal-code">92122</span> <span class="country-name">USA</span>
+  </span>
+</p>
+
+<h2>What Information We Collect</h2>
+
+<p>We only collect Personally Identifiable Information about you from our Site if you choose to provide it to us. This means you can visit our Site without or revealing any Personally Identifiable Information. Like most web sites, our web servers do collect information about your visit, but not about you personally. This information may include the URL, IP address, browser type and language, and the date and time of your visit.</p>
+
+<p>In order to use certain features of the Site and Services you may be asked to register.  Any Personally Identifiable Information which is required and that you choose to provide within the registration process will not be disclosed on our Site.  Once registered, you may provide additional information in various areas of the site.  Providing additional information beyond the fields in the registration process is entirely optional and such information may be visible to the public.</p>
+
+<h2>How We Use the Personally Identifiable Information You Provide To Us</h2>
+
+<p>We may use your Personally Identifiable Information to register you to use our Services, to verify your authority to use certain features of our Site and Services, to deliver certain services and notices based on the email settings you have selected, or to improve and tailor the content and general administration of our Site and Services.</p>
+
+<h2>Disclosing Your Personally Identifiable Information to Others</h2>
+
+<p>We do not disclose or market Personally Identifiable Information obtained through our Site to others unless (a) it is to complete a transaction that you initiate, (b) it is required by law, (c) disclosure is necessary to protect the safety of customers, employees, or property, (d) you specifically authorize it or (e) it is required in order to service the company's system infrastructure.</p>
+
+<h2>Cookies, Web Beacons, and Other Internet Data</h2>
+
+<p>Like most web sites, we may use cookies, web log files, IP addresses, or web beacons in order to recognize you as a registered user, improve overall Site experience, tailor and customize the content of our Site, or track Site usage. This data may be exchanged between the user's computer, our Site, and the systems of our infrastructure partners.  The linkage between this data and your Personally Identifiable Information is never shared without your permission or except when required by law.</p>
+
+<h2>Security</h2>
+
+<p>We employ procedural and technological security measures that are designed to safeguard your Personally Identifiable Information from loss, unauthorized access, disclosure, alteration or destruction. Eventful may use encryption, password protection, and other security measures to help prevent unauthorized access to your Personally Identifiable Information.</p>
+
+<h2>Children's Privacy</h2>
+
+<p>Eventful recognizes the privacy interests of children and we encourage parents and guardians to take an active role in their children's online activities. Eventful's Site and Services are not intended for children under the age of 13. Eventful does not target its Site and Services to children under 13. Eventful does not knowingly collect Personally Identifiable Information from children under the age of 13.</p>
+
+<h2>Assignment</h2>
+
+<p>You maintain ownership rights to your Personally Identifiable Information, even if there is a business transition. However, we may transfer your Personally Identifiable Information to a successor entity upon a merger, consolidation, or other corporate reorganization in which Eventful participates or to a purchaser of all or substantially all of Eventful's assets to which this Site relates.</p>
+
+<h2>Links to Third Party Sites</h2>
+
+<p>This privacy policy applies only to the privacy of users of Eventful’s Site and Services. By using Eventful’s Site and Services you agree to the terms of this privacy policy. If you move from Eventful’s Site to external web sites owned or operated by other entities or individuals, you should check the privacy policies of those external web sites carefully. The terms by which the owners or operators of those external web sites manage your Personally Identifiable Information obtained at such third party sites could differ from how Eventful manages your Personally Identifiable Information.</p>
+
+<h2>Definitions</h2>
 
 <ul>
-<li>You maintain ownership rights to your personally identifiable information, even if there is a business transition.</li>
-<li>You may access or modify your personally identifiable information at any time.</li>
-<li>Below is a list of the policies we have put in place to carry out these principles. We pledge to follow them in our day-to-day operations.</li>
-<li>As our business grows and changes, we expect to revise or enhance these policies. We will communicate our updated policies to our users and the public by posting a notice on our Web sites or some other reasonable means.</li>
-<li>If you want to add, edit or remove your listing from our database, let us know by emailing support at eventful dot com.</li>
-<li>If you have any questions about our Privacy Policy, please email privacy at eventful.com or send a letter to…
-<p>&nbsp;&nbsp;&nbsp;Eventful Privacy Policy<br>&nbsp;&nbsp;&nbsp;Eventful, Inc.<br>&nbsp;&nbsp;&nbsp;9171 Towne Centre Drive, Suite 180<br> &nbsp;&nbsp;&nbsp;San Diego, CA 92122 USA</p></li>
+  <li>“Personally Identifiable Information” may include your name, address, telephone number, email address, or other information which by its nature can identify you personally. However, “Personally Identifiable Information” excludes any information that you choose to make available on parts of the Site that are accessible to the public such as your public profile and other publicly visible content that you may add to the Site.</li>
+  <li>“Eventful” refers to Eventful, Inc., a Delaware corporation. “Eventful” is a registered trademark of Eventful, Inc. Eventful.com, Eventful Demand, and the Eventful logo are trademarks of Eventful, Inc.</li>
+  <li>“Site and Services” refer to the features and functionality (“Services”) made available to users at the Internet web site located at the URL <a href="http://eventful.com/">eventful.com</a> (“Site”).</li>
 </ul>
 
-
-<h2 style="margin-top: 2em;">What information we collect</h2>
-
-<p>We do not collect any personally identifiable information about you from our Web sites unless you choose to provide it to us. This means you can visit our Web sites without telling us who you are or revealing any personally identifiable information about yourself. As you browse the Web sites, our Web servers do collect information about your visit, but not about you personally. None of the information about how you navigate the sites is combined with your personal identifiers.</p>
-
-<h2>How we use the personally identifiable information you provide to us</h2>
-
-<p>When you supply personally identifiable information about yourself for a specific purpose, we use such information for that purpose. For example, you may be asked to give us personally identifiable information to purchase a ticket, register for an event, receive information, or request information on a product or service.</p>
-
-<h2>You have full access to your information</h2>
-
-<p>You have access to and can edit the personally identifiable information that we have collected from you, including your account preferences, at any time.</p>
-
-<h2>No marketing of your personally identifiable data</h2>
-
-<p>We do not sell or disclose personally identifiable information obtained online about you to other people or nonaffiliated companies unless:</p>
-
-<ol style="list-style: lower-alpha;">
-<li>you specifically authorize it</li>
-<li>it is to complete a transaction that you initiated</li>
-<li>it is required by law</li> 
-<li>disclosure is necessary to protect the safety of customers, employees or property</li>
-<li>required in order to service the company's system infrastructure.</li>
-</ol>
-
-<h2>Confidentiality and security of your information</h2>
-
-<p>We safeguard your personal information via high data security precautions. To protect the personally identifiable information we have about you, we use physical, electronic, and procedural safeguards that comply with federal regulations.</p>
-
-<p>PLEASE NOTE: This privacy policy applies only to the privacy of users of Eventful, Inc.'s web site(s). By using Eventful, Inc.'s web site(s) you agree to the terms of this privacy policy. If you move from Eventful, Inc.'s web site(s) to Web sites owned or operated by other entities or individuals, you should check the privacy policies of such Web sites carefully as the terms by which the owners or operators of those other Web sites manage your personally identifiable information obtained from such Web sites could differ from how Eventful manages your personally identifiable information on Eventful's own website(s).</p>
-
-<h2>Privacy Policy — Glossary of Terms</h2>
-
-<ul style="padding-top: 1em;">
-<li>"personally identifiable information" or "Personal Information" means your name, address, telephone number or other information which by its nature can identify you personally. "personally identifiable information" does not mean the information found in the Eventful database which we make available to the general public.</li>
-<li>"Registration Information" means your name, e-mail address, and password.</li>
-<li>"Eventful.com" means the www.eventful.com Web site or Eventful, Inc., a Delaware corporation.</li>
-<li>"Eventful" is a registered trademark of Eventful, Inc., and Eventful.com, Eventful Demand, and the Eventful logo are trademarks of Eventful, Inc.</li>
-<li>"Your Information" means your Registration Information.</li>
-</ul>
-
-</div>
-</div>
-<!-- CONTENT end -->
-
+</div><!-- CONTENT end -->
 
 <!-- FOOTER start -->
 <div id="footer">
 <ul>
-<li><a href="/about">About</a></li><li><a href="http://blog.eventful.com/">Blog</a></li><li><a href="/faq">FAQ</a></li><li><a href="/gotevents">Submit events</a></li><li><a href="/jobs">Jobs</a></li><li><a href="http://api.eventful.com/">Developer API</a></li><li><a href="/privacy">Privacy policy</a></li><li><a href="/terms">Terms of service</a></li><li><a href="/sitemap">Sitemap</a></li><li><a href="/feedback">Feedback</a></li>
+<li class="first"><a href="http://about.eventful.com/">About</a></li><li><a href="http://blog.eventful.com/">Blog</a></li><li><a href="/faq">FAQ</a></li><li><a href="/advertise">Advertise</a></li><li><a href="/gotevents">Submit events</a></li><li><a href="/jobs">Jobs</a></li><li><a href="http://api.eventful.com/">Developer API</a></li><li><a href="/privacy">Privacy policy</a></li><li><a href="/terms">Terms of service</a></li><li><a href="/sitemap">Sitemap</a></li><li><a href="/feedback">Feedback</a></li>
 </ul>
-© Copyright 2005-2007 Eventful, Inc. All rights reserved. Patent Pending.
+© Copyright 2005-2007 Eventful, Inc. All rights reserved. Patent pending.
 </div>
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
 </script>
 <script type="text/javascript">
 _uacct = "UA-609804-1";
+_uflash = 0; // Disable flash tracking
 urchinTracker();
 </script>
-<!-- FOOTER end -->
+<!-- FOOTER end --></div> </div> 
 </body></html>
