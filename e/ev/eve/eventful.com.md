@@ -1,62 +1,59 @@
-> *The following text is extracted and transformed from the eventful.com privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608140323id_/http%3A//eventful.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eventful.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229070539id_/http%3A//eventful.com/privacy) for the most accurate reproduction.*
 
 # Eventful - Privacy Policy
 
-Last revised 17 August 2006
+Last revised 17 October 2007
 
-Eventful, Inc., the owner and creator of the Eventful service, respects your right to privacy and we are committed to protecting it. We believe it is a commitment crucial to our continued success as a company. Accordingly, we abide by the following privacy principles for all the personally identifiable information we collect from you:
+Eventful respects your right to privacy and we are committed to protecting it. Accordingly, we abide by the following principles and policies for all of the Personally Identifiable Information we collect from you and we are committed to following them in our day-to-day operations. This Privacy Policy details certain policies implemented throughout Eventful's Site and Services governing Eventful's use of Personally Identifiable Information submitted by users.
 
-  * You maintain ownership rights to your personally identifiable information, even if there is a business transition.
-  * You may access or modify your personally identifiable information at any time.
-  * Below is a list of the policies we have put in place to carry out these principles. We pledge to follow them in our day-to-day operations.
-  * As our business grows and changes, we expect to revise or enhance these policies. We will communicate our updated policies to our users and the public by posting a notice on our Web sites or some other reasonable means.
-  * If you want to add, edit or remove your listing from our database, let us know by emailing support at eventful dot com.
-  * If you have any questions about our Privacy Policy, please email privacy at eventful.com or send a letter to… 
+## Privacy Policy Updates
 
-   Eventful Privacy Policy  
-   Eventful, Inc.  
-   9171 Towne Centre Drive, Suite 180  
-   San Diego, CA 92122 USA
+As our business grows and changes, we expect to revise or enhance these policies from time-to-time. We will post a current version of our Privacy Policy on our Site and will communicate material changes to our Privacy Policy to users and the public by posting a notice on our Site for ten days following the change. If any modification is unacceptable to you, you shall cease using our Site and Services. If you do not cease using our Site and Services, you will be conclusively deemed to have accepted the change.
 
+## Correction/Updating Personally Identifiable Information
 
+Eventful provides you with the ability to review, correct and delete any of the Personally Identifiable Information that you have provided to us at any time. If you have questions about this Privacy Policy or wish to review or correct any information you have provided to us, you may do so by (i) accessing your account online, (ii) submitting an email request to us at <privacy at eventful.com>, or (iii) sending a letter to the following U.S. postal address:
 
+Eventful Privacy Policy Eventful, Inc. 9171 Towne Centre Drive, Suite 180 San Diego, CA 92122 USA
 
-## What information we collect
+## What Information We Collect
 
-We do not collect any personally identifiable information about you from our Web sites unless you choose to provide it to us. This means you can visit our Web sites without telling us who you are or revealing any personally identifiable information about yourself. As you browse the Web sites, our Web servers do collect information about your visit, but not about you personally. None of the information about how you navigate the sites is combined with your personal identifiers.
+We only collect Personally Identifiable Information about you from our Site if you choose to provide it to us. This means you can visit our Site without or revealing any Personally Identifiable Information. Like most web sites, our web servers do collect information about your visit, but not about you personally. This information may include the URL, IP address, browser type and language, and the date and time of your visit.
 
-## How we use the personally identifiable information you provide to us
+In order to use certain features of the Site and Services you may be asked to register. Any Personally Identifiable Information which is required and that you choose to provide within the registration process will not be disclosed on our Site. Once registered, you may provide additional information in various areas of the site. Providing additional information beyond the fields in the registration process is entirely optional and such information may be visible to the public.
 
-When you supply personally identifiable information about yourself for a specific purpose, we use such information for that purpose. For example, you may be asked to give us personally identifiable information to purchase a ticket, register for an event, receive information, or request information on a product or service.
+## How We Use the Personally Identifiable Information You Provide To Us
 
-## You have full access to your information
+We may use your Personally Identifiable Information to register you to use our Services, to verify your authority to use certain features of our Site and Services, to deliver certain services and notices based on the email settings you have selected, or to improve and tailor the content and general administration of our Site and Services.
 
-You have access to and can edit the personally identifiable information that we have collected from you, including your account preferences, at any time.
+## Disclosing Your Personally Identifiable Information to Others
 
-## No marketing of your personally identifiable data
+We do not disclose or market Personally Identifiable Information obtained through our Site to others unless (a) it is to complete a transaction that you initiate, (b) it is required by law, (c) disclosure is necessary to protect the safety of customers, employees, or property, (d) you specifically authorize it or (e) it is required in order to service the company's system infrastructure.
 
-We do not sell or disclose personally identifiable information obtained online about you to other people or nonaffiliated companies unless:
+## Cookies, Web Beacons, and Other Internet Data
 
-  1. you specifically authorize it
-  2. it is to complete a transaction that you initiated
-  3. it is required by law
-  4. disclosure is necessary to protect the safety of customers, employees or property
-  5. required in order to service the company's system infrastructure.
+Like most web sites, we may use cookies, web log files, IP addresses, or web beacons in order to recognize you as a registered user, improve overall Site experience, tailor and customize the content of our Site, or track Site usage. This data may be exchanged between the user's computer, our Site, and the systems of our infrastructure partners. The linkage between this data and your Personally Identifiable Information is never shared without your permission or except when required by law.
 
+## Security
 
+We employ procedural and technological security measures that are designed to safeguard your Personally Identifiable Information from loss, unauthorized access, disclosure, alteration or destruction. Eventful may use encryption, password protection, and other security measures to help prevent unauthorized access to your Personally Identifiable Information.
 
-## Confidentiality and security of your information
+## Children's Privacy
 
-We safeguard your personal information via high data security precautions. To protect the personally identifiable information we have about you, we use physical, electronic, and procedural safeguards that comply with federal regulations.
+Eventful recognizes the privacy interests of children and we encourage parents and guardians to take an active role in their children's online activities. Eventful's Site and Services are not intended for children under the age of 13. Eventful does not target its Site and Services to children under 13. Eventful does not knowingly collect Personally Identifiable Information from children under the age of 13.
 
-PLEASE NOTE: This privacy policy applies only to the privacy of users of Eventful, Inc.'s web site(s). By using Eventful, Inc.'s web site(s) you agree to the terms of this privacy policy. If you move from Eventful, Inc.'s web site(s) to Web sites owned or operated by other entities or individuals, you should check the privacy policies of such Web sites carefully as the terms by which the owners or operators of those other Web sites manage your personally identifiable information obtained from such Web sites could differ from how Eventful manages your personally identifiable information on Eventful's own website(s).
+## Assignment
 
-## Privacy Policy — Glossary of Terms
+You maintain ownership rights to your Personally Identifiable Information, even if there is a business transition. However, we may transfer your Personally Identifiable Information to a successor entity upon a merger, consolidation, or other corporate reorganization in which Eventful participates or to a purchaser of all or substantially all of Eventful's assets to which this Site relates.
 
-  * "personally identifiable information" or "Personal Information" means your name, address, telephone number or other information which by its nature can identify you personally. "personally identifiable information" does not mean the information found in the Eventful database which we make available to the general public.
-  * "Registration Information" means your name, e-mail address, and password.
-  * "Eventful.com" means the www.eventful.com Web site or Eventful, Inc., a Delaware corporation.
-  * "Eventful" is a registered trademark of Eventful, Inc., and Eventful.com, Eventful Demand, and the Eventful logo are trademarks of Eventful, Inc.
-  * "Your Information" means your Registration Information.
+## Links to Third Party Sites
+
+This privacy policy applies only to the privacy of users of Eventful’s Site and Services. By using Eventful’s Site and Services you agree to the terms of this privacy policy. If you move from Eventful’s Site to external web sites owned or operated by other entities or individuals, you should check the privacy policies of those external web sites carefully. The terms by which the owners or operators of those external web sites manage your Personally Identifiable Information obtained at such third party sites could differ from how Eventful manages your Personally Identifiable Information.
+
+## Definitions
+
+  * “Personally Identifiable Information” may include your name, address, telephone number, email address, or other information which by its nature can identify you personally. However, “Personally Identifiable Information” excludes any information that you choose to make available on parts of the Site that are accessible to the public such as your public profile and other publicly visible content that you may add to the Site.
+  * “Eventful” refers to Eventful, Inc., a Delaware corporation. “Eventful” is a registered trademark of Eventful, Inc. Eventful.com, Eventful Demand, and the Eventful logo are trademarks of Eventful, Inc.
+  * “Site and Services” refer to the features and functionality (“Services”) made available to users at the Internet web site located at the URL [eventful.com](http://eventful.com/) (“Site”).
 
 
