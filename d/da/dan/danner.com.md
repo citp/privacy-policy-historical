@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the danner.com privacy policy that was archived on 2007-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070605045839id_/http%3A//www.danner.com/category/id/202.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the danner.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229165249id_/http%3A//www.danner.com/category/id/202.do) for the most accurate reproduction.*
 
 # Privacy and Security - Customer Service - Danner
 
@@ -9,7 +9,7 @@ We do not sell, share, rent or trade your electronically provided personal infor
 **Danner Boots  
 PRIVACY POLICY**
 
-This Privacy Policy applies to information Danner learns about or obtains from you when you visit the Site, and does not apply to any other website, whether or not it is affiliated with or linked to this Site. Definitions contained in the [Site’s Terms](https://web.archive.org/web/20070605045839id_/http%3A//www.danner.com/category/id/terms+of+use.do) also apply to this Privacy Policy, which is incorporated in and made a part of the Terms. Your access or use of the Site constitutes your legally binding acceptance of and agreement to this Privacy Policy.
+This Privacy Policy applies to information Danner learns about or obtains from you when you visit the Site, and does not apply to any other website, whether or not it is affiliated with or linked to this Site. Definitions contained in the [Site’s Terms](https://web.archive.org/web/20071229165249id_/http%3A//www.danner.com/category/id/terms+of+use.do) also apply to this Privacy Policy, which is incorporated in and made a part of the Terms. Your access or use of the Site constitutes your legally binding acceptance of and agreement to this Privacy Policy.
 
 The provisions of this Privacy Policy may be changed from time to time in Danner’s sole discretion and as provided by applicable law. Danner will attempt to provide advance notice by posting such changes to the Site at least thirty (30) days prior to implementation, or a shorter period as required by applicable law and/or business conditions. You should check this Privacy Policy frequently for any such changes, but in any case your continued access or use of the Site will constitute acceptance of any modifications. You may “opt-out” of any change as provided below. Danner’s use of information gathered or obtained at any time is subject to the Privacy Policy in effect at the time of such use.
 
@@ -52,7 +52,7 @@ You must notify Danner promptly if any user name or password that you use on the
 **Correct/Update Procedure**  
 If you want to delete or modify your Personal Information from Danner’s records, or opt-out of receiving some or all of the information we may provide, you may do so by: 
 
-  * Sending an email to [info@danner.com](https://web.archive.org/web/20070605045839id_/http%3A//www.danner.com/category/id/info@danner.com)
+  * Sending an email to [info@danner.com](https://web.archive.org/web/20071229165249id_/http%3A//www.danner.com/category/id/info@danner.com)
   * By mail to the following address:
 
 Danner  
