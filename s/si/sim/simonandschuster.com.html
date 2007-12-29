@@ -1,8 +1,11 @@
-<!--The following is the downloaded HTML source of the simonandschuster.com privacy policy that was archived on 2007-05-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070507022432id_/http%3A//www.simonsays.com/content/feature.cfm%3Ftab%3D1%26feature_id%3D1610) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the simonandschuster.com privacy policy that was archived on 2007-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071229084646id_/http%3A//www.simonsays.com/content/feature.cfm%3Ftab%3D1%26feature_id%3D1610) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+
+
 
 
 
@@ -17,10 +20,10 @@
 
 
 
-<!-- 
-Change History:
-2007/04/10 - Chip - added WSS code to UK search button, moved WSS code from main site form header to search button
- -->
+
+
+
+
 
 
 
@@ -68,13 +71,31 @@ Change History:
 
 
 	<link rel="stylesheet" type="text/css" href="/content/includes/style4.css">
-	
+	<link rel="stylesheet" type="text/css" href="/content/includes/endeca_style.css">
+
 	<script type="text/javascript" src="/content/js/utilities.js"></script>
 	<script type="text/javascript" src="/content/js/dhtmlwin.js"></script>
+	
 	<script type="text/javascript"><!--
 		if ( ( typeof( NN_reloadPage ) ).toLowerCase() != 'undefined' ) { NN_reloadPage( true ); }
 		if ( ( typeof( set_min_width ) ).toLowerCase() != 'undefined' ) { set_min_width( 'pageWrapper' , 770 ); }
 		//-->
+	</script>
+	
+	<script>
+	function search_ene (form) {
+	var returnValue = true; 
+	var modea = "ALL";
+	var refinement = "AND(CP_IDENTIFIER:TITLES)";
+	var mmode = "matchallpartial";
+	
+	document.forms.e_search.D.value = document.forms.e_search.Ntt.value;
+	document.forms.e_search.Ntk.value = modea;
+	
+		if (!document.forms.e_search.Ntt.value) { returnValue = false; }
+	
+		return returnValue;
+	}
 	</script>
 	</head>
 	<body>
@@ -82,7 +103,7 @@ Change History:
 	
 	<div id="pageWrapper">
 		<div id="masthead">
-			<h1 id="logo"><a href="/" title="SimonSays.com"><img src="/images/img4/logo_simonsays.gif" alt="SimonSays.com" width="262" height="42"></a><span>SimonSays.com</span></h1>
+			<h1 id="logo"><a href="/" title="SimonSays.com"><img src="/images/img4/logo_transparent2.gif" alt="SimonSays.com" width="274" height="51"></a><span>SimonSays.com</span></h1>
 			<div id="utilitynav">
 				<ul>
 					<li class="cart"><a href="http://shop.simonsays.com/viewcart.htm" title="Cart"><span>Cart</span></a></li>
@@ -184,31 +205,39 @@ Change History:
 	<div id="subnav">
 		
 		
-		<a href="/content/browse.cfm?pid=523105,516307&amp;tab=1">Bestsellers</a>  | 
+		<a href="/content/ene/search.cfm?N=8072&amp;Ns=CP_PUBDATEGAP&amp;tab=1">Bestsellers</a>  | 
 		
-		<a href="/content/browse.cfm?pid=523105,516308&amp;tab=1">New Releases</a>  | 
+		<a href="/content/ene/search.cfm?N=8074&amp;Ns=CP_PUBDATEGAP&amp;tab=1">New Releases</a>  | 
 		
-		<a href="/content/browse.cfm?pid=523105,516309&amp;tab=1">Coming Soon</a> 
+		<a href="/content/ene/search.cfm?N=8073&amp;Ns=CP_PUBDATEGAP&amp;tab=1">Coming Soon</a> 
 		
 		
 		
-	</div><!-- /subnav -->
+	</div>
 
 	<div id="search">
 		
-		<form name="search" action="/content/search_summary.cfm" method="get">
-		
+		<form name="e_search" onsubmit="return search_ene(this);" action="/content/ene/search.cfm" method="get">
 		<table cellpadding="0" cellspacing="0">
-			<tbody><tr>
-				<td valign="absmiddle"><img src="/images/img4/txt_search.gif" width="30" height="11" alt="Search"></td>
-				<td><input name="string" type="text" id="Search" onfocus="if(this.value=='Title, Author, Series or ISBN')value=''" onblur="if(this.value=='')value='Title, Author, Series or ISBN';" value="Title, Author, Series or ISBN" style="width: 250px;">
-				
-</td>
-				<td><input type="image" src="/images/img4/btn_search.gif" onclick="javascript:_hbLink('Header Search Button - Tab 1');"></td>
-			</tr>
+		<tbody><tr><td valign="absmiddle"><img src="/images/img4/txt_search.gif" width="30" height="11" alt="ESearch"></td>
+		<td>
+			
+			<input type="hidden" name="N" value="0"><input type="hidden" name="Ntk">
+			<input type="hidden" name="Nty" value="1"><input type="hidden" name="Ntx" value="mode+matchallpartial">
+            <input type="hidden" name="Ns" value="P_FORMATSORTGROUP|0||CP_PUBDATEGAP|0">
+			
+			<input type="hidden" name="Nr" value="AND(Subsite:SimonSays,CP_IDENTIFIER:TITLES)">
+			
+			<input type="hidden" name="D"> <input type="text" name="Ntt" style="width: 240px;">
+			
+			 
+			<input type="hidden" name="Dn" value="23424"> 
+			
+		</td>
+		<td><input type="image" src="/images/img4/btn_search.gif" onclick="javascript:_hbLink('Header Search Button - Tab 1');"></td></tr>
 		</tbody></table>
-		
 		</form>
+		
 	</div><!-- /search -->
 	
 
@@ -217,11 +246,30 @@ Change History:
 
 
 
-<!-- MOTHER'S DAY BANNER -->
-<div style="background:#FBE5E6 url(/images/banners/bg_promo_top_mothers_day.jpg) top left repeat-x; border-bottom:1px solid #F2B0B3;"><a href="http://www.simonsays.com/content/index.cfm?pid=586125&amp;tab=66"><img src="/images/banners/txt_promo_top_mothers_day.gif" width="450" height="28" alt="Get up to 15% off all books in our special Mother's Day Collection!"></a></div>
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div style="background: url(http://www.simonsays.com/images/banners/Holiday/site_wide_banner_background.jpg) top left repeat-x;"><a href="http://www.simonsays.com/content/feature.cfm?sid=33&amp;feature_id=6221"><img src="http://www.simonsays.com/images/banners/Holiday/site_wide_banner2.jpg" alt="Free Shipping! Get free shipping on orders over 25!" width="675" height="31" border="0"></a></div>
 
 
 
@@ -327,7 +375,9 @@ margin-top: -10px;
 <li><a href="/content/feature.cfm?feature_id=5790&amp;tab=1">Business Timeline</a> </li>
 <li><a href="/content/feature.cfm?feature_id=5782&amp;tab=1">Executives</a></li>
 <li><a href="/content/feature.cfm?feature_id=1990&amp;tab=1">Press Releases</a></li>
-<li><a href="/content/feature.cfm?feature_id=5791&amp;tab=1">Locations</a></li></ul>
+<li><a href="/content/feature.cfm?feature_id=5791&amp;tab=1">Locations</a></li>
+<li><a class="" href="http://www.simonsays.com/content/feature.cfm?tab=1&amp;feature_id=6224">Environmental Paper Policy</a></li>
+<li><a class="" href="http://www.simonsays.com/content/feature.cfm?tab=1&amp;feature_id=6223">Eco-Friendly Practices</a></li></ul>
 <h3 style="PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: bold; FONT-SIZE: 11px; PADDING-BOTTOM: 3px; MARGIN: 0px; COLOR: #333333; PADDING-TOP: 10px">Our Books</h3>
 <ul>
 <li><a href="/content/feature.cfm?feature_id=1636&amp;tab=1">Publishing Divisions and Imprints</a></li>
@@ -429,6 +479,7 @@ margin-top: -10px;
 				<li><a href="/content/feature.cfm?feature_id=1990&amp;tab=1">Press Releases</a></li>
 				<li><a href="/content/feature.cfm?feature_id=1629&amp;tab=1">Rights &amp; Permissions</a></li>
 				<li><a href="/content/consumer.cfm?app=employment&amp;tab=1">Careers</a></li>
+				<li><a href="/content/feature.cfm?sid=33&amp;feature_id=6335">Employee Emergency Information</a></li>
 			</ul>
 		</td>
 		<td>
@@ -457,7 +508,7 @@ margin-top: -10px;
 </div><!-- /footer -->
 
 <div id="copyright">
-<p>Visit our international sites: <a href="/content/index.cfm?PID=523088&amp;tab=25">Canada</a>  |  <a href="/content/index.cfm?pid=523089&amp;tab=65">United Kingdom</a>  |  <a href="/subs/index.cfm?areaid=288">Australia</a></p>
+<p>Visit our international sites: <a href="/content/index.cfm?PID=523088&amp;tab=25">Canada</a>  |  <a href="/content/index.cfm?pid=523089&amp;tab=65">United Kingdom</a>  |  <a href="/content/index.cfm?pid=523090&amp;tab=73">Australia</a></p>
 <p><a href="/content/feature.cfm?tab=1&amp;feature_id=1630">Terms of Use</a>  |  <a href="/content/feature.cfm?tab=1&amp;feature_id=1610">Privacy Policy</a>  |  Copyright ©1997 - 2007, Simon &amp; Schuster, Inc.</p>
 <p>All rights reserved, including the right of reproduction in whole or in part in any form.</p>
 </div><!-- /copyright -->
@@ -631,7 +682,11 @@ margin-top: -10px;
 
 
 
+
 <!-- /content/feature.cfm -->
+
+
+
 
 
 
@@ -641,6 +696,35 @@ margin-top: -10px;
 
 <!--WEBSIDESTORY CODE HBX2.0 (Universal)-->
 <!--COPYRIGHT 1997-2005 WEBSIDESTORY,INC. ALL RIGHTS RESERVED. U.S.PATENT No. 6,393,479B1. MORE INFO:http://websidestory.com/privacy-->
+
+
+<script>
+function hbxStrip(a) {
+
+	a = a.split("'").join("");
+	a = a.split('"').join("");
+	a = a.split("&").join("");
+	a = a.split("|").join("");
+	a = a.split("#").join("");
+	a = a.split("$").join("");
+	a = a.split("%").join("");
+	a = a.split("^").join("");
+	a = a.split("*").join("");
+	a = a.split(":").join("");
+	a = a.split("!").join("");
+	a = a.split("<").join("");
+	a = a.split(">").join("");
+	a = a.split("~").join("");
+	a = a.split(";").join("");
+	a = a.split("\\").join("");
+	a = a.split(" ").join("+");
+
+	return a;
+	}
+</script>
+
+
+
 <script language="javascript">
 var _hbEC=0,_hbE=new Array;function _hbEvent(a,b){b=_hbE[_hbEC++]=new Object();b._N=a;b._C=0;return b;}
 var hbx=_hbEvent("pv");hbx.vpc="HBX0200u";hbx.gn="a.simonsays.com";
@@ -705,11 +789,47 @@ ev1.results = "";
 ev1.attr1   = "no_tab";
 ev1.attr2 = "";
 
+
+
+
 //END EDITABLE SECTION
+function $ii( a, b,c){ return a.indexOf(b, c?c:0)};function $is(a,b, c){return b>a.length?
+"":a.substring(b,c!=null?c:a.length)};function $a(v){ return escape(v) }; var _sv=10, _bn=navigator.
+appName,_mn="we74",_bv=parseInt(navigator.appVersion),__r=".referrer",_rf=$a(eval("document"+__r)),
+_epg="n&cam="+hbx.cam+"&pv="+(hbx.pv>0?"1":"0&abd_type=cart_add")+"&product="+$a(hbx.pr)+
+"&quantity="+$a(hbx.qn)+"&brand="+$a(hbx.bd)+"&category="+$a(hbx.ca)+"&price="+$a(hbx.pc)+
+"&store="+$a((hbx.sr=="S"+"TORE")?1:hbx.sr)+"&tz=EST&aid="+hbx.cacct;if(!$ii(_bn,"Micro"+
+"soft"))_bn="MSIE";if(_bn=="MSIE"&&_bv==2)_bv=3;function $l(m,l){return m=="/"?
+m:(($ii(m,"/")?"/":"")+(m.lastIndexOf("/")==l?m.substring(0,l):m))};function $n(
+a,b){return(a==""||a=="/")?"/":$is(a,hbx.ctdef!="full"?a.lastIndexOf("/",b-2): $ii(
+a,"/"),b)};function $o(a,b,c){var d=location.pathname,e=$is(d,d.lastIndexOf("/")+
+1,d.length);if(a&&b==c){return(hbx.pndef=="title"&&document.title!=""&&document.
+title!=location)?document.title:e?e:hbx.pndef}else{return(b==c)?$n(d,d.lastIndexOf(
+"/")):$l(b,b.length-1)}};function $p(a,b,c,d){return ""+(c>-1?$o(b,$is(a,0,c),d
+)+";"+$p($is(a,c+1),b,$ii($is(a,c+1),";")):$o(b,a,d))};hbx.mlc=$p( hbx.mlc,0,$ii(hbx.mlc,
+";"),"CONTENT+CAT"+"EGORY");hbx.pn=$p(hbx.pn,1,$ii(hbx.pn,";"),"PUT+"+"PAGE+NAME+HERE" );
 
 //REQUIRED SECTION. CHANGE "YOURSERVER" TO VALID LOCATION ON YOUR WEB SERVER (HTTPS IF FROM SECURE SERVER)
 </script><script language="javascript1.1" src="/WebSiteStory/hbx.js"></script>
-<!--END WEBSIDESTORY CODE-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
