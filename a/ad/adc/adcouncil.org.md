@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the adcouncil.org privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627080750id_/http%3A//www.adcouncil.org/default.aspx%3Fid%3D125) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adcouncil.org privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229123735id_/http%3A//www.adcouncil.org/default.aspx%3Fid%3D125) for the most accurate reproduction.*
 
 # Ad Council : Privacy Policy
 
-[Home](https://web.archive.org/web/20070627080750id_/http%3A//www.adcouncil.org/default.aspx?id=1) > Privacy Policy
+[Home](https://web.archive.org/web/20071229123735id_/http%3A//www.adcouncil.org/default.aspx?id=1) > Privacy Policy
 
 Updated:  February, 2006
 
@@ -34,7 +34,7 @@ Members of the media industry can order Ad Council materials from our media fulf
 
 **Online Donations**
 
-Visitors interested in making a donation to the Ad Council may do so by visiting the donation section of our [web site](https://web.archive.org/web/20070627080750id_/http%3A//www.adcouncil.org/default.aspx?id=97) or by contacting our Corporate Development office. 
+Visitors interested in making a donation to the Ad Council may do so by visiting the donation section of our [web site](https://web.archive.org/web/20071229123735id_/http%3A//www.adcouncil.org/default.aspx?id=97) or by contacting our Corporate Development office. 
 
 For more information, requests, questions or comments, please contact:
 
