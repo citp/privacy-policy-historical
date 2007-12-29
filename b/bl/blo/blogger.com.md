@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the blogger.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629233236id_/http%3A//www.blogger.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogger.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229075210id_/https%3A//www.blogger.com/privacy) for the most accurate reproduction.*
 
 # Blogger: Blogger Privacy Notice
 
-## October 14, 2005
+## October 9, 2007
 
 The [Google Privacy Policy](http://www.google.com/privacy.html) describes how we treat personal information when you use Google's products and services, including information provided when you use Blogger. In addition, the following describes our privacy practices that are specific to Blogger.
 
@@ -10,8 +10,9 @@ The [Google Privacy Policy](http://www.google.com/privacy.html) describes how we
 
   * Google asks for some personal information when you sign up to use Blogger, including your email address and a password, which is used to protect your account from unauthorized access.
   * In addition to publishing your weblog posts, you may also provide additional profile information, such as a photo, birthday, location, etc. and can edit your profile at any time on our [profile administration page.](https://web.archive.org/edit-profile.g)
-  * If you choose to use our [ transliteration feature](http://help.blogger.com/bin/answer.py?answer=58226), we will save your transliteration corrections, so that we can improve the service. 
-  * Google servers automatically record information about your use of the service, such as when you use Blogger and the frequency and size of data transfers. Information displayed or clicked in the Blogger interface (including UI elements, settings, and other information) is also recorded.
+  * If you choose to use our [ transliteration feature](http://help.blogger.com/bin/answer.py?answer=58226), we will save your transliteration corrections, so that we can improve the service.
+  * Google servers automatically record information about your use of the service, such as when you use Blogger and the frequency and size of data transfers. Information displayed or clicked in the Blogger interface (including UI elements, settings, and other information) is also recorded. If you are logged in we may associate that information with your account.
+  * If you choose to use [ Blogger Mobile](http://go.blogger.com/), we will record your phone number when you send a text message, photos, or SMS to or from Google. Your phone number may be associated with your [ Google Account](http://www.google.com/privacy_faq.html#account) or, if you do not have a Google Account, with some other similar account ID. We often generate this account ID based on your device and hardware IDs, so if you change your device or hardware, you will have to re-associate this new device or hardware with your account before we can authenticate you.
 
 
 
@@ -23,7 +24,7 @@ The [Google Privacy Policy](http://www.google.com/privacy.html) describes how we
 
 ### Your choices
 
-  * You can change your Blogger account settings, including your profile information, at any time in the Settings section of Blogger. You can edit, save drafts and remove your weblog posts at any time, as described in [Blogger Help](http://help.blogger.com/). 
+  * You can change your Blogger account settings, including your profile information, at any time in the Settings section of Blogger. You can edit, save drafts and remove your weblog posts at any time, as described in [Blogger Help](http://help.blogger.com/).
   * If you delete your weblog, we will remove all posts from public view. Because of the way we maintain this service, residual copies of your profile information and other information associated with your account may remain on back-up media.
 
 
@@ -32,11 +33,11 @@ The [Google Privacy Policy](http://www.google.com/privacy.html) describes how we
 
 Google adheres to the US Safe Harbor privacy principles. For more information about the Safe Harbor framework or our registration, see the [web site](http://www.export.gov/safeharbor/) of the Department of Commerce.
 
-Further information about Blogger is available in [Blogger Help](http://help.blogger.com/). 
+Further information about Blogger is available in [Blogger Help](http://help.blogger.com/).
 
-For more information about our privacy practices, go to [the full privacy policy](http://www.google.com/privacypolicy.html). If you have additional questions, please [contact us any time](http://www.blogger.com/problem.g). Or write to us at: 
+For more information about our privacy practices, go to [the full privacy policy](http://www.google.com/privacypolicy.html). If you have additional questions, please [contact us any time](http://www.blogger.com/problem.g). Or write to us at:
 
 > Privacy Matters  
 >  c/o Google Inc.  
 >  1600 Amphitheatre Parkway  
->  Mountain View CA 94043 (USA) 
+>  Mountain View CA 94043 (USA)
