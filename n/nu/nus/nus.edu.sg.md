@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nus.edu.sg privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618032959id_/http%3A//nus.edu.sg/corporate/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nus.edu.sg privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229014914id_/http%3A//www.nus.edu.sg/corporate/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement: NUS
 
@@ -34,6 +34,8 @@ back to top
   
 About NUS
 
+Giving to NUS
+
 Campus Map
 
 Job Opportunities
@@ -48,15 +50,17 @@ NUS Vision
 
 NUS Mission
 
+NUS Strategy
+
 Facts and Figures
 
 Milestones
 
-Act, Constitution, Statutes & Regulations
+Statutes & Regulations
 
-NUS Memorabilia
+NUS Board of Trustees
 
-NUS Council
+NUS Management
 
 University Administration
 
@@ -68,7 +72,7 @@ Affiliated Organisations
 
 Annual Reports
 
-Breakthrough
+Quest for Knowledge
 
 Knowledge Enterprise
 
@@ -90,14 +94,6 @@ Related Offices
 
 Student Exchange Programme
 
-APRU
-
-Asean University Network
-
-Universitas 21
-
-U21 Summer School and Symposium
-
 in Research and Teaching
 
 for Graduate Studies
@@ -107,6 +103,10 @@ Silicon Valley
 Bio Valley
 
 Shanghai
+
+Stockholm
+
+Bangalore
 
 International Relations
 
@@ -122,13 +122,41 @@ for overseas students
 
 Academic Calendar
 
+Course and Programmes
+
+For Overseas Students
+
+Graduate Studies
+
+Undergraduate Admissions
+
+Student Exchange Programme
+
+Undergraduate Admissions
+
+Non-graduating Programmes
+
+Courses
+
+Financial Aid
+
+How to Apply
+
+FAQs
+
+Scholarships & Awards
+
+Application status enquiry
+
+Academic Calendar
+
 Faculties and Schools
 
 Global Education
 
 Graduate Studies
 
-Language and Communication
+Language & Communication
 
 NUS Learning Environment
 
@@ -138,11 +166,19 @@ Student Exchange Programme
 
 For Overseas Students
 
+Awards for Study Abroad
+
+Non-graduating Programmes
+
 NUS College in Silicon Valley
 
 NUS College in Bio Valley
 
 NUS College in Shanghai
+
+NUS College in Stockholm
+
+NUS College in Bangalore
 
 Centre for English Language Communication
 
@@ -152,15 +188,13 @@ Ctr for Dev of Teaching & Learning
 
 Ctr for Instructional Technology
 
-NUS Library
+NUS Libraries
 
 NUS Extension
 
 Online Learning (IVLE)
 
 Self-Access English Learning Facility
-
-University Requirements
 
 General Education
 
@@ -170,7 +204,7 @@ Research Centres and Institutes
 
 Research Gallery
 
-Research Annual
+Annual Research Report
 
 NUS-affiliated National-level
 
@@ -178,33 +212,29 @@ University-level
 
 Faculty-level
 
-Enterprise Cluster
-
-Related Organisations
-
 NUS Enterprise
 
-NUS Consulting
-
-NUS Entrepreneurship Centre
-
-NUS Extension
-
-NUS INTRO
+\-----------------------------------
 
 NUS Overseas Colleges
 
-NUS Publishing
+NUS Industry Liaison Office
 
-NUS Venture Support
+NUS Entrepreneurship Centre
 
-U21 Summer School and Symposium
+Business Units
 
-NUS Entrepreneur's Association
+Related Organisations
 
-NUS Entrepreneurship Society
+NUS Extension
+
+NUS Press
+
+NUS Technology Holdings Pte Ltd
 
 Arts and Culture
+
+Sports@NUS
 
 Accommodation
 
@@ -216,9 +246,9 @@ Student Activities
 
 NUS Communities
 
-Centre for the Arts
+Museum
 
-NUS Museums
+NUS Centre for the Arts
 
 University Cultural Centre
 
@@ -234,7 +264,7 @@ Co-operatives
 
 Dining
 
-Health and Wellness
+Health, Wellness & Counselling Centre
 
 Security
 
@@ -246,15 +276,15 @@ Parking in NUS
 
 Clubs and Societies
 
-NUS Student Union
+NUS Students' Union
 
 AlumNet
 
-Campus Green Committee
+Campus Sustainability Committee
 
 Clubs and Societies
 
-Halls of Residences Web
+Halls of Residences
 
 NUS Students' Union
 
@@ -278,15 +308,13 @@ Virtual Private Network (VPN)
 
 Wireless Computing (WinZone)
 
+Digital Media Centre
+
 IT Security
 
-Multimedia Development Labs
-
-Network TV
-
-Webcasting
-
 Notebook & PDA Purchases
+
+Webcasting & Network TV
 
 Supercomputing
 
@@ -296,17 +324,21 @@ NUS IT Care
 
 Careers and Employment
 
-International Student Services
+Counselling Centre
 
-Guidance & Counselling
+International Student Services
 
 PC Clusters
 
 Student Affairs
 
+Student Financial Aid
+
+Student Service Centre
+
 Courseware Development
 
-Ctr for Dev of Teaching & Learning
+Ctr for Dev of Teaching and Learning
 
 Ctr for Instructional Technology
 
@@ -314,7 +346,7 @@ English Language and Comms
 
 Integrated Virtual Learning
 
-NUS Learning Portal
+Learning Portal
 
 NUS Libraries
 
@@ -327,27 +359,3 @@ NUS Publishing
 Promotion of Standard English
 
 Self-Access English Learning Facility
-
-Academic Calendar
-
-Course and Programmes
-
-For Overseas Students
-
-Graduate Studies
-
-Undergraduate Admissions
-
-Student Exchange Programme
-
-Undergraduate Admission
-
-Courses
-
-Financial Aid
-
-How to Apply
-
-Scholarships
-
-Application status enquiry
