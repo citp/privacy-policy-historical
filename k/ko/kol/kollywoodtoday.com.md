@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kollywoodtoday.com privacy policy that was archived on 2007-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070602023604id_/http%3A//www.kollywoodtoday.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kollywoodtoday.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229092912id_/http%3A//www.kollywoodtoday.com/privacy-policy) for the most accurate reproduction.*
 
 # » Privacy Policy - Kollywood today
 
