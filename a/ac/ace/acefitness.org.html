@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the acefitness.org privacy policy that was archived on 2007-06-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070613023228id_/http%3A//www.acefitness.org/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the acefitness.org privacy policy that was archived on 2007-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071229061601id_/http%3A//www.acefitness.org/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>ACE Privacy Policy</title>
 <!---Yahoo Site Verify Do Not Remove--->
 <meta name="y_key" content="6d2d7777739f1f90"> 
 <!---Google Site Verify Do Not Remove--->
-<meta name="verify-v1" content="VE24HCgqmS60ZdD9AwmD1ELikyhzBL/zXBXhW0wvbZY="> 
+<meta name="verify-v1" content="/FLQy75DmZOuhtBXj0FFmIRziBEPMvIJKId5c2mEMmg=">
 <!---End verify--->
 <meta name="Description" content="Fitness Certification and Education: The American Council on Exercise (ACE), a non-profit organization, promotes active lifestyles by setting certification and education standards for personal trainers and group fitness instructors. ACE protects the consumer from ineffective fitness products, programs and trends through public education.">
 <meta name="Keywords" content="exercise, fitness, American Council on Exercise, ACE, ACE-certified, ACE FitnessMatters magazine, ACE Fitness Matters magazine, Certified News magazine, Personal Trainer Manual, books, manuals, study guides, personal trainer certification, personal training certification, certified personal trainer, personal trainer, fitness certifications, CEC, Continuing Education Credits, fitness certification exams, group fitness instructor, health inovation, fitness information, ACE Fit Facts, Fit Facts, fitness professional, fitness centers, non-profit, fitness organization, non-profit fitness advocate, workout watchdog, active lifestyles, physical activity, physical education, sports medicine, recreation, Operation Fit Kids, OFK, youth fitness, youth exercises, abs, ab exercise, abdominal exercise, aerobic exercise, corporate wellness, diet and exercise, exercise program, fitness training, fitness trainer certification, fitness education, personal fitness certification, physical fitness, water exercise, weight training, youth fitness education, fitness centers, health professionals, workouts, strength training, yoga, Pilates, kickboxing, aquatic sports, cycling, spinning, nutrition, fitness apparel, ACE-Certified apparel, American College of Sports Medicine, ACSM, International Health Racquet and Sports Association, IHRSA, NIRSA">
@@ -18,7 +18,8 @@
 <script src="/scripts/ace.js" language="javascript"></script>
 <script src="/scripts/store.js" type="text/javascript"></script>
 <script src="/scripts/swfobject.js" language="javascript"></script>
-	</head><body><div id="outer">
+</head>
+	<body><div id="outer">
 		<div id="top">
 			<a href="http://www.acefitness.org/" title="ACE Homepage"><img src="/images/layout/logo.jpg" alt="ACE - American Council on Exercise" id="logo"></a>
 			<div id="utilities">
@@ -29,7 +30,8 @@
 					<li class="separator"><a href="http://www.acefitness.org/educationcenter/universityprogram.aspx">Universities</a></li>
 					<li class="last"><a href="http://www.acefitness.org/media/default.aspx">Media</a></li>
 				</ul>
-				<span><a href="http://www.gymjob.com" target="_blank">www.gymjob.com</a></span>
+				<li class="separator&quot;"><a href="http://www.acefitness.org/aboutace/newsletters.aspx">Newsletter Sign-up</a></li>
+				<li class="last">&nbsp;<a href="http://www.gymjob.com" target="_blank">www.gymjob.com</a></li>
 			</div>
 			<div id="navigation">
 				<ul>
@@ -42,7 +44,7 @@
 				</ul>
 			</div>
 			<div id="subnavigation">
-				<ul>
+				<ul><li></li>
 					<li><a href="http://www.acefitness.org/acestore/login.aspx" class="WelcomeUserLink" target="_top">Login</a></li>
 					<li class="cart"><a href="http://www.acefitness.org/acestore/basket.aspx">Cart</a></li>
 					<li><a href="https://www.acefitness.org/acestore/Shipping.aspx">Checkout</a></li>
@@ -51,15 +53,25 @@
 <script language="javascript">
 	function runsearch()
 	{
-		var sSearchText = document.all.tbSearchString.value;
-		window.location = 'http://www.acefitness.org/search/searchresults.aspx?searchString=' + sSearchText + '&whichCollection=my_collection';
+		var sSearchText = document.getElementById("tbSearchString").value;
+		window.location = 'http://www.acefitness.org/search/searchresults.aspx?searchString=' + sSearchText + '&whichCollection=default_collection';
 	}
 </script>
-<input type="text" name="tbSearchString" id="tbSearchString" size="15"><a href="javascript:runsearch();"><img src="/images/layout/search-btn.gif" alt="Search ACE" id="btnSearch" border="0"></a>
+<script language="JavaScript">
+         function handleEnter (field, event) {
+         var keyCode = event.keyCode ? event.keyCode : event.which ? event.which : event.charCode;
+         if (keyCode == 13) {
+             runsearch()
+         }
+         else
+         return true;
+     }
+</script>
+<input type="text" name="tbSearchString" id="tbSearchString" size="10" onkeypress="return handleEnter(this, event)"><a href="javascript:runsearch();"><img src="/images/layout/search-btn.gif" alt="Search ACE" id="btnSearch" border="0"></a>
 
 				</div>
 			</div>
-			<div id="breadcrumbs" class="breadcrumbs" style="text-transform: capitalize;"><a href="/">Home</a> : ACE Privacy Policy</div>
+			<div id="breadcrumbs" class="breadcrumbs" style="text-transform: capitalize;"><a href="/default.aspx">Home</a> : ACE Privacy Policy</div>
 		</div>
 <div id="container">
 <div id="content">
@@ -67,15 +79,16 @@
 <br><br>
 <strong>Introduction</strong>
 <br><br>
-Thank you for visiting the American Council on Exercise ("ACE") web site.  ACE is committed to providing our visitors with content and services characterized by outstanding quality and customer service.  Because the Internet is an evolving medium, ACE reserves the right to change this Privacy Policy.  Please check for updates regularly.  Your continued use of the site or any of the services offered herein following any such change will constitute your acceptance of all changes.  In addition, by visiting any of our sites, you agree that your visit, and any dispute over privacy, is governed by this Privacy Policy and our Terms of Use.  Please read both carefully before using our site.  
+Thank you for visiting the American Council on Exercise (“ACE”) web site (the “Site”).  ACE is committed to providing our visitors with content and services characterized by outstanding quality and customer service.  Because the Internet is an evolving medium, ACE reserves the right to change this Privacy Policy at any time.  Please check for updates regularly.  Your continued use of the Site or any of the services offered herein following any such change will constitute your acceptance of all changes.  In addition, by visiting the Site or any of our other web sites, you agree that your visit, and any dispute over privacy, is governed by this Privacy Policy and our Terms and Conditions.  Please read both carefully before using the Site.  
 <br><br>
 <strong>Our Commitment To Privacy</strong>
 <br><br>
-Your privacy is important to us.  To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used.  To make this notice easy to find and we make it available on every page of our web site. 
-<br><br>
-<strong>The Information We Collect:</strong>
-<br><br>
-We will request only the information we need in order to provide the highest level of service to you.  On some pages of the web site, you can order products, make requests, and register to receive materials.  The types of personal information collected at these pages include: 
+<p>Your privacy is important to us.&nbsp; To better protect your privacy we provide  this notice explaining our online information practices and the choices you can  make about the way your information is collected and used.&nbsp; To make this notice easy to find and we make  it available on every page of our Site. <br>
+  <br>
+  <strong>The Information We Collect:</strong>
+  <br>
+  <br>
+We will request only the information we need in order to provide the highest level of service to you.  On some pages of the Site, you can order products, make requests, and register to receive materials.  The types of personal information collected at these pages include: </p>
 <ul>
 Name <br>
 Address <br>
@@ -84,15 +97,15 @@ Company Information<br>
 Email address <br>
 Credit/Debit Card Information</ul> 
 
-Our web site logs IP addresses and browser types for the purposes of system administration and user functionality.  These logs will be analyzed to improve the value of the materials available on our website.  While user sessions are tracked, users remain anonymous.  We do not link IP addresses to any personally identifiable information.  We use non-identifying and aggregate information to better design our website.
+Our Site logs IP addresses and browser types for the purposes of system administration and user functionality.  These logs will be analyzed to improve the value of the materials available on our website.  While user sessions are tracked, users remain anonymous.  We do not link IP addresses to any personally identifiable information.  We use non-identifying and aggregate information to better design our website.
 <br><br>
 <strong>How We Use Information:</strong>
 <br><br>
-We use the information you provide about yourself or someone else when placing an order or making a request only to the extent necessary to complete that order or request.   
+We use the information you provide about yourself or someone else when placing an order or making a request only to the extent necessary to complete that order or request.    
 <br><br>
-We will not sell your email address or any other personal information.  From time to time, we may send information about our services to the email or mailing address provided by you.  We may lease your mailing address to organizations that share our mission and meet our criteria and standards of excellence.  As an email recipient, your email address is confidential.  The sender is always identified and the sender's return email address is disclosed.  This policy promotes responsible use of email and directs you to the right source if you feel that you are receiving inappropriate messages.
+We will not sell your email address or any other personal information.  From time to time, we may send information about our services to the email or mailing address provided by you.  We may lease your mailing address to organizations that share our mission and meet our criteria and standards of excellence.  As an email recipient, your email address is confidential.  When an email message is sent to you, the sender does not see your name or email address.  The sender of a message however is always identified and the sender's return email address is disclosed.  This policy promotes responsible use of email and directs you to the right source if you feel that you are receiving inappropriate messages.
 <br><br>
-To be removed from receiving any mailings, you may contact our customer service department at <a href="mailto:support@ACEfitness.org">support@ACEfitness.org</a> or 1-888-825-3636.  Unless we think that such action is necessary to comply with the law or legal process or to protect the interests of ACE or others, we will not release personal information about you without your consent.  
+To be removed from receiving any mailings, you may contact our customer service department at <b><a href="mailto:support@acefitness.org">support@ACEfitness.org</a></b> or (800) 825-3636.  Unless we think that such action is necessary to comply with the law or legal process or to protect the interests of ACE or others, we will not release personal information about you without your consent.    
 <br><br>
 <strong>Rules for Submissions and Messages </strong>
 <br><br>
@@ -100,7 +113,7 @@ Responsibility for what is posted in the discussion groups or other public forum
 <br><br>
 <strong>Our Commitment To Data Security </strong>
 <br><br>
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect.  You are responsible for keeping your password secret.  Never give your password to anyone, even someone claiming to be an ACE employee.  
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect.  You are responsible for keeping your password secret.  Never give your password to anyone, even someone claiming to be an ACE employee.    
 <br><br>
 <strong>Web Linking</strong>
 <br><br>
@@ -108,23 +121,25 @@ ACE may link to other web sites.  These sites may collect user information or so
 <br><br>
 <strong>Our Commitment To Children's Privacy:</strong>
 <br><br>
-Protecting the privacy of the very young is especially important.  For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13. 
+Protecting the privacy of the very young is especially important.  For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our Site is structured to attract anyone under 13. 
 <br><br>
 <strong>How To Access Or Correct Your Information</strong>
 <br><br>
-You may access or correct your personally identifiable information that we maintain by contacting our customer service department at <a href="mailto:support@ACEfitness.org">support@ACEfitness.org</a> or by visiting the ACE store and clicking on "My Account".  To better protect your privacy and security, your email address must match the email address used to establish your account.  We use this procedure to better safeguard your information.  If you have any questions you may contact our customer service by phone at 1-888-825-3636.
+You may access or correct your personally identifiable information that we maintain by contacting our customer service department at <b><a href="mailto:support@acefitness.org">support@ACEfitness.org</a></b> or by visiting the ACE store and clicking on My Account.  To better protect your privacy and security, your email address must match the email address used to establish your account.  We use this procedure to better safeguard your information.  If you have any questions you may contact our customer service by phone at (800) 825-3636.
 <br><br>
 <strong>How To Contact Us </strong>
 <br><br>
-Should you have any other questions or concerns about this privacy policy please call us at 1-888-825-3636 or send us an email at <a href="mailto:support@ACEfitness.org">support@ACEfitness.org</a>.<br><br>
+Should you have any other questions or concerns about this privacy policy please call us at (800) 825-3636 or send us an email at <b><a href="mailto:support@acefitness.org">support@ACEfitness.org</a></b>.<br><br>
 </div>
 </div>
 
 
 
 <div id="footer">
-			<p id="copyright">©2007 American Council on Exercise</p>
-			<p class="navigation"><a href="http://www.acefitness.org/copyright.aspx">Terms of Use</a> | <a href="http://www.acefitness.org/privacy.aspx">Privacy Policy</a> | <a href="http://www.acefitness.org/aboutace/contact.aspx">Contact Us</a> | <a href="http://www.acefitness.org/aboutace/careers.aspx">Careers at ACE</a></p>
+			<p id="copyright">©2007 American Council on Exercise<br><!-- START SCANALERT CODE -->
+<a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.acefitness.org"><img width="115" height="32" border="0" src="//images.scanalert.com/meter/www.acefitness.org/12.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." vspace="5"></a>
+<!-- END SCANALERT CODE --></p>
+			<p class="navigation"><a href="http://www.acefitness.org/copyright.aspx">Terms of Use</a> | <a href="http://www.acefitness.org/privacy.aspx">Privacy Policy</a> | <a href="http://www.acefitness.org/aboutace/contact.aspx">Contact Us</a> | <a href="http://www.acefitness.org/aboutace/careers.aspx">Careers at ACE</a>| <a href="http://www.acefitness.org/sitemap.aspx">Site Map</a><br><a href="http://www.acefitness.org/getcertified/certification_pt.aspx">Personal Trainer Certification</a> | <a href="http://www.acefitness.org/getcertified/certification_lwmc.aspx">Lifestyle + Weight Management Consultant Certification</a><br><a href="http://www.acefitness.org/getcertified/certification_gfi.aspx">Group Fitness Instructor Certification</a> | <a href="http://www.acefitness.org/getcertified/certification_ces.aspx">Advanced Health + Fitness Specialist Certification</a></p>
 			<div class="clearboth"></div>
 		</div>
 	</div>
