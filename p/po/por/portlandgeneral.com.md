@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the portlandgeneral.com privacy policy that was archived on 2007-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070621054503id_/http%3A//www.portlandgeneral.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the portlandgeneral.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229060210id_/http%3A//www.portlandgeneral.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # PGE - Privacy Policy
 
@@ -34,7 +34,7 @@ Back to top
 **Communications from the site**  
 **Online services** : We send service-related communications when you transact business on our site, such as paying your electricity bill or ordering a product or service. Users cannot “opt out” of these communications, although you may cancel your online services at any time by following the instructions located under **[Cancel Your Online Services](https://cs.portlandgeneral.com/Secure/UnRegister/UnRegister.aspx "Cancel Your Online Services")**.
 
-**Newsletter** : In our “Home Solutions” section, you can subscribe to our residential e-mail newsletter, PGE _Online News for You_. In our “Business Solutions” section, you can subscribe to our small and larger business e-mail newsletters, _Energize_ and _E-News_. You can unsubscribe from these newsletters at any time by following the link in each edition to “remove your e-mail address” from Portland General Electric’s e-mail list.
+**Newsletter** : Visitors to PortlandGeneral.com can subscribe to our residential e-mail newsletter, _Home Connection_ , and our business e-mail newsletter, _Energize_. You can unsubscribe from these newsletters at any time by following the link in each edition to “remove your e-mail address” from Portland General Electric’s e-mail list.
 
 Back to top
 
