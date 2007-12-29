@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the floormall.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617193229id_/http%3A//www.floormall.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the floormall.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229053932id_/http%3A//www.floormall.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Floormall.com Privacy Policy
 
@@ -7,13 +7,13 @@
 We want our users to always be aware of any information we collect, how we use it, and under what circumstances, if any, we disclose it.   
 **WEBSITE ADMINISTRATION**  
 Business name:  |  Hardwoodbrokers.com, INC.   
-Address:  |  4712 Larkspur Square Shopping Center   
+Address:  |  3169 Shipps Corner Road Suites 101-103   
 City:  |  Virginia Beach   
 State/Province:  |  Virginia   
-ZIP:  |  23462   
+ZIP:  |  23453   
 Country:  |  USA   
-Phone:  |  800-313-1107   
-Fax:  |  757-233-2958   
+Local Phone:  | 757-689-4614   
+Fax:  |  757-689-4622   
 Website URL:  |  www.floormall.com   
 Website e-mail:  |  customerservice@floormall.com   
 **INFORMATION COLLECTION AND USE**  
@@ -55,13 +55,13 @@ We always use industry-standard encryption technologies when transferring and re
 **  
 **CONTACT INFORMATION**  
 If site users have any questions or suggestions regarding our privacy policy, please contact us at:  
-Phone |  800-313-1107  
-Fax |  757-233-2958  
+Local Phone |  757-689-4614  
+Fax |  757-689-4622  
 Email |  customerservice@floormall.com  
 Postal Address:  
-|  4712 Larkspur Square Shopping Center  
+|  3169 Shipps Corner Road Suites 101-103  
 Virginia Beach, Virginia  
-USA 23462   
+USA 23453   
 Website URL: |  [www.floormall.com](http://www.floormall.com/)  
 To further protect your privacy and ensure that we keep our promises to you this policy has been registered with Privacy Affiliates - A trusted third party privacy advocate. Here are the contact details.
 
