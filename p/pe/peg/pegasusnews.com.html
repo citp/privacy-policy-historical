@@ -1,45 +1,70 @@
-<!--The following is the downloaded HTML source of the pegasusnews.com privacy policy that was archived on 2007-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070623012924id_/http%3A//www.pegasusnews.com/about/pegasusprivacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pegasusnews.com privacy policy that was archived on 2007-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071229024314id_/http%3A//www.pegasusnews.com/about/pegasusprivacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <title>Privacy Policy | pegasusnews.com</title>    
+  <title>Privacy Policy | pegasusnews.com | Dallas / Fort Worth</title>
+  <link rel="stylesheet" href="http://media.pegasusnews.com/css/sub.css?mrev=1581" type="text/css" media="all">
+  <link rel="stylesheet" href="http://media.pegasusnews.com/css/print.css?mrev=1581" type="text/css" media="print">
   
-  <link rel="stylesheet" href="http://media.pegasusnews.com/css/sub.css" type="text/css" media="all">
-  <link rel="stylesheet" href="http://media.pegasusnews.com/css/print.css" type="text/css" media="print">
-  
-<link href="http://media.pegasusnews.com/css/wforms.css" rel="stylesheet" type="text/css">
-<link href="http://media.pegasusnews.com/css/wforms-jsonly.css" rel="alternate stylesheet" type="text/css" title="stylesheet activated by javascript">
-<script type="text/javascript" src="http://media.pegasusnews.com/js/wforms.js"></script>
+<link href="http://media.pegasusnews.com/css/wforms.css?mrev=1581" rel="stylesheet" type="text/css">
+<link href="http://media.pegasusnews.com/css/wforms-jsonly.css?mrev=1581" rel="alternate stylesheet" type="text/css" title="stylesheet activated by javascript">
+<script type="text/javascript" src="http://media.pegasusnews.com/js/wforms.js?mrev=1581"></script>
 
-  <script type="text/javascript" src="http://media.pegasusnews.com/js/calendar.js"></script>
-  <script type="text/javascript" src="http://media.pegasusnews.com/js/core.js"></script>
+  <script type="text/javascript" src="http://media.pegasusnews.com/js/core.js?mrev=1581"></script>
+  <script type="text/javascript" src="http://media.pegasusnews.com/js/jquery-1.2.1.js?mrev=1581"></script>
+  <script type="text/javascript" src="http://media.pegasusnews.com/js/jquery.dimensions.js?mrev=1581"></script>
+  <script type="text/javascript" src="http://media.pegasusnews.com/js/jquery.blockUI.js?mrev=1581"></script>
+  <script type="text/javascript">
+  // <![CDATA[
+  function createCookie(name,value,days) {
+      if (days) {
+          var date = new Date();
+          date.setTime(date.getTime()+(days*24*60*60*1000));
+          var expires = "; expires="+date.toGMTString();
+      }
+      else var expires = "";
+      document.cookie = name+"="+value+expires+"; path=/";
+  }
+
+  function readCookie(name) {
+      var nameEQ = name + "=";
+      var ca = document.cookie.split(';');
+      for(var i=0;i < ca.length;i++) {
+          var c = ca[i];
+          while (c.charAt(0)==' ') c = c.substring(1,c.length);
+          if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+      }
+      return null;
+  }
+
+  function eraseCookie(name) {
+      createCookie(name,"",-1);
+  }
+
+  function experimentSwap() {
+      var exp_name = 'experiment';
+      var exp_js = exp_name + '_js';
+      var exp_value = readCookie(exp_js);
+      if (exp_value) {
+          eraseCookie(exp_js);
+          createCookie(exp_name, exp_value, 90);
+      }
+  }
+  addEvent(window, 'load', experimentSwap);
+  //]]>
+  </script>
+
   
   
      <script type="text/javascript" language="javascript" charset="utf-8">
      // <![CDATA[
-      var months = new Array('jan', 'feb', 'mar', 'apr', 'may', 'jun', 'jul', 'aug', 'sep', 'oct', 'nov', 'dec');
-      function go_to_event_date(y, m, d) {
-         if (d < 10) { d = '0' + d.toString(); }
-	 window.location = '/events/' + y + '/' + months[m-1] + '/' + d + '/';
-      }
-      var eventcal;
-      addEvent(window, 'load', function() {
-        if (navigator.userAgent.indexOf('MSIE 5') != -1
-    	&&
-    	navigator.userAgent.indexOf('Mac') != -1) return; /* Unfortunate browser detect for IE5/Mac */
-        
-	if (elmById('eventcal')) {
-		eventcal = new Calendar("eventcal", "go_to_event_date");
-		eventcal.drawDate(06, 2007);
-		document.getElementById('calnavbar').style.display = 'block';
-	}
-      });
-      // ]]>
-      </script>
+     var media_url = "http://media.pegasusnews.com/";
+     // ]]>
+     </script>
   
   
-</head> 
+</head>
 
 <body id="generic" class="generic ">
   
@@ -66,7 +91,7 @@
                  '%','^','*',':','!',
                  '\\','<','>','~',';',
                  '[',']','{','}', '|',
-		 ].join('');
+         ].join('');
 
   function hbx_is_legal_char(c) {
        if (hbx_illegal_chars.indexOf(c) != -1) {
@@ -141,112 +166,84 @@
 
   // ]]>
   </script>
-  <script language="JavaScript" type="text/javascript" src="http://media.pegasusnews.com/js/hbx.js"></script>
-  <!-- Start Tacoda --> 
-    <script language="JavaScript" type="text/javascript">var tcdacmd="dt";</script> 
-    <script src="http://an.tacoda.net/an/13031/slf.js" language="JavaScript" type="text/javascript"></script>
-  <!-- End Tacoda --> 
+  <script language="JavaScript" type="text/javascript" src="http://media.pegasusnews.com/js/hbx.js?mrev=1581" defer="defer"></script>
+  <!-- Start Tacoda -->
+  <script language="JavaScript" type="text/javascript">var tcdacmd="dt";</script> 
+  <script src="http://an.tacoda.net/an/13031/slf.js?mrev=1581" language="JavaScript" type="text/javascript"></script>
+  <!-- End Tacoda -->
   <!-- Start Quantcast tag -->
-    <script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
-    <script type="text/javascript">
-    _qacct="p-6bACxo8eZrm6Y";quantserve();</script>
-    <noscript>
-    <img src="http://pixel.quantserve.com/pixel/p-6bACxo8eZrm6Y.gif" style="display: none" height="1" width="1" alt="Quantcast"/></noscript>
+  <script type="text/javascript">
+  _qacct="p-6bACxo8eZrm6Y";
+  </script>
+  <script type="text/javascript" src="http://edge.quantserve.com/quant.js" defer="defer"></script>
+  <noscript><img src="http://pixel.quantserve.com/pixel/p-6bACxo8eZrm6Y.gif" style="display: none" height="1" width="1" alt="Quantcast"/></noscript>
   <!-- End Quantcast tag -->
   
   <p class="low-tech">Jump to: <a href="#global-nav">site navigation</a>, <a href="#content">content</a>.</p>
-     <div id="container">
-        <div id="header">
-	   <h1><a href="/"><img src="http://media.pegasusnews.com/img/site/header_pnlogo.gif" alt="Pegasus News" id="header-logo"></a></h1>
-	   <div id="headbar">
-	   <div id="global-nav">
-	      <ul class="personal">
-	         <li class="home"><a href="/">Home</a></li>
-	         <li class="hood"><a href="/hood/">Your Neighborhood</a></li>
-<!--
-	         <li id="global-nav-shows"><a href="/events/">Shows</a></li>
-	         <li id="global-nav-bands"><a href="/bands/search/">Bands</a></li>
-	         <li id="global-nav-venues"><a href="/places/venues/all/">Venues</a></li>
-	         <li id="global-nav-radio"><a href="/radio/">Radio</a></li>
-	         <li id="global-nav-downloads"><a href="/downloads/">Downloads</a></li>
-	         <li id="global-nav-podcasts"><a href="/podcasts/">Multimedia</a></li>
-	         <li id="global-nav-stories"><a href="/news/">Stories</a></li>
-	         <li id="global-nav-blogs"><a href="/blogs/">Blogs</a></li>
-	         <li id="global-nav-movies"><a href="/movies/">Movies</a></li>
-	         <li id="global-nav-diversions"><a href="/diversions/">Diversions</a></li>
--->
-	      </ul>
-	      <ul class="news">
+    <div id="container">
+      <div id="header">
+       <h1><a href="/"><img src="http://media.pegasusnews.com/img/site/header_pnlogo.gif?mrev=1581" alt="Pegasus News" id="header-logo"></a></h1>
+       <div id="headbar">
+       <div id="global-nav">
+          <ul class="personal">
+             <li class="home"><a href="/">Home</a></li>
+             <li class="hood"><a href="/hood/">Your Neighborhood</a></li>
+          </ul>
+          <ul class="news">
             <li class="metro"><a href="/news/metro/">Metro</a></li>
             <li class="business"><a href="/news/business/">Business</a></li>
             <li class="sports"><a href="/news/sports/">Sports</a></li>
             <li class="schools"><a href="/news/schools/">Schools</a></li>
-	      </ul>
-	      <ul class="life">
+          </ul>
+          <ul class="life">
             <li class="living"><a href="/living/">Living</a></li>
             <li class="arts"><a href="/living/arts/">Arts</a></li>
             <li class="music"><a href="/living/music/">Music</a></li>
             <li class="movies"><a href="/living/movies/">Movies</a></li>
             <li class="dining"><a href="/living/dining/">Dining</a></li>
             <li class="shopping"><a href="/living/shopping/">Shopping</a></li>
-	      </ul>
-	   </div><!-- END #global-nav -->
-	   <div id="toolbar">
-	      <div id="user-tools">
-	         <p>
-	      
-	         <a href="/accounts/login/"><strong>Log in</strong></a> | <a href="/accounts/register/">Sign up</a> | <a href="/users/">Users</a> | <a href="/help/">Help</a>
-	      
-	      | <a href="/tools/">Tools</a>
-	        </p>
-	      </div> <!-- END #user-tools -->
-	      <form action="/search/" method="get" id="global-search">
-	         <input name="q" id="global-search-field" type="text" tabindex="1" size="25">
-	         <input name="submit" id="global-search-button" type="image" src="http://media.pegasusnews.com/img/site/button_search.gif" alt="Search" tabindex="2">
-	      </form>
-	    </div><!-- END #toolbar -->
-	    </div><!-- end #headbar -->
+          </ul>
+       </div><!-- END #global-nav -->
+       <div id="toolbar">
+          <div id="user-tools">
+             <p>
+          
+             <a href="/accounts/login/"><strong>Log in</strong></a> | <a href="/accounts/register/">Sign up</a> | <a href="/users/">Users</a> | <a href="/help/">Help</a>
+          
+            </p>
+          </div> <!-- END #user-tools -->
+          <form action="/search/" method="get" id="global-search">
+             <input name="q" id="global-search-field" type="text" tabindex="1" size="25">
+             <input name="submit" id="global-search-button" type="image" src="http://media.pegasusnews.com/img/site/button_search.gif?mrev=1581" alt="Search" tabindex="2">
+          </form>
+        </div><!-- END #toolbar -->
+        </div><!-- end #headbar -->
            
-	      <div id="global-ad">
-	         
-		 
-<!-- AdSpeed.com Serving Code 7.7 -->
-<iframe width="468" height="60" src="http://g.adspeed.net/ad.php?do=html&amp;zid=7992&amp;wd=468&amp;ht=60&amp;target=_top" frameborder="0" scrolling="no" allowtransparency="true" hspace="0" vspace="0"><a href="http://g.adspeed.net/ad.php?do=clk&amp;zid=7992&amp;wd=468&amp;ht=60&amp;pair=as" target="_top"><img style="border:0px;" src="http://g.adspeed.net/ad.php?do=img&amp;zid=7992&amp;wd=468&amp;ht=60&amp;pair=as" height="60" width="468" alt="adspeed" /></a></iframe>
+          <div id="global-ad">
+         
+<!-- AdSpeed.com Serving Code 7.9  -->
+<script type="text/javascript" src="http://g.adspeed.net/ad.php?do=js&amp;zid=7992&amp;wd=468|940&amp;ht=60|105&amp;target=_top"></script>
 <!-- AdSpeed.com End -->
 
-	      </div>
-	   
-	   
-	      <div style="background-color: white; width: 960px;" align="center">
-	         
-	         
-<!-- AdSpeed.com Serving Code 7.7 -->
-<iframe width="728" height="90" src="http://g.adspeed.net/ad.php?do=html&amp;zid=7993&amp;wd=728&amp;ht=90&amp;target=_top" frameborder="0" scrolling="no" allowtransparency="true" hspace="0" vspace="0"><a href="http://g.adspeed.net/ad.php?do=clk&amp;zid=7993&amp;wd=728&amp;ht=90&amp;pair=as" target="_top"><img style="border:0px;" src="http://g.adspeed.net/ad.php?do=img&amp;zid=7993&amp;wd=728&amp;ht=90&amp;pair=as" height="90" width="728" alt="adspeed" /></a></iframe>
+          </div>
+       
+       
+          <div style="background-color: white; width: 960px;" align="center">
+             
+             
+<!-- AdSpeed.com Serving Code 7.9  -->
+<script type="text/javascript" src="http://g.adspeed.net/ad.php?do=js&amp;zid=7993&amp;wd=728|940&amp;ht=90|105&amp;target=_top"></script>
 <!-- AdSpeed.com End -->
 
- <script type="text/javascript"><!--
-   google_ad_client = "pub-0471189065688672";
-   google_ad_width = 728;
-   google_ad_height = 15;
-   google_ad_format = "728x15_0ads_al_s";
-   google_ad_channel ="";
-   google_color_border = "FFFFFF";
-   google_color_bg = "FFFFFF";
-   google_color_link = "CC0000";
-   google_color_text = "000000";
-   google_color_url = "008000";
- //--></script>
- <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"> </script>
-
-	       </div>
-	   
-	   <div class="content-head"></div>
+           </div>
+       
+       <div class="content-head"></div>
         </div><!-- END #header -->
         <div id="content">
-	   <div class="content-main">
-              
+            <div class="content-main">
+                
 
-<h1>Privacy Policy</h1>
+<h1>Privacy&nbsp;Policy</h1>
 
 <p><b><span>About PegasusNews.com</span></b>
   <br> PegasusNews.com (the “Website”) is an online service operated by Pegasus News, Inc., a Texas corporation (“Pegasus News”). If you have any questions concerning this privacy policy, please email us at <a href="mailto:privacy@pegasusnews.com">privacy@pegasusnews.com</a>.
@@ -275,7 +272,9 @@
   <br> Registered users may modify any of their personal information at any time by logging into their account and accessing their personal profile. Registered users may terminate their registration at any time, for any reason, by contacting <a href="mailto:customerservice@pegasusnews.com">customerservice@pegasusnews.com</a>.&nbsp;
 </p>
 <p><b><span>Third Party Advertising</span> </b>
-  <br> Ads appearing on the Website may be delivered to users by Pegasus News or one of our advertising partners. Our advertising partners may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement. In this way, ad servers may compile information about where you, or others who are using your computer, saw their advertisements and determine which ads are clicked on. This information allows an ad network to deliver targeted advertisements that they believe will be of most interest to you. This privacy statement covers the use of cookies by Pegasus News and does not cover the use of cookies by any advertisers.
+  <br> Ads appearing on the Website may be delivered to users by Pegasus News or one of our advertising partners. Our advertising partners may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement. In this way, ad servers may compile information about where you, or others who are using your computer, saw their advertisements and determine which ads are clicked on. This information allows an ad network to deliver targeted advertisements that they believe will be of most interest to you. This privacy statement covers the use of cookies by Pegasus News and does not cover the use of cookies by any advertisers.&nbsp;
+</p>
+<p>We use third-party advertising companies to serve ads when you visit our Web site.&nbsp; These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you.&nbsp; If you would like more information about this practice and to know your choices about not having this information used by these companies, <a href="http://networkadvertising.org/consumer/opt_out.asp">click here</a>.&nbsp;
 </p>
 <p><b><span>Security</span> </b>
   <br> Registered user accounts are secured by user-created passwords. &nbsp;Pegasus News uses reasonable measures to protect registered user information that is stored within our database. Please note that we cannot guarantee the security of registered user account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of registered user information at any time. For any additional information about the security measures we use on the Website, please contact us at <a href="mailto:privacy@pegasusnews.com">privacy@pegasusnews.com</a>. &nbsp;
@@ -290,41 +289,99 @@
   <br> If you have any questions about this privacy statement, the practices of the Website, or your dealings with the Website, please contact us at: <a href="mailto:privacy@pegasusnews.com">privacy@pegasusnews.com</a> (8140 Walnut Hill Lane, Suite 605, Dallas, Texas 75231).
 </p>
 <p><b>Effective Date</b>
-  <br>This privacy policy is effective as of December 1, 2006.
+  <br>This privacy policy is effective as of December 1, 2006. It was last updated on November 1, 2007.
+  <br>
 </p> 
 
 
 
-			
-	      
-           </div>  
-	   
-              <div id="content-extra">
-                 
-        		    
-<div id="calendar" class="module news module-news">
-    <h2>Calendar</h2>
-    <div id="calwrap">
-        <p class="calendarnav" id="calnavbar"><a href="#" onclick="eventcal.drawPreviousMonth(); return false;"><img src="http://media.pegasusnews.com/img/site/bullet_prev.gif" alt="Previous month"></a> <a href="#" onclick="eventcal.drawNextMonth(); return false;"><img src="http://media.pegasusnews.com/img/site/bullet_next.gif" alt="Next month"></a></p>
-	    <div id="eventcal" class="calendar"></div>
-	    <div id="calendarlinks">
-        <h3>Jump to</h3>
-        <ul class="linklist">
-            <li><a href="/events/">Today's events</a></li>
-            <li><a href="/events/bestbets/">Pegasus Picks</a></li>
-            <li><a href="/events/submit/">Submit an event</a></li>
-        </ul>
-	    </div>
-    </div>
+
+                
+            </div>
+            
+            <div id="content-extra">
+                
+                    <div class="module local module-local backgrounded rail-databases">
+  <h2>Find...</h2>
+  <div class="module-content">
+  <table>
+    <tbody><tr>
+        <td>
+          <a href="/events/search/"><img src="http://media.pegasusnews.com/img/site/databases/date.gif?mrev=1581"> an event</a>
+        </td>
+        <td>
+          <a href="/events/bestbets/"><img src="http://media.pegasusnews.com/img/site/databases/peg_pick.gif?mrev=1581"> a Pegasus Pick</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+          <a href="/events/search/?categories=2626"><img src="http://media.pegasusnews.com/img/site/databases/gift.gif?mrev=1581"> a New Year's event</a>
+        </td>
+        <td>
+          <a href="/shopping/garagesales/map/"><img src="http://media.pegasusnews.com/img/site/databases/house.gif?mrev=1581"> a garage sale</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+              <a href="/restaurants/search/#search"><img src="http://media.pegasusnews.com/img/site/databases/building.gif?mrev=1581"> a restaurant</a>
+        </td>
+        <td>
+              <a href="/movies/theaters/search/"><img src="http://media.pegasusnews.com/img/site/databases/film.gif?mrev=1581"> a movie showtime</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+              <a href="/drinkspecials/map/"><img src="http://media.pegasusnews.com/img/site/databases/drink.gif?mrev=1581"> a drink special</a>
+        </td>
+        <td>
+              <a href="/politics/donations/"><img src="http://media.pegasusnews.com/img/site/databases/money.gif?mrev=1581"> a political contribution</a>
+        </td>
+    </tr>
+  </tbody></table>
+  </div>
 </div>
+
+<div class="module local module-local backgrounded rail-databases">
+  <h2>Add...</h2>
+  <div class="module-content">
+  <table>
+    <tbody><tr>
+        <td>
+          <a href="/events/submit/"><img src="http://media.pegasusnews.com/img/site/databases/date_add.gif?mrev=1581"> an event</a>
+        </td>
+        <td>
+          <a href="/forms/garagesale/"><img src="http://media.pegasusnews.com/img/site/databases/house_add.gif?mrev=1581"> a garage sale</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+          <a href="/forms/lostpet/"><img src="http://media.pegasusnews.com/img/site/databases/pet_add.gif?mrev=1581"> a lost pet</a>
+        </td>
+        <td>
+          <a href="/bandform/"><img src="http://media.pegasusnews.com/img/site/databases/music_add.gif?MEDIA_REVISION_STRING=)"> a band</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+          <a href="/contentpartner/form/"><img src="http://media.pegasusnews.com/img/site/databases/newspaper_add.gif?mrev=1581"> a story</a>
+        </td>
+        <td>
+          <a href="http://flickr.com/groups/496255@N24/"><img src="http://media.pegasusnews.com/img/site/databases/photo_add.gif?mrev=1581"> a photo</a>
+        </td>
+    </tr>
+  </tbody></table>
+  </div>
+</div>
+
+
 
 
 
     <div class="ad-module image-ad" style="padding-left: 0;">
         
         
-<!-- AdSpeed.com Serving Code 7.7 -->
-<iframe width="300" height="250" src="http://g.adspeed.net/ad.php?do=html&amp;zid=7994&amp;wd=300&amp;ht=250&amp;target=_top" frameborder="0" scrolling="no" allowtransparency="true" hspace="0" vspace="0"><a href="http://g.adspeed.net/ad.php?do=clk&amp;zid=7994&amp;wd=300&amp;ht=250&amp;pair=as" target="_top"><img style="border:0px;" src="http://g.adspeed.net/ad.php?do=img&amp;zid=7994&amp;wd=300&amp;ht=250&amp;pair=as" height="250" width="300" alt="adspeed" /></a></iframe>
+<!-- AdSpeed.com Serving Code 7.9  -->
+<script type="text/javascript" src="http://g.adspeed.net/ad.php?do=js&amp;zid=7994&amp;wd=300|940&amp;ht=250|105&amp;target=_top"></script>
 <!-- AdSpeed.com End -->
 
     </div>
@@ -335,25 +392,25 @@
 <div class="module living module-living backgrounded">
     <h2><a href="/events/">Today</a></h2>
     
-    <a href="/events/2007/jun/21/48376/"><img src="http://media.pegasusnews.com/img/events/2007/screech_t300.jpg" alt="" class="leadimage"></a>
+    <a href="/events/2007/dec/28/77569/"><img src="http://media.pegasusnews.com/img/events/2007/unsilent_t300.jpg" alt="" class="leadimage"></a>
     
     <div id="tonight" class="module-content">
         <p>
-            <a href="/events/2007/jun/21/48376/"><strong class="title">Dustin Diamond</strong></a>
-            It's Screech! It's Screech! It's Screech! It's Screech! It's Screech! It's Screech! It's Screech! Wooooooooooooo!!!! Screeeeeeeeeeeeeeech!!!!! Like, oh my god!!! <a href="/events/2007/jun/21/48376/"><strong>More info</strong></a>
+            <a href="/events/2007/dec/28/77569/"><strong class="title">Drop Dead Gorgeous / Bless the Fall / Terminal / Secret Handshake / Scene Aesthetic / Medic Droid</strong></a>
+            It's been quiet around here ... A little too quiet, come to think of it. This daylong fest at the Plano Centre is aimed at that angry teen that you can't seem to get off the Xbox since Christmas, but there are some strong up-and-coming local bands on the bill that you might want to catch while you're pretending to chaperone.  <a href="/events/2007/dec/28/77569/"><strong>More info</strong></a>
         </p>
         
         <ul class="linklist bulleted">
             
-            <li><a href="/events/2007/jun/22/50654/">Counting Crows</a></li>
+            <li><a href="/events/2007/dec/28/77429/">RBC Benefit Show</a></li>
             
-            <li><a href="/events/2007/jun/22/50331/">Tommy Hernandez / Jeremy Nail</a></li>
+            <li><a href="/events/2007/dec/28/75091/">Cadillac Sky</a></li>
             
-            <li><a href="/events/2007/jun/22/43450/">John Mayer / Ben Folds / Brett Dennen</a></li>
+            <li><a href="/events/2007/dec/28/75864/">Flickerstick / Calhoun / Holy Moly / High School Assembly</a></li>
             
-            <li><a href="/events/2007/jun/22/42432/">Bavu Blakes / Big J / Ghost</a></li>
+            <li><a href="/events/2007/dec/28/69094/">Arc Angels</a></li>
             
-            <li><a href="/events/2007/jun/22/51813/">Black Out Party with DJ Raydar / DJ Shaolin</a></li>
+            <li><a href="/events/2007/dec/28/78103/">Klopek / Primal Circus</a></li>
             
         </ul>
         
@@ -365,28 +422,31 @@
 </div>
 
 
+
 <div class="module">
-<center>
-<div id="CG148"></div><script type="text/javascript" src="http://www.superpages.com/localserve/ypiframe.php?cl=485&amp;yp=148"></script>
-</center>
+    <!-- AdSpeed.com Serving Code 7.9 for [Ad] TacodaSq 300x250 -->
+    <script type="text/javascript">var a=new Date();var q='&tz='+a.getTimezoneOffset()/60 +'&ck='+(navigator.cookieEnabled?'Y':'N') +'&jv='+(navigator.javaEnabled()?'Y':'N') +'&scr='+screen.width+'x'+screen.height+'x'+screen.colorDepth +'&z='+Math.random() +'&ref='+escape(document.referrer.substr(0,255)) +'&uri='+escape(document.URL.substr(0,255));document.write('<ifr'+'ame width="300" height="250" src="http://g.adspeed.net/ad.php?do=html&aid=36436&wd=300&ht=250&target=_top'+q+'" frameborder="0" scrolling="no" allowtransparency="true" hspace="0" vspace="0"></ifr'+'ame>');</script><iframe width="300" height="250" src="http://g.adspeed.net/ad.php?do=html&amp;aid=36436&amp;wd=300&amp;ht=250&amp;target=_top&amp;tz=0&amp;ck=Y&amp;jv=N&amp;scr=800x600x24&amp;z=0.8207010209402652&amp;ref=&amp;uri=https%3A//web.archive.org/web/20071229024314id_/http%3A//www.pegasusnews.com/about/pegasusprivacypolicy/" frameborder="0" scrolling="no" allowtransparency="true" hspace="0" vspace="0"></iframe>
+    <noscript><iframe width="300" height="250" src="http://g.adspeed.net/ad.php?do=html&aid=36436&wd=300&ht=250&target=_top" frameborder="0" scrolling="no" allowtransparency="true" hspace="0" vspace="0"><img style="border:0px;" src="http://g.adspeed.net/ad.php?do=img&aid=36436&wd=300&ht=250&pair=as" alt="i" width="300" height="250"/></iframe>
+    </noscript><!-- AdSpeed.com End -->
 </div>
 
 
 
+
 <div class="module living module-living backgrounded">
-    <h2><a href="/blogs/pegasusnewsblog/">Square Pegs blog</a></h2>
+    <h2><a href="/blogs/">Blogs</a></h2>
     
     <div class="module-content">
         <ul class="linklist bulleted">
         
-            <li><a href="/blogs/pegasusnewsblog/2007/jun/22/faux-objectivity/">A frightened <em>Star-Telegram</em> outs its own staff members </a><br><em>Chad Jones</em></li>
+            <li><a href="/blogs/pegasusnewsblog/2007/dec/28/dpd/">Encourage the Dallas Police Department to continue streak of digital&nbsp;transparency</a><br><em>Square Pegs</em></li>
         
-            <li><a href="/blogs/pegasusnewsblog/2007/jun/22/peppard/">Ouch, Alan Peppard, ouch</a><br><em>Teresa  Gubbins</em></li>
+            <li><a href="/blogs/pegasusnewsblog/2007/dec/27/monkey_fun/">Dallas monkey&nbsp;adventures</a><br><em>Square Pegs</em></li>
         
-            <li><a href="/blogs/pegasusnewsblog/2007/jun/22/wake-up-dallas/"><em>"WAKE UP DALLAS"</em> ?</a><br><em>Chad Jones</em></li>
+            <li><a href="/blogs/pegasusnewsblog/2007/dec/27/redlight/">So you don’t like red light&nbsp;cameras?</a><br><em>Square Pegs</em></li>
         
         </ul>
-        <p><a class="more-link" href="/blogs/pegasusnewsblog/">See more</a></p>
+        <p><a class="more-link" href="/blogs/">See more</a></p>
     </div>
 </div>
 
@@ -398,15 +458,15 @@
     <div class="module-content">
         <ul class="linklist bulleted">
         
-            <li><strong>kirk</strong> on <a href="/news/2007/jun/22/starbucks-new-summer-flavor-will-be-ta-da-raspberr/#c12354">Starbucks new summer flavor will be - ta-da - raspberry</a>: So this replaces the orange stuff they've been pushing so far this month?...</li>
+            <li><strong>geriatric1943</strong> on <a href="/news/2007/dec/19/copper-canyone-sex-offender-told-move/#c19303">Copper Canyon sex offender told to&nbsp;move</a>: Maybe they should make the distance 1 mile. That would make sure that no sex offender can live in to...</li>
         
-            <li><strong>knucklehead12</strong> on <a href="/blogs/pegasusnewsblog/2007/jun/21/garagemap/#c12353">New garage and estate sale map rocks your scavenging world</a>: An endless sea of used clothes and damaged bicycles awaits....</li>
+            <li><strong>jitter</strong> on <a href="/news/2007/dec/25/look-back-2007-local-music/#c19302">Rockin’ out in 2007:  A look&nbsp;back</a>: The only truly great news pertaining to venues this year would be the potential rebirth of the Longh...</li>
         
-            <li><strong>morren</strong> on <a href="/blogs/pegasusnewsblog/2007/jun/21/garagemap/#c12352">New garage and estate sale map rocks your scavenging world</a>: 493 sales on one map. My heart is aflutter....</li>
+            <li><strong>Billusa99</strong> on <a href="/news/2007/dec/28/dallas-based-matchcom-unveils-new-advertising-camp/#c19301">Dallas-based Match.com unveils new advertising campaign, called “It Starts With a&nbsp;Look”</a>: I think that they are using that hook because *every* relationship that ever works *always* starts w...</li>
         
-            <li><strong>SonyaBlade</strong> on <a href="/news/2007/jun/21/thursday-morning-cupcheck/#c12351">Thursday Morning Cupcheck</a>: Your best observations yet. Yashin once stole the gold from a dead mans teeth. Dan Snyder. R.I.P. Te...</li>
+            <li><strong>morren</strong> on <a href="/news/2007/dec/28/dallas-based-matchcom-unveils-new-advertising-camp/#c19300">Dallas-based Match.com unveils new advertising campaign, called “It Starts With a&nbsp;Look”</a>: At least it's better than the sleazy “True” campaigns: (And by the way, welcome **pstawicki**. Methi...</li>
         
-            <li><strong>tgubbins</strong> on <a href="/news/2007/jun/21/inaugural-musical-extravaganza-will-have-outgoing-/#c12350">Inaugural musical extravaganza will have outgoing Dallas Mayor Miller’s detractors dancing in the aisles</a>: i was thinking the same thing (about reunion arena) that was one of my favorite lines here......</li>
+            <li><strong>jitter</strong> on <a href="/blogs/pegasusnewsblog/2007/dec/26/party/#c19299">Photos of holiday&nbsp;revelry</a>: The bartender was great and the munchies were exceptional. The only casualty I observed was the pati...</li>
         
         </ul>
         <p><a class="more-link" href="/comments/latest/">See more recent comments</a></p>
@@ -423,13 +483,15 @@
          <div class="module-content">
              <ul class="linklist bulleted">
              
-                <li><a href="/news/2007/jun/13/coyotes-thrive-old-lake-highlands/">Coyotes thrive in Old Lake Highlands</a></li>
+                <li><a href="/news/2007/dec/28/todds-top-ten-films-2007/">Todd's Top Ten Films of 2007</a></li>
              
-                <li><a href="/news/2007/jun/21/clarifying-oak-points-english-only-resolution/">Clarifying the "English-only" resolution recently adopted by Oak Point</a></li>
+                <li><a href="/news/2007/dec/27/alexandra-bonifields-best-dfw-theatre-2007/">Alexandra Bonifield's Best of DFW theatre in 2007</a></li>
              
-                <li><a href="/blogs/pegasusnewsblog/2007/jun/21/garagemap/">New garage and estate sale map rocks your scavenging world</a></li>
+                <li><a href="/news/2007/dec/28/dining-out-best-reviews-2007/">Dining out in Dallas: Best restaurant reviews of 2007</a></li>
              
-                <li>Deal: <a href="/shopping/deals/free-cooking-classes-williams-sonoma/">Free Cooking Classes at Williams-Sonoma</a></li>
+                <li><a href="/news/2007/dec/27/best-dfw-performing-arts-2007/">Mark-Brian Sonna's Best of DFW performing arts in 2007</a></li>
+             
+                <li><a href="/news/2007/dec/27/movie-review-blonde-ambition/">Movie Review:  <i>Blonde Ambition</i></a></li>
              
              </ul>
              <ul class="more">
@@ -445,20 +507,20 @@
 
 
 <div id="lateststories" class="module news module-news backgrounded">
-   <h2><a href="/news/">Latest news stories</a></h2>
+   <h2><a href="/news/">Latest stories</a></h2>
        
        <div class="module-content">
          <ul class="linklist bulleted">
            
-              <li><a href="/news/2007/jun/22/farmers-branch-celebrate-independence-day-july-3/">Farmers Branch to celebrate Independence Day July 3</a></li>
+              <li><a href="/news/2007/dec/28/pegasus-professional-nfl-expert-picks-week-17/">Pegasus' Professional NFL Expert Picks - Week 17</a></li>
            
-              <li><a href="/news/2007/jun/22/perry-veto-probation-funding-fix-surprise-jerry-ma/">Perry veto of probation funding fix a surprise to Jerry Madden</a></li>
+              <li><a href="/news/2007/dec/28/dallas-based-matchcom-unveils-new-advertising-camp/">Dallas-based Match.com unveils new advertising campaign, called "It Starts With a Look"</a></li>
            
-              <li><a href="/news/2007/jun/22/unt-names-tj-hubbard-new-head-softball-coach/">UNT names TJ Hubbard new head softball coach</a></li>
+              <li><a href="/news/2007/dec/28/cold-weather-inspires-tollway-authority-issue-pres/">Cold weather inspires Tollway Authority to issue press release about nifty sensors embedded in Dallas-area roads</a></li>
            
-              <li><a href="/news/2007/jun/22/smu-golfer-kate-ackerson-comes-just-short-pub-link/">SMU golfer Kate Ackerson comes up just short at Pub Links</a></li>
+              <li><a href="/news/2007/dec/28/dart-will-run-late-service-victory-station-new-yea/">DART will run late service from Victory Station for New Year's Eve event at Dallas' American Airlines Center</a></li>
            
-              <li><a href="/news/2007/jun/22/12-mil-lottery-ticket-won-25-employees-t-irving/">$12 mil lottery ticket won by 25 employees of AT&amp;T in Irving</a></li>
+              <li><a href="/news/2007/dec/28/smoking-verboten-mckinney-january-1/">Smoking verboten in McKinney as of January 1</a></li>
            
         </ul>
    <p><a class="more-link" href="/news/">See more stories</a></p>
@@ -466,23 +528,165 @@
 </div>
 
 
-        		 
-	       </div>
+
+                
+            </div>
            
-	</div><!-- END #content -->
-	<br class="clear">
-	<div id="footer">
-	  <p class="copyright">Copyright © 2007 <a href="/">Pegasus News, Inc</a>.</p>
-	  <p class="footer-nav"><a href="/about/">About Us</a> | <a href="/contact/">Contact Us</a> | <a href="/jobs/">Work with Us</a> | <a href="/help/">FAQ</a> | <a href="/about/pegasusprivacypolicy/">Privacy Policy</a> | <a href="/about/pegasus/termsofuse/">Terms of Use</a> | <a href="/advertising/tease/">Advertising</a> | <a href="/investors/">Investors</a></p>
-	</div><!-- END #footer -->
-     </div><!-- END #container -->
-     
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
+    </div><!-- END #content -->
+    <br class="clear">
+    <div id="footer">
+      <p class="copyright">Copyright © 2007 Fisher Communications, Inc.</p>
+      <p class="footer-nav"><a href="/about/">About Us</a> | <a href="/contact/">Contact Us</a> | <a href="/jobs/">Work with Us</a> | <a href="/help/">FAQ</a> | <a href="/about/pegasusprivacypolicy/">Privacy Policy</a> | <a href="/about/pegasus/termsofuse/">Terms of Use</a> | <a href="/advertising/tease/">Advertising</a> | <a href="/news/2006/feb/17/pegasus-news-content-partners/">Content Partners</a> | <a href="/pressroom/">Pressroom</a></p>
+    </div><!-- END #footer -->
+    </div><!-- END #container -->
+    
+
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
 <script type="text/javascript">
 _uacct = "UA-1705608-1";
 urchinTracker();
 </script>
+
+
+
+
+<script language="JavaScript">
+var s_account="pegnewsprod";
+</script>
+
+<!-- SiteCatalyst code version: H.11.
+Copyright 1997-2007 Omniture, Inc. More info available at
+http://www.omniture.com -->
+<script language="JavaScript" src="http://media.pegasusnews.com/js/s_code.js?mrev=1581"></script>
+
+
+
+<script language="JavaScript"><!--
+
+var omni = {'s':s}; //readable alias.
+
+//events are (str[:serial_id])?(,str[:serial_id])*
+//treat commas as delimiters.
+omni.has_event = function(event_type, event_id) {
+    var events = omni.s.events.split(',');
+
+    var the_event = event_type;
+    if (event_id) {
+        the_event += ':' + event_id;
+    }
+
+    for (var i=0;i<events.length;i++) {
+        var an_event = events[i];
+        if (an_event == the_event) {
+            return true;
+        }
+    }
+    return false;
+}
+omni.add_event = function(unique, event_type, event_id) {
+    var ev_str;
+    if (unique) {
+        if (omni.has_event(event_type, event_id)) {
+            return;
+        }
+    }
+
+    if (omni.s.events.length) {
+        ev_str = ',';
+    } else {
+        ev_str = '';
+    }
+
+    ev_str += event_type;    
+    if (event_id !== undefined) {
+        ev_str += ':' + event_id;
+    }
+    omni.s.events += ev_str;
+}
+
+/* You may give each page an identifying name, server, and channel on
+the next lines. */
+
+s.pageName="wtfbbq-emm.util.views"
+s.server=""
+s.channel=""
+s.pageType=""
+s.prop1=""
+s.prop2=""
+s.prop3="/about/pegasusprivacypolicy/ -- Privacy Policy"
+s.prop4="flatpages.flatpage.79"
+s.prop5="flatpages.flatpage"
+s.prop6=""
+var exp_val = readCookie('experiment');
+if (exp_val === null) {
+    exp_val = '';
+}
+s.prop7 = exp_val;
+s.prop8=""
+s.prop9=""
+s.prop10="unregistered"; //user status
+s.prop11=""
+s.prop12=""
+s.prop13=""
+s.prop14=""
+s.prop15="0" //request time, tenths of a second
+s.prop16=""
+/* E-commerce Variables */
+s.campaign=""
+s.state=""
+s.zip=""
+s.events=""
+s.products=""
+s.purchaseID=""
+s.eVar1=""
+s.eVar2=""
+s.eVar3=""
+s.eVar4=""
+s.eVar5=""
+s.eVar6=""
+s.eVar7=""
+s.eVar8=""
+s.eVar9=""
+s.eVar10=""
+s.eVar11=""
+s.eVar12=""
+s.eVar13=""
+s.eVar14=""
+s.eVar15=""
+s.eVar16=""
+s.eVar17=""
+/* Hierarchy Variables */
+s.hier1=""
+
+
+
+
+omni.add_event(true, 'event4'); //served ads
+
+
+
+
+
+
+
+
+
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<script language="JavaScript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><noscript><a href="http://www.omniture.com" title="Web Analytics"><img
+src="http://metrics.pegasusnews.com/b/ss/pegnewsdev/1/H.11--NS/0"
+height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.11. -->
+
+
+
+
+
+
+
 
 
 </body></html>
