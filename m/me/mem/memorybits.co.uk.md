@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the memorybits.co.uk privacy policy that was archived on 2007-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070505174946id_/http%3A//memorybits.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the memorybits.co.uk privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229044127id_/http%3A//www.memorybits.co.uk/privacy) for the most accurate reproduction.*
 
 # memorybits.co.uk - Terms & Conditions
 
-Memorybits is committed, in a fair and equitable manner, and strictly to protecting your privacy. We will only use the information that we collect about you lawfully (in accordance with the Data Protection Bailiwick of Guernsey Law, 2001). The information we collect about you enables us to process your order and provide you with the best service possible. We only send promotional emails with your permission, and do not pass your details onto third parties without your prior consent.
+Memorybits is committed, in a fair and equitable manner, and strictly to protecting your privacy. We will only use the information that we collect about you lawfully (in accordance with UK Law). The information we collect about you enables us to process your order and provide you with the best service possible. We only send promotional emails with your permission, and do not pass your details onto third parties without your prior consent.
 
 **Your Details**
 
