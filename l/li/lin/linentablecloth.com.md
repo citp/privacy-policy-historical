@@ -1,0 +1,19 @@
+> *The following text is extracted and transformed from the linentablecloth.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229143638id_/http%3A//www.linentablecloth.com/catalog/privacy.php) for the most accurate reproduction.*
+
+# LinenTableCloth.com
+
+**Overview**  
+At Royal Palm Restaurant & Event Supply, we respect the privacy needs of our valued customers and members. This Privacy Policy outlines what specific information is gathered on the Royal Palm Restaurant & Event Supply site and how that information is used. 
+
+**Collection and Use of Information by Royal Palm Restaurant & Event Supply **  
+Royal Palm Restaurant & Event Supply explicitly asks when we need information that personally identifies you ("Personal Information"). Your personal information is used to create your personal access to products on the site, and to contact you in the course of using the products. Financial information that is collected is used to verify identity, and to bill either you or your company for products and services, as applicable. Demographic and profile data collected by Royal Palm Restaurant & Event Supply may be used to tailor the Web site or any requested email communications, and to display information that is more relevant to you. Royal Palm Restaurant & Event Supply also compiles demographic and product use information, but in the aggregate only, and may make that aggregate information publicly available. **Under no circumstances will Royal Palm Restaurant & Event Supply make any personal information about an individual user available to anyone. **
+
+Your email address is used to only send you information that you have requested. As part of your use of any Royal Palm Restaurant & Event Supply product, Royal Palm Restaurant & Event Supply allows you to elect to receive, or not receive, certain information from Royal Palm Restaurant & Event Supply or its partners. Royal Palm Restaurant & Event Supply adheres strictly to permission-based email policy. Except as mentioned above, Royal Palm Restaurant & Event Supply will not send you unsolicited email information, commercial offers or advertisements **Royal Palm Restaurant & Event Supply will not sell, rent, or loan our contact lists or our customer's contact lists (including customer data) to any outside firms nor will Royal Palm Restaurant & Event Supply use customer contact lists for our own marketing purposes. **
+
+While IP addresses (address of a computer) are logged to track a user's session, the user's identity is anonymous. Tracking IP addresses gives Royal Palm Restaurant & Event Supply information about which parts of our site are used most often and what information is viewed. IP addresses are not linked to anything that can personally identify a visitor. Thus, session details are tracked, but the user is anonymous. 
+
+**Information Use by Third Parties**  
+It is Royal Palm Restaurant & Event Supply policy to never provide your personal information to third parties without your express permission or only in instances where such disclosure is necessary to process transactions or provide services that you have requested. We do not release personal information about you as an individual. There is an exception to this policy - if Royal Palm Restaurant & Event Supply is compelled to do so by an appropriately empowered governmental authority. Royal Palm Restaurant & Event Supply only does business with partners who agree to respect our Privacy Policy. 
+
+**The Bottom Line**  
+Maintaining the privacy of your information is of paramount importance to us as it helps foster confidence, goodwill and stronger relationships with you, our customers. If, at any time, you have questions or concerns about our privacy practices, please feel free contact us at info@royalpalmeventsupply.com. 
