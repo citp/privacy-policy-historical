@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the worldcarfans.com privacy policy that was archived on 2007-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070616055607id_/http%3A//www.worldcarfans.com/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldcarfans.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229020750id_/http%3A//www.worldcarfans.com/privacypolicy) for the most accurate reproduction.*
 
-# WorldCarFans.com Terms of Service
+# WorldCarFans.com Privacy Policy
 
 The following are the terms of the privacy statement of Black Falcon Media Group Oy ("BFMG") regarding use of BFMG's web site www.WorldCarFans.com ("The Site").
 
@@ -25,6 +25,6 @@ BFMG may use information from or provide information to such third parties inclu
 Via email: feedback@blackfalconmedia.com
 
 Black Falcon Media Group Oy  
-Sörnäisten rantatie 27A  
+S�rn�isten rantatie 27A  
 00500 Helsinki   
 Finland
