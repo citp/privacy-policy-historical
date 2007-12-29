@@ -1,36 +1,49 @@
-<!--The following is the downloaded HTML source of the interactivebrokers.com privacy policy that was archived on 2007-02-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070203203505id_/http%3A//www.interactivebrokers.com/en/accounts/legalDocuments/privacy.php%3Fib_entity%3Dllc) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the interactivebrokers.com privacy policy that was archived on 2007-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071229043920id_/http%3A//www.interactivebrokers.com/en/accounts/legalDocuments/privacy.php) for the most accurate reproduction.-->
 
 <html><head>
-<title>Interactive Brokers Group Privacy Statement</title>
+<title></title>
 <meta name="description" content="Important privacy, confidentiality and security statement followed at IB">
 <meta name="keywords" content="privacy statement, security information, cookie use, personal information, ib website, trader tools, TWS">
 <meta http-equiv="expires" content="-1">
 <meta name="robots" content="index, follow">
 <meta http-equiv="pragma" content="no-cache">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<link href="../../../stylesheet/style.css" rel="stylesheet" type="text/css" media="screen">
-<link rel="stylesheet" type="text/css" href="../../../stylesheet/print.css" media="print">
-<script language="javascript" type="text/javascript" src="../../../scripts/common/js/lib.js"></script>
+<link href="../../../stylesheet/global.css" rel="stylesheet" type="text/css" media="screen">
+<link href="../../../stylesheet/IBG_main.css" rel="stylesheet" type="text/css" media="screen">
+<link href="../../../stylesheet/print.css" rel="stylesheet" type="text/css" media="print">
+<script language="javascript" type="text/javascript" src="../../../scripts/common/js/swfobject.js"></script>
+<script language="javascript" type="text/javascript" src="../../../scripts/common/flash.js"></script>
+<script language="javascript" type="text/javascript" src="../../../scripts/common/js/lib.js?t=1198903160"></script>
 </head>
 <body>
 <div id="container">
  <div id="printheader"><img src="../../../images/sitetemplate/printHeader.gif"></div>
 <div id="backtohome">
 <a href="../../../en/main.php"><img width="280" height="50" src="../../../images/common/one_pixel.gif"></a></div> <!-- End backtohome div -->
-  <div id="header2">
+  <div id="header">
     <div id="signinsearch">
-     
-<table width="310" cellspacing="3" cellpadding="0" border="0">
+     <table width="310" cellspacing="5" cellpadding="0" border="0">
  <tbody>
-  <tr>
+    <tr valign="top"> 
+    <td colspan="2"><span style="margin-left:25px"><a href="../../../en/main.php"><img src="../../../images/sitetemplate/mnTempFlag_LLC.gif"></a>&nbsp;<a href="http://www.interactivebrokers.co.uk/contract_info/index.php?site=IB&amp;action=Top Search&amp;symbol=&amp;description=" target="_blank">Contract Search</a> | <a href="../../../en/site_map.php?ib_entity=llc">Site Map</a></span></td>
+    </tr>
+    <tr>
    <form name="loginmenu" target="_blank" method="POST" onsubmit="return showError(this)"></form>
-   <!-- form name="loginmenu" target="_blank" method="POST" -->
    <td width="90%" valign="top" align="right">
    <!-- menu login section --> 
    <script language="JavaScript" type="text/JavaScript">
    <!--
-  
+    var is_tws_page = false;
+
+    function submitWebSiteSearch()
+    {
+             if (trim(document.search.q.value) == 'Type Website Search Text'){
+                 document.search.q.value = "";
+             }
+             document.search.submit();
+    }  
+
     function showError(form)
     {
              if (form.login.options[form.login.selectedIndex].value == '')
@@ -40,8 +53,17 @@
 	         return false;
 	     }
 	     else {
-		 form.login.options[0].text='Select Trade or Account Services';
-		 form.login.options[0].style.color='#000000';
+		 form.target = "_blank";
+                 if (is_tws_page && (form.login.selectedIndex == 1 || form.login.options[form.login.selectedIndex].value == "twsPluginDisclaimer.php"))
+                 {
+                     form.target = "_self";
+                 }      
+
+                 jumpMenuLogin('parent',document.loginmenu.login,0);
+                 return false;
+
+                 //form.login.options[0].text='Select Trade or Account Login';
+		 //form.login.options[0].style.color='#000000';
 	     }
 	     
 	     return true;
@@ -56,7 +78,7 @@
             }
              else {
                   /* restore default values */ 
-		  document.loginmenu.login.options[0].text='Select Trade or Account Services';
+		  document.loginmenu.login.options[0].text='Select Trade or Account Login';
 		  document.loginmenu.login.options[0].style.color='#000000';
 		  
 		  document.loginmenu.action=selObj.options[selObj.selectedIndex].value;
@@ -67,11 +89,12 @@
   }
 //-->
 </script> 
-   <select name="login" id="login" class="searchBox" style="width:230px;" onchange="jumpMenuLogin('parent',this,0)">
-   <option value="" selected="">Select Trade or Account Services</option>
-   <option value="http://www.interactivebrokers.com/en/software/twsDisclaimer.php?ib_entity=llc">Trader Workstation</option> 
-      <option value="http://www.interactivebrokers.com/en/software/twsPluginDisclaimer.php?ib_entity=llc">Trader Workstation Beta</option>
-      <option value="https://wt1.interactivebrokers.com/webtrader/servlet/login">WebTrader</option>
+   <select name="login" id="login" class="searchBox" style="background-color:#ffffcc;width:230px;" onchange="jumpMenuLogin('parent',this,0)">
+   <option value="" selected="">Select Trade or Account Login</option>
+   <option value="http://individuals.interactivebrokers.com/en/software/twsDisclaimer.php?ib_entity=llc">Trader Workstation</option> 
+      <option value="http://individuals.interactivebrokers.com/en/software/twsPluginDisclaimer.php?ib_entity=llc">Trader Workstation Beta</option>
+      <option value="https://wt1.interactivebrokers.com/webtrader2/servlet/login">WebTrader</option>
+      <option value="https://wt1.interactivebrokers.com/webtraderbeta/servlet/login">WebTrader Beta</option>
       <option value="https://www.interactivebrokers.com/Universal/servlet/AccountAccess.Login">
    Account Management</option>
    <option value="https://www.interactivebrokers.com/Universal/servlet/AccountAccess.Login?c=t">
@@ -87,41 +110,55 @@
    <option value="https://www.interactivebrokers.com/Universal/servlet/AccountAccess.Login?forwardTo=5">
    Funds Status</option>
   </select>
-     </td><td width="10%" valign="middle" align="right"><input type="image" width="42" height="20" alt="" src="../../../images/sitetemplate/mnTempLogin_US.gif"></td>
+     </td><td width="10%" valign="middle" align="right"><input type="image" width="37" height="16" alt="" src="../../../images/sitetemplate/mnTempLogin_US.gif"></td>
    
   </tr>
   <tr>
-   <form name="search" action="http://www.interactivebrokers.co.uk/en/search.php" method="post"></form>
-     <td valign="top" align="right">
-     <input type="text" name="words" value="Type Website Search Text" onfocus="this.value=''" size="50">
+   <form name="search" action="http://search.interactivebrokers.com/search" method="get"></form>
+     <td valign="top" align="right"><input type="text" name="q" value="Type Website Search Text" onfocus="this.value=''" size="50">
      </td>
      <td valign="middle" align="right">
-      <input width="42" type="image" height="20" src="../../../images/sitetemplate/mnTempSearch_US.gif" onclick="javascript:document.search.submit()">
+      <input width="37" height="16" type="image" src="../../../images/sitetemplate/mnTempSearch_US.gif" onclick="submitWebSiteSearch()">
      </td>
+     <input type="hidden" name="site" value="ib_en_collection">
+     <input type="hidden" name="client" value="ib_en_frontend">
+     <input type="hidden" name="output" value="xml_no_dtd">
+     <input type="hidden" name="proxystylesheet" value="ib_en_frontend">
+     <input type="hidden" name="ie" value="latin1">
    
-  </tr>
-  <tr valign="top" align="left">
-   <td colspan="2" class="smalltext"><img width="29" height="1" src="../../../images/common/one_pixel.gif"><a href="http://www.interactivebrokers.co.uk/contract_info/index.php?site=IB&amp;action=Top Search&amp;symbol=&amp;description=" target="_blank"><img width="14" height="16" align="absmiddle" alt="" src="../../../images/sitetemplate/mainTempIcnContSrch.gif"></a>
-   Contract Search<img width="20" height="1" src="../../../images/common/one_pixel.gif"><a href="../../../en/site_map.php?ib_entity=llc"><img width="17" height="16" align="absmiddle" alt="" src="../../../images/sitetemplate/mainTempIcnSiteMap.gif"></a>
-   Site Map</td>
   </tr>
  </tbody>
 </table>
 <div id="identifier">
-<a href="../../../en/main.php"><img src="../../../images/sitetemplate/mnTempFlag_LLC.gif" border="0" align="absmiddle" title="Home US"></a>
 </div>    </div>
     <!-- End front sign in search -->
     <div id="ibmenu">
  <script language="javascript" src="../../../scripts/common/sniffer.js"></script>
- <script language="javascript" src="../../../scripts/common/menus/menu_items_llc.js?ver=1170534904"></script><style type="text/css"><!--.mTD,.mTD A:Link,.mTD A:Visited {color:black}.mTD,.mTD A {white-space:nowrap;color:black;font-weight:bold;}.mTD,.mTD A:Active,.mTD A:Link,.mTD A:Visited,.mTD A:Hover{font-weight:bold;font-size:9px;font-family:Verdana, Arial, Helvetica, sans-serif;text-decoration:none;position:relative;}.SUBmTD,.SUBmTD A {white-space:nowrap;color:black;font-weight:normal;}.SUBmTD,.SUBmTD A:Link,.SUBmTD A:Visited {color:black}.SUBmTD,.SUBmTD A:Active,.SUBmTD A:Link,.SUBmTD A:Visited,.SUBmTD A:Hover{font-weight:normal;font-size:9px;font-family:Verdana, Arial, Helvetica, sans-serif;text-decoration:none;}//--></style>
+ <script language="javascript" src="../../../scripts/common/menus/menu_items_llc.js?t=1198903160"></script>
  <script language="javascript" src="../../../scripts/common/menu.js"></script><script language="javascript1.2" type="text/javascript" src="http://www.interactivebrokers.com/scripts/common/menu_moz.js"></script>
 </div>
 <!-- End navigation DIV -->  </div> <!-- End front page text Div???????? -->
-  <div id="mainbody">
+  <div id="mainBody">
      <script type="text/javascript">
+function isSwitchContent() {
+
+      if (typeof sweeptoggle == 'undefined'){ return; } /* only when necessary */
+      for (var i=0; i<document.getElementsByTagName('div').length; i++) {
+            for (var j=0; j<document.getElementsByTagName('div')[i].attributes.length; j++) {
+                  if (document.getElementsByTagName('div')[i].attributes[j].name == "class"  && 
+                        document.getElementsByTagName('div')[i].attributes[j].value == "switchcontent") {
+                        sweeptoggle('expand');
+                        break;
+                  }
+            }
+      }
+}
+</script>
+
+<script type="text/javascript">
 
 /***********************************************
-* Drop Down/ Overlapping Content- © Dynamic Drive (www.dynamicdrive.com)
+* Drop Down/ Overlapping Content- &#169; Dynamic Drive (www.dynamicdrive.com)
 * This notice must stay intact for legal use.
 * Visit http://www.dynamicdrive.com/ for full source code
 ***********************************************/
@@ -140,10 +177,11 @@ function overlay(curobj, subobjstr, opt_position){
 if (document.getElementById){
 var subobj=document.getElementById(subobjstr)
 subobj.style.display=(subobj.style.display!="block")? "block" : "none"
-var xpos=getposOffset(curobj, "left")+((typeof opt_position!="undefined" && opt_position.indexOf("right")!=-1)? -(subobj.offsetWidth-curobj.offsetWidth) : 0) 
-var ypos=getposOffset(curobj, "top")+((typeof opt_position!="undefined" && opt_position.indexOf("bottom")!=-1)? curobj.offsetHeight : 0)
-subobj.style.left=xpos+"px"
-subobj.style.top=ypos+"px"
+//var xpos=getposOffset(curobj, "left")+((typeof opt_position!="undefined" && opt_position.indexOf("right")!=-1)? -(subobj.offsetWidth-curobj.offsetWidth) : 0) 
+//var ypos=getposOffset(curobj, "top")+((typeof opt_position!="undefined" && opt_position.indexOf("bottom")!=-1)? curobj.offsetHeight : 0)
+//subobj.style.left=xpos+"px"
+//subobj.style.top=ypos+"px"
+subobj.style.top=27+"px"
 return false
 }
 else
@@ -156,30 +194,13 @@ document.getElementById(subobj).style.display="none"
 
 </script>
 
-<div id="rightalign"><span id="fpFlags"><span class="noprint"><strong>Home: </strong></span><a href="http://www.interactivebrokers.com/en/main.php"><img src="../../../images/sitetemplate/mnTempFlag_US.gif" border="0" align="absmiddle" title="Home US"></a>
+<div id="rightalign"><img src="../../../images/common/one_pixel.gif" width="195" height="5" alt=""><img src="../../../images/common/one_pixel.gif" width="285" height="5" alt="">
 
-<a href="http://www.interactivebrokers.co.uk/en/main.php"><img src="../../../images/sitetemplate/mnTempFlag_UK.gif" align="absmiddle" title="Home UK"></a>
 
-<a href="http://www.interactivebrokers.ca/en/main.php"><img src="../../../images/sitetemplate/mnTempFlag_CA.gif" align="absmiddle" title="Home CA"></a>
-
-<a href="http://www.interactivebrokers.ca/fra/main.php"><img src="../../../images/sitetemplate/mnTempFlag_FR.gif" align="absmiddle" title="Accueil FR"></a>
-
-<a href="http://www.interactivebrokers.de/de/main.php"><img src="../../../images/sitetemplate/mnTempFlag_DE.gif" align="absmiddle" title="Deutsche Homepage"></a>
-
-<a href="http://www.interactivebrokers.co.uk/es/main.php"><img src="../../../images/sitetemplate/mnTempFlag_ES.gif" align="absmiddle" title="Home ES"></a>
-
-<a href="http://www.interactivebrokers.com/cn/main.php"><img src="../../../images/sitetemplate/mnTempFlag_CN.gif" align="absmiddle" title="中文主页"></a>
-
-</span>
-
-<img src="../../../images/common/one_pixel.gif" width="215" height="5" alt="">
-
-<span id="btnprintpdf"><a href="http://206.106.137.34/MktServices/servlet/CreatePdf?f=/en/accounts/legalDocuments/privacy.php?ib_entity=llc&amp;lm=1157058893"><img src="../../../images/sitetemplate/btn_PrintPDF.gif" align="absmiddle" title="Click to create PDF of page" class="noprint"></a></span>
+<span id="btnprintpdf"><a href="javascript:getPrintPDFLink('/en/accounts/legalDocuments/privacy.php', 1192720103)" onclick="javascript:isSwitchContent()"><img src="../../../images/sitetemplate/btn_PrintPDF.gif" align="absmiddle" class="noprint" title="Click to create PDF of page"></a></span>
 
 <img src="../../../images/common/one_pixel.gif" width="10" height="5" alt="">
-
-
-<span id="btnOpenAccount"><a href="#" onclick="return overlay(this, 'subcontent', 'rightbottom')"><img src="../../../images/sitetemplate/mnTempbtnOpenAcct.gif" align="absmiddle" title="Open an Account" class="noprint"></a></span>
+<span id="btnOpenAccount"><a href="../../../en/accounts/individuals/individualMain.php?ib_entity=llc"><img src="../../../images/sitetemplate/mnTempbtnOpenAcct.gif" align="absmiddle" class="noprint" title="Open an Account"></a></span>
 </div>
 
 <!--Do not remove outer most DIV tag with id="subcontent"-->
@@ -199,10 +220,53 @@ document.getElementById(subobj).style.display="none"
     <td class="CellOff"><a href="../../../en/accounts/advisors/advisorsMain.php?ib_entity=llc"><strong>Advisors</strong></a></td>
     <td class="CellOff"><a href="../../../en/accounts/brokers/brokerMain.php?ib_entity=llc"><strong>Brokers</strong></a></td>
     </tr>
-</tbody></table></div></div>  <div class="breadcrumbs">
-     </div>
-   <h1>Interactive Brokers Group Privacy Statement</h1>
-       <p>The Interactive Brokers Group
+</tbody></table></div></div>
+
+<!--Do not remove outer most DIV tag with id="flagdropdown"-->
+<div id="flagdropdown" style="position:absolute; z-index:300; display:none; border: 1px solid #999999; width: 170px; height: auto; padding: 0px; margin-left:22px; background: transparent url(../../../images/sitetemplate/mainTemplateBkgrnd.gif) repeat-x;"><div class="CellTitle" style="margin:0px; padding-top:5px; height:22px">IB Worldwide<div align="right" style="margin-right:10px; margin-top: -15px "><a href="#" onclick="overlayclose('flagdropdown'); return false"><img src="../../../images/sitetemplate/btn_close.gif" width="16" height="16" border="0"></a></div> </div>
+<table width="100%" border="0" cellspacing="5" cellpadding="0">
+  <tbody><tr>
+    <td align="center"><a href="http://www.interactivebrokers.com/en/main.php"><img src="../../../images/sitetemplate/mnTempFlag_US.gif" border="0" title="Interactive Brokers LLC"></a></td>
+    <td align="center"><a href="http://www.interactivebrokers.co.uk/en/main.php"><img src="../../../images/sitetemplate/mnTempFlag_UK.gif" border="0" title="Interactive Brokers (UK) Limited"></a></td>
+    <td align="center"><a href="http://www.interactivebrokers.ca/en/main.php"><img src="../../../images/sitetemplate/mnTempFlag_CA.gif" title="Interactive Brokers Canada, Inc."></a></td>
+  </tr>
+</tbody></table>
+<div class="CellTitle" style="margin:0px; padding-top:5px; height:22px">IB Languages</div>
+<table width="100%" border="0" cellspacing="5" cellpadding="3">
+  <tbody><tr>
+    <td align="center"><a href="http://www.interactivebrokers.ca/fr/main.php"><img src="../../../images/sitetemplate/mnTempFlag_CA.gif" title="Interactive Brokers: Français (Canada)"></a></td>
+    <td align="center"><a href="http://www.interactivebrokers.ca/fra/main.php"><img src="../../../images/sitetemplate/mnTempFlag_FR.gif" title="Interactive Brokers: Français"></a></td>
+    <td align="center"><a href="http://www.interactivebrokers.de/de/main.php"><img src="../../../images/sitetemplate/mnTempFlag_DE.gif" title="Interactive Brokers: Deutsch"></a></td>
+    <td align="center"><a href="http://www.interactivebrokers.co.uk/es/main.php"><img src="../../../images/sitetemplate/mnTempFlag_ES.gif" title="Interactive Brokers: Español"></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="http://www.interactivebrokers.com/cn/main.php"><img src="../../../images/sitetemplate/mnTempFlag_CN.gif" title="Interactive Brokers: 中文"></a></td>
+    <td align="center"><a href="http://www.interactivebrokers.com/jp/main.php"><img src="../../../images/sitetemplate/mnTempFlag_JP.gif" width="22" height="18" title="Interactive Brokers: 日本語"></a></td>
+    <td align="center"><img src="../../../images/common/one_pixel.gif" alt="" width="22" height="18" border="0"></td>
+	    <td align="center"><img src="../../../images/common/one_pixel.gif" alt="" width="22" height="18" border="0"></td>
+  </tr>
+</tbody></table>
+<div class="CellTitle" style="margin:0px;  padding-top:5px; height:22px">IB Partner Brokers</div>
+<table width="100%" border="0" cellspacing="05" cellpadding="3">
+  <tbody><tr>
+   <td align="center"><a href="../../../en/general/poll/ibconsultants.php?progid=15&amp;cnt=BG&amp;ib_entity=llc"><img src="../../../images/sitetemplate/mnTempFlag_BG.gif" title="Брокери Партньори"></a></td>
+<td align="center"><a href="../../../en/general/poll/ibconsultants.php?progid=15&amp;cnt=NL&amp;ib_entity=llc"><img src="../../../images/sitetemplate/mnTempFlag_NL.gif" title="De Makelaar van de partner"></a></td>
+
+  </tr>
+</tbody></table>
+</div>   <h1></h1>
+   
+
+<title></title>
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta http-equiv="expires" content="-1">
+<meta name="robots" content="index, follow">
+<meta http-equiv="pragma" content="no-cache">
+
+
+ <div class="CellHeader">Interactive Brokers Group Privacy Statement</div>
+<p>The Interactive Brokers Group
 does not sell or license information about Interactive Brokers
 customers to third parties, nor do we sell customer lists or
 customer e-mail addresses to third-party marketers.
@@ -240,7 +304,7 @@ information in a number of ways. For example:</p>
  </li>
  <li> We take substantial precautions to safeguard your personal,
  nonpublic information. For example, the IB system can be accessed
- only by authorized IB personal via valid user names and passwords.
+ only by authorized IB personnel via valid user names and passwords.
  In addition, our Internet-based systems include security measures
  such as encryption and firewalls. <br>
  IB uses the personal, nonpublic information that we collect from you to service
@@ -291,6 +355,8 @@ carry out the purposes for which the information was disclosed. If
 you have any questions about these policies, please contact the
 IB Customer Service Department at
 <a href="mailto:help@interactivebrokers.com">help@interactivebrokers.com</a>. </p>
+
+
   <div id="mainBodyBottom"></div>
   <!-- End Right Column footer Div -->
 </div> <!-- Ending listlinks Div -->
