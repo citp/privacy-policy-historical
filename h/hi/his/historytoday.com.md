@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the historytoday.com privacy policy that was archived on 2006-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061221020133id_/http%3A//www.historytoday.com/default.asp%3Fgid%3D30134) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the historytoday.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229020200id_/http%3A//www.historytoday.com/MainArticle.aspx%3Fm%3D32159) for the most accurate reproduction.*
 
-# History Today: The educational archive of articles, news and study aids for teachers, students and enthusiasts - Privacy Policy & Disclaimer
+# History Today: The educational archive of articles, news and study aids for teachers, students and enthusiasts - History Today - History Today - Footer - Privacy Policy & Disclaimer
 
 **General**
 
 Thank you for visiting historytoday.com.
 
-Your privacy is important to us. We provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used.
-
-History Today Ltd owns and operates historytoday.com. All the information you give will be treated as confidential and is stored in a secure server, with only authorised individuals approved by History Today Ltd having access.
+Your privacy is important to us. We provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used.History Today Ltd owns and operates historytoday.com. All the information you give will be treated as confidential and is stored in a secure server, with only authorised individuals approved by History Today Ltd having access.
 
  **Collection and use of your details**
 
@@ -53,4 +51,4 @@ Within the law, historytoday.com disclaims all responsibility for any damages or
 
  **Protection Rights**
 
-The name History Today, History Review, historytoday.com, historytoday.co.uk, historymagazine.co.uk, historytodaynews.com and all logos herein are trademarks of History Today Ltd. It is not permitted to reproduce these trademarks
+The name History Today, History Review, historytoday.com, historytoday.co.uk, historymagazine.co.uk, historytodaynews.com and all logos herein are trademarks of History Today Ltd. It is not permitted to reproduce these trademarks.
