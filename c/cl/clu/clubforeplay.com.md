@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clubforeplay.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624042738id_/http%3A//clubforeplay.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clubforeplay.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229085527id_/http%3A//www.clubforeplay.com/privacy.html) for the most accurate reproduction.*
 
 # Untitled Document
 
