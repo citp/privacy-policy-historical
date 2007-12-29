@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thearticlenet.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623030228id_/http%3A//www.thearticlenet.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thearticlenet.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229155046id_/http%3A//www.thearticlenet.com/privacy.php) for the most accurate reproduction.*
 
 # TheArticleNet.com
 
