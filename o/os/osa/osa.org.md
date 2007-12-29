@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the osa.org privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626195959id_/http%3A//www.osa.org/aboutosa/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the osa.org privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229122744id_/http%3A//www.osa.org/aboutosa/privacypolicy) for the most accurate reproduction.*
 
 # Learn About OSA Home Page
 
@@ -41,11 +41,8 @@ OSA may also use your contact information to reach you through phone, mail or fa
 
 If you are an OSA member, you may not opt out of OSA business mailings such as the election mailing. 
 
-**Ad Servers  
-**OSA does not partner with nor have special relationships with ad server companies. 
-
 **Links  
-**This Web site may contain links to non-OSA sites. OSA is not responsible for the privacy practices of other sites. This privacy statement applies solely to information collected by OSA-hosted and maintained Web sites. 
+**This Web site may contain links to non-OSA web sites. OSA is not responsible for the privacy practices of other sites.  This privacy policy applies solely to information collected by OSA-hosted and maintained Web sites.  We encourage you to be aware of the privacy practices of any non-OSA web site before disclosing any personally identifiable information on that site. 
 
 **Online Discussion Forums  
 **Whenever you voluntarily disclose personal information online, that information can be collected and used by others. By posting personal information online that is publicly accessible, you may receive unsolicited messages from other parties in return. 
