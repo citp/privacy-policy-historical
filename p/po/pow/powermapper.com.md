@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the powermapper.com privacy policy that was archived on 2007-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070419234116id_/http%3A//www.powermapper.com/smallprint/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powermapper.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229050745id_/http%3A//www.powermapper.com/smallprint/privacy.htm) for the most accurate reproduction.*
 
 # Electrum Solutions - Privacy Policy
 
@@ -11,7 +11,7 @@ We collect two sorts of information on this site:
 
 
 
-We treat customer information as strictly confidential - it is never revealed to third parties. Online orders are processed by Emetrix, please see the [Emetrix Privacy Policy](http://www.emetrix.com/company/privacy.asp) for further details.
+We treat customer information as strictly confidential - it is never revealed to third parties. Online orders are processed by Plimus, please see the [Plimus Privacy Policy](http://www.plimus.com/privacy.shtml) for further details.
 
 We use customer information for the following purposes:
 
