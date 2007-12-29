@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the creativevideo.co.uk privacy policy that was archived on 2007-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070426144203id_/http%3A//www.creativevideo.co.uk/public/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creativevideo.co.uk privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229154559id_/http%3A//www.creativevideo.co.uk/public/privacy.php) for the most accurate reproduction.*
 
-# ۞
+# » Creative Video > Creative Video > Privacy Policy
 
 ### Privacy Policy
 
