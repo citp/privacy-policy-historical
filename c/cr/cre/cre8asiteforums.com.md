@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cre8asiteforums.com privacy policy that was archived on 2007-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070409000639id_/http%3A//www.cre8asiteforums.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cre8asiteforums.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229064538id_/http%3A//www.cre8asiteforums.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Cre8asite Forums
 
@@ -9,6 +9,8 @@ This statement covers all of the Cre8asiteForums sites (Blog, Directory, Forums,
 Please read this statement carefully before using proceeding to access any of the Cre8asiteForums sites. Your use of the Cre8asiteForums sites indicates your agreement to abide by the Terms in effect.
 
 Cre8pc.com and Cre8asiteForums.com are committed to maintaining your confidence and trust, and accordingly maintains the following privacy policy to protect personal information you provide online.
+
+**ALL Text Links inside the forums and any sponsored links are not crawlable by any search engine, with "nofollow" or proprietary "url scrambling".**
 
 ## Basic Confidentiality Policy
 
@@ -44,6 +46,4 @@ It is our policy to not link to "link farm" pages. Automated link requests are n
 
 Established January 10, 1998
 
-Last updated September 12, 2005
-
-Last reviewed March 27, 2006
+Last updated December 2, 2007
