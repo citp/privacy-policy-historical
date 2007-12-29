@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ere.net privacy policy that was archived on 2007-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070628175644id_/http%3A//www.ere.net/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ere.net privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229161236id_/http%3A//www.ere.net/about/privacy.asp) for the most accurate reproduction.*
 
 # ERE.net - Recruiting news, information and community
 
