@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tamu.edu privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630140825id_/http%3A//www.tamu.edu/home/statements/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamu.edu privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229025644id_/http%3A//www.tamu.edu/home/statements/privacy.html) for the most accurate reproduction.*
 
 # Texas A&M University - Privacy Statement
 
@@ -50,9 +50,9 @@
 
 ](http://www.tamu.edu/home/academics/departments.html "Departments")
 
-[Distance/Continuing Education
+[Distance Education
 
-](http://www.tamu.edu/ode/choice "Distance/Continuing Education")
+](http://distance.tamu.edu/ "Distance Education")
 
 [Graduate Studies
 
@@ -84,7 +84,7 @@
 
 [Distance Education
 
-](http://www.tamu.edu/ode/disted "Distance Education")
+](http://distance.tamu.edu/ "Distance Education")
 
 [Financial Aid
 
@@ -148,11 +148,11 @@
 
 [News
 
-](http://www.tamu.edu/tamunews "News")
+](http://tamunews.tamu.edu/ "News")
 
 [A&M News
 
-](http://www.tamu.edu/tamunews "A&M News")
+](http://tamunews.tamu.edu/ "A&M News")
 
 [Agricultural Communications
 
@@ -186,6 +186,10 @@
 
 ](http://www.tamu.edu/home/research/index.html "Research")
 
+[Research and Graduate Studies
+
+](http://rgs.tamu.edu/ "Division of Research and Graduate Studies")
+
 [Funding Opportunities
 
 ](http://opd.tamu.edu/funding-opportunities "Funding Opportunities")
@@ -209,10 +213,6 @@
 [Undergraduate Research
 
 ](http://ugr.tamu.edu/ "Undergraduate Research")
-
-[Vice President for Research
-
-](http://vpr.tamu.edu/ "Vice President for Research")
 
 [more
 
