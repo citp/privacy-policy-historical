@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brightcove.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630213639id_/http%3A//corp.brightcove.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brightcove.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229044653id_/http%3A//www.brightcove.com/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy of Brightcove Inc. Service
 
@@ -26,7 +26,7 @@ Brightcove does not rent, sell, or share personal information about you with oth
       * We will transfer information about you if Brightcove is acquired by or merged with another company. We will post a notice on our site before this occurs and/or if a new privacy policy will be applicable as a result.
       * Brightcove works with vendors, partners, advertisers, and other service providers. In order to bring you the products and services you have requested, we may share your personal information with them. We will not authorize these service providers to share your information other than as necessary to provide the services you have requested or beyond the extent to which you have granted us permission to do so.
       * Brightcove may display targeted advertisements based on personal information.
-  3. Brightcove may set and access cookies on your computer. A **cookie** is a small text file containing a unique identification number that is transferred from a Web site to the hard drive of your computer so that the site administrator may identify your computer and passively track its activities on the website. This unique number identifies your web browser to our computer system. A cookie will not allow a website to learn any personally identifiable information (such as your real name and address) that you have not otherwise disclosed. Cookies allow us to automatically remember your web browser when you visit our site/s or Service. The use of cookies is an industry standard, and they are currently used on most major Web sites. It is possible to adjust your Web browser preferences to alert you when a cookie is sent to your hard drive, or to refuse cookies altogether. While we do not require you to use cookies, keep in mind that certain sites and services will not function properly if you set your browser to refuse all cookies.
+  3. Brightcove may set and access cookies on your computer. A **cookie** is a small text file containing a unique identification number that is transferred from a website to the hard drive of your computer so that the site administrator may identify your computer and passively track its activities on the website. This unique number identifies your web browser to our computer system. A cookie will not allow a website to learn any personally identifiable information (such as your real name and address) that you have not otherwise disclosed. Cookies allow us to automatically remember your web browser when you visit our site/s or Service. The use of cookies is an industry standard, and they are currently used on most major websites. It is possible to adjust your Web browser preferences to alert you when a cookie is sent to your hard drive, or to refuse cookies altogether. While we do not require you to use cookies, keep in mind that certain sites and services will not function properly if you set your browser to refuse all cookies.
 
 **Web beacons** , also known as clear GIFs or single-pixel GIFs, are small image files that we may place on Web pages and within certain email. Working in conjunction with cookies, Web beacons allow us to accurately count the number of unique users who have visited a specific page and the number of times those pages are displayed. We can also use Web beacons to let us know how many people opened certain types of email. This information is only collected in aggregate form and will not be linked to your personally identifiable information. Keep in mind that any image file on a Web page can act as a Web beacon. Third-party advertisers may use Web beacons in their advertisements.
 
@@ -64,7 +64,7 @@ If you have questions or suggestions, you can contact us at:
 >  Phone: (617) 500-4920  
 > 
 
-Last update: November 14, 2005 7:04 PM
+Last update: August 17, 2007 10:33 AM
 
   
 
@@ -120,7 +120,7 @@ In order to provide consent for your child, please click on the link below, and 
 
 ### Sign me up for a Brightcove Family Membership!
 
-As a general reminder: Children should always ask a parent for permission before sending personal information to anyone online. Brightcove does not knowingly share personal information about users under the age of 13 with third parties and we do not sell or rent personal information about any of our users, regardless of age, without their permission. In addition, Brightcove will not send any direct e-mail offers to users who indicate they are under the age of 13. Brightcove strongly suggests that parents read the [Online Bulletin ](https://web.archive.org/web/20070630213639id_/http%3A//corp.brightcove.com/childrenssafetybulletin.cfm), published by, and reprinted with the permission of, the National Center for Missing and Exploited Children and that they make use of the Parental Controls available through the Internet and/or your web browser.
+As a general reminder: Children should always ask a parent for permission before sending personal information to anyone online. Brightcove does not knowingly share personal information about users under the age of 13 with third parties and we do not sell or rent personal information about any of our users, regardless of age, without their permission. In addition, Brightcove will not send any direct e-mail offers to users who indicate they are under the age of 13. Brightcove strongly suggests that parents read the [Online Bulletin ](https://web.archive.org/web/20071229044653id_/http%3A//www.brightcove.com/childrenssafetybulletin.cfm), published by, and reprinted with the permission of, the National Center for Missing and Exploited Children and that they make use of the Parental Controls available through the Internet and/or your web browser.
 
 If you have any questions about this Notice, about the Brightcove Family Membership, or about the collection or maintenance of your child's personal information anywhere on the Brightcove Service, please contact:
 
