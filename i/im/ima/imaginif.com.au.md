@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imaginif.com.au privacy policy that was archived on 2007-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070522090928id_/http%3A//www.imaginif.com.au/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imaginif.com.au privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229204818id_/http%3A//imaginif.com.au/privacy.htm) for the most accurate reproduction.*
 
 # Imaginif...Child Protection became Serious Business.
 
