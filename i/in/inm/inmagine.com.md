@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the inmagine.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623123240id_/http%3A//www.inmagine.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inmagine.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229025210id_/http%3A//www.inmagine.com/privacy.php) for the most accurate reproduction.*
 
 # Royalty Free Photos, Stock Photos, Photography and Royalty Free Images at Inmagine
-
-Privacy Policy
 
 Inmagine® respects every user's privacy. Once you register with Inmagine®¡¡and sign in to our services, you are not anonymous to us. Inmagine® uses the information provided to enhance your surfing experience such as lightbox and to contact you about specials and new product. The information we collect may be shared (with your consent upon registration) with our subsidiaries for similar purposes.
 
@@ -11,7 +9,5 @@ By using this website, you understand that all information collected from your r
 When you visit Inmagine's website, we place a text file call cookie in your computer hard disk. This file allows us to provide you with more convenience such as the lightbox and enhance your surfing experience. Most browsers allow you to reject cookies, but if you were to do so, these pages may not display properly. We collects information about your use of the website in order to improve our service and your browsing experience.Inmagine® reserves the right to disclose your personal information if required to do so by law, or in the good faith belief that such action is reasonably necessary to comply with legal process, respond to claims, or protect the rights, property or safety of our company, employees, customers, or the public. If you register or license an image from Inmagine your name, address, telephone number, credit card details or other personal details will be recorded to complete the transaction and for delivery purpose. 
 
 Inmagine® uses as much effort as possible to ensure the accurateness and reliability of the content, but make no representations or warranties as to the contents accuracy, or reliability.
-
-Refund Policy
 
 If you are not satisfied with your purchase of a product, please contact us within 5 calendar days of the receipt of goods for a Product Return Authorisation (PRA). If the item is returned unopened in the original box, we will exchange it or offer you a refund based on your original method of payment less delivery charges. All products must be packed in the original, unmarked packaging including any manuals, documentation, free gifts and registration that was shipped with the product. The product must be returned to Inmagine's warehouse within 14 calendar days after the issuance of the PRA. CD/VCD/Single Images may not be returned after 5 days of receipt/download. Due to the nature of the imagery product, refunds will be given at the discretion of the Company Management. A standard document to acknowledge that images were not copied or used is to be signed for any returned cd/image.
