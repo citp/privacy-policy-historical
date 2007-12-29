@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nickhotel.com privacy policy that was archived on 2007-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070502003959id_/http%3A//www.nickhotel.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nickhotel.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229020750id_/http%3A//www.nickhotel.com/privacy_policy) for the most accurate reproduction.*
 
 # Fun Things To Do In Orlando, Florida Event Calendar & FL Kid Activities - Nickelodeon Resort
 
