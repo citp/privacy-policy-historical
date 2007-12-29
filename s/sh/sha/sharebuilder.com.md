@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sharebuilder.com privacy policy that was archived on 2007-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070615232249id_/http%3A//sharebuilder.com/sharebuilder/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharebuilder.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229065503id_/http%3A//www.sharebuilder.com/sharebuilder/Privacy/Default.aspx) for the most accurate reproduction.*
 
 # ShareBuilder: Privacy
 
