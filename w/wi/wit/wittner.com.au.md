@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wittner.com.au privacy policy that was archived on 2007-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070508234214id_/http%3A//www.wittner.com.au/shop/Content.aspx%3Fpageid%3D233) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wittner.com.au privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229151631id_/http%3A//www.wittner.com.au/shop/Content.aspx%3Fpageid%3D233) for the most accurate reproduction.*
 
 # Wittner Shoes - Why Buy Wittner
 
