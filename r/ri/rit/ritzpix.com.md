@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ritzpix.com privacy policy that was archived on 2007-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070314105135id_/http%3A//www.ritzpix.com/net/content.aspx%3Fid%3DPrivacyStatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ritzpix.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229065112id_/http%3A//www.ritzpix.com/net/content.aspx%3Fid%3DPrivacyStatement) for the most accurate reproduction.*
 
 # Ritz Pix @ LifePics
 
@@ -140,7 +140,7 @@ A part of the Internet that links text, sound, and images in the form of Web pag
 
 Here at Ritzpix.com we want you to be happy and satisfied with the quality of our prints and products. If you are unhappy with your purchase, you may return it within 30 days for a refund or a redo.
 
-If a product doesn't meet your expectations, contact **Customer Service** at [customerserv@RitzPix.com](https://web.archive.org/web/20070314105135id_/http%3A//www.ritzpix.com/net/mailtocustomerserv@RitzPix.com). Note that refunds for orders placed online and picked up at a store will be issued only by the website, not in the store.
+If a product doesn't meet your expectations, contact **Customer Service** at [customerserv@RitzPix.com](https://web.archive.org/web/20071229065112id_/http%3A//www.ritzpix.com/net/mailtocustomerserv@RitzPix.com). Note that refunds for orders placed online and picked up at a store will be issued only by the website, not in the store.
 
 We do our best to send you the highest quality prints and products. Please keep in mind that we are not responsible for the following:
 
