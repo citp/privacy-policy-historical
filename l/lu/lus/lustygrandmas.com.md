@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lustygrandmas.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429130735id_/http%3A//www.lustygrandmas.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lustygrandmas.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229064027id_/http%3A//lustygrandmas.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
