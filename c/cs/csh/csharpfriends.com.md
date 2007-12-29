@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the csharpfriends.com privacy policy that was archived on 2007-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070409031418id_/http%3A//www.csharpfriends.com/Members/Main/Misc/private.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csharpfriends.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229054454id_/http%3A//www.csharpfriends.com/Members/Main/Misc/private.aspx) for the most accurate reproduction.*
 
 # C# C Sharp and Tutorials on C# Friends.com
 
@@ -10,8 +10,7 @@
 [ C# Consulting](http://www.csharpfriends.com/statics/consulting.aspx "C# Consulting")   
 [sql server forums](http://www.sqlserverfriends.com/)   
 [code reference](http://www.codereference.com/)   
-[asp help example code](http://www.developersdex.com/asp)   
-[Offshore development](http://www.dotnetspider.com/ "Offshore software development and C# tutorials")
+
 
 Your use of the CSharpFriends.com Web site constitutes your agreement to this privacy policy and consent to the terms herein. Please see the section labeled "Information We Collect and How We Use It" to learn more about our collection and use of user information. 
 
