@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buyerzone.com privacy policy that was archived on 2007-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070616053332id_/http%3A//www.buyerzone.com/corporate/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buyerzone.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229175101id_/http%3A//www.buyerzone.com/corporate/privacy/index.html) for the most accurate reproduction.*
 
 # BuyerZone Privacy Policy
 
@@ -25,7 +25,7 @@ As a visitor to our site, you can browse our pages without having any personally
 
 As a buyer using our Request for Quotes service, you need to provide additional information so BuyerZone can deliver our Request for Quotes service to you. This includes contact information, basic demographic information, and your purchasing requirements. The information collected varies according to the different purchasing categories and can be viewed by visiting the different forms located throughout our site. We will also ask you for feedback about our service, which is collected and stored to allow us to continually improve our offerings.
 
-Cookies are also used to help streamline your experience on the site, automatically logging you in during future visits, for example. You are free to disable cookies at any time if your browser permits. However, by doing so, you may not be able to utilize certain features of our site. If you are unable to submit a Request for Quotes while having cookies disabled, please contact our Customer Care department at 1-888-393-5000 x2.
+Cookies are also used to help streamline your experience on the site, automatically logging you in during future visits, for example. You are free to disable cookies at any time if your browser permits. However, by doing so, you may not be able to utilize certain features of our site. If you are unable to submit a Request for Quotes while having cookies disabled, please contact our Customer Care department at 1-888-393-5000.
 
 As a supplier using our Request for Quotes service, you must provide information that allows us to deliver our service to you. This includes your contact information, information about your desired target markets, and billing information. In addition, we may supplement the information you provide with a credit check to ensure your creditworthiness. It should be noted that any credit card information we receive is stored securely via encryption and an SSL connection; our security measures are reviewed later in this document.
 
@@ -73,7 +73,7 @@ Account information. If you need to update your account information, such as you
 
 Notification Preferences. You have the ability to "opt out" or unsubscribe from e-mail communications, such as periodic surveys and our monthly enewsletter, that are not directly related to the BuyerZone Request for Quotes service and/or the status of your account. To update your communication preferences contact our Customer Care department at [customercare@buyerzone.com](mailto:customercare@buyerzone.com.). If you do contact the Customer Care department, please be sure to specify the type of email communication(s) from which you would like to opt out. Information about how to unsubscribe is also included in every communication we send.
 
-Password. BuyerZone suppliers may be issued a User ID and password to access their account. As a supplier, you are responsible for all actions taken with your user ID and password, including fees charged to your account. Do not share your password with any third parties, as you may be legally liable for any fees that are incurred. If you believe that your password has been compromised, you should immediately change your password or contact Customer Care at [customercare@buyerzone.com](mailto:customercare@buyerzone.com.) or 888-393-5000 x2.
+Password. BuyerZone suppliers may be issued a User ID and password to access their account. As a supplier, you are responsible for all actions taken with your user ID and password, including fees charged to your account. Do not share your password with any third parties, as you may be legally liable for any fees that are incurred. If you believe that your password has been compromised, you should immediately change your password or contact Customer Care at [customercare@buyerzone.com](mailto:customercare@buyerzone.com.) or 888-393-5000.
 
 CHILDREN  
 Children (persons under the age of 18) are not eligible to use BuyerZone's services. 
@@ -90,7 +90,7 @@ CONTACTING US
 If you have any additional questions or comments about BuyerZone's privacy statement, please contact us: 
 
 BuyerZone  
-404 Wyman Street North, Suite 450  
+225 Wyman Street  
 Waltham, MA 02451   
 617.868.5757  
 [customercare@buyerzone.com](mailto:customercare@buyerzone.com)
