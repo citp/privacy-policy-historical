@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the earthday.net privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624082835id_/http%3A//www.earthday.net/about/disclaimer.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earthday.net privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229083743id_/http%3A//www.earthday.net/about/disclaimer.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -44,19 +44,19 @@ To endorse an Earth Day Campaign Agenda, you must provide us with your name and 
 
 If your organization chooses to endorse any of Earth Day Network's Agendas, you must provide us with the organization's name, address, and other information about the group as described on the sign-up page. By choosing to endorse the Agenda, your organization agrees that we may share this information with public officials and business leaders to demonstrate public support for our policy proposals. Your organization also agrees that we may share this information with the media and that we may share the names and contact information of endorsing organizations with other organizations participating in Earth Day Network campaigns. Except for the ways described here, no other Personal Information about your organization will be shared with third parties. 
 
-If you or your organization wishes to be removed as an endorser of any Earth Day Agenda, please email [earthday@earthday.net](mailto:earthday@earthday.net).
+If you or your organization wishes to be removed as an endorser of any Earth Day Agenda, please email [earthday [at] earthday.net](mailto:earthday@earthday.net).
 
 ### 3\. List Your Group 
 
 To list your group in our online directory, you must provide us with your organization's contact information and other details about the group as described on the List Your Group sign-up page. By registering, your organization agrees that we may publish your organization's Personal Information on our website and in the Worldwide Network Directory, but we will not publish names of individual contacts without the express permission of the individuals involved.
 
-If your organization wishes to be removed from our website and the Worldwide Network Directory, please follow the removal instructions by visiting the List Your Group sign-up page or email [earthday@earthday.net](mailto:earthday@earthday.net).
+If your organization wishes to be removed from our website and the Worldwide Network Directory, please follow the removal instructions by visiting the List Your Group sign-up page or email [earthday [at] earthday.net](mailto:earthday@earthday.net).
 
 ### 4\. List Your Event 
 
 To list your event, in our online events calendar, you must provide us with contact information, as well as a description of you and specifics about your events. By registering, you agree that we may publish this Personal Information on our website and in the events calendar, but will not publish names of individual contacts without the express permission of the individual involved. 
 
-If you wish to have your event removed from our website and the events calendar, please follow the removal instructions by visiting the List Your Event sign-up page or email [earthday@earthday.net](mailto:earthday@earthday.net).
+If you wish to have your event removed from our website and the events calendar, please follow the removal instructions by visiting the List Your Event sign-up page or email [earthday [at] earthday.net](mailto:earthday@earthday.net).
 
 ### 5\. Earth Day Store 
 
@@ -106,7 +106,7 @@ By accessing and using our website, you consent to the collection and use of inf
 
 ## Any Questions?
 
-If you have any further questions or concerns about Earth Day Network's Privacy Policy and use of Personal Information, please send them to [earthday@earthday.net](mailto:earthday@earthday.net).
+If you have any further questions or concerns about Earth Day Network's Privacy Policy and use of Personal Information, please send them to [earthday [at] earthday.net](mailto:earthday@earthday.net).
 
 top
 
