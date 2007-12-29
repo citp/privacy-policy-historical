@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directspace.net privacy policy that was archived on 2007-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070504153257id_/http%3A//directspace.net/terms/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directspace.net privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229020836id_/http%3A//directspace.net/terms/privacy.htm) for the most accurate reproduction.*
 
 # Web Hosting With DirectSpace Networks, Low Cost Always!
 
