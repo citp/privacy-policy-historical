@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gerber.com privacy policy that was archived on 2007-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070616065211id_/http%3A//www.gerber.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gerber.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229090130id_/http%3A//www.gerber.com/privacy) for the most accurate reproduction.*
 
 # Gerber
 
@@ -24,7 +24,7 @@ For users who submit information (email addresses) of their friends to our site,
 
 ####  3\. Non-Disclosure of Information 
 
-Personal data may be transferred to third parties that act for or on behalf of GERBER, or in connection with the business of GERBER, for further processing in accordance with the purpose(s) for which the data was originally collected. GERBER will not sell, share or otherwise distribute your personal data to third parties outside the GERBER or Novartis Group of Companies, if you choose to opt-out of our partnership program. Where disclosure of personal data to a third party occurs we will endeavor to ensure that the processing is performed in accordance with the purposes and within the limits under which the data was originally collected. Such third parties may operate under different privacy policies. In the event that this website is closed down, all personal data will be destroyed or you will be notified of any new manner of use of the data so you may revoke your consent of the use of this data. 
+Personal data may be transferred to third parties that act for or on behalf of GERBER, or in connection with the business of GERBER, for further processing in accordance with the purpose(s) for which the data was originally collected. GERBER will not sell, share or otherwise distribute your personal data to third parties outside of GERBER or its affiliated companies, if you choose to opt-out of our partnership program. Where disclosure of personal data to a third party occurs we will endeavor to ensure that the processing is performed in accordance with the purposes and within the limits under which the data was originally collected. Such third parties may operate under different privacy policies. In the event that this website is closed down, all personal data will be destroyed or you will be notified of any new manner of use of the data so you may revoke your consent of the use of this data. 
 
 ####  4\. Right of Access 
 
@@ -32,7 +32,7 @@ You have the right to access and update your personal data or to require their d
 
 ####  5\. Security and Confidentiality 
 
-To ensure the security and confidentiality of personal data that GERBER collects online, GERBER uses data networks protected by industry standard firewall and password protection. Access to personal data is restricted to those employees and approved agencies working on behalf of GERBER or NOVARTIS, who have a need to use the data and who have been trained to handle such data properly and observe strict standards of confidentiality. If an employee breaches our policies and procedures he/she will be disciplined accordingly. Staff compliance with our policies and procedures is regularly audited and reviewed. While we cannot guarantee against any loss, misuse or alteration to data, we try to prevent such unfortunate occurrences. 
+To ensure the security and confidentiality of personal data that GERBER collects online, GERBER uses data networks protected by industry standard firewall and password protection. Access to personal data is restricted to those employees and approved agencies working on behalf of GERBER or its affiliated companies, who have a need to use the data and who have been trained to handle such data properly and observe strict standards of confidentiality. If an employee breaches our policies and procedures he/she will be disciplined accordingly. Staff compliance with our policies and procedures is regularly audited and reviewed. While we cannot guarantee against any loss, misuse or alteration to data, we try to prevent such unfortunate occurrences. 
 
 ####  6\. Data Transfer Abroad 
 
