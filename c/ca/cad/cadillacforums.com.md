@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cadillacforums.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629002840id_/http%3A//www.cadillacforums.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cadillacforums.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229074944id_/http%3A//www.cadillacforums.com/privacy.html) for the most accurate reproduction.*
 
 # Cadillac Forums: The Cadillac web site for serious enthusiasts
 
 **cadillacforums.com / cadillacowners.com** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for these Web sites: [http://www.cadillacforums.com](http://www.cadillacforums.com/) and [http://www.cadillacowners.com](http://www.cadillacowners.com/)
 
-**To contact us, regarding any privacy concerns, you can reach us at:** [webmaster@cadillacforums.com](mailto:webmaster@cadillacforums.com)
+**To contact us, regarding any privacy concerns, you can reach us at:** [claziano@optonline.net](mailto:claziano@optonline.net)
 
 We provide the following level of access to users information collected on this site: zero
 
