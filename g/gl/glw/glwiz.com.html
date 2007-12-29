@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the glwiz.com privacy policy that was archived on 2007-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070623181631id_/http%3A//www.glwiz.com/Privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the glwiz.com privacy policy that was archived on 2007-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071229111809id_/http%3A//glwiz.com/Privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html xmlns="http://www.w3.org/1999/xhtml"><head id="Head1"><meta name="GENERATOR" content="Microsoft Visual Studio .NET 7.1"><meta name="CODE_LANGUAGE" content="C#"><meta name="vs_defaultClientScript" content="JavaScript"><meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5"><title>
 	Privacy Page
@@ -13,23 +13,50 @@
 
 <script language="javascript" type="text/javascript">
 <!--
-function popUpMediaPlayer() {
-	if(window.ActiveXObject)
+var winPopUp;
+function popUpMediaPlayer(type,category) {
+    var glwiz_uid = document.getElementById("Hidden1");
+    
+    if (glwiz_uid.value == "demo")
+    {
+        alert( "Please sign on or register if you have not registered already.");    
+        return false;
+
+    }
+	//if(window.ActiveXObject)
 	{
 		//alert("explorer");
-        window.open("", "popupWin", "location=0, menubar=0, status=0, scrollbars=0, toolbar=0, width=990, height=580, halign=centre");
+        winPopUp = window.open("", "popupWin", "location=0, menubar=0, status=0, scrollbars=0, toolbar=0, width=990, height=580, halign=centre");
         var frm =   document.getElementById("popUp");        
         //var frm =  document.forms["popUpForm"];
         //alert(frm.name)                
+        var typeInput = document.getElementById("Hidden3");      
+        typeInput.value = type; 
+        //alert(typeInput.value);
+        var categoryInput = document.getElementById("Hidden4"); 
+        categoryInput.value = category;
         frm.submit();
 	}
 	// Mozilla firefox
-	else // if(document.implementation && document.implementation.createDocument)
+	/*else // if(document.implementation && document.implementation.createDocument)
 	{
 		alert("In order to ensure optimum quality and performance, please login using Internet Explorer.");
 	}
-	return false;
+	return false;*/
 	//window.location="MediaCenterPage.aspx";
+}
+function FocusMediaPlayer(type, category)
+{
+    if (winPopUp != null ||(winPopUp == ""))
+        winPopUp.focus();
+    //else
+        popUpMediaPlayer(type, category);
+}
+
+function CloseMediaPlayer()
+{
+    if ( winPopUp != null)
+        winPopUp.window.close();
 }
 
 // -->
@@ -39,16 +66,20 @@ function popUpMediaPlayer() {
     <div>
         <input id="Hidden2" name="PWD" type="hidden" value="iptv">&nbsp;
         <input id="Hidden1" type="hidden" name="UID" value="demo">&nbsp;        
-        
+        <input id="Hidden3" type="hidden" name="TYPE" value="">&nbsp;
+        <input id="Hidden4" type="hidden" name="CATEGORY" value="">&nbsp;
     </div>
 </form>
 
     <form name="form1" method="post" action="Privacy.aspx" id="form1">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNzA4NjU1MjkxD2QWBAIDDw8WBB4DVUlEBQRkZW1vHgNQV0QFBGlwdHZkZAIFD2QWAgIBDw8WBB8ABQRkZW1vHwEFBGlwdHZkFgICAw8WAh4HVmlzaWJsZWgWAgIDDw8WAh4EVGV4dGVkZGTrWa2GQVDnQHUdMI4Cmtl0UZNU+w==">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNzA4NjU1MjkxD2QWBAIDDw8WBB4DVUlEBQRkZW1vHgNQV0QFBGlwdHZkZAIFD2QWAgIBDw8WBB8ABQRkZW1vHwEFBGlwdHZkFgICAw8WAh4HVmlzaWJsZWgWAgIDDw8WAh4EVGV4dGUWAh4Hb25jbGljawUTQ2xvc2VNZWRpYVBsYXllcigpO2RkLDiMPHXqoZwqKjFLaeoh4NuUzwo=">
 
 	
 
+<link href="GLipTV.css" type="text/css" rel="stylesheet">
+<script language="JavaScript" src="GLiptv.js"></script>
 
+<script type="text/javascript" src="include/swfobject.js"></script>
 <script language="javascript" type="text/javascript">
 <!--
 
@@ -56,9 +87,49 @@ function Button1_onclick() {
 
 }
 
-// -->
-</script>
 
+
+// -->
+
+function HomeBanner_OnClick()
+{
+    /*var logout;
+    logout = document.getElementById("myHeader_logout");
+    if (logout == null)
+        window.location.href = "GLPrizLogin.aspx";
+    else
+        FocusMediaPlayer('TV',2);*/
+    window.location.href = "GLWinner.aspx";
+}
+
+function GLPriz_Onclick()
+{
+    var logout;
+    logout = document.getElementById("myHeader_logout");
+
+     if (logout == null)
+        window.location.href="GLRegister.aspx";
+     else
+     {
+        if (document.title == "Invite Page")
+            return;
+        else
+            window.location.href="GLPrizLogin.aspx?status=Registered";
+     }
+    //document.getElementById("tblSoon").style.display = "block";
+    //document.getElementById("Flash_Table").style.display = "none";
+   
+
+}
+function login()
+{
+  if(event.keyCode == 13)
+  {
+    var btn = document.getElementById("myHeader_login");
+    btn.click();
+  }
+}
+</script>
 
 
 
@@ -81,15 +152,16 @@ function Button1_onclick() {
 							<table align="center" width="700" cellspacing="0" cellpadding="0" border="0">
 								<tbody><tr>
 									<td>&nbsp;&nbsp;<img alt="" src="Images/divideline.gif" border="0"></td>
+									<td><a id="register" href="GLRegister.aspx" class="GrayBold">REGISTER</a></td>
+									<td>&nbsp;&nbsp;<img alt="" src="Images/divideline.gif" border="0"></td>
 									<td><a id="home" href="HomePage.aspx" class="GrayBold">HOME PAGE</a></td>
 									<td><img alt="" src="Images/divideline.gif" border="0"></td>
 									<td><a id="Channels" href="MediaCenterPage.aspx" class="GrayBold">&nbsp;MEDIA CENTER</a></td>
 									<td><img alt="" src="Images/divideline.gif" border="0"></td>
-									<td><a id="features" href="featuresPage.aspx" class="GrayBold">&nbsp;FEATURES</a></td>
+									<td><a id="features" href="featuresPage.aspx" class="GrayBold">&nbsp;SPECIAL EVENTS</a></td>
 									<td><img alt="" src="Images/divideline.gif" border="0"></td>
-									<td><a id="Demo" class="DemoMouseOver" href="MediaCenterPage.aspx">&nbsp;LIVE DEMO</a></td>
-									<td><img alt="" src="Images/divideline.gif" border="0"></td>
-									<td><a id="order" href="ChannelPage.aspx" class="GrayBold">&nbsp;ORDER NOW</a></td>
+									
+									<td><a id="order" href="orderPage1.aspx" class="GrayBold">&nbsp;ORDER NOW</a></td>
 									<td><img alt="" src="Images/divideline.gif" border="0"></td>
 									<td><a id="Contactus" href="ContactusPage.aspx" class="GrayBold">&nbsp;CONTACT US</a></td>
 									<td><img alt="" src="Images/divideline.gif" border="0"></td>
@@ -99,7 +171,8 @@ function Button1_onclick() {
 						</td>
 					</tr>	
 					<tr valign="middle" width="712" align="center">
-						<td><img alt="" src="Images/logobanner.jpg" height="75" width="712" border="0"></td>
+						<td><a href="#" onclick="GLPriz_Onclick();"><img src="Images/HomeBanner_Top.jpg" border="0" alt=""></a>
+                       </td>
 					</tr>
 					<tr valign="top">
 					    <td>
@@ -108,17 +181,25 @@ function Button1_onclick() {
 					                <td>
 					                    <table border="0" cellpadding="0" cellspacing="0">
 					                        <tbody><tr>
-					                            <td><a href="MediaCenterPage.aspx"><img border="0" src="Images/livedemo.gif"></a></td>
-					                            <td><img border="0" src="Images/dividedbar.gif"></td>
-					                            <td><a href="Register.aspx"><img border="0" src="Images/free.gif"></a></td>
-					                            <td><img border="0" src="Images/dividedbar.gif"></td>
+					                            <td><a href="MediaCenterPage.aspx"></a></td>
+					                            <td style="width: 5px"><!--<img border=0 src="Images/dividedbar.gif" />--></td>
+					                            <td>
+							                        <div id="flashcontent" align="center">
+						                                <img alt="" src="Images/HomeBanner_Animation.gif" height="83" width="470" border="0" usemap="#logobanner">
+						                                 <map name="logobanner">
+                                                        <area shape="rect" coords="0,0,470,83" style="cursor:hand;" onclick="HomeBanner_OnClick();" href="#">
+                                                        <!--<AREA SHAPE="rect" COORDS="216,0,712,75" HREF="afcContest.aspx">-->
+                                                        </map>
+							                        </div>
+                                                </td>
+					                            <td><!--<img border=0 src="Images/dividedbar.gif" />--></td>
 					                        </tr>
 					                    </tbody></table>
 					                </td>
 						            <td id="myHeader_notLoggedUser">
 							            <table cellspacing="2" cellpadding="0" border="0" align="right">
 			 					            <tbody><tr>
-			 						            <td class="GrayBold" align="right">E-MAIL: </td>
+			 						            <td class="GrayBold" align="right">User ID(Email): </td>
 			 						            <td><input name="myHeader$TxtUsername" type="text" id="myHeader_TxtUsername" style="WIDTH:120px; HEIGHT:18px; BACKGROUND-COLOR:#cccccc; FONT-SIZE: 7pt; FONT-FAMILY: Verdana"></td>
 			 					            </tr>
 								            <tr>
@@ -137,8 +218,9 @@ function Button1_onclick() {
 						                        </td>
 								            </tr>
 								            <tr style="FONT-SIZE: 7pt; FONT-FAMILY: Verdana">
-									            <td class="GrayBold" align="right" style="height: 12px">New User? </td>
-									            <td class="GrayBold" align="right" style="height: 12px"><a href="Register.aspx" style="FONT-SIZE:7pt; FONT-FAMILY:Verdana; color:LightGrey"><b>Register Now</b></a></td>
+									            <td class="GrayBold" align="right" style="FONT-SIZE: 7pt; FONT-FAMILY: Verdana;height: 10px;">New User?<br>Forgot Pass?</td>
+									            <td class="GrayBold" align="right" style="FONT-SIZE: 7pt; FONT-FAMILY: Verdana;height: 10px"><a href="GLRegister.aspx" style="FONT-SIZE:7pt; FONT-FAMILY:Verdana; color:LightGrey"><b>Register Now</b></a><br>
+									            <a href="forgotPassword.aspx" style="FONT-SIZE:7pt; FONT-FAMILY:Verdana; color:LightGrey"><b>Retrieve Password</b></a></td>
 								            </tr>
 							            </tbody></table>
 						            </td>
@@ -155,6 +237,7 @@ function Button1_onclick() {
 </tbody></table>
 <!-- End of Hearder Table-->
 
+
     <table align="center" cellspacing="0" cellpadding="0" border="0" width="766" bgcolor="#67696D">
 	    <tbody><tr>
 	        <td>
@@ -169,28 +252,28 @@ function Button1_onclick() {
     					<div style="MARGIN-TOP:3em;MARGIN-LEFT:3em;MARGIN-RIGHT:3em;MARGIN-bottom:3em">
 					        <p align="justify">
 					            PRIVACY STATEMENT
-					            GLWiZ is committed to the highest standards of protection for the personal information and privacy of its customers. As part of this commitment, GLWiZ has adopted a privacy policy in line with the requirements of the Personal Information Protection and Electronic Documents Act. By accessing this website and/or engaging the services of GLiPtv, the user expressly consents to the collection, use and/or disclosure of personal information in accordance with the GLiPtv Privacy Policy which may be viewed by clicking on the indicated link. </p>
+					            GLWiZ is committed to the highest standards of protection for the personal information and privacy of its customers. As part of this commitment, GLWiZ has adopted a privacy policy in line with the requirements of the Personal Information Protection and Electronic Documents Act. By accessing this website and/or engaging the services of GLWiz, the user expressly consents to the collection, use and/or disclosure of personal information in accordance with the GLWiz Privacy Policy which may be viewed by clicking on the indicated link. </p>
 					            ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- <br>
 					            <p align="justify" class="White">PRIVACY POLICY</p>
 					            <p class="WhiteUnderline">Collection of Personal Information:</p>
-					            Personal information that is collected by GLWiZ, its related companies and affiliates (collectively "GLWiZ") includes information about an identifiable individual such as the individual's name, address, e-mail and telephone number as well as their financial information (like account or credit card numbers).  Although personal information will be predominately collected from the individual, personal information may also be obtained with the consent of the individual from other sources (i.e. credit bureaus, financial institutions, etc). Nevertheless, any information obtained from such other sources will be subject to GLiPtv's privacy policy as if the information originated from the individual him/herself.  General contact information is used to send products, information, fulfill orders or get in touch with users, if necessary, to solve problems.  Financial information is used to check the user's qualifications and bill the user for products and services ordered by the user.<br>
+					            Personal information that is collected by GLWiZ, its related companies and affiliates (collectively "GLWiZ") includes information about an identifiable individual such as the individual's name, address, e-mail and telephone number as well as their financial information (like account or credit card numbers).  Although personal information will be predominately collected from the individual, personal information may also be obtained with the consent of the individual from other sources (i.e. credit bureaus, financial institutions, etc). Nevertheless, any information obtained from such other sources will be subject to GLWiz's privacy policy as if the information originated from the individual him/herself.  General contact information is used to send products, information, fulfill orders or get in touch with users, if necessary, to solve problems.  Financial information is used to check the user's qualifications and bill the user for products and services ordered by the user.<br>
 					            <p class="WhiteMidItalic">(a) Linked Sites and Affiliates:</p>
-					            Personal information collected from GLWiZ's affiliates, agencies and related institutions may also be combined with information obtained online at GLWiZ's website or at any of GLiPtv's customer service centres. Personal information collected may also be transferred both domestically and internationally to enable GLiPtv to more effectively manage its customer information and to provide more efficient service tailored to the unique needs of its customers.<br>
+					            Personal information collected from GLWiZ's affiliates, agencies and related institutions may also be combined with information obtained online at GLWiZ's website or at any of GLWiz's customer service centres. Personal information collected may also be transferred both domestically and internationally to enable GLWiz to more effectively manage its customer information and to provide more efficient service tailored to the unique needs of its customers.<br>
 					            <p class="WhiteMidItalic">b) "Cookies":</p>
-					            GLWiZ uses "cookies" to electronically collect information about the individuals who access the GLWiZ website. Information collected via "cookies" includes the response rate to banners that appear on our site, the service provider of the individuals accessing the site as well as their browser type (e.g. Netscape, Explorer, etc), and other statistical information regarding your usage of our services. Such information allows GLiPtv to assess the effectiveness of certain promotions and special offers available on the GLiPtv website and to further accommodate the site to better suit the needs of the individuals who use it and help us improve the services available.<br>
+					            GLWiZ uses "cookies" to electronically collect information about the individuals who access the GLWiZ website. Information collected via "cookies" includes the response rate to banners that appear on our site, the service provider of the individuals accessing the site as well as their browser type (e.g. Netscape, Explorer, etc), and other statistical information regarding your usage of our services. Such information allows GLWiz to assess the effectiveness of certain promotions and special offers available on the GLWiz website and to further accommodate the site to better suit the needs of the individuals who use it and help us improve the services available.<br>
 					            <p class="WhiteUnderline">Use of Personal Information:</p> 
 					            <p class="WhiteMidItalic">(a) By GLWiZ:</p>
-					            Personal Information collected by GLWiZ will be used to deliver services provided by GLWiZ to its customers, verify customer identity, ensure proper billing information and measure customer interest in various services. Personal information may also be used by GLiPtv or its affiliated or related companies to contact the customer about special offers or promotions that may interest the customer. <br>
-					            Except as provided herein, GLWiZ will not collect, use or disclose any personal information without first obtaining the consent of the individual customer to such collection use and disclosure. GLWiZ will make every reasonable effort to ensure that the individual is advised of the purposes for which the personal information will be used. Further, GLiPtv will only use the personal information for the purposes for which it was originally collected. <br>
+					            Personal Information collected by GLWiZ will be used to deliver services provided by GLWiZ to its customers, verify customer identity, ensure proper billing information and measure customer interest in various services. Personal information may also be used by GLWiz or its affiliated or related companies to contact the customer about special offers or promotions that may interest the customer. <br>
+					            Except as provided herein, GLWiZ will not collect, use or disclose any personal information without first obtaining the consent of the individual customer to such collection use and disclosure. GLWiZ will make every reasonable effort to ensure that the individual is advised of the purposes for which the personal information will be used. Further, GLWiz will only use the personal information for the purposes for which it was originally collected. <br>
 					            Except as provided herein, GLWiZ will never use personal information collected for a purpose other than the one under which it was originally collected without first obtaining consent of the individual for such alternate use. Furthermore GLWiZ will not release any personal information of a sensitive nature (i.e. gender, race, nationality, etc.) without the express consent of the individual to such release. <br>
 					            <p class="WhiteMidItalic">(b) Disclosure to Third Parties:</p>
 					            Except as provided herein, GLWiZ will not share the personal information of its customers with third parties except where such disclosure is consented to and except where such disclosure is necessary in responding to the customer's request for products or services. In such cases and where ever possible GLWiZ will request consent to third party disclosure at the time the personal information is collected. <br>
 					            <p class="WhiteMidItalic">(c) Disclosure required by law or under special circumstances:</p>
-					            GLWiZ will access, collect and/or disclose personal information where required to do so by law pursuant to a search warrant, court order or other valid legal request, or under special circumstances where there exists a good faith belief that such access, collection and/or disclosure are warranted. Examples of such special circumstances of collection and disclosure include medical or security reasons. GLWiZ may also disclose personal information to collection agencies for the purposes of collecting on accounts owing to GLiPtv. <br>
+					            GLWiZ will access, collect and/or disclose personal information where required to do so by law pursuant to a search warrant, court order or other valid legal request, or under special circumstances where there exists a good faith belief that such access, collection and/or disclosure are warranted. Examples of such special circumstances of collection and disclosure include medical or security reasons. GLWiZ may also disclose personal information to collection agencies for the purposes of collecting on accounts owing to GLWiz. <br>
 					            Control of Personal Information and withdrawing Consent: <br>
 					            Any individual may withdraw consent at any time, subject to legal or contractual restrictions and reasonable notice. The individual will be informed of the implications of such withdrawal on services provided by GLWiZ or its affiliates as applicable. <br>
 					            <p class="WhiteUnderline">Accuracy of and Access to Personal Information: </p>
-					            GLWiZ strives to keep the personal information of its customers accurate, up-to-date and complete for the purposes for which it is to be used. In this regard GLWiZ customers can access their personal information at any time by contacting GLiPtv's Customer Service and submitting a written request for such access. GLiPtv will provide the individual with particulars as to the disclosure of his/her personal information and shall provide the individual with access to that information. The individual will be able to challenge the accuracy and completeness of the information and have it amended as appropriate. <br>
+					            GLWiZ strives to keep the personal information of its customers accurate, up-to-date and complete for the purposes for which it is to be used. In this regard GLWiZ customers can access their personal information at any time by contacting GLWiz's Customer Service and submitting a written request for such access. GLWiz will provide the individual with particulars as to the disclosure of his/her personal information and shall provide the individual with access to that information. The individual will be able to challenge the accuracy and completeness of the information and have it amended as appropriate. <br>
 					            To gain access to personal information held by GLWiZ the individual making the request will be required to provide sufficient information to permit GLWiZ to provide an account of the existence, use and disclosure of the personal information. In particular, verification of identity by user identification or password will be required before access to personal information is granted. <br>
 					            <p class="WhiteUnderline">Safeguards for Protection of Personal Information: </p>
 					            Protection of personal information is of paramount importance to GLWiZ. As such GLWiZ has implemented security safeguards to protect personal information against loss, theft, and unauthorized access, disclosure, modification or use. Such safeguards include: <br>
@@ -202,8 +285,8 @@ function Button1_onclick() {
 					            <p class="WhiteUnderline">Children</p>
 					            We do not provide content on our Websites which are intended to attract or encourage the participation of children. We do not solicit or knowingly accept information from persons under the age of 18.<br>
 					            <p class="WhiteUnderline">Complaints and Enforcement of Privacy Statement: </p>
-					            As part of GLWiZ's commitment to protection of its customers' personal information and privacy, GLWiZ welcomes comments, concerns and feedback regarding its adherence to its Privacy Statement. GLiPtv is committed to addressing and resolving in a timely manner any complaints or inquires about our policies and practices relating to the handling of personal information. Accordingly, any complaints or inquires should be directed to:  <br>
-					            By email: <a href="mailto:support@gliptv.com" style="color : BLUE;text-decoration : underline;">support@gliptiv.com </a><br>
+					            As part of GLWiZ's commitment to protection of its customers' personal information and privacy, GLWiZ welcomes comments, concerns and feedback regarding its adherence to its Privacy Statement. GLWiz is committed to addressing and resolving in a timely manner any complaints or inquires about our policies and practices relating to the handling of personal information. Accordingly, any complaints or inquires should be directed to:  <br>
+					            By email: <a href="mailto:glwizsupport@goldline.net" style="color : BLUE;text-decoration : underline;">glwizsupport@goldline.net </a><br>
 					            By mail: c/o The Group of Gold Line <br>
 			   	               180 West Beaver Creek Rd. <br>
 			   	               Richmond Hill, Ontario L4B 1B4, <br>
