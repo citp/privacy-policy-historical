@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mitsubishicorp.com privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609165159id_/http%3A//www.mitsubishicorp.com/en/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mitsubishicorp.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229034437id_/http%3A//www.mitsubishicorp.com/en/privacy/index.html) for the most accurate reproduction.*
 
 # Mitsubishi Corporation - Privacy Policy
 
