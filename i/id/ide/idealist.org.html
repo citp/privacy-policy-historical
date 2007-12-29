@@ -1,334 +1,579 @@
-<!--The following is the downloaded HTML source of the idealist.org privacy policy that was archived on 2007-04-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070428030054id_/http%3A//www.idealist.org/about/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the idealist.org privacy policy that was archived on 2007-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071229180242id_/http%3A//www.idealist.org/about/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-	<title>Welcome to Idealist.org - Imagine. Connect. Act.</title>
+	<meta name="keywords" value="">
+	<meta name="description" value="">
+	<title>idealist.org - Welcome to Idealist.org - Imagine. Connect. Act.</title>
 <script type="text/javascript">
-//FONT SIZE
-if (!window.FontElement) {
-  var FontElement = new Object();
-}
-// font size methods
-FontElement.fontS = function() {
-    for (var i = 0; i < arguments.length; i++) {
-      var element = $(arguments[i]);
-      element.className='fontSmall';
-    }
-	changeFontSizeButonStyle('FontS');
-  }
-FontElement.fontM = function() {
-    for (var i = 0; i < arguments.length; i++) {
-      var element = $(arguments[i]);
-      element.className='fontMedium';
-    }
-	changeFontSizeButonStyle('FontM');
-  }
-FontElement.fontL = function() {
-    for (var i = 0; i < arguments.length; i++) {
-      var element = $(arguments[i]);
-      element.className='fontLarge';
-    }
-	changeFontSizeButonStyle('FontL');
-  }
-
-function changeFontSizeButonStyle(button) {
-//alert(button);
-	if (button!="FontS") {
-		document.getElementById('FontS').className="fonts";
-		//alert("distinto a FontS");
-	} else {
-		document.getElementById('FontS').className="fontsSelected";
-		}
-	if (button!="FontM") {
-		document.getElementById('FontM').className="fontm";
-	} else {
-		document.getElementById('FontM').className="fontmSelected";
-		}
-	if (button!="FontL") {
-		document.getElementById('FontL').className="fontl";
-	} else {
-	document.getElementById('FontL').className="fontlSelected";
-	}
-}
-
-if (!changeWidth) 
-{
- var changeWidth=1;
-}
-function changeFirstTableWidth() 
-	{
-		if (changeWidth != 0) 
-		{
-				var tables = $('pwContent').getElementsByTagName('table');
-				for (var e = 0; e < tables.length; e++) 
-				{
-					if (tables[e].width > 550) { tables[e].width = "100%"; }
-				  	if (tables[e].parentNode.id=='pwContent') { tables[e].className='firstTable'; }
-				}
-			    var tds = $('pwContent').getElementsByTagName('img');
-				for (var z = 0; z < tds.length; z++) 
-				{
-					if (tds[z].width > 400) { tds[z].width = ""; }
-				}
-			   var images = $('pwContent').getElementsByTagName('img');
-				for (var z = 0; z < images.length; z++) 
-				{
-					image = images[z];
-					if (image.width > 400) {
-						image.height = (400 * image.height) / image.width;
-						if (image.height < 1) { image.height = 1; }
-						image.width = 400;
-					}
-				}
-		}
-	}
-
-var _sid="";
+//  for js session object
+var _sid="136754772-243-Gco";
 </script>
-<link rel="stylesheet" type="text/css" href="/stylesheets/idealist.css" media="screen, print" title="">
-<script type="text/javascript" src="/javascript/idealistLib.8532.js"></script><script type="text/javascript">
-<!--
-function olMouseMove(e){var e=(e)?e:event;
-if(e.pageX){o3_x=e.pageX;o3_y=e.pageY;}else if(e.clientX){o3_x=eval('e.clientX+o3_frame.'+docRoot+'.scrollLeft');o3_y=eval('e.clientY+o3_frame.'+docRoot+'.scrollTop');}
-if(o3_allowmove==1)runHook("placeLayer",FREPLACE) {runHook("placeLayer",FREPLACE);if(olHideForm)hideSelectBox();f(hoveringSwitch&&!olNs4&&runHook("cursorOff",FREPLACE)){(olHideDelay?hideDelay(olHideDelay):cClick());hoveringSwitch=!hoveringSwitch;}}
-//-->
-</script>
-
-<link rel="stylesheet" type="text/css" href="/stylesheets/mainMenu/mainMenu.css" media="screen, print" title="">
-<link rel="stylesheet" type="text/css" href="/skins/boxModel01/boxModelTemplate01.css" media="screen, print" title="">
-<link rel="stylesheet" type="text/css" href="/stylesheets/pageWrapper/pageWrapper.css" media="screen, print" title="">
-
+<script type="text/javascript" src="/javascript/idealistLib.11256.js"></script>
+<link rel="stylesheet" type="text/css" href="/stylesheets/pageWrapper/pageWrapper.css?v=11256" media="screen, print" title="" id="mainStylesheet">
+<link rel="stylesheet" type="text/css" href="/stylesheets/pageWrapper/pageWrapperTags.css?v=11256" media="screen, print" title="" id="mainStylesheetTags">
+<link rel="stylesheet" type="text/css" href="/stylesheets/pageWrapper/pageWrapperStructure.css?v=11256" media="screen, print" title="" id="mainStructure">
+<link rel="stylesheet" type="text/css" href="/stylesheets/sections/AllNavBoxes.css?v=11256" media="screen, print" title="" id="boxesStyles">
 
 </head>
 
-<body onload="javascript:changeFirstTableWidth()" style="height:1200px;">
+<body onload="initPageWrapper();" id="" class="en ">
+	<!-- google analytics -->
+	<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+	<script type="text/javascript">_uacct = "UA-804275-2"; urchinTracker(); </script>
 <a name="header" id="header"></a>
-	<table id="PW_Header_Screen" border="0" align="center" cellpadding="0" cellspacing="0" class="pageWrapper">
-	  <tbody><tr>
-		<td>
-	<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#ffffff" class="pageWrapper">
-  <tbody><tr>
-    <td id="headerT1_r1_c1_TD" colspan="3">
-<span style="display: none;" id="bZciZbZcfZa">
-
-	<script language="Javascript" src="/javascript/IF/Form.js"></script><script language="Javascript" src="/javascript/IF/Component.js"></script><script language="Javascript" src="/javascript/IF/FormComponent.js"></script><script language="Javascript" src="/javascript/IF/Validator.js"></script><script language="Javascript" src="/javascript/IF/SubmitButton.js"></script>
-<form id="bZciZbZcfZbf" name="1.28.1.25.15" method="POST" action="/if/idealist/en/MyIdealist/Login/login" style="margin:0px">
-<script language="javascript">
-	// instantiate the editor and initialise it on page load.
-	var bZciZbZcfZbf = new IFForm('bZciZbZcfZbf', "WRAPPER/HEADER/USER_LOGIN_COMPONENT/USER_LOGIN_FORM");
-	bZciZbZcfZbf.setCanOnlyBeSubmittedOnce();
+	<div id="PWheader" class="pageWrapper">
+		
+<div id="sessionBar">
+	<span style="display: none;" id="bZiZcZbbZa">
+	<script type="text/javascript" src="/javascript/IF/Form.js"></script><script type="text/javascript" src="/javascript/scriptaculous/prototype.js"></script><script type="text/javascript" src="/javascript/IF/Component.js"></script><script type="text/javascript" src="/javascript/IF/FormComponent.js"></script><script type="text/javascript" src="/javascript/IF/Validator.js"></script><script type="text/javascript" src="/javascript/IF/SubmitButton.js"></script>
+<form id="bZiZcZbbZbh" name="1_8_2_11_17" method="POST" action="/if/idealist/en/MyIdealist/Login/login" class="sessionForm">
+<script type="text/javascript">
+	var bZiZcZbbZbh = new IFForm('bZiZcZbbZbh', "WRAPPER/HEADER/USER_LOGIN_COMPONENT/USER_LOGIN_FORM");
+	bZiZcZbbZbh.setCanOnlyBeSubmittedOnce();
 </script>
-<script src="/javascript/IF/TextField.js"></script><input type="hidden" name="context-number" value="1" id="bZciZbZcfZbfZa_0">
-<script language="javascript">
-	var bZciZbZcfZbfZa_0 = new IFTextField("bZciZbZcfZbfZa_0", "WRAPPER/HEADER/USER_LOGIN_COMPONENT/USER_LOGIN_FORM/HIDDEN_KEY_VALUE");
-</script>
-	<input type="hidden" name="sid" value="" id="bZciZbZcfZbfZa_1">
-<script language="javascript">
-	var bZciZbZcfZbfZa_1 = new IFTextField("bZciZbZcfZbfZa_1", "WRAPPER/HEADER/USER_LOGIN_COMPONENT/USER_LOGIN_FORM/HIDDEN_KEY_VALUE");
+<script type="text/javascript" src="/javascript/IF/TextField.js"></script><input type="hidden" name="context-number" value="1" id="bZiZcZbbZbhZaL0">
+<script type="text/javascript">
+	var bZiZcZbbZbhZaL0 = new IFTextField("bZiZcZbbZbhZaL0", "WRAPPER/HEADER/USER_LOGIN_COMPONENT/USER_LOGIN_FORM/HIDDEN_KEY_VALUE");
 </script>
 	
 	
-			<span style="float:right; margin-left:10px;  margin-right:10px;" class="highlightBasic">
-				<a href="/if/idealist/en/MyIdealist/Logout/logout?sid=">Logout</a> 
-				<span class="basicFontweight">|</span> <a href="/if/h?sid=">Home</a>
+			<span class="sessionBarLinks">
+				<em><a href="/if/idealist/en/MyIdealist/Logout/logout">Logout</a></em> | <em><a href="/if/h">Home</a></em> | <em><strong>New!</strong> <a href="/podcast" title="Idealist Podcasts">Podcasts</a></em>
 			</span>
-			<span class="highlight">Hi <script src="/javascript/IF/Component.js"></script><script src="/javascript/IF/Span.js"></script><span id="bZciZbZcfZf_1"></span><script language="JavaScript">
-var bZciZbZcfZf_1 = new IFSpan("bZciZbZcfZf_1", "WRAPPER/HEADER/USER_LOGIN_COMPONENT/FIRST_NAME");
+			<strong>Hi <script src="/javascript/IF/Component.js"></script><script src="/javascript/IF/Span.js"></script><span id="bZiZcZbbZf_1"></span><script type="text/javascript">
+var bZiZcZbbZf_1 = new IFSpan("bZiZcZbbZf_1", "WRAPPER/HEADER/USER_LOGIN_COMPONENT/FIRST_NAME");
 if ("session.name".length) {
-    bZciZbZcfZf_1.setValue(session.name);
+    bZiZcZbbZf_1.setValue(session.name);
 };
-</script>! </span>
-			| <a href="/if/idealist/en/ControlPanel/MainPage/default?sid=">Your Control Panel</a>
+</script>!</strong> | <a href="/if/idealist/en/ControlPanel/MainPage/default">Your Control Panel</a>
 	
 </form>	
-
 </span>
-<script>if(session.isAuthenticated){ Element.show('bZciZbZcfZa');}</script>
+<script>if(session.isAuthenticated){ Element.show('bZiZcZbbZa');}</script>
 
-<span style="display: none;" id="bZciZbZcfZb">
-
+<span style="display: none;" id="bZiZcZbbZb">
 	
-<form id="bZciZbZcfZbf" name="1.28.1.25.15" method="POST" action="/if/idealist/en/MyIdealist/Login/login" style="margin:0px">
-<script language="javascript">
-	// instantiate the editor and initialise it on page load.
-	var bZciZbZcfZbf = new IFForm('bZciZbZcfZbf', "WRAPPER/HEADER/USER_LOGIN_COMPONENT/USER_LOGIN_FORM");
-	bZciZbZcfZbf.setCanOnlyBeSubmittedOnce();
+<form id="bZiZcZbbZbh" name="1_8_2_11_17" method="POST" action="/if/idealist/en/MyIdealist/Login/login" class="sessionForm">
+<script type="text/javascript">
+	var bZiZcZbbZbh = new IFForm('bZiZcZbbZbh', "WRAPPER/HEADER/USER_LOGIN_COMPONENT/USER_LOGIN_FORM");
+	bZiZcZbbZbh.setCanOnlyBeSubmittedOnce();
 </script>
-<input type="hidden" name="context-number" value="1" id="bZciZbZcfZbfZa_0">
-<script language="javascript">
-	var bZciZbZcfZbfZa_0 = new IFTextField("bZciZbZcfZbfZa_0", "WRAPPER/HEADER/USER_LOGIN_COMPONENT/USER_LOGIN_FORM/HIDDEN_KEY_VALUE");
-</script>
-	<input type="hidden" name="sid" value="" id="bZciZbZcfZbfZa_1">
-<script language="javascript">
-	var bZciZbZcfZbfZa_1 = new IFTextField("bZciZbZcfZbfZa_1", "WRAPPER/HEADER/USER_LOGIN_COMPONENT/USER_LOGIN_FORM/HIDDEN_KEY_VALUE");
+<input type="hidden" name="context-number" value="1" id="bZiZcZbbZbhZaL0">
+<script type="text/javascript">
+	var bZiZcZbbZbhZaL0 = new IFTextField("bZiZcZbbZbhZaL0", "WRAPPER/HEADER/USER_LOGIN_COMPONENT/USER_LOGIN_FORM/HIDDEN_KEY_VALUE");
 </script>
 	
 	
-			<span style="float:right; margin-left:10px;  margin-right:10px;" class="highlightBasic"><a href="/if/h?sid=">Home</a></span>
-			<span class="highlight">Hi <span id="bZciZbZcfZf_2"></span><script language="JavaScript">
-var bZciZbZcfZf_2 = new IFSpan("bZciZbZcfZf_2", "WRAPPER/HEADER/USER_LOGIN_COMPONENT/FIRST_NAME");
+			<span class="sessionBarLinks">
+				<em><a href="/if/h">Home</a></em> | <em><strong>New!</strong> <a href="/podcast" title="Idealist Podcasts">Podcasts</a></em>
+			</span>
+			<strong>Hi <span id="bZiZcZbbZf_2"></span><script type="text/javascript">
+var bZiZcZbbZf_2 = new IFSpan("bZiZcZbbZf_2", "WRAPPER/HEADER/USER_LOGIN_COMPONENT/FIRST_NAME");
 if ("session.name".length) {
-    bZciZbZcfZf_2.setValue(session.name);
+    bZiZcZbbZf_2.setValue(session.name);
 };
-</script>! </span>
-				<script src="/javascript/IF/TextField.js"></script><input type="password" name="password" id="bZciZbZcfZba" size="18" style="font-size:9px;" value=""><span id="bZciZbZcfZba-error" class="error" style="display: none;"></span>
-<script language="javascript">
-	var bZciZbZcfZba = new IFTextField("bZciZbZcfZba", "WRAPPER/HEADER/USER_LOGIN_COMPONENT/PASSWORD");
-	bZciZbZcfZba.setIsRequired(1);
-</script>
-				<input type="hidden" name="email" value="" id="bZciZbZcfZg">
-<script language="javascript">
-	var bZciZbZcfZg = new IFTextField("bZciZbZcfZg", "WRAPPER/HEADER/USER_LOGIN_COMPONENT/HIDDEN_EMAIL");
+</script>! </strong>
+				<script type="text/javascript" src="/javascript/IF/TextField.js"></script><input type="password" name="password" id="bZiZcZbbZbb" size="18" value=""><span id="bZiZcZbbZbb-error" class="error" style="display: none;"></span>
+<script type="text/javascript">
+	var bZiZcZbbZbb = new IFTextField("bZiZcZbbZbb", "WRAPPER/HEADER/USER_LOGIN_COMPONENT/PASSWORD");
+	bZiZcZbbZbb.setIsRequired(1);	
+	</script> <span class="rememberUser"><script type="text/javascript" src="/javascript/IF/CheckBox.js"></script><input type="checkbox" name="remember-me" value="1" id="bZiZcZbbZbc"><script type="text/javascript">var bZiZcZbbZbc = new IFCheckBox('bZiZcZbbZbc', 'WRAPPER/HEADER/USER_LOGIN_COMPONENT/REMEMBER_ME');
+bZiZcZbbZbc.setIsRequired(0);</script> Remember me</span>
+				<input type="hidden" name="email" value="" id="bZiZcZbbZg">
+<script type="text/javascript">
+	var bZiZcZbbZg = new IFTextField("bZiZcZbbZg", "WRAPPER/HEADER/USER_LOGIN_COMPONENT/HIDDEN_EMAIL");
 </script>
 					<script language="JavaScript">
 						if (typeof session != "undefined") { IFForm.lastRegisteredComponent.setValue(session.email); };
 					</script>
-				<script language="JAVASCRIPT" src="/javascript/IF/SubmitButton.js"></script><input type="submit" id="bZciZbZcfZbd" name="1.28.1.25.13" style="font-size:10px;" value="Login"> <script language="JAVASCRIPT">var bZciZbZcfZbd = new IFSubmitButton("bZciZbZcfZbd", "WRAPPER/HEADER/USER_LOGIN_COMPONENT/SUBMIT", "---] ... [---");bZciZbZcfZbd.setCanOnlyBeClickedOnce(0);</script>
-				 | <a href="/if/idealist/en/MyIdealist/Logout/invalidateSession?sid=">I'm not <span id="bZciZbZcfZf_3"></span><script language="JavaScript">
-var bZciZbZcfZf_3 = new IFSpan("bZciZbZcfZf_3", "WRAPPER/HEADER/USER_LOGIN_COMPONENT/FIRST_NAME");
+				<script type="text/javascript" src="/javascript/IF/SubmitButton.js"></script><input type="submit" id="bZiZcZbbZbf" name="1_8_2_11_15" class="button" value="Login"> <script type="text/javascript">var bZiZcZbbZbf = new IFSubmitButton("bZiZcZbbZbf", "WRAPPER/HEADER/USER_LOGIN_COMPONENT/SUBMIT", "...");bZiZcZbbZbf.setCanOnlyBeClickedOnce(0);</script>
+				 | <a href="/if/idealist/en/MyIdealist/Logout/invalidateSession">I'm not <span id="bZiZcZbbZf_3"></span><script type="text/javascript">
+var bZiZcZbbZf_3 = new IFSpan("bZiZcZbbZf_3", "WRAPPER/HEADER/USER_LOGIN_COMPONENT/FIRST_NAME");
 if ("session.name".length) {
-    bZciZbZcfZf_3.setValue(session.name);
+    bZiZcZbbZf_3.setValue(session.name);
 };
 </script></a>
 	
 </form>	
-
 </span>
-<script>if(session.isKnown && !session.isAuthenticated){ Element.show('bZciZbZcfZb');}</script>
+<script>if(session.isKnown && !session.isAuthenticated){ Element.show('bZiZcZbbZb');}</script>
 
-<span style="" id="bZciZbZcfZc">
-
+<span style="display: none;" id="bZiZcZbbZc">
 	
-<form id="bZciZbZcfZbf" name="1.28.1.25.15" method="POST" action="/if/idealist/en/MyIdealist/Login/login" style="margin:0px">
-<script language="javascript">
-	// instantiate the editor and initialise it on page load.
-	var bZciZbZcfZbf = new IFForm('bZciZbZcfZbf', "WRAPPER/HEADER/USER_LOGIN_COMPONENT/USER_LOGIN_FORM");
-	bZciZbZcfZbf.setCanOnlyBeSubmittedOnce();
+<form id="bZiZcZbbZbh" name="1_8_2_11_17" method="POST" action="/if/idealist/en/MyIdealist/Login/login" class="sessionForm">
+<script type="text/javascript">
+	var bZiZcZbbZbh = new IFForm('bZiZcZbbZbh', "WRAPPER/HEADER/USER_LOGIN_COMPONENT/USER_LOGIN_FORM");
+	bZiZcZbbZbh.setCanOnlyBeSubmittedOnce();
 </script>
-<input type="hidden" name="context-number" value="1" id="bZciZbZcfZbfZa_0">
-<script language="javascript">
-	var bZciZbZcfZbfZa_0 = new IFTextField("bZciZbZcfZbfZa_0", "WRAPPER/HEADER/USER_LOGIN_COMPONENT/USER_LOGIN_FORM/HIDDEN_KEY_VALUE");
-</script>
-	<input type="hidden" name="sid" value="" id="bZciZbZcfZbfZa_1">
-<script language="javascript">
-	var bZciZbZcfZbfZa_1 = new IFTextField("bZciZbZcfZbfZa_1", "WRAPPER/HEADER/USER_LOGIN_COMPONENT/USER_LOGIN_FORM/HIDDEN_KEY_VALUE");
+<input type="hidden" name="context-number" value="1" id="bZiZcZbbZbhZaL0">
+<script type="text/javascript">
+	var bZiZcZbbZbhZaL0 = new IFTextField("bZiZcZbbZbhZaL0", "WRAPPER/HEADER/USER_LOGIN_COMPONENT/USER_LOGIN_FORM/HIDDEN_KEY_VALUE");
 </script>
 	
 	
-			<span style="float:right; margin-left:10px;  margin-right:10px;" class="highlightBasic">
-				<a href="/if/idealist/en/MyIdealist/Register/default?sid="><span class="highlightBasic">Sign up</span></a>
-				<span class="basicFontweight">|</span> 
-				<a href="/if/h?sid=">Home</a></span>
+			<span class="sessionBarLinks">
+				<em><a href="/if/idealist/en/MyIdealist/Register/default">Sign up</a></em> | <em><a href="/if/h">Home</a></em> | <em><strong>New!</strong> <a href="/podcast" title="Idealist Podcasts">Podcasts</a></em>
+			</span>
 
-			 Email: <script src="/javascript/IF/TextField.js"></script><input name="email" id="bZciZbZcfZe" size="30" style="font-size:12px;" value=""><span id="bZciZbZcfZe-error" class="error" style="display: none;"></span>
-<script language="javascript">
-	var bZciZbZcfZe = new IFTextField("bZciZbZcfZe", "WRAPPER/HEADER/USER_LOGIN_COMPONENT/EMAIL");
-	bZciZbZcfZe.setIsRequired(1);
-</script> &nbsp;&nbsp;&nbsp;&nbsp;
+			 Email: <script type="text/javascript" src="/javascript/IF/TextField.js"></script><input name="email" id="bZiZcZbbZe" size="30" value=""><span id="bZiZcZbbZe-error" class="error" style="display: none;"></span>
+<script type="text/javascript">
+	var bZiZcZbbZe = new IFTextField("bZiZcZbbZe", "WRAPPER/HEADER/USER_LOGIN_COMPONENT/EMAIL");
+	bZiZcZbbZe.setIsRequired(1);
+	</script> &nbsp;&nbsp;&nbsp;&nbsp;
 					<script language="JavaScript">
 						if (typeof session != "undefined") { IFForm.lastRegisteredComponent.setValue(session.email); };
 					</script>
-			 Password: <input type="password" name="password" id="bZciZbZcfZba" size="10" style="font-size:12px;" value=""><span id="bZciZbZcfZba-error" class="error" style="display: none;"></span>
-<script language="javascript">
-	var bZciZbZcfZba = new IFTextField("bZciZbZcfZba", "WRAPPER/HEADER/USER_LOGIN_COMPONENT/PASSWORD");
-	bZciZbZcfZba.setIsRequired(1);
-</script>
-			<input type="submit" id="bZciZbZcfZbd" name="1.28.1.25.13" style="font-size:10px;" value="Login"> <script language="JAVASCRIPT">var bZciZbZcfZbd = new IFSubmitButton("bZciZbZcfZbd", "WRAPPER/HEADER/USER_LOGIN_COMPONENT/SUBMIT", "---] ... [---");bZciZbZcfZbd.setCanOnlyBeClickedOnce(0);</script>
+			 Password: <input type="password" name="password" id="bZiZcZbbZbb" size="10" value=""><span id="bZiZcZbbZbb-error" class="error" style="display: none;"></span>
+<script type="text/javascript">
+	var bZiZcZbbZbb = new IFTextField("bZiZcZbbZbb", "WRAPPER/HEADER/USER_LOGIN_COMPONENT/PASSWORD");
+	bZiZcZbbZbb.setIsRequired(1);	
+	</script> <span class="rememberUser"><input type="checkbox" name="remember-me" value="1" id="bZiZcZbbZbc"><script type="text/javascript">var bZiZcZbbZbc = new IFCheckBox('bZiZcZbbZbc', 'WRAPPER/HEADER/USER_LOGIN_COMPONENT/REMEMBER_ME');
+bZiZcZbbZbc.setIsRequired(0);</script> Remember me</span>
+			<input type="submit" id="bZiZcZbbZbf" name="1_8_2_11_15" class="button" value="Login"> <script type="text/javascript">var bZiZcZbbZbf = new IFSubmitButton("bZiZcZbbZbf", "WRAPPER/HEADER/USER_LOGIN_COMPONENT/SUBMIT", "...");bZiZcZbbZbf.setCanOnlyBeClickedOnce(0);</script>
 	
 </form>	
-
 </span>
-<script>if(!session.isKnown  && !session.isAuthenticated){ Element.show('bZciZbZcfZc');}</script>
-</td>
-  </tr>
-  <tr>
-    <td id="headerT1_r2_c1_TD"><img name="headerT1_r2_c1" src="/images/en/pageWrapper/header/headerT1_r2_c1.jpg" width="3" height="3" border="0" alt=""></td>
-    <td id="headerT1_r2_c2_TD"><img name="headerT1_r2_c2" src="/images/en/pageWrapper/header/headerT1_r2_c2.jpg" width="754" height="3" border="0" alt=""></td>
-    <td id="headerT1_r2_c3_TD"><img name="headerT1_r2_c3" src="/images/en/pageWrapper/header/headerT1_r2_c3.jpg" width="3" height="3" border="0" alt=""></td>
-  </tr>
-</tbody></table>
-<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#ffffff" class="pageWrapper">
-  <tbody><tr>
-   <td id="headerT2_r1_c1_TD"><a href="/if/h?sid="><img name="headerT2_r1_c1" src="/images/en/pageWrapper/header/headerT2_r1_c1.gif" width="379" height="110" border="0" alt=""></a></td>
-   <td id="headerT2_r1_c2_TD">
-   <div class="highlight fontLarge">What are you looking for?</div>
-   	
-<form id="bZciZbZcc" name="1.28.1.22" method="GET" action="/if/idealist/en/SiteIndex/Search/search" class="pwSearchForm" style="padding-top:5px;">
-<script language="javascript">
-	// instantiate the editor and initialise it on page load.
-	var bZciZbZcc = new IFForm('bZciZbZcc', "WRAPPER/HEADER/SEARCH_FORM");
-	bZciZbZcc.setCanOnlyBeSubmittedOnce();
+<script>if(!session.isKnown  && !session.isAuthenticated){ Element.show('bZiZcZbbZc');}</script>
+
+</div>
+
+<h1 id="idealistLogoBox"><a href="/if/h" title="idealist.org" id="idealistLogo">idealist.org</a></h1>
+<div id="indexSearch">
+		
+<form id="bZiZcZj" name="1_8_2_9" method="GET" action="/if/idealist/en/SiteIndex/Search/search" class="pwSearchForm">
+<script type="text/javascript">
+	var bZiZcZj = new IFForm('bZiZcZj', "WRAPPER/HEADER/SEARCH_FORM");
+	bZiZcZj.setCanOnlyBeSubmittedOnce();
 </script>
-<input type="hidden" name="context-number" value="1" id="bZciZbZccZa_0">
-<script language="javascript">
-	var bZciZbZccZa_0 = new IFTextField("bZciZbZccZa_0", "WRAPPER/HEADER/SEARCH_FORM/HIDDEN_KEY_VALUE");
-</script>
-	<input type="hidden" name="sid" value="" id="bZciZbZccZa_1">
-<script language="javascript">
-	var bZciZbZccZa_1 = new IFTextField("bZciZbZccZa_1", "WRAPPER/HEADER/SEARCH_FORM/HIDDEN_KEY_VALUE");
+<input type="hidden" name="context-number" value="1" id="bZiZcZjZaL0">
+<script type="text/javascript">
+	var bZiZcZjZaL0 = new IFTextField("bZiZcZjZaL0", "WRAPPER/HEADER/SEARCH_FORM/HIDDEN_KEY_VALUE");
 </script>
 	
 	
-		<input class="pwSearchFormTextInput" name="keywords" id="keywords" value="" onfocus="
-		if (this.value == 'Enter one or more words') 
-		this.value ='';			
-		" onblur="if (this.value == '') 
-		this.value ='Enter one or more words';			
-		">
-		<input type="submit" id="bZciZbZce" name="1.28.1.24" value="Search"> <script language="JAVASCRIPT">var bZciZbZce = new IFSubmitButton("bZciZbZce", "WRAPPER/HEADER/SUBMIT_BUTTON", "---] ... [---");bZciZbZce.setCanOnlyBeClickedOnce(0);</script>
-	
+			<input class="pwSearchFormTextInput" name="keywords" id="keywords" value="">
+	<input type="submit" id="bZiZcZba" name="1_8_2_10" value="Search" class="pwSearchFormButton"> <script type="text/javascript">var bZiZcZba = new IFSubmitButton("bZiZcZba", "WRAPPER/HEADER/SUBMIT_BUTTON", "...");bZiZcZba.setCanOnlyBeClickedOnce(0);</script>
+
 </form>
-	<div style="padding-top:5px;">
-		<div class="bulletBox06">
-		<a href="/if/as/Find?sid=">Advanced searches</a> | <img src="/images/envelope.gif" style="position:relative; top:1px;" border="0" height="10" hspace="3" vspace="1"> <a href="/if/idealist/en/Mail/EmailAlerts/default?sid=">Email alerts</a> | <img src="/images/secondaryIcons/feed-icon-12x12.gif" style="position:relative; top:1px;" border="0" padding="1">
-		<a href="/if/idealist/en/RSS/RSS/default?sid=">RSS feeds</a>
-		</div>	
-	</div>
-	<div style="padding-top:5px;">		
-	<div class="bulletBox06"><a href="/if/idealist/en/Post/default?sid=">Join the 67,231 organizations already on Idealist</a></div>	
-	</div>		
-   </td>
-  </tr>
-</tbody></table>
-<table width="760" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#ffffff" class="pageWrapper">
+</div>
+<ul id="headerLinks" class="linkList">
+	<li class="advSearchLink"><a href="/if/as/Find">Advanced searches</a></li>
+	<li class="emailAlertsLink"><a href="/if/idealist/en/Mail/EmailAlerts/default">Email alerts</a></li>
+	<li id="pwHeaderRssLink" class="rssLink"><a href="/if/idealist/en/RSS/RSS/default">RSS feeds</a></li>
+	<li class="pwHeaderAddGroup"><a href="/if/idealist/en/Org/TypeChooser/default">Add your organization / group</a></li>
+</ul>
+
+<table id="siteMainMenu" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#ffffff" class="pageWrapper">
   <tbody><tr>
    <td id="headerT3_r1_c1_TD"><img name="headerT3_r1_c1" src="/images/en/pageWrapper/header/headerT3_r1_c1.jpg" width="1" height="24" border="0" alt=""></td>
-   <td id="headerT3_r1_c2_TD" class="pwHeaderFooterLinks">
-<a href="/en/about/index.html?sid=">About Us</a>
+   <td id="headerT3_r1_c2_TD" class="pwHeaderFooterLinks"><a href="/en/about/index.html?">About Us</a>
 |
-<a href="/en/about/contact.html?sid=#contact">Contact Us</a>
+<a href="/en/about/contact.html?#contact">Contact Us</a>
 |
-<a href="/if/idealist/en/Languages/default?sid=">Other Languages</a>
+<a href="/if/idealist/en/Languages/default">Languages</a>
 |
-<a href="/if/idealist/en/FAQ/CategoryViewer/default?category-name=IDEALIST_HELP&amp;sid=">Help</a></td>
+<a href="/en/resources.html?">Resources</a>
+|
+<a href="/if/i/en/helpfaq">Help</a></td>
    <td id="headerT3_r1_c3_TD"><img name="headerT3_r1_c3" src="/images/en/pageWrapper/header/headerT3_r1_c3.jpg" width="7" height="24" border="0" alt=""></td>
-		<td id="headerT3_r1_c4_TD" class="pwHeaderFooterLinks"><a href="/if/idealist/en/Invite/default?sid=">Imagine</a>
+		<td id="headerT3_r1_c4_TD" class="pwHeaderFooterLinks"><span id="menuImagine"><a href="/if/idealist/en/Invite/default">Imagine</a>
 |
-<a href="/if/idealist/en/Post/default?sid=">Post</a>
+</span>
+<span id="menuPost"><a href="/if/idealist/en/Post/Simplified/default">Post</a>
 |
-<a href="/if/as/Find?sid=">Find</a>
+</span>
+<span id="menuFind"><a href="/if/as/Find">Find</a>
 |
-<a href="/if/idealist/en/Connect/default?sid=">Connect</a>
+</span>
+<span id="menuSpreadIdealist"><a href="/if/idealist/en/SpreadIdealist/Main/default">Spread Idealist</a>
 |
-<a href="/en/ReachOut/index.html?sid=">Reach Out</a>
+</span>
+<span id="menuGroups"><a href="/if/idealist/en/Org/IdealistGroups/default">Groups</a>
 |
-<a href="/if/idealist/en/Donate/default?sid=">Donate</a></td> 
+</span>
+<span id="menuForums"><a href="/if/en/forum">Forums</a>
+|
+</span>
+<span id="menuDonate"><a href="/if/idealist/en/Donate/default">Donate</a></span></td> 
    <td id="headerT3_r1_c5_TD"><img name="headerT3_r1_c5" src="/images/en/pageWrapper/header/headerT3_r1_c5.jpg" width="8" height="24" border="0" alt=""></td>	
   </tr>
 </tbody></table>
-		</td>
-	  </tr>
-	</tbody></table>
-<div id="PW_Hidden" style="">
+
+
+	</div>
+<!-- <div id="loadingContent"><img src="/images/loading.gif" /></div> -->
+<div id="PW_Hidden">
+<!-- <script type="text/javascript">$('PW_Hidden').style.display = 'none'; $('loadingContent').style.display = 'block';</script> -->
 	<div onmouseover="if (document.getElementById('footerT4')) {document.getElementById('footerT4').className='transparent01';}">
 		<table border="0" align="center" cellpadding="0" cellspacing="0" class="pageWrapper">
 		  <tbody><tr>
+		  
+		  	<td id="pwLeftNavigation">
+				<div id="pwLeftNavigationContent">
+					<!-- LEFT NAV -->
+					<div class="boxModel03">
+	
+<!--Idealist/en/Box/UsersPhotos3x3 box-->
+
+	 <h2>New on Idealist:</h2>
+	 	<div class="newOnIdealistPhotoGallery">
+				<div id="homePhotosGalery"> 
+		<table border="0" align="center" cellpadding="0" cellspacing="0">
+		 
+			  <tbody><tr>
+				 
+					<td width="57">
+						<div style="text-align:center; position:relative; height:42px; width:57px; overflow:hidden;"> 
+								<a href="http://www.idealist.org/en/userprofile/139333-95">
+	
+<script type="text/javascript">
+
+	var IQ_DICTIONARY = {"IQ_CLICK_TO_READ_MORE":"Click to read more"};
+
+</script>
+
+
+<span id="bZiZdZiZaL0_0_display" onmouseout="return IQ_bZiZdZiZaL0_0.hide();" onmouseover="return IQ_bZiZdZiZaL0_0.render();"><img src="/images/uploaded/Invite/user/10/28/97-ApprComment-w57h42.jpg" height="42" width="57" id="bZiZdZiZaZbL0_0" class="footerPhotos"></span>
+<script type="text/javascript">
+	var IQ_bZiZdZiZaL0_0 = new ImageQuote();
+	IQ_bZiZdZiZaL0_0.initialize('bZiZdZiZaL0_0', 'IMAGE_QUOTE');
+	IQ_bZiZdZiZaL0_0.setProperties({"imageUrl":"/images/uploaded/Invite/user/10/10/49-w171h128.jpg","creditText":"timothy, atlanta, United States","quoteText":"absolutely necessary connecting the consciousnesses and courage with the thought-leaders & cheerleaders. Let's discuss....."});
+	if (IQ_DICTIONARY) {
+		IQ_bZiZdZiZaL0_0.setTranslationDictionary(IQ_DICTIONARY);
+	}
+</script>
+
+
+</a>
+						</div>
+					</td>
+				 
+					<td width="57">
+						<div style="text-align:center; position:relative; height:42px; width:57px; overflow:hidden;"> 
+								<a href="http://www.idealist.org/en/userprofile/136971-11">
+
+<span id="bZiZdZiZaL0_1_display" onmouseout="return IQ_bZiZdZiZaL0_1.hide();" onmouseover="return IQ_bZiZdZiZaL0_1.render();"><img src="/images/uploaded/Invite/user/09/12/12-ApprComment-w57h42.jpg" height="42" width="57" id="bZiZdZiZaZbL0_1" class="footerPhotos"></span>
+<script type="text/javascript">
+	var IQ_bZiZdZiZaL0_1 = new ImageQuote();
+	IQ_bZiZdZiZaL0_1.initialize('bZiZdZiZaL0_1', 'IMAGE_QUOTE');
+	IQ_bZiZdZiZaL0_1.setProperties({"imageUrl":"/images/uploaded/Invite/user/09/09/42-w171h128.jpg","creditText":"Jude , Port au Prince, Haiti","quoteText":"Let's join together for a better world, a world where human right and human person dignity are respected!..."});
+	if (IQ_DICTIONARY) {
+		IQ_bZiZdZiZaL0_1.setTranslationDictionary(IQ_DICTIONARY);
+	}
+</script>
+
+
+</a>
+						</div>
+					</td>
+				 
+					<td width="57">
+						<div style="text-align:center; position:relative; height:42px; width:57px; overflow:hidden;"> 
+								<a href="http://www.idealist.org/en/userprofile/139656-236">
+
+<span id="bZiZdZiZaL0_2_display" onmouseout="return IQ_bZiZdZiZaL0_2.hide();" onmouseover="return IQ_bZiZdZiZaL0_2.render();"><img src="/images/uploaded/Invite/user/10/28/31-ApprComment-w57h42.jpg" height="42" width="57" id="bZiZdZiZaZbL0_2" class="footerPhotos"></span>
+<script type="text/javascript">
+	var IQ_bZiZdZiZaL0_2 = new ImageQuote();
+	IQ_bZiZdZiZaL0_2.initialize('bZiZdZiZaL0_2', 'IMAGE_QUOTE');
+	IQ_bZiZdZiZaL0_2.setProperties({"imageUrl":"/images/uploaded/Invite/user/10/24/61-w171h148.jpg","creditText":"Emilia, Bochum, Germany","quoteText":"It is a great opportunity connecting people, movements and organisations of the same interests. We can see how many..."});
+	if (IQ_DICTIONARY) {
+		IQ_bZiZdZiZaL0_2.setTranslationDictionary(IQ_DICTIONARY);
+	}
+</script>
+
+
+</a>
+						</div>
+					</td>
+				 
+			  </tr>
+		 
+			  <tr>
+				 
+					<td width="57">
+						<div style="text-align:center; position:relative; height:42px; width:57px; overflow:hidden;"> 
+								<a href="http://www.idealist.org/en/userprofile/139522-96">
+
+<span id="bZiZdZiZaL1_0_display" onmouseout="return IQ_bZiZdZiZaL1_0.hide();" onmouseover="return IQ_bZiZdZiZaL1_0.render();"><img src="/images/uploaded/Invite/user/10/28/85-ApprComment-w57h42.jpg" height="42" width="57" id="bZiZdZiZaZbL1_0" class="footerPhotos"></span>
+<script type="text/javascript">
+	var IQ_bZiZdZiZaL1_0 = new ImageQuote();
+	IQ_bZiZdZiZaL1_0.initialize('bZiZdZiZaL1_0', 'IMAGE_QUOTE');
+	IQ_bZiZdZiZaL1_0.setProperties({"imageUrl":"/images/uploaded/Invite/user/10/19/58-w171.jpg","creditText":"Audrey, New York, United States","quoteText":"I think there are so many global changes to be made before we as humans, in our separate but interconnected societies,..."});
+	if (IQ_DICTIONARY) {
+		IQ_bZiZdZiZaL1_0.setTranslationDictionary(IQ_DICTIONARY);
+	}
+</script>
+
+
+</a>
+						</div>
+					</td>
+				 
+					<td width="57">
+						<div style="text-align:center; position:relative; height:42px; width:57px; overflow:hidden;"> 
+								<a href="http://www.idealist.org/en/userprofile/137891-321">
+
+<span id="bZiZdZiZaL1_1_display" onmouseout="return IQ_bZiZdZiZaL1_1.hide();" onmouseover="return IQ_bZiZdZiZaL1_1.render();"><img src="/images/uploaded/Invite/user/09/61/73-ApprComment-w57h42.jpg" height="42" width="57" id="bZiZdZiZaZbL1_1" class="footerPhotos"></span>
+<script type="text/javascript">
+	var IQ_bZiZdZiZaL1_1 = new ImageQuote();
+	IQ_bZiZdZiZaL1_1.initialize('bZiZdZiZaL1_1', 'IMAGE_QUOTE');
+	IQ_bZiZdZiZaL1_1.setProperties({"imageUrl":"/images/uploaded/Invite/user/09/50/99-w171h127.jpg","creditText":"Bryan, Jersey City, United States","quoteText":"This site is great, there should be more sites online that are doing what idealist is doing.  They are really bring..."});
+	if (IQ_DICTIONARY) {
+		IQ_bZiZdZiZaL1_1.setTranslationDictionary(IQ_DICTIONARY);
+	}
+</script>
+
+
+</a>
+						</div>
+					</td>
+				 
+					<td width="57">
+						<div style="text-align:center; position:relative; height:42px; width:57px; overflow:hidden;"> 
+								<a href="http://www.idealist.org/en/userprofile/139160-11">
+
+<span id="bZiZdZiZaL1_2_display" onmouseout="return IQ_bZiZdZiZaL1_2.hide();" onmouseover="return IQ_bZiZdZiZaL1_2.render();"><img src="/images/uploaded/Invite/user/10/47/38-ApprComment-w57h42.jpg" height="42" width="57" id="bZiZdZiZaZbL1_2" class="footerPhotos"></span>
+<script type="text/javascript">
+	var IQ_bZiZdZiZaL1_2 = new ImageQuote();
+	IQ_bZiZdZiZaL1_2.initialize('bZiZdZiZaL1_2', 'IMAGE_QUOTE');
+	IQ_bZiZdZiZaL1_2.setProperties({"imageUrl":"/images/uploaded/Invite/user/10/02/41-w171h114.jpg","creditText":"Brian, San Luis Obisp, United States","quoteText":"An excellent way to network, educate, learn and get involved in community and international issues to help MAKE and 'BE..."});
+	if (IQ_DICTIONARY) {
+		IQ_bZiZdZiZaL1_2.setTranslationDictionary(IQ_DICTIONARY);
+	}
+</script>
+
+
+</a>
+						</div>
+					</td>
+				 
+			  </tr>
+		 
+			  <tr>
+				 
+					<td width="57">
+						<div style="text-align:center; position:relative; height:42px; width:57px; overflow:hidden;"> 
+								<a href="http://www.idealist.org/en/userprofile/139579-46">
+
+<span id="bZiZdZiZaL2_0_display" onmouseout="return IQ_bZiZdZiZaL2_0.hide();" onmouseover="return IQ_bZiZdZiZaL2_0.render();"><img src="/images/uploaded/Invite/user/10/28/81-ApprComment-w57h42.jpg" height="42" width="57" id="bZiZdZiZaZbL2_0" class="footerPhotos"></span>
+<script type="text/javascript">
+	var IQ_bZiZdZiZaL2_0 = new ImageQuote();
+	IQ_bZiZdZiZaL2_0.initialize('bZiZdZiZaL2_0', 'IMAGE_QUOTE');
+	IQ_bZiZdZiZaL2_0.setProperties({"imageUrl":"/images/uploaded/Invite/user/10/21/44-w171h142.jpg","creditText":"Candi, Las Vegas, United States","quoteText":"Action means progress; progression towards a collective community with common goals is a beautiful thing...."});
+	if (IQ_DICTIONARY) {
+		IQ_bZiZdZiZaL2_0.setTranslationDictionary(IQ_DICTIONARY);
+	}
+</script>
+
+
+</a>
+						</div>
+					</td>
+				 
+					<td width="57">
+						<div style="text-align:center; position:relative; height:42px; width:57px; overflow:hidden;"> 
+								<a href="http://www.idealist.org/en/userprofile/138753-110">
+
+<span id="bZiZdZiZaL2_1_display" onmouseout="return IQ_bZiZdZiZaL2_1.hide();" onmouseover="return IQ_bZiZdZiZaL2_1.render();"><img src="/images/uploaded/Invite/user/10/00/92-ApprComment-w57h42.jpg" height="42" width="57" id="bZiZdZiZaZbL2_1" class="footerPhotos"></span>
+<script type="text/javascript">
+	var IQ_bZiZdZiZaL2_1 = new ImageQuote();
+	IQ_bZiZdZiZaL2_1.initialize('bZiZdZiZaL2_1', 'IMAGE_QUOTE');
+	IQ_bZiZdZiZaL2_1.setProperties({"imageUrl":"/images/uploaded/Invite/user/09/85/70-w171h128.jpg","creditText":"natalie, Provo, United States","quoteText":"...."});
+	if (IQ_DICTIONARY) {
+		IQ_bZiZdZiZaL2_1.setTranslationDictionary(IQ_DICTIONARY);
+	}
+</script>
+
+
+</a>
+						</div>
+					</td>
+				 
+					<td width="57">
+						<div style="text-align:center; position:relative; height:42px; width:57px; overflow:hidden;"> 
+								<a href="http://www.idealist.org/en/userprofile/139386-245">
+
+<span id="bZiZdZiZaL2_2_display" onmouseout="return IQ_bZiZdZiZaL2_2.hide();" onmouseover="return IQ_bZiZdZiZaL2_2.render();"><img src="/images/uploaded/Invite/user/10/28/91-ApprComment-w57h42.jpg" height="42" width="57" id="bZiZdZiZaZbL2_2" class="footerPhotos"></span>
+<script type="text/javascript">
+	var IQ_bZiZdZiZaL2_2 = new ImageQuote();
+	IQ_bZiZdZiZaL2_2.initialize('bZiZdZiZaL2_2', 'IMAGE_QUOTE');
+	IQ_bZiZdZiZaL2_2.setProperties({"imageUrl":"/images/uploaded/Invite/user/10/12/75-w171h115.jpg","creditText":"Ralph, El Paso, United States","quoteText":"I consider El Paso a piece of the United States that everyone forgot. There is a big lack of critical thinking in this..."});
+	if (IQ_DICTIONARY) {
+		IQ_bZiZdZiZaL2_2.setTranslationDictionary(IQ_DICTIONARY);
+	}
+</script>
+
+
+</a>
+						</div>
+					</td>
+				 
+			  </tr>
+		 
+		</tbody></table>
+
+	</div>
+	
+		</div>
+	<p class="NewOnIdealistCountBox">
+		<strong>223,538 so far.</strong>
+		<a href="/if/idealist/en/MyIdealist/PeopleRecent/default"> See Latest Comments</a>
+	</p>
+<!--/Idealist/en/Box/UsersPhotos3x3 box-->
+
+</div>
+
+					<style type="text/css">
+<!--
+#boxAdvancedSearches{
+	margin-top:10px;
+	}
+#boxAdvancedSearches .advancedSearchesTitle {
+	display:none;
+}
+#boxAdvancedSearches .bulletBox01 {
+	background-image:none;
+	margin:0px;
+	padding:0px;
+}
+-->
+</style>
+<div id="boxPostFindReceive">
+	<style type="text/css">
+<!--
+@import url(/stylesheets/pageWrapper/tabs.css);
+-->
+</style>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td>
+		<div class="headerMenu">
+			<ul id="PF_Tabs">
+			<li id="PFtab-A" onclick="SetTabs(this.id);" class=""><a href="javascript:;">Post</a></li>
+			<li id="PFtab-B" onclick="SetTabs(this.id);" class="current"><a href="javascript:;">Find</a></li>
+			</ul>
+		</div>
+	</td>
+  </tr>
+</tbody></table>
+<div id="PFtab-A-box" class="boxModel03" style="clear: both; display: none;">
+	
+		<div class="bulletBox06"><a href="/if/idealist/en/Post/Simplified/default?item-type=Job">Job</a></div>
+	
+		<div class="bulletBox06"><a href="/if/idealist/en/Post/Simplified/default?item-type=Program">Program</a></div>
+	
+		<div class="bulletBox06"><a href="/if/idealist/en/Post/Simplified/default?item-type=VolunteerOpportunity">Volunteer Opportunity</a></div>
+	
+		<div class="bulletBox06"><a href="/if/idealist/en/Post/Simplified/default?item-type=Event">Event</a></div>
+	
+		<div class="bulletBox06"><a href="/if/idealist/en/Post/Simplified/default?item-type=Internship">Internship</a></div>
+	
+		<div class="bulletBox06"><a href="/if/idealist/en/Post/Simplified/default?item-type=Materials">Materials</a></div>
+	
+		<div class="bulletBox06"><a href="/if/idealist/en/Post/Simplified/default?item-type=Campaign">Campaign</a></div>
+	
+</div>
+<div id="PFtab-B-box" class="boxModel03" style="clear: both;">
+	<div id="boxAdvancedSearches">
+		<div class="bulletBox01">
+	<div class="highlight fontLarge title01Margin advancedSearchesTitle">Find:</div>
+		<div class="AdvancedSearchesGroupA">
+			
+			<div class="bulletBox06"><a href="/if/as/Job">Nonprofit Jobs</a>&nbsp;<span class="color03 fontSmall">(7,096)</span></div> 
+			
+			<div class="bulletBox06"><a href="/if/as/vol">Volunteer opportunities</a>&nbsp;<span class="color03 fontSmall">(11,833)</span></div>
+			
+			<div class="bulletBox06"><a href="/if/as/Org/npo">Organizations</a><span class="color03 fontSmall">&nbsp;(71,932)</span></div>
+			 
+			<div class="bulletBox06"><a href="/if/as/Org/ig">Idealist Groups</a>&nbsp;<span class="color03 fontSmall">(473)</span></div>
+			
+			<div class="bulletBox06"><a href="/if/as/Consultant">Consultants</a><span class="color03 fontSmall">&nbsp;(973)</span></div>
+			 
+			
+			<div class="bulletBox06"><a href="/if/as/Internship">Internships</a>&nbsp;<span class="color03 fontSmall">(1,792)</span></div>
+			 
+			
+			<div class="bulletBox06"><a href="/if/as/Program">Programs</a>&nbsp;<span class="color03 fontSmall">(1,738)</span></div>
+			   
+		</div>
+		
+		<div class="AdvancedSearchesGroupB">
+			
+			<div class="bulletBox06"><a href="/if/as/UserProfile">People</a>&nbsp;<span class="color03 fontSmall">(131,972)</span></div>
+			<div class="bulletBox06"><a href="/if/as/uvol">Volunteers</a>&nbsp;<span class="color03 fontSmall">(73,527)</span></div>
+			
+			<div class="bulletBox06"><a href="/if/as/Materials">Materials</a>&nbsp;<span class="color03 fontSmall">(7,016)</span></div> 
+			
+			<div class="bulletBox06"><a href="/if/as/UserSpeakerProfile">Speakers</a>&nbsp;<span class="color03 fontSmall">(2,834)</span></div>
+			
+			<div class="bulletBox06"><a href="/if/as/Event/evt">Events</a>&nbsp;<span class="color03 fontSmall">(370)</span></div> 
+			
+			
+			<div class="bulletBox06"><a href="/if/as/Campaign">Campaigns</a>&nbsp;<span class="color03 fontSmall">(563)</span></div> 
+			
+			<div class="bulletBox06"><a href="/if/i/en/npofaq">Nonprofit FAQ</a></div>
+			
+		</div>
+		
+		<div style="clear:both; height:1px; font-size:1px;"></div>
+</div>
+
+	</div>
+</div>
+
+<script language="javascript">
+var PF_tabs = $('PF_Tabs').getElementsByTagName('li');
+function SetTabs(tab){
+	for (i = 0; i < PF_tabs.length; i++) {
+		box = PF_tabs[i].id+'-box';
+		PF_tabs[i].className = '';
+		Element.hide(box);
+	}
+
+	Element.show(tab+'-box');
+	$(tab).className = 'current';
+}
+SetTabs('PFtab-B');
+</script>
+</div>
+					<style type="text/css">
+<!--
+.boxBlogPostsLoop {
+	border-bottom:1px dashed #ccc;
+	padding-bottom:5px;
+	margin-bottom:5px;
+	}
+
+-->
+</style>
+<div class="boxModel03">
+	
+	<h2>What's going on</h2>
+		<ul class="linkList boxBlogPostsLoop">
+		
+			<li><a href="/if/idealist/en/Blog/EntryViewerPage/default?blog-entry-id=1184">Spotlight on...Mexico</a></li>
+		
+			<li><a href="/if/idealist/en/Blog/EntryViewerPage/default?blog-entry-id=1178">Express Yourself on DivineCaroline</a></li>
+		
+			<li><a href="/if/idealist/en/Blog/EntryViewerPage/default?blog-entry-id=1159">2007: Our First Year of Podcasts</a></li>
+		
+		</ul>
+		<p align="right" class="fontSmall">[<a href="/if/idealist/en/Blog/Archive/default?blog-id=3">Blog Archive</a>]</p>
+
+</div>
+					
+					
+					<!-- /LEFT NAV -->
+				</div>
+			</td>
+		  
 			<td id="pwContent">
 			
 			<!-- CONTENT -->
 			 
-			<span id="MAIN_CONTENT">
+			<div id="MAIN_CONTENT">
 			
 	<!-- Idealist::Component::Idealist::PageWrapper::StaticPage -->
 	<title>Idealist.org - Privacy Statement</title>
@@ -395,391 +640,75 @@ h1, h2 {
 <p>We may change this Privacy Statement from time to time. If we do make a change, we will post the revised Privacy Statement on this Site. We encourage you to review this Privacy Statement periodically. Questions, comments, or complaints about our privacy policies should be submitted to us by one of the methods listed above. </p>
 
 
-			</span>
+			</div>
 			<!-- /CONTENT -->
 			
 			</td>
+		  
 			<td id="pwRightNavigation">
-			<!-- RIGHT NAV -->
-			<div class="boxModel03">
+				<div id="pwRightNavigationContent">
+					<!-- RIGHT NAV -->
+					
+						<div class="boxModel03">
 	
 <!-- Idealist::templates::Idealist::en::Box::AboutUs; -->
-	<div class="bulletBox02"><div class="highlight fontLarge title01Margin"><a href="/en/about/index.html">About Us Home</a></div>
-	   	   	
-			<div class="bulletBox06"><a href="/en/about/firsttime.html">First Time Here? </a></div>
-			<div class="bulletBox06"><a href="/en/about/mission.html">Our Vision and Mission </a></div>
-			<div class="bulletBox06"><a href="/en/about/staffbios.html">Our Team</a></div>
-			<div class="bulletBox06"><a href="/en/about/gallery/gallery01Main.html">Image Gallery</a></div>
-  		  	<div class="bulletBox06"><a href="/en/about/history.html">Our History</a></div>
-  		  	<div class="bulletBox06"><a href="/en/about/contact.html">Contact Us</a></div>
-  		  	<div class="bulletBox06"><a href="/en/about/seeusat.html">See Us At</a></div>
-			<div class="bulletBox06"><a href="/en/about/funding.html">How We're Funded</a></div>
-  		  	<div class="bulletBox06"><a href="/en/about/annualreports.html">Annual Reports</a></div>
-  		  	<div class="bulletBox06"><a href="/en/about/press.html">Press Center</a></div>
-			<div class="bulletBox06"><a href="/en/about/recognition.html">Awards and Recognition</a></div>
-  		  	<div class="bulletBox06"><a href="/en/about/testimonials.html">Testimonials</a></div>
-  		  	<div class="bulletBox06"><a href="/en/about/partnerships.html">Partnerships</a></div>
-			<div class="bulletBox06"><a href="/en/about/advisoryboards.html">Advisory Boards</a></div>
-			<div class="bulletBox06"><a href="/en/about/memberships.html">Memberships</a></div>
-			<div class="bulletBox06"><a href="/if/idealist/en/Donate/default">Donate</a></div>
-	</div>		
+	<h2 class="link"><a href="/en/about/index.html">About Us Home</a></h2>
+	<ul class="linkList"> 	
+			<li><a href="/en/about/firsttime.html">First Time Here? </a></li>
+			<li><a href="/en/about/mission.html">Our Vision and Mission </a></li>
+			<li><a href="/en/about/staffbios.html">Our Team</a></li>
+			<li><a href="/en/about/gallery/gallery01Main.html">Image Gallery</a></li>
+  		  	<li><a href="/en/about/history.html">Our History</a></li>
+  		  	<li><a href="/en/about/contact.html">Contact Us</a></li>
+  		  	<li><a href="/en/about/seeusat.html">See Us At</a></li>
+			<li><a href="/en/about/funding.html">How We're Funded</a></li>
+  		  	<li><a href="/en/about/annualreports.html">Annual Reports</a></li>
+  		  	<li><a href="/en/about/press.html">Press Center</a></li>
+			<li><a href="/en/about/recognition.html">Awards and Recognition</a></li>
+  		  	<li><a href="/en/about/testimonials.html">Testimonials</a></li>
+  		  	<li><a href="/en/about/partnerships.html">Partnerships</a></li>
+			<li><a href="/en/about/advisoryboards.html">Advisory Boards</a></li>
+			<li><a href="/en/about/memberships.html">Memberships</a></li>
+			<li><a href="/if/idealist/en/Donate/default">Donate</a></li>
+	</ul>	
 <!-- /Idealist::templates::Idealist::en::Box::AboutUs; -->
 
 </div>
-			
-			
-			
-			
-			<!-- /RIGHT NAV -->
-			</td>
-		  </tr>
-		</tbody></table>
-	</div>
-</div>
-<script type="text/javascript">
-	$('PW_Hidden').style.display = '';
-</script>	
-	
-	<table id="PW_Footer_Screen" border="0" align="center" cellpadding="0" cellspacing="0" class="pageWrapper">
-	  <tbody><tr>
-		<td id="PWfooter_TD">
-		<!-- FOOTER -->
-			<a name="Languages" id="Languages"></a>
-<div onmouseover="document.getElementById('footerT4').className='transparent01'">
-	
-	<div id="photoGallery">
-			<div id="footerPhotosGallery"> 
-
-		<table id="footerT1" width="760" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
-		  <tbody><tr>
-
-			<td id="footerT1_r1_c1_TD"><img id="Gallery_leftButton" name="footerT1_r1_c1" src="/images/en/pageWrapper/footer/footerT1_r1_c1_OFF.jpg" alt="" border="0" height="51" width="28"></td>
-			<td id="footerT1_r1_c2_TD">
-
-				<div id="footerPhotosBox" style="text-align:center;"><a href="/if/idealist/en/SiteIndex/AssetViewer/view?asset=UserProfile&amp;asset-id=111089-138"><img src="/images/uploaded/Invite/user/01/74/90-jpg" class="footerPhotos" height="42" width="67" onmouseover="return overlib('<div class=\'PhotoGalleryOverlibBox\' /><div height=\'126\' style=\'position:relative; height:126px; text-align:center; padding:5px; \'><img src=\'/images/uploaded/Invite/-w171h126\' > </div> <div class=\'PhotoGalleryOverlibComment\'>For  me it is the starlight dew that perfumes life with sweetness and sprinkles it with splendour....</div><div class=\'PhotoGalleryOverlibName highlight\'>Ronald,&nbsp;Nairobi,&nbsp;Kenya<div class=\'color03 fontSmall\'>Click to read more</div></div></div>', HAUTO, VAUTO, FULLHTML);" onmouseout="return nd();"></a><a></a><a href="/if/idealist/en/SiteIndex/AssetViewer/view?asset=UserProfile&amp;asset-id=120662-136"><img src="/images/uploaded/Invite/user/04/11/11-jpg" class="footerPhotos" height="42" width="67" onmouseover="return overlib('<div class=\'PhotoGalleryOverlibBox\' /><div height=\'126\' style=\'position:relative; height:126px; text-align:center; padding:5px; \'><img src=\'/images/uploaded/Invite/user/04/07/60-w171h126.jpg\' > </div> <div class=\'PhotoGalleryOverlibComment\'>It is simply incredible. It is so completely in line with my own thoughts &amp; ideals in what I want to create in the...</div><div class=\'PhotoGalleryOverlibName highlight\'>Saynana,&nbsp;Berkeley,&nbsp;United States<div class=\'color03 fontSmall\'>Click to read more</div></div></div>', HAUTO, VAUTO, FULLHTML);" onmouseout="return nd();"></a><a></a><a href="/if/idealist/en/SiteIndex/AssetViewer/view?asset=UserProfile&amp;asset-id=122731-167"><img src="/images/uploaded/Invite/user/04/55/04-jpg" class="footerPhotos" height="42" width="67" onmouseover="return overlib('<div class=\'PhotoGalleryOverlibBox\' /><div height=\'126\' style=\'position:relative; height:126px; text-align:center; padding:5px; \'><img src=\'/images/uploaded/Invite/user/04/54/53-w171h126.jpg\' > </div> <div class=\'PhotoGalleryOverlibComment\'>Essential... so many people are interested in getting involved, instead of just waiting and feeling sorry as they watch...</div><div class=\'PhotoGalleryOverlibName highlight\'>raquel,&nbsp;Aveiro,&nbsp;Portugal<div class=\'color03 fontSmall\'>Click to read more</div></div></div>', HAUTO, VAUTO, FULLHTML);" onmouseout="return nd();"></a><a></a><a href="/if/idealist/en/SiteIndex/AssetViewer/view?asset=UserProfile&amp;asset-id=122651-200"><img src="/images/uploaded/Invite/user/04/55/05-jpg" class="footerPhotos" height="42" width="67" onmouseover="return overlib('<div class=\'PhotoGalleryOverlibBox\' /><div height=\'126\' style=\'position:relative; height:126px; text-align:center; padding:5px; \'><img src=\'/images/uploaded/Invite/user/04/52/58-w171h126.jpg\' > </div> <div class=\'PhotoGalleryOverlibComment\'>This could open new opertunities for me by not only seeing the world, but to also allow me to put my part into helping...</div><div class=\'PhotoGalleryOverlibName highlight\'>Patrick,&nbsp;London,&nbsp;United Kingdom<div class=\'color03 fontSmall\'>Click to read more</div></div></div>', HAUTO, VAUTO, FULLHTML);" onmouseout="return nd();"></a><a></a><a href="/if/idealist/en/SiteIndex/AssetViewer/view?asset=UserProfile&amp;asset-id=122260-138"><img src="/images/uploaded/Invite/user/04/44/05-jpg" class="footerPhotos" height="42" width="67" onmouseover="return overlib('<div class=\'PhotoGalleryOverlibBox\' /><div height=\'126\' style=\'position:relative; height:126px; text-align:center; padding:5px; \'><img src=\'/images/uploaded/Invite/user/04/44/66-w171h126.jpg\' > </div> <div class=\'PhotoGalleryOverlibComment\'>I look forward to seeing where this will take me......</div><div class=\'PhotoGalleryOverlibName highlight\'>Kathleen,&nbsp;Washington,&nbsp;United States<div class=\'color03 fontSmall\'>Click to read more</div></div></div>', HAUTO, VAUTO, FULLHTML);" onmouseout="return nd();"></a><a></a><a href="/if/idealist/en/SiteIndex/AssetViewer/view?asset=UserProfile&amp;asset-id=121408-23"><img src="/images/uploaded/Invite/user/04/44/07-jpg" class="footerPhotos" height="42" width="67" onmouseover="return overlib('<div class=\'PhotoGalleryOverlibBox\' /><div height=\'126\' style=\'position:relative; height:126px; text-align:center; padding:5px; \'><img src=\'/images/uploaded/Invite/user/04/24/85-w171h126.jpg\' > </div> <div class=\'PhotoGalleryOverlibComment\'>In order to change the world, you have to get your head together first....</div><div class=\'PhotoGalleryOverlibName highlight\'>Marissa,&nbsp;New London,&nbsp;United States<div class=\'color03 fontSmall\'>Click to read more</div></div></div>', HAUTO, VAUTO, FULLHTML);" onmouseout="return nd();"></a><a></a><a href="/if/idealist/en/SiteIndex/AssetViewer/view?asset=UserProfile&amp;asset-id=120748-70"><img src="/images/uploaded/Invite/user/04/11/04-jpg" class="footerPhotos" height="42" width="67" onmouseover="return overlib('<div class=\'PhotoGalleryOverlibBox\' /><div height=\'126\' style=\'position:relative; height:126px; text-align:center; padding:5px; \'><img src=\'/images/uploaded/Invite/user/04/09/87-w171h126.jpg\' > </div> <div class=\'PhotoGalleryOverlibComment\'>It looks great! Now is the time to become involved. I want to help. I have worked around the youth, seen enough elderly,...</div><div class=\'PhotoGalleryOverlibName highlight\'>Sheela,&nbsp;Brooklyn,&nbsp;United States<div class=\'color03 fontSmall\'>Click to read more</div></div></div>', HAUTO, VAUTO, FULLHTML);" onmouseout="return nd();"></a><a></a><a href="/if/idealist/en/SiteIndex/AssetViewer/view?asset=UserProfile&amp;asset-id=121433-199"><img src="/images/uploaded/Invite/user/04/26/56-jpg" class="footerPhotos" height="42" width="67" onmouseover="return overlib('<div class=\'PhotoGalleryOverlibBox\' /><div height=\'126\' style=\'position:relative; height:126px; text-align:center; padding:5px; \'><img src=\'/images/uploaded/Invite/user/04/27/71-w171h126.jpg\' > </div> <div class=\'PhotoGalleryOverlibComment\'>Really good! Together anything is posssible!   The Beatles were actually quite brilliant: \'Imagine\',  \'All we need is...</div><div class=\'PhotoGalleryOverlibName highlight\'>Stephanus,&nbsp;Pretoria,&nbsp;South Africa<div class=\'color03 fontSmall\'>Click to read more</div></div></div>', HAUTO, VAUTO, FULLHTML);" onmouseout="return nd();"></a><a></a><a href="/if/idealist/en/SiteIndex/AssetViewer/view?asset=UserProfile&amp;asset-id=121366-302"><img src="/images/uploaded/Invite/user/04/24/25-jpg" class="footerPhotos" height="42" width="67" onmouseover="return overlib('<div class=\'PhotoGalleryOverlibBox\' /><div height=\'126\' style=\'position:relative; height:126px; text-align:center; padding:5px; \'><img src=\'/images/uploaded/Invite/user/04/23/72-w171h126.jpg\' > </div> <div class=\'PhotoGalleryOverlibComment\'>I like it, its a good...</div><div class=\'PhotoGalleryOverlibName highlight\'>yoonjoo,&nbsp;millersville,&nbsp;United States<div class=\'color03 fontSmall\'>Click to read more</div></div></div>', HAUTO, VAUTO, FULLHTML);" onmouseout="return nd();"></a><a></a><a href="/if/idealist/en/SiteIndex/AssetViewer/view?asset=UserProfile&amp;asset-id=122104-255"><img src="/images/uploaded/Invite/user/04/44/12-jpg" class="footerPhotos" height="42" width="67" onmouseover="return overlib('<div class=\'PhotoGalleryOverlibBox\' /><div height=\'126\' style=\'position:relative; height:126px; text-align:center; padding:5px; \'><img src=\'/images/uploaded/Invite/user/04/40/63-w171h126.jpg\' > </div> <div class=\'PhotoGalleryOverlibComment\'>My hope is that people will become more understanding of each other instead of being so close minded about key issues...</div><div class=\'PhotoGalleryOverlibName highlight\'>Chris,&nbsp;Duncanville,&nbsp;United States<div class=\'color03 fontSmall\'>Click to read more</div></div></div>', HAUTO, VAUTO, FULLHTML);" onmouseout="return nd();"></a><a></a><a href="/if/idealist/en/SiteIndex/AssetViewer/view?asset=UserProfile&amp;asset-id=122667-37"><img src="/images/uploaded/Invite/user/04/55/03-jpg" class="footerPhotos" height="42" width="67" onmouseover="return overlib('<div class=\'PhotoGalleryOverlibBox\' /><div height=\'126\' style=\'position:relative; height:126px; text-align:center; padding:5px; \'><img src=\'/images/uploaded/Invite/user/04/53/02-w171h126.jpg\' > </div> <div class=\'PhotoGalleryOverlibComment\'>I think its a great initiative! I believe everyone in the world should have the same opportunities as me to develop...</div><div class=\'PhotoGalleryOverlibName highlight\'>Paulo,&nbsp;Rotterdam,&nbsp;Netherlands<div class=\'color03 fontSmall\'>Click to read more</div></div></div>', HAUTO, VAUTO, FULLHTML);" onmouseout="return nd();"></a><a></a></div>
-
-			</td>
-			<td id="footerT1_r1_c3_TD"><a href="javascript:;" onclick="javascript:drawGallery(&quot;right&quot;);"><img id="Gallery_rightButton" name="footerT1_r1_c3" src="/images/en/pageWrapper/footer/footerT1_r1_c3.jpg" alt="" border="0" height="51" width="28"></a></td>
-		  </tr>
-		</tbody></table>
-
-	</div>
-	
-<script language="javascript">
- 
-	new image('/if/idealist/en/SiteIndex/AssetViewer/view?asset=UserProfile&asset-id=111089-138', '/images/uploaded/Invite/user/01/74/90-jpg', {imgSRC:'/images/uploaded/Invite/-w171h126', comment:'For  me it is the starlight dew that perfumes life with sweetness and sprinkles it with splendour....', location:'Ronald,&nbsp;Nairobi,&nbsp;Kenya'}, '42', '67'); 	
-
-
- 
-	new image('/if/idealist/en/SiteIndex/AssetViewer/view?asset=UserProfile&asset-id=120662-136', '/images/uploaded/Invite/user/04/11/11-jpg', {imgSRC:'/images/uploaded/Invite/user/04/07/60-w171h126.jpg', comment:'It is simply incredible. It is so completely in line with my own thoughts & ideals in what I want to create in the...', location:'Saynana,&nbsp;Berkeley,&nbsp;United States'}, '42', '67'); 	
-
-
- 
-	new image('/if/idealist/en/SiteIndex/AssetViewer/view?asset=UserProfile&asset-id=122731-167', '/images/uploaded/Invite/user/04/55/04-jpg', {imgSRC:'/images/uploaded/Invite/user/04/54/53-w171h126.jpg', comment:'Essential... so many people are interested in getting involved, instead of just waiting and feeling sorry as they watch...', location:'raquel,&nbsp;Aveiro,&nbsp;Portugal'}, '42', '67'); 	
-
-
- 
-	new image('/if/idealist/en/SiteIndex/AssetViewer/view?asset=UserProfile&asset-id=122651-200', '/images/uploaded/Invite/user/04/55/05-jpg', {imgSRC:'/images/uploaded/Invite/user/04/52/58-w171h126.jpg', comment:'This could open new opertunities for me by not only seeing the world, but to also allow me to put my part into helping...', location:'Patrick,&nbsp;London,&nbsp;United Kingdom'}, '42', '67'); 	
-
-
- 
-	new image('/if/idealist/en/SiteIndex/AssetViewer/view?asset=UserProfile&asset-id=122260-138', '/images/uploaded/Invite/user/04/44/05-jpg', {imgSRC:'/images/uploaded/Invite/user/04/44/66-w171h126.jpg', comment:'I look forward to seeing where this will take me......', location:'Kathleen,&nbsp;Washington,&nbsp;United States'}, '42', '67'); 	
-
-
- 
-	new image('/if/idealist/en/SiteIndex/AssetViewer/view?asset=UserProfile&asset-id=121408-23', '/images/uploaded/Invite/user/04/44/07-jpg', {imgSRC:'/images/uploaded/Invite/user/04/24/85-w171h126.jpg', comment:'In order to change the world, you have to get your head together first....', location:'Marissa,&nbsp;New London,&nbsp;United States'}, '42', '67'); 	
-
-
- 
-	new image('/if/idealist/en/SiteIndex/AssetViewer/view?asset=UserProfile&asset-id=120748-70', '/images/uploaded/Invite/user/04/11/04-jpg', {imgSRC:'/images/uploaded/Invite/user/04/09/87-w171h126.jpg', comment:'It looks great! Now is the time to become involved. I want to help. I have worked around the youth, seen enough elderly,...', location:'Sheela,&nbsp;Brooklyn,&nbsp;United States'}, '42', '67'); 	
-
-
- 
-	new image('/if/idealist/en/SiteIndex/AssetViewer/view?asset=UserProfile&asset-id=121433-199', '/images/uploaded/Invite/user/04/26/56-jpg', {imgSRC:'/images/uploaded/Invite/user/04/27/71-w171h126.jpg', comment:'Really good! Together anything is posssible!   The Beatles were actually quite brilliant: \\\'Imagine\\\',  \\\'All we need is...', location:'Stephanus,&nbsp;Pretoria,&nbsp;South Africa'}, '42', '67'); 	
-
-
- 
-	new image('/if/idealist/en/SiteIndex/AssetViewer/view?asset=UserProfile&asset-id=121366-302', '/images/uploaded/Invite/user/04/24/25-jpg', {imgSRC:'/images/uploaded/Invite/user/04/23/72-w171h126.jpg', comment:'I like it, its a good...', location:'yoonjoo,&nbsp;millersville,&nbsp;United States'}, '42', '67'); 	
-
-
- 
-	new image('/if/idealist/en/SiteIndex/AssetViewer/view?asset=UserProfile&asset-id=122104-255', '/images/uploaded/Invite/user/04/44/12-jpg', {imgSRC:'/images/uploaded/Invite/user/04/40/63-w171h126.jpg', comment:'My hope is that people will become more understanding of each other instead of being so close minded about key issues...', location:'Chris,&nbsp;Duncanville,&nbsp;United States'}, '42', '67'); 	
-
-
- 
-	new image('/if/idealist/en/SiteIndex/AssetViewer/view?asset=UserProfile&asset-id=122667-37', '/images/uploaded/Invite/user/04/55/03-jpg', {imgSRC:'/images/uploaded/Invite/user/04/53/02-w171h126.jpg', comment:'I think its a great initiative! I believe everyone in the world should have the same opportunities as me to develop...', location:'Paulo,&nbsp;Rotterdam,&nbsp;Netherlands'}, '42', '67'); 	
-
-
- 
-	new image('/if/idealist/en/SiteIndex/AssetViewer/view?asset=UserProfile&asset-id=115169-238', '/images/uploaded/Invite/user/04/22/17-jpg', {imgSRC:'/images/uploaded/Invite/user/02/89/39-w171h126.jpg', comment:'I think this an important site. It reaches people on all levels, no matter race, age, country, or personality....', location:'Frankie,&nbsp;New York City,&nbsp;United States'}, '42', '67'); 	
-
-
- 
-	new image('/if/idealist/en/SiteIndex/AssetViewer/view?asset=UserProfile&asset-id=121244-299', '/images/uploaded/Invite/user/04/22/18-jpg', {imgSRC:'/images/uploaded/Invite/user/04/20/71-w171h126.jpg', comment:'A really interesting idea - I like the potential for networking and sharing ideas amongst like-minded people. I hope...', location:'Nathan,&nbsp;London,&nbsp;United Kingdom'}, '42', '67'); 	
-
-
- 
-	new image('/if/idealist/en/SiteIndex/AssetViewer/view?asset=UserProfile&asset-id=121384-276', '/images/uploaded/Invite/user/04/24/22-jpg', {imgSRC:'/images/uploaded/Invite/user/04/24/12-w171h126.jpg', comment:'I think that the new initiatve is really awesome. From my corner of the world it looks like a genuine and effective way...', location:'Danielle,&nbsp;burlington,&nbsp;United States'}, '42', '67'); 	
-
-
- 
-	new image('/if/idealist/en/SiteIndex/AssetViewer/view?asset=UserProfile&asset-id=120906-250', '/images/uploaded/Invite/user/04/22/29-jpg', {imgSRC:'/images/uploaded/Invite/user/04/14/85-w171h126.jpg', comment:'A wonderful idea! This site is an excellent tool for linking people and share idea(l)s......', location:'Luis,&nbsp;Geneva,&nbsp;Switzerland'}, '42', '67'); 	
-
-
- 
-	new image('/if/idealist/en/SiteIndex/AssetViewer/view?asset=UserProfile&asset-id=120747-37', '/images/uploaded/Invite/user/04/11/05-jpg', {imgSRC:'/images/uploaded/Invite/user/04/09/84-w171h126.jpg', comment:'It\\\'s a great portal for small organisations like us to get a foot in the door. We will make full use of the website and...', location:'christian  boas,&nbsp;moraira,&nbsp;Spain'}, '42', '67'); 	
-
-
- 
-	new image('/if/idealist/en/SiteIndex/AssetViewer/view?asset=UserProfile&asset-id=120700-56', '/images/uploaded/Invite/user/04/11/07-jpg', {imgSRC:'/images/uploaded/Invite/user/04/08/72-w171h126.jpg', comment:'Idealist is a perfect example of how catering to the strengths of our generation- namely communicating on the internet-...', location:'Lisa,&nbsp;Chicago,&nbsp;United States'}, '42', '67'); 	
-
-
- 
-	new image('/if/idealist/en/SiteIndex/AssetViewer/view?asset=UserProfile&asset-id=121872-244', '/images/uploaded/Invite/user/04/36/10-jpg', {imgSRC:'/images/uploaded/Invite/user/04/52/91-w171h126.jpg', comment:'I want to get involved so I can start being a part of the solution.  I also want to learn more about the vastly...', location:'RIsa,&nbsp;Vancouver,&nbsp;United States'}, '42', '67'); 	
-
-
- 
-	new image('/if/idealist/en/SiteIndex/AssetViewer/view?asset=UserProfile&asset-id=121385-309', '/images/uploaded/Invite/user/04/24/20-jpg', {imgSRC:'/images/uploaded/Invite/user/04/24/14-w171h126.jpg', comment:'It\\\'s really a great Idea! I would like to join as this connectivity with like minded people will give me the chance to...', location:'ayanava,&nbsp;Kolkata,&nbsp;India'}, '42', '67'); 	
-
-
- 
-	new image('/if/idealist/en/SiteIndex/AssetViewer/view?asset=UserProfile&asset-id=121401-123', '/images/uploaded/Invite/user/04/26/54-jpg', {imgSRC:'/images/uploaded/Invite/user/04/24/66-w171h126.jpg', comment:'This new initiative is very exciting and it provides people from all over the world the opportunity to connect with...', location:'Jeff,&nbsp;Toronto,&nbsp;Canada'}, '42', '67'); 	
-
-
- 
-	new image('/if/idealist/en/SiteIndex/AssetViewer/view?asset=UserProfile&asset-id=120669-36', '/images/uploaded/Invite/user/04/11/10-jpg', {imgSRC:'/images/uploaded/Invite/user/04/07/79-w171h126.jpg', comment:'Networking is a must and certainly this is a means/resource that allows people to connect, which can then give birth to...', location:'Lauren,&nbsp;San Diego,&nbsp;United States'}, '42', '67'); 	
-
-
- 
-	new image('/if/idealist/en/SiteIndex/AssetViewer/view?asset=UserProfile&asset-id=121256-2', '/images/uploaded/Invite/user/04/24/18-jpg', {imgSRC:'/images/uploaded/Invite/user/04/21/01-w171h126.jpg', comment:'This website holds a perfect sentiment with a good name. I\\\'m sure we\\\'re all doing our best to carry these ideals...', location:'Dorothy,&nbsp;New York,&nbsp;United States'}, '42', '67'); 	
-
-
- 
-	new image('/if/idealist/en/SiteIndex/AssetViewer/view?asset=UserProfile&asset-id=121291-149', '/images/uploaded/Invite/user/04/22/16-jpg', {imgSRC:'/images/uploaded/Invite/user/04/21/92-w171h126.jpg', comment:'I find it very logical and feasible! this might be the best venue for me to participate in making a better world for...', location:'Gregorio Miguel,&nbsp;Cagayan de Oro City,&nbsp;Philippines'}, '42', '67'); 	
-
-
- 
-	new image('/if/idealist/en/SiteIndex/AssetViewer/view?asset=UserProfile&asset-id=122182-248', '/images/uploaded/Invite/user/04/44/09-jpg', {imgSRC:'/images/uploaded/Invite/user/04/42/08-w171h126.jpg', comment:'I think Idealist.org is a really great way for good people to find their place in the world.    I want to get involved...', location:'Chris,&nbsp;Rockville Centre,&nbsp;United States'}, '42', '67'); 	
-
-
- 
-	new image('/if/idealist/en/SiteIndex/AssetViewer/view?asset=UserProfile&asset-id=118899-14', '/images/uploaded/Invite/user/04/22/26-jpg', {imgSRC:'/images/uploaded/Invite/user/04/18/38-w171h126.jpg', comment:'Connecting with people, preferably in person, is a very powerful tool in shaping and reshaping our world. Let\\\'s use it!...', location:'Xylia,&nbsp;Portland,&nbsp;United States'}, '42', '67'); 	
-
-
- 
-	new image('/if/idealist/en/SiteIndex/AssetViewer/view?asset=UserProfile&asset-id=122541-233', '/images/uploaded/Invite/user/04/55/09-jpg', {imgSRC:'/images/uploaded/Invite/user/04/50/27-w171h126.jpg', comment:'I like it. I believe a small group of people can gain support and change world issues....', location:'Jillian,&nbsp;Philadelphia,&nbsp;United States'}, '42', '67'); 	
-
-
- 
-	new image('/if/idealist/en/SiteIndex/AssetViewer/view?asset=UserProfile&asset-id=121303-182', '/images/uploaded/Invite/user/04/24/09-jpg', {imgSRC:'/images/uploaded/Invite/user/04/66/02-w171h126.jpg', comment:'I feel overwhelmed and inspired. I feel happy that there are so many interesting people that are both engaged with...', location:'Jacqueline,&nbsp;Woodbury,&nbsp;United States'}, '42', '67'); 	
-
-
- 
-	new image('/if/idealist/en/SiteIndex/AssetViewer/view?asset=UserProfile&asset-id=122641-230', '/images/uploaded/Invite/user/04/55/07-jpg', {imgSRC:'/images/uploaded/Invite/user/04/52/37-w171h126.jpg', comment:'It\\\'s awesome! I think emergence of ideas and individuals is the most powerful thing there is. I want to be a part of...', location:'Lindsay,&nbsp;Athens,&nbsp;United States'}, '42', '67'); 	
-
-
- 
-	new image('/if/idealist/en/SiteIndex/AssetViewer/view?asset=UserProfile&asset-id=122173-311', '/images/uploaded/Invite/user/04/44/06-jpg', {imgSRC:'/images/uploaded/Invite/user/04/41/94-w171h126.jpg', comment:'I think Idealist.org is a great idea and a good way to pool resources for people to make a difference....', location:'Ukeme,&nbsp;Worcester,&nbsp;United States'}, '42', '67'); 	
-
-
- 
-	new image('/if/idealist/en/SiteIndex/AssetViewer/view?asset=UserProfile&asset-id=122171-245', '/images/uploaded/Invite/user/04/44/10-jpg', {imgSRC:'/images/uploaded/Invite/user/04/41/89-w171h126.jpg', comment:'I think this is brilliant. I\\\'m up for creating/supporting the St. Louis community space....', location:'Tom,&nbsp;St. Louis,&nbsp;United States'}, '42', '67'); 	
-
-
- 
-	new image('/if/idealist/en/SiteIndex/AssetViewer/view?asset=UserProfile&asset-id=122194-285', '/images/uploaded/Invite/user/04/44/08-jpg', {imgSRC:'/images/uploaded/Invite/user/04/42/44-w171h126.jpg', comment:'I fully support the plan of Idealist.org. I especially liked your idea to bring up for discussion the human nature that...', location:'Andriy,&nbsp;Kyiv,&nbsp;Ukraine'}, '42', '67'); 	
-
-
- 
-	new image('/if/idealist/en/SiteIndex/AssetViewer/view?asset=UserProfile&asset-id=114443-66', '/images/uploaded/Invite/user/04/22/14-jpg', {imgSRC:'/images/uploaded/Invite/user/02/55/22-w171h126.jpg', comment:'It\\\'s the best thing ever and it helps people from all over to get familly with our changing world. I love...', location:'christopher,&nbsp;nairobi,&nbsp;Kenya'}, '42', '67'); 	
-
-
- 
-	new image('/if/idealist/en/SiteIndex/AssetViewer/view?asset=UserProfile&asset-id=121176-45', '/images/uploaded/Invite/user/04/22/23-jpg', {imgSRC:'/images/uploaded/Invite/user/04/19/39-w171h126.jpg', comment:'I think that this is a great way to connect people who want change the world for the better. I am glad that so many...', location:'Casey,&nbsp;Riva,&nbsp;United States'}, '42', '67'); 	
-
-
- 
-	new image('/if/idealist/en/SiteIndex/AssetViewer/view?asset=UserProfile&asset-id=121469-76', '/images/uploaded/Invite/user/04/26/52-jpg', {imgSRC:'/images/uploaded/Invite/user/04/26/43-w171h126.jpg', comment:'This is great!  It\\\'s nice to see organizations utilizing the interweb in positive and socially productive ways....', location:'spenser,&nbsp;Northampton,&nbsp;United States'}, '42', '67'); 	
-
-
- 
-	var HigherPosition = images.length;
-	drawGallery();
-</script>
-	</div>
-	
-	
-	<div id="footerPhrase"> On Idealist, you can <a href="/if/idealist/en/Invite/default?sid=" class="highlightBasic">imagine</a> a better world, <a href="/if/idealist/en/Connect/default?sid=" class="highlightBasic">connect</a> with people who want to help build it, <a href="/if/idealist/en/CAC/Main/default?" class="highlightBasic">take action</a> in your community, <a href="/en/ReachOut/index.html?sid=" class="highlightBasic">reach out</a> to others, 
-		<a href="/if/idealist/en/Post/default?sid=" class="highlightBasic">post</a> and <a href="/if/as/Find?sid=" class="highlightBasic">find </a>nonprofit jobs, volunteer opportunities, events, and more, and <a href="/if/idealist/en/Donate/default?sid=" class="highlightBasic">donate</a> to support all this. 
-	</div>
-	<table id="footerT3" class="pageWrapper" width="760" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
-	  <tbody><tr>
-		<td id="footerT3_r1_c1_TD"><img name="footerT3_r1_c1" src="/images/en/pageWrapper/footer/footerT3_r1_c1.jpg" width="1" height="23" border="0" alt=""></td>
-		<td id="footerT3_r1_c2_TD" class="pwHeaderFooterLinks"><a href="/about/terms.html">Terms and Conditions</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/about/privacy.html">Privacy Policy</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/about/site/copyr.html">© 1995-2007, Action Without Borders</a> </td>
-		<td id="footerT3_r1_c3_TD"><img name="footerT3_r1_c3" src="/images/en/pageWrapper/footer/footerT3_r1_c3.jpg" width="8" height="23" border="0" alt=""></td>
-	  </tr>
-	</tbody></table>
-</div>
-<table style="position:relative; margin-top:7px;" width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td>
-<div id="footerT4" class="transparent01" onmouseover="this.className='solid';">
-				<table id="footerSiteMap" class="pageWrapper" width="100%" border="0" cellspacing="0" cellpadding="0">
-					<tbody><tr>
-						<td class="tds">
-						  <div class="footerSiteMapMargin">
-								<!-- Idealist::Component::Idealist::en::PageWrapper::Languages -->
-<div class="bulletBox01">
-	<div class="highlight fontLarge title01Margin">Other Languages:</div>
-	<div class="linksGroup">
-		<div><a href="/if/h?sid=">English</a></div>
-
-		<div><a href="/if/idealist/es/Home/default?sid=">Español</a></div>
-
-		<div><a href="/if/idealist/fr/Home/default?sid=">Francais</a></div>
-
-		<div><a href="/if/idealist/zh/Home/default?sid=">中文</a></div>
-
-		<div><a href="/if/idealist/nl/Home/default?sid=">Nederlands</a></div>
-
-		<div><a href="/if/idealist/de/Home/default?sid=">Deutsch</a></div>
-
-		<div><a href="/if/idealist/it/Home/default?sid=">Italiano</a></div>
-
-		<div><a href="/if/idealist/ja/Home/default?sid=">日本語</a></div>
-
-		<div><a href="/if/idealist/ko/Home/default?sid=">한국어</a></div>
-
-		<div><a href="/if/idealist/pl/Home/default?sid=">Polski</a></div>
-
-		<div><a href="/if/idealist/pt/Home/default?sid=">Português</a></div>
-</div>
-</div>
-						  </div>
-						</td>
-						<td class="tds">
-							<div class="footerSiteMapMargin">
-								
-								<div class="bulletBox01">
-	<div class="highlight fontLarge title01Margin">Find:</div>
-	<div class="linksGroup">
-		
-		<div><a href="/if/as/Org?sid=&amp;type=NON_PROFIT_TYPE">Organizations</a><span class="color03 fontSmall">&nbsp;(67,231)</span></div>
-		 
-		
-		<div><a href="/if/as/Consultant?sid=">Consultants</a><span class="color03 fontSmall">&nbsp;(925)</span></div>
-		 
-		
-		<div><a href="/if/as/Job?sid=">Jobs</a>&nbsp;<span class="color03 fontSmall">(7,002)</span></div> 
-		
-		<div><a href="/if/as/VolunteerOpportunity?sid=">Volunteer opportunities</a>&nbsp;<span class="color03 fontSmall">(11,477)</span></div>
-		
-		<div><a href="/if/as/Internship?sid=">Internships</a>&nbsp;<span class="color03 fontSmall">(1,587)</span></div>
-		 
-		
-		<div><a href="/if/as/Program?sid=">Programs</a>&nbsp;<span class="color03 fontSmall">(1,511)</span></div>
-		 
-		
-		<div><a href="/if/as/Event?sid=&amp;type=EVENT_TYPE">Events</a>&nbsp;<span class="color03 fontSmall">(347)</span></div> 
-		 
-		
-		<div><a href="/if/as/Campaign?sid=">Campaigns</a>&nbsp;<span class="color03 fontSmall">(452)</span></div> 
-		 
-		
-		<div><a href="/if/as/Materials?sid=">Materials</a>&nbsp;<span class="color03 fontSmall">(6,785)</span></div> 
-		 
-		
-		<div><a href="/if/idealist/en/FAQ/Nonprofit/Home/default?sid=">Nonprofit FAQ</a></div>
-	</div>
-</div>
-
-								
-							</div>
-						</td>
-						<td class="tds">
-							<div class="footerSiteMapMargin">
-								
-								<div class="bulletBox01">
-	<div class="highlight fontLarge title01Margin">Connect:</div>
-	
-	<a href="/if/idealist/en/Meetings/default?sid=" class="bulletBox06">Start-up meetings</a> <span class="color03 fontSmall">(58)</span>
-	<br>
-	
-	<a href="/if/as/UserProfile?sid=" class="bulletBox06">People</a> <span class="color03 fontSmall">(30,909)</span>
-	<br>
-	
-<!--	<a href="/if/idealist/en/CommunityPoints/default?sid=" class="bulletBox06" >Community points </a> <span class="color03 fontSmall">(0)</span>
-	<br />
-	
-	<a href="/if/as/Org?sid=&type=IDEALIST_GROUP_TYPE" class="bulletBox06" >Idealist groups </a> <span class="color03 fontSmall">(0)</span>
-	<br />
-	
-	<a href="/if/idealist/en/OutreachGroups/default?sid=" class="bulletBox06" >Outreach teams </a> <span class="color03 fontSmall">(0)</span>
-	<br />-->
-	
-	<a href="/if/as/UserSpeakerProfile?sid=" class="bulletBox06">Speakers </a> <span class="color03 fontSmall">(1,290)</span>
-	<br>
-	
-	<a href="/if/as/UserVolunteerProfile?sid=" class="bulletBox06">Volunteers </a> <span class="color03 fontSmall">(10,987)</span>
-	<br>
-</div>
 					
-								
-							</div>
-						</td>
-						<td class="tds">
-							<div class="footerSiteMapMargin">
-								<!-- Idealist::Component::Idealist::en::PageWrapper::ResourcesFor -->
-<div class="bulletBox01">
-	<div class="highlight fontLarge title01Margin">Resources For:</div>
-	<div class="linksGroup">
 
-		<div><a href="/if/idealist/en/CAC/Main/default?sid=">Community Action</a></div>
+					
+						
+					
 
-		<div><a href="/career/career.html">Job Seekers</a></div>	
+					
+						
+					
+						
+					
+						
+					
 
-		<div><a href="/hrp/index.html">HR Managers</a></div>
-	
-		<div><a href="/kt/index.html">Kids &amp; Teens</a></div>	
-
-		<div><a href="/teachers/index.html">School Teachers</a></div>	
-
-		<div><a href="/volunteer/index.html">Volunteers</a></div>	
-
-		<div><a href="/tools/tools.html">Nonprofit Managers</a></div>
-
-		<div><a href="/if/idealist/en/WebmasterTools/Main/default?sid=">Webmasters</a></div>
-
-		<div><a href="/if/IOC/en/Home/default?sid=">College &amp; University Students</a></div>
+					
+						
+					
+					<!-- /RIGHT NAV -->
+				</div>
+			</td>
+		  
+		  </tr>
+		</tbody></table>
 	</div>
-
+</div>	
+<!-- FOOTER -->
+<div id="PWfooter" class="pageWrapper">
+		<ul>
+	<li id="PWterms"><a href="/en/about/terms.html?"><em>Terms and Conditions</em></a></li>
+	<li id="PWprivacy"><a href="/en/about/privacy.html?"><em>Privacy Policy</em></a></li>
+	<li id="PWcopyr"><a href="/en/about/site/copyr.html?"><em>© 1995-2007, Action Without Borders</em></a></li>
+</ul>
 </div>
-<!-- /Idealist::Component::Idealist::en::PageWrapper::ResourcesFor -->
-							</div>
-						</td>
-					</tr>
-				</tbody></table>
-				<br>
-			<!--	<a href="#header"><img src="/Sites/Invite/images/invite/up-arrow.gif" border="0"></a> <a href="#header">TOP</a> -->
-			</div>
-	</td>
-  </tr>
-</tbody></table>
-<br><br>
+<!-- /FOOTER -->	
 
-
-		<!-- /FOOTER -->
-		</td>
-	  </tr>
-	</tbody></table>
-
-<!-- google analytics -->
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
-<script type="text/javascript">
-_uacct = "UA-804275-2";
-urchinTracker();
-</script>	
 
 
 </body></html>
