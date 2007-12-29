@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themovechannel.com privacy policy that was archived on 2007-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070605045543id_/http%3A//www.themovechannel.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themovechannel.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229130407id_/http%3A//www.themovechannel.com/company/privacy) for the most accurate reproduction.*
 
 # TheMoveChannel.com property investments real estate agents sell buy properties websites news
 
