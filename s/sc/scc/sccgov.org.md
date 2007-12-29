@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sccgov.org privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429012837id_/http%3A//www.sccgov.org/portal/site/scc/menuitem.98c54ba136322488dfe093102830a429%3FarticleType%3D8) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sccgov.org privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229081300id_/http%3A//www.sccgov.org/portal/site/scc/footer%3FarticleType%3D8) for the most accurate reproduction.*
 
 # The County of Santa Clara - SCC Public Portal
 
@@ -92,14 +92,16 @@ Presently, the County uses persistent cookies on some of its Web applications.
 
 The County has taken several steps to safeguard the integrity of its telecommunications and computing infrastructure. Security measures have been integrated into the design, implementation and day-to-day practices of the entire operating environment as part of its continuing commitment to risk management. Nevertheless, in all fairness the County does not guarantee the absolute security of information it maintains.
 
-Please see the County’s [ ** _Security Policy_**](https://web.archive.org/portal/site/scc/menuitem.cf081aed392e35dfae3cdd102830a429?path=%2Fv7%2FSCC%20Public%20Portal&contentId=027df329c6c05010VgnVCMP2200049dc4a92____&cpsextcurrchannel=1) for more information.
+Please see the County’s [ ** _Security Policy_**](https://web.archive.org/portal/site/scc/aspecial?path=%252Fv7%252FSCC%2520Public%2520Portal&contentId=027df329c6c05010VgnVCMP2200049dc4a92____&cpsextcurrchannel=1) for more information.
 
 **1.7.   ** **Disclaimer**
 
 Santa Clara County has links to other websites. These may include links to websites operated by other government agencies, nonprofit organizations and private businesses. When you link to another site, you are no longer on the County website and this **_Privacy Policy_** will not apply. When you link to another website, you are subject to the privacy policy of that new site. 
 
-Please see the County’s [ ** _Links Policy_**](https://web.archive.org/portal/site/scc/menuitem.cf081aed392e35dfae3cdd102830a429?path=%2Fv7%2FSCC%20Public%20Portal&contentId=b2edf329c6c05010VgnVCMP2200049dc4a92____&cpsextcurrchannel=1) for more information.
+Please see the County’s [ ** _Links Policy_**](https://web.archive.org/portal/site/scc/aspecial?path=%252Fv7%252FSCC%2520Public%2520Portal&contentId=b2edf329c6c05010VgnVCMP2200049dc4a92____&cpsextcurrchannel=1) for more information.
 
 **1.8.   ** **Feedback**
 
 To offer comments about Santa Clara County websites, or to comment about the information presented in this Privacy Policy, email the County’s webmaster at: [webmaster@isd.co.santa-clara.ca.us](mailto:webmaster@isd.co.santa-clara.ca.us).  The County may choose to amend the information privacy policy without notice.  Any substantial change in the way identifying information is used by the County will be prominently displayed on the County’s web site
+
+* * *
