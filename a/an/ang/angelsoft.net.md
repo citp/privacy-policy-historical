@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the angelsoft.net privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608053016id_/http%3A//www.angelsoft.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the angelsoft.net privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229093459id_/http%3A//www.angelsoft.net/privacy.html) for the most accurate reproduction.*
 
 # None
 
@@ -60,7 +60,7 @@ BACK
 
 Website data is information that is not about an individual or specific group; rather, it is information about the overall traffic to our website. Examples include the number of visitors to the Angelsoft.net web site and the number of registered users of the Angelsoft platform. Angelsoft may extract and use such web traffic data for purposes including, but not limited to, traffic analysis and business decision making. The statistics generated in this manner contain no personal data and cannot be used to gather any information about individual visitors to the site.
 
-Angelsoft may also use non-identifying "cookies" to provide you with easier site navigation. A cookie is a small amount of data sent to a user's web browser from a web server which is then stored on the user's hard drive. Angelsoft's cookies do not generate any personal data, do not read personal data from your computer and are never tied to any personally identifiable information.  
+Angelsoft may also use non-identifying "cookies" to provide you with easier site navigation. A cookie is a small amount of data sent to a user's web browser from a web server, which is then stored on the user's hard drive. Angelsoft's cookies do not generate any personal data, do not read personal data from your computer and are never tied to any personally identifiable information.  
 BACK
 
 Angelsoft LLC owns and operates the Angelsoft.net web site and the Angelsoft service platform. Our mailing address is 30 East 23rd Street, New York, NY 10010 and our customer service email address is [info@angelsoft.net](mailto:info@angelsoft.net).  
@@ -70,7 +70,7 @@ Angelsoft is committed to ensuring the integrity of our users' data and has adop
 
 All of Angelsoft's employees that may come into contact with your personal information are under strict contractual obligations to neither disclose your information to any non-affiliated third parties nor to use your information for any purpose that is not necessary to provide you with our services.
 
-Angelsoft uses industry standard technological means to protect your personal information. We use encryption and a comprehensive authentication protocol, among other technical measures, to provide the best possible level of security. However, please remember that no security system on the internet is "perfect."  
+Angelsoft uses industry standard technological means to protect your personal information. We use encryption and a comprehensive authentication protocol, among other technical measures, to provide the best possible level of security. However, please remember that no security system on the Internet is "perfect."  
 BACK
 
 Angelsoft will communicate with you in response to your requests for service or customer support. We will contact you either by phone or by email, according to your preference.
@@ -84,12 +84,12 @@ Angelsoft may provide links to other web sites. Angelsoft is not responsible for
 
 This Privacy Policy only applies to your relationship with Angelsoft. It does not apply to the interactions you have with any other individual or group. In particular, the administrator of your group has the ability to share information you submit to the Angelsoft platform (usually with other group members). Angelsoft is not responsible for any disclosure made by any of these other users of the Angelsoft platform. Your privacy among your group is governed solely by any agreements you may have with that group and is beyond the scope of this Privacy Policy.
 
-Angelsoft exercises reasonable efforts to safeguard the confidentiality of your personal information; however, transmissions protected by industry standard technological and administered by humans cannot be guaranteed to be absolutely secure. Angelsoft will not be liable for unauthorized disclosure of personal information that occurs through no fault of Angelsoft including, but not limited to, errors in transmission and the unauthorized acts of Angelsoft's employees.
+Angelsoft exercises reasonable efforts to safeguard the confidentiality of your personal information; however, transmissions protected by industry standard technology and administered by humans cannot be guaranteed to be absolutely secure. Angelsoft will not be liable for unauthorized disclosure of personal information that occurs through no fault of Angelsoft including, but not limited to, errors in transmission and the unauthorized acts of Angelsoft's employees.
 
 Angelsoft does not provide products or services for individuals under the age of 18. We neither collect nor maintain information from users actually known to be under the age of 18.  
 BACK
 
-From time to time, Angelsoft may update this Privacy Policy in order to reflect changes in our service or security practices. Whenever such changes are made, you will be provided with an updated copy of this Policy. Additionally, this Policy will always be available at [www.angelsoft.net/privacy.html](http://www.angelsoft.net/privacy.html). You should periodically review the Policy to stay informed of how Angelsoft protects your personal information.  
+From time to time, Angelsoft may update this Privacy Policy in order to reflect changes in our service or security practices. Whenever such changes are made, you will be provided with an updated copy of this Policy. Additionally, this Policy will always be available at [www.angelsoft.net/privacy.html](http://www.angelsoft.net/privacy.html). You should periodically review the Policy to stay informed of how Angelsoft protects your personal information. In the event of any material change in Angelsoft's privacy policy, you will have the right to terminate your account and request that all of your personally identifiable data be deleted from the system.  
 BACK
 
 If you have any questions about this Privacy Policy, or believe that its terms have not been complied with, please contact us at [info@angelsoft.net](mailto:info@angelsoft.net).  
