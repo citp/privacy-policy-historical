@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fedoraforum.org privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630194123id_/http%3A//www.fedoraforum.org/%3Fview%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fedoraforum.org privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229063323id_/http%3A//www.fedoraforum.org/%3Fview%3Dprivacy) for the most accurate reproduction.*
 
-# FedoraForum.org - Fedora Core Support Forum & Community - Privacy Policy
+# FedoraForum.org - Fedora User Support Forum & Community - Privacy Policy
 
 The following policy outlines the types of information that we gather about you and the way that way we use and don't use this information.
 
