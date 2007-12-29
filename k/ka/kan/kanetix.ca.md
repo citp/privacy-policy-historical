@@ -1,9 +1,7 @@
-> *The following text is extracted and transformed from the kanetix.ca privacy policy that was archived on 2007-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070509202721id_/http%3A//www.kanetix.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kanetix.ca privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229084554id_/http%3A//www.kanetix.ca/Privacy) for the most accurate reproduction.*
 
 # privacy
 
-  
-  
 Your privacy and security Our Privacy Pledge   
 Effective on August 09, 2006 
 
@@ -21,7 +19,7 @@ Effective on August 09, 2006
 
 
 
-#### If you have questions or concerns regarding this statement, you should first contact kanetix. If you do not receive acknowledgment of your inquiry or you do not feel your inquiry has been satisfactorily addressed, you should then contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php) at www.truste.org/consumers/watchdog_complaint.php. TRUSTe will then serve as a liaison with _kanetix_ to resolve your concerns.
+#### If you have questions or concerns regarding this statement, you should first contact [kanetix](http://www.kanetix.ca/about_generic_about_us). If you do not receive acknowledgment of your inquiry or you do not feel your inquiry has been satisfactorily addressed, you should then contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php) at www.truste.org/consumers/watchdog_complaint.php. TRUSTe will then serve as a liaison with _kanetix_ to resolve your concerns.
 
 [](https://www.entrust.net/customer/profile.cfm?ID=C57F2AEB-90A9-82BE-C540AFFC05634E0B-64321) [](http://www.truste.org/ivalidate.php?url=www.kanetix.ca&sealid=101)
 
@@ -32,7 +30,7 @@ Entering personal data on _kanetix_ is not only easy but also safe. _kanetix_ us
 
 #### We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
-#### If you have any questions about security on our website, you can send us an email through our online form.
+#### If you have any questions about security on our website, you can [send us an email through our online form](http://www.kanetix.ca/about_generic_about_us).
 
 ####   
 Cookies are small pieces of information stored on your hard drive. The only personal information that a cookie can contain is information supplied by the visitor and the cookies we use cannot read data off of our visitor's hard disk or read cookie files created by other websites.
@@ -91,7 +89,7 @@ We reserve the right to disclose your personally identifiable information as req
 We are committed to providing excellent service to you. However, if you have a concern or complaint, please contact us, because we are also committed to working with you to achieve a resolution and following through to a successful conclusion as quickly as possible. In most cases, complaints are resolved simply by discussing it with us. You should be able to get swift results by: 
 
   * calling one of our customer associates at 1-888-854-2503
-  * sending us a question through our online form or,
+  * [sending us a question through our online form](http://www.kanetix.ca/about_generic_about_us) or,
   * writing to us at: 
 
 _kanetix_  
