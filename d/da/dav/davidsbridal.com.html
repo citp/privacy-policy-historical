@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the davidsbridal.com privacy policy that was archived on 2007-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070626020510id_/http%3A//www.davidsbridal.com/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the davidsbridal.com privacy policy that was archived on 2007-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071229223443id_/http%3A//www.davidsbridal.com/privacy.jsp) for the most accurate reproduction.-->
 
 <html><head>
 <title>David's Bridal | Privacy Policy</title>
-<meta name="description" content="David's Bridal is the nation's leading bridal retailer with over 270 stores nationwide featuring wedding gowns, dresses, and accessories for the entire bridal party.">
+<meta name="description" content="David's Bridal is the nation's leading bridal retailer with over 280 stores nationwide featuring wedding gowns, dresses, and accessories for the entire bridal party.">
 <meta name="bridal, bridal accessories, bridal dress, bridesmaid dress, david's bridal, designer bridal gown, designer wedding dress, flower girl dress, maid of honor dress, maternity bridesmaid dress, mother of the bride dress, plus size wedding dress, unique wedding gown, wedding dress, wedding gown, wedding store">
 <meta http-equiv="content-language" content="en">
 <meta name="allow-search" content="YES">
@@ -43,7 +43,6 @@ function preloadImages() {
 
 
 
-
 <style type="text/css">
 <!--
 .topnavButton {position:relative;z-index:500;display:block}
@@ -55,12 +54,18 @@ function preloadImages() {
 .topnavAltContent a:hover {font-family:verdana,arial,helvetica; font-size:9px; line-height:13px; color:black; text-decoration:none; font-weight:normal;}
 .topnavAltImage {border: solid 1px white;}
 .topnavAltImageDiv {float:left; padding-right:3px;}
+
+.pagecolor { border:solid 1px #f6f6f6; padding:2px; }
+.pagecolor_selected { border:solid 1px #626262; padding:2px; }
+
 -->
 </style>
+
+
 <script language="JavaScript" type="text/javascript">
 <!--//
-var menuW = new Array(8),menuIOn = new Array(8),menuIOff = new Array(8),currentTopNav=-1;
-menuW[0]=65;menuIOn[0]="nav07f_bridalgowns_lit.gif";menuIOff[0]="nav07f_bridalgowns.gif";menuW[1]=57;menuIOn[1]="nav07f_bridalparty_lit.gif";menuIOff[1]="nav07f_bridalparty.gif";menuW[2]=89;menuIOn[2]="nav07f_specialoccasions_lit.gif";menuIOff[2]="nav07f_specialoccasions.gif";menuW[3]=59;menuIOn[3]="nav07f_accessories_lit.gif";menuIOff[3]="nav07f_accessories.gif";menuW[4]=41;menuIOn[4]="nav07f_tuxedos_lit.gif";menuIOff[4]="nav07f_tuxedos.gif";menuW[5]=98;menuIOn[5]="nav07f_dyw_lit.gif";menuIOff[5]="nav07f_dyw.gif";menuW[6]=50;menuIOn[6]="nav07f_invitations_lit.gif";menuIOff[6]="nav07f_invitations.gif";menuW[7]=69;menuIOn[7]="nav07f_gifts_lit.gif";menuIOff[7]="nav07f_gifts.gif";
+var menuW = new Array(10),menuIOn = new Array(10),menuIOff = new Array(10),currentTopNav=-1;
+menuW[0]=65;menuIOn[0]="nav07f_bridalgowns_lit.gif";menuIOff[0]="nav07f_bridalgowns.gif";menuW[1]=57;menuIOn[1]="nav07f_bridalparty_lit.gif";menuIOff[1]="nav07f_bridalparty.gif";menuW[2]=89;menuIOn[2]="nav07f_specialoccasions_lit.gif";menuIOff[2]="nav07f_specialoccasions.gif";menuW[3]=26;menuIOn[3]="nav07f_prom_lit.gif";menuIOff[3]="nav07f_prom.gif";menuW[4]=59;menuIOn[4]="nav07f_accessories_lit.gif";menuIOff[4]="nav07f_accessories.gif";menuW[5]=41;menuIOn[5]="nav07f_tuxedos_lit.gif";menuIOff[5]="nav07f_tuxedos.gif";menuW[6]=98;menuIOn[6]="nav07f_dyw_lit.gif";menuIOff[6]="nav07f_dyw.gif";menuW[7]=50;menuIOn[7]="nav07f_invitations_lit.gif";menuIOff[7]="nav07f_invitations.gif";menuW[8]=112;menuIOn[8]="nav07f_ceremony_lit.gif";menuIOff[8]="nav07f_ceremony.gif";menuW[9]=69;menuIOn[9]="nav07f_gifts_lit.gif";menuIOff[9]="nav07f_gifts.gif";
 var currentTopNavItem = null;
 function showTopNavAlt(a) {
 	currentTopNavItem = a;
@@ -109,8 +114,41 @@ function outTopNavAlt(a) {
 	currentTopNavItem = null;
 	setTimeout("hideTopNavAlt2(" + a + ")", 100);
 }
+
+
+function showPageOptions() {
+	document.getElementById('pageoptions').style.display='block';
+	document.getElementById('pageoptionsdropdown').innerHTML='<a href="javascript:hidePageOptions();"><img src=\"images/global/pageoptions_open.gif\" alt=\"\" width=\"128\" height=\"13\" hspace=\"0\" vspace=\"0\" border=\"0\"></a>';
+}
+
+function hidePageOptions(a) {
+	document.getElementById('pageoptions').style.display='none';
+	document.getElementById('pageoptionsdropdown').innerHTML='<a href="javascript:showPageOptions();"><img src=\"images/global/pageoptions.gif\" alt=\"\" width=\"128\" height=\"13\" hspace=\"0\" vspace=\"0\" border=\"0\"></a>';
+	if (a>=0) changeTabs(a);
+}
+
+
+var tabname = new Array ("bridal", "party", "reg", "inv", "planning", "styleguide", "dyw");
+function changeTabs(a) {
+	for (var i=0; i< tabname.length; i++) {
+		document.getElementById("tab_" + tabname[i]).src="/images/home/08s/tab_" + tabname[i] + "_color" + a + ".gif";
+		window.status="";
+	}
+	if (document.getElementById("iframe_color_save")) document.getElementById("iframe_color_save").src="/include_site_color_save.jsp?color=" + a;
+	if (document.getElementById("hp_tab_optin")) document.getElementById("hp_tab_optin").className = "cp"+a+"_dark"; //hp tab
+}
+
+function colorSelect(a) {
+	document.getElementById('pagecolor' + a).className = "pagecolor_selected";
+}
+
+function colorDeselect(a) {
+	document.getElementById('pagecolor' + a).className = "pagecolor";
+}
+
 //-->
 </script>
+
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
 <tbody><tr>
 <td background="/images/global/nav07f_bg.gif" align="center">
@@ -119,23 +157,38 @@ function outTopNavAlt(a) {
 	<td width="800" height="45"> 
 		<table width="100%" border="0" cellpadding="0" cellspacing="0">
 		<tbody><tr>
-		<td align="left"><a href="/index.jsp"><img src="/images/global/logo.gif" alt="David's Bridal" width="163" height="21" hspace="0" vspace="0" border="0"></a></td>
+		<td align="left"><table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td valign="middle"><a href="/index.jsp"><img src="/images/global/logo.gif" alt="David's Bridal" width="163" height="21" hspace="0" vspace="0" border="0"></a></td><td valign="middle"><!--<a href="/mmbcf.jsp"><img src="/images/global/icon_mmbcf.gif" alt="" width="22" height="35" hspace="10" vspace="0" border="0"></a>--></td></tr></tbody></table></td>
 		<td align="right" valign="bottom">
 			<table border="0" cellpadding="0" cellspacing="0">
 			<tbody><tr>
-			<td align="right" class="siteheader">
+			<td align="right" style="padding-bottom:5px;">
 				<table border="0" cellpadding="0" cellspacing="0">
 				<tbody><tr>
-				<td class="siteheader"><a href="/favorites.jsp"><img src="/images/global/icon_heart.gif" alt="" width="12" height="12" hspace="0" vspace="0" border="0"></a></td>
-				<td class="siteheader">&nbsp;<a href="/favorites.jsp">My Favorites</a></td>
+				<td valign="bottom"><a href="/appointment.jsp"><img src="/images/global/appointment.gif" alt="Request an Appointment: 877-923-BRIDE" width="224" height="12" hspace="0" vspace="0" border="0"></a></td>
+				
 				</tr>
 				</tbody></table>
 			</td>
-			<td>&nbsp;&nbsp;&nbsp;</td>
-			<td align="right">
+			</tr>
+			<tr>
+			<td align="right" class="siteheader">
+																					
+				<table border="0" cellpadding="0" cellspacing="0">
+				<tbody><tr>
 				
-				<a href="/appointment.jsp"><img src="/images/global/appointment.gif" alt="Request an Appointment: 877-923-BRIDE" width="224" height="12" hspace="0" vspace="0" border="0"></a>
+				<td class="siteheader"><a href="/favorites.jsp"><img src="/images/global/icon_heart.gif" alt="" width="12" height="12" hspace="0" vspace="0" border="0"></a></td>
+				<td class="siteheader">&nbsp;<a href="/favorites.jsp">My Favorites</a></td>
+				<td class="siteheader">&nbsp;&nbsp;|&nbsp;&nbsp;</td>
+				<td class="siteheader"><a href="/shopping_bag.jsp"><img src="/images/global/icon_bag.gif" alt="" width="14" height="12" hspace="0" vspace="0" border="0"></a></td>
+				<td class="siteheader">&nbsp;<a href="/shopping_bag.jsp">Shopping Bag</a></td>
+				<td class="siteheader">&nbsp;&nbsp;|&nbsp;&nbsp;</td>
+				<td class="siteheader"><a href="/myaccount.jsp">My Account</a></td>
 				
+				<td class="siteheader">&nbsp;&nbsp;|&nbsp;&nbsp;</td>
+				<td class="siteheader"><a href="/help.jsp">Help</a></td>
+
+				</tr>
+				</tbody></table>
 			</td>
 			</tr>
 			</tbody></table>
@@ -155,106 +208,134 @@ function outTopNavAlt(a) {
 				<div class="topnavImage"><a href="/bridalcollection.jsp" name="&amp;lid=nav_Bridal Gowns" onmouseover="showTopNavAlt(0)" onmouseout="hideTopNavAlt(0)"><img src="/images/global/nav07f_bridalgowns.gif" id="topnav_0" alt="Bridal Gowns" width="65" height="35" hspace="0" vspace="0" border="0"></a></div>
 				<div id="alt_0" class="topnavAlt" onmouseover="inTopNavAlt(0)" onmouseout="outTopNavAlt(0)">
 					<div class="topnavAltContainer">
-						<div class="topnavAltImageDiv"><a href="/bridalcollection.jsp"><img class="topnavAltImage" src="/images/global/07f/alt_bridal.jpg" width="50" height="50" border="0"></a></div>
+						<div class="topnavAltImageDiv"><a href="/bridalcollection.jsp"><img class="topnavAltImage" src="/images/global/08s/alt_bridal.jpg" width="50" height="50" border="0"></a></div>
 						<div class="topnavAltContent"><a href="/bridalcollection.jsp">David's Bridal Collection, David's Bridal Woman, Galina, Oleg Cassini, Monique Luo</a></div>
 					</div>
 				</div>
 			</div>
 		</td>
 			
-			<td><img src="/images/global/nav07f_sep.gif" alt="" width="1" height="35" hspace="19" vspace="0" border="0"></td>
+			<td><img src="/images/global/nav07f_sep.gif" alt="" width="1" height="35" hspace="7" vspace="0" border="0"></td>
 			
 		<td>
 			<div class="topnavButton">
 				<div class="topnavImage"><a href="/bridalparty.jsp" name="&amp;lid=nav_Bridal Party" onmouseover="showTopNavAlt(1)" onmouseout="hideTopNavAlt(1)"><img src="/images/global/nav07f_bridalparty.gif" id="topnav_1" alt="Bridal Party" width="57" height="35" hspace="0" vspace="0" border="0"></a></div>
 				<div id="alt_1" class="topnavAlt" onmouseover="inTopNavAlt(1)" onmouseout="outTopNavAlt(1)">
 					<div class="topnavAltContainer">
-						<div class="topnavAltImageDiv"><a href="/bridalparty.jsp"><img class="topnavAltImage" src="/images/global/07f/alt_bridalparty.jpg" width="50" height="50" border="0"></a></div>
+						<div class="topnavAltImageDiv"><a href="/bridalparty.jsp"><img class="topnavAltImage" src="/images/global/08s/alt_bridalparty.jpg" width="50" height="50" border="0"></a></div>
 						<div class="topnavAltContent"><a href="/bridalparty.jsp">Dresses and Separates for Bridesmaids, Junior Bridesmaids, Flower Girls and Moms.</a></div>
 					</div>
 				</div>
 			</div>
 		</td>
 			
-			<td><img src="/images/global/nav07f_sep.gif" alt="" width="1" height="35" hspace="19" vspace="0" border="0"></td>
+			<td><img src="/images/global/nav07f_sep.gif" alt="" width="1" height="35" hspace="7" vspace="0" border="0"></td>
 			
 		<td>
 			<div class="topnavButton">
 				<div class="topnavImage"><a href="/specialoccasions.jsp" name="&amp;lid=nav_Special Occasions" onmouseover="showTopNavAlt(2)" onmouseout="hideTopNavAlt(2)"><img src="/images/global/nav07f_specialoccasions.gif" id="topnav_2" alt="Special Occasions" width="89" height="35" hspace="0" vspace="0" border="0"></a></div>
 				<div id="alt_2" class="topnavAlt" onmouseover="inTopNavAlt(2)" onmouseout="outTopNavAlt(2)">
 					<div class="topnavAltContainer">
-						<div class="topnavAltImageDiv"><a href="/specialoccasions.jsp"><img class="topnavAltImage" src="/images/global/07f/alt_specialoccasions.jpg" width="50" height="50" border="0"></a></div>
+						<div class="topnavAltImageDiv"><a href="/specialoccasions.jsp"><img class="topnavAltImage" src="/images/global/08s/alt_specialoccasions.jpg" width="50" height="50" border="0"></a></div>
 						<div class="topnavAltContent"><a href="/specialoccasions.jsp">Dresses for Social Events, Communion, Prom, Quinceañera.</a></div>
 					</div>
 				</div>
 			</div>
 		</td>
 			
-			<td><img src="/images/global/nav07f_sep.gif" alt="" width="1" height="35" hspace="19" vspace="0" border="0"></td>
+			<td><img src="/images/global/nav07f_sep.gif" alt="" width="1" height="35" hspace="7" vspace="0" border="0"></td>
 			
 		<td>
 			<div class="topnavButton">
-				<div class="topnavImage"><a href="/accessories.jsp" name="&amp;lid=nav_Accessories" onmouseover="showTopNavAlt(3)" onmouseout="hideTopNavAlt(3)"><img src="/images/global/nav07f_accessories.gif" id="topnav_3" alt="Accessories" width="59" height="35" hspace="0" vspace="0" border="0"></a></div>
+				<div class="topnavImage"><a href="/link_davidsprom.jsp" name="&amp;lid=nav_Prom" target="_blank" onmouseover="showTopNavAlt(3)" onmouseout="hideTopNavAlt(3)"><img src="/images/global/nav07f_prom.gif" id="topnav_3" alt="Prom" width="26" height="35" hspace="0" vspace="0" border="0"></a></div>
 				<div id="alt_3" class="topnavAlt" onmouseover="inTopNavAlt(3)" onmouseout="outTopNavAlt(3)">
 					<div class="topnavAltContainer">
-						<div class="topnavAltImageDiv"><a href="/accessories.jsp"><img class="topnavAltImage" src="/images/global/07f/alt_accessories.jpg" width="50" height="50" border="0"></a></div>
+						<div class="topnavAltImageDiv"><a href="/link_davidsprom.jsp" target="_blank"><img class="topnavAltImage" src="/images/global/08s/alt_prom.jpg" width="50" height="50" border="0"></a></div>
+						<div class="topnavAltContent"><a href="/link_davidsprom.jsp" target="_blank">Be the Next Glamour Girl, Visit davidsprom.com.</a></div>
+					</div>
+				</div>
+			</div>
+		</td>
+			
+			<td><img src="/images/global/nav07f_sep.gif" alt="" width="1" height="35" hspace="7" vspace="0" border="0"></td>
+			
+		<td>
+			<div class="topnavButton">
+				<div class="topnavImage"><a href="/accessories.jsp" name="&amp;lid=nav_Accessories" onmouseover="showTopNavAlt(4)" onmouseout="hideTopNavAlt(4)"><img src="/images/global/nav07f_accessories.gif" id="topnav_4" alt="Accessories" width="59" height="35" hspace="0" vspace="0" border="0"></a></div>
+				<div id="alt_4" class="topnavAlt" onmouseover="inTopNavAlt(4)" onmouseout="outTopNavAlt(4)">
+					<div class="topnavAltContainer">
+						<div class="topnavAltImageDiv"><a href="/accessories.jsp"><img class="topnavAltImage" src="/images/global/08s/alt_accessories.jpg" width="50" height="50" border="0"></a></div>
 						<div class="topnavAltContent"><a href="/accessories.jsp">Headpieces, Veils, Shoes, Jewelry, Handbags, Outerwear, Gloves, Ribbons, Gifts.</a></div>
 					</div>
 				</div>
 			</div>
 		</td>
 			
-			<td><img src="/images/global/nav07f_sep.gif" alt="" width="1" height="35" hspace="19" vspace="0" border="0"></td>
+			<td><img src="/images/global/nav07f_sep.gif" alt="" width="1" height="35" hspace="7" vspace="0" border="0"></td>
 			
 		<td>
 			<div class="topnavButton">
-				<div class="topnavImage"><a href="/weddingparty_groom.jsp" name="&amp;lid=nav_Tuxedos" onmouseover="showTopNavAlt(4)" onmouseout="hideTopNavAlt(4)"><img src="/images/global/nav07f_tuxedos.gif" id="topnav_4" alt="Tuxedos" width="41" height="35" hspace="0" vspace="0" border="0"></a></div>
-				<div id="alt_4" class="topnavAlt" onmouseover="inTopNavAlt(4)" onmouseout="outTopNavAlt(4)">
+				<div class="topnavImage"><a href="/weddingparty_groom.jsp" name="&amp;lid=nav_Tuxedos" onmouseover="showTopNavAlt(5)" onmouseout="hideTopNavAlt(5)"><img src="/images/global/nav07f_tuxedos.gif" id="topnav_5" alt="Tuxedos" width="41" height="35" hspace="0" vspace="0" border="0"></a></div>
+				<div id="alt_5" class="topnavAlt" onmouseover="inTopNavAlt(5)" onmouseout="outTopNavAlt(5)">
 					<div class="topnavAltContainer">
-						<div class="topnavAltImageDiv"><a href="/weddingparty_groom.jsp"><img class="topnavAltImage" src="/images/global/07f/alt_tuxedo.jpg" width="50" height="50" border="0"></a></div>
+						<div class="topnavAltImageDiv"><a href="/weddingparty_groom.jsp"><img class="topnavAltImage" src="/images/global/08s/alt_tuxedo.jpg" width="50" height="50" border="0"></a></div>
 						<div class="topnavAltContent"><a href="/weddingparty_groom.jsp">Coordinating formalwear for the groom, groomsmen and ring bearer.</a></div>
 					</div>
 				</div>
 			</div>
 		</td>
 			
-			<td><img src="/images/global/nav07f_sep.gif" alt="" width="1" height="35" hspace="19" vspace="0" border="0"></td>
+			<td><img src="/images/global/nav07f_sep.gif" alt="" width="1" height="35" hspace="7" vspace="0" border="0"></td>
 			
 		<td>
 			<div class="topnavButton">
-				<div class="topnavImage"><a href="/dressyourwedding.jsp" name="&amp;lid=nav_Dress Your Wedding" onmouseover="showTopNavAlt(5)" onmouseout="hideTopNavAlt(5)"><img src="/images/global/nav07f_dyw.gif" id="topnav_5" alt="Dress Your Wedding" width="98" height="35" hspace="0" vspace="0" border="0"></a></div>
-				<div id="alt_5" class="topnavAlt" onmouseover="inTopNavAlt(5)" onmouseout="outTopNavAlt(5)">
+				<div class="topnavImage"><a href="/dressyourwedding.jsp" name="&amp;lid=nav_Dress Your Wedding" onmouseover="showTopNavAlt(6)" onmouseout="hideTopNavAlt(6)"><img src="/images/global/nav07f_dyw.gif" id="topnav_6" alt="Dress Your Wedding" width="98" height="35" hspace="0" vspace="0" border="0"></a></div>
+				<div id="alt_6" class="topnavAlt" onmouseover="inTopNavAlt(6)" onmouseout="outTopNavAlt(6)">
 					<div class="topnavAltContainer">
-						<div class="topnavAltImageDiv"><a href="/dressyourwedding.jsp"><img class="topnavAltImage" src="/images/global/07f/alt_dyw.jpg" width="50" height="50" border="0"></a></div>
+						<div class="topnavAltImageDiv"><a href="/dressyourwedding.jsp"><img class="topnavAltImage" src="/images/global/08s/alt_dyw.jpg" width="50" height="50" border="0"></a></div>
 						<div class="topnavAltContent"><a href="/dressyourwedding.jsp">Create the wedding of your dreams with our new online tool.</a></div>
 					</div>
 				</div>
 			</div>
 		</td>
 			
-			<td><img src="/images/global/nav07f_sep.gif" alt="" width="1" height="35" hspace="19" vspace="0" border="0"></td>
+			<td><img src="/images/global/nav07f_sep.gif" alt="" width="1" height="35" hspace="7" vspace="0" border="0"></td>
 			
 		<td>
 			<div class="topnavButton">
-				<div class="topnavImage"><a href="/invitations.jsp" name="&amp;lid=nav_Invitations" onmouseover="showTopNavAlt(6)" onmouseout="hideTopNavAlt(6)"><img src="/images/global/nav07f_invitations.gif" id="topnav_6" alt="Invitations" width="50" height="35" hspace="0" vspace="0" border="0"></a></div>
-				<div id="alt_6" class="topnavAlt" onmouseover="inTopNavAlt(6)" onmouseout="outTopNavAlt(6)">
+				<div class="topnavImage"><a href="/invitations.jsp" name="&amp;lid=nav_Invitations" onmouseover="showTopNavAlt(7)" onmouseout="hideTopNavAlt(7)"><img src="/images/global/nav07f_invitations.gif" id="topnav_7" alt="Invitations" width="50" height="35" hspace="0" vspace="0" border="0"></a></div>
+				<div id="alt_7" class="topnavAlt" onmouseover="inTopNavAlt(7)" onmouseout="outTopNavAlt(7)">
 					<div class="topnavAltContainer">
-						<div class="topnavAltImageDiv"><a href="/invitations.jsp"><img class="topnavAltImage" src="/images/global/07f/alt_invitations.jpg" width="50" height="50" border="0"></a></div>
+						<div class="topnavAltImageDiv"><a href="/invitations.jsp"><img class="topnavAltImage" src="/images/global/08s/alt_invitations.jpg" width="50" height="50" border="0"></a></div>
 						<div class="topnavAltContent"><a href="/invitations.jsp">Beautiful Stationery in exclusive designs and colors that coordinate with our fashions.</a></div>
 					</div>
 				</div>
 			</div>
 		</td>
 			
-			<td><img src="/images/global/nav07f_sep.gif" alt="" width="1" height="35" hspace="19" vspace="0" border="0"></td>
+			<td><img src="/images/global/nav07f_sep.gif" alt="" width="1" height="35" hspace="7" vspace="0" border="0"></td>
 			
 		<td>
 			<div class="topnavButton">
-				<div class="topnavImage"><a href="/gifts.jsp" name="&amp;lid=nav_Gifts and Favors" onmouseover="showTopNavAlt(7)" onmouseout="hideTopNavAlt(7)"><img src="/images/global/nav07f_gifts.gif" id="topnav_7" alt="Gifts and Favors" width="69" height="35" hspace="0" vspace="0" border="0"></a></div>
-				<div id="alt_7" class="topnavAlt" onmouseover="inTopNavAlt(7)" onmouseout="outTopNavAlt(7)">
+				<div class="topnavImage"><a href="/ceremonyreception.jsp" name="&amp;lid=nav_Ceremony &amp; Reception" onmouseover="showTopNavAlt(8)" onmouseout="hideTopNavAlt(8)"><img src="/images/global/nav07f_ceremony.gif" id="topnav_8" alt="Ceremony &amp; Reception" width="112" height="35" hspace="0" vspace="0" border="0"></a></div>
+				<div id="alt_8" class="topnavAlt" onmouseover="inTopNavAlt(8)" onmouseout="outTopNavAlt(8)">
 					<div class="topnavAltContainer">
-						<div class="topnavAltImageDiv"><a href="/gifts.jsp"><img class="topnavAltImage" src="/images/global/07f/alt_gifts.jpg" width="50" height="50" border="0"></a></div>
-						<div class="topnavAltContent"><a href="/gifts.jsp">Coordinate all your wedding details: favors, attendant gifts, ceremony, reception and more.</a></div>
+						<div class="topnavAltImageDiv"><a href="/ceremonyreception.jsp"><img class="topnavAltImage" src="/images/global/08s/alt_ceremony.jpg" width="50" height="50" border="0"></a></div>
+						<div class="topnavAltContent"><a href="/ceremonyreception.jsp">Coordinate all your wedding details: ceremony, reception items and more.</a></div>
+					</div>
+				</div>
+			</div>
+		</td>
+			
+			<td><img src="/images/global/nav07f_sep.gif" alt="" width="1" height="35" hspace="7" vspace="0" border="0"></td>
+			
+		<td>
+			<div class="topnavButton">
+				<div class="topnavImage"><a href="/giftsfavors.jsp" name="&amp;lid=nav_Gifts &amp; Favors" onmouseover="showTopNavAlt(9)" onmouseout="hideTopNavAlt(9)"><img src="/images/global/nav07f_gifts.gif" id="topnav_9" alt="Gifts &amp; Favors" width="69" height="35" hspace="0" vspace="0" border="0"></a></div>
+				<div id="alt_9" class="topnavAlt" onmouseover="inTopNavAlt(9)" onmouseout="outTopNavAlt(9)">
+					<div class="topnavAltContainer">
+						<div class="topnavAltImageDiv"><a href="/giftsfavors.jsp"><img class="topnavAltImage" src="/images/global/08s/alt_gifts.jpg" width="50" height="50" border="0"></a></div>
+						<div class="topnavAltContent"><a href="/giftsfavors.jsp">Coordinate all your wedding details: favors, attendant gifts, keepsakes and more.</a></div>
 					</div>
 				</div>
 			</div>
@@ -305,6 +386,9 @@ function outTopNavAlt(a) {
 				<option value="C2,C3">Bridal Party</option>
 				<option value="C4">Special Occasions</option>
 				<option value="C5">Accessories</option>
+				<option value="E2">Invitations</option>
+				<option value="E3">Ceremony &amp; Reception</option>
+				<option value="E4">Gifts &amp; Favors</option>
 				</select>
 				</div>
 			</td>
@@ -339,56 +423,69 @@ function outTopNavAlt(a) {
 	
 	<div id="leftnav" style="width:176px">
 	<table width="176" border="0" cellpadding="0" cellspacing="0">
+	
+<script language="JavaScript">
+<!--	
+	function showTipsCR() {
+	window.open('ew_tips_cr.jsp',null,'height=600,width=700,status=yes,toolbar=no,menubar=no,scrollbars=yes,location=no');
+}
+	function showTipsGF() {
+	window.open('ew_tips_gf.jsp',null,'height=600,width=700,status=yes,toolbar=no,menubar=no,scrollbars=yes,location=no');
+}
+//-->
+</script>
 
-
+		
 	
-
+	<tbody><tr><td class="leftnavdivider"><img src="/images/global/sidenav_rule.gif" alt="" width="176" height="1" hspace="0" vspace="0" border="0"></td></tr>
 	
-	<tbody><tr><td class="leftnavdivider"><img src="/images/global/sidenav_rule.gif" width="176" height="1"></td></tr>
+	<tr><td class="leftnava cp0_gray" style="padding-left:10px; "><a href="/register.jsp" style="font-weight:bold; ">REGISTER WITH US</a></td></tr>
 	
-	<tr><td class="leftnava" style="padding-left:10px; "><a href="/register.jsp" style="font-weight:bold; ">REGISTER WITH US</a></td></tr>
+		
 	
-
+	<tr><td class="leftnavdivider"><img src="/images/global/sidenav_rule.gif" alt="" width="176" height="1" hspace="0" vspace="0" border="0"></td></tr>
 	
-	<tr><td class="leftnavdivider"><img src="/images/global/sidenav_rule.gif" width="176" height="1"></td></tr>
+	<tr><td class="leftnava cp0_gray" style="padding-left:10px; "><a href="/appointment.jsp?loc=nav" style="font-weight:bold; ">REQUEST APPOINTMENT</a></td></tr>
 	
-	<tr><td class="leftnava" style="padding-left:10px; "><a href="/appointment.jsp?loc=nav" style="font-weight:bold; ">REQUEST APPOINTMENT</a></td></tr>
+		
 	
-
+	<tr><td class="leftnavdivider"><img src="/images/global/sidenav_rule.gif" alt="" width="176" height="1" hspace="0" vspace="0" border="0"></td></tr>
 	
-	<tr><td class="leftnavdivider"><img src="/images/global/sidenav_rule.gif" width="176" height="1"></td></tr>
+	<tr><td class="leftnava cp0_gray" style="padding-left:10px; "><a href="/styleguide.jsp" style="font-weight:bold; ">STYLE &amp; FASHION GUIDE</a></td></tr>
 	
-	<tr><td class="leftnava" style="padding-left:10px; "><a href="/styleguide.jsp" style="font-weight:bold; ">STYLE &amp; FASHION GUIDE</a></td></tr>
+		
 	
-
+	<tr><td class="leftnavdivider"><img src="/images/global/sidenav_rule.gif" alt="" width="176" height="1" hspace="0" vspace="0" border="0"></td></tr>
 	
-	<tr><td class="leftnavdivider"><img src="/images/global/sidenav_rule.gif" width="176" height="1"></td></tr>
+	<tr><td class="leftnava cp0_gray" style="padding-left:10px; "><a href="/bridalcollection_stories.jsp" style="font-weight:bold; ">REAL BRIDES</a></td></tr>
 	
-	<tr><td class="leftnava" style="padding-left:10px; "><a href="/bridalcollection_stories.jsp" style="font-weight:bold; ">REAL BRIDES</a></td></tr>
+		
 	
-
+	<tr><td class="leftnavdivider"><img src="/images/global/sidenav_rule.gif" alt="" width="176" height="1" hspace="0" vspace="0" border="0"></td></tr>
 	
-	<tr><td class="leftnavdivider"><img src="/images/global/sidenav_rule.gif" width="176" height="1"></td></tr>
+	<tr><td class="leftnava cp0_gray" style="padding-left:10px; "><a href="/planning.jsp" style="font-weight:bold; ">WEDDING PLANNING</a></td></tr>
 	
-	<tr><td class="leftnava" style="padding-left:10px; "><a href="/planning.jsp" style="font-weight:bold; ">WEDDING PLANNING</a></td></tr>
+		
 	
-
+	<tr><td class="leftnavdivider"><img src="/images/global/sidenav_rule.gif" alt="" width="176" height="1" hspace="0" vspace="0" border="0"></td></tr>
 	
-	<tr><td class="leftnavdivider"><img src="/images/global/sidenav_rule.gif" width="176" height="1"></td></tr>
+	<tr><td class="leftnava cp0_gray" style="padding-left:10px; "><a href="/specialoffers.jsp" style="font-weight:bold; ">SPECIAL OFFERS</a></td></tr>
 	
-	<tr><td class="leftnava" style="padding-left:10px; "><a href="/specialoffers.jsp" style="font-weight:bold; ">SPECIAL OFFERS</a></td></tr>
+		
 	
-
+	<tr><td class="leftnavdivider"><img src="/images/global/sidenav_rule.gif" alt="" width="176" height="1" hspace="0" vspace="0" border="0"></td></tr>
 	
-	<tr><td class="leftnavdivider"><img src="/images/global/sidenav_rule.gif" width="176" height="1"></td></tr>
+	<tr><td class="leftnava cp0_gray" style="padding-left:10px; "><a href="/catalogs.jsp" style="font-weight:bold; ">ONLINE CATALOGS</a></td></tr>
 	
-	<tr><td class="leftnava" style="padding-left:10px; "><a href="/catalogs.jsp" style="font-weight:bold; ">ONLINE CATALOGS</a></td></tr>
+		
 	
-	<tr><td class="leftnavdivider"><img src="/images/global/sidenav_rule.gif" width="176" height="1"></td></tr>
+	<tr><td class="leftnavdivider"><img src="/images/global/sidenav_rule.gif" alt="" width="176" height="1" hspace="0" vspace="0" border="0"></td></tr>
 	
+	<tr><td class="leftnava cp0_gray" style="padding-left:10px; "><a href="/videogallery.jsp" style="font-weight:bold; ">VIDEO GALLERY</a></td></tr>
+	
+	<tr><td class="leftnavdivider"><img src="/images/global/sidenav_rule.gif" alt="" width="176" height="1" hspace="0" vspace="0" border="0"></td></tr>
 	</tbody></table>
 	</div>
-
 
 
 
@@ -407,17 +504,24 @@ function outTopNavAlt(a) {
 
 
 
+
+
+
+
+
+
 <tbody><tr><td style="padding-top:10px;"><a href="/gifts.jsp"><img src="/images/global/cta_gifts.gif" width="176" height="130" alt="Gifts" border="0" hspace="0" vspace="0"></a></td></tr>
 
-	
-	
-	
 
 
 
 
-	
+
+
+
+
 </tbody></table>
+
 
 </td>
 <td width="4"> </td>
@@ -425,13 +529,13 @@ function outTopNavAlt(a) {
 	
 	
 	
-
 	<table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#e8e8e8">
 	<tbody><tr>
 	<td height="25" align="center">
 		<table width="97%" border="0" cellpadding="0" cellspacing="0">
 		<tbody><tr>
 		<td nowrap="" class="breadcrumb"><a class="nav" href="/">Home</a> / <a class="nav" href="/privacy.jsp">Privacy Policy</a></td>
+		
 		<td nowrap="" align="right">
 		
 		
@@ -451,58 +555,113 @@ function outTopNavAlt(a) {
 	<table width="600" border="0" cellpadding="0" cellspacing="20">
 	<tbody><tr>
 	<td>
-		Effective 12.09.2004
+		This privacy policy is effective as of 7.26.2007 
 		<br>
-		<br>David's Bridal is committed to maintaining your confidence and trust and, maintains the following privacy policy to protect the personally identifiable information you provide online. To make this notice easy to find, we make it available on our homepage and at every point where we request personally identifiable information from you.
+		<br>David's Bridal is committed to maintaining your confidence and trust and, maintains the following privacy policy to protect the personally identifiable information you provide to us.  
 		<br>
-		<br><hr noshade="" size="1" color="#CCCCCC">
-		<br><b>What information do we collect on this website?</b>
+		
+		<br><hr noshade="" size="1" color="#999999">
+		<br><b>What information do we collect on this website? </b>
 		<br>
-		<br>David's Bridal collects information online to fulfill your requests. When you join our registry, we need to know your name and shipping address. While it is not required, we also ask for additional information about you (such as email address), as well as specific bridal party and wedding information. This allows us to send you information about special events and offers, and other information custom-tailored to your needs. The information collected is also used to administer our "gown giveaway" contest as explained in the Contest Rules. 
+		<br><b>Information You Give Us:</b>  David's Bridal collects information that you provide to us online or through other means (i.e., in-store registrations) to fulfill your requests. For example:
 		<br>
-		<br>We use a third party advertising company to serve ads on our behalf across the Internet.  To help make our information more useful to our visitors, we may collect anonymous information about your visits to our web site, and about your interaction with our ads.  For example, we may keep track of how many of our ads you had seen before visiting our site using technology such as cookies, action tags, Web Beacons or GIF tags, which we may place at various sections within our web site. We do not collect any personally identifiable information through the use of this technology.  
+		
+		<ul>
+		<li>If you join our registry, request an appointment or enter our "gown giveaway" contest, we collect your first and last names, postal address, email address and telephone number, and we also ask for specific bridal party and wedding information. <br><br></li>
+		<li>If you make a purchase at this website, we will also ask you for your credit card number, a shipping address and a telephone number for that shipping address, and for any additional information that may be required to personalize the product you purchase. <br><br></li>
+		<li>If you contact customer service, we will ask you for your name, postal address, email address, telephone number, order number and such other information as you wish to submit to us for our assistance.<br><br></li>
+		<li>If you submit a wedding story, we will ask you for your email address, the names of the bride and groom, and the date and location of the wedding, and we will collect such information as you may include in the wedding story and photos that you submit to us.<br><br></li>
+		<li>If you use the wedding planning section of our website, we will ask you to provide us with your zip code or city and state.</li>
+		</ul>
+		
+		Please note that registration is required to browse our online catalogs and make a purchase at this website, post a product review, or use certain additional features of this website, such as the "My Favorites" and "Dress Your Wedding" features.  Registration also allows us to send you information about special events and offers, and other information custom-tailored to your needs.  
+		<br>
+		<br><b>Automatic Information:</b>  We use a third party advertising company to serve ads on our behalf across the Internet. To help make our information more useful to our visitors, we may collect non-identifying information about your visits to our web site, and about your interaction with our ads. For example, we may keep track of how many of our ads you had seen before visiting our site, how you were directed to our site, how you navigate around it and which products you browse, as well as your purchasing activities.  To do this, we use technology such as cookies, action tags, Web Beacons or GIF tags, which we may place at various sections within our web site. We do not collect any personally identifiable information through the use of this technology. 
 		<br>
 		<br>"Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. Our cookies do not contain any personally identifying information. Most web browsers automatically accept cookies, but you can usually change your browser to prevent that. Our site uses cookies to make sure you are not shown the same content repeatedly, to deliver information that is specific to your interests, and to save your password so you don't have to re-enter it each time you visit our site. 
 		<br>
-		<br>From time to time, we may share anonymous information with our ad agencies in an aggregate form, for purposes of analysis and improvement of our site. We may use information about your visits to this and other web sites in order to provide ads about goods and services of interest to you.  If you would like more information about this practice or the process of opting out of these cookies, please <a href="http://www.atlasdmt.com/privacy" target="_blank">click here</a>.
+		<br>Information from Other Sources: For reasons such as improving personalization of our service (for example, providing product recommendations or special offers that we think will interest you), we might receive information about you from other sources and add it to our account information. 
 		<br>
-		<br><hr noshade="" size="1" color="#CCCCCC">
-		<br><b>Will we disclose the information collected to outside parties?</b>
+		<br><b>Other Information:</b>  We may also collect certain non-identifying information about visitors to this website, including but not limited to the identity of their Internet browsers, the types of operating systems they use, their locations, and the domain names of their Internet service providers. 
 		<br>
-		<br>The personally identifiable information we collect online is sent to the David's Bridal retail store in your area so the store can provide you with information regarding special events and offers relating to special events and offers in your area. David's Bridal may choose to sell, trade or rent your personally identifiable information to third parties providing offers that we believe would be attractive to our customers. If you wish to opt out of these offers, please send an email to <a href="mailto:remove@davidsbridal.net">remove@davidsbridal.net</a>. 
+		
+		<br><hr noshade="" size="1" color="#999999">
+		<br><b>How do we use the information we collect?</b>
 		<br>
-		<br>We also may use non-identifying and aggregate information to improve the design of our web site and to share with advertisers. For example, we may tell an advertiser that X-number of individuals visited a certain area on our web site, or that Y-number of women who filled out our registration form are from the northeast U.S., but we will not disclose anything that could be used to identify those individuals. 
+		<br><b>Order Fulfillment:</b>  We use your personal information to confirm, fulfill and ship your orders and to set up appointments. We may also use your information to contact you if we want to communicate with you about your order or your appointment.  
 		<br>
-		<br><hr noshade="" size="1" color="#CCCCCC">
-		<br><b>How does David's Bridal protect customer information?</b>
+		<br><b>Contests:</b>  We use your personal information to administer our "gown giveaway" contest as explained in the <a href="javascript:var newin=window.open('winagown_rules.jsp','rules','height=600,width=540,scrollbars=yes');if (newin!=null) { newin.focus(); }">Contest Rules</a> and other contests that we may administer from time to time.
 		<br>
-		<br>We protect the customer data we collect.  To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have implemented appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
+		<br><b>Newsletters:</b>  We may also use your personal information to send you newsletters or other promotional notices, or to respond to requests for information from you.
 		<br>
-		<br>When you order our catalog online, we offer the use of a secure server. The secure server software (SSL) encrypts all information input before you send it to us. The information we collect when you enter our Bridal Registry is transmitted over an insecure server, but we use industry standard efforts, such as firewalls, to safeguard the confidentiality of this information. 
+		<br><b>Rewards Programs and Advertisements:</b>  We may also participate in rewards programs with other business organizations where our customers who are also members of these businesses receive a reward from the other businesses for their  purchases at David's Bridal . We also place advertisements for our products on other websites that include a link that enable visitors to click over to our site and purchase the products.  In these situations, we share information about our customers' purchases with these other member organizations and other websites under the contracts these entities have with us.
 		<br>
-		<br><hr noshade="" size="1" color="#CCCCCC">
-		<br><b>A special note concerning children's privacy:</b>
+		<br><b>Optional Features:</b>  If you choose to participate in certain other features or functions of our website, such as customer service, product reviews, wishlists, and wedding stories, we will use your personal information to administer and operate those features and functions.
+		<br>
+		<br><b>Other Business Purposes</b>:  We may also use personal information and non-identifying and aggregate information about our customers' access and navigation of our site and their browsing and purchasing activities that we obtain from cookies, action tags, Web Beacons and GIF tags to improve this website and our service to you, and for other business purposes, such as marketing, advertising and research.  We may also contact you from time to time to inform you of the services that we offer and to gather information about how we can improve them.   
+		<br>
+		
+		<br><hr noshade="" size="1" color="#999999">
+		<br><b>Will we disclose the information collected to outside parties? </b>
+		<br>
+		<br><b>Retail Stores:</b>  The personal information we collect is sent to the David's Bridal retail store in your area so the store can provide you with information regarding special events and offers relating to special events and offers in your area. 
+		<br>
+		<br><b>Contractors:</b>  We engage other companies and individuals from time to time to perform business functions on our behalf, including fulfilling orders, delivering packages, sending postal mail and e-mail, maintaining customer lists, analyzing data, providing marketing assistance, processing payments, and providing customer service. We furnish to them personal information required to perform these functions. 
+		<br>
+		<br><b>Third Parties:</b>  David's Bridal may also choose to sell, trade or rent your personally identifiable information to third parties providing offers that we believe would be attractive to our customers. If you wish to opt out of these offers, please send an email to <a href="mailto:remove@davidsbridal.net">remove@davidsbridal.net</a>.  Please note that we are not responsible for the privacy policies or practices of these third parties.  
+		<br>
+		<br><b>Ad Agencies:</b>  From time to time, we may share non-identifying information with our ad agencies and other third parties in an aggregate form, for purposes of analysis and improvement of our site. We may use information about your visits to this and other web sites in order to provide ads about goods and services of interest to you. If you would like more information about this practice or the process of opting out of these cookies, please click here.
+		<br>
+		<br><b>Advertisers:</b>  We also may share with advertisers non-identifying and aggregate information. For example, we may tell an advertiser that X-number of individuals visited a certain area on our web site, or that Y-number of women who filled out our registration form are from the northeast U.S., but we will not disclose anything that could be used to identify those individuals. 
+		<br>
+		<br><b>Optional Features: </b> Additionally, we share personal information about you when you voluntarily use certain optional features of our site.  For example, if you include personal information in a product review that you submit, the content of that review will be posted on this website and may be distributed and posted to other websites.  If you are a member of a third party rewards program, we will share information concerning your purchases on our site with that organization.  If you participate in a contest or sweepstakes, we may share the information you submit with others assisting us in the administration of the contest.   
+		<br>
+		<br><b>Law Enforcement:</b>  We also reserve the right to share personal information about you as required by law or in cooperation with legal authorities and to enforce the General Terms and Conditions of Use of this site or to protect the rights, property, or safety of David's Bridal and its customers.
+		<br>
+		<br><b>Business Transfers:</b> As we continue to develop our business, we might purchase or sell our business or assets and, in such transactions, the transferred business assets may include personal information of our customers.  
+		<br>
+		
+		<br><hr noshade="" size="1" color="#999999">
+		<br><b>How can you review and revise the information we collect about you?</b>
+		<br>
+		<br>You can always review your personal profile and update it by going to the My Account area on our website and clicking on My Profile.  You can also modify certain personal information, such as your billing address, shipping address or payment method, when you check out.
+		<br>
+		<br>Our customer service representatives are also ready to assist you in checking or changing your personal profile. You can reach them by completing the form available on the "Contact Us" page of the "Help" section of this website or by e-mail at <a href="mailto:customerservice@dbi.com">customerservice@dbi.com</a>.
+		<br>
+		<br>You can opt out of our use of cookies to recall information about you by setting your browser not to accept cookies or to disable cookies.  You cannot access or change other non-identifying information that we collect from visitors to our website on an automated basis.  
+		<br>
+		
+		<br><hr noshade="" size="1" color="#999999">
+		<br><b>How does David's Bridal protect customer information? </b>
+		<br>
+		<br>We take precautions to protect the customer data we collect. To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have implemented appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
+		<br>
+		<br>When you check out an order on our  website, we offer the use of a secure server. The secure server software (SSL) encrypts all information input before you send it to us, provided you are using an SSL enabled browser.   To learn more about SSL, please follow this link to http://www.ssl.com.  We do not use SSL software when you submit to us information for any other purpose, including joining our registry, requesting an appointment, entering our "gown giveaway" contest or submitting a wedding story, but we use other means, such as firewalls, to safeguard the confidentiality of this information.  No method of transmission or electronic storage, however, provides certainty of security, and we therefore cannot guarantee the absolute security of the information that we collect.
+		<br>
+		<br><b>A note concerning linked websites:</b>
+		<br>Our website contains links to websites operated by third parties, including advertisers on our website and other business partners of David's Bridal.  When you click on one of these links, you will visit the websites operated by these third parties, and information that you submit at these websites are submitted by you directly to these third parties, and will be governed by their privacy practices and procedures.  We are not responsible for the privacy policies or practices of these third parties.   
+		<br>
+		<br><b>A special note concerning children's privacy: </b>
 		<br>
 		<br>The safety of children is very important to us. We are committed to protecting children's privacy on the Internet and we comply fully with the Children's Online Privacy Protection Act (COPPA). We do not knowingly collect personally identifiable information from children under the age of 13. If a child has provided one of our Web sites with personally identifiable information, we ask that a parent or guardian send us an email at <a href="mailto:remove@davidsbridal.net">remove@davidsbridal.net</a>, and we will delete the information about the child from our files. 
 		<br>
-		<br><hr noshade="" size="1" color="#CCCCCC">
-		<br><b>Is there anything else I should know about Internet privacy?</b>
+		
+		<br><hr noshade="" size="1" color="#999999">
+		<br><b>Is there anything else I should know about Internet privacy?</b> 
 		<br>
-		<br>Please keep in mind that whenever you voluntarily disclose personally identifiable information online-for example on message boards, through email or in chat areas-that information can be collected and used by others. In addition, the privacy policies of other web sites will vary, while some may have no stated privacy policy. 
+		<br>Please keep in mind that whenever you voluntarily disclose personally identifiable information online-for example on message boards, through email or in chat areas-that information can be collected and used by others. In addition, the privacy policies of other web sites will vary, while some may have no stated privacy policy.   
+		<br>	
+		<br>In short, if you provide personally identifiable information online that is accessible to the public, you may receive unsolicited messages from other parties in return. It is ultimately your responsibility to maintain the secrecy of your personally identifiable information to the extent you feel comfortable. We encourage you to be careful and to ask questions before you disclose your personally identifiable information to others, and to read the posted privacy policy of  every site you visit, whether you are linking from our website or browsing on your own. 
 		<br>
-		<br>In short, if you provide personally identifiable information online that is accessible to the public, you may receive unsolicited messages from other parties in return. It is ultimately your responsibility to maintain the secrecy of your personally identifiable information to the extent you feel comfortable. We encourage you to be careful and to ask questions before you disclose your personally identifiable information to others. 
+		<br><b>Your consent and changes to our privacy policy: </b>
 		<br>
-		<br><hr noshade="" size="1" color="#CCCCCC">
-		<br><b>Your consent:</b>
+		<br>By using our web site, you consent to our collection and use of the information you provide. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.  Unless we clearly express otherwise, our current privacy policy will apply to all information that we have about you and your account, including information we collect prior to the effective date of the change to our privacy policy.  If you would like to be removed from our mailing list, please send an email to: <a href="mailto:remove@davidsbridal.net">remove@davidsbridal.net</a>. 
+		<br>	
+		<br><b>How to contact us: </b>
 		<br>
-		<br>By using our web site, you consent to our collection and use of the information you provide. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. If you would like to be removed from our mailing list, please send an email to: <a href="mailto:remove@davidsbridal.net">remove@davidsbridal.net</a>. 
+		<br>If you have other questions or concerns about our privacy policy, please send us an email at <a href="mailto:remove@davidsbridal.net">remove@davidsbridal.net</a>. Our address is 1001 Washington Street, Conshohocken, PA 19428. 
 		<br>
-		<br><hr noshade="" size="1" color="#CCCCCC">
-		<br><b>How to contact us:</b>
-		<br>
-		<br>If you have other questions or concerns about our privacy policy, please send us an email at <a href="mailto:remove@davidsbridal.net">remove@davidsbridal.net</a>. Our address is 1001 Washington Street, Conshohocken, PA 19428.
-		<br>
-		<br><hr noshade="" size="1" color="#CCCCCC">
+		
 	</td>
 	</tr>
 	</tbody></table>
@@ -519,7 +678,7 @@ function outTopNavAlt(a) {
 
 
 <div style="text-align:center;">
-<table align="center" width="800" border="0" cellpadding="0" cellspacing="0">
+<table width="800" border="0" cellpadding="0" cellspacing="0" align="center">
 <tbody><tr>
 <td style="padding-top:4px; padding-bottom:10px;"><hr noshade="" size="1" color="#cccccc"></td>
 </tr>
@@ -533,24 +692,24 @@ function outTopNavAlt(a) {
 	<td width="15"> </td>
 	<td><a href="/catalog.jsp" name="&amp;lid=footnav_catalog" onmouseover="document.footer_catalogs.src='/images/global/footer_catalogs_lit.gif';" onmouseout="document.footer_catalogs.src='/images/global/footer_catalogs.gif';"><img src="/images/global/footer_catalogs.gif" name="footer_catalogs" alt="Catalogs" width="46" height="10" hspace="0" vspace="0" border="0"></a></td>
 	<td width="15"> </td>
+	<td><a href="/specialoffers_financing.jsp" name="&amp;lid=footnav_cc" onmouseover="document.footer_cc.src='/images/global/footer_cc_lit.gif';" onmouseout="document.footer_cc.src='/images/global/footer_cc.gif';"><img src="/images/global/footer_cc.gif" name="footer_cc" alt="DB Credit Card" width="75" height="10" hspace="0" vspace="0" border="0"></a></td>
+	<td width="15"> </td>
+	<td><a href="/link_dbespanol.jsp" name="&amp;lid=footnav_linkespanol" onmouseover="document.footer_espanol.src='/images/global/footer_espanol_lit.gif';" onmouseout="document.footer_espanol.src='/images/global/footer_espanol.gif';"><img src="/images/global/footer_espanol.gif" name="footer_espanol" alt="En Espanol" width="56" height="10" hspace="0" vspace="0" border="0"></a></td>
+	<td width="15"> </td>
+	<td><a href="/help.jsp" name="&amp;lid=footnav_faq" onmouseover="document.footer_faq.src='/images/global/footer_faq_lit.gif';" onmouseout="document.footer_faq.src='/images/global/footer_faq.gif';"><img src="/images/global/footer_faq.gif" name="footer_faq" alt="FAQ" width="17" height="10" hspace="0" vspace="0" border="0"></a></td>
+	<td width="15"> </td>
 	<td><a href="/weddingservices.jsp" name="&amp;lid=footnav_wedservices" onmouseover="document.footer_services.src='/images/global/footer_services_lit.gif';" onmouseout="document.footer_services.src='/images/global/footer_services.gif';"><img src="/images/global/footer_services.gif" name="footer_services" alt="In-Store Services" width="89" height="10" hspace="0" vspace="0" border="0"></a></td>
 	<td width="15"> </td>
 	<td><a href="/aboutus_join.jsp" name="&amp;lid=footnav_aboutusjoin" onmouseover="document.footer_join.src='/images/global/footer_join_lit.gif';" onmouseout="document.footer_join.src='/images/global/footer_join.gif';"><img src="/images/global/footer_join.gif" name="footer_join" alt="Join Our Team" width="70" height="10" hspace="0" vspace="0" border="0"></a></td>
 	<td width="15"> </td>
-	<td><a href="/specialoffers_financing.jsp" name="&amp;lid=footnav_cc" onmouseover="document.footer_cc.src='/images/global/footer_cc_lit.gif';" onmouseout="document.footer_cc.src='/images/global/footer_cc.gif';"><img src="/images/global/footer_cc.gif" name="footer_cc" alt="DB Credit Card" width="75" height="10" hspace="0" vspace="0" border="0"></a></td>
+	<td><a href="/planning.jsp" name="&amp;lid=footnav_planning" onmouseover="document.footer_planning.src='/images/global/footer_planning_lit.gif';" onmouseout="document.footer_planning.src='/images/global/footer_planning.gif';"><img src="/images/global/footer_planning.gif" name="footer_planning" alt="planning" width="45" height="10" hspace="0" vspace="0" border="0"></a></td>
 	<td width="15"> </td>
 	<td><a href="/press/index.jsp" name="&amp;lid=footnav_press" onmouseover="document.footer_press.src='/images/global/footer_press_lit.gif';" onmouseout="document.footer_press.src='/images/global/footer_press.gif';"><img src="/images/global/footer_press.gif" name="footer_press" alt="Press Room" width="59" height="10" hspace="0" vspace="0" border="0"></a></td>
-	<td width="15"> </td>
-	<td><a href="/link_dbespanol.jsp" name="&amp;lid=footnav_linkespanol" onmouseover="document.footer_espanol.src='/images/global/footer_espanol_lit.gif';" onmouseout="document.footer_espanol.src='/images/global/footer_espanol.gif';"><img src="/images/global/footer_espanol.gif" name="footer_espanol" alt="En Espanol" width="56" height="10" hspace="0" vspace="0" border="0"></a></td>
-	<td width="15"> </td>
-	<td><a href="/faq.jsp" name="&amp;lid=footnav_faq" onmouseover="document.footer_faq.src='/images/global/footer_faq_lit.gif';" onmouseout="document.footer_faq.src='/images/global/footer_faq.gif';"><img src="/images/global/footer_faq.gif" name="footer_faq" alt="FAQ" width="17" height="10" hspace="0" vspace="0" border="0"></a></td>
-	<td width="15"> </td>
-	<td><a href="/planning.jsp" name="&amp;lid=footnav_planning" onmouseover="document.footer_partners.src='/images/global/footer_partners_lit.gif';" onmouseout="document.footer_partners.src='/images/global/footer_partners.gif';"><img src="/images/global/footer_partners.gif" name="footer_partners" alt="Partners" width="46" height="10" hspace="0" vspace="0" border="0"></a></td>
 	<td width="15"> </td>
 	<td><a href="/weddinglinks/sitemap.shtml" name="&amp;lid=footnav_sitemap" onmouseover="document.footer_sitemap.src='/images/global/footer_sitemap_lit.gif';" onmouseout="document.footer_sitemap.src='/images/global/footer_sitemap.gif';"><img src="/images/global/footer_sitemap.gif" name="footer_sitemap" alt="Site Map" width="43" height="10" hspace="0" vspace="0" border="0"></a></td>
 	</tr>
 	</tbody></table>
-	<div class="copyright" style="text-align:center; padding-top:10px;">© 2002-2007 David's Bridal. All Rights Reserved. <a href="/privacy.jsp">Privacy Policy</a></div>
+	<div class="copyright" style="text-align:center; padding-top:10px;">© 2002-2007 David's Bridal. All Rights Reserved. <a href="/privacy.jsp">Privacy Policy</a> <a href="/myaccount_cs_terms.jsp">Terms &amp; Conditions</a></div>
 </td>
 </tr>
 <tr>
@@ -559,7 +718,7 @@ function outTopNavAlt(a) {
 <tbody><tr>
 <td width="135" align="center" valign="top">
 
-<script src="https://seal.verisign.com/getseal?host_name=www.davidsbridal.com&amp;size=S&amp;use_flash=NO&amp;use_transparent=NO&amp;lang=en"></script><br>
+<a href="https://seal.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=WWW.DAVIDSBRIDAL.COM&amp;lang=en" target="_blank"><img src="https://seal.verisign.com/images/logo2.gif" width="134" height="61" border="0"></a><br>
 
 <a href="http://www.verisign.com/ssl/ssl-information-center/" target="_blank" style="color:#000000; text-decoration:none; font:bold 7px verdana,sans-serif; letter-spacing:.5px; text-align:center; margin:0px; padding:0px;">ABOUT SSL CERTIFICATES</a></td>
 </tr>
@@ -578,7 +737,9 @@ var hbx=_hbEvent("pv");hbx.vpc="HBX0100u";hbx.gn="ehg-davidsbridal.hitbox.com";
 
 //BEGIN EDITABLE SECTION
 //CONFIGURATION VARIABLES
+
 hbx.acct = "DM550908C8DW93EN3"; //ACCOUNT NUMBER(S)
+
 hbx.pn = "Privacy Policy/privacy.jsp"; //PAGE NAME(S)
 hbx.mlc = ""; //MULTI-LEVEL CONTENT CATEGORY
 hbx.pndef = "index.jsp"; //DEFAULT PAGE NAME
@@ -587,7 +748,7 @@ hbx.ctdef = "full"; //DEFAULT CONTENT CATEGORY
 //OPTIONAL PAGE VARIABLES
 //ACTION SETTINGS
 hbx.fv = "1"; //FORM VALIDATION MINIMUM ELEMENTS OR SUBMIT FUNCTION NAME
-hbx.lt = "none"; //LINK TRACKING
+hbx.lt = "auto"; //LINK TRACKING
 hbx.dlf = "n"; //DOWNLOAD FILTER
 hbx.dft = "n"; //DOWNLOAD FILE NAMING
 hbx.elf = "n"; //EXIT LINK FILTER
@@ -624,9 +785,15 @@ hbx.hc4 = ""; //CUSTOM 4
 hbx.hrf = ""; //CUSTOM REFERRER
 hbx.pec = ""; //ERROR CODES
 
+
 //INSERT CUSTOM EVENTS
+
+
+
 </script>
+
 <script language="javascript1.1" defer="" src="/js/hbx.js"></script>
+
 <!--END WEBSIDESTORY CODE-->
 
 <!--BEGIN UNMDBL CODE-->
@@ -635,11 +802,12 @@ hbx.pec = ""; //ERROR CODES
 
 <!--BEGIN URCHIN CODE-->
 <script src="/js/urchin.js" type="text/javascript"></script>
+
 <script type="text/javascript">
 _uacct = "UA-31193-10";
-if (location.href.toLowerCase().indexOf('/register.jsp') == -1) {
-  urchinTracker();
-}
+
+urchinTracker();
+
 </script>
 
 <!--END URCHIN CODE-->
