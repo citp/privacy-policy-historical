@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aquabid.com privacy policy that was archived on 2007-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070404050254id_/http%3A//www.aquabid.com/faq/index.php%3Fa%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aquabid.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229081852id_/http%3A//www.aquabid.com/faq/index.php%3Fa%3D1) for the most accurate reproduction.*
 
 # Knowledge Base
 
