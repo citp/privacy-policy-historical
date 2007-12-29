@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the micksgarage.com privacy policy that was archived on 2007-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070430125919id_/http%3A//www.micksgarage.ie/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the micksgarage.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229151839id_/http%3A//www.micksgarage.ie/privacy.aspx) for the most accurate reproduction.*
 
 # Ireland's largest Car Parts and Used Cars website
 
