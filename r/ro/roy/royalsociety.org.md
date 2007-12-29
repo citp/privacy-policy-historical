@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the royalsociety.org privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630193802id_/http%3A//www.royalsociety.org/noneditable.asp%3Fid%3D22) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the royalsociety.org privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229151117id_/http%3A//www.royalsociety.org/noneditable.asp%3Fid%3D22) for the most accurate reproduction.*
 
 # Site help
 
 ### Privacy Policy Statement
 
-The Royal Society receives personal information through this website - http://www.royalsoc.ac.uk. You may, for example, be asked for personal information if you want to take advantage of specific services that we offer, such as online ordering, subscription to our publications or registering for Science in the News.
+The Royal Society receives personal information through this website - http://royalsociety.org. You may, for example, be asked for personal information if you want to take advantage of specific services that we offer, such as online ordering, subscription to our publications or registering for Science in the News.
 
 In any case where you provide personal information, we will only use it to deliver the services you have requested. We may need to pass your personal information to anyone to whom we transfer our rights and duties and we may also disclose your information to any applicable regulatory body or if the law requires or allows us to.
 
 The Royal Society will occasionally inform you of new services and products related to those you have ordered or registered for and of changes and activities within the Society. You have the right to opt-out of receiving this information, for more information contact Karen O'Connell, the Society’s Data Protection Officer.
 
 This privacy policy only covers the:  
-Royal Society Website at http://www.royalsoc.ac.uk and the  
-Royal Society publications website http://www.pubs.royalsoc.ac.uk/
+Royal Society Website at http://royalsociety.org and the  
+Royal Society publications website http://www.pubs.royalsociety.org/
 
 The Royal Society site does not automatically capture or store personal information, other than logging the user's IP address and session information such as the duration of the visit and the type of browser used. This is recognised by the Web server and is only used for system administration and to provide statistics, which the Royal Society uses to evaluate use of the site. This policy does not cover links within this site to other websites.
 
@@ -29,7 +29,7 @@ or
 
 
 
-please contact the Society’s Data Protection Officer by telephoning +44 (0)20 7451 2527 or emailing Karen.O'Connell@royalsoc.ac.uk or writing to Karen O'Connell  
+please contact the Society’s Data Protection Officer by telephoning +44 (0)20 7451 2527 or emailing Karen.O'Connell@royalsociety.org or writing to Karen O'Connell  
 at:  
 The Data Protection Officer  
 The Royal Society  
