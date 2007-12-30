@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the laserdesign.com privacy policy that was archived on 2007-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070420202131id_/http%3A//www.laserdesign.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laserdesign.com privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230020614id_/http%3A//www.laserdesign.com/privacy.htm) for the most accurate reproduction.*
 
 # Laser Design - PRIVACY STATEMENT
 
@@ -10,7 +10,7 @@ Your IP address is used to help identify you; we use cookies for your convenienc
 
 Our site's registration form requires you to give us initial basic contact information (like name and email address). We use this contact information from the registration form to send you information about our company and material on our products.
 
-Your contact information can also be used to send you follow-up communications in your area of interest. Any mailing lists derived from contact information will not be shared with anyone outside the authorized Laser Design, Inc. organization. After the initial requested information sharing between you and Laser Design, Inc., further qualification can determine if more communication will be beneficial. You will not be able from the website itself to opt-out of receiving future information.
+Your contact information can also be used to send you follow-up communications in your area of interest.  After the initial requested information sharing between you and Laser Design, Inc., further qualification can determine if more and/or 3rd party communication will be beneficial. You will not be able from the website itself to opt-out of receiving future information.
 
 This site contains links to other sites. Laser Design, inc. is not responsible for the privacy practices or the content of such websites.
 
