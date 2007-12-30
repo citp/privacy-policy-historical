@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the your4state.com privacy policy that was archived on 2007-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070206052931id_/http%3A//www.your4state.com/content/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the your4state.com privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230150321id_/http%3A//your4state.com/content/about/privacypolicy) for the most accurate reproduction.*
 
-# Your4State
+# Your4State.com - Privacy Policy
 
 **PRIVACY POLICY**
 
@@ -54,3 +54,6 @@ Protecting the privacy of the very young is especially important. We never colle
 Nexstar may revise this Privacy Policy over time as new features are added to the Sites or as Internet law and standards evolve. We will post those changes prominently but we do recommend that you read this Privacy Policy each time you visit the Sites. Changes will not apply retroactively to personal information that was collected before the changes to the Privacy Policy, except as may be required by law. 
 
 Effective Date: October 10, 2006 
+
+  
+
