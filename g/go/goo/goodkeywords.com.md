@@ -1,18 +1,20 @@
-> *The following text is extracted and transformed from the goodkeywords.com privacy policy that was archived on 2006-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061225005120id_/http%3A//goodkeywords.com/icenter/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodkeywords.com privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230033741id_/http%3A//www.goodkeywords.com/icenter/privacy.php) for the most accurate reproduction.*
 
 # GoodKeywords.Com: Privacy Policy
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used.  
+## Privacy Policy
+
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used.
 
 ## No Spyware / No Adware
 
-All our software products are free from spyware or adware of any kind. Our products will never install any tracking software on your system, or collect personal information about you and your browsing habits. Our software does not "spy" on other programs you run or web sites you visit. 
+All our software products are free from spyware or adware of any kind. Our products will never install any tracking software on your system, or collect personal information about you and your browsing habits. Our software does not "spy" on other programs you run or web sites you visit.
 
-## The Information We Collect (through standard web log files)
+## The Information We Collect
 
 You can visit the websites of Softnik Technologies (Softnik) without revealing any information about yourself. Softnik does collect information regarding visitors to our Web site, such as IP Address, number of visits, and average time spent through the standard web log files. We analyze this data for trends and statistics to help us improve the content of our site.
 
-We have a number of free software that you may download from our site. Many of these software require no registration. This means that we will not even ask for your email address. You can simply download and use the software with out revealing any thing about yourself. These software will have a 'No registration' message displayed very near to the download link. 
+We have a number of free software that you may download from our site. Many of these software require no registration. This means that we will not even ask for your email address. You can simply download and use the software with out revealing any thing about yourself.
 
 ## Personal Information
 
@@ -30,6 +32,12 @@ Softnik is committed to taking reasonable steps to protect the individual identi
 
 Softnik some times uses cookies to allow us to provide you with tailored information from our Web. A cookie is an element of data that a Web site can send to your browser, which may then store it on your system. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it. These cookies do not track individual information. Softnik may also use cookies when you register for one of our products or services. In this case, a cookie will store useful information that enables our Web site to remember you when you return to visit, but only Softnik web sites can read that information. While using our websites, you may receive cookies from our advertisers or sponsors. Softnik does not control such cookies.
 
+## Private membership sites
+
+Software products that include access to one or more private membership sites may contain a _**quick access**_ button. Clicking the button will open the default Internet browser and automatically log you in to the private membership area. A valid authentication is required for this purpose. This is done by sending, to the server, a simple encrypted signature containing the current time-stamp and your product registration keycode that was supplied to you after purchase. This is applicable only if you have **purchased a software product** that includes access to one or more private membership sites and have successfully **registered the software** on your computer using the registration keycode provided by us.
+
 ## Oversight or Questions
 
 Softnik welcomes comments and questions on this policy. As stated above, we are dedicated to protecting your privacy and will make every reasonable effort to keep your information secure. Due to the rapidly evolving changes on the Internet, we may update this policy. All revisions will be posted to this site. Please [contact us](https://web.archive.org/icenter/contact.php) if you have any questions regarding our policy.
+
+This policy was last updated on February 15 2007
