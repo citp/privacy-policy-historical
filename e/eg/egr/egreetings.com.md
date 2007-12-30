@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the egreetings.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626173927id_/http%3A//www.egreetings.com/new_warrants.pd) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the egreetings.com privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230201820id_/http%3A//www.egreetings.com/new_warrants.pd) for the most accurate reproduction.*
 
 # Find out more about Egreetings.com!
 
-  
-**Egreetings.com NETWORK PRIVACY POLICY  
-AN AMERICANGREETINGS.COM COMPANY**
+| 
+
+Egreetings.com NETWORK PRIVACY POLICY   
+AN AMERICANGREETINGS.COM COMPANY
 
 **Last updated: May 2006**
 
@@ -103,6 +104,8 @@ Notwithstanding the above policies, we reserve the right to disclose your person
   * To protect against misuse or unauthorized use of our web site and/or the Egreetings.com service; or 
   * During emergencies, such as when we believe someone's physical safety is at risk. 
 
+
+
 Your IP address can be accessed by eCard recipients in the header of the notification e-mail. Under certain circumstances, recipients, their legal representatives, and/or law enforcement authorities may be able to combine this with information disclosed by ISPs to determine the source of a particular communication. By using this service, you knowingly and voluntarily assume any risks associated with such disclosure. 
 
 **YOUR CONTROL OVER YOUR PERSONAL INFORMATION**  
@@ -148,3 +151,5 @@ Beware of scams in which persons unknown to you request your screen name, passwo
 Always monitor your children's on-line activities and educate them as to the rules for safe Internet use. For more information, [click here](http://www.getnetwise.org/) for the Internet Education Foundation's Online Safety Guide for Kids. 
 
 As always, if you have any questions, please feel free to contact us at [Customer Service](http://www.egreetings.com/customer/emailus.pd). 
+
+| 
