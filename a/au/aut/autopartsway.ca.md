@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autopartsway.ca privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630192553id_/http%3A//www.autopartsway.ca/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autopartsway.ca privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230164043id_/http%3A//www.autopartsway.ca/privacy.cfm) for the most accurate reproduction.*
 
 # Auto Parts at Auto Parts Way - Privacy Policy
 
