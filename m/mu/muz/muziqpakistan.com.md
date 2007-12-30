@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the muziqpakistan.com privacy policy that was archived on 2007-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070311093818id_/http%3A//www.muziqpakistan.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muziqpakistan.com privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230145951id_/http%3A//www.muziqpakistan.com/privacy.php) for the most accurate reproduction.*
 
 # MuziqPakistan - Pakistani songs and music from pop to ghazals, includes PTV Live 24/7
 
