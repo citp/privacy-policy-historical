@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heartmath.org privacy policy that was archived on 2007-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070415051908id_/http%3A//www.heartmath.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heartmath.org privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230155020id_/http%3A//www.heartmath.org/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement of Institute of Heartmath
 
@@ -91,4 +91,4 @@ Users of our site are always notified when their information is being collected 
 **Notification of Changes**  
 We will use information in accordance with the privacy policy under which the information was collected. If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an e-mail. Users will have a reasonable time frame to respond with their choice as to whether or not we use their information in this different manner.
 
-[](https://web.archive.org/web/20070415051908id_/http%3A//www.heartmath.org/printer-friendly/print-privacy-policy.html)   [Printer Friendly Version Available](https://web.archive.org/web/20070415051908id_/http%3A//www.heartmath.org/printer-friendly/print-privacy-policy.html)
+[](https://web.archive.org/web/20071230155020id_/http%3A//www.heartmath.org/printer-friendly/print-privacy-policy.html)   [Printer Friendly Version Available](https://web.archive.org/web/20071230155020id_/http%3A//www.heartmath.org/printer-friendly/print-privacy-policy.html)
