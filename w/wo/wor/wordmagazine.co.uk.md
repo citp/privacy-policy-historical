@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wordmagazine.co.uk privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618175022id_/http%3A//www.wordmagazine.co.uk/info/index.cfm%3Fcontentid%3D71) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordmagazine.co.uk privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230070721id_/http%3A//www.wordmagazine.co.uk/privacy) for the most accurate reproduction.*
 
-# Word - Privacy Statement
+# Privacy Statement | Word Magazine
 
 Information submitted to WORD MAGAZINE through forms of this website is governed by the following Electronic Personal Information Privacy Policy (the "Policy"). Please read the following policy to understand how your personal information will be treated as you make full use of WORD MAGAZINE's service. This Policy may be updated from time to time. Therefore, we ask you to check back periodically. This Policy discloses the privacy practices for WORD MAGAZINE's website and describes the information WORD MAGAZINE collects about you and what may happen to such information.
 
@@ -33,5 +33,4 @@ Notwithstanding the aforesaid, WORD MAGAZINE may also disclose collected data, i
 **General  
 ** We take privacy very seriously and are therefore committed to protecting the privacy of our users. If you have any queries regarding these issues please contact us at [mail@wordmagazine.co.uk](mailto:mail@wordmagazine.co.uk). Information on the Data Protection Act 1998 is also on the Data Protection Commissioner's website at [www.dataprotection.gov.uk](http://www.dataprotection.gov.uk/).
 
-WORD MAGAZINE may amend this information from time to time, but changes will be posted here.   
-
+WORD MAGAZINE may amend this information from time to time, but changes will be posted here. 
