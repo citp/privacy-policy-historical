@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the qualitynet.net privacy policy that was archived on 2007-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070524222316id_/http%3A//www1.qualitynet.net/index.php%3Fpage%3Dinner%26action%3Dpages_show%26id%3D10752) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qualitynet.net privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230161535id_/http%3A//www1.qualitynet.net/index.php%3Fpage%3Dinner%26action%3Dpages_show%26id%3D10752) for the most accurate reproduction.*
 
-# Qualitynet
+# 
 
 **Qualitynet Privacy  & Security Policy**
 
@@ -29,7 +29,7 @@ Qualitynet reserve the right to send you certain communications relating to its 
 ** Qualitynet uses the latest encryption and security technology and fraud detection technique to keep your personal and account information safe and secure. Although, we will use all reasonable efforts to safeguards the confidentiality of your personal or account information, transmissions made by means of Internet cannot be secure. We will not be liable for disclosures of your information due to errors in transmissions or unauthorized acts of third parties.
 
 **Use of Cookies:  
-** When you view the Site, we might store some information on your computer. This information will be in the form of a â€œ **Cookie** â€ or similar file. Cookies are small pieces of information stored on your hard drive, not on our site. Cookies do not spy on you or otherwise invade your privacy, and they cannot invade your hard drive and steal information. Rather, they help you navigate a website as easily as possible. We use cookies to deliver content specific to your interests and to prevent you from reentering all your registration data at each connection. Most browsers are set to accept cookies, however, if you prefer, you can set yours to refuse them.
+** When you view the Site, we might store some information on your computer. This information will be in the form of a â€œ **Cookie** â€‌ or similar file. Cookies are small pieces of information stored on your hard drive, not on our site. Cookies do not spy on you or otherwise invade your privacy, and they cannot invade your hard drive and steal information. Rather, they help you navigate a website as easily as possible. We use cookies to deliver content specific to your interests and to prevent you from reentering all your registration data at each connection. Most browsers are set to accept cookies, however, if you prefer, you can set yours to refuse them.
 
 **Non-Disclosure of Personal Information to Outside Parties:**   
 Qualitynet does not share, sell or rent its customer´s information to anyone. We take your trust very seriously.
