@@ -1,63 +1,79 @@
-> *The following text is extracted and transformed from the thebiggestloser.com.au privacy policy that was archived on 2007-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070426052117id_/http%3A//thebiggestloser.com.au/default.aspx%3Fpage%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebiggestloser.com.au privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230112930id_/http%3A//ten.com.au/ten/privacy.html) for the most accurate reproduction.*
 
-# BiggestLoser - Privacy Policy
+# Privacy - Privacy - Seriously TEN
 
-| 
+At Network Ten we take very seriously your privacy and our obligations under the Privacy Act 1988 (Cth). Any personal information you provide to us will be managed carefully. We have a range of procedures in place to help protect your privacy.   At Network Ten we conduct our operations in accordance with the National Privacy Principles. These are minimum standards that set out the general principles governing information handling practices for organisations like Network Ten. We are also committed to high standards of privacy protection in our journalism through our adherence to the Commercial Television Industry's Code of Practice.
 
-FremantleMedia Australia Pty Limited and its related bodies corporate in Australia ("the Organization"), is aware of and recognises the importance of dealing with the collection, security, quality of and disclosure of personal information in accordance with the National Privacy Principles (NPPs) and the Privacy Act 1988 (Cth). FremantleMedia Australia (and other members of the Organization) will from time to time need to collect or have disclosed to it personal information on individuals. 
+The type of personal information we collect varies according to how you interact with Network Ten. Some examples include:
 
-### INDIVIDUALS WITH WHOM WE DEAL
+security surveillance of our premises (eg video, card access). 
 
-  
-Personal information will need to be collected by the Organization or its agents from:- 
+The type of information we collect will very much depend on what you give us. It might be your name, address, telephone number, email address, work contacts, photographs, interest, hobbies and any other personal details you wish to provide. We do not try to collect sensitive information, but some people volunteer sensitive information anyway.
 
-  1. Individuals who wish to apply, audition and who are selected as participants in our television game shows or other television programs (or as a member of a studio audience for such programs); 
-  2. Job applicants who submit or are asked to disclose personal information about themselves; 
-  3. Individuals who submit or are asked to provide written or recorded literary, dramatic, artistic or musical material, images and information about themselves for consideration for potential inclusion in one of our television productions or related products;
-  4. Individuals who wish to enter competitions or promotional and/or voting activities conducted in relation to our television programs; 
-  5. Individuals engaged as independent contractors to provide products, services and/or facilities to us for the creation of one of our television products or otherwise; 
-  6. Individuals who deal with us as a product or service supplier and/or other commercial or trading purposes in connection with the day to day running of our business.
+We may collect personal information when you visit our Web Site. For example if you use our Buyten Web Site, we may record who has visited the site and other related information. We have a separate privacy policy for our Buyten Web Site, which is available on the Web Site and also from Network Ten on request. 
 
+Network Ten reserves the right to perform statistical analysis of user activity and characteristics in order to measure interest in and use of the various areas in the Web Site and to inform others of such information, as well as the number of users who have been exposed to or have clicked on any particular areas in the Web Site. You acknowledge that when you disclose personally identifiable information on the Web Site, that information, along with any substantive information disclosed in your communication, may be collected and collated and used and disclosed by Network Ten and may result in marketing and promotional messages being sent to you from Network Ten or its associates and affiliates.
 
+Non-personal information and data may be automatically collected through the standard operation of Network Ten's Internet servers or through the use of cookies. If you do not want information collected through the use of cookies, you should use your browser's cookie disabling feature. You should note, however, that if cookies are disabled certain features may not be available. The use of cookies on the Web Site enables us to deliver and maintain customised options when you make return visits to the site.
 
-### OUR NEED FOR INFORMATION
+There may be times when we ask for personal information from you and you do not wish to provide it. We do not have a problem with that but it may mean, for example, that we cannot enter your details for a competition or provide you with a particular service that you want.
+
+We would appreciate it if you could let us know when personal information you have supplied to us needs to be updated or is no longer valid.
 
   
-The personal information that the Organization may collect on an individual will vary. Sometimes an individual's name, address and phone/fax/e-mail details will be sufficient. Otherwise much more information may be required for our purposes but we will not collect or ask for information that we do not need for one or more of our administration or business functions and related activities.Sometimes we may need to collect sensitive information on individuals such as health, ethnic background, race or union membership details. We will not collect sensitive information if it is not necessary for one or more of our administration or business functions and related activities. 
 
-###   
-What Do We Do With Personal Information?
 
-  
-This will depend into which of the categories, from 1- 6 above, an individual falls.Contestants in category 1 will be given a "Privacy Statement" about what we will do with their personal information, where practical, at the time of any audition or soon after, and if they are successful, on becoming a contestant.Individuals in categories 2 and 3 will be sent a letter explaining what we do with their personal information.Personal Information on individuals in category 4 will be dealt with in accordance with the rules and regulations of each competition/promotion, with the NPPs and this Privacy Policy.Personal Information on individuals in categories 5 and 6 will only be used to the extent it is necessary for the completion of the engagement of services, contract and/or any ongoing or renewed arrangement or trading/business relationship with us. 
+#### What Does Network Ten Do With the Personal Information?
 
-###   
-Who Will Have Access To Personal Information We Have?
+The purpose for which we collect the information is to give effect to the particular interaction you have with Network Ten. That might be, for example, when you participate in a competition we run, for publicity or promotion of a Network personality or for developing the business relationship between you and TEN. We may share the personal information that you have given to us with other companies within our group, our associates and affiliates.
 
-  
-We will not sell or share your personal information including your email address with third parties without your consent, and will not sell or share your personal information (unless required by law) if you are under 18 years of age. We will not send you emails, newsletters or offers from third parties unless you have requested us to do so. If you are 18 years of age or over and choose to receive special offers from other third parties, this means you give consent for us to provide third parties with your contact details, so they can contact you by email regarding goods, services, or promotions they believe may interest you. You can opt-out of receiving special offers and correct or change the information collected during registration at any time. You can review or update your details by clicking on the "Edit Profile" link. If you experience problems or have questions about privacy, read our privacy policy or email us at. Contestants and competition/promotion entrants' personal information may be supplied to the program or competition prize suppliers.The Organization is part of a worldwide organization with associated offices overseas. The ultimate holding company is the Bertelsmann Group. Accounting, audit, management, contestant and program production information may need to be disclosed to our related offices overseas. This will only be done in a manner consistent with the NPPs. 
+We may also use your personal information for related purposes that you would reasonably expect. We take particular care with any sensitive information.
 
-###   
-STORAGE OF DATA
+There may be circumstances where we want to use your personal information to let you know about programs or to get your feedback on our operations. If we use your personal information for direct marketing purposes, we will give you the opportunity to opt out of receiving any further marketing material. If we have contracted out a service to a third party, we may need to disclose your personal information to that third party to ensure that you get the service needed. In these circumstances, we require the third party to protect the privacy of the information that is disclosed to it. There may be circumstances where the law requires us to disclose the information, or where disclosure is required to prevent a risk to health or safety or for law enforcement purposes.
 
   
-We store personal information for varying periods of time depending on the purpose for which it is collected. In accordance with the NPPs this will be stored in a secure manner and made available only to those employees and management who need access to the information in order to perform their roles. Once we determine that we no longer require the personal information it will be destroyed in a secure manner or de-identified. 
 
-###   
-ACCESS TO PERSONAL INFORMATION
 
-  
-Subject to some exceptions you have the right to request access to any personal information held by the Organization, which relates to you, in accordance with the NPPs. Sometimes it may be impractical to provide you access to this information without cost. For example, provision of information which is very old or held on program tapes. The Organization will determine and charge appropriate fees from time to time as it sees fit for providing access in those circumstances. Ordinarily, copies of personal information held in files or electronically can be provided for nominal handling/postage fees. In order for you to access information you must provide us with sufficient information to enable us to properly identify you. Any requests for access must be made in writing to the contestant co-ordinator of the program in which you appeared if you were a contestant or for all other matters to the Privacy Officer at the address below. If personal information held by the Organization is inaccurate or out of date you have the right to request it to be updated or corrected. If there is a dispute as to whether the information we hold is correct or out of date the Privacy Officer will endeavour to resolve this. 
+#### How Do We Look After Your Personal Information? 
 
-###   
-USE OF COOKIES
+We have internal security measures in place to help protect personal information from misuse, modification, unauthorised access, or disclosure. We have a security system in place to deal with the physical security of our premises and the personal information kept at our premises. We have procedures in place to maintain a secure computer/ electronic system.
 
-  
-We may use different 'cookies' on this website. Cookies are an industry standard and most major web sites use them. A cookie is a small text file that our web sites may place on your computer. Usually, cookies can be used as a means for websites to remember your preferences. Cookies also allow an understanding of how a website is used. As such, cookies are designed to improve your experience of this web site. 
+We take reasonable steps to ensure that work areas are secure, and information on databases is protected by pass words and accessed only for legitimate purposes. All our staff are made aware of their obligations under the privacy principles to make your privacy a priority in dealing with personal information. 
 
-###   
-DISCLOSURE OF THIS PRIVACY POLICY
+We take reasonable steps to ensure the information we collect, use and disclose is accurate, complete and up to date. When we no longer need your personal information we have procedures in place to either destroy it in a secure manner or to permanently de-identify the information. 
 
   
-We will make copies of this privacy policy available upon written request. Due to the changing nature of the personal information we may collect and our business, we reserve the right to change this Policy from time to time as our needs dictate.If on receipt of this Policy you have questions about how we deal with personal information these should be forwarded in writing to the Privacy Officer at the address below, as should any complaints. Privacy Officer FremantleMedia Australia Locked Bag 2222 St Leonards NSW 2065 |   
----|---|---
+
+
+#### Can You Access or Correct Information Held by Network Ten? 
+
+We maintain records of personal information we have collected. You can gain access to the personal information held by Network Ten about you in two ways.  If you have registered with Network Ten through the Web Site, most information held by Network Ten about you can be viewed and changed directly by you by logging into the Web Site using your username and password and reviewing your preferences.
+
+Except in some limited circumstances such as where the information is commercially sensitive, any other information held by Network Ten about you is available by contacting the Network Privacy Officer. Contact details for the Network Privacy Officer can be found at [Contact Us](https://web.archive.org/ten/contact_us.html)
+
+You can submit a request for access to your personal information to the Network Privacy Officer. We will process a request for access as quickly as possible. We reserve the right to impose a reasonable charge for processing and collating personal information, where appropriate and permitted under the Privacy Act 1988.   If you inform us that the information we hold is incorrect we will, if appropriate, amend those records. 
+
+  
+
+
+#### Do You Have a Complaint?
+
+If you are concerned that there may have been some inappropriate use or disclosure or any other breach relating to your personal information, we want to know about it. The contact person for complaints is the Network Privacy Officer. All complaints will be investigated.
+
+Details about how to lodge a complaint can be found at [Contact Us](https://web.archive.org/ten/contact_us.html)
+
+  
+
+
+#### Changes to This Privacy Policy
+
+Network Ten reserves the right to change its privacy policy at any time, and you should check this policy from time to time for that reason.
+
+  
+
+
+#### Have We Answered Your Questions About Privacy?
+
+If you have other questions regarding our information handling processes, please [Contact Us](https://web.archive.org/ten/contact_us.html).
+
+This page last updated: 9 February 2007
