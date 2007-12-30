@@ -1,0 +1,1344 @@
+<!--The following is the downloaded HTML source of the footballpools.com privacy policy that was archived on 2007-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071230154942id_/http%3A//www.footballpools.com/cust%3Faction%3DGoHelp%26help_page%3Dprivpol%26tab%3Dfootball) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
+	<title>
+		Littlewoods Football Pools - the home of the original and best £2.5 Million Football Pools, Lotteries and Instant Win Games
+	</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta name="Description" content=" The new football pools online. Play for the football pools jackpot or play and win Premier 10 by predicting premiership results. The online home of football predictions and fantasy football leagues from Littlewoods.  Also enjoy bingo, poker, casino and the Irish lotto and many more at www.footballpools.co.uk">
+	<meta name="Keywords" content="Online Football, Online Football Prediction, Fantasy Football, Littlewoods Pools, Premier 10, Premier ten,  Littlewoods football, Premiership predictions, Lottery, Irish Lotto, Football news,  Online Casino, Online Gambling, Casino, Online Poker, Online Slot Machines, ">
+
+<!-- ICRA meta tag -->
+
+	<link rel="meta" href="http://www.footballpools.com/static/cust/labels.rdf" type="application/rdf xml" title="ICRA labels">
+	<meta http-equiv="pics-Label" content="(pics-1.1 &quot;http://www.icra.org/pics/vocabularyv03/&quot; l gen true for &quot;http://footballpools.com&quot; r (n 0 s 0 v 0 l 0 oa 0 ob 0 oc 0 od 0 oe 2 of 0 og 0 oh 0 c 0) gen true for &quot;http://www.footballpools.com&quot; r (n 0 s 0 v 0 l 0 oa 0 ob 0 oc 0 od 0 oe 2 of 0 og 0 oh 0 c 0) gen true for &quot;http://fptest.co.uk&quot; r (n 0 s 0 v 0 l 0 oa 0 ob 0 oc 0 od 0 oe 2 of 0 og 0 oh 0 c 0) gen true for &quot;http://www.fptest.co.uk&quot; r (n 0 s 0 v 0 l 0 oa 0 ob 0 oc 0 od 0 oe 2 of 0 og 0 oh 0 c 0))">
+
+<!-- CSS IMPORT  -->
+
+	<link href="http://www.footballpools.com/static/cust/css/common.css" type="text/css" rel="stylesheet">
+
+	
+		
+		<link href="http://www.footballpools.com/static/cust/football/css/screen.css" type="text/css" rel="stylesheet">
+		
+		<!--[if lte IE 7]>
+        <link rel="stylesheet" type="text/css" href="http://www.footballpools.com/static/cust/football/css/ie.css" />
+        <![endif]-->
+		<!--[if IE 6]>
+		<link rel="stylesheet" type="text/css" href="http://www.footballpools.com/static/cust/football/css/ie6.css" />
+		<![endif]-->
+	
+
+
+<!-- JAVASCRIPT IMPORT - GENERIC -->
+
+
+	<script language="javascript" src="http://www.footballpools.com/static/cust/js/global.js" type="text/javascript"></script>
+	<script language="javascript" src="http://www.footballpools.com/static/cust/js/news.js" type="text/javascript"></script>
+	<script language="javascript" src="http://www.footballpools.com/static/cust/js/menu.js" type="text/javascript"></script>
+	<script language="javascript" src="http://www.footballpools.com/static/cust/js/corners.js" type="text/javascript"></script>
+	<script language="javascript" src="http://www.footballpools.com/static/cust/js/AC_RunActiveContent.js" type="text/javascript"></script>
+	<script language="javascript" src="http://www.footballpools.com/static/cust/js/currency_formatter.js" type="text/javascript"></script>
+	<script language="javascript" src="http://www.footballpools.com/static/cust/js/jackpot_and_countdown.js" type="text/javascript"></script>
+
+	
+
+
+<script language="javascript">
+
+	var error_list = "";
+	var invalid_str = "Invalid ";
+
+	// add an error
+	function add_error(str) {
+
+		if(error_list.length > 0) {
+			error_list += "\n";
+		}
+		error_list += str;
+		return 1;
+	}
+
+
+	// reset error count
+	function reset_error() {
+		error_list = "";
+	}
+
+
+	// check a mandatory string
+	function ck_mandatory(str, desc, min_len, max_len, val_chars) {
+
+		if(str.length <= 0 || (min_len != 0 && str.length < min_len) ||
+				(max_len != 0 && str.length > max_len)) {
+			return add_error(invalid_str + desc + ".");
+		}
+
+		if(val_chars) {
+			var re = "^[A-Za-z0-9\.\_\-]*$";
+			if(!str.match(new RegExp(re))) {
+				return add_error(invalid_str + desc + ".");
+			}
+		}
+		return 0;
+	}
+
+
+	// check an integer
+	function ck_integer(str, desc, pm, min_len, max_len) {
+
+		var inStr = str_trim(str, " ");
+		var exp = pm ? /^[+-]?[0-9]+$/ : /^[0-9]+$/;
+
+		if(!exp.test(inStr)) {
+			return add_error(invalid_str + desc + ".");
+		}
+
+		if((min_len != 0 && inStr.length < min_len) || (max_len != 0 && inStr.length > max_len)) {
+			return add_error(invalid_str + desc + ".");
+		}
+
+		return 0;
+	}
+
+
+	// check a float
+	function ck_float(str, desc) {
+
+		var inStr = str_trim(str, " ");
+		var exp = /^([0-9]*(\.[0-9]+))$|^([0-9]+(\.)?)$/;
+
+		if((!inStr.length) || !exp.test(inStr)) {
+			return add_error(invalid_str + desc + ".");
+		}
+
+		return 0;
+	}
+
+
+	// check a amount field
+	function ck_amount(str, desc, pm) {
+
+		var inStr = str_trim(str, " ");
+		var exp = pm ? /(^[+-]?\d+$)|(^[+-]?\d*\.\d{1,2}$)/ : /(^\d+$)|(^\d*\.\d{1,2}$)/;
+
+		if((!inStr.length) || !inStr.match(new RegExp(exp))) {
+			return add_error(invalid_str + desc + ".");
+		}
+
+		if (!isNaN(parseFloat(inStr))) {
+			var num_val = parseFloat(inStr);
+			if (num_val == 0){
+				return add_error(invalid_str + desc + ".");
+			}
+		}
+
+		return 0;
+	}
+
+
+	// write a select input box
+	function write_select() {
+
+		var sel = arguments[0];
+		var i;
+		var n;
+		var v;
+		var sel_tag;
+
+		for(i = 1; i < arguments.length; i += 2) {
+			v = arguments[i];
+			n = arguments[i + 1];
+			sel_tag = (sel == v) ? " selected" : "";
+			document.writeln('<option value="' + v + '"'
+			                 + sel_tag + '>' + n + '</option>');
+		}
+	}
+
+
+	// open a different url
+	function go_url (url, new_win, win_width, win_height, win_resizeable,
+	                 win_scrollbars, win_menubar) {
+
+		if(new_win == "Y") {
+
+			if (win_resizeable == "Y") {
+				win_resizeable = "yes";
+			} else {
+				win_resizeable = "no";
+			}
+
+			if (win_scrollbars == "Y") {
+				win_scrollbars = "yes";
+			} else {
+				win_scrollbars = "no";
+			}
+
+			if (win_menubar == "Y") {
+				win_menubar = "yes";
+			} else {
+				win_menubar = "no";
+			}
+
+			var newsWin = window.open(url, "newsWin",
+			    "width=" + win_width +
+				",height=" + win_height +
+				",toolbar=" + win_menubar +
+				",location=" + win_menubar +
+				",directories=" + win_menubar +
+				",status=yes" +
+				",menubar=" + win_menubar +
+				",scrollbars=" + win_scrollbars +
+				",copyhistory=yes,resizable=" + win_resizeable);
+			newsWin.focus();
+		} else {
+			self.location = url;
+		}
+	}
+
+
+	// submit a form over SSL
+	function submit_ssl_form(name, action, method) {
+
+		var f = document.forms[name];
+
+		if (typeof(method) == "undefined") {
+			method = "post";
+		}
+
+		f.action = 'https://www.footballpools.com/cust';
+		submit_form(name, action, method);
+	}
+
+
+	// submit a form
+	document.bet_uid = '';
+	function submit_form() {
+
+		var name = arguments[0];
+		var action = arguments[1];
+		var method = 'get';
+
+		if (arguments.length == 3) {
+			method = arguments[2];
+		}
+
+		var f = document.forms[name];
+
+		insertInputObj(f, 'hidden', '', 'action', action);
+
+		if(document.bet_uid.length) {
+			insertInputObj(f, 'hidden', '', 'bet_uid', document.bet_uid);
+			
+		}
+
+		
+				insertInputObj(f, 'hidden', '', 'uid', 1199029781);
+		
+
+		f.method = method;
+		f.submit();
+	}
+
+	// open the betslip
+	document.open_betslip = 0;
+	function view_betslip(url, forceOpen) {
+
+		document.open_betslip = 1;
+		if(document.bet_uid.length) {
+			url += '&bet_uid=' + document.bet_uid;
+		}
+
+		// This is a bit dirty but IE needs to know
+		// when it has finished
+		setTimeout("actuallyOpen('"+url+"')",1);
+
+		if(forceOpen == true) {
+			openContent(this, 'betslipDiv');
+		} else {
+			expandcontent(this, 'betslipDiv');
+		}
+
+		window.scrollTo(0,0);
+
+
+	}
+
+	function actuallyOpen(url) {
+
+		var iframe = top.betslip;
+		iframe.location.href = url;
+	}
+
+	function go_logout() {
+		upd_bet_count(0);
+		submit_form('login', 'GoLogout');
+	}
+
+	// Swaps images
+	function MM_swapImgRestore() { //v3.0
+		var i,x,a=document.MM_sr;
+
+		for(i=0; a && i<a.length && (x=a[i]) && x.oSrc; i++) {
+			x.src=x.oSrc;
+		}
+	}
+
+	// Preloads images
+	function MM_preloadImages() {
+		var d=document;
+
+		if (d.images) {
+			if (!d.MM_p) {
+				d.MM_p=new Array();
+			}
+			var i,j=d.MM_p.length,a=MM_preloadImages.arguments;
+			for(i=0; i<a.length; i++) {
+				if (a[i].indexOf("#") !=0) {
+					d.MM_p[j]=new Image;
+					d.MM_p[j++].src=a[i];
+				}
+			}
+		}
+	}
+
+	// MM_preloadImages('http://www.footballpools.com/static/cust/images/buttons/odds_bg.gif');
+
+	// finds an image element
+	function MM_findObj(n, d) {
+		var p,i,x;
+
+		if(!d) {
+			d=document;
+		}
+		if ((p=n.indexOf("?")) > 0 && parent.frames.length) {
+			d=parent.frames[n.substring(p+1)].document;
+			n=n.substring(0,p);
+		}
+
+		if(!(x =d[n]) && d.all) {
+			x=d.all[n];
+		}
+
+		for (i=0; !x && i<d.forms.length; i++) {
+			x=d.forms[i][n];
+		}
+
+		for (i=0; !x && d.layers && i<d.layers.length; i++) {
+			x=MM_findObj(n,d.layers[i].document);
+		}
+		if(!x && d.getElementById) {
+			x=d.getElementById(n);
+		}
+		return x;
+	}
+
+
+
+	// Swaps images
+	function MM_swapImage() {
+		var i,j=0,x,a=MM_swapImage.arguments;
+
+		document.MM_sr=new Array;
+
+		for(i=0; i<(a.length-2); i+=3) {
+			if ((x=MM_findObj(a[i])) !=null) {
+				document.MM_sr[j++]=x;
+				if(!x.oSrc) {
+					x.oSrc=x.src;
+				}
+				x.src=a[i+2];
+			}
+		}
+	}
+
+	function generic_bg_highlight(id) {
+
+		elems = document.getElementById(id).childNodes;
+
+		for(i = 0; i < elems.length; i++){
+			if (elems[i].id == id+"_odds") {
+				elems[i].className = "results_bg2_odds";
+			} else if (elems[i].id == id+"_hover"){
+				elems[i].className = "results_bg2_hover";
+			} else {
+				elems[i].className = "results_bg2";
+			}
+		}
+
+	}
+
+	function generic_bg_lowlight(id) {
+		elems = document.getElementById(id).childNodes;
+
+		for(i = 0; i < elems.length; i++){
+			if (elems[i].id == id+"_odds") {
+				elems[i].className = "odds";
+			} else if (elems[i].id == id+"_hover"){
+				elems[i].className = "orange";
+			} else{
+				elems[i].className = "results_bg1";
+			}
+		}
+
+	}
+
+</script>
+
+	
+
+
+<script language="javascript">
+
+	var month_length = new Array("31", "28", "31", "30", "31", "30",
+								 "31", "31", "30", "31", "30", "31");
+
+
+	// check a password and a 'confirm' password
+	function ck_passwords(pwd, c_pwd) {
+
+		var n_errs = 0;
+
+		n_errs += ck_mandatory(pwd, "Password", 4, 32, 1);
+		n_errs += ck_mandatory(c_pwd, "Verify Password", 4, 32, 1);
+
+		if(n_errs == 0 && pwd != c_pwd) {
+			n_errs += add_error("Password and verify password do not match.");
+		}
+
+		return n_errs;
+	}
+
+
+	// function check date of birth
+	function ck_dob(f) {
+
+		var d = f.d_dob.value;
+		var m = f.m_dob.value;
+		var y = f.y_dob.value;
+		var desc = "Date of Birth";
+
+		if(ck_integer(d, desc, false, 2, 2) != 0 ||
+				ck_integer(m, desc, false, 2, 2) != 0 ||
+				ck_integer(y, desc, false, 4, 4) != 0) {
+			return 1;
+		}
+
+		var im = m;
+
+		if(m.charAt(0) == "0"){
+			im = m.charAt(1);
+		}
+
+		im = parseInt(im,10);
+		var iy = parseInt(y,10);
+		var id = parseInt(d,10);
+
+		if(im < 1 || im > 12 || iy < 0) {
+			return add_error(invalid_str + desc + ".");
+		}
+
+		var len = im == 2 && (iy % 4) == 0 ? 29 : month_length[im - 1];
+		if(id < 0 || id > len) {
+			return add_error(invalid_str + desc + ".");
+		}
+
+		if (id <1) {
+			return add_error(invalid_str + desc + ".");
+		}
+
+		if (iy <1900) {
+			return add_error(invalid_str + desc + ".");
+		}
+
+
+		f.dob.value = d + m + y;
+		return 0;
+	}
+
+
+	// check an email address
+	function ck_email_addr(addr) {
+
+		var re = "^\w*$";
+		var desc = "Email";
+
+		if(ck_mandatory(addr, desc, 1, 60, 0) != 0) {
+			return 1;
+		}
+		if(addr.match(new RegExp(re))) {
+			return add_error(invalid_str + desc + ".");
+		}
+
+		var email_re  = "^[^@ ]+@[^@ ]+\\.[^@ ]+$";
+
+		if(!(addr.match(new RegExp(email_re)))) {
+			return add_error(invalid_str + desc + ".");
+		}
+
+		return 0;
+	}
+
+
+	// check address
+	function ck_address(f) {
+
+		var address = new Array(f.addr_street_1.value, f.addr_street_2.value,
+								f.addr_street_3.value, f.addr_street_4.value);
+		for(i = 0; i < 3; i++) {
+			for(j = i + 1; address[i] == "" && j < 4; j++) {
+				address[i] = address[j];
+				address[j] = "";
+			}
+		}
+		f.addr_street_1.value = address[0];
+		f.addr_street_2.value = address[1];
+		f.addr_street_3.value = address[2];
+		f.addr_street_4.value = address[3];
+
+		return ck_mandatory(address[0], "Address", 	1, 160, false);
+	}
+
+
+	// check country code
+	function ck_country(f) {
+
+		var sel = f.country_code.selectedIndex;
+		var country_code = f.country_code.options[sel].value;
+
+		f.addr_country.value = f.country_code.options[sel].text;
+		return ck_mandatory(country_code, "Country", 1, 3);
+	}
+
+
+	// check postcode
+	function ck_postcode(f) {
+
+		var desc = "Postcode";
+		var postcode = f.postcode.value;
+		var err = ck_mandatory(postcode, desc, 1, 20, false);
+
+		if(!err) {
+			var re = "^[ A-Za-z0-9\.\_\-]*$";
+			if(!postcode.match(new RegExp(re))) {
+				return add_error(invalid_str + desc + ".");
+			}
+		}
+		
+		return err;
+	}
+	
+
+	function ck_numeric(str,desc) {
+		if (str.length >0) {
+			if (str.match(/[^0-9 ]/)) { 
+				return add_error(invalid_str + desc + ".");
+			}
+		}
+		return(0);
+	}
+
+
+	// open window for customer to register
+	function openRegister (FromMainWin) {
+		newWin = window.open
+			(
+			"https://www.footballpools.com/cust?action=GoRegFrame&FromMainWindow="+FromMainWin+
+         "&last_action=&tab=football&cat=&subcat=&game=",
+			"_winMyAccount",
+			"width=620,scrollbars=1,resizable=yes,status=no,toolbar=no"
+			);
+
+	}
+
+	// open window for customer account screens
+	function openAccount (action) {
+		if (typeof(action) == "undefined") {
+			action = "GoAcctHome";
+		}
+
+		window.open
+			(
+			"https://www.footballpools.com/cust?action="+action+
+			"&last_action=&tab=football&cat=&subcat=&game=",
+			"_winMyAccount",
+			"width=620,scrollbars=1,resizable=yes,status=no,toolbar=no"
+			);
+
+	}
+
+function openHelp (game_name, help_file) {
+	window.open(
+		'http://www.footballpools.com/cust?action=GoHelp&popup=1&help_page=' + help_file,
+		'help_' + game_name,
+		"width=600,height=700,scrollbars=1,resizable=yes,status=yes,toolbar=no"
+	);
+}
+
+function openGameHelp (game_name, help_file) {
+	window.open(
+		'http://www.footballpools.com/cust?action=GoGameHelp&popup=1&help_page=' + help_file,
+		'help_' + game_name,
+		"width=600,height=700,scrollbars=1,resizable=yes,status=yes,toolbar=no"
+	);
+}
+
+
+	// open generic login window 
+	function openLogin () {
+		newWin = window.open
+			(
+			"https://www.footballpools.com/cust?action=GoGameLogin&FromMainWindow=1&last_action=&tab=football&cat=&subcat=&game=&un=",
+			"_winLogin",
+			"width=600,height=420,scrollbars=1,resizable=yes,status=no,toolbar=no"
+			);
+	}
+
+
+	// go hist
+	function go_hist(txn_type, j_op_ref_id, j_op_ref_key, sub_acct_id) {
+
+		var f = document.forms['history'];
+		f.txn_type.value = txn_type;
+
+		insertInputObj(f, 'hidden', '', 'j_op_ref_id', j_op_ref_id);
+		insertInputObj(f, 'hidden', '', 'j_op_ref_key', j_op_ref_key);
+		insertInputObj(f, 'hidden', '', 'sub_acct_id', sub_acct_id);
+		submit_ssl_form('history', 'DoHist', 'get');
+	}
+
+
+</script>
+
+	
+
+
+<script type="text/javascript">
+
+function clear_cookie() {
+
+	// define the cookie name
+	var _cookie_name = "IBSXGBET";
+	
+	// define expiry date to be in the past
+	var _cookie_date = new Date();
+	_cookie_date.setTime(_cookie_date.getTime() - 1);
+
+	// Deleting the cookie
+	document.cookie = _cookie_name += "=; expires=" + _cookie_date.toGMTString();
+}
+
+function clear_save_cookie() {
+	
+	// define the cookie name
+	var _cookie_name = "IBSXGSAVE";
+
+	// define expiry date to be in the past
+	var _cookie_date = new Date();
+	_cookie_date.setTime(_cookie_date.getTime() - 1);
+	
+	// Deleting the cookie
+	document.cookie = _cookie_name += "=; expires=" + _cookie_date.toGMTString();
+}
+
+function place_bet(microsite, new_bet) {
+
+	// define the cookie name and store the Parent uniqueID
+	var _cookie_name = "IBSXGBET";
+	var p_uid = "007f01006b6c000840304777be15";
+	var cust_id = "";
+
+	// check the new bet validity
+	var _tmp_list = new_bet.split("|");
+	if ((_tmp_list.length % 5 != 0) || _tmp_list.length == 0) return;
+
+
+	// Clearing the cookie
+	clear_cookie();
+
+	// Building the cookie by adding to the bet the window signature (unnique ID)
+	var _new_cookie = p_uid + "|" + cust_id + "|" + new_bet
+
+	// Store the new cookie
+	set_cookie(_cookie_name, _new_cookie);
+
+	
+		eval(pre_login_function);
+		openLogin();
+	
+}
+
+function save_gameplay(new_string) {
+
+	// define the cookie name
+	var _cookie_name = "IBSXGSAVE";
+
+	// Clearing the cookie
+	clear_save_cookie();
+
+	// storing the new content in the cookie
+	set_cookie(_cookie_name,new_string);
+}
+
+function get_save_cookie() {
+	// define the cookie name
+	var _cookie_name = "IBSXGSAVE";
+
+	// Read it
+	var _tmp = get_cookie(_cookie_name);
+
+	// Clear the cookie
+	clear_save_cookie();
+
+	// returns what they want
+	return _tmp;
+}
+
+</script>
+
+
+	
+		
+
+
+<script language="javascript">
+
+	// this is to stop login submit being call twice (which appears to happen when button is clicked)
+	var LoginSubmitted = false;
+
+	// Variable to store the function we want to call before login. Basically the first reason why
+	// it has been added is to save game selections before login to avoid loosing all the selection
+	// when a customer forgot to login before starting playing a game.
+	var pre_login_function = "";
+
+	// on pressing enter within the login form
+	function login_on_enter(e) {
+
+		if(e && e.which) {
+			if(e.which == 13) {
+				go_login()
+			}
+		}
+		else {
+			if(e && e.keyCode == 13) {
+				go_login()
+			}
+		}
+
+		return true
+	}
+
+
+	// Login
+	function go_login() {
+
+		if (!LoginSubmitted) { 
+			var f = document.forms['login'];
+			var n_errs = 0;
+
+			reset_error();
+
+			n_errs += ck_mandatory(f.username.value, "Username",
+			          1, 16, true);
+			n_errs += ck_mandatory(f.pwd.value, "Password", 1, 16,
+			          true);
+
+			if(n_errs > 0) {
+				alert(error_list);
+			}
+			else {
+				// Lock the login
+				LoginSubmitted = true;
+				
+				// Perform the pre-login action if defined
+				if(pre_login_function != "") {eval(pre_login_function);}
+
+				// Do the Login
+				submit_form('login','GoLogin', 'post');
+			}
+		}
+	}
+
+</script>
+
+	
+
+	<script language="javascript" type="text/javascript">
+		
+
+		
+	</script>
+
+<!-- JAVASCRIPT IMPORT - LOTTERIES -->
+
+	
+
+	
+	<script type="text/javascript">
+		function MM_openBrWindow(theURL,winName,features) { //v2.0
+			window.open(theURL,winName,features);
+		}
+	</script>
+	
+
+	<script type="text/javascript">
+		function init_page() {
+
+
+		
+
+		
+
+		}
+	</script>
+
+</head>
+
+<body onload="init_page()">
+
+
+
+
+<input type="hidden" id="db_time_reference" value="30 December 2007 15:49:41">
+
+<div id="container">
+	<div id="container-wrapper">
+		<div id="tabs">
+			<ul id="side-nav">
+				
+
+				
+					<li class="football"><span class="active">Football</span></li>
+				
+				
+					<li class="lotteries"><a title="Lotteries" href="http://www.footballpools.com/cust?action=GoLotteries">Lotteries</a></li>
+				
+				
+					<li class="instantwin"><a title="Instant Win" href="http://www.footballpools.com/cust?action=GoGames">Instant Win</a></li>
+				
+				
+					<li class="bingo"><a title="Bingo" href="http://www.footballpools.com/cust?action=GoBingo">Bingo</a></li>
+				
+				
+					<li class="poker"><a title="Poker" href="http://www.footballpools.com/cust?action=GoPoker">Poker</a></li>
+				
+				
+					<li class="casino"><a title="Casino" href="http://www.footballpools.com/cust?action=GoCasino">Casino</a></li>
+				
+
+				
+			</ul>
+		</div>
+	<!--/tabs-->
+		<hr>
+		<div id="main-content">
+			<ul id="top-nav">
+			
+				<li><a title="About Us" href="http://www.footballpools.com/cust?action=GoHelp&amp;tab=football">About Us</a> |</li>
+				<li><a title="Help" href="http://www.footballpools.com/cust?action=GoHelp&amp;help_page=help&amp;tab=football">Help</a> |</li>
+				<li><a title="Contact Us" href="http://www.footballpools.com/cust?action=GoHelp&amp;help_page=contactus&amp;tab=football">Contact Us</a></li>
+				
+					<li>| <a title="Pools Results" href="http://www.footballpools.com/cust?action=GoFootball&amp;cat=PoolBetting&amp;subcat=ResultsTrebleChance&amp;game=TCH">Pools Results</a> |</li>
+					<li><a title="Football Fever" href="/football-fever/index.html" target="_fever">Football Fever</a></li>
+				
+			
+			</ul>
+		
+		
+			<p class="new-user">
+				<input type="image" src="http://www.footballpools.com/static/cust/images/btn_clicktojoin.gif" value="Click to Join" onclick="javascript:openRegister(1)">
+			</p>
+			<hr>
+			<div class="clear">&nbsp;</div>
+			<div id="main-banner">
+				<div class="login-area-row">
+				<form name="login" action="https://www.footballpools.com/cust" class="login" method="post">
+					<input type="hidden" name="login_action" value="GoHelp">
+					<input type="hidden" name="last_action" value="">
+					<input type="hidden" name="tab" value="football">
+					
+					<input type="hidden" name="help_page" style="display:none;" value="privpol">
+					
+					<input type="hidden" name="tab" style="display:none;" value="football">
+					
+					<label>Username:</label>
+					<input type="text" class="text" name="username" size="10" value="" onfocus="javascript:clearLoginFields('login')">
+					<br>
+					<label>Password:</label>
+					<input name="pwd" type="password" class="text" size="10 " onkeypress="return login_on_enter(event)">
+					<br>
+					<span class="links"><a title="Help" href="http://www.footballpools.com/cust?action=GoHelp&amp;help_page=help&amp;tab=football">Help</a> | <a href="http://www.footballpools.com/cust?action=GoHelp&amp;help_page=lostpassword&amp;tab=football">lost password</a></span>
+					<input type="image" class="button" src="http://www.footballpools.com/static/cust/images/btn_login.gif" value="Login" onclick="javascript:go_login();">
+					<input type="hidden" name="full_reg" value="1">
+				</form>
+				</div>
+		
+		
+				
+					
+					<ul class="quickplay">
+						<li><span id="title">Quickplay</span></li>
+						
+						<li>
+							<a href="cust?action=GoFootball&amp;cat=PoolBetting&amp;subcat=GameTrebleChance&amp;game=TCH">
+							<span>£2.5M Football Pools</span>
+							</a>
+						</li>
+						
+						<li>
+							<a href="cust?action=GoFootball&amp;cat=PoolBetting&amp;subcat=GamePremier10&amp;game=P10">
+							<span>Premier 10</span>
+							</a>
+						</li>
+						
+						<li>
+							<a href="cust?action=GoFootball&amp;cat=Fantasy">
+							<span>Fantasy Football</span>
+							</a>
+						</li>
+						
+					</ul>
+				
+
+        		<!--/quickplay-->
+
+      			</div>
+      	<!--/main banner-->
+				<hr><hr>
+ 		
+
+			
+				<div class="banner">
+					<!-- Football pools and predictor games have their own banners - BT 529 - and now Bingo! -->
+					
+
+					<!-- This script tag calls the functions defined in the external JavaScript file to dynamically generate the tags that embed the Flash movie in the page. -->
+					<script type="text/javascript">
+						AC_FL_RunContent(
+							'codebase',
+							'https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0',
+							'width',
+							'724',
+							'height',
+							'75',
+							'src',
+							'videoplayer<strong></strong>',
+							'quality',
+							'high',
+							'wmode',
+							'transparent',
+							'pluginspage',
+							'http://www.macromedia.com/go/getflashplayer',
+							'movie',
+							'http://www.footballpools.com/static/cust/images/Preloader?xmlpath=/xml/banners_football.xml'
+						);
+					</script>
+					<noscript>
+						<object
+							classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000"
+							codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0"
+							id="sportech"
+							width="724"
+							height="75"
+						>
+							<param name="allowScriptAccess" value="sameDomain" />
+							<param name="movie" value="http://www.footballpools.com/static/cust/images/Preloader.swf?xmlpath=/xml/banners_football.xml" />
+							<param name="quality" value="high" />
+							<param name="bgcolor" value="#ffffff" />
+							<embed
+								src="http://www.footballpools.com/static/cust/images/Preloader.swf?xmlpath=/xml/banners_football.xml"
+								quality="high"
+								bgcolor="#ffffff"
+								width="724"
+								height="75"
+								name="sportech"
+								allowScriptAccess="sameDomain"
+								type="application/x-shockwave-flash"
+								pluginspage="http://www.macromedia.com/go/getflashplayer" />
+						</object>
+						<em><p>Note: You do not have JavaScript enabled.</p></em>
+					</noscript>
+				</div>
+
+		
+
+		<!--/banner-->
+		<hr>
+		
+
+
+<div class="ticker" style="background-color: #FFFFFF;">
+	<!-- This script tag calls the functions defined in the external JavaScript file to dynamically generate the tags that embed the Flash movie in the page. -->
+	<script type="text/javascript">AC_FL_RunContent('codebase','https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0','width','724','height','20','src','videoplayer<strong></strong>','bgcolor','#FFFFFF','quality','high','wmode','transparent','pluginspage','http://www.macromedia.com/go/getflashplayer','movie','http://www.footballpools.com/static/cust/images/ticker?xmlpath=http://www.footballpools.com/cust?action=GoLatestNewsXML' );
+	</script>
+	<noscript>
+		<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" id="sportech" width="724" height="20"> <param name="allowScriptAccess" value="sameDomain" />
+        <param name="movie" value="http://www.footballpools.com/static/cust/images/ticker.swf?xmlpath=http://www.footballpools.com/cust?action=GoLatestNewsXML" /><param name="quality" value="high" /><param name="bgcolor" value="#ffffff" /><embed src="http://www.footballpools.com/static/cust/images/ticker.swf?xmlpath=http://www.footballpools.com/cust?action=GoLatestNewsXML" quality="high" bgcolor="#ffffff" width="724" height="20" name="sportech" allowScriptAccess="sameDomain" type="application/x-shockwave-flash"
+        pluginspage="http://www.macromedia.com/go/getflashplayer" />
+		</object>
+		<em>
+		<p>Note: You do not have JavaScript enabled.</p><em>
+	</noscript>
+</div>
+
+		<!--/latest news-->
+		
+		
+		<div id="main-nav">
+        	<p class="date">
+			<!-- $Id: clock.html,v 1.1 2007-04-15 20:16:02 tboyling Exp $-->
+
+<script>
+	// $Id: clock.js,v 1.1.10.2 2007-12-07 16:00:52 tboyling Exp $
+
+function getObj(obj) {
+	var objRef;
+
+	if(document.all) {
+		objRef = eval("document.all." + obj);
+	}
+	if(document.getElementById) {
+		objRef = document.getElementById(obj);
+	}
+
+	return objRef;
+}
+
+
+var clockID = 0;
+var tDate = new Date();
+
+var monthxl=new Array(
+"Jan",
+"Feb",
+"Mar",
+"Apr",
+"May",
+"Jun",
+"Jul",
+"Aug",
+"Sep",
+"Oct",
+"Nov",
+"Dec");
+
+function showTime() {
+
+	var year = Number(tDate.getFullYear());
+	
+	var month = Number(tDate.getMonth());
+	//alert("month "+month);	
+	month = monthxl[month]
+	
+	var date = Number(tDate.getDate());
+	if (date < 10) date = "0"+ date;
+	
+	var mins = Number(tDate.getMinutes());
+	if (mins < 10) mins = "0" + mins;
+
+	var sec = Number(tDate.getSeconds());
+	if (sec < 10) sec = "0" + sec;
+	
+	
+
+	getObj("clock").innerHTML = "" +month+" "+date+", "+year+"<br/>"+tDate.getHours() + ":" + mins + ":" + sec ;
+}
+
+function UpdateClock() {
+	if (clockID) {
+		clearTimeout(clockID);
+		clockID  = 0;
+	}
+
+	tDate.setTime(tDate.getTime() + 1000);
+
+	showTime();
+
+	clockID = setTimeout("UpdateClock()", 1000);
+}
+
+function _StartClock(y, m, d, h, M, S) {
+	
+	tDate = new Date(y, m-1, d, h, M, S);
+
+	showTime();
+
+	clockID = setTimeout("UpdateClock()", 1000);
+}
+
+
+	function StartClock() {
+		_StartClock('2007', '12', '30', '15', '49', '41');
+	}
+</script>
+	<span id="clock" name="clock">Dec 30, 2007<br>15:49:41</span>
+&nbsp;GMT
+
+
+			</p>
+			<script type="text/javascript">StartClock();</script>
+			<ul>
+            
+				
+				
+					
+						
+							
+						
+					<li class="active"><span><a href="http://www.footballpools.com/cust?action=GoFootball&amp;cat=Home&amp;subcat=">Home</a></span></li>
+					
+				
+					
+						
+							
+						
+					<li class=""><span><a href="http://www.footballpools.com/cust?action=GoFootball&amp;cat=PoolBetting&amp;subcat=GamePremier10&amp;game=P10">Premier 10</a></span></li>
+					
+				
+					
+						
+							
+						
+					<li class=""><span><a href="http://www.footballpools.com/cust?action=GoFootball&amp;cat=PoolBetting&amp;subcat=GameTrebleChance&amp;game=TCH">Pools</a></span></li>
+					
+				
+					
+						
+							
+						
+					<li class=""><span><a href="http://www.footballpools.com/cust?action=GoFootball&amp;cat=FixedOdds&amp;subcat=">Footy Bets</a></span></li>
+					
+				
+					
+						
+							
+						
+					<li class=""><span><a href="http://www.footballpools.com/cust?action=GoFootball&amp;cat=Fantasy&amp;subcat=">Fantasy</a></span></li>
+					
+				
+					
+						<li class=""><span><a href="http://www.footballpools.com/cust?action=GoFootball&amp;cat=Leagues&amp;subcat=Leagues&amp;code=PREDICTOR">Leaderboards</a></span></li>
+					
+				
+					
+						
+							
+						
+					<li class=""><span><a href="http://www.footballpools.com/cust?action=GoFootball&amp;cat=News&amp;subcat=">News</a></span></li>
+					
+				
+			
+			</ul>
+		</div>
+		
+
+
+
+<!-- Main Navigation -->
+
+	
+	<div id="content">
+		<div class="box-wrapper clearfix contentpage">
+		
+			<div class="box-fourth-big">
+				<h2 class="normargin">Useful Links</h2>
+				<div class="box-leftnav">
+					<div class="box-leftnav-wrapepr">
+						<ul id="left-nav">
+							<li><a href="http://www.footballpools.com/cust?action=GoHelp&amp;help_page=aboutus&amp;tab=football">About the Football Pools</a></li>
+							<li><a href="http://www.footballpools.com/cust?action=GoHelp&amp;help_page=contactus&amp;tab=football">Contact Us</a></li>
+							<li><a href="http://www.footballpools.com/cust?action=GoHelp&amp;help_page=myaccount&amp;tab=football">My Account</a></li>
+							<li><a href="http://www.footballpools.com/cust?action=GoHelp&amp;help_page=techissue&amp;tab=football">Technical Issues</a></li>
+							<li><a href="http://www.footballpools.com/cust?action=GoHelp&amp;help_page=faq&amp;tab=football">Frequently Asked Questions</a></li>
+							<li><a href="http://www.footballpools.com/cust?action=GoHelp&amp;help_page=securpol&amp;tab=football">Security Policy</a></li>
+							<li><a href="http://www.footballpools.com/cust?action=GoHelp&amp;help_page=privpol&amp;tab=football">Privacy Policy</a></li>
+							<li><a href="http://www.footballpools.com/cust?action=GoHelp&amp;help_page=tandc&amp;tab=football">Terms and Conditions</a></li>
+							<li><a href="http://www.footballpools.com/cust?action=GoHelp&amp;help_page=respongam&amp;tab=football">Responsible Gaming</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		
+		<div class="box-threefourths-big marginleft">
+			<h2 class="normargin">Privacy Policy</h2>
+		  	<div class="box-rightpanel">
+
+
+	<!-- start included help page -->
+		<div id="helpPageContent">
+<p><strong>Privacy Policy</strong></p>
+
+<p>
+Littlewoods Promotions Limited fully accept the privacy rights of individuals using this web site. Data collected on this site is kept secure.
+</p>
+
+<p>
+<strong>1. Registration Data</strong><br>
+This data is used to enable us to set up an account for you to use for all your betting and gaming transactions. This allows us to check that you are over 18 years of age and that we have a valid address we can send prizes to where appropriate. It includes security questions which are used to allow us to renew your password if you forget it.
+</p>
+<p>
+<strong>2. Credit/Debit Card Data </strong><br>
+This data is used to enable you to pay for betting and gaming transactions using a "virtual account". These details are used to verify the transactions with the banking systems. The credit card details are encrypted so that they cannot be interpreted by any external party when it is communicated to the banking systems. Your virtual account is used to store the balance of your account so that you know how much you have to play with. Your winnings are credited to this account and you can withdraw them back on to your credit card at any time. 
+</p>
+<p>
+<strong>3. Financial Details</strong><br>
+All financial transactions and betting and gaming transactions are stored so that you can view them in My Account. This data is only available to those people appointed to maintain it (such as those preparing financial accounts, or customer services to deal with any queries) and it is held on a secure database. 
+</p>
+<p>
+<strong>4. Contact Information</strong><br>
+If you select any of the contact boxes within the marketing area of the registration form, we will use your details to contact you in the event of a query, to send you prizes (where appropriate) or to send you news of products and services we can offer. If you do not select any of these boxes, we will only use your registration details to send you prizes (where appropriate) and will not send you news of products and services we can offer. </p>
+<p>
+At any time you can change this in your personal details, and if you receive any emails from us you will always have the option to unsubscribe so that you will no longer receive them.
+</p>
+<p>
+<strong>5. Cookies</strong><br>
+A cookie is a bit of information that your browser stores on your computer at the request of a web server, and passes back to the web server that created the cookie every time you talk to that web server. It is created when a web server asks your client to store it.
+</p>
+<p>
+Cookies can only contain information that you've already sent to a given web site.
+</p>
+<p>
+Cookies can not otherwise discover information about you. A cookie is NOT something that looks at things on your computer, or examines your history, or anything like that. There may be other ways that a web server can find out information about you, but these work with or without cookies - they are unrelated.
+</p>
+<p>
+Cookies are only sent back to the web server that created them (unless your browser has a serious bug). Cookies can't leak information from a site you trust to a site that you don't trust. Cookies only store information and the only site able to retrieve it is the site that created the cookie.
+</p>
+<p>
+Our sites use cookies for a number of reasons, these are: 
+</p><ul>
+<li>To store information about whether the user has the flash player installed or not</li> 
+<li>To store the date and time of you visiting the site. This lets us limit the times a promotional popup appears when you load the site, saving a lot of annoyance. </li>
+</ul>
+<p></p>
+<p>
+If at any time, you wish to get rid of these cookies, you can do so by following these instructions on these external sites:
+	</p><ul>
+		<li><strong><a href="http://support.microsoft.com/default.aspx?scid=kb;en-us;Q278835">Internet Explorer</a></strong></li>
+		<li><strong><a href="http://www.mozilla.org/support/firefox/options#privacy">Mozilla Firefox</a></strong></li>
+		<li><strong><a href="http://www.opera.com/support/tutorials/security/privacy/">Opera</a></strong></li>
+	</ul>
+	<br>
+For all other browsers, please consult your help documentation.
+<p></p>
+<p><br>
+<strong>6. Exclusions</strong><br>
+We may disclose your Personal Information if we are required to do so by law, or if we believe in good faith that such action is necessary to: (1) comply with any legal process served on us, (2) protect our rights or property. If, in our sole determination, you are found to have cheated or attempted to defraud the Company or any other user of our service in any way including, but not limited to, game manipulation or payment fraud, or if we suspect you of fraudulent payment, including use of stolen bank cards/credit cards, or any other fraudulent activity, we reserve the right to share this information (together with your identity) with other online gaming sites, banks, credit card companies, and appropriate agencies.
+</p>
+<p><br>&nbsp;</p>
+</div>
+
+	<!-- finish included help page -->
+
+
+
+			</div>
+		</div>
+	</div>
+</div>
+<br clear="all">
+
+
+<div class="carousel">
+	<h3>Why not try?</h3>
+	<!-- This script tag calls the functions defined in the external JavaScript file to dynamically generate the tags that embed the Flash movie in the page. -->
+	<script type="text/javascript">
+		AC_FL_RunContent(
+			'codebase', 'https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0',
+			'bgcolor', '394c97',
+			'width', '722',
+			'height', '110',
+			'src', 'videoplayer<strong></strong>',
+			'quality', 'high',
+			'pluginspage', 'http://www.macromedia.com/go/getflashplayer',
+			'movie', 'http://www.footballpools.com/static/cust/images/carousel?xmlpath=http://www.footballpools.com/cust?action=GoCarouselXML'
+		);
+	</script><!-- IE 6 needs this comment for some reason -->
+	<noscript>
+	<object
+		classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000"
+		codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0"
+		id="sportech"
+		width="722"
+		height="110"
+	>
+		<param name="allowScriptAccess" value="sameDomain" />
+		<param name="wmode" value="transparent" /> 
+ 		<param name="movie" value="http://www.footballpools.com/static/cust/images/carousel.swf?xmlpath=http://www.footballpools.com/cust?action=GoCarouselXML" />
+		<param name="quality" value="high" />
+		<param name="bgcolor" value="394c97" />
+		<embed 
+			src="http://www.footballpools.com/static/cust/images/carousel.swf?xmlpath=http://www.footballpools.com/cust?action=GoCarouselXML"
+			quality="high"
+			bgcolor="#394c97"
+			width="722"
+			height="110"
+			name="sportech"
+			allowScriptAccess="sameDomain"
+			type="application/x-shockwave-flash"
+			pluginspage="http://www.macromedia.com/go/getflashplayer"
+			wmode="transparent"	
+	/>
+	</object>
+	<em><p>Note: You do not have JavaScript enabled.</p></em>
+	</noscript>
+</div>
+
+<hr>
+
+
+
+
+
+
+
+ 	<hr>
+	<div id="footer">
+		
+        <p><a title="Play Responsibly" href="http://www.footballpools.com/cust?action=GoHelp&amp;help_page=respongam&amp;tab=football">Play Responsibly</a> | <a title="Privacy Policy" href="http://www.footballpools.com/cust?action=GoHelp&amp;help_page=privpol&amp;tab=football">Privacy Policy</a> | <a title="Terms and Conditions" href="http://www.footballpools.com/cust?action=GoHelp&amp;help_page=tandc&amp;tab=football">Terms &amp; Conditions</a></p>
+        <p>
+        	<a title="18+" href="http://www.footballpools.com/cust?action=GoHelp&amp;help_page=respongam&amp;tab=football"><img src="http://www.footballpools.com/static/cust/images/logo_18.gif" alt="18+" width="30" height="31"></a>
+			<a title="GamCare" href="http://www.gamcare.org.uk/" target="_blank"><img src="http://www.footballpools.com/static/cust/images/logo_g.gif" alt="GamCare" width="24" height="30"></a>
+			<a title="Labelled with ICRA" href="http://www.icra.org/sitelabel"><img src="http://www.footballpools.com/static/cust/images/logo_icra_sw.gif" alt="Labelled with ICRA" width="88" height="31"></a>&nbsp;
+			<img src="http://www.footballpools.com/static/cust/images/logo_visa.gif" alt="Visa" width="42" height="30">&nbsp;&nbsp;
+			<img src="http://www.footballpools.com/static/cust/images/logo_mastercard.gif" alt="Mastercard" width="42" height="30">&nbsp;&nbsp;
+			<img src="http://www.footballpools.com/static/cust/images/logo_maestro.gif" alt="Maestro" width="42" height="30">&nbsp;&nbsp;
+			<img src="http://www.footballpools.com/static/cust/images/logo_delta.gif" alt="Delta" width="42" height="30">&nbsp;&nbsp;
+			<img src="http://www.footballpools.com/static/cust/images/logo_visaelectron.gif" alt="Visa Electron" width="42" height="30">&nbsp;&nbsp;
+			<img src="http://www.footballpools.com/static/cust/images/logo_green.gif" alt="Switch" width="24" height="30">&nbsp;&nbsp;
+			<img src="http://www.footballpools.com/static/cust/images/logo_purple.gif" alt="Solo" width="24" height="30">
+		</p>
+		<center>
+		<p>
+			<span>Footballpools.com is licensed and regulated by the Gambling Commission<br>for more information visit</span> 
+			<a href="http://www.gamblingcommission.gov.uk" target="_blank">www.gamblingcommission.gov.uk</a>
+		</p>
+		</center>
+		
+		</div>
+		<!--/footer-->
+		</div>
+		<!--/main content-->
+		<div class="clear">&nbsp;</div>
+	</div>
+  	<!--/container wrapper-->
+	<div id="bottom">&nbsp;</div>
+</div>
+<!--/container-->
+<!-- google analytics tracking -->
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+
+</script>
+<!-- IN both cases -->
+<script type="text/javascript">
+_uacct = "UA-366326-3";
+urchinTracker();
+</script>
+
+
+
+
+
+
+</body></html>
