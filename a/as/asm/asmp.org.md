@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asmp.org privacy policy that was archived on 2007-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070503235121id_/http%3A//www.asmp.org/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asmp.org privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230155021id_/http%3A//www.asmp.org/about/privacy.php) for the most accurate reproduction.*
 
 # ASMP: Our Privacy Policy
 
