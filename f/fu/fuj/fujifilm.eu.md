@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fujifilm.eu privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623070903id_/http%3A//www.fujifilm.eu/privacy_policy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fujifilm.eu privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230172057id_/http%3A//www.fujifilm.eu/privacy_policy/index.html) for the most accurate reproduction.*
 
 # FUJIFILM Europe | Privacy Policy
 
