@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articledude.com privacy policy that was archived on 2007-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070227164300id_/http%3A//articledude.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articledude.com privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230224920id_/http%3A//articledude.com/privacy.php) for the most accurate reproduction.*
 
 # Articledude.com
 
