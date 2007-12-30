@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ecsi.net privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613211942id_/http%3A//www.ecsi.net/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecsi.net privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230034959id_/http%3A//www.ecsi.net/privacy_statement.html) for the most accurate reproduction.*
 
-# General Privacy Statement
+# ECSI - General Privacy Statement
 
 **Introduction**  
 Educational Computer Systems, Inc. has a firm commitment to the privacy of individuals utilizing our Internet services. The following discloses our information gathering and dissemination practices for this site; www.ecsi.net.
