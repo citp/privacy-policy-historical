@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itsallaboutlinks.com privacy policy that was archived on 2007-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070616033418id_/http%3A//www.itsallaboutlinks.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itsallaboutlinks.com privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230161859id_/http%3A//www.itsallaboutlinks.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Web Directory - Privacy Policy
 
