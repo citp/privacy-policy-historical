@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the ledger-enquirer.com privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618064202id_/http%3A//www.ledger-enquirer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ledger-enquirer.com privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230021858id_/http%3A//www.ledger-enquirer.com/privacy) for the most accurate reproduction.*
 
 # Ledger-Enquirer.com | Privacy Policy & Terms of Use
-
-Go to Terms of Use 
-
-**Privacy Policy**
 
 Effective June 27, 2006
 
@@ -36,7 +32,9 @@ The email address provided by you at registration, or as updated, may be used by
 
 To update your personal information such as name, or mailing address, you can sign into your account and visit the Update Account page. To update your newsletter subscriptions you either a) visit your newsletter subscription page in your account, or b) unsubscribe by following the instructions within the email newsletter. 
 
-If you opt-in to a third party offer on this site then your relationship with the third party will be governed by their respective Privacy Policies. If you no longer wish to receive communication from the third party, then you will need to contact them directly to opt-out. When you sign up for some third-party services on this site, such as free coupons or look up Yellow Pages, you will be taken to a co-branded site which may appear to be , however if the third party is collecting information from you, the use of this information is governed by the co-branded partner's privacy policy.
+If you opt-in to a third party offer on this site then your relationship with the third party will be governed by their respective Privacy Policies. If you no longer wish to receive communication from the third party, then you will need to contact them directly to opt-out. When you sign up for some third-party services on this site, such as free coupons or look up Yellow Pages, you will be taken to a co-branded site which may appear to be 
+
+, however if the third party is collecting information from you, the use of this information is governed by the co-branded partner's privacy policy.
 
 **What other information does McClatchy Interactive collect and how is it used?**
 
@@ -79,12 +77,6 @@ This privacy statement applies only to information collected by this Web site.
 [Electronic Frontier Foundation](http://www.eff.org/) \- a civil liberties organization working to protect your rights online. 
 
 [Electronic Privacy Information Center](http://www.epic.org/) \- established to focus public attention on emerging civil liberties issues relating to the National Information Infrastructure. 
-
-[Privacy Issues Page](http://www.cdt.org/) \- from the Center for Democracy and Technology (CDT). 
-
-[Cookie Central](http://www.cookiecentral.com/) \-- dedicated to provide full information upon Internet Cookies. 
-
-* * *
 
 **Terms of Use**
 
