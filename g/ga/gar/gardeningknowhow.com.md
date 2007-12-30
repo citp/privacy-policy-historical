@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gardeningknowhow.com privacy policy that was archived on 2007-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070611095744id_/http%3A//www.gardeningknowhow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gardeningknowhow.com privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230014018id_/http%3A//www.gardeningknowhow.com/privacy-policy) for the most accurate reproduction.*
 
-# Gardening Know How » Privacy Policy - Gardening Is Easy! Let us Show You How
+# Privacy Policy - Gardening Know How
 
 **We will not sell or share your email address.** We respect your privacy. We collect visitor information in an effort to improve your experience and to communicate with you about our services, contests and promotions. We recognize that we must maintain and use customer information responsibly. When obtaining information from you, we follow a simple, common sense principle: we ask only for the information we need to provide the service you request. For example, if you would like to receive emails from us, we need an email address.
 
@@ -21,9 +21,3 @@ Cookie - Message given to a Web Browser by a Web Server. The message is then sto
 IP (Internet Protocol) - All networks connected to the internet speak IP, the technical standard which allows data to be transmitted between two devices. TCP/IP (Transmission Control Protocol/Internet Protocol) is responsible for making sure messages get from one host to another and that the messages are understood. IP address If you are connected to the Internet you have one, for example it may look something like this 198.184.98.9
 
 Web Server / Internet Services Provider (ISP) - Manages the Internet Service and delivers (serves up) web pages to your computer.
-
-### Were you able to find all the answers to your questions?
-
-If not, ask our experts a question and they will be happy to give you an answer.
-
-[Click here to ask a question.](http://www.gardeningknowhow.com/?page_id=94)
