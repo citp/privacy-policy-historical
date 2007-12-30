@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the smithfield.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617180705id_/http%3A//smithfield.com/legal.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smithfield.com privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230112224id_/http%3A//www.smithfield.com/legal.php) for the most accurate reproduction.*
 
-# Smithfield
+# Smithfield Privacy Policy
 
 This Privacy Policy states the terms under which information about you is collected and used when accessing www.smithfield.com (the "Site"). By accessing the Site you agree to the terms set forth in this Privacy Policy. This Privacy Policy may be modified at any time without notice by posting the modified Privacy Policy here. You should check this Privacy Policy each time you visit the Site to identify and understand any changes made since your previous visit. By continuing to access or use the Site, you agree to be bound by any modifications to this Privacy Policy.
 
@@ -19,7 +19,7 @@ This Site is not aimed at children less than 13 years of age. Any information su
 ## Use of Information
 
 Any Personally Identifying Information or Non-identifying Information (hereinafter collectively "Information") we gather, whether voluntarily provided by you or automatically collected, may be used for our internal business and marketing purposes. We do not sell or otherwise disclose such Information to third parties except as necessary to achieve the purpose for which the Information was submitted or collected, or to comply with the law, law enforcement agencies, or legal process served on Smithfield, or if we believe, in good faith, that such disclosure is necessary to defend our rights or property or to respond to an emergency situation.  
-If you are concerned about the Personally Identifying Information you have provided to us, or would like to review, update or delete that Personally Identifying Information, please [contact us](https://web.archive.org/help/ask_smithfield.php). We will make reasonable efforts to comply with your request.
+If you are concerned about the Personally Identifying Information you have provided to us, or would like to review, update or delete that Personally Identifying Information, please [contact us](https://web.archive.org/about/ask_smithfield.php). We will make reasonable efforts to comply with your request.
 
 ## Links to Third Party Web Sites
 
@@ -29,4 +29,5 @@ This Site contains links to other Web Sites owned and operated by third parties.
 
 Smithfield has reasonable security measures in place to protect the Personally Identifying Information you submit to us, once it is received, but we cannot be responsible for the security of information in transit. We have taken careful measures to prevent the loss, misuse, and alteration of your Personally Identifying Information. Once we receive your Personally Identifying Information that was entered into our Site, it is stored behind a firewall. Your Personally Identifying Information is only accessible to those employees who need it in order to perform their jobs. When you communicate with Smithfield by e-mail, however, your communication is not necessarily secure from interception and is subject to all of the risks of electronic communication. Smithfield does not guarantee the security or confidentiality of transmissions. Smithfield reserves the right to update or otherwise alter our security practices if and when it seems appropriate.
 
-[](https://web.archive.org/index.php)
+  
+
