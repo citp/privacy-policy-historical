@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pharmacy2u.co.uk privacy policy that was archived on 2007-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070219135412id_/http%3A//www.pharmacy2u.co.uk/Static/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pharmacy2u.co.uk privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230033756id_/http%3A//www.pharmacy2u.co.uk/Static/privacy.asp) for the most accurate reproduction.*
 
 # Pharmacy2U
 
@@ -8,7 +8,7 @@ All information at Pharmacy2U Ltd is held, retained and destroyed in accordance 
 ---  
 Details of the pharmacy, organisational structures, key personnel and how we fit into the NHS.   
   
-The East Leeds Primary Care Trust has made arrangements with Pharmacy2U Ltd for the provision of pharmaceutical services under section 41 of the National Health Service Act 1977. The Pharmacy is contracted to provide a range of NHS services and a full list of these appears in Class 2.
+The Leeds Primary Care Trust has made arrangements with Pharmacy2U Ltd for the provision of pharmaceutical services under section 41 of the National Health Service Act 1977. The Pharmacy is contracted to provide a range of NHS services and a full list of these appears in Class 2.
 
 Our pharmacists are:
 
