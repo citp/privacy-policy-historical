@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the go4funding.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624031134id_/http%3A//www.go4funding.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the go4funding.com privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230193239id_/http%3A//www.go4funding.com/privacy.aspx) for the most accurate reproduction.*
 
 # Investment Opportunities and Business Capital Company Privacy Policy
 
