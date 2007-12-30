@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the racgp.org.au privacy policy that was archived on 2007-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070428091816id_/http%3A//www.racgp.org.au/Content/NavigationMenu/Statements/Privacystatement/default.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the racgp.org.au privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230223154id_/http%3A//www.racgp.org.au/Content/NavigationMenu/Statements/Privacystatement/default.htm) for the most accurate reproduction.*
 
 # RACGP | Privacy Statement
-
-  
-
 
 This statement sets out the College's policies relating to the collection and use of personal information. Personal information is information about you which identifies you.
 
