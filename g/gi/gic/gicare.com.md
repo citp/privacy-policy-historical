@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gicare.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623054056id_/http%3A//gicare.com/jprivacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gicare.com privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230062912id_/http%3A//www.gicare.com/jprivacy.htm) for the most accurate reproduction.*
 
 # Jackson Gastroenterology Privacy Policy
 
@@ -7,25 +7,25 @@
 | 
 
   
-[Home](https://web.archive.org/web/20070623054056id_/http%3A//gicare.com/index.htm) |  [Jackson Siegelbaum Gastro](https://web.archive.org/web/20070623054056id_/http%3A//gicare.com/j000001.htm) |  [Patient Education](https://web.archive.org/web/20070623054056id_/http%3A//gicare.com/pated/e000001.htm)
+[Home](https://web.archive.org/web/20071230062912id_/http%3A//www.gicare.com/index.htm) |  [Jackson Siegelbaum Gastro](https://web.archive.org/web/20071230062912id_/http%3A//www.gicare.com/j000001.htm) |  [Patient Education](https://web.archive.org/web/20071230062912id_/http%3A//www.gicare.com/pated/e000001.htm)
 
 |   
   
 ---|---|---|---  
 |  |  |   
-[ ](https://web.archive.org/web/20070623054056id_/http%3A//gicare.com/j000001.htm) [ ](https://web.archive.org/web/20070623054056id_/http%3A//gicare.com/j000001.htm) [   
-](https://web.archive.org/web/20070623054056id_/http%3A//gicare.com/j000001.htm) [   
-](https://web.archive.org/web/20070623054056id_/http%3A//gicare.com/jpl0001.htm) [   
-](https://web.archive.org/web/20070623054056id_/http%3A//gicare.com/jos0001.htm) [   
-](https://web.archive.org/web/20070623054056id_/http%3A//gicare.com/joi0001.htm) [   
-](https://web.archive.org/web/20070623054056id_/http%3A//gicare.com/jfu0001.htm) [   
-](https://web.archive.org/web/20070623054056id_/http%3A//gicare.com/jin0001.htm) [](https://web.archive.org/web/20070623054056id_/http%3A//gicare.com/jpt0001.htm)  
-[](https://web.archive.org/web/20070623054056id_/http%3A//gicare.com/jprivacy.htm)[](https://web.archive.org/web/20070623054056id_/http%3A//gicare.com/j000001.htm)[  
-](https://web.archive.org/web/20070623054056id_/http%3A//gicare.com/jos0001.htm) [  
-](https://web.archive.org/web/20070623054056id_/http%3A//gicare.com/joi0001.htm) [  
-](https://web.archive.org/web/20070623054056id_/http%3A//gicare.com/jfu0001.htm) [  
-](https://web.archive.org/web/20070623054056id_/http%3A//gicare.com/jin0001.htm) [](https://web.archive.org/web/20070623054056id_/http%3A//gicare.com/jpt0001.htm)  
-[](https://web.archive.org/web/20070623054056id_/http%3A//gicare.com/jprivacy.htm) |  | 
+[ ](https://web.archive.org/web/20071230062912id_/http%3A//www.gicare.com/j000001.htm) [ ](https://web.archive.org/web/20071230062912id_/http%3A//www.gicare.com/j000001.htm) [   
+](https://web.archive.org/web/20071230062912id_/http%3A//www.gicare.com/j000001.htm) [   
+](https://web.archive.org/web/20071230062912id_/http%3A//www.gicare.com/jpl0001.htm) [   
+](https://web.archive.org/web/20071230062912id_/http%3A//www.gicare.com/jos0001.htm) [   
+](https://web.archive.org/web/20071230062912id_/http%3A//www.gicare.com/joi0001.htm) [   
+](https://web.archive.org/web/20071230062912id_/http%3A//www.gicare.com/jfu0001.htm) [   
+](https://web.archive.org/web/20071230062912id_/http%3A//www.gicare.com/jin0001.htm) [](https://web.archive.org/web/20071230062912id_/http%3A//www.gicare.com/jpt0001.htm)  
+[](https://web.archive.org/web/20071230062912id_/http%3A//www.gicare.com/jprivacy.htm)[](https://web.archive.org/web/20071230062912id_/http%3A//www.gicare.com/j000001.htm)[  
+](https://web.archive.org/web/20071230062912id_/http%3A//www.gicare.com/jos0001.htm) [  
+](https://web.archive.org/web/20071230062912id_/http%3A//www.gicare.com/joi0001.htm) [  
+](https://web.archive.org/web/20071230062912id_/http%3A//www.gicare.com/jfu0001.htm) [  
+](https://web.archive.org/web/20071230062912id_/http%3A//www.gicare.com/jin0001.htm) [](https://web.archive.org/web/20071230062912id_/http%3A//www.gicare.com/jpt0001.htm)  
+[](https://web.archive.org/web/20071230062912id_/http%3A//www.gicare.com/jprivacy.htm) |  | 
 
 > **NOTICE OF PRIVACY PRACTICES FOR JACKSON SIEGELBAUM GASTROENTEROLOGY  
 >  ** Effective July 1, 2006 
@@ -243,7 +243,7 @@
 |  |  |   
 |  | 
 
-[Jackson Siegelbaum Gastro](https://web.archive.org/web/20070623054056id_/http%3A//gicare.com/j000001.htm) |  [Philosophy](https://web.archive.org/jpl0001.htm) |  [Staff](https://web.archive.org/jos0001.htm) |  [Office Info](https://web.archive.org/joi0001.htm) |  [Find Us](https://web.archive.org/jfu0001.htm) |  [Insurance](https://web.archive.org/jin0001.htm) |  [On Good Health](https://web.archive.org/jpt0001.htm) |  [Privacy](https://web.archive.org/jprivacy.htm)  
+[Jackson Siegelbaum Gastro](https://web.archive.org/web/20071230062912id_/http%3A//www.gicare.com/j000001.htm) |  [Philosophy](https://web.archive.org/jpl0001.htm) |  [Staff](https://web.archive.org/jos0001.htm) |  [Office Info](https://web.archive.org/joi0001.htm) |  [Find Us](https://web.archive.org/jfu0001.htm) |  [Insurance](https://web.archive.org/jin0001.htm) |  [On Good Health](https://web.archive.org/jpt0001.htm) |  [Privacy](https://web.archive.org/jprivacy.htm)  
 
 
 **Jackson Siegelbaum Gastroenterology** | 423 North 21st Street, Suite 100 |   | 2626 North 3rd Street., Suite 3A  
