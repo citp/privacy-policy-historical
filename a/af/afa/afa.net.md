@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the afa.net privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607181927id_/http%3A//www.afa.net/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afa.net privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230051947id_/http%3A//www.afa.net/privacy.asp) for the most accurate reproduction.*
 
 # AFA - American Family Association - Privacy Statement
 
@@ -6,7 +6,7 @@
 
 ## Privacy Statement
 
-American Family Association (AFA) strives to offer its visitors the many advantages of Internet technology and provide a positive interactive experience. We may use Personally Identifiable Information (your name, e-mail address, street address) subject to the terms of this Privacy Policy. **PLEASE NOTE: We do not sell, lease, rent, or give-away information, including your e-mail address, we collect from you.**
+American Family Association (AFA) strives to offer its visitors the many advantages of Internet technology and provide a positive interactive experience. We may use Personally Identifiable Information (your name, e-mail address, street address) subject to the terms of this Privacy Policy. **PLEASE NOTE: From time to time, we may share all or parts of our list with a third party. This sharing will be with the third party we feel is acceptable. Any sharing will be rare and selective.**
 
 **By accessing or using AFA-related sites, you agree to the terms of the Privacy Policy, as outlined below. If you do not agree to these terms, please do not access or use the site. AFA reserves the right to change the Privacy Policy from time to time at its sole discretion. Your use of this site will be subject to the current version of the Privacy Policy at the time of such use.**
 
