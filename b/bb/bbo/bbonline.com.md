@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bbonline.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429175052id_/http%3A//www.bbonline.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbonline.com privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230074700id_/http%3A//www.bbonline.com/privacy.html) for the most accurate reproduction.*
 
 # Bed & Breakfast Inns ONLINE - Privacy Statement
 
