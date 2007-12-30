@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rudolphtech.com privacy policy that was archived on 2007-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070212112959id_/http%3A//www.rudolphtech.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rudolphtech.com privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230010125id_/http%3A//www.rudolphtech.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Rudolph : Privacy Policy
 
