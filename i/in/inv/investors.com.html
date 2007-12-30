@@ -1,8 +1,9 @@
-<!--The following is the downloaded HTML source of the investors.com privacy policy that was archived on 2007-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070626004911id_/http%3A//www.investors.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the investors.com privacy policy that was archived on 2007-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071230064259id_/http%3A//www.investors.com/privacy) for the most accurate reproduction.-->
 
 <html><head><script type="text/javascript">
 	<!--
+		/*
 		if ("Miscellaneous" != "")
 		{
 			var if_Site_ID = "investors";
@@ -43,8 +44,9 @@
 			 	  if_Site_ID + '_if.js' + '"><\/SCRIPT>');
 			}
 		}
+		*/
 	//-->
-	</script><script language="JavaScript" defer="" src="https://a248.e.akamai.net/7/836/1132/102403/investors-ssl.247realmedia.com/scripts/investors_if.js"></script>
+	</script>
 <!-- END InsightXE -->
 
 
@@ -209,43 +211,41 @@ function jsfOpenPowerTool(sSymbol,iType,sPage)
 //  -->
 </script>
 <script type="text/javascript"><!--
-//configuration
-OAS_url = 'http://oascentral.investors.com/RealMedia/ads/';
-//OAS_sitepage = window.location.hostname + window.location.pathname;
-OAS_sitepage = '';;
-OAS_listpos = '';;
-if('' != '')
-{	OAS_query = '';	}
-else
-{	OAS_query = '';	}
-OAS_target = '_top';
-//end of configuration
-OAS_version = 10;
-OAS_rn = '001234567890'; OAS_rns = '1234567890';
-OAS_rn = new String (Math.random()); OAS_rns = OAS_rn.substring (2, 11);
-function OAS_NORMAL(pos) {
-  document.write('<');
-  document.write('A HREF="' + OAS_url + 'click_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + '?' + OAS_query + '" TARGET=' + OAS_target + '>');
-  document.write('<IMG SRC="' + OAS_url + 'adstream_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + '?' + OAS_query + '" BORDER=0><');
-  document.write('/A>');
-}
-//--></script><script language="JavaScript1.1" type="text/javascript"><!--
-OAS_version = 11;
-if (navigator.userAgent.indexOf('Mozilla/3') != -1 || navigator.userAgent.indexOf('Mozilla/4.0 WebTV') != -1)
-	OAS_version = 10;
-if (OAS_version >= 11)
-	document.write('<SCR' + 'IPT LANGUAGE=JavaScript1.1 SRC="' + OAS_url + 'adstream_mjx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '?' + OAS_query + '"><\/SCRIPT>');
-//--></script><script language="JavaScript1.1" src="http://oascentral.investors.com/RealMedia/ads/adstream_mjx.ads//1039489719@?"></script><script type="text/javascript"><!--
-document.write('');
 function OAS_AD(pos) {
-  if (OAS_version >= 11)
-    OAS_RICH(pos);
-  else
-    OAS_NORMAL(pos);
+	OAS_NORMAL_DC(pos);
 }
 //--></script><script type="text/javascript"><!--
 var tcdacmd="dt";
-//--></script><script src="http://an.tacoda.net/an/13984/slf.js" type="text/javascript"></script></head>
+//--></script><script src="http://an.tacoda.net/an/13984/slf.js" type="text/javascript"></script><script type="text/javascript" src="/includes/edit/incAdscriptPos.js"></script><script language="JavaScript" type="text/javascript">
+var tile = 1;
+var width = "";
+var height = "";
+var site = "";
+var section = "";
+
+ord=Math.random()*10000000000000000;
+function OAS_NORMAL_DC(pos) {
+	pos = OAS_TranslatePos(pos, "");
+	dcopt = "";
+	//if(tile == 1)
+	//{	dcopt = "dcopt=ist;";	}
+	
+	if(site != "")
+	{
+	//only existing ads
+		document.write('<SCR' + 'IPT language="JavaScript" src="http://ad.doubleclick.net/adj/' + site + ';tile=' + tile + ';' + pos + section + dcopt + 'sz=' + width + 'x' + height + ';ord=' + ord + '?" type="text/javascript"></scr' + 'ipt>');
+		document.write('<a href="http://ad.doubleclick.net/jump/' + site + ';tile=' + tile + ';' + pos + section + dcopt + 'sz=' + width + 'x' + height + ';ord=' + ord + '?"><img src="px.gif" width="2px" height="1px" /></a>');
+		/*document.write('<');
+		document.write('a href="http://ad.doubleclick.net/jump/' + site + ';tile=' + tile + ';' + pos + section + dcopt + 'sz=' + width + 'x' + height + ';ord=' + ord + '?" target="_blank">');
+		document.write('<img src="http://ad.doubleclick.net/ad/' + site + ';tile=' + tile + ';' + pos + 'sz=' + width + 'x' + height + ';ord=' + ord + '?" width="' + width + '" height="' + height + '" border="0" alt="generator alt text">generator alt text<');
+		document.write('/A>');*/
+		tile++;
+	}
+	
+	width = "";
+	height = "";
+}
+</script></head>
 
 	
 
@@ -255,6 +255,7 @@ var tcdacmd="dt";
 
 
 
+<!-- begin ad tag (tile=1) -->
 
 
 
@@ -271,7 +272,7 @@ var tcdacmd="dt";
 	</div>
 	
 	<div class="navtopdot" style="height: 80px; background: #036 url('http://www.investors.com/images/bacTopNav.gif') repeat-x bottom">
-		
+		<div style="border: 0px solid lime; width: 788px; height: 80px;">
 			<div style="width: 278px; height: 80px; border: 0px dotted red; float: left"><a href="http://www.investors.com/default.asp"><img src="http://www.investors.com/images/staLogojan05b.gif" width="272" height="66" style="padding-bottom: 10px" alt="Investors.com"></a></div>
 	
 	
@@ -286,6 +287,7 @@ var tcdacmd="dt";
 					<img src="http://www.investors.com/images/btnTopNavTabs.gif" width="254" height="22" usemap="#btnTopNavTabsMap" style="position: absolute; bottom: 0px; right: 0px" alt="">
 				
 		
+			</div>
 		</div>
 	</div>
 	
@@ -335,16 +337,16 @@ var tcdacmd="dt";
 	</tr>
 
 	<tr>
-		<td class="leftnavminor"><a href="http://www.investors.com/dsa/" class="leftnavminor" title="Daily Stock Analysis">Daily Stock Analysis</a></td>
+		<td class="leftnavminor"><a href="http://www.investors.com/dsa/" class="leftnavminor" title="Daily Stock Analysis">Daily Stock Analysis</a>&nbsp;<img src="/images/staNew20x8.gif" alt="NEW!"></td>
 	</tr>
 	<tr>
 		<td class="leftnavminor"><a href="http://www.investors.com/indicesibd.asp" class="leftnavminor" title="IBD® Indexes">IBD<span class="navreg">®</span> Indexes</a></td>
 	</tr>
 	<tr>
-		<td class="leftnavminor"><a href="http://www.investors.com/optioncenter/" class="leftnavminor" title="Options">Option Center</a> <img src="/images/staNew20x8.gif" alt="NEW!"></td>
+		<td class="leftnavminor"><a href="http://www.investors.com/optioncenter/" class="leftnavminor" title="Options">Option Center</a></td>
 	</tr>
 	<tr>
-		<td class="leftnavminor"><a href="JavaScript:popup=window.open('http://www.investors.com/MediaCenter','MediaCenter','width=770,height=612,directories=no,status=yes,location=no,toolbar=no,scrollbars=no,resizable=yes,menubar=no,copyhistory=no,alwaysRaised=1,dependent=yes');popup.focus();" class="leftnavminor" title="Media Center">Media Center</a> <img src="/images/staNew20x8.gif" alt="NEW!"></td>
+		<td class="leftnavminor"><a href="JavaScript:popup=window.open('http://www.investors.com/MediaCenter','MediaCenter','width=1050,height=750,directories=no,status=yes,location=no,toolbar=no,scrollbars=no,resizable=yes,menubar=no,copyhistory=no,alwaysRaised=1,dependent=yes');popup.focus();" class="leftnavminor" title="Media Center">Media Center</a></td>
 	</tr>
 	<tr>
 		<td class="leftnavminor"><a href="http://www.investors.com/etf/default.asp?tn=left" class="leftnavminor" title="ETF Center">ETF Center</a></td>
@@ -427,13 +429,16 @@ var tcdacmd="dt";
 		<td class="leftnavmajor"><b>SERVICES</b></td>
 	</tr>
 	<tr>
-		<td class="leftnavplain"><p class="navtightalt"><a href="http://www.investors.com/ibdstore/default.asp?tn=left" class="leftnavplain" title="IBD Store">IBD<span class="navreg">®</span> Store</a></p>
+		<td class="leftnavplain">
+		<p class="navtightalt"><a href="http://www.investors.com/ibdstore/default.asp?tn=left" class="leftnavplain" title="IBD Store">IBD<span class="navreg">®</span> Store</a></p>
+		<p class="navtightalt"><a href="http://www.investors.com/affiliateprogram/default.asp?tn=left" class="leftnavplain" title="Affiliate Program">Affiliate Program</a></p>
 		<p class="navtightalt" style="margin-right: 0px; padding-right: 0px"><a href="http://www.investors.com/licensing/canslim/" class="leftnavplain" title="CAN SLIM® Licensing Opportunities">CAN&nbsp;SLIM<span class="navreg">®</span>&nbsp;Licensing Opportunities</a></p>
-			<p class="navtightalt"><a href="http://www.investors.com/calendar/" class="leftnavplain" title="IBD Calendar">IBD<span class="navreg">®</span> Calendar</a><img src="/images/staNew20x8.gif" alt="NEW!"></p>
+			<p class="navtightalt"><a href="http://www.investors.com/calendar/" class="leftnavplain" title="IBD Calendar">IBD<span class="navreg">®</span> Calendar</a> <img src="/images/staNew20x8.gif" alt="NEW!"></p>
 			<p class="navtightalt"><a href="http://www.investors.com/rss/" class="leftnavplain" title="RSS Feeds">RSS Feeds</a></p>
 			<p class="navtightalt"><a href="http://www.investors.com/mobile/wap.asp" class="leftnavplain" title="Mobile">Investors.com Mobile</a></p>
 			<p class="navtightalt"><a href="http://www.bankrate.com/ibd" class="leftnavplain" title="Rates and Calculators">Rates &amp;&nbsp;Calculators</a></p>
 			<p class="navtightalt"><a href="http://www.ibdretail.com" class="leftnavplain" title="IBD® Retail Locations">IBD<span class="navreg">®</span> Retail<br>Locations</a></p>
+			<p class="navtightalt"><a href="http://www.investors.com/jobpostingusersite" class="leftnavplain" title="IBD Careers">IBD Careers</a> <img src="/images/staNew20x8.gif" alt="NEW!"></p>
 			<p class="navtightalt"><a href="http://www.investors.com/contact/" class="leftnavplain" title="Contact IBD®">Contact IBD<span class="navreg">®</span></a></p>
 			<p class="navtightalt"><a href="http://www.investors.com/corporatenews/" class="leftnavplain" title="Corporate News">Corporate News</a></p>
 			<p class="navtightalt"><a href="http://www.investors.com/presscenter/" class="leftnavplain" title="About IBD®/Press Info">About IBD<span class="navreg">®</span>/<br>Press Info</a></p>
@@ -459,6 +464,7 @@ var tcdacmd="dt";
 		<a href="http://www.investors.com/classified/business.asp" class="leftnav" title="Classified">Classified</a><br>
 		<a href="http://www.investors.com/ibdadvertising/advertising_reprints.asp" class="leftnav" title="Reprints">Reprints</a><br>
 		<a href="http://www.investors.com/ibdadvertising/" class="leftnav" title="Media Kits">Media Kits</a><br>
+		<a href="http://www.investors.com/ibdadvertising/pdfs/edit_calendar_2008.pdf" class="leftnav" title="Editorial Calendar">Editorial Calendar</a><br>
 		&nbsp;
 		</div></td>
 	</tr>
@@ -486,7 +492,7 @@ var tcdacmd="dt";
 						<p>Investor's Business Daily, IBD, CAN SLIM and corresponding logos are registered trademarks of Data Analysis Inc. Daily Graphs and Daily Graphs Online are registered trademarks of William O'Neil + Co. Incorporated.</p>
 						<h3 style="font-weight: 300">What Information Does IBD Collect From You and How is it Used?</h3>
 						<p><span class="detail">Registration</span><br>
-							The only personally identifiable information that we collect about you is that which you knowingly provide to us directly or through a third-party promotion when registering.  In order to use certain features and products through our Web site(s), a user must first complete a registration form. During registration a user may be required to give their contact information (including but not limited to: name, phone number, physical address or email address). All users must review and agree to IBD’s  <a href="/terms/?tp=1">Terms of Use</a>.  Some of our features and products have additional Terms of Use or Rules that must be reviewed and agreed to prior to completing registration.</p>
+							The only personally identifiable information that we collect about you is that which you knowingly provide to us directly or through a third-party promotion when registering.  In order to use certain features and products through our Web site(s), a user must first complete a registration form. During registration a user may be required to give their contact information (including but not limited to: name, phone number, physical address or email address). All users must review and agree to IBD's  <a href="/terms/?tp=1">Terms of Use</a>.  Some of our features and products have additional Terms of Use or Rules that must be reviewed and agreed to prior to completing registration.</p>
 						<p><span class="detail">Products and Services Requiring Payment</span><br>
 							Financial information (such as a credit card number and expiration date) is used for billing purposes. If we have trouble processing an order, this information is used to get in touch with the user. This information may be shared with third parties who perform tasks required to complete the purchase transaction.</p>
 						<h3 style="font-weight: 300">How We Gather Information From You</h3>
@@ -498,7 +504,7 @@ var tcdacmd="dt";
 							Web beacons, also called web bugs and clear GIFs are used in combination with cookies to help us understand the behavior of our customers. A web beacon is typically a transparent graphic image that is placed on our site or in an email. The use of a web beacon allows IBD to record the simple actions of the user opening the page that contains the beacon.</p>
 						<p>When a user's browser requests information from a website in this way, certain simple information can also be gathered, such as: the IP address of your computer; time the material was viewed; the type of browser that retrieved the image; and the existence of cookies previously set by that server. This is information is available to any web server you visit. Web beacons do not give any "extra" information away. They are simply a convenient way of gathering the simplest of statistics and managing cookies.</p>
 						<h3 style="font-weight: 300">Sharing</h3>
-						<p>IBD uses personal information obtained from its users as stated in this Privacy Policy, and to enhance users’ experiences on our site.</p>
+						<p>IBD uses personal information obtained from its users as stated in this Privacy Policy, and to enhance users' experiences on our site.</p>
 						<p>IBD may share, sell or rent your name and physical address. However, we will not disclose your email address, phone or fax numbers in our database without your advance permission.</p>
 						<p><span class="detail">Legal Disclaimer</span><br>
 							Though we make every effort to preserve user privacy, we may need to disclose personal information.  In the event of a sale, merger, public offering, bankruptcy or other change in control of IBD and/or its affiliates, your information may be shared with the person or business obtaining ownership and control.  Furthermore, disclosure of personal information may be required by law where we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site.  We are not responsible for the privacy practices or the content of any other web sites to which we may link.</p>
@@ -506,17 +512,17 @@ var tcdacmd="dt";
 							We may use Aggregated Information to identify things such as usage patterns and popularity of certain features on Investors.com. We may share Aggregated Information with our partners and affiliated companies.</p>
 						<p><span class="detail">Third Parties May Receive or Collect Information Through IBD</span><br>
 							We use a credit card processing company to bill users for goods and services. This company will also perform a card authorization and fraud check, but this company does not retain, share, store or use personally identifiable information for any secondary purposes.</p>
-						<p>We use third-party ad serving companies, such as 24/7 Real Media, Inc. to serve certain advertisements to you when you visit this Web site. Our third-party ad serving company may use anonymous information related to your visit to the Service's Web site to better provide advertisements to you about goods and services that may be of interest to you. Our third-party ad serving company does not have access to or use your name, address or telephone number. However, they do receive your user name/email address in order to facilitate their service. In the course of serving advertisements to this Web site, our third-party ad serving company may place or recognize a unique "cookie" through your browser. In addition, we may use Web beacons, provided by third-party advertising companies, to help manage and optimize our online advertising.  Web beacons enable us to recognize a browser’s cookie when a browser visits this site, and to learn which banner ads bring users to our Web site.  If you would like more information about our third-party ad serving company or regarding your ability to opt-out of the use of cookies, please go to  <a href="http://www.247realmedia.com/privacy.html" target="blank">www.247realmedia.com/privacy.html</a>.</p>
+						<p>We use third-party ad serving companies, such as 24/7 Real Media, Inc. to serve certain advertisements to you when you visit this Web site. Our third-party ad serving company may use anonymous information related to your visit to the Service's Web site to better provide advertisements to you about goods and services that may be of interest to you. Our third-party ad serving company does not have access to or use your name, address or telephone number. However, they do receive your user name/email address in order to facilitate their service. In the course of serving advertisements to this Web site, our third-party ad serving company may place or recognize a unique "cookie" through your browser. In addition, we may use Web beacons, provided by third-party advertising companies, to help manage and optimize our online advertising.  Web beacons enable us to recognize a browser's cookie when a browser visits this site, and to learn which banner ads bring users to our Web site.  If you would like more information about our third-party ad serving company or regarding your ability to opt-out of the use of cookies, please go to  <a href="http://www.247realmedia.com/privacy.html" target="blank">www.247realmedia.com/privacy.html</a>.</p>
 						<p>This privacy policy covers the use of cookies by IBD and its affiliates only and does not cover the use of cookies by any advertisers.</p>
 						<p><span class="detail">IBD Forums</span><br>
 							We offer our users the option of participating in the IBD Forums, discussion boards. Separate registration is required prior to accessing this service. Any information you disclose when posting a message in these Forums may become public. For more information about IBD Forums see <a href="/terms/?tp=1&amp;sup=ibb#tous">IBD Forums Rules, Policies and Disclaimers</a>.</p>
 						<p><span class="detail">Communication via Email</span><br>
-							IBD reserves the right to send IBD transactional messages and business relationship messages via email to facilitate agreed upon transactions or update customers about existing business relationships. Such emails include, but are not limited to, welcome emails, transaction receipts, billing notification, renewal notices, notification of activation of online privileges, technical support responses, and other communications required to service customers’ accounts on Investors.com and/or customers’ subscriptions with IBD or its affiliates. Customers <i>cannot</i> unsubscribe from these email messages.</p>
-						<p>IBD, and its affiliates, also make various one-time emails and email series available to the recipients in our database to help them get the most value from our products and services. Such emails include, but are not limited to, newsletters, product updates, educational materials, surveys, special offers from IBD and/or its affiliates as well as special offers of interest sent on behalf of select third parties.</p>
+							IBD reserves the right to send IBD transactional messages and business relationship messages via email to facilitate agreed upon transactions or update customers about existing business relationships. Such emails include, but are not limited to, welcome emails, transaction receipts, billing notification, renewal notices, notification of activation of online privileges, technical support responses, and other communications required to service customers' accounts on Investors.com and/or customers' subscriptions with IBD or its affiliates. Customers <i>cannot</i> unsubscribe from these email messages.</p>
+						<p>IBD, and its affiliates, also make various one-time emails and email series available to the recipients in our database to help them get the most value from our products and services. Such emails include, but are not limited to, newsletters, product updates, educational materials, surveys, special offers from IBD and/or its affiliates as well as special offers sent on behalf of select third parties (IBD partners).</p>
 						<p><span class="detail">Subscribing to and Unsubscribing from Email</span><br>
 						    With the exception of the mandatory IBD transactional and business relationship emails mentioned above, at the time of online registration recipients have an opportunity to confirm their email communication preferences.  Customers may choose to subscribe to (opt-in) or unsubscribe (opt-out) from any or all of these email communications at will.</p>
 						<p><b>To Unsubscribe:</b> Customers may unsubscribe from specific email categories by (1) Clicking the "unsubscribe" link included at the bottom of any email sent by IBD or its affiliates (2) Sending an email to IBD Customer Service at <a href="http://www.askibd.com">www.askibd.com</a> or (3) Calling IBD Customer Service at 1-800-831-2525 or outside the United States 1-310-448-6600.</p>
-						<p><b>Managing Your Email Preferences:</b>  To subscribe to or unsubscribe from any email category, customers may manage their email preferences by (1) Clicking the Edit Profile link on Investors.com and selecting the Change Your Email Address and/or Preferences or (2) By clicking on “email preferences” link included at the bottom of emails sent by IBD and its affiliates, (3) Sending an email to IBD Customer Service at <a href="http://www.askibd.com">www.askibd.com</a> or (4) Calling IBD Customer Service at 1-800-831-2525 or outside the United States 1-310-448-6600.</p>
+						<p><b>Managing Your Email Preferences:</b>  To subscribe to or unsubscribe from any email category, customers may manage their email preferences by (1) Clicking the Edit Profile link on Investors.com and selecting the Change Your Email Address and/or Preferences or (2) By clicking on 'email preferences' link included at the bottom of emails sent by IBD and its affiliates, (3) Sending an email to IBD Customer Service at <a href="http://www.askibd.com">www.askibd.com</a> or (4) Calling IBD Customer Service at 1-800-831-2525 or outside the United States 1-310-448-6600.</p>
 						<p><span class="detail">Supplementation of Information with Affiliates</span><br>
 							In order to properly fulfill our obligations to our customers, it is necessary for us to supplement the information we receive with information from 3rd party sources. Also, in order for us to enhance our ability to tailor the site to an individual's preference, we combine information about the purchasing habits of users with similar information from our affiliates, to create a personalized user profile. When a user makes a purchase from either IBD or its affiliates, the companies collect and share that purchase information with us so we can tailor the site to our users' preferences.</p>
 						<p><span class="detail">Site and Service Updates</span><br>
@@ -528,9 +534,9 @@ var tcdacmd="dt";
 						<p><span class="detail">Phishing</span><br>
 							Phishing is a term used to describe a type of Internet scam in which inauthentic emails that appear to be coming from a legitimate source are sent in an attempt to trick you into providing confidential information. These emails usually invoke a sense of urgency and often imply that your account is about to be closed unless immediate action is taken. They will often ask you to click on a link that leads you to a webpage that simulates that of the legitimate source, but is really a page specially designed to get you to input your confidential information such as account number, password, social security number or credit card number. The thieves then use that information to commit fraud and identity theft against you.</p>
 						<p>The Office of the Comptroller of Currency has set up a website providing information warning consumers about the dangers of these scams and how to protect yourself. To learn more about phishing, please click on the following link: <a href="http://www.occ.gov/consumer/phishing.htm" target="_blank">www.occ.gov/consumer/phishing.htm</a></p>
-						<p>Please know that Investor’s Business Daily takes the privacy of our subscribers very seriously. If you are ever in question about the legitimacy of an email from IBD, please contact customer service at: (800) 831-2525 or outside the United States 1-310-448-6600. If you believe you have been the victim of a scam, you can file a complaint with the Federal Trade Commission at: <a href="http://www.consumer.gov/idtheft/">www.consumer.gov/idtheft/</a>.  If you have any additional questions about the security at our Web site, you can contact us at <a href="http://www.askibd.com">www.askibd.com</a>.</p>
+						<p>Please know that Investor's Business Daily takes the privacy of our subscribers very seriously. If you are ever in question about the legitimacy of an email from IBD, please contact customer service at: (800) 831-2525 or outside the United States 1-310-448-6600. If you believe you have been the victim of a scam, you can file a complaint with the Federal Trade Commission at: <a href="http://www.consumer.gov/idtheft/">www.consumer.gov/idtheft/</a>.  If you have any additional questions about the security at our Web site, you can contact us at <a href="http://www.askibd.com">www.askibd.com</a>.</p>
 						<p><span class="detail">Correction/Updating Personal Information</span><br>
-							If your personally identifiable information changes (such as your zip code), or if you no longer desire to use our service, you may correct, update or remove your personal data provided to us. This can be done by accessing “Edit Profile” on the Investors.com site.</p>
+							If your personally identifiable information changes (such as your zip code), or if you no longer desire to use our service, you may correct, update or remove your personal data provided to us. This can be done by accessing 'Edit Profile' on the Investors.com site.</p>
 						<p><span class="detail">Personal Information You Disclose</span><br>
 							Please remember that if you choose to disclose personally identifiable information on our site, such as in IBD Forums, it becomes public information and you should exercise caution. This means that your information may be viewed and/or collected and used by third parties without our or your knowledge. Such actions are not under our control and we are not responsible for events arising from your voluntary posting of personally identifiable information.</p>
 						<p><span class="detail">Children</span><br>
@@ -1670,14 +1676,14 @@ function cleanTickerSymbols(s) {
 //--></script>
 <table border="0" cellpadding="0" cellspacing="0" width="131" style="background-color: white; border: 1px solid #afc2d5">
 
-	<tbody><tr>
+<!--	<tr>
 		<td colspan="4" style="font-size: 11px; font-family: Arial, Helvetica, sans; color: #c00; text-align: center; padding: 3px 2px 10px 2px">
 			WE'RE MAKING A SWITCH! Change your <a href="https://secure.investors.com/checkout/login/UserNameLand_1.asp" class="redlink" style="font-size: 11px">Sign-in here</a>.
 		</td>
-	</tr>
+	</tr>-->
 
 	<form name="forLogIn" action="http://www.investors.com/login.aspx?/privacy/Default.asp" method="post"></form>	
-	<tr>
+	<tbody><tr>
 		<td colspan="4">
 			<table cellspacing="0" cellpadding="0" width="100%" style="background: #fff url(/images/bacRegTabs.gif) repeat-x bottom right">
 				<tbody><tr valign="bottom">
@@ -1690,7 +1696,7 @@ function cleanTickerSymbols(s) {
 	
 	<tr>
 		<td><img height="1" width="1" src="px.gif" alt=""></td>
-		<td colspan="2" class="rightnavpos" style="padding-top: 5px"><b>Enter User Name</b></td>
+		<td colspan="2" class="rightnavpos" style="padding-top: 5px"><b>Enter Email Address</b></td>
 		<td class=""><img height="1" width="1" src="px.gif" alt=""></td>
 	</tr>
 	<tr>
@@ -1723,22 +1729,29 @@ function cleanTickerSymbols(s) {
 	
 	
 	<tr>
-		<td colspan="4" class="rightnav"><div style="padding: 5px 1px 3px 5px; font-weight: bold">INVESTING TOOLS</div></td>
+		<td colspan="4" style="color: #fff; background-color: #3c1855" class="rightnav"><div style="padding: 5px 1px 3px 5px; font-weight: bold">INVESTING TOOLS</div></td>
 	</tr>
 	<form name="forCharts" action="JavaScript:jsfOpenPowerTool(document.forCharts.htmTicker.value,document.forCharts.htmChartValue.value,document.forCharts.htmAdditionalValue.value);" method="post"></form>
 
 	<tr>
-		<td class="rightnav">
+		<td class="rightnav" style="color: #fff; background-color: #3c1855">
 			<input type="hidden" value="1" name="htmChartValue">
 			<input type="hidden" value="" name="htmAdditionalValue">
 			<img height="1" width="3" src="px.gif" alt="">
 		</td>
-		<td colspan="3" class="rtnavticker" nowrap="nowrap">Enter Symbol <img height="1" width="3" src="px.gif" alt=""><input type="text" name="htmTicker" value="" size="5" class="rtnavinput"></td>
+		<td colspan="3" class="rtnavticker" style="color: #fff; background-color: #3c1855" nowrap="nowrap">Enter Symbol <img height="1" width="3" src="px.gif" alt=""><input type="text" name="htmTicker" value="" size="5" class="rtnavinput"></td>
 	</tr>
 	<tr>
-		<td class="rightnav"><img height="1" width="3" src="px.gif" alt=""></td>
-		<td colspan="3" class="rightnav" nowrap="nowrap"><img height="1" width="1" src="px.gif" alt=""><a href="/symbol.asp" class="rtnavlinksm" title="Symbol Lookup">Symbol lookup</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="JavaScript:popup=window.open('/ibdhelp/help.asp?page=13','help','width=375,height=400,directories=no,status=no,location=no,toolbar=no,scrollbars=yes,resizable=yes,menubar=no,copyhistory=no,alwaysRaised=0,dependent=0');popup.focus()" class="rtnavlinksm" title="Help">Help</a><br>
+		<td class="rightnav" style="color: #fff; background-color: #3c1855"><img height="1" width="3" src="px.gif" alt=""></td>
+		<td colspan="3" class="rightnav" style="color: #fff; background-color: #3c1855" nowrap="nowrap"><img height="1" width="1" src="px.gif" alt=""><a href="/symbol.asp" class="rtnavlinksm" title="Symbol Lookup"><span style="color: #fff"><u>Symbol lookup</u></span></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="JavaScript:popup=window.open('/ibdhelp/help.asp?page=13','help','width=375,height=400,directories=no,status=no,location=no,toolbar=no,scrollbars=yes,resizable=yes,menubar=no,copyhistory=no,alwaysRaised=0,dependent=0');popup.focus()" class="rtnavlinksm" title="Help"><span style="color: #fff"><u>Help</u></span></a><br>
 			<img height="3" width="1" src="px.gif" alt=""></td>
+	</tr>
+	<tr>
+		<td class="rightnav" style="color: #fff; background-color: #3c1855"><img height="35" width="1" src="px.gif" alt=""></td>
+		<td colspan="3" style="color: #fff; background-color: #3c1855; text-align: center" class="rightnav"><script type="text/javascript"><!--
+		OAS_AD('x22');
+		//--></script><script language="JavaScript" src="http://ad.doubleclick.net/adj/ibd.pwrtoollogo/;tile=1;sz=135x20;ord=1388608449074317.8?" type="text/javascript"></script><a href="http://ad.doubleclick.net/jump/ibd.pwrtoollogo/;tile=1;sz=135x20;ord=1388608449074317.8?"><img src="px.gif" width="2px" height="1px"></a></td>
+		<!-- <a href="http://www.scottrade.com/index.asp?supbid=68972"><img src="http://www.investors.com/images/3rdparty/scott.gif" alt="Scottrade" /></a>-->
 	</tr>
 
 	<tr>
@@ -1902,8 +1915,10 @@ function goSymbolLookup(){
 			<li><a href="http://www.investors.com/store/toolsmain.asp">IBD Subscriber Tools</a></li>
 			<li><a href="http://www.investors.com/ibdadvertising/">Advertising Info</a></li>
 			<li><a href="http://www.investors.com/newswire/adsales.asp">Partner Programs</a></li>
+			<li><a href="http://www.investors.com/affiliateprogram/">Affiliate Program</a></li>
 			<li><a href="http://www.investors.com/contact/">Contact Us</a></li>
 			<li><a href="http://www.investors.com/rss/">RSS Feeds</a></li>
+			<li><a href="http://www.investors.com/jobpostingusersite/" style="border-right: none">IBD Careers</a></li>
 		</ul>
 	</div>	
 	<div style="background-color: #fff">
@@ -1919,17 +1934,48 @@ function goSymbolLookup(){
 		
 			<p style="border-bottom: 1px solid #999; padding-bottom: 5px; font-size: 11px"><a href="http://www.williamoneil.com"><img src="http://www.investors.com/images/staWonLogo2006.gif" width="170" height="23" alt="William O'Neil + Co. Incorporated" style="float: left"></a>© 2007 <a href="http://www.williamoneil.com">William O'Neil + Co. Incorporated</a>.  All Rights Reserved. The William O'Neil + Co. Database and all data contained herein are provided by William O'Neil + Co. Incorporated and are used by IBD under license agreement. Daily Graphs and Daily Graphs Online are trademarks of William O'Neil + Co. Incorporated or its subsidiaries.</p>
 			
-			<p style="padding-bottom: 25px; font-size: 11px"><img src="http://www.investors.com/images/staHfmd.gif" align="left" width="114" height="37" alt="" style="padding-right: 5px">This site is powered by HyperFeed® market data. Price and Volume data is delayed 20 minutes unless otherwise noted, is believed accurate but is not warranted or guaranteed by HyperFeed Technologies, Inc. and is subject to HyperFeed Technologies, Inc. terms. All times are Eastern United States.<br>
-			*Index pricing and Stocks On The Move data may be delayed more than 20 minutes due to the auto-refresh schedule for these features.</p>
+			<p style="font-size: 11px">This site is powered by Interactive Data Corp. Real Time Services market data. Price and Volume data is delayed 20 minutes unless otherwise noted, is believed accurate but is not warranted or guaranteed by Interactive Data Corp. Real Time Services and is subject to Interactive Data Corp. Real Time Services' terms. All times are Eastern United States.</p>
+			<p style="padding-bottom: 25px; font-size: 11px">*Index pricing and Stocks On The Move data may be delayed more than 20 minutes due to the auto-refresh schedule for these features.</p>
 		</div>			
-	<a href="http://ibdweb1"><img src="http://www.investors.com/images/px.gif" height="20" width="20" alt="" align="left"></a>
+	<a href="http://ibdweb10"><img src="http://www.investors.com/images/px.gif" height="20" width="20" alt="" align="left"></a>
 	</div>
 </div>
 
 <br>
-<a href="http://ibdweb1"><img src="http://www.investors.com/images/px.gif" height="20" width="20" alt=""></a>
-		
+<a href="http://ibdweb10"><img src="http://www.investors.com/images/px.gif" height="20" width="20" alt=""></a>
 
+<!-- SiteCatalyst code version: H.10.
+Copyright 1997-2007 Omniture, Inc. More info available at
+http://www.omniture.com -->
+<script language="JavaScript" src="/includes/functions/s_code.js"></script>
+<script language="JavaScript"><!--
+/* You may give each page an identifying name, server, and channel on the next lines. */
+
+/* ***** Start of variables that apply to all pages ***** */
+s.server="ibdweb10";
+s.channel="";
+s.prop6="";
+s.prop7="";
+s.prop8="";
+s.eVar6="";
+s.eVar7="";
+s.eVar8="";
+if('0' != "0" && '0' == "0")
+{	s.eVar11="subscriber";
+	s.prop12="subscriber";}
+else
+{	s.eVar11="non-subscriber";
+	s.prop12="non-subscriber";}
+s.eVar13="";
+s.eVar14="";
+
+/* ***** End of variables that are the same for all pages ***** */
+//--></script>
+
+<script language="JavaScript"><!--
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<!-- End SiteCatalyst code version: H.10. -->
 
 
 
