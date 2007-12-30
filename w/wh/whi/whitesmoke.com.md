@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the whitesmoke.com privacy policy that was archived on 2007-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070603111536id_/http%3A//www.whitesmoke.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whitesmoke.com privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230112450id_/http%3A//www.whitesmoke.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy
+# WhiteSmoke Privacy Statement
 
-WhiteSmoke privacy statement  
+WhiteSmoke Privacy Statement  
 
 
 Any personal information, provided to entities affiliated with WhiteSmoke, will be treated in accordance with the terms of the following Privacy Policy, unless we posted any changes in WhiteSmoke Website. 
