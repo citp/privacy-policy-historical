@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestlifeonline.com privacy policy that was archived on 2007-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070619040313id_/http%3A//www.rodale.com/1%2C6597%2C8-114%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestlifeonline.com privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230034310id_/http%3A//www.rodale.com/1%2C6597%2C8-114%2C00.html) for the most accurate reproduction.*
 
 # Rodale
 
@@ -29,7 +29,7 @@ In order to provide better service when you return to our site, Rodale may use c
 
 If you want to disable cookies, there is a simple procedure in most Internet browsers that allow you to turn off cookies. Please remember however, that cookies may be required to allow you to use certain features of our sites. 
 
-We may also use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: **(link to Rodale Page with List of companies and a unique effective date on this page)**
+We may also use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.rodale.com/1,6597,8--921,00.html)
 
 **With whom do you share information about me?**   
 From time to time, we make our customer e-mail addresses, postal addresses and telephone numbers available to other reputable businesses whose products or services might be of value to you. If you do not want us to share your information with other companies or organizations, please let us know by accessing the form at [privacy@rodale.com](http://www.rodale.com/cs/privacy.html), by calling us at (800) 914-9363, or writing to us at Customer Service, Rodale, 400 South Tenth Street, Emmaus, PA 18098. We retain email opt-out and postal/telephone non solicitation requests for 5 years. 
@@ -48,7 +48,7 @@ Easy. If you do not want to receive e-mail from Rodale, please let us know by ut
 **May I see the information you collect about me?**   
 _Yes!_ Upon request, we provide our customers with access to personal account information (e.g., customer number)...account status (outstanding balance)...and contact information (i.e., name, address, phone number). You may access the information by completing the form at [privacy@rodale.com](http://www.rodale.com/cs/privacy.html) or by calling us at (800) 914-9363. 
 
-In addition, we offer web visitors the ability to correct any inaccuracies in their contact information, simply by accessing the appropriate [Customer Service](http://www.rodale.com/corp/sub/1,1874,5-30,00.html) site, completing the form at [privacy@rodale.com](http://www.rodale.com/cs/privacy.html), or by calling us at (800) 914-9363. If you prefer, you may write to us at Customer Service, Rodale, 400 South Tenth Street, Emmaus, PA 19098. 
+In addition, we offer web visitors the ability to correct any inaccuracies in their contact information, simply by accessing the appropriate [Customer Service](http://www.rodale.com/corp/sub/1,1874,5-30,00.html) site, completing the form at [privacy@rodale.com](http://www.rodale.com/cs/privacy.html), or by calling us at (800) 914-9363. If you prefer, you may write to us at Customer Service, Rodale, 400 South Tenth Street, Emmaus, PA 18098. 
 
 **Changes...**   
 Rodale may need to change this privacy policy from time to time in order to address new issues, evolving technologies, changes on our sites or business practices. Rodale will post those changes so you will always know what information we gather and how we might use that information. Please refer back to this policy regularly. 
