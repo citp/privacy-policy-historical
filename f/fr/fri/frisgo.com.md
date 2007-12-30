@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frisgo.com privacy policy that was archived on 2007-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070503222249id_/http%3A//www.frisgo.com/frontend/dispseccont.aspx%3Ftype%3Dsection%26section_id%3D5%26auth_require%3DN) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frisgo.com privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230061950id_/http%3A//www.frisgo.com/frontend/dispseccont.aspx%3Ftype%3Dsection%26section_id%3D5%26auth_require%3DN) for the most accurate reproduction.*
 
 # Privacy Policy
 
