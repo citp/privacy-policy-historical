@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mantisbt.org privacy policy that was archived on 2007-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070628160348id_/http%3A//www.mantisbt.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mantisbt.org privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230163757id_/http%3A//mantisbt.org/privacy.php) for the most accurate reproduction.*
 
 # Mantis Bug Tracker | Privacy Policy
 
@@ -10,7 +10,7 @@ Mantis recognizes that privacy is an important privilege that is the right of ev
 
 What information we collect?
 
-When a user registers on the [bug tracker](https://web.archive.org/web/20070628160348id_/http%3A//www.mantisbt.org/bugs/), we collect and store the following information:
+When a user registers on the [bug tracker](https://web.archive.org/web/20071230163757id_/http%3A//mantisbt.org/bugs/), we collect and store the following information:
 
   * Username
   * One way hash of the password (i.e. we can't know your plain text password)
@@ -18,7 +18,7 @@ When a user registers on the [bug tracker](https://web.archive.org/web/200706281
 
 
 
-Users registering in the [forums](https://web.archive.org/web/20070628160348id_/http%3A//www.mantisbt.org/forums/) may optionally provide other personal information – like instant messenger ids, geographic location, occupation, and so on. This personal information is publicly viewable. We are not responsible for any personal information posted to your forum profile or in your forum messages. Also, if you participate in the [mailing lists](https://web.archive.org/web/20070628160348id_/http%3A//www.mantisbt.org/mailinglists.php) or post notes to the 'User Contributed Notes' section of the [manual](http://manual.mantisbt.org/) your email address and signatures will be visible to participants and visitors respectively.
+Users registering in the [forums](https://web.archive.org/web/20071230163757id_/http%3A//mantisbt.org/forums/) may optionally provide other personal information – like instant messenger ids, geographic location, occupation, and so on. This personal information is publicly viewable. We are not responsible for any personal information posted to your forum profile or in your forum messages. Also, if you participate in the [mailing lists](https://web.archive.org/web/20071230163757id_/http%3A//mantisbt.org/mailinglists.php) or post notes to the 'User Contributed Notes' section of the [manual](http://manual.mantisbt.org/) your email address and signatures will be visible to participants and visitors respectively.
 
 How we use it?
 
