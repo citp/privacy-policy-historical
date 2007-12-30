@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sermonsearch.com privacy policy that was archived on 2007-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070422194649id_/http%3A//www.sermonsearch.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sermonsearch.com privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230163817id_/http%3A//www.sermonsearch.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Sermon Search
 
@@ -136,7 +136,7 @@ From time to time we may enter into a special relationship with another company 
 Also, the nature of some features of our site may require that we share personal information about you with persons or companies outside of the Salem corporate enterprise. For example, this may occur at a feature that enables you, via our site, to ask questions of persons or entities that are not part of the Salem enterprise. By responding to those features of the site, whether by email or direct entry of information on our website, you are consenting to our transferring that information to such persons or entities.
 
 **Children's Privacy**  
-Because the safety of children is very important to us, Salem will not knowingly accept personal information from children under the age of 13 without first obtaining written parental consent.  A parent can give such consent by filling out and signing the [Salem Parental Consent Form](https://web.archive.org/web/20070422194649id_/http%3A//www.sermonsearch.com/ParentalConsentForm.aspx) and returning it to us at the contact point listed below.  If a parent wishes to refuse to permit collection or use of their child's information by Salem, that parent should contact us to request deletion of their child's account.
+Because the safety of children is very important to us, Salem will not knowingly accept personal information from children under the age of 13 without first obtaining written parental consent.  A parent can give such consent by filling out and signing the [Salem Parental Consent Form](https://web.archive.org/web/20071230163817id_/http%3A//www.sermonsearch.com/ParentalConsentForm.aspx) and returning it to us at the contact point listed below.  If a parent wishes to refuse to permit collection or use of their child's information by Salem, that parent should contact us to request deletion of their child's account.
 
 If you have any questions or comments regarding children’s privacy at Salem or if you would like to submit a signed Parental Consent Form, please contact:
 
