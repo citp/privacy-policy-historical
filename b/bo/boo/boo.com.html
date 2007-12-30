@@ -1,601 +1,170 @@
-<!--The following is the downloaded HTML source of the boo.com privacy policy that was archived on 2005-12-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051220054756id_/http%3A//boo.com/fmprivacypolicy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the boo.com privacy policy that was archived on 2007-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071230090510id_/http%3A//www.boo.com/privacy) for the most accurate reproduction.-->
 
-<html><head>
-<title>fashionmall.com</title>
-<style type="text/css">
-<!--
-	A {  color:black;text-decoration:none; }
-	A:hover { color:#90B8CC; }
-	A:visited.hover { color:#90B8CC; }
-	A.para { color:black;text-decoration:none; }
-	A.para:hover { color:#90B8CC;text-decoration:underline; }
-	A.para:visited.hover { color:#90B8CC;text-decoration:underline; }
-	A.topmenu { font-size:12px;color:black;text-decoration:none; }
-	A.topmenu:hover { color:#90B8CC; }
-	A.topmenu:visited:hover { color:#90B8CC; }
-	A.floormenu { font-size:12px;color:black;text-decoration:none; }
-	A.floormenu:hover { color:black; }
-	A.floormenu:visited:hover { color:black; }
-	A.newmenu { font-size:12px;color:black;text-decoration:none; }
-	A.newmenu:hover { color:black; }
-	A.newmenu:visited.hover { color:black; }
-	A.paraplus { color:black;text-decoration:none; }
-	A.paraplus:hover { color:#FFFFCC;text-decoration:none; }
-	A.paraplus:visited.hover { color:#FFFFCC;text-decoration:none; }
-	A.top5 { font-size:10px;color:black;text-decoration:none; }
-	A.top5:hover { color:black; }
-	A.top5:visited.hover { color:black; }
--->
-</style>
-<script language="Javascript">
-	var go1_off = new Image();	go1_off.src = "/art/go_navy.gif";
-	var go1_on = new Image();		go1_on.src = "/art/go_navy_on.gif";
-	var go2_off = new Image();	go2_off.src = "/art/go_navy.gif";
-	var go2_on = new Image();		go2_on.src = "/art/go_navy_on.gif";
-	var go3_off = new Image();	go3_off.src = "/art/go_navy.gif";
-	var go3_on = new Image();		go3_on.src = "/art/go_navy_on.gif";
-
-	
-
-	function enrollOrLogin(pspt_usr, pspt_pw, pspt_state)
-	{    
-		if (pspt_usr.length < 1)
-		{
-      alert("Please enter a username.");
-			return false;
-    
-		}
-
-    if (pspt_pw.length < 1)
-		{
-      alert("Please enter a password.");
-			return false;
-    }
-
-		return true;
-  }
-
-	function highlight(img,highlight)
-	{
-		if (document.images)
-		{
-			if (highlight) { document[img].src = eval(img + "_on").src; }
-			else { document[img].src = eval(img + "_off").src; }
-
-		}
-
-	}
-
-	function navigate(type)
-	{
-		var ndx;
-		var link;
-
-		if (type == "brand")
-		{
-			ndx = document.nav_form.brand.selectedIndex;
-    		link = document.nav_form.brand.options[ndx].value;			
-		}
-
-		else if (type == "category")
-		{
-			ndx = document.nav_form.category.selectedIndex;
-			link = document.nav_form.category.options[ndx].value;
-
-		}
-		else if (type == "lifestyle")
-		{
-			ndx = document.nav_form.lifestyle.selectedIndex;
-			link = document.nav_form.lifestyle.options[ndx].value;
-
-		}
-		
-
-		if (link.length > 0 && link != "" && link.indexOf("linksynergy") != -1) 
-		{
-			window.open(link, "stuff", "menubar=no,resizable=yes,scrollbars=yes,width=640,height=480,top=80,left=80");
-		}
-		else if (link.length > 0 && link != "" && link.indexOf("qksrv") != -1) 
-		{
-			window.open(link, "stuff", "menubar=no,resizable=yes,scrollbars=yes,width=640,height=480,top=80,left=80");
-		}
-		
-		else if (link.length > 0 && link != "" && link.indexOf("bfast") != -1) 
-		{
-			window.open(link, "stuff", "menubar=no,resizable=yes,scrollbars=yes,width=640,height=480,top=80,left=80");
-		}
-		
-		else if (link.length > 0 && link != "" && link.indexOf("diesel") != -1) 
-		{
-			window.open(link, "stuff", "menubar=no,resizable=yes,scrollbars=yes,width=640,height=480,top=80,left=80");
-		}
-		
-		else if (link.length > 0 && link != "") { top.location.href = link; }
-
-	}
-	
-
-	function openGeneral(url, scroll, resize, width, height, left, top)
-	{
-		flyout=window.open(url, "stuff", "menubar=no,resizable='+resize+',scrollbars='+scroll+',width="+width+",height="+height+",top="+top+",left="+left);
-	}
-
-	
-	function OpenSignUp()
-	{
-		flyout=window.open("/signup.asp", "subwindow", "menubar=no,resizable=yes,scrollbars=yes,width=500,height=410,top=100,left=200");
-	}
-	
-	
-</script>
-
-
-<script language="JavaScript">
-function popUp(url) {
-sealWin=window.open(url,"win",'toolbar=0,location=0,directories=0,status=1,menubar=1,scrollbars=1,resizable=1,width=500,height=450');
-self.name = "mainWin"; }
-</script>
-
-
-
-<script language="Javascript">
-function Openme() {
-        flyout=window.open("newsearch.htm","","menubar=no,resizable=yes,scrollbars=yes,width=200,height=300,top=100,left=100")
-}
-	function surfto(form) {
-		var myindex=form.brand.selectedIndex
-    	location=form.brand.options[myindex].value;
-	}
-	function surfto1(form) {
-		var myindex=form.categ.selectedIndex
-    	location=form.categ.options[myindex].value;
-	}
-</script>
-</head>
-
-
-<body bgcolor="white" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0">
-
-
-
-
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr> 
-    <td background="/images_new/merchantheader_topbg.gif"><img src="/images_new/merchantheader_spacer.gif" width="1" height="7"></td>
-  </tr>
-  <tr align="center"> 
-    <td> 
-      <table width="100%" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr bgcolor="#FFFFFF"> 
-          <td align="left" width="10"><img src="/images_new/merchantheader_spacer.gif" width="10" height="10"></td>
-          <td align="left" width="200"><a href="/index.asp" target="_top"><img src="/images_new/fm_logo.gif" width="200" height="34" border="0"></a></td>
-          <td align="center"> 
-            <table border="0" cellspacing="0" cellpadding="0">
-              <tbody><tr> 
-              <td width="210" align="left" valign="middle" colspan="2">
-			  &nbsp;&nbsp;
-			  <font face="arial" size="2" color="blue">
-			   </font></td>
-			  <td align="left" width="15">
-			  </td>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
+					<title> boo.com  Privacy Policy </title>
+			<meta name="description" content="boo.com is a new travel site where you can view Reviews, book direct with the hotel and join the boo Travel network - we hope you like it! ">
+			<meta name="keywords" content="boo privacy statement">
 				
-                <td width="250" valign="middle">
-				<a class="topmenu" href="/" target="_top">
-				<font face="arial"><b>Home</b></font>
-				</a>
-				<font face="arial" size="1" color="gray"> | </font>
-				<a class="topmenu" href="/storedirectory.asp" target="_top">
-				<font face="arial"><b>Store Directory</b></font>
-				</a>
-				</td>
-              </tr>
-            </tbody></table>
-          </td>
-          <td><!--<font face="arial" size="1">fashionmall.com<br> prefers</font></td>
-		  
-		  <td align="right" width="33"><img src="/images_new/merchantheader_visa.gif" width="33" height="19"></td>-->
-          </td><td width="10" align="right"><img src="/images_new/merchantheader_spacer.gif" width="10" height="10"></td>
-        </tr>
-      </tbody></table>
-    </td>
-  </tr>
-  <tr align="left"> 
-    <td background="/images_new/merchantheader_bottombg.gif"><img src="/images_new/merchantheader_spacer.gif" width="8" height="3"></td>
-  </tr>
-  <tr bgcolor="#91B8CD" align="left"> 
-    <td height="17"> 
-      <table width="100%" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr> 
-          <td width="10" align="left"><img src="/images_new/merchantheader_spacer.gif" width="10" height="18"></td>
-          
-		   <form name="nav_form"></form>
-		  <td align="left" width="165">
-		  <select name="brand" onchange="navigate('brand')">
-<option selected="">Shop by Brand
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<link rel="shortcut icon" href="/favicon.ico">
 
-</option><option value="/externals/alloy/alloy.asp?brand">Alloy
-</option><option value="http://click.linksynergy.com/fs-bin/click?id=worszAST9jo&amp;offerid=1022.10000011&amp;type=3&amp;subid=0">AVON.com
-</option><option value="/externals/gap/gap.asp?brand_babygap">babygap.com
-</option><option value="http://click.linksynergy.com/fs-bin/click?id=worszAST9jo&amp;offerid=11903.10000012&amp;type=3&amp;subid=0">TheBabyOutlet.com
-</option><option value="http://click.linksynergy.com/fs-bin/click?id=worszAST9jo&amp;offerid=17019.10000017&amp;type=3&amp;subid=0">Bare Necessities
-</option><option value="http://service.bfast.com/bfast/click?bfmid=2181&amp;sourceid=39023107&amp;categoryid=rn_mag_home">Barnes&amp;Noble
-</option><option value="http://click.linksynergy.com/fs-bin/stat?id=worszAST9jo&amp;offerid=9729.10000001&amp;type=3&amp;subid=0">Brooks Brothers
-</option><option value="http://click.linksynergy.com/fs-bin/click?id=worszAST9jo&amp;offerid=29237.10000019&amp;type=3&amp;subid=0">Coldwater Creek®
-</option><option value="http://click.linksynergy.com/fs-bin/click?id=worszAST9jo&amp;offerid=14421.10000001&amp;type=3&amp;subid=0">The Company Store
-</option><option value="http://click.linksynergy.com/fs-bin/click?id=worszAST9jo&amp;offerid=32191.10000003&amp;type=3&amp;subid=0">David's Cookies
-</option><option value="http://click.linksynergy.com/fs-bin/click?id=worszAST9jo&amp;offerid=6449.10000018&amp;type=3&amp;subid=0">dELiAs.cOm
-</option><option value="http://click.linksynergy.com/fs-bin/stat?id=worszAST9jo&amp;offerid=25608&amp;type=3&amp;subid=0">Dexter Shoe Company
-</option><option value="/diesel_brand.asp">Diesel Time Frames
-</option><option value="http://click.linksynergy.com/fs-bin/click?id=worszAST9jo&amp;offerid=6555.10000047&amp;type=4&amp;subid=0">DisneyStore.com
-</option><option value="http://click.linksynergy.com/fs-bin/click?id=worszAST9jo&amp;offerid=31266.10000098&amp;type=3&amp;subid=0">eLUXURY.com
-</option><option value="http://click.linksynergy.com/fs-bin/click?id=worszAST9jo&amp;offerid=12196.10000037&amp;type=3&amp;subid=0">estyle.com
-</option><option value="http://click.linksynergy.com/fs-bin/click?id=worszAST9jo&amp;offerid=15619.10000031&amp;type=3&amp;subid=0">FurnitureOnline.com
-</option><option value="/externals/gap/gap.asp?brand_gap">gap.com
-</option><option value="/externals/gap/gap.asp?brand_gapkids">gapkids.com
-</option><option value="http://click.linksynergy.com/fs-bin/stat?id=worszAST9jo&amp;offerid=12137.10000001&amp;type=3&amp;subid=0">Gardener's Supply Company
-</option><option value="http://click.linksynergy.com/fs-bin/click?id=worszAST9jo&amp;offerid=18474.10000001&amp;type=3&amp;subid=0">Golf and Tennis World.com
-</option><option value="http://click.linksynergy.com/fs-bin/click?id=worszAST9jo&amp;offerid=31256.10000111&amp;type=3&amp;subid=0">Hallmark.com
-</option><option value="http://click.linksynergy.com/fs-bin/click?id=worszAST9jo&amp;offerid=6562.10000001&amp;type=3&amp;subid=0">Hickory Farms
-</option><option value="http://click.linksynergy.com/fs-bin/click?id=worszAST9jo&amp;offerid=18473.10000175&amp;type=4&amp;subid=0">ICE.com
-</option><option value="http://click.linksynergy.com/fs-bin/click?id=worszAST9jo&amp;offerid=35700.10000004&amp;type=3&amp;subid=0">International Jock
-</option><option value="http://click.linksynergy.com/fs-bin/stat?id=worszAST9jo&amp;offerid=17576&amp;type=3&amp;subid=0">International Male
-</option><option value="http://click.linksynergy.com/fs-bin/click?id=worszAST9jo&amp;offerid=19330.10000004&amp;type=3&amp;subid=0">Linenplace.com
-</option><option value="http://click.linksynergy.com/fs-bin/stat?id=worszAST9jo&amp;offerid=28272&amp;type=3&amp;subid=0">Mikasa
-</option><option value="http://click.linksynergy.com/fs-bin/click?id=worszAST9jo&amp;offerid=35274.10000019&amp;type=3&amp;subid=0">Mrs. Fields Cookies
-</option><option value="http://click.linksynergy.com/fs-bin/click?id=worszAST9jo&amp;offerid=17556.10000007&amp;type=3&amp;subid=0">MuseumShop.com
-</option><option value="http://click.linksynergy.com/fs-bin/click?id=worszAST9jo&amp;offerid=35080.10000001&amp;type=3&amp;subid=0">MyFreeSoftware.com
-</option><option value="http://click.linksynergy.com/fs-bin/stat?id=worszAST9jo&amp;offerid=27778.10000060&amp;type=3&amp;subid=0">Office Depot
-</option><option value="/externals/oldnavy/oldnavy.asp?brand">oldnavy.com
-</option><option value="http://click.linksynergy.com/fs-bin/click?id=worszAST9jo&amp;offerid=7537.10000001&amp;type=3&amp;subid=0">OmahaSteaks.com
-</option><option value="http://www.qksrv.net/click-973572-444988">PacSun.com
-</option><option value="http://click.linksynergy.com/fs-bin/click?id=worszAST9jo&amp;offerid=31953.9&amp;type=3&amp;subid=0">Paul Fredrick Shirt Co
-</option><option value="http://click.linksynergy.com/fs-bin/click?id=worszAST9jo&amp;offerid=25324.10000005&amp;type=3&amp;subid=0">Reeds Jewelers
-</option><option value="/externals/reflect/reflect.asp?brand">Reflect.com
-</option><option value="http://click.linksynergy.com/fs-bin/click?id=worszAST9jo&amp;offerid=19980.10000001&amp;type=3&amp;subid=0">Register.com
-</option><option value="http://click.linksynergy.com/fs-bin/click?id=worszAST9jo&amp;offerid=20594.10000025&amp;type=3&amp;subid=0">REI
-</option><option value="http://click.linksynergy.com/fs-bin/click?id=worszAST9jo&amp;offerid=35136.10000001&amp;type=3&amp;subid=0">Ross-Simons
-</option><option value="http://click.linksynergy.com/fs-bin/click?id=worszAST9jo&amp;offerid=32532.10000003&amp;type=3&amp;subid=0">sephora.com
-</option><option value="http://click.linksynergy.com/fs-bin/click?id=worszAST9jo&amp;offerid=34214.10000027&amp;type=3&amp;subid=0">Sierra Club Books
-</option><option value="http://click.linksynergy.com/fs-bin/click?id=worszAST9jo&amp;offerid=18586.10000105&amp;type=3&amp;subid=0">Silhouette's
-</option><option value="http://click.linksynergy.com/fs-bin/click?id=worszAST9jo&amp;offerid=14941.10000065&amp;type=3&amp;subid=0">The Sharper Image
-</option><option value="http://click.linksynergy.com/fs-bin/click?id=worszAST9jo&amp;offerid=32404.10000001&amp;type=3&amp;subid=0">Sony Music Direct
-</option><option value="http://click.linksynergy.com/fs-bin/click?id=worszAST9jo&amp;offerid=23346.10000067&amp;type=3&amp;subid=0">TABASCO.com
-</option><option value="http://service.bfast.com/bfast/click?bfmid=37920789&amp;siteid=39151830&amp;bfpage=home">Timberland.com
-</option><option value="http://click.linksynergy.com/fs-bin/click?id=worszAST9jo&amp;offerid=20451.10000114&amp;type=3&amp;subid=0">Tupperware.com
-</option><option value="http://service.bfast.com/bfast/click?bfmid=37919449&amp;siteid=39108567&amp;bfpage=home1">ULTA.com
-</option><option value="http://click.linksynergy.com/fs-bin/click?id=worszAST9jo&amp;offerid=21785.10000005&amp;type=3&amp;subid=0">Undergear.com
-</option><option value="http://click.linksynergy.com/fs-bin/click?id=worszAST9jo&amp;offerid=28928.10000029&amp;type=3&amp;subid=0">wine.com
-</option><option value="http://www.qksrv.net/click-973572-5592428">YourCellular.com
-</option><option value="http://click.linksynergy.com/fs-bin/click?id=worszAST9jo&amp;offerid=15926.10000017&amp;type=3&amp;subid=0">Yves Rocher
-</option></select>
-
-
-
-		  </td>
-		  <td align="left" width="150">
-		  
-<select name="category" onchange="navigate('category')">
-	<option selected="">Shop by Dept&nbsp;
-	</option><option value="/women.asp">Women
-	</option><option value="/men.asp">Men
-	</option><option>-------------------------
-	</option><option value="/accessories.asp">Accessories
-	</option><option value="/activewear.asp">Activewear
-	</option><option value="/beautyjungle/main.asp">Beauty
-	</option><option value="/computers.asp">Computers
-	</option><option value="/food.asp">Food &amp; Wine
-	</option><option value="/home.asp">House &amp; Home
-	</option><option value="/intimates.asp">Intimates
-	</option><option value="/jewelry.asp">Jewelry
-	</option><option value="/kids.asp">Kids
-	</option><option value="/media.asp">Newsstand
-	</option><option value="/plus.asp">Plus &amp; Tall
-	</option><option value="/shoes.asp">Shoes
-	</option><option value="/teen.asp">Teen/MXG
-</option></select>
- 
-		  </td>
-		  <td align="left" width="150">
-		  
-<select name="lifestyle" onchange="navigate('lifestyle')">
-	<option selected=""> Shop by Floor &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	</option><option value="/mainstreet.asp">Main Street
-	</option><option value="/beautyjungle/main.asp">Beauty Jungle
-	</option><option value="/boo/">boo
-	</option><option value="/outletmall/default.asp">Outletmall
-</option></select>
- 
-		  </td>
-		  
-		  <td align="left">
-  		  <form name="signup" action="/signup_check.asp" method="POST">
-		 <input type="HIDDEN" name="aid" value="56925309">
-		 <input type="HIDDEN" name="pid" value="57318135">
-		 <input type="HIDDEN" name="AFF" value="AFF">
-		 <input type="HIDDEN" name="already_there" value="We've found you in our database under another email address. Please change it on this form, so we don't have you subscribed twice.">
-		 <input type="TEXT" name="email" maxlength="80" size="22" value="Enter E-mail for Newsletter" onclick="document.signup.email.value='';">
-		 <input type="hidden" name="agree" value="checked">
-		 <input type="image" src="/images_new/go_button.gif" border="0" name="go">
-	     <img src="/images_new/blue_spacer.gif" width="185" height="1"></form></td>
-		  
-		  
-          <td width="10" align="right"><img src="/images_new/merchantheader_spacer.gif" width="10" height="10"></td>
-        </tr>
-      </tbody></table>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" background="/images_new/curve_top_bkgrnd.gif" height="3">
-      <table width="171" height="3" border="0" cellspacing="0" cellpadding="0" bgcolor="#90B8CC">
-        <tbody><tr>
-		  	 
-          <td width="133" align="center" valign="bottom"><img src="/images_new/blue_spacer.gif" width="133" height="3"></td>
-          <td height="3" width="38">
-		  
-		  <img src="/images_new/curve_line_over.gif" width="38"></td>
-		  
-		  
-        </tr>
-      </tbody></table>
-    </td>
-  </tr>
-</tbody></table>
-
-<table width="100%" cellpadding="0" cellspacing="0" border="0">
-<tbody><tr>
-<td width="0%" rowspan="2" valign="top" align="center">
-
-
-
-<table width="137" border="0" cellspacing="0" cellpadding="0" bgcolor="#90B8CC">
-<tbody><tr>
-<td rowspan="2" valign="top" width="133" align="center">
-
-<img src="/images_new/wht_divider.gif" width="133" height="14"><br>
-<a href="/externals/oldnavy/oldnavy.asp?navbar_icon" target="_top"><img src="http://www.oldnavy.com/html/affiliates/120x60_iotw.gif" border="0" width="120" height="60" alt=""></a><br>
-<img src="/images_new/wht_spacer.gif" width="120" height="1" border="0" vspace="3"><br>
-<a href="http://service.bfast.com/bfast/click?bfmid=37920789&amp;siteid=39151830&amp;bfpage=home" target="_blank"><img src="http://www.timberland.com/images/befree/120x60Button.gif" border="0" width="120" height="60" alt=""></a>
-<img src="/images_new/wht_spacer.gif" width="120" height="1" border="0" vspace="3"><br>
-<a href="http://www.internet-fashion-mall.com/category.asp?id=food" target="_top"><img src="/art/banners/davids120x60.gif" border="0" width="120" height="60" alt=""></a>
-<img src="/images_new/wht_spacer.gif" width="120" height="1" border="0" vspace="3"><br>
-
-<!-- adshadow 2.1 remote media code | fashionmall.com [id:176] | 120*60 iab channel [id:568] | run of site -->
-<script language="JavaScript" type="text/javascript">
-<!--
-	// publisher tracking variables (see documentation for details)
-	var pub_impression = "";
-	var pub_click = "http://www.fashionmall.com/diesel_navbar120.asp";
-	var track_pages = false;
+					<link href="http://css1.boo.com/styles/1.0.721.0/global_deployed.css" rel="stylesheet" type="text/css">
+			<link href="http://css1.boo.com/styles/1.0.721.0/termstyles.css" rel="stylesheet" type="text/css">
 	
-	// don't edit below this line
-	adshadow_rand = new String (Math.random()); adshadow_rand = adshadow_rand.substring(2,11);
-	document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
-	document.write ("http://diesel.adshadow.net/remote_call.php?n=" + adshadow_rand);
-	document.write ("&amp;media=channel:568&amp;pubimpression=" + pub_impression);
-	document.write ("&amp;pubclick=" + pub_click + "&amp;target=_blank");
-	document.write ("&amp;referer=" + escape(document.referer));
-	if (track_pages) document.write ("&amp;track_pages=" + escape(document.location));
-	document.write ("'><" + "/script>");
-//-->
-</script><script language="JavaScript" type="text/javascript" src="http://diesel.adshadow.net/remote_call.php?n=147561425&amp;media=channel:568&amp;pubimpression=&amp;pubclick=http://www.fashionmall.com/diesel_navbar120.asp&amp;target=_blank&amp;referer=undefined"></script>
-<!-- adshadow end -->
+			 <script type="text/javascript" src="http://js1.boo.com/js/1.0.721.0/MochiKit/MochiKit.packed.js"></script>
+			 <script type="text/javascript" src="http://js1.boo.com/js/1.0.721.0/global_deployed.js"></script>
+	
+		<script language="Javascript" type="text/javascript">
+			
+			function doWriTrak()
+			{
+				var r = document.referrer;
+				var ref = '';
+				var rand = Math.random();
+				if(r.search(window.location.host) == -1) ref = r;
+				wriTrak = new Image();
+			
+				wriTrak.src="https://secure.webresint.com/writrak.php?T=V&S=BOO&ChosenCity=Chicago&StatType=V&N=" + window.location.host + '&R=' + ref + '&rand=' + rand ;
+			
+			}
+			
+			doWriTrak();
+		</script>
+		<script type="text/javascript">
+			document.write('<'
+				+ 'script type="text/javascript" src="'
+				+ document.location.protocol
+				+ '//stats.clicktracks.com/cgi-bin/ctasp-server.cgi'
+				+ '?i=WjHwVxE798bjql'
+				+ '&c='+escape(document.cookie)
+				+ '&fp=.www.boo.com'
+				+ '"></'+'script>');
+		</script><script type="text/javascript" src="https://stats.clicktracks.com/cgi-bin/ctasp-server.cgi?i=WjHwVxE798bjql&amp;c=&amp;fp=.www.boo.com"></script>
+	</head>
+	<body>
+		<!-- comm token -->
+		<input type="hidden" id="__commToken" value="b50cb1ef8de2f999d28592726ce581ed">
+<div id="contentArea">
 
-<img src="/images_new/wht_spacer.gif" width="120" height="1" border="0" vspace="3"><br>
+<div id="termsContainer">
+	<div id="termsPanelTop"></div>
+	<div id="termsPanelMiddle">
+		<div id="termsBooLogo"><a href="http://www.boo.com/"><img src="http://images2.boo.com/images/1.0.721.0/boo/boo_logo_271x124.gif" border="0" alt="boo.com - say what you like, love what you find"> </a></div>
+		
 
-	<table width="100%" cellpadding="0" cellspacing="0"><tbody><tr><td align="center">
-	<form action="/signup_check.asp" method="POST">
-	<input type="HIDDEN" name="aid" value="56925309">
-	<input type="HIDDEN" name="pid" value="57318135">
-	<input type="HIDDEN" name="AFF" value="AFF">
-	<input type="HIDDEN" name="already_there" value="We've found you in our database under another email address. Please change it on this form, so we don't have you subscribed twice.">
-	<font face="arial" size="1" color="FFFFFF">&nbsp;ENTER EMAIL FOR<br>
-	&nbsp;NEWSLETTER</font><br>
-	<input type="TEXT" name="email" maxlength="80" size="12">
-	<input type="hidden" name="agree" value="checked">
-	<input type="image" src="/images_new/go_button.gif" border="0" name="go">
-	</form></td></tr></tbody></table>
-<!--<IMG SRC="/images_new/wht_spacer.gif" WIDTH="120" HEIGHT="1" BORDER="0" VSPACE="1"><BR>
-<font face="arial" size="1" color="#FFFFFF">fashionmall.com prefers</font><br><IMG SRC="/art/fm_logo_visa.gif" WIDTH="35" HEIGHT="21" HSPACE="5" ALIGN="left" VSPACE="3" ALT="Fashionmall.com prefers Visa">
-<br><br>-->
-<img height="1" src="/images_new/wht_spacer.gif" width="120" vspace="0" border="0"><br>
-<a href="/stylexperts/index.asp?fm"><font face="arial,helvetica" size="2" color="#FFFFFF"><b>ASK
-THE STYLE EXPERTS</b></font></a><br>
-<img src="/images_new/wht_spacer.gif" width="120" height="1" border="0" vspace="0"><br><br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-          </td>
-          <td valign="top" background="/images_new/curve_side_bkgrnd.gif" align="left">
-		  
-		  <img src="/images_new/curve_side.gif" width="4" height="35">
-		  
-		  </td>
-</tr>
-<tr>
-<td background="/images_new/curve_side_bkgrnd.gif" valign="top"><img src="/images_new/merchantheader_spacer.gif" width="1" height="1"></td>
-</tr>
-</tbody></table>
-<!--	End left_toolbar -->
-</td>
-<td align="left" valign="top" bgcolor="white" width="100%">
-<br><blockquote>
-<font size="3" face="arial" color="black">
-<b>FASHIONMALL.COM PRIVACY POLICY</b><br><br>
-<font size="2" face="arial" color="black">
-<b>Our Commitment To Privacy</b>
-<br>Your privacy is important to us. To better protect your privacy we provide
-this notice explaining the online information practices of several fashionmall.com
-sites and the choices you can make about the way your information is collected and
-used. If you do not agree with the terms of this policy, your sole remedy is to
-cease using the site and to not submit any information to the site. If we decide
-to change our privacy policy, we will post those changes on this page so that you
-are aware of what information we collect, how we use it and under what circumstances
-we disclose it. Your continued use of the site following the posting of any such change
-shall constitute your acceptance thereof.
-<br><br>
-<b>The Information We Collect</b>:
-<br>This notice applies to all information collected or submitted on fashionmall.com websites.
-On some pages, you can order products, make requests, or register to receive information
-and materials. The types of personal information that may be collected at these pages are:
-<br>
-<br>Name
-<br>Address
-<br>Email address
-<br>Phone number
-<br>Credit/Debit Card Information
-<br>Gender
-<br>Age
-<br>Preferences
-<br>Income
-<br><br>
-On some pages, you can submit information about other people. For example, if you order
-a gift online and want it sent directly to the recipient, you will need to submit
-the recipient's address. In this circumstance the types of personal information
-collected are:
-<br>
-<br>Name
-<br>Address
-<br>Phone Number
-<br><br>
-
-<b>The Way We Use Information</b>:
-<br>We collect information that you submit for various uses, including, without limitation,
-the uses described below.
-<br><br>
-We use your information to send you requested newsletters, alerts on special events and
-various promotional materials.  We also share your information with third parties we
-approve of, and that we believe may have information of interest to you.  When we do
-share your information, we will use commercially reasonable efforts to insure that
-communications from third parties include an opportunity for you to opt out of future
-communications.
-<br><br>
-We may use the information you have submitted to occasionally alert you regarding
-important functionality changes on our web sites.
-<br><br>
-We use the information you provide about yourself when placing an order to complete that order.
-<br><br>
-We use the information you provide about someone else when placing an order to ship
-the product and to confirm delivery.
-<br><br>
-We use return e-mail addresses to answer the e-mail we receive.
-<br><br>
-We use non-identifying and aggregate information to better design our web sites
-and to share with advertisers. For example, we may tell an advertiser that X number
-of individuals visited a certain area on our web site, or that Y number of men and
-Z number of women filled out our registration form.
-<br><br>
-Our Commitment To Data Security
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of
-information, we have put in place appropriate physical, electronic, and managerial
-procedures to safeguard and secure the information we collect online.
-<br><br>
-You can correct factual errors in your personally identifiable information by sending
-us a request that credibly shows error.
-<br><br>
-To protect your privacy and security, we will also take reasonable steps to verify your
-identity before granting access or making corrections.
-
-<br><br>
-<a name="child"><font color="black"><b>Children</b></font></a><font color="black"><br>
-Our website is not directed at children under the age of 13. We prohibit registration
-by children under the age of 13. We will not knowingly collect personally identifiable
-information from kids under 13.<br>
-<br>
-<font color="black"><b>Note to parents:</b>
-If you have any concerns about our web sites or related services, wish to find out
-if your child is a member of one our services, or wish to cancel your child's membership,
-please contact us at <a href="mailto:info@fashionmall.com">info@fashionmall.com.</a>
-<br><br>
-<b>Newsletter:</b>  We offer a monthly newsletter for teenagers and a weekly newsletter
-to all our users. Only users age 13 or older are allowed to subscribe to the newsletters.
-If you want to update your e-mail address or stop receiving the newsletters, follow the
-procedures to unsubscribe at the bottom of any newsletter, or contact us at
-<a href="mailto:info@fashionmall.com">info@fashionmall.com</a>
-<br><br>
-<b>Third-Party Relationships</b><br>
-We have relationships with many media and services companies throughout the world.
-You can recognize these web sites by the joint branding of fashionmall.com and these companies.
-You should make every effort to read the privacy policies of these third parties and decide
-whether or not to continue using the services based upon the privacy policies posted.
-Of course, if any of these third party companies does not have a privacy policy that is
-acceptable to you, you should refrain from using the site.
-NO THIRD-PARTY SITES ARE COVERED BY OUR PRIVACY POLICY.<br>
-<br>
-You may order services and merchandise through fashionmall.com from other persons not
-affiliated with fashionmall.com (the "Seller"). All matters concerning the merchandise
-and services desired from Seller, including but not limited to purchase terms, payment terms,
-warranties, guarantees, maintenance and delivery, are solely between you and Seller.
-We make no warranties or representations whatsoever with regard to any goods or services
-provided by Sellers.
-<br><br>
-<b>Cookies</b><br>
-Our site uses cookies (small files that reside on your computer) to keep
-track of your shopping cart for online purchasing. With Fashionmall members,
-we use cookies to deliver content specific to your interests and to save
-your password so you don't have to re-enter it each time you visit our site.
-<br><br>
-
-<b>Choice/Opt-Out</b><br>
-Cookies are pieces of information left in the settings of your web browser to identify your
-computer to a web site when you return. Whenever a web site welcomes you and tailors data
-to your specifications, it is reading a cookie left in your browser and identifying information
-you may have registered during previous visits, such as your viewing preferences.
-<br><br>
-Our web sites use cookies to keep track of your shopping cart for online purchasing, to deliver
-content specific to your interests and to save your password so you don't have to re-enter it
-each time you visit our web sites.
-<br><br>
-If you do not want the benefits of cookies, there is a simple procedure
-that allows you to deny or accept this feature. To find out more about
-this procedure, please
-<a href="http://www.doubleclick.net/company_info/about_doubleclick/privacy/privacy2.htm" style="TEXT-DECORATION: underline">click here</a>.
-While some third parties offer programs to manually delete your cookies,
-DoubleClick goes one step further by offering you a "blank" or "opt-out
-cookie" to prevent any data from being stored. If you would like more
-information on how to opt-out, please
-<a href="http://www.doubleclick.net/naiprivacy" style="TEXT-DECORATION: underline">click here</a>.
-<br><br>
-<b>Advertisements</b><br>
-In the course of delivering an ad to you DoubleClick does not collect any personally-identifiable
-information about you, such as your name, address, phone number or email address.
-DoubleClick does, however, collect certain non-personally-identifiable information about you,
-such as the server your computer is logged onto or your browser type
-(for example, Netscape or Internet Explorer). The information collected by DoubleClick
-about your visits to this and other web sites is used for the purpose of targeting ads
-and measuring ad effectiveness on behalf of DoubleClick's advertisers and web publishers
-who specifically request it. For additional information on the non-personally-identifiable
-information that is collected by DoubleClick, please <a href="http://www.doubleclick.net/naiprivacy" style="TEXT-DECORATION: underline">click here.</a>
-<br><br>
-<b>International Privacy</b><br>
-This privacy policy may not be applicable in all countries where fashionmall.com web sites
-are accessible, as security policies may vary according to the individual Internet laws in
-each host country.  By providing information to our web sites you consent to the processing
-of your information in the United States in accordance with this policy.
-<br><br>
-<b>How To Contact Us</b>
-<br>Should you have other questions or concerns about these privacy policies,
-please call us at 1-800-859-1440 or send us an email at
-<a href="mailto:info@fashionmall.com">info@fashionmall.com</a>
-<p>
-The above guidelines are subject to change.
-
-</p><p>
+		<!-- Breadcrumb trail -->
+			<div class="breadCrumbText" id="termsBreadCrumbTrail"><a class="breadCrumbText" href="http://www.boo.com/">Home</a> &gt;&gt; privacy  </div>
+		<!-- end Breadcrumb trail -->
 
 
-<br>
-</p><center>
-<font size="1" face="Arial, Helvetica, sans-serif"><b>©fashionmall.com, Inc. (NASDAQ:FASH), 2001</b>
-<br>
-<a href="http://www.fashionmall.com/fmprivacypolicy.asp" target="_top" style="TEXT-DECORATION: none">privacy policy</a>
-<!-- &nbsp &nbsp | &nbsp &nbsp <a href=http://www.fashionmall.com/synergy.asp target=_top STYLE="TEXT-DECORATION: none">affiliate program</a>-->
-<br><br>
+		<div class="TXT13pxLgtGray termsSectionsStyles" id="termsSummary">
+		
+			<h1>boo.com privacy policy</h1>
+				
+				<p>boo.com realises some people are unsure about entering their personal details into websites over the Internet.. </p>
+				<p>Below, we explain how your information is used and how your privacy is protected. boo.com and its associated companies respect and protect your right to privacy in relation to your interactions with this website. Any information which is provided by you to boo.com via this website or otherwise will be treated in accordance with the terms of the Data Protection Acts, 1988 and 2003 and/or such amending or replacement legislation as may be adopted in Ireland from time to time.</p>
+				<p><strong>boo's Commitment to You</strong></p>
+				<ul>
+					<li> Your privacy remains strictly under your control</li>
+					<li> You can end your membership at any time</li>
+					<li> boo is strictly spam free</li>
+				</ul>
+			</div>
+		<div class="termsDividerLine" id="termsDividerLine1"></div>
+		<div class="TXT13pxLgtGray termsSectionsStyles" id="termsSection1">
+		
+			<p><strong>REGISTERING WITH BOO AND PROFILE PRIVACY</strong></p>
+			<p>You control who shares your information</p>
+			<p>You have full control over who sees your personal page. Your personal page includes your upcoming itineraries, past itineraries, photos and reviews you have submitted to boo.com.</p>
+			<p>Each member has two options when choosing their "privacy details":</p>
+			<p><strong>1. Level 1 - Private Access</strong><br>
+		Keep your personal page private. Nobody registered with boo.com can see any of your itineraries, booking details, photos or reviews..</p>
+			<p><strong>2. Level 2 - Public Access</strong><br>
+				Your personal page will be available to everyone registered with boo. You can share your itineraries, photos and reviews with other travellers.. </p>
+			<p>You can block "buddies" at any time from accessing your information.</p>
+			<p>Your email address will only be used in the following circumstances</p>
+			<ul class="TXT13pxLgtGray">
+				<li> When you log in to your account, you can log in using your email address and your password.</li>
+				<li> When you are searching for a buddy you can search for them by email address, full name or username.</li>
+				<li> When a member invites one of their friends, or someone they know, to be their travel buddy.</li>
+				<li> When a member invites a friend to become a member of boo.com</li>
+				<li> When we send notifications/ news to members </li>
+			</ul>
+			<p>Except when inviting or adding "buddies", your email address will never be shared with or displayed to any other person.</p>
+		</div>
+		<div class="termsDividerLine" id="termsDividerLine2"></div>
+		<div class="TXT13pxLgtGray termsSectionsStyles" id="termsSection2">
+			<p><strong>Reviewing and Changing Your Profile</strong></p>
+			<p>You can review and revise your personal profile, and who will be given access to your personal profile, at any time.</p>
+		</div>
+		
+		
+		<div class="termsDividerLine" id="termsDividerLine3"></div>
+		<div class="TXT13pxLgtGray termsSectionsStyles" id="termsSection3">
+			<p><strong>BOOKING WITH BOO AND YOUR PRIVACY</strong></p>
+			<p>For us to process a booking for you, we require some information from you. This includes your name, nationality, your gender (or the gender of the group you are in), your phone number and email address. Also, since we confirm your booking while you are on the site, we require your credit or debit card details so we can guarantee your beds when you pay your deposit.</p>
+		</div>
+		<div class="termsDividerLine" id="termsDividerLine4"></div>
+		<div class="TXT13pxLgtGray termsSectionsStyles" id="termsSection4">
+			<p><strong>WHO SEES YOUR INFORMATION</strong></p>
+			<p>boo is required to send your information to the travel services provider with which you booked travel services so that the travel service provider knows who you are and when you will use its travel services. boo gives your name, your nationality, your gender (or the gender of the group you are in), your phone number, your email address, your credit card details and of course, the details of your booking.</p>	
+			<p>The travel service provider requires this information to accept a confirmed booking from you. All travel service providers on whose behalf bookings are facilitated have agreed to the boo.com terms and conditions and accept this privacy policy.</p>	
+		</div>
+		<div class="termsDividerLine" id="termsDividerLine5"></div>
+		<div class="TXT13pxLgtGray termsSectionsStyles" id="termsSection5">
+			<p><strong>HOW WE USE YOUR INFORMATION</strong></p>
+			
+			<p>Your email address will only be used to send you a confirmation of your bookings or to contact you for any reason directly linked to your booking, or occasionally to inform you of new features on boo.com. We only use your phone number to contact you urgently if there is a problem with your booking.</p>
+			<br>
+			boo.com may acquire personal data and information about you which you have registered with the site. In this regard, boo promises to only use your data in complete accordance with the following conditions:
+			<ul class="TXT13pxLgtGray">
+				<li>boo will not sell or rent any information or data which personally identifies you to any third party.</li>
+				<li>Certain information such as your password will never be disclosed. You are responsible for keeping your password confidential and for all activities that occur under your password or account. Please inform boo.com of any unauthorised use of your password, or any other breach of security.</li>
+				<li>boo reserves the right to collect your data anonymously for disclosure to advertisers, affiliates or business associates for promotion and marketing purposes. For example, boo may disclose to an advertiser the percentage age groups of our Members but in such an event boo promises to ensure that no such data could be used to personally identify you.</li>
+				<li>boo's customer support team may access your bookings, emails and related communications for technical processing and to address service queries or technical issues.</li>
+				<li>It will always be clearly stated why personal information about you is being collected and how it will be used. At your request boo will allow you inspect and edit any personal data relating to you.</li>
+				<li>Nothing in this Agreement relating to the confidentiality of information shall hinder or prevent boo.com from complying with its legal obligations as to disclosure or otherwise under the Data Protection Act 1988.</li>
+			</ul>
+			</div>
+		<div class="termsDividerLine" id="termsDividerLine6"></div>
+		<div class="TXT13pxLgtGray termsSectionsStyles" id="termsSection6">
+			<p><strong>SECURITY</strong></p>
+			<p>All sensitive information exchanged between your computer and our site is encrypted using SSL. Our SSL Cert. is provided by Verisign. This ensures that your information is transmitted securely and is safe from third parties.</p>
+			<p>You should be aware that where you link to another web site from this web site, that Hostelworld.com has no control over that other web site. Accordingly, boo.com cannot guarantee that the controller of that web site will respect your privacy in the same manner as boo.com.</p>
+		</div>
+		<div class="termsDividerLine" id="termsDividerLine7"></div>
+		<div class="TXT13pxLgtGray termsSectionsStyles" id="termsSection7">
+			<p><strong>Internet Awareness</strong></p>
+			<p>Whenever you voluntarily post personal information in public areas you should be aware that this information can be accessed by all members of boo.com. Please exercise discretion in deciding what information you disclose.</p>
+		</div>
+		<div class="termsDividerLine" id="termsDividerLine8"></div>
+		<div class="TXT13pxLgtGray termsSectionsStyles" id="termsSection8">
+			<p><strong>Security</strong></p>
+			<p>The security of your personal information depends on your protection of your account password. Please do not disclose your account password to unauthorised people.</p>
+			<p>boo uses industry standard technology designed to help keep your personal information safe.</p>
+			<p>On making a booking on boo.com, we create an account for you. We automatically generate a password which is sent to you via email, we would encourage you to change this once you log in for the first time.</p>
+		</div>
+		<div class="termsDividerLine" id="termsDividerLine9"></div>
+		<div class="TXT13pxLgtGray termsSectionsStyles" id="termsSection8">
+			<p><strong>Changes in Privacy Policy</strong></p>
+			<p>From time to time we may update this Privacy Policy and will post a notice of any significant changes on our website. You should visit this page periodically to review any such changes to the privacy policy. </p>
+		</div>	
+		<div class="termsDividerLine" id="termsDividerLine9"></div>
+		<div class="TXT13pxLgtGray termsSectionsStyles" id="termsSection8">
+			<p>BOO.COM, ITS DIRECTORS, EMPLOYEES, SERVANTS AND AGENTS, AFFILIATES OR OTHER REPRESENTATIVES AND THEIR RESPECTIVE PARENT AND SUBSIDIARY COMPANIES SHALL NOT BE LIABLE IN RESPECT OF ANY CLAIMS, EMERGENCIES, DEMANDS, CAUSES OF ACTION, DAMAGES, LOSSES, EXPENSES INCLUDING WITHOUT LIMITATION, REASONABLE ATTORNEY FEES AND COSTS OF PROCEEDINGS ARISING OUT OF OR IN CONNECTION WITH THE USE AND/OR DISSEMINATION OF PERSONAL INFORMATION RELATING TO YOU IN ACCORDANCE WITH THIS PRIVACY POLICY AND YOUR CONSENT.</p>
+			<p>boo.com reserves the right in its sole discretion to amend this Privacy and Security Statement at any time and you should regularly check this privacy policy for any amendments.<br>
+			</p>
+		</div>
+		<div class="termsDividerLine" id="termsDividerLine9"></div>
 
+		
+		
+	</div>
+	<div id="termsPanelBottom">
+		<div class="TXT12pxLgtGray" style="text-align:left;" id="termsFooterleft">© <a href="http://www.webresint.com" target="_blank">Web Reservations International</a> 1999-2007
+		</div><div class="TXT12pxLgtGray" style="text-align:right;" id="termsFooterright"><a href="http://www.boo.com">home</a> / <a href="http://www.boo.com/about_boo" title="all about boo">boo who?</a> / <a href="http://www.boo.com/terms_and_conditions" title="boo terms and conditions">t&amp;c's</a> /<a href="http://www.boo.com/privacy" title="boo privacy statement">privacy</a> / <a href="http://www.boo.com/feedback" title="let boo know what you think">feedback</a></div>
 
-
-</font></center></font></font></font></font></blockquote></td>
-</tr>
-</tbody></table>
-
-
-
-
-</body></html>
+	</div>
+</div>
+</div></body></html>
