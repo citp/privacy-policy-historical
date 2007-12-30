@@ -1,80 +1,101 @@
-> *The following text is extracted and transformed from the boo.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220054756id_/http%3A//boo.com/fmprivacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boo.com privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230090510id_/http%3A//www.boo.com/privacy) for the most accurate reproduction.*
 
-# fashionmall.com
+# boo.com Privacy Policy
 
-**Our Commitment To Privacy**   
-Your privacy is important to us. To better protect your privacy we provide this notice explaining the online information practices of several fashionmall.com sites and the choices you can make about the way your information is collected and used. If you do not agree with the terms of this policy, your sole remedy is to cease using the site and to not submit any information to the site. If we decide to change our privacy policy, we will post those changes on this page so that you are aware of what information we collect, how we use it and under what circumstances we disclose it. Your continued use of the site following the posting of any such change shall constitute your acceptance thereof. 
+[ ](http://www.boo.com/)
 
-**The Information We Collect** :   
-This notice applies to all information collected or submitted on fashionmall.com websites. On some pages, you can order products, make requests, or register to receive information and materials. The types of personal information that may be collected at these pages are: 
+boo.com realises some people are unsure about entering their personal details into websites over the Internet.. 
 
-Name   
-Address   
-Email address   
-Phone number   
-Credit/Debit Card Information   
-Gender   
-Age   
-Preferences   
-Income 
+Below, we explain how your information is used and how your privacy is protected. boo.com and its associated companies respect and protect your right to privacy in relation to your interactions with this website. Any information which is provided by you to boo.com via this website or otherwise will be treated in accordance with the terms of the Data Protection Acts, 1988 and 2003 and/or such amending or replacement legislation as may be adopted in Ireland from time to time.
 
-On some pages, you can submit information about other people. For example, if you order a gift online and want it sent directly to the recipient, you will need to submit the recipient's address. In this circumstance the types of personal information collected are: 
+**boo's Commitment to You**
 
-Name   
-Address   
-Phone Number 
+  * Your privacy remains strictly under your control
+  * You can end your membership at any time
+  * boo is strictly spam free
 
-**The Way We Use Information** :   
-We collect information that you submit for various uses, including, without limitation, the uses described below. 
 
-We use your information to send you requested newsletters, alerts on special events and various promotional materials. We also share your information with third parties we approve of, and that we believe may have information of interest to you. When we do share your information, we will use commercially reasonable efforts to insure that communications from third parties include an opportunity for you to opt out of future communications. 
 
-We may use the information you have submitted to occasionally alert you regarding important functionality changes on our web sites. 
+**REGISTERING WITH BOO AND PROFILE PRIVACY**
 
-We use the information you provide about yourself when placing an order to complete that order. 
+You control who shares your information
 
-We use the information you provide about someone else when placing an order to ship the product and to confirm delivery. 
+You have full control over who sees your personal page. Your personal page includes your upcoming itineraries, past itineraries, photos and reviews you have submitted to boo.com.
 
-We use return e-mail addresses to answer the e-mail we receive. 
+Each member has two options when choosing their "privacy details":
 
-We use non-identifying and aggregate information to better design our web sites and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our web site, or that Y number of men and Z number of women filled out our registration form. 
+**1\. Level 1 - Private Access**  
+Keep your personal page private. Nobody registered with boo.com can see any of your itineraries, booking details, photos or reviews..
 
-Our Commitment To Data Security To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
+**2\. Level 2 - Public Access**  
+Your personal page will be available to everyone registered with boo. You can share your itineraries, photos and reviews with other travellers.. 
 
-You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. 
+You can block "buddies" at any time from accessing your information.
 
-To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
+Your email address will only be used in the following circumstances
 
-**Children**  
-Our website is not directed at children under the age of 13. We prohibit registration by children under the age of 13. We will not knowingly collect personally identifiable information from kids under 13. **Note to parents:** If you have any concerns about our web sites or related services, wish to find out if your child is a member of one our services, or wish to cancel your child's membership, please contact us at [info@fashionmall.com.](mailto:info@fashionmall.com)
+  * When you log in to your account, you can log in using your email address and your password.
+  * When you are searching for a buddy you can search for them by email address, full name or username.
+  * When a member invites one of their friends, or someone they know, to be their travel buddy.
+  * When a member invites a friend to become a member of boo.com
+  * When we send notifications/ news to members 
 
-**Newsletter:** We offer a monthly newsletter for teenagers and a weekly newsletter to all our users. Only users age 13 or older are allowed to subscribe to the newsletters. If you want to update your e-mail address or stop receiving the newsletters, follow the procedures to unsubscribe at the bottom of any newsletter, or contact us at [info@fashionmall.com](mailto:info@fashionmall.com)
 
-**Third-Party Relationships**  
-We have relationships with many media and services companies throughout the world. You can recognize these web sites by the joint branding of fashionmall.com and these companies. You should make every effort to read the privacy policies of these third parties and decide whether or not to continue using the services based upon the privacy policies posted. Of course, if any of these third party companies does not have a privacy policy that is acceptable to you, you should refrain from using the site. NO THIRD-PARTY SITES ARE COVERED BY OUR PRIVACY POLICY.
 
-You may order services and merchandise through fashionmall.com from other persons not affiliated with fashionmall.com (the "Seller"). All matters concerning the merchandise and services desired from Seller, including but not limited to purchase terms, payment terms, warranties, guarantees, maintenance and delivery, are solely between you and Seller. We make no warranties or representations whatsoever with regard to any goods or services provided by Sellers. 
+Except when inviting or adding "buddies", your email address will never be shared with or displayed to any other person.
 
-**Cookies**  
-Our site uses cookies (small files that reside on your computer) to keep track of your shopping cart for online purchasing. With Fashionmall members, we use cookies to deliver content specific to your interests and to save your password so you don't have to re-enter it each time you visit our site. 
+**Reviewing and Changing Your Profile**
 
-**Choice/Opt-Out**  
-Cookies are pieces of information left in the settings of your web browser to identify your computer to a web site when you return. Whenever a web site welcomes you and tailors data to your specifications, it is reading a cookie left in your browser and identifying information you may have registered during previous visits, such as your viewing preferences. 
+You can review and revise your personal profile, and who will be given access to your personal profile, at any time.
 
-Our web sites use cookies to keep track of your shopping cart for online purchasing, to deliver content specific to your interests and to save your password so you don't have to re-enter it each time you visit our web sites. 
+**BOOKING WITH BOO AND YOUR PRIVACY**
 
-If you do not want the benefits of cookies, there is a simple procedure that allows you to deny or accept this feature. To find out more about this procedure, please [click here](http://www.doubleclick.net/company_info/about_doubleclick/privacy/privacy2.htm). While some third parties offer programs to manually delete your cookies, DoubleClick goes one step further by offering you a "blank" or "opt-out cookie" to prevent any data from being stored. If you would like more information on how to opt-out, please [click here](http://www.doubleclick.net/naiprivacy). 
+For us to process a booking for you, we require some information from you. This includes your name, nationality, your gender (or the gender of the group you are in), your phone number and email address. Also, since we confirm your booking while you are on the site, we require your credit or debit card details so we can guarantee your beds when you pay your deposit.
 
-**Advertisements**  
-In the course of delivering an ad to you DoubleClick does not collect any personally-identifiable information about you, such as your name, address, phone number or email address. DoubleClick does, however, collect certain non-personally-identifiable information about you, such as the server your computer is logged onto or your browser type (for example, Netscape or Internet Explorer). The information collected by DoubleClick about your visits to this and other web sites is used for the purpose of targeting ads and measuring ad effectiveness on behalf of DoubleClick's advertisers and web publishers who specifically request it. For additional information on the non-personally-identifiable information that is collected by DoubleClick, please [click here.](http://www.doubleclick.net/naiprivacy)
+**WHO SEES YOUR INFORMATION**
 
-**International Privacy**  
-This privacy policy may not be applicable in all countries where fashionmall.com web sites are accessible, as security policies may vary according to the individual Internet laws in each host country. By providing information to our web sites you consent to the processing of your information in the United States in accordance with this policy. 
+boo is required to send your information to the travel services provider with which you booked travel services so that the travel service provider knows who you are and when you will use its travel services. boo gives your name, your nationality, your gender (or the gender of the group you are in), your phone number, your email address, your credit card details and of course, the details of your booking.
 
-**How To Contact Us**   
-Should you have other questions or concerns about these privacy policies, please call us at 1-800-859-1440 or send us an email at [info@fashionmall.com](mailto:info@fashionmall.com)
+The travel service provider requires this information to accept a confirmed booking from you. All travel service providers on whose behalf bookings are facilitated have agreed to the boo.com terms and conditions and accept this privacy policy.
 
-The above guidelines are subject to change. 
+**HOW WE USE YOUR INFORMATION**
 
-**©fashionmall.com, Inc. (NASDAQ:FASH), 2001**   
-[privacy policy](http://www.fashionmall.com/fmprivacypolicy.asp)
+Your email address will only be used to send you a confirmation of your bookings or to contact you for any reason directly linked to your booking, or occasionally to inform you of new features on boo.com. We only use your phone number to contact you urgently if there is a problem with your booking.
+
+boo.com may acquire personal data and information about you which you have registered with the site. In this regard, boo promises to only use your data in complete accordance with the following conditions: 
+
+  * boo will not sell or rent any information or data which personally identifies you to any third party.
+  * Certain information such as your password will never be disclosed. You are responsible for keeping your password confidential and for all activities that occur under your password or account. Please inform boo.com of any unauthorised use of your password, or any other breach of security.
+  * boo reserves the right to collect your data anonymously for disclosure to advertisers, affiliates or business associates for promotion and marketing purposes. For example, boo may disclose to an advertiser the percentage age groups of our Members but in such an event boo promises to ensure that no such data could be used to personally identify you.
+  * boo's customer support team may access your bookings, emails and related communications for technical processing and to address service queries or technical issues.
+  * It will always be clearly stated why personal information about you is being collected and how it will be used. At your request boo will allow you inspect and edit any personal data relating to you.
+  * Nothing in this Agreement relating to the confidentiality of information shall hinder or prevent boo.com from complying with its legal obligations as to disclosure or otherwise under the Data Protection Act 1988.
+
+
+
+**SECURITY**
+
+All sensitive information exchanged between your computer and our site is encrypted using SSL. Our SSL Cert. is provided by Verisign. This ensures that your information is transmitted securely and is safe from third parties.
+
+You should be aware that where you link to another web site from this web site, that Hostelworld.com has no control over that other web site. Accordingly, boo.com cannot guarantee that the controller of that web site will respect your privacy in the same manner as boo.com.
+
+**Internet Awareness**
+
+Whenever you voluntarily post personal information in public areas you should be aware that this information can be accessed by all members of boo.com. Please exercise discretion in deciding what information you disclose.
+
+**Security**
+
+The security of your personal information depends on your protection of your account password. Please do not disclose your account password to unauthorised people.
+
+boo uses industry standard technology designed to help keep your personal information safe.
+
+On making a booking on boo.com, we create an account for you. We automatically generate a password which is sent to you via email, we would encourage you to change this once you log in for the first time.
+
+**Changes in Privacy Policy**
+
+From time to time we may update this Privacy Policy and will post a notice of any significant changes on our website. You should visit this page periodically to review any such changes to the privacy policy. 
+
+BOO.COM, ITS DIRECTORS, EMPLOYEES, SERVANTS AND AGENTS, AFFILIATES OR OTHER REPRESENTATIVES AND THEIR RESPECTIVE PARENT AND SUBSIDIARY COMPANIES SHALL NOT BE LIABLE IN RESPECT OF ANY CLAIMS, EMERGENCIES, DEMANDS, CAUSES OF ACTION, DAMAGES, LOSSES, EXPENSES INCLUDING WITHOUT LIMITATION, REASONABLE ATTORNEY FEES AND COSTS OF PROCEEDINGS ARISING OUT OF OR IN CONNECTION WITH THE USE AND/OR DISSEMINATION OF PERSONAL INFORMATION RELATING TO YOU IN ACCORDANCE WITH THIS PRIVACY POLICY AND YOUR CONSENT.
+
+boo.com reserves the right in its sole discretion to amend this Privacy and Security Statement at any time and you should regularly check this privacy policy for any amendments.  
+
