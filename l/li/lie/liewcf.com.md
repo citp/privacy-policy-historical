@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the liewcf.com privacy policy that was archived on 2007-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070524210501id_/http%3A//www.liewcf.com/blog/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liewcf.com privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230224753id_/http%3A//www.liewcf.com/blog/privacy) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy Statement at LiewCF
 
 Your Privacy is a priority for us at LiewCF.com. We will never give or sell your personal information to anyone.
 
