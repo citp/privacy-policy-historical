@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mylocalservices.co.uk privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626211341id_/http%3A//mylocalservices.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mylocalservices.co.uk privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230185706id_/http%3A//www.mylocalservices.co.uk/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy for Business Online Directory of Local UK Companies, Recommended Business Listings
 
