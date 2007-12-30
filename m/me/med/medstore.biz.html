@@ -1,13 +1,13 @@
-<!--The following is the downloaded HTML source of the medstore.biz privacy policy that was archived on 2007-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070623015624id_/http%3A//www.medstore.biz/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the medstore.biz privacy policy that was archived on 2007-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071230182458id_/http%3A//www.medstore.biz/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="en"><head>
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
 <title>MedStore: prescription online pharmacy privacy policy</title>
 <meta name="keywords" content="generic online prescription medications drug antibiotics phentermine xanax viagra sildenafil cialis generico sale cheapest meridia levitra purchase pharmacy discount pet herbal internet international pain depression store drugstore pharmaceutical weight loss diet remedy supplement medicine cheap meds slimming pills">
 <meta name="description" content="Online drugstore privacy policy about prescription medications shipping, what drugs available online, drug information for customers.">
-<link rel="stylesheet" type="text/css" href="/css/main.css">
-<link rel="stylesheet" type="text/css" href="/css/maindesign.css">
+<link rel="stylesheet" type="text/css" href="/css/ms/main.css">
+<link rel="stylesheet" type="text/css" href="/css/ms/maindesign.css">
 <script type="text/javascript" src="/js/common.js"></script>
 <script type="text/javascript">
 var xajaxRequestUri="/suggest.php";
@@ -29,18 +29,20 @@ window.setTimeout(function () { if (!xajaxLoaded) { alert('Error: the xajax Java
 <body>
 <div id="all">
 <div id="header">
+<div id="signinerror" style="display: none;">Sorry, but we couldn't find your data. Please check and try again.</div>
 <div id="desc"><h1>
 
 MedStore online pharmacy offers to&nbsp;buy online prescription medications, <strong>generic drugs</strong>, herbal remedy,<br>pet medication. On&nbsp;online drug store you’ll&nbsp;find lots of&nbsp;prescription drugs on&nbsp;discount&nbsp;prices.
 
 
 </h1></div>
-<div id="repcust"><b>Customers, to get free bonus values or see status of your order,</b>&nbsp;<button id="signinhere" type="submit" onclick="showloginform();">Sign In here</button></div>
+<div id="repcust"><b>Customers, to get free bonus pills or see status of your order,</b>&nbsp;<button id="signinhere" type="submit" onclick="showloginform();">Sign In here</button></div>
 <div id="tollfreeblock">
 <div id="tollfreetime">(9:00 am – 5:00 pm ET)</div>
 <div id="tollfreenumber"><h2>Call Toll-free: 1–800–775–4570</h2></div>
 </div>
 </div>
+<div id="logo"><a href="/"><img width="195" height="79" src="/i/ms/logo.gif" border="0" alt="MedStore: Online Pharmacy - Prescription Drugs and Generic Medications" title="MedStore: Online Pharmacy - Prescription Drugs and Generic Medications"></a></div>
 <div class="menutop">
 <ul>
 <li class="active"><a href="http://www.medstore.biz/">Home</a></li>
@@ -347,26 +349,26 @@ Copyright © 2006–2007 MedStore
 <br><b>All rights reserved. All trademarks and registered trademarks are the property of their respective companies.</b>
 <p>
 Information on this site is provided for informational purposes and is not meant to substitute for the advice provided by your own physician or other medical professional. You should not use the information contained herein for diagnosing or treating a health problem or disease, or prescribing any medication. You should read carefully all product packaging. If you have or suspect that you have a medical problem, promptly contact your health care provider.</p>
-<a href="http://www.medstore.biz/privacy-policy/">Privacy policy</a> | <a href="http://www.medstore.biz/legacy-policy/">Legacy policy</a> | <a href="http://www.medstore.biz/terms-of-services/">Terms of services</a> | <a href="http://www.medstore.biz/partners/">Resources</a>
+<a href="http://www.medstore.biz/privacy-policy/">Privacy policy</a> | <a href="http://www.medstore.biz/legacy-policy/">Legacy policy</a> | <a href="http://www.medstore.biz/terms-of-services/">Terms of services</a> | <a href="http://www.medstore.biz/partners/">Resources</a> | <a href="http://www.medstore.biz/news/">Health News</a> | <a href="http://www.medstore.biz/articles/">Articles</a>
 </div>
 <div id="footercards">
 <!-- We accept major cards:<br>
-<img src="/i/cards.gif" width="116" height="38" alt="MasterCard, Visa">-->
+<img src="/i/ms/cards.gif" width="116" height="38" alt="MasterCard, Visa">-->
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Currently we accept:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/i/visa.gif" width="116" height="38" alt="Visa">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/i/ms/visa.gif" width="116" height="38" alt="Visa">
 </div>
 </div>
 <div id="custlogin" style="display: none;">
 <script type="text/javascript">document.write('<div id="loginclose"><a href="#" onclick="showloginform(); return false;">Close [x]<\/a><\/div>');</script><div id="loginclose"><a href="#" onclick="showloginform(); return false;">Close [x]</a></div>
-<form method="POST" action="" onsubmit="return BlockDblSubmit()">
+<form method="POST" action="" onsubmit="return check_logindata();">
 <div id="logincontent">
 Your email<br>
-<input type="Text" name="email" class="input"><br>
+<input type="Text" name="email" id="loginemail" class="input"><br>
 Your birthday<br>
-<select name="m"><option value="1">Jan</option><option value="2">Feb</option><option value="3">Mar</option><option value="4">Apr</option><option value="5">May</option><option value="6">Jun</option><option value="7">Jul</option><option value="8">Aug</option><option value="9">Sep</option><option value="10">Oct</option><option value="11">Nov</option><option value="12">Dec</option></select>
-<select name="d"><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option><option value="18">18</option><option value="19">19</option><option value="20">20</option><option value="21">21</option><option value="22">22</option><option value="23">23</option><option value="24">24</option><option value="25">25</option><option value="26">26</option><option value="27">27</option><option value="28">28</option><option value="29">29</option><option value="30">30</option><option value="31">31</option></select>
-<select name="y">
-<option value="1990">1990</option><option value="1989">1989</option><option value="1988">1988</option><option value="1987">1987</option><option value="1986">1986</option><option value="1985">1985</option><option value="1984">1984</option><option value="1983">1983</option><option value="1982">1982</option><option value="1981">1981</option><option value="1980">1980</option><option value="1979">1979</option><option value="1978">1978</option><option value="1977">1977</option><option value="1976">1976</option><option value="1975">1975</option><option value="1974">1974</option><option value="1973">1973</option><option value="1972">1972</option><option value="1971">1971</option><option value="1970" selected="">1970</option><option value="1969">1969</option><option value="1968">1968</option><option value="1967">1967</option><option value="1966">1966</option><option value="1965">1965</option><option value="1964">1964</option><option value="1963">1963</option><option value="1962">1962</option><option value="1961">1961</option><option value="1960">1960</option><option value="1959">1959</option><option value="1958">1958</option><option value="1957">1957</option><option value="1956">1956</option><option value="1955">1955</option><option value="1954">1954</option><option value="1953">1953</option><option value="1952">1952</option><option value="1951">1951</option><option value="1950">1950</option><option value="1949">1949</option><option value="1948">1948</option><option value="1947">1947</option><option value="1946">1946</option><option value="1945">1945</option><option value="1944">1944</option><option value="1943">1943</option><option value="1942">1942</option><option value="1941">1941</option><option value="1940">1940</option><option value="1939">1939</option><option value="1938">1938</option><option value="1937">1937</option><option value="1936">1936</option><option value="1935">1935</option><option value="1934">1934</option><option value="1933">1933</option><option value="1932">1932</option><option value="1931">1931</option><option value="1930">1930</option><option value="1929">1929</option><option value="1928">1928</option><option value="1927">1927</option><option value="1926">1926</option><option value="1925">1925</option><option value="1924">1924</option><option value="1923">1923</option><option value="1922">1922</option><option value="1921">1921</option><option value="1920">1920</option><option value="1919">1919</option><option value="1918">1918</option><option value="1917">1917</option><option value="1916">1916</option><option value="1915">1915</option><option value="1914">1914</option><option value="1913">1913</option><option value="1912">1912</option><option value="1911">1911</option><option value="1910">1910</option><option value="1909">1909</option><option value="1908">1908</option><option value="1907">1907</option><option value="1906">1906</option><option value="1905">1905</option><option value="1904">1904</option><option value="1903">1903</option><option value="1902">1902</option><option value="1901">1901</option><option value="1900">1900
+<select name="m" id="m"><option value="0">&nbsp;</option><option value="1">Jan</option><option value="2">Feb</option><option value="3">Mar</option><option value="4">Apr</option><option value="5">May</option><option value="6">Jun</option><option value="7">Jul</option><option value="8">Aug</option><option value="9">Sep</option><option value="10">Oct</option><option value="11">Nov</option><option value="12">Dec</option></select>
+<select name="d" id="d"><option value="0">&nbsp;</option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option><option value="18">18</option><option value="19">19</option><option value="20">20</option><option value="21">21</option><option value="22">22</option><option value="23">23</option><option value="24">24</option><option value="25">25</option><option value="26">26</option><option value="27">27</option><option value="28">28</option><option value="29">29</option><option value="30">30</option><option value="31">31</option></select>
+<select name="y" id="y"><option value="0">&nbsp;
+</option><option value="1990">1990</option><option value="1989">1989</option><option value="1988">1988</option><option value="1987">1987</option><option value="1986">1986</option><option value="1985">1985</option><option value="1984">1984</option><option value="1983">1983</option><option value="1982">1982</option><option value="1981">1981</option><option value="1980">1980</option><option value="1979">1979</option><option value="1978">1978</option><option value="1977">1977</option><option value="1976">1976</option><option value="1975">1975</option><option value="1974">1974</option><option value="1973">1973</option><option value="1972">1972</option><option value="1971">1971</option><option value="1970">1970</option><option value="1969">1969</option><option value="1968">1968</option><option value="1967">1967</option><option value="1966">1966</option><option value="1965">1965</option><option value="1964">1964</option><option value="1963">1963</option><option value="1962">1962</option><option value="1961">1961</option><option value="1960">1960</option><option value="1959">1959</option><option value="1958">1958</option><option value="1957">1957</option><option value="1956">1956</option><option value="1955">1955</option><option value="1954">1954</option><option value="1953">1953</option><option value="1952">1952</option><option value="1951">1951</option><option value="1950">1950</option><option value="1949">1949</option><option value="1948">1948</option><option value="1947">1947</option><option value="1946">1946</option><option value="1945">1945</option><option value="1944">1944</option><option value="1943">1943</option><option value="1942">1942</option><option value="1941">1941</option><option value="1940">1940</option><option value="1939">1939</option><option value="1938">1938</option><option value="1937">1937</option><option value="1936">1936</option><option value="1935">1935</option><option value="1934">1934</option><option value="1933">1933</option><option value="1932">1932</option><option value="1931">1931</option><option value="1930">1930</option><option value="1929">1929</option><option value="1928">1928</option><option value="1927">1927</option><option value="1926">1926</option><option value="1925">1925</option><option value="1924">1924</option><option value="1923">1923</option><option value="1922">1922</option><option value="1921">1921</option><option value="1920">1920</option><option value="1919">1919</option><option value="1918">1918</option><option value="1917">1917</option><option value="1916">1916</option><option value="1915">1915</option><option value="1914">1914</option><option value="1913">1913</option><option value="1912">1912</option><option value="1911">1911</option><option value="1910">1910</option><option value="1909">1909</option><option value="1908">1908</option><option value="1907">1907</option><option value="1906">1906</option><option value="1905">1905</option><option value="1904">1904</option><option value="1903">1903</option><option value="1902">1902</option><option value="1901">1901</option><option value="1900">1900
 </option></select><br>
 <input type="checkbox" name="dontremember" value="true" id="dontremember"><label for="dontremember"> Don't remember me on this PC</label>
 <input type="hidden" name="signin" value="1">
