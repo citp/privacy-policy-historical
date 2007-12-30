@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the earthlink.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630075119id_/http%3A//www.earthlink.net/about/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earthlink.com privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230040033id_/http%3A//www.earthlink.net/about/policies/privacy) for the most accurate reproduction.*
 
 # EarthLink® Privacy Policy
 
@@ -86,9 +86,7 @@ EarthLink, Inc.
 Level A  
 Atlanta, Georgia 30309 
 
-Or email: [privacyquestions@corp.earthlink.net](mailto:privacyquestions@corp.earthlink.net)
-
- **Revisions to This Policy**
+**Revisions to This Policy**
 
 EarthLink reserves the right to revise, amend, or modify this policy and our other policies and agreements at any time and in any manner. Any revision, amendment, or modification will be posted on our web site: www.earthlink.net. 
 
