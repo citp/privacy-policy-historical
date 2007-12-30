@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geotrust.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623032629id_/http%3A//geotrust.com/resources/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geotrust.com privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230211935id_/http%3A//www.geotrust.com/resources/legal/privacy.asp) for the most accurate reproduction.*
 
 # SSL Certificate, SSL, Server Certificates, Web Server Certificates
 
@@ -123,6 +123,6 @@ If we decide to change this Privacy Policy, we will post the revised Privacy Pol
 
 **CONTACT US**
 
-If you have any questions or concerns regarding this Privacy Policy, please contact us at: GeoTrust, Customer Advocate, 117 Kendrick Street, Suite 350, Needham, MA 02494, or by email at customeradvocate@geotrust.com, by telephone at +1-781-292-4100, or by facsimile at +1-781-444-3961. 
+If you have any questions or concerns regarding this Privacy Policy, please contact us at: GeoTrust, Customer Advocate, 117 Kendrick Street, Suite 350, Needham, MA 02494, or by email at customeradvocate@geotrust.com, by telephone at +1-650-426-5010, or by facsimile at +1-617-673-2565. 
 
 **EFFECTIVE DATE: September 5, 2006.**
