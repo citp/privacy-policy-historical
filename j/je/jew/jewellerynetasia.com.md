@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jewellerynetasia.com privacy policy that was archived on 2007-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070206161100id_/http%3A//www.jewellerynetasia.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jewellerynetasia.com privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230030251id_/http%3A//www.jewellerynetasia.com/privacy.aspx%3Flang%3D0) for the most accurate reproduction.*
 
 # JewelleryNetAsia.com - Asia's Leading On-line Network for the Jewellery and Gem Industries
 
@@ -25,7 +25,8 @@ We use your Personal and Business Data for the following purposes, including but
   6. contact you regarding notices, surveys, product alerts, new services, offers and communications relevant to you in which you may be interested;
   7. the additional purposes stated in the respective screens that invite you to provide such Personal and/or Business Data.
 
-  
+
+
 **Disclosure of Information**
 
 We may disclose your Personal and Business Data to third parties, our partners and/or alliances, when: 
