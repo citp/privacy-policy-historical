@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learn2type.com privacy policy that was archived on 2007-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070501055408id_/http%3A//www.learn2type.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learn2type.com privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230041100id_/http%3A//www.learn2type.com/Privacy) for the most accurate reproduction.*
 
 # Typing Test - Learn2Type.com - learn to type online FREE typing tutor and typing tests, typing certification
 
