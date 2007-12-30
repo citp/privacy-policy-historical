@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cyberpowerpc.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607163645id_/http%3A//www.cyberpowerpc.com/company/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyberpowerpc.com privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230042812id_/http%3A//www.cyberpowerpc.com/company/privacy.asp) for the most accurate reproduction.*
 
-# CyberPower, Inc. Privacy Policy
+# Cyberpower Inc. Privacy Policy
 
 _**Privacy Policy**_
 
