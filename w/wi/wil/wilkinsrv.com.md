@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wilkinsrv.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429071839id_/http%3A//wilkinsrv.dealerweb.myrvadvantage.com/Home/Hidden/PrivacyPolicy/tabid/5901/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wilkinsrv.com privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230032559id_/http%3A//wilkinsrv.dealerweb.myrvadvantage.com/Home/Hidden/PrivacyPolicy/tabid/5901/Default.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
