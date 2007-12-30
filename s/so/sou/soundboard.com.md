@@ -1,60 +1,29 @@
-> *The following text is extracted and transformed from the soundboard.com privacy policy that was archived on 2007-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070209170852id_/http%3A//www.soundboard.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soundboard.com privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230201333id_/http%3A//www.soundboard.com/privacy.aspx) for the most accurate reproduction.*
 
-# Soundboard.com Privacy Policy
+# Privacy Policy for Soundboard.com
 
-Privacy Notice Table Of Contents: 
+  
+Privacy Policy 
 
-Our Commitment To Privacy    
-The Information We Collect   
-Our Commitment To Data Security   
-How To Access Or Correct Your Information   
-How To Contact Us
+This is a privacy policy for SOUNDBOARD.COM.
 
-**Our Commitment To Privacy**   
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
+We collect a lot of information in order to try to make your experience better.  Some of the information we collect is personally identifiable to you since you have to log in to post.  As you saw when you joined we do not ask for a lot, just your real name and email address.  We will not resell your personal information, however we may provide your information to our partners.  We will send you emails now and then and check in on your soundboards.  If we are served with a subpoena we will comply with the subpoena or some other court document ordering us to provide your information.  We will not give out your information without either a subpoena or your permission.  We do however reserve the right to disable any material placed on the site for any reason and you have no recourse in this regard. The latter point is discussed in the terms and conditions.
 
-**The Information We Collect:**
+Other things we track are click paths in order to try to make our site more efficient.  We also use cookies at times and sections of this site will not work if you have cookies disabled.
 
-This notice applies to all information collected or submitted on the Soundboard.com website. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are: 
-
-Name   
-Address   
-Email address   
-(etc.) 
-
-We do not share this information with outside parties except to the extent necessary to complete that order OR provide the reminder service. 
-
-We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties. 
-
-You can register with our website if you would like to receive our Birthday Reminders. Information you submit on our website will not be used for this purpose unless you fill out the registration form. 
-
-We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals. 
-
-Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses. 
-
-**Our Commitment To Data Security**
-
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
-
-**How You Can Access Or Correct Your Information**
-
-You can access all your personally identifiable information that we collect online and maintain by logging in to your account [here](https://web.archive.org/web/20070209170852id_/http%3A//www.soundboard.com/login.aspx). We use this procedure to better safeguard your information. 
-
-You can correct factual errors in your personally identifiable information by editing it within your account interface. 
-
-To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
-
-**How To Contact Us**
-
-Should you have other questions or concerns about these privacy policies, please send us an email at [webmaster@soundboard.com](mailto:webmaster@soundboard.com). 
+This site does not review everything immediately and the material is posted by third parties, so we cannot guarantee that any soundboard is acceptable for a child 13 years or under.  However we do endeavor to make the site acceptable to 13 year olds. 
 
 | 
 
-Search Soundboards  
+  
+Search by title, quote, keyword, name   
 
 
-Featured Soundboards 
+Categories
 
-Make your own Soundboard  
-It's fast, easy and free. Showcase your sound, show, service or yourself! [Learn more ](https://web.archive.org/web/20070209170852id_/http%3A//about.aspx)  
-[Start building](https://web.archive.org/web/20070209170852id_/http%3A//register.aspx)
+Featured Sites 
+
+Showcase: Holiday Edition
+
+Share Soundboard.com  
+[ ](http://digg.com/submit?phase=2&url=http://www.soundboard.com&title=Soundboard.com "digg") [ ](http://del.icio.us/post?url=http://www.soundboard.com&title=Soundboard.com "del.icio.us") [ ](http://technorati.com/faves?add=http://www.soundboard.com "Soundboard.com") [ ](http://www.furl.net/storeIt.jsp?u=http://www.soundboard.com&t=Soundboard.com "Furl") [ ](http://www.blinklist.com/index.php?Action=Blink/addblink.php&Description=&Url=http://www.soundboard.com&Title=Soundboard.com "BlinkList") [](http://www.facebook.com/sharer.php?src=bm&v=4&u=http://www.soundboard.com&t=Soundboard.com "Facebook") [ ](http://myweb2.search.yahoo.com/myresults/bookmarklet?u=http://www.soundboard.com&=Soundboard.com "YahooMyWeb") [](http://www.stumbleupon.com/submit?url=http://www.soundboard.com&title=Soundboard "Stumble") [](http://www.google.com/bookmarks/mark?op=edit&output=popup&bkmk=http://www.soundboard.com&title=Soundboard.com "Google") [](http://www.newsvine.com/_wine/save?u=http://www.soundboard.com&h=Soundboard.com "Newsvine")
