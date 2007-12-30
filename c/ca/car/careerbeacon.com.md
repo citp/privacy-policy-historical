@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the careerbeacon.com privacy policy that was archived on 2007-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070611145209id_/http%3A//careerbeacon.com/privacystatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerbeacon.com privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230212658id_/http%3A//www.careerbeacon.com/mybeacon_privacystatement.html) for the most accurate reproduction.*
 
-# CareerBeacon.com Home
+# CareerBeacon.com
 
 **OUR COMMITMENT**
 
