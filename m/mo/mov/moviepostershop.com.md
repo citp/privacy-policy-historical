@@ -1,9 +1,11 @@
-> *The following text is extracted and transformed from the moviepostershop.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623064356id_/http%3A//www.moviepostershop.com/privacy.php%3FosCsid%3D253ecd0a642d8727d396d232be9efa46) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moviepostershop.com privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230011522id_/http%3A//www.moviepostershop.com/privacy.php%3FosCsid%3D15023b9398f5d0d27388bf9b9cd77b64) for the most accurate reproduction.*
 
-# MoviePostershop.com - Poster: Movie, Celebrity, Music, Art, Originals, Television, Humor, People, Animation, Photos
+# Movie Poster Shop
 
 |  |  | Privacy Notice |   
 ---|---  
+|   
+---  
   
 [Security](http://www.moviepostershop.com/#)  
 When you shop at moviepostershop.com or movieposter4sale.com, our secure server encrypts all of your personal information, including name, address and credit card information. Our industry standard encryption ensures no one can access or use your personal information. We are so confident that your transactions on our secure server will always be safe that we guarantee your protection in the event of an unauthorized interception and use of your credit card.[Privacy](http://www.moviepostershop.com/#)  
@@ -27,9 +29,4 @@ If you ever have any questions regarding our privacy policy please contact us.[D
 All digital items and posters remain the property and ownership of the respected manufacturers. www.moviepostershop.com and www.movieposter4sale.com does not print any poster or sell the copyright posters: you are merely compensating me for the time spent acquiring and stocking these posters.  
   
 |   
----  
-  
-|   
----  
-Secure Checkout   
-Industry standard SSL encryption from **XRamp**
+---
