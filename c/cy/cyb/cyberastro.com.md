@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cyberastro.com privacy policy that was archived on 2007-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070620170342id_/http%3A//www.cyberastro.com/pubdoc/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyberastro.com privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230191949id_/http%3A//www.cyberastro.com/pubdoc/privacy.asp) for the most accurate reproduction.*
 
 # Free Indian Astrology Sites : Cyber Astro
 
