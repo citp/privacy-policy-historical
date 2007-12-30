@@ -1,14 +1,13 @@
-> *The following text is extracted and transformed from the belchfire.net privacy policy that was archived on 2007-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070408041300id_/http%3A//belchfire.net/index.php%3Fshowtopic%3D8794) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the belchfire.net privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230135141id_/http%3A//belchfire.net/index.php%3Fshowtopic%3D8794) for the most accurate reproduction.*
 
-# Privacy Policy - Belchfire Free Windows XP Themes
+# Privacy Policy - Belchfire Free Windows XP Themes and Vista Themes
 
-[hamesh](http://themes.belchfire.net/index.php?showuser=2)
+Admin  
 
-Admin 
 
 Group: Admin
 
-Posts: 3,147
+Posts: 6,929
 
 Joined: 17-July 04
 
@@ -16,8 +15,6 @@ From: Calgary, AB, Canada
 
 Member No.: 2
 
-Submissions: [44](http://themes.belchfire.net/index.php?act=downloads&do=search&type=do_search&author=hamesh)  
-Downloads: [1302](http://themes.belchfire.net/index.php?act=downloads&do=filecp&code=downs&mid=2)  
   
   
 
