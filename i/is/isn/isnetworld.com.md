@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the isnetworld.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429103046id_/http%3A//www.isnetworld.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isnetworld.com privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230084506id_/http%3A//www.isnetworld.com/privacy.asp) for the most accurate reproduction.*
 
-# ISNetworld.com - OQ - HSE - SCQ-V
+# ISNetworld - Global Contractor and Supplier Management
 
 |  | 
 
