@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the symbios.pk privacy policy that was archived on 2007-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070526003802id_/http%3A//www.symbios.pk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the symbios.pk privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230104300id_/http%3A//symbios.pk/privacy.html) for the most accurate reproduction.*
 
 # The Best Online shop in Pakistan.Offers Digital Qurans, Digital Dictionaries Holy Quran Ball Pen, Enmac in Pakistan, Franklin in Pakistan, Pakistan Business Directories, Textile And Garments Data CD, Spy Gadgets, Digital Tasbeeh, Islamic Watches. CONTACT NOW: 0300-9271733
 
-|   | [ISLAMIC PRODUCTS   
-](https://web.archive.org/web/20070526003802id_/http%3A//www.symbios.pk/islamicgadgets.html) |   | [HOME APPLIANCES  
-](https://web.archive.org/web/20070526003802id_/http%3A//www.symbios.pk/homeapplianceMain.html) |   | [CELLULAR](https://web.archive.org/web/20070526003802id_/http%3A//www.symbios.pk/mobile.html) |   | [LAPTOPS/PDA](https://web.archive.org/web/20070526003802id_/http%3A//www.symbios.pk/pdas.html) |   | [MUSIC/FLASH MEMORIES ](https://web.archive.org/web/20070526003802id_/http%3A//www.symbios.pk/musicmain.html) |   | [OTHER PRODUCTS ](https://web.archive.org/web/20070526003802id_/http%3A//www.symbios.pk/otherproducts.html) |    
+|   | [ISLAMIC PRODUCTS  
+](https://web.archive.org/web/20071230104300id_/http%3A//symbios.pk/islamicgadgets.html) |   | [HOME APPLIANCES  
+](https://web.archive.org/web/20071230104300id_/http%3A//symbios.pk/homeapplianceMain.html) |   | [CELLULAR](https://web.archive.org/web/20071230104300id_/http%3A//symbios.pk/mobile.html) |   | [LAPTOPS/PDA](https://web.archive.org/web/20071230104300id_/http%3A//symbios.pk/pdas.html) |   | [MUSIC/FLASH MEMORIES ](https://web.archive.org/web/20071230104300id_/http%3A//symbios.pk/musicmain.html) |   | [OTHER PRODUCTS ](https://web.archive.org/web/20071230104300id_/http%3A//symbios.pk/otherproducts.html) |    
 ---|---|---|---|---|---|---|---|---|---|---|---|---  
 |  |    
 ---  
