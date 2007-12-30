@@ -1,294 +1,160 @@
-> *The following text is extracted and transformed from the bbc.co.uk privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613115123id_/http%3A//www.bbc.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbc.co.uk privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230203748id_/http%3A//www.bbc.co.uk/privacy) for the most accurate reproduction.*
 
 # BBC - Privacy & Cookies Policy
 
-  
-The following statement explains our policy regarding the personal information we collect about you.
+  1. Introduction and General Terms
+  2. What information will the BBC collect about me?
+  3. How will the BBC use the information they collect about me?
+  4. When will the BBC contact me?
+  5. Will I be contacted for marketing purposes?
+  6. Will the BBC share my personal information with anyone else?
+  7. Offensive or inappropriate content on the BBC website
+  8. What if I am aged 16 or under?
+  9. How long will the BBC keep my personal information?
+  10. Can I find out what personal information the BBC holds about me?
+  11. What if I am accessing BBC websites from outside the UK?
+  12. Changes to the BBC's Privacy Policy
+  13. Cookies Policy
+  14. Contacting the BBC about this Privacy Policy
 
-  1. Introduction
-  2. Visitor Information
-  3. What is a cookie?
-  4. Submitting personal information
-  5. Access to your personal information
-  6. Users 16 and under
-  7. How to find and control your cookies
-  8. How do you know which sites use cookies?
-  9. How to see your cookie code
-  10. List of bbc.co.uk cookies
 
 
+## 1. Introduction and General Terms
 
-## 1. Introduction
+The BBC is committed to protecting you and your family's personal information when you are using BBC services. We want our services to be safe and enjoyable environments for our audience. This Privacy Policy relates to our use of any personal information you provide to us through the bbc.co.uk websites.
 
-This policy covers the BBC's use of personal information that the BBC collects when you use bbc.co.uk. The policy also gives you information about cookies; BBC and third parties' use of cookies; and how you may reject such cookies.
+In order to provide you with the full range of BBC services, we are sometimes required to collect information about you.
 
-From time to time, you will be asked to submit personal information about yourself (e.g. name and email address) in order to receive or use services on our website. Such services include newsletters, competitions, live chats, message boards and bbc.co.uk membership.
+This privacy policy explains the following:
 
-By entering your details in the fields requested, you enable the BBC and its service providers to provide you with the services you select. Whenever you provide such personal information, we will treat that information in accordance with this policy. When using your personal information the BBC will act in accordance with current legislation and aim to meet current Internet best practice.
+  * what information the BBC may collect about you;
+  * how the BBC will use information we collect about you; 
+  * when the BBC may use your details to contact you;
+  * whether the BBC will disclose your details to anyone else; 
+  * your choices regarding the personal information you have provided to us;
+  * the use of cookies on the BBC website and how you can reject these cookies.
 
-## 2. Visitor Information
 
-During the course of any visit to bbc.co.uk, the pages you see, along with a short text file called a 'cookie', are downloaded to your computer. Many websites do this, because cookies enable website publishers to do useful things like find out whether the computer (and probably its user) has visited the website before. This is done on a repeat visit by checking to see, and finding, the cookie left there on the last visit.
 
-Information supplied by cookies can help us to provide you with a better online user experience and assist us to analyse the profile of our visitors. For example: if on a previous visit you went to our education pages, we might find this out from your cookie and highlight educational information on your second and subsequent visits.
+As set out above, the BBC is committed to safeguarding your personal information. Whenever you provide such information, we are legally obliged to use your information in line with all laws concerning the protection of personal information, including the Data Protection Act 1998 (these laws are referred to collectively in this Privacy Policy as the "data protection laws").
 
-Nielsen//Netratings and SageMetrics, two independent measurement and research companies, gather non-personal information regarding the visitors to our website on our behalf using cookies, log file data and code which is embedded on our website. The BBC uses this type of information, as with that obtained from other cookies used on the site, to help it improve the services to its users. If you wish to reject Nielsen//Netratings' cookie and SageMetrics' cookie, you can use the process set out below in point 7. To Totally Opt-Out of Nielsen//Netratings collecting any data regarding your interaction on bbc.co.uk, use the Opt-Out in their Privacy and Cookie Policy at [http://www.netratings.com/privacy.jsp?section=leg_scs](https://web.archive.org/go/web/20070613115123id_/http://www.bbc.co.uk/privacy/ext/_auto/-/http://www.netratings.com/privacy.jsp?section=leg_scs). To Totally Opt-Out of SageMetrics collecting any data regarding your interaction on bbc.co.uk, use the Opt-Out in their Privacy Statements and Policies at [http://www.sagemetrics.com/ popup-dynamic.asp?pagename=privacy_main](https://web.archive.org/go/web/20070613115123id_/http://www.bbc.co.uk/privacy/ext/_auto/-/http://www.sagemetrics.com/popup-dynamic.asp?pagename=privacy_main).
+The websites contains hyperlinks to websites owned and operated by third parties. These third party websites have their own privacy policies, including cookies, and we urge you to review them. They will govern the use of personal information you submit or are collected by cookies whilst visiting these websites. We do not accept any responsibility or liability for the privacy practices of such third party websites and your use of such websites is at your own risk.
 
-## 3. What is a cookie?
+## 2. What information will the BBC collect about me?
 
-A cookie is a small amount of data, which often includes an anonymous unique identifier that is sent to your browser from a website's computer and stored on your computer's hard drive. Each website can send its own cookie to your browser if your browser's preferences allow it, but (to protect your privacy) your browser only permits a web site to access the cookies it has already sent to you, not the cookies sent to you by other sites.
+When you sign up to participate in or receive a service from any bbc.co.uk website, such as newsletters, competitions, live chats, message boards or register with the single universal online registration system used across different parts of the bbc.co.uk called "Single Sign-On", we may ask for personal information about you. This can consist of information such as your name, e mail address, postal address, telephone or mobile number or date of birth. Different webpages may ask for different personal information. 
 
-Many sites do this whenever a user visits their website in order to track online traffic flows.
+By entering your details in the fields requested, you enable the BBC and its service providers to provide you with the services you select. 
 
-Cookies record information about your online preferences. Users have the opportunity to set their computers to accept all cookies, to notify them when a cookie is issued, or not to receive cookies at any time. The last of these, of course, means that certain personalised services cannot then be provided to that user user and accordingly you may not be able to take full advantage of all of the bbc.co.uk features. Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences.
+Please note that sometimes on particular webpages we will require you to provide additional personal information, and sometimes sensitive personal information (e.g. if you're sending in an application to be a contributor on a political party we may need to know your political leanings). When we do this we will specify further on these webpages why we are collecting your information and how we will use it.
 
-If you have set your computer to reject cookies you can still browse bbc.co.uk anonymously until such time as you wish to register for bbc.co.uk services. For further information on cookies please visit [http://www.aboutcookies.org](https://web.archive.org/go/web/20070613115123id_/http://www.bbc.co.uk/privacy/ext/_auto/-/http://www.aboutcookies.org/).
+The BBC also uses cookies (see paragraph 12 below for details) and collects IP addresses (an IP address is a number that can uniquely identify a specific computer or other network device on the internet). We use analysis software to look at IP addresses and cookies for the purpose of enhancing your user experience. This information is not used to develop a personal profile of you and the log files are regularly purged.
 
-## 4. Use and storage of your personal information
+We also use your IP address to determine whether you are accessing the services from the UK or not. If not, you will be re-directed to the international version of the bbc.co.uk site (see paragraph 11 for details.) 
 
-When you supply any personal information to bbc.co.uk (e.g. for competitions, bbc.co.uk Community services or bbc.co.uk membership) we have legal obligations towards you in the way we use those data. We must collect the information fairly, that is, we must explain how we will use it (see the notices on particular webpages that let you know why we are requesting the information) and tell you if we want to pass the information on to anyone else.
+## 3. How will the BBC use the information they collect about me?
 
-In general, any information you provide to the BBC will only be used within the BBC and by its agents and service providers. Your information will be disclosed where we are obliged or permitted by law. Also, if you post or send offensive, inappropriate or objectionable content anywhere on or to bbc.co.uk or otherwise engage in any disruptive behaviour on bbc.co.uk, the BBC can use whatever information that is available to it about you to stop such behaviour. This may involve informing relevant third parties such as your employer, school e-mail/Internet provider and law enforcement agencies about the content and your behaviour.
+The BBC will use your personal information for a number of purposes including the following:
 
-We will hold your personal information on our systems for as long as you use the service you have requested, and remove it in the event that the purpose has been met, or, in the case of bbc.co.uk membership you no longer wish to continue your registration as a bbc.co.uk member. For safety reasons, however, the BBC may store messaging transcript data (including message content, member names, times and dates) arising from the use of bbc.co.uk Community services such as Connector for a period of six months. Where personal information is held for people who are not yet registered but have taken part in other bbc.co.uk services (e.g. competitions), that information will be held as long as is necessary to ensure that the service is run smoothly. We will ensure that all personal information supplied is held securely, in accordance with the Data Protection Act 1998.
+  * for "service administration purposes", which means that the BBC may contact you for reasons related to the service you have signed up for, as set out in paragraph 4 below (e.g. to provide you with password reminders or to notify you that a particular service has been suspended for maintenance); 
+  * to contact you about a submission you have made to the websites, including any content you provide, see especially the [UGC FAQS](https://web.archive.org/terms/faq.shtml).
+  * to personalise the way BBC content is presented to you (e.g. if we notice that the first thing you look at every day is the weather for Luton, then we may present this information or a link to it on your homepage); 
+  * IP addresses are used to identify the location of users, the number of visits from different countries and also to block disruptive use; and
+  * to analyse and improve the services offered on bbc.co.uk. e.g. to provide you with the most user-friendly navigation experience. 
 
-If you are notified on a bbc.co.uk site that your information may be used to allow the BBC to contact you for "service administration purposes", this means that the BBC may contact you for a number of purposes related to the service you have signed up for. For example, we may wish to provide you with password reminders or notify you that the particular service has been suspended for maintenance. We will not contact you for promotional purposes, such as notifying you of improvements to the service or new services on bbc.co.uk unless you specifically agree to be contacted for such purposes at the time you submit your information on the site, or at a later time if you sign up specifically to receive such promotional information.
 
-## 5. Access to your personal information
 
-You have the right to request a copy of the personal information the BBC holds about you and to have any inaccuracies corrected. (We charge £10 for information requests.)
+Where the BBC proposes using your personal information for any other uses we will ensure that we notify you first. You will also be given the opportunity to withhold or withdraw your consent for your use other than as listed above. 
 
-Please address requests to the Data Protection Officer, MC3 D1, Media Village, 201 Wood Lane, London, W12 7TQ (Email: [dpa.officer@bbc.co.uk](mailto:dpa.officer@bbc.co.uk)).
+## 4. When will the BBC contact me?
 
-## 6. Users 16 and under
+The BBC may contact you:
 
-If you are aged 16 or under, please get your parent/guardian's permission beforehand whenever you provide personal information to the BBC's website. Users without this consent are not allowed to provide us with personal information.
+  * in relation to the functioning of any service you have signed up for in order to ensure that the BBC can deliver the services to you;
+  * where you have opted to receive further correspondence;
+  * in relation to any contribution you have made to bbc.co.uk, e.g. on the BBC message boards; 
+  * to invite you to participate in surveys about the BBC services (participation is always voluntary); and
+  * for marketing purposes where you have specifically agreed to this (see paragraph 5 below)
 
-## 7. How to find and control your cookies
 
-### If you're using **Internet Explorer 6.0 or 7.0** :
 
-  1. Choose Tools, then
-  2. Internet Options
-  3. Click the Privacy tab
-  4. Click on Custom Level
-  5. Click on the 'Advanced' button
-  6. Check the 'override automatic cookie handing' box and select Accept, Block or Prompt for action as appropriate.
+Local pages will give you detailed information about how the BBC will contact you in relation to specific services.
 
+## 5. Will I be contacted for marketing purposes?
 
+The BBC won't contact you for marketing purposes, or promote new services to you unless you specifically agree to be contacted for these purposes. 
 
-### If you're using **Firefox 2.0** :
+## 6. Will the BBC share my personal information with anyone else?
 
-  1. Choose Tools, then
-  2. Options
-  3. Click the Privacy icon
+We will keep your information confidential except where disclosure is required or permitted by law (for example to government bodies and law enforcement agencies) or as described in paragraph 7 below. Generally, we will only use your information within the BBC. However, sometimes the BBC uses third parties to process your information. The BBC will require these third parties to comply strictly with its instructions and the BBC will require that they do not use your personal information for their own business purposes. 
 
+Please note that if you are accessing the BBC from outside the UK and you make a comment or complaint regarding any element of advertising (see paragraph 11 for more details about this) then BBC may forward your correspondence to BBCW only for the purposes of responding to you.
 
+## 7. Offensive or inappropriate content on the BBC website
 
-### If you're using **Firefox 1.0 or 1.5** :
+If you post or send offensive, inappropriate or objectionable content anywhere on or to bbc.co.uk, or otherwise engage in any disruptive behaviour on bbc.co.uk, the BBC may use your personal information to stop such behaviour. 
 
-  1. Choose Tools, then
-  2. Options
-  3. Click the Privacy icon
-  4. Click the Cookies tab
+Where the BBC reasonably believes that you are or may be in breach of any of the laws of England or Wales (e.g. because content you have posted may be defamatory), the BBC may use your personal information to inform relevant third parties such as your employer, school e-mail/Internet provider or law enforcement agencies about the content and your behaviour.
 
+## 8. What if I am a user aged 16 or under?
 
+If you are aged 16 or under, please get your parent/guardian's permission beforehand whenever you provide personal information to the BBC's website. Users without this consent are not allowed to provide us with personal information. 
 
-### If you're using **Opera 8.0 or 9.0** :
+## 9. How long will the BBC keep my personal information? 
 
-  1. Choose Tools, then
-  2. Preferences
-  3. Advanced
-  4. Cookies
+We will hold your personal information on our systems for as long as is necessary for the relevant service, or as long as is set out in any relevant contract you hold with the BBC or the BBC's corporate retention schedule (this is a database that defines which documents should be kept and for how long). In the case that you wish to cancel your registration as a bbc.co.uk member, once an account is deleted a red flag goes on the database and, while people cannot use the personal information, it stays on the system for a period of one year for administration purposes before being deleted automatically.
 
+Where you contribute to bbc.co.uk the BBC will generally only keep your content for as long as is reasonably required for the purpose(s) for which it was submitted. For example, the BBC will only keep copies of entries to a photographic competition for the duration of the competition. However other projects (e.g. the People's War website) are likely to have a longer, or even permanent, duration. 
 
+The BBC, as a publicly funded organisation, also has an obligation to record snapshots of history which may include some User Generated Content i.e. content provided by users. Therefore, some content submitted to or shared with the BBC may be retained for prolonged periods of time or potentially indefinitely in the BBC's Archive, which is true of News contributions which are published. There may also be rare instances where we will share your contribution with third parties in the interests of maintaining historical archives (e.g. contributions about people's experiences in the World War II were given to the Imperial War Museum). Where possible, we will endeavour to inform you upfront or let you know at a later date where we are likely to keep content indefinitely or pass it onto an approved historical archive.
 
-### If you're using **Opera 7.0** :
+## 10. Can I find out what personal information the BBC holds about me?
 
-  1. Choose File, then
-  2. Preferences
-  3. Privacy
+Under the Data Protection Act you have the right to request a copy of the personal information the BBC holds about you and to have any inaccuracies corrected. (We charge £10 for information requests and will require you to prove your identity with 2 pieces of approved photographic identification.) We will use reasonable efforts to supply, correct or delete personal information about you on our files.
 
+Please address requests and questions about this or any other question about this Privacy Policy to the Data Protection Officer, MC3 D1, Media Village, 201 Wood Lane, London, W12 7TQ (Email: [dpa.officer@bbc.co.uk](mailto:dpa.officer@bbc.co.uk)). 
 
+## 11. What if I am accessing BBC websites outside the UK?
 
-### If you're using **Netscape 6.0** :
+www.bbc.co.uk is published in the UK by the BBC. For international users accessing the site from outside the UK, the site is made available to you by the BBC's commercial subsidiary, BBC Worldwide Ltd. ("BBCW"), on a commercial basis (ie some of the pages you access will have advertising on them) under licence from the BBC. However all personal information submitted by you to the site goes directly to the BBC and will be processed in accordance with this Privacy Policy (and any local terms that apply on websites) unless terms on sites specify otherwise.
 
-  1. Choose Edit, then
-  2. Preferences
-  3. Click on Advanced
-  4. Click on Cookies
+You should note that BBCW does place a number of cookies on www.bbc.co.uk and may collect information about international users from these - please see paragraph 13 for more information about cookies.
 
+## 12. Changes to BBC's Privacy Policy
 
+This privacy policy may be updated from time to time so you may wish to check it each time you submit personal information to any bbc.co.uk website. The date of the most recent revisions will appear on this page.
 
-### If you're using **Internet Explorer 5.0 or 5.5** :
+## 13. Cookies Policy -Information the BBC collects from you
 
-  1. Choose Tools, then
-  2. Internet Options
-  3. Click the Security tab
-  4. Click on Custom Level
-  5. Scroll down to the sixth option to see how cookies are handled by IE5 and change to Accept, Disable, or Prompt for action as appropriate.
+### **a. What is a cookie?**
 
+A cookie is a small amount of data, which often includes a unique identifier that is sent to your computer or mobile phone (referred to here as a "device") browser from a website's computer and is stored on your device's hard drive. Each website can send its own cookie to your browser if your browser's preferences allow it, but (to protect your privacy) your browser only permits a website to access the cookies it has already sent to you, not the cookies sent to you by other sites. Many sites do this whenever a user visits their website in order to track online traffic flows.
 
+Cookies record information about your online preferences and allow us to tailor the websites to your interests. Users have the opportunity to set their devices to accept all cookies, to notify them when a cookie is issued, or not to receive cookies at any time. The last of these means that certain personalised services cannot then be provided to that user and accordingly you may not be able to take full advantage of all of the bbc.co.uk features. Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences.
 
-### If you're using **Internet Explorer 4.0** :
+During the course of any visit to bbc.co.uk, the pages you see, along with a cookie, are downloaded to your device. Many websites do this, because cookies enable website publishers to do useful things like find out whether the device (and probably its user) has visited the website before. This is done on a repeat visit by checking to see, and finding, the cookie left there on the last visit.
 
-  1. Choose View, then
-  2. Internet Options
-  3. Click the Advanced tab
-  4. Scroll down to the yellow exclamation icon under Security and choose one of the three options to regulate your use of cookies.
+### **b. How does the BBC use cookies?**
 
+Information supplied by cookies can help us to analyse the profile of our visitors and help us to provide you with a better user experience. For example: if on a previous visit you went to our education pages, we might find this out from your cookie and highlight educational information on your second and subsequent visits.
 
+The BBC (and BBCW in relation to international users) also use a number of independent measurement and research companies. They gather information regarding the visitors to BBC sites on our behalf using cookies, log file data and code which is embedded on our website. The BBC and BBCW use this type of information to help improve the services it provides to its users. The BBC and BBCW strictly require that this information is not to use any information for their own business or other purposes (see paragraph 6 above). Certain other areas of bbc.co.uk may use cookies for a specific reason - for example, to help an online game work effectively on your device. If this is the case, the local terms for that area of the website will make this clear and you should refer to those local terms for additional information.
 
-### If you're using **Internet Explorer 3.0** :
+### **c. BBC cookies and how to reject cookies?**
 
-  1. Choose View, then
-  2. Options
-  3. Click on Advanced
-  4. Click on the button that says Warn before Accepting Cookies.
+A list of the main cookies that bbc.co.uk sets (and what each is used for) together with ways to minimise the number of cookies you receive can be found at the [BBC's Cookie List and How To Reject Cookies](https://web.archive.org/privacy/cookies.shtml).
 
+## 14. Contacting the BBC about this Privacy Policy
 
+If you have any questions or comments about this Privacy Policy please contact; 
 
-### If you're using **Netscape Communicator 4.0** :
+_The Data Protection Officer  
+MC3 D1   
+Media Village   
+201 Wood Lane   
+London   
+W12 7TQ_
 
-  1. Choose Edit, then
-  2. Preferences
-  3. Click on Advanced
-  4. Set your options in the box that says Cookies.
-
-
-
-[Top]
-
-## 8. How do you know which of the sites you've visited use cookies?
-
-### If you're using **Internet Explorer 5.0, 6.0 or 7.0** :
-
-  1. Choose Tools, then
-  2. Internet Options
-  3. Click the General tab
-  4. Click Settings
-  5. View Files
-
-
-
-### If you're using **Firefox 2.0** :
-
-  1. Choose Tools, then
-  2. Options
-  3. Click the Privacy icon
-  4. Show Cookies
-
-
-
-### If you're using **Firefox 1.0 or 1.5** :
-
-  1. Choose Tools, then
-  2. Options
-  3. Click the Privacy icon
-  4. Click the Cookies tab
-  5. View Cookies
-
-
-
-### If you're using **Opera 8.0 or 9.0** :
-
-  1. Choose Tools, then
-  2. Advanced
-  3. Cookies
-
-
-
-### If you're using **Opera 7.0** :
-
-  1. Choose File, then
-  2. Preferences
-  3. Privacy
-  4. Click on Manage Cookies
-
-
-
-### If you're using **Netscape 6.0** :
-
-  1. Choose Edit, then
-  2. Preferences
-  3. Click on Advanced
-  4. Click on Cookies
-  5. Click the View Cookies button
-
-
-
-### If you're using **Internet Explorer 4.0** :
-
-  1. Choose View, then
-  2. Internet Options
-  3. Under the tab General (the default tab) click
-  4. Settings
-  5. View Files.
-
-
-
-### If you're using **Internet Explorer 3.0** :
-
-  1. Choose View, then
-  2. Options
-  3. Advanced
-  4. View Files.
-
-
-
-### If you're using **Netscape Communicator 4.0** :
-
-Netscape bundles all cookies into one file on your hard drive. You'll need to find the file, which it calls Cookie.txt on Windows machines. [Top]
-
-## 9. How to see your cookie code
-
-Just click on a cookie to open it. You'll see a short string of text and numbers. The numbers are your identification card, which can only be seen by the server that gave you the cookie. 
-
-## 10. List of bbc.co.uk cookies
-
-This is a list of the main cookies that bbc.co.uk sets, and what each is used for:
-
-BBC-UID cookie
-    A unique identifier given to each computer to allow log analysis to determine the number of unique users for various parts of bbc.co.uk. Data is only used in aggregate.
-BBCMediaselector cookie
-    Used to store your user preferences for Audio-Video content from bbc.co.uk - format (Real player or Windows Media player) and quality (narrowband or broadband).
-mstouch cookie
-    Used if we have needed to reset your BBCMediaSelector cookie which stores your preference for the Audio-Video content from bbc.co.uk. 
-BBCPostcoder cookie
-    Used to store your user preferences for geographic specific content on bbc.co.uk - allows pages to present information for your local area, primarily on the homepage, but also in other areas like bbc.co.uk/arts.
-BBCWEACITY cookie
-    Used to store your user preferences for home city - allows the the weather site to present information for your local area.
-BBCNewsAudience cookie
-    Used to store your user preferences for which edition (domestic UK or International) of the BBC homepage, Radio, TV and Weather homepages, News site and Sport site you wish to view when visiting www.bbc.co.uk.
-BBCNewsAudcWght cookie
-    Used to record the degree of certainty of the domestic UK or International edition preference ascribed to you. If you make an express preference (see above) then we can be certain of which edition of the domestic UK or International site to serve to you. If you do not express a preference we will make a guess of varying degrees of certainty as to which edition of the domestic UK or International site is most appropriate for you based on your IP.
-BBCNewsAudcWghtUpd cookie
-    Used to keep track of when your BBCNewsAudcWght cookie (if any) was last updated. This ensures that, where we have guessed which edition of the domestic UK or International site is most appropriate for you, we continue to review our assumptions.
-SSO2-UID cookie
-    Used to allow you to be automatically signed in to a bbc.co.uk service which you have previously registered for.
-BBC-H2-User cookie
-    Used for user authentication for the bbc.co.uk messageboard system.
-rmRpDetectReal cookie
-    Used to store a preference to prevent 'You don't have Real player installed ...' alerts coming up if you really don't want to install it and don't want to be pestered with requests to do so.
-*votename* cookie
-    Some voting systems on bbc.co.uk may set a cookie to discourage voters voting more than once. In each case the cookie's name will reflect the vote in question.
-Survey cookie - "bbcsurvey"
-    Used to ensure that once you have taken a BBC survey, or said that you don't want to be surveyed, that you are not offered the same survey again.
-bbcComSurvey
-    Used to ensure that once you have taken a BBC survey, or said that you don't want to be surveyed, that you are not offered the same survey again. This cookie is used when there are two concurrent surveys being run.
-myway
-    Used to store your user preference for which colours to use (for example, high contrast colour scheme) on bbc.co.uk/accessibility.
-BBCLiveStatsClick
-    Used to capture the co-ordinates of clicks made on the BBC News pages. The cookie expires after 8 seconds and the information is used to inform editorial decisions about page layout and promotion.
-BBCHomeOpt
-    Used to store user preferences for customisable elements, where available, on the bbc.co.uk homepage.
-BBCNewsCustomisation
-    Used to store user preferences for customisable elements, where available, within news.bbc.co.uk.
-British Broadcasting Corporation © 2001-2006  
-Broadcasting House,  
-Portland Place,  
-London,  
-W1A 1AA  
-
+(Email: [dpa.officer@bbc.co.uk](mailto:dpa.officer@bbc.co.uk)). 
 
 [Top]
