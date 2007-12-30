@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tutorvista.co.in privacy policy that was archived on 2007-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070525093629id_/http%3A//www.tutorvista.co.in/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tutorvista.co.in privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230043229id_/http%3A//www.tutorvista.co.in/privacy.php) for the most accurate reproduction.*
 
-# TutorVista - World class tutoring - Privacy
+# Tutorvista.co.in - Privacy Prep , Privacy Tutoring , Privacy Online Tutoring , Privacy Help, Get one-on-one tutoring 24x7
 
 TutorVista.com has created this privacy statement ("Statement") in order to demonstrate our commitment to customer privacy. Privacy on the TutorVista.com web site (the "Site") is of great importance to us. Because we gather important information from our visitors and customers, we have established this Statement as a means to communicate our information gathering and dissemination practices. We reserve the right to change this Statement at any time, so please visit TutorVista.com regularly to review our privacy statement.
 
