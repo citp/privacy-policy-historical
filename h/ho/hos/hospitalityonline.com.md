@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hospitalityonline.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623134842id_/http%3A//www.hospitalityonline.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hospitalityonline.com privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230221326id_/http%3A//www.hospitalityonline.com/legal/privacy) for the most accurate reproduction.*
 
 # Hospitality Online Privacy Policy
 
