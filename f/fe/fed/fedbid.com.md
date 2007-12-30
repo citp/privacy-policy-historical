@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fedbid.com privacy policy that was archived on 2007-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070421231624id_/http%3A//www.fedbid.com/tools/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fedbid.com privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230110456id_/http%3A//www.fedbid.com/tools/privacy) for the most accurate reproduction.*
 
 # Privacy / Policies
 
@@ -40,7 +40,7 @@ All Web Site design, text, graphics, interfaces, and the arrangement thereof, ar
 
 ## Patents
 
-The business process and technology implemented on the Web Site is covered by a patent pending submittal to the U.S. Patent and Trademark Office.
+The business method and technology implemented on the Web Site is covered by an existing patent issued by the U.S. Patent and Trademark Office.
 
 ## Servicemarks
 
