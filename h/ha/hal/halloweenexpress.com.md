@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the halloweenexpress.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623224733id_/http%3A//www.halloweenexpress.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the halloweenexpress.com privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230015359id_/http%3A//www.halloweenexpress.com/privacy.php) for the most accurate reproduction.*
 
-# Halloween Costumes and Costume Accessories for Adults, Teens and Kids | HalloweenExpress.com.
+# Halloween Costumes and Costume Accessories for Adults, Teens and Kids.
 
 We take your business seriously and use every reasonable precaution necessary to ensure your shopping experience is safe! We want you to be aware of what kind of information we obtain from you, how we use this information, and how you can control its use. By using this site, you consent to this Privacy Policy. 
 
