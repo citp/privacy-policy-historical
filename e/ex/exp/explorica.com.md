@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the explorica.com privacy policy that was archived on 2007-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070418152446id_/http%3A//welcome.explorica.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the explorica.com privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230163148id_/http%3A//www.explorica.com/Privacy) for the most accurate reproduction.*
 
-# Explorica Worldwide Educational Travel
+# Learn More about Explorica International Educational Tours and Student Trips
+
+Privacy Policy
 
 We take your privacy seriously. Explorica employs the strictest security measures to ensure the absolute privacy of every user.
 
