@@ -1,55 +1,38 @@
-> *The following text is extracted and transformed from the wavemaker.com privacy policy that was archived on 2005-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050205145014id_/http%3A//www.wavemaker.com/index.cfm%3Ffuseaction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wavemaker.com privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230063252id_/http%3A//www.wavemaker.com/company/legal/privacy.html) for the most accurate reproduction.*
 
-# 
+# WaveMaker Software: Company: Legal: Privacy
 
-<\-- Back
+Your privacy is important to WaveMaker. We are committed to respecting your privacy and the confidentiality of your personal information. Therefore we collect and use information throughout our Web site only as disclosed in this Privacy Policy. This statement applies solely to information collected on this Web site.
 
-PRIVACY POLICY
+No information regarding the domain or e-mail address of each visitor to our Web site is recognized by our Web server.
 
-* * *
+The information we collect is only used to communicate with our users and is never shared with other organizations for commercial purposes.
 
-Your privacy is very important to us. We want to make your experience on the Internet as enjoyable and rewarding as possible, and we want you to use the Internet's vast array of information, tools, and opportunities with complete confidence.
+We require information from the user on our newsletter subscription form. A user must provide contact information, such as name and e-mail address, but we never sell or give away this information. The information we collect is only used to communicate with our users and is never shared with other organizations for commercial purposes.
 
-We have created this Privacy Policy to demonstrate our firm commitment to privacy and security. This Privacy Policy describes how Aspect1, Inc. collects information from all end users of Aspect1's Internet services (the "Services") - those who access some of our Services but do not have accounts ("Visitors") as well as those who pay a monthly service fee to subscribe to the Service ("Members") - what we do with the information we collect, and the choices Visitors and Members have concerning the collection and use of such information. Aspect1, Inc. requests that you read this Privacy Policy carefully.
+**Third Parties**
 
-It is Aspect1's policy not to use or share the personal information about Visitors of Members in ways unrelated to the ones described below without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses. However, Aspect1, Inc. may disclose personal information about Visitors or Members, or information regarding your use of the Services or web sites accessible through our Services, for any reason if, in our sole discretion, we believe that it is reasonable to do so, including: to satisfy laws, such as the Electronic Communications Privacy Act, regulations, or governmental or legal requests for such information; to disclose information that is necessary to identify, contact or bring legal action against someone who may be violating our Acceptable Use Policy or other user policies; to operate the Services properly; or to protect Aspect1, Inc. and our Members.
+WaveMaker will not sell or rent personal information without your consent. WaveMaker has limited relationships with third parties to assist us in servicing you, for example, by fulfilling customer orders or providing customer service. These service providers are contractually required to maintain the confidentiality of the information WaveMaker provides. 
 
-While we make every effort to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third-party "hackers" from illegally obtaining this information.
+**Legal Disclosures**
 
-**"Cookies" and How Aspect1 Uses Them**  
-A "cookie" is a small data file that can be placed on your hard drive when you visit certain web sites. Aspect1, Inc may use cookies to collect, store, and sometimes track information for statistical purposes to improve the products and services we provide and to manage our telecommunications networks. These cookies do not enable third parties to access any of your customer information. Additionally, be aware that if you visit non-Aspect1 web sites where you are prompted to log-in or that are customizable, you may be required to accept cookies. Advertisers and partners may also use their own cookies. We do not control use of these cookies and expressly disclaim responsibility for information collected through them.
+WaveMaker reserves the right to analyze personal information on an individual basis to resolve problems with our site and to disclose personal information as required by United States Federal, state and local law, regulation or court order. WaveMaker may disclose or report personal information in limited circumstances where WaveMaker believe in good faith that disclosure is required under the law. WaveMaker may be required to disclose personal information to cooperate with regulators or law enforcement authorities, to comply with a legal process such as a court order, subpoena, search warrant, or a law enforcement request. WaveMaker makes no representations or warranties that the service complies with privacy laws and regulations, if any, that apply to your use of the service, and you agree that WaveMaker has no responsibility to monitor or ensure that your use of the service satisfies the privacy laws or regulations of your jurisdiction. You hereby indemnify and hold WaveMaker harmless for any use of the service by you that does not comply with applicable privacy laws, regulations and court orders.
 
-**Email**  
-We do not release, rent, or sell any email addresses of customers or prospects to any entity outside Aspect1, Inc. At marketing events, we assume that people providing their email addresses are opting in to receive email messages from us. Therefore, we do not include an email opt-out option when collecting event leads.
+**Credit Cards**
 
-**Registration Forms**  
-This site may ask you to complete a registration form if you choose to obtain additional information on our products, technology, and services. Therefore, these forms may require that you include various types of contact information. We do no distribute this contact information to any parties outside Aspect1, Inc. 
+When you subscribe to a WaveMaker service requiring a fee, you may provide your billing address and your credit card information, including credit card number and expiration date. Credit card information is used solely for the purpose of billing you for the WaveMaker service. Credit card and purchase order information are not shared with third parties except as required to process payments. Our employees are instructed and required to safeguard your credit card information. Using physical, electronic and procedural safeguards, WaveMaker limits access to personal information to those employees and agents for business purposes only. We may use internal and external resources to review the adequacy of our security procedures. 
 
-**Disclosure**  
-Aspect1 will not sell, trade, or disclose to third parties any customer identifiable information derived from the registration for or use of an Aspect1, Inc. online service -- including customer names and addresses -- without the consent of the customer (except as required by subpoena, search warrant, or other legal process or in the case of imminent physical harm to the customer or others). When Aspect1, Inc. uses other agents, contractors or companies to perform services on its behalf, Aspect1, Inc. will ensure that the company protects your customer identifiable information consistent with this Policy. If Aspect1, Inc. includes your name and any other customer identifiable information in a directory that is created from information we receive as an online service provider, we will give you the opportunity to have your information excluded from that directory. Business directories that Aspect1, Inc. creates may, however, contain information obtained from other sources.
+**Additional Questions**
 
-**How Do We Protect Information We Collect?**   
-We offer secure web pages to collect certain kinds of user information and we store certain kinds of data in encrypted form. We follow reasonable technical and management practices to help protect the confidentiality, security and integrity of data stored on our system. While no computer system is completely secure, we believe the measures implemented by our Site reduce the likelihood of security problems to a level appropriate to the type of data involved. 
+If you have privacy-related questions that are not addressed above, please contact WaveMaker at the following address:
 
-**External Links**  
-Aspect1, Inc. is not responsible for the privacy policies or contents of any external web sites accessed by links on our site.
+WaveMaker Software  
+Attn: Privacy Administrator  
+301 Howard St, Suite 2200   
+San Francisco, CA 94105
 
-**Our Commitment to Children's Privacy**  
-Protecting children's privacy is especially important to us. It is our policy to comply with the Children's Online Privacy Protection Act of 1998 and all other applicable laws. We believe that there is no substitute for proper parental supervision. Aspect1, Inc. recommends that children ask a parent for permission before sending personal information to Aspect1, Inc. or to anyone else online.
+Or by email:   
+[support@wavemaker.com](mailto:support@wavemaker.com)
 
-**How to Access or Modify Your Information**  
-Aspect1, Inc. offers Members the opportunity to access or modify information provided during registration. To access or modify such information: www.aspect1.net and click "My Account" or contact our Customer Service Department at 800-800-6613.
+Effective August 1, 2005  
 
-**Where to Direct Questions About Aspect1's Privacy Policy**  
-If you have any questions about this Privacy Policy or the practices described herein, you may contact:
-
-Customer Service  
-Aspect1, Inc.  
-P.O. Box 160  
-Flagstaff, AZ 86002  
-or support@aspect1.com
-
-**Revisions to This Policy**  
-Aspect1, Inc reserves the right to revise, amend, or modify this policy, our Internet Service Agreement and our other policies and agreements at any time and in any manner. We will post any changes to this privacy policy to this page.
-
-Rev. 02/26/04
