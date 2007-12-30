@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the all-hotels.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624032201id_/http%3A//www.all-hotels.com/about_us/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the all-hotels.com privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230071331id_/http%3A//www.all-hotels.com/about_us/privacy.htm) for the most accurate reproduction.*
 
 # help and info - faq menu page
 
@@ -9,7 +9,7 @@ All-Hotels regards the privacy and security of our customer's information as an 
 When you make a reservation you will be asked to provide information such as name, contract details and credit card information. You also have the option to join all-hotels.com where you can choose to store your contact information and hotel, currency and destination preferences. At any time, you may update your preferences and contact information. 
 
 **What this site does with the information it gathers/tracks**   
-For some hotels your credit card details are taken as a guarantee of reservation and All-Hotels will charge a £2.95 (equivalent to $4.95) non-refundable service fee to your credit card at the time of booking. For other hotels you pay us via your credit card at time of booking and there is no service charge. Look for information under the heading _Payment Method_ to determine when payment is made. If it says "Guarentee Only" payment is made at the hotel on departure.  
+For some hotels your credit card details are taken as a guarantee of reservation and All-Hotels will charge a $4.95 non-refundable service fee to your credit card at the time of booking. For other hotels you pay us via your credit card at time of booking and there is no service charge. Look for information under the heading _Payment Method_ to determine when payment is made. If it says "Guarentee Only" payment is made at the hotel on departure.  
 As for optional membership, the information that you provide makes booking on all-hotels.com easier for you: contact information allows your booking form to be completed automatically; hotel preferences allow you to match hotels with your specific requirements; currency preferences will display hotel rates in the currency of your choice; destination preferences will default the location used for your availability searches. 
 
 **Email a friend**   
