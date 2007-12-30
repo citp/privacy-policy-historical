@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sfmoma.org privacy policy that was archived on 2007-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070612094708id_/http%3A//www.sfmoma.org/info/about_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sfmoma.org privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230033621id_/http%3A//www.sfmoma.org/info/about_privacy.html) for the most accurate reproduction.*
 
 # SFMOMA | Info | Privacy Policy
 
