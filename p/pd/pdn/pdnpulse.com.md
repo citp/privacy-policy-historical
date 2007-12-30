@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pdnpulse.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617031351id_/http%3A//www.nielsenbusinessmedia.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdnpulse.com privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230213716id_/http%3A//www.nielsenbusinessmedia.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Nielsen Business Media
 
-**Revised March 2007**
+**Revised December 2007**
 
 This site is part of the NIELSEN BUSINESS MEDIA ("Nielsen") network of web sites. Please note that NIELSEN does not pass personally identifiable information of our users to DoubleClick.
 
@@ -20,14 +20,14 @@ In our effort to provide personalization and opportunities for prizes and servic
 
 The information NIELSEN collects is used in a variety of ways: for internal review; to improve the content of the site, thus making your user experience more valuable; to notify you about updates to the service; and to let you know about products and services that you may be interested in.
 
-**Email:** If you have provided us your email address, NIELSEN periodically sends promotional emails to its subscribers about services offered by NIELSEN and its partners. If you do not wish to receive email information from NIELSEN, please let us know by emailing us at: [removeme@vnuemedia.com](mailto:removeme@vnuemedia.com) or by writing us at NIELSEN BUSINESS MEDIA, 770 Broadway, 6th Floor, New York, NY 10003.   
+**Email:** If you have provided us your email address, NIELSEN periodically sends promotional emails to its subscribers about services offered by NIELSEN and its partners. If you do not wish to receive email information from NIELSEN, please let us know by emailing us at: [removeme@nielsen.com](mailto:removeme@vnuemedia.com) or by writing us at NIELSEN BUSINESS MEDIA, 770 Broadway, New York, NY 10003.   
 
 
 The "email this article" feature is an easy way for you to send articles through email. The email addresses that you supply to use this service will not be used for any other purpose without your consent. 
 
 **With whom does NIELSEN share the information it gathers/tracks?**
 
-From time to time we share this information with other reputable organizations for marketing purposes or the information is used by NIELSEN to contact consumers for its own marketing endeavors. As a valued consumer, we offer you the opportunity to "opt out", or request not to accept these marketing opportunities. If at any time you change your mind and do not want NIELSEN to share your email address or home address with other companies and/or organizations, or would simply like to be removed from the list, please let us know by emailing us at: [removeme@vnuemedia.com](mailto:removeme@vnuemedia.com) or by writing us at NIELSEN BUSINESS MEDIA, 770 Broadway, 6th Floor, New York, NY 10003.
+From time to time we share this information with other reputable organizations for marketing purposes or the information is used by NIELSEN to contact consumers for its own marketing endeavors. As a valued consumer, we offer you the opportunity to "opt out", or request not to accept these marketing opportunities. If at any time you change your mind and do not want NIELSEN to share your email address or home address with other companies and/or organizations, or would simply like to be removed from the list, please let us know by emailing us at: [removeme@nielsen.com](mailto:removeme@vnuemedia.com) or by writing us at NIELSEN BUSINESS MEDIA, 770 Broadway, New York, NY 10003.
 
 **Sweepstakes/Contests**
 
@@ -47,11 +47,11 @@ NIELSEN is committed to the safety of our children. Children under 18 may not pa
 
 **Your Consent**
 
-By using our Web site, you consent to the collection and use of the information described in this Privacy Policy by NIELSEN. Once again, if you do not wish us to share this information with other reputable companies that we think you might be interested in, please let us know by emailing us at [removeme@vnuemedia.com](mailto:removeme@vnuemedia.com).
+By using our Web site, you consent to the collection and use of the information described in this Privacy Policy by NIELSEN. Once again, if you do not wish us to share this information with other reputable companies that we think you might be interested in, please let us know by emailing us at [removeme@nielsen.com](mailto:removeme@vnuemedia.com).
 
 **Questions?**
 
-We welcome your questions and/or comments. Please send all queries to [webmaster@vnuemedia.com](mailto:webmaster@vnuemedia.com).  
+We welcome your questions and/or comments. Please send all queries to [webmaster@nielsen.com](mailto:webmaster@vnuemedia.com).  
 
 
 |  
