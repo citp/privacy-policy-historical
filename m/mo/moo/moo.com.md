@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the moo.com privacy policy that was archived on 2007-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070616064302id_/http%3A//www.moo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moo.com privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230070729id_/http%3A//www.moo.com/privacy) for the most accurate reproduction.*
 
-# moo | we love to print
+# MOO.com | Privacy Policy
 
 MOO Print Ltd - Privacy Policy  
 OPENING STATEMENT:
@@ -10,6 +10,8 @@ Welcome to www.moo.com the on-demand print website operated by MOO Print Ltd (â€
 MOO Print Ltd recognises that your privacy is very important to you and that it is your right to control your personal information. We know that providing personal information is an act of trust and we take that trust seriously. MOO Print Ltd will never sell, rent or otherwise disclose any of your personal information, including your email address, to any third party without your prior and explicit consent. Unless you give us specific consent to act otherwise, the following privacy policy will govern how MOO Print Ltd handles the personal information that you provide to us.
 
 This is a legal document that sets out how MOO Print Ltd handles data that identifies you. You should read it in conjunction with the MOO Print Ltd Terms and Conditions of which this Privacy Policy forms part.
+
+Access to this notice is provided at the bottom of every page on our website and at every point where personally identifiable information may be required
 
 FULL POLICY STATEMENT:
 
@@ -52,6 +54,10 @@ A unique ID is stored in a permanent cookie so that you do not need to retype in
 Your web browserâ€™s session identification is stored in a temporary cookie to help prevent unauthorised use of your account.
 
 More detailed information on cookies may be found in the Help section of your web browser.
+
+Our commitment to the privacy of children
+
+Protecting the privacy of the very young is extremely important to us. No part of our website is structured to attract anyone under 13. We never seek to collect or maintain information at our website from those under the age of 13, but if it comes to our attention that we have received information about a child under the age of 13 that information will be immediately deleted from our records. [See Terms & Conditions](http://www.moo.com/terms-conditions#tcheadings).
 
 Information Sharing And Disclosure
 
