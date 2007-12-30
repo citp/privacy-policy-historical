@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stuffedpetite.com privacy policy that was archived on 2007-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070513185534id_/http%3A//stuffedpetite.com/MCE/default/1/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stuffedpetite.com privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230021029id_/http%3A//stuffedpetite.com/MCE/default/1/privacy) for the most accurate reproduction.*
 
 # Stuffed Petite Public :: Privacy Page
 
