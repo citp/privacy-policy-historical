@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the delhionline.in privacy policy that was archived on 2007-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070506190238id_/http%3A//www.panindia.in/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the delhionline.in privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230103008id_/http%3A//www.panindia.in/privacypolicy.asp) for the most accurate reproduction.*
 
 # Pan India Corporation - Privacy Policy
 
@@ -22,4 +22,4 @@ Our policy discloses the privacy practices for our own web site only. Our site p
 
 **Questions**
 
-If you have questions about this policy, please [contact us](https://web.archive.org/web/20070506190238id_/http%3A//www.panindia.in/contact.asp).
+If you have questions about this policy, please [contact us](https://web.archive.org/web/20071230103008id_/http%3A//www.panindia.in/contact.asp).
