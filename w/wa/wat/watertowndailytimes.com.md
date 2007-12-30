@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the watertowndailytimes.com privacy policy that was archived on 2007-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070503202545id_/http%3A//www.watertowndailytimes.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watertowndailytimes.com privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230054813id_/http%3A//www.watertowndailytimes.com/privacy.php) for the most accurate reproduction.*
 
 # Watertown Daily Times: Covering Northern New York's Jefferson, Lewis, and St. Lawrence Counties
 
@@ -51,6 +51,6 @@ If you have any questions, comments or concerns about our Privacy Policy, you ma
 
 |  | 
 
-Jefferson Community College offices will close at 3:45 p.m. Friday so faculty and staff can attend the annual recognition celebration at 4 p.m. in the courtyard.
+Members of the Jefferson County Legislature will be sworn in at noon Wednesday in their chambers at the former Jefferson County Courthouse, 195 Arsenal St.
 
-[more »](https://web.archive.org/web/20070503202545id_/http%3A//www.watertowndailytimes.com/news_paragraphs.php)
+[more »](https://web.archive.org/web/20071230054813id_/http%3A//www.watertowndailytimes.com/news_paragraphs.php)
