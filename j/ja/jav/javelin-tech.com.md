@@ -1,21 +1,16 @@
-> *The following text is extracted and transformed from the javelin-tech.com privacy policy that was archived on 2006-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061219193947id_/http%3A//www.javelin-tech.com/index/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the javelin-tech.com privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230225954id_/http%3A//www.javelin-tech.com/main/company/privacy_policy.htm) for the most accurate reproduction.*
 
-# Javelin Technologies Inc - CAD/CAM/CAE/PLM/Education Products & Services
+# Privacy Policy - Privacy Practices for Javelin Website & Electronic Communications
 
-  | 
-
-####   
-**Privacy Practices**
+## Privacy Practices for Javelin Website & Electronic Communications 
 
 Welcome to this website, a service of Javelin Technologies Inc. This statement discloses the privacy practices for this website, including an explanation of which personally identifiable information of yours is collected; the organization collecting the information; how the information is used; with whom the information may be shared; which choices are available to you regarding collection, use and distribution of the information; the kind of security procedures that are in place to protect the loss, misuse or alteration of information; and how you can correct any inaccuracies in the information. 
 
-Questions regarding this statement should be directed to Javelin through one of the feedback forms you will find on the website, or by sending a notice by mail to Javelin Technologies Inc., Suite 700, 700 Dorval Drive, Oakville, Ontario, 
+Questions regarding this statement should be directed to Javelin through one of the feedback forms you will find on the website, or by sending a notice by mail to Javelin Technologies Inc., Suite 700, 700 Dorval Drive, Oakville, Ontario, L6K 3V3.
 
-L6K 3V3.
+### **Information Collection and Use**
 
-#### **Information Collection and Use**
-
-The information made available to Javelin falls into two categories: (1) information voluntarily supplied by visitors to the website and (2) tracking information recorded as visitors navigate through the website. 
+The information made available to Javelin falls into two categories: (1) information voluntarily supplied by visitors to the website and (2) tracking information recorded as visitors navigate through the website.
 
 To make use of some features on our website visitors may need to register and provide certain information as part of the registration or request process. We may ask, for example, for your name, title, company, address, contact numbers, email address, and postal code. The information you supply will help us to offer you more personalized features, to tailor our website to your interests and make it more useful to you.
 
@@ -27,11 +22,10 @@ We use cookies to help us tailor our website to your needs, to deliver a better,
 
 In connection with the standard operation of Javelin's website, certain non-personally identifiable information about visitors to this website is recorded. This information is used primarily to tailor and enhance visitors' experience using the website. We may use this information in an aggregate, non-personally identifiable form to, among other things, measure the use of our website and determine which products and services are the most popular with website visitors. 
 
-#### **Declining Email Offers**
+### **Declining E-mail Offers**
 
 Although most customers appreciate receiving notices from us, we appreciate the importance of providing you with choices. You may request to "Unsubscribe" at any time after receiving an email from Javelin. All email offers that you receive from Javelin will instruct you how to decline further email from us. 
 
-####   
-**Other Websites**
+### **Other Websites**
 
 To make our website more valuable to our visitors, we may offer some features in conjunction with other providers. Our website may also include links to other websites whose privacy policies we don't control. Once you leave our website (you can tell where you are by checking the address -- known as a URL -- in the location bar on your browser), use of any information you provide is governed by the privacy policy of the operator of the website you're visiting. That policy may differ from ours. If you can't find the privacy policy of any of these websites via a link from the site's homepage, you should contact the website directly for more information. 
