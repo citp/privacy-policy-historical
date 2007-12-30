@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jackson.com privacy policy that was archived on 2007-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070502062036id_/http%3A//www.jackson.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jackson.com privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230075055id_/http%3A//www.jackson.com/privacy.html) for the most accurate reproduction.*
 
 # Jackson, Mississippi Guide to Local Hotels, Lodging, Restaurants, Real Estate, Car Rentals and Area Information
 
@@ -51,7 +51,7 @@ We may also use your email address to send you updates or news regarding our sit
 
 Browser-type related information, IP address, requested URL, referring URL, and timestamp data help us diagnose problems with our server, administer, and otherwise provide the highest possible level of service to you. In addition, we use this information to perform statistical analyses of user behavior and characteristics in order to measure interest in and use of the various areas of the site and to inform advertisers of such information as well as the number of users that have been exposed to, or clicked on, their advertising banners. 
 
-We may use third-party business partners to serve ads when you visit our Website. We may transfer to third party business partners or allow the collection by third party business partners of certain types of non-Personal Information for the purpose of providing you with advertisements on this Website and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here <http://www.networkadvertising.org/optout_nonppii.asp>
+We may use third-party business partners to serve ads when you visit our Website. We may transfer to third party business partners or allow the collection by third party business partners of certain types of non-Personal Information for the purpose of providing you with advertisements on this Website and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here <http://www.zedo.com/company/optout.htm>.
 
 Disclosure of Personal Information 
 
