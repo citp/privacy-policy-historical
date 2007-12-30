@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mbtrading.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630175828id_/http%3A//www.mbtrading.com/disc0.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mbtrading.com privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230141525id_/http%3A//www.mbtrading.com/disc0.asp) for the most accurate reproduction.*
 
-# MB Trading Direct Access Brokerage Firm | MBTrading.com
+# Online Stock Trading | MB Trading Direct Access Brokerage Firm
 
 |    
 Please read this carefully. It provides information about the privacy policy of MB Trading, MB Trading Futures, Inc., and 3DForex, LLC, (collectively referred to as "we," "us," and "our" throughout this policy), which are affiliates under common control. This privacy policy concerns nonpublic personal information about current and former accountholders. 
