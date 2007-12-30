@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ufcu.org privacy policy that was archived on 2007-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070630183822id_/http%3A//ufcu.org/about/privacy/index.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ufcu.org privacy policy that was archived on 2007-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071230065948id_/http%3A//www.ufcu.org/about/privacy/index.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US"><head>
 					<title>Privacy Policy</title>
@@ -22,37 +22,34 @@
 			(
 				function()
 				{
-					var urlPrefix = new String( window.location.href.match( /^https?:\/\/[^\/]+/i ) );
-					var escapedUrlPrefix = urlPrefix.replace( /(\.|\?|\*|\$|\\|\/)/g, "\\$1" );
-					var siteMatchRegEx = new RegExp( "^" + escapedUrlPrefix, "i" );
+					var safeSiteRegEx = new RegExp( "^https?:\/\/(ondemand\\.ufcu\\.org|(www\\.)\?ufcu\\.org)", "i" );
+					var ignoreRedirectRegEx = new RegExp( "^https?:\/\/(www\\.)\?ufcu\\.org", "i" );
 
 					var anchors = document.getElementsByTagName( "a" );
 
-					for ( var counter = 0; counter < anchors.length; counter++ )
-					{
+					for ( var counter = 0; counter < anchors.length; counter++ )						{
 						var anchor = anchors[ counter ];
 
-						if ( /^https?:\/\//i.test( anchor.href ) )
-						{
-							if ( !siteMatchRegEx.test( anchor.href ) )
+						if ( /^https?:\/\//i.test( anchor.href ) )							{
+							if ( !/gateway|redirect\.php/i.test( anchor.href ) )
 							{
-								if ( !/gateway\.php/i.test( anchor.href ) )
+								if ( !safeSiteRegEx.test( anchor.href ) )
 								{
-									if ( typeof( anchor.className ) != "undefined" && anchor.className != "" ) anchor.className += " external";
+									if ( typeof( anchor.className ) != "undefined" && anchor.className != "" )
+									{
+										if ( /thickbox/i.test( anchor.className ) ) continue;
+										else anchor.className += " external";
+									}
 									else anchor.className = "external";
 
 									anchor.title = "Off-site link";
+								}
 
-									anchor.onmousedown = function() { this.href = "/redirect.php?url=" + escape( this.href ); this.onmousedown=""; return true; }
+								if ( !ignoreRedirectRegEx.test( anchor.href ) )
+								{
+									anchor.onmousedown = function() { if ( typeof( urchinTracker ) != "undefined" ) urchinTracker( "/redirect.php?url=" + this.href ); this.href = "/redirect.php?url=" + escape( this.href ); this.onmousedown=""; return true; }
 								}
 							}
-
-							/*
-							if ( anchor.nodeName == "A" && anchor.className== "external" )
-							{
-								anchor.onmousedown = function() { this.href = "/redirect.php?url=" + this.href; this.onmousedown=""; return true; }
-							}
-							*/
 						}
 					}
 				}
@@ -68,70 +65,71 @@
 				<div id="shade_mid">
 							<div id="container">
 			<div id="nav_tp">
-	<form method="get" action="http://search.atomz.com/search/" name="searchform" id="searchform">
-				<a href="/accounts/member/rates/index.php?loc=tnav" style="margin-right: 1em;">Rates</a>
-		<a href="/about/contact/locations/index.php?loc=tnav" style="margin-right: 1em;">Locations</a>
-		<a href="/about/contact/index.php?loc=tnav" style="margin-right: 1em;">Contact Us</a>
-		<a href="https://ondemand.ufcu.org/" style="margin-right: 1em;" class="external" title="Off-site link">Account Login</a>
-		<a href="https://www.ufcu.org/forms/mbr_app.php?loc=tnav" style="margin-right: 1em;" class="external" title="Off-site link">Join</a>
-		<a href="/tools/help/index.php?loc=tnav" style="margin-right: 0;">Help</a>
+	<form method="get" action="https://search.atomz.com/search/" name="searchform" id="searchform">
+				<a href="/accounts/member/rates/index.php?loc=tnav" style="margin-right: 1em;" class="external" title="Off-site link">Rates</a>
+		<a href="/about/contact/locations/index.php?loc=tnav" style="margin-right: 1em;" class="external" title="Off-site link">Locations</a>
+		<a href="/about/contact/index.php?loc=tnav" style="margin-right: 1em;" class="external" title="Off-site link">Contact Us</a>
+		<a href="https://ondemand.ufcu.org/" style="margin-right: 1em;">Account Login</a>
+		<a href="https://www.ufcu.org/forms/mbr_app.php?loc=tnav" style="margin-right: 1em;">Join</a>
+		<a href="/tools/help/index.php?loc=tnav" style="margin-right: 0;" class="external" title="Off-site link">Help</a>
 		<input name="sp-q" type="text" id="search" class="field">
 		<input type="hidden" name="sp-a" value="sp1000cb15">
 		<input name="search_btn" type="image" id="search_btn" class="btn" src="/i/btn/search.gif" alt="Search">
 	</form>
 </div>
-			<div id="nav_mn"><ul><li id="mhome" class="first"><a href="/index.php?loc=menu">HOME</a></li><li id="maccounts"><a href="/accounts/index.php?loc=menu" onmouseover="Layers('nav2menu','','show')" onmouseout="Layers('nav2menu','','hide')">ACCOUNTS &amp; SERVICES</a></li><li id="mlearning"><a href="/learning/index.php?loc=menu" onmouseover="Layers('nav3menu','','show')" onmouseout="Layers('nav3menu','','hide')">LEARNING CENTER</a></li><li id="mtools"><a href="/tools/index.php?loc=menu" onmouseover="Layers('nav4menu','','show')" onmouseout="Layers('nav4menu','','hide')">TOOLS</a></li><li id="mabout"><a href="/about/index.php?loc=menu" onmouseover="Layers('nav5menu','','show')" onmouseout="Layers('nav5menu','','hide')">ABOUT UFCU</a></li></ul></div>
+			<div id="nav_mn"><ul><li id="mhome" class="first"><a href="/index.php?loc=menu" class="external" title="Off-site link">HOME</a></li><li id="maccounts"><a href="/accounts/index.php?loc=menu" onmouseover="Layers('nav2menu','','show')" onmouseout="Layers('nav2menu','','hide')" class="external" title="Off-site link">ACCOUNTS &amp; SERVICES</a></li><li id="mlearning"><a href="/learning/index.php?loc=menu" onmouseover="Layers('nav3menu','','show')" onmouseout="Layers('nav3menu','','hide')" class="external" title="Off-site link">LEARNING CENTER</a></li><li id="mtools"><a href="/tools/index.php?loc=menu" onmouseover="Layers('nav4menu','','show')" onmouseout="Layers('nav4menu','','hide')" class="external" title="Off-site link">TOOLS</a></li><li id="mabout"><a href="/about/index.php?loc=menu" onmouseover="Layers('nav5menu','','show')" onmouseout="Layers('nav5menu','','hide')" class="external" title="Off-site link">ABOUT UFCU</a></li></ul></div>
 					<div id="nav2menu" onmouseover="Layers('nav2menu','','show')" onmouseout="Layers('nav2menu','','hide')" class="flyout">
 <ul class="menus">
 				
-			<li><a href="/accounts/checking/index.php?loc=menu">Checking Accounts</a></li>
-		<li><a href="/accounts/savings/index.php?loc=menu">Savings Accounts</a></li>
-		<li><a href="/accounts/loans/index.php?loc=menu">Loans</a></li>
-		<li><a href="/accounts/insurance/index.php?loc=menu">Insurance</a></li>
-		<li><a href="/accounts/credit_cards/index.php?loc=menu">Credit Cards</a></li>
-		<li><a href="/accounts/investments/index.php?loc=menu">Investments</a></li>
-		<li><a href="/accounts/small_business/index.php?loc=menu">Small Business Services</a></li>
-		<li><a href="/accounts/value_packages/index.php?loc=menu">Value Packages</a></li>
-		<li><a href="/accounts/member/index.php?loc=menu">Member Services</a></li>
+			<li><a href="/accounts/checking/index.php?loc=menu" class="external" title="Off-site link">Checking Accounts</a></li>
+		<li><a href="/accounts/savings/index.php?loc=menu" class="external" title="Off-site link">Savings Accounts</a></li>
+		<li><a href="/accounts/loans/index.php?loc=menu" class="external" title="Off-site link">Loans</a></li>
+		<li><a href="/accounts/insurance/index.php?loc=menu" class="external" title="Off-site link">Insurance</a></li>
+		<li><a href="/accounts/credit_cards/index.php?loc=menu" class="external" title="Off-site link">Credit Cards</a></li>
+		<li><a href="/accounts/investments/index.php?loc=menu" class="external" title="Off-site link">Investments</a></li>
+		<li><a href="/accounts/small_business/index.php?loc=menu" class="external" title="Off-site link">Small Business Services</a></li>
+		<li><a href="/accounts/value_packages/index.php?loc=menu" class="external" title="Off-site link">Value Packages</a></li>
+		<li><a href="/accounts/member/index.php?loc=menu" class="external" title="Off-site link">Member Services</a></li>
 					</ul></div>
 				<div id="nav3menu" onmouseover="Layers('nav3menu','','show')" onmouseout="Layers('nav3menu','','hide')" class="flyout">
 <ul class="menus">
 				
-			<li><a href="/learning/college/index.php?loc=menu">Student Center</a></li>
-		<li><a href="/learning/investing/index.php?loc=menu">Building Wealth</a></li>
-		<li><a href="/learning/credit/index.php?loc=menu">Credit</a></li>
-		<li><a href="/learning/vehicle/index.php?loc=menu">Vehicle Ownership</a></li>
-		<li><a href="/learning/home/index.php?loc=menu">Home Ownership</a></li>
-		<li><a href="/learning/privacy/index.php?loc=menu">Privacy &amp; Fraud Protection</a></li>
-		<li><a href="/learning/events/index.php?loc=menu">Upcoming Events</a></li>
-		<li><a href="/learning/spokesperson/index.php?loc=menu">UFCU's Consumer Spokesperson</a></li>
+			<li><a href="/learning/college/index.php?loc=menu" class="external" title="Off-site link">Student Center</a></li>
+		<li><a href="/learning/investing/index.php?loc=menu" class="external" title="Off-site link">Building Wealth</a></li>
+		<li><a href="/learning/credit/index.php?loc=menu" class="external" title="Off-site link">Credit</a></li>
+		<li><a href="/learning/vehicle/index.php?loc=menu" class="external" title="Off-site link">Vehicle Ownership</a></li>
+		<li><a href="/learning/home/index.php?loc=menu" class="external" title="Off-site link">Home Ownership</a></li>
+		<li><a href="/learning/privacy/index.php?loc=menu" class="external" title="Off-site link">Privacy &amp; Fraud Protection</a></li>
+		<li><a href="/learning/events/index.php?loc=menu" class="external" title="Off-site link">Upcoming Events</a></li>
+		<li><a href="/learning/spokesperson/index.php?loc=menu" class="external" title="Off-site link">UFCU's Consumer Spokesperson</a></li>
+		<li><a href="/learning/resources/index.php?loc=menu" class="external" title="Off-site link">Learning Resources</a></li>
 					</ul></div>
 				<div id="nav4menu" onmouseover="Layers('nav4menu','','show')" onmouseout="Layers('nav4menu','','hide')" class="flyout">
 <ul class="menus">
 				
-			<li><a href="/tools/forms/index.php?loc=menu">Forms</a></li>
-		<li><a href="/tools/calculators/index.php?loc=menu">Calculators</a></li>
-		<li><a href="/tools/advisor/index.php?loc=menu">Account Advisor</a></li>
-		<li><a href="/tools/switch/index.php?loc=menu">Account Switch Kit</a></li>
-		<li><a href="/tools/help/index.php?loc=menu">Help</a></li>
+			<li><a href="/tools/forms/index.php?loc=menu" class="external" title="Off-site link">Forms</a></li>
+		<li><a href="/tools/calculators/index.php?loc=menu" class="external" title="Off-site link">Calculators</a></li>
+		<li><a href="/tools/advisor/index.php?loc=menu" class="external" title="Off-site link">Account Advisor</a></li>
+		<li><a href="/tools/switch/index.php?loc=menu" class="external" title="Off-site link">Account Switch Kit</a></li>
+		<li><a href="/tools/help/index.php?loc=menu" class="external" title="Off-site link">Help</a></li>
 					</ul></div>
 				<div id="nav5menu" onmouseover="Layers('nav5menu','','show')" onmouseout="Layers('nav5menu','','hide')" class="flyout">
 <ul class="menus">
 				
-			<li><a href="/about/difference/index.php?loc=menu">The UFCU Difference</a></li>
-		<li><a href="/about/membership/index.php?loc=menu">Become a Member</a></li>
-		<li><a href="/about/contact/index.php?loc=menu">Contact Us</a></li>
-		<li><a href="/about/jobs/index.php?loc=menu">Jobs</a></li>
-		<li><a href="/about/contests/index.php?loc=menu">Contests</a></li>
-		<li><a href="/about/news/index.php?loc=menu">News Center</a></li>
-		<li><a href="/about/privacy/index.php?loc=menu">Privacy Policy</a></li>
-		<li><a href="/about/fraud/index.php?loc=menu">Fraud Policy</a></li>
+			<li><a href="/about/difference/index.php?loc=menu" class="external" title="Off-site link">The UFCU Difference</a></li>
+		<li><a href="/about/membership/index.php?loc=menu" class="external" title="Off-site link">Become a Member</a></li>
+		<li><a href="/about/contact/index.php?loc=menu" class="external" title="Off-site link">Contact Us</a></li>
+		<li><a href="/about/jobs/index.php?loc=menu" class="external" title="Off-site link">Jobs</a></li>
+		<li><a href="/about/contests/index.php?loc=menu" class="external" title="Off-site link">Contests</a></li>
+		<li><a href="/about/news/index.php?loc=menu" class="external" title="Off-site link">News Center</a></li>
+		<li><a href="/about/privacy/index.php?loc=menu" class="external" title="Off-site link">Privacy Policy</a></li>
+		<li><a href="/about/fraud/index.php?loc=menu" class="external" title="Off-site link">Fraud Policy</a></li>
 			</ul>
-</div>			<div id="hdr"><a href="/index.php"><img src="/i/ufcu_hdr_logo.gif" alt="University Federal Credit Union: Live, Learn, Prosper" width="170" height="87" border="0"></a></div>
-					<div id="hero"><img src="/i/heros/computer_hero.jpg" alt="" width="741" height="146"></div>
+</div>			<div id="hdr"><a href="/index.php" class="external" title="Off-site link"><img src="/i/ufcu_hdr_logo.gif" alt="University Federal Credit Union: Live, Learn, Prosper" width="170" height="87" border="0"></a></div>
+					<div id="hero"><img src="/i/heros/about_paddle_hero.jpg" alt="" width="741" height="146"></div>
 					<div id="content">
 				<div id="lt_col">
-					<ul class="nav_lt"><li><a href="/about/difference/index.php">The UFCU Difference</a></li><li><a href="/about/membership/index.php">Become a Member</a></li><li><a href="/about/contact/index.php">Contact Us</a></li><li><a href="/about/jobs/index.php">Jobs</a></li><li><a href="/about/contests/index.php">Contests</a></li><li><a href="/about/news/index.php">News Center</a></li><li><a href="/about/privacy/index.php" class="here">Privacy Policy</a></li><li><a href="/about/fraud/index.php">Fraud Policy</a></li></ul>				</div>
+					<ul class="nav_lt"><li><a href="/about/difference/index.php" class="external" title="Off-site link">The UFCU Difference</a></li><li><a href="/about/membership/index.php" class="external" title="Off-site link">Become a Member</a></li><li><a href="/about/contact/index.php" class="external" title="Off-site link">Contact Us</a></li><li><a href="/about/jobs/index.php" class="external" title="Off-site link">Jobs</a></li><li><a href="/about/contests/index.php" class="external" title="Off-site link">Contests</a></li><li><a href="/about/news/index.php" class="external" title="Off-site link">News Center</a></li><li><a href="/about/privacy/index.php" class="here external" title="Off-site link">Privacy Policy</a></li><li><a href="/about/fraud/index.php" class="external" title="Off-site link">Fraud Policy</a></li></ul>				</div>
 				<div id="two_col">
 							<h1 class="bline"><img src="/i/hdrs/privacy_policy.gif" alt="" width="500" height="26"></h1>
 
@@ -152,7 +150,7 @@
 			At University Federal Credit Union (UFCU), protecting your privacy and your financial assets is central to our mission. We understand it is important for you to know how we collect, retain, and use information about you. We recognize you have a right to expect your personal information remain private and secure and we commit to fully meet your expectations.
 		</p>
 		<p>
-			We are committed to providing you a broad array of competitive products and services to meet your financial needs. Sometimes that necessitates sharing pertinent information we collect about you with companies that (1) help us process transactions you initiate, and (2) help us offer you competitive financial products and services at UFCU and through UFCU Financial Services, our whollyowned affiliate. We work only with companies which agree to maintain strict confidentiality and limit use of all information we share with them. <strong>Under no circumstances do we permit companies with which we conduct business to disclose or sell nonpublic information provided to them.</strong>
+			We are committed to providing you a broad array of competitive products and services to meet your financial needs. Sometimes that necessitates sharing pertinent information we collect about you with companies that (1) help us process transactions you initiate, and (2) help us offer you competitive financial products and services at UFCU and through UFCU Financial Services or UFCU Real Estate Services, LLC, DBA Members Home Advisor, our wholly-owned affiliates. We work only with companies which agree to maintain strict confidentiality and limit use of all information we share with them. <strong>Under no circumstances do we permit companies with which we conduct business to disclose or sell nonpublic information provided to them.</strong>
 		</p>
 		<h3>
 			Information We Collect and Disclose About You
@@ -187,7 +185,7 @@
 			“Opt-Out” Options
 		</h3>
 		<p>
-			If you want to limit disclosure of personal information as described in this notice, please complete <a href="https://www.ufcu.org/forms/email_opt_out.php" );="" ?="" class="external" title="Off-site link">"&gt;UFCU’s Opt-Out Form</a>.
+			If you want to limit disclosure of personal information as described in this notice, please complete <a href="https://www.ufcu.org/forms/email_opt_out.php">UFCU’s Opt-Out Form</a>.
 		</p>
 
 						</div>
@@ -201,7 +199,7 @@
 									<a href="http://www.ncua.gov/" class="external external" title="Off-site link"><img src="/i/ncua_logo.gif" alt="" width="166" height="20" border="0"></a><br>
 					<a href="http://www.hud.gov/offices/fheo/index.cfm" class="external external" title="Off-site link"><img src="/i/eho_logo.gif" alt="" width="64" height="20" border="0"></a>
 								</span>
-			<span id="rt_ftr"><a href="/about/privacy/index.php">Privacy Policy</a> | <a href="/sitemap.php">Site Map</a></span>
+			<span id="rt_ftr"><a href="/about/privacy/index.php" class="external" title="Off-site link">Privacy Policy</a> | <a href="/sitemap.php" class="external" title="Off-site link">Site Map</a></span>
 			<span id="md_ftr">
 				University Federal Credit Union • PO Box 9350 • Austin, TX 78766-9350<br>
 				Austin: (512) 467-8080 • Galveston: (409) 797-3300 • US Toll-free: (800) 252-8311<br>
