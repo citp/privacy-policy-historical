@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inventnow.org privacy policy that was archived on 2007-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070506053050id_/http%3A//inventnow.org/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inventnow.org privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230204923id_/http%3A//www.inventnow.org/privacy_policy) for the most accurate reproduction.*
 
 # InventNow.org - Privacy Policy
 
@@ -52,4 +52,4 @@ For the creators of Inventnow.org, learning and fun come first. Therefore, we ha
 
 
 
-If you have any specific questions about the inventnow.org site or privacy policy, please contact us.(email link to For more about the Ad Council's mission, please visit [www.adcouncil.org](http://www.adcouncil.org/), for information about The National Inventors Hall of Fame Foundation (NIHFF), please visit http://www.invent.org/ and for more info on the United States Patent and Trademark Office (USPTO), please visit [www.uspto.gov](http://www.invent.org/)
+If you have any specific questions about the inventnow.org site or privacy policy, please contact us.(email link to For more about the Ad Council's mission, please visit [www.adcouncil.org](http://www.adcouncil.org/), for information about The National Inventors Hall of Fame Foundation (NIHFF), please visit http://www.invent.org/ and for more info on the United States Patent and Trademark Office (USPTO), please visit [www.uspto.gov](http://www.uspto.gov/). 
