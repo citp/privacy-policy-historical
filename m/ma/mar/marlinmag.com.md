@@ -1,171 +1,116 @@
-> *The following text is extracted and transformed from the marlinmag.com privacy policy that was archived on 2007-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070316172031id_/http%3A//www.marlinmag.com/article.jsp%3FID%3D8222) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marlinmag.com privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230043702id_/http%3A//www.marlinmag.com/article.jsp%3FID%3D8222) for the most accurate reproduction.*
 
 # Marlin - Privacy Policy
 
-**Privacy Policy**
+At Bonnier Corporation, your privacy is important to us. This Privacy Policy applies to [all of the products, services, and websites ](http://bonniercorp.com/)offered by Bonnier Corporation and its [subsidiaries or affiliated companies](http://bonniercorp.com/) (collectively, "Bonnier").
 
-This website ("Company Website") is operated by Bonnier Corporation. ("Company") and this policy applies to all websites owned, operated, controlled and otherwise made available by Company, its affiliates and supported organizations (including, but not limited to, mirrored, co-branded, sub domains, micro sites, and successor sites). This policy does not cover information collected on sites linked to or from the Company's Websites.
+To better protect your privacy, we provide this notice explaining our privacy practices and the choices you can make about the way your information is collected and used by Bonnier.
 
-We reserve the right to change or modify our privacy practices that are described herein from time to time simply by posting a revised Privacy Policy on this Company Website. Any such change shall be effective immediately upon posting of the revised Privacy Policy on this Company Website. We reserve the right to make the revised or changed Privacy Policy effective for information we already have about you, as well as any information we receive in the future. We encourage you check back often to determine any changes to this Privacy Policy so that you understand our current privacy practices.  Continued access of the Website by you will constitute your acceptance of any changes or revisions to the Privacy Policy. 
+Bonnier adheres to the U.S. Department of Commerce Safe Harbor framework and the privacy principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access, and Enforcement. For more information on the framework, please visit the [Safe Harbor website. ](http://www.export.gov/safeharbor/doc_safeharbor_index.asp)
 
-**PLEASE NOTE THAT THIS PRIVACY POLICY APPLIES ONLY TO THE COMPANY'S WEBSITES AND USE OF INFORMATION AND DOES NOT APPLY TO ANY INFORMATION THAT YOU MAY PROVIDE TO US BY OTHER MEANS, SUCH AS VIA MAIL OR TELEPHONE.**
+If you have any questions about this Privacy Policy, please write to us via e-mail at [privacy@bonniercorp.com](mailto:privacy@bonniercorp.com), or at:
 
-The Company's address is: 
+Privacy Department  
+Bonnier Corporation  
+460 N. Orlando Avenue, Suite 200  
+Winter Park, FL 32789 
 
-460 North Orlando Avenue, Suite 200   
-Winter Park, FL 32789   
-United States of America 
+An overview of the information that Bonnier may collect 
 
-We may be reached via email at privacy@worldpub.net 
+You are able to take advantage of many of Bonnier's products, services, and websites without providing any information that personally identifies you.We only collect personally-identifying information when you voluntarily submit it to us. 
 
-**PARENTS AND CHILDREN UNDER THE AGE OF 13:   **
+Sometimes, we need personally-identifying information in order to provide you with the products and services that you request. Depending upon the product or service, we may ask you for a variety of personally-identifying information.This might include, for example, your name, address, e-mail address, telephone number, gender, and birth date. We may also ask for other information about you, such as your credit card information (when you are making a purchase), interests, income, or education level. We consider certain identifying information "sensitive." This includes your credit card number, income level, or any other information that would normally be considered confidential. 
 
-**THIS SITE IS NOT MEANT FOR CHILDREN UNDER THE AGE OF 13.   CHILDREN SHOULD GET THEIR PARENTS PERMISSION BEFORE VISITING THE SITE AND SHOULD NOT PROVIDE BONNIER CORPORATION ANY PERSONALLY IDENTIFIABLE INFORMATION.  SINCE BONNIER CORPORATION DOES NOT DETERMINE THE AGE OF A WEB SITE VISITOR WITHOUT PROVIDING PERSONALLY IDENTIFIABLE INFORMATION, IT IS THE RESPONSIBILITY OF THE CHILD AND PARENTS TO MAKE SURE THE CHILD IS NOT VIEWING THE WEB SITE WITHOUT PERMISSION OF THE PARENT.  ANY PERSOANLLY IDENTIFIABLE INFORMATION ENTERED SHOULD ALWAYS BE DONE BY PERSONS OVER THE AGE OF 18. **
+You may choose not to provide us with any personally-identifying information. In that case, you can still access and use many portions of Bonnier's websites; however, you will not be able to access and use those portions of any Bonnier website that require your personal information.   
 
-**SHOULD YOU BE MADE AWARE OF ANY INFORMATION BEING SENT BY BONNIER CORPORATION TO A MINOR, PLEASE CONTACT THE COMPANY TO HAVE THIS INFORMATION REMOVED.**
+Many Bonnier websites include community features, such as online forums and message boards.Information that is posted in these areas becomes public information and the use that any third party makes of this information is beyond our ability to control. You should exercise caution before disclosing any personally-identifying information in these public venues. If you elect to submit content that includes information that can be used to identify you, you must assume that the content can and will be displayed on any website on the Internet. 
 
-**Introduction**
+At some Bonnier sites and through certain promotions, you can submit personally-identifying information about other people. For example, you might submit a person's name and e-mail address to send an electronic greeting card; or, if you order a gift online or offline and want it sent directly to the recipient, you might submit the recipient's name and address.Some Bonnier websites also provide referral services to help you inform a friend about our websites, products, or services. The types of personally-identifying information that we collect about other people at pages like these may include the person's name, address, e-mail address, or telephone number.We will only ask you for the information about your friend that we need in order to do what you request. 
 
-It is the goal of our Websites to provide information around individual interests, at the same time protecting your privacy. The following privacy policy describes the information we collect, how we use it and what rights you have to it. By using this Company Website, you acknowledge and agree to the terms and conditions of this Website Privacy Policy Statement ("Privacy Policy"). If you do not agree to these terms and conditions, please do not use this Company Website.
+In some circumstances, we also collect non-personally-identifying information. When you visit a Bonnier website, we may collect information such as the type of browser you use, your operating system, your IP address, and the domain name of your Internet Service Provider.This information, by itself, does not permit individual identification, meaning that you will remain anonymous.However, if you elect to provide us with personally-identifying information during your visit, that information may be linked to your IP address. 
 
-**Information We Collect**
+When you visit our websites, we may send one or more cookies – small, removable data files – to your computer.We use cookies to uniquely identify your browser, which allows us to enhance and personalize your online experience at Bonnier websites. For example, cookies allow us to recognize you when you return to a website and present relevant content to you when you visit.Most browsers are initially set up to accept cookies, but you can configure your browser to warn you when cookies are sent, or to refuse all cookies. Some of the features and services of Bonnier websites may not operate properly if your cookies are disabled. 
 
-The Company collects personal information from you at on the Company's Websites when you voluntarily submit it to us.  The Company requests personal information from you (which may include your name, address, telephone number, email address, gender, year of birth, home address, work address, landline phone number, cell phone number, credit card number, and other personal preferences such as  preferred brands, wish list, other products and services purchased, income and education level, interests, and instant messenger information).  Following are identifiers that permit the physical or online contacting of a specific individual when you:
+Cookies, by themselves, do not provide us with any personally-identifying information. However, if you elect to provide us with personally-identifying information during your visit, that information may be linked to the data stored in the cookie. 
 
-  * Subscribe to receive email newsletters or other correspondence; 
-  * Subscribe to receive print or digital versions of one of the Company's magazines; 
-  * Complete a request, registration, survey, application or other form; 
-  * Request information on a product or service from us or from one of our vendors, suppliers or other agents; 
-  * Submit any content or materials to this Website; 
-  * Participate in a contest, sweepstakes, or any form of promotional activity sponsored by the Company, affiliate or third party. 
-  * Request materials from the Company or one of it's affiliates; and/or 
-  * Request e-mail, fax, mail or telephone support or services. 
+On our websites, we may also use tiny graphic images called pixel tags, web beacons, or clear gifs.These tiny images help us to analyze our users' online behavior and collect other data, such as page views or advertising responses.Pixel tags also allow us to send you e-mail in a format that you can read, and let us know when you have opened an e-mail message from us. Pixel tags may also be used to deliver cookies. 
 
+We work with reputable third parties that provide data tracking and collection technologies in order to: 
 
+-         Present or serve the advertisements you may see at Bonnier websites; 
 
-You will be asked for your credit card information if you subscribe to one or more of the Company's magazines or buy any other product from this Site. Your credit card information, along with the personal identifying information you submit, is transferred to and used by third party fulfillment and financial institutions to verify the credit card numbers, to authorize the processing of the transaction, and fulfill the subscription or product orders. Be sure to review all privacy policies published by our third party service providers and contact them directly if you have questions as they may have privacy terms that differ from The Company's Privacy Policy. 
+-         Deliver and track e-mail communications; 
 
-The Company's Websites sometimes may offer contests, sweepstakes, or promotions that are sponsored by or co-sponsored by one or more third parties. By virtue of a third party sponsorship, these organizations may obtain personally identifiable information that you voluntarily submit.  The Company has no control over the third-party sponsors' use of this information. Be sure to review all privacy policies published by these third parties and contact them directly if you have questions as they may have privacy terms that differ from The Company's Privacy Policy. 
+-         Process purchase orders through e-commerce transactions; 
 
-The Company also collects non-personally-identifiable information from your Web browser to determine aggregated trends and usage statistics (including, but not limited to, number of visitors, time spent on the Website, browser type and version, pages requested, and pages visited),  for purposes of site administration and to compile aggregate information about usage of the Website.  The non-personally-identifiable information that is collected will not permit individual identification, meaning you will remain anonymous.  Personally identifiable information is obtained if you elect to provide us with this information during your visit to a Company Website or during   an earlier visit or subsequent visit and we are able to link your IP address between your current visit and one of these other visits.
+-         Fulfill print and digital subscription orders; and 
 
-The Company will also work with service providers that provide tracking and data collection technologies in order to: 
+-         Provide marketing leads to third-party organizations (where you have agreed to allow us to do so). 
 
-  * Serve ads across the Company's Websites, 
-  * Deliver and track email communications; 
-  * Process purchase orders through e-commerce transactions; 
-  * Fulfill print and digital subscription orders; and 
-  * Provide marketing leads to third party organizations. 
+These companies may collect information about you on our behalf. We require that these parties agree to process any such information based on our instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures.  
 
+Bonnier websites sometimes may offer contests, sweepstakes, or promotions that are sponsored by or co-sponsored with identified third parties. By virtue of their sponsorship, these third parties may obtain personally-identifying information that visitors voluntarily submit to them in order to participate in the contest, sweepstakes, or promotion.Bonnier has no control over the third-party sponsors' use of this information. If a third-party sponsor beyond our control will obtain information that you supply us, we will notify you at the time we collect the information from you.For certain promotions, only those who provide us with the requested personally-identifying information will be able to order products, programs, and services, or otherwise participate in the promotion's activities and offerings. 
 
+Some of our websites contain links to other sites. By clicking on these links, you will leave the website operated by Bonnier and this Privacy Policy will no longer apply. These other sites' information practices may be different than ours.You should consult the other sites' privacy notices, as we have no control over information that is submitted to, or collected by, these third parties. 
 
-These companies may collect personal information about your visits to the Company's Websites and your interaction with the Website, including advertising.  
-You may choose not to provide us with any personal information. In such event, you can still access and use many portions of the Company's Websites; however, you will not be able to access and use those portions of this Company Website or the services available on or through this Company Website that require your personal information.
+How we use the information we collect 
 
-**Using Information**
+We use the personally-identifying information that you provide us to fulfill your requests for our products, programs, and services, to respond to your inquiries about offerings, and to offer you other products, programs, or services that we believe may be of interest to you.We sometimes use this information to communicate with you, such as to notify you when you have won one of our contests , when we make changes to subscriber agreements, to fulfill a request by you for an online newsletter, or to contact you about your account with us. 
 
-We may use the information we collect to:
+We may syndicate the publicly available content of our community areas to unaffiliated third-party websites, using RSS or other technologies. 
 
-  * Enhance the online customer experience, provide more relevant content and information, customize and/or personalize communications, improve page load time, deliver more relevant advertising and promotional offers, develop new products and Websites, and improve the overall site navigation and usability; 
-  * Send you Company related promotional, marketing, sales, and public relations efforts; 
-  * Provide marketing leads to third party organizations. 
-  * Respond to customer service inquiries; 
-  * Communicate about your subscription and account information or other customer service needs; 
-  * Communicate with you about our Company services, events, products, and other promotional purposes; 
-  * Improve our service; 
-  * Track your visits to the site and usage of the site; 
-  * Administer contests, promotions, surveys or other website features; 
-  * Provide technical support to you; and 
-  * Perform any other lawful acts except for those acts expressly prohibited by the terms and conditions set forth herein. 
+We will use the personally-identifying information that you provide about others only as necessary to provide the products or services that you have requested; for example, to enable us to send them your gifts or cards. If you provide us someone else's personally-identifying information for referral purposes, we may use that information to invite them to visit our websites or to provide them information about our products or services. 
 
+If you provide us with your e-mail and/or postal address, we may include that address in e-mail and/or postal address lists that we sell, trade, or rent to third parties.Before sharing your e-mail or postal address with companies not owned by Bonnier who want to market products or services to you, we will provide you with an opportunity to opt out. You may also opt out of the receipt of any marketing materials from Bonnier as detailed below. 
 
+We may transfer your sensitive personally-identifying information to other Bonnier offices for internal management and administrative purposes. In addition, your personal data will be transferred to other Bonnier offices where necessary for the performance or conclusion of our contractual obligations to you or for your benefit.Transfers of personally-identifying information may also be made where necessary for the establishment, exercise, or defense of legal claims. 
 
-**Sharing Information**
+Bonnier will only share your sensitive personal information with outside companies or individuals in any of the following limited circumstances: 
 
-Unless you opt out, we may use your registration information to send you promotional materials from the Company or a third party via email or postal mail.  If you provide the Company with your email and/or postal address, we may include that address in email and/or postal address lists that the Company either sells, trades, or rents to third parties. If you would like us to stop including your postal address in such lists, please contact us in one of the following ways: 
+-         When you consent.If we plan to share your sensitive personal information . 
 
-Mail:  BONNIER CORPORATION, Attention: Opt-Out Circulation, 460 North Orlando Avenue, Suite 200, Winter Park, FL 32789  
-Phone: (407) 628-4802             
-Fax:    (407) 628-7061  
-Email:  privacy@worldpub.net 
+-         When we use trusted businesses or persons to process personal information on our behalf.Before sharing any personal information with outside parties, we require that these parties agree to process such information based on our instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures. 
 
-In your request, please state the list you would like to be removed from the date of your request, your postal mailing address, and contact information in case we need to personally contact you in an effort to handle your request. For example, you may want to be removed from receiving information from third party organizations, but still want to receive information from Bonnier Corporation and its various brands.  You also may not want to receive any information at all. If the Company receives such a letter from you, we will remove your postal address from future postal address lists that we rent to third parties.
+-         When we have a good faith belief that access, use, preservation, or disclosure is necessary to (a) comply with applicable law, regulation, or legal process; (b) enforce the applicable Terms of Service or other agreements and policies on the Company's Websites; (c) detect, prevent, or otherwise address fraud, security, or technical issues; or (d) protect against imminent harm to the rights, property, or safety or Bonnier, its users, or the public as required or permitted by law. 
 
-We may use and/or transfer your personally identifiable information to other Company affiliates for internal management and administrative purposes. Your personal data will be transferred to other Company affiliates where necessary for the performance or conclusion of our contractual obligations to you or for your benefit. Transfers of personally identifiable information may also be made where necessary for the establishment, exercise, or defense of legal claims.
+We may also use, transfer, sell, and share aggregated, anonymous data about our users for any legal purpose, such as analyzing usage trends and seeking compatible advertisers and partners.In no event will this aggregated data contain any information that could be used to identify individual users of our products or services. 
 
-The Company will disclose your personal information to third parties in specific circumstances that include, but are not limited to, the sale of Company or any portion thereof; during the due diligence in connection with a potential sale of Company or any portion thereof; during any bankruptcy, insolvency or liquidation of Company; or in other similar circumstances. 
+How we protect the safety and integrity of the information we collect 
 
-As stated earlier, for the purpose of providing you with certain services and products and to process your requests, purchases, and payments, the Company may disclose your personal information to one or more of our affiliates, service providers or other third parties who are assisting Company in performing such services. Without limiting the foregoing, these third parties may provide Company with payment processing, shipping, data management, email distribution, live text chat, email response, market research, information analysis, and promotions management services. We provide such parties with the personal information they need to perform their respective services and we use commercially reasonable measures in an effort to require them to safeguard your personal information and limit their use of it.
+We take appropriate physical, electronic, and procedural measures to safeguard and protect your personal information.We use a variety of security measures, including encryption and authentication, to maintain the confidentiality of your personal information. We store your personal information on systems behind firewalls that are only accessible to a limited number of persons, each of whom is required to keep the information confidential. We also take appropriate measures to secure the transmission of sensitive personal information from your computer to the Company's computers.When you transmit sensitive personal information to us, like credit card information, we offer the use of a secure connection to our servers. To the extent you select the secure connection method or your browser supports such functionality, all credit card account information that you supply is transmitted via Secure Socket Layer (SSL) technology. Regardless of these measures, no system connected to the Internet or data transmission sent over the Internet can be guaranteed to be 100% secure.We will provide notice if we become aware of any security breach that may affect any sensitive personal information pertaining to you that we have stored on our systems. 
 
-The Company also may disclose personal information about you upon request by the government; in response to a court order; when required by law or when we believe in good faith that disclosure is required by law; to enforce our Privacy Policy, terms and conditions or other agreements and polices on the Company's Websites; upon your request; or to contact, identify or bring legal action against someone who may be causing injury to or interference with our or others' rights or property including, but not limited to, claims for infringement of intellectual property, trespass upon any of the Company's Web sites, invasions of privacy or situations involving threats or alleged threats to the physical safety of a person's property. We may also share information with companies assisting in fraud protection or investigation.  We do not provide information to these agencies or companies for marketing purposes.
+Bonnier's employees, agents, and contractors who have access to personally-identifying information are required to protect this information in a manner that is consistent with this Privacy Policy and may not use the information for any purpose other than to carry out the services they are performing for Bonnier.These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations. 
 
-The Company may also use, transfer, sell, and share aggregated, anonymous data about our users as a group for any legal purposes whatsoever, such as analyzing usage trends and seeking compatible advertisers and partners.
+Bonnier only collects personal information that is relevant to the purposes for which it will be used.Though we do take appropriate steps to review and update the information that we store to ensure that it is accurate, complete, and current, we also depend on you to update or correct your personal information when necessary. 
 
-**Protecting Your Information**
+You may correct or delete any or all of the personal information you have provided to us at any time. Many of our websites provide means to review and update the personal information that you have provided on that website. To inquire about personally identifiable information that Bonnier has collected about you, or about other ways to correct factual errors in that information, please e-mail us at [privacy@bonniercorp.com.](mailto:privacy@bonniercorp.com) To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections. We will decline to process requests where we cannot verify the identity of the requester. We may also decline to process requests that are automated, repetitive, systematic, or impractical, or that might jeopardize the privacy of others. 
 
-We use commercially reasonable measures in an effort to safeguard and secure your personal information while stored on our computer systems. We use a variety of security measures, including encryption and authentication tools, to maintain the confidentiality of your personal information. Your personal information that is stored by the Company is done so behind firewalls and is only accessible by a limited number of persons who are authorized to access such systems, and are required to keep the information confidential. Regardless of these efforts by us, no system connected to the Internet can be guaranteed to be 100% secure.
+In some limited circumstances, such as to resolve disputes, troubleshoot problems, and enforce our policies, we may retain some of information that you have requested us to remove.Therefore, you should not expect that all of your personal information will be completely removed from our databases in response to your requests. 
 
-We use commercially reasonable measures in an effort to safeguard and secure the transmission of your personal information from your computer to the Company's computers. When you access your personal information or place orders, we offer the use of a secure server. To the extent you select the secure server method or your browser supports such functionality, all credit account information you supply is transmitted via Secure Socket Layer (SSL) technology. Regardless of these efforts by us, no data transmission over the public Internet can be guaranteed to be 100% secure.
+We only use the information we collect for purposes consistent with this policy. If we propose to use your personal information for purposes beyond that explained in this policy, we will provide appropriate notice before doing so and we will provide you with the means to opt out of those uses.We will not use your sensitive personal information for any purposes other than those described in this Policy unless we have obtained your consent. 
 
-**Cookies and Pixel Tags**
+Your privacy options 
 
-The Company's Websites use cookies. A cookie is a small, removable data file that is stored by your Web browser on your computer. Cookies allow you to place an order on this Company Website and allow us to enhance, facilitate and personalize your online surfing and user experience. For example, we use cookies to:
+**If you prefer not to receive communications from other companies** , you may choose to remove yourself from any lists that we provide to third parties for marketing purposes by emailing us at [emailoptout@bonniercorp.com.](mailto:emailoptout@bonniercorp.com) You will still receive information from Bonnier and its various brands, but we will not share your address information with anyone else. 
 
-  * Recognize you when you return to this Company Website; 
-  * Present relevant content to you when you visit this Company Website; 
-  * Analyze visitor behavior; and 
-  * Facilitate other similar types of activities. 
+We only want to communicate with you if you want to hear from us. **If you prefer not to be contacted at all** , you may opt out of receiving any communications from us at any time by notifying us at [emailoptout@bonniercorp.com](mailto:emailoptout@bonniercorp.com). You may also notify us by sending mail to the following address: 
 
+Online Marketing Department  
+Bonnier Corporation  
+460 North Orlando Avenue, Suite 200  
+Winter Park, FL 32789
 
+In your request, please tell us what communications you would like to opt out of, what means we have been using to contact you (such as your e-mail or postal address), the date of your request, and a way to contact you in case we need to personally contact you in an effort to comply with your request. We reserve the right to send you certain communications, such as technical alerts, without offering you the opportunity to opt out of receiving them. 
 
-You can choose to have your computer warn you each time a cookie is being sent or you can choose to turn off all cookies. You do this through your Web browser settings. If you turn cookies off, you won't have access to many features that make your visits to the Company's Websites more efficient and enjoyable, and in some cases, some of our services will not function or will function with limited capability.
+Enforcement and Compliance with this Privacy Policy 
 
-The Company also uses pixel tags – tiny graphic images – to help us analyze your online behavior and information about visitors to this Company Website and our customers. Pixel tags also allow us to send you email in a format you can read and let us know when you have opened an email message from us.
+We take our Privacy Policy seriously and we regularly review our own compliance with this Policy.If you have any questions or concerns about this Policy, or if you think that we have used your personal information in a manner inconsistent with this Policy, please contact us at:
 
-**Tell a Friend**
+Privacy Department  
+Bonnier Corporation  
+460 North Orlando Ave., Suite 200  
+Winter Park, FL 32789 
 
-If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and email address. The Company collects the email address of your friend for the sole purpose of automatically sending the friend an email inviting them to visit, but does not use this information for any other purpose.
+If we receive a complaint from you, we will contact you in an attempt to address your concerns.If we are not able to resolve a complaint, we will participate in the appropriate independent recourse mechanism as necessary. 
 
-**Children's Online Privacy**
-
-This Website is not intended for use by children, especially those under age 13. No one under age 13 is allowed to provide any personal information or use our public discussion areas, forums and chats. Minors between the ages of 13 and 17 must get the permission of their parent(s) or legal guardian(s) before making purchases, including subscriptions, on this site. 
-
-If your children disclose information about themselves in publicly accessible areas of the Website, they may get unsolicited messages from other parties. Accordingly, you should tell them not to do so. 
-
-If you want to notify us of our receipt of personal information belonging to a child under the age of 13, please do so at privacy@worldpub.net 
-
-**Chat Rooms, Blogs, Forums, and Consumer Generated Media**
-
-This Company Website may now or in the future include web logs (i.e., blogs), chat rooms, forums, message boards, and/or news groups. Any information that is disclosed in these areas becomes public information. The Company may also syndicate this content using RSS or other technologies that permit the display of such content on other unaffiliated third party Websites.  You should exercise caution before disclosing your personal information via these public venues, which you do at your own risk. If you do so, you may receive, among other things, unsolicited emails or "spam" from others. Company cannot safeguard the privacy of personal information that is disclosed online in this manner.  If you elect to submit content that includes personally or non-personally identifiable information, you must assume that the content submitted to a Company Website can and may be displayed on any Website on the Internet. 
-
-**Other Websites**
-
-As stated previously, when browsing the Company's Website, you may be directed to other Websites that are beyond the control of the Company. These other Websites may use cookies and pixel tags, collect data, or solicit personal information. Even though Company may be affiliated with these Websites, we have no control over them or how they collect, distribute or otherwise use your personal information or how they safeguard and secure your personal information. Company is not responsible or liable for the conduct, policies or actions of the owners of such Websites or the content displayed on these websites. You acknowledge that accessing any Website that is linked to the Company's Websites is done at your own risk.
-
-**Unsubscribing, Removing or Modifying Your Information**
-
-We want to communicate with you only if you want to hear from us.  You may modify or delete any or all of the personal information you have provided to us at anytime.  You may unsubscribe from receiving communications from us at any time by using the link included at the bottom of each email communication. You may also unsubscribe by:
-
-Mail:  460 North Orlando Avenue, Suite 200, Winter Park, FL 32789  
-Phone: (407) 628-4802  
-Fax:    (407) 628-7061  
-Email:  privacy@worldpub.net
-
-In your communication, please state that you would like to unsubscribe, what you would like to unsubscribe from, the email address you used to subscribe, the date of your unsubscribe request, and a way to contact you in case we have any questions or issues that arise. 
-
-In some limited circumstances, such as to resolve disputes, troubleshoot problems and enforce our policies, the Company may retain in our files the information you have requested to remove. Therefore, you should not expect that all of your personal information will be completely removed from our databases in response to your requests.
-
-We reserve the right to send you certain communications related to this Company Website that are considered part of your account, such as technical alerts, without offering you the opportunity to opt out of receiving them.
-
-**Questions and Feedback**
-
-We welcome your questions, comments, and concerns about this Privacy Policy and our privacy practices. Please send us feedback pertaining to these matters or any other issue you may have with Company or this Company Website to:
-
-Bonnier Corporation
-
-Mail:  460 North Orlando Avenue, Suite 200, Winter Park, FL 32789  
-Phone: (407) 628-4802           
-Fax:    (407) 628-7061  
-Email:  privacy@worldpub.net 
-
-**Last Updated: December 6, 2006**
+This policy was last updated on November 19, 2007.
