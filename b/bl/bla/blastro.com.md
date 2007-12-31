@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blastro.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624102354id_/http%3A//www.blastro.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blastro.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231135321id_/http%3A//www.blastro.com/policy.html) for the most accurate reproduction.*
 
 # Blastro Privacy Policy
 
@@ -45,12 +45,12 @@ Should you choose to in the future, BLASTRO, INC. provides its users the opportu
 
 If you would like to cancel your registered membership, remove your information from our database and not receive future communications from us, please utilize one of the following options: Email your request to contact@blastro.com 
 
-Send your request via post to: 2301 E Street NW, A-910, Washington, DC 20037
+Send your request via post to: 609 W. 18th #C, Austin, Tx 78701
 
  **Correct/Update**  
 If you would like to change or modify information you previously provided to us, please utilize one of the following options: Email your request to [contact@blastro.com.](mailto:contact@blastro.com)
 
-Send your request via post to: 2301 E Street NW, A-910, Washington, DC 20037
+Send your request via post to: 609 W. 18th #C, Austin, Tx 78701 
 
- **Contacting the Website**  
+**Contacting the Website**  
 If you have any questions regarding this privacy statement, the practices of this site or your dealings with this Website, you may contact: [info@blastro.com](mailto:info@blastro.com)
