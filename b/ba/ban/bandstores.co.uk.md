@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bandstores.co.uk privacy policy that was archived on 2007-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070502203446id_/http%3A//www.bandstores.co.uk/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bandstores.co.uk privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231013917id_/http%3A//bandstores.co.uk/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Find out how we look after your details
 
