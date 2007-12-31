@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the battle.net privacy policy that was archived on 2007-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070615064134id_/http%3A//www.blizzard.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the battle.net privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231031905id_/http%3A//www.blizzard.com/privacy.shtml) for the most accurate reproduction.*
 
 # Blizzard Entertainment - On-Line Privacy Policy
 
@@ -41,7 +41,7 @@ Lastly, we may use your personal information for internal marketing, profiling, 
 Please be advised that personal information submitted by individuals acting solely in a business capacity (e.g., personal information contained in job applicant's resume) is not subject to the uses set forth above or to any other practices stated in this Privacy Policy. 
 
 **Who is collecting your information?**  
-When you are asked for information while on a Blizzard site, you are sharing that information with Blizzard, its parent, and its [various affiliates and sister companies](https://web.archive.org/web/20070615064134id_/http%3A//www.blizzard.com/privacy2.shtml), unless specifically stated otherwise. As a result of this sharing, you may receive communications from any of Blizzard's affiliates. In addition, some services are provided in conjunction with partner companies. If your personal information is being collected by another company other than Blizzard, you will be notified at the time the information is collected. If you do not want your information shared, you can choose not to allow the transfer of information by not using that particular service or by not providing any information at that time. 
+When you are asked for information while on a Blizzard site, you are sharing that information with Blizzard, its parent, and its [various affiliates and sister companies](https://web.archive.org/web/20071231031905id_/http%3A//www.blizzard.com/privacy2.shtml), unless specifically stated otherwise. As a result of this sharing, you may receive communications from any of Blizzard's affiliates. In addition, some services are provided in conjunction with partner companies. If your personal information is being collected by another company other than Blizzard, you will be notified at the time the information is collected. If you do not want your information shared, you can choose not to allow the transfer of information by not using that particular service or by not providing any information at that time. 
 
 Please be aware that we cannot control the activities of third parties to whom we provide data, and as such we cannot guarantee that they adhere to the same privacy and security procedures as Blizzard. 
 
