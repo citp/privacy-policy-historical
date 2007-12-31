@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotspotsystem.com privacy policy that was archived on 2007-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070319072706id_/http%3A//www.hotspotsystem.com/en/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotspotsystem.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231211439id_/http%3A//www.hotspotsystem.com/en/info/privacy.html) for the most accurate reproduction.*
 
 # HotSpotSystem.com - Privacy Policy
 
@@ -6,7 +6,7 @@ Principals of data protection
 
 HotSpotSystem.com does not collect any information through its websites that can be connected to your person (name, address, phone number or e-mail), unless you voluntarily decide to provide it to us. (by registration or answering to questionnaires). HotSpotSystem.com is organizing and storing the personal data provided by you (time of registration, chosen package) in order to operate the system. The company states that it is storing and documenting your data in order to complete your orders and to confirm your future requests. 
 
-In case of online payment we are not storing and we don’t see the card information (number of card and expiry date), because the transaction happens directly though the bank (Inter-Európa Bank).
+In case of online payment we are not storing and we don’t see the card information (number of card and expiry date), because the transaction happens directly though a payment processor (Inter-Európa Bank, WorldPay or PayPal).
 
 We are obliging ourselves, to handle the information collected by us according to the law. Upon transferring personal data to us, you agree to the registration and management of your personal data for purposes and period of time depending as essential by the nature of the service. 
 
