@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trackofthewolf.com privacy policy that was archived on 2007-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070606232942id_/http%3A//www.trackofthewolf.com/%28S%28k5d2gw55jp0a5545vlaaxy45%29%29/notices/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trackofthewolf.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231082747id_/http%3A//www.trackofthewolf.com/%28S%283wawmg4540uocd55dpk1ra55%29%29/notices/privacy.aspx) for the most accurate reproduction.*
 
 # Track of the Wolf - Privacy Policies
 
@@ -14,7 +14,7 @@ You may choose to have your computer warn you each time a cookie is sent, or you
   * Email/Feedback information is used to provide our visitors with occasional e-mail updates, about special offers, and new products. However, if you do not wish to receive these, please tell us. We will remove your e-mail address from our database. We enforce our 'no-spam' policy, that renounces unsolicited commercial email.
   * All of the customer information is protected against unauthorized access, and is available only to specially trained customer service staff members, when assisting a customer with their order.
   * This site is not intended for children, especially children under 13 years of age. Parents, please supervise your children.
-  * If you have questions about our privacy policy, please contact me, using our [on-line form](https://web.archive.org/web/20070606232942id_/http%3A//www.trackofthewolf.com/%28S%28k5d2gw55jp0a5545vlaaxy45%29%29/Feedback.aspx?Question_Type=6).
+  * If you have questions about our privacy policy, please contact me, using our [on-line form](https://web.archive.org/web/20071231082747id_/http%3A//www.trackofthewolf.com/%28S%283wawmg4540uocd55dpk1ra55%29%29/Feedback.aspx?Question_Type=6).
 
 Thank you,
 
@@ -23,5 +23,4 @@ Thank you,
 **Track of the Wolf, Inc.**
 
 
-  
 
