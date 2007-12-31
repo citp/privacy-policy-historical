@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the healthinsurance.org privacy policy that was archived on 2007-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070208234524id_/http%3A//www.healthinsurance.org/privacypolicy.lasso) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthinsurance.org privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231131538id_/http%3A//www.healthinsurance.org/privacypolicy.lasso) for the most accurate reproduction.*
 
 # The privacy policy of the Health Insurance Resource Center
 
-This Privacy Policy discloses the information privacy practices for the Web site you are currently visiting. You may contact healthinsurance.org via e-mail [through this form](https://web.archive.org/web/20070208234524id_/http%3A//www.healthinsurance.org/contact.lasso) or via postal mail at healthinsurance.org, 19350 Ireland Court, Lakeville, MN 55044.
+This Privacy Policy discloses the information privacy practices for the Web site you are currently visiting. You may contact healthinsurance.org via e-mail [through this form](https://web.archive.org/web/20071231131538id_/http%3A//www.healthinsurance.org/contact.lasso) or via postal mail at healthinsurance.org, 19350 Ireland Court, Lakeville, MN 55044.
 
 **No disclosure of your personal information**
 
