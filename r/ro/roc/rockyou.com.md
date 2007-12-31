@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rockyou.com privacy policy that was archived on 2007-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070621163215id_/http%3A//rockyou.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rockyou.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231170344id_/http%3A//www.rockyou.com/privacypolicy.php) for the most accurate reproduction.*
 
 # RockYou.com - photo sharing, MySpace slideshows, MySpace codes, MySpace music
 
@@ -83,6 +83,3 @@ This Privacy Policy was last modified February 13, 2006.
 
 Contact Information:  
 Please contact RockYou! with any questions or comments about this Privacy Policy or the RockYou! Sites by emailing support@rockyou.com. 
-
-[](https://web.archive.org/facebook/fb_stuff.php?source=msrhs)  
-[](http://www.wordpress.com/?ref=rockyou)
