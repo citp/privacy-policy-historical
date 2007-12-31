@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directmatches.com privacy policy that was archived on 2007-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070620210555id_/http%3A//directmatches.com/Privacypolicy1.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directmatches.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231155028id_/http%3A//www.directmatches.com/Privacypolicy1.asp) for the most accurate reproduction.*
 
 # DirectMATCHES :: Site
 
@@ -37,7 +37,7 @@ The security of your personal information is important to us. When you enter sen
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. 
 
 **Contact with Directmatches.com**  
-At no time will Directmatches.com ask for your username, password or personal information in an unsolicited phone call, e-mail or letter. Contact us [by using this form](https://web.archive.org/web/20070620210555id_/http%3A//directmatches.com/customer.asp) if you receive such unsolicited communication. 
+At no time will Directmatches.com ask for your username, password or personal information in an unsolicited phone call, e-mail or letter. Contact us [by using this form](https://web.archive.org/web/20071231155028id_/http%3A//www.directmatches.com/customer.asp) if you receive such unsolicited communication. 
 
 **Children**  
 You must be eighteen or over to register as a member of Directmatches.com or use the Website. Membership in the Service is void where prohibited. In using our services, you represent that you are at least 18 years of age. 
@@ -58,12 +58,12 @@ It is your responsibility to maintain accurate contact information, modify perso
 
 We provide you the opportunity to ‘opt-out’ of having your personally identifiable information used for certain purposes, when we ask for this information. For example, if you purchase a product/service but do not wish to receive any additional marketing material from us, you can indicate your preference on our registration form. 
 
-If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us [by using this form](https://web.archive.org/web/20070620210555id_/http%3A//directmatches.com/customer.asp). When you login to our site we offer you an opportunity at any time to opt-out of certain communications on your edit account page. 
+If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us [by using this form](https://web.archive.org/web/20071231155028id_/http%3A//www.directmatches.com/customer.asp). When you login to our site we offer you an opportunity at any time to opt-out of certain communications on your edit account page. 
 
 You will be notified when your personal information is collected by any third party that is not our agent/service provider, so you can make an informed choice as to whether or not to share your information with that party. 
 
 **Delete or Deactivate account**  
-If you have reason to believe that your account is no longer secure, you may delete your profile [by contacting us on this form](https://web.archive.org/web/20070620210555id_/http%3A//directmatches.com/customer.asp). You can set up an entire new account with a new username and password. 
+If you have reason to believe that your account is no longer secure, you may delete your profile [by contacting us on this form](https://web.archive.org/web/20071231155028id_/http%3A//www.directmatches.com/customer.asp). You can set up an entire new account with a new username and password. 
 
 **Policy Modifications**   
 If at any point we decide to use particular personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email or by providing notice on this page. Please note we reserve the right and may change this Privacy Policy at any time. Please check this page periodically. 
@@ -72,7 +72,7 @@ If at any point we decide to use particular personally identifiable information 
 By using our web site and services, you signify your consent to Directmatches.com's Privacy Policy. Your continued use of Directmatches.com Web sites or services following the posting of changes to these terms will mean you accept those changes. Please review this page regularly when you visit the site. 
 
 **How to Contact Us**  
-If you have any questions or concerns about the Directmatches.com policy for this site or its implementation you may contact us [by using this form](https://web.archive.org/web/20070620210555id_/http%3A//directmatches.com/customer.asp). 
+If you have any questions or concerns about the Directmatches.com policy for this site or its implementation you may contact us [by using this form](https://web.archive.org/web/20071231155028id_/http%3A//www.directmatches.com/customer.asp). 
 
 Or mail to:   
 DirectMatches Corp   
