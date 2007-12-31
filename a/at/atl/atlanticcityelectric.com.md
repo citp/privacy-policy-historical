@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atlanticcityelectric.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607181926id_/http%3A//www.atlanticcityelectric.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atlanticcityelectric.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231111252id_/http%3A//www.atlanticcityelectric.com/privacy) for the most accurate reproduction.*
 
 # Atlantic City Electric - Privacy Policy
 
@@ -83,7 +83,7 @@ When you link to other sites from pepcoholdings.com; pepco.com; delmarva.com; an
 
 ### How to Contact Us
 
-Should you have other questions or concerns about this privacy policy, please call us at (202) 833-7500 or send us an email at [cccare@conectiv.com](mailto:cccare@conectiv.com). 
+Should you have other questions or concerns about this privacy policy, please call us at 1-800-642-3780 or send us an email at [ccare@atlanticcityelectric.com](mailto:ccare@atlanticcityelectric.com). 
 
 ### Modification
 
