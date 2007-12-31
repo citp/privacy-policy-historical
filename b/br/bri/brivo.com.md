@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the brivo.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429141055id_/http%3A//www.brivo.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brivo.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231175245id_/http%3A//www.brivo.com/legal/privacy.php) for the most accurate reproduction.*
 
 # Brivo Systems: Privacy and Security Policy
+
+[](http://www.stamhost.com/brivolms/index.asp)
 
 ### Now Available! 
 
 The 7-minute Brivo Overview Discover the Power 
 
-[](https://web.archive.org/web/20070429141055id_/http%3A//www.brivo.com/images/video20070321/FLV/Brivo%20Commercial.html "Flash Video Format") [](https://web.archive.org/web/20070429141055id_/http%3A//www.brivo.com/images/video20070321/MOV/Brivo_commercial.html "QuickTime Format") [](https://web.archive.org/web/20070429141055id_/http%3A//www.brivo.com/images/video20070321/AVI/Brivo_commercial.html "Windows Media Format")
+[](https://web.archive.org/web/20071231175245id_/http%3A//www.brivo.com/images/video20070321/FLV/Brivo_Commercial_CamSettings.html "Flash Video Format") [](https://web.archive.org/web/20071231175245id_/http%3A//www.brivo.com/images/video20070321/AVI/Brivo_commercial.html "Windows Media Format")
 
 |  | 
 
