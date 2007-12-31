@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the consolegoals.com privacy policy that was archived on 2007-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070503061033id_/http%3A//www.consolegoals.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consolegoals.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231190040id_/http%3A//www.consolegoals.com/privacy.php) for the most accurate reproduction.*
 
-# ConsoleGoals : Sharing Fifa, PES6, Pro Evolution Soccer (PES) & Winning Eleven(WE10) Videos Online
+# PES 2008, PES2008, PES6, Pro Evolution Soccer (PES) & Winning Eleven (WE10) - ConsoleGoals
 
 **
 
