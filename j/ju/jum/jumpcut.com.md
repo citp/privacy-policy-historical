@@ -1,117 +1,108 @@
-> *The following text is extracted and transformed from the jumpcut.com privacy policy that was archived on 2007-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070615171758id_/http%3A//jumpcut.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jumpcut.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231081402id_/http%3A//privacy.yahoo.com) for the most accurate reproduction.*
 
-# Jumpcut - Privacy
+# Yahoo! Privacy Policy
 
-On October 2nd, 2006, Jumpcut became part of the Yahoo! network of products and services. Information collected by Jumpcut will continue to be subject to the Jumpcut privacy policy, posted here. Pretty soon we'll be integrating Jumpcut into the Yahoo! network, and you'll be asked to link your Jumpcut account to a Yahoo! ID. At that point, the [Yahoo! Privacy Policy](http://privacy.yahoo.com/) will apply to all information in your Jumpcut account. For now though, the Jumpcut Privacy Policy posted here is still in place.
+Yahoo! takes your privacy seriously. Please read the following to learn more about our privacy policy.
 
-## Privacy Policy
+NOTICE: [Click here](http://onguardonline.gov/) for practical tips from the federal government and the technology industry to help you guard against Internet fraud, secure your computer and protect your personal information.
 
-This Policy applies to your use of the Jumpcut.com website and its related services (the "Website").
+| [](http://www.truste.org/ivalidate.php?url=www.yahoo.com&sealid=101)  
+---|---  
+  
+What This Privacy Policy Covers
 
-**Acceptance of Policy**
-
-By using or visiting the Website you agree to be bound by this Policy. If you do not agree with this Policy, please do not use the Website.
-
-**Entire Agreement**
-
-The Terms, Copyright Policy, and Privacy Policy are hereby included by reference. They comprise of the entire agreement between you and the Website and govern your use of the Website, superseding any prior agreements between you and the Website.
-
-**Modifications to Policy**
-
-We reserve the right to change or modify the Policy at any time, without prior notice, by posting the modified Policy on the Website. Your continued use of the Website indicates your acceptance of any revised Policy.
-
-**Notice**
-
-We may provide you with notifications that include, without limitation, any changes that are made to the Policy or other Website related service, by postings on the Website or via email to a user.
-
-### Information Gathered
-
-**Information Submitted by a user**
-
-We collect personal information when you register or request information from us. The personal information we collect is listed below:
-
-  * Login Name
-  * Password
-  * Email address
-  * First Name
-  * Last Name
-  * Nickname
-  * Password
-  * Gender
-  * Postal Code
-  * Country
+  * This policy covers how Yahoo! treats personal information that Yahoo! collects and receives, including information related to your past use of Yahoo! products and services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available. 
+  * This policy does not apply to the practices of companies that Yahoo! does not own or control, or to people that Yahoo! does not employ or manage. In addition, some companies that Yahoo! has acquired have their own, preexisting privacy policies which may be viewed on our [acquired companies page](http://info.yahoo.com/privacy/us/yahoo/acquiredcompanies/).
+  * Yahoo! participates in the Safe Harbor program developed by the U.S. Department of Commerce and the European Union. To view our certification, visit the U.S. Department of Commerce's [Safe Harbor Web site](http://www.export.gov/safeharbor/). For more information about Yahoo!'s participation in the Safe Harbor program, please visit our [Safe Harbor](http://info.yahoo.com/privacy/us/yahoo/safeharbor/) details page. 
 
 
 
-You may also submit information about other people. For example, you may enter a friend's email to Share a movie or become part of any notification list. In this circumstance, we collect the following information about the recipient:
+Information Collection and Use
 
-  * Email address  
+General
 
-
-
-
-**Non-submitted Information Collected**
-
-The Website may also collect non-personal information not associated with your identity. We collect this data to improve the Website. The non-submitted information we collect is listed below:
-
-  * IP
-  * Time
-  * File
-  * Data transferred
-  * Browser type and version
-  * Operating system
-  * Cookies
+  * Yahoo! collects personal information when you register with Yahoo!, when you use [Yahoo! products or services](http://info.yahoo.com/privacy/us/all/), when you visit Yahoo! pages or the pages of certain Yahoo! partners, and when you enter [promotions or sweepstakes](http://info.yahoo.com/privacy/us/yahoo/promotions/). Yahoo! may combine information about you that we have with information we obtain from business partners or other companies. 
+  * When you register we ask for information such as your name, email address, birth date, gender, ZIP code, occupation, industry, and personal interests. For some financial products and services we might also ask for your address, Social Security number, and information about your assets. When you register with Yahoo! and sign in to our services, you are not anonymous to us. 
+  * Yahoo! collects information about your transactions with us and with some of our business partners, including information about your use of financial products and services that we offer. 
+  * Yahoo! automatically receives and records information from your computer and browser, including your [IP address](http://info.yahoo.com/privacy/us/yahoo/ip/), Yahoo! [cookie](http://info.yahoo.com/privacy/us/yahoo/cookies/) information, software and hardware attributes, and the page you request. 
+  * Yahoo! uses information for the following general purposes: to customize the advertising and content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients. 
 
 
 
-In addition, to better tailor the Website and to improve our products we may also gather additional information including, but not limited to, demographics, preferences, and experiences with our products or the Website. Giving this data to us will be optional.
+Children
 
-### Information Uses
-
-**Use of the Submitted Information**
-
-  * We will not sell or rent Your personal information to others, except to the extent necessary to fulfill any requests by You to share content through another Website or partner.
-  * We may disclose Your information to third parties who are providing services to us and to our business partners who may provide joint product and service offerings to our Users.
-  * Your email can be used to answer any requests made by you, or to provide status updates around the Website or its processes.
-  * As a User, You can invite guests to view your movies online. When you do, we will send an email with the URL to your content to your list of invited guests. Please note that your guests can then forward that email to other parties. We do not use the email addresses you provide for any other purpose.
-  * You may be able to register to receive updates and promotions, or to be contacted for surveys. The contact information you submit will not be used for these purposes unless you specifically opt in. You can control your privacy preferences regarding such marketing communications (see Section 5 below entitled "user's privacy settings and opting out").
-  * We may combine Your information with other information about You we receive from other sources.
+  * When a child under age 13 attempts to register with Yahoo!, we ask the child to have a parent or guardian create a [Yahoo! Family Account](http://info.yahoo.com/privacy/us/family/details.html) to obtain parental permission. 
+  * Yahoo! does not contact children under age 13 about special offers or for marketing purposes without a parent's permission. 
+  * Yahoo! does not ask a child under age 13 for more personal information, as a condition of participation, than is reasonably necessary to participate in a given activity or promotion. 
 
 
 
-Finally, we do not use or share the personally identifiable information provided to us online in ways unrelated to the ones described above, without also providing you an opportunity to opt-out.
+Information Sharing and Disclosure
 
-  * We use browser detection, IP addresses, operating system detection, time, file type, data transfer detection and cookies to provide a better experience for you. None of the data derived from these technologies is tied to your personally identifiable information. We detect the type of web browser you are using to optimize the performance of the Website. To better understand how people use our site, we review files and data transferred. IP addresses determine the physical location of a computer. Cookies are files sometimes put onto your computer when you visit Website[s]. These help identify you so that we may better tailor your experience with your interests.  
-
-
-
-
-**Data security**
-
-Access to Your data is limited to our authorized staff and restricted by password protection mechanisms.
-
-**Children's privacy**
-
-We follow the guidelines established by the Federal Children's Online Privacy Protection Act of 1998 (COPPA). Therefore, we will never knowingly accept or solicit personally identifiable information from a user known to be under the age of thirteen (13). If you have a concern, please refer to our Privacy Policy for information on how to notify us.
-
-### User's privacy settings and the ability to opt out
-
-**How to opt out**
-
-We may send marketing communications to Users. If you do not want to receive these updates, you must opt-out by un-checking the "I would like to receive email updates" box on the registration page, or should you choose to opt-out after registering, you can do the following:
-
-  * Sign in to your Jumpcut account, edit your profile and uncheck the "Send me Jumpcut updates and newsletters" checkbox.
+  * Yahoo! does not rent, sell, or share personal information about you with other people or non-affiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances: 
+    * We provide the information to trusted partners who work on behalf of or with Yahoo! under confidentiality agreements. These companies may use your personal information to help Yahoo! communicate with you about offers from Yahoo! and our marketing partners. However, these companies do not have any independent right to share this information. 
+    * We have a parent's permission to share the information if the user is a child under age 13. Parents have the option of allowing Yahoo! to collect and use their child's information without consenting to Yahoo! sharing of this information with people and companies who may use this information for their own purposes.
+    * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims.
+    * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Yahoo!'s terms of use, or as otherwise required by law. 
+    * We transfer information about you if Yahoo! is acquired by or merged with another company. In this event, Yahoo! will notify you before information about you is transferred and becomes subject to a different privacy policy. 
+  * Yahoo! displays targeted advertisements based on personal information. Advertisers (including ad serving companies) may assume that people who interact with, view, or click targeted ads meet the targeting criteria—for example, women ages 18-24 from a particular geographic area. 
+    * Yahoo! does not provide any personal information to the advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad. 
+    * Yahoo! advertisers include financial service providers (such as banks, insurance agents, stock brokers and mortgage lenders) and non-financial companies (such as stores, airlines, and software companies). 
+  * Yahoo! works with vendors, partners, advertisers, and other service providers in different industries and categories of business. For more information regarding providers of products or services that you've requested please read our detailed [reference links](http://info.yahoo.com/privacy/us/all/). 
 
 
 
-**How to access or change user information**
+Cookies
 
-Simply sign in to your Jumpcut account and select "edit my profile."
+  * Yahoo! may set and access Yahoo! [cookies](http://info.yahoo.com/privacy/us/yahoo/cookies/) on your computer. 
+  * Yahoo! lets [other companies](http://info.yahoo.com/privacy/us/yahoo/thirdparties/) that show advertisements on some of our pages set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to Yahoo!'s cookies. 
+  * Yahoo! uses [web beacons](http://info.yahoo.com/privacy/us/yahoo/webbeacons/) to access Yahoo! cookies inside and outside our network of web sites and in connection with Yahoo! products and services. 
 
-**Legal disclaimer disclosure**
 
-We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Website.
 
-**Links to Third Party Web Sites**
+Your Ability to Edit and Delete Your Account Information and Preferences
 
-We are not responsible for the practices employed by websites linked to or from the Website nor the information or content contained therein. Often links to other websites are provided solely as pointers to information on topics that may be useful to the users of the Website. Please remember that when you use a link to go from our Website to another website, our Privacy Policy is no longer in effect. By your browsing and interaction on any other website, including websites which have a link on the Website, is subject to that website's own rules and policies. Please read over those rules and policies before proceeding.
+General
+
+  * You can edit your [Yahoo! Account Information](http://edit.yahoo.com/config/eval_profile), including your [marketing preferences](http://subscribe.yahoo.com/showaccount), at any time. 
+  * New categories of marketing communications might be added to the Marketing Preferences page from time to time. Users who visit this page can opt out of receiving future marketing communications from these new categories or they can unsubscribe by following instructions contained in the messages they receive. 
+  * We reserve the right to send you certain communications relating to the Yahoo! service, such as service announcements, administrative messages and the Yahoo! Newsletter, that are considered part of your Yahoo! account, without offering you the opportunity to opt out of receiving them. 
+  * You can delete your Yahoo! account by visiting our [Account Deletion](https://edit.yahoo.com/config/delete_user) page. Please [click here](http://info.yahoo.com/privacy/us/yahoo/datastorage/) to read about information that might possibly remain in our archived records after your account has been deleted. 
+
+
+
+Children 
+
+  * Parents can review, edit, and delete information relating to their child's Yahoo! account using tools offered by [Yahoo! Family Accounts](http://family.yahoo.com/). 
+  * If a parent chooses not to allow us to further collect or use a child's information, parents enrolled in Yahoo! Family Accounts can delete their child's account by signing into that child's account and then visiting our [Account Deletion](https://edit.yahoo.com/config/delete_user) page. Please [click here](http://info.yahoo.com/privacy/us/yahoo/datastorage/) to read about information that might possibly remain in our archived records after your account has been deleted. 
+
+
+
+Confidentiality and Security 
+
+  * We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. 
+  * We have physical, electronic, and procedural safeguards that comply with federal regulations to protect personal information about you. 
+  * To learn more about security, including the security steps we have taken and security steps you can take, please read [Security at Yahoo!](http://info.yahoo.com/privacy/us/yahoo/security/). 
+
+
+
+Changes to this Privacy Policy
+
+  * Yahoo! may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Yahoo! account or by placing a prominent notice on our site. 
+
+
+
+Questions and Suggestions 
+
+  * [Yahoo! is TRUSTe-certified](http://www.truste.org/ivalidate.php?url=www.yahoo.com&sealid=101). This certification applies to all English-language sites under the Yahoo.com domain. If you feel that your inquiry has not been satisfactorily addressed, you should contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php), an independent privacy organization. TRUSTe serves as a liaison with Yahoo! to resolve your concern. 
+  * If you have questions or suggestions, please complete a [feedback form](http://add.yahoo.com/fast/help/us/privacy/cgi_feedback?radio30=radio305) or you can contact us at:
+
+
+
+Yahoo! Inc.  
+Customer Care - Privacy Policy Issues  
+701 First Avenue  
+Sunnyvale, CA 94089  
+(408) 349-5070
+
+Effective Date: November 22, 2006
