@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the gostanford.com privacy policy that was archived on 2007-06-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070610151530id_/http%3A//www.cstv.com/ot/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gostanford.com privacy policy that was archived on 2007-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071231132313id_/http%3A//www.cstv.com/ot/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>CSTV.com: #1 in College Sports</title>
@@ -30,10 +30,12 @@
   <div class="insertadhere"></div>
 </div>
 <!-- NAVIGATION -->
-<script language="javascript" src="http://www.cstv.com/library/js/api/prototype.js"></script>
-<script language="javascript" src="http://www.cstv.com/library/js/api/scriptaculous.js"></script>
+<!-- script language="javascript" src="http://www.cstv.com/library/js/api/prototype.js"></script>
+<script language="javascript" src="http://www.cstv.com/library/js/api/scriptaculous.js"></script -->
 <!-- flash object -->
 <script language="javascript" src="http://www.cstv.com/library/js/swfobject.js"></script>
+
+
 <style type="text/css">
 <!--
 
@@ -80,7 +82,7 @@ div{
 
 #menu3 { /* LIVE GAMES */
 	position:absolute;
-	left:301px;
+	left:390px;
 
 	
 }
@@ -145,8 +147,9 @@ div{
 	z-index: 6000;
  }
 
+
 /*MENUS OFF  -  hide border display from showing on empty menu's */
-#menu0, #menu3, #menu4, #menu6, #menu7{
+#menu0, #menu4, #menu6, #menu7{
 	border: none;
 	background-color: transparent;
 	display: none !important;
@@ -362,7 +365,7 @@ div{
 	font-weight: normal;
 
 	color: #ff6600;
-	background-color: none;
+	background-color: transparent;
 	text-decoration: none;
 	
 	border: none;
@@ -486,74 +489,44 @@ N A V   S T Y L E S
 -->
 
 </style>
+
+
 <script language="JavaScript" type="text/javascript">
 
-//total number of nav items
-menu_total = 10;
-
-/* Fedor
-var initMenu = function(){
-	 nodes = document.getElementsByClassName("collapsed");
-		for(i = 0; i < nodes.length; i++) {
-		  //allNodes[i].onclick = function() {return false;}
-		  nodes[i].onmouseover = toggleMenu;
-		}	
-
-}
-*/
-
-// reset & hide Menu
-function resetMenu(){
- 	for(i=0; i< menu_total; i++){
-	  	document.getElementById('menu' + i).style.display = 'none';
-		  //background layer
-		  //document.getElementById('b_menu' + i).style.display = 'none';
-		}
-}
-
-
-
-
-
-//FLASH show Menus on Mouse Over
-function showMenu(num){
+//FLASH show/hide Menus on Mouse Over
+function showMenu(num)
+{
  	resetMenu();
-		for(selected=0; selected<menu_total; selected++){
-			//show menu
-			if(num == selected){
-				menuSelected = ("menu" + num);
-				//show the menu
-				divObj= document.getElementById(menuSelected);
-				divObj.style.display= "block";
-			}
-		}
-		return;			
+ 	menuSelected = "menu" + num;
+	try{ var divObj= $(menuSelected).style.display= "block"; }catch(e){/*alert(3)*/}
+	cif(menuSelected)
+}
+var menus=null; // see the bottom of this file
+hideMenus=resetMenu=function()
+{
+	rif("menu0");
+ 	for(i=0; i< menus.length; i++) 
+ 	{ 
+ 		menus[i].style.display="none"; 
+		rif(menus[i].id);
+ 	}
 }
 
-
-// FLASH Hide Menus on Mouse Out
-function hideMenus(num){
-	 //alert(num);
-	 resetMenu();
-}
-
-
-
+// local show/hide
 function toggleMenu() {
 	$(menuSelected).style.display = "block";
-	//this.parentNode.className = thisMenuName;
-	$(menuSelected).onmouseout = toggleDivOff;
-	$(menuSelected).onmouseover = toggleDivOn;	
+	cif(menuSelected);	
 }
 	
 function toggleDivOn() {
 	$(menuSelected).style.display = "block";
+	cif(menuSelected);	
 }
 
 function toggleDivOff() {
 	$(menuSelected).style.display = "none";
+	rif(menuSelected);	
 }
-
 
 // level 1 dropdowns //
 //show + hide + position 1st Tier dropdowns
@@ -567,7 +540,9 @@ function showDropDown(mouseoverObj, style_top, style_left) {
     ddObj.style.left= (style_left ? style_left : "175") +"px";
 
     ddObj.onmouseout= function () {
-      this.hide();
+			ddObj.style.display="none";
+			rif(ddObj.id);
+//      this.hide();
     };
 
     mouseoverObj.onmouseout= function () {
@@ -576,14 +551,19 @@ function showDropDown(mouseoverObj, style_top, style_left) {
 
   } //autoinit
 
- 	ddObj.show();
+	ddObj.style.display="block";
+	$(menuSelected).style.display = "block";
+	cif(ddObj.id, style_top, style_left)
+// 	ddObj.show();
 }
 
-function hideDropDown(mouseoverObj){
- idStr= mouseoverObj.id;
- thisIdStr= idStr.replace("subnav_","");   
- ddObj= $(thisIdStr +"_dropdown");
-	ddObj.hide();	
+function hideDropDown(mouseoverObj)
+{
+	idStr= mouseoverObj.id;
+	thisIdStr= idStr.replace("subnav_","");   
+	ddObj= $(thisIdStr +"_dropdown");
+	ddObj.style.display="none";
+	rif(ddObj.id)
 }
 
 // Fedor
@@ -592,6 +572,47 @@ function hideDropDown(mouseoverObj){
 // Event.observe(element, name, observer, [useCapture]);
 
 </script>
+
+
+<!-- Fedor: fix for the menu over going under selections -->
+<script>
+cif=function(id){try{if(cstv.$css(".subnav",cstv.$id(id)).length>0)cstv.tools.css.addClass(cstv.$id("content"),"menuOn")}catch(e){}; };
+rif=function(){ try{cstv.tools.css.killClass(cstv.$id("content"),"menuOn")}catch(e){}; };
+try{cstv}catch(e){document.write('<s'+'cript language="javascript" src="http://www.cstv.com/library/js/cstv.js"></s'+'cript>')}
+</script><script language="javascript" src="http://www.cstv.com/library/js/cstv.js"></script>
+<script>$=cstv.$id;</script>
+
+<!--[if IE 6]>
+
+<script>
+cif=function(id,dy,dx)
+{
+	obj=cstv.$id(id);
+	if(!obj.shim)
+	{
+		obj.shim=document.createElement("iframe");
+		obj.shim.scrolling=obj.shim.frameBorder="no";
+		var st=obj.shim.style;
+		st.border="none";
+		var xywh=cstv.$xywh(obj);
+		dx=(arguments.length>1)?2:0;
+		dy=(dy)?dy:0;
+		st.position="absolute";
+		st.left=(xywh.x+dx).toString()+"px"; 
+		st.top=(xywh.y+dy).toString()+"px";
+		st.width=xywh.w.toString()+"px"; 
+		st.height=xywh.h.toString()+"px";
+		var d=cstv.$id("dropdownMenu");
+		d.insertBefore(obj.shim,document.body.firstChild);
+	}
+	obj.shim.style.display="block";
+}
+rif=function(id){try{obj=cstv.$id(id).shim.style.display="none";}catch(e){}}
+</script>
+<![endif]-->
+
+
+
 <!-- N A V -->
 <div id="nav">
   <!-- alt flash -->
@@ -615,7 +636,7 @@ function hideDropDown(mouseoverObj){
 <!---->
 <script type="text/javascript">
   // <![CDATA[   
-var fo = new SWFObject("http://graphics.cstv.com/library/sitewide/nav/flash/base_20070608.swf", "fotester", "976", "180", "7", "#FFFFFF");	 
+var fo = new SWFObject("http://graphics.cstv.com/library/sitewide/nav/flash/base.swf", "fotester", "976", "180", "7", "#FFFFFF");	 
  
   //add variables
      //fo.addParam("wmode","transparent");
@@ -656,7 +677,6 @@ var fo = new SWFObject("http://graphics.cstv.com/library/sitewide/nav/flash/base
               <li>
                 <h3>FEATURES</h3>
               </li>
-              <li><a href="http://www.cstv.com/sports/m-basebl/inc/m-basebl_preview.html">2007 Season Preview </a></li>
               <li><a href="http://slog.cstv.com/extrainnings/">Sorenson's Extra Innings</a></li>
               <li><a href="http://www.cstv.com/sports/m-basebl/photogallery/mvp/">Player Of The Year</a></li>
               <li><a href="http://slog.cstv.com/touchingthebases/">Touching The Bases</a></li>
@@ -677,9 +697,9 @@ var fo = new SWFObject("http://graphics.cstv.com/library/sitewide/nav/flash/base
                 <h3><a href="http://www.cstv.com/sports/m-baskbl/cs-m-baskbl-body.html">MEN'S</a></h3>
               </li>
               <li><a href="http://www.cstv.com/teams/m-baskbl/scoreboards/all/all-scoreboard-day-main.html">Scores</a></li>
-              <li><a href="http://www.cstv.com/sports/m-baskbl/schedules0607mbk.html">Schedules</a></li>
+              <li><a href="http://www.cstv.com/sports/m-baskbl/schedules0708mbk.html">Schedules</a></li>
               <li><a href="http://www.cstv.com/sports/m-baskbl/statistics.html">Statistics</a></li>
-              <li><a href="http://www.cstv.com/sports/m-baskbl/standings0607mbk.html">Standings</a></li>
+              <li><a href="http://www.cstv.com/sports/m-baskbl/standings0708mbk.html">Standings</a></li>
               <li><a href="http://www.cstv.com/cgi-bin/rankings.cgi?type=tables&amp;sport=m-baskbl&amp;division">Rankings</a></li>
               <li><a href="http://www.cstv.com/teams/cs-teams.html">Teams</a></li>
               <li><a href="http://www.cstv.com/sports/m-baskbl/recruiting/">Recruiting</a></li>
@@ -700,10 +720,10 @@ var fo = new SWFObject("http://graphics.cstv.com/library/sitewide/nav/flash/base
               </li>
               <!-- <li><a href="#">Men's Road to the 64</a></li>-->
               <!-- <li><a href="#">Women's Road to the 64</a></li>-->
-              <li><a href="http://www.cstv.com/sports/m-baskbl/roadtothefinal64/palm_bracket.html"> M - Bracketanica</a></li>
-              <li><a href="http://www.cstv.com/sports/w-baskbl/roadtothefinal64/palm_bracket.html"> W - Bracketanica</a></li>
-              <li><a href="http://www.cstv.com/sports/m-baskbl/cinderella">Searching For Cinderella</a></li>
-              <li><a href="http://www.hoopsodyssey.com">Hoops Odyssey</a></li>
+              <!-- <li><a href="http://www.cstv.com/sports/m-baskbl/roadtothefinal64/palm_bracket.html"> M - Bracketanica</a></li>-->
+              <!-- <li><a href="http://www.cstv.com/sports/w-baskbl/roadtothefinal64/palm_bracket.html"> W - Bracketanica</a></li>-->
+              <!--<li><a href="http://www.cstv.com/sports/m-baskbl/cinderella">Searching For Cinderella</a></li>-->
+              <!--<li><a href="http://www.hoopsodyssey.com">Hoops Odyssey</a></li>-->
               <li><a href="http://www.cstv.com/sports/m-baskbl/recruiting/gen-index.html">Generation Next</a></li>
               <li><a href="http://www.cstv.com/cgi-bin/tvsched.cgi?gameSel=BASKETBALL+-+MEN%27S">CSTV Schedule</a></li>
               <li><a href="http://www.cstvppv.com/mbasketball/" target="_blank">Men's PPV Schedule</a></li>
@@ -720,7 +740,7 @@ var fo = new SWFObject("http://graphics.cstv.com/library/sitewide/nav/flash/base
       <div class="subnav"><a href="http://www.cstv.com/thecollegiatenationals/" target="_blank">COLLEGIATE 
         NATIONALS</a></div>
      <!--  <div class="subnav"><a href="http://www.cstv.com/cocacolachampionshipcentral/">COKE CHAMPIONSHIPS</a></div>-->
-      <div class="subnav"><a href="http://www.cstv.com/sports/c-xctrack/cs-c-xctrack-body.html">XC/T&amp;F</a></div>
+	 <div class="subnav"><a href="http://www.cstv.com/sports/c-xctrack/cs-c-xctrack-body.html">CROSS COUNTRY</a></div>
       <div class="subnav"><a href="http://www.cstv.com/sports/w-equest/cs-w-equest-body.html">EQUESTRIAN</a></div>
       <div class="subnav"><a href="http://www.cstv.com/sports/c-fenc/cs-c-fenc-body.html">FENCING</a></div>
       <div class="subnav"><a href="http://www.cstv.com/sports/w-fieldh/cs-w-fieldh-body.html">FIELD HOCKEY</a></div>
@@ -731,53 +751,54 @@ var fo = new SWFObject("http://graphics.cstv.com/library/sitewide/nav/flash/base
           <div class="innercontent">
             <ul style="float: left; border-right: 1px solid #ff6c43;">
               <li>
-                <h3><a href="http://www.cstv.com/sports/m-footbl/cs-m-footbl-body.html">D-I BCS</a></h3>
+                <h3><a href="http://www.cstv.com/sports/m-footbl/cs-m-footbl-body.html">D-I FBS</a></h3>
               </li>
-              <li><a href="http://www.cstv.com/bowls/2006-07/">Bowl Central</a></li>
-              <li><a href="http://www.cstv.com/teams/m-footbl/scoreboards/all/all-d-1a-scoreboard-week-main.html">Scores</a></li>
-              <li><a href="http://www.cstv.com/sports/m-footbl/schedules06-07.html">Schedules</a></li>
+              <li><a href="http://www.cstv.com/bowls/">Bowl Central</a></li>
+              <li><a href="http://www.cstv.com/teams/m-footbl/scoreboards/all/all-d-fbs-scoreboard-week-main.html">Scores</a></li>
+              <li><a href="http://www.cstv.com/sports/m-footbl/schedules07-08.html">Schedules</a></li>
               <li><a href="http://www.cstv.com/sports/m-footbl/statistics.html">Statistics</a></li>
               <li><a href="http://www.cstv.com/cgi-bin/rankings.cgi?type=tables&amp;sport=m-footbl&amp;division=">Rankings</a></li>
               <li><a href="http://www.cstv.com/teams/cs-teams.html">Teams</a></li>
               <li><a href="http://www.cstv.com/sports/m-footbl/recruiting/">Recruiting</a></li>
+			  <li><a href="http://www.cstv.com/cstvppv/football/" target="_blank">CSTV PPV</a></li>
             </ul>
             <ul style="float: left; border-right: 1px solid #ff6c43;">
               <li>
                 <h3><a href="http://www.cstv.com/sports/m-footbl/cs-m-footbl-more-body.html">D-I FCS</a></h3>
               </li>
-              <li><a href="http://www.cstv.com/teams/m-footbl/scoreboards/top25/top25-d-1aa-scoreboard-week-main.html">Scores</a></li>
-              <li><a href="http://www.cstv.com/sports/m-footbl/schedules06-07.html#div_1aa">Schedules</a></li>
+              <li><a href="http://www.cstv.com/teams/m-footbl/scoreboards/top25/top25-d-fcs-scoreboard-week-main.html">Scores</a></li>
+              <li><a href="http://www.cstv.com/sports/m-footbl/schedules07-08.html#div_1aa">Schedules</a></li>
               <li><a href="http://www.cstv.com/sports/m-footbl/statistics.html?&amp;season=2006&amp;division=I-AA">Statistics</a></li>
               <li><a href="http://www.cstv.com/cgi-bin/rankings.cgi?type=tables&amp;sport=m-footbl&amp;division=Division+I-AA">Rankings</a></li>
             </ul>
             <ul style="float: left;">
               <li>
-                <h3><a href="http://www.cstv.com/sports/m-footbl/cs-m-footbl-more-body.html">D-II</a></h3>
+                <h3><a href="http://www.cstv.com/ncaa/divii/">D-II</a></h3>
               </li>
               <li><a href="http://www.cstv.com/teams/m-footbl/scoreboards/top25/top25-d-ii-scoreboard-week-main.html">Scores</a></li>
-              <li><a href="http://www.cstv.com/sports/m-footbl/schedules06-07.html#div_II">Schedules</a></li>
+              <li><a href="http://www.cstv.com/sports/m-footbl/schedules07-08.html#div_II">Schedules</a></li>
               <li><a href="http://www.cstv.com/sports/m-footbl/statistics.html?&amp;season=2006&amp;division=II">Statistics</a></li>
               <li><a href="http://www.cstv.com/sports/m-footbl/division_ii1.html">Rankings</a></li>
+			  <li>&nbsp;</li>
+			  <li><a href="http://www.cstv.com/sports/m-footbl/naia1.html"><strong>NAIA Rankings</strong></a></li>
             </ul>
             <ul style="float: left;">
               <li>
                 <h3><a href="http://www.cstv.com/sports/m-footbl/cs-m-footbl-more-body.html">D-III</a></h3>
               </li>
               <li><a href="http://www.cstv.com/teams/m-footbl/scoreboards/top25/top25-d-iii-scoreboard-week-main.html">Scores</a></li>
-              <li><a href="http://www.cstv.com/sports/m-footbl/schedules06-07.html#div_III">Schedules</a></li>
+              <li><a href="http://www.cstv.com/sports/m-footbl/schedules07-08.html#div_III">Schedules</a></li>
               <li><a href="http://www.cstv.com/sports/m-footbl/statistics.html?&amp;season=2006&amp;division=III">Statistics</a></li>
               <li><a href="http://www.cstv.com/cgi-bin/rankings.cgi?type=tables&amp;sport=m-footbl&amp;division=Division+III">Rankings</a></li>
             </ul>
             <ul class="special_features">
               <li>
-                <h3>FEATURES</h3>
+                <h3>ROAD TRIPS</h3>
               </li>
-              <li><a href="http://www.cstv.com/sports/m-footbl/roadtothebcs/">Road to the BCS</a></li>
-              <li><a href="http://www.cstv.com/sports/m-footbl/heisman/">Heisman Watch</a></li>
-              <li><a href="http://www.cstv.com/sports/m-footbl/recruiting/recruiting.html">Generation Next</a></li>
-              <li><a href="http://www.missionsecfootball.com/" target="_blank">Mission SE</a></li>
-              <li><a href="http://www.cstv.com/footballnation/">Football Nation</a></li>
-              <li><a href="http://www.cstv.com/cstvppv/football/" target="_blank">CSTV PPV</a></li>
+              <li><a href="http://www.cstv.com/roadtripcentral/">Road Trip Central</a></li>
+			  <li><a href="http://www.cstv.com/roadtripcentral/goingbig/">Going Big</a></li>
+			  <li><a href="http://www.cstv.com/roadtripcentral/goingsouth/">Going South</a></li>
+			  <li><a href="http://www.cstv.com/roadtripcentral/goingwest/">Going West</a></li>              
             </ul>
           </div>
         </div>
@@ -834,7 +855,7 @@ var fo = new SWFObject("http://graphics.cstv.com/library/sitewide/nav/flash/base
                 <h3><a href="http://www.cstv.com/sports/m-hockey/cs-m-hockey-body.html">MEN'S</a></h3>
               </li>
               <li><a href="http://www.cstv.com/teams/m-hockey/scoreboards/all/all-scoreboard-week-main.html">Scores</a></li>
-              <li><a href="http://www.cstv.com/sports/m-hockey/schedules06-07.html">Schedules</a></li>
+              <li><a href="http://www.cstv.com/sports/m-hockey/schedules0708mhockey.html">Schedules</a></li>
               <li><a href="http://www.cstv.com/teams/m-hockey/ahc/conf-standings-ahc.html">Statistics</a></li>
               <li><a href="http://www.cstv.com/cgi-bin/rankings.cgi?type=tables&amp;sport=m-hockey&amp;division=">Rankings</a></li>
             </ul>
@@ -842,6 +863,7 @@ var fo = new SWFObject("http://graphics.cstv.com/library/sitewide/nav/flash/base
               <li>
                 <h3><a href="http://www.cstv.com/sports/w-hockey/cs-w-hockey-body.html">WOMEN'S</a></h3>
               </li>
+              <li><a href="http://www.cstv.com/sports/w-hockey/schedules0708whockey.html">Schedules</a></li>
               <li><a href="http://www.cstv.com/cgi-bin/rankings.cgi?type=tables&amp;sport=w-hockey&amp;division=">Rankings</a></li>
             </ul>
             <ul class="special_features">
@@ -851,8 +873,8 @@ var fo = new SWFObject("http://graphics.cstv.com/library/sitewide/nav/flash/base
               <li><a href="http://www.cstv.com/watchyourfaceoff/">CSTV Schedule</a></li>
               <li><a href="http://www.cstv.com/cstvppv/hockey/">CSTV PPV</a></li>
               <li><a href="http://slog.cstv.com/rinkrat" target="_blank">The Rink Rat</a></li>
-              <li><a href="http://www.cstv.com/sports/m-hockey/hobeybakerwatch/2006-07/">Hobey Baker Watch</a></li>
-              <li><a href="http://www.cstv.com/sports/m-hockey/attherinkindex0607.html">Tuesday @ The Rink</a></li>
+              <!-- <li><a href="http://www.cstv.com/sports/m-hockey/hobeybakerwatch/2006-07/">Hobey Baker Watch</a></li>-->
+              <li><a href="http://www.cstv.com/sports/m-hockey/attherinkindex0708.html">Tuesday @ The Rink</a></li>
             </ul>
           </div>
         </div>
@@ -926,9 +948,10 @@ var fo = new SWFObject("http://graphics.cstv.com/library/sitewide/nav/flash/base
         <!-- 1st Tier Dropdown End -->
       </div>
       <!-- /tennis -->
+	  <div class="subnav"><a href="http://www.cstv.com/sports/c-xctrack/cs-c-xctrack-body.html">TRACK &amp; FIELD</a></div>
       <div class="subnav"><a href="http://www.cstv.com/sports/c-ultimate/cs-c-ultimate-body.html">ULTIMATE</a></div>
       <!-- volleyball -->
-      <div class="subnav" id="subnav_volleyball" onmouseover="showDropDown(this,320); "> <a href="#"> VOLLEYBALL <img src="http://graphics.cstv.com/graphics/sitewide/nav/nav_arrow01.gif" class="arrow"> </a>
+      <div class="subnav" id="subnav_volleyball" onmouseover="showDropDown(this,335); "> <a href="#"> VOLLEYBALL <img src="http://graphics.cstv.com/graphics/sitewide/nav/nav_arrow01.gif" class="arrow"> </a>
         <!-- 1st Tier Dropdown-->
         <div id="volleyball_dropdown" class="DD" style="display: none;">
           <div class="innercontent">
@@ -948,7 +971,7 @@ var fo = new SWFObject("http://graphics.cstv.com/library/sitewide/nav/flash/base
       </div>
       <!-- / volleyball -->
       <!-- waterpolo -->
-      <div class="subnav" id="subnav_waterpolo" onmouseover="showDropDown(this,334); "> <a href="#"> WATER POLO <img src="http://graphics.cstv.com/graphics/sitewide/nav/nav_arrow01.gif" class="arrow"> </a>
+      <div class="subnav" id="subnav_waterpolo" onmouseover="showDropDown(this,349); "> <a href="#"> WATER POLO <img src="http://graphics.cstv.com/graphics/sitewide/nav/nav_arrow01.gif" class="arrow"> </a>
         <!-- 1st Tier Dropdown-->
         <div id="waterpolo_dropdown" class="DD" style="display: none;">
           <div class="innercontent">
@@ -974,83 +997,66 @@ var fo = new SWFObject("http://graphics.cstv.com/library/sitewide/nav/flash/base
   <!-- community -->
   <div id="menu2">
     <div class="collapsed" onmouseover="toggleMenu()">
-      <div class="subnav"><a href="http://bbs.collegesports.com/cgi-bin/ikonboard.cgi" target="_blank">MESSAGE BOARDS</a></div>
-      <div class="subnav" id="subnav_blogs" onmouseover="showDropDown(this,14); "> <a href="http://slog.cstv.com/slogville/"> BLOGS <img src="http://graphics.cstv.com/graphics/sitewide/nav/nav_arrow01.gif" class="arrow"> </a>
-        <!-- 1st Tier Dropdown-->
-        <div id="blogs_dropdown" class="DD" style="display: none;">
-          <div class="innercontent">
-            <ul style="float:left; margin-top:12px; width:160px; ">
-              <!-- <li><a href="http://slog.cstv.com/slogville/" target="_blank">SLOGVILLE</a></li>-->
-			  <li><a href="http://www.cstv.com/hoopsodyssey/">HOOPS ODYSSEY</a></li>
-              <li><a href="http://slog.cstv.com/extrainnings/">EXTRA INNINGS</a></li>
-              <li><a href="http://slog.cstv.com/hangtime/">HANG TIME</a></li>
-              <li><a href="http://slog.cstv.com/offprompter/">OFF PROMPTER</a></li>
-              <li><a href="http://slog.cstv.com/shesonfire/">SHE'S ON FIRE</a></li>
-              <li><a href="http://slog.cstv.com/takingissue/">TAKING ISSUE</a></li>
-              <li><a href="http://slog.cstv.com/theglasssneaker/">THE GLASS SNEAKER</a></li>
-              <li><a href="http://slog.cstv.com/themax/">THE MAX</a></li>
-              <li><a href="http://slog.cstv.com/theredzone/">THE RED ZONE</a></li>
-              <li><a href="http://slog.cstv.com/rinkrat/">THE RINK RAT</a></li>
-              <li><a href="http://slog.cstv.com/touchingthebases/">TOUCHING THE BASES</a></li>
-            </ul>
-          </div>
-        </div>
-        <!-- 1st Tier Dropdown End -->
-      </div>
-	  <div class="subnav"><a href="http://cstv.collegesports.com/postup/ " target="_blank">POST UP VIDEOS</a></div>
+      <div class="subnav"><a href="http://bbs.collegesports.com/cgi-bin/ikonboard.cgi">MESSAGE BOARDS</a></div>
+      <div class="subnav"> <a href="http://www.cstv.com/blogs/"> BLOGS</a></div>
+      <div class="subnav"><a href="http://cstv.collegesports.com/postup/ " target="_blank">POST UP VIDEOS</a></div>
     </div>
   </div>
   <!--live games-->
-  <div id="menu3"></div>
+  <div id="menu3">
+      <div class="collapsed" onmouseover="toggleMenu()">
+	  <div class="subnav"><a href="http://www.cstv.com/media/livegame.html" title="Gametracker">GAMETRACKER</a></div>
+      <div class="subnav"><a href="#" onclick="window.open('http://all-access.cstv.com/cstv/player/player.html?code=cs', 'XXL', 'width=1000,height=710,scrollbars=no');return false;">XXL</a></div>
+    </div>
+  </div>
   <!-- video -->
   <div id="menu4"></div>
   <!-- links -->
   <div id="menu5">
     <div class="collapsed" onmouseover="toggleMenu()">
       <div class="subnav_title" style="font-weight:bold;"> -- ON CSTV -- </div>
+
       <div class="subnav"><a href="http://www.cstv.com/thecollegiatenationals/" target="_blank">THE 
         COLLEGIATE NATIONALS</a></div>
 	  <!-- <div class="subnav"><a href="http://www.cstv.com/footballnation/flash/">FOOTBALL NATION</a></div>-->
 	  <!-- <div class="subnav"><a href="http://www.cstv.com/cstv/programming/showpages/fullcourtpress.html">FULL COURT PRESS</a></div>-->
 	  <!-- <div class="subnav"><a href="http://www.cstv.com/cstv/programming/gametracker.html">GAMETRACKER LIVE</a></div>-->
-      <div class="subnav"><a href="http://www.cstv.com/ncaa/divii/">NCAA BASKETBALL ON CSTV</a></div>
+      <!--<div class="subnav"><a href="http://www.cstv.com/ncaa/divii/">NCAA BASKETBALL ON CSTV</a></div>-->
 	  <div class="subnav"><a href="http://www.cstv.com/sports/m-hockey/cs-m-hockey-body.html">NCAA HOCKEY ON CSTV</a></div>
 	  <div class="subnav"><a href="http://www.cstv.com/cstv/programming/one2one.html">ONE2ONE</a></div>
 	  <!-- <div class="subnav"><a href="http://www.cstv.com/cstv/programming/retrovision/">RETROVISION</a></div>-->
 	  <div class="subnav"><a href="http://www.cstv.com/sports/m-baskbl/recruiting/gen-index.html">GEN NEXT BASKETBALL</a></div>
-	  <div class="subnav"><a href="http://www.cstv.com/cstv/programming/showpages/takingissue.html">TAKING ISSUE W/ BRIAN CURTIS</a></div>
+	  <!-- <div class="subnav"><a href="http://www.cstv.com/cstv/programming/showpages/takingissue.html">TAKING ISSUE W/ BRIAN CURTIS</a></div>-->
 	  <div class="subnav"><a href="http://www.cstv.com/sports/m-footbl/recruiting/recruiting.html">TOM LEMMING'S GEN NEXT</a></div>
 	  <div class="subnav"><a href="http://www.cstv.com/cstv/programming/tourneytalk/">TOURNEY TALK</a></div>
 	  <div style="margin:0px; padding:0px;"><img src="http://graphics.cstv.com/graphics/spacer.gif" width="76" height="5" hspace="0" vspace="0"></div>
 	  <div class="subnav_title"> -- CSTV.COM FEATURES -- </div>
-	  <div class="subnav" style="padding:0px; margin:0px; overflow:hidden;"><!-- begin ad tag -->
-<script language="JavaScript" type="text/javascript">
-ord=Math.random()*10000000000000000;
-document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/CSTV.CS/;pos=promo27;sz=120x60;ord=' + ord + '?" type="text/javascript"><\/script>');
-</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/CSTV.CS/;pos=promo27;sz=120x60;ord=7117556852149329?" type="text/javascript"></script><noscript><a href="http://ad.doubleclick.net/jump/CSTV.CS/;pos=promo27;sz=120x60;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/CSTV.CS/;pos=promo27;sz=120x60;ord=123456789?" width="120" height="60" border="0" alt=""></a></noscript>
-<!-- End ad tag --></div>
-	  <div class="subnav" style="padding:0px; margin:0px; overflow:hidden;"><script language="javascript1.2"> procad("http://ad.doubleclick.net/adj/CSTV.CS/OT;pos=promo18;sz=120x60;dcopt=ist;",0); </script></div>
 	  <div class="subnav" style="padding:0px; margin:0px; overflow:hidden;">
-<!-- begin ad tag -->
-<script language="JavaScript" type="text/javascript">
-ord=Math.random()*10000000000000000;
-document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/CSTV.CS/;pos=promo4;sz=120x60;ord=' + ord + '?" type="text/javascript"><\/script>');
-</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/CSTV.CS/;pos=promo4;sz=120x60;ord=8177689345483541?" type="text/javascript"></script><noscript><a href="http://ad.doubleclick.net/jump/CSTV.CS/;pos=promo4;sz=120x60;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/CSTV.CS/;pos=promo4;sz=120x60;ord=123456789?" width="120" height="60" border="0" alt=""></a></noscript>
-<!-- End ad tag -->
+		<!-- begin ad tag | COKE  -->
+		<script language="JavaScript" type="text/javascript">
+		ord=Math.random()*10000000000000000;
+		document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/CSTV.CS/;pos=promo4;sz=120x60;ord=' + ord + '?" type="text/javascript"><\/script>');
+		</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/CSTV.CS/;pos=promo4;sz=120x60;ord=53027157176632.76?" type="text/javascript"></script><noscript><a href="http://ad.doubleclick.net/jump/CSTV.CS/;pos=promo4;sz=120x60;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/CSTV.CS/;pos=promo4;sz=120x60;ord=123456789?" width="120" height="60" border="0" alt=""></a></noscript>
+		<!-- End ad tag -->
       </div>
       <div class="subnav"><a href="http://www.cstv.com/cstvppv/">CSTV PPV</a></div>
 	  <div class="subnav"><a href="http://www.cstv.com/dashboard/ ">CSTV WIDGETS</a></div>
 	  <div class="subnav"><a href="http://www.cstv.com/xxl/">CSTV XXL</a></div>
 	  
-	  <div class="subnav"><a href="http://www.cstv.com/sports/m-hockey/hobeybakerwatch/2006-07/">HOBEY BAKER WATCH</a></div>
+	 <!-- <div class="subnav"><a href="http://www.cstv.com/sports/m-hockey/hobeybakerwatch/2006-07/">HOBEY BAKER WATCH</a></div>-->
+	 <div class="subnav"><a href="http://www.cstv.com/roadtripcentral/goingbig/">GOING BIG</a></div>
+			  <div class="subnav"><a href="http://www.cstv.com/roadtripcentral/goingsouth/">GOING SOUTH</a></div>
+			  <div class="subnav"><a href="http://www.cstv.com/roadtripcentral/goingwest/">GOING WEST</a></div>
 	  <div class="subnav"><a href="http://www.hoopsodyssey.com">HOOPS ODYSSEY</a></div>
-	  <div class="subnav"><a href="http://www.cstv.com/sports/m-baskbl/roadtothefinal64/palm_bracket.html">JERRY PALM'S BRACKETANICA</a></div>
-	  <div class="subnav"><a href="http://www.cstv.com/missionsecfootball/">MISSION: SE COLLEGE FOOTBALL</a></div>
+	  <!-- <div class="subnav"><a href="http://www.cstv.com/sports/m-baskbl/roadtothefinal64/palm_bracket.html">JERRY PALM'S BRACKETANICA</a></div>-->
+	  <!-- <div class="subnav"><a href="http://www.cstv.com/missionsecfootball/">MISSION: SE COLLEGE FOOTBALL</a></div>-->
 	  <div class="subnav"><a href="http://www.cstv.com/podcasts/">PODCASTS</a></div>
 	  <div class="subnav"><a href="http://slog.cstv.com/rinkrat/">THE RINK RAT ROAD TRIP</a></div>
+	  <div class="subnav"><a href="http://www.cstv.com/roadtripcentral/">ROAD TRIP CENTRAL</a></div>
+			  
 	  <div class="subnav"><a href="http://www.cstv.com/sports/m-baskbl/cinderella/">SEARCHING FOR CINDERELLA</a></div>
-	  <div class="subnav"><a href="http://www.cstv.com/cstv/programming/sultanofsaturday/">THE SULTAN OF SATURDAY</a></div>
-      <div class="subnav"><a href="http://www.cstv.com/sports/m-hockey/attherinkindex0607.html">TUESDAY @ THE RINK CHATS</a></div>
+	  <!-- <div class="subnav"><a href="http://www.cstv.com/cstv/programming/sultanofsaturday/">THE SULTAN OF SATURDAY</a></div>-->
+      <div class="subnav"><a href="http://www.cstv.com/sports/m-hockey/attherinkindex0708.html">TUESDAY @ THE RINK CHATS</a></div>
     </div>
   </div>
   <!--teams-->
@@ -1060,7 +1066,7 @@ document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj
   <!--shop-->
   <div id="menu8">
     <div class="collapsed" onmouseover="toggleMenu()">
-      <div class="subnav"><a href="http://www.cstv.com/auctions/">AUCTIONS</a></div>
+      <div class="subnav"><a href="http://cstvauctions.com/">AUCTIONS</a></div>
       <div class="subnav"><a href="http://www.cstv.com/store/" target="_blank">STORE</a></div>
       <div class="subnav"><a href="http://www.cstv.com/tickets/">TICKETS</a></div>
     </div>
@@ -1068,19 +1074,20 @@ document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj
   <!-- on air-->
   <div id="menu9">
     <div class="collapsed" onmouseover="toggleMenu()">
-      <div class="subnav"><a href="http://www.cstv.com/cstv/programming/showpages/whatsoncstv.html">ON-AIR SCHEDULE</a></div>
-      <div class="subnav" id="subnav_shows" onmouseover="showDropDown(this,14,-356); "> <a href="#"> SHOWS <img src="http://graphics.cstv.com/graphics/sitewide/nav/nav_arrow01.gif" class="arrow"> </a>
+      <div class="subnav"><a href="http://www.cstv.com/cgi-bin/tvsched.cgi">ON-AIR SCHEDULE</a></div>
+      <div class="subnav" id="subnav_shows" onmouseover="showDropDown(this,14,-356); "> <a href="http://www.cstv.com/cstv/shows/"> SHOWS</a>
         <!-- 1st Tier Dropdown-->
-        <div id="shows_dropdown" class="DD" style="display: none; ">
+        <!-- <div id="shows_dropdown" class="DD" style="display: none; ">
           <div class="innercontent">
             <ul style="float: left; width: 175px; border-right: 1px solid #ff6c43;">
               <li>
                 <h3><a href="http://www.cstv.com/cstv/programming/showpages/whatsoncstv.html">SHOWS</a></h3>
-              </li>
-              <li><a><strong>MARCH MADNESS</strong></a></li>
-              <li><a href="http://www.cstv.com/cstv/programming/showpages/marchmadnesspregame.html">Pregame show</a></li>
-              <li><a href="http://www.cstv.com/cstv/programming/showpages/marchmadnesshighlights.html">Highlight Show</a></li>
-              <li>&nbsp;</li>
+              </li>-->
+              <!-- <li><a><strong>MARCH MADNESS</strong></a></li>-->
+              <!-- <li><a href="http://www.cstv.com/cstv/programming/showpages/marchmadnesspregame.html">Pregame show</a></li>-->
+             <!--  <li><a href="http://www.cstv.com/cstv/programming/showpages/marchmadnesshighlights.html">Highlight Show</a></li>-->
+              <!-- <li>&nbsp;</li>-->
+              <!-- <li><a href="http://www.cstv.com/cstv/programming/showpages/salutewomen/">Salute Women's Sports</a></li>
               
               <li><a href="http://www.cstv.com/cstv/programming/showpages/generationnext.html">Generation Next</a></li>
    			  <li><a href="http://www.cstv.com/cstv/programming/one2one.html">One2One</a></li>
@@ -1097,7 +1104,7 @@ document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj
               <li><a href="http://www.cstv.com/cstv/programming/tourneytalk/">Tourney Talk</a></li>
             </ul>
           </div>
-        </div>
+        </div>-->
         <!-- 1st Tier Dropdown End -->
       </div>
       <div class="subnav onair"><a href="http://www.cstv.com/getcstv/">GET CSTV</a></div>
@@ -1106,6 +1113,15 @@ document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj
   </div>
 </div>
 <!--/ NAV -->
+
+<script>	
+	menus=cstv.$css("div[id^=menu]",$("dropdownMenu"));
+	for(var i=0;i<menus.length;i++) 
+	{
+		menus[i].onmouseout = toggleDivOff;
+		menus[i].onmouseover = toggleDivOn;	
+	}
+</script>
 
 
 <!-- CONTENT -->
@@ -1254,7 +1270,7 @@ By using this Site, you agree to the terms of this Policy. All modifications or 
 
 <p><span class="PrivacyTeaser">CORRECTION/UPDATING PERSONAL INFORMATION</span><br>
 </p><div class="fivevert">&nbsp;</div>
-If your personally identifiable information (such as your address) changes, or if you no longer desire to access our Site, you may correct, update or remove the personal data you have provided to us by making changes to your profile, by using an opt out message in an email, or by emailing the Site at <a href="mailto:webmaster@collegesports.com" class="emaillink">webmaster@collegesports.com</a> with your request. If you have any questions about this privacy policy or the privacy practices of this Site, you can contact us at <a href="mailto:webmaster@collegesports.com" class="emaillink">webmaster@collegesports.com</a> or at:<br>
+If your personally identifiable information (such as your address) changes, or if you no longer desire to access our Site, you may correct, update or remove the personal data you have provided to us by making changes to your profile, by using an opt out message in an email, or by emailing the Site at <a href="mailto:webmaster@cstv.com" class="emaillink">webmaster@cstv.com</a> with your request. If you have any questions about this privacy policy or the privacy practices of this Site, you can contact us at <a href="mailto:webmaster@cstv.com" class="emaillink">webmaster@cstv.com</a> or at:<br>
 <div class="fivevert">&nbsp;</div>
 CSTV Online, Inc.<br>
 2035 Corte del Nogal - Suite 250<br>
@@ -1316,8 +1332,8 @@ Carlsbad, CA 92011.
 
 <div id="footer_cups">  
   <div class="sites" align="center"><a href="http://www.cstv.com/">HOME</a> \
-	<a href="http://www.cstv.com/online">ABOUT US</a> \ <a href="http://www.cstv.com/online/partners/collegesports-partners.html">PARTNERS</a> \ <a href="http://www.cstv.com/online/services/collegesports-services.html">SERVICES</a> \ <a href="http://www.uwire.com/">U-Wire</a> \ <a href="http://www.cstv.com/sales/">ADVERTISE WITH US</a> \ <a href="http://www.cstv.com/online/contact/collegesports-contact.html">CONTACT US</a> \ <a href="http://www.cstv.com/online/jobs/collegesports-jobs.html">WORK FOR US</a> <!-- \ <a href="http://www.cstv.com/feedback/cs-feedback.html">SITE FEEDBACK</a>--> \ <a href="http://www.cstv.com/ot/privacy.html">PRIVACY POLICY</a><br>
-  <a href="http://interact.cstv.com/prospects/">RECRUIT ME!</a> \ <a href="http://www.cstv.com/cstv/fields_and_dreams.html">FIELDS &amp; DREAMS</a>  <!-- \  <a href="http://www.cstv.com/sales/">SALES</a>-->  \  <a href="http://www.cstv.com/cstv/aff_login.html" target="_blank">AFFILIATES</a> \  <a href="http://www.cstv.com/getcstv/">GET CSTV</a> \ <a href="http://www.cstv.com/online/cs-rss.html">RSS</a> </div>
+	<a href="http://www.cstv.com/online">ABOUT US</a> \ <a href="http://www.cstv.com/online/partners/collegesports-partners.html">PARTNERS</a> \ <a href="http://www.cstv.com/online/services/collegesports-services.html">SERVICES</a> \ <a href="http://www.uwire.com/">U-Wire</a> \ <a href="http://www.cstv.com/sales/">ADVERTISE WITH US</a> \ <a href="http://www.cstv.com/online/contact/collegesports-contact.html">CONTACT US</a> \ <a href="http://www.cstv.com/online/jobs/collegesports-jobs.html">WORK FOR US</a> <!-- \ <a href="http://www.cstv.com/feedback/cs-feedback.html">SITE FEEDBACK</a>--> \ <a href="http://www.cstv.com/ot/privacy.html">PRIVACY POLICY</a> \ <a href="http://www.cstv.com/ot/terms.html">SITE TERMS OF USE</a><br>
+ <!--  <a href="http://interact.cstv.com/prospects/">RECRUIT ME!</a> \--> <a href="http://www.cstv.com/cstv/fields_and_dreams.html">FIELDS &amp; DREAMS</a>  <!-- \  <a href="http://www.cstv.com/sales/">SALES</a>-->  \  <a href="http://www.cstv.com/cstv/aff_login.html" target="_blank">AFFILIATES</a> \  <a href="http://www.cstv.com/getcstv/">GET CSTV</a> \ <a href="http://www.cstv.com/feeds">FEEDS</a> </div>
 
 	<div>Video Search powered by AOL</div>
 		
@@ -1346,34 +1362,46 @@ Carlsbad, CA 92011.
 	margin-top: 5px;
 	margin-bottom: 5px;
 }
-
+.toprt_ad {
+	width: 210px;
+	height: 90px;
+	position:absolute;
+	top: 30px;
+	left: 755px;
+	cursor:pointer;
+}
 
 -->
 </style>
 </div>
 <!-- CONTAINER -->
 <!--ad call-->
-<div id="ad_728x90" style=" position: absolute; top: 29px; left: 124px;">
+<div id="ad_728x90" style=" position: absolute; top: 29px; left: 12px;">
   <script language="javascript1.2"> procad("http://ad.doubleclick.net/adj/CSTV.CS/OT;pos=top;sz=728x90;dcopt=ist;",0); </script>
+</div>
+<div class="toprt_ad">
+<script language="javascript1.2"> procad("http://ad.doubleclick.net/adj/CSTV.CS/OT;pos=promo19;sz=120x60;dcopt=ist;",0); </script>
 </div>
 <!-- RED SHERIFF -->
 <style type="text/css">
 #inseguitore{position:absolute;left:0;top:0;}
 </style>
 <div id="inseguitore">
-<!-- START Nielsen//NetRatings SiteCensus V5.2 -->
-<!-- COPYRIGHT 2006 Nielsen//NetRatings -->
+<!-- START Nielsen//NetRatings SiteCensus V5.3 -->
+<!-- COPYRIGHT 2007 Nielsen//NetRatings -->
 <script type="text/javascript">
- var _rsCI="us-cstv";
- var _rsCG="0";
- var _rsDN="//secure-us.imrworldwide.com/";
+var _rsCI="us-cstv";
+var _rsCG="0";
+var _rsDN="//secure-us.imrworldwide.com/";
+var _rsCL=1;
 </script>
-<script type="text/javascript" src="//secure-us.imrworldwide.com/v52.js"></script>
+<script type="text/javascript" src="//secure-us.imrworldwide.com/v53.js"></script>
 <noscript>
- <img src="//secure-us.imrworldwide.com/cgi-bin/m?ci=us-cstv&amp;cg=0&amp;cc=1" alt=""/>
+<div><img src="//secure-us.imrworldwide.com/cgi-bin/m?ci=us-cstv&amp;cg=0&cc=1" alt=""/></div>
 </noscript>
-<!-- END Nielsen//NetRatings SiteCensus V5.2 -->
+<!-- END Nielsen//NetRatings SiteCensus V5.3 --> 
 </div>
+
 
 
 
