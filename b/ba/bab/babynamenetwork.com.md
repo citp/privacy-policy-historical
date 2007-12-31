@@ -1,31 +1,7 @@
-> *The following text is extracted and transformed from the babynamenetwork.com privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608043409id_/http%3A//www.babynamenetwork.com/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babynamenetwork.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231020434id_/http%3A//www.babynamenetwork.com/privacy_policy.cfm) for the most accurate reproduction.*
 
 # Baby Names, Baby Boy Names, Baby Girl Names, Baby Name Meanings
 
-|  |    
----  
-  
-**SEARCH BY ALPHABET**
-
-**BOY NAMES** **GIRL NAMES**  
-  
-  
-   
----  
-  
-**SEARCH BY ORIGIN  
-**Our database contains baby names from hundreds of different origins from Aboriginal to Zimbabwean, and everything in between! Simply find the origin of your choice from the drop-down list below and browse through the wide variety of baby names. 
-
-Click here for a complete listing of [name origins](https://web.archive.org/baby_names/origin.cfm).  
-  
-  
-   
----  
-  
-**QUICK SEARCH  
-** Have a baby name in mind already? Let us show you the meaning, origin, similar alternatives, and famous namesakes:  
-  
-  
 Our Privacy Policy is designed to assist you in understanding how we collect and use the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services.
 
 **What Information Do We Collect?**
@@ -92,19 +68,3 @@ This website may contain links to other sites. Please be aware that we, Baby Nam
 **Tell Us What You Think**
 
 Baby Name Network welcomes your questions and comments about privacy. Please e-mail us at [help@babynamenetwork.com](mailto:help@babynamenetwork.com).
-
-|  |   
----  
-  
-**FREE BENEFITS FOR BABY NAME NETWORK MEMBERS**
-
-**Enjoy the many benefits of being a member:**
-
-To get started,  
-just fill in your due date:
-
-  
-  
-  
-  
-
