@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unos.org privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608213423id_/http%3A//www.unos.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unos.org privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231150417id_/http%3A//www.unos.org/privacy.asp) for the most accurate reproduction.*
 
 # United Network for Organ Sharing: Organ Donation and Transplantation
 
