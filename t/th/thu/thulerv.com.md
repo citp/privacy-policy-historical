@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thulerv.com privacy policy that was archived on 2007-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070321125422id_/http%3A//www.thulerv.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thulerv.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231141754id_/http%3A//www.thulerv.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Thule SMART RV
 
