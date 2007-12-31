@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adlandpro.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630080236id_/http%3A//www.adlandpro.com/Privacystmt.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adlandpro.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231120155id_/http%3A//www.adlandpro.com/Privacystmt.aspx) for the most accurate reproduction.*
 
 # AdlandPro Privacy Policy
 
@@ -43,4 +43,4 @@ For **Affiliate/End User** , you can access all your personally identifiable inf
 To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.  
   
 How to Contact Us  
-Should you have other questions or concerns about these privacy policies, please [contact](https://web.archive.org/web/20070630080236id_/http%3A//www.adlandpro.com/ContactUs.aspx) us. Content posted to public community areas is publicly available and AdlandPro.com reserves the right to remove any publicly posted content which is objectionable.
+Should you have other questions or concerns about these privacy policies, please [contact](https://web.archive.org/web/20071231120155id_/http%3A//www.adlandpro.com/ContactUs.aspx) us. Content posted to public community areas is publicly available and AdlandPro.com reserves the right to remove any publicly posted content which is objectionable.
