@@ -1,13 +1,16 @@
-> *The following text is extracted and transformed from the dell.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626084031id_/http%3A//www.dell.com/content/topics/global.aspx/policy/en/policy%3Fc%3Dus%26l%3Den%26s%3Dgen%26%7Esection%3D000) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dell.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231040901id_/http%3A//www.dell.com/content/topics/global.aspx/policy/en/policy%3Fc%3Dus%26l%3Den%26s%3Dgen%26%7Esection%3D000) for the most accurate reproduction.*
 
 # Dell's Online Policies
 
+|   
+  
+---  
 | | | | |   
 ---  
   
 Global Privacy Policy
 
-At Dell, helping you manage privacy and the protection of personal information is among our primary concerns. That's why, when you choose Dell, we help you maintain control over personal information about you. Below are the guidelines we use for protecting the information you provide us during your experience with our company through any means, such as when you use our web sites, interact with us through our products and other services, when we speak with you over the telephone, and if you work directly with our technical support teams. We also want you to be aware that we take careful measures surrounding the information that you provide through any of our online support offerings such as [support.dell.com](http://support.dell.com/) or support applications loaded on your computer. Please refer to your warranty statements or service contracts, or Dell's Return Policy for policies that apply to information contained on hard drives returned or downloaded to Dell. 
+At Dell, helping you manage privacy and the protection of personal information is among our primary concerns. That's why, when you choose Dell, we help you maintain control over personal information about you. Below are the guidelines we use for protecting the information you provide us during your experience with our company through any means, such as when you use our web sites, interact with us through our products and other services, when we speak with you over the telephone, and if you work directly with our technical support teams. We also want you to be aware that we take careful measures surrounding the information that you provide through any of our online support offerings such as [support.dell.com](http://support.dell.com/support/index.aspx) or support applications loaded on your computer. Please refer to your warranty statements or service contracts, or Dell's Return Policy for policies that apply to information contained on hard drives returned or downloaded to Dell. 
 
 Visit [www.nclnet.org/technology/essentials](http://www.nclnet.org/technology/essentials/) to learn more about how to protect your privacy on the Internet through a consumer education campaign called Online E-ssentials, developed by Dell in partnership with the National Consumers League. 
 
@@ -88,4 +91,6 @@ How to Contact Us
 | | | | |   
 ---|---|---|---|---  
 | | | | |   
----|---|---|---|---
+---|---|---|---|---  
+  
+sn DWW5
