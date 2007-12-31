@@ -1,26 +1,27 @@
-<!--The following is the downloaded HTML source of the mobango.com privacy policy that was archived on 2007-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070629235323id_/http%3A//www.mobango.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mobango.com privacy policy that was archived on 2007-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071231154811id_/http%3A//www.mobango.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head></head><body><param name="wmode" value="opaque">
 
-<link type="application/rss+xml" rel="alternate" title="Recently Added Feed" href="/rss/recentlyadded.rss">
-<link type="application/rss+xml" rel="alternate" title="Top Favorites Feed" href="/rss/topfavourites.rss">
-<link type="application/rss+xml" rel="alternate" title="Top Rated Feed" href="/rss/1/toprated.rss">
-<link type="application/rss+xml" rel="alternate" title="Top downloads Feed" href="/rss/topdownloads.rss">
-<link type="application/rss+xml" rel="alternate" title="Most Viewed Files Today Feed" href="/rss/1/mostviewedtoday.rss">
-<link type="application/rss+xml" rel="alternate" title="Most Viewed Files This Week Feed" href="/rss/2/mostviewedthisweek.rss">
-<link type="application/rss+xml" rel="alternate" title="Most Viewed Files This Month Feed" href="/rss/3/mostviewedthismonth.rss">
-<link type="application/rss+xml" rel="alternate" title="Most Viewed Files All Time Feed" href="/rss/4/mostviewedalltime.rss">
-<link rel="shortcut icon" type="image/gif" href="/images/ico_littlemo.gif">
-			<title>MOBANGO - Privacy Statement</title>
-		<meta name="description" content="Privacy Statement">
-	<meta name="keywords" content="mobile media, free mobile downloads, free cellphone downloads, free mobile ringtones, share ringtones, free mobile wallpaper, free mobile images, free mobile themes,  free mobile software, free mobile WAP, free mobile games, free java games, free ringtones, buy ringtones, download free ringtones, cell phone, cell phone, mobango, mobango.com">
+<link type="application/rss+xml" rel="alternate" title="Recently Added Feed" href="http://feeds.feedburner.com/mobango/rss/recentlyadded">
+<link type="application/rss+xml" rel="alternate" title="Top Favorites Feed" href="http://feeds.feedburner.com/mobango/rss/topfavourites">
+<link type="application/rss+xml" rel="alternate" title="Top Rated Feed" href="http://feeds.feedburner.com/mobango/rss/toprated">
+<link type="application/rss+xml" rel="alternate" title="Top downloads Feed" href="http://feeds.feedburner.com/mobango/rss/topdownloads">
+<link type="application/rss+xml" rel="alternate" title="Most Viewed Files Today Feed" href="http://feeds.feedburner.com/mobango/rss/mostviewedtoday">
+<link type="application/rss+xml" rel="alternate" title="Most Viewed Files This Week Feed" href="http://feeds.feedburner.com/mobango/rss/mostviewedthisweek">
+<link type="application/rss+xml" rel="alternate" title="Most Viewed Files This Month Feed" href="http://feeds.feedburner.com/mobango/rss/mostviewedthismonth">
+<link type="application/rss+xml" rel="alternate" title="Most Viewed Files All Time Feed" href="http://feeds.feedburner.com/mobango/rss/mostviewedalltime">
+<link rel="shortcut icon" type="image/gif" href="http://content.mobango.com/images/standard/ico_littlemo.gif">
+            <title>MOBANGO - Privacy Statement</title>
+        
+    <meta name="description" content="Privacy Statement">
+    <meta name="keywords" content="mobile media, free mobile downloads, free cellphone downloads, free mobile ringtones, share ringtones, free mobile wallpaper, free mobile images, free mobile themes,  free mobile software, free mobile WAP, free mobile games, free java games, free ringtones, buy ringtones, download free ringtones, cell phone, cell phone, mobango, mobango.com">
 <meta http-equiv="Pragma" content="no-cache">
 <meta http-equiv="Expires" content="-1">
 
-<link rel="stylesheet" type="text/css" href="/css/mobango.css">
+<link rel="stylesheet" type="text/css" href="http://content.mobango.com/css/mobango.css">
 
-<script language="JavaScript" src="http://mobango.com/js/mobango.js" type="text/javascript"></script>
+<script language="JavaScript" src="http://content.mobango.com/js/mobango.js" type="text/javascript"></script>
 <script language="Javascript" type="text/javascript">
 <!--
 function trim(s)
@@ -33,89 +34,93 @@ function trim(s)
     }
 function check(adult)
 {
-	//document.keysrch.submit();
-	var search_url;
-	var key = document.getElementById('key').value;
-	if(adult == 1)
-		search_url = '/view/search.php?search=key&adult=1&key='+key;
-	else
-		search_url = '/view/search.php?search=key&key='+key;
-	//alert(search_url);
-	window.location.href=search_url;
+    //document.keysrch.submit();
+    var search_url;
+    var key = document.getElementById('headkey').value;
+    key = key.replace(/^\s+|\s$/g, '') ;    
+    if(key == '?' || key == ' ?')
+    {        
+        key = "\\?";
+    }
+    if(adult == 1)
+        search_url = '/view/search.php?search=key&adult=1&key='+key;
+    else
+        search_url = '/view/search.php?search=key&key='+key;    
+    window.location.href=search_url;
     return true;
 }
-function chkEnter(e,adult){
-	if(e.keyCode == 13) {
-		if(adult==1)
-			check(1);
-		else
-			check();
-	}
+function chkEnterforkeyword(e,adult){
+    if(e.keyCode == 13) {
+        if(adult==1)
+            check(1);
+        else 
+            check();
+    }
 }
 
 
 /*function restore_state(){
-
-	
+    
+    
 }*/
 
 
 function menuActivate(idEdit, idMenu)
 {
-	oMenu = document.getElementById(idMenu);
-	oEdit = document.getElementById(idEdit);
-	nTop = oEdit.offsetTop + oEdit.offsetHeight;
-	//alert(nTop);
-	nLeft = oEdit.offsetLeft;
-	while (oEdit.offsetParent != document.body)
-	{
-		oEdit = oEdit.offsetParent;
-		//alert(oEdit);
-		if(oEdit!= null){
-			nTop += oEdit.offsetTop;
-			nLeft += oEdit.offsetLeft;
-			break;
-		}
-	}
-
-
-	//oMenu.style.left = nLeft-3;
-
-	var browser=navigator.appName
-	var b_version=navigator.appVersion
-	var version=parseFloat(b_version)
-	if (browser=="Netscape")
-	{
-		oMenu.style.top = nTop+10;
-		oMenu.style.left = "-1px";
-	}
-	else
-	{
-		oMenu.style.top = nTop+2;
-		oMenu.style.pixelLeft = nLeft-50;
-	}
-	//browser=="Microsoft Internet Explorer")
-	//oMenu.style.top = nTop+2;
-	oMenu.style.display = "";
-	document.getElementById("adid").style.display="";
-	//fActiveMenu = idMenu;
-	//document.getElementById(idSel).focus();
-	return false;
+    oMenu = document.getElementById(idMenu);
+    oEdit = document.getElementById(idEdit);
+    nTop = oEdit.offsetTop + oEdit.offsetHeight;
+    //alert(nTop);
+    nLeft = oEdit.offsetLeft;
+    while (oEdit.offsetParent != document.body)
+    {
+        oEdit = oEdit.offsetParent;
+        //alert(oEdit);
+        if(oEdit!= null){
+            nTop += oEdit.offsetTop;
+            nLeft += oEdit.offsetLeft;
+            break;
+        }
+    }
+    
+    
+    //oMenu.style.left = nLeft-3;
+    
+    var browser=navigator.appName
+    var b_version=navigator.appVersion
+    var version=parseFloat(b_version)
+    if (browser=="Netscape")
+    {
+        oMenu.style.top = nTop+10;
+        oMenu.style.left = "-1px";
+    }
+    else
+    {
+        oMenu.style.top = nTop+2;
+        oMenu.style.pixelLeft = nLeft-50;
+    }
+    //browser=="Microsoft Internet Explorer")
+    //oMenu.style.top = nTop+2;
+    oMenu.style.display = "";
+    document.getElementById("adid").style.display="";
+    //fActiveMenu = idMenu;
+    //document.getElementById(idSel).focus();
+    return false;
 }
 
 function menuHide(idobj){
-
-	document.getElementById(idobj).style.display = "none";
-	document.getElementById("adid").style.display="none";
+    
+    document.getElementById(idobj).style.display = "none";
+    document.getElementById("adid").style.display="none";
 }
 
 function menuvisble(idobj){
-	document.getElementById(idobj).style.display = "";
-	document.getElementById("adid").style.display="";
+    document.getElementById(idobj).style.display = "";
+    document.getElementById("adid").style.display="";
 }
 function hidemenu()
 {
-	document.getElementById("adid").style.display="none";
+    document.getElementById("adid").style.display="none";
 }
 
 -->
@@ -124,69 +129,82 @@ function hidemenu()
 
 
 <div id="layout">
-<!--127.0.0.1-->
-	<div><img src="/pv/pv_template1.gif" width="0" height="0" alt=""></div>
-	<a href="/"><img src="/images/mobango_logo.gif" title="Welcome to Mobango Home" border="0" class="mlogo" alt=""></a>
-		<div id="main-crumbs">
-	<!-- Added by shrinath on 13/apr/2007 for usability issues -->
-		<!-- ends -->
-	<a href="/signup/">Sign up</a>  | <a href="/help/">Help</a> |  <a href="/login/">Login</a> </div>
-		<div id="header">
-		  <ul>
-		  			<li><a href="/">Home</a></li>
-			<!--li><a href="/mobile_stuff/"></a></li>-->
-			<!--li><a href="/ugc/"></a></li>-->
-			<li><a href="/ugc/">Mobile Stuff</a></li>
-			<li><a href="/view/friend.php">Friends</a></li>
-			<!--li><a href="/resource/">Tools</a></li>-->
-			<li><a href="/view/upload.php?dmnm=wwm">Upload</a></li>
-		 		 </ul>
-	</div>
-	<br clear="all">
+    <div><img src="http://content.mobango.com/images/standard/pv/pv_template1.gif" width="0" height="0" alt=""></div>
+    
+    <div><span><a href="/"><img src="http://content.mobango.com/images/standard/mobango_logo.gif" title="Welcome to Mobango Home" border="0" class="mlogo" alt=""></a></span>
+    
+            <div id="main-crumbs">  
+        <span class="hiringtxt1"><a href="#" title="Get direct access to over 400K of FREE Mobile content with the new Mobango Toolbar" onclick="window.open('http://www.mobango.com/tool/toolbar')"><font color="#FF6600"><u>NEW: Download the Mobango Toolbar NOW!</u></font></a></span>
+                                   <span class="lbl-search1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/signup/">Sign up</a></span>  | <a href="/help/">Help</a> | <a href="/login/">Login</a> </div>
+      
+        
+    <div>  </div>
+    <div id="header">
+            <ul>
+                      <li><a href="/">Home</a></li>
+            <li><a href="/mobile_stuff/recent/">Mobile Stuff</a></li>
+            <li><a href="/ugc/">Categories</a></li>
+            <li><a href="/view/friend.php">Friends</a></li>
+            <li><a href="/resource/">Tools</a></li>
+            <li><a href="/view/upload.php">Upload</a></li>
+                  </ul>
+    </div>
+    <br clear="all">
   <div class="sub-menus">
-		<div class="sub"><div><div><div>
-			<img src="/images/blank.gif" width="1" height="8" alt=""><br>
-					</div>
-		</div></div></div>
+        <div class="sub"><div><div><div>
+            <img src="http://content.mobango.com/images/standard/blank.gif" width="1" height="8" alt=""><br>
+                    </div>
+        </div></div></div>
   </div>
+<!-- added by subash for 6 week web and mobile promotion [id=3270] -->
+	<div style="font-size:12px; color:#3366CC; font-weight:bold; width:100%; text-align:center">
+  <a href="http://blog.mobango.com/?utm_source=mobango.com&amp;utm_medium=textlink&amp;utm_term=What%2Bis%2Bnew%2Bon%2BMobango%3F%2BVisit%2Bour%2BBlog&amp;utm_campaign=blog-header" title="This is the official Mobango.com Blog. Here we inform you about new features, cool downloads and the latest mobile industry news." onclick="javascript:urchinTracker('/track/stats/outbound/blog.mobango.com/header');">What is new on Mobango? Visit our Blog</a>
+  </div>
+<!-- end -->
 
-<!--		SEARCH BAR COMES HERE		-->
+<!--        SEARCH BAR COMES HERE        -->
 
 <div id="search-bar">
-	<div class="rounded"><div><div><div>
-	 <form action="/view/search.php?search=key&amp;adult=1" method="get" class="f-left" name="keysrch">
-	 <label class="lbl-search">Search Mobango</label>
-	 	<input type="hidden" name="search" value="key">
-				<input name="key" id="key" type="text" class="txt-search" title="Search" alt="Key Search" value="" maxlength="50">
-		<table class="btn-search btn-font" align="center" border="0" cellpadding="0" cellspacing="0">
-				 <tbody>
-				 <tr>
-				<!--<td width="10" >
-				<img src="/images/btn_01.gif"  width="10" height="22" alt="" /></td>-->
-				<td bgcolor="#FFFFFF">&nbsp;
-									<a href="#" onclick="return check();">Search</a>&nbsp;</td>
-								<!--<td width="10">
-				<img src="/images/btn_03.gif" width="10" height="22" alt="" /></td>-->
-				<td bgcolor="#FFFFFF"><img align="middle" src="/images/down_button.gif" id="combotext1" onmouseover="JavaScript:menuActivate('combotext1', 'combodiv1')">
+    <div class="rounded"><div><div><div>
+      
+    <span class="f-left">
+     <label class="lbl-search">Search Mobango</label>
+         <input type="hidden" name="search" value="key">
+                         <input name="headkey" id="headkey" type="text" class="txt-search" title="Search" alt="Key Search" value="" maxlength="50" onkeypress="chkEnterforkeyword(event)">
+                <table class="btn-search btn-font" align="center" border="0" cellpadding="0" cellspacing="0">
+                 <tbody>
+                 <tr>
+                <!--<td width="10" >
+                <img src="http://content.mobango.com/images/standard/btn_01.gif"  width="10" height="22" alt="" /></td>-->
+                <td bgcolor="#FFFFFF">&nbsp;
+                                    <a href="#" onclick="return check();">Search</a>&nbsp;</td>
+                    
+                <!--<td width="10">
+                <img src="http://content.mobango.com/images/standard/btn_03.gif" width="10" height="22" alt="" /></td>-->
+                <td bgcolor="#FFFFFF"><img align="middle" src="http://content.mobango.com/images/standard/down_button.gif" id="combotext1" onmouseover="JavaScript:menuActivate('combotext1', 'combodiv1')">
 
-				<div id="combodiv1" style="background:#FFFFFF;position:absolute; display:none; top:20px; left:10px;z-index:10000;border-width:1px;border-style:solid;border-color:#C0C0C0; padding:5px; width:150px" onmouseout="javascript:menuHide('combodiv1')" onmouseover="javascript:menuvisble('combodiv1')">
+                <div id="combodiv1" style="background:#FFFFFF;position:absolute; display:none; top:20px; left:10px;z-index:10000;border-width:1px;border-style:solid;border-color:#C0C0C0; padding:5px; width:150px" onmouseout="javascript:menuHide('combodiv1')" onmouseover="javascript:menuvisble('combodiv1')">
 
 
-				<a href="/newsearch/file">Files Advanced Search</a><br>
-				<a href="/newsearch/user">Member Search</a>
+                <a href="/newsearch/file">Files Advanced Search</a><br>
+                <a href="/newsearch/user">Member Search</a>
 
-				</div>
-				</td>
-				</tr> </tbody>
-		</table>
-		<img src="/images/blank.gif" height="1" width="60" alt=""> &nbsp; &nbsp;
-		<!---->
+                </div>
+                </td>
+                </tr> </tbody>
+        </table>
+        <img src="http://content.mobango.com/images/standard/blank.gif" height="1" width="60" alt=""> &nbsp; &nbsp; 
+        <!-- dont remove the form here . Otherwise other pages wornt work for ex: Modify file page -->
+        <form name="keysrch">    
+        <!---->
+        </form>
+</span> 
 
-</form>
-	</div></div>
-	</div></div>
+
+    </div></div>
+    </div></div>
 </div>
-
+   
 <div class="bread-crumbs"><a href="/">Home</a> &gt; </div>
 <div class="heading"><span class="headtxt">PRIVACY</span></div>
 <div class="terms-des">
@@ -219,28 +237,27 @@ Please refer to the section <a href="../view/termsofservices.php" class="orange1
 
   
 <br clear="all">
-  <img src="/images//blank.gif" alt=""><br clear="all">
+  <img src="http://content.mobango.com/images/standard/blank.gif" alt=""><br clear="all">
 		
 <div id="footer" style="height: 121px;">
 <div class="foot-form">
 	<label class="bl-bold">Search Mobango</label><br>
 			<input name="footkey" id="footkey" type="text" class="foot-txtbx" title="Text box" alt="Key Search" value="" maxlength="50" onkeypress="chkEnterfoot(event)">
-		<br><img src="/images/blank.gif" alt=""><br clear="all">
+		<br><img src="http://content.mobango.com/images/standard/blank.gif" alt=""><br clear="all">
 	<table class="btn-font" border="0" cellpadding="0" cellspacing="0">
 				<tbody><tr>
 				<td width="10" height="22">
-				<img src="/images/btn_01.gif" width="10" height="22" alt=""></td>
+				<img src="http://content.mobango.com/images/standard/btn_01.gif" width="10" height="22" alt=""></td>
 				<td bgcolor="#3366CC">
 									<a href="#" class="btn-link" onclick="return footcheck();">Search</a></td>
 						
 				<td width="10" height="22">
-				<img src="/images/btn_03.gif" width="10" height="22" alt=""></td>
+				<img src="http://content.mobango.com/images/standard/btn_03.gif" width="10" height="22" alt=""></td>
 				</tr>
 		</tbody></table>
 </div>
 
 <div class="foot-mid">
-<!-- <a href="/"><strong>Home</strong></a> | <a href="/mobile_stuff/"><strong>Mobile Stuff</strong></a> | <a href="/ugc/"><strong>Categories</strong></a> | <a href="/view/friend.php"><strong>Friends</strong></a> | <a href="/resource/"><strong>Tools</strong></a> | <a href="/view/upload.php"><strong>Upload</strong></a> <br />-->
  
 <script language="Javascript" type="text/javascript">
 <!--
@@ -269,10 +286,6 @@ function chkEnterfoot(e,adult){
 -->
 </script>
 
-
-<!---->
-
-<!-- Footer links add by anish on 07/02/2007 -->
 <a href="/ugc/Wallpapers/N1uNLEeRY4U=/">Free Wallpapers</a>&nbsp;|
 <a href="/ugc/Polyphonics/0j1K6M_zTT0=/">Free Ringtones</a>&nbsp;|
 <a href="/ugc/Video/Uiw3_ezZNEs=/">Free Mobile Videos</a>&nbsp;|
@@ -298,57 +311,30 @@ function chkEnterfoot(e,adult){
 <a href="/cell_phones/brand/27/model/2167/">Sanyo 6600</a>
 
 	
-<!-- end of footer links -->
-<!--	bookmark added	David -->
+
+
 <div style="align:center;margin:0 0 15px 0">
 <fieldset style="border:0px solid #CCCCCC;text-align:center;padding:5px 5px 5px 12px">
-<!--<legend><span style="font-size:13.25px;color:#000000"><strong>Bookmark Mobango</strong></span></legend>-->
+
 <div style="margin:5px 0 0 0"></div>
-<!-- 
-<a href="http://del.icio.us/post" onclick="window.open('http://del.icio.us/post?v=4&amp;noui&amp;jump=close&amp;url=http%3A%2F%2Fwww.mobango.com/privacy/&amp;title=MOBANGO - MOBANGO%20-%20Create,%20share%20and%20download%20thousands%20of%20ringtones,%20mobile%20videos,%20wallpapers,%20mobile%20photos%20to%20your%20cell%20phone', 'delicious','toolbar=no,width=700,height=400'); return false;">
-<img src="/images/delicious.gif" alt="" border="0" style="padding:0 5px 0 0"/></a>
 
+<a href="#" onclick="window.open('http://del.icio.us/post?v=4&amp;noui&amp;jump=close&amp;url=http%3A%2F%2Fwww.mobango.com/view/privacy.php&amp;title=MOBANGO%20-%20Create,%20share%20and%20download%20thousands%20of%20ringtones,%20mobile%20videos,%20wallpapers,%20mobile%20photos%20to%20your%20cell%20phone', 'delicious','toolbar=no,width=700,height=400');urchinTracker('/outbound/bookmark/del.icio.us');">
+<img src="http://content.mobango.com/images/standard/delicious.gif" alt="" border="0" style="padding:0 5px 0 0"></a>
 
-<a href="http://digg.com/submit?phase=2&amp;url=http%3A%2F%2Fwww.mobango.com/privacy/&amp;title=MOBANGO - MOBANGO%20-%20Create,%20share%20and%20download%20thousands%20of%20ringtones,%20mobile%20videos,%20wallpapers,%20mobile%20photos%20to%20your%20cell%20phone">
-<img src="/images/digg.gif" alt="" border="0" style="padding:0 5px 0 0"/></a>
+<a onclick="javascript:urchinTracker('/outbound/bookmark/digg');" href="http://digg.com/submit?phase=2&amp;url=http%3A%2F%2Fwww.mobango.com/view/privacy.php&amp;title=MOBANGO%20-%20Create,%20share%20and%20download%20thousands%20of%20ringtones,%20mobile%20videos,%20wallpapers,%20mobile%20photos%20to%20your%20cell%20phone">
+<img src="http://content.mobango.com/images/standard/digg.gif" alt="" border="0" style="padding:0 5px 0 0"></a>
 
+<a onclick="javascript:urchinTracker('/outbound/bookmark/furl');" href="http://www.furl.net/storeIt.jsp?t=MOBANGO%20-%20Create,%20share%20and%20download%20thousands%20of%20ringtones,%20mobile%20videos,%20wallpapers,%20mobile%20photos%20to%20your%20cell%20phone&amp;u=http%3A%2F%2Fwww.mobango.com/view/privacy.php">
+<img src="http://content.mobango.com/images/standard/furl.gif" alt="" border="0" style="padding:0 5px 0 0"></a>
 
-<a href="http://www.furl.net/storeIt.jsp?t=MOBANGO - MOBANGO%20-%20Create,%20share%20and%20download%20thousands%20of%20ringtones,%20mobile%20videos,%20wallpapers,%20mobile%20photos%20to%20your%20cell%20phone&amp;u=http%3A%2F%2Fwww.mobango.com/privacy/">
-<img src="/images/furl.gif" alt="" border="0" style="padding:0 5px 0 0"/></a>
+<a onclick="javascript:urchinTracker('/outbound/bookmark/reddit');" href="http://reddit.com/submit?url=http%3A%2F%2Fwww.mobango.com/view/privacy.php&amp;title=MOBANGO%20-%20Create,%20share%20and%20download%20thousands%20of%20ringtones,%20mobile%20videos,%20wallpapers,%20mobile%20photos%20to%20your%20cell%20phone">
+<img src="http://content.mobango.com/images/standard/reddit.gif" alt="" border="0" style="padding:0 5px 0 0"></a>
 
+<a onclick="javascript:urchinTracker('/outbound/bookmark/spurl');" href="http://www.spurl.net/spurl.php?title=MOBANGO%20-%20Create,%20share%20and%20download%20thousands%20of%20ringtones,%20mobile%20videos,%20wallpapers,%20mobile%20photos%20to%20your%20cell%20phone&amp;url=http%3A%2F%2Fwww.mobango.com/view/privacy.php">
+<img src="http://content.mobango.com/images/standard/spurl.gif" alt="" border="0" style="padding:0 5px 0 0"></a>
 
-<a href="http://reddit.com/submit?url=http%3A%2F%2Fwww.mobango.com/privacy/&amp;title=MOBANGO - MOBANGO%20-%20Create,%20share%20and%20download%20thousands%20of%20ringtones,%20mobile%20videos,%20wallpapers,%20mobile%20photos%20to%20your%20cell%20phone">
-<img src="/images/reddit.gif" alt="" border="0" style="padding:0 5px 0 0"/></a>
-
-
-<a href="http://www.spurl.net/spurl.php?title=MOBANGO - MOBANGO%20-%20Create,%20share%20and%20download%20thousands%20of%20ringtones,%20mobile%20videos,%20wallpapers,%20mobile%20photos%20to%20your%20cell%20phone&amp;url=http%3A%2F%2Fwww.mobango.com/privacy/">
-<img src="/images/spurl.gif" alt="" border="0" style="padding:0 5px 0 0"/></a>
-
-<a href='/rss/'><img src="/images/rss.gif" alt="Mobangorss" border="0" /></a>
- -->
-
-<!--	from the above code the variable MOBANGO -  is removed and that content is added to MOBANGO%20-%20Create,%20share%20and%20download%20thousands%20of%20ringtones,%20mobile%20videos,%20wallpapers,%20mobile%20photos%20to%20your%20cell%20phone		David Raja 23 Jan 2007-->
-
-<a href="http://del.icio.us/post" onclick="window.open('http://del.icio.us/post?v=4&amp;noui&amp;jump=close&amp;url=http%3A%2F%2Fwww.mobango.com/privacy/&amp;title=MOBANGO%20-%20Create,%20share%20and%20download%20thousands%20of%20ringtones,%20mobile%20videos,%20wallpapers,%20mobile%20photos%20to%20your%20cell%20phone', 'delicious','toolbar=no,width=700,height=400'); return false;">
-<img src="/images/delicious.gif" alt="" border="0" style="padding:0 5px 0 0"></a>
-
-
-<a href="http://digg.com/submit?phase=2&amp;url=http%3A%2F%2Fwww.mobango.com/privacy/&amp;title=MOBANGO%20-%20Create,%20share%20and%20download%20thousands%20of%20ringtones,%20mobile%20videos,%20wallpapers,%20mobile%20photos%20to%20your%20cell%20phone">
-<img src="/images/digg.gif" alt="" border="0" style="padding:0 5px 0 0"></a>
-
-
-<a href="http://www.furl.net/storeIt.jsp?t=MOBANGO%20-%20Create,%20share%20and%20download%20thousands%20of%20ringtones,%20mobile%20videos,%20wallpapers,%20mobile%20photos%20to%20your%20cell%20phone&amp;u=http%3A%2F%2Fwww.mobango.com/privacy/">
-<img src="/images/furl.gif" alt="" border="0" style="padding:0 5px 0 0"></a>
-
-
-<a href="http://reddit.com/submit?url=http%3A%2F%2Fwww.mobango.com/privacy/&amp;title=MOBANGO%20-%20Create,%20share%20and%20download%20thousands%20of%20ringtones,%20mobile%20videos,%20wallpapers,%20mobile%20photos%20to%20your%20cell%20phone">
-<img src="/images/reddit.gif" alt="" border="0" style="padding:0 5px 0 0"></a>
-
-
-<a href="http://www.spurl.net/spurl.php?title=MOBANGO%20-%20Create,%20share%20and%20download%20thousands%20of%20ringtones,%20mobile%20videos,%20wallpapers,%20mobile%20photos%20to%20your%20cell%20phone&amp;url=http%3A%2F%2Fwww.mobango.com/privacy/">
-<img src="/images/spurl.gif" alt="" border="0" style="padding:0 5px 0 0"></a>
-
-<a href="/rss/"><img src="/images/rss.gif" alt="Mobangorss" border="0"></a>
+<a href="/rss/"><img src="http://content.mobango.com/images/standard/rss.gif" alt="Mobangorss" border="0"></a>
+<!-- end -->
 
 
 </fieldset>
@@ -360,54 +346,22 @@ function chkEnterfoot(e,adult){
 
  </div>
 <div class="lt-align">
-	<a href="/"><img src="/images/foot_logo.gif" alt="Mobango" border="0"></a><br>
+	<a href="/"><img src="http://content.mobango.com/images/standard/foot_logo.gif" alt="Mobango" border="0"></a><br>
 	<a href="/aboutus/">About us</a>&nbsp;|&nbsp;<a href="/privacy/">Privacy</a>&nbsp;|&nbsp;<a href="/terms_of_services.php">TOS</a>&nbsp;|&nbsp;<br><a href="http://blog.mobango.com/" title="This is the official Mobango.com Blog. Here we inform you about new features, cool downloads and the latest mobile industry news." onclick="javascript:urchinTracker('/outbound/blog.mobango.com');">Blog</a>&nbsp;|&nbsp;<a href="/view/invitefriend.php" title="Invite Friends">Invite Friends</a><br>
 	© 2007 Mobango</div>
-	
-<!-- 	<div class="lt-align">
-	<table border="0" bordercolor="green" cellpadding="0" cellspacing="0" width="100%" align="center">
-	<tr>
-	<td width="18%"></td>
-	<td width="3%" align="left"><table border="0" bordercolor="orange" width="100%"><tr><td height="5"></td></tr></table><a href="http://blog.mobango.com/" title="This is the official Mobango.com Blog. Here we inform you about new features, cool downloads and the latest mobile industry news." onclick="javascript:urchinTracker('/outbound/blog.mobango.com');"><img src="../images/new.gif" border="0"/></a>
-	</td> 
-	<td>
-	&nbsp;<a href="http://blog.mobango.com/" title="This is the official Mobango.com Blog. Here we inform you about new features, cool downloads and the latest mobile industry news." onclick="javascript:urchinTracker('/outbound/blog.mobango.com');"><span class="hiringtxt"><u>Mobango Blog</u></span></a>
-	</td>
-	</tr>
-	</table>	
-	<img src="/images/blank.gif" width="1" height="10" alt=""/>
-	<a href="http://blog.mobango.com/" title="Invite Friends">
-	<span class="hiringtxt"><u>Invite Friends</u></span></a>
-	</div> -->
-	<br>
-	<!-- <div class="lt-align">
-	<table><tr><td>
-	<table border="0" bordercolor="orange" width="100%"><tr><td height="5"></td></tr></table>
-	<a href="http://blog.mobango.com/" title="This is the official Mobango.com Blog. Here we inform you about new features, cool downloads and the latest mobile industry news." onclick="javascript:urchinTracker('/outbound/blog.mobango.com');"><img src="../images/new.gif" border="0"/></td><td>
-	<a href="http://blog.mobango.com/" title="This is the official Mobango.com Blog. Here we inform you about new features, cool downloads and the latest mobile industry news." onclick="javascript:urchinTracker('/outbound/blog.mobango.com');"><span class="hiringtxt"><u>Mobango Blog</u></span></a>
-	
-	</td></tr>
-	</table>
-	<table><tr><td>
-	<a href="/view/invitefriend.php" title="Invite Friends">
-	<span class="hiringtxt"><u>Invite Friends</u></span></a>
-	</td></tr></table>
-	</div> -->
 
-<!--	IMAGE REMOVAL BY DAVID	-->
-<!--	&nbsp;&nbsp;<a href='/rss/'><img src="/images/rss.gif" alt="Mobangorss" border="0" /></a>-->
+	<br>
+
 </div>
 
-<br clear="all">&nbsp;<img src="/images/blank.gif" alt="">
+<br clear="all">&nbsp;<img src="http://content.mobango.com/images/standard/blank.gif" alt="">
 </div>
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
 </script>
 <script type="text/javascript">
-//_uacct = "UA-128668-5";
 _uacct = "UA-128668-7";
-
 urchinTracker();
 </script>
 
 
-</body></html>
+</div></body></html>
