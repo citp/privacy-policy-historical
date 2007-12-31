@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the imlive.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629144619id_/http%3A//imlive.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imlive.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231183849id_/http%3A//imlive.com/Privacy.asp) for the most accurate reproduction.*
 
-# ImLive.com
+# Privacy Policy - Live Video Chat at ImLive
 
 We know that protecting your privacy is very important to you.
 
@@ -39,7 +39,6 @@ You have the following choices to update your information from our database: You
 
 If you have any questions about this Privacy Policy, you can contact us at: [info@ImLive.com](mailto:info@ImLive.com). 
 
-  
   
 **Video Chat at ImLive Language sites in your language!** [English](http://imlive.com/) | [Spanish](http://es.imlive.net/) | [French](http://fr.imlive.net/) | [German](http://www.imlive.de/)   
   
