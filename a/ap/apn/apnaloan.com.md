@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apnaloan.com privacy policy that was archived on 2007-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070501070732id_/http%3A//www.apnaloan.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apnaloan.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231171905id_/http%3A//www.apnaloan.com/privacy-policy.html) for the most accurate reproduction.*
 
 # ApnaLoan: Privacy Policy
 
@@ -49,17 +49,38 @@ We use contact information internally to:
 The Site contains links to other Web sites. We are not responsible for the privacy practices of such Web sites which we do not own, manage or control.
 
 **The information is shared with**  
-We will not use your financial information for any purpose other than to complete a transaction with you. By giving us the information you are giving us permission to 
+We will not use or rent your financial information for any purpose other than to complete a transaction with you. By giving us the information you are giving us permission:
 
   * to provide products or services you've requested
-  * to help investigate, prevent or take action regarding unlawful and illegal activities, suspected fraud, potential threat to the safety or security of any person, violations of apnaloan.com's terms of use or to defend against legal claims;
-  * special circumstances such as compliance with subpoenas, court orders, requests/order from legal authorities or law enforcement agencies requiring such disclosure.
+  * to help investigate violations of apnaloan.com's terms of use or to defend against legal claims;
+  * to disclose the information under special circumstances such as compliance with applicable local law, court summons, court orders, requests/order from legal authorities or law enforcement agencies requiring such disclosure. 
+
+
+
+We will send information about you to other companies or people when:
+
+  * We need to share your information to provide the product or service you have requested to enable them to contact you; or
+  * We have your consent from you to share the information;
+
+
+
+We need to share your information with certain service partners in order to respond to your queries / comments or to resolve service issues and to serve you better.
+
+**Security**
+
+  * Your account information is password-protected for your privacy and security
+
+
+
+**Changes to this Privacy Policy**
+
+  * We may amend this policy from time to time. If we make any substantial changes in the way we use your information we will notify you by posting a prominent announcement on our web pages.
 
 
 
 **To correct inaccuracies in the information you can**
 
-  * Send an e-mail to service@apnaloan.com
-  * Call the following telephone number: +91 (22) 24172427
+  * Send an e-mail to service@apnaloan.com 
+  * Call the following telephone number: 91 (22) 24172427
 
 
