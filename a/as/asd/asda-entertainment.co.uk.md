@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asda-entertainment.co.uk privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623044151id_/http%3A//www.asda-entertainment.co.uk/asda/privacy-policy.info) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asda-entertainment.co.uk privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231164144id_/http%3A//www.asda-entertainment.co.uk/asda/privacy-policy.info) for the most accurate reproduction.*
 
 # Privacy Policy - ASDA-Entertainment.co.uk
 
@@ -22,4 +22,4 @@ In addition to the company's safeguards, your personal data is protected in the 
 
 It should be accurate, relevant and not excessive. The information should, where necessary, be kept up to date and not retained for longer than is necessary. It should be kept securely to prevent unauthorized access by other people.
 
-If you have any queries on any aspect of the above policy, please [contact us](https://web.archive.org/web/20070623044151id_/http%3A//www.asda-entertainment.co.uk/asda/contact-us.info)
+If you have any queries on any aspect of the above policy, please [contact us](https://web.archive.org/web/20071231164144id_/http%3A//www.asda-entertainment.co.uk/asda/contact-us.info)
