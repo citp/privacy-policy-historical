@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dillards.com privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613212147id_/http%3A//www.dillards.com/info/notices.jsp%23PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dillards.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231172006id_/http%3A//www.dillards.com/info/notices.jsp%23PrivacyPolicy) for the most accurate reproduction.*
 
 # Dillard's.com | Company Notices and Terms of Use
 
@@ -93,9 +93,12 @@ Dillard’s does not ship fragrances, aerosols, and alcohol based products via E
 
 We trust you will be satisfied with your Dillard's purchase. However, should you decide the merchandise is not satisfactory, Dillard's return policy is stated below.
 
-The merchandise may be mailed back to us, or returned to any Dillard's location. Please leave all merchandise tags attached. Also, please note that if you choose to mail the merchandise back, you will be responsible for the postage. No refunds are given on shipping and handling charges. Personalized items cannot be returned.
+The merchandise may be mailed back to us, or returned to any Dillard's location. Please leave all merchandise tags attached. Also, please note that if you choose to mail the merchandise back, you will be responsible for the postage. We recommend that you insure the package and ship via a traceable method. No refunds are given on shipping and handling charges. Personalized items cannot be returned.
 
-**Merchandise Return Policy:**
+Address package to:  
+Dillard's  
+444 Brick Church Park Drive  
+Nashville, TN 37207-3216 
 
 Dillard's will issue a refund in the form and amount of the original tender paid (including sales tax) or Dillard's will issue a Merchandise Credit, at the customer's choice, when each of the following conditions has been met:
 
@@ -150,9 +153,9 @@ A "cookie" is a small data file stored by your Web browser on your computer's ha
 
 We use cookies to keep track of when you return to the Web Site as well as to identify the pages you click on during your visit to our site and the name of the Web site you visited immediately before clicking to Dillards.com. We may use this information to improve our site design, product assortments, customer service, and special promotions. You can, of course, disable cookies on your computer by indicating this in the preferences or options menus in your browser. _**However you will not be able to make purchases on our site if you disable cookies.**_
 
-If you are shopping Dillards.com and are having difficulty adding items to your shopping bag or completing your order, please check your privacy settings in your browser. We find that “Medium” Privacy Settings will optimize your online shopping experience at Dillards.com. If you are currently using the "Medium High" or "High" privacy settings, you can improve your online ordering experience if you override your current cookie handling practices for specific websites, including Dillards.com. Please click here for instructions on how to override your normal privacy/cookie handling practices. If you prefer not to change your privacy settings or override your cookie handling practices, you can, as always, place your Dillard’s order by phone at 1-800-345-5273. 
+If you are shopping Dillards.com and are having difficulty adding items to your shopping bag or completing your order, please check your privacy settings in your browser. We find that “Medium” Privacy Settings will optimize your online shopping experience at Dillards.com. If you are currently using the "Medium High" or "High" privacy settings, you can improve your online ordering experience if you override your current cookie handling practices for specific websites, including Dillards.com. Please [click here](https://web.archive.org/info/cookies.jsp) for instructions on how to override your normal privacy/cookie handling practices. If you prefer not to change your privacy settings or override your cookie handling practices, you can, as always, place your Dillard’s order by phone at 1-800-345-5273. 
 
-We may use third party companies to help us gather website traffic and other data that helps us to assess and improve our website and other services. These companies may use cookies, web beacons, or similar technology to collect and analyze information about our online traffic, on our behalf. These third parties are prohibited by our contracts with them from sharing that information with anyone other than us. However, if you would like to opt out of these third party services, please [click here](https://web.archive.org/web/20070613212147id_/http%3A//www.dillards.com/info/cookie_opt_out.jsp). 
+We may use third party companies to help us gather website traffic and other data that helps us to assess and improve our website and other services. These companies may use cookies, web beacons, or similar technology to collect and analyze information about our online traffic, on our behalf. These third parties are prohibited by our contracts with them from sharing that information with anyone other than us. However, if you would like to opt out of these third party services, please [click here](http://www.omniture.com/optout). 
 
 ### 5\. How You Can Change Your Preferences or “Email Opt Out” 
 
