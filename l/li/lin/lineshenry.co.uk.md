@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lineshenry.co.uk privacy policy that was archived on 2007-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070501102712id_/http%3A//www.lineshenry.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lineshenry.co.uk privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231161013id_/http%3A//www.lineshenry.co.uk/privacy.html) for the most accurate reproduction.*
 
 # Privacy - Lines Henry
 
