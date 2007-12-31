@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogto.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629233912id_/http%3A//blogto.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogto.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231193856id_/http%3A//www.blogto.com/privacy) for the most accurate reproduction.*
 
 # blogTO | Privacy
 
