@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bamkapow.com privacy policy that was archived on 2007-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070512194920id_/http%3A//www.bamkapow.com/page.phtml%3Fp%3DPrivacy%2BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bamkapow.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231092551id_/http%3A//www.bamkapow.com/page.phtml%3Fp%3DPrivacy%2BPolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Bam! Kapow!
 
@@ -7,7 +7,7 @@
 This statement covers the site www.Bamkapow.com (“Bamkapow”). Please read this statement carefully before using proceeding to access Bamkapow. Your use of Bamkapow indicates your agreement to abide by the Terms in effect.
 
 **Information Collection**  
-Kittycough Creative, LLC. is the sole owner of the information collected on www.Bamkapow.com. Bamkapow may collect information from our users at several different points on our Web site.
+Double Viking Network, LLC. is the sole owner of the information collected on www.Bamkapow.com. Bamkapow may collect information from our users at several different points on our Web site.
 
 **Comments**  
 In order to enhance their use of this Web site, users can choose to leave comments on particular articles of interest. To leave a comment, users must submit information including a valid email address. Bamkapow uses this information to screen out users who leave comments prohibited by our terms and conditions of use, and will not pass this information to any other organization.
