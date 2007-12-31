@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostpapa.com privacy policy that was archived on 2007-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070504193614id_/http%3A//hostpapa.com/Privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostpapa.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231044029id_/http%3A//hostpapa.com/Privacy.shtml) for the most accurate reproduction.*
 
 # Host Papa - America's Leading Web Host
 
@@ -31,10 +31,11 @@ Personal information collected through HostPapa may be corrected or updated thro
 Niagara Falls, NY   
 14304-1745 
 
-**HostPapa Canadian Address:  
-** 1162-2255B Queen St. E.   
-Toronto, Ontario  
-M4E 1G3 
+**HostPapa Canadian Address:**  
+115 George St.  
+Suite 511  
+Oakville, ON  
+L6J 0A2 
 
 Notification of Changes  
 In the event that there is a change in the privacy practices at HostPapa, all members of HostPapa will be contacted via the e-mail address on record. 
