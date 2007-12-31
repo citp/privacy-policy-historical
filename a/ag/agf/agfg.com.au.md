@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the agfg.com.au privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630100908id_/http%3A//www.agfg.com.au/support/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agfg.com.au privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231035609id_/http%3A//www.agfg.com.au/agfg/support/privacy) for the most accurate reproduction.*
 
-# AGFG - Privacy
+# Australian Good Food and Accommodation Guide Privacy
 
 The Australian Good Food & Accommodation Guide periodically reviews its Privacy Policy and reserves the right, at its discretion, to modify or remove portions of this policy at any time. The Australian Good Food & Accommodation Guide considers the responsible use of personal information to be of vital importance. The Australian Good Food & Accommodation Guide is committed to ensuring that to the best of our ability we meet all the requirements of the National Privacy Principals and the Privacy Act.
 
