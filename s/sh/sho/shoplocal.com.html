@@ -1,73 +1,36 @@
-<!--The following is the downloaded HTML source of the shoplocal.com privacy policy that was archived on 2006-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061216141124id_/http%3A//www.shoplocal.com/Default.aspx%3Faction%3Dprivacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the shoplocal.com privacy policy that was archived on 2007-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071231173446id_/http%3A//www.shoplocal.com/privacypolicy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
-	
-<title>Privacy Policy</title>
-<meta name="description" content="Find sales, specials and deals at  stores near you.">
-<meta name="keywords" content="shopping, discount shopping, sales, specials, deals, bargains in ">
-
-
-<link rel="shortcut icon" href="http://akimages.crossmediaservices.com/broadreach2/images/shoplocal2005/favicon.ico" type="image/x-icon">
-<link rel="stylesheet" href="/shoplocal/styles/print.css" type="text/css" media="print">
-<!-- include stylesheets from preference table -->
-
-<link rel="stylesheet" href="/shoplocal/styles/shoplocal_test1.css" type="text/css">
-
-<link rel="stylesheet" href="/shoplocal/styles/" type="text/css">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>ShopLocal.com Privacy Policy</title><meta name="description" content="Find great deals on everything your family needs">
 
 <script type="text/javascript" src="/shoplocal/scripts/shoplocal2005.js"></script>
+<script type="text/javascript" src="/shoplocal/scripts/jsfunctions.js"></script>
+
+<link rel="shortcut icon" href="/broadreach2/images/shoplocal2005/favicon.ico" type="image/x-icon">
+<link rel="stylesheet" href="/shoplocal/styles/print.css" type="text/css" media="print">
+<title></title>
 
 
+        <link rel="stylesheet" href="/broadreach2/styles/shoplocal.css" type="text/css">
+   
+        <link rel="stylesheet" href="/broadreach2/styles/shoplocal_cms.css" type="text/css">
+   <title>
 
+</title></head>
+<body>
+    <div>
+        
+        <meta name="DCSext.referring_action"><meta name="DCSext.sl_dma" content="San Diego, CA"><meta name="DCSext.sl_aggsite" content="Shoplocal"><meta name="DCSext.sl_cobrand" content="Shoplocal"><meta name="DCSext.sl_zip" content="92074"><meta name="WT.cg_n" content="Privacy Policy"><meta name="WT.cg_s" content="privacypolicy">
 
-
-	
-
-<script>
-    
-    function Random(N) { return Math.floor(N*(Math.random()%1)) }                         
-    function RanSpan(MinV, MaxV) { return MinV + Random(MaxV-MinV+1) }
-
-	function GenerateGuid(){
-        var r = "";
-        var chars = new Array('0','1','2','3','4','5','6','7','8','9','A','B','C','D','E','F','G','H','I','J','K','L','M','N','O','P','Q','R','S','T','U','V','W','X','Y','Z');
-          
-        for (i=0; i<20; i++) 
-            try{r += chars[RanSpan(0, 35)];}catch(e){}
-          
-        return cms_getCookie("SLHUID", "UID") + r;
-	}
-	
-	var eventId = GenerateGuid();
-</script>
-
-
-	
-<meta name="DCSext.sl_aggsite" content="Shoplocal">
-<meta name="DCSext.sl_cobrand" content="Shoplocal">
-<meta name="DCSext.referring_action" content="">
-
-	<meta name="WT.cg_n" content="Privacy Policy">
-	
-	<meta name="WT.cg_s" content="privacypolicy">
-
-	
-<script language="JavaScript"><!--var tcdacmd="dt";//--></script>
+<script language="JavaScript">var tcdacmd="dt";</script>
 <script src="http://an.tacoda.net/an/12998/slf.js" language="JavaScript"></script>
 
-</head><body><img src="http://servedby.advertising.com/site=695501/mnum=1516/bins=1/rich=0/logs=0/betr=ae_rtl=[+]sl_gen" height="1" width="1" border="0">
-
-
-
-<a name="top"></a>
-
-
 <!-- START OF SDC Advanced Tracking Code -->
-<!-- Copyright (c) 1996-2005 WebTrends Inc.  All rights reserved. -->
-<!-- V7.5 -->
-<!-- $DateTime: 2005/08/25 15:58:46 $ -->
-<script language="Javascript"><!--
+<!-- Copyright (c) 1996-2007 WebTrends Inc.  All rights reserved. -->
+<!-- V8.0 -->
+<!-- $DateTime: 2007/02/16 11:44:56 $ -->
+<script type="text/javascript">
+<!--
 var dcid = "dcs97wari10000sd9e1e0tqok_4m4f";
 var gService = true;
 var gTimeZone = -6;
@@ -116,16 +79,54 @@ function dcsGetIdCrumb(name,crumb){
 	}
 	return null;
 }
+function dcsIsFpcSet(name,id,lv,ss){
+	if (id==dcsGetIdCrumb(name,"id")){
+		if (lv==dcsGetCrumb(name,"lv")){
+		   	if (ss=dcsGetCrumb(name,"ss")){
+				return true;
+			}
+		}
+	}
+	return false;
+}
 function dcsFPC(offset){
 	if (typeof(offset)=="undefined"){
 		return;
 	}
+	if (document.cookie.indexOf("WTLOPTOUT=")!=-1){
+		return;
+	}
 	var name=gFpc;
 	var dCur=new Date();
-	dCur.setTime(dCur.getTime()+(dCur.getTimezoneOffset()*60000)+(offset*3600000));
+	var adj=(dCur.getTimezoneOffset()*60000)+(offset*3600000);
+	dCur.setTime(dCur.getTime()+adj);
 	var dExp=new Date(dCur.getTime()+315360000000);
 	var dSes=new Date(dCur.getTime());
-	if (document.cookie.indexOf(name+"=")!=-1){
+	WT.co_f=WT.vt_sid=WT.vt_f=WT.vt_f_a=WT.vt_f_s=WT.vt_f_d=WT.vt_f_tlh=WT.vt_f_tlv="";
+	if (document.cookie.indexOf(name+"=")==-1){
+		if ((typeof(gWtId)!="undefined")&&(gWtId!="")){
+			WT.co_f=gWtId;
+		}
+		else if ((typeof(gTempWtId)!="undefined")&&(gTempWtId!="")){
+			WT.co_f=gTempWtId;
+			WT.vt_f="1";
+		}
+		else{
+			WT.co_f="2";
+			var cur=dCur.getTime().toString();
+			for (var i=2;i<=(32-cur.length);i++){
+				WT.co_f+=Math.floor(Math.random()*16.0).toString(16);
+			}
+			WT.co_f+=cur;
+			WT.vt_f="1";
+		}
+		if (typeof(gWtAccountRollup)=="undefined"){
+			WT.vt_f_a="1";
+		}
+		WT.vt_f_s=WT.vt_f_d="1";
+		WT.vt_f_tlh=WT.vt_f_tlv="0";
+	}
+	else{
 		var id=dcsGetIdCrumb(name,"id");
 		var lv=parseInt(dcsGetCrumb(name,"lv"));
 		var ss=parseInt(dcsGetCrumb(name,"ss"));
@@ -134,8 +135,10 @@ function dcsFPC(offset){
 		}
 		WT.co_f=id;
 		var dLst=new Date(lv);
+		WT.vt_f_tlh=Math.floor((dLst.getTime()-adj)/1000);
 		dSes.setTime(ss);
 		if ((dCur.getTime()>(dLst.getTime()+1800000))||(dCur.getTime()>(dSes.getTime()+28800000))){
+			WT.vt_f_tlv=Math.floor((dSes.getTime()-adj)/1000);
 			dSes.setTime(dCur.getTime());
 			WT.vt_f_s="1";
 		}
@@ -143,1045 +146,338 @@ function dcsFPC(offset){
 			WT.vt_f_d="1";
 		}
 	}
-	else{
-		var tmpname=name+"_TMP=";
-		document.cookie=tmpname+"1";
-		if (document.cookie.indexOf(tmpname)!=-1){
-			document.cookie=tmpname+"; expires=Thu, 01-Jan-1970 00:00:01 GMT";
-			if ((typeof(gWtId)!="undefined")&&(gWtId!="")){
-				WT.co_f=gWtId;
-			}
-			else if ((typeof(gTempWtId)!="undefined")&&(gTempWtId!="")){
-				WT.co_f=gTempWtId;
-				WT.vt_f="1";
-			}
-			else{
-				WT.co_f="2";
-				var cur=dCur.getTime().toString();
-				for (var i=2;i<=(32-cur.length);i++){
-					WT.co_f+=Math.floor(Math.random()*16.0).toString(16);
-				}
-				WT.co_f+=cur;
-				WT.vt_f="1";
-			}
-			if (typeof(gWtAccountRollup)=="undefined"){
-				WT.vt_f_a="1";
-			}
-			WT.vt_f_s="1";
-			WT.vt_f_d="1";
-		}
-		else{
-			WT.vt_f="2";
-			WT.vt_f_a="2";
-			return;
-		}
-	}
 	WT.co_f=escape(WT.co_f);
-	WT.vt_sid=WT.co_f+"."+dSes.getTime();
+	WT.vt_sid=WT.co_f+"."+(dSes.getTime()-adj);
 	var expiry="; expires="+dExp.toGMTString();
 	document.cookie=name+"="+"id="+WT.co_f+":lv="+dCur.getTime().toString()+":ss="+dSes.getTime().toString()+expiry+"; path=/"+(((typeof(gFpcDom)!="undefined")&&(gFpcDom!=""))?("; domain="+gFpcDom):(""));
+	if (!dcsIsFpcSet(name,WT.co_f,dCur.getTime().toString(),dSes.getTime().toString())){
+		WT.co_f=WT.vt_sid=WT.vt_f_s=WT.vt_f_d=WT.vt_f_tlh=WT.vt_f_tlv="";
+		WT.vt_f=WT.vt_f_a="2";
+	}
 }
 
 // Code section for Use the new first-party cookie generated with this tag.
 var gFpc="WT_FPC";
-var gWtId="";
-var gTempWtId="";
 var gConvert=true;
+
+// Code section for Set the First-Party Cookie domain
+var gFpcDom=".shoplocal.com";
 
 function dcsAdv(){
 	dcsFunc("dcsET");
 	dcsFunc("dcsCookie");
 	dcsFunc("dcsAdSearch");
+	dcsFunc("dcsTP");
 }
 
 //-->
 </script>
 <!-- END OF SDC Advanced Tracking Code -->
 
+
 <!-- START OF SmartSource Data Collector TAG -->
-<!-- Copyright (c) 1996-2005 WebTrends Inc.  All rights reserved. -->
-<!-- V7.5 -->
-<!-- $DateTime: 2005/06/29 17:35:36 $ -->
-<script language="Javascript"><!--
-gVersion="1.0";
-//-->
-</script>
-<script language="Javascript1.1"><!--
-gVersion="1.1";
-//-->
-</script>
-<script language="Javascript1.2"><!--
-gVersion="1.2";
-var RE={"%09":/\t/g,"%20":/ /g,"%23":/\#/g,"%26":/\&/g,"%2B":/\+/g,"%3F":/\?/g,"%5C":/\\/g};
-//-->
-</script>
-<script language="Javascript1.3"><!--
-gVersion="1.3";
-if (window.ActiveXObject){
-	var gFV="";
-	for (var gVer=2;gVer<=10;gVer++){
-		try{
-			var gFlash = eval("new ActiveXObject('ShockwaveFlash.ShockwaveFlash."+gVer+"');");
-			if (gFlash){
-				gFV=gVer+".0";
-				break;
-			}
-		}
-		catch(e){
-		}
-	}
+<!-- Copyright (c) 1996-2007 WebTrends Inc.  All rights reserved. -->
+<!-- V8.0 -->
+<!-- $DateTime: 2007/03/01 14:48:29 $ -->
+<script type="text/javascript"><!--
+var gDomain="statse.webtrendslive.com";
+var gDcsId=dcid;
+
+
+if ((typeof(gConvert)!="undefined")&&gConvert&&(document.cookie.indexOf(gFpc+"=")==-1)&&(document.cookie.indexOf("WTLOPTOUT=")==-1)){
+	document.write("<SCR"+"IPT TYPE='text/javascript' SRC='"+"http"+(window.location.protocol.indexOf('https:')==0?'s':'')+"://"+gDomain+"/"+gDcsId+"/wtid.js"+"'><\/SCR"+"IPT>");
 }
-//-->
-</script>
-<script language="Javascript1.4"><!--
-gVersion="1.4";
-//-->
-</script>
-<script language="Javascript1.5"><!--
-gVersion="1.5";
 //-->
 </script>
 
 <script src="/shoplocal/scripts/tracking.js"></script>
 
-
 <noscript>
-<IMG ALT="" BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="http://statse.webtrendslive.com/dcs97wari10000sd9e1e0tqok_4m4f/njs.gif?dcsuri=/nojavascript&amp;WT.js=No">
+<IMG ALT="" BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="http://statse.webtrendslive.com/dcs97wari10000sd9e1e0tqok_4m4f/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=8.0.2">
 </noscript>
-<!-- END OF SmartSource Data Collector  TAG -->	
+        <div id="sl_container_frameall"> 
+            
+
+<div id="globalnav_container">
+    <div id="topnav_blue_container_top">
+      
+        <div id="topnav_blue_topmid">
+             <div id="GlobalNavlogo">
+
+                <div style="float: left; position: relative;">
+                    <img border="0" usemap="#globalnavmap" alt="ShopLocal" src="http://akimages.crossmediaservices.com/broadreach2/images/shoplocal2007/sl07_topnav_spacer.gif" height="82" width="272">
+                    
+                    <map id="globalnavmap" name="globalnavmap">
+           
+                    <area shape="rect" coords="70,70,270,80" href="http://www.shoplocal.com" alt="Save time &amp; money. Online and in-store.">   
+                    <area shape="rect" coords="2,0,148,66" href="http://www.shoplocal.com" alt="ShopLocal"></map>
+                </div> 
+                <br>
+                <!--Begin CityStateBubble-->
+                <div id="CityStateBubble" style="float: right; position: absolute; top:-12px; left: 155px;">
+                    <div id="CityStateBubbleRight">
+                        <div id="CityStateText">                            
+                           <!--Begin form in header bubble -->
+                            <div id="weatherbubblechangezone" style="display:none;">
+                            <form id="zipform" action="default.aspx">
+                            <input type="hidden" name="action" value="changeshoppingzone">
+	                        <input type="hidden" name="postback" value="true">
+	                        <input type="hidden" name="changeloc" value="page">
+                            <input type="hidden" name="redirect" value="/privacypolicy.aspx?">
+                            <div id="sl_youareshoping_form_text">
+                               <nobr><span class="sl_header_text">Change shopping area to within 
+                               <select name="ctl00$header$ctl01">
+	<option value="5">5 miles</option>
+	<option selected="selected" value="10">10 miles</option>
+	<option value="15">15 miles</option>
+	<option value="20">20 miles</option>
+	<option value="25">25 miles</option>
+	<option value="30">30 miles</option>
+	<option value="40">40 miles</option>
+	<option value="50">50 miles</option>
+</select>
+
+                                of:</span>
+                            </nobr></div><nobr>
+                            <div id="sl_youareshoping_form_zipcity">
+                               <div id="sl_header_input_text"><span class="sl_header_input_text">Enter Zip Code Or City, State: </span>
+                                     <script type="text/javascript">
+                                        document.write("<input id='sl_entryright_shopzone_input' type='text'   name='citystatezip' size='12' maxlength='25' value='" + GetCityStateOrZipText() + "' />");
+                                    </script> 
+                               </div>
+                               <div id="sl_header_input_btn"><input type="image" src="http://akimages.crossmediaservices.com/broadreach2/images/shoplocal2007/sl_submit_btn.gif"></div>
+                            </div> 
+                            
+                            </nobr></form></div><nobr> 
+                             <!--End form in bubble -->
+                             
+                             <!--Begin weather in  bubble --> 
+                              <div id="weatherbubble">
+                             <div id="weatherbubbleshowinfo">
+                             <div id="sl_weather_icon"> 
+                                    <table class="sl_weather" cellpadding="0" cellspacing="0" border="0">
+                                     <tbody><tr>
+                                        <td align="left" valign="top"><nobr>
+                                        <div id="sl_youareshoping_text">
+                                          <span class="topnav_shopping_text">You are shopping within 
+                                             <script type="text/javascript">
+                                             document.write(gc("SLHCookie", "Sniff", "10", true));
+                                            </script> miles of:</span><br> 
+                                <script type="text/javascript">
+								        	WriteOutWeatherGlobalNavHTML(gc("SLHCookie", "City", "Poway", true), gc("SLHCookie", "State", "CA", true), gc("SLHCookie", "ZipCode5", "92074", true) );
+                                 </script> 
+                            </div>
+                            
+                              
+                              
+                        
+                    
+                
+                
+            
+            
+            <div style="float: right;">
+                <!--oobegin -->
+                <script language="javascript" type="text/javascript" src="/shoplocal/scripts/oo_engine.js"></script>
+                <!--ooend-->
+
+<div id="sl_topnav_topright_links">    		  
+<a href="evatheshoppingdivablog.fp " name="tnav_evablog_link">Eva's Shopping Blog</a><br>
+<div style="float:right;"><script language="javascript" type="text/javascript" charset="windows-1252"> 
+O_GoT('Feedback');
+</script><a href="javascript:O_LC()">Feedback</a></div>
 
 
-<!-- DO NOT MAKE A COPY OF THIS CONTROL. STYLES SHOULD BE APPLIED TO CONTAINER CONTROL - DEFAULT.ASCX -->
-			
-		<script language="javascript">
-			var pt = new Image();
-			pt.src = "http://pt.crossmediaservices.com/images/dot_clear.gif?random="+escape(Math.random());
-			</script>
-			<noscript>
-			<img src="http://pt.crossmediaservices.com/images/dot_clear.gif?random=2076035490" height="1" width="1" border="0">
-		</noscript>				
-	
-	<script language="javascript">
-		// print tracking ...
-		var bolPageWasPrinted = false;
+	<br>
+	<a href="default.aspx?action=mydashboard" name="tnav_email_link">Login</a>&nbsp;|&nbsp;<a href="http://www.shoplocal.com/default.aspx?action=mylogin" name="tnav_email_link">Join</a>
 
-		function oap() {
-			if(!bolPageWasPrinted) {				
-				var ptImg = new Image();
-				var strPage = window.location.pathname;
-				
-				var qs = window.location.search.replace(/"/g,"\"");				
-				qs = qs.replace(/\?/g,"");
-				qs+= (qs.substring(qs.length,1)=="&") ? "" : "&";
-				qs+= ((qs.indexOf("&slhlogon=")>0) ? "" : "slhlogon=06121608112306420817218172B89S&");
-				qs+= ((qs.indexOf("&siteid=")>0) ? "" : "siteid=252&");
-								
-				strPage = strPage.substring(1, strPage.length);
-				var i = strPage.indexOf('/');
-				if(i > 0) strPage = strPage.substring(i+1, strPage.length);				
-				ptImg.src = "http://pt.crossmediaservices.com/pt//track_print.asp?page="+strPage+"&"+qs;
-				bolPageWasPrinted = true;
-				
-			}
-		}
-		window.onafterprint = oap;
-	</script>
-	
-		<script language="javascript">
-			var pt = new Image();
-			pt.src = "http://pt.crossmediaservices.com/pt/default.aspx?action=privacypolicy&slhcookie=&slhtrackingsessionid=06121608112306420817218172B90S&pagecounter=1&slhlogon=06121608112306420817218172B89S&siteid=252&referrer=&random="+escape(Math.random());
-			</script>
-			<noscript>
-			<img src="http://pt.crossmediaservices.com/pt/default.aspx%3faction%3dprivacypolicy%26slhcookie%3d%26slhtrackingsessionid%3d06121608112306420817218172B90S&pagecounter=1&slhlogon=06121608112306420817218172B89S&siteid=252&referrer=&random=2076035490" height="1" width="1" border="0">
-		</noscript>		
-	
-	
-			
-<script language="javascript">
-	window.onerror = null
-	document.slh = true;
-	self.slh = true;
-</script>
-
-
-<!-- Survey Component -->
-			
-			
-		
-<div id="sl_topnav_topleft">
-<a href="/default.aspx"><img src="http://akimages.crossmediaservices.com/broadreach2/images/shoplocal2006/sl_topnav_logo.gif" width="176" alt="ShopLocal" border="0" id="sl_toplogo"></a>
-<table border="0" cellpadding="0" cellspacing="0" id="sl_topnav_topleft_table">
-	<tbody><tr>
-		
-		<td id="sl_topnav_arrow" valign="top">
-			<img src="http://akimages.crossmediaservices.com/broadreach2/images/shoplocal2006/sl_topnav_arrow.gif" width="7" border="0"></td>
-		<td id="sl_topnav_tagline" valign="top">
-			Find the best deals to buy <span>Online</span><br>and at your <span>Local</span> stores.</td>
-		
-	</tr>
-</tbody></table>
-
-<div id="sl_topnav_topright_links">
-						
-	<a href="/default.aspx?action=signup&amp;affiliate_id=sl1" name="tnav_email_link">Sign-up for E-mail</a>&nbsp;&nbsp;|&nbsp; 
-
-<a href="/default.aspx?action=eva" name="tnav_email_link">Eva the Shopping Diva </a>™ &nbsp;&nbsp;|&nbsp; 
- <a href="#" onclick="javascript:dopopup('/default.aspx?action=printshoppinglist',720,600);" name="gnav_shoplist_link">MyList</a> 
-	
-	&nbsp;|&nbsp;&nbsp;
-	<a href="/default.aspx?action=MyStoreIntro&amp;pg=1" name="tnav_help_link">Advertisers</a>
-
+    
 </div>
- 					
-
-
-<!--  -->
-
-
-
-	<div id="sl_topnav_specialpromo">
-	<a href="/default.aspx?action=signup&amp;affiliate_id=2s"><img src="http://akimages.crossmediaservices.com/broadreach2/images/shoplocal2006/sl_holiday_widget.jpg" border="0/"></a>
-	</div>
-
-</div>
-<div id="topnav_container">
-	<div id="topnav_div">
-		
-<script language="javascript">
-function startList () {
-if (document.all&&document.getElementById) {
-navRoot = document.getElementById("topnav_ul_1");
-for (i=0; i<navRoot.childNodes.length; i++) {
-node = navRoot.childNodes[i];
-if (node.nodeName=="LI") {
-node.onmouseover=function() {
-this.className+=" over";
-showMask(1);
-  }
-  node.onmouseout=function() {
-  this.className=this.className.replace(" over", "");
-  removeMask();
-   }
-   }
-  }
- }
-if (document.all&&document.getElementById) {
-navRoot = document.getElementById("topnav_ul_2");
-for (i=0; i<navRoot.childNodes.length; i++) {
-node = navRoot.childNodes[i];
-if (node.nodeName=="LI") {
-node.onmouseover=function() {
-this.className+=" over";
-showMask(2);
-  }
-  node.onmouseout=function() {
-  this.className=this.className.replace(" over", "");
-  removeMask();
-   }
-   }
-  }
- }
-if (document.all&&document.getElementById) {
-navRoot = document.getElementById("topnav_ul_3");
-for (i=0; i<navRoot.childNodes.length; i++) {
-node = navRoot.childNodes[i];
-if (node.nodeName=="LI") {
-node.onmouseover=function() {
-this.className+=" over";
-showMask(3);
-  }
-  node.onmouseout=function() {
-  this.className=this.className.replace(" over", "");
-  removeMask();
-   }
-   }
-  }
- }
-if (document.all&&document.getElementById) {
-navRoot = document.getElementById("topnav_ul_4");
-for (i=0; i<navRoot.childNodes.length; i++) {
-node = navRoot.childNodes[i];
-if (node.nodeName=="LI") {
-node.onmouseover=function() {
-this.className+=" over";
-showMask(4);
-  }
-  node.onmouseout=function() {
-  this.className=this.className.replace(" over", "");
-  removeMask();
-   }
-   }
-  }
- }
-if (document.all&&document.getElementById) {
-navRoot = document.getElementById("topnav_ul_5");
-for (i=0; i<navRoot.childNodes.length; i++) {
-node = navRoot.childNodes[i];
-if (node.nodeName=="LI") {
-node.onmouseover=function() {
-this.className+=" over";
-showMask(5);
-  }
-  node.onmouseout=function() {
-  this.className=this.className.replace(" over", "");
-  removeMask();
-   }
-   }
-  }
- }
- if (document.all&&document.getElementById) {
-navRoot = document.getElementById("topnav_ul_6");
-for (i=0; i<navRoot.childNodes.length; i++) {
-node = navRoot.childNodes[i];
-if (node.nodeName=="LI") {
-node.onmouseover=function() {
-this.className+=" over";
-showMask(6);
-  }
-  node.onmouseout=function() {
-  this.className=this.className.replace(" over", "");
-  removeMask();
-   }
-   }
-  }
- }
- if (document.all&&document.getElementById) {
-navRoot = document.getElementById("topnav_ul_7");
-for (i=0; i<navRoot.childNodes.length; i++) {
-node = navRoot.childNodes[i];
-if (node.nodeName=="LI") {
-node.onmouseover=function() {
-this.className+=" over";
-showMask(7);
-  }
-  node.onmouseout=function() {
-  this.className=this.className.replace(" over", "");
-  removeMask();
-   }
-   }
-  }
- }
-}
-
-function showMask(num)
-{
-	if (useMask())
-	{
-		var theMask = document.getElementById("iMask");
-		//get initial offset
-		allSubCatsUL1 = document.getElementById("more_ul_1");
-		allSubCatsUL = document.getElementById("more_ul_" + num);
-		var xVal = offsetLeft(allSubCatsUL);
-		var yVal = offsetTop(allSubCatsUL);
-		var xValInitial = offsetLeft(allSubCatsUL1);
-		var yValInitial = offsetTop(allSubCatsUL1);
-	
-		theMask.style.left = xVal - xValInitial;
-		theMask.style.top = yVal - yValInitial;
-		if (theMask.style.top == "0px")
-		{
-			theMask.style.top = 16;
-		}
-		theMask.style.width = allSubCatsUL.offsetWidth;
-		theMask.style.height = allSubCatsUL.offsetHeight;
-	}
-}
-
-function removeMask()
-{
-	var theMask = document.getElementById("iMask");
-	theMask.style.left = -300;
-	theMask.style.top = -300;
-	theMask.style.width = 0;
-	theMask.style.height = 0;
-}
-
-function offsetLeft(o){
-
-	var i = 0;
-
-	while (o.offsetParent!=null) {
-
-		i += o.offsetLeft;
-
-		o = o.offsetParent;
-
-	}
-	return i + o.offsetLeft;
-
-}
-
-function offsetTop(o){
-
-	var i = 0;
-
-	while (o.offsetParent!=null) {
-
-		i += o.offsetTop;
-
-		o = o.offsetParent;
-
-	}
-	return i + o.offsetTop;
-
-}
-
-function useMask()
-{
-	var applicationVersion = navigator.appVersion.toLowerCase();
-	var IEinAppVersion  = applicationVersion.indexOf('msie');
-	var isIE = (IEinAppVersion!=-1);
-	if (isIE)
-	{
-		return (true);
-	}
-}
-
-</script>
-
-
-
-<iframe id="iMask" src="http://akimages.crossmediaservices.com/smartcircular2/images/target/spacer.gif" style="position:absolute; left:-300px; top:-300px; z-index:0;" frameborder="1"></iframe>
-
-		<div id="topnav_div_1">
-		<ul id="topnav_ul_1" class="topnav_ul">
-		
-		
-					<li><a href="Consumer-Electronics.fp?clickarea=topnav">Electronics<img src="http://akimages.crossmediaservices.com/broadreach2/images/shoplocal2006/sl_topnav_arrow_menu.gif" width="9" alt="" border="0" class="sl_topnav_arrow_menu"></a>
-					<ul id="more_ul_1">
-				
-					<li><a href="iPods-MP3-Media-Players.fp?clickarea=topnav">iPods &amp; Media Players</a></li>
-				
-					<li><a href="cl2-133982.fp?clickarea=topnav">Flat-Panel TVs</a></li>
-				
-					<li><a href="Digital-Cameras.fp?clickarea=topnav">Digital Cameras</a></li>
-				
-					<li><a href="cl2-208152.fp?clickarea=topnav">DVD Players</a></li>
-				
-					<li><a href="Video-Games-Systems.fp?clickarea=topnav">Video Games</a></li>
-				
-					<li><a href="Camcorders.fp?clickarea=topnav">Camcorders</a></li>
-				
-					<li><a href="Cellular-Telephones.fp?clickarea=topnav">Cellular Phones</a></li>
-				
-					<li><a href="Car-Electronics.fp?clickarea=topnav">Car Electronics</a></li>
-				
-					<li><a href="Home-Audio-Theater.fp?clickarea=topnav">Home Audio &amp; Theater</a></li>
-				
-					<li><a href="Consumer-Electronics.fp?clickarea=topnav">more...</a></li>
-					</ul></li>
-				
-		</ul>
-		</div>
-	
-		<div id="topnav_div_2">
-		<ul id="topnav_ul_2" class="topnav_ul">
-		
-		
-					<li><a href="Home-Garden.fp?clickarea=topnav">Home &amp; Garden<img src="http://akimages.crossmediaservices.com/broadreach2/images/shoplocal2006/sl_topnav_arrow_menu.gif" width="9" alt="" border="0" class="sl_topnav_arrow_menu"></a>
-					<ul id="more_ul_2">
-				
-					<li><a href="Bed-Bath.fp?clickarea=topnav">Bed &amp; Bath</a></li>
-				
-					<li><a href="Refrigerators.fp?clickarea=topnav">Refrigerators</a></li>
-				
-					<li><a href="cl2-136072.fp?clickarea=topnav">Washing Machines</a></li>
-				
-					<li><a href="cl2-136055.fp?clickarea=topnav">Dishwashers</a></li>
-				
-					<li><a href="cl2-237360.fp?clickarea=topnav">Small Appliances</a></li>
-				
-					<li><a href="Home-Garden.fp?clickarea=topnav">more...</a></li>
-					</ul></li>
-				
-		</ul>
-		</div>
-	
-		<div id="topnav_div_3">
-		<ul id="topnav_ul_3" class="topnav_ul">
-		
-		
-					<li><a href="Furniture.fp?clickarea=topnav">Furniture<img src="http://akimages.crossmediaservices.com/broadreach2/images/shoplocal2006/sl_topnav_arrow_menu.gif" width="9" alt="" border="0" class="sl_topnav_arrow_menu"></a>
-					<ul id="more_ul_3">
-				
-					<li><a href="Living-Room-Furniture.fp?clickarea=topnav">Living Room</a></li>
-				
-					<li><a href="Bedroom-Furniture.fp?clickarea=topnav">Bedroom</a></li>
-				
-					<li><a href="Dining-Room-Furniture.fp?clickarea=topnav">Dining Room</a></li>
-				
-					<li><a href="Tables-Chairs.fp?clickarea=topnav">Tables &amp; Chairs</a></li>
-				
-					<li><a href="Mattresses.fp?clickarea=topnav">Mattresses</a></li>
-				
-					<li><a href="Childrens-Furniture.fp?clickarea=topnav">Children's Furniture</a></li>
-				
-					<li><a href="Kitchen-Furniture.fp?clickarea=topnav">Kitchen</a></li>
-				
-					<li><a href="Computer-Furniture.fp?clickarea=topnav">Computer</a></li>
-				
-					<li><a href="Furniture.fp?clickarea=topnav">more...</a></li>
-					</ul></li>
-				
-		</ul>
-		</div>
-	
-		<div id="topnav_div_4">
-		<ul id="topnav_ul_4" class="topnav_ul">
-		
-		
-					<li><a href="Clothing-Apparel.fp?clickarea=topnav">Clothing<img src="http://akimages.crossmediaservices.com/broadreach2/images/shoplocal2006/sl_topnav_arrow_menu.gif" width="9" alt="" border="0" class="sl_topnav_arrow_menu"></a>
-					<ul id="more_ul_4">
-				
-					<li><a href="Womens-Dresses-Skirts.fp?clickarea=topnav">Women's Dresses &amp; Skirts</a></li>
-				
-					<li><a href="Juniors-Dresses-Skirts.fp?clickarea=topnav">Junior's Dresses &amp; Skirts</a></li>
-				
-					<li><a href="Mens-Shirts.fp?clickarea=topnav">Men's Shirts &amp; Tops</a></li>
-				
-					<li><a href="Childrens-Apparel.fp?clickarea=topnav">Children's Apparel</a></li>
-				
-					<li><a href="Mens-Athletic-Clothing.fp?clickarea=topnav">Men's Athletic</a></li>
-				
-					<li><a href="Womens-Athletic-Clothing.fp?clickarea=topnav">Women's Athletic</a></li>
-				
-					<li><a href="Mens-Suits-Coats-Blazers.fp?clickarea=topnav">Men's Suits, Coats &amp; Blazers</a></li>
-				
-					<li><a href="cl2-177233.fp?clickarea=topnav">Women's Handbags</a></li>
-				
-					<li><a href="Clothing-Apparel.fp?clickarea=topnav">more...</a></li>
-					</ul></li>
-				
-		</ul>
-		</div>
-	
-		<div id="topnav_div_5">
-		<ul id="topnav_ul_5" class="topnav_ul">
-		
-		
-					<li><a href="Computers-Software.fp?clickarea=topnav">Computers<img src="http://akimages.crossmediaservices.com/broadreach2/images/shoplocal2006/sl_topnav_arrow_menu.gif" width="9" alt="" border="0" class="sl_topnav_arrow_menu"></a>
-					<ul id="more_ul_5">
-				
-					<li><a href="Laptop-Computers.fp?clickarea=topnav">Laptops</a></li>
-				
-					<li><a href="Desktop-Computers.fp?clickarea=topnav">Desktops</a></li>
-				
-					<li><a href="Computer-Memory-Data-Storage-Systems.fp?clickarea=topnav">Computer Memory</a></li>
-				
-					<li><a href="cl2-135260.fp?clickarea=topnav">LCDs</a></li>
-				
-					<li><a href="Motherboards-CPUs.fp?clickarea=topnav">Motherboards &amp; CPUs</a></li>
-				
-					<li><a href="Printers-Scanners.fp?clickarea=topnav">Printers &amp; Scanners</a></li>
-				
-					<li><a href="Handhelds-PDAs-Accessories.fp?clickarea=topnav">Handhelds &amp; PDAs</a></li>
-				
-					<li><a href="Software.fp?clickarea=topnav">Software</a></li>
-				
-					<li><a href="Computers-Software.fp?clickarea=topnav">more...</a></li>
-					</ul></li>
-				
-		</ul>
-		</div>
-	
-		<div id="topnav_div_6">
-		<ul id="topnav_ul_6" class="topnav_ul">
-		
-		
-					<li><a href="Food-Beverage-Household.fp?clickarea=topnav">Food &amp; Household<img src="http://akimages.crossmediaservices.com/broadreach2/images/shoplocal2006/sl_topnav_arrow_menu.gif" width="9" alt="" border="0" class="sl_topnav_arrow_menu"></a>
-					<ul id="more_ul_6">
-				
-					<li><a href="Beverages.fp?clickarea=topnav">Beverages</a></li>
-				
-					<li><a href="Snacks-Cakes-Desserts.fp?clickarea=topnav">Snacks, Cakes &amp; Desserts</a></li>
-				
-					<li><a href="Meat-Poultry.fp?clickarea=topnav">Meat &amp; Poultry</a></li>
-				
-					<li><a href="cl2-134867.fp?clickarea=topnav">Wine &amp; Spirits</a></li>
-				
-					<li><a href="Cleaning-Supplies.fp?clickarea=topnav">Cleaning Supplies</a></li>
-				
-					<li><a href="Household-Products.fp?clickarea=topnav">Household Products</a></li>
-				
-					<li><a href="Baby-Food.fp?clickarea=topnav">Baby Food</a></li>
-				
-					<li><a href="Food-Beverage-Household.fp?clickarea=topnav">more...</a></li>
-					</ul></li>
-				
-		</ul>
-		</div>
-	
-		<div id="topnav_div_7">
-		<ul id="topnav_ul_7" class="topnav_ul">
-		
-		
-					<!--This is the More dropdown-->
-					<li><a href="/Category-g.fp?clickarea=topnav">More<img src="http://akimages.crossmediaservices.com/broadreach2/images/shoplocal2006/sl_topnav_arrow_menu.gif" width="9" alt="" border="0" class="sl_topnav_arrow_menu"></a>
-					<ul id="more_ul_7">
-				
-					<li><a href="Automotive-Car-Truck.fp?clickarea=topnav">Automotive</a></li>
-				
-					<li><a href="Home-Improvement-Remodeling-Repair.fp?clickarea=topnav">Home Improvement</a></li>
-				
-					<li><a href="Shoes-Footwear.fp?clickarea=topnav">Shoes &amp; Footwear</a></li>
-				
-					<li><a href="Toys-Games.fp?clickarea=topnav">Toys &amp; Games</a></li>
-				
-					<li><a href="Baby-Toddler.fp?clickarea=topnav">Baby &amp; Toddler</a></li>
-				
-					<li><a href="Health-Beauty.fp?clickarea=topnav">Health &amp; Beauty</a></li>
-				
-					<li><a href="Music-Books-Movies.fp?clickarea=topnav">Music, Books &amp; Movies</a></li>
-				
-					<li><a href="Arts-Crafts-Hobby.fp?clickarea=topnav">Arts, Crafts &amp; Hobby</a></li>
-				
-					<li><a href="Pet-Supplies.fp?clickarea=topnav">Pet Supplies</a></li>
-				
-					<li><a href="Jewelry-Watches.fp?clickarea=topnav">Jewelry &amp; Watches</a></li>
-				
-					<li><a href="Boating-Sailing-Marine.fp?clickarea=topnav">Boating, Sailing &amp; Marine</a></li>
-				
-					<li><a href="/Category-g.fp?clickarea=topnav">See All Categories</a></li>
-					</ul></li>
-				
-		</ul>
-		</div>
-	
-		<div id="topnav_div_8">
-		<ul id="topnav_ul_8" class="topnav_ul">
-		
-		
-					<li><a href="/Stores-g.fp?clickarea=topnav">Stores &amp; Ads</a>
-					</li>
-				
-		</ul>
-		</div>
-	
-
-<script language="javascript">
-	 startList ();
-</script>
-
-
-
-	</div>
-</div>
-
-<div id="sl_topnav_search_container">	
-	
-<script language="javascript">
-<!--
-
-	function trim(str) {
-        // skip leading and trailing whitespace
-	    // and return everything in between
-        var x = str;
-        x=x.replace(/^\s*(.*)/, "$1");
-        x=x.replace(/(.*?)\s*$/, "$1");
-        return x;
-}
-function submitnuep() {
-	// subscribe
-	alert(document.nuepzipform.ReturnZone.checked);
-	
-	document.nuepzipform.submit();
-}
-
-function openWindow(strPage, strName, strFeatures) {
-	var x = window.open(strPage, strName, strFeatures);
-}
-function dopopup(strPage, lngWidth, lngHeight) {
-	var x, y;
-    var agt=navigator.userAgent.toLowerCase(); 
-	var is_aol = (agt.indexOf("aol") != -1)
-  
-  if (document.all) {
-    var screenWidth = document.body.offsetWidth + window.screenLeft - 15;
-    var screenHeight = document.body.offsetHeight + window.screenTop - 15;
-  } 
-  else if (document.layers) {
-    var screenWidth = window.outerWidth - 20;
-    var screenHeight = window.outerHeight - 50;
-  }
-  else if (window.screen.availHeight) {
-    var screenWidth = window.screen.availWidth; 
-    var screenHeight = window.screen.availHeight;
-  }
-  else {
-	// assume 640x480
-    var screenWidth = 640;
-    var screenHeight = 480;
-  }
-  if(is_aol) {
-	if(lngWidth > (screenWidth - 40)) lngWidth = screenWidth - 40;
-	if(lngHeight > (screenHeight - 120)) lngHeight = screenHeight - 120;
-	x = 0; 
-	y = 0;
-  }
-  else {
-	if(lngWidth > screenWidth) lngWidth = screenWidth;
-	if(lngHeight > screenHeight) lngHeight = screenHeight;
-	x = (screenWidth - lngWidth)/2;
-	y = (screenHeight - lngHeight)/2;
-	if(x<0) x=0;
-	if(y<0) y=0;
-  }
-  window.open(strPage, '', 'height='+lngHeight+',width='+lngWidth+',left='+x+',top='+y+',status=no,toolbar=no,menubar=no,location=no,resizable=yes,scrollbars=yes');
-}function getCookie(Name) {
-        var search = Name + "=" 
-        var CookieString = document.cookie 
-        var result = null 
-        if (CookieString.length > 0) { 
-			offset = CookieString.indexOf(search) 
-			if (offset != -1) { 
-					offset += search.length 
-					end = CookieString.indexOf(";", offset) 
-					if (end == -1) {
-						end = CookieString.length }
-						result = CookieString.substring(offset, end)
-                } 
-        }
-        return result; 
-}
-
-
-	
-function readSubCookie(name,subname)
-{
-	var tmpCookie=getCookie(name);//this is the values in the cookie
-	if(tmpCookie)
-	{
-		uCookies=(tmpCookie.split("&"));
-		var found=-1;
-		for(i=0;i<uCookies.length;i++)
-		{
-			if (uCookies[i].indexOf(subname)!=-1) 	 
-				{//extract the value
-					var start =uCookies[i].indexOf("=");
-					return uCookies[i].substring(start+1);
-				}
-		}	
-	}		
-}
-
-function setSubCookie(uName, name, value)
-{
-			uValue = getCookie(uName)
-			if(uValue) {                    
-						uCookies = uValue.split("&")
-						var found = -1
-						for( c = 0; c < uCookies.length; c++ )
-						{                       
-							t = uCookies[c].split( '=' )
-							if(t[0] == name) {
-								found = 1
-								t[1] = value
-								uCookies[c] = t.join( '=' )
-								break;
-							}
-						}
-						if( found == -1 )
-							uCookies[uCookies.length] = name + '=' + value
-	                                                        
-						uValue = uCookies.join( '&' )
-			} else
-						uValue = name + '=' + value
-	        
-			// update real cookie
-			setCookie(uName, uValue,"",'/' + '')
-}
-
-function setCookie(name, value, expires, path, domain, secure)
-{
-	document.cookie= name + "=" + value +
-		((expires) ? "; expires=" + expires.toGMTString() : "") +
-		((path) ? "; path=" + path : "") +
-		((domain) ? "; domain=" + domain : "") +
-		((secure) ? "; secure" : "");
-}
-
-function Ratingdopopup(strPage, lngWidth, lngHeight) {
-		dopopupwithmenubar(strPage, lngWidth, lngHeight, 'no');
-	}	//---------------------------------------------------------------------------
-
-
-// Function used by misc_searchbox.aspx to control form elements
-
-
-//---------------------------------------------------------------------------
-
-
-function Search(usenational) 
-{
-        // Get search property and term values from form elements
-        var property    = "ALL";
-        if ((usenational != null)&&(usenational == "False"))
-        {
-			property = "COBRAND";
-        }
-		
-        var terms       = encodeURIComponent(document.search_terms_form.searchterms.value);
-        var mode        = "matchallpartial";
-        var url			= "default.aspx?action=searchbroadreach";
-        var N			= "0";
-        //var searchwithin= document.search_terms_form.searchwithin.value;
-
-		// Create new url with property search and dimension search
-		var removeterms = ["N","viewstate","clickarea","searchwithin", "productdatasourcekey", "title", "ref", "Ne","No","Ns", "DimExpand", "CityStateZip", "postback", "sniff","redirect", "inventoryid", "listingid", "adid", "adretailerid", "contentretailerid", "pretailerid","Nao","Ntk","Ntt","D","Nty","Ntx","Dx","in_dym","in_dim_search","action", "search"];
-		
-		var addterms = ["Ntk="+property,"Ntt="+terms,"Nty=1","D="+terms,"Ntx=mode+"+mode,"Dx=mode+"+mode, "N="+N];
-		var newurl = ConstructURL("CURRENTURL", removeterms, addterms);
-		//alert(url+newurl);
-		location.href  = url+newurl;
-}
-function CheckArray(removeterms,checkterm) {
-
-	for (var i=0; i<removeterms.length; i++) {
-
-		if (removeterms[i] == checkterm)
-
-			return 1;
-
-	}
-
-	return -1;
-
-}
-
-
-function ConstructURL(url,removeterms,addterms) {
-
-	var params = BuildURLArray(url);
-
-	var newurl = "";
-
-	for (var i=0; i<params.length; i++) {
-
-		val = CheckArray(removeterms,params[i][0]);
-
-		if (val == -1)
-
-			newurl = newurl + "&" + params[i][0] + "=" + params[i][1];
-
-	}
-
-	for (var i=0; i<addterms.length; i++) {
-
-		newurl = newurl + "&" + addterms[i];
-
-	}
-
-	if (newurl.length > 0) {
-
-		newurl = newurl.substr(1);
-
-		newurl = "&"+newurl;
-
-	}
-
-	else {
-
-		newurl = "&N="+eneroot;
-
-	}
-
-	return newurl;
-
-}
-
-
-function BuildURLArray(oldurl) {
-
-	var returnArray = new Array();
-
-	var url;
-
-	if (oldurl == "CURRENTURL")
-
-		url = location.search;
-
-	else if (oldurl == "BLANKURL") {
-
-
-
-	}
-
-	else {
-
-		var tokens = oldurl.split("?");
-
-		url = "&"+tokens[1];
-
-	}		
-
-	if (url) {
-
-		url = url.substr(1);
-
-		var params = url.split("&");
-
-		for (var i=0; i<params.length; i++) {
-
-			var param = params[i].split("=");
-
-			returnArray[i] = param;
-
-		}
-
-	}
-
-	return returnArray;
-
-}
-
-
-
-function GetValue(url, term) {
-
-	var params = BuildURLArray(url);
-
-	for (var i=0; i<params.length; i++) {
-
-		if (params[i][0] == term) {
-
-			return params[i][1];
-
-		}
-
-	}
-
-	return -1;
-
-}
-	
-	function swap_images ( imageName, imageSource  )
-	{
-		window.document.images[imageName].src = imageSource;
-	}
-	
-	function submitnuep() {
-		var frm = document.getElementById("nuepzipform");
-		//alert(frm.redirect.value);
-		frm.submit();
-	}	
-	function SubmitSearch() {
-		strSearch= document.search_terms_form.Ntt.value;
-		if (strSearch=="") {     //is it blank?		
-			
-			alert("Please enter a term in the search box.");
-			//return false;
-		}
-		else{
-			document.search_terms_form.submit();
-		}
-	}
-//-->
-</script>
-	<form style="display:inline; margin:0px; padding:0px;" action="Javascript:Search('True')" name="search_terms_form">
-		<input type="hidden" name="action" value="searchbroadreach">	
-		<table border="0" cellpadding="0" cellspacing="0" id="sl_topnav_search">
-			<tbody><tr>
-				<td valign="middle" id="sl_search_left"><img src="http://akimages.crossmediaservices.com/broadreach2/images/shoplocal2006/sl_topnav_search_orange_left_curve.jpg" width="9" border="0"></td>				 
-				<td valign="middle" id="sl_search_text"><img src="http://akimages.crossmediaservices.com/broadreach2/images/shoplocal2006/sl_topnav_search_shopfor.jpg" width="71" border="0"></td>				 
-				<td valign="middle" id="sl_search_input"><input name="Ntt" maxlength="100" id="searchterms" value=""></td>
-				<td valign="middle" id="sl_search_btn"><input onclick="Javascript:SubmitSearch();" type="image" src="http://akimages.crossmediaservices.com/broadreach2/images/shoplocal2006/sl_topnav_search_button.jpg" alt="Go" border="0" id="sltopnavsearchbutton"><!-- Find it button --></td>
-				<td valign="middle" id="sl_search_right"><img src="http://akimages.crossmediaservices.com/broadreach2/images/shoplocal2006/sl_topnav_search_orange_right_curve.jpg" width="10" border="0"></td>
-			</tr>									
-		</tbody></table>
-	</form>
-
-
-
-</div>
-
-
-<!-- TOP NAV ends -->
-<!-- end ShopLocal top nav -->
-
-	<!-- breadcrumb --> 
-	<div id="sl_breadcrumb">
-		<a href="http://www.shoplocal.com"><nobr>Home</nobr></a>
-		&nbsp;<span id="slbreadcrumbarrow">&gt;</span> 
-			
-				<span id="slbreadcrumbselected"><nobr>Privacy Policy</nobr></span>
-			
-	</div>
-
-
-<div id="sl_container_all">
-	<div id="sl_container_main">
-		
+             
+          <div style="width:230px;  height:60px;" align="right">
+<iframe src="http://shoplocl.adbureau.net/hserver/acc_random=42487646/AAMGNRC1=/AAMGNRC2=/area=HEADER/AAMGNRC3=HEADER/generic=shoplocal/size=120X60/AAMSZ=120X60/sitegroup=shoplocal/cat=/keyword=/AAMGNRC4=/site=shoplocal/pretailer=/AAMGNRC5=/zip=92074/AAMGNRC7=92074/dma=san_diego_ca/AAMGNRC6=san_diego_ca/pageid=88140505" height="60" width="120" marginheight="0" marginwidth="0" frameborder="0" scrolling="no"></iframe>
+</div>  
+             
+             
+             
+                <div id="GlobalNav_Promotional_Widget">					 
+					<script type="text/javascript" src="/broadreach2/scripts/swfobject.js"></script>
+           
+           </div>       
+            </div>
+        
+    
+
+    <div id="topnav_navbar_container" style="width:768px; margin-left:1px;">
+        <div id="topnav_navbar_left"> <img border="0" src="http://akimages.crossmediaservices.com/broadreach2/images/shoplocal2007/sl_gloabalnav_left_corner.jpg" height="25" width="8"></div>
+        <div id="topnav_div">
+            <div class="topnav_span_space"></div>
+                
+                        <div class="topnav_span" id="topnav_span_0"> 
+                            <span class="topnav_span_links"><a id="categoryL1Link_0" href="consumer-electronics.fp">Electronics</a></span>
+                         </div>
+                
+                        <div class="topnav_span" id="topnav_span_1"> 
+                            <span class="topnav_span_links"><a id="categoryL1Link_1" href="computers-software.fp">Computers</a></span>
+                         </div>
+                
+                        <div class="topnav_span" id="topnav_span_2"> 
+                            <span class="topnav_span_links"><a id="categoryL1Link_2" href="home-garden.fp">Home &amp; Garden</a></span>
+                         </div>
+                
+                        <div class="topnav_span" id="topnav_span_3"> 
+                            <span class="topnav_span_links"><a id="categoryL1Link_3" href="clothing-apparel.fp">Clothing</a></span>
+                         </div>
+                
+                        <div class="topnav_span" id="topnav_span_4"> 
+                            <span class="topnav_span_links"><a id="categoryL1Link_4" href="furniture.fp">Furniture</a></span>
+                         </div>
+                
+                        <div class="topnav_span" id="topnav_span_5"> 
+                            <span class="topnav_span_links"><a id="categoryL1Link_5" href="food-beverage-household.fp">Grocery</a></span>
+                         </div>
+                
+                        <div class="topnav_span" id="topnav_span_6"> 
+                            <span class="topnav_span_links"><a id="categoryL1Link_6" href="stores-g.fp">Stores</a></span>
+                         </div>
+                <script type="text/javascript"> var linkArray = new Array("consumer-electronics.fp","computers-software.fp","home-garden.fp","clothing-apparel.fp","furniture.fp","food-beverage-household.fp","stores-g.fp");</script>
+                 
+                 <script type="text/javascript">
+                    if (getLocalMode() != "local")
+                    {
+                        //alert(getLocalMode());
+                        for (var i = 0; i < 7; ++i)
+                        {
+                                var el = catchElement("categoryL1Link_" + String(i));
+                                el.href = linkArray[i];
+                        }
+                    }
+                </script>     
+            
+        </div> 
+        <div class="topnav_span_space_last" id="topnav_span_space_bg"></div> 
+<div id="topnav_span_deals_img">  <img border="0" src="http://akimages.crossmediaservices.com/broadreach2/images/shoplocal2007/sl_gloabalnav_dealstag.jpg" height="25" width="47"></div>
+<div id="topnav_span_deals"><span class="topnav_span_links"><a href="deals.fp">Hot Deals</a></span></div> 
+
+    </div>
+    
+    <div id="topnav_blue_container_bottom" style="width:768px;"> 
+        <div id="topnav_blue_botmid">
+        
+           
+       
  
-<!-- STORE PAGE STORE INFORMATION widget ends -->
-
+       <center> 
+       <div class="sl_search_grey_bg_middle"> 
+       <div class="sl_search_grey_bg_left"> <img border="0" src="http://akimages.crossmediaservices.com/broadreach2/images/shoplocal2007/sl_search_left_corner.jpg"></div>
+       <div class="sl_search_grey_bg_right"><img border="0" src="http://akimages.crossmediaservices.com/broadreach2/images/shoplocal2007/sl_search_right_corner.jpg"></div>
+       
+        <form style="display:inline; margin:0px; padding:0px;" action="Javascript:SearchByFilter('True',document.search_terms_form.searchterms.value,document.search_terms_form.sl07_topnav_select.value, true)" onsubmit="return ValidateSearchBox(document.search_terms_form.searchterms.value)" name="search_terms_form">
+        <input type="hidden" name="action" value="searchbroadreach">	
+       <div style="padding-top:10px;"> 
+        <div id="sl_topnav_search">
+            <div class="sl_topnav_searchfor"><img alt="Search for" border="0" src="http://akimages.crossmediaservices.com/broadreach2/images/shoplocal2007/sl07_topnav_search_searchfor.jpg" width="85"></div>
+            <div class="sl_topnav_searchinput1"><input name="Ntt" maxlength="100" id="searchterms" style="width:145px;" value=""></div>
+            <div class="sl_topnav_searchin"><img alt="in" border="0" src="http://akimages.crossmediaservices.com/broadreach2/images/shoplocal2007/sl07_topnav_search_in.jpg" width="31"></div>
+            <div class="sl_topnav_dropdown">
+            <select id="sl07_topnav_select" style="border: 1px solid #9B9D9F; width: 145px;">
+					<option value="0">All Products</option>
+					<option value="1">All Deals
+					</option>
+					<option value="2">Deals - Weekly Ads</option>
+				</select>
+            </div>
+            <div class="sl_topnav_button"><input type="image" src="http://akimages.crossmediaservices.com/broadreach2/images/shoplocal2007/sl07_topnav_search_button.jpg" alt="Go" border="0" id="Image1" style="padding-left:3px;"></div>
+            <div class="sl_topnav_right_corner"><img border="0" src="http://akimages.crossmediaservices.com/broadreach2/images/shoplocal2007/sl07_topnav_search_right.jpg" width="4"></div>
+        </div>
+       </div> 
+        </form>
+        </div>
+        </center>
 		
+		
+		
+		
+	 
+        </div>
+    </div>
+
+
+ 
+<div style="margin-top:5px;"></div>
+
+            
+            </nobr><div id="sl_container_all"><nobr>
+                
+
+</nobr><div id="sl_breadcrumb"><nobr>	
+    <a href="http://www.shoplocal.com"></a></nobr><a href="http://www.shoplocal.com"><nobr>Home</nobr></a>
+	
+	        &nbsp;<span id="slbreadcrumbarrow">&gt;</span> 
+	        <span id="slbreadcrumbselected"><a id="ctl00_ContentPlaceHolder1_breadCrumb_rptBreadCrumb_ctl00_hyplBreadCrumbPath" disabled="disabled">Privacy Policy</a></span>
+	    
+</div>
+<style type="text/css">
+h4 {background-color:#FFF; border:none; text-align:left;}
+#slpagetitle{text-align:left;}
+div#sl_infopage{text-align:left;}
+</style>
 <div id="sl_shoppingzone_frameall"> 
-<div class="sl_shoppingzone_left"><img src="http://akimages.crossmediaservices.com/broadreach2/images/shoplocal2006/sl_shoppingzone_left_blue_corner.gif" border="0" height="25"></div>		 
-<div class="sl_shoppingzone_right"><img src="http://akimages.crossmediaservices.com/broadreach2/images/shoplocal2006/sl_shoppingzone_right_blue_corner.gif" border="0" height="25"></div>
+<div class="sl_shoppingzone_left">
+<img src="http://akimages.crossmediaservices.com/broadreach2/images/shoplocal2006/sl_shoppingzone_left_blue_corner.gif" height="25" border="0"></div>		 
+<div class="sl_shoppingzone_right">
+<img border="0" src="http://akimages.crossmediaservices.com/broadreach2/images/shoplocal2006/sl_shoppingzone_right_blue_corner.gif" height="25"></div>
 <div class="sl_shoppingzone_header2"><div class="sl_bbbrand_state_brand"><span class="sl_bbcat_text">Privacy Policy</span></div></div>
 </div> 
  <div class="sl_leftnright_grey_border" style="  padding-top:10px;">
-<div id="sl_entry_weekly_circ_all" style="height:6px; margin-right:10px; margin-left:10px;"> 
+<div id="sl_entry_weekly_circ_all" style="height:15px; margin-right:10px; margin-left:10px;"> 
 <div id="sl_entry_weekly_circ_left_corner"><img src="http://akimages.crossmediaservices.com/broadreach2/images/shoplocal2006/sl_entry_grey_gradiant_left_corner.jpg" border="0"></div>   
 <div id="sl_entry_weekly_circ_right_corner"><img src="http://akimages.crossmediaservices.com/broadreach2/images/shoplocal2006/sl_entry_grey_gradiant_right_corner.jpg" border="0"></div>
 </div> 
 <center>
  <div id="sl_infopage"> 
 <p>
-This page states the Privacy Policy applicable to the shoplocal.com™ website (the "Website") as of July 11, 2006.  Please read this page carefully.  As used herein, the words “user,” “you” and “your” mean users of the Website and the words “we,” “our,” and “ShopLocal” mean ShopLocal, LLC, the owner and operator of the Website.
+This page states the Privacy Policy applicable to the shoplocal.com™ website (the "Website") as of May 4, 2007.  Please read this page carefully.  As used herein, the words “user,” “you” and “your” mean users of the Website and the words “we,” “our,” and “ShopLocal” mean ShopLocal, LLC, the owner and operator of the Website.
 </p>
-
-<p>
-ShopLocal embraces the privacy guidelines as developed by the Online Privacy Alliance (OPA) 
-and the Federal Trade Commission (FTC), and this privacy policy adheres to the 
-principles addressed in those guidelines. To view these guidelines, 
-please visit the web sites of the corresponding organization, 
-<a href="http://www.privacyalliance.org/resources/ppguidelines.shtml">http://www.privacyalliance.org/resources/ppguidelines.shtml</a> and
-<a href="http://www.ftc.gov/reports/privacy3/fairinfo.htm">http://www.ftc.gov/reports/privacy3/fairinfo.htm</a>.<br> 
-</p>
+ 
 <p>
 </p><h4><span class="header_title">P3P</span></h4> 
-The Website is in compliance with the current draft of the World Wide Web Consortium (W3C) Platform for Privacy Preferences (P3P) specification, <a href="http://www.w3c.org/P3P">http://www.w3c.org/P3P</a>, dated April 16, 2002.  This specification was developed to allow users to more easily evaluate the use of personal information collected by the web sites they visit. Thus, if your browser is Microsoft Internet Explorer Version 6, or later, your browser can electronically interpret the P3P version of our privacy policies.
+The Website is in compliance with the current draft of the World Wide Web Consortium (W3C) Platform for Privacy Preferences (P3P) specification. This specification was developed to allow users to more easily evaluate the use of personal information collected by the web sites they visit. Thus, if your browser is Microsoft Internet Explorer Version 6, or later, your browser can electronically interpret the P3P version of our privacy policies.
 <p></p>
 <p>
 </p><h4><span class="header_title">Collection and use of non-personal information</span></h4> 
-<p>If you visit the Website, we do not collect any personally identifiable information about you (such as your name, address, phone number or e-mail address) unless you provide it, as described under "Collection of personal information" below. We do, however, collect non-personally-identifiable (anonymous) information about you, such as the server your computer is logged into or your browser type. Other examples of non-personally-identifiable information include:</p>  
-	<p> - Your IP address (a unique number that is automatically assigned to your computer whenever you are surfing the Web; many Web servers automatically identify your computer by its IP address).</p> 
-	 <p>- Your domain type (i.e., .com, .net, .edu, etc.).</p>
-	 <p>- Standard information included with every communication sent on the Internet, such as browser type, operating system, browser language, service provider, and local time.</p> 
- 
-ShopLocal collects data from the Web logs of its servers -- the computers that "serve up" Web pages -- delivering the ShopLocal content.  This includes information about what you view and, along with information gathered from our other users, we create "aggregate data" reports that we may disclose to third parties, including our clients with whom we have entered into an agreement to provide such information. We may also study aggregate data in order to enhance our existing services or develop new services. We will not disclose any personal information to a third party without your express prior written authorization. We can and will use IP addresses to identify a user when we feel it is necessary to enforce compliance with our or terms of use or to protect our service, site, customers, or others.
-<p></p>
+If you visit the Website, we do not collect any personally identifiable information about you (such as your name, address, phone number or email address) unless you provide it, as described under “Collection of personal information” below. We do, however, collect non-personally-identifiable (anonymous) information about you, such as the server your computer is logged into or your browser type. Other examples of non-personally-identifiable information include: 
+ <br><br>
+o Your ZIP Code and/or City, State <br>
+o Your IP address (a unique number that is automatically assigned to your computer whenever you are surfing the Web; many Web servers automatically identify your computer by its IP address).<br>
+o Your domain type (i.e., .com, .net, .edu, etc.). <br>
+o Standard information included with every communication sent on the Internet, such as browser type, operating system, browser language, service provider, and local time.<br>
+ <br> 
+ ShopLocal collects data from the Web logs of its servers -- the computers that "serve up" Web pages -- delivering the ShopLocal content.  This includes information about what you view and, along with information gathered from our other users, we create "aggregate data" reports that we may disclose to third parties, including our clients with whom we have entered into an agreement to provide such information. We may also study aggregate data in order to enhance our existing services or develop new services. We will not disclose any personal information to a third party without your express prior written authorization. We can and will use IP addresses to identify a user when we feel it is necessary to enforce compliance with our terms of use or to protect our service, site, customers, or others.
+
 <p>
-We use third-party advertising companies and advertising networks to serve ads to you on our behalf when you visit our Web site. These companies may use information (not including your name, address e-mail address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit <a href="http://www.networkadvertising.org/optout_nonppii.asp">http://www.networkadvertising.org/optout_nonppii.asp</a>.
+We use third-party advertising companies and advertising networks to serve ads to you on our behalf when you visit our Web site. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit <a href="http://www.networkadvertising.org/optout_nonppii.asp">http://www.networkadvertising.org/optout_nonppii.asp</a>.
 </p>
 <p>
-</p><h4><span class="header_title">Use of cookies</span></h4> 
-ShopLocal uses cookies on the Website.  Cookies are used for record keeping, to track your movements when you visit the Website and to help us determine what type of information to present to you. The use of cookies is an industry standard - you'll find them used at most Web sites. Our cookies do not contain any personally identifiable information about you, and do not damage or alter your system files in any way. The first time you visit the Website, ShopLocal assigns you a unique, anonymous, ID, which is stored in the cookie on your computer.<p></p>
+</p><h4><span class="header_title">Use of browser based cookies and web beacons</span></h4> 
+ShopLocal uses browser based cookies and/or flash shared objects, which are small text files placed on your computer's hard drive, and web beacons (also known as pixel tags), which are electronic images embedded into a web page, on the Website.  Cookies and web beacons are used for record keeping, to track your movements when you visit the Website and to help us determine what type of information to present to you. The use of cookies and web beacons is an industry standard - you'll find them used at most Web sites. Our cookies and web beacons do not contain any personally identifiable information about you, and do not damage or alter your system files in any way. The first time you visit the Website, ShopLocal assigns you a unique, anonymous ID, which is stored in the cookie on your computer.<p></p>
 <p>
 </p><h4><span class="header_title">Collection of personal information</span></h4> 
-You must provide personal information in order to use the following optional features of the Website.  We will, and you expressly authorize us to, use the information you provide in order to provide these optional features.<br><br>
-(a)  ShopLocal requests location information in order to create a personalized Shopping Zone for you. A Shopping Zone allows us to determine which sales and deals are available at stores near you. When providing location information, you may enter a city and State or a Zip Code.<br><br>
+You must provide personal information in order to use certain optional features of the Website, including, but not limited to, e-mail alerts, coupons and sweepstakes.  The manner in which we will use your personal information will be disclosed on the page through which you sign up or otherwise provide information to use the feature.  We will, and by your use of these optional features you expressly authorize us to, use the information you provide in order to provide these optional features.<br><br>
+Unless you explicitly ask us to or as disclosed when you sign up for an optional feature, we will not share any personal information that you provide with any third party or use the information for any purpose other than to provide the specific feature that you request.<br>
+<h4><span class="header_title">Who is collecting your information</span></h4> 
+Your information is being collected solely by ShopLocal and as discussed under "Collection and use of non-personal information" above, third-party advertising companies and advertising networks. See the discussion under "With whom your information may be shared" below concerning the circumstances under which certain of your information may be disclosed to third parties.
 
-(b)  If you choose to register for E-mail Alerts, we require your e-mail address. The E-mail Alerts feature offers the opportunity to receive e-mail regarding special offers.<br><br>
+<h4><span class="header_title">With whom your information may be shared</span></h4> 
+ShopLocal does not sell, trade or rent your personal information to others.  We may provide information to others as follows:<br><br>
+(a)  as discussed above under "Collection and use of non-personal information," we may provide aggregate statistics about our users, traffic patterns and related site information to our clients or for other marketing and promotional purposes.<br><br>
 
-(c)   The “Share This Page”  feature allows you to notify someone, via e-mail, about a deal found on ShopLocal. Use of this feature requires you to enter the e-mail address to which this information will be sent.<br><br> 
+(b)  We may provide information to our affiliates for whom we have created co-branded or private label versions of the Website.<br><br>
 
-(d)  Merchants who register to use the ShopLocal Internet Directory Service are required to provide the information described in the Registration and Merchant Agreement for that service.<br><br>
-
-(e)  You must provide your e-mail address in order to receive coupons.<br><br>
-
-Unless you explicitly ask us to, we will not share any personal information that you provide with any third party or use the information for any purpose other than to provide the specific feature that you request.
-
-<p></p>
-<p>
-</p><h4><span class="header_title">Who is collecting your information</span></h4>
-Your information is being collected solely by ShopLocal. See the discussion under "With whom your information may be shared" below concerning the circumstances under which certain of your information may be disclosed to third parties.
-<p></p>
-<p>
-</p><h4><span class="header_title">With whom your information may be shared</span></h4> 
-ShopLocal does not sell trade or rent your personal information to others. As discussed above under "Collection and use of non-personal information," we may provide aggregate statistics about our users, traffic patterns and related site information to our clients or for other marketing and promotional purposes. In these situations, we would not disclose any information that could be used to personally identify you.
-<p></p>
+(c)  We may provide information to third parties to the extent necessary to enable them to provide services on the Website, such as delivery or tracking of advertisements, or to provide information or services requested by you.<br><br> 
+In each instance, your information would not be used in any manner that is inconsistent with this Privacy Policy without your prior permission. 
+<p></p> 
+ 
 <p>
 </p><h4><span class="header_title">Retention of information</span></h4>
 Any information we collect may be retained for an indeterminate period of time.
@@ -1192,7 +488,7 @@ Any information we collect may be retained for an indeterminate period of time.
 <p></p>
 <p>
 </p><h4><span class="header_title">Links to Other Sites</span></h4>
-The Website may provide links to an external Web site. When you click on such a link, you will leave ShopLocal. The privacy policy of the external Web site will then be in effect, not ShopLocal’s. ShopLocal does not control or make an endorsement of any kind regarding the external site or its privacy policy. ShopLocal’s  policy does not extend to anything that is inherent in the operation of the Internet, and therefore beyond ShopLocal’s  control, and is not to be applied in any manner contrary to applicable law or governmental regulation. We do not control cookies from the other sites that you may link to from ShopLocal.
+The Website may provide links to an external Web site. When you click on such a link, you will leave ShopLocal. The privacy policy of the external Web site will then be in effect, not ShopLocal’s. ShopLocal does not control or makes an endorsement of any kind regarding the external site or its privacy policy. ShopLocal’s  policy does not extend to anything that is inherent in the operation of the Internet, and therefore beyond ShopLocal’s  control, and is not to be applied in any manner contrary to applicable law or governmental regulation. We do not control cookies from the other sites that you may link to from ShopLocal.
 <p></p>
 <p>
 </p><h4><span class="header_title">Children</span></h4>
@@ -1208,7 +504,7 @@ If ShopLocal is sold, merged or otherwise transferred to another entity, the per
 <p></p>
 <p>
 </p><h4><span class="header_title">Effect of Legal Obligations upon this Privacy Policy</span></h4>
-ShopLocal may disclose user information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) ShopLocal’s  rights or property, other ShopLocal users, or anyone else that could be harmed by such activities. ShopLocal may disclose user information when we believe in good faith that the law requires it. 
+ShopLocal may disclose user information in special cases when we have reason to believe that disclosing this information is necessary to comply with law, to cooperate with or seek assistance from law enforcement, to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) ShopLocal’s  rights or property, other ShopLocal users, or anyone else that could be harmed by such activities. ShopLocal may disclose user information when we believe in good faith that the law requires it.
 <p></p>
 <p>
 </p><h4><span class="header_title">Effect of Privacy Policy</span></h4>
@@ -1222,329 +518,65 @@ If you have any questions about this privacy policy, please contact us at <a hre
 
 </div> 
 
-<!-- Leaderboard -->
-
-<div class="sl_body_widget_container">
-	<div style="position:relative; height: 70px;">
-<table cellpadding="0" cellspacing="0" border="0" id="sl_advertisement_banner" style="position:absolute; top:0; left:10px;"> 
-<tbody><tr>
-<td class="sl_bannerad_header">
-<div class="bannerad_header">advertisement</div>
-</td>
-</tr>
-<tr>
-<td align="center"> 
-<script type="text/javascript" language="JavaScript">
-	<!-- Banner Ad LeaderBoard...Hide from old browsers
-	// Modify to reflect site specifics
-	adserver = "http://shoplocl.adbureau.net";	
-	target="/AAMGNRC1=/AAMGNRC2=/area=privacypolicy/AAMGNRC3=privacypolicy/generic=shoplocal/size=468X60/AAMSZ=468X60/sitegroup=shoplocal/cat=/keyword=/AAMGNRC4=/site=/pretailer=/AAMGNRC5=/zip=/AAMGNRC7=/dma=/AAMGNRC6=/?>";
-	//
-	//ad call parameters
-	//
-	//page=privacypolicy
-	//retailer=
-	//keyword=
-	//site=
-	//zip=
-	//
-	//
-	//
-	// Cache-busting and pageid values
-	random = Math.round(Math.random()*100000000);
-	if (!pageNum) var pageNum = Math.round(Math.random() * 100000000);
-			
-	document.write('<SCR');
-	document.write('IPT SRC="' + adserver + '/jserver/acc_random=' + random + target + "/pageid=" + pageNum + '">');
-	document.write('</SCR');
-	document.write('IPT>');
-	// End Hide -->
-</script><script src="http://shoplocl.adbureau.net/jserver/acc_random=35479588/AAMGNRC1=/AAMGNRC2=/area=privacypolicy/AAMGNRC3=privacypolicy/generic=shoplocal/size=468X60/AAMSZ=468X60/sitegroup=shoplocal/cat=/keyword=/AAMGNRC4=/site=/pretailer=/AAMGNRC5=/zip=/AAMGNRC7=/dma=/AAMGNRC6=/?&gt;/pageid=10176337"></script>
-</td>
-</tr>
-</tbody></table>
-</div>
-</div>
-
-	
-
-
  </center>
  </div> 
-		
-		
-		
-		
-		
  
- 
-<!-- BottomNav starts -->
+<span id="ctl00_ContentPlaceHolder1_pixelTracker"><script language="javascript">
+                    var pt = new Image();
+                    pt.src = 'http://pt.crossmediaservices.com/pt/default.aspx?action=privacypolicy&viewmode=local&referrer=&random=1563455575&SiteID=252&Address=&City=Poway&State=CA&ZipCode5=92074&ZipCodeNine=&CountryID=1&CLat=0.575260521457331&CLong=-2.04255882360896&NLat=0.577785940054488&SLat=0.572735102860173&ELong=-2.0400334050118&Sniff=10&DMAName=San%2bDiego%252c%2bCA&DMA=825';
+                    </script><noscript><img src="http://pt.crossmediaservices.com/pt/default.aspx?action=privacypolicy&viewmode=local&referrer=&random=1212083684&SiteID=252&Address=&City=Poway&State=CA&ZipCode5=92074&ZipCodeNine=&CountryID=1&CLat=0.575260521457331&CLong=-2.04255882360896&NLat=0.577785940054488&SLat=0.572735102860173&ELong=-2.0400334050118&Sniff=10&DMAName=San%2bDiego%252c%2bCA&DMA=825" height="1" width="1" border="0" /></noscript></span>
 
-<div id="sl_bottomnav" style="clear:both; text-align:center; margin-left:0px;">
-
-	<div id="sl_bottomnav_top">
-		<span class="sl_bottomnav_top_link"><a href="/default.aspx?action=entrybroadreach&amp;clickarea=bottomnav" name="bnav_home_link">Home</a>&nbsp;</span>
-		<span class="sl_bottomnav_top_link"><a href="/Category-g.fp?clickarea=bottomnav" name="bnav_cat_link">Categories</a>&nbsp;</span>
-		<span class="sl_bottomnav_top_link"><a href="/Stores-g.fp?clickarea=bottomnav" name="bnav_store_link">Stores</a>&nbsp;</span>
-		<span class="sl_bottomnav_top_link_last"><a href="/default.aspx?action=browsebrandlist&amp;clickarea=bottomnav" name="bnav_brands_link">Brands</a>&nbsp;</span><br>
-		<div style="padding-top:4px;">
-		<span class="sl_bottomnav_top_link"><a href="/default.aspx?action=shopbycity&amp;clickarea=bottomnav" name="bnav_shopbycity_link">Shop by City</a>&nbsp;</span><span class="sl_bottomnav_top_link"><a href="http://www.shoplocal.com/s__c_.fp" title="Find Sales in a City Near You!" name="gnav_shoplist_link">&nbsp;Shopping&nbsp;</a></span>
-		 <span class="sl_bottomnav_top_link"><a href="#" onclick="javascript:dopopup('/default.aspx?action=printshoppinglist',700,600);" name="gnav_shoplist_link">My List</a>&nbsp;</span>
-		
-			<span class="sl_bottomnav_top_link_last"><a href="/default.aspx?action=eva&amp;clickarea=bottomnav" name="gnav_shoplist_link">Eva the Shopping Diva</a>™</span>
-      
-      </div>
-	</div>
-	
-		<div class="bottomnavcatlinks" style="padding: 15px 0px 0px 10px; width: 90%;">
-		
-							<a href="Consumer-Electronics.fp?clickarea=footerlinks"><nobr>Electronics</nobr></a>
-						
-							<a href="iPods-MP3-Media-Players.fp?clickarea=footerlinks"><nobr>iPods &amp; Media Players</nobr></a>
-						
-							<a href="cl2-133982.fp?clickarea=footerlinks"><nobr>Flat-Panel TVs</nobr></a>
-						
-							<a href="Digital-Cameras.fp?clickarea=footerlinks"><nobr>Digital Cameras</nobr></a>
-						
-							<a href="cl2-208152.fp?clickarea=footerlinks"><nobr>DVD Players</nobr></a>
-						
-							<a href="Video-Games-Systems.fp?clickarea=footerlinks"><nobr>Video Games</nobr></a>
-						
-							<a href="Camcorders.fp?clickarea=footerlinks"><nobr>Camcorders</nobr></a>
-						
-							<a href="Cellular-Telephones.fp?clickarea=footerlinks"><nobr>Cellular Phones</nobr></a>
-						
-							<a href="Car-Electronics.fp?clickarea=footerlinks"><nobr>Car Electronics</nobr></a>
-						
-							<a href="Home-Audio-Theater.fp?clickarea=footerlinks"><nobr>Home Audio &amp; Theater</nobr></a>
-						
-							<a href="Home-Garden.fp?clickarea=footerlinks"><nobr>Home &amp; Garden</nobr></a>
-						
-							<a href="Bed-Bath.fp?clickarea=footerlinks"><nobr>Bed &amp; Bath</nobr></a>
-						
-							<a href="Refrigerators.fp?clickarea=footerlinks"><nobr>Refrigerators</nobr></a>
-						
-							<a href="cl2-136072.fp?clickarea=footerlinks"><nobr>Washing Machines</nobr></a>
-						
-							<a href="cl2-136055.fp?clickarea=footerlinks"><nobr>Dishwashers</nobr></a>
-						
-							<a href="cl2-237360.fp?clickarea=footerlinks"><nobr>Small Appliances</nobr></a>
-						
-							<a href="Furniture.fp?clickarea=footerlinks"><nobr>Furniture</nobr></a>
-						
-							<a href="Living-Room-Furniture.fp?clickarea=footerlinks"><nobr>Living Room</nobr></a>
-						
-							<a href="Bedroom-Furniture.fp?clickarea=footerlinks"><nobr>Bedroom</nobr></a>
-						
-							<a href="Dining-Room-Furniture.fp?clickarea=footerlinks"><nobr>Dining Room</nobr></a>
-						
-							<a href="Tables-Chairs.fp?clickarea=footerlinks"><nobr>Tables &amp; Chairs</nobr></a>
-						
-							<a href="Mattresses.fp?clickarea=footerlinks"><nobr>Mattresses</nobr></a>
-						
-							<a href="Childrens-Furniture.fp?clickarea=footerlinks"><nobr>Children's Furniture</nobr></a>
-						
-							<a href="Kitchen-Furniture.fp?clickarea=footerlinks"><nobr>Kitchen</nobr></a>
-						
-							<a href="Computer-Furniture.fp?clickarea=footerlinks"><nobr>Computer</nobr></a>
-						
-							<a href="Clothing-Apparel.fp?clickarea=footerlinks"><nobr>Clothing</nobr></a>
-						
-							<a href="Womens-Dresses-Skirts.fp?clickarea=footerlinks"><nobr>Women's Dresses &amp; Skirts</nobr></a>
-						
-							<a href="Juniors-Dresses-Skirts.fp?clickarea=footerlinks"><nobr>Junior's Dresses &amp; Skirts</nobr></a>
-						
-							<a href="Mens-Shirts.fp?clickarea=footerlinks"><nobr>Men's Shirts &amp; Tops</nobr></a>
-						
-							<a href="Childrens-Apparel.fp?clickarea=footerlinks"><nobr>Children's Apparel</nobr></a>
-						
-							<a href="Mens-Athletic-Clothing.fp?clickarea=footerlinks"><nobr>Men's Athletic</nobr></a>
-						
-							<a href="Womens-Athletic-Clothing.fp?clickarea=footerlinks"><nobr>Women's Athletic</nobr></a>
-						
-							<a href="Mens-Suits-Coats-Blazers.fp?clickarea=footerlinks"><nobr>Men's Suits, Coats &amp; Blazers</nobr></a>
-						
-							<a href="cl2-177233.fp?clickarea=footerlinks"><nobr>Women's Handbags</nobr></a>
-						
-							<a href="Computers-Software.fp?clickarea=footerlinks"><nobr>Computers</nobr></a>
-						
-							<a href="Laptop-Computers.fp?clickarea=footerlinks"><nobr>Laptops</nobr></a>
-						
-							<a href="Desktop-Computers.fp?clickarea=footerlinks"><nobr>Desktops</nobr></a>
-						
-							<a href="Computer-Memory-Data-Storage-Systems.fp?clickarea=footerlinks"><nobr>Computer Memory</nobr></a>
-						
-							<a href="cl2-135260.fp?clickarea=footerlinks"><nobr>LCDs</nobr></a>
-						
-							<a href="Motherboards-CPUs.fp?clickarea=footerlinks"><nobr>Motherboards &amp; CPUs</nobr></a>
-						
-							<a href="Printers-Scanners.fp?clickarea=footerlinks"><nobr>Printers &amp; Scanners</nobr></a>
-						
-							<a href="Handhelds-PDAs-Accessories.fp?clickarea=footerlinks"><nobr>Handhelds &amp; PDAs</nobr></a>
-						
-							<a href="Software.fp?clickarea=footerlinks"><nobr>Software</nobr></a>
-						
-							<a href="Food-Beverage-Household.fp?clickarea=footerlinks"><nobr>Food &amp; Household</nobr></a>
-						
-							<a href="Beverages.fp?clickarea=footerlinks"><nobr>Beverages</nobr></a>
-						
-							<a href="Snacks-Cakes-Desserts.fp?clickarea=footerlinks"><nobr>Snacks, Cakes &amp; Desserts</nobr></a>
-						
-							<a href="Meat-Poultry.fp?clickarea=footerlinks"><nobr>Meat &amp; Poultry</nobr></a>
-						
-							<a href="cl2-134867.fp?clickarea=footerlinks"><nobr>Wine &amp; Spirits</nobr></a>
-						
-							<a href="Cleaning-Supplies.fp?clickarea=footerlinks"><nobr>Cleaning Supplies</nobr></a>
-						
-							<a href="Household-Products.fp?clickarea=footerlinks"><nobr>Household Products</nobr></a>
-						
-							<a href="Baby-Food.fp?clickarea=footerlinks"><nobr>Baby Food</nobr></a>
-						
-							<!--This is the More link-->
-							
-						
-							<a href="Automotive-Car-Truck.fp?clickarea=footerlinks"><nobr>Automotive</nobr></a>
-						
-							<a href="Home-Improvement-Remodeling-Repair.fp?clickarea=footerlinks"><nobr>Home Improvement</nobr></a>
-						
-							<a href="Shoes-Footwear.fp?clickarea=footerlinks"><nobr>Shoes &amp; Footwear</nobr></a>
-						
-							<a href="Toys-Games.fp?clickarea=footerlinks"><nobr>Toys &amp; Games</nobr></a>
-						
-							<a href="Baby-Toddler.fp?clickarea=footerlinks"><nobr>Baby &amp; Toddler</nobr></a>
-						
-							<a href="Health-Beauty.fp?clickarea=footerlinks"><nobr>Health &amp; Beauty</nobr></a>
-						
-							<a href="Music-Books-Movies.fp?clickarea=footerlinks"><nobr>Music, Books &amp; Movies</nobr></a>
-						
-							<a href="Arts-Crafts-Hobby.fp?clickarea=footerlinks"><nobr>Arts, Crafts &amp; Hobby</nobr></a>
-						
-							<a href="Pet-Supplies.fp?clickarea=footerlinks"><nobr>Pet Supplies</nobr></a>
-						
-							<a href="Jewelry-Watches.fp?clickarea=footerlinks"><nobr>Jewelry &amp; Watches</nobr></a>
-						
-							<a href="Boating-Sailing-Marine.fp?clickarea=footerlinks"><nobr>Boating, Sailing &amp; Marine</nobr></a>
-						
-							<!--This is the More link-->
-							
-						
-							<a href="/Stores-g.fp">Stores &amp; Ads</a>
-							
-						
-		</div>
-	   
-                   
-         <div id="slfooter_bottom">
-         <span class="slfooter_link_bot"><a href="#" onclick="javascript:dopopup('http://www.ShopLocalLLC.com/about_us.html',850,575);" name="bnav_aboutus_link">About Us&nbsp;</a></span>
-         <span class="slfooter_link_bot"><a href="/default.aspx?action=termsandconditions" name="bnav_terms_link">Terms of Use&nbsp;</a></span>
-         <span class="slfooter_link_bot"><a href="/default.aspx?action=privacypolicy" name="bnav_privacy_link">Privacy Policy&nbsp;</a></span>
-        <span class="slfooter_link_bot"><a href="/default.aspx?action=MyStoreIntro&amp;pg=1" name="bnav_contact_link">For Advertisers&nbsp;</a></span>
-         <span class="slfooter_link_bot"><a href="/default.aspx?action=comment" name="bnav_comments_link">Comments&nbsp;</a></span>
-         <span class="slfooter_link_bot"><a href="/default.aspx?action=help" name="bnav_help_link">Help</a></span>
-         <span class="slfooter_link_bot_last"><a href="#" onclick="javascript:dopopup('/default.aspx?action=emailfraudpopup',600,500);">Prevent E-mail Fraud&nbsp;</a></span>
-         </div>
-</div>
-
-<table border="0" align="center"><tbody><tr><td align="center"><font size="1" color="aaaaaa">
-
-</font></td></tr></tbody></table>
-<!-- BottomNav ends OP -->
-
-		
-
-<!-- Attribution begins -->
-<div id="SL_attribution" style="text-align:left">
-	<div id="copyright1">Copyright © 2006 <a href="http://www.shoplocalllc.com" target="_new" style="text-decoration:underline;">ShopLocal, LLC.</a> All rights reserved.</div>
-	<div id="attribution_text">
-		By continuing past this page and/or using this, you agree to abide by the 
-		
-			<a href="/default.aspx?action=termsandconditions" style="text-decoration:underline;"><span class="terms_link">Terms of Use</span></a>
-		 
-		for this site, which prohibit<br>
-		commercial use of any information on this site.
-	</div>
-</div>
-<!-- Attribution ends -->
-
-
-
-<!-- Google Conversion Code -->
-<script language="JavaScript">
-<!--
-google_conversion_id = 1070438744;
-google_conversion_language = "en_US";
-google_conversion_format = "1";
-google_conversion_color = "FFFFFF";
--->
-</script>
-<script language="JavaScript" src="http://www.googleadservices.com/pagead/conversion.js">
-</script>
-<noscript>
-<img height=1 width=1 border=0 src="http://www.googleadservices.com/pagead/conversion/1070438744/?script=0">
-</noscript>
-
-<div id="sl_partner_links">
-Visit our partners:&nbsp;<a href="http://www.apartments.com/">Apartments.com</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://careerbuilder.com/Default.aspx ">Careerbuilder.com</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://cars.com/go/index.jsp">Cars.com</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.fsbo.com/">FSBO.com</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.topix.net/">Topix.net</a>
-</div> 
-
-
-	</div>
-	<div id="sl_container_right">
-		
-<div style="height:20px;">&nbsp;</div>
-
-
-
-
-
-
-	
-
-
-	
-	
-	
-
-	
-<div style="text-align:center"> 
-	<div class="bannerad_header">advertisement</div>
-	<script type="text/javascript" language="JavaScript">
-		<!-- Banner Ad Skyscraper...Hide from old browsers
-		// Modify to reflect site specifics
-		adserver = "http://shoplocl.adbureau.net";
-		target="/AAMGNRC1=/AAMGNRC2=/area=privacypolicy/AAMGNRC3=privacypolicy/generic=shoplocal/size=SKYSCRAPER/AAMSZ=SKYSCRAPER/sitegroup=shoplocal/cat=/keyword=/AAMGNRC4=/site=/pretailer=/AAMGNRC5=/zip=/AAMGNRC7=/dma=/AAMGNRC6=/?>";
-			
-		// Cache-busting and pageid values
-		random = Math.round(Math.random() * 100000000);
-		if (!pageNum) var pageNum = Math.round(Math.random() * 100000000);
-			
-		document.write('<SCR');
-		document.write('IPT SRC="' + adserver + '/jserver/acc_random=' + random + target + "/pageid=" + pageNum + '">');
-		document.write('</SCR');
-		document.write('IPT>');
-		// End Hide -->
-		</script><script src="http://shoplocl.adbureau.net/jserver/acc_random=43339601/AAMGNRC1=/AAMGNRC2=/area=privacypolicy/AAMGNRC3=privacypolicy/generic=shoplocal/size=SKYSCRAPER/AAMSZ=SKYSCRAPER/sitegroup=shoplocal/cat=/keyword=/AAMGNRC4=/site=/pretailer=/AAMGNRC5=/zip=/AAMGNRC7=/dma=/AAMGNRC6=/?&gt;/pageid=10176337"></script>
-		<!-- 
-		
-		160 x 600  
-		--> 
-</div>
-
+                
+<div id="footer_container">
+    <div id="national_footer">
+        <div id="national_footer_left"></div>
+        <div id="national_footer_right"></div>
+        <div id="national_footer_middle">
+            <div id="national_footer_links_top">
+                <div class="spacer">
+                    <a id="ctl00_footer_storesLink" href="/stores-g.fp">Stores</a>&nbsp;
+                    <a id="ctl00_footer_shopByCityLink" href="/default.aspx?action=shopbycity">Shop by City</a>&nbsp;
+					<a id="ctl00_footer_allOnlineCategoriesLink" href="/default.aspx?action=browseonlineall">All Online Categories</a>&nbsp;
+					<a id="ctl00_footer_allInStoreCategoriesLink" href="/category-g.fp">All In-Store Categories</a>&nbsp;
+					<a id="ctl00_footer_weeklyAds" href="/local-store-sales-ads.fp">Weekly Ads</a>&nbsp;                          
+                    <a id="ctl00_footer_blackFridayLink" href="/blackfriday.fp">Black Friday</a>&nbsp;
+                    <a id="ctl00_footer_topProductsLink" href="/default.aspx?action=topproducts">Top Products</a>&nbsp;
+                    <a id="ctl00_footer_topSearchesLink" href="/default.aspx?action=topsearches">Top Searches</a>&nbsp;
+                    <a id="ctl00_footer_myListLink" class="footer_bottom_links" href="/default.aspx?action=mylist">MyList</a>&nbsp;
+                 </div>
+                 <div class="spacer" style="padding-top:2px;">
+                    <a id="ctl00_footer_aboutUsLink" class="footer_bottom_links" href="http://aboutshoplocal.com">About Us</a>
+                    <a id="ctl00_footer_commentsLink" class="footer_bottom_links" href="/default.aspx?action=comment">Comments</a>
+                    <a id="ctl00_footer_advertiseWithUsLink" class="footer_bottom_links" href="http://www.aboutshoplocal.com/advertise.html">Advertise with Us</a>
+                    <a id="ctl00_footer_termsLink" class="footer_bottom_links" href="/default.aspx?action=termsandconditions">Terms of Use</a>
+                    <a id="ctl00_footer_privacyPolicyLink" class="footer_bottom_links" href="/privacypolicy.aspx">Privacy Policy</a>
+                    <a id="ctl00_footer_emailFraudLink" class="footer_bottom_links" onclick="javascript:dopopup('default.aspx?action=emailfraudpopup',600,500);" href="javascript:void(null);">Prevent E-mail Fraud</a>
+                </div>     
+                </div>
+                     <div id="national_footer_links_bottom">
+                        <div class="spacer">
+                            Partner Sites: <a id="ctl00_footer_careerBuilderLink" class="footer_bottom_links" href="http://careerbuilder.com/Default.aspx">Careerbuilder.com</a>
+                            <a id="ctl00_footer_apartmentsLink" class="footer_bottom_links" href="http://www.apartments.com/">Apartments.com</a>    
+                            <a id="ctl00_footer_carsLink" class="footer_bottom_links" href="http://cars.com/go/index.jsp">Cars.com</a>
+                            <a id="ctl00_footer_forSaleByOwnerLink" class="footer_bottom_links" href="http://www.ForSaleByOwner.com/">ForSaleByOwner.com</a>
+                            <a id="ctl00_footer_topixLink" class="footer_bottom_links" href="http://www.topix.net/">Topix.net</a>
+                        </div>
+                        <div class="spacer" style="padding-top:2px;">
+                            Copyright 2007. All rights reserved.
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+            </div>
+        
+        
+        <span id="ctl00_pt"><script language="javascript">
+                    var pt = new Image();
+                    pt.src = 'http://pt.crossmediaservices.com/pt/default.aspx?action=privacypolicy&viewmode=local&referrer=&random=1212083684&SiteID=252&Address=&City=Poway&State=CA&ZipCode5=92074&ZipCodeNine=&CountryID=1&CLat=0.575260521457331&CLong=-2.04255882360896&NLat=0.577785940054488&SLat=0.572735102860173&ELong=-2.0400334050118&Sniff=10&DMAName=San%2bDiego%252c%2bCA&DMA=825';
+                    </script><noscript><img src="http://pt.crossmediaservices.com/pt/default.aspx?action=privacypolicy&viewmode=local&referrer=&random=1212083684&SiteID=252&Address=&City=Poway&State=CA&ZipCode5=92074&ZipCodeNine=&CountryID=1&CLat=0.575260521457331&CLong=-2.04255882360896&NLat=0.577785940054488&SLat=0.572735102860173&ELong=-2.0400334050118&Sniff=10&DMAName=San%2bDiego%252c%2bCA&DMA=825" height="1" width="1" border="0" /></noscript></span>
     
 
 
-	</div>
-</div>
-<br clear="both">
 
-<table border="0" align="center"><tbody><tr><td align="center"><font size="1" color="aaaaaa">
- Local
-</font></td></tr></tbody></table>
-
-
-			
-			
-
-
-
-</body></html>
+</td></tr></tbody></table></div></div></div></nobr></div></div></div></div></div></div></div></div></div></body></html>
