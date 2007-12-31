@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the interoute.com privacy policy that was archived on 2007-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070615040754id_/http%3A//www.interoute.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interoute.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231234653id_/http%3A//www.interoute.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy policy | Interoute
-
-  
-
 
 ### 1 Introduction
 
@@ -23,7 +20,7 @@ We will only pass on information about you as an individual (as opposed to aggre
 
 ### 5 Data Protection
 
-Interoute Communications Limited is registered with the Information Commissioner in the UK as a “data controller” in accordance with the provisions of the Data Protection Act 1998\. Further details of the registration are available at www.dpr.gov.uk.
+Interoute Communications Limited is registered with the Information Commissioner in the UK as a “data controller” in accordance with the provisions of the Data Protection Act 1998. Further details of the registration are available at www.dpr.gov.uk.
 
 ### 6 Security
 
@@ -36,3 +33,6 @@ Your personal information We will always let you have a copy of personal informa
 ### 8 Questions?
 
 If you have any questions or complaints relating to this Privacy policy or how we use the personal information we have about you, please contact info@interoute.com. We will endeavour to respond to you promptly.
+
+  
+
