@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wwe.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230082431id_/http%3A//www.wwe.com/help/generalfaq/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wwe.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231081539id_/http%3A//www.wwe.com/help/generalfaq/privacypolicy) for the most accurate reproduction.*
 
-# WWE: General F.A.Q. > Privacy Policy
+# WWE: Help > General F.A.Q. > Privacy Policy
 
 ## WORLD WRESTLING ENTERTAINMENT, INC. PRIVACY POLICY
 
@@ -84,22 +84,22 @@ We will only use or retain your Personal Information in accordance with the term
 We take reasonable precautions to keep your Personal Information secure, including the use of Secure Socket Layer (“SSL”) technology to protect credit card information and other Personal Information you provide in connection with purchases, paid subscriptions or other similar transactions. 
 
 **Opt-Out**  
-Any feature on our web sites requiring registration allows you to opt-out from receiving any newsletters, product offers, or other correspondence from either us or our business affiliates. In addition, if after registering, you would no longer like to receive any such materials or correspondence, send an e-mail by [clicking here.](http://help-forms.wwe.com/contact_memserv.php) Indicate your preference to “unsubscribe,” and we will promptly remove you from our list. Please be sure to include your name and e-mail address in the e-mail. You will need to send separate e-mails if you are registered for more than one of our features or services.
+Any feature on our web sites requiring registration allows you to opt-out from receiving any newsletters, product offers, or other correspondence from either us or our business affiliates. In addition, if after registering, you would no longer like to receive any such materials or correspondence, send an e-mail by [clicking here.](https://secure.wwe.com/forms/help/memserv.php) Indicate your preference to “unsubscribe,” and we will promptly remove you from our list. Please be sure to include your name and e-mail address in the e-mail. You will need to send separate e-mails if you are registered for more than one of our features or services.
 
 If you want to prevent a third party advertiser from setting and/or reading cookies on your computer, currently you may either visit each ad network's web site individually and opt-out or visit the NAI gateway opt-out site to opt-out of all network advertising cookies. [Click here](http://www.networkadvertising.org/optout_nonppii.asp) for the NAI gateway opt-out site. This site will also allow you to review the third party advertising companies' privacy policies."
 
-If you believe your child (age 12 or younger) has provided us with Personal Information and/or is receiving access to certain features or services, including marketing communications, we invite you to notify us via e-mail by [clicking here.](http://help-forms.wwe.com/contact_memserv.php) We will delete this Personal Information and/or discontinue your child’s access to the related features or services.
+If you believe your child (age 12 or younger) has provided us with Personal Information and/or is receiving access to certain features or services, including marketing communications, we invite you to notify us via e-mail by [clicking here.](https://secure.wwe.com/forms/help/memserv.php) We will delete this Personal Information and/or discontinue your child’s access to the related features or services.
 
 **Access/ Correct/ Update Personal Information**  
-If you would like to know what Personal Information WWE has concerning you, send an e-mail by [clicking here.](http://help-forms.wwe.com/contact_memserv.php)   
+If you would like to know what Personal Information WWE has concerning you, send an e-mail by [clicking here.](https://secure.wwe.com/forms/help/memserv.php)   
 We will contact you by mail to verify your identity and provide you the information you request.   
-If you would like to correct or update your Personal Information, including providing a new e-mail address, send an e-mail by [clicking here.](http://help-forms.wwe.com/contact_memserv.php) Please be sure to include your old e-mail address.
+If you would like to correct or update your Personal Information, including providing a new e-mail address, send an e-mail by [clicking here.](https://secure.wwe.com/forms/help/memserv.php) Please be sure to include your old e-mail address.
 
 **Changes in This Privacy Policy**  
 WWE reserves the right to change this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes here and we will change the “Last Updated” date at the top of this page. We encourage you to visit this area frequently to stay informed.
 
 **Contact Us**  
-If you have any comments or questions about this Privacy Policy, please send an e-mail by [clicking here.](http://help-forms.wwe.com/contact_memserv.php)
+If you have any comments or questions about this Privacy Policy, please send an e-mail by [clicking here.](https://secure.wwe.com/forms/help/memserv.php)
 
 You may also contact at us by postal mail or telephone at:
 
@@ -109,7 +109,7 @@ Stamford,
 CT 06902  
 (203) 352-8600
 
-Send an e-mail by [clicking here.](http://help-forms.wwe.com/contact_memserv.php)
+Send an e-mail by [clicking here.](https://secure.wwe.com/forms/help/memserv.php)
 
 **Complaints**  
 If you wish to lodge a complaint about any conduct that you believe is not consistent with the terms of this Privacy Policy, please contact:
@@ -120,4 +120,4 @@ Stamford,
 CT 06902  
 (203) 352-8600 
 
-Send an e-mail by [clicking here.](http://help-forms.wwe.com/contact_memserv.php)
+Send an e-mail by [clicking here.](https://secure.wwe.com/forms/help/memserv.php)
