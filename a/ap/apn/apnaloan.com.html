@@ -1,12 +1,13 @@
-<!--The following is the downloaded HTML source of the apnaloan.com privacy policy that was archived on 2007-05-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070501070732id_/http%3A//www.apnaloan.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the apnaloan.com privacy policy that was archived on 2007-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071231171905id_/http%3A//www.apnaloan.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 					<title>ApnaLoan: Privacy Policy</title>
-					<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+					<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 					<meta name="keywords" content="apnaloan, apna loan, apnaloan privacy policy">
 					<meta name="description" content="Apnaloan.com pioneered the concept of an online marketplace for loans and credit cards in India. We value privacy %u2013 read about our privacy policy here.">
 					<meta name="verify-v1" content="O9bkBX87BGSUt8zAWvomzoloxa3e1cqoRPLC63xvMsY=">
+
 					<link rel="stylesheet" href="http://www.apnaloan.com/site.css" type="text/css">
 					<script src="http://www.apnaloan.com/include/validation.js" type="text/javascript" language="javascript"></script>
 					<script src="http://www.apnaloan.com/include/general.js" type="text/javascript" language="javascript"></script>
@@ -17,22 +18,28 @@
 					<script src="http://www.apnaloan.com/include/custReg.js" type="text/javascript" language="javascript"></script>
 					<script src="http://www.apnaloan.com/include/newReg.js" type="text/javascript" language="javascript"></script>
 					<script src="http://www.apnaloan.com/include/dropdown.js" type="text/javascript" language="javascript"></script>
+					<script src="http://www.apnaloan.com/include/openAdd.js" type="text/javascript" language="javascript"></script>
 					<script type="text/javascript">
-					var content1 = "CONTACT US <br \> 022-2762-5626|CONTACT US <br \> 022-APNA-LOAN";
+					//var content1 = "CONTACT US <br \> 022-2762-5626|CONTACT US <br \> 022-APNA-LOAN";
+					var contactUS = "CONTACT US <br \>022-";
+					var content1 = "2762-5626|APNA-LOAN";
+					strChar = 'A,P,N,A,-,L,O,A,N';
+					strNumber = '2,7,6,2,-,5,6,2,6';
+										
+					var arrDisplay = new Array();
+					arrDisplay[0] = strChar.split(',');
+					arrDisplay[1] = strNumber.split(',');
 					</script>
 					</head>
 <body onload="checkCookie();">
-
-
-					
 		
-<div id="main"> 
+
+<div id="main">
 			<div id="contact-detail">
-			<script type="text/javascript">
-				
-				var delay = 50; //set delay between message change (in miliseconds)
+			<script type="text/javascript">				
+				var delay = 30; //set delay between message change (in miliseconds)
 				var maxsteps=30; // number of steps to take to change from start color to endcolor
-				var stepdelay=50; // time in miliseconds of a single step
+				var stepdelay=20; // time in miliseconds of a single step
 				//**Note: maxsteps*stepdelay will be total time in miliseconds of fading effect
 				var startcolor= new Array(255,255,255); // start color (red, green, blue)
 				//var endcolor=new Array(0,0,0); // end color (red, green, blue)	//commented by kunal
@@ -40,28 +47,32 @@
 				
 				content1 = content1.split('|');
 				begintag='<div class ="contact-detail">'; //set opening tag, such as font declarations
-				var fcontent=new Array();
-					for(i=0;i<content1.length;i++)	
+				var fcontent=new Array();				
+				var tempStr;
+					for(i=0;i<content1.length;i++)
 					{
-						//	alert(content1[i]);
-						fcontent[fcontent.length]=content1[i]
+						tempStr="";						
+						//fcontent[fcontent.length]=contactUS+content1[i];
+						for(j=0;j<content1[0].length;j++)
+						{							
+							tempStr+=arrDisplay[i][j];
+							fcontent[fcontent.length]=contactUS+tempStr+content1[i].substring(j+1,content1[i].length);
+							//alert(content1[i].substring(j,content1[i].length));
+						}
 					}
-				closetag='</div>';
-				
+				closetag='</div>';				
 								
 				var fwidth='242px'; //set scroller width
 				var fheight='61px'; //set scroller height
 				
 				var fadelinks=1;  //should links inside scroller content also fade like text? 0 for no, 1 for yes.
 				
-				///No need to edit below this line/////////////////
-				
+				///No need to edit below this line/////////////////				
 				
 				var ie4=document.all&&!document.getElementById;
 				var DOM2=document.getElementById;
 				var faderdelay=0;
-				var index=0;
-				
+				var index=0;			
 				
 				//function to change content
 				function changecontent(){
@@ -69,7 +80,7 @@
 				index=0
 				if (DOM2){
 				document.getElementById("fscroller").style.color="rgb("+startcolor[0]+", "+startcolor[1]+", "+startcolor[2]+")"
-				document.getElementById("fscroller").innerHTML=begintag+fcontent[index]+closetag
+				document.getElementById("fscroller").innerHTML=begintag+fcontent[index]+closetag				
 				if (fadelinks)
 				//linkcolorchange(1);		//commented by Kunal
 				colorfade(1, 15);
@@ -78,8 +89,7 @@
 				document.all.fscroller.innerHTML=begintag+fcontent[index]+closetag;
 				index++
 				}
-				
-				
+								
 				function linkcolorchange(step){
 				var obj=document.getElementById("fscroller").getElementsByTagName("A");
 				
@@ -87,23 +97,25 @@
 				for (i=0;i<obj.length;i++)
 				obj[i].style.color=getstepcolor(step);
 				}
-				}
-				
+				}				
 				
 				var fadecounter;
-				function colorfade(step) {
-					if(step<=maxsteps) {	
-				document.getElementById("fscroller").style.color=getstepcolor(step);
-				if (fadelinks)
-				linkcolorchange(step);
-				step++;
-				fadecounter=setTimeout("colorfade("+step+")",stepdelay);
-				}else{
-				clearTimeout(fadecounter);
-				document.getElementById("fscroller").style.color="rgb("+endcolor[0]+", "+endcolor[1]+", "+endcolor[2]+")";
-				setTimeout("changecontent()", delay);
-					
-				}   
+				function colorfade(step) 
+				{
+					if(step<=maxsteps) 
+					{	
+    				document.getElementById("fscroller").style.color=getstepcolor(step);
+    				if (fadelinks)
+      				linkcolorchange(step);
+      				step++;
+      				fadecounter=setTimeout("colorfade("+step+")",stepdelay);
+    			}
+    			else
+    			{
+    				clearTimeout(fadecounter);
+    				document.getElementById("fscroller").style.color="rgb("+endcolor[0]+", "+endcolor[1]+", "+endcolor[2]+")";
+    				setTimeout("changecontent()", delay);    					
+    			}
 				}
 				
 				function getstepcolor(step) {
@@ -122,7 +134,10 @@
 				}
 				
 				if (ie4||DOM2)
-				document.write('<div id="fscroller" style="width:'+fwidth+';height:'+fheight+'"></div>');
+				{ document.write('<div id="fscroller" style="width:'+fwidth+';height:'+fheight+'"></div>');
+				  document.write('<span id="span_id_1" style="width:20;height:20"></span>'+'<span id="span_id_2" style="width:20;height:20"></span>');
+				  document.write('<span id="span_id_3" style="width:20;height:20"></span>'+'<span id="span_id_4" style="width:20;height:20"></span>');
+				}
 				
 				if (window.addEventListener)
 				window.addEventListener("load", changecontent, false)
@@ -131,17 +146,15 @@
 				else if (document.getElementById)
 				window.onload=changecontent
 				
-				</script><div id="fscroller" style="width: 242px; height: 61px; color: rgb(255, 255, 255);"><div class="contact-detail">CONTACT US <br> 022-2762-5626</div></div>
+				</script><div id="fscroller" style="width: 242px; height: 61px; color: rgb(255, 255, 255);"><div class="contact-detail">CONTACT US <br>022-A762-5626</div></div><span id="span_id_1" style="width:20;height:20"></span><span id="span_id_2" style="width:20;height:20"></span><span id="span_id_3" style="width:20;height:20"></span><span id="span_id_4" style="width:20;height:20"></span>
 			</div>
-			
 			<div id="header"> 
-			
-			
-			<div id="banner-txt"></div>
+			<div id="banner-txt"> </div>
 			<a href="http://www.apnaloan.com/index.html"><img src="http://www.apnaloan.com/images/companylogo.jpg" alt="" width="133" height="33" border="0"></a> 
 			
 		<div id="globalnavigation"> 
-			<ul> 
+			<ul>
+			 
 			<li>
 			<div class="select-tab" id="home"> 
 			<div class="select-tab1" id="home1"> </div>
@@ -175,6 +188,15 @@
 			</div>
 			</li>
 			
+			<li>
+			<div class="active-tab" id="educationLoan"> 
+			<div class="active-tab1" id="educationLoan1"> </div>
+			<div class="active-tab2" id="educationLoan2"><a href="http://www.apnaloan.com/education-loan-india/index.html" class="black">Education Loan </a></div>
+			<div class="active-tab3" id="educationLoan3"> </div>
+			</div>
+			</li>
+
+			
 			<li><div class="active-tab" id="creditCard">
 			<div class="active-tab1" id="creditCard1"> </div>
 			<div class="active-tab2" id="creditCard2"><a href="http://www.apnaloan.com/credit-card-india/index.html" class="black">Credit Card</a></div>
@@ -183,20 +205,13 @@
 			</li>
 			
 			<!--<li>
-			<div class="@@active-tab" id="calculators"> 
-			<div class="@@active-tab1" id="calculators1"> </div>
-			<div class="@@active-tab2" id="calculators2"><a href="http://www.apnaloan.com/calculator-india/index.html"  class="black">Calculators</a></div>
-			<div class="@@active-tab3" id="calculators3"> </div>
+			<div class="active-tab" id="calculators"> 
+			<div class="active-tab1" id="calculators1"> </div>
+			<div class="active-tab2" id="calculators2"><a href="http://www.apnaloan.com/loan-advice-india/calculator.html"  class="black">Calculators</a></div>
+			<div class="active-tab3" id="calculators3"> </div>
 			</div>
 			</li>
-			
-			<li>
-			<div class="!!active-tab" id="askApnaloan"> 
-			<div class="!!active-tab1" id="askApnaloan1"> </div>
-			<div class="!!active-tab2" id="askApnaloan2"><a href="http://www.apnaloan.com/loan-advice-india/index.html" class="black">Ask Apnaloan</a></div>
-			<div class="!!active-tab3" id="askApnaloan3"></div>
-			</div>
-			</li>-->
+			-->
 			
 			<li>
 			<div class="active-tab" id="literature"> 
@@ -204,20 +219,22 @@
 			<div class="active-tab2" id="literature2"><a href="http://www.apnaloan.com/loan-advice-india/index.html" class="black">Loan Guru</a></div>
 			<div class="active-tab3" id="literature3"> </div>
 			</div>
-			</li>		
+			</li>
+			
 			</ul>
-			</div> 
+			</div>  
 			
 			<div style="visibility: hidden; position:absolute;" id="homeloanSubmenu"><table width="100" style="width:auto;" border="0" cellpadding="0" cellspacing="0">
 			<tbody><tr>
 			    <td>
-			    <ul class="tabs-submenu"> 
+			     <ul class="tabs-submenu"> 
 			    	<li> <a href="http://www.apnaloan.com/home-loan-india/rates.html" class="submenulink"><strong>Home Loan Rates</strong></a> </li>
 					<li> <a href="http://www.apnaloan.com/home-loan-india/primers.html" class="submenulink"><strong>Home Loan Primers</strong></a> </li>
 					<li> <a href="http://www.apnaloan.com/home-loan-india/articles.html" class="submenulink"><strong>Home Loan Articles</strong></a> </li>
 					<li> <a href="http://www.apnaloan.com/home-loan-india/news.html" class="submenulink"><strong>Home Loan News</strong></a> </li>
+					<li> <a href="http://www.apnaloan.com/home-loan-india/kyb.html" class="submenulink"><strong>Know Your Bank</strong></a> </li>
 				</ul><ul class="tabs-submenufooter"> 
-				<li> <a href="http://www.apnaloan.com"></a></li>
+				<li> <span>&nbsp;</span></li>
 				</ul>
 				</td>
 			</tr>
@@ -226,16 +243,17 @@
 			<script type="text/javascript">
 				at_attach("homeLoan2", "homeloanSubmenu", "hover", "y", "pointer");
 			</script> 
-			<div style="visibility: hidden; position:absolute;" id="personalLoanSubmenu"><table style="width:auto;" align="absmiddle" border="0" cellpadding="0" cellspacing="0">
+			<div style="visibility: hidden; position:absolute;" id="personalLoanSubmenu"><table width="100" style="width:auto;" border="0" cellpadding="0" cellspacing="0">
 			<tbody><tr>
 			    <td>
-			    <ul class="tabs-submenu"> 
+			      <ul class="tabs-submenu"> 
 			    	<li> <a href="http://www.apnaloan.com/personal-loan-india/rates.html" class="submenulink"><strong>Personal Loan Rates</strong></a> </li>
 					<li> <a href="http://www.apnaloan.com/personal-loan-india/primers.html" class="submenulink"><strong>Personal Loan Primers</strong></a> </li>
 					<li> <a href="http://www.apnaloan.com/personal-loan-india/articles.html" class="submenulink"><strong>Personal Loan Articles</strong></a> </li>					
 					<li> <a href="http://www.apnaloan.com/personal-loan-india/news.html" class="submenulink"><strong>Personal Loan News</strong></a> </li>
+					<li> <a href="http://www.apnaloan.com/personal-loan-india/kyb.html" class="submenulink"><strong>Know Your Bank</strong></a> </li>
 				</ul><ul class="tabs-submenufooter"> 
-				<li> <a href="http://www.apnaloan.com"></a></li>
+				<li><span>&nbsp;</span></li>
 				</ul>
 				</td>
 			</tr>
@@ -248,13 +266,14 @@
 			<div style="visibility: hidden; position:absolute;" id="carLoanSubmenu"><table style="width:auto;" align="absmiddle" border="0" cellpadding="0" cellspacing="0">
 			<tbody><tr>
 			    <td>
-			    <ul class="tabs-submenu"> 
+			     <ul class="tabs-submenu"> 
 					<li> <a href="http://www.apnaloan.com/car-loan-india/rates.html" class="submenulink"><strong>Car Loan Rates</strong></a> </li>	
 			    	<li> <a href="http://www.apnaloan.com/car-loan-india/primers.html" class="submenulink"><strong>Car Loan Primers</strong></a> </li>
 					<li> <a href="http://www.apnaloan.com/car-loan-india/articles.html" class="submenulink"><strong>Car Loan Articles</strong></a> </li>
 					<li> <a href="http://www.apnaloan.com/car-loan-india/news.html" class="submenulink"><strong>Car Loan News</strong></a> </li>
+					<li> <a href="http://www.apnaloan.com/car-loan-india/kyb.html" class="submenulink"><strong>Know Your Bank</strong></a> </li>
 				</ul><ul class="tabs-submenufooter"> 
-				<li> <a href="http://www.apnaloan.com"></a></li>
+				<li><span>&nbsp;</span></li>
 				</ul>
 				</td>
 			</tr>
@@ -263,17 +282,37 @@
 			<script type="text/javascript">
 				at_attach("carLoan2", "carLoanSubmenu", "hover", "y", "pointer");
 			</script> 
-			
-			<div style="visibility: hidden; position:absolute;" id="creditCardSubmenu"><table style="width:auto;" align="absmiddle" border="0" cellpadding="0" cellspacing="0">
+			<div style="visibility: hidden; position:absolute;" id="educationLoanSubmenu"><table style="width:auto;" align="absmiddle" border="0" cellpadding="0" cellspacing="0">
 			<tbody><tr>
 			    <td>
-			    <ul class="tabs-submenu"> 
+			     <ul class="tabs-submenu"> 
+					<li> <a href="http://www.apnaloan.com/education-loan-india/rates.html" class="submenulink"><strong>Education Loan Rates</strong></a> </li>	
+			    	<li> <a href="http://www.apnaloan.com/education-loan-india/primers.html" class="submenulink"><strong>Education Loan Primers</strong></a> </li>
+					<li> <a href="http://www.apnaloan.com/education-loan-india/articles.html" class="submenulink"><strong>Education Loan Articles</strong></a> </li>
+					<li> <a href="http://www.apnaloan.com/education-loan-india/news.html" class="submenulink"><strong>Education Loan News</strong></a> </li>
+					<li> <a href="http://www.apnaloan.com/education-loan-india/kyb.html" class="submenulink"><strong>Know Your Bank</strong></a> </li>
+				</ul><ul class="tabs-submenufooter"> 
+				<li> <span>&nbsp;</span></li>
+				</ul>
+				</td>
+			</tr>
+			</tbody></table>
+			</div>
+			<script type="text/javascript">
+				at_attach("educationLoan2", "educationLoanSubmenu", "hover", "y", "pointer");
+			</script> 
+			
+			<div style="visibility: hidden; position:absolute;" id="creditCardSubmenu"><table width="100" style="width:auto;" border="0" cellpadding="0" cellspacing="0">
+			<tbody><tr>
+			    <td>
+			 <ul class="tabs-submenu"> 
 					<li> <a href="http://www.apnaloan.com/credit-card-india/comparators.html" class="submenulink"><strong>Credit Card Comparators</strong></a> </li>
 			    	<li> <a href="http://www.apnaloan.com/credit-card-india/primers.html" class="submenulink"><strong>Credit Card Primers</strong></a> </li>
 					<li> <a href="http://www.apnaloan.com/credit-card-india/articles.html" class="submenulink"><strong>Credit Card Articles</strong></a> </li>
 					<li> <a href="http://www.apnaloan.com/credit-card-india/news.html" class="submenulink"><strong>Credit Card News</strong></a> </li>
+					<li> <a href="http://www.apnaloan.com/credit-card-india/kyb.html" class="submenulink"><strong>Know Your Bank</strong></a> </li>
 				</ul><ul class="tabs-submenufooter"> 
-				<li> <a href="http://www.apnaloan.com"></a></li>
+				<li><span>&nbsp;</span></li>
 				</ul>
 				</td>
 			</tr>
@@ -283,15 +322,17 @@
 				at_attach("creditCard2", "creditCardSubmenu", "hover", "y", "pointer");
 			</script> 
 			
-			<div style="visibility: hidden; position:absolute;" id="literatureSubmenu"><table style="width:auto;" align="absmiddle" border="0" cellpadding="0" cellspacing="0">
+			
+			<div style="visibility: hidden; position:absolute;" id="literatureSubmenu"><table width="100" style="width:auto;" border="0" cellpadding="0" cellspacing="0">
 			<tbody><tr>
 			    <td>
 			   <ul class="tabs-submenu"> 
 					<li> <a href="http://www.apnaloan.com/loan-advice-india/queryIndex.html" class="submenulink"><strong>Ask Apnaloan</strong></a> </li>
 					<li> <a href="http://www.apnaloan.com/loan-advice-india/calculator.html" class="submenulink"><strong>Calculators</strong></a> </li>
 					<li> <a href="http://www.apnaloan.com/loan-advice-india/taxtips.html" class="submenulink"><strong>Apnaloan Tax Tips</strong></a> </li>
+					<li> <a href="http://www.apnaloan.com/know-your-bank/index.html" class="submenulink"><strong>Know Your Bank</strong></a> </li>
 				</ul><ul class="tabs-submenufooter"> 
-				<li> <a href="http://www.apnaloan.com"></a></li>
+				<li><span>&nbsp;</span></li>
 				</ul>
 				</td>
 			</tr>
@@ -301,9 +342,8 @@
 				at_attach("literature2", "literatureSubmenu", "hover", "y", "pointer");
 			</script> 
 			<!--globalnavigation id-->
-			<div id="breadcrub"></div>
-			
-			<!--<form method="get" action="http://www.mlep.com/~uploads/apnaloan/searchResult.php" target="_top">
+			<!--<div id='breadcrub'></div>
+				<form method="get" action="http://www.mlep.com/~uploads/apnaloan/searchResult.php" target="_top">
 				<table align="right" border="0" cellpadding="0" cellspacing="0">
 				<tr><td style="background:http://www.apnaloan.comffffff;" nowrap="nowrap" valign="top" height="10">
 				Search &nbsp; 
@@ -320,16 +360,16 @@
 				<input type="hidden" name="hl" value="en"></input>
 				</td></tr></table>
 				</form>-->
-			
+				<!-- SiteSearch Google -->
+				<!-- Google Search Result Snippet Begins -->
+				<!-- Google Search Result Snippet Ends -->		
+				
+			<div style="float:right;">
 	 		
-	 		
-	 		<div>
-	 		
-	 		<table width="33%" border="0" align="right">
-				  <tbody><tr> 
+	 		<!-- <table width="33%" border="0" align="right">
+				  <tr> 
 				   <td align="right">
-				      <!--<a href="http://www.apnaloan.com" class="marqueeText"><marquee style="font-family:verdana; font-size:10pt;" direction="left" behavior="scroll"
-				scrollamount="5" ></marquee></a>-->
+				     
 				      <script language="JavaScript1.2">
 			//Neon Lights Text II by G.P.F. (gpf@beta-cc.de)
 			//visit http://www.beta-cc.de
@@ -370,19 +410,23 @@
 					crossref(m).style.color=neonbasecolor;
 				}
 				//cycle through and change individual letters to neon color
-				crossref(n).style.color=neontextcolor;
-
-				if (n>flashingletters-1) crossref(n-flashingletters).style.color=neontextcolor2 ;
-				if (n>(flashingletters+flashingletters2)-1) crossref(n-flashingletters-flashingletters2).style.color=neonbasecolor;
-
-				if (n<message.length-1)
-				n++;
-				else
+				
+				if(message!='')
 				{
-					n=0
-					clearInterval(flashing);
-					setTimeout("beginneon()",flashpause);
-					return;
+					crossref(n).style.color=neontextcolor;
+	
+					if (n>flashingletters-1) crossref(n-flashingletters).style.color=neontextcolor2 ;
+					if (n>(flashingletters+flashingletters2)-1) crossref(n-flashingletters-flashingletters2).style.color=neonbasecolor;
+	
+					if (n<message.length-1)
+					n++;
+					else
+					{
+						n=0
+						clearInterval(flashing);
+						setTimeout("beginneon()",flashpause);
+						return;
+					}
 				}
 			}
 
@@ -392,22 +436,46 @@
 				flashing=setInterval("neon()",flashspeed);
 			}
 			beginneon();
-			</script><a href="" class="marqueeText"><strong><font color="white"></font></strong></a>
+			</script>
 				    </td>
 				   </tr>
-			</tbody></table>
-					 		
-	 		
-	 		
-				 <!--<marquee width:100px style="background-color:red;border-width:1px;
+				   
+				   
+			</table> -->
+		 <!--<marquee width:100px style="background-color:red;border-width:1px;
 border-style:dotted; font-family:verdana; font-size:10pt; text-color:blue;" direction="left" behavior="scroll" scrollamount="5" ></marquee>
 
--->	 		
-	 		
-	 		
-	 		</div>
-	 		</div> <!--header id-->
-	 		
+-->	  		
+		 
+<!-- Google CSE Search Box Begins -->
+<table width="778px" height="40px" cellspacing="0" border="0" cellpadding="0" bgcolor="white">
+  <tbody>
+    <tr>
+      <td>
+        <img src="http://www.apnaloan.com/images/headerCorner.jpg" align="top" border="0">
+      </td>
+      <td align="center">        
+        <form name="google_custom_search" id="searchbox_008905690630799900918:koclgnxzh9a" action="http://www.apnaloan.com/search_result.html" onsubmit="javascript:if(document.getElementById(&quot;my_input_search_box&quot;).value == &quot;&quot; ){alert(&quot;Please enter search parameter&quot;); return false;}">
+          <input type="hidden" name="cx" value="008905690630799900918:koclgnxzh9a">
+          <input type="hidden" name="cof" value="FORID:11">
+          <input id="my_input_search_box" name="q" type="text" size="40">
+          <input type="submit" name="sa" value="Search Apnaloan">
+          <!--<img align="absmiddle" src="http://www.google.com/coop/images/google_custom_search_smnar.gif" alt="Google Custom Search" />-->
+        </form>
+        <script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=searchbox_008905690630799900918%3Akoclgnxzh9a"></script>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<!-- Google CSE Search Box Ends -->
+
+
+	 		</div>	
+     		</div> <!--header id-->
+     		
+     		
+     		
+			
 			
 			
 			<div id="middle">
@@ -416,23 +484,24 @@ border-style:dotted; font-family:verdana; font-size:10pt; text-color:blue;" dire
 				<div class="leftad-column"> 
 				<div class="leftad-column1"> </div>
 				<div class="leftad-column2"> 
-				<img src="http://www.apnaloan.com/images/ad-banner.jpg" width="111" height="520" alt="">				</div>
+				<!--<img src='http://www.apnaloan.com/images/ad-banner.jpg' width='111' height='520' alt='' /> -->
+				</div>
 				<div class="leftad-column3"> </div>
 				</div><div class="leftad1-column"> 
 				<div class="leftad1-column1"> </div>
 				<div class="leftad1-column2"> 
-						<!-- text ot add here--> </div>
-				<div class="leftad1-column3"> </div>
+						<!-- text ot add here-->
+				<span id="sp_text_add"></span>
 				</div>
-				
-				 </div>
+				<div class="leftad1-column3"> </div>
+	</div></div>
 				
 				<div id="center-column">
 				<div class="news-column"> 
 				<div class="news-column1"> 
 				<div class="mainheading">Privacy Policy</div> 
 				</div>
-				<div class="news-column2">  Apnaloan.com Services Private Limited respects your privacy. 
+				<div class="news-column2"> <div id="middle-content-for-footer-pages">Apnaloan.com Services Private Limited respects your privacy. 
 			This Privacy Policy gives you details about our data collection methods and usage. 
 			You are advised to please read the Privacy Policy carefully. By accessing the services 
 			provided by apnaloan.com you agree to the collection and use of your data by 
@@ -441,72 +510,76 @@ border-style:dotted; font-family:verdana; font-size:10pt; text-color:blue;" dire
 			We will automatically receive and collect certain anonymous information in standard 
 			usage logs through our Web server, including computer-identification information 
 			obtained from "cookies," sent to your browser from a 
-			<ul>
-				<li>web server cookie stored on your hard drive</li> 
-				<li>an IP address, assigned to the computer which you use</li> 
-				<li>the domain server through which you access our service</li> 
-				<li>the type of computer you use</li> 
-				<li>the type of web browser you use</li>
-			</ul> 
+			<ul><li>web server cookie stored on your hard drive</li><li>an IP address, assigned to the computer which you use</li><li>the domain server through which you access our service</li><li>the type of computer you use</li><li>the type of web browser you use</li></ul> 
 			Data which we collect from you
-			<ul>
-				<li>name including first and last name</li> 
-				<li>email address</li> 
-				<li>mobile phone number and contact details</li>
-				<li>ZIP/Postal code</li> 
-				<li>demographic profile (like your age, gender, occupation, address)</li> 
-				<li>preferences (such as housing loan, personal loan, credit card, car loan);</li> 
-				<li>financial information (like salary).</li>
-			</ul>
+			<ul><li>name including first and last name</li><li>email address</li><li>mobile phone number and contact details</li><li>ZIP/Postal code</li><li>demographic profile (like your age, gender, occupation, address)</li><li>preferences (such as housing loan, personal loan, credit card, car loan);</li><li>financial information (like salary).</li></ul>
 			While you can terminate your account at any time, your information may remain stored
 			in archive on our servers even after the deletion or the termination of your account.<br><br>
 			<strong class="black-smallheading">Why we collect the information?</strong><br>
 			We use your personal information to: 
-			<ul>
-				<li>to get in touch with you when necessary</li> 
-				<li>to provide the services requested by you</li> 
-				<li>to preserve social history as governed by existing law or policy</li> 
-			</ul>
+			<ul><li>to get in touch with you when necessary</li><li>to provide the services requested by you</li><li>to preserve social history as governed by existing law or policy</li></ul>
 			We use contact information internally to: 
-			<ul>
-				<li>direct our efforts for product improvement</li> 
-				<li>contact you as a survey respondent</li>
-				<li>send you promotional materials from our contest sponsors or advertisers</li>
-			</ul>
+			<ul><li>direct our efforts for product improvement</li><li>contact you as a survey respondent</li><li>send you promotional materials from our contest sponsors or advertisers</li></ul>
 			The Site contains links to other Web sites. We are not responsible for the privacy 
 			practices of such Web sites which we do not own, manage or control.<br><br>
 			<strong class="black-smallheading">The information is shared with</strong><br>
-			We will not use your financial information for any purpose other than to complete a transaction with you. By giving us the information you are giving us permission to 
-			<ul>
-				<li>to provide products or services you've requested</li> 
-				<li>to help investigate, prevent or take action regarding unlawful and illegal activities, 
-				suspected fraud, potential threat to the safety or security of any person, violations of 
-				apnaloan.com's  terms of use or to defend against legal claims;</li> 
-				<li>special circumstances such as compliance with subpoenas, court orders, requests/order 
-				from legal authorities or law enforcement agencies requiring such disclosure.</li> 
-			</ul>
-			<strong class="black-smallheading">To correct inaccuracies in the information you can</strong> 
+We will not use or rent your financial information for any purpose
+other than to complete a transaction with you. By giving us the
+information you are giving us permission:<br\><br\>
+			</br\></br\><ul><li>to provide products or services you've requested</li><li>to help investigate violations of apnaloan.com's terms of use or to defend against legal claims;</li><li>to
+disclose the information under special circumstances such as compliance
+with applicable local law, court summons, court orders, requests/order
+from legal authorities or law enforcement agencies requiring such
+disclosure. </li></ul>
 			
-			<ul>
-				<li>Send an e-mail to service@apnaloan.com</li> 
-				<li>Call the following telephone number: +91 (22) 24172427</li>
-			</ul></div>
+			We will send information about you to other companies or people when:<br><br>
+			<ul><li>We need to share your information to provide the product or service you have requested to enable them to contact you; or</li><li> We have your consent from you to share the information;</li></ul>
+We need to share your information with certain service partners in
+order to respond to your queries / comments or to resolve service
+issues and to serve you better.<br><br>
+			<strong class="black-smallheading">Security</strong><br>
+			<ul><li>Your account information is password-protected for your privacy and security</li></ul> 
+			<strong class="black-smallheading">Changes to this Privacy Policy</strong><br>
+			<ul><li>We
+may amend this policy from time to time. If we make any substantial
+changes in the way we use your information we will notify you by
+posting a prominent announcement on our web pages.</li></ul>
+			<strong class="black-smallheading">To correct inaccuracies in the information you can </strong><br>
+			<ul><li>Send an e-mail to service@apnaloan.com </li><li>Call the following telephone number:  91 (22) 24172427</li></ul></div></div>
 				<div class="news-column3"> </div>
-				</div>	<div class="footer-ad" align="center"> <img src="http://www.apnaloan.com/images/footer-ad.gif" width="469" height="61" alt=""> </div>
+				</div>	<div class="footer-ad" align="center"> 
+				<!--<img src='http://www.apnaloan.com/images/footer-ad.gif' width='469' height='61' alt=''/> -->
+				</div>
 				</div><div class="right-column"> 
 				<div class="qa-column"> 
 				<!--<div class='qa-column1'> <div class='mainheading'>QUICK APPLY </div></div>-->
 				<div class="qa-column2"><div class="right_column_header1"><span class="mainheading">QUICK APPLY</span></div>
 			<div id="divQuickApply" style="display:block;"><span id="QR-column-header"></span>			
 			<table width="100%" border="0" align="center" cellpadding="3" cellspacing="2">
-            <tbody><tr><form name="formRegistration" id="formRegistration" method="POST" action="http://www.apnaloan.com/registration.php"></form>
-            <td><span id="nri">&nbsp;</span></td></tr><tr><td><span id="combofill"><select name="PRODUCT_ID" id="PRODUCT_ID" onchange="fillSubProduct(this);" style="width:140px;">
-			 <option value="0"> ---Select Product--- </option><option value="4">Car Loan</option><option value="3">Credit Card</option><option value="1">Home Loan</option><option value="2">Personal Loan</option></select></span></td></tr><tr><td><input id="CUST_NAME" name="CUST_NAME" type="text" onfocus="onFocusBlank(this,'Full Name');" onblur="onBlurDefault(this,'Full Name');" value="Full Name" maxlength="150" size="18">
+            <tbody><tr><td id="tdNRIsApply" style="display:block;"></td></tr>
+			<tr><form name="formRegistration" id="formRegistration" method="POST" action="http://www.apnaloan.com/registration.php"></form>
+            <td><span id="nri">&nbsp;</span></td></tr><tr>       
+		        
+				<td>
+				<span id="checkResident1">
+		        <input type="radio" name="IS_NRI_YN1" value="N" id="IS_NRI_N" style="border:0" onclick="getQuickForm();return false;" checked="">Indian</span>
+				<span id="checkResident2">
+		        	<input type="radio" name="IS_NRI_YN1" value="Y" id="IS_NRI_Y" style="border:0" onclick="getNRIForm();return false;">NRI
+				</span>
+		         </td>
+		    </tr><tr><td><span id="combofill"><select name="PRODUCT_ID" id="PRODUCT_ID" onchange="fillSubProduct(this.value);" style="width:140px;">
+			 <option value="0"> ---Select Product--- </option><option value="4">Car Loan</option><option value="3">Credit Card</option><option value="1">Home Loan</option><option value="2">Personal Loan</option></select></span></td></tr><tr><td id="Cities"><select id="CITY_ID" name="CITY_ID" style="width:140px;" onchange="cityGetother(document.getElementById('CITY_ID'),document.getElementById('TBL_OTHER_CITY_NAME'));">
+						<option value="0">Select a City</option>
+						<option value="0" style="color: White; background-color: SlateGray; font-weight: bold;">Metros</option><option value="9">Bangalore</option><option value="20">Chennai</option><option value="27">Faridabad</option><option value="28">Ghaziabad</option><option value="32">Gurgaon</option><option value="36">Howrah</option><option value="38">Hyderabad</option><option value="49">Kolkata</option><option value="57">Mumbai</option><option value="61">Navi Mumbai</option><option value="63">New Delhi</option><option value="89">Noida</option><option value="70">Pune</option><option value="76">Secunderabad</option><option value="79">Thane</option><option value="0" style="color: White; background-color: SlateGray; font-weight: bold;">Other Cities</option><option value="92">Agra</option><option value="1">Ahmedabad</option><option value="93">Ajmer</option><option value="2">Akola</option><option value="3">Allahabad</option><option value="140">Alleppey</option><option value="4">Alwar</option><option value="94">Ambala</option><option value="141">Amravati</option><option value="5">Amritsar</option><option value="6">Anand</option><option value="112">Anantapur</option><option value="7">Ankleshwar</option><option value="8">Aurangabad</option><option value="9">Bangalore</option><option value="142">Bardoli</option><option value="10">Bareilly</option><option value="11">Baroda</option><option value="12">Belgaum</option><option value="113">Bellary</option><option value="13">Bharuch</option><option value="91">Bhatinda</option><option value="143">Bhavnagar</option><option value="17">Bhilwara</option><option value="144">Bhiwandi</option><option value="14">Bhopal</option><option value="15">Bhubaneshwar</option><option value="145">Bhuj</option><option value="16">Bikaner</option><option value="146">Boisar</option><option value="18">Calicut</option><option value="19">Chandigarh</option><option value="147">Changanacherry</option><option value="20">Chennai</option><option value="96">Chidambaram</option><option value="21">Cochin</option><option value="22">Coimbatore</option><option value="148">Cuddalore</option><option value="23">Cuttack</option><option value="149">Dahanu</option><option value="150">Dahej</option><option value="151">Daman</option><option value="152">Davangere</option><option value="105">Dehradun</option><option value="24">Delhi</option><option value="25">Dewas</option><option value="95">Dhanbad</option><option value="97">Dharwad</option><option value="26">Dhule</option><option value="153">Durgapur</option><option value="98">Eluru</option><option value="106">Ernakulam</option><option value="99">Erode</option><option value="27">Faridabad</option><option value="154">Gandhidham</option><option value="107">Gangtok</option><option value="28">Ghaziabad</option><option value="29">Goa</option><option value="30">Gulbarga</option><option value="31">Guntur</option><option value="32">Gurgaon</option><option value="114">Guwahati</option><option value="33">Gwalior</option><option value="108">Haldwani</option><option value="155">Haridwar</option><option value="129">Hassan</option><option value="34">Himmatnagar</option><option value="109">Hissar</option><option value="156">Hoshiarpur</option><option value="157">Hospet</option><option value="35">Hosur</option><option value="36">Howrah</option><option value="37">Hubli</option><option value="38">Hyderabad</option><option value="39">Indore</option><option value="40">Jabalpur</option><option value="41">Jaipur</option><option value="131">Jalgaon</option><option value="42">Jamnagar</option><option value="43">Jamshedpur</option><option value="44">Jodhpur</option><option value="45">Jullunder</option><option value="46">Junagadh</option><option value="110">Kakinada</option><option value="158">Kalka</option><option value="159">Kalyan</option><option value="160">Kancheepuran</option><option value="100">Kankroli</option><option value="161">Kannur</option><option value="47">Kanpur</option><option value="132">Kanyakumari</option><option value="162">Kapurthala</option><option value="163">Karad</option><option value="164">Karaikudi</option><option value="111">Karnal</option><option value="165">Karur</option><option value="166">Khanna</option><option value="48">Kolhapur</option><option value="49">Kolkata</option><option value="167">Kollam</option><option value="50">Kota</option><option value="90">Kottayam</option><option value="168">Kovilatti</option><option value="115">Kozhikode</option><option value="169">Kumbakonam</option><option value="116">Kurnool</option><option value="170">Kurukshetra</option><option value="136">Lathur</option><option value="51">Lucknow</option><option value="52">Ludhiana</option><option value="53">Madurai</option><option value="54">Mahad</option><option value="55">Mangalore</option><option value="139">Mangan</option><option value="101">Manipal</option><option value="171">Manjeri</option><option value="130">Mansarovar</option><option value="172">Mapusa</option><option value="173">Meerut</option><option value="56">Mehsana</option><option value="174">Moga</option><option value="137">Mohali</option><option value="175">Morvi</option><option value="57">Mumbai</option><option value="58">Mysore</option><option value="176">Nabha</option><option value="177">Nadiad</option><option value="117">Nagercoil</option><option value="59">Nagpur</option><option value="60">Nashik</option><option value="61">Navi Mumbai</option><option value="178">Navsari</option><option value="62">Nellore</option><option value="63">New Delhi</option><option value="89">Noida</option><option value="other">Other City</option><option value="179">Palakkad</option><option value="138">Panchkulla</option><option value="180">Panipat</option><option value="181">Panjim</option><option value="64">Panvel</option><option value="182">Patalganga</option><option value="183">Pathanamthitta</option><option value="65">Patiala</option><option value="66">Patna</option><option value="67">Pen</option><option value="184">Phagwara</option><option value="68">Pithampur</option><option value="185">Pollachi</option><option value="186">Ponda</option><option value="102">Pondichery</option><option value="69">Porbunder</option><option value="187">Porvorim</option><option value="188">Pudukottai</option><option value="70">Pune</option><option value="71">Raipur</option><option value="72">Rajkot</option><option value="73">Rajmundry</option><option value="189">Rajpura</option><option value="74">Ranchi</option><option value="75">Ratlam</option><option value="133">Ratnagiri</option><option value="190">Rewari</option><option value="191">Ropar</option><option value="118">Rourkela</option><option value="192">Rudrapur</option><option value="103">Salem</option><option value="134">Sangli</option><option value="193">Sangrur</option><option value="135">Satara</option><option value="76">Secunderabad</option><option value="119">Shimla</option><option value="120">Silchar</option><option value="121">Siliguri</option><option value="77">Silvassa</option><option value="194">Sivakasi</option><option value="195">Sohana</option><option value="196">Solapur</option><option value="197">Sonepat</option><option value="78">Surat</option><option value="122">Tanjore</option><option value="79">Thane</option><option value="198">Thanjavur</option><option value="123">Thiruvananthapuram</option><option value="124">Thrissur</option><option value="125">Tirunelveli</option><option value="126">Tirupathi</option><option value="199">Tiruvalla</option><option value="104">Trichur</option><option value="80">Trichy</option><option value="81">Trivandrum</option><option value="200">Tumkur</option><option value="82">Udaipur</option><option value="201">Udupi</option><option value="83">Ujjain</option><option value="202">Unjha</option><option value="84">Valsad</option><option value="85">Vapi</option><option value="86">Varanasi</option><option value="127">Vellore</option><option value="203">Veraval</option><option value="87">Vijayawada</option><option value="204">Villupuram</option><option value="205">Virudhachalam</option><option value="206">Virudhunagar</option><option value="88">Vizag</option><option value="128">Warangal</option><option value="207">Zirakpur</option><option value="other">Other City</option></select></td></tr>
+			<tr><td width="100%" id="TBL_OTHER_CITY_NAME" style="display:none;">
+					<input type="text" value="" id="OTHER_CITY_NAME" name="OTHER_CITY_NAME" size="20" maxlength="50">
+					<br>Name of other city</td>
+		</tr><tr><td><input id="CUST_NAME" name="CUST_NAME" type="text" onfocus="onFocusBlank(this,'Full Name');" onblur="onBlurDefault(this,'Full Name');" value="Full Name" maxlength="150" size="18">
 							<input type="hidden" id="CUST_ID" name="CUST_ID" value="0">
 		   					<input type="hidden" id="LEAD_ID" name="LEAD_ID" value="0">
 		   					<input type="hidden" id="SITE_HOME_URL" name="SITE_HOME_URL" value="http://www.apnaloan.com">
 		   					<input type="hidden" id="FLAG_ACTIVATION" name="FLAG_ACTIVATION" value="0">
-		   					<input type="hidden" id="ACTION_TAKEN" name="ACTION_TAKEN" value="Added">
+		   					<input type="hidden" id="ACTION_TAKEN" name="ACTION_TAKEN" value="ADDED">
 		   					<input type="hidden" id="CASE_ID" name="CASE_ID" value="0">
 		   					<input type="hidden" id="hdnHomeLoanProdId" value="1">
 							<input type="hidden" id="hdnCarLoanProdId" value="4">
@@ -514,13 +587,13 @@ border-style:dotted; font-family:verdana; font-size:10pt; text-color:blue;" dire
 							<input type="hidden" id="hdnCreditCard" value="Credit Card">
 							<input type="hidden" id="IS_NRI_YN" name="IS_NRI_YN" value="N">
 							<input type="hidden" id="CHK_AJAX_LEAD_RESPONSE" name="CHK_AJAX_LEAD_RESPONSE" value="Y"></td></tr>
-                    <tr><td><input name="COUNTRY_CODE" id="COUNTRY_CODE" type="text" value="91" maxlength="3" size="2" readonly="">&nbsp;<input name="TEL_MOBILE" id="TEL_MOBILE" type="text" value="Mobile No" onfocus="onFocusBlank(this,'Mobile No');" onblur="onBlurDefault(this,'Mobile No',1);" maxlength="20" size="12">
+                    <tr><td><input name="COUNTRY_CODE" id="COUNTRY_CODE" type="text" value="91" maxlength="6" size="2" readonly="">&nbsp;<input name="TEL_MOBILE" id="TEL_MOBILE" type="text" value="Mobile No" onfocus="onFocusBlank(this,'Mobile No');" onblur="onBlurDefault(this,'Mobile No',1);" maxlength="20" size="12">
                     	<br>Country&nbsp;&nbsp;&nbsp;&nbsp;Mobile No</td></tr>
                     <tr>
-                     <td><input name="OFF_LAND_LINE_AREACODE" id="OFF_LAND_LINE_AREACODE" type="text" value="" maxlength="6" size="2">&nbsp;<input name="TEL_OFF" id="TEL_OFF" type="text" value="" maxlength="10" size="9">&nbsp;<input name="OFF_LAND_LINE_EXT" id="OFF_LAND_LINE_EXT" type="text" value="" maxlength="5" size="2"><br>&nbsp;<span id="phoneLabel">STD&nbsp;&nbsp;&nbsp;&nbsp;Phone No&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ext</span></td>
+                     <td><input name="OFF_LAND_LINE_AREACODE" id="OFF_LAND_LINE_AREACODE" type="text" value="" maxlength="6" size="2">&nbsp;<input name="TEL_OFF" id="TEL_OFF" type="text" value="" onblur="insertIntoDB('CUST_ID,LEAD_ID,COUNTRY_CODE,OFF_LAND_LINE_AREACODE,TEL_OFF','');" maxlength="10" size="9">&nbsp;<input name="OFF_LAND_LINE_EXT" id="OFF_LAND_LINE_EXT" type="text" value="" maxlength="5" size="2"><br>&nbsp;<span id="phoneLabel">STD&nbsp;&nbsp;&nbsp;&nbsp;Phone No&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ext</span></td>
                     </tr>  
                     <tr> 
-                      <td><input name="EMAIL" id="EMAIL" type="text" value="Email" onfocus="onFocusBlank(this,'Email');" onblur="onBlurDefault(this,'Email');" maxlength="100" size="18"></td>
+                      <td><input name="EMAIL" id="EMAIL" type="text" value="Email" onfocus="onFocusBlank(this,'Email');" onblur="onBlurDefault(this,'Email');onBlurEventHandler('CUST_ID,LEAD_ID,CITY_ID,PRODUCT_ID,CUST_NAME,COUNTRY_CODE,TEL_MOBILE,ACTION_TAKEN,EMAIL,IS_NRI_YN,OTHER_CITY_NAME','YES');" maxlength="100" size="18"></td>
                     </tr>                    
                 <tr>
             	<td><select id="SUB_PRODUCT_ID" name="SUB_PRODUCT_ID" style="width:140px;" onchange="onBlurEventHandler('CUST_ID,LEAD_ID,COUNTRY_CODE,TEL_MOBILE,EMAIL,IS_NRI_YN,SUB_PRODUCT_ID','');">
@@ -529,27 +602,20 @@ border-style:dotted; font-family:verdana; font-size:10pt; text-color:blue;" dire
 			<tr>
 				<td><span id="HIDE_FOR_CREDIT_CARD" style="display:block;"><input type="text" id="LOAN_AMT" name="LOAN_AMT" value="Desired Loan Amount" onfocus="onFocusBlank(this,'Desired Loan Amount');" onblur="onBlurDefault(this,'Desired Loan Amount');getDigitToWords('LOAN_AMT','formatedloanAmount','wordloanAmount');insertIntoDB('CUST_ID,LEAD_ID,LOAN_AMT','');" maxlength="25" size="20"><span id="formatedloanAmount" style="display:none;"></span><span id="wordloanAmount" style="display:none;text-transform: capitalize;"></span></span></td>
 			</tr>
-    		<tr><td><input type="text" id="INCOME" name="INCOME" value="Monthly Income" onfocus="onFocusBlank(this,'Monthly Income');" onblur="onBlurDefault(this,'Monthly Income');getDigitToWords('INCOME','formatedMonthlyIncome','wordMonthlyIncome');" maxlength="25" size="20">
+    		<tr><td><input type="text" id="INCOME" name="INCOME" value="Monthly Income" onfocus="onFocusBlank(this,'Monthly Income');" onblur="onBlurDefault(this,'Monthly Income');getDigitToWords('INCOME','formatedMonthlyIncome','wordMonthlyIncome');getAnnualIncome('INCOME','formatedAnnaulIncome','wordAnnaulIncome','lableAnnaulIncome');" maxlength="25" size="20">
     				<span id="formatedMonthlyIncome" style="display:none;"></span>
 					<span id="wordMonthlyIncome" style="display:none;text-transform: capitalize;"></span>
+					<br><span id="lableAnnaulIncome" style="display:none;">Annual Income:</span><span id="formatedAnnaulIncome" style="display:none;"></span><span id="wordAnnaulIncome" style="display:none;text-transform: capitalize;"></span>
 				</td>
 			</tr>			
 			<tr><td><select id="DOB_DAY" name="DOB_DAY" style="width:45px;"><option value="">Day</option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option><option value="18">18</option><option value="19">19</option><option value="20">20</option><option value="21">21</option><option value="22">22</option><option value="23">23</option><option value="24">24</option><option value="25">25</option><option value="26">26</option><option value="27">27</option><option value="28">28</option><option value="29">29</option><option value="30">30</option><option value="31">31</option></select>&nbsp;<select id="DOB_MONTH" name="DOB_MONTH" style="width:47px;"><option value="">Mon</option><option value="1">Jan</option><option value="2">Feb</option><option value="3">Mar</option><option value="4">Apr</option><option value="5">May</option><option value="6">Jun</option><option value="7">Jul</option><option value="8">Aug</option><option value="9">Sep</option><option value="10">Oct</option><option value="11">Nov</option><option value="12">Dec</option></select>&nbsp;<select id="DOB_YEAR" name="DOB_YEAR" style="width:50px;"><option value="">Year</option><option value="2007">2007</option><option value="2006">2006</option><option value="2005">2005</option><option value="2004">2004</option><option value="2003">2003</option><option value="2002">2002</option><option value="2001">2001</option><option value="2000">2000</option><option value="1999">1999</option><option value="1998">1998</option><option value="1997">1997</option><option value="1996">1996</option><option value="1995">1995</option><option value="1994">1994</option><option value="1993">1993</option><option value="1992">1992</option><option value="1991">1991</option><option value="1990">1990</option><option value="1989">1989</option><option value="1988">1988</option><option value="1987">1987</option><option value="1986">1986</option><option value="1985">1985</option><option value="1984">1984</option><option value="1983">1983</option><option value="1982">1982</option><option value="1981">1981</option><option value="1980">1980</option><option value="1979">1979</option><option value="1978">1978</option><option value="1977">1977</option><option value="1976">1976</option><option value="1975">1975</option><option value="1974">1974</option><option value="1973">1973</option><option value="1972">1972</option><option value="1971">1971</option><option value="1970" selected="">1970</option><option value="1969">1969</option><option value="1968">1968</option><option value="1967">1967</option><option value="1966">1966</option><option value="1965">1965</option><option value="1964">1964</option><option value="1963">1963</option><option value="1962">1962</option><option value="1961">1961</option><option value="1960">1960</option><option value="1959">1959</option><option value="1958">1958</option><option value="1957">1957</option><option value="1956">1956</option><option value="1955">1955</option><option value="1954">1954</option><option value="1953">1953</option><option value="1952">1952</option><option value="1951">1951</option><option value="1950">1950</option><option value="1949">1949</option><option value="1948">1948</option><option value="1947">1947</option><option value="1946">1946</option><option value="1945">1945</option><option value="1944">1944</option><option value="1943">1943</option><option value="1942">1942</option><option value="1941">1941</option><option value="1940">1940</option><option value="1939">1939</option><option value="1938">1938</option><option value="1937">1937</option><option value="1936">1936</option><option value="1935">1935</option><option value="1934">1934</option><option value="1933">1933</option><option value="1932">1932</option><option value="1931">1931</option><option value="1930">1930</option><option value="1929">1929</option><option value="1928">1928</option><option value="1927">1927</option><option value="1926">1926</option><option value="1925">1925</option><option value="1924">1924</option><option value="1923">1923</option><option value="1922">1922</option><option value="1921">1921</option><option value="1920">1920</option><option value="1919">1919</option><option value="1918">1918</option><option value="1917">1917</option><option value="1916">1916</option><option value="1915">1915</option><option value="1914">1914</option><option value="1913">1913</option><option value="1912">1912</option><option value="1911">1911</option><option value="1910">1910</option><option value="1909">1909</option><option value="1908">1908</option><option value="1907">1907</option></select><br>Date of Birth</td>
 			</tr>			
-			<tr><td><select id="EMPLOYMENT_TYPE" name="EMPLOYMENT_TYPE" style="width:140px;" onchange="insertIntoDB('CUST_ID,LEAD_ID,INCOME,DOB_DAY,DOB_MONTH,DOB_YEAR,EMPLOYMENT_TYPE','');">
-				<option value="0">--Select Employment--</option>
-				<option value="Salaried">Salaried</option>
-				<option value="Self Employed">Self Employed</option></select></td>
-			</tr>
-			<tr><td><select id="CITY_ID" name="CITY_ID" style="width:140px;" onchange="cityGetother(document.getElementById('CITY_ID'),document.getElementById('TBL_OTHER_CITY_NAME'));">
-						<option value="0">Select a City</option><option value="1">Ahmedabad</option><option value="2">Akola</option><option value="3">Allahabad</option><option value="4">Alwar</option><option value="5">Amritsar</option><option value="6">Anand</option><option value="7">Ankleshwar</option><option value="8">Aurangabad</option><option value="9">Bangalore</option><option value="10">Bareilly</option><option value="11">Baroda</option><option value="12">Belgaum</option><option value="13">Bharuch</option><option value="17">Bhilwara</option><option value="14">Bhopal</option><option value="15">Bhubaneshwar</option><option value="16">Bikaner</option><option value="18">Calicut</option><option value="19">Chandigarh</option><option value="20">Chennai</option><option value="21">Cochin</option><option value="22">Coimbatore</option><option value="23">Cuttack</option><option value="24">Delhi</option><option value="25">Dewas</option><option value="26">Dhule</option><option value="27">Faridabad</option><option value="28">Ghaziabad</option><option value="29">Goa</option><option value="30">Gulbarga</option><option value="31">Guntur</option><option value="32">Gurgaon</option><option value="33">Gwalior</option><option value="34">Himmatnagar</option><option value="35">Hosur</option><option value="36">Howrah</option><option value="37">Hubli</option><option value="38">Hyderabad</option><option value="39">Indore</option><option value="40">Jabalpur</option><option value="41">Jaipur</option><option value="42">Jamnagar</option><option value="43">Jamshedpur</option><option value="44">Jodhpur</option><option value="45">Jullunder</option><option value="46">Junagadh</option><option value="47">Kanpur</option><option value="48">Kolhapur</option><option value="49">Kolkata</option><option value="50">Kota</option><option value="51">Lucknow</option><option value="52">Ludhiana</option><option value="53">Madurai</option><option value="54">Mahad</option><option value="55">Mangalore</option><option value="56">Mehsana</option><option value="57">Mumbai</option><option value="58">Mysore</option><option value="59">Nagpur</option><option value="60">Nashik</option><option value="61">Navi Mumbai</option><option value="62">Nellore</option><option value="63">New Delhi</option><option value="89">Noida</option><option value="other">Other City</option><option value="64">Panvel</option><option value="65">Patiala</option><option value="66">Patna</option><option value="67">Pen</option><option value="68">Pithampur</option><option value="69">Porbunder</option><option value="70">Pune</option><option value="71">Raipur</option><option value="72">Rajkot</option><option value="73">Rajmundry</option><option value="74">Ranchi</option><option value="75">Ratlam</option><option value="76">Secunderabad</option><option value="77">Silvassa</option><option value="78">Surat</option><option value="79">Thane</option><option value="80">Trichy</option><option value="81">Trivandrum</option><option value="82">Udaipur</option><option value="83">Ujjain</option><option value="84">Valsad</option><option value="85">Vapi</option><option value="86">Varanasi</option><option value="87">Vijayawada</option><option value="88">Vizag</option><option value="other">Other City</option></select></td></tr>
-			<tr><td width="100%" id="TBL_OTHER_CITY_NAME" style="display:none;">
-					<input type="text" value="" id="OTHER_CITY_NAME" name="OTHER_CITY_NAME" onblur="insertIntoDB('CUST_ID,LEAD_ID,CITY_ID,OTHER_CITY_NAME','');" size="20" maxlength="50">
-					<br>Name of other city
-				</td>
-			</tr>		
-            <tr><td align="left"><a href="#" onclick="validateRegistrationForm(); return false;"><img src="http://www.apnaloan.com/images/btn_apply.gif" alt="Apply Now" width="64" height="25" border="0"></a></td></tr>
-           	<tr><td id="tdNRIsApply" style="display:block;"><span id="applyLink"><a href="#" onclick="getNRIForm();return false;"> NRIs Apply here</a></span></td></tr>
+			<tr><td><select id="PROFESSION_ID" name="PROFESSION_ID" style="width:140px;" onchange="insertIntoDB('CUST_ID,LEAD_ID,CITY_ID,OTHER_CITY_NAME,INCOME,DOB_DAY,DOB_MONTH,DOB_YEAR,PROFESSION_ID','');">
+				<option value="0">--Select Employment--</option><option value="1">Salaried</option><option value="2">Self Employed</option></select></td></tr>
+					
+			<tr><td><input type="checkbox" id="checkTerms" name="checkTerms" value="" style="border:0;">&nbsp;I have read the <a href="http://www.apnaloan.com/privacy-policy.html" target="_blank">Privacy Policy</a> and agree to the terms therein.</td></tr>
+
+            <tr><td align="left"><a href="#" onclick="validateRegistrationForm(); return false;"><img src="http://www.apnaloan.com/images/btn_apply.gif" alt="Apply Now" width="64" height="25" border="0"></a></td></tr>           	
             </tbody></table>            
    		</div> 
     	<!-- Alreay registered 'Yes'-->
@@ -618,7 +684,7 @@ border-style:dotted; font-family:verdana; font-size:10pt; text-color:blue;" dire
 				</div><div class="ad-column"> 
 						<div class="ad-column1"> </div>
 						<div class="ad-column2">
-						<img src="http://www.apnaloan.com/images/ad-right.gif" width="138" height="480" alt=""></div>
+						<!--<img src='http://www.apnaloan.com/images/ad-right.gif' width='138' height='480' alt='' />--></div>
 						<div class="ad-column3"> </div>
 						
 						</div>
@@ -626,7 +692,7 @@ border-style:dotted; font-family:verdana; font-size:10pt; text-color:blue;" dire
 						<div style="clear:both;"> </div>				
 				</div> <!--middle id-->	<div id="footer" align="center"> 
 			<div id="footer-txt"> 
-			<ul>
+			<ul id="footerUL">
 			<li> <a href="http://www.apnaloan.com/about-us.html">About Us</a> </li>			
 			<li>|</li>
 			<li> <a href="http://www.apnaloan.com/careers.html"> Careers </a> </li> 
@@ -634,8 +700,9 @@ border-style:dotted; font-family:verdana; font-size:10pt; text-color:blue;" dire
 			<li> <a href="http://www.apnaloan.com/press.html">Press Room </a> 
 			</li> 
 			<li>|</li>
-			<li> <a href="http://www.apnaloan.com/lenders-india.html">Banks / DSAs </a>
-			</li> 
+			<li> <a href="http://www.apnaloan.com/lenders-india.html">Banks</a></li> 
+			<li>|</li>
+			<li> <a href="http://www.apnaloan.com/loan-database/">DSAs</a></li> 
 			<li>|</li>
 			<li> <a href="http://www.apnaloan.com/advertisers-india.html">Advertisers </a> 
 			</li> 
@@ -649,6 +716,7 @@ border-style:dotted; font-family:verdana; font-size:10pt; text-color:blue;" dire
 			<li>|</li>
 			<li id="footerLogin"> <a href="http://www.apnaloan.com/login.php">My Application Status</a> 
 			</li>
+			<li id="appStatusId"></li>
 			<br>
 			<li> <a href="http://www.apnaloan.com/news.html">News</a>  </li>
 			<li>|</li>
@@ -661,7 +729,23 @@ border-style:dotted; font-family:verdana; font-size:10pt; text-color:blue;" dire
 			<li> <a href="http://www.apnaloan.com/contact-us.html">Contact Us</a>  </li> 
 			<li>|</li>
 			<li> <a href="http://www.apnaloan.com/sitemap.html">Sitemap</a>  </li>
+			<br>
+			<li><a href="http://www.apnaloan.com/personal-loan-india/index.html">Personal Loan</a>  </li>
+			<li>|</li>
+			<li><a href="http://www.apnaloan.com/home-loan-india/index.html">Home Loan</a>  </li>
+			<li>|</li>
+			<li><a href="http://www.apnaloan.com/car-loan-india/index.html">Car Loan</a>  </li>
+			<li>|</li>
+			<li><a href="http://www.apnaloan.com/education-loan-india/index.html">Education Loan</a>  </li>
+			<li>|</li>
+			<li><a href="http://www.apnaloan.com/credit-card-india/index.html">Credit Card</a>  </li>
+			<li>|</li>
+			<li><a href="http://www.apnaloan.com/loan-advice-india/calculator.html">Calculators</a>  </li>
+			<li>|</li>
+			<li><a href="http://www.apnaloan.com/loan-advice-india/index.html">Loan Guru</a>  </li>
+			
 			</ul>
+					
 			<br>
 			© 2007 Copyright by Apnaloan.com
 			</div>
@@ -670,13 +754,13 @@ border-style:dotted; font-family:verdana; font-size:10pt; text-color:blue;" dire
 			
 	</div> <!--main id-->  
 	
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
 
-	
-	<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-					</script>
-					<script type="text/javascript">
-					_uacct = "UA-490241-1";
-					urchinTracker();
-	</script>
+       <script type="text/javascript">
+               _uacct = "UA-490241-1";
+               urchinTracker();
+       </script>
+
+
 
 </body></html>
