@@ -1,12 +1,47 @@
-<!--The following is the downloaded HTML source of the herbs-wholesale.com privacy policy that was archived on 2007-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070630130435id_/http%3A//www.herbs-wholesale.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the herbs-wholesale.com privacy policy that was archived on 2007-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071231065119id_/http%3A//www.herbs-wholesale.com/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
+
+
+<script id="clientEventHandlersJS" language="javascript" type="text/javascript">
+<!--
+function profrm_onsubmit() {
+	if(document.profrm.qty.value == ""){
+		alert("Enter Product Quantity.");
+		document.profrm.qty.focus();
+		return false;	 
+	}
+	  
+	if(document.profrm.qty.value != ""){
+		if(isNaN(document.profrm.qty.value)== true){
+			alert('Product Quantity should be a valid number.');
+			document.profrm.qty.focus();
+			return false;
+		}
+		else{
+			var len = document.profrm.qty.value.length;
+			var value = document.profrm.qty.value;
+			for(i=0;i<len;i++){
+				if(value.charAt(i) == "-" || value.charAt(i) == "+" ){
+					alert('Product Quantity should be a valid number.');
+					document.profrm.qty.focus();
+					return false;
+				}
+			}
+	 	}	
+	}
+}
+-->
+</script>
+
 
 <title>Herbs-WholeSale - Herbal Products Privacy Policy</title>
 <meta name="Description" content="Privacy Policy of Herbs-Wholesale. Full Information about herbs-wholesale or company.">
 <meta name="keywords" content="herbs-wholesale,herbswholesale,privacy policy,herbs-wholesale.com,herbal products,alternative medicine">
+<base href="http://www.herbs-wholesale.com">
 <meta name="robots" content="index, follow">
+
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
 <script type="text/javascript">
 _uacct = "UA-180335-2";
@@ -14,44 +49,55 @@ _uacct = "UA-180335-2";
  urchinTracker();
 </script>
 <title>Herbs-WholeSale</title>
-<link rel="stylesheet" type="text/css" href="nscss.css">
+<link rel="stylesheet" type="text/css" href="/cs.css">
 </head>
 <body bgcolor="#FFFFFF" text="#000000" topmargin="0" leftmargin="0">
 <table width="766" border="0" cellspacing="0" cellpadding="0" align="center">
   <tbody><tr>
     <td>
-      <style type="text/css">
-<!--
-.HotSelling {
-	font-family: verdana;
-	font-size: 8pt;
-	color:#3A4068;
-	Text-Decoration:none;
-}
-.st1New
-{
-    FONT-SIZE: 12px;
-    COLOR: #FFFFFF;
-    FONT-FAMILY: Verdana;
-    TEXT-DECORATION: none;
-}
-
--->
-</style>
+      
+<script type="text/javascript" language="javascript">
+//<![CDATA[
+    function checksearchfrm()
+    {
+     
+            if (document.getElementById("sq").value  != '')
+            {
+                myk = document.getElementById("sq").value.split("-");
+                for(var i=0;i<myk.length;i++)
+                {
+                     if(i > 0 )
+                        keyword = keyword + '--' + myk[i];
+                     else
+                        keyword = myk[i];
+                        
+                }    
+                len=keyword.length;
+                for( i = 0; i <len; i++)
+                {
+                   keyword = keyword.replace('  ',' ');
+                   keyword = keyword.replace('/','-');
+                }   
+                len=keyword.length;
+                for( i = 0; i <keyword.length; i++)
+                   keyword = keyword.replace(' ','-');
+                
+        	    document.searchfrm.action = "http://www.herbs-wholesale.com/keywords/"+keyword+".html"
+	            document.searchfrm.submit();
+	        }
+	        else
+	        {
+	            alert("Enter word for search.");
+	            document.getElementById("sq").focus();
+	            return false;
+	        }
+    }
+    //]]>
+</script>
 <table width="766" border="0" cellspacing="0" cellpadding="0" align="center"> 
 	<tbody><tr> 
 		<td align="right"> 
-			
-			<!--table width="766" border="0" cellspacing="0" cellpadding="0"> 
-				<tr> 
-					<td width="446"></td> 
-					<td width="65" align="right"><a href="http://www.herbs-wholesale.com/member/default.asp"><img src="/images/member.jpg" border="0"></a></td> 
-					<td width="102" align="center"><img src="/images/addtofav.jpg" border="0" onClick='window.external.AddFavorite(location.href, document.title); return false'></td> 
-					<td width="82" align="left"><a href="http://www.herbs-wholesale.com/shop/cart.asp"><img src="/images/viewcart.jpg" border="0"></a></td> 
-					<td width="71" align="left"><a href="https://www.herbs-wholesale.com/bin/payment.asp"><img src="/images/checkout.jpg" border="0"></a></td> 
-				</tr> 
-			</table-->
-			
+				
 		</td> 
 	</tr> 
 </tbody></table> 
@@ -59,11 +105,11 @@ _uacct = "UA-180335-2";
 	<tbody><tr> 
 		<td width="153" valign="bottom" height="82"><a href="http://www.herbs-wholesale.com/"><img src="/images/herbs-wholesale.gif" alt="Herbs WholeSale" border="0"></a></td> 
 		
- <td valign="top" align="right" width="613"> <img src="/images/herbs-header.gif" border="0" usemap="#Map"> 
-  <map name="Map">
-   <area shape="rect" coords="66,2,136,19" href="http://www.herbs-wholesale.com/member/default.asp">
-	<area shape="rect" coords="149,4,206,16" href="http://www.herbs-wholesale.com/shop/cart.asp">
-	<area shape="rect" coords="219,4,276,16" href="https://www.herbs-wholesale.com/bin/payment.asp">
+ <td valign="top" align="right" width="613"> <img src="/images/herbs-header.gif" border="0" usemap="#Map" alt=""> 
+  <map id="Map" name="Map">
+   <area shape="rect" coords="66,2,136,19" href="http://www.herbs-wholesale.com/member/default.asp" alt="">
+	<area shape="rect" coords="149,4,206,16" href="http://www.herbs-wholesale.com/shop/cart.asp" alt="">
+	<area shape="rect" coords="219,4,276,16" href="https://www.herbs-wholesale.com/bin/payment.asp" alt="">
   </map>
  </td> 
 	</tr> 
@@ -75,36 +121,34 @@ _uacct = "UA-180335-2";
 					<td width="476" height="25"> 
 						<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center"> 
 <tbody><tr> 
-<td background="/images/hw-headbg-1.gif" height="25"><b><a href="http://www.herbs-wholesale.com/" class="st1New">&nbsp;&nbsp;Home</a></b></td><td width="9"><img src="/images/hw-headbg-2.gif"></td>
-<td background="/images/hw-headbg-1.gif" height="25"><b><a href="http://www.herbs-wholesale.com/herb.asp" class="st1New">&nbsp;&nbsp;Herbs</a></b></td><td width="9"><img src="/images/hw-headbg-2.gif"></td>
-<td background="/images/hw-headbg-1.gif" height="25"><b><a href="http://www.herbs-wholesale.com/products.htm" class="st1New">&nbsp;&nbsp;Products</a></b></td><td width="9"><img src="/images/hw-headbg-2.gif"></td>
-<td background="/images/hw-headbg-1.gif" height="25"><b><a href="http://www.herbs-wholesale.com/shop/brands.asp" class="st1New">&nbsp;&nbsp;Brands</a></b></td><td width="9"><img src="/images/hw-headbg-2.gif"></td>
-<td background="/images/hw-headbg-1.gif" height="25"><b><a href="http://www.herbs-wholesale.com/categories.asp" class="st1New">&nbsp;&nbsp;Categories</a></b></td><td width="9"><img src="/images/hw-headbg-2.gif"></td>
-<td background="/images/hw-headbg-1.gif" height="25" width="130" nowrap=""><b><a href="http://www.herbs-wholesale.com/store.asp" class="st1New">&nbsp;&nbsp;Special Stores</a></b></td>
-<td width="9"><img src="/images/hw-headbg-2.gif"></td>
-</tr></tbody></table></td>
-					
-					<form method="Get" name="searchfrm" action="http://www.herbs-wholesale.com/search/sq.asp" onsubmit="if(this.sq.value=='') { alert('Enter word for search.'); return false; }" style="padding:0px;margin:0px;"></form> 
-						<td width="290" background="/images/hw-headbg-1.gif" height="25"> 
+<td style="background-image:url(/images/hw-headbg-1.gif);" height="25"><b><a href="http://www.herbs-wholesale.com/Ailments2.asp" rel="nofollow" class="st1New">&nbsp;&nbsp;Ailments</a></b></td><td width="9"><img src="/images/hw-headbg-2.gif" alt=""></td>
+<td style="background-image:url(/images/hw-headbg-1.gif);" height="25"><b><a href="http://www.herbs-wholesale.com/herb.asp" class="st1New" rel="nofollow">&nbsp;&nbsp;Herbs</a></b></td><td width="9"><img src="/images/hw-headbg-2.gif" alt=""></td>
+<td style="background-image:url(/images/hw-headbg-1.gif);" height="25"><b><a href="http://www.herbs-wholesale.com/products.htm" class="st1New">&nbsp;&nbsp;Products</a></b></td><td width="9"><img src="/images/hw-headbg-2.gif" alt=""></td>
+<td style="background-image:url(/images/hw-headbg-1.gif);" height="25"><b><a href="http://www.herbs-wholesale.com/shop/brands.asp" class="st1New" rel="nofollow">&nbsp;&nbsp;Brands</a></b></td><td width="9"><img src="/images/hw-headbg-2.gif" alt=""></td>
+<td style="background-image:url(/images/hw-headbg-1.gif);" height="25"><b><a href="http://www.herbs-wholesale.com/categories.asp" class="st1New" rel="nofollow">&nbsp;&nbsp;Categories</a></b></td><td width="9"><img src="/images/hw-headbg-2.gif" alt=""></td>
+<td style="background-image:url(/images/hw-headbg-1.gif);" height="25" width="110"><b><a href="http://www.herbs-wholesale.com/store.asp" class="st1New" rel="nofollow">&nbsp;&nbsp;Special Stores</a></b></td>
+<td width="9"><img src="/images/hw-headbg-2.gif" alt=""></td>
+</tr></tbody></table></td>	<td width="290" style="background-image:url(/images/hw-headbg-1.gif);" height="25"> 
+	<form method="post" name="searchfrm" action="" onsubmit="return checksearchfrm();" style="padding:0px;margin:0px;"> 
 							<table border="0" cellspacing="0" cellpadding="0"> 
 								<tbody><tr> 
-									<td class="st1New"><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Search</b></td> 
+									<td align="left" class="st1New"><b>&nbsp;&nbsp;&nbsp;&nbsp;Search</b></td> 
 									<td align="center">&nbsp; 
-										<input type="text" name="sq" size="18" value=""> 
+										<input type="text" name="sq" id="sq" size="18" value=""> 
 									</td> 
-									<td> <input type="image" border="0" name="imageField" src="/images/Go-head.gif"> 
+									<td style="padding-left:5px;" align="left" valign="middle"> <input type="image" style="border:0px;" name="imageField" src="/images/Go-head.gif"> 
 									</td> 
 								</tr> 
-							</tbody></table> 
+							</tbody></table> </form> 
 						</td> 
-					 
+
 				</tr> 
 			</tbody></table> 
 		</td> 
 	</tr> 
 	<tr> 
 		<td colspan="2" align="center" valign="top"> 
-			<table border="0" cellpadding="0" cellspacing="0" width="765" height="29" background="/images/hw-bg.gif"> 
+			<table border="0" cellpadding="0" cellspacing="0" width="765" style="background-image:url(/images/hw-bg.gif); height:29px;"> 
 				<tbody><tr class="HotSelling"> 					
 		 <td class="HotSelling" valign="top" align="center"><a href="http://www.herbs-wholesale.com/Elusun-27623.html" class="HotSelling">Elusun 
 		  (Elu Sun)</a> | <a href="http://www.herbs-wholesale.com/DMannosewithCranactin-30619.html" class="HotSelling">D-Mannose</a> 
@@ -126,8 +170,42 @@ _uacct = "UA-180335-2";
 </tbody></table>
 <table width="766" border="0" cellspacing="0" cellpadding="0" align="center">
   <tbody><tr> 
-    <td width="140" valign="top"><img src="/images/spacer.gif" width="1" height="7"><br>
-      <script language="javascript">
+    <td width="140" valign="top">
+      
+
+<script id="clientEventHandlersJS" language="javascript" type="text/javascript">
+<!--
+function profrm_onsubmit() {
+	if(document.profrm.qty.value == ""){
+		alert("Enter Product Quantity.");
+		document.profrm.qty.focus();
+		return false;	 
+	}
+	  
+	if(document.profrm.qty.value != ""){
+		if(isNaN(document.profrm.qty.value)== true){
+			alert('Product Quantity should be a valid number.');
+			document.profrm.qty.focus();
+			return false;
+		}
+		else{
+			var len = document.profrm.qty.value.length;
+			var value = document.profrm.qty.value;
+			for(i=0;i<len;i++){
+				if(value.charAt(i) == "-" || value.charAt(i) == "+" ){
+					alert('Product Quantity should be a valid number.');
+					document.profrm.qty.focus();
+					return false;
+				}
+			}
+	 	}	
+	}
+}
+-->
+</script>
+
+
+<script type="text/javascript" language="javascript">
 function submitbrandsfrm()
 {
 	if(document.brandfrm.vid.value != '')
@@ -195,415 +273,237 @@ function geoTrust()
 </script>
  <table width="158" border="0" cellspacing="0" cellpadding="0"> 
 	<tbody><tr> 
-		 <td valign="top"> 
+		 <td valign="top" align="center"> 
 			<table width="158" border="0" align="center" cellspacing="0" cellpadding="0"> 
+				
 				<tbody><tr> 
-					<td align="center">
-						<div style="padding:2px; margin:0 0 5px 0; border:2px dashed #990000; background-color:#E1AC43; width:98%;"><font face="Verdana" size="1">Your IP: <b><font color="#ff0000">64.208.172.180</font></b></font></div>
-					</td> 
+					<td align="center" width="156" valign="top"><a href="http://www.herbs-wholesale.com/shipping.asp"><img src="/images/free1.gif" width="157" border="0" height="77" alt=""></a></td> 
 				</tr> 
 				<tr> 
-					<td align="center">
-						<!-- BEGIN ProvideSupport.com Graphics Chat Button Code -->
-						<div id="ciAD8g" style="z-index:100;position:absolute"></div><div id="scAD8g" style="display:inline"></div><div id="sdAD8g" style="display:none"><script type="text/javascript" src="https://secure.providesupport.com/image/js/herbswholesale/safe-standard.js?ps_h=AD8g&amp;ps_t=1580513133063"></script></div><script type="text/javascript">var seAD8g=document.createElement("script");seAD8g.type="text/javascript";var seAD8gs=(location.protocol.indexOf("https")==0?"https://secure.providesupport.com/image":"http://image.providesupport.com")+"/js/herbswholesale/safe-standard.js?ps_h=AD8g\u0026ps_t="+new Date().getTime();setTimeout("seAD8g.src=seAD8gs;document.getElementById('sdAD8g').appendChild(seAD8g)",1)</script><noscript><div style="display:inline"><a href="http://www.providesupport.com?messenger=herbswholesale">Online Chat</a></div></noscript>
-						<!-- END ProvideSupport.com Graphics Chat Button Code -->
-					</td> 
-				</tr> 
-				<tr> 
-					<td align="center" width="156"><a href="http://www.herbs-wholesale.com/shipping.asp"><img src="/images/free1.gif" width="157" border="0" height="77"></a></td> 
-				</tr> 
-				<tr> 
-					<td><img src="images/spacer.gif" width="1" height="4"></td> 
+					<td><img src="/images/spacer.gif" width="1" height="4" alt=""></td> 
 				</tr> 
 				 <tr> 
-					<td> 
-						 <table width="100%" border="0" cellspacing="0" cellpadding="0" align="center"> 
+					<td align="left"> 
+						 <table width="95%" border="0" cellspacing="0" cellpadding="0" align="center"> 
 							<tbody><tr> 
 								 <td colspan="2" height="20" class="verd3" bgcolor="#0061AB"><b><font color="#FFFFFF">&nbsp;Shop by Store</font></b></td> 
 							 </tr> 
 							<tr> 
-								 <td colspan="2"><img src="/images/spacer.gif" width="1" height="7"></td> 
+								 <td colspan="2"><img src="/images/spacer.gif" width="1" height="7" alt=""></td> 
 							 </tr> 
 							<tr> 
-								 <td colspan="2" align="center"> 
-									 
-<table width="100%" border="0"> 
-	 
-	<tbody><tr> 
-		<td width="14" align="center"><img src="/images/bul.gif" border="0"></td> 
-		<td width="140" height="17"><a href="/AHCC.htm" class="st1">AHCC </a></td> 
-	</tr> 
-	 
-	<tr> 
-		<td width="14" align="center"><img src="/images/bul.gif" border="0"></td> 
-		<td width="140" height="17"><a href="/Alfalfa.htm" class="st1">Alfalfa</a></td> 
-	</tr> 
-	 
-	<tr> 
-		<td width="14" align="center"><img src="/images/bul.gif" border="0"></td> 
-		<td width="140" height="17"><a href="/Alpha-Lipoic-Acid.htm" class="st1">Alpha Lipoic Acid</a></td> 
-	</tr> 
-	 
-	<tr> 
-		<td width="14" align="center"><img src="/images/bul.gif" border="0"></td> 
-		<td width="140" height="17"><a href="/Andrographis.htm" class="st1">Andrographis</a></td> 
-	</tr> 
-	 
-	<tr> 
-		<td width="14" align="center"><img src="/images/bul.gif" border="0"></td> 
-		<td width="140" height="17"><a href="/Anti-Aging.htm" class="st1">Anti Aging</a></td> 
-	</tr> 
-	 
-	<tr> 
-		<td width="14" align="center"><img src="/images/bul.gif" border="0"></td> 
-		<td width="140" height="17"><a href="/Antioxidant.htm" class="st1">Antioxidant</a></td> 
-	</tr> 
-	 
-	<tr> 
-		<td width="14" align="center"><img src="/images/bul.gif" border="0"></td> 
-		<td width="140" height="17"><a href="/Apricot.htm" class="st1">Apricot</a></td> 
-	</tr> 
-	 
-	<tr> 
-		<td width="14" align="center"><img src="/images/bul.gif" border="0"></td> 
-		<td width="140" height="17"><a href="/Arnica.htm" class="st1">Arnica</a></td> 
-	</tr> 
-	 
-	<tr> 
-		<td width="14" align="center"><img src="/images/bul.gif" border="0"></td> 
-		<td width="140" height="17"><a href="/Astaxanthin.htm" class="st1">Astaxanthin</a></td> 
-	</tr> 
-	 
-	<tr> 
-		<td width="14" align="center"><img src="/images/bul.gif" border="0"></td> 
-		<td width="140" height="17"><a href="/Astragalus.htm" class="st1">Astragalus</a></td> 
-	</tr> 
-	 
-	<tr> 
-		<td width="14" align="center"><img src="/images/bul.gif" border="0"></td> 
-		<td width="140" height="17"><a href="/Bath-Body.htm" class="st1">Bath &amp; Body</a></td> 
-	</tr> 
-	 
-	<tr> 
-		<td width="14" align="center"><img src="/images/bul.gif" border="0"></td> 
-		<td width="140" height="17"><a href="/Beauty-Cosmetics.htm" class="st1">Beauty &amp; Cosmetics</a></td> 
-	</tr> 
-	 
-	<tr> 
-		<td width="14" align="center"><img src="/images/bul.gif" border="0"></td> 
-		<td width="140" height="17"><a href="/Bee-Pollen.htm" class="st1">Bee Pollen</a></td> 
-	</tr> 
-	 
-	<tr> 
-		<td width="14" align="center"><img src="/images/bul.gif" border="0"></td> 
-		<td width="140" height="17"><a href="/Biotin.htm" class="st1">Biotin</a></td> 
-	</tr> 
-	 
-	<tr> 
-		<td width="14" align="center"><img src="/images/bul.gif" border="0"></td> 
-		<td width="140" height="17"><a href="/Bromelain.htm" class="st1">Bromelain</a></td> 
-	</tr> 
-	 
-	<tr> 
-		<td width="14" align="center"><img src="/images/bul.gif" border="0"></td> 
-		<td width="140" height="17"><a href="/Candida.htm" class="st1">Candida</a></td> 
-	</tr> 
-	 
-	<tr> 
-		<td width="14" align="center"><img src="/images/bul.gif" border="0"></td> 
-		<td width="140" height="17"><a href="/Children-Health.htm" class="st1">Children Health</a></td> 
-	</tr> 
-	 
-	<tr> 
-		<td width="14" align="center"><img src="/images/bul.gif" border="0"></td> 
-		<td width="140" height="17"><a href="/Chlorella.htm" class="st1">Chlorella</a></td> 
-	</tr> 
-	 
-	<tr> 
-		<td width="14" align="center"><img src="/images/bul.gif" border="0"></td> 
-		<td width="140" height="17"><a href="/Chromium-Picolinate.htm" class="st1">Chromium Picolinate</a></td> 
-	</tr> 
-	 
-	<tr> 
-		<td width="14" align="center"><img src="/images/bul.gif" border="0"></td> 
-		<td width="140" height="17"><a href="/Cold-Flu.htm" class="st1">Cold &amp; Flu</a></td> 
-	</tr> 
-	 
-	<tr> 
-		<td width="14" align="center"><img src="/images/bul.gif" border="0"></td> 
-		<td width="140" height="17"><a href="/Colon-Cleanse.htm" class="st1">Colon Cleanse</a></td> 
-	</tr> 
-	 
-	<tr> 
-		<td width="14" align="center"><img src="/images/bul.gif" border="0"></td> 
-		<td width="140" height="17"><a href="/Colostrum.htm" class="st1">Colostrum</a></td> 
-	</tr> 
-	 
-	<tr> 
-		<td width="14" align="center"><img src="/images/bul.gif" border="0"></td> 
-		<td width="140" height="17"><a href="/Cranberry.htm" class="st1">Cranberry</a></td> 
-	</tr> 
-	 
-	<tr> 
-		<td width="14" align="center"><img src="/images/bul.gif" border="0"></td> 
-		<td width="140" height="17"><a href="/Dietary-Fiber.htm" class="st1">Dietary Fiber</a></td> 
-	</tr> 
-	 
-	<tr> 
-		<td width="14" align="center"><img src="/images/bul.gif" border="0"></td> 
-		<td width="140" height="17"><a href="/Digestion-System.htm" class="st1">Digestion System</a></td> 
-	</tr> 
-	 
-	<tr> 
-		<td width="14" align="center"><img src="/images/bul.gif" border="0"></td> 
-		<td width="140" height="17"><a href="/Easter.htm" class="st1">Easter Special </a></td> 
-	</tr> 
-	 
-	<tr> 
-		<td width="14" align="center"><img src="/images/bul.gif" border="0"></td> 
-		<td width="140" height="17"><a href="/Essential-Oil.htm" class="st1">Essential Oil</a></td> 
-	</tr> 
-	 
-	<tr> 
-		<td width="14" align="center"><img src="/images/bul.gif" border="0"></td> 
-		<td width="140" height="17"><a href="/Evening-Primrose-Oil.htm" class="st1">Evening Primrose Oil</a></td> 
-	</tr> 
-	 
-	<tr> 
-		<td width="14" align="center"><img src="/images/bul.gif" border="0"></td> 
-		<td width="140" height="17"><a href="/Flax-Seed-Oil.htm" class="st1">Flax Seed Oil</a></td> 
-	</tr> 
-	 
-	<tr> 
-		<td width="14" align="center"><img src="/images/bul.gif" border="0"></td> 
-		<td width="140" height="17"><a href="/Glucosamine-Sulfate.htm" class="st1">Glucosamine Sulfate</a></td> 
-	</tr> 
-	 
-	<tr> 
-		<td width="14" align="center"><img src="/images/bul.gif" border="0"></td> 
-		<td width="140" height="17"><a href="/Glutamine.htm" class="st1">Glutamine</a></td> 
-	</tr> 
-	 
-	<tr> 
-		<td width="14" align="center"><img src="/images/bul.gif" border="0"></td> 
-		<td width="140" height="17"><a href="/Goldenseal.htm" class="st1">Goldenseal</a></td> 
-	</tr> 
-	 
-	<tr> 
-		<td width="14" align="center"><img src="/images/bul.gif" border="0"></td> 
-		<td width="140" height="17"><a href="/Gotu-Kola.htm" class="st1">Gotu Kola</a></td> 
-	</tr> 
-	 
-	<tr> 
-		<td width="14" align="center"><img src="/images/bul.gif" border="0"></td> 
-		<td width="140" height="17"><a href="/Grape-Seed-Extract.htm" class="st1">Grape Seed Extract</a></td> 
-	</tr> 
-	 
-	<tr> 
-		<td width="14" align="center"><img src="/images/bul.gif" border="0"></td> 
-		<td width="140" height="17"><a href="/Gymnema-Sylvestre.htm" class="st1">Gymnema Sylvestre</a></td> 
-	</tr> 
-	 
-	<tr> 
-		<td width="14" align="center"><img src="/images/bul.gif" border="0"></td> 
-		<td width="140" height="17"><a href="/Hawthorn-Berries.htm" class="st1">Hawthorn Berries</a></td> 
-	</tr> 
-	 
-	<tr> 
-		<td width="14" align="center"><img src="/images/bul.gif" border="0"></td> 
-		<td width="140" height="17"><a href="/Hep-Forte.htm" class="st1">Hep Forte</a></td> 
-	</tr> 
-	 
-	<tr> 
-		<td width="14" align="center"><img src="/images/bul.gif" border="0"></td> 
-		<td width="140" height="17"><a href="/Herbal-Teas.htm" class="st1">Herbal Teas</a></td> 
-	</tr> 
-	 
-	<tr> 
-		<td width="14" align="center"><img src="/images/bul.gif" border="0"></td> 
-		<td width="140" height="17"><a href="/Hoodia-Gordonii.htm" class="st1">Hoodia Gordonii</a></td> 
-	</tr> 
-	 
-	<tr> 
-		<td width="14" align="center"><img src="/images/bul.gif" border="0"></td> 
-		<td width="140" height="17"><a href="/Horny-Goat-Weed.htm" class="st1">Horny Goat Weed</a></td> 
-	</tr> 
-	 
-	<tr> 
-		<td width="14" align="center"><img src="/images/bul.gif" border="0"></td> 
-		<td width="140" height="17"><a href="/Human-Growth-Hormone.htm" class="st1">Human Growth Hormone</a></td> 
-	</tr> 
-	 
-	<tr> 
-		<td width="14" align="center"><img src="/images/bul.gif" border="0"></td> 
-		<td width="140" height="17"><a href="/Immune-System.htm" class="st1">Immune System</a></td> 
-	</tr> 
-	 
-	<tr> 
-		<td width="14" align="center"><img src="/images/bul.gif" border="0"></td> 
-		<td width="140" height="17"><a href="/Inositol.htm" class="st1">Inositol</a></td> 
-	</tr> 
-	 
-	<tr> 
-		<td width="14" align="center"><img src="/images/bul.gif" border="0"></td> 
-		<td width="140" height="17"><a href="/Joint-Health.htm" class="st1">Joint Health</a></td> 
-	</tr> 
-	 
-	<tr> 
-		<td width="14" align="center"><img src="/images/bul.gif" border="0"></td> 
-		<td width="140" height="17"><a href="/L-Arginine.htm" class="st1">L-Arginine</a></td> 
-	</tr> 
-	 
-	<tr> 
-		<td width="14" align="center"><img src="/images/bul.gif" border="0"></td> 
-		<td width="140" height="17"><a href="/L-Lysine.htm" class="st1">L-Lysine</a></td> 
-	</tr> 
-	 
-	<tr> 
-		<td width="14" align="center"><img src="/images/bul.gif" border="0"></td> 
-		<td width="140" height="17"><a href="/Laci-Dieters-Tea.htm" class="st1">Laci Dieters Tea</a></td> 
-	</tr> 
-	 
-	<tr> 
-		<td width="14" align="center"><img src="/images/bul.gif" border="0"></td> 
-		<td width="140" height="17"><a href="/Lavender-oil.htm" class="st1">Lavender oil</a></td> 
-	</tr> 
-	 
-	<tr> 
-		<td width="14" align="center"><img src="/images/bul.gif" border="0"></td> 
-		<td width="140" height="17"><a href="/Lutein.htm" class="st1">Lutein</a></td> 
-	</tr> 
-	 
-	<tr> 
-		<td width="14" align="center"><img src="/images/bul.gif" border="0"></td> 
-		<td width="140" height="17"><a href="/Maca-Herb.htm" class="st1">Maca Herb</a></td> 
-	</tr> 
-	 
-	<tr> 
-		<td width="14" align="center"><img src="/images/bul.gif" border="0"></td> 
-		<td width="140" height="17"><a href="/Mental-Health.htm" class="st1">Mental Health</a></td> 
-	</tr> 
-	 
-	<tr> 
-		<td width="14" align="center"><img src="/images/bul.gif" border="0"></td> 
-		<td width="140" height="17"><a href="/MSM.htm" class="st1">MSM</a></td> 
-	</tr> 
-	 
-	<tr> 
-		<td width="14" align="center"><img src="/images/bul.gif" border="0"></td> 
-		<td width="140" height="17"><a href="/Muscle-Builder.htm" class="st1">Muscle Builder</a></td> 
-	</tr> 
-	 
-	<tr> 
-		<td width="14" align="center"><img src="/images/bul.gif" border="0"></td> 
-		<td width="140" height="17"><a href="/Mushrooms.htm" class="st1">Mushrooms</a></td> 
-	</tr> 
-	 
-	<tr> 
-		<td width="14" align="center"><img src="/images/bul.gif" border="0"></td> 
-		<td width="140" height="17"><a href="/Nettle.htm" class="st1">Nettle</a></td> 
-	</tr> 
-	 
-	<tr> 
-		<td width="14" align="center"><img src="/images/bul.gif" border="0"></td> 
-		<td width="140" height="17"><a href="/Niacin.htm" class="st1">Niacin</a></td> 
-	</tr> 
-	 
-	<tr> 
-		<td width="14" align="center"><img src="/images/bul.gif" border="0"></td> 
-		<td width="140" height="17"><a href="/Phenylalanine.htm" class="st1">Phenylalanine</a></td> 
-	</tr> 
-	 
-	<tr> 
-		<td width="14" align="center"><img src="/images/bul.gif" border="0"></td> 
-		<td width="140" height="17"><a href="/Pregnenolone.htm" class="st1">Pregnenolone</a></td> 
-	</tr> 
-	 
-	<tr> 
-		<td width="14" align="center"><img src="/images/bul.gif" border="0"></td> 
-		<td width="140" height="17"><a href="/Progesterone.htm" class="st1">Progesterone</a></td> 
-	</tr> 
-	 
-	<tr> 
-		<td width="14" align="center"><img src="/images/bul.gif" border="0"></td> 
-		<td width="140" height="17"><a href="/Pycnogenol.htm" class="st1">Pycnogenol</a></td> 
-	</tr> 
-	 
-	<tr> 
-		<td width="14" align="center"><img src="/images/bul.gif" border="0"></td> 
-		<td width="140" height="17"><a href="/Red-Rice-Yeast.htm" class="st1">Red Rice Yeast</a></td> 
-	</tr> 
-	 
-	<tr> 
-		<td width="14" align="center"><img src="/images/bul.gif" border="0"></td> 
-		<td width="140" height="17"><a href="/Sambucol.htm" class="st1">Sambucol</a></td> 
-	</tr> 
-	 
-	<tr> 
-		<td width="14" align="center"><img src="/images/bul.gif" border="0"></td> 
-		<td width="140" height="17"><a href="/Saw-Palmetto.htm" class="st1">Saw Palmetto</a></td> 
-	</tr> 
-	 
-	<tr> 
-		<td width="14" align="center"><img src="/images/bul.gif" border="0"></td> 
-		<td width="140" height="17"><a href="/Sexual-Vitality.htm" class="st1">Sexual Vitality</a></td> 
-	</tr> 
-	 
-	<tr> 
-		<td width="14" align="center"><img src="/images/bul.gif" border="0"></td> 
-		<td width="140" height="17"><a href="/Shark-Cartilage.htm" class="st1">Shark Cartilage</a></td> 
-	</tr> 
-	 
-	<tr> 
-		<td width="14" align="center"><img src="/images/bul.gif" border="0"></td> 
-		<td width="140" height="17"><a href="/Shea-Butter.htm" class="st1">Shea Butter</a></td> 
-	</tr> 
-	 
-	<tr> 
-		<td width="14" align="center"><img src="/images/bul.gif" border="0"></td> 
-		<td width="140" height="17"><a href="/Spirulina.htm" class="st1">Spirulina</a></td> 
-	</tr> 
-	 
-	<tr> 
-		<td width="14" align="center"><img src="/images/bul.gif" border="0"></td> 
-		<td width="140" height="17"><a href="/Spring-Season.htm" class="st1">Spring Season Special</a></td> 
-	</tr> 
-	 
-	<tr> 
-		<td width="14" align="center"><img src="/images/bul.gif" border="0"></td> 
-		<td width="140" height="17"><a href="/Stevia.htm" class="st1">Stevia</a></td> 
-	</tr> 
-	 
-	<tr> 
-		<td width="14" align="center"><img src="/images/bul.gif" border="0"></td> 
-		<td width="140" height="17"><a href="/Summer-Special.htm" class="st1">Summer Special</a></td> 
-	</tr> 
-	 
-	<tr> 
-		<td width="14" align="center"><img src="/images/bul.gif" border="0"></td> 
-		<td width="140" height="17"><a href="/Valerian-Root.htm" class="st1">Valerian Root</a></td> 
-	</tr> 
-	 
-	<tr> 
-		<td width="14" align="center"><img src="/images/bul.gif" border="0"></td> 
-		<td width="140" height="17"><a href="/Vitex.htm" class="st1">Vitex</a></td> 
-	</tr> 
-	 
-	<tr> 
-		<td width="14" align="center"><img src="/images/bul.gif" border="0"></td> 
-		<td width="140" height="17"><a href="/Women-s-Health.htm" class="st1">Women's Health</a></td> 
-	</tr> 
-	 
-	<tr> 
-		<td width="14" align="center"><img src="/images/bul.gif" border="0"></td> 
-		<td width="140" height="17"><a href="/store.asp" class="st1">View all Stores</a></td> 
-	</tr> 
+								 <td colspan="2"> 								 
+									 	
+<table align="left" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/Acidophilus.htm" class="st1">Acidophilus</a></td></tr>
+
+<tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/AHCC.htm" class="st1">AHCC </a></td></tr>
+
+<tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/Alfalfa.htm" class="st1">Alfalfa</a></td></tr>
+
+<tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/Alpha-Lipoic-Acid.htm" class="st1">Alpha Lipoic Acid</a></td></tr>
+
+<tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/Amino-Acids.htm" class="st1">Amino Acids</a></td></tr>
+
+<tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/Andrographis.htm" class="st1">Andrographis</a></td></tr>
+
+<tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/Anti-Aging.htm" class="st1">Anti Aging</a></td></tr>
+
+<tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/Antioxidant.htm" class="st1">Antioxidant</a></td></tr>
+
+<tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/Apricot.htm" class="st1">Apricot</a></td></tr>
+
+<tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/Arnica.htm" class="st1">Arnica</a></td></tr>
+
+<tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/Artichoke.htm" class="st1">Artichoke</a></td></tr>
+
+<tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/Astaxanthin.htm" class="st1">Astaxanthin</a></td></tr>
+
+<tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/Astragalus.htm" class="st1">Astragalus</a></td></tr>
+
+<tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/Bath-Body.htm" class="st1">Bath &amp; Body</a></td></tr>
+
+<tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/Beauty-Cosmetics.htm" class="st1">Beauty &amp; Cosmetics</a></td></tr>
+
+<tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/Bee-Pollen.htm" class="st1">Bee Pollen</a></td></tr>
+
+<tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/Beta-Carotene.htm" class="st1">Beta Carotene</a></td></tr>
+
+<tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/Biotin.htm" class="st1">Biotin</a></td></tr>
+
+<tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/Candida.htm" class="st1">Candida</a></td></tr>
+
+<tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/Children-Health.htm" class="st1">Children Health</a></td></tr>
+
+<tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/Chlorella.htm" class="st1">Chlorella</a></td></tr>
+
+<tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/Chromium-Picolinate.htm" class="st1">Chromium Picolinate</a></td></tr>
+
+<tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/Cod-Liver-Oil.htm" class="st1">Cod Liver Oil</a></td></tr>
+
+<tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/Cold-Flu.htm" class="st1">Cold &amp; Flu</a></td></tr>
+
+<tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/Colon-Cleanse.htm" class="st1">Colon Cleanse</a></td></tr>
+
+<tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/Colostrum.htm" class="st1">Colostrum</a></td></tr>
+
+<tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/Digestion-System.htm" class="st1">Digestion System</a></td></tr>
+
+<tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/Easter.htm" class="st1">Easter Special </a></td></tr>
+
+<tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/Essential-Oil.htm" class="st1">Essential Oil</a></td></tr>
+
+<tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/Evening-Primrose-Oil.htm" class="st1">Evening Primrose Oil</a></td></tr>
+
+<tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/Flax-Seed-Oil.htm" class="st1">Flax Seed Oil</a></td></tr>
+
+<tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/Geranium.htm" class="st1">Geranium</a></td></tr>
+
+<tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/Glucosamine-Sulfate.htm" class="st1">Glucosamine Sulfate</a></td></tr>
+
+<tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/Glutamine.htm" class="st1">Glutamine</a></td></tr>
+
+<tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/Goldenseal.htm" class="st1">Goldenseal</a></td></tr>
+
+<tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/Gotu-Kola.htm" class="st1">Gotu Kola</a></td></tr>
+
+<tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/Grape-Seed-Extract.htm" class="st1">Grape Seed Extract</a></td></tr>
+
+<tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/Graviola.htm" class="st1">Graviola</a></td></tr>
+
+<tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/Gymnema-Sylvestre.htm" class="st1">Gymnema Sylvestre</a></td></tr>
+
+<tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/Hawthorn-Berries.htm" class="st1">Hawthorn Berries</a></td></tr>
+
+<tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/Heart-Health.htm" class="st1">Heart Health</a></td></tr>
+
+<tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/Hep-Forte.htm" class="st1">Hep Forte</a></td></tr>
+
+<tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/Herbal-Supplements.htm" class="st1">Herbal Supplements</a></td></tr>
+
+<tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/Herbal-Teas.htm" class="st1">Herbal Teas</a></td></tr>
+
+<tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/Holiday-Special.htm" class="st1">Holiday Special</a></td></tr>
+
+<tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/Homeopathy.htm" class="st1">Homeopathy</a></td></tr>
+
+<tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/Hoodia-Gordonii.htm" class="st1">Hoodia Gordonii</a></td></tr>
+
+<tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/Horny-Goat-Weed.htm" class="st1">Horny Goat Weed</a></td></tr>
+
+<tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/Human-Growth-Hormone.htm" class="st1">Human Growth Hormone</a></td></tr>
+
+<tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/Hyaluronic-Acid.htm" class="st1">Hyaluronic Acid</a></td></tr>
+
+<tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/Immune-System.htm" class="st1">Immune System</a></td></tr>
+
+<tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/Inositol.htm" class="st1">Inositol</a></td></tr>
+
+<tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/Joint-Health.htm" class="st1">Joint Health</a></td></tr>
+
+<tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/Jojoba-Oil.htm" class="st1">Jojoba Oil</a></td></tr>
+
+<tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/L-Arginine.htm" class="st1">L-Arginine</a></td></tr>
+
+<tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/L-Citrulline.htm" class="st1">L-Citrulline</a></td></tr>
+
+<tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/L-Lysine.htm" class="st1">L-Lysine</a></td></tr>
+
+<tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/Laci-Dieters-Tea.htm" class="st1">Laci Dieters Tea</a></td></tr>
+
+<tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/Lavender-oil.htm" class="st1">Lavender oil</a></td></tr>
+
+<tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/Lutein.htm" class="st1">Lutein</a></td></tr>
+
+<tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/Maca-Herb.htm" class="st1">Maca Herb</a></td></tr>
+
+<tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/Melatonin.htm" class="st1">Melatonin</a></td></tr>
+
+<tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/Men-s-Health.htm" class="st1">Men's Health</a></td></tr>
+
+<tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/Menopause.htm" class="st1">Menopause</a></td></tr>
+
+<tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/Mental-Health.htm" class="st1">Mental Health</a></td></tr>
+
+<tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/Milk-Thistle.htm" class="st1">Milk Thistle</a></td></tr>
+
+<tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/Minerals.htm" class="st1">Minerals</a></td></tr>
+
+<tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/MSM.htm" class="st1">MSM</a></td></tr>
+
+<tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/Muscle-Builder.htm" class="st1">Muscle Builder</a></td></tr>
+
+<tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/Mushrooms.htm" class="st1">Mushrooms</a></td></tr>
+
+<tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/Nettle.htm" class="st1">Nettle</a></td></tr>
+
+<tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/Niacin.htm" class="st1">Niacin</a></td></tr>
+
+<tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/Nutritional-Supplements.htm" class="st1">Nutritional Supplements</a></td></tr>
+
+<tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/Oral-Care.htm" class="st1">Oral Care</a></td></tr>
+
+<tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/Pets-Care.htm" class="st1">Pets Care</a></td></tr>
+
+<tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/Phenylalanine.htm" class="st1">Phenylalanine</a></td></tr>
+
+<tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/Policosanol.htm" class="st1">Policosanol</a></td></tr>
+
+<tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/Pregnenolone.htm" class="st1">Pregnenolone</a></td></tr>
+
+<tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/Progesterone.htm" class="st1">Progesterone</a></td></tr>
+
+<tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/Propolis.htm" class="st1">Propolis</a></td></tr>
+
+<tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/Pycnogenol.htm" class="st1">Pycnogenol</a></td></tr>
+
+<tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/Red-Clover.htm" class="st1">Red Clover</a></td></tr>
+
+<tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/Red-Rice-Yeast.htm" class="st1">Red Rice Yeast</a></td></tr>
+
+<tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/Resveratrol.htm" class="st1">Resveratrol</a></td></tr>
+
+<tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/Saw-Palmetto.htm" class="st1">Saw Palmetto</a></td></tr>
+
+<tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/Selenium.htm" class="st1">Selenium</a></td></tr>
+
+<tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/Senior-s-Health.htm" class="st1">Senior's Health</a></td></tr>
+
+<tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/Sexual-Vitality.htm" class="st1">Sexual Vitality</a></td></tr>
+
+<tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/Shark-Cartilage.htm" class="st1">Shark Cartilage</a></td></tr>
+
+<tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/Shea-Butter.htm" class="st1">Shea Butter</a></td></tr>
+
+<tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/Spirulina.htm" class="st1">Spirulina</a></td></tr>
+
+<tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/Sports-Nutrition.htm" class="st1">Sports Nutrition</a></td></tr>
+
+<tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/Spring-Season.htm" class="st1">Spring Season Special</a></td></tr>
+
+<tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/Stevia.htm" class="st1">Stevia</a></td></tr>
+
+<tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/Summer-Special.htm" class="st1">Summer Special</a></td></tr>
+
+<tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/Sytrinol.htm" class="st1">Sytrinol</a></td></tr>
+
+<tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/Valerian-Root.htm" class="st1">Valerian Root</a></td></tr>
+
+<tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/Vitamins.htm" class="st1">Vitamins</a></td></tr>
+
+<tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/Vitex.htm" class="st1">Vitex</a></td></tr>
+
+<tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/Winter-Special-Store.htm" class="st1">Winter Special Store</a></td></tr>
+
+<tr><td align="center" valign="middle" width="9" height="15"><img src="/images/bul.gif" alt=""></td><td style="padding-left:5px;"><a href="/Women-s-Health.htm" class="st1">Women's Health</a></td></tr>
+
+<tr><td colspan="2"><img src="/images/spacer.gif" alt=""><br><a href="/store.asp" class="st1"><b>&nbsp;&nbsp;View All Stores</b></a></td></tr>
 </tbody></table> 
- 
+ 								
 								</td> 
 							 </tr> 
 							<tr> 
-								 <td colspan="2"><img src="/images/spacer.gif" width="1" height="7"></td> 
+								 <td colspan="2"><img src="/images/spacer.gif" width="1" height="7" alt=""></td> 
 							 </tr> 
 						</tbody></table> 
 					 </td> 
@@ -614,48 +514,51 @@ function geoTrust()
 				 <!-- ************************************************************************************************--> 
 				  
 				 <!-- ************************************************************************************************--> 
-				 <form method="Get" name="subsfrm" action="/subscribe.asp" onsubmit="return Leftvalid();"></form> 
 					<tr> 
 						 <td align="center" width="152"> 
+	 				 <form method="get" name="subsfrm" action="/subscribe.asp" onsubmit="return Leftvalid();"> 
+						  <hr style="color:#CCCCCC;" size="1" width="90%"> 
 							<table border="0" cellspacing="0" cellpadding="0" align="center" width="155"> 
 								 <tbody><tr> 
 									<td height="15" width="149"> 
 										 <table width="98%" border="0" cellspacing="0" cellpadding="0" align="center"> 
 											<tbody><tr> 
-												<td align="center" style="padding-right:5px;"><a href="http://www.herbs-wholesale.com/subscribe.asp"><img src="/images/subscribenow.gif" border="0"></a></td>
+												<td align="center" style="padding-right:5px;"><a href="http://www.herbs-wholesale.com/subscribe.asp"><img src="/images/subscribenow.gif" border="0" alt=""></a></td>
 											 </tr> 
 										</tbody></table> 
 									 </td> 
 								</tr> 
-							 </tbody></table> 
+							 </tbody></table> </form> 
 						</td> 
 					 </tr> 
-				 
+				
 				 <tr> 
 					<td align="center"> 
-						<hr color="#CCCCCC" size="1" width="90%"> 
-						<a href="#" onclick="geoTrust();"><img src="/images/geo-trust-SSL.jpg" border="0"></a><br>
-						<img src="/images/spacer.gif" width="1" height="10"><br>
-						<a href="/shipping.asp#return"><img src="/images/100sg.jpg" border="0"></a><br>
-						<img src="/images/spacer.gif" width="1" height="10"><br>
-						<img src="/images/weaccept.jpg">
+						
+						<!--a href="#" onClick="geoTrust();"><img src="/images/geo-trust-SSL.jpg" border="0" alt="" /></a><br-->
+						
+						
+						
+						<img src="/images/spacer.gif" width="1" height="10" alt=""><br>
+					
 					 </td> 
 				</tr> 
 				<tr> 
-		<td align="center">
-		 <a href="/logooffer.html"> <img src="/images/logooffer_banner.gif" border="0" width="159"></a></td>
+		<td align="center" style="padding-right:7px;">
+		 <a href="/logooffer.html"><img src="/images/logooffer_banner.gif" border="0" width="159" alt=""></a></td>
 	</tr>
 			</tbody></table> 
-	 </td></tr> 
+			</td>
+	 </tr> 
 </tbody></table> 
 
     </td>
-    <td width="1" valign="top" bgcolor="#CCCCCC"><img src="/images/spacer.gif" width="1" height="7"></td>
-    <td width="597" valign="top"> 
+
+    <td width="597" valign="top" style="border-left:1px solid #CCCCCC;"> 
       <table width="98%" border="0" cellspacing="0" cellpadding="0" align="center">
         <tbody><tr> 
           <td class="verd1">
-            <h3><img src="/images/spacer.gif" width="1" height="7"><br>
+            <h3>
               Privacy Policy</h3>
             <p>Simply, We do not sell, rent or share personal information with 
               any third party. The information you give us is totally confidential, 
@@ -669,15 +572,15 @@ function geoTrust()
               Privacy Policy discloses our privacy practices and contains detailed 
               information about the following:</p>
             <ol>
-              <li><a href="#1" class="st1">What information of yours does the 
+              <li><a href="/privacy.asp#1" class="st1">What information of yours does the 
                 Herbs-Wholesale.com collect?</a></li>
-              <li><a href="#2" class="st1">What organization is collecting the information?</a></li>
-              <li><a href="#3" class="st1">What are "cookies" and how 
+              <li><a href="/privacy.asp#2" class="st1">What organization is collecting the information?</a></li>
+              <li><a href="/privacy.asp#3" class="st1">What are "cookies" and how 
                 does Herbs-Wholesale.com use them?</a></li>
-              <li><a href="#4" class="st1">How can you access or edit your information?</a></li>
-              <li><a href="#5" class="st1">What types of security procedures are in place 
+              <li><a href="/privacy.asp#4" class="st1">How can you access or edit your information?</a></li>
+              <li><a href="/privacy.asp#5" class="st1">What types of security procedures are in place 
                 to protect against the loss, misuse or alteration of your information?</a></li>
-              <li><a href="#6" class="st1">Notice</a></li>
+              <li><a href="/privacy.asp#6" class="st1">Notice</a></li>
             </ol>
             <p><b><a name="1"><font color="#000099">1. What information of yours 
               does the Herbs-Wholesale.com collect?</font></a></b><br>
@@ -781,58 +684,78 @@ function geoTrust()
 <table width="77%" border="0" cellspacing="0" cellpadding="0" align="center" height="30">
   <tbody><tr> 
     <td align="center"> 
-      <style>
-.HeadA { 
-		text-decoration: none; color: #000000;
-		}
-</style>
-<table width="99%" border="0" cellspacing="0" cellpadding="0" align="center">
+      
+<table width="99%" border="0" cellspacing="0" cellpadding="0" align="left">
   <tbody><tr> 
-    <td align="center" bgcolor="#999999" colspan="2"><img src="/images/spacer.gif" width="1" height="1"></td>
+    <td align="center" bgcolor="#999999" colspan="6"><img src="/images/spacer.gif" width="1" height="1" alt=""></td>
   </tr>
-  <tr> 
-  <td align="center" height="64" rowspan="3"><img src="/images/authorize.jpg" border="0"></td>
-    <td align="center" height="64" width="97%" class="h7"> 
-      Copyright © 2002 Herbs-Wholesale.Com, 
-        All rights reserved.<br>
-        Statement contained within this web site have not been evaluated by the Food and Drug Administration.<br>
-        These products are not intended to diagnose, cure, mitigate, treat, or prevent any disease.<br>
-    </td>
-    <td align="center" height="64" rowspan="3"><a href="http://www.herbs-wholesale.com/shipping.asp#rates"><img src="/images/ups.jpg" border="0"></a></td>
-  </tr>
-  
-  <tr> 
-    <td align="center" width="97%">       
-	<h6><a href="http://www.herbs-wholesale.com/about.asp" class="st1">About us</a> 
-	 &nbsp;- &nbsp;<a href="http://www.herbs-wholesale.com/contact.asp" class="st1">Contact us</a>
-	 &nbsp;- &nbsp;<a href="http://www.herbs-wholesale.com/shop/quickorder.asp" class="st1">Quick Order</a>
+  <tr>
+  	<td colspan="4" align="center">
+		  							
+							<h6><a href="http://www.herbs-wholesale.com/about.asp" class="st1" rel="nofollow">About us</a> 
+	 &nbsp;- &nbsp;<a href="http://www.herbs-wholesale.com/contact.asp" class="st1" rel="nofollow">Contact us</a>
+	 &nbsp;- &nbsp;<a href="http://www.herbs-wholesale.com/shop/quickorder.asp" class="st1" rel="nofollow">Quick Order</a>
 	 &nbsp;- &nbsp;<a href="http://www.herbs-wholesale.com/article/article.asp" class="st1">Health Articles</a>
-	 &nbsp;- &nbsp;<a href="http://www.herbs-wholesale.com/Ailments2.asp" class="st1">Ailments</a>
-	 &nbsp;- &nbsp;<a href="http://www.herbs-wholesale.com/Herb.asp" class="st1">Herbs</a>
-	 &nbsp;- &nbsp;<a href="http://www.herbs-wholesale.com/shipping.asp" class="st1">Shipping Policy</a><br>
-	 <a href="http://www.herbs-wholesale.com/privacy.asp" class="st1">Privacy Policy</a>
+	 &nbsp;- &nbsp;<a href="http://www.herbs-wholesale.com/Herb.asp" class="st1" rel="nofollow">Herbs</a>
+	 &nbsp;- &nbsp;<a href="http://www.herbs-wholesale.com/shipping.asp" class="st1" rel="nofollow">Shipping Policy </a>	 &nbsp;- &nbsp;
+	 <a href="http://www.herbs-wholesale.com/privacy.asp" class="st1" rel="nofollow"> Privacy Policy</a>
 	 &nbsp;- &nbsp;<a href="http://www.herbs-wholesale.com/online_affiliate_program.asp" class="st1">Affiliate Program</a>
 	 &nbsp;- &nbsp;<a href="http://www.herbs-wholesale.com/sitemap.asp" class="st1">Site Map</a>
-	 &nbsp;- &nbsp;<a href="http://www.herbs-wholesale.com/subscribe.asp" class="st1">Join Mailing List</a>
+	 &nbsp;- &nbsp;<a href="http://www.herbs-wholesale.com/subscribe.asp" class="st1" rel="nofollow">Join Mailing List</a>
 	 &nbsp;- &nbsp;<a href="http://www.herbs-wholesale.com/links.asp" class="st1" target="_balnk">Links</a>
 	 &nbsp;- &nbsp;<a href="http://www.herbs-wholesale.com/d_pages.asp" class="st1" target="_balnk">Internal Links</a>
-	 &nbsp;- &nbsp;<a href="http://www.giftforusa.com" class="st1">Gifts For Kids</a> 
+
 	&nbsp;- &nbsp;<a href="http://www.herbs-wholesale.com/productcatalog.html" class="st1">Product Catalog</a> 
-	 <!--a href="http://www.herbs-wholesale.com/linkexchange.asp" class="st1" target="_balnk">Link Exchange</a-->
-	</h6>
-    </td>
+	 </h6>
+	
+	 
+
+	</td>
   </tr>
   
   <tr> 
-    <td><img src="/images/spacer.gif" width="1" height="7"></td>
-  </tr>
+    <td align="center" height="64" valign="middle" rowspan="3"><img src="/images/authorize.jpg" border="0" alt=""></td>
+	<td align="center" height="64" valign="middle" rowspan="3"><a href="/shipping.asp#return"><img src="/images/seal-100.gif" border="0" alt="Seal"></a></td>		
+    <td align="center" valign="top" height="64" style="padding-top:6px;padding-left:4px;padding-right:2px;" width="70%" class="h7"> 
+      <p align="justify">Copyright © 2002 <a href="/" style="text-decoration:none;">Herbs-Wholesale.Com</a>, 
+        All rights reserved. Statement contained within this web site have not 
+        been evaluated by the Food and Drug Administration. These products are 
+        not intended to diagnose, cure, mitigate, treat, or prevent any disease.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/images/visa-master-amax.jpg" align="bottom" alt="">
+      </p>
+      </td>
 
+	<td>
+		<table align="center" border="0" cellpadding="0" cellspacing="0">
+			<tbody><tr>
+			<td align="center">
+				<img src="/images/spacer.gif" width="10" alt="">
+			</td>
+          <td align="center" valign="middle"> 
+	  
+			<script src="https://siteseal.thawte.com/cgi/server/thawte_seal_generator.exe" type=""></script> 
+						
+					 </td> 
+					 			<td align="center">
+				<img src="/images/spacer.gif" width="10" alt="">
+			</td>
+
+				
+			    <td align="center" height="64" valign="middle" rowspan="3"><a href="http://www.herbs-wholesale.com/shipping.asp#rates"><img src="/images/ups.jpg" border="0" alt=""></a>
+						<img src="/images/spacer.gif" width="1" height="10" alt=""><br>						
+				</td>
+			</tr>
+		</tbody></table>
+	</td>
+  </tr>  
+
+  <tr> 
+    <td align="center" valign="top" width="50%">       
+	
+    </td>
+  </tr>
+ 
 </tbody></table>
-<script language="javascript" type="text/javascript" src="//t7.auriq.com/asp/aq_tag.js"></script>
-<script language="javascript">
-var aqid = "AQZ2GLXVG4ZZNGB4GXJA";
-aq_tag();
-</script>
+
     </td>
   </tr>
 </tbody></table>
