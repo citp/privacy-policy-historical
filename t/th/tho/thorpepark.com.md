@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thorpepark.com privacy policy that was archived on 2007-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070519025651id_/http%3A//www.thorpepark.com/misc/privacy.asp%3Fcss%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thorpepark.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231124231id_/http%3A//www.thorpepark.com/misc/privacy.asp%3Fcss%3D2) for the most accurate reproduction.*
 
 # Thorpe Park: Privacy Policy
 
@@ -19,7 +19,7 @@ We will use the information you enter at the site for administration purposes an
 We may also disclose your personal information to third parties:
 
   1. in the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets
-  2. if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms and conditions of use](https://web.archive.org/web/20070519025651id_/http%3A//www.thorpepark.com/misc/terms.asp) **** or terms and conditions of supply and other agreements, or to protect the rights, property or safety of The Tussauds Group, our customers, or others.  This includes exchanging information with other companies and organisations for the purpose of fraud protection and credit risk reduction. 
+  2. if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms and conditions of use](https://web.archive.org/web/20071231124231id_/http%3A//www.thorpepark.com/misc/terms.asp) **** or terms and conditions of supply and other agreements, or to protect the rights, property or safety of The Tussauds Group, our customers, or others.  This includes exchanging information with other companies and organisations for the purpose of fraud protection and credit risk reduction. 
 
 
 
