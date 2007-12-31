@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunbelt-software.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626030507id_/http%3A//www.sunbelt-software.com/About/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunbelt-software.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231044519id_/http%3A//www.sunbelt-software.com/About/Privacy) for the most accurate reproduction.*
 
 # Sunbelt Software Privacy Statement
 
@@ -48,6 +48,6 @@ email: [abuse@sunbelt- software.com](mailto:abuse@sunbelt-software.com)
 The purchase and registration areas of our site (OnLineShop) are secure. This means that any information you send us is protected by encryption to prevent unauthorized access to your information. The secure site is indicated in the URL with the use of "https://", and often reflected at the bottom of your browser with a lock or key graphic.
 
 **Links**  
-Any links to external websites may be developed by people over whom Sunbelt Software exercises no control. These other sites may place their own cookies on your computer, collect data or solicit personal information.
+This website and any newsletter issued by any site affiliated with this site may contain links to other websites with whom we have a business relationship. Sunbelt Software does not review or screen these sites, and we are not responsible or liable for their privacy or data security practices, or the content of these sites.
 
-Sunbelt Software may present links in a format that enables us to understand whether they have been followed. We use this information to understand and improve the quality of our products and website. For instance, this data helps us determine how popular a product is and if there is anything we can do to improve on it. 
+Additionally, if you register with any of these sites, any information that you provide in the process of registration, such as your email address, credit card number or other personally identifiable information, will be transferred to these sites. For these reasons, you should be careful to review any privacy and data security policies posted on any of these sites before providing information to them. 
