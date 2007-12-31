@@ -1,22 +1,12 @@
-> *The following text is extracted and transformed from the majestic.co.uk privacy policy that was archived on 2007-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070507111212id_/http%3A//www.majestic.co.uk/webapp/wcs/stores/servlet/ContentView%3FstoreId%3D272%26langId%3D-1%26catalogId%3D10001%26contentPage%3Dsecurity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the majestic.co.uk privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231055421id_/http%3A//www.majestic.co.uk/Help/Privacy) for the most accurate reproduction.*
 
-# Majestic Wine Warehouses
+# Privacy Policy-Majestic
 
-### Our security policy
+## 
 
-Your personal and payment details are captured online using industry-standard 128-bit Secure Socket Layer technology, which encrypts all information to make it secure.
+Majestic customers can choose to be added to our postal mailing list and receive updated full colour price lists and other relevant information on our seasonal promotions. Customers may also subscribe to email newsletters. 
 
-You now have the option to save credit card details along with address details in your Express Checkout Profile, which speeds up the ordering process. This is entirely optional. Credit card information is held on our systems in encrypted form and can only be accessed by using your account password.
-
-We strongly advise that you keep your password secret at all times. Your password is also held on our systems in encrypted form and can not be accessed even by us. If you believe that somebody may have found out your password you should change it immediately. Alternatively, notify us at [info@majestic.co.uk](mailto:info@majestic.co.uk) and we can suspend your account.
-
-At Majestic we take fraud prevention extremely seriously. For your protection, when processing your order we will take all appropriate measures to validate your card details.
-
-### Our privacy policy
-
-Majestic has always held a customer database, and we have never given the details to anyone else. When you register with us, and whenever you are logged in, the information is captured using the same SSL technology as card details.
-
-Customers who shop with us can choose to be added to our mailing list and receive updated full colour price lists 5 times a year, together with other relevant information on our seasonal promotions. You may also subscribe to email updates. We do not release information to third parties. You have the option not to be included on the mailing list.
+Majestic has always held a customer database, and we have never given the details to anyone else. We do not release information to third parties, and you have the option not to be included and to remove yourself from our mailing lists at any time.
 
 We are committed to protecting your privacy. We will only use the information that we collect about you lawfully in accordance with the Data Protection Act 1998 and Directive on Privacy and Electronic Communications 2003.
 
@@ -26,7 +16,7 @@ We will not e-mail you in the future unless you have given us your consent in ac
 
   * Your name
   * Address
-  * Phone number
+  * Telehone number
   * E-mail address
   * Credit/debit card details
 
