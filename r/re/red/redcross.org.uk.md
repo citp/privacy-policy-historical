@@ -1,24 +1,24 @@
-> *The following text is extracted and transformed from the redcross.org.uk privacy policy that was archived on 2007-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070427213958id_/http%3A//www.redcross.org.uk/49555) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redcross.org.uk privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231152640id_/http%3A//www.redcross.org.uk/49555) for the most accurate reproduction.*
 
-# British Red Cross - Privacy
+# Privacy | British Red Cross
 
 At British Red Cross (BRCS) we are committed to protecting your privacy. This statement is made in light of the requirements of the Data Protection Act 1998 in order to alert you to BRCS’s data processing practices which will govern the processing of your data. If you have any queries about this statement, please contact the Legal Department at BRCS 
 
-How do we collect information? 
+## How do we collect information? 
 
 We will obtain personal information about  you when you enquire about our activities, register with us, make a donation or otherwise provide us with personal information. We may also receive information about you from third parties.
 
-What information do we collect?
+## What information do we collect?
 
 The types of information we might collect includes, names, addresses, e-mail addresses, telephone numbers, fax numbers and credit / debit card details.
 
-How do we use your information?
+## How do we use your information?
 
 We will use your information to provide you with the information, products or services you have requested, for administration purposes, to further our charitable aims and to comply with the law. We may need to share your information with our trading subsidiaries, service providers, associated organisations and agents for these purposes.
 
 We may also share your information with other organisations who are supportive of our charitable objectives. When you provide your details you will be asked if you do not want this to happen. You can change your mind by contacting us at any time.
 
-Do we use 'cookies'?
+## Do we use 'cookies'?
 
 'Cookies' are small pieces of information sent by an organisation to your computer and stored on your hard drive to allow that organisation to recognise you when you next visit.
 
@@ -27,22 +27,23 @@ BRCS may store information about you and your activity in cookies. If you want t
   
 If you want to stop cookies being filed on your computer in the future, please refer to your internet browser’s instructions. Please note that by deleting or disabling future cookies you may not be able to access certain parts of our site.
 
-How do we protect personal information?
+## How do we protect personal information?
 
 We take appropriate measures to ensure that the information disclosed to us is kept secure, accurate and up to date and kept only for so long as is necessary for the purposes for which it is used.
 
-Your consent
+## Your consent
 
 By providing us with your personal data, including 'sensitive' personal data such as on your health, you consent to the collection and use of any information you provide in accordance with the above purposes and this privacy statement.
 
 You also consent to our transferring your information to countries or jurisdictions which may not provide the same level of data protection as the UK, if necessary for any of the above purposes. If we do make such a transfer, we will, if appropriate, put in place a contract to ensure your information is properly protected.
 
-Right of access
+## Right of access
 
 You have the right to ask for a copy of the information we hold about you, for which we may charge a small fee and to have any inaccuracies in your information corrected.
 
-Changes
+## Changes
 
 If your personal details change, please help us to keep your information up to date by notifying us at the above address.
 
-We reserve the right to amend this privacy statement at any time. If we do, we will post notice of the change on our website and you will be deemed to have accepted such changes.
+We reserve the right to amend this privacy statement at any time. If we do, we will post notice of the change on our website and you will be deemed to have accepted such changes.  
+
