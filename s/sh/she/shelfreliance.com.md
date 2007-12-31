@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shelfreliance.com privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622072546id_/http%3A//www.shelfreliance.com/about-us/privacy-notice.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shelfreliance.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231175218id_/http%3A//www.shelfreliance.com/about-us/privacy-notice.php) for the most accurate reproduction.*
 
 # Food Storage Racks | Food Rotation Systems | 72 Hour Kits
 
