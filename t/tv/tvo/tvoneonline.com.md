@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tvoneonline.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626050809id_/http%3A//www.tvoneonline.com/inside_tvone/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvoneonline.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231043341id_/http%3A//www.tvoneonline.com/inside_tvone/privacy_policy.asp) for the most accurate reproduction.*
 
 # TV One Online > Inside TV One > Privacy Policy
 
@@ -13,7 +13,7 @@ This Site is a general audience site and is intended for users (a) that reside i
 
 **YOUR CALIFORNIA PRIVACY RIGHTS**
 
-Under Cal. Civ. Code § 1798.83, California residents may request certain information regarding the disclosure of personally identifiable information to third parties for direct marketing purposes. However, a company may elect to post and adhere to a privacy policy which clearly stipulates how individuals may opt-in or opt-out of the use or disclosure of personally identifiable information. TV One provides California residents the option to opt-in or opt-out of the disclosure of personally identifiable information for direct marketing purposes and encourages you to send an email to: ____________________ with "CA Privacy Rights" in the re line if you have questions about the choices you have made regarding the disclosure of personally identifiable information to third parties, how to exercise your third party disclosure choices, or if you have other questions regarding your privacy rights. You may also write to:
+Under Cal. Civ. Code § 1798.83, California residents may request certain information regarding the disclosure of personally identifiable information to third parties for direct marketing purposes. However, a company may elect to post and adhere to a privacy policy which clearly stipulates how individuals may opt-in or opt-out of the use or disclosure of personally identifiable information. TV One provides California residents the option to opt-in or opt-out of the disclosure of personally identifiable information for direct marketing purposes and encourages you to send an email to: [privacy@tvoneonline.com](mailto:privacy@tvoneonline.com) with "CA Privacy Rights" in the re line if you have questions about the choices you have made regarding the disclosure of personally identifiable information to third parties, how to exercise your third party disclosure choices, or if you have other questions regarding your privacy rights. You may also write to:
 
 TV One  
 1010 Wayne Avenue  
@@ -88,7 +88,7 @@ Furthermore, TV One may allow you access to or direct you to third party softwar
 
 **WHAT TO DO IF YOU HAVE QUESTIONS**
 
-If you have any questions, comments or concerns about this Privacy Policy, or about TV One’s privacy practices, pleases send an email to: ____________________ with "Privacy Rights" in the re line or write to: 
+If you have any questions, comments or concerns about this Privacy Policy, or about TV One’s privacy practices, pleases send an email to: [privacy@tvoneonline.com](mailto:privacy@tvoneonline.com) with "Privacy Rights" in the re line or write to: 
 
 TV One  
 1010 Wayne Avenue  
