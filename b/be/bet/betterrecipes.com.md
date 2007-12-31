@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the betterrecipes.com privacy policy that was archived on 2007-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070518131847id_/http%3A//betterrecipes.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betterrecipes.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231010227id_/http%3A//www.betterrecipes.com/privacypolicy.html) for the most accurate reproduction.*
 
 # None
 
