@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sojones.com privacy policy that was archived on 2007-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070219051145id_/http%3A//www.sojones.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sojones.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231214632id_/http%3A//www.sojones.com/privacy.html) for the most accurate reproduction.*
 
 # URBAN FASHION AND HIP HOP FASHION : TRENDS LIVE & DIRECT : URB1.COM : : THE ORIGINAL URBAN AND HIPHOP FASHION FOCUSED SITE - HIP HOP CLOTHING
 
