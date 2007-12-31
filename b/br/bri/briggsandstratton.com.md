@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the briggsandstratton.com privacy policy that was archived on 2007-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070404213624id_/http%3A//www.briggsandstratton.com/display/AppLinkRedir.asp%3FDocID%3D74934%26LRID%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the briggsandstratton.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231022606id_/http%3A//www.briggsandstratton.com/display/AppLinkRedir.asp%3FDocID%3D74934%26LRID%3D1) for the most accurate reproduction.*
 
 # PRIVACY STATEMENT - Briggs & Stratton
 
@@ -14,7 +14,7 @@
 
 | Privacy Statement  
 ---  
-This privacy statement discloses the privacy practices for http://www.briggsandstratton.com. This web site has agreed to notify you of: 
+This privacy statement discloses the privacy practices for http://www4.briggsandstratton.com. This web site has agreed to notify you of: 
 
   1. What personally identifiable information of yours is collected from you on the web site 
   2. The organization collecting the information 
@@ -25,7 +25,6 @@ This privacy statement discloses the privacy practices for http://www.briggsands
   7. How you can correct any inaccuracies in the information. 
 
   
-If you feel that this company is not abiding by its posted privacy policy, you should first contact the Webmaster by sending an email to [webmaster@basco.com](http://faqs.custhelp.com/cgi-bin/faqs.cfg/php/enduser/std_alp.php).   
 Information Collection and Use  
 The Briggs & Stratton Corporation is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. The Briggs & Stratton Corporation collects information from our users at several different points on our web site.  
 My Engine Information: Registration  
@@ -45,11 +44,10 @@ From time-to-time our site requests information from users via surveys or contes
 Security  
 This web site takes the following precautions to protect our users' information. When users submit sensitive information via the website, your information is protected both online and off-line.
 
-All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, a customer service representative) are granted access to personally identifiable information. ALL employees are kept up-to-date on our security and privacy practices. Every time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers' information is protected. Finally, the servers that we store personally identifiable information on are kept in a secure environment, behind a locked cage.
-
-If you have any questions about the security at our website, you can send an email to   
+All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, a customer service representative) are granted access to personally identifiable information. ALL employees are kept up-to-date on our security and privacy practices. Every time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers' information is protected. Finally, the servers that we store personally identifiable information on are kept in a secure environment, behind a locked cage.  
   
-[webmaster@basco.com](mailto:webmaster@basco.com).  
+  
+  
 Supplementation of Information  
 In order for this website to enhance its ability to tailor the site to an individual's preference, we may combine information about the purchasing habits of users with similar information from our merchant associates to create a personalized user profile. When a user makes a purchase from our merchant partners, the companies collect and share that purchase information with us so we can tailor the site to our users' preferences.  
 Correction/Updating Personal Information  
