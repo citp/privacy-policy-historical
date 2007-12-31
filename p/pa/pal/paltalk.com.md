@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the paltalk.com privacy policy that was archived on 2007-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070621084707id_/http%3A//www.paltalk.com/en/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paltalk.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231122916id_/http%3A//www.paltalk.com/en/privacy.shtml) for the most accurate reproduction.*
 
 # Paltalk Privacy Policy
 
 Paltalk is committed to protecting your privacy. We want you to feel free to express yourself within the Paltalk community, and are committed to ensuring that you are in control of what you share with the rest of the community, and with Paltalk. 
-
-Paltalk is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site www.Paltalk.com. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. If you have questions or concerns regarding this statement, you should first contact [privacy@corp.paltalk.com](mailto:privacy@corp.paltalk.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns. The TRUSTe program covers information that is collected through this Web site and, does not cover information that may be collected through software downloaded from this site. 
 
 **_Information Collection & Use_**
 
