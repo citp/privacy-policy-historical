@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the melbourneit.com.au privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629151802id_/http%3A//www.melbourneit.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the melbourneit.com.au privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231220621id_/http%3A//www.melbourneit.com.au/privacy) for the most accurate reproduction.*
 
 # Melbourne IT
 
@@ -93,9 +93,9 @@ Our relationships with such third party service providers are governed by our co
 **Accuracy**  
 Back to Top
 
-You may access and update the personal information we provide to the registries in respect of your domain name licence at any time. The procedure to do this is explained on the Help Centre on our website at [http://www.inww.com/help ](http://www.inww.com/help)
+You may access and update the personal information we provide to the registries in respect of your domain name licence at any time. The procedure to do this is explained on the Help Centre on our website at [http://www.melbourneit.com.au/help ](https://web.archive.org/help)
 
-If you believe that Melbourne IT may hold other personal information about you which is inaccurate, please contact us by using this [web form](http://www.melbourneit.com.au/privacy/comment.php) and we will take reasonable steps to ensure that it is corrected. 
+If you believe that Melbourne IT may hold other personal information about you which is inaccurate, please contact us by using this [web form](https://web.archive.org/contacts/support.php?action=fillinmail&subject=Privacy) and we will take reasonable steps to ensure that it is corrected. 
 
 **Security**  
 Back to Top
