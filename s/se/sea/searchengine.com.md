@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchengine.com privacy policy that was archived on 2007-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070501183203id_/http%3A//www.searchengine.com/Terms_of_use/privacystatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchengine.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231044926id_/http%3A//searchengine.com/Terms_of_use/privacystatement.asp) for the most accurate reproduction.*
 
 # Product Search - searchengine.com
 
