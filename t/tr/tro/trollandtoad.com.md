@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trollandtoad.com privacy policy that was archived on 2007-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070527193207id_/http%3A//www.trollandtoad.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trollandtoad.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231065305id_/http%3A//www.trollandtoad.com/privacy.php) for the most accurate reproduction.*
 
 # TrollAndToad.com: Privacy & Security
 
