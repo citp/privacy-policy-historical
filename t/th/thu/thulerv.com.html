@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the thulerv.com privacy policy that was archived on 2007-03-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070321125422id_/http%3A//www.thulerv.com/privacy_policy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thulerv.com privacy policy that was archived on 2007-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071231141754id_/http%3A//www.thulerv.com/privacy_policy.htm) for the most accurate reproduction.-->
 
 <html><head>
 <title>Thule SMART RV</title>
@@ -38,22 +38,206 @@ body  {margin:0px;padding:0px}
 	font-size: 15px;
 	color: #afaeae;
 }
-.style2 {
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 15px;
-	color: #5aa0e5;
-	font-weight: bold;
-}
 body,td,th {
 	font-family: Arial, Helvetica, sans-serif;
 }
-.style3 {color: #000000}
+.style6 {color: #000000}
+
+.style8 {color: #903F98}
+.style10 {
+	color: #FFFFFF;
+	font-weight: bold;
+	font-size: 12px;
+	text-decoration:none;
+}
+.style12 {font-size: 13px}
+.style13 {color: #FFFFFF}
 -->
+#dropmenudiv{
+position:absolute;
+border:1px solid black;
+border-bottom-width: 0;
+font:normal 12px Verdana;
+line-height:18px;
+z-index:100;
+}
+
+#dropmenudiv a{
+width: 100%;
+display: block;
+text-indent: 3px;
+border-bottom: 1px solid black;
+padding: 1px 0;
+text-decoration: none;
+font-weight: bold;
+color: #000000;
+}
+
+#dropmenudiv a:hover{ /*hover background color*/
+background-color: #c9ba65;
+}
 </style>
 
-</head>
-<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
-<!-- ImageReady Slices (1_home.psd - Slices: 02, 03, bottom, flash) -->
+<script type="text/javascript">
+
+/***********************************************
+* AnyLink Drop Down Menu- © Dynamic Drive (www.dynamicdrive.com)
+* This notice MUST stay intact for legal use
+* Visit http://www.dynamicdrive.com/ for full source code
+***********************************************/
+
+//Contents for menu 1
+var menu1=new Array()
+menu1[0]='<a href="about_us.htm">Who We Are</a>'
+menu1[1]='<a href="press_room.htm">Press Room</a>'
+menu1[2]='<a href="careers.htm">Careers</a>'
+
+//Contents for menu 2, and so on
+var menu2=new Array()
+menu2[0]='<a href="products_smartrv.htm">Smart RV Products</a>'
+menu2[1]='<a href="products_rvessentials.htm">RV Accessories</a>'
+
+//Contents for menu 3, and so on
+var menu3=new Array()
+menu3[0]='<a href="buy_rv.htm">Buy A Smart RV</a>'
+
+//Contents for menu 4, and so on
+var menu4=new Array()
+menu4[0]='<a href="/pdf/RV_FitGuide.pdf">RV Fitguide</a>'
+menu4[1]='<a href="faqs.htm">FAQs</a>'
+menu4[2]='<a href="online_resources.htm">Online Resources</a>'
+menu4[3]='<a href="instructions.htm">Instructions</a>'
+		
+var menuwidth='165px' //default menu width
+var menubgcolor='#d4d8bd'  //menu bgcolor
+var disappeardelay=250  //menu disappear speed onMouseout (in miliseconds)
+var hidemenu_onclick="yes" //hide menu when user clicks within menu?
+
+/////No further editting needed
+
+var ie4=document.all
+var ns6=document.getElementById&&!document.all
+
+if (ie4||ns6)
+document.write('<div id="dropmenudiv" style="visibility:hidden;width:'+menuwidth+';background-color:'+menubgcolor+'" onMouseover="clearhidemenu()" onMouseout="dynamichide(event)"></div>')
+
+function getposOffset(what, offsettype){
+var totaloffset=(offsettype=="left")? what.offsetLeft : what.offsetTop;
+var parentEl=what.offsetParent;
+while (parentEl!=null){
+totaloffset=(offsettype=="left")? totaloffset+parentEl.offsetLeft : totaloffset+parentEl.offsetTop;
+parentEl=parentEl.offsetParent;
+}
+return totaloffset;
+}
+
+
+function showhide(obj, e, visible, hidden, menuwidth){
+if (ie4||ns6)
+dropmenuobj.style.left=dropmenuobj.style.top="-500px"
+if (menuwidth!=""){
+dropmenuobj.widthobj=dropmenuobj.style
+dropmenuobj.widthobj.width=menuwidth
+}
+if (e.type=="click" && obj.visibility==hidden || e.type=="mouseover")
+obj.visibility=visible
+else if (e.type=="click")
+obj.visibility=hidden
+}
+
+function iecompattest(){
+return (document.compatMode && document.compatMode!="BackCompat")? document.documentElement : document.body
+}
+
+function clearbrowseredge(obj, whichedge){
+var edgeoffset=0
+if (whichedge=="rightedge"){
+var windowedge=ie4 && !window.opera? iecompattest().scrollLeft+iecompattest().clientWidth-15 : window.pageXOffset+window.innerWidth-15
+dropmenuobj.contentmeasure=dropmenuobj.offsetWidth
+if (windowedge-dropmenuobj.x < dropmenuobj.contentmeasure)
+edgeoffset=dropmenuobj.contentmeasure-obj.offsetWidth
+}
+else{
+var topedge=ie4 && !window.opera? iecompattest().scrollTop : window.pageYOffset
+var windowedge=ie4 && !window.opera? iecompattest().scrollTop+iecompattest().clientHeight-15 : window.pageYOffset+window.innerHeight-18
+dropmenuobj.contentmeasure=dropmenuobj.offsetHeight
+if (windowedge-dropmenuobj.y < dropmenuobj.contentmeasure){ //move up?
+edgeoffset=dropmenuobj.contentmeasure+obj.offsetHeight
+if ((dropmenuobj.y-topedge)<dropmenuobj.contentmeasure) //up no good either?
+edgeoffset=dropmenuobj.y+obj.offsetHeight-topedge
+}
+}
+return edgeoffset
+}
+
+function populatemenu(what){
+if (ie4||ns6)
+dropmenuobj.innerHTML=what.join("")
+}
+
+
+function dropdownmenu(obj, e, menucontents, menuwidth){
+if (window.event) event.cancelBubble=true
+else if (e.stopPropagation) e.stopPropagation()
+clearhidemenu()
+dropmenuobj=document.getElementById? document.getElementById("dropmenudiv") : dropmenudiv
+populatemenu(menucontents)
+
+if (ie4||ns6){
+showhide(dropmenuobj.style, e, "visible", "hidden", menuwidth)
+
+dropmenuobj.x=getposOffset(obj, "left")
+dropmenuobj.y=getposOffset(obj, "top")
+dropmenuobj.style.left=dropmenuobj.x-clearbrowseredge(obj, "rightedge")+"px"
+dropmenuobj.style.top=dropmenuobj.y-clearbrowseredge(obj, "bottomedge")+obj.offsetHeight+"px"
+}
+
+return clickreturnvalue()
+}
+
+function clickreturnvalue(){
+if (ie4||ns6) return false
+else return true
+}
+
+function contains_ns6(a, b) {
+while (b.parentNode)
+if ((b = b.parentNode) == a)
+return true;
+return false;
+}
+
+function dynamichide(e){
+if (ie4&&!dropmenuobj.contains(e.toElement))
+delayhidemenu()
+else if (ns6&&e.currentTarget!= e.relatedTarget&& !contains_ns6(e.currentTarget, e.relatedTarget))
+delayhidemenu()
+}
+
+function hidemenu(e){
+if (typeof dropmenuobj!="undefined"){
+if (ie4||ns6)
+dropmenuobj.style.visibility="hidden"
+}
+}
+
+function delayhidemenu(){
+if (ie4||ns6)
+delayhide=setTimeout("hidemenu()",disappeardelay)
+}
+
+function clearhidemenu(){
+if (typeof delayhide!="undefined")
+clearTimeout(delayhide)
+}
+
+if (hidemenu_onclick=="yes")
+document.onclick=hidemenu
+
+</script></head><body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0"><div id="dropmenudiv" style="visibility:hidden;width:165px;background-color:#d4d8bd" onmouseover="clearhidemenu()" onmouseout="dynamichide(event)"></div>
+
+
+
 <table width="766" height="100%" border="0" cellpadding="0" cellspacing="0" align="center">
 	<tbody><tr>
 		<td width="766" height="264" alt="" valign="top">
@@ -65,24 +249,18 @@ body,td,th {
 	<tr>
 		<td>
 			<img src="images/left_men.jpg" width="15" height="33" alt=""></td>
-		<td background="images/m1.jpg" width="123" height="33" alt="" valign="top">
-		<div style="margin-top:10px " align="center"><a href="default.htm" style="color:#FFFFFF; text-decoration:none "><strong>Home page</strong></a></div>
-		</td>
+		<td background="images/m1.jpg" width="123" height="33">
+		  <div style="margin-top:10px " align="center"><a href="default.htm" class="style10">Home Page</a></div></td>
 		<td background="images/m2.jpg" width="123" height="33" alt="" valign="top">
-		<div style="margin-top:10px " align="center"><a href="about_us.htm" style="color:#FFFFFF; text-decoration:none "><strong>About Us</strong></a></div>
-		</td>
+		<div style="margin-top:10px " align="center"><a href="about_us.htm" class="style10" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, menu1, '150px')" onmouseout="delayhidemenu()">About Us</a></div>		</td>
 		<td background="images/m3.jpg" width="123" height="33" alt="" valign="top">
-		<div style="margin-top:10px " align="center"><a href="technology.htm" style="color:#FFFFFF; text-decoration:none "><strong>Our Technology </strong></a></div>
-		</td>
+		<div style="margin-top:10px " align="center"><a href="products.htm" class="style10" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, menu2, '150px')" onmouseout="delayhidemenu()">Products</a></div>		</td>
 		<td background="images/m4.jpg" width="123" height="33" alt="" valign="top">
-		<div style="margin-top:10px " align="center"><a href="products.htm" style="color:#FFFFFF; text-decoration:none "><strong>Products</strong></a></div>
-		</td>
+		<div style="margin-top:10px " align="center"><a href="smartrv_retailers.htm" class="style10" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, menu3, '150px')" onmouseout="delayhidemenu()">Dealer Locator</a></div>		</td>
 		<td background="images/m5.jpg" width="123" height="33" alt="" valign="top">
-		<div style="margin-top:10px " align="center"><a href="smartrv_retailers.htm" style="color:#FFFFFF; text-decoration:none "><strong>Find A Retailer </strong></a></div>
-		</td>
+		<div style="margin-top:10px " align="center"><a href="smartrv_retailers.htm" class="style10" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, menu4, '150px')" onmouseout="delayhidemenu()">Customer Service</a></div>		</td>
 		<td background="images/m6.jpg" width="121" height="33" alt="" valign="top">
-		<div style="margin-top:10px " align="center"><a href="contact_us.htm" style="color:#FFFFFF; text-decoration:none "><strong>Contact us</strong></a></div>
-		</td>
+		<div style="margin-top:10px " align="center"><a href="contact_us.htm" style="color:#FFFFFF; text-decoration:none "><strong>Contact us</strong></a></div>		</td>
 		<td>
 			<img src="images/right_men.jpg" width="15" height="33" alt=""></td>
 	</tr>
@@ -99,7 +277,7 @@ body,td,th {
 		<table width="734" height="28" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
     <td valign="top">
-	<div style="margin-left:12px; margin-top:6px "><span class="style2"><span class="style3">Thule</span> Privacy</span><span class="gray_text"> and security policy</span> </div>
+	<div style="margin-left:12px; margin-top:6px "><span class="green_text">Thule Privacy</span><span class="gray_text"> and security policy</span> </div>
 	<img src="images/spacer.gif"><img src="images/spacer.gif"></td>
     </tr>
 </tbody></table>
@@ -166,12 +344,10 @@ body,td,th {
 	</tr>
 	<tr>
 		<td background="images/bot_px.jpg" width="766" height="100%" alt="" valign="top">
-		<table width="766" height="100%" border="0" cellspacing="0" cellpadding="0" background="images/bottom.jpg" style="background-repeat:no-repeat ">
-		  <tbody><tr><td valign="top">
-	<div align="center" style="margin-top:13px; color:#FFFFFF "><strong><a href="default.htm" style="color:#FFFFFF; text-decoration:none ">Home page</a><img src="images/spacer.gif" width="12" height="1">::<img src="images/spacer.gif" width="12" height="1"><a href="about_us.htm" style="color:#FFFFFF; text-decoration:none ">About Us </a><img src="images/spacer.gif" width="12" height="1">::<img src="images/spacer.gif" width="12" height="1"><a href="technology.htm" style="color:#FFFFFF; text-decoration:none ">Our Technology </a><img src="images/spacer.gif" width="12" height="1">::<img src="images/spacer.gif" width="12" height="1"><a href="products.htm" style="color:#FFFFFF; text-decoration:none ">Products</a><img src="images/spacer.gif" width="12" height="1">::<img src="images/spacer.gif" width="12" height="1"><a href="smartrv_retailers.htm" style="color:#FFFFFF; text-decoration:none ">Find A Retailer </a><img src="images/spacer.gif" width="12" height="1">::<img src="images/spacer.gif" width="12" height="1"><a href="contact_us.htm" style="color:#FFFFFF; text-decoration:none ">Contact us</a></strong><strong><a href="file:///D|/Web/Comps/RV/6446/without_flash/html/index-4.html" style="color:#FFFFFF; text-decoration:none "> </a><img src="images/spacer.gif" width="12" height="1">::<img src="images/spacer.gif" width="12" height="1"><a href="privacy_policy.htm" style="color:#FFFFFF; text-decoration:none ">Privacy Policy </a></strong></div>
-	<div align="center" style="margin-top:20px;  "><a href="file:///D|/Web/Comps/RV/6446/without_flash/html/index-6.html" style="color:#9F9E9E; text-decoration:none ">Copyright © 2006 -  Thule, Inc. All rights reserved.</a></div>
-	</td></tr>
-		</tbody></table></td>
+		<table width="766" height="100%" border="0" cellspacing="0" cellpadding="0" background="images/bottom.jpg" style="background-repeat:no-repeat "><tbody><tr><td valign="top">
+	<div align="center" style="margin-top:13px; color:#FFFFFF "><strong><a href="default.htm" style="color:#FFFFFF; text-decoration:none ">Home page</a><img src="images/spacer.gif" width="12" height="1">::<img src="images/spacer.gif" width="12" height="1"><a href="about_us.htm" style="color:#FFFFFF; text-decoration:none ">About Us </a><img src="images/spacer.gif" width="12" height="1">::<img src="images/spacer.gif" width="12" height="1"><a href="technology.htm" style="color:#FFFFFF; text-decoration:none ">Products </a><img src="images/spacer.gif" width="12" height="1">::<img src="images/spacer.gif" width="12" height="1"><a href="products.htm" style="color:#FFFFFF; text-decoration:none ">Dealer Locator</a><img src="images/spacer.gif" width="12" height="1">::<img src="images/spacer.gif" width="12" height="1"><a href="smartrv_retailers.htm" style="color:#FFFFFF; text-decoration:none ">Customer Service </a><img src="images/spacer.gif" width="12" height="1">::<img src="images/spacer.gif" width="12" height="1"><a href="contact_us.htm" style="color:#FFFFFF; text-decoration:none ">Contact us</a></strong><strong><a href="file:///D|/Web/Comps/RV/6446/without_flash/html/index-4.html" style="color:#FFFFFF; text-decoration:none "> </a><img src="images/spacer.gif" width="12" height="1">::<img src="images/spacer.gif" width="12" height="1"><a href="privacy_policy.htm" style="color:#FFFFFF; text-decoration:none ">Privacy Policy </a></strong></div>
+	<div align="center" style="margin-top:20px;  ">Copyright © 2007 -  Thule, Inc. All rights reserved.</div>
+	</td></tr></tbody></table></td>
 	</tr>
 </tbody></table>
 <!-- End ImageReady Slices -->
