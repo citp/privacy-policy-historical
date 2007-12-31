@@ -1,22 +1,25 @@
-> *The following text is extracted and transformed from the furniture.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208214348id_/http%3A//www.furniture.com/Common/CustomerService/policies/default.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the furniture.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231113107id_/http%3A//www.furniture.com/common/CustomerService/policies/default.asp%237) for the most accurate reproduction.*
 
 # Furniture.com
 
-|   
----  
+|   | 
+
+|  | [](http://www.furniture.com/default.aspx?se=906) |  | [](http://www.furniture.com/Common/Advice/default.asp) | [](http://www.furniture.com/Common/CustomerService/default.asp) | [](http://www.furniture.com/Common/Order/shoppingcart.asp?se=21) |   
+---|---|---|---|---|---  
+   
 |   |    
 |   
 ---  
-**Furniture.com Respects Your Privacy** |   
-Effective April 17, 2002
+**We Protect Your Privacy** |   
+Last Updated: June 20, 2006
 
-[]() When you visit any website, your computer “talks” with other computers. Each computer asks the others questions, and information passes among them. Except for information or commands you enter yourself, most of this process just saves you the bother of entering all kinds of technical codes. That’s what makes the Web so easy to use. 
+[]()
 
 At Furniture.com, we believe you’re entitled to decide what information you share with us and how it is used, so we answer your questions about privacy up front! 
 
-Furniture.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users’ trust and confidence in the Internet by promoting the use of fair information practices. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
+Furniture.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users’ trust and confidence in the Internet by promoting the use of fair information practices. This privacy covers the site www.furniture.com. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
 
-If you have questions or concerns regarding this statement, you should first contact Furniture.com’s privacy coordinator by e-mailing privacy@furniture.com. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at [ http://www.truste.org/users/users_watchdog.html ](http://www.truste.org/users/users_watchdog.html). TRUSTe will then serve as a liaison with the Web site to resolve your concerns.   
+If you have questions or concerns regarding this statement, you should first contact Furniture.com’s privacy coordinator by e-mailing privacy@furniture.com. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at [ http://www.truste.org/consumers/watchdog_complaint.php](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with the Web site to resolve your concerns.   
   
 **1\. Why does Furniture.com gather visitor information?**  
 We gather information with three objectives in mind: 
@@ -27,7 +30,7 @@ b. To learn how we can improve your shopping experience.
 
 c. To help us meet our commitment to privacy. 
 
-When you visit Furniture.com, you have the option of getting a Furniture.com user account, which is required to place an order from Furniture.com. A Furniture.com user account also gives you free access to these valuable features: 
+When you visit Furniture.com, you have the option of creating a Furniture.com user account, which is required to place an order from Furniture.com. A Furniture.com user account also gives you free access to these valuable features: 
 
 • Save your selections for as long as you like. 
 
@@ -35,13 +38,25 @@ When you visit Furniture.com, you have the option of getting a Furniture.com use
 
 • View delivery details and lead times instantly. 
 
-Getting a user account is easy: 
+Creating a user account is easy: 
 
-• Enter your e-mail address. 
+• Enter your name. 
 
-• Choose and confirm a password, and you can ask us to remember you automatically. 
+• Enter and confirm your e-mail address. 
 
-If a user elects to use our referral service for informing a friend about our site, we ask them for the friend’s name and e-mail address. Furniture.com will automatically send the friend a one-time e-mail inviting them to visit the site. Furniture.com stores this information for the sole purpose of sending this one-time e-mail and tracking the success of our referral program. The friend may contact Furniture.com at privacy@furniture.com to request the removal of this information from our database.   
+• Enter your Zip Code. 
+
+• Choose and confirm a password.
+
+When you place an order, we will ask for additional information needed to fulfill your order: 
+
+• Your delivery address and phone. 
+
+• Your billing address and phone. 
+
+• Your credit card information.
+
+If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and e-mail address. Furniture.com will automatically send the friend a one-time e-mail inviting them to visit the site. Furniture.com stores this information for the sole purpose of sending this one-time e-mail and tracking the success of our referral program. The friend may contact Furniture.com at privacy@furniture.com to request the removal of this information from our database.   
   
 **2\. How does Furniture.com remember me automatically?**  
 Furniture.com uses a technology called “cookies” to remember you and the information you are saving. When you visit Furniture.com, we send you back a cookie, a small text file that includes a temporary inquiry number, your IP address, plus any items you’ve chosen. The information we store in cookies is also linked to any personally identifiable information you submit while on our site. Your web browser has a special folder on your computer where it keeps cookies. Cookies cannot harm your computer in any way. Only the website that places a cookie on your computer is allowed to read it; no other website may access the cookie Furniture.com places on your computer. 
@@ -52,7 +67,9 @@ Cookies make your shopping experience much easier. If you are trying to decide b
 
 When you add an item to your Shopping Cart, request a price, or place an order, your cookie may hold information with the details of the items you’re considering ordering. 
 
-If you don’t want any information stored in a cookie, you can set your browser not to accept cookies, but remember that cookies make your purchases easy. They enable your computer to keep a list of items you’re considering or to place them directly in your Shopping Cart (so you don’t have to re-enter them manually).  
+If you don’t want any information stored in a cookie, you can set your browser not to accept cookies, but remember that cookies make your purchases easy. They enable your computer to keep a list of items you’re considering or to place them directly in your Shopping Cart (so you don’t have to re-enter them manually). 
+
+Please note, some of our business partners (e.g., web analytics providers) use cookies on our site to report on the performance of our website. We have no access or control over these cookies. This privacy statement covers the use of cookies by www.furniture.com only, and does not cover the use of cookies by any third parties.  
   
 **3\. What visitor information does Furniture.com keep track of?**  
 Information tracked automatically is generic and doesn’t include any personal details: 
@@ -80,27 +97,38 @@ Furniture.com has an absolute commitment to keep your information secure. The in
 
 The financial institutions processing your payment or your financing application may send us supplemental information if there is a problem in completing the transaction. The retailer / shipper fulfilling your order may send us supplemental information if there is a problem with delivery. This information is used only in processing your order(s) from Furniture.com. 
 
-Information about your browser helps us improve the way our site appears on your computer and make sure our site is up to date and compatible with your system. Traffic reports (information about sites that refer visitors to us) help us select the best places to reach people interested in shopping for furniture online.  
+Information about your browser helps us improve the way our site appears on your computer and makes sure our site is up to date and compatible with your system. Traffic reports (information about sites that refer visitors to us) help us select the best places to reach people interested in shopping for furniture online.  
   
-**5\. Does Furniture.com ever share such information? With whom?**  
+**5\. What types of emails will Furniture.com send to me? Can I choose not to receive these emails?**  
+As a registered Furniture.com user, you may occasionally receive emails from us, including:
+
+• Newsletters. 
+
+• Special Offers. 
+
+Should you no longer wish to receive these emails, you may "opt out" at any time by logging in to your Furniture.com Account and clicking "Update your email preferences." Alternatively, you may email us at privacy@furniture.com or mail your request to Furniture.com, Inc. 85 River Street, Waltham, MA 02453 Attention: Privacy.
+
+When you place an order with Furniture.com, you will also receive email updates regarding the status of your order. These emails, which are critical to fulfilling your order, will not be affected by updating your email preferences.   
+  
+**6\. Does Furniture.com ever share such information? With whom?**  
 The information gathered as part of your purchasing is used only to process your purchase and is never shared with anyone, except in connection with your order. Credit card or check information is only shared with financial institutions that process your payment. Shipping information is shared with the retail partners that fulfill your order. Information on financing applications goes directly to the financial institution that handles the financing, not to Furniture.com; we never see your application information, only your approval code, name and address. Technically, this shared information does pass out of our direct control, but Furniture.com makes clear to financial companies and retail partners we work with that we expect your information to be handled in accordance with Furniture.com's Privacy Policy. 
 
 Click [ here ](https://web.archive.org/Common/CustomerService/policies/default.asp#8) to learn how Furniture.com’s 100% Security Guarantee goes even further to protect valued customers like you. 
 
-No parties other than Furniture.com collect information on our site. We do not sell, rent, share, trade or give away any of the information you provide to us except to the financial institutions processing your payment or your financing application and the retailers / shippers that produce and/or deliver your order. No third party will solicit you as a result of information within our control.
+We do not sell, rent, share, trade or give away any of the information you provide to us except to the financial institutions processing your payment or your financing application and the retailers / shippers that produce and/or deliver your order. No third party will solicit you as a result of information within our control.
 
 It is true that the information you provide is subject to disclosure pursuant to judicial or other government subpoenas, warrants, or orders. Other than these fairly extreme cases, your personal information will be shared with no one.
 
 Use the links on our Help page to contact us. In addition, you can write to us at customerservice@furniture.com with comments or to ask for information about this privacy policy. Any e-mail you send us is kept confidential and will not be posted on our site without your written permission.  
   
-**6\. Can I tell Furniture.com not to gather or keep track of information I’ve provided? How?**  
+**7\. Can I tell Furniture.com not to gather or keep track of information I’ve provided? How?**  
 Yes. You can set your browser not to accept cookies, but remember that cookies make your purchases easy. They enable your computer to keep a list of items you’re considering or to place them directly in your Shopping Cart (so you don’t have to re-enter them manually).   
-**7\. How do I correct or update information about me and my order(s)?**  
+**8\. How do I correct or update information about me and my order(s)?**  
 To change, correct, or update information about you or your order prior to shipment, please access the “My Account” area of our website. Alternatively, contact us at customerservice@furniture.com.   
-**8\. Can I have my name removed from Furniture.com’s active records? How?**  
-If you would like your name removed from our active records, please send e-mail to privacy@furniture.com   
+**9\. Can I have my name removed from Furniture.com’s active records? How?**  
+If you would like your name removed from our active records, you may go to your Account and click "edit my e-mail preferences". Alternatively, you may also send an e-mail to privacy@furniture.com.   
   
-**9\. How do I contact Furniture.com with any questions about this policy?**  
+**10\. How do I contact Furniture.com with any questions about this policy?**  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact: 
 
 Privacy Policy Coordinator  
@@ -108,19 +136,18 @@ Furniture.com
 85 River Street  
 Waltham, MA 02453  
   
-**10\. How will I know if this policy is changed?**  
+**How will I know if this policy is changed?**  
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, or other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
 If, however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify users via e-mail.   
   
-**Security at Furniture.com** |   
-At Furniture.com, our customers are our number one priority. That’s why we go to such great lengths to guarantee the security of all credit card transactions. Our secure server software (SSL) is among the best technology available today. It encrypts (scrambles in code) all personal data you share with us, including your credit card and telephone numbers, name and address. Furniture.com is so confident in our systems that we ensure 100% safety in the transactions you make with us.* 
+**Secure Shopping** |   
+We make certain that we never share the information you've shared with us. We also make sure that your information is protected as you send it to us.  
+Our secure server software (SSL) is among the best technology available today. It encrypts (scrambles in code) all personal data you share with us, including your credit card and telephone numbers, name and address. Furniture.com is so confident in our systems that we ensure 100% safety in the transactions you make with us.* 
 
-Click [ here](https://web.archive.org/Common/CustomerService/policies/default.asp#7) to learn how the Furniture.com Privacy Policy goes even further to protect valued customers, like you. 
-
-*In the rare event that unauthorized charges are made to your credit card during a transaction with us, you will not be held responsible in any way. Under federal law, your bank cannot hold you liable for more than $50 of fraudulent charges. If your bank does hold you liable for any of this $50, Furniture.com will cover the entire liability for you, up to the full $50. Furniture.com will cover this liability only if the unauthorized use of your credit card resulted through no fault of your own, on purchases made at Furniture.com while using the secure server. In the event of unauthorized use of your credit card, in order to qualify for the Furniture.com security guarantee, you must undertake any steps required by federal law and your credit card agreement, including any provision requiring you to notify your credit card provider in accordance with its reporting rules and procedures. If you have any questions regarding federal laws, contact your state’s attorney general or the United States Department of the Treasury.  
+*In the rare event that unauthorized charges are made to your credit card during a transaction with us, you will not be held responsible in any way. Under federal law, your bank cannot hold you liable for more than $50 of fraudulent charges. If your bank does hold you liable for any of this $50, Furniture.com will cover the entire liability for you, up to the full $50. Furniture.com will cover this liability only if the unauthorized use of your credit card resulted through no fault of your own, on purchases made at Furniture.com while using the secure server. In the event of unauthorized use of your credit card, in order to qualify for the Furniture.com security guarantee, you must undertake any steps required by federal law and your credit card agreement, including any provision requiring you to notify your credit card provider in accordance with its reporting rules and procedures. If you have any questions regarding federal laws, contact your state's attorney general or the United States Department of the Treasury.  
   
-**Shopping at Furniture.com** |   
+**Other Terms and Conditions** |   
 Furniture.com is committed to ensuring your shopping experience is everything you expect it to be.  
 **Our Retail Partners meet high standards for service**  
 We want to make sure that you have the best possible shopping experience with our retail partners. To ensure this, Furniture.com carefully reviews the store policies, security practices and delivery capabilities of each of our retail partners. And we only partner with retailers who meet our high standards for service. When you purchase an item on Furniture.com, you’re protected by the policies governed by that retailer. Policies that we believe are among the best in the business.  
@@ -129,7 +156,14 @@ For your convenience, the customer service policies of our retail partners are e
 
 If you’re not satisfied with a purchase you made from a Furniture.com retail partner, please refer to this retailer’s policies for instructions on how you can resolve your issue or return your purchase. Certain terms and conditions may apply, and you should check with the retailer for specific details. 
 
-Furniture.com disclaims any responsibility or liability for any damage, loss, or injury arising out of the activities of any retail partner; the goods or services offered by a retail partner; or your purchase of or inability to purchase any retail partner’s goods or services.   
+For the avoidance of doubt, an order placed on Furniture.com is placed with our retail partners, who both accept your payment and are responsible for the successful fulfillment of your order. Furniture.com disclaims any responsibility or liability for any damage, loss, or injury arising out of the activities of any retail partner; the goods or services offered by a retail partner; your purchase of or inability to purchase any retail partner’s goods or services; or our retail partner's failure to complete your delivery.   
+  
+**Our Retail Partners' Pricing**  
+Prices shown for items on this website's product pages and in your shopping cart are for merchandise only. Please proceed to checkout to see the total cost of your order, including any applicable tax, delivery or other fees.
+
+Pricing on Furniture.com is provided by our retail partners. While they strive for accuracy in their pricing and the other product information they provide, errors can occur.
+
+In cases where such errors do occur, our retail partners expressly reserve the right not to honor offers they make on this website, either in stores or when accepting an order online. In the case that an order placed online is not accepted, any payments that have been authorized for that order will immediately be reversed.  
   
 **Paying for your order**  
 Furniture.com takes your privacy seriously. We provide your credit card number, billing and shipping information to our retail partners from whom you buy goods. The collection of payments, including deposits is between you and our retail partners. These retailers are solely responsible for how they use your information and any other information they independently acquire from you or about you. For more information, please read the Furniture.com Privacy Policy.
