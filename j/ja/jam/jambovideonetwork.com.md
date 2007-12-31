@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the jambovideonetwork.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623043402id_/http%3A//jambovideonetwork.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jambovideonetwork.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231131538id_/http%3A//jambovideonetwork.com/privacy.html) for the most accurate reproduction.*
 
-# _
+# Jambo Video Network
 
-**JAMBO VIDEO NETWORK**
-
-**PRIVACY POLICY**
+**JAMBO VIDEO NETWORK** **  —   PRIVACY POLICY**
 
 www.jambovideonetwork.com (the "Site") is owned and operated by Jambo Media LLC ("Jambo Media"). The following discloses our information gathering and dissemination practices for the Site. This privacy policy applies only to data gathered on the Site and does not apply to any other transactions or other offline point of contact with Jambo Media. By using the Site, you agree to the collection and use of your information by us in accordance with this Privacy Policy. If you do not agree with this Privacy Policy, then do not use the Site. 
 
@@ -12,7 +10,7 @@ www.jambovideonetwork.com (the "Site") is owned and operated by Jambo Media LLC 
 
 **Information We Collect:** We collect “personally identifiable information” from you,  when you expressly give us the information to sign up for an account. 
 
-We will use your personally identifiable information for customer service and to send you an email newsletter, which gives you information about Jambo Video Network news and special events and may contain third party advertisements from time to time. ** ** We may also use your personally identifiable information to contact you with other information we think you would be interested in.   If you decide later that you no longer wish to receive the newsletter, email us at unsubscribe@jambovideonetwirk.com. Newsletters will also provide you with an opportunity to opt-out of receiving this information.  Please note that changes to your preferences may not be effective immediately.  ****
+We will use your personally identifiable information for customer service and to send you an email newsletter, which gives you information about Jambo Video Network news and special events and may contain third party advertisements from time to time. ** ** We may also use your personally identifiable information to contact you with other information we think you would be interested in.   If you decide later that you no longer wish to receive the newsletter, email us at [unsubscribe@jambovideonetwork.com](mailto:unsubscribe@jambovideonetwirk.com). Newsletters will also provide you with an opportunity to opt-out of receiving this information.  Please note that changes to your preferences may not be effective immediately. 
 
 We may use third party contractors to help us operate our business and the Site or administer activities on our behalf and may share your information with these contractors for those limited purposes.
 
@@ -32,12 +30,11 @@ We use non-personally identifiable information for internal purposes and to help
 
 **Contact Us:** Please contact us with any questions or comments regarding our privacy policy: 
 
-Jambo Media LLC, 63 Warwick Rd, Stratford, NJ 08084 or email us at contact@jambovideonetwork.com.
+Jambo Media LLC, 63 Warwick Rd, Stratford, NJ 08084 or email us at [contact@jambovideonetwork.com](mailto:contact@jambovideonetwork.com).
 
-View/Update Information: If you would like to view or update information we have collected from you, please email us at contact@jambovideonetwork.com.
+View/Update Information: If you would like to view or update information we have collected from you, please email us at [contact@jambovideonetwork.com](mailto:contact@jambovideonetwork.com).
 
-Effective Date: **9-28-06**
+      Effective Date: **9-28-06**
 
-80368905.1
+  
 
-80368905.3
