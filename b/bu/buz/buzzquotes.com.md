@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buzzquotes.com privacy policy that was archived on 2007-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070206090326id_/http%3A//buzzquotes.com/policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzzquotes.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231070006id_/http%3A//buzzquotes.com/policy.asp) for the most accurate reproduction.*
 
 # BuzzQuotes.com|Privacy
 
