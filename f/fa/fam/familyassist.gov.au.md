@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the familyassist.gov.au privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626115339id_/http%3A//www.familyassist.gov.au/Internet/FAO/fao1.nsf/content/about_us-privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the familyassist.gov.au privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231053227id_/http%3A//www.familyassist.gov.au/Internet/FAO/fao1.nsf/content/about_us-privacy.htm) for the most accurate reproduction.*
 
 # Family Assistance Office | Your privacy
 
-This site is maintained and hosted by the Australian Government Department of Families, Community Services and Indigenous Affairs on behalf of the Family Assistance Office. In accordance with the Guidelines for Federal and ACT Government World Wide Websites issued by the Australian Privacy Commissioner, the Department of Families, Community Services and Indigenous Affairs (FaCSIA) provides the following privacy statements. 
+This site is maintained and hosted by the Australian Government Department of Families, Housing, Community Services and Indigenous Affairs on behalf of the Family Assistance Office. In accordance with the Guidelines for Federal and ACT Government World Wide Websites issued by the Australian Privacy Commissioner, the Department of Families, Housing, Community Services and Indigenous Affairs (FaHCSIA) provides the following privacy statements. 
 
 ## Site Visit Data
 
-This is a cookie-free site operated by FaCSIA through an external service provider.
+This is a cookie-free site operated by FaHCSIA through an external service provider.
 
 Whenever you visit this website, our Internet service provider makes a record of your visit and logs the following information for statistical purposes:
 
@@ -37,17 +37,17 @@ When completing the site's feedback forms, we request your name, e-mail address,
 
 Your personal information is protected under the confidentiality provisions contained within social security and family assistance law. These laws prohibit any person from accessing, using or disclosing any personal information in the possession of the Family Assistance Office except when performing their duties in accordance with these laws or in specific situations permitted by the law. Your personal information will not be made available to any person or agency unless the law permits or your permission is given. Penalties apply to those who fail to observe these provisions.
 
-Before you consider transmitting any confidential information over the Internet, you should first [contact us](http://www.familyassist.gov.au/internet/FAO/fao1.nsf/content/about_us-contact) to seek its agreement to the application of the 'confidential' classification to he information you wish to provide. When FaCSIA agrees to treat your personal information as 'confidential' it will receive the appropriate level of security.
+Before you consider transmitting any confidential information over the Internet, you should first [contact us](http://www.familyassist.gov.au/internet/fao/fao1.nsf/content/about_us-contact) to seek its agreement to the application of the 'confidential' classification to he information you wish to provide. When FaHCSIA agrees to treat your personal information as 'confidential' it will receive the appropriate level of security.
 
-While FaCSIA endeavours to provide a secure Internet environment, please note that the privacy of your personal information cannot be guaranteed if you choose to transmit that information over the Internet.
+While FaHCSIA endeavours to provide a secure Internet environment, please note that the privacy of your personal information cannot be guaranteed if you choose to transmit that information over the Internet.
 
-If you do not wish to contact FaCSIA via the Internet, FaCSIA provides alternative ways to obtain and provide information. Please contact FaCSIA by telephone or post if you have concerns about the security of your email message. When you telephone the department, you can request access to FaCSIA facsimile numbers.
+If you do not wish to contact FaHCSIA via the Internet, FaHCSIA provides alternative ways to obtain and provide information. Please contact FaHCSIA by telephone or post if you have concerns about the security of your email message. When you telephone the department, you can request access to FaHCSIA facsimile numbers.
 
 ##  **Contact Details**
 
-Department of Families, Community Services and Indigenous Affairs  
+Department of Families, Housing, Community Services and Indigenous Affairs  
 Box 7788  
 Canberra Mail Centre ACT 2610  
 Telephone: 1300 653 227
 
-[ [Top](http://www.familyassist.gov.au/internet/FAO/fao1.nsf/content/about_us-privacy.htm#top) ]
+[ [Top](http://www.familyassist.gov.au/internet/fao/fao1.nsf/content/about_us-privacy.htm#top) ]
