@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acrobatusers.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630231842id_/http%3A//www.adobe.com/misc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acrobatusers.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231021036id_/http%3A//www.adobe.com/misc/privacy.html) for the most accurate reproduction.*
 
 # Adobe - Online Privacy Policy
 
