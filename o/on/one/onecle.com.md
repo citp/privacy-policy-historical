@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onecle.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627165150id_/http%3A//www.onecle.com/info/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onecle.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231092604id_/http%3A//www.onecle.com/info/privacy.shtml) for the most accurate reproduction.*
 
 # California MCLE - Privacy Policy
 
