@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tcaps.net privacy policy that was archived on 2007-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070304173119id_/http%3A//www.tcaps.net/Home/tabid/36/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tcaps.net privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231074910id_/http%3A//www.tcaps.net/Home/tabid/36/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
-# Traverse City Area Public Schools - Home
+# Traverse City Area Public Schools > Home
 
 Traverse City Area Public Schools is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Traverse City Area Public Schools Web site and governs data collection and usage. By using the Traverse City Area Public Schools website, you consent to the data practices described in this statement.
 
