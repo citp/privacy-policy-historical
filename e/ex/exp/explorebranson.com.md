@@ -1,13 +1,6 @@
-> *The following text is extracted and transformed from the explorebranson.com privacy policy that was archived on 2007-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070606070108id_/http%3A//www.explorebranson.com/sitelink/index.cfm%3FcontentID%3D29) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the explorebranson.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231213332id_/http%3A//www.explorebranson.com/sitelink/index.cfm%3FcontentID%3D29) for the most accurate reproduction.*
 
 # Branson Missouri vacation lodging, hotels, shows, Chamber of Commerce
-
-|  |  |  | |   
----|---  
-|   |   
-
-
-Privacy Policy
 
   1. The Branson/Lakes Area Chamber of Commerce/CVB collects non-public personal information about you when you register with explorebranson.com as an e-newsletter subscriber and when you request printed information be sent to you. 
   2. This personal information may include your name, address, telephone number and e-mail address. Credit card information is asked only when ordering materials. 
@@ -32,8 +25,8 @@ Privacy Policy
 **How can you opt-out, remove or modify information you have provided to us?  
 ** Modifying your e-mail subscription or completely opting-out of receiving Branson/Lakes Area Chamber of Commerce/CVB e-mail is easy. Simply click on the e-newsletter bar on the main page of explorebranson.com. You will be directed to the sign-in page. At the end of the text, you will see the sentence, "To unsubscribe, click here." This will take you to a page where you will choose to automatically be removed from all future mailings. Please note that due to e-mail production schedules, you may receive any e-mails already in production.
 
-**Note to Parents  
-** We realize that children may visit our site, and we therefore encourage children to consult with their parents before submitting any information to any website - including ours. We encourage parents to supervise their children’s online activities and consider using parental control tools available from online services and software manufacturers that help provide a kid-friendly on-line environment. These tools can also prevent children from disclosing their name, address and other personal information online without parental permission. For additional information about parental control tools, please consult the "Consumer Assistance" page of the Direct Marketing Association home page.
+**Note to Parents**  
+We realize that children may visit our site, and we therefore encourage children to consult with their parents before submitting any information to any website - including ours. We encourage parents to supervise their children’s online activities and consider using parental control tools available from online services and software manufacturers that help provide a kid-friendly on-line environment. These tools can also prevent children from disclosing their name, address and other personal information online without parental permission. For additional information about parental control tools, please consult the "Consumer Assistance" page of the Direct Marketing Association home page.
 
 **Legalities**
 
@@ -47,14 +40,10 @@ Privacy Policy
 **Online Privacy Policy Only  
 ** This online privacy policy applies only to information collected through our website and not offline. 
 
-**Feedback  
-** We welcome your comments and concerns about privacy and any feedback about explorebranson.com. Contact us at [info@bransoncvb.com](mailto:info@bransoncvb.com) or 800-296-0463.
+**Feedback**  
+We welcome your comments and concerns about privacy and any feedback about explorebranson.com. Contact us at [info@bransoncvb.com](mailto:info@bransoncvb.com) or 800-296-0463.
 
-**Your Consent  
-** By using explorebranson.com, you consent to our privacy policy.
+**Your Consent**  
+By using explorebranson.com, you consent to our privacy policy.
 
-Thank you for visiting [www.ExploreBranson.com](http://www.explorebranson.com/)!  
-  
----|---  
-|  [Media](https://web.archive.org/web/20070606070108id_/http://www.explorebranson.com/sitelink/index.cfm?contentID=23)[Staff List](https://web.archive.org/web/20070606070108id_/http://www.explorebranson.com/sitelink/index.cfm?contentID=155)[Contact Us](https://web.archive.org/web/20070606070108id_/http://www.explorebranson.com/sitelink/index.cfm?contentID=24)[Privacy Policy](https://web.archive.org/web/20070606070108id_/http://www.explorebranson.com/sitelink/index.cfm?contentID=29)[Site Search](https://web.archive.org/web/20070606070108id_/http://www.explorebranson.com/sitelink/index.cfm?contentID=27)[Site Map](https://web.archive.org/web/20070606070108id_/http://www.explorebranson.com/sitelink/index.cfm?contentID=28)[Links](https://web.archive.org/web/20070606070108id_/http://www.explorebranson.com/sitelink/index.cfm?contentID=26)[Bookmark Site](https://web.archive.org/web/20070606070108id_/http://www.explorebranson.com/sitelink/index.cfm?contentID=30)[E-Mail Page to a Friend](javascript:openEmail\('../EmailPage/index.cfm?action=EmailPage&Server=www.explorebranson.com&Script=/static/index.cfm&String=contentID=29'\);)|   
----|---
+Thank you for visiting [www.ExploreBranson.com](http://www.explorebranson.com/)!
