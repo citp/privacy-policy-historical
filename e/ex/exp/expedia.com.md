@@ -1,224 +1,104 @@
-> *The following text is extracted and transformed from the expedia.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603043029id_/http%3A//www.expedia.com/daily/service/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expedia.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231100118id_/http%3A//www.expedia.com/daily/service/privacy.asp) for the most accurate reproduction.*
 
-# Expedia.com Expedia.com's Privacy Pledge
+# Expedia.com Privacy Policy
 
-[ ](https://web.archive.org/daily/service/pwc/expedia_attes_0900_v3.htm) |  | [](https://www.truste.org/validate/9531) |  | [](http://www.bbbonline.org/cks.asp?id=200111410491211725) |   
----|---|---|---|---|---  
   
-We understand that making purchases online involves a great deal of trust on your part; we take this trust very seriously, and make it our highest priority to ensure the security and confidentiality of the personally identifiable information ("PII") you provide us. (PII includes information that can be linked to a specific individual, such as name, address, phone number, or e-mail address.) 
+|   
+OPTIONS  
+---  
+| | | Previous page  
+  
+|    
+**Expedia.com Privacy Policy** Below you will find the updated Privacy Policy for Expedia.com, effective December 1, 2006. For answers to some frequently asked questions about this update, please visit our [Privacy FAQ](https://web.archive.org/daily/service/privacy_FAQ.asp). If you have not registered or otherwise provided information through this site on or after September 1, 2006, please refer to our [previous privacy policy](https://web.archive.org/daily/service/previousprivacy.asp). 
 
-As a visitor to Expedia's® U.S. Web sites, www.expedia.com and msn.expedia.com ("Expedia.com®"), you have the right to understand our information privacy practices prior to providing Expedia.com with any of your PII. 
+|  [](http://www.bbbonline.org/cks.asp?id=200111410491211725) |   
+---|---  
+  
+By participating in the Council of Better Business Bureau's BBBOnLine® Privacy Program, we have made a commitment to have our privacy practices and this Privacy Policy approved by BBBOnLine®. Further information about this program is available at BBBOnLine®. 
 
-**What information we collect**  
-Expedia.com only collects PII that you **voluntarily** provide to us.   
-Tell me more.
+We understand that making purchases online involves a great deal of trust on your part. We take this trust very seriously, and make it our highest priority to ensure the security and confidentiality of the personal information you provide to us. Please read the following policy to learn about our privacy practices. By visiting our U.S. website, www.expedia.com, you are accepting the practices described herein. 
+
+  * What information we collect from you
+  * How we use your information
+  * With whom we share your information
+  * How you can access your information
+  * Your choices with respect to the collection and use of your information
+  * How we protect your information
+  * Children's privacy
+  * External links
+  * Changes to this Privacy Policy
+  * How you can contact us
+
+**What information we collect from you**  
+_In General_. We receive and store any information you enter on our Web site or give us in any other way. This includes information that can identify you ("personal information"), including your first and last name, telephone number, postal and e-mail addresses, and, in some cases, billing information (such as credit card number, cardholder name, and expiration date). We also may request information about your traveler preferences, including meal requests, seat selection, frequent flyer/hotel/car rental program information, and ticketing options. You can choose not to provide information to us, but in general some information about you is required in order for you to register as a member; purchase products or services; complete a traveler profile; participate in a survey, contest, or sweepstakes; ask us a question; or initiate other transactions on our site. 
+
+_Passenger Information_. When you make travel or other arrangements for someone else through Expedia.com, we will request personal information and travel preferences about that individual. You should obtain the consent of other individuals prior to providing Expedia.com with their personal information and travel preferences, as any access to view or change their information will be available only through your account. 
+
+_Information from Other Sources_. We also may periodically obtain information about you from our business partners and other independent third-party sources and add it to our account information. Examples of information we may receive include: updated delivery and address information, which we use to correct our records and to facilitate proper delivery of travel information; and demographic information, which we use to better understand your potential purchasing preferences. 
+
+_Automatic Information_. We automatically collect some information about your computer when you visit Expedia.com. For example, we will collect your IP address, Web browser software (such as Netscape Navigator or Internet Explorer), and referring Web site. We also may collect information about your online activity, such as trips viewed and purchases made. One of our goals in collecting this automatic information is to help customize your user experience. 
+
+_Cookies and Other Web Technologies_. When you visit Expedia.com, we may assign your computer a "cookie" (a small, unique identifier text file). For example, whenever you sign in as an Expedia.com member, we record your member ID and the name on your member account in the cookie file on your computer. We also may record your password in this cookie file, if you checked the box entitled "Save this password for automatic sign-in." Note that member IDs, passwords, and any other account-related data included in such cookies are encrypted for security purposes. You can always choose not to receive a cookie file by enabling your Web browser to refuse cookies or to prompt you before accepting a cookie. Please note that if you refuse to accept cookies from Expedia.com, you may not be able to access many of the travel tools offered by Expedia.com. 
+
+_Information Collected by Third-Party Advertising Companies_. Third-party advertisers, such as those we use to serve ads on our behalf across the Internet, may use cookies and other technologies (such as Web beacons or single-pixel GIFS) for several purposes, including: to measure the effectiveness of their ads; to analyze, modify, and personalize advertising content on Expedia.com and other sites; and to provide ads about goods and services we hope will be of interest to you. We do not have access to or control over cookies or other features they may use, and the information practices of these advertisers are not covered by this Privacy Policy. You can find out more about third-party advertisers and explore the option of not having this information collected by clicking [here](http://www.networkadvertising.org/). 
 
 **How we use your information**  
-Expedia.com uses your PII only for the purpose of responding to and fulfilling your requests for Expedia.com travel products and services.   
-Tell me more.
+Expedia.com uses sensitive billing information (such as cardholder name, credit card number, and expiration date) for the purpose of completing the travel purchases you conduct on our site. We use other information about you for the following general purposes: to provide you with the products and services you request; to provide you with travel confirmation and updates; to manage your account, including processing bills and providing travel notifications; to communicate with you in general; to respond to your questions and comments; to measure interest in and improve our products, services, and Web site; to notify you about special offers and products or services that may be of interest to you; to otherwise customize your experience with Expedia.com; to reward you as part of any reward and recognition program you choose to join; to solicit information from you, including through surveys; to resolve disputes, collect fees, or troubleshoot problems; to prevent potentially prohibited or illegal activities; to enforce our Terms of Use; and as otherwise described to you at the point of collection. 
 
-**Who we share your information with**  
-Expedia.com will only share your PII with our authorized travel service providers, and only as necessary in order to complete a transaction that you specifically request. **Expedia.com does not sell or rent your PII to anyone.**   
-Tell me more.
+Please review "Your choices with respect to the collection and use of your information" below. 
 
-**How you can control the use of your information**  
-Expedia.com provides you with choice and control over the collection and use of your PII, as well as a means of updating, correcting, or removing any PII stored in your customer profile.   
-Tell me more.
+**With whom we share your information**  
+Expedia.com may share your information with the following entities: 
 
-**How you can decide what marketing communications you'll receive**  
-Expedia.com provides you with the opportunity to specifically choose the promotional marketing communications you wish to receive from Expedia.com. If you choose not to sign up for any of the promotional e-mail services that Expedia.com provides, then Expedia.com will only send you e-mail that relates to a specific travel purchase you have made on Expedia.com.   
-Tell me more.
+  * _Suppliers_ , such as hotel, airline, cruise, or car rental companies, or activity providers, who fulfill your travel reservations. Throughout Expedia.com, all services provided by a third-party supplier are described as such. We do not share your email address with these suppliers unless they need it to fulfill the travel reservation you have made on Expedia.com, and we restrict their use of this information to that purpose. We do not place limitations on our suppliers' use or disclosure of your other personal information. Therefore, we encourage you to review the privacy policies of any travel supplier whose products you purchase through Expedia.com. Please note that these suppliers also may contact you as necessary to obtain additional information about you or to facilitate your travel reservation. 
+  * _Third-party vendors_ who provide services or functions on our behalf, including credit card processing, business analytics, customer service, marketing, distribution of surveys or sweepstakes programs, and fraud prevention. These companies have access to personal information needed to perform their functions but are not permitted to share or use the information for any other purpose. 
+  * _Business partners_ with whom we may jointly offer products or services. You can tell when a third party is involved in a product or service you have requested because their name will appear with ours. If you choose to access these optional services, we may share information about you, including your personal information, with those partners. Please note that we do not control the privacy practices of these third-party business partners and recommend you evaluate their practices before deciding to provide your personal information. 
+  * _Companies within the Expedia family_. Sharing this information with our U.S. corporate affiliates, including Hotels.com, TripAdvisor, Hotwire, and Classic Vacations, as well as international corporate affiliates such as Expedia.uk and Expedia.de, enables us to provide you with information about products and services, both travel-related and other, which might interest you. To the extent that our corporate affiliates have access to your information, they will follow practices that are at least as restrictive as the practices described in this Privacy Policy. They also will comply with applicable laws governing the transmission of promotional communications and, at a minimum, give you an opportunity in any commercial e-mail they send to choose not to receive such e-mail messages in the future. 
+
+We also may share your information: 
+  * In response to subpoenas, court orders, or other legal process; to establish or exercise our legal rights; to defend against legal claims; or as otherwise required by law. In such cases we reserve the right to raise or waive any legal objection or right available to us.
+  * When we believe it is appropriate to investigate, prevent, or take action regarding illegal or suspected illegal activities; to protect and defend the rights, property, or safety of Expedia.com, our customers, or others; and in connection with our Terms of Service and other agreements.
+  * In connection with a corporate transaction, such as a divestiture, merger, consolidation, or asset sale, or in the unlikely event of bankruptcy. 
+
+
+
+Other than as set out above, you will be notified when personal information about you will be shared with third parties, and you will have an opportunity to choose not to have us share such information. 
+
+We also may share aggregate or anonymous information with third parties, including advertisers and investors. For example, we may tell our advertisers the number of visitors a Web site receives or what are the most popular vacation destinations. This information does not contain any personal information and is used to develop content and services we hope you will find of interest. 
+
+**How you can access your information**  
+You can access your information at various points on the Expedia.com Web site. These include: 
+
+  * The [My Account](https://web.archive.org/pub/agent.dll?qscr=info) page on Expedia.com, where you can view, update, or change your personal information. On this page, you also can change your password; elect to have an automatic password sign-in when logging on to Expedia.com; add new travelers and delete existing travelers from your member profile; update or correct names, phone numbers, and emergency contacts for travelers associated with your profile; and update your travel preferences.
+  * The [My Itineraries](https://web.archive.org/pub/agent.dll?qscr=litn) page, where you can view, update, or delete your saved trip itineraries. 
+
+Expedia.com allows customers to sign in using their Windows Live™ ID. Expedia.com does not share your personal information with Microsoft in connection with this service. For more information about Windows Live ID, please review the Microsoft privacy policy at [http://privacy.microsoft.com](http://privacy.microsoft.com/). 
+
+You can close your Expedia.com account by selecting the Account Closure option. We will send you an e-mail confirming your request to close your account to the e-mail address contained in your member profile. Please note that after you close an account, you will not be able to sign in or access any of your personal information. However, you can open a new account at any time. Please also note that we may retain certain information associated with your account for analytical purposes as well as for recordkeeping integrity. 
+
+**Your choices with respect to collection and use of your information**  
+
+
+  * As discussed above, you can choose not to provide us with any information, although it may be needed to make travel purchases or to take advantage of certain features offered on Expedia.com.
+  * You also can add or update information on the [My Account](https://web.archive.org/pub/agent.dll?qscr=info) and [My Itineraries](https://web.archive.org/pub/agent.dll?qscr=litn) pages and close your account as described above.
+  * When you register as a member on Expedia.com, you will be given a choice as to whether you want to receive e-mail messages from Expedia.com about special offers. As a registered Expedia.com member, you can modify your choice at any time on the [My Account](https://web.archive.org/pub/agent.dll?qscr=info) page under the heading "E-mail settings." Whether registered as an Expedia.com member or not, you also will be given the opportunity to unsubscribe from commercial messages in any such e-mail we send. Please note that we reserve the right to send you other communications, including service announcements, administrative messages, and surveys relating either to your Expedia.com account or to your transactions on Expedia.com, without offering you the opportunity to opt out of receiving them.
+  * The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Please note that if you refuse to accept cookies from Expedia.com, you will not be able to access portions of our site. 
+
+
 
 **How we protect your information**  
-To ensure the confidentiality of your PII, Expedia.com uses leading security technology and procedures which are reviewed regularly by the independent accounting firm Deloitte & Touche LLP.   
-Tell me more.
+We want you to feel confident about using Expedia.com to plan and purchase your travel, so we are committed to protecting the information we collect. While no Web site can guarantee security, we have implemented appropriate administrative, technical, and physical security procedures to help protect the personal information you provide to us. For example, only authorized employees are permitted to access personal information, and they only may do so for permitted business functions. In addition, we use encryption when transmitting your sensitive personal information between your system and ours, and we employ firewalls and intrusion detection systems to help prevent unauthorized persons from gaining access to your information. 
 
-By providing you with this Privacy Statement, Expedia.com is pledging our continued commitment to protecting the information you provide us. Expedia.com has engaged PricewaterhouseCoopers LLP to regularly examine our information privacy practices to determine whether we are adhering to the disclosures about the collection, use, sharing, and protection of your PII made in this privacy statement. 
+**Children's privacy**  
+Expedia.com does not sell travel or other services for purchase by children. Should a child whom we know to be under 13 send personal information to us, we will use that information only to respond directly to that child to inform him or her that we must have parental consent before receiving his or her personal information. 
 
-Your privacy is important to us. By participating in the Council of Better Business Bureau's BBB _OnLine_ ® Privacy Program we have made a commitment to meet the program's strict requirements regarding how we treat your information and have it verified by BBB _OnLine_ ®. Further information about this program is available at [BBB _OnLine_](http://www.bbbonline.org/)®. 
+**External Links**  
+If any part of the Expedia.com Web site links you to other Web sites, those Web sites do not operate under this Privacy Policy. We recommend you examine the privacy statements posted on those other Web sites to understand their procedures for collecting, using, and disclosing personal information. 
 
-Expedia.com is also a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, nonprofit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Questions regarding this statement should be e-mailed to [Expedia.com](mailto:%20privacy@expedia.com) or sent via postal mail to Expedia, Inc., attn: Privacy Officer, 13810 SE Eastgate Way, Suite 400, Bellevue, WA 98005. If the Web site has not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact [TRUSTe](http://www.truste.org/watchdog.html). 
+**Changes to this Privacy Policy**  
+Expedia.com may update this Privacy Policy in the future. We will notify you about material changes to this Privacy Policy by sending a notice to the e-mail address you provided to us or by placing a prominent notice on our Web site. 
 
-**Expedia.com's Privacy Statement**
+**How you can contact us**  
+If you have questions about either Privacy Policy (or your travel planning or purchases), please e-mail us using our [support and feedback form](https://www.expedia.com/pub/agent.dll?qscr=fbak&&zz). 
 
-This Expedia.com Privacy Statement discloses the information privacy practices for Expedia's United States Web sites, www.expedia.com and msn.expedia.com ("Expedia.com"). The Expedia.com Web sites are intended for use by residents of the U.S. that are over 18 years of age. 
-
-**Information collected about you**  
-Expedia.com collects personally identifiable information ("PII") about you that you specifically and voluntarily provide. PII includes information that can identify you as a specific individual, such as your name, phone number, or e-mail address. Although you are required to register as a member of Expedia.com in order to use selected travel planning tools, and some PII is needed in order to process and fulfill travel requests, many areas of Expedia.com can be accessed without providing any PII. 
-
-On all Expedia.com pages that collect PII, we specifically describe what information is required in order to provide you with the product or service you have requested. 
-
-Expedia.com collects PII when you: 
-
-  * Become an Expedia.com member 
-  * Complete a traveler profile 
-  * Purchase travel 
-  * Use the Travel Arranger service 
-  * Participate in a survey, contest, or sweepstakes 
-  * Contact Expedia.com 
-
-**Member information**   
-Expedia.com collects your Member ID, password, and e-mail address when you register to become a member of our Web site. 
-
-**Traveler profile information**   
-Expedia.com collects the full name and contact number for a traveler when a travel reservation is made. We may also collect information about each traveler's preferences, including meal requests, seat selection, frequent flyer/hotel/car rental programs and membership numbers, and ticketing options. This information is stored in the [My Profile](https://web.archive.org/pub/agent.dll?qscr=info) area of a member's Expedia.com account. 
-
-When someone other than yourself is accompanying you on travel purchased through Expedia.com, we may collect PII and travel preferences about that individual. You should obtain the consent of other individuals prior to providing Expedia.com with their full names, contact numbers, and travel preferences, as they will be unable to directly access our systems to view or change any information you provide on their behalf. 
-
-**Travel purchase information**   
-Expedia.com collects the billing address of the credit card that is used to purchase travel. We will also collect credit card information, including card number, card type, cardholder name, and expiration date, in order to bill you for travel purchased through Expedia.com. Please view our [Credit Card Guarantee](https://web.archive.org/daily/service/cc.asp) for additional information on Expedia.com's commitment to protecting your credit card security. 
-
-**Travel Arranger information**   
-Expedia.com offers you the ability to authorize others to make and purchase travel arrangements on your behalf and allows you to become an authorized Travel Arranger for other Expedia.com members. If you elect to participate in this service, Expedia.com will collect the e-mail address of the person you are authorizing to make travel arrangements on your behalf or for whom you are requesting authorization to make travel arrangements. 
-
-**Surveys, contests, and sweepstakes information**   
-Occasionally, Expedia.com may offer our members and site visitors an opportunity to participate in a survey, contest, or sweepstakes. Information collected by Expedia.com when you participate in a survey, contest, or sweepstakes may include your full name, e-mail address, and street address. 
-
-**Contacting Expedia.com**   
-Expedia.com collects PII such as your full name, Member ID, e-mail address, and/or contact number whenever you submit a question or suggestion, or request assistance with viewing your itinerary, logging on to Expedia.com, or accessing your account. 
-
-**Our partners**   
-Expedia.com has partnered with reputable third parties to offer our members and site visitors a variety of products and services. All travel services throughout Expedia.com that are provided by a third-party partner are described as such. Although we only work with reputable third parties, our business partners may have different privacy policies and practices than Expedia.com. We encourage you to review our business partners' privacy policies to further understand their procedures for collecting, using, and disclosing your information. 
-
-**Other information we collect**   
-Some information is collected automatically every time you visit Expedia.com. Expedia.com collects information about your computer and assigns you a "cookie" (a small, unique identifier text file) when you visit Expedia.com. You do not provide this information—it is collected automatically as a means of supporting your visit to our site. This cookie does not contain any PII. [Click here to find out more about cookies.](https://web.archive.org/pub/Agent.dll?qscr=hgen&hfnm=h_SC_signfaq.htx#cookie)
-
-**Cookies and other Web technologies**   
-As a member or visitor to Expedia.com you will be assigned a permanent cookie file on your computer's hard drive. You can always choose to not receive a cookie file by enabling your Web browser to refuse cookies or prompt you before accepting a cookie. Be advised that, by refusing to accept a cookie, you will not be able to access many travel services and planning tools offered by Expedia.com. 
-
-When you access the [My Trips](https://web.archive.org/pub/agent.dll?qscr=litn) or [My Profile](https://web.archive.org/pub/agent.dll?qscr=info) areas of the Expedia.com Web site, reserve or purchase travel, or use selected travel planning tools, Expedia requires you to sign in as a member, using your Member ID and password. Once you sign in as an Expedia.com member, we record the Member ID and the name on the member account in the cookie file on your computer. We may also record your password in this cookie file if you checked the box entitled "Save this password for automatic sign-in." Your Member ID, password, and the name on your member account is stored in the cookie file as encrypted data, so no one can view the information it contains by obtaining unauthorized access to your computer. Permanent cookie files remain on your computer's hard drive until you manually delete the file. 
-
-A cookie file may also be placed on your hard drive by Expedia.com's third-party advertising companies or by Microsoft, Expedia.com's Corporate Affiliate. These companies may use aggregated statistics about your visits to this and other Web sites in order to provide advertisements about travel-related goods and services that you may be interested in. The information they collect does **not** include your PII. 
-
-The third-party advertising companies may also employ technology that is used to measure the effectiveness of ads. This is primarily accomplished through the use of an action tag (also known as an invisible gif), which the third party places on our site to collect anonymous information. They may use this anonymous information about your visits to this and other sites in order to provide advertisements about goods and services of potential interest to you. **No** PII is collected during this process. The information is anonymous and does not link online actions to an identifiable person. 
-
-**Computer information**   
-Expedia.com collects certain technical information from your computer each time you request a page during a visit to Expedia.com. This information is collected from your computer's Web browser and may include your IP address, operating system, Web browser software (i.e., Netscape Navigator or Internet Explorer), screen resolution, and referrer Web site. Wireless users: Please check with your wireless company if you are using your cellular phone to access the Internet to understand whether PII may be used to identify you. 
-
-**Use of your information**  
-Information collected on Expedia.com may be used to: 
-
-  * Register you as an Expedia.com member 
-  * Plan and purchase travel 
-  * Notify you of the results of your Price Matcher™ participation 
-  * Notify you of travel changes through the Travel Alerts service 
-  * Send e-mail notifications for special promotions and Fare Tracker service 
-  * Register you for the Tell a friend program 
-  * Respond to your questions or suggestions 
-  * Improve the quality of your visit to our site 
-
-**Member registration information**   
-When you register to become a member of Expedia.com, we use your information to create your member account. You will then receive a "Welcome to Expedia.com" e-mail that contains your Member ID and describes the benefits of using Expedia.com for planning and purchasing your travel needs. 
-
-**Travel planning and purchase**   
-Information collected when you complete your traveler profile is used to confirm and process your travel reservation. In addition, information collected from you when you purchase travel is used to bill your credit card and deliver your travel itinerary, either electronically or through the mail. 
-
-**Price Matcher™ results notification**   
-Expedia.com will send you an e-mail notifying you of the results of your price bid (i.e., either your bid was successful or unsuccessful). If your price bid was successful, you will be directed to our travel purchase pages so that you may complete your travel reservations. 
-
-**Travel Alerts notification**   
-In the event your travel plans are disrupted because of mechanical, weather, or carrier business conditions, Expedia.com may send you an e-mail notification to inform you of these conditions and help you make alternative travel arrangements. 
-
-**E-mail notifications**   
-If you chose to receive communications from Expedia.com about special promotions when registering as an Expedia.com member, we may use your e-mail address to send you communications about surveys, contests, sweepstakes, promotions, flight specials, Trip Guide information, or other travel opportunities on Expedia.com and its marketing partners. If you sign up for our Fare Tracker service, your e-mail address will also be used to notify you of current fares to cities you have selected. We may use your e-mail address or telephone number to contact you about changes to your purchased travel itinerary. 
-
-**Tell a friend program**   
-Expedia.com uses a third-party partner to provide our Tell a friend program. When you participate in the Tell a friend program, our third-party partner will collect the e-mail addresses that you provide for yourself and your friends. The third-party partner will send e-mail referrals to the persons you indicated. When your friends respond to the referral and visit the Expedia.com site, a cookie is placed on their browsers to measure the effectiveness of our Web site. The information that is gathered in this manner is not shared with any third parties except on an anonymous, aggregated basis. 
-
-**Responses to your questions or suggestions**   
-We will use your e-mail address or telephone number to respond when you submit a question or suggestion, or request assistance with viewing your itinerary, logging on to Expedia.com, or accessing your account. 
-
-**Improving the quality of your visit to our site**   
-We collect information about your computer (not your name, address, e-mail address, or telephone number) through your permanent cookie file for the purpose of assessing the effectiveness of site content and traffic. This data allows us to improve the quality of your visit by streamlining your ability to navigate the site and develop featured programs and content that will be of interest to our members and site visitors. 
-
-**Sharing your information**  
-**Expedia.com does not sell or rent your PII to anyone.**
-
-**Corporate affiliates**   
-If you access Expedia through msn.expedia.com, we share technical information about your computer (collected through the assigned cookie file) with Microsoft, our Corporate Affiliate. This information is used by Microsoft for the purpose of assessing the effectiveness of site content and Web traffic navigation across the MSN® network of Internet services. This is the only information Expedia shares with Microsoft and Microsoft does not have access to the PII you have provided to Expedia. 
-
-**Service providers**   
-We only provide information about travel either reserved or purchased on Expedia.com to third parties that provide services or functions on behalf of Expedia.com. Our service providers need information about your traveler profile, as well as your credit card information, to process and confirm your travel reservation. These service providers will disclose information about your traveler profile to hotel, airline, cruise, and/or car rental suppliers whose products you have purchased. Like any other travel agent, this information must be shared with our travel suppliers to confirm your reservation and travel preferences. Although Expedia.com offers travel products from hotel, airline, cruise, and car rental suppliers that are reputable companies, we have not placed limitations on these suppliers from using or disclosing your information without your permission. Therefore, we encourage you to review the information privacy practices of any travel suppliers whose products you purchase on Expedia.com. In addition, these travel suppliers may also contact you as necessary to obtain additional information about your confirmed reservation. 
-
-Expedia.com will occasionally share aggregated information with our service providers. This information does not contain any PII and is used to develop featured programs and content that will be of interest to our members and site visitors. 
-
-In the event that you make a new, or update an existing, travel reservation by calling our toll-free number, your information may be accessed by a third-party service provider, as necessary, to respond to your request for customer service. 
-
-Expedia.com may contract a reputable third-party to facilitate the distribution of survey, promotion, or sweepstakes programs. Upon completion of these projects, all information is returned to Expedia.com. 
-
-**Our legal obligations**   
-Expedia.com may be required by law to disclose information you have provided in obtaining our travel products or services. Expedia.com may also disclose information against someone who poses a threat to Expedia.com's interests (such as customer fraud) or whose activities could bring harm to others. 
-
-**Other Web sites**   
-There are several places throughout Expedia.com that may link you to other Web sites that do not operate under Expedia.com's information privacy practices. When you click through to these Web sites, Expedia.com's information privacy practices no longer apply. We recommend that you examine the privacy statements for all third party Web sites to understand their procedures for collecting, using, and disclosing your information. 
-
-**Control over and access to your information**  
-Expedia.com believes that members and site visitors should have control over the collection and use of their PII. You have access to your information in the following areas of Expedia.com: 
-
-**My Profile**   
-The [My Profile](https://web.archive.org/pub/agent.dll?qscr=info) page on Expedia.com allows members to view and change their account settings. The e-mail settings option lets you change your e-mail address and subscribe or unsubscribe to the Fare Tracker or special promotional notification services. You can also change your password and elect to have an automatic password sign-in when logging on to Expedia.com. You can add new travelers and delete existing travelers from your member profile; update or correct names, phone numbers, passport information, and emergency contacts for travelers associated with your profile; and update your travel preferences. 
-
-You can also close your Expedia.com account by selecting the [Account Closure](https://web.archive.org/pub/agent.dll?qscr=acce) option. Once you close an account, you will not be able to sign in or access any information associated with the account, but you can open a new account at any time. We will send you an e-mail confirming your account closure to the e-mail address contained in your member profile. 
-
-**My Trips**   
-The [My Trips](https://web.archive.org/pub/agent.dll?qscr=litn) page on Expedia.com allows members to view, update, or delete their saved trip itineraries. Members can also change their Price Matcher™ and Fare Tracker preferences. 
-
-**Communications from Expedia.com**  
-Members will receive communications from Expedia.com when they: 
-
-  * Sign up to become an Expedia.com member 
-  * Request to close an account 
-  * Purchase travel 
-  * Participate in the Price Matcher™ service 
-  * Elect to receive Fare Tracker, Travel Arranger, Trip Guides, or other special promotional marketing communications 
-  * Win a contest or sweepstakes 
-  * Contact Expedia.com with questions/suggestions 
-
-
-
-**Sign up to become an Expedia.com member**   
-When you sign up as a new Expedia.com member, you will receive a "Welcome to Expedia.com" e-mail. This e-mail contains your Member ID and describes the benefits of using Expedia.com for planning and purchasing your travel needs. 
-
-**Request to close an account**   
-When you complete an Account Closure request, we will send you an "Account Closure Confirmation" e-mail. 
-
-**Purchase travel**   
-Each time you purchase travel through Expedia.com, or change or cancel a confirmed travel reservation, you will receive confirmation of your travel itinerary via e-mail. In the event that your travel plans are disrupted because of mechanical, weather, or carrier business conditions, Expedia.com may contact you to inform you of these disruptions and help you make alternative travel arrangements. 
-
-**Participate in the Price Matcher™ service**   
-Expedia.com will send you an e-mail notifying you of the results of your price bid (i.e., either your bid was successful or unsuccessful). If your price bid was successful, you will be directed to our travel purchase pages so that you may complete your travel reservations. 
-
-**Elect to receive Fare Tracker, Travel Arranger, Trip Guides, or other special promotional marketing communications**   
-As a registered Expedia.com member, you will occasionally receive e-mails notifying you of special promotions or other travel news, if you sign up for this service. Special promotional e-mails are intended to inform you of new or unique travel opportunities or special deals that are available on Expedia.com. If you have purchased travel services, you may also receive a Trip Guide e-mail that provides information about your destination, such as weather conditions, current events, or items of interest. If you signed up for our Fare Tracker service, we will use your e-mail address to notify you of current fares to cities you have selected. 
-
-You can sign up for or discontinue your subscription to Expedia.com's e-mail services at any time on the [My Profile](https://web.archive.org/pub/agent.dll?qscr=info) page under the heading "E-mail settings." You can also unsubscribe to the Fare Tracker or special promotional e-mails at any time by replying to the e-mail with the word "unsubscribe" in the subject line. 
-
-**Contests and sweepstakes**   
-You have the option of sending an e-mail to [Expedia.com](mailto:%20privacy@expedia.com) requesting a change to the information you provided to us or to receive a copy of the information we have stored during the length of the contest or sweepstakes. We will make every reasonable effort to honor your wishes. Proof of identity is required. 
-
-**Request customer support or submit questions/suggestions**   
-When you request assistance with viewing your itinerary, logging on to the Expedia.com Web site, or accessing your account, we will respond to you via e-mail or telephone. 
-
-**Protecting your information**  
-We want our members and site visitors to feel confident about using Expedia.com to plan and purchase their travel, so we are committed to protecting the information we collect. Expedia.com has implemented a security program to keep information that is stored in our systems protected from unauthorized access. Currently, Expedia.com only stores the information you provide when registering to become an Expedia.com member, create a travel profile, purchase travel, or use selected travel tools such as Fare Tracker and Price Matcher™. 
-
-Our systems are configured with data encryption, or scrambling, technologies, and industry-standard firewalls. When you send personal information to Expedia.com over the Internet, your data is protected by Secure Socket Layer (SSL) technology to ensure safe transmission. 
-
-Expedia.com has also obtained a digital certificate from RSA Data Security, Inc., a top maker of hardware and software used to protect and manage computer network access. To view this site certificate on each secured page, click on the image of the closed lock or the solid key on the bottom bar of your browser window. A small frame displaying site security information will pop up. 
-
-  * For Internet Explorer users: Click on the word "Subject" to verify that you are on the Web site www.expedia.com. Click on "Issuer" to verify the site certification authority. 
-  * For Netscape Communicator users: Click on "View Certificate" to verify that you are on the Web site www.expedia.com and to verify the site certification authority. 
-
-**Changes to the Expedia.com Privacy Statement**  
-This Privacy Statement was produced and posted on Expedia.com on April 6, 2001. Expedia.com reserves the right to modify or amend this Privacy Statement at any time and for any reason. If there are material changes to this statement or in how Expedia.com will use your PII, Expedia.com will prominently post such changes prior to implementing the change. 
-
-Regardless of later updates, we will abide by the information privacy practices described in this Privacy Statement at the time you provided us with your information. 
-
-If you have questions about our Privacy Statement, please [e-mail us](mailto:%20privacy@expedia.com). 
-
-**Contacting Expedia.com**  
-We want to make sure you have control over your online travel experience as an Expedia.com customer, from planning and purchasing your travel to protecting your personal information. 
-
-Expedia.com customer service travel agents are ready to help with your Expedia.com travel concerns 24 hours a day, seven days a week. When you need help, use our [feedback form](https://web.archive.org/pub/Agent.dll?qscr=fbak&itid=0). All e-mail receives a response within 24 hours. You may also call 1 (800) EXPEDIA [1 (800) 397-3342] or 1 (404) 728-8787 around the clock to speak to a representative personally. Agents will address any questions or concerns you may have about your Expedia.com travel planning or purchases. We will do our best to respond to your request for assistance or other questions about Expedia.com within 24 hours. 
-
-In addition, you may directly contact the travel supplier at the phone number or address provided on your travel itinerary. 
+This Privacy Policy is effective as of December 1, 2006. 
