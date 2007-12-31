@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the mapmyfitness.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627015824id_/http%3A//www.mapmyride.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mapmyfitness.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231034212id_/http%3A//www.mapmyfitness.com/privacy_policy) for the most accurate reproduction.*
 
-# MapMyRide.com | Privacy Policy
+# MapMyFitness.com | Privacy Policy
+
+**[READ FULL PRIVACY POLICY](https://web.archive.org/web/20071231034212id_/http%3A//www.mapmyfitness.com/privacy_policy_full)**
 
 **1\. What is personal information?**   
 "Personal information" is information that you provide to us that personally identifies you, such as your name, email address, billing information, or other data which can be reasonably linked to such information by MapMyFitness. 
 
 **2\. What is a MapMyFitness Account?**   
-You may access some of our services by signing up for a MapMyFitness Account (to access MapMyRun, MapMyRide, MapMyWalk, and the other MapMyFitness sites) and providing us with some personal information (typically your name, email address and a password). This account information will be used to authenticate you when you access MapMyFitness services and protect your account from unauthorized access by others. We may share personal information among our various services in order to customize content and enhance our services for you. No account information is shared with anyone other than MapMyFitness except as specified in the Privacy Policy or with your consent. You can edit or terminate your account at any time through your [MapMyFitness Account settings](https://web.archive.org/web/20070627015824id_/http%3A//www.mapmyride.com/my_profile). 
+You may access some of our services by signing up for a MapMyFitness Account (to access MapMyRun, MapMyRide, MapMyWalk, and the other MapMyFitness sites) and providing us with some personal information (typically your name, email address and a password). This account information will be used to authenticate you when you access MapMyFitness services and protect your account from unauthorized access by others. We may share personal information among our various services in order to customize content and enhance our services for you. No account information is shared with anyone other than MapMyFitness except as specified in the Privacy Policy or with your consent. You can edit or terminate your account at any time through your [MapMyFitness Account settings](https://web.archive.org/web/20071231034212id_/http%3A//www.mapmyfitness.com/my_profile). 
 
 **3\. What is a cookie?**   
 A "cookie" is a small file containing a string of characters that is sent to your computer when you visit a website. When you visit the website again, the cookie allows that site to recognize your browser. Cookies may store user preferences and other information. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some website features or services may not function properly without cookies. 
@@ -30,8 +32,11 @@ Some of our services, including MapMyFitness route tools and MapMyFitness search
 **9\. What protections do I have against intrusions by the government into my use of MapMyFitness services?**   
 MapMyFitness does comply with valid legal process, such as search warrants, court orders, or subpoenas seeking personal information. These same processes apply to all law-abiding companies. As has always been the case, the primary protections you have against intrusions by the government are the laws that apply to where you live. 
 
-If you have any additional questions or concerns about this Policy, please feel free to
+If you have any additional questions or concerns about this Policy, please feel free to 
 
-[ _contact_ us any time through this web sit](https://web.archive.org/web/20070627015824id_/http%3A//www.mapmyride.com/contact_us)
+[ _contact_ us any time through this web site](https://web.archive.org/web/20071231034212id_/http%3A//www.mapmyfitness.com/contact_us?lstAbout=privacy)
 
-e or at Privacy Matters, c/o MapMyFitness Inc. at [privacy@mapmyfitness.com](mailto:privacy@mapmyfitness.com).
+.. 
+
+  
+
