@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldofwarcraft.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231170944id_/http%3A//www.blizzard.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldofwarcraft.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231031905id_/http%3A//www.blizzard.com/privacy.shtml) for the most accurate reproduction.*
 
 # Blizzard Entertainment - On-Line Privacy Policy
 
@@ -41,7 +41,7 @@ Lastly, we may use your personal information for internal marketing, profiling, 
 Please be advised that personal information submitted by individuals acting solely in a business capacity (e.g., personal information contained in job applicant's resume) is not subject to the uses set forth above or to any other practices stated in this Privacy Policy. 
 
 **Who is collecting your information?**  
-When you are asked for information while on a Blizzard site, you are sharing that information with Blizzard, its parent, and its [various affiliates and sister companies](https://web.archive.org/web/20061231170944id_/http%3A//www.blizzard.com/privacy2.shtml), unless specifically stated otherwise. As a result of this sharing, you may receive communications from any of Blizzard's affiliates. In addition, some services are provided in conjunction with partner companies. If your personal information is being collected by another company other than Blizzard, you will be notified at the time the information is collected. If you do not want your information shared, you can choose not to allow the transfer of information by not using that particular service or by not providing any information at that time. 
+When you are asked for information while on a Blizzard site, you are sharing that information with Blizzard, its parent, and its [various affiliates and sister companies](https://web.archive.org/web/20071231031905id_/http%3A//www.blizzard.com/privacy2.shtml), unless specifically stated otherwise. As a result of this sharing, you may receive communications from any of Blizzard's affiliates. In addition, some services are provided in conjunction with partner companies. If your personal information is being collected by another company other than Blizzard, you will be notified at the time the information is collected. If you do not want your information shared, you can choose not to allow the transfer of information by not using that particular service or by not providing any information at that time. 
 
 Please be aware that we cannot control the activities of third parties to whom we provide data, and as such we cannot guarantee that they adhere to the same privacy and security procedures as Blizzard. 
 
@@ -58,6 +58,9 @@ Blizzard sites may also have message boards and/or chat areas, where users can e
 
 **What choices do I have regarding the collection, use, and distribution of my personal information?**  
 Blizzard allows you to control the way that we use personal identifying information that we might obtain. At the time you provide personal information, Blizzard may give you the option of declining any future offers or information about new products, promotions, or services. In addition, many of the "mailings" Blizzard may send you, such as newsletters, have procedures within them to cancel the receipt of any future mailings. 
+
+**California Residents: Your California Privacy Rights**  
+Under California law, our customers that are California residents may request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. As detailed above, we do not share our customer's personal information with unaffiliated third parties for direct marketing purposes without their approval. 
 
 If at any time you wish to opt out of having your personal information shared with third parties and/or receiving information from Blizzard (via e-mail or postal mail) about new products, services, or promotions, you can do so. You may contact us at Blizzard Entertainment Privacy Policy, Attn: Opt-Out Administrator, 6060 Center Drive, 5th Floor, Los Angeles, California 90045. You can also contact us by e-mailing us at [opt-out@blizzard.com](mailto:opt-out@blizzard.com). Please indicate what publications or services you no longer wish to receive so that we may better address your needs. 
 
@@ -94,4 +97,4 @@ New York, NY 10017
 
 By using this Website, you signify your assent to this Privacy Policy. If you do not agree to this Privacy Policy, please do not use this site. This Privacy Policy may change from time to time, so please check back periodically to ensure that you are aware of any changes. If we make a material change to this Privacy Policy, we will notify you by posting the change on this website or in this Privacy Policy and, if necessary, give you additional choices regarding such change. Your continued use of the Blizzard website will signify your acceptance of these changes. 
 
-This Privacy Policy was last updated on December 13, 2006. 
+This Privacy Policy was last updated on May 1, 2007. 
