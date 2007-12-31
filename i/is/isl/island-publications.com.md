@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the island-publications.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630072821id_/http%3A//www.newsday.com/go/services/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the island-publications.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231044724id_/http%3A//www.newsday.com/go/services/privacypolicy) for the most accurate reproduction.*
 
-# Newsday.com - About Newsday
+# Newsday.com Privacy Policy -- Newsday.com
 
-#### ABOUT US
-
-## Newsday.com Privacy Policy
+ABOUT US
 
 **newsday.com** strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. Please note this policy applies only to information collected by newsday.com online and does not impact information collected or used by newsday.com or its affiliates through other means. 
 
