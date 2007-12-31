@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cradlepoint.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629075814id_/http%3A//www.cradlepoint.com/legal.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cradlepoint.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231160849id_/http%3A//cradlepoint.com/legal.php) for the most accurate reproduction.*
 
 # CradlePoint Technology
 
