@@ -1,33 +1,44 @@
-> *The following text is extracted and transformed from the jjhuddle.com privacy policy that was archived on 2005-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050414085855id_/http%3A//www.jjhuddle.com/update/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jjhuddle.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231230137id_/http%3A//www.jjhuddle.com/privacypolicy) for the most accurate reproduction.*
 
-# J.J.'s Ohio High School Sports Huddle
+# JJHuddle's Ohio High - Ohio High School Sports Stuff
 
-If you are aged 12 and under, click here for rules applicable to you.
+  
+Thank you for visiting JJHuddle.com ("JJHuddle"). JJHuddle wants to demonstrate its commitment to your privacy. As a result, JJHuddle provides the following Privacy Policy that explains how it protects your personally identifiable data. Our goal is to bring you current and up-to-date information about Ohio high school sports that are tailored to your individual needs and, at the same time, protect your privacy. 
 
-JJHuddle.com respects your privacy and use of the web. 
+PLEASE READ THIS PRIVACY POLICY CAREFULLY. YOUR USE OF THIS WEBSITE AND/OR REGISTRATION WITH JJHUDDLE WILL CONSTITUTE YOUR AGREEMENT WITH THIS PRIVACY POLICY. In addition to reviewing this Privacy Policy, please read our Terms of Use Agreement as your use of the JJHuddle website and/or service(s) constitutes agreement to the terms as explained in the Terms of Use Agreement as well. 
 
-Your computer reaches us via a particular IP (Internet Protocol) address. This can reveal the identity of your Internet Service Provider, and their demographic location. This data is compiled into statistics to show the server load and reveal peak usage. None of this information is sold or disseminated to outside parties. The individual web pages from JJHuddle.com that are requested by your browser is also kept. This allows an evaluation of the most popular pages, and reveals the presence of bad links and requests. None of this information is sold or disseminated to outside parties.
+This Privacy Policy does not cover information collected elsewhere, including without limitation, offline and online sites that are linked to and from the JJHuddle website. 
 
-Your browser has the ability to use so-called "cookies" which, unless you disable their use, store small amounts of data on your computer about your visit to various web sites. Message Boards used on our site use cookies. We use this data to tailor our visitor's experience at our site, displaying the content according to their preferences. None of this information is sold or disseminated to outside parties. Please remember that any information that is disclosed on the message boards becomes public information and you should exercise caution when deciding to disclose your personal information.
+This Privacy Policy may be modified from time to time; the date of the most recent revisions will appear on this page. Continued access of JJHuddle' website and/or service(s) by you will constitute your acceptance of any changes or revisions to the Privacy Policy. 
 
-Our message boards ask visitors for contact information (like their email address), demographic and profile data. The customer's contact information is used to contact the visitor when necessary. Users may opt-out of receiving future mailings. We do not and will not disclose your private, personally identifiable information to any third party for any purpose without your prior consent. However, JJHuddle reserves the right to reveal your identity (or whatever information we know about you) in the event of a complaint or legal action arising from any message posted by you.  See the [user agreement](http://www.jjhuddle.com/rules.htm) for more details.
+**INFORMATION COLLECTION AND USE**
 
-This site contains links to other sites. JJHuddle.com is not responsible for the privacy practices or the content of such Web sites.
+JJHuddle generally collects personal information with your specific knowledge and consent. For instance, when you register for any portion of JJHuddle services, make a purchase, subscribe to our publication(s), enter a sweepstakes or contest, or complete a survey, you are asked to provide, among other things, information like your e-mail address, name, telephone number, fax number, credit card information, and information about interest in our services, products, and programs. Optional demographic information may also be requested. The more information you provide, the better we are able to customize our services to suit your needs and preferences. 
 
-**Third Party Advertising**  
-We use DoubleClick and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.networkadvertising.org/optout_nonppii.asp)   
-**  
-Third Party Cookies**  
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. 
+In addition, when you use JJHuddle website and/or service(s), we may also automatically collect information about you or your computer, including without limitation, the internet address that you just came from, the internet address that you go to next, the internet address that referred you, the type of browser software you are using, the domain name of your Internet Service provider, and your Internet Protocol address. This information is collected and used in the aggregate and is used for, among other things, measuring site performance and use. 
 
-**Privacy for Children Aged 12 and Under**
+**USE OF INFORMATION PROVIDED BY YOU**
 
-Although the JJHuddle.com website is targeted at a general audience, we welcome the participation of younger users with their parents’ consent. We strongly recommend that users 12 and under refrain from offering any personal information either in their user profile or in the message boards themselves, and we encourage parents to stay involved in the online life of their children. Please view a copy of the parental [permission form](http://www.jjhuddle.com/cgi-bin/ubb/ubbmisc.cgi?action=showcoppaform). Prior to a child’s registration on the bulletin board, this form must be signed by the child’s parent or legal guardian and mailed to: 
+JJHuddle uses the information you supply to provide you with the services that you request. For example, if you subscribe to any of our publications, we may use your e-mail address to send you the publication. Similarly, if you enter one of our contests or sweepstakes, we will use the information provided to notify you if you win. We may also use the information supplied to communicate with you about new features, products or services, and/or to improve the services that we offer to you. 
 
-JJHuddle.com Ltd.  
-P.O. Box 44373  
-Columbus, Ohio 43204. 
+JJHuddle may sell or share your information with carefully selected companies who we think can offer you services and products that may interest you. If you do not wish to have your information shared, write to us at the street address identified below. If you do not wish to receive future commercial communications from us by e-mail, simply follow the unsubscribe instructions contained within the e-mail. If you are registered on any part of the JJHuddle.com website, please use the mechanisms on the website, if available, to keep all such information accurate and up-to-date. Otherwise, contact us at the street address below with your changes. 
 
-JJHuddle.com is prohibited from conditioning a child’s participation in an activity on the child’s disclosing more personal information than is reasonably necessary to participate in such activity. Parents can review and request deletion of their child’s personal information, and can refuse to permit further collection or use of their child’s information. In order to request such a review, to revoke previously offered parental consent, or to express any concerns regarding a child’s privacy on our website, please contact us at the below e-mail address.
+JJHuddle may, as necessary, allow access to our database to third parties that provide us services, such as, the technical maintenance of our website. JJHuddle limits such access for the purposes of providing our website and/or services. If you choose to purchase items featured on our website or subscribe to JJHuddle.com, then we may forward your information to third parties for services such as credit card processing and order fulfillment. 
 
-Any questions regarding the privacy policy may be directed to: [jjhuddlestaff@yahoo.com](mailto:JJsHuddle@aol.com)
+As our business changes, we may buy or sell various assets. In the event all or a portion of the assets owned by JJHuddle are sold, assigned, transferred or acquired, the information from and about JJHuddle users may be among the transferred assets. 
+
+Our website uses cookies (i.e., small bits of text that our servers place into a file on your computer's hard drive). For example, if you register on any part of our website and select the option to save your username and password on your computer, then that information is stored on your computer. We also may use cookies to provide personalized functionality to our website. You have the option to reject cookies by changing your internet browser settings, but disabling this functionality may affect the optimal use of our website. 
+
+**CHILDREN UNDER 13 YEARS OLD**
+
+JJHuddle' website and/or service(s) are not intended for use by children, especially those under age 13. We ask that children under age 13 not provide any personal information to JJHuddle aor provide such information to third parties in our message boards or chat rooms. Minors between the ages of 13 and 17 must get the permission of their parent(s) or legal guardian(s) before making purchases or registering with JJHuddle. 
+
+**PRIVACY POLICY COORDINATOR**
+
+If you have any questions or comments about any aspect of this Privacy Policy, then please feel free to contact us at the address below: 
+
+JJHuddle.com  
+100 E. Third Street  
+Dayton, Ohio 45402-2130 
+
+Questions about our privacy policy may be directed to: [jjhuddlestaff@yahoo.com](mailto:jjhuddlestaff@yahoo.com)
