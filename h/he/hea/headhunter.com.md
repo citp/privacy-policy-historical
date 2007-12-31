@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the headhunter.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627210505id_/http%3A//www.careerbuilder.com/JobSeeker/Info/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the headhunter.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231165156id_/http%3A//careerbuilder.com/JobSeeker/Info/Privacy.aspx) for the most accurate reproduction.*
 
 # Search jobs online with confidence with CareerBuilder.com, who is committed to your privacy
 
@@ -86,7 +86,11 @@ This option allows you to post your resume on CareerBuilder.com without having i
 
 Managing your privacy is as simple as selecting which pieces of your contact information are displayed. This is done in the section of the resume form called "Contact Information." Using option 3 above requires that you select the Apply Online Only option from the "Contact Information" section at the bottom of the edit form, as shown below.
 
-### Microsoft .NET Passport
+### Microsoft Windows Live™ ID
+
+In addition to the CareerBuilder.com sign-in, CareerBuilder.com offers the ability to sign in using Microsoft Windows Live ID service, which provides authentication for online sign in. When you sign in to this site using the Windows Live ID service you will be asked to provide your e-mail address and a password to sign you in. This same Windows Live ID sign-in allows you to access many other participating Windows Live ID Web sites.
+
+[View the Windows Live ID Privacy Policy >>](http://g.msn.com/0US!s2.91046_910581/94.a910394/6??cm=ShortNotice%E2%80%93FeedContent-S)
 
 ## How To Spot Fraud
 
