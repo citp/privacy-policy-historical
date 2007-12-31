@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinecomputerbooks.com privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618070638id_/http%3A//www.onlinecomputerbooks.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinecomputerbooks.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231164252id_/http%3A//www.onlinecomputerbooks.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy policy
 
