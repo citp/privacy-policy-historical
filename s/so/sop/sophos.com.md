@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sophos.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617090417id_/http%3A//www.sophos.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sophos.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231091039id_/http%3A//www.sophos.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Sophos privacy policy
 
-This document was last updated on 21 February 2007.
+This document was last updated on 21 March 2007.
 
 ## General
 
@@ -73,7 +73,7 @@ We use your personal data to provide goods and services to you, to provide you w
 
 If you are making a job application or inquiry, you may provide us with a copy of your CV or other relevant information. We may use this information throughout Sophos for the purpose of considering your application or inquiry. Except when you explicitly request otherwise, we may keep this information on file for future reference.
 
-We may also use your personal data to carry out research that will enable us to better understand our users' demographics, interests and behaviour. This research is compiled and analysed on an aggregated basis, without identifying any user individually.
+We may also use your personal data to carry out research. Your personal data may be aggregated with data received from other survey submissions. This research is conducted for our internal business and training purposes and will improve our understanding of our user's demographics, interests and behaviour. This research is compiled and analysed on an aggregate basis and therefore does not individually identify any user.
 
 Partners of Sophos may visit a specially allocated website. We may use information provided on that site to administer and develop our business relationship including the sharing of certain information (where permitted to do so) with associate companies other business partners, customers or prospects.
 
@@ -107,4 +107,4 @@ If you want to request any information about your personal data or believe that 
 
 ## Notification of changes
 
-This privacy policy was last updated on 18 February 2004. We reserve the right to amend or vary this policy at any time and the revised policy will apply from the date posted on the Site. You accept that by doing this, Sophos has provided you with sufficient notice of the amendment or variation.
+This privacy policy was last updated on 21 March 2007. We reserve the right to amend or vary this policy at any time and the revised policy will apply from the date posted on the Site. You accept that by doing this, Sophos has provided you with sufficient notice of the amendment or variation.
