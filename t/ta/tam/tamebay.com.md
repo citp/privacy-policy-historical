@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tamebay.com privacy policy that was archived on 2007-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070302230129id_/http%3A//www.tamebay.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamebay.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231044852id_/http%3A//www.tamebay.com/privacy-policy) for the most accurate reproduction.*
 
-# TameBay : Privacy Policy
+# TameBay : eBay news blog and forum
 
 ## Privacy Policy
 
@@ -9,7 +9,7 @@
   * We will never sell, rent or give away personal information given to us by users of the TameBay site. 
   * Cookies are only used to remember your information when you leave a comment. See below for more details.
   * Some other non-personal information is collected for the purpose of monitoring our site traffic. See below for more details.
-  * We do not collect any further information, specifically we do not collect eBay IDs or passwords. 
+  * We do not collect any further information: specifically we do not collect eBay IDs or passwords. 
 
 
 
