@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the geotab.com privacy policy that was archived on 2007-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070102014952id_/http%3A//www.geotab.com/Home/tabid/36/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geotab.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231032236id_/http%3A//geotab.com/DealerMenu/tabid/62/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
-# Geotab Inc. > Home
+# Dealer Support Page
 
 Geotab Inc. is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Geotab Inc. Web site and governs data collection and usage. By using the Geotab Inc. website, you consent to the data practices described in this statement.
 
