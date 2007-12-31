@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webproworld.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629180249id_/http%3A//www.ientry.com/page/corp/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webproworld.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231111610id_/http%3A//www.ientry.com/page/corp/privacy.html) for the most accurate reproduction.*
 
 # iEntry Newsletters - Safeguarding Consumer Information With Our Privacy Policy
 
