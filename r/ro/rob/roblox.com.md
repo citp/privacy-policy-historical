@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roblox.com privacy policy that was archived on 2007-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070420014324id_/http%3A//www.roblox.com/info/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roblox.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231195656id_/http%3A//www.roblox.com/info/Privacy.aspx) for the most accurate reproduction.*
 
 # ROBLOX Login
 
