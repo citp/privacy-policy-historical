@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the smithmicro.com privacy policy that was archived on 2007-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070308152355id_/http%3A//www.smithmicro.com/privacy.tpl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smithmicro.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231103702id_/http%3A//www.smithmicro.com/privacy.tpl) for the most accurate reproduction.*
 
-# Smith Micro Software
+# Privacy Policy - Smith Micro Software, Inc.
 
 _Our Commitment To Privacy_  
 Your privacy is important to Smith Micro. We recognize that when you choose to provide us with information about yourself, you trust us to act in a responsible manner. To better protect this personal information we provide this notice explaining our information practices and the choices you can make about the way your information is collected and used to personalize your experience with Smith Micro.
@@ -38,6 +38,7 @@ Smith Micro uses the personal information we gather for the following purposes:
 
   * To provide you with information about Smith Micro product updates, new service and product announcements, and any other product related information that may be of interest to you;
   * To help us create new products, enhance new services, and create content that supports your needs;
+  * For market research purposes to gain a better understanding of our customers and therefore offer better products and services.
   * To help us inform you of new partnerships that we have entered into that may be of interest to you; and
   * To inform you of special offers that may be of interest to you.
 
