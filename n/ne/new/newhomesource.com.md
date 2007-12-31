@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newhomesource.com privacy policy that was archived on 2007-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070516131550id_/http%3A//www.newhomesource.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newhomesource.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231103317id_/http%3A//www.newhomesource.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy
 
