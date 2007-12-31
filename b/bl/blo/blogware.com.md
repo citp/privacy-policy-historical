@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blogware.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205060921id_/http%3A//www.tucows.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogware.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231062303id_/http%3A//www.tucows.com/privacy.html) for the most accurate reproduction.*
 
-# Tucows Privacy Statement Information
+# Tucows Download
 
 Because we gather information about the customers of Tucows.com and the Tucows Interactive Limited network of sites (including but not limited to [www.tucows.com](http://www.tucows.com/), [shop.tucows.com](http://shop.tucows.com/), [games.tucows.com](http://games.tucows.com/), [pda.tucows.com](http://pda.tucows.com/), [themes.tucows.com](http://themes.tucows.com/) and [linux.tucows.com](http://linux.tucows.com/)), we feel you should fully understand the terms and conditions surrounding the capture and use of that information. 
 
@@ -24,7 +24,7 @@ This information is provided on the contractual understanding with each software
 
 Tucows.com and Tucows Interactive Limited does not provide this information to any other third parties under any circumstances. 
 
-Questions regarding this statement should be directed [here](http://www.tucows.com/contactus.html). 
+Questions regarding this statement should be directed [here](http://www.tucows.com/contact.html). 
 
 ## Electronic Newsletters
 
@@ -82,4 +82,4 @@ Users may unsubscribe to any of our electronic newsletters at any time by follow
 
 ## How To Contact Us
 
-If you ever need to contact us via email, [click here](https://web.archive.org/about/contact). 
+If you ever need to contact us via email, [click here](https://web.archive.org/contact.html). 
