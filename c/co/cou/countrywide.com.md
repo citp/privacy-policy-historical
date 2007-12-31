@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the countrywide.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607184232id_/http%3A//my.countrywide.com/Privacy.aspx%3Flinkid%3DPCFT014) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the countrywide.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231194251id_/http%3A//my.countrywide.com/privacy.aspx) for the most accurate reproduction.*
 
 # Countrywide Privacy
 
@@ -20,8 +20,7 @@ Countrywide Financial Corporation, a trusted leader for over 30 years in the hom
 We offer you products and services at a lower cost or with greater convenience by sharing limited information within our Countrywide family of companies and with carefully selected business partners.  
    
 Your protection is our priority  
-  
-We strive to safeguard your data. We do this by:
+We strive to safeguard your data. We do this by: 
 
   * setting policies and procedures for carefully handling your information; 
   * limiting employee access to sensitive information; 
@@ -40,8 +39,7 @@ click here to verify
   
   
 About our websites | Back to top  
-  
-Our systems automatically switch to "secure" mode when you are asked to enter personal information on a Countrywide website (such as your loan number, account number or social security number). To keep your data safe, we use:
+Our systems automatically switch to "secure" mode when you are asked to enter personal information on a Countrywide website (such as your loan number, account number or social security number). To keep your data safe, we use: 
 
   * Encryption and authentication technology 
   * Website design that blocks or limits online display of customer information when not necessary to the transaction 
@@ -53,7 +51,6 @@ For more details on Internet security, please see our "About Internet Security" 
   
   |    
 Use of cookies, Web beacons and similar files | Back to top  
-  
 We design many features of our website so new visitors may anonymously learn about our products and services, view today’s rates and use our educational tools without revealing their identity. For new visitors, we use "cookies" and Web beacons to collect limited data (such as the date, time and areas of our website visited and the website the new visitor came from). When you select one of our products or services, review your accounts online or respond to marketing materials sent to you directly, we will try to identify your browser and may combine information from "cookies," Web beacons and other information collected online with any other data we maintain about you. By improving the marketing and content of our website and making your online experience more convenient, we are able to better serve our customers' financial needs.
 
 Cookies are required to access your online accounts  
@@ -69,7 +66,7 @@ To offer and recommend valuable products and services, we may share customer and
 ---  
 | 
 
-  * New Home Loans \- Countrywide Home Loans offers new home loans, home equity loans and lines of credit, and many refinancing options. 
+  * New Home Loans \- Countrywide Bank, FSB offers new home loans, home equity loans and lines of credit, and many refinancing options. 
   * Home Loan Servicing \- Countrywide Home Loan Servicing LP provides industry-leading customer service and easy access to your home loan account information. 
   * Insurance \- Countrywide Insurance Service Group of companies* offer homeowners, life, auto, disability, home warranty and other insurance products. 
   * Loan Closing Services \- The LandSafe family of companies offers title and escrow services, title insurance, credit reporting, property appraisals and flood zone determinations. 
@@ -82,9 +79,7 @@ To offer and recommend valuable products and services, we may share customer and
 As Countrywide Financial continues to expand its Global Operations, we also look for ways to enhance customer satisfaction in the United States by using our resources overseas. Our mission is to quickly respond to your homeownership and financial needs at all hours of the day.  
    
 Benefits to sharing outside the Countrywide family | Back to top  
-  
-To make products and services available, often at a savings to you, we may prudently share some customer and former customer non-public personal information with business partners under an agreement requiring the partner to keep the information confidential and only use it for those offers.  
-  
+To make products and services available, often at a savings to you, we may prudently share some customer and former customer non-public personal information with business partners under an agreement requiring the partner to keep the information confidential and only use it for those offers.   
    
 How we obtain and use information | Back to top  
 To fund and service your loan, comply with government regulations, improve our products and services, and better understand your financial needs, we collect and maintain customer and former customer data. We collect information: 
@@ -121,21 +116,17 @@ In today’s dynamic market, opting out may mean missing timely information abou
   
    
 In some states, we have different information sharing practices | Back to top  
-  
 Please review the website privacy notices of the companies listed below for state-specific information of other members of the Countrywide family:
 
-[ Countrywide Home Loans](http://www.countrywide.com/global/privacy.asp?LinkID=HPFT020)  
-[ Countrywide Insurance Services](http://www.cwinsurance.com/about/privacy.aspx?LinkID=IPFT026)  
+[ Countrywide Home Loans](http://www.countrywide.com/global/privacy.asp)  
+[ Countrywide Insurance Services](http://insurance.countrywide.com/about/privacy.aspx)  
 [Balboa Insurance Group](http://www.balboainsurance.com/Privacyandsecurity.aspx)  
 [Countrywide Investments](http://www.countrywideinvestments.com/scontent.aspx?cmtag=Content-privacy_security)  
 [Countrywide Bank](http://bank.countrywide.com/scontent.aspx?cmtag=Content-privacy_policy&from=17557)  
+  
    
 Companies not covered under this section | Back to top  
-  
-Some companies in the Countrywide family have different information sharing practices. Please see their websites for more information.
-
-[DirectNet Insurance](http://www.directnetinsurance.com/About/privacy.aspx)  
-[LandSafe Credit - Countrywide CreditGuard Division](http://www.countrywidecredit.com/Message.aspx?PageTypeID=Privacy&SiteVersionID=356&SiteID=100189&sc=635700)
+Some companies in the Countrywide family have different information sharing practices. Please see their websites for more information. 
 
 Countrywide websites may contain links to other companies not in the Countrywide family for your convenience and information. If you access those links, you will leave the Countrywide website. We encourage you to review the privacy policy of any company before submitting your personal information.  
   
@@ -153,22 +144,21 @@ Policy Effective Date: December 15, 2004.
 | About Internet Security  
 |  | How Does Browser Security Work? | Back to top  
 ---|---  
-  
-Recent versions of most internet browsers support the encrypted transmission of on-line documents and the data you enter on a web page. This means that instead of sending readable text, both your browser and the website's secure server encode all text using a security key. That way, personal data sent to your browser or data you send back would be extremely difficult to decode in the unlikely event it was intercepted by an unauthorized party. The key used for encoding is a random number that is unique to your session at the secure website.
+Recent versions of most internet browsers support the encrypted transmission of on-line documents and the data you enter on a web page. This means that instead of sending readable text, both your browser and the website's secure server encode all text using a security key. That way, personal data sent to your browser or data you send back would be extremely difficult to decode in the unlikely event it was intercepted by an unauthorized party. The key used for encoding is a random number that is unique to your session at the secure website. 
 
 There are two grades of internet security: International-grade encryption uses a 40-bit random number negotiated between your browser and the web-server. This means that only one out of about 1,000,000,000,000 possible decoding keys can be used to decipher your data. Domestic-grade encryption uses a 128-bit key, so that the number of possible keys is vastly larger. The Countrywide site uses the highest grade of encryption supported by your browser and your internet connection.  
   
    
 How Do I Know If Security Is Operating? | Back to top  
-Your internet session is encrypted if your security-enabled browser is connected to a website using the Secure Hypertext Transport Protocol. URL strings beginning with "HTTPS://" instead of the usual "HTTP://" indicate that the secure protocol is in effect. Your browser may also tell you if security is operating. For example, Netscape Navigator may display the  icon in the lower left corner of your screen in secure mode. If 128-bit security is in effect, it shows the  icon. Microsoft Internet Explorer shows a  icon in either case. Note that security may be operating without any visible indication if the web page you are viewing employs frames (see below). 
+Your internet session is encrypted if your security-enabled browser is connected to a website using the Secure Hypertext Transport Protocol. URL strings beginning with "HTTPS://" instead of the usual "HTTP://" indicate that the secure protocol is in effect. Your browser may also tell you if security is operating. For example, Mozilla's Firefox will display the  icon in the lower right corner of your screen in secure mode. Microsoft Internet Explorer shows a  icon. Note that security may be operating without any visible indication if the web page you are viewing employs frames (see below). 
 
-If secure transmission is not in effect or only part of a frame-based page is secure, Netscape shows the "broken key"  icon, and Explorer does not show the "lock" icon. 
+If secure transmission is not in effect or only part of a frame-based page is secure, Firefox shows the "red-slashed lock" icon , and Explorer does not show the "lock" icon. 
 
-Most browsers can be set to give you a pop-up announcement when you enter or leave a secure web page. In Netscape, these settings are on the Security Preferences "General" tab. In IE, the setting is on the "Advanced" tab when you select "Options" on the View menu.   
+Most browsers can be set to give you a pop-up announcement when you enter or leave a secure web page. In Firefox, these settings are on the Security section when you select "Options" on the Tools menu. In IE, the setting is on the "Advanced" tab when you select "Options" on the View menu.   
   
    
 Secure Mode and Frame-Based Web Pages | Back to top  
-Security may be operating without displaying any security icons (or Netscape may show the "broken key" icon) if only part of a frame-based page is employing security. You can verify the security of a page within a frame by opening it in a new browser window. Both IE and Netscape allow you to open a link in a new window by right-clicking on the link and selecting that option from the pop-up context menu. When a secure page is open in its own window, instead of being viewed within a frame, you can then see the security icons provided by your browser as well as the "https://" secure protocol prefix in the URL string.   
+Security may be operating without displaying any security icons (or Firecox may show the "red-slashed lock" icon) if only part of a frame-based page is employing security. You can verify the security of a page within a frame by opening it in a new browser window. Both IE and Firefox allow you to open a link in a new window by right-clicking on the link and selecting that option from the pop-up context menu. When a secure page is open in its own window, instead of being viewed within a frame, you can then see the security icons provided by your browser as well as the "https://" secure protocol prefix in the URL string.   
    
 | cookies, web beacons  
 |  | Cookies | Back to top  
@@ -176,15 +166,12 @@ Security may be operating without displaying any security icons (or Netscape may
 When you visit a website, a small file called a "cookie" may be saved to your computer’s hard drive during your visit. When you revisit the site, the website’s server may open the cookie file and access the stored information. You can usually set your browser to limit or let you know about cookies that a website places on your computer.   
    
 Web Beacons | Back to top  
-  
-A Web beacon is a graphic image (such as a pixel tag or clear GIF) that is placed on a web page or in an e-mail message to monitor user activity (such as whether the web page or e-mail message is read or clicked). They are often invisible because they are very small in size. They are also used on many web pages for alignment purposes. We sometimes use Web beacons to provide an independent accounting of how many people visit our websites or to gather statistics about browser usage at our websites. Some of our web pages and HTML-formatted e-mail newsletters use Web beacons in conjunction with cookies. It is difficult for you to limit the use of Web beacons because there is no easy way to distinguish their use from alignment and other purposes. They may be loaded from a different web server than the rest of the page.  
-  
+A Web beacon is a graphic image (such as a pixel tag or clear GIF) that is placed on a web page or in an e-mail message to monitor user activity (such as whether the web page or e-mail message is read or clicked). They are often invisible because they are very small in size. They are also used on many web pages for alignment purposes. We sometimes use Web beacons to provide an independent accounting of how many people visit our websites or to gather statistics about browser usage at our websites. Some of our web pages and HTML-formatted e-mail newsletters use Web beacons in conjunction with cookies. It is difficult for you to limit the use of Web beacons because there is no easy way to distinguish their use from alignment and other purposes. They may be loaded from a different web server than the rest of the page.   
    
 Third Party Advertising | Back to top  
-  
-We sometimes use third party advertising companies to serve our internet ad banners on our site and other sites on which we advertise. If you click on one of those ads, you will be directed to one of the Countrywide Financial sites offering that particular product or service. If you view a web page where our ads appear, the advertising company may place a cookie on your computer or use a Web beacon to access a cookie they previously placed on your computer. These companies do not collect information that can identify you personally, but may use information about your visits to our sites and other sites to measure the effectiveness of ads. We do not give any personally identifiable information to these companies. Unless you are first notified, these advertising companies do not link any online actions or cookie to any information that can be used to personally identify you (such as your name, address or e-mail address). The companies that distribute our ads are prohibited by contract from using information other than for the agreed upon purpose – to help us market our products and services and to measure response rates.
+We sometimes use third party advertising companies to serve our internet ad banners on our site and other sites on which we advertise. If you click on one of those ads, you will be directed to one of the Countrywide Financial sites offering that particular product or service. If you view a web page where our ads appear, the advertising company may place a cookie on your computer or use a Web beacon to access a cookie they previously placed on your computer. These companies do not collect information that can identify you personally, but may use information about your visits to our sites and other sites to measure the effectiveness of ads. We do not give any personally identifiable information to these companies. Unless you are first notified, these advertising companies do not link any online actions or cookie to any information that can be used to personally identify you (such as your name, address or e-mail address). The companies that distribute our ads are prohibited by contract from using information other than for the agreed upon purpose – to help us market our products and services and to measure response rates. 
 
-Third party advertisers are subject to their own privacy policies. Currently, we use Avenue A, Inc. and Yahoo! as one of our third party advertisers. If you would like more information about the privacy practices of Avenue A, including information on how to opt-out of their cookies, please click [ here](http://www.networkadvertising.org/) to visit the Network Advertising Initiative website. If you prefer that Yahoo! Not record information by means of these Beacons on our website, visit Yahoo! at [ http://privacy.yahoo.com/privacy/us/beacons/details.html](http://privacy.yahoo.com/privacy/us/beacons/details.html) to opt out. To prevent other advertising companies from placing cookies on your computer, you may adjust the privacy settings for your browser to block or filter cookies, or visit each website individually and opt-out.  
+Third party advertisers are subject to their own privacy policies. Currently, we use web beacons provided by Doubleclick, Yahoo!, Google and MSN. If you prefer that Doubleclick does not record your information by means of these web beacons on our website, please click here: [ http://www.networkadvertising.org/consumer/opt_out.asp](http://www.networkadvertising.org/consumer/opt_out.asp). If you prefer that Yahoo! not record information by means of these Beacons on our website, visit Yahoo! at [ http://privacy.yahoo.com/privacy/us/beacons/details.html](http://privacy.yahoo.com/privacy/us/beacons/details.html) to opt out. To prevent other advertising companies from placing cookies on your computer, you may adjust the privacy settings for your browser to block or filter cookies, or visit each website individually and opt-out.  
   
    
 Similar Devices | Back to top  
@@ -197,15 +184,13 @@ For example, we include URLs in e-mail marketing materials sent directly to you 
 Shared secrets are the most common security method for accessing confidential information. A shared secret is something known to both the user and the holder of the confidential information. The most common shared secrets are a user ID and password. These shared secrets allow the user to log into the site of the holder of confidential information such as a financial institutions or online merchants. Shared secrets form an integral part of user authentication in today's online environment.   
    
 Protecting Your Shared Secrets | Back to top  
-  
-Protecting your shared secrets ensures that information accessed via those shared secrets is protected. You should never record your shared secrets electronically such as in documents or spreadsheets. In the event of a compromise of your computer hard drive, your shared secrets can be compromised as well placing all the data protected by those shared secrets at banks and merchants at risk. Likewise you should never store credit card numbers, expiration dates, bank account number, social security numbers, driver’s license number or other personal identifying information electronically on your computer for the same reason.
+Protecting your shared secrets ensures that information accessed via those shared secrets is protected. You should never record your shared secrets electronically such as in documents or spreadsheets. In the event of a compromise of your computer hard drive, your shared secrets can be compromised as well placing all the data protected by those shared secrets at banks and merchants at risk. Likewise you should never store credit card numbers, expiration dates, bank account number, social security numbers, driver’s license number or other personal identifying information electronically on your computer for the same reason. 
 
 Your shared secrets should never be revealed in response to unsolicited e-mails. Criminals attempt to obtain individual’s personal identifying information and use that information illegally such as to open and/or use credit cards, obtain phone or utility accounts, obtain loans, work, open bank accounts and/or pass fraudulent checks using a technique called ("[phishing](http://www.ftc.gov/bcp/edu/pubs/consumer/alerts/alt127.htm)"). Criminals may also attempt to obtain that information over the phone posing as a survey taker, telemarketer or other unsolicited caller ("[pretexting](http://www.ftc.gov/bcp/conline/pubs/credit/pretext.htm)").  
   
    
 Common Shared Secrets | Back to top  
-  
-To minimize the potential compromise of your shared secrets, you should avoid commonly used secrets such as names (yours, your spouse's name, your children's, parents), common terms that appear in the dictionary (brute force attacks to crack passwords often use dictionaries in an attempt to randomly match the password), exclusively numbers (numbers range from 0 to 9 for each character where letters range from a to z creating 26 potential variations or 52 if case sensitive). The best passwords are a combination of both letters and numbers where the letters do not spell words that could be found in a dictionary and the password is of sufficient length, 6 characters or preferably more, to make brute force attacks harder.
+To minimize the potential compromise of your shared secrets, you should avoid commonly used secrets such as names (yours, your spouse's name, your children's, parents), common terms that appear in the dictionary (brute force attacks to crack passwords often use dictionaries in an attempt to randomly match the password), exclusively numbers (numbers range from 0 to 9 for each character where letters range from a to z creating 26 potential variations or 52 if case sensitive). The best passwords are a combination of both letters and numbers where the letters do not spell words that could be found in a dictionary and the password is of sufficient length, 6 characters or preferably more, to make brute force attacks harder. 
 
 We suggest you do not use shared secrets across multiple domains (e.g. websites). If you use the same logon and password while shopping or surfing online as you use for your bank, if one of the online merchant sites is compromised, your user ID and password could then be used to access your bank information. Not all website apply the same level of security to their database. The use of a single logon ID and password across multiple sites is only as secure at the least secure site.  
   
@@ -232,7 +217,7 @@ Identity theft requires someone to gain access to your personal information. You
   * Guard your PINs. Never give out your Personal Identification Number (PIN). Memorize your PINs and never write them on your cards or carry them in your wallet. 
   * Report lost or stolen credit cards, checks or identification immediately.
   * Store your personal information securely. Keep it where it is not easily available in the event of a burglary or other unauthorized access. 
-  * Be cautious online. Make sure it is safe when you are asked to provide information at websites or with online merchants you do not have an existing relationship with. Always confirm that you are in a secure session before entering personal information online (see [How Do I Know if Security is Operating?](https://web.archive.org/web/20070607184232id_/http%3A//my.countrywide.com/Privacy.aspx?linkid=PCFT014#about_internet_security)). 
+  * Be cautious online. Make sure it is safe when you are asked to provide information at websites or with online merchants you do not have an existing relationship with. Always confirm that you are in a secure session before entering personal information online (see [How Do I Know if Security is Operating?](https://web.archive.org/web/20071231194251id_/http%3A//my.countrywide.com/Privacy.aspx?linkid=PCFT014#about_internet_security)). 
   * Check your credit reports. Review your credit report regularly to identify any inquiries or accounts that you are not aware of and did not apply for. 
   * Protect your mailbox. If your residential mailbox is not secure, don’t put outgoing mail in the box and promptly pick up incoming mail or obtain a secure postal mailbox. 
   * Safeguard your checks. Never print your personal information such as a Social Security Number or driver’s license number on your checks.
@@ -255,7 +240,7 @@ Identity Theft Resources | Back to top
 [US Postal Inspection Service](http://www.usps.com/postalinspectors/idthft_ncpw.htm) | 1-800-372-8347 | [Identity Theft Laws (by state)](http://www.ncvc.org/policy/issues/identitytheft/statetable.html) |    
    
 What is Countrywide Doing to Assist in the Battle Against Identity Theft? | Back to top  
-Protecting the confidentiality and security of our customers’ personal information is a priority for Countrywide and its family of companies. You can find more information in our [ Privacy and Security Policy](https://web.archive.org/web/20070607184232id_/http%3A//my.countrywide.com/Privacy.aspx?linkid=PCFT014). We understand the implications identity theft can have and take very specific steps to reduce the chance that identity thieves can damage the credit reputations of our customers. As a result, Countrywide has put multiple safety measures in place to combat identity theft.  
+Protecting the confidentiality and security of our customers’ personal information is a priority for Countrywide and its family of companies. You can find more information in our [ Privacy and Security Policy](https://web.archive.org/web/20071231194251id_/http%3A//my.countrywide.com/Privacy.aspx?linkid=PCFT014). We understand the implications identity theft can have and take very specific steps to reduce the chance that identity thieves can damage the credit reputations of our customers. As a result, Countrywide has put multiple safety measures in place to combat identity theft.  
    
 | Training  
 ---  
@@ -263,9 +248,6 @@ Protecting the confidentiality and security of our customers’ personal informa
    
 Fraud Hotline  
   | For many years, Countrywide has maintained a Fraud Hotline for consumers, employees and the public to report crimes, including identity theft. Fraud Hotline staff work with departments across the Countrywide family of companies to block credit reporting based on claims of identity theft, conduct investigations including reviews of the account or loan documentation, and, if identity theft is confirmed, notify the credit bureaus and correct credit reporting history on affected Countrywide relationships. The Fraud Hotline serves as a single point of contact for consumers to report identity theft complaints to Countrywide. You can reach the Fraud Hotline by any method described under the _Reporting Identity Theft on a Countrywide Relationship_ section below.  
-   
-CreditGuard™  
-  | Countrywide also offers a variety of services to help customers protect themselves against identity theft including [ CreditGuard](http://www.countrywidecredit.com/). Offered through Countrywide’s LandSafe subsidiary, CreditGuard provides round-the-clock monitoring of your credit report and notification if any critical information changes.   
    
 Education  
   | Consumer awareness is a critical component in reducing the incidence of identity theft. Countrywide provides consumer education and training on identity theft through featured articles in our quarterly newsletters, statement messaging and our websites.  
