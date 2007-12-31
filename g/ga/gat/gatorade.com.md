@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gatorade.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630102755id_/http%3A//www.gatorade.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gatorade.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231172919id_/http%3A//www.gatorade.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Gatorade®
 
@@ -55,7 +55,7 @@ Quaker and the www.Gatorade.com web site have no intention of collecting any per
 
 ###### Removal from database
 
-To be removed from our e-mail database, send an e-mail to us by clicking on ["Contact"](http://gatorade.com/contact_us/default.aspx) or call 1-800-88-GATOR or 1-800-884-2867. Be sure to include the e-mail address you used to register.
+To be removed from our e-mail database, send an e-mail to us by clicking on ["Contact"](http://www.gatorade.com/contact_us/default.aspx) or call 1-800-88-GATOR or 1-800-884-2867. Be sure to include the e-mail address you used to register.
 
 ###### Future Privacy Policy Changes
 
