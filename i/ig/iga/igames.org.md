@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the igames.org privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623024506id_/http%3A//www.igames.org/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igames.org privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231071602id_/http%3A//www.igames.org/privacy_policy.asp) for the most accurate reproduction.*
 
 # iGAMES ONLINE PRIVACY STATEMENT
 
@@ -6,7 +6,7 @@
 
 ******iGAMES ONLINE PRIVACY STATEMENT**
 
-****Last updated October 04, 2006
+Last updated August 10, 2007
 
 **Welcome to iGames!**
 
@@ -50,15 +50,14 @@ We don’t knowingly collect Personal Information from children under 13. We tak
 **We collect Personal Information from our web guests to:**
 
   1. Register for the Service
-  2. Register for Game Centers
-  3. Register for iGames Communities
-  4. Participate in Events
-  5. Promotions, surveys, or questionnaires
-  6. Questions and Customer Support
+  2. Register for game centers
+  3. Register for iGames communities
+  4. Participate in events, promotions, surveys, or questionnaires 
+  5. Respond to questions and provide customer support
 
 
 
-**Events.** Game center members have the ability to initiate events, including tournaments, through the Service. To create such events through the Service, iGames requires Personal Information from the sponsoring game center. If gamer members wish to participate in such events, they will be required to provide certain Personal Information and may be asked to provide additional, optional, information. In addition, if the event is one for which iGames rankings are available (this is disclosed at the time of registration), iGames will collect the results of the event and incorporate them into the iGames rankings for the particular games. The rankings will indicate the relative standing of each participant for the particular game.
+**Events.** iGame and game center members have the ability to initiate events, including tournaments, through the Service. To create such events through the Service, iGames requires Personal Information from the sponsoring game center. If gamer members wish to participate in such events, they will be required to provide certain Personal Information and may be asked to provide additional, optional, information which may be distributed to host game centers and other sponsors. In addition, if the event is one for which iGames rankings are available (this is disclosed at the time of registration), iGames will collect the results of the event and incorporate them into the iGames rankings for the particular games. The rankings will indicate the relative standing of each participant for the particular game.
 
 **Promotions.** We may occasionally run optional contests, surveys, or other special promotions on the Service in which we ask participants for Personal Information or demographic information (like a zip code, age or favorite video game). We may use the data we collect in these contests and promotions to send you promotional material about iGames or third parties. Your Personal Information collected from these contests and promotions may be used to contact you when necessary and may be shared with other companies for promotional purposes, but only under the terms and conditions specified when you take part in the promotion.
 
@@ -74,9 +73,7 @@ We collect information through technology to make our sites more interesting and
 
 **Network Advertisers**
 
-Many advertisements are managed and placed on our website by third parties. These companies are called "network advertisers." Network advertisers who place advertisements on 
-
-our website may also use cookies and Web beacons to collect non-personally identifiable information when you click on or move your cursor over one of their banner advertisements. You may not realize this information is being collected. In some cases, we may have access to information from Web beacons and cookies used by network advertisers on our sites and this information may permit us to identify other sites that you have visited that are also associated with the network advertiser. Finally, once you've clicked on an advertisement and have left our Web sites, our Privacy Policy no longer applies and you must read the privacy policy of the advertiser to see how your Personal Information will be handled on their site. 
+Many advertisements are managed and placed on our website by third parties. These companies are called "network advertisers." Network advertisers who place advertisements on our website may also use cookies and Web beacons to collect non-personally identifiable information when you click on or move your cursor over one of their banner advertisements. You may not realize this information is being collected. In some cases, we may have access to information from Web beacons and cookies used by network advertisers on our sites and this information may permit us to identify other sites that you have visited that are also associated with the network advertiser. Finally, once you've clicked on an advertisement and have left our Web sites, our Privacy Policy no longer applies and you must read the privacy policy of the advertiser to see how your Personal Information will be handled on their site. 
 
 **Cookies**
 
@@ -89,7 +86,7 @@ Our websites use a variety of technical methods for tracking purposes, including
 [back to top ](https://web.archive.org/privacy_policy.asp#top1)****  
   
 | **How is your Personal Information used and shared?**  
-| As described in detail below, iGames may use your Personal Information in many ways, including contacting you, sending you promotional materials, and sharing your information with third parties so that these third parties can send you promotional materials. By “promotional materials,” we mean communications that directly promote the use of our website, or the purchase of products or services. As outlined below in A4, you may "opt-out" of certain uses of your Personal Information 
+| As described in detail below, iGames may use your Personal Information in many ways, including contacting you, sending you promotional materials, and sharing your information with third parties so that these third parties can send you promotional materials. By “promotional materials,” we mean communications that directly promote the use of our website, or the purchase of products or services. As outlined below in A4, you may "opt-out" of certain uses of your Personal Information. 
 
 **Game Centers.** If you are a member gamer and you indicate, when registering or by updating your account information, that you have a “home game center” which is a member of iGames, then we will provide to that game center Personal Information about you so that game center may contact you about its activities, promotions, and other matters which they believe may be of interest to you.
 
@@ -97,7 +94,7 @@ If you participate in an event sponsored by a particular game center member, you
 
 Each game center member has agreed that it may only use the Personal Information it receives from iGames in a manner consistent with this Privacy Policy. However, iGames is unable to guarantee that this will be the case. If you don’t want your Personal Information provided to a game center, then do not designate a “home game center,” and do not participate in game center sponsored events.
 
-**Game Publishers, Advertisers, Etc.** We collect Personal Information and disclose it in an aggregate (non-personally identifiable) manner to game publishers, advertisers, and other third parties for marketing and promotional purposes. We also share this aggregate information to enable these companies to understand the number and composition of the iGames members and their use of our Service. In these situations, we don’t disclose to these entities any Personal Information. However, if you respond to ads provided by an advertiser they may assume that you fit a certain demographic profile based on the aggregate information provided to them. In addition, when you click on a banner ad, you should be aware that the advertiser may be collecting information from you.
+**Game Publishers, Advertisers, Etc.** We collect Personal Information and demographic information and disclose it in an aggregate or non-personally identifiable manner to game publishers, advertisers, and other third parties for marketing and promotional purposes. We also share this aggregate aggregate or demographic information to enable these companies to understand the number and composition of the iGames members and their use of our Service. In these situations, we don’t disclose to these entities any Personal Information. However, if you respond to ads provided by an advertiser they may assume that you fit a certain demographic profile based on the aggregate information provided to them. In addition, when you click on a banner ad, you should be aware that the advertiser may be collecting information from you.
 
 **Operational Uses**
 
