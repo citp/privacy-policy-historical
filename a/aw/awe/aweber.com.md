@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the aweber.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625075903id_/http%3A//www.aweber.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aweber.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231162840id_/http%3A//www.aweber.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - AWeber Communications, Inc.
 
-[Home](https://web.archive.org/web/20070625075903id_/http%3A//www.aweber.com/index.htm) > [About Us](https://web.archive.org/web/20070625075903id_/http%3A//www.aweber.com/company-overview.htm) > [Privacy Policy](https://web.archive.org/web/20070625075903id_/http%3A//www.aweber.com/privacy-policy.htm)
+[Home](https://web.archive.org/web/20071231162840id_/http%3A//www.aweber.com/index.htm?id=288959) > [About Us](https://web.archive.org/web/20071231162840id_/http%3A//www.aweber.com/company-overview.htm?id=288959) > [Privacy Policy](https://web.archive.org/web/20071231162840id_/http%3A//www.aweber.com/privacy-policy.htm?id=288959)
 
 **This statement discloses the privacy practices of AWeber Systems, Inc.**
 
-Please direct questions regarding this statement to AWeber's excellent Customer Support staff - . 
+Please direct questions regarding this statement to AWeber's excellent [Customer Support team](https://web.archive.org/support.htm). 
 
 **Customer Information:** All AWeber Systems, Inc. customer account information is held in strict confidence. We do not sell or share our customer list with any other entities. Customer information such as name, e-mail address, mailing address, phone number, and billing information is collected for the sole purpose of providing services described on this web site. 
 
