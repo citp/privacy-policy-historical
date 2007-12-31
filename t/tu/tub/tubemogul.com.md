@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tubemogul.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624015442id_/http%3A//tubemogul.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tubemogul.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231145704id_/http%3A//www.tubemogul.com/about/privacy.php) for the most accurate reproduction.*
 
 # TubeMogul.com - Start tracking trends in your video viewership
 
@@ -8,7 +8,7 @@ Simply put, we will never abuse your trust -- that means that we will never shar
 To ensure the integrity of our privacy policy and to prevent unauthorized access to account information we have put in place appropriate physical, electronic and managerial procedures to safeguard and secure your account information. All account information is encrypted and stored on our servers in the United States. 
 
 **Passwords**   
-Please don't give out or share your account password. If you forget your password go to the following webpage to be emailed a password reminder: [http://www.tubemogul.com/forgot.php](https://web.archive.org/web/20070624015442id_/http%3A//tubemogul.com/forgot.php). 
+Please don't give out or share your account password. If you forget your password go to the following webpage to be emailed a password reminder: [http://www.tubemogul.com/forgot.php](https://web.archive.org/web/20071231145704id_/http%3A//www.tubemogul.com/forgot.php). 
 
 **Cookies and Data Collection**   
 "Cookies" are inconsequentially small files placed on the hard drive of your computer. The cookies placed on your computer are "session cookies," meaning that they are automatically deleted from your hard drive once you log out or close your browser. We use cookies to provide you better service by allowing you to enter your password less frequently during a session and to help us understand and analyze our web page flow. 
