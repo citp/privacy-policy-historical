@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the herbs-wholesale.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630130435id_/http%3A//www.herbs-wholesale.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herbs-wholesale.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231065119id_/http%3A//www.herbs-wholesale.com/privacy.asp) for the most accurate reproduction.*
 
 # Herbs-WholeSale - Herbal Products Privacy Policy
 
-###   
-Privacy Policy
+###  Privacy Policy
 
 Simply, We do not sell, rent or share personal information with any third party. The information you give us is totally confidential, and will not be sold or given to any individual or company or organization under any circumstances.
 
@@ -11,12 +10,12 @@ The privacy practices of this statement apply to our services available under th
 
 The [Herbs-Wholesale.com](http://herbs-wholesale.com/) Privacy Policy discloses our privacy practices and contains detailed information about the following:
 
-  1. What information of yours does the Herbs-Wholesale.com collect?
-  2. What organization is collecting the information?
-  3. What are "cookies" and how does Herbs-Wholesale.com use them?
-  4. How can you access or edit your information?
-  5. What types of security procedures are in place to protect against the loss, misuse or alteration of your information?
-  6. Notice
+  1. [What information of yours does the Herbs-Wholesale.com collect?](http://www.herbs-wholesale.com/privacy.asp#1)
+  2. [What organization is collecting the information?](http://www.herbs-wholesale.com/privacy.asp#2)
+  3. [What are "cookies" and how does Herbs-Wholesale.com use them?](http://www.herbs-wholesale.com/privacy.asp#3)
+  4. [How can you access or edit your information?](http://www.herbs-wholesale.com/privacy.asp#4)
+  5. [What types of security procedures are in place to protect against the loss, misuse or alteration of your information?](http://www.herbs-wholesale.com/privacy.asp#5)
+  6. [Notice](http://www.herbs-wholesale.com/privacy.asp#6)
 
 
 
