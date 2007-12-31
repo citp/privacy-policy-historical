@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hitslink.com privacy policy that was archived on 2007-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070621082417id_/http%3A//www.netapplications.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitslink.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231223151id_/http%3A//www.netapplications.com/privacy.aspx) for the most accurate reproduction.*
 
-# Affiliate program, private label, reseller webmaster products
+# website statistics, hit counter, search engine submission, banner exchange
 
 **Your Information is Private**  
 Subscribers are requested to enter limited personal information during signups. Under no circumstance will we sell, transfer or disseminate this personal information gathered by our products to any other entity. 
@@ -13,7 +13,7 @@ We employ the use of the following measures to ensure your data is secure:
 The physical preservation of the data is ensured by the use of RAID-enabled servers, surge protectors, battery power backups, and daily data backups.  All servers are housed in climate-controlled data centers. 
 
 **Safe Harbor**  
-For Our European Union Clients/Customers: Net Applications has joined the U.S. Department of Commerce's Safe Harbor Program, and we adhere to the principles and guidelines set forth within Safe Harbor. 
+For Our European Union Clients/Customers: Net Applications has joined the U.S. Department of Commerce() 's Safe Harbor Program, and we adhere to the principles and guidelines set forth within Safe Harbor. 
 
 If you believe that Net Applications is not in compliance with Safe Harbor, contact our company by mail, e-mail or telephone:
 
@@ -36,7 +36,7 @@ Every new subscriber has the option of not receiving site news and special promo
 **Children's Guidelines**  
 This web site meets the guidelines of TRUSTe's Children's program, which means that it does: 
 
-  1. NOT collect online contact information without prior parental consent or parental notification, which will include an opportunity for the parent to prevent use of the information and participation in the activity.  Without prior parental consent, online information will only be used to respond directly to the child's request and will not be used for other purposes without prior parental consent 
+  1. NOT collect online contact information without prior parental consent or parental notification, which will include an opportunity for the parent to prevent use of the information and participation in the activity.  Without prior parental consent, online information will only be used to respond directly to the(child) 's request and will not be used for other purposes without prior parental(consent) 
   2. NOT collect personally identifiable offline contact information without prior parental consent 
   3. NOT distribute to third parties any personally identifiable information with out prior parental consent 
   4. NOT give the ability to publicly post or otherwise distribute personally identifiable contact information without prior parental consent 
@@ -44,6 +44,6 @@ This web site meets the guidelines of TRUSTe's Children's program, which means t
 
   
 **Contacting the Web Site**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can(contact) 
 
 [privacy@netapplications.com](mailto:privacy@netapplications.com)
