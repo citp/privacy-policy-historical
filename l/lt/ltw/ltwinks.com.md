@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ltwinks.com privacy policy that was archived on 2007-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070615140212id_/http%3A//www.ltwinks.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ltwinks.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231165006id_/http%3A//www.ltwinks.com/privacy.htm) for the most accurate reproduction.*
 
 # Latino Twinks
 
