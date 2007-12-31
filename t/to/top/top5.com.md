@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the top5.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626015540id_/http%3A//www.top5.com/contact/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top5.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231163709id_/http%3A//www.top5.com/contact/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement - Top Five Data Services, Inc.
 
