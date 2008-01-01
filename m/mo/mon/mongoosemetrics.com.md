@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mongoosemetrics.com privacy policy that was archived on 2007-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071102040148id_/http%3A//www.mongoosemetrics.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mongoosemetrics.com privacy policy that was archived on 2008-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080101133929id_/http%3A//www.mongoosemetrics.com/privacy.php) for the most accurate reproduction.*
 
 # Mongoose Metrics.com About Your Privacy
 
