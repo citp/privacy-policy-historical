@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the srch-results.com privacy policy that was archived on 2007-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071104141323id_/http%3A//www.srch-results.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the srch-results.com privacy policy that was archived on 2008-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080103204942id_/http%3A//www.srch-results.com/privacy.html) for the most accurate reproduction.*
 
 # Srch-Results.com - Privacy Policy
 
