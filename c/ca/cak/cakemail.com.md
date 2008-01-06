@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cakemail.com privacy policy that was archived on 2007-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071206021727id_/http%3A//www.cakemail.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cakemail.com privacy policy that was archived on 2008-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080106215634id_/http%3A//www.cakemail.com/privacy-policy.html) for the most accurate reproduction.*
 
 # CakeMail - Privacy policy
 
