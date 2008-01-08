@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediawebconnect.com privacy policy that was archived on 2007-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071101121635id_/http%3A//mediawebconnect.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediawebconnect.com privacy policy that was archived on 2008-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080108125124id_/http%3A//mediawebconnect.com/privacy) for the most accurate reproduction.*
 
 # - 50 Off
 
