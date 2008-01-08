@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the documentforce.com privacy policy that was archived on 2007-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071109004640id_/http%3A//www.documentforce.com/company/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the documentforce.com privacy policy that was archived on 2008-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080108200752id_/http%3A//www.documentforce.com/company/privacy.jsp) for the most accurate reproduction.*
 
 # Salesforce.com Privacy Statement - salesforce.com
 
