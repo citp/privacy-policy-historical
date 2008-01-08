@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exclusivelyweddings.com privacy policy that was archived on 2007-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071207173524id_/http%3A//www.exclusivelyweddings.com/ew_security.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exclusivelyweddings.com privacy policy that was archived on 2008-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080108112006id_/http%3A//www.exclusivelyweddings.com/ew_security.asp) for the most accurate reproduction.*
 
 # Wedding Favors, Invitations and Accessories from Exclusively Weddings
 
