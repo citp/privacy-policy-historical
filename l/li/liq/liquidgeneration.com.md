@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liquidgeneration.com privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219005607id_/http%3A//www.liquidgeneration.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liquidgeneration.com privacy policy that was archived on 2008-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080109143012id_/http%3A//www.liquidgeneration.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
