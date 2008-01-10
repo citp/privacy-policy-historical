@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xooarticles.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211093628id_/http%3A//www.xooarticles.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xooarticles.com privacy policy that was archived on 2008-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080110194639id_/http%3A//www.xooarticles.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement :: xooArticles Article Script
 
