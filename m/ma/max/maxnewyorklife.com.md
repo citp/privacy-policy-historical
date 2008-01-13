@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maxnewyorklife.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211183230id_/http%3A//www.maxnewyorklife.com/Home/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxnewyorklife.com privacy policy that was archived on 2008-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080113131215id_/http%3A//www.maxnewyorklife.com/Home/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Max New York Life India: PrivacyPolicy
 
