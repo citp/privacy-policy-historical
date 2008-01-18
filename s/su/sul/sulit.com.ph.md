@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sulit.com.ph privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214043129id_/http%3A//www.sulit.com.ph/index.php/faq%2Bview/category/11/System%2BRules%2Band%2BPolicies%23f61) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sulit.com.ph privacy policy that was archived on 2008-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080118135043id_/http%3A//www.sulit.com.ph/index.php/faq%2Bview/category/11/System%2BRules%2Band%2BPolicies%23f61) for the most accurate reproduction.*
 
-# Buy and Sell Philippines (Advertise Online For Free) :: Sulit.com.ph
+# Sulit.com.ph (Advertise Online For Free) Philippines
 
 **Introduction**   
 Sulit.com.ph respects each individual’s right to personal privacy.  We will collect and use information through our Web site only in the ways disclosed in this statement.  This statement applies solely to information collected at Sulit.com.ph’s Web site. ****
