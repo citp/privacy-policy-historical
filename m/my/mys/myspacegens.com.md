@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myspacegens.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213032029id_/http%3A//www.myspacegens.com/handler.php%3Fpage%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myspacegens.com privacy policy that was archived on 2008-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080119063152id_/http%3A//www.myspacegens.com/handler.php%3Fpage%3Dprivacypolicy) for the most accurate reproduction.*
 
 # MySpace Gens Privacy Policy
 
