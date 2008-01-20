@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the electronicsinfoline.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011045012id_/http%3A//www.electronicsinfoline.com/cgi-bin/Redirect/go.cgi%3Fl%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the electronicsinfoline.com privacy policy that was archived on 2008-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080120133313id_/http%3A//www.electronicsinfoline.com/cgi-bin/Redirect/go.cgi%3Fl%3Dprivacy) for the most accurate reproduction.*
 
 # ElectronicsInfoline.com | Privacy Policy
 
