@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tastyteenbabes.com privacy policy that was archived on 2007-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071017170319id_/http%3A//www.tastyteenbabes.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tastyteenbabes.com privacy policy that was archived on 2008-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080120050226id_/http%3A//www.tastyteenbabes.com/privacy.html) for the most accurate reproduction.*
 
 # HOH Limited Privacy Policy Statement
 
