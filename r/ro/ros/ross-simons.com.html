@@ -1,252 +1,549 @@
-<!--The following is the downloaded HTML source of the ross-simons.com privacy policy that was archived on 2007-05-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070509171114id_/http%3A//www.ross-simons.com/content/_05_privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ross-simons.com privacy policy that was archived on 2008-01-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080120014434id_/http%3A//www.ross-simons.com/content/_05_privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-<title>Ross-Simons | Your Privacy</title>
-<!-- _05_privacy.htm -->
+
+<script type="text/javascript">
+window.name='RossSimonsOnline';
+</script>
+
+<meta http-equiv="expires" content="Wed Mar 19 18:39:49 EDT 2008 GMT">
+<meta http-equiv="cache-control" content="no-cache">
+<meta http-equiv="pragma" content="no-cache">
+<meta name="verify-v1" content="fZUGb8doaKVUrtXeM1AZsCRgFDqDc4Z425BSa+T7hjc=">
+
+<!--ESNTASK   -->
+<title>Ross-Simons Jewelry and Gifts</title>
 
 <link rel="stylesheet" href="/rs.css" type="text/css" media="all">
 <style type="text/css" media="all">
 @import url("/rs.css");
-.float_left { padding: 5px 10px 5px 0; }
-.xtra001 { margin-bottom: 10px; }
 </style>
 
-<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
-<meta http-equiv="expires" content="-1">
-<meta http-equiv=" pragma" content="no-cache">
-<meta http-equiv="expires" content="0">
+<meta name="Keywords" content="jewelry, fine jewelry, gold jewelry, diamond jewelry, gifts, collectibles, ross-simons">
+<meta name="Description" content="Fine jewelry at Ross-Simons includes a wide selection of diamonds, gold jewelry, rings, necklaces, bracelets, earrings, precious gemstone jewelry, gifts and more.">
 
-<script language="javascript1.1" type="text/javascript">
-<!--Hide from old browsers
-function popWindow(page,width,height)
-   {
-   window.open(page,'_blank','width='+width+',height='+height+',toolbar=no,location=no,status=no,menubar=no,scrollbars=auto,resizable=yes,top=120,left=20');
-   }
-// end hiding from old browsers-->
+<script src="/rs/common.js" language="JavaScript"></script>
+<script type="text/javascript">
+var _historyParam = "";
+if (_historyParam.length < 4000) {
+	writeCookie('c_history',_historyParam,1);
+} else {
+	writeCookie('c_history','',1);
+	}
+var _defaultsource = "SHIP15";
+
+function getHistory() { return _historyParam; }
+
+function postProcess()
+{
+// Takes the Refine by Price content and copies it to the Shop by Price block (if both exist)
+if (document.getElementById('refineByPrice') && document.getElementById('shopByPrice')) {
+	myrefinements='<ul>'+document.getElementById('refineByPrice').innerHTML+'<\/ul>';
+	myrefinements=myrefinements.replace(/Price/,'');
+	document.getElementById('shopByPrice').innerHTML=myrefinements;
+	}
+// Takes the Refine by Era content and copies it to the Shop by Era block (if both exist)
+if (document.getElementById('refineByEra') && document.getElementById('shopByEra')) {
+	myrefinements='<ul>'+document.getElementById('refineByEra').innerHTML+'<\/ul>';
+	myrefinements=myrefinements.replace(/Era/,'');
+	document.getElementById('shopByEra').innerHTML=myrefinements;
+	}
+// Takes the ID "contextLink" content and copies it to the ID "contextURL"
+if (document.getElementById('contextLink')) {
+	//myrefinements='<a>'+document.getElementById('contextLink').innerHTML+'<\/a>';
+	//alert(myrefinements);
+	document.getElementById('contextURL').innerHTML=document.getElementById('contextLink').innerHTML; // was =myrefinements
+	}
+// Takes the ID "navStores" content and copies it to the ID "navRetail"
+if (document.getElementById('navRetail')) {
+	myrefinements=document.getElementById('navStores').innerHTML;
+	document.getElementById('navRetail').innerHTML=myrefinements;
+	}
+// Takes the Recommended Item and plugs it in if needed
+if (document.getElementById('recommendedHidden') && document.getElementById('featureSet')) {
+	document.getElementById('featureSet').innerHTML=document.getElementById('recommendedFeature').innerHTML;
+	}
+// Relocates recomLink contents to contextURL DIV inside banner1 DIV
+if (document.getElementById('recomLink') && document.getElementById('contextURL')) {
+	document.getElementById('contextURL').innerHTML=document.getElementById('recomLink').innerHTML;
+	}
+// Relocates zoneGuided contents to guidedRelocate DIV inside banner1 DIV
+if (document.getElementById('zoneGuided')) {
+	document.getElementById('guidedRelocate').style.display='block';
+	document.getElementById('guidedRelocate').innerHTML=document.getElementById('zoneGuided').innerHTML;
+	}
+// If #featureSet exists, sets #banner1 height
+if (document.getElementById('featureSet')) {
+	if (document.getElementById('featureSet').innerHTML.length > 100) {
+		document.getElementById('banner1').style.height='140px';
+		}
+	}
+// Relocates noMatchMsg contents to noMatchRelocate DIV inside banner1 DIV
+if (document.getElementById('noMatchMsg')) {
+	document.getElementById('noMatchRelocate').style.display='block';
+	document.getElementById('noMatchRelocate').innerHTML=document.getElementById('noMatchMsg').innerHTML;
+	document.getElementById('searchTermDisplay').style.display='none';
+	}
+// This adds padding to SEO H1 when #featureSet exists
+if (document.getElementById('featureSet')) {
+	if (document.getElementById('featureSet').innerHTML.length>100) {
+		document.getElementById('seoH1').style.padding='15px 4px 0 4px';
+		}
+	}
+// These hide empty top banner DIVs when they are empty
+if (document.getElementById('seoH1')) {
+	if (document.getElementById('seoH1').innerHTML=='&nbsp;') {
+		document.getElementById('seoH1').style.display='none';
+		}
+	}
+if (document.getElementById('seoH2')) {
+	if (document.getElementById('seoH2').innerHTML=='&nbsp;') {
+		document.getElementById('seoH2').style.display='none';
+		}
+	}
+if (document.getElementById('contextURL')) {
+	if (document.getElementById('contextURL').innerHTML=='&nbsp;') {
+		document.getElementById('contextURL').style.display='none';
+		}
+	}
+if (document.getElementById('contextURL')) {
+	if (document.getElementById('contextURL').innerHTML=='&nbsp;') {
+		document.getElementById('contextURL').style.display='none';
+		}
+	}
+// Relocates special Diamond nav content to navLeft_certDia DIV inside left-nav
+if (document.getElementById('navLeft_certDia')) {
+	// use engagement rings nav if it exists
+	if (document.getElementById('bnrBottom_nav-engRings')) {
+		document.getElementById('navLeft_certDia').innerHTML=document.getElementById('bnrBottom_nav-engRings').innerHTML;
+	document.getElementById('navLeft_certDia').style.display='block';
+	// else use bridal collection nav if it exists
+	} else if (document.getElementById('bnrBottom_nav-bridalCollection')) {
+		document.getElementById('navLeft_certDia').innerHTML=document.getElementById('bnrBottom_nav-bridalCollection').innerHTML;
+	document.getElementById('navLeft_certDia').style.display='block';
+	// else use certified diamond nav if it exists
+	} else if (document.getElementById('bnrBottom_nav-certDia')) {
+	document.getElementById('navLeft_certDia').innerHTML=document.getElementById('bnrBottom_nav-certDia').innerHTML;
+	document.getElementById('navLeft_certDia').style.display='block';
+	}
+	}
+// Relocates showAllResults contents to contextURL DIV inside banner1 DIV
+if (document.getElementById('showAllResults') && document.getElementById('showAllSEO')) {
+	if (document.getElementById('seoH1')) {
+		document.getElementById('jsonSeoTitle').innerHTML=document.getElementById('seoH1').innerHTML;
+		}
+	document.getElementById('showAllSEO').innerHTML=document.getElementById('showAllResults').innerHTML;
+	document.getElementById('contextURL').style.display='none';
+	}
+}
+
 </script>
-
 </head>
-<body>
+
+<body onload="postProcess();">
+<form name="psearchform" id="psearchform" method="POST" action="/rs/search.jsp">
+<input type="hidden" name="history" id="history" value="">
+</form>
+<form name="productform" id="productform" method="POST" action="/rs/show_product.jsp">
+<input type="hidden" name="history" id="history" value="">
+</form>
 
 <div id="container">
+
 <script language="javascript1.2" type="text/javascript" src="/js/location.js"></script> 
 <script language="javascript1.2" type="text/javascript" src="/js/popWin.js"></script>
-<script language="javascript1.2" type="text/javascript" src="/mbox.js"></script>
 <script language="javascript1.2" type="text/javascript" src="/js/rscore.js"></script>
 <script language="javascript1.2" type="text/javascript" src="/js/searchNav.js"></script>
 
-<div id="banner">
-<table style="background-color:#D9A553;">
-  <tbody><tr>
-    <td>
-    <h1><b>20% OFF ALL PURCHASES PLUS GUARANTEED MOTHER'S DAY SHIPPING*</b> | thru&nbsp;<b>MAY&nbsp;9</b> | use code <b>PENDANTS</b> at checkout | &gt; *<b><a href="x" onclick="popWindow('/offer_details.htm','375','475');return false;">DETAILS</a></b></h1>
-    </td>
-  </tr>
-</tbody></table>
-</div>
+<!--BEGIN page_header.html (includes JS files above)-->
 
-<div id="newHead">
-<form name="search" method="post" action="/perl/rssh0001.cgi" onsubmit="return navSearchEntry();">
-<input type="hidden" name="EDIT_SHOW_FAMILIES" value="Y">
+<div class="header">
 
-<div id="newHeadNav1">
-<table cellspacing="0">
-  <tbody><tr>
-    <td width="290"><a href="http://www.ross-simons.com/index.htm"><img src="/Grafx/corporate/ross-simons.gif" width="228" height="25" alt="Fine Jewelry, Gold Rings and Diamonds at Ross-Simons"></a></td>
-    <td width="75"><p><a href="http://www.ross-simons.com/perl/rsls0001.cgi?">Shopping<br>Cart</a></p></td>
-    <td width="75"><p><a href="http://www.ross-simons.com/content/_05_service.htm">Customer<br>Care</a></p></td>
-    <td width="65"><p><a href="http://www.ross-simons.com/content/_ordinq_all.htm">Order<br>Status</a></p></td>
-    <td width="75"><p><a href="http://www.ross-simons.com/content/_05_retail.htm">Store<br>Locator</a></p></td>
-    <td class="r"><p><input type="text" name="EDIT_KEYWORDS" id="EDIT_KEYWORDS" value="item# or keyword" size="18" onfocus="navSearchValue();">
-    <input class="submit_find" type="submit" name="submit" value="find"></p></td>
-  </tr>
-</tbody></table>
-</div>
-
-<div id="newHeadNav2">
-<div id="navSections">
-<ul>
-<li><a href="http://jewelry.ross-simons.com/content/_01_jewelry.htm">Jewelry</a></li>
-<li><a href="http://diamonds.ross-simons.com/content/_01_diamonds.htm">Diamonds</a></li>
-<li><a href="http://jewelry.ross-simons.com/content/_03_estate.htm">Estate Jewelry</a></li>
-<li><a href="http://jewelry.ross-simons.com/content/_06_watches.htm">Watches</a></li>
-<li><a href="http://jewelry.ross-simons.com/content/_01_clearance.htm">Clearance</a></li>
-<li><a href="http://home-decor.ross-simons.com/content/_01_home-decor.htm">Home Decor</a></li>
-<li><a href="http://collectibles.ross-simons.com/content/_01_collectibles.htm">Gifts &amp; Collectibles</a></li>
+<div class="floatL">
+<a href="/rs/index.jsp"><img src="/Grafx/logo-tag_267x47.gif" class="logo_tag" width="267" height="47" alt="Go to homepage"></a>
+</div><!--close: header floatL-->
+<div class="floatR">
+<h2 class="phone">call anytime &nbsp;<b id="navPhoneHead">800-835-0919</b></h2>
+<ul class="navPre" style="margin-bottom:10px;">
+<li><a href="http://www.ross-simons.com/content/_05_retail.htm">Store Locator</a></li>
+<li><a href="http://www.ross-simons.com/perl/rsorderhistory.cgi">Order Status</a></li>
+<li><a href="http://www.ross-simons.com/content/_05_service.htm">Customer Care</a></li>
+<li class="navShopCart"><a href="http://www.ross-simons.com/perl/rsls0001.cgi">View Cart <img src="/Grafx/nav/shopping-cart.gif" alt="Shopping Cart" style="width:21px;height:18px;"></a></li>
 </ul>
-</div>
-</div>
+</div><!--close: header floatR-->
 
+<ul class="navMain">
+<li><a href="http://www.ross-simons.com/Jewelry.html">JEWELRY</a></li>
+<li><a href="http://www.ross-simons.com/Diamonds.html">DIAMONDS</a></li>
+<li><a href="http://www.ross-simons.com/Bracelets.html">BRACELETS</a></li>
+<li><a href="http://www.ross-simons.com/Earrings.html">EARRINGS</a></li>
+<li><a href="http://www.ross-simons.com/Estate/Jewelry.html">ESTATE</a></li>
+<li class="line plus3px"><a href="http://www.ross-simons.com/Necklaces.html">NECKLACES</a></li>
+<li><a href="http://www.ross-simons.com/Rings.html">RINGS</a></li>
+<li><a href="http://www.ross-simons.com/Watches.html">WATCHES</a></li>
+<li class="last"><a href="http://www.ross-simons.com/Clearance.html">CLEARANCE</a></li><!-- ,'refine','1' -->
+</ul>
+
+<div class="navSub">
+<div class="floatL">
+<div id="quickshop">
+<form onsubmit="navSearchEntry(); return false;" id="freeTextForm" name="freeTextForm">
+<input name="freeText" id="freeText" value="item# or keyword" type="text" maxlength="200" onclick="this.value='';">
+<input type="submit" value="SEARCH" id="searchButton" name="searchButton" class="submit_go">
+<!--<c:if test="${results.productCount gt 0}">
+<p><input type="checkbox" value="In Current Results" name="searchInResults" /> within results</p>
+</c:if>-->
 </form>
+</div><!--close: quickshop-->
+</div><!--close: navSub floatL-->
+<div class="floatR">
+<ul>
+<li><a href="http://www.ross-simons.com/Home+and+Tableware.html">Home &amp; Tableware</a></li>
+<li><a href="http://www.ross-simons.com/Gifts+and+Collectibles.html">Gifts &amp; Collectibles</a></li>
+<li><a href="http://www.ross-simons.com/content/_01_catalogs.htm">Shop Catalogs</a></li>
+<li><a href="http://www.ross-simons.com/rs/index.jsp">Home Page</a></li>
+</ul>
+</div><!--close: navSub floatR-->
+</div><!--close: header navSub-->
+
+</div><!--close: header-->
+
+<!--END page_header.html-->
+
+<!--BEGIN retail_nav.jsp-->
+
+<div id="navStores">
+
+<ul>
+<li class="group">Retail Stores</li>
+<li><a href="/content/_06_rtl_atlanta.htm">Atlanta, GA</a></li>
+<li><a href="/content/_06_rtl_chestnut-hill.htm">Chestnut Hill, MA</a></li>
+<li><a href="/content/_06_rtl_durham.htm">Durham, NC</a></li>
+<li><a href="/content/_06_rtl_paramus.htm">Paramus, NJ</a></li>
+<li><a href="/content/_06_rtl_providence.htm">Providence, RI</a></li>
+<li><a href="/content/_06_rtl_raleigh.htm">Raleigh, NC</a></li>
+<li><a href="/content/_06_rtl_short-hills.htm">Short Hills, NJ</a></li>
+<li><a href="/content/_06_rtl_warwick.htm">Warwick, RI</a></li>
+<li><a href="/content/_06_rtl_westfarms.htm">Westfarms, CT</a></li>
+<li class="group">Outlet Stores</li>
+<li><a href="/content/_06_rtl_kittery.htm">Kittery, ME</a></li>
+<li><a href="/content/_06_rtl_potomac.htm">Potomac Mills, VA</a></li>
+<li><a href="/content/_06_rtl_warwick-outlet.htm">Warwick, RI</a></li>
+<li><a href="/content/_06_rtl_wrentham.htm">Wrentham, MA</a></li>
+</ul>
+
+<br class="clr">
+
+<p class="leftNavP"><a href="/content/_07_retail_sign-up.htm">Join our preferred customer list.</a></p>
+
+</div><!--close of navStores-->
+<!--END retail_nav.jsp-->
+<!--BEGIN _05_privacy.htm-->
+
+<div id="nonJSP">
+
+<div class="pageHead">
+<h1>YOUR PRIVACY</h1>
 </div>
 
-
-
-<div id="content">
-
-<h1>YOUR PRIVACY</h1>
-
-<blockquote class="highlight">
-<p>You can reach us by telephone:<br><b>1-800-835-1343</b>
-</p><p>or contact us via e-mail:<br><a href="/content/_06_csr-form.htm"><b>customerservice@ross-simons.com</b></a></p>
+<div class="floatR" style="width:260px;margin-left:20px;">
+<fieldset>
+<legend>Contact Us</legend>
+<p>You can reach us by telephone:</p>
+<h2 style="padding-top:0;">1-800-835-1343</h2>
+<p>or contact us via e-mail:<br><a href="/content/_06_csr-form.htm"><b>customerservice@ross-simons.com</b></a></p>
 <p>Our postal address is:<br>
 <b>Ross-Simons, 9 Ross-Simons Drive,<br>Cranston, RI 02920</b></p>
-</blockquote>
+</fieldset>
+</div>
 
-<p class="lead">The personal information you have provided us and information about your order may be shared with third parties. 
+<p>The personal information you have provided us and information about your order may be shared with third parties.
 This information may be combined with other personally identifiable information (such as demographic information 
 and past purchase information) available from our records and other sources. This information will be used to make 
-our future marketing efforts more efficient. It may also be used by our marketing partners to bring you offers 
-of interest. If you prefer we do not share your name and address with marketing partners, please contact 
-<a href="/content/_05_service.htm">Customer Service</a>. To remove your e-mail address from the Ross-Simons 
-database, please contact <a href="/content/_05_service.htm">Customer Service</a>. To update your e-mail address, 
-<a href="/content/_07_update_email.htm">please click here</a>.</p>
+our future marketing efforts more efficient. It may also be used by our marketing partners to bring you offers of 
+interest. If you prefer we do not share your name and address with marketing partners, please contact 
+<a href="/content/_05_service.htm">Customer Service</a>.</p>
 
 <p>If you agreed to receive e-mail from our marketing partners, we will share with them your e-mail address and the 
-information described above, so they can send you offers for products and services that may be of interest to you. 
+information described above, so they can send you offers for products and services that may be of interest to you.
 Additionally, each e-mail our partners send you will include a description of the simple opt-out process to enable 
 you to stop receiving future e-mail.</p>
 
-<p>We also track aggregate information on what pages consumers access or visit and information volunteered by the 
-consumer, such as survey information. The information we collect is used to improve the content of our Web page, 
-or used to contact consumers for marketing purposes. </p><p>We currently contract with several online partners to help 
-manage and optimize our Internet business and communications. We use the services of a marketing company to help 
-us measure the effectiveness of our advertising and how visitors use our site. To do this, we use Javascript and 
-cookies provided by our marketing company on this site. The information we collect helps us learn things like what 
-kinds of customers our site attracts, which of our products most interest our customers, and what kinds of offers 
-our customers like to see. Although our marketing company logs the information coming from our site on our behalf, 
-we control how that data may and may not be used. If you do not want to help us learn how to improve our site, 
-products, offers and marketing strategy, <a href="http://optout.ross-simons.rpts.net/cgi-bin/rpts/optout.pl">you 
-can "opt-out" of this web-site analysis tool by clicking here</a></p>
+<p>We also track aggregate information on what pages consumers access or visit and information volunteered by the consumer, 
+such as survey information. The information we collect is used to improve the content of our Web site, or used to contact 
+consumers for marketing purposes.</p>
 
-<p>If you do not want to receive e-mail from us in the future, please let us know by contacting 
-<a href="/content/_05_service.htm">Customer Service</a> or calling us at 1-800-835-1343. or writing to us at the 
-address (shown below) and telling us that you do not want to receive e-mail from our company.</p>
+<p>We currently contract with online partners to help manage and optimize our Internet business and communications. We 
+use the services of a Third Party to help us measure the effectiveness of our advertising and how visitors use our site.
+To do this, we use Javascript and cookies provided by the Third Party on this site. Although our marketing company logs 
+the information coming from our site on our behalf, we control how that data may and may not be used. Ross-Simons does 
+not use cookies or JavaScript to store or collect any personally identifiable information. You have the right to decline 
+our cookies and turn off JavaScript via your browser. By declining the use of cookies or JavaScript, you may not be 
+able to use certain features on the Web Site.</p>
+
+<p>If you do not want to receive e-mail from us in the future, you may 
+<a href="/content/_07_unsubscribe_email.htm">unsubscribe</a>. You can also contact Customer Service at 1-800-835-0919. 
+or write to us at the address (shown below) and tell us that you do not want to receive e-mail from our company.</p>
 
 <p>If you supply us with your postal address on-line you may receive periodic mailings from us with information 
-on new products and services or upcoming events. If you do not wish to receive such mailings, please contact 
-<a href="/content/_05_service.htm">Customer Service</a>. You may also let us know by calling us at 1-800-835-1343. 
-or writing to us at the address shown below. Please provide us with your exact name and address. We will be sure 
-your name is removed from the list.</p>
+on new products and services or upcoming events. If you do not wish to receive such mailings, you may 
+<a href="/content/_07_unsubscribe_catalog.htm">unsubscribe</a>. You may also let us know by contacting Customer Service 
+at 1-800-835-0919 or writing to us at the address shown below. Please provide us with your exact name and address. 
+We will be sure your name is removed from the list.</p>
 
 <p>Persons who supply us with their telephone numbers on-line may receive telephone contact from us with information 
-regarding orders they have placed on-line. If you do not wish to receive such telephone calls, please contact 
-<a href="/content/_05_service.htm">Customer Service</a>. You may also let us know by calling us at 1-800-835-1343. 
-or writing to us at the address shown below. Please provide us with your exact name and address. Please provide us 
-with your correct phone number.</p>
+regarding orders they have placed on-line. If you do not wish to receive such telephone calls, please contact Customer 
+Service at 1-800-835-0919 or by writing to us at the address shown below. Please provide us with your exact name, 
+address and correct phone number.</p>
 
 <h2>Making our Catalogs Welcome</h2>
 
-<p>To ensure that you receive only the catalogs you enjoy, let us know 1) you want to receive Ross-Simons catalogs 
-but do not want us to share your name with other companies, 2) your address has changed, 3) you receive duplicate 
-catalogs or 4) you no longer with to receive Ross-Simons catalogs. Please include full name, address and ID# as 
-printed on Order Form. </p>
+<p>To ensure that you receive only the catalogs you enjoy, please call or mail and let us know 1) you want to receive 
+Ross-Simons catalogs but do not want us to share your name with other companies, 2) your address has changed, 3) you 
+receive duplicate catalogs or 4) you no longer wish to receive Ross-Simons catalogs. Please include full name, address 
+and ID# as printed on Order Form.</p>
 
-<p>Online: <a href="mailto:mailpreference@ross-simons.com">Catalog Preferences</a><br>
-Call: 1-800-835-1343<br>
+<p>Call: 1-800-835-0919<br>
 Mail: Ross-Simons Mail Preference Service, 9 Ross-Simons Drive, Cranston, RI 02920-4476.</p>
 
-<div class="float_left">
-<a href="http://www.the-dma.org/" target="_blank">
-<img src="../Grafx/affiliates/dma_logo.gif" alt="Direct Marketing Association" width="86" height="45" name="DMA">
-</a>
+<div class="floatL" style="width:96px;">
+<p><a href="http://www.the-dma.org/" target="_blank">
+<img src="/Grafx/affiliates/dma_logo.gif" alt="Direct Marketing Association" style="width:86px;height:45px;" name="DMA"></a></p>
 </div>
 
-<p class="xtra001">To discontinue other catalog mailings, please write to:<br>
+<div class="floatL" style="width:500px;">
+<p>To discontinue other catalog mailings, please write to:<br>
 Direct Marketing Association, Mail Preference Service,<br>
-P.O. Box 9008, Farmingdale, NY 11735-9008.</p>
+P.O. Box 9008, Farmingdale, NY 11735-9008</p>
+</div>
+
+<br class="clr">
 
 <h2>Ross-Simons and the Environment</h2>
-
 <p>Paper used in Ross-Simons catalogs is biologically degradable, recyclable and can be destroyed without adversely 
 affecting the environment. We make regular donations to ecologically responsive organizations and support recycling 
 at our headquarters.</p>
 
 </div>
+<br class="clr">
 
 <!-- BEGIN COREMETRICS SUPPORT -->
 <script language="javascript1.1" type="text/javascript">
 <!--
-var cmCategory='0012';
+var cmCategory='0005';
 var cmPageID='';
 //-->
 </script>
 <!-- END COREMETRICS -->
+
+<!--BEGIN _05_privacy.htm-->
+
+<div class="header">
+<!--BEGIN page_footer.html (includes header div above)-->
+
+<div id="emailSub">
+<script language="javascript1.2" src="/js/email_val.js" type="text/javascript"></script>
+<form method="post" action="http://app.ross-simons.com/profile/signup.cfm" name="email_signup" target="_parent" onsubmit="return checkEmail(this)">
+<input type="hidden" name="action" value="signup1">
+<p>Be the first to learn about exclusive offers, latest trends and more 
+<input type="text" value="enter email address" size="20" onclick="this.value='';" name="email" maxlength="120"> 
+<input class="submit_join" type="submit" name="submit" value="JOIN"></p>
+</form>
+</div><!--close: emailSub-->
+
+<div class="navSub">
+<div class="floatR">
+<ul>
+<li><a href="http://www.ross-simons.com/Home+and+Tableware.html">Home &amp; Tableware</a></li>
+<li><a href="http://www.ross-simons.com/Gifts+and+Collectibles.html">Gifts &amp; Collectibles</a></li>
+<li><a href="http://www.ross-simons.com/content/_01_catalogs.htm">Shop Catalogs</a></li>
+<li><a href="http://www.ross-simons.com/rs/index.jsp">Home Page</a></li>
+</ul>
+</div><!--close: navSub floatR-->
+</div><!--close: header navSub-->
+
+<ul class="navMain">
+<li><a href="http://www.ross-simons.com/Jewelry.html">JEWELRY</a></li>
+<li><a href="http://www.ross-simons.com/Diamonds.html">DIAMONDS</a></li>
+<li><a href="http://www.ross-simons.com/Bracelets.html">BRACELETS</a></li>
+<li><a href="http://www.ross-simons.com/Earrings.html">EARRINGS</a></li>
+<li><a href="http://www.ross-simons.com/Estate/Jewelry.html">ESTATE</a></li>
+<li class="line plus3px"><a href="http://www.ross-simons.com/Necklaces.html">NECKLACES</a></li>
+<li><a href="http://www.ross-simons.com/Rings.html">RINGS</a></li>
+<li><a href="http://www.ross-simons.com/Watches.html">WATCHES</a></li>
+<li class="last"><a href="http://www.ross-simons.com/Clearance.html">CLEARANCE</a></li><!-- ,'refine','1' -->
+</ul>
+
+<div class="floatR" style="margin-top:2px;">
+<ul class="navPre">
+<li><a href="http://www.ross-simons.com/content/_05_retail.htm">Store Locator</a></li>
+<li><a href="http://www.ross-simons.com/perl/rsorderhistory.cgi">Order Status</a></li>
+<li><a href="http://www.ross-simons.com/content/_05_service.htm">Customer Care</a></li>
+<li class="navShopCart"><a href="http://www.ross-simons.com/perl/rsls0001.cgi">View Cart <img src="/Grafx/nav/shopping-cart.gif" alt="Shopping Cart" style="width:21px;height:18px;"></a></li>
+</ul>
+<h2 class="phone">call anytime &nbsp;<b id="navPhoneFoot">800-835-0919</b></h2>
+</div><!--close: header floatR-->
+
+<br class="clr">
+
+<ul class="navInfo nav">
+<li class="line"><a href="http://www.ross-simons.com/content/_02_gc.htm">Gift Certificates</a></li>
+<li class="line"><a href="http://www.ross-simons.com/content/_05_why-rs.htm">Why Ross-Simons</a></li>
+<li class="line"><a href="http://www.ross-simons.com/content/_05_service.htm">Customer Care</a></li>
+<li class="line"><a href="http://www.ross-simons.com/content/_01_catalogs.htm">Catalogs</a></li>
+<li class="line"><a href="http://www.ross-simons.com/content/_05_privacy.htm">Privacy Policy</a></li>
+<li class="line"><a href="http://www.ross-simons.com/content/_07_s-h_table.htm">Shipping</a></li>
+<li class="line"><a href="http://www.ross-simons.com/content/_05_affiliates.htm">Affiliates</a></li>
+<li class="line"><a href="http://www.ross-simons.com/content/_05_retail.htm">Stores</a></li>
+<li class="line"><a href="javascript:void(0);" onclick="seoIndexShow();" onfocus="if(this.blur)this.blur();">Index</a></li>
+<li class="last"><a href="http://www.ross-simons.com/content/_05_site-map.htm">Site Map</a></li>
+</ul>
+
+<br class="clr">
+</div><!--close: header-->
+
+<script language="javascript1.2" type="text/javascript">
+function seoIndexShow(){document.getElementById('indexWrapper').style.display='block';window.scrollBy(0,300);}
+function seoIndexHide(){document.getElementById('indexWrapper').style.display='none';}
+</script>
+
+<div id="indexWrapper" style="display:none;">
+<span style="float:right;font-size:7pt;">&nbsp;&nbsp;<a href="javascript:void(0);" onclick="seoIndexHide();" class="br"><img src="/Grafx/msc/red-check_10x10.gif" style="width:10px;height:10px;"></a></span>
+<div id="indexRelocate" style="display:none;">&nbsp;</div>
+<div id="seoIndex">
+<p>
+<a href="/Estate/Jewelry.html">Antique Jewelry</a> | 
+<a href="/Bangle/Bracelets.html">Bangle Bracelets</a> | 
+<a href="/Gold/Cocktail/Rings.html">Gold Cocktail Rings</a> | 
+<a href="/Sterling+Silver/Diamond/Rings.html">Sterling Silver Diamond Rings</a> | 
+<a href="/Sterling+Silver/Fashion/Rings.html">Sterling Silver Fashion Rings</a> | 
+<a href="/Diamond/Platinum/Solitaire+Rings.html">Diamond Platinum Solitaire Rings</a> | 
+<a href="/Diamond/Bracelets.html">Diamond Bracelets</a> | 
+<a href="/Diamond/Earrings.html">Diamond Earrings</a> | 
+<a href="/Diamond/Engagement/Rings.html">Diamond Engagement Rings</a> | 
+<a href="/Diamond/Jewelry.html">Diamond Jewelry</a> | 
+<a href="/Diamond/Necklaces.html">Diamond Necklaces</a> | 
+<a href="/Diamond/Pendants.html">Diamond Pendants</a> | 
+<a href="/Diamond/Brooches|Pins.html">Diamond Pins &amp; Brooches</a> | 
+<a href="/Diamond/Rings.html">Diamond Rings</a> | 
+<a href="/Clearance/Diamond/Jewelry.html">Discount Diamond Jewelry</a> | 
+<a href="/Clearance/Jewelry.html">Discount Jewelry</a> | 
+<a href="/Estate/Jewelry.html">Estate Jewelry</a> | 
+<a href="/Gold/Bracelets.html">Gold Bracelets</a> | 
+<a href="/Gold/Earrings.html">Gold Earrings</a> | 
+<a href="/Gold/Necklaces.html">Gold Necklaces</a> | 
+<a href="/Gold/Pendants.html">Gold Pendants</a> | 
+<a href="/Gold/Watches.html">Gold Watches</a> | 
+<a href="/Link/Watches.html">Link Watches</a> | 
+<a href="/Men's/Jewelry.html">Men's Jewelry</a> | 
+<a href="/Pearl/Bracelets.html">Pearl Bracelets</a> | 
+<a href="/Pearl/Necklaces.html">Pearl Necklaces</a> | 
+<a href="/Sterling+Silver/Bracelets.html">Sterling Silver Bracelets</a> | 
+<a href="/Tennis/Bracelets.html">Tennis Bracelets</a> | 
+<a href="/Wedding/Bands.html">Wedding Bands</a> | 
+<a href="/Solitaire/Rings.html">Solitaire Rings</a> | 
+<a href="/Engagement/Rings.html">Engagement Rings</a> | 
+<a href="/Platinum/Wedding/Bands.html">Platinum Wedding Bands</a> | 
+<a href="/Platinum/Engagement/Rings.html">Platinum Engagement Rings</a> | 
+<a href="/Diamond/Solitaire/Rings.html">Diamond Solitaire Rings</a> | 
+<a href="/Diamond/Wedding/Bands.html">Diamond Wedding Bands</a> | 
+<a href="/Cocktail/Rings.html">Cocktail Rings</a> | 
+<a href="/3+Stone/Diamond/Rings.html">3-Stone Diamond Rings</a> | 
+<a href="/Cross/Necklaces.html">Cross Necklaces</a> | 
+<a href="/Diamond/Tennis/Necklaces.html">Diamond Tennis Necklaces</a> | 
+<a href="/Pearl/Strand/Necklaces.html">Pearl Strand Necklaces</a> | 
+<a href="/Pearl/Multistrand/Necklaces.html">Pearl Multistrand Necklaces</a> | 
+<a href="/Locket/Necklaces.html">Locket Necklaces</a> | 
+<a href="/Diamond/Journey/Necklaces.html">Diamond Journey Necklaces</a> | 
+<a href="/Stud/Earrings.html">Stud Earrings</a> | 
+<a href="/Diamond/Stud/Earrings.html">Diamond Stud Earrings</a> | 
+<a href="/Hoop/Earrings.html">Hoop Earrings</a> | 
+<a href="/Diamond/Hoop/Earrings.html">Diamond Hoop Earrings</a> | 
+<a href="/Drop/Earrings.html">Drop Earrings</a> | 
+<a href="/Diamond/Clip/Earrings.html">Diamond Clip Earrings</a> | 
+<a href="/Clearance/Earrings.html">Discount &amp; Clearance Earrings</a> | 
+<a href="/Clearance/Necklaces.html">Discount Necklaces</a> | 
+<a href="/Clearance/Rings.html">Discount Rings</a> | 
+<a href="/Clearance/Pendants.html">Discount &amp; Clearance Pendants</a> | 
+<a href="/Clearance/Brooches|Pins.html">Discount Brooches &amp; Pins</a> | 
+<a href="/Raymond+Weil/Watches.html">Raymond Weil Watches</a> | 
+<a href="/Tag+Heuer/Watches.html">Tag Heuer Watches</a> | 
+<a href="/Baume+Et+Mercier/Watches.html">Baume Et Mercier Watches</a> | 
+<a href="/Gold/Diamond/Engagement+Rings.html">Gold Diamond Engagement Rings</a> | 
+<a href="/Gold/Platinum/Engagement+Rings.html">Gold Platinum Engagement Rings</a> | 
+<a href="/Platinum/Diamond/Engagement+Rings.html">Platinum Diamond Engagement Rings</a> | 
+<a href="/Diamond/Platinum/Rings.html">Diamond Platinum Rings</a> | 
+<a href="/Platinum/Solitaire/Rings.html">Platinum Solitaire Rings</a> | 
+<a href="/3+Stone/Diamond/Engagement+Rings.html">3-Stone Diamond Engagement Rings</a> | 
+<a href="/Bridal/3+Stone+Diamond/Rings.html">Bridal 3-Stone Diamond Rings</a>
+</p>
+</div><!--close #seoIndex-->
+</div><!--close #indexWrapper-->
+<div id="indexAnchor">&nbsp;</div>
+
+<script language="javascript1.2" type="text/javascript">
+//relocate CMC-fired seoIndex to footer
+if (document.getElementById('seoInsertCMC')) {
+	document.getElementById('topPageBanners').style.display='none';
+	document.getElementById('indexRelocate').innerHTML=document.getElementById('seoInsertCMC').innerHTML;
+	document.getElementById('indexRelocate').style.display='block';
+	}
+</script>
+
+<!--END page_footer.html-->
+
+<div id="mercadoStats">
+<p>Query: <br></p>
+</div>
 
 <!-- Coremetrics tag -->
 <script language="javascript1.1" src="/coremetrics/eluminate.js" type="text/javascript"></script>
 <script language="javascript1.1" src="/coremetrics/cmdatatagutils.js" type="text/javascript"></script>
 <script language="javascript1.1" type="text/javascript">
 <!--
-if (!(window.cmCategory)) {cmCategory='???';}
-if (!(window.cmSearchString)) {cmSearchString='';}
-if (!(window.cmSearchCount)) {cmSearchCount='';}
-cmSetProduction();
-if (window.cmItemno) {
-    cmCreateProductviewTag(cmItemno, cmItemDesc, cmCategory);
+var mercadoTask='';
+if (mercadoTask.indexOf('mode page = &#034;HOME&#034') > -1) {
+  cmSetProduction();
+  cmCreateTechPropsTag("HOME_PAGE", "0014");
 } else {
+  if (!(window.cmCategory)) {cmCategory='???';}
+  if (!(window.cmSearchString)) {cmSearchString='';}
+  if (!(window.cmSearchCount)) {cmSearchCount='';}
+  cmSetProduction();
+  if (window.cmItemno) {
+    cmCreateProductviewTag(cmItemno,cmItemDesc,cmCategory);
+  } else {
     if (window.cmPageID) {
-        cmCreatePageviewTag(cmPageID, cmCategory, cmSearchString, cmSearchCount);        
+        cmCreatePageviewTag(cmPageID,cmCategory,cmSearchString,cmSearchCount,"","","","",
+			"","","","","","","","","");
     } else {
-        cmCreatePageviewTag(null, cmCategory, cmSearchString, cmSearchCount);
+        cmCreatePageviewTag(null,cmCategory,cmSearchString,cmSearchCount,"","","","",
+			"","","","","","","","","");
     }
+  }
 }
+
 //-->
 </script>
-<div id="newFooter">
 
-<div id="newFootNav1">
-<p><a href="http://www.ross-simons.com/content/_05_history.htm">About&nbsp;Us</a> | 
-<a href="http://www.ross-simons.com/content/_05_service.htm">Customer&nbsp;Care</a> | 
-<a href="http://www.ross-simons.com/content/_01_catalogs.htm">Catalogs</a> | 
-<a href="http://www.ross-simons.com/content/_05_privacy.htm">Privacy&nbsp;Policy</a> | 
-<a href="http://www.ross-simons.com/content/_07_s-h_table.htm">Shipping</a> | 
-<a href="http://www.ross-simons.com/content/_05_affiliates.htm">Affiliates</a> | 
-<a href="http://www.ross-simons.com/content/_05_retail.htm">Store Locator</a> | 
-<a href="http://www.ross-simons.com/content/_05_site-map.htm">Site&nbsp;Map</a></p>
-</div>
 
-<div id="contactUs">
-<p>To place an order, call 24 hours a day! <b>1-800-835-0919</b> | For Customer Service hours of operation, 
-<a href="http://www.ross-simons.com/content/_09_csr.htm" onclick="popWindow('/content/_09_csr.htm','400','225');return false;">please click here.</a></p>
-</div>
-
-<script language="javascript1.2" src="/js/email_val.js" type="text/javascript"></script>
-<div id="aboutUs" style="color:#fff; background-color:#aaa; padding:8px; text-align:center;">
-<form method="post" action="http://app.ross-simons.com/profile/signup.cfm" name="email_signup" target="_parent" onsubmit="return checkEmail(this)">
-<input type="hidden" name="action" value="signup1">
-<p style="color:#fff;"><b>Be the first to learn about exclusive offers, latest trends and more&nbsp;
-<input type="text" value="enter email address" size="20" onclick="this.value='';" name="email" maxlength="120">&nbsp;<input class="submit_join" type="submit" name="submit" value="JOIN"></b></p>
-</form>
-</div>
-
-<div id="newFootNav2" style="margin-top:0;">
-<p><a href="http://jewelry.ross-simons.com/content/_01_jewelry.htm">Fine Jewelry</a> | 
-<a href="http://collectibles.ross-simons.com/content/_01_collectibles.htm">Collectibles</a> | 
-<a href="http://collectibles.ross-simons.com/content/_01_collectibles.htm">Wedding Gifts</a> | 
-<a href="http://home-decor.ross-simons.com/content/_01_home-decor.htm">Home Decor Gift Ideas</a> | 
-<a href="http://jewelry.ross-simons.com/content/_06_watches.htm">Watches</a> | 
-<a href="http://collectibles.ross-simons.com/content/_01_collectibles.htm">Wedding Shower Gifts</a><br>
-<a href="http://www.ross-simons.com/content/_01_catalogs.htm">Fashion Jewelry</a> | 
-<a href="http://diamonds.ross-simons.com/content/_06_dia_info.htm">Diamond Engagement Rings</a> | 
-<a href="http://jewelry.ross-simons.com/content/_03_estate.htm">Estate Jewelry</a> | 
-<a href="http://diamonds.ross-simons.com/content/_01_diamonds.htm">Diamonds</a> | 
-<a href="http://collectibles.ross-simons.com/content/_02_cb_lladro.htm">Lladro Figurines</a> | 
-<a href="http://collectibles.ross-simons.com/content/_02_cb_nao.htm">Nao Porcelain</a><br>
-<a href="http://collectibles.ross-simons.com/content/_02_cb_swarovski.htm">Swarovski&nbsp;Crystal</a> | 
-<a href="http://jewelry.ross-simons.com/content/_07_wc_baume.htm">Baume &amp; Mercier Watches</a> | 
-<a href="http://jewelry.ross-simons.com/content/_07_wc_tag.htm">Tag Heuer Watches</a> | 
-<a href="http://jewelry.ross-simons.com/content/_07_wc_raymond.htm">Raymond Weil Watches</a> | 
-<a href="http://jewelry.ross-simons.com/content/_05_jewelry_index.htm">Jewelry Index</a></p>
-</div>
-</div>
-
-<!--i2a tracking code-->
-<script language="javascript1.1" src="/includes/i2a.js" type="text/javascript"></script>
 
 </div>
 
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+<script type="text/javascript">
+_uacct = "UA-3319767-1";
+urchinTracker();
+</script>
+
+
+
+
+<meta http-equiv="expires" content="Wed Mar 19 18:39:49 EDT 2008 GMT">
+<meta http-equiv="cache-control" content="no-cache">
+<meta http-equiv="pragma" content="no-cache">
+ 
 
 
 </body></html>
