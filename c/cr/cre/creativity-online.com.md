@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creativity-online.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221075226id_/http%3A//creativity-online.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creativity-online.com privacy policy that was archived on 2008-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080121042435id_/http%3A//creativity-online.com/privacy.php) for the most accurate reproduction.*
 
 # Creativity Privacy Policy
 
