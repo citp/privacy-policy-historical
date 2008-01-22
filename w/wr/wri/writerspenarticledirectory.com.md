@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the writerspenarticledirectory.com privacy policy that was archived on 2007-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071102190923id_/http%3A//www.writerspenarticledirectory.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the writerspenarticledirectory.com privacy policy that was archived on 2008-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080122150821id_/http%3A//www.writerspenarticledirectory.com/privacy.php) for the most accurate reproduction.*
 
-# Writer's Pen Article Directory
+# Hacked by mpu_gandring
 
 ## Our Address & Contact Information
 
@@ -40,7 +40,7 @@ WritersPenArticleDirectory.com does not knowingly collect or solicit Personally 
 
 **Contacting Us**
 
-We can be reached by [emailing us.](https://web.archive.org/web/20071102190923id_/http%3A//www.writerspenarticledirectory.com/contacts.php)
+We can be reached by [emailing us.](https://web.archive.org/web/20080122150821id_/http%3A//www.writerspenarticledirectory.com/contacts.php)
 
 **Changes to this Policy**
 
