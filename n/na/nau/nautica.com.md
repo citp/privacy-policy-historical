@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the nautica.com privacy policy that was archived on 2007-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071201121811id_/http%3A//www.nautica.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nautica.com privacy policy that was archived on 2008-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080122121159id_/http%3A//www.nautica.com/privacy) for the most accurate reproduction.*
 
 # Nautica - Privacy Policy
 
-## Nautica Internet Privacy Policy
+## Nautica
+
+### Nautica Internet Privacy Policy
 
 Data about the activity of visitors to the Nautica Web Site (the "Site") (such as what pages are accessed) is automatically provided to Nautica when you sign onto the Site. Such information is used by Nautica Enterprises, Inc. ("Nautica") for internal review in an aggregate and non-personally-identifiable form. Information which visitors volunteer (such as survey or registration information) is automatically transmitted to Nautica upon the visitor's submission of such information.
 
