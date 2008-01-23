@@ -1,56 +1,49 @@
-> *The following text is extracted and transformed from the busey.com privacy policy that was archived on 2007-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070720124254id_/http%3A//www.busey.com/corporate/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the busey.com privacy policy that was archived on 2008-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080123061139id_/http%3A//www.busey.com/pdfs/NewBuseyBank_PrivacyNotice.pdf) for the most accurate reproduction.*
 
-# Protecting your privacy is important to First Busey Corporation. The privacy of your information is protected not only by State and Federal Regulations, but also by our commitment to you
+# First Busey Corporation
 
-Your Right to Financial Privacy   
-Protecting your privacy is important to us. The privacy of your information is protected not only by State and Federal Regulations, but also by our commitment to you. We want you to understand what information we collect and how we will use it. You have the right to know the privacy policies and practices of the financial institutions you deal with in respect to information sharing with both affiliates and nonaffiliated third parties. This notice describes our privacy policies and practices and explains what you can do to “opt out” of the information sharing process.
-
-Definitions  
-We will use certain terms in this notice that are defined as follows:
-
-  * We, our, and us. This will always mean First Busey Corporation and its affiliates. 
-  * You and your. This means our customers with whom we have a continuing relationship through one or more accounts, and also consumers who may use a service we provide (such as an ATM) without any account relationship or who may have applied for a loan but were declined. 
-  * Publicly available information. Information that is lawfully available to the general public from official public records (such as real estate records or securities filings), information from widely distributed media (such as telephone books, television, radio, or newspaper) or information that is required to be disclosed to the general public by Federal, State or Local law. 
-  * Nonpublic personal information. Personally identifiable financial information that is not available from public sources (as described above). 
-  * Affiliate. Any company under common control with another company. 
-  * Nonaffiliated third party. Any person(s) or corporate entity that is not an affiliate or is not a joint employee of a financial institution and a third party. 
-  * Consumer reporting agency. A person or business which makes a practice of collecting and evaluating consumer credit information for the purpose of furnishing consumer reports to third parties. 
-
-
-
-Categories of Information We Collect  
-We collect nonpublic personal information about you from the following sources:
-
-  * Information we receive from you on applications and other forms; 
-  * Information about your transactions with us, or our affiliates, or others; 
-  * Information we receive from third parties, such as a consumer reporting agency. 
-
-
-
-Categories of Information We May Disclose About You  
-In order to protect customer privacy, we carefully control the way in which information about customers is shared. We do not disclose nonpublic information about our customers or former customers to any third party non-affiliated entity, except as outlined in this policy, or as permitted/required by law.
-
-We choose very carefully the companies that provide support services to us. We may disclose to these companies the information we collect, as described above. These companies are contractually required to adhere to our strict standards of information, security, and confidentiality. They are not allowed to use our customer information for any purpose other than the intended service.
-
-We may disclose nonpublic personal information about you to nonaffiliated third parties or financial institutions that perform marketing services on our behalf. In all cases, a joint marketing agreement must be signed between the Bank and the third party. The agreement shall contain confidentiality and privacy provisions.
-
-As part of an application for insurance, medical information on customers may be obtained, but is shared only with those within the Busey organization in order to process the application.
-
-As part of our effort to provide customers with comprehensive and effective service, we may use customer information to determine whether customers might be interested in specific financial products and services from our affiliates.
-
-First Busey Corporation Affiliates 
-
-Busey Bank   
-Busey Bank, N.A.  
-First Busey Trust and Investment Co.   
-First Busey Securities, Inc.   
-Busey Insurance Services  
-Busey Ag Resources   
-An affiliate of Physician Advisory Resources, LLC
-
-First Busey Corporation is a financial holding company headquartered in Urbana, Illinois, providing a full range of financial services. The Fair Credit Reporting Act permits us to share within the Busey organization information concerning a customer’s account history and experience with Busey. Unless you tell us not to, we may also share other information with our affiliates. You have the right to direct that we not share this additional information. To exercise this right you must notify us in writing at Busey Bank, 201 W. Main, Urbana, IL 61801. 
-
-Confidentiality and Security  
-We restrict access to nonpublic personal information about you to those employees who need to know that information to provide services to you. We maintain physical, electronic and procedural safeguards that comply with federal standards to guard your nonpublic personal information. We believe that keeping your trust is very important, so if you should have inactive or closed accounts with us, we will continue to adhere to the policies and practices described in this notice.
-
-We are equally committed to protecting the privacy of customer information on the Internet.
+                                                             First Busey Corporation
+                                                                   PRIVACY POLICY
+Protecting your privacy is important to us. We want you to know and understand what information we collect and how we use it. In order to provide our
+customers with a broad range of financial products and services as effectively and conveniently as possible, we provide our affiliates, and other
+companies that help us serve you, access to certain customer information. The privacy of this information is protected not only by state and federal
+regulations, but also by our commitment to you, our customer. The following policy serves as a standard for all of our employees regarding the
+collection, use, retention, and security of nonpublic personal information.
+What Information We Collect
+“Nonpublic personal information” is information, not lawfully available to the general public, which we obtain about you in connection with providing a
+financial product or service to you. For example, nonpublic personal information includes information regarding your account balance, payment
+history, and overdraft history.
+We may collect the following types of nonpublic personal information about you from the sources listed:
+             Information we receive from you on applications or other loan and account forms, such as your name, address and social security number,
+             assets, income or medical history;
+             Information about your transactions with our affiliates or us, such as your account balance and payment history; and,
+             Information we receive from credit bureaus and other companies, such as your creditworthiness and payment history.
+What Information We Disclose
+We may share information about our experiences or transactions with you, such as your account balance and your payment history with us, with
+companies related to us by common control or ownership (“affiliates”). We may also share additional information about you or your account, such as
+information we receive from you in applications and information from credit reporting agencies, with our affiliates. You may direct us not to share
+information from your applications, consumer reports or from other outside sources among our affiliates by contacting us as follows: Call 800-
+672-8739 or write to us at Busey, Attention: Customer Support Center, P.O. Box 17430, Urbana, IL. 61803-74330. First Busey Corporation owns
+Busey Bank, Busey Bank, N.A. and Busey Wealth Management. Busey Ag Resources and Busey Farm Brokerage are wholly owned by Busey Bank.
+Busey Trust Company, Busey Capital Management, and Physician Advisory Resources, LLC are owned in whole or part by Busey Wealth
+Management. FirsTech, a retail payment processing company in Decatur, Illinois, is a subsidiary of Busey Bank, N.A.
+We do not disclose nonpublic information about our customers or former customers to any non-affiliated entity (i.e., third parties that are not members
+of our corporate family) except as permitted or required by law. This can include disclosing nonpublic personal information about you to assist in
+servicing your loan or account; to protect against potential fraud or unauthorized transactions; to respond to judicial process; to comply with federal,
+state, or local legal requirements; to report to credit bureaus; and to comply with your request.
+We may disclose any of the information we collect, as described above, with companies that work for us to provide marketing services on our behalf or
+other financial institutions with which we have joint marketing agreements. All of these companies are contractually obligated to keep the information
+that we provide to them confidential and secure, and to use the information only to provide the services we've asked them to perform for you and us.
+If you decide to close your account(s) or become an inactive customer, we will continue to adhere to the privacy practices described in this notice.
+Our Security Procedures
+We also take steps to safeguard customer information. We restrict access to your personal and account information to those employees who need to
+know that information to provide products or services to you. Associates are educated on the importance of maintaining the confidentiality of customer
+information, and are responsible for maintaining the confidentiality of customer information. We maintain physical, electronic, and procedural
+safeguards that comply with federal standards to guard your nonpublic personal information.
+We are equally committed to protecting the privacy of customer information for online banking. Customers wanting to know more about online banking
+security features should review the Security and Terms of Use statement at www.busey.com.
+Providing Privacy Information to Customers and Responding to Inquiries
+We provide a copy of this policy when we establish a customer relationship with a consumer, and thereafter on at least an annual basis. This policy is
+also available on our website at www.busey.com. Customers who have questions about this Privacy Policy or about the privacy of their customer
+information should call 800-672-8739 or write to us at Busey, Attention: Customer Support Center, P.O. Box 17430, Urbana, IL. 61803-7430. Please
+include your name, and how we may contact you. For security reasons, please do not include account information in the message.
