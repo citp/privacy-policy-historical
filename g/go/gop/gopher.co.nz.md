@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gopher.co.nz privacy policy that was archived on 2007-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071220182354id_/http%3A//gopher.co.nz/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gopher.co.nz privacy policy that was archived on 2008-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080123134551id_/http%3A//www.gopher.co.nz/Privacy.aspx) for the most accurate reproduction.*
 
 # Gopher NZ: Privacy Policy
 
