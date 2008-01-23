@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fntg.com privacy policy that was archived on 2007-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070403232056id_/http%3A//www.fntg.com/w3c/privacy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fntg.com privacy policy that was archived on 2008-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080123082506id_/http%3A//www.fntg.com/w3c/privacy.pdf) for the most accurate reproduction.*
 
 # 
 
