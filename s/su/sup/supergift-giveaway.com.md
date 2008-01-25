@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the supergift-giveaway.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225200852id_/http%3A//www.supergift-giveaway.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supergift-giveaway.com privacy policy that was archived on 2008-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080125030343id_/http%3A//www.supergift-giveaway.com/privacy.html) for the most accurate reproduction.*
 
 # SuperGift-Giveaway.com
 
-  |  | [](https://web.archive.org/web/20071225200852id_/http%3A//www.supergift-giveaway.com/index.html) |   
+  |  | [](https://web.archive.org/web/20080125030343id_/http%3A//www.supergift-giveaway.com/index.html) |   
 ---|---  
   
 |  |   
@@ -71,7 +71,7 @@ Version 20070927 Effective Date:September 27, 2007
   
 Copyright © 2007 SuperGift-Giveaway.com All Rights Reserved.  
   
-*This promotion is conducted exclusively by SuperGift-Giveaway.com, and is subject to participation [terms and conditions](https://web.archive.org/web/20071225200852id_/http%3A//www.supergift-giveaway.com/terms.html). Receipt of your item requires compliance with offer terms, including: age and residency requirements; registration with valid e-mail address, shipping address and phone number; completion of user survey and sponsor offers. Upon completion of all requirements, we will ship your incentive gift to your verified shipping address. Fulfillment may be delayed based on availability. 
+*This promotion is conducted exclusively by SuperGift-Giveaway.com, and is subject to participation [terms and conditions](https://web.archive.org/web/20080125030343id_/http%3A//www.supergift-giveaway.com/terms.html). Receipt of your item requires compliance with offer terms, including: age and residency requirements; registration with valid e-mail address, shipping address and phone number; completion of user survey and sponsor offers. Upon completion of all requirements, we will ship your incentive gift to your verified shipping address. Fulfillment may be delayed based on availability. 
 
 Trademarks, service marks, logos, and/or domain names (including, without limitation, the individual names of products and companies) are the property of their respective owners, who have no association with and do not make any endorsement of the products or services provided by SuperGift-Giveaway.com.  
   
