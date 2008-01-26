@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunshinerewards.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227034506id_/http%3A//www.sunshinerewards.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunshinerewards.com privacy policy that was archived on 2008-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080126150900id_/http%3A//www.sunshinerewards.com/privacy.php) for the most accurate reproduction.*
 
 # Earn Rewards for Reading Email, Shopping, and Surfing at Sunshine Rewards
 
