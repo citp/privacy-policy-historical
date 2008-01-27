@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the toluna.com privacy policy that was archived on 2007-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071018064224id_/http%3A//www.toluna.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toluna.com privacy policy that was archived on 2008-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080127132443id_/http%3A//www.toluna.com/Privacy.aspx) for the most accurate reproduction.*
 
-# toluna.com - Privacy Policy
+# Toluna.com: Privacy
 
 MEMBER PRIVACY POLICY
 
@@ -14,7 +14,7 @@ Toluna makes a commitment to each participant that it will ensure the utmost con
 
 In accordance with the provisions of Law No. 78-17 concerning Data Processing and Civil Liberties, dated 6 January 1978, the participant shall have the right to gain access to his or her data and correct it. 
 
-In order to exercise this right, the participant may either write to the address below or [contact us.](http://toluna.com/ContactUs.aspx?type=0)
+In order to exercise this right, the participant may either write to the address below or [contact us.](http://www.toluna.com/ContactUs.aspx?type=0)
 
 Toluna undertakes to carry out all the formalities required with the French Data Processing and Civil Liberties Commission in order to declare the participants’ file. As part of ensuring the security of exchanges of e-mail with the participant, Toluna shall make sure that the tools required pursuant to the legislation in force in France are set up. In this respect, Toluna’s only obligation shall be to take due care.
 
