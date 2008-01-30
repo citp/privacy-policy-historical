@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cancerbackup.org.uk privacy policy that was archived on 2007-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071023070350id_/http%3A//www.cancerbackup.org.uk/Termsconditions/Privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cancerbackup.org.uk privacy policy that was archived on 2008-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080130153241id_/http%3A//www.cancerbackup.org.uk/Termsconditions/Privacystatement) for the most accurate reproduction.*
 
 # Privacy statement : Cancerbackup
 
@@ -31,6 +31,6 @@ Cancerbackup records some details about enquiries to monitor the quality and del
   
 
 
-Page last modified: 22 March 2007
+Page last modified: 01 November 2007
 
 Cancerbackup is a national charity and we rely on voluntary donations. To donate, please call 020 7696 9003 and tell us you have visited our website. Thank you.
