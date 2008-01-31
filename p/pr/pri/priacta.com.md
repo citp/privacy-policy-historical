@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the priacta.com privacy policy that was archived on 2007-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071105013950id_/http%3A//www.priacta.com/Information/Privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the priacta.com privacy policy that was archived on 2008-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080131145235id_/http%3A//www.priacta.com/Information/Privacy.shtml) for the most accurate reproduction.*
 
 # Priacta Privacy Policy
 
@@ -14,8 +14,8 @@ Should you have any questions regarding this policy, please write to us at :
 
 Data Integrity  
 Priacta, Inc.  
-11506 Allecingie Pkwy, 2B  
-Richmond, VA 23235
+2975 Elioch Manor Drive  
+Powhatan, VA 23139
 
 or e-mail dataintegrity@priacta.com. You may also contact us via our main website, [www.priacta.com](http://www.priacta.com/).
 
