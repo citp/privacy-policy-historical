@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ubfunkeys.com privacy policy that was archived on 2007-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071202121023id_/http%3A//www.ubfunkeys.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubfunkeys.com privacy policy that was archived on 2008-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080131204230id_/http%3A//www.ubfunkeys.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # U.B. Funkeys - Privacy Policy
 
