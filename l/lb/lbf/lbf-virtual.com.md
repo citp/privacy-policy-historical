@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lbf-virtual.com privacy policy that was archived on 2006-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061002230921id_/http%3A//www.londonbookfair.co.uk/page.cfm/Link%3D3/t%3Dm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lbf-virtual.com privacy policy that was archived on 2008-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080202095315id_/http%3A//www.londonbookfair.co.uk/page.cfm/Link%3D3/t%3Dm) for the most accurate reproduction.*
 
-# The London Book Fair - Privacy Pledge
+# The London Book Fair 2008 - Privacy Pledge
 
-|  **How Your Information Is Used**
+**How Your Information Is Used**
 
 Since 1995, Reed Exhibitions has been working to develop useful Internet services and web sites that are safe, easy, and respectful of our customers. This web site is maintained by Reed Exhibitions Limited (RX). Our corporate offices are located at Gateway House, 28 The Quadrant, Richmond, Surrey TW9 1DN, United Kingdom. You can also reach us by telephone on +44 (0) 208 910 7910.
 
@@ -64,5 +64,3 @@ No part of this website may be reproduced or transmitted by any means, electroni
 This site contains links to external sites. Reed Exhibitions Limited is not responsible for, and has no control over, the content of such sites. Information on this site, or available via hypertext link from this site, is made available without responsibility on the part of Reed Exhibitions Limited.
 
 Reed Exhibitions Limited disclaims all responsibility and liability (including negligence) in relation to information on or accessible from this site. 
-
-| 
