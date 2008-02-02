@@ -1,16 +1,16 @@
-<!--The following is the downloaded HTML source of the lbf-virtual.com privacy policy that was archived on 2006-10-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061002230921id_/http%3A//www.londonbookfair.co.uk/page.cfm/Link%3D3/t%3Dm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lbf-virtual.com privacy policy that was archived on 2008-02-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080202095315id_/http%3A//www.londonbookfair.co.uk/page.cfm/Link%3D3/t%3Dm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html lang="en-GB"><head>
 		
 	<meta http-equiv="Content-Type" content="text/html;charset=iso-8859-1">
 	<meta http-equiv="pragma" content="no-cache">
 	<meta http-equiv="expires" content="Sun, 28 Dec 1997 09:00:00 GMT">
-	<meta name="robots" content="index,follow">
 	<meta name="language" content="en">
 	
+	<meta name="robots" content="index,follow">
 	
-	
+	<meta name="verify-v1" content="0E+I6wAxOTjsCnlUD+jTnPypI6SeqJqc90Zi07mMPfg=">
 
 		
 <meta name="Description" content="Privacy Pledge Privacy Pledge How Your Information Is Used Since 1995, Reed Exhibitions has been working to develop useful Internet services and web sites that are safe, easy, and respectful of our customers. This web site is maintained by ">
@@ -20,7 +20,7 @@
 	
 		
 			
-				<link rel="stylesheet" type="text/css" href="http://www.londonbookfair.co.uk/css_LBF2007.css">
+				<link rel="stylesheet" type="text/css" href="http://www.londonbookfair.co.uk/css_LBF2008.css">
 			
 		
 	
@@ -41,14 +41,17 @@
 		 brC = "]";
 		 wdth=".clip.width";
 		 sty = "";}
+		
 		else if(document.getElementById)
 		{nav = "ns6";
-		 doc = "document.getElementById";
-		 brO = "(";
-		 brC = ")";
+		 doc = "document.all";
+		 
+		 brO = "[";
+		 brC = "]";
 		 wdth=".offsetWidth";
 		 sty = ".style";}
-	
+		
+		//Logo Rotator, copyright 2007 ASP Multimedia Ltd.  SHOWOFF is a product owned by ASP Multimedia Ltd
 		function updateRotator(rotID)
 		{	var count=eval('countRotator_'+rotID+'++;');
 			//var rotArrayLen=eval('divArray_'+rotID+'.length');
@@ -62,7 +65,7 @@
 			/*
 			if (document.all['ImgRotator_'+rotID] != null)
 			{	obj=eval('objArray_'+rotID+'[countRotator_'+rotID+']');
-				document.all['ImgRotatorImg_'+rotID].src='http://www.londonbookfair.co.uk/g/logos/'+obj.imgName;
+				document.all['ImgRotatorImg_'+rotID].src='http://www.londonbookfair.co.uk/g/2008/logos/'+obj.imgName;
 				document.all['ImgRotatorImg_'+rotID].width=obj.imgWidth;
 				document.all['ImgRotatorImg_'+rotID].height=obj.imgHeight;
 				document.all['ImgRotatorImg_'+rotID].alt=obj.imgAlt;
@@ -70,32 +73,33 @@
 				document.all['ImgRotatorHref_'+rotID].target=obj.imgTarget;
 			}
 			*/
-			if (document.all['ImgRotator_'+rotID] != null)
-			{	if (typeof(document.all['ImgRotatorDIV_'+rotID]) == "undefined")//eval('ImgRotatorDIV_'+rotID+'_'+count) != null)
-				{	document.all['ImgRotator_'+rotID].innerHTML='<div ID="ImgRotatorDIV_'+rotID+'_'+eval('divArray_'+rotID+'.length')+'">'+document.all['ImgRotator_'+rotID].innerHTML+'<\/div>';
+			ImgRotator=eval(doc+brO+"'ImgRotator_'+rotID"+brC);
+			if (ImgRotator != null)
+			{	ImgRotatorDIV=eval(doc+brO+"'ImgRotatorDIV_'+rotID"+brC);
+				if (ImgRotatorDIV == null)//eval('ImgRotatorDIV_'+rotID+'_'+count) != null)
+				{	ImgRotator.innerHTML='<div Name="ImgRotatorDIV_'+rotID+'_'+eval('divArray_'+rotID+'.length')+'" ID="ImgRotatorDIV_'+rotID+'_'+eval('divArray_'+rotID+'.length')+'">'+ImgRotator.innerHTML+'<\/div>';
 					for (i=0; i < eval('divArray_'+rotID+'.length'); i++)
-					{	document.all['ImgRotator_'+rotID].innerHTML=document.all['ImgRotator_'+rotID].innerHTML+eval('divArray_'+rotID+'['+i+'];');
+					{	ImgRotator.innerHTML=ImgRotator.innerHTML+eval('divArray_'+rotID+'['+i+'];');
 					}
-					document.all['ImgRotator_'+rotID].innerHTML='<div ID="ImgRotatorDIV_'+rotID+'">'+document.all['ImgRotator_'+rotID].innerHTML+'<\/div>';
+					ImgRotator.innerHTML='<div name= "ImgRotatorDIV_'+rotID+'" ID="ImgRotatorDIV_'+rotID+'">'+ImgRotator.innerHTML+'<\/div>';
 					//setTimeout('updateRotator('+rotID+');',500);
 				}
 				else
 				{	for (i=0; i <= eval('divArray_'+rotID+'.length'); i++)
-					{	if (typeof(document.all['ImgRotatorDIV_'+rotID+'_'+i]) != "undefined")
-						{	document.all['ImgRotatorDIV_'+rotID+'_'+i].style.display='none';
+					{	ImgRotatorDIV=eval(doc+brO+"'ImgRotatorDIV_'+rotID+'_'+i"+brC);
+						if (typeof(ImgRotatorDIV) != "undefined")
+						{	ImgRotatorDIVStyle=eval(doc+brO+"'ImgRotatorDIV_'+rotID+'_'+i"+brC+sty);
+							ImgRotatorDIVStyle.display='none';
 						}
 					}
 					//window.status='document.all[ImgRotatorDIV_'+rotID+'_'+eval('countRotator_'+rotID);
-					if (typeof(document.all['ImgRotatorDIV_'+rotID+'_'+eval('countRotator_'+rotID)]) != "undefined")
-					{	document.all['ImgRotatorDIV_'+rotID+'_'+eval('countRotator_'+rotID)].style.display='inline';
+					ImgRotatorDIV=eval(doc+brO+"'ImgRotatorDIV_'+rotID+'_'+eval('countRotator_'+rotID)"+brC);
+					if (typeof(ImgRotatorDIV) != "undefined")
+					{	ImgRotatorDIVStyle=eval(doc+brO+"'ImgRotatorDIV_'+rotID+'_'+eval('countRotator_'+rotID)"+brC+sty);
+						ImgRotatorDIVStyle.display='inline';
 					}
 				}
 			}
-		}
-	
-		function OpenCertDetails()
-		{	thewindow=window.open('https://www.thawte.com/cgi/server/certdetails.exe?code=GBREED32', 'thewindow', config='height=400,width=450,toolbar=no,menubar=no,scrollbars=yes,resizable=no,location=no,directories=no,status=yes');
-			thewindow.focus();
 		}
 	
 		function rolloverImage(imgName,state)
@@ -111,6 +115,146 @@
 				{	DIVObject.display='none';	}
 			}
 		}
+
+		
+			//ELibHiRes, copyright 2007 ASP Multimedia Ltd.  SHOWOFF is a product owned by ASP Multimedia Ltd
+			function ELibHiRes(img, target, libID, productID, windowWidth)
+			{	var imgHREF='http://www.londonbookfair.co.uk/page.cfm/Action=ExhibitorLibrary/LibraryID='+libID+'/ProductID='+productID+'/viewHiRes='+target+'/';
+				
+				if (target=='_self')
+				{	top.location.href=imgHREF;
+				}
+				else if (target=='_blank')
+				{	windowWidth+=16;
+					var ELibHiResWindow=window.open(imgHREF+'t=b', 'ELibHiResWindow', 'width='+windowWidth+',height='+Math.ceil(windowWidth*0.66)+',scrollbars=yes,resizable=yes,toolbar=no,menubar=no,location=no,directories=no,status=no');
+					ELibHiResWindow.focus();
+				}
+			}
+		
+		/*function getXMLHttpObject()
+		{	var xmlHttp=null;
+			try
+			{   // Firefox, Opera 8.0+, Safari    
+				xmlHttp=new XMLHttpRequest();
+			}
+			catch (e)
+			{   // Internet Explorer    
+				try
+				{	xmlHttp=new ActiveXObject("Msxml2.XMLHTTP");      
+				}
+				catch (e)
+				{   try
+					{	xmlHttp=new ActiveXObject("Microsoft.XMLHTTP");
+					}
+					catch (e)
+					{	//alert("Your browser does not support AJAX!");
+						return false;
+					}
+				}
+			}
+			return xmlHttp;
+		}
+		function isArray(obj)
+		{	if (obj.constructor.toString().indexOf("Array") == -1)
+				return false;
+			else
+				return true;
+		}
+		
+		xmlHttp=new Array();
+		function callAJAX(UID,URL,readyFunction,varOne)
+		{	var url=URL+'&RNDID='+Math.random();
+			xmlHttp[UID]=getXMLHttpObject();
+			xmlHttp[UID].onreadystatechange=function()
+			{	if (xmlHttp[UID].readyState==4 && xmlHttp[UID].status == 200)
+				{	AJAXOutput=xmlHttp[UID].responseText;
+					
+					eval(readyFunction);
+				}
+			}
+			if (isArray(URL))
+			{	params='';
+				ambersand='';
+				for (i=1; i < URL.length; i++)
+				{	params+=ambersand+encodeURI(URL[i]);
+					ambersand='&';
+				}
+				xmlHttp[UID].open("POST",URL[0],true);
+				xmlHttp[UID].setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+				xmlHttp[UID].setRequestHeader("Content-length", params);
+				xmlHttp[UID].setRequestHeader("Connection", "close");
+				xmlHttp[UID].send(params);
+			}
+			else
+			{	xmlHttp[UID].open("GET",encodeURI(url),true);
+				xmlHttp[UID].send(null);
+			}
+		}*/
+	//-->
+	</script>
+	
+	<script language="javascript" type="text/javascript">
+	<!--
+		function getXMLHttpObject()
+		{	var xmlHttp=null;
+			try
+			{   // Firefox, Opera 8.0+, Safari    
+				xmlHttp=new XMLHttpRequest();
+			}
+			catch (e)
+			{   // Internet Explorer    
+				try
+				{	xmlHttp=new ActiveXObject("Msxml2.XMLHTTP");      
+				}
+				catch (e)
+				{   try
+					{	xmlHttp=new ActiveXObject("Microsoft.XMLHTTP");
+					}
+					catch (e)
+					{	//alert("Your browser does not support AJAX!");
+						return false;
+					}
+				}
+			}
+			return xmlHttp;
+		}
+		function isArray(obj)
+		{	if (obj.constructor.toString().indexOf("Array") == -1)
+				return false;
+			else
+				return true;
+		}
+		
+		xmlHttp=new Array();
+		function callAJAX(UID,URL,readyFunction,varOne)
+		{	var url=URL+'&RNDID='+Math.random();
+			xmlHttp[UID]=getXMLHttpObject();
+			xmlHttp[UID].onreadystatechange=function()
+			{	if (xmlHttp[UID].readyState==4 && xmlHttp[UID].status == 200)
+				{	AJAXOutput=xmlHttp[UID].responseText;
+					
+					
+					eval(readyFunction);
+				}
+			}
+			if (isArray(URL))
+			{	params='';
+				ambersand='';
+				for (i=1; i < URL.length; i++)
+				{	params+=ambersand+encodeURI(URL[i]);
+					ambersand='&';
+				}
+				xmlHttp[UID].open("POST",URL[0],true);
+				xmlHttp[UID].setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+				xmlHttp[UID].setRequestHeader("Content-length", params);
+				xmlHttp[UID].setRequestHeader("Connection", "close");
+				xmlHttp[UID].send(params);
+			}
+			else
+			{	xmlHttp[UID].open("GET",encodeURI(url),true);
+				xmlHttp[UID].send(null);
+			}
+		}
 	//-->
 	</script>
 
@@ -123,7 +267,7 @@
 		
 		
 <!--
-(c) Copyright 2006 ASP Multimedia Ltd.
+(c) Copyright 2008 ASP Multimedia Ltd.
 SHOWOFF is a product owned by ASP Multimedia Ltd.
 -->
 
@@ -131,516 +275,268 @@ SHOWOFF is a product owned by ASP Multimedia Ltd.
 
 
 		
-	<script language="javascript" type="text/javascript">
-	<!--
-	var divArray_0=new Array();
-	var objArray_0=new Array();
-	var obj={imgName:'powerbar_traveldesk.jpg',imgWidth:'125',imgHeight:'125',imgAlt:'Travel Desk 2007',imgLink:'http://www.londonbookfair.co.uk/page.cfm/LinkTarget=00161/URLTarget=http://www.londonbookfair.co.uk/page.cfm/Link=0/t=m',imgTarget:'_self'};
-	objArray_0[0]=obj;
 	
-	//-->
-	</script>
 
-<title>The London Book Fair - Privacy Pledge</title>
+<title>The London Book Fair 2008 - Privacy Pledge</title>
 <script language="javascript" type="text/javascript">
-	<!--
-	var divArray_1=new Array();
-	var objArray_1=new Array();
-	var obj={imgName:'logo_spain_market_focus_150.jpg',imgWidth:'150',imgHeight:'91',imgAlt:'market focus spain',imgLink:'http://www.londonbookfair.co.uk/page.cfm/LinkTarget=00171/URLTarget=http://www.londonbookfair.co.uk/page.cfm/Link=0/t=m',imgTarget:'_self'};
-	objArray_1[0]=obj;
-	
-	//-->
-	</script><script language="javascript" type="text/javascript">
-	<!--
-	var divArray_2=new Array();
-	var objArray_2=new Array();
-	var obj={imgName:'logo_ba.gif',imgWidth:'80',imgHeight:'80',imgAlt:'',imgLink:'http://www.londonbookfair.co.uk/page.cfm/LinkTarget=00150/URLTarget=http://www.londonbookfair.co.uk/page.cfm/Link=0/t=m',imgTarget:'_self'};
-	objArray_2[0]=obj;
-	
-	//-->
-	</script><script language="javascript" type="text/javascript">
-	<!--
-	var divArray_3=new Array();
-	var objArray_3=new Array();
-	var obj={imgName:'logo_bookexpo_america07.jpg',imgWidth:'81',imgHeight:'103',imgAlt:'Book Expo America',imgLink:'http://www.londonbookfair.co.uk/page.cfm/LinkTarget=00151/URLTarget=http://www.londonbookfair.co.uk/page.cfm/Link=0/t=m',imgTarget:'_self'};
-	objArray_3[0]=obj;
-	
-	//-->
-	</script><script language="javascript" type="text/javascript">
-rolloverImage_1_off=new Image(); rolloverImage_1_off.src='http://www.londonbookfair.co.uk/g/logos/rollover_Exhibitors_off.gif'; rolloverImage_1_on=new Image(); rolloverImage_1_on.src='http://www.londonbookfair.co.uk/g/logos/rollover_Exhibitors_on.gif';
-rolloverImage_2_off=new Image(); rolloverImage_2_off.src='http://www.londonbookfair.co.uk/g/logos/rollover_Visitors_off.gif'; rolloverImage_2_on=new Image(); rolloverImage_2_on.src='http://www.londonbookfair.co.uk/g/logos/rollover_Visitors_on.gif';
-rolloverImage_3_off=new Image(); rolloverImage_3_off.src='http://www.londonbookfair.co.uk/g/logos/rollover_International_Rights_Centre_off.gif'; rolloverImage_3_on=new Image(); rolloverImage_3_on.src='http://www.londonbookfair.co.uk/g/logos/rollover_International_Rights_Centre_on.gif';
-rolloverImage_4_off=new Image(); rolloverImage_4_off.src='http://www.londonbookfair.co.uk/g/logos/rollover_Features_Seminars_off.gif'; rolloverImage_4_on=new Image(); rolloverImage_4_on.src='http://www.londonbookfair.co.uk/g/logos/rollover_Features_Seminars_on.gif';
-rolloverImage_5_off=new Image(); rolloverImage_5_off.src='http://www.londonbookfair.co.uk/g/logos/rollover_Masterclasses_2007_off.gif'; rolloverImage_5_on=new Image(); rolloverImage_5_on.src='http://www.londonbookfair.co.uk/g/logos/rollover_Masterclasses_2007_on.gif';
-rolloverImage_6_off=new Image(); rolloverImage_6_off.src='http://www.londonbookfair.co.uk/g/logos/rollover_Getting_to_Earls_Court_One_off.gif'; rolloverImage_6_on=new Image(); rolloverImage_6_on.src='http://www.londonbookfair.co.uk/g/logos/rollover_Getting_to_Earls_Court_One_on.gif';
-rolloverImage_7_off=new Image(); rolloverImage_7_off.src='http://www.londonbookfair.co.uk/g/logos/rollover_Press_off.gif'; rolloverImage_7_on=new Image(); rolloverImage_7_on.src='http://www.londonbookfair.co.uk/g/logos/rollover_Press_on.gif';
-rolloverImage_8_off=new Image(); rolloverImage_8_off.src='http://www.londonbookfair.co.uk/g/logos/rollover_Trade_Information_off.gif'; rolloverImage_8_on=new Image(); rolloverImage_8_on.src='http://www.londonbookfair.co.uk/g/logos/rollover_Trade_Information_on.gif';
+rolloverImage_0_off=new Image(); rolloverImage_0_off.src='http://www.londonbookfair.co.uk/g/2008/template/rollover_Home_off.gif'; rolloverImage_0_on=new Image(); rolloverImage_0_on.src='http://www.londonbookfair.co.uk/g/2008/template/rollover_Home_on.gif';
+rolloverImage_2_off=new Image(); rolloverImage_2_off.src='http://www.londonbookfair.co.uk/g/2008/template/rollover_Visiting_Information_off.gif'; rolloverImage_2_on=new Image(); rolloverImage_2_on.src='http://www.londonbookfair.co.uk/g/2008/template/rollover_Visiting_Information_on.gif';
+rolloverImage_3_off=new Image(); rolloverImage_3_off.src='http://www.londonbookfair.co.uk/g/2008/template/rollover_Rights_Centre_off.gif'; rolloverImage_3_on=new Image(); rolloverImage_3_on.src='http://www.londonbookfair.co.uk/g/2008/template/rollover_Rights_Centre_on.gif';
+rolloverImage_4_off=new Image(); rolloverImage_4_off.src='http://www.londonbookfair.co.uk/g/2008/template/rollover_Market_Focus_off.gif'; rolloverImage_4_on=new Image(); rolloverImage_4_on.src='http://www.londonbookfair.co.uk/g/2008/template/rollover_Market_Focus_on.gif';
+rolloverImage_5_off=new Image(); rolloverImage_5_off.src='http://www.londonbookfair.co.uk/g/2008/template/rollover_Global_Publishing_Info_off.gif'; rolloverImage_5_on=new Image(); rolloverImage_5_on.src='http://www.londonbookfair.co.uk/g/2008/template/rollover_Global_Publishing_Info_on.gif';
+rolloverImage_6_off=new Image(); rolloverImage_6_off.src='http://www.londonbookfair.co.uk/g/2008/template/rollover_Features_seminars_events_off.gif'; rolloverImage_6_on=new Image(); rolloverImage_6_on.src='http://www.londonbookfair.co.uk/g/2008/template/rollover_Features_seminars_events_on.gif';
+rolloverImage_7_off=new Image(); rolloverImage_7_off.src='http://www.londonbookfair.co.uk/g/2008/template/rollover_travel_hotels_restaurants_off.gif'; rolloverImage_7_on=new Image(); rolloverImage_7_on.src='http://www.londonbookfair.co.uk/g/2008/template/rollover_travel_hotels_restaurants_on.gif';
+rolloverImage_8_off=new Image(); rolloverImage_8_off.src='http://www.londonbookfair.co.uk/g/2008/template/rollover_Press_off.gif'; rolloverImage_8_on=new Image(); rolloverImage_8_on.src='http://www.londonbookfair.co.uk/g/2008/template/rollover_Press_on.gif';
+rolloverImage_9_off=new Image(); rolloverImage_9_off.src='http://www.londonbookfair.co.uk/g/2008/template/rollover_Home_off.gif'; rolloverImage_9_on=new Image(); rolloverImage_9_on.src='http://www.londonbookfair.co.uk/g/2008/template/rollover_Home_on.gif';
+rolloverImage_11_off=new Image(); rolloverImage_11_off.src='http://www.londonbookfair.co.uk/g/2008/template/rollover_Visiting_Information_off.gif'; rolloverImage_11_on=new Image(); rolloverImage_11_on.src='http://www.londonbookfair.co.uk/g/2008/template/rollover_Visiting_Information_on.gif';
+rolloverImage_12_off=new Image(); rolloverImage_12_off.src='http://www.londonbookfair.co.uk/g/2008/template/rollover_Rights_Centre_off.gif'; rolloverImage_12_on=new Image(); rolloverImage_12_on.src='http://www.londonbookfair.co.uk/g/2008/template/rollover_Rights_Centre_on.gif';
+rolloverImage_13_off=new Image(); rolloverImage_13_off.src='http://www.londonbookfair.co.uk/g/2008/template/rollover_Market_Focus_off.gif'; rolloverImage_13_on=new Image(); rolloverImage_13_on.src='http://www.londonbookfair.co.uk/g/2008/template/rollover_Market_Focus_on.gif';
+rolloverImage_14_off=new Image(); rolloverImage_14_off.src='http://www.londonbookfair.co.uk/g/2008/template/rollover_Global_Publishing_Info_off.gif'; rolloverImage_14_on=new Image(); rolloverImage_14_on.src='http://www.londonbookfair.co.uk/g/2008/template/rollover_Global_Publishing_Info_on.gif';
+rolloverImage_15_off=new Image(); rolloverImage_15_off.src='http://www.londonbookfair.co.uk/g/2008/template/rollover_Features_seminars_events_off.gif'; rolloverImage_15_on=new Image(); rolloverImage_15_on.src='http://www.londonbookfair.co.uk/g/2008/template/rollover_Features_seminars_events_on.gif';
+rolloverImage_16_off=new Image(); rolloverImage_16_off.src='http://www.londonbookfair.co.uk/g/2008/template/rollover_travel_hotels_restaurants_off.gif'; rolloverImage_16_on=new Image(); rolloverImage_16_on.src='http://www.londonbookfair.co.uk/g/2008/template/rollover_travel_hotels_restaurants_on.gif';
+rolloverImage_17_off=new Image(); rolloverImage_17_off.src='http://www.londonbookfair.co.uk/g/2008/template/rollover_Press_off.gif'; rolloverImage_17_on=new Image(); rolloverImage_17_on.src='http://www.londonbookfair.co.uk/g/2008/template/rollover_Press_on.gif';
 </script></head>
 	
 	
-<body topmargin="0" marginheight="0" leftmargin="0" marginwidth="0" bgcolor="#FFFFFF" text="#333366" link="#FF752A" alink="#FF752A" vlink="#FF752A">
-
+	<body bgcolor="#812317">
 
 	
-
+	
+	
 <a name="Head"></a>
 
 <div id="PageBody_DIV">
-<!-- websiteAnnouncement -->
-<div align="center">
+	<!-- websiteAnnouncement -->
 
-<table border="0" width="100%" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" height="100%">
+	
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
 	<tbody><tr>
-		<td valign="top" align="center" width="100%">
-			
-			<table border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="#ffffff">
-				<tbody><tr>
-					<td>
-<table width="100%" border="0" cellpadding="10" cellspacing="0">
+		<td bgcolor="#ffffff">
+<table width="100%" cellspacing="0" cellpadding="0" border="0" bgcolor="812317">
 	<tbody><tr>
-		<td>
-			<table width="100%" border="0" cellpadding="0" cellspacing="0">
-				<tbody><tr>
-					<td colspan="2" bgcolor="cccccc"><img src="http://www.londonbookfair.co.uk/g/g_blank.gif" width="1" height="1" border="0" alt=""><br></td>
-				</tr>
-				<tr>
-					<td colspan="2" bgcolor="FFFFFF"><img src="http://www.londonbookfair.co.uk/g/g_blank.gif" width="1" height="10" border="0" alt=""><br></td>
-				</tr>
-				<tr>
-					<td width="180" align="center"><img src="http://www.londonbookfair.co.uk/g/template/lbf07_banner_logo.gif" width="103" height="98" border="0" alt="The London Book Fair Privacy Pledge Privacy Pledge"><br><img src="http://www.londonbookfair.co.uk/g/g_blank.gif" width="180" height="1" border="0" alt=""><br></td>
-					<td width="100%" align="center" valign="middle"><img src="http://www.londonbookfair.co.uk/g/template/lbf07_banner_dates.gif" width="570" height="14" border="0" alt="The London Book Fair Privacy Pledge Privacy Pledge"><br><img src="http://www.londonbookfair.co.uk/g/g_blank.gif" width="1" height="10" border="0" alt=""><br><img src="http://www.londonbookfair.co.uk/g/template/lbf07_banner_images.jpg" width="540" height="52" border="0" alt="The London Book Fair Privacy Pledge Privacy Pledge"><br><img src="http://www.londonbookfair.co.uk/g/g_blank.gif" width="1" height="10" border="0" alt=""><br><img src="http://www.londonbookfair.co.uk/g/template/lbf07_banner_strap.gif" width="566" height="10" border="0" alt="The London Book Fair Privacy Pledge Privacy Pledge"><br></td>
-				</tr>
-				<tr>
-					<td colspan="2" bgcolor="FFFFFF"><img src="http://www.londonbookfair.co.uk/g/g_blank.gif" width="1" height="10" border="0" alt=""><br></td>
-				</tr>
-				<tr>
-					<td colspan="2" bgcolor="cccccc"><img src="http://www.londonbookfair.co.uk/g/g_blank.gif" width="1" height="1" border="0" alt=""><br></td>
-				</tr>
-			</tbody></table>
-		</td>
+		<td width="181"><a href="http://www.londonbookfair.co.uk/"><img src="http://www.londonbookfair.co.uk/g/2008/template/LBF08_header_left.gif" alt="The London Book Fair 2008" width="181" height="156" border="0"></a></td>
+		<td background="http://www.londonbookfair.co.uk/g/2008/template/LBF08_header_bgLeft.gif"><a href="http://www.londonbookfair.co.uk/"><img src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="1" height="100%" alt="The London Book Fair 2008" border="0"></a></td>
+		<td width="411" align="center"><a href="http://www.londonbookfair.co.uk/"><img src="http://www.londonbookfair.co.uk/g/2008/template/centre_anim.gif" width="411" height="156" alt="The London Book Fair 2008" border="0"></a></td>
+		<td background="http://www.londonbookfair.co.uk/g/2008/template/LBF08_header_bgRight.gif"><a href="http://www.londonbookfair.co.uk/"><img src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="1" height="100%" alt="The London Book Fair 2008" border="0"></a></td>
+		<td width="180"><a href="http://www.londonbookfair.co.uk/"><img src="http://www.londonbookfair.co.uk/g/2008/template/LBF08_header_right.gif" alt="The London Book Fair 2008" width="181" height="156" border="0"></a></td>
 	</tr>
-</tbody></table></td>
-				</tr>
-			</tbody></table>
-
-		</td>
+</tbody></table> </td>
 	</tr>
-	<tr height="100%">
-		<td valign="top" align="center" bgcolor="#FFFFFF">
-			
-			<table border="0" cellpadding="0" cellspacing="0" align="Center" width="100%" height="100%">
-				<tbody><tr>
-					<td width="170" valign="top" align="center">
-						
-						<img alt="" src="http://www.londonbookfair.co.uk/g/g_blank.gif" width="1" height="10" border="0"><br>
-						
-						<table border="0" cellpadding="0" cellspacing="0" align="center">
-							<tbody><tr>
-								<td><img alt="" src="http://www.londonbookfair.co.uk/g/g_blank.gif" width="10" height="1"></td>
-								<td align="center">
-									<table border="0" cellpadding="0" cellspacing="0" align="center">
-									<!-- Start of the left powerbar -->
-										
-										
-										
-		
-	
-		
-		
-			<!-- ** start of  panel (panel 1 on Left) -->
-		
-		
-		
-		
-		
-		
-		
-				
-				
-				
-				
-					
-						
-	
-		
-	
-	
-
-
-
- 
-						
-					
-				
-			
-		
-		
-		
-		
-			<tbody><tr><td valign="top">
-		
-		
-		
-		
-		
-			
-			
-<table width="175" border="0" cellpadding="0" cellspacing="0">
+</tbody></table><img src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="10" height="10" border="0" alt=""><br>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
 	<tbody><tr>
-		<td>
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr>
-<td><a class="MainMenuSelected" accesskey="2" href="http://www.londonbookfair.co.uk/page.cfm/Link=1/t=m/goSection=1" target="_self"><img src="http://www.londonbookfair.co.uk/g/logos/rollover_About_London_Book_Fair_on.gif" alt="About London Book Fair" width="165" height="22" border="0"></a><br></td>
-</tr>
+		<td width="10"><img src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="10" height="1" border="0" alt=""><br></td>
+		<td width="168" valign="top"><img src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="168" height="1" border="0" alt=""><br>
+<table width="165" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td height="22" class="MainMenu" colspan="2"><a class="MainMenu" accesskey="2" href="http://www.londonbookfair.co.uk/page.cfm/Link=1/t=m/goSection=1" target="_self"><img border="0" src="http://www.londonbookfair.co.uk/g/2008/template/rollover_Home_off.gif" name="rolloverImage_0" id="rolloverImage_0" onmouseover="rolloverImage('rolloverImage_0','on');" onmouseout="rolloverImage('rolloverImage_0','off');" height="22" alt="Home" width="165"></a></td></tr><tr><td height="22" class="MainMenu" colspan="2"><img src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="1" height="10" border="0" alt=""><br>
+<a class="MainMenuSelected" accesskey="3" href="http://www.londonbookfair.co.uk/page.cfm/Link=9/t=m/goSection=3" target="_self"><img border="0" src="http://www.londonbookfair.co.uk/g/2008/template/rollover_Exhibiting_Information_on.gif" height="22" alt="Exhibiting Information" width="165"></a></td></tr><tr>
+<td width="10"><img src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="10" height="1" border="0" alt=""><br>
+</td>
+<td width="155"><a class="SubMenu" href="http://www.londonbookfair.co.uk/page.cfm/Link=53/t=m/goSection=3" target="_self"><font face="Arial" size="2" class="subMenu"></font></a><font face="Arial" size="2" class="subMenu"><a class="SubMenu" href="http://www.londonbookfair.co.uk/page.cfm/Link=53/t=m/goSection=3" target="_self">2008 Exhibiting Costs</a></font></td></tr>
 <tr>
-	<td>
-		<table cellpadding="0" cellspacing="0" border="0">
-			<tbody><tr>
-				<td colspan="2"><img src="http://www.londonbookfair.co.uk/g/g_blank.gif" width="165" height="1" border="0" alt=""><br></td>
-			</tr><tr>
-<td width="10">
-<img src="http://www.londonbookfair.co.uk/g/g_blank.gif" width="10" height="17" border="0" alt=""><br>
+<td colspan="2" bgcolor="#af321f"><img src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="10" height="1" border="0" alt=""><br>
 </td>
-<td width="155" valign="middle"><font face="Arial" size="2" class="subMenu"><a class="SubMenu" href="http://www.londonbookfair.co.uk/page.cfm/Link=13/t=m/goSection=1" target="_self">About Reed Exhibitions</a></font></td>
-</tr>
+</tr><tr>
+<td width="10"><img src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="10" height="1" border="0" alt=""><br>
+</td>
+<td width="155"><a class="SubMenu" href="http://www.londonbookfair.co.uk/page.cfm/Action=ExhibList/t=m/goSection=3" target="_self"><font face="Arial" size="2" class="subMenu"></font></a><font face="Arial" size="2" class="subMenu"><a class="SubMenu" href="http://www.londonbookfair.co.uk/page.cfm/Action=ExhibList/t=m/goSection=3" target="_self">2008 Exhibitor List</a></font></td></tr>
 <tr>
-<td colspan="2" bgcolor="dddddd">
-<img src="http://www.londonbookfair.co.uk/g/g_blank.gif" width="1" height="1" border="0" alt=""><br>
+<td colspan="2" bgcolor="#af321f"><img src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="10" height="1" border="0" alt=""><br>
 </td>
 </tr><tr>
-<td colspan="2">
-<img src="http://www.londonbookfair.co.uk/g/g_blank.gif" width="165" height="1" border="0" alt=""><br>
+<td width="10"><img src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="10" height="1" border="0" alt=""><br>
 </td>
-</tr>
-</tbody></table>
+<td width="155"><a class="SubMenu" href="http://www.londonbookfair.co.uk/page.cfm/Action=EZone/t=m/goSection=3" target="_self"><font face="Arial" size="2" class="subMenu"></font></a><font face="Arial" size="2" class="subMenu"><a class="SubMenu" href="http://www.londonbookfair.co.uk/page.cfm/Action=EZone/t=m/goSection=3" target="_self">Exhibitor Zone</a></font></td></tr>
+<tr>
+<td colspan="2" bgcolor="#af321f"><img src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="10" height="1" border="0" alt=""><br>
 </td>
 </tr><tr>
-<td><img src="http://www.londonbookfair.co.uk/g/g_blank.gif" width="1" height="5" border="0" alt=""><br><a class="MainMenu" accesskey="3" href="http://www.londonbookfair.co.uk/page.cfm/Link=9/t=m/goSection=3" target="_self"><img src="http://www.londonbookfair.co.uk/g/logos/rollover_Exhibitors_off.gif" name="rolloverImage_1" id="rolloverImage_1" onmouseover="rolloverImage('rolloverImage_1','on');" onmouseout="rolloverImage('rolloverImage_1','off');" alt="Exhibitors" width="165" height="22" border="0"></a><br><img src="http://www.londonbookfair.co.uk/g/g_blank.gif" width="1" height="5" border="0" alt=""><br></td>
+<td width="10"><img src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="10" height="1" border="0" alt=""><br>
+</td>
+<td width="155"><a class="SubMenu" href="http://www.londonbookfair.co.uk/page.cfm/Link=153/t=m/goSection=3" target="_self"><font face="Arial" size="2" class="subMenu"></font></a><font face="Arial" size="2" class="subMenu"><a class="SubMenu" href="http://www.londonbookfair.co.uk/page.cfm/Link=153/t=m/goSection=3" target="_self">Fairguide.com/Construct Data Verlag</a></font></td></tr>
+<tr>
+<td colspan="2" bgcolor="#af321f"><img src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="10" height="1" border="0" alt=""><br>
+</td>
 </tr><tr>
-<td><a class="MainMenu" accesskey="4" href="http://www.londonbookfair.co.uk/page.cfm/Link=11/t=m/goSection=6" target="_self"><img src="http://www.londonbookfair.co.uk/g/logos/rollover_Visitors_off.gif" name="rolloverImage_2" id="rolloverImage_2" onmouseover="rolloverImage('rolloverImage_2','on');" onmouseout="rolloverImage('rolloverImage_2','off');" alt="Visitors" width="165" height="22" border="0"></a><br><img src="http://www.londonbookfair.co.uk/g/g_blank.gif" width="1" height="5" border="0" alt=""><br></td>
+<td width="10"><img src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="10" height="1" border="0" alt=""><br>
+</td>
+<td width="155"><a class="SubMenu" href="http://www.londonbookfair.co.uk/page.cfm/Link=91/t=m/goSection=3" target="_self"><font face="Arial" size="2" class="subMenu"></font></a><font face="Arial" size="2" class="subMenu"><a class="SubMenu" href="http://www.londonbookfair.co.uk/page.cfm/Link=91/t=m/goSection=3" target="_self">Frequently Asked Questions</a></font></td></tr>
+<tr>
+<td colspan="2" bgcolor="#af321f"><img src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="10" height="1" border="0" alt=""><br>
+</td>
 </tr><tr>
-<td><a class="MainMenu" accesskey="5" href="http://www.londonbookfair.co.uk/page.cfm/Link=12/t=m/goSection=7" target="_self"><img src="http://www.londonbookfair.co.uk/g/logos/rollover_International_Rights_Centre_off.gif" name="rolloverImage_3" id="rolloverImage_3" onmouseover="rolloverImage('rolloverImage_3','on');" onmouseout="rolloverImage('rolloverImage_3','off');" alt="International Rights Centre" width="165" height="22" border="0"></a><br><img src="http://www.londonbookfair.co.uk/g/g_blank.gif" width="1" height="5" border="0" alt=""><br></td>
+<td width="10"><img src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="10" height="1" border="0" alt=""><br>
+</td>
+<td width="155"><a class="SubMenu" href="http://www.londonbookfair.co.uk/page.cfm/Action=PhotoLibrary/libID=226/t=m/goSection=3" target="_self"><font face="Arial" size="2" class="subMenu"></font></a><font face="Arial" size="2" class="subMenu"><a class="SubMenu" href="http://www.londonbookfair.co.uk/page.cfm/Action=PhotoLibrary/libID=226/t=m/goSection=3" target="_self">LBF 2007 Photo Library</a></font></td></tr>
+<tr>
+<td colspan="2" bgcolor="#af321f"><img src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="10" height="1" border="0" alt=""><br>
+</td>
 </tr><tr>
-<td><a class="MainMenu" accesskey="6" href="http://www.londonbookfair.co.uk/page.cfm/Link=31/t=m/goSection=12" target="_self"><img src="http://www.londonbookfair.co.uk/g/logos/rollover_Features_Seminars_off.gif" name="rolloverImage_4" id="rolloverImage_4" onmouseover="rolloverImage('rolloverImage_4','on');" onmouseout="rolloverImage('rolloverImage_4','off');" alt="Features/Seminars" width="165" height="22" border="0"></a><br><img src="http://www.londonbookfair.co.uk/g/g_blank.gif" width="1" height="5" border="0" alt=""><br></td>
+<td width="10"><img src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="10" height="1" border="0" alt=""><br>
+</td>
+<td width="155"><a class="SubMenu" href="http://www.londonbookfair.co.uk/page.cfm/Link=27/t=m/goSection=3" target="_self"><font face="Arial" size="2" class="subMenu"></font></a><font face="Arial" size="2" class="subMenu"><a class="SubMenu" href="http://www.londonbookfair.co.uk/page.cfm/Link=27/t=m/goSection=3" target="_self">LBF 2007 Show Statistics</a></font></td></tr>
+<tr>
+<td colspan="2" bgcolor="#af321f"><img src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="10" height="1" border="0" alt=""><br>
+</td>
 </tr><tr>
-<td><a class="MainMenu" accesskey="7" href="http://www.londonbookfair.co.uk/page.cfm/Link=152/t=m/goSection=26" target="_self"><img src="http://www.londonbookfair.co.uk/g/logos/rollover_Masterclasses_2007_off.gif" name="rolloverImage_5" id="rolloverImage_5" onmouseover="rolloverImage('rolloverImage_5','on');" onmouseout="rolloverImage('rolloverImage_5','off');" alt="Masterclasses 2007" width="165" height="22" border="0"></a><br><img src="http://www.londonbookfair.co.uk/g/g_blank.gif" width="1" height="5" border="0" alt=""><br></td>
+<td width="10"><img src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="10" height="1" border="0" alt=""><br>
+</td>
+<td width="155"><a class="SubMenu" href="http://www.londonbookfair.co.uk/page.cfm/Link=243/t=m/goSection=3" target="_self"><font face="Arial" size="2" class="subMenu"></font></a><font face="Arial" size="2" class="subMenu"><a class="SubMenu" href="http://www.londonbookfair.co.uk/page.cfm/Link=243/t=m/goSection=3" target="_self">Sponsorship Opportunities</a></font></td></tr>
+<tr>
+<td colspan="2" bgcolor="#af321f"><img src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="10" height="1" border="0" alt=""><br>
+</td>
 </tr><tr>
-<td><a class="MainMenu" accesskey="8" href="http://www.londonbookfair.co.uk/page.cfm/Link=148/t=m/goSection=25" target="_self"><img src="http://www.londonbookfair.co.uk/g/logos/rollover_Getting_to_Earls_Court_One_off.gif" name="rolloverImage_6" id="rolloverImage_6" onmouseover="rolloverImage('rolloverImage_6','on');" onmouseout="rolloverImage('rolloverImage_6','off');" alt="Getting to Earls Court One" width="165" height="22" border="0"></a><br><img src="http://www.londonbookfair.co.uk/g/g_blank.gif" width="1" height="5" border="0" alt=""><br></td>
+<td width="10"><img src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="10" height="1" border="0" alt=""><br>
+</td>
+<td width="155"><a class="SubMenu" href="http://www.londonbookfair.co.uk/page.cfm/Link=176/t=m/goSection=3" target="_self"><font face="Arial" size="2" class="subMenu"></font></a><font face="Arial" size="2" class="subMenu"><a class="SubMenu" href="http://www.londonbookfair.co.uk/page.cfm/Link=176/t=m/goSection=3" target="_self">The New Title Showcase</a></font></td></tr>
+<tr>
+<td colspan="2" bgcolor="#af321f"><img src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="10" height="1" border="0" alt=""><br>
+</td>
 </tr><tr>
-<td><a class="MainMenu" accesskey="9" href="http://www.londonbookfair.co.uk/page.cfm/Link=23/t=m/goSection=9" target="_self"><img src="http://www.londonbookfair.co.uk/g/logos/rollover_Press_off.gif" name="rolloverImage_7" id="rolloverImage_7" onmouseover="rolloverImage('rolloverImage_7','on');" onmouseout="rolloverImage('rolloverImage_7','off');" alt="Press" width="165" height="22" border="0"></a><br><img src="http://www.londonbookfair.co.uk/g/g_blank.gif" width="1" height="5" border="0" alt=""><br></td>
+<td width="10"><img src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="10" height="1" border="0" alt=""><br>
+</td>
+<td width="155"><a class="SubMenu" href="http://www.londonbookfair.co.uk/page.cfm/Link=217/t=m/goSection=3" target="_self"><font face="Arial" size="2" class="subMenu"></font></a><font face="Arial" size="2" class="subMenu"><a class="SubMenu" href="http://www.londonbookfair.co.uk/page.cfm/Link=217/t=m/goSection=3" target="_self">Who attends The London Book Fair?</a></font></td></tr>
+<tr>
+<td colspan="2" bgcolor="#af321f"><img src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="10" height="1" border="0" alt=""><br>
+</td>
 </tr><tr>
-<td><a class="MainMenu" href="http://www.londonbookfair.co.uk/page.cfm/Link=160/t=m/goSection=28" target="_self"><img src="http://www.londonbookfair.co.uk/g/logos/rollover_Trade_Information_off.gif" name="rolloverImage_8" id="rolloverImage_8" onmouseover="rolloverImage('rolloverImage_8','on');" onmouseout="rolloverImage('rolloverImage_8','off');" alt="Trade Information" width="165" height="22" border="0"></a><br><img src="http://www.londonbookfair.co.uk/g/g_blank.gif" width="1" height="5" border="0" alt=""><br></td>
-</tr></tbody></table>
-<img src="http://www.londonbookfair.co.uk/g/g_blank.gif" width="165" height="5" border="0" alt=""><br></td>
-		<td width="10"><img src="http://www.londonbookfair.co.uk/g/g_blank.gif" border="0" width="10" height="1" alt=""><br></td>
-	</tr>
-</tbody></table> 
-
-
-
-
-
-
-			
-			
-		
-		
-		
-		
-			
-			<!-- Spacer Break --><img src="http://www.londonbookfair.co.uk/g/g_blank.gif" width="165" height="5" alt=""><br>
-			
-			
-			
-				
-					</td></tr>
-				
-				<!-- ** end of  panel (panel 1 on Left) -->
-			
-			
-			
-			
-		
-	
-		
-	
-		
-		
-			<!-- ** start of Organised by panel (panel 2 on Left) -->
-		
-		
-		
-		
-		
-		
-		
-				
-			
-		
-		
-		
-		
-			<tr><td valign="top">
-		
-		
-		
-		
-		
-			
-			
-<table border="0" cellspacing="0" cellpadding="0" width="165">
+<td width="10"><img src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="10" height="1" border="0" alt=""><br>
+</td>
+<td width="155"><a class="SubMenu" href="http://www.londonbookfair.co.uk/page.cfm/Link=215/t=m/goSection=3" target="_self"><font face="Arial" size="2" class="subMenu"></font></a><font face="Arial" size="2" class="subMenu"><a class="SubMenu" href="http://www.londonbookfair.co.uk/page.cfm/Link=215/t=m/goSection=3" target="_self">Who should exhibit?</a></font></td></tr>
+<tr>
+<td colspan="2" bgcolor="#af321f"><img src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="10" height="1" border="0" alt=""><br>
+</td>
+</tr><tr>
+<td width="10"><img src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="10" height="1" border="0" alt=""><br>
+</td>
+<td width="155"><a class="SubMenu" href="http://www.londonbookfair.co.uk/page.cfm/Link=216/t=m/goSection=3" target="_self"><font face="Arial" size="2" class="subMenu"></font></a><font face="Arial" size="2" class="subMenu"><a class="SubMenu" href="http://www.londonbookfair.co.uk/page.cfm/Link=216/t=m/goSection=3" target="_self">Why should you exhibit?</a></font></td></tr>
+<tr>
+<td colspan="2" bgcolor="#af321f"><img src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="10" height="1" border="0" alt=""><br>
+</td>
+</tr><tr><td height="22" class="MainMenu" colspan="2"><img src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="1" height="10" border="0" alt=""><br>
+<a class="MainMenu" accesskey="4" href="http://www.londonbookfair.co.uk/page.cfm/Link=11/t=m/goSection=6" target="_self"><img border="0" src="http://www.londonbookfair.co.uk/g/2008/template/rollover_Visiting_Information_off.gif" name="rolloverImage_2" id="rolloverImage_2" onmouseover="rolloverImage('rolloverImage_2','on');" onmouseout="rolloverImage('rolloverImage_2','off');" height="22" alt="Visiting Information" width="165"></a></td></tr><tr><td height="22" class="MainMenu" colspan="2"><img src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="1" height="10" border="0" alt=""><br>
+<a class="MainMenu" accesskey="5" href="http://www.londonbookfair.co.uk/page.cfm/Link=12/t=m/goSection=7" target="_self"><img border="0" src="http://www.londonbookfair.co.uk/g/2008/template/rollover_Rights_Centre_off.gif" name="rolloverImage_3" id="rolloverImage_3" onmouseover="rolloverImage('rolloverImage_3','on');" onmouseout="rolloverImage('rolloverImage_3','off');" height="22" alt="Rights Centre" width="165"></a></td></tr><tr><td height="22" class="MainMenu" colspan="2"><img src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="1" height="10" border="0" alt=""><br>
+<a class="MainMenu" accesskey="6" href="http://www.londonbookfair.co.uk/page.cfm/Link=45/t=m/goSection=30" target="_self"><img border="0" src="http://www.londonbookfair.co.uk/g/2008/template/rollover_Market_Focus_off.gif" name="rolloverImage_4" id="rolloverImage_4" onmouseover="rolloverImage('rolloverImage_4','on');" onmouseout="rolloverImage('rolloverImage_4','off');" height="22" alt="Market Focus" width="165"></a></td></tr><tr><td height="22" class="MainMenu" colspan="2"><img src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="1" height="10" border="0" alt=""><br>
+<a class="MainMenu" accesskey="7" href="http://www.londonbookfair.co.uk/page.cfm/Link=221/t=m/goSection=37" target="_self"><img border="0" src="http://www.londonbookfair.co.uk/g/2008/template/rollover_Global_Publishing_Info_off.gif" name="rolloverImage_5" id="rolloverImage_5" onmouseover="rolloverImage('rolloverImage_5','on');" onmouseout="rolloverImage('rolloverImage_5','off');" height="22" alt="Global Publishing Info" width="165"></a></td></tr><tr><td height="22" class="MainMenu" colspan="2"><img src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="1" height="10" border="0" alt=""><br>
+<a class="MainMenu" accesskey="8" href="http://www.londonbookfair.co.uk/page.cfm/Link=31/t=m/goSection=12" target="_self"><img border="0" src="http://www.londonbookfair.co.uk/g/2008/template/rollover_Features_seminars_events_off.gif" name="rolloverImage_6" id="rolloverImage_6" onmouseover="rolloverImage('rolloverImage_6','on');" onmouseout="rolloverImage('rolloverImage_6','off');" height="22" alt="Features seminars events" width="165"></a></td></tr><tr><td height="22" class="MainMenu" colspan="2"><img src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="1" height="10" border="0" alt=""><br>
+<a class="MainMenu" accesskey="9" href="http://www.londonbookfair.co.uk/page.cfm/Link=148/t=m/goSection=35" target="_self"><img border="0" src="http://www.londonbookfair.co.uk/g/2008/template/rollover_travel_hotels_restaurants_off.gif" name="rolloverImage_7" id="rolloverImage_7" onmouseover="rolloverImage('rolloverImage_7','on');" onmouseout="rolloverImage('rolloverImage_7','off');" height="22" alt="travel hotels restaurants" width="165"></a></td></tr><tr><td height="22" class="MainMenu" colspan="2"><img src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="1" height="10" border="0" alt=""><br>
+<a class="MainMenu" href="http://www.londonbookfair.co.uk/page.cfm/Link=23/t=m/goSection=9" target="_self"><img border="0" src="http://www.londonbookfair.co.uk/g/2008/template/rollover_Press_off.gif" name="rolloverImage_8" id="rolloverImage_8" onmouseover="rolloverImage('rolloverImage_8','on');" onmouseout="rolloverImage('rolloverImage_8','off');" height="22" alt="Press" width="165"></a></td></tr>
+</tbody></table><img alt="" src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="1" height="10"><br><!-- ** start of Market Focus 2008 panel (panel 1 on Left) -->
+<table border="0" cellpadding="0" cellspacing="0" width="168" align="center">
 	<tbody><tr>
-		<td width="100%" height="20" colspan="3">
-			<table width="100%" border="0" cellpadding="0" cellspacing="0">
-				<tbody><tr>
-					<td valign="top" class="PanelTitle"><b><font face="Arial" size="2" class="PanelTitle">Organised by</font></b></td>
-				</tr>
-			</tbody></table>
-		</td>
+		<td class="PanelTitle"><font face="Arial" size="2" class="PanelTitle"><b><font face="Arial" size="2" class="PanelTitle">Market Focus 2008</font></b></font><br><img alt="" src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="1" height="5" border="0"></td>
 	</tr>
 	<tr>
-		<td><img src="http://www.londonbookfair.co.uk/g/template/g_corner_topleft.gif" width="9" height="9" alt="" border="0"></td>
-		<td background="http://www.londonbookfair.co.uk/g/template/g_Topfiller.gif" width="100%"><img alt="" src="http://www.londonbookfair.co.uk/g/g_blank.gif" width="1" height="1" border="0"></td>
-		<td><img src="http://www.londonbookfair.co.uk/g/template/g_corner_topright.gif" width="9" height="9" alt="" border="0"></td>
+		<td>
+			<table border="0" cellpadding="0" cellspacing="0" width="100%">
+				<tbody><tr>
+					<td><img src="http://www.londonbookfair.co.uk/g/2008/template/g_corner_topleft.gif" width="9" height="9" alt="" border="0"></td>
+					<td background="http://www.londonbookfair.co.uk/g/2008/template/g_Topfiller.gif" width="100%"><img alt="" src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="1" height="1" border="0"></td>
+					<td><img src="http://www.londonbookfair.co.uk/g/2008/template/g_corner_topright.gif" width="9" height="9" alt="" border="0"></td>
+				</tr>
+				<tr>
+					<td background="http://www.londonbookfair.co.uk/g/2008/template/g_Leftfiller.gif"><img alt="" src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="1" height="1" border="0"></td>
+					<td bgcolor="#ffffff"><font face="Arial" size="2" class="default"><!-- <UDF_formattedPage/> --><font face="Arial" size="2" class="Panel"><a class="Panel" href="http://www.londonbookfair.co.uk/page.cfm?&amp;LinkType=PowerBar__&amp;LinkTarget=http://www.londonbookfair.co.uk/page.cfm/link=45">
+<p align="center"><img height="110" alt="Market Focus logo" src="http://www.londonbookfair.co.uk/g/2008/panels/logo_Market_Focus.gif" width="125" border="0">&nbsp;</p></a></font></font></td>
+					<td background="http://www.londonbookfair.co.uk/g/2008/template/g_rightfiller.gif"><img alt="" src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="1" height="1" border="0"></td>
+				</tr>
+				<tr>
+					<td><img src="http://www.londonbookfair.co.uk/g/2008/template/g_corner_bottomleft.gif" width="9" height="9" alt="" border="0"></td>
+					<td background="http://www.londonbookfair.co.uk/g/2008/template/g_bottomfiller.gif"><img alt="" src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="1" height="1" border="0"></td>
+					<td><img src="http://www.londonbookfair.co.uk/g/2008/template/g_corner_bottomright.gif" width="9" height="9" alt="" border="0"></td>
+				</tr>
+			</tbody></table><img alt="" src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="1" height="10" border="0"><br></td>
+	</tr>
+</tbody></table> <!-- Spacer Break --><img src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="150" height="5" alt=""><br><!-- ** end of Market Focus 2008 panel (panel 1 on Left) --><!-- ** start of The Beijing International Book Fair panel (panel 2 on Left) -->
+<table border="0" cellpadding="0" cellspacing="0" width="168" align="center">
+	<tbody><tr>
+		<td class="PanelTitle"><font face="Arial" size="2" class="PanelTitle"><b><font face="Arial" size="2" class="PanelTitle">The Beijing International Book Fair</font></b></font><br><img alt="" src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="1" height="5" border="0"></td>
 	</tr>
 	<tr>
-		<td background="http://www.londonbookfair.co.uk/g/template/g_Leftfiller.gif"><img alt="" src="http://www.londonbookfair.co.uk/g/g_blank.gif" width="1" height="1" border="0"></td>
-		<td width="100%" bgcolor="#FFFFFF" bordercolor="#FFFFFF">
-			<table width="100%" border="0" cellpadding="0" cellspacing="0">
+		<td>
+			<table border="0" cellpadding="0" cellspacing="0" width="100%">
 				<tbody><tr>
-					<td valign="top" class="Panel"><!-- <UDF_formattedPage/> --><table cellspacing="0" cellpadding="5" width="100%" bgcolor="ffffff" border="0">
+					<td><img src="http://www.londonbookfair.co.uk/g/2008/template/g_corner_topleft.gif" width="9" height="9" alt="" border="0"></td>
+					<td background="http://www.londonbookfair.co.uk/g/2008/template/g_Topfiller.gif" width="100%"><img alt="" src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="1" height="1" border="0"></td>
+					<td><img src="http://www.londonbookfair.co.uk/g/2008/template/g_corner_topright.gif" width="9" height="9" alt="" border="0"></td>
+				</tr>
+				<tr>
+					<td background="http://www.londonbookfair.co.uk/g/2008/template/g_Leftfiller.gif"><img alt="" src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="1" height="1" border="0"></td>
+					<td bgcolor="#ffffff"><font face="Arial" size="2" class="default"><!-- <UDF_formattedPage/> --><font face="Arial" size="2" class="Panel"><a class="Panel" target="_blank" href="http://www.londonbookfair.co.uk/page.cfm?&amp;LinkType=PowerBar__&amp;LinkTarget=http://www.bibf.net/" name="~Navundefined">
+<p align="center"><img height="75" alt="Beijing International Book Fair" src="http://www.londonbookfair.co.uk/g/2008/panels/logo_bbf_2008.jpg" width="150" border="0"></p></a></font></font></td>
+					<td background="http://www.londonbookfair.co.uk/g/2008/template/g_rightfiller.gif"><img alt="" src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="1" height="1" border="0"></td>
+				</tr>
+				<tr>
+					<td><img src="http://www.londonbookfair.co.uk/g/2008/template/g_corner_bottomleft.gif" width="9" height="9" alt="" border="0"></td>
+					<td background="http://www.londonbookfair.co.uk/g/2008/template/g_bottomfiller.gif"><img alt="" src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="1" height="1" border="0"></td>
+					<td><img src="http://www.londonbookfair.co.uk/g/2008/template/g_corner_bottomright.gif" width="9" height="9" alt="" border="0"></td>
+				</tr>
+			</tbody></table><img alt="" src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="1" height="10" border="0"><br></td>
+	</tr>
+</tbody></table> <!-- Spacer Break --><img src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="150" height="5" alt=""><br><!-- ** end of The Beijing International Book Fair panel (panel 2 on Left) --><!-- ** start of Organised by panel (panel 3 on Left) -->
+<table border="0" cellpadding="0" cellspacing="0" width="168" align="center">
+	<tbody><tr>
+		<td class="PanelTitle"><font face="Arial" size="2" class="PanelTitle"><b><font face="Arial" size="2" class="PanelTitle">Organised by</font></b></font><br><img alt="" src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="1" height="5" border="0"></td>
+	</tr>
+	<tr>
+		<td>
+			<table border="0" cellpadding="0" cellspacing="0" width="100%">
+				<tbody><tr>
+					<td><img src="http://www.londonbookfair.co.uk/g/2008/template/g_corner_topleft.gif" width="9" height="9" alt="" border="0"></td>
+					<td background="http://www.londonbookfair.co.uk/g/2008/template/g_Topfiller.gif" width="100%"><img alt="" src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="1" height="1" border="0"></td>
+					<td><img src="http://www.londonbookfair.co.uk/g/2008/template/g_corner_topright.gif" width="9" height="9" alt="" border="0"></td>
+				</tr>
+				<tr>
+					<td background="http://www.londonbookfair.co.uk/g/2008/template/g_Leftfiller.gif"><img alt="" src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="1" height="1" border="0"></td>
+					<td bgcolor="#ffffff"><font face="Arial" size="2" class="default"><!-- <UDF_formattedPage/> --><table cellspacing="0" cellpadding="5" width="100%" bgcolor="ffffff" border="0">
 	<tbody><tr>
 		<td class="Panel" align="middle"><a class="Panel" target="_blank" href="http://www.londonbookfair.co.uk/page.cfm?&amp;LinkType=PowerBar__&amp;LinkTarget=http://www.reedexpo.co.uk"><img height="23" alt="" src="http://www.aspcp.com/g/logos/logo_reed_23_120.gif" width="120" border="0"></a><br><b><a class="Panel" target="_blank" href="http://www.londonbookfair.co.uk/page.cfm?&amp;LinkType=PowerBar__&amp;LinkTarget=http://www.reed-elsevier.com">A division of Reed Business</a></b></td>
 	</tr>
-</tbody></table></td>
+</tbody></table></font></td>
+					<td background="http://www.londonbookfair.co.uk/g/2008/template/g_rightfiller.gif"><img alt="" src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="1" height="1" border="0"></td>
 				</tr>
-			</tbody></table>
-		</td>
-		<td background="http://www.londonbookfair.co.uk/g/template/g_rightfiller.gif"><img alt="" src="http://www.londonbookfair.co.uk/g/g_blank.gif" width="1" height="1" border="0"></td>
+				<tr>
+					<td><img src="http://www.londonbookfair.co.uk/g/2008/template/g_corner_bottomleft.gif" width="9" height="9" alt="" border="0"></td>
+					<td background="http://www.londonbookfair.co.uk/g/2008/template/g_bottomfiller.gif"><img alt="" src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="1" height="1" border="0"></td>
+					<td><img src="http://www.londonbookfair.co.uk/g/2008/template/g_corner_bottomright.gif" width="9" height="9" alt="" border="0"></td>
+				</tr>
+			</tbody></table><img alt="" src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="1" height="10" border="0"><br></td>
 	</tr>
-	<tr>
-		<td><img src="http://www.londonbookfair.co.uk/g/template/g_corner_bottomleft.gif" width="9" height="9" alt="" border="0"></td>
-		<td background="http://www.londonbookfair.co.uk/g/template/g_bottomfiller.gif"><img alt="" src="http://www.londonbookfair.co.uk/g/g_blank.gif" width="1" height="1" border="0"></td>
-		<td><img src="http://www.londonbookfair.co.uk/g/template/g_corner_bottomright.gif" width="9" height="9" alt="" border="0"></td>
-	</tr>
-</tbody></table> 
-
-
-
-
-
-
-			
-			
-		
-		
-		
-		
-			
-			<!-- Spacer Break --><img src="http://www.londonbookfair.co.uk/g/g_blank.gif" width="165" height="5" alt=""><br>
-			
-			
-			
-				
-					</td></tr>
-				
-				<!-- ** end of Organised by panel (panel 2 on Left) -->
-			
-			
-			
-			
-		
-	
-		
-	
-		
-		
-			<!-- ** start of LBF Travel Desk panel (panel 3 on Left) -->
-		
-		
-		
-		
-		
-		
-		
-				
-					
-						
-						
-							
-							
-	
-	
-	
-
-	
-	
-	
-		
-		
-			
-			
-				
-			
-			
-		
-	
-	
-		
-		
-			
-				
-				
-			
-		
-	
-	
-
-
-
-
-							
-								
-								
-									
-			
-	
-		
-		
-	
-
-
-
-
-
-
-									
-									
-								
-							
-						
-					
-				
-			
-		
-		
-		
-		
-			<tr><td valign="top">
-		
-		
-		
-		
-		
-			
-			
-<table border="0" cellspacing="0" cellpadding="0" width="165">
+</tbody></table> <!-- Spacer Break --><img src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="150" height="5" alt=""><br><!-- ** end of Organised by panel (panel 3 on Left) --></td>
+		<td width="10"><img src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="10" height="1" border="0" alt=""><br></td>
+		<td width="100%" valign="top"><img src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="10" height="1" border="0" alt=""><br><table border="0" cellpadding="0" cellspacing="0" width="100%">
 	<tbody><tr>
-		<td width="100%" height="20" colspan="3">
-			<table width="100%" border="0" cellpadding="0" cellspacing="0">
-				<tbody><tr>
-					<td valign="top" class="PanelTitle"><b><font face="Arial" size="2" class="PanelTitle">LBF Travel Desk</font></b></td>
+		<td><img src="http://www.londonbookfair.co.uk/g/2008/template/g_controlPanelLeft.gif" width="11" height="22" alt="" border="0"></td>
+		<td background="http://www.londonbookfair.co.uk/g/2008/template/menu_strip.gif" width="100%">
+			<table border="0" cellpadding="3" width="100%" cellspacing="0">
+				<tbody><tr> <td width="17%" valign="middle" align="center" nowrap=""><font face="Arial" size="2" class="controlPanel"><a class="ControlPanel" href="http://www.londonbookfair.co.uk/page.cfm/Action=SiteMap/t=m" target="_self">sitemap</a></font></td><td width="17%" valign="middle" align="center" nowrap=""><font face="Arial" size="2" class="controlPanel"><a class="ControlPanel" href="http://www.londonbookfair.co.uk/page.cfm/Action=Search/t=m" target="_self">search</a></font></td><td width="17%" valign="middle" align="center" nowrap=""><font face="Arial" size="2" class="controlPanel"><a class="ControlPanel" href="http://www.londonbookfair.co.uk/page.cfm/Link=2/t=m" target="_self">copyright</a></font></td><td width="17%" valign="middle" align="center" nowrap=""><font face="Arial" size="2" class="controlPanel"><a class="ControlPanel" href="http://www.londonbookfair.co.uk/page.cfm/Link=4/t=m" target="_self">admission policy</a></font></td><td width="17%" valign="middle" align="center" nowrap=""><font face="Arial" size="2" class="controlPanel"><a class="ControlPanel" href="http://www.londonbookfair.co.uk/page.cfm/Link=3/t=m" target="_self">privacy</a></font></td><td width="17%" valign="middle" align="center" nowrap=""><font face="Arial" size="2" class="controlPanel"><a class="ControlPanel" href="http://www.londonbookfair.co.uk/page.cfm/Action=Team/t=m" target="_self">contact</a></font></td>
 				</tr>
 			</tbody></table>
 		</td>
+		<td><img src="http://www.londonbookfair.co.uk/g/2008/template/g_controlPanelRight.gif" width="11" height="22" alt="" border="0"></td>
 	</tr>
-	<tr>
-		<td><img src="http://www.londonbookfair.co.uk/g/template/g_corner_topleft.gif" width="9" height="9" alt="" border="0"></td>
-		<td background="http://www.londonbookfair.co.uk/g/template/g_Topfiller.gif" width="100%"><img alt="" src="http://www.londonbookfair.co.uk/g/g_blank.gif" width="1" height="1" border="0"></td>
-		<td><img src="http://www.londonbookfair.co.uk/g/template/g_corner_topright.gif" width="9" height="9" alt="" border="0"></td>
-	</tr>
-	<tr>
-		<td background="http://www.londonbookfair.co.uk/g/template/g_Leftfiller.gif"><img alt="" src="http://www.londonbookfair.co.uk/g/g_blank.gif" width="1" height="1" border="0"></td>
-		<td width="100%" bgcolor="#FFFFFF" bordercolor="#FFFFFF">
+</tbody></table><img src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="10" height="10" border="0" alt=""><br>
 			<table width="100%" border="0" cellpadding="0" cellspacing="0">
 				<tbody><tr>
-					<td valign="top" class="Panel"><table border="0" cellspacing="0" cellpadding="0" width="100%"><tbody><tr><td height="125" align="center" id="ImgRotator_0"><a href="http://www.londonbookfair.co.uk/page.cfm/LinkTarget=00161/URLTarget=http://www.londonbookfair.co.uk/page.cfm/Link=0/t=m" target="_self" id="ImgRotatorHref_0"><img src="http://www.londonbookfair.co.uk/g/logos/powerbar_traveldesk.jpg" width="125" height="125" alt="Travel Desk 2007" border="0" id="ImgRotatorImg_0"></a></td></tr></tbody></table></td>
+					<td width="15"><img src="http://www.londonbookfair.co.uk/g/2008/template/g_bodyTopLeft.gif" width="15" height="15" alt="" border="0"></td>
+					<td background="http://www.londonbookfair.co.uk/g/2008/template/g_bodyFiller_top.gif" width="100%"><img alt="" src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="1" height="1" border="0"></td>
+					<td width="15"><img src="http://www.londonbookfair.co.uk/g/2008/template/g_bodyTopRight.gif" width="15" height="15" alt="" border="0"></td>
 				</tr>
-			</tbody></table>
-		</td>
-		<td background="http://www.londonbookfair.co.uk/g/template/g_rightfiller.gif"><img alt="" src="http://www.londonbookfair.co.uk/g/g_blank.gif" width="1" height="1" border="0"></td>
-	</tr>
-	<tr>
-		<td><img src="http://www.londonbookfair.co.uk/g/template/g_corner_bottomleft.gif" width="9" height="9" alt="" border="0"></td>
-		<td background="http://www.londonbookfair.co.uk/g/template/g_bottomfiller.gif"><img alt="" src="http://www.londonbookfair.co.uk/g/g_blank.gif" width="1" height="1" border="0"></td>
-		<td><img src="http://www.londonbookfair.co.uk/g/template/g_corner_bottomright.gif" width="9" height="9" alt="" border="0"></td>
-	</tr>
-</tbody></table> 
-
-
-
-
-
-
-			
-			
-		
-		
-		
-		
-			
-			<!-- Spacer Break --><img src="http://www.londonbookfair.co.uk/g/g_blank.gif" width="165" height="5" alt=""><br>
-			
-			
-			
-				
-					</td></tr>
-				
-				<!-- ** end of LBF Travel Desk panel (panel 3 on Left) -->
-			
-			
-			
-			
-		
+				<tr>
+					<td width="15" background="http://www.londonbookfair.co.uk/g/2008/template/g_bodyFiller_Left.gif"><img alt="" src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="1" height="1" border="0"></td>
+					<td bgcolor="#ffffff" valign="Top" width="100%" class="default"><h1 class="pageTitle">Privacy Pledge</h1><img src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="10" height="10" border="0" alt=""><br><!-- *** Start of Print Friendly Page *** --> 
 	
+	<a href="http://www.londonbookfair.co.uk/page.cfm/action=search/t=m" accesskey="s"></a> <a href="http://www.londonbookfair.co.uk/page.cfm/action=sitemap/t=m" accesskey="a"></a> <a href="http://www.londonbookfair.co.uk/page.cfm/action=textonlyswitch/t=m" accesskey="t"></a> <a href="http://www.londonbookfair.co.uk/" accesskey="1"></a> <a href="http://www.londonbookfair.co.uk/page.cfm/action=accesskeys/t=m" accesskey="0"></a> <a href="http://www.londonbookfair.co.uk/" accesskey="2"></a> <a href="http://www.londonbookfair.co.uk/" accesskey="3"></a> <a href="http://www.londonbookfair.co.uk/" accesskey="4"></a> <a href="http://www.londonbookfair.co.uk/" accesskey="5"></a> <a href="http://www.londonbookfair.co.uk/" accesskey="6"></a> <a href="http://www.londonbookfair.co.uk/" accesskey="7"></a> <a href="http://www.londonbookfair.co.uk/" accesskey="8"></a> <a href="http://www.londonbookfair.co.uk/" accesskey="9"></a> 
 
-										<!-- end of the left powerbar -->
-									</tbody></table>
-								</td>
-							</tr>
-						</tbody></table>
-					</td>
-					
-					<td width="100%" valign="top" height="100%">
-						<img alt="" src="http://www.londonbookfair.co.uk/g/g_blank.gif" width="1" height="10" border="0"><br>
-						<table border="0" cellpadding="0" cellspacing="0" width="100%">
-							<tbody><tr>
-								<td align="center" colspan="3">
-									<table border="0" cellpadding="0" cellspacing="0" width="100%">
-										<tbody><tr>											
-											<td><img src="http://www.londonbookfair.co.uk/g/template/g_controlPanelLeft.gif" width="11" height="22" alt="" border="0"></td>
-											<td background="http://www.londonbookfair.co.uk/g/template/menu_strip.gif" width="100%"> 
+
 	
-<table border="0" cellpadding="3" width="100%" cellspacing="0" bgcolor="#FFFFFF"><tbody><tr><td width="17%" valign="top" align="center"><font class="ControlPanel" face="Arial" size="2"><a class="ControlPanel" href="http://www.londonbookfair.co.uk/page.cfm/Action=Search/t=m" target="_self">search</a></font></td><td width="17%" valign="top" align="center"><font class="ControlPanel" face="Arial" size="2"><a class="ControlPanel" href="http://www.londonbookfair.co.uk/page.cfm/Action=SiteMap/t=m" target="_self">sitemap</a></font></td><td width="17%" valign="top" align="center"><font class="ControlPanel" face="Arial" size="2"><a class="ControlPanel" href="http://www.londonbookfair.co.uk/page.cfm/Link=2/t=m" target="_self">copyright</a></font></td><td width="17%" valign="top" align="center"><font class="ControlPanel" face="Arial" size="2"><a class="ControlPanel" href="http://www.londonbookfair.co.uk/page.cfm/Link=3/t=m" target="_self">privacy</a></font></td><td width="17%" valign="top" align="center"><font class="ControlPanel" face="Arial" size="2"><a class="ControlPanel" href="http://www.londonbookfair.co.uk/page.cfm/Action=RXDPAOptOut/t=m" target="_self">options</a></font></td><td width="17%" valign="top" align="center"><font class="ControlPanel" face="Arial" size="2"><a class="ControlPanel" href="http://www.londonbookfair.co.uk/page.cfm/Action=Team/t=m" target="_self">contact</a></font></td></tr></tbody></table></td>
-											<td><img src="http://www.londonbookfair.co.uk/g/template/g_controlPanelRight.gif" width="11" height="22" alt="" border="0"></td>
-										</tr>
-									</tbody></table>
-								</td>
-							</tr>
-							<tr>
-								<td><img alt="" src="http://www.londonbookfair.co.uk/g/g_blank.gif" width="1" height="10" border="0"></td>
-							</tr>
-							<tr>
-								<td width="15"><img src="http://www.londonbookfair.co.uk/g/template/g_bodyTopLeft.gif" width="15" height="15" alt="" border="0"></td>
-								
-								<td background="http://www.londonbookfair.co.uk/g/template/g_bodyFiller_top.gif" width="100%"><img alt="" src="http://www.londonbookfair.co.uk/g/g_blank.gif" width="1" height="1" border="0"></td>
-								<td width="15"><img src="http://www.londonbookfair.co.uk/g/template/g_bodyTopRight.gif" width="15" height="15" alt="" border="0"></td>
-							</tr>
-							<tr>
-								
-								<td width="15" background="http://www.londonbookfair.co.uk/g/template/g_bodyFiller_Left.gif"><img alt="" src="http://www.londonbookfair.co.uk/g/g_blank.gif" width="1" height="1" border="0"></td>
-								<td bgcolor="#ffffff" valign="Top" width="100%">
-									<table border="0" cellpadding="0" cellspacing="0" width="100%" height="100%">
-										<tbody><tr>
-											<td><img alt="" src="http://www.londonbookfair.co.uk/g/g_blank.gif" width="5" height="1"></td>
-											<td valign="top" width="100%">
-												
-												<!-- *** Start of Print Friendly Page *** --> <a href="http://www.londonbookfair.co.uk/page.cfm/action=search/t=m" accesskey="s"></a> <a href="http://www.londonbookfair.co.uk/page.cfm/action=sitemap/t=m" accesskey="a"></a> <a href="http://www.londonbookfair.co.uk/page.cfm/action=textonlyswitch/t=m" accesskey="t"></a> <a href="http://www.londonbookfair.co.uk/" accesskey="1"></a> <a href="http://www.londonbookfair.co.uk/page.cfm/action=accesskeys/t=m" accesskey="0"></a> <a href="http://www.londonbookfair.co.uk/" accesskey="2"></a> <a href="http://www.londonbookfair.co.uk/" accesskey="3"></a> <a href="http://www.londonbookfair.co.uk/" accesskey="4"></a> <a href="http://www.londonbookfair.co.uk/" accesskey="5"></a> <a href="http://www.londonbookfair.co.uk/" accesskey="6"></a> <a href="http://www.londonbookfair.co.uk/" accesskey="7"></a> <a href="http://www.londonbookfair.co.uk/" accesskey="8"></a> <a href="http://www.londonbookfair.co.uk/" accesskey="9"></a> 
 
 	
 
 
 
 
+	
+	
 	
 	
 	
@@ -667,6 +563,9 @@ rolloverImage_8_off=new Image(); rolloverImage_8_off.src='http://www.londonbookf
 						
 							
 							
+	
+	
+
 	
 	
 	<a name="Title"></a>
@@ -675,14 +574,11 @@ rolloverImage_8_off=new Image(); rolloverImage_8_off.src='http://www.londonbookf
 	
 
 	
-		
-		
-	
 
 	
 		
 			
-				<table class="TitleAlign" border="0" cellpadding="0" width="100%" cellspacing="0" height="12"><tbody><tr><td style="text-align:left;" height="12"><font size="1"></font><h1 class="pageTitle"><font size="1">Privacy Pledge</font></h1></td></tr><tr><td><img alt="" src="http://www.londonbookfair.co.uk/g/g_blank.gif" width="10" height="10" border="0"><br></td></tr></tbody></table>
+				
 			
 		
 	
@@ -694,36 +590,39 @@ rolloverImage_8_off=new Image(); rolloverImage_8_off.src='http://www.londonbookf
 						
 					
 						
-
-
 <!-- ** start of all sheets --> 
-
-	
-	
-	
 	
 		
 		
-		
-		
-		
-	
-	
-		
-		
-		
-	
-	
 	
 
 
-
-		
-
-		
-		
-		<!-- ** start of Privacy Pledge sheet -->
-		<!-- <UDF_formattedPage/> --><table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td colspan="3"><table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><img alt="" src="http://www.londonbookfair.co.uk/g/template/g_stylesheet_topLeft.gif" width="9" height="9" border="0"></td><td valign="top" width="100%"><table border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="ABABAC"><tbody><tr><td><img alt="" src="http://www.londonbookfair.co.uk/g/g_blank.gif" width="1" height="1"></td></tr></tbody></table></td><td><img alt="" src="http://www.londonbookfair.co.uk/g/template/g_stylesheet_topRight.gif" width="9" height="9" border="0"></td></tr></tbody></table></td></tr><tr><td><img alt="" src="http://www.londonbookfair.co.uk/g/g_blank.gif" height="1" width="10"></td><td width="100%"><b><font face="Arial" size="2" class="SheetTitle">Privacy Pledge</font></b></td><td><img alt="" src="http://www.londonbookfair.co.uk/g/g_blank.gif" height="1" width="5"></td></tr><tr><td colspan="3"><img alt="" src="http://www.londonbookfair.co.uk/g/g_blank.gif" height="4" width="1"></td></tr><tr><td><img alt="" src="http://www.londonbookfair.co.uk/g/g_blank.gif" height="1" width="5"></td><td width="100%" valign="top"><img alt="" src="http://www.londonbookfair.co.uk/g/g_blank.gif" height="4" width="1" class="default"><!-- <UDF_formattedPage/> --><font face="Arial" size="2" class="default">
+	
+<!-- ** start of outer sheet HTML --><!-- ** start of sheet 1 () --><!-- <UDF_formattedPage/> --><font face="Arial" size="2" class="default"><a class="default" name="Article_2"></a><table cellspacing="0" cellpadding="0" border="0" width="100%"><tbody><tr><td>
+<table border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td><img alt="" src="http://www.londonbookfair.co.uk/g/2008/template/g_stylesheet_topLeft.gif" width="9" height="9" border="0"></td>
+		<td valign="top" width="100%">
+			<table border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="#edd6d2">
+				<tbody><tr>
+					<td width="100%"><img alt="" src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="1" height="1"></td>
+				</tr>
+			</tbody></table>
+		</td>
+		<td><img alt="" src="http://www.londonbookfair.co.uk/g/2008/template/g_stylesheet_topRight.gif" width="9" height="9" border="0"></td>
+	</tr>
+	<tr>
+		<td colspan="3">
+			<table border="0" cellpadding="0" cellspacing="0" width="100%">
+				<tbody><tr>
+					<td width="10"><img alt="" src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="10" height="1"></td>
+					<td width="100%">
+						<table border="0" cellpadding="0" cellspacing="0" width="100%">
+							<tbody><tr>
+								<td colspan="2" class="SheetTitle"><font face="Arial" size="2" class="SheetTitle">Privacy Pledge</font><br><img src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="10" height="5" border="0" alt=""><br></td>
+							</tr>
+							<tr>
+								<td width="100%" class="default" valign="top"><!-- <UDF_formattedPage/> --><font face="Arial" size="2" class="default">
 <b>How Your Information Is Used</b><br>
 <br>
 Since 1995, Reed Exhibitions has been working to develop useful Internet services and web sites that are safe, easy, and respectful of our customers. This web site is maintained by Reed Exhibitions Limited (RX). Our corporate offices are located at Gateway House, 28 The Quadrant, Richmond, Surrey TW9 1DN, United Kingdom. You can also reach us by telephone on +44 (0) 208 910 7910.<br>
@@ -786,26 +685,39 @@ No part of this website may be reproduced or transmitted by any means, electroni
 This site contains links to external sites. Reed Exhibitions Limited is not responsible for, and has no control over, the content of such sites. Information on this site, or available via hypertext link from this site, is made available without responsibility on the part of Reed Exhibitions Limited.<br>
 <br>
 Reed Exhibitions Limited disclaims all responsibility and liability (including negligence) in relation to information on or accessible from this site.
-</font></td><td><img alt="" src="http://www.londonbookfair.co.uk/g/g_blank.gif" height="1" width="5"></td></tr><tr><td colspan="3"><img alt="" src="http://www.londonbookfair.co.uk/g/g_blank.gif" height="4" width="1"></td></tr><tr><td colspan="3"><table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><img alt="" src="http://www.londonbookfair.co.uk/g/template/g_stylesheet_BottomLeft.gif" width="9" height="9" border="0"></td><td valign="Bottom" width="100%"><table border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="ABABAC"><tbody><tr><td><img alt="" src="http://www.londonbookfair.co.uk/g/g_blank.gif" width="1" height="1"></td></tr></tbody></table></td><td><img alt="" src="http://www.londonbookfair.co.uk/g/template/g_stylesheet_BottomRight.gif" width="9" height="9" border="0"></td></tr></tbody></table></td></tr><tr><td colspan="3"><img alt="" src="http://www.londonbookfair.co.uk/g/g_blank.gif" width="1" height="10"></td></tr></tbody></table>
-		<!-- ** end of Privacy Pledge sheet -->
+</font></td>
+							</tr>
+						</tbody></table>
+					</td>
+					<td width="10"><img alt="" src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="10" height="1"></td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+	<tr>
+		<td><img alt="" src="http://www.londonbookfair.co.uk/g/2008/template/g_stylesheet_bottomLeft.gif" width="9" height="9" border="0"></td>
+		<td valign="bottom" width="100%">
+			<table border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="#edd6d2">
+				<tbody><tr>
+					<td width="100%"><img alt="" src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="1" height="1"></td>
+				</tr>
+			</tbody></table>
+		</td>
+		<td><img alt="" src="http://www.londonbookfair.co.uk/g/2008/template/g_stylesheet_bottomRight.gif" width="9" height="9" border="0"></td>
+	</tr>
+</tbody></table></td></tr></tbody></table><!-- ** end of sheet 1 () --><!-- ** end of outer sheet HTML -->
+
+
+<!-- ** end of all sheets --> 
 	
 
 
-	
-
-		
-		
-		
-		
-	
-	
-	
-
-<!-- ** end of all sheets -->
-	
 
 
-
+						
+						
+						
+						
 						
 					
 				
@@ -817,7 +729,362 @@ Reed Exhibitions Limited disclaims all responsibility and liability (including n
 	
 	
 <!-- *** End of Print Friendly Page *** --> 
+	<form action="http://www.londonbookfair.co.uk/page.cfm" method="post" name="EmailPageForm">
+		<input type="hidden" name="Action" value="EmailThisPage">
+		<input type="hidden" name="LinkData" value="Link~613~47t~61m">
+	</form>
+
 	
+		
+		
+		
+	
+
+	<script language="JavaScript" type="text/javascript">
+	<!--
+		if (screen.width != 0 || screen.height != 0)
+		{	document.write('<div style="display:none;"><img src="http://www.londonbookfair.co.uk/page.cfm/action=ScreenRes/SWidth=' + screen.width + '/SHeight=' + screen.height + '/PersonID=-1/t=b" width="0" height="0" border="0" alt=""><\/div>');
+		}
+	//-->
+	</script><div style="display:none;"><img src="http://www.londonbookfair.co.uk/page.cfm/action=ScreenRes/SWidth=800/SHeight=600/PersonID=-1/t=b" width="0" height="0" border="0" alt=""></div>
+
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td><table width="100%" border="0">
+  <tbody><tr>
+    <td align="center">
+<script type="text/javascript"><!--
+google_ad_client = "pub-3086002026088620";
+//London Book Fair
+google_ad_slot = "9176633786";
+google_ad_width = 468;
+google_ad_height = 60;
+//--></script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+ </td>
+  </tr>
+</tbody></table></td></tr></tbody></table><img alt="" src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="1" height="10"><br>
+<table border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td><img alt="" src="http://www.londonbookfair.co.uk/g/2008/template/g_stylesheet_topLeft.gif" width="9" height="9" border="0"></td>
+		<td valign="top" width="100%">
+			<table border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="edd6d2">
+				<tbody><tr>
+					<td width="100%"><img alt="" src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="1" height="1"></td>
+				</tr>
+			</tbody></table>
+		</td>
+		<td><img alt="" src="http://www.londonbookfair.co.uk/g/2008/template/g_stylesheet_topRight.gif" width="9" height="9" border="0"></td>
+	</tr>
+	<tr>
+		<td colspan="3">
+			<table border="0" cellpadding="3" width="100%" cellspacing="0">
+				<tbody><tr><td width="width=" 33%""="" valign="top" class="Footer" align="center"><font face="Arial" size="2" class="Footer"><a class="Footer" href="http://www.londonbookfair.co.uk/page.cfm/Link=2/t=m" target="_self">© 2007 Reed Exhibitions</a></font></td><td width="width=" 33%""="" valign="top" class="Footer" align="center"><font face="Arial" size="2" class="Footer"><a class="Footer" href="http://www.londonbookfair.co.uk/page.cfm/Action=Team/t=m" target="_self">contact us</a></font></td><td width="width=" 33%""="" valign="top" class="Footer" align="center"><font face="Arial" size="2" class="Footer"><a class="Footer" href="http://www.londonbookfair.co.uk/page.cfm/Link=3/t=m" target="_self">view the privacy policy</a></font></td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+	<tr>
+		<td><img alt="" src="http://www.londonbookfair.co.uk/g/2008/template/g_stylesheet_bottomLeft.gif" width="9" height="9" border="0"></td>
+		<td valign="bottom" width="100%">
+			<table border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="edd6d2">
+				<tbody><tr>
+					<td width="100%"><img alt="" src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="1" height="1"></td>
+				</tr>
+			</tbody></table>
+		</td>
+		<td><img alt="" src="http://www.londonbookfair.co.uk/g/2008/template/g_stylesheet_bottomRight.gif" width="9" height="9" border="0"></td>
+	</tr>
+</tbody></table> </font></td>
+					<td width="15" background="http://www.londonbookfair.co.uk/g/2008/template/g_bodyFiller_right.gif"><img alt="" src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="1" height="1" border="0"></td>
+				</tr>
+				<tr>
+					<td width="15"><img src="http://www.londonbookfair.co.uk/g/2008/template/g_bodyBottomLeft.gif" width="15" height="15" alt="" border="0"></td>
+					<td background="http://www.londonbookfair.co.uk/g/2008/template/g_bodyFiller_bottom.gif" width="100%"><img alt="" src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="1" height="1" border="0"></td>
+					<td width="15"><img src="http://www.londonbookfair.co.uk/g/2008/template/g_bodyBottomright.gif" width="15" height="15" alt="" border="0"></td>
+				</tr>
+			</tbody></table>
+		</td>
+		<td width="10"><img src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="10" height="1" border="0" alt=""><br></td>
+		<td width="168" valign="top"><img src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="168" height="1" border="0" alt=""><br><!-- ** start of Quick Search panel (panel 1 on Right) -->
+<table border="0" cellpadding="0" cellspacing="0" width="168" align="center">
+	<tbody><tr>
+		<td class="PanelTitle"><font face="Arial" size="2" class="PanelTitle"><b><font face="Arial" size="2" class="PanelTitle">Quick Search</font></b></font><br><img alt="" src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="1" height="5" border="0"></td>
+	</tr>
+	<tr>
+		<td>
+			<table border="0" cellpadding="0" cellspacing="0" width="100%">
+				<tbody><tr>
+					<td><img src="http://www.londonbookfair.co.uk/g/2008/template/g_corner_topleft.gif" width="9" height="9" alt="" border="0"></td>
+					<td background="http://www.londonbookfair.co.uk/g/2008/template/g_Topfiller.gif" width="100%"><img alt="" src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="1" height="1" border="0"></td>
+					<td><img src="http://www.londonbookfair.co.uk/g/2008/template/g_corner_topright.gif" width="9" height="9" alt="" border="0"></td>
+				</tr>
+				<tr>
+					<td background="http://www.londonbookfair.co.uk/g/2008/template/g_Leftfiller.gif"><img alt="" src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="1" height="1" border="0"></td>
+					<td bgcolor="#ffffff"><font face="Arial" size="2" class="default"><form action="http://www.londonbookfair.co.uk/page.cfm" method="post" name="search_2471" class="nomargin"><input type="hidden" name="Action" value="Search"><span class="nowrap"><input name="SearchCriteria" type="text" style="width:98; height:20; vertical-align:middle;"><a onclick="javascript:document.search_2471.submit();" style="cursor:hand;" class="Panel"><input type="image" src="http://www.londonbookfair.co.uk/g/2008/template/g_searchButton.gif" style="vertical-align:middle;"></a></span></form></font></td>
+					<td background="http://www.londonbookfair.co.uk/g/2008/template/g_rightfiller.gif"><img alt="" src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="1" height="1" border="0"></td>
+				</tr>
+				<tr>
+					<td><img src="http://www.londonbookfair.co.uk/g/2008/template/g_corner_bottomleft.gif" width="9" height="9" alt="" border="0"></td>
+					<td background="http://www.londonbookfair.co.uk/g/2008/template/g_bottomfiller.gif"><img alt="" src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="1" height="1" border="0"></td>
+					<td><img src="http://www.londonbookfair.co.uk/g/2008/template/g_corner_bottomright.gif" width="9" height="9" alt="" border="0"></td>
+				</tr>
+			</tbody></table><img alt="" src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="1" height="10" border="0"><br></td>
+	</tr>
+</tbody></table> <!-- Spacer Break --><img src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="150" height="5" alt=""><br><!-- ** end of Quick Search panel (panel 1 on Right) --><!-- ** start of  panel (panel 2 on Right) -->
+<table border="0" cellpadding="0" cellspacing="0" width="168" align="center">
+	<tbody><tr>
+		<td>
+			<table border="0" cellpadding="0" cellspacing="0" width="100%">
+				<tbody><tr>
+					<td><img src="http://www.londonbookfair.co.uk/g/2008/template/g_corner_topleft.gif" width="9" height="9" alt="" border="0"></td>
+					<td background="http://www.londonbookfair.co.uk/g/2008/template/g_Topfiller.gif" width="100%"><img alt="" src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="1" height="1" border="0"></td>
+					<td><img src="http://www.londonbookfair.co.uk/g/2008/template/g_corner_topright.gif" width="9" height="9" alt="" border="0"></td>
+				</tr>
+				<tr>
+					<td background="http://www.londonbookfair.co.uk/g/2008/template/g_Leftfiller.gif"><img alt="" src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="1" height="1" border="0"></td>
+					<td bgcolor="#ffffff"><font face="Arial" size="2" class="default"><!-- <UDF_formattedPage/> --><font face="Arial" size="2" class="Panel"><p align="center"><a class="Panel" href="http://www.londonbookfair.co.uk/page.cfm?&amp;LinkType=PowerBar__&amp;LinkTarget=http://www.londonbookfair.co.uk/page.cfm/Action=PreReg/PreRegID=1/t=m"><img height="38" alt="Register early for The London Book Fair and save up to £35 on the entry fee" src="http://www.londonbookfair.co.uk/g/2008/panels/powerbar_register_now.gif" width="150" border="0"></a></p></font></font></td>
+					<td background="http://www.londonbookfair.co.uk/g/2008/template/g_rightfiller.gif"><img alt="" src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="1" height="1" border="0"></td>
+				</tr>
+				<tr>
+					<td><img src="http://www.londonbookfair.co.uk/g/2008/template/g_corner_bottomleft.gif" width="9" height="9" alt="" border="0"></td>
+					<td background="http://www.londonbookfair.co.uk/g/2008/template/g_bottomfiller.gif"><img alt="" src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="1" height="1" border="0"></td>
+					<td><img src="http://www.londonbookfair.co.uk/g/2008/template/g_corner_bottomright.gif" width="9" height="9" alt="" border="0"></td>
+				</tr>
+			</tbody></table><img alt="" src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="1" height="10" border="0"><br></td>
+	</tr>
+</tbody></table> <!-- Spacer Break --><img src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="150" height="5" alt=""><br><!-- ** end of  panel (panel 2 on Right) --><!-- ** start of  panel (panel 3 on Right) -->
+<table border="0" cellpadding="0" cellspacing="0" width="168" align="center">
+	<tbody><tr>
+		<td>
+			<table border="0" cellpadding="0" cellspacing="0" width="100%">
+				<tbody><tr>
+					<td><img src="http://www.londonbookfair.co.uk/g/2008/template/g_corner_topleft.gif" width="9" height="9" alt="" border="0"></td>
+					<td background="http://www.londonbookfair.co.uk/g/2008/template/g_Topfiller.gif" width="100%"><img alt="" src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="1" height="1" border="0"></td>
+					<td><img src="http://www.londonbookfair.co.uk/g/2008/template/g_corner_topright.gif" width="9" height="9" alt="" border="0"></td>
+				</tr>
+				<tr>
+					<td background="http://www.londonbookfair.co.uk/g/2008/template/g_Leftfiller.gif"><img alt="" src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="1" height="1" border="0"></td>
+					<td bgcolor="#ffffff"><font face="Arial" size="2" class="default"><!-- <UDF_formattedPage/> --><table class="ae_noborder" cellspacing="0" cellpadding="0" width="100%" align="center" border="0">
+<tbody>
+<tr>
+<td class="Panel" valign="top">
+<p align="center">&nbsp;<a class="Panel" href="http://www.londonbookfair.co.uk/page.cfm?&amp;LinkType=PowerBar__&amp;LinkTarget=http://www.londonbookfair.co.uk/page.cfm/link=226"><img height="22" alt="German" src="http://www.londonbookfair.co.uk/g/2008/panels/icon_german.gif" width="26" border="0"></a></p></td>
+<td class="Panel" valign="top">
+<p align="center">&nbsp;<a class="Panel" href="http://www.londonbookfair.co.uk/page.cfm?&amp;LinkType=PowerBar__&amp;LinkTarget=http://www.londonbookfair.co.uk/page.cfm/link=225"><img height="22" alt="Spanish" src="http://www.londonbookfair.co.uk/g/2008/panels/icon_spanish.gif" width="26" border="0"></a></p></td>
+<td class="Panel" valign="top">
+<p align="center">&nbsp;<a class="Panel" href="http://www.londonbookfair.co.uk/page.cfm?&amp;LinkType=PowerBar__&amp;LinkTarget=http://www.londonbookfair.co.uk/page.cfm/link=224"><img height="22" alt="French" src="http://www.londonbookfair.co.uk/g/2008/panels/icon_french.gif" width="26" border="0"></a></p></td>
+<td class="Panel" valign="top">
+<p align="center">&nbsp;<a class="Panel" href="http://www.londonbookfair.co.uk/page.cfm?&amp;LinkType=PowerBar__&amp;LinkTarget=http://www.londonbookfair.co.uk/page.cfm/link=227"><img height="22" alt="Italian" src="http://www.londonbookfair.co.uk/g/2008/panels/icon_italian.gif" width="26" border="0"></a></p></td></tr></tbody></table>
+<table class="ae_noborder" cellspacing="0" cellpadding="0" width="100%" border="0">
+<tbody>
+<tr>
+<td class="Panel" valign="top">&nbsp;<a class="Panel" href="http://www.londonbookfair.co.uk/page.cfm?&amp;LinkType=PowerBar__&amp;LinkTarget=http://www.londonbookfair.co.uk/files/lbf_translations_arabic.pdf"><img height="20" alt="Arabic" src="http://www.londonbookfair.co.uk/g/2008/panels/icon_arabic.gif" width="39" align="left" border="0"></a></td>
+<td class="Panel" valign="top">
+<p align="center"><br><a class="Panel" href="http://www.londonbookfair.co.uk/page.cfm?&amp;LinkType=PowerBar__&amp;LinkTarget=http://www.londonbookfair.co.uk/files/lbf_translations_chinese.pdf"><img height="20" alt="Chinese" src="http://www.londonbookfair.co.uk/g/2008/panels/icon_chinese.gif" width="30" border="0"></a></p></td>
+<td class="Panel" valign="top">&nbsp;<a class="Panel" href="http://www.londonbookfair.co.uk/page.cfm?&amp;LinkType=PowerBar__&amp;LinkTarget=http://www.londonbookfair.co.uk/files/lbf_translations_russian.pdf"><img height="20" alt="Russian" src="http://www.londonbookfair.co.uk/g/2008/panels/icon_russian.gif" width="55" align="right" border="0"></a></td></tr></tbody></table></font></td>
+					<td background="http://www.londonbookfair.co.uk/g/2008/template/g_rightfiller.gif"><img alt="" src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="1" height="1" border="0"></td>
+				</tr>
+				<tr>
+					<td><img src="http://www.londonbookfair.co.uk/g/2008/template/g_corner_bottomleft.gif" width="9" height="9" alt="" border="0"></td>
+					<td background="http://www.londonbookfair.co.uk/g/2008/template/g_bottomfiller.gif"><img alt="" src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="1" height="1" border="0"></td>
+					<td><img src="http://www.londonbookfair.co.uk/g/2008/template/g_corner_bottomright.gif" width="9" height="9" alt="" border="0"></td>
+				</tr>
+			</tbody></table><img alt="" src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="1" height="10" border="0"><br></td>
+	</tr>
+</tbody></table> <!-- Spacer Break --><img src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="150" height="5" alt=""><br><!-- ** end of  panel (panel 3 on Right) --><!-- ** start of quick links panel (panel 4 on Right) -->
+<table border="0" cellpadding="0" cellspacing="0" width="168" align="center">
+	<tbody><tr>
+		<td class="PanelTitle"><font face="Arial" size="2" class="PanelTitle"><b><font face="Arial" size="2" class="PanelTitle">quick links</font></b></font><br><img alt="" src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="1" height="5" border="0"></td>
+	</tr>
+	<tr>
+		<td>
+			<table border="0" cellpadding="0" cellspacing="0" width="100%">
+				<tbody><tr>
+					<td><img src="http://www.londonbookfair.co.uk/g/2008/template/g_corner_topleft.gif" width="9" height="9" alt="" border="0"></td>
+					<td background="http://www.londonbookfair.co.uk/g/2008/template/g_Topfiller.gif" width="100%"><img alt="" src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="1" height="1" border="0"></td>
+					<td><img src="http://www.londonbookfair.co.uk/g/2008/template/g_corner_topright.gif" width="9" height="9" alt="" border="0"></td>
+				</tr>
+				<tr>
+					<td background="http://www.londonbookfair.co.uk/g/2008/template/g_Leftfiller.gif"><img alt="" src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="1" height="1" border="0"></td>
+					<td bgcolor="#ffffff"><font face="Arial" size="2" class="default"><font face="Arial" size="2" class="Panel">
+<table border="0" cellspacing="0" cellpadding="0" width="100%"><tbody><tr><td bgcolor="#FFFFFF" class="Quicklink"><font face="Arial" size="2" class="Quicklink"><a class="QuickLink" aclass="QuickLink" href="http://www.londonbookfair.co.uk/page.cfm/Action=EZone/t=m" target="_self">Exhibitor Zone</a></font></td></tr><tr><td bgcolor="#FFFFFF" class="Quicklink"><font face="Arial" size="2" class="Quicklink"><a class="QuickLink" aclass="QuickLink" href="http://www.londonbookfair.co.uk/page.cfm/Link=176/t=m" target="_self">The New Title Showcase</a></font></td></tr><tr><td bgcolor="#FFFFFF" class="Quicklink"><font face="Arial" size="2" class="Quicklink"><a class="QuickLink" aclass="QuickLink" href="http://www.londonbookfair.co.uk/page.cfm/Link=243/t=m" target="_self">Sponsorship Opportunities </a></font></td></tr><tr><td bgcolor="#FFFFFF" class="Quicklink"><font face="Arial" size="2" class="Quicklink"><a class="QuickLink" aclass="QuickLink" href="http://www.londonbookfair.co.uk/page.cfm/Action=ExhibList/t=m" target="_self"><b>2008 Exhibitor List</b></a></font></td></tr><tr><td bgcolor="#FFFFFF" class="Quicklink"><font face="Arial" size="2" class="Quicklink"><a class="QuickLink" aclass="QuickLink" href="http://www.londonbookfair.co.uk/page.cfm/Link=183/t=m" target="_self">Seminar programme</a></font></td></tr><tr><td bgcolor="#FFFFFF" class="Quicklink"><font face="Arial" size="2" class="Quicklink"><a class="QuickLink" aclass="QuickLink" href="http://www.londonbookfair.co.uk/page.cfm/Action=Form/FormID=12/t=m" target="_self">Vote for your favourite London Bookshop</a></font></td></tr><tr><td bgcolor="#FFFFFF" class="Quicklink"><font face="Arial" size="2" class="Quicklink"><a class="QuickLink" aclass="QuickLink" href="http://www.londonbookfair.co.uk/page.cfm/Link=91/t=m" target="_self">Frequently Asked Questions</a></font></td></tr><tr><td bgcolor="#FFFFFF" class="Quicklink"><font face="Arial" size="2" class="Quicklink"><a class="QuickLink" aclass="QuickLink" href="http://www.londonbookfair.co.uk/page.cfm/Action=VCalendarIndex/CalendarID=1/t=m" target="_self">Opening Times</a></font></td></tr><tr><td bgcolor="#FFFFFF" class="Quicklink"><font face="Arial" size="2" class="Quicklink"><a class="QuickLink" aclass="QuickLink" href="http://www.londonbookfair.co.uk/page.cfm/Link=13/t=m" target="_self">Future LBF dates</a></font></td></tr><tr><td bgcolor="#FFFFFF" class="Quicklink"><font face="Arial" size="2" class="Quicklink"><a class="QuickLink" aclass="QuickLink" href="http://www.londonbookfair.co.uk/page.cfm/Action=PhotoLibrary/libID=226/t=m" target="_self">LBF 2007 photo library</a></font></td></tr><tr><td bgcolor="#FFFFFF" class="Quicklink"><font face="Arial" size="2" class="Quicklink"><a class="QuickLink" aclass="QuickLink" href="http://www.londonbookfair.co.uk/page.cfm/Action=Form/FormID=2/t=m" target="_self">Visa Letter Requests</a></font></td></tr>
+</tbody></table></font></font></td>
+					<td background="http://www.londonbookfair.co.uk/g/2008/template/g_rightfiller.gif"><img alt="" src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="1" height="1" border="0"></td>
+				</tr>
+				<tr>
+					<td><img src="http://www.londonbookfair.co.uk/g/2008/template/g_corner_bottomleft.gif" width="9" height="9" alt="" border="0"></td>
+					<td background="http://www.londonbookfair.co.uk/g/2008/template/g_bottomfiller.gif"><img alt="" src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="1" height="1" border="0"></td>
+					<td><img src="http://www.londonbookfair.co.uk/g/2008/template/g_corner_bottomright.gif" width="9" height="9" alt="" border="0"></td>
+				</tr>
+			</tbody></table><img alt="" src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="1" height="10" border="0"><br></td>
+	</tr>
+</tbody></table> <!-- Spacer Break --><img src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="150" height="5" alt=""><br><!-- ** end of quick links panel (panel 4 on Right) --><!-- ** start of  panel (panel 5 on Right) -->
+<table border="0" cellpadding="0" cellspacing="0" width="168" align="center">
+	<tbody><tr>
+		<td>
+			<table border="0" cellpadding="0" cellspacing="0" width="100%">
+				<tbody><tr>
+					<td><img src="http://www.londonbookfair.co.uk/g/2008/template/g_corner_topleft.gif" width="9" height="9" alt="" border="0"></td>
+					<td background="http://www.londonbookfair.co.uk/g/2008/template/g_Topfiller.gif" width="100%"><img alt="" src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="1" height="1" border="0"></td>
+					<td><img src="http://www.londonbookfair.co.uk/g/2008/template/g_corner_topright.gif" width="9" height="9" alt="" border="0"></td>
+				</tr>
+				<tr>
+					<td background="http://www.londonbookfair.co.uk/g/2008/template/g_Leftfiller.gif"><img alt="" src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="1" height="1" border="0"></td>
+					<td bgcolor="#ffffff"><font face="Arial" size="2" class="default"><!-- <UDF_formattedPage/> --><font face="Arial" size="2" class="Panel"><a class="Panel" href="http://www.londonbookfair.co.uk/page.cfm?&amp;LinkType=PowerBar__&amp;LinkTarget=http://www.londonbookfair.co.uk/page.cfm/link=148">
+<p align="center"><img height="232" alt="The London Book Fair 2008 - Opening Times" src="http://www.londonbookfair.co.uk/g/2008/panels/lbf08_where_and_when_v2.jpg" width="150" border="0">&nbsp;</p></a></font></font></td>
+					<td background="http://www.londonbookfair.co.uk/g/2008/template/g_rightfiller.gif"><img alt="" src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="1" height="1" border="0"></td>
+				</tr>
+				<tr>
+					<td><img src="http://www.londonbookfair.co.uk/g/2008/template/g_corner_bottomleft.gif" width="9" height="9" alt="" border="0"></td>
+					<td background="http://www.londonbookfair.co.uk/g/2008/template/g_bottomfiller.gif"><img alt="" src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="1" height="1" border="0"></td>
+					<td><img src="http://www.londonbookfair.co.uk/g/2008/template/g_corner_bottomright.gif" width="9" height="9" alt="" border="0"></td>
+				</tr>
+			</tbody></table><img alt="" src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="1" height="10" border="0"><br></td>
+	</tr>
+</tbody></table> <!-- Spacer Break --><img src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="150" height="5" alt=""><br><!-- ** end of  panel (panel 5 on Right) --><!-- ** start of  panel (panel 6 on Right) -->
+<table border="0" cellpadding="0" cellspacing="0" width="168" align="center">
+	<tbody><tr>
+		<td>
+			<table border="0" cellpadding="0" cellspacing="0" width="100%">
+				<tbody><tr>
+					<td><img src="http://www.londonbookfair.co.uk/g/2008/template/g_corner_topleft.gif" width="9" height="9" alt="" border="0"></td>
+					<td background="http://www.londonbookfair.co.uk/g/2008/template/g_Topfiller.gif" width="100%"><img alt="" src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="1" height="1" border="0"></td>
+					<td><img src="http://www.londonbookfair.co.uk/g/2008/template/g_corner_topright.gif" width="9" height="9" alt="" border="0"></td>
+				</tr>
+				<tr>
+					<td background="http://www.londonbookfair.co.uk/g/2008/template/g_Leftfiller.gif"><img alt="" src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="1" height="1" border="0"></td>
+					<td bgcolor="#ffffff"><font face="Arial" size="2" class="default"><font face="Arial" size="2" class="Panel"><script language="javascript" type="text/javascript">
+	<!--
+	var divArray_0=new Array();
+	var objArray_0=new Array();
+	var obj={imgName:'traveldesk_new.gif',imgWidth:'150',imgHeight:'171',imgAlt:'Traveldesk',imgLink:'http://www.londonbookfair.co.uk/page.cfm/LinkTarget=00487/URLTarget=http://www.londonbookfair.co.uk/page.cfm/Link=0/t=m',imgTarget:'_new',imgTarget:'_blank'};
+	objArray_0[0]=obj;
+	
+	//-->
+	</script><table border="0" cellspacing="0" cellpadding="0" width="100%"><tbody><tr><td height="171" align="center" id="ImgRotator_0"><a href="http://www.londonbookfair.co.uk/page.cfm/LinkTarget=00487/URLTarget=http://www.londonbookfair.co.uk/page.cfm/Link=0/t=m" target="_new" id="ImgRotatorHref_0"><img src="http://www.londonbookfair.co.uk/g/2008/banners/traveldesk_new.gif" width="150" height="171" alt="Traveldesk" border="0" id="ImgRotatorImg_0"></a></td></tr></tbody></table></font></font></td>
+					<td background="http://www.londonbookfair.co.uk/g/2008/template/g_rightfiller.gif"><img alt="" src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="1" height="1" border="0"></td>
+				</tr>
+				<tr>
+					<td><img src="http://www.londonbookfair.co.uk/g/2008/template/g_corner_bottomleft.gif" width="9" height="9" alt="" border="0"></td>
+					<td background="http://www.londonbookfair.co.uk/g/2008/template/g_bottomfiller.gif"><img alt="" src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="1" height="1" border="0"></td>
+					<td><img src="http://www.londonbookfair.co.uk/g/2008/template/g_corner_bottomright.gif" width="9" height="9" alt="" border="0"></td>
+				</tr>
+			</tbody></table><img alt="" src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="1" height="10" border="0"><br></td>
+	</tr>
+</tbody></table> <!-- Spacer Break --><img src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="150" height="5" alt=""><br><!-- ** end of  panel (panel 6 on Right) --><!-- ** start of Sponsored by: panel (panel 7 on Right) -->
+<table border="0" cellpadding="0" cellspacing="0" width="168" align="center">
+	<tbody><tr>
+		<td class="PanelTitle"><font face="Arial" size="2" class="PanelTitle"><b><font face="Arial" size="2" class="PanelTitle">Sponsored by:</font></b></font><br><img alt="" src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="1" height="5" border="0"></td>
+	</tr>
+	<tr>
+		<td>
+			<table border="0" cellpadding="0" cellspacing="0" width="100%">
+				<tbody><tr>
+					<td><img src="http://www.londonbookfair.co.uk/g/2008/template/g_corner_topleft.gif" width="9" height="9" alt="" border="0"></td>
+					<td background="http://www.londonbookfair.co.uk/g/2008/template/g_Topfiller.gif" width="100%"><img alt="" src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="1" height="1" border="0"></td>
+					<td><img src="http://www.londonbookfair.co.uk/g/2008/template/g_corner_topright.gif" width="9" height="9" alt="" border="0"></td>
+				</tr>
+				<tr>
+					<td background="http://www.londonbookfair.co.uk/g/2008/template/g_Leftfiller.gif"><img alt="" src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="1" height="1" border="0"></td>
+					<td bgcolor="#ffffff"><font face="Arial" size="2" class="default"><font face="Arial" size="2" class="Panel"><script language="javascript" type="text/javascript">
+	<!--
+	var divArray_1=new Array();
+	var objArray_1=new Array();
+	var obj={imgName:'logo_ba_125_118.gif',imgWidth:'100',imgHeight:'100',imgAlt:'Booksellers Association',imgLink:'http://www.londonbookfair.co.uk/page.cfm/LinkTarget=00434/URLTarget=http://www.londonbookfair.co.uk/page.cfm/Link=0/t=m',imgTarget:'_new',imgTarget:'_blank'};
+	objArray_1[0]=obj;
+	
+	//-->
+	</script><table border="0" cellspacing="0" cellpadding="0" width="100%"><tbody><tr><td height="100" align="center" id="ImgRotator_1"><a href="http://www.londonbookfair.co.uk/page.cfm/LinkTarget=00434/URLTarget=http://www.londonbookfair.co.uk/page.cfm/Link=0/t=m" target="_new" id="ImgRotatorHref_1"><img src="http://www.londonbookfair.co.uk/g/2008/banners/logo_ba_125_118.gif" width="100" height="100" alt="Booksellers Association" border="0" id="ImgRotatorImg_1"></a></td></tr></tbody></table></font></font></td>
+					<td background="http://www.londonbookfair.co.uk/g/2008/template/g_rightfiller.gif"><img alt="" src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="1" height="1" border="0"></td>
+				</tr>
+				<tr>
+					<td><img src="http://www.londonbookfair.co.uk/g/2008/template/g_corner_bottomleft.gif" width="9" height="9" alt="" border="0"></td>
+					<td background="http://www.londonbookfair.co.uk/g/2008/template/g_bottomfiller.gif"><img alt="" src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="1" height="1" border="0"></td>
+					<td><img src="http://www.londonbookfair.co.uk/g/2008/template/g_corner_bottomright.gif" width="9" height="9" alt="" border="0"></td>
+				</tr>
+			</tbody></table><img alt="" src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="1" height="10" border="0"><br></td>
+	</tr>
+</tbody></table> <!-- Spacer Break --><img src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="150" height="5" alt=""><br><!-- ** end of Sponsored by: panel (panel 7 on Right) --><!-- ** start of  panel (panel 8 on Right) -->
+<table border="0" cellpadding="0" cellspacing="0" width="168" align="center">
+	<tbody><tr>
+		<td>
+			<table border="0" cellpadding="0" cellspacing="0" width="100%">
+				<tbody><tr>
+					<td><img src="http://www.londonbookfair.co.uk/g/2008/template/g_corner_topleft.gif" width="9" height="9" alt="" border="0"></td>
+					<td background="http://www.londonbookfair.co.uk/g/2008/template/g_Topfiller.gif" width="100%"><img alt="" src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="1" height="1" border="0"></td>
+					<td><img src="http://www.londonbookfair.co.uk/g/2008/template/g_corner_topright.gif" width="9" height="9" alt="" border="0"></td>
+				</tr>
+				<tr>
+					<td background="http://www.londonbookfair.co.uk/g/2008/template/g_Leftfiller.gif"><img alt="" src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="1" height="1" border="0"></td>
+					<td bgcolor="#ffffff"><font face="Arial" size="2" class="default"><!-- <UDF_formattedPage/> --><font face="Arial" size="2" class="Panel"><a class="Panel" target="_blank" href="http://www.londonbookfair.co.uk/page.cfm?&amp;LinkType=PowerBar__&amp;LinkTarget=http://www.londonbookfair.co.uk/autumndeal" name="~Navundefined"><img height="191" alt="The Deal Autumn" src="http://www.londonbookfair.co.uk/g/2008/panels/banner_deal_read_autumn_edition.jpg" width="150" border="0"></a></font></font></td>
+					<td background="http://www.londonbookfair.co.uk/g/2008/template/g_rightfiller.gif"><img alt="" src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="1" height="1" border="0"></td>
+				</tr>
+				<tr>
+					<td><img src="http://www.londonbookfair.co.uk/g/2008/template/g_corner_bottomleft.gif" width="9" height="9" alt="" border="0"></td>
+					<td background="http://www.londonbookfair.co.uk/g/2008/template/g_bottomfiller.gif"><img alt="" src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="1" height="1" border="0"></td>
+					<td><img src="http://www.londonbookfair.co.uk/g/2008/template/g_corner_bottomright.gif" width="9" height="9" alt="" border="0"></td>
+				</tr>
+			</tbody></table><img alt="" src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="1" height="10" border="0"><br></td>
+	</tr>
+</tbody></table> <!-- Spacer Break --><img src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="150" height="5" alt=""><br><!-- ** end of  panel (panel 8 on Right) --><!-- ** start of LBF - A Snapshot panel (panel 9 on Right) -->
+<table border="0" cellpadding="0" cellspacing="0" width="168" align="center">
+	<tbody><tr>
+		<td class="PanelTitle"><font face="Arial" size="2" class="PanelTitle"><b><font face="Arial" size="2" class="PanelTitle">LBF - A Snapshot</font></b></font><br><img alt="" src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="1" height="5" border="0"></td>
+	</tr>
+	<tr>
+		<td>
+			<table border="0" cellpadding="0" cellspacing="0" width="100%">
+				<tbody><tr>
+					<td><img src="http://www.londonbookfair.co.uk/g/2008/template/g_corner_topleft.gif" width="9" height="9" alt="" border="0"></td>
+					<td background="http://www.londonbookfair.co.uk/g/2008/template/g_Topfiller.gif" width="100%"><img alt="" src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="1" height="1" border="0"></td>
+					<td><img src="http://www.londonbookfair.co.uk/g/2008/template/g_corner_topright.gif" width="9" height="9" alt="" border="0"></td>
+				</tr>
+				<tr>
+					<td background="http://www.londonbookfair.co.uk/g/2008/template/g_Leftfiller.gif"><img alt="" src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="1" height="1" border="0"></td>
+					<td bgcolor="#ffffff"><font face="Arial" size="2" class="default"><!-- <UDF_formattedPage/> --><font face="Arial" size="2" class="Panel"><a class="Panel" href="http://www.londonbookfair.co.uk/page.cfm?&amp;LinkType=PowerBar__&amp;LinkTarget=http://www.londonbookfair.co.uk/page.cfm/Action=Object/objectID=93/t=m">
+<p align="center"><img height="150" alt="LBF video" src="http://www.londonbookfair.co.uk/g/2008/panels/lbf_video_graphic.jpg" width="150" border="0"></p></a></font></font></td>
+					<td background="http://www.londonbookfair.co.uk/g/2008/template/g_rightfiller.gif"><img alt="" src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="1" height="1" border="0"></td>
+				</tr>
+				<tr>
+					<td><img src="http://www.londonbookfair.co.uk/g/2008/template/g_corner_bottomleft.gif" width="9" height="9" alt="" border="0"></td>
+					<td background="http://www.londonbookfair.co.uk/g/2008/template/g_bottomfiller.gif"><img alt="" src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="1" height="1" border="0"></td>
+					<td><img src="http://www.londonbookfair.co.uk/g/2008/template/g_corner_bottomright.gif" width="9" height="9" alt="" border="0"></td>
+				</tr>
+			</tbody></table><img alt="" src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="1" height="10" border="0"><br></td>
+	</tr>
+</tbody></table> <!-- Spacer Break --><img src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="150" height="5" alt=""><br><!-- ** end of LBF - A Snapshot panel (panel 9 on Right) --><!-- ** start of PW's Virtual Edition panel (panel 10 on Right) -->
+<table border="0" cellpadding="0" cellspacing="0" width="168" align="center">
+	<tbody><tr>
+		<td class="PanelTitle"><font face="Arial" size="2" class="PanelTitle"><b><font face="Arial" size="2" class="PanelTitle">PW's Virtual Edition</font></b></font><br><img alt="" src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="1" height="5" border="0"></td>
+	</tr>
+	<tr>
+		<td>
+			<table border="0" cellpadding="0" cellspacing="0" width="100%">
+				<tbody><tr>
+					<td><img src="http://www.londonbookfair.co.uk/g/2008/template/g_corner_topleft.gif" width="9" height="9" alt="" border="0"></td>
+					<td background="http://www.londonbookfair.co.uk/g/2008/template/g_Topfiller.gif" width="100%"><img alt="" src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="1" height="1" border="0"></td>
+					<td><img src="http://www.londonbookfair.co.uk/g/2008/template/g_corner_topright.gif" width="9" height="9" alt="" border="0"></td>
+				</tr>
+				<tr>
+					<td background="http://www.londonbookfair.co.uk/g/2008/template/g_Leftfiller.gif"><img alt="" src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="1" height="1" border="0"></td>
+					<td bgcolor="#ffffff"><font face="Arial" size="2" class="default"><!-- <UDF_formattedPage/> --><font face="Arial" size="2" class="Panel"><a class="Panel" target="_blank" href="http://www.londonbookfair.co.uk/page.cfm?&amp;LinkType=PowerBar__&amp;LinkTarget=http://www.publishersweekly.com"><img height="152" alt="PW logo" src="http://www.londonbookfair.co.uk/g/2008/panels/logo_pw_150.gif" width="150" border="0"></a></font></font></td>
+					<td background="http://www.londonbookfair.co.uk/g/2008/template/g_rightfiller.gif"><img alt="" src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="1" height="1" border="0"></td>
+				</tr>
+				<tr>
+					<td><img src="http://www.londonbookfair.co.uk/g/2008/template/g_corner_bottomleft.gif" width="9" height="9" alt="" border="0"></td>
+					<td background="http://www.londonbookfair.co.uk/g/2008/template/g_bottomfiller.gif"><img alt="" src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="1" height="1" border="0"></td>
+					<td><img src="http://www.londonbookfair.co.uk/g/2008/template/g_corner_bottomright.gif" width="9" height="9" alt="" border="0"></td>
+				</tr>
+			</tbody></table><img alt="" src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="1" height="10" border="0"><br></td>
+	</tr>
+</tbody></table> <!-- Spacer Break --><img src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="150" height="5" alt=""><br><!-- ** end of PW's Virtual Edition panel (panel 10 on Right) --></td>
+		<td width="10"><img src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="10" height="1" border="0" alt=""><br></td>
+	</tr>
+</tbody></table><img src="http://www.londonbookfair.co.uk/g/2008/g_blank.gif" width="10" height="10" border="0" alt=""><br> </div>
+
+<a name="Foot"></a> 
 	
 		
 		
@@ -826,7 +1093,7 @@ Reed Exhibitions Limited disclaims all responsibility and liability (including n
 				<form action="http://www.londonbookfair.co.uk/page.cfm" method="post" target="_blank" name="PrintFriendlyForm">
 					
 					
-					<input type="hidden" name="ID" value="3"><input type="hidden" name="LINK" value="3"><input type="hidden" name="T" value="m"><input type="hidden" name="Action" value="PrintFriendly"><input type="hidden" name="PrintAction" value="page">
+					<input type="hidden" name="ID" value="3"><input type="hidden" name="LINK" value="3"><input type="hidden" name="T" value="m"><input type="hidden" name="Action" value="PrintFriendly"><input type="hidden" name="PrintAction" value="Page">
 					<input type="hidden" name="submittedPrintPage" value="Yes">
 				</form>
 				
@@ -835,671 +1102,20 @@ Reed Exhibitions Limited disclaims all responsibility and liability (including n
 		
 	
 
-
-	<script language="JavaScript" type="text/javascript">
-	<!--
-		document.write('<div style="display:none;"><img src="http://www.londonbookfair.co.uk/page.cfm/action=ScreenRes/SWidth=' + screen.width + '/SHeight=' + screen.height + '/PersonID=572652/t=b" width="0" height="0" border="0" alt=""><\/div>');
-	//-->
-	</script><div style="display:none;"><img src="http://www.londonbookfair.co.uk/page.cfm/action=ScreenRes/SWidth=800/SHeight=600/PersonID=572652/t=b" width="0" height="0" border="0" alt=""></div>
-
-
-
-												
-											</td>
-											<td><img alt="" src="http://www.londonbookfair.co.uk/g/g_blank.gif" width="5" height="1"></td>
-										</tr>
-										
-										<tr>
-											<td colspan="3"><img alt="" src="http://www.londonbookfair.co.uk/g/g_blank.gif" width="5" height="15"></td>
-										</tr>
-										<tr>
-											<td></td>
-											<td align="center">
-												
-												<table border="0" cellpadding="0" cellspacing="0">
-													<tbody><tr>
-														
-														<td><img alt="" src="http://www.londonbookfair.co.uk/g/template/g_stylesheet_topLeft.gif" width="9" height="9" border="0"></td>
-														<td valign="top" width="100%"><table border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="#ABABAC"><tbody><tr><td width="100%"><img alt="" src="http://www.londonbookfair.co.uk/g/g_blank.gif" width="1" height="1"></td></tr></tbody></table></td>
-														
-														<td><img alt="" src="http://www.londonbookfair.co.uk/g/template/g_stylesheet_topRight.gif" width="9" height="9" border="0"></td>
-													</tr>
-													<tr>
-														<td colspan="3"> 
-	
 	
 
-
-
-<table border="0" cellspacing="4" cellpadding="0"><tbody><tr><td width="10"><hr width="10" style="color:FFFFFF;"></td><td align="center" class="Footer"><font class="footer" face="Arial" size="2"><span class="nowrap"><a class="Footer" href="http://www.londonbookfair.co.uk/page.cfm/Link=2/t=m" target="_self">© 2006 Reed Exhibitions</a></span></font></td><td width="10"><hr width="10" style="color:FFFFFF;"></td><td align="center" class="Footer"><font class="footer" face="Arial" size="2"><span class="nowrap"><a class="Footer" href="http://www.londonbookfair.co.uk/page.cfm/Action=Team/t=m" target="_self">contact us</a></span></font></td><td width="10"><hr width="10" style="color:FFFFFF;"></td><td align="center" class="Footer"><font class="footer" face="Arial" size="2"><span class="nowrap"><a class="Footer" href="http://www.londonbookfair.co.uk/page.cfm/Link=3/t=m" target="_self">view the privacy policy</a></span></font></td><td width="10"><hr width="10" style="color:FFFFFF;"></td></tr></tbody></table></td>
-													</tr>
-													<tr>
-														
-														<td><img alt="" src="http://www.londonbookfair.co.uk/g/template/g_stylesheet_BottomLeft.gif" width="9" height="9" border="0"></td>
-														<td valign="bottom" width="100%"><table border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="#ABABAC"><tbody><tr><td width="100%"><img alt="" src="http://www.londonbookfair.co.uk/g/g_blank.gif" width="1" height="1"></td></tr></tbody></table></td>
-														
-														<td><img alt="" src="http://www.londonbookfair.co.uk/g/template/g_stylesheet_BottomRight.gif" width="9" height="9" border="0"></td>
-													</tr>
-													<tr><td><img src="http://www.londonbookfair.co.uk/g/g_blank.gif" width="1" height="6" alt="" border="0"></td></tr>
-												</tbody></table>
-											</td>
-											<td></td>
-										</tr>
-									</tbody></table>
-								</td>
-								
-								<td width="15" background="http://www.londonbookfair.co.uk/g/template/g_bodyFiller_right.gif"><img alt="" src="http://www.londonbookfair.co.uk/g/g_blank.gif" width="1" height="1" border="0"></td>
-							</tr>
-							<tr>
-								<td width="15"><img src="http://www.londonbookfair.co.uk/g/template/g_bodyBottomLeft.gif" width="15" height="15" alt="" border="0"></td>
-								
-								<td background="http://www.londonbookfair.co.uk/g/template/g_bodyFiller_bottom.gif" width="100%"><img alt="" src="http://www.londonbookfair.co.uk/g/g_blank.gif" width="1" height="1" border="0"></td>
-								<td width="15"><img src="http://www.londonbookfair.co.uk/g/template/g_bodyBottomright.gif" width="15" height="15" alt="" border="0"></td>
-							</tr>
-						</tbody></table>
-					</td>
-					
-					
-					
-					<td width="185" valign="top">
-						
-						<img alt="" src="http://www.londonbookfair.co.uk/g/g_blank.gif" width="185" height="10" border="0"><br>
-						<table border="0" cellpadding="0" cellspacing="0" width="165" align="center">
-							
-								
-								<tbody><tr>
-									<td class="PanelTitle"><font face="Arial" size="2" class="PanelTitle"><b>Quick Search</b><br><img alt="" src="http://www.londonbookfair.co.uk/g/g_blank.gif" width="1" height="5" border="0"></font></td>
-								</tr>
-								<tr>
-									<td align="center">
-										<table border="0" cellpadding="0" cellspacing="0" width="100%">
-											<tbody><tr>
-												<td><img src="http://www.londonbookfair.co.uk/g/template/g_corner_topleft.gif" width="9" height="9" alt="" border="0"></td>
-												
-												<td background="http://www.londonbookfair.co.uk/g/template/g_Topfiller.gif" width="100%"><img alt="" src="http://www.londonbookfair.co.uk/g/g_blank.gif" width="1" height="1" border="0"></td>
-												<td><img src="http://www.londonbookfair.co.uk/g/template/g_corner_topright.gif" width="9" height="9" alt="" border="0"></td>
-											</tr>
-											<tr>
-												
-												<td background="http://www.londonbookfair.co.uk/g/template/g_Leftfiller.gif"><img alt="" src="http://www.londonbookfair.co.uk/g/g_blank.gif" width="1" height="1" border="0"></td>
-												<form action="http://www.londonbookfair.co.uk/page.cfm" method="post"></form>
-													<td bgcolor="#FFFFFF" align="center" class="panel">
-														<input type="hidden" name="action" value="Search">
-														<input type="Text" name="SearchCriteria" value="" size="13">&nbsp;<input type="Submit" value="Go">
-													</td>
-												
-												
-												<td background="http://www.londonbookfair.co.uk/g/template/g_rightfiller.gif"><img alt="" src="http://www.londonbookfair.co.uk/g/g_blank.gif" width="1" height="1" border="0"></td>
-											</tr>
-											<tr>
-												<td><img src="http://www.londonbookfair.co.uk/g/template/g_corner_bottomleft.gif" width="9" height="9" alt="" border="0"></td>
-												
-												<td background="http://www.londonbookfair.co.uk/g/template/g_bottomfiller.gif"><img alt="" src="http://www.londonbookfair.co.uk/g/g_blank.gif" width="1" height="1" border="0"></td>
-												<td><img src="http://www.londonbookfair.co.uk/g/template/g_corner_bottomright.gif" width="9" height="9" alt="" border="0"></td>
-											</tr>
-										</tbody></table>
-									</td>
-								</tr>
-							
-							
-							
-								<tr>
-									<td><img alt="" src="http://www.londonbookfair.co.uk/g/g_blank.gif" width="1" height="10"></td>
-								</tr>
-								
-								<tr>
-									<td class="PanelTitle"><font face="Arial" size="2" class="PanelTitle"><b>Show in your diary</b><br><img alt="" src="http://www.londonbookfair.co.uk/g/g_blank.gif" width="1" height="5" border="0"></font></td>
-								</tr>
-								<tr>
-									<td align="center">
-										<table border="0" cellpadding="0" cellspacing="0" width="100%">
-											<tbody><tr>
-												<td><img src="http://www.londonbookfair.co.uk/g/template/g_corner_topleft.gif" width="9" height="9" alt="" border="0"></td>
-												
-												<td background="http://www.londonbookfair.co.uk/g/template/g_Topfiller.gif" width="100%"><img alt="" src="http://www.londonbookfair.co.uk/g/g_blank.gif" width="1" height="1" border="0"></td>
-												<td><img src="http://www.londonbookfair.co.uk/g/template/g_corner_topright.gif" width="9" height="9" alt="" border="0"></td>
-											</tr>
-											<tr>
-												
-												<td background="http://www.londonbookfair.co.uk/g/template/g_Leftfiller.gif"><img alt="" src="http://www.londonbookfair.co.uk/g/g_blank.gif" width="1" height="1" border="0"></td>
-												<td bgcolor="#FFFFFF" class="panel"><font face="Arial" size="2" class="Panel"><a href="http://www.londonbookfair.co.uk/page.cfm/action=VCalendarIndex" class="QuickLink">Add to your Outlook...</a></font></td>
-												
-												<td background="http://www.londonbookfair.co.uk/g/template/g_rightfiller.gif"><img alt="" src="http://www.londonbookfair.co.uk/g/g_blank.gif" width="1" height="1" border="0"></td>
-											</tr>
-											<tr>
-												<td><img src="http://www.londonbookfair.co.uk/g/template/g_corner_bottomleft.gif" width="9" height="9" alt="" border="0"></td>
-												
-												<td background="http://www.londonbookfair.co.uk/g/template/g_bottomfiller.gif"><img alt="" src="http://www.londonbookfair.co.uk/g/g_blank.gif" width="1" height="1" border="0"></td>
-												<td><img src="http://www.londonbookfair.co.uk/g/template/g_corner_bottomright.gif" width="9" height="9" alt="" border="0"></td>
-											</tr>
-										</tbody></table>
-									</td>
-								</tr>
-							
-							
-								<tr>
-									<td><img alt="" src="http://www.londonbookfair.co.uk/g/g_blank.gif" width="1" height="10"></td>
-								</tr>
-								
-								<tr>
-									<td class="PanelTitle"><font face="Arial" size="2" class="PanelTitle"><b>Quick Links</b><br><img alt="" src="http://www.londonbookfair.co.uk/g/g_blank.gif" width="1" height="5" border="0"></font></td>
-								</tr>
-								<tr>
-									<td align="center">
-										<table border="0" cellpadding="0" cellspacing="0" width="100%">
-											<tbody><tr>
-												<td><img src="http://www.londonbookfair.co.uk/g/template/g_corner_topleft.gif" width="9" height="9" alt="" border="0"></td>
-												
-												<td background="http://www.londonbookfair.co.uk/g/template/g_Topfiller.gif" width="100%"><img alt="" src="http://www.londonbookfair.co.uk/g/g_blank.gif" width="1" height="1" border="0"></td>
-												<td><img src="http://www.londonbookfair.co.uk/g/template/g_corner_topright.gif" width="9" height="9" alt="" border="0"></td>
-											</tr>
-											<tr>
-												
-												<td background="http://www.londonbookfair.co.uk/g/template/g_Leftfiller.gif"><img alt="" src="http://www.londonbookfair.co.uk/g/g_blank.gif" width="1" height="1" border="0"></td>
-												<td bgcolor="#FFFFFF" class="panel">
-													
-														<font face="Arial" size="2" class="Panel"><a class="QuickLink" href="http://www.londonbookfair.co.uk/page.cfm/Action=EZone/t=m" target="_self">Exhibitor Zone</a><br>
-													
-														<font face="Arial" size="2" class="Panel"><a class="QuickLink" href="http://www.londonbookfair.co.uk/page.cfm/Action=ExhibList/t=m" target="_self">2007 Exhibitor List</a><br>
-													
-														<font face="Arial" size="2" class="Panel"><a class="QuickLink" href="http://www.londonbookfair.co.uk/page.cfm/Link=53/t=m" target="_self">Exhibitor information</a><br>
-													
-														<font face="Arial" size="2" class="Panel"><a class="QuickLink" href="http://www.londonbookfair.co.uk/page.cfm/Action=Form/FormID=2/t=m" target="_self">Visitor Enquiry Form</a><br>
-													
-														<font face="Arial" size="2" class="Panel"><a class="QuickLink" href="http://www.londonbookfair.co.uk/page.cfm/Link=172/t=m" target="_self">Bookseller Profiles</a><br>
-													
-														<font face="Arial" size="2" class="Panel"><a class="QuickLink" href="http://www.londonbookfair.co.uk/page.cfm/Action=OSite/OSiteID=2/t=m" target="_self">2006 Exhibitor List</a><br>
-													
-												</font></font></font></font></font></font></td>
-												
-												<td background="http://www.londonbookfair.co.uk/g/template/g_rightfiller.gif"><img alt="" src="http://www.londonbookfair.co.uk/g/g_blank.gif" width="1" height="1" border="0"></td>
-											</tr>
-											<tr>
-												<td><img src="http://www.londonbookfair.co.uk/g/template/g_corner_bottomleft.gif" width="9" height="9" alt="" border="0"></td>
-												
-												<td background="http://www.londonbookfair.co.uk/g/template/g_bottomfiller.gif"><img alt="" src="http://www.londonbookfair.co.uk/g/g_blank.gif" width="1" height="1" border="0"></td>
-												<td><img src="http://www.londonbookfair.co.uk/g/template/g_corner_bottomright.gif" width="9" height="9" alt="" border="0"></td>
-											</tr>
-										</tbody></table>
-									</td>
-								</tr>
-							
-							<tr>
-								<td><img alt="" src="http://www.londonbookfair.co.uk/g/g_blank.gif" width="1" height="10"></td>
-							</tr>
-						</tbody></table>
-						<table border="0" cellpadding="0" cellspacing="0" align="center">
-						<!-- Start of the Right powerbar -->
-							
-							
-							
-		
-	
-		
-		
-			<!-- ** start of Market Focus Country 2007  panel (panel 1 on Right) -->
-		
-		
-		
-		
-		
-		
-		
-				
-					
-						
-						
-							
-							
-	
-	
-	
+	<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-2269150-1";
+urchinTracker();
+</script>
 
 	
 	
 	
 		
 		
-			
-			
-				
-			
-			
 		
-	
-	
 		
-		
-			
-				
-				
-			
-		
-	
-	
-
-
-
-
-							
-								
-								
-									
-			
-	
-		
-		
-	
-
-
-
-
-
-
-									
-									
-								
-							
-						
-					
-				
-			
-		
-		
-		
-		
-			<tbody><tr><td valign="top">
-		
-		
-		
-		
-		
-			
-			
-<table border="0" cellspacing="0" cellpadding="0" width="165">
-	<tbody><tr>
-		<td width="100%" height="20" colspan="3">
-			<table width="100%" border="0" cellpadding="0" cellspacing="0">
-				<tbody><tr>
-					<td valign="top" class="PanelTitle"><b><font face="Arial" size="2" class="PanelTitle">Market Focus Country 2007 </font></b></td>
-				</tr>
-			</tbody></table>
-		</td>
-	</tr>
-	<tr>
-		<td><img src="http://www.londonbookfair.co.uk/g/template/g_corner_topleft.gif" width="9" height="9" alt="" border="0"></td>
-		<td background="http://www.londonbookfair.co.uk/g/template/g_Topfiller.gif" width="100%"><img alt="" src="http://www.londonbookfair.co.uk/g/g_blank.gif" width="1" height="1" border="0"></td>
-		<td><img src="http://www.londonbookfair.co.uk/g/template/g_corner_topright.gif" width="9" height="9" alt="" border="0"></td>
-	</tr>
-	<tr>
-		<td background="http://www.londonbookfair.co.uk/g/template/g_Leftfiller.gif"><img alt="" src="http://www.londonbookfair.co.uk/g/g_blank.gif" width="1" height="1" border="0"></td>
-		<td width="100%" bgcolor="#FFFFFF" bordercolor="#FFFFFF">
-			<table width="100%" border="0" cellpadding="0" cellspacing="0">
-				<tbody><tr>
-					<td valign="top" class="Panel"><table border="0" cellspacing="0" cellpadding="0" width="100%"><tbody><tr><td height="91" align="center" id="ImgRotator_1"><a href="http://www.londonbookfair.co.uk/page.cfm/LinkTarget=00171/URLTarget=http://www.londonbookfair.co.uk/page.cfm/Link=0/t=m" target="_self" id="ImgRotatorHref_1"><img src="http://www.londonbookfair.co.uk/g/logos/logo_spain_market_focus_150.jpg" width="150" height="91" alt="market focus spain" border="0" id="ImgRotatorImg_1"></a></td></tr></tbody></table></td>
-				</tr>
-			</tbody></table>
-		</td>
-		<td background="http://www.londonbookfair.co.uk/g/template/g_rightfiller.gif"><img alt="" src="http://www.londonbookfair.co.uk/g/g_blank.gif" width="1" height="1" border="0"></td>
-	</tr>
-	<tr>
-		<td><img src="http://www.londonbookfair.co.uk/g/template/g_corner_bottomleft.gif" width="9" height="9" alt="" border="0"></td>
-		<td background="http://www.londonbookfair.co.uk/g/template/g_bottomfiller.gif"><img alt="" src="http://www.londonbookfair.co.uk/g/g_blank.gif" width="1" height="1" border="0"></td>
-		<td><img src="http://www.londonbookfair.co.uk/g/template/g_corner_bottomright.gif" width="9" height="9" alt="" border="0"></td>
-	</tr>
-</tbody></table> 
-
-
-
-
-
-
-			
-			
-		
-		
-		
-		
-			
-			<!-- Spacer Break --><img src="http://www.londonbookfair.co.uk/g/g_blank.gif" width="165" height="5" alt=""><br>
-			
-			
-			
-				
-					</td></tr>
-				
-				<!-- ** end of Market Focus Country 2007  panel (panel 1 on Right) -->
-			
-			
-			
-			
-		
-	
-		
-	
-		
-		
-			<!-- ** start of Sponsored by: panel (panel 2 on Right) -->
-		
-		
-		
-		
-		
-		
-		
-				
-					
-						
-						
-							
-							
-	
-	
-	
-
-	
-	
-	
-		
-		
-			
-			
-				
-			
-			
-		
-	
-	
-		
-		
-			
-				
-				
-			
-		
-	
-	
-
-
-
-
-							
-								
-								
-									
-			
-	
-		
-		
-	
-
-
-
-
-
-
-									
-									
-								
-							
-						
-					
-				
-			
-		
-		
-		
-		
-			<tr><td valign="top">
-		
-		
-		
-		
-		
-			
-			
-<table border="0" cellspacing="0" cellpadding="0" width="165">
-	<tbody><tr>
-		<td width="100%" height="20" colspan="3">
-			<table width="100%" border="0" cellpadding="0" cellspacing="0">
-				<tbody><tr>
-					<td valign="top" class="PanelTitle"><b><font face="Arial" size="2" class="PanelTitle">Sponsored by:</font></b></td>
-				</tr>
-			</tbody></table>
-		</td>
-	</tr>
-	<tr>
-		<td><img src="http://www.londonbookfair.co.uk/g/template/g_corner_topleft.gif" width="9" height="9" alt="" border="0"></td>
-		<td background="http://www.londonbookfair.co.uk/g/template/g_Topfiller.gif" width="100%"><img alt="" src="http://www.londonbookfair.co.uk/g/g_blank.gif" width="1" height="1" border="0"></td>
-		<td><img src="http://www.londonbookfair.co.uk/g/template/g_corner_topright.gif" width="9" height="9" alt="" border="0"></td>
-	</tr>
-	<tr>
-		<td background="http://www.londonbookfair.co.uk/g/template/g_Leftfiller.gif"><img alt="" src="http://www.londonbookfair.co.uk/g/g_blank.gif" width="1" height="1" border="0"></td>
-		<td width="100%" bgcolor="#FFFFFF" bordercolor="#FFFFFF">
-			<table width="100%" border="0" cellpadding="0" cellspacing="0">
-				<tbody><tr>
-					<td valign="top" class="Panel"><table border="0" cellspacing="0" cellpadding="0" width="100%"><tbody><tr><td height="80" align="center" id="ImgRotator_2"><a href="http://www.londonbookfair.co.uk/page.cfm/LinkTarget=00150/URLTarget=http://www.londonbookfair.co.uk/page.cfm/Link=0/t=m" target="_self" id="ImgRotatorHref_2"><img src="http://www.londonbookfair.co.uk/g/logos/logo_ba.gif" width="80" height="80" alt="" border="0" id="ImgRotatorImg_2"></a></td></tr></tbody></table></td>
-				</tr>
-			</tbody></table>
-		</td>
-		<td background="http://www.londonbookfair.co.uk/g/template/g_rightfiller.gif"><img alt="" src="http://www.londonbookfair.co.uk/g/g_blank.gif" width="1" height="1" border="0"></td>
-	</tr>
-	<tr>
-		<td><img src="http://www.londonbookfair.co.uk/g/template/g_corner_bottomleft.gif" width="9" height="9" alt="" border="0"></td>
-		<td background="http://www.londonbookfair.co.uk/g/template/g_bottomfiller.gif"><img alt="" src="http://www.londonbookfair.co.uk/g/g_blank.gif" width="1" height="1" border="0"></td>
-		<td><img src="http://www.londonbookfair.co.uk/g/template/g_corner_bottomright.gif" width="9" height="9" alt="" border="0"></td>
-	</tr>
-</tbody></table> 
-
-
-
-
-
-
-			
-			
-		
-		
-		
-		
-			
-			<!-- Spacer Break --><img src="http://www.londonbookfair.co.uk/g/g_blank.gif" width="165" height="5" alt=""><br>
-			
-			
-			
-				
-					</td></tr>
-				
-				<!-- ** end of Sponsored by: panel (panel 2 on Right) -->
-			
-			
-			
-			
-		
-	
-		
-	
-		
-		
-			<!-- ** start of Other Events panel (panel 3 on Right) -->
-		
-		
-		
-		
-		
-		
-		
-				
-					
-						
-						
-							
-							
-	
-	
-	
-
-	
-	
-	
-		
-		
-			
-			
-				
-			
-			
-		
-	
-	
-		
-		
-			
-				
-				
-			
-		
-	
-	
-
-
-
-
-							
-								
-								
-									
-			
-	
-		
-		
-	
-
-
-
-
-
-
-									
-									
-								
-							
-						
-					
-				
-			
-		
-		
-		
-		
-			<tr><td valign="top">
-		
-		
-		
-		
-		
-			
-			
-<table border="0" cellspacing="0" cellpadding="0" width="165">
-	<tbody><tr>
-		<td width="100%" height="20" colspan="3">
-			<table width="100%" border="0" cellpadding="0" cellspacing="0">
-				<tbody><tr>
-					<td valign="top" class="PanelTitle"><b><font face="Arial" size="2" class="PanelTitle">Other Events</font></b></td>
-				</tr>
-			</tbody></table>
-		</td>
-	</tr>
-	<tr>
-		<td><img src="http://www.londonbookfair.co.uk/g/template/g_corner_topleft.gif" width="9" height="9" alt="" border="0"></td>
-		<td background="http://www.londonbookfair.co.uk/g/template/g_Topfiller.gif" width="100%"><img alt="" src="http://www.londonbookfair.co.uk/g/g_blank.gif" width="1" height="1" border="0"></td>
-		<td><img src="http://www.londonbookfair.co.uk/g/template/g_corner_topright.gif" width="9" height="9" alt="" border="0"></td>
-	</tr>
-	<tr>
-		<td background="http://www.londonbookfair.co.uk/g/template/g_Leftfiller.gif"><img alt="" src="http://www.londonbookfair.co.uk/g/g_blank.gif" width="1" height="1" border="0"></td>
-		<td width="100%" bgcolor="#FFFFFF" bordercolor="#FFFFFF">
-			<table width="100%" border="0" cellpadding="0" cellspacing="0">
-				<tbody><tr>
-					<td valign="top" class="Panel"><table border="0" cellspacing="0" cellpadding="0" width="100%"><tbody><tr><td height="103" align="center" id="ImgRotator_3"><a href="http://www.londonbookfair.co.uk/page.cfm/LinkTarget=00151/URLTarget=http://www.londonbookfair.co.uk/page.cfm/Link=0/t=m" target="_self" id="ImgRotatorHref_3"><img src="http://www.londonbookfair.co.uk/g/logos/logo_bookexpo_america07.jpg" width="81" height="103" alt="Book Expo America" border="0" id="ImgRotatorImg_3"></a></td></tr></tbody></table></td>
-				</tr>
-			</tbody></table>
-		</td>
-		<td background="http://www.londonbookfair.co.uk/g/template/g_rightfiller.gif"><img alt="" src="http://www.londonbookfair.co.uk/g/g_blank.gif" width="1" height="1" border="0"></td>
-	</tr>
-	<tr>
-		<td><img src="http://www.londonbookfair.co.uk/g/template/g_corner_bottomleft.gif" width="9" height="9" alt="" border="0"></td>
-		<td background="http://www.londonbookfair.co.uk/g/template/g_bottomfiller.gif"><img alt="" src="http://www.londonbookfair.co.uk/g/g_blank.gif" width="1" height="1" border="0"></td>
-		<td><img src="http://www.londonbookfair.co.uk/g/template/g_corner_bottomright.gif" width="9" height="9" alt="" border="0"></td>
-	</tr>
-</tbody></table> 
-
-
-
-
-
-
-			
-			
-		
-		
-		
-		
-			
-			<!-- Spacer Break --><img src="http://www.londonbookfair.co.uk/g/g_blank.gif" width="165" height="5" alt=""><br>
-			
-			
-			
-				
-					</td></tr>
-				
-				<!-- ** end of Other Events panel (panel 3 on Right) -->
-			
-			
-			
-			
-		
-	
-
-							<!-- end of the Right powerbar -->
-						</tbody></table>
-					</td>
-				</tr>
-				<tr>
-					<td colspan="3"><img alt="" src="http://www.londonbookfair.co.uk/g/g_blank.gif" width="1" height="10" border="0"></td>
-				</tr>
-			</tbody></table>
-			
-		</td>
-	</tr>
-</tbody></table>
-</div>
-</div>
-
-<a name="Foot"></a>
-
-
-	
-
-	
-
-
-
-		
-		
-		
-		
-	
-			<script language="JavaScript">
-			<!--
-				if (window != top)
-				{	top.location.replace('http://www.londonbookfair.co.uk/page.cfm');
-				}
-			//-->
-			</script>
-		
-
-
-
-
-
-</body></html>
+	</body></html>
