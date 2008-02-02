@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marvelheroes.com privacy policy that was archived on 2007-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071204095405id_/http%3A//www.marvelheroes.com/company/index.htm%3Fsub%3Dprivacy_current.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marvelheroes.com privacy policy that was archived on 2008-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080202231448id_/http%3A//www.marvelheroes.com/company/index.htm%3Fsub%3Dprivacy_current.htm) for the most accurate reproduction.*
 
 # 
 
