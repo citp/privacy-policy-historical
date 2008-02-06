@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phpfreaks.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227113109id_/http%3A//www.phpfreaks.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phpfreaks.com privacy policy that was archived on 2008-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080206082808id_/http%3A//www.phpfreaks.com/privacy.php) for the most accurate reproduction.*
 
 # PHP Help: Privacy Policy
 
@@ -53,7 +53,7 @@ phpfreaks.com will only collect enough information about yourself in a profile t
 **Sponsors**
 
   
-[](http://www.serverpowered.com/vps.php "PHP VPS")
+[](http://www.webhostfreaks.com/ "PHP Web Hosting")
 
 * * *
 
