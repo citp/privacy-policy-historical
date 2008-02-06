@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seek.co.nz privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213030648id_/http%3A//www.seek.co.nz/general_id_items/content/privacy.ascx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seek.co.nz privacy policy that was archived on 2008-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080206233113id_/http%3A//www.seek.co.nz/general_id_items/content/privacy.ascx) for the most accurate reproduction.*
 
 # SEEK - Privacy Statement
 
@@ -54,7 +54,7 @@ SEEK provides links to other sites. SEEK is not responsible for the privacy prac
 SEEK syndicates its content to, and distributes its content through, other sites on the Internet. Your activity on these sites is covered by the privacy statement on the site in question. 
   6. ## Delete/Unsubscribe Information
 
-To cancel your SEEK registration, simply send an email to [userhelp@seek.com.au](mailto:userhelp@seek.com.au?subject=Delete%20my%20registration%20with%20SEEK) with 'Delete my registration with SEEK' in the subject line. Please include the username for your account in the body of the email. 
+To cancel your SEEK registration, simply send an email to [userhelp@seek.co.nz](mailto:userhelp@seek.co.nz?subject=Delete%20my%20registration%20with%20SEEK) with 'Delete my registration with SEEK' in the subject line. Please include the username for your account in the body of the email. 
   7. ## Change/Modify Information
 
 You can change or modify information previously provided from your [My Account](https://web.archive.org/myseek/MyAccount.ascx) page. For more information visit [SEEK Help](https://web.archive.org/seek_help.asp). 
