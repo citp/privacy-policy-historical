@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snapfish.com.au privacy policy that was archived on 2007-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071208125414id_/http%3A//www.snapfish.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snapfish.com.au privacy policy that was archived on 2008-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080207095357id_/http%3A//www.snapfish.com.au/privacy) for the most accurate reproduction.*
 
 # Snapfish:About Us:Privacy
 
