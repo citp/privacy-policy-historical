@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the thefilter.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210113026id_/http%3A//www.thefilter.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefilter.com privacy policy that was archived on 2008-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080208182852id_/http%3A//www.thefilter.com/privacy.aspx) for the most accurate reproduction.*
 
 # The Filter - Privacy Policy
 
 ... 
 
-|  |  [ ](https://web.archive.org/web/20071210113026id_/http%3A//www.thefilter.com/default.aspx) |  |  [ ](https://web.archive.org/web/20071210113026id_/http%3A//www.thefilter.com/download.aspx) |  [ ](https://web.archive.org/web/20071210113026id_/http%3A//www.thefilter.com/help.aspx) | 
+|  |  [ ](https://web.archive.org/web/20080208182852id_/http%3A//www.thefilter.com/default.aspx) |  |  [ ](https://web.archive.org/web/20080208182852id_/http%3A//www.thefilter.com/download.aspx) |  [ ](https://web.archive.org/web/20080208182852id_/http%3A//www.thefilter.com/help.aspx) | 
 
-[](https://web.archive.org/web/20071210113026id_/http%3A//www.thefilter.com/default.aspx)
+[](https://web.archive.org/web/20080208182852id_/http%3A//www.thefilter.com/default.aspx)
 
 |  |   |  |  |   
 ---|---|---|---|---|---|---|---|---|---  
