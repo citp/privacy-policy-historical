@@ -1,17 +1,23 @@
-<!--The following is the downloaded HTML source of the newbalance.com.au privacy policy that was archived on 2007-10-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071029132045id_/http%3A//www.newbalance.com.au/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the newbalance.com.au privacy policy that was archived on 2008-02-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080208161223id_/http%3A//www.newbalance.com.au/%3Fsite%3Dprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" id="newbalance"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
 <title>New Balance::NBX</title>
-<style type="text/css">@import url('css/default.css');</style>
-<style type="text/css">@import url('css/events.css');</style>
-<!--[if IE 7]><style type="text/css">@import url('css/ie7.css');</style><![endif]-->
+
+<link rel="stylesheet" type="text/css" href="css/default.css">
 <script type="text/javascript" src="js/global.js"></script>
+<script type="text/javascript" src="js/swfobject.js"></script>
+<script type="text/javascript" src="js/overlib.js"><!-- overLIB (c) Erik Bosrup --></script>
+<!--[if lt IE 7]><script type="text/javascript" src="js/ie7-patch.js"></script><![endif]-->
 </head>
 
-<body bgcolor="#CCC5AF">
+<body onload="showMenu()">
 	<div id="outerwrapper">
-		<!-- First nav -->
+		<div class="leftshadow">&nbsp;</div>
+		<div class="rightshadow">&nbsp;</div>
+
 		<div class="topnav">
 			<div class="leftimg">&nbsp;</div>
 			<ul class="mainnav">
@@ -22,57 +28,51 @@
 					<ul>
 						<li><a class="footwear" href="#" onmouseover="javascript:document.getElementById('footwearUL').style.display='inline'; document.getElementById('apparelUL').style.display='none';">Footwear</a></li>
 						<li><a class="apparel" href="#" onmouseover="javascript:document.getElementById('footwearUL').style.display='none'; document.getElementById('apparelUL').style.display='inline';">Apparel</a></li>
-						<li><a class="accessories" href="/images/pdf/Apparel/accessories.pdf">Accessories</a></li>
 					</ul>
 				</li>
 			</ul>
 
 			<div class="rightimg">&nbsp;</div>
 			<ul class="utilitynav">
-				<li><a class="techcenter" href="http://www.newbalance.com/techcenter" target="_blank">Tech Center</a></li>
-				<li><a class="developmentsquad" href="devel.html">Development Squad</a></li>
-				<li><a class="events" href="events.html">Events</a></li>	
-		</ul>
+				<li><a class="techcenter" href="?site=techcenter">Tech Center</a></li>
+				<li><a class="developmentsquad" href="?site=devel">Development Squad</a></li>
+				<li><a class="events" href="?site=events">Events</a></li>
+			</ul>
 		</div>
-
+		
 		<!-- Secondary Nav -->
 		<div class="smallsecondnav">
-			<ul id="footwearUL">
-				<li><a class="runningTrail" href="/images/pdf/Shoes/Running-Trail.pdf">Running/Trail</a></li>
-				<li><a class="crossCountry" href="/images/pdf/Shoes/X-Training.pdf">Cross Country</a></li>
-				<li><a class="outdoor" href="/images/pdf/Shoes/Outdoor.pdf">Outdoor</a></li>
-				<li><a class="walking" href="/images/pdf/Shoes/Walking.pdf">Walking</a></li>
-				<li><a class="tennis" href="/images/pdf/Shoes/Tennis.pdf">Tennis</a></li>
-				<li><a class="netball" href="/images/pdf/Shoes/Netball.pdf">Netball</a></li>
-				<li><a class="kids" href="/images/pdf/Shoes/Kids.pdf">Kids</a></li>
-				<li><a class="dunhams" href="/images/pdf/Shoes/dunham.pdf">Dunham</a></li>
-			</ul>
-			<ul id="apparelUL">
-				<li><a class="men" onclick="javascript:mThrdSM('block'); wThrdSM('none');" href="#">Men</a></li>
-				<li id="mRunning"><a class="mRunning" href="/images/pdf/Apparel/mrunning.pdf">Running</a></li>
-				<li id="mSportTraining"><a class="mSportTraining" href="/images/pdf/Apparel/msport.pdf">Sport Training</a></li>
-				<li id="mFitness"><a class="mFitness" href="/images/pdf/Apparel/mfitness.pdf">Fitness</a></li>
-				<li id="mSeparates"><a class="mSeparates" href="/images/pdf/Apparel/mseparates.pdf">Separates</a></li>
-                        <li id="mTennis"><a class="mTennis" href="/images/pdf/Apparel/mtennis.pdf">Tennis</a></li>
-
-				<li><a class="women" onclick="javascript:wThrdSM('block'); mThrdSM('none')" href="#">Women</a></li>
-				<li id="wRunning"><a class="wRunning" href="/images/pdf/Apparel/wrunning.pdf">Running</a></li>
-				<li id="wSportTraining"><a class="wSportTraining" href="/images/pdf/Apparel/wsport.pdf">Sport Training</a></li>
-				<li id="wFitness"><a class="wFitness" href="/images/pdf/Apparel/wfitness.pdf">Fitness</a></li>
-				<li id="wSeparates"><a class="wSeparates" href="/images/pdf/Apparel/wseparates.pdf">Separates</a></li>
-                        <li id="wTennis"><a class="wTennis" href="/images/pdf/Apparel/wtennis.pdf">Tennis</a></li>
-
-				<li><a class="boys" href="/images/pdf/Apparel/boys.pdf">Boys</a></li>
-				<li><a class="girls" href="/images/pdf/Apparel/girls.pdf">Girls</a></li>
-			</ul>
+			<div id="footwearUL">
+				<a class="submenu" onclick="javascript:mThrdSM('block'); wThrdSM('none');">Men</a>
+				<a class="submenu2" id="mLandingPage" href="http://www.nbwebexpress.com.au/newbalance/footwear/men/" target="_blank">Landing Page</a>				
+				<a class="submenu2" id="mViewall" href="http://www.nbwebexpress.com.au/cat_listing.asp?select_size=8&amp;acc_gender=m&amp;type=FTMNAT&amp;selectSortOrder=POP" target="_blank">View all</a>
+				<a class="submenu2" id="mRunningTrail" href="http://www.nbwebexpress.com.au/footwear/men/running" target="_blank">Running/Trail</a>
+				<a class="submenu2" id="mCrossTraining" href="http://www.nbwebexpress.com.au/footwear/men/cross+training" target="_blank">Cross Training</a>
+				<a class="submenu2" id="mClassics" href="http://www.nbwebexpress.com.au/footwear/men/classic+_+retros" target="_blank">Classics</a>
+				<a class="submenu2" id="mWalking" href="http://www.nbwebexpress.com.au/footwear/men/walking" target="_blank">Walking</a>
+				<a class="submenu2" id="mTennis" href="http://www.nbwebexpress.com.au/footwear/men/tennis+_+court" target="_blank">Tennis</a>
+				<a class="submenu" onclick="javascript:wThrdSM('block'); mThrdSM('none')">Women</a>
+				<a class="submenu2" id="wLandingPage" href="http://www.nbwebexpress.com.au/newbalance/footwear/women/" target="_blank">Landing Page</a>				
+				<a class="submenu2" id="wViewall" href="http://www.nbwebexpress.com.au/cat_listing.asp?select_size=6&amp;acc_gender=w&amp;type=FTWMAT&amp;selectSortOrder=POP" target="_blank">View all</a>
+				<a class="submenu2" id="wCrossTraining" href="http://www.nbwebexpress.com.au/footwear/women/cross+training" target="_blank">Cross Training</a>
+				<a class="submenu2" id="wClassicRetro" href="http://www.nbwebexpress.com.au/footwear/women/classic+_+retros" target="_blank">Classic/Retro</a>
+				<a class="submenu2" id="wRunning" href="http://www.nbwebexpress.com.au/footwear/women/running" target="_blank">Running</a>
+				<a class="submenu2" id="wTennisCourt" href="http://www.nbwebexpress.com.au/footwear/women/tennis+_+court" target="_blank">Tennis/Court</a>
+				<a class="submenu2" id="wWalking" href="http://www.nbwebexpress.com.au/footwear/women/walking" target="_blank">Walking</a>
+				<a class="submenu2" id="wNetball" href="#">Netball</a>				
+				<a class="submenu" href="http://www.nbwebexpress.com.au/newbalance/footwear/kids/" target="_blank">Kids</a>
+			</div>
+			<div id="apparelUL">
+				<a class="submenu" href="http://www.nbwebexpress.com.au/newbalance/apparel/men/" target="_blank">Men</a>
+				<a class="submenu" href="http://www.nbwebexpress.com.au/newbalance/apparel/women/" target="_blank">Women</a>
+			</div>
 		</div>
-
+<div class="mainBox">
 		<!-- Main area -->
-
 		<div id="flashblock" class="imgblock">
 
-<div class="ev_txt">
-<div class="ev_subtxt">
+<div class="ev_txtE">
+<div class="ev_subtxtE">
 This Privacy Policy ("Privacy Policy") applies to the information collected on the pages of and by the services on the website located at "www.newbalance.com" (the "Service") operated by New Balance Athletic Shoe, Inc. ("New Balance", "we", "us", or "our"). New Balance is respectful of the privacy concerns of the visitors to the Service. New Balance also recognizes the valuable potential of technology to help people communicate with the companies whose web sites they visit, particularly through customer databases. Responsible use of the information you share with New Balance is paramount. In order to help you understand the role technology plays in the collection and use of information you provide to New Balance, New Balance has created the following privacy policy and guidelines. By using the Service or providing your contact information, you are agreeing to our practices concerning the collection and use of your information and to the terms of this Privacy Policy. If you do not agree with any terms or practices described in this Privacy Policy, please do not use the Service.<br><br>
 Because our business will continue to evolve, from time to time, our policies will be reviewed and may be revised. We reserve the right to change this Privacy Policy at any time and notify you by posting an updated version of the Privacy Policy on the Service or by sending an electronic mail message to you. It is your responsibility to periodically check this page so that you are aware of what information we collect, how we use it, and under what circumstances we might disclose it. The amended Privacy Policy will apply between us whether or not we have given you specific notice of any change.<br><br>
 NON-PERSONALLY IDENTIFIABLE INFORMATION<br><br>
@@ -100,9 +100,12 @@ Boston, MA 02135-2088<br>
 </div>
 </div>
 </div>
+</div>
+
+
 		<!-- Footer elements -->
 		<div class="floatingangle">&nbsp;</div>
-		<div class="footer" style="text-align: left">
+		<div class="footer">
 			<div class="shadow">&nbsp;</div>
 			<img class="textlogo" src="images/basicelements/footer/textlogo.gif" width="131" height="10" alt="achieve new balance ©">
 			<ul class="normalfooter">
@@ -116,35 +119,37 @@ Boston, MA 02135-2088<br>
 				</li>
 				<li class="helpful"><img src="images/basicelements/footer/helpfullinks.gif" width="76" height="12" alt="Helpful Links">
 					<ul>
-						<li><a href="/locator/locator.html">+ Find a store</a></li>
-						<li><a href="http://www.newbalancestore.com.au" target="_blank">+ Online store</a></li>
-						<li class="invisible">&nbsp;</li>
+						<li><a href="?site=locator">+ Find a store</a></li>
+						<li><a href="http://www.nbwebexpress.com.au" target="_blank">+ Online store</a></li>
+						<li><a href="?site=outlets">+ Factory Outlets</a></li>
 						<li class="invisible">&nbsp;</li>
 					</ul>
 				</li>
 				<li class="othersites"><img src="images/basicelements/footer/othersites.gif" width="63" height="12" alt="Other Sites">
 					<ul>
 						<li><a href="http://www.dunhamfits.com" target="_blank">+ Dunham</a></li>
-						<li><a href="http://www.574hungrydragon.com" target="_blank">+ NB 574 Hungry Dragon</a></li>
-						<li><a href="http://www.nbrunningpassport.com" target="_blank">+ Running Passport</a></li>
-                                    <li class="invisible">&nbsp;</li>
+                        <li class="invisible">&nbsp;</li>
+						<li class="invisible">&nbsp;</li>
+						<li class="invisible">&nbsp;</li>
 						<li class="invisible">&nbsp;</li>
 					</ul>
 				</li>
 			</ul>
 
 		</div>
-
+		
 		<!-- Secondary Footer Elements -->
 		<div class="floatingangle">&nbsp;</div>
 		<div class="footer">
 			<div class="shadow">&nbsp;</div>
 			<ul class="landinglinks">
-				<li><a href="privacy.html">+ Privacy &amp; security</a></li>
-				<li><a href="terms.html">+ Terms &amp; conditions</a></li>
+				<li><a href="?site=privacy">+ Privacy &amp; security</a></li>
+				<li><a href="?site=terms">+ Terms &amp; conditions</a></li>
 			</ul>
 		</div>
 		<div class="endingangle">&nbsp;</div>
+
+
 
 	<div class="bottomspace">&nbsp;</div>
 	</div>
