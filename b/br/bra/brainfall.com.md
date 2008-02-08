@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brainfall.com privacy policy that was archived on 2007-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071016065705id_/http%3A//www.brainfall.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brainfall.com privacy policy that was archived on 2008-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080208165732id_/http%3A//www.brainfall.com/privacy.php) for the most accurate reproduction.*
 
 # BrainFall.com - Personality Tests for College Students
 
