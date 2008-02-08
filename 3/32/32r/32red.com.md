@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 32red.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214092226id_/http%3A//www.32red.com/file/774797017b79edc7e4bc6bb4c42444e4/32red-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 32red.com privacy policy that was archived on 2008-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080208132018id_/http%3A//www.32red.com/file/774797017b79edc7e4bc6bb4c42444e4/32red-privacy-policy.html) for the most accurate reproduction.*
 
 # 32Red Banking & Security - UK Online Casino - 32Red.com -
 
