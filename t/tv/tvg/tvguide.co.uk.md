@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tvguide.co.uk privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211233849id_/http%3A//www.tvguide.co.uk/privacy.asp%3Fthistime%3D%26thisDay%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvguide.co.uk privacy policy that was archived on 2008-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080208134116id_/http%3A//www.tvguide.co.uk/privacy.asp) for the most accurate reproduction.*
 
-# TVGuide.co.uk - Privacy Policy
+# Advertise on TVGuide.co.uk - TV Guide UK TV Listings
 
 This Policy identifies our current privacy policy with respect to any information you enter on our site www.tvguide.co.uk and any information derived whilst you are visiting our site. This policy applies to every visitor to our site.
 
@@ -28,7 +28,5 @@ From time to time we may hyperlink to other Web sites on the Internet, if TV Gui
 
 You do not need to register to use the public part of this site.
 
-**Do you place a cookie on my computer?**  
-When you visit our website, we may store some information on your computer. This information will be in the form of a "Cookie" or similar file and can help us in many ways. For example, Cookies allow us to tailor a website to better match your interests and preferences. With most Internet Browsers, you can erase Cookies from your computer hard drive, block all Cookies or receive a warning before a Cookie is stored. Please refer to your Browser instructions or help screen to learn more about these functions.
-
-If you have any further question regarding our policy please send an email to [info@tvguide.co.uk](mailto:info@tvguide.co.uk)
+  
+When you visit our website, we may store some information on your computer. This information will be in the form of a "Cookie" or similar file and can help us in many ways. For example, Cookies allow us to tailor a website to better match your interests and preferences. With most Internet Browsers, you can erase Cookies from your computer hard drive, block all Cookies or receive a warning before a Cookie is stored. Please refer to your Browser instructions or help screen to learn more about these functions. If you have any further question regarding our policy please contact us using the form at the bottom of our [feedback page](https://web.archive.org/comments.asp)
