@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the historynet.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210160614id_/http%3A//www.historynet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the historynet.com privacy policy that was archived on 2008-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080208231750id_/http%3A//www.historynet.com/privacy) for the most accurate reproduction.*
 
 # TheHistoryNet | Privacy Policy
 
@@ -10,7 +10,7 @@
   
 
 
-Is history being given short shrift as a classroom subject? 
+Which of these battles was the most important in terms of its lasting impact? 
 
   
 [](https://web.archive.org/picture_of_the_day)
