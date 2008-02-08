@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the handhelditems.com privacy policy that was archived on 2007-12-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071208122337id_/http%3A//www.handhelditems.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the handhelditems.com privacy policy that was archived on 2008-02-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080208232746id_/http%3A//www.handhelditems.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html dir="LTR" lang="en"><head>
 <!-- <script language="JavaScript" src="https://secure.comodo.net/trustlogo/javascript/trustlogo.js" type="text/javascript">
@@ -12,15 +12,13 @@
   <meta name="robots" content="index,follow">
   <meta name="Reply-to" content="sales@handhelditems.com">
 <!-- EOF: Generated Meta Tags -->
-<base href="https://www.handhelditems.com/">
+<base href="http://www.handhelditems.com/">
 <link rel="icon" href="favicon.ico" type="image/x-icon"> 
 <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
-<link rel="stylesheet" type="text/css" href="templates/osC/stylesheet.css">
-<link rel="stylesheet" type="text/css" href="templates/osC/stylesheet-org.css">
-<link rel="stylesheet" type="text/css" href="templates/osC/print.css" media="print">
-<style type="text/css" media="screen">
-@import url("handheld_header.css");
-</style>
+<link rel="stylesheet" type="text/css" href="stylesheet.css">
+<link rel="stylesheet" type="text/css" href="stylesheet-org.css">
+<link rel="stylesheet" type="text/css" href="print.css" media="print">
+<link rel="stylesheet" type="text/css" href="handheld_header.css" media="screen">
 <meta name="city" content="Walnut"> 
 <meta name="state" content="CA">
 <meta name="revisit-after" content="15 days">
@@ -294,6 +292,11 @@ function showMark(n) {
     }
   }
 }
+
+
+function CVVPopUpWindow(url) {
+	window.open(url,'popupWindow','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=no,copyhistory=no,width=600,height=240,screenX=150,screenY=150,top=150,left=150')
+}
 //-->
 </script>
 <style>
@@ -303,10 +306,19 @@ a.linkSeachBar:hover { color: #EFEFEF; text-decoration: underline; }
 //-->
 </style>
 
-<script src="ajax-stuff/handheld-ajax.js" type="text/javascript"></script><script src="player/images/swfobj.js" type="text/javascript"></script></head>
+<script src="ajax-stuff/handheld-ajax.js" type="text/javascript"></script><script src="player/images/swfobj.js" type="text/javascript"></script><script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script><script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-3407142-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script></head>
 
 
-<body>
+
+
+<body width="100%">
 <!-- warnings //-->
 <!-- warning_eof //-->
 <!-- header //-->
@@ -316,13 +328,15 @@ a.linkSeachBar:hover { color: #EFEFEF; text-decoration: underline; }
 	  <table width="100%" border="0" cellpadding="0" cellspacing="0" style="clear:both;">
 		<tbody><tr>
 		  <td id="Logo" width="40%">
-		    <table border="0" cellpadding="0" cellspacing="0" style="clear:both;">
+		    
+			<table border="0" cellpadding="0" cellspacing="0" style="clear:both;">
 			  <tbody><tr>
-			    <td><img src="images/header/holiday-christmas.gif">&nbsp;</td>
-				<td><a href="http://www.handhelditems.com"><img src="images/header/handheld_holida_logo.gif" border="0" width="190" height="75"></a></td>
-				<td width="32" align="center"><img src="images/header/frosty_holiday.gif"></td>
+			    <td width="50" align="center">&nbsp;</td>
+				<td><a href="http://www.handhelditems.com"><img src="images/header/handheld_logo.gif" border="0" width="190" height="75"></a></td>
+				<td>&nbsp;</td>
 			  </tr>
 			</tbody></table>
+			
 		  </td>
 		  
 
@@ -467,9 +481,9 @@ a.linkSeachBar:hover { color: #EFEFEF; text-decoration: underline; }
 		
 <script type="text/javascript">
 <!--
-	var nowTime = '1197116603';
-	var frameTime = '86400';
-	var startTime = '74209';
+	var nowTime = '1202513243';
+	var frameTime = '604800';
+	var startTime = '298843';
 	var timerID = null;
 	var timerRunning = true;
 	var delay = 1000;
@@ -497,6 +511,29 @@ a.linkSeachBar:hover { color: #EFEFEF; text-decoration: underline; }
 
 	function OutputRestTime(t){
 		if(t > 0){
+			var d = Math.floor(t/86400);
+			t = t - d * 86400;
+
+			var h = Math.floor(t/3600);
+			var m = Math.floor((t - h * 3600) / 60);
+			var s = t - h*3600 - m*60;
+			
+			
+			var th = (h < 10) ? '0' : '';
+			var tm = (m < 10) ? '0' : '';
+			var ts = (s < 10) ? '0' : '';
+			
+			if(d > 0){
+				if(d > 1){
+					document.getElementById("idTimeRest").innerHTML = d + ' days<br/> ' + th + h + ':' + tm + m + ':' + ts + s;
+				}else{
+					document.getElementById("idTimeRest").innerHTML = d + ' day<br/> ' + th + h + ':' + tm + m + ':' + ts + s;
+				}
+			}else{
+				document.getElementById("idTimeRest").innerHTML = th + h + ':' + tm + m + ':' + ts + s;
+			}
+
+			/*
 			var h = Math.floor(t/3600);
 			var m = Math.floor((t - h * 3600) / 60);
 			var s = t - h*3600 - m*60;
@@ -507,6 +544,7 @@ a.linkSeachBar:hover { color: #EFEFEF; text-decoration: underline; }
 			var ts = (s < 10) ? '0' : '';
 
 			document.getElementById("idTimeRest").innerHTML = th + h + ':' + tm + m + ':' + ts + s;
+			*/
 		}else{
 			StopTheClock();
 		}
@@ -551,7 +589,7 @@ a.linkSeachBar:hover { color: #EFEFEF; text-decoration: underline; }
 		  <tbody><tr><td width="100%">
 			<table width="100%" border="0" cellpadding="0" cellspacing="0">
 		  
-<tbody><tr><td colspan="2"><font face="Verdana" style="font-size: 12">•&nbsp;<a href="http://www.handhelditems.com/cellular-unlock-cellular-phones-c-3524_5266.html">Unlock Cellular Phones</a></font></td></tr><tr><td colspan="2"><font face="Verdana" style="font-size: 12">•&nbsp;<a href="http://www.handhelditems.com/cellular-motorola-c-3524_4179.html">Motorola</a></font></td></tr><tr><td colspan="2"><font face="Verdana" style="font-size: 12">•&nbsp;<a href="http://www.handhelditems.com/iphone-c-4_5165.html">Apple iPhone</a></font></td></tr><tr><td colspan="2"><font face="Verdana" style="font-size: 12">•&nbsp;<a href="http://www.handhelditems.com/cellular-samsung-c-3524_3773.html">Samsung</a></font></td></tr><tr><td colspan="2"><font face="Verdana" style="font-size: 12">•&nbsp;<a href="http://www.handhelditems.com/cellular-nokia-c-3524_3832.html">Nokia</a></font></td></tr><tr><td colspan="2"><font face="Verdana" style="font-size: 12">•&nbsp;<a href="http://www.handhelditems.com/cellular-sony-ericsson-c-3524_3583.html">Sony Ericsson</a></font></td></tr><tr><td colspan="2"><font face="Verdana" style="font-size: 12">•&nbsp;<a href="http://www.handhelditems.com/cellular-blackberry-c-3524_4862.html">BlackBerry</a></font></td></tr><tr><td colspan="2"><font face="Verdana" style="font-size: 12">•&nbsp;<a href="http://www.handhelditems.com/cellular-lg-c-3524_4365.html">LG</a></font></td></tr><tr><td colspan="2"><font face="Verdana" style="font-size: 12">•&nbsp;<a href="http://www.handhelditems.com/cellular-palm-treo-c-3524_4942.html">Palm Treo</a></font></td></tr><tr><td colspan="2"><font face="Verdana" style="font-size: 12">•&nbsp;<a href="http://www.handhelditems.com/cellular-htc-c-3524_5132.html">HTC</a></font></td></tr><tr><td colspan="2"><font face="Verdana" style="font-size: 12">•&nbsp;<a href="http://www.handhelditems.com/cellular-siemens-c-3524_3677.html">Siemens</a></font></td></tr><tr><td colspan="2"><font face="Verdana" style="font-size: 12">•&nbsp;<a href="http://www.handhelditems.com/cellular-audiovox-c-3524_3544.html">Audiovox</a></font></td></tr><tr><td colspan="2"><font face="Verdana" style="font-size: 12">•&nbsp;<a href="http://www.handhelditems.com/cellular-sanyo-c-3524_4548.html">Sanyo</a></font></td></tr><tr><td colspan="2"><font face="Verdana" style="font-size: 12">•&nbsp;<a href="http://www.handhelditems.com/cellular-nextel-c-3524_4923.html">Nextel</a></font></td></tr><tr><td colspan="2"><font face="Verdana" style="font-size: 12">•&nbsp;<a href="http://www.handhelditems.com/cellular-danger-c-3524_4959.html">Danger Sidekick</a></font></td></tr><tr><td colspan="2"><font face="Verdana" style="font-size: 12">•&nbsp;<a href="http://www.handhelditems.com/cellular-qualcomm-kyocera-c-3524_4950.html">Qualcomm / Kyocera</a></font></td></tr><tr><td colspan="2"><font face="Verdana" style="font-size: 12">•&nbsp;<a href="http://www.handhelditems.com/cellular-bluetooth-headsets-c-3524_4911.html">Bluetooth</a></font></td></tr><tr><td colspan="2"><font face="Verdana" style="font-size: 12">•&nbsp;<a href="http://www.handhelditems.com/cellular-universal-accessories-c-3524_5135.html">Universal Cellphone Accessories</a></font></td></tr>	
+<tbody><tr><td colspan="2"><font face="Verdana" style="font-size: 12">•&nbsp;<a href="http://www.handhelditems.com/cellular-unlock-cellular-phones-c-3524_5266.html">Unlock Cellular Phones</a></font></td></tr><tr><td colspan="2"><font face="Verdana" style="font-size: 12">•&nbsp;<a href="http://www.handhelditems.com/cellular-motorola-c-3524_4179.html">Motorola</a></font></td></tr><tr><td colspan="2"><font face="Verdana" style="font-size: 12">•&nbsp;<a href="http://www.handhelditems.com/iphone-c-4_5165.html">Apple iPhone</a></font></td></tr><tr><td colspan="2"><font face="Verdana" style="font-size: 12">•&nbsp;<a href="http://www.handhelditems.com/cellular-samsung-c-3524_3773.html">Samsung</a></font></td></tr><tr><td colspan="2"><font face="Verdana" style="font-size: 12">•&nbsp;<a href="http://www.handhelditems.com/cellular-nokia-c-3524_3832.html">Nokia</a></font></td></tr><tr><td colspan="2"><font face="Verdana" style="font-size: 12">•&nbsp;<a href="http://www.handhelditems.com/cellular-sony-ericsson-c-3524_3583.html">Sony Ericsson</a></font></td></tr><tr><td colspan="2"><font face="Verdana" style="font-size: 12">•&nbsp;<a href="http://www.handhelditems.com/cellular-blackberry-c-3524_4862.html">BlackBerry</a></font></td></tr><tr><td colspan="2"><font face="Verdana" style="font-size: 12">•&nbsp;<a href="http://www.handhelditems.com/cellular-lg-c-3524_4365.html">LG</a></font></td></tr><tr><td colspan="2"><font face="Verdana" style="font-size: 12">•&nbsp;<a href="http://www.handhelditems.com/cellular-palm-treo-c-3524_4942.html">Palm Treo</a></font></td></tr><tr><td colspan="2"><font face="Verdana" style="font-size: 12">•&nbsp;<a href="http://www.handhelditems.com/cellular-htc-c-3524_5132.html">HTC</a></font></td></tr><tr><td colspan="2"><font face="Verdana" style="font-size: 12">•&nbsp;<a href="http://www.handhelditems.com/cellular-siemens-c-3524_3677.html">Siemens</a></font></td></tr><tr><td colspan="2"><font face="Verdana" style="font-size: 12">•&nbsp;<a href="http://www.handhelditems.com/cellular-audiovox-c-3524_3544.html">Audiovox</a></font></td></tr><tr><td colspan="2"><font face="Verdana" style="font-size: 12">•&nbsp;<a href="http://www.handhelditems.com/cellular-sanyo-c-3524_4548.html">Sanyo</a></font></td></tr><tr><td colspan="2"><font face="Verdana" style="font-size: 12">•&nbsp;<a href="http://www.handhelditems.com/cellular-nextel-c-3524_4923.html">Nextel</a></font></td></tr><tr><td colspan="2"><font face="Verdana" style="font-size: 12">•&nbsp;<a href="http://www.handhelditems.com/cellular-hp-c-3524_5353.html">HP</a></font></td></tr><tr><td colspan="2"><font face="Verdana" style="font-size: 12">•&nbsp;<a href="http://www.handhelditems.com/cellular-danger-c-3524_4959.html">Danger Sidekick</a></font></td></tr><tr><td colspan="2"><font face="Verdana" style="font-size: 12">•&nbsp;<a href="http://www.handhelditems.com/cellular-qualcomm-kyocera-c-3524_4950.html">Qualcomm / Kyocera</a></font></td></tr><tr><td colspan="2"><font face="Verdana" style="font-size: 12">•&nbsp;<a href="http://www.handhelditems.com/cellular-bluetooth-headsets-c-3524_4911.html">Bluetooth</a></font></td></tr><tr><td colspan="2"><font face="Verdana" style="font-size: 12">•&nbsp;<a href="http://www.handhelditems.com/cellular-universal-accessories-c-3524_5135.html">Universal Cellphone Accessories</a></font></td></tr>	
 			</tbody></table></td>
 		  </tr>
 		</tbody></table>
@@ -1166,7 +1204,7 @@ a.linkSeachBar:hover { color: #EFEFEF; text-decoration: underline; }
 
 		  <tr>
 			<td class="main" align="center">
-			  <a href="http://www.handhelditems.com/slingshot-flying-chicken-with-scream-sound-p-5034.html"><img src="images/banners/chickenbanner_right.jpg" border="0"></a>
+			  <a href="http://www.handhelditems.com/slingshot-flying-with-oink-sound-p-5061.html"><img src="images/banners/pigbanner_right.jpg" border="0"></a>
 			</td>
 		  </tr>
 
@@ -1389,7 +1427,7 @@ a.linkSeachBar:hover { color: #EFEFEF; text-decoration: underline; }
   </tr>
 
   <tr>
-    <td style="text-align: right; background-color: #534BD4; height: 16px;"><font face="Verdana" style="font-size: 12px" color="#FFFFFF">&nbsp;Saturday 08 December, 2007&nbsp;&nbsp;</font></td>
+    <td style="text-align: right; background-color: #534BD4; height: 16px;"><font face="Verdana" style="font-size: 12px" color="#FFFFFF">&nbsp;Friday 08 February, 2008&nbsp;&nbsp;</font></td>
   </tr>
   
   <tr>
