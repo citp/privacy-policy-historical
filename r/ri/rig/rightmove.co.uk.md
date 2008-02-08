@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rightmove.co.uk privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011040317id_/http%3A//www.rightmove.co.uk/privacy.rsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rightmove.co.uk privacy policy that was archived on 2008-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080209001708id_/http%3A//www.rightmove.co.uk/privacy.rsp) for the most accurate reproduction.*
 
 # UK Estate agents with homes, houses & property for sale on rightmove.co.uk
 
@@ -83,7 +83,7 @@ Like all websites, our servers automatically record 'log files' containing infor
 
 ## Security, storage and transfer of information
 
-We follow strict security procedures to ensure that your personal information is not damaged, destroyed, or disclosed to a third party without your permission (unless they are providing services as outlined in the ‘who was access to your information’ section above) and to prevent unauthorised access to it. The computers that store the information are kept in a secure facility with restricted physical access and we use secure firewalls and other measures to restrict electronic access. If we are working with third parties we will require them to have in place similar measures to protect your information.
+We follow strict security procedures to ensure that your personal information is not damaged, destroyed, or disclosed to a third party without your permission (unless they are providing services as outlined in the 'who has access to your information' section above) and to prevent unauthorised access to it. The computers that store the information are kept in a secure facility with restricted physical access and we use secure firewalls and other measures to restrict electronic access. If we are working with third parties we will require them to have in place similar measures to protect your information.
 
 All of the information we collect or record is restricted to our offices. Only employees who need the information to perform a specific job are granted access to personally identifiable information. We will explicitly ask you when we need information to identify you. We may require you to co-operate with our security checks before we disclose information to you. You can update the personal information that you give us at any time by viewing '[your details](http://www.rightmove.co.uk/action/RegistrationAction?update=true)' page.
 
