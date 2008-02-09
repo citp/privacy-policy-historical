@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goshopping.com privacy policy that was archived on 2007-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071113051424id_/http%3A//www.goshopping.com/Store/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goshopping.com privacy policy that was archived on 2008-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080209033513id_/http%3A//www.goshopping.com/Store/privacy_policy.asp) for the most accurate reproduction.*
 
 # GoShopping.com – Online Shopping Deals, Auto Parts, Discount Shopping, Ebay Deals
 
