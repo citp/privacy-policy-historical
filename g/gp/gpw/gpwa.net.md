@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gpwa.net privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210122548id_/http%3A//www.gpwa.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gpwa.net privacy policy that was archived on 2008-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080209084015id_/http%3A//www.gpwa.net/privacy) for the most accurate reproduction.*
 
 # Gambling Portal Webmasters Association - Privacy Policy
 
@@ -89,10 +89,10 @@ Casino City Customer Care - Privacy Policy Issues
 
 ## More Information
 
-  * [Cookies](https://web.archive.org/web/20071210122548id_/http://www.gpwa.net/privacy/cookies.asp)
-  * [Web Beacons](https://web.archive.org/web/20071210122548id_/http://www.gpwa.net/privacy/web_beacons.asp)
-  * [Advertising](https://web.archive.org/web/20071210122548id_/http://www.gpwa.net/privacy/advertisers.asp)
-  * [Casino City Network](https://web.archive.org/web/20071210122548id_/http://www.gpwa.net/privacy/ccnetwork.asp)
+  * [Cookies](https://web.archive.org/web/20080117073226id_/http://www.gpwa.org/privacy/cookies.asp)
+  * [Web Beacons](https://web.archive.org/web/20080117073226id_/http://www.gpwa.org/privacy/web_beacons.asp)
+  * [Advertising](https://web.archive.org/web/20080117073226id_/http://www.gpwa.org/privacy/advertisers.asp)
+  * [Casino City Network](https://web.archive.org/web/20080117073226id_/http://www.gpwa.org/privacy/ccnetwork.asp)
 
 
 
@@ -101,4 +101,4 @@ Casino City Customer Care - Privacy Policy Issues
   
 
 
-Copyright © 2001-2007 Gambling Portal Webmasters Association. All rights reserved.   [Terms of Use](https://web.archive.org/terms_of_use.asp "Terms of Use") | [Privacy Policy](https://web.archive.org/privacy/ "Privacy Policy")
+Copyright © 2001-2008 Gambling Portal Webmasters Association. All rights reserved.   [Terms of Use](https://web.archive.org/terms_of_use.asp "Terms of Use") | [Privacy Policy](https://web.archive.org/privacy/ "Privacy Policy")
