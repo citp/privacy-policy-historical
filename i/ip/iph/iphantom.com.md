@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iphantom.com privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228184837id_/http%3A//www.iphantom.com/privacyStatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iphantom.com privacy policy that was archived on 2008-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080209025232id_/http%3A//www.iphantom.com/privacyStatement.html) for the most accurate reproduction.*
 
 # Phantom Technologies
 
