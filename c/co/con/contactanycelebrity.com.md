@@ -1,18 +1,16 @@
-> *The following text is extracted and transformed from the contactanycelebrity.com privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212220348id_/http%3A//contactanycelebrity.com/privacy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contactanycelebrity.com privacy policy that was archived on 2008-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080209135306id_/http%3A//www.contactanycelebrity.com/privacy/index.htm) for the most accurate reproduction.*
 
 # Privacy Policy | Contact Any Celebrity - Now you can contact any celebrity!
 
-**Welcome to the Contact Any Celebrity Privacy. This page was last updated on January 1, 2006.  
-**  
-Contact Any Celebrity the property of Mega Niche Media.
+Contact Any Celebrity is the property of Mega Niche Media LLC.
 
-Contact Any Celebrity is very sensitive to the privacy and security concerns that individuals have expressed regarding personal information and it's use. The following pages, presented in a Question and Answer format, outline general information about Contact Any Celebrity, our customers, and the information we distribute.
+Contact Any Celebrity is very sensitive to the privacy and security concerns that individuals have expressed regarding personal information and it's use. The following pages, presented in a question and answer format, outline general information about Contact Any Celebrity, our customers, and the information we distribute.
 
 **Our mailing address is:  
 **  
 Contact Any Celebrity  
 8721 Santa Monica Boulevard #431  
-Los Angeles, CA 90069-4507
+West Hollywood, CA 90069-4507
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address. We collect only the domain name (but not the e-mail address of visitors to our Web page), the e-mail addresses of those who communicate with us via e-mail, information volunteered by the consumer, such as survey information and/or site registrations.
 
@@ -34,52 +32,45 @@ With respect to security: we always use industry-standard encryption technologie
 
 If you feel that we are not following this stated information policy, please contact us, the state or local chapters of the Better Business Bureau, the state or local consumer protection office, or the Federal Trade Commission by phone at 202-FTC-HELP (202-382-4357) or electronically at [ http://www.ftc.gov/ftc/complaint.htm](http://www.ftc.gov/ftc/complaint.htm).
 
-**What is Contact Any Celebrity?**  
+**What is Contact Any Celebrity?**
+
 Contact Any Celebrity is an individual reference service, a company that provides information used to help identify and locate public figures.
 
 Contact Any Celebrity provides information solutions for consumers and small businesses using public records and publicly-available information. Our products help people market their products to celebrities, solicit autographed memorabilia, get testimonials and endorsements, and send fan mail.
 
 How do customers use the data they obtain from Contact Any Celebrity?  
+  
 Our customers are individuals and small businesses that use our data for to locate public people for personal and professional reasons.
 
-**Are their any restrictions on how customers can use Contact Any Celebrity's data?**  
+**Are their any restrictions on how customers can use Contact Any Celebrity's data?**
+
 Our customers do have restrictions on how they can use our information. Every customer enters into an agreement with Contact Any Celebrity that restricts the customer's use of our data. Our customers agree to use our data only for legal purposes, and they also agree not to use our information in ways that might be harmful to others or intrusive.
 
 Contact Any Celebrity takes these restrictions very seriously. In the event we believe a customer has misused our information, we will address the matter and terminate the subscriber. Additionally, if a customer uses our information in a criminal or harmful manner, we will contact appropriate law enforcement agencies. Our customers agree we can disclose information about them and their searches to law enforcement agencies in the event we suspect they have misused our information. 
 
 How can I remove my information from Contact Any Celebrity's database?  
-In order for Contact Any Celebrity to ‘opt out’ your public information from being viewable on the Contact Any Celebrity Web site we do require **faxed proof of identity**. Proof of identity can be a state issued ID card or driver’s license. If you are faxing a copy of your driver’s license, cross out the photo and the driver’s license number. We only need to see the name, address and date of birth. **Please fax information to our customer service department at 310-362-8771.**
+  
+In order for Contact Any Celebrity to �opt out� your public information from being viewable on the Contact Any Celebrity Web site we do require **faxed proof of identity**. Proof of identity can be a state issued ID card or driver�s license. If you are faxing a copy of your driver�s license, cross out the photo and the driver�s license number. We only need to see the name, address and date of birth. **Please fax information to our customer service department at  
+310-362-8771.**
 
 If you are not comfortable doing this you can send us a notarized form proving your identity and we will be glad to remove this public information.
 
-** Please note removing the data here does not prevent public records from sending us new information in the future. To permanently have your records sealed you will need to contact your county’s record department. If you have a compelling privacy or security issue, you may wish to contact the official custodians of those public records that contain sensitive information about you, such as your county's land records office, to determine how to remove your information from the public record. (The process of having public records sealed typically requires a court order.) This process will ensure that the information is not available from the public records custodian, Contact Any Celebrity, or any other information provider.
+** Please note removing the data here does not prevent public records from sending us new information in the future. To permanently have your records sealed you will need to contact your county�s record department. If you have a compelling privacy or security issue, you may wish to contact the official custodians of those public records that contain sensitive information about you, such as your county's land records office, to determine how to remove your information from the public record. (The process of having public records sealed typically requires a court order.) This process will ensure that the information is not available from the public records custodian, Contact Any Celebrity, or any other information provider.
 
 Who do I contact if I have questions about Contact Any Celebrity?  
-If you have questions about Contact Any Celebrity's information policies, privacy or related questions, please contact Jordan McAuley, CEO. Jordan's address is:
+  
+If you have questions about Contact Any Celebrity's information policies, privacy or related questions, please contact Jordan McAuley, CEO. His address is:
 
 Jordan McAuley, CEO  
 Contact Any Celebrity  
 8721 Santa Monica Blvd. #431  
-Los Angeles, CA 90069-4507
+West Hollywood, CA 90069-4507
 
 Safe & Secure Online Transactions  
+  
 Contact Any Celebrity is concerned about the safety and security of our customers. We have put a number of technological protections in place to ensure that our transaction process is safe and that our customers' information is secure.
 
 Safety and Security Tips:
 
 * If using a public computer or terminal, always log out when you complete an online session.
 * Keep your login information private, do not share it with anyone, and store it in a safe place.
-
-**[Join Now!](https://web.archive.org/web/20061212220348id_/http%3A//contactanycelebrity.com/join/index.htm)  |  [Member Login](https://web.archive.org/web/20061212220348id_/http%3A//contactanycelebrity.com/members/index.htm)  |  [Help Desk](https://web.archive.org/web/20061212220348id_/http%3A//contactanycelebrity.com/help/index.htm) | [Testimonials](https://web.archive.org/web/20061212220348id_/http%3A//contactanycelebrity.com/testimonials/index.htm)**
-
-[Affiliate Program](https://web.archive.org/web/20061212220348id_/http%3A//contactanycelebrity.com/affiliates/index.htm) | [Article Archives](https://web.archive.org/web/20061212220348id_/http%3A//contactanycelebrity.com/articles/index.htm) | [Privacy Policy](https://web.archive.org/web/20061212220348id_/http%3A//contactanycelebrity.com/privacy/index.htm) | [Terms & Conditions](https://web.archive.org/web/20061212220348id_/http%3A//contactanycelebrity.com/terms/index.htm) \- [ Visit Our Blog!](http://contactanycelebrity.blogspot.com/)
-
-[ ](http://www.labbb.org/BBBWeb/Forms/Business/CompanyReportPage_Expository.aspx?CompanyID=13166376)
-
-**[Contact Any Celebrity](https://web.archive.org/web/20061212220348id_/http%3A//contactanycelebrity.com/index.htm)  
-**8721 Santa Monica Blvd. #431  
-Los Angeles, CA 90069-4507  
-[Contact Us](https://web.archive.org/web/20061212220348id_/http%3A//contactanycelebrity.com/help/index.htm)
-
-Copyright © Mega Niche Media.  
-All rights reserved..
