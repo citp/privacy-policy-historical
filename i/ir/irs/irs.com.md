@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the irs.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211104128id_/http%3A//www.irs.com/secondary/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irs.com privacy policy that was archived on 2008-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080209211413id_/http%3A//www.irs.com/secondary/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement - IRS.com
 
