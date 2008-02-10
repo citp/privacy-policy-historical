@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nintex.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212051837id_/http%3A//nintex.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nintex.com privacy policy that was archived on 2008-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080210183122id_/http%3A//www.nintex.com/privacy.aspx) for the most accurate reproduction.*
 
 # Nintex
 
@@ -18,7 +18,7 @@ Automatic collection - Cookies: We may use a feature of your browser called a co
 
 Other than stated in the preceding, no attempt is made to identify users or their browsing activities except, in the event of an investigation, where a law enforcement agency may exercise a warrant to inspect logs, or where Nintex believes it is required to collect and produce relevant electronic documentation to fulfil its obligations to third parties, including statutory organisations under local law. 
 
-Nintex endeavours to use and disclose your personal information only in limited circumstances. Nintex will do so if it is necessary to protect any copyright or intellectual property in the material in the web site, or if it is necessary to enforce the Nintex web site [Terms and Conditions of Use](https://web.archive.org/web/20071212051837id_/http%3A//nintex.com/terms.aspx). 
+Nintex endeavours to use and disclose your personal information only in limited circumstances. Nintex will do so if it is necessary to protect any copyright or intellectual property in the material in the web site, or if it is necessary to enforce the Nintex web site [Terms and Conditions of Use](https://web.archive.org/web/20080210183122id_/http%3A//www.nintex.com/terms.aspx). 
 
 ## Links to Other Sites
 
