@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myebiz.com privacy policy that was archived on 2007-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071010055158id_/http%3A//myebiz.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myebiz.com privacy policy that was archived on 2008-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080211145110id_/http%3A//myebiz.com/privacy.html) for the most accurate reproduction.*
 
 # _
 
