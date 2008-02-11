@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the scholarshippoints.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226005115id_/http%3A//www.scholarshippoints.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scholarshippoints.com privacy policy that was archived on 2008-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080211231354id_/http%3A//www.scholarshippoints.com/privacy.php) for the most accurate reproduction.*
 
 # Scholarship Points.com - earn chances to win free scholarships!
+
+[](http://www.scholarshippoints.com/register.php)
+
+| 
 
 This site, as a wholly owned and operated subsidiary of the Edvisors Network, Inc., is happy to provide and comply with the privacy policy for The Edvisors Network. Our corporate homepage on the Web is located at [www.Edvisors.com](http://www.edvisors.com/ "Edvisors Online Education Programs"). The full text of our privacy policy is available on the Web at [Edvisors Privacy Statement](http://www.edvisors.com/about/privacy.html). 
 
@@ -105,9 +109,7 @@ The compact policy which corresponds to this policy is:
 
 CP="NON DSP COR CURa ADMo DEVo TAIo PSAo PSDo IVAi IVDi CONo HISo TELo OTPi OUR OTRi BUS PHY PUR FIN NAV HEA" 
 
-The following table explains the meaning of each field in the compact policy. 
-
-Field  |  Meaning   
+The following table explains the meaning of each field in the compact policy.  |  Field  |  Meaning   
 ---|---  
 `CP=` |  This is the compact policy header; it indicates that what follows is a P3P compact policy.   
 `NON` |  No access is available to collected information.   
