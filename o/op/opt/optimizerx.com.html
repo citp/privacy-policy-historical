@@ -1,12 +1,11 @@
-<!--The following is the downloaded HTML source of the optimizerx.com privacy policy that was archived on 2007-12-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071213214841id_/http%3A//www.optimizerx.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the optimizerx.com privacy policy that was archived on 2008-02-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080212065030id_/http%3A//www.optimizerx.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en-US"><head>
 		<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
 		<link rel="stylesheet" type="text/css" media="all" href="inc/reset.css">
 		<link rel="stylesheet" type="text/css" media="all" href="inc/style.css">
-		<link rel="stylesheet" type="text/css" media="all" href="inc/style2.css">
-		<script src="AC_RunActiveContent.js" type="test/javascript"></script>
+			<link rel="stylesheet" type="text/css" media="all" href="inc/style2.css"> 		<script src="AC_RunActiveContent.js" type="test/javascript"></script>
 		<script type="text/javascript" src="/inc/form-validator.js"></script>
 		<script type="text/javascript" src="/inc/popup.js"></script>
 		<script type="text/javascript" src="/inc/functions.js"></script>
@@ -25,10 +24,11 @@
 					write_text_resize_links();
 					set_user_text_size();
 				}
-				if (logged_in) {
-					setPopupOffers();					
-				}
-				setPopups();
+			//	if (logged_in) {
+			//	setPopupOffers();					
+			//	}
+			setPopups();
+
 			}
 		</script>
 		<title>OPTIMIZERx – Putting the Patient First - Privacy Statement</title>
@@ -47,25 +47,50 @@
 <div id="container">
 	<div id="top">
 		<div id="head" style="height:50px;">
+        
+        
+        
 
 			<a href="http://www.optimizerx.com"><img src="images/logo.jpg" alt="optimizerx - putting the patient first" style="float:left;"></a>
 			<img src="images/as-seen-on.gif" alt="as seen on abc, nbc, cbs" style="margin-left:10px;margin-bottom: 10px;float:left;">
-		
+
+<div style="position: absolute; right: 0; top: -4px;">		
+
+		<a style="float:right;color:#0F8278;font-weight:bold;" href="/signup.php">
+			Login / Signup
+		</a></div>    
+    
+	
+		<a href="/special-offers.php">
+			<img src="images/sticky2.png" class="sticky" style="margin-right: 75px;">
+		</a>
+		<a href="/signup.php">
+			<img src="images/sticky1.png" class="sticky" style="margin-right: 5px;" id="sticky1">
+		</a>
+	    
+    
+    
 	</div>
 
-		<ul id="nav" style="clear:both;">
-			<li><a href="/"><img src="images/hometab.jpg"></a></li><li><a href="/my-savings.php"><img src="images/offerstab.jpg"></a></li><li><a href="/physicians.php"><img src="images/pastab.jpg"></a></li>
+		<ul id="nav">
+			<li><a href="/"><img src="images/hometab.jpg"></a></li><li><a href="/my-savings.php"><img src="images/offerstab.jpg"></a></li><li><a href="/about.php"><img src="images/pastab.jpg"></a></li>
 		</ul>
+	<div style="clear:both;"></div>
 	</div>
-	<div id="header" class="brown">	<a href="/special-offers.php"><img src="images/sticky2.png" class="sticky" style="margin-right:70px;"></a>
-<a href="/signup.php"><img src="images/sticky1.png" class="sticky" style="margin-right:185px;_margin-right:15px;"></a>
-<div style="float:left;padding:10px;"><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0" width="360" height="280" id="player1" align="middle">
-	<param name="allowScriptAccess" value="sameDomain">
-	<param name="allowFullScreen" value="false">
-	<param name="movie" value="player1-.swf"><param name="quality" value="high"><param name="wmode" value="transparent">	<embed src="player1-.swf" quality="high" wmode="transparent" width="360" height="280" name="player1" align="middle" allowscriptaccess="sameDomain" allowfullscreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer">
-	</object></div><div id="header_right">
-	<p style="text-align:center;margin-right:10px;">Finally a way to save money on your Rx copays &amp; access helpful patient support!</p>
-	<div id="searchbox" class="search">
+	<div id="header" class="brown">
+	
+<!--[if IE]>
+<style type="text/css">
+
+#sticky1 {
+	margin-right:15px !important;
+}
+</style>
+<![endif]-->
+
+	<br><div style="margin-right:10px;float:left;margin-bottom:10px;margin-top:20px;margin-left:90px;_margin-left:45px;width:200px;">
+	<a href="javascript:popupTellFriend();"><img src="/images/tellafriend.gif" alt="tell-a-friend about prescription savings"></a>
+</div><div id="searchbox" class="search">
 	<form class="search" action="psearch.php" method="post">
 		<label>Prescription Savings Search:</label>
 		<br><input tabindex="3" autocomplete="off" id="search" name="search" size="30" type="text" value=""><input type="image" class="submit" name="submit" value="submit" src="images/greengo.gif" style="margin-left:10px;">		
@@ -80,18 +105,9 @@
 					updateElement : function(selected_li) {
 						if (selected_li.id && selected_li.id.indexOf('_') > -1) {
 							id = selected_li.id.split('_')[1];
-						//	reg = readCookie('semi-registered') || logged_in;
-							if (id) { //&& reg) {
-								window.location = '/offer.php?product='+id;
-							} /* else {
-								if (email = $F('register_email_input')) {
-									new Ajax.Request('/register.php',{method: 'post', parameters: {email: email}});
-									window.location = '/offer.php?product='+id;
-								} else {
-									promptForEmail();				
-								}
-							}
-						//*/
+							if (id) {
+								window.location = '/signup.php?product='+id;
+							} 
 						}
 					}
 				}
@@ -99,16 +115,8 @@
 		</script>
 </form>
 	</div>
-	<hr class="clear"></div>
-	<div id="header_bottom">
-			<p class="hbleft">OPTIMIZERx offers you special savings, free trials and support programs to help you better afford and optimize results for the medicines and healthcare products you need.</p>
-			<p class="hbright">
-				Free Money Saving Newsletter!<br>
-				</p><form action="signup.php" method="GET"><input type="text" size="30" value="subscriber@example.com" name="newsletteremail" onclick="if (this.value=='subscriber@example.com') this.value='';" onblur="if (this.value=='') this.value='subscriber@example.com';">
-				<input type="image" src="images/greengo.gif"></form>
-			<p></p>
-		<hr class="clear">
-	</div>
+			<div class="clear"></div>
+	
 </div>	
 		<div id="content">
 
@@ -177,7 +185,8 @@ Changes   Any changes to this privacy policy will be communicated promptly on th
 
 
 
-	</div>
+
+</div>
 </div>
 	<ul id="footer">
 <!--		<li id="text_size_options" class="first enlarge"> </li> //-->
@@ -188,12 +197,15 @@ Changes   Any changes to this privacy policy will be communicated promptly on th
 		<li class="contact"><a href="disclaimer.php">DISCLAIMER</a></li>
 		<li class="last sponsors"><a href="sponsors.php">ADVERTISE WITH US</a></li>
 	</ul>
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
 <script type="text/javascript">
-_uacct = "UA-972429-1";
-urchinTracker();
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-3431290-1");
+pageTracker._initData();
+pageTracker._trackPageview();
 </script>
-  
+
 
 </body></html>
