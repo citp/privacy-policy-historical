@@ -1,22 +1,21 @@
-> *The following text is extracted and transformed from the themovieinsider.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211232915id_/http%3A//www.themovieinsider.com/company/privacy-statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themovieinsider.com privacy policy that was archived on 2008-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080212030822id_/http%3A//www.themovieinsider.com/company/privacy-statement.php) for the most accurate reproduction.*
 
 # Privacy Statement [Last Updated: July 03, 2007] - The Movie Insider
 
-[](http://www.themovieinsider.com/) |  |  |   
-[](http://www.themovieinsider.com/) |   
+[](http://www.themovieinsider.com/)| | |   
+[](http://www.themovieinsider.com/)|   
 |   
-[](http://www.themovieinsider.com/)[](http://www.themovieinsider.com/news)[](http://browse.themovieinsider.com/)[](http://www.themovieinsider.com/reviews)[](http://www.themovieinsider.com/movies-coming-soon)[](http://www.themovieinsider.com/interviews)[](http://www.themovieinsider.com/movie-photos)[](http://www.themovieinsider.com/box-office)[](http://www.themovieinsider.com/celebrities)[](http://www.themovieinsider.com/on-dvd)[](http://www.themovieinsider.com/screening-room)  
+[](http://www.themovieinsider.com/)[](http://www.themovieinsider.com/news)[](http://browse.themovieinsider.com/)[](http://www.themovieinsider.com/movie-reviews)[](http://www.themovieinsider.com/movies-coming-soon)[](http://www.themovieinsider.com/interviews)[](http://www.themovieinsider.com/movie-photos)[](http://www.themovieinsider.com/box-office)[](http://www.themovieinsider.com/celebrities)[](http://www.themovieinsider.com/on-dvd)[](http://www.themovieinsider.com/screening-room)  
 | 
 
-  * [Daily Rumor Mill](http://www.themovieinsider.com/movie-rumors)
-  * [Celebrity Headlines](http://www.themovieinsider.com/news)
+  * [Daily Rumors Memo](http://www.themovieinsider.com/movie-rumors)
   * [Popularity Rankings](http://www.themovieinsider.com/movie-popularity)
   * [New Poster Wall](http://www.themovieinsider.com/movie-posters)
   * [Studio Backlot](http://www.themovieinsider.com/backlot)
   * [Upcoming mBrowser](http://www.themovieinsider.com/mbrowser)
   * [Movies Now Playing](http://www.themovieinsider.com/movies-now-playing)
-  * [Sequel Buzz](http://www.themovieinsider.com/previews/upcoming-movie-sequels.php)
-  * [Classic Remakeville](http://www.themovieinsider.com/previews/upcoming-movie-remakes.php)
+  * [Sequel BuzZer](http://www.themovieinsider.com/sequel-buzzer)
+  * [Classic Remakeville](http://www.themovieinsider.com/classic-remakeville/)
   * [Superhero Hangout](http://www.themovieinsider.com/previews/upcoming-comic-book-movies.php)
   * [Desktop Wallpapers](http://www.themovieinsider.com/desktop-wallpapers)
   * [Soundtrack Rack](http://www.themovieinsider.com/soundtrack-rack)
