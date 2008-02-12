@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gmacmortgage.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212000911id_/http%3A//www.gmacmortgage.com/About_Us/Legal_Information/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gmacmortgage.com privacy policy that was archived on 2008-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080212063021id_/http%3A//www.gmacmortgage.com/About_Us/Legal_Information/Privacy.html) for the most accurate reproduction.*
 
 # 
 
@@ -66,17 +66,17 @@ Third Parties Not Affiliated With Us
 **How Can Customers Review, Change or Correct The Information We Collect?  
 ** We are committed to maintaining accurate and up-to-date information on all of our customers. We may provide customers with access to account information in different ways, for example, over the telephone, online or on paper.
 
-If you are a current customer and have registered for online access through one of our web sites, you may be able to update information such as: your address, telephone number, email address, user name, password and secret question online.  You may also wish to record your privacy preferences online via [https://www.gmacmortgage.com/optout](https://web.archive.org/web/20071212000911id_/http%3A//optout).
+If you are a current customer and have registered for online access through one of our web sites, you may be able to update information such as: your address, telephone number, email address, user name, password and secret question online.  You may also wish to record your privacy preferences online via [https://www.gmacmortgage.com/optout](https://web.archive.org/web/20080212063021id_/http%3A//optout).
 
 If you have completed and saved, but have not submitted, an online form or application you may be able to make certain changes to the information you have provided to us before it is submitted. If you are unable to make changes to the information you have provided to us online, you may contact us in order to do so.
 
 **How Can You Contact GMAC Mortgage If You Have Questions About This Privacy Statement?**  
 U.S. Mail:  
-GMAC Mortgage  
-Operations Risk Management - Information Security and Privacy Office  
-100 Witmer Road   
+GMAC Mortgage, LLC  
+Operations Risk Management  
+1100 Virginia Drive   
 Mail Code: 190-100-235   
-Horsham, PA 19044  
+Fort Washington, PA 19034   
 Email: [PrivacyOffice@gmacm.com](mailto:PrivacyOffice@gmacm.com)
 
 **Will GMAC Mortgage Make Changes To This Privacy Statement?**  
