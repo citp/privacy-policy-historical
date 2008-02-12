@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the insidehighered.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213154905id_/http%3A//www.insidehighered.com/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insidehighered.com privacy policy that was archived on 2008-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080212085934id_/http%3A//www.insidehighered.com/privacy_statement) for the most accurate reproduction.*
 
-# Jobs, News and Views for All of Higher Education - Inside Higher Ed :: Privacy statement
+# Privacy statement :: Inside Higher Ed :: Jobs, News and Views for All of Higher Education
 
 _Inside Higher Ed_ values and vows to protect your privacy. We guarantee that we will not, under any circumstances, sell, trade or make public your personal information, unless you specifically designate otherwise (participants in our credentials database, for instance, can request that we provide information about them to specific employers). We’ll keep confidential all personal information that you give us. In addition, you will always have the option to edit the information you’ve given us or to have your personal information removed from our records.
 
