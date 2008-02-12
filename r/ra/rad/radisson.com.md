@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the radisson.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211101243id_/http%3A//www.radisson.com/sectiontemplate.do%3Fsidemenu%3Dprivacy.sidemenus%26section%3Dprivacy.home) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radisson.com privacy policy that was archived on 2008-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080212133106id_/http%3A//www.radisson.com/sectiontemplate.do%3Fsidemenu%3Dprivacy.sidemenus%26section%3Dprivacy.home) for the most accurate reproduction.*
 
 # Guest Privacy Policy
 
-Carlson Hotels Worldwide Guest Privacy Policy - Effective October 28, 2007
+[](http://www.truste.org/ivalidate.php?url=www.radisson.com&sealid=103) Carlson Hotels Worldwide Guest Privacy Policy - Effective October 28, 2007
 
  **Carlson Hotels Worldwide Privacy Promises.** Carlson Hotels Worldwide ("CHW") together with its subsidiaries (collectively, "the CHW Family of Hotels") take your privacy seriously. These are our ten promises to you: 
 
