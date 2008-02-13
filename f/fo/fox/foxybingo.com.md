@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foxybingo.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214202514id_/http%3A//www.foxybingo.com/site/general/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxybingo.com privacy policy that was archived on 2008-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080213145540id_/http%3A//www.foxybingo.com/site/general/privacy.php) for the most accurate reproduction.*
 
 # Foxy Bingo - Play Online Bingo Chat and Win
 
