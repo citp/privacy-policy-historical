@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unisuper.com.au privacy policy that was archived on 2007-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071012225618id_/http%3A//www.unisuper.com.au/AboutUniSuper/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unisuper.com.au privacy policy that was archived on 2008-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080213081057id_/http%3A//www.unisuper.com.au/AboutUniSuper/privacy.cfm) for the most accurate reproduction.*
 
 # UniSuper - Privacy Statement
 
