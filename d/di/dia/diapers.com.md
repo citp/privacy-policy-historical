@@ -1,0 +1,61 @@
+> *The following text is extracted and transformed from the diapers.com privacy policy that was archived on 2008-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080214114348id_/http%3A//www.diapers.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+
+# Diapers.com (1 800 Diapers): Pampers and Huggies Baby Diapers, Enfamil and Similac Baby Formula Delivered to your Door - Buy Baby Products at Diapers.com (1 800 Diapers)
+
+Last Updated: October 7, 2007 
+
+1800Diapers Privacy Policy Statement
+
+1800Diapers, Inc. (the "Company" or "We" or "Us") is sensitive to your concerns about how we may use and share personal information that we collect from you. We recognize and respect the importance of maintaining the privacy of our visitors and members and have established this Privacy Policy Statement ("Privacy Policy") as a result. This Privacy Policy is incorporated into our Terms of Use and Account Agreement and therefore governs your use of Diapers.com (the "website") and/or any services offered by the Company. **By visiting Diapers.com and/or utilizing any services offered by the Company, you are accepting the then current practices described in the Privacy Policy.**
+
+**What Information Do We Collect About Our Customers?**
+
+The information we learn from customers helps us enhance and personalize the 1800Diapers website and the services we offer. We gather the following types of information. 
+
+  * **Information You Give Us or Affiliates:** We receive and store any information you enter on our Web site or give in any other way (e.g., by telephone), whether directly to Diapers.com or to affiliates or co-branded companies selling through our website. This may include information you provide when you register as a member, engage in transactions, search, contact customer service, or participate in contests, promotions, surveys, forums, content submissions, chats, bulletin boards, discussion groups, requests for suggestions or other aspects or services offered by us or our affiliates. As a result, you may be supplying us with such information as your name, address, and phone numbers; credit card information; people to whom purchases have been shipped, including addresses and phone number; names and e-mail addresses of friends and possible referrals and other people. 
+  * **Automatic Information:** We automatically receive and store certain types of information whenever you interact with us. For example, as most websites do, we use "cookies," and we obtain certain types of information when your web browser accesses Diapers.com. This information is compiled and analyzed on both a personal and an aggregated basis, and it may include the website's Uniform Resource Locator ("URL") that you just came from, which URL you will go to next, what browser you are using, and your Internet Protocol ("IP") address. Other examples of automatic information we may collect are purchase history, products viewed or searched for, visits to certain pages, page interaction information and the phone number you used to call our 800 number.
+  *  **Information Provided by Third Parties** . We may obtain certain information of customers from third parties. This may include updated delivery or address information from carriers, information from third party merchants we share business relationships with and information (including name and email addresses) of possible referrals from customers. 
+
+
+
+**Do We Use Cookies?**
+
+Diapers.com uses small text files called "cookies" that provide non-personally identifiable information to us regarding the visitors to the website. In addition to the URL and IP addresses of our visitors, cookies may gather the date and time of all visits to our website. We may also track the pages of our website that users viewed during their visit, or track search terms entered on our website by that visitor. This helps us keep track of the number of visitors to our website and allows us to gauge the areas that are of the most interest to our visitors. This information is analyzed periodically and is used to gain a broader picture of usage patterns at our site. We may share the non-personally identifiable information gathered through use of cookies with our advertisers and/or business partners, in order to make the website as user-friendly as possible.
+
+**How Do We Use the Information We Collect and Do We Share the Information We Receive?**
+
+Information about our customers is an important part of our business. We use information we collect to communicate with you, to process your orders, to provide an enhanced and more personalized interactive shopping experience and to inform you of offers and discounts. We share customer information with third parties only as follows: 
+
+  * **Affiliated Businesses on Diapers.com:** We may work closely with other businesses (that we don't own or control) that sell products or services on Diapers.com. In some cases, these businesses may operate stores that sell offerings to you directly. In other cases, we operate stores, provide services, or sell product lines jointly with these businesses. We share customer information related to those transactions with that third party.
+  *  **Third Party Service Providers:** We may employ other companies and individuals to perform functions on our behalf, including fulfillment, delivery, analysis of data, marketing assistance, the processing of credit card payments, and customer service. They have access to personal information needed to perform their functions, but they are not to use it for other purposes.
+  *  **Promotional Offers:** We periodically provide our customers with information about third party products and services we believe will be of interest to you and with opportunities to participate in offers and/or promotions on behalf of other businesses. Your participation in these events may require us to share data with such a business. If you do not want to receive such information or offers, on behalf of third parties or otherwise, please email us at [CustomerCare@diapers.com](mailto:CustomerCare@diapers.com).
+  * **Other Third Parties/Select Partners:** From time to time, we might establish a business relationship with other persons or entities whom we believe are trustworthy and whom we have asked to confirm that their privacy policies are consistent with ours. These are known as our Select Partners. In such cases, we might share and cross-reference information, including personal information about you that will enable such persons or entities to contact you regarding products and services that may be of interest to you. We may also combine your personal information with publicly available information and information we receive from or cross-reference with our Select Partners and others. We use that combined information to enhance and personalize your shopping experience with us, to communicate with you about our products and services that may be of interest to you, and for further promotional purposes.  
+**Please note that for any first-time orders over$15.00 that you place on the website, your personal information is automatically provided to The Parenting Group so they may send you a 1 year subscription to Parenting Magazine (or a 1 year renewal) which is included in your order.** You may opt-out by emailing us at [ CustomerCare@diapers.com](mailto:CustomerCare@diapers.com) at the time of your first purchase. If you do not opt-out at the time of your first order, the information will most probably already have been sent to The Parenting Group who will you send you a postcard regarding your subscription. That postcard should provide further instructions for you to unsubscribe. Note that The Parenting Group is to use your information solely to fill and solicit your subscription and for no other purpose.
+  * **Referrer/Referees.** In order for you to get credit for a referral who joins 1800Diapers, the person whom you refer must enter your email address or a unique password that identifies you as the referrer. Sometimes, we may send emails (in some instances on your behalf) on your behalf to potential referees. Also, if you were referred to 1800Diapers by an existing member, that member may be notified each time your order qualifies him/her for a credit.
+  *  **Merger/Sale:** In the event that 1800Diapers, substantially all of its assets, or a line of business of 1800Diapers is acquired, individually identifying information of our members may be one of the assets sold in connection with that transaction, without notice to you or your consent. We will notify users of the website of such a change in ownership or transfer of assets by posting a notice on the website.
+  *  **Bankruptcy.** In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors rights generally, we may not be able to control how your personal information is treated, transferred, or used. Therefore, you should know that in such event, your personal information may be treated like any other asset of the Company, and sold, transferred or shared with third parties, or used in ways not contemplated or permitted hereunder, without notice to you or your consent.
+  *  **Protection of 1800Diapers and Others:** We release account and other personal information when we believe release is appropriate to comply with the law; enforce or apply our Terms of Use and other agreements; or protect the rights, property, or safety of 1800Diapers, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. 
+
+
+
+**How Secure Is the Personal Information You Collect?**
+
+We have taken precautions, including the deployment of technological resources and the use of firewalls, systems and procedures, to protect the security of your personal information. While no security system is absolutely foolproof, we are constantly reviewing, refining and upgrading our security technology to protect your privacy. When you open an account with 1800Diapers, you are issued a password by which to access and secure your account and account information. Although we have taken these precautions, you are responsible for maintaining the secrecy of your password, which should not be disclosed by you. Be sure to sign off when finished using a shared computer.
+
+**Links**
+
+Diapers.com site contains links to other websites. We have no control over the content, policies or actions of these sites, even if you are offered services on those sites because you have established an account with 1800Diapers. We are not responsible for the privacy practices or the content of such websites. 
+
+**Minors**
+
+You must be 18 years of age or older to become a member of 1800Diapers. We do not collect information from minors. 
+
+**Changing Your Personal Information**
+
+You may review, change or correct your personally identifying information at any time by accessing your account information on the website or calling us. You are responsible for maintaining the accuracy and completeness of your personal and other information, including your e-mail address, and we urge you to review your information regularly to ensure that it is correct and complete. 
+
+**Conditions of Use, Notices, and Revisions**
+
+If you choose to visit Diapers.com and/or use the Company's services, your visit and/or any dispute over privacy is subject to this Privacy Policy Statement and our Terms of Use and Account Agreement (if you are a member), including limitations on damages, arbitration of disputes, and application of the law of the state of New Jersey. If you have any concern about privacy at 1800Diapers, please contact us. 
+
+Our Privacy Policy Statement, the Terms of Use and other terms and conditions may change. In the event of a change, the revised policies or terms and conditions will be posted immediately to our website. You should check the website frequently to see recent changes. Unless stated otherwise, our current Privacy Policy Statement applies to all information that we have about you.
