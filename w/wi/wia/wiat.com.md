@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wiat.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216095101id_/http%3A//www.wiat.com/about/6449757.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wiat.com privacy policy that was archived on 2008-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080214193703id_/http%3A//www.wiat.com/about/6449757.html) for the most accurate reproduction.*
 
-# WIAT.com Privacy Policy - from CBS 42 wiat.com
+# WIAT.com Privacy Policy - from CBS42.com
 
 **Privacy Policy  
 **
