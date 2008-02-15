@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nbcsports.com privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223072151id_/http%3A//www.nbcsports.com/portal/site/nbcsports/menuitem.e5d3722fd1eba0f3c3a68710493c2d04) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbcsports.com privacy policy that was archived on 2008-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080215224625id_/http%3A//www.nbcsports.com/portal/site/nbcsports/menuitem.e5d3722fd1eba0f3c3a68710493c2d04) for the most accurate reproduction.*
 
 # Home - NBCSports.com
 
