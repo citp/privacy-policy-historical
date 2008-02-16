@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the musthavemenus.com privacy policy that was archived on 2007-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070802015431id_/http%3A//www.musthavemenus.com/menu/privacyPolicy/view.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musthavemenus.com privacy policy that was archived on 2008-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080216170100id_/http%3A//www.musthavemenus.com/menu/privacyPolicy/view.do) for the most accurate reproduction.*
 
-# None
+# Privacy Policy
 
   
-MustHaveMenus.com values your privacy. You may contact us any time to learn more about this privacy policy by sending email to [service@MustHaveMenus.com](mailto:service@MustHaveMenus.com). This Privacy Statement describes how MustHaveMenus.com collects and uses information about you when you use the MustHaveMenus.com web site ("Site"). 
+MustHaveMenus.com values your privacy. You may contact us any time to learn more about this privacy policy by sending email to [Contact@MustHaveMenus.com](mailto:Contact@MustHaveMenus.com). This Privacy Statement describes how MustHaveMenus.com collects and uses information about you when you use the MustHaveMenus.com web site ("Site"). 
 
 **Collection and Use of Personal Information by MustHaveMenus.com**
 
-With your consent, we collect information that personally identifies you or allows us to contact you when you register to use the Site. Such information may include your name, e-mail address, user identification password and other information (collectively "Personal Information"). You may also provide us with Personal Information in the process of submitting questions and answers while interacting with other members of the Site. MustHaveMenus.com uses your Personal Information to operate the Site, to effect your transactions initiated at the Site; to create and share reports about your transactions among themselves. You may correct or update your Personal Information by sending e-mail to [service@MustHaveMenus.com](mailto:service@MustHaveMenus.com). **
+With your consent, we collect information that personally identifies you or allows us to contact you when you register to use the Site. Such information may include your name, e-mail address, user identification password and other information (collectively "Personal Information"). You may also provide us with Personal Information in the process of submitting questions and answers while interacting with other members of the Site. MustHaveMenus.com uses your Personal Information to operate the Site, to effect your transactions initiated at the Site; to create and share reports about your transactions among themselves. You may correct or update your Personal Information by sending e-mail to [Contact@MustHaveMenus.com](mailto:Contact@MustHaveMenus.com). **
 
 Cookies
 
@@ -19,7 +19,7 @@ Personal Information Used for Promotional Purposes
 
 **
 
-We may send you information from time to time about MustHaveMenus.com promotional offerings. However, we will not share your Personal Information with any third party without your prior consent. Your consent to receipt of promotional offerings may be indicated in the appropriate check boxes within the Site signifying your preferences. You may be entitled to stop the delivery of promotional information from MustHaveMenus.com by using the UNSUBSCRIBE link provided in all marketing emails, or by sending e-mail to [service@MustHaveMenus.com](mailto:service@MustHaveMenus.com) and, for third party promotional offerings, by contacting the source of that promotional offering. **
+We may send you information from time to time about MustHaveMenus.com promotional offerings. However, we will not share your Personal Information with any third party without your prior consent. Your consent to receipt of promotional offerings may be indicated in the appropriate check boxes within the Site signifying your preferences. You may be entitled to stop the delivery of promotional information from MustHaveMenus.com by using the UNSUBSCRIBE link provided in all marketing emails, or by sending e-mail to [Contact@MustHaveMenus.com](mailto:Contact@MustHaveMenus.com) and, for third party promotional offerings, by contacting the source of that promotional offering. **
 
 Children's Privacy
 
@@ -49,6 +49,18 @@ Questions, Comments, Concerns
 
 **
 
-If you have any questions or comments about our use of Personal Information, please contact us at [service@MustHaveMenus.com](mailto:service@MustHaveMenus.com). We will use reasonable efforts to promptly investigate any complaint you may have regarding our use of Personal Information. 
+If you have any questions or comments about our use of Personal Information, please contact us at [Contact@MustHaveMenus.com](mailto:Contact@MustHaveMenus.com). We will use reasonable efforts to promptly investigate any complaint you may have regarding our use of Personal Information. 
 
 [](https://www.musthavemenus.com/menu/register.do)
+
+|   | 
+
+**All Suggestions, Billing and Site Questions:** [Contact@MustHaveMenus.com](mailto:contact@MustHaveMenus.com)
+
+**MustHaveMenus**  
+Letters and Arts, Inc.  
+695 Mistletoe Road  
+Suite M11  
+Ashland, Oregon 97520  
+  
+---|---|---
