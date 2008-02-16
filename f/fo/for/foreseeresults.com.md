@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foreseeresults.com privacy policy that was archived on 2007-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071123173612id_/http%3A//www.foreseeresults.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foreseeresults.com privacy policy that was archived on 2008-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080216115640id_/http%3A//www.foreseeresults.com/Privacy.html) for the most accurate reproduction.*
 
 # Customer Satisfaction Survey
 
