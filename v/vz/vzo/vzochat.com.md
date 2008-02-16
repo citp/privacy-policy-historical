@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vzochat.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216055702id_/http%3A//www.vzochat.com/PrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vzochat.com privacy policy that was archived on 2008-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080216032403id_/http%3A//vzochat.com/PrivacyStatement.aspx) for the most accurate reproduction.*
 
 # VZOchat - Privacy Statement
 
