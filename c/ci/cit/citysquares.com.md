@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the citysquares.com privacy policy that was archived on 2007-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070920161844id_/http%3A//www.citysquares.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citysquares.com privacy policy that was archived on 2008-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080217063330id_/http%3A//citysquares.com/privacy) for the most accurate reproduction.*
 
-# on Citysquares.com - Buy Local
-
-## Citysquares Online, Inc. Privacy Policy
+# Privacy Policy | CitySquares: Buy Local
 
 This web site, including the information collected on this web site, is owned by Citysquares™ Online, Inc. ("Citysquares"). Citysquares is committed to protecting the privacy of our users. Our goal is to provide a safe and secure user experience. We will strive to ensure that the information you submit to us remains private and is used only for the purposes as set forth herein. As a convenience to our users, this web site may contain links to other web sites. We are not responsible for the content or privacy practices of any other web site. This privacy policy applies solely to this web site. 
 
@@ -50,8 +48,6 @@ If we decide to change this Privacy Policy, we will post those changes here so t
 
 This is the complete and exclusive agreement between Citysquares and you regarding this subject matter and supersedes all prior agreements and all communications, whether written or oral, between the parties. This agreement may be amended, changed, or revised by Citysquares. Any such amendment, change or revision will be posted on this web site by Citysquares. A waiver of any violation or failure to enforce any provision of this agreement by Citysquares shall not constitute a waiver of any rights with respect to this agreement. The validity, construction, interpretation, and performance of this agreement shall be governed and construed by the laws of the Commonwealth of Massachusetts, exclusive of its rules regarding conflicts of law. Any suit or cause of action with respect to this Agreement may only be brought in the Commonwealth of Massachusetts. English shall be the governing language of this agreement. All terms and conditions of this agreement are severable. If any term or provision, or any portion thereof, of this agreement is held to be invalid, illegal or unenforceable, the remaining portions shall not be affected. Section headings are intended for convenience only and shall not be used in the interpretation of this agreement. You agree any claim or cause of action you may have arising out of this agreement or related to any Citysquares service must be filed within one (1) year after the date of the damage, loss or injury giving rise to any such claim or cause of action or you will be forever barred. All other provisions of this agreement which by their nature may reasonably be interpreted to survive the expiration or termination of this agreement, shall survive any expiration or termination of this agreement.
 
-Thank you for using Citysquares Online, Inc.  
+Thank you for using Citysquares Online, Inc. 
 
-
-Last revised 2/23/2007 4:02 PM.  
-
+Last revised 9/25/2007 2:48 PM.
