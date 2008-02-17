@@ -1,611 +1,255 @@
-<!--The following is the downloaded HTML source of the citysquares.com privacy policy that was archived on 2007-09-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070920161844id_/http%3A//www.citysquares.com/privacy.html) for the most accurate reproduction.-->
-
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
-<!--  start meta tags -->
-<title>  on Citysquares.com - Buy Local</title>
-<meta name="description" content=" , Use Citysquares.com to find stores, restaurants, bars, and people in your Boston area neighborhoods like the South End, Davis Square Somerville, Harvard Square Cambridge, Brookline and others. Get hyper-local with Citysquares, Your Neighborhood, Online.">
-<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
-<meta name="keywords" content="citysquares,boston,allston,somerville,cambridge,south end,southie,boston neighborhoods,local">
-<meta name="robots" content="all">
-<meta name="copyright" content="Copyright ©2005-2007 Citysquares Online, Inc.">
-<meta name="author" content="Citysquares.com - Buy Local">
-
-<!--  end meta tags -->
-<base href="http://www.citysquares.com/themes/default/">
-
-<!--  start AddToFavorites icon -->
-<link rel="icon" href="/favicon.ico" type="image/x-icon">
-<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-<!--  end AddToFavorites icon -->
-
-<script language="JavaScript" src="inc/ajax.js" type="text/javascript"></script>
-<script language="JavaScript" src="incs/sniffer2.js" type="text/javascript"></script>
-<script language="JavaScript" src="incs/scripts.js" type="text/javascript"></script>
-<script language="JavaScript" src="javascript/prototype.js" type="text/javascript"></script>
-<script language="JavaScript" src="javascript/builder.js" type="text/javascript"></script>
-<script language="JavaScript" src="javascript/controls.js" type="text/javascript"></script>
-<script language="JavaScript" src="javascript/prototype.js" type="text/javascript"></script>
-<script language="JavaScript" src="javascript/scriptaculous.js" type="text/javascript"></script>
-<script language="JavaScript" src="javascript/dragdrop.js" type="text/javascript"></script>
-<script language="JavaScript" src="javascript/effects.js" type="text/javascript"></script>
-<script language="JavaScript" src="javascript/slider.js" type="text/javascript"></script>
-<script language="JavaScript" src="javascript/unittest.js" type="text/javascript"></script>
-<script language="JavaScript" src="javascript/behaviour.js" type="text/javascript"></script>
-<script language="JavaScript" src="javascript/cs_behaviour_rules.js" type="text/javascript"></script>
-<script language="JavaScript" src="javascript/addclasskillclass.js" type="text/javascript"></script>
-<script language="JavaScript" src="javascript/attachevent.js" type="text/javascript"></script>
-<script language="JavaScript" src="javascript/addcss.js" type="text/javascript"></script>
-<script language="JavaScript" src="javascript/tabtastic.js" type="text/javascript"></script>
-<script language="JavaScript" src="javascript/rating.js" type="text/javascript"></script>
-
-
-<!--  begin Google Maps API ID 
-
-
-INSERT GOOGLE API CODE HERE - LIKE FROM HEAD_DETAIL.TPL 
-
-
--->
-
-
-
-<script language="JavaScript1.2" type="text/javascript">
-
-function showSeg(el,on)
-{
-  if(is_getElementById)
-  {
-    d = document.getElementById(el);
-    if (is_nav4up) {d.visibility = (on) ? "show" : "hide"}
-    else {d.style.visibility = (on) ? "visible" : "hidden"}
-  }
-  else
-  {
-      if (is_ie)
-          document.alldivs[el].style.visibility = (on) ? "visible" : "hidden";
-      else if(is_nav)
-          document.layers[el].bgColor = (on) ? "show" : "hide";
-  }
-  //alert(d.id);
-}
-
-function hideSeg(el)
-{
-    tid=setTimeout('showSeg("'+el+'",false)',2000);
-}
-
-function moveSeg()
-{
-    if(tid)
-        clearTimeout(tid);
-    tid=0;
-}
-
-tid = 0;
-
-isMac = (navigator.appVersion.indexOf("Mac")!=-1) ? 1 : 0;
-
-ver4 = true; //DEBUG!
-//alert("nav4: "+is_nav4up+" IE4:"+is_ie4up);
-
-if (is_nav4up || is_ie4up || is_getElementById) {
-
-  leftPos = 520;  // if option 1 or 3, above, assign null
-  topPos = 143;  // if option 1 or 3, above, assign null
-
-  margRight = 0; // for NO right margin, assign 0
-
-  padding = 0;       // for NO padding, assign 0
-  backCol = null; // for transparent, assign null
-
-  borWid = null;         // for no border, assign null
-  borCol = "#993366"; // overlooked if borWid is null
-  borSty = "solid";   // overlooked if borWid is null
-  if(is_ie4up || is_opera)
-  {
-      width=200;
-  }
-  else
-     width = 185;
-}
-
-semi = ";";
-
-styStr = "<STYLE TYPE='text/css'>"
-styStr += ".segment{";
-styStr += "cursor: hand;";
-styStr += "position:absolute;";
-styStr += "visibility:hidden;";
-styStr += "left:"+leftPos+"px;";
-styStr += "top:"+topPos+"px;";
-styStr += "width:" + width + "px" + semi;
-
-if (borWid > 0) {
-  styStr += "border-width:" + borWid + semi;
-  styStr += "border-color:" + borCol + semi;
-  styStr += "border-style:" + borSty + semi;
-}
-
-if (is_nav4up) {
-  if (borWid > 0 && padding <= 3) styStr += "padding: 0;";
-  if (borWid > 0 && padding > 3) styStr += "padding:" + (padding-3) + semi;
-  if (borWid == 0) styStr += "padding:" + padding + semi;
-}
-else {
-  styStr += "padding:" + padding + semi;
-}
-
-if (backCol != null) {
-  if (is_nav4up) {
-    if (borWid > 0 && padding <= 3) {
-       styStr += "layer-background-color:" + backCol + semi;
-    }
-
-    if (borWid > 0 && padding > 3) {
-      styStr += "background-color:" + backCol + semi;
-    }
-
-    if (borWid == 0) {
-      styStr += "layer-background-color:" + backCol + semi;
-    }
-  }
-  else {
-    styStr += "background-color:" + backCol + semi;
-  }
-}
-
-styStr += "}";
-
-styStr += ".last{position:absolute;visibility:hidden}";
-styStr += "</STYLE>";
-document.write(styStr);
-</script>
-
-<script languge="JavaScript1.2">
-  function highlight_link(elementId,highlight_color)
-  {
-  	d = document.getElementById(elementId);
-  	if(d)
-  	{
-  	  d.style.color = highlight_color;
-  	}
-  }  	
-</script>
-
-
-<!--  start CSS linked -->
-<link rel="stylesheet" rev="stylesheet" href="http://www.citysquares.com/kernel/stylesheets/default-1147420728.css" type="text/css" media="screen">
-
-<link href="incs/starrating.css" rel="stylesheet" type="text/css">
-
-<link rel="stylesheet" href="incs/main.css" type="text/css">
-<link rel="stylesheet" href="innews/style.css" type="text/css">
-<link rel="stylesheet" href="inbulletin/style.css" type="text/css">
-
-
-<!-- <link rel="stylesheet" href="incs/inportal_main.css" type="text/css" />
-<link rel="stylesheet" href="innews/style.css" type="text/css" />
-<link rel="stylesheet" href="inbulletin/style.css" type="text/css" />
--->
-<!--  end CSS linked -->
-
-<!--  start name.js code -->
-<!-- <script src="incs/js/name.js" type="text/javascript" language="JavaScript1.2" charset="utf-8"></script>-->
-<!--  end name.js code -->
-</head>
-
-<body>
-<div align="center">	
-		<!--  global elements, don't copy where "pagetop" is included: begin -->
-
-
-
-<!--  global elements, don't copy where "pagetop" is included: end -->
-
-<div style="background-image:url(img/comingsoon.jpg); background-repeat: no-repeat; background-position:right top;">
-<!--  template: pagetop.tpl -->
-<!--  advertisement //-->
-<div id="adtop">
-	<!--  <div class="adholder">
-		<span class="sponsoredlinkstitle" style="text-align: center;">sponsored ads</span><br />
-		<span class="adholder-border"><a href='http://www.citysquares.com/phpadsnew/adclick.php?bannerid=139&amp;zoneid=4&amp;source=&amp;dest=http%3A%2F%2Fwww.citysquares.com%2Fbusiness_directory%2Ffood_dining_bars_pubs%2Fbars_pubs%2Finlink%2Fdetail_business%2Fthe_brendan_behan_pub.html' target='_blank'><img src='http://www.citysquares.com/phpadsnew/adimage.php?filename=bbehan.jpg&amp;contenttype=jpeg' width='468' height='60' alt='' title='' border='0'></a><div id="beacon_139" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src='http://www.citysquares.com/phpadsnew/adlog.php?bannerid=139&amp;clientid=121&amp;zoneid=4&amp;source=&amp;block=0&amp;capping=0&amp;cb=c4f47cb0dce54145327cd4c0cb269a47' width='0' height='0' alt='' style='width: 0px; height: 0px;'></div></span>
-	</div> -->
-	<div><img src="img/spacer.gif" width="1" height="6" alt="" border="0"></div>
-	<div style="text-align: right;"><div class="top-login-container">
-	
-	<span class="top-login-text"><img src="img/ico_addbiz.gif" height="14" width="14" alt="List your business"><a style="padding: 4px;" href="http://www.citysquares.com/register/business/index.html"> Add Your Business</a></span>
-	
-	
-	<span style="padding-left: 2px; padding-right: 2px; color: #B7DADB">|</span>
-	
-	<span class="top-login-text"><img src="img/ico_adduser.gif" height="16" width="16" alt="Sign up"><a style="padding: 4px;" href="http://www.citysquares.com/signup.html"> Create an Account!</a></span>
-	
-	
-	<span style="padding-left: 2px; padding-right: 2px; color: #B7DADB">|</span>
-	
-	
-	
-	
-  <span class="top-login-text"><img src="img/ico_login.gif" height="16" width="16" alt="Login"><a style="padding: 4px;" href="http://www.citysquares.com/login.html?dest=privacy"> Login
-  </a></span>
-	
-		<span style="padding-left: 2px; padding-right: 2px; color: #B7DADB">|</span>
-	
-	<span class="top-login-text">
-	<img src="img/ico_feedback.gif" width="14" height="14" alt="feedback"> 
-	
-	<script type="text/javascript">
-/*<![CDATA[*/
-
-/***********************************************
-* Encrypt Email script- Please keep notice intact
-* Tool URL: http://www.dynamicdrive.com/emailriddler/
-* **********************************************/
-<!--  Encrypted version of: feedback [at] ***********.*** //-->
-
-var emailriddlerarray=[102,101,101,100,98,97,99,107,64,99,105,116,121,115,113,117,97,114,101,115,46,99,111,109]
-var encryptedemail_id98='' //variable to contain encrypted email 
-for (var i=0; i<emailriddlerarray.length; i++)
- encryptedemail_id98+=String.fromCharCode(emailriddlerarray[i])
-
-document.write('<span class="top-login-text"><a style="padding: 4px;" href="mailto:'+encryptedemail_id98+'?subject=Feedback/Suggestion">Feedback</a></span>')
-
-/*]]>*/
-</script><span class="top-login-text"><a style="padding: 4px;" href="mailto:feedback@citysquares.com?subject=Feedback/Suggestion">Feedback</a></span></span>
-	
-	<span style="padding-left: 2px; padding-right: 2px; color: #B7DADB">|</span>
-	
-	<span class="top-login-text"><img src="img/ico_delicious.gif" height="13" width="14" alt="del.icio.us"> <a style="padding: 4px;" href="http://del.icio.us/post" onclick="window.open('http://del.icio.us/post?v=4&amp;noui&amp;jump=close&amp;url='+encodeURIComponent(location.href)+'&amp;title='+encodeURIComponent(document.title), 'delicious','toolbar=no,width=700,height=400'); return false;"> Save to del.icio.us</a></span>
-</div>
-</div>
-</div>
-<!--  advertisement \\-->
-<!--  header //-->
-
-<div id="logo">
-	<span class="logoimage"><a href="http://www.citysquares.com/index.html"><img src="img/logo_citysquares_top.gif" width="260" height="75" alt="Citysquares Home" border="0"></a></span>
-
-	
-		<div class="search-keyword-top" align="right">
-		<!-- <form method="POST" name="search_form" action="http://www.citysquares.com/search_results.html?Action=m_simple_search&amp;Error=search_results/error.tpl">
-		<span class="searchtext">Search
-		:</span> 
-		<INPUT type="text" style="width:165px; font-family:Georgia, Arial, Times, serif; font-size: 13px; font-weight:bold; color:#0099FF;"  name="keywords" VALUE="" /><input type=hidden name="required[]" VALUE="keywords" />
-
-		
-			<input type="submit" value="Go!" />
-			<br />
-<span style="width:165px; font-family:Georgia, Arial, Times, serif; font-size: 10px; color:#666666;">&nbsp;&nbsp;(Ex. theatre, pizza, yoga)</span>
-		</form>-->
-		<!--  Google CSE Search Box Begins -->
-<form id="searchbox_014900750899579778376:5xdcub8nev8" action="http://www.citysquares.com/search.html">
-  <input type="hidden" name="cx" value="014900750899579778376:5xdcub8nev8">
-  <input name="q" type="text" size="40">
-  <input type="submit" name="sa" value="Search">
-  <input type="hidden" name="cof" value="FORID:9">
-		</form>
-<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=searchbox_014900750899579778376%3A5xdcub8nev8"></script>
-<!--  Google CSE Search Box Ends -->
-        
-      
-		</div>
-	
-</div>
-
-<!--  header \\-->
-<!--  Square List: begin -->
-<div id="mainnav">
-	<div class="mainnav-container">
-<!--  Begin Nav -->
-	
-			
-			
-			
-			<span class="mainnav-text-off">
-				<a href="http://www.citysquares.com/allston_village.html" style="padding: 4px;">Allston Village</a>
-				 |
-			</span>
-		
-			<span class="mainnav-text-off">
-				<a href="http://www.citysquares.com/arlington_center.html" style="padding: 4px;">Arlington Center</a>
-				 |
-			</span>
-		
-			<span class="mainnav-text-off">
-				<a href="http://www.citysquares.com/arlington_heights.html" style="padding: 4px;">Arlington Heights</a>
-				 |
-			</span>
-		
-			<span class="mainnav-text-off">
-				<a href="http://www.citysquares.com/back_bay.html" style="padding: 4px;">Back Bay</a>
-				 |
-			</span>
-		
-			<span class="mainnav-text-off">
-				<a href="http://www.citysquares.com/beacon_hill.html" style="padding: 4px;">Beacon Hill</a>
-				 |
-			</span>
-		
-			<span class="mainnav-text-off">
-				<a href="http://www.citysquares.com/brighton_center.html" style="padding: 4px;">Brighton Center</a>
-				 |
-			</span>
-		
-			<span class="mainnav-text-off">
-				<a href="http://www.citysquares.com/brookline_village.html" style="padding: 4px;">Brookline Village</a>
-				 |
-			</span>
-		
-			<span class="mainnav-text-off">
-				<a href="http://www.citysquares.com/central_square.html" style="padding: 4px;">Central Square</a>
-				 |
-			</span>
-		
-			<span class="mainnav-text-off">
-				<a href="http://www.citysquares.com/coolidge_corner.html" style="padding: 4px;">Coolidge Corner</a>
-				 |
-			</span>
-		
-			<span class="mainnav-text-off">
-				<a href="http://www.citysquares.com/davis_square.html" style="padding: 4px;">Davis Square</a>
-				 |
-			</span>
-		
-			<span class="mainnav-text-off">
-				<a href="http://www.citysquares.com/downtown.html" style="padding: 4px;">Downtown</a>
-				 |
-			</span>
-		
-			<span class="mainnav-text-off">
-				<a href="http://www.citysquares.com/harvard_square.html" style="padding: 4px;">Harvard Square</a>
-				 |
-			</span>
-		
-			<span class="mainnav-text-off">
-				<a href="http://www.citysquares.com/inman_square.html" style="padding: 4px;">Inman Square</a>
-				 |
-			</span>
-		
-			<span class="mainnav-text-off">
-				<a href="http://www.citysquares.com/jamaica_plain.html" style="padding: 4px;">Jamaica Plain</a>
-				 |
-			</span>
-		
-			<span class="mainnav-text-off">
-				<a href="http://www.citysquares.com/kendall_square.html" style="padding: 4px;">Kendall Square</a>
-				 |
-			</span>
-		
-			<span class="mainnav-text-off">
-				<a href="http://www.citysquares.com/kenmore_fenway.html" style="padding: 4px;">Kenmore &amp; Fenway</a>
-				 |
-			</span>
-		
-			<span class="mainnav-text-off">
-				<a href="http://www.citysquares.com/north_end.html" style="padding: 4px;">North End</a>
-				 |
-			</span>
-		
-			<span class="mainnav-text-off">
-				<a href="http://www.citysquares.com/north_station.html" style="padding: 4px;">North Station</a>
-				 |
-			</span>
-		
-			<span class="mainnav-text-off">
-				<a href="http://www.citysquares.com/porter_square.html" style="padding: 4px;">Porter Square</a>
-				 |
-			</span>
-		
-			<span class="mainnav-text-off">
-				<a href="http://www.citysquares.com/roslindale_village.html" style="padding: 4px;">Roslindale Village</a>
-				 |
-			</span>
-		
-			<span class="mainnav-text-off">
-				<a href="http://www.citysquares.com/south_end.html" style="padding: 4px;">South End</a>
-				 |
-			</span>
-		
-			<span class="mainnav-text-off">
-				<a href="http://www.citysquares.com/southie.html" style="padding: 4px;">Southie</a>
-				 |
-			</span>
-		
-			<span class="mainnav-text-off">
-				<a href="http://www.citysquares.com/theatre_district.html" style="padding: 4px;">Theatre District</a>
-				 |
-			</span>
-		
-			<span class="mainnav-text-off">
-				<a href="http://www.citysquares.com/union_square.html" style="padding: 4px;">Union Square</a>
-				 |
-			</span>
-		
-			<span class="mainnav-text-off">
-				<a href="http://www.citysquares.com/washington_square.html" style="padding: 4px;">Washington Square</a>
-				
-			</span>
-		
-			
-		
-<!--  End Nav -->
-	</div>
-</div>
-</div>
-<!--  Square List: end -->
-<div style="border-bottom: 3px double #CADEE3; width: 760px; margin-bottom: 2px;"></div>
-
-
-	
-	<div id="container">
-		<div id="navigation">
-		<!--  left column //-->
-			<div id="leftnav-container">	
-				
-				<br>
-				<!--  Template=left.tpl -->
-<div id="left-banner-zone-container">
-<div class="left-banner-zone"><span class="sponsoredlinkstitle">sponsored ads</span></div>
-
-<!--  advertisement start //-->
-<div class="left-banner-zone"><a href="http://www.citysquares.com/phpadsnew/adclick.php?bannerid=148&amp;zoneid=8&amp;source=&amp;dest=http%3A%2F%2Fwww.maids.com%2F" target="_blank"><img src="http://www.citysquares.com/phpadsnew/adimage.php?filename=themaids125.jpg&amp;contenttype=jpeg" width="125" height="125" alt="" title="" border="0"></a><div id="beacon_148" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www.citysquares.com/phpadsnew/adlog.php?bannerid=148&amp;clientid=134&amp;zoneid=8&amp;source=&amp;block=0&amp;capping=0&amp;cb=6fe41369b09aaf6d4182babd4d7ee396" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div></div>
-<!--  advertisement finish //-->
-
-
-
-<!--  advertisement start //
-<div class="left-banner-zone"><a target='_blank' href="http://www.citysquares.com/phpadsnew/adclick.php?bannerid=68&amp;zoneid=9&amp;source=&amp;dest=http%3A%2F%2Fwww.tkqlhce.com%2Fclick-1824422-10377124%3Fcm_ven%3DCJ%26cm_cat%3D1654001%26cm_pla%3D1824422%26cm_ite%3D125x125%2BCamp%252FHike&amp;ismap="  >
-<img src="http://www.tqlkg.com/image-1824422-10377124" width="125" height="125" alt="125x125 Camp/Hike" border="0"></a><div id="beacon_68" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src='http://www.citysquares.com/phpadsnew/adlog.php?bannerid=68&amp;clientid=5&amp;zoneid=9&amp;source=&amp;block=0&amp;capping=0&amp;cb=ee8db250c72bd0da33c2d496107bbbee' width='0' height='0' alt='' style='width: 0px; height: 0px;'></div></div>
-     advertisement finish //-->
-	 
-</div>
-
-
-
-<div id="left-newsletter">
-	<div class="left-newsletter-title">Citysquares Newsletter</div>
-	<div style="padding-left: 8px;">
-		<br>
-		<span style="padding-bottom: 2px;">Enter your e-mail address to subscribe to the mailing list.</span>
-		<br>
-		
-		
-		<form method="post" action="http://app4.intellicontact.com/icp/signup.pl" name="icpsignup" onsubmit="return verifyRequired();"> <input type="hidden" name="errorredirect" value="http://www.intellicontact.com/signup/error.html">
-<input type="hidden" name="redirect" value="http://www.citysquares.com/index.php?env=-newsletter_thankyou">
-<script language="javascript">
-function verifyRequired() {
-  if (document.icpsignup.fields_email.value == "") {
-    alert("The Email Address: field is required.");
-    return false;
-  }
- 
-
-return true;
-}
-</script>
-
-<input type="text" size="22" name="fields_email">
-<input type="hidden" name="listid" value="12463">
-<input type="hidden" name="specialid:12463" value="KLL9">
- 
-<input type="hidden" name="reallistid" value="1"><br>
-<input type="submit" name="Submit" value="Submit">	
-</form>
-
-<br>
-	
-	
-	</div>
-
-</div>
-
-
-
-
-				<br>
-				
-		<!--  left column \\-->
-			</div>
-		</div>
-	  <div id="content">
-					
-			
-			
-			<h2>Citysquares Online, Inc. Privacy Policy</h2>	
-			
-			
-			<p>&nbsp; </p>
-<p align="left">This web site, including the information collected on this web site, is owned by Citysquares™ Online, Inc. ("Citysquares").  Citysquares is committed to protecting the privacy of our users.  Our goal is to provide a safe and secure user experience. We will strive to ensure that the information you submit to us remains private and is used only for the purposes as set forth herein. As a convenience to our users, this web site may contain links to other web sites.  We are not responsible for the content or privacy practices of any other web site.  This privacy policy applies solely to this web site. </p>
+<!--The following is the downloaded HTML source of the citysquares.com privacy policy that was archived on 2008-02-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080217063330id_/http%3A//citysquares.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+		<title>Privacy Policy | CitySquares: Buy Local</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="shortcut icon" href="/themes/bluebird/images/csicon.ico" type="image/x-icon">
+
+<script type="text/javascript"><!--
+  var az_channel = "pub1/node/58396,type_anonymous_user,url_node/58396";
+  var az_u = "citysquares.com/openads/www/delivery/";
+  var az_us = "citysquares.com/openads/www/delivery/";
+  var az_js = "ajs.php";
+--></script>
+
+    	<style type="text/css" media="all">@import "/files/css/410c7f9c8080a69d6730ad897f166eaa.css";</style>
+    	<script type="text/javascript" src="/misc/jquery.js"></script>
+<script type="text/javascript" src="/misc/drupal.js"></script>
+<script type="text/javascript" src="/sites/all/modules/jquery_update/compat-1.0.js"></script>
+<script type="text/javascript" src="/sites/default/modules/custom/location/location.js"></script>
+<script type="text/javascript" src="/sites/all/modules/openads/mmm.js"></script>
+<script type="text/javascript" src="/sites/all/modules/jquery_update/collapse-fix.js"></script>
+<script type="text/javascript">Drupal.extend({ settings: { "googleanalytics": { "trackDownload": "pdf|zip|mp3" } } });</script>
+<script type="text/javascript">baseurl = "/themes/bluebird"</script>
+		<style type="text/css" media="print">@import "/themes/bluebird/print.css";</style>
+		<style media="all" type="text/css">@import "/themes/bluebird/jtip.css";</style>
+		<!--[if lt IE 7]><link rel="stylesheet" type="text/css" href="/themes/bluebird/ie6.css" media="screen"/><![endif]-->
+		<!--[if IE]><link rel="stylesheet" type="text/css" href="/themes/bluebird/ie.css" media="screen"/><![endif]-->
+		<meta name="verify-v1" content="/etA9YSvPg1ZijpvKcCpAa3qGBxf8cqFnRkyAcBd/Nc=">
+		<meta name="verify-v1" content="8TgefB5BtQ+u6Fd2xc3qwsKDPlxEOGIakotXoNcvHr4=">
+	</head>
+	<body>
+		<!-- container start -->
+		<div id="container">
+			<div id="container-table">
+				<div id="table-holder">
+					<!-- content start -->
+					<div id="content">
+						<!-- navigation start -->
+				        <div>
+<div id="navigation"><ul><li><a href="/boston/north-end" title="Go back to North End, Boston." class="home">Home</a></li><li><a href="/boston/north-end/businesses" title="Find businesses within North End, Boston." class="business">Businesses</a></li><li><a href="/boston/north-end/events" title="See events within North End, Boston." class="events">Events</a></li><li><a href="/boston/north-end/news" title="Get news around North End, Boston." class="news">News</a></li><div id="search-container"><div id="search"><div><form action="/privacy" method="post" id="location-search-form">
+ <input type="text" maxlength="255" name="search_term" id="edit-search-term" size="30" value="" class="form-text">
+<input type="submit" name="op" id="edit-submit" value="Search" class="form-submit">
+<input type="hidden" name="form_id" id="edit-location-search-form" value="location_search_form">
+
+</form></div>
+</div></div></ul></div></div><div>
+    <div id="loc">
+      <div class="loc-bar-holder">
+        <div id="loc-bar" class="loc-bar-open">North End <a href="javascript:void(0);" id="toggle-neighborhood-info" title="Show/Hide the neighborhood list."><span>change</span></a> <span class="loc-sep">|</span></div>
+      </div>
+      <div class="loc-bar-holder">
+        <div id="loc-bar-links">
+          <ul><li><a href="/boston/north-end/neighborhoods" class="neighborhoods" title="Read more about North End, Boston.">Neighborhoods</a></li><li><a href="/boston/north-end/information" class="info" title="Read more about North End, Boston.">Info</a></li><li><a href="/boston/north-end/map" class="map" title="View photos of North End, Boston.">Map</a></li><li><a href="/boston/north-end/photos" class="photos" title="View photos of North End, Boston.">Photos</a></li></ul>
+        </div>
+      </div>
+      <div class="clear"></div>
+    </div>
+
+
+    <div id="neighborhood-info" style="display: none;">
+      <div class="neighborhood-holder">
+        <div class="neighborhood-info-photo">
+          <img src="/files/images/northend2.120x120.jpg" alt="Boston's North End" title="Boston's North End">
+          
+        </div>
+        <div class="neighborhood-info-text">
+          <h1>Welcome to North End</h1>
+          <p>The North End of <a href="/boston" title="Boston, MA on CitySquares">Boston</a> is perhaps the most storied neighborhood of the city. It's established longer than any other  community in the city. Since 1630, immigrants have made the North End their  home. Mostly known today for its rich Italian American population the historic North End is very  rich in history and culture.Bordered by <a href="/boston/downtown" title="Downtown Boston on CitySquares">downtown Boston</a>, and the <a href="/boston/waterfront" title="Boston's Waterfront on CitySquares">Waterfront</a>&nbsp;  the North End is known for its mostly  authentic Italian <a href="/boston/north-end/restaurants-food-beverages" title="Restaurants in Boston's North End, on CitySquares">restaurants</a> and <a href="/boston/north-end/restaurants-food-beverages" title="Groceries in Boston's North End on CitySquares">grocers</a>, as well as some of the most storied  sites in American history like the <a href="/boston/north-end/arts-entertainment/museums-zoological-gardens/the-paul-revere-house" title="Paul Revere's house, in Boston's North End, on CitySquares">Paul Revere House</a>, the Freedom Trail, and  the <a href="/boston/north-end/religious-organizations/religious-services-organizations/old-north-church" title="The Old North Church in Boston's North End, on CitySquares">Old North Church</a>.</p> <a href="/boston/north-end/information" title="Read more about North End, Boston.">read more</a>
+        </div>
+        <div class="clear-left"></div>
+      </div>
+
+      <div class="neighborhood-holder">
+        <div>
+          <div class="title">Closest Neighborhoods:</div><div class="sub-title">From North End, Boston</div>
+          
+        </div>
+        <div class="neighborhood-list-columns">
+          <ul id="hood-col0"><li><a href="/boston/waterfront" title="Waterfront In Boston is only 0.00 miles from North End, Boston.">waterfront</a></li><li><a href="/boston/government-center" title="Government Center In Boston is only 0.36 miles from North End, Boston.">government center</a></li><li><a href="/boston/bulfinch-triangle" title="Bulfinch Triangle In Boston is only 0.39 miles from North End, Boston.">bulfinch triangle</a></li><li><a href="/boston/financial-district" title="Financial District In Boston is only 0.52 miles from North End, Boston.">financial district</a></li><li><a href="/boston/downtown" title="Downtown In Boston is only 0.54 miles from North End, Boston.">downtown</a></li><li><a href="/boston/west-end" title="West End In Boston is only 0.69 miles from North End, Boston.">west end</a></li><li><a href="/boston/downtown-crossing" title="Downtown Crossing In Boston is only 0.70 miles from North End, Boston.">downtown crossing</a></li></ul><ul id="hood-col1"><li><a href="/boston/maverick-sq" title="Maverick Sq In Boston is only 0.81 miles from North End, Boston.">maverick sq</a></li><li><a href="/boston/beacon-hill" title="Beacon Hill In Boston is only 0.88 miles from North End, Boston.">beacon hill</a></li><li><a href="/boston/leather-district" title="Leather District In Boston is only 0.92 miles from North End, Boston.">leather district</a></li><li><a href="/boston/bunker-hill" title="Bunker Hill In Boston is only 0.94 miles from North End, Boston.">bunker hill</a></li><li><a href="/boston/thompson-square" title="Thompson Square In Boston is only 0.94 miles from North End, Boston.">thompson square</a></li><li><a href="/boston/chinatown" title="Chinatown In Boston is only 0.95 miles from North End, Boston.">chinatown</a></li><li><a href="/boston/boston-common" title="Boston Common In Boston is only 0.95 miles from North End, Boston.">boston common</a></li></ul><ul id="hood-col2"><li><a href="/boston/fort-point" title="Fort Point In Boston is only 1.05 miles from North End, Boston.">fort point</a></li><li><a href="/boston/theatre-district" title="Theatre District In Boston is only 1.11 miles from North End, Boston.">theatre district</a></li><li><a href="/boston/bay-village" title="Bay Village In Boston is only 1.17 miles from North End, Boston.">bay village</a></li><li><a href="/boston/charlestown" title="Charlestown In Boston is only 1.21 miles from North End, Boston.">charlestown</a></li><li><a href="/cambridge/east-cambridge" title="East Cambridge In Cambridge is only 1.35 miles from North End, Boston.">east cambridge</a></li><li><a href="/boston/the-neck" title="The Neck In Boston is only 1.58 miles from North End, Boston.">the neck</a></li></ul><div class="neighborhood-all-hoods"><a href="/boston/north-end/neighborhoods" title="View all the neighborhoods near North End, Boston.">View all neighborhoods &gt;&gt;</a></div>
+        </div>
+        <div class="clear-left"></div>
+      </div>
+      <div class="clear"></div>
+    </div>
+
+
+</div>						<!-- navigation end -->
+						<!-- left content column start -->
+						<ul class="navigation-path">
+							<li><a href="/">Home</a></li>
+						</ul>
+						<div id="content-left">
+
+					      
+					      					      
+
+<div id="node-58396" class="node">
+
+
+
+  
+  <div>
+    <div class="box">
+<div class="box-bg">
+<div class="box-body">
+<h1>Citysquares Online, Inc. Privacy Policy</h1>
+<p>&nbsp; </p>
+<p align="left">This web site, including the information collected on  this web site, is owned by Citysquares™ Online, Inc. ("Citysquares").  Citysquares is committed to protecting the privacy of our users. Our  goal is to provide a safe and secure user experience. We will strive to  ensure that the information you submit to us remains private and is  used only for the purposes as set forth herein. As a convenience to our  users, this web site may contain links to other web sites. We are not  responsible for the content or privacy practices of any other web site.  This privacy policy applies solely to this web site. </p>
 <p align="left">&nbsp; </p>
 <h2 align="left">Information About Citysquares Online, Inc. and Affiliate Visitors </h2>
-<p align="left">Citysquares Online, Inc. and its affiliates collect information about all of our users; such as what area users visit most frequently and what services and features users access the most. This data is only used to benefit the user. From this data we can determine what is most beneficial to the user and how we can better the user experience. We may share this data with our partners, but only so they too can understand our users. </p>
+<p align="left">Citysquares Online, Inc. and its affiliates collect  information about all of our users; such as what area users visit most  frequently and what services and features users access the most. This  data is only used to benefit the user. From this data we can determine  what is most beneficial to the user and how we can better the user  experience. We may share this data with our partners, but only so they  too can understand our users. </p>
 <h2>&nbsp;</h2>
 <h2>Information About Citysquares</h2>
-<p> Citysquares collect information about our users; such as what area users visit most frequently and what services and features users access the most. This data is used to benefit the user.  From this data we can determine what is most beneficial to the user and how we can better the user experience.  We may share this data with our advertisers and business affiliates to better understand the needs of our users.</p>
+<p> Citysquares collect information about our users; such as what area  users visit most frequently and what services and features users access  the most. This data is used to benefit the user. From this data we can  determine what is most beneficial to the user and how we can better the  user experience. We may share this data with our advertisers and  business affiliates to better understand the needs of our users.</p>
 <h2>&nbsp;</h2>
 <h2>Information About You </h2>
-<p> Citysquares collects and stores the personal information provided by you to properly identify you as a user on this web site. The personal information collected from this web site is used for a variety of purposes including identification, registration, authentication, on-line transactions, and marketing.  In some instances, such as when you enter a classifieds posting, create a profile, enter a contest or respond to a survey, we may ask for information including but not limited to: your name, address, e-mail address, telephone number. We may use this information to alert you of new products, new services or upcoming events.  Your personal information is accessible to you and you may update your personal information by logging into your Citysquares web site profile.</p>
+<p> Citysquares collects and stores the personal information provided  by you to properly identify you as a user on this web site. The  personal information collected from this web site is used for a variety  of purposes including identification, registration, authentication,  on-line transactions, and marketing. In some instances, such as when  you enter a classifieds posting, create a profile, enter a contest or  respond to a survey, we may ask for information including but not  limited to: your name, address, e-mail address, telephone number. We  may use this information to alert you of new products, new services or  upcoming events. Your personal information is accessible to you and you  may update your personal information by logging into your Citysquares  web site profile.</p>
 <h2>&nbsp;</h2>
 <h2>General Information Disclosure </h2>
-<p> Except as otherwise specified in this Privacy Policy, we do not disclose information about visitors, guests or registered users of Citysquares to outside parties.  There are circumstances under which we will disclose personal information, without notice to you.   For example, if we are required to do so by law, a court order or if in our reasonable belief such disclosure is necessary.  We do not sell or rent the personal information of the users of this web site.  We reserve the right to send you certain communications relating to our service, such as service announcements, administrative messages, or newsletters, which are considered part of your account, without offering you the opportunity to opt-out of receiving them.</p>
-<p>If you decide to order a product or service from this web site, certain personal information will be needed to process and fill your order.  Citysquares and/or its advertisers and business affiliates will need your name, mailing address, e-mail address, shipping address, telephone number, and your credit card number to process your order.  We use the services of outside companies, such as shipping companies, credit card processing companies, and event registration, to process and fulfill orders.  We provide these companies with the information that they need to perform the service and they are not permitted to use personal information for other purposes.  We may share all information collected on this web site, including personal information, with our advertisers and business affiliates.</p>
-<p>If you are browsing this web site, reading or downloading information, we automatically collect information about your visit.   The information we collect may include the Internet domain, IP address, browser, and operating system of the computer you are using to access this web site, the date and time you logged on, the pages you visited, and if you linked to or from another web site.  This information is anonymous and does not identify you personally.  We use this information to analyze trends, statistics, determine user movement and identify heavily used web pages, and to help us provide a better web site and better service.  We may also share aggregated information about our users with our advertisers and business affiliates.  The information that we share does not contain personal information that can identify an individual.</p>
-<p>We may from time-to-time, offer users the opportunity to participate in web based events, surveys or contests.  Participation in a web-based event, survey or contest is completely voluntary.  Information requested for a survey or contest may include personal information (such as name, address, and age group), and demographic information.  Personal information collected from a survey or contest may be used to notify the user participating in the survey or contest or as described above.  Personal information collected from certain web-based events is used by the event sponsor or organizer subject to their own privacy policy.  Questions regarding the privacy policy of a web-based event should be directed to the event sponsor or organizer directly. </p>
+<p> Except as otherwise specified in this Privacy Policy, we do not  disclose information about visitors, guests or registered users of  Citysquares to outside parties. There are circumstances under which we  will disclose personal information, without notice to you. For example,  if we are required to do so by law, a court order or if in our  reasonable belief such disclosure is necessary. We do not sell or rent  the personal information of the users of this web site. We reserve the  right to send you certain communications relating to our service, such  as service announcements, administrative messages, or newsletters,  which are considered part of your account, without offering you the  opportunity to opt-out of receiving them.</p>
+<p>If you decide to order a product or service from this web site,  certain personal information will be needed to process and fill your  order. Citysquares and/or its advertisers and business affiliates will  need your name, mailing address, e-mail address, shipping address,  telephone number, and your credit card number to process your order. We  use the services of outside companies, such as shipping companies,  credit card processing companies, and event registration, to process  and fulfill orders. We provide these companies with the information  that they need to perform the service and they are not permitted to use  personal information for other purposes. We may share all information  collected on this web site, including personal information, with our  advertisers and business affiliates.</p>
+<p>If you are browsing this web site, reading or downloading  information, we automatically collect information about your visit. The  information we collect may include the Internet domain, IP address,  browser, and operating system of the computer you are using to access  this web site, the date and time you logged on, the pages you visited,  and if you linked to or from another web site. This information is  anonymous and does not identify you personally. We use this information  to analyze trends, statistics, determine user movement and identify  heavily used web pages, and to help us provide a better web site and  better service. We may also share aggregated information about our  users with our advertisers and business affiliates. The information  that we share does not contain personal information that can identify  an individual.</p>
+<p>We may from time-to-time, offer users the opportunity to participate  in web based events, surveys or contests. Participation in a web-based  event, survey or contest is completely voluntary. Information requested  for a survey or contest may include personal information (such as name,  address, and age group), and demographic information. Personal  information collected from a survey or contest may be used to notify  the user participating in the survey or contest or as described above.  Personal information collected from certain web-based events is used by  the event sponsor or organizer subject to their own privacy policy.  Questions regarding the privacy policy of a web-based event should be  directed to the event sponsor or organizer directly. </p>
 <h2>&nbsp;</h2>
 <h2>Cookies</h2>
-<p> To enhance your experience with our website, Citysquares uses a feature on your Internet browser called a "cookie". Cookies are small files that your web browser places on your computer's hard drive. We use cookies for remembering user names and passwords and preferences, tracking click streams, and for load balancing. Using cookies to track your visit to Citysquares, our web server logs the IP/Internet address of your computer. Cookies also can be used to determine other information, such as the daily visitors to our web site, pages of the site most frequently visited, and time and date of the visits. This information does not identify you personally.  Because of our use of cookies, we can deliver faster service, consistent, updated results, and a more personalized site experience. You have the option of setting your browser to reject cookies. However, doing this may hinder performance and negatively impact your experience on Citysqaures’ web site.</p>
+<p> To enhance your experience with our website, Citysquares uses a  feature on your Internet browser called a "cookie". Cookies are small  files that your web browser places on your computer's hard drive. We  use cookies for remembering user names and passwords and preferences,  tracking click streams, and for load balancing. Using cookies to track  your visit to Citysquares, our web server logs the IP/Internet address  of your computer. Cookies also can be used to determine other  information, such as the daily visitors to our web site, pages of the  site most frequently visited, and time and date of the visits. This  information does not identify you personally. Because of our use of  cookies, we can deliver faster service, consistent, updated results,  and a more personalized site experience. You have the option of setting  your browser to reject cookies. However, doing this may hinder  performance and negatively impact your experience on Citysqaures’ web  site.</p>
 <h2>&nbsp;</h2>
 <h2>Feedback </h2>
-<p> Citysquares has an area on the site where you can submit feedback. Any feedback that is submitted through this area becomes property of Citysquares. We may use this feedback for marketing purposes or to contact you for further feedback.</p>
+<p> Citysquares has an area on the site where you can submit feedback.  Any feedback that is submitted through this area becomes property of  Citysquares. We may use this feedback for marketing purposes or to  contact you for further feedback.</p>
 <h2>&nbsp;</h2>
 <h2>Children </h2>
-<p> This web site does not contain content, products or services that are marketed to children.  We are committed to observing applicable laws and requirements regarding child privacy such as the Children's Online Privacy Protection Act.</p>
-<p>We do not specifically collect information about children. We believe that children should get their parent's consent prior to giving personal information. If you are concerned about your child's use of Citysquares, we encourage you to use web filtering technology to supervise your child's access to the site.  We also encourage you to participate in your child's experience with Citysquares.</p>
+<p> This web site does not contain content, products or services that  are marketed to children. We are committed to observing applicable laws  and requirements regarding child privacy such as the Children's Online  Privacy Protection Act.</p>
+<p>We do not specifically collect information about children. We  believe that children should get their parent's consent prior to giving  personal information. If you are concerned about your child's use of  Citysquares, we encourage you to use web filtering technology to  supervise your child's access to the site. We also encourage you to  participate in your child's experience with Citysquares.</p>
 <h2>&nbsp;</h2>
 <h2>Privacy Policy Changes </h2>
-<p> If we decide to change this Privacy Policy, we will post those changes here so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. If, at any time, you have questions or concerns about Citysquares’ privacy policy please write to us at Citysquares Online, Inc., 411A Highland Ave, Suite 368, Somerville, MA 02144. Attn: Privacy.</p>
+<p> If we decide to change this Privacy Policy, we will post those  changes here so that you will always know what information we gather,  how we might use that information, and whether we will disclose it to  anyone. If, at any time, you have questions or concerns about  Citysquares’ privacy policy please write to us at Citysquares Online,  Inc., 411A Highland Ave, Suite 368, Somerville, MA 02144. Attn: Privacy.</p>
 <h2>&nbsp;</h2>
 <h2>General</h2>
-<p> This is the complete and exclusive agreement between Citysquares and you regarding this subject matter and supersedes all prior agreements and all communications, whether written or oral, between the parties.  This agreement may be amended, changed, or revised by Citysquares.  Any such amendment, change or revision will be posted on this web site by Citysquares. A waiver of any violation or failure to enforce any provision of this agreement by Citysquares shall not constitute a waiver of any rights with respect to this agreement.  The validity, construction, interpretation, and performance of this agreement shall be governed and construed by the laws of the Commonwealth of Massachusetts, exclusive of its rules regarding conflicts of law.  Any suit or cause of action with respect to this Agreement may only be brought in the Commonwealth of Massachusetts.  English shall be the governing language of this agreement.  All terms and conditions of this agreement are severable.  If any term or provision, or any portion thereof, of this agreement is held to be invalid, illegal or unenforceable, the remaining portions shall not be affected.  Section headings are intended for convenience only and shall not be used in the interpretation of this agreement.  You agree any claim or cause of action you may have arising out of this agreement or related to any Citysquares service must be filed within one (1) year after the date of the damage, loss or injury giving rise to any such claim or cause of action  or you will be forever barred.  All other provisions of this agreement which by their nature may reasonably be interpreted to survive the expiration or termination of this agreement, shall survive any expiration or termination of this agreement.</p>
-<p>Thank you for using Citysquares Online, Inc.<br>
+<p> This is the complete and exclusive agreement between Citysquares  and you regarding this subject matter and supersedes all prior  agreements and all communications, whether written or oral, between the  parties. This agreement may be amended, changed, or revised by  Citysquares. Any such amendment, change or revision will be posted on  this web site by Citysquares. A waiver of any violation or failure to  enforce any provision of this agreement by Citysquares shall not  constitute a waiver of any rights with respect to this agreement. The  validity, construction, interpretation, and performance of this  agreement shall be governed and construed by the laws of the  Commonwealth of Massachusetts, exclusive of its rules regarding  conflicts of law. Any suit or cause of action with respect to this  Agreement may only be brought in the Commonwealth of Massachusetts.  English shall be the governing language of this agreement. All terms  and conditions of this agreement are severable. If any term or  provision, or any portion thereof, of this agreement is held to be  invalid, illegal or unenforceable, the remaining portions shall not be  affected. Section headings are intended for convenience only and shall  not be used in the interpretation of this agreement. You agree any  claim or cause of action you may have arising out of this agreement or  related to any Citysquares service must be filed within one (1) year  after the date of the damage, loss or injury giving rise to any such  claim or cause of action or you will be forever barred. All other  provisions of this agreement which by their nature may reasonably be  interpreted to survive the expiration or termination of this agreement,  shall survive any expiration or termination of this agreement.</p>
+<p>Thank you for using Citysquares Online, Inc.
 </p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p>Last revised 2/23/2007 4:02 PM.<br></p>
+<p>Last revised 9/25/2007 2:48 PM.</p>
 </div>
-		
-	</div>	
-	<!--  end content -->
-	<div id="footer">
-		
-<!--  start footer -->
-<style type="text/css">
-<!-- 
-.style1 {color: #999999}
--->
-</style>
-
-	<!--  <div id="adbottom">
-		<span class="sponsoredlinkstitle" style="text-align: center;">sponsored ads</span><br />
-		<div class="adholder"><span class="adholder-border"><a href='http://www.citysquares.com/phpadsnew/adclick.php?bannerid=61&amp;zoneid=7&amp;source=&amp;dest=http%3A%2F%2Fwww.salonfemia.com%2F' target='_blank'><img src='http://www.citysquares.com/phpadsnew/adimage.php?filename=salonfemia.gif&amp;contenttype=gif' width='468' height='60' alt='Salon Femia' title='Salon Femia' border='0'></a><div id="beacon_61" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src='http://www.citysquares.com/phpadsnew/adlog.php?bannerid=61&amp;clientid=16&amp;zoneid=7&amp;source=&amp;block=30&amp;capping=0&amp;cb=64198e2175d5e0909e8a4764b026d50f' width='0' height='0' alt='' style='width: 0px; height: 0px;'></div></span></div>
-	</div> -->
-
-
-<div class="copyright">
-		<span class="copyright-text"><a href="http://www.citysquares.com/about.html">About Us</a> | <a href="http://www.citysquares.com/contact.html">Contact Us</a> | <a href="http://www.citysquares.com/sitemap" target="_blank">Sitemap</a> | <a href="http://www.citysquares.com/register/business/index.html">List Your Business on Citysquares.com</a><!-- | Submit an Event--><br> 
-  <a href="http://www.citysquares.com/privacy.html">Privacy Policy</a> | <a href="http://www.citysquares.com/use.html">Terms of Use</a> <!-- <a href="http://www.citysquares.com/sitemap.html">Site Map</a>--></span>
-					
-		<br>
-		<br>
-	<span class="copyright-text"><br>
-	©2005-2007 Citysquares Online, Inc. All rights reserved. Citysquares is a trademark of Citysquares Online, Inc. </span>
-    <span class="style1">[1.4.0]</span></div>
-    <!--  end footer -->
-	
-	<!--  Start Quantcast tag -->
-<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
-<script type="text/javascript">
-_qacct="p-5b_O4P1Tnyf4M";quantserve();</script>
-<noscript>
-<img src="http://pixel.quantserve.com/pixel/p-5b_O4P1Tnyf4M.gif" style="display: none" height="1" width="1" alt="Quantcast"/></noscript>
-<!--  End Quantcast tag -->
-
-	
-	<!--  Begin Google Analytics -->
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
-<script type="text/javascript">
-_uacct = "UA-1307792-1";
-urchinTracker();
-</script>
-	<!--  END Google Analytics -->
-
-
-	</div>
 </div>
+</div>
+  </div>
 
+  <div>
+    <div class="meta">
+        </div>
+
+      </div>
+
+</div>						</div>
+						<!-- left content column end -->
+						<!-- right conent column start -->
+						<div id="content-right">
+				          <div>
+
+	<div class="ad-bottom">
+	<script language="JavaScript" type="text/javascript"><!--
+	  az_adjs(11,'pub16cad07f');
+	--></script><script language="JavaScript" type="text/javascript" src="https://citysquares.com/openads/www/delivery/ajs.php?n=pub16cad07f&amp;zoneid=11&amp;source=pub1/node/58396,type_anonymous_user,url_node/58396&amp;exclude=,&amp;r=391919831&amp;loc=https%3A//web.archive.org/web/20080217063330id_/http%253A//citysquares.com/privacy"></script>
+	</div></div><div>
+<div class="invite"><a href="/tellafriend" title="Invite your friends"><img src="/themes/bluebird/images/tellafriend.gif" border="0" title=""></a></div></div><div>
+
+	<div class="ad-bottom">
+	<script language="JavaScript" type="text/javascript"><!--
+	  az_adjs(9,'pub172695d1');
+	--></script><script language="JavaScript" type="text/javascript" src="https://citysquares.com/openads/www/delivery/ajs.php?n=pub172695d1&amp;zoneid=9&amp;source=pub1/node/58396,type_anonymous_user,url_node/58396&amp;exclude=,&amp;r=391919831&amp;loc=https%3A//web.archive.org/web/20080217063330id_/http%253A//citysquares.com/privacy"></script>
+	</div></div><div>
+
+	<div class="ad-bottom">
+	<script language="JavaScript" type="text/javascript"><!--
+	  az_adjs(6,'pub191b65c0');
+	--></script><script language="JavaScript" type="text/javascript" src="https://citysquares.com/openads/www/delivery/ajs.php?n=pub191b65c0&amp;zoneid=6&amp;source=pub1/node/58396,type_anonymous_user,url_node/58396&amp;exclude=,&amp;r=391919831&amp;loc=https%3A//web.archive.org/web/20080217063330id_/http%253A//citysquares.com/privacy"></script>
+	</div></div><div>
+
+	<div class="ad-bottom">
+	<script language="JavaScript" type="text/javascript"><!--
+	  az_adjs(10,'pub1388fb0a');
+	--></script><script language="JavaScript" type="text/javascript" src="https://citysquares.com/openads/www/delivery/ajs.php?n=pub1388fb0a&amp;zoneid=10&amp;source=pub1/node/58396,type_anonymous_user,url_node/58396&amp;exclude=,&amp;r=391919831&amp;loc=https%3A//web.archive.org/web/20080217063330id_/http%253A//citysquares.com/privacy"></script>
+	</div></div><div>
+
+	<div class="ad-bottom">
+	<script language="JavaScript" type="text/javascript"><!--
+	  az_adjs(7,'pub18e75fae');
+	--></script><script language="JavaScript" type="text/javascript" src="https://citysquares.com/openads/www/delivery/ajs.php?n=pub18e75fae&amp;zoneid=7&amp;source=pub1/node/58396,type_anonymous_user,url_node/58396&amp;exclude=,&amp;r=391919831&amp;loc=https%3A//web.archive.org/web/20080217063330id_/http%253A//citysquares.com/privacy"></script>
+	</div></div>
+						</div>
+
+						<!-- right content column end -->
+						<div id="content-bottom"></div>
+					</div>
+					<!-- content end -->
+					<!-- footer start -->
+					<div id="footer">
+				        
+<div>
+
+<ul class="menu">
+<li class="leaf"><a href="/about" title="About Us">About Us</a></li>
+<li class="leaf"><a href="/products" title="Advertise with Citysquares">Advertise with Us</a></li>
+<li class="leaf"><a href="/allstars" title="All Stars">All Stars</a></li>
+<li class="leaf"><a href="/contact" title="Contact CitySquares">Contact Us</a></li>
+<li class="leaf"><a href="/feedback" title="Feedback">Feedback</a></li>
+<li class="leaf"><a href="/jobs" title="Jobs at CitySquares Online">Jobs</a></li>
+<li class="leaf"><a href="/newsletter" title="Newsletter">Newsletter</a></li>
+<li class="leaf"><a href="/partners" title="Partners">Partners</a></li>
+<li class="leaf"><a href="/press" title="Press">Press</a></li>
+<li class="leaf"><a href="/privacy" title="Privacy Policy" class="active">Privacy</a></li>
+<li class="leaf"><a href="/sitemap" title="Citysquares.com Sitemap">Sitemap</a></li>
+<li class="leaf"><a href="/terms" title="Terms of Use">Terms of Use</a></li>
+
+</ul>
+</div>						<p class="copy">©2005-2007 Citysquares Online, Inc. All rights reserved. Citysquares is a trademark of Citysquares Online, Inc.  [2.0.0]</p>
+						<p class="copy">Load Time: 36.2350940704 ms</p>
+					</div>
+					<!-- footer end -->
+				</div>
+				<!-- header start -->
+				<div id="header">
+					<div class="header-content">
+					  <div>
+<div class="cities-holder">
+				<div id="cities">
+					<div class="cities-text-left"><span>area: </span><span class="area-location">MA / Boston</span></div>
+          <div class="cities-text-right"><ul><span>Nearby Cities: </span><li><a href="/cambridge" title="Visit Cambridge, MA only 2.38 from North End, Boston.">Cambridge</a></li><li><a href="/everett" title="Visit Everett, MA only 3.02 from North End, Boston.">Everett</a></li><li><a href="/brookline" title="Visit Brookline, MA only 3.44 from North End, Boston.">Brookline</a></li><li><a href="/somerville" title="Visit Somerville, MA only 4.08 from North End, Boston.">Somerville</a></li><li><a href="/malden" title="Visit Malden, MA only 4.67 from North End, Boston.">Malden</a></li><li><a href="/medford" title="Visit Medford, MA only 4.67 from North End, Boston.">Medford</a></li> <a href="javascript:void(0);" id="toggle-cities" title="View more cities near North End, Boston.">more &gt;&gt;</a></ul></div><div class="clear"></div>
+        </div>
+			</div>
+      <div>
+        <div id="more-cities" style="display:none;"><ul><li><a href="/winthrop" title="Visit Winthrop, MA only 4.73 from North End, Boston.">Winthrop</a></li><li><a href="/revere" title="Visit Revere, MA only 5.47 from North End, Boston.">Revere</a></li><li><a href="/arlington" title="Visit Arlington, MA only 6.26 from North End, Boston.">Arlington</a></li><li><a href="/watertown" title="Visit Watertown, MA only 6.44 from North End, Boston.">Watertown</a></li><li><a href="/belmont" title="Visit Belmont, MA only 6.65 from North End, Boston.">Belmont</a></li><li><a href="/newton" title="Visit Newton, MA only 7.50 from North End, Boston.">Newton</a></li><li><a href="/winchester" title="Visit Winchester, MA only 7.52 from North End, Boston.">Winchester</a></li><li><a href="/quincy" title="Visit Quincy, MA only 8.30 from North End, Boston.">Quincy</a></li><li><a href="/waltham" title="Visit Waltham, MA only 9.15 from North End, Boston.">Waltham</a></li></ul></div><div><strong class="seo"><a href="/boston" title="Go back to Boston" class="home">Home</a></strong><div class="account"><div class="account-holder"><span>Not a member yet?</span><span><a href="/user/register" title="Join Now!" rel="nofollow">Join Now!</a></span><span><a href="/user/login" title="Members Log In" rel="nofollow">Members Log In</a></span></div></div></div></div>					</div>
+				    				</div>
+				<!-- header end -->
+			</div>
+		</div>
+		<!-- container end -->
+	<script type="text/javascript" src="/files/googleanalytics/urchin.js"></script>
+<script type="text/javascript">
+_uacct = "UA-1307792-1";urchinTracker();
+</script>
+<script type="text/javascript" src="/sites/all/modules/google_analytics/downloadtracker.js"></script>
+  <!-- Start Quantcast tag -->
+  <script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+  <script type="text/javascript">_qacct="p-5b_O4P1Tnyf4M";quantserve();</script>
+  <noscript>
+  <a href="http://www.quantcast.com/p-5b_O4P1Tnyf4M" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-5b_O4P1Tnyf4M.gif" style="display: none" border="0" height="1" width="1" alt="Quantcast"/></a>
+  </noscript>
+  <!-- End Quantcast tag -->
 	
 
-
-</body></html>
+</div></body></html>
