@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soul-source.co.uk privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211060759id_/http%3A//www.soul-source.co.uk/site-official-section/privacy-policy-soul-source.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soul-source.co.uk privacy policy that was archived on 2008-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080217130200id_/http%3A//www.soul-source.co.uk/node/12585) for the most accurate reproduction.*
 
 # Privacy Policy - Soul Source | Soul Source Rare and Northern Soul
 
