@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the gizmodo.com.au privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011105616id_/http%3A//www.gizmodo.com.au/static-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gizmodo.com.au privacy policy that was archived on 2008-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080217025407id_/http%3A//www.gizmodo.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Gizmodo Australia
 
-## Privacy policy
+## [Privacy Policy](http://www.gizmodo.com.au/privacy/ "Privacy Policy")
 
-The www.defamer.com.au and www.gizmodo.com.au websites are owned and operated by Allure Media Pty Limited (Allure Media, we, us or our).
+The [www.gizmodo.com.au](http://www.gizmodo.com.au/) website is owned and operated by Allure Media Pty Limited (Allure Media, we, us or our). 
 
 Allure Media is bound by the National Privacy Principles (NPPs) in the Privacy Act 1988 and this Privacy Policy applies to Allure Media and the websites it operates.
 
@@ -41,9 +41,9 @@ We also collect personal information from people we do business with, such as co
 
 **(d) Journalism subjects**
 
-In the course of operating the www.defamer.com.au and www.gizmodo.com.au websites, Allure Media operates as a media organisation (ie in that it collects and disseminates of news and information, and related commentary and opinions). The NPPs do not apply to acts done or practices engaged in by media organisations in the course of journalism if they are publicly committed to observing standards that deal with privacy in the context of their media activities, and which have been published in writing.
+In the course of operating the [www.gizmodo.com.au](http://www.gizmodo.com.au/) website, Allure Media operates as a media organisation (ie in that it collects and disseminates of news and information, and related commentary and opinions). The NPPs do not apply to acts done or practices engaged in by media organisations in the course of journalism if they are publicly committed to observing standards that deal with privacy in the context of their media activities, and which have been published in writing.
 
-In operating the www.defamer.com.au and www.gizmodo.com.au websites, Allure Media is committed to complying with the Journalism Privacy Standards in Annexure A of this Privacy Policy.
+In operating the [www.gizmodo.com.au](http://www.gizmodo.com.au/) website, Allure Media is committed to complying with the Journalism Privacy Standards in Annexure A of this Privacy Policy.
 
 **(e) Employees**
 
@@ -103,7 +103,7 @@ This policy was last updated in May 2007.
 
 The National Privacy Principles contained in the Privacy Act 1988 do not apply to "acts done or practices engaged in by a media organisation in the course of journalism", so long as that media organisation is publicly committed to observing standards that deal with privacy in the context of its activities and those standards have been published in writing by the organisation. 
 
-Allure Media acts as a media organisation to the extent that it operates the www.defamer.com.au and www.gizmodo.com.au websites (Website). These Journalism Privacy Standards (Standards) outline how Allure Media's employees who are engaged in the provision of content for the Website (Journalists) will handle personal information.
+Allure Media acts as a media organisation to the extent that it operates the www.kotaku.com.au website (Website). These Journalism Privacy Standards (Standards) outline how Allure Media's employees who are engaged in the provision of content for the Website (Journalists) will handle personal information.
 
 The objective of these Standards is to balance the right of a person to privacy against the media's right to inform the public about newsworthy matters and other matters of public interest. 
 
