@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelandescape.ca privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213161038id_/http%3A//www.travelandescape.ca/reports/Article.aspx%3Faid%3D100) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelandescape.ca privacy policy that was archived on 2008-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080218234340id_/http%3A//www.travelandescape.ca/reports/Article.aspx%3Faid%3D100) for the most accurate reproduction.*
 
 # travel + escape - Privacy Policy
 
