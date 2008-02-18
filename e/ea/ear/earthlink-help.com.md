@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the earthlink-help.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213155717id_/http%3A//www.earthlink.com/about/policies/privacy/%3Fadd%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earthlink-help.com privacy policy that was archived on 2008-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080218034927id_/http%3A//www.earthlink.com/about/policies/privacy/%3Fadd%3D1) for the most accurate reproduction.*
 
 # EarthLink® Privacy Policy
 
