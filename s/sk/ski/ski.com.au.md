@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ski.com.au privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211234349id_/http%3A//ski.com.au/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ski.com.au privacy policy that was archived on 2008-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080219165901id_/http%3A//ski.com.au/about/privacy.html) for the most accurate reproduction.*
 
 # Your Privacy - generic - ski.com.au
 
