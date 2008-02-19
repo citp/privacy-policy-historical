@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the unblockyoutube.co.uk privacy policy that was archived on 2007-12-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071214004350id_/http%3A//www.britster.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the unblockyoutube.co.uk privacy policy that was archived on 2008-02-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080219071605id_/http%3A//www.britster.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US"><head>
 	<title>Privacy Policy</title>
@@ -33,6 +33,57 @@ if (document.images) {
 }
 -->
 </script>
+
+	<!-- Ajax Username Checker -->
+	<script language="javascript" type="text/javascript">
+	var url = "username.php?param="; // The server-side script
+
+	function updateName() {
+	  // display a quick message while the script is being processed
+	  document.getElementById('un').innerHTML = "...checking database...";
+	  var name = document.getElementById("NickName").value;
+	  http.open("GET", url + escape(name), true);
+	  http.onreadystatechange = handleHttpResponse;
+	  http.send(null);
+	}
+
+	function handleHttpResponse() {
+	  if (http.readyState == 4) {
+	    results = http.responseText;
+	    var name = document.getElementById("NickName").value;
+	    if(results != "") //results = "Username <i>"+name+"</i> Is Available...";
+	    // the div in which the message appears
+	    document.getElementById('un').innerHTML = results;
+	  }
+	}
+
+	function getHTTPObject() {
+	  var xmlhttp;
+	  /*@cc_on
+	  @if (@_jscript_version >= 5)
+	    try {
+	      xmlhttp = new ActiveXObject("Msxml2.XMLHTTP");
+	    } catch (e) {
+	      try {
+	        xmlhttp = new ActiveXObject("Microsoft.XMLHTTP");
+	      } catch (E) {
+	        xmlhttp = false;
+	      }
+	    }
+	  @else
+	  xmlhttp = false;
+	  @end @*/
+	  if (!xmlhttp && typeof XMLHttpRequest != 'undefined') {
+	    try {
+	      xmlhttp = new XMLHttpRequest();
+	    } catch (e) {
+	      xmlhttp = false;
+	    }
+	  }
+	  return xmlhttp;
+} 
+var http = getHTTPObject(); // We create the HTTP Object
+</script> 
 
 	<!--[if lt IE 7.]>
 	<script defer type="text/javascript">
@@ -347,7 +398,7 @@ google_ad_channel = "";
 			<a class="bottommenu" href="javascript:void(0);" onclick="addBookmark();">Bookmark</a>
 		</div>
     <div class="bottomPowered"></div>
-	<div class="bottomCopyright">Copyright © 2007 Britster Ltd. All rights reserved.</div>
+	<div class="bottomCopyright">Copyright © 2008 Britster Ltd. All rights reserved.</div>
             <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
 </script>
 <script type="text/javascript">
@@ -362,7 +413,6 @@ reff = "&reff=" +  escape(document.referrer);
 document.write('<img '+' src="getStat.php?' + size + bits + reff + ' " width="0"  height="0" border="0" alt="Website statistics">');
 //-->
 </script><img src="getStat.php?size=800/600&amp;bits=24&amp;reff= " width="0" height="0" border="0" alt="Website statistics">
-<script type="text/javascript" src="/inc/js/freesnow.js"></script>
 
 
 	
