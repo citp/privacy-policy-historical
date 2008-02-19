@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the barratts.co.uk privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222092443id_/http%3A//www.barratts.co.uk/f/help/Help_and_FAQ.html%23Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barratts.co.uk privacy policy that was archived on 2008-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080219235726id_/http%3A//www.barratts.co.uk/f/help/Help_and_FAQ.html%23Privacy) for the most accurate reproduction.*
 
 # Barratts - Help & FAQ
 
