@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the localstore.com.au privacy policy that was archived on 2007-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071220204034id_/http%3A//www.localstore.com.au/legals/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localstore.com.au privacy policy that was archived on 2008-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080220170443id_/http%3A//localstore.com.au/legals/privacy.php) for the most accurate reproduction.*
 
 # Privacy || localstore.com.au
 
