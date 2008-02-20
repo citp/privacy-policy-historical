@@ -1,25 +1,16 @@
-> *The following text is extracted and transformed from the qgiv.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217063904id_/http%3A//www.qgiv.com/contact/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qgiv.com privacy policy that was archived on 2008-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080220143842id_/http%3A//www.qgiv.com/legal) for the most accurate reproduction.*
 
-# Qgiv | Qgiv Privacy Policy
+# Qgiv Online Donations | Qgiv Privacy Policy
 
-| 
+Qgiv Privacy Policy 
 
-**Contact Qgiv**
-
-  * [Contact Information ](https://web.archive.org/contact/)
-  * [Privacy Policy ](https://web.archive.org/contact/privacy.php)
-  * [Acceptable Use Policy ](https://web.archive.org/contact/aup.php)
-
-|   | Qgiv Privacy Policy   
-
-
-**Scope of this Privacy Policy**
+Scope of this Privacy Policy
 
 This Privacy Policy covers Cipher Payment Systems Inc.’s, (hereafter “Qgiv”) treatment of personally identifiable information collected from Organizations and consumers who may donate to Organizations (hereafter "Users") who use the Qgiv services, as well as information that we acquire in the course of our business. This Policy also covers the treatment of personally identifiable information that Qgiv’s business partners may share with it.
 
-This Policy does not apply to the practices of companies that Qgiv does not own or control, or to people that Qgiv does not employ or manage. Qgiv is a wholly owned subsidiary of Cipher Integrations, Inc. This Policy is specific to Qgiv and does not apply to www.cipherintegrations.com or other Web sites or Services that are part of the Cipher Integrations, Inc.
+This Policy does not apply to the practices of companies that Qgiv does not own or control, or to people that Qgiv does not employ or manage. Qgiv is a wholly owned subsidiary of Cipher Integrations, Inc. This Policy is specific to Qgiv and does not apply to [www.cipherintegrations.com](http://www.cipherintegrations.com/) or other Web sites or Services that are part of the Cipher Integrations, Inc.
 
-**Information Collection and Use**
+Information Collection and Use
 
 Qgiv collects personally identifiable information when you register for a Qgiv account, and when you use certain Qgiv products and services. Qgiv may also receive personally identifiable information from its resellers and other business partners.
 
@@ -33,13 +24,13 @@ Qgiv uses the information collected to fulfill your requests for certain product
 
 Qgiv does not offer services to children. Qgiv does not request or knowingly collect personally identifiable contact information from anyone under the age of 13.
 
-**Information Sharing and Disclosure**
+Information Sharing and Disclosure
 
 Protecting personally identifiable information about merchants and consumers is an important part of our business. We share and disclose such information only as described below.
 
 Qgiv sends personally identifiable information about you to other companies or people: 1) when we have your consent to share the information; 2) when we need to share your information with third parties, such as banks and credit card processors, to provide the product or service you have requested; 3) in connection with products and services offered by Qgiv business partners and/or companies who work on behalf of Qgiv to provide a product or service to you; 4) it is appropriate to comply with law; 5) it is necessary to enforce or apply the terms and conditions of our Merchant Agreement and other applicable agreements; or 6) it is necessary to protect the rights, property, or safety of Qgiv, our users, or others, which may include the exchange of information with other organizations for fraud protection and/or risk reduction. In the event that Qgiv is acquired, merchant account information may be one of the transferred assets.
 
-**Information Security**
+Information Security
 
 Information security is critical to our business. We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information. The information gathered on secure computers is stored in secure data center. The number of employees involved in the management of the data center that have physical access to these computers is limited. We use firewalls and other security technology, as well as implement the highest industry standard security practices, to prevent our computers from being accessed by unauthorized persons.
 
@@ -49,8 +40,6 @@ Qgiv currently adheres to the Payment Card Industry Data Security Standards and 
 
 It is important for you to protect against unauthorized access to your login ID/password, other sensitive account data and to your computer. Be sure to sign off when finished using a shared computer and otherwise safeguard the password used to access the Qgiv services.
 
-**Changes to this Privacy Policy**
+Changes to this Privacy Policy
 
 Qgiv reserves the right to modify or amend this Privacy Policy at any time and for any reason. If there are material changes to this statement or in how Qgiv will use personally identifiable information, Qgiv will post notices in the Merchant Interface and/or on the Qgiv homepage at [www.qgiv.com](https://web.archive.org/) prior to implementing the change. If you have additional questions about this Policy, please contact [info@qgiv.com](mailto:info@qgiv.com).
-
-|   |  
