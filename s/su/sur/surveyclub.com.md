@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surveyclub.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214002536id_/http%3A//www.surveyclub.com/privacy.cgi) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveyclub.com privacy policy that was archived on 2008-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080220181226id_/http%3A//www.surveyclub.com/privacy.cgi) for the most accurate reproduction.*
 
 # Paid Surveys Privacy Policy
 
