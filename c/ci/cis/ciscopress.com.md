@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ciscopress.com privacy policy that was archived on 2007-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071130053348id_/http%3A//www.ciscopress.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ciscopress.com privacy policy that was archived on 2008-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080223080922id_/http%3A//www.ciscopress.com/about/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
