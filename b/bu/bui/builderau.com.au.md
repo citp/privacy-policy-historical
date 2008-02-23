@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the builderau.com.au privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217215719id_/http%3A//www.builderau.com.au/services/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the builderau.com.au privacy policy that was archived on 2008-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080223155139id_/http%3A//www.builderau.com.au/services/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Builder AU
 
