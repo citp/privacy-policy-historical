@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biblio.com privacy policy that was archived on 2007-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071012042138id_/http%3A//www.biblio.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biblio.com privacy policy that was archived on 2008-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080223103231id_/http%3A//www.biblio.com/privacy.php) for the most accurate reproduction.*
 
 # Biblio: privacy and security
 
@@ -95,8 +95,6 @@ Last Updated on 1/5/2007
 
   
 
-
-[](http://www.biblio.com/bargain_books/)
 
 **Tip of the day**   
 Learn how Biblio.com can [save you money on shipping](http://www.biblio.com/faq_detail.php?faqid=91)! 
