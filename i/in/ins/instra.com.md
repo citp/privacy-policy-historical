@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instra.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225113713id_/http%3A//instra.com/policies/DDPrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instra.com privacy policy that was archived on 2008-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080223232833id_/http%3A//www.instra.com/policies/DDPrivacyPolicy.htm) for the most accurate reproduction.*
 
 # Domain Directors - Your Trusted Global Domain and ENUM Registrar
 
