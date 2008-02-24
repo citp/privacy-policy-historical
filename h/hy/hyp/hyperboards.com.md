@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hyperboards.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213190018id_/http%3A//www.hyperboards.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hyperboards.com privacy policy that was archived on 2008-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080224151528id_/http%3A//www.hyperboards.com/privacy) for the most accurate reproduction.*
 
-# Hyperboards - Free message board hosting
+# Free message board from Hyperboards.com Provider of Remotely hosted forums.
 
   * The terms of service was last updated on November 17th, 2005.
 
