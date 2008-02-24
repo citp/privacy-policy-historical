@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the traderslaboratory.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226115344id_/http%3A//www.traderslaboratory.com/index.php%3Fpage%3Dprivacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traderslaboratory.com privacy policy that was archived on 2008-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080224180535id_/http%3A//www.traderslaboratory.com/index.php%3Fpage%3Dprivacystatement) for the most accurate reproduction.*
 
 # Traders Laboratory - Website Privacy Statement
 
@@ -14,7 +14,16 @@ Related services and offerings with links from this website, including vendor si
 
 3\. Information We Collect and How We Use It 
 
-Traders Laboratory collects certain information from and about its users three ways: directly from our Web Server logs, the user, and with Cookies. Web Server Logs. When you visit our Website, we may track information to administer the site and analyze its usage. Examples of information we may track include: ? Your Internet protocol address. ? The kind of browser or computer you use. ? Number of links you click within the site. ? State or country from which you accessed the site. ? Date and time of your visit. ? Name of your Internet service provider. ? Web page you linked to our site from. ? Pages you viewed on the site. 
+Traders Laboratory collects certain information from and about its users three ways: directly from our Web Server logs, the user, and with Cookies. Web Server Logs. When you visit our Website, we may track information to administer the site and analyze its usage. Examples of information we may track include: 
+
+1\. Your Internet protocol address.  
+2\. The kind of browser or computer you use.  
+3\. Number of links you click within the site.  
+4\. State or country from which you accessed the site.   
+5\. Date and time of your visit.  
+6\. Name of your Internet service provider.   
+7\. Web page you linked to our site from.   
+8\. Pages you viewed on the site. 
 
 b. Use of Cookies 
 
