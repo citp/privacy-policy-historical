@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hitfarm.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226163842id_/http%3A//hitfarm.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitfarm.com privacy policy that was archived on 2008-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080225001315id_/http%3A//www.hitfarm.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.*
 
 # Hitfarm.com
 
