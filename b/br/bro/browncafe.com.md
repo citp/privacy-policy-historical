@@ -1,41 +1,25 @@
-> *The following text is extracted and transformed from the browncafe.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225205828id_/http%3A//www.browncafe.com/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the browncafe.com privacy policy that was archived on 2008-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080224123358id_/http%3A//www.browncafe.com/privacy_statement.html) for the most accurate reproduction.*
 
 # UPS info for UPSers - Brown Cafe Privacy Statement
 
-|  **» Site Navigation**  
+|  **» Navigation Menu**  
 ---  
   
-[**Brown Cafe**](http://www.browncafe.com/)
-
-[**UPS News Search**](http://www.browncafe.com/ups_news.html)
+• [**Brown Cafe**](http://www.browncafe.com/)
 
  
 
-[FedEx News Etc.](http://www.browncafe.com/fedex_news.html)
+[UPS News](http://www.browncafe.com/ups_news.html)
 
  
 
-[Teamster News Etc.](http://www.browncafe.com/teamster_news.html)
+[UPS Stock](http://www.browncafe.com/ups_stock.html)
 
-     
-
-[Black Sheep](http://www.browncafe.com/ups_union_black_sheep.html)
-
-     
-
-[UPS NMA](http://www.browncafe.com/ups_national_master_agreement.html)
+• [**UPSers**](http://www.browncafe.com/upsers.html)
 
  
 
-[Current Events](http://www.browncafe.com/current_events.html)
-
-[**UPS Stock**](http://www.browncafe.com/ups_stock.html)
-
- 
-
-[Calculator](http://www.browncafe.com/cgi-bin/finances.cgioffensive%20sexual%20references...)
-
-[**UPSers**](http://www.browncafe.com/upsers.html)
+[Brown Cafe Forums](http://www.browncafe.com/forums)
 
  
 
@@ -43,19 +27,41 @@
 
  
 
-[UPS Forums](http://www.browncafe.com/ups_discussion_boards.html)
-
-     
-
-[Brown Cafe Forum](http://www.browncafe.com/forum/)
-
- 
-
-[Links](http://www.browncafe.com/links.html)
+[UPSer Links](http://www.browncafe.com/links.html)
 
  
 
 [Downloads](http://www.browncafe.com/download.shtml)
+
+ 
+
+[Black Sheep](http://www.browncafe.com/ups_union_black_sheep.html)
+
+• [**FedEx**](http://www.browncafe.com/index.php?page=fedex)
+
+ 
+
+[FedEx News](http://www.browncafe.com/index.php?page=fedex_news)
+
+ 
+
+[FedEx Stock](http://www.browncafe.com/index.php?page=fedexstock)
+
+• [**Teamster News**](http://www.browncafe.com/teamster_news.html)
+
+ 
+
+[UPS NMA 02 - 08](http://www.browncafe.com/ups_national_master_agreement.html)
+
+ 
+
+[UPS NMA 08 - 13](http://www.browncafe.com/ups_national_master_agreement.html2)
+
+• [**Life After Brown**](http://www.browncafe.com/current_events.html)
+
+ 
+
+[Financial Calculators](http://www.browncafe.com/cgi-bin/finances.cgi)
 
  
 
@@ -73,7 +79,7 @@
 
 [Sudoku](http://www.browncafe.com/sudoku.html)
 
-[**Terms of Service**](http://www.browncafe.com/tos.html)
+• [**Terms of Service**](http://www.browncafe.com/tos.html)
 
  
 
@@ -87,11 +93,7 @@
 
 [Disclaimer](http://www.browncafe.com/disclaimer.html)
 
- 
-
-[Advertising Info](http://www.browncafe.com/index.php?page=ads)
-
-[**UPS**](http://www.ups.com/)
+• [**UPS.com**](http://www.ups.com/)
 
  
 
@@ -179,14 +181,14 @@ Not a member yet?
   
 **» Stats**  
 ---  
-Members: 13,099  
-Threads: 6,359  
-Posts: 114,417  
+Members: 14,073  
+Threads: 6,968  
+Posts: 125,438  
 Top Poster: [BrownCafe](http://www.browncafe.com/forum/members/browncafe.html) (32,645)  
   
-Welcome to our newest member, [rozi3](http://www.browncafe.com/forum/members/rozi3.html)  
+Welcome to our newest member, [potentialemployee](http://www.browncafe.com/forum/members/potentialemployee.html)  
   
-All times are GMT -8. The time now is 12:57 PM.
+All times are GMT -8. The time now is 04:33 AM.
 
   
 
