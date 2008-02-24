@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the booker.co.uk privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213144103id_/http%3A//www.booker.co.uk/help/privacystatement.aspx%3FreturnUrl%3Dhttp%253a%252f%252fwww.booker.co.uk%252fDefault.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the booker.co.uk privacy policy that was archived on 2008-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080224182803id_/http%3A//www.booker.co.uk/help/privacystatement.aspx%3FreturnUrl%3Dhttp%253a%252f%252fwww.booker.co.uk%252fDefault.aspx) for the most accurate reproduction.*
 
 # Booker Wholesale | Privacy Statement
 
