@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the hollandsentinel.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624214126id_/http%3A//www.hollandsentinel.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hollandsentinel.com privacy policy that was archived on 2008-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080224152423id_/http%3A//hollandsentinel.com/privacy.shtml) for the most accurate reproduction.*
 
 # HollandSentinel.com - Your local online source for news and information.
 
 ## Holland Sentinel Privacy Policy
 
-The Holland Sentinel is committed to protecting consumer privacy online. We believe that greater protection of personal privacy on the Web will not only protect consumers, but also increase consumer confidence and ultimately their participation in online activities. At Wowcom.net, we intend to give you as much control as possible over your personal information.
+The Holland Sentinel is committed to protecting consumer privacy online. We believe that greater protection of personal privacy on the Web will not only protect consumers, but also increase consumer confidence and ultimately their participation in online activities. At Hollandsentinel.com, we intend to give you as much control as possible over your personal information.
 
 The purpose of our policy is to inform you about the types of information we gather about you when you visit our site(s), how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of, and your ability to correct, the information. 
 
@@ -30,7 +30,7 @@ We do not share personal identifying information with any third party without yo
 
 **IV. Accuracy of User Information**
 
-In order to ensure the accuracy of personal information provided for registration, you may return to the registration form online in order to change information you have provided at any time. Questions regarding our privacy policy, the accuracy of your personal information or the use of the information collected should be directed via e-mail to wowcom.net Webmaster, or you can reach us by telephone at 616-392-2311. You can also write us at:
+In order to ensure the accuracy of personal information provided for registration, you may return to the registration form online in order to change information you have provided at any time. Questions regarding our privacy policy, the accuracy of your personal information or the use of the information collected should be directed via e-mail to hollandsentinel.com Webmaster, or you can reach us by telephone at 616-392-2311. You can also write us at:
 
 The Holland Sentinel  
 54 W. 8th Street  
@@ -49,4 +49,4 @@ The quality news and information on HollandSentinel.com is supported by advertis
 
 **VII. Use of Materials**
 
-The right to download and store or output the materials in our site(s) is granted for the user's personal use only, and materials may not be reproduced in any edited form. Any other reproduction, transmission, performance, display or editing of these materials by any means mechanical or electronic without the express written permission of us is strictly prohibited. Users wishing to obtain permission to reprint or reproduce any materials appearing on these sites may contact us at hnagel@sentinelnet.com.
+The right to download and store or output the materials in our site(s) is granted for the user's personal use only, and materials may not be reproduced in any edited form. Any other reproduction, transmission, performance, display or editing of these materials by any means mechanical or electronic without the express written permission of us is strictly prohibited. Users wishing to obtain permission to reprint or reproduce any materials appearing on these sites may contact us by emailing the [Web Administrator](mailto:steven.siebers@hollandsentinel.com "Email us") .
