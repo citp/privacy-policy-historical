@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bbpeoplemeet.com privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223075441id_/http%3A//www.bbpeoplemeet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbpeoplemeet.com privacy policy that was archived on 2008-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080224201457id_/http%3A//www.bbpeoplemeet.com/privacy) for the most accurate reproduction.*
 
 # BBPeopleMeet.com - The Big & Beautiful People Network
 
@@ -9,6 +9,7 @@ The Big & Beautiful People Network
   
 |   
 ---  
+  Privacy Statement  
 |   
 ---  
    
