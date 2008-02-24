@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redrobin.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227173333id_/http%3A//www.redrobin.com/home/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redrobin.com privacy policy that was archived on 2008-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080224022111id_/http%3A//www.redrobin.com/home/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Red Robin - Privacy Policy
 
