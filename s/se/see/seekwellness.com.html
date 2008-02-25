@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the seekwellness.com privacy policy that was archived on 2007-12-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071214031006id_/http%3A//www.seekwellness.com/privacy_statement.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the seekwellness.com privacy policy that was archived on 2008-02-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080225212903id_/http%3A//www.seekwellness.com/privacy_statement.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 <script src="/urchin/__utm.js" type="text/javascript"></script>
@@ -104,6 +104,25 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
   if (restore) selObj.selectedIndex=0;
 }
 //-->
+
+<!-- move ads -->
+function moveAds() {
+	var ParLeft = document.getElementById('leftads');
+	var PageContent = document.getElementById('pagecontent');
+	var LeftAds = document.getElementById('ad-left');
+	ParLeft.appendChild(LeftAds);
+	var Elements = PageContent.getElementsByTagName("p");
+		var TopAds = document.getElementById('ad-top');
+	PageContent.insertBefore(TopAds, Elements[2]);
+			var BottomAds = document.getElementById('ad-bottom');	
+		var TotalPs = Elements.length;
+		if (TotalPs > 10) { 
+			var BottomPlacemarker = TotalPs - 5;
+		} else {
+			var BottomPlacemarker = TotalPs - 3;
+		}
+		PageContent.insertBefore(BottomAds, Elements[BottomPlacemarker]);
+	}
 </script>
 <link rel="STYLESHEET" type="text/css" href="mystore.css">
 </head>
@@ -112,7 +131,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 <table id="wrapper" border="0">
 <!-- top row //-->
 <tbody><tr valign="bottom">
-	<td width="188">
+	<td width="170">
 	<!-- begin flash swapper -->
 	<script src="AC_OETags.js" language="javascript"></script>
 <script language="JavaScript" type="text/javascript">
@@ -148,8 +167,8 @@ if (hasReqestedVersion) {
 				"name", "seekwellnessLogo",
 				"allowScriptAccess","sameDomain",
 				"type", "application/x-shockwave-flash",
-				'codebase', 'http://fpdownload.macromedia.com/get/flashplayer/current/swflash.cab',
-				"pluginspage", "http://www.adobe.com/go/getflashplayer"
+				'codebase', 'https://fpdownload.macromedia.com/get/flashplayer/current/swflash.cab',
+				"pluginspage", "https://www.adobe.com/go/getflashplayer"
 	);
 } else {  // flash is too old or we can't detect the plugin
 	var alternateContent = '<img src="images/logo/logo.jpg">';
@@ -203,7 +222,7 @@ if (hasReqestedVersion) {
 <a href="conditions/elder_care.htm"><nobr>elder care</nobr></a>
 		</div>
 		<div id="goshopping" style="display:none;">
-			<a href="bookstore/index.htm"><nobr>bookstore</nobr></a>
+			<a href="mybookstore/index.htm"><nobr>bookstore</nobr></a>
 <a href="mystore/index.php?categoryID=24"><nobr>ebooks</nobr></a>
 <a href="mystore/"><nobr>wellness store</nobr></a>
 		</div>
@@ -211,60 +230,39 @@ if (hasReqestedVersion) {
 </tr>
 <!-- main content //-->
 <tr valign="top">
-	<td style="padding-left:7px;" id="content">
+	<td style="padding-left:4px;" id="content">
 	<!-- random image -->
-				<img src="images/leftcolumnpeople/woman_elderly.jpg" width="155" height="382" alt="privacy policy">	<br>
+				<img src="images/leftcolumnpeople/picnic_couple.jpg" width="155" height="208" alt="privacy policy">	<br>
 	<!-- random -->
+	<div id="leftads"><div id="ad-left">
 <script type="text/javascript"><!--
 google_ad_client = "pub-8847612572182071";
-google_alternate_ad_url = "http://www.seekwellness.com/includes/google_collapsing_ad..htm";
+//160x600, Left Column created 12/27/07
+google_ad_slot = "0152464492";
 google_ad_width = 160;
 google_ad_height = 600;
-google_ad_format = "160x600_as";
-google_ad_type = "text_image";
-//2007-09-13: left column
-google_ad_channel = "8758187569";
-google_color_border = "FFFFFF";
-google_color_bg = "FFFFFF";
-google_color_link = "336699";
-google_color_text = "333333";
-google_color_url = "85C17D";
-//-->
-</script>
+//--></script>
 <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 </script>
+</div></div>
+
 	
 		</td>
 	<td style="padding:0;">
 	<!-- bread crumb links -->
 <div id="breadcrumb"></div>
 
-	<!-- main page content -->
-	
-		<h1 id="pagetitle">privacy policy</h1>
-	<!-- endnoindex -->
+<!-- main page content -->
 
-<!-- ads above article //-->
-<!-- privacy_statement.htm //-->		<div style="text-align:center;padding-top:7px;padding-bottom:20px;margin:auto;">
-		<script type="text/javascript"><!--
-google_ad_client = "pub-8847612572182071";
-google_alternate_ad_url = "http://www.seekwellness.com/includes/google_collapsing_ad.htm";
-google_ad_width = 468;
-google_ad_height = 60;
-google_ad_format = "468x60_as";
-google_ad_type = "text_image";
-google_ad_channel ="3718756190";
-google_color_border = "FFFFFF";
-google_color_bg = "FFFFFF";
-google_color_link = "336699";
-google_color_text = "333333";
-google_color_url = "85C17D";
-//--></script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>		</div>
+<!-- ads -->
+
+
+
+
 <!-- eo ads //-->
-
-<!-- start printable -->
+	<div id="pagecontent">
+		<h1 id="pagetitle">privacy policy</h1>
+	<!-- start printable -->
 <p>Your Privacy at SeekWellness 
 </p><p><b>How to Protect the Privacy of Your Health Information</b> 
 </p><p>Jump to: <a href="#resources">Privacy Resources for Consumers</a> 
@@ -322,34 +320,23 @@ google_color_url = "85C17D";
 <ol>
 <blockquote>
 <p><a href="http://www.ftc.gov/bcp/conline/pubs/online/sitesee.htm" target="_blank">Site Seeing on the Internet</a>, information about safe travel on the Internet from the Federal Trade Commission </p>
-<p><a href="http://www.privacyjournal.net/bio.htm" target="_blank">The Privacy Journal</a></p></blockquote></ol>
-  
-<!-- end printable -->
+<p><a href="http://www.privacyjournal.net/bio.htm" target="_blank">The Privacy Journal</a></p></blockquote></ol><!-- google_ad_section_start -->
+
+  <!-- google_ad_section_end -->
+</div>
+<br>
+
+<script>
+moveAds();
+</script>
+
+
+
 <!-- noindex -->
 	<!-- end - main page content -->
-		<div align="center"><!--  --><!--  -->
-	<script type="text/javascript">
-	<!--
-	google_ad_client = 'pub-8847612572182071';
-	google_alternate_ad_url = 'http://www.seekwellness.com/fake_adsense.htm';
-	google_ad_width = 468;
-	google_ad_height = 60;
-	google_ad_format = '468x60_as';
-	google_ad_channel ='1422889759';
-	google_ad_type = 'text_image';
-	google_color_border = 'ffffff';
-	google_color_bg = 'ffffff';
-	google_color_link = '814889';
-	google_color_url = '7eb776';
-	google_color_text = '000000';
-	//-->
-	</script>
-	<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-	</script>
-	
-</div>
-		</td>
-	<td width="141" style="padding-right:7px;">
+	<br><br>
+	</td>
+	<td width="130" style="padding-right:0px;">
 	<div class="swag">
 <img src="images/spacer.gif" height="12" width="1"><br>
   <a href="printable.htm?page=privacy_statement.htm" class="smalllabel"><img src="images/interface/print.gif" width="36" height="9" border="0" alt="Print this page"></a>
@@ -508,6 +495,7 @@ google_color_url = "85C17D";
 	</td>
 </tr>
 </tbody></table>
+
 <script src="/astrack.js" type="text/javascript"></script>
 <!-- START OF SDC Advanced Tracking Code -->
 <!-- Copyright (c) 1996-2005 WebTrends Inc.  All rights reserved. -->
@@ -776,6 +764,13 @@ dcsTag();
 <IMG BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="http://statse.webtrendslive.com/dcsykj1fne9xjysgb3yb35x7g_1p3s/njs.gif?dcsuri=/nojavascript&WT.js=No">
 </noscript>
 <!-- END OF SmartSource Data Collector  TAG -->	
+<!-- Start Quantcast tag -->
+<script type="text/javascript" src="//secure.quantserve.com/quant.js"></script>
+<script type="text/javascript">_qacct="p-96s8_RlD4dbEA";quantserve();</script>
+<noscript>
+<a href="http://www.quantcast.com/p-96s8_RlD4dbEA" target="_blank"><img src="//secure.quantserve.com/pixel/p-96s8_RlD4dbEA.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
+</noscript>
+<!-- End Quantcast tag -->
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
 </script>
 <script type="text/javascript">
