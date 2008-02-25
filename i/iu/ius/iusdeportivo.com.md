@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iusdeportivo.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216175716id_/http%3A//www.iusdeportivo.com/ppolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iusdeportivo.com privacy policy that was archived on 2008-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080225142256id_/http%3A//www.iusdeportivo.com/ppolicy.php) for the most accurate reproduction.*
 
 # iusdeportivo.com® The Educator's Best Friend
 
