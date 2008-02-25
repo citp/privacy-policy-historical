@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the currentresults.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225212810id_/http%3A//www.currentresults.com/About/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the currentresults.com privacy policy that was archived on 2008-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080225073341id_/http%3A//www.currentresults.com/About/privacy.php) for the most accurate reproduction.*
 
 # Current Results Privacy Policy
 
