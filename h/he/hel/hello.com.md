@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hello.com privacy policy that was archived on 2007-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071022040153id_/http%3A//www.hello.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hello.com privacy policy that was archived on 2008-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080225122626id_/http%3A//www.hello.com/privacy.php) for the most accurate reproduction.*
 
 # Hello : Privacy Policy
 
