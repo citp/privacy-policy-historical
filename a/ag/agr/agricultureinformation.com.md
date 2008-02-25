@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the agricultureinformation.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226174726id_/http%3A//www.agricultureinformation.com/misc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agricultureinformation.com privacy policy that was archived on 2008-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080225212419id_/http%3A//www.agricultureinformation.com/misc/privacy.html) for the most accurate reproduction.*
 
-# AgricultureInformation.com : Online Agriculture Community
+# AgricultureInformation.com - Online Agriculture Business Community
 
-     |    
 **Privacy Policy** As an Internet pioneer, AgricultureInformation understands the power that the Internet holds for changing people's lives, expanding their horizons, and enhancing the ease with which they perform their jobs. All these benefits are at risk if people are concerned about their personal privacy. Agriculture Information is committed to providing its users with an Internet experience that respects and protects their personal privacy choices and concerns.
 
 Our privacy policy and practices are detailed below, and we ask you to read them thoroughly. This policy is derived from three pledges that we make to you, our users:
@@ -117,3 +116,7 @@ Agriculture Information
 Email : support@agricultureinformation.com.
 
 Agriculture Information reserves the right to change this Privacy Policy at any time. All changes will be posted to this page, and we will use commercially reasonable efforts to notify you of any material changes to this privacy policy.
+
+  
+  
+
