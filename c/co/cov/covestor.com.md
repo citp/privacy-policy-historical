@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the covestor.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211190445id_/http%3A//www.covestor.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the covestor.com privacy policy that was archived on 2008-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080225051511id_/http%3A//www.covestor.com/privacy) for the most accurate reproduction.*
 
 # Real Portfolios - Proven Self-Investors - Covestor
 
