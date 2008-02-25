@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the plumbersurplus.com privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222084519id_/http%3A//www.plumbersurplus.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plumbersurplus.com privacy policy that was archived on 2008-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080225092653id_/http%3A//www.plumbersurplus.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - PlumberSurplus.com
 
 [Home](https://web.archive.org/) > Privacy Policy 
 
-[](https://web.archive.org/Search.aspx?search=Milwaukee+Product+Promotions)
+[](https://web.archive.org/Search.aspx?search=best+deals+on+top+performing+tools)
 
 #### Overview
 
@@ -56,8 +56,8 @@ In order to improve our services to you, we ask some of our customers to volunta
 **Contests and Sweepstakes**  
 When you enter a contest or other promotion, we may ask you for contact information such as your name, address and e-mail address in order to administer the contest, to send you promotional e-mails, notify winners and make the winners' list publicly available pursuant to certain states' laws. Your consent to such promotional use and disclosure of this information as a condition of your participation. As a condition of receiving any prize, you will be required to submit an Affidavit of Eligibility, for us to ensure that you are eligible to receive the prize according to the Contest Rules.
 
-**Newsletters and Promotional Emails**  
-We offer free newsletters and promotional e-mails as a service to our customers. We will send you newsletters and e-mails periodically listing current specials and deals. To stop receiving our newsletter, send an e-mail to us at [info@plumbersurplus.com](mailto:info@plumbersurplus.com) requesting to unsubscribe.
+**Emails**  
+We periodically send emails such as, account emails, order emails, product emails, customer review emails, transactional and/or relationship messages, newsletters and promotional emails as a service to customers and account holders.
 
 **Contact Information and Third Party Data**  
 If you contact PlumberSurplus.com or our customer service representatives by telephone, e-mail or letter, we may keep a record of your correspondence or comments. If you report a problem with our site, we may collect such information in a file specific to you. If you contact us through our feedback area or by calling one of our customer service representatives, we may ask for your name, e-mail address and order information in order to send you a reply. If other users or third parties send us correspondence about your activities or purchases on our site, we may keep the information in a file specific to you.
@@ -90,7 +90,7 @@ E-mail Services: We may use a third party to send promotional e-mails to custome
 
 Website Analysis Agent: We may contract with several online partners to help manage and optimize our Internet business and marketing. We use the services of marketing companies to help us measure the effectiveness of our advertising and how visitors use our site. To do this, we use analysis tools and cookies provided by the marketing companies on this site. The type of information we collect includes things such as pages, information and advertisements viewed as well as what items are placed in a shopping basket or purchased, the order number, the amount of a purchase, the product number and the quantity purchased. By supplementing our records, this information helps us learn things like what kinds of customers our site attracts, which of our products most interest our customers, and what kinds of offers our customers like to see. Although the marketing companies log the information coming from our site on our behalf, we control how that data may and may not be used. For more information about cookies, please read the entire Privacy Policy.
 
-Marketing Partners, Co-branded Services, Framing/Windows on Third-Party Sites: We may run promotions for merchants where you may visit the merchants' sites. In some of those promotions, a window or frame containing the merchant's site may appear. Any time you are in a window, you should assume that your personal information is being collected, used and disclosed in accordance with that merchant's policies. This Privacy Policy does not apply to information that you supply to those merchants. Any information that you share with them will be used and disclosed in accordance with that merchant's privacy policy. However, once you click on a return link to our site, you can expect that further information that you disclose will be treated in accordance with this Policy.
+Marketing Partners, Co-branded Services, Framing/Windows on Third-Party Sites: We may run promotions, product review surveys, and other offerings or options for customer participation with third parties, where you many visit the third party’s sites. In some of those cases, a window or frame containing the third party’s site may appear.
 
 On occasion, unaffiliated third parties will "frame" PlumberSurplus.com's site in an effort to collect customer information. To ensure your privacy, make sure that your order originates from PlumberSurplus.com's site. PlumberSurplus.com is not in any manner responsible in the event that you do disclose information to an unaffiliated framing site.
 
@@ -118,7 +118,7 @@ We believe you should have the ability to access and edit the personal informati
 
 #### What are your choices regarding collection, use, and distribution of your information?
 
-Email: We may from time to time send you e-mail or other communications regarding current promotions, specials and new additions to the PlumberSurplus.com site. You may "opt-out," or unsubscribe from our newsletters by following the unsubscribe instructions in any e-mail you receive from us, or by sending an e-mail to [info@plumbersurplus.com](mailto:info@plumbersurplus.com) requesting to unsubscribe. After doing so, PlumberSurplus.com users will not receive future promotional emails unless they open a new account, enter a contest, or sign up to receive newsletters or emails.
+Email: We may from time to time send you email or other communications such as emails or communications regarding, your order, transaction, account, information, product, service or other related information request, customer reviews, promotions, specials and/or changes to the PlumberSurplus.com site. You may “opt-out”, or unsubscribe from non-transactional emails by following the unsubscribe instructions in the email you receive from us. 
 
 Ad Servers and other Content Servers: You may also set your browser so that it will not accept "cookies" to prevent assignment from an ad server or content server of a unique identifier; however, you will be unable to shop on our site if you do so. 
 
@@ -167,7 +167,7 @@ You may also contact us by email at [info@plumbersurplus.com](mailto:info@plumbe
 
 #### Privacy Policy changes
 
-This Privacy Policy was last changed on December 30, 2004. If PlumberSurplus.com makes changes to any terms or conditions of the Privacy Policy, the changes will be posted in this document so that you will always know what information we gather, how we might use that information and to whom we will disclose it. We may change, modify, add or remove portions of this Policy at any time, and any changes will become effective immediately upon being posted unless we tell you otherwise. 
+This Privacy Policy was last changed on January 4, 2008. If PlumberSurplus.com makes changes to any terms or conditions of the Privacy Policy, the changes will be posted in this document so that you will always know what information we gather, how we might use that information and to whom we will disclose it. We may change, modify, add or remove portions of this Policy at any time, and any changes will become effective immediately upon being posted unless we tell you otherwise. 
 
 [](https://www.scanalert.com/RatingVerify?ref=www.plumbersurplus.com)
 
