@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smileytraffic.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213131708id_/http%3A//www.smileytraffic.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smileytraffic.com privacy policy that was archived on 2008-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080226104425id_/http%3A//www.smileytraffic.com/privacy.php) for the most accurate reproduction.*
 
 # SmileyTraffic
 
@@ -10,15 +10,15 @@
 
 Members Earnings  
 Since 03-22-04  
-Last Updated 12-12-07  
- **$12,783.29 26,883 Total Members  
-26 Pro Members  
-10 Premium Members  
-29 Ultimate Members
+Last Updated 02-25-08  
+ **$14,333.81 29,102 Total Members  
+31 Pro Members  
+11 Premium Members  
+39 Ultimate Members
 
 NEW MEMBERS  
 This Month:  
-390
+786
 
 **  
 
