@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oldmutual.co.za privacy policy that was archived on 2007-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071014014137id_/http%3A//www.oldmutual.co.za/help/site-usage-and-information/terms-of-use/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oldmutual.co.za privacy policy that was archived on 2008-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080226093109id_/http%3A//www.oldmutual.co.za/help/site-usage-and-information/terms-of-use/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Old Mutual - Privacy Policy
 
@@ -33,4 +33,4 @@ We may occasionally contact you to inform you of new services or products offere
 
 Old Mutual reserves the right to amend this online privacy policy at any time by posting the amended policy on our website. Unless otherwise stated, the current version will apply each time you access our website.”
 
-Copyright subsists in all materials on this website. You may use the information and print or reproduce materials from this website only for your own non-commercial personal use.
+Copyright subsists on all materials on this website. You may use the information and print or reproduce materials from this website only for your own non-commercial personal use.
