@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the conferenceboard.ca privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218185910id_/http%3A//www.conferenceboard.ca/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conferenceboard.ca privacy policy that was archived on 2008-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080227005956id_/http%3A//www.conferenceboard.ca/privacy_policy.htm) for the most accurate reproduction.*
 
 # Conference Board of Canada: Privacy Policy
 
