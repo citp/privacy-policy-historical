@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ingres.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227030852id_/http%3A//www.ingres.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ingres.com privacy policy that was archived on 2008-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080226015217id_/http%3A//www.ingres.com/policy.php) for the most accurate reproduction.*
 
-# Ingres Corporation :: Ingres Corporation Privacy Policy
+# Ingres: Ingres Corporation Privacy Policy
 
 Your privacy is important to Ingres Corporation ("Ingres" "we" or "us"). We have prepared this privacy policy to disclose and describe certain policies implemented throughout Ingres governing Ingres' use of personally identifiable information about users of our web site located at www.ingres.com ("Site"). 
 
