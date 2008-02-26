@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the biggerbras.com privacy policy that was archived on 2007-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071204155135id_/http%3A//www.biggerbras.com/biggerbras-com-customer-privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biggerbras.com privacy policy that was archived on 2008-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080226233229id_/http%3A//www.biggerbras.com/biggerbras-com-customer-privacy-policy.shtml) for the most accurate reproduction.*
 
-# Biggerbras.com, Customer, Privacy Policy
+# BiggerBras.com: Privacy Policy
 
 BGB strives to provide a quality shopping experience for all of our visitors. We regard our customers' privacy with respect and in accordance with acceptable internet practice we have a published privacy policy, which is outlined below.
 
@@ -25,7 +25,7 @@ BGB mails your package in a plain white poly-vinyl envelope, a standard Post Off
 Email  
 An email acknowledgement is sent when an order is placed on our web site. Additional emails may follow to inform you of the status of your order. If you do not receive these emails, you may have accidentally typed the wrong email address into your order (call us and we'll correct it), or your service provider or spam-blocker software may key on words such as "bra" or "lingerie" and put your confirmation into your spam box. If this is the case, take the necessary steps to allow these emails if you are interested in your order status.
 
-Once or twice a month, a promotional [email newsletter](https://web.archive.org/bras-lingerie-shopping-newsletter.shtml) may be sent to inform interested visitors of new features, new products, or "on-sale" events and fresh coupon codes. Removal instructions are always at the bottom of the promotional emails. 
+Once or twice a month, a promotional email newsletter may be sent to inform interested visitors of new features, new products, or "on-sale" events and fresh coupon codes. Removal instructions are always at the bottom of the promotional emails. 
 
 In an effort to reduce the thousands of inappropriate email (i.e. SPAM lists) sent to our customer service address: Effective January, 2004 we no longer send an auto-reply to incoming emails. We also use our own spam-blocking software, so please reference your name or order id in the subject line of your email along with your questions or comments inside the email. Do not send attachments, they will be deleted.
 
