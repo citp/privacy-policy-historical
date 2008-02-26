@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homespyvideo.com privacy policy that was archived on 2007-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071014014205id_/http%3A//www.homespyvideo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homespyvideo.com privacy policy that was archived on 2008-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080226100124id_/http%3A//homespyvideo.com/privacy.html) for the most accurate reproduction.*
 
 # OUR COMMITMENT TO PRIVACY
 
