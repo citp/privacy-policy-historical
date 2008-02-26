@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pens.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216100553id_/http%3A//www.pens.com/pens/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pens.com privacy policy that was archived on 2008-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080226080453id_/http%3A//www.pens.com/pens/privacy) for the most accurate reproduction.*
 
 # National Pen – Privacy Policy
 
