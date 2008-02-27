@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the printerinks.com privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228222706id_/http%3A//www.printerinks.com/stAntispam.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printerinks.com privacy policy that was archived on 2008-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080227130654id_/http%3A//www.printerinks.com/stAntispam.htm) for the most accurate reproduction.*
 
 # Discount Inkjet cartridges suitable for Epson Canon HP and Lexmark Printers - Printerinks.com
 
@@ -43,7 +43,7 @@ Should you have other questions or concerns about these privacy policies, please
 ---  
 |    
 ---  
-Printerinks, 335 Rayners Lane, Pinner, Middlesex, HA5 5EN, United Kingdom   
+Printerinks, 4 Victoria Road, Ruislip, Middlesex, HA4 0AA, United Kingdom   
 Tel: 0870 042 3737 | Fax: 020 8845 3659  
   
 *****Apple®, HP®, IBM®, Lexmark®, Canon®, Epson®, Xerox® and other manufacturer brand names and logos are registered trademarks of their respective owners. Any use of a brand name or model designation for a non-OEM" cartridge is made solely for purposes of demonstrating compatibility.
