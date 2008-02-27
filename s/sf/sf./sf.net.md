@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sf.net privacy policy that was archived on 2007-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071020081159id_/http%3A//sourceforge.net/tos/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sf.net privacy policy that was archived on 2008-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080227011556id_/http%3A//sourceforge.net/tos/privacy.php) for the most accurate reproduction.*
 
 # SourceForge.net: SourceForge.net Privacy Policy
 
