@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the ambercoastcasino.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217135443id_/http%3A//www.ambercoastcasino.com/en/security-privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ambercoastcasino.com privacy policy that was archived on 2008-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080227021124id_/http%3A//www.ambercoastcasino.com/en/security-privacy.php) for the most accurate reproduction.*
 
 # Amber
 
 |  |  |   
-[Home](https://web.archive.org/web/20071217135443id_/http%3A//www.ambercoastcasino.com/en/index.php)  
+[Home](https://web.archive.org/web/20080227021124id_/http%3A//www.ambercoastcasino.com/en/index.php)  
   
 [Download](http://banner.ambercoastcasino.com/cgi-bin/SetupCasino.exe?opt_lang=en)  
   
@@ -28,5 +28,5 @@ Senator Gil Puyat Corner Ayala Ave., Makati City, Manila, Philippines
   
 ---|---|---  
   
-© 2007, All rights reserved.  
+© 2008, All rights reserved.  
 [www.ambercoastcasino.com](http://www.ambercoastcasino.com/) is a site of Multipurpose Processing Limited, Cyprus.
