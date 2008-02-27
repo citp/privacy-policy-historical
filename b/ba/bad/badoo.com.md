@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the badoo.com privacy policy that was archived on 2007-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071015140328id_/http%3A//badoo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the badoo.com privacy policy that was archived on 2008-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080227171238id_/http%3A//badoo.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -36,7 +36,7 @@ You may wish to receive emails from us in respect to new message notifications, 
 
 ## Disclosure of your information
 
-We do not sell or rent out any personal information about you to any third party (excluding affiliates, parent company, subsidiaries or members of Partner programs) without your permission. We do disclose information in aggregate to advertisers and for other marketing and promotional purposes. However, in these situations, we do not disclose to these entities any information that could be used to personally identify you. Certain information, such as your password is not disclosed in aggregate at all.
+We do not sell or rent out any personal information about you to any third party without your permission. We do disclose information in aggregate to advertisers and for other marketing and promotional purposes. However, in these situations, we do not disclose to these entities any information that could be used to personally identify you. Certain information, such as your password is not disclosed in aggregate at all.
 
 In order to maintain a healthy community, Badoo cooperates with all law enforcement inquiries and with all third parties to enforce their intellectual property or other rights.
 
