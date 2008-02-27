@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careers.vic.gov.au privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228201025id_/http%3A//careers.vic.gov.au/CA256D160006CABE/0/859A5F2B1235F914CA256F72007E78AD%3FOpenDocument) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careers.vic.gov.au privacy policy that was archived on 2008-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080227161426id_/http%3A//www.careers.vic.gov.au/CA256D160006CABE/0/859A5F2B1235F914CA256F72007E78AD%3FOpenDocument) for the most accurate reproduction.*
 
 # Careers with Victorian Government Australia : Privacy Statement
 
