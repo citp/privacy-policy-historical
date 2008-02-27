@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marinabaysands.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229020212id_/http%3A//marinabaysands.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marinabaysands.com privacy policy that was archived on 2008-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080227203158id_/http%3A//www.marinabaysands.com/privacy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
