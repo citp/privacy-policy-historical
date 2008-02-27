@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shareasale.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229062925id_/http%3A//www.shareasale.com/w3c/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shareasale.com privacy policy that was archived on 2008-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080227145847id_/http%3A//www.shareasale.com/w3c/policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
