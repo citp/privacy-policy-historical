@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articleintelligence.com privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230010445id_/http%3A//www.articleintelligence.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articleintelligence.com privacy policy that was archived on 2008-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080228135634id_/http%3A//www.articleintelligence.com/privacy.php) for the most accurate reproduction.*
 
 # www.articleintelligence.com | Privacy Statement
 
