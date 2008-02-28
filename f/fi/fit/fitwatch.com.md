@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fitwatch.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210212305id_/http%3A//www.fitwatch.com/about/policies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fitwatch.com privacy policy that was archived on 2008-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080228035427id_/http%3A//www.fitwatch.com/about/policies.html) for the most accurate reproduction.*
 
 # FitWatch Website Privacy Policy
 
@@ -22,6 +22,6 @@ FitWatch Inc. understands your privacy is important to you (the "Visitor"). This
 
 **Disclosure:** Only FitWatch Inc. employees, officers, directors may have access to this information. Information would be disclosed in order to comply with a court order or subpoena. 
 
-If you have any questions regarding privacy on this Site, please contact [support@fitwatch.com](mailto:support@fitwatch.com). 
+If you have any questions regarding privacy on this Site, please contact [support@fitwatch.com](mailto:support@fitwatch.com "Send me an email"). 
 
 Last revised: August 30th, 2006 
