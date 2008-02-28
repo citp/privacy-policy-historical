@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinejer.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229151142id_/http%3A//onlinejer.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinejer.com privacy policy that was archived on 2008-02-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080229004015id_/http%3A//onlinejer.com/privacy.php) for the most accurate reproduction.*
 
 # Onlinejer Article Directory | Submit Articles | Find Search Free Articles
 
