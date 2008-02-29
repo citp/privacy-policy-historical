@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stunicholls.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229025941id_/http%3A//www.stunicholls.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stunicholls.com privacy policy that was archived on 2008-02-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080229123058id_/http%3A//www.stunicholls.com/privacy.html) for the most accurate reproduction.*
 
 # stu nicholls dot com | privacy policy
 
@@ -70,11 +70,3 @@ Me and/or my entities acting as my agents or entities for which I am acting as a
 How long is this information retained?
 
 I do not have a retention policy for this area of the Web Site.
-
-## stunicholls.com recommend
-
-[](http://www.psd2html.com/order-now.html "title="You")
-
-There are limited text and banner ads spaces available to help support this site.
-
-Please contact me for more information.
