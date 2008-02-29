@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1articleworld.com privacy policy that was archived on 2007-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071112115151id_/http%3A//www.1articleworld.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1articleworld.com privacy policy that was archived on 2008-02-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080229114123id_/http%3A//www.1articleworld.com/privacy.php) for the most accurate reproduction.*
 
 # 1ArticleWorld.com - Article Directory Submission Centre
 
