@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the streamenergy.net privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229114305id_/http%3A//www.streamenergy.net/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streamenergy.net privacy policy that was archived on 2008-02-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080229120547id_/http%3A//www.streamenergy.net/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy Streamenergy.net
 
