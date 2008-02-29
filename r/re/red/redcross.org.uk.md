@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redcross.org.uk privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231152640id_/http%3A//www.redcross.org.uk/49555) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redcross.org.uk privacy policy that was archived on 2008-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080301000345id_/http%3A//www.redcross.org.uk/49555) for the most accurate reproduction.*
 
 # Privacy | British Red Cross
 
