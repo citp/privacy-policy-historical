@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ushomeauction.com privacy policy that was archived on 2007-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071220022952id_/http%3A//www.ushomeauction.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ushomeauction.com privacy policy that was archived on 2008-02-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080229134638id_/http%3A//www.ushomeauction.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy - REDC - Real Estate Disposition Corporation
+# Privacy Policy: REDC Real Estate Disposition Corporation
 
 **Real Estate Disposition Corporation Internet Site Privacy Statement**  
  _Updated 4-16-07_
