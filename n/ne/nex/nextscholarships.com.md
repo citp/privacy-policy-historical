@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nextscholarships.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224201423id_/http%3A//nextscholarships.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nextscholarships.com privacy policy that was archived on 2008-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080302104651id_/http%3A//nextscholarships.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Next Scholarships
 
