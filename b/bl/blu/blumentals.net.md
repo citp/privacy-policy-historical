@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blumentals.net privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213023315id_/http%3A//www.blumentals.net/company/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blumentals.net privacy policy that was archived on 2008-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080302035148id_/http%3A//www.blumentals.net/company/privacy.php) for the most accurate reproduction.*
 
 # Blumentals Software - Company
 
