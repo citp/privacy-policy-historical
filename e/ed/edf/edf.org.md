@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the edf.org privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231222807id_/http%3A//www.edf.org/page.cfm%3FtagID%3D703) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edf.org privacy policy that was archived on 2008-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080302232639id_/http%3A//www.edf.org/page.cfm%3FtagID%3D703) for the most accurate reproduction.*
 
-# Privacy Policy - Environmental Defense
+# Privacy Policy - Environmental Defense Fund
 
 Environmental Defense and Environmental Defense Action Fund put high priority on protecting your privacy. This privacy policy applies to the [Fight Global Warming](http://www.fightglobalwarming.com/ "Fight Global Warming") web site, the [Back from the Brink](http://www.backfromthebrink.org/ "Back from the Brink") web site, the [Environmental Defense](http://www.environmentaldefense.org/ "Environmental Defense") web site, the [Get Green](http://www.getgreen.com/ "Get Green") web site, [Oceans Alive](http://www.oceansalive.org/ "Oceans Alive") web site, the [Texas Environmental Profiles](http://www.texasep.org/ "Texas Environmental Profiles") web site, the [Undoit.org](http://www.undoit.org/ "Undoit.org") web site, and the [Environmental Defense Action Network](http://www.actionnetwork.org/ "Environmental Defense Action Network") web site. (Action Network sites operated by other organizations described below are governed by their own privacy policies.)
 
