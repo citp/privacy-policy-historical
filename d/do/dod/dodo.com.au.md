@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the dodo.com.au privacy policy that was archived on 2006-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060820042726id_/http%3A//dodo.com.au/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dodo.com.au privacy policy that was archived on 2008-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080302223353id_/http%3A//www.dodo.com.au/privacy.asp) for the most accurate reproduction.*
 
-# Privacy Policy
-
-Customer Privacy Policy
+# Welcome to Dodo Australia
 
 1\. Our commitment
 
@@ -31,16 +29,11 @@ You do not have to give us your personal information. However, if you choose not
 
 We use your personal information:
 
-  * to identify you so that we can provide services to you;  
-
-  * administer our provisions of services (such as sending you bills and collecting amounts owed);  
-
-  * for billing and credit control purposes;  
-
-  * to improve the services we provide to you and to inform you about any improvements or changes in services;  
-
-  * to market other services that we or third parties offer; and  
-
+  * to identify you so that we can provide services to you;
+  * administer our provisions of services (such as sending you bills and collecting amounts owed);
+  * for billing and credit control purposes;
+  * to improve the services we provide to you and to inform you about any improvements or changes in services;
+  * to market other services that we or third parties offer; and
   * to comply with our legal obligations.
 
 
@@ -51,14 +44,10 @@ Generally, we will not disclose personal information we collect about you to any
 
 However, we may disclose personal information about you (subject to confidentiality agreements where appropriate):
 
-  * to service providers who provide services to us, such as providers of billing, credit collection, help desk and support services;  
-
-  * to credit reporting agencies;  
-
-  * to third parties where you have given consent to the disclosure;  
-
-  * to government, law enforcement and regulatory bodies where this is necessary for us to comply with our legal obligations; and  
-
+  * to service providers who provide services to us, such as providers of billing, credit collection, help desk and support services;
+  * to credit reporting agencies;
+  * to third parties where you have given consent to the disclosure;
+  * to government, law enforcement and regulatory bodies where this is necessary for us to comply with our legal obligations; and
   * to parties to whom we sell all or part of our assets or business.
 
 
@@ -95,5 +84,4 @@ If you have any complaints about our privacy practices or would like further inf
 
 Telephone: 1300 363605  
 E-mail: [privacy@dodo.com.au](mailto:privacy@dodo.com.au)  
-Postal Address: Po Box 7122 Melbourne VIC 8004  
-
+Postal Address: Po Box 7122 Melbourne VIC 8004
