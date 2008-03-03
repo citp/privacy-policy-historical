@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fix-outlook-express.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225221546id_/http%3A//fix-outlook-express.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fix-outlook-express.com privacy policy that was archived on 2008-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080304004613id_/http%3A//fix-outlook-express.com/privacy-policy.html) for the most accurate reproduction.*
 
 # OPTIMIZE-YOUR-PC.COM - Privacy Policy
 
