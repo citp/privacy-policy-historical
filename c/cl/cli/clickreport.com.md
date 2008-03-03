@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickreport.com privacy policy that was archived on 2007-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071010013534id_/http%3A//www.clickreport.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickreport.com privacy policy that was archived on 2008-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080303230345id_/http%3A//www.clickreport.com/privacy.aspx) for the most accurate reproduction.*
 
 # ClickReport - Click Fraud Detection and Monitoring
 
