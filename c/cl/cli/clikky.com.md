@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clikky.com privacy policy that was archived on 2007-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070517015025id_/http%3A//www.clikky.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clikky.com privacy policy that was archived on 2008-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080303162930id_/http%3A//www.clikky.com/privacy.html) for the most accurate reproduction.*
 
 # Clikky.com for the OnLine Business PowerPack
 
