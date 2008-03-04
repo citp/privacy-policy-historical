@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trutechtools.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225200537id_/http%3A//www.trutechtools.com/cart/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trutechtools.com privacy policy that was archived on 2008-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080304111602id_/http%3A//www.trutechtools.com/cart/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Notice : TruTech Tools, Tools for "Tru" Technicians
 
