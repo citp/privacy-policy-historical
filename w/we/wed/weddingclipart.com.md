@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the weddingclipart.com privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222161639id_/http%3A//www.weddingclipart.com/wca/privacyPolicy/view.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weddingclipart.com privacy policy that was archived on 2008-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080304021528id_/http%3A//www.weddingclipart.com/wca/privacyPolicy/view.do) for the most accurate reproduction.*
 
-# None
+# Privacy Policy
 
   
 WeddingClipart.com values your privacy. You may contact us any time to learn more about this privacy policy by sending email to [Contact@WeddingClipart.com](mailto:contact@WeddingClipart.com). This Privacy Statement describes how WeddingClipart.com collects and uses information about you when you use the WeddingClipart.com web site ("Site"). 
