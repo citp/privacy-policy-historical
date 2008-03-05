@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the scmagazineus.com privacy policy that was archived on 2007-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071015092051id_/http%3A//www.scmagazineus.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scmagazineus.com privacy policy that was archived on 2008-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080305161307id_/http%3A//www.scmagazineus.com/PrivacyPolicy) for the most accurate reproduction.*
 
-# Security News and Security Product Reviews - SC Magazine US
-
-Subscribe to Subscribe
+# Privacy Policy - SC Magazine US
 
 **Privacy Policy **
 
