@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the openforum.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231121552id_/http%3A//www.openforum.com/privacy.jspa) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openforum.com privacy policy that was archived on 2008-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080305224510id_/http%3A//www.openforum.com/privacy.jspa) for the most accurate reproduction.*
 
 # Privacy Policy in OPEN Forum
 
