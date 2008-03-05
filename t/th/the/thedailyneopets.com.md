@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thedailyneopets.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211132225id_/http%3A//www.thedailyneopets.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedailyneopets.com privacy policy that was archived on 2008-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080305050505id_/http%3A//www.thedailyneopets.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The Daily Neopets
 
@@ -6,8 +6,6 @@
 
   
 
-
-[](http://www.thedailyneopets.com/advent/index/)
 
   *   
 **Have you done your Neopets dailies today?** [Click here!](https://web.archive.org/dailies/)
@@ -17,42 +15,46 @@
 **Is the Turmaculus awake?**  
 [Click here to notify us!](https://web.archive.org/turmaculus/)
 
-**Tuesday, December 11th**  
+**Tuesday, March 4th**  
  **Across:**  
-3\. web  
-5\. lava  
-7\. monty  
-8\. pteri  
-9\. acara  
-11\. eel  
-12\. tag  
-13\. fundus  
-14\. five  
   
-**Down:**  
-1\. nimmo  
-2\. night  
-4\. bloop  
-6\. tekel  
-7\. miamouse  
-10\. negg
+3\. gone  
+5\. big  
+6\. cards  
+8\. mystical  
+9\. koi  
+10\. whirlpool  
+12\. rise  
+14\. geb
+
+ **Down:**
+
+  
+1\. roo  
+2\. one  
+4\. nerkmids  
+5\. belt  
+7\. tarla  
+11\. huggy  
+13\. evil
 
  **Daily Puzzle**  
-Which pirate Petpet loves Fresh Seaweed Pie?  
- **Answer:** Barlow  
- **Prize:** 100 NP and Fresh Seaweed Pie
+The wizard Zombom is a member of which Neopian species?  
+ **Answer:** Elephante  
+ **Prize:** 475 NP
 
  **Today's TDN Random Article**  
-[Finding Item IDs](http://www.thedailyneopets.com/articles/finding-item-ids/)
+[Daily Dare 2008](http://www.thedailyneopets.com/daily-dare/index/)
 
 
 
-  * ~~Dec 5th - Bruce Day~~  
-Dec 12th - Wocky Day  
-Dec 20th - Borovan Day  
-Dec 25th - Day of Giving  
-Dec 28th - Ogrin Day  
-Dec 31st - Neopia enters a new year! (Y10) 
+  * March - Gadgadsbogen  
+~~Mar 2nd - Uni Day~~  
+Mar 3rd - Cancelled due to lack of interest  
+Mar 6th - Gelert Day  
+Mar 14th - Scorchio Day  
+Mar 17th - Illusen Day  
+Mar 22nd - Chomby Day 
 
 
 
