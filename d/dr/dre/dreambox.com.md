@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dreambox.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210062530id_/http%3A//www.dreambox.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dreambox.com privacy policy that was archived on 2008-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080306064406id_/http%3A//www.dreambox.com/legal/privacy) for the most accurate reproduction.*
 
 # DreamBox Learning™ -- Legal Terms
 
