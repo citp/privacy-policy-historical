@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the terravision.eu privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210210658id_/http%3A//www.terravision.eu/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the terravision.eu privacy policy that was archived on 2008-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080307091127id_/http%3A//www.terravision.eu/policy.html) for the most accurate reproduction.*
 
 # Terravision Transfer Aeroporto in Bus – Pullman Express per il centro città
 
