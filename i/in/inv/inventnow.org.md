@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inventnow.org privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230204923id_/http%3A//www.inventnow.org/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inventnow.org privacy policy that was archived on 2008-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080307072416id_/http%3A//www.inventnow.org/privacy_policy) for the most accurate reproduction.*
 
 # InventNow.org - Privacy Policy
 
