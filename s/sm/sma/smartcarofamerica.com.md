@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the smartcarofamerica.com privacy policy that was archived on 2007-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071108212724id_/http%3A//smartcarofamerica.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D131) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartcarofamerica.com privacy policy that was archived on 2008-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080307081242id_/http%3A//www.smartcarofamerica.com/privacy_policy.html) for the most accurate reproduction.*
 
-# Smart Car of America - Privacy Policy for SmartCar Of America.com
+# Smart Car of America - The leading smart fortwo news and information portal - Privacy Policy for SmartCar Of America.com
 
 Privacy Policy for SmartCar Of America.com   
   
 > > Privacy for Web Visitors. 
 
-[REUND POLICY ](https://web.archive.org/web/20071108212724id_/http%3A//smartcarofamerica.com/terms_%26_conditions/)
+[REUND POLICY ](http://www.smartcarofamerica.com/terms_%26_conditions/)
 
 One can visit our Web site with complete privacy. A Web site visitor can chose to provide customer-specific information by ordering a product or service, sending us e-mail or registering on a company Web site. Any information provided by a Web site visitor is held strictly confidential within the family of SmartCar Of America companies or its authorized agent and will not be sold to any other organization or business. 
 
