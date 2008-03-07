@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the automanager.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216100511id_/http%3A//www.automanager.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the automanager.com privacy policy that was archived on 2008-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080307085557id_/http%3A//www.automanager.com/privacy.html) for the most accurate reproduction.*
 
 # AutoManager.com - Privacy Policy
 
