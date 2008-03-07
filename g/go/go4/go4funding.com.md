@@ -1,25 +1,35 @@
-> *The following text is extracted and transformed from the go4funding.com privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230193239id_/http%3A//www.go4funding.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the go4funding.com privacy policy that was archived on 2008-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080307092644id_/http%3A//www.go4funding.com/privacy.aspx) for the most accurate reproduction.*
 
-# Investment Opportunities and Business Capital Company Privacy Policy
+# Go4Funding - Privacy Policy
 
-Go4Funding.com ("Go4Funding") respects the privacy of people who use the Go4Funding web site or other Go4Funding products. This privacy statement reflects the current information practices of Go4Funding. If and when there are future changes to our privacy policy, we will continue to post them on this page. If you have questions or concerns about this policy, please contact us using the "contact us" form available in the website.
+Go4Funding.com ("Go4Funding") respects the privacy of people who use the Go4Funding website or other Go4Funding services. This privacy statement reflects the current information practices of Go4Funding. Should there be any future changes to our privacy policy, we will continue to post them on this page. 
 
 **Collection of Data**  
-Go4Funding  collects personally identifiable information when you register for a Go4Funding service or otherwise voluntarily provide such information.  We also collect information you provide about your use of and satisfaction with Go4Funding through email you send us, through Go4Funding feedback forms, and through Go4Funding surveys. You may also voluntarily fill out personal information about yourself in your profile which will be stored with Go4Funding. 
+Go4Funding collects personally identifiable information in several different ways. First, upon membership registration, the user will be asked to provide their full name, their country of origin, city, and telephone number, as well as other information regarding their business, field of industry, funding requirements, etc. We also collect information you provide about your use of and satisfaction with Go4Funding through emails you send us, feedback forms, and brief surveys. 
 
-In addition to the above, we collect certain anonymous (non-personally identifiable) information to help us improve the Go4Funding web site and to evaluate the access and use of Go4Funding products or materials. We may also use web analysis tools that are built into the Go4Funding web site to measure and collect anonymous session information.
+In addition to the above data, we also collect certain anonymous (non-personally identifiable) information to help us improve the Go4Funding website and to evaluate the access and use of Go4Funding products or materials. We may also use web analysis tools to measure and collect anonymous session information.
 
-**Maintaining Privacy**  
-Except as required by law, Go4Funding will maintain the confidentiality of all User communications, which contain personal user information and which are transmitted directly to Go4Funding. Postings by a User on any public arena, such as a message board or in any chat room, will not and can not be protected as confidential. 
+Currently, Go4Funding does not use tracking cookies; however, we reserve the right to use such techniques for future use in order to study user behavior so that we can improve the online experience for Go4Funding users as well as the quality of our services. Cookies are not required for Go4Funding use. If your browser is configured not to accept cookies, you will still have access to Go4Funding and its content. 
 
-Any information (except Email) user enters in his/her profile is visible to all the registered users of Go4Funding. Hence, any personally identifiable information (except Email) included in profile page cannot be treated as confidential. In case , user does not fill out his/her profile with at least the first name and the last name then user's registered username will be visible to all the users(registered and unregistered) of Go4Funding.
+Go4Funding does not sell or distribute the user’s information to parties outside of Go4Funding. The user’s contact information (phone and e-mail) will be kept confidential. However, we exercise the right to share your information if illegal and fraudulent activities are suspected, if we believe that an activity may result in imminent harm to an individual or individuals, if you violate Go4Funding’s Terms of Service, or if required by law. 
 
-User acknowledges and agrees that by providing Go4Funding with any personal or proprietary user information through the site, User consents to the transmission of such personal or proprietary user information over international borders as necessary for processing in accordance with Go4Funding standard business practices.
+**Maintaining Privacy  
+**As mentioned above, Go4Funding will maintain the confidentiality of all user communications, which contains personal information transmitted directly to Go4Funding. Postings by a user on any public arena, such as a message board or in any chat room, will not and cannot be protected as confidential. 
 
-We may also use "cookies" to improve your Go4Funding web experience and to collect anonymous information about how you use Go4Funding. However, cookies are not required for Go4Funding use. If your browser is configured not to accept cookies, you will still have access to Go4Funding and its content.
+Please keep in mind that any posted information (except email and telephone number) that the user enters in his/her profile will be visible to all the registered users of Go4Funding. Hence, any personally identifiable information (except email and phone) included in the profile page cannot be treated as confidential. In the case  that the user decides not to fill out his/her profile with their first and the last name, then the user's registered username will be visible to all the users (registered and unregistered) of Go4Funding.
+
+The user acknowledges and agrees that by providing Go4Funding with any information through the site, the user automatically consents to the transmission of such personal or proprietary user information over international borders, as necessary, for processing in accordance with Go4Funding standard business practices.
 
 **Communication**   
-By registering at Go4Funding.com user agrees to receive emails from Go4Funding which might be required for normal functioning of the site. User also acknowledges that in future we may allow users to send requests to your email. However, we will not display your email to any user unless user voluntarily chooses to do so by including it in the "About" section of the profile or any other form of communication with other users. User also agrees to receive email communication from Go4Funding from time to time regarding marketing or sales promotions. User may write to Go4Funding using "contact us" form to be excluded in from any such promotional emails. 
+By becoming a registered member, the user agrees to receive emails from Go4Funding, which may be required for normal functioning of the site. The user also acknowledges the prospect of allowing users to send requests directly to your email. Should this policy be enforced, Go4Funding will not display your email to any user unless the user voluntarily chooses to do. This can be accomplished by including it in the "About" section of the profile or any other form of communication with other users. The user also agrees to receive occasional email communication from Go4Funding regarding marketing or sales promotions. The user may also write to Go4Funding using the "Contact Us" form if the user decides to be excluded from any such promotional emails. 
 
 **No Guarantees**   
-Go4Funding will try its best to meet the privacy standards mentioned above. However, there might be factors beyond our control which meet result in disclosure of data. Hence, Go4Funding is not in a position to guarantee the standards mentioned above and disclaims any warranties or representations relating to maintenance or nondisclosure of Data.
+Go4Funding will try its best to meet the privacy standards as mentioned above. However, there may be factors beyond our control which might result in disclosure of data. Hence, Go4Funding is not in a position to guarantee the standards mentioned above and disclaims any warranties or representations relating to maintenance or nondisclosure of data.
+
+**Contact Us**  
+If you have any questions about our privacy policy or suggestions on how to improve our privacy to all users, please contact us at:
+
+> Go4Funding, LLC  
+>  ATTN: Privacy Policy Issues  
+>  1122 Kenilworth Drive, Suite 418  
+>  Towson, MD 21204
