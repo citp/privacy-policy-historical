@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newyorkanimefestival.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214085414id_/http%3A//www.nyanimefestival.com/en-us/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newyorkanimefestival.com privacy policy that was archived on 2008-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080307080049id_/http%3A//www.nyanimefestival.com/en-us/privacypolicy.cfm) for the most accurate reproduction.*
 
 # New York Anime Festival Privacy Policy & Terms & Conditions
 
@@ -43,5 +43,5 @@ Norwalk, CT 06851
 
 Phone:    Within the US at 888-306-2344   
                Outside the US at 203-840-5810   
-Email: [privacyadmin@recusprivacy.com](mailto:privacyadmin@recusprivacy.com)   
+Email: [privacy@reedexpo.com](mailto:privacy@reedexpo.com)[](mailto:privacyadmin@recusprivacy.com)    
 
