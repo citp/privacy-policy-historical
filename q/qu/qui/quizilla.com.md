@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quizilla.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224190027id_/http%3A//www.quizilla.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quizilla.com privacy policy that was archived on 2008-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080308150244id_/http%3A//quizilla.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
