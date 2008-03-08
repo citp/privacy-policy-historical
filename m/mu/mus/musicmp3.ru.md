@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musicmp3.ru privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215232145id_/http%3A//musicmp3.ru/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicmp3.ru privacy policy that was archived on 2008-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080308181827id_/http%3A//musicmp3.ru/privacy.html) for the most accurate reproduction.*
 
 # Mp3 Music Download - MusicMp3.RU
 
