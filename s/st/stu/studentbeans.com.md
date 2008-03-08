@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the studentbeans.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210174640id_/http%3A//www.studentbeans.com/uk/info/site/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studentbeans.com privacy policy that was archived on 2008-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080308112038id_/http%3A//www.studentbeans.com/uk/info/site/privacy-policy.html) for the most accurate reproduction.*
 
-# studentbeans.com | save money with student discounts, deals and offers | Privacy Policy
+# Privacy Policy | studentbeans.com
 
 This privacy policy sets out how studentbeans.com uses and protects any information that you give studentbeans.com when you use this website. 
 
