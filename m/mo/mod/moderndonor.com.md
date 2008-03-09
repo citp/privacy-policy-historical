@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the moderndonor.com privacy policy that was archived on 2007-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071104064733id_/http%3A//moderndonor.com/policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moderndonor.com privacy policy that was archived on 2008-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080309011459id_/http%3A//www.moderndonor.com/policy.aspx) for the most accurate reproduction.*
 
 # Modern Donor
 
   
 [About Us](https://web.archive.org/)  
-[Become a Sponsor](https://web.archive.org/web/20071104064733id_/http%3A//moderndonor.com/sponsor.aspx)  
-[Privacy Policy](https://web.archive.org/web/20071104064733id_/http%3A//moderndonor.com/policy.aspx)  
+[Become a Sponsor](https://web.archive.org/web/20080309011459id_/http%3A//www.moderndonor.com/sponsor.aspx)  
+[Privacy Policy](https://web.archive.org/web/20080309011459id_/http%3A//www.moderndonor.com/policy.aspx)  
 [Subscribe](http://ui.omnimailer.com/subscribe.aspx) |   
 **Privacy Policy**
 
