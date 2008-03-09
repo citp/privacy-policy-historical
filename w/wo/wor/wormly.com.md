@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wormly.com privacy policy that was archived on 2007-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071206044227id_/http%3A//www.wormly.com/help/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wormly.com privacy policy that was archived on 2008-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080309011231id_/http%3A//www.wormly.com/help/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Wormly
 
@@ -61,6 +61,8 @@ All communications within this distributed server infrastructure are secured usi
 Mark Harbottle from SitePoint said:
 
 “ _We chose Wormly because website uptime is crucial to our business … A slow or unreachable website translates directly into revenue lost._ ” [Read on »](https://web.archive.org/help/case-studies/case-study-sitepoint)
+
+[What are other people saying?](https://web.archive.org/testimonials)
 
 ## About Wormly
 
