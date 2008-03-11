@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the demandware.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229122607id_/http%3A//www.demandware.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the demandware.com privacy policy that was archived on 2008-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080311131912id_/http%3A//www.demandware.com/about/privacy.php) for the most accurate reproduction.*
 
 # On-Demand eCommerce - Demandware :: Privacy Policy
 
@@ -74,6 +74,6 @@ We welcome your input on our privacy policy. If you have any questions or sugges
 
 Demandware, Inc.  
 ATTN: Privacy  
-120 Presidential Way  
+10 Presidential Way  
 Woburn, MA 01801 USA  
 +1 (781) 756 3700 (main) 
