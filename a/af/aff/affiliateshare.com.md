@@ -1,35 +1,15 @@
-> *The following text is extracted and transformed from the affiliateshare.com privacy policy that was archived on 2004-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040202080921id_/http%3A//affiliateshare.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affiliateshare.com privacy policy that was archived on 2008-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080312175349id_/http%3A//affiliateshare.com/templates/elements/almondnet.html) for the most accurate reproduction.*
 
-# privacy
+# Our Use of Your Information
 
-Welcome to **[Affiliate Share](http://www.affiliateshare.co.uk/)**. We're here to help you track down the best online affiliate sites, every online affiliate within our directory is reviewed and tested by our team of editors.
+In general, you can browse a large portion of this site without telling us who you are or revealing any personal information about yourself. Once you give us your personal information, you are not anonymous to us. You will be notified when your personal information is collected by any third party that is not our agent/service provider so that you can make an informed choice as to whether or not to share your information with that party.
 
-* * *
+We may automatically collect certain information based upon your behavior on the site. We use this information to do internal research on our users' demographics, interests, and behavior in order to serve our users better. This information may include the URL that you come from or go to (whether this URL is on the site or not), your computer browser information, and your IP address.
 
-** [ Affiliate Share Privacy](http://www.affiliateshare.co.uk/)**
+We allow advertisers and other business partners to place "cookies" onto your computer when you visit this website. These "cookies" are placed to keep track of the web searches you make while visiting this website, as well as your web surfing behavior on this website and other websites you may visit. That information is used to show you advertisements tailored to your interests on this and other websites, and/or to keep track of your response to each ad. If you would like more information about this practice and would like to know your choices about not having this information used to target ads to you, please [click here](http://www.networkadvertising.org/consumer/opt_out.asp).
 
-* * *
+Please be advised that we have no access to or control over our business partner's "cookies". This privacy statement covers the use of "cookies" by this site only and does not cover the use of "cookies" by any advertisers.
 
-|    
----  
-[ ](http://www.affiliateshare.com/)  
-  
-Our Privacy Policy
+If you send us personal correspondence, such as emails or letters, or if other users or third parties send us correspondence about your activities on the site, we may collect such information into a file specific to you.
 
-We will never share personally identifiable information (such as your name, address, and telephone) that you provide about yourself through our website without your express permission. Further, we doe not and will not store this personally identifiable information about you unless you specifically request that we do so. It is not necessary to identify any contact details about yourself when using any of our websites
-
-**1\. Information you provide to us -** The only time we require customer registration details is when a customers wishes to be included in the 1st index, request for advertising or recommending sites. This service cannot be offered without first receiving some contact information such as your email address. 
-
-**2\. How the information is used -** We use this information about you to contact you in response to your  enquiry or comment. 
-
-**3\. With whom information is shared -** If you voluntarily provide your name, address, and telephone number to 1st this information is not passed on to any third-party.
-
-**4\. User Statistics -** During your use of our site, we may collect demographic data. This is just used to identify how many people are accessing our site, and which browsers they are using, which page is the most popular and so on. The information cannot personally identify you and is only used to help us provide a better service.
-
-**5\. Coverage - **This policy applies to our all our URL's  detailed above.
-
-**6\. Third-Party Relationship -** You will find direct links on our site to other web sites. These sites are not covered by this Privacy Policy and if you have any concerns that a site to which we have a direct link is not practicing an acceptable policy please contact them directly.
-
-**7\. Security - 1st** has security measures in place to attempt to protect against the loss, misuse and alteration of customer data under our control. While we cannot guarantee that loss, misuse or alteration of the data will not occur, we promise to do our utmost to prevent against any such occurrences.
-
-Please Contact us if you have any questions about our policy.
+You agree that we may use your information to contact you and deliver information to you that, in some cases, is targeted to your perceived interests, such as targeted banner advertisements, administrative notices, product offerings, and communications relevant to your use of the site. Through your access and use of this site, you hereby expressly agree to receive this information.
