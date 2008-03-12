@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the parents.com privacy policy that was archived on 2007-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070710201834id_/http%3A//www.parents.com/parents/file.jhtml%3Fitem%3D/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parents.com privacy policy that was archived on 2008-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080312153101id_/http%3A//www.parents.com/parents/file.jsp%3Fitem%3Dlegal/privacy%26temp%3Dno) for the most accurate reproduction.*
 
-# Parents.com
+# 
 
   * Online Privacy Policy
-  * [Offline Privacy Policy](https://secure.meredith.com/privacy/policy.html)
+  * [Offline Privacy Policy](http://www.parents.com/parents/file.jsp?item=/privacy/policy)
   * [Visitor Agreement](http://parents.com/parents/file.jhtml?item=/legal/terms)
   * Your California Privacy Rights
   * Meredith Corporation “Shine the Light” Customer Notice
@@ -12,7 +12,7 @@
 
 ## ONLINE PRIVACY POLICY
 
-Welcome to our website! Parents.com is a service provided by Meredith Corporation ("Meredith," "we" or "us"). Since 1902, Meredith has been committed to providing our customers with products and services characterized by outstanding quality, customer service and value. Our Online Privacy Policy continues our commitment to serve you and to protect your privacy online. Please [click here](https://secure.meredith.com/privacy/policy.html) to see our Offline Privacy Policy.
+Welcome to our website! Parents.com is a service provided by Meredith Corporation ("Meredith," "we" or "us"). Since 1902, Meredith has been committed to providing our customers with products and services characterized by outstanding quality, customer service and value. Our Online Privacy Policy continues our commitment to serve you and to protect your privacy online. Please [click here](http://www.parents.com/parents/file.jsp?item=/privacy/policy) to see our Offline Privacy Policy.
 
 By visiting any of our sites, you agree that your visit, and any dispute over privacy, is governed by this Online Privacy Policy and our [Visitor Agreement](http://parents.com/parents/file.jhtml?item=/legal/terms). Please take a few minutes to read them before using or registering with any of our sites.
 
@@ -136,7 +136,3 @@ Many of the third-party offers promoted through our websites are brought to our 
 From time to time, we may offer co-sponsored sweepstakes, contests and other promotions with third-party advertisers and other partners. We may share your registration information with third-parties involved in a co-sponsored promotion, who will always be identified in the promotion materials (for example, in the official rules). If you do not want your registration information to be disclosed to these third-parties, please do not register for any of our co-sponsored promotions.
 
 Return to top 
-
-  
-|  |  |   
----|---|---|---
