@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the equinoxfitness.com privacy policy that was archived on 2007-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071020031224id_/http%3A//www.equinoxfitness.com/Footer/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the equinoxfitness.com privacy policy that was archived on 2008-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080312041623id_/http%3A//www.equinoxfitness.com/Footer/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -24,3 +24,5 @@ Does this Privacy Policy apply to external links found on this Web site?
     While this site may contain links to other sites, please note that when you click on one of these links, you are 'clicking' away from EquinoxFitness.com to another Web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours. We are not responsible for the privacy practices or the content of such Web sites. 
 How can you contact Equinox Fitness Clubs? 
     If you have questions regarding our Privacy Policy, other areas of our Web site or our clubs, please [contact us](https://web.archive.org/Footer/ContactUs.aspx). Your feedback is always welcome and appreciated.
+
+ 
