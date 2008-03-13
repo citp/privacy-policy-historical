@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the accesshollywood.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227001609id_/http%3A//www.accesshollywood.com/insideaccess/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accesshollywood.com privacy policy that was archived on 2008-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080313181351id_/http%3A//www.accesshollywood.com/special/privacypolicy) for the most accurate reproduction.*
 
-# None
+# Privacy Policy - Access Hollywood
 
 This Privacy Policy was last updated on 03/20/2007. 
 
