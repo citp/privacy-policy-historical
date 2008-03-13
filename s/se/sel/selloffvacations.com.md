@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the selloffvacations.com privacy policy that was archived on 2007-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071016203320id_/http%3A//www.selloffvacations.com/shared/content/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the selloffvacations.com privacy policy that was archived on 2008-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080313233555id_/http%3A//www.selloffvacations.com/shared/content/privacy.aspx) for the most accurate reproduction.*
 
-# selloffvacations.com: Privacy Policy
+# www.selloffvacations.com: Privacy Policy
 
 **SellOffVacations.com** respects the privacy of our clients who make reservations with **SellOffVacations.com** and the Softvoyage reservation systems, the following discloses our information gathering and handling practices for our website(s) \- **SellOffVacations.com**.
 
