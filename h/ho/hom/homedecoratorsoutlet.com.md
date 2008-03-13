@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homedecoratorsoutlet.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224135040id_/http%3A//www.homedecoratorsoutlet.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homedecoratorsoutlet.com privacy policy that was archived on 2008-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080313224334id_/http%3A//www.homedecoratorsoutlet.com/Privacy) for the most accurate reproduction.*
 
 # HomeDecoratorsOutlet.com
 
@@ -25,7 +25,7 @@ Fax: 1-314-521-5780
 [Email us](http://www.homedecoratorsoutlet.com/emailUs.php)
 
 **Information We Collect**  
-We may collect the following information: first and last name, street address, city, telephone number, e-mail address and, when necessary, credit card information, when you: 
+We may collect the following information: first and last name, street address, city, telephone number, email address and, when necessary, credit card information, when you: 
 
 * Place an order from our catalogs or on our website
 * Make a purchase at one of our retail stores 
