@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the men4now.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211015013id_/http%3A//men4now.com/Privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the men4now.com privacy policy that was archived on 2008-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080313183352id_/http%3A//www.men4now.com/Privacy.php) for the most accurate reproduction.*
 
 # Men4Now.com - Free Gay Sex Personals, Free Gay Chat and Dating for Single Gay and Bisexual Men on Men4Now
 
