@@ -1,40 +1,40 @@
-> *The following text is extracted and transformed from the techpreparation.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226122501id_/http%3A//techpreparation.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techpreparation.com privacy policy that was archived on 2008-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080313120137id_/http%3A//techpreparation.com/privacy.htm) for the most accurate reproduction.*
 
 # TechPreparation - Privacy Policy
 
   
 HR Job Interview Questions       
-[64 HR Interview Questions](https://web.archive.org/web/20071226122501id_/http%3A//techpreparation.com/64-hr-interview-questions-answers1.htm)  
-[What To Ask After Interview](https://web.archive.org/web/20071226122501id_/http%3A//techpreparation.com/what-to-ask-after-interview.htm)  
-[Questions To Ask HR](https://web.archive.org/web/20071226122501id_/http%3A//techpreparation.com/questions-to-ask-hr.htm)  
-[Interview Tips](https://web.archive.org/web/20071226122501id_/http%3A//techpreparation.com/hr-interview-tips.htm)
+[64 HR Interview Questions](https://web.archive.org/web/20080313120137id_/http%3A//techpreparation.com/64-hr-interview-questions-answers1.htm)  
+[What To Ask After Interview](https://web.archive.org/web/20080313120137id_/http%3A//techpreparation.com/what-to-ask-after-interview.htm)  
+[Questions To Ask HR](https://web.archive.org/web/20080313120137id_/http%3A//techpreparation.com/questions-to-ask-hr.htm)  
+[Interview Tips](https://web.archive.org/web/20080313120137id_/http%3A//techpreparation.com/hr-interview-tips.htm)
 
 Technical Interview Questions    
-[Networking Interview Questions](https://web.archive.org/web/20071226122501id_/http%3A//techpreparation.com/networking-interview-questions-answers1.htm)  
-[Dot NET Interview Questions](https://web.archive.org/web/20071226122501id_/http%3A//techpreparation.com/dotnet-questions-answers1.htm)  
-[Java Interview Questions](https://web.archive.org/web/20071226122501id_/http%3A//techpreparation.com/java-interview-questions-answers1.htm)  
-[C Interview Questions](https://web.archive.org/web/20071226122501id_/http%3A//techpreparation.com/c-interview-questions-answers1.htm)  
-                     [ ...............more](https://web.archive.org/web/20071226122501id_/http%3A//techpreparation.com/interview-questions.htm)
+[Networking Interview Questions](https://web.archive.org/web/20080313120137id_/http%3A//techpreparation.com/networking-interview-questions-answers1.htm)  
+[Dot NET Interview Questions](https://web.archive.org/web/20080313120137id_/http%3A//techpreparation.com/dotnet-questions-answers1.htm)  
+[Java Interview Questions](https://web.archive.org/web/20080313120137id_/http%3A//techpreparation.com/java-interview-questions-answers1.htm)  
+[C Interview Questions](https://web.archive.org/web/20080313120137id_/http%3A//techpreparation.com/c-interview-questions-answers1.htm)  
+                     [ ...............more](https://web.archive.org/web/20080313120137id_/http%3A//techpreparation.com/interview-questions.htm)
 
 Group Discussions  
-[General Concepts on GD](https://web.archive.org/web/20071226122501id_/http%3A//techpreparation.com/group-discussion-gc.htm)  
-[Group Discussions Tips](https://web.archive.org/web/20071226122501id_/http%3A//techpreparation.com/group-discussion-tips.htm)  
-[Do's and Don'ts of GD](https://web.archive.org/web/20071226122501id_/http%3A//techpreparation.com/group-discussion-dosndonts.htm)  
-[General GD Topics](https://web.archive.org/web/20071226122501id_/http%3A//techpreparation.com/group-discussion-topics.htm)
+[General Concepts on GD](https://web.archive.org/web/20080313120137id_/http%3A//techpreparation.com/group-discussion-gc.htm)  
+[Group Discussions Tips](https://web.archive.org/web/20080313120137id_/http%3A//techpreparation.com/group-discussion-tips.htm)  
+[Do's and Don'ts of GD](https://web.archive.org/web/20080313120137id_/http%3A//techpreparation.com/group-discussion-dosndonts.htm)  
+[General GD Topics](https://web.archive.org/web/20080313120137id_/http%3A//techpreparation.com/group-discussion-topics.htm)
 
 Aptitude Interview Questions  
-[Aptitude Interview Questions 1](https://web.archive.org/web/20071226122501id_/http%3A//techpreparation.com/aptitude-questions-answers1.htm)  
-[ Aptitude Interview Questions 2](https://web.archive.org/web/20071226122501id_/http%3A//techpreparation.com/aptitute-questions/career-aptitude-questions1.htm)  
-[C/C++ Aptitude Question](https://web.archive.org/web/20071226122501id_/http%3A//techpreparation.com/aptitute-questions/c-cpp-aptitude-question1.htm)  
-[C Aptitude Question](https://web.archive.org/web/20071226122501id_/http%3A//techpreparation.com/aptitute-questions/c-aptitude-questions1.htm)  
-                    [................More](https://web.archive.org/web/20071226122501id_/http%3A//techpreparation.com/aptitude-questions.htm)
+[Aptitude Interview Questions 1](https://web.archive.org/web/20080313120137id_/http%3A//techpreparation.com/aptitude-questions-answers1.htm)  
+[ Aptitude Interview Questions 2](https://web.archive.org/web/20080313120137id_/http%3A//techpreparation.com/aptitute-questions/career-aptitude-questions1.htm)  
+[C/C++ Aptitude Question](https://web.archive.org/web/20080313120137id_/http%3A//techpreparation.com/aptitute-questions/c-cpp-aptitude-question1.htm)  
+[C Aptitude Question](https://web.archive.org/web/20080313120137id_/http%3A//techpreparation.com/aptitute-questions/c-aptitude-questions1.htm)  
+                    [................More](https://web.archive.org/web/20080313120137id_/http%3A//techpreparation.com/aptitude-questions.htm)
 
 IT Placement Papers  
-[ 3i-Infotech Placement Papers](https://web.archive.org/web/20071226122501id_/http%3A//techpreparation.com/placement-papers/3i-infotech-placement-papers1.htm)  
-[ Accenture Placement Papers](https://web.archive.org/web/20071226122501id_/http%3A//techpreparation.com/placement-papers/accenture-placement-papers.htm)  
-[ Infosys Placement Papers](https://web.archive.org/web/20071226122501id_/http%3A//techpreparation.com/placement-papers/infosys-placement-papers.htm)  
-[Adobe Placement Papers](https://web.archive.org/web/20071226122501id_/http%3A//techpreparation.com/placement-papers/adobe-placement-papers.htm)  
-                   [ ..............More](https://web.archive.org/web/20071226122501id_/http%3A//techpreparation.com/placement-papers.htm)
+[ 3i-Infotech Placement Papers](https://web.archive.org/web/20080313120137id_/http%3A//techpreparation.com/placement-papers/3i-infotech-placement-papers1.htm)  
+[ Accenture Placement Papers](https://web.archive.org/web/20080313120137id_/http%3A//techpreparation.com/placement-papers/accenture-placement-papers.htm)  
+[ Infosys Placement Papers](https://web.archive.org/web/20080313120137id_/http%3A//techpreparation.com/placement-papers/infosys-placement-papers.htm)  
+[Adobe Placement Papers](https://web.archive.org/web/20080313120137id_/http%3A//techpreparation.com/placement-papers/adobe-placement-papers.htm)  
+                   [ ..............More](https://web.archive.org/web/20080313120137id_/http%3A//techpreparation.com/placement-papers.htm)
 
 |  | 
 
