@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestcoverletters.com privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218154825id_/http%3A//www.bestcoverletters.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestcoverletters.com privacy policy that was archived on 2008-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080315003612id_/http%3A//www.bestcoverletters.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Our Privacy Policy
 
