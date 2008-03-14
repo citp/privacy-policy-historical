@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the rapidshare-search-engine.com privacy policy that was archived on 2007-12-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071208220013id_/http%3A//rapidshare-search-engine.com/index-cmd-privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rapidshare-search-engine.com privacy policy that was archived on 2008-03-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080314084805id_/http%3A//rapidshare-search-engine.com/index-cmd-privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 		<meta name="verify-v1" content="7+cZxq5yyrgrQbePBGwCpS39kA7ZQn8AlFkhOXcjrdQ=">
@@ -49,7 +49,10 @@
 			}
 			function goAnim(lblStr) {
 				animInterval = setInterval('startAnim()', 50);
-				if (searchPluginSupported()) document.getElementById('srch_plugin').style.display = 'none';
+				if (searchPluginSupported()) {
+					if (document.getElementById('srch_plugin'))
+						document.getElementById('srch_plugin').style.display = 'none';
+				}
 				document.getElementById('lblSearch').innerHTML = lblStr;
 				document.getElementById('lblSearch').style.display = '';
 			}
@@ -63,7 +66,10 @@
 			function stopAnim() {
 				clearInterval(animInterval);
 				document.getElementById('lblSearch').style.display = 'none';
-				if (searchPluginSupported()) document.getElementById('srch_plugin').style.display = '';
+				if (searchPluginSupported()) {
+					if (document.getElementById('srch_plugin'))
+						document.getElementById('srch_plugin').style.display = '';
+				}
 			}
 			function printError(errstr) {
 				document.getElementById('results').innerHTML = '<div class="error">' + errstr + '</div>';
@@ -128,44 +134,53 @@
 				return encoded;
 			}
 	  		function doReport(strRepId) {
-				goAnim('Reporting . . .');
-				if(window.XMLHttpRequest) {
-					req = new XMLHttpRequest();
-				}
-				else if (window.ActiveXObject) {
-					try {
-						req = new ActiveXObject("Msxml2.XMLHTTP");
+				if (confirm('Are you sure that you want to report this link as broken, or misleading/inappropriate ?')) {
+					goAnim('Reporting . . .');
+					if(window.XMLHttpRequest) {
+						req = new XMLHttpRequest();
 					}
-					catch (e) {
+					else if (window.ActiveXObject) {
 						try {
-							req = new ActiveXObject("Microsoft.XMLHTTP");
+							req = new ActiveXObject("Msxml2.XMLHTTP");
 						}
-						catch (e) {}
+						catch (e) {
+							try {
+								req = new ActiveXObject("Microsoft.XMLHTTP");
+							}
+							catch (e) {}
+						}
 					}
-				}
-				req.onreadystatechange = function()
-				{
-					if(req.readyState == 4)
+					req.onreadystatechange = function()
 					{
-						if(req.status == 200)
+						if(req.readyState == 4)
 						{
-							document.getElementById('r_'+strRepId).style.visibility = 'hidden';
-							stopAnim();
-							alert('Thank you for reporting.');
-							//alert(req.responseText);
+							if(req.status == 200)
+							{
+								document.getElementById('r_'+strRepId).style.visibility = 'hidden';
+								var tmpArr = new Array();
+								var i;
+								tmpArr = req.responseText.split(',');
+								for (i=0; i<tmpArr.length; i++) {
+									if (document.getElementById('r_'+tmpArr[i]))
+										document.getElementById('r_'+tmpArr[i]).style.visibility = 'hidden';
+								}
+								stopAnim();
+								//alert('Thank you for reporting.');
+								//alert(req.responseText);
+							}
+							else
+							{
+								printError(req.status + ': ' + req.statusText);
+								stopAnim();
+								//alert("Error: returned status code " + req.status + " " + req.statusText);
+							}
 						}
-						else
-						{
-							printError(req.status + ': ' + req.statusText);
-							stopAnim();
-							//alert("Error: returned status code " + req.status + " " + req.statusText);
-						}
-					}
-				};
-				var tmpurl = 'http://rapidshare-search-engine.com/report.php?id='+strRepId;
-				req.open("GET", tmpurl, true);
-				req.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
-				req.send(null);
+					};
+					var tmpurl = 'http://rapidshare-search-engine.com/report.php?id='+strRepId;
+					req.open("GET", tmpurl, true);
+					req.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+					req.send(null);
+				}
 			}
 	  		function getRes(strStart) {
 				goAnim('Searching . . .');
@@ -363,18 +378,25 @@
 		<![endif]-->
 	</head>
 	<body onload="obj.init();">
-					<div id="top_ad">
-				<script type="text/javascript"><!--
-					google_ad_client = "pub-7861105404751678";
-					google_alternate_ad_url = "http://rapidshare-search-engine.com/alt_link_unit.html";
-					google_ad_width = 728;
-					google_ad_height = 15;
-					google_ad_format = "728x15_0ads_al";
-					//2007-07-20: rse_web_results
-					google_ad_channel = "9172382187";
-					//-->
-				</script>
-				<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+					<div id="top_ad" style="padding: 3px 3px 3px 15px; background: #f6f6ff; position: relative; left: 0px; margin-left: -15px; width: 950px">
+<script type="text/javascript"><!--
+google_ad_client = "pub-7861105404751678";
+//rse_web_results
+google_ad_slot = "8082712817";
+google_ad_width = 728;
+google_ad_height = 15;
+//--></script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+				<div style="position: absolute; right: 12px; top: 3px">
+					<!-- AddThis Bookmark Button BEGIN -->
+					<script type="text/javascript">
+					  addthis_url    = location.href;   
+					  addthis_title  = document.title;  
+					  addthis_pub    = 'm3gadeth';     
+					</script><script type="text/javascript" src="http://s7.addthis.com/js/addthis_widget.php?v=12"></script>
+					<!-- AddThis Bookmark Button END -->
+				</div>
 			</div>
 				<div id="main">
 			<img id="anim_0" class="anim" border="0" src="images/rot1.png" width="76" height="72" alt="">
@@ -391,7 +413,7 @@
 				<form action="http://rapidshare-search-engine.com/index.php" method="get" onsubmit="return subForm()" id="sform" name="sform">
 					<input type="hidden" name="start" id="start" value="0">
 					<input type="hidden" name="sformval" value="1">
-					<input type="hidden" name="rval" value="1679064457">
+					<input type="hidden" name="rval" value="778676822">
 					<input id="s" name="s" title="You can use wildcards (*) and include operators (+,-)" type="text" size="30" maxlength="200">&nbsp;
 					<select id="s_type" name="s_type">
 						<option value="0" selected="selected">Rapidshare.com</option>
@@ -401,11 +423,11 @@
 					<input type="submit" name="s_submit" value="Search"><br>
 					<input type="radio" id="what_0" name="what" value="0" style="margin-left: 0px" checked="checked">the web &nbsp;&nbsp;
 					<input type="radio" id="what_1" name="what" value="1"><label for="what_1">our database</label> &nbsp;&nbsp;
-					<div style="display: inline; padding-left: 1px"><input type="checkbox" class="cbox2" name="use_ajax" id="use_ajax" value="1"><label for="use_ajax">use ajax</label></div>
+					<div style="display: inline; padding-left: 1px" title="fetch results dynamically, no page reload"><input type="checkbox" class="cbox2" name="use_ajax" id="use_ajax" value="1" title="fetch results dynamically, no page reload"><label for="use_ajax">use ajax</label></div>
 				</form>
 			</div>
 			<div id="lblSearch" style="display: none;">Searching . . .</div>
-			<div id="navigation">version 2.6 &nbsp;&nbsp; • 
+			<div id="navigation">version 2.8 &nbsp;&nbsp; • 
 				<div style="position: absolute; left: 120px; top: 131px; float: left">
 					<div style="position: relative; float: left; margin-top: 3px; width: 16px; height: 11px; border: 1px solid #a9a9a9; background-color: #000000"></div>
 					&nbsp; Full match
