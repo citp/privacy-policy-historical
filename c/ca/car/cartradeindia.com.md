@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the cartradeindia.com privacy policy that was archived on 2007-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071025092937id_/http%3A//www.cartradeindia.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartradeindia.com privacy policy that was archived on 2008-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080314010500id_/http%3A//www.cartradeindia.com/company/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy - CarTradeIndia.com
+# CarTradeIndia - india cars on sale buy a car buy used cars india new cars india car finance india
+
+Company >> Privacy Policy
 
 During your use of CarTradeIndia.com, we will collect certain information about you (in the following, ‘you’ refers to any visitor using the website CarTradeIndia.com, in general or in the use of specific functions). We highly value your privacy and the privacy statement that follows explains exactly what data we collect and how it will be used. Rest assured that we collect data solely with the purpose of serving you better.
 
@@ -37,3 +39,6 @@ _Agreement_
 By use of CarTradeIndia.com you agree to be aware of our privacy policy and your approval of the same. You further understand that this policy may be altered in due course, and that it is your responsibility to regularly monitor this policy.
 
 If you have any questions about our privacy policy, please contact us on [privacy@cartradeindia.com](mailto:privacy@cartradeindia.com).
+
+  
+
