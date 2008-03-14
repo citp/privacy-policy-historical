@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the rapidshare-search-engine.com privacy policy that was archived on 2007-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071208220013id_/http%3A//rapidshare-search-engine.com/index-cmd-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapidshare-search-engine.com privacy policy that was archived on 2008-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080314084805id_/http%3A//rapidshare-search-engine.com/index-cmd-privacy.html) for the most accurate reproduction.*
 
 # Rapidshare-search-engine.com - Find files on rapidshare
 
-version 2.6    • 
+version 2.8    • 
 
 [](http://del.icio.us/post?url=http%3A%2F%2Frapidshare-search-engine.com&title=Rapidshare-Search-Engine "Bookmark this site")
 
