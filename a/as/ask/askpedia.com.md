@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the askpedia.com privacy policy that was archived on 2007-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071129223332id_/http%3A//askpedia.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askpedia.com privacy policy that was archived on 2008-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080316035447id_/http%3A//www.askpedia.com/privacy.html) for the most accurate reproduction.*
 
 # Askpedia.com
 
