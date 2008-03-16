@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quinstreet.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213220109id_/http%3A//www.quinstreet.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quinstreet.com privacy policy that was archived on 2008-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080316012553id_/http%3A//www.quinstreet.com/privacy.jsp) for the most accurate reproduction.*
 
 # QuinStreet, Inc - PRIVACY POLICY
 
