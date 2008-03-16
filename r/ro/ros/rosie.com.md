@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the rosie.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210225707id_/http%3A//www.rosie.com/blog/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rosie.com privacy policy that was archived on 2008-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080316041825id_/http%3A//www2.rosie.com/privacy) for the most accurate reproduction.*
 
 # rosie.com » privacy policy
 
-### privacy policy
+### [privacy policy](http://www.rosie.com/blog/privacy/ "Permanent Link to privacy policy")
 
-**Last updated: November 20, 2007**
+**Last updated: February 4, 2008**
 
-At Rosie.com, we are committed to protecting your online privacy and the security of the information that you might provide to us. Please read this privacy policy (”Privacy Policy”) carefully. By using the Rosie.com Web site you signify your agreement with the Privacy Policy. If you do not agree with the Privacy Policy please do not use Rosie.com or any portion of it, as your continued use of Rosie.com constitutes acceptance of the terms of the Privacy Policy. As used in this Privacy Policy, “Rosie.com” refers to the Rosie.com Web site or its owner KidRo Productions, Inc. This Privacy Policy explains our practices related to:
+At Rosie.com, we are committed to protecting your online privacy and the security of the information that you might provide to us. Please read this privacy policy (“Privacy Policy”) carefully. By using the Rosie.com Web site you signify your agreement with the Privacy Policy. If you do not agree with the Privacy Policy please do not use Rosie.com or any portion of it. As used in this Privacy Policy, “Rosie.com” refers to the Rosie.com Web site or its owner KidRo Productions, Inc. This Privacy Policy explains our practices related to:
 
-  1. What information we collect;
-  2. How we may use and share the information you provide at rosie.com;
+  1. What information we collect; 
+  2. How we may use and share the information you provide at rosie.com; 
   3. How to unsubscribe;
   4. Information posted to public areas of Rosie.com; 
   5. How we protect your information; 
@@ -17,7 +17,7 @@ At Rosie.com, we are committed to protecting your online privacy and the securit
   7. Links to other sites;
   8. Rosie’s Shop;
   9. Correcting your information;
-  10. Contacting us about privacy information;
+  10. Contacting us about privacy questions;
   11. Changes to our privacy policy
   12. Information provided by international users
 
@@ -27,11 +27,12 @@ At Rosie.com, we are committed to protecting your online privacy and the securit
 
 It is not necessary to provide any personal information to view Rosie.com.
 
-For all Rosie.com visitors, however, we may log IP addresses (or the location of your computer network on the Internet) for systems administration and troubleshooting purposes. We also may use IP addresses to track which pages people visit in order to improve the quality of Rosie.com. However, we do not use this data to develop profiles of individual visitors to Rosie.com.
+It is not necessary to provide any personal information to view Rosie.com.  
+For all Rosie.com visitors, however, we may log IP addresses (or the location of your computer network on the Internet) for systems administration and troubleshooting purposes. We also may use IP addresses to track referring/exit pages and which pages people visit in order to improve the quality of Rosie.com. However, we do not use this data to develop profiles of individual visitors to Rosie.com. 
 
-Rosie.com uses cookies to enhance functionality of the site and to aggregate and analyze traffic data such as total number of visitors, pages viewed, etc. You do not have to accept cookies as all major browsers allow you to block cookies from your computer, and you can always delete them later. Rosie.com may also use “Web beacons” to track your behavior on the site. Web beacons are small pieces of data that may be embedded in images on Rosie.com. Blocking cookies will prevent Web beacons from tracking your activity and unique information such as your IP address, but the Web beacon will still account for an anonymous visit.
+Rosie.com uses cookies to enhance functionality of the site and to aggregate and analyze traffic data such as total number of visitors, pages viewed, etc. You do not have to accept cookies as all major browsers allow you to block cookies from your computer, and you can always delete them later. Rosie.com may also use “Web beacons” to track your behavior on the site. Web beacons are small pieces of data that may be embedded in images on Rosie.com. Blocking cookies will prevent Web beacons from tracking your activity and also prevent us from collecting certain other anonymous unique information such as your IP address, but the Web beacon will still account for an anonymous visit.
 
-Many advertisements are managed and placed on Rosie.com by third parties (”Network Advertisers”). Network Advertisers who place advertisements on Rosie.com may also use cookies and Web beacons to collect non-personally identifiable information about your visits to Rosie.com and other Web sites in order to provide advertisements about goods and services of interest to you. Finally, please keep in mind that if you click on an advertisement on Rosie.com and link to a third party’s Web site, then our Privacy Policy will not apply to your personally identifiable information collected on that third party’s Web site and you must read the privacy policy posted on that site to see how your personally identifiable information will be gathered and used.
+Many advertisements are managed and placed on Rosie.com by third parties (“Network Advertisers”). Network Advertisers who place advertisements on Rosie.com may also use cookies and Web beacons to collect non-personally identifiable information about your visits to Rosie.com and other Web sites in order to provide advertisements about goods and services of interest to you. You can find more information about this practice and your choices concerning these practices at [http://networkadvertising.org/managing/opt_out.asp.](http://networkadvertising.org/managing/opt_out.asp) Finally, please keep in mind that if you click on an advertisement on Rosie.com and link to a third party’s Web site, then our Privacy Policy will not apply to your personally identifiable information collected on that third party’s Web site. You must read the privacy policy posted on that site to see how your personally identifiable information will be gathered and used.
 
 **2\. How we may use and share the information you provide at rosie.com**
 
@@ -49,7 +50,7 @@ Additionally, our owner/parent organization may sell or transfer your personal i
 
 **3\. How to unsubscribe**
 
-We provide you the opportunity to opt-out of receiving communications from us easily and promptly. You can remove yourself from any list that you have signed up for at any time by sending an e-mail with “remove” in the subject line to [unsubscribe@rosie.com](mailto:unsubscribe@rosie.com). Additionally, every e-mail we send will include a link that allows you to unsubscribe from that particular list and any other lists you may have joined. Please note we will take reasonable steps to unsubscribe you as soon as reasonably practicable (if you are opting-out of marketing e-mails we will try to unsubscribe you within 10 days of receiving your request). 
+We provide you the opportunity to opt-out of receiving communications from us easily and promptly. You can remove yourself from any list that you have signed up for at Rosie.com at any time by sending an e-mail with “remove” in the subject line to [unsubscribe@rosie.com](mailto:unsubscribe@rosie.com). 
 
 **4\. Information posted to public areas of Rosie.com**
 
@@ -57,7 +58,7 @@ Please keep in mind that whenever you decide to ask a question in the “Ask Ro�
 
 **5\. How we protect your information**
 
-Rosie.com has technical, physical and administrative security measures in place designed to protect against the loss, misuse or alteration of the information you provide to us (other than in public areas of Rosie.com). From time to time, we review our security procedures in order to consider appropriate new technology and methods to protect the information you provide to us. However, despite our reasonable efforts, no security measures are perfect or impenetrable. We cannot and do not guarantee that the content you post on Rosie.com or the information you provide to us will not be viewed by unauthorized persons. 
+Rosie.com has technical, physical and administrative security measures in place designed to protect against the loss, misuse or alteration of the information you provide to us (other than in public areas of Rosie.com). From time to time, we review our security procedures in order to consider appropriate new technology and methods to protect the information you provide to us. However, despite our reasonable efforts, no security measures are perfect or impenetrable. We cannot and do not guarantee that the information you provide to us will not be viewed by unauthorized persons. 
 
 Also, remember that steps you take to help protect the privacy of your personal information (such as logging off Rosie.com after viewing or submitting personal information) are equally important. If you have broadband access to the Internet, it is strongly advised that you use a firewall when accessing the Internet. 
 
@@ -67,7 +68,7 @@ We do not knowingly collect or solicit personally identifiable information from 
 
 **7\. Linking to other sites**
 
-Rosie.com links to a limited number of other Web sites. This Privacy Policy only applies to information collected by us at Rosie.com. Rosie.com is not responsible for the content or the privacy policies or practices of any other Web site available through links on Rosie.com. Before providing personal information to any linked Web site, please check that Web site’s privacy policy and practices, which are completely separate from and unrelated to this Privacy Policy and the privacy practices of Rosie.com. 
+Rosie.com links to a number of other Web sites. This Privacy Policy only applies to information collected by us at Rosie.com. Rosie.com is not responsible for the content or the privacy policies or practices of any other Web site available through links on Rosie.com. Before providing personal information to any linked Web site, please check that Web site’s privacy policy and practices, which are completely separate from and unrelated to this Privacy Policy and the privacy practices of Rosie.com. 
 
 **8\. Rosie’s Shop**
 
@@ -93,11 +94,8 @@ New York, NY 10108
 **11\. Changes to our Privacy Policy  
 **
 
-We reserve the right, at our discretion, to update or revise this Privacy Policy. Please periodically check this Privacy Policy for updates and revisions, because your continued use of this site following the posting of any updates or revisions to this Privacy Policy constitutes your acceptance of those changes. When we change our Privacy Policy, we may change the “Date Last Modified” at the top of this Privacy Policy. Updates or revisions of this Policy will not be applied retroactively. For revisions to this Privacy Policy that may be materially less restrictive in terns if our use or disclosure of the personal information you have already provided to us, we will attempt to give you notice of the specific changes to this Privacy Policy by posting this information prominently on Rosie.com, or by any other means that we deem appropriate.
+We reserve the right, at our discretion, to update or revise this Privacy Policy. Please periodically check this Privacy Policy for updates and revisions, because your continued use of this site following the posting of any updates or revisions to this Privacy Policy constitutes your acceptance of those changes. When we change our Privacy Policy, we may change the date this Privacy Policy was last updated at the top of this Privacy Policy. For revisions to this Privacy Policy that may be materially less restrictive in terns if our use or disclosure of the personal information you have already provided to us, we will attempt to give you notice of the specific changes to this Privacy Policy by posting this information prominently on Rosie.com, or by any other means that we deem appropriate.
 
 **12\. Information provided by international users**
 
-We make no representation or warranties that this Privacy Policy is in compliance with the privacy or data protection laws or regulations of any country from which you access or use Rosie.com. Accessing this site from territories where the site contents are illegal is strictly prohibited. By your use of this Web site, you consent to our collection, use and disclosure of your personal information consistent with the terms of this Privacy Policy, including transfer of your personal information to any location (including a country other than the country from which you access or use the Web site) at which our servers and/or databases may be currently located or relocated, or relocated to. Those who choose to access Rosie.com from locations outside the United States do so at their own risk and at their discretion, and are responsible for compliance with all local laws.
-
-  
-
+We make no representation or warranties that this Privacy Policy is in compliance with the privacy or data protection laws or regulations of any country from which you access or use Rosie.com. Accessing this site from territories where the site contents are illegal is strictly prohibited. By your use of this Web site, you consent to our collection, use and disclosure of your personal information consistent with the terms of this Privacy Policy, including transfer of your personal information to any location (including a country other than the country from which you access or use the Web site) at which our servers and/or databases may be currently located or relocated, or relocated to. Those who choose to access Rosie.com from locations outside the United States do so at their own risk and at their discretion, and are responsible for compliance with all local laws. 
