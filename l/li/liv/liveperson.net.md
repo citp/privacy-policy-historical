@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the liveperson.net privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216134518id_/http%3A//www.liveperson.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liveperson.net privacy policy that was archived on 2008-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080317101331id_/http%3A//www.liveperson.com/about/privacy.asp) for the most accurate reproduction.*
 
 # Live chat, email management, click to talk software by LivePerson
 
 | 
 
-At LivePerson, we have created this privacy policy because we are concerned about protecting the privacy of the users of our live online customer service. The success of our service depends on our ability to maintain the trust of these users. Please read on for more information about our privacy policy. 
+At LivePerson, we have created this privacy policy because we are concerned about protecting the privacy of the users of our live online customer service. LivePerson edeavors to be in compliance with data privacy laws and regulations, including the EU Directive 95-46. As such we have obtained "safe harbor" status from the US Department of Commerce which entails adopting the data quality principles set forth in the EU data privacy directive. The success of our service depends on our ability to maintain the trust of these users. Please read on for more information about our privacy policy. 
 
 ## What does LivePerson do?
 
@@ -26,9 +26,9 @@ We access the information we collect for certain purposes (for example, to aggre
 
 ## ASP Users
 
-When the online customer service chat first begins, ASP Users are asked to enter their names in whatever format or detail they prefer. During the chat, ASP Users enter into a live question and answer session with an operator. We maintain dialogue transcripts of these chats. After the chat, our customers may ask ASP Users to fill out an exit survey in order to obtain valuable feedback. Filling out the exit survey is completely voluntary. The surveys may ask for contact information (e.g., email address) and for demographic information (e.g., zip code, age or income level). The surveys vary by customer so that our customers may obtain feedback specific to their website and business, as well as feedback regarding our service.
+When the online customer service chat first begins, ASP Users may be asked to enter their names or other personal information to facilitate service. By providing such personal information, ASP User consents to LivePerson collecting and processing such personal information on behalf of itself or its customers. Also, during the chat, ASP Users enter into a live question and answer session with an operator. We maintain dialogue transcripts of these chats. After the chat, our customers may ask ASP Users to fill out an exit survey in order to obtain valuable feedback. Filling out the exit survey is completely voluntary. The surveys may ask for contact information (e.g., email address) and for demographic information (e.g., zip code, age or income level). The surveys vary by customer so that our customers may obtain feedback specific to their website and business, as well as feedback regarding our service.
 
-We log browser information (e.g., Internet Protocol addresses and browser types) to help diagnose problems with our server, gather broad demographic information and administer our site. 
+We log browser information (e.g., Internet Protocol addresses and browser types) to help diagnose problems with our server, gather broad demographic information and administer our site. By choosing to engage in a chat and use the services, ASP User consents to such logging and processing of IP address.
 
 We do not knowingly collect any information from anyone under 18 years of age. The exit surveys ask ASP Users to enter their age so that our clients may refuse to accept any information that has been submitted by anyone under 18.
 
