@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the voguewigs.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216104501id_/http%3A//www.voguewigs.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voguewigs.com privacy policy that was archived on 2008-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080317214305id_/http%3A//www.voguewigs.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy -
 
 **Privacy Policy**  
 Your privacy is important. We respect that.  
@@ -41,7 +41,7 @@ This site has security measures in place to protect the loss, misuse, and altera
 **Choice/Opt-Out**  
 Our site provides users the opportunity to opt-out of receiving promotional/marketing information from us.
 
-You can send email to questions@voguewigs.com and request to be removed or added to our mailing list.
+You can send email to and request to be removed or added to our mailing list.
 
 **Data Quality/Access**
 
@@ -50,5 +50,4 @@ This site gives users the following options for changing and modifying informati
 You can send email to questions@voguewigs.com You can visit the following URL: www.voguewigs.com and modify your account if you have created one with us by clicking on LOGIN/REGISTER.
 
 **Contacting the Web Site**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:  
-admin@voguewigs.com
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: 
