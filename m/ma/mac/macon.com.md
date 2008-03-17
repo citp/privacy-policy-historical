@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the macon.com privacy policy that was archived on 2007-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071220065153id_/http%3A//www.macon.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macon.com privacy policy that was archived on 2008-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080317053850id_/http%3A//www.macon.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy & Terms of Use | www.macon.com
-
-[](http://www.truste.org/ivalidate.php?url=web.archive.org&sealid=101)
-
-Go to Terms of Use 
-
-**Privacy Policy**
 
 Effective June 27, 2006
 
@@ -38,7 +32,9 @@ The email address provided by you at registration, or as updated, may be used by
 
 To update your personal information such as name, or mailing address, you can sign into your account and visit the Update Account page. To update your newsletter subscriptions you either a) visit your newsletter subscription page in your account, or b) unsubscribe by following the instructions within the email newsletter. 
 
-If you opt-in to a third party offer on this site then your relationship with the third party will be governed by their respective Privacy Policies. If you no longer wish to receive communication from the third party, then you will need to contact them directly to opt-out. When you sign up for some third-party services on this site, such as free coupons or look up Yellow Pages, you will be taken to a co-branded site which may appear to be , however if the third party is collecting information from you, the use of this information is governed by the co-branded partner's privacy policy.
+If you opt-in to a third party offer on this site then your relationship with the third party will be governed by their respective Privacy Policies. If you no longer wish to receive communication from the third party, then you will need to contact them directly to opt-out. When you sign up for some third-party services on this site, such as free coupons or look up Yellow Pages, you will be taken to a co-branded site which may appear to be 
+
+, however if the third party is collecting information from you, the use of this information is governed by the co-branded partner's privacy policy.
 
 **What other information does McClatchy Interactive collect and how is it used?**
 
@@ -86,10 +82,6 @@ This privacy statement applies only to information collected by this Web site.
 
 [Cookie Central](http://www.cookiecentral.com/) \-- dedicated to provide full information upon Internet Cookies.
 
-* * *
-
-> **Terms of Use**
-
 We welcome you to our site. We ask that you review these Terms of Use, which are intended to constitute a binding license agreement that conditions your use of this site ("Agreement"). We have tried to avoid unnecessary legal verbiage. Our goal is to protect our rights in order to provide you with access to the free content available at this site. If you do not wish to be bound by this Agreement after you have read it, please leave the site. If you remain on this site, or return thereafter, you agree to be bound by this Agreement.
 
 **1\. Responsible conduct.** You agree to act responsibly at this site and to treat other visitors with respect.
@@ -105,3 +97,7 @@ We welcome you to our site. We ask that you review these Terms of Use, which are
 **6\. Modifications/ Termination.** The terms of this agreement will not be modified on an individual basis. You agree that we may modify the terms of this Agreement (or discontinue this site) in our sole discretion, without advance notice, and that your right to access this site is conditioned on an ongoing basis with your compliance with the then-current version of these Terms and Conditions. You should therefore visit this page frequently.
 
 **7\. Jurisdiction.** This Web site is hosted on servers located in the United States and is intended to be viewed by residents of the United States. In the event of any dispute arising out of or relating to this site, you agree that the exclusive venue for litigating disputes shall be in state or federal court in San Jose, California.
+
+ **8\. COPYRIGHTS.** If you believe that Macon.com or any user of Macon.com has infringed your copyright in any material way, please notify our Copyright Agent and provide the following information:
+
+The Copyright Agent for Macon.com is Karole Morgan-Prager, General Counsel, who can be reached at 2100 Q Street, Sacramento, CA 95816 , or at [kmorgan-prager@mcclatchy.com ](mailto:kmorgan-prager@mcclatchy.com) or at 916-321-1828. 
