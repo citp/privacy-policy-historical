@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whereilive.com.au privacy policy that was archived on 2007-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071209142401id_/http%3A//whereilive.com.au/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whereilive.com.au privacy policy that was archived on 2008-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080318190046id_/http%3A//www.whereilive.com.au/privacy_policy.php) for the most accurate reproduction.*
 
 # Sydney's Online Community Noticeboard - Where I Live
 
