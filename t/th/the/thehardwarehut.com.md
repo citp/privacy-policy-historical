@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thehardwarehut.com privacy policy that was archived on 2007-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071201112529id_/http%3A//www.thehardwarehut.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehardwarehut.com privacy policy that was archived on 2008-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080318041619id_/http%3A//www.thehardwarehut.com/policy.php) for the most accurate reproduction.*
 
 # The Hardware Hut - Online and Privacy Policy
 
@@ -22,12 +22,10 @@ We also ask that you allow us to share your information in aggregate form for ou
 
 | 
 
-Sat  December 01, 2007 
+Mon  March 17, 2008 
 
-[](https://www.thehardwarehut.com/cart/cart.php?ref_no=63740172&website=www.thehardwarehut.com&webname=The%20Hardware%20Hut) [](https://web.archive.org/portfolio.php) [](https://web.archive.org/search-site.php) [](http://trade.thehardwarehut.com/trade-login.php)
+[](https://www.thehardwarehut.com/cart/cart.php?ref_no=70531036&website=www.thehardwarehut.com&webname=The%20Hardware%20Hut) [](https://web.archive.org/portfolio.php) [](https://web.archive.org/search-site.php) [](http://trade.thehardwarehut.com/trade-login.php)
 
-[](https://web.archive.org/closeouts.php)
-
-[](https://web.archive.org/viewed-items.php)
+[](https://web.archive.org/new-items.php)
 
 [](http://store.yahoo.com/cgi-bin/clink?elights+9cDC2z+index.html)
