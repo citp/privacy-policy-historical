@@ -1,18 +1,16 @@
-> *The following text is extracted and transformed from the singlehop.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214165936id_/http%3A//www.singlehop.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the singlehop.com privacy policy that was archived on 2008-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080318183833id_/http%3A//www.singlehop.com/legal/privacy_policy.php) for the most accurate reproduction.*
 
-# Privacy Policy
+# SingleHop Dedicated Server & Managed Hosting Privacy Policy - Privacy Policy
 
 This is the web site of SingleHop, Inc. 
 
-Our postal for legal and privacy issues is satellite office: 
+Our postal for legal and privacy issues is address (headquarters:) 
 
-SingleHop, Inc.  
-223 West Jackson Blvd. #1014  
+SingleHop, Inc.   
+223 West Jackson Blvd. #600   
 Chicago, IL 60606 
 
-For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible). We collect only the domain name, but not the e-mail address of visitors to our Web page, user-specific information on what pages consumers access or visit, information 
-
-volunteered by the consumer, such as survey information and/or site registrations. The information we collect is used for internal review and is then discarded, used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual visitor. 
+For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible). We collect only the domain name, but not the e-mail address of visitors to our Web page, user-specific information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations. The information we collect is used for internal review and is then discarded, used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual visitor. 
 
 With respect to cookies: We use cookies to ensure that visitors are not repeatedly sent the same banner ads. 
 
