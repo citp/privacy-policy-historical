@@ -1,75 +1,78 @@
-> *The following text is extracted and transformed from the pagesix.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604194127id_/http%3A//www.pagesix.com/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pagesix.com privacy policy that was archived on 2008-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080318232249id_/http%3A//pagesix.com/privacy) for the most accurate reproduction.*
 
-# PageSix.com: PageSix
+# Privacy Policy | PageSix.com
 
-PRIVACY POLICY
+Effective as of December 2, 2007
 
-**N.Y.P. Holdings, Inc.** , _which includes New York Post, NYPOST.COM, PAGESIX.COM, NYPOSTSTORE.COM, and STORE.NYPOST.COM_ , is part of the News America Group, which has adopted a set of [Privacy Principles](http://www.newscorp.com/privacy.html) applicable to all its U.S.-based companies. N.Y.P. Holdings, Inc. has implemented those Principles in this Privacy Policy, which describes how we collect, use and share personally identifiable information (“PII”) we obtain from and about individuals located in the U.S. 
+[www.pagesix.com](https://web.archive.org/) (the “PageSix.com Website”) is owned and operated by NYP Holdings, Inc. (“NYP” or “we”) and is part of News Corporation, which has adopted a set of [Privacy Principles](http://www.newscorp.com/privacy.html "News Corp Privacy Principles") applicable to all its U.S.-based companies. NYP has implemented those Principles in this Privacy Policy, which describes how we collect, use and share personally identifiable information (“PII”-- that is, information such as your full name, email address, mailing address or telephone number) we obtain from users of the PageSix.com Website (“Users”). This Privacy Policy applies to the services offered by NYP on the PageSix.com Website, and any other features, content, applications, or mobile services offered from time to time by NYP in connection with the PageSix.com Website (collectively, the “PageSix.com Services”). The PageSix.com Services are hosted in the United States.
 
-From time to time N.Y.P. Holdings, Inc. (the “Post”) may revise this Privacy Policy to reflect changes in the law, technology or industry initiatives. Therefore, you should review it periodically so that you are up to date on our most current policies and practices. 
+The PageSix.com Website is a general audience site and does not knowingly collect PII from children under 13 years of age. 
 
-**_COLLECTION: COLLECTION OF PERSONALLY IDENTIFIABLE INFORMATION (“PII”) BY THE POST._**
+From time to time NYP may revise this Privacy Policy to reflect industry initiatives or changes in the law, our PII collection and use practices, the features of the PageSix.com Services, or technology. If we make revisions that change the way we collect or use your PII, those changes will be posted in this Privacy Policy and the effective date will be noted at the beginning of this Privacy Policy. Therefore, you should review it periodically so that you are up to date on our most current policies and practices. If NYP materially changes its practices regarding collection or use of your PII, your PII will continue to be governed by the Privacy Policy under which it was collected unless you have been provided notice of, and have not objected to, the change.
 
-_GENERAL_. The Post collects personally identifiable information (“PII” -- that is, information such as your full name, email address, mailing address or telephone number) only in order to create or enhance our relationship with you. When we collect PII from you it is because you are voluntarily submitting the information to us in order to participate in activities like sweepstakes, contests, surveys, forums, subscription registrations, comments, content or suggestions you submit to us, bulletin boards, polls, e-mailing a friend, or because you want us to furnish you with products, services or information. On those occasions when we obtain PII from a third party, we use only reputable sources of such information. 
+COLLECTION: COLLECTION OF PII AND NON-PII BY NYP 
 
-_COOKIES_. Cookies are small bits of information that the Internet sites operated by the Post place on the hard drive of your computer. Cookies remember information about your activities on our site(s) and enable the Post to make your visits to our site(s) more enjoyable. For example, cookies can store your name and password for easy logon to a site you have previously visited, can keep track of whether or not you have voted in an online poll, can save your preferences for a personalized home page or can track the items you have placed in your “shopping cart” during a visit to our online store. Other than as described above, the cookie does not contain PII and the Post does not combine cookies with PII. 
+General. When NYP collects PII from you it is because you are voluntarily submitting PII to us in order to register for a User account on PageSix.com. NYP may also collect PII from you if you choose to participate in PageSix.com Services activities like sweepstakes, contests, and surveys, because you want us to furnish you with breaking news, products, services, newsletters, or information in connection your submission of comments or other content, or in connection with content or suggestions you submit to NYP for review. The information required for registration is user name, email address, and at times, password. Other information including but not limited to annual income and zip code may be optional.
 
-Third party advertisements displayed on Internet site(s) operated by the Post may also contain cookies. The Post does not control these advertiser cookies and visitors to our web site(s) should check the privacy policy of the advertiser to see whether and how it uses cookies. 
+In addition, NYP collects other non-PII including IP address, aggregate user data, and browser type. This data is used to manage and improve the PageSix.com Services, track usage, and for security and monitoring purposes. 
 
-On occasion, the Post may use cookies to relate your use of our web site(s) to personally identifiable information you have submitted to us. For example, if you've asked us to send you information about our upcoming products or promotions, cookie information may allow us to limit the materials we send you to items we know you will find interesting, based on your prior online activities and preferences. However, if the Post wishes to coordinate personal and cookie information in this manner, we will obtain your express prior consent (i.e., “opt in”). 
+Cookies. Cookies are small bits of information that NYP places on the hard drive of your computer. NYP uses cookies to identify your Internet browser, store Users’ preferences, and to determine whether you have installed the enabling software needed to access certain material on the PageSix.com Services. 
 
-You can program your computer to warn you each time a cookie is being sent or to refuse cookies completely. However, without cookies you won't have access to certain features on the Post's web site(s), such as our email newsletter, voting in polls, shopping in the online store, purchasing home delivery or PDF versions of the New York Post. 
+Third party advertisements displayed on PageSix.com Services may also contain cookies set by Internet advertising companies or advertisers. NYP does not control these cookies and PageSix.com Services’ Users should check the privacy policy of the Internet advertising company or advertiser to see whether and how it uses cookies. See the “Notice” section below for more information on customized advertising on PageSix.com.
 
-**_NOTICE_ :** THE POST WILL PROVIDE YOU WITH NOTICE ABOUT ITS PII COLLECTION PRACTICES 
+You can program your computer to warn you each time a cookie is being sent or to refuse cookies completely. However, without cookies you may not have access to certain features on the PageSix.com Services.
 
-When the Post collects PII from you, we will make sure you are informed about who is collecting the information, how and why the information is being collected and the types of uses we will make of the information. 
+NOTICE: NYP WILL PROVIDE YOU WITH NOTICE ABOUT ITS PII COLLECTION PRACTICES
 
-This Policy describes the types of other companies that may want to send you information about their products and services and therefore want to share your personal information (See “Use” below). However, at the time your PII is collected, the Post will notify you of your options regarding our use of your personally identifiable information, including whether we can share it with outside companies (See “Choice” below). 
+When you voluntarily provide PII to NYP, we will make sure you are informed about who is collecting the information, how and why the information is being collected and the types of uses NYP will make of the information. 
 
-Sometimes we collect personally identifiable information from consumers in manual format, such as a post card, in-paper contest, or subscription form. Providing detailed notice in those situations often proves impractical, so consumers will instead be provided with a short notice that describes how to obtain the full text of this Policy and other relevant information from us. 
+At the time you provide your PII, NYP will notify you of your options regarding our use of your PII (See “Choice” below). Except as described in this Privacy Policy, NYP will not share your PII with third parties unless you have given NYP permission to do so (See “Use” below). 
 
-The Post's web site(s) may be linked to Internet sites operated by other companies. Some of these third party sites may be co-branded with a NYPOST.COM or PAGESIX.COM logo, even though they are not operated or maintained by the Post (for example, our MarketWatch section is operated and maintained by Thomson's Investor's Network). The Post's web site(s) also carry advertisements from other companies as well as advertisements placed by national Internet ad agencies. Although we choose our business partners and advertisers carefully, the Post is not responsible for the privacy practices of web sites operated by third parties that are linked to our site(s) or for the privacy practices of third party or so-called national advertisers. Once you've left a Post site via such a link or by clicking on an advertisement, you should check the applicable privacy policy of the third party or advertiser site to determine how they will handle any PII they collect from you. 
+PageSix.com Services may be linked to Internet sites operated by other companies. Some of these third party sites may be co-branded with the NYP or PageSix.com logo, even though they are not operated or maintained by NYP. PageSix.com Services may also carry advertisements from other companies. NYP is not responsible for the privacy practices of websites or other services operated by third parties that are linked to the PageSix.com Website or for the privacy practices of third parties or Internet advertising companies. Once you’ve left PageSix.com Services via such a link or by clicking on an advertisement, you should check the applicable privacy policy of the third party or advertiser site to determine how they will handle any PII they collect from you.
 
-The Post's web site(s) may also be linked to sites operated by companies affiliated with the Post. Visitors to those affiliated sites should still refer to their separate privacy policies and practices, which may differ in some respects from this Policy. 
+The PageSix.com Services may also be linked to sites operated by companies affiliated with NYP (i.e., that are part of the News America Group). Although all News America Group entities adhere to the News America Group’s [Privacy Principles](http://www.newscorp.com/privacy.html "News Corporation's Privacy Principles"), visitors to those affiliated sites should still refer to their separate privacy policies and practices, which may differ in some respects from this Privacy Policy.
 
-Some of the advertisements that appear on the Post site are delivered to you by advertising companies such as DoubleClick and 24/7 Real Media. The site also uses the services of Engage to deliver ads, promotions and other marketing messages. These companies utilize certain technologies to deliver advertisements and marketing messages. Privacy issues surrounding their respective technologies are discussed in their own privacy policies, which can be viewed at   
-<http://www.doubleclick.net/privacy_policy>  
-<http://www.avenuea.com/info/optout.asp>  
-<http://www.247media.com/privacy.html>  
-<http://www.engage.com/privacy>  
+NYP may use cookies and similar tools to customize the content and advertising you receive based on the registration information you have provided. Other non-PII about you may also be used to customize the online ads you encounter to those we believe are aligned with your interests. The information used for this feature does not provide your PII or identify you as an individual to third parties, and will not permit third parties to contact you directly.
 
+Some of the advertisements that appear on PageSix.com Services may also be delivered to you by third party Internet advertising companies. These companies utilize certain technologies to deliver advertisements and marketing messages and to collect anonymous information about your visit to or use of PageSix.com Services, including information about the ads they display, via a cookie placed on your computer that reads your IP address. To obtain information about the technologies they use or their own privacy policies, please visit: 
 
-**_CHOICE_ :** THE POST WILL PROVIDE YOU WITH CHOICES ABOUT THE USE OF YOUR PII 
+<http://www.networkadvertising.org/managing/opt_out.asp>
 
-The Post will provide you with the opportunity to choose whether your PII may be used for purposes different from the purpose for which it was submitted. You will also be able to choose whether your information is shared with companies that are not affiliated with the Post (i.e., not part of the News America Group). 
+CHOICE: NYP WILL PROVIDE YOU WITH CHOICES ABOUT THE USE OF YOUR PII
 
-**_USE_ :** THE POST'S USE OF PII 
+Except as described in this Privacy Policy, NYP will not use the PII you provide to us for purposes different from the purpose for which it was submitted, or share your PII with third parties that are not affiliated with NYP, without your permission.
 
-The Post will use your PII in a manner that is consistent with this Policy and only for the purpose for which it is submitted, unless other uses are disclosed at the time of collection and you allow us to use your information in these other ways. 
+USE: NYP’S USE OF PII
 
-The Post may share your PII with companies that are affiliated with us, that is part of the News America Group of companies. The Post may also share your PII with companies that are not part of the News America Group of companies, but would like to send you information about their products and services. For example, we may offer promotions, contests, or sweepstakes in conjunction with a business partner with whom we may share your PII. When we do this, there will also be a link to the partner's privacy policy. However, you will always have the opportunity to instruct us not to share your information with third parties. 
+NYP will use the PII you provide in a manner that is consistent with this Privacy Policy. If NYP obtains PII from a third party, such as a business partner, our use of that information is also governed by this Privacy Policy. 
 
-Post employees, agents and contractors must have a legitimate business reason to obtain access to your PII. Outside contractors or agents who help us manage our information activities (i.e., sweepstakes administration, order fulfillment, statistical analyses) may only use PII to provide the Post with a specific service and not for any other purpose. 
+If you have consented to receive promotional materials from NYP, NYP may periodically use your email address to send you notifications related to the PageSix.com Services. If you want to stop receiving promotional materials from NYP you can change your account settings under "[My Preferences](https://web.archive.org/user)" or click the unsubscribe link at the bottom of each promotional email. 
 
-If the Post obtains PII from a third party, such as a business partner, our use of this information is governed by this Policy. 
+NYP employees, agents and contractors must have a legitimate business reason to obtain access to your PII. NYP may share your PII with outside contractors or agents who help us manage our information activities (i.e., content board administration, statistical analyses, data processing) or with outside contractors, agents or sponsors who help us with the administration, judging and prize fulfillment aspects of contests, promotions, and sweepstakes. These outside contractors, agents or sponsors may cache some information on their servers, but they may only use your PII to provide NYP with a specific service and not for any other purpose. NYP may also provide your PII to a third party in those instances where you have chosen to receive certain information and have been notified that the fulfillment of such a request requires the sharing of your PII. NYP may share your PII with companies that are affiliated with us (i.e., part of the News America Group of companies).
 
-The Post may be required to disclose PII to comply with legal requirements, such as a court order, and to protect the safety and security of visitors to our web sites. 
+As described in “Notice” above, NYP may customize the advertising and marketing messages you receive on the PageSix.com Website, or may work with outside companies to do so. Your non-PII may be shared with these companies so this customization can be accomplished. NYP prohibits these companies from sharing your non-PII with any third party or from using it for any other purpose.
 
-**_SECURITY_ :** THE POST PROTECTS THE SECURITY OF PII 
+NYP may aggregate PII and use it anonymously. Anonymous click stream, number of page views calculated by web beacons, and aggregated demographic information may also be shared with NYP’s advertisers and business partners. 
 
-The Post uses reasonable administrative, technical, personnel and physical measures to safeguard PII in its possession against loss, theft and unauthorized use, disclosure or modification. In addition, the Post uses reasonable methods to make sure that PII is accurate, up-to-date and appropriately complete. 
+There may be instances when NYP may disclose PII without providing you with a choice in order to protect the legal rights of NYP, other companies within the News America Group or their employees, agents and contractors; to protect the safety and security of users of the PageSix.com Services; to protect against fraud or for risk management purposes; or to comply with the law or legal process. In addition, if NYP sells all or part of its business or makes a sale or transfer of assets or is otherwise involved in a merger or business transfer, NYP may transfer your PII to a third party as part of that transaction.
 
-**_ACCESS_ :** HOW TO ACCESS, CORRECT OR DELETE YOUR PII 
+SECURITY: NYP PROTECTS THE SECURITY OF PII
 
-To review or modify your preferences or to delete the PII that the Post has collected from you, either online via its website(s) or off-line via contests and sweepstakes that appeared in the newspaper, [click here](http://www.nypost.com/useradmin/useradmin.htm). To review or modify this PII, contact the Privacy Officer indicated below (REMEDIES AND COMPLIANCE). To review, modify or delete the PII the Post has collected off-line (from reputable third parties, newspaper subscription data, etc.), contact our Customer Service Department at 800-552-7678. Note that it may take up to 30 days for the Post to modify or delete your PII in all its databases. 
+NYP uses commercially reasonable administrative, technical, personnel and physical measures to safeguard PII in its possession against loss, theft and unauthorized use, disclosure or modification. In addition, NYP uses reasonable methods to make sure that PII is accurate, up-to-date and appropriately complete. 
 
-**_REMEDIES AND COMPLIANCE_ :** HOW TO CONTACT THE POST ABOUT PRIVACY CONCERNS 
+ACCESS, REMEDIES AND COMPLIANCE: HOW TO ACCESS, CORRECT OR CHANGE YOUR PREFERENCES REGARDING YOUR PII AND HOW TO CONTACT NYP ABOUT PRIVACY CONCERNS
 
-To contact the Post regarding the collection and use of your PII or any other privacy issues: 
+Whenever possible, PageSix.com Users may review the PII we maintain about them in our records. We will take reasonable steps to correct any PII a User informs us is incorrect. If you are a User with an account, you can view your PII and account preferences by logging into your account.
 
-Marie T. Musacchio  
-Privacy Officer  
-1211 Avenue of the Americas  
-New York, NY 10036  
-212-930-8273  
-[privacy@nypost.com](mailto:privacy@nypost.com)
+If you ask NYP to stop using your PII, NYP will honor that request while retaining any record of your PII that is necessary to comply with applicable federal, state or local law.
+
+If you would like to communicate with us about this Privacy Policy or NYP’s collection and use of your PII, to review or correct your PII, or to stop all future communication from us, please contact NYP at:
+
+Email:   
+[legal@pagesix.com ](mailto:legal@pagesix.com)
+
+Mail:   
+PageSix.com  
+Attention: Legal  
+10 East 53rd Street  
+New York, New York 10022
