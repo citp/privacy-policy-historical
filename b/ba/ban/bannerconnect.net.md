@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bannerconnect.net privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228210540id_/http%3A//www.bannerconnect.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bannerconnect.net privacy policy that was archived on 2008-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080318222304id_/http%3A//www.bannerconnect.net/privacy.php) for the most accurate reproduction.*
 
 # BannerConnect - generating web-traffic
 
-_[home]() > [privacy policy](https://web.archive.org/web/20071228210540id_/http%3A//www.bannerconnect.net/privacy.php) _
+_[home]() > [privacy policy](https://web.archive.org/web/20080318222304id_/http%3A//www.bannerconnect.net/privacy.php) _
 
 Privacy Policy
 
