@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jstor.org privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217101432id_/http%3A//www.jstor.org/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jstor.org privacy policy that was archived on 2008-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080319105543id_/http%3A//www.jstor.org/about/privacy.html) for the most accurate reproduction.*
 
 # JSTOR: Privacy Policy
 
