@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eyeslipsface.com privacy policy that was archived on 2007-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071202134006id_/http%3A//www.eyeslipsface.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eyeslipsface.com privacy policy that was archived on 2008-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080319072456id_/http%3A//www.eyeslipsface.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # Shop Eyes Lips Face
 
@@ -18,7 +18,7 @@
 * **Personal Information**  
 We collect personal information from you when you submit it to us, including by: (1) registering on the Site; (2) placing an order; (3) signing up for our newsletter; (4) contacting us; or (5) participating in a Site promotion or survey. This information may include, for example, your name, email address, address, telephone number, date of birth and credit card information. We may combine the information we collect from you with information we receive about you from other sources, such as address update services. 
 
-If you use the Site's refer-a-friend mechanism, we will collect your friend's email address, solely for the purpose of sending the email. 
+If you use the Site's refer-a-friend mechanism, we will collect your friend's email address and they will be subject to the terms of our privacy policy. 
 
 * **Non-Personal Information**  
 When you visit the Site, we may collect certain non-personally-identifiable information from you, including your IP address, browser type, operating system and the domain name from which you accessed the Site. In addition, we may collect information about your browsing behavior, such as the date and time you visit the Site, the areas or pages of the Site that you visit, the amount of time you spend viewing the Site, the number of times you return to the Site and other clickstream data. 
@@ -32,7 +32,7 @@ We may use third-party advertising companies that use tracking technologies to s
 We may combine the non-personal information we collect through cookies and web beacons with other information we have collected from you.   
   
 **Use of Information**  
-We may use the information we collect from and about you for any of the following purposes: (1) to fulfill your requests for products; (2) to respond to your inquiries; (3) to contact you with Site updates, newsletters and other informational and promotional materials from us, as well as from other companies; (4) to contact you when necessary; (5) to review Site usage and operations; (6) to address problems with the Site, our business or our services; and (7) to protect the security or integrity of the Site and our business. You may choose not to receive promotional email from us by following the unsubscribe instructions in each message.   
+We may use the information we collect from and about you for any of the following purposes: (1) to fulfill your requests for products; (2) to respond to your inquiries; (3) to contact you with Site updates, newsletters and other informational and promotional materials from us and third party marketing offers from our trusted partners, as well as from other companies; (4) to contact you when necessary; (5) to review Site usage and operations; (6) to address problems with the Site, our business or our services; and (7) to protect the security or integrity of the Site and our business. You may choose not to receive promotional email from us by following the unsubscribe instructions in each message.   
 **Disclosure of Information**  
 We may disclose information collected from and about you as follows: (1) to our related companies and service providers, to perform a business, professional or technical support function for us; (2) to our marketing partners, advertisers or other third parties, who may contact you with their own offers; (3) as necessary if we believe that there has been a violation of the Site Terms of Use or of our rights or the rights of any third party; (4) to respond to judicial process and provide information to law enforcement agencies or in connection with an investigation on matters related to public safety, as permitted by law, or otherwise as required by law; and (5) in the event that our company or substantially all of its assets are acquired, your personal information may be one of the transferred assets. We may also disclose your personal information with your express consent. We may share aggregate, non-personally identifiable information about Site users with third parties. 
 
