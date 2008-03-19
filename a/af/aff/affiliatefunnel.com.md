@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affiliatefunnel.com privacy policy that was archived on 2007-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071023051642id_/http%3A//www.affiliatefunnel.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affiliatefunnel.com privacy policy that was archived on 2008-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080319082653id_/http%3A//www.affiliatefunnel.com/privacy.php) for the most accurate reproduction.*
 
 # Affiliate Funnel
 
