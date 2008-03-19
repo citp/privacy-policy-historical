@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ruroc.com privacy policy that was archived on 2007-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071117113109id_/http%3A//www.ruroc.com/LinkClick.aspx%3Flink%3D58%26tabid%3D149) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ruroc.com privacy policy that was archived on 2008-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080319113306id_/http%3A//www.ruroc.com/LinkClick.aspx%3Flink%3D58%26tabid%3D149) for the most accurate reproduction.*
 
 # Privacy
 
