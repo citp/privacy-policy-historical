@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sign-up.to privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221024332id_/http%3A//www.sign-up.to/html/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sign-up.to privacy policy that was archived on 2008-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080320102306id_/http%3A//www.sign-up.to/html/about/privacy.htm) for the most accurate reproduction.*
 
-# Sign-Up.to - Privacy Policy
+# Privacy Policy - Sign-Up.to
 
 We take the privacy of client and end user data very seriously. The entire Sign-Up.to system is designed to provide all parties with complete control over their data.
 
@@ -76,6 +76,3 @@ When writing to us, please state your name, postal address and mobile phone numb
 **12\. Contact us**
 
 If you would like to contact us with any queries or comments on our privacy practices, please write to the contact address above or send an e-mail to [solutions@sign-up.to](mailto:solutions@sign-up.to)
-
-  
-
