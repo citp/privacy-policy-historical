@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vovici.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212094836id_/http%3A//www.vovici.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vovici.com privacy policy that was archived on 2008-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080320065402id_/http%3A//www.vovici.com/about/privacy.asp) for the most accurate reproduction.*
 
 # Vovici: Leading web surveyor provider contact information and privacy policy
 
