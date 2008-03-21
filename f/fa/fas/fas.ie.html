@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the fas.ie privacy policy that was archived on 2007-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071206151853id_/http%3A//www.fas.ie/en/General/Privacy%2BStatement%2Bfor%2BF%25C3%2581S/default.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fas.ie privacy policy that was archived on 2008-03-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080321184237id_/http%3A//www.fas.ie/en/General/Privacy%2BStatement%2Bfor%2BF%25C3%2581S/default.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head><title>
 	FÁS - Privacy Statement for FÁS
@@ -152,7 +152,7 @@
     
 <!-- start banner -->
 <div id="banner">
-	<a href="http://www.fasopportunities.ie/" title="FÁS Opportunities 2008"><img src="/en/img/headbanner.jpg" alt="FÁS Opportunities 29th Feb-3rd March" width="560" height="102" class="bannerImage"></a>
+	<a href="http://www.fas.ie/en/jobsireland/" title="FÁS Jobs Ireland Munster 2008"><img src="/en/img/headbanner.jpg" alt="FÁS Jobs Ireland Munster 18-19 April 2008" width="560" height="102" class="bannerImage"></a>
 	<br>
 	<a href="http://www.fas.ie" title="Return to Home Page"><img src="/en/img/logo-fas_s2.gif" alt="FÁS Logo" width="164" height="102" class="logo"></a>
 </div>
@@ -313,6 +313,11 @@
     if( typeof __CMS_PostbackForm.onsubmit != "undefined" )
     {
         __cmsResetFormCachedOnSubmit = __CMS_PostbackForm.onsubmit;
+        __CMS_PostbackForm.onsubmit = __cmsResetFormOverrideOnSubmit;
+    }
+    else
+    {
+        __cmsResetFormCachedOnSubmit = null;
         __CMS_PostbackForm.onsubmit = __cmsResetFormOverrideOnSubmit;
     }
 
