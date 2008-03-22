@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abnamro.com privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218223332id_/http%3A//www.abnamro.com/disclaimer/security.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abnamro.com privacy policy that was archived on 2008-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080322071335id_/http%3A//www.abnamro.com/disclaimer/security.cfm) for the most accurate reproduction.*
 
 # ABN AMRO - Security on the internet
 
@@ -20,8 +20,8 @@ Whenever you are uncertain of whether the website on your screen is genuine, che
 
 **What are the websites of ABN  AMRO and its subsidiaries?**
 
-Links to the websites of a selection of ABN AMRO's major brands and units can be found on our links page: [www.abnamro.com/com/about/links.jsp](https://web.archive.org/web/20071218223332id_/http%3A//www.abnamro.com/about/links.cfm)  
-For all other sites of ABN AMRO and its subsidiaries, please go to [Worldwide Opportunities](https://web.archive.org/web/20071218223332id_/http%3A//www.abnamro.com/career/worldwide_presence.cfm).
+Links to the websites of a selection of ABN AMRO's major brands and units can be found on our links page: [www.abnamro.com/com/about/links.jsp](https://web.archive.org/web/20080322071335id_/http%3A//www.abnamro.com/about/links.cfm)  
+For all other sites of ABN AMRO and its subsidiaries, please go to [Worldwide Opportunities](https://web.archive.org/web/20080322071335id_/http%3A//www.abnamro.com/career/worldwide_presence.cfm).
 
 **How can I recognise a scam e-mail?**
 
