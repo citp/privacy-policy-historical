@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bizindia.net privacy policy that was archived on 2007-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070704224552id_/http%3A//www.bizindia.net/site/Home/tabid/36/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizindia.net privacy policy that was archived on 2008-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080323133920id_/http%3A//www.bizindia.net/site/Home/tabid/36/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
 # BizIndia Magazine > Home ( DNN 3.3.7 )
 
