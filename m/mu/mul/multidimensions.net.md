@@ -1,11 +1,20 @@
-> *The following text is extracted and transformed from the multidimensions.net privacy policy that was archived on 2007-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071018122637id_/http%3A//multidimensions.net/php/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the multidimensions.net privacy policy that was archived on 2008-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080323161804id_/http%3A//www.multidimensions.net/php/privacypolicy.php) for the most accurate reproduction.*
 
 # Multidimensions.net Privacy Policy
 
-|   [New York City](https://web.archive.org/web/20071018122637id_/http%3A//multidimensions.net/index.php?IdContinent=29&IdCity=36) > Privacy Policy |  Thursday,October-18-2007  
----|---  
-Untitled Document |    
+|  |  | [](http://www.multidimensions.net/) |  |   
+---|---|---  
+**Beijing**  
+| [](http://www.radio.multidimensions.net/) |   | 
+
+| **Search** |  |  |  | This site |  | Google |  | Yahoo |  | Lycos |  | Ask |  | MSN  
+---|---|---|---|---|---|---|---|---|---|---|---|---|---|---  
   
+|  |   
+  
+|   [Beijing](https://web.archive.org/web/20080323161804id_/http%3A//www.multidimensions.net/index.php?IdContinent=34&IdCity=2) > Privacy Policy |  Sunday,March-23-2008  
+---|---  
+Untitled Document |   
 ---  
 [ ](mailto:paris@multidimensions.net)  
 |   
@@ -53,7 +62,7 @@ Search engines and other sites not affiliated with multidimensions - including [
 #### 5\. Circumstances in which multidimensions may release information
 
   * Multidimensions may disclose information about its users if required to do so by law or in the good faith belief that such disclosure is reasonably necessary to respond to subpoenas, court orders, or other legal process. 
-  * Multidimensions may also disclose information about its users to law enforcement officers or others, in the good faith belief that such disclosure is reasonably necessary to: enforce our [Terms of Use](https://web.archive.org/web/20071018122637id_/http%3A//multidimensions.net/php/terms.php); respond to claims that any posting or other content violates the rights of third-parties; or protect the rights, property, or personal safety of multidimensions, its users or the general public. 
+  * Multidimensions may also disclose information about its users to law enforcement officers or others, in the good faith belief that such disclosure is reasonably necessary to: enforce our [Terms of Use](https://web.archive.org/web/20080323161804id_/http%3A//www.multidimensions.net/php/terms.php); respond to claims that any posting or other content violates the rights of third-parties; or protect the rights, property, or personal safety of multidimensions, its users or the general public. 
 
 
 
@@ -63,8 +72,11 @@ By visiting our web site and providing us with data, you acknowledge and agree t
 
 #### 7\. Feedback
 
-We welcome your feedback on this document to [support@multidimensions.net](https://web.archive.org/web/20071018122637id_/http%3A//multidimensions.net/php/response.php?mail=support).   
+We welcome your feedback on this document to [support@multidimensions.net](https://web.archive.org/web/20080323161804id_/http%3A//www.multidimensions.net/php/response.php?mail=support).   
   
-Untitled Document |    
+Untitled Document  
   
----
+  
+
+
+Multidimensions.net is a worldwide community and social network web site. Not only does it encompasses the major cities in the world such as New York, London, Montreal, Los Angeles, Toronto and Tokyo; but it also features all the continents, countries and regions on the planet such as Africa, America, Brazil, The Caribbean’s, Asia and Europe. The portal offers free classifieds, personals, forums and chat rooms. It also has a radio that plays music 24 hours a day without any commercials. On Multidimensions.net, you can rent cars and hotels, download ring tones, games and music, find travel deals, flight tickets, roommates, real estate, housing, friends, partners and jobs. It has a very popular column called People Talk which is an online showcase, where we review upcoming artists such as film makers, musicians, painters and writers. With Multidimensions.net, you can buy, sell, promote, mingle and meet people. We are the right place for employment, events promotion and products advertising, online dating, entertainment and networking. Enjoy Us.
