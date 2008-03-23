@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accelerator-media.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210194600id_/http%3A//www.accelerator-media.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accelerator-media.com privacy policy that was archived on 2008-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080323065308id_/http%3A//www.accelerator-media.com/privacy.html) for the most accurate reproduction.*
 
 # Targeted Advertising - Accelerator Media
 
@@ -26,4 +26,4 @@ Contacting ACCELERATOR
 If you have any questions about this privacy statement, the practices of this website, or your dealings with this website, you can contact:
 
 ACCELERATOR  
-Elsley Court, 20-22 Great Titchfield St, London, W1W 8BF 
+Middlesex House, 34-42 Cleveland St, London, W1T 4JE 
