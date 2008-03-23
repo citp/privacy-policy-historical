@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the talenttrove.com privacy policy that was archived on 2007-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071119094030id_/http%3A//www.talenttrove.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talenttrove.com privacy policy that was archived on 2008-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080323180730id_/http%3A//www.talenttrove.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Statement
+# Talent Trove - privacy
 
 TalentTrove, Inc. Privacy Policy
 
-Last Updated July 2, 2007  
+Last Updated November 30th, 2007  
 Thank you for joining us on TalentTrove, where everyone can "be discovered." 
 
 **TALENTTROVE PRIVACY POLICY**  
@@ -61,11 +61,7 @@ We do not intentionally gather Personal Information about visitors who are under
 
 **CONTACTING US**  
 Should you have any questions or concerns regarding this Privacy Policy, please contact us:  
-TalentTrove, Inc  
-265 Lincoln Highway  
-Iselin, NJ 08830
 
-Attn: General Counsel 
 
 **CHANGES TO THIS PRIVACY POLICY**  
 TalentTrove may update this policy from time to time. We will notify you about significant changes in the way we treat Personal Information by sending a notice to the primary email address specified in your TalentTrove account or by placing a prominent notice on our Website. If you object to any such changes, you must cease using our Website. Continued use of our Website following notice of any such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes. 
