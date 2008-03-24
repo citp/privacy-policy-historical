@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the direcpay.com privacy policy that was archived on 2007-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071029233914id_/http%3A//www.timesofmoney.com/direcpay/jsp/dpContent.jsp%3Fvalue%3Dpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the direcpay.com privacy policy that was archived on 2008-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080324125112id_/http%3A//www.timesofmoney.com/direcpay/jsp/dpContent.jsp%3Fvalue%3Dpolicy) for the most accurate reproduction.*
 
 # DirecPay - The Safe Way to Pay
 
