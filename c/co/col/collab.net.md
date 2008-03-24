@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the collab.net privacy policy that was archived on 2007-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071207121508id_/http%3A//www.collab.net/about/legal/pp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collab.net privacy policy that was archived on 2008-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080324050942id_/http%3A//www.collab.net/about/legal/pp.html) for the most accurate reproduction.*
 
-# CollabNet - Connect. Collaborate. Innovate.
+# CollabNet - Simplify. Collaborate. Innovate
 
 ##### CollabNet, Inc. New Privacy Policy
 
