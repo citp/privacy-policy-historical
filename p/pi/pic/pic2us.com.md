@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pic2us.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624124220id_/http%3A//www2.pic2us.com/postimage/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pic2us.com privacy policy that was archived on 2008-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080324044304id_/http%3A//v3.pic2us.com/privacy.php) for the most accurate reproduction.*
 
-# Pic2Us Free Image Hosting
+# Pic2Us Free Image Hosting Version 3
 
 **Logging IP Addresses**  
 For each visitor to our Web page, our Web server does not recognize any information regarding the domain or e-mail address. IP addresses are logged and used by Pic2Us.com for measuring usage. 
