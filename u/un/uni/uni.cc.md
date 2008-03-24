@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uni.cc privacy policy that was archived on 2006-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060620050458id_/http%3A//www.uni.cc/site/info_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uni.cc privacy policy that was archived on 2008-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080324054048id_/http%3A//www.uni.cc/site/info_privacy.php) for the most accurate reproduction.*
 
 # UNI.CC - Privacy Statement
 
