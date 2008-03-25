@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tradus.com privacy policy that was archived on 2007-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071124043825id_/http%3A//www.tradus.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradus.com privacy policy that was archived on 2008-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080325014732id_/http%3A//www.tradus.com/privacy_policy) for the most accurate reproduction.*
 
 # Tradus - Privacy Policy
 
