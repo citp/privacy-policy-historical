@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the burningangel.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217172936id_/http%3A//burningangel.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the burningangel.com privacy policy that was archived on 2008-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080325090738id_/http%3A//www.burningangel.com/privacy_policy.html) for the most accurate reproduction.*
 
 # BurningAngel.com Privacy Policy
 
