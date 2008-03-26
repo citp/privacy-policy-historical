@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 8tem.com privacy policy that was archived on 2007-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070915222558id_/http%3A//www.8tem.com/privacy.php%3FosCsid%3D12cd94b141b21e2b1c6db5ca59e5e0a0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 8tem.com privacy policy that was archived on 2008-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080326235057id_/http%3A//www.8tem.com/privacy.php%3FosCsid%3D18b2f6c15d6c5e74df6acb627f1e5a9d) for the most accurate reproduction.*
 
 # 8TEM.com
 
