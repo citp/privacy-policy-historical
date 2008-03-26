@@ -1,19 +1,22 @@
-> *The following text is extracted and transformed from the ordertalk.net privacy policy that was archived on 2007-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071114023322id_/http%3A//www.ordertalk.net/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ordertalk.net privacy policy that was archived on 2008-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080326165005id_/http%3A//www.ordertalk.net/privacy.asp) for the most accurate reproduction.*
 
 # orderTalk Restaurant Online Ordering Software - Privacy Policy
 
+|   
   
+---  
+  
+"We are amazed to see that the orders are coming at a much higher frequency than expected and with a 40% higher ticket than a phone-in order." 
+
+_Dan Cullen, Senior Director of Information Technology at Buca di Beppo_  
+  
+[](https://web.archive.org/news/squirrel.asp)  
+  
+  
+[](https://web.archive.org/web/20080326165005id_/http%3A//www.ordertalk.net/seminar.aspx)   
   
 [](https://web.archive.org/newsletter.aspx)   
   
-[](https://web.archive.org/web/20071114023322id_/http%3A//www.ordertalk.net/seminar.aspx)   
-  
-|  "If your business is not on the web today, you won't be in business...." 
-
-Bill Gates  
-  
-  
----  
   
   
 
