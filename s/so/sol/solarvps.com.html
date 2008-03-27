@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the solarvps.com privacy policy that was archived on 2007-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071217035908id_/http%3A//www.solarvps.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the solarvps.com privacy policy that was archived on 2008-03-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080327035625id_/http%3A//www.solarvps.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 		<title>Solar VPS :: Privacy Policy</title>
@@ -10,6 +10,32 @@
 		<script type="text/JavaScript" src="/script/global.js"></script>
 		<script type="text/javascript" src="/script/mootools.v1.11.js"></script>
 		<script type="text/javascript" src="/script/gbmenu.js"></script>
+		
+		<!-- BEGIN Invitation Sound  -->
+		<script language="javascript" type="text/javascript">
+		function lpShowTheImageHook() 
+		{
+			var body = document.getElementsByTagName('body');
+			var divE = document.createElement('bgsound');
+			divE.id = 'lpInvitationSound';
+			divE.style.position = 'absolute';
+			divE.style.left = '0px';
+			divE.style.top = '0px';
+			divE.hidden = 'true';
+			divE.src='https://server.iad.liveperson.net/hcp/Gallery/chime03.wav';
+			divE.autostart='true';
+			divE.loop='0';
+			body[0].appendChild(divE);
+			setTimeout("document.getElementsByTagName('body')[0].removeChild(document.getElementById('lpInvitationSound'))", 3000);
+			lpOldShowTheImage();
+		}
+		if (document.all && typeof(hcShowTheImage) != 'undefined')
+		{
+			lpOldShowTheImage = hcShowTheImage;hcShowTheImage = lpShowTheImageHook;
+		}
+		</script>
+<!-- END Invitation Sound  -->
+		
 	</head>
 	<!--<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" class="main">-->
 	<body style="margin: 0px 0px 0px 0px" class="main">
@@ -116,13 +142,14 @@
 							<li class="main_blue_about"><a class="menu_link_blue" href="about.php">About</a></li>
 							<li class="main_blue_prod">Products &amp; Services
 								<ul class="child">
+									<li><a href="products-win.php#c" title="Plesk Windows VPS (US) :: Managed Windows 64bit Plesk VPS">• Plesk Windows VPS (US)</a></li>
 									<li><a href="products-win.php" title="Windows VPS (US) :: Managed and cost-effective unmanaged US based Windows VPS solutions">• Windows VPS (US)</a></li>
-									<li><a href="products-winuk.php" title="Windows VPS (UK) :: Managed and cost-effective unmanaged UK based Windows VPS solutions">• Windows VPS (UK)</a></li>
+									<!-- li><a href="products-winuk.php" title="Windows VPS (UK) :: Managed and cost-effective unmanaged UK based Windows VPS solutions">&bull; Windows VPS (UK)</a></li-->
 									<li><a href="products-msvs.php" title="Windows DDS (US) :: Stable and powerful dedicated-like Windows VPS solutions ">• Windows DDS (US)</a></li>
 									<li><a href="products-linux.php" title="Linux VPS (US) :: Virtuozzo based Linux VPS solutions">• Linux VPS (US)</a></li>
-									<li><a href="products-linuxuk.php" title="Linux VPS (UK) :: Virtuozzo based Linux VPS solutions for Europe and beyond">• Linux VPS (UK)</a></li>
+									<!-- li><a href="products-linuxuk.php" title="Linux VPS (UK) :: Virtuozzo based Linux VPS solutions for Europe and beyond">&bull; Linux VPS (UK)</a></li -->
 									<li><a href="products-irc.php" title="IRC Linux VPS (US) :: IRC allowed Virtuozzo based Linux VPS">• IRC Linux VPS (US)</a></li>
-									<li><a href="products-dedicated.php" title="Dedicated Servers (US) :: US based dedicated servers">• Dedicated Servers (US)</a></li>	
+									<!--li><a href="products-dedicated.php" title="Dedicated Servers (US) :: US based dedicated servers">&bull; Dedicated Servers (US)</a></li-->	
 									<li><a href="products-add.php" title="Additional Products :: Additional products and services">• Additional Products</a></li>
 									<li><a href="products-panels.php" title="Control Panels :: Industry standard hosting control panels">• Control Panels</a></li>
 									<li><a href="vzpowerpanel.php" title="VZ Power Panel :: Reboot, review and manage your Virtuozzo VPS over the web">• VZ Power Panel</a></li>
@@ -159,9 +186,9 @@
 	<li><a href="products-msvs.php" title="Windows DDS">Windows DDS</a></li>
 	<li><a href="products-linux.php" title="Linux Virtuozzo VPS">Linux VPS</a></li>
 	<li><a href="products-irc.php" title="IRC VPS">IRC VPS</a></li>
-	<li><a href="management.php" title="Server Management">Server Management</a></li>
-	<li><a href="products-add.php" title="Additional Services">Additional Services</a></li>
-	<li><a href="network.php" title="Network &amp; Data Center">Network &amp; Data Center</a></li>
+	<li><a href="management.php" title="Server Management">Managed Services</a></li>
+	<li><a href="products-add.php" title="Additional Services">Addon Services</a></li>
+	<li><a href="network.php" title="Network &amp; Data Center">Facilities</a></li>
 	</ul>
 	</div>
 	<!--div style="background-color:#B2B2C2;height:1px"><img src="/images/other/spacer.gif" width="179" height="1" border="0" alt="spacer"></img></div-->
@@ -171,22 +198,28 @@
 <div><a href="news.php"><img src="/images/header/newsann-panehead.gif" width="179" height="34" border="0" alt="Home News Graphics"></a></div>
 <div id="leftnews">
 	<div style="padding:10px">
-					<div><span class="newsdate">Apr 30 - 2007</span></div>
+					<div><span class="newsdate">Jan 17 - 2008</span></div>
 			<div><img src="/images/other/spacer.gif" width="1" height="2" alt="spacer"></div>
-			<div><span class="newstitle">Solar VPS Launches Microsoft Virtual Server</span></div>
+			<div><span class="newstitle">SolarVPS Launches LivePerson</span></div>
 			<div><img src="/images/other/spacer.gif" width="1" height="2" alt="spacer"></div>
-			<div><span class="text">We are proud to announce that we have officially l...</span></div>
+			<div><span class="text">We've chosen LivePerson as our new customer sales ...</span></div>
 			<div><img src="/images/other/spacer.gif" width="1" height="5" alt="spacer"></div>
-						<div><a href="news.php?news_id=14"><img src="/images/button/readmore.gif" width="56" height="13" border="0" alt="Read More Graphics"></a></div>
+						<div><a href="news.php?news_id=15"><img src="/images/button/readmore.gif" width="56" height="13" border="0" alt="Read More Graphics"></a></div>
 				</div>
 </div>
-		<div style="padding-left:2px;padding-top:2px">
-<script language="JavaScript" type="text/javascript" src="https://jabber.fbyne.net:9091/webchat/jivelive.jsp"></script><script language="JavaScript" type="text/javascript">showChatButton('salesgroup@workgroup.jabber.fbyne.net');</script>
-</div>
-<div style="padding-left:2px;padding-top:2px">
-<script language="JavaScript" type="text/javascript">showChatButton('supportgroup@workgroup.jabber.fbyne.net');</script><script language="javascript" type="text/javascript" src="https://support.solarvps.com/visitor/index.php?_m=livesupport&amp;_a=htmlcode&amp;nolink=1&amp;departmentid=0"></script>
-</div>
-<div><img src="/images/other/spacer.gif" width="1" height="25" alt="spacer"></div>		<div><img src="/images/other/spacer.gif" width="1" height="5" border="0" alt="spacer"></div>
+		<div style="padding-top:2px;padding-left:1px;padding-bottom:10px">
+<table border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+	<td align="center"><a id="_lpChatBtn" href="https://server.iad.liveperson.net/hc/7658749/?cmd=file&amp;file=visitorWantsToChat&amp;site=7658749&amp;byhref=1&amp;SESSIONVAR!skill=SOLARVPS%20Sales&amp;imageUrl=https://www.solarvps.com/chatbuttons/sales" target="chat7658749" onclick="lpButtonCTTUrl = 'https://server.iad.liveperson.net/hc/7658749/?cmd=file&amp;file=visitorWantsToChat&amp;site=7658749&amp;SESSIONVAR!skill=SOLARVPS%20Sales&amp;imageUrl=https://www.solarvps.com/chatbuttons/sales&amp;referrer='+escape(document.location); lpButtonCTTUrl = (typeof(lpAppendVisitorCookies) != 'undefined' ? lpAppendVisitorCookies(lpButtonCTTUrl) : lpButtonCTTUrl); window.open(lpButtonCTTUrl,'chat7658749','width=575,height=400,resizable=yes');return false;" class="chat"><img src="https://server.iad.liveperson.net/hc/7658749/?cmd=repstate&amp;site=7658749&amp;channel=web&amp;&amp;ver=1&amp;imageUrl=https://www.solarvps.com/chatbuttons/sales&amp;skill=SOLARVPS%20Sales" name="hcIcon" border="0" class="chat2"></a></td>
+</tr>
+<tr>
+	<td><img src="/images/other/spacer.gif" width="1" height="1" border="0"></td>
+</tr>
+<tr>
+	<td align="center"><a id="_lpChatBtn" href="https://server.iad.liveperson.net/hc/7658749/?cmd=file&amp;file=visitorWantsToChat&amp;site=7658749&amp;byhref=1&amp;SESSIONVAR!skill=SOLARVPS%20Support&amp;imageUrl=https://www.solarvps.com/chatbuttons/support" target="chat7658749" onclick="lpButtonCTTUrl = 'https://server.iad.liveperson.net/hc/7658749/?cmd=file&amp;file=visitorWantsToChat&amp;site=7658749&amp;SESSIONVAR!skill=SOLARVPS%20Support&amp;imageUrl=https://www.solarvps.com/chatbuttons/support&amp;referrer='+escape(document.location); lpButtonCTTUrl = (typeof(lpAppendVisitorCookies) != 'undefined' ? lpAppendVisitorCookies(lpButtonCTTUrl) : lpButtonCTTUrl); window.open(lpButtonCTTUrl,'chat7658749','width=625,height=450,resizable=yes');return false;" class="chat"><img src="https://server.iad.liveperson.net/hc/7658749/?cmd=repstate&amp;site=7658749&amp;channel=web&amp;&amp;ver=1&amp;imageUrl=https://www.solarvps.com/chatbuttons/support&amp;skill=SOLARVPS%20Support" name="hcIcon" border="0" class="chat2"></a></td>
+</tr>
+</tbody></table>
+</div>		<div><img src="/images/other/spacer.gif" width="1" height="5" border="0" alt="spacer"></div>
 <div align="center">
 <!-- GeoTrust QuickSSL [tm] Smart Icon tag. Do not edit. -->
 <!--SCRIPT LANGUAGE="JavaScript" TYPE="text/javascript" SRC="//smarticon.geotrust.com/si.js"></SCRIPT-->
@@ -440,7 +473,7 @@
 		<table border="0" cellpadding="0" cellspacing="0">
 			<tbody><tr>
 				<td><img src="/images/other/spacer.gif" width="12" height="7" alt="spacer"></td>
-				<td><span class="text-footer-sm">Copyright 2007 Solar VPS LLC</span></td>
+				<td><span class="text-footer-sm">Copyright 2008 Solar VPS LLC</span></td>
 			</tr>
 			<tr>
 				<td colspan="2"><img src="/images/other/spacer.gif" width="1" height="20" alt="spacer"></td>
@@ -470,6 +503,8 @@
 </div>	</div>
 </div>
 
-
+<!-- BEGIN HumanTag Monitor. DO NOT MOVE! MUST BE PLACED JUST BEFORE THE /BODY TAG -->
+<script language="javascript" src="https://server.iad.liveperson.net/hc/7658749/x.js?cmd=file&amp;file=chatScript3&amp;site=7658749&amp;&amp;imageUrl=https://www.solarvps.com/chatbuttons/sales"> </script>
+<!-- END HumanTag Monitor. DO NOT MOVE! MUST BE PLACED JUST BEFORE THE /BODY TAG -->
 
 </body></html>
