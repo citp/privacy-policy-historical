@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magazine-agent.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213140703id_/http%3A//www.magazine-agent.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magazine-agent.com privacy policy that was archived on 2008-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080327094937id_/http%3A//www.magazine-agent.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy of Magazine-Agent.com
 
@@ -7,23 +7,21 @@
   
 
 
-[](https://web.archive.org/categories.aspx)
+[](http://www.magazine-agent.com-sub.info/categories.aspx)
 
   
 
 
-[](https://web.archive.org/alpha.aspx)
+[](http://www.magazine-agent.com-sub.info/alpha.aspx)
 
   
 
 
-[](https://web.archive.org/affiliate/home.aspx)
+[](http://www.magazine-agent.com-sub.info/affiliate/home.aspx)
 
   
-|   
----  
-[](http://www.bbbonline.org/cks.asp?id=1071031132122410)  
-  
+| 
+
 Effective Date of Policy: April 8th, 2006
 
 **About This Site**  
@@ -33,7 +31,7 @@ This site is operated by Contrix Inc, on behalf of Magazine-Agent.com, hereinaft
 The Site may collect certain profile information from its users (including but not limited to browser information, IP address, and general demographic information, pages visited, time spent on pages and which site, if any, the user visited prior to arriving at the Site) in order to improve our content, product offerings, and promotional and marketing efforts. Our company also may use profile information to create aggregate reports about its users. The above information may be collected using cookies, server logs, and third party tracking solutions. In addition to the forgoing, the Site may collect and maintain any information that you directly provide while visiting the Site. Except as specifically stated herein, we have not granted any third party the right to share your information with others.
 
 **Additional Information Collected from Registered Users and Customers**  
-In order to fulfill customer orders and enhance user experience, the Site collects certain specific personally identifiable information that its customers and registered users provide when visiting the Site, such as their first and last name, their home or other physical address including their street name and the name of their city or town, their email address, their telephone number, and their credit card information (none of the above-listed types of personally identifiable information will be collected unless provided directly by the user). Such information is shared with contracted third-parties in order to fill orders accurately and promptly, provide customer service assistance, improve your shopping service, and improve the content of the Site generally so that we may better meet our users' needs. We may also provide the personally identifiable information (except email and credit card information) we collect from our users to other businesses and companies that sell a wide variety of products and services that we believe will be of interest to our customers. Because we respect the privacy of our customers and visitors, you can request that we not share your personally identifiable information with these other businesses and companies [by changing your privacy preferences by logging in to your account](https://web.archive.org/support/login.aspx). **Except as specifically set forth in this privacy policy, we will never share your email address or credit card information with third-parties**. Furthermore (as noted above), except as specifically stated herein, we have not granted any third party the right to share your information with others.
+In order to fulfill customer orders and enhance user experience, the Site collects certain specific personally identifiable information that its customers and registered users provide when visiting the Site, such as their first and last name, their home or other physical address including their street name and the name of their city or town, their email address, their telephone number, and their credit card information (none of the above-listed types of personally identifiable information will be collected unless provided directly by the user). Such information is shared with contracted third-parties in order to fill orders accurately and promptly, provide customer service assistance, improve your shopping service, and improve the content of the Site generally so that we may better meet our users' needs. We may also provide the personally identifiable information (except email and credit card information) we collect from our users to other businesses and companies that sell a wide variety of products and services that we believe will be of interest to our customers. Because we respect the privacy of our customers and visitors, you can request that we not share your personally identifiable information with these other businesses and companies [by changing your privacy preferences by logging in to your account](http://www.magazine-agent.com-sub.info/support/login.aspx). **Except as specifically set forth in this privacy policy, we will never share your email address or credit card information with third-parties**. Furthermore (as noted above), except as specifically stated herein, we have not granted any third party the right to share your information with others.
 
 **Mandatory Communications**  
 Please note that even if you unsubscribe from our marketing emails, the Site will continue to send you important transactional correspondence such as expiration and renewal notices, as well as any communications regarding financial transactions.
@@ -59,13 +57,13 @@ In some cases, we may choose to buy or sell corporate assets. Customer informati
 The information regarding your order is always sent in encrypted format in order to protect against accidental disclosure. As an added safeguard, your credit card information is encrypted on our servers.
 
 **Correcting/Updating Personal Information**  
-If you want to change your personal information (such as your address or credit card number) you can do so by accessing our [online account manager](https://web.archive.org/support/login.aspx) or by calling customer service at 
+If you want to change your personal information (such as your address or credit card number) you can do so by accessing our [online account manager](http://www.magazine-agent.com-sub.info/support/login.aspx) or by calling customer service at 
 
 **Notification of Changes**  
 If we decide to change our privacy policy, we will post those changes on the site by identifying them as changes to our previous privacy policy. We will identify those changes for at least 60 days so that you are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
 **Questions**  
-If you have any questions about this privacy policy, please contact our Privacy Department by using our [online contact](https://web.archive.org/feedback.aspx) form, or by mailing us at the address below and including a mailing address for our response.
+If you have any questions about this privacy policy, please contact our Privacy Department by using our [online contact](http://www.magazine-agent.com-sub.info/feedback.aspx) form, or by mailing us at the address below and including a mailing address for our response.
 
 **Contrix, Inc.  
 Privacy Department  
