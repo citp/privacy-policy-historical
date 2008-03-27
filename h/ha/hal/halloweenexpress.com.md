@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the halloweenexpress.com privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230015359id_/http%3A//www.halloweenexpress.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the halloweenexpress.com privacy policy that was archived on 2008-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080327050724id_/http%3A//www.halloweenexpress.com/privacy.php) for the most accurate reproduction.*
 
 # Halloween Costumes and Costume Accessories for Adults, Teens and Kids.
 
