@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneycontrol.com privacy policy that was archived on 2007-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071127122910id_/http%3A//www.moneycontrol.com/cdata/prystat.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneycontrol.com privacy policy that was archived on 2008-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080327030328id_/http%3A//www.moneycontrol.com/cdata/prystat.php) for the most accurate reproduction.*
 
 # 
 
