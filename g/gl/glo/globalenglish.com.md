@@ -1,0 +1,21 @@
+> *The following text is extracted and transformed from the globalenglish.com privacy policy that was archived on 2008-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080327211707id_/http%3A//www.globalenglish.com/m/privacy) for the most accurate reproduction.*
+
+# GlobalEnglish - Privacy Statement
+
+#### Privacy Statement
+
+GlobalEnglish collects certain personal information from our users (such as names, email addresses, addresses, etc.). The provision of the Services over the Internet requires the disclosure of certain personal information as part of the online registration process, security protocol, Service administration and Service delivery. The information is used to fill orders promptly, to provide customer service assistance, to improve the learning experience on the Service, and to improve the content of the Service to better meet our users' need.
+
+GlobalEnglish acknowledges the importance of the personal information provided by our users, and agrees to protect such information according to and in compliance with applicable laws. Users hereby consent to provide certain personal information for purposes described above. Use of personal information provided by our users for purposes outside the scope of the above description is forbidden, and such information shall not be shared with third parties not contracted by GlobalEnglish in connection with the delivery of the Service.
+
+GlobalEnglish employs security measures at the network, SQL, and application levels. GlobalEnglish consistently maintains production servers with the latest operating system security patches. All sensitive customer information--including, but not limited to, user names, passwords, first name, last name, email address, and activity records--is contained within the secure users database that exists in a professionally managed, secure co-location facility, protected by physical and network security measures. Media containing sensitive customer information is destroyed in the event that it is defective and/or taken out of service.
+
+Notifications, inquiries, corrections, and requests for discontinuation of use of customer information in connection with the Services may be directed to [privacy@globalenglish.com](https://web.archive.org/web/20080327211707id_/http://www.globalenglish.com/m/about/contact/technical_support/).
+
+In addition to personal information, GlobalEnglish may collect certain profile information from its users (such as profession, education, age, and gender) in order to improve our content, product offerings, and promotional and marketing efforts. GlobalEnglish may use such profile information to create aggregate reports about its users. The profile information and aggregate reports are anonymous and do not contain information that can identify you personally.
+
+GlobalEnglish also collects anonymous information by using “cookies.” Cookies are bits of electronic information which a web site can transfer to your hard drive to help tailor and keep records of your visit and activities at the site. Since cookies are only text files, they cannot run on your computer, be used to search your computer for other information, or transmit any information to anyone. Cookies allow web site operators to better tailor visits to the site to the visitor's individual preferences. The use of cookies is standard on the Internet and many major web sites use them. You can choose to set your browser to notify you whenever you are sent a cookie. This gives you the opportunity to decide whether or not to accept the cookie. GlobalEnglish uses cookies to help provide you with a better experience on our Web Site.
+
+Notwithstanding the above, GlobalEnglish reserves the right to disclose any content, records, or electronic communication of any kind: (i) to satisfy any legal request; (ii) if such disclosure is necessary or appropriate to enforce these Terms of Use, the License Agreement, or the Service Agreement; or (iii) to protect the rights of GlobalEnglish or its users or partners.
+
+GlobalEnglish may amend this section of our web site from time to time to ensure compliance with changing applicable laws and regulations.
