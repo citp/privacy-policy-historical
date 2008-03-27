@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the curse.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211060848id_/http%3A//about.curse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the curse.com privacy policy that was archived on 2008-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080327102748id_/http%3A//about.curse.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Curse
 
-(Last Updated on July 6, 2007) 
+(Last Updated on February 7, 2008) 
 
   
 Curse Inc. (together with its subsidiaries, "Curse Inc." or "we") considers the protection of personal privacy to be one of our most important values. This privacy policy ("Policy") gives you specific information on how we protect your privacy, how we treat personal information, and the choices you have. This privacy policy complies with the Safe Harbor framework under the E.U. Data Protection Directive. In addition, Curse Inc. self-certifies compliance with the Safe Harbor framework to the U.S. Department of Commerce. 
@@ -83,7 +83,11 @@ You have the ability to review, change and correct the personally identifiable i
 
 If you have any other questions, comments or complaints about this Policy, write to us at: 
 
-Curse Sarl 1, rue amiral de joinville 92200 Neuilly sur Seine FRANCE contact@curse.com 
+Curse Inc.  
+351 California Street, Suite 1450  
+San Francisco, California, 94104  
+United States  
+contact@curse.com 
 
   * Be sure to include the specific Curse Inc. Site to which you are a member. 
 
