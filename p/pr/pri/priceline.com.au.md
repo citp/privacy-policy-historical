@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the priceline.com.au privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218092613id_/http%3A//www.priceline.com.au/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the priceline.com.au privacy policy that was archived on 2008-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080327071703id_/http%3A//www.priceline.com.au/privacy.asp) for the most accurate reproduction.*
 
 # Priceline : you pay less
 
