@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the business.govt.nz privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211152155id_/http%3A//www.business.govt.nz/Content/Published/About-business-govt-nz/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the business.govt.nz privacy policy that was archived on 2008-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080328200617id_/http%3A//www.business.govt.nz/About-business-govt-nz/Privacy.aspx) for the most accurate reproduction.*
 
-# Privacy | business.govt.nz
+# Privacy
 
 Our privacy policy is governed by the New Zealand Privacy Act 1993.
 
