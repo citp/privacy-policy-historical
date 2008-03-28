@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the compactappliance.com privacy policy that was archived on 2007-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071026143628id_/http%3A//www.compactappliance.com/custserv/customerservicemain.jsp%3Fcid%3D1065) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compactappliance.com privacy policy that was archived on 2008-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080329004919id_/http%3A//www.compactappliance.com/custserv/customerservicemain.jsp%3Fcid%3D1065) for the most accurate reproduction.*
 
 # Buy a Portable Air Conditioner, Washer Dryer Combo, Ice Maker, Compact Refrigerator, or Dishwasher - Compact Appliance
 
