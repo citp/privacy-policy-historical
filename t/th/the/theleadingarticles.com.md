@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theleadingarticles.com privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219224409id_/http%3A//www.theleadingarticles.com/static_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theleadingarticles.com privacy policy that was archived on 2008-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080328034413id_/http%3A//www.theleadingarticles.com/static_privacy.html) for the most accurate reproduction.*
 
 # privacy @ TheLeadingArticles.com
 
