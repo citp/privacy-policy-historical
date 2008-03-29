@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scambusters.org privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613152302id_/http%3A//www.scambusters.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scambusters.org privacy policy that was archived on 2008-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080329115840id_/http%3A//www.scambusters.org/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
@@ -30,9 +30,7 @@ We will occasionally share information with business partners when it is necessa
 
 We also invite selected third parties to participate in offers we feel would be attractive to you. We don't give any of your personal information to these parties. We negotiate the offer and contact you ourselves with the details. 
 
-You may permanently refuse these promotional offers by sending any email to [!]
-
-[/!] stop@svr.com. 
+You may permanently refuse these promotional offers by sending any email to stop@svr.com. 
 
 BY USING THIS WEB SITE YOU CONSENT TO THE COLLECTION AND USE OF YOUR PERSONAL INFORMATION BY LANFORD INC. IN THESE WAYS. 
 
@@ -73,18 +71,18 @@ If you want to know more, keep reading.
 
   * From time to time, we may disclose your information to our "business partners" - companies we know and trust and with which we have joint arrangements to offer products or services, or with whom we have agreements to provide certain services on our behalf (like processing your credit card). We only do this for products and services you know about and want to receive. AND we require that they have privacy policies just as protective as ours. 
   * We provide you the opportunity to decline to receive promotions when you register as a customer, or whenever you buy stuff from us. We only want to send you what you tell us you want to get. If you have "opted-in" and then change your mind and want to opt-out, just send an email to opt-out]@svr.com 
-  * If you tell us you want promotional offers and then change your mind, you can unsubscribe by sending a blank email to  [!][/!]  stop@svr.com. 
-  * If you want us to remove your personal information from our records, just send a blank email to  [!][/!]  nonumber@svr.com. However, we may not be able to remove all your information from our databases immediately upon your request due to technical constraints and the fact that we back up our systems.  [Back to Top] 
+  * If you tell us you want promotional offers and then change your mind, you can unsubscribe by sending a blank email to  stop@svr.com. 
+  * If you want us to remove your personal information from our records, just send a blank email to  nonumber@svr.com. However, we may not be able to remove all your information from our databases immediately upon your request due to technical constraints and the fact that we back up our systems.  [Back to Top] 
 
 
 
 **How Do You Correct and Update Your Personal Information?**
 
-  * You can change or correct your account information at any time. Just send an email with the old info and your corrections to  [!][/!]  privacy@svr.com with "Correction" in the Subject line.  [Back to Top] 
+  * You can change or correct your account information at any time. Just send an email with the old info and your corrections to  privacy@svr.com with "Correction" in the Subject line.  [Back to Top] 
 
 **What is Our Privacy Policy If You Are Under 13 Years of Age?**
 
-  * If you are under the age of 13 and wish to use this site in a manner that requires telling us personal information, one of your parents or a legal guardian must say that it's okay by giving us their consent. We will accept parental consent by an email sent to  [!][/!]  iconsent@svr.com. When we receive this email consent, we will follow up with a letter to your parents confirming their consent. 
+  * If you are under the age of 13 and wish to use this site in a manner that requires telling us personal information, one of your parents or a legal guardian must say that it's okay by giving us their consent. We will accept parental consent by an email sent to  iconsent@svr.com. When we receive this email consent, we will follow up with a letter to your parents confirming their consent. 
   * After obtaining consent, we collect, store and protect information from children the same way we collect, store and protect information from adults. We also use the information from children in the same way we use the information of an adult. This means that we will not disclose any personal information collected from children under 13. 
   * Heck, we don't do it for adults, why would we even think about doing it for kids?  [Back to Top] 
 
@@ -103,7 +101,7 @@ If you want to know more, keep reading.
 
 **Tell Us What You Think!**
 
-  * We want to know what you think. Lanford Inc. welcomes any questions or comments you may have about privacy. Please send us an email at  [!][/!]  privacy@svr.com   [Back to Top] 
+  * We want to know what you think. Lanford Inc. welcomes any questions or comments you may have about privacy. Please send us an email at  privacy@svr.com   [Back to Top] 
 
 
 
