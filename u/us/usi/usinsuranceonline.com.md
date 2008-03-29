@@ -1,20 +1,108 @@
-> *The following text is extracted and transformed from the usinsuranceonline.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226171018id_/http%3A//www.usinsuranceonline.com/usio/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usinsuranceonline.com privacy policy that was archived on 2008-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080329195837id_/http%3A//www.usinsuranceonline.com/usio/privacy.php) for the most accurate reproduction.*
 
 # USInsuranceOnline.com - The Easiest Way to Shop for Insurance
 
-| Privacy Policy  
----  
-USInsuranceOnline.com has written up a privacy policy to protect your interests. Below are our guidelines to how we protect and share your information that you submit on our site.
+_Effective Date: 01/01/2008_
 
-USInsuranceOnline.com does not sell insurance online. We will provide you a service so you can get free insurance quotes. The insurance professionals that provide you with your free quotes compensate us. This will give you options to see products and prices from different insurance companies.   
+## COMMITMENT TO YOUR PRIVACY
+
+Usinsuranceonline.com wants to make your experience online satisfying and safe. Usinsuranceonline.com is owned and operated by All Exclusive Leads, Ltd. (collectively “Company,” “we” or “us”). We understand you value your privacy. This privacy policy (“Privacy Policy”) governs information you provide to us or we learn from your use of this website and tells you how we may collect, use, and share this information. 
+
+Except as described in this Privacy Policy, and unless given permission by you, we will not sell or disclose your personally identifiable information to third parties. 
+
+**Why do we collect your information?**
+
+Company helps consumers like you shop for insurance. With your permission, we use the information you share with us to help match you with insurance providers through introducing you to insurance agents, insurance companies, and other trusted parties who also assist us and you in finding individuals and companies (we refer to all of these as “Providers”) to help you obtain free quotes for insurance. Insurance companies establish their rates using a variety of criteria. Since we deal with many Providers, the more detailed information you provide the more accurate a quote the Providers may help you locate. 
+
+## INFORMATION Usinsuranceonline.com COLLECTS AND HOW WE USE IT
+
+**What do we collect and how do we use it?**
+
+After you submit your quote request, we will match you with local and national Providers who can meet your insurance needs. We help you make this connection by sharing the information you provide to us with insurance companies, agents, and other trusted partners with whom we have relationships. These Providers help us help you locate individuals and companies who can personally assist you with your insurance needs. Your matching Providers will use the information you provide in your quote request to run your quote and contact you with details. Sometimes Company does not have a matching agent based on your location and insurance needs. To help ensure that you get the quotes you seek, we may pass your information to one of our trusted partner companies to ensure that you receive as many competitive quotes as possible. We are not responsible, and shall not be held liable, if a Provider or other party to whom we have forwarded any of the information you have submitted violates our Privacy Policy or their own privacy policy, if any or otherwise violates the law. 
+
+When assisting you, you may provide us with personally identifiable information. Personally identifiable information generally means any information that may be used to identify an individual, including, but not limited to, your name, home address, telephone number, and email address. 
+
+Examples of personally identifiable information may include: 
+
+  * First and Last Name
+  * Postal Address
+  * Email Address
+  * Phone Number
+  * Driver’s License Number*
+  * Date of Birth
+
+
+
+*This information is not required, but may be helpful in processing your applications to receive quotations. You should be careful in how you use and share sensitive personal information such as your Driver’s License Number. 
+
+We may aggregate information we receive from you and from our users and may use or disclose this information in a manner that is not personally identifiable. 
+
+## NOTICE REGARDING CONSUMER REPORT PRACTICES
+
+Insurance companies may need to obtain additional background information about you. For example, consumer reports may be ordered in connection with your application. These reports may provide additional information that may assist in determining your eligibility for insurance and rates that you may be charged. Consumer reports may also be used for updates, renewals, or extensions of this insurance. The insurance company may also obtain and use a credit-based insurance score contained in your credit report. This information may be combined with information you submit to Company. 
+
+**Information gathered from Agents**
+
+Our agent web pages contain information for insurance professionals who may be interested in our service. If you submit information through these web pages, your email address and phone number will be used for contact purposes, but not shared with any outside parties except as otherwise described in this Privacy Policy. 
+
+## Usage tracking
+
+We track website and service usage data to improve the services we offer to our users. We collect user traffic patterns throughout our website. This information is collected to help improve website flow and usability. In addition, we track click-through information, including IP addresses, to our website from the reports and emails we sent to our customers. This is done to gauge the effectiveness of our marketing campaigns and to discourage fraudulent use. However, we do not correlate this information with the personally identifiable information of individual users. 
+
+**Cookies**
+
+We may place a text file called a “cookie” in the browser files of your computer. The cookie will enable us to relate your use of this website to information that you have specifically and knowingly provided. The only personally identifiable information a cookie can contain is information you supply yourself. A cookie cannot read data off your hard disk or read cookie files created by other websites that are not owned by Company. Company may use cookies to track user traffic patterns (as described above). In addition, Company uses encrypted cookies to authenticate the user on each page after the user logs onto the website. You can refuse cookies by turning them off in your browser. If you have set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. Some Company features and services may not function properly if your cookies are disabled. 
+
+We process personally identifiable information as described above and also for such purposes as: 
+
+  * To deliver our products and services to users; 
+  * To conduct research and analysis in order to maintain and improve our products and services; 
+  * To alert you to product updates, special offers, updated information and other new services. (You may opt-out of these communications if you so choose.); and 
+  * To contact you in response to requests for information such as “Contact Us.” 
+
+
+
+**User Access**
+
+We make a good faith effort to enable you to update personally identifiable information you have provided to us and to enable you to request deletion of the information you may have provided. Please understand that where we are able to delete or update information we receive from you, this does not necessarily mean that information that has been shared with other Providers may be updated or deleted. So, in some cases it may be necessary for you to respond directly to other third parties who may have received information from us with such requests. We may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, would be extremely impractical, or where information is required to be retained by law or for legitimate business purposes. 
+
+## COMPANY TRANSFER AND INFORMATION SHARING POLICY
+
+**Providers.** We do not share personally identifiable information collected on this website with third parties for their direct marketing purposes without your consent. When you begin to provide personally identifiable information to us, you do so for the purpose of our sharing this information with Providers which then becomes subject to their privacy policies. Federal law provides limitations on the information practices of financial institutions such as insurance companies. Agents and others to whom we may forward your personally identifiable information may contact you with a quote by email, telephone, postal mail, or other forms of communication as permitted by law and you agree to receive such contacts when you submit your information. Please understand that because we are in the business of helping consumers and insurance professionals identify one another, if you do not permit us to share your personally identifiable information we may be unable to assist you and certain of our services and offerings may be unavailable to you. Where an agent may not be available to provide you with a requested quote, we may forward your information to other Providers with whom we have existing business relationships and whom we have screened to help us assist you in locating insurance-related information. We expect our Providers to whom we forward such information to follow applicable laws and impose restrictions on their use of your personally identifiable information. If you do not permit us to forward your personally identifiable information, our services and offerings may not be available to you. 
+
+**Other Usage and Offerings.** As our business grows, from time to time we may seek to make available additional offerings and services including those which may not be insurance-related. In doing so, we will strive to give you choices about whether or not you would like to continue to receive future promotional or marketing communications from us or from us on behalf of others whose offerings we think may be of interest to you. In identifying which offerings we think may be of interest to you, we may use and analyze information you have provided to us. If you choose not to receive such marketing communications, you may still receive certain relationship or transactional communications from us as described below. We do not plan to sell, rent or transfer your personally identifiable information for non-insurance related purposes to any third parties unless or except in connection with the merger, sale or reorganization of our business as set forth elsewhere in this policy. 
+
+**Aggregate information.** We may occasionally share aggregate information with third parties. Aggregate information does not personally identify you or otherwise allow anyone to identify you individually. 
+
+**Vendors and Suppliers.** We may provide personally identifiable information to or permit access to personally identifiable information by our vendors and service providers for the purpose of processing personally identifiable information on our behalf or where such access is incident to their assisting us. 
+
+**Protecting Our Legal Rights and Others’ Rights.** We do not otherwise share personally identifiable information about website users with third parties unless we believe using or sharing such information is appropriate to carry out a user’s request or if the Company reasonably believes that doing so is legally required or is in Company’s interest to protect its property or other legal rights or the rights or property of others. Merger or Sale of Company. If we should ever file for bankruptcy or have our assets sold to or merged with another entity, information we receive from you, from this website, may be treated as an asset of Company and may be transferred to the extent permitted by law. Promotions and Programs. From time to time, you may be given the opportunity to participate in sweepstakes, contests, giveaways, or other promotions and programs offered by Company, either alone or with promotional partners. Participation in these promotions or programs may require you to submit information about you, including personally identifiable information. Our use and sharing of your information, including personally identifiable information, collected through a promotion or program will be governed by the official rules or agreement governing that promotion or program, as well as by this Privacy Policy. The terms of those rules or that agreement will have control over any conflicting provisions of this privacy policy. 
+
+## MARKETING AND OTHER COMMUNICATIONS
+
+When you submit your request to us, you agree to receive email, fax, and other forms of communications from us and those to whom we forward your personally identifiable information. If you would like to opt-out of receiving promotional or marketing material from us in the future, you may do so by emailing: opt-out@usinsuranceonline.com. Your decision to opt-out shall not preclude us from communicating with you regarding your existing or past relationship with us and shall not preclude us, including our employees, contractors and other representatives, from accessing and using the information you have provided in a manner that is not personally identifying (such as in aggregate or anonymous form). If you do not wish to receive further communications from any entity (such as an Agent) to whom we have forwarded your information, you must contact them directly. 
+
+## AFFILIATED WEBSITES, OTHER WEBSITES, AND ADVERTISEMENTS
+
+This Privacy Policy applies to websites and services that are owned and operated by All Exclusive Leads, Ltd. We do not exercise control over the websites of third parties that you may link to or view as part of a frame on a page on this website. These other sites may place their own cookies or other files on your computer, collect data, or solicit personally identifiable information from you. We are not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party. 
+
+## AUTHORIZED USERS
+
+This website is hosted in the United States and is intended exclusively for U.S. residents. In using this website you represent and warrant that you have any and all necessary authorization to submit the information contained in your requests and that you expressly consent to the transfer, use, and forwarding by us of the information you provide to us through the website and to the United States. 
+
+## SECURITY
+
+No data transmissions over the Internet can be guaranteed to be 100% secure. Consequently, we cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk. Once we receive your transmission, we make reasonable efforts to ensure security on our systems. We use secure server software and firewalls to protect your information from unauthorized access, disclosure, alteration, or destruction. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of such firewalls and secure server software. 
+
+If we learn of a security systems breach we may attempt to notify you electronically so that you can take appropriate protective steps. By using this website or providing personally identifiable information to us you agree that we can communicate with you electronically regarding security, privacy and administrative issues relating to your use of this website. We may post a notice on our website if a security breach occurs. We may also send an email to you at the email address you have provided to us in these circumstances. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us at privacy@usinsuranceonline.com. 
+
+## CHANGES AND UPDATES
+
+We may occasionally update this Privacy Policy. When we do, we will also revise the “effective date” on the Privacy Policy. If we should decide to change this Privacy Policy in a manner that we believe would cause us to use or share your personally identifiable information in a way that we think is materially broader or less privacy-friendly from what we have told you here, we will attempt to obtain your consent before implementing the change. We encourage you to periodically review this Privacy Policy to stay informed about how we are protecting the personally identifiable information we collect. Your continued use of this website constitutes your agreement to this Privacy Statement and any updates. 
+
+## CONTACTING US
+
+If you have any questions, comments, or concerns about Company or this Privacy Policy, please email us at contact@usinsuranceonline.com. In the event that we are still unable to resolve your concerns we are committed to cooperating to achieve a proper resolution of your privacy concerns. 
+
   
-Why do we request personal information?  
-USInsuranceOnline.com collects your personal information so that our insurance professionals can get you the quote that you request. The more information you provide the more accurate the quote.  
-Sharing of Personal Information  
-By submitting your personal information on our site, you understand and consent to us transferring your information to our group of insurance professionals. You also authorize these insurance professionals to contact you via email, fax, and telephone regardless of your phone number being on any no-call list for the purpose of delivering your requested quotes.  
-Use of Email Addresses  
-We hate SPAM and we know you do too. We only use the email address you provide when requesting a quote for the purposes of delivering your requested quotes and occasionally sending you follow-up correspondence directly relating to your quote request. We will never sell, rent, or otherwise disclose your email address for any other purpose. Further, you will always have the opportunity to opt out of any additional email correspondence at will. All correspondence we send via email is guaranteed to be 100% CAN SPAM compliant.  
-Security  
-All the personal information we collect from you on our site is securely stored on our server. We use the highest quality systems to protect our database and your personal information. We cannot guarantee that your information will be free from unauthorized access. We are not responsible for any information stolen or intercepted from our database.  
-Acceptance of this Privacy Policy  
-When you use this site you are accepting the terms and conditions of this privacy policy. USInsuranceOnline.com also reserves the right to change this privacy policy in any way at anytime. We welcome you to review our policy to be informed of any changes. If you continue use of this site after any changes in our policy, you are accepting the changes.
+
