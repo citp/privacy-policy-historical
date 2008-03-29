@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livecasinodirect.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212101432id_/http%3A//www.livecasinodirect.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livecasinodirect.com privacy policy that was archived on 2008-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080329223427id_/http%3A//www.livecasinodirect.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
