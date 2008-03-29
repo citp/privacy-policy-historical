@@ -1,38 +1,40 @@
-> *The following text is extracted and transformed from the gtplanet.net privacy policy that was archived on 2004-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041127083518id_/http%3A//www.gtplanet.net/index.php%3Fcategoryid%3D23%26PHPSESSID%3D94daa3b8c18399a7f61e972a8c463712) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gtplanet.net privacy policy that was archived on 2008-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080329162000id_/http%3A//www.gtplanet.net/privacy) for the most accurate reproduction.*
 
-# GTPlanet - Welcome - Privacy Policy
+# GTPlanet » Privacy Policy
 
-Privacy Policy
+GTPlanet has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website. Your IP address is used to gather broad demographic information. We use cookies to deliver content specific to your interests and to save your password so you don’t have to re-enter it each time you visit our site.
 
-GTPlanet has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website. Your IP address is used to gather broad demographic information. We use cookies to deliver content specific to your interests and to save your password so you don't have to re-enter it each time you visit our site.
-
-Our site's registration form requires users to give us demographic information (such as location). Demographic and profile data is also collected at our site. We use this data to tailor the visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences.
+Our site’s registration form requires users to give us demographic information (such as location). Demographic and profile data is also collected at our site. We use this data to tailor the visitor’s experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences.
 
 This site contains links to other sites. GTPlanet.net is not responsible for the privacy practices or the content of such Web sites.
 
-  
-**Public Forums**  
+**Public Forums**
+
 This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. GTPlanet.net cannot be held responsible in any way for any information posted or otherwise distributed by public users via its chat or forum mediums.
 
-  
-**Security**  
+**Security**
+
 This site has security measures in place to protect the loss, misuse and alteration of the information under our control.
 
-**Choice/Opt-Out**  
+**Choice/Opt-Out**
+
 Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.
 
-**Third Party Advertising**  
-We use BUDS INC and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.networkadvertising.org/optout_nonppii.asp).
+**Third Party Advertising**
 
-**Third Party Cookies**  
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser.
+We use various third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.networkadvertising.org/optout_nonppii.asp).
 
-**Correct/Update Personal Information**  
-This site gives users the following options for changing and modifying information previously provided, located here.
+**Third Party Cookies**
 
-  
-**Contacting GTPlanet**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us online or via the address below:
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” in your browser.
+
+**Correct/Update Personal Information**
+
+This site gives users the following options for changing and modifying information previously provided, located [here](http://www.gtplanet.net/forum/usercp.php).
+
+**Contacting GTPlanet**
+
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us online](http://www.gtplanet.net/contact) or via the address below:
 
 GTPlanet Networks  
 P.O. Box 755  
