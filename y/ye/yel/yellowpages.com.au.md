@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the yellowpages.com.au privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224072436id_/http%3A//about.sensis.com.au/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yellowpages.com.au privacy policy that was archived on 2008-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080331082015id_/http%3A//about.sensis.com.au/legal/privacy.php%3Fref%3Dypflk) for the most accurate reproduction.*
 
 # Sensis - A Leading directory, advertising and information provider
 
 Privacy Collection Statement
 
   
-Updated May 2007 
+Updated January 2008 
 
 Sensis Pty Ltd ("Sensis") is committed to providing you with the highest levels of customer service. This includes protecting your privacy. Sensis is bound by the Privacy Act 1988 (Cth), which sets out a number of principles concerning the protection of your personal information. 
 
@@ -26,7 +26,7 @@ Personal information is collected by Sensis to enable us to provide you with the
 How we collect personal information   
 Sensis collects personal information in a number of ways, including: 
 
-  * directly from you, for example when you provide information by phone, in marketing coupons, competitions or application forms or when you submit information to us through our websites (eg by email or [ cookies](http://about.sensis.com.au/legal/cookies.php)); 
+  * directly from you, for example when you provide information by phone, in marketing coupons, competitions or application forms or when you submit information to us through our websites (eg by email or cookies); 
   * from third parties such as our related companies, carriage service providers, credit reporting agencies or your representatives; 
   * from publicly available sources of information; 
   * from the organisations identified below under "When we disclose your personal information"; 
@@ -50,7 +50,9 @@ Your personal information may be used in order to:
 
 
 
-Also, your personal information is collected so Sensis can promote and market its services to you. This is to keep you informed of our products, services, special offers or products we believe you will find valuable and may continue after you cease acquiring services from us. If you do not want us to promote and market our products, services and special offers to you please call 1800 736 747. 
+Also, your personal information is collected so Sensis and its related bodies corporate can promote and market products and services to you. This is to keep you informed of products, services, and special offers we believe you will find valuable and may continue after you cease acquiring services from us. If you do not want us or our related bodies corporate to contact you to promote and market our products, services and special offers to you, please call 1800 736 747. 
+
+Sensis may also use your personal information to promote and market the products and services of third parties (such as other businesses, government agencies and community organisations) to you via SMS, when you a call Telstra directory assistance (on 1223) or one of our other voice services (such as 1234 or Call Connect). If you do not wish to receive this marketing information, you may call the relevant service and request to be opted out (any applicable service fee will be rebated) or you can reply “No” to the SMS.
 
 When we disclose your personal information   
 In order to deliver the services you require and for the purposes set out above, Sensis may disclose your personal information to organisations outside Sensis. Your personal information is disclosed to these organisations only in relation to Sensis and related companies providing services to you. These organisations may carry out: 
@@ -86,11 +88,13 @@ Sensis may share your personal information with the Related Companies to assist 
 Sensis' websites  
 Sensis provides products and services via our various websites. When you visit our sites, our web servers record anonymous information such as the time, date and URL of the request. This information assists us to improve the structure of our websites and monitor their performance. 
 
-Sensis may use '[cookies](http://about.sensis.com.au/legal/cookies.php)' on various websites. [Cookies](http://about.sensis.com.au/legal/cookies.php) are an industry standard and most major websites use them. A cookie is a small text file that our websites may place on your computer. Usually, cookies are used as a means for our websites to remember your preferences. As such, cookies are designed to improve your experience of our websites. 
+Sensis may use 'cookies' on various websites. Cookies are an industry standard and most major websites use them. A cookie is a small text file that our websites may place on your computer. Usually, cookies are used as a means for our websites to remember your preferences. As such, cookies are designed to improve your experience of our websites. 
 
 In some cases, cookies may collect and store personal information about you. Sensis extends the same privacy protection to your personal information, whether gathered via cookies or from other sources. Most internet browsers are pre-set to accept cookies, however you can adjust your Internet browser to disable cookies or to warn you when cookies are being used. However, if you disable cookies, you may not be able to access certain areas of our websites or take advantage of the improved website experience that cookies offer. 
 
 Sensis also collects Internet Protocol (IP) addresses. IP addresses are assigned to computers on the internet to uniquely identify them within the global network. Sensis collects and manages IP addresses as part of the service of providing internet session management and for security purposes. 
+
+Sensis may use third parties to analyse usage statistics on our websites. Such analysis is performed using data collected from our websites. No personally identifiable information is collected by such third parties from our web sites. 
 
 Acts in the course of journalism  
 Sensis commits to the Australian Press Council Privacy Standards (available at <http://www.presscouncil.org.au/>) in relation to material prepared by Sensis, its employees and its agents in the course of journalism.. Sensis publishes some material which is licensed to it by other organisations. Sensis will take reasonable steps to ensure that each organisation which supplies it with material for publication has publicly committed to standards for the purpose of section 7B(4)(b) of the Privacy Act 1988. If Sensis receives a privacy related complaint relating to any material supplied to it by another organisation, then it will formally request that organisation to deal with the privacy complaint in a fair and efficient manner. 
