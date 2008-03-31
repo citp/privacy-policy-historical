@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the akbartravelsonline.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217062933id_/http%3A//www.akbartravelsonline.com/Service/pages/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the akbartravelsonline.com privacy policy that was archived on 2008-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080331123827id_/http%3A//www.akbartravelsonline.com/Service/pages/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Akbar Travels Online.com
 
