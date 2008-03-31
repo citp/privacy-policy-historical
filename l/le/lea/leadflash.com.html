@@ -1,18 +1,25 @@
-<!--The following is the downloaded HTML source of the leadflash.com privacy policy that was archived on 2007-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071217034417id_/http%3A//www.leadflash.com/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the leadflash.com privacy policy that was archived on 2008-03-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080331083317id_/http%3A//www.leadflash.com/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Master_MasterHead"><title>
 	Privacy
 </title><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><link href="/Design/css/Master.css" rel="stylesheet" type="text/css"><link href="/Design/css/Styles.css" rel="stylesheet" type="text/css">
-    <script language="javascript" type="text/javascript" src="/ScriptLibrary/jQuery/1.2.1/jquery-packed.js"></script>
-    <script type="text/javascript" src="/ScriptLibrary/jQuery/1.2.1/plugins/greybox/greybox.js"></script>
+    <script language="javascript" type="text/javascript" src="/ScriptLibrary/jQuery/1.2.2/jquery.pack.js"></script>
+
     <link href="/ScriptLibrary/jQuery/1.2.1/plugins/greybox/greybox.css" rel="stylesheet" type="text/css" media="all">
-    <script language="javascript" type="text/javascript" src="/common/code.js"></script>
+    <script type="text/javascript" src="/ScriptLibrary/jQuery/1.2.1/plugins/greybox/greybox.pack.js"></script>
+
+    <link href="/ScriptLibrary/jQuery/1.2.1/plugins/ClickMenu/LFMenu.css" rel="stylesheet" type="text/css">
+    <script src="/ScriptLibrary/jQuery/1.2.1/plugins/ClickMenu/clickmenu.pack.js" type="text/javascript"></script>
+
+    <script type="text/javascript" src="/common/code.pack.js"></script>
+    <script type="text/javascript" src="/ScriptLibrary/ToolTip/ToolTip.pack.js"></script>
+
     <script language="javascript" type="text/javascript">
+    // <![CDATA[
     var _PageIsFullyLoaded = false;
     var _PFL = false;
     var _ShowingModal = false;
-
     function _InitPageLoad() {
         _PageIsFullyLoaded = true;
         _PFL = true;
@@ -21,15 +28,14 @@
 
     var GB_ANIMATION = true;
     $(document).ready(function() {
-        $("a.greybox").click(function() {
-            var thisID = '#' + this.id;
+        $("a.greybox").show().click(function() {
             var t = this.title || $(this).text() || this.href;
             var h = 450;
             var w = 500;
-            var overlayclose = ($(thisID).attr("overlayclose")) ? true : false;
-            var hideclose = ($(thisID).attr("hideclose")) ? true : false;
-            if ($(thisID).attr("size")) {
-                var hit = '' + $(thisID).attr("size");
+            var overlayclose = ($(this).attr("overlayclose")) ? true : false;
+            var hideclose = ($(this).attr("hideclose")) ? true : false;
+            if ($(this).attr("size")) {
+                var hit = '' + $(this).attr("size");
                 hit = hit.match(/^(\d+)x(\d+)$/);
                 if (hit && hit.length == 3) {
                     w = Number(hit[1]);
@@ -40,19 +46,21 @@
             GB_show(t,this.href,h,w,overlayclose,hideclose);
             return false;
         });
+        $("#Master_Menu_NavMenu").clickMenu();
+        $("#topnavarea").show();
     });
-
+    // ]]>
     </script>
-    <script type="text/javascript" src="/ScriptLibrary/ToolTip/ToolTip_packed.js"></script></head><body id="ctl00_Master_LFBody1"><div id="dhtmltooltip"></div><img id="dhtmlpointer" src="/ScriptLibrary/ToolTip/arrow2.gif" alt="">
+    </head>
 
-
+<body id="ctl00_Master_LFBody1">
 
     <form name="aspnetForm" method="post" action="privacy.aspx" id="aspnetForm" style="display: inline;">
 <div>
 <input type="hidden" name="ContextUser" id="ContextUser" value="">
 <input type="hidden" name="ErrorPane" id="ErrorPane" value="ctl00_Master_ErrorPane">
 <input type="hidden" name="ThisUser" id="ThisUser" value="">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="yJQ54EKERn1GhjvYCSAIqZDw+B6nfyFm3RSi4GuZEXspj00yFKgaqv5+qEGjhcYcsgj34rYm8lRI2Q+oFa1veiqXluWHSiMtlTmehN3XKXyE1U9WFOnoelYkAz9e4re85D1gkkVlkfjc6NjOx+KqQUBYDMeb3r+hP1SzSB+go4g2EyW3ZS99CmhyuuJXGS/tkkcj1WYcm+gGP5AYip2fshT3t9SEWfth5L39ekvem5foaaqgdCTrglbZGZu6Mt/EEQuxPvGKtS1BmspkD0MAtcDN1IPb0M6UdrbYnwLNV3Wbsct/srYoy5CNIc/+NI5IZeC/a5IxQK6FlWLwY5eheaO4j3Fh3ZLIi3NPnBJemxk=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="yJQ54EKERn1GhjvYCSAIqZDw+B6nfyFm3RSi4GuZEXsWDWDcJ/5Bsm0W9tqATSQqsnobzx7JIwBZssb3o2q8LVTB+W6sezqs+rJ2gF2Jid2ZgwIgPcApWVraux6Ft6A1Hh29iYyV7EHEWunpe8lP0dMGYh1x530CWRVYM4dJ0v/g4OyF+EPm2LDLgwp6iZT38iZhK2hUX2Tn/byyaORwDYclIgidilk9YLu4uB3AjYupB8wwh5X9uSffYJoKxJ0/c4ZzEWhRjB7olhVRGHwu+xV0MpTO/BObFcOnoeoEEFzWZWsDTnXnhdZTwjS/fmQCDmUH/wxlV51FTQl+9g2N3OjGsm+VhdHLpubPbD2XX1knp4pxlZBo4bacUkfC0qCeVIFy9vRlnqPDV2NxlAVq2w==">
 </div>
 
 
@@ -61,10 +69,11 @@
     <div id="header">
         
     </div>
-    <div id="topnavarea">
+    <div id="topnavarea" style="display: none;">
         
-<div style="margin-top: 3px; text-align: center;"><a href="/default.aspx"><img src="/images/welcome.gif" style="border: none;" alt="Welcome" title="Welcome"></a><a href="/publishers.aspx"><img src="/images/publishers.gif" style="border: none;" alt="Publishers"></a><a href="/advertisers.aspx"><img src="/images/advertisers.gif" style="border: none;" alt="Advertisers"></a><a href="/offers.aspx"><img src="/images/offers.gif" style="border: none;" alt="Offers"></a><a href="/news.aspx"><img src="/images/news.gif" style="border: none;" alt="News"></a><a href="/aboutus.aspx"><img src="/images/aboutus.gif" style="border: none;" alt="About Us"></a><a href="/contact.aspx"><img src="/images/contactus.gif" style="border: none;" alt="Contact Us"></a></div>
-<div style="border-bottom: dotted 2px #000;"><img src="/images/blank.gif" style="height: 3px; width: 100px;" alt="" title=""></div>
+
+<div id="ctl00_Master_Menu_PublicMenu"><a href="/default.aspx"><img src="/images/welcome.gif" style="border: none;" alt="Welcome" title="Welcome"></a><a href="/publishers.aspx"><img src="/images/publishers.gif" style="border: none;" alt="Publishers"></a><a href="/advertisers.aspx"><img src="/images/advertisers.gif" style="border: none;" alt="Advertisers"></a><a href="/offers.aspx"><img src="/images/offers.gif" style="border: none;" alt="Offers"></a><a href="/news.aspx"><img src="/images/news.gif" style="border: none;" alt="News"></a><a href="/aboutus.aspx"><img src="/images/aboutus.gif" style="border: none;" alt="About Us"></a><a href="/contact.aspx"><img src="/images/contactus.gif" style="border: none;" alt="Contact Us"></a></div>
+
     </div>
 
 	<div id="container">
@@ -131,19 +140,17 @@
 
     <div id="footer">
         <div><a href="/default.aspx">Home</a> » <a href="/publishers.aspx">Publishers</a> » <a href="/advertisers.aspx">Advertisers</a> » <a href="/offers.aspx">Offers</a> » <a href="/ourleads.aspx">Lead Programs</a> » <a href="/affiliate_resources.aspx">Affiliate Resources</a> » <a href="/news.aspx">News</a> » <a href="/aboutus.aspx">About</a> » <a href="/contact.aspx">Contact</a> » <a href="/careers.aspx">Careers</a> » <a href="/privacy.aspx">Privacy</a></div>
-        <div id="ctl00_Master_FooterInfo" style="padding-top: 4px;">© Copyright 2007 LeadFlash.com - A Regency Marketing website. All rights reserved.</div>
+        <div id="ctl00_Master_FooterInfo" style="padding-top: 4px;">© Copyright 2008 LeadFlash.com - A Regency Marketing website. All rights reserved.</div>
     </div>
     
     
 <div>
 
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="6OoxQspxaHN3lFnTcR0WBKm9kzKwc5gYKqDlfRteUh1FTMaLGRYK+wUjXdcz9BKKTDnj6hpG9Hw6EVT3R2jugw==">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="w5m6ai90cCVtHCW/9Ihmx01ORG5OEkZ9TiFN7Ptxw98Ao7GcLu1DihhRgRz5PfDsiczQiFN4JNE50sfkZtRx6g==">
 </div>
 
 
 </form>
-    
-
     
 
 
@@ -151,7 +158,7 @@
 
 
 <!-- Relocated Javascript -->
-<script src="/ScriptResource.axd?d=sx7lPLnLZaa20QldEgJ3dp2YgQWlECaLCSb5B8fa2lFdAv_msnarIcRG3pI_X4Hy5qHR5GcKfPaYZK65y45fV7prisMPfqUmnTRogdYYxwQ1&amp;t=633180331740000000" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=sx7lPLnLZaa20QldEgJ3dp2YgQWlECaLCSb5B8fa2lFdAv_msnarIcRG3pI_X4Hy5qHR5GcKfPaYZK65y45fV7prisMPfqUmnTRogdYYxwQ1&amp;t=633180367740000000" type="text/javascript"></script>
 <script type="text/javascript">
 <!--
 Sys.Application.initialize();
