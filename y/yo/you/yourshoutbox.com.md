@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourshoutbox.com privacy policy that was archived on 2007-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070521222948id_/http%3A//yourshoutbox.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourshoutbox.com privacy policy that was archived on 2008-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080331184525id_/http%3A//yourshoutbox.com/privacy.php) for the most accurate reproduction.*
 
 # Your Shoutbox :: Shoutboxes
 
@@ -58,6 +58,6 @@
 
 
 **Terms of Service**   
-Please also ensure you read our [Terms of Service](https://web.archive.org/web/20070521222948id_/http%3A//yourshoutbox.com/terms.php). 
+Please also ensure you read our [Terms of Service](https://web.archive.org/web/20080331184525id_/http%3A//yourshoutbox.com/terms.php). 
 
-© 2007 [Your Shoutbox](http://yourshoutbox.com/) \- Powered By [Shout Master Pro](http://yourshoutbox.com/recommended) \- All Rights Reserved Worldwide
+© 2008 [Your Shoutbox](http://yourshoutbox.com/) \- Powered By [Shout Master Pro](http://yourshoutbox.com/recommended) \- All Rights Reserved Worldwide
