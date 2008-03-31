@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eventful.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229070539id_/http%3A//eventful.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eventful.com privacy policy that was archived on 2008-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080331120800id_/http%3A//eventful.com/privacy) for the most accurate reproduction.*
 
-# Eventful - Privacy Policy
+# Privacy Policy - Eventful
 
 Last revised 17 October 2007
 
@@ -10,7 +10,7 @@ Eventful respects your right to privacy and we are committed to protecting it. A
 
 As our business grows and changes, we expect to revise or enhance these policies from time-to-time. We will post a current version of our Privacy Policy on our Site and will communicate material changes to our Privacy Policy to users and the public by posting a notice on our Site for ten days following the change. If any modification is unacceptable to you, you shall cease using our Site and Services. If you do not cease using our Site and Services, you will be conclusively deemed to have accepted the change.
 
-## Correction/Updating Personally Identifiable Information
+## Correcting/Updating Personally Identifiable Information
 
 Eventful provides you with the ability to review, correct and delete any of the Personally Identifiable Information that you have provided to us at any time. If you have questions about this Privacy Policy or wish to review or correct any information you have provided to us, you may do so by (i) accessing your account online, (ii) submitting an email request to us at <privacy at eventful.com>, or (iii) sending a letter to the following U.S. postal address:
 
