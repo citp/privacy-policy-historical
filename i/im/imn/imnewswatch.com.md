@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imnewswatch.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213000634id_/http%3A//www.imnewswatch.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imnewswatch.com privacy policy that was archived on 2008-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080331131907id_/http%3A//www.imnewswatch.com/Privacy.html) for the most accurate reproduction.*
 
 # Internet Marketing NewsWatch - PRIVACY POLICY
 
@@ -135,10 +135,8 @@ Visitor agrees that the applicable law to be applied shall, in all cases, be tha
 **CONTACT INFORMATION**
 
 support AT imnewswatch DOT com  (replace “AT” with @ and replace DOT with “.”)  
-**Executive Marketing & Communications, Inc.**   
-doing business as [www.imnewswatch.com](http://www.imnewswatch.com/)    
-P.O. Box 632  
-Jamestown, TN 38556 
+The Internet Marketing Profits Center, Inc.  
+doing business as [www.imnewswatch.com](http://www.imnewswatch.com/) 
 
 **COPYRIGHT AND LICENSE  **  
 This "Privacy Policy" is © 2003-2007 by Mining Gold Corporation and Nevada Processing Center, Inc.  (888) 214-3349, and is fully licensed for use by this website.  If you wish to lawfully use this Terms of Use on your website, contact[ support@internetlawcompliance.com](mailto:support@npcinfo.com) for licensing information.
