@@ -1,0 +1,48 @@
+> *The following text is extracted and transformed from the frontrush.com privacy policy that was archived on 2008-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080331212047id_/http%3A//www.frontrush.com/privacystatement.htm) for the most accurate reproduction.*
+
+# FRONT RUSH - Company
+
+**Front Rush Privacy Statement**  
+Front Rush LLC ("Front Rush") respects your privacy and has created this privacy statement ("Statement") in order to demonstrate our commitment to customer privacy. This policy governs web sites owned and operated by Front Rush, including www.frontrush.com. We have established this Statement as a means to communicate our information gathering and dissemination practices to our customers and visitors. This online privacy policy describes how we use, disclose and protect personal information that you share with us. "Personal information" is information that enables us to identify you, such as your name and e-mail address. By using this Site, you agree to this Privacy Policy.
+
+**Front Rush Web Site Visitors**  
+If you supply us with your telephone number, you may receive telephone contact from us with information regarding orders you have placed, new products and services, or information on upcoming events. Email addresses - We collect the email addresses of those who communicate with us by email. The email addresses are used to contact existing or potential business customers. Consumer-provided email is kept only for the purpose of providing consumer advice and assistance. We will not share business or consumer email addresses you give to us with other marketers unless you agree and double opt-in to receive these offers. If you do not wish to receive phone calls or emails from Front Rush in the future please let us know by sending an email to info@frontrush.com. 
+
+If you do not sign on to our Web site, our Web server does not have access to personally identifiable information about you. It does not know your email address unless you volunteer it. Use of Anonymous IP Address - IP addresses are recorded by every site on the Internet. Front Rush collects this information as well, but does so exclusively for the following uses: (1) anonymous statistical purposes; (2) administration of our web site and servers, and to improve our services; and (3) Security reasons to track any malicious attacks to our host servers. Access - Upon your request, we will provide you with a description of the information that we maintain about you. We will accommodate all reasonable requests. Please contact us by email at info@frontrush.com or in writing at the address below.
+
+**Front Rush Customers**  
+We require customers who register to use the services offered on our Sites (collectively, the "Service") to give us contact information, such as their name, company or college name, address, phone number, and e-mail address, and billing information, such as billing name and address. Front Rush uses the information that we collect to set up the Service for customers and their organizations. We may also use the information to contact customers to discuss customer interest in our company, the Service that we provide, and to send information regarding our company or partners, such as promotions and events. Customers can opt out of being contacted by us, or receiving such information from us, at any time by clicking here and submitting their email.
+
+Customers of the Service will be using the Site to host data and information ("Data") on their contacts. Front Rush will not review, share, distribute, print, or reference any such Data except as provided in the Front Rush Terms of Service or as may be required by law. Individual records may at times be viewed or accessed only for the purpose of resolving a problem, support issue, or suspected violation of the Terms of Service, Acceptable Use Policy or as may be required by law. Of course, customers are responsible for maintaining the confidentiality and security of their user registration and password
+
+Front Rush will not sell or rent your personal information, or Data, including customer e-mail addresses, to anyone. Front Rush may disclose and transfer the information obtained from you through this Site or the Service as part of a merger, acquisition or other sale of its assets or business.
+
+We may be legally obligated to disclose information to the government or to third parties under certain circumstances, such as illegal activity on our Site. Front Rush reserves the right to release personal information to its service providers, law enforcement or other government officials or in response to a formal request in a civil action, as Front Rush, in our sole and absolute discretion, deems necessary or appropriate.
+
+We may also provide Aggregated Information to third parties. Such information will not include personal information of any customer or visitor.
+
+Front Rush reserves the right to send customers certain communications relating to the Service, such as service announcements and administrative messages, that are considered part of your account, without offering you the opportunity to opt-out of receiving them.
+
+We respect the privacy of children, and do not collect any more personal information than reasonably necessary to enable them to participate in the activities we offer at our Web site.
+
+**Information on Children**   
+With respect to our online information collection practices from children under 13 years of age, we do not collect personally identifiable information. With respect to the collection by other organizations of personal information from children at our site, our policy is that we do not have any agreements with outside organizations to collect personal information at our site. We do not share children's personal information with anyone other than those who provide support for the internal operations of the Web site and our agents (e.g., contractors who provide fulfillment services or technical support to the Web site). Parents can review the information that we have collected from their children online, prevent the further use or maintenance of such information, or direct the deletion of their children's personal information by calling, emailing or writing us as outlined below. **Correcting & Updating Your Information**  
+Customers can discontinue the Service at anytime by calling 866.634.1186.Front Rush or by emailing info@frontrush.com. We will respond to your request within at most 7 days from the date of your request.
+
+**Third-Party Sites**  
+The Site contains links to other web sites. Front Rush LLC is not responsible for the privacy practices or the content of these other web sites. Customers and visitors will need to check the policy statement of these others web sites to understand their policies. Customers and visitors who access a linked site may be disclosing their private information. It is the responsibility of the user to keep such information private and confidential. 
+
+**Security and Data Storage**   
+Our Site has security measures in place to help protect against the loss, misuse, and alteration of the personal information and Data under our control. Front Rush hosts the Site in a secure server environment that uses a firewall and other industry-standard technology to help prevent interference or access from outside intruders. Front Rush also requires that unique user names and passwords must be entered each time a customer logs on to the Site.
+
+Front Rush keeps your account information active in our user registration databases in order to provide immediate access to your personalization preferences and data each time you visit the Site. If you ask Front Rush to delete your Front Rush account, in most cases your account will be deactivated and then deleted from our user registration database in approximately 90 days. Please note that any information that we have copied may remain in back-up storage for some period of time after your deletion request. This may be the case even though no information about your account remains in our active user databases.
+
+The security of your personal information and Data is important to us. When you or your customers enter sensitive information on our inquiry forms, we encrypt that information using secure socket layer technology (SSL). We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+
+Front Rush uses small gif images within emails to recover information about the e-mails sent by our customers. Front Rush uses these items to record and store information such as the date and time the recipient viewed the e-mail message and other logging information. Front Rush uses this information to provide information to customers with respect to e-mails they send through the Front Rush tool.
+
+**Changes to this Statement**
+
+Front Rush may update this Statement at any time, so please review it frequently. If we make material changes to this Statement, we will notify you in this Statement, by email or by a notice posted on the home page of the Site. Questions?
+
+If you have any questions about this Statement or the practices of this Site, please contact us at info@frontrush.com. You may also write to us at Front Rush LLC, 350 S Main St Ste 215 Doylestown PA 18901 or call 866.634.1186. 
