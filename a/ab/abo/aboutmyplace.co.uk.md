@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aboutmyplace.co.uk privacy policy that was archived on 2007-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071018044504id_/http%3A//www.aboutmyplace.co.uk/action/GetMicrosoftMapAction%3Feventsubmit_dogetprivacystatement%3D0%26id%3D%2524id%26type%3D%2524itemType%26interactivemap%3Dtrue) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aboutmyplace.co.uk privacy policy that was archived on 2008-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080401223621id_/http%3A//www.aboutmyplace.co.uk/popup/privacystatement) for the most accurate reproduction.*
 
-# aboutmyplace : Privacy statement
+# None
 
 ## Who we are
 
