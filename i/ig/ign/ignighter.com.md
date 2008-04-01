@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ignighter.com privacy policy that was archived on 2007-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071207191518id_/http%3A//www.ignighter.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ignighter.com privacy policy that was archived on 2008-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080401130617id_/http%3A//www.ignighter.com/privacy) for the most accurate reproduction.*
 
 # Privacy > Ignighter Group Dating: Meet people better (tm)
 
