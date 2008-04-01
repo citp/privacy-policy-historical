@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fitnessanywhere.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226073024id_/http%3A//www.fitnessanywhere.com/company/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fitnessanywhere.com privacy policy that was archived on 2008-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080401143411id_/http%3A//www.fitnessanywhere.com/company/privacy.php) for the most accurate reproduction.*
 
-# The World Leader in Suspension Training
+# Fitness Anywhere - Home of TRX and Suspension Training
 
 Your privacy is important to us. We will never willfully disclose personally identifiable information about our customers to any third party without prior consent.
 
