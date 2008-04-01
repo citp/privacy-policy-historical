@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the myfitnesspal.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217190212id_/http%3A//www.myfitnesspal.com/welcome/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfitnesspal.com privacy policy that was archived on 2008-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080401162637id_/http%3A//www.myfitnesspal.com/welcome/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - MyFitnessPal.com
 
 **What's our policy?**  
 MyFitnessPal.com takes your privacy seriously. We are committed to ensuring that the personal information we gather from you is secure and confidential. We do not sell, rent or trade our customers' personal data. 
 
-**What type of information do we collect when you purchase a MyFitnessPal.com membership?**  
-The information we collect in order to process your MyFitnessPal.com membership order includes data such as your name, email address, mailing address, telephone number, credit card number and expiration date. This information is used to fill your order and/or keep you updated on your order status. The email address may also be used for us to contact you with matters regarding MyFitnessPal, such as a newsletter, or an announcement about a new product or service. We also collect some personal fitness information so that we can provide you with a personalized plan for successful weigh loss. 
+**What type of information do we collect when you create a MyFitnessPal.com account?**  
+The information we collect in order to create your MyFitnessPal.com account includes data such as your name and email address. The email address may be used to contact you with matters regarding MyFitnessPal, such as a newsletter, or an announcement about a new product or service. We also collect some personal fitness information so that we can provide you with a personalized plan for successful weight loss. 
 
 **What about other data?**  
 By entering foods into your food diary or activities into your exercise log, you allow MyFitnessPal.com to provide you with a comprehensive analysis of your aggregate nutrition intake and fitness activity levels. It also allows us to plot for you charts of your weight, calorie intake and individual nutrient intake. ****
