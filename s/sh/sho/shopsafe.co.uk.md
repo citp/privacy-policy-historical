@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopsafe.co.uk privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217043528id_/http%3A//www.shopsafe.co.uk/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopsafe.co.uk privacy policy that was archived on 2008-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080401051614id_/http%3A//www.shopsafe.co.uk/privacy-policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy: Shopsafe
 
@@ -18,14 +18,3 @@ We use a statistics package to track vistors to our website. This is anonymous i
 ### More Safe Online Shops
 
 Can't find what you're looking for? Try a search:
-
-[](https://web.archive.org/buytop10toys.asp)  
-See our [Top Toys](https://web.archive.org/buytop10toys.asp) buy guide
-
-[](https://web.archive.org/out/btt-188) Buy this **Radley Oolong Mini Barrel Grab Bag** from [John Lewis](https://web.archive.org/out/btt-188). 
-
-[](https://web.archive.org/out/btt-187) Buy this **Garmin GPS** from [Currys](https://web.archive.org/out/btt-187). 
-
-[](https://web.archive.org/out/btt-174) Buy this **New Ipod Nano 4GB + FM Transmitter FREE** from [Comet](https://web.archive.org/out/btt-174). 
-
-[](https://web.archive.org/out/btt-35) Buy the **Ugg Ankle Boot** from [Office](https://web.archive.org/out/btt-35). 
