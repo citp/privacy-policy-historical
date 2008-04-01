@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the climatesaverscomputing.org privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212035159id_/http%3A//www.climatesaverscomputing.org/program/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the climatesaverscomputing.org privacy policy that was archived on 2008-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080401234950id_/http%3A//www.climatesaverscomputing.org/program/privacy.html) for the most accurate reproduction.*
 
 # Climate Savers Computing - Privacy Policy
 
-|  |  |   
+|  |  |  |  |   
 ---|---  
 |  | 
 
 |   
 ---  
-|  | | CLIMATE SAVERS COMPUTING INITIATIVE   
+|   |  | CLIMATE SAVERS COMPUTING INITIATIVE   
 Privacy Policy  
 ---  
    
@@ -95,9 +95,7 @@ a difference
 | **54**  
 **MILLION** | By 2010 we seek to reduce global CO2 emissions from the operation of computers by 54 million tons per year.[1](http://www.climatesaverscomputing.org/program/privacy.html#f1)  
 ---|---  
-| Did You Know?  
----  
-“The United States, with only four percent of the world’s population, is responsible for 22% of the world’s greenhouse gas emissions.”[2](http://www.climatesaverscomputing.org/program/privacy.html#f2)  
+Did You Know?  
    
 |    
 ---  
@@ -108,7 +106,4 @@ a difference
    
 © 2007 Climate Savers Computing Initiative.  
 Climate Savers® is a trademark or registered trademark of WWF, the international conservation organization. Used under license.   
-|   |  | 1Based on IDC projections of desktop and server units shipped, a baseline of typical desktop and server power consumption in the first half of 2007, and an average power cost of $0.0885/kWh.  
----  
-2Source: StopGlobalWarming.org. [View article](http://www.stopglobalwarming.org/).  
-| 
+ 
