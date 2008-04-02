@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aapt.com.au privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230062938id_/http%3A//home.aapt.com.au/Legal/Privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aapt.com.au privacy policy that was archived on 2008-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080402021856id_/http%3A//home.aapt.com.au/Legal/Privacy_policy.html) for the most accurate reproduction.*
 
 # AAPT Privacy policy
 
