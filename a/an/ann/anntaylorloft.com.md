@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anntaylorloft.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225070409id_/http%3A//www.anntaylorloft.com/custserv/custserv.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anntaylorloft.com privacy policy that was archived on 2008-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080402081035id_/http%3A//anntaylorloft.com/custserv/custserv.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.*
 
 # Ann Taylor LOFT : Privacy and Security
 
@@ -10,9 +10,8 @@
 |  [](http://www.anntaylorloft.com/catalog/department.jsp?N=1200033&categoryId=231)  
 |  [](http://www.anntaylorloft.com/catalog/department.jsp?N=1200047&categoryId=245)  
 |  [](http://www.anntaylorloft.com/catalog/department.jsp?N=1200051&categoryId=249)  
-|  [](http://www.anntaylorloft.com/catalog/department.jsp?N=1200052&categoryId=269)  
 |  [](http://www.anntaylorloft.com/catalog/department_sale.jsp?Nr=AND\(CAT_SALE_FLAG:Y\)&N=1200054&categoryId=270)  
-| [](https://web.archive.org/catalog/editorial.jsp?pageName=Teachers)  
+| [](https://web.archive.org/custserv/content_popup.jsp?pageName=ShipPop) [](https://web.archive.org/catalog/editorial.jsp?pageName=Teachers)  
   
 [](https://web.archive.org/custserv/custserv.jsp?pageName=FAQ)[](https://web.archive.org/custserv/custserv.jsp?pageName=Return)[](https://web.archive.org/custserv/custserv.jsp?pageName=Terms)[](https://web.archive.org/custserv/custserv.jsp?pageName=Privacy)[](https://web.archive.org/custserv/custserv.jsp?pageName=ATCard)[](https://web.archive.org/custserv/contactus.jsp)
 
