@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webcosmo.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224134506id_/http%3A//webcosmo.com/help/help_privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webcosmo.com privacy policy that was archived on 2008-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080404014041id_/http%3A//www.webcosmo.com/help/help_privacy.aspx) for the most accurate reproduction.*
 
 # privacy policy - free classified ads
 
