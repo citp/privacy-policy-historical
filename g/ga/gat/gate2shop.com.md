@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gate2shop.com privacy policy that was archived on 2007-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071109054857id_/http%3A//www.gate2shop.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gate2shop.com privacy policy that was archived on 2008-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080403201607id_/http%3A//www.gate2shop.com/en/privacy) for the most accurate reproduction.*
 
 # Gate2Shop - Privacy Policy
 
-GTS ONLINE LTD. ("We" or "Us") strives to protect your privacy and safeguard any personal data provided to it. Please read the following policy to understand how your personal data and the personal data of your customers which is provided by you will be treated as you make use of our website and Services. All capitalized terms and definitions in this Privacy Policy shall have the same meaning ascribed to them in our [Terms and Conditions](http://www.softtech.bg/temp/g2s/terms.php).
+GTS ONLINE LTD. ("We" or "Us") strives to protect your privacy and safeguard any personal data provided to it. Please read the following policy to understand how your personal data and the personal data of your customers which is provided by you will be treated as you make use of our website and Services. All capitalized terms and definitions in this Privacy Policy shall have the same meaning ascribed to them in our [Terms and Conditions](http://www.gate2shop.com/terms).
 
 As described below, your and your customers' personal data will be used by us and may be disclosed to chosen, specific third parties in order to enable us to provide the Services or for certain other limited purposes, as set forth below. By accepting our Terms and Conditions and using our Services, you consent to our use and disclosure of such personal and protected data and information in accordance with the terms of this Privacy Policy.
 
@@ -44,7 +44,7 @@ Any data and information provided to us is encrypted using advanced technologies
 
 ### Cookies on Our Website
 
-You acknowledge and agree that we may use cookies on our website. A cookie is a piece of text that can be entered into the memory of your hard drive and can store information about your use of our website ("Cookies"). The Cookies will help us make our services more convenient, personalized and more secure. In addition, Cookies may allow us to keep track and retrieve information about any person who acts in contravention of our Privacy Policy or our [Terms and Conditions](http://www.gate2shop.com/terms.php). If you would rather not have Cookies on your computer, you can usually set your browser to deny some but not all Cookies. You can also delete Cookies from your computer at your sole discretion.
+You acknowledge and agree that we may use cookies on our website. A cookie is a piece of text that can be entered into the memory of your hard drive and can store information about your use of our website ("Cookies"). The Cookies will help us make our services more convenient, personalized and more secure. In addition, Cookies may allow us to keep track and retrieve information about any person who acts in contravention of our Privacy Policy or our [Terms and Conditions](http://www.gate2shop.com/terms). If you would rather not have Cookies on your computer, you can usually set your browser to deny some but not all Cookies. You can also delete Cookies from your computer at your sole discretion.
 
 ### Links and Displayed Sites
 
@@ -60,7 +60,7 @@ If you have any questions about this Privacy Policy, our practices or any relate
 
 ### Subordination to Terms and Conditions 
 
-This Privacy Policy is incorporated into and subject to our [Terms and Conditions](http://www.gate2shop.com/terms.php) as an integral part thereof. In case of any conflict between any provision of our Terms and Conditions and the content of this Privacy Policy, the provisions of our Terms and Conditions shall govern.
+This Privacy Policy is incorporated into and subject to our [Terms and Conditions](http://www.gate2shop.com/terms) as an integral part thereof. In case of any conflict between any provision of our Terms and Conditions and the content of this Privacy Policy, the provisions of our Terms and Conditions shall govern.
 
 ### No Third Party Beneficiaries
 
@@ -69,3 +69,5 @@ Nothing in this Privacy Policy shall be interpreted for or inure to the benefit 
 ### Amendments to Privacy Policy
 
 This Privacy Policy may be updated from time to time, and we will notify you of any material amendment of this policy. If you do not agree with any term in this Privacy Policy, or any change to it, please cease using our Services and stop providing us with additional personal information or submitting Transactions for authorization. Your continued use of our Services after this Privacy Policy has been amended will be deemed to be your continued acceptance of the terms of this Privacy Policy, as amended.
+
+[Apply](https://reports.gate2shop.com/omr/)
