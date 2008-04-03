@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcwb.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231093725id_/http%3A//www.pcwb.com/misc/privacy.jtp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcwb.com privacy policy that was archived on 2008-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080403041118id_/http%3A//www.pcwb.com/misc/privacy.jtp) for the most accurate reproduction.*
 
 # PC World Business - Taking Care of Your Business
 
