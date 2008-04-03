@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quickstartsite.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215050344id_/http%3A//www.quickstartsite.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickstartsite.com privacy policy that was archived on 2008-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080403194017id_/http%3A//www.quickstartsite.com/privacypolicy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
@@ -22,7 +22,7 @@ _This website is not lawfully accessible to persons under the age of 18 or who a
 
 Acceptance of the terms of this Privacy Policy is a portion of the consideration required for your right to visit the website.  If you do not accept these terms, you have no right to visit this site and you are fraudulently using this site.
 
-**A NOTE TO** **CALIFORNIA** **RESIDENTS (ONLINE PRIVACY PROTECTION ACT OF 2003 --OPPA)**
+**A NOTE TO CALIFORNIA RESIDENTS (ONLINE PRIVACY PROTECTION ACT OF 2003 --OPPA)**
 
 It is the intent of the Privacy Policy to comply with the California Act.  Various provisions throughout this Privacy Policy address requirements of the act.  In summary, you must presume that we collect electronic information from all visitors.  This is not usually personally identifiable.  If you purchase a product or service via this website (and thereby become covered by the Act), the purchase agreement you electronically sign prior to purchase allows the website to collect and archive all the personal information you provide and to transmit and/or transfer that personal information to third parties.  There is no way you can modify this information and you have no right to do so.  Under the terms of the purchase agreement, you have no right to view or receive any information about our database.  In the event that the website, under advice of counsel agrees to divulge information, the requesting party must submit whatever information is demanded by the website in insure that the website is releasing information to the correct party.  Other provisions of the OPPA may exempt this website from complying.  While we take measures to ensure that outside parties do not have access to any information we have about you, we do not warranty that outside parties will not breach our system and thus have access to your information.  (You should know that merchant service providers do not allow us access to your credit card information.)  This Privacy Policy also is subject to change without notice.  You are required to read it prior to using the website.  By interacting with the website you agree to the terms and conditions of the Privacy Policy.  By using the website or purchasing a product through this website, you waive the right to use state or federal court systems to address complaints and, instead, agree to use the American Arbitration Association located in a city and county specified herein.
 
@@ -110,7 +110,7 @@ This Privacy Policy is dynamic.  It will continually change.  You may not assu
 
 **LATEST UPDATE**
 
-This Privacy Policy was last updated on:  5/1/06
+This Privacy Policy was last updated on:  1/22/08
 
 **COPYRIGHT**
 
@@ -136,4 +136,4 @@ Visitor agrees that the applicable law to be applied shall, in all cases, be tha
 
 **COPYRIGHT AND LICENSE  **
 
-This "Privacy Policy" is copyrighted © 2003-2006 by Mining Gold Corporation and Nevada Processing Center, Inc.  (888) 214-3349, and is fully licensed for use by this website.  If you wish to lawfully use this Terms of Use on your website, contact[ support@internetlawcompliance.com](mailto:support@npcinfo.com) for licensing information or this website. 
+This "Privacy Policy" is copyrighted © 2003-2008 by Mining Gold Corporation and Nevada Processing Center, Inc.  (800) 750-3436, and is fully licensed for use by this website.  If you wish to lawfully use this Terms of Use on your website, contact[ support@internetlawcompliance.com](mailto:support@npcinfo.com) for licensing information or this website. 
