@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jhoos.com privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219030114id_/http%3A//www.jhoos.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jhoos.com privacy policy that was archived on 2008-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080403234838id_/http%3A//www.jhoos.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Jhoos Privacy Policy
 
