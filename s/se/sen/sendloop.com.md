@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sendloop.com privacy policy that was archived on 2007-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071105212621id_/http%3A//sendloop.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sendloop.com privacy policy that was archived on 2008-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080403025406id_/http%3A//www.sendloop.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Sendloop - The Easiest and Most Professional Newsletter Sending Service
 
