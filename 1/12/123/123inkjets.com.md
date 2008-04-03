@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 123inkjets.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211140149id_/http%3A//www.123inkjets.com/cs/policies_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123inkjets.com privacy policy that was archived on 2008-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080403214903id_/http%3A//www.123inkjets.com/cs/policies_privacy.html) for the most accurate reproduction.*
 
 # 123inkjets.com - Your Privacy Rights
 
