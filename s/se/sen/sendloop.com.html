@@ -1,31 +1,29 @@
-<!--The following is the downloaded HTML source of the sendloop.com privacy policy that was archived on 2007-11-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071105212621id_/http%3A//sendloop.com/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sendloop.com privacy policy that was archived on 2008-04-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080403025406id_/http%3A//www.sendloop.com/privacy_policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 		<title>Sendloop - The Easiest and Most Professional Newsletter Sending Service</title>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 		<style type="text/css" media="all">@import "/css/all.css";</style>
-		<!--[if lt IE 7]><link rel="stylesheet" type="text/css" href="/css/ie.css" media="screen"/><![endif]-->
 
 		<link rel="shortcut icon" href="/favicon.ico">
 		
 		<link rel="alternate" type="application/rss+xml" title="Sendloop Blog" href="http://feeds.feedburner.com/SendloopBlog">
 	</head>
+
 	<body>
 		<!--header start-->
 		<div id="header">
 			<div class="inner">
 				<strong class="logo"><a href="/">sendloop</a></strong>
-				<a class="sign-up" href="/signup.php">Sign up</a>
-				<p class="phone">+1 (718) 395 2487</p>
 				<!--main navigation start-->
 				<ul>
-					<li><a href="/index.php">Home</a></li>
-					<li><a href="/feature_tour.php">Features</a></li>
-					<li><a href="/faq.php">FAQ</a></li>
-					<li><a href="/help/">Help</a></li>
+					<li><a href="/feature_tour.php">Feature Tour</a></li>
+					<li><a href="/pricing.php">Pricing</a></li>
 					<li><a href="/blog/">Blog</a></li>
-					<li><a href="/contact.php">Contact</a></li>
+					<li><a href="/help/">Help / FAQs</a></li>
+					<li><a href="/community/">Community</a></li>
+					<li><a href="/contact.php">Contact Us</a></li>
 									</ul>
 				<!--main navigation end-->
 			</div>
@@ -89,11 +87,7 @@
 					</div>
 					<!--seo block end || right block start-->
 										<div class="right-block">
-												<div class="signup-box">
-							<a href="/signup.php">Sign up for a free account</a>
-							<p>You’ll be up and running Sendloop in less then 30 seconds. And to help get you started we even give you 50 emails to send a month - <em>for free!</em></p>
-						</div>
-						<div class="features-box">
+												<div class="features-box">
 							<div class="head">
 								<strong>Plus many other features...</strong>
 							</div>
@@ -103,11 +97,10 @@
 								<li>Start sending in minutes</li>
 								<li>Excellent cost-to-feature ratio</li>
 								<li>Unlimited number of subscribers</li>
-								<li>Credit transfer to the next month</li>
 								<li>Excellent support</li>
-								<li>Much more...</li>
+								<li><a href="/feature_tour.php">Much more...</a></li>
 							</ul>
-							<p>Feel free to <a href="#">contact us</a> to learn more.</p>
+							<p>Feel free to <a href="/contact.php">contact us</a> to learn more.</p>
 						</div>
 						<div class="cite-box">
 							<h3>Read what some of our users think:</h3>
@@ -133,28 +126,31 @@
 					<li><a href="/termsofuse.php">Terms of Use</a></li>
 					<li><a href="/privacy_policy.php">Privacy Policy</a></li>
 					<li><a href="/antispam_policy.php">Anti-Spam Policy</a></li>
+					<li><a href="/developers">Developers</a></li>
 					<li><a href="/contact.php">Contact Us</a></li>
 				</ul>
-				<p>©2007 Copyright <a href="http://www.octeth.com/" target="_blank">Octeth</a>. All rights reserved.</p>
+				<p>©2008 Copyright <a href="http://www.octeth.com/" target="_blank">Octeth</a>. All rights reserved.</p>
 			</div>
 			<div class="right">
-				<form method="post" action="http://www.sendloop.com/newsletter/subscribe.php" style="margin: 0px; padding: 0px;">
-					<input type="submit" name="Subscribe" value="Submit" class="type-submit">
-					<input type="text" name="FormValue_Email" value="Sign up here for Sendloop news" class="type-text" onblur="this.value = (this.value == '' ? 'Sign up here for Sendloop news' : this.value);" onfocus="this.value='';"> 
-		     		<input type="hidden" name="FormValue_MailListIDs[]" value="1">
-					<input type="hidden" name="FormValue_SuccessScreenID" value="NQ%3D%3D">
-					<input type="hidden" name="FormValue_FailureScreenID" value="NQ%3D%3D">
-					<input type="hidden" name="FormValue_CustomFieldIDs" value="">
+				<form action="http://sendloop.sendloop.com/subscribe.php" method="post" style="margin: 0px; padding: 0px;">
+					<input type="submit" name="FormButton_Subscribe" value="Subscribe" id="FormButton_Subscribe" class="type-submit">
+					<input type="text" name="FormValue_Fields[EmailAddress]" value="Sign up here for Sendloop news" class="type-text" onblur="this.value = (this.value == '' ? 'Sign up here for Sendloop news' : this.value);" onfocus="this.value='';"> 
+					<input type="hidden" name="FormValue_ListID" value="16" id="FormValue_ListID">
+					<input type="hidden" name="FormValue_APIKey" value="8ec66c3c1b7d52f1216fda4bf3a8a9cb" id="FormValue_APIKey">
+					<input type="hidden" name="FormValue_Command" value="Subscriber.Add" id="FormValue_Command">
 				</form>
 			</div>
 		</div>
 		<!--footer end-->
 
-		<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-		</script>
 		<script type="text/javascript">
-		_uacct = "UA-220287-10";
-		urchinTracker();
+		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+		</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+		<script type="text/javascript">
+		var pageTracker = _gat._getTracker("UA-220287-10");
+		pageTracker._initData();
+		pageTracker._trackPageview();
 		</script>
 
 	
