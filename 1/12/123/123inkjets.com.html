@@ -1,11 +1,12 @@
-<!--The following is the downloaded HTML source of the 123inkjets.com privacy policy that was archived on 2007-12-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071211140149id_/http%3A//www.123inkjets.com/cs/policies_privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 123inkjets.com privacy policy that was archived on 2008-04-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080403214903id_/http%3A//www.123inkjets.com/cs/policies_privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head><title>123inkjets.com - Your Privacy Rights</title>                                                                                                                                                                                                                             
         <link rel="icon" href="/favicon.ico" type="image/x-icon">                                                                                                                                                           
         <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
         <link rel="stylesheet" href="/cs/css/css.css" type="text/css">
-        <link rel="stylesheet" href="/js/static.css" type="text/css">
+        <link rel="stylesheet" href="/js/static.css" type="text/css"><meta name="verify-v1" content="v33Vhr01uhALE3X1mGyNoOWRnRRhxKUIcz4saL/SQb0=">
+
         <meta name="description" content="123InkJets offers a great discount on printer ink cartridges, laser toners, ink jet refill kits, ribbons, inkjet cartridges for HP, Lexmark, Epson, Canon, Brother, Dell, and more.">
         <meta name="keywords" content="ink cartridges,printer ink,inkjet cartridges,printer ink cartridges,printer toners,laser toners,inkjet printer cartridges,lexmark ink cartridges,epson,canon,brother,dell,hp ink cartridges">
         <meta name="robots" content="NOYDIR">
@@ -31,9 +32,60 @@ function escapeFrames(){
     }
 }
 </script>
+	<script src="/js/yui/yahoo/yahoo-min.js"></script>
+	<script src="/js/yui/dom/dom-min.js"></script>
+	<script src="/js/yui/event/event-min.js"></script>
+	<script src="/js/yui/logger/logger-min.js"></script>
+	<script src="/js/triple_combo.js" type="text/javascript"></script>
 
-</head> <body bgcolor="#FFFFFF" marginheight="0" marginwidth="0" topmargin="0" leftmargin="0" onload="escapeFrames();">
+<script type="text/javascript">
+	YAHOO.util.Event.addListener('manufacturers','change',mfg_callback);
+	YAHOO.util.Event.addListener('printers','change',prt_callback);
+	YAHOO.util.Event.addListener('cartridges','change',crt_callback);
+
+	YAHOO.util.Event.onDOMReady(populate_manufacturers);
+	//YAHOO.util.Event.onDOMReady(init_hoverlay);
+	init_hoverlay();
+	//var myLogReader = new YAHOO.widget.LogReader('logwindow'); 
+
+	var hoverlay;
+	var hoverlaybk;
+	function enter() {
+		//YAHOO.log('enter');
+		hoverlay = document.getElementById("hoverlay");
+		hoverlaybk = document.getElementById("hoverlaybk");
+		hoverlay.style.display = "block";
+		hoverlaybk.style.display = "block";
+		var	pos = YAHOO.util.Dom.getXY('popit')
+		//YAHOO.log('pos is ' + pos[0] + '|' + pos[1]);
+		hoverlay = document.getElementById("hoverlay");
+		YAHOO.util.Dom.setXY('hoverlay', pos);
+	}
+
+	function exit() {
+		//YAHOO.log('exit');
+		//YAHOO.log('fromelement ' + e.clientX);
+		hoverlay.style.display = "none";
+		hoverlaybk.style.display = "none";
+	}
+	
+	function init_hoverlay() {
+		if (!YAHOO.util.Event.addListener('popit','click',enter)) {
+		//if (!YAHOO.util.Event.addListener('popit','click',enter)) {
+			//YAHOO.log('error with listener','error');
+		} else {
+			//YAHOO.log('alls well','error');
+		}
+
+		//YAHOO.util.Event.addListener('hoverlay','mouseout',exit);
+		//elemf = document.getElementById("popit");
+		//elemf.onmouseenter = enter;
+	}
+</script>
+
+</head> <body bgcolor="#FFFFFF" marginheight="0" marginwidth="0" topmargin="0" leftmargin="0" onload="escapeFrames();"><div id="hoverlaybk" style="display:none;top:0px;left:0px;width:100%;height:100%;position:absolute;z-index:0;background-color:#fff;opacity:0.4;filter:alpha(opacity=40);">&nbsp;</div>
 	<!-- MAIN header area -->
+
 <table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#699bed" background="http://cdn.123inkjets.com/images/topnav/header_bg_1.gif">
   <tbody><tr>
     
@@ -55,7 +107,7 @@ function escapeFrames(){
 	<tr width="100%"><td width="215" align="center" valign="top" style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; font-weight: bold; font-style:italic; color: #1c3463;">Inkjet Cartridges, Toner, &amp; More!</td><td colspan'3'=""><img src="images/spacer.gif" height="15" width="30"></td></tr> 
 
 	<tr>
-	<td></td><td></td><td></td><td height="1" width="100%" align="center"><img src="http://cdn.123inkjets.com/images/spacer.gif" height="1" width="100%" border="0" alt="inkjet cartridge printer"></td></tr>
+	<td></td><td></td><td></td><td height="1" width="100%" align="center"><b class="white">deleted</b></td></tr>
   
 </tbody></table>
 <map name="linkMap">
@@ -144,46 +196,49 @@ function escapeFrames(){
 	<tr>
 		<td width="100%" height="24" align="center" valign="middle" class="subNav" bgcolor="#003196" style="color: #F1f1f1;">
 		</td>
-	</tr>
-<tr>
-  <td rowspan="10" width="100%" align="center" height="1" background="http://cdn.123inkjets.com/images/topnav/search_bg.gif"><table align="center" width="100%" border="0" cellspacing="0" cellpadding="0">
-	
-		<form method="get" action="/bmsearch.php" name="product_search"></form>
-      <tbody><tr>
-	  <td height="43" width="10%"><img src="/images/spacer.gif" alt="" border="0" height="1" width="5"></td>
-        <td width="165" rowspan="2" valign="top" align="right" background="/images/topnav/search_bg_full.gif">
-		<table align="right" width="100%" border="0" cellpadding="0" cellspacing="0">
-          <tbody><tr>
-            <td width="171" height="63" align="right" valign="top"><img src="/images/topnav/search_promo_00.gif" alt="search inkjet cartridges" width="165" height="63" border="0"></td>
-          </tr>
-        </tbody></table></td>
-    <!--<td width='5'><img src='/images/spacer.gif' alt='' border='0' height='1' width='5'></td> -->
-        <td width="11%"><input type="text" name="q" id="txtQuestionSearch" autocomplete="off" size="25" maxlength="100" value="&nbsp;»Enter SEARCH Here«" onfocus="this.value=''"><br></td>
-		<!--<td><img src='/images/spacer.gif' alt='' border='0' height='1' width='5'></td> -->      
-        <td width="50" align="left"><a onclick="javascript:document.product_search.submit();" onmouseover="imageGoButton.src='/images/topnav/go_over.gif';" onmouseout="imageGoButton.src='/images/topnav/go.gif';"><img src="/images/spacer.gif" alt="" border="0" height="1" width="5"><img id="imageGoButton" src="/images/topnav/go.gif" border="0" alt="Search 123inkjets.com"></a></td>
-        
-        <td width="150" align="right" valign="top"><a href="/cs/shipping_methodscosts.html"><img src="/images/topnav/shipping_free.gif" alt="Free Shipping" width="130" height="40" border="0"></a></td>
-        
-        <td width="1%"><img src="/images/spacer.gif" height="10" width="20"></td>
-        <td width="180" valign="top" align="left"><a href="/cs/shipping_oneyear.html"><img src="/images/topnav/guarantee_1year.gif" width="175" height="40" border="0"></a></td>
-        <td width="3%"><img src="/images/spacer.gif" height="10" width="20"></td>
-        <td width="10%" align="left">
-		<!-- START SCANALERT CODE-->
-            <a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.123inkjets.com"><img width="115" height="30" border="0" src="https://images.scanalert.com/meter/survey/www.123inkjets.com/32.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying prohibited by law - hacker safe is a trademark of scanalert'); return false;"></a></td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <!-- END SCANALERT CODE -->
-      </tr>
-    
-  <tr>
-    <td width="1%" bgcolor="#E1E1E0" background="/images/topnav/top_shadow.gif">&nbsp;</td>
-    <td colspan="12" background="/images/topnav/top_shadow.gif" bgcolor="#E1E1E0"><img src="/images/spacer.gif" height="20" width="100%"></td>
-    </tr>
-   </tbody></table>
-  </td>
-  </tr>
-  
+	</tr>	<!-- BEGIN SEARCH BAR -->
+	<tr>
+		<td colpan="10" width="100%" align="center" height="1" bgcolor="#FFFFFF">
+		<table align="center" width="950" border="0" cellspacing="0" cellpadding="0">
+			<tbody><tr bgcolor="#FFFFFF" width="900">
+				<td width="30%" height="40" align="right"><img src="/images/topnav/find_ink.gif" alt="inkjet cartridges search" border="0" height="40" width="235"></td>
+				<td width="200" align="left" height="40" border="1" bordercolor="#009FFF"><!-- START 3 TIER DROPDOWN, OVERLAY  -->
+				<div id="popit"><img src="/images/topnav/popit_dropdowns.gif" height="20" width="150" alt="inkjet cartridge search"></div>
 
+				<div id="hoverlay" style="display: none;"><!--  COPY -->
+				<input type="button" onclick="javascript:exit()" value="&nbsp;X&nbsp;" class="overlayBtn">
+				<ul id="tripledd">
+					<img src="/images/spacer.gif" height="40" width="25" alt="inkjet cartridges">
+					<br>
+					<li><img src="/images/topnav/overlay_number1.gif">&nbsp;<strong>Select&nbsp;<select id="manufacturers">
+						<option>» Your Printer BRAND</option> <option value="Brother">BROTHER</option><option value="Canon">CANON</option><option value="Dell">DELL</option><option value="Epson">EPSON</option><option value="Lexmark">LEXMARK</option><option value="Hewlett Packard">HEWLETT PACKARD</option><option value="-------">-------</option><option value="AB Dick">AB Dick</option><option value="ABS">ABS</option><option value="ADP">ADP</option><option value="AMT">AMT</option><option value="AT&amp;T">AT&amp;T</option><option value="ATI">ATI</option><option value="Acer">Acer</option><option value="Acom Computer">Acom Computer</option><option value="Addmaster">Addmaster</option><option value="Addressease">Addressease</option><option value="Adler/Royal">Adler/Royal</option><option value="Admate">Admate</option><option value="Advanced Hi-Tech">Advanced Hi-Tech</option><option value="Advanced Tech Intl">Advanced Tech Intl</option><option value="Advanced Vision Res.">Advanced Vision Res.</option><option value="Aedex Corp">Aedex Corp</option><option value="Agfa">Agfa</option><option value="Aitell">Aitell</option><option value="Alcatel">Alcatel</option><option value="Allied Linotype">Allied Linotype</option><option value="Alps">Alps</option><option value="American Printing Tech">American Printing Tech</option><option value="Ampak Bus Sys">Ampak Bus Sys</option><option value="Amstrad">Amstrad</option><option value="Analog Tech Corp">Analog Tech Corp</option><option value="Anker Data Systems">Anker Data Systems</option><option value="Antex Data Systems">Antex Data Systems</option><option value="Anzac Comp Equip">Anzac Comp Equip</option><option value="Apollo">Apollo</option><option value="Apple">Apple</option><option value="Applied Comp Science">Applied Comp Science</option><option value="Apricot">Apricot</option><option value="Asker Intl">Asker Intl</option><option value="Aster">Aster</option><option value="Atlantic Res.">Atlantic Res.</option><option value="Autographix Corp.">Autographix Corp.</option><option value="Autologic">Autologic</option><option value="Axiohm">Axiohm</option><option value="Axis Communications">Axis Communications</option><option value="B&amp;E">B&amp;E</option><option value="BDS Computer Corp.">BDS Computer Corp.</option><option value="BDT">BDT</option><option value="BGL Tech">BGL Tech</option><option value="BMC International">BMC International</option><option value="Basic Four/Mai">Basic Four/Mai</option><option value="Bedford Comp Sys">Bedford Comp Sys</option><option value="Berthold">Berthold</option><option value="Bezier">Bezier</option><option value="Binder">Binder</option><option value="Birmy Graphics">Birmy Graphics</option><option value="Blaser">Blaser</option><option value="Bosch">Bosch</option><option value="Brandt">Brandt</option><option value="Bren">Bren</option><option value="British Telecom">British Telecom</option><option value="Brother">Brother</option><option value="Bryce Office Systems">Bryce Office Systems</option><option value="Burroughs/Unisys">Burroughs/Unisys</option><option value="Business Sys Intl">Business Sys Intl</option><option value="C.Itoh">C.Itoh</option><option value="CPT">CPT</option><option value="CRS">CRS</option><option value="Cal Abco">Cal Abco</option><option value="Calcomp">Calcomp</option><option value="Canon">Canon</option><option value="Cardentry">Cardentry</option><option value="Casio">Casio</option><option value="Chameleon Proofing Sys">Chameleon Proofing Sys</option><option value="Chelgraph Prod">Chelgraph Prod</option><option value="Chinon">Chinon</option><option value="Citizen">Citizen</option><option value="Colossal Graphics">Colossal Graphics</option><option value="Commodore">Commodore</option><option value="Compaq">Compaq</option><option value="Compuadd">Compuadd</option><option value="Compugraphic">Compugraphic</option><option value="Compuprint">Compuprint</option><option value="Computer Identics">Computer Identics</option><option value="Computer Language Res">Computer Language Res</option><option value="Comtech">Comtech</option><option value="Comterm">Comterm</option><option value="Concept Tech">Concept Tech</option><option value="Cordata Inc">Cordata Inc</option><option value="Corporate Data Science">Corporate Data Science</option><option value="Costar">Costar</option><option value="Craden">Craden</option><option value="Craig Assoc.">Craig Assoc.</option><option value="Cycomm">Cycomm</option><option value="DEC">DEC</option><option value="DED">DED</option><option value="DH Tech">DH Tech</option><option value="Daewoo">Daewoo</option><option value="Dassault">Dassault</option><option value="Data Card">Data Card</option><option value="Data General">Data General</option><option value="Data Techno">Data Techno</option><option value="Data Terminals Comm">Data Terminals Comm</option><option value="Datacap">Datacap</option><option value="Datamax">Datamax</option><option value="Datamega">Datamega</option><option value="Datapoint">Datapoint</option><option value="Dataprocess">Dataprocess</option><option value="Dataproducts">Dataproducts</option><option value="Datasec">Datasec</option><option value="Datasym">Datasym</option><option value="Datatech">Datatech</option><option value="Datatrol">Datatrol</option><option value="Dbtel">Dbtel</option><option value="Decision Data">Decision Data</option><option value="Dell">Dell</option><option value="Derex Inc">Derex Inc</option><option value="Detecto">Detecto</option><option value="Detewe">Detewe</option><option value="Develop">Develop</option><option value="Dex Bus Systems">Dex Bus Systems</option><option value="Diebold">Diebold</option><option value="Digital Associates">Digital Associates</option><option value="Digital Laser Sys">Digital Laser Sys</option><option value="ECI">ECI</option><option value="EGT">EGT</option><option value="ENC Electronics">ENC Electronics</option><option value="EPS">EPS</option><option value="Eicon">Eicon</option><option value="Eien">Eien</option><option value="Electronic Forms Sys">Electronic Forms Sys</option><option value="Elite Business Machines">Elite Business Machines</option><option value="Encad Computer">Encad Computer</option><option value="Epson">Epson</option><option value="Esper">Esper</option><option value="Esselte">Esselte</option><option value="Etc Peripherals">Etc Peripherals</option><option value="Everex">Everex</option><option value="Evolution Corp">Evolution Corp</option><option value="Extel">Extel</option><option value="Facit">Facit</option><option value="Fargo">Fargo</option><option value="Five Star">Five Star</option><option value="Fortis">Fortis</option><option value="Fortronics">Fortronics</option><option value="Four Phase">Four Phase</option><option value="Frostbyte JPS">Frostbyte JPS</option><option value="Fuji Systems/Kanematsu">Fuji Systems/Kanematsu</option><option value="Fujitsu">Fujitsu</option><option value="GBT">GBT</option><option value="GCC">GCC</option><option value="GD/G&amp;D">GD/G&amp;D</option><option value="GE">GE</option><option value="GSD Systems">GSD Systems</option><option value="GTC Tech">GTC Tech</option><option value="Genesis One">Genesis One</option><option value="Genicom">Genicom</option><option value="Gestetner Corp">Gestetner Corp</option><option value="Gilbarco">Gilbarco</option><option value="Godrej">Godrej</option><option value="Grundig">Grundig</option><option value="HOB">HOB</option><option value="HOH">HOH</option><option value="Hasi">Hasi</option><option value="Hasler">Hasler</option><option value="Hedman">Hedman</option><option value="Hennes Ltd">Hennes Ltd</option><option value="Hewlett Packard">Hewlett Packard</option><option value="Hobart">Hobart</option><option value="Honeywell/Bull">Honeywell/Bull</option><option value="Houston Instruments">Houston Instruments</option><option value="Huntress Corp">Huntress Corp</option><option value="Hypercom">Hypercom</option><option value="Hyundai Pinovia">Hyundai Pinovia</option><option value="IBM">IBM</option><option value="ICL">ICL</option><option value="IDS">IDS</option><option value="IJ Technologies">IJ Technologies</option><option value="IPC">IPC</option><option value="ITT Courier">ITT Courier</option><option value="Idissla Corp.">Idissla Corp.</option><option value="Imagen">Imagen</option><option value="Imprint Tech">Imprint Tech</option><option value="Informer Comp Term">Informer Comp Term</option><option value="Infotec">Infotec</option><option value="Integrex">Integrex</option><option value="Interface Systems">Interface Systems</option><option value="Interkom">Interkom</option><option value="Interleaf">Interleaf</option><option value="Itek Composition Sys">Itek Composition Sys</option><option value="Ithaca Per.">Ithaca Per.</option><option value="Iverson Tech">Iverson Tech</option><option value="JCM">JCM</option><option value="JPS">JPS</option><option value="JRL Systems">JRL Systems</option><option value="Jay">Jay</option><option value="Kidron">Kidron</option><option value="Kingtron">Kingtron</option><option value="Kodak">Kodak</option><option value="Konic Electric">Konic Electric</option><option value="Konica">Konica</option><option value="Kowin">Kowin</option><option value="Krone">Krone</option><option value="Lanier">Lanier</option><option value="Laser">Laser</option><option value="Laser Barcode Syst">Laser Barcode Syst</option><option value="Laser Comp">Laser Comp</option><option value="Laser Connection">Laser Connection</option><option value="Lasermaster">Lasermaster</option><option value="Lasersmith">Lasersmith</option><option value="Lathem">Lathem</option><option value="Leading Edge">Leading Edge</option><option value="Lee Data">Lee Data</option><option value="Legend">Legend</option><option value="Lexmark">Lexmark</option><option value="Linotype">Linotype</option><option value="Lipman">Lipman</option><option value="Lloyds">Lloyds</option><option value="Logitec">Logitec</option><option value="M&amp;S">M&amp;S</option><option value="MPI">MPI</option><option value="Magnetec">Magnetec</option><option value="Management Graphics Mgi">Management Graphics Mgi</option><option value="Marcan">Marcan</option><option value="Matsushita">Matsushita</option><option value="Maverick">Maverick</option><option value="Memorex">Memorex</option><option value="Memotech">Memotech</option><option value="Mentor Graphics">Mentor Graphics</option><option value="Meonic">Meonic</option><option value="Metaphor Comp Sys">Metaphor Comp Sys</option><option value="Metronix">Metronix</option><option value="Microplex">Microplex</option><option value="Micros">Micros</option><option value="Miltope">Miltope</option><option value="Mimaki">Mimaki</option><option value="Minolta">Minolta</option><option value="Mita/Kyocera">Mita/Kyocera</option><option value="Mitac Lsd">Mitac Lsd</option><option value="Mitek Systems">Mitek Systems</option><option value="Mitsuba">Mitsuba</option><option value="Mohawk">Mohawk</option><option value="Monroe">Monroe</option><option value="Moore Bus Forms">Moore Bus Forms</option><option value="Motorola Comp Sys">Motorola Comp Sys</option><option value="Murata">Murata</option><option value="Mutoh">Mutoh</option><option value="NBI">NBI</option><option value="NCR">NCR</option><option value="NEC">NEC</option><option value="Nabanco">Nabanco</option><option value="Nakajima">Nakajima</option><option value="Nasco">Nasco</option><option value="Nashuatec">Nashuatec</option><option value="National Televar">National Televar</option><option value="Neopost">Neopost</option><option value="Newgen Sys.">Newgen Sys.</option><option value="Next Comp">Next Comp</option><option value="Nikko">Nikko</option><option value="Nippon Primex">Nippon Primex</option><option value="Nixdorf">Nixdorf</option><option value="Nokia">Nokia</option><option value="Norand">Norand</option><option value="Norsk Data">Norsk Data</option><option value="North Atlantic">North Atlantic</option><option value="North Star">North Star</option><option value="Northern Telecom">Northern Telecom</option><option value="OCE">OCE</option><option value="Oasys">Oasys</option><option value="Octave Sys">Octave Sys</option><option value="Okidata">Okidata</option><option value="Olivetti">Olivetti</option><option value="Olympia">Olympia</option><option value="Omnifax">Omnifax</option><option value="Omniprint">Omniprint</option><option value="Omron">Omron</option><option value="Oneil Electronic">Oneil Electronic</option><option value="PC&amp;#39s LTD Printersystems">PC&amp;#39s LTD Printersystems</option><option value="Pacific Data">Pacific Data</option><option value="Pacific Semi.">Pacific Semi.</option><option value="Packard Bell">Packard Bell</option><option value="Panasonic">Panasonic</option><option value="Par MicroSystems">Par MicroSystems</option><option value="Perq Systems">Perq Systems</option><option value="Personal Comp">Personal Comp</option><option value="Personal Micro">Personal Micro</option><option value="Philips">Philips</option><option value="Pitney Bowes">Pitney Bowes</option><option value="Pixel">Pixel</option><option value="Posiflex">Posiflex</option><option value="Prepress Solutions">Prepress Solutions</option><option value="Prime Computer">Prime Computer</option><option value="Primera Tech">Primera Tech</option><option value="Printec">Printec</option><option value="Printer Systems">Printer Systems</option><option value="Printer Works">Printer Works</option><option value="Printers Plus">Printers Plus</option><option value="Privileg">Privileg</option><option value="QMS">QMS</option><option value="Qantel">Qantel</option><option value="Quantum">Quantum</option><option value="Quen Data">Quen Data</option><option value="R2D2">R2D2</option><option value="RES Cashentry">RES Cashentry</option><option value="Radio Shack">Radio Shack</option><option value="Raster Dev.">Raster Dev.</option><option value="Remanco">Remanco</option><option value="Rena">Rena</option><option value="Rex Rotary">Rex Rotary</option><option value="Ricoh">Ricoh</option><option value="Ricomac">Ricomac</option><option value="Rise Tech">Rise Tech</option><option value="Roland">Roland</option><option value="Royal">Royal</option><option value="Royal Copystar">Royal Copystar</option><option value="Rusco Elec">Rusco Elec</option><option value="SASI">SASI</option><option value="SRS Imaging">SRS Imaging</option><option value="Sagem">Sagem</option><option value="Samsung">Samsung</option><option value="Sanyo">Sanyo</option><option value="Savin">Savin</option><option value="Scan-Code">Scan-Code</option><option value="Scanset">Scanset</option><option value="Sears">Sears</option><option value="Selex">Selex</option><option value="Sharp">Sharp</option><option value="Shinsu">Shinsu</option><option value="Shinwa">Shinwa</option><option value="Siemens">Siemens</option><option value="Sony">Sony</option><option value="Spec. Printing Sol.">Spec. Printing Sol.</option><option value="Standard Register">Standard Register</option><option value="Star Micronics">Star Micronics</option><option value="Stielow">Stielow</option><option value="Summagraphics">Summagraphics</option><option value="Summit Software Corp">Summit Software Corp</option><option value="Sun Microsystems">Sun Microsystems</option><option value="Super 5">Super 5</option><option value="Sweda">Sweda</option><option value="Swintec">Swintec</option><option value="Syntrex">Syntrex</option><option value="Systex">Systex</option><option value="T/R Systems">T/R Systems</option><option value="TAB">TAB</option><option value="TEC">TEC</option><option value="Talaris Systems">Talaris Systems</option><option value="Tally/Mannesmann">Tally/Mannesmann</option><option value="TallyGenicom">TallyGenicom</option><option value="Tandberg">Tandberg</option><option value="Tandem">Tandem</option><option value="Tegra">Tegra</option><option value="Teknika">Teknika</option><option value="Tektronix">Tektronix</option><option value="Telecheck">Telecheck</option><option value="Telekom">Telekom</option><option value="Telenorma">Telenorma</option><option value="Telex">Telex</option><option value="Telxon Corp">Telxon Corp</option><option value="Texas Instruments">Texas Instruments</option><option value="Texet">Texet</option><option value="Tidel">Tidel</option><option value="Tidemark">Tidemark</option><option value="Timex">Timex</option><option value="Toshiba">Toshiba</option><option value="Towa">Towa</option><option value="Transact">Transact</option><option value="Tredia">Tredia</option><option value="Triad">Triad</option><option value="Tricom">Tricom</option><option value="Trintech">Trintech</option><option value="Tripod">Tripod</option><option value="Triton">Triton</option><option value="Triumph Adler">Triumph Adler</option><option value="True Tech">True Tech</option><option value="Tymshare">Tymshare</option><option value="U.S. Laser Corp">U.S. Laser Corp</option><option value="Unidot Sys">Unidot Sys</option><option value="Unisys">Unisys</option><option value="Univac">Univac</option><option value="Uniwell">Uniwell</option><option value="Utax">Utax</option><option value="Valhalla Inc">Valhalla Inc</option><option value="Varityper">Varityper</option><option value="Verifone">Verifone</option><option value="Victor">Victor</option><option value="View Tech">View Tech</option><option value="Wang">Wang</option><option value="Welco">Welco</option><option value="Westrex Intl.">Westrex Intl.</option><option value="Woojin">Woojin</option><option value="World Comp Corp">World Comp Corp</option><option value="XLI Corp">XLI Corp</option><option value="XPoint Corp">XPoint Corp</option><option value="Xante Corp">Xante Corp</option><option value="Xerox">Xerox</option><option value="Xyvision">Xyvision</option><option value="Yrel Data">Yrel Data</option><option value="Zenith">Zenith</option></select></strong></li><strong>
+					<li><img src="/images/topnav/overlay_number2.gif">&nbsp;<strong>Select&nbsp;<select id="printers">
+						<option>» Your Printer SERIES</option> </select></strong></li><strong>
+					<li><img src="/images/topnav/overlay_number3.gif">&nbsp;<strong>Select&nbsp;<select id="cartridges">
+						<option>» Your Printer MODEL</option> </select></strong></li><strong>
+				</strong></strong></strong></ul><strong><strong><strong>
+				 <!--  END COPY  -->
+				</strong></strong></strong></div><strong><strong><strong>
+				<!-- END 3 TIER DROPDOWN, OVERLAY  --></strong></strong></strong></td>
+				<td width="5%" align="center"><img src="/images/topnav/or.gif" alt="printer ink cartridge search"></td>
+				<td width="120" align="right"><img src="/images/topnav/search_ink.gif" alt="printer ink cartridges"></td>
+				<form method="get" action="/bmsearch.php" name="product_search"></form>
+				
+				
+				<td align="left" width="200" valign="middle"><input type="text" name="q" id="txtQuestionSearch" autocomplete="off" size="25" maxlength="100" value="&nbsp;»Enter SEARCH Here«" onfocus="this.value=''" style="vertical-align: middle; padding-top: 2px;"></td>
+				<td width="50" min-width="50" align="left" padding="3"><a onclick="javascript:document.product_search.submit();" onmouseover="imageGoButton.src='/images/topnav/go2_over.gif';" onmouseout="imageGoButton.src='/images/topnav/go2.gif';"><img src="/images/spacer.gif" alt="inkjet cartridges" border="0" height="1" width="3"><img id="imageGoButton" src="/images/topnav/go2.gif" border="0" alt="printer ink cartridge"></a></td>
+				<td width="20%" align="left"><!-- START SCANALERT CODE--> <img src="/images/spacer.gif" width="15" height="10"><a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.123inkjets.com"><img width="115" height="30" border="0" src="https://images.scanalert.com/meter/survey/www.123inkjets.com/32.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying prohibited by law - hacker safe is a trademark of scanalert'); return false;"></a></td>
+
+				<!-- END SCANALERT CODE -->
+			</tr>
+			
+		</tbody></table>
+		</td>
+	</tr>
+	<tr width="900" height="5" bgcolor="#FFFFFF">
+		<td colspan="10"><img src="/images/spacer.gif" width="900" height="5"></td>
+	</tr>
+	<!-- END SEARCH BAR -->
 			
 			</tbody></table>
 		
@@ -219,7 +274,9 @@ function escapeFrames(){
    									<td><img src="images/text_customerAssistance.gif" alt="" width="276" height="24" border="0"></td>
    								</tr>
    								<tr>
-   									<td align="center"><img src="images/newHours.gif" alt="" width="62" height="43" border="0" align="left">Monday-Friday     6am - 6pm PT<br>Saturday               9am - 5pm PT<br><strong>(888) 465-7765</strong></td>
+   									<td align="center"><img src="images/newHours.gif" alt="" width="62" height="43" border="0" align="left">Monday-Friday     6am - 5pm PT
+   									<br>
+								    <strong>(888) 465-7765</strong></td>
    								</tr>
    							</tbody></table>
    					</td></tr>
@@ -620,7 +677,7 @@ hbx.hc4="";//CUSTOM 4
 <!--END WEBSIDESTORY CODE-->
 
 <!--// Execution took 0 seconds //--> 
-<!-- 10.1.10.9  www.123inkjets.com SID=eofd8n1h8h5lk9trdcdi28cqf2//-->
+<!-- 10.1.10.9  www.123inkjets.com SID=7a0n7tankmc2qlclaoaov4qd65//-->
 
 <script language="Javascript">
 var e = document.getElementsByTagName("a");
