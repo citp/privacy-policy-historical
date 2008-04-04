@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the komli.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217110355id_/http%3A//www.komli.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the komli.com privacy policy that was archived on 2008-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080404222001id_/http%3A//www.komli.com/privacy.php) for the most accurate reproduction.*
 
-# Komli : Terms and Conditions
+# Terms and Conditions
 
 Please read this policy to understand what information Komli, Inc. (hereafter referred to as "Komli"), a Delaware Corporation, collects, how the information is used, and what choices you have regarding collection and use of your information when using Komli.
 
