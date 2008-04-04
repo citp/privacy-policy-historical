@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sothebysrealty.ca privacy policy that was archived on 2007-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071216001612id_/http%3A//www.sothebysrealty.ca/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sothebysrealty.ca privacy policy that was archived on 2008-04-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080405014801id_/http%3A//www.sothebysrealty.ca/privacy_policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 <title>Sotheby's International Realty | Canada Luxury Real Estate, Residential, Recreational, Commercial, Land, Development Services</title>
@@ -16,12 +16,7 @@
 
 <link rel="stylesheet" href="/styles/sotheby1.css" type="text/css">
 <script language="javascript" src="/Scripts/safemail.js"></script>
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
-<script type="text/javascript">
-_uacct = "UA-444182-2";
-urchinTracker();
-</script>
+
 
 <script language="JavaScript" type="text/JavaScript">
 <!--
@@ -70,7 +65,7 @@ background-color: #CFC48E;
 }
 
 #dropmenudiv a:hover{ /*hover background color*/
-background-color: F2ECBC;
+background-color: #F2ECBC;
 }
 
 #dropmenudiv a:link {color: 002249;text-decoration: none;} 
@@ -94,7 +89,7 @@ menu2[1]='<a href="/find_recreational.html">Unique & Recreational</a>'
 menu2[2]='<a href="/find_commercial.html">Commercial</a>'
 menu2[3]='<a href="/find_land.html">Land</a>'
 menu2[4]='<a href="/find_developments.html">Developments</a>'
-menu2[5]='<a href="http://mlsr.realtylink.org/mlsr_get/areaselect.cfm?cid=1006144">MLS Search</a>'
+menu2[5]='<a href="http://www.mls.ca/">MLS Search</a>'
 
 
 //Contents for menu SERVICES
@@ -123,13 +118,14 @@ menu4[8]='<a href="/auction_house.html">Sotheby\'s Auction House</a>'
 var menu5=new Array()
 menu5[0]='<a href="/profile_vancouver.html">Vancouver</a>'
 menu5[1]='<a href="/profile_westvan.html">West Vancouver</a>'
-menu5[2]='<a href="/profile_northvan.html">North Vancouver</a>'
-menu5[3]='<a href="/profile_victoria.html">Victoria</a>'
-menu5[4]='<a href="/profile_saltspring.html">Salt Spring Island</a>'
-menu5[5]='<a href="/profile_crescentbeach.html">Crescent Beach</a>'
-menu5[6]='<a href="/profile_whistler.html">Whistler</a>'
-menu5[7]='<a href="/profile_montreal.html">Montreal</a>'
-menu5[8]='<a href="/profile_toronto.html">Toronto</a>'
+menu5[2]='<a href="/profile_victoria.html">Victoria</a>'
+menu5[3]='<a href="/profile_saltspring.html">Salt Spring Island</a>'
+menu5[4]='<a href="/profile_crescentbeach.html">Crescent Beach</a>'
+menu5[5]='<a href="/profile_whistler.html">Whistler</a>'
+menu5[6]='<a href="/profile_montreal.html">Montreal</a>'
+menu5[7]='<a href="/profile_westmount.html">Westmount</a>'
+menu5[8]='<a href="/profile_tremblant.html">Mt. Tremblant</a>'
+menu5[9]='<a href="/profile_toronto.html">Toronto</a>'
 
 
 	
@@ -307,30 +303,47 @@ ar[2][4] = new Option("Whistler", "6");
 	// 8
 ar[3] = new Array();
 ar[3][0] = new Option("ALL ----------------------");
+ar[3][1] = new Option("South Gulf Islands", "18");
+ar[3][2] = new Option("North Gulf Islands", "17");
 	// 3
 ar[4] = new Array();
 ar[4][0] = new Option("ALL ----------------------");
 	// 4
 ar[5] = new Array();
 ar[5][0] = new Option("ALL ----------------------");
-ar[5][1] = new Option("Other", "10");
-ar[5][2] = new Option("Victoria", "9");
+ar[5][1] = new Option("North island", "20");
+ar[5][2] = new Option("Mid island", "19");
+ar[5][3] = new Option("Other", "10");
+ar[5][4] = new Option("Victoria and area", "9");
 	// 5
 ar[6] = new Array();
 ar[6][0] = new Option("ALL ----------------------");
 	// 6
 ar[7] = new Array();
 ar[7][0] = new Option("ALL ----------------------");
+ar[7][1] = new Option("South Cariboo/Thompson", "22");
 	// 7
 ar[8] = new Array();
 ar[8][0] = new Option("ALL ----------------------");
-ar[8][1] = new Option("Other", "16");
-ar[8][2] = new Option("Laurentians", "15");
-ar[8][3] = new Option("Eastern Townships", "14");
-ar[8][4] = new Option("Montreal", "13");
+ar[8][1] = new Option("Westmount", "23");
+ar[8][2] = new Option("Other", "16");
+ar[8][3] = new Option("Laurentians", "15");
+ar[8][4] = new Option("Eastern Townships", "14");
+ar[8][5] = new Option("Montreal", "13");
 	// 9
 ar[9] = new Array();
 ar[9][0] = new Option("ALL ----------------------");
+ar[9][1] = new Option("Muskoka", "26");
+ar[9][2] = new Option("Oakville", "25");
+ar[9][3] = new Option("Toronto", "24");
+	// 12
+ar[10] = new Array();
+ar[10][0] = new Option("ALL ----------------------");
+ar[10][1] = new Option("Shushwap/Revelstoke", "31");
+ar[10][2] = new Option("Vernon", "30");
+ar[10][3] = new Option("Kamloops and area", "29");
+ar[10][4] = new Option("Penticton", "28");
+ar[10][5] = new Option("Kelowna", "27");
 
 function relate(form) {
   var options = form.location_id.options;
@@ -529,7 +542,16 @@ function relate(form) {
 <!-- END CENTER AREA HERE -->
 </td></tr>
 <tr>
-<td height="1" background="http://www.sothebysrealty.ca/graphics/bg.gif"><img src="/graphics/bottbar2.gif" alt="Sotheby's International Realty Canada" width="760" height="25" border="0" usemap="#bottnavmap"></td>
+<td align="center">
+<ul id="bottombar"><div class="bottombartext" align="center"><li><a style="color:#FFFFFF;" href="/find_vancouver.html">Vancouver</a></li>
+          <span class="bottombarpipe">|</span>
+          <li><a style="color:#FFFFFF;" href="/find_westvancouver.html">West Vancouver</a></li><span class="bottombarpipe">|</span><li><a style="color:#FFFFFF;" href="/find_crescentbeach.html">Crescent Beach</a></li>
+          <span class="bottombarpipe">|</span><li><a style="color:#FFFFFF;" href="/find_whistler.html">Whistler</a></li><span class="bottombarpipe">|</span><li><a style="color:#FFFFFF;" href="/find_victoria.html">Victoria</a></li>
+          <span class="bottombarpipe">|</span><li><a style="color:#FFFFFF;" href="/find_saltspring.html">Salt Spring</a><span class="bottombarpipe">|</span></li><li><a style="color:#FFFFFF;" href="/find_montreal.html">Montreal</a></li><span class="bottombarpipe">|</span><li><a style="color:#FFFFFF;" href="/find_tremblant.html">Mt. Tremblant</a></li>
+          <span class="bottombarpipe">|</span>
+          <li><a style="color:#FFFFFF;" href="/find_toronto.html">Toronto</a></li>
+</div></ul>
+</td>
 </tr>
 <tr>
       <td height="40" align="center" valign="middle" bgcolor="#000000" class="htmlnav"><br>
@@ -538,28 +560,25 @@ Sotheby's International Realty® is a registered trademark licensed to Sotheby's
 </tr>
 				
 				
-			</tbody></table>
-  <div id="topnav"><a href="http://www.sothebysrealty.ca/intranet/login.html"><img src="http://www.sothebysrealty.ca/graphics/topnav/topnav_5.gif" alt="Realtor Login" name="Realtorlogin" width="156" height="23" border="0" id="register2" onmouseover="MM_swapImage('Realtorlogin','','graphics/topnav/topnav_5o.gif',1)" onmouseout="MM_swapImgRestore()"></a><a href="http://www.mylasso.com/Signups/sothebys_corporate_signup.php" target="_blank"><img src="http://www.sothebysrealty.ca/graphics/topnav/topnav_4.gif" alt="Regsiter with Sotheby's International Realty Canada" name="register" width="156" height="23" border="0" id="register" onmouseover="MM_swapImage('register','','graphics/topnav/topnav_4o.gif',1)" onmouseout="MM_swapImgRestore()"></a></div>
+  </tbody></table>
+  <div id="topnav"><a href="http://www.sothebysrealty.ca/login.html"><img src="http://www.sothebysrealty.ca/graphics/topnav/topnav_5.gif" alt="Realtor Login" name="Realtorlogin" width="156" height="23" border="0" id="register2" onmouseover="MM_swapImage('Realtorlogin','','graphics/topnav/topnav_5o.gif',1)" onmouseout="MM_swapImgRestore()"></a><a href="http://www.mylasso.com/Signups/sothebys_corporate_signup.php" target="_blank"><img src="http://www.sothebysrealty.ca/graphics/topnav/topnav_4.gif" alt="Regsiter with Sotheby's International Realty Canada" name="register" width="156" height="23" border="0" id="register" onmouseover="MM_swapImage('register','','graphics/topnav/topnav_4o.gif',1)" onmouseout="MM_swapImgRestore()"></a></div>
 
 
-<map name="bottnavmap" id="bottnavmap">
-<area shape="rect" coords="519,3,589,23" href="/associates_montreal.html" alt="Montreal">
-<area shape="rect" coords="442,2,516,21" href="/associates_victoria.html" alt="Salt Spring">
-<area shape="rect" coords="375,3,438,21" href="/associates_victoria.html" alt="Victoria">
-<area shape="rect" coords="307,3,371,21" href="/associates_whistler.html" alt="Whistler">
-<area shape="rect" coords="202,2,306,22" href="/associates_cres.html" alt="Crescent Beach">
-<area shape="rect" coords="105,3,193,21" href="/associates_westvan.html" alt="West Vancouver">
-<area shape="rect" coords="18,3,92,21" href="/associates.html" alt="Vancouver">
-<area shape="rect" coords="675,0,734,23" href="/associates_toronto.html" alt="Toronto">
-<area shape="rect" coords="593,4,668,20" href="/associates_montreal.html#westmount" alt="Westmount">
-</map>
+
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
 </script>
+
+<script type="text/javascript">
+_uacct = "UA-444182-2";
+urchinTracker();
+</script>
+
 <script type="text/javascript">
 _uacct = "UA-1996875-1";
 urchinTracker();
 </script>
-	
+
+
 
 
 
