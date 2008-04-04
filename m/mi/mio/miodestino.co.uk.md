@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the miodestino.co.uk privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213060825id_/http%3A//www.miodestino.co.uk/boutique/page.php%3FxPage%3Dcompany.html%26sec%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miodestino.co.uk privacy policy that was archived on 2008-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080404232818id_/http%3A//www.miodestino.co.uk/boutique/page.php%3FxPage%3Dcompany.html%26sec%3DPrivacy) for the most accurate reproduction.*
 
-# Company Information - Mio Destino
+# 
 
 * * *
 
