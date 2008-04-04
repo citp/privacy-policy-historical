@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diabetesdaily.com privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219120854id_/http%3A//www.diabetesdaily.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diabetesdaily.com privacy policy that was archived on 2008-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080404192001id_/http%3A//www.diabetesdaily.com/privacy.php) for the most accurate reproduction.*
 
 # Diabetes Daily - Privacy Policy
 
