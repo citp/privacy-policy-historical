@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the mountainhardwear.com privacy policy that was archived on 2007-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071206015612id_/http%3A//www.mountainhardwear.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mountainhardwear.com privacy policy that was archived on 2008-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080404232739id_/http%3A//www.mountainhardwear.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Mountain Hardwear: Privacy Policy
-
-  
-
 
 _Last Updated: July 2007_
 
@@ -69,11 +66,6 @@ Mountain Hardwear uses non-personally identifiable information in any way that i
 
 Mountain Hardware, Inc.  
 Attn: Webmaster  
-4911 Central Avenue  
+1414 Harbour Way South  
+Ford Point, Suite 1005  
 Richmond, CA 94804
-    
-    
-    
-    
-    
-    
