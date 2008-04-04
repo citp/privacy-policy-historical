@@ -1,26 +1,24 @@
-> *The following text is extracted and transformed from the timeoutsydney.com.au privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213171010id_/http%3A//www.timeoutsydney.com.au/au/en/sydney/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timeoutsydney.com.au privacy policy that was archived on 2008-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080404152635id_/http%3A//www.timeoutsydney.com.au/Global/Privacy-Policy.aspx) for the most accurate reproduction.*
 
-# Time Out Sydney — Privacy policy
-
-## Privacy policy
+# Time Out Sydney - Privacy Policy
 
 TIME OUT SYDNEY WEBSITE PRIVACY STATEMENT  
-[ www.timeout.com/sydney](http://www.timeout.com/sydney) and [www.timeoutsydney.com.au](http://www.timeout.com/sydney)
+[www.timeout.com/sydney](http://www.timeout.com/sydney) and [www.timeoutsydney.com.au](http://www.timeout.com/sydney)
 
 Print & Digital Publishing Pty Ltd (ABN 50 125 441 812) trading as Time Out Sydney and its related and associated bodies corporate (us, we, our) promise to serve our audience with integrity and honesty. We have developed this privacy policy concerning your (you, your) personal information (Privacy Statement) which demonstrates our firm commitment to privacy and to disclose our information-gathering and disclosure practices for www.timeout.com/sydney and www.timeoutsydney.com.au (together, the Site). By visiting the Site, you are accepting the practices described in this Privacy Statement.
 
 This Privacy Statement has been developed in accordance with the Privacy Act 1988 (Cth) (Privacy Act). The Privacy Statement applies to the collection, storage, use and dissemination by us of your personal information. Access to this Site is conditional on your acceptance of the terms of this Privacy Statement.
 
-Although we will comply with this Privacy Statement in respect of information provided to us by persons under the age of 18 years, such persons must obtain the consent of a parent or guardian prior to using the Site and such parent or guardian will be responsible for appropriately supervising such person’s use of the Site.
+Although we will comply with this Privacy Statement in respect of information provided to us by persons under the age of 18 years, such persons must obtain the consent of a parent or guardian prior to using the Site and such parent or guardian will be responsible for appropriately supervising such person's use of the Site.
 
 **1\. Collecting personal information**  
 The information you provide to us is collected to enhance your use of the Site, to improve the Site, to process your competition entries, and to keep you informed of relevant upcoming events and activities. It is also collected to allow the functions and services offered on the Site to be provided to you. We will collect personal information directly from you where required, which may include your name, email address, gender and age.
 
 **2\. Cookies and Time Out**  
-We use cookies to track your use of our Site. This ensures that, for example, if you are a subscriber, you can roam freely within our subscriber-based Site without typing in a password to access each page. We do not track any of your activity as it relates to your individual movements throughout our Site, only as an aggregate of data in conjunction with users to our Site as a whole. Your movements are not tracked once you leave our Site. You should be able to configure your computer so that it disables “cookies” or does not accept them, however this may affect your ability to use all the functions contained on the Site.
+We use cookies to track your use of our Site. This ensures that, for example, if you are a subscriber, you can roam freely within our subscriber-based Site without typing in a password to access each page. We do not track any of your activity as it relates to your individual movements throughout our Site, only as an aggregate of data in conjunction with users to our Site as a whole. Your movements are not tracked once you leave our Site. You should be able to configure your computer so that it disables "cookies" or does not accept them, however this may affect your ability to use all the functions contained on the Site.
 
 Our Site uses ad servers (such as DoubleClick) to serve the advertisements that you see on pages of our Site (Advertisers). The Advertisers may use cookies to help target ads to you. To find out more about the use of cookies and the information-gathering practices and opt-out procedures of Advertisers please contact us (see below).  
-**  
+ **  
 3\. Use and disclosure of information**  
 We will not disclose information that personally identifies you to any third party other than as set out in this Privacy Statement.
 
