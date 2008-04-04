@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the otshot.net privacy policy that was archived on 2007-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071018215740id_/http%3A//www.otshot.net/1-privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the otshot.net privacy policy that was archived on 2008-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080404110651id_/http%3A//www.otshot.net/1-privacypolicy.htm) for the most accurate reproduction.*
 
 # Otshot.net - Privacy Policy
 
