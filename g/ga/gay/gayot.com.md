@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gayot.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212190806id_/http%3A//www.gayot.com/aboutus/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gayot.com privacy policy that was archived on 2008-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080405222541id_/http%3A//www.gayot.com/aboutus/privacy.html) for the most accurate reproduction.*
 
 # GAYOT.com Privacy Policy
 
@@ -6,10 +6,9 @@
 
 Maintaining your privacy—online and off—is of utmost importance to Gayot. This policy will tell you exactly what we will and won't do with the private, personal information you provide us. Please feel free to read it in full, but here is a summary: 
 
-  * Gayot does not share your personal information with anyone without your permission. 
-  * Gayot does not contract with third parties to share your personal information of any kind. 
+  * Gayot does not share your personal information with anyone without your permission.
   * Only you can choose to share your personal information with someone else. 
-  * Gayot does not collect billing nor credit card information online. All online book orders are processed by third party companies such as Amazon.com. 
+  * Gayot does not collect billing nor credit card information online. All online transactions are processed by third party companies. 
 
 
 
@@ -30,7 +29,22 @@ Your personal information is used only for demographic statistics and to display
 
 Note that Gayot will not send you any unsolicited information, including email, unless you have indicated your willingness to receive such information. Upon registration, new members will receive a Gayot newsletter. Members can unsubscribe to this newsletter at any time. 
 
+**Framed Sections of Our Site**  
+Gayot Publications maintains relationships with outside service providers for some of the products and services offered through our site. The information these providers   
+make available may be presented in a "framed" format, where the Gayot Publications border will surround the pages served by the service providers, or by directly linking   
+the user to the vendors' sites. Please be aware that any information you provide on those framed pages is provided directly to those service providers and is   
+subject to their security and privacy policies.
+
+**Finance Information**  
+Finance Information is used to transmit to third parties requests for vehicle financing. In the case of Purchase Request Information or Finance Information, we may forward your request information to a dealer or lender through another automotive referral service. Your submission of the request authorizes us to do this. Any Finance Information forwarded in this way becomes subject to the security and privacy policies that are posted on the websites of those referral services.  
+Similarly, Finance Information transmitted to a dealer, manufacturer, lender or fulfillment entity becomes the property of that dealer, manufacturer, lender or   
+fulfillment entity. The information is used to process your purchase request or financing application and to provide you with information about goods and services.   
+Any request to opt out of future dealer, lender, manufacturer or other third-party communications must be made directly to that third party. 
+
 **Security**  
+Gayot Publications understands the importance of security for our consumers. We use SSL (Secure Socket Layer) encryption technology to protect personal data such   
+as finance information during transmission.  
+  
 Personal information collected by Gayot is stored and maintained in secure operating environments that are not available to the public. Gayot does not sell or rent member information to anyone, although as discussed under the section on "Personal Information Utilization," certain demographic information is made available to other sites or advertisers on an aggregated basis. When we ask you for personal information, you are sharing that information with Gayot alone, unless it is specifically stated otherwise. We do not share personal information with any third parties unless we have belief that such action is necessary to: either conform to legal requirements, protect the rights of Gayot, or enforce the Gayot Terms of Service. Please be aware that Gayot advertisers or websites that have links on our site may collect personally identifiable information about you when you access their site or use their services. As stated below, the information practices of third-party websites are not covered by this privacy statement. 
 
 **Third Party Web Sites**   
