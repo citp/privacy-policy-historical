@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lalate.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229120024id_/http%3A//televisioninternet.com/late/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lalate.com privacy policy that was archived on 2008-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080405151630id_/http%3A//televisioninternet.com/late/privacy.htm) for the most accurate reproduction.*
 
 # lalate.com - the world's biggest site for latenight | celebrities parties, red carpet events, mansion, nightclubs, and more
 
