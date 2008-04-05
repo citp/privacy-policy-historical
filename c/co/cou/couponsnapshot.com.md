@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the couponsnapshot.com privacy policy that was archived on 2007-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071005150159id_/http%3A//couponsnapshot.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponsnapshot.com privacy policy that was archived on 2008-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080405151616id_/http%3A//www.couponsnapshot.com/private-policy-from-couponsnapshot.html) for the most accurate reproduction.*
 
-# Privacy Policy of couponsnapshot.com
+# Privacy Policy of using CouponSnapshot
 
 **Privacy Policy:**  
 Personal Data  
