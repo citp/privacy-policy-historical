@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bajaao.com privacy policy that was archived on 2007-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071009012557id_/http%3A//www.bajaao.com/privacy-policy-i-3.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bajaao.com privacy policy that was archived on 2008-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080405171828id_/http%3A//www.bajaao.com/privacy-policy-i-3.html) for the most accurate reproduction.*
 
 # Bajaao - India - Buy and Review Musical Instruments Online
 
