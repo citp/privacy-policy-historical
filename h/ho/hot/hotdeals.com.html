@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hotdeals.com privacy policy that was archived on 2007-12-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071205204853id_/http%3A//www.hotdeals.com/index5.cfm%3Fpage%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hotdeals.com privacy policy that was archived on 2008-04-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080405181308id_/http%3A//www.hotdeals.com/index5.cfm%3Fpage%3Dprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 <title>Hot Deals on Travel</title>
@@ -32,22 +32,24 @@
 						    <table cellpadding="0" cellspacing="0" border="0">
 									<tbody><tr>
 									  <td valign="top" width="1" height="100">
-									  <base target="top">
+									  
 <table>
 <tbody><tr>
 <td align="left">
 <img src="/images/new_logo.gif" width="248" height="67" border="0" usemap="#Map2"></td>
 <td><img src="/images/2.gif" border="0" usemap="#Map">
   <map name="Map">
-    <area shape="rect" coords="6,17,110,36" href="http://travel.hotdeals.com/index.jsp?locale=en_US&amp;isFlash=true&amp;pageName=condos&amp;currencyCode=USD&amp;isDetectFlash=false&amp;cid=42760&amp;isRedirect=true&amp;additionalDataString=vrBookingSource|index">
-    <area shape="rect" coords="126,18,232,35" href="http://travel.hotdeals.com/index.jsp;jsid=vxw6CSDx5I8nFbfyhUFqr?locale=en_US&amp;pageName=airSearch&amp;currencyCode=USD&amp;cid=42760&amp;additionalDataString=vrBookingSource|index&amp;advancedOptions=true">
-    <area shape="rect" coords="245,17,354,35" href="http://travel.hotdeals.com/index.jsp?locale=en_US&amp;pageName=hotSearch&amp;currencyCode=USD&amp;cid=42760&amp;additionalDataString=vrBookingSource|index">
-    <area shape="rect" coords="363,17,471,36" href="http://travel.hotdeals.com/index.jsp?locale=en_US&amp;pageName=carSearch&amp;currencyCode=USD&amp;cid=42760&amp;additionalDataString=vrBookingSource|index">
-    <area shape="rect" coords="483,16,589,35" href="http://www.hotdeals.com/cruises3.cfm">
+    <area shape="rect" coords="6,17,110,36" href="http://travel.hotdeals.com/index.jsp?locale=en_US&amp;isFlash=true&amp;pageName=condos&amp;currencyCode=USD&amp;isDetectFlash=false&amp;cid=42760&amp;isRedirect=true&amp;additionalDataString=vrBookingSource|index" target="_self">
+    
+	<area shape="rect" coords="126,18,232,35" href="http://travel.hotdeals.com/index.jsp;jsid=vxw6CSDx5I8nFbfyhUFqr?locale=en_US&amp;pageName=airSearch&amp;currencyCode=USD&amp;cid=42760&amp;additionalDataString=vrBookingSource|index&amp;advancedOptions=true" target="_top">
+    
+	<area shape="rect" coords="245,17,354,35" href="http://travel.hotdeals.com/index.jsp?locale=en_US&amp;pageName=hotSearch&amp;currencyCode=USD&amp;cid=42760&amp;additionalDataString=vrBookingSource|index" target="_top">
+    <area shape="rect" coords="363,17,471,36" href="http://travel.hotdeals.com/index.jsp?locale=en_US&amp;pageName=carSearch&amp;currencyCode=USD&amp;cid=42760&amp;additionalDataString=vrBookingSource|index" target="_self">
+    <area shape="rect" coords="483,16,589,35" href="http://www.hotdeals.com/cruises3.cfm" target="_self">
   </map></td>
 </tr>
 <tr>
-  <td align="left">
+  <td>
  <link href="/forms.css" rel="stylesheet" type="text/css">
 
  <!--<table align="center">
@@ -61,36 +63,58 @@
          <input type="submit" name="Submit" value="Sign Up" style="margin-left:25px;">
     </form>    </td>
   </tr>
-</table> --><script type="text/javascript">
+</table> -->
+<form method="post" action="http://www.drumbeats.com/form.php?form=5" id="frmSS5" onsubmit="return CheckForm5(this);">
+&nbsp;&nbsp;<input name="email" type="text" style="width:120px; background:#FFFFCC" value="Enter email address">
+ &nbsp;Format: <select style="background:#FFFFCC" name="format"><option value="h">HTML</option><option value="t">Text</option></select>
+ 
+<div align="right" style="margin-right:22px;"><strong>Free Newsletter</strong> <input align="right" type="submit" value="Subscribe"></div>
+</form>
+<script language="javascript">
 
-
-var emailfilter=/^\w+[\+\.\w-]*@([\w-]+\.)*\w+[\w-]*\.([a-z]{2,4}|\d+)$/i
-
-function checkmail(e){
-var returnval=emailfilter.test(e.value)
-if (returnval==false){
-alert("Please enter a valid email address.")
-e.select()
-}
-return returnval
-}
-
+			function CheckMultiple5(frm, name) {
+				for (var i=0; i < frm.length; i++)
+				{
+					fldObj = frm.elements[i];
+					fldId = fldObj.id;
+					if (fldId) {
+						var fieldnamecheck=fldObj.id.indexOf(name);
+						if (fieldnamecheck != -1) {
+							if (fldObj.checked) {
+								return true;
+							}
+						}
+					}
+				}
+				return false;
+			}
+		function CheckForm5(f) {
+			if (f.email.value == "") {
+				alert("Please enter your email address.");
+				f.email.focus();
+				return false;
+			}
+		
+						if (f.format.selectedIndex == -1) {
+							alert("Please choose a format to receive your email campaigns in");
+							f.format.focus();
+							return false;
+						}
+					
+				return true;
+			};
+		
 </script>
-
-<form name="form1" method="post" action="http://www.hotdeals.com/newsletterEmails/confirmLocation.cfm">
-<input name="email" type="text" style="width:248px; background:#FFFFCC" value="Enter email address"><br>
-Free Newsletter - Enter email address&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="submit" onclick="return checkmail(this.form.email)" value="Submit">
-
-</form></td>
+</td>
   <td><div align="center">
 	<strong>
 	<font size="1" face="Verdana, Arial, Helvetica, sans-serif"> 
-      <span class="bodytext"><a href="http://www.hotdeals.com/index5.cfm?page=customercare">Customer Care</a> | <a href="http://dg.hotdeals.com/index.jsp?cid=42760">Destination 
-      Guides</a> | <a href="http://travel.hotdeals.com/index.jsp?pageName=promo&amp;cid=42760">Rebates</a> | <a href="http://www.hotdeals.com/tips.cfm">Helpful Tips </a> | <a href="http://www.hotdeals.com/index5.cfm?page=advertising">Advertise </a> | <a href="http://www.hotdeals.com/newsletters" target="_blank">Newsletter </a>| <a href="http://www.hotdeals.com/signup" target="_blank">Join Travel Club</a></span></font></strong></div></td>
+      <span class="bodytext"><a href="http://www.hotdeals.com/index5.cfm?page=customercare" target="_self">Customer Care</a> | <a href="http://dg.hotdeals.com/index.jsp?cid=42760">Destination 
+      Guides</a> | <a href="http://travel.hotdeals.com/index.jsp?pageName=promo&amp;cid=42760" target="_self">Rebates</a> | <a href="http://www.hotdeals.com/tips.cfm" target="_self">Helpful Tips </a> | <a href="http://www.hotdeals.com/index5.cfm?page=advertising" target="_self">Advertise </a> | <a href="http://www.hotdeals.com/newsletters" target="_blank">Newsletter </a>| <a href="http://www.hotdeals.com/signup" target="_self">Join Travel Club</a></span></font></strong></div></td>
 </tr>
 </tbody></table>
 <map name="Map2">
-  <area shape="rect" coords="4,3,239,60" href="http://www.hotdeals.com">
+  <area shape="rect" coords="4,3,239,60" href="http://www.hotdeals.com" target="_self">
 </map>
 									  </td>
 									</tr>
@@ -159,83 +183,83 @@ The Cumberland, Kingsway Hall, The Grand, The Russell and more.
 	
 	
 	<div style="margin-left:5px; margin-top:4px; margin-right:5px; line-height:12px" class="s1">
-	<img alt="This special rate ends on 12/8/07" src="/newversion07/site/images/1_z2.gif" width="9" height="8">&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotInfo&amp;cid=42760&amp;temp1=BBS&amp;hotelID=211598" class="small">Beaver Run Resort &amp; Conference Center</a><br>&nbsp;&nbsp;&nbsp;&nbsp;(Breckenridge)&nbsp;&nbsp; $100.80</div>
+	<img alt="This special rate ends on 4/13/08" src="/newversion07/site/images/1_z2.gif" width="9" height="8">&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotInfo&amp;cid=42760&amp;temp1=BBS&amp;hotelID=224337" class="small">Deer Valley Courchevel</a><br>&nbsp;&nbsp;&nbsp;&nbsp;(Park City)&nbsp;&nbsp; $140.00</div>
 	
 	
 	<div style="margin-left:5px; margin-top:4px; margin-right:5px; line-height:12px" class="s1">
-	<img alt="This special rate ends on 12/12/07" src="/newversion07/site/images/1_z2.gif" width="9" height="8">&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotInfo&amp;cid=42760&amp;temp1=BBSI&amp;hotelID=221359" class="small">Excellence Punta Cana</a><br>&nbsp;&nbsp;&nbsp;&nbsp;(Punta Cana)&nbsp;&nbsp; $347.00</div>
+	<img alt="This special rate ends on 4/13/08" src="/newversion07/site/images/1_z2.gif" width="9" height="8">&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotInfo&amp;cid=42760&amp;temp1=BBS&amp;hotelID=216607" class="small">Hotel Park City</a><br>&nbsp;&nbsp;&nbsp;&nbsp;(Park City)&nbsp;&nbsp; $399.00</div>
 	
 	
 	<div style="margin-left:5px; margin-top:4px; margin-right:5px; line-height:12px" class="s1">
-	<img alt="This special rate ends on 12/20/07" src="/newversion07/site/images/1_z2.gif" width="9" height="8">&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotInfo&amp;cid=42760&amp;temp1=BBS&amp;hotelID=176608" class="small">Ptarmigan Inn</a><br>&nbsp;&nbsp;&nbsp;&nbsp;(Steamboat Springs)&nbsp;&nbsp; $58.50</div>
+	<img alt="This special rate ends on 4/15/08" src="/newversion07/site/images/1_z2.gif" width="9" height="8">&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotInfo&amp;cid=42760&amp;temp1=BBS&amp;hotelID=116627" class="small">Wyndham Sugar Bay Resort &amp; Spa</a><br>&nbsp;&nbsp;&nbsp;&nbsp;(Charlotte Amalie)&nbsp;&nbsp; $297.00</div>
 	
 	
 	<div style="margin-left:5px; margin-top:4px; margin-right:5px; line-height:12px" class="s1">
-	<img alt="This special rate ends on 12/20/07" src="/newversion07/site/images/1_z2.gif" width="9" height="8">&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotInfo&amp;cid=42760&amp;temp1=BBSI&amp;hotelID=105956" class="small">Plaza 500 Hotel</a><br>&nbsp;&nbsp;&nbsp;&nbsp;(Vancouver)&nbsp;&nbsp; $124.00</div>
+	<img alt="This special rate ends on 4/15/08" src="/newversion07/site/images/1_z2.gif" width="9" height="8">&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotInfo&amp;cid=42760&amp;temp1=BBS&amp;hotelID=117682" class="small">Sonesta Maho Beach Resort &amp; Casino</a><br>&nbsp;&nbsp;&nbsp;&nbsp;(Maho Beach)&nbsp;&nbsp; $260.00</div>
 	
 	
 	<div style="margin-left:5px; margin-top:4px; margin-right:5px; line-height:12px" class="s1">
-	<img alt="This special rate ends on 12/20/07" src="/newversion07/site/images/1_z2.gif" width="9" height="8">&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotInfo&amp;cid=42760&amp;temp1=BBSI&amp;hotelID=143778" class="small">Crystal Lodge Hotel</a><br>&nbsp;&nbsp;&nbsp;&nbsp;(Whistler)&nbsp;&nbsp; $95.00</div>
+	<img alt="This special rate ends on 4/15/08" src="/newversion07/site/images/1_z2.gif" width="9" height="8">&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotInfo&amp;cid=42760&amp;temp1=BBS&amp;hotelID=208493" class="small">Hotel Beach Plaza</a><br>&nbsp;&nbsp;&nbsp;&nbsp;(Marigot)&nbsp;&nbsp; $253.00</div>
 	
 	
 	<div style="margin-left:5px; margin-top:4px; margin-right:5px; line-height:12px" class="s1">
-	<img alt="This special rate ends on 12/20/07" src="/newversion07/site/images/1_z2.gif" width="9" height="8">&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotInfo&amp;cid=42760&amp;temp1=BBSI&amp;hotelID=207396" class="small">Whistler Pinnacle Hotel</a><br>&nbsp;&nbsp;&nbsp;&nbsp;(Whistler)&nbsp;&nbsp; $118.00</div>
+	<img alt="This special rate ends on 4/15/08" src="/newversion07/site/images/1_z2.gif" width="9" height="8">&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotInfo&amp;cid=42760&amp;temp1=BBS&amp;hotelID=198973" class="small">Divi Little Bay Beach Resort</a><br>&nbsp;&nbsp;&nbsp;&nbsp;(Philipsburg)&nbsp;&nbsp; $247.00</div>
 	
 	
 	<div style="margin-left:5px; margin-top:4px; margin-right:5px; line-height:12px" class="s1">
-	<img alt="This special rate ends on 12/20/07" src="/newversion07/site/images/1_z2.gif" width="9" height="8">&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotInfo&amp;cid=42760&amp;temp1=BBSI&amp;hotelID=206467" class="small">Elyshotdeals Beach</a><br>&nbsp;&nbsp;&nbsp;&nbsp;(St Thomas)&nbsp;&nbsp; $196.00</div>
+	<img alt="This special rate ends on 4/15/08" src="/newversion07/site/images/1_z2.gif" width="9" height="8">&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotInfo&amp;cid=42760&amp;temp1=BBS&amp;hotelID=206467" class="small">Elysian Beach</a><br>&nbsp;&nbsp;&nbsp;&nbsp;(St Thomas)&nbsp;&nbsp; $302.00</div>
 	
 	
 	<div style="margin-left:5px; margin-top:4px; margin-right:5px; line-height:12px" class="s1">
-	<img alt="This special rate ends on 12/30/07" src="/newversion07/site/images/1_z2.gif" width="9" height="8">&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotInfo&amp;cid=42760&amp;temp1=BBS&amp;hotelID=136273" class="small">Magnolia Hotel Denver</a><br>&nbsp;&nbsp;&nbsp;&nbsp;(Denver)&nbsp;&nbsp; $109.00</div>
+	<img alt="This special rate ends on 4/16/08" src="/newversion07/site/images/1_z2.gif" width="9" height="8">&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotInfo&amp;cid=42760&amp;temp1=BBS&amp;hotelID=143602" class="small">Copamarina Beach Resort</a><br>&nbsp;&nbsp;&nbsp;&nbsp;(Guanica)&nbsp;&nbsp; $235.00</div>
 	
 	
 	<div style="margin-left:5px; margin-top:4px; margin-right:5px; line-height:12px" class="s1">
-	<img alt="This special rate ends on 12/30/07" src="/newversion07/site/images/1_z2.gif" width="9" height="8">&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotInfo&amp;cid=42760&amp;temp1=BBSI&amp;hotelID=149093" class="small">Hotel Arts</a><br>&nbsp;&nbsp;&nbsp;&nbsp;(Calgary)&nbsp;&nbsp; $152.00</div>
+	<img alt="This special rate ends on 4/16/08" src="/newversion07/site/images/1_z2.gif" width="9" height="8">&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotInfo&amp;cid=42760&amp;temp1=BBS&amp;hotelID=221154" class="small">Oualie Beach Resort</a><br>&nbsp;&nbsp;&nbsp;&nbsp;(Newcastle)&nbsp;&nbsp; $295.00</div>
 	
 	
 	<div style="margin-left:5px; margin-top:4px; margin-right:5px; line-height:12px" class="s1">
-	<img alt="This special rate ends on 12/30/07" src="/newversion07/site/images/1_z2.gif" width="9" height="8">&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotInfo&amp;cid=42760&amp;temp1=BBSI&amp;hotelID=209308" class="small">Delta Calgary South</a><br>&nbsp;&nbsp;&nbsp;&nbsp;(Calgary)&nbsp;&nbsp; $162.00</div>
+	<img alt="This special rate ends on 4/16/08" src="/newversion07/site/images/1_z2.gif" width="9" height="8">&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotInfo&amp;cid=42760&amp;temp1=BBS&amp;hotelID=121370" class="small">Mount Nevis Hotel and Beach Club</a><br>&nbsp;&nbsp;&nbsp;&nbsp;(Newcastle)&nbsp;&nbsp; $329.00</div>
 	
 	
 	<div style="margin-left:5px; margin-top:4px; margin-right:5px; line-height:12px" class="s1">
-	<img alt="This special rate ends on 12/30/07" src="/newversion07/site/images/1_z2.gif" width="9" height="8">&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotInfo&amp;cid=42760&amp;temp1=BBSI&amp;hotelID=128938" class="small">INN ON MACLEOD TRAIL CALGARY</a><br>&nbsp;&nbsp;&nbsp;&nbsp;(Calgary)&nbsp;&nbsp; $123.00</div>
+	<img alt="This special rate ends on 4/19/08" src="/newversion07/site/images/1_z2.gif" width="9" height="8">&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotInfo&amp;cid=42760&amp;temp1=BBS&amp;hotelID=112076" class="small">Rose Hall Resort &amp; Country Club</a><br>&nbsp;&nbsp;&nbsp;&nbsp;(Rose Hall)&nbsp;&nbsp; $199.00</div>
 	
 	
 	<div style="margin-left:5px; margin-top:4px; margin-right:5px; line-height:12px" class="s1">
-	<img alt="This special rate ends on 12/30/07" src="/newversion07/site/images/1_z2.gif" width="9" height="8">&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotInfo&amp;cid=42760&amp;temp1=BBS&amp;hotelID=112194" class="small">Brown Palace Hotel &amp; Spa</a><br>&nbsp;&nbsp;&nbsp;&nbsp;(Denver)&nbsp;&nbsp; $169.00</div>
+	<img alt="This special rate ends on 4/21/08" src="/newversion07/site/images/1_z2.gif" width="9" height="8">&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotInfo&amp;cid=42760&amp;temp1=BBS&amp;hotelID=111477" class="small">Omni Detroit Hotel River Place</a><br>&nbsp;&nbsp;&nbsp;&nbsp;(Detroit)&nbsp;&nbsp; $129.00</div>
 	
 	
 	<div style="margin-left:5px; margin-top:4px; margin-right:5px; line-height:12px" class="s1">
-	<img alt="This special rate ends on 12/30/07" src="/newversion07/site/images/1_z2.gif" width="9" height="8">&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotInfo&amp;cid=42760&amp;temp1=BBS&amp;hotelID=138151" class="small">Courtyard by Marriott Denver Stapleton</a><br>&nbsp;&nbsp;&nbsp;&nbsp;(Denver)&nbsp;&nbsp; $99.00</div>
+	<img alt="This special rate ends on 4/21/08" src="/newversion07/site/images/1_z2.gif" width="9" height="8">&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotInfo&amp;cid=42760&amp;temp1=BBS&amp;hotelID=199461" class="small">Inn On Ferry Street</a><br>&nbsp;&nbsp;&nbsp;&nbsp;(Detroit)&nbsp;&nbsp; $139.00</div>
 	
 	
 	<div style="margin-left:5px; margin-top:4px; margin-right:5px; line-height:12px" class="s1">
-	<img alt="This special rate ends on 12/30/07" src="/newversion07/site/images/1_z2.gif" width="9" height="8">&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotInfo&amp;cid=42760&amp;temp1=BBSI&amp;hotelID=120474" class="small">Coast Terrace Inn Edmonton South</a><br>&nbsp;&nbsp;&nbsp;&nbsp;(Edmonton)&nbsp;&nbsp; $110.00</div>
+	<img alt="This special rate ends on 4/30/08" src="/newversion07/site/images/1_z2.gif" width="9" height="8">&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotInfo&amp;cid=42760&amp;temp1=BBS&amp;hotelID=162955" class="small">Best Western Landmark Inn</a><br>&nbsp;&nbsp;&nbsp;&nbsp;(Park City)&nbsp;&nbsp; $68.00</div>
 	
 	
 	<div style="margin-left:5px; margin-top:4px; margin-right:5px; line-height:12px" class="s1">
-	<img alt="This special rate ends on 12/30/07" src="/newversion07/site/images/1_z2.gif" width="9" height="8">&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotInfo&amp;cid=42760&amp;temp1=BBSI&amp;hotelID=126308" class="small">Delta Edmonton-Centre Suite Hotel</a><br>&nbsp;&nbsp;&nbsp;&nbsp;(Edmonton)&nbsp;&nbsp; $161.00</div>
+	<img alt="This special rate ends on 4/30/08" src="/newversion07/site/images/1_z2.gif" width="9" height="8">&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotInfo&amp;cid=42760&amp;temp1=BBS&amp;hotelID=131079" class="small">Sheraton Cable Beach Resort</a><br>&nbsp;&nbsp;&nbsp;&nbsp;(Cable Beach)&nbsp;&nbsp; $289.00</div>
 	
 	
 	<div style="margin-left:5px; margin-top:4px; margin-right:5px; line-height:12px" class="s1">
-	<img alt="This special rate ends on 12/30/07" src="/newversion07/site/images/1_z2.gif" width="9" height="8">&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotInfo&amp;cid=42760&amp;temp1=BBSI&amp;hotelID=113593" class="small">The Sutton Place Hotel Edmonton</a><br>&nbsp;&nbsp;&nbsp;&nbsp;(Edmonton)&nbsp;&nbsp; $235.00</div>
+	<img alt="This special rate ends on 4/30/08" src="/newversion07/site/images/1_z2.gif" width="9" height="8">&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotInfo&amp;cid=42760&amp;temp1=BBS&amp;hotelID=121114" class="small">Bird Rock Hotel</a><br>&nbsp;&nbsp;&nbsp;&nbsp;(Basseterre)&nbsp;&nbsp; $100.00</div>
 	
 	
 	<div style="margin-left:5px; margin-top:4px; margin-right:5px; line-height:12px" class="s1">
-	<img alt="This special rate ends on 12/30/07" src="/newversion07/site/images/1_z2.gif" width="9" height="8">&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotInfo&amp;cid=42760&amp;temp1=BBSI&amp;hotelID=121707" class="small">Bond Place Hotel</a><br>&nbsp;&nbsp;&nbsp;&nbsp;(Toronto)&nbsp;&nbsp; $114.00</div>
+	<img alt="This special rate ends on 4/30/08" src="/newversion07/site/images/1_z2.gif" width="9" height="8">&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotInfo&amp;cid=42760&amp;temp1=BBS&amp;hotelID=151663" class="small">Comfort Inn Northwest</a><br>&nbsp;&nbsp;&nbsp;&nbsp;(Westminster)&nbsp;&nbsp; $62.00</div>
 	
 	
 	<div style="margin-left:5px; margin-top:4px; margin-right:5px; line-height:12px" class="s1">
-	<img alt="This special rate ends on 12/30/07" src="/newversion07/site/images/1_z2.gif" width="9" height="8">&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotInfo&amp;cid=42760&amp;temp1=BBSI&amp;hotelID=132159" class="small">Cambridge Suites Hotel - Toronto</a><br>&nbsp;&nbsp;&nbsp;&nbsp;(Toronto)&nbsp;&nbsp; $179.00</div>
+	<img alt="This special rate ends on 4/30/08" src="/newversion07/site/images/1_z2.gif" width="9" height="8">&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotInfo&amp;cid=42760&amp;temp1=BBS&amp;hotelID=215687" class="small">Teton Village - Jackson Hole Resort Lodging</a><br>&nbsp;&nbsp;&nbsp;&nbsp;(Teton Village)&nbsp;&nbsp; $205.00</div>
 	
 	
 	<div style="margin-left:5px; margin-top:4px; margin-right:5px; line-height:12px" class="s1">
-	<img alt="This special rate ends on 12/30/07" src="/newversion07/site/images/1_z2.gif" width="9" height="8">&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotInfo&amp;cid=42760&amp;temp1=BBSI&amp;hotelID=231487" class="small">The Suites At 1 King West</a><br>&nbsp;&nbsp;&nbsp;&nbsp;(Toronto)&nbsp;&nbsp; $161.00</div>
+	<img alt="This special rate ends on 4/30/08" src="/newversion07/site/images/1_z2.gif" width="9" height="8">&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotInfo&amp;cid=42760&amp;temp1=BBS&amp;hotelID=114335" class="small">Handlery Union Square Hotel</a><br>&nbsp;&nbsp;&nbsp;&nbsp;(San Francisco)&nbsp;&nbsp; $111.00</div>
 	
 	
 	<div style="margin-left:5px; margin-top:4px; margin-right:5px; line-height:12px" class="s1">
-	<img alt="This special rate ends on 12/31/07" src="/newversion07/site/images/1_z2.gif" width="9" height="8">&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotInfo&amp;cid=42760&amp;temp1=BBS&amp;hotelID=195753" class="small">Crestwood Suites of Colorado Springs</a><br>&nbsp;&nbsp;&nbsp;&nbsp;(Colorado Springs)&nbsp;&nbsp; $60.00</div>
+	<img alt="This special rate ends on 4/30/08" src="/newversion07/site/images/1_z2.gif" width="9" height="8">&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotInfo&amp;cid=42760&amp;temp1=BBS&amp;hotelID=219431" class="small">Chase Suites - Salt Lake City</a><br>&nbsp;&nbsp;&nbsp;&nbsp;(Salt Lake City)&nbsp;&nbsp; $172.00</div>
 	<br></td>
 </tr>
 </tbody></table></td>
@@ -435,7 +459,7 @@ The Cumberland, Kingsway Hall, The Grand, The Russell and more.
       | <a href="http://travel.hotdeals.com/index.jsp?locale=en_US&amp;pageName=carSearch&amp;currencyCode=USD&amp;cid=42760&amp;additionalDataString=vrBookingSource|index">Cars</a> | <a href="/cruises3.cfm">Cruises</a> | <a href="/index5.cfm?page=vacations" target="_top">Vacations</a> | <a href="/index5.cfm?page=privacy">Privacy</a> | <a href="/index5.cfm?page=contact">Contact</a> | <a href="/sitemap3.cfm">Site Map</a><br><br>
 	  
 	  HotDeals.com Copyright © 2007 All Rights Reserved 
-235 Peachtree Street - Suite 400 Atlanta GA 30303 | Tel: 404.286.9350 | Fax: 404.286.9351 | <a href="mailto:info@hotdeals.com">info@hotdeals.com</a>
+235 Peachtree Street - Suite 400 Atlanta GA 30303 |  <a href="mailto:info@hotdeals.com">info@hotdeals.com</a>
 	
 	</div>
 										</td>
