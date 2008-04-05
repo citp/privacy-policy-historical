@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wesrch.com privacy policy that was archived on 2007-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071204023516id_/http%3A//www.wesrch.com/Documents/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wesrch.com privacy policy that was archived on 2008-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080405123514id_/http%3A//www.wesrch.com/Documents/privacy.php) for the most accurate reproduction.*
 
-# WeSRCH.com - Privacy Notice
+# weSRCH.com - Privacy Notice
 
 |   
 ---  
