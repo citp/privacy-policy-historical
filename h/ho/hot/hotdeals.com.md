@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotdeals.com privacy policy that was archived on 2007-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071205204853id_/http%3A//www.hotdeals.com/index5.cfm%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotdeals.com privacy policy that was archived on 2008-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080405181308id_/http%3A//www.hotdeals.com/index5.cfm%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Hot Deals on Travel
 
