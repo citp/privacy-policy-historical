@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gemoney.com privacy policy that was archived on 2007-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071203023602id_/http%3A//www.gemoney.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gemoney.com privacy policy that was archived on 2008-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080406072829id_/http%3A//www.gemoney.com/privacy_policy.html) for the most accurate reproduction.*
 
 # GE Money USA : Internet Privacy Policy
 
@@ -53,10 +53,6 @@ The examples contained in this Privacy Policy are illustrations only, and are no
 **Links to Other Sites**
 
 Our Web site may contain links to other sites such as GE Family distributors and sales affiliates. While we try to link only to sites that share our high standards and respect for privacy, we are not responsible for the content, security, or privacy practices employed by other sites. 
-
-**Contacting Us**
-
-If you have any questions about this privacy policy, please use the contact us at [privacy.gemoneybank@ge.com](mailto:privacy.gemoneybank@ge.com) . We welcome your questions and suggestions about our privacy policy. 
 
 **Changes to this Policy**
 
