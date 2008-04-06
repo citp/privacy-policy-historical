@@ -1,20 +1,8 @@
-> *The following text is extracted and transformed from the babyhold.com privacy policy that was archived on 2007-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070823034207id_/http%3A//www.babyhold.com/Articles/Articles/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babyhold.com privacy policy that was archived on 2008-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080407011308id_/http%3A//www.babyhold.com/Articles/Articles/Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-###  Can't Find A Name ?   
-  
-**Get answers for all your questions  
-**
-
-**Already a member?**[ **login**](http://www.babyhold.com/login/)  
-
-
-[](http://www.babyhold.com/index.php?option=com_registration&task=register)
-
-| 
-
-###  Search on 25000 Baby Names 
+[Baby names](http://www.babyhold.com/) Privacy Policy 
 
 **Babyhold.com Privacy Policy**
 
@@ -58,7 +46,3 @@ Smuts 15 Apt 11
 Tel Aviv 62009 
 
 Israel
-
-| 
-
-[ ](http://www2.glam.com/app/site/affiliate/viewNetworkHome.act?affiliateId=136019368)
