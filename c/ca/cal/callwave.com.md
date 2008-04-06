@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the callwave.com privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228010215id_/http%3A//www.callwave.com/company/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the callwave.com privacy policy that was archived on 2008-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080406131327id_/http%3A//www.callwave.com/company/privacy.aspx) for the most accurate reproduction.*
 
 # CallWave Mobile - Privacy Policy
 
