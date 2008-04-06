@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebrandz.in privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227070601id_/http%3A//www.ebrandz.in/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebrandz.in privacy policy that was archived on 2008-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080406141046id_/http%3A//www.ebrandz.in/privacy_policy.htm) for the most accurate reproduction.*
 
 # eBrandz™ : Privacy Policy
 
