@@ -1,20 +1,22 @@
-> *The following text is extracted and transformed from the umw.edu privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216212912id_/http%3A//www.umw.edu/policies/web/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the umw.edu privacy policy that was archived on 2008-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080406133317id_/http%3A//www.umw.edu/policies/web/privacy) for the most accurate reproduction.*
 
 # University of Mary Washington | Internet Privacy Policy
 
-The following information explains the Internet Privacy Policy that the University of Mary Washington has adopted for our Web site. The following is intended to explain our current Internet privacy practices, but shall not be construed as a contractual promise. We reserve the right to amend our Internet Privacy Policy Statement at any time without notice. 
+The following information explains the Internet Privacy Policy that the University of Mary Washington has adopted for our Web site.
 
 ## Virginia Law 
 
 We protect our records in accordance with our obligations as defined by applicable Virginia statutes, including, but not limited to, the "Virginia Privacy Protection Act of 1976," the "Virginia Freedom of Information Act," and by any applicable U.S. federal laws. 
 
-## Links to Other Web Sites 
+## UMW EDITORIAL RESPONSIBILITY AND Links to Other Web Sites 
+
+The University assumes editorial responsibility for official University of Mary Washington web sites and official UMW on-line resources, which are defined as the official web pages or on-line materials of UMW departments, divisions and other units. For these sites and resources, UMW is the content provider and not a content-neutral Internet Service Provider (ISP). You may also find within the UMW domain -- signified by the address "umw.edu" or within the range of Internet protocol addresses assigned to the University -- web sites or on-line materials over which the University has no editorial responsibility or control. Such sites include but are not limited to the web pages or other on-line materials of individual faculty members or students, individual class sites and materials, and the web pages or on-line materials of student organizations and other organizations not formally a part of the University. For these sites and materials, UMW is a content-neutral ISP and is not responsible for the content, privacy practices or policies of those who operate those sites.
 
 Our Web site may contain links to other public or private entities' Web sites. the University of Mary Washington is not responsible for the privacy practices or the content of such Web sites. It is recommended that users read the individual privacy policy statements of each Web site when they leave a the University of Mary Washington server. 
 
 ## Information We Collect 
 
-When you access the University of Mary Washington Web site, the routing (or client) information, along with essential and nonessential technical information listed below, is automatically collected. No other information is collected through our Web site except when you deliberately decide to send it to us (for example, by clicking on a link to send us an email). The information you might choose to send us is listed below as "optional information." 
+When you access the University of Mary Washington "official" Web site(s), the routing (or client) information, along with essential and nonessential technical information listed below, is automatically collected. No other information is collected through our Web site except when you deliberately decide to send it to us (for example, by clicking on a link to send us an email). The information you might choose to send us is listed below as "optional information." 
 
 Routing, or client, information: The Internet domain and Internet address of the computer you are using. 
 
@@ -50,4 +52,4 @@ back to top
 
 * * *
 
-**_Last Updated:_** _June 30, 2004 (to reflect institutional name change)_
+**_Last Updated:_** _June 30, 2007_
