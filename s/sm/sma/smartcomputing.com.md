@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartcomputing.com privacy policy that was archived on 2007-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071123002201id_/http%3A//www.smartcomputing.com/info/privacy.aspx%3Fguid%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartcomputing.com privacy policy that was archived on 2008-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080406154936id_/http%3A//www.smartcomputing.com/info/privacy.aspx%3Fguid%3D) for the most accurate reproduction.*
 
 # Sandhills Publishing® Privacy Policy
 
