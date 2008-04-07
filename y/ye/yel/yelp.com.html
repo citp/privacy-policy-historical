@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the yelp.com privacy policy that was archived on 2007-12-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071225093138id_/http%3A//www.yelp.com/static%3Fp%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the yelp.com privacy policy that was archived on 2008-04-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080407021817id_/http%3A//www.yelp.com/static%3Fp%3Dprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
 
@@ -11,39 +11,44 @@
 	<meta http-equiv="imagetoolbar" content="no">	
 	<link rel="shortcut icon" href="/favicon.ico" type="image/ico">
 	<link rel="search" type="application/opensearchdescription+xml" href="/html/moz-plug/yelp.xml" title="Yelp">
-	<link rel="stylesheet" type="text/css" media="all" href="http://static.px.yelp.com/static/20071220a/css/base_versioned.css">
-	<link rel="stylesheet" type="text/css" media="print" href="http://static.px.yelp.com/static/20071220a/css/print.css">
+	<link rel="stylesheet" type="text/css" media="all" href="http://static.px.yelp.com/static/20080402/css/base_versioned.css">
+	<link rel="stylesheet" type="text/css" media="print" href="http://static.px.yelp.com/static/20080402/css/print.css">
 	
 			
 	
 	<script type="text/javascript">
 	var imagesHostUrl = "http://static.px.yelp.com/";
 	var Yelp = {
-		img_serial : "20071220",
-		js_serial : "20071217",
-		css_serial : "20071220a",
-		unique_request_id : "a2ecf8cea4636e0e"
+		img_serial : "20080321",
+		js_serial : "20080401",
+		css_serial : "20080402",
+		unique_request_id : "3f2f0900775b6aab"
 	};
 </script>
 
-	<script type="text/javascript" src="http://static.px.yelp.com/static/20071217/js/main_versioned.js"></script>
+	<script type="text/javascript" src="http://static.px.yelp.com/static/20080401/js/main_versioned.js"></script>
+
 	<script type="text/javascript">
-	Event.observe(window, 'load', function(){
-	var header_hoods = $('header_hoods');
-		if(header_hoods){
-		Element.addClassName(header_hoods,'pseudoLink');
-		Event.observe($('header_hoods'), 'click', function(){
-				Yelp.startHoods($('header_hoods'), 'header_hoods', {'x':-80,'y':20});
+	function trackUnload(e) {
+		if (Yelp.JSONCookie.get('js_track') != "") {
+			return;
+		} else {
+			var trackRequest = new Ajax.Request("/unload_tracker", { 
+				method: 'get', 
+				parameters: "r=3f2f0900775b6aab&ctime=" + (new Date()).getTime(), 
+				onComplete: function() { }, 
+				asynchronous: false 
 			});
 		}
-	});
+	}
+	Event.observe(window, 'unload', trackUnload);
 	</script>
 
 	
-  <!-- Revision: main 27229 --> 
+  <!-- Revision: main 30150 --> 
 </head>
 
-<body>
+<body id="yelp_main_body">
 <script type="text/javascript">
 Yelp.JSONCookie.clear('js_track');
 Event.observe(document.body, 'mousedown', function(event) { 
@@ -70,11 +75,11 @@ Event.observe(document, 'keypress', function(event) {
 			<input maxlength="64" name="find_desc" tabindex="1" size="20" id="find_desc" value="">
 			</p>
 			<p id="search_near" class="clearfix">
-			<label>Near <em>(Address, <span id="header_hoods">Neighborhood</span>, City, State or Zip)</em></label> 
+			<label>Near <em>(Address, City, State or Zip)</em></label> 
 			<button type="submit" id="headerSearchBtn" class="form_img_btn" onclick="document.header_find_form.rpp.value=Yelp.readRppFromSearchPrefsCookie();">Search</button>
 			<input type="hidden" name="ns" value="1">
 			<input type="hidden" name="rpp" value="10">
-			<input maxlength="64" name="find_loc" tabindex="2" id="dropperText_Mast" size="14" value="San Francisco, CA 94101">				
+			<input maxlength="64" name="find_loc" tabindex="2" id="dropperText_Mast" size="14" value="Flushing, Ny">				
 			</p>
 		</form></div>
 
@@ -93,7 +98,7 @@ Event.observe(document, 'keypress', function(event) {
 	<li id="messaging"><a rel="nofollow" href="/signup?return_url=%2Fmail">Messaging</a></li>
 	<li id="talk"><a href="/talk">Talk</a></li>
 
-	<li id="events"><a href="/events/sf">Events</a></li>
+	<li id="events"><a href="/events/flushing-ny">Events</a></li>
 	<li class="header_login" id="rt"><a rel="nofollow" href="/login?return_url=%2Fstatic%3Fp%3Dprivacy">Log In</a></li>	
 	<li class="header_login"><a href="/signup?return_url=%2Fprofile" rel="nofollow">Account</a> | </li>
 	<li class="header_login"><a href="/member_search" rel="nofollow">Member Search</a> | </li>		
@@ -231,7 +236,7 @@ Event.observe(document, 'keypress', function(event) {
 						Also, upon your request, Yelp will use commercially reasonable efforts to close your account, and cease displaying
 						your Profile Information and Content on this website; nevertheless, it may not be reasonably commercially possible
 						to remove all of your information from this website, and we may retain some of your information in our backup files.
-						Registered users who wish to close their account should contact <a href="mailto:admin@yelp.com">admin@yelp.com</a>.
+						Registered users who wish to close their account should <a href="/contact">click here</a>.
 					</p>
 					
 					<h3>IX. Security</h3>
@@ -239,7 +244,7 @@ Event.observe(document, 'keypress', function(event) {
 						Your Yelp account is password-protected. We use industry standard measures to protect your information that is
 						stored within our database. We limit the access to your information to those employees who need access to perform
 						their job function, such as our customer service personnel. If you have any questions about the security at our
-						website, please <a href="mailto:admin@yelp.com">contact us</a>. Although we take appropriate measures to safeguard against unauthorized disclosures
+						website, please <a href="/contact">contact us</a>. Although we take appropriate measures to safeguard against unauthorized disclosures
 						of information, we cannot assure you that personally identifiable information that we collect will never be
 						disclosed in a manner that is inconsistent with this Privacy Policy.
 					</p>
@@ -315,7 +320,7 @@ Event.observe(document, 'keypress', function(event) {
 
 <p>&nbsp;</p>	
 <p>Use of this site is subject to express <a href="/static?p=tos" rel="nofollow"><strong>Terms of Service</strong></a>. By continuing past this page, you agree to abide by these terms.</p>
-<p>Copyright © 2004-2007 Yelp | <a href="/static?p=privacy" rel="nofollow">Privacy Policy</a><br><br></p>
+<p>Copyright © 2004-2008 Yelp | <a href="/static?p=privacy" rel="nofollow">Privacy Policy</a><br><br></p>
 
 <div class="directory">
 	<ul>
@@ -343,9 +348,8 @@ Event.observe(document, 'keypress', function(event) {
 		<li> | <a href="/dc">Washington, DC</a></li>
 		<li> | <a href="/locations">More Cities</a></li>
 	</ul>
-	</div>		
+	</div>
 		<div class="directory">
-				
 				<ul>
 					<li class="first"><strong>Review Directories</strong></li>
 					<li> | <a href="/reviews/12_Atlanta_GA.html">Atlanta</a></li>
@@ -370,7 +374,7 @@ Event.observe(document, 'keypress', function(event) {
 					<li> | <a href="/reviews/12_Seattle_WA.html">Seattle</a></li>
 					<li> | <a href="/reviews/12_Washington_DC.html">Washington, DC</a></li>
 				</ul>
-	</div>		
+	</div>
 	<div class="directory">
 				<ul>
 					<li class="first"><strong>Talk Directories</strong></li>
@@ -385,28 +389,27 @@ Event.observe(document, 'keypress', function(event) {
 					<li> | <a href="/archived_topics/Seattle_WA.html">Seattle</a></li>
 					<li> | <a href="/archived_topics/Washington_DC.html">Washington, DC</a></li>
 				</ul>
-	</div>		
+	</div>
 	<div class="directory">
 				<ul>
 					<li class="first"><strong>Search Directories</strong></li>
-					<li> | <a href="/topsearches/1/0/Austin_TX.html">Austin</a></li>
-					<li> | <a href="/topsearches/1/0/Boston_MA.html">Boston</a></li>
-					<li> | <a href="/topsearches/1/0/Chicago_IL.html">Chicago</a></li>
-					<li> | <a href="/topsearches/1/0/Los_Angeles_CA.html">Los Angeles</a></li>
-					<li> | <a href="/topsearches/1/0/New_York_NY.html">New York</a></li>
-					<li> | <a href="/topsearches/1/0/San_Diego_CA.html">San Diego</a></li>
-					<li> | <a href="/topsearches/1/0/San_Francisco_CA.html">San Francisco</a></li>
-					<li> | <a href="/topsearches/1/0/San_Jose_CA.html">San Jose</a></li>
-					<li> | <a href="/topsearches/1/0/Seattle_WA.html">Seattle</a></li>
-					<li> | <a href="/topsearches/1/0/Washington_DC.html">Washington, DC</a></li>
+					<li> | <a href="/topsearches/austin">Austin</a></li>
+					<li> | <a href="/topsearches/boston">Boston</a></li>
+					<li> | <a href="/topsearches/chicago">Chicago</a></li>
+					<li> | <a href="/topsearches/la">Los Angeles</a></li>
+					<li> | <a href="/topsearches/nyc">New York</a></li>
+					<li> | <a href="/topsearches/sandiego">San Diego</a></li>
+					<li> | <a href="/topsearches/sf">San Francisco</a></li>
+					<li> | <a href="/topsearches/sanjose">San Jose</a></li>
+					<li> | <a href="/topsearches/seattle">Seattle</a></li>
+					<li> | <a href="/topsearches/dc">Washington, DC</a></li>
 				</ul>
-	</div>		
-	
+	</div>
 </div>
 
 
 
-<img src="/spice?r=a2ecf8cea4636e0e">
+<img src="/spice?r=3f2f0900775b6aab">
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
 </script>
 <script type="text/javascript">
