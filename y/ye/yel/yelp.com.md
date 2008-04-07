@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yelp.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225093138id_/http%3A//www.yelp.com/static%3Fp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yelp.com privacy policy that was archived on 2008-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080407021817id_/http%3A//www.yelp.com/static%3Fp%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy | Yelp
 
@@ -54,11 +54,11 @@ Facebook Beacon is implemented on this website, allowing you to share your actio
 
 You should be aware that when you voluntarily disclose information about yourself in the Content that you submit to this website (e.g., including your name or email address in a review that you post to this website), that information can be collected, correlated, and used by third parties and may result in unsolicited messages from others. Such activities are beyond our control. Please do not post any personal information on this website that you expect to keep private. 
 
-As a registered Yelp user, you can modify your Profile Information at any time by accessing the "Account" section of this website. Also, upon your request, Yelp will use commercially reasonable efforts to close your account, and cease displaying your Profile Information and Content on this website; nevertheless, it may not be reasonably commercially possible to remove all of your information from this website, and we may retain some of your information in our backup files. Registered users who wish to close their account should contact [admin@yelp.com](mailto:admin@yelp.com). 
+As a registered Yelp user, you can modify your Profile Information at any time by accessing the "Account" section of this website. Also, upon your request, Yelp will use commercially reasonable efforts to close your account, and cease displaying your Profile Information and Content on this website; nevertheless, it may not be reasonably commercially possible to remove all of your information from this website, and we may retain some of your information in our backup files. Registered users who wish to close their account should [click here](https://web.archive.org/contact). 
 
 ### IX. Security
 
-Your Yelp account is password-protected. We use industry standard measures to protect your information that is stored within our database. We limit the access to your information to those employees who need access to perform their job function, such as our customer service personnel. If you have any questions about the security at our website, please [contact us](mailto:admin@yelp.com). Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Policy. 
+Your Yelp account is password-protected. We use industry standard measures to protect your information that is stored within our database. We limit the access to your information to those employees who need access to perform their job function, such as our customer service personnel. If you have any questions about the security at our website, please [contact us](https://web.archive.org/contact). Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Policy. 
 
 _You hereby acknowledge that Yelp is not responsible for any intercepted information sent via the Internet, and you hereby release us from any and all claims arising out of or related to the use of intercepted information in any unauthorized manner._
 
