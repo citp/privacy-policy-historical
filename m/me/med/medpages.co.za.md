@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the medpages.co.za privacy policy that was archived on 2007-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071016081227id_/http%3A//medpages.co.za/index.php%3Fmodule%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medpages.co.za privacy policy that was archived on 2008-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080407211044id_/http%3A//www.medpages.co.za/index.php%3Fmodule%3Dprivacy) for the most accurate reproduction.*
 
 # MEDpages - The definitive contact database for healthcare in South Africa.
 
 Privacy Policy | 
 
-[](https://web.archive.org/web/20071016081227id_/http%3A//medpages.co.za/index.php?module=home)  
+[](https://web.archive.org/web/20080407211044id_/http%3A//www.medpages.co.za/index.php?module=home)  
   
 ---|---  
   
