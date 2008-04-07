@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linkedin.com privacy policy that was archived on 2007-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071202120614id_/http%3A//www.linkedin.com/static%3Fkey%3Dprivacy_policy%26trk%3Dgfoot_priv) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkedin.com privacy policy that was archived on 2008-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080407043933id_/http%3A//www.linkedin.com/static%3Fkey%3Dprivacy_policy%26trk%3Dhb_ft_priv) for the most accurate reproduction.*
 
 # LinkedIn: Privacy Policy
 
