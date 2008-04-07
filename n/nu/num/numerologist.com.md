@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the numerologist.com privacy policy that was archived on 2007-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071206024423id_/http%3A//www.numerologist.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the numerologist.com privacy policy that was archived on 2008-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080407203322id_/http%3A//www.numerologist.com/privacy.html) for the most accurate reproduction.*
 
 # Numerologist.com -- Privacy Policy
 
@@ -11,7 +11,7 @@ We collect personal information to allow us to personalize Horoscopes, Astrology
 ## WEBSITE ADMINISTRATION 
 
 Business name: Numerologist.com   
-Address: 44 Golf Links Road   
+Address: 46 Francis Avenue   
 City: Christchurch   
 State/Province: Canterbury   
 Country: New Zealand   
