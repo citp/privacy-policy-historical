@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the axminster.co.uk privacy policy that was archived on 2006-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060928190528id_/http%3A//www.axminster.co.uk/article-Security-Policy-and-Privacy-privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the axminster.co.uk privacy policy that was archived on 2008-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080407230734id_/http%3A//www.axminster.co.uk/pricing/INC/cid/UVRTT1OCS6LBIVTJ2FB6AZOVTCBBVNWB/article-Security-Policy-and-Privacy-privacy.htm) for the most accurate reproduction.*
 
 # Axminster Power Tool Centre : Power Tools to your door
 
