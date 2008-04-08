@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the whl.travel privacy policy that was archived on 2007-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071209223801id_/http%3A//www.whl.travel/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whl.travel privacy policy that was archived on 2008-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080409012720id_/http%3A//www.whl.travel/privacy) for the most accurate reproduction.*
 
 # World Hotel Link - Privacy
 
-Worldhotel-link.com Limited is committed to supporting the highest standards for the Fair Handling of Personal Information. We recognise that some visitors to our web site may have concerns about the information they provide to us and how we treat that information.
+We are committed to supporting the highest standards for the Fair Handling of Personal Information. We recognise that some visitors to our web site may have concerns about the information they provide to us and how we treat that information.
 
 This Privacy Policy has been developed to demonstrate to our valued clients that we collect only the information necessary for our interaction with them and to fulfil their instructions to us. We are committed to the highest ethical standards in the collection, security and use of the personal information provided to us.
 
@@ -26,5 +26,4 @@ This Privacy Policy has been developed to demonstrate to our valued clients that
 
 **9.** The servers that store personally identifiable information are maintained in a secure environment, in a locked facility. 
 
-**More Information** If you have questions or concerns in relation to our Privacy Policy please email us at:   
-info(at)worldhotel-link.com
+**More Information** If you have questions or concerns in relation to our Privacy Policy please email us. See the Contact Us page for contact details.
