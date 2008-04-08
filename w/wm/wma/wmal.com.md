@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wmal.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210113615id_/http%3A//www.wmal.com/article.asp%3FID%3D446047) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wmal.com privacy policy that was archived on 2008-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080409003520id_/http%3A//www.wmal.com/article.asp%3FID%3D446047) for the most accurate reproduction.*
 
 # 630 WMAL: Stimulating Talk – Breaking News
 
@@ -6,7 +6,7 @@
 
 This site is owned by Citadel Broadcasting Corporation (“Citadel”) and/or its subsidiaries.  Citadel’s privacy policy covers the collection, use and dissemination of personal information that may be collected by Citadel anytime you interact with Citadel on one of its websites, such as when you listen to audio streams, view video streams, visit our websites, when you purchase products, or when you contact Citadel.  Please take a moment to read the following to learn more about our information practices, including what type of information is gathered, how the information is used and for what purposes, to whom we disclose the information, and how we safeguard your personal information.   
 
-[](https://web.archive.org/ad/click.asp?adID=61359&adRunID=72843)
+[](https://web.archive.org/ad/click.asp?adID=67532&adRunID=79508)
 
 **Why we collect information.**
 
