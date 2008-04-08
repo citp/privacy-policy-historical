@@ -1,0 +1,932 @@
+<!--The following is the downloaded HTML source of the tehelka.com privacy policy that was archived on 2008-04-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080408165254id_/http%3A//tehelka.com/about/privacy.asp) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><title>Tehelka  :: Free. Fair. Fearless</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<style type="text/css">
+	<!--
+	@import url("../../commoncode/newtehelka.css");
+	@import url("aboutus.css");
+	-->
+
+
+ 
+</style></head>
+	
+
+
+ 
+<body topmargin="0" leftmargin="0" marginwidth="0" onload="DisplayNews()">
+<table width="1004" border="0" cellpadding="0" cellspacing="0" align="center">  
+  <tbody><tr>    
+    <td>
+<!-- dt=session("issdat") -->
+
+<style type="text/css">
+<!--
+@import url(tehelka.css);
+@import url(newtehelka.css);
+-->
+</style>
+
+
+<script language="javascript" type="text/javascript">
+
+
+NewsDelay=10000		//Time each story is displayed for
+NewsFadeDelay=100	//Time taken to fade from one story to the next
+NewsFont='Georgia'	//Ticket font family
+NewsFontSize='2'	//Ticket font size
+//NewsTextColor=new Array("#000000","#111111","#222222","#333333","#444444","#555555","#666666","#777777","#888888","#999999","#aaaaaa","#bbbbbb","#cccccc","#dddddd","#eeeeee","#ffffff")
+
+NewsTextColor=new Array("#c9e1ff", "#004175")
+
+NewsStory=0		//Working Variable
+LastNewsStory=0		//Working Variable
+NewsColor=0		//Working Variable
+NewsArray=new Array(
+	'&#8220; Tehelka is one of the best sources of news in India&#8230; &#8221; <b>&#8212; The Guardian</b>' , 'URL',
+	'&#8220;  Our future is involved with the success of Tehelka. It must win the battle. &#8221; <br><div align=right><b>&#8212; Khushwant Singh</b></div>' , 'URL',
+	'&#8220;  Which patriotic Indian can fail to be on Tehelka&#8217;s side? &#8221; <b>&#8212; Vir Sanghvi</b>' , 'URL',
+	'&#8220;  I associate Tehelka with cleanliness. It may start a movement not just in journalism, but in public life &#8230; &#8221; <b>&#8212; Kuldip Nayyar</b>' , 'URL',
+	'&#8220;  &#8230;edgy, in-depth, hard-hitting&#8230;  perhaps Tehelka is the only weekly that provides stories that need more than a cursory read &#8230; &#8221; <b>&#8212; Shobhaa De </b>' , 'URL',
+	'&#8220;  Tehelka has suffered for doing its democratic duty. They are martyrs in the cause of Indian democracy. I hope they are rewarded for it &#8230; &#8221; <br><div align=right><b>&#8212; Ram Jethmalani</b></div>' , 'URL',
+	'&#8220;  &#8230;with Tehelka, we have crossed a barrier in journalism. And what journalism ought to be &#8230; &#8221; <b>&#8212; Arundhati Roy </b>' , 'URL',				
+	'&#8220; Tehelka has invested heavily in hard hitting investigative reporting and has pushed the boundaries of editorial content further than most&#8230; &#8221; <b>&#8212; BBC</b>' , 'URL',
+	'&#8220; Tehelka is a delightful Urdu word that refers to the special kind of tumult provoked by a daring act. Tehelka has certainly lived up to its name&#8230; &#8221; <br><div align=right><b>&#8212; Time</b></div>' , 'URL',	
+	'')
+
+
+    function DisplayNews(){
+    	LastNewsStory=NewsStory
+    	NewsStory++; if( NewsStory>(Math.floor(NewsArray.length/2)) ){NewsStory=1}
+    	FadeNews()
+}
+
+
+    function FadeNews(){
+    	if (NewsColor<(NewsTextColor.length)/2){var NewsLayer=1}
+    	else {var NewsLayer=2}
+    	//Old Story
+
+
+        	if (LastNewsStory>0){
+			// with url
+        	//var NewsText = '<A href="'+ NewsArray[(LastNewsStory-1)*2+1] +'" style=text-decoration:none;><FONT color="'+ NewsTextColor[NewsColor] +'" face="'+ NewsFont +'" size="'+ NewsFontSize +'">'+ NewsArray[(LastNewsStory-1)*2] +'</FONT></A>'
+			// without url
+			var NewsText = '<FONT color="'+ NewsTextColor[NewsColor] +'" face="'+ NewsFont +'" size="'+ NewsFontSize +'">'+ NewsArray[(LastNewsStory-1)*2] +'</FONT>'
+				
+        			if(document.layers){ document.eval('newslayer'+(3-NewsLayer)).document.write(NewsText); document.eval('newslayer'+(3-NewsLayer)).document.close() }//NN4
+        			if(document.all){ eval('newslayer'+(3-NewsLayer)).innerHTML=NewsText }//IE
+        			if(!document.all && document.getElementById){ document.getElementById('newslayer'+(3-NewsLayer)).innerHTML=NewsText }//NN6
+        	}
+        	//New Story
+			// with url
+        	//	var NewsText = '<A href="'+ NewsArray[(NewsStory-1)*2+1] +'"  style=text-decoration:none;><FONT color="'+ NewsTextColor[(NewsTextColor.length)-NewsColor-1] +'" face="'+ NewsFont +'" size="'+ NewsFontSize +'">'+ NewsArray[(NewsStory-1)*2] +'</FONT></A>'
+			
+			// without url
+				var NewsText = '<FONT color="'+ NewsTextColor[(NewsTextColor.length)-NewsColor-1] +'" face="'+ NewsFont +'" size="'+ NewsFontSize +'">'+ NewsArray[(NewsStory-1)*2] +'</FONT>'
+			
+			
+        			if(document.layers){ document.eval('newslayer'+NewsLayer).document.write(NewsText); document.eval('newslayer'+NewsLayer).document.close() }//NN4
+        			if(document.all){ eval('newslayer'+NewsLayer).innerHTML=NewsText }//IE
+        			if(!document.all && document.getElementById){ document.getElementById('newslayer'+NewsLayer).innerHTML=NewsText; }//NN6
+        	NewsColor++
+        	if (NewsColor>=NewsTextColor.length){ NewsColor=0; setTimeout('DisplayNews()',NewsDelay) }
+        	else { setTimeout('FadeNews()',NewsFadeDelay/NewsTextColor.length) }
+    }
+
+
+
+
+</script>
+
+
+
+<script language="javascript" type="text/javascript">
+
+function topdat()
+{
+var d = new Date()
+var monthname=new Array ("January","February","March","April","May","June","July","August","September","October","November","December")
+var weekday=new Array("Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday")
+document.write("<span class=toplogodate>"+weekday[d.getDay()]+", "+d.getDate()+" "+monthname[d.getMonth()] +" "+d.getFullYear()+"</span>")	
+}
+
+
+
+	  function erase()
+	  	{
+		if( document.frm.q.value == "Search Tehelka" )
+			{
+			document.frm.q.value = "";
+			//document.Frm_India.nam.value== ""
+			document.frm.q.focus();		
+			}
+		}
+		
+		
+
+<!--
+function MM_reloadPage(init) {  //reloads the window if Nav4 resized
+  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
+    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
+  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
+}
+MM_reloadPage(true);
+//-->
+</script>
+<table width="1004" border="0" cellspacing="0" cellpadding="0">
+		<tbody><tr>
+			<td width="5"></td>           
+		    <td width="994" height="5">
+						<table width="100%" border="0" cellspacing="0" cellpadding="0">														 
+							   <tbody><tr>
+								<td colspan="2" valign="top">
+								<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								  <tbody><tr>
+											
+                <td width="302"><a href="http://www.tehelka.com"><img src="../../images/permanentimages/Tehelka_logo.gif" border="0"></a></td>
+											<td width="502" background="../../images/permanentimages/topbar_bg.gif" valign="middle"><div id="newslayer1" style="position:absolute;  top:20; width:475; height:50; visibility:visible;"><font color="#004175" face="Georgia" size="2">“ Tehelka is one of the best sources of news in India… ” <b>— The Guardian</b></font></div>
+    		<div id="newslayer2" style="position:absolute; top:20; width:475; height:50; visibility:visible;"><font color="#c9e1ff" face="Georgia" size="2">“ Tehelka is one of the best sources of news in India… ” <b>— The Guardian</b></font></div></td>
+											
+                <td width="190"><a href="http://www.tehelkahindi.com" target="_blank"><img src="../../images/permanentimages/tehelkahindi_logo.gif" border="0"></a></td>
+									  </tr>
+								</tbody></table>
+								
+								</td>
+							  </tr>
+							  
+							</tbody></table>
+		</td>
+			<td width="5"></td>
+        </tr>
+		<tr>
+			<td width="5"></td>           
+		    <td width="994" height="5"></td>
+			<td width="5"></td>
+        </tr>				
+        <tr>
+			<td width="5"></td>           
+		    <td width="994" bgcolor="#eff1d6" height="2"></td>
+			<td width="5"></td>
+        </tr>
+		<tr>
+			<td width="5"></td>           
+		    <td width="994" bgcolor="#eff1d6">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<!-- <tr><td height="5"></td></tr> -->				
+  <tbody><tr>    
+    <td width="100%" class="topbandnav" height="23">
+		<table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tbody><tr>
+			<td valign="middle">&nbsp;</td>
+			<td valign="middle"><a href="/" class="topbandnav">Home</a><span class="topbandnav">&nbsp;|&nbsp;</span></td> 
+      <td height="23" valign="middle"> <a href="../../../channels/news/news_main.asp" class="topbandnav">Current  Affairs</a><span class="topbandnav">&nbsp;|&nbsp;</span></td>
+	  <td valign="middle"> <a href="../../channels/op-ed/oped_main.asp" class="topbandnav"> Opinion </a><span class="topbandnav">&nbsp;|&nbsp;</span></td>
+	  <td valign="middle"> <a href="../../../../../channels/Business/Business_main.asp" class="topbandnav">Business</a><span class="topbandnav">&nbsp;|&nbsp;</span></td>
+	  <td valign="middle"> <a href="../../channels/crusader/crusade_main.asp" class="topbandnav">Engaged Circle</a><span class="topbandnav">&nbsp;|&nbsp;</span></td>
+	  <td valign="middle"> <a href="../../channels/Thehub/thehub_main.asp" class="topbandnav">Culture &amp; Society</a><span class="topbandnav">&nbsp;|&nbsp;</span></td>
+	  <td height="23" valign="middle"><a href="http://magazine.tehelka.com/" target="_blank"><img src="../../images/permanentimages/eMag_nav.gif" border="0"></a></td>
+	  <td valign="middle"><span class="topbandnav">&nbsp;|&nbsp;</span><a href="../../../../../channels/Web_Specials/Web_Specials.asp" class="topbandnav">Web Specials</a><span class="topbandnav">&nbsp;|&nbsp;</span></td>
+	  <td valign="middle"> <a href="../../Interactive/" class="topbandnav">Interact</a><span class="topbandnav">&nbsp;|&nbsp;</span></td>
+	  <td valign="middle"> <a href="../../../../../archive/archive_main.asp" class="topbandnav">Archives</a></td>
+	  <td valign="middle">&nbsp;</td>
+	  <td valign="middle"><!-- Google CSE Search Box Begins  --><form id="searchbox_005188603089052683102:g-vwdvwywfc" name="frm" action="http://www.google.com/cse" style="margin: 0px; padding: 0px 0px 0px 0px;"><input type="hidden" name="cx" value="005188603089052683102:g-vwdvwywfc"><input type="hidden" name="cof" value="FORID:1"><input name="q" type="text" value="Search Tehelka" class="search" onclick="erase();">&nbsp;<input type="submit" name="sa" value="GO" class="button"></form><script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=searchbox_005188603089052683102%3Ag-vwdvwywfc"></script><!-- Google CSE Search Box Ends --></td>
+	 
+	  <td valign="middle">&nbsp;</td>
+	  </tr> 
+	  <!-- <tr><td height="5"></td></tr>  -->
+      </tbody></table>
+	  </td>
+  </tr>
+</tbody></table></td>
+			<td width="5"></td>
+        </tr>
+		<!-- <tr>
+			<td width="5"></td>           
+		    <td width="994" bgcolor="#eff1d6" height="3"></td>
+			<td width="5"></td>
+        </tr> -->		        
+		<tr> 
+		  <td width="5"></td>	
+          <td><table width="100%" border="0" cellspacing="0" cellpadding="0" align="right">
+		  <tbody><tr>
+		  <td width="30%"><script type="text/javascript">topdat();</script><span class="toplogodate">Friday, 31 January 2020</span></td>
+		  <td align="right" class="subtopnavigation" width="70%"><b>TEHELKA INITIATIVES:</b> <a href="http://www.criticalfutures.org/" class="subtopnavigation" target="_blank">Critical Futures</a> | <a href="http://www.thetehelkafoundation.org/" class="subtopnavigation" target="_blank">Tehelka Foundation</a></td>
+		  </tr>
+		  </tbody></table></td>
+		  <td width="5"></td>
+        </tr> 
+		<tr>
+			<td width="5"></td>           
+		    <td width="994" height="5"></td>
+			<td width="5"></td>
+        </tr>
+		
+      </tbody></table>
+<map name="Map">
+  <area shape="rect" coords="21,13,206,65" href="http://www.tehelka.com/">
+  <area shape="rect" coords="836,14,968,64" href="http://www.tehelkahindi.com/" target="_blank">
+</map>
+</td>   
+  </tr>
+  
+  <tr>
+      
+    <td><table width="1004" border="0" cellspacing="0" cellpadding="0" align="left">
+		  <tbody><tr>
+				<td width="5" valign="top" height="410"></td>
+				<td width="750" valign="top"><table width="750" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+		<td height="10"></td>
+  </tr>
+  <tr>
+		
+    <td><img src="images/band_aboutus.gif" border="0" usemap="#MapAbout"></td>
+  </tr>
+  
+  <tr>
+		<td height="10" align="right"><table width="540" border="0" cellspacing="0" cellpadding="0">
+		<tbody><tr>
+		
+			
+    <td align="right"><a href="tos.asp" class="abouttoplink">Terms 
+      of Service</a><span class="abouttoplink">&nbsp;|&nbsp;</span> <a href="privacy.asp" class="abouttoplink">Privacy 
+      Policy</a><span class="abouttoplink">&nbsp;|&nbsp;</span> <a href="advertise.asp" class="abouttoplink"> 
+      Advertise with Us </a><span class="abouttoplink">&nbsp;|&nbsp;</span> <a href="syndication.asp" class="abouttoplink"> 
+      Syndication </a><span class="abouttoplink">&nbsp;|&nbsp;</span> <a href="contact.asp" class="abouttoplink">Contact 
+      Us</a></td>	 
+	 <td>&nbsp;</td>
+	  
+	  </tr> 
+	 
+      </tbody></table>
+	  
+	  
+	   
+</td>
+  </tr>
+  <tr>
+		<td height="20"></td>
+  </tr>
+              <tr> 
+                <td valign="top"> <p><span class="abouthead">Privacy Policy</span></p>
+                  <p class="aboutText">Tehelka.com Private Limited (Tehelka.com 
+                    Pvt Ltd.), a wholly-owned subsidiary of Agni Media Private 
+                    Limited and located at <a href="http://www.tehelka.com">http://www.tehelka.com</a> 
+                    is the mother brand of Tehelka.com Pvt Ltd. We respect your 
+                    privacy. You are advised to please read the Privacy Policy 
+                    carefully. By accessing the services provided by Tehelka.com 
+                    and its related properties, you agree to the collection and 
+                    use of your data by Tehelka.com Pvt Ltd in the manner provided 
+                    in this Privacy Policy. </p>
+                  <p class="aboutText">Tehelka.com Pvt Ltd. respects the privacy 
+                    of its users and is committed to protect it in all respects. 
+                    With a view to offer most enriching and holistic internet 
+                    experience to its users Tehelka.com Pvt Ltd. offers a variety 
+                    of community services. You may read 'About Us' to know more 
+                    about Tehelka.com Pvt Ltd. at <a href="http://www.tehelka.com/about/">http://www.tehelka.com/about/</a> 
+                  </p>
+                  <p class="aboutText">The Policy does not apply to the procedures 
+                    and practices followed by entities that are not managed, owned 
+                    or controlled by Tehelka.com Pvt Ltd. or to the people that 
+                    are not engaged, employed or managed by Tehelka.com</p>
+                  <p class="aboutText"><strong>We want you to </strong>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="2">
+  <tbody><tr> 
+    <td width="3%" valign="top" class="aboutText"><li></li></td>
+    <td width="97%" class="aboutText">Feel comfortable using our web sites. </td>
+  </tr>
+  <tr> 
+    <td valign="top" class="aboutText"><li></li></td>
+    <td class="aboutText">Feel secure submitting information to us.</td>
+  </tr>
+  <tr> 
+    <td valign="top" class="aboutText"><li></li></td>
+    <td class="aboutText">Contact us with your questions or concerns about privacy on this site.</td>
+  </tr>
+  <tr> 
+    <td valign="top" class="aboutText"><li></li></td>
+    <td class="aboutText">Know that by using our sites you are consenting to the collection of certain data.</td>
+  </tr>
+</tbody></table>
+                  </p>
+                  <p class="aboutText">Most of the Online Community Services are offered for free but 
+                  you need a universal mandatory registration to surf Tehelka.com 
+                  and its related properties in detail. The information about 
+                  the user as collected by Tehelka. Com Pvt. Ltd is: (a) information 
+                  supplied by users and (b) information automatically tracked 
+                  while navigation (Information). </p>
+                  <p class="aboutText"> <strong>INFORMATION SUPPLIED</strong><br>
+                    To avail certain sites/services on our websites, users are 
+                    required to provide certain information for the registration 
+                    process namely:-
+                 <table width="100%" border="0" cellspacing="0" cellpadding="2">
+  <tbody><tr> 
+    <td width="3%" valign="top" class="aboutText"><li></li></td>
+    <td width="97%" class="aboutText">your name</td>
+  </tr>
+  <tr> 
+    <td valign="top" class="aboutText"><li></li></td>
+    <td class="aboutText">email address</td>
+  </tr>
+  <tr> 
+    <td valign="top" class="aboutText"><li></li></td>
+    <td class="aboutText">Alternate email address</td>
+  </tr>
+  <tr> 
+    <td valign="top" class="aboutText"><li></li></td>
+    <td class="aboutText">mobile phone number and contact details </td>
+  </tr>
+  <tr> 
+    <td width="3%" valign="top" class="aboutText"><li></li></td>
+    <td width="97%" class="aboutText">ZIP/Postal code</td>
+  </tr>
+  <tr> 
+    <td valign="top" class="aboutText"><li></li></td>
+    <td class="aboutText">demographic profile (like your age, gender, occupation, 
+      education, address and durables owned);</td>
+  </tr>
+  <tr> 
+    <td valign="top" class="aboutText"><li></li></td>
+    <td class="aboutText">preferences and interests (such as news, sports, travel 
+      and so on); </td>
+  </tr>
+  <tr> 
+    <td valign="top" class="aboutText"><li></li></td>
+    <td class="aboutText">financial information (like account or credit card numbers); 
+      and </td>
+  </tr>
+  <tr>
+    <td valign="top" class="aboutText"><li></li></td>
+    <td class="aboutText">Opinions of features on our websites etc.</td>
+  </tr>
+</tbody></table></p>
+                  <p class="aboutText"><strong>INFORMATION TRACKED</strong><br>
+                    We may also collect the following information: <br>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="2">
+  <tbody><tr> 
+    <td width="3%" valign="top" class="aboutText"><li></li></td>
+    <td width="97%" class="aboutText">about the pages you visit/access</td>
+  </tr>
+  <tr> 
+    <td valign="top" class="aboutText"><li></li></td>
+    <td class="aboutText">The links you click on our site.</td>
+  </tr>
+  <tr> 
+    <td valign="top" class="aboutText"><li></li></td>
+    <td class="aboutText">The number of times you access the page. You can terminate 
+      your account at any time. However, your information may remain stored in 
+      archive on our servers even after the deletion or the termination of your 
+      account.</td>
+  </tr>
+</tbody></table><br>
+                  </p>
+                  <p class="aboutText">The Information as supplied by the users 
+                    enables us to improve our sites and provide you the most user-friendly 
+                    experience</p>
+                  <p class="aboutText"><strong>WHO COLLECTS THE INFORMATION?<br>
+                    </strong>We will collect anonymous traffic information from 
+                    you when you visit our site. </p>
+                  <p class="aboutText">We collect the personally identifiable 
+                    information from you when you register with us. During registration 
+                    you are required to give us your contact information (such 
+                    as name, email address, date of birth, gender, address, pin 
+                    code, cell number, occupation and interests). Upon registration 
+                    users may receive communications from Tehelka.com Pvt Ltd. 
+                    (e.g. newsletters, updates) </p>
+                  <p class="aboutText">We use this information to contact you 
+                    about the services you are using on our site and services 
+                    in which you have expressed interest. </p>
+                  <p class="aboutText">You have the option to provide demographic 
+                    information (such as occupation, education and gender) to 
+                    us; we encourage you to submit this information so we can 
+                    provide you a more personalized experience on our site. </p>
+                  <p class="aboutText">If you purchase a product or service from 
+                    us, we request certain personally identifiable information 
+                    from you on our order form. You must provide contact information 
+                    (such as name, email, and shipping address) and financial 
+                    information (such as credit card number, expiration date, 
+                    CVV verification, Name on card, billing address etc.). </p>
+                  <p class="aboutText">We use this information for billing purposes 
+                    and to fill your orders. If we have trouble processing an 
+                    order, we will use this information to contact you. </p>
+                  <p class="aboutText">If you choose to use our referral service 
+                    to tell a friend about our site, we will ask you for your 
+                    friend's name and email address. We will automatically send 
+                    your friend a one-time email inviting him or her to visit 
+                    the site. Tehelka.com Pvt Ltd. does store this information 
+                    and the information is used for the sole purpose of sending 
+                    this one-time email and tracking the success of our referral 
+                    program. </p>
+                  <p class="aboutText">Your friend may contact us at <a href="http://www.tehelka.com/about/contact.asp">http://www.tehelka.com/about/contact.asp</a> 
+                    to request that we remove this information from our database. 
+                  </p>
+                  <p class="aboutText">We will collect personally identifiable 
+                    information about you only as part of a voluntary registration 
+                    process, on-line survey, or contest or any combination thereof. 
+                  </p>
+                  <p class="aboutText">Our advertisers may collect anonymous traffic 
+                    information from their own assigned cookies to your browser. 
+                  </p>
+                  <p class="aboutText">The Site contains links to other Web sites. 
+                    We are not responsible for the privacy practices of such Web 
+                    sites which we do not own, manage or control. <br>
+                    <br>
+                    We are the sole owners of your information collected by us 
+                    at several different points on our Website. </p>
+                  <p class="aboutText"><strong>HOW IS THE INFORMATION USED?<br>
+                    </strong></p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="2">
+                    <tbody><tr> 
+                      <td width="3%" valign="top" class="aboutText" colspan="2">We use your email address to send you:</td>
+                    </tr>
+					<tr> 
+                      <td width="3%" valign="top" class="aboutText"><li></li></td>
+                      <td width="97%" class="aboutText">Password reminder and 
+                        registration confirmation</td>
+                    </tr>
+                    <tr> 
+                      <td valign="top" class="aboutText"><li></li></td>
+                      <td class="aboutText">Special offers</td>
+                    </tr>
+                    <tr> 
+                      <td valign="top" class="aboutText"><li></li></td>
+                      <td class="aboutText">News letters</td>
+                    </tr>
+                    <tr> 
+                      <td width="3%" valign="top" class="aboutText"><li></li></td>
+                      <td width="97%" class="aboutText">Changes in the service's 
+                        policy or terms of use </td>
+                    </tr>
+                    <tr> 
+                      <td valign="top" class="aboutText"><li></li></td>
+                      <td class="aboutText">Event based communications such as 
+                        order information, renewal notices, invites, reminders 
+                        etc.</td>
+                    </tr>
+                    <tr> 
+                      <td colspan="2" valign="top" class="aboutText">Note: We 
+                        send users newsletters and updates upon registration. 
+                        We send newsletters and/or promotional emails on behalf 
+                        of our alliance partners.</td>
+                    </tr>
+                    <tr> 
+                      <td valign="top" class="aboutText"></td>
+                      <td class="aboutText">&nbsp;</td>
+                    </tr>
+                    <tr> 
+                      <td colspan="2" valign="top" class="aboutText">We use your 
+                        personal information to: </td>
+                    </tr>
+                    <tr> 
+                      <td width="3%" valign="top" class="aboutText"><li></li></td>
+                      <td width="97%" class="aboutText">help us provide personalized 
+                        features</td>
+                    </tr>
+                    <tr> 
+                      <td valign="top" class="aboutText"><li></li></td>
+                      <td class="aboutText">tailor our sites to your interest 
+                      </td>
+                    </tr>
+                    <tr> 
+                      <td valign="top" class="aboutText"><li></li></td>
+                      <td class="aboutText">to get in touch with you in the case 
+                        of password retrieval and policy changes </td>
+                    </tr>
+                    <tr> 
+                      <td width="3%" valign="top" class="aboutText"><li></li></td>
+                      <td width="97%" class="aboutText">to provide the services 
+                        requested by you</td>
+                    </tr>
+                    <tr> 
+                      <td valign="top" class="aboutText"><li></li></td>
+                      <td class="aboutText">to preserve social history as governed 
+                        by existing law or policy </td>
+                    </tr>
+                    <tr> 
+                      <td valign="top" class="aboutText"></td>
+                      <td class="aboutText">&nbsp;</td>
+                    </tr>
+                    <tr> 
+                      <td width="3%" valign="top" class="aboutText" colspan="2">We 
+                        use contact information internally to: </td>
+                    </tr>
+                    <tr> 
+                      <td valign="top" class="aboutText"><li></li></td>
+                      <td class="aboutText">direct our efforts for product improvement 
+                      </td>
+                    </tr>
+                    <tr> 
+                      <td valign="top" class="aboutText"><li></li></td>
+                      <td class="aboutText">contact you as a survey respondent 
+                      </td>
+                    </tr>
+                    <tr> 
+                      <td width="3%" valign="top" class="aboutText"><li></li></td>
+                      <td width="97%" class="aboutText">notify you if you win 
+                        any contest; and</td>
+                    </tr>
+                    <tr> 
+                      <td valign="top" class="aboutText"><li></li></td>
+                      <td class="aboutText">send you promotional materials from 
+                        our contest sponsors or advertisers </td>
+                    </tr>
+                    <tr> 
+                      <td valign="top" class="aboutText"></td>
+                      <td class="aboutText">&nbsp;</td>
+                    </tr>
+                    <tr> 
+                      <td width="3%" valign="top" class="aboutText" colspan="2">Generally, 
+                        we use anonymous traffic information to:</td>
+                    </tr>
+                    <tr> 
+                      <td valign="top" class="aboutText"><li></li></td>
+                      <td class="aboutText">remind us of who you are in order 
+                        to deliver to you a better and more personalized service 
+                        from both an advertising and an editorial perspective; 
+                      </td>
+                    </tr>
+                    <tr> 
+                      <td width="3%" valign="top" class="aboutText"><li></li></td>
+                      <td width="97%" class="aboutText">recognize your access 
+                        privileges to our Web sites </td>
+                    </tr>
+                    <tr> 
+                      <td valign="top" class="aboutText"><li></li></td>
+                      <td class="aboutText">track your entries in some of our 
+                        promotions, sweepstakes and contests to indicate a player's 
+                        progress through the promotion and to track entries, submissions, 
+                        and status in prize drawings </td>
+                    </tr>
+                    <tr> 
+                      <td valign="top" class="aboutText"><li></li></td>
+                      <td class="aboutText">make sure that you don't see the same 
+                        ad repeatedly</td>
+                    </tr>
+                    <tr> 
+                      <td width="3%" valign="top" class="aboutText"><li></li></td>
+                      <td width="97%" class="aboutText"> help diagnose problems 
+                        with our server</td>
+                    </tr>
+                    <tr> 
+                      <td valign="top" class="aboutText"><li></li></td>
+                      <td class="aboutText">administer our Web sites</td>
+                    </tr>
+                    <tr> 
+                      <td valign="top" class="aboutText"><li></li></td>
+                      <td class="aboutText">track your session so that we can 
+                        understand better how people use our sites</td>
+                    </tr>
+                  </tbody></table>
+                  <p class="aboutText"> <strong>WITH WHOM WILL YOUR INFORMATION 
+                    BE SHARED?<br>
+                    </strong>We will not use your financial information for any 
+                    purpose other than to complete a transaction with you. <br>
+                    We do not share or rent your email addresses with third parties 
+                    except our agents and alliance partners. </p>
+                  <p class="aboutText"><strong>Agents <br>
+                    </strong>We use the services of our enabling partners such 
+                    as outside shipping companies, resellers, business associates 
+                    to fulfill orders, and credit card processing companies to 
+                    process the payment for goods and services ordered from Tehelka.com 
+                    Pvt Ltd. website. These entities do not retain, store, share 
+                    or use personally identifiable information for any other purposes. 
+                  </p>
+                  <p class="aboutText"><strong>Alliance Partners<br>
+                    </strong>We will share your information with our Alliance 
+                    Partners who work with us or on our behalf to help provide 
+                    you the services. An alliance partner is a company or an individual 
+                    who owns and manages (wholly or part of) online content on 
+                    their websites powered by Tehelka.com Pvt Ltd. </p>
+                  <p class="aboutText">We share email addresses with Agents and 
+                    Alliance Partners. The Agents and Alliance Partners use the 
+                    email address to confirm the deliveries, send notices and 
+                    offer services related to the service. </p>
+                  <p class="aboutText">We do not rent, sell or share your personal 
+                    information and we will not disclose any of your personally 
+                    identifiable information to third parties unless:</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="2">
+                    <tbody><tr> 
+                      <td width="3%" valign="top" class="aboutText"><li></li></td>
+                      <td width="97%" class="aboutText">we have your permission 
+                      </td>
+                    </tr>
+                    <tr> 
+                      <td valign="top" class="aboutText"><li></li></td>
+                      <td class="aboutText">to provide products or services you've 
+                        requested </td>
+                    </tr>
+                    <tr> 
+                      <td valign="top" class="aboutText"><li></li></td>
+                      <td class="aboutText">to help investigate, prevent or take 
+                        action regarding unlawful and illegal activities, suspected 
+                        fraud, potential threat to the safety or security of any 
+                        person, violations of Tehelka.com Pvt Ltd. terms of use 
+                        or to defend against legal claims; </td>
+                    </tr>
+                    <tr> 
+                      <td width="3%" valign="top" class="aboutText"><li></li></td>
+                      <td width="97%" class="aboutText">Special circumstances 
+                        such as compliance with subpoenas, court orders, requests/order 
+                        from legal authorities or law enforcement agencies requiring 
+                        such disclosure.</td>
+                    </tr>
+                  </tbody></table>
+                  <p class="aboutText"> We reserve the right to disclose your 
+                    personally identifiable and email address information as required 
+                    by law and when we believe that disclosure is necessary to 
+                    protect our rights and/or comply with a judicial proceeding, 
+                    court order, or legal process served on our Web site. </p>
+                  <p class="aboutText">We share your information with advertisers 
+                    on an aggregate basis only. When you register with Tehelka.com 
+                    Pvt Ltd., we contact you from time to time about updating 
+                    of your content to provide the users such features that we 
+                    believe may benefit you. </p>
+                  <p class="aboutText">The security of your personal information 
+                    and email address is important to us. When you enter sensitive 
+                    information (such as credit card number and/or social security 
+                    number) on our registration or order forms,</p>
+                  <p class="aboutText"> We encrypt that information using secure 
+                    socket layer technology (SSL). To learn more about SSL, follow 
+                    this link <a href="http://www.verisign.com/ssl/index.html" target="_blank">http://www.verisign.com/ssl/index.html</a> 
+                  </p>
+                  <p class="aboutText">We follow generally accepted industry standards 
+                    to protect the personal information and email address submitted 
+                    to us, both during transmission and once we receive it. No 
+                    method of transmission over the Internet, or method of electronic 
+                    storage, is 100% secure, however. Therefore, while we strive 
+                    to use commercially acceptable means to protect your personal 
+                    information and email address, we cannot guarantee its absolute 
+                    security. </p>
+                  <p class="aboutText"> If you have any questions about security 
+                    on our Web site, you can send email us at <a href="mailto:compliance@tehelka.com">compliance@tehelka.com</a> 
+                  </p>
+                  <p class="aboutText"> <strong>COOKIES</strong><br>
+                    To improve the responsiveness of the sites for our users, 
+                    we may use "cookies", or similar electronic tools 
+                    to collect information to assign each visitor a unique, random 
+                    number as a User Identification (User ID) to understand the 
+                    user's individual interests using the Identified Computer. 
+                    Unless you voluntarily identify yourself (through registration, 
+                    for ex- Tehelka.com Pvt Ltd.), we will have no way of knowing 
+                    who you are, even if we assign a cookie to your computer. 
+                    The only personal information a cookie can contain is information 
+                    you supply (an ex -Tehelka.com Pvt Ltd. of this is when you 
+                    ask for our Personalized Horoscope). A cookie cannot read 
+                    data off your hard drive. Our advertisers may also assign 
+                    their own cookies to your browser (if you click on their ads), 
+                    a process that we do not control. </p>
+                  <p class="aboutText">Our web servers automatically collect limited 
+                    information about your computer's connection to the Internet, 
+                    including your IP address, when you visit our site. (Your 
+                    IP address is a number that lets computers attached to the 
+                    Internet know where to send you data -- such as the web pages 
+                    you view.) Your IP address does not identify you personally. 
+                    We use this information to deliver our web pages to you upon 
+                    request, to tailor our site to the interests of our users, 
+                    to measure traffic within our site and let advertisers know 
+                    the geographic locations from where our visitors come. </p>
+                  <p class="aboutText">Tehelka.com Pvt Ltd. includes links to 
+                    other websites. Such sites are governed by their respective 
+                    privacy policies, which are beyond our control. Once you leave 
+                    our servers (you can tell where you are by checking the URL 
+                    in the location bar on your browser), use of any information 
+                    you provide is governed by the privacy policy of the operator 
+                    of the site you are visiting. That policy may differ from 
+                    ours. If you can't find the privacy policy of any of these 
+                    sites via a link from the site's homepage, you should contact 
+                    the site directly for more information. </p>
+                  <p class="aboutText">Supplying personally identifiable information 
+                    is entirely voluntary. You are not required to register with 
+                    us in order to use our sites. However, we offer some services 
+                    only to visitors who do register. </p>
+                  <p class="aboutText">You may change your interests at any time 
+                    and may opt-in or opt-out of any marketing / promotional / 
+                    newsletters mailings. Tehelka.com Pvt Ltd. reserves the right 
+                    to send you certain service related communication, considered 
+                    to be a part of your Tehelka.com account without offering 
+                    you the facility to opt-out. You may update your information 
+                    and change your account settings at any time. </p>
+                  <p class="aboutText">If you no longer wish to receive our newsletter 
+                    and promotional communications, you may opt-out of receiving 
+                    them by following the instructions included in each newsletter 
+                    or communication or by emailing us at <a href="mailto:compliance@tehelka.com">compliance@tehelka.com</a> 
+                    or you may contact us at +91-11-41638750 or Tehelka.com Pvt 
+                    Ltd., M-76, IInd Floor, M- Block Market, Greater Kailash-II, 
+                    New Delhi-110048 to opt-out. </p>
+                  <p class="aboutText"> Upon request, we will remove/block your 
+                    personally identifiable information from our database, thereby 
+                    canceling your registration. See Contact information below. 
+                    However, your information may remain stored in archive on 
+                    our servers even after the deletion or the termination of 
+                    your account. </p>
+                  <p class="aboutText">If your personally identifiable information 
+                    or email address change, or if you no longer desire our service, 
+                    you may correct, update, delete or deactivate it by by emailing 
+                    our Customer Support at <a href="mailto:compliance@tehelka.com">compliance@tehelka.com</a> 
+                    or by contacting us by telephone or postal mail at the contact 
+                    information listed below. </p>
+                  <p class="aboutText">If we plan to use your personally identifiable 
+                    information for any commercial purposes, we will notify you 
+                    at the time we collect that information and allow you to opt-out 
+                    of having your information used for those purposes. </p>
+                  <p class="aboutText">You can accept or decline the cookies. 
+                    All sites that are customizable require that you accept cookies. 
+                    You also must accept cookies to register as someone for access 
+                    to some of our services. For information on how to set your 
+                    browser to alert you to cookies, or to reject cookies, go 
+                    to <a href="http://www.cookiecentral.com/faq/" target="_blank">http://www.cookiecentral.com/faq/</a> 
+                  </p>
+                  <p class="aboutText">Any questions or clarifications with respect 
+                    to this Policy can be sent to Tehelka.com Pvt Ltd. (Privacy 
+                    Policy), M-76, IInd Floor, M- Block Market, Greater Kailash-II, 
+                    New Delhi-110048 or by emailing us at <a href="http://www.cookiecentral.com/faq/">compliance@tehelka.com</a>.</p>
+                  <p class="aboutText"><strong> POLICY UPDATES</strong><br>
+                    We reserve the right to change or update this policy at any 
+                    time by placing a prominent notice on our site. Such changes 
+                    shall be effective immediately upon posting to this site. 
+                  </p>
+                  <p class="aboutText">If we decide to change our privacy policy, 
+                    we will post those changes to this privacy statement, the 
+                    homepage, and other places we deem appropriate so that you 
+                    are aware of what information we collect, how we use it, and 
+                    under what circumstances, if any, we disclose it. We reserve 
+                    the right to modify this privacy statement at any time, so 
+                    please review it frequently. If we make material changes to 
+                    this policy, we will notify you here, or by means of a notice 
+                    on our homepage. </p>
+                  <p class="aboutText">If we decide to make changes in our email 
+                    practices, we will post those changes to this privacy policy, 
+                    the homepage, and other places we deem appropriate so that 
+                    you are aware of what information we collect, how we use it, 
+                    and under what circumstances, if any, we disclose it.</p>
+                  <p class="aboutText"> You are can offer your views, suggestions, 
+                    if any, by submitting the filled in <a href="#" onclick="javascript:window.open('../feedback_story.asp?url=http://www.tehelka.com/about/privacy.asp','','width=400,height=300,scrollbars=yes,titlebars=no,left=200,top=200')">feedback</a> 
+                    form online.</p></td>
+  </tr>
+ </tbody></table>
+<map name="MapAbout">
+  <area shape="rect" coords="565,38,726,54" href="team.asp">
+              <area shape="rect" coords="166,31,258,47" href="/about">
+            </map></td>
+				<td width="10" valign="top"></td>
+				<td width="234" valign="top"><table width="234" border="0" cellspacing="0" cellpadding="0" class="rightBoxborder">  
+   <tbody><tr> 
+    <td bgcolor="#efefef"><img src="../../home/20080405/images/band_special.gif" border="0"><br>
+      <a href="../../story_main38.asp?filename=Ne120408legend_encounter.asp"><img src="../../home/20080412/images/special-report-rajbir.jpg" border="0" width="232" height="107"></a></td>
+  </tr> 
+  <tr> 
+    <td bgcolor="#efefef" style="padding:5px 5px 5px 7px;"><span class="Style_AuthorName">By Mihir Srivastava </span><br>
+Extra-judicial executioner, caring father-Rajbir Singh is variously remembered <a href="../../story_main38.asp?filename=Ne120408legend_encounter.asp" class="newsmore">READ »</a></td>
+  </tr> 
+</tbody></table> 
+<!--<table width="234" border="0" cellspacing="0" cellpadding="0">  
+   <tr> 
+    <td>
+
+	include file="poll.htm"
+      
+      
+    </td>
+  </tr> 
+  <tr> 
+    <td height="8"></td>
+  </tr> 
+</table> -->
+
+
+<table width="234" border="0" cellspacing="0" cellpadding="0">
+ <tbody><tr> 
+    <td height="8"></td>
+  </tr> 
+   <tr> 
+      <td><a href="/Interactive/"><img src="../../images/permanentimages/forum_banner.gif" border="0"></a></td>
+  </tr>
+   <!--<tr> 
+    <td class="bordertd"><a href="../../story_main37.asp?filename=Bu081207TheNanoEffect.asp"><img src="../../../../home/20080202/images/nano_banner_hme.jpg" border="0" /></a></td>
+  </tr>  -->
+</tbody></table>
+
+
+
+
+<table width="234" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr> 
+    <td height="8"></td>
+  </tr> 
+  
+<tr> 
+    <td><a href="../../Subscribe/index.asp"><img src="../../images/ad/subscribe.jpg" border="0"></a>
+    
+        
+    </td>
+  </tr>
+  
+  <tr> 
+    <td height="8"></td>
+  </tr>
+  <tr> 
+    <td height="8"><a href="mailto:deepali@tehelka.com?subject=Complaints or feedback on subscription&amp;cc=amitsharma@tehelka.com"><img src="../../images/permanentimages/feedback.gif" border="0"></a></td>
+  </tr>
+  <tr> 
+    <td height="8"></td>
+  </tr>
+   <tr> 
+    <td height="8"><a href="http://magazine.tehelka.com/" target="_blank"><img src="../../images/permanentimages/banner_eMag.gif" border="0"></a></td>
+  </tr>
+  
+  <tr> 
+  
+  <!-- <tr> 
+    <td height="8"></td>
+  </tr>
+  <tr> 
+    <td height="8"><a href="#" onClick="window.open('../../Subscribe/overseasmain.asp','mywindow','width=500,height=400,toolbar=no,location=no,directories=yes,status=yes,menubar=no,fullscreen=yes,scrollbars=yes,copyhistory=yes, resizable=yes')"><img src="../../images/ad/overseasimage.jpg" border="0" width="234"></a></td>
+  </tr> -->
+  </tr><tr> 
+    <td height="8"></td>
+  </tr>
+<tr> 
+    <td>
+    <a href="http://tehelka.ganeshaspeaks.com/"><img src="../../images/ad/astro.jpg" border="0"></a>
+      
+    </td>
+  </tr>  
+  <tr> 
+    <td height="8"></td>
+  </tr>
+
+<tr> 
+    <td><iframe src="http://origin-img.shaadi.com/shaadi-rewards/get-banner.php?ptnr=wg9vj&amp;banner_type=buttons&amp;banner_size=234x60&amp;ad_type=iframe" width="234" height="60" scrolling="no" frameborder="0" marginwidth="0" marginheight="0"></iframe></td>
+  </tr>  
+  
+  
+  <tr> 
+    <td height="8"></td>
+  </tr>
+   <tr> 
+    <td align="center"><iframe src="http://www.s2d6.com/x/?x=i&amp;z=i&amp;v=717740&amp;r=29" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" vspace="0" hspace="0" width="210" height="415">
+<ilayer src="http://www.s2d6.com/x/?x=i&z=i&v=717740&r=29" z-index="0" width="210" height="415"><a href="http://www.s2d6.com/x/?x=c&z=s&v=717740&r=29" target="_blank"><img src="http://www.s2d6.com/x/?x=i&z=s&v=717740&r=29" border="0" alt="click here" /></a>
+</ilayer>
+</iframe></td>
+  </tr>
+  <tr> 
+    <td height="8"></td>
+  </tr>
+  
+</tbody></table>
+</td>
+				<td width="5" valign="top"></td>				
+		  </tr>
+		</tbody></table>
+	</td>   
+  </tr>
+   <tr>    
+    <td height="10"></td>  
+  </tr>
+  <tr>    
+    <td width="1004"><!--   -->
+ 
+
+
+<table width="1004" border="0" cellspacing="0" cellpadding="0">
+
+		<tbody><tr>
+			<td width="5"></td>           
+		    <td width="994" height="10"><table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">		
+        <tbody><tr bgcolor="#005e9a">
+          <td>&nbsp;</td>
+          
+    <td align="center" class="bottomnavigation"><!-- <a href="http://tehelkablog.wordpress.com/about/" class="nav"><span class="bottomnavigation">About 
+      Us</span></a> --><a href="../../../../../about/" class="nav"><span class="bottomnavigation">About 
+      Us</span></a> | <a href="../../../../../about/team.asp" class="nav"><span class="bottomnavigation">Who’s 
+      Who@Tehelka</span></a> |  <a href="../../../../../about/advertise.asp" class="nav"><span class="bottomnavigation">Advertise 
+      With Us</span></a> | <a href="../../../../../Subscribe/index.asp" class="nav"><span class="bottomnavigation">Print Subscriptions</span></a> 
+      | <a href="../../../../../about/syndication.asp" class="nav"><span class="bottomnavigation">Syndication</span></a> | <a href="../../../../../about/tos.asp" class="nav"><span class="bottomnavigation">Terms of Service</span></a> | <a href="../../../../../about/privacy.asp" class="nav"><span class="bottomnavigation">Privacy Policy</span></a> | <a href="#" onclick="javascript:window.open('../../../../../feedback_story.asp?url=http://www.tehelka.com/about/privacy.asp?filename=','','width=400,height=300,scrollbars=yes,titlebars=no,left=200,top=200')" class="nav"><span class="bottomnavigation">Feedback</span></a> | <a href="../../../../../about/contact.asp" class="nav"><span class="bottomnavigation">Contact 
+      Us</span></a></td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td>&nbsp;</td>
+          
+    <td align="center" class="copyright">Tehelka.com is a part of Agni Media Pvt. 
+      Ltd. © 2000 - 2008 All rights reserved</td>
+          <td>&nbsp;</td>
+        </tr>
+
+</tbody></table></td>
+			<td width="5"></td>
+        </tr>
+</tbody></table></td>  
+  </tr>
+  
+</tbody></table>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-182037-4";
+urchinTracker();
+</script></body></html>
