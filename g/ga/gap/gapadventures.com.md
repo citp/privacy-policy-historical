@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gapadventures.com privacy policy that was archived on 2007-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071201153246id_/http%3A//www.gapadventures.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gapadventures.com privacy policy that was archived on 2008-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080408061922id_/http%3A//www.gapadventures.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - G.A.P Adventures
 
