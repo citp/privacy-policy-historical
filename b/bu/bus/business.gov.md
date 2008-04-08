@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the business.gov privacy policy that was archived on 2007-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071130001045id_/http%3A//www.business.gov/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the business.gov privacy policy that was archived on 2008-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080408085718id_/http%3A//business.gov/policies/privacy) for the most accurate reproduction.*
 
 # Business.gov - Privacy Policy
 
@@ -18,15 +18,17 @@ Business.gov automatically records website usage information that we analyze sta
   * Completion or success status of the request for a web page or other on-line item
   * File size of the webpage visited
 
+
+
 This information is only used to help us make the site more useful for you. With this data we learn about the number of visitors to our site and the types of technology our visitors use. We never track or record information about individuals and their visits.
 
 ## Cookies
 
-When you visit some websites, their web servers generate files of information known as cookies, which helps webmasters understand how users interact with their site's content and services. Websites use cookies to track one's activities on a website (e.g., pages visited, links clicked on, etc.), and to record information about the user so when the user returns the site, customized features can be provided. 
+When you visit some websites, their web servers generate files of information known as cookies, which helps webmasters understand how users interact with their site's content and services. Websites use cookies to track one's activities on a website (e.g., pages visited, links clicked on, etc.), and to record information about the user so when the user returns the site, customized features can be provided.
 
 There are three types of cookies. A session cookie is a line of text that is stored temporarily in your computer's random access memory (RAM) and is only available for the duration of an active browsing session. A session cookie is not placed on any hard drive, and it is destroyed as soon as you close your browser. A persistent cookie is saved to a file on your hard drive and is accessed whenever you re-visit the website that put it there. This lets that website remember what you were interested in the last time you visited. A third-party cookie is a persistent cookie that is set by or sent to a website different than the one you're currently viewing. 
 
-Business.gov does not use persistent cookies, but sometimes uses session cookies. Some of the interactive sections of our website may set session cookies in temporary memory in order to provide streamlined navigation. These session cookies are not stored on your computer's hard drive **permanently** and are automatically erased as soon as you close your browser. Information from these session cookies is not collected or saved. 
+Business.gov does not use persistent cookies, but sometimes uses session cookies. Some of the interactive sections of our website may set session cookies in temporary memory in order to provide streamlined navigation. These session cookies are not stored on your computer's hard drive **permanently** and are automatically erased as soon as you close your browser. Information from these session cookies is not collected or saved.
 
 Business.gov uses Google Analytics, which requires a third party (Google) session cookie, to keep track of the site usage. The cookie is used solely for collecting usage information as described in the "Technical Information Collected and Automatically Stored" section. No personally identifiable information is gathered. 
 
@@ -50,4 +52,4 @@ Business.gov contains links to websites of other government, public and private 
 
 ## Your Rights Under the Privacy Act
 
-The Federal Citizen Information Center provides a guide to [Your Rights to Federal Records - Questions and Answers on the Freedom of Information Act and Privacy Act](http://www.pueblo.gsa.gov/cic_text/fed_prog/foia/foia.htm "Your Rights to Federal Records - Questions and Answers on the Freedom of Information Act and Privacy Act") that explains your rights to personal information under these laws. 
+The Federal Citizen Information Center provides a guide to [Your Rights to Federal Records - Questions and Answers on the Freedom of Information Act and Privacy Act](http://www.pueblo.gsa.gov/cic_text/fed_prog/foia/foia.htm) that explains your rights to personal information under these laws.
