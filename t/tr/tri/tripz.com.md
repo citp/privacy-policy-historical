@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tripz.com privacy policy that was archived on 2007-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071030213356id_/http%3A//www.tripz.com/086-privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripz.com privacy policy that was archived on 2008-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080408061705id_/http%3A//www.tripz.com/086-privacypolicy.html) for the most accurate reproduction.*
 
 # Tripz.com :: Privacy Policy
 
