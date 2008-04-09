@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stargateworlds.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211082321id_/http%3A//www.stargateworlds.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stargateworlds.com privacy policy that was archived on 2008-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080409220142id_/http%3A//www.stargateworlds.com/privacy) for the most accurate reproduction.*
 
 # Stargate Worlds :: Privacy Policy
 
@@ -6,34 +6,34 @@ Cheyenne Mountain Entertainment, Inc. (hereinafter referred to as "Cheyenne Moun
 
 This Privacy Policy addresses all aspects of our data collection and handling practices, including:
 
-  * [Definition of personal identifying information](http://www.stargateworlds.com/privacy/#informationcollected)
-  * [Information collection methods](http://www.stargateworlds.com/privacy/#collectionmethods)
-  * [Information usage and distribution](http://www.stargateworlds.com/privacy/#usage)
-  * [Data security](http://www.stargateworlds.com/privacy/#datasecurity)
-  * [Methods by which you may access and amend your personal identifying information](http://www.stargateworlds.com/privacy/#access)
-  * [Methods by which you may ask questions or file complaints regarding our collection or usage of personal identifying information](http://www.stargateworlds.com/privacy/#ask)
-  * [The consequences of an individual's refusal to provide information](http://www.stargateworlds.com/privacy/#refusal)
-  * [Public forums](http://www.stargateworlds.com/privacy/#forums)
-  * [Our policies concerning children](http://www.stargateworlds.com/privacy/#children)
-  * [General terms and conditions](http://www.stargateworlds.com/privacy/#general)
+  * [Definition of personal identifying information](http://community.stargateworlds.com/privacy/#informationcollected)
+  * [Information collection methods](http://community.stargateworlds.com/privacy/#collectionmethods)
+  * [Information usage and distribution](http://community.stargateworlds.com/privacy/#usage)
+  * [Data security](http://community.stargateworlds.com/privacy/#datasecurity)
+  * [Methods by which you may access and amend your personal identifying information](http://community.stargateworlds.com/privacy/#access)
+  * [Methods by which you may ask questions or file complaints regarding our collection or usage of personal identifying information](http://community.stargateworlds.com/privacy/#ask)
+  * [The consequences of an individual's refusal to provide information](http://community.stargateworlds.com/privacy/#refusal)
+  * [Public forums](http://community.stargateworlds.com/privacy/#forums)
+  * [Our policies concerning children](http://community.stargateworlds.com/privacy/#children)
+  * [General terms and conditions](http://community.stargateworlds.com/privacy/#general)
 
 
 
-## WHAT INFORMATION IS COLLECTED? 
+#### WHAT INFORMATION IS COLLECTED? 
 
 Cheyenne Mountain collects personal information from its online visitors on a voluntary basis and only in order to create or enhance our relationship with you. We may collect personal information from you in connection with your participation in activities like sweepstakes, contests, games, surveys, forums, subscription registrations, and in connection with chats or bulletin boards, or because you want us to furnish you with products, services or information. Personal information collected may include, but is not limited to, your name, e-mail address, phone number, fax number, home address, billing address, credit card information, and age.
 
-## HOW IS THE INFORMATION IS COLLECTED?
+#### HOW IS THE INFORMATION IS COLLECTED?
 
 Cheyenne Mountain collects personal identifying information via conventional internet forms. New users to the Site may be asked to register. We may request specific details, which may include your name, phone number, fax number, and home address. This information will then be associated with your e-mail account, so that you may identify yourself during future visits to the Site.
 
-## COOKIES:
+#### COOKIES:
 
 Certain sections of the Site may use "cookies." Cookies are very small data files left on your computer by the Site. These files can then be accessed by the Site in the future. Most browsers are automatically set to accept cookies. Please contact your PC consultant if you need additional information on cookies.
 
 We may use web site browser software tools such as cookies and web server logs to gather information about our Site users' browsing activities in order to constantly improve our Site and better serve our visitors. This information assists us in designing and arranging our Site in the most user-friendly manner, and in continually improving our Site to better meet the needs of our visitors and prospective visitors. 
 
-## INFORMATION USAGE AND DISTRIBUTION:
+#### INFORMATION USAGE AND DISTRIBUTION:
 
 Broadly speaking, we use personal information for purposes of administering our business activities and making available other products and services to our visitors and prospective visitors. Occasionally, we may also use the information we collect to notify you about important changes to our Site, new services, and special offers we think you will find valuable. The lists used to send you product and service offers are developed and managed under our standards and those of our service provider, which are designed to safeguard the security and privacy of our visitors' personal information.
 
@@ -49,29 +49,29 @@ Although we do not currently share any information you submit, by submitting you
 
 In the event that Cheyenne Mountain undergoes a change of control or is sold or transferred, or in the event that substantially all of its assets are sold or transferred to a third party, this Site and any personally identifiable information collected by Cheyenne Mountain, will be among the transferred assets. By using our site, you hereby agree and consent to such transfer or assignment of your personal information collected by Cheyenne Mountain or to a change of control of Cheyenne Mountain, and you further waive any claims that could be made against us in relation thereto.
 
-## DATA SECURITY:
+#### DATA SECURITY:
 
 We use reasonable administrative, technical, personnel and physical measures to safeguard your personal information in our possession against loss, theft and unauthorized use, disclosure or modification. In addition, we also use reasonable methods to make sure that your personal information is accurate, up-to-date and appropriately complete.
 
-## ACCESSING YOUR PERSONALLY IDENTIFYING INFORMATION:
+#### ACCESSING YOUR PERSONALLY IDENTIFYING INFORMATION:
 
 _Opt-out provision:_
 
 If you do not want Cheyenne Mountain to send you e-mail or postal mail about our products and services, you can opt out at the time of registration or information collection, or at any time in the future by contacting Cheyenne Mountain by e-mail at [legal@cheyenneme.com](mailto:legal@cheyenneme.com) or by mailing a request to: Attn: Cheyenne Mountain Entertainment Privacy Policy, Cheyenne Mountain Entertainment, Inc., 4140 East Baseline Rd., Suite 208, Mesa, Arizona 85206. By using this Site, you signify your assent to the Cheyenne Mountain Privacy Policy. If you do not agree to this Privacy Policy, you are not authorized to use this Site. We reserve the right to make changes in this Privacy Policy. Please check back from time to time to ensure you are aware of any changes in our privacy practices. Your continued use of the Site will signify your acceptance of these changes.
 
-## IF YOU HAVE QUESTIONS OR COMPLAINTS REGARDING OUR COLLECTION OR USAGE OF PERSONAL IDENTIFYING INFORMATION:
+#### IF YOU HAVE QUESTIONS OR COMPLAINTS REGARDING OUR COLLECTION OR USAGE OF PERSONAL IDENTIFYING INFORMATION:
 
 If you have any questions, complaints, or comments regarding our Privacy Policy, please contact Cheyenne Mountain by email at [legal@cheyenneme.com](mailto:legal@cheyenneme.com) or by writing to: Attn: Cheyenne Mountain Entertainment Privacy Policy, Cheyenne Mountain Entertainment, Inc., 4140 East Baseline Rd., Suite 208, Mesa, Arizona 85206.
 
-## IF YOU REFUSE TO PROVIDE INFORMATION ONLINE:
+#### IF YOU REFUSE TO PROVIDE INFORMATION ONLINE:
 
 Cheyenne Mountain does not require registration or submission of personal identifying information to obtain basic access to the Site; however, you may not be able to access all areas and functions of the Site.
 
-## PUBLIC FORUMS:
+#### PUBLIC FORUMS:
 
 Cheyenne Mountain may make chat rooms, job listing areas, message boards, news groups, and other community services available to you on the Site. Please understand that any information that is disclosed in these areas becomes public information. Cheyenne Mountain has no control over its use and you should exercise caution when deciding to disclose your personal identifying information or any other information about yourself. The information presented in these areas reflects the views of the individual users or hosts and does not necessarily reflect the views of Cheyenne Mountain or any of its affiliates.
 
-## CHILDREN'S PRIVACY:
+#### CHILDREN'S PRIVACY:
 
 The Site complies with the Children's Online Privacy Protection Act. 
 
@@ -89,12 +89,12 @@ Cheyenne Mountain encourages parents and guardians to spend time online with the
 
 If you are a parent or guardian who has discovered that your child has submitted his or her personal information without your permission or consent, we will take reasonable steps to promptly remove that information from our database at your request. To request removal of your child's information, please send an e-mail to [legal@cheyenneme.com](mailto:legal@cheyenneme.com) and be sure to include in your message the same user name, password, and email address that your child submitted.
 
-## LINKS TO THIRD PARTY SITES:
+#### LINKS TO THIRD PARTY SITES:
 
 The Site may from time to time contain links to third-party web sites. Cheyenne Mountain is not responsible for the privacy practices or the content of such web sites. If you are concerned about the privacy policy of a certain third party, you may contact them directly or visit their individual web sites to learn more about their individual privacy policies.
 
-## GENERAL TERMS AND CONDITIONS OF USE:
+#### GENERAL TERMS AND CONDITIONS OF USE:
 
-The terms of this Privacy Policy are incorporated into our general Terms of Use. Please review our [Terms of Use](http://www.stargateworlds.com/tou/).
+The terms of this Privacy Policy are incorporated into our general Terms of Use. Please review our [Terms of Use](http://community.stargateworlds.com/tou/).
 
 Last updated: February 21, 2006.
