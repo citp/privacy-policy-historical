@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the centurytel.com privacy policy that was archived on 2007-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071028082554id_/http%3A//www.centurytel.com/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centurytel.com privacy policy that was archived on 2008-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080410010611id_/http%3A//www.centurytel.com/Pages/PrivacyPolicy/%3Bjsessionid%3DFFE0E64C9CC9B78C34F798C2FFE6D5CC) for the most accurate reproduction.*
 
 # CenturyTel - Privacy Policy
 
-Updated: 06.20.07
+## Our commitment to privacy
+
+Updated: 10.01.07
 
 We are committed to protecting your privacy. This Privacy Policy discloses how we gather, protect, and use personal information collected from this Web site. Please read the complete Privacy Policy. We value the views of our customers and Web Site visitors. If you have any questions or concerns, we encourage you to share them with us.
 
@@ -28,6 +30,7 @@ We are committed to protecting your privacy. This Privacy Policy discloses how w
   * CPNI (Customer Proprietary Network Information)
   * Security of Your Phone Records
   * My Account
+  * Changes to this Policy
 
 
 
@@ -45,18 +48,18 @@ back to top
 
 When you supply information about yourself for a specific purpose, we use the information for that purpose. For example, we use your information to help you complete a transaction or order, to communicate with you, to provide service and support, or to update you on services and benefits. We also may use your personal information for the following general purposes:
 
-  * To help us deliver the services you have requested. 
-  * To design or offer specific products or services that we believe will be useful to you. 
-  * To send you information about our company and some of our partners. 
-  * To manage and upgrade this Web site. 
+  * To help us deliver the services you have requested.
+  * To design or offer specific products or services that we believe will be useful to you.
+  * To send you information about our company and some of our partners.
+  * To manage and upgrade this Web site.
 
 
 
 The decision to provide us with your personal information is purely voluntary, and you will be provided with an opportunity to decline to provide your personal information each time we request it.
 
-CenturyTel also uses e-mail to provide you with information about your service, or to inform you of products, new offers, and special promotions we think might interest you. Please see our section on Opting Out for more information. 
+CenturyTel also uses e-mail to provide you with information about your service, or to inform you of products, new offers, and special promotions we think might interest you. Please see our section on Opting Out for more information.
 
-**Non-personal Information** : This information is data about usage and service operation that is not associated with a specific personal identity. CenturyTel collects and analyzes non-personal information to evaluate how visitors use our Web site. Non-personal data we collect may include the pages visited on the site, unique URLs visited within centurytel.com, browser type, and IP address. Most non-personal data is collected via cookies or other analysis technologies. Our Web pages use cookies, statistics tracking, and other technologies for data analysis and personalization services. 
+**Non-personal Information:** This information is data about usage and service operation that is not associated with a specific personal identity. CenturyTel collects and analyzes non-personal information to evaluate how visitors use our Web site. Non-personal data we collect may include the pages visited on the site, unique URLs visited within centurytel.com, browser type, and IP address. Most non-personal data is collected via cookies or other analysis technologies. Our Web pages use cookies, statistics tracking, and other technologies for data analysis and personalization services.
 
 back to top
 
@@ -66,10 +69,10 @@ back to top
 
 We are committed to our customers, and we will not share your personal information with unaffiliated third parties without your permission, except under the following circumstances:
 
-  * We may disclose your personal information if we are required to do so by law. 
-  * We may disclose your personal information to law enforcement authorities if it is believed in good faith that such action is necessary to protect public safety or to protect the employees and property of CenturyTel. 
-  * We may disclose your personal information to companies and vendors that perform marketing or other services on our behalf. 
-  * We may disclose your personal information to unaffiliated companies and vendors, when necessary, to provide a service that you requested. 
+  * We may disclose your personal information if we are required to do so by law.
+  * We may disclose your personal information to law enforcement authorities if it is believed in good faith that such action is necessary to protect public safety or to protect the employees and property of CenturyTel.
+  * We may disclose your personal information to companies and vendors that perform marketing or other services on our behalf.
+  * We may disclose your personal information to unaffiliated companies and vendors, when necessary, to provide a service that you requested.
 
 
 
@@ -81,7 +84,7 @@ back to top
 
 ### How To Get Your Information Removed From Our Records
 
-We keep our customer data for two years, for modeling and profiling of our products and their activity, after which it is destroyed. To get your information removed from our records prior to that, you may contact us by [e-mail](https://web.archive.org/web/20071028082554id_/http%3A//www.centurytel.com/custserv/contact_us/#/), phone, or [postal mail](https://web.archive.org/web/20071028082554id_/http%3A//www.centurytel.com/custserv/contact_us/contact_info.cfm), and we will remove your information promptly. 
+We keep our customer data for two years, for modeling and profiling of our products and their activity, after which it is destroyed. To get your information removed from our records prior to that, you may contact us by [e-mail](https://web.archive.org/Pages/Support/ContactUs/), phone, or [postal mail](https://web.archive.org/Pages/Support/ContactUs/contactUsInfo.jsp), and we will remove your information promptly.
 
 back to top
 
@@ -89,11 +92,11 @@ back to top
 
 ### Opting Out
 
-We periodically send our customers news about products, new offers, and special promotions by e-mail. When you become a CenturyTel customer, you are automatically signed up to receive these e-mails. To update your e-mail address for special offers and products, or to stop receiving e-mails about specials on products and services, log in to "[My Account](https://www.centurytel.com/custserv/myAccount/)," select "Account Profile" in the left navigation menu, and under "Your e-mail preferences," select the link that matches your preference. 
+We periodically send our customers news about products, new offers, and special promotions by e-mail. When you become a CenturyTel customer, you are automatically signed up to receive these e-mails. To update your e-mail address for special offers and products, or to stop receiving e-mails about specials on products and services, log in to "[My Account](https://web.archive.org/myaccount)," select "Account Profile" in the left navigation menu, and under "Your e-mail preferences," select the link that matches your preference.
 
-If you would like to enroll or learn about the benefits of My Account, read our [FAQs](https://web.archive.org/web/20071028082554id_/http%3A//www.centurytel.com/custserv/FAQs/index.cfm) or [Enroll now](https://www.centurytel.com/applications/index.cfm).
+If you would like to enroll or learn about the benefits of My Account, read our [FAQs](https://web.archive.org/Pages/Support/HelpAndFAQ/) or [enroll now](https://web.archive.org/myAccountEnrollment.html).
 
-If you are not enrolled for My Account, and wish to stop receiving emails about CenturyTel products and services specials, [unsubscribe](http://www.centurytel.com/applications/index.cfm?fuseaction=EmailOption.main) here.
+If you are not enrolled for My Account, and wish to stop receiving emails about CenturyTel products and services specials, [unsubscribe here](https://web.archive.org/emailEnrollment.html).
 
 back to top
 
@@ -101,9 +104,9 @@ back to top
 
 ### Updating Your Personal Information
 
-You may update your name, address, e-mail address, and personal preferences in the My Account section of the Web site. If you would like to update this information now, please log in to [My Account](https://www.centurytel.com/custserv/myAccount/).
+You may update your name, address, e-mail address, and personal preferences in the My Account section of the Web site. If you would like to update this information now, please log in to [My Account](https://web.archive.org/myaccount).
 
-You must enroll in My Account to access and update your personal information. If you have not enrolled, [click here](https://www.centurytel.com/applications/index.cfm?fuseaction=applications.myAccountEnrollment) to do so.
+You must enroll in My Account to access and update your personal information. If you have not enrolled, [click here](https://web.archive.org/myAccountEnrollment.html) to do so.
 
 back to top
 
@@ -115,7 +118,7 @@ CenturyTel collects information about your computer hardware and software -- for
 
 We, or a third party acting on our behalf, may use cookies to tailor and improve the content we deliver to our Web visitors, to improve our Web site by assessing which areas, features, and products are most popular, and to personalize our Web site and make recommendations based on information, including product choices, a particular visitor has previously provided. For example, we may use a cookie to identify your phone number so we do not ask you to enter it more than once. We also use cookies to store user preferences, complete online order activity and keep track of transactions.
 
-We, or a third party acting on our behalf, may use Web beacons in certain of our Web pages and e-mails to gauge the effectiveness of our marketing campaigns and e-mail correspondence. For example, we may use Web beacons in our HTMLbased e-mails to let us know which e-mails have been opened by the recipients.
+We, or a third party acting on our behalf, may use Web beacons in certain of our Web pages and e-mails to gauge the effectiveness of our marketing campaigns and e-mail correspondence. For example, we may use Web beacons in our HTML-based e-mails to let us know which e-mails have been opened by the recipients.
 
 You can configure your Web browser to alert you when a Web site is attempting to send a cookie to your computer and allow you to accept or refuse the cookie. You can also set your browser to disable the capacity to receive cookies or you can delete cookies previously accepted. Some CenturyTel web pages (and other Web pages) may not work correctly if you have cookies disabled.
 
@@ -133,15 +136,27 @@ back to top
 
 ### How to Enable Cookies
 
-To enable cookies, follow the instructions below for the browser version you are using. 
+To enable cookies, follow the instructions below for the browser version you are using.
 
-#### Mozilla Firefox (1.0 final release and earlier)
+#### Mozilla Firefox 2.0+
 
-  * Go to the "Tools" menu. 
-  * Select "Options". 
-  * Select the "Privacy" icon in the left panel. 
-  * Check the box corresponding to "Allow sites to set cookies". 
-  * Click "OK" to save changes. 
+  * Go to the "Tools" menu.
+  * Select "Options".
+  * Select the "Privacy" icon in the top panel.
+  * Check the box corresponding to "Accept cookies from sites".
+  * Click "OK" to save changes.
+
+
+
+back to top
+
+#### Mozilla Firefox 1.0 final release and earlier
+
+  * Go to the "Tools" menu.
+  * Select "Options".
+  * Select the "Privacy" icon in the left panel.
+  * Check the box corresponding to "Allow sites to set cookies".
+  * Click "OK" to save changes.
 
 
 
@@ -149,11 +164,11 @@ back to top
 
 #### Netscape 7.1/Mozilla 5.0
 
-  * Select "Preferences" from the Edit menu. 
-  * Click on the arrow next to "Privacy & Security" in the scrolling window to expand. 
-  * Under "Privacy & Security", select "Cookies." 
-  * Select "Enable all cookies". 
-  * Click "OK". 
+  * Select "Preferences" from the Edit menu.
+  * Click on the arrow next to "Privacy & Security" in the scrolling window to expand.
+  * Under "Privacy & Security", select "Cookies."
+  * Select "Enable all cookies".
+  * Click "OK".
 
 
 
@@ -161,50 +176,50 @@ back to top
 
 #### Microsoft Internet Explorer 6.0+
 
-  * Select "Internet Options" from the Tools menu. 
-  * Click on the "Privacy" tab. 
-  * Click the "Default" button (or manually slide the bar down to "Medium") under "Settings". 
-  * Click "OK". 
+  * Select "Internet Options" from the Tools menu.
+  * Click on the "Privacy" tab.
+  * Click the "Default" button (or manually slide the bar down to "Medium") under "Settings".
+  * Click "OK".
 
 
 
 back to top
 
-#### Microsoft Internet Explorer 5.x 
+#### Microsoft Internet Explorer 5.x
 
-  * Select "Internet Options" from the Tools menu. 
-  * Click on the "Security" tab. 
-  * Click the "Custom Level" button. 
-  * Scroll down to the "Cookies" section. 
+  * Select "Internet Options" from the Tools menu.
+  * Click on the "Security" tab.
+  * Click the "Custom Level" button.
+  * Scroll down to the "Cookies" section.
   * To enable: 
-    * Set "Allow cookies that are stored on your computer" to "Enable". 
-    * Set "Allow per-session cookies" to "Enable". 
-  * Click "OK". 
+    * Set "Allow cookies that are stored on your computer" to "Enable".
+    * Set "Allow per-session cookies" to "Enable".
+  * Click "OK".
 
 
 
 back to top
 
-#### Microsoft Internet Explorer 4.x 
+#### Microsoft Internet Explorer 4.x
 
-  * Select "Internet Options" from the View menu. 
-  * Click on the "Advanced" tab. 
-  * Scroll down to find "Cookies" within the "Security" section. 
+  * Select "Internet Options" from the View menu.
+  * Click on the "Advanced" tab.
+  * Scroll down to find "Cookies" within the "Security" section.
   * To enable: 
-    * Select "Always accept cookies". 
-  * Click "OK". 
+    * Select "Always accept cookies".
+  * Click "OK".
 
 
 
 back to top
 
-#### Netscape Communicator 4.x 
+#### Netscape Communicator 4.x
 
-  * Select "Preferences" from the Edit menu. 
-  * Find the "Cookies" section in the "Advanced" category. 
+  * Select "Preferences" from the Edit menu.
+  * Find the "Cookies" section in the "Advanced" category.
   * To enable: 
-    * Select "Accept all cookies" (or "Enable all cookies"). 
-  * Click "OK". 
+    * Select "Accept all cookies" (or "Enable all cookies").
+  * Click "OK".
 
 
 
@@ -212,10 +227,10 @@ back to top
 
 #### Apple Safari 1.31
 
-  * Select "Preferences" from Safari menu. 
-  * Click on "Security" padlock icon. 
-  * Under the Accept Cookies option, check the radio button for Always. 
-  * Click OK and close the Preferences dialog to apply changes. 
+  * Select "Preferences" from Safari menu.
+  * Click on "Security" padlock icon.
+  * Under the Accept Cookies option, check the radio button for Always.
+  * Click OK and close the Preferences dialog to apply changes.
 
 
 
@@ -225,15 +240,27 @@ back to top
 
 ### How To Disable Cookies
 
-To disable/be alerted about accepting cookies, follow the instructions below for the browser version you are using: 
+To disable/be alerted about accepting cookies, follow the instructions below for the browser version you are using:
 
-#### Mozilla Firefox (1.0 final release and earlier)
+#### Mozilla Firefox 2.0+
 
-  * Go to the "Tools" menu. 
-  * Select "Options". 
-  * Select the "Privacy" icon in the left panel. 
-  * Uncheck the box corresponding to "Allow sites to set cookies". 
-  * Click "OK" to save changes. 
+  * Go to the "Tools" menu.
+  * Select "Options".
+  * Select the "Privacy" icon in the top panel.
+  * Uncheck the box corresponding to "Accept cookies from sites".
+  * Click "OK" to save changes.
+
+
+
+back to top
+
+#### Mozilla Firefox 1.0 final release and earlier
+
+  * Go to the "Tools" menu.
+  * Select "Options".
+  * Select the "Privacy" icon in the left panel.
+  * Uncheck the box corresponding to "Allow sites to set cookies".
+  * Click "OK" to save changes.
 
 
 
@@ -241,11 +268,11 @@ back to top
 
 #### Netscape 7.1/Mozilla 5.0
 
-  * Select "Preferences" from the Edit menu. 
-  * Click on the arrow next to "Privacy & Security" in the scrolling window to expand. 
-  * Under "Privacy & Security", select "Cookies." 
-  * Select "Disable cookies". 
-  * Click "OK". 
+  * Select "Preferences" from the Edit menu.
+  * Click on the arrow next to "Privacy & Security" in the scrolling window to expand.
+  * Under "Privacy & Security", select "Cookies."
+  * Select "Disable cookies".
+  * Click "OK".
 
 
 
@@ -253,50 +280,50 @@ back to top
 
 #### Microsoft Internet Explorer 6.0+
 
-  * Select "Internet Options" from the Tools menu. 
-  * Click on the "Privacy" tab. 
-  * Manually slide the bar up to "High" or "Block All Cookies") under "Settings". 
-  * Click "OK". 
+  * Select "Internet Options" from the Tools menu.
+  * Click on the "Privacy" tab.
+  * Manually slide the bar up to "High" or "Block All Cookies") under "Settings".
+  * Click "OK".
 
 
 
 back to top
 
-#### Microsoft Internet Explorer 5.x 
+#### Microsoft Internet Explorer 5.x
 
-  * Select "Internet Options" from the Tools menu. 
-  * Click on the "Security" tab. 
-  * Click the "Custom Level" button. 
-  * Scroll down to the "Cookies" section. 
+  * Select "Internet Options" from the Tools menu.
+  * Click on the "Security" tab.
+  * Click the "Custom Level" button.
+  * Scroll down to the "Cookies" section.
   * To disable: 
-    * Set "Allow cookies that are stored on your computer" to "Disable" or "Prompt." 
-    * Set "Allow per-session cookies" to "Disable" or "Prompt." 
-  * Click "OK". 
+    * Set "Allow cookies that are stored on your computer" to "Disable" or "Prompt."
+    * Set "Allow per-session cookies" to "Disable" or "Prompt."
+  * Click "OK".
 
 
 
 back to top
 
-#### Microsoft Internet Explorer 4.x 
+#### Microsoft Internet Explorer 4.x
 
-  * Select "Internet Options" from the View menu. 
-  * Click on the "Advanced" tab. 
-  * Scroll down to find "Cookies" within the "Security" section. 
+  * Select "Internet Options" from the View menu.
+  * Click on the "Advanced" tab.
+  * Scroll down to find "Cookies" within the "Security" section.
   * To disable: 
-    * Select "Never accept cookies" or "Prompt before accepting cookies." 
-  * Click "OK". 
+    * Select "Never accept cookies" or "Prompt before accepting cookies."
+  * Click "OK".
 
 
 
 back to top
 
-#### Netscape Communicator 4.x 
+#### Netscape Communicator 4.x
 
-  * Select "Preferences" from the Edit menu. 
-  * Find the "Cookies" section in the "Advanced" category. 
+  * Select "Preferences" from the Edit menu.
+  * Find the "Cookies" section in the "Advanced" category.
   * To disable: 
-    * Select "Warn me before accepting a cookie." 
-  * Click "OK". 
+    * Select "Warn me before accepting a cookie."
+  * Click "OK".
 
 
 
@@ -304,10 +331,10 @@ back to top
 
 #### Apple Safari 1.31
 
-  * Select "Preferences" from Safari menu. 
-  * Click on "Security" padlock icon. 
-  * Under the Accept Cookies option, check the radio button for "Never" or "Prompt." 
-  * Click OK and close the Preferences dialog to apply changes. 
+  * Select "Preferences" from Safari menu.
+  * Click on "Security" padlock icon.
+  * Under the Accept Cookies option, check the radio button for "Never" or "Prompt."
+  * Click OK and close the Preferences dialog to apply changes.
 
 
 
@@ -355,15 +382,14 @@ back to top
 
 You can rest assured that:
 
-  * CenturyTel does not share your personal information. 
-  * your information will be handled in a confidential and professional manner 
-  * our partners and employees have been trained to respect and protect your privacy 
+  * CenturyTel does not share your personal information.
+  * your information will be handled in a confidential and professional manner
+  * our partners and employees have been trained to respect and protect your privacy
   * safeguards are in place to protect your account details and personal information
 
 
 
-If you still have questions or concerns about your privacy, feel free to email   
-[IT-privacypolicy@centurytel.com](mailto:IT-privacypolicy@centurytel.com). We will be delighted to answer your questions.
+If you still have questions or concerns about your privacy, feel free to email [IT-privacypolicy@centurytel.com](mailto:IT-privacypolicy@centurytel.com). We will be delighted to answer your questions.
 
 back to top
 
@@ -395,28 +421,35 @@ back to top
 
 ### My Account
 
-**What information do we collect?**   
-To access your bill, make payments or shop in our store, you will need to create an account. Your account is protected by a password that you choose. We will ask for your name, email address, billing address, telephone number and other personal information. If you wish to pay by credit card, we will also ask for your credit card information which will be maintained in encrypted form for your protection. This account information is kept along with your order history. You can view your account information and the status of your orders by clicking on the My Account page at any time. In addition, we also log information about your visit, including the URL that you came from, your Internet Protocol address, domain type (e.g., .com, .org), CenturyTel website pages that you view and search terms you use.
+**What information do we collect?**
 
-**How do we use personal information?**   
-The information you provide to purchase merchandise is used to fulfill your order. In addition, you may choose to receive an email newsletter with special promotions, new arrivals or new features of the site. You can remove yourself from our newsletter list by changing your selection on the My Account page at any time. In addition, we use log information from My Account in order to enhance the operation of the site. We do not correlate personally identifying information collected in My Account with any other information that you provide when using other sections of the CenturyTel website. 
+To access your bill, make payments or shop in our store, you will need to create an account. Your account is protected by a password that you choose. We will ask for your name, email address, billing address, telephone number and other personal information. If you wish to pay by credit card, we will also ask for your credit card information which will be maintained in encrypted form for your protection. This account information is kept along with your order history. You can view your account information and the status of your orders by clicking on the [My Account](https://web.archive.org/myaccount) page at any time. In addition, we also log information about your visit, including the URL that you came from, your Internet Protocol address, domain type (e.g., .com, .org), CenturyTel website pages that you view and search terms you use.
 
-**What about cookies?**  
+**How do we use personal information?**
+
+The information you provide to purchase merchandise is used to fulfill your order. In addition, you may choose to receive an email newsletter with special promotions, new arrivals or new features of the site. You can remove yourself from our newsletter list by changing your selection on the My Account page at any time. In addition, we use log information from My Account in order to enhance the operation of the site. We do not correlate personally identifying information collected in My Account with any other information that you provide when using other sections of the CenturyTel website.
+
+**What about cookies?**
+
 A cookie is a piece of data that identifies you as a unique user. When you visit My Account, we set a cookie on your computer to help identify you, customize your experience, maintain your account and order information. To protect the security of your account, you must accept the My Account cookie in order to access your bill, make payments or shop.
 
-**Do we share personal information?**   
+**Do we share personal information?**
+
 We do not sell or rent any personal information to others. We may, however, disclose personal information if we believe we are required to do so by law or have a good faith belief that access, preservation or disclosure of such information is reasonably necessary to protect the rights, property or safety of CenturyTel, its users and the public.
 
-**How do we keep your information secure?**   
+**How do we keep your information secure?**
+
 The personal information that you provide to My Account, including your credit card information, is maintained on secure servers and protected by industry-standard Secure Socket Layer encryption. When entering personal information, look for an icon at the bottom of your browser window that indicates you are on a secure page.
 
-**How do I update my information?**  
-You can access and edit your account information at any time by logging in and clicking on the [My Account page.](https://web.archive.org/web/20071028082554id_/http%3A//www.centurytel.com/custserv/myAccount/index.cfm)
+**How can you update your information?**
 
-If you have questions about the status of your orders or any other questions about My Account, please [contact us](https://web.archive.org/web/20071028082554id_/http%3A//www.centurytel.com/custserv/contact_us/).
+You can access and edit your account information at any time by logging in and clicking on the [My Account](https://web.archive.org/myaccount) page.
 
-**Changes to this Policy**  
-Please note that it is possible that this Privacy Policy may change from time to time. We expect most such changes to be minor, but there may be changes that are more significant. Regardless, we will post those changes on this page so that you can easily find the information we collect and how we safeguard it. You should be able to readily notice any changes by the date stamp at the top of this page. 
+If you have questions about the status of your orders or any other questions about My Account, please [contact us](https://web.archive.org/Pages/Support/ContactUs/).
+
+### Changes to this Policy
+
+Please note that it is possible that this Privacy Policy may change from time to time. We expect most such changes to be minor, but there may be changes that are more significant. Regardless, we will post those changes on this page so that you can easily find the information we collect and how we safeguard it. You should be able to readily notice any changes by the date stamp at the top of this page.
 
 back to top
 
