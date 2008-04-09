@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adwords-articles.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210172946id_/http%3A//adwords-articles.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adwords-articles.com privacy policy that was archived on 2008-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080409223032id_/http%3A//adwords-articles.com/privacy.php) for the most accurate reproduction.*
 
-# SEO articles - Search Engine Marketing - adwords-articles.com
+# SEO articles - Search Engine Marketing - Adwords-Articles.com
 
 Privacy Policy
 
