@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chieftain.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011095028id_/http%3A//www.chieftain.com/privacy_statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chieftain.com privacy policy that was archived on 2008-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080409212203id_/http%3A//www.chieftain.com/privacy_statement.php) for the most accurate reproduction.*
 
 # The Pueblo Chieftain Online - Pueblo, Colorado U.S.A
 
@@ -44,8 +44,6 @@ The Pueblo Chieftain Internet Services reserves the right to restrict access to 
 *The Pueblo Chieftain Internet Services reserves all publishing rights and approval for publishing.
 
 | 
-
-TopJobs
 
 Ticket Center
 
