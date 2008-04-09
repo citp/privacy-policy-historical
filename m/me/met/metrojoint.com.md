@@ -1,11 +1,14 @@
-> *The following text is extracted and transformed from the metrojoint.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211092107id_/http%3A//www.metrojoint.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metrojoint.com privacy policy that was archived on 2008-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080409163300id_/http%3A//www.metrojoint.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy - MetroJoint.com
 
-|  |  |  |   
+|  [](http://www.metrojoint.com/) |   
 ---|---  
-  
+|   
+---  
 |    
+---  
+|   Privacy Policy  
 ---  
 | We, at MetroJoint.com, take your privacy very seriously and abide by the following policy to ensure your satisfaction. If you have any concerns, please do not hesitate to contact us.   
 ---  
@@ -23,7 +26,7 @@
 •   | Tell me about e-mail choice/opt-out policy.  
 •   | Tell me how to contact MetroJoint.com.  
   |    
-| **What information does MetroJoint.com collect/track about me?**  
+| **   What information does MetroJoint.com collect/track about me? **  
 ---  
   
 MetroJoint's sole purpose is to assist you in creating your very own social network and virtual world. Whether you are seeking friendship, a casual or a serious relationship, MetroJoint is here to help you. 
@@ -61,21 +64,17 @@ The Partners program is a vehicle for other sites to link to the MetroJoint.com 
   | **Aggregate:**  
   | This information -- browser type and IP address \-- is general in nature and is gathered for all users of MetroJoint.com. It cannot be and is not used to identify any individual user.   
    
-| **      • What does MetroJoint.com do with the information it collects/tracks?**  
+| **   ** **What does MetroJoint.com do with the information it collects/tracks?**  
 ---  
 •  | **Public:**
 
 Public information supplied by the member is intended to be viewed by visitors to the site. This information is used by visitors for searching and matching purposes. Public information cannot be used to identify a specific member by name, address, etc.   
   
-  •  | 
-
-**Private:**
+•  | **Private:**
 
 We primarily use email addresses submitted by members to verify enrollment and when forwarding anonymous e-mails from ad responders. Respondees' email addresses are not disclosed to the responder. We also use members email addresses to send news/updates regarding our site, but the member may choose not to receive emails of this type by unsubscribing. 
 
-  
 Email addresses may also be used in private correspondence with members for customer service. Financial information is used to bill members for products and services. All other private information submitted by members is confidential and will not be disclosed except as required by law or to protect members of MetroJoint.com. All private information can be updated or deleted by the member at any time.  
-  
   
 •  | **Surveys & Contests:**  
 Contact and other information collected for contests will be used to notify the winners and award prizes. Survey information will be used for monitoring or improving user-satisfaction.   
@@ -83,12 +82,7 @@ Contact and other information collected for contests will be used to notify the 
 Information submitted by the MetroJoint partner is used for establishing and maintaining a business relationship. No personal or business information is shared outside the relationship between MetroJoint.com and the MetroJoint partner. MetroJoint partners cannot view or access private information about MetroJoint.com members.   
   
   |    
-**       • Information not directly submitted by members to MetroJoint.com **  
-•  | **Aggregate:**  
-  | This information -- browser type and IP address \-- is general in nature and is gathered for all members of MetroJoint.com. It cannot be linked to any individual user.   
-  
-  | ** Top **  
-**With whom does MetroJoint.com share the information it collects/tracks?**  
+**   ** **With whom does MetroJoint.com share the information it collects/tracks?**  
   
 Except where you are expressly informed otherwise or as described immediately below. 
 
@@ -99,13 +93,11 @@ If you register with MetroJoint.com through one of our co-branded versions, your
 **We encourage you to review the privacy policy of the co-branded partner for questions about their use of your personally identifiable information and how you can modify or delete it.**  
   
 ** Top **  
-   
-**Tell me about links with other sites.**  
+**   ** **Tell me about links with other sites.**  
   
 MetroJoint.com does provide links to other sites but is not responsible for the privacy practices of other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by MetroJoint.com  
 ** Top **  
-   
-**Tell me about Cookies.**  
+**    Tell me about Cookies. **  
   
 MetroJoint.com uses cookies to deliver various services and to keep track of your personal preferences. A cookie is a small text file that can be entered into the memory of your browser to help a site recognize repeat users, facilitate the user's ongoing access to and use of the site and allow a site to track usage behavior and compile aggregate data that allows Internet services to make content improvements and conduct targeted advertising. 
 
@@ -120,12 +112,10 @@ Also, please note that cookies are used only to recollect information sent to yo
 Some of our business partners may use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies.  
   
 ** Top **  
-   
-**Tell me about MetroJoint.com's policy on correcting, updating or removing personal information.**  
-MetroJoint.com gives users several options for modifying or removing their information from our database. Please visit your "My Page" to modify/remove your information (edit profile) or [contact us](https://web.archive.org/web/20071211092107id_/http%3A//www.metrojoint.com/contactus.asp).  
+**   ** **Tell me about MetroJoint.com's policy on correcting, updating or removing personal information.**  
+MetroJoint.com gives users several options for modifying or removing their information from our database. Please visit your "My Page" to modify/remove your information (edit profile) or [contact us](https://web.archive.org/web/20080409163300id_/http%3A//www.metrojoint.com/contactus.php).  
 ** Top **  
-   
-**Changes in MetroJoint.com's privacy policy.**  
+**   ** **Changes in MetroJoint.com's privacy policy.**  
   
 If we change our privacy policy, we will prominently post a link to those changes on our homepage so that our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
 
@@ -134,8 +124,7 @@ If at any point we decide to use personally identifiable information in a manner
 Users will have a choice to allow/disallow MetroJoint.com the use of their information in this different manner, and we will then use information in accordance with the privacy policy under which the information was collected.  
   
 ** Top **  
-   
-**Tell me about security of my personal information.**  
+**   Tell me about security of my personal information. **  
   
 MetroJoint.com takes every precaution to protect its users' information. When users submit sensitive information via the website, the information is protected both online and offline. 
 
@@ -144,21 +133,19 @@ All of our users' information is restricted in our offices and data center. Only
 If you have any questions about the security at our website, please [contact us.](https://web.archive.org/contactus.php)  
   
 ** Top **  
-   
-**Tell me about e-mail choice/opt-out policy.**  
+**   ** **Tell me about e-mail choice/opt-out policy.**  
   
 Our users are given the opportunity to 'opt-out' of having information used for purposes not directly related to our site at the point where we ask for the information. 
 
 Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by following the instructions contained in the email.   
   
 ** Top **  
-   
-**Tell me how to contact MetroJoint.com.**  
+**   ** **Tell me how to contact MetroJoint.com.**  
   
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, please [  
 contact us.](https://web.archive.org/contactus.php)  
 **   Top   **  
-   
-   
   
-  |  
+Wanna join in? [Create free account](https://web.archive.org/registration.php)  
+   
+ 
