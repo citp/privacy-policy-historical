@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pizzahut.co.uk privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228112243id_/http%3A//www.pizzahut.co.uk/restaurant/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pizzahut.co.uk privacy policy that was archived on 2008-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080410000913id_/http%3A//www.pizzahut.co.uk/restaurant/privacy-policy.html) for the most accurate reproduction.*
 
 # Pizza Hut
 
