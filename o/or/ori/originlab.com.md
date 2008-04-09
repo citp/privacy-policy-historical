@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the originlab.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210234637id_/http%3A//www.originlab.com/index.aspx%3Fs%3D1%26lm%3D55%26pid%3D168) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the originlab.com privacy policy that was archived on 2008-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080410001252id_/http%3A//www.originlab.com/index.aspx%3Fs%3D1%26lm%3D55%26pid%3D168) for the most accurate reproduction.*
 
 # OriginLab.com - Privacy Policy
 
