@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sony.co.uk privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623173736id_/http%3A//www.sony.co.uk/view/ShowSiteSection.action%3Fsection%3DODW_PS%26site%3Dodw_en_GB) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sony.co.uk privacy policy that was archived on 2008-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080409053129id_/http%3A//www.sony.co.uk/view/ShowSiteSection.action%3Fsection%3DODW%2BSS%2BALL%2BPS%26site%3Dodw_en_GB) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -164,19 +164,17 @@ Email privacy@eu.sony.com
 
 Alternatively, you can contact one of our national Customer Information Centers:
 
-Sony United Kingdom Ltd
+Sony United Kingdom Limited
 
-National Operations Centre
+Jays Close
 
-Pipers Way, Thatcham
+Viables
 
-RG19 4LZ Berkshire, England
+Basingstoke RG22 4SB
 
-tel.: +44 8705 111999, fax: +44 1635 875250
+Telephone: +44 (0)08705 111 999
 
-Email: generalcic@eu.sony.com
-
-Last Updated: 02/2006
+Last Updated: 07/2007
 
 Top
 
