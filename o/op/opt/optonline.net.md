@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the optonline.net privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210225342id_/http%3A//www.optimum.com/privacy.jsp%3Ft%3Dool_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optonline.net privacy policy that was archived on 2008-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080409180724id_/http%3A//www.optimum.com/privacy.jsp%3Ft%3Dool_privacy) for the most accurate reproduction.*
 
 # Optimum
 
@@ -85,7 +85,7 @@ We retain personally identifiable information only as long as it is necessary fo
 
 ### V. Protection of personally identifiable information
 
-We take reasonable technical and physical security measures to protect your personally identifiable information. For example, we utilize secure socket layer (SSL) encryption to protect certain information you provide to us; employ verification measures to protect e-mail during delivery; maintain our Optimum Online subscriber database in a restricted area and secure the content by use of firewalls and other security methods. We also limit access to databases containing subscribers' personally identifiable information to specifically authorized employees and agents and other parties identified in the disclosure section above. As an added measure, we provide additional security suggestions on our Optimum Online website.
+We take reasonable technical and physical security measures to protect your personally identifiable information. For example, we utilize secure socket layer (SSL) encryption to protect certain information you provide to us; employ verification measures to protect e-mail during delivery; maintain our Optimum Online subscriber database in a restricted area and secure the content by use of firewalls and other security methods. We also limit access to databases containing subscribers' personally identifiable information to specifically authorized employees and agents and other parties identified in the disclosure section above. As an added measure, we provide additional security suggestions on our Optimum Online Web site.
 
 Despite these measures, we do not guarantee the security of information stored in our database or that unauthorized parties will not intercept information you send or receive over the Internet. As a shared resource, the Internet subjects our services and you to the risk of unauthorized access to files and data, even when security measures are implemented. These risks are not unique to the Optimum Online Service, but exist whether you access the Internet through other providers or technologies. If you use the Optimum Online Service or the Internet to send, receive or post personal or confidential information, you do so at your own risk.
 
@@ -99,7 +99,7 @@ If you believe that we have violated the Cable Act's limitations on the collecti
 
 ### VIII. Notification for changes to this Policy
 
-We will review our privacy practices on a periodic basis as we deem appropriate and when we change or update our Optimum Online Service. We will post these changes in a revised privacy policy that we will make available to subscribers either through our Optimum Online Service, website or by mail. Use of the Optimum Online Service following notice of a revised policy constitutes your acceptance to the revised privacy provisions.
+We will review our privacy practices on a periodic basis as we deem appropriate and when we change or update our Optimum Online Service. We will post these changes in a revised privacy policy that we will make available to subscribers either through our Optimum Online Service, Web site or by mail. Use of the Optimum Online Service following notice of a revised policy constitutes your acceptance to the revised privacy provisions.
 
 ### IX. Protection of Children's Privacy
 
@@ -107,10 +107,10 @@ We do not collect personally identifiable information from children under thirte
 
 ### X. Third Party Advertising
 
-The ads appearing on this Web site are delivered to you by DoubleClick, our Web advertising partner. Information about your visits to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you. For more information about DoubleClick, cookies, and how to "opt-out", please click here.
+The ads appearing on this Web site are delivered to you by DoubleClick, our Web advertising partner. Information about your visits to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you. For more information about DoubleClick, cookies, and how to "opt-out", please [click here](http://www.doubleclick.com/privacy/index.aspx).
 
 ### XI. Third Party Cookies
 
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.
 
-© Copyright CSC Holdings Inc. 
+© Copyright CSC Holdings Inc. Pricing, terms and offerings subject to change and discontinuance without notice. 
