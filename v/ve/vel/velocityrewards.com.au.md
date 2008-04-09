@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the velocityrewards.com.au privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429194617id_/http%3A//www.velocityrewards.com.au/content/privacyPopup.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the velocityrewards.com.au privacy policy that was archived on 2008-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080409192323id_/http%3A//www.velocityrewards.com.au/content/privacyPopup.html) for the most accurate reproduction.*
 
 # Velocity Rewards > Velocity Rewards Privacy Policy
 
@@ -134,14 +134,14 @@ If we decide not to correct or provide you with access to your personal informat
 
 **Site Security Policy**
 
-Our website uses up-to-date technology to maximise the security of your personal information. Technology such as Secure Site Certificates and Secure Socket Layers ensure your information is secure as possible. We use a Thawte Secure Site Certificate to protect your personal information. Details and validity of this certificate can be viewed by clicking the thawte verification link in our [**Website Security FAQ**](http://www.velocityrewards.com.au/faq/categories/Website-Security/). 
+Our website uses up-to-date technology to maximise the security of your personal information. Technology such as Secure Site Certificates and Secure Socket Layers ensure your information is secure as possible. We use a Thawte Secure Site Certificate to protect your personal information. Details and validity of this certificate can be viewed by clicking the thawte verification link in our [**Website Security FAQ**](https://web.archive.org/faq/categories/Website-Security/). 
 
 More information on Website Security can be found in our FAQ section and includes the topics below 
 
-  * [**What is SSL?**](http://www.velocityrewards.com.au/faq/questions/18/What-is-SSL?)
-  * [**What are Cookies used for?**](http://www.velocityrewards.com.au/faq/questions/19/What-Are-Cookies-Used-For?)
-  * [**How can I maximise my Security Settings and still book redemption flights?**](http://www.velocityrewards.com.au/faq/questions/20/How-Do-I-Maximise-My-Security-Settings-And-Still-Be-Able-To-Book-Flights?)
-  * [**What is Velocity Rewards' Security Certification?**](http://www.velocityrewards.com.au/faq/questions/62/What-Is-Velocity-Rewards-Security-Certification?)
+  * [**What is SSL?**](https://web.archive.org/faq/questions/18/What-is-SSL?)
+  * [**What are Cookies used for?**](https://web.archive.org/faq/questions/19/What-Are-Cookies-Used-For?)
+  * [**How can I maximise my Security Settings and still book redemption flights?**](https://web.archive.org/faq/questions/20/How-Do-I-Maximise-My-Security-Settings-And-Still-Be-Able-To-Book-Flights?)
+  * [**What is Velocity Rewards' Security Certification?**](https://web.archive.org/faq/questions/62/What-Is-Velocity-Rewards-Security-Certification?)
 
 
 
