@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gaylordhotels.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210213916id_/http%3A//www.gaylordhotels.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaylordhotels.com privacy policy that was archived on 2008-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080409221055id_/http%3A//www.gaylordhotels.com/privacy.cfm) for the most accurate reproduction.*
 
 # Gaylord Hotels : Privacy Policy
 
