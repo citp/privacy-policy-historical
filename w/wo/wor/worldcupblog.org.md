@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldcupblog.org privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210185706id_/http%3A//www.worldcupblog.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldcupblog.org privacy policy that was archived on 2008-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080409183021id_/http%3A//www.worldcupblog.org/privacy-policy) for the most accurate reproduction.*
 
 # World Cup Blog
 
