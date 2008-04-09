@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nbcolympics.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216204133id_/http%3A//universalsports.nbcsports.com/nbcolympics/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbcolympics.com privacy policy that was archived on 2008-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080409110853id_/http%3A//universalsports.nbcsports.com/nbcolympics/privacy) for the most accurate reproduction.*
 
 # NBC Olympics | Games of the XXIX Olympiad, Beijing China
 
