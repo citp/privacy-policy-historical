@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anntaylor.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210093445id_/http%3A//www.anntaylor.com/custserv/custserv.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anntaylor.com privacy policy that was archived on 2008-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080409122309id_/http%3A//www.anntaylor.com/custserv/custserv.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.*
 
 # ANN TAYLOR ONLINE STORE: Privacy and Security
 
