@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the act.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210114834id_/http%3A//www.act.com/footer/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the act.com privacy policy that was archived on 2008-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080409115524id_/http%3A//www.act.com/footer/privacy) for the most accurate reproduction.*
 
 # Sage Software, Inc. - Privacy
 
