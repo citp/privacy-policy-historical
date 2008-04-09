@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the optimum.net privacy policy that was archived on 2007-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070503103226id_/http%3A//www.optimum.net/privacy.jsp%3Ft%3Dwebsite_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optimum.net privacy policy that was archived on 2008-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080409180724id_/http%3A//www.optimum.com/privacy.jsp%3Ft%3Dool_privacy) for the most accurate reproduction.*
 
 # Optimum
 
@@ -8,125 +8,109 @@ At Cablevision, we value your privacy.
 
 Please select another link below to view another privacy policy.
 
-## Website Privacy Policy
+**Optimum Online  
+Privacy Policy**
+
+## Optimum Online Subscriber Privacy Policy
 
 Click below for specific information about:
 
-  * Who We Are And How To Reach Us
-  * Participation Eligibility and Membership
-  * Collection of Personal Information
-  * Registration for Participation in Website Services
-  * Use of Tracking Devices
-  * Use and Collection of Information by Affiliate Entities and Other Websites
-  * Our Policy on Disclosing Your Information to Parties Other than Cablevision
-  * How To Add, Change, or Delete Personal Information
-  * Our Security Procedures
-  * Notification of Changes in the Privacy Policy
-  * Children's Privacy Policy
+  * Collection of personally identifiable information
+  * How we use personally identifiable information
+  * Disclosure of personally identifiable information
+  * Length of time that we retain personally identifiable information
+  * Protection of personally identifiable information
+  * Access to records containing personally identifiable information
+  * Your rights under federal law
+  * Notification for changes to this Policy
+  * Protection of Children's Privacy
+  * Third Party Advertising
+  * Third Party Cookies
 
 
 
-Safeguarding your privacy is very important to us. We take seriously the collection of any personally identifiable information and personal contact information ("personal information") from our visitors and are committed to protecting each visitor's privacy in accordance with these policies. We use the term "visitors" to include any person that accesses our website at any point on the site for any amount of time, unless designated otherwise. Please carefully review our information collection practices and privacy protections below.
+We provide the following policy to inform Optimum Online and Optimum Online Boost subscribers ("you") of our practices regarding personally identifiable information that may be collected, used and disclosed during the course of providing our Optimum Online and Optimum Online Boost services (individually and collectively the "Optimum Online Service(s)"). Optimum Online Services are provided by CSC Holdings, Inc. ("Cablevision" or "we"). Optimum Online Boost offers you additional features that may be provided by authorized third party providers. You may direct any questions regarding our Optimum Online privacy practices to:
 
-### I. Who We Are And How To Reach Us
-
-This website is operated by CSC Holdings, Inc. ("Cablevision") and contains material derived in whole or in part from its affiliates. Cablevision is the only operator of this website. You may contact us directly if you have any questions regarding the content and material on this website or if you have any questions about our privacy policies. Please contact us at:
-
+Attn: Security  
 CSC Holdings, Inc.  
 1111 Stewart Avenue  
 Bethpage, NY 11714-3581  
-Attention: Webmaster  
-[Click here](http://cablevision.custhelp.com/cgi-bin/cablevision.cfg/php/enduser/ask.php) to send us an e-mail.
+abuse@cv.net
 
-### II. Participation Eligibility and Membership
+You should also be aware that our Optimum Online Service may allow you to view third party content, applications or interact with third party entities or individuals that are independent of Cablevision as well as third parties who operate co-branded features of or optional services through the Optimum Online Service pursuant to agreements with Cablevision. By using services provided or operated by third parties, you may enable these third parties to obtain personally identifiable information about you. The practices described in this policy do not apply to any such third parties. You must review the privacy policies, if any, provided by these third parties. If you do not agree with the posted privacy practices or are unsure about any aspect of third party privacy practices, you should not access or use that third party service. Cablevision is not responsible or liable if any of these third parties fails to follow their posted policies.
 
-We may offer membership for sweepstakes or other promotional events. To participate in sweepstakes and/or special events, you must meet the designated minimum age requirements (for example, eighteen years of age or older) for the specific event. Registered visitors for special events must also follow additional requirements posted on our website. Please see our Terms of Usage Agreement.
+### I. Collection of personally identifiable information
 
-### III. Collection of Personal Information
+We collect personally identifiable information about you when: (a) you voluntarily provide information to us; (ii) it is necessary to provide our services to you, operate efficiently or provide enhancements to the Optimum Online Service; or (c) to prevent unauthorized reception of our services. The types of information about you that may constitute personally identifiable information includes:
 
-Our website provides visitors with detailed information about Cablevision, its services and affiliates. Visitors can also request cable services and register for certain promotions through this website. To operate and maintain these features, we collect certain non-personal and personal information from our visitors. We collect personal information from visitors, which may include first and last name, home and e-mail address, telephone number, whether a visitor is a Cablevision customer, Cablevision account information, and credit card information, when a visitor submits an inquiry, requests Cablevision's cable services or registers for additional services.
+**Registration and account information** , including your name, home, e-mail and work address, screen names, telephone numbers, social security number, driver's license number, billing, service, payment and credit records, credit card or bank account information, customer correspondence, complaint and service history, and records of violations or alleged violations of the terms, conditions and policies that govern your use of the Optimum Online Service;
 
-We may also request personal information if we decide to survey visitors about various topics, including their television viewing preferences and how we can improve our programming, website and services. Response to our surveys is entirely voluntary.
+**Account usage information** , including the services you subscribe to, service preferences and settings you indicate through your voluntary interaction with the system, certain transactions you make through the Optimum Online Service, how often you access and how long you use the Optimum Online Service, and the number and name of additional e-mail addresses or accounts set up through the Optimum Online Service;
 
-For website features that request personal information, you agree to provide accurate and current information about yourself. Your membership and/or participation in our website features will be canceled without notice if at any time we discover that you provide false information, or violate any term of our Privacy Policy or our Terms of Usage Agreement. We may retain personal information collected over our website for an indefinite amount of time to comply with various federal and state laws.
+**Technical information** , including the types and number of devices you use to connect directly or indirectly to the system (e.g., converters, cable modems, or other equipment), the location and configuration of these devices, the delivery and routing of our service to you, and maintenance and repair records for the devices used for the Optimum Online Service; and
 
-### IV. Registration for Participation in Website Services
+**Other information** , including research records containing information obtained through voluntary subscriber interviews or surveys, information provided to Cablevision from receipt of cable or other services, publicly available information, home ownership or rental information so we can obtain any permission required prior to installing or servicing our equipment, or other information we need to render our Optimum Online Service to you.
 
-### Use and Collection of Information by Cablevision.com
+We may combine personally identifiable information with other publicly available information (such as census and household information) or information obtained from our affiliated entities, third-party providers of co-branded services as part of or through the Optimum Online Service or other third parties. We may use this information to create an enhanced subscriber database, to research our service features, or we may segment personally identifiable information to create separate subscribers lists or aggregate information lists. Aggregate information lists that we may collect or create do not identify individual subscribers.
 
-We collect personal information over our website for several important purposes, including to fulfill service requests, allow participation and notification for sweepstakes or promotional events, protect the security of our visitors and the site, improve our services, and for future marketing and/or promotional use about our services or website.
+### II. How we use personally identifiable information
 
-The only personal information this website obtains about you is information voluntarily provided by you to Cablevision or its affiliates. This means that a person can visit our website and navigate through the site without giving us personal information. To gauge the effectiveness of our website, we may collect non-personal information about our members and visitors, such as Internet server and browser identification, the Internet service provider, clickstream information, the webpage from which a person enters our site, webpages visited, duration of visit and domain type. This information does not reveal a visitor's personal identity.
+We use personally identifiable information to provide you with accurate and high quality customer service, including responding to subscriber inquiries and troubleshooting; to ensure proper billing and delivery of our Optimum Online Services; to protect the security of our equipment and services; to communicate with subscribers about service issues, enhanced features and new product or service offerings; to improve the quality of our services; to ensure compliance with applicable laws and the terms, conditions and policies governing the Optimum Online Service; and to maintain our accounting and tax records.
 
-We may offer sweepstakes or special promotional events that may be produced with the support of non-affiliated sponsors and/or promotional partners. The personal information collected by our website in conjunction with such events may also be used for the marketing of additional services and events by Cablevision and/or its promotional partners and sponsors beyond the sweepstakes and/or special event. Depending on the event, visitors will be able to either grant their approval on how their personal information will be used before it is collected ("opt-in"), or choose to deny use of their information for additional purposes ("opt-out"). For each sweepstakes and/or special event, we will post on the website applicable rules for the event, and if necessary, post any supplemental terms and conditions or privacy provisions.
+Subscribers may choose to not receive Optimum Online promotional or marketing information calls, e-mail or direct mail by contacting us at 1-888-4Optimum.
 
-### Use and Collection of Information by Contract Service and Operational Providers
+### III. Disclosure of personally identifiable information
 
-For the convenience of our visitors, we may offer opportunities to purchase certain goods, merchandise and other services through this website. Companies other than Cablevision, its parents, affiliates or subsidiaries may handle some of these transactions. We call these companies that conduct our e-commerce operations, online billing services and/or order fulfillment "operational providers." If you choose to use these optional services, our operational providers will request your personal information to fulfill your order or request. The voluntary submission of your personal information to these operational providers, including your order or request, will be governed by the specific provider's terms of usage and privacy policies. To process an order or request, we may share your personal information with the provider. The operational provider may also share your personal information with us.
+We will only disclose personally identifiable information about you to others if you provide written or electronic consent in advance or it is permitted by federal law. Specifically, federal law allows us to disclose personally identifiable information to third parties when (i) it is necessary to render, or conduct a legitimate business activity related to, our services provided to you; (ii) for advertising or mailing lists as described below; or (iii) when disclosure is required by court order or other legal process.
 
-For these features or services, we request that our operational providers adhere to the provisions in Cablevision's online Privacy Policy and that such providers only share visitors' personal information collected online with Cablevision, unless necessary to complete a visitor's request or order. We also request that these providers only use the personal information for the purpose of fulfilling the request. However, you must read an operational provider's privacy policy to determine the extent of use and disclosure of your personal information collected online.
+Consistent with these limitations, people that may have authorized access to your personally identifiable information include our employees, billing and collection services; credit reporting agencies; installation, repair and subscriber assistance subcontractors or agents; sales representatives; attorneys, consultants and accountants; software vendors; service suppliers; auditors of service providers; marketers of Optimum Online products and services, entities affiliated through common ownership or control with Optimum Online and Cablevision, strategic partners offering or providing products or services jointly or on behalf of Optimum Online or Cablevision; consumer and market research entities; merchants or other third parties from whom you make purchases or other requests; a purchasing entity if we sell or transfer ownership; and authorized representatives of government.
 
-Cablevision, its parents, affiliates and subsidiaries are not responsible for the collection, use and disclosure practices of operational providers, nor is the Cablevision family responsible or liable for the products or services provided by operational providers.
+The frequency of disclosures to these persons varies according to business or legal needs. For example, information for billing purposes is generally provided on a monthly basis. Information for other purposes may be provided on a daily basis.
 
-### V. Use of Tracking Devices
+Disclosures necessary to render or conduct a legitimate business activity include, but are not limited to, disclosures to connect and utilize your Optimum Online Service, fulfill requested transactions, personalize your online experience, properly service and bill your account, to help research, develop and offer new and enhanced services provided by Cablevision, or disclosures pursuant to a transfer in ownership of all or a part of the Optimum Online Service or Cablevision.
 
-### Use of Cookies
+Unless you object, federal law also allows us to disclose Optimum Online subscribers' names, addresses and the level or type of service subscription to affiliated or non-affiliated third parties, including charities, advertisers and marketing entities for product advertisement, direct marketing and research. If we decide to disclose this information, under no circumstances will we disclose to these third parties the extent of your viewing practices or the transactions you make over the system. If you do not want your name or address disclosed to these third parties, please inform us in writing and then include with your Optimum Online subscriber bill and payment.
 
-This site uses cookies or other tracking devices. A cookie is a small data file that contains a unique identification number that a website places on your hard drive when you visit a site. The "cookie" is able to store information such as data about your computer, the type of browser you use, and how many times your computer visits a certain site. Cookies do not allow the website to access personal information that you have not already provided. We may use cookies when you log-in to our site, to track the number of sweepstakes or promotion entries, research how often visitors are visiting our website and specific pages, estimate the audience size for sponsors and advertisers, and to track visitor preferences. You can configure your browser to reject all cookies or notify you when a cookie is sent. Please contact your software manufacturer for questions on how to disable your cookies.
+Consistent with the requirements found in the Cable Communications Policy Act of 1984 ("Cable Act"), the Electronic Communications Privacy Act ("ECPA"), the Digital Millennium Copyright ("DMCA") and other federal laws, we may disclose personally identifiable information to representatives of government or other authorized persons. We will disclose such information pursuant to a warrant, court order, administrative subpoena, other legal process or voluntarily if we reasonably believe that an emergency involving immediate danger of death or serious injury to any person justifies disclosure of the information.
 
-You do not need to have cookies turned on to browse most of our website. However, if you set your browser to reject all cookies, you may find that some areas on the website will be slower, may not function at all, and/or you may not be able to participate in certain features on our website that require you to log-in or register.
+A private party may also use a subpoena under the DMCA to require our disclosure of a subscriber's personally identifiable information when the party believes the subscriber has infringed on the copyright of such party. Upon receipt of the subpoena, we are required to identify the alleged infringer, without any notice to such subscriber.
 
-### Use of Clear GIFs
+The ECPA also authorizes, and other laws may require, the disclosure of subscriber content or other communications made via our Optimum Online Service if we become aware of evidence of child pornography, we inadvertently obtain content or communications and it appears to pertain to the commission of a crime, or disclosure is to law enforcement if we believe there is an emergency involving death or serious injury that requires disclosure. Disclosure of content and communications is also permitted to an addressee or intended recipient; to a person involved in forwarding such information to its destination; when it is necessarily incident to providing our Optimum Online Service or to protect our rights or property; or to others with your consent or the consent of the addressee or intended recipient of the communications.
 
-Websites of operational providers may use clear GIFs to track non-personal or personal information. A clear GIF is a tiny line of code only 1 by 1 pixel in size that is programmed to collect certain information about a visit to a particular website, such as how many visitors have accessed the site or to retrieve certain cookies and track visitor preferences. We may use clear GIFs to access certain cookies or to gather aggregate information about visitor usage patterns; however, this does not include personal information about our visitors.
+If federal law requires, we will provide you with notice of the disclosures provided above.
 
-Other websites may use clear GIFs to track non-personal or personal information. Cablevision, its parents and subsidiaries are not responsible for the use of clear GIFs by other website operators. Visitor's must review other website operators' privacy policies to determine the type and extent of tracking devices use.
+### IV. Length of time that we retain personally identifiable information
 
-### VI. Use and Collection of Information by Affiliate Entities and Other Websites
+We retain personally identifiable information only as long as it is necessary for the purpose for which it was collected, to comply with laws governing our business, including tax and accounting laws, or to satisfy pending requests or orders for access by subscribers, the government or pursuant to court order. For example, to comply with tax or other accounting laws, this means we may retain personally identifiable information for seven years or longer. When information is no longer necessary for these purposes, we destroy it.
 
-Our website may post banner ads and other forms of advertisements, and/or links to the websites other entities within the Cablevision family ("Affiliate Entities"). These Affiliate Entities may independently solicit and collect personal information or send their own cookies to our visitors. Please be advised that when you leave this website to visit an Affiliate Entities' or another entity's website, you will be subject to the privacy policy and terms of usage agreement of that website operator. Cablevision, its parents and partners will not be responsible for ads and/or links or the content, activities, information collection, use and disclosure practices of other websites.
+### V. Protection of personally identifiable information
 
-### VII. Our Policy on Disclosing Your Information to Parties Other than Cablevision
+We take reasonable technical and physical security measures to protect your personally identifiable information. For example, we utilize secure socket layer (SSL) encryption to protect certain information you provide to us; employ verification measures to protect e-mail during delivery; maintain our Optimum Online subscriber database in a restricted area and secure the content by use of firewalls and other security methods. We also limit access to databases containing subscribers' personally identifiable information to specifically authorized employees and agents and other parties identified in the disclosure section above. As an added measure, we provide additional security suggestions on our Optimum Online Web site.
 
-We share or disclose personal information collected over our website with companies other than Cablevision when it is required by law, disclosure is necessary to operate the website or provide our services, and/or to protect the safety of our visitors, employees or property.
+Despite these measures, we do not guarantee the security of information stored in our database or that unauthorized parties will not intercept information you send or receive over the Internet. As a shared resource, the Internet subjects our services and you to the risk of unauthorized access to files and data, even when security measures are implemented. These risks are not unique to the Optimum Online Service, but exist whether you access the Internet through other providers or technologies. If you use the Optimum Online Service or the Internet to send, receive or post personal or confidential information, you do so at your own risk.
 
-We may in the future decide to share visitors' personal information collected over our website with other entities for other purposes. If we decide to enter into such sharing arrangements, we will disclose in this Privacy Policy the name of the entity(s) that we will share information with, what type of personal information will be shared, how the information will be used, and whether and how you will have the opportunity to opt-out if you do not want us to share your personal information. We currently conduct joint activities with other members of the Cablevision family; however, we will not share individual visitors' personal information collected over our website with these entities unless we provide notice in this Privacy Policy. The disclosure of personal information for visitors who become Cablevision cable customers will be in accordance with Cablevision's digital privacy statement.
+### VI. Access to records containing personally identifiable information
 
-We may share your personal information with our operational providers or those persons, companies or agents who provide support for the internal operations of the website, such as sweepstakes fulfillment services, maintenance and technical services, and e-commerce contractors ("contract service" and "operational providers"), as necessary to provide our services or carry out our business activities. If you use a credit card for services or features on this website, our contract service or operational providers may share your personal information and credit card number with a ticket agent, a credit card processing and/or a shipping/fulfillment company in order to complete your request. We may also link to other operational providers. These providers often have their own terms of usage agreements and privacy policies. Please be advised that when you leave this website, you will be subject to the privacy policy and terms of usage agreement of the website that you are accessing.
+You have the right to inspect our Optimum Online records that contain personally identifiable information about you and to notify of us if you believe there are errors that need correcting in such information. Cablevision retains the right, in its sole discretion, to determine: (1) whether such information is correct; and (2) if corrections are required, the timing and manner of such corrections. If you wish to view such information, please notify us in writing at the local business office specified on your service bill. We will then contact you to arrange a mutually convenient time for review during our regular business hours.
 
-When visitors send an e-mail to us, we may disclose the content of your e-mail to Affiliate Entities or other persons. Please see our [Terms of Usage Agreement](https://web.archive.org/terms.jsp).
+### VII. Your rights under federal law
 
-We may provide aggregate information about our visitors to our advertisers, sponsors, promotional partners and affiliates, such as how many persons visited a particular page or activity, the average age of our visitors on the site or page, or the likes and dislikes of our visitors, but this information does not include personal information about any individual visitor. We may obtain geographic information, such as zip code clustering, online and from other sources, but this aggregate information will not reveal any personal information about a specific visitor.
+If you believe that we have violated the Cable Act's limitations on the collection, disclosure and retention of personally identifiable information, you may have the right to bring an action for damages in Federal District Court. In the Optimum Online Terms of Service Agreement, you have agreed that, to the extent permitted by law, certain claims you may have against us, including damage amounts, will be limited.
 
-In event of a sale or transfer of Cablevision assets including its database, customer information may be transferred. Cablevision will require the recipient of this information to comply with Cablevision's privacy policy.
+### VIII. Notification for changes to this Policy
 
-### VIII. How To Add, Change, or Delete Personal Information
+We will review our privacy practices on a periodic basis as we deem appropriate and when we change or update our Optimum Online Service. We will post these changes in a revised privacy policy that we will make available to subscribers either through our Optimum Online Service, Web site or by mail. Use of the Optimum Online Service following notice of a revised policy constitutes your acceptance to the revised privacy provisions.
 
-You may be able to add, change or delete certain personal information submitted to us online by contacting us [via e-mail](http://cablevision.custhelp.com/cgi-bin/cablevision.cfg/php/enduser/ask.php). Certain information fields are required and cannot be deleted for security purposes or in accordance with various laws. We encourage you to keep us informed about any changes in your personal information.
+### IX. Protection of Children's Privacy
 
-### IX. Our Security Procedures
+We do not collect personally identifiable information from children under thirteen years of age to connect and provide the Optimum Online Service. If, as a part of a future service offering, we decide to request personally identifiable information from children under thirteen, we will require verifiable parental consent before we collect this information, except in circumstances authorized by law.
 
-We require our employees to protect the privacy of all information collected over our website. Only employees and persons with specific authorization have access to databases containing visitors' personal information. The databases are protected in a secure facility. Financial and/or credit card information is transmitted via encrypted technology. If we decide to share visitor information with other members of the Cablevision family, the receiving entity will also maintain the security and integrity of personal information collected over our website.
+### X. Third Party Advertising
 
-### X. Notification of Changes in the Privacy Policy
+The ads appearing on this Web site are delivered to you by DoubleClick, our Web advertising partner. Information about your visits to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you. For more information about DoubleClick, cookies, and how to "opt-out", please [click here](http://www.doubleclick.com/privacy/index.aspx).
 
-We may review our security measures and Privacy Policy on a periodic basis, and we may modify our policies as Cablevision deems appropriate. We may also change or update our Privacy Policy if we add new services or features and will post these changes in this policy. We encourage you to review our Privacy Policy on a regular basis.
+### XI. Third Party Cookies
 
-### Children's Privacy Policy
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.
 
-Cablevision respects the privacy of your child and we want to share with you our policies regarding children under the age of thirteen. We also offer parents and guardians additional guidelines to help keep your child's personal information safe and your family's Internet participation enjoyable. Please see Guidelines for Parents.
-
-We have developed this site to appeal to adult visitors (visitors who are eighteen and older). Although visitors of all ages may navigate through our website, we only collect personal information from adult visitors who have requested information about our cable or other services and who can verify credit and billing information. We do not knowingly collect personal information from children under the age of thirteen. If upon notification by a parent or guardian, or discovery by other means, that a child under thirteen has improperly registered on this site by using false information, we will immediately cancel the child's membership and/or participation, and delete the child's personally identifiable information from our records.
-
-If we decide to request information from children, we will require verifiable parental consent before we collect any personal information from children under thirteen years of age, except in the following circumstances allowed by law. For example, we may collect personal information from a child to provide notice and get consent from a parent or guardian; to respond to a one-time request from a child, after which we will immediately delete the child's information; to protect the safety of a child who is participating on this site; to protect the security or integrity of the site, to take precautions against liability or to respond to a validly executed subpoena or warrant from law enforcement, or if permitted under other provisions of law.
-
-Please contact us if you have any questions about this Privacy Policy.
-
-Contact us at:  
-1111 Stewart Avenue  
-Bethpage, NY 11714-3581  
-[Click here](http://cablevision.custhelp.com/cgi-bin/cablevision.cfg/php/enduser/ask.php) to send us an e-mail.
-
-Thank you for visiting!
-
-© Copyright CSC Holdings Inc. 
+© Copyright CSC Holdings Inc. Pricing, terms and offerings subject to change and discontinuance without notice. 
