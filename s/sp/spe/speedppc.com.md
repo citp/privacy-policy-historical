@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the speedppc.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215015419id_/http%3A//www.speedppc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speedppc.com privacy policy that was archived on 2008-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080409180752id_/http%3A//www.speedppc.com/privacy-policy) for the most accurate reproduction.*
 
-# SpeedPPC Privacy Policy
+# SpeedPPC Privacy Policy | SpeedPPC
 
 **The Short:**
 
@@ -64,10 +64,9 @@ The information you submit to us is controlled by the privacy policy in effect a
 Using the following information, you can contact us if you have questions about our privacy policy.
 
 SpeedPPC.com  
-Allan Gardyne Pty Ltd ATF Allan Gardyne Trust  
-1101/255 Boundary St  
-Rainbow Bay  
-Queensland, Australia 4225.
+PO BOX 1196  
+Burleigh Heads. Qld. 4220.  
+Australia.
 
 Contact Us: [Via our Contact Form](https://web.archive.org/contact-us)
 
