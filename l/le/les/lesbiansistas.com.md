@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the lesbiansistas.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211060952id_/http%3A//www.lesbiansistas.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lesbiansistas.com privacy policy that was archived on 2008-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080409202508id_/http%3A//www.lesbiansistas.com/privacy.html) for the most accurate reproduction.*
 
 # HOH Limited Privacy Policy Statement
 
 **PRIVACY POLICY STATEMENT**
 
-This website (the "Site") is operated by **HOH Limited and PV Empowerm S.L., Spain**
+This website (the "Site") is operated by **HOH Limited and PV Blacktie S.L., Spain**
 
 Our postal address is:  
 12 Dervis Street,  
@@ -12,7 +12,7 @@ Palais D'Ivoir Building,
 1066 -Nicosia,  
 Cyprus
 
-Empowerm:  
+Blacktie:  
 C/ San Miguel, 30 3ºL  
 07002 Palma de Mallorca (España) 
 
