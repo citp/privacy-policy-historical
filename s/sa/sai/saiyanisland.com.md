@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the saiyanisland.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210115029id_/http%3A//www.saiyanisland.com%3Fsi%3Dsite/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saiyanisland.com privacy policy that was archived on 2008-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080409053110id_/http%3A//www.saiyanisland.com%3Fsi%3Dsite/privacy) for the most accurate reproduction.*
 
 # SAIYANISLAND - The Naruto Island!
-
-| | 
 
 **Privacy Policy**
 
@@ -32,12 +30,9 @@ By visiting SAIYANISLAND.COM, you consent to the collection and use of informati
 
 By continuing to access SAIYANISLAND.COM, its files, and affiliates, you are expressly and impliedly agreeing to all of the terms as stated above on this document, as well as those in the [ Disclaimer](http://www.saiyanisland.com/si.php?si=site/disclaimer) and [ Terms of Use](http://www.saiyanisland.com/si.php?si=site/terms).
 
-  
-  
+\------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
 
 
-All original content © 2007 Saiyan Island. All other trademarks, logos, and images are the property of their respective and rightful owners. This web site has been created for the sole purpose of providing entertainment, knowledge and encouragement toward the growth of Japanese Animation 
+All trademarks, logos, and images are the property of their respective and rightful owners. This web site has been created for the sole purpose of providing entertainment, knowledge and encouragement toward the growth of Japanese Animation 
 
-[ ](http://extremetracking.com/open?login=islandsi)  
-  
----|---
+[ ](http://extremetracking.com/open?login=islandsi)
