@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wkyt.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210124036id_/http%3A//www.wkyt.com/home/misc/647.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wkyt.com privacy policy that was archived on 2008-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080409031307id_/http%3A//www.wkyt.com/home/misc/647.html) for the most accurate reproduction.*
 
-# WKYT - Home Central Kentucky's Online News Leader - Breaking News, Weather, and Sports from Central Kentucky
+# GRAY TELEVISION GROUP, INC. PRIVACY POLICY AND YOUR PRIVACY RIGHTS
 
 This Privacy Policy does not cover the “Ask the Experts” advertising feature that may be included on this website.  Please see the separate privacy policy on the [Ask the Experts homepage](http://www.asktheexperts.org/).
 
@@ -139,6 +139,6 @@ We will use reasonable efforts to promptly investigate any complaint you may hav
 
 
 
-This Privacy Policy was last updated on Jan. 1, 2007 and is effective immediately.
+This Privacy Policy was last updated on Jan. 8, 2008 and is effective immediately.
 
-Copyright © 2007 Gray Television Group, Inc. All rights reserved.
+Copyright © 2008 Gray Television Group, Inc. All rights reserved.
