@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldisround.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210064605id_/http%3A//www.worldisround.com/privacy.html%3Ff) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldisround.com privacy policy that was archived on 2008-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080409032544id_/http%3A//www.worldisround.com/privacy.html%3Ff) for the most accurate reproduction.*
 
 # Privacy Policy on Worldisround
 
