@@ -1,16 +1,24 @@
-<!--The following is the downloaded HTML source of the fafarazzi.com privacy policy that was archived on 2007-10-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071011033429id_/http%3A//www.fafarazzi.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fafarazzi.com privacy policy that was archived on 2008-04-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080411000323id_/http%3A//www.fafarazzi.com/privacy.php) for the most accurate reproduction.-->
 
 <html><head>
-<!-- google_ad_section_start(weight=ignore) -->
 <title>Fafarazzi.com - Fantasy Celebrity League - Privacy</title>
-<!-- google_ad_section_end -->
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta name="keywords" content="fantasy celebrity league, fantasy celebrity leagues, celebrity fantasy league, celebrity gossip, celebrity gossip league, tabloid fantasy league, fantasy tabloid league">
-<meta name="description" content="Fafarazzi.com is a Fantasy Celebrity League site. It's the celebrity gossip world's answer to fantasy sports! * You and your friends join a league for free * You draft your favorite celebs to your team * Your celebs score points by gaining publicity in today's hottest gossip blogs and entertainment news sources. * Talk trash &amp; gossip w/ your friends. Get ahead by picking up the hot new free agent-celebs during your season">
+<meta name="keywords" content="fantasy celebrity league, celebrity fantasy league, celebrity gossip league, tabloid fantasy league, reality TV game">
+<meta name="description" content="Fafarazzi.com provides entertainment games for you and friends. Compete in Fantasy Celebrity Leagues and Reality TV Games. Read all your gossip blogs in one place.">
 <!-- <link href="include/base.css" rel="stylesheet" type="text/css"> -->
 <link rel="SHORTCUT ICON" href="http://www.fafarazzi.com/images/favicon.ico">
 <script language="JavaScript" src="include/detect.js" type="text/javascript"></script><link rel="stylesheet" type="text/css" href="include/base_ff.css">
+<style type="text/css">
+/* div#nav_trans_back { behavior: url('http://www.fafarazzi.com/javascripts/iepngfix.htc') } */
+</style>
+
+
+<link rel="stylesheet" type="text/css" href="include/sprite.css">
+
+
+
+
 
 	
 
@@ -25,47 +33,535 @@
 
 <div id="header">
 
-<link rel="stylesheet" type="text/css" href="include/nav.css">
+
 <script language="JavaScript" src="javascripts/nav.js" type="text/javascript"></script>
  
-<!-- ---------- remove alert ---------------- -->
-<div style="width: 760px; padding-bottom:4px; padding-top:4px; clear:none; background:#EEEEEE; color:#000000; text-align:center; border-bottom:1px solid #000000"><strong>Who's on your team? Heidi or LC?</strong>&nbsp;&nbsp;&nbsp;The Hills Fantasy Game <a href="th7_home.php" style="color:#999999">Pick Your Team Today!</a></div>
-<!-- ------------- -->
+<!-- ---------- remove alert ---------------- 
+<div style="width: 760px; paing-bottom:4px; padding-top:4px; clear:none; background:#666666; color:#FFFFFF; text-align:center; border-bottom:1px solid #000000"><strong>2:00 AM EST</strong> Note: Scores are being fixed right now.  Drafts, swaps, trades will all run a little  late tonight. <a href="http://www.fafarazzi.com/post_detail.php?forum_id=1&post_id=17916">More</a></div>
+ ------------- -->
 <!-- ------------------------- START TOP MAIN HEADER ----------------------- -->
 <div style="width: 760px; clear:none; background-color:#f4dcab; padding-top: 0px;" id="top_head">
 
 
-<!-- ------------------------- Start DIV to hold logo ----------------------- -->
-<div id="fafa_logo" style="cursor:pointer;" onclick="javascript:location.href='index.php';">
-&nbsp;
-</div>
-<!-- ------------------------- END DIV to hold logo ----------------------- -->
-
-<!-- ------------------------- Start DIV to hold fafa head ----------------------- -->
-<div id="fafa_head" style="cursor:pointer;" onclick="javascript:location.href='scores_celebs.php';">&nbsp;</div>
-<!-- ------------------------- END DIV to hold fafa head ----------------------- -->
-
 
 <!-- START MAIN NAV ----------------------- -->
-<!-- Start Right NAV (Reg / Login) ----------------------- -->  
-<div style="float:right; clear:both; width: 280px; font-size:85%; text-align:right; padding: 8px; padding-right:12px;"> 
-	    <a href="tour.php#tour" class="subnav">Take the tour!</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="register.php" class="subnav">Register</a> | <a href="login.php?from=L3ByaXZhY3kucGhw" class="subnav">Log 
-    in</a></div>
+
+<div style="clear:both; font-size:0%; height:1px;">&nbsp;</div> 
+<!-- begin style and JS for the main navigation -->
+
+<style>
+/* fafa NAV */
+
+#nav_tabs {
+	float:left;
+	width:100%;
+	line-height:normal;
+	text-align:left;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-weight:bold;
+	font-size:90%;
+	margin:0px;
+	clear:both;
+	background:none;
+
+}
 	
-<!-- END Right NAV (Reg / Login) ----------------------- -->  
+#nav_tabs ul {
+	margin:0;
+	padding:0px 0px 0px 0px;
+	list-style:none;
+}
+    
+#nav_tabs li {
+	display:inline;
+	margin:0;
+	padding:0;
+}
+    
+#nav_tabs a {
+	float:left;
+	color:#350b51;
+	margin:0;
+	padding:2px 5px 5px 5px;
+	text-decoration:none;
+}
 
+#nav_tabs a span {
+	float:left;
+	display:block;
+	background:#FFF;
+	color:#350b51;
+	padding:3px 5px 3px 5px;
+	border-left:1px solid #CACACA;
+	border-top:1px solid #CACACA;
+}
+/* Commented Backslash Hack hides rule from IE5-Mac \*/
+#nav_tabs a span {float:none;}
+/* End IE5-Mac hack */
+    
+.nav_subnav_outer {
+	position:relative;
+	display:block;
+	float:left;
+	clear:both;
+	width:100%;
+	margin:0px;
+	padding:0px;
+}
+.nav_subnav {
+	display:none;
+	position:static;
+	background:#350b51;
+	color:#E8E0ED;
+	padding-top:7px;
+	padding-bottom:7px;
+	margin:0px;
+	width:100%;
+	float:left;
+	text-align:left;
+}
+.nav_subnav a {
+	font-family:arial;
+	font-size:90%;
+	color:white;
+	text-decoration:none;
+	padding:3px; 
+}
 
+.nav_subnav a:hover {
+	background:#EEEEEE;
+	color:#350b51;
+	text-decoration:none;
+	padding:3px;
+}
+.nav_subnav_hover {
+	position:static;
+	padding-top:7px;
+	padding-bottom:7px;
+	margin:0px;
+	width:100%;
+	text-align:left;
+	background-color:#350b51;
+	color:#FFFFFF;
+	border-left-color:#350b51;
+	border-top-color:#350b51;
+}
+.nav_subnav_hover a {
+	font-family:arial;
+	font-size:90%;
+	color:white;
+	text-decoration:none;
+	padding:3px;
+}
 
-<div style="clear:both; font-size:0%">&nbsp;</div> 
+.nav_subnav_hover a:hover {
+	background:#EEEEEE;
+	color:#350b51;
+	text-decoration:none;
+	padding:3px;
+}
+ul.nav_dd {
+	margin:0;
+	padding:0px 0px 0px 0px;
+	list-style:none;
+}
+.dd_item {
+	color:black;
+	font-family:arial;
+	font-size:90%;
+	line-height:16px;
+	cursor:pointer;
+	text-decoration:none;
+	padding:3px;
+}
+.dd_item_hover {
+	color:black;
+	background-color:#f4dcab;
+	font-family:arial;
+	font-size:90%;
+	line-height:16px;
+	cursor:pointer;
+	padding:3px;
+    
+}
+.dd_item_hover a {
+	color:black;
+	background-color:#f4dcab;
+	font-family:arial;
+	font-size:90%;
+	line-height:16px;
+	cursor:pointer;
+	padding:3px;
+}
+.dd_item_hover a:hover {
+	color:black;
+	background-color:#f4dcab;
+	font-family:arial;
+	font-size:90%;
+	line-height:16px;
+	width: 95%;
+	cursor:pointer;
+	padding:3px;
 
-<div style="background-color: #350b51;" id="navigation"> 
-<!-- drop down menu here -->
+}
+.dd_item li a {
+	color:black;
+	font-family:arial;
+	font-size:90%;
+	text-decoration:none;
+	padding:0px;
+	display: block;
+	width: 100%;
+}
+.dd_item li a:hover {
+	color:black;
+	background:#f4dcab;
+	text-decoration:none;
+	padding:3px;
+}
+
+.dd_item a {
+	display: block;
+	width: 95%;
+}
+.dd_item a:hover {
+	width:95%;
+}
+</style>
+
+<div id="fafa_nav">
+    
+	<div id="nav_trans_back" style="width: 760px; background-color:#f4dcab; ">
+	
+		<div style="float:left; clear:both; width:380px">
+			<img src="images/1x1trans.gif" width="380" height="87">
+		</div>
+	
+		<div style="float:right; clear:none; width:300px; font-size:85%; text-align:right; margin-right:8px; margin-top:4px">
+			    <a href="tour.php#tour" class="subnav">Take the tour!</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="register.php" class="subnav">Register</a> | <a href="login.php?from=L3ByaXZhY3kucGhw" class="subnav">Log 
+    in</a>		</div>
+	
+	
+    <div id="nav_tabs">
+      <ul>
+        <li onmouseover="subnavShow(0);clearFafaNavTimer()" onmouseout="setFafaNavTimer()"><a href="index.php" id="fafa_nav_item_a_0" style="background-color: rgb(53, 11, 81);"><span id="fafa_nav_item_0" style="background-color: rgb(53, 11, 81); color: rgb(255, 255, 255); border-left-color: rgb(53, 11, 81); border-top-color: rgb(53, 11, 81);">HOME</span></a></li>
+        <li onmouseover="subnavShow(1);clearFafaNavTimer()" onmouseout="setFafaNavTimer()"><a href="game_landing.php" id="fafa_nav_item_a_1"><span id="fafa_nav_item_1">GAMES</span></a></li>
+        <li onmouseover="subnavShow(2);clearFafaNavTimer()" onmouseout="setFafaNavTimer()"><a href="news_landing.php" id="fafa_nav_item_a_2"><span id="fafa_nav_item_2">CELEB NEWS</span></a></li>
+        <li onmouseover="subnavShow(3);clearFafaNavTimer()" onmouseout="setFafaNavTimer()"><a href="celeb_landing.php" id="fafa_nav_item_a_3"><span id="fafa_nav_item_3">CELEBRITIES</span></a></li>
+        <li onmouseover="subnavShow(4);clearFafaNavTimer()" onmouseout="setFafaNavTimer()"><a href="tv_landing.php" id="fafa_nav_item_a_4"><span id="fafa_nav_item_4">TV NEWS</span></a></li>
+        <li onmouseover="subnavShow(5);clearFafaNavTimer()" onmouseout="setFafaNavTimer()"><a href="community_landing.php" id="fafa_nav_item_a_5"><span id="fafa_nav_item_5">COMMUNITY</span></a></li>
+	<li onmouseover="subnavShow(6);clearFafaNavTimer()" onmouseout="setFafaNavTimer()"><a href="faq.php" id="fafa_nav_item_a_6"><span id="fafa_nav_item_6">HELP</span></a></li>
+      </ul>
+    </div>
+	
+        </div><!-- end the nav holder -->
+	
+    <div class="nav_subnav_outer">
+        
+		<div class="nav_subnav" id="fafa_nav_sub_0" onmouseover="subnavShow(0);clearFafaNavTimer()" onmouseout="setFafaNavTimer()" style="display: block;">
+		&nbsp;&nbsp;
+		
+		
+			<a href="index.php" onmouseout="clearFafaNavTimer()">Homepage</a> | <a href="register.php" onmouseout="clearFafaNavTimer()">Register</a> | <a href="login.php" onmouseout="clearFafaNavTimer()">Login</a> | <a href="tour.php" onmouseout="clearFafaNavTimer()">Take the Tour</a>
+			
+		
+		</div>
+        
+		<div class="nav_subnav" id="fafa_nav_sub_1" onmouseover="subnavShow(1);clearFafaNavTimer()" onmouseout="setFafaNavTimer()">		
+			<div id="dd_container_games1" style="position:relative; width:300px; float:left; clear:none; border-right:1px dashed #EEEEEE;padding-left:8px;  margin:0px">
+				<strong style="color:#f4dcab">Fantasy Celebrity Leagues</strong><br>
+								<a href="game_landing.php" onmouseout="clearFafaNavTimer()">Learn More</a> | <a href="leagues.php" onmouseout="clearFafaNavTimer()">Join a League</a> | <a href="celebs.php" onmouseout="clearFafaNavTimer()">Pick Your Celebs</a>
+							</div>
+		  		
+			<div id="dd_container_games2" style="position:relative; margin:-1px;width:270px; margin-left:18px; float:left; clear:none; border-right:1px dashed #EEEEEE;">
+				<strong style="color:#f4dcab">Reality TV Fantasy Games</strong>
+				<div onclick="javascript:document.getElementById('nav_game_list').style.display='';document.getElementById('nav_game_list').style.visibility = 'visible';" style="width:100px; position:static;background:url('http://static.fafarazzi.com/images/fafa_nav_caret.jpg') #FFFFFF right no-repeat; color:#000000; border-top:1px solid #CCCCCC; border-left:1px solid #CCCCCC; padding:2px 2px 2px 5px; margin:0px; cursor:pointer; font-family:arial; font-size:85%;">Pick a Show</div>
+				<div id="nav_game_list" onmouseover="clearFafaNavTimer()" style="position:absolute; display:none; width:100px; top:38px;left:0px; z-index:10000; background-color:white; border:1px solid black; margin:0px;">
+					<ul class="nav_dd">
+						<li class="dd_item" style="text-align:center;" onmouseover="clearFafaNavTimer();this.className='dd_item_hover';" onmouseout="clearFafaNavTimer();this.className='dd_item';"><a href="the-office" style="display: block;"><img src="http://static.fafarazzi.com/images/theoffice/off_mini.gif" align="absmiddle" border="0" alt="The Office" title="The Office Fantasy Game"></a></li>
+						<li class="dd_item" style="text-align:center;" onmouseover="clearFafaNavTimer();this.className='dd_item_hover';" onmouseout="clearFafaNavTimer();this.className='dd_item';"><a href="tc4_home.php" style="display: block;"><img src="http://static.fafarazzi.com/images/top-chef-4/tc4_mini.gif" align="absmiddle" border="0" alt="Top Chef" title="Top Chef Fantasy Game"></a></li>
+						<li class="dd_item" style="text-align:center;" onmouseover="clearFafaNavTimer();this.className='dd_item_hover';" onmouseout="clearFafaNavTimer();this.className='dd_item';"><a href="ai7_home.php" style="display: block;"><img src="http://static.fafarazzi.com/images/american-idol-7/ai7_mini.gif" align="absmiddle" border="0" alt="American Idol" title="American Idol Fantasy Game"></a></li>
+						<li class="dd_item" style="text-align:center;" onmouseover="clearFafaNavTimer();this.className='dd_item_hover';" onmouseout="clearFafaNavTimer();this.className='dd_item';"><a href="tm0_home.php" style="display: block;"><img src="http://static.fafarazzi.com/images/americas-next-top-model-10/tm0_mini.gif" align="absmiddle" border="0" alt="ANTM" title="ANTM Fantasy Game"></a></li>
+						<li class="dd_item" style="text-align:center;" onmouseover="clearFafaNavTimer();this.className='dd_item_hover';" onmouseout="clearFafaNavTimer();this.className='dd_item';"><a href="th7_home.php" style="display: block;"><img src="http://static.fafarazzi.com/images/thehills2007/th7_mini.gif" align="absmiddle" border="0" alt="The Hills" title="The Hills Fantasy Game"></a></li>
+						<li class="dd_item" style="text-align:center;" onmouseover="clearFafaNavTimer();this.className='dd_item_hover';" onmouseout="clearFafaNavTimer();this.className='dd_item';"><a href="rl2_home.php" style="display: block;"><img src="http://static.fafarazzi.com/images/rol2/rl2_mini.gif" align="absmiddle" border="0" alt="Rock of Love" title="Rock of Love Fantasy Game"></a></li>
+						<li class="dd_item" style="text-align:center;" onmouseover="clearFafaNavTimer();this.className='dd_item_hover';" onmouseout="clearFafaNavTimer();this.className='dd_item';"><a href="bb9_home.php" style="display: block;"><img src="http://static.fafarazzi.com/images/bigbrother9/bb9_mini.gif" align="absmiddle" border="0" alt="Big Brother" title="Big Brother Fantasy Game"></a></li>
+						<li class="dd_item" style="text-align:center;" onmouseover="clearFafaNavTimer();this.className='dd_item_hover';" onmouseout="clearFafaNavTimer();this.className='dd_item';"><a href="svm_home.php" style="display: block;"><img src="http://static.fafarazzi.com/images/survivormicronesia/svm_mini.gif" align="absmiddle" border="0" alt="Survivor" title="Survivor Fantasy Game"></a></li>
+					</ul>
+				</div>
+			</div>
+			<div id="dd_container_games2" style="position:relative; width:130px; margin-left:18px; float:left; clear:none;">
+				<strong style="color:#f4dcab">NEW!</strong><br>
+				<a href="bracket.php">Celeb March Madness</a>
+			</div>
+		</div>
+		
+	<div class="nav_subnav" id="fafa_nav_sub_2" onmouseover="subnavShow(2);clearFafaNavTimer()" onmouseout="setFafaNavTimer()">&nbsp;&nbsp;<a href="news_landing.php" onmouseout="clearFafaNavTimer()">Top Headlines</a> | <a href="g_freshest.php" onmouseout="clearFafaNavTimer()">Breaking News</a> | <a href="g_read.php" onmouseout="clearFafaNavTimer()">Most Popular Posts</a> | <a href="g_blog.php" onmouseout="clearFafaNavTimer()">Blogs</a> | <a href="g_celeb.php" onmouseout="clearFafaNavTimer()">Top Celebs</a></div>
+	
+	<div class="nav_subnav" id="fafa_nav_sub_3" onmouseover="subnavShow(3);clearFafaNavTimer()" onmouseout="setFafaNavTimer()">
+		<div id="dd_container_celeb1" style="position:relative; width:550px; float:left; clear:none; margin:0px">
+			&nbsp;&nbsp;<a href="celeb_landing.php" onmouseout="clearFafaNavTimer()">All Celebs</a> | <a href="heat.php" onmouseout="clearFafaNavTimer()">Who's Hot / Cold?</a> | Fantasy Celeb Leagues: <a href="celebs.php" onmouseout="clearFafaNavTimer()">Top Scoring Celebs</a>
+		</div>
+		<div id="dd_container_celeb" style="position:relative;  margin:-1px; width:120px; float:right; clear:none; padding-right:16px;">
+			<div onclick="javascript:document.getElementById('nav_celeb_list').style.display='';document.getElementById('nav_celeb_list').style.visibility = 'visible';" style="width:120px; position:static;background:url('http://static.fafarazzi.com/images/fafa_nav_caret.jpg') #FFFFFF right no-repeat; color:black; border-top:1px solid #CCCCCC;border-left:1px solid #CCCCCC; padding:2px 2px 2px 5px; margin:0px; cursor:pointer; font-family:arial; font-size:85%;">Popular Celebs&nbsp;&nbsp;&nbsp;&nbsp;</div>
+			<div id="nav_celeb_list" onmouseover="clearFafaNavTimer()" style="position:absolute; display:none; width:120px; top:20px;left:0px; z-index:10000; background-color:white; border:1px solid black; margin:0px;">
+				<ul class="nav_dd">
+					<li class="dd_item" onmouseover="clearFafaNavTimer();this.className='dd_item_hover';" onmouseout="clearFafaNavTimer();this.className='dd_item';">
+						<a style="color:black; display: block;" href="http://www.fafarazzi.com/celebrity/Britney-Spears">Britney Spears</a>
+					</li>
+					<li class="dd_item" onmouseover="clearFafaNavTimer();this.className='dd_item_hover';" onmouseout="clearFafaNavTimer();this.className='dd_item';">
+						<a style="color:black; display: block;" href="http://www.fafarazzi.com/celebrity/Paris-Hilton">Paris Hilton</a>
+					</li>
+					<li class="dd_item" onmouseover="clearFafaNavTimer();this.className='dd_item_hover';" onmouseout="clearFafaNavTimer();this.className='dd_item';">
+						<a style="color:black; display: block;" href="http://www.fafarazzi.com/celebrity/Lindsay-Lohan">Lindsay Lohan</a>
+					</li>
+					<li class="dd_item" onmouseover="clearFafaNavTimer();this.className='dd_item_hover';" onmouseout="clearFafaNavTimer();this.className='dd_item';">
+						<a style="color:black; display: block;" href="http://www.fafarazzi.com/celebrity/Nicole-Richie">Nicole Richie</a>
+					</li>
+					<li class="dd_item" onmouseover="clearFafaNavTimer();this.className='dd_item_hover';" onmouseout="clearFafaNavTimer();this.className='dd_item';">
+						<a style="color:black; display: block;" href="http://www.fafarazzi.com/celebrity/Jessica-Simpson">Jessica Simpson</a>
+					</li>
+					<li class="dd_item" onmouseover="clearFafaNavTimer();this.className='dd_item_hover';" onmouseout="clearFafaNavTimer();this.className='dd_item';">
+						<a style="color:black; display: block;" href="http://www.fafarazzi.com/celebrity/Brad-Pitt">Brad Pitt</a>
+					</li>
+					<li class="dd_item" onmouseover="clearFafaNavTimer();this.className='dd_item_hover';" onmouseout="clearFafaNavTimer();this.className='dd_item';">
+						<a style="color:black; display: block;" href="http://www.fafarazzi.com/celebrity/Angelina-Jolie">Angelina Jolie</a>
+					</li>
+					<li class="dd_item" onmouseover="clearFafaNavTimer();this.className='dd_item_hover';" onmouseout="clearFafaNavTimer();this.className='dd_item';">
+						<a style="color:black; display: block;" href="http://www.fafarazzi.com/celebrity/Justin-Timberlake">Justin Timberlake</a>
+					</li>
+					<li class="dd_item" onmouseover="clearFafaNavTimer();this.className='dd_item_hover';" onmouseout="clearFafaNavTimer();this.className='dd_item';">
+						<a style="color:black; display: block;" href="http://www.fafarazzi.com/celebrity/Kevin-Federline">Kevin Federline</a>
+					</li>
+					<li class="dd_item" onmouseover="clearFafaNavTimer();this.className='dd_item_hover';" onmouseout="clearFafaNavTimer();this.className='dd_item';">
+						<a style="color:black; display: block;" href="http://www.fafarazzi.com/celebrity/Tom-Cruise">Tom Cruise</a>
+					</li>
+                    
+				</ul>
+			</div>
+		</div>
+	</div>
+	
+	<div class="nav_subnav" id="fafa_nav_sub_4" onmouseover="subnavShow(4);clearFafaNavTimer()" onmouseout="setFafaNavTimer();">
+		<div id="dd_container1" style="position:relative; width:500px; float:left; clear:none; margin:0px">&nbsp;&nbsp;<a href="tv_landing.php" onmouseout="clearFafaNavTimer()">Top TV Headlines</a> | <a href="tv_freshest.php" onmouseout="clearFafaNavTimer()">Breaking TV News</a> | <a href="tv_show.php" onmouseout="clearFafaNavTimer()">All Shows</a> | <a href="tv_blog.php" onmouseout="clearFafaNavTimer()">TV Blogs</a></div>
+		
+		<div id="dd_container" style="position:relative;  margin:-1px; width:170px; float:right; clear:none; padding-right:16px;">
+			<div onclick="javascript:document.getElementById('nav_tv_show_list').style.display='';document.getElementById('nav_tv_show_list').style.visibility = 'visible';" style="width:170px; position:static;background:url('http://static.fafarazzi.com/images/fafa_nav_caret.jpg') #FFFFFF right no-repeat; color:black; border-top:1px solid #CCCCCC;border-left:1px solid #CCCCCC; padding:2px 2px 2px 5px; margin:0px; cursor:pointer; font-family:arial; font-size:85%;">Popular Shows&nbsp;&nbsp;&nbsp;&nbsp;</div>
+			<div id="nav_tv_show_list" onmouseover="clearFafaNavTimer()" style="position:absolute; display:none; width:170px; top:20px;left:0px; z-index:10000; background-color:white; border:1px solid black; margin:0px;">
+				<ul class="nav_dd">
+                				<li class="dd_item" onmouseover="clearFafaNavTimer();this.className='dd_item_hover';" onmouseout="clearFafaNavTimer();this.className='dd_item';">
+					<a style="color:black; display:block" href="http://www.fafarazzi.com/tv-show/AmericanIdol">American Idol</a>
+				</li>
+							<li class="dd_item" onmouseover="clearFafaNavTimer();this.className='dd_item_hover';" onmouseout="clearFafaNavTimer();this.className='dd_item';">
+					<a style="color:black; display:block" href="http://www.fafarazzi.com/tv-show/BigBrother">Big Brother</a>
+				</li>
+							<li class="dd_item" onmouseover="clearFafaNavTimer();this.className='dd_item_hover';" onmouseout="clearFafaNavTimer();this.className='dd_item';">
+					<a style="color:black; display:block" href="http://www.fafarazzi.com/tv-show/TheOffice">The Office</a>
+				</li>
+							<li class="dd_item" onmouseover="clearFafaNavTimer();this.className='dd_item_hover';" onmouseout="clearFafaNavTimer();this.className='dd_item';">
+					<a style="color:black; display:block" href="http://www.fafarazzi.com/tv-show/Lost">Lost</a>
+				</li>
+							<li class="dd_item" onmouseover="clearFafaNavTimer();this.className='dd_item_hover';" onmouseout="clearFafaNavTimer();this.className='dd_item';">
+					<a style="color:black; display:block" href="http://www.fafarazzi.com/tv-show/BattlestarGalactica">Battlestar Galactica</a>
+				</li>
+							<li class="dd_item" onmouseover="clearFafaNavTimer();this.className='dd_item_hover';" onmouseout="clearFafaNavTimer();this.className='dd_item';">
+					<a style="color:black; display:block" href="http://www.fafarazzi.com/tv-show/TheHills">The Hills</a>
+				</li>
+							<li class="dd_item" onmouseover="clearFafaNavTimer();this.className='dd_item_hover';" onmouseout="clearFafaNavTimer();this.className='dd_item';">
+					<a style="color:black; display:block" href="http://www.fafarazzi.com/tv-show/TopChef">Top Chef</a>
+				</li>
+							<li class="dd_item" onmouseover="clearFafaNavTimer();this.className='dd_item_hover';" onmouseout="clearFafaNavTimer();this.className='dd_item';">
+					<a style="color:black; display:block" href="http://www.fafarazzi.com/tv-show/SurvivorFansvsFavorites">Survivor:  Fans vs. Favorites</a>
+				</li>
+							<li class="dd_item" onmouseover="clearFafaNavTimer();this.className='dd_item_hover';" onmouseout="clearFafaNavTimer();this.className='dd_item';">
+					<a style="color:black; display:block" href="http://www.fafarazzi.com/tv-show/30Rock">30 Rock</a>
+				</li>
+							<li class="dd_item" onmouseover="clearFafaNavTimer();this.className='dd_item_hover';" onmouseout="clearFafaNavTimer();this.className='dd_item';">
+					<a style="color:black; display:block" href="http://www.fafarazzi.com/tv-show/ProjectRunway">Project Runway</a>
+				</li>
+							<li class="dd_item" onmouseover="clearFafaNavTimer();this.className='dd_item_hover';" onmouseout="clearFafaNavTimer();this.className='dd_item';">
+					<a style="color:black; display:block" href="http://www.fafarazzi.com/tv-show/SaturdayNightLive">Saturday Night Live</a>
+				</li>
+							<li class="dd_item" onmouseover="clearFafaNavTimer();this.className='dd_item_hover';" onmouseout="clearFafaNavTimer();this.className='dd_item';">
+					<a style="color:black; display:block" href="http://www.fafarazzi.com/tv-show/AmericasNextTopModel">America's Next Top Model</a>
+				</li>
+						
+			<!-- This page loaded nav cache_id: nav_tv_shows -->				</ul>
+			</div>
+		</div>	
+	</div>
+	
+	<div class="nav_subnav" id="fafa_nav_sub_5" onmouseover="subnavShow(5);clearFafaNavTimer()" onmouseout="setFafaNavTimer()">
+		
+		&nbsp;&nbsp;<a href="community_landing.php" onmouseout="clearFafaNavTimer()">Community Home</a> | <a href="discuss.php" onmouseout="clearFafaNavTimer()">Fafa Forums</a> | <a href="blog" onmouseout="clearFafaNavTimer()">Fafa Blog</a> | <a href="fafathisweek.php" onmouseout="clearFafaNavTimer()">Video</a>  | <a href="leaderboards.php" onmouseout="clearFafaNavTimer()">Game Leaderboards</a> | <a href="top_icons.php" onmouseout="clearFafaNavTimer()">Vote on Icons</a> | <a href="widgets.php" onmouseout="clearFafaNavTimer()">Widgets</a> 
+	
+	</div>
+	
+	
+		<div class="nav_subnav" id="fafa_nav_sub_6" onmouseover="subnavShow(6);clearFafaNavTimer()" onmouseout="setFafaNavTimer()">
+		
+		&nbsp;&nbsp;<a href="tour.php" onmouseout="clearFafaNavTimer()">Take the Tour</a> | <a href="faq.php" onmouseout="clearFafaNavTimer()">FAQs</a> | <a href="glossary.php" onmouseout="clearFafaNavTimer()">Glossary</a> | <a href="forum.php?forum_id=3" onmouseout="clearFafaNavTimer()">Help Forums</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="about.php" onmouseout="clearFafaNavTimer()">About Fafarazzi</a> | <a href="contact.php" onmouseout="clearFafaNavTimer()">Contact Us</a> 
+	
+	</div>
+	
+    
+	</div>
+
 </div>
+
+<script type="text/javascript">
+
+    var fafa_nav_timer = 0;
+    // define colors for toggling over nav items
+    var nav_on_atag_back_color = "#350b51";
+    var nav_on_back_color = "#350b51";
+    var nav_on_text_color = "#FFFFFF";
+    var nav_on_border_left = "#350b51";
+    var nav_on_border_top = "#350b51";
+    
+    var nav_off_atag_back_color = "transparent";
+    var nav_off_back_color = "#FFFFFF";
+    var nav_off_text_color = "#350b51";
+    var nav_off_border_left = "#BABABA";
+    var nav_off_border_top = "#BABABA";
+
+    nav_item_dd = new Array(document.getElementById("nav_tv_show_list"),document.getElementById("nav_celeb_list"),document.getElementById("nav_game_list"));
+    navitem = new Array(document.getElementById('fafa_nav_item_0'),document.getElementById('fafa_nav_item_1'),document.getElementById('fafa_nav_item_2'),document.getElementById('fafa_nav_item_3'),document.getElementById('fafa_nav_item_4'),document.getElementById('fafa_nav_item_5'),document.getElementById('fafa_nav_item_6'));
+    navitem_a = new Array(document.getElementById('fafa_nav_item_a_0'),document.getElementById('fafa_nav_item_a_1'),document.getElementById('fafa_nav_item_a_2'),document.getElementById('fafa_nav_item_a_3'),document.getElementById('fafa_nav_item_a_4'),document.getElementById('fafa_nav_item_a_5'),document.getElementById('fafa_nav_item_a_6'));
+    subnav = new Array(document.getElementById('fafa_nav_sub_0'),document.getElementById('fafa_nav_sub_1'),document.getElementById('fafa_nav_sub_2'),document.getElementById('fafa_nav_sub_3'),document.getElementById('fafa_nav_sub_4'),document.getElementById('fafa_nav_sub_5'),document.getElementById('fafa_nav_sub_6'));
+    
+    // nav_tab_name = 
+var cur_nav_tab = 0;
+    
+    // define timer functions
+    function setFafaNavTimer() { fafa_nav_timer = setTimeout('subnavReset()',250); }
+    function clearFafaNavTimer() { clearTimeout(fafa_nav_timer); }
+    // define highlight functions
+    function navHighlight(tab) {
+        navitem_a[tab].style.backgroundColor = nav_on_atag_back_color;
+        navitem[tab].style.backgroundColor = nav_on_back_color;
+        navitem[tab].style.color = nav_on_text_color;
+        navitem[tab].style.borderLeftColor = nav_on_border_left;
+        navitem[tab].style.borderTopColor = nav_on_border_top;
+	
+    }
+    function navLowlight(tab) {
+        navitem_a[tab].style.backgroundColor = nav_off_atag_back_color;
+        navitem[tab].style.backgroundColor = nav_off_back_color;
+        navitem[tab].style.color = nav_off_text_color;
+        navitem[tab].style.borderLeftColor = nav_off_border_left;
+        navitem[tab].style.borderTopColor = nav_off_border_top;
+    }
+    
+    // get length of nav array
+    subnav_length = subnav.length;    
+    // show the desired subnav
+    function subnavShow(num) {
+        subnavHide();
+        for(var x=0;x < subnav_length;x++) {
+            if(x == num) {
+                subnav[num].style.display = 'block';
+                navHighlight(num); // highlight the tab
+                if(num != cur_nav_tab) {
+                    navLowlight(cur_nav_tab);
+                }
+                break;
+            }
+        }    
+    }
+    // hide the current subnav
+    function subnavHide() {
+        for(var x=0;x < subnav_length;x++) {
+            subnav[x].style.display = 'none';
+            navLowlight(x);
+        }
+    }
+    // hide the drop downs
+    function subnavDDHide() {
+	for(var x=0;x < nav_item_dd.length;x++) {
+		nav_item_dd[x].style.display = 'none';
+		nav_item_dd[x].style.visibility = 'hidden';
+	}
+    }
+    // set default tab
+    function subnavDefault() {
+        subnav[cur_nav_tab].style.display = 'block';   
+        navHighlight(cur_nav_tab);
+    }
+    function subnavReset() {
+	subnavDDHide();subnavHide();subnavDefault(); // hide the drop downs
+    }
+    // make the default tab highlighted
+    subnavDefault();
+    
+///////////////////////////////////////////////////////////////////////////////////
+// AJAX FUNCTIONS /////////////////////////////////////////////////////////////////
+
+function createRequestObjectNav() {
+    var ro;
+    var browser = navigator.appName;
+    if(browser == "Microsoft Internet Explorer"){
+        ro = new ActiveXObject("Microsoft.XMLHTTP");
+    }else{
+        ro = new XMLHttpRequest();
+    }
+    return ro;
+}
+
+var httpNav = createRequestObjectNav();
+
+function sndReqArgNav(arg) {
+	httpNav.open('get', arg);
+	httpNav.onreadystatechange = handleResponseNav;
+	httpNav.send(null);
+}
+
+function handleResponseNav() {
+	
+	if(httpNav.readyState == 1) {}
+	else if(httpNav.readyState == 2) {}
+	else if(httpNav.readyState == 3) {}
+	else if(httpNav.readyState == 4){
+
+        var response = httpNav.responseText;
+
+        var update = new Array();
+		
+	if(response.indexOf('|' != -1)) {
+		update = response.split('|');
+		limit = update.length / 2;
+
+		for(var x=0; x < limit; x++) {
+			if(update[x*2] == "hide") {
+				try {
+					eval('document.getElementById(\'' + update[(x*2)+1] + '\').style.display = \'none\'');
+				}	
+				catch(err) {}
+			}
+			else if(update[x*2] == "exec") {
+				try {
+					eval(update[(x*2)+1]);
+				}	
+				catch(err) { }
+			}
+			else {
+				try {
+					document.getElementById(update[(x*2)]).innerHTML = update[(x*2)+1];
+				}	
+				catch(err) {}
+			}
+		} // end for loop
+	}
+    }
+}
+
+// END AJAX FUNCTIONS
+
+</script>
+
 <!-- END MAIN NAV ----------------------- -->
   
-
-  
 </div>
+
 
 
 <!-- ------------------------- END TOP MAIN HEADER ----------------------- -->
@@ -73,141 +569,16 @@
 <!-- START LEAGUE NAV ----------------------- -->
 <div style="width: auto; text-align:left; font-size:90%;  margin:0px; clear:both; background: url(/images/grey_white_fade.gif) repeat-x top left; padding: 6px; padding-left:16px;">
 </div>
-<div id="subcontent2" style="position:absolute; text-align: left;display:none; border: 4px solid #350B51; background-color: #FFFFFF; width: auto; padding: 8px">
+<div id="subcontent2" style="position:absolute; text-align: left;display:none; border: 4px solid #350b51; background-color: #FFFFFF; width: auto; padding: 10px">
+<div id="subcontent2_list">
 
+</div>
 <form id="change_league_form" name="change_league_form" action="process_league_change_beta.php" method="post" style="margin:0px">
 	<input type="hidden" name="global_league_id" id="global_league_id" value="">
 </form>
 <div align="right" style="padding-top:10px"><a href="#" onclick="overlayclose('subcontent2'); return false"><img src="images/delete_icon.gif" style="border: none"></a></div>
 </div>
-<div style="position:absolute; left:15px; top:129px; z-index: 100; text-align: left">
-<ul id="nav_dd">
-    <li class="main_li">
-			    	<a href="index.php" class="main_dd">Home</a> 
-	        </li>
-    
-    	
-	<li class="li_narrow">|</li>
-	<li><a href="g_hottest.php" class="main_dd">Gossip &amp; Scores</a>
-		<ul>
-			<li><a href="g_hottest.php">Top Headlines</a></li>
-			<li><a href="g_freshest.php">New Posts</a></li>
-			<li><a href="g_blog.php">Posts By Blog &amp; Blog List</a></li>
-			<li><a href="g_celeb.php">Posts By Celeb</a></li>
-			<li><a href="g_calendar.php">Gossip Calendar</a></li>
-			<li><a href="source_compare.php">Trends &amp; Graphs</a></li>
-		</ul>
-	</li>
-	<li class="li_narrow">|</li>
-	<li><a href="celebs.php" class="main_dd">Celebs</a>
 
-		<ul>
-			<li><a href="celebs.php">View All</a></li>
-			<li><a href="heat.php">Hot / Cold</a></li>
-			<li><a href="g_hottest.php">Top Celebs Today</a></li>
-			<li><a href="g_hottest.php?tab=thisweek">Top Celebs This Week</a></li>
-			<li><a href="fcp_tool.php">Celebrity Profiler<br><span style="font-size:90%; color:#999999">»&nbsp;Blogger Tool</span></a></li>
-		</ul>
-	</li>
-	<li class="li_narrow">|</li>
-	<li><a href="leagues.php" class="main_dd">Leagues</a>
-		<ul>
-			<li><a href="pick_league_type.php">Create a League</a></li>
-			<li><a href="leagues.php">Join / Find a League</a></li>
-			<li><a href="et">
-			<img src="http://static.fafarazzi.com/images/et_mini.gif" border="0" align="absmiddle" style="margin:2px; float:left">
-			<strong>Entertainment<br>Tonight
-			Leagues</strong></a></li>
-			
-			
-			<li><a href="pinkribbon">
-			<span style="font-family:Arial, Helvetica, sans-serif; font-size:70%; color:#CCCCCC; margin-bottom:2px">FEATURED FOR OCTOBER:</span><br>
-			<img src="http://www.fafarazzi.com/images/pinkribbon_mini.gif" border="0" align="absmiddle" style="margin:2px; float:left">
-			<strong>PinkRibbon Leagues</strong><br><span style="font-family:Arial, Helvetica, sans-serif; font-size:70%; color:#333333; margin-bottom:2px; margin-top:3px;">Help fight Breast Cancer</span></a></li>
-			
-			
-			<li><a href="sheckys">
-			<span style="font-family:Arial, Helvetica, sans-serif; font-size:70%; color:#CCCCCC; margin-bottom:2px">FEATURED:</span><br>
-			<img src="http://www.fafarazzi.com/images/sheckys_mini.gif" border="0" align="absmiddle" style="margin:2px; float:left">
-			<strong>Shecky's Leagues</strong><br><span style="font-family:Arial, Helvetica, sans-serif; margin-top:3px; font-size:70%; color:#333333; margin-bottom:2px">Win tickets to fashion, style, beauty and shopping events in your city!</span></a></li>
-			
-			
-			
-						
-					
-		</ul>
-	</li>
-	<li class="li_narrow">|</li>
-	<li><a href="discuss.php" class="main_dd">Community</a>
-
-		<ul>
-			<li><a href="discuss.php">Forums</a></li>
-			<li><a href="leaderboards.php">Leaderboards</a></li>
-			<li><a href="blog">Fafa Blog</a></li>
-			<li><a href="widgets.php">Fafa Widgets</a></li>
-			<li><a href="tell_friend.php">Tell a Friend</a></li>
-			<li><a href="fafa_hiliter.php">Tool: Fafa Hi-Liter</a></li>
-			<li><a href="fcp_tool.php">Celebrity Profiler<br><span style="font-size:90%; color:#999999">»&nbsp;Blogger Tool</span></a></li>
-			<li><a href="feeds.php"><img src="images/rss.png" align="absmiddle" border="0">&nbsp;RSS</a></li>
-			<li><a href="new_user_icons.php">New User Icons</a></li>
-		</ul>
-	</li>
-	
-	<li class="li_narrow">|</li>
-	<li><a href="fafavision.php" class="main_dd">TV Shows</a>
-
-		<ul>
-			 <li>
-		  <a href="fafavision.php"><img src="http://www.fafarazzi.com/images/fafavision_menu.gif" border="0" align="absmiddle">&nbsp;&nbsp;<strong>Fafavision</strong></a></li>
-			
-			
-			<li><a href="tm9_home.php">
-			<img src="http://static.fafarazzi.com/images/antm9/antm_mini.gif" border="0" style="margin-bottom:3px"><br>
-			<strong>America's Next<br>Top Model</strong><br>
-		  <span style="font-size:90%;">Fantasy Game</span></a></li>
-		  <li>
-		  <a href="svc_home.php"><img src="http://static.fafarazzi.com/images/china/svc_china_mini.gif" border="0" style="margin-bottom:3px"><br>
-		  <strong>Survivor China</strong><br>
-		  <span style="font-size:90%;">Fantasy Game</span></a></li>
-		   <li>
-		  <a href="dw7_home.php"><img src="http://static.fafarazzi.com/images/dwts07/dwts_mini.gif" border="0" style="margin-bottom:3px"><br>
-		  <strong>Dancing w/ the Stars</strong><br>
-		  <span style="font-size:90%;">Fantasy Game</span></a></li>
-		  
-		  <li>
-		  <a href="bac_home.php"><img src="http://static.fafarazzi.com/images/bachelor/bac_mini.gif" border="0" style="margin-bottom:3px"><br>
-		  <strong>The Bachelor</strong><br>
-		  <span style="font-size:90%;">Fantasy Game</span></a></li>
-		  
-		  
-		  <li>
-		  <a href="ny2_home.php"><img src="http://static.fafarazzi.com/images/newyork2/ny2_mini.gif" border="0" style="margin-bottom:3px"><br>
-		  <strong>I Love NewYork 2</strong><br>
-		  <span style="font-size:90%;">Fantasy Game</span></a></li>
-		  
-		  <li>
-		  <a href="th7_home.php"><img src="http://static.fafarazzi.com/images/thehills2007/th7_mini.gif" border="0" style="margin-bottom:3px"><br>
-		  <strong>The Hills</strong><br>
-		  <span style="font-size:90%;">Fantasy Game</span></a></li>
-		  
-						
-		</ul>
-	</li>
-
-<li class="li_narrow">|</li>
-	<li><a href="faq.php" class="main_dd">Help</a>
-
-		<ul>
-			<li><a href="about_scoring.php">How Scoring Works</a></li>
-			<li><a href="faq2.php">FAQ</a></li>
-			<li><a href="glossary.php">Glossary</a></li>
-			<li><a href="tour.php#tour">Take the Tour</a></li>
-		</ul>
-	</li>
-
-
-</ul>
-</div>
 
 </div>
 
@@ -272,202 +643,167 @@
 
 
 <!-- google_ad_section_start(weight=ignore) -->
+
 <div style="width:760; margin:0px; font-size:25%; clear:both; background-color:#FFFFFF">&nbsp;</div>
-<div id="fafa_pre_footer" style="background-color: #350b51;">
+<div id="fafa_pre_footer" style="background-color: #350b51">
 
 
 	<div style="padding:24px; padding-bottom:8px">
-		<div style="width:162px; margin-right:24px; float:left">
-						<strong style="font-size:110%">Most Read Headlines</strong><br>
-						
+		<div style="width:235px; margin-right:18px; float:left">
+						<strong style="font-size:130%">Top Headlines</strong><br>
+
+
+	<div style="border-top:1px solid #CCCCCC; padding:3px;"><a href="http://www.fafarazzi.com/gossip/262791/rosie-odonnell-has-another-reason-to-be-angry" title="Rosie O'Donnell Has Another Reason To Be Angry">Rosie O'Donnell Has Another Reason To Be Angry</a></div>
+
 	
-	»&nbsp;<a href="http://www.fafarazzi.com/score.php?id=170822" title="Justin Timberlake and Jessica Biel have quickies backstage at his performances">Justin Timberlake an...</a><br>
+	<div style="border-top:1px solid #CCCCCC; padding:3px;"><a href="http://www.fafarazzi.com/gossip/262983/ashlee-simpson-screwed-mariah-carey" title="Ashlee Simpson Screwed Mariah Carey">Ashlee Simpson Screwed Mariah Carey</a></div>
+
 	
-		
-	»&nbsp;<a href="http://www.fafarazzi.com/score.php?id=171126" title="Angie Hates Clooney">Angie Hates Clooney</a><br>
+	<div style="border-top:1px solid #CCCCCC; padding:3px;"><a href="http://www.fafarazzi.com/gossip/263009/roseanne-says-she-had-vaginal-rejuvenation-surgery" title="Roseanne says she had vaginal rejuvenation surgery">Roseanne says she had vaginal rejuvenation surgery</a></div>
+
 	
-		
-	»&nbsp;<a href="http://www.fafarazzi.com/score.php?id=171131" title="Exclusive! N'Syncer: I Knew Justin Would Leave Britney!">Exclusive! N'Syncer:...</a><br>
+	<div style="border-top:1px solid #CCCCCC; padding:3px;"><a href="http://www.fafarazzi.com/gossip/262808/ashlee-simpson-engaged---and-pregnant" title="Ashlee Simpson Engaged - and Pregnant?">Ashlee Simpson Engaged - and Pregnant?</a></div>
+
 	
-		
-	»&nbsp;<a href="http://www.fafarazzi.com/score.php?id=170900" title="Britney Spears to be Booked For Hit and Run">Britney Spears to be...</a><br>
+	<div style="border-top:1px solid #CCCCCC; padding:3px;"><a href="http://www.fafarazzi.com/gossip/262644/beyonce-shows-off-her-wedding-ring" title="Beyonce Shows Off Her Wedding Ring">Beyonce Shows Off Her Wedding Ring</a></div>
+
 	
-		
-	»&nbsp;<a href="http://www.fafarazzi.com/score.php?id=171297" title="Britney's new video links">Britney's new video ...</a><br>
-	
-		
-	»&nbsp;<a href="http://www.fafarazzi.com/score.php?id=171140" title="George Clooney medical records leaked">George Clooney medic...</a><br>
-	
+	<div style="border-top:1px solid #CCCCCC; padding:3px;"><a href="http://www.fafarazzi.com/gossip/262723/cameron-diaz--gerard-butler-double-date-with-reese-witherspoon--" title="Cameron Diaz &amp; Gerard Butler double date with Reese Witherspoon &amp; Jake Gyllenhaal">Cameron Diaz &amp; Gerard Butler double date with Reese Witherspoon &amp; Jake Gyllenhaal</a></div>
+
 		<br>
-<a href="http://www.fafarazzi.com/g_hottest.php"><strong>Check all scores</strong></a><a href="http://www.fafarazzi.com/score.php"><br>
-</a><br>
+»&nbsp;<a href="http://www.fafarazzi.com/g_hottest.php"><strong>Celeb Headlines</strong></a><a href="http://www.fafarazzi.com/g_hottest.php"></a><br>
+»&nbsp;<a href="http://www.fafarazzi.com/g_blog.php"><strong>Celeb Blogs</strong></a><a href="http://www.fafarazzi.com/g_hottest.php"></a><br>
+»&nbsp;<a href="http://www.fafarazzi.com/tv_hottest.php"><strong>TV Headlines</strong></a><br>
+<br>
 		</div>
-		<div style="width:155px; margin-right:24px; float:left">
-			
-			<strong style="font-size:110%">Recent Forum Posts</strong><br>
-	
-	»&nbsp;<a href="http://www.fafarazzi.com/post_detail.php?forum_id=3&amp;post_id=10977" title="Hills">Hills</a><br>
-	
-		
-	»&nbsp;<a href="http://www.fafarazzi.com/post_detail.php?forum_id=3&amp;post_id=10971" title="jon voight">jon voight</a><br>
-	
-		
-	»&nbsp;<a href="http://www.fafarazzi.com/post_detail.php?forum_id=1&amp;post_id=10948" title="Last days for Shecky's">Last days for Shec...</a><br>
-	
-		
-	»&nbsp;<a href="http://www.fafarazzi.com/post_detail.php?forum_id=1&amp;post_id=10943" title="Maybe Just Maybe There Is Hope for Lindsay">Maybe Just Maybe T...</a><br>
-	
-		
-	»&nbsp;<a href="http://www.fafarazzi.com/post_detail.php?forum_id=1&amp;post_id=10918" title="New Page: Gossip Calendar">New Page: Gossip C...</a><br>
-	
-		
-	»&nbsp;<a href="http://www.fafarazzi.com/post_detail.php?forum_id=1&amp;post_id=10917" title="New Game: THE HILLS">New Game: THE HILLS</a><br>
-	
-	<br>
-<strong><a href="http://www.fafarazzi.com/discuss.php">Gossip in the  forums</a></strong> <br>
 
+	<div style="width:235px; margin-right:18px; float:left">
+		<span style="font-size:90%; color:#999999">FAFA BLOG</span><br>
 
-		</div>
-	<div style="width:155px; margin-right:24px; float:left">
-						<strong style="font-size:110%">Fafa Blog </strong><br>
+	<a href="http://www.fafarazzi.com/blog/?p=171" style="font-size:140%; color:#FFFFFF; font-family:Georgia, 'Times New Roman', Times, serif" title="">Fafa Friends Give Back</a><br>
+	<span style="font-size:90%; color:#e5e5e5e">A few weeks ago Fafa faithful, Jen1, posted in the forums asking for help with her upcoming Autism Walk."In a couple of weeks I will being doing a wal...<a href="http://www.fafarazzi.com/blog/?p=171" style="text-decoration:underline">more</a> » </span>
+<br><br>
+
 	
-	»&nbsp;<a href="http://www.fafarazzi.com/blog" title="Win Tickets to Shecky's Events!">Win Tickets to Sheck...</a><br>
-	
-		
-	»&nbsp;<a href="http://www.fafarazzi.com/blog" title="PinkRibbon Charity Leagues for Breast Cancer Awareness Month">PinkRibbon Charity L...</a><br>
-	
-		
-	»&nbsp;<a href="http://www.fafarazzi.com/blog" title="Turn on Your Fafavision">Turn on Your Fafavis...</a><br>
-	
-		
-	»&nbsp;<a href="http://www.fafarazzi.com/blog" title="ET and Fafa">ET and Fafa</a><br>
-	
-		
-	»&nbsp;<a href="http://www.fafarazzi.com/blog" title="This Week's New Celebs [September 18th]">This Week's New Cele...</a><br>
-	
-		
-	»&nbsp;<a href="http://www.fafarazzi.com/blog" title="Pop Waffle - Week of 9/15">Pop Waffle - Week of...</a><br>
-	
-	<br>
-<a href="http://www.fafarazzi.com/blog"><strong>Read The Fafa Blog</strong></a><br>
+	<a href="http://www.fafarazzi.com/blog/?p=170" style="font-size:140%; color:#FFFFFF; font-family:Georgia, 'Times New Roman', Times, serif" title="">What's on TV Tonight? [Thu, Apr 10th] </a><br>
+	<span style="font-size:90%; color:#e5e5e5e">	American Idol8:00 American Idol Top 8ONE MUST GO HOME TONIGHT!
+7 FINALISTS REMAIN WHEN THE VOTING RESULTS ARE REVEALEDSurvivor Micronesia8:00 Epi 8 ...<a href="http://www.fafarazzi.com/blog/?p=170" style="text-decoration:underline">more</a> » </span>
+<br><br>
+
+	<strong>
+<a href="http://www.fafarazzi.com/blog">
+More From The Fafa Blog</a></strong><br><br>
 	  </div>
-		<div style="width:150px; float:left; font-size:100%">
-			<strong style="font-size:110%">New Fafarazzo </strong><br>
-	»&nbsp;<a href="http://www.fafarazzi.com/user_profile.php?id=35039">Bruiser_Woods</a><br>
-	
-		»&nbsp;<a href="http://www.fafarazzi.com/user_profile.php?id=35030">Jamice</a><br>
-	
-		»&nbsp;<a href="http://www.fafarazzi.com/user_profile.php?id=35003">Gabismama</a><br>
-	
-		»&nbsp;<a href="http://www.fafarazzi.com/user_profile.php?id=34989">Allyc33</a><br>
-	
-		»&nbsp;<a href="http://www.fafarazzi.com/user_profile.php?id=34972">RBizworth</a><br>
-	
-		»&nbsp;<a href="http://www.fafarazzi.com/user_profile.php?id=34968">sugamamma</a><br>
-	
-		<br>
-<a href="http://www.fafarazzi.com/new_user_icons.php"><strong>View new users</strong></a><br>
-	
+		<div style="width:180px; float:left; font-size:100%">
+			<strong style="font-size:130%">New Fafarazzo </strong><br>
+	<div style="float:left; width:75px; height:75px; margin-right:3px; margin-top:3px"><a href="http://www.fafarazzi.com/user_profile.php?id=66520"><img src="http://www.fafarazzi.com/images/users/66520_icon.gif" border="0" class="icon_image"></a></div>
+
+		<div style="float:left; width:75px; height:75px; margin-right:3px; margin-top:3px"><a href="http://www.fafarazzi.com/user_profile.php?id=66504"><img src="http://www.fafarazzi.com/images/users/66504_icon.gif" border="0" class="icon_image"></a></div>
+
+		<div style="float:left; width:75px; height:75px; margin-right:3px; margin-top:3px"><a href="http://www.fafarazzi.com/user_profile.php?id=66460"><img src="http://www.fafarazzi.com/images/users/66460_icon.jpg" border="0" class="icon_image"></a></div>
+
+		<div style="float:left; width:75px; height:75px; margin-right:3px; margin-top:3px"><a href="http://www.fafarazzi.com/user_profile.php?id=66450"><img src="http://www.fafarazzi.com/images/users/66450_icon.png" border="0" class="icon_image"></a></div>
+
+		<div style="float:left; width:75px; height:75px; margin-right:3px; margin-top:3px"><a href="http://www.fafarazzi.com/user_profile.php?id=66445"><img src="http://www.fafarazzi.com/images/users/66445_icon.jpg" border="0" class="icon_image"></a></div>
+
+		<div style="float:left; width:75px; height:75px; margin-right:3px; margin-top:3px"><a href="http://www.fafarazzi.com/user_profile.php?id=66444"><img src="http://www.fafarazzi.com/images/users/66444_icon.peg" border="0" class="icon_image"></a></div>
+
+		<!--<br />
+<a href="http://www.fafarazzi.com/browse_icons.php"><strong>View new users</strong></a><br />-->
+
 	<!-- This page was cached -->
 
 		</div>
 	<div style="clear:both; font-size:15%; text-align:right">&nbsp;</div>
-	
+
 	</div>
 </div>
-<!-- ---------------------- fafavision footer -------------------- -
-<div id="fafa_pre_footer" style="background-color: #350b51; padding:0px">
-
-	<div style="padding:14px; background:url(http://www.fafarazzi.com/images/mesh_gray.gif) top left repeat">
-
-<div style="padding:4px; background:#FFFFFF">
-<img src="http://www.fafarazzi.com/images/fafavision_logo75.gif" height="75" alt="FAFAVISION" align="absmiddle" />&nbsp;&nbsp;&nbsp;<br />
-&nbsp;<a href="http://www.fafarazzi.com/dw7_home.php"><img src="http://static.fafarazzi.com/images/dwts07/dw7_horizontal_45.gif" border="0" align="absmiddle" /></a>&nbsp;&nbsp;<a href="http://www.fafarazzi.com/tm9_home.php"><img src="http://static.fafarazzi.com/images/antm9/tm9_horizontal_45.gif" border="0" align="absmiddle" /></a>&nbsp;&nbsp;<a href="http://www.fafarazzi.com/svc_home.php"><img src="http://static.fafarazzi.com/images/china/svc_horizontal_45.gif" border="0" align="absmiddle" /></a>&nbsp;&nbsp;<a href="http://www.fafarazzi.com/bac_home.php"><img src="http://static.fafarazzi.com/images/bachelor/bac_horizontal_45.gif" border="0" align="absmiddle" /></a></div>
-
-<div style="clear:both; font-size:15%; text-align:right">&nbsp;</div>
-	
-  </div>
-</div>
-- -- -------------------------------------- -->
 
 
-<div id="fafa_footer" style="background-color: #f4dcab;"> 
-  <div style="float:left; width: 380px"> 
+<div id="fafa_footer" style="background-color: #f4dcab;">
+
+  <div id="fafa_logo">&nbsp;</div>
+
+
+  <div style="float:left; clear:both; width: 380px">
     <table width="360" border="0" cellspacing="0" cellpadding="2" style="font-size:95%">
-      <tbody><tr valign="top"> 
+      <tbody><tr valign="top">
         <td><strong>You</strong></td>
-        <td nowrap=""> 
-           
-                    <a href="http://www.fafarazzi.com/register.php">Register</a> | <a href="http://www.fafarazzi.com/login.php">Log 
-          In</a> | <a href="http://www.fafarazzi.com/tour">Tour</a> 
+        <td nowrap="">
+                              <a href="http://www.fafarazzi.com/register.php">Register</a> | <a href="http://www.fafarazzi.com/login.php">Log
+          In</a> | <a href="http://www.fafarazzi.com/tour">Tour</a>
                   </td>
       </tr>
-      <tr valign="top"> 
-        <td><strong>Play</strong></td>
-        <td nowrap=""><a href="http://www.fafarazzi.com/g_hottest.php">Hottest Scores</a> | <a href="http://www.fafarazzi.com/g_freshest.php">Newest Scores</a> | <a href="http://www.fafarazzi.com/leagues.php">Join 
-          A League</a> | <a href="http://www.fafarazzi.com/pick_league_type.php">Create 
-          A League</a></td>
+      <tr valign="top">
+        <td><strong>Games</strong></td>
+        <td nowrap="">
+		<a href="http://fafarazzi.com/leagues.php">Fantasy Celebrity Leagues</a> | <a href="http://fafarazzi.com/fafavision.php">Reality TV Fantasy Games</a> | <a href="http://fafarazzi.com/bracket.php">Celeb March Madness</a>
+
+		</td>
+		
+
+		</tr><tr valign="top">
+        <td><strong>News</strong></td>
+        <td nowrap="">
+		<a href="http://www.fafarazzi.com/g_hottest.php">Top Celeb Headlines</a> | <a href="http://www.fafarazzi.com/tv_hottest.php">Top TV Headlines</a> | <a href="http://www.fafarazzi.com/g_blogs.php">Gossip Blogs</a> | <a href="http://www.fafarazzi.com/tv_blogs.php">TV Blogs</a></td>
       </tr>
-      <tr valign="top"> 
+      <tr valign="top">
         <td><strong>Celebs</strong></td>
-        <td nowrap=""><a href="http://www.fafarazzi.com/celebs.php">All Celebs</a> 
-          | <a href="http://www.fafarazzi.com/heat.php">Who's Hot</a> | <a href="http://www.fafarazzi.com/suggest_celeb.php">Suggest</a> 
+        <td nowrap=""><a href="http://www.fafarazzi.com/celeb_landing.php">All Celebs</a>
+          | <a href="http://www.fafarazzi.com/heat.php">Who's Hot</a> | <a href="http://www.fafarazzi.com/suggest_celeb.php">Suggest</a>
         </td>
       </tr>
-      <tr valign="top"> 
+      <tr valign="top">
         <td><strong>Fafa</strong></td>
-        <td nowrap=""><a href="http://www.fafarazzi.com/discuss.php">Forums</a> | 
-          <a href="http://www.fafarazzi.com/blog"> Fafa Blog</a> | <a href="http://www.fafarazzi.com/blog">News 
+        <td nowrap=""><a href="http://www.fafarazzi.com/discuss.php">Forums</a> |
+          <a href="http://www.fafarazzi.com/blog"> Fafa Blog</a> | <a href="http://www.fafarazzi.com/blog">News
           &amp; Updates</a> | <a href="http://www.fafarazzi.com/widgets.php">Widgets</a> | <a href="http://www.fafarazzi.com/feeds.php">RSS</a></td>
       </tr>
-      <tr valign="top"> 
+      <tr valign="top">
         <td><strong>Help</strong></td>
-        <td nowrap=""><a href="http://www.fafarazzi.com/faq.php">Help</a> | <a href="http://www.fafarazzi.com/tour.php#tour">Tour</a> 
-          | <a href="http://www.fafarazzi.com/scoring_faq.php">Scoring FAQ</a> 
+        <td nowrap=""><a href="http://www.fafarazzi.com/faq.php">Help</a> | <a href="http://www.fafarazzi.com/tour.php#tour">Tour</a>
+          | <a href="http://www.fafarazzi.com/scoring_faq.php">Scoring FAQ</a>
           | <a href="http://www.fafarazzi.com/about.php">About</a> | <a href="http://www.fafarazzi.com/contact.php">Contact</a></td>
       </tr>
     </tbody></table>
     <br>
 
 <form name="form1" method="post" action="http://www.fafarazzi.com/celebs.php">
-      <h3> Celeb Search&nbsp; 
+      <strong>Celeb Search</strong>&nbsp;
         <input name="search" type="text" id="search" size="20" maxlength="30">
         <input type="submit" name="Submit" value="SEARCH">
         <input name="isSubmitted" type="hidden" id="isSubmitted" value="true">
-      </h3>
-    </form> 
 
-<h3><a href="http://www.fafarazzi.com/feeds.php"><img src="images/feed-icon32x32.png" width="32" height="32" border="0" align="absmiddle"></a> 
-      Feeds: <a href="http://feeds.feedburner.com/Fafarazzi" target="_blank">All 
-      Scores</a> | <a href="http://feeds.feedburner.com/FafarazziNewCelebs" target="_blank">New 
+    </form>
+
+<div style="float:left;clear:none;width:32px;height:32px;overflow:hidden; margin-right:4px;" align="absmiddle"><a href="http://www.fafarazzi.com/feeds.php"><img src="http://static.fafarazzi.com/images/sprite.gif" class="sp_feedicon32"></a></div>
+	<div style="float:left;width:auto;padding-top:8px;">
+      <strong>Feeds:</strong> <a href="http://feeds.feedburner.com/Fafarazzi" target="_blank">All
+      Scores</a> | <a href="http://feeds.feedburner.com/FafarazziNewCelebs" target="_blank">New
       Celebs</a> | <a href="http://www.fafarazzi.com/feeds.php">More Feeds...</a><br>
-      <br><span class="note"> <a href="http://www.fafarazzi.com/blog">
-      Fafa Blog</a> | <a href="http://www.fafarazzi.com/terms.php">Terms</a> | 
-      <a href="http://www.fafarazzi.com/privacy.php">Privacy</a> | <a href="http://www.fafarazzi.com/about.php">About</a> 
+      <br><span style="font-size:80%; color:#999999"> <a href="http://www.fafarazzi.com/blog">
+      Fafa Blog</a> | <a href="http://www.fafarazzi.com/terms.php">Terms</a> |
+      <a href="http://www.fafarazzi.com/privacy.php">Privacy</a> | <a href="http://www.fafarazzi.com/about.php">About</a>
       | <a href="http://www.fafarazzi.com/contact.php">Contact</a><br>
-      © 2006-2007 Fafarazzi.com</span> <br>
-      
+      © 2006-2008 Fafarazzi.com</span>
+	 </div>
 
-  </h3></div>
 
-  <div style="float:right; width: 280px; text-align: right">
-  <div style="border:5px solid #fff; width:135px; float:right; margin-bottom:12px"><a href="tell_friend.php"><img src="images/tellfriend2.gif" width="135" height="138" border="0"></a></div>
+  </div>
+
+  <div style="float:right; width: 200px; text-align: right">
+  <div style="border:5px solid #fff; width:135px; float:right;"><div style="width:135;height:138px;overflow:hidden;"><a href="tell_friend.php"><img id="tellfriend" src="http://static.fafarazzi.com/images/sprite.gif" class="sp_tellfriend"></a></div></div>
 
 <div style="float:right; clear:both">
-<a href="http://www.myspace.com/fafarazzi" target="_blank"><img src="images/fafa_on_myspace.gif" border="0"></a>
+<div style="width:144px;height:30px;overflow:hidden;"><a href="http://www.myspace.com/fafarazzi" target="_blank"><img src="http://static.fafarazzi.com/images/sprite.gif" class="sp_myspace"></a></div>
+<div style="width:144px;height:30px;overflow:hidden;"><a href="http://www.facebook.com/pages/Fafarazzi/7190970669" target="_blank"><img src="http://static.fafarazzi.com/images/sprite.gif" class="sp_facebook"></a></div>
+
 <br>
 
-<a href="http://apps.facebook.com/fafarazzicelebheads/" target="_blank"><img src="images/fafa_on_facebook.gif" border="0"></a>  
-  <br>
-  <a title="digg" href="http://digg.com/submit?phase=2&amp;url=http://www.fafarazzi.com"><img border="0" src="images/digg.png" align="absmiddle" class="socialbkmark"></a>&nbsp; 
 
-    <a title="del.icio.us" href="http://del.icio.us/post?url=http://www.fafarazzi.com"><img border="0" src="images/delicious.png" width="18" height="18" align="absmiddle"></a>&nbsp; 
 
-    <a title="furl" href="http://furl.net/storeIt.jsp?t=Fafarazzi.com - Fantasy Celebrity League&amp;u=http://www.fafarazzi.com"><img src="images/furl.png" align="absmiddle" class="socialbkmark" border="0"></a>&nbsp; 
 
-    <a title="yahoo" href="http://myweb2.search.yahoo.com/myresults/bookmarklet?t=Fafarazzi.com - Fantasy Celebrity League&amp;u=http://www.fafarazzi.com"><img src="images/yahoomyweb.png" align="absmiddle" border="0" class="socialbkmark"></a>&nbsp; 
 
-    <a href="http://ma.gnolia.com/beta/bookmarklet/add?url=http://www.fafarazzi.com&amp;title=Fafarazzi.com - Fantasy Celebrity League&amp;description=Fafarazzi.com - Fantasy Celebrity League" title="Ma.gnolia"><img src="images/magnolia.png" border="0" align="absmiddle" class="socialbkmark"></a> 
 </div>
 
 
@@ -479,11 +815,11 @@
 
 
 
-</div>  
+</div>
 
 <!-- google_ad_section_end -->
 
-  	  
+
 
 <!-- END THE CONTAINER DIV -->
 
@@ -493,17 +829,26 @@
 </div>
 <!-- just ended the 780 container type DIV -->
 
-			<div style="position:absolute; left:805px; top:100px; z-index:100; width: 160px; ">
-			<img src="http://www.fafarazzi.com/images/lbl_ad.gif"><br>
+			<div style="position:absolute; left:805px; top:100px; z-index:100; width: 160px;">
+			<center>
+			<div style="width:96px;height:9px;overflow:hidden;"><img align="center" src="http://static.fafarazzi.com/images/sprite.gif" class="sp_sponsor"></div>
+			</center>
 			<div style="border:4px solid #CCC; background-color:#FFFFFF; width: 160px; ">
-			
+
 			<script type="text/javascript" language="javascript" src="http://www2.glam.com/app/site/affiliate/viewChannelModule.act?mName=viewAdJs&amp;affiliateId=120145177&amp;adSize=160x600">
-			</script> 
+			</script>
 			</div>
 			<br>
-			<a href="http://www2.glam.com/app/site/affiliate/viewNetworkHome.act?affiliateId=120145177">  <img src="http://fileserver.glam.com/app/site/images/blog/GlamBlogNetwork.gif" border="0"> </a>
-			
-			</div>
+			<a href="http://www2.glam.com/app/site/affiliate/viewNetworkHome.act?affiliateId=120145177"><img src="http://fileserver.glam.com/app/site/images/blog/GlamBlogNetwork.gif" border="0"></a>
+			<br>
+<br>
+
+<strong style="font-size:120%">Fafarazzi is...</strong><br>
+<div style="width:160px;height:40px;overflow:hidden;"><a href="http://www.fafarazzi.com/leagues.php"><img src="http://static.fafarazzi.com/images/sprite.gif" class="sp_fcl"></a></div>
+<div style="width:160px;height:40px;overflow:hidden;"><a href="http://www.fafarazzi.com/fafavision.php"><img src="http://static.fafarazzi.com/images/sprite.gif" class="sp_tv"></a></div>
+<div style="width:160px;height:40px;overflow:hidden;"><a href="http://www.fafarazzi.com/g_hottest.php"><img src="http://static.fafarazzi.com/images/sprite.gif" class="sp_gossip"></a></div><br>
+
+</div>
 
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
 
@@ -513,16 +858,12 @@
 
 _uacct = "UA-97778-5";
 
-urchinTracker();
-
+	urchinTracker();
 </script>
 
 
 
 
-
-
-
-
+<!-- t:0.15 -->
 
 </body></html>
