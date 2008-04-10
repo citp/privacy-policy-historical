@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the zoo.com privacy policy that was archived on 2007-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071204181829id_/http%3A//www.zoo.com/info.zoo/search/help/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoo.com privacy policy that was archived on 2008-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080410181818id_/http%3A//www.zoo.com/info.zoo/search/help/privacy.htm) for the most accurate reproduction.*
 
 # Zoo - Privacy Policy
 
-last updated: August 29, 2006
+Policy effective: August 29, 2006
 
 Zoo makes searching the Internet easy by bringing together results from the best search engines and content providers around. Using Zoo to search the web gets you results from Google, Yahoo!, and Wikipedia. When you search using the news tab, you see the latest from ABC, Fox and Yahoo! News. InfoSpace, Inc. owns and operates Zoo. We urge kids to check with their parents before entering information on any website and we urge parents to discuss with their kids restrictions regarding the online release of personal information to anyone they don't know. Zoo is committed to complying fully with the Children's Online Protection Act of 1998. 
 
@@ -59,7 +59,7 @@ Attn: Privacy Officer
 Bellevue, Washington 98004 USA
 
  **VIA EMAIL:**  
-[kidsprivacy@infospace.com](mailto:kidsprivacy@infospace.com)
+[kidsprivacy@infospace.com](http://www.zoo.com/info.zoo/search/help/contact.htm)
 
  **Please note: In general, we don't ask users of Zoo for any information that allows us to personally identify them. Items such as nicknames or first names do not allow us to personally identify a user. To the extent we collect a user's email address, we do so only to respond to their comments or information requests, and we do not otherwise store or collect such email addresses. Under the law, you (as a parent or legal guardian of your child) have the right to review any personal information relating to a child under the age of 13 in your care that may be collected by the Zoo website. Please check any or all of the options below:
 
