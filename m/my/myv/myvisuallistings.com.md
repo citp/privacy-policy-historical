@@ -1,22 +1,15 @@
-> *The following text is extracted and transformed from the myvisuallistings.com privacy policy that was archived on 2007-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070715175208id_/http%3A//www.myvoicemessage.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myvisuallistings.com privacy policy that was archived on 2008-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080410061206id_/http%3A//www.myvisuallistings.com/my-visual-listings/privacy-policy) for the most accurate reproduction.*
 
-# My Voice Message - STAYING IN TOUCH With Your Clients Just Got Easier
+# My Visual Listings - Not just a listing... a showing | privacy-policy
 
-### 
+VMMI.com Inc. ("VMMI") is committed to maintaining our customers' privacy and security. All personal information collected by VMMI is for internal use only. VMMI does not keep your credit card information on our system, nor do we have direct access to it. VMMI automatically encrypts your credit card information in transit from your computer to our systems using the Secure Sockets Layer protocol (SSL) with an encryption key length of 128-bits (the highest level commercially available). Credit card numbers are held by our credit card gateway partner, Inter Secure Inc., and used solely for initial and recurring billing purposes only. Your e-mail will be used for VMMI correspondence only, including but not limited to order confirmation, virtual tour completion notification, monthly statements (with no reference to your credit card information), product information and updates and related business correspondence. VMMI will not release or sell any personal information to any outside or third party for any reason.
 
-PRIVACY POLICY 
+[](http://www.myvisuallistings.com/my-visual-listings/search-price/)
 
-Our top priority is to provide you, our member, with outstanding products and services. To achieve this goal, we must collect, maintain and use certain personal and financial information that you provide us. We recognize and respect your privacy concerns with regards to this information. We want you to know about our privacy policies and practices.
+[](http://www.myvisuallistings.com/my-visual-listings/distributorswanted/)
 
-**Collection and Use of Member Information  
-**We collect, retain and utilize information about you only to operate our business and to make marketing products, services and other opportunities available to you. We obtain information in a variety of ways (for example, directly from you in your subscription form, from your member’s area client management system and from your member’s control panel. We keep your private information just that-private.
+I will have a PROFESSIONAL PHOTOGRAPHER come over, and take not 8-10 photos, but at least THIRTY, and ...  
+[read more](http://www.myvisuallistings.com/my-visual-listings/testimonial/)
 
-**Disclosure of Information  
-**We will not sell, share, or rent any of the above individual information to any third parties for independent use.
+  
 
-We have established procedures to correct inaccurate information in a timely manner. If you have any reason to believe that your personal company information is incorrect, we should be contacted in writing: by e-mail using your Member Profile Form. Your information that you wish the public to see will be the only information to be visible.
-
-**Protection of Information  
-**We maintain appropriate procedures to protect the security of your information. We keep files locked electronically and physically. You don't need to worry that your information will be compromised. You can also be confident in the fact that we will not pass this information to unknown parties or list services. If you have any questions, please feel free to contact us. 
-
-[office@voicemessagemarketing.com](mailto:office@voicemessagemarketing.com)
