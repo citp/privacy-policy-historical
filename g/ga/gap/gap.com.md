@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gap.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211123126id_/http%3A//www.gap.com/customerService/info.do%3Fcid%3D2330) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gap.com privacy policy that was archived on 2008-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080410192241id_/http%3A//www.gap.com/customerService/info.do%3Fcid%3D2330) for the most accurate reproduction.*
 
 # Privacy, Security and Web Info | Gap
 
@@ -157,6 +157,40 @@ San Francisco, CA 94105
 
 back to top
 
+At gap.com we don't just stand behind our merchandise. We also do our best to provide a safe and convenient online shopping experience. 
+
+We safeguard the integrity of our customers' credit card information. If your credit card or debit card ("credit card") is used in an unauthorized manner on our site (as determined by your credit card company), we will cover whatever amount your credit card company doesn't - up to $50.
+
+If you're not quite comfortable shopping online, or would prefer to make your purchase via telephone, just give us a call at 1.800.GAPSTYLE, option 1. Our Customer Service representatives are standing by 24 hours a day, seven days a week. They'll be happy to take your gap.com order right over the phone. 
+
+Protecting the safety of your credit card information is important to us. 
+
+We use Secure Sockets Layer (SSL) technology to protect the security of your credit card information as it is transmitted to us. 
+
+SSL is the gold standard in Internet encryption technology, which is a fancy way of saying that it's a highly sophisticated method of scrambling data as it travels from your computer to our website's servers.
+
+If someone steals your credit card information or uses your credit card in an unauthorized manner on our site (as determined by your credit card company) — through no fault of your own — we'll cover up to $50 of the charges your credit card company doesn't. What's more, we'll do what we can to make the whole process as hassle-free as can be.
+
+In an effort to make your shopping experience as secure as possible, we now require that you to enter your credit card's 3 to 4 digit security code (CVV). Since the code can only be found on the card itself, providing it helps to prevent credit card fraud.
+
+Under the Fair Credit Billing Act, your bank or credit card company cannot hold you liable for more than $50 of unauthorized or fraudulent charges on a credit card. Your liability for unauthorized use of a debit card may be higher, but most debit card issuers voluntarily apply the $50 limit to their cards as well. If your bank does hold you liable for any amount up to $50, gap.com will cover the liability imposed on you, up to $50. Gap.com will cover this amount only if the unauthorized use of your credit card occurred at gap.com and through no fault of your own. 
+
+Remember: If unauthorized use of your credit or debit card does occur, you must notify your card provider, in accordance with the agreement you have with the company. 
+
+To make sure you are accessing our secure server before you submit personal financial information, look at the lower left-hand corner of your browser. If you see an unbroken key or a closed lock (depending upon your browser), then SSL is active. To double-check for security, look at the URL or Location line of your browser. If you have accessed a secure server, the first characters of the address in that line should change from "http" to "https." 
+
+Some browser versions and some firewalls don't permit communication through secure servers like the ones we use to process orders at gap.com. If for any reason you cannot access the secure server, please feel free to place your order with us by phone at 1.800.GAPSTYLE, option 1. Our Customer Service representatives will be happy to assist you.
+
+_Effective October 18, 2004_
+
+A cookie is a small data file that Web sites often store on your computer's hard drive when you visit their sites. A cookie may contain information (such as a unique user ID), that is used to track the pages of the sites you've visited. We use cookies but do not store personally identifiable information in your cookie.
+
+We use cookies in order to improve your shopping experience. When you visit gap.com, your cookie helps us keep track of your order as you shop at our site. If you have saved your information with us, your cookie allows us to recognize you when you return to our site and provides you with access to your account information. If you saved your information with or order from us, we also use cookies to monitor and maintain information about your use of our site. If you have not saved your information with or ordered from us, we may monitor and maintain information about your use of our Web site in a manner that does not identify you. In either case, this information helps us serve you better by improving our site design, as well as our products, services, contests, and promotions.
+
+We also use cookies to track and maintain the identity of the Web site you visited immediately prior to ours to further improve our site design and to fulfill contracts with our business partners. We do not otherwise track any information about your use of other Web sites.
+
+You can refuse cookies by turning them off in your browser. If you turn off cookies, though, we will not be able to track your order or enable you to make a purchase from our site. Nor will we be able to recognize you as a signed up user to allow you access to your account information.
+
   * _AOL 5.0:_  
 Select "Preferences"  
 Click on "WWW"  
@@ -196,12 +230,6 @@ Type "www.gap.com" in the "Address of Website" box. Click the "Allow" button. Cl
 
 As always, you can also place your order by phone at 1.800.GAPSTYLE.
 
-Gap Online is best viewed with AOL version 5.0 or higher, Netscape Navigator version 4.7 or higher, or Microsoft Internet Explorer version 5.0 or higher. You can upgrade your browser at AOL, at Netscape, or at Microsoft for free.
-
-Macintosh users running AOL 3.0 will not be able to place orders with Gap Online, as this browser version does not support SSL technology. Either upgrade your AOL browser or print our order form and place your order by phone at 1.800.GAPSTYLE, available 24 hours a day.
-
-WebTV users can browse our site but they are also unable to place orders at Gap Online. WebTV users should print our order form and place their order by phone at 1.800.GAPSTYLE.
-
 We're sorry, but you'll need to enable JavaScript in your browser to shop our site. See below for easy-to-follow instructions.
 
 Yes, you cannot shop the gap.com site unless your Web browser supports JavaScript. If your firewall does not allow JavaScript from the Web in general, you will need to ask your network administrator to enable JavaScript for the gap.com site.
@@ -240,16 +268,4 @@ If you are using Netscape 4.x:
 
 
 
-A few plug-ins will enhance your shopping experience at Gap Online. To view our television advertisements, experience multimedia effects, view downloaded order forms, and take advantage of other features, you need to download and install the following plug-ins.
-
-_[QuickTime](http://apple.com/quicktime):_ to play movies.
-
-_[Flash](http://macromedia.com/):_ to view the homepage animation and many of our seasonal shops and features.
-
-_[Adobe Acrobat Reader](http://www.adobe.com/):_ to download certain forms.
-
-Once the software has downloaded completely, locate it on your hard drive, and follow the included installation instructions.
-
-Please be assured that we are working hard to make our site more accessible to customers with screen readers and talking Web browsers.
-
-In the meantime, if you have any questions about our site or our merchandise, or you would like to make a purchase, please feel free to call 1.800.GAPSTYLE. Our customer service representatives are standing by to talk to you 24 hours a day, seven days a week.
+We are commited to making our Website accessible to customers who use screen readers and other assistive technologies. If you have any questions about our site or our merchandise, or you would like to make a purchase, please call 1.800.GAPSTYLE. Our customer service representatives are standing by to speak with you 24 hours a day, seven days a week.
