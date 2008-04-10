@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videowish.com privacy policy that was archived on 2007-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071016103820id_/http%3A//www.videowish.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videowish.com privacy policy that was archived on 2008-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080410031918id_/http%3A//www.videowish.com/privacy.php) for the most accurate reproduction.*
 
 # WWW.VIDEOWISH.COM
 
