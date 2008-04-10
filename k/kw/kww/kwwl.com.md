@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the kwwl.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211042206id_/http%3A//www.kwwl.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kwwl.com privacy policy that was archived on 2008-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080410043007id_/http%3A//www.kwwl.com/privacy.php) for the most accurate reproduction.*
 
 # KWWL TV :: Waterloo, IA - Privacy Policy
 
 Online Privacy Policy   
-Copyright © 2007 KWWL-TV. All rights reserved. 
+Copyright © 2008 KWWL-TV. All rights reserved. 
 
 KWWL-TV owns and operates KWWL.com. KWWL-TV may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. This policy applies only to information collected by KWWL.com and does not impact information collected or used by KWWL-TV, KWWL.com or their affiliates through other means. 
 
