@@ -1,33 +1,90 @@
-> *The following text is extracted and transformed from the overnightprints.com privacy policy that was archived on 2006-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061020231409id_/http%3A//www.overnightprints.com/main.php%3FA%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the overnightprints.com privacy policy that was archived on 2008-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080410230604id_/http%3A//www.overnightprints.com/main.php%3FA%3Dprivacy) for the most accurate reproduction.*
 
-# Business Cards, Postcards, Flyers, Brochures, Letterhead & Envelopes Overnight ~ by OvernightPrints.com
+# Business Cards, Postcards, Flyers, Brochures, Letterhead , Greeting Cards & Envelopes Overnight ~ by OvernightPrints.com
 
-Overnight Prints is committed to protecting your information, how it's used and how it's shared, and we appreciate your choosing to do business with us. The policy outlined here describes exactly what information we collect and what we do with that information. By visiting Overnight Prints, you are accepting the practices described in this Privacy Policy and in our Terms of Service found at www.OvernightPrints.com. 
+Overnight Prints is committed to protecting your information, how it's used and how it's shared, and we appreciate you choosing to do business with us. This page describes our privacy policy. By visiting Overnightprints.com, you are accepting the practices described in this Privacy Policy.
 
-Overnight Prints is the sole owner of the information collected on www.OvernightPrints.com. We collect information from our users at several different points on our Web site. 
+Personal Information about Customers Gathered by Overnight Prints
 
-Overnight Prints gathers two kinds of information: 
+The information we learn from customers helps us personalize and continually improve your shopping experience at Overnight Prints.   
+Here are the types of information we gather: 
 
-Provided Information: At Overnight Prints we store the information that you use when placing an order or asking for samples. We use this information for such purposes as responding to your requests, customizing future shopping for you, offering you promotions or specials for Overnight Prints, improving our site, and communicating with you via e-mail. If you change your mind and decide you do not wish to receive informational or promotional material via e-mail in the future, you may follow the removal instructions at the bottom of any e-mail message you receive from Overnight Prints. 
+Â 
+  * Information You Give Us: We receive and store any information you enter on our Web site or give us in any other way. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customizing future shopping for you, improving our business, and communicating with you.
+  
 
-Stored Information: We receive and store certain types of information whenever you interact with us. Like many Web sites, we use "cookies" to obtain certain types of information when your Web browser accesses Overnight Prints. We utilize cookies to identify you as an Overnight Prints customer, to recall your orders, and to provide you with valuable features, such as pre-populating fields to reduce the amount of typing you do. We may also use your IP address to help diagnose problems with our service. 
+  * Automatic Information: We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use "cookies," and we obtain certain types of information when your Web browser accesses Overnightprints.com.
+  
 
-If you wish to control how your browser accepts cookies, the "help" portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, and how to disable cookies altogether. 
+  * E-mail Communications: To help us make e-mails more useful and interesting, we often receive a confirmation when you open e-mail from Overnight Prints if your computer supports such capabilities. If you do not want to receive e-mail or other mail from us, please follow the unsubscribe instructions at the bottom of any e-mail messageÂ  you receive from Overnight Prints.
+  
 
-Information Sharing: Overnight Prints values our customers' information and works diligently to protect that information. We will not share your contact information with any third parties other than our reputable corporate partners. In the event you do not wish this information to be shared, we ask that you do not agree to the terms of service. Overnight Prints does not store your credit card information and will never share that information with any outside company. 
+  * Information from Other Sources: We might receive information about you from other sources and add it to our account information.
+  
 
-Although we use industry standard practices to protect your privacy, we do not promise, and you should not expect, that your personally-identifiable information or private communications will always remain private. Due to the existing regulatory environment, we cannot ensure that all your private communications and other personally-identifiable information will never be disclosed in ways other than those described in this Privacy Policy. For example, under certain circumstances we may be forced to disclose information to the government, and individuals may unlawfully intercept or access your private communications. 
+Cookies
 
-The following describes some of the ways that your personally-identifiable information may be disclosed: 
+Â 
+  * Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and to provide certain features and improve our business.
+  
 
-Business Transfers \- As Overnight Prints grows in size, it may be possible that we acquire or are purchased by another company. In such a circumstance, customer information is a generally- accepted asset to be transferred. Also, customer information will be transferred in the event that all or substantially all of www.OvernightPrints.com's assets or web business is acquired. 
+  * The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the Website of its manufacturer. However, because cookies allow you to take advantage of some of Overnight Prints' essential features, we recommend that you leave them turned on. For instance, if you block or otherwise reject our cookies, you will not be able to add items to your Shopping Cart, proceed to Checkout, or to Sign in to Overnight Prints' website.
+  
 
-Compliance with Law \- We release account and other personal information when we believe release is appropriate to comply with law; to enforce or apply our Terms of Service and other agreements; or to protect the rights, property, or safety of Overnight Prints, our users, or others. This release may also include exchanging information with other companies and organizations for fraud protection and credit risk reduction. 
+Information Sharing
 
-Customer Service: We communicate with users on a regular basis to provide requested services. Our production and customer service use phone, e-mail, and post mail information to communicate with customers with regard to their orders. Third Party Intermediaries: We use an outside shipping company to ship orders, and a credit card processing company to bill users for goods and services. These companies do not retain, share, store, or use personally-identifiable information for any secondary purpose. Links: Our sites may contain links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally-identifiable information. This privacy statement applies solely to information collected by this Web site. Security: Overnight Prints takes every precaution to protect our users' information. When users submit sensitive information via the Web site, their information is protected both on-line and off-line. We use Secure Socket Layer (SSL) technology, which is supported by the vast majority of modern Internet browsers. SSL works best when you are using the latest 128-bit encryption versions of either Microsoft Internet Explorer or Netscape Navigator. SSL technology represents the highest level of security available on the Internet. SSL automatically encrypts information traveling over the Internet, verifies the identity of the transacting servers through certificates and digital signatures, and confirms that the integrity of the message content is maintained throughout its transmission. 
+Information about our customers is an important part of our business, and we are not in the business of selling it to others. We share customer information only with reputable corporate partners. Â 
 
-Children: Overnight Prints does not market or sell to children. Our products are designed for adults and a credit card or electronic check is needed to purchase from Overnight Prints. Children may only use our website with consent from their guardian. When our order form asks users to enter sensitive information such as a credit card number or address, that information is encrypted and is protected with SSL, which is the best encryption software in the industry. While on a secure page such as our order form, the lock icon on the bottom of Web browsers such as Firefox Mozilla and Microsoft Internet Explorer becomes locked, whereas the lock icon is open (unlocked) when users are just browsing. Just as we use SSL encryption to protect sensitive information on-line, we also do everything in our power to protect user information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. 
+  * Third-Party Service Providers: We may employ other companies and individuals to perform functions on our behalf. Examples include but are not limited to, fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links), processing credit card payments, and providing customer service. They have access to personal information needed to perform their functions.
+  
 
-Notice: We may change this Privacy Policy from time to time based on your comments and our need to accurately reflect our data collection and disclosure practices. The use of information that we gather is subject to the Privacy Policy in effect at the time of collection. We may, but we shall not be required to, e-mail you periodic reminders of our notices, unless you have instructed us not to, so you should check our Web site frequently to see recent changes. 
+  * Business Transfers: As we continue to develop our business, we might sell or buy other companies, subsidiaries, or business units. In such transactions, customer information generally is one of the transferred business assets. Also, in the unlikely event that Overnight Prints, or substantially all of its assets are acquired, customer information will of course be one of the transferred assets.
+  
 
-If any questions or disputes of this Privacy Policy arise, please contact Overnight Prints at [service@overnightprints.com](mailto:service@overnightprints.com), and we will do our best to answer or resolve your issue. You may also choose to contact us at: 
+  * Protection of Overnight Prints and Others: We release account and other personal information when we believe release is appropriate to comply with the law; enforce or apply our Terms of Service and other agreements; or protect the rights, property, or safety of Overnight Prints, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
+  
+
+Information Security
+
+  * We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input.
+  
+
+  * We reveal only the last five digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing.
+  
+
+Third-Party Advertisers and Links to Other Websites
+
+Our site includes third-party advertising and links to other websites. These third-party websites and advertisers, or Internet advertising companies working on their behalf, sometimes use technology to send (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize advertising content. We do not have access to or control over cookies or other features that they may use, and the information practices of these advertisers and third-party websites are not covered by this Privacy Policy. Please contact them directly for more information about their privacy practices.
+
+Process to Review and Make Changes to Personal Information
+
+Â 
+  * As discussed above, you can always choose not to provide information, even though it might be needed to make a purchase or to take advantage other Overnight Print products and features.
+  
+
+  * The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the Website of its manufacturer. However, because cookies allow you to take advantage of some of Overnight Prints' essential features, we recommend that you leave them turned on. For instance, if you block or otherwise reject our cookies, you may not be able to add items to your Shopping Cart, proceed to Checkout, or use any Overnight Prints' products and services that require you to sign in.
+  
+
+Children's use of Overnight Prints' Web Site
+
+Overnight Prints does not sell products for purchase by children. Any children's products we may sell are for purchase by adults. Children may only use our website with consent from their guardian.
+
+Terms of Service, Notices, and Revisions
+
+If you choose to visit Overnight Prints, your visit and any dispute over privacy is subject to this Policy and our Terms of Service, including limitations on damages, arbitration of disputes, and application of the law of the state of California.
+
+Our business changes constantly, and our Privacy Policy and the Terms of ServiceÂ  will change also. We may e-mail periodic reminders of our notices and conditions, but you should check our Web site frequently to see recent changes. It is your responsibility to review this document periodically for changes. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account.
+
+Information You Give Us
+
+You provide such information when you search, buy, post, participate in a contest or questionnaire, or communicate with customer service. For example, you provide information when you search for a product; place an order with Overnight Prints or one of our third-party sellers; provide information by filling out a form; communicate with us by phone, e-mail, or otherwise; complete a questionnaire or a contest entry form; provide reviews. As a result of those actions, you might supply us with such information as your name, address, and phone numbers; credit card information; people to whom purchases have been shipped, including addresses and phone number; e-mail addresses.
+
+Automatic Information
+
+Examples of the information we collect and analyze include the Internet protocol (IP) address used to connect your computer to the Internet; login; e-mail address; password; computer and connection information such as browser type, version, and time zone setting, browser plug-in types and versions, operating system, and platform; purchase history; the full Uniform Resource Locator (URL) clickstream to, through, and from our Web site, including date and time; cookie number; products you viewed or searched for; and the phone number you used to call our toll free number. We may also use browser data such as cookies, Flash cookies (also known as Flash Local Shared Objects), or similar data on certain parts of our Website for fraud prevention and other purposes. During some visits we may use software tools such as JavaScript to measure and collect session information, including page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page.
+
+Information from Other Sources
+
+Examples of information we receive from other sources include updated delivery and address information from our carriers or other third parties, which we use to correct our records and deliver your next purchase or communication more easily; account information, purchase or redemption information, and page-view information from some merchants with which we operate co-branded businesses or for which we provide technical, fulfillment, advertising, or other services; search term and search result information from some searches conducted through the Web search features offered by our subsidiaries; search results and links, including paid listings (such as Sponsored Links).
+
+If any questions or disputes of this Privacy Policy arise, please contact Overnight Prints at **service@overnightprints.com** , and we will do our best to answer or resolve your issue. You may also choose to contact us at: 
