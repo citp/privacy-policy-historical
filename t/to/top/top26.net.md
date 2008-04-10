@@ -1,6 +1,14 @@
-> *The following text is extracted and transformed from the top26.net privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211102326id_/http%3A//www.top26.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top26.net privacy policy that was archived on 2008-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080410070149id_/http%3A//www.top26.net/privacy.html) for the most accurate reproduction.*
 
 # Top 26 Gaming - Privacy Policy
+
+there are currently 321 visitors online!
+
+[](http://www.top26.net/)
+
+Welcome to the Top 26 Gaming sites, providing the best emulation and gaming links **since 2001**. You should bookmark this site now, as we always have the newest and best gaming and rom links, updated daily! We do not allow any sites which have force voting or excessive popup's, so where ever you click you will always get a quality link! 
+
+Sites with [](https://web.archive.org/hqicon.html) icon are particularly high quality - Votes in are reset **every day** at 5am GMT.
 
 **Privacy Policy**
 
