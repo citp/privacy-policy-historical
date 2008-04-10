@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecvv.com privacy policy that was archived on 2007-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071024143630id_/http%3A//www.ecvv.com/public/Privacy_Policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecvv.com privacy policy that was archived on 2008-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080410074654id_/http%3A//www.ecvv.com/public/Privacy_Policy.asp) for the most accurate reproduction.*
 
 # 
 
