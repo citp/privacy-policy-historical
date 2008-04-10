@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the footmapping.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626190308id_/http%3A//www.drscholls.com/info.aspx%3Finfoid%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footmapping.com privacy policy that was archived on 2008-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080410055136id_/http%3A//www.drscholls.com/info.aspx%3Finfoid%3D2) for the most accurate reproduction.*
 
 # Dr Scholl's
 
