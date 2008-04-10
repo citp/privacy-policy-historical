@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pornhub.com privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218181949id_/http%3A//www.pornhub.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pornhub.com privacy policy that was archived on 2008-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080410204105id_/http%3A//www.pornhub.com/main.php%3Faction%3Dprivacy) for the most accurate reproduction.*
 
 # Full Porn Videos & Sex Community, The famous porn tube site - PornHub.com.
 
