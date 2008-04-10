@@ -1,150 +1,64 @@
-> *The following text is extracted and transformed from the idp.com privacy policy that was archived on 2007-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071024175300id_/http%3A//www.idp.com/corporate/aboutus/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idp.com privacy policy that was archived on 2008-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080410144827id_/http%3A//www.idp.com/corporate/aboutus/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement - IDP Education Pty Ltd
 
   * Privacy Policy
-  * Protecting Personal Information
-  * Information that the company holds
-  * Web site tracking
-  * Use and Disclosure of Personal Information 
-  * Security of Personal Information
-  * Right of Access by the Individual
-  * Privacy Representative
-  * Personal Information Management Policy Statement 
+  * What Personal Information Does IDP Collect?
+  * How Does IDP Use Personal Information?
+  * Security
+  * Access to Personal Information 
+  * Accuracy of Information
+  * Contacting Us
 
 
 
-## Privacy Policy
+## Privacy Policy - October 2007
 
-The company is subject to the [Privacy Act](http://www.privacy.gov.au/act/index.html) and the associated National Privacy Principles.
+IDP understands that privacy is important to you and is committed to complying with the [National Privacy Principles (NPPS)](http://www.privacy.gov.au/publications/npps01.html) which is contained in the Privacy Act 1988 (Cth) (“Privacy Act”). 
 
-This policy sets out how the company collects, holds and uses personal information collected from individuals in the conduct of our business.
+Your access and use of this website is subject to this Privacy Policy and all applicable laws. By accessing and using this website, you accept and agree to this Privacy Policy without any limitation or qualification.
 
-## Protecting Personal Information
+## What Personal Infomation Does IDP Collect?
 
-All personal information collected from individuals as a result of our business operations will be protected as an essential part of the relationship we wish to establish with our clients. The company will only disclose this information in accordance with the provisions of the Privacy Act and the National Privacy Principles.
+(a) Electronic Forms
 
-## Information that the company holds
+If you subscribe to our website, the personal information we will collect from you generally includes your name, address, contact details, occupation and professional memberships. We do not collect personal information that we do not need. 
 
-In the normal course of business activities, the company will collect personal information, including "sensitive information".
+(b) Website traffic tracking
 
-Personal information may include an individual's name, address, date of birth, contact details, occupation, and professional memberships.
+When you visit our website, our server makes a record of your visit and logs the following personal information:  
+  \- the number of page views (or page impressions) that occur on an IDP website  
+  \- the number of unique visitors  
+  \- how long these unique visitors (on average) spend on an IDP website, and  
+  \- common entry and exit points to IDP sites.
 
-Sensitive information includes details of an individual's racial or ethnic origin, religious beliefs, and health information. The company must obtain the consent of the person to collect and use that information.
+## How Does IDP Use Personal Information?
 
-## Web site traffic tracking
+We need to collect personal information so that we can provide our services, respond to your questions, inform students, institutions and other clients of developments in the services we provide (including events and opportunities to participate in projects/programs) and manage our internal business operations. IDP does not sell, rent or trade your personal information to third parties except if required by law or permitted under the [Privacy Act](http://www.privacy.gov.au/act/index.html) .
 
-Idp uses web analytics software to measure and analyse its internet usage to ensure the site meets its objectives with advertisers and users. Individual privacy is protected but idp global gains insights on how make the site more useful for advertisers as well as our users. Idp collects broadly aggregated statistics on: 
+## Security
 
-  * The number of page views (or page impressions) that occur on an idp site; 
-  * The number of unique visitors; 
-  * How long these unique visitors (on average) spend on an idp site; and 
-  * Common entry and exit points to idp sites. 
+IDP takes reasonable steps to ensure the security of your personal information. We frequently update our anti-virus software to protect our systems from computer viruses. Further, all IDP employees are required, as a condition of employment, to treat personal information held by IDP as confidential. However, you should be aware that the internet is not a secure environment. We cannot protect personal information before it reaches us.
 
+## Access to Personal Information 
 
+Under the [Privacy Act](http://www.privacy.gov.au/act/index.html), you have the right to seek access to your personal information handled by IDP.
 
-## Use and Disclosure of Personal Information 
+## Accuracy of Information
 
-The company will use personal information to:
+Under the [Privacy Act](http://www.privacy.gov.au/act/index.html) , you have the right to ask us to update or correct your personal information when it is inaccurate, incomplete or out of date. If your personal details change, or you believe the information we hold about you is incorrect, please contact us so that we can update our records.
 
-  * provide its services, particularly those associated with student services (eg recruitment, English language testing) 
-  * provide students, institutions and other clients of developments in the services it offers 
-  * manage its internal business operations 
+## Contacting Us
 
+If you would like to contact us about any matter relating to privacy, our details are:
 
-
-The company will only disclose information for the purpose for which it was collected, and where appropriate, after obtaining the necessary consent from the individual. Information may be disclosed for other purposes, with the specific consent of the individual to do so.
-
-The company may also be required to disclose personal information where the law requires such disclosure.
-
-## Security of Personal Information
-
-The company will take reasonable steps to ensure the security of personal information that it holds, regardless of the form in which that information is held. This will include taking reasonable steps to prevent the misuse or loss of this information, or unauthorised disclosure, access to, or modification of this information.
-
-Where the information is held in electronic form, access will be controlled by user logins and passwords, and restriction of access only to persons who need to have that access in the course of the company's business activities.
-
-All staff of the company are subject to confidentiality obligations as part of their conditions of employment. 
-
-## Right of Access by the Individual
-
-Any individual has the right to request access at any time to the personal information that the company holds about that person. This access will be refused where the company cannot be satisfied as to the identity of the person requesting that access.
-
-Any individual can request the company to modify or correct personal information that the person believes to be incorrect. 
-
-The company can refuse to provide access to personal information where the Privacy Act allows it to do so.
-
-## Privacy Representative
-
-IDP's Privacy Representative is the Company Secretary. Any questions, concerns or complaints about the company's Privacy Policy or its practices related to privacy of personal information should be address to the Representative, as follows:
-
-> Corporate Governance  
-> IDP Education Pty Ltd  
-> Level 4, 210 Clarence Street   
-> Sydney NSW 2000   
-> AUSTRALIA
-> 
-> Telephone: +61 2 8251 2708  
-> Facsimile +61 2 8251 2785
-
-## Personal Information Management Policy Statement 
-
-IDP Education Pty Ltd (IDP) is bound by the National Privacy Principles (NPP's), as set out in the [Privacy Act 1988](http://www.privacy.gov.au/act/index.html) (as amended).
-
-In general, IDP holds the following types of personal information:
-
-  * personal details of individuals who have enquired about study opportunities in Australia, or who have applied to undertake a course of study at an Australian educational institution, or an overseas education institution that has entered into a twinning arrangement with an Australian education institution. As IDP operates in over 30 overseas countries, it is unavoidable that some of this personal information is sensitive information (ie the individual's racial or ethnic origin); 
-  * personal details of individuals who have applied to undertake, or have undertaken, an assessment service provided by, or through, IDP (eg an IELTS or ISAT test). In the case of individuals who have completed such assessment, IDP will also hold the results achieved by the individual; 
-  * personal details of individuals who have formally advised/registered their interest in being engaged as consultants, or individuals who have been, or are currently, engaged as consultants on projects/programs managed by IDP (or IDP in consortium with other organisations); 
-  * personal details about individuals who have registered their names with a service offered by the company (eg the Graduate Recruitment Service) 
-  * personal details about individuals who have registered to participate in an event organised, managed or presented by IDP (eg the annual International Education Conference), whether in its own right, or under contract for another organisation. 
-
-
-
-In general, IDP uses this personal information for the following purposes:
-
-  * assisting an individual to avail themselves of the opportunity to undertake studies in an Australian education institution; 
-  * assisting an individual to further their career after completing their studies at an Australian education institution, or an overseas education institution twinned to an Australian education institution 
-  * provide opportunities for individuals to participate in projects/programs as consultants 
-  * effective management of events
-
-
-
-IDP has taken reasonable steps to ensure the security and appropriate use of personal information including:
-
-  * developing and implementing a Privacy Policy 
-  * training its staff in the management of personal information 
-  * developing and implementing appropriate computer system controls 
-
-
-
-IDP is a contractor to the Commonwealth and State governments, and contracts out services.
-
-Complaints about possible breaches of privacy should be marked as "Confidential", and addressed to:
-
-> Corporate Governance  
-> IDP Education Pty Ltd  
-> Level 4, 210 Clarence Street   
-> Sydney NSW 2000   
-> AUSTRALIA
-
-Requests for access to personal information should be addressed to the Company Secretary (as set out above).
-
-Where a request is limited to access to an individual's personal information, the company will take all reasonable steps to respond within five (5) working days of the receipt of the request. These steps will include verification of the identity of the individual concerned. 
-
-Where the request is in respect of correction of inaccuracies to an individual's personal information, the nature of the inaccuracy must be clearly stated, along with the information required to be entered in lieu of the inaccurate information. The company will take all reasonable steps to respond within five (5) working days of the receipt of the request. These steps will include verification of the identity of the individual concerned.
-
-All requests for access to personal information (for whatever purpose) will be responded to in writing, and will be recorded in a register maintained for this purpose.
-
-Where the individual's identity cannot be verified to the satisfaction of the Company Secretary, the request for access will be denied.
-
-For more information contact:
-
-> Jenny Tallis  
-> Corporate Governance  
-> IDP Education Pty Ltd  
-> Phone - +61 2 8251 2708  
-> Fax -    +61 2 8251 2785   
-> Email - [jenny.tallis@idp.com](mailto:jenny.tallis@idp.com)
+Corporate Counsel  
+IDP Education Pty Ltd  
+Level 4, 210 Clarence Street  
+Sydney NSW 2000  
+Tel: +61 2 8251 2700   
+Fax: +61 2 8251 2785  
+Email: [legal.australia@idp.com](mailto:legal.australia@idp.com) 
 
 Back to top  
 
