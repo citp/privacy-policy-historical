@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the like.com privacy policy that was archived on 2007-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071201152656id_/http%3A//www.like.com/privacy.py) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the like.com privacy policy that was archived on 2008-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080410205900id_/http%3A//www.like.com/privacy.py) for the most accurate reproduction.*
 
-# Like Visual Search - Find things by Appearance with our new Likeness technology
+# 
 
 *Effective November 8, 2006
 
@@ -40,8 +40,11 @@ Finally, we never use or share the personally identifiable information provided 
 **Our Commitment to Data Security  
 ** To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
 
-**How to Contact Us**   
-Should you have other questions or concerns about our Privacy Policy, please send us an e-mail at [privacy2@like.com](mailto:privacy2@like.com).
+**How to Contact Us**
+
+Should you have other questions or concerns about our Privacy Policy, please send us an e-mail at  
+
+.
 
 **Riya, Inc.**   
 3 Waters Park Drive  
