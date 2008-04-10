@@ -1,6 +1,16 @@
-> *The following text is extracted and transformed from the lockergnome.com privacy policy that was archived on 2007-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071024191850id_/http%3A//www.lockergnome.com/about/privacy-policy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lockergnome.com privacy policy that was archived on 2008-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080410052437id_/http%3A//www.lockergnome.com/about/privacy-policy.phtml) for the most accurate reproduction.*
 
 # Lockergnome's Privacy Policy - Your Top Technology Resource
+
+**Warning** : include() [[function.include](https://web.archive.org/web/20080410052437id_/http%3A//www.lockergnome.com/about/function.include)]: Failed opening '..../inc/header.phtml' for inclusion (include_path='.:/usr/share/php:/usr/share/pear:/var/www/www.lockergnome.com:/var/www/www.lockergnome.com/includes') in **/nfs/www/www.lockergnome.com/about/privacy-policy.phtml** on line **11**
+
+**Warning** : include(..../inc/leftnav.phtml) [[function.include](https://web.archive.org/web/20080410052437id_/http%3A//www.lockergnome.com/about/function.include)]: failed to open stream: No such file or directory in **/nfs/www/www.lockergnome.com/about/privacy-policy.phtml** on line **12**
+
+**Warning** : include() [[function.include](https://web.archive.org/web/20080410052437id_/http%3A//www.lockergnome.com/about/function.include)]: Failed opening '..../inc/leftnav.phtml' for inclusion (include_path='.:/usr/share/php:/usr/share/pear:/var/www/www.lockergnome.com:/var/www/www.lockergnome.com/includes') in **/nfs/www/www.lockergnome.com/about/privacy-policy.phtml** on line **12**
+
+**Warning** : include(..../inc/rightnav.phtml) [[function.include](https://web.archive.org/web/20080410052437id_/http%3A//www.lockergnome.com/about/function.include)]: failed to open stream: No such file or directory in **/nfs/www/www.lockergnome.com/about/privacy-policy.phtml** on line **13**
+
+**Warning** : include() [[function.include](https://web.archive.org/web/20080410052437id_/http%3A//www.lockergnome.com/about/function.include)]: Failed opening '..../inc/rightnav.phtml' for inclusion (include_path='.:/usr/share/php:/usr/share/pear:/var/www/www.lockergnome.com:/var/www/www.lockergnome.com/includes') in **/nfs/www/www.lockergnome.com/about/privacy-policy.phtml** on line **13**
 
 ## Logs
 
@@ -68,4 +78,4 @@ Lockergnome
 Seattle, WA 98122-3813   
 1.888.472.0604 
 
-Betty's Beer Bar: Help Betty leave her workplace and buy her own island in the Caribbean! Serve the most fun and wacky characters in four different bars around the world, rendered in a beautiful hand-drawn, cartoon-like style. Enjoy this game of non-violence and fun bartending action for all ages! Meet beautiful Betty. Her dream is to own a bar on a tropical beach, but she's got to work in less-than-favorable dives in the meantime. Help her raise... [[Click Here to Download](http://windows.fileoftheday.com/archives/games_bettys_beer_bar.html)] 
+**Warning** : include() [[function.include](https://web.archive.org/web/20080410052437id_/http%3A//www.lockergnome.com/about/function.include)]: Failed opening '..../inc/footer.phtml' for inclusion (include_path='.:/usr/share/php:/usr/share/pear:/var/www/www.lockergnome.com:/var/www/www.lockergnome.com/includes') in **/nfs/www/www.lockergnome.com/about/privacy-policy.phtml** on line **190**
