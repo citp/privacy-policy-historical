@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the betarecords.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210221135id_/http%3A//www.betarecords.com/privpol.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betarecords.com privacy policy that was archived on 2008-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080410034823id_/http%3A//www.betarecords.com/privpol.php) for the most accurate reproduction.*
 
 # Privacy Policy | Music Marketing | Music Promotion | Music Hosting | MP3 Hosting | Music Distribution | Record Label for Unsigned Artist and Unsigned Band :: Beta Records
 
