@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goair.in privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231184407id_/http%3A//goair.in/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goair.in privacy policy that was archived on 2008-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080411054933id_/http%3A//www.goair.in/privacy.asp) for the most accurate reproduction.*
 
 # Flight Bookings India, Domestic Airline Ticketing & Cheap Airline Tickets India
 
