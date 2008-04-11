@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zingerbug.com privacy policy that was archived on 2007-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070526141244id_/http%3A//www.zingerbug.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zingerbug.com privacy policy that was archived on 2008-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080411024643id_/http%3A//www.zingerbug.com/privacy.htm) for the most accurate reproduction.*
 
 # ZingerBug.com Privacy Policy
 
@@ -28,3 +28,5 @@ ZingerBug.com does not collect any personal information from any user, so we do 
 **Who should I contact if I have any questions about your Privacy Policy or anything else related to your website?**
 
 You may email us anytime at: WebMaster@ZingerBug.com, and one of our dedicated staff members will respond to you as soon as possible (usually within 24 hours).
+
+ _ _
