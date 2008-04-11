@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phoenixnewtimes.com privacy policy that was archived on 2007-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071025045438id_/http%3A//phoenixnewtimes.com/about/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phoenixnewtimes.com privacy policy that was archived on 2008-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080411152517id_/http%3A//www.phoenixnewtimes.com/about/policy.php) for the most accurate reproduction.*
 
 # Phoenix -
 
