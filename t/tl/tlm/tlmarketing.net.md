@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tlmarketing.net privacy policy that was archived on 2007-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071104033046id_/http%3A//www.tlmarketing.net/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tlmarketing.net privacy policy that was archived on 2008-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080411082654id_/http%3A//www.tlmarketing.net/privacy.htm) for the most accurate reproduction.*
 
 # 
 
