@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dummies.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227050751id_/http%3A//www.dummies.com/WileyCDA/Section/id-100065.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dummies.com privacy policy that was archived on 2008-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080411092841id_/http%3A//www.dummies.com/WileyCDA/Section/Privacy-Policy.id-100065.html) for the most accurate reproduction.*
 
 # Privacy Policy - For Dummies
 
@@ -16,4 +16,4 @@ Links may be provided from this Web site to other third party Web sites. In usin
 
 You should be aware that identifiable personal information — such as your name or e-mail address — that you voluntarily disclose that are accessible to other Users (e.g., on bulletin boards or in chat areas) could be collected and disclosed by others. Wiley cannot take any responsibility for such collection and disclosure.
 
-Please note that Wiley's Privacy and Data Protection Policy is reviewed periodically. Wiley reserves the right to modify its Privacy and Data Protection Policy at any time without notice. Any changes to the policy will be posted on this page. Your continued use of this Web site will be deemed conclusive acceptance of such modification. Any comments or questions concerning this policy should be addressed by entering your comments through our [Contact Us](https://web.archive.org/WileyCDA/Section/id-100100.html) page.
+Please note that Wiley's Privacy and Data Protection Policy is reviewed periodically. Wiley reserves the right to modify its Privacy and Data Protection Policy at any time without notice. Any changes to the policy will be posted on this page. Your continued use of this Web site will be deemed conclusive acceptance of such modification. Any comments or questions concerning this policy should be addressed by entering your comments through our [Contact Us](https://web.archive.org/WileyCDA/Section/Contact-Us.id-100100.html) page.
