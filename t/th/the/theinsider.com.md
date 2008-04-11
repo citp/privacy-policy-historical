@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theinsider.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210130319id_/http%3A//www.theinsider.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theinsider.com privacy policy that was archived on 2008-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080411092450id_/http%3A//www.theinsider.com/privacy.htm) for the most accurate reproduction.*
 
 # Insider Travel Network: insider travel and sightseeing guides for New York City, Boston, Hawaii, Philadelphia, San Francisco and Bermuda
 
@@ -16,17 +16,17 @@ Our site uses cookies to make sure you don't see the same ad repeatedly. We do n
 
 #### Advertisers 
 
-We use several different orgranizations, including Google, Burst Media, and LinkShare, to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad companies, and we do not have access to this information. 
+We use several different third party organizations, including (but not limited to) Google, Burst Media, and LinkShare, to display ads on our site. These third parties may be placing and reading cookies on your browser, or using web beacons to collection information, in the course of ads being served on our website. While we use cookies in other parts of our Web site, cookies received with ads are collected by our ad companies, and we do not have access to this information. As mentioned above, you may opt out of the cookie process.
 
 #### Registration Forms 
 
-Our site's registration form sometimes requires users to give us contact information (like their name, email, and postal address), and demographic information (like their zip code, or profession). _The Insider Travel Network_ works with a third party that hosts our e-mail newsletters and serves ads into this publication. 
+Our site's registration forms sometimes requires users to give us contact information (like their name, email, and postal address), and demographic information (like their zip code, or profession). _The Insider Travel Network_ works with a third party that hosts our e-mail newsletters and serves ads into this publication. 
 
 Contact information from the registration forms can be used to ship purchases, mail follow-up information about our company, and to send promotional material from some of our partners to our readers. The reader's contact information is also used to get in touch with the individual when necessary and to share with other companies who may want to contact our customers. 
 
 Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
 
-Demographic and profile data is also sometimes collected at our site. This information is shared with advertisers on an aggregate basis. We use this data to tailor our visitor's experience at our site showing them content that we think they might be interested in, and displaying the content according to their preferences. 
+Demographic and profile data is also sometimes collected at our site via survey forms. This information is shared with advertisers on an aggregate basis. We use this data to tailor our visitor's experience at our site showing them content that we think they might be interested in, and displaying the content according to their preferences. 
 
 #### Surveys 
 
@@ -44,7 +44,7 @@ This site contains links to other sites, including advertisers and affiliate sit
 
 #### Special Relationships 
 
-_The Insider Travel Network_ has partnerships with several different organizations. In each case, we have chosen to work with these other companies because they provide special services that we could not provide on our own. For example, our relationship with TravelNow allows you to make hotel reservations, car rental reservations, and international airline reservations via a series of co-branded pages. TravelNow collects information from you and makes the appropriate travel arrangements on your behalf. 
+_The Insider Travel Network_ has partnerships with several different organizations. In each case, we have chosen to work with these other companies because they provide special services that we could not provide on our own. For example, our relationships with TravelNow and allows you to make hotel reservations, car rental reservations, and international airline reservations via a series of co-branded pages. TravelNow collects information from you and makes the appropriate travel arrangements on your behalf. 
 
 We also have a content relationship with Hotel Reservations Network. As with TravelNow, you may be asked to provide information as you peruse these co-branded pages, but we do not have access to or control over any of the information you provide.
 
@@ -77,5 +77,3 @@ This site gives users the following options for changing and modifying informati
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: 
 
 [webmaster@TheInsider.com ](mailto:webmaster@TheInsider.com)
-
-**Site Directory:**
