@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the getphotographyjobs.com privacy policy that was archived on 2007-12-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071209165045id_/http%3A//www.getphotographyjobs.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the getphotographyjobs.com privacy policy that was archived on 2008-04-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080411234230id_/http%3A//www.getphotographyjobs.com/privacy.php) for the most accurate reproduction.-->
 
 <html><head>
 <title>Get Photography Jobs Privacy Policy</title>
@@ -185,6 +185,10 @@ hr.headspacer {
 	font-weight: normal;
 }
 
+#simplyhired_attri a {
+	font-weight: normal;
+}
+
 </style>
 
 <script language="JavaScript" src="/js/mm_menu.js"></script><script type="text/javascript" src="/articles/categories/js.php"></script>
@@ -217,7 +221,7 @@ function FCx(x){
 
 <script language="javascript">
 function subscribed() {
-	set_cookie ("subscribed", "true", 2010, 00, 01);
+	set_cookie ("subscribed", "true", 2010, 00, 01, "/");
 }
 
 function set_cookie ( name, value, exp_y, exp_m, exp_d, path, domain, secure ) {
@@ -228,7 +232,7 @@ function set_cookie ( name, value, exp_y, exp_m, exp_d, path, domain, secure ) {
     cookie_string += "; expires=" + expires.toGMTString();
   }
 
-  if ( path ) 
+  if ( path )
         cookie_string += "; path=" + escape ( path );
 
   if ( domain )
@@ -243,6 +247,12 @@ function set_cookie ( name, value, exp_y, exp_m, exp_d, path, domain, secure ) {
 
 </head>
 <body bgcolor="#ffffff" link="#000000" vlink="#000000" alink="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<!-- ClickTale Top part -->
+<script type="text/javascript">
+var WRInitTime=(new Date()).getTime();
+</script>
+<!-- ClickTale end of Top part -->
+
 
 <script language="JavaScript1.2">mmLoadMenus();</script><span id="menuContainer"><div id="menuLayer0" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; color: rgb(0, 0, 0); background-color: rgb(0, 0, 0); width: 304px; height: 24px;">
   <div id="menuLite0" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 22px; width: 302px; background-color: rgb(69, 18, 23);" onmouseout="mouseoutMenu();">
@@ -300,8 +310,7 @@ google_color_text = "000000";
 google_color_url = "000000";
 //--></script>
 <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>        
-    </td>
+</script>    </td>
           <td style="padding:0;">
 <style type="text/css">
 <!--
@@ -424,9 +433,53 @@ return addthis_click(this);" target="_blank"><img src="http://s5.addthis.com/but
 </tr>
 <tr>
     <td bgcolor="#FFDEDE" style="text-align: center;"><br>Get weekly updates of the <em><strong>Hottest New<br> Jobs</strong></em> direct to your<br> inbox as well as easily<br> apply to new<br> openings!
+<script type="text/javascript">
 
+function valSC() {
+	
+	missinginfo = "";
+	
+	if ($('Email1').value == '') {
+		missinginfo += "\n     -  Email";
+	} else if (validate($('Email1').value) == false) {
+		missinginfo += "\n     -  That isn't a valid email";
+	}
+
+	if (missinginfo != "") {
+		
+		missinginfo ="_____________________________\n" +
+		"You failed to correctly fill in your:\n" +
+		missinginfo + "\n_____________________________" +
+		"\nPlease re-enter and submit again!";
+		
+		alert(missinginfo);
+		
+		return false;
+	
+	} else {
+		subscribed();
+		
+		return true;
+	}
+	
+}
+
+
+function validate(emailad) {
+	var exclude=/[^@\-\.\w]|^[_@\.\-]|[\._\-]{2}|[@\.]{2}|(@)[^@]*\1/;
+	var check=/@[\w\-]+\./;
+	var checkend=/\.[a-zA-Z]{2,3}$/;
+
+	if(((emailad.search(exclude) != -1)||(emailad.search(check)) == -1)||(emailad.search(checkend) == -1)){
+		return false;
+	} else {
+		return true;
+	}
+}
+
+</script>
             <br><br><strong>Enter your Email:</strong><br><br>
-        <form name="form1" method="post" action="http://www.mcssl.com/app/contactsave.asp" style="margin-bottom:0;" onsubmit="return subscribed();">
+        <form name="form1" method="post" action="http://www.mcssl.com/app/contactsave.asp" style="margin-bottom:0;" onsubmit="return valSC();">
               <input name="merchantid" type="hidden" id="merchantid" value="45162">
               <input name="ARThankyouURL" type="hidden" id="ARThankyouURL" value="http://www.getphotographyjobs.com/weekly-thank-you-for-subscribing.php">
               <input name="copyarresponse" type="hidden" id="copyarresponse" value="1">
@@ -435,7 +488,7 @@ return addthis_click(this);" target="_blank"><img src="http://s5.addthis.com/but
               <input name="allowmulti" type="hidden" id="allowmulti" value="0">
               <input name="visiblefields" type="hidden" id="visiblefields" value="Email1">
               <input name="requiredfields" type="hidden" id="requiredfields" value="Email1">
-              <input name="Email1" type="text" size="10" value="">
+              <input name="Email1" id="Email1" type="text" size="10" value="">
               <br><br>
               <input type="submit" name="cmdSubmit" value="Send Jobs" class="searchButton">
               <div style="font-size: 10px;"> <a href="/privacy.php" target="_blank" style="font-size: 10px;">We value your privacy</a>. We will not rent your email to anyone.</div>
@@ -522,7 +575,7 @@ google_color_url = "000000";
   <tr>
     <td height="49" valign="top">
         <div style="background: #83A3ED; border-top: 1px solid #000000;">
-    <div align="center"><strong><br>Copyright © 2007
+    <div align="center"><strong><br>Copyright © 2008
         <a href="http://www.getphotographyjobs.com">Get Photography Jobs</a>.
         All Rights Reserved.</strong> <br>
 
@@ -531,9 +584,9 @@ google_color_url = "000000";
          | <a href="http://www.getphotographyjobs.com/about.php">About us</a>
          | <a href="http://www.getphotographyjobs.com/contactus.php">Contact us</a>
          | <a href="http://www.getphotographyjobs.com/sitemap.php">Sitemap</a>
-         | 
+         |
 
-                	<a href="http://www.getphotographyjobs.com/resources.php">Get Photography Jobs Resources</a> | 
+                	<a href="http://www.getphotographyjobs.com/resources.php">Get Photography Jobs Resources</a> |
         
         <a href="http://www.getphotographyjobs.com/privacy.php">Privacy Terms</a>
 
@@ -541,15 +594,16 @@ google_color_url = "000000";
         | <a href="http://www.getphotographyjobs.com/employers/EmployerSearch.php">Free Photography Resume Search</a>
         | <a href="http://www.getphotographyjobs.com/employers/PostJob.php">Free Photography Job Posting</a>
         | <a href="http://www.getphotographyjobs.com/jobseekers/job-search.php">Photography Job Search</a>
-
+                | <a href="http://www.simplyhired.com/a/jobtrends/trend/q-photography" target="_blank">Photography Trends</a>
+        | <a href="http://www.simplyhired.com/a/salary/search/q-photography" target="_blank">Photography Salaries</a>
+        
 	</div>
           <div style="text-align: center; margin-top: 5px;"></div> <br>
     </div>
         </td>
   </tr>
 
-<tr><td align="center"><div style="text-align: center; width: 500px;"><br>Browse Photography Jobs by State: <br><br><a href="/state/photography-jobs-Alabama.html">Alabama</a> - <a href="/state/photography-jobs-Alaska.html">Alaska</a> - <a href="/state/photography-jobs-Arizona.html">Arizona</a> - <a href="/state/photography-jobs-Arkansas.html">Arkansas</a> - <a href="/state/photography-jobs-California.html">California</a> - <a href="/state/photography-jobs-Colorado.html">Colorado</a> - <a href="/state/photography-jobs-Connecticut.html">Connecticut</a> - <a href="/state/photography-jobs-District+of+Columbia.html">District of Columbia</a> - <a href="/state/photography-jobs-Delaware.html">Delaware</a> - <a href="/state/photography-jobs-Florida.html">Florida</a> - <a href="/state/photography-jobs-Georgia.html">Georgia</a> - <a href="/state/photography-jobs-Hawaii.html">Hawaii</a> - <a href="/state/photography-jobs-Idaho.html">Idaho</a> - <a href="/state/photography-jobs-Illinois.html">Illinois</a> - <a href="/state/photography-jobs-Indiana.html">Indiana</a> - <a href="/state/photography-jobs-Iowa.html">Iowa</a> - <a href="/state/photography-jobs-Kansas.html">Kansas</a> - <a href="/state/photography-jobs-Kentucky.html">Kentucky</a> - <a href="/state/photography-jobs-Louisiana.html">Louisiana</a> - <a href="/state/photography-jobs-Maine.html">Maine</a> - <a href="/state/photography-jobs-Maryland.html">Maryland</a> - <a href="/state/photography-jobs-Massachusetts.html">Massachusetts</a> - <a href="/state/photography-jobs-Michigan.html">Michigan</a> - <a href="/state/photography-jobs-Minnesota.html">Minnesota</a> - <a href="/state/photography-jobs-Mississippi.html">Mississippi</a> - <a href="/state/photography-jobs-Missouri.html">Missouri</a> - <a href="/state/photography-jobs-Montana.html">Montana</a> - <a href="/state/photography-jobs-Nebraska.html">Nebraska</a> - <a href="/state/photography-jobs-Nevada.html">Nevada</a> - <a href="/state/photography-jobs-New+Hampshire.html">New Hampshire</a> - <a href="/state/photography-jobs-New+Jersey.html">New Jersey</a> - <a href="/state/photography-jobs-New+Mexico.html">New Mexico</a> - <a href="/state/photography-jobs-New+York.html">New York</a> - <a href="/state/photography-jobs-North+Carolina.html">North Carolina</a> - <a href="/state/photography-jobs-North+Dakota.html">North Dakota</a> - <a href="/state/photography-jobs-Ohio.html">Ohio</a> - <a href="/state/photography-jobs-Oklahoma.html">Oklahoma</a> - <a href="/state/photography-jobs-Oregon.html">Oregon</a> - <a href="/state/photography-jobs-Pennsylvania.html">Pennsylvania</a> - <a href="/state/photography-jobs-Rhode+Island.html">Rhode Island</a> - <a href="/state/photography-jobs-South+Carolina.html">South Carolina</a> - <a href="/state/photography-jobs-South+Dakota.html">South Dakota</a> - <a href="/state/photography-jobs-Tennessee.html">Tennessee</a> - <a href="/state/photography-jobs-Texas.html">Texas</a> - <a href="/state/photography-jobs-Utah.html">Utah</a> - <a href="/state/photography-jobs-Vermont.html">Vermont</a> - <a href="/state/photography-jobs-Virginia.html">Virginia</a> - <a href="/state/photography-jobs-Washington.html">Washington</a> - <a href="/state/photography-jobs-West+Virginia.html">West Virginia</a> - <a href="/state/photography-jobs-Wisconsin.html">Wisconsin</a> - <a href="/state/photography-jobs-Wyoming.html">Wyoming</a></div></td></tr>  
-
+<tr><td align="center"><div style="text-align: center; width: 500px;"><br>Browse Photography Jobs by State: <br><br><a href="/state/photography-jobs-Alabama.html">Alabama</a> - <a href="/state/photography-jobs-Alaska.html">Alaska</a> - <a href="/state/photography-jobs-Arizona.html">Arizona</a> - <a href="/state/photography-jobs-Arkansas.html">Arkansas</a> - <a href="/state/photography-jobs-California.html">California</a> - <a href="/state/photography-jobs-Colorado.html">Colorado</a> - <a href="/state/photography-jobs-Connecticut.html">Connecticut</a> - <a href="/state/photography-jobs-District+of+Columbia.html">District of Columbia</a> - <a href="/state/photography-jobs-Delaware.html">Delaware</a> - <a href="/state/photography-jobs-Florida.html">Florida</a> - <a href="/state/photography-jobs-Georgia.html">Georgia</a> - <a href="/state/photography-jobs-Hawaii.html">Hawaii</a> - <a href="/state/photography-jobs-Idaho.html">Idaho</a> - <a href="/state/photography-jobs-Illinois.html">Illinois</a> - <a href="/state/photography-jobs-Indiana.html">Indiana</a> - <a href="/state/photography-jobs-Iowa.html">Iowa</a> - <a href="/state/photography-jobs-Kansas.html">Kansas</a> - <a href="/state/photography-jobs-Kentucky.html">Kentucky</a> - <a href="/state/photography-jobs-Louisiana.html">Louisiana</a> - <a href="/state/photography-jobs-Maine.html">Maine</a> - <a href="/state/photography-jobs-Maryland.html">Maryland</a> - <a href="/state/photography-jobs-Massachusetts.html">Massachusetts</a> - <a href="/state/photography-jobs-Michigan.html">Michigan</a> - <a href="/state/photography-jobs-Minnesota.html">Minnesota</a> - <a href="/state/photography-jobs-Mississippi.html">Mississippi</a> - <a href="/state/photography-jobs-Missouri.html">Missouri</a> - <a href="/state/photography-jobs-Montana.html">Montana</a> - <a href="/state/photography-jobs-Nebraska.html">Nebraska</a> - <a href="/state/photography-jobs-Nevada.html">Nevada</a> - <a href="/state/photography-jobs-New+Hampshire.html">New Hampshire</a> - <a href="/state/photography-jobs-New+Jersey.html">New Jersey</a> - <a href="/state/photography-jobs-New+Mexico.html">New Mexico</a> - <a href="/state/photography-jobs-New+York.html">New York</a> - <a href="/state/photography-jobs-North+Carolina.html">North Carolina</a> - <a href="/state/photography-jobs-North+Dakota.html">North Dakota</a> - <a href="/state/photography-jobs-Ohio.html">Ohio</a> - <a href="/state/photography-jobs-Oklahoma.html">Oklahoma</a> - <a href="/state/photography-jobs-Oregon.html">Oregon</a> - <a href="/state/photography-jobs-Pennsylvania.html">Pennsylvania</a> - <a href="/state/photography-jobs-Rhode+Island.html">Rhode Island</a> - <a href="/state/photography-jobs-South+Carolina.html">South Carolina</a> - <a href="/state/photography-jobs-South+Dakota.html">South Dakota</a> - <a href="/state/photography-jobs-Tennessee.html">Tennessee</a> - <a href="/state/photography-jobs-Texas.html">Texas</a> - <a href="/state/photography-jobs-Utah.html">Utah</a> - <a href="/state/photography-jobs-Vermont.html">Vermont</a> - <a href="/state/photography-jobs-Virginia.html">Virginia</a> - <a href="/state/photography-jobs-Washington.html">Washington</a> - <a href="/state/photography-jobs-West+Virginia.html">West Virginia</a> - <a href="/state/photography-jobs-Wisconsin.html">Wisconsin</a> - <a href="/state/photography-jobs-Wyoming.html">Wyoming</a></div></td></tr>
 </tbody></table>
 
 <br><br>
@@ -561,7 +615,7 @@ google_color_url = "000000";
   <area shape="rect" coords="3,97,83,111" href="http://www.getphotographyjobs.com/index.php">
 </map>
 
-<script language="Javascript" src="/js/newsletterpop.php"></script>
+
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
 <script type="text/javascript">
 
@@ -601,6 +655,13 @@ _qacct="p-faZT2XreJgXJM";quantserve();</script>
 <a href="http://www.quantcast.com/p-faZT2XreJgXJM" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-faZT2XreJgXJM.gif" style="display: none" border="0" height="1" width="1" alt="Quantcast"/></a></noscript>
 <!-- End Quantcast tag -->
 
+<!-- ClickTale Bottom part -->
+<div id="ClickTale" style="display: none;"></div>
+<script src="http://s.clicktale.net/WRa.js" type="text/javascript"></script>
+<script type="text/javascript">
+if(typeof ClickTale=='function') ClickTale(10385,0.0006);
+</script>
+<!-- ClickTale end of Bottom part -->
 
 
 </body></html>
