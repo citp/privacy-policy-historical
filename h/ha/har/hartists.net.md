@@ -1,9 +1,11 @@
-> *The following text is extracted and transformed from the hartists.net privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212185128id_/http%3A//hartists.net/policy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hartists.net privacy policy that was archived on 2008-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080411213706id_/http%3A//hartists.net/policy/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - hArtists
 
-We strongly believe in your right to privacy. This document outlines the types of personal information we receive and collect when you use our website, as well as some of the steps we take to make sure this information is not abused by third parties. We hope this document will aid you in making an informed decision about sharing your personal information with us.  
+Global Announcement: [hArtists Website Update](http://hartists.net/forum/announcement.php?a=1)  
   
+We strongly believe in your right to privacy. This document outlines the types of personal information we receive and collect when you use our website, as well as some of the steps we take to make sure this information is not abused by third parties. We hope this document will aid you in making an informed decision about sharing your personal information with us.
+
 ## What we Collect
 
   * When your web browser makes a request for a page on our website, we record the following information, which we may use for research and improving our website: 
@@ -37,8 +39,8 @@ Sometimes we may also share information with third parties in limited circumstan
 
 Personal information is processed on our servers in the Federal Republic of Germany. In some cases, this may mean that we process personal information on a server outside your own country.  
   
-Copyright © 2003 - 2007 hArtists
+Copyright © 2003 - 2008 hArtists
 
-_Deadlines... what deadlines?_
+_Wow, you must be bored if you are reading this..._
 
 [About Us](https://web.archive.org/about/) | [Privacy Policy](https://web.archive.org/policy/privacy/) | [Terms of Service](https://web.archive.org/policy/tos/) | [Report Abuse](https://web.archive.org/contact/?abuse)
