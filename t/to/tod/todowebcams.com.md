@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the todowebcams.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210130311id_/http%3A//support.todowebcams.com/support_privacy.php%3Flang%3Dus) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the todowebcams.com privacy policy that was archived on 2008-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080411170915id_/http%3A//support.todowebcams.com/support_privacy.php%3Facc%3D68115215%26tour%3D1%26lang%3Dus) for the most accurate reproduction.*
 
 # Todo Webcams
 
