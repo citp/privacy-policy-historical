@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the washingtontimes.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213045232id_/http%3A//www3.washingtontimes.com/about-twt/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the washingtontimes.com privacy policy that was archived on 2008-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080411170309id_/http%3A//www3.washingtontimes.com/about-twt/privacy.htm) for the most accurate reproduction.*
 
 # About The Washington Times - The Washington Times, America's Newspaper
 
