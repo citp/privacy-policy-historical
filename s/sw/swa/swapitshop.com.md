@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the swapitshop.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229111710id_/http%3A//www.swapitshop.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swapitshop.com privacy policy that was archived on 2008-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080412045642id_/http%3A//www.swapitshop.com/privacy_policy) for the most accurate reproduction.*
 
-# SwapitShop: Swap games, DVDs, cards, vouchers, fashion and more
+# SwapitShop: Swap games, DVDs, cards, vouchers, fashion and more at the No.1 swapshop
 
 When you register on Internet sites you are generally required to provide certain information. Different sites ask for different information and do different things with that information. We want to be very clear about the information we collect and what we do with it. 
 
@@ -37,3 +37,7 @@ If you ticked the Swapits and special offers box on the registration form, then 
 **"Cookies" are small pieces of information that are stored on your computer's hard drive by your browser. These allow us to store your personal information and provide features to make your use of our service easier. Most browsers allow the cookie function to be turned off. If you want to know how to do this, look at the help menu on your browser. 
 
 If you have any questions or concerns regarding this privacy policy, please contact us on [info@swapitshop.com](mailto:info@swapitshop.com). -
+
+[](http://www.addthis.com/bookmark.php)
+
+[](http://www.swapitshop.com/ad.cgi?ccs=2872,8186,12321&username=&TIME_STAMP=7507601)
