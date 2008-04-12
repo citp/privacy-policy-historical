@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the d2jsp.org privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212233546id_/http%3A//d2jsp.org/%3Fa%3Dwiki%26s%3D3%26p%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the d2jsp.org privacy policy that was archived on 2008-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080412045839id_/http%3A//www.d2jsp.org/%3Fa%3Dwiki%26s%3D3%26p%3Dprivacypolicy) for the most accurate reproduction.*
 
 # d2jsp Forums
 
