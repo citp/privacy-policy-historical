@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cacert.org privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213033746id_/http%3A//www.cacert.org/index.php%3Fid%3D10) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cacert.org privacy policy that was archived on 2008-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080412081538id_/http%3A//www.cacert.org/index.php%3Fid%3D10) for the most accurate reproduction.*
 
 # 欢迎来到 CAcert.org
 
@@ -53,6 +53,6 @@ CAcert adopts the Australian privacy regulations.Please see <http://www.privacy.
 If you need to contact us in writing, address your mail to:
 
 CAcert Inc.  
-P.O. Box 81  
-Banksia NSW 2216  
+P.O. Box 4107  
+Denistone East NSW 2112  
 Australia 
