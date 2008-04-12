@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the timesleader.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213051025id_/http%3A//www.timesleader.com/privacypolicy/6289982.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timesleader.com privacy policy that was archived on 2008-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080412062119id_/http%3A//www.timesleader.com/privacypolicy/6289982.html) for the most accurate reproduction.*
 
 # Privacy Policy | Privacy Policy| timesleader.com - The Times Leader
 
-Monday, February 24, 2020  8:49 A.M. 
+Friday, January 31, 2020  9:42 A.M. 
 
 Effective March 28, 2007
 
