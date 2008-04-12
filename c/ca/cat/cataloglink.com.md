@@ -1,131 +1,151 @@
-> *The following text is extracted and transformed from the cataloglink.com privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401201618id_/http%3A//amos2.catalogcity.com/amos/cc/main/ccn_privacy/ccsyn/45) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cataloglink.com privacy policy that was archived on 2008-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080412174230id_/http%3A//www.cataloglink.com/about-privacy-a.shtml) for the most accurate reproduction.*
 
-# CatalogLink
+# at CatalogLink
 
-| 
+|   
+---  
+|   
+---  
+|  | | 
 
-CatalogLink is a member of the Altura Network. Click here for [more details about the Network](http://admin-amos.catalogcity.com/amos/cc/main/portal_solutions/act/120%2CCatalogLink/ccsyn/251). 
+|   
+---  
+  
+Privacy Policy
 
-This privacy statement discloses the privacy and security practices for the CatalogLink website
+  
+|    
+[About SSL Certificates](http://www.verisign.com/ssl-certificate/)|          | [](http://www.truste.org/ivalidate.php?url=www.shop.com&sealid=101)|            | [](http://www.the-dma.org/)  
+---|---|---|---|---  
+  
+  
+CatalogLink is dedicated to protecting the privacy of our valued online customers since inception in 1997. CatalogLink created this Privacy Policy to demonstrate its firm commitment to the safety of your personal information.
 
-**TRUSTe Licensee**  
-CatalogLink is a licensee of TRUSTe. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because CatalogLink wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, this website has agreed to notify you of:
+CatalogLink’s mission is to provide the best online resource for catalog information, so at CatalogLink we want you to feel safe while browsing, requesting and shopping from thousands of catalogs.
 
-  1. What personally identifiable information of yours or third-party personally identifiable information is collected from you through the website 
-  2. The organization collecting the information 
-  3. How the information is used 
-  4. With whom the information may be shared 
-  5. What choices are available to you regarding collection, use and distribution of the information 
-  6. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under CatalogLink's control 
-  7. How you can correct any inaccuracies in the information 
+We know that you care how information about you is used and shared, and we appreciate your trust in us to do so carefully and sensibly. To demonstrate our commitment to your privacy, CatalogLink discloses its information and privacy practices for continuing review for compliance by TRUSTe®. TRUSTe® is an independent, nonprofit organization dedicated to enabling individuals and organizations to establish trusting relationships based on respect for personal identity and information in the evolving networked world.
 
+CatalogLink is a licensee of TRUSTe®, and by displaying the TRUSTe® trustmark, CatalogLink agreed to notify you and aid you in understanding how we collect and use the information you provide to us, and to assist you in making informed decisions when using our site.
 
+As you will see below, CatalogLink's Privacy Policy outlines some of the types of personal information we receive and collect, as well as some of the steps we take to safeguard your information. We hope this Privacy Policy will help you make an informed decision about sharing your personal information with us.
 
-Questions regarding this statement should be directed to:
+This Privacy Policy covers the following information:  
+  
+| 1.| The types of personally identifiable information collected about you during your relationship with CatalogLink.  
+---|---  
+2.| How we use and share the information that we collect from you.  
+3.| The choices you have about the collection, use and sharing of your personally identifiable information.  
+4.| The types of security procedures we take to safeguard your personally identifiable information.  
+5.| How you may access, update and change personally identifiable information you've provided.  
+6.| Other information.  
+7.| How you can ask questions, or send us comments about this Privacy Policy.  
+Your use of this website constitutes your acceptance of this Privacy Policy and your consent to the practices it describes. The information we learn from customers helps us personalize and continually improve the shopping experience at CatalogLink.  
+**1\. Types of Personally Identifiable Information Collected by CatalogLink**
 
-Altura International  
-1 Lower Ragsdale Dr.  
-Building 1, Suite 210  
-Monterey, CA 93940  
-Telephone: (831) 649-2489  
-E-mail: [customerservice@cataloglink.com](mailto:customerservice@cataloglink.com)
+While you visit CatalogLink we collect various types of personally identifiable information (PII). Here are the types of information we gather:
 
-If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe.](http://www.truste.org/users/users_watchdog.html)
+    a. Information You Provide Us.  
+Much of the personally identifiable information we receive comes directly from customers who are interested in obtaining various products and services by shopping at CatalogLink. Typically, this information includes your name, postal address, email address and telephone number. We may also collect other types of information such as gender, age, number of children, and personal interests, which we may associate with personally identifiable information. If you purchase products or services from CatalogLink we will note, for example, credit card information, the type of services or products ordered or purchased, and the date of the order or purchase. We collect personal information when you register, log on, or visit our sites, including when you participate in activities on our sites, such as by placing an order, completing a user registration form or online survey, creating an address book, using our Shopping or Gift Services (including eGifts, Gift Certificates, Gift Registry, Bridal Registry, Reminder Service), or participating in a rebate offer, game, promotion, contest or sweepstakes.
 
-**Information Collection and Use**  
-Altura International, Inc., the owner and operator of CatalogLink, is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. CatalogLink collects information from our users at several different points on our website. Information is collected when you: 
+    b. Information From Others.  
+CatalogLink is constantly improving the products and services we provide our consumers. To aid in serving you better we may supplement personally identifiable information that we have collected directly from our customers with other information that we obtain from third parties or from our partner stores. In addition, we may obtain information about individuals who are not yet users of CatalogLink. To insure your privacy when we associate information that we obtain from third parties with personally identifiable information that we have collected under this Privacy Policy, we will treat the acquired information like the information that we collected ourselves and, except as permitted by this Privacy Policy, the information will not be shared with other third parties.
 
-  * Register 
-  * Place an order 
-  * Make changes or additions to your account settings 
-  * Use our Shopping/Gift Services such as Wish List (or Gift Registry) and Catalog Requests 
-  * Enter site contests, such as sweepstakes 
-  * Participate in a site survey 
-  * Use our customer service and feedback links to communicate with us 
+    c. Information Collected Through Technology.  
+We collect information through technology to make CatalogLink more interesting and useful to you. For instance, when you come to the CatalogLink site, we collect your IP address. An IP address is often associated with the portal through which you enter the Internet, like your ISP (Internet service provider), your company, or your university. Standing alone, your IP address is not personally identifiable. At times, we also use IP addresses to collect information regarding the frequency with which our customers visit various parts of our sites. We may combine this information with personally identifiable information as more fully described in paragraph 1a. above.
 
+CatalogLink also uses cookies. Cookies are pieces of information that a site sends to your computer while you are viewing the site. CatalogLink and other companies use cookies for a variety of purposes. For instance, when you return to CatalogLink after logging in, cookies provide information to the site so that the site will remember you. We may also use temporary or "session" cookies to help you shop. These cookies will expire when you place an order. You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Netscape Navigator or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won't have access to many features that make your experience on CatalogLink smoother, like the features mentioned above, and some of our services will not function properly including the shopping cart and checkout areas. Some of our business partners may also use cookies on our site; however, we have no access to, or control over, these cookies and do not accept any responsibility for such use.
 
+The CatalogLink site uses a variety of technical methods for tracking purposes, including web beacons. Web beacons are small pieces of data that are embedded in images on the pages of sites. We may use these technical methods to analyze the traffic patterns on our sites, such as the frequency with which our users visit various parts of our sites. These technical methods may involve the transmission of information either directly to us or to another party authorized by us to collect information on our behalf. We also use these technical methods in HTML emails that we send our customers to determine whether customers have opened those emails and/or clicked on links in those emails. The information from use of these technical methods may be collected in a form that is personally identifiable.
 
-**Registration**  
-To make a purchase, request a catalog, redeem a gift certificate or coupon, send or redeem an eGift or create a Wish List on our site, you must first register with us. When filling out our registration form you are required to give your contact information (such as name, street address, phone number and email address). Your registration information becomes part of your personal account, which you can access by selecting the Your Account tab at the top of our site.
+The CatalogLink site may include third party advertising and links to other web sites such as Google, advertising.com or shopping.com. These companies are called "network advertisers." We do not provide any personally identifiable information to these network advertisers. Network advertisers who place advertisements on our sites, or third parties with whom CatalogLink has a relationship, may also use cookies and web beacons to collect non-personally identifiable information. You may not realize this information is being collected. In some cases, we may have access to information from web beacons and cookies used by network advertisers on our site and this information may permit us to identify other sites that you have visited that are also associated with the network advertiser. Once you have clicked on an advertisement and have left our site, our Privacy Policy no longer applies and you must read the privacy policy of the advertiser to see how your personal information will be handled on their site. You should contact these advertisers directly if you have any questions about their use of the information that they collect.  
+  
+**2\. How We Use and Share the Personally Identifiable Information We Collect**
 
-During registration, you are given the opportunity to receive offers from different sources:
+    a. Use by CatalogLink.  
+CatalogLink may use personally identifiable information for Operational Uses such as helping to establish and verify the identity of users; opening, maintaining, administering and servicing user accounts; processing, servicing or enforcing transactions and sending related service communications; providing services and support to users such as eGifts, Gift Certificates, Gift Registry, Bridal Registry, Reminders, rebates, contests, sweepstakes, and address books; improving the web site, including tailoring it to users' preferences; providing users with service or product updates, promotional notices and offers; responding to your questions, inquiries, comments and instructions; and maintaining the security and integrity of our systems. CatalogLink may also use personally identifiable information to provide offers, promotions and product updates to you via standard mail. Your email address may be used by CatalogLink or any subsidiary, parent or other corporation into which CatalogLink merges or is otherwise acquired or sold, in whole or in part.
 
-  * CatalogLink 
-  * catalogs that you order from or request. 
-  * CatalogLink marketing partners 
+CatalogLink welcomes you to post reviews, comments, articles, stories and other appropriate content; send ecards and other communications; and submit suggestions, ideas, comments, questions, or other information. Information or content submitted may be used by CatalogLink or its affiliates to provide other consumers with product reviews and shopping information. If you do post content or submit material, and unless we indicate otherwise, you grant CatalogLink a nonexclusive, fee-free, royalty-free, perpetual, irrevocable, and fully sublicensable right to use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, and display such content throughout the world in any media. You grant CatalogLink the right to use the name or home town that you submit in connection with such content.
 
-Selecting to receive offers from CatalogLink lets us know that you would like to occasionally receive email updates about new features on our site and special offers we think will interest you. Selecting to receive offers from "catalogs that I ordered from or request" tells us that it's okay for these catalogs to put you on their catalog mailing list. Selecting to receive offers from our marketing partners tells us that it's okay to share your contact information with third-party marketing partners. For more information on our sharing policies, please see **Sharing** below.
+     b. Use of Your Email Address Or Email Address You Provide to Us.  
+CatalogLink may use your email address for processing, servicing or enforcing transactions and sending related service communications; providing users with service or product updates, promotional notices and offers; and/or responding to your questions, inquiries or comments. Your email address may be used by CatalogLink or any subsidiary, parent or other corporation into which CatalogLink merges or is otherwise acquired or sold, in whole or in part.   
+If you choose to use our referral service to tell a friend about our site, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. CatalogLink stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. Your friend may contact [Customer Service](mailto:customerservice@cataloglink.com) to request that we remove this information from our database."
 
-**Placing an Order**  
-We request information from you in our checkout area when you place orders with any of the catalogs on our site. During checkout you must provide your credit card number and shipping address information if it's different than your default account. You also have the option to have your credit card information securely stored in Your Account for future use (see **Your  Account** below). After the checkout process is complete, your purchase information is securely forwarded to the catalog merchant you have made the purchase with. They will use this information so they can fulfill your order and contact you if they have questions regarding your order. In addition to your purchasing data, we forward all of your privacy settings to the catalog merchant. If you selected to receive offers from catalogs when you registered, or in Your Account privacy settings, then the catalog merchant may use your contact information to mail you catalogs, and/or send you special offers and email promotions.
+    c. Use by Merchant Partners.  
+CatalogLink and its Merchant Partners share information about you for Fulfillment Uses such as using your email address for shipping and other contact information for purposes of processing, servicing or enforcing transactions and sending order status and other related communications. You can contact each Merchant Partner by clicking on the "Stores" tab, then locating the particular Merchant Partner and finding contact information in the "Merchant Information" link.
 
-**Your Account**  
-The personal information you enter during registration and/or during checkout is stored in your personal account area, also known as Your Account. You can access Your Account to add or change information, including changing your privacy settings, by entering the email address you used when you registered and the password you created. You also have the ability to add new credit card or shipping information to Your Account when placing an order. If you have elected to store your credit cards with us, we only display the last five digits of your credit card number in your account area. The full credit card information is stored on secure offline servers. For more information on how we protect your credit card information, please see our **Security** section below.
+    d. Co-Branding Partners.  
+CatalogLink has Co-Branding Partners that provide unique benefits to certain loyal customers. In Co-Branded Partnerships, CatalogLink may acquire, share with its Co-Branding Partners or use personally identifiable information identified in paragraph 1.a., above, to communicate special offers, provide additional benefits or for other related uses.
 
-**Address Book**  
-Your Address Book is the area in Your Account where the billing address you enter during registration is stored. After registration, you also have the option to add shipping addresses. You can do this by going directly to Your Account, or by entering a new shipping address when placing an order. Shipping addresses are used solely for the purpose of fulfilling your orders, and will not be used for any marketing purposes either by CatalogLink or the catalog merchant you have made the purchase with.
+    e. Charitable Organizations.  
+CatalogLink may offer opportunities for you to make purchases or donations to promote the charitable mission of certain organizations (such as Make-A-Wish Foundation). When you participate in these offers, your personally identifiable information may be forwarded to the charitable organization so that it may recognize your donation and provide follow up communication.
 
-**Shopping/Gift Services**  
-CatalogLink provides you with a number of Shopping and Gift services. Some of these require personal information in order to carry out the given task. For example, to create a Wish List you may want to provide us with the name of a second recipient other than yourself, or a shipping address if different than that in your address book. With services like eGifts, E-Cards, and "send this product to a friend" we will need to know the recipient's email address so that we can send the requested communication to them via email. If you choose to purchase a Gift Certificate, you will need to provide us with the recipient's name and email address or street address, depending on how you wish the certificate to be sent. These services only require the minimal amount of information necessary to carry out the task at hand and nothing more. Although we do store this information in our database for tracking purposes, we make no other use of it beyond which it was intended.
+    f. Companies that Facilitate Communications and Transactions with You.  
+Sometimes CatalogLink hires companies to help deliver messages or services, such as a company that helps fulfill prizes for a sweepstakes or assists us in the analysis of consumer data, development of new services, sending email, sending catalogs or other promotional mailings; or providing customer assistance or marketing assistance. In those instances, there is a need to share your information with these companies. Sometimes CatalogLink also works with other companies who help either gather your information or communicate with you. Your opt-out choices under paragraph 3 below will not apply to sharing by CatalogLink of your personal information with any of these companies. We require these third parties to maintain your information in strictest confidence and to ensure they honor the privacy settings you have selected for the handling of your private information. Nonetheless, except as separately permitted by other provisions of this Privacy Policy, these companies are allowed to gather, receive, and use your information only for the purposes described in this paragraph or as required by law. The personal identifiable information that may be shared is more fully described in paragraph 1a. above.
 
-**Contests**  
-In order to participate in CatalogLink sponsored contests or sweepstakes you will be required to provide us some information. Participation in these contests is completely voluntary and you have a choice whether or not to disclose this information. You also have the option not to have the information you give us distributed to other third parties not specifically involved with the promotion. Information requested may include contact information (such as name, email address and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Contests may be managed by a third party and this third party is not allowed to use the information you supply us for any other purpose except to manage the contest. Prizes are provided directly from CatalogLink unless the contest is being sponsored by a catalog merchant or other specified third party. In this case, the prize will be awarded by the catalog merchant or third party and the information you provide will be shared with them.
+    g. Disclosures Required By Law and Disclosures to Help Protect the Security and Safety of Our Sites, and Others.  
+Regardless of any opt-out choices that you make under paragraph 3, CatalogLink will disclose personal information when it believes in good faith that such disclosures (a) are required by law, including, for example, to comply with a court order or subpoena, or (b) will help to: enforce our Terms of Use; enforce contest, sweepstakes, promotions, and/or game rules; protect your safety or security, including the safety and security of property that belongs to you; and/or, protect the safety and security of our sites, CatalogLink, and/or third parties, including the safety and security of property that belongs to CatalogLink or third parties.
 
-**Surveys**  
-From time to time our site requests information from you via surveys. Participation in a survey is completely voluntary and you have a choice whether or not to disclose this information. Information requested may include contact information (such as name and email address), and demographic information (such as zip code, age level). Survey information will be used for purposes of monitoring or improving the use and customer satisfaction of our site.
+     h. No Sharing with Third-Party Marketers.  
+We do not rent to, or share your personal information with third-party marketers without first obtaining your consent. Should this policy change in the future, CatalogLink will post a notification of those changes to the homepage and other places CatalogLink deems appropriate. 
 
-**Customer Service / Feedback Links**  
-CatalogLink uses an email link located on the Customer Service page to allow you to contact us directly with any questions or comments you may have. We read every message and do our best to reply within 24 hours. The information you provide in these emails is used to respond directly to your questions or comments you may have.
+    i. Facebook Beacon  
+CatalogLink is a  [Facebook Beacon](http://www.facebook.com/)-enabled site. Facebook Beacon allows you to easily share actions you take, such as making a purchase, on CatalogLink through Facebook. When you make a purchase on CatalogLink, we contact Facebook to determine whether you are logged-in to Facebook and whether your privacy preferences on Facebook indicate your wish to share the action on CatalogLink with your Facebook friends and network members. If you are logged into Facebook at the same time you make a purchase on CatalogLink and if your privacy preferences in your Facebook Profile indicate that you want to share that information, Facebook uses the action information sent by CatalogLink in conjunction with Personally Identifiable Information Facebook already has about you (such as your Facebook Profile) and shares it with your Facebook friends and network members as permitted by the Facebook account. If you are not a Facebook user or logged into your Facebook account at the time you make the purchase on CatalogLink.com, Facebook will discard the information CatalogLink has sent to it. To learn more about Facebook Beacon,  [click here](http://www.facebook.com/)
 
-We also have an email link located on our "Tell Us What You Think" page. This link allows you to give us feedback about our site and make suggestions on what we can do to improve it. We read every message sent in. We may file your comments to improve the site, or review and discard the information. We do not use the email address you supply us for any marketing purposes.
+Facebook has recently created an FAQ page with a tutorial describing how the advertising system called Beacon works. The tutorial describes how users can either universally opt-out or, on a partner-by-partner basis opt-in, to allowing external website actions to appear in their newsfeed.
 
-**Sharing**  
-If you have agreed to receive offers from our catalog merchants, we will provide them your contact information when we forward your order or catalog request to them. They will then include you on their catalog mailing list.
+The tutorial can be found here: [http://www.facebook.com/beacon/faq.php](http://www.facebook.com/) (requires users to be logged into their Facebook account). 
 
-If you have agreed to receive offers from third-party marketing partners, the personal information you have provided us and information about your order may be shared with third parties. This information may be combined with other personally identifiable information (such as demographic information and past purchase information) available from our records and other sources to make their future marketing efforts more effective. It may also be used by them to bring you offers of interest. If you prefer that your name and address not be shared with these third parties, do not select these options when you create your account and we will not share your information without your prior consent.
+**3\. Your choices about the collection, use and sharing of your personally identifiable information**
 
-**Postal Address Info**  
-If you have agreed to receive offers from CatalogLink we occasionally provide your name and postal address (but not your email address) to a select group of companies whose products you may find of interest. If you do not want us to share this information with these companies, we can add your name to our "do-not-share" list. Please email us at [donotshare@altura.com](mailto:donotshare@altura.com) with your name and postal address if you do not want us to share this information.
+With regard to personal information that you provide under this Privacy Policy, there are two separate opt-out choices available to you. These opt-out choices are the means by which you give us, or decline to give us, your consent to use your personal information for the purposes covered by these opt-out choices. There are several methods by which you can exercise your opt-out choices: (a) during the registration process on our sites; (b) after registration, by logging on our sites, clicking on our [My Account](https://www.cataloglink.com/myaccount.shtml) link, [Privacy Policy](https://www.cataloglink.com/privacy-myaccount.shtml) links or going to Manage My Account and following the opt-out directions; (c) by emailing, phoning or writing CatalogLink using the contact information provided below; (d) promotional emails you receive from us will provide you with an "unsubscribe" option; and (e) at other times and locations on the site. Each of these opt-out choices is subject to the exceptions described further below.
 
-**Opt Out**  
-CatalogLink gives you the option to opt out from receiving offers from us and the catalogs that you've made purchases from on our site. You can opt out by de-selecting "Yes, send me offers from CatalogLink" and "Yes, send me offers from catalogs that I order from or request." You can do this during the registration process or by going to the privacy settings in your account area (Your Account) after you've registered. You can also opt out by e-mailing us, phoning us or writing us, using the contact information provided above. If you do not wish to receive offers from our marketing partners, simply leave that checkbox unchecked. Additionally, if you have previously agreed to receive offers from our catalog merchants and marketing partners, and would like to discontinue receiving these offers, you can do so by following the simple opt out procedures they provide in the email or contacting them directly.
+Your two opt-out choices are:
 
-**Security**  
-Our website takes every precaution to protect your information. When you submit sensitive information, that information is protected both online and offline. Website security is reviewed regularly to ensure we are up to date with industry standards and technology.
+CatalogLink: You may choose to opt-out of receiving promotional materials from CatalogLink, including the licensees, acquirers and Co-Branding Partners by de-selecting "Sign up to receive email announcements and take advantage of special savings from CatalogLink."
 
-Whether you're ordering a catalog or making a purchase, we want you to feel safe and secure while visiting CatalogLink. You can feel confident making purchases from established catalogs that have been in business for many years. To ensure that your credit card information is even more secure, use our secure transmission (SSL) when you give us your credit card information. We encrypt all credit card information and store it on a server that isn't accessible on the Internet. Once we store that information, it cannot be displayed anywhere on CatalogLink.
+CatalogLink Merchant Partners: You may choose to opt-out of receiving promotional materials directly from CatalogLink Merchant Partners by de-selecting "Make my email address available to stores that I order from today on CatalogLink."
 
-Internally, CatalogLink takes extra caution to limit access to customers' information. Only a few individuals within the company are given degrees of access to customers' personal information according to job function and necessity. Access is granted to these employees through special passwords. All employees are kept up to date on our security and privacy practices. Finally, the servers that we store personally identifiable information on are kept in a secure guarded environment.
+Please keep in mind that any opt-out choices you make will not apply in situations where (a) you either have made, simultaneously make, or later make a specific request for information from CatalogLink, (b) CatalogLink uses your personal information for either "Operational Uses" or "Fulfillment Uses" (as described above in paragraph 2), (c) CatalogLink shares your personal information under the provisions of paragraph 2 above with respect to "Companies That Facilitate Communications and Transactions With You," or "Disclosures Required By Law and Disclosures to Help Protect the Security and Safety of Our Web Sites, CatalogLink and Others."
 
-**Cookies**  
-CatalogLink uses cookies only for customer convenience. Usage of a cookie is in no way linked to any personally identifiable information while on our site. We keep track of your CatalogLink ID and your name in the cookies we set on your browser. If you set your browser to reject cookies, usage of our site will be limited. For example, you will not be able to see the catalogs you have requested, your favorite catalogs, address book and your shopping cart without having to log in each time you visit CatalogLink. These cookie-based settings also allow us to welcome you back by name each time you return.
+Finally, if you do not exercise your opt-out choices upon registration or initial log-in at our sites, it may take up to ten (10) days for your opt-out choices to be fully effective. As our systems require time to update, promotional mailings using personal information shared before you opt-out may already be in process. Thus, you might continue to receive promotional materials from CatalogLink based upon the personal information you have provided under this Privacy Policy for up to ten (10) days. For similar reasons, your personal information might continue to be shared with third parties for promotional purposes for up to ten (10) days 
 
-Some of our business partners use cookies on our site. However, we have no access to or control over these cookies.
+**4\. CatalogLink Security Measures to protect your personal information**
 
-**Third Party Advertising**  
-Some of our advertising is served by third party advertising companies which deliver a cookie to you so the ads you see can be tracked and ensures that you are not shown the same ad too many times. Since the third party advertising company only tags your computer with a number, they have no personal information about you. FreeShop.com does not provide these third party advertising companies with any personally identifiable information. However, these companies may use non-personally identifiable information about your visits to the Altura Network and other sites in order to provide advertisements on our sites and other sites about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.doubleclick.net/us/corporate/privacy).
+The security and confidentiality of your information is extremely important to us. We have implemented technical, administrative, and physical security measures to protect your information from unauthorized access and improper use. On a regular basis, we review our security procedures in order to consider appropriate new technology and methods. Please be aware, however, that no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your email address, we cannot guarantee its absolute security.
 
-**Log Files**  
-CatalogLink uses our Web server log files to help track the performance of our site. We do not tie the IP addresses within the log files to your personally identifiable information.
+Whether you're ordering a catalog or making a purchase, we want you to feel safe and secure while visiting CatalogLink . You can also feel confident making purchases from established Co-Branded Partner sites. To ensure that your credit card information is even more secure, we use secure sockets layer (SSL) software (which encrypts the information you input) when you give us your credit card information. We encrypt all credit card information and store it on a server that isn't accessible on the Internet. Once we store that information, it can not be displayed anywhere on CatalogLink. Internally, CatalogLink takes extra caution to limit access to customers' information. Only a few individuals within the company are given degrees of access to customers' personal information according to job function and necessity. Access is granted to these employees through special passwords. All employees are kept up to date on our security and privacy practices. Finally, the servers that store personally identifiable information are kept in a secure, guarded environment. If you have any questions about security on our web site, you can send an email to us at [customerservice@cataloglink.com](https://web.archive.org/web/20080412174230id_/http%3A//www.cataloglink.com/customerservice@cataloglink.com)
 
-**Legal Disclaimer**  
-We may disclose personal information when required by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law or comply with a legal process served on our website.
+ **5\. How can you access, update your information and opt out choices**
 
-**Notification of Changes**  
-If we decide to change our privacy policy, we will post those changes on our Privacy Policy page so you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point CatalogLink decides to use personally identifiable information in a manner different from that stated at the time it was collected, we will take commercially reasonable measures to obtain email consent from you. You will have a choice as to whether or not we use your information in this different manner. We will still use information in accordance with the privacy policy under which the information was collected.
+You can access and update the contact information you gave us during registration (that is, your postal address, email address, or any other information that would directly enable us to contact you), or modify your opt-out choices, by going to [My Account](https://www.cataloglink.com/myaccount.shtml). You also have the ability to add new credit card or shipping information to My Account when placing an order. If you have elected to store your credit card information with us, we only display the last five digits of your credit card number in the saved payment methods in the My Account section. The full credit card information is stored on secure offline servers. For more information on how we protect your credit card information, see our Security section.
 
-**Links**  
-This web site contains links to other sites. Please be aware that we, CatalogLink, are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
+If you want to review, modify or correct any of this information, simply click on this [link](https://www.cataloglink.com/myaccount.shtml) or go to the My Account center on our sites, and then log in with your member name and password. If you have forgotten your password, there are instructions on the link above to help you recover your password. If you need to recover your password, you can also contact us via email at [customerservice@cataloglink.com](mailto:customerservice@cataloglink.com). Please include information in the email that will help us identify your account so we can assist you with your request. We may also provide you an opportunity to update your contact information and/or modify your opt-out choices by sending you an email or other communication that invites your response. Finally, you may unsubscribe from certain email communications by clicking on unsubscribe links in those emails.
 
-**Contact Information**  
+This web site contains links to other sites. Please be aware that CatalogLink is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each web site that collects personally identifiable information. This privacy statement applies solely to information collected by this site. 
+
+**6\. Other Information**
+
+    
+
+a. Child Use.  
+CatalogLink does not sell products for purchase by children. We sell children's products for purchase by adults. If you are under 18, you may use CatalogLink only with the involvement of a parent or guardian. 
+
+    b. Legal Disclaimer.  
+We may disclose personal information when required by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law or comply with a legal process served on our site.
+
+    c. Notification of Changes.  
+Our business changes constantly and our Privacy Policy will change accordingly. We may email periodic reminders of changes to our Privacy Policy, unless you have instructed us not to, but you should check our site frequently to see recent changes. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers. 
+
+If we decide to change our email practices, we will post those changes to this Privacy Policy statement, the homepage and other places we deem appropriate so that you are aware of what information we collect, how we use it and under what circumstances, if any, we disclose it.
+
+ **7\. Questions, Comments, Contact Information Regarding our Privacy Policy**
+
 If you have any questions or suggestions regarding our privacy policy, please contact us at:  
-Altura International  
-1 Lower Ragsdale Dr.  
+CatalogLink   
+1 Lower Ragsdale Drive  
 Building 1, Suite 210  
 Monterey, CA 93940  
-Telephone: (831) 649-2489  
-E-mail: [customerservice@cataloglink.com](mailto:customerservice@cataloglink.com)  
-Web: [Contact Customer Service](http://amos2.catalogcity.com/amos/cc/main/ccn_cs_email/ccsyn/45)  
+Telephone: (831) 647-4700  
+email: [customerservice@cataloglink.com](mailto:customerservice@cataloglink.com)
 
-
-Back to top of page | 
+If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe®](https://www.truste.org/pvr.php?page=complaint). 
