@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the king.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211000121id_/http%3A//www.king.com/support/privacy_policy_US.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the king.com privacy policy that was archived on 2008-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080412025528id_/http%3A//www6.king.com/support/privacy_policy_US.jsp) for the most accurate reproduction.*
 
-# Play Free Online games at King.com
+# Jouez en ligne gratuitement avec King.com
 
 Welcome to the King.com website run by Midasplayer.com Limited ("we," "us," and "our"). We are committed to respecting the privacy rights and concerns of all users of our King.com website (the "Site") (we refer to the Site and the services we provide as described in our Site collectively as the "Site Features"). As such, we have established and implemented this privacy statement to inform visitors to the Site and users of the Site Features how we use and protect the information we collect. If you have any questions regarding this information or our privacy practices, please see the section entitled "Questions? Contact Us" at the end of this privacy statement. This privacy statement was last updated on December, 2007. 
 
