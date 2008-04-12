@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4wdaction.com.au privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213050450id_/http%3A//www.4wdmonthly.com.au/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4wdaction.com.au privacy policy that was archived on 2008-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080412193248id_/http%3A//www.4wdmonthly.com.au/privacy_policy.php) for the most accurate reproduction.*
 
 # Australian 4WD Monthly dedicated to 4WD, 4x4, SUV, Truck, 4 wheel drive and off road community, loaded with tips, tests, reviews, travel, gallery and forum
 
@@ -16,7 +16,7 @@ We usually collect personal information such as your name, address, telephone nu
 
 We use your information to provide our services to you, to fulfill administrative functions associated with these services, for example billing, to enter into contracts with you or third parties and for marketing and client relationship purposes.
 
-We may share your information with other companies which are related to Australian 4WD Action/Express Publications, within and outside of Australia. We may also use your personally identifiable information to assist us in improving our products and services and we may also be in touch to let you know about goods, services, or promotions that may interest you. When we collect your information, we will give you the ability to indicate that you do not want us to use your personal information for disclosed secondary purposes. At any time, you may notify us of your preference on this issue by contacting us by any of the methods listed below.
+We may share your information with other companies which are related to Australian 4WD Action/Express Publications, within and outside of Australia. We may also use your personally identifiable information to assist us in improving our products and services and we may also be in touch to let you know about goods, services, or promotions that may interest you. By providing us with this information you acknowledge and consent that we are able to contact you by mail, email (or other electronic communications) or by telephone. When we collect your information, we will give you the ability to indicate that you do not want us to use your personal information for disclosed secondary purposes. At any time, you may notify us of your preference on this issue by contacting us by any of the methods listed below. 
 
 At any time, you may notify us of your preference on this issue by contacting our privacy officer as set out at the end of this document. Please allow a reasonable time for your preference to be implemented. 
 
@@ -66,4 +66,4 @@ Phone: +61 2 9741 3800
 
 2 Stanley Street Silverwater NSW 2128 
 
-Also read our [Safety Tips ](https://web.archive.org/web/20071213050450id_/http%3A//www.4wdmonthly.com.au/safety_tips.php) and [Terms and Conditions uf use](https://web.archive.org/web/20071213050450id_/http%3A//www.4wdmonthly.com.au/conditions_of_use.php)
+Also read our [Safety Tips ](https://web.archive.org/web/20080412193248id_/http%3A//www.4wdmonthly.com.au/safety_tips.php) and [Terms and Conditions uf use](https://web.archive.org/web/20080412193248id_/http%3A//www.4wdmonthly.com.au/conditions_of_use.php)
