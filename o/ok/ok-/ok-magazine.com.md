@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the ok-magazine.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213032812id_/http%3A//www.ok-magazine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ok-magazine.com privacy policy that was archived on 2008-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080412050201id_/http%3A//ok-magazine.com/privacy) for the most accurate reproduction.*
 
 # OK! Magazine - Privacy
-
-| 
 
 ## PRIVACY POLICY
 
@@ -97,28 +95,3 @@ From time to time we may make changes to our Privacy Policy. If we make changes,
 Any Queries? 
 
 If you have any queries or concerns about privacy on the Site, please contact us at: privacy@okmagazine.com or Privacy Policy Manager, OK! Magazine, Northern & Shell North America Limited, 475 Fifth Avenue, New York, NY 10017, USA. 
-
-|  |  [](https://web.archive.org/news/)
-
-[](http://www.okmagazine.com/trivia/)
-
-[](https://web.archive.org/myok/register/)
-
-#####  [Get your own  
-MYOK! space,   
-It's FREE to join.](https://web.archive.org/myok/register/)
-
-• Create your own profile • 
-
-Comment on Stories • Question the Editors • Plus lots more! 
-
-  1. PHOTOS [Hot Shots!](https://web.archive.org/pixandvids/gallery/1365/1/Hot-Shots!)
-  2. PHOTOS [OK! Exclusive: Howie Dorough's Wedding!](https://web.archive.org/pixandvids/gallery/3232/1/OK!-Exclusive:-Howie-Dorough's-Wedding!)
-  3. PHOTOS [Unwedded Parental Bliss](https://web.archive.org/pixandvids/gallery/3241/1/Unwedded-Parental-Bliss)
-  4. PHOTOS [OK! Exclusive: Nick & Vanessa's Xmas!](https://web.archive.org/pixandvids/gallery/3074/1/OK!-Exclusive:-Nick-&-Vanessa's-Xmas!)
-  5. PHOTOS [The Olsen's Fur-ocious Fashion](https://web.archive.org/pixandvids/gallery/3217/1/The-Olsen's-Fur-ocious-Fashion)
-
-
-
-|   
----|---|---|---|---
