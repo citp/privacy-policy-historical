@@ -1,28 +1,27 @@
-> *The following text is extracted and transformed from the clipclip.org privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207004716id_/http%3A//clipclip.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clipclip.org privacy policy that was archived on 2008-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080412072538id_/http%3A//www.clipclip.org/message/private_policy) for the most accurate reproduction.*
 
-# Untitled Document
+# : clipclip
 
-**About this Policy and What it Covers**
+## What This Privacy Policy Covers
 
-  * This privacy policy pertains to the use of all services related to CoolChaser Corporation (in formation), including the clipclip web site at [www.clipclip.org](http://www.clipclip.org/) and url website at [www.url.com](http://www.url.com/) .
+  * This privacy policy pertains to the use of all services related to CoolChaser Corporation (in formation), including the clipclip web site at [www.clipclip.org](http://www.clipclip.org/) and url website at [www.url.com](http://www.url.com/).
   * This privacy policy covers how CoolChaser treats personal information that CoolChaser collects and receives. Personal information is information about you that is personally identifiable including but not limited to your name, address, email address, or phone number.
   * Children under 13 are not permitted to use any CoolChaser services, and so this privacy policy makes no provision for children's use of the site.
 
 
 
-### Information Collection and How it is used
+## Information Collection and How it is used
 
-General Information
+**General Information**
 
   * CoolChaser collects personal information when you register with CoolChaser services, when you use CoolChaser services or when you post content on CoolChaser.
-  * When you register we may ask for your email address and certain optional information such as your name, birth date, birth place, gender, biographical information, ICQ/AIM/Yahoo/MSN user name, personal interests, photos, and more.
+  * When you register we may ask for your email address and certain optional information such as your name, birth date, birth place, gender, biographical information,ICQ/AIM/Yahoo/MSN user name, and personal interests.
   * CoolChaser automatically receives and records information on our server logs from your browser, including your IP address, cookie, and the page you request.
   * CoolChaser uses information for the following general purposes: products and services provision, identification and authentication, services improvement, contact, research, and anonymous reporting.
 
 
 
-IP Addresses
-
+**IP Addresses**   
 IP Addresses are automatically reported by your browser each time you view a web page. Your IP address is stored in our user registration databases when you register with CoolChaser.
 
 IP addresses may be used for various purposes, including:
@@ -34,36 +33,35 @@ IP addresses may be used for various purposes, including:
 
 
 
-Cookies
-
+**Cookies**   
 A cookie is a small amount of data, which often includes an anonymous unique identifier, that is sent to your browser from a web site's computers and stored on your computer's hard drive.
 
   * You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set.
-  * If you reject all cookies, you will not be able to use CoolChaser products or services that require you to "sign in," and you may not be able to take full advantage of the CoolChaser service.
+  * If you reject all cookies,you will not be able to use CoolChaser products or services that require you to"sign in," and you may not be able to take full advantage of the CoolChaser service.
   * CoolChaser uses its own cookies for a number of purposes, including to: 
     * Access your information when you "sign in".
     * Keep track of preferences you specify while you are using CoolChaser's services.
     * Display the most appropriate advertising banners, based on your interests and activity on CoolChaser.
     * Estimate and report our total audience size and traffic.
     * Conduct research to improve CoolChaser's content and services.
-  * CoolChaser lets other companies (such as Google) that show advertisements on some of our pages set and access their cookies on your computer. Other entities' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other entities do not have access to CoolChaser's cookies.
+    * CoolChaser lets other companies (such as Google) that show advertisements on some of our pages set and access their cookies on your computer. Other entities' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other entities do not have access to CoolChaser's cookies.
 
 
 
-### Information Sharing and Disclosure
+## Information Sharing and Disclosure
 
   * When you create a clip, post a message, vote or comment on any search results, your ID or alias that you are posting under is visible to other users as well as any information that you are posting.
-  * If you post personal contact information online that is accessible to the public, you may receive unsolicited messages from other parties in return.
-  * CoolChaser may be required to disclose personally identifiable information under special circumstances, such as to comply with subpoenas or when your actions violate the CoolChaser Terms of Service.
+  * If you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return.
+  * CoolChaser may be required to disclose personally identifiable information under special circumstances,such as to comply with subpoenas or when your actions violate the CoolChaser Terms of Service.
   * CoolChaser may share demographic information with business partners. No personally identifiable information will ever be used without your permission (i.e. we will ask you for a quote or testimonial)
   * CoolChaser does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you've requested or when we have your permission.
   * It may be necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of CoolChaser's terms of use, or as otherwise required by law.
-  * We will transfer information about you if CoolChaser or any of our services are acquired by or merged with another company. In this event, CoolChaser will notify you by email or by putting a prominent notice on the appropriate service web site before information about you is transferred and becomes subject to a different privacy policy.
+  * We will transfer information about you if CoolChaser is acquired by or merged with another company. In this event, CoolChaser will notify you by email or by putting a prominent notice on the CoolChaser web site before information about you is transferred and becomes subject to a different privacy policy.
   * CoolChaser displays targeted advertisements based on personal information that is exhibited in people's profiles. 
 
 
 
-### Editing and Deleting Account Information
+## Editing and Deleting Account Information
 
   * You can change your CoolChaser Account Information, at any time.
   * We may send you certain communications relating to the CoolChaser service, such as service announcements and administrative messages, that are considered part of your CoolChaser account.
@@ -72,16 +70,14 @@ A cookie is a small amount of data, which often includes an anonymous unique ide
 
 
 
-### Changes to this Privacy Policy
+## Changes to this Privacy Policy
 
 CoolChaser may update this policy at any time for any reason.
 
-### Questions
+## Questions
 
-If you have questions or suggestions you can contact us at:
-
-CoolChaser  
-1516 Howard Ave  
-Suite 2000   
-Burlingame CA 94010  
-USA
+If you have questions or suggestions you can contact us at:  
+NextSmallThings (a corporation in formation)  
+Suite 6502  
+1516 Howard Ave   
+Burlingame CA 94010
