@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ziplocal.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626152159id_/http%3A//www.ziplocal.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ziplocal.com privacy policy that was archived on 2008-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080412205340id_/http%3A//www.ziplocal.com/privacy) for the most accurate reproduction.*
 
-# ZipLocal - Find It - Your Way
+# Ziplocal.com
 
 This policy covers ZipLocal Inc.'s treatment of the personally identifiable information that ZipLocal.com collects when customers or visitors use our web site or our services. 
 
@@ -11,7 +11,7 @@ When you register with ZipLocal Inc., we ask you to divulge certain personally i
 ZipLocal Inc. is the sole owner of the information collected on the site. We will not sell, share, or rent this information to anyone except for the purpose of promoting your business. In addition, ZipLocal Inc. will send this information to companies or people when: 
 
   * we have your consent to share the information;
-  * we need to share the information to provide the product or service you have requested* ; 
+  * we need to share the information to provide the product or service you have requested; 
   * we respond to subpoenas, court orders, or legal processes; or 
   * we find that your actions on our web site violate ZipLocal Inc.'s Terms of Service. 
 
@@ -27,4 +27,4 @@ ZipLocal Inc. may amend this policy from time to time. If we make any substantia
 
 If you feel that ZipLocal Inc. is not abiding by its posted privacy policy, you should contact the Webmaster. 
 
-* We use an outside shipping company to provide specific services. When a user signs up for these services, we will share the necessary information for the shipping company to provide these services. These parties are not allowed to use this information except for the purpose of providing these services. 
+We use an outside shipping company to provide specific services. When a user signs up for these services, we will share the necessary information for the shipping company to provide these services. These parties are not allowed to use this information except for the purpose of providing these services. 
