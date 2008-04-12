@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cornerstoneondemand.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211231330id_/http%3A//www.cornerstoneondemand.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cornerstoneondemand.com privacy policy that was archived on 2008-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080412212327id_/http%3A//www.cornerstoneondemand.com/privacy.html) for the most accurate reproduction.*
 
-# Cornerstone OnDemand
+# Cornerstone OnDemand Privacy Policy
 
 Visitors to the Cornerstone website may provide us with two types of information: Personal information, such as your name, address, e-mail address, etc; andGeneral web usage information, such as your browser type, domain name, etc.
 
