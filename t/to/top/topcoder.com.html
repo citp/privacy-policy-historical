@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the topcoder.com privacy policy that was archived on 2007-12-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071213073232id_/http%3A//www.topcoder.com/tc%3Fmodule%3DStatic%26d1%3Dabout%26d2%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the topcoder.com privacy policy that was archived on 2008-04-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080412041556id_/http%3A//www.topcoder.com/tc%3Fmodule%3DStatic%26d1%3Dabout%26d2%3Dprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 <title>Privacy Policy of TopCoder</title>
@@ -15,7 +15,7 @@
 
 <link type="text/css" rel="stylesheet" href="/css/style.css">
 <link type="text/css" rel="stylesheet" href="/css/coders.css">
-<link type="text/css" rel="stylesheet" href="/css/tcStyles.css">
+<link type="text/css" rel="stylesheet" href="/css/tcStyles20080219.css">
 
 
 
@@ -28,61 +28,23 @@
 
 
 
-<script type="text/javascript">
-var objTopPopUp = null;
-// called when you topPopup at the bottom right of an object
-function topPopUp(topPopper,topPopupID) {
-    var pos = findPos(topPopper);
-    var x = pos[0] + topPopper.offsetWidth + 2;
-    var y = pos[1] + topPopper.offsetHeight + 2;
-    topPopShow(x,y,topPopupID);
-}
-// called when you know the exact spot you want to topPop up at
-function topPopShow(posX,posY,topPopupID) {
-    objTopPopUp = document.getElementById(topPopupID);
-    objTopPopUp.style.left = posX + 'px';
-    objTopPopUp.style.top = posY + 'px';
-    objTopPopUp.style.display = 'block';
-}
-function topPopHide() {
-    objTopPopUp.style.display = 'none';
-    objTopPopUp = null;
-}
-function findPos(obj) {
-    var curLeft = curTop = 0;
-    if (obj.offsetParent) {
-        curLeft = obj.offsetLeft;
-        curTop = obj.offsetTop;
-        while (obj = obj.offsetParent) {
-            curLeft += obj.offsetLeft;
-            curTop += obj.offsetTop;
-        }
-    }
-    return [curLeft,curTop];
-}
-</script>
 
+<script type="text/javascript" src="/js/popup.js"></script>
 
-<div id="launch0" class="popUp"><div><strong>Competitions Home</strong></div></div>
-<div id="launch1" class="popUp"><div><strong>Launch Algorithm Competitions Arena</strong></div></div>
-<div id="launch2" class="popUp"><div><strong>Launch High School Competitions Arena</strong></div></div>
-<div id="launch3" class="popUp"><div><strong>Component Design Active Contests</strong></div></div>
-<div id="launch4" class="popUp"><div><strong>Component Development Active Contests</strong></div></div>
-<div id="launch5" class="popUp"><div><strong>Marathon Match Active Contests</strong></div></div>
+<div id="shortcutBar">
+    <div class="icon"><a href="http://www.topcoder.com/tc"><img src="/i/interface/scHome.png" alt="" onmouseover="postPopUpText('globalPopupText','Home'); popUp(this,'globalPopup');" onmouseout="popHide()"></a></div>
+    <div class="icon"><a href="javascript:arena();"><img src="/i/interface/scAlgo.png" alt="" onmouseover="postPopUpText('globalPopupText','Algorithm Competitions'); popUp(this,'globalPopup');" onmouseout="popHide()"></a></div>
+    <div class="icon"><a href="http://www.topcoder.com/tc?module=ViewArchitectureActiveContests"><img src="/i/interface/scArchitecture.png" alt="" onmouseover="postPopUpText('globalPopupText','Software Architecture Competitions'); popUp(this,'globalPopup');" onmouseout="popHide()"></a></div>
+    <div class="icon"><a href="http://www.topcoder.com/tc?module=ViewActiveContests&amp;ph=112"><img src="/i/interface/scDesign.png" alt="" onmouseover="postPopUpText('globalPopupText','Component Design Competitions'); popUp(this,'globalPopup');" onmouseout="popHide()"></a></div>
+    <div class="icon"><a href="http://www.topcoder.com/tc?module=ViewActiveContests&amp;ph=113"><img src="/i/interface/scDevelopment.png" alt="" onmouseover="postPopUpText('globalPopupText','Component Development Competitions'); popUp(this,'globalPopup');" onmouseout="popHide()"></a></div>
 
-<map name="competeBar" id="competeBar">
-<area shape="rect" alt="" coords="0,0,66,30" href="http://www.topcoder.com/tc" onmouseover="topPopShow(73,65,'launch0')" onmouseout="topPopHide()">
-<area shape="rect" alt="" coords="68,0,106,30" href="javascript:arena();" onmouseover="topPopShow(108,65,'launch1')" onmouseout="topPopHide()">
-<area shape="rect" alt="" coords="107,0,153,30" href="javascript:arena();" onmouseover="topPopShow(155,65,'launch2')" onmouseout="topPopHide()">
-<area shape="rect" alt="" coords="154,0,179,30" href="http://www.topcoder.com/tc?module=ViewActiveContests&amp;ph=112" onmouseover="topPopShow(181,65,'launch3')" onmouseout="topPopHide()">
-<area shape="rect" alt="" coords="180,0,205,30" href="http://www.topcoder.com/tc?module=ViewActiveContests&amp;ph=113" onmouseover="topPopShow(207,65,'launch4')" onmouseout="topPopHide()">
-<area shape="rect" alt="" coords="206,0,250,30" href="http://www.topcoder.com/longcontest/?module=ViewActiveContests" onmouseover="topPopShow(252,65,'launch5')" onmouseout="topPopHide()">
-</map>
-
-
-<div style="position: absolute; left:0; top:31px; background: transparent;">
-   <img src="/i/interface/competeBar.gif" alt="" usemap="#competeBar">
+    <div class="icon"><a href="http://www.topcoder.com/tc?module=ViewAssemblyActiveContests"><img src="/i/interface/scAssembly.png" alt="" onmouseover="postPopUpText('globalPopupText','Software Assembly Competitions'); popUp(this,'globalPopup');" onmouseout="popHide()"></a></div>
+    <div class="icon"><a href="javascript:arena();"><img src="/i/interface/scTCHS.png" alt="" onmouseover="postPopUpText('globalPopupText','High School Competitions'); popUp(this,'globalPopup');" onmouseout="popHide()"></a></div>
+    <div class="icon"><a href="http://www.topcoder.com/longcontest/?module=ViewActiveContests"><img src="/i/interface/scMarathon.png" alt="" onmouseover="postPopUpText('globalPopupText','Marathon Matches'); popUp(this,'globalPopup');" onmouseout="popHide()"></a></div>
+    <div class="icon"><a href="http://studio.topcoder.com/?module=ViewActiveContests"><img src="/i/interface/scStudio.png" alt="" onmouseover="postPopUpText('globalPopupText','TopCoder Studio Competitions'); popUp(this,'globalPopup');" onmouseout="popHide()"></a></div>
 </div>
+
+<div id="globalPopup" class="popUp"><div id="globalPopupText"></div></div>
 
 
 <div style="position: absolute; right:0px; top:31px;"><a href="http://www.topcoder.com/reg/"><img src="/i/interface/register_now.gif" alt="Register Now" style="display:block;"></a></div>
@@ -97,10 +59,10 @@ function findPos(obj) {
 </div>
 
 <div class="memberCountBox">
-Member Count: 133,539 - 
+Member Count: 145,908 - 
 
 
-December 13, 2007
+April 12, 2008
 
 &nbsp;<a class="gMetal" href="Javascript:tcTime()">[Get Time]</a>
 </div>
@@ -213,13 +175,25 @@ function flipMenu(myMenuName){
 <li><a href="http://www.topcoder.com/wiki/display/tc/Write+Problems+for+TopCoder">Write Problems</a></li>
 </ul></li>
 </ul></li>
+<li class="exp"><a href="javascript:void(0)" onclick="Javascript:toggleMenu(this.parentNode,'m_architecture_competitions')">Software Architecture</a>
+<ul id="m_architecture_competitions">
+<li><a href="http://www.topcoder.com/wiki/display/tc/Architecture+Overview">Overview</a></li>
+<li><a href="http://www.topcoder.com/tc?module=ViewArchitectureActiveContests">Active Contests</a></li>
+<li><a href="http://www.topcoder.com/tc?module=ContestStatus&amp;pt=7">Contest Status</a></li>
+<li><a href="http://software.topcoder.com/review">Submit &amp; Review</a></li>
+<li><a href="http://www.topcoder.com/wiki/display/tc/TopCoder+UML+Tool">UML Tool</a></li>
+<li class="exp"><a href="javascript:void(0)" onclick="Javascript:toggleMenu(this.parentNode,'m_architecture_support')">Support / FAQs</a>
+<ul id="m_architecture_support">
+<li><a href="http://www.topcoder.com/wiki/display/tc/How+to+Compete+in+Architecture+Competitions">How to Compete</a></li>
+</ul></li>
+</ul></li>
 <li class="exp"><a href="javascript:void(0)" onclick="Javascript:toggleMenu(this.parentNode,'m_des_competitions')">Software Design</a>
 <ul id="m_des_competitions">
 <li><a href="http://www.topcoder.com/tc?module=ViewActiveContests&amp;ph=112">Active Contests</a></li>
-<li><a href="http://www.topcoder.com/tc?module=ContestStatus&amp;ph=112">Contest Status</a></li>
+<li><a href="http://www.topcoder.com/tc?module=ContestStatus&amp;pt=1">Contest Status</a></li>
 <li><a href="http://www.topcoder.com/tc?module=ViewReviewProjects&amp;ph=112">Review Opportunities</a></li>
 <li><a href="http://software.topcoder.com/review">Submit &amp; Review</a></li>
-<li><a href="http://www.topcoder.com/tc?module=Static&amp;d1=dev&amp;d2=umltool&amp;d3=description&amp;node=des_uml_tool">UML Tool</a></li>
+<li><a href="http://www.topcoder.com/wiki/display/tc/TopCoder+UML+Tool">UML Tool</a></li>
 <li class="exp"><a href="javascript:void(0)" onclick="Javascript:toggleMenu(this.parentNode,'m_des_stats')">Statistics</a>
 <ul id="m_des_stats">
 <li><a href="http://www.topcoder.com/tc?module=CompList&amp;ph=112">Past Contests</a></li>
@@ -238,10 +212,10 @@ function flipMenu(myMenuName){
 <li class="exp"><a href="javascript:void(0)" onclick="Javascript:toggleMenu(this.parentNode,'m_dev_competitions')">Software Development</a>
 <ul id="m_dev_competitions">
 <li><a href="http://www.topcoder.com/tc?module=ViewActiveContests&amp;ph=113">Active Contests</a></li>
-<li><a href="http://www.topcoder.com/tc?module=ContestStatus&amp;ph=113">Contest Status</a></li>
+<li><a href="http://www.topcoder.com/tc?module=ContestStatus&amp;pt=2">Contest Status</a></li>
 <li><a href="http://www.topcoder.com/tc?module=ViewReviewProjects&amp;ph=113">Review Opportunities</a></li>
 <li><a href="http://software.topcoder.com/review">Submit &amp; Review</a></li>
-<li><a href="http://www.topcoder.com/tc?module=Static&amp;d1=dev&amp;d2=umltool&amp;d3=description&amp;node=dev_uml_tool">UML Tool</a></li>
+<li><a href="http://www.topcoder.com/wiki/display/tc/TopCoder+UML+Tool">UML Tool</a></li>
 <li class="exp"><a href="javascript:void(0)" onclick="Javascript:toggleMenu(this.parentNode,'m_dev_stats')">Statistics</a>
 <ul id="m_dev_stats">
 <li><a href="http://www.topcoder.com/tc?module=CompList&amp;ph=113">Past Contests</a></li>
@@ -259,25 +233,35 @@ function flipMenu(myMenuName){
 </ul></li>
 <li class="exp"><a href="javascript:void(0)" onclick="Javascript:toggleMenu(this.parentNode,'m_assembly_competitions')">Software Assembly</a>
 <ul id="m_assembly_competitions">
-<li><a href="http://www.topcoder.com/tc?module=Static&amp;d1=dev&amp;d2=assembly&amp;d3=overview">Overview</a></li>
-<li><a href="http://www.topcoder.com/registration/actions/Registration.do?method=openRegistrations">Active Contests</a></li>
+<li><a href="http://www.topcoder.com/wiki/display/tc/Assembly">Overview</a></li>
+<li><a href="http://www.topcoder.com/tc?module=ViewAssemblyActiveContests">Active Contests</a></li>
+<li><a href="http://www.topcoder.com/tc?module=ContestStatus&amp;pt=14">Contest Status</a></li>
 <li><a href="http://software.topcoder.com/review">Submit &amp; Review</a></li>
 <li class="exp"><a href="javascript:void(0)" onclick="Javascript:toggleMenu(this.parentNode,'m_assembly_support')">Support / FAQs</a>
 <ul id="m_assembly_support">
-<li><a href="http://www.topcoder.com/tc?module=Static&amp;d1=dev&amp;d2=assembly&amp;d3=instructions">How to Compete</a></li>
-<li><a href="http://www.topcoder.com/tc?module=Static&amp;d1=dev&amp;d2=assembly&amp;d3=tutorial">Tutorial</a></li>
-<li><a href="http://www.topcoder.com/tc?module=Static&amp;d1=dev&amp;d2=assembly&amp;d3=documentation">Documentation</a></li>
+<li><a href="http://www.topcoder.com/wiki/display/tc/How+to+Compete+in+Assembly+Competitions">How to Compete</a></li>
+<li><a href="http://www.topcoder.com/wiki/display/tc/Assembly+Competition+Tutorial">Tutorial</a></li>
+<li><a href="http://www.topcoder.com/wiki/display/tc/Assembly+Competition+Documentation">Documentation</a></li>
 </ul></li>
 </ul></li>
 <li class="exp"><a href="javascript:void(0)" onclick="Javascript:toggleMenu(this.parentNode,'m_testing_competitions')">Software Testing</a>
 <ul id="m_testing_competitions">
 <li><a href="http://www.topcoder.com/tc?module=Static&amp;d1=dev&amp;d2=testing&amp;d3=overview">Overview</a></li>
-<li><a href="http://www.topcoder.com/tc?module=Static&amp;d1=dev&amp;d2=testing&amp;d3=activeContests">Active Contests</a></li>
+<li><a href="http://www.topcoder.com/wiki/display/tc/Testing+Active+Contests">Active Contests</a></li>
 <li class="exp"><a href="javascript:void(0)" onclick="Javascript:toggleMenu(this.parentNode,'m_testing_support')">Support / FAQs</a>
 <ul id="m_testing_support">
 <li><a href="http://www.topcoder.com/tc?module=Static&amp;d1=dev&amp;d2=testing&amp;d3=instructions">How to Compete</a></li>
 <li><a href="http://www.topcoder.com/tc?module=Static&amp;d1=dev&amp;d2=testing&amp;d3=tutorial">Tutorial</a></li>
 <li><a href="http://www.topcoder.com/tc?module=Static&amp;d1=dev&amp;d2=testing&amp;d3=documentation">Documentation</a></li>
+</ul></li>
+</ul></li>
+<li class="exp"><a href="javascript:void(0)" onclick="Javascript:toggleMenu(this.parentNode,'m_bugraces_competitions')">Bug Races</a>
+<ul id="m_bugraces_competitions">
+<li><a href="http://www.topcoder.com/wiki/display/tc/Bug+Races">Overview</a></li>
+<li><a href="http://www.topcoder.com/wiki/display/tc/Active+Bug+Races">Active Contests</a></li>
+<li class="exp"><a href="javascript:void(0)" onclick="Javascript:toggleMenu(this.parentNode,'m_bugraces_support')">Support / FAQs</a>
+<ul id="m_bugraces_support">
+<li><a href="http://www.topcoder.com/wiki/display/tc/How+to+Compete+in+Bug+Races">How to Compete</a></li>
 </ul></li>
 </ul></li>
 <li class="exp"><a href="javascript:void(0)" onclick="Javascript:toggleMenu(this.parentNode,'m_hs_competitions')">High School</a>
@@ -420,7 +404,7 @@ Our privacy policy and security measures are periodically reviewed and enhanced 
 California Civil Code Section 1798.83 permits registered users who are California residents to request certain information regarding disclosure of personal information to third parties for their direct marketing purposes.  To request such information, please e-mail <a href="mailto:service@topcoder.com">service@topcoder.com</a> or write to us at:
 <br><br>
 TopCoder<br>
-703 Hebron Avenue<br>
+95 Glastonbury Blvd<br>
 Glastonbury, CT  06033
 <br><br>
 <span class="bodySubtitle">Information About All TopCoder Visitors</span><br>
@@ -511,13 +495,14 @@ Thank you for visiting our site.  We'll keep working hard to earn your loyalty.
             <a href="http://www.topcoder.com/tc?module=Static&amp;d1=about&amp;d2=index" class="footerLinks">About TopCoder</a>&nbsp;&nbsp;|&nbsp;&nbsp;
             <a href="http://www.topcoder.com/tc?module=Static&amp;d1=pressroom&amp;d2=index" class="footerLinks">Press Room</a>&nbsp;&nbsp;|&nbsp;&nbsp;
             <a href="http://www.topcoder.com/tc?module=Static&amp;d1=about&amp;d2=contactus" class="footerLinks">Contact Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+            <a href="http://www.topcoder.com/tc?module=Static&amp;d1=about&amp;d2=jobs" class="footerLinks">Careers</a>&nbsp;&nbsp;|&nbsp;&nbsp;
             <a href="http://www.topcoder.com/tc?module=Static&amp;d1=about&amp;d2=privacy" class="footerLinks">Privacy</a>&nbsp;&nbsp;|&nbsp;&nbsp;
             <a href="http://www.topcoder.com/tc?module=Static&amp;d1=about&amp;d2=terms" class="footerLinks">Terms</a>
             <br>
-            <a href="http://www.topcoder.com/tc" class="footerLinks">Developer Center</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-            <a href="http://www.topcoder.com/corp/?module=Static&amp;d1=corp&amp;d2=index" class="footerLinks">Corporate Services</a>        </td>
+            <a href="http://www.topcoder.com/tc" class="footerLinks">Competitions</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+            <a href="http://software.topcoder.com/" class="footerLinks">Software</a>        </td>
     </tr>
-    <tr><td width="100%" class="copyright">Copyright © 2001-2007, TopCoder, Inc. All rights reserved.</td></tr>
+    <tr><td width="100%" class="copyright">Copyright © 2001-2008, TopCoder, Inc. All rights reserved.</td></tr>
 </tbody>
 </table>
 
