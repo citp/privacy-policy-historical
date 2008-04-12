@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topcoder.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213073232id_/http%3A//www.topcoder.com/tc%3Fmodule%3DStatic%26d1%3Dabout%26d2%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topcoder.com privacy policy that was archived on 2008-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080412041556id_/http%3A//www.topcoder.com/tc%3Fmodule%3DStatic%26d1%3Dabout%26d2%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy of TopCoder
 
@@ -17,7 +17,7 @@ Your California Privacy Rights.
 California Civil Code Section 1798.83 permits registered users who are California residents to request certain information regarding disclosure of personal information to third parties for their direct marketing purposes. To request such information, please e-mail [service@topcoder.com](mailto:service@topcoder.com) or write to us at: 
 
 TopCoder  
-703 Hebron Avenue  
+95 Glastonbury Blvd  
 Glastonbury, CT 06033 
 
 Information About All TopCoder Visitors  
