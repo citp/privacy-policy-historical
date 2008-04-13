@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the melbourneairport.com.au privacy policy that was archived on 2007-12-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071213004118id_/http%3A//www.melbourneairport.com.au/site_tools/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the melbourneairport.com.au privacy policy that was archived on 2008-04-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080413134931id_/http%3A//www.melbourneairport.com.au/site_tools/privacy.asp) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"><head style="">
 
 
 
@@ -26,6 +26,7 @@
 <meta name="verify-v1" content="ubsV73/YBvHGZD2omAyE0dg0AmYZHU3FU9hzMYA+STM=">
 <meta name="verify-v1" content="Qh4/Rc6lOqIHGP+ohk4At86VKiPa5SposlDJOkhn024=">
 <meta name="GOOGLEBOT" content="NOODP">
+
 <!--
 
 	// Copyright 2005 Melbourne Airport Inc, All Rights Reserved.
@@ -63,7 +64,27 @@ function Validate()
 		return true;
 	}
 }
+function TextBoxClearClick(sender, defaultString)
+        {
+            if (sender.value == defaultString) 
+            {
+                sender.value = "";
+            }
+         }
+function TextBoxFill(sender, defaultString)
+        {
+            if (sender.value == "") 
+            {
+                sender.value =defaultString;
+            }
+         }
+
 </script>
+
+<script src="/javascript/sifr.js" type="text/javascript"></script>
+<script src="/javascript/sifr-debug.js" type="text/javascript"></script>
+<script src="/javascript/sifr-config.js" type="text/javascript"></script>
+
 
 <!--[if lte IE 6]>
 <style type="text/css" media="screen">
@@ -146,15 +167,15 @@ div#centerCon {
 				<li><a href="/site_tools/sitemap.asp"><img src="/images/nav/sitemap.gif" alt="Sitemap" width="57" height="34" title=""></a></li>
 				<li><a href="/site_tools/contact.asp"><img src="/images/nav/contact_us.gif" alt="Contact Us" width="67" height="34" title=""></a></li>
 				<li><a href="/site_tools/feedback.asp"><img src="/images/nav/feedback.gif" alt="Feedback" width="64" height="34" title=""></a></li>
-				<li>
+				<!--<li>
 					<form method="get" action="http://www.innerprisesearch.com/esearch/search.aspx">
-						<input class="textfeild" name="search" type="text" value="">
-						<input class="searchBtn" name="submit" value="Search" type="image" src="/images/nav/search.gif" alt="Search">
-						<input type="hidden" name="id" value="IS10122">
-						<input type="hidden" name="return" value="20">
-						<input type="hidden" name="omit" value="false">
+						<input class="textfeild" name="search" type="text" value="" />
+						<input class="searchBtn" name="submit" value="Search" type="image" src="/images/nav/search.gif" alt="Search" />
+						<input type="hidden" name="id" value="IS10122" />
+						<input type="hidden" name="return" value="20" />
+						<input type="hidden" name="omit" value="false" />
 					</form>
-				</li>
+				</li>-->
 			</ul>
 		</div>
 	</div>
@@ -190,6 +211,7 @@ div#centerCon {
 					<li><a onmouseover="image_swap('imageNav03')" onmouseout="image_restore('imageNav03')" href="/to_from_airport/rental_cars.asp">Rental Cars</a></li>
 					<li><a onmouseover="image_swap('imageNav03')" onmouseout="image_restore('imageNav03')" href="/to_from_airport/taxis.asp">Taxis</a></li>
 					<li><a onmouseover="image_swap('imageNav03')" onmouseout="image_restore('imageNav03')" href="/to_from_airport/bus_services.asp">Bus Services</a></li>
+					<li><a onmouseover="image_swap('imageNav03')" onmouseout="image_restore('imageNav03')" href="/to_from_airport/citylink_plus.asp">CityLink Plus</a></li>
 				</ul>
 				
 		</li>
@@ -206,6 +228,7 @@ div#centerCon {
 					<li><a onmouseover="image_swap('imageNav04')" onmouseout="image_restore('imageNav04')" href="/passenger_info/international_departures.asp">International Departures</a></li>
 					<li><a onmouseover="image_swap('imageNav04')" onmouseout="image_restore('imageNav04')" href="/passenger_info/domestic_passengers.asp">Domestic Passengers</a></li>
 					<li><a onmouseover="image_swap('imageNav04')" onmouseout="image_restore('imageNav04')" href="/passenger_info/security.asp">Security Information</a></li>
+					<li><a onmouseover="image_swap('imageNav04')" onmouseout="image_restore('imageNav04')" href="/passenger_info/wifi.asp">Wireless Internet</a></li>
 				</ul>
 				
 		</li>
@@ -237,7 +260,7 @@ div#centerCon {
 					<li><a onmouseover="image_swap('imageNav06')" onmouseout="image_restore('imageNav06')" href="/airport_facilities/golfclub.asp">Golf Club</a></li>
 					<li><a onmouseover="image_swap('imageNav06')" onmouseout="image_restore('imageNav06')" href="/airport_facilities/hotels.asp">Hotels</a></li>
 					<li><a onmouseover="image_swap('imageNav06')" onmouseout="image_restore('imageNav06')" href="/airport_facilities/luggage_services.asp">Luggage Services</a></li>
-					<li><a onmouseover="image_swap('imageNav06')" onmouseout="image_restore('imageNav06')" href="/airport_facilities/medical.asp">Medical</a></li>
+					<!--<li><a onmouseover="image_swap('imageNav06')" onmouseout="image_restore('imageNav06')" href="/airport_facilities/medical.asp">Medical</a></li>-->
 					<li><a onmouseover="image_swap('imageNav06')" onmouseout="image_restore('imageNav06')" href="/airport_facilities/travellers_info.asp">Travellers' Information Desk / Lost Property</a></li>
 				</ul>
 				
@@ -263,6 +286,7 @@ div#centerCon {
 				<li><a onmouseover="image_swap('imageNav08')" onmouseout="image_restore('imageNav08')" href="/about_airport/planning.asp">Planning</a></li>
 				<li><a onmouseover="image_swap('imageNav08')" onmouseout="image_restore('imageNav08')" href="/about_airport/freight.asp">Freight</a></li>
 				<li><a onmouseover="image_swap('imageNav08')" onmouseout="image_restore('imageNav08')" href="/about_airport/property/">Property</a></li>
+				<li><a onmouseover="image_swap('imageNav08')" onmouseout="image_restore('imageNav08')" href="/about_airport/retail_space.asp">Retail Space</a></li>
 				<li><a onmouseover="image_swap('imageNav08')" onmouseout="image_restore('imageNav08')" href="/about_airport/facts_figures/">Facts &amp; Figures</a></li>
 				<li><a onmouseover="image_swap('imageNav08')" onmouseout="image_restore('imageNav08')" href="/about_airport/awards.asp">Awards</a></li>
 				<li><a onmouseover="image_swap('imageNav08')" onmouseout="image_restore('imageNav08')" href="/about_airport/melbourne_events.asp">Melbourne Events</a></li>
@@ -284,7 +308,7 @@ div#centerCon {
 		</div>
 	
 
-	<a name="mainContent"></a>
+	<!--<a name="mainContent"></a>-->
 
 
 
@@ -524,8 +548,8 @@ div#centerCon {
 			privacy issues are to be directed immediately to the Company Secretary who carries responsibility 
 			for compliance and resolution of complaints.</p>
 			
-			<p class="strong">Chris Barlow<br>Chief Executive Officer</p>
-			<p class="note">Last updated 12 Jan 2006</p>
+			<p class="strong">Chris Woodruff<br>Chief Executive Officer</p>
+			<p class="note">Last updated 29 Feb 2008</p>
 			
 			<h3>Liability Disclaimer</h3>
 			
@@ -562,24 +586,25 @@ div#centerCon {
 	<!-- footer -->
 	<div id="ftrCon">
 		<div class="con01">
-			Copyright © 2007 Melbourne Airport Inc. All rights reserved.
+			Copyright © 2008 Melbourne Airport Inc. All rights reserved.<br>
+			Melbourne Airport is a trade mark of Australia Pacific Airports (Melbourne) Pty Ltd.
 			<div class="noPrint">
 				<ul>
-					<li><a href="/site_tools/privacy.asp">Disclaimer / Privacy Policy</a>&nbsp;|&nbsp;</li>
-					<li><a href="/site_tools/about_site.asp">About this site</a>&nbsp;|&nbsp;</li>
-					<li><a href="/fids/info.asp">Melbourne Airport Arrival Times</a>&nbsp;|&nbsp;</li>
-					<li><a href="/fids/info.asp">Melbourne Airport Departure Times</a>&nbsp;|&nbsp;</li>
-					<li><a href="/to_from_airport/parking/index.asp">Airport Parking Tullamarine</a>&nbsp;|&nbsp;</li>
-					<li><a href="/to_from_airport/parking/index.asp">Melbourne Airport Car Parking</a>&nbsp;|&nbsp;</li>
-					<li><a href="/passenger_info/airport_map.asp">Melbourne Airport Map</a>&nbsp;|&nbsp;</li>
-					<li><a href="/shopping_eating/">Melbourne Airport shopping and Eating</a>&nbsp;|&nbsp;</li>
-					<li><a href="/airport_facilities/">Melbourne Airport Facilities and Services</a>&nbsp;|&nbsp;</li>
-					<li><a href="/shopping_eating/shopping_eating_item.asp?id=49">Melbourne Airport Duty Free</a>&nbsp;|&nbsp;</li>
-					<li><a href="/about_airport/">Melbourne Airport Information</a>&nbsp;|&nbsp;</li>
-					<li><a href="http://www.reactive.com/">Website design</a> by Reactive</li>
-				</ul>
-		  </div>
-		</div>
+					<li><a href="/site_tools/privacy.asp">Disclaimer / Privacy Policy</a><img src="/images/elements/footer-bullet.gif" width="3" height="3" alt="" align="absmiddle"></li>
+					<li><a href="/site_tools/about_site.asp">About this site</a><img src="/images/elements/footer-bullet.gif" width="3" height="3" alt="" align="absmiddle"></li>
+					<li><a href="/fids/info.asp">Melbourne Airport Arrival Times</a><img src="/images/elements/footer-bullet.gif" width="3" height="3" alt="" align="absmiddle"></li>
+					<li><a href="/fids/info.asp">Melbourne Airport Departure Times</a><img src="/images/elements/footer-bullet.gif" width="3" height="3" alt="" align="absmiddle"></li>
+					<li><a href="/to_from_airport/parking/index.asp">Airport Parking Tullamarine</a><img src="/images/elements/footer-bullet.gif" width="3" height="3" alt="" align="absmiddle"></li>
+					<li><a href="/to_from_airport/parking/index.asp">Melbourne Airport Car Parking</a><img src="/images/elements/footer-bullet.gif" width="3" height="3" alt="" align="absmiddle"></li>
+					<li><a href="/passenger_info/airport_map.asp">Melbourne Airport Map</a><img src="/images/elements/footer-bullet.gif" width="3" height="3" alt="" align="absmiddle"></li>
+					<li><a href="/shopping_eating/">Melbourne Airport shopping and Eating</a><img src="/images/elements/footer-bullet.gif" width="3" height="3" alt="" align="absmiddle"></li>
+					<li><a href="/airport_facilities/">Melbourne Airport Facilities and Services</a><img src="/images/elements/footer-bullet.gif" width="3" height="3" alt="" align="absmiddle"></li>
+					<li><a href="/shopping_eating/shopping_eating_item.asp?id=49">Melbourne Airport Duty Free</a><img src="/images/elements/footer-bullet.gif" width="3" height="3" alt="" align="absmiddle"></li>
+					<li><a href="/about_airport/">Melbourne Airport Information</a><img src="/images/elements/footer-bullet.gif" width="3" height="3" alt="" align="absmiddle"></li>
+					<li><a href="http://www.reactive.com/">Website design by Reactive</a></li>
+				</ul><br class="clear">
+	    </div>
+	</div>
 		<div class="topofPage">
 				<a href="#top">Top of Page</a>
 		</div>
