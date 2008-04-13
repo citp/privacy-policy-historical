@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the grubstreet.ca privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214113853id_/http%3A//www.grubstreet.ca/articles/adminstuff/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grubstreet.ca privacy policy that was archived on 2008-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080414005314id_/http%3A//grubstreet.ca/articles/adminstuff/privacy.htm) for the most accurate reproduction.*
 
-# Grub Street: Administrative Stuff
+# Grub Street: Admin Stuff
 
 **Privacy**
 
@@ -9,6 +9,10 @@ we don't care who you are, in a nice way, of course, only that we cause you to t
 ** g** **rubstreet.ca** values your privacy.
 
 Visitors aren't required to register to use the site nor is personal information about users stored. The term "personal information" means data, such as user name, IP address, browser type and so forth. The sole exception is general information used to determine number and legitimacy of visitors, primarily, but not exclusively, for advertising-related purposes, such as enumerations. 
+
+All content is moderated. ** g** **rubstreet.ca** doesn't post content that openly advocates violence, is pornographic or promotes, in an unbalanced way, pharmaceuticals, illegal actions or ethnocentricity, including anti-gay materials. ** g** **rubstreet.ca** does post reasonably balanced, factual and thoughtful comment or opinion on any topic; we may post fiction, with a sensuous undertone, serious analyses of illegal actions, such as an argument for the legalization of prostitution or a day in the life of a drug dealer.
+
+Adjectives make the difference. Balance, factual, thoughtful, sensuous, serious and analyses make your ideas artful and welcome on ** g** **rubstreet.ca**. The downside is art is often in the mind of the beholder. Editors make decisions and all editorial decisions are open to balance, factual, thoughtful, sensuous, serious and analytical appeals.
 
 [ StatCounter](http://www.statcounter.com/), which tracks visitors to 
 
@@ -28,4 +32,4 @@ grubstreet
 **  
 grubstreet.ca** retains and reserves the right to modify this privacy page from time to time, without notice and at its sole discretion. Any and all modifications take effect when posted, unless otherwise expressly stated.
 
-Revised 27 September 2007. **[Home](http://www.grubstreet.ca/)**
+Revised 23 January 2008. 
