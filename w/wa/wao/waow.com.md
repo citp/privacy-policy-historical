@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the waow.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214051423id_/http%3A//www.waow.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waow.com privacy policy that was archived on 2008-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080413035027id_/http%3A//www.waow.com/privacy.php) for the most accurate reproduction.*
 
 # WAOW TV :: Wausau, WI
 
