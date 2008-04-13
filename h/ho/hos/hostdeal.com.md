@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the hostdeal.com privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219155419id_/http%3A//www.hostdeal.com%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostdeal.com privacy policy that was archived on 2008-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080413235539id_/http%3A//www.hostdeal.com%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Hostdeal.com
 
-**Privacy Statement**  
 At Hostdeal.com, we are committed to protecting your privacy. The limited information we do collect is used to provide you with a personalized experience, better service, and at times, bring you value-added offers from our partners.
 
 **The Information Collected and How It Is Used**
